@@ -29,7 +29,7 @@ As the first player in the flow, it is responsible for sending the payment infor
 
 Then it gets a response on the payment approval and continuation of the purchase flow, or its cancellation.
 
-As intermediaries between an e-commerce and its means of payment, **gateways** act as a terminal, integrating  all transactions made between players in the payment flow in one place.
+As intermediaries between an e-commerce and its means of payment, **gateways** act as a terminal, integrating all transactions made between players in the payment flow in one place.
 
 Gateways examples: Pagar.me and Stripe.
 

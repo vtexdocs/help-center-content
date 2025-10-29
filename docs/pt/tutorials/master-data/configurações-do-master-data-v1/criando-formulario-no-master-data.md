@@ -40,7 +40,7 @@ Para criar um formulário, siga os passos abaixo:
 
    Se a sigla da entidade __Lista de compras__ for __LC__ e o nome do campo for __Cliente__, deve ser inserido `LC.Cliente` para carregar os atendimentos do cliente que está sendo visualizado no formulário.
 
-   ![registrosRelacionados-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configura%C3%A7%C3%B5es-do-master-data-v1/criando-formulario-no-master-data_1.png)
+   ![registrosRelacionados-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configurações-do-master-data-v1/criando-formulario-no-master-data_1.png)
 
 Após preencher os campos obrigatórios, aparecerão as abas disponíveis para configuração. Confira abaixo os campos de cada uma delas.
 

@@ -17,12 +17,12 @@ order: 4
 
 Esta seção apresenta o passo-a-passo de confirmação dos ERPs:
 
--  [Winthor – PCSistemas](#ambiente-winthor)
--  [Protheus](#ambiente-protheus)
+- [Winthor – PCSistemas](#ambiente-winthor)
+- [Protheus](#ambiente-protheus)
 
 ## Ambiente Winthor
 
-Tudo o que você precisa é acessar a tela da integradora clicando em  e, em seguida, na filial utilizada para integrar com Ecommerce, você deve alterar os campos URL de integração e o campo Token, conforme os passos abaixo:
+Tudo o que você precisa é acessar a tela da integradora clicando em e, em seguida, na filial utilizada para integrar com Ecommerce, você deve alterar os campos URL de integração e o campo Token, conforme os passos abaixo:
 
 ![integra winthor-adaptador](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/erp/adaptador-vtex/configurar-erps_1.png)
 
@@ -34,7 +34,7 @@ Tudo o que você precisa é acessar a tela da integradora clicando em  e, em seg
 
 ## Ambiente Protheus
 
-Tudo o que você precisa fazer no ambiente Protheus é alterar os valores  de três parâmetros - **URL**, **usuário** e **senha do webservice CIASHOP** - no módulo **SIGACFG**.
+Tudo o que você precisa fazer no ambiente Protheus é alterar os valores de três parâmetros - **URL**, **usuário** e **senha do webservice CIASHOP** - no módulo **SIGACFG**.
 
 1. No ambiente Proteus, acesse o **SigaCFG**. 
 2. No menu lateral, acesse **Ambiente** > **Cadastros**. 

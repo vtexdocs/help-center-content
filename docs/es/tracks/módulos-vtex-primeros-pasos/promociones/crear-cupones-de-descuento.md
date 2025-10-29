@@ -39,4 +39,4 @@ Para crear un cupón de descuento, siga los pasos a continuación:
 
 > ℹ️ No es necesario crear un `utm_source` y un `utm_campaign`. Pero es necesario crear **por lo menos uno ** de estos.<br> Consulte el artículo [Qué son utm_source, utm_campaign y utm_medium](/es/tutorial/que-son-utm-source-utm-campaign-y-utm-medium) para entender mejor lo que son estos UTMs.
 
-Al momento de crear una promoción regular, debe seleccionar el flag  `utm_source` y/o `utm_campaign`e ingresar los UTM informados durante la creación del cupón en los campos correspondientes.
+Al momento de crear una promoción regular, debe seleccionar el flag `utm_source` y/o `utm_campaign`e ingresar los UTM informados durante la creación del cupón en los campos correspondientes.

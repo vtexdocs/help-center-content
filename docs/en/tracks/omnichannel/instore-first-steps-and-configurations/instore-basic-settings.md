@@ -65,7 +65,7 @@ In this step, you'll add only one of your sales associates. After configuring th
 
 ### Configuring payment methods
 
-The next step is to set up the payment methods you will accept on VTEX Sales App. Enable the desired options using the <i class="fas fa-toggle-on"></i>  using the toggle switch.
+The next step is to set up the payment methods you will accept on VTEX Sales App. Enable the desired options using the <i class="fas fa-toggle-on"></i> using the toggle switch.
 
 There are two options available:
 

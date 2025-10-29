@@ -19,11 +19,11 @@ O **Mural de vendas** é um relatório visual que compara o desempenho dos vende
 
 A visualização utiliza uma **simbologia por cores**, que facilita a identificação de quem está performando dentro ou fora do esperado.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relat%C3%B3rios/consultar-relatorio-mural-de-vendas-na-plataforma-indeva_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relatórios/consultar-relatorio-mural-de-vendas-na-plataforma-indeva_1.png)
 
 No menu lateral da Indeva, clique em **Relatórios > Mural de vendas**.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relat%C3%B3rios/consultar-relatorio-mural-de-vendas-na-plataforma-indeva_2.gif)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relatórios/consultar-relatorio-mural-de-vendas-na-plataforma-indeva_2.gif)
 
 ## Aplicar filtros
 

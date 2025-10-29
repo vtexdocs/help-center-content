@@ -19,7 +19,7 @@ order: 1
 
 La imagen a continuación muestra las soluciones y posibilidades de VTEX, que se tratarán a lo largo de esta serie de artículos:
 
-![vtex_composable_complete_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/introduccion-a-vtex_1.png)
+![vtex_composable_complete_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/guía-de-onboarding/serie-de-la-tienda-vtex/introduccion-a-vtex_1.png)
 
 > ℹ️ Además de los portales Help Center y [Developer Portal](https://developers.vtex.com/) y [VTEX Community](https://community.vtex.com/), en nuestro [sitio web](https://vtex.com/co-es/)ofrecemos más información sobre la plataforma a través de [videos explicativos](https://vtex.com/br-pt/resources-category/product-demo-videos-br/) (solo en inglés) y [ebooks](https://vtex.com/br-pt/resources-category/ebooks-br/) creados por nuestros [partners](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#partners-de-implementacion). También ponemos a disposición una serie de [videos de onboarding](https://sites.google.com/vtex.com.br/onboardingvtex/trilha) (solamente en portugués).
 

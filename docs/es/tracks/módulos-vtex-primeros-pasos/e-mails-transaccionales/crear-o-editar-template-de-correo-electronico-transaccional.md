@@ -19,7 +19,7 @@ order: 3
 
 Para editar un template de correo electrónico transaccional, siga los pasos a continuación.
 
-1. En el menú lateral del Admin, acceda a Centro de Mensajes y haga clic en  __Templates__.
+1. En el menú lateral del Admin, acceda a Centro de Mensajes y haga clic en __Templates__.
 2. Busque el template deseado y haga clic en el card correspondiente.
 3. Altere el título del correo electrónico y el destinatario (los valores entre llaves dobles son variables; en el próximo artículo aprenderemos cómo manejarlas). Usted puede incluir destinatarios en copia (`CC`) y copia oculta (`CCO`).
 4. Deje el flag __Utilizar remitente estándar__ para hacer uso de la dirección de correo electrónico registrado como estándar, como se explica en el artículo anterior de esta guía.
@@ -40,7 +40,7 @@ Al final, haga clic en el botón __Guardar__.
 
 El método para crear un template de correo electrónico transaccional es similar al que utilizó para editar un template. Basta seguir los pasos a continuación:
 
-1. En el menú lateral del Admin, acceda a Centro de Mensajes y haga clic en  __Templates__.
+1. En el menú lateral del Admin, acceda a Centro de Mensajes y haga clic en __Templates__.
 2. Haga clic en el botón __Nuevo template__.
 3. Seleccione el flag __Activar envío de e-mail__.
 4. Rellene los datos de Título, Remitente y Destinatario.

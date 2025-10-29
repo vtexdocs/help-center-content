@@ -36,7 +36,7 @@ En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de con
 
 ### Al contado
 
-![pagamento-a-vista es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/condiciones-de-pago_1.png)
+![pagamento-a-vista es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/condiciones-de-pago_1.png)
 
 1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Configuración__, o escribe __Configuración__ en la barra de búsqueda en la parte superior de la página.
 2. En la pestana __Condiciones de pago__, haga clic en el botón __+__.
@@ -52,7 +52,7 @@ En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de con
 
 ### En cuotas sin interés
 
-![parcelamento-sem-juros es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/condiciones-de-pago_2.png)
+![parcelamento-sem-juros es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/condiciones-de-pago_2.png)
 
 1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Configuración__, o escribe __Configuración__ en la barra de búsqueda en la parte superior de la página.
 2. En la pestana __Condiciones de pago__, haga clic en el botón __+__.
@@ -69,7 +69,7 @@ En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de con
 
 ### En cuotas con interés
 
-![parcelamento-com-juros es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/condiciones-de-pago_3.png)
+![parcelamento-com-juros es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/condiciones-de-pago_3.png)
 
 1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Configuración__, o escribe __Configuración__ en la barra de búsqueda en la parte superior de la página.
 2. En la pestana __Condiciones de pago__, haga clic en el botón __+__.
@@ -87,7 +87,7 @@ En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de con
 14. Para elegir entre interés compuesto e interés simple, haga clic en __Se aplicó el interés compuesto. Cambiar__. Aparecerá una casilla de verificación que ofrece ambas opciones.
 15. Haga clic en __Guardar__.
 
-![Juros - es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/condiciones-de-pago_4.png)
+![Juros - es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/condiciones-de-pago_4.png)
 
 ## Remover condición de pago
 
@@ -95,4 +95,4 @@ En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de con
 2. En la pestana __Condiciones de pago__, haga clic en el condición de pago que desea eliminar.
 3. Haga clic en el icono de la papelera.
 
-![Remover condición de pago](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/condiciones-de-pago_5.png)
+![Remover condición de pago](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/condiciones-de-pago_5.png)

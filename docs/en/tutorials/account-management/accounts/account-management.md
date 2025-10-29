@@ -122,7 +122,7 @@ Follow the steps below to create a store:
 5. If you wish to start the [go-live](/en/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM) process for your store, fill in the **Hosts** field with [your store's domain](/en/tutorial/configurando-dominios-no-license-manager). Otherwise, leave it blank.
 6. Click the `Create` button.
 
-> ℹ️ To learn more about configuring your store's **Hosts**, read the article  [Configure your store domain](/en/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
+> ℹ️ To learn more about configuring your store's **Hosts**, read the article [Configure your store domain](/en/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
 
 > ⚠️ Do not use a ".com" domain in the Store Name field. This type of entry can only exist in the Hosts field.
 

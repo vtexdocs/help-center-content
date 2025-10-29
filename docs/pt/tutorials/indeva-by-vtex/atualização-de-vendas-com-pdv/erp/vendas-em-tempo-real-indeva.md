@@ -19,11 +19,11 @@ A integração das vendas na Indeva não ocorre necessariamente em tempo real. E
 
 > ⚠️ Ao longo do dia, o sistema realiza várias tentativas de atualização, e pelo menos uma delas deve ser concluída com sucesso.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/atualiza%C3%A7%C3%A3o-de-vendas-com-pdv/erp/vendas-em-tempo-real-indeva_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/atualização-de-vendas-com-pdv/erp/vendas-em-tempo-real-indeva_1.png)
 
 Ao final do dia, as informações costumam estar disponíveis de forma consolidada na plataforma.  
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/atualiza%C3%A7%C3%A3o-de-vendas-com-pdv/erp/vendas-em-tempo-real-indeva_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/atualização-de-vendas-com-pdv/erp/vendas-em-tempo-real-indeva_2.png)
 
 > ℹ️ O ideal é verificar as vendas no final do dia ou na manhã seguinte.
 

@@ -25,17 +25,17 @@ Por outro lado, o **disparo ativo** ocorre quando a empresa toma a iniciativa de
 
 Após a pré-aprovação da Template Message, o fluxo conversacional pode começar a ser construído. O primeiro passo é adicionar o cartão/ card de ""Atualizar Contato"" e escolher a opção ""Channel"" (Canal), pois ela definirá de qual canal será feito o disparo. Nesta etapa, escolha o seu canal do WhatsApp.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/disparo-ativo-no-whatsapp_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/disparo-ativo-no-whatsapp_1.png)
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/disparo-ativo-no-whatsapp_2.png)
+![](https://lh6.googleusercontent.com/dnDuAc3qT99XfkIlRIdry_Wlcvgzx6DyhDGNowh99nx8edb-JIzp4qPYNXX82I6n0DmwuXkfrXisgdKsQvFx3o32YDJX0ODZziw1PsUmkd_VeK8V7fGSKngIcZ5xee4sufwC_QhjLO_cH2nq0iWs5nU)
 
 O **segundo passo** é adicionar o cartão enviar mensagem, na caixa de texto basta apenas digitar a seguinte expressão: @(“”). Veja a imagem abaixo:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/disparo-ativo-no-whatsapp_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/disparo-ativo-no-whatsapp_3.png)
 
 A expressão acima indica que um Template Message (modelo de mensagem) será enviado e que este campo não será levado em consideração, pois o modelo de mensagem a ser enviado aos clientes pode ser selecionado na aba ""WhatsApp"", localizada no mesmo cartão de ""Enviar Mensagem"", conforme mostrado na imagem acima. Ao clicar na aba ""WhatsApp"", é possível acessar as mensagens que foram pré-aprovadas e selecioná-las para envio, como ilustrado na imagem seguinte.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/disparo-ativo-no-whatsapp_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/disparo-ativo-no-whatsapp_4.png)
 
 Neste momento, também é possível adicionar variáveis que tornarão a mensagem mais personalizada, como, por exemplo, a variável *@contact.name*, que chama o usuário pelo nome registrado no próprio WhatsApp.
 
@@ -49,6 +49,6 @@ Por fim, para verificar se tudo ocorreu corretamente, basta acessar o módulo ""
 
 Também é possível enviar uma Template Message pelo módulo ""*Estúdio*"", selecionando o contato para o qual deseja fazer o envio e clicando no menu de opções, localizado no canto superior direito. Depois, basta selecionar ""*Iniciar no Fluxo*"", escolher o fluxo e enviar. Esta é mais uma possibilidade que a Weni Plataforma oferece para realizar o disparo ativo. Veja na imagem abaixo:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/disparo-ativo-no-whatsapp_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/disparo-ativo-no-whatsapp_5.png)
 
 O processo de **disparo ativo** é o mesmo para todos os canais de comunicação, porém a criação da Template Message é **exclusiva** para o canal WhatsApp. Isso significa que, enquanto o uso da Template Message não é necessário para outros canais, no WhatsApp só é possível enviar um modelo de mensagem (início do fluxo). Nos demais canais, é possível enviar mais de uma mensagem, sem limitações prévias.

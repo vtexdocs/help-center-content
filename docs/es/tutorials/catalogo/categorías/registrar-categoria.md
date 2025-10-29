@@ -51,12 +51,12 @@ Para entender mejor el significado de cada campo del registro de categoría, vea
 - __Puntuación (usada para ordenar la búsqueda):__ valor utilizado para definir la prioridad en la página de resultados de búsqueda. Para entender más sobre Score, accede a nuestro artículo [¿Cómo funciona el campo Score?](/es/tutorial/como-funciona-el-campo-score--1BUZC0mBYEEIUgeQYAKcae).
 - __Modo de visualización de productos:__ define cómo se mostrarán los SKUs en la página del producto. Vea abajo las opciones de relleno de este campo:
   - __Lista de SKU:__ todos los SKUs del departamento o categoría en cuestión se mostrarán en el formato de lista. Cada uno con su botón de Comprar al lado.
-  ![1Lista.es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/categor%C3%ADas/registrar-categoria_1.png)
+  ![1Lista.es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/categorías/registrar-categoria_1.png)
   - __Campos de selección (combo box):__ todos los SKUs de ese departamento/categoría necesitarán ser seleccionados mediante casillas. 
   - __Íconos con selección radio (radio box):__ todos los SKUs de ese departamento/categoría necesitarán ser seleccionados a través de selección de radio.
-  ![RadioBox.es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/categor%C3%ADas/registrar-categoria_2.png)
+  ![RadioBox.es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/categorías/registrar-categoria_2.png)
   - __Sigue la definición de la especificación de SKU:__ todos los SKUs de ese departamento/categoría serán seleccionados de acuerdo con la pestaña Especificación, en el formulario de registro de SKU. Las opciones preconfiguradas son Combo o Radio.
-  ![Campos.es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/categor%C3%ADas/registrar-categoria_3.png)
+  ![Campos.es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/categorías/registrar-categoria_3.png)
 
 ## Más información
 

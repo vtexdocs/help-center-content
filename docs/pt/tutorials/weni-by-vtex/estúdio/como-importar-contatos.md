@@ -19,11 +19,11 @@ Quando uma pessoa interage por algum dos canais conectados na Weni Plataforma, a
 
 É um processo bem simples, primeiro, basta acessar o **Estúdio** e ir para a aba de **contatos **onde você vai encontrar o botão de ***Importar Contatos*** no canto esquerdo.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-importar-contatos_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/como-importar-contatos_1.png)
 
 Depois disso, você será direcionado para a página de importação, onde poderá escolher uma planilha do Excel, no formato .XLS, e importar os contatos que existem na planilha para a plataforma. No entanto, para que isso funcione, é necessário nomear corretamente o cabeçalho da planilha, ou seja, o nome das colunas. No final da página, disponibilizamos um modelo de template para que você possa utilizá-lo.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-importar-contatos_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/como-importar-contatos_2.png)
 
 As regras para nomear as colunas são:
 
@@ -37,4 +37,4 @@ As regras para nomear as colunas são:
 
 Depois de selecionar o arquivo basta clicar em ***(Prévia)*** e seus contatos serão importados para a plataforma. Todos os contatos aparecerão vinculados a um grupo estático, que possui o mesmo nome do arquivo da planilha, caso você não deseje manter o grupo, basta exclui-lo.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-importar-contatos_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/como-importar-contatos_3.png)

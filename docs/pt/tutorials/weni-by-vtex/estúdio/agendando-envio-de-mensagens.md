@@ -19,10 +19,10 @@ A plataforma permite que as mensagens agendadas sejam enviadas em uma data e hor
 
 Para agendar uma mensagem, siga estes passos:
 
--    Dentro do seu projeto, acesse a aba ""**Estúdio**"" e em seguida clique em ""**Mensagens**"" no menu lateral.![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/agendando-envio-de-mensagens_1.png)
+-    Dentro do seu projeto, acesse a aba ""**Estúdio**"" e em seguida clique em ""**Mensagens**"" no menu lateral.![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/agendando-envio-de-mensagens_1.png)
 
--    Clique no botão ""**Enviar Mensagem**""![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/agendando-envio-de-mensagens_2.png)
+-    Clique no botão ""**Enviar Mensagem**""![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/agendando-envio-de-mensagens_2.png)
 
 -    Selecione **contatos **e/ou **grupos**, digite o que você deseja enviar. Em seguida, clique na caixa ""**Agendar para mais tarde**"" e depois em ""**Enviar**"".
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/agendando-envio-de-mensagens_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/agendando-envio-de-mensagens_3.png)

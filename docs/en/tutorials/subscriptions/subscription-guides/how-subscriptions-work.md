@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-The **Subscription System** is an app developed by VTEX to facilitate recurring sales. It works as an automatic scheduler, making a purchase at the frequency requested by the customer. 
+The **Subscription System** is an app developed by VTEX to facilitate recurring sales. It works as an automatic scheduler, making a purchase at the frequency requested by the customer.
 
 Your customers indicate how often they want to repeat the purchase of a specific SKU, and the system resubmits the order. This purchase is made automatically every scheduled period, with the same configuration as the original order. Subscription is a simple solution to save your customer's time and to add a scheduled sales flow to your store.
 
@@ -33,7 +33,7 @@ When you finish [configuring the Subscription feature](/en/tutorial/como-configu
 
 ### By adding products to the subscription during checkout
 
-When adding a *Subscription-enabled product* during checkout, a drop-down selector will be displayed for each product, with the subscription options associated with that SKU. Your customer must then select the desired subscription option and frequency. This flow can be customized in some cases, depending on the business needs.
+When adding a _Subscription-enabled product_ during checkout, a drop-down selector will be displayed for each product, with the subscription options associated with that SKU. Your customer must then select the desired subscription option and frequency. This flow can be customized in some cases, depending on the business needs.
 
 The customer will then proceed with the usual purchase flow. They must enter the shipping address and use one of the payment methods enabled for the Subscription System. The subscription will be active upon payment approval.
 
@@ -47,9 +47,9 @@ To do that, go to the **My Account** page on your store's website, access the **
 
 > ℹ️ In [My Account](/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), customers can only access their orders from the last two years.
 
-A list of all the customer’s subscriptions, containing their details and statuses, will be displayed in the **Subscriptions** section, on the **My Account** page. Your customer will also receive a confirmation of the subscription and the generated order by email.  
+A list of all the customer’s subscriptions, containing their details and statuses, will be displayed in the **Subscriptions** section, on the **My Account** page. Your customer will also receive a confirmation of the subscription and the generated order by email.
 
-You will communicate with your customers about their subscriptions through the **Message Center** module. Please read our article about [Transactional emails for subscription orders](/en/tutorial/e-mails-transacionais-para-pedidos-de-assinatura--2NYHqHMRqZ43Cn6s84ZCB5). 
+You will communicate with your customers about their subscriptions through the **Message Center** module. Please read our article about [Transactional emails for subscription orders](/en/tutorial/e-mails-transacionais-para-pedidos-de-assinatura--2NYHqHMRqZ43Cn6s84ZCB5).
 
 ### Subscription details
 
@@ -59,13 +59,13 @@ We have redesigned our subscription details page to improve the customer experie
 
 We have added a notification box to improve the communication with users about what actions have to be done and communicate important events about the subscription. In this box, the customer will be able to:
 
--   Edit the subscription frequency.
--   Change the subscription period.
--   Edit the billing day.
--   Edit the address registered in the subscription.
--   Pause the subscription.
--   Cancel the subscription.
--   Change the payment method used in the subscription.
+- Edit the subscription frequency.
+- Change the subscription period.
+- Edit the billing day.
+- Edit the address registered in the subscription.
+- Pause the subscription.
+- Cancel the subscription.
+- Change the payment method used in the subscription.
 
 ### Adding products to a subscription
 

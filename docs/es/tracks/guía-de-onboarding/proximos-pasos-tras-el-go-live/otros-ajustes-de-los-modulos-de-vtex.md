@@ -54,7 +54,7 @@ Después de configurar los ajustes obligatorios de [Logística](/es/tracks/serie
 Las operaciones cross-border deben planificarse tomando en cuenta las siguientes consideraciones:
 - **Tipo de exportación:** la exportación puede ser directa o indirecta.
   - **Directa:** la empresa es la única encargada de las actividades de distribución y envío de los productos a los clientes.
-  -   **Indirecta:** los productos son adquiridos por terceros (socios de negocio o intermediarios ubicados en el país de destino) que asumen toda la responsabilidad de la gestión de la operación.
+  - **Indirecta:** los productos son adquiridos por terceros (socios de negocio o intermediarios ubicados en el país de destino) que asumen toda la responsabilidad de la gestión de la operación.
 
 - **Aceptación de productos:** comprobar estrategias de venta y preferencias del público en el mercado en el que se quiere operar.
 
@@ -84,7 +84,7 @@ Se puede configurar la programación de compras recurrentes en el [sistema de Su
 
 - Asignación de [usuario](/es/tutorial/gestionar-usuarios--tutorials_512) encargado de la tarea.
 
-![vtex-do-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/proximos-pasos-tras-el-go-live/otros-ajustes-de-los-modulos-de-vtex_1.JPG)
+![vtex-do-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/guía-de-onboarding/proximos-pasos-tras-el-go-live/otros-ajustes-de-los-modulos-de-vtex_1.JPG)
 
 ### VTEX Social Selling
 

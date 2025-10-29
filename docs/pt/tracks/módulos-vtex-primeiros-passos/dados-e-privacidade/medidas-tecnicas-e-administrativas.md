@@ -17,7 +17,7 @@ order: 4
 
 A VTEX atua em várias regiões do mundo e possui as ferramentas necessárias para atender as demandas de privacidade de cada local. Por isso, a VTEX sempre toma as medidas necessárias para garantir que sua plataforma seja segura e esteja em conformidade com as leis de proteção de dados.
 
-As ferramentas que oferecemos na plataforma são projetadas para garantir a adequação das lojas a regulamentos de privacidade. No entanto, lojistas também precisam adotar medidas adicionais para cumprir as leis relacionadas ao tratamento de dados pessoais. Para entender esses requisitos, consulte [Papéis na proteção de dados](/pt/tracks/dados-e-privacidade--4Lc0i0an0DgnEtB0AUwlcq/5f8hTEw3xOALgqzus9VXKd).  É importante lembrar que estas são orientações gerais e que os regulamentos específicos podem conter outras obrigações.
+As ferramentas que oferecemos na plataforma são projetadas para garantir a adequação das lojas a regulamentos de privacidade. No entanto, lojistas também precisam adotar medidas adicionais para cumprir as leis relacionadas ao tratamento de dados pessoais. Para entender esses requisitos, consulte [Papéis na proteção de dados](/pt/tracks/dados-e-privacidade--4Lc0i0an0DgnEtB0AUwlcq/5f8hTEw3xOALgqzus9VXKd). É importante lembrar que estas são orientações gerais e que os regulamentos específicos podem conter outras obrigações.
 
 ## Segurança
 

@@ -47,4 +47,4 @@ From now on, whenever the organization searches on the VTEX platform, only the p
 
 > ⚠️ Buying organizations that do not assign sellers will be able to access information and purchase from all the sellers available on the marketplace.
 
-For more information on how to integrate a new seller, read the[ Adding a seller](/en/tutorial/adicionar-seller--tutorials_392) article.
+For more information on how to integrate a new seller, read the [Adding a seller](/en/tutorial/adicionar-seller--tutorials_392) article.

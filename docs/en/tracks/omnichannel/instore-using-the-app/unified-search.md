@@ -15,7 +15,7 @@ trackSlugEN: instore-using-the-app
 order: 7
 ---
 
-VTEX Sales App's [endless aisle](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) feature allows sales associates to search for products beyond the inventory of the current store and add them to the cart. To search for a product, click the magnifying glass icon <i class="fas fa-search"></i>, and a search bar will be displayed at the top of the store's homepage.  Enter the product name, reference code, SKU ID, or EAN.
+VTEX Sales App's [endless aisle](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) feature allows sales associates to search for products beyond the inventory of the current store and add them to the cart. To search for a product, click the magnifying glass icon <i class="fas fa-search"></i>, and a search bar will be displayed at the top of the store's homepage. Enter the product name, reference code, SKU ID, or EAN.
 
 > ℹ️ This feature uses the browser's cache to optimize searches in scenarios with slow internet connections.
 
@@ -48,7 +48,7 @@ In addition to configuring VTEX Intelligent Search, to enable the filter feature
 
 Once the filters are enabled, you can use this feature by following the process below when searching for products:
 
-1. If you are using VTEX Sales App on a mobile device, such as a smartphone, click `Filters`.  If you are using a device with a larger screen, skip this step.
+1. If you are using VTEX Sales App on a mobile device, such as a smartphone, click `Filters`. If you are using a device with a larger screen, skip this step.
 2. Select the desired filters.
 3. Click `Filter`.
 

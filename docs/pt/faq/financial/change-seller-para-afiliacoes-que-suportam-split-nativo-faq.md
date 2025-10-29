@@ -39,7 +39,7 @@ A liquidação será realizada no momento de faturamento do pedido. Caso o fatur
 
 1. __Use O Comportamento Recomendado Pelo Processador de Pagamentos:__ a liquidação é agendada de acordo com o período especificado pelo conector. Este período, além de indicar se o pagamento foi autorizado, pode especificar (ou recomendar) um número de dias para a liquidação no momento da resposta do adquirente. O número de dias a ser especificado pelo parceiro depende de um acordo comercial entre você, cliente, e seu provedor de pagamentos.
 
-2. __Desativado - Não Capturado Automaticamente:__ a  liquidação não acontece de forma automática.
+2. __Desativado - Não Capturado Automaticamente:__ a liquidação não acontece de forma automática.
 
 ### Será possível realizar o change seller após a liquidação do pagamento?
 
@@ -85,10 +85,10 @@ Após o faturamento do pedido, o valor de R$5,02 foi liquidado e a divisão do p
 
 O __cálculo da divisão__ desses recebíveis ficou da seguinte maneira:
 
-| Recebedor     | Cálculo     | Total     |
+| Recebedor | Cálculo | Total |
 | ---------- | ---------- | ---------- |
-| Marketplace Coinshop      | Comissão x Valor do produto = 10%(0,02)     | 0,002 (apenas ilustrativo)   |
-| Seller Parceiro02       | Total do pedido - Comissão = 5,02 - 0,002       | 5,018 (apenas ilustrativo)     |
+| Marketplace Coinshop | Comissão x Valor do produto = 10%(0,02) | 0,002 (apenas ilustrativo) |
+| Seller Parceiro02 | Total do pedido - Comissão = 5,02 - 0,002 | 5,018 (apenas ilustrativo) |
 
 Sendo assim, apesar do preço para o seller __parceiro02__ ser de R$0,30 que somado ao frete deveria dar um total de R$5,30, o valor dividido foi de apenas R$5,02.
 
@@ -102,10 +102,10 @@ Na tela do novo seller sinaliza-se um acréscimo de R$ 0,56 no preço do produto
 
 Com relação à distribuição desses recebíveis com o seller, a divisão seria realizada da seguinte maneira:
 
-| Recebedor     | Cálculo     | Total     |
+| Recebedor | Cálculo | Total |
 | ---------- | ---------- | ---------- |
-| Marketplace Coinshop     | Comissão x Valor do produto = 10%(0,60)       | 0,06 (apenas ilustrativo)       |
-| Seller Japacoin     | Total do pedido - Comissão = 0,60-0,06      | 0,54 (apenas ilustrativo)       |
+| Marketplace Coinshop | Comissão x Valor do produto = 10%(0,60) | 0,06 (apenas ilustrativo) |
+| Seller Japacoin | Total do pedido - Comissão = 0,60-0,06 | 0,54 (apenas ilustrativo) |
 
 > ℹ️ Vale relembrar que em casos onde o preço do novo seller é inferior ao preço do seller original, não existirá uma trava de segurança de R$0,30
 

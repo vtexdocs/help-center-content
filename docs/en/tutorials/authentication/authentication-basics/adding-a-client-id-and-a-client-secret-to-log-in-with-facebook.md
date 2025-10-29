@@ -60,7 +60,7 @@ The next step is to set up the Facebook Login product in the app you created. To
 
    ![Configuração URI OAuth Facebook EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/adding-a-client-id-and-a-client-secret-to-log-in-with-facebook_6.png)
 
-   Insert the following URLs in **Valid OAuth Redirect URIs**, replacing `{{HOST_URL}}`  with your store's base URL and e `{{accountName}}` with your VTEX account name as described in the store's Admin:
+   Insert the following URLs in **Valid OAuth Redirect URIs**, replacing `{{HOST_URL}}` with your store's base URL and e `{{accountName}}` with your VTEX account name as described in the store's Admin:
 
       * `https://vtexid.vtex.com.br/VtexIdAuthSiteKnockout/ReceiveAuthorizationCode.ashx`
       * `https://{{HOST_URL}}/api/vtexid/pub/authentication/oauth/authorizationcode`
@@ -76,7 +76,7 @@ Finally, you must complete specific information about the app to finish the regi
 
    ![7-login-fb-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/adding-a-client-id-and-a-client-secret-to-log-in-with-facebook_7.png)
 
-2. Copy the value from the **App ID** field. You must enter this value in the **Client ID** field when[ configuring Facebook Login in the VTEX Admin](/en/tutorial/configuring-login-with-facebook-and-google--tutorials_513).
+2. Copy the value from the **App ID** field. You must enter this value in the **Client ID** field when [configuring Facebook Login in the VTEX Admin](/en/tutorial/configuring-login-with-facebook-and-google--tutorials_513).
 3. Under **App Secret**, click the **Show** button, and then copy the value from the field. You must enter this value in the **Client Secret** field when [configuring Facebook Login in the VTEX Admin](/en/tutorial/configuring-login-with-facebook-and-google--tutorials_513).
 4. Add the link to your store's terms of service in the **Terms of Service URL** field.
 5. Under **App Icon (1024 x 1024)**, add an icon of exactly 1024x1024 pixels and a transparent background for your app.

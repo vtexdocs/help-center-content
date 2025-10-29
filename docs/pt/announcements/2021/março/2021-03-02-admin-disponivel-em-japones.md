@@ -25,4 +25,4 @@ A tradução do Admin para o japonês foi incentivada pela [abertura do nosso no
 
 ## O que precisa ser feito?
 Para visualizar o Admin em japonês, basta selecionar o código __JP__ no menu de seleção de idiomas no canto superior direito da tela. 
-![ Selecionar o código JP](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/mar%C3%A7o/2021-03-02-admin-disponivel-em-japones_1.png)
+![ Selecionar o código JP](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/março/2021-03-02-admin-disponivel-em-japones_1.png)

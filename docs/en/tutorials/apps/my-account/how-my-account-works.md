@@ -30,7 +30,7 @@ In [basic settings](#basic-settings), you can configure which sections will appe
 
 ## Profile
 
-In this section, customers can manage their personal data saved in the store. They can [edit their profile information](#edit),[ set a new password](#password), and [choose whether to receive emails with promotions](#newsletter).
+In this section, customers can manage their personal data saved in the store. They can [edit their profile information](#edit), [set a new password](#password), and [choose whether to receive emails with promotions](#newsletter).
 
 ![profile EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/my-account/how-my-account-works_1.png)
 
@@ -94,7 +94,7 @@ In **Order again**, the selected shopping cart will be duplicated. This means th
 
 ### Request Cancellation
 
-Customer may request cancellation of his or her order at any time. If requested during the[grace period for cancellation](/en/tutorial/setting-the-grace-period-for-order-cancellation--jYFdnPDtNm4WCEkYWqqC), store approval is not required for the cancellation to take effect.
+Customer may request cancellation of his or her order at any time. If requested during the [grace period for cancellation](/en/tutorial/setting-the-grace-period-for-order-cancellation--jYFdnPDtNm4WCEkYWqqC), store approval is not required for the cancellation to take effect.
 Learn more about [setting the grace period for order cancellation](/en/tutorial/how-does-cancellation-work-when-requested-by-the-customer--3wEI6DUNtecooG2Ki4Akqo) 
 
 ### View order details

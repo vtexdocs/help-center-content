@@ -14,7 +14,7 @@ locale: en
 legacySlug: why-cant-i-find-a-transaction-in-pci-gateway
 ---
 
-Payments module displays all transactions made only in your store. In some cases, the order in Orders management  may not be tied to a transaction in the Payments.
+Payments module displays all transactions made only in your store. In some cases, the order in Orders management may not be tied to a transaction in the Payments.
 
 Examples of cases where this happens:
 

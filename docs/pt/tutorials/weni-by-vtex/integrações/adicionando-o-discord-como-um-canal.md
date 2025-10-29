@@ -29,12 +29,12 @@ https://discord.com/developers/applications
 
 1. Go to the ""Bot"" tab and click ""Add Bot"". You will have to confirm by clicking ""Yes, do it!""
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/adicionando-o-discord-como-um-canal_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/adicionando-o-discord-como-um-canal_1.png)
 
 2. Mantenha as configurações padrão para Bot público (marcada) e Exigir concessão de código OAuth2 (desmarcada).
 3. O próximo passo é copiar o token.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/adicionando-o-discord-como-um-canal_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/adicionando-o-discord-como-um-canal_2.png)
 
 4. Clique em ""Redefinir Token"" e obtenha seu token.
 
@@ -42,10 +42,10 @@ https://discord.com/developers/applications
 
 1. Dentro do projeto, vá em: Aplicativos \-> Descoberta \-> Adicione o Discord
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/adicionando-o-discord-como-um-canal_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/adicionando-o-discord-como-um-canal_3.png)
 
 2. Após adicionar em ""Meus Aplicativos"", insira o seu discord\_bot\_token fornecido pela página Discord Developer e a URL do Proxy, que é a URL onde o proxy do Discord está rodando.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/adicionando-o-discord-como-um-canal_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/adicionando-o-discord-como-um-canal_4.png)
 
 3. Salve Alterações.

@@ -54,8 +54,8 @@ After completing the required [logistics](/en/tracks/vtex-store-overview--eSDNk2
 Cross-border operations must be planned considering the following aspects:
 
 - **Export type:**
-  -  **Direct:** The company is solely accountable for product distribution and delivery to customers.
-  -  **Indirect:** The products are purchased by third parties (business partners or intermediaries located in the country of destination), assuming full responsibility for managing the operation.
+  - **Direct:** The company is solely accountable for product distribution and delivery to customers.
+  - **Indirect:** The products are purchased by third parties (business partners or intermediaries located in the country of destination), assuming full responsibility for managing the operation.
 
 - **Accepting products:** Checking sales strategies and public preferences in the market where you want to operate.
 

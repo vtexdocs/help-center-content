@@ -23,7 +23,7 @@ Por meio da tela de gerenciamento de provedores você pode:
 - [Visualizar provedores cadastrados](#visualizar-provedores-cadastrados)
 - [Editar configurações de provedores](#editar-configuracoes-de-provedores)
 
-![interface_provedor_PT_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/afiliacoes-de-gateway_1.JPG)
+![interface_provedor_PT_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configurações-de-pagamentos/afiliacoes-de-gateway_1.JPG)
 
 ## Cadastrar provedor
 
@@ -44,7 +44,7 @@ Para configurar os métodos de pagamento a serem processados pelo provedor de pa
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete).
 
-![interface_provedor_PT_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/afiliacoes-de-gateway_2.JPG)
+![interface_provedor_PT_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configurações-de-pagamentos/afiliacoes-de-gateway_2.JPG)
 
 ## Visualizar provedores cadastrados
 
@@ -54,7 +54,7 @@ A tela principal de gerenciamento de provedores, disponível no Admin VTEX em __
 
 Para localizar provedores pelo nome, acesse a página de gerenciamento de provedores e digite o nome do provedor desejado.
 
-![interface_provedor_PT_3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/afiliacoes-de-gateway_3.JPG)
+![interface_provedor_PT_3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configurações-de-pagamentos/afiliacoes-de-gateway_3.JPG)
 
 ### Filtrar provedores
 
@@ -62,15 +62,15 @@ Para selecionar a exibição de provedores por meio de filtros, acesse a página
 
 - __Nome__: selecione a exibição de provedores de pagamento por meio do nome, ativando a caixa de texto ou digitando na barra de busca do menu.
 
-![interface_provedor_PT_4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/afiliacoes-de-gateway_4.JPG)
+![interface_provedor_PT_4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configurações-de-pagamentos/afiliacoes-de-gateway_4.JPG)
 
 - __Tipo__: selecione a exibição de provedores de pagamento, antifraude ou ambos.
 
-![interface_provedor_PT_5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/afiliacoes-de-gateway_5.JPG)
+![interface_provedor_PT_5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configurações-de-pagamentos/afiliacoes-de-gateway_5.JPG)
 
 - __Ambiente__: selecione a exibição de provedores pelo tipo de ambiente de operação cadastrado (produção ou teste).
 
-![interface_provedor_PT_6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/afiliacoes-de-gateway_6.JPG)
+![interface_provedor_PT_6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configurações-de-pagamentos/afiliacoes-de-gateway_6.JPG)
 
 > ❗ Para remover os filtros aplicados e voltar a visualizar todos os provedores cadastrados na loja, clique no botão `Limpar todos`.
 
@@ -83,7 +83,7 @@ Para editar configurações de provedores de pagamento ou antifraude já cadastr
 3. Na tela de configuração do provedor, clique em `Editar`.
 4. Realize as modificações necessárias e clique em `Salvar`.
 
-![interface_provedor_PT_7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/afiliacoes-de-gateway_7.JPG)
+![interface_provedor_PT_7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configurações-de-pagamentos/afiliacoes-de-gateway_7.JPG)
 
 > ❗ Antes de realizar qualquer alteração na configuração de um provedor, como por exemplo: dados de autorização, modo de processamento ou tipo de reembolso, certifique-se de que as novas informações a serem inseridas não irão prejudicar o seu desempenho operacional na loja.
 

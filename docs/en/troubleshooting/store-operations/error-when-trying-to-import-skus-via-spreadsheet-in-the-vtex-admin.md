@@ -33,7 +33,7 @@ You can solve this problem by:
 
 [Changing the file](#solution-changing-the-file): The file must follow specific formatting rules and be saved as an XML spreadsheet in .xls format.
 
-### Solution  - Changing the file
+### Solution - Changing the file
 
 1. In the VTEX Admin, go to **Catalog > Import and Export > All Products > Export / Import** and click the **Import** tab.
 2. Click `Click Here` to download the spreadsheet template.

@@ -35,7 +35,7 @@ Siga o passo a passo abaixo para cadastrar os preços base de seus SKUs:
 
 Caso você deseje, é possível cadastrar um **preço de lista** associado ao preço base do SKU. Para isso, siga os passos abaixo:
 
-1.  Na *barra lateral* onde é feito o cadastro do preço base, clique em **+ Preço de lista**.
+1. Na *barra lateral* onde é feito o cadastro do preço base, clique em **+ Preço de lista**.
 2. No campo **Preço de lista**, preencha com o valor desejado para o SKU.
 3. Clique na própria *barra lateral* para salvar o preço de lista.
 
@@ -67,7 +67,7 @@ Você também pode cadastrar um **preço de lista** associado ao preço base do 
 | basePrice | integer | Preço Base do SKU |
 | listPrice | integer | Preço de Lista do SKU |
 | markup | integer | Markup do SKU |
-| fixedPrices | array | Preço Fixo  |
+| fixedPrices | array | Preço Fixo |
 | tradePolicyId | integer | ID da Politica Comercial |
 | value | integer | Valor do Preço Fixo |
 | listPrice | integer | Preço de Lista |

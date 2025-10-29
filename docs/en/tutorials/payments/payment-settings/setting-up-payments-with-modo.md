@@ -25,7 +25,7 @@ To configure MODO, follow the steps below:
 4. In __Provider Authorization__, fill in the __App Key__ and __App token__ fields with data provided by MODO.
 5. If you wish to modify the identification name to be displayed for the MODO provider on the VTEX Admin screen, enter the information in the __Name__ field in __Basic Information__.
 6. In __Payment Control__, select whether you want to activate the provider in a test environment by clicking __Enable test mode__.
-7. In __Provider Fields__, select or complete the fields __User__ and __Store ID__ according to the provider`s instructions.
+7. In __Provider Fields__, select or complete the fields __User__ and __Store ID__ according to the provider's instructions.
 8. Click `Save`.
 
 To configure the payment methods to be processed by MODO, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).

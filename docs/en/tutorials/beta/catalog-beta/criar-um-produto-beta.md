@@ -97,7 +97,7 @@ See the tools available in the toolbar:
 
 - **Product URL:** Enter the URL to access the product page in the store. You cannot use spaces or special characters in this field. If the URL consists of more than one word, you must separate them with a hyphen (-). Required field. **Example**: ultralight-running-shoes.
 
--  **Page title:** Enter the title of the product page. To optimize the ranking of your product in the search results, do not exceed 60 characters. Required field. **Example**: Ultralight Running Shoes
+- **Page title:** Enter the title of the product page. To optimize the ranking of your product in the search results, do not exceed 60 characters. Required field. **Example**: Ultralight Running Shoes
 
 - **Meta description:** Enter the title of the product page. To optimize the ranking of your product in the search results, do not exceed 60 characters. Required field. **Example**: Meet the SportXtreme Ultralight Running Shoes, perfect for athletes looking for lightness and maximum performance in sports activities.
 

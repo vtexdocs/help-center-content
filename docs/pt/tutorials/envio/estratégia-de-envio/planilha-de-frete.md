@@ -60,7 +60,7 @@ Confira a tabela a seguir para entender cada campo detalhadamente.
 
 Veja abaixo um exemplo de preenchimento dos campos, considerando o formato aceito em cada coluna. 
 
-![modelo_planilhanumerica](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estrat%C3%A9gia-de-envio/planilha-de-frete_1.png)
+![modelo_planilhanumerica](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estratégia-de-envio/planilha-de-frete_1.png)
 
 ## Enviar o arquivo pelo Admin VTEX
 
@@ -73,7 +73,7 @@ O envio da planilha é feito no cadastro ou na edição de **Política de Envio.
 3. Após fazer download da planilha modelo e [preencher os campos](#preencher-os-campos-da-planilha), faça upload do arquivo na seção Upload de tarifas de envio.
 4. Ao finalizar, clique em `Salvar Alterações`.
 
-![upload tarifas envioPT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estrat%C3%A9gia-de-envio/planilha-de-frete_2.png)
+![upload tarifas envioPT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estratégia-de-envio/planilha-de-frete_2.png)
 
 > ⚠️ Para cadastrar uma **nova** Política de Envio, é preciso preencher outros campos além da Planilha de frete. Entenda como criar, editar e preencher todos os campos necessários no artigo [Política de Envio](/pt/tutorial/politica-de-envio--tutorials_140).
 

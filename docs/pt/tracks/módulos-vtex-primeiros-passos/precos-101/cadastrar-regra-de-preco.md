@@ -24,15 +24,15 @@ Siga o passo a passo abaixo para cadastrar a regra de preço da sua loja:
 
 ## Admin
 
-1.  No Admin VTEX, acesse **Preços > Regras de preços**, ou digite **Regras de preços** na barra de busca no topo da página.
-2.  Clique no botão verde **Nova Regra**.
-3.  No primeiro passo, **Quais os dados gerais dessa regra?**, selecione no *dropdown* uma tabela de preços.
-4.  No segundo passo, **Em quais itens esta regra será aplicada?**, selecione se a regra irá se *Aplicar em todos os produtos* ou *Apenas em categorias e marcas escolhidas*. Se selecionada a segunda opção, você deve escolher as **Categorias** e/ou **Marcas** desejadas. 
-5.  No passo **Aplicar regra para itens em uma faixa de markup?**, ative o *toggle* *Utilizar faixa de markup* para usar este critério. Digite o percentual mínimo de markup no campo **de** e o percentual máximo de markup no campo **até** para selecionar os itens dentro desta faixa.
-7.  No passo **Aplicar regra apenas em determinados dias?**, ative o *toggle* *Utilizar apenas em período específico* para usar este critério. Digite a **Data Início**, a **Hora Início**, a **Data Fim** e a **Hora Fim** do período em que a regra será aplicada. 
-7.  No passo **Qual será a variação do preço para essa regra?**, defina o percentual de variação de preço em *Modificador*. A regra de preço vai aplicar esta variação aos SKUs escolhidos.
-8.  Clique em **Salvar**
-9.  Uma *barra lateral* será aberta para confirmação da criação da regra. Clique em **Confirmar**.
+1. No Admin VTEX, acesse **Preços > Regras de preços**, ou digite **Regras de preços** na barra de busca no topo da página.
+2. Clique no botão verde **Nova Regra**.
+3. No primeiro passo, **Quais os dados gerais dessa regra?**, selecione no *dropdown* uma tabela de preços.
+4. No segundo passo, **Em quais itens esta regra será aplicada?**, selecione se a regra irá se *Aplicar em todos os produtos* ou *Apenas em categorias e marcas escolhidas*. Se selecionada a segunda opção, você deve escolher as **Categorias** e/ou **Marcas** desejadas. 
+5. No passo **Aplicar regra para itens em uma faixa de markup?**, ative o *toggle* *Utilizar faixa de markup* para usar este critério. Digite o percentual mínimo de markup no campo **de** e o percentual máximo de markup no campo **até** para selecionar os itens dentro desta faixa.
+7. No passo **Aplicar regra apenas em determinados dias?**, ative o *toggle* *Utilizar apenas em período específico* para usar este critério. Digite a **Data Início**, a **Hora Início**, a **Data Fim** e a **Hora Fim** do período em que a regra será aplicada. 
+7. No passo **Qual será a variação do preço para essa regra?**, defina o percentual de variação de preço em *Modificador*. A regra de preço vai aplicar esta variação aos SKUs escolhidos.
+8. Clique em **Salvar**
+9. Uma *barra lateral* será aberta para confirmação da criação da regra. Clique em **Confirmar**.
 
 ## API REST
 
@@ -51,7 +51,7 @@ Para cadastrar uma **regra de preço**, você precisa enviar um __POST__ para o 
 | id | integer | ID da regra de preço. É possível cadastrar mais de uma regra para a mesma tabela de preços. |
 | context | object | Objeto que contém as propriedades da regra de preço |
 | categories | object | Categoria que a regra será aplicada |
-| brands | object | Marca que a regra será aplicada  |
+| brands | object | Marca que a regra será aplicada |
 | markupRange | object | Regra aplicada para itens em uma faixa de markup |
 | from | integer | Valor mínimo da faixa de markup |
 | to | integer | Valor da máximo faixa de markup |
@@ -69,7 +69,7 @@ Para cadastrar uma **regra de preço**, você precisa enviar um __POST__ para o 
 | id | integer | Id da regra de preço. É possível cadastrar mais de uma regra para a mesma tabela de preços. |
 | context | object | Objeto que contém as propriedades da regra de preço |
 | categories | object | Categoria que a regra será aplicada |
-| brands | object | Marca que a regra será aplicada  |
+| brands | object | Marca que a regra será aplicada |
 | markupRange | object | Regra aplicada para itens em uma faixa de markup |
 | from | integer | Valor mínimo da faixa de markup |
 | to | integer | Valor da máximo faixa de markup |

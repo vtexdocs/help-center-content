@@ -68,7 +68,7 @@ La configuración del antifraude ClearSale v3 requiere la creación de una etiqu
 10. Hacer clic en el botón __Crear Tag__, insertar un nombre para esta tag y guardar.
 11. En la esquina superior derecha, hacer clic en __Publicar__.
 
-![Pasted image at 2017 10 20 01 11 PM](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/configurar-antifraude-clearsale-v3_1.png)
+![Pasted image at 2017 10 20 01 11 PM](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/configurar-antifraude-clearsale-v3_1.png)
 
 ## Detalles del campo customSLA
 

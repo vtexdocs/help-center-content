@@ -64,7 +64,7 @@ Após clicar em `Criar novo público-alvo`, você precisa seguir as instruções
     * **ou:** a audiência de campanha será composta por clientes que se encaixarem em qualquer um dos públicos-alvo.
     * **e:** a audiência de campanha será composta por clientes que se encaixarem em todos os públicos-alvos, somando seus critérios.
 
-![publico-alvo-e-ou-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/audi%C3%AAncia-de-campanhas/criar-audiencia-de-campanha_1.gif)
+![publico-alvo-e-ou-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/audiência-de-campanhas/criar-audiencia-de-campanha_1.gif)
 
 ### Defina seu público-alvo
 
@@ -80,7 +80,7 @@ Após clicar em `Criar novo público-alvo`, você precisa seguir as instruções
 
 Exemplo: participam do público-alvo os itens cuja marca é __Nike__, conforme ilustrado a seguir. A configuração também indica que pelo menos 3 itens precisam se enquadrar nesses critérios. Portanto, um cliente precisa ter no carrinho pelo menos 3 itens que se encaixam nesse cenário para participar do público-alvo.
 
-![exemplo-marca-publico-alvo-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/audi%C3%AAncia-de-campanhas/criar-audiencia-de-campanha_2.png)
+![exemplo-marca-publico-alvo-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/audiência-de-campanhas/criar-audiencia-de-campanha_2.png)
 
 ### Condições para seu público-alvo ser aplicado
 

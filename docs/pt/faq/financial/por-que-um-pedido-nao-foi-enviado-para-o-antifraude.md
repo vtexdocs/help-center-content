@@ -14,7 +14,7 @@ locale: pt
 legacySlug: por-que-um-pedido-nao-foi-enviado-para-o-antifraude
 ---
 
-Sempre que um pagamento é realizado, o conector do gateway de pagamento realiza algumas validações iniciais para prosseguir com o pagamento.  Neste ponto, o conector aguarda as respostas em relação às suas validações. 
+Sempre que um pagamento é realizado, o conector do gateway de pagamento realiza algumas validações iniciais para prosseguir com o pagamento. Neste ponto, o conector aguarda as respostas em relação às suas validações. 
 
 Após diversas tentativas, caso não obtenha as respostas esperadas, o pagamento e o pedido são cancelados. Os pedidos nesta situação não são enviados para o antifraude.
 

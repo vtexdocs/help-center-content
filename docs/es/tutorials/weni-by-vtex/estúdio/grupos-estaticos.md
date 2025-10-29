@@ -24,12 +24,12 @@ El grupo estático es el tipo de grupo donde los contactos deben ser añadidos y
 Puedes encontrar la descripción de las cartas de flujo para grupos haciendo clic en [cartas de acciones](https://docs.weni.ai/l/pt/fluxos/cartas-de-acao) y [decisiones](https://docs.weni.ai/l/pt/fluxos/cartas-de-decisao).
 Para crear un grupo estático, simplemente navega hasta la página de contactos, dentro del módulo ""Estudio"", y haz clic en el botón Crear Grupo en el menú lateral.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/grupos-estaticos_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/grupos-estaticos_1.png)
 
 Después de eso, solo debes elegir el nombre de tu grupo y crearlo en el pop-up que aparecerá.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/grupos-estaticos_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/grupos-estaticos_2.png)
 
 El grupo comenzará a aparecer en tu lista de grupos, justo debajo de las categorías de contactos en el menú lateral izquierdo. Si deseas editar el nombre de tu grupo, exportar los contactos participantes o eliminarlo, simplemente accede al grupo y luego haz clic en el botón de configuración en la esquina derecha, al lado de Gestionar Campos.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/grupos-estaticos_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/grupos-estaticos_3.png)

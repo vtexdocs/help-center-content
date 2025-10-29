@@ -19,7 +19,7 @@ La configuración de la integración con Google Shopping se realiza en el Admin.
 
 1. Accede al Admin VTEX.
 2. En el módulo Marketplace, haz clic en __Marketplace e integraciones__.
-3.  Ingresa __Google Shopping__ en el campo Buscar marketplace por nombre o nombre de cuenta y haz clic en `Conectar`.
+3. Ingresa __Google Shopping__ en el campo Buscar marketplace por nombre o nombre de cuenta y haz clic en `Conectar`.
 4. Lee la información contenida en la ventana emergente, rellena los campos que aparecen en la pantalla según se describe a continuación y después, en la parte superior derecha de la pantalla, haz clic en `Conectar`. (Los campos marcados con el símbolo * son obligatorios).
 
    - **Integración*:** solamente se habilitará la integración si marca _sí_.

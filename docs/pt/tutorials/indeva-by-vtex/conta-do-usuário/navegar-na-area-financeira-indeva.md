@@ -33,5 +33,5 @@ Na parte superior da tela, é possível aplicar filtros por:
 
 As **notas fiscais** disponíveis podem ser consultadas diretamente na área financeira.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usu%C3%A1rio/navegar-na-area-financeira-indeva_1.gif)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usuário/navegar-na-area-financeira-indeva_1.gif)
 

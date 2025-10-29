@@ -24,4 +24,4 @@ Na opção **Contâiner ID**, você encontrará o código. Copie-o.
 
 ![Gerenciador de tags Goggle 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/como-encontrar-o-pixel-do-google-tag-manager_2.png)
 
-Pronto! Agora você poderá adicionar o seu Pixel do Google Tag Manager na opção de _**Atrair > Remarketing**_ da **Suiteshare**.
+Pronto! Agora você poderá adicionar o seu Pixel do Google Tag Manager na opção de _**Atrair > Remarketing**_ da **VTEX Assisted Sales (SuiteShare)**.

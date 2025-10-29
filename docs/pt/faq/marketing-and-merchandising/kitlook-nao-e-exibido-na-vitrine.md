@@ -26,7 +26,7 @@ Saiba como configurar essa funcionalidade a seguir.
 
 __Preencha o campo da Label__
 
-1. Acesso o  __Catálogo__
+1. Acesso o __Catálogo__
 2. Clique em __Produtos e SKUs__
 3. Clique no __produto__ que deseja configurar
 4. Vá para a aba __Imagens__

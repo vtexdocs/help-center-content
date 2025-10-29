@@ -19,7 +19,7 @@ As transações realizadas pelo Pagamentos da VTEX passam por diversos status, d
 
 Veja abaixo um exemplo de linha do tempo com os status da transação.
 
-![Transaction Flow](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/vis%C3%A3o-geral-de-pagamentos/fluxo-da-transacao-no-pagamentos_1.jpg)
+![Transaction Flow](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/visão-geral-de-pagamentos/fluxo-da-transacao-no-pagamentos_1.jpg)
 
 1. __Authorizing__ (Autorizando): Este é o primeiro status de uma transação no Pagamentos. Neste estágio, o Pagamentos indica que teve início o processo de envio de informações para um adquirente ou para um outro gateway.
 2. __Authorized__ (Autorizado): Após o início do processo de autorização, o adquirente ou o outro gateway envia as informações da transação para o banco emissor. O banco responde se a transação deve ser ou não autorizada. Caso negue a transação, o pagamento é __cancelado__. Caso autorize, o status da transação passa para __Authorized__.

@@ -66,7 +66,7 @@ Após a finalização da exportação, você receberá um email com um link para
 
 Enquanto a exportação estiver sendo processada, a página [Produtos e SKUs](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) apresentará uma janela na parte inferior como a imagem a seguir:
 
-![export-pt-loading](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/cat%C3%A1logo-beta/importar-e-exportar-produtos-e-skus-via-planilha-beta_1.png)
+![export-pt-loading](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/importar-e-exportar-produtos-e-skus-via-planilha-beta_1.png)
 
 * **Exportações 1:** informa o número de operações de exportação sendo realizadas, neste caso apenas uma.
 * **Ícone de carregando:** indica que a operação de exportação está em andamento.
@@ -79,7 +79,7 @@ Enquanto a exportação estiver sendo processada, a página [Produtos e SKUs](/p
 
 Após a conclusão da operação, a janela apresentará as seguintes mudanças:
 
-![export-pt-done](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/cat%C3%A1logo-beta/importar-e-exportar-produtos-e-skus-via-planilha-beta_2.png)
+![export-pt-done](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/importar-e-exportar-produtos-e-skus-via-planilha-beta_2.png)
 
 * **Ícone verde:** indica que a exportação foi finalizada.
 * **Ícone fechar** <i class="fas fa-times" aria-hidden="true"></i>: quando clicado, fecha a visualização da janela, sem a opção de voltar a expandi-la.

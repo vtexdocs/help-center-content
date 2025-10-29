@@ -58,7 +58,7 @@ The table below shows how this sorting works by effect type, including surcharge
 | 3 | Price | Percentage discount applied only to items from the promotion. | Regular |
 | 4 | Price | Fixed amount deducted from the total order amount. | Regular |
 | 5 | Price | Fixed amount deducted directly from the item price. | Regular |
-| 6 | Price | Discount applied for buying products together.    | Buy Together \- Bundle |
+| 6 | Price | Discount applied for buying products together. | Buy Together \- Bundle |
 | 7 | Price | Sets a maximum price per item in the order. | Regular |
 | 8 | Shipping | Percentage discount applied to the shipping cost. | Regular |
 | 9 | Shipping | Fixed amount deducted from the shipping cost. | Regular |
@@ -80,8 +80,8 @@ For gift promotions, sorting is based on the highest number of gifts provided by
 
 For example:  
 
--  Promotion A: 30% discount on the product price.  
--  Promotion B: 50% discount.  
+- Promotion A: 30% discount on the product price.  
+- Promotion B: 50% discount.  
 
 Priority is given to the promotion that gives the greatest discount. For example, the cart will apply **Promotion B** and then **Promotion A**.  
 
@@ -97,13 +97,7 @@ The application sequence is:
 
 ![promoção](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/how-promotion-competition-works_1.png)
 
-<div style="background-color: #fff8e1; border-left: 4px solid #ffecb3; padding: 12px 16px; margin: 16px 0; font-family: sans-serif; overflow: auto;">
-  <p style="margin: 0;">
-    Orders originating from 
-    [Marketplace](/en/tutorial/configurar-promocao-para-marketplace--tutorials_406) 
-    or Fulfillment don't support combined promotions, as the use of promotions on VTEX or external marketplaces is restricted to specific types.
-  
-</div>
+> ⚠️ Orders originating from [Marketplace](/en/tutorial/configurar-promocao-para-marketplace--tutorials_406) or Fulfillment don't support combined promotions, as the use of promotions on VTEX or external marketplaces is restricted to specific types.
 
 ## Promotion competition strategies
 
@@ -115,16 +109,10 @@ Promotions of different types, or of the same type that apply to different produ
 
 There are two competition strategies:  
 
--  [Competition by scenario](#competition-by-scenario)
--  [Competition by item](#competition-by-item)
+- [Competition by scenario](#competition-by-scenario)
+- [Competition by item](#competition-by-item)
 
-<div style="background-color: #e3f2fd; border-left: 4px solid #2196f3; padding: 12px 16px; margin: 16px 0; font-family: sans-serif; overflow: auto;">
-  <p style="margin: 0;">
-    By default, all accounts follow the competition by scenario strategy. If the item-based competition strategy better suits your business needs, 
-    [please open a ticket with our Support team](/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) 
-    and request the change.
-  
-</div>
+> ℹ️ By default, all accounts follow the competition by scenario strategy. If the item-based competition strategy better suits your business needs, [please open a ticket with our Support team](/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) and request the change.
 
 ### Competition by scenario
 
@@ -294,7 +282,7 @@ Competition by item works like this:
 
 These items are part of collections:
 
-| Items  | Collections to which they belong |
+| Items | Collections to which they belong |
 | ----- | ----- |
 | T-shirt | Collection 1 and Collection 2 |
 | Shoes | Collection 1 |

@@ -26,7 +26,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 ## Page overview
 
-To access Amazon Listing, in the VTEX Admin, go to **Marketplace > Connections > Amazon Listing,** or type **Amazon Listing**  in the search bar.
+To access Amazon Listing, in the VTEX Admin, go to **Marketplace > Connections > Amazon Listing,** or type **Amazon Listing** in the search bar.
 
 The page consists of the following sections:
 
@@ -69,12 +69,12 @@ The process for adding SKUs is done exclusively via **Amazon Listing.** You can 
 SKUs with previously mapped attributes will appear in the list with the status **Incomplete setup**.
 Here's how you can add new SKUs via Amazon Listing:
 
-1. In the VTEX Admin, go to **Marketplace > Connections > Amazon Listing,**  or type **Amazon Listing** in the search bar.  
+1. In the VTEX Admin, go to **Marketplace > Connections > Amazon Listing,** or type **Amazon Listing** in the search bar.  
 2. Select the SKU you want to add.  
 3. Complete the fields **Title, Description, Keywords**, and **Category.**  
 4. Click the `Save and send` button to validate the SKU and send it to Amazon, or click the `Finish later` button to save and finish later.  
 
-Once the SKU is complete and sent, it enters a processing queue. The status changes to **Sent** while awaiting approval or rejection from Amazon. If accepted, the SKU status changes to **Published**. If rejected, the status changes to **Returned with error**  for corrections.
+Once the SKU is complete and sent, it enters a processing queue. The status changes to **Sent** while awaiting approval or rejection from Amazon. If accepted, the SKU status changes to **Published**. If rejected, the status changes to **Returned with error** for corrections.
 
 ## Template for adding products
 

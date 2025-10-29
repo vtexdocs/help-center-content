@@ -21,9 +21,9 @@ Para adição/exclusão de novos usuários como atendentes, primeiro adicione o 
 
 Clicar no botão de gerenciar membros na organização da plataforma Weni > Inserir o email > selecionar o tipo de permissão e clicar em adicionar na organização da plataforma Weni.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/weni-chats-gestao-do-atendimento-humano_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configurações-weni/weni-chats-gestao-do-atendimento-humano_1.png)
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/weni-chats-gestao-do-atendimento-humano_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configurações-weni/weni-chats-gestao-do-atendimento-humano_2.png)
 
 ### Adicionando atendentes ao seu projeto
 
@@ -31,11 +31,11 @@ Para adicionar usuários que farão parte do atendimento humano, é necessário 
 
 Em sua Organização, onde os projetos são listados, clique no local indicado no projeto específico:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/weni-chats-gestao-do-atendimento-humano_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configurações-weni/weni-chats-gestao-do-atendimento-humano_3.png)
 
 O processo é o mesmo de adicionar usuários na Organização:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/weni-chats-gestao-do-atendimento-humano_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configurações-weni/weni-chats-gestao-do-atendimento-humano_4.png)
 
 1 - Digite o e-mail
 
@@ -51,11 +51,11 @@ Se o usuário só fará atendimento humano, adicione somente ao projeto sem que 
 
 Para adicionar um setor no Weni Chats, você precisa acessar o módulo de **configurações > Chats > Novo setor**
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/weni-chats-gestao-do-atendimento-humano_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configurações-weni/weni-chats-gestao-do-atendimento-humano_5.png)
 
 Depois disso, preencha as informações para criar o setor:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/weni-chats-gestao-do-atendimento-humano_6.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configurações-weni/weni-chats-gestao-do-atendimento-humano_6.png)
 
 * Nome do setor;
 * Gerentes de atendimento (quem vai visualizar o histórico dos atendimentos, atividades dos agentes e dashboard);
@@ -69,7 +69,7 @@ Após configurar o setor, configure as filas.
 
 Todo setor, como requisito, necessita ter ao menos uma fila configurada para funcionar. Então você deve configurá-la ao criar o setor. Ao criar sua fila, crie um nome para a fila e adicione o atendente ou mais de um:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/weni-chats-gestao-do-atendimento-humano_7.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configurações-weni/weni-chats-gestao-do-atendimento-humano_7.png)
 
 Após configurar setor e fila, agora é hora de criar suas tags de atendimento.
 
@@ -79,6 +79,6 @@ As tags de atendimento são selecionadas ao fechar um atendimento e servem para 
 
 Para criar uma tag escolha o nome > Clique em Adicionar > clique em Salvar:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/weni-chats-gestao-do-atendimento-humano_8.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configurações-weni/weni-chats-gestao-do-atendimento-humano_8.png)
 
 Agora seu atendimento humano está configurado. O próximo passo é usar um cartão de abrir ticket em seu fluxo para direcionar os usuários ao atendimento humano.

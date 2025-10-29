@@ -42,5 +42,5 @@ Quando a URL e o código de rastreio estão inseridos, a cada atualização do s
 
 O Conversation Tracker - sistema que gerencia os e-mails trocados com o cliente - depende da inserção de algum valor nesse campo. Caso você não disponha de um número de rastreamento, basta inserir um valor qualquer para ativar o sistema de notificação.
 
-Também é possível inserir a nota fiscal  pela [API de Orders](https://developers.vtex.com/vtex-rest-api/reference/invoice).
+Também é possível inserir a nota fiscal pela [API de Orders](https://developers.vtex.com/vtex-rest-api/reference/invoice).
 

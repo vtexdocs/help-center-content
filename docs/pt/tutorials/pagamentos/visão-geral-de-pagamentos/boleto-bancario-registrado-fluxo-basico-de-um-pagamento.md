@@ -23,7 +23,7 @@ A seguir, veremos como funciona o fluxo básico de um pagamento com boleto regis
  
 ## Emissão do Boleto
 
-![Frame 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/vis%C3%A3o-geral-de-pagamentos/boleto-bancario-registrado-fluxo-basico-de-um-pagamento_1.png)
+![Frame 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/visão-geral-de-pagamentos/boleto-bancario-registrado-fluxo-basico-de-um-pagamento_1.png)
 
 1. Seu __e-commerce__ informa ao __Gateway__ que um pedido será pago através de boleto bancário.
 2. O gateway entra em contato com o __Banco__ para realizar o registro do boleto.
@@ -35,7 +35,7 @@ Neste momento, o boleto ainda não foi pago pelo cliente.
 
 ## Pagamento do Boleto e Conciliação Bancária
 
-![Frame 2.1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/vis%C3%A3o-geral-de-pagamentos/boleto-bancario-registrado-fluxo-basico-de-um-pagamento_2.png)
+![Frame 2.1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/visão-geral-de-pagamentos/boleto-bancario-registrado-fluxo-basico-de-um-pagamento_2.png)
 
 1. O __Cliente__ paga o boleto diretamente ao __Banco__.
 2. O banco envia para o __Gateway__ os arquivos de [conciliação bancária](/pt/tutorial/conciliacoes-bancarias) com as informações sobre o status de pagamento dos boletos.

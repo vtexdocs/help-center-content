@@ -21,7 +21,7 @@ Al hacer clic en una promoción de la lista, el seller utiliza la barra de búsq
 
 Accede a la página **Promociones** en el Admin VTEX, en **Marketplace > Mercado Libre > Promociones.**  
 
-![Central de promociones Mercado Libre](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/central-de-promociones-mercado-libre_1.gif)
+![Central de promociones Mercado Libre](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuración-de-las-integraciones/central-de-promociones-mercado-libre_1.gif)
 
 ## Tipos de promociones
 

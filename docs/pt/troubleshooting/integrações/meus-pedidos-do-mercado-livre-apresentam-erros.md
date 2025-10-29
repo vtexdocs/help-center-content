@@ -33,7 +33,7 @@ Para corrigir erros de integração em pedidos do Mercado Livre, considere as se
 
 Caso sua loja tenha o status de [Loja Oficial](https://www.mercadolivre.com.br/lojas-oficiais/catalogo) no Mercado Livre, é necessário informar no [cadastro do conector](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4YvYdgICMosaEgISOYogsi) o ID fornecido pelo Mercado Livre.  
 
-Para validar se foi inserido o ID correto, acesse **Marketplace > Conexões > Marketplaces e Integrações**  e siga os passos abaixo:  
+Para validar se foi inserido o ID correto, acesse **Marketplace > Conexões > Marketplaces e Integrações** e siga os passos abaixo:  
 
 1. Busque pelo conector **Mercado Livre.**  
 2. Clique em `Editar`.  
@@ -47,7 +47,7 @@ Ao realizar o [mapeamento de categorias e atributos](/pt/tracks/configurar-integ
 Se algum dos atributos for preenchido incorretamente, a integração retornará um erro no seguinte formato:  
 `A categoria selecionada no atributo category_meli não existe no Mercado Livre.`
 
-Para verificar as categorias e atributos enviados, acesse **Marketplace > Conexões > Marketplaces e Integrações**  e siga os passos abaixo:  
+Para verificar as categorias e atributos enviados, acesse **Marketplace > Conexões > Marketplaces e Integrações** e siga os passos abaixo:  
 
 1. Busque pelo conector **Mercado Livre.**  
 2. Clique em `Editar`.  

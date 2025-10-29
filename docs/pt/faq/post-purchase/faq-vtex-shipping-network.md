@@ -40,13 +40,13 @@ Primeiro, identifique se o comportamento foi em uma loja específica ou em todas
 
 ## 3) Encontrei valores inesperados na simulação do VTEX Shipping Network.  
 
-Primeiro, identifique se o comportamento foi em uma transportadora específica ou em todas as cadastradas na sua conta. Se o erro aparece em todas as transportadoras, entre em contato com o suporte da VTEX.  Se for em alguma transportadora específica, o erro provavelmente estará na [planilha de frete](/pt/tutorial/importar-planilha-de-frete--45I9m2rknucSmYigA2AE0G?locale=pt) cadastrada. No seu Admin, faça o download da planilha e confira os campos cadastrados.  
+Primeiro, identifique se o comportamento foi em uma transportadora específica ou em todas as cadastradas na sua conta. Se o erro aparece em todas as transportadoras, entre em contato com o suporte da VTEX. Se for em alguma transportadora específica, o erro provavelmente estará na [planilha de frete](/pt/tutorial/importar-planilha-de-frete--45I9m2rknucSmYigA2AE0G?locale=pt) cadastrada. No seu Admin, faça o download da planilha e confira os campos cadastrados.  
 
 
 ## 4) A transportadora não aparece na simulação do VTEX Shipping Network.
 
 Existem alguns cenários possíveis para esse comportamento:   
--  A transportadora não atende a nenhum pedido da loja.  
+- A transportadora não atende a nenhum pedido da loja.  
 - Houve um erro no upload da [planilha de frete](/pt/tutorial/importar-planilha-de-frete--45I9m2rknucSmYigA2AE0G?locale=pt).   
 
 

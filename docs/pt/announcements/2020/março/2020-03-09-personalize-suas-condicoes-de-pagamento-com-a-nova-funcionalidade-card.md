@@ -35,6 +35,6 @@ A configuração é similar à das demais condições especiais de pagamento.
 
 A principal diferença é que, depois de selecionar o país e o banco emissor, o lojista pode escolher entre as opções de Card Level disponibilizadas pela instituição financeira escolhida.
 
-![comousarcardlevel](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020/mar%C3%A7o/2020-03-09-personalize-suas-condicoes-de-pagamento-com-a-nova-funcionalidade-card_1.gif)
+![comousarcardlevel](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020/março/2020-03-09-personalize-suas-condicoes-de-pagamento-com-a-nova-funcionalidade-card_1.gif)
 
 Para saber em detalhes como configurar essa feature, veja nosso [artigo sobre Configuração de Condições Especiais de Pagamento](/pt/tutorial/special-conditions--tutorials_456).

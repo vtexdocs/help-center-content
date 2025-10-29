@@ -44,7 +44,7 @@ Ao entrar no Message Center e clicar em __Templates__, você encontra a lista de
 
 Vamos entender as informações presentes nesses cards.
 
-![Emails 1 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/e-mails-transacionais/como-funciona-o-message-center_1.png)
+![Emails 1 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/e-mails-transacionais/como-funciona-o-message-center_1.png)
 
 - Nome do template para identificação interna. Este *não* é o assunto do e-mail.
 - Aplicação ou módulo ao qual o template pertence, sinalizado em verde.
@@ -54,7 +54,7 @@ Vamos entender as informações presentes nesses cards.
 
 Para buscar templates, você pode usar filtros por aplicação (módulo) e tipo (mensagem padrão ou personalizada).
 
-![Emails 1 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/e-mails-transacionais/como-funciona-o-message-center_2.png)
+![Emails 1 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/e-mails-transacionais/como-funciona-o-message-center_2.png)
 
 ### Remetentes
 
@@ -62,7 +62,7 @@ Aqui, o usuário confere e edita as informações - nome, e-mail e dados do serv
 
 Estas são as informações apresentadas nos cards dos remetentes:
 
-![Emails 1 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/e-mails-transacionais/como-funciona-o-message-center_3.png)
+![Emails 1 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/e-mails-transacionais/como-funciona-o-message-center_3.png)
 
 - Nome do remetente, para identificação interna.
 - Tipo de servidor SMTP, que pode ser da VTEX ou da própria loja.
@@ -71,6 +71,6 @@ Estas são as informações apresentadas nos cards dos remetentes:
 - Botão para executar um teste de envio de mensagem.
 - Ícone indicando se o remetente passou ou não no teste de envio (não exibido se nenhum teste recente foi realizado). Mostra um check verde se passou e um "x" vermelho se não passou.
 
-Vale ressaltar que é imprescindível personalizar o remetente. Assim, seus clientes  receberão as mensagens com o nome e o endereço de e-mail da sua empresa. Para saber mais sobre esse assunto, confira o [artigo sobre como editar o servidor de e-mails VTEX](/pt/tutorial/personalizando-o-smtp-da-vtex).
+Vale ressaltar que é imprescindível personalizar o remetente. Assim, seus clientes receberão as mensagens com o nome e o endereço de e-mail da sua empresa. Para saber mais sobre esse assunto, confira o [artigo sobre como editar o servidor de e-mails VTEX](/pt/tutorial/personalizando-o-smtp-da-vtex).
 
 Até que sua loja faça essa configuração, os e-mails serão enviados com o remetente padrão “noreply@vtexcommerce.com.br”.

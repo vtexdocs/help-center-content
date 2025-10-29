@@ -20,7 +20,7 @@ En la plataforma VTEX, tienes la opción de registrar tiendas físicas, franquic
 
 La cuenta franquicia está asociada a una cuenta principal. En el caso de una marca que tenga varias tiendas físicas, franquiciados o representantes, cada uno de ellos puede tener una cuenta franquicia vinculada a la cuenta principal de la marca. Esto les permite entregar los productos vendidos por el ecommerce de la marca.
 
-![diagrama contas v2 - es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/omnichannel/visi%C3%B3n-general-de-omnichannel/que-es-una-cuenta-franquicia_1.png)
+![diagrama contas v2 - es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/omnichannel/visión-general-de-omnichannel/que-es-una-cuenta-franquicia_1.png)
 
 En este artículo, trataremos los siguientes temas:
 
@@ -39,7 +39,7 @@ Además, utilizando la cuenta franquicia, puedes gestionar precios y medios de p
 
 Una cuenta franquicia no tiene su propio sitio web. Los consumidores navegan directamente en el sitio web de la cuenta principal, que funciona como un _marketplace_ en esta situación. Los datos de los clientes se almacenan en el Master Data de la cuenta principal.
 
-![diagrama admin contas - es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/omnichannel/visi%C3%B3n-general-de-omnichannel/que-es-una-cuenta-franquicia_2.png)
+![diagrama admin contas - es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/omnichannel/visión-general-de-omnichannel/que-es-una-cuenta-franquicia_2.png)
 
 ## Relación entre la cuenta franquicia y el _Seller White Label_
 

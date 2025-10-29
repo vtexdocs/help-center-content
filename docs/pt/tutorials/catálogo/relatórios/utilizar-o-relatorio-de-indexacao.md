@@ -17,7 +17,7 @@ subcategoryId: 5yDQmr18K4GgQAeGwq8USa
 
 O **Relatório de Indexação** é o relatório que indica o status de indexação de todos os produtos da loja. 
 
-![RelatorioIndexação](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/relat%C3%B3rios/utilizar-o-relatorio-de-indexacao_1.png)
+![RelatorioIndexação](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/relatórios/utilizar-o-relatorio-de-indexacao_1.png)
 
 > ℹ️ **Nota:** Para mais informações, acesse [Entendendo o funcionamento da indexação.](/pt/tutorial/entendendo-o-funcionamento-da-indexacao)
 

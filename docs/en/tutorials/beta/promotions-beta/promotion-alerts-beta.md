@@ -48,7 +48,7 @@ The Promotion Alerts page allows you to:
 
 ## Creating an alert
 
-To create a promotion alert, click the `Create Alert` button.  Please read the article [Promotion Alerts: How to create a promotion alert](/en/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR) to learn more.
+To create a promotion alert, click the `Create Alert` button. Please read the article [Promotion Alerts: How to create a promotion alert](/en/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR) to learn more.
 
 ## Searching for an alert
 

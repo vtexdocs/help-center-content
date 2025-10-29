@@ -19,7 +19,7 @@ O **Amazon Listing** é a funcionalidade utilizada pelo seller para cadastrar pr
 - Se o produto já existe na Amazon, o seller deve seguir as instruções do [Tutorial Match de anúncios Amazon](/pt/tutorial/match-de-anuncios-amazon--7fRfoP69kYgg8znImMhyQ0) para vincular seu produto a um anúncio na Amazon.  
 - Se o produto ainda não existe na Amazon, o seller deve seguir as instruções deste tutorial para cadastrar seu produto e criar um novo anúncio na Amazon. 
 
-![overview amazon listing](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/configura%C3%A7%C3%B5es-de-integra%C3%A7%C3%B5es/amazon-listing_1.gif)
+![overview amazon listing](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/amazon-listing_1.gif)
 
 > ℹ️ Todos os produtos precisam ter [Estoque](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e [Preço](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de serem enviados ao marketplace.  
 
@@ -37,8 +37,8 @@ A página é composta pelos seguintes itens:
 
 Na barra de busca, o seller pesquisará SKUs por **nome** ou por **SKU ID.** Veja exemplos abaixo.
 
-![busca-nome-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/configura%C3%A7%C3%B5es-de-integra%C3%A7%C3%B5es/amazon-listing_2.jpg)
-![busca-sku-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/configura%C3%A7%C3%B5es-de-integra%C3%A7%C3%B5es/amazon-listing_3.jpg)
+![busca-nome-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/amazon-listing_2.jpg)
+![busca-sku-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/amazon-listing_3.jpg)
 
 ### Filtros
 
@@ -110,7 +110,7 @@ Ao realizar a edição de um template, é possível adicionar novos atributos e 
 
 Quando alguma edição é feita no template, será apresentado no rodapé da página a opção de visualizar as alterações como na imagem a seguir.
 
-![Gerenciar template Listing](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/configura%C3%A7%C3%B5es-de-integra%C3%A7%C3%B5es/amazon-listing_4.jpg)
+![Gerenciar template Listing](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/amazon-listing_4.jpg)
 
 > ℹ️ Todas as alterações realizadas no template, serão refletidas nos SKUs da categoria que ainda não foram enviados.
 

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
-Inventory integration errors may occur in marketplaces for which VTEX has developed a  [native connector](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex). As a result, the items with errors are not available on the marketplaces. In these cases, you can see a message identifying the error. To view it, log in to your VTEX Admin, go to **MARKETPLACE > Connections > Inventory**, and click on “processed with error”.
+Inventory integration errors may occur in marketplaces for which VTEX has developed a [native connector](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex). As a result, the items with errors are not available on the marketplaces. In these cases, you can see a message identifying the error. To view it, log in to your VTEX Admin, go to **MARKETPLACE > Connections > Inventory**, and click on “processed with error”.
 
 To see which inventory integration errors are most common in a given marketplace and how to solve them, click on the name of the marketplace:
 

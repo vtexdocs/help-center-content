@@ -53,7 +53,7 @@ To put your store into production, first, your account must be in production. To
 
 1. Log in to the VTEX Admin.
 2. Click your **profile avatar.**
-3. Click  **Account Settings** > **Account.**
+3. Click **Account Settings** > **Account.**
 4. Click **Activate in production** in the warning box.
 5. Toggle the option **I understand the impact of this action** in the box that will be displayed.
 6. Click the `Confirm` button.

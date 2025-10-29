@@ -21,18 +21,18 @@ Para acessá-la, siga os passos abaixo:
 
 1. Na topbar do Admin, no canto direito, clique no botão com a letra inicial do seu nome;
 2. Clique na opção __Configurações de usuário__.  
-![Opção Configurações de usuário User Management PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/usu%C3%A1rios/configurar-dados-pessoais-na-tela-de-usuario_1.png)
+![Opção Configurações de usuário User Management PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/usuários/configurar-dados-pessoais-na-tela-de-usuario_1.png)
 
 Há duas opções no menu:
 
 - Em __Pessoal__ você pode ver seu nome, seu e-mail cadastrado no Admin e o número do seu telefone.  
-![Configuração Pessoal User Management PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/usu%C3%A1rios/configurar-dados-pessoais-na-tela-de-usuario_2.png)
+![Configuração Pessoal User Management PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/usuários/configurar-dados-pessoais-na-tela-de-usuario_2.png)
   - Ao clicar em __Nome__, você terá a opção de editar seu nome e sobrenome.  
-  ![Configuração Nome User Management PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/usu%C3%A1rios/configurar-dados-pessoais-na-tela-de-usuario_3.png)
+  ![Configuração Nome User Management PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/usuários/configurar-dados-pessoais-na-tela-de-usuario_3.png)
   - Ao clicar em __Número de celular__, você terá a opção de editar seu número de celular com o código do país.  
-  ![Configuração Celular User Management PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/usu%C3%A1rios/configurar-dados-pessoais-na-tela-de-usuario_4.png)
+  ![Configuração Celular User Management PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/usuários/configurar-dados-pessoais-na-tela-de-usuario_4.png)
 - Em __Autenticação__, você encontra as opções de modificação de senha, gerenciamento da verificação em 2 passos (2FA) para seu login no Admin VTEX e gerenciamento de sessões. Veja abaixo quais são essas opções.  
-![Configuração Autenticação User Management PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/usu%C3%A1rios/configurar-dados-pessoais-na-tela-de-usuario_5.png)
+![Configuração Autenticação User Management PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/usuários/configurar-dados-pessoais-na-tela-de-usuario_5.png)
 
 ## Verificação em 2 passos
 
@@ -50,4 +50,4 @@ Aqui você deve configurar o aplicativo que fornecerá a chave de autenticação
 
 Veja em detalhes como configurar o aplicativo no artigo [Habilitar login por autenticação de 2 fatores](/pt/tutorial/habilitar-login-por-autenticacao-de-2-fatores#habilitar-o-2fa-por-aplicativo).
 
-![Configuração Verificação em 2 passos User Management PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/usu%C3%A1rios/configurar-dados-pessoais-na-tela-de-usuario_6.png)
+![Configuração Verificação em 2 passos User Management PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/usuários/configurar-dados-pessoais-na-tela-de-usuario_6.png)

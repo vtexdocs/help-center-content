@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-A role determines the set of resources that a group of users can access on VTEX. You can manage roles via the VTEX Admin, where you can define the[ resources](/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) and users associated with each role.
+A role determines the set of resources that a group of users can access on VTEX. You can manage roles via the VTEX Admin, where you can define the [resources](/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) and users associated with each role.
 
 When creating a role, you can either use a [predefined role](/en/tutorial/access-control--4rM3gyiWqtkim4Q8hOvLTC#predefined) created by the VTEX team to meet common operational scenarios or create a [custom role](/en/tutorial/access-control--4rM3gyiWqtkim4Q8hOvLTC#custom), selecting specific resources that users with this role need access to.
 

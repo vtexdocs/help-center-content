@@ -25,7 +25,7 @@ Para comprobar si tu cuenta está habilitada, accede al **Admin VTEX > Marketpla
 2. Haz clic en `Editar`.  
 3. Comprueba el valor del campo `Stock multi origen activado`, que puede ser `Sí` o `No`.  
 
-![Multi-orígen activado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/asignacion-de-almacen-en-mercado-libre_1.jpg)
+![Multi-orígen activado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuración-de-las-integraciones/asignacion-de-almacen-en-mercado-libre_1.jpg)
 
 En caso de que el valor sea  `Sí`, debes configurar la integración de tus almacenes VTEX con los de Mercado Libre. Consulta [Configurar la asignación de almacén](/es/tutorial/configurar-alocacao-de-estoque--1yCEr7xQ0gVsTBB0ktMYVX) para realizar las acciones necesarias.  
 

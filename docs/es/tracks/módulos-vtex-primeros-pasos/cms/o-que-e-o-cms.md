@@ -15,7 +15,7 @@ trackSlugEN: cms
 order: 1
 ---
 
-![CMS Capa overview](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/cms/o-que-e-o-cms_1.png)
+![CMS Capa overview](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/cms/o-que-e-o-cms_1.png)
 
 Un sistema de gestión de contenido o CMS (content management system) permite gestionar contenido de forma práctica y constante.
 

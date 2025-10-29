@@ -19,7 +19,7 @@ Campos de contatos são variáveis criadas na plataforma onde salvamos valores s
 
 Independente do fluxo em que seu contato esteja, você pode acessar seus campos utilizando a variável `@fields.nome_do_campo` ou `@contact.fields.nome_do_campo`
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/campos-de-contato_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/campos-de-contato_1.png)
 
 As duas variáveis mencionadas acima podem levar para o mesmo campo de contato.
 
@@ -29,11 +29,11 @@ Para acessar essas informações, entre no seu projeto e clique no módulo **""E
 
 s**"".
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/campos-de-contato_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/campos-de-contato_2.png)
 
 Você será direcionado para a página de gerenciamento de campos de contato, onde você encontrará: Todos os campos existentes dentro do seu projeto, sua forma de escrita como variável e o tipo de valor que é aceito e quantas vezes ele foi utilizado. Para criar um novo campo, basta clicar em **criar campo**.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/campos-de-contato_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/campos-de-contato_3.png)
 
 Depois, basta:
 
@@ -43,6 +43,6 @@ Depois, basta:
 
 -  Se você deseja ou não que esse campo apareça na pré-visualização da página de contatos, selecionando a caixa de seleção **Destaque**.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/campos-de-contato_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/campos-de-contato_4.png)
 
 Caso queira editar alguma informação, basta clicar em cima do campo de contato já existente, assim, o pop-up de edição irá abrir novamente.

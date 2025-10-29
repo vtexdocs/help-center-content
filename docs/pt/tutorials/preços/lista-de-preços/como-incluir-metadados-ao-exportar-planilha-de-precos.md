@@ -18,10 +18,10 @@ subcategoryId: 4id9W3RDyw02CasOm2C2iy
 Para incluir metadados ao exportar uma planilha de preços de SKUs siga os passos abaixo:
 
 1. Clique em **Preços**, no menu do lado esquerdo da página
-![refidplanilha1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pre%C3%A7os/lista-de-pre%C3%A7os/como-incluir-metadados-ao-exportar-planilha-de-precos_1.png)
+![refidplanilha1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/preços/lista-de-preços/como-incluir-metadados-ao-exportar-planilha-de-precos_1.png)
 2. Clique em **lista de preços**
 3.  Na parte superior da página, lado esquerdo, clique no ícone de **seta para baixo**
 4. Na aba lateral que se abrirá, escolha a opção de tabela que deseja exportar
 5. Clique em **incluir metadados nas tabelas exportadas**
 6. Clique no botão **Exportar tabela**
-![refidplanilha2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pre%C3%A7os/lista-de-pre%C3%A7os/como-incluir-metadados-ao-exportar-planilha-de-precos_2.png)
+![refidplanilha2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/preços/lista-de-preços/como-incluir-metadados-ao-exportar-planilha-de-precos_2.png)

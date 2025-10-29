@@ -65,7 +65,7 @@ Vamos a analizar un escenario en el que usted compre sus SKUs al por mayor y que
 
 Es posible definir más de un precio fijo para la misma tabla de precios. __Si existe una competencia de los mismos criterios en la aplicación del precio, la regla general es que el sistema exhiba el precio fijo más bajo para el cliente__.
 
-Si dos precios fijos fueran elegibles para una *misma fecha de programación*, el sistema va a escoger el  __menor precio__ entre los dos precios fijos. De la misma manera, si se pueden aplicar dos precios a *una misma cantidad de ítems en el carrito*, el sistema elegirá como precio de venta el __precio fijo de menor valor__.
+Si dos precios fijos fueran elegibles para una *misma fecha de programación*, el sistema va a escoger el __menor precio__ entre los dos precios fijos. De la misma manera, si se pueden aplicar dos precios a *una misma cantidad de ítems en el carrito*, el sistema elegirá como precio de venta el __precio fijo de menor valor__.
 
 ### Competencia por el Criterio de Programación 
 
@@ -73,7 +73,7 @@ Digamos que se registren dos precios fijos para el mismo SKU. Además, ambos tie
 
 Por ejemplo: el primer precio fijo es __$ 50.00__ y ​​su programación va de __10h a 16h__. Ya el segundo es __$ 25.00__, solo que está programado de __12h a 20h del mismo día__. En este caso, *entre las 12h y las 16h*, los dos precios fijos compiten entre sí. Por lo tanto, el valor de __$ 25.00__ será el precio de venta del SKU en este horario en común.
 
-![fixed price - example2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/precios-101/precio-fijo-definicion-de-concepto_1.svg)
+![fixed price - example2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/precios-101/precio-fijo-definicion-de-concepto_1.svg)
 
 ### Competencia por el Criterio de Ítems Mínimos en el Carrito 
 
@@ -83,7 +83,7 @@ Imagine que registramos un precio fijo de $ 200.00 para __dos o más ítems en e
 
 ¿Cuál sería el precio aplicado para 5 o más ítems? El precio de venta será de $ 100.00, visto que el sistema prioriza el valor más bajo.
 
-![fixed price - example1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/precios-101/precio-fijo-definicion-de-concepto_2.svg)
+![fixed price - example1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/precios-101/precio-fijo-definicion-de-concepto_2.svg)
 
 ## Ejemplos
 

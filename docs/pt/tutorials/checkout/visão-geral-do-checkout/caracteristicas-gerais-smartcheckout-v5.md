@@ -25,7 +25,7 @@ Note que, apesar de estar em um iframe, ainda é possível aplicar CSS normalmen
 
 Em exemplo prático, para ocultar a opção "Pagar usando dois cartões", deve ser usado apenas `.ChangeNumberOfPayments {display: none}`.
 
-![2017-06-22 162341](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/vis%C3%A3o-geral-do-checkout/caracteristicas-gerais-smartcheckout-v5_1.jpg)
+![2017-06-22 162341](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/visão-geral-do-checkout/caracteristicas-gerais-smartcheckout-v5_1.jpg)
 
 ### Nova opção de cálculo de frete por geocoordenada
 

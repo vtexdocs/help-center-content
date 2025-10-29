@@ -27,7 +27,7 @@ Es necesario definir qué política comercial se utilizará para integrar sus pr
 
 ## Definiendo el surtido de productos
 
-Una vez creada la política comercial, será necesario asociar la nueva política con los productos de su catálogo para definir cuáles serán enviados a Wish.  A continuación, un paso a paso de cómo definir el surtido **masivamente por plantilla** ([vea otros métodos aquí](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#Planilha)).
+Una vez creada la política comercial, será necesario asociar la nueva política con los productos de su catálogo para definir cuáles serán enviados a Wish. A continuación, un paso a paso de cómo definir el surtido **masivamente por plantilla** ([vea otros métodos aquí](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#Planilha)).
 
   1. Haga la exportación de los productos de su catálogo ([vea cómo en la sección "Plantilla" de este artículo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#object-object)).
   2. Agregue al campo **"CodigoTiendas"** ([más detalle aquí](/es/tutorial/preencher-campos-da-planilha-de-importacao--4nYhx63Q5yokQWaMguaIgI)) el **ID** de la política comercial definida en el paso anterior.
@@ -35,7 +35,7 @@ Una vez creada la política comercial, será necesario asociar la nueva polític
 
 ## Definiendo la logística
 
-Para garantizar que los pedidos se integren con éxito, deberá realizar toda la asociación logística entre stock, muelles y transportadoras en VTEX. Para comprender un poco más sobre el contexto general de logística en VTEX, consulte [este artículo](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx). Realice el siguiente procedimiento  para hacer las configuraciones:
+Para garantizar que los pedidos se integren con éxito, deberá realizar toda la asociación logística entre stock, muelles y transportadoras en VTEX. Para comprender un poco más sobre el contexto general de logística en VTEX, consulte [este artículo](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx). Realice el siguiente procedimiento para hacer las configuraciones:
 
   1. Verifique si sus [stocks](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/3mlfDHjikOgUna1SS2Nr1Y#campos-de-cadastro) están vinculados a los muelles correctos.
   2. Verifique si los [muelles](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/5XvQ1yLpxLlIKWRw1pSiyA) escogidos están asociados con la política comercial de Wish.

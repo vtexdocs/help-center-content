@@ -17,7 +17,7 @@ order: 3
 
 Prateleira Infinita é a possibilidade de o cliente final comprar produtos em um canal (geralmente, uma loja física) ainda que esses produtos não existam no estoque desse canal. O pedido pode ser fechado porque a loja consegue acessar o catálogo compartilhado por todos os estoques e lojas físicas da marca, e a entrega pode ser realizada a partir de qualquer um desses estoques.
 
-Esse é um conceito básico de estratégias Omnichannel, e essencial para a real uma experiência de Unified Commerce, uma vez que  a disponibilidade no estoque local deixa de ser um impedimento para o fechamento de compra, removendo barreiras na interação com o cliente final - elevando sua taxa de conversão - e unificando toda a gestão desse processo em um único sistema.
+Esse é um conceito básico de estratégias Omnichannel, e essencial para a real uma experiência de Unified Commerce, uma vez que a disponibilidade no estoque local deixa de ser um impedimento para o fechamento de compra, removendo barreiras na interação com o cliente final - elevando sua taxa de conversão - e unificando toda a gestão desse processo em um único sistema.
 
 ## Pré-requisitos
 

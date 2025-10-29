@@ -45,7 +45,7 @@ Para solicitar a exclusão de dados, crie um [perfil de acesso customizado](/pt/
 - **Write user rights requests** (do produto **User Rights**);
 - **Open Support Ticket** (do produto **VTEX Support**).
 
-![perfil-de-acesso-gdpr](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/seguran%C3%A7a/seguran%C3%A7a-para-lojistas/exclusao-de-dados-de-clientes_1.jpg)
+![perfil-de-acesso-gdpr](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/segurança/segurança-para-lojistas/exclusao-de-dados-de-clientes_1.jpg)
 
 Em seguida, atribua este perfil de acesso ao usuário que será responsável pela solicitação de exclusão de dados de clientes.
 
@@ -56,7 +56,7 @@ Com os dados verificados e o perfil configurado, siga estes passos para realizar
 1. Faça login no Admin VTEX com a conta em que a exclusão será realizada, utilizando um usuário com o perfil de acesso **Lei Geral de Proteção de Dados** configurado em [2. Configurar perfil de acesso](#2-configurar-perfil-de-acesso).
 2. Clique no botão **Copilot** no canto superior direito.
 3. Envie a mensagem: `Eu quero excluir um cliente da plataforma VTEX`.
-    ![copilot-excluir-cliente-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/seguran%C3%A7a/seguran%C3%A7a-para-lojistas/exclusao-de-dados-de-clientes_2.gif)
+    ![copilot-excluir-cliente-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/segurança/segurança-para-lojistas/exclusao-de-dados-de-clientes_2.gif)
 4. Quando solicitado, informe o email do cliente que deseja excluir. É possível solicitar a exclusão de apenas um cliente por vez. Portanto, cada solicitação deve conter apenas um email.
 
 Após essa etapa, a solicitação será encaminhada ao suporte da VTEX, e você receberá o ID do ticket de suporte para acompanhamento.

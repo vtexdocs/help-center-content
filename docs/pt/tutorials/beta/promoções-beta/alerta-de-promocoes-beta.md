@@ -27,7 +27,7 @@ Se você configurar apenas a ação de alerta por email, outros pedidos com o de
 
 Para acessar a página no Admin VTEX, acesse *Promoções > Alerta de promoções*. A seguinte interface vai aparecer:
 
-![simuladordepromocoes gerenciar](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/promo%C3%A7%C3%B5es-beta/alerta-de-promocoes-beta_1.gif)
+![simuladordepromocoes gerenciar](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/promoções-beta/alerta-de-promocoes-beta_1.gif)
 
 A tabela a seguir apresenta a descrição das colunas da listagem de promoções:
 

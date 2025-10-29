@@ -72,7 +72,7 @@ Digamos que dois preços fixos sejam cadastrados para o mesmo SKU. Além disso, 
 
 Por exemplo: o primeiro preço fixo é de __R$ 50,00__ e seu agendamento vai das __10h às 16h__. Já o segundo é de __R$ 25,00__, só que está programado das __12h às 20h do mesmo dia__. Neste caso, *entre 12h e 16h*, os dois preços fixos competem entre si. Desse modo, o valor de __R$ 25,00__ será o preço de venda do SKU neste horário em comum.
 
-![fixed price - example2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/precos-101/preco-fixo-definicao-de-conceito_1.svg)
+![fixed price - example2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/precos-101/preco-fixo-definicao-de-conceito_1.svg)
 
 ### Concorrência pelo critério de Itens mínimos no carrinho
 
@@ -82,7 +82,7 @@ Imagine que cadastramos um preço fixo de R$ 200,00 para __dois ou mais itens no
 
 Qual seria o preço aplicado para 5 ou mais itens? O preço de venda será de R$ 100,00, visto que o sistema prioriza o menor valor.
 
-![fixed price - example1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/precos-101/preco-fixo-definicao-de-conceito_2.svg)
+![fixed price - example1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/precos-101/preco-fixo-definicao-de-conceito_2.svg)
 
 ## Exemplos
 

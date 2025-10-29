@@ -33,7 +33,7 @@ Este artículo aborda los siguientes aspectos:
 
 Cuando se configura, el lead time es un tiempo adicional que compone el plazo de envío del pedido que se muestra al cliente en el checkout. En la imagen a continuación, se muestran los elementos que componen el plazo total:
 
-![lead_time_image_total_time_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/inventario/lead-time-tiempo-de-envio-a-nivel-de-sku_1.png)
+![lead_time_image_total_time_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/inventario/lead-time-tiempo-de-envio-a-nivel-de-sku_1.png)
 
 * **Lead time:** cantidad de tiempo configurable para el SKU de un almacén. Este periodo puede corresponder al tiempo de procesamiento o fabricación del ítem, por ejemplo. Esta configuración es opcional y se establece en cero días de forma predeterminada.
 * [Tiempo de almacén:](/es/tutorial/gerenciar-estoque--tutorials_137) tiempo que tarda el SKU en pasar del almacén al [muelle](/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj). Este ajuste es obligatorio, pero puedes configurar el tiempo como cero.
@@ -78,7 +78,7 @@ Para configurar el lead time de un SKU sigue los pasos a continuación:
 1. En el Admin VTEX, accede a **Catálogo > Stock > Gestión del stock**, o ingresa **Gestión del stock** en la barra de búsqueda de la parte superior de la página.
 2. Selecciona el SKU que deseas configurar. Puedes utilizar la barra y los filtros de búsqueda.
 3. Ingresa el número de días en la fila del SKU y en la columna **Lead time (días)**.
-  ![lead_time_inventory_management_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/inventario/lead-time-tiempo-de-envio-a-nivel-de-sku_2.png)
+  ![lead_time_inventory_management_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/inventario/lead-time-tiempo-de-envio-a-nivel-de-sku_2.png)
 4. Haz clic en `Guardar` en la parte inferior de la página.
 
 > ℹ️ En el Admin VTEX, el lead time siempre se configura en días, pero también se pueden configurar periodos en horas, minutos y segundos, utilizando los endpoints [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-) y [Update inventory lead time by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#patch-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-/lead-time).

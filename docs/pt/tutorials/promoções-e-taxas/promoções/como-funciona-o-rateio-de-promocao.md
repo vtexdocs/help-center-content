@@ -37,7 +37,7 @@ Digamos que temos uma promoção de desconto nominal no valor de R$ 156,00 para 
 - Produto D: R$ 150,00.
 
 Considerando a lógica de cálculo acima, ficaria da seguinte forma:
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/como-funciona-o-rateio-de-promocao_1.JPG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/como-funciona-o-rateio-de-promocao_1.JPG)
 
 Esse cálculo é aplicado para produtos unitários, como uma blusa ou uma mesa, mas também existem produtos que têm em seu cadastro uma configuração chamada de unidade multiplicadora, como uma caixa de piso com 2,5 m², por exemplo.
 

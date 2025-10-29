@@ -1,5 +1,5 @@
 ---
-title: 'Facebook: FAQ'
+title: "Facebook: FAQ"
 id: 3t2RoCcVfXgmGrQ70PmPxr
 status: PUBLISHED
 createdAt: 2021-06-16T19:36:32.098Z
@@ -18,14 +18,17 @@ subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
 This guide is intended to provide solutions to problems that may arise with Facebook Integration. Please use the table of contents below for navigation.
 
 ## [Ads and Products](#ads-and-products)
-1.  [How to troubleshoot SKU issues with bridge errors. Error message: "Unsupported post request. Object with ID “XXXXX” does not exist.”](#how-to-solve-sku-problems-with-bridge-errors-error-message-unsupported-post-request-object-with-id-xxxxx-does-not-exist)
-2.  [How to troubleshoot SKU issues with bridge errors. Error message: "The SKU does not have a sales price on VTEX. This is a required value”.](#how-to-solve-sku-problems-with-bridge-errors-error-message-the-sku-does-not-have-a-sales-price-on-vtex-this-is-a-required-value)
+
+1. [How to troubleshoot SKU issues with bridge errors. Error message: "Unsupported post request. Object with ID “XXXXX” does not exist.”](#how-to-solve-sku-problems-with-bridge-errors-error-message-unsupported-post-request-object-with-id-xxxxx-does-not-exist)
+2. [How to troubleshoot SKU issues with bridge errors. Error message: "The SKU does not have a sales price on VTEX. This is a required value”.](#how-to-solve-sku-problems-with-bridge-errors-error-message-the-sku-does-not-have-a-sales-price-on-vtex-this-is-a-required-value)
 
 ## [Settings](#settings)
-1.  [How to redo the authentication process ?](#how-to-redo-the-authentication-process)
-2.  [How to configure login with Facebook and Google?](#how-to-configure-login-with-facebook-and-google)
+
+1. [How to redo the authentication process ?](#how-to-redo-the-authentication-process)
+2. [How to configure login with Facebook and Google?](#how-to-configure-login-with-facebook-and-google)
 
 ## Ads and Products
+
 ### How to solve SKU problems with bridge errors. Error message: "Unsupported post request. Object with ID “XXXXX” does not exist.”
 
 It is necessary to confirm with the client if the information in the Facebook setup card, such as affiliate email or Business Manager Id, is valid.
@@ -47,18 +50,21 @@ In this simulation, it is important to analyze the following fields:
 If everything is correct, open a ticket.
 
 ## Settings
+
 ### How to redo the authentication process
 
 This process is recommended for authentication issues concerning the Facebook integration, or for permission errors when sending or updating the catalog.
 
-#### Deleting VTEX integration app on Facebook 
-1. Deleting VTEX integration app on Facebook 
+#### Deleting VTEX integration app on Facebook
+
+1. Deleting VTEX integration app on Facebook.
 2. In the upper right corner of the screen, **click the button** <img class="shadow-4" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integrations-overview/facebook-faq_2.JPG" />
-3.  Select **Settings and Privacy**, then click on **Settings**.
-4.  Click on **Business integrations**.
-5.  Select VTEX Integration and click **Remove**.
+3. Select **Settings and Privacy**, then click on **Settings**.
+4. Click on **Business integrations**.
+5. Select VTEX Integration and click **Remove**.
 
 #### Deleting an existing VTEX catalog
+
 1. Go to [Facebook Business Manager](https://business.facebook.com/).
 2. Click on **Settings**.
 3. Click on **Business Settings**.
@@ -66,6 +72,7 @@ This process is recommended for authentication issues concerning the Facebook in
 5. Click **Confirm**.
 
 #### Deleting Facebook integration on VTEX
+
 1. Log in to the Admin and click on **Integrations**.
 2. Click **Settings**.
 3. In the Facebook integration, click on the gear icon <i class="fas fa-cog"></i>
@@ -74,6 +81,7 @@ This process is recommended for authentication issues concerning the Facebook in
 6. Click **Save configuration**.
 
 #### Reconfiguring the Facebook integration on VTEX
+
 1. In the Admin menu, click on **Integrations**.
 2. Click **Settings**.
 3. In the Facebook card, click on **Integrate**.

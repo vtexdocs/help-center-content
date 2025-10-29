@@ -29,7 +29,7 @@ Supongamos que desea ingresar el nombre de la transportadora en el correo electr
 
 Para hacer esto, entre en el template de pedido enviado y, en el campo __JSON Data__, busque la propiedad `courier`.
 
-![EN Incluir variáveis do pedido no template de e-mail - 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/e-mails-transaccionales/incluir-variables-del-pedido-en-el-template-de-correo-electronico_1.png)  
+![EN Incluir variáveis do pedido no template de e-mail - 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/e-mails-transaccionales/incluir-variables-del-pedido-en-el-template-de-correo-electronico_1.png)  
 
 El valor ingresado para esta propiedad es apenas un ejemplo, pero puede usarlo en el campo __HTML__ para que, cuando se envíe el correo electrónico, el cliente vea la transportadora de hecho responsable de entregar el pedido.
 
@@ -38,7 +38,7 @@ Tenga en cuenta que la propiedad `courier` está dentro del objeto `package`. Po
 `{{package.courier}}`
 
 
-![EN Incluir variáveis do pedido no template de e-mail - 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/e-mails-transaccionales/incluir-variables-del-pedido-en-el-template-de-correo-electronico_2.png)  
+![EN Incluir variáveis do pedido no template de e-mail - 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/e-mails-transaccionales/incluir-variables-del-pedido-en-el-template-de-correo-electronico_2.png)  
 
 
-Vea que el valor de ejemplo  ("Transportadora Teste Courier S.A.") fue ingresado en la pantalla de preview, debajo de los campos __HTML__ y __JSON Data__. 
+Vea que el valor de ejemplo ("Transportadora Teste Courier S.A.") fue ingresado en la pantalla de preview, debajo de los campos __HTML__ y __JSON Data__. 

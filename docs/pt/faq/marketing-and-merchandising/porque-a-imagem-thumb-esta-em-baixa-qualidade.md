@@ -19,7 +19,7 @@ As miniaturas (ou _“thumbs”_) de imagens possibilitam um carregamento rápid
 Para tornar rápido o carregamento da página, estas imagens são redimensionadas e comprimidas de acordo com a configuração do CMS da página. Se o tamanho do arquivo (em KB) para a imagem for muito baixo, distorções podem comprometer a qualidade da miniatura, e por isso, recomenda-se aumentar o tamanho até que a qualidade esteja satisfatória.
 
 Para realizar esta configuração:
-1. Acesse  **Configurações da loja** > **CMS** > **Configurações**.
+1. Acesse **Configurações da loja** > **CMS** > **Configurações**.
 2. Vá até a aba **Tipos de arquivos**.
 3. Clique em **Alterar** na linha `Produto - Thumb`.
 4. No painel exibido é possível escolher o tamanho máximo de arquivo para as miniaturas no campo **Tamanho Máximo em KB**.

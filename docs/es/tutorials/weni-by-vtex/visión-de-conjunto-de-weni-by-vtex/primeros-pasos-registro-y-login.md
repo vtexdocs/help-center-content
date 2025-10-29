@@ -21,15 +21,15 @@ Ilhasoft ofrece una plataforma intuitiva de fácil creación de chatbots intelig
 
 Al accesar a la plataforma, usted visualizará una imagen de pantalla semejante a esta:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/primeros-pasos-registro-y-login_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visión-de-conjunto-de-weni-by-vtex/primeros-pasos-registro-y-login_1.png)
 
 En ella tendremos un boton para **login**, y un **campo para creación de cuenta**.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/primeros-pasos-registro-y-login_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visión-de-conjunto-de-weni-by-vtex/primeros-pasos-registro-y-login_2.png)
 
 Caso usted **no tenga una cuenta**, inserte su email en el campo de **Criação de conta** e clique em "**Regístrate Gratis**". Serás redirigido a la siguiente página:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/primeros-pasos-registro-y-login_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visión-de-conjunto-de-weni-by-vtex/primeros-pasos-registro-y-login_3.png)
 
 En ella usted deberá llenar las siguientes informaciones:
 
@@ -40,29 +40,29 @@ En ella usted deberá llenar las siguientes informaciones:
 
 Despues de llenar las informaciones, clique en continuar y le direccionará a la pantalla de inicio:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/primeros-pasos-registro-y-login_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visión-de-conjunto-de-weni-by-vtex/primeros-pasos-registro-y-login_4.png)
 
 > **Note:** Rellena los campos según lo solicitado.
 
 En ella usted podrá crear su primera **Organización** (ambiente de desarrollo de su chatbot), e tendrá que llenar dos informaciones:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/primeros-pasos-registro-y-login_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visión-de-conjunto-de-weni-by-vtex/primeros-pasos-registro-y-login_5.png)
 
 Elige entre un agente personalizado y completa los campos o utiliza un modelo predefinido.
 
 Entre los modelos predefinidos están:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/primeros-pasos-registro-y-login_6.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visión-de-conjunto-de-weni-by-vtex/primeros-pasos-registro-y-login_6.png)
 
 Después de elegir, podrás continuar
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/primeros-pasos-registro-y-login_7.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visión-de-conjunto-de-weni-by-vtex/primeros-pasos-registro-y-login_7.png)
 
 ### Menus
 
 Después de estar debidamente registrado en su organización usted tendrá acceso a esta imagen de pantalla:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/primeros-pasos-registro-y-login_8.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visión-de-conjunto-de-weni-by-vtex/primeros-pasos-registro-y-login_8.png)
 
 Vamos a uma rápida explicación de cada menú:
 

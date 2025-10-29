@@ -22,19 +22,18 @@ tags:
 
 In Master Data v1, the Customer and Address forms are, by default, only created in the account's main store. For this reason, when creating a [multistore](/en/tutorial/criar-subconta-multiloja-multidominio--tutorials_510), the forms are not created automatically.
 
-> ⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use. <ul> <li> [ Master Data version characteristics ](/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/vtex-rest-api/docs/getting-started-1) </li> </ul>
+> ⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use. <ul> <li> [ Master Data version characteristics ](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/vtex-rest-api/docs/getting-started-1) </li> </ul>
 
 ## Solution
 
 Follow the instructions below for each multistore where you want to create the Customer and Address forms:
 
-1. In the VTEX Admin, go to **Store Settings** > **Storefront** > **Master Data**.  
-2. After authentication, enter the following URL in your browser's address bar to make a GET request to the API: `{storename}.vtexcrm.com.br/api/crm/pvt/provisioning`.  Replace `{storename}` with the name of your store.
-
-   This request will create the forms in the multistore. The result will be a blank screen in the browser, indicating a **200 OK** status response.  
-3. In Master Data, click `Advanced Settings`.  
-4. In the option **Do you want to clear the cache?**, click `Yes`.  
-5. Click the **Applications** tab to return to the Master Data homepage.  
+1. In the VTEX Admin, go to **Store Settings** > **Storefront** > **Master Data**. 
+2. After authentication, enter the following URL in your browser's address bar to make a GET request to the API: `{storename}.vtexcrm.com.br/api/crm/pvt/provisioning`. Replace `{storename}` with the name of your store.
+  This request will create the forms in the multistore. The result will be a blank screen in the browser, indicating a **200 OK** status response. 
+3. In Master Data, click `Advanced Settings`. 
+4. In the option **Do you want to clear the cache?**, click `Yes`. 
+5. Click the **Applications** tab to return to the Master Data homepage. 
 6. Click the `Reload Applications` button.
 
 Once you have completed these steps, the Customer and Address forms will be available in Master Data.

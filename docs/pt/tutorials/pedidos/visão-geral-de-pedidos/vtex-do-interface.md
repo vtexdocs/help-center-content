@@ -17,7 +17,7 @@ subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 
 O VTEX DO é um gerenciador de tarefas criadas automaticamente pelo Admin VTEX, para que a equipe de ecommerce da sua loja as realize manualmente. Para acessá-lo, em seu Admin VTEX, vá em **Pedidos > [Todos os pedidos](/pt/tutorial/lista-de-pedidos--2QTduKHAJMFIZ3BAsi6Pi)** e clique no ícone de caixa de entrada, localizado no canto inferior direito da página. Ao clicar no ícone, um modal se abrirá com a lista de tarefas relacionadas aos pedidos da loja. 
 
-![VTEX Do overview PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/vis%C3%A3o-geral-de-pedidos/vtex-do-interface_1.gif)
+![VTEX Do overview PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/visão-geral-de-pedidos/vtex-do-interface_1.gif)
 
 > ℹ️ Somente usuários com o perfil de acesso [OMS - Full Access](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access) podem realizar tarefas pelo VTEX DO.
 
@@ -114,7 +114,7 @@ As tarefas gerenciadas por meio do VTEX DO podem incluir mensagens de todos os s
 
 ## Detalhes da tarefa
 
-![VTEX Do details PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/vis%C3%A3o-geral-de-pedidos/vtex-do-interface_2.jpg)
+![VTEX Do details PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/visão-geral-de-pedidos/vtex-do-interface_2.jpg)
 
 Ao clicar no nome de uma tarefa da lista, você é redirecionado para o modal de detalhes da tarefa, que apresenta mais informações sobre a tarefa e ações para resolvê-la. São apresentados os seguintes campos:
 

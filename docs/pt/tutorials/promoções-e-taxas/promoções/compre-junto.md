@@ -147,4 +147,4 @@ Destaque a promoção na página de produto e adicione dados personalizados para
 
 Veja abaixo o formulário de criar promoções Compre Junto:
 
-![Informação geral - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/compre-junto_1.gif)
+![Informação geral - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/compre-junto_1.gif)

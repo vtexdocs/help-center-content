@@ -1,5 +1,5 @@
 ---
-title: 'Configuring promotions with highlights / flags'
+title: "Configuring promotions with highlights / flags"
 id: tutorials_2295
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:19.949Z
@@ -26,8 +26,8 @@ In this guide, you will find the following sections:
 - [Configuring a promotion](#configuring-a-promotion)
 - [Promotion highlight in Store Framework](#promotion-highlight-in-store-framework)
 - [Promotion highlight in Legacy CMS Portal](#promotion-highlight-in-legacy-cms-portal)
-    - [Page template](#page-template)
-    - [Shelves template](#Shelves-template)
+  - [Page template](#page-template)
+  - [Shelves template](#Shelves-template)
 
 ## Promotions eligible for highlight
 
@@ -58,11 +58,11 @@ These promotions are not eligible for all customers. This means that customers n
 
 Follow the instructions below to configure promotions in your store.
 
-1.  In the VTEX Admin, go to **Promotions > Promotions**, or type **Promotions** in the search bar at the top of the page.
-2.  Search for the promotion you want to configure.
-3.  In the **Promotion is highlighted** option, select **Yes**.
-4.  Configure the promotion with the desired specifications.
-5.  Click the `Save` button.
+1. In the VTEX Admin, go to **Promotions > Promotions**, or type **Promotions** in the search bar at the top of the page.
+2. Search for the promotion you want to configure.
+3. In the **Promotion is highlighted** option, select **Yes**.
+4. Configure the promotion with the desired specifications.
+5. Click the `Save` button.
 6. Follow the instructions corresponding to the frontend technology used by your store:
 
 - [Store Framework](#promotion-highlight-in-store-framework)
@@ -86,30 +86,30 @@ This configuration involves editing the page template used for the product page 
 4. Click **/ > Product > @Product@**.
 5. Click the layout with a red checkmark.
 
-    ![template-pagina](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/configuring-promotions-with-a-highlightflag_2.gif)
+   ![template-pagina](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/configuring-promotions-with-a-highlightflag_2.gif)
 
-6. In the __Template__ field, check the name of the template used:
+6. In the **Template** field, check the name of the template used:
 
-    ![template-produto](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/configuring-promotions-with-a-highlightflag_3.png)
+   ![template-produto](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/configuring-promotions-with-a-highlightflag_3.png)
 
-7.  In the side menu, click the **HTML Templates** folder.
-8.  Click the template found at **@Product@**.
+7. In the side menu, click the **HTML Templates** folder.
+8. Click the template found at **@Product@**.
 
-    ![save-template](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/configuring-promotions-with-a-highlightflag_4.gif)
+   ![save-template](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/configuring-promotions-with-a-highlightflag_4.gif)
 
-9.  Enter the code `<vtex.cmc:discountHightLight/>` based on your HTML structure.
-10.  Click **Save Template**.
+9. Enter the code `<vtex.cmc:discountHightLight/>` based on your HTML structure.
+10. Click **Save Template**.
 
 ### Shelves template
 
-1.  In the VTEX Admin, go to **Storefront > Layout**, or type **Layout** in the search bar at the top of the page.
-2.  Click **CMS > Shelves Templtes**.
+1. In the VTEX Admin, go to **Storefront > Layout**, or type **Layout** in the search bar at the top of the page.
+2. Click **CMS > Shelves Templtes**.
 
-    ![shelves-templates](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/configuring-promotions-with-a-highlightflag_5.png)
+   ![shelves-templates](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/configuring-promotions-with-a-highlightflag_5.png)
 
-3.  Click the desired template.
-4.  Enter the `$product.DiscountHightLight` code.
-5.  Click **Save Template**.
+3. Click the desired template.
+4. Enter the `$product.DiscountHightLight` code.
+5. Click **Save Template**.
 
 After making the settings in the VTEX Admin and adding the appropriate tags to the templates, a CSS class with the name of each promotion that meets the requirements will be automatically generated in the HTML. For example, if the promotion is called "BlackFriday," a class called `.BlackFriday` will be generated in the HTML of the product or shelf.
 

@@ -44,7 +44,7 @@ To view more details, click the order. If there's an error, the platform will di
 
 ### Products  
 
-You can access the **Products** page by going to **VTEX Admin > Marketplace > Connections > Products.** This page displays the product sending logs for the marketplaces your store is integrated with.  It includes the following information:  
+You can access the **Products** page by going to **VTEX Admin > Marketplace > Connections > Products.** This page displays the product sending logs for the marketplaces your store is integrated with. It includes the following information:  
 
 - **SKU code:** ID that identifies the SKU in your VTEX catalog.  
 - **Affiliate:** Marketplace to which the SKU was sent.  
@@ -57,7 +57,7 @@ To reprocess the sending, click the `Actions` button and select **Reprocess SKU.
 
 ### Tracking  
 
-You can access the **Tracking** page by going to **VTEX Admin > Marketplace > Connections > Tracking.**  This page displays the shipping logs for orders placed on the marketplaces your store is integrated with. It includes the following information:  
+You can access the **Tracking** page by going to **VTEX Admin > Marketplace > Connections > Tracking.** This page displays the shipping logs for orders placed on the marketplaces your store is integrated with. It includes the following information:  
 
 - **Order code:** Alphanumeric ID that identifies the order.  
 - **Affiliate:** Marketplace where the order was placed.  

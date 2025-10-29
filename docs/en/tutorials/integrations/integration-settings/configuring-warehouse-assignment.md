@@ -117,7 +117,7 @@ With this option, the seller can configure the handling time and the maximum num
 When you select this option, you'll be redirected to the warehouse configuration screen, where you can edit the logistical details by following the steps below.  
 
 1. Select the desired warehouse.  
-2. In the actions menu <i class="ph ph-dots-three-vertical"></i>, click  `Manage VTEX warehouse`.  
+2. In the actions menu <i class="ph ph-dots-three-vertical"></i>, click `Manage VTEX warehouse`.  
 3. You'll be taken to the corresponding warehouse record in the [Logistics module](/en/tutorial/logistica--53udnvI5eBy8DKo8FOjMoP).  
 4. Make the desired changes following the [Managing warehouses](/en/tutorial/gerenciar-estoque--tutorials_137) tutorial.  
 

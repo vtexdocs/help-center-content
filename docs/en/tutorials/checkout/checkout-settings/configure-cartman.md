@@ -41,7 +41,7 @@ This article will cover the following topics:
 To activate Cartman manually, follow the steps below:
 
 1. Access any of your store's Checkout pages (`https://{accountname}.myvtex.com/checkout/`).
-2. Insira a query string `?cartman=on` no final da URL  (`https://accountname.myvtex.com/checkout?cartman=on`).
+2. Insira a query string `?cartman=on` no final da URL (`https://accountname.myvtex.com/checkout?cartman=on`).
 3. In the lower right corner of the screen, click the button <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/checkout-settings/configure-cartman_5.png" alt="cartman-icon" width="25"/> to access Cartman.
 
 ## Cartman features
@@ -101,8 +101,8 @@ To learn more about UTMs and UTMIs, go to [What are utm_source, utm_campaign, an
 Cartman can be deactivated at any time as required by the merchant. To disable it, follow the steps below:
 
 1. Access any of your store's Checkout pages (`https://{accountname}.myvtex.com/checkout/`).
-2. In the lower right corner of the screen, click the button  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/checkout-settings/configure-cartman_6.png" alt="cartman-icon" width="25"/>.
-3. At the bottom of Cartman's menu, click  `Disable Cartman`.
+2. In the lower right corner of the screen, click the button <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/checkout-settings/configure-cartman_6.png" alt="cartman-icon" width="25"/>.
+3. At the bottom of Cartman's menu, click `Disable Cartman`.
 
 > ℹ️ If you want to reactivate **Cartman**, re-add the query string `?cartman=on` in one of your store's Checkout pages. In this way, the blue icon will be available again in the lower right corner of the page.
 

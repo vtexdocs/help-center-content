@@ -28,7 +28,7 @@ Para atualizar o checkout da sua loja para a versão mais recente (Checkout v6),
 5. Clique em __Salvar__. 
 6. [Acesse sua loja em ambiente beta](/pt/tutorial/acessar-o-ambiente-beta-pelo-dominio-myvtex-com--3BHM289568gcSwk2O80Asu) e realize os ajustes de estilo necessários. O Checkout v6 possui novas classes _CSS_ que devem ser levadas em consideração para customização do estilo.
 
-![Checkoutv6_box](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configura%C3%A7%C3%B5es-do-checkout/ativar-o-checkout-v6_1.png)
+![Checkoutv6_box](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configurações-do-checkout/ativar-o-checkout-v6_1.png)
 
 ## Ativar o Checkout v6 em Ambiente de Produção
 
@@ -42,7 +42,7 @@ Após realizar os ajustes necessários em Ambiente de Teste, você pode ativar o
 
 Após este passo, o Checkout v6 estará instalado na sua loja.
 
-![checkoutv6_box_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configura%C3%A7%C3%B5es-do-checkout/ativar-o-checkout-v6_2.png)
+![checkoutv6_box_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configurações-do-checkout/ativar-o-checkout-v6_2.png)
 
 ## Como checar se o Checkout v6 foi instalado corretamente?
 

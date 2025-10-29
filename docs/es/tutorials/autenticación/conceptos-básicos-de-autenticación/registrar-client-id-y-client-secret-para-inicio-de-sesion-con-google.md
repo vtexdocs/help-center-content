@@ -17,7 +17,7 @@ subcategoryId: 14V5ezEX0cewOMg0o0cYM6
 
 Para habilitar el inicio de sesión por OAuth2 vía Google, usted necesita acceder al VTEX ID por su Admin y rellenar los campos `Client ID` y `Client Secret`, como se detalla en [este artículo](/es/tutorial/integracao-google-e-facebook-para-login).
 
-![Google OAuth](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_1.png)
+![Google OAuth](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_1.png)
 
 Estos valores se obtienen de un proyecto que debe ser creado en el servicio de APIs de la plataforma de Google Cloud Platform.
 
@@ -28,17 +28,17 @@ De manera simplificada, solo siga los pasos que se indican a continuación:
 1. Entre en el enlace [`https://console.developers.google.com/`](https://console.developers.google.com/);
 2. Haga clic en __Credenciales__, en la pestaña lateral;
 3. Haga clic en __Crear Proyecto__;
-    ![Criar Projeto Google ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_2.png)
+    ![Criar Projeto Google ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_2.png)
 4. Defina el nombre del proyecto y haga clic en __Crear__;
-    ![Novo Projeto Google ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_3.png)
+    ![Novo Projeto Google ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_3.png)
 5. En la parte superior de la página, haga clic en el botón __Crear credenciales__;
-    ![Criar Credenciais Google ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_4.png)
+    ![Criar Credenciais Google ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_4.png)
 6. Haga clic en la opción __ID de cliente de OAuth__;
-    ![ID cliente OAuth Google ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_5.png)
+    ![ID cliente OAuth Google ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_5.png)
 7. Haga clic en el botón __Configurar página de consentimiento__;
-    ![Configurar Tela Consentimento Google ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_6.png)
+    ![Configurar Tela Consentimento Google ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_6.png)
 8. Elija el tipo de usuario que desea para su tienda (__Interno__ o __Externo__) y haga clic en el botón __Crear__;
-    ![Tipo usuário Google ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_7.png)
+    ![Tipo usuário Google ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_7.png)
 9.  __Nombre de aplicación__: se mostrará a sus clientes al iniciar sesión;
 10. __Correo electrónico de asistencia del usuario__: para que los usuarios se comuniquen contigo si tienen preguntas sobre su consentimiento;
 11. __Logotipo de la app__: corresponde al logotipo de su tienda;
@@ -47,19 +47,19 @@ De manera simplificada, solo siga los pasos que se indican a continuación:
     - `vtex.com.br`, referente a nuestros servidores BackEnd.
 13. __Información de contacto del desarrollador__: Google enviará notificaciones sobre cualquier cambio en tu proyecto a estas direcciones de correo electrónico;
 14. Haga clic en el botón  __Guardar y continuar__;
-    ![Configurações Tela Consentimento ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_8.png)
+    ![Configurações Tela Consentimento ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_8.png)
 13. Haga clic en __Credenciales__, en el menú lateral izquierdo;
 14. Elija __Aplicación web__, en Tipo de aplicación;
-    ![Credenciais Aplicativo Web Google ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_9.png)
+    ![Credenciais Aplicativo Web Google ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_9.png)
 15. __Nombre__: para identificación interna;
 16. __Orígenes de JavaScript autorizados__: registrar las direcciones exactas que podrán usar este método de autenticación, lo que corresponde a su sitio web; por ejemplo, `https://www.tienda.com`. También se recomienda registrar la dirección `https://{{accountName}}.myvtex.com` de su cuenta, `{{accountName}}` es el nombre de la cuenta como se describe en el menú de administración de la tienda;
 17. __URIs de redireccionamiento autorizados__: registrar la URL de servicio de VTEX:
     -`https://vtexid.vtex.com.br/VtexIdAuthSiteKnockout/ReceiveAuthorizationCode.ashx`
-    ![Configurações Aplicativo Web Google ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_10.png)
+    ![Configurações Aplicativo Web Google ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_10.png)
 
 18. Después de completar este ajuste, se presentarán sus credenciales:
-    ![Cliente OAuth criado Google ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_11.png)
+    ![Cliente OAuth criado Google ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_11.png)
     - Copie el __ID de cliente__ de Google y péguelo en el campo `Client Id` en el Admin de VTEX ID.
     - Copie su __clave secreta de cliente__ de Google y péguelo en el campo `Client Secret` en el Admin de VTEX ID.
-    ![Google OAuth](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_12.png)
+    ![Google OAuth](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_12.png)
     Una vez que haya completado todos estos pasos, guarde los cambios. 

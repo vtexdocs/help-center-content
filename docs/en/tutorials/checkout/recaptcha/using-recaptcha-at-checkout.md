@@ -15,8 +15,7 @@ locale: en
 subcategoryId: 3shmvletqbB206RqbY2vYQ
 ---
 
-
-reCAPTCHA is a solution for user validation on orders that will be paid by credit or debit card. It anticipates the use of malware for fraudulent purposes, preventing access by fake users. 
+reCAPTCHA is a solution for user validation on orders that will be paid by credit or debit card. It anticipates the use of malware for fraudulent purposes, preventing access by fake users.
 
 We recommend enabling it to protect the creation and payment of orders in your store.
 
@@ -24,9 +23,9 @@ reCAPTCHA will be required according to the option set for the store via the [ch
 
 Before enabling it, please pay attention to:
 
-* **Interface adaptation:** when enabling the feature, you must adapt your store’s order creation interface (desktop and mobile). Otherwise, order creation will be affected. Learn more about how to adapt the interface in [reCAPTCHA's integration guide.](https://developers.vtex.com/vtex-rest-api/docs/recaptcha)
-* **Consequences for the account:** enabling the feature implies that it will be used in the entire account, including all stores and sub-accounts.
-* **Performing tests:** you must use the [Beta environment](/en/tutorial/acessar-o-ambiente-beta-pelo-dominio-myvtex-com--3BHM289568gcSwk2O80Asu) with [Checkout V6](/en/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH) to test the feature without impacting your store in production.
+- **Interface adaptation:** when enabling the feature, you must adapt your store’s order creation interface (desktop and mobile). Otherwise, order creation will be affected. Learn more about how to adapt the interface in [reCAPTCHA's integration guide.](https://developers.vtex.com/vtex-rest-api/docs/recaptcha)
+- **Consequences for the account:** enabling the feature implies that it will be used in the entire account, including all stores and sub-accounts.
+- **Performing tests:** you must use the [Beta environment](/en/tutorial/acessar-o-ambiente-beta-pelo-dominio-myvtex-com--3BHM289568gcSwk2O80Asu) with [Checkout V6](/en/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH) to test the feature without impacting your store in production.
 
 ## Application rule
 
@@ -34,17 +33,17 @@ The rule for applying reCAPTCHA on purchases made with credit or debit cards may
 
 VTEX recommends the [VTEX criteria](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm) option. An algorithm will be applied to decide the need for the reCAPTCHA challenge. It is maintained by VTEX and is more or less comprehensive according to the behavior patterns observed.
 
-It is focused on user experience and aims to minimize the volume of use, while still providing the appropriate protection.  Sessions that are deemed trusted are exempt from reCAPTCHA. It is only enabled for potentially malicious sessions.
+It is focused on user experience and aims to minimize the volume of use, while still providing the appropriate protection. Sessions that are deemed trusted are exempt from reCAPTCHA. It is only enabled for potentially malicious sessions.
 
 ## reCAPTCHA versions
 
 VTEX is integrated with reCAPTCHA enterprise, which offers two validation approaches: checkbox (equivalent to [reCAPTCHA v2](https://developers.google.com/recaptcha/docs/display)) and score-based (equivalent to [reCAPTCHA v3](https://developers.google.com/recaptcha/docs/v3)). Check the table below to see which version applies to your operation.
 
-| **Store details**           | **reCAPTCHA version** |
-|-----------------------------|-----------------------|
-| Native VTEX storefront      | Checkbox (v2)                    |
-| Own storefront - web        | Checkbox (v2) or Score-based (v3)              |
-| Own storefront - mobile app | Score-based (v3)                    |
+| **Store details**           | **reCAPTCHA version**             |
+| --------------------------- | --------------------------------- |
+| Native VTEX storefront      | Checkbox (v2)                     |
+| Own storefront - web        | Checkbox (v2) or Score-based (v3) |
+| Own storefront - mobile app | Score-based (v3)                  |
 
 ## reCAPTCHA v2
 
@@ -59,10 +58,10 @@ As shown in the image above, there are different possible results in this flow:
 1. If the VTEX Criteria algorithm does not consider the session suspicious, the platform proceeds normally with the purchase.
 
 2. If the session is considered suspicious, the interface will display the reCAPTCHA Checkbox for the customer to select it. If reCAPTCHA does not consider the behavior suspicious when the Checkbox is selected, the purchase proceeds normally.
-![newCaptchaAnchor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/recaptcha/using-recaptcha-at-checkout_2.gif)
+   ![newCaptchaAnchor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/recaptcha/using-recaptcha-at-checkout_2.gif)
 
 3. If reCAPTCHA considers the behavior suspicious, the interface will display the challenge.
-![desafio recaptcha](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/recaptcha/using-recaptcha-at-checkout_3.png)
+   ![desafio recaptcha](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/recaptcha/using-recaptcha-at-checkout_3.png)
 
 4. If the challenge is successfully solved, the platform proceeds with the purchase. Otherwise, the behavior is considered compatible with that of a bot and the platform does not conclude the purchase.
 

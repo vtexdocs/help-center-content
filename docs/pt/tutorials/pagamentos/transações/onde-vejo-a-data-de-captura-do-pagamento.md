@@ -23,4 +23,4 @@ Basta seguir os passos abaixo:
 2. Busque a transação desejada e clique nela.
 3. Nos __Eventos da Transação__, busque o evento de captura:
 
-![captura](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/onde-vejo-a-data-de-captura-do-pagamento_1.png)
+![captura](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transações/onde-vejo-a-data-de-captura-do-pagamento_1.png)

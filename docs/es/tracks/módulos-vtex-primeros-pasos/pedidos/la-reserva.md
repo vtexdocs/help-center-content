@@ -33,6 +33,6 @@ Este es el flujo de reserva en VTEX:
 
  3. Finalmente, una vez que el pedido se encuentra en la etapa de preparación para la entrega, los artículos pasan al estado `Reserva Reconocida`. Este estado indica que el artículo ya no existe en el inventario físico.  
 
-![reservation es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/pedidos/la-reserva_1.png)
+![reservation es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/pedidos/la-reserva_1.png)
 
 > ⚠️ VTEX no quita automáticamente los artículos del inventario, incluso después de que hayan pasado al estado `Reserva Reconocida`. Los artículos comprados permanecerán en este estado hasta que el ERP o la tienda los quiten del inventario.

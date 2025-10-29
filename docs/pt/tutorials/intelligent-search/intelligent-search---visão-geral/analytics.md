@@ -74,8 +74,8 @@ Para exportar um relatório no formato CSV, você deve seguir os passos abaixo.
 
 O relatório CSV baixado apresenta duas tabelas. A primeira tabela, ilustrada abaixo, contém informações sobre termos pesquisados e as métricas de funil (da coluna **ProductsClick** até a coluna **ProductsSold**), caso essa opção tenha sido selecionada.
 
-![search-report-term](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/intelligent-search---vis%C3%A3o-geral/analytics_1.png)
+![search-report-term](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/intelligent-search---visão-geral/analytics_1.png)
 
 A segunda tabela, ilustrada abaixo, mostra dados referentes ao período selecionado, exibindo a coluna Date, que informa a data da busca.
 
-![search-report-date](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/intelligent-search---vis%C3%A3o-geral/analytics_2.png)
+![search-report-date](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/intelligent-search---visão-geral/analytics_2.png)

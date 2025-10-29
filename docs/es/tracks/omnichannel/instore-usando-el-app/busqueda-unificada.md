@@ -16,7 +16,7 @@ order: 7
 ---
 
 
-El [pasillo infinito](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) de VTEX Sales App le permite al vendedor buscar y agregar al carrito productos más allá del stock de su tienda. Para buscar un producto, haz clic en el ícono de lupa <i class="fas fa-search"></i>. Se mostrará la barra de búsqueda en la parte superior de la página de inicio de la tienda.  Ingresa el nombre del producto, código de referencia, ID de SKU o EAN para buscar.
+El [pasillo infinito](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) de VTEX Sales App le permite al vendedor buscar y agregar al carrito productos más allá del stock de su tienda. Para buscar un producto, haz clic en el ícono de lupa <i class="fas fa-search"></i>. Se mostrará la barra de búsqueda en la parte superior de la página de inicio de la tienda. Ingresa el nombre del producto, código de referencia, ID de SKU o EAN para buscar.
 
 > ℹ️ Para mejorar la experiencia en situaciones en que la conexión de internet esté lenta, esta funcionalidad tiene recursos de optimización que utilizan la caché del navegador para agilizar la búsqueda.
 
@@ -49,7 +49,7 @@ Antes de utilizar los filtros de búsqueda en VTEX Sales App, debes haber instal
 Además de la configuración de VTEX Intelligent Search, también es necesario [ponerse en contacto con el equipo de soporte de VTEX](https://help.vtex.com/es/support) para activar la funcionalidad de filtros en VTEX Sales App.
 
 Una vez activados los filtros, puedes utilizar este recurso siguiendo el procedimiento a continuación al buscar productos:
-1. Si estás utilizando VTEX Sales App en un dispositivo móvil, como un teléfono inteligente, haz clic en `Filtros`.  Si estás utilizando un dispositivo con una pantalla más grande, omite este paso.
+1. Si estás utilizando VTEX Sales App en un dispositivo móvil, como un teléfono inteligente, haz clic en `Filtros`. Si estás utilizando un dispositivo con una pantalla más grande, omite este paso.
 2. Selecciona los filtros deseados.
 3. Haz clic en `Filtrar`.
 

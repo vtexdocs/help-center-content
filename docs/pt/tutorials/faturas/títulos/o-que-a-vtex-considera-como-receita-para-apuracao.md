@@ -31,7 +31,7 @@ Para descobrir como acessar os pedidos que foram considerados na apuração da r
 
 Buscando facilitar sua visualização, todos os pedidos financeiramente aprovados terão essa marcação, que poderá ser vista no módulo gerenciamento de pedidos. 
 
-![image (3)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/faturas/t%C3%ADtulos/o-que-a-vtex-considera-como-receita-para-apuracao_1.png)
+![image (3)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/faturas/títulos/o-que-a-vtex-considera-como-receita-para-apuracao_1.png)
 
 Para acessar o módulo, siga os procedimentos abaixo:
 

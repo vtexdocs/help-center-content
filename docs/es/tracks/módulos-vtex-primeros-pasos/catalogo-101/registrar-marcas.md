@@ -24,7 +24,7 @@ Realice las siguientes instrucciones para crear y actualizar las marcas de los p
 1. Haga clic en __Catálogo__.
 2. Haga clic en __Marcas__.
 3. Haga clic en `Nueva Marca`.
-4. Rellene los campos del formulario de marca. Para entender mejor el significado de cada campo,  vea a continuación la descripción completa de cada uno de estos:
+4. Rellene los campos del formulario de marca. Para entender mejor el significado de cada campo, vea a continuación la descripción completa de cada uno de estos:
   - __Nombre__: nombre de la marca que desea registrar para identificación en un producto. Este campo es obligatorio y debe respetar el límite de 150 caracteres.
   - __Palabras sustitutas__: términos alternativos que llevan a la marca registrada. El objetivo es facilitarle al usuario encontrar la marca, incluso si lo escribe de diferentes formas. Normalmente estas palabras son diferencias o errores ortográficos y/o formas genéricas y extranjeras de denominar a la marca. 
   - __Descripción de la marca (meta tag de descripción)__: breve descripción de la marca para contextualizar los buscadores. Lo recomendable es no superar los 150 caracteres para que los motores de búsqueda puedan mostrarlo de forma asertiva en las páginas de búsquedas (p. ej., google).

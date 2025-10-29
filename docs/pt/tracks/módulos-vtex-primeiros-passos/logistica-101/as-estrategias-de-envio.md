@@ -19,7 +19,7 @@ As opções de envio que ficam disponíveis para o cliente no checkout da sua lo
 
 A estratégia de envio define como os estoques, as docas e as políticas de envio interagem para atender às necessidades dos seus clientes e do seu negócio. 
 
-![Estrategia Envio](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/logistica-101/as-estrategias-de-envio_1.png)
+![Estrategia Envio](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/logistica-101/as-estrategias-de-envio_1.png)
 
 A estratégia de envio é definida por três entidades logísticas:
 
@@ -40,7 +40,7 @@ Note que:
 
 ### Como configurar
 
-A ordem sugerida de configuração para o funcionamento esperado das [estratégias de envio](/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)  é:
+A ordem sugerida de configuração para o funcionamento esperado das [estratégias de envio](/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) é:
 
 1. [Política de envio](/pt/tutorial/politica-de-envio--tutorials_140)
 2. [Doca](/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)

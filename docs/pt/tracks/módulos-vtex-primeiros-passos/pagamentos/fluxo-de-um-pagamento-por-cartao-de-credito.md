@@ -29,18 +29,18 @@ Para saber mais sobre os agentes financeiros envolvidos no fluxo de pagamento de
 
 O fluxo completo para pagamento por cartão de crédito na VTEX pode ser descrito pela imagem abaixo. 
 
-![Cartão de crédito - Fluxo básico de um pagamento](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/pagamentos/fluxo-de-um-pagamento-por-cartao-de-credito_1.jpg)
+![Cartão de crédito - Fluxo básico de um pagamento](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/pagamentos/fluxo-de-um-pagamento-por-cartao-de-credito_1.jpg)
 
-1. Na tela de Checkout da sua loja, o cliente escolhe o  **Meio de Pagamento**  _cartão de crédito_ para realizar o pagamento de sua compra.  
+1. Na tela de Checkout da sua loja, o cliente escolhe o **Meio de Pagamento** _cartão de crédito_ para realizar o pagamento de sua compra.  
 
-2. As informações deste pagamento são passadas para o  **Gateway de Pagamentos**, que é o player responsável por garantir que este pagamento seja realizado com sucesso.  
+2. As informações deste pagamento são passadas para o **Gateway de Pagamentos**, que é o player responsável por garantir que este pagamento seja realizado com sucesso.  
 
-3. Com as informações em mãos, o _gateway de pagamentos_ repassa as informações necessárias para o  **Adquirente**, que é responsável pelas liquidações das transações financeiras com os varejistas.  
+3. Com as informações em mãos, o _gateway de pagamentos_ repassa as informações necessárias para o **Adquirente**, que é responsável pelas liquidações das transações financeiras com os varejistas.  
 
-4. Em posse das informações, o adquirente envia os dados do pagamento para a  **Bandeira**. A bandeira, que conecta o sistema de adquirentes com os bancos emissores. 
+4. Em posse das informações, o adquirente envia os dados do pagamento para a **Bandeira**. A bandeira, que conecta o sistema de adquirentes com os bancos emissores. 
 
 5. Por fim, a bandeira envia as informações do pagamento para o **Banco Emissor**. O banco emissor faz a análise de crédito, verifica o limite disponível e então autoriza ou nega o pagamento.
 
-Com a resposta do banco emissor, é realizado o fluxo inverso e o  **Gateway de Pagamentos**  recebe a informação se o pagamento foi aprovado ou negado.
+Com a resposta do banco emissor, é realizado o fluxo inverso e o **Gateway de Pagamentos** recebe a informação se o pagamento foi aprovado ou negado.
 
 > ℹ️ É possível incluir o Antifraude neste fluxo. Neste caso, o antifraude recebe as informações do gateway de que o pagamento foi pré-autorizado pelo banco emissor. Com a informação recebida do gateway, o antifraude envia uma resposta de aprovação ou negação do pagamento. Caso o antifraude negue, o pagamento é cancelado. Caso o pagamento seja aprovado, o pedido pode prosseguir seu fluxo normal.

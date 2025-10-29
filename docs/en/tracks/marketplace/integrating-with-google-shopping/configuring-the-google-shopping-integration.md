@@ -19,7 +19,7 @@ Check out how to integrate your store with Google Shopping using the connector d
 
 > ❗ The integration can be performed via [XML](/en/tutorial/configurando-xml--tutorials_242) . We do not recommend integrating with [Google Shopping using an XML file](/en/tutorial/como-configurar-xml-do-google-shopping--frequentlyAskedQuestions_372) and the native connector simultaneously, because this might lead to conflicting information and data discrepancy.
 
-To integrate using the connector, **you must have a Google Merchant Center account.**  If you don't have one, check out the tutorial [sign up for Google Merchant Center](https://support.google.com/merchants/answer/188924?hl=en&ref_topic=7294166).
+To integrate using the connector, **you must have a Google Merchant Center account.** If you don't have one, check out the tutorial [sign up for Google Merchant Center](https://support.google.com/merchants/answer/188924?hl=en&ref_topic=7294166).
 
 These are the next steps to integrate your VTEX store with Google Shopping:
 

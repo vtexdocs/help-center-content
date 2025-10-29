@@ -55,11 +55,11 @@ Se houver somente um campo configurado como índice, a chave alternativa não va
 
 Por exemplo, a tabela **Cliente** possui duas colunas: **ID** e **Nome**. Para facilitar a busca, o campo **Nome** (`firstName`) pode ser configurado como índice e marcado como **Valores únicos**, conforme ilustrado a seguir:
 
-![indices-1-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configura%C3%A7%C3%B5es-do-master-data-v1/indices-no-master-data_1.png)
+![indices-1-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configurações-do-master-data-v1/indices-no-master-data_1.png)
 
 Com isso, não será possível inserir um nome que já tenha sido cadastrado em __Cliente__:
 
-![indices-2-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configura%C3%A7%C3%B5es-do-master-data-v1/indices-no-master-data_2.png)
+![indices-2-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configurações-do-master-data-v1/indices-no-master-data_2.png)
 
 No exemplo acima, como já existe um registro com o **Nome** igual a **Maria**, não é possível cadastrar outro com o mesmo valor.
 
@@ -71,11 +71,11 @@ Se houver mais de um campo no índice, a chave alternativa vai impedir que um co
 
 Por exemplo, imagine que a entidade **Cliente **possui três campos: **ID**, **Nome** e **Documento**. Na configuração do índice, em **Campos**, foram inseridos Nome (`firstName`) e Documento (`document`), conforme ilustrado abaixo:
 
-![indices-3-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configura%C3%A7%C3%B5es-do-master-data-v1/indices-no-master-data_3.png)
+![indices-3-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configurações-do-master-data-v1/indices-no-master-data_3.png)
 
 Nesse caso, o valor do **Nome** pode se repetir ou o valor do **Documento** pode se repetir. Porém, a combinação dos dois valores não pode se repetir, ou seja, não pode existir nenhum registro que repita o mesmo par (**Nome** e **Documento **iguais).
 
-![indices-4-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configura%C3%A7%C3%B5es-do-master-data-v1/indices-no-master-data_4.png)
+![indices-4-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configurações-do-master-data-v1/indices-no-master-data_4.png)
 
 No exemplo acima, já existe um registro com o **Nome** igual a **Maria**. É possível incluir outro registro com o mesmo **Nome**, desde que o valor do **Documento** seja diferente.
 

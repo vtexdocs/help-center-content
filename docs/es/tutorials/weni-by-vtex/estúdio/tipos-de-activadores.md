@@ -19,7 +19,7 @@ La palabra clave es la primera palabra en un mensaje y puede usarse para iniciar
 
 Todos los pasos descritos aquí se realizarán en la pestaña ""**Activadores**"", ubicada dentro del módulo ""**Estudio**"".
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-activadores_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/tipos-de-activadores_1.png)
 
 Para facilitar la navegación en este artículo, si deseas ir directamente a un tipo de activador específico, simplemente haz clic en su nombre a continuación:
 
@@ -34,7 +34,7 @@ Para facilitar la navegación en este artículo, si deseas ir directamente a un 
 #### Para crear una palabra clave que inicie un flujo:
 
 -  Haz clic en el botón ""Crear una palabra clave que inicie un flujo"".
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-activadores_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/tipos-de-activadores_2.png)
 
 -    En ""Palabra clave"", puedes definir una palabra que funcione como palabra clave
 
@@ -48,7 +48,7 @@ Para facilitar la navegación en este artículo, si deseas ir directamente a un 
 
 -   Haz clic en la caja ""Crear Activador"".
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-activadores_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/tipos-de-activadores_3.png)
 
 #### Creando una palabra clave de mensaje que permite que las personas ingresen a un grupo:
 
@@ -58,7 +58,7 @@ Para crear un activador con una palabra clave que una contactos a un grupo:
 
 -    Haz clic en el botón ""Crear una palabra clave de mensaje que permita que las personas se unan a un grupo"":
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-activadores_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/tipos-de-activadores_4.png)
 
 -    Introduce una palabra clave en ""Unir palabra clave"".
 
@@ -68,7 +68,7 @@ Para crear un activador con una palabra clave que una contactos a un grupo:
 
 -  En ""Flujo"", puedes elegir qué flujo se iniciará.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-activadores_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/tipos-de-activadores_5.png)
 
 #### Iniciar un flujo después de recibir un mensaje que no ha sido gestionado en otro lugar:
 
@@ -76,7 +76,7 @@ Utiliza este activador para iniciar un flujo después de recibir un mensaje no c
 
 -    Haz clic en el botón ""Inicie un flujo después de recibir un mensaje que no coincide con ninguna palabra clave""
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-activadores_6.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/tipos-de-activadores_6.png)
 
 -    En ""Flujo"", puedes elegir qué flujo se iniciará.
 
@@ -86,7 +86,7 @@ Utiliza este activador para iniciar un flujo después de recibir un mensaje no c
 
 -  Haz clic en ""Crear Activador"".
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-activadores_7.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/tipos-de-activadores_7.png)
 
 Si tu proyecto cuenta con atención humana, en el campo ""Grupos para Excluir"", selecciona el grupo en el que están las personas del equipo de atención humana para que el bot no interactúe con ellas durante el momento de la atención humana.
 #### Iniciar un flujo en el futuro o dentro de un cronograma
@@ -96,27 +96,27 @@ da:
 
 -    Haz clic en el botón ""Empezar un flujo en el futuro o en un horario"".
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-activadores_8.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/tipos-de-activadores_8.png)
 
 -    Elige la fecha en la que te gustaría programar.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-activadores_9.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/tipos-de-activadores_9.png)
 
 -    Justo debajo, en ""Repeat"", puedes optar por repetir el flujo diariamente, semanalmente o mensualmente (siendo opcional este uso).
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-activadores_10.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/tipos-de-activadores_10.png)
 
 -    Elige el flujo que deseas iniciar y selecciona a qué contactos o grupos se transmitirá o no el flujo.
 
 -  Haz clic en ""Crear Activador"".
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-activadores_11.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/tipos-de-activadores_11.png)
 
 #### Iniciar un flujo después de recibir una llamada
 
 -  Haz clic en el botón ""Inicie un flujo después de recibir una llamada"".
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-activadores_12.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/tipos-de-activadores_12.png)
 
 -    En ""Flujo"", puedes elegir qué flujo se iniciará.
 
@@ -126,13 +126,13 @@ da:
 
 -  Haz clic en ""Crear Activador"".
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-activadores_13.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/tipos-de-activadores_13.png)
 
 #### Iniciar un flujo después de una llamada perdidaUtiliza este disparador después de una llamada perdida.
 
 -    Haz clic en el botón ""Inicie un flujo después de una llamada perdida""
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-activadores_14.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/tipos-de-activadores_14.png)
 
 -    En ""Flujo"", puedes elegir qué flujo se iniciará.
 
@@ -142,7 +142,7 @@ da:
 
 -  Haz clic en ""Crear Activador"".
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-activadores_15.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/tipos-de-activadores_15.png)
 
 #### Iniciar un flujo después del cierre de ticket con un agente humano
 
@@ -150,7 +150,7 @@ Utiliza este disparador para activar el flujo de finalización de atención huma
 
 -    Haz clic en el botón ""Inicie un flujo después de cerrar un ticket.""
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-activadores_16.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/tipos-de-activadores_16.png)
 
 -    En ""Flujo"", puedes elegir qué flujo se iniciará.
 
@@ -160,4 +160,4 @@ Utiliza este disparador para activar el flujo de finalización de atención huma
 
 -  Haz clic en ""Crear Activador"".
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-activadores_17.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/tipos-de-activadores_17.png)

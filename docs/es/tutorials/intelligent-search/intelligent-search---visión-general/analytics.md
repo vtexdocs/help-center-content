@@ -74,8 +74,8 @@ Para exportar un informe en formato CSV, debe seguir los pasos que se indican a 
 
 El informe CSV descargado tiene dos tablas. La primera tabla, que se muestra a continuación, contiene información sobre los términos de búsqueda y las métricas de embudo (desde la columna **ProductsClick** hasta la columna **ProductsSold**), si se ha seleccionado esa opción.
 
-![search-report-term](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/intelligent-search---visi%C3%B3n-general/analytics_1.png)
+![search-report-term](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/intelligent-search---visión-general/analytics_1.png)
 
 La segunda tabla, que se muestra a continuación, muestra los datos del periodo seleccionado, mostrando la columna **Date**, que indica la fecha de la búsqueda.
 
-![search-report-date](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/intelligent-search---visi%C3%B3n-general/analytics_2.png)
+![search-report-date](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/intelligent-search---visión-general/analytics_2.png)

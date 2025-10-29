@@ -43,7 +43,7 @@ Na VTEX, a autenticação por login ocorre em dois contextos: na loja virtual, q
 
 Na página **Autenticação**, é possível escolher quais formas de login você deseja oferecer aos clientes da sua loja e aos usuários administrativos que terão acesso ao Admin da sua conta.
 
-![Página de autenticação](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autentica%C3%A7%C3%A3o/conceitos-b%C3%A1sicos-de-autentica%C3%A7%C3%A3o/autenticacao_1.png)
+![Página de autenticação](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autenticação/conceitos-básicos-de-autenticação/autenticacao_1.png)
 
 Confira o passo a passo a seguir para habilitar os métodos de login desejados:
 

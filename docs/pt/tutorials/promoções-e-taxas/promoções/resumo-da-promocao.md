@@ -63,16 +63,16 @@ O resumo da promoção pode exibir três tipos diferentes de alertas. Veja as de
 Alertas de alto risco indicam configurações ou falhas de preenchimento críticas que precisam ser revistas, pois podem comprometer negativamente a atuação da promoção e, consequentemente, a margem de operação da loja.
 
 Exemplo:
-![alert-alto-risco-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/resumo-da-promocao_1.png)
+![alert-alto-risco-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/resumo-da-promocao_1.png)
 
 ### Médio risco
 Alertas de médio risco apresentam avisos de configurações que podem causar efeitos indesejados na promoção.
 
 Exemplo:
-![alert-medio-risco-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/resumo-da-promocao_2.png)
+![alert-medio-risco-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/resumo-da-promocao_2.png)
 
 ### Baixo risco 
 Alertas de baixo risco apresentam informações relevantes sobre a configuração da promoção, que podem contribuir para uma melhor performance.
 
 Exemplo:
-![alert-baixo-risco-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/resumo-da-promocao_3.png)
+![alert-baixo-risco-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/resumo-da-promocao_3.png)

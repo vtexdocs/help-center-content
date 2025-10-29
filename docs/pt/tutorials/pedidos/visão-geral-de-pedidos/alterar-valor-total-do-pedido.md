@@ -26,12 +26,12 @@ Para fazer a alteração, siga os passos abaixo:
 3. Clique no pedido para acessar a página de **Detalhes do pedido**.   
 4. Vá à seção **Valor total do pedido**, localizada no lado direito da página Detalhes do pedido.
 5. Clique em `Alterar valor final`. A página **Alterar valor** ficará disponível
-![valorfinal](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/vis%C3%A3o-geral-de-pedidos/alterar-valor-total-do-pedido_1.png)
+![valorfinal](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/visão-geral-de-pedidos/alterar-valor-total-do-pedido_1.png)
 6. Preencha os campos obrigatórios: 
     *  **Valor:** Selecione entre Desconto e Aumento, e insira o valor correspondente ao que deseja alterar.  
     * **Motivo:** escreva as razões para a mudança.  
 7. Clique em `Enviar`.
-![Alterar valor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/vis%C3%A3o-geral-de-pedidos/alterar-valor-total-do-pedido_2.png)
+![Alterar valor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/visão-geral-de-pedidos/alterar-valor-total-do-pedido_2.png)
 
 As alterações no pedido serão atualizadas na seção *Itens para Faturar, e Histórico do pedido*. Note que o valor total do pedido também será alterado.
 

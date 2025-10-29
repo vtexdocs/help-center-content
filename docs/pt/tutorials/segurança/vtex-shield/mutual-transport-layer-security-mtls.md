@@ -44,7 +44,7 @@ Com o mTLS, apenas sistemas confiáveis possam se comunicar, reforçando a segur
 
 O diagrama abaixo representa o fluxo de autenticação mútua utilizando mTLS, no qual cliente e servidor validam suas identidades antes de qualquer troca de dados:
 
-![mtls-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/seguran%C3%A7a/vtex-shield/mutual-transport-layer-security-mtls_1.png)
+![mtls-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/segurança/vtex-shield/mutual-transport-layer-security-mtls_1.png)
 
 1. O cliente inicia a conexão com o servidor.  
 2. O servidor apresenta seu certificado TLS.  

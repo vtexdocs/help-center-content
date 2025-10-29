@@ -37,7 +37,7 @@ Para cadastrar um novo cliente no Customer Credit, siga os passos abaixo:
 
 A partir deste momento, a nova conta criada será exibida na tela de __Contas__.
 
-![CC_criar_conta_1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/solu%C3%A7%C3%B5es-de-pagamento/customer-credit-como-comecar/criando-contas_1.JPG)
+![CC_criar_conta_1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/soluções-de-pagamento/customer-credit-como-comecar/criando-contas_1.JPG)
 
 ## Criar múltiplas contas (importação em massa)
 
@@ -50,11 +50,11 @@ Para criar múltiplas contas ao mesmo tempo (em massa) no Customer Credit, você
 5. Preencha em cada linha:
 <br>
 <ul>
-  <li>Colunas **Email**, **Document** e **Document Type**:  informações dos clientes.</li>
+  <li>Colunas **Email**, **Document** e **Document Type**: informações dos clientes.</li>
   <li>Colunas **Credit limit** e **Tolerance rate**: valores disponibilizados para cada cliente. O **Tolerance rate** deve ser inserido em formato decimal, por exemplo, uma tolerância de 5% deve ser indicada como 0.05.</li>
 </ul>
 
-![CC_criar_conta_2_ALL](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/solu%C3%A7%C3%B5es-de-pagamento/customer-credit-como-comecar/criando-contas_2.JPG)
+![CC_criar_conta_2_ALL](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/soluções-de-pagamento/customer-credit-como-comecar/criando-contas_2.JPG)
 
 <blockquote><ui>6. Salve a planilha .csv.</ui>
 

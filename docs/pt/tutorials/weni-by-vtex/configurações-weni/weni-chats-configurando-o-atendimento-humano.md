@@ -25,19 +25,19 @@ O gerente de atendimento poderá realizar alterações no setor que gerencia, ta
 
 Todo esse gerenciamento é realizado dentro do projeto em **Configurações > Chats**.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/weni-chats-configurando-o-atendimento-humano_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configurações-weni/weni-chats-configurando-o-atendimento-humano_1.png)
 
 ### **Setor**
 
 No setor é onde é definido o horário de funcionamento do atendimento humano, o limite de atendimento simultâneos por agente, e é possível adicionar tags para que os agentes ao finalizar um atendimento classifiquem o chat de acordo com o assunto, facilitando pesquisas e relatórios posteriores.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/weni-chats-configurando-o-atendimento-humano_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configurações-weni/weni-chats-configurando-o-atendimento-humano_2.png)
 
 ### **Fila**
 
 Um setor precisa ter pelo menos uma fila. As filas servem para subdividir um setor, caso haja interesse em ter um setor com mais de um grupo de agentes. Caso não precise desta subdivisão, basta criar uma única fila. 
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/weni-chats-configurando-o-atendimento-humano_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configurações-weni/weni-chats-configurando-o-atendimento-humano_3.png)
 
 É possível exemplificar o uso de filas pensando em um setor Suporte Técnico, para este setor pode ser interessante ter as filas Básico, Intermediário e Avançado onde através da filtragem do bot o contato é encaminhado para a fila de acordo com sua necessidade. 
 
@@ -49,4 +49,4 @@ Caso um agente esteja inserido em mais de uma fila, indiferente se as mesmas per
 
 As tags são usadas para classificar características do atendimento e possibilitar a pesquisa e filtragem dos chats a partir delas, ao encerrar um chat o agente utilizará as tags para classificar o chat de acordo com assunto e outras características.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/weni-chats-configurando-o-atendimento-humano_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configurações-weni/weni-chats-configurando-o-atendimento-humano_4.png)

@@ -33,7 +33,7 @@ Depois de determinar o desconto no Checkout, é preciso atrelar o SKU ao meio de
 3. Clique no template da sua página de produto na lista de templates.
 4. Na propriedade `skuPrice`, adicione a variável `paymentSystemId` com o ID do meio de pagamento desejado.
 
-![Screenshot 2020-12-18 Criar preço à vista](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/pre%C3%A7o/configurar-desconto-de-preco-a-vista_1.png)
+![Screenshot 2020-12-18 Criar preço à vista](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/preço/configurar-desconto-de-preco-a-vista_1.png)
 
 6. Após a alteração, clique em __Save Template__ no campo superior para salvar.
 

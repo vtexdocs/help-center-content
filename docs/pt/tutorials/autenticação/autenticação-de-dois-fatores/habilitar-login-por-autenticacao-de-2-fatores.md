@@ -34,7 +34,7 @@ Há duas opções de autenticação:
 - Por chave gerada por um __aplicativo__ de autenticação.
 - Por chave enviada por mensagem de telefone (__SMS__).
 
-![2FA - Select - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autentica%C3%A7%C3%A3o/autentica%C3%A7%C3%A3o-de-dois-fatores/habilitar-login-por-autenticacao-de-2-fatores_1.png)
+![2FA - Select - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autenticação/autenticação-de-dois-fatores/habilitar-login-por-autenticacao-de-2-fatores_1.png)
 
 > ❗ Recomendamos fortemente que você **escolha a opção de autenticação por aplicativo**, uma vez que a autenticação por SMS depende do funcionamento da operadora de telefonia. Pelo aplicativo, a chave de acesso estará sempre à disposição quando for necessária. Se você configurou o 2FA por SMS e o código está demorando a chegar, provavelmente a causa do problema está na operadora de telefone. Opte por [habilitar o 2FA por aplicativo](#habilitar-o-2fa-por-aplicativo).
 
@@ -43,11 +43,11 @@ Há duas opções de autenticação:
 Para usar uma chave gerada por aplicativo de autenticação, siga os passos abaixo:
 
 1. Baixe o aplicativo __Google Authenticator__ ([App Store](https://itunes.apple.com/br/app/google-authenticator/id388497605?mt=8) / [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=pt_BR)).
-  ![2FA - App Download - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autentica%C3%A7%C3%A3o/autentica%C3%A7%C3%A3o-de-dois-fatores/habilitar-login-por-autenticacao-de-2-fatores_2.png)
+  ![2FA - App Download - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autenticação/autenticação-de-dois-fatores/habilitar-login-por-autenticacao-de-2-fatores_2.png)
 2. Use o aplicativo para ler o QR Code com a câmera do seu celular. Sua conta da VTEX será adicionada ao aplicativo, com um código de 6 dígitos.
-![mfa código](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autentica%C3%A7%C3%A3o/autentica%C3%A7%C3%A3o-de-dois-fatores/habilitar-login-por-autenticacao-de-2-fatores_3.jpg)
+![mfa código](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autenticação/autenticação-de-dois-fatores/habilitar-login-por-autenticacao-de-2-fatores_3.jpg)
 3. Insira o código exibido no aplicativo para concluir seu login. O código do app é atualizado periodicamente. Consulte-o sempre que necessário.
-  ![2FA - App Insert Code - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autentica%C3%A7%C3%A3o/autentica%C3%A7%C3%A3o-de-dois-fatores/habilitar-login-por-autenticacao-de-2-fatores_4.png)
+  ![2FA - App Insert Code - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autenticação/autenticação-de-dois-fatores/habilitar-login-por-autenticacao-de-2-fatores_4.png)
 
 > ℹ️ Se você fizer login usando email e senha no mesmo navegador, a chave de acesso será solicitada **a cada 10 dias**. Quando isso acontecer, consulte o código no aplicativo.
 
@@ -57,11 +57,11 @@ Para usar uma chave enviada por mensagem de texto, siga os passos abaixo:
 
 1. Insira seu número de celular para enviarmos o código por SMS. Inclua o código de país e área.
 
-  ![2FA - SMS Insert Phone - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autentica%C3%A7%C3%A3o/autentica%C3%A7%C3%A3o-de-dois-fatores/habilitar-login-por-autenticacao-de-2-fatores_5.png)
+  ![2FA - SMS Insert Phone - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autenticação/autenticação-de-dois-fatores/habilitar-login-por-autenticacao-de-2-fatores_5.png)
 
 2. Você receberá uma mensagem de texto da VTEX no celular indicado. Insira a chave de 6 dígitos para concluir seu login.
 
-   ![2FA - SMS Insert Code - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autentica%C3%A7%C3%A3o/autentica%C3%A7%C3%A3o-de-dois-fatores/habilitar-login-por-autenticacao-de-2-fatores_6.png)
+   ![2FA - SMS Insert Code - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autenticação/autenticação-de-dois-fatores/habilitar-login-por-autenticacao-de-2-fatores_6.png)
 
 > ⚠️ Não podemos garantir que sua operadora de telefonia conseguirá entregar a chave de acesso sempre que necessário. Caso a mensagem de texto da VTEX não chegue, tente reenviar o código ou [habilitar o 2FA por aplicativo](#habilitar-o-2fa-por-aplicativo).
 

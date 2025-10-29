@@ -19,7 +19,7 @@ El muelle forma parte del sistema logístico y representa un punto intermedio en
 
 En VTEX, el muelle es un intermediario entre el almacenamiento de ítems y la entrega de los pedidos de tu negocio. Es a través del muelle que se produce la integración de las partes necesarias para la logística de tu tienda, a saber: el [almacén](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb), la [política comercial](/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV) y la [política de envío](/es/tutorial/politica-de-envio--tutorials_140).
 
-![Doca ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/estrat%C3%A9gia-de-env%C3%ADo/muelles_1.svg)
+![Doca ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/estratégia-de-envío/muelles_1.svg)
 
 > ℹ️ El almacén es el espacio físico de almacenamiento de los productos vendidos por la tienda; la política comercial es la configuración de las estrategias de venta de la tienda; y la política de envío es un conjunto de reglas que definen las opciones y condiciones de envío. El orden de registro sugerido en la plataforma VTEX para el funcionamiento previsto del sistema logístico es: <ul><li>[Política de envío](/es/tutorial/politica-de-envio--tutorials_140)</li><li>Muelle</li><li>[Almacén](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)</li></ul>
 

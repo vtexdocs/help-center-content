@@ -28,6 +28,6 @@ The configuration shown above is for when you want an account to have more than 
 
 **Multi-store** or multi-domain is a resource used to manage more than one store within the same VTEX admin panel.
 
-This feature is usually used when a store has more than one brand but they all have  similar logistics and payment methods, or when the store needs another environment, for example for B2B sales.
+This feature is usually used when a store has more than one brand but they all have similar logistics and payment methods, or when the store needs another environment, for example for B2B sales.
 
 A **binding** is made for each store in the **Multi-store** option. Check out our [article on multi-store and multi-domain](/en/tutorial/creating-multi-store-multi-domain--tutorials_510) to configure this option.

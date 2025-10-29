@@ -63,24 +63,24 @@ Nesta aba é possível realizar as seguintes configurações:
 
 A aba Cores permite personalizar as cores do checkout de sua loja, permitindo alterar cores de fundo, botões, texto entre outros. Essa padronização garante uma harmonia visual consistente.
 
-![Cores ](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configura%C3%A7%C3%B5es-do-checkout/como-customizar-a-interface-personalizada-do-checkout-no-admin_1.png)
+![Cores ](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configurações-do-checkout/como-customizar-a-interface-personalizada-do-checkout-no-admin_1.png)
 
 ## Javascript
 
 A aba JavaScript  adiciona uma camada adicional de personalização à interface permitindo a inclusão de scripts.
 
-![Java - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configura%C3%A7%C3%B5es-do-checkout/como-customizar-a-interface-personalizada-do-checkout-no-admin_2.png)
+![Java - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configurações-do-checkout/como-customizar-a-interface-personalizada-do-checkout-no-admin_2.png)
 
 ## CSS
 
 A aba CSS permite customizações visuais da loja com a inclusão de código CSS.
 
-![CSS - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configura%C3%A7%C3%B5es-do-checkout/como-customizar-a-interface-personalizada-do-checkout-no-admin_3.png)
+![CSS - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configurações-do-checkout/como-customizar-a-interface-personalizada-do-checkout-no-admin_3.png)
 
 ## Histórico
 
 Permite visualizar e restaurar customizações criadas e publicadas anteriormente.
 
-![Histórico - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configura%C3%A7%C3%B5es-do-checkout/como-customizar-a-interface-personalizada-do-checkout-no-admin_4.png)
+![Histórico - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configurações-do-checkout/como-customizar-a-interface-personalizada-do-checkout-no-admin_4.png)
 
 Para garantir que suas configurações sejam aplicadas com sucesso, basta realizar as configurações necessárias e clicar no botão `Publicar`.

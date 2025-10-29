@@ -30,11 +30,11 @@ O aplicativo cria dois grupos de página após ser instalado em seu ambiente VTE
 
 O aplicativo cria três tipos de páginas para os afiliados, que dispõem delas sem precisar de qualquer acesso ao Admin VTEX da sua loja, conforme indicado na tabela abaixo:
 
-| **Tipo** | **URL** |
-| ---------- | ---------- |
-| Página do afiliado | `{storeName.com}/affiliates/{affiliateSlug}` |
-| Página de perfil do afiliado | `{storeName.com}/affiliates/{affiliateSlug}/profile` |
-| Página do formulário de cadastro | `{storeName.com}/affiliate/form` |
+| **Tipo**                         | **URL**                                              |
+| -------------------------------- | ---------------------------------------------------- |
+| Página do afiliado               | `{storeName.com}/affiliates/{affiliateSlug}`         |
+| Página de perfil do afiliado     | `{storeName.com}/affiliates/{affiliateSlug}/profile` |
+| Página do formulário de cadastro | `{storeName.com}/affiliate/form`                     |
 
 A **página do afiliado** é a URL da loja VTEX que ele compartilha com os clientes. Veja um exemplo na imagem a seguir:
 
@@ -50,9 +50,9 @@ A **página de cadastro** permite que os próprios interessados em se tornar afi
 
 ### Páginas no Admin VTEX
 
-O aplicativo **Affiliates Program** cria interfaces no Admin VTEX para que você gerencie todo o conteúdo relacionado a afiliados. 
+O aplicativo **Affiliates Program** cria interfaces no Admin VTEX para que você gerencie todo o conteúdo relacionado a afiliados.
 
-Após a [instalação](https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app#installation) do aplicativo, as seguintes páginas se tornam disponíveis no seu Admin VTEX, em  **Apps > Afiliados**:
+Após a [instalação](https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app#installation) do aplicativo, as seguintes páginas se tornam disponíveis no seu Admin VTEX, em **Apps > Afiliados**:
 
 - [Gerenciamento de afiliados](#gerenciamento-de-afiliados)
 - [Gerenciamento de pedidos](#gerenciamento-de-pedidos)
@@ -78,7 +78,7 @@ Para criar um novo afiliado, clique no botão `Adicionar afiliado`, preencha os 
 
 ### Pesquisar afiliados
 
-Para pesquisar um afiliado, digite na barra de busca por alguma das seguintes informações: _ID do afiliado, Nome, Nome da Loja, Email_ ou_ Telefone. _
+Para pesquisar um afiliado, digite na barra de busca por alguma das seguintes informações: _ID do afiliado, Nome, Nome da Loja, Email_ ou* Telefone. *
 
 > ⚠️ No aplicativo **Affiliates Program**, além do termo afiliado ser diferente do [conceito usual de afiliado na VTEX](/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0), o `ID do Afiliado` também não corresponde ao código padrão. No aplicativo, o `ID do Afiliado` é um código alfanumérico gerado automaticamente quando você cria um novo afiliado.
 
@@ -99,7 +99,7 @@ Para visualizar os dados de um afiliado, na linha referente ao afiliado, clique 
 Para editar um afiliado de forma a modificar seu cadastro, siga os passos abaixo:
 
 1. Na linha referente ao afiliado, clique em <i class="fas fa-ellipsis-v"></i> **Mais ações**.
-2. Clique em <i class="fas fa-pencil-alt"></i> **Editar**. 
+2. Clique em <i class="fas fa-pencil-alt"></i> **Editar**.
 3. Altere os dados do cadastro.
 4. Clique em `Salvar`.
 
@@ -121,7 +121,7 @@ No topo da página, você visualiza as seguintes métricas sobre os pedidos real
 
 - **Total de pedidos:** número total dos pedidos dos afiliados.
 - **Total do pedido:** soma dos valores dos pedidos, feita a partir do preço dos itens e sem incluir os custos de envio.
-- **Total da comissão do pedido:**  soma dos valores das comissões dos afiliados sobre os pedidos.
+- **Total da comissão do pedido:** soma dos valores das comissões dos afiliados sobre os pedidos.
 
 > ℹ️ Para acompanhar o fluxo de um pedido, clique sobre o `ID do pedido`. Desta forma, você é redirecionado para o Admin VTEX em **Pedidos > Todos os pedidos**.
 
@@ -133,12 +133,12 @@ Para pesquisar um pedido, digite na barra de busca o `ID do afiliado` relacionad
 
 É possível filtrar a busca de pedidos pelos seguintes critérios:
 
-- **Status do pedido:** a opção default é mostrar todos os pedidos. Para escolher um status, clique em **Todos os pedidos** <i class="fas fa-angle-down"></i> e selecione uma das opções sobre o pedido: _Criado, Pagamento aprovado, Pagamento pendente, Faturado ou Cancelado_. Saiba mais em [Fluxo e status de pedidos](/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196).  
+- **Status do pedido:** a opção default é mostrar todos os pedidos. Para escolher um status, clique em **Todos os pedidos** <i class="fas fa-angle-down"></i> e selecione uma das opções sobre o pedido: _Criado, Pagamento aprovado, Pagamento pendente, Faturado ou Cancelado_. Saiba mais em [Fluxo e status de pedidos](/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
 - **Período de criação do pedido:** filtre a partir de um intervalo de dias e horas durante o qual os pedidos foram criados. Para isso, no campo `De` determine uma data de início, e no campo `Até` coloque a data final.
 
 ### Exportar lista de pedidos
 
-O aplicativo **Affiliates Program** permite que você exporte uma lista com extensão CSV dos pedidos de afiliados. 
+O aplicativo **Affiliates Program** permite que você exporte uma lista com extensão CSV dos pedidos de afiliados.
 
 > ⚠️ Para habilitar a função de exportar lista, primeiro é necessário configurar templates de email, conforme descrito no guia para desenvolvedores [Affiliates Program app](https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app#email-templates).
 
@@ -150,7 +150,7 @@ O arquivo gerado será enviado para o email do [usuário](/pt/tutorial/gerencian
 
 ### Visualizar detalhes do pedido
 
-Para visualizar os dados de um pedido, na linha referente ao pedido clique <i class="fas fa-ellipsis-v"></i> **Mais ações**, e em seguida clique em <i class="fas fa-eye"></i> **Detalhes**. 
+Para visualizar os dados de um pedido, na linha referente ao pedido clique <i class="fas fa-ellipsis-v"></i> **Mais ações**, e em seguida clique em <i class="fas fa-eye"></i> **Detalhes**.
 
 ## Gerenciamento de comissões
 
@@ -173,7 +173,7 @@ Para pesquisar entre as comissões de pedidos, na barra de busca da aba **Comiss
 É possível alterar o valor percentual de uma comissão seguindo o passo a passo abaixo:
 
 1. Na aba **Comissões cadastradas**, na linha referente à comissão que deseja editar, clique em <i class="fas fa-ellipsis-v"></i> **Mais ações**.
-2. Clique em <i class="fas fa-pencil-alt"></i> **Editar**. 
+2. Clique em <i class="fas fa-pencil-alt"></i> **Editar**.
 3. No modal aberto, digite o número da comissão desejada. Decimais não são aceitos.
 4. Clique em `Confirmar`.
 

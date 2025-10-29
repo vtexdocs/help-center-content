@@ -19,7 +19,7 @@ order: 3
 
 La sección [Layout](/es/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) te permite crear tu storefront con HTML y CSS. Se organiza en carpetas y archivos con fines específicos:
 
-![CMS - Layout ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/cms/cms-portal-legado_1.png)
+![CMS - Layout ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/cms/cms-portal-legado_1.png)
 
 - **HTML Templates:** construye el código HTML y los archivos JavaScript y CSS de referencia que se utilizarán en las páginas del sitio web.
 
@@ -39,7 +39,7 @@ La sección [Layout](/es/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) te permite 
 
 La sección [Configuración](/es/subcategory/configuracion-de-cms--6kovkwzMRyeOOc2iEC4suM) te permite configurar los ajustes relacionados con el sitio web de tu tienda, como sus metadatos, las etiquetas SEO, los tipos de archivo, etc. 
 
-![CMS - Settings ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/cms/cms-portal-legado_2.png)
+![CMS - Settings ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/cms/cms-portal-legado_2.png)
 
 La sección **Configuración** está estructurada de la siguiente manera:
 
@@ -70,7 +70,7 @@ Toda tienda debe tener, sin excepción, las siguientes carpetas en el CMS para a
 
 Vea abajo estas carpetas básicas en el CMS:
 
-![2 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/cms/cms-portal-legado_3.png)
+![2 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/cms/cms-portal-legado_3.png)
 
 Estas carpetas vienen de forma predeterminada en el ambiente de todas las tiendas VTEX.
 
@@ -105,9 +105,9 @@ Estas son:
 
 ## Controles nativos de VTEX
 
-Controles son fragmentos de código que puede utilizar en los templates  de su sitio web para realizar acciones específicas.
+Controles son fragmentos de código que puede utilizar en los templates de su sitio web para realizar acciones específicas.
 
-En VTEX, encontrará una serie de controles nativos para renderizar  diversas funcionalidades. 
+En VTEX, encontrará una serie de controles nativos para renderizar diversas funcionalidades. 
 
 Por ejemplo, utilizando el control `<vtex.cmc:productName/>` en una página de producto, el sistema proporcionará el nombre del producto que se mostrará en la pantalla.
 

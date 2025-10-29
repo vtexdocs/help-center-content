@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
-The __Portal__ is used to render __Checkout__ (cart, personal data, address, payment method) and __OrderPlaced__ (buying confirmation screen)  screens. In this article it will be presented how to register and configure the resources of the Portal. 
+The __Portal__ is used to render __Checkout__ (cart, personal data, address, payment method) and __OrderPlaced__ (buying confirmation screen) screens. In this article it will be presented how to register and configure the resources of the Portal. 
 
 The __Checkout__ module in the Admin, displays the sites that are registered for your account. Through it, it is also possible to create a new website, edit and configure information about existing websites.
 
@@ -29,7 +29,7 @@ The __Checkout__ module in the Admin, displays the sites that are registered for
 <ul>
 <br>
   <li>**Name**: enter here the desired name for the site.</li>
-  <li>**Store**: fill in with the account name, which can be found at  **Account Settings > Account Management > Accounts > Account name**.</li>
+  <li>**Store**: fill in with the account name, which can be found at **Account Settings > Account Management > Accounts > Account name**.</li>
   </ul>
 4. Click `Save`.
 

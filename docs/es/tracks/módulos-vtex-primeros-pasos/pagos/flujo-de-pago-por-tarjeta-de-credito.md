@@ -21,7 +21,7 @@ El flujo básico de un pago por tarjeta de crédito es realizado por los siguien
 
 - **Adquirente**: El [adquirente](/es/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil?locale=pt#adquirente), también llamado acreditador, es una empresa que es especializada en procesar pagos; es decir, realizar la liquidación financiera de las transacciones de una tienda a través de tarjetas de crédito y débito.
 
-- **Bandera**: Las [banderas](/es/tutorial/que-es-una-bandera-de-tarjeta-de-credito--4bNba5QYuIwKEmac88KwyI) son empresas responsables de definir las reglas de negocio para compras realizadas con tarjeta de crédito. Definen los estándares  por los cuales los adquirentes deben procesar las transacciones realizadas mediante este medio de pago (cada bandera tiene sus propias reglas).
+- **Bandera**: Las [banderas](/es/tutorial/que-es-una-bandera-de-tarjeta-de-credito--4bNba5QYuIwKEmac88KwyI) son empresas responsables de definir las reglas de negocio para compras realizadas con tarjeta de crédito. Definen los estándares por los cuales los adquirentes deben procesar las transacciones realizadas mediante este medio de pago (cada bandera tiene sus propias reglas).
 - **Banco Emisor**: El [banco emisor](/es/tutorial/o-que-e-banco-emissor?locale=pt) es la institución financiera responsable de los medios de pago, ya sean boletos bancarios, tarjetas de débito o crédito. Es este quien, al recibir los datos de una compra realizada en su tienda, autoriza o no la venta (dependiendo del límite de crédito o del dinero disponible en la cuenta del usuario).
 <br/>
 Para saber más sobre los agentes financieros involucrados en el flujo de pago de un pedido en Brasil, consulte [nuestro artículo](/es/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil?locale=pt#adquirente). <br/>
@@ -31,7 +31,7 @@ Para saber más sobre los agentes financieros involucrados en el flujo de pago d
 
 El flujo completo para pago por tarjeta de crédito en VTEX puede ser descrito por la siguiente imagen.  
 
-![Tarjeta de crédito - Flujo básico de un pago](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/pagos/flujo-de-pago-por-tarjeta-de-credito_1.JPG)
+![Tarjeta de crédito - Flujo básico de un pago](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/pagos/flujo-de-pago-por-tarjeta-de-credito_1.JPG)
 
 1. En la pantalla de Checkout de su tienda, el cliente elige el **Medio de pago** _tarjeta de crédito_ para realizar el pago de su compra.
 2. La información de este pago se pasa al **Gateway de Pagos**, que es el player responsable de garantizar que este pago se realice con éxito.
@@ -45,5 +45,5 @@ Con la respuesta del banco emisor, se realiza el flujo inverso y el **Gateway de
 
 <br/>
 
-> ℹ️ Es posible incluir el Antifraude en este flujo. En este caso, el antifraude recibe la información del gateway de que el pago fue  preautorizado por el banco emisor. Con la información recibida del gateway, el antifraude envía una respuesta de aprobación o denegación del pago. Si el antifraude no lo aprueba, el pago se cancela. Si el pago es aprobado, el pedido puede continuar su flujo normal.
+> ℹ️ Es posible incluir el Antifraude en este flujo. En este caso, el antifraude recibe la información del gateway de que el pago fue preautorizado por el banco emisor. Con la información recibida del gateway, el antifraude envía una respuesta de aprobación o denegación del pago. Si el antifraude no lo aprueba, el pago se cancela. Si el pago es aprobado, el pedido puede continuar su flujo normal.
 

@@ -21,14 +21,14 @@ However, if you prefer to keep contacts in a flow until they complete it or unti
 
 To configure a flow to ignore triggers and keywords while a contact is still participating, simply adjust the settings accordingly.
 
--    Access the Flows module and click on the flow you want to perform this action.
+- Access the Flows module and click on the flow you want to perform this action.
 
--  Click on the three-line icon in the upper right corner of the flow editor, and then click on the ""Edit"" option.
+- Click on the three-line icon in the upper right corner of the flow editor, and then click on the ""Edit"" option.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/tell-a-flow-to-ignore-triggers-and-keywords_1.png)
 
--    Check the box ""Ignore triggers""
+- Check the box ""Ignore triggers""
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/tell-a-flow-to-ignore-triggers-and-keywords_2.png)
 
--    Click Save Changes button
+- Click Save Changes button

@@ -116,5 +116,5 @@ Contas com 100 mil produtos ou mais cadastrados devem entrar em contato com o [S
 
 Saiba mais em [Manutenção de base (full cleanup)](/pt/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802).
 
-![Agendar reindexação completa](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/opera%C3%A7%C3%B5es-da-loja/nao-consigo-indexar-um-produto-do-catalogo_1.png)  
+![Agendar reindexação completa](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/operações-da-loja/nao-consigo-indexar-um-produto-do-catalogo_1.png)  
 

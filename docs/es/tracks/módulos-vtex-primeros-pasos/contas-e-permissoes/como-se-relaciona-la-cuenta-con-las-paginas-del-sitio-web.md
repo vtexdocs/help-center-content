@@ -21,7 +21,7 @@ El **website binding** hace de puente entre el CMS y la información definida en
 
 Para vincularlo, basta consultar nuestro [artículo sobre vincular un account name a un website.](/es/tutorial/vincular-un-account-name-con-un-website)  
 
-![Binding](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/contas-e-permissoes/como-se-relaciona-la-cuenta-con-las-paginas-del-sitio-web_1.png)
+![Binding](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/contas-e-permissoes/como-se-relaciona-la-cuenta-con-las-paginas-del-sitio-web_1.png)
 
 La configuración anterior se realiza cuando una cuenta quiere tener más de una tienda. **Multitienda** o multidominio es cuando se gestiona más de una tienda dentro del mismo panel administrativo VTEX.
 

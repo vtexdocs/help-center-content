@@ -34,7 +34,7 @@ Luego de entender esto, evalúe si es necesario configurar una nueva política c
 ## Definición de catálogo de productos
 
 
-Para definir el catálogo de productos que será enviado al marketplace, el administrador de la tienda debe marcar el flag  __Tiendas__ en el registro del producto, seleccionando las políticas comerciales deseadas. Si no se selecciona ninguna política comercial, el producto se considerará para todas estas.
+Para definir el catálogo de productos que será enviado al marketplace, el administrador de la tienda debe marcar el flag __Tiendas__ en el registro del producto, seleccionando las políticas comerciales deseadas. Si no se selecciona ninguna política comercial, el producto se considerará para todas estas.
 
 1. Acceda a la sección __Catálogo__.
 2. Acceda a la pestaña __Productos y SKUs__.

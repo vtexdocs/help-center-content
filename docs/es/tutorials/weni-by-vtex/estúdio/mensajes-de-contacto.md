@@ -21,7 +21,7 @@ Los mensajes son todas las interacciones realizadas cuando envías o recibes un 
 
 -   Inmediatamente después, selecciona la opción ""Mensajes"" en el menú lateral. Te encontrarás con la siguiente información
 
--   Verás la lista de mensajes.![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/mensajes-de-contacto_1.png)
+-   Verás la lista de mensajes.![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/mensajes-de-contacto_1.png)
 
 -    Bandeja de entrada: Las mensajes de esta carpeta son todas las recibidas por un flujo. Además, los mensajes aquí provienen de contactos que no están activos en el flujo.- Flujos: Los archivos de esta carpeta incluyen mensajes recibidos por tus flujos. Estos mensajes son enviados por contactos activos en los flujos cuando se envían.- Archivado: El proceso de archivo elimina los mensajes de la bandeja de entrada, pero los mantiene en tu cuenta para que puedas encontrarlos más tarde. Los mensajes en ""Inbox"" o ""Flows"" pueden ser archivados aquí. Si deseas eliminar un mensaje, ponlo en la carpeta ""Archived"" y luego elimínalo. Todos los mensajes aquí pueden volver a su carpeta original.- Bandeja de salida: Aquí se encuentran los mensajes pendientes. Cuando el mensaje es enviado, se mueve de esta carpeta a ""Sent"".- Enviado: Todos los mensajes enviados por la organización.
 
@@ -29,6 +29,6 @@ Los mensajes son todas las interacciones realizadas cuando envías o recibes un 
 
 -  Programaciones: Mensajes programados para ser enviados en el futuro. Ve a esta carpeta para ver o editar mensajes que aún no han sido enviados.
 
--  Error: Mensajes que no fueron entregados.![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/mensajes-de-contacto_2.png)
+-  Error: Mensajes que no fueron entregados.![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/mensajes-de-contacto_2.png)
 
 Para obtener la métrica de todos los mensajes intercambiados, debes sumar todas las categorías.

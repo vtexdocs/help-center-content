@@ -22,10 +22,10 @@ Para isso, você pode utilizar a configuração de impostos em [__Pricing__](/pt
 Neste artigo, mostraremos como funciona o sistema para estes casos.
 **Cenário 1**: Meu ERP envia o preço já com o IVA para a VTEX, portanto, não preciso fazer o cálculo.
 
-1. Página de Categoria![CATEGORIASINIVA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/taxas/enviar-preco-com-imposto-separado_1.png)
-2. Página de Produto![PRODUTOSINIVA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/taxas/enviar-preco-com-imposto-separado_2.png)
-3. Carrinho![CARRINHOSINIVA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/taxas/enviar-preco-com-imposto-separado_3.png)
-4. Checkout![CHECKOUTSINIVA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/taxas/enviar-preco-com-imposto-separado_4.png)
+1. Página de Categoria![CATEGORIASINIVA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/taxas/enviar-preco-com-imposto-separado_1.png)
+2. Página de Produto![PRODUTOSINIVA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/taxas/enviar-preco-com-imposto-separado_2.png)
+3. Carrinho![CARRINHOSINIVA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/taxas/enviar-preco-com-imposto-separado_3.png)
+4. Checkout![CHECKOUTSINIVA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/taxas/enviar-preco-com-imposto-separado_4.png)
 
 **Cenário 2**: Meu ERP envia o preço *sem* IVA para a VTEX.
 
@@ -37,7 +37,7 @@ Ou, então, para criar um JS e somar o valor do imposto nas vitrines, também é
 
 __Atenção__: Na página de produto é necessário colocar um JavaScript para fazer a soma do valor.
 
-1. Página de Categoria![CATEGORIASINIVA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/taxas/enviar-preco-com-imposto-separado_5.png)
-2. Página de Produto![PRODUTOCONIVA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/taxas/enviar-preco-com-imposto-separado_6.png)
-3. Carrinho![CARRINHOCONIVA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/taxas/enviar-preco-com-imposto-separado_7.png)
-4. Checkout![CHECKOUTCONIVA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/taxas/enviar-preco-com-imposto-separado_8.png)
+1. Página de Categoria![CATEGORIASINIVA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/taxas/enviar-preco-com-imposto-separado_5.png)
+2. Página de Produto![PRODUTOCONIVA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/taxas/enviar-preco-com-imposto-separado_6.png)
+3. Carrinho![CARRINHOCONIVA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/taxas/enviar-preco-com-imposto-separado_7.png)
+4. Checkout![CHECKOUTCONIVA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/taxas/enviar-preco-com-imposto-separado_8.png)

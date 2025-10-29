@@ -20,7 +20,7 @@ The next step is to configure payment conditions.
 But first we must clarify the difference between payment methods and payment conditions.
 
 ## Payment methods
-The payment methods are the ways that can be used for money to change hands, making  the buying and selling transactions possible. VTEX supports a variety of payment methods, such as credit and debit cards, "boleto bancário" (popular Brazilian off-line payment method), digital wallet, voucher ("vale") and many others.
+The payment methods are the ways that can be used for money to change hands, making the buying and selling transactions possible. VTEX supports a variety of payment methods, such as credit and debit cards, "boleto bancário" (popular Brazilian off-line payment method), digital wallet, voucher ("vale") and many others.
 
 ## Payment conditions
 Payment conditions are rules that must be followed by a person who wants to buy in your store. In practice, payment conditions are the options that appear on the user's screen at checkout.

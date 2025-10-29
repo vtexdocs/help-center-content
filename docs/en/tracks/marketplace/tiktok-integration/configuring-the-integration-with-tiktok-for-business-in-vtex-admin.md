@@ -87,7 +87,7 @@ On the **Set Up TikTok for Business page**, as illustrated below, please follow 
 3. In the **Business Center** section, choose one of the following options:
     * To connect to an existing Business Center, click `Connect`.
     * To create a new Business Center: Edit the name of the new Business Center as desired and click `Create New`.
-4.  Click on the **TikTok Ad Account** section to connect to [your TikTok Ads Manager account](https://ads.tiktok.com/help/article?aid=9678), i.e. the account you use to create ads on TikTok. 
+4. Click on the **TikTok Ad Account** section to connect to [your TikTok Ads Manager account](https://ads.tiktok.com/help/article?aid=9678), i.e. the account you use to create ads on TikTok. 
 5. In the **TikTok Ad Account** section, choose one of the following options:
     * To connect to an existing Ad Account, click `Connect`.
     * To create a new Ad Account: Edit the name of the new account as desired and click `Create New`.

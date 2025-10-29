@@ -23,25 +23,25 @@ Las campañas permiten que los mensajes programados se agenden en fechas y horar
 
 -  Accede a la opción ""Campañas"", dentro del módulo ""Estudio"" en el menú lateral.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/como-crear-una-campana_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/como-crear-una-campana_1.png)
 
 -    Haz clic en ""Crear Campaña"" para crear la campaña.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/como-crear-una-campana_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/como-crear-una-campana_2.png)
 
 -    La campaña requiere un título en el campo (Nombre) y la selección de un grupo de contactos en (Grupo) al que se enviarán los mensajes.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/como-crear-una-campana_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/como-crear-una-campana_3.png)
 
 Cada campaña puede operar solo con un grupo. Por lo tanto, es necesario crear una nueva campaña para cada grupo con el que desees interactuar.
 
 -    Se abrirá una nueva página. Haz clic en ""Añadir evento"".
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/como-crear-una-campana_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/como-crear-una-campana_4.png)
 
 -    Ahora define las directrices del evento.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/como-crear-una-campana_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/como-crear-una-campana_5.png)
 
 1. En ""Send a message"": Selecciona la acción que deseas asignar a un evento. Dependiendo de la elección, escribe el mensaje o selecciona el flujo.
 

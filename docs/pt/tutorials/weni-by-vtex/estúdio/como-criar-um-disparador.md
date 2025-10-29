@@ -17,7 +17,7 @@ subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 
 Neste ponto o seu chatbot está conectado a algum canal, mas **para iniciar um fluxo automaticamente quando o usuário falar com o chatbot, você deve configurar um Disparador (trigger)**. Para criá-lo você deve ir ao **Menu de Disparadores** dentro do módulo ""Estúdio"" e **clicar em** **Criar Disparador.**
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-criar-um-disparador_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/como-criar-um-disparador_1.png)
 
 Nesta seção, iremos criar um disparador padrão que pode ser configurado tanto no módulo de estúdio quanto no fluxo.
 
@@ -25,7 +25,7 @@ Nesta seção, iremos criar um disparador padrão que pode ser configurado tanto
 
 -   Clique no botão **Crie uma palavra-chave que inicia um fluxo**
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-criar-um-disparador_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/como-criar-um-disparador_2.png)
 
 -    Na palavra-chave você definirá a palavra que funcionará como gatilho.Não utilize nomes comuns como: ajuda, olá, boa tarde. Utilize: teste123, ajuda123. Dessa forma irá garantir que se o usuário utilizar qualquer nome comum em uma mensagem, o fluxo com este disparador não será acionado.
 
@@ -36,17 +36,17 @@ Nesta seção, iremos criar um disparador padrão que pode ser configurado tanto
 -  Em **Somente Grupos** é possível incluir ou não incluir as regras desse gatilho a um grupo de contatos específico, deixe o espaço em branco se você quiser aplicar essa regra a todos.
 
 -  Clique na caixa Criar disparador.
--  ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-criar-um-disparador_3.png)
+-  ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/como-criar-um-disparador_3.png)
 
 Em Grupos a excluir: poderá evitar que pessoas de certos grupos entrem nesse fluxo
 Se o seu Agent Builder estiver ativo, os disparadores **NÃO** irão funcionar, pois o acionamento dos fluxos é realizado pelo agente inteligente e não por disparadores.
 
 #### Criando disparadores em um fluxo
 
--  Vá em fluxo, escolha seu fluxo e o abra.![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-criar-um-disparador_4.png)
+-  Vá em fluxo, escolha seu fluxo e o abra.![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/como-criar-um-disparador_4.png)
 
 -    Dentro do fluxo, clique no menu de 3 listras e em Editar. Uma nova janela será aberta.
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-criar-um-disparador_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/como-criar-um-disparador_5.png)
 
 -    Em ""Palavras-chave"", digite o disparador desejado e clique em ""Salvar alterações""
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-criar-um-disparador_6.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/como-criar-um-disparador_6.png)

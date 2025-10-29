@@ -35,7 +35,7 @@ El proceso de go live de una tienda, incluyendo las configuraciones y pruebas ne
 
 En la siguiente imagen puedes ver las etapas de planificación del go live de una tienda VTEX:
 
-![go-live-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/planificacion-del-go-live_1.png)
+![go-live-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/guía-de-onboarding/serie-de-la-tienda-vtex/planificacion-del-go-live_1.png)
 
 ### Definir MVP
 
@@ -47,7 +47,7 @@ Es importante hacer una lista de todos los requisitos que se deben implementar a
 
 Para organizar los equipos participantes y realizar el go live en la fecha deseada, es importante crear un roadmap, es decir, un documento que recoja las acciones requeridas y que indique los responsables de cada etapa y los plazos acordados. La siguiente imagen muestra un ejemplo de roadmap:
 
-![golive 2 ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/planificacion-del-go-live_2.png)
+![golive 2 ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/guía-de-onboarding/serie-de-la-tienda-vtex/planificacion-del-go-live_2.png)
 
 Recomendamos planificar reuniones periódicas con los [equipos de implementación](/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#partners-de-implementacion) para mantener una alineación frecuente y, de ser necesario, crear un war room para resolver asuntos pendientes la semana antes del go live.
 
@@ -83,7 +83,7 @@ VTEX permite crear entornos independientes para estas pruebas. Cuando se crea un
 
 Para planificar una fase de pruebas ponte en contacto con [nuestro equipo de soporte](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy), que es el canal para [contratar un entorno de pruebas](/es/tutorial/contratar-ambiente-de-testes--2nmZAHlfQoGsCWmEWGIoGy).
 
-> ℹ️ Si la tienda fue[ creada utilizando VTEX IO](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#entorno-de-desarrollo), puedes realizar pruebas A/B entre workspaces, es decir, comparar el rendimiento de entornos de desarrollo de storefront. Para más información, consulta la guía de desarrolladores[ Running A/B tests](https://developers.vtex.com/docs/guides/vtex-io-documentation-running-native-ab-testing).
+> ℹ️ Si la tienda fue [creada utilizando VTEX IO](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#entorno-de-desarrollo), puedes realizar pruebas A/B entre workspaces, es decir, comparar el rendimiento de entornos de desarrollo de storefront. Para más información, consulta la guía de desarrolladores [Running A/B tests](https://developers.vtex.com/docs/guides/vtex-io-documentation-running-native-ab-testing).
 
 ### Quality Assurance (QA)
 

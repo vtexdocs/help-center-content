@@ -64,7 +64,7 @@ O usuário pode navegar pelas mensagens com as setas do teclado e apertar enter
 
 Também é possível configurar mensagens rápidas para cada setor, dessa forma os gerentes podem executar essa função no momento em que cria o setor. Seja na imagem:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/introducao-sobre-o-modulo-de-chats_5.png)##### **Transferir Chat**
+![](https://lh4.googleusercontent.com/pw_NhPDYoUBtKIYllYayOOjlOAGdqGCvDEta-9xUZR6NuJhAB25WAwf3IrknpWG2F03aYDyj3e7_etKejlvMHY0iJPhwP0Ytk194VZjgPcLAYlhesll7H5y4QBq167Hwd8H1-g3lgTwXpfo9jrmNsoU)##### **Transferir Chat**
 
 A função de transferir chat serve para direcionar o contato para um setor, fila ou agente específico, essa função pode ser acessada na área de informações do contato.
 
@@ -82,17 +82,17 @@ A função de transferir chat serve para direcionar o contato para um setor, fil
 
 É possível arrastar arquivos para caixa de texto e o **ctrl \+ v** está ativo para copiar arquivos de imagens sem precisar anexar.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/introducao-sobre-o-modulo-de-chats_10.png)##### **Emojis**
+![](https://lh6.googleusercontent.com/4peFvquUTBApQergEYjAJfhlqpdzt_JYnjpUF8xyogIUeuOqJ6vDM5vplFpLSpXmyDZRYM--9u_AjN52IrjQOJwsJOqClj0O4xPTrqqtpFBt6Bdr46yUj04Jl6N0Op0nBehiPuERt_T3qPVx6oiXt4Q)##### **Emojis**
 
 Emojis podem tornar a comunicação mais envolvente, isso porque eles facilitam a compreensão do tom e a intenção da mensagem. O Weni Chats tem uma página completa de emojis. Veja na imagem abaixo:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/introducao-sobre-o-modulo-de-chats_11.png)
+![](https://lh4.googleusercontent.com/Cmsy6XFoNeopiIBc04SVFsdfECOrjhVz0USowVTf9qj-mIfJ06Tc3-9Oh8Eqm0W0kxXV2m6gja-xh1HpqTp8St8DXF87dTZqkKqIps4zALD5zWdVTIDT0Ju2e_FYSA2255TDr_k2bVQZW_hb6wdwtM8)
 
 ##### **Quebra de texto**
 
 É possível digitar  [shift \+ enter](https://www.google.com/search?q=shift+%2B+enter&spell=1&sa=X&ved=2ahUKEwiO9LaUxMCAAxWUGbkGHXIrDJAQkeECKAB6BAgIEAE) e quebrar linhas, o que pode facilitar na organização da mensagem. Veja na imagem abaixo:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/introducao-sobre-o-modulo-de-chats_12.png)
+![](https://lh4.googleusercontent.com/zP5KIFN-AYM3ksF2NXzCRcL7OOafYgjKjpDITuoJujFpmAB-1Tg4ulfmbTseWPHalq7O3SZKDFJwoPgwettrGOXS1LshiVXyjLGn7SPbvwKrarq-nTgNq8rSxx2QiiDX1gi6IudL3S0PzQwqBBZmZbg)
 
 ##### **Dashboard**
 
@@ -120,21 +120,21 @@ Ao visualizar o histórico do contato o agente pode ver o início do atendimento
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/introducao-sobre-o-modulo-de-chats_16.png) Depois de adicionar esta opção o nome do agente irá aparecer no balão de mensagem seguido de dois pontos, como mostra na imagem em seguida:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/introducao-sobre-o-modulo-de-chats_17.png)##### **Modo de visualização**
+![](https://lh5.googleusercontent.com/zGJl3xwA7xJ7pTH4IagRzjwI57dIfMvTsue9Qu6-KGNBRZs-OC28qxs5ImQ69vqRBgTINkBN0Ec9iwz75CMScSsdQ9xk4VOIFqCQVhpckTJbPTR-MdLKyg0O1qYbl_af6gKFk6xXVeODIM87gSyITsY)##### **Modo de visualização**
 
 Ao clicar no nome do agente no dashboard, abre\-se o **modo de visualização dos atendimentos do agente**. Assim, é possível ter uma visão geral dos **detalhes dos atendimentos** por agentes e um gerente pode **assumir um chat a qualquer momento**, transferindo para ele este atendimento.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/introducao-sobre-o-modulo-de-chats_18.png)##### **Notificação Via Navegador**
+![](https://lh6.googleusercontent.com/ppLr-zthxCc0U1R6myaj39yF_IT62cWtHZhBr5yxdUP7CuFCW5Ix5GuoGGOvKYUHM09IiIQoeQCmeKo-DtSeOrWNzjCCm1QLhsw_C780FvkNGt1qLyRIMMtZ8BrC6zjkbM3x1mCoT11UCvjkHj_EcfQ)##### **Notificação Via Navegador**
 
 Como uma parte dos nossos clientes optam por não ativar o efeito sonoro, foi lançada também a notificação via navegador. Para que isso aconteça é necessário permitir as notificações do seu navegador, para então ser notificado assim como mostra a imagem abaixo:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/introducao-sobre-o-modulo-de-chats_19.png)
+![](https://lh5.googleusercontent.com/BoRrl3CCsjt8ABRKnBj_Hfr6edMWv1Hya5qwiCookqnc2Qp_V5J1_8kVTEikW0v0LkCdrSNWyF8v1OotiGR4ZKKDV2S5Y-8pcnJZGmgXCQZTxGa7Ftn_AZ5KHzchxnLxTsyyTelkCMwgTNpggP8dCOA)
 
 ##### **Planilha Dashboard**
 
 Além de ter um dashboard disponível, também é possível baixá\-lo em formato de Excel. Veja na imagem abaixo:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/introducao-sobre-o-modulo-de-chats_20.png)
+![](https://lh5.googleusercontent.com/Jydnyu5p1t2I2Fs7ugMrMBwR7AmvszplPo17SCtspuQNXzgtl9e1lAXq_2_8h1BTMFOVLT9dn_An0hFhP_3lkPmDGBI48eypAm03_Sgqqg-82qOYIGU7JYZTKxsRHUKdRQJSLNPw26BaA4kgSg_l0kA)
 
 ##### **Edição de Campos de Contato**
 

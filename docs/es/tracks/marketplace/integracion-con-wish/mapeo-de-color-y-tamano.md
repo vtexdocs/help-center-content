@@ -23,7 +23,7 @@ El envío de esta información se realiza cargando la plantilla de mapeo, que co
 
 > ⚠️ Los productos sin un color o tamaño mapeado no se enviarán a Wish. Si alguna categoría no tiene estos campos en VTEX, será necesario [crear un campo de SKU](/es/tutorial/criando-campo-de-sku--tutorials_119) en el Catálogo y complete los valores apropiados antes de realizar la asignación de color y tamaño.
 
-  - [Descargue aquí](https://drive.google.com/uc?export=download&id=1yJCgahkDhc4Gbvtxpe9kID1CwWsijdOf) la Plantilla de Mapeo de Wish en el  formato .xlsx.
+  - [Descargue aquí](https://drive.google.com/uc?export=download&id=1yJCgahkDhc4Gbvtxpe9kID1CwWsijdOf) la Plantilla de Mapeo de Wish en el formato .xlsx.
 
 ## Campos
 
@@ -33,17 +33,17 @@ Siga el procedimiento, rellenando los campos de la plantilla de mapeo de la sigu
 
 Dada esta información, continúe completando la plantilla siguiendo las siguientes orientaciones:
 
-  2. **VTEXField**: es el nombre del [campo de SKU](/es/tutorial/criando-campo-de-sku) utilizado en su tienda en  VTEX.
+  2. **VTEXField**: es el nombre del [campo de SKU](/es/tutorial/criando-campo-de-sku) utilizado en su tienda en VTEX.
 _Ej.: campos como "Tamaño", "Color"._
 
-  3. **WishField**: es el nombre de la especificación en Wish, que corresponde al  campo de SKU que usted utilizó en el campo VTEXField.
-_Ej.: si usted utilizó "Colores" en la columna VTEXField, entonces el nombre  correspondiente en Wish sería "Color"._
+  3. **WishField**: es el nombre de la especificación en Wish, que corresponde al campo de SKU que usted utilizó en el campo VTEXField.
+_Ej.: si usted utilizó "Colores" en la columna VTEXField, entonces el nombre correspondiente en Wish sería "Color"._
 
   4. **VTEXValue**: nombre del valor utilizado en el campo de SKU en VTEX.
 _Ej.: para una especificación de "Color", los valores de este campo serían los propios colores utilizados en la tienda, como "Rojo", "Negro", "Blanco", etc._
 
-  5. **WishValue**: en esta columna usted debe rellenar valores aceptados por  Wish, correspondientes a los valores utilizados en el campo VTEXValue. Siga la documentación de Wish sobre los valores aceptados de [color](https://merchant.wish.com/documentation/colors) y de [tamaño](https://merchant.wish.com/documentation/sizes) para rellenar la plantilla.
-_Ej.: si usted rellenó VTEXField con "Tamaño" y VTEXValue con "Pequeño", verá que  Wish acepta "P", por ejemplo._
+  5. **WishValue**: en esta columna usted debe rellenar valores aceptados por Wish, correspondientes a los valores utilizados en el campo VTEXValue. Siga la documentación de Wish sobre los valores aceptados de [color](https://merchant.wish.com/documentation/colors) y de [tamaño](https://merchant.wish.com/documentation/sizes) para rellenar la plantilla.
+_Ej.: si usted rellenó VTEXField con "Tamaño" y VTEXValue con "Pequeño", verá que Wish acepta "P", por ejemplo._
 
 ## Ejemplos
 

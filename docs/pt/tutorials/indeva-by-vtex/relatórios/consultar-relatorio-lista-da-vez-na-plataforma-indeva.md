@@ -25,7 +25,7 @@ Para visualizar o relatório:
 
 - No menu lateral esquerdo da tela, clique em **Menu > Relatórios > Lista da Vez**.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relat%C3%B3rios/consultar-relatorio-lista-da-vez-na-plataforma-indeva_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relatórios/consultar-relatorio-lista-da-vez-na-plataforma-indeva_1.png)
 
 ## Analisar indicadores disponíveis
 
@@ -39,7 +39,7 @@ O relatório apresenta os seguintes indicadores:
 
 A barra de distribuição apresenta a divisão do tempo médio entre atendimentos, fila de espera e pausas, tanto para a loja quanto para cada vendedor individualmente.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relat%C3%B3rios/consultar-relatorio-lista-da-vez-na-plataforma-indeva_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relatórios/consultar-relatorio-lista-da-vez-na-plataforma-indeva_2.png)
 
 ## Consultar detalhes por vendedor
 
@@ -49,7 +49,7 @@ Para consultar o detalhamento de um vendedor específico:
 2. Clique no nome do vendedor para abrir a visão individual.  
 3. Navegue entre os dias para analisar a movimentação diária.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relat%C3%B3rios/consultar-relatorio-lista-da-vez-na-plataforma-indeva_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relatórios/consultar-relatorio-lista-da-vez-na-plataforma-indeva_3.png)
 
 Use esse relatório para avaliar a usabilidade da **Lista da Vez** e otimizar o gerenciamento de tempo da equipe comercial.
 

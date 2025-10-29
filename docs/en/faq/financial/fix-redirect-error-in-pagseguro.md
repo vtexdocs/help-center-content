@@ -28,7 +28,7 @@ To fix the problem, there are two options: Set the PagSeguro *with redirect* in 
 2. On the providers screen, click the `New Provider` button.
 3. Type the name __PagSeguro__ in the search bar and click on the name of the provider.
 4. Fill in the __email__ and __token__ fields with the information provided by PagSeguro.
-5. Follow the  __Configuração do redirecionamento__ guidance outlined in the configuration panel.
+5. Follow the __Configuração do redirecionamento__ guidance outlined in the configuration panel.
 6. Click `Save`.
 
 ### Setting up PagSeguro Payment Condition
@@ -50,7 +50,7 @@ To fix the problem, there are two options: Set the PagSeguro *with redirect* in 
 3. Click on the __Gateway Affiliations__ tab.
 4. Click the __+__ button in the upper right corner of the screen.
 5. Click on the __PagSecure without redirect__ affiliation.
-6. Follow our [PagSeguro configuration tutorial without redirect] (/ en / tutorial / how-configure-the-pagseguro-without-redirect-transparent)
+6. Follow our [PagSeguro configuration tutorial without redirect](/en/tutorial/how-configure-the-pagseguro-without-redirect-transparent)
 
 ### Setting the Payment Condition
 

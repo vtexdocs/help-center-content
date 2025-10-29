@@ -25,7 +25,7 @@ Para descobrir o ID de um SKU, siga os passos abaixo:
 
 No exemplo abaixo, o produto "Camiseta Corebiz Preta" está associado ao SKU "Camiseta Preta Unisex", e o ID do SKU é `310119261`:
 
-![finding_sku_id_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/produtos-e-skus/descobrir-o-id-de-um-sku_1.png)
+![finding_sku_id_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/produtos-e-skus/descobrir-o-id-de-um-sku_1.png)
 
 ## Identificar ID do SKU pela URL
 

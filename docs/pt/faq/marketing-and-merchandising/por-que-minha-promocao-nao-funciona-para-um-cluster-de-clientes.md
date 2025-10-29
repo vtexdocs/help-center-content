@@ -55,7 +55,7 @@ Os valores são associados tanto aos clientes quanto às promoções.
 
 Por exemplo, uma promoção foi relacionada aos valores “Platinum” e “Platinum2”. Apenas os compradores que tenham esses dois comandos terão acesso à promoção.
 
-Se Maria usa o valor “Platinum” e Ana, o “Platinum2”, nenhuma das duas conseguirá participar da promoção. Isso porque só os clientes estão relacionados aos valores,  simultaneamente, finalizam a compra com o desconto.
+Se Maria usa o valor “Platinum” e Ana, o “Platinum2”, nenhuma das duas conseguirá participar da promoção. Isso porque só os clientes estão relacionados aos valores, simultaneamente, finalizam a compra com o desconto.
 
 O procedimento aqui é o mesmo dos casos anteriores. É necessário ir até “Cluster de clientes” para entender quais valores foram cadastrados para uma determinada promoção. Cabe a cada cliente decidir quantos e quais cluster irá incluir na promoção.   
 

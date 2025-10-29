@@ -14,7 +14,7 @@ locale: pt
 legacySlug: preco-do-resultado-de-busca-e-diferente-da-pagina-de-produto
 ---
 
-Durante a [atualização de preço de um SKU](/pt/tutorial/alteracao-de-preco-de-sku--tutorials_95), é possível que o preço do resultado de busca apresente uma divergência com o preço ou estoque  da página de produto, caso a loja use o [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb). 
+Durante a [atualização de preço de um SKU](/pt/tutorial/alteracao-de-preco-de-sku--tutorials_95), é possível que o preço do resultado de busca apresente uma divergência com o preço ou estoque da página de produto, caso a loja use o [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb). 
 
 Para a utilização do Intelligent Search, é necessário a configuração do aplicativo [Search Result](https://developers.vtex.com/vtex-developer-docs/docs/vtex-search-result). Nele, a propriedade `simulationBehavior`, que determina como os dados da busca serão atualizados, pode ser definida com o valor `skip`. Esta configuração deixa o carregamento da busca mais rápido, porém pode gerar a divergência observada.
 

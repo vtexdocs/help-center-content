@@ -20,7 +20,7 @@ Importantíssimas para navegação e procura dos produtos desejados na loja.
 
 O cadastro é simples e pode-se determinar diferentes faixas de preços para categorias, conforme imagem abaixo:
 
-![faixa-de-preço pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/categorias/configurando-filtro-de-faixa-de-preco_1.png)
+![faixa-de-preço pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/categorias/configurando-filtro-de-faixa-de-preco_1.png)
 
 Dentro de Faixas de Preço, clique em “Nova Faixa de Preço” e preencha os campos abaixo:
 

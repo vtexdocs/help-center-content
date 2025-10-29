@@ -49,7 +49,7 @@ Para desabilitar a função __Opções de entrega otimizadas__, siga os passos a
 3. No menu de opções azul localizado na parte superior da página, clique em __Checkout__.
 4. Em __Opções de entrega otimizadas__, clique no botão <i class="fas fa-toggle-off"></i> para desabilitar a opção __Otimizar exibição das opções de entrega__.
 
-![Opções de entrega otimizadas](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configura%C3%A7%C3%B5es-do-checkout/otimizacao-das-opcoes-de-entrega-no-checkout_1.PNG)
+![Opções de entrega otimizadas](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configurações-do-checkout/otimizacao-das-opcoes-de-entrega-no-checkout_1.PNG)
 
 <ul>
   5. Clique em **Salvar**.

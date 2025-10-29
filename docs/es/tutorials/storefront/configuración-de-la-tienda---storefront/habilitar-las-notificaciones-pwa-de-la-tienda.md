@@ -17,7 +17,7 @@ subcategoryId: 7ogirQ8NClawO2X6xdgCKc
 
 Todas las tiendas VTEX IO disponen de forma nativa de una Progressive Web App (PWA). Una PWA es un tipo de aplicación web que se utiliza para promover de forma nativa recursos beneficiosos para los usuarios, como funcionalidades offline o un ícono en la pantalla de inicio.
 
-![pwa-noticees](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/configuraci%C3%B3n-de-la-tienda---storefront/habilitar-las-notificaciones-pwa-de-la-tienda_1.png)
+![pwa-noticees](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/configuración-de-la-tienda---storefront/habilitar-las-notificaciones-pwa-de-la-tienda_1.png)
 
 La PWA puede estar disponible para instalación en tres momentos distintos de la experiencia de navegación del usuario: durante la primera visita al sitio web de su tienda, al añadir el primer ítem al carrito o al finalizar la primera compra.
 Vea cómo configurar la notificación en su tienda siguiendo los pasos a continuación.

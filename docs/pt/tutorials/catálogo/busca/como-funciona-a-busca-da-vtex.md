@@ -74,7 +74,7 @@ Para entender a busca da VTEX, inicialmente é preciso saber como funciona o i
 
 O indexador do catálogo é uma base de dados escalável de acesso rápido, com algorítimos configuráveis de priorização de resultado. Ele está posicionado entre o banco de dados convencional e o usuário. Veja o esquema abaixo:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/busca/como-funciona-a-busca-da-vtex_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/busca/como-funciona-a-busca-da-vtex_1.png)
 
 No indexador encontramos todas as informações referentes ao catálogo de produtos (produtos, SKUs, marcas, departamentos, categorias). O buscador utiliza essas informações para localizar os produtos e exibi-los nas vitrines e resultados de busca. Portanto, somente os produtos indexados podem ser encontrados pela busca.
 

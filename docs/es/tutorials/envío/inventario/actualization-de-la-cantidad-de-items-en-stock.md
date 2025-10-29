@@ -45,7 +45,7 @@ _Unidades disponibles = unidades de la última actualización - unidades reserva
 
 El stock negativo suele producirse cuando se cancela el SKU de un pedido que ya tiene una reserva.  Para evitar esta situación, es importante que la actualización de la cantidad de SKU se realice en pedidos con _status_ posterior a `Preparando entrega`. De este modo, la [reserva ya habrá sido reconocida](/es/tutorial/como-se-maneja-la-reserva--tutorials_92#reserva-reconocida) y no habrá conflicto entre los ítems en stock y los ítems que realmente están disponibles para la venta.
 
-![gerenciar inventarioES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/inventario/actualization-de-la-cantidad-de-items-en-stock_1.gif)
+![gerenciar inventarioES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/inventario/actualization-de-la-cantidad-de-items-en-stock_1.gif)
 
 ## Artículos relacionados
 

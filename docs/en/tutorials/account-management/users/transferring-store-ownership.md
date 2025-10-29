@@ -56,7 +56,7 @@ Once you complete these steps, the ownership transfer will be completed, and it 
 
 ## View history of store ownership changes
 
-The Sponsor user is responsible for critical maintenance and authorization actions, so mistakes made by this user role can have drastic consequences. Therefore, it is essential to track  changes related to this user role. To monitor and audit  account ownership transfers, you can access the activity log on the Sponsor management page by clicking on the `Activity Log` button on **Account settings** > **Account**. 
+The Sponsor user is responsible for critical maintenance and authorization actions, so mistakes made by this user role can have drastic consequences. Therefore, it is essential to track changes related to this user role. To monitor and audit account ownership transfers, you can access the activity log on the Sponsor management page by clicking on the `Activity Log` button on **Account settings** > **Account**. 
 
 All events related to the transfer of account ownership are logged in the activity log with the date they occurred and the user associated with the event.
 

@@ -57,7 +57,7 @@ The section below describes how to configure the B2B Checkout Settings app.
 Follow the steps below to customize your store checkout:
 
 <ol start="1">
-<li>In the VTEX Admin, go to **Store Settings > Storefront > B2B Checkout Settings**, or type **B2B Checkout Settings**  in the search bar at the top of the page.</li>
+<li>In the VTEX Admin, go to **Store Settings > Storefront > B2B Checkout Settings**, or type **B2B Checkout Settings** in the search bar at the top of the page.</li>
 <li>When you enable `Show purchase order (PO) number field`, the checkout page will include a field for entering the purchase order number during the purchase process.</li>
 <li>When you enable `Show Create a Quote button`, the checkout page will include a `Create Quote` button that allows creating a budget using the current cart items.</li>
 </ol>

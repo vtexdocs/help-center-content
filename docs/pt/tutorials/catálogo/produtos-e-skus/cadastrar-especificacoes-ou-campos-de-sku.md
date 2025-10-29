@@ -41,7 +41,7 @@ Antes de criar especificações, é importante compreender que elas seguem uma l
 
 Exemplo: considere o produto **Camisa Masculina**. Em __Catálogo > Produtos e SKUs > SKU > Especificações__, página ilustrada a seguir, podemos ver que o grupo de especificações chamado **Características** está associado à categoria da camisa. Esse grupo inclui um campo de nome **Cor** e um campo de nome **Tamanho**.
 
-![heranca-especificacoes-sku-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/produtos-e-skus/cadastrar-especificacoes-ou-campos-de-sku_1.png)
+![heranca-especificacoes-sku-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/produtos-e-skus/cadastrar-especificacoes-ou-campos-de-sku_1.png)
 
 Por se tratar de uma especificação de SKU, as informações selecionadas nessa página valerão somente para essa variação do produto **Camisa Masculina**. Todos os SKUs cadastrados no produto **Camisa Masculina** e todos os SKUs de produtos da mesma categoria devem ter essas especificações preenchidas também.
 
@@ -82,7 +82,7 @@ Para criar um campo de SKU, siga as instruções abaixo:
     * **Ativo**: ativa o campo.
 8. Clique em `Salvar`.
 
-![sku-spec-1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/produtos-e-skus/cadastrar-especificacoes-ou-campos-de-sku_2.gif)
+![sku-spec-1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/produtos-e-skus/cadastrar-especificacoes-ou-campos-de-sku_2.gif)
 
 #### Tipos de campo de SKU
 
@@ -127,13 +127,13 @@ Os **Valores** dos campos de SKU irão variar de acordo com o tipo do campo esco
 
     Insira um valor por linha e tecle `Enter` entre cada valor, conforme ilustrado na imagem a seguir.
 
-    ![valores-campo-sku-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/produtos-e-skus/cadastrar-especificacoes-ou-campos-de-sku_3.png)
+    ![valores-campo-sku-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/produtos-e-skus/cadastrar-especificacoes-ou-campos-de-sku_3.png)
 
 8. Clique em `Salvar`.
 
     Os valores cadastrados serão exibidos na [interface do cadastro de SKU](#preencher-especificacoes-de-sku).
 
-![sku-spec-2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/produtos-e-skus/cadastrar-especificacoes-ou-campos-de-sku_4.gif)
+![sku-spec-2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/produtos-e-skus/cadastrar-especificacoes-ou-campos-de-sku_4.gif)
 
 > ℹ️ Caso esteja cadastrando os primeiros valores de um campo, é necessário voltar no formulário daquele campo específico e marcar a opção **Ativo**.
 
@@ -176,7 +176,7 @@ Para preencher as especificações de cada SKU de forma individual, siga as inst
 
 8. Clique em `Salvar`.
 
-![sku-spec-3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/produtos-e-skus/cadastrar-especificacoes-ou-campos-de-sku_5.gif)
+![sku-spec-3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/produtos-e-skus/cadastrar-especificacoes-ou-campos-de-sku_5.gif)
 
 #### Planilha
 
@@ -199,7 +199,7 @@ Para preencher especificações de SKUs em massa por planilha, você precisa exp
 9. Clique em **Selecionar** para selecionar o arquivo com a planilha preenchida no seu computador.
 10. Clique em `Importar`.
 
-![sku-spec-4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/produtos-e-skus/cadastrar-especificacoes-ou-campos-de-sku_6.gif)
+![sku-spec-4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/produtos-e-skus/cadastrar-especificacoes-ou-campos-de-sku_6.gif)
 
 ## Saiba mais
 - [Cadastrar especificações ou campos de produto](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106)

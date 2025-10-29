@@ -24,4 +24,4 @@ Para cadastrar uma marca, siga os passos abaixo:
 4. Preencha os [campos de cadastro de marca](/pt/tutorial/campos-de-cadastro-de-marca--37Ky7lTbEkiWIAYA80EMyI).
 5. Clique no botão `Salvar`.
 
-![cadastrarmarcas3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/marcas/cadastrando-marcas_1.PNG)
+![cadastrarmarcas3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/marcas/cadastrando-marcas_1.PNG)

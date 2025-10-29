@@ -23,5 +23,5 @@ Once you have accessed this URL and signed in, you will enter your store's uniqu
 
 In the side menu on the left part of the screen you will find the **Account Management** section. This is the section responsible for managing three important parts of your ecommerce:
 - Store users: the emails that have access to your admin panel.
-- Roles:  the permission levels, which define which tasks each user can perform.
+- Roles: the permission levels, which define which tasks each user can perform.
 - General data of the account: global information of your business. 

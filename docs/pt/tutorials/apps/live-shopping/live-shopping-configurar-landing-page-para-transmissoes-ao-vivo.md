@@ -32,7 +32,7 @@ Siga os passos abaixo para configurar a landing page dos eventos ao vivo:
 
 1. Acesse no Admin VTEX **Aplicativos > Live Shopping > Página global**.
 3. Na seção **Configurações**, marque as caixas de seleção correspondentes aos tipos de evento (`Eventos ao vivo`, `Eventos anteriores`, `Eventos futuros`) que você deseja exibir na landing page dos eventos.
-O código da landing page também está disponível na seção **Configurações**, e  pode ser adicionado onde preferir no seu storefront.
+O código da landing page também está disponível na seção **Configurações**, e pode ser adicionado onde preferir no seu storefront.
 4. Na seção **Transmissões ao vivo**, use filtros para refinar a seleção de eventos com base na categoria ou no status (`Ativas`, `Inativas` e `Todas`). Isso ajudará a encontrar os eventos que deseja exibir em sua landing page.
 5. Para cada guia (`Anteriores`, `Ao vivo`, `Futuros`), marque as caixas de seleção dos eventos que você deseja exibir nos carrosséis **Eventos anteriores**, **Evento ao vivo** e **Eventos futuros** na landing page.
 6. Depois de selecionar os eventos, clique em `Editar` em cada evento selecionado. Isso permitirá que você defina o início e o término da gravação ou atualize sua categoria.

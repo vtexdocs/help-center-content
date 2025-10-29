@@ -55,13 +55,13 @@ You can find the information needed to fill out the **Lengow Account**, **Lengow
 
 |                                                                                                                     |
 |---------------------------------------------------------------------------------------------------------------------|
-| ![Lengow Account ID](https://images.ctfassets.net/alneenqid6w5/5RhkmJ5MSU7IAqKeaeIHOt/1a047d143644b5ede26e54ff0248d609/image10.png "Lengow Account ID") |
+| ![Lengow Account ID](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/installation-and-setup_3.png) |
 | *Lengow Account ID = Account ID*                                                                                    |
 
 <table width="100%">
   <tr>
    <td>
-    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/installation-and-setup_3.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Lengow API KEY / Secret" title="Lengow API KEY / Secret">
+    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/installation-and-setup_4.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Lengow API KEY / Secret" title="Lengow API KEY / Secret">
    </td>
   </tr>
   <tr>

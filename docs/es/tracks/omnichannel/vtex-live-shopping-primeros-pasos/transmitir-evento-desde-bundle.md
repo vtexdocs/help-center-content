@@ -25,7 +25,7 @@ Este proceso abarca las siguientes etapas:
 2. [Iniciar la transmisión](#iniciar-la-transmision)
 3. [Finalizar la transmisión](#finalizar-la-transmision)
 
-> ⚠️ Durante la transmisión, pueden ajustarse algunas configuraciones, mientras que otras no están disponibles:<ul><li>✅ Puedes configurar el chat.</li><li>✅ Puedes realizar cambios en las colecciones de productos.</li><li>✅ Puedes configurar recursos visuales.</li><li>✅ Puedes ajustar la configuración de audio y video  (solo estudios externos).</li><li>❌ No puedes cambiar el layout.</li></ul>
+> ⚠️ Durante la transmisión, pueden ajustarse algunas configuraciones, mientras que otras no están disponibles:<ul><li>✅ Puedes configurar el chat.</li><li>✅ Puedes realizar cambios en las colecciones de productos.</li><li>✅ Puedes configurar recursos visuales.</li><li>✅ Puedes ajustar la configuración de audio y video (solo estudios externos).</li><li>❌ No puedes cambiar el layout.</li></ul>
 
 ## Iniciar el evento
 

@@ -159,7 +159,7 @@ Esta aba pode ser acessada no painel esquerdo pelo item **Autenticação** nas c
 
 O componente **Senha** permite que o usuário crie uma senha (caso ainda não possua) ou mude a senha existente. Para criar uma nova senha:
 
-1. Clique no botão `DEFINIR SENHA`. Após clicar, aparecerão campos que irão permitir criar  senha e é enviado um email com um código para autorizar o procedimento. O endereço para o qual o email de verificação é enviado aparece no topo do componente.
+1. Clique no botão `DEFINIR SENHA`. Após clicar, aparecerão campos que irão permitir criar senha e é enviado um email com um código para autorizar o procedimento. O endereço para o qual o email de verificação é enviado aparece no topo do componente.
 2. No campo **Código**, insira o código de verificação recebido por email.
 3. No campo **Nova senha**, insira a nova senha que deseja atribuir à sua conta. Abaixo do campo aparecem os requisitos que a senha deve obedecer para ser válida. Conforme a senha é digitada, os símbolos de cada requisito se alteram de vermelho para verde. A senha será válida somente se todos os símbolos estiverem verdes.
 4. Após ter inserido uma senha válida, clique no botão `SALVAR SENHA` para concluir a criação da senha.  

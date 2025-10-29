@@ -23,7 +23,7 @@ A mensagem "__Request headers must contain only ASCII characters__" pode ser exi
 
 Este cenário ocorre se a página ou funcionalidade solicitada contém um cookie com caracteres especiais (não-ASCII).
 
-![ascii_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/opera%C3%A7%C3%B5es-da-loja/removendo-mensagem-de-erro-request-headers-must-contain-only-ascii_1.png)
+![ascii_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/operações-da-loja/removendo-mensagem-de-erro-request-headers-must-contain-only-ascii_1.png)
 
 Segundo as normas do [IETF](https://www.ietf.org/) (Internet Engineering Task Force), instituição responsável por documentar os padrões utilizados na internet, cookies não devem conter caracteres especiais (não-ASCII). Para mais informações sobre os caracteres aceitos em cookies e headers, acesse [IETF - Request for Comments 7230 - Section 3.2.6 - Field Value Components](https://datatracker.ietf.org/doc/html/rfc7230#section-3.2.6). 
 
@@ -43,19 +43,19 @@ Na página em que a mensagem "__Request headers must contain only ASCII characte
 
 2. Na barra superior da tela, acesse a aba **Rede** e ordene as requisições clicando em **Status**. A informação **400** no status indica que uma requisição não foi processada corretamente e, dentre os erros possíveis, pode haver cookies incorretos.  
 
-![ascii 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/opera%C3%A7%C3%B5es-da-loja/removendo-mensagem-de-erro-request-headers-must-contain-only-ascii_2.png)    
+![ascii 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/operações-da-loja/removendo-mensagem-de-erro-request-headers-must-contain-only-ascii_2.png)    
 
 3. Clique sobre uma requisição e depois na aba **Visualização** para identificar se o erro encontrado é referente à mensagem "**Request headers must contain only ASCII characters**".
 
-![ascii 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/opera%C3%A7%C3%B5es-da-loja/removendo-mensagem-de-erro-request-headers-must-contain-only-ascii_3.png)
+![ascii 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/operações-da-loja/removendo-mensagem-de-erro-request-headers-must-contain-only-ascii_3.png)
 
 4. Clique na aba **Cabeçalhos** e copie os dados do cookie.  
 
-![ascii 4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/opera%C3%A7%C3%B5es-da-loja/removendo-mensagem-de-erro-request-headers-must-contain-only-ascii_4.png)    
+![ascii 4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/operações-da-loja/removendo-mensagem-de-erro-request-headers-must-contain-only-ascii_4.png)    
 
 5. Acesse um [validador online de caracteres ASCII](https://pages.cs.wisc.edu/~markm/ascii.html) e insira a informação do cookie. Se um ou mais caracteres especiais forem identificados, os tipos e posições serão exibidas na parte inferior do validador de caracteres.     
 
-![ascii 5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/opera%C3%A7%C3%B5es-da-loja/removendo-mensagem-de-erro-request-headers-must-contain-only-ascii_5.png)  
+![ascii 5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/operações-da-loja/removendo-mensagem-de-erro-request-headers-must-contain-only-ascii_5.png)  
 
 6. Repita os passos 3 a 5 com todas as requisições com erro para identificar quais delas contêm cookies com caracteres especiais.      
 
