@@ -39028,9 +39028,9 @@
         },
         {
           "name": {
-            "en": "App platform",
-            "es": "App platform",
-            "pt": "App platform"
+            "en": "App Platform",
+            "es": "App Platform",
+            "pt": "App Platform"
           },
           "slug": {
             "en": "app-platform",
@@ -47659,9 +47659,9 @@
         },
         {
           "name": {
-            "en": "Cloud services",
-            "es": "Cloud services",
-            "pt": "Cloud services"
+            "en": "Cloud Services",
+            "es": "Cloud Services",
+            "pt": "Cloud Services"
           },
           "slug": {
             "en": "cloud-services",
@@ -50182,9 +50182,9 @@
         },
         {
           "name": {
-            "en": "Faststore",
-            "es": "Faststore",
-            "pt": "Faststore"
+            "en": "FastStore",
+            "es": "FastStore",
+            "pt": "FastStore"
           },
           "slug": {
             "en": "faststore",
@@ -51100,9 +51100,9 @@
         },
         {
           "name": {
-            "en": "Intelligent search",
-            "es": "Intelligent search",
-            "pt": "Intelligent search"
+            "en": "Intelligent Search",
+            "es": "Intelligent Search",
+            "pt": "Intelligent Search"
           },
           "slug": {
             "en": "intelligent-search",
@@ -52766,9 +52766,9 @@
         },
         {
           "name": {
-            "en": "Live shopping",
-            "es": "Live shopping",
-            "pt": "Live shopping"
+            "en": "Live Shopping",
+            "es": "Live Shopping",
+            "pt": "Live Shopping"
           },
           "slug": {
             "en": "live-shopping",
@@ -53548,9 +53548,9 @@
         },
         {
           "name": {
-            "en": "Marketing & merchandising",
-            "es": "Marketing & merchandising",
-            "pt": "Marketing & merchandising"
+            "en": "Marketing & Merchandising",
+            "es": "Marketing & Merchandising",
+            "pt": "Marketing & Merchandising"
           },
           "slug": {
             "en": "marketing-and-merchandising",
@@ -55845,9 +55845,9 @@
         },
         {
           "name": {
-            "en": "Master data",
-            "es": "Master data",
-            "pt": "Master data"
+            "en": "Master Data",
+            "es": "Master Data",
+            "pt": "Master Data"
           },
           "slug": {
             "en": "master-data",
@@ -56161,9 +56161,9 @@
         },
         {
           "name": {
-            "en": "Order allocation",
-            "es": "Order allocation",
-            "pt": "Order allocation"
+            "en": "Order Allocation",
+            "es": "Order Allocation",
+            "pt": "Order Allocation"
           },
           "slug": {
             "en": "order-allocation",
@@ -56252,9 +56252,9 @@
         },
         {
           "name": {
-            "en": "Order management",
-            "es": "Order management",
-            "pt": "Order management"
+            "en": "Order Management",
+            "es": "Order Management",
+            "pt": "Order Management"
           },
           "slug": {
             "en": "order-management",
@@ -58039,13 +58039,13 @@
         {
           "name": {
             "en": "Other",
-            "es": "Other",
-            "pt": "Other"
+            "es": "Otro",
+            "pt": "Outro"
           },
           "slug": {
             "en": "other",
-            "es": "other",
-            "pt": "other"
+            "es": "otro",
+            "pt": "outro"
           },
           "origin": "",
           "type": "category",
@@ -58070,13 +58070,13 @@
         {
           "name": {
             "en": "Others",
-            "es": "Others",
-            "pt": "Others"
+            "es": "Otros",
+            "pt": "Outros"
           },
           "slug": {
             "en": "others",
-            "es": "others",
-            "pt": "others"
+            "es": "otros",
+            "pt": "outros"
           },
           "origin": "",
           "type": "category",
@@ -61401,9 +61401,9 @@
         },
         {
           "name": {
-            "en": "Physical stores",
-            "es": "Physical stores",
-            "pt": "Physical stores"
+            "en": "Physical Stores",
+            "es": "Physical Stores",
+            "pt": "Physical Stores"
           },
           "slug": {
             "en": "physical-stores",
@@ -61522,9 +61522,9 @@
         },
         {
           "name": {
-            "en": "Pick AND pack",
-            "es": "Pick AND pack",
-            "pt": "Pick AND pack"
+            "en": "Pick and Pack",
+            "es": "Pick and Pack",
+            "pt": "Pick and Pack"
           },
           "slug": {
             "en": "pick-and-pack",
@@ -62499,9 +62499,9 @@
         },
         {
           "name": {
-            "en": "POST purchase",
-            "es": "POST purchase",
-            "pt": "POST purchase"
+            "en": "Post-purchase",
+            "es": "Post-purchase",
+            "pt": "Post-purchase"
           },
           "slug": {
             "en": "post-purchase",
@@ -62980,9 +62980,9 @@
         },
         {
           "name": {
-            "en": "Pricing & promotions",
-            "es": "Pricing & promotions",
-            "pt": "Pricing & promotions"
+            "en": "Pricing & Promotions",
+            "es": "Pricing & Promotions",
+            "pt": "Pricing & Promotions"
           },
           "slug": {
             "en": "pricing-and-promotions",
@@ -64889,9 +64889,9 @@
         },
         {
           "name": {
-            "en": "Store framework",
-            "es": "Store framework",
-            "pt": "Store framework"
+            "en": "Store Framework",
+            "es": "Store Framework",
+            "pt": "Store Framework"
           },
           "slug": {
             "en": "store-framework",
@@ -66570,9 +66570,9 @@
         },
         {
           "name": {
-            "en": "VTEX log",
-            "es": "VTEX log",
-            "pt": "VTEX log"
+            "en": "VTEX Log",
+            "es": "VTEX Log",
+            "pt": "VTEX Log"
           },
           "slug": {
             "en": "vtex-log",
@@ -66601,9 +66601,9 @@
         },
         {
           "name": {
-            "en": "VTEX shipping network (vtex log)",
-            "es": "VTEX shipping network (vtex log)",
-            "pt": "VTEX shipping network (vtex log)"
+            "en": "VTEX Shipping Network (VTEX Log)",
+            "es": "VTEX Shipping Network (VTEX Log)",
+            "pt": "VTEX Shipping Network (VTEX Log)"
           },
           "slug": {
             "en": "vtex-shipping-network-vtex-log",
