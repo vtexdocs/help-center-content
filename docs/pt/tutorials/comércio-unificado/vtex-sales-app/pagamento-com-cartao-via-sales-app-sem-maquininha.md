@@ -19,6 +19,8 @@ A funcionalidade **Pagamento com cartão via Sales App** permite que a loja real
 
 Com essa funcionalidade, a compra é processada pelo mesmo gateway do ecommerce, de forma que as configurações de Checkout do ecommerce são válidas. Após a venda, a confirmação de pagamento ocorre pelo próprio **VTEX Sales App**.
 
+> ⚠️ Esta funcionalidade está temporariamente indisponível para adesão de novos clientes. Apenas clientes que já utilizam ativamente a solução **Pagamento com cartão via Sales App** poderão continuar usando a funcionalidade. Se você já é um cliente ativo, esta documentação continuará disponível para apoiar o uso da funcionalidade.
+
 Este artigo apresenta a solução **Pagamento com cartão via Sales App** e está organizado nas seguintes seções:
 
 - [Características](#caracteristicas)
@@ -63,6 +65,8 @@ Caso a loja tenha uma [política comercial](/pt/tutorial/como-funciona-uma-polit
 ## Configurações
 
 As configurações necessárias para ativar a funcionalidade são diferentes para lojas que já utilizam o **VTEX Sales App** ou que vão começar a usar a solução.
+
+> ⚠️ Esta funcionalidade está temporariamente indisponível para adesão de novos clientes. Apenas clientes que já utilizam ativamente a solução **Pagamento com cartão via Sales App** poderão continuar usando a funcionalidade. Se você já é um cliente ativo, esta documentação continuará disponível para apoiar o uso da funcionalidade.
 
 > ⚠️ Antes de ativar a funcionalidade, certifique-se que a loja tenha uma integração com um parceiro de pagamentos e seja capaz de processar vendas com cartão de crédito.
 
