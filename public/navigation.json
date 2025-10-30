@@ -18586,6 +18586,97 @@
             },
             {
               "name": {
+                "en": "Bundle",
+                "es": "Kit",
+                "pt": "Kit"
+              },
+              "slug": {
+                "en": "bundle",
+                "es": "kit",
+                "pt": "kit"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Bundle registration",
+                    "es": "Registrar kit",
+                    "pt": "Cadastrar kit"
+                  },
+                  "slug": {
+                    "en": "bundle-registration",
+                    "es": "registrar-kit",
+                    "pt": "cadastrar-kit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Defining the order of outfit products",
+                    "es": "Ordenar los productos del kit de look",
+                    "pt": "Ordenar os produtos do kit look"
+                  },
+                  "slug": {
+                    "en": "how-to-define-the-order-of-outfit-products",
+                    "es": "como-ordenar-los-productos-del-kit-de-look",
+                    "pt": "como-ordenar-os-produtos-do-kit-look"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to assemble an Outfit",
+                    "es": "Montar un Kit de look",
+                    "pt": "Montar um Kit look"
+                  },
+                  "slug": {
+                    "en": "how-to-assemble-an-outfit",
+                    "es": "como-montar-un-kit-de-look",
+                    "pt": "como-montar-um-kit-look"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Managing the bundle stock",
+                    "es": "Gestionar el inventario del kit",
+                    "pt": "Gerenciar estoque do kit"
+                  },
+                  "slug": {
+                    "en": "how-to-manage-the-bundle-stock",
+                    "es": "como-gestionar-el-inventario-del-kit",
+                    "pt": "como-gerenciar-estoque-do-kit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "What is a bundle?",
+                    "es": "Qué es un kit?",
+                    "pt": "O que é um kit?"
+                  },
+                  "slug": {
+                    "en": "what-is-a-bundle",
+                    "es": "que-es-un-kit",
+                    "pt": "o-que-e-um-kit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Catalog: Overview",
                 "es": "Catálogo: Visión General",
                 "pt": "Catálogo: Visão Geral"
@@ -19139,97 +19230,6 @@
                     "en": "what-is-a-list",
                     "es": "que-es-una-lista",
                     "pt": "o-que-e-uma-lista"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Kit",
-                "es": "Kit",
-                "pt": "Kit"
-              },
-              "slug": {
-                "en": "kit",
-                "es": "kit",
-                "pt": "kit"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Bundle registration",
-                    "es": "Registrar kit",
-                    "pt": "Cadastrar kit"
-                  },
-                  "slug": {
-                    "en": "bundle-registration",
-                    "es": "registrar-kit",
-                    "pt": "cadastrar-kit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Defining the order of outfit products",
-                    "es": "Ordenar los productos del kit de look",
-                    "pt": "Ordenar os produtos do kit look"
-                  },
-                  "slug": {
-                    "en": "how-to-define-the-order-of-outfit-products",
-                    "es": "como-ordenar-los-productos-del-kit-de-look",
-                    "pt": "como-ordenar-os-produtos-do-kit-look"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to assemble an Outfit",
-                    "es": "Montar un Kit de look",
-                    "pt": "Montar um Kit look"
-                  },
-                  "slug": {
-                    "en": "how-to-assemble-an-outfit",
-                    "es": "como-montar-un-kit-de-look",
-                    "pt": "como-montar-um-kit-look"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing the bundle stock",
-                    "es": "Gestionar el inventario del kit",
-                    "pt": "Gerenciar estoque do kit"
-                  },
-                  "slug": {
-                    "en": "how-to-manage-the-bundle-stock",
-                    "es": "como-gestionar-el-inventario-del-kit",
-                    "pt": "como-gerenciar-estoque-do-kit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a bundle?",
-                    "es": "Qué es un kit?",
-                    "pt": "O que é um kit?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-bundle",
-                    "es": "que-es-un-kit",
-                    "pt": "o-que-e-um-kit"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -21037,128 +21037,7 @@
           "children": [
             {
               "name": {
-                "en": "User account",
-                "es": "Cuenta de usuario",
-                "pt": "Conta do usuário"
-              },
-              "slug": {
-                "en": "user-account",
-                "es": "cuenta-de-usuario",
-                "pt": "conta-do-usuario"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Access the financial area",
-                    "es": "Acceder al área financiera",
-                    "pt": "Acessar a área financeira"
-                  },
-                  "slug": {
-                    "en": "access-the-financial-area-indeva",
-                    "es": "acceder-al-area-financiera-indeva",
-                    "pt": "acessar-a-area-financeira-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Add a store",
-                    "es": "Agregar una tienda",
-                    "pt": "Adicionar uma loja"
-                  },
-                  "slug": {
-                    "en": "add-a-store-indeva",
-                    "es": "agregar-una-tienda-indeva",
-                    "pt": "adicionar-uma-loja-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Cancel a subscription",
-                    "es": "Cancelar una suscripción",
-                    "pt": "Cancelar uma assinatura"
-                  },
-                  "slug": {
-                    "en": "cancel-a-subscription-indeva",
-                    "es": "cancelar-una-suscripcion-indeva",
-                    "pt": "cancelar-uma-assinatura-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Create or reset password to access the Indeva platform",
-                    "es": "Crear o restablecer la contraseña para acceder a la plataforma Indeva",
-                    "pt": "Cadastrar ou redefinir senha para acesso à plataforma Indeva"
-                  },
-                  "slug": {
-                    "en": "create-or-reset-password-to-access-the-indeva-platform",
-                    "es": "crear-o-restablecer-la-contrasena-para-acceder-a-la-plataforma-indeva",
-                    "pt": "cadastrar-ou-redefinir-senha-para-acesso-a-plataforma-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Navigate the financial area",
-                    "es": "Navegar en el área financiera",
-                    "pt": "Navegar na área financeira"
-                  },
-                  "slug": {
-                    "en": "navigate-the-financial-area-indeva",
-                    "es": "navegar-en-el-area-financiera-indeva",
-                    "pt": "navegar-na-area-financeira-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Requests panel",
-                    "es": "Panel de solicitudes",
-                    "pt": "Painel de solicitações"
-                  },
-                  "slug": {
-                    "en": "requests-panel-indeva",
-                    "es": "panel-de-solicitudes-indeva",
-                    "pt": "painel-de-solicitacoes-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Update profile information in the Indeva platform",
-                    "es": "Actualizar la información de perfil en la plataforma Indeva",
-                    "pt": "Atualizar informações de perfil na plataforma Indeva"
-                  },
-                  "slug": {
-                    "en": "update-profile-information-in-platform-indeva",
-                    "es": "actualizar-informacion-de-perfil-en-la-plataforma-indeva",
-                    "pt": "atualizar-informacoes-de-perfil-na-plataforma-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Devices AND apps",
+                "en": "Devices and apps",
                 "es": "Dispositivos y aplicaciones",
                 "pt": "Dispositivos e aplicativos"
               },
@@ -21388,7 +21267,7 @@
               "name": {
                 "en": "Goals registration",
                 "es": "Registro de metas",
-                "pt": "Cadastro de metas"
+                "pt": "Cadastro de Metas"
               },
               "slug": {
                 "en": "goals-registration",
@@ -21552,9 +21431,9 @@
             },
             {
               "name": {
-                "en": "Indeva finance",
-                "es": "Finanzas de indeva",
-                "pt": "Financeiro indeva"
+                "en": "Indeva Finance",
+                "es": "Finanzas de Indeva",
+                "pt": "Financeiro Indeva"
               },
               "slug": {
                 "en": "indeva-finance",
@@ -21584,8 +21463,8 @@
             {
               "name": {
                 "en": "Indeva forms",
-                "es": "Formularios de indeva",
-                "pt": "Formulários indeva"
+                "es": "Formularios de Indeva",
+                "pt": "Formulários Indeva"
               },
               "slug": {
                 "en": "indeva-forms",
@@ -21659,9 +21538,9 @@
             },
             {
               "name": {
-                "en": "Indeva queue list",
-                "es": "Lista de turno de indeva",
-                "pt": "Lista da vez indeva"
+                "en": "Indeva Queue List",
+                "es": "Lista de Turno de Indeva",
+                "pt": "Lista da vez Indeva"
               },
               "slug": {
                 "en": "indeva-queue-list",
@@ -21721,8 +21600,8 @@
             {
               "name": {
                 "en": "Indeva support",
-                "es": "Soporte de indeva",
-                "pt": "Suporte indeva"
+                "es": "Soporte de Indeva",
+                "pt": "Suporte Indeva"
               },
               "slug": {
                 "en": "indeva-support",
@@ -21767,8 +21646,8 @@
             {
               "name": {
                 "en": "Indeva training",
-                "es": "Capacitación de indeva",
-                "pt": "Treinamento indeva"
+                "es": "Capacitación de Indeva",
+                "pt": "Treinamento Indeva"
               },
               "slug": {
                 "en": "indeva-training",
@@ -21798,8 +21677,8 @@
             {
               "name": {
                 "en": "Indeva usability",
-                "es": "Usabilidad de indeva",
-                "pt": "Usabilidade indeva"
+                "es": "Usabilidad de Indeva",
+                "pt": "Usabilidade Indeva"
               },
               "slug": {
                 "en": "indeva-usability",
@@ -21904,9 +21783,9 @@
             },
             {
               "name": {
-                "en": "Overview indeva",
-                "es": "Visión general indeva",
-                "pt": "Visão geral indeva"
+                "en": "Overview Indeva",
+                "es": "Visión general Indeva",
+                "pt": "Visão Geral Indeva"
               },
               "slug": {
                 "en": "overview-indeva",
@@ -21935,7 +21814,7 @@
             },
             {
               "name": {
-                "en": "Rankings AND campaigns",
+                "en": "Rankings and campaigns",
                 "es": "Rankings y campañas",
                 "pt": "Rankings e campanhas"
               },
@@ -22172,128 +22051,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Sales update with pdv",
-                "es": "Actualización de ventas con pdv",
-                "pt": "Atualização de vendas com pdv"
-              },
-              "slug": {
-                "en": "sales-update-with-pdv",
-                "es": "actualizacion-de-ventas-con-pdv",
-                "pt": "atualizacao-de-vendas-com-pdv"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "ERP",
-                    "es": "ERP",
-                    "pt": "ERP"
-                  },
-                  "slug": {
-                    "en": "erp",
-                    "es": "erp",
-                    "pt": "erp"
-                  },
-                  "origin": "",
-                  "type": "category",
-                  "children": [
-                    {
-                      "name": {
-                        "en": "Fix “Connection refused on IP or port” error in Indeva Integrator",
-                        "es": "Corregir error “Conexión rechazada en IP o puerto” en el Integrador Indeva",
-                        "pt": "Corrigir erro “Conexão recusada no IP ou porta” no Integrador Indeva"
-                      },
-                      "slug": {
-                        "en": "fix-connection-refused-error-ip-or-port-integrator-indeva",
-                        "es": "corregir-error-conexion-rechazada-en-ip-o-puerto-integrador-indeva",
-                        "pt": "corrigir-erro-conexao-recusada-no-ip-ou-porta-integrador-indeva"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Fix integration issues between Indeva and sales systems",
-                        "es": "Corregir fallas en la integración de Indeva con sistemas de ventas",
-                        "pt": "Corrigir falhas na integração do Indeva com sistemas de vendas"
-                      },
-                      "slug": {
-                        "en": "fix-integration-failures-with-sales-systems-indeva",
-                        "es": "corregir-fallas-en-la-integracion-con-sistemas-de-ventas-indeva",
-                        "pt": "corrigir-falhas-na-integracao-com-sistemas-de-vendas-indeva"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Fix sales not assigned to sellers in Indeva",
-                        "es": "Corregir ventas no asignadas a vendedores en Indeva",
-                        "pt": "Corrigir vendas não atribuídas a vendedores no Indeva"
-                      },
-                      "slug": {
-                        "en": "fix-unassigned-sales-to-sellers-indeva",
-                        "es": "corregir-ventas-no-asignadas-a-vendedores-indeva",
-                        "pt": "corrigir-vendas-nao-atribuidas-a-vendedores-indeva"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Manual sales update",
-                        "es": "Actualización manual de ventas",
-                        "pt": "Atualização manual de vendas"
-                      },
-                      "slug": {
-                        "en": "manual-sales-update-indeva",
-                        "es": "actualizacion-manual-de-ventas-indeva",
-                        "pt": "atualizacao-manual-de-vendas-indeva"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Open and check Indeva Integrator",
-                        "es": "Abrir y verificar el Integrador Indeva",
-                        "pt": "Abrir e verificar o Integrador Indeva"
-                      },
-                      "slug": {
-                        "en": "open-and-check-integrator-indeva",
-                        "es": "abrir-y-verificar-el-integrador-indeva",
-                        "pt": "abrir-e-verificar-o-integrador-indeva"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "Real-time sales",
-                        "es": "Ventas en tiempo real",
-                        "pt": "Vendas em Tempo Real"
-                      },
-                      "slug": {
-                        "en": "real-time-sales-indeva",
-                        "es": "ventas-en-tiempo-real-indeva",
-                        "pt": "vendas-em-tempo-real-indeva"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    }
-                  ]
                 }
               ]
             },
@@ -22543,7 +22300,7 @@
             },
             {
               "name": {
-                "en": "Tablet AND current queue list",
+                "en": "Tablet and current queue list",
                 "es": "Tableta y lista del turno actual",
                 "pt": "Tablet e lista da vez"
               },
@@ -22704,6 +22461,249 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "User account",
+                "es": "Cuenta de usuario",
+                "pt": "Conta do usuário"
+              },
+              "slug": {
+                "en": "user-account",
+                "es": "cuenta-de-usuario",
+                "pt": "conta-do-usuario"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Access the financial area",
+                    "es": "Acceder al área financiera",
+                    "pt": "Acessar a área financeira"
+                  },
+                  "slug": {
+                    "en": "access-the-financial-area-indeva",
+                    "es": "acceder-al-area-financiera-indeva",
+                    "pt": "acessar-a-area-financeira-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Add a store",
+                    "es": "Agregar una tienda",
+                    "pt": "Adicionar uma loja"
+                  },
+                  "slug": {
+                    "en": "add-a-store-indeva",
+                    "es": "agregar-una-tienda-indeva",
+                    "pt": "adicionar-uma-loja-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Cancel a subscription",
+                    "es": "Cancelar una suscripción",
+                    "pt": "Cancelar uma assinatura"
+                  },
+                  "slug": {
+                    "en": "cancel-a-subscription-indeva",
+                    "es": "cancelar-una-suscripcion-indeva",
+                    "pt": "cancelar-uma-assinatura-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Create or reset password to access the Indeva platform",
+                    "es": "Crear o restablecer la contraseña para acceder a la plataforma Indeva",
+                    "pt": "Cadastrar ou redefinir senha para acesso à plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "create-or-reset-password-to-access-the-indeva-platform",
+                    "es": "crear-o-restablecer-la-contrasena-para-acceder-a-la-plataforma-indeva",
+                    "pt": "cadastrar-ou-redefinir-senha-para-acesso-a-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Navigate the financial area",
+                    "es": "Navegar en el área financiera",
+                    "pt": "Navegar na área financeira"
+                  },
+                  "slug": {
+                    "en": "navigate-the-financial-area-indeva",
+                    "es": "navegar-en-el-area-financiera-indeva",
+                    "pt": "navegar-na-area-financeira-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Requests panel",
+                    "es": "Panel de solicitudes",
+                    "pt": "Painel de solicitações"
+                  },
+                  "slug": {
+                    "en": "requests-panel-indeva",
+                    "es": "panel-de-solicitudes-indeva",
+                    "pt": "painel-de-solicitacoes-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Update profile information in the Indeva platform",
+                    "es": "Actualizar la información de perfil en la plataforma Indeva",
+                    "pt": "Atualizar informações de perfil na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "update-profile-information-in-platform-indeva",
+                    "es": "actualizar-informacion-de-perfil-en-la-plataforma-indeva",
+                    "pt": "atualizar-informacoes-de-perfil-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Sales update with pdv",
+                "es": "Actualización de ventas con pdv",
+                "pt": "Atualização de vendas com pdv"
+              },
+              "slug": {
+                "en": "sales-update-with-pdv",
+                "es": "actualizacion-de-ventas-con-pdv",
+                "pt": "atualizacao-de-vendas-com-pdv"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Sales update with PDV/ERP",
+                    "es": "Actualización de ventas con PDV/ERP",
+                    "pt": "Atualização de vendas com PDV/ERP"
+                  },
+                  "slug": {
+                    "en": "sales-update-with-pdverp",
+                    "es": "actualizacion-de-ventas-con-pdverp",
+                    "pt": "atualizacao-de-vendas-com-pdverp"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Fix “Connection refused on IP or port” error in Indeva Integrator",
+                        "es": "Corregir error “Conexión rechazada en IP o puerto” en el Integrador Indeva",
+                        "pt": "Corrigir erro “Conexão recusada no IP ou porta” no Integrador Indeva"
+                      },
+                      "slug": {
+                        "en": "fix-connection-refused-error-ip-or-port-integrator-indeva",
+                        "es": "corregir-error-conexion-rechazada-en-ip-o-puerto-integrador-indeva",
+                        "pt": "corrigir-erro-conexao-recusada-no-ip-ou-porta-integrador-indeva"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Fix integration issues between Indeva and sales systems",
+                        "es": "Corregir fallas en la integración de Indeva con sistemas de ventas",
+                        "pt": "Corrigir falhas na integração do Indeva com sistemas de vendas"
+                      },
+                      "slug": {
+                        "en": "fix-integration-failures-with-sales-systems-indeva",
+                        "es": "corregir-fallas-en-la-integracion-con-sistemas-de-ventas-indeva",
+                        "pt": "corrigir-falhas-na-integracao-com-sistemas-de-vendas-indeva"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Fix sales not assigned to sellers in Indeva",
+                        "es": "Corregir ventas no asignadas a vendedores en Indeva",
+                        "pt": "Corrigir vendas não atribuídas a vendedores no Indeva"
+                      },
+                      "slug": {
+                        "en": "fix-unassigned-sales-to-sellers-indeva",
+                        "es": "corregir-ventas-no-asignadas-a-vendedores-indeva",
+                        "pt": "corrigir-vendas-nao-atribuidas-a-vendedores-indeva"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Manual sales update",
+                        "es": "Actualización manual de ventas",
+                        "pt": "Atualização manual de vendas"
+                      },
+                      "slug": {
+                        "en": "manual-sales-update-indeva",
+                        "es": "actualizacion-manual-de-ventas-indeva",
+                        "pt": "atualizacao-manual-de-vendas-indeva"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Open and check Indeva Integrator",
+                        "es": "Abrir y verificar el Integrador Indeva",
+                        "pt": "Abrir e verificar o Integrador Indeva"
+                      },
+                      "slug": {
+                        "en": "open-and-check-integrator-indeva",
+                        "es": "abrir-y-verificar-el-integrador-indeva",
+                        "pt": "abrir-e-verificar-o-integrador-indeva"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Real-time sales",
+                        "es": "Ventas en tiempo real",
+                        "pt": "Vendas em Tempo Real"
+                      },
+                      "slug": {
+                        "en": "real-time-sales-indeva",
+                        "es": "ventas-en-tiempo-real-indeva",
+                        "pt": "vendas-em-tempo-real-indeva"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
                 }
               ]
             }
@@ -26747,6 +26747,130 @@
                     "en": "telesales-toolbar",
                     "es": "barra-de-herramientas-de-televentas",
                     "pt": "toolbar-de-televendas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Other",
+            "es": "Otros",
+            "pt": "Outros"
+          },
+          "slug": {
+            "en": "other",
+            "es": "otros",
+            "pt": "outros"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Foresight Commerce Academy",
+                "es": "Foresight Commerce Academy",
+                "pt": "Foresight Commerce Academy"
+              },
+              "slug": {
+                "en": "foresight-commerce-academy",
+                "es": "foresight-commerce-academy",
+                "pt": "foresight-commerce-academy"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Foresight Commerce Academy - Overview",
+                    "es": "Foresight Commerce Academy - Visión Geral",
+                    "pt": "Foresight Commerce Academy - Visão Geral"
+                  },
+                  "slug": {
+                    "en": "foresight-commerce-academy-overview",
+                    "es": "foresight-commerce-academy-vision-geral",
+                    "pt": "foresight-commerce-academy-visao-geral"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Scheduling features",
+                "es": "Programación de funcionalidades",
+                "pt": "Agendamento"
+              },
+              "slug": {
+                "en": "scheduling-features",
+                "es": "programacion-de-funcionalidades",
+                "pt": "agendamento"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Scheduling features for special events",
+                    "es": "Programación de funcionalidades para eventos especiales",
+                    "pt": "Agendamento para eventos especiais"
+                  },
+                  "slug": {
+                    "en": "scheduling-features-for-special-events",
+                    "es": "programacion-de-funcionalidades-para-eventos-especiales",
+                    "pt": "agendamento-para-eventos-especiais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Uncategorized",
+                "es": "No categorizado",
+                "pt": "Não categorizado"
+              },
+              "slug": {
+                "en": "uncategorized",
+                "es": "no-categorizado",
+                "pt": "nao-categorizado"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Partner Program - Intranet and VTEX Store Manual",
+                    "es": "Programa Partner - Manual de Intranet y VTEX Store",
+                    "pt": "Programa Partner - Manual da Intranet e VTEX Store"
+                  },
+                  "slug": {
+                    "en": "partner-program-intranet-and-vtex-store-manual",
+                    "es": "programa-partner-manual-de-intranet-y-vtex-store",
+                    "pt": "programa-partner-manual-da-intranet-e-vtex-store"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "VTEX Network",
+                    "es": "VTEX Network",
+                    "pt": "VTEX Network"
+                  },
+                  "slug": {
+                    "en": "connecting-to-retailers-and-marketplaces-using-vtex-network",
+                    "es": "conectandose-a-comerciantes-y-marketplaces-por-el-vtex-network",
+                    "pt": "vtex-network"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -31226,28 +31350,73 @@
           "children": [
             {
               "name": {
-                "en": "Rates & Benefits overview",
-                "es": "Visión de conjunto de Tasas y Promociones",
-                "pt": "Visão geral de Taxas & Promoções"
+                "en": "Campaign Audiences",
+                "es": "Audiencia de las Campañas",
+                "pt": "Audiência de campanhas"
               },
               "slug": {
-                "en": "rates-and-benefits-overview",
-                "es": "vision-de-conjunto-de-tasas-y-promociones",
-                "pt": "visao-geral-de-taxas-and-promocoes"
+                "en": "campaign-audiences-category",
+                "es": "audiencia-de-las-campanas",
+                "pt": "audiencia-de-campanhas"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "en": "Overview:  Campaign Audiences, promotions, taxes and coupons",
-                    "es": "Visión general: Audiencia de Campañas, promociones, impuestos y cupones",
-                    "pt": "Visão geral: Audiência de campanhas, promoções, taxas e cupons"
+                    "en": "Campaign audiences",
+                    "es": "​​Audiencias de campañas",
+                    "pt": "Audiências de campanhas"
                   },
                   "slug": {
-                    "en": "overview-pricing-module",
-                    "es": "pantalla-inicial-del-modulo-de-pricing-promociones",
-                    "pt": "overview-2"
+                    "en": "campaign-audiences",
+                    "es": "audiencias-de-campanas",
+                    "pt": "audiencias-de-campanhas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Campaign audiences list",
+                    "es": "Lista de audiencias de campañas",
+                    "pt": "Lista de Audiências de campanhas"
+                  },
+                  "slug": {
+                    "en": "campaign-audiences-list",
+                    "es": "lista-de-audiencias-de-campanas",
+                    "pt": "lista-de-audiencias-de-campanhas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Creating a campaign audience",
+                    "es": "Crear audiencias de campaña",
+                    "pt": "Criar Audiência de campanha"
+                  },
+                  "slug": {
+                    "en": "creating-a-campaign-audience",
+                    "es": "crear-audiencias-de-campana",
+                    "pt": "criar-audiencia-de-campanha"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Creating a campaign promotion",
+                    "es": "Crear una promoción de campaña",
+                    "pt": "Criar promoção de campanha"
+                  },
+                  "slug": {
+                    "en": "campaign-promotion",
+                    "es": "promocion-de-campana",
+                    "pt": "promocao-de-campanha"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -31874,73 +32043,28 @@
             },
             {
               "name": {
-                "en": "Campaign Audiences",
-                "es": "Audiencia de las Campañas",
-                "pt": "Audiência de campanhas"
+                "en": "Rates & Benefits overview",
+                "es": "Visión de conjunto de Tasas y Promociones",
+                "pt": "Visão geral de Taxas & Promoções"
               },
               "slug": {
-                "en": "campaign-audiences-category",
-                "es": "audiencia-de-las-campanas",
-                "pt": "audiencia-de-campanhas"
+                "en": "rates-and-benefits-overview",
+                "es": "vision-de-conjunto-de-tasas-y-promociones",
+                "pt": "visao-geral-de-taxas-and-promocoes"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "en": "Campaign audiences",
-                    "es": "​​Audiencias de campañas",
-                    "pt": "Audiências de campanhas"
+                    "en": "Overview:  Campaign Audiences, promotions, taxes and coupons",
+                    "es": "Visión general: Audiencia de Campañas, promociones, impuestos y cupones",
+                    "pt": "Visão geral: Audiência de campanhas, promoções, taxas e cupons"
                   },
                   "slug": {
-                    "en": "campaign-audiences",
-                    "es": "audiencias-de-campanas",
-                    "pt": "audiencias-de-campanhas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Campaign audiences list",
-                    "es": "Lista de audiencias de campañas",
-                    "pt": "Lista de Audiências de campanhas"
-                  },
-                  "slug": {
-                    "en": "campaign-audiences-list",
-                    "es": "lista-de-audiencias-de-campanas",
-                    "pt": "lista-de-audiencias-de-campanhas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a campaign audience",
-                    "es": "Crear audiencias de campaña",
-                    "pt": "Criar Audiência de campanha"
-                  },
-                  "slug": {
-                    "en": "creating-a-campaign-audience",
-                    "es": "crear-audiencias-de-campana",
-                    "pt": "criar-audiencia-de-campanha"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a campaign promotion",
-                    "es": "Crear una promoción de campaña",
-                    "pt": "Criar promoção de campanha"
-                  },
-                  "slug": {
-                    "en": "campaign-promotion",
-                    "es": "promocion-de-campana",
-                    "pt": "promocao-de-campanha"
+                    "en": "overview-pricing-module",
+                    "es": "pantalla-inicial-del-modulo-de-pricing-promociones",
+                    "pt": "overview-2"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -37184,9 +37308,9 @@
             },
             {
               "name": {
-                "en": "Code action",
-                "es": "Code action",
-                "pt": "Code action"
+                "en": "Code Action",
+                "es": "Code Action",
+                "pt": "Code Action"
               },
               "slug": {
                 "en": "code-action",
@@ -38329,9 +38453,9 @@
             },
             {
               "name": {
-                "en": "Weni agentic ai",
-                "es": "Weni agentic ai",
-                "pt": "Weni agentic ai"
+                "en": "Weni Agentic AI",
+                "es": "Weni Agentic AI",
+                "pt": "Weni Agentic AI"
               },
               "slug": {
                 "en": "weni-agentic-ai",
@@ -38406,8 +38530,8 @@
             {
               "name": {
                 "en": "Weni by VTEX overview",
-                "es": "Visión de conjunto de weni by VTEX",
-                "pt": "Visão geral weni by VTEX"
+                "es": "Visión de conjunto de Weni by VTEX",
+                "pt": "Visão geral Weni by VTEX"
               },
               "slug": {
                 "en": "weni-by-vtex-overview",
@@ -38556,9 +38680,9 @@
             },
             {
               "name": {
-                "en": "Weni settings",
-                "es": "Configuraciones weni",
-                "pt": "Configurações weni"
+                "en": "Weni Settings",
+                "es": "Configuraciones Weni",
+                "pt": "Configurações Weni"
               },
               "slug": {
                 "en": "weni-settings",
@@ -38608,130 +38732,6 @@
                     "en": "weni-chats-setting-up-human-attendance",
                     "es": "weni-chats-configurando-el-atencion-humana",
                     "pt": "weni-chats-configurando-o-atendimento-humano"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Other",
-            "es": "Otros",
-            "pt": "Outros"
-          },
-          "slug": {
-            "en": "other",
-            "es": "otros",
-            "pt": "outros"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Foresight Commerce Academy",
-                "es": "Foresight Commerce Academy",
-                "pt": "Foresight Commerce Academy"
-              },
-              "slug": {
-                "en": "foresight-commerce-academy",
-                "es": "foresight-commerce-academy",
-                "pt": "foresight-commerce-academy"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Foresight Commerce Academy - Overview",
-                    "es": "Foresight Commerce Academy - Visión Geral",
-                    "pt": "Foresight Commerce Academy - Visão Geral"
-                  },
-                  "slug": {
-                    "en": "foresight-commerce-academy-overview",
-                    "es": "foresight-commerce-academy-vision-geral",
-                    "pt": "foresight-commerce-academy-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Scheduling features",
-                "es": "Programación de funcionalidades",
-                "pt": "Agendamento"
-              },
-              "slug": {
-                "en": "scheduling-features",
-                "es": "programacion-de-funcionalidades",
-                "pt": "agendamento"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Scheduling features for special events",
-                    "es": "Programación de funcionalidades para eventos especiales",
-                    "pt": "Agendamento para eventos especiais"
-                  },
-                  "slug": {
-                    "en": "scheduling-features-for-special-events",
-                    "es": "programacion-de-funcionalidades-para-eventos-especiales",
-                    "pt": "agendamento-para-eventos-especiais"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Uncategorized",
-                "es": "No categorizado",
-                "pt": "Não categorizado"
-              },
-              "slug": {
-                "en": "uncategorized",
-                "es": "no-categorizado",
-                "pt": "nao-categorizado"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Partner Program - Intranet and VTEX Store Manual",
-                    "es": "Programa Partner - Manual de Intranet y VTEX Store",
-                    "pt": "Programa Partner - Manual da Intranet e VTEX Store"
-                  },
-                  "slug": {
-                    "en": "partner-program-intranet-and-vtex-store-manual",
-                    "es": "programa-partner-manual-de-intranet-y-vtex-store",
-                    "pt": "programa-partner-manual-da-intranet-e-vtex-store"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Network",
-                    "es": "VTEX Network",
-                    "pt": "VTEX Network"
-                  },
-                  "slug": {
-                    "en": "connecting-to-retailers-and-marketplaces-using-vtex-network",
-                    "es": "conectandose-a-comerciantes-y-marketplaces-por-el-vtex-network",
-                    "pt": "vtex-network"
                   },
                   "origin": "",
                   "type": "markdown",
