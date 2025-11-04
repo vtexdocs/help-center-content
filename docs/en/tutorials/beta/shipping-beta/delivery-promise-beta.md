@@ -79,5 +79,5 @@ To join the current phase of **Delivery Promise (Beta)**, you must meet the foll
 * [Delivery Promise: FAQ](/en/tutorial/delivery-promise-faq--2frHHK5uPsQrLK5XbYHALN)
 * [Setting up Delivery Promise components (Beta)](https://developers.vtex.com/docs/guides/setting-up-delivery-promise-components)
 * [Delivery promise for headless stores (Beta)](https://developers.vtex.com/docs/guides/delivery-promise-for-headless-stores)
-* [Delivery Promise](https://developers.vtex.com/docs/guides/faststore/features-delivery-promise)
+* [Delivery Promise for FastStore](https://developers.vtex.com/docs/guides/faststore/features-delivery-promise)
 
