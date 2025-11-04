@@ -72,7 +72,7 @@ Para el correcto funcionamiento de **Delivery Promise (Beta)**, es necesario que
 Para participar en la fase beta actual de **Delivery Promise (Beta)**, deben cumplirse las siguientes condiciones:
 
 * <i class="far fa-check-circle"></i> **Requisito:** usar [Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG).
-* <i class="far fa-check-circle"></i> **Requisito:** tener la implementación del frontend de [Store Framework](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework).
+* <i class="far fa-check-circle"></i> **Requisito:** tener implementación de frontend con [Store Framework](/es/docs/tracks/frontend-implementation#store-framework), [FastStore](/es/docs/tracks/frontend-implementation#faststore) o headless.
 
 ## Conoce más
 

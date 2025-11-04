@@ -72,7 +72,7 @@ For [omnichannel](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9
 To join the current phase of **Delivery Promise (Beta)**, you must meet the following conditions:
 
 * <i class="far fa-check-circle"></i> **Requirement:** Use [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG).
-* <i class="far fa-check-circle"></i> **Requirement:** Have implemented the [Store Framework](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework) frontend.
+* <i class="far fa-check-circle"></i> **Requirement:** Have a frontend implementation with [Store Framework](/en/docs/tracks/frontend-implementation#store-framework), [FastStore](/en/docs/tracks/frontend-implementation#faststore) or headless.
 
 ### Learn more
 
