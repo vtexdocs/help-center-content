@@ -81,17 +81,19 @@ function processMarkdownFileLegacySlug(filePath) {
         const relativePath = path.relative('docs', filePath);
         const parts = relativePath.split(path.sep);
         const locale = parts[0];
-        let localizedSlug = path.basename(filePath, '.md');
+        const originalSlug = path.basename(filePath, '.md');
+        let localizedSlug = originalSlug;
         const legacySlug = data.legacySlug;
         let contentType = parts[1];
         let contentTypeNew = contentType;
 
-        // For announcements, strip the date prefix from the slug for comparison
+        // For announcements, strip the date prefix from the slug for comparison only
+        let slugForComparison = localizedSlug;
         if (contentType === 'announcements') {
             // Remove date prefix (yyyy-mm-dd-) from the beginning of the slug
             const datePattern = /^\d{4}-\d{2}-\d{2}-/;
             if (datePattern.test(localizedSlug)) {
-                localizedSlug = localizedSlug.replace(datePattern, '');
+                slugForComparison = localizedSlug.replace(datePattern, '');
             }
         }
 
@@ -109,11 +111,16 @@ function processMarkdownFileLegacySlug(filePath) {
 
         // Only add legacySlug redirects if the legacy slug is different from the current slug
         // and the legacySlug is not undefined or the string "undefined"
-        if (legacySlug && legacySlug !== 'undefined' && legacySlug !== localizedSlug) {
-            if (contentType === 'troubleshooting') {
-                addRedirect(`/tutorials/${legacySlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`, legacySlugRedirectsSet, legacySlugRedirectsArray);
-            } else {
-                addRedirect(`/${contentType}/${legacySlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`, legacySlugRedirectsSet, legacySlugRedirectsArray);
+        if (legacySlug && legacySlug !== 'undefined' && legacySlug !== slugForComparison) {
+            // Split comma-separated legacy slugs and create a redirect for each
+            const legacySlugs = legacySlug.split(',').map(slug => slug.trim()).filter(slug => slug && slug !== slugForComparison);
+            
+            for (const slug of legacySlugs) {
+                if (contentType === 'troubleshooting') {
+                    addRedirect(`/tutorials/${slug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`, legacySlugRedirectsSet, legacySlugRedirectsArray);
+                } else {
+                    addRedirect(`/${contentType}/${slug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`, legacySlugRedirectsSet, legacySlugRedirectsArray);
+                }
             }
         }
     } catch (error) {
