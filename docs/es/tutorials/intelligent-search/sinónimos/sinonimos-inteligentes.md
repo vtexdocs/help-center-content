@@ -15,7 +15,7 @@ locale: es
 subcategoryId: BBzMtJan1UTxC9QZODnlN
 ---
 
-> ℹ️ Esta funcionalidad solo para cuentas que registren al menos 100 mil búsquedas mensuales, ya que dichas búsquedas se utilizan para entrenar el modelo de inteligencia artificial. Puedes comprobar la cantidad de búsquedas mensuales de tu tienda en *Storefront > Intelligent Search > Analytics* del Admin VTEX. Si te interesa implementar Sinónimos inteligentes, ponte en contacto con [nuestro Soporte](https://help.vtex.com/es/support). Es posible que se apliquen tarifas adicionales en el futuro.
+> ℹ️ Esta funcionalidad solo para cuentas que registren al menos 100 mil búsquedas mensuales, ya que dichas búsquedas se utilizan para entrenar el modelo de inteligencia artificial. Puedes comprobar la cantidad de búsquedas mensuales de tu tienda en *Storefront > Intelligent Search > Analytics* del Admin VTEX. Si te interesa implementar Sinónimos inteligentes, ponte en contacto con [nuestro Soporte](/es/support). Es posible que se apliquen tarifas adicionales en el futuro.
 
 La funcionalidad [Sinónimos](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) de [VTEX Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) te permite registrar palabras o expresiones con el mismo significado para los términos de búsqueda utilizados por los clientes al realizar búsquedas en tu tienda, lo que aumenta las posibilidades de que obtengan resultados de búsqueda relevantes.
 

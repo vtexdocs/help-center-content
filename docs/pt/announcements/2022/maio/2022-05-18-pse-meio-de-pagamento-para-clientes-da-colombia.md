@@ -27,5 +27,5 @@ O PSE está disponível para ser utilizado como meio de pagamento em transaçõe
 
 Para habilitar o PSE em sua loja, são necessárias as seguintes ações:
 - Verifique junto ao seu provedor de pagamento escolhido, se ele já possui o PSE integrado no conector do PPP ([Payment Provider Protocol](/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#)). Caso ainda não esteja disponível, solicite ao provedor que realize a [configuração do conector](https://developers.vtex.com/docs/guides/pse-payment-method).
-- Solicite no [VTEX Support Portal](https://help.vtex.com/pt/support) (via ticket), a habilitação do método de pagamento PSE e informe qual o provedor de pagamento utilizará este método.
+- Solicite no [VTEX Support Portal](/pt/support) (via ticket), a habilitação do método de pagamento PSE e informe qual o provedor de pagamento utilizará este método.
 - Realize a instalação e configuração do aplicativo Banks for PSE, e a configuração do PSE em sua loja. Saiba mais em [Configurando o meio de pagamento PSE](/pt/tutorial/configurar-pagamento-com-pse--7dRChubn7TqdEyWrHQEQp6).

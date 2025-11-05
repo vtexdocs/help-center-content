@@ -67,7 +67,7 @@ Para verificar se o problema está associado ao IO siga os passos abaixo:
 Se o erro não acontece após o bloqueio dos arquivos ou no tema padrão do Store Framework, significa que o erro é relacionado às customizações presentes no site e para a resolução, você deve entrar em contato com a equipe responsável pelo frontend da sua loja.
 
 ## Preenchendo um ticket
-Se, após seguir todas as etapas indicadas anteriormente, o problema persistir, abra um ticket para o [suporte VTEX](https://help.vtex.com/pt/support) seguindo as orientações da tabela abaixo.
+Se, após seguir todas as etapas indicadas anteriormente, o problema persistir, abra um ticket para o [suporte VTEX](/pt/support) seguindo as orientações da tabela abaixo.
 
 | Informações | Orientações |
 | ----------- | ----------- |

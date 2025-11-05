@@ -31,6 +31,6 @@ Para decidir si [contratar políticas comerciales adicionales](/es/tutorial/cont
 
 ## Contratación de nuevo entorno
 
-Solamente la cuenta principal puede contratar nuevos entornos, que pueden utilizarse para pruebas (QA), B2C, B2B, etc. Esta contratación se solicita a través del [soporte VTEX](https://help.vtex.com/es/support).
+Solamente la cuenta principal puede contratar nuevos entornos, que pueden utilizarse para pruebas (QA), B2C, B2B, etc. Esta contratación se solicita a través del [soporte VTEX](/es/support).
 
 Dependiendo del modelo de negocio y de la estrategia empresarial, puede ser recomendable contratar un nuevo entorno. Para ello, es necesario tener nociones sobre multitienda y entorno adicional, tal como se explica en el artículo [Cuentas y arquitectura](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl).

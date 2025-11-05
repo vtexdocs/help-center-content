@@ -25,7 +25,7 @@ Para adquirir uma política comercial destinada a um canal de vendas fora do eco
 
 ## Contratar política comercial
 
-Para contratar uma política comercial adicional destinada à atuação no mercado internacional, é necessário entrar em contato com o nosso time de Growth Operations em [*Suporte*](https://help.vtex.com/pt/support), escolhendo a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
+Para contratar uma política comercial adicional destinada à atuação no mercado internacional, é necessário entrar em contato com o nosso time de Growth Operations em [*Suporte*](/pt/support), escolhendo a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
 
 ## Regras de Cobrança
 

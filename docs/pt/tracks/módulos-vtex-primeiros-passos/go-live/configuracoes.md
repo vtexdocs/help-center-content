@@ -23,7 +23,7 @@ A VTEX usa o provedor de CDN **Cloudfront** nas lojas. É importante que o domí
 
 Portanto, se você tem o domínio da loja registrado na plataforma da **Cloudfront**, remova este registro antes de realizar o apontamento de DNS para a VTEX.
 
-> ⚠️ Se não for possível remover o registro do domínio da sua loja na plataforma **Cloudfront**, entre em contato com o [suporte VTEX](https://help.vtex.com/pt/support) explicando a situação. Dessa forma, o time da VTEX irá te auxiliar para garantir o bom funcionamento da loja no go-live.
+> ⚠️ Se não for possível remover o registro do domínio da sua loja na plataforma **Cloudfront**, entre em contato com o [suporte VTEX](/pt/support) explicando a situação. Dessa forma, o time da VTEX irá te auxiliar para garantir o bom funcionamento da loja no go-live.
 
 ## Configurar registro CAA
 

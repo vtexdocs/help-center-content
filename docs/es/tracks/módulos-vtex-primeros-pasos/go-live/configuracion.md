@@ -23,7 +23,7 @@ VTEX utiliza **Cloudfront** como proveedor de CDN para las tiendas. Es important
 
 Por lo tanto, si tienes el dominio de la tienda registrado en la plataforma **Cloudfront**, remueve el registro antes de apuntar el DNS a VTEX.
 
-> ⚠️ Si no puedes remover el registro de dominio de tu tienda de la plataforma **Cloudfront**, ponte en contacto con el [equipo de soporte de VTEX](https://help.vtex.com/es/support) y explícales la situación. Así, el equipo VTEX te ayudará a asegurar el buen funcionamiento de la tienda en el go-live.
+> ⚠️ Si no puedes remover el registro de dominio de tu tienda de la plataforma **Cloudfront**, ponte en contacto con el [equipo de soporte de VTEX](/es/support) y explícales la situación. Así, el equipo VTEX te ayudará a asegurar el buen funcionamiento de la tienda en el go-live.
 
 ## Configurar registros CAA
 

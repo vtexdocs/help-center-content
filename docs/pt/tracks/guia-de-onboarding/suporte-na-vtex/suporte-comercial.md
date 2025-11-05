@@ -31,5 +31,5 @@ Para decidir sobre a [contratação de políticas comerciais adicionais](/pt/tut
 
 ## Contratar novo ambiente
 
-Somente a conta principal pode contratar novos ambientes, que podem ser destinados a testes (QA), B2C, B2B dentre outros. Essa contratação é solicitada pelo [suporte VTEX](https://help.vtex.com/pt/support).
+Somente a conta principal pode contratar novos ambientes, que podem ser destinados a testes (QA), B2C, B2B dentre outros. Essa contratação é solicitada pelo [suporte VTEX](/pt/support).
 Dependendo do modelo de negócio e estratégia do negócio, pode ser recomendado a contratação de um novo ambiente. Para isso é preciso entender sobre multiloja e ambiente adicional, conforme explicado no artigo [Contas e arquitetura](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl).

@@ -29,5 +29,5 @@ Com essa configuração, você pode fornecer suporte 24 horas por dia, sete dias
 - Crie exceções, indicando as janelas de indisponibilidade.
 
 ## O que precisa ser feito?
-Para começar a utilizar, você deve ativar o [Atendimento Humano](/pt/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/1woBo299K5gvDG7MSa8HYL) em sua loja e entrar em contato com [nosso Suporte](https://help.vtex.com/pt/support) para integração [Zenvia e Zendesk](/pt/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/SxhYiiqUJYiQX4CIWxmVE).
+Para começar a utilizar, você deve ativar o [Atendimento Humano](/pt/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/1woBo299K5gvDG7MSa8HYL) em sua loja e entrar em contato com [nosso Suporte](/pt/support) para integração [Zenvia e Zendesk](/pt/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/SxhYiiqUJYiQX4CIWxmVE).
 

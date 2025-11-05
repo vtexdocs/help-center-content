@@ -39,4 +39,4 @@ Além disso, ficou mais fácil selecionar categorias e marcas.
 
 Nenhuma ação é necessária. Todas as lojas VTEX serão gradualmente migradas para a nova experiência nos próximos meses.
 
-Se a sua loja ainda não foi migrada mas você deseja aderir à nova experiência, abra uma solicitação via [suporte VTEX](https://help.vtex.com/pt/support).
+Se a sua loja ainda não foi migrada mas você deseja aderir à nova experiência, abra uma solicitação via [suporte VTEX](/pt/support).

@@ -68,7 +68,7 @@ If the Sponsor user is not available to perform the transfer of ownership throug
 
 ### Brazil 
 
-To change the Sponsor, please contact our Growth Operations team through [Support](https://help.vtex.com/en/support) by selecting **Commercial** and `Change Sponsor`. You must fill in the fields and submit a copy of the Articles of Association.
+To change the Sponsor, please contact our Growth Operations team through [Support](/en/support) by selecting **Commercial** and `Change Sponsor`. You must fill in the fields and submit a copy of the Articles of Association.
 
 If the representative appointed in the form is not mentioned in the Articles of Association, you must submit a notarized power of attorney informing that the representative appointed in the form is authorized to sign it.
 
@@ -76,7 +76,7 @@ With this information, the Growth Operations team will add an amendment to the c
 
 ### Other countries
 
-To change the Sponsor, please contact our Growth Operations team through [Support](https://help.vtex.com/en/support) by selecting **Commercial** and `Change Sponsor`. You must fill in the necessary fields.
+To change the Sponsor, please contact our Growth Operations team through [Support](/en/support) by selecting **Commercial** and `Change Sponsor`. You must fill in the necessary fields.
 
 If the representative appointed in the form is not mentioned in the Articles of Association, you must submit a copy of the Articles of Association.
 

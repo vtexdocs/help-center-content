@@ -30,7 +30,7 @@ A **Migração Direta** é executada nas etapas de [O que o seller precisa fazer
 Veja abaixo quais são os passos a serem seguidos nesta etapa:
 
 1. O seller deve abrir um ticket pelo [Portal do seller do Magazine Luiza](https://id-b2b.magazineluiza.com.br/auth/realms/B2B/protocol/openid-connect/auth?client_id=platform-seller-shell&redirect_uri=https%3A%2F%2Fseller.magalu.com%2F&state=1985744a-615b-428f-8d32-d9d2b03edf30&response_mode=fragment&response_type=code&scope=openid&nonce=5e1f25ae-d3b3-4cdf-85fd-d18183d99334) informando que deseja migrar da integração **A** para a VTEX.  
-2. O seller deve abrir um ticket com o time [suporte da VTEX](https://help.vtex.com/pt/support) informando o interesse em realizar a **Migração Direta.**  
+2. O seller deve abrir um ticket com o time [suporte da VTEX](/pt/support) informando o interesse em realizar a **Migração Direta.**  
 3. Realizar o mapeamento dos [produtos e SKUs](/pt/tutorial/qual-a-diferenca-entre-produto-e-sku--5yhABFDOpyiUcicce2W4CM) no seu catálogo VTEX.  
 Para realizar o mapeamento acesse no Admin VTEX **Catálogo > Todos os produtos.**  
 

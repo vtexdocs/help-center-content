@@ -66,12 +66,12 @@ La plantilla contiene las siguientes columnas:
 
 ## 4. Abrir un ticket en Soporte VTEX
 
-Para migrar los anuncios que se mapearon en la etapa anterior, es necesario abrir un ticket en el [Soporte VTEX](https://help.vtex.com/es/support) con el asunto **"Mercado Libre - Migración de anuncios"** y adjuntar la [plantilla de migración rellenada](#2-descargar-la-plantilla-de-migracion).
+Para migrar los anuncios que se mapearon en la etapa anterior, es necesario abrir un ticket en el [Soporte VTEX](/es/support) con el asunto **"Mercado Libre - Migración de anuncios"** y adjuntar la [plantilla de migración rellenada](#2-descargar-la-plantilla-de-migracion).
 
 Recomendamos que la migración se realice para todos los productos a la vez. Si el anuncio de algún producto no se mapeó, la integración no lo migrará. 
 
 Solo se tendrán en cuenta los anuncios mapeados en la plantilla de migración, es decir, aunque el anuncio exista en Mercado Libre, si no está mapeado en la plantilla, la integración no podrá actualizar la información del producto, del precio y del stock, y no se se podrán integrar los pedidos realizados en Mercado Libre.
-Si hay más de un anuncio de un mismo producto en Mercado Libre, cada anuncio con una variación, y quieres unirlos, sugerimos que los mantengas separados. En caso de que quieras unirlos de todos modos, te recomendamos ponerte en contacto con el equipo de CX de VTEX a través del [Soporte VTEX](https://help.vtex.com/es/support).
+Si hay más de un anuncio de un mismo producto en Mercado Libre, cada anuncio con una variación, y quieres unirlos, sugerimos que los mantengas separados. En caso de que quieras unirlos de todos modos, te recomendamos ponerte en contacto con el equipo de CX de VTEX a través del [Soporte VTEX](/es/support).
 
 ## 5. Esperar la confirmación de la migración de los anuncios
 

@@ -27,5 +27,5 @@ Se a sua loja usa nossa UI nativa na [página Cartões](/pt/tutorial/como-funcio
 
 Note que, para testar esta validação na sua loja, você deve acessá-la pelo endereço público (sem o ambiente `myvtex`), usando um perfil comum, sem privilégios de lojista nem de desenvolvedor.
 
-Se a sua loja possui qualquer implementação de UI ou customização que se comunica diretamente com esta [rota de API](https://developers.vtex.com/vtex-developer-docs/changelog/improvements-my-cards-api-endpoint), entre em contato com o nosso [suporte](https://help.vtex.com/pt/support) de modo a atualizar sua implementação de forma adequada.
+Se a sua loja possui qualquer implementação de UI ou customização que se comunica diretamente com esta [rota de API](https://developers.vtex.com/vtex-developer-docs/changelog/improvements-my-cards-api-endpoint), entre em contato com o nosso [suporte](/pt/support) de modo a atualizar sua implementação de forma adequada.
 

@@ -25,4 +25,4 @@ Para reducir los errores en el registro y envío de productos a Amazon, VTEX est
 
 El módulo **Amazon Listing** estará disponible en todas las cuentas VTEX a partir del 17 de marzo de 2025. Sugerimos utilizar el periodo de pruebas para familiarizarte con el nuevo formato y adaptar tu operación.
 
-Si tienes dudas o necesitas ayuda para utilizar **Amazon Listing**, ponte en contacto con nuestro [equipo de soporte](https://help.vtex.com/es/support).
+Si tienes dudas o necesitas ayuda para utilizar **Amazon Listing**, ponte en contacto con nuestro [equipo de soporte](/es/support).

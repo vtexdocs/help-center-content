@@ -23,7 +23,7 @@ To request a trade policy for a sales channel outside the VTEX ecosystem, such a
 
 ## Requesting a trade policy 
 
-To request an additional trade policy for operating in the international market, contact our Growth Operations team through *[Support](https://help.vtex.com/en/support)* by selecting **Commercial** and `New trade policy`.
+To request an additional trade policy for operating in the international market, contact our Growth Operations team through *[Support](/en/support)* by selecting **Commercial** and `New trade policy`.
 
 ## Billing rules
 

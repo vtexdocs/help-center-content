@@ -42,7 +42,7 @@ Sigue los pasos a continuación para cambiar el dominio:
    Este paso es imprescindible para que Checkout siga funcionando tras el cambio.  
    Es necesario verificar que los sitios configurados estén asociados a la cuenta registrada en **Configuración de la cuenta > Cuenta**. Para más información, consulta [Gestión de la cuenta](/es/tutorial/gestion-de-la-cuenta--2vhUVOKfCaswqLguT2F9xq).
 
-3. Si tu tienda utiliza [VTEX IO - Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) o [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), ponte en contacto con el [Soporte VTEX](https://help.vtex.com/es/support) y solicita el apuntamiento interno, informando el nuevo dominio. Más información sobre [apuntamiento interno](/es/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-el-apuntamiento-io).
+3. Si tu tienda utiliza [VTEX IO - Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) o [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), ponte en contacto con el [Soporte VTEX](/es/support) y solicita el apuntamiento interno, informando el nuevo dominio. Más información sobre [apuntamiento interno](/es/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-el-apuntamiento-io).
 
    Una vez abierto el ticket, el equipo de soporte tiene hasta tres días laborables para analizar la configuración y realizar el apuntamiento. 
 

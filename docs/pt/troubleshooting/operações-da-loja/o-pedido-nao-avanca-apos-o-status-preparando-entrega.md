@@ -54,4 +54,4 @@ Para garantir que o pedido seja faturado corretamente, é necessário observar o
 - Quando for necessário emitir mais de uma nota fiscal para um pedido, a soma do valor total das notas fiscais registradas deve ser igual ao valor total do pedido.
 - O valor total do pedido será atualizado em caso de [alteração ou remoção de itens](/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
-> ⚠️ Caso o pedido ainda permaneça no status `Faturado` após o cadastro manual das notas fiscais, solicite mais informações por meio de um ticket no [Suporte VTEX](https://help.vtex.com/pt/support).
+> ⚠️ Caso o pedido ainda permaneça no status `Faturado` após o cadastro manual das notas fiscais, solicite mais informações por meio de um ticket no [Suporte VTEX](/pt/support).

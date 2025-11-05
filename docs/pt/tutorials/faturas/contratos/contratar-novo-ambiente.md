@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-Para contratar um novo ambiente VTEX entre em contato pelo [Suporte](https://help.vtex.com/pt/support) selecionando a opção Comercial e o tipo de solicitação `Criação de Ambiente Adicional`. Saiba mais a respeito lendo o artigo [Abrir chamados no Suporte VTEX](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+Para contratar um novo ambiente VTEX entre em contato pelo [Suporte](/pt/support) selecionando a opção Comercial e o tipo de solicitação `Criação de Ambiente Adicional`. Saiba mais a respeito lendo o artigo [Abrir chamados no Suporte VTEX](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
 
 A criação de um novo ambiente pode gerar custos adicionais, conforme estipulado em seu contrato. Caso esse custo não esteja previsto, informe isso na sua solicitação para que seja feita a inclusão de um aditivo contratual.
 

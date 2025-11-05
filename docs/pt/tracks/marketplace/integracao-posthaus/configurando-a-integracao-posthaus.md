@@ -19,7 +19,7 @@ order: 2
 
 O primeiro passo para integrar da sua loja VTEX à Posthaus é ter as credenciais **AppKey** e AppToken, ambas são utilizadas para validar sua integração com o Marketplace.  
 
-> ❗ Para obter as suas credenciais e iniciar a integração, entre em contato por meio do time de [suporte da VTEX](https://help.vtex.com/pt/support). 
+> ❗ Para obter as suas credenciais e iniciar a integração, entre em contato por meio do time de [suporte da VTEX](/pt/support). 
 
 Após solicitar as credenciais, o seller pode seguir com a [Deﬁnição da política comercial na Posthaus](#definicao-da-politica-comercial-na-posthaus) VTEX e configuração da [Regra de divergência](/pt/tracks/integracao-posthaus--eipXIoOCKRgTDkg1Z1C4a/1OrzYEI4OZajAwUXPzmtlE).  
 
@@ -40,4 +40,4 @@ Só será necessário [conﬁgurar uma política comercial para Marketplace](/pt
 - Conﬁgurar outras condições de pagamento.  
 - Deﬁnir uma [estratégia de envio](/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) diferente.  
 
-Para [contratar políticas comerciais adicionais](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), preencha o [Formulário de liberação de Política Comercial](https://docs.google.com/forms/d/e/1FAIpQLSe9qCGB_KM_xsV5e9uNe06JE8tMZrWcv6EuHUOmqTiM8oRW7w/viewform). Em caso de dúvidas, entre em contato com o nosso time de Growth Operations em [Suporte](https://help.vtex.com/pt/support), selecionando a opção **Comercial** e o tipo de solicitação **Criação de Política Comercial**.  
+Para [contratar políticas comerciais adicionais](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), preencha o [Formulário de liberação de Política Comercial](https://docs.google.com/forms/d/e/1FAIpQLSe9qCGB_KM_xsV5e9uNe06JE8tMZrWcv6EuHUOmqTiM8oRW7w/viewform). Em caso de dúvidas, entre em contato com o nosso time de Growth Operations em [Suporte](/pt/support), selecionando a opção **Comercial** e o tipo de solicitação **Criação de Política Comercial**.  

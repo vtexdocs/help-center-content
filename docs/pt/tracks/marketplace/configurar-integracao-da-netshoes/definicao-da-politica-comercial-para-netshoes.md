@@ -28,6 +28,6 @@ Só será necessário [configurar uma política comercial para marketplace](/pt/
 - Configurar outras condições de pagamento.
 - Definir uma estratégia de envio diferente.
 
-Para [contratar políticas comerciais adicionais](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta solicitar via ticket em nosso [Suporte](https://help.vtex.com/pt/support) selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
+Para [contratar políticas comerciais adicionais](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta solicitar via ticket em nosso [Suporte](/pt/support) selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
 
 Para cada política comercial adicional, é cobrado um valor mensal, seja ela utilizada para integração com marketplaces certificados, parceiros, externos ou VTEX. 

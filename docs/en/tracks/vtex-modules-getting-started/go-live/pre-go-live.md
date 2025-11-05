@@ -25,7 +25,7 @@ To connect the domain to the store, you must [register the domain in Account Man
 
 ## Requesting IO pointing
 
-If your storefront is powered by [CMS IO](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), please submit a ticket to [VTEX Support](https://help.vtex.com/en/support) requesting internal DNS pointing to CMS IO and provide the URL you want to be pointed. This process can take up to 3 business days.
+If your storefront is powered by [CMS IO](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), please submit a ticket to [VTEX Support](/en/support) requesting internal DNS pointing to CMS IO and provide the URL you want to be pointed. This process can take up to 3 business days.
 
 After you receive the internal pointing confirmation, you must do the [common DNS pointing](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#setting-up-dns-pointing) within 5 days. Otherwise the internal pointing will be deleted and you will need to redo the request.
 
@@ -37,7 +37,7 @@ If your store access is limited by a [trade policy](/en/tutorial/o-que-e-uma-pol
 
 An example is [B2B stores](/en/tutorial/b2b-visao-geral--5vb9SNXhX2bZnkpAh7ADdC), which [restrict access](/en/tutorial/configurando-b2b-na-vtex--tutorials_238) to pre-approved companies.
 
-To request a special pointing, open a ticket with [VTEX support](https://help.vtex.com/en/support), indicating which trade policy and conditional rule are configured. This process can take up to 3 business days.
+To request a special pointing, open a ticket with [VTEX support](/en/support), indicating which trade policy and conditional rule are configured. This process can take up to 3 business days.
 
 After receiving the internal pointing confirmation, you must set up the [regular DNS pointing](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#setting-up-dns-pointing) within five days. Otherwise, the special DNS pointing will be deleted, and you will need to redo this request.
 

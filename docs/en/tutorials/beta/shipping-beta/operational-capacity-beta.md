@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact [our Support](https://help.vtex.com/en/support).
+> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact [our Support](/en/support).
 
 > ⚠️ To use the feature, it is required to have [franchise accounts](/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) associated with the [main account](/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#vtex-account-types).
 
@@ -59,7 +59,7 @@ In the VTEX Admin, go to **Shipping > Operational capacity**, or type **Operatio
 
 ![operational_capacity_image_1_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/operational-capacity-beta_1.png)
 
-> ⚠️ The interface will display the sellers that are part of your operation, previously configured by our team. To add a new seller, contact our [Support team](https://help.vtex.com/en/support).
+> ⚠️ The interface will display the sellers that are part of your operation, previously configured by our team. To add a new seller, contact our [Support team](/en/support).
 
 The chart shows the following information:
 

@@ -27,7 +27,7 @@ Após a pré-aprovação da Template Message, o fluxo conversacional pode começ
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/disparo-ativo-no-whatsapp_1.png)
 
-![](https://lh6.googleusercontent.com/dnDuAc3qT99XfkIlRIdry_Wlcvgzx6DyhDGNowh99nx8edb-JIzp4qPYNXX82I6n0DmwuXkfrXisgdKsQvFx3o32YDJX0ODZziw1PsUmkd_VeK8V7fGSKngIcZ5xee4sufwC_QhjLO_cH2nq0iWs5nU)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/disparo-ativo-no-whatsapp_1.png)
 
 O **segundo passo** é adicionar o cartão enviar mensagem, na caixa de texto basta apenas digitar a seguinte expressão: @(“”). Veja a imagem abaixo:
 

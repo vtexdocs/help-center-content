@@ -81,7 +81,7 @@ Once you have done the DNS pointing, you need to notify the VTEX platform by fol
 
 Once the notification is sent, the store will be available, but still awaiting the issuance of the SSL certificate, which should happen within 10 minutes.
 
-In case of a failure to generate the certificate, either due to delay in the propagation of the domain or some type of error, when you access the site you will see a message informing that the SSL certificate is being generated. If it remains for more than thirty minutes after the pointing notification, open a ticket with [VTEX support](https://help.vtex.com/en/support) with urgent priority.
+In case of a failure to generate the certificate, either due to delay in the propagation of the domain or some type of error, when you access the site you will see a message informing that the SSL certificate is being generated. If it remains for more than thirty minutes after the pointing notification, open a ticket with [VTEX support](/en/support) with urgent priority.
 
 The certificate is generated through [Let's Encrypt](https://letsencrypt.org/) and is valid for 90 days. However, it is automatically renewed within five days before expiration, as long as the domain is correctly pointed to VTEX.
 

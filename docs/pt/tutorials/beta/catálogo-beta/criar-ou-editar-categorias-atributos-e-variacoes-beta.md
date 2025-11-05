@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
+> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](/pt/support).
 
 No Admin VTEX, em **Catálogo > Categorias**, você encontra a página de gerenciamento da árvore de categorias da sua loja. Este artigo orienta sobre como criar e configurar suas categorias, [atributos e variações](#terminologia), e está dividido nas seguintes seções:
 

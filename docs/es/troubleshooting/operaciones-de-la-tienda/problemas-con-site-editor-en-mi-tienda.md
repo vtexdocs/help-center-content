@@ -55,7 +55,7 @@ El error puede deberse a que [Intelligent Search](/es/tracks/vtex-intelligent-se
 3. Si todos los status están verificados y sigues sin poder abrir Site Editor, consulta la sección [Comprobar la configuración del inquilino](#comprobar-la-configuracion-del-inquilino-solo-cuentas-nuevas). En caso contrario, procede al siguiente paso.
 4. Si la página Integraciones no coincide con la imagen mostrada anteriormente, consulta a continuación los posibles motivos y cómo solucionarlos:
   - **El status `Activar búsqueda` no se ha completado**: no has iniciado la integración. Haz clic en `Iniciar la integración`.
-  - **Uno de los status falló y no se ha completado**: si intentaste iniciar la integración pero sigue fallando, abre un ticket con el [soporte VTEX](https://help.vtex.com/es/support) para reportar el error.
+  - **Uno de los status falló y no se ha completado**: si intentaste iniciar la integración pero sigue fallando, abre un ticket con el [soporte VTEX](/es/support) para reportar el error.
 
 ### Comprueba la configuración del inquilino (solo cuentas nuevas)
 
@@ -63,7 +63,7 @@ Si ya realizaste la [integración de la búsqueda](#comprobar-integracion-de-la-
 
 VTEX utiliza un enfoque de arquitectura [SaaS multiinquilino](https://developers.vtex.com/docs/guides/cloud-infrastructure#saas-multi-tenancy), en el cual cada cuenta funciona como un inquilino que debe estar conectado (vinculado) a la infraestructura de VTEX para garantizar la sincronización de datos e información.
 
-Para configurar el inquilino en tu tienda, abre un ticket con el equipo de [soporte VTEX](https://help.vtex.com/es/support). Una vez que recibas respuesta del soporte confirmando que el inquilino ha sido configurado, accede al Admin VTEX, **Storefront > Site Editor**, y comprueba si se abre correctamente. Si la pantalla en blanco continúa, actualiza el ticket con el soporte VTEX ingresando la nueva información para que el equipo pueda investigarlo a fondo.
+Para configurar el inquilino en tu tienda, abre un ticket con el equipo de [soporte VTEX](/es/support). Una vez que recibas respuesta del soporte confirmando que el inquilino ha sido configurado, accede al Admin VTEX, **Storefront > Site Editor**, y comprueba si se abre correctamente. Si la pantalla en blanco continúa, actualiza el ticket con el soporte VTEX ingresando la nueva información para que el equipo pueda investigarlo a fondo.
 
 ## No puedo gestionar el contenido de mi tienda en Site Editor
 
@@ -122,19 +122,19 @@ Otra posible causa de este error está relacionada con la configuración de la r
     - La región está en minúsculas. Dado que esta configuración distingue entre mayúsculas y minúsculas, debes establecer la región como `es-MX` en lugar de `es-mx`.
     - La región configurada en la política comercial es diferente de la `defaultLocale` identificada.
 
-8. En ambos casos, abre un ticket con el [soporte VTEX](https://help.vtex.com/es/support) para solicitar un cambio en la configuración de la región definida en la política comercial. Recuerda incluir evidencias del error, tales como capturas de pantalla, logs de mensajes y detalles de tu investigación previa.
+8. En ambos casos, abre un ticket con el [soporte VTEX](/es/support) para solicitar un cambio en la configuración de la región definida en la política comercial. Recuerda incluir evidencias del error, tales como capturas de pantalla, logs de mensajes y detalles de tu investigación previa.
 
 ## Perdí el contenido almacenado en Site Editor
 
-Abre un ticket con el [soporte VTEX](https://help.vtex.com/es/support) para investigar el problema más a fondo.
+Abre un ticket con el [soporte VTEX](/es/support) para investigar el problema más a fondo.
 
 Para evitar perder el contenido almacenado en Site Editor al cambiar las dependencias de pares de la aplicación Store Theme, sigue los pasos de la guía [Migrating CMS settings after a major theme update](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-cms-settings-after-major-update). 
 
-> ⚠️  En los casos en que se pierda el contenido almacenado en Site Editor, la restauración solo es posible si la pérdida está relacionada con el problema [pérdida intermitente de contenido en Site Editor](/es/known-issues/perda-intermitente-de-conteudo-do-site-editor--3a5MlAoD2Z7Gu6HDS8wihD). Ante esta situación, abre un ticket con el [Soporte VTEX](https://help.vtex.com/pt/support) con prioridad `urgente`. 
+> ⚠️  En los casos en que se pierda el contenido almacenado en Site Editor, la restauración solo es posible si la pérdida está relacionada con el problema [pérdida intermitente de contenido en Site Editor](/es/known-issues/perda-intermitente-de-conteudo-do-site-editor--3a5MlAoD2Z7Gu6HDS8wihD). Ante esta situación, abre un ticket con el [Soporte VTEX](/pt/support) con prioridad `urgente`. 
 
 ## Continúo experimentando problemas con Site Editor 
 
-Si tras intentar implementar las soluciones mencionadas anteriormente continúas experimentando problemas con Site Editor, abre un ticket con el [Soporte Vtex](https://help.vtex.com/es/support), incluyendo pruebas de los problemas encontrados:
+Si tras intentar implementar las soluciones mencionadas anteriormente continúas experimentando problemas con Site Editor, abre un ticket con el [Soporte Vtex](/es/support), incluyendo pruebas de los problemas encontrados:
 
 - Mensajes de error.
 - [Mensajes de log de la consola](https://developer.chrome.com/docs/devtools/console/understand-messages) (si hay alguno).

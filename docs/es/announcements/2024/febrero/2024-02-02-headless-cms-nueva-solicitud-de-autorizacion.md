@@ -37,7 +37,7 @@ Asegúrate de que los usuarios de Headless CMS tienen sus roles asociados a los 
 
 ### Crear un rol
 
-Si aún no has creado un rol específico para los usuarios de Headless CMS y deseas hacerlo, consulta la guía [Crear un rol](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete#creating-a-role). Asegúrate de asociar el rol a los recursos `CMS GraphQL API`, `See CMS menu on the top-bar` y `Settings` en la sección **Productos y recursos**.
+Si aún no has creado un rol específico para los usuarios de Headless CMS y deseas hacerlo, consulta la guía [Crear un rol](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete#creating-a-role). Asegúrate de asociar el rol a los recursos `CMS GraphQL API`, `See CMS menu on the top-bar` y `Settings` en la sección **Productos y recursos**.
 
 ### Editar rol
 

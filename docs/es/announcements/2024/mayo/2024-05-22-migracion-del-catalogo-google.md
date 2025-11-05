@@ -27,7 +27,7 @@ El objetivo de esta funcionalidad es permitir al seller la migración de la rele
 
 ## ¿Qué se necesita hacer?
 
-Para realizar la migración es necesario enviar una solicitud al [soporte VTEX](https://help.vtex.com/es/support), pero antes deben cumplirse los dos requisitos siguientes:
+Para realizar la migración es necesario enviar una solicitud al [soporte VTEX](/es/support), pero antes deben cumplirse los dos requisitos siguientes:
 
 1. Crear una nueva política comercial, que no debe contener productos vinculados.
 2. Configurar la integración con Google Shopping, utilizando la nueva política comercial creada en el paso anterior.

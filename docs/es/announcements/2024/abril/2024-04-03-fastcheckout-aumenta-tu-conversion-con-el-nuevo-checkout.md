@@ -66,5 +66,5 @@ Facilitamos considerablemente las personalizaciones, que ahora se pueden adaptar
 
 > ⚠️ El programa early access de FastCheckout está disponible únicamente para tiendas ubicadas en los Estados Unidos.
 
-Para participar del programa early access de FastCheckout, ponte en contacto con [nuestro Soporte](https://help.vtex.com/es/support). El equipo de VTEX se pondrá en contacto contigo y evaluará si las funcionalidades disponibles en esta primera versión satisfacen tus necesidades. De ser así, se te invitará a unirte a nuestro programa beta y se actualizarán todos los usuarios en la cuenta de tu tienda con la nueva experiencia. No se requiere ninguna configuración adicional.
+Para participar del programa early access de FastCheckout, ponte en contacto con [nuestro Soporte](/es/support). El equipo de VTEX se pondrá en contacto contigo y evaluará si las funcionalidades disponibles en esta primera versión satisfacen tus necesidades. De ser así, se te invitará a unirte a nuestro programa beta y se actualizarán todos los usuarios en la cuenta de tu tienda con la nueva experiencia. No se requiere ninguna configuración adicional.
 

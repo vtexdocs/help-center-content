@@ -32,5 +32,5 @@ As of today, March 17, 2025, the **[Amazon Listing](/en/tutorial/amazon-listing-
 - Monitor data synchronization and check the status of sent SKUs.  
 - Create templates for products that have already been sent.  
 
-If you have any questions or feedback about **Amazon Listing**, contact our [Support team](https://help.vtex.com/en/support). To learn more about the module, see the [Amazon Listing documentation](/en/tutorial/amazon-listing--5HIhbnYzJWkl2yM0o72WrL).
+If you have any questions or feedback about **Amazon Listing**, contact our [Support team](/en/support). To learn more about the module, see the [Amazon Listing documentation](/en/tutorial/amazon-listing--5HIhbnYzJWkl2yM0o72WrL).
 

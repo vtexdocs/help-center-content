@@ -94,7 +94,7 @@ VTEX offers split payment solutions that can make the distribution of receivable
 
 ## Request the creation of a franchise account
 
-To open a franchise account, contact our Growth Operations team through [*Support*](https://help.vtex.com/en/support) by selecting **Commercial** and `Create a white label environment`.
+To open a franchise account, contact our Growth Operations team through [*Support*](/en/support) by selecting **Commercial** and `Create a white label environment`.
 
 The additional cost for the franchise account is specified in your contract. If not, please mention it in your request so that we can add an amendment to your contract.
 

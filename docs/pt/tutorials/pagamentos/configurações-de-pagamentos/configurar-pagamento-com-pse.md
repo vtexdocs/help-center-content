@@ -21,7 +21,7 @@ Para habilitar o PSE em sua loja são necessárias as seguintes ações:
 - [Instalar e configurar o aplicativo Banks for PSE](#instalando-o-banks-for-pse-app).
 - [Configurar o PSE como condição de pagamento](#configurando-a-condição-de-pagamento-pse).
 
-> ⚠️ Para configurar o PSE app em sua loja, você deve ter permissão para acessar o módulo de Pagamentos. Caso ainda não tenha este acesso, solicite-o através do [VTEX Support](https://help.vtex.com/pt/support).
+> ⚠️ Para configurar o PSE app em sua loja, você deve ter permissão para acessar o módulo de Pagamentos. Caso ainda não tenha este acesso, solicite-o através do [VTEX Support](/pt/support).
 
 ## Instalando o Banks for PSE App
 

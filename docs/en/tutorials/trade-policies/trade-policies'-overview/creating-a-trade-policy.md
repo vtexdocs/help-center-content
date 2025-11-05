@@ -30,7 +30,7 @@ To use the same catalog in more than one trade policy, access the
 
 ## Request a trade policy
 
-To [request additional trade policies](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), contact our Growth Operations team through [VTEX Support](https://help.vtex.com/en/support) by selecting **Commercial** and `Create a trade policy`. When requesting the creation of a trade policy via ticket, consider a response time of up to three business days.
+To [request additional trade policies](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), contact our Growth Operations team through [VTEX Support](/en/support) by selecting **Commercial** and `Create a trade policy`. When requesting the creation of a trade policy via ticket, consider a response time of up to three business days.
 
 > ℹ️ A monthly fee is charged for each additional trade policy, whether used for integration with certified, partner, external, or VTEX marketplaces.
 

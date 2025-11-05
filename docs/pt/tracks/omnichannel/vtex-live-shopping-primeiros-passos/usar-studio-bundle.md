@@ -3,8 +3,8 @@ title: 'Usar studio Bundle'
 id: 3GKzrP9nkyRwpUyyeYUaeX
 status: PUBLISHED
 createdAt: 2025-07-23T18:06:49.325Z
-updatedAt: 2025-09-15T21:35:12.589Z
-publishedAt: 2025-09-15T21:35:12.589Z
+updatedAt: 2025-11-03T23:15:39.786Z
+publishedAt: 2025-11-03T23:15:39.786Z
 firstPublishedAt: 2025-07-28T15:08:19.382Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-primeiros-passos
 order: 8
 ---
 
-> ℹ️ Se você preferir usar um estúdio diferente do Bundle, confira [Configurar estúdio de transmissão externo](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/Dw0QdKI0aGjmyD5Z6z5JC).
+> ℹ️ Se você preferir usar um estúdio diferente do Bundle, veja [Configurar estúdios de transmissão externos](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/Dw0QdKI0aGjmyD5Z6z5JC).
 
 O estúdio de transmissão da VTEX é chamado de **Bundle**. Neste artigo, você aprenderá como configurar todas as definições necessárias em nossa solução de estúdio nativa.
 
@@ -29,16 +29,45 @@ Para acessar o estúdio no Admin VTEX e iniciar uma transmissão ao vivo, acesse
 
 Esta seção tem as seguintes configurações:
 
-* **Copiar convite**: ao clicar neste botão, um link é gerado e copiado para que você possa enviá-lo a influenciadores ou hosts. Ao abrir o link, é possível ligar ou desligar a câmera e o microfone, além de visualizar o chat dentro do estúdio. No entanto, não será possível acessar nenhuma outra ação.
+* **Copiar convite**: ao clicar neste botão, um link é gerado e copiado para que você possa enviá-lo a influenciadores ou hosts. Ao abrir o link e o [administrador permitir a entrada deles no estúdio](#aprovacao-do-administrador-para-a-entrada-de-convidados-no-estudio), os convidados poderão ligar ou desligar suas câmeras e microfones, bem como ver o chat dentro do estúdio. No entanto, eles não terão acesso a outras ações, conforme explicado na seção [My studio (Meu estúdio)](#my-studio-meu-estudio).
 * **Acessar:** redireciona para a página **Device settings** (Configurações do dispositivo) no estúdio Bundle, onde é possível gerenciar câmeras, fazer upload de recursos gráficos, iniciar/encerrar a transmissão, entre outras ações. Essa configuração é restrita a administradores do estúdio de transmissão.
 
-Tanto os hosts que acessam pelo link gerado com o botão `Copiar convite` quanto os administradores que usam o botão `Acessar` são redirecionados para a página **Device settings** (Configurações do dispositivo) no Bundle. Nela, é possível selecionar a câmera e o microfone desejados e realizar testes para garantir que tudo esteja funcionando corretamente.
+Os administradores que utilizam o botão `Acessar` são redirecionados para a página **Device settings** do Bundle, onde podem selecionar a câmera e o microfone que desejam usar e efetuar testes para garantir que tudo está funcionando corretamente. 
+
+Com o link do convite, os hosts e convidados poderão entrar no estúdio depois que o acesso for aprovado por um administrador.
+
+## Aprovação do administrador para a entrada de convidados no estúdio
+
+Para que pessoas externas (como influenciadores) tenham acesso ao estúdio, elas precisam da aprovação de um administrador. Essa medida aumenta a segurança da loja e permite que o lojista tenha maior controle do evento.
+
+Para permitir que uma pessoa externa acesse o Bundle, siga os passos abaixo:
+
+1. Como administrador, compartilhe com o convidado o link de convite para o [estúdio de streaming](#estudio-de-streaming).
+2. O convidado acessa o link e solicita acesso ao estúdio.
+3. No Bundle, o administrador vê que o convidado está aguardando sua aprovação na página **My Studio**:
+
+  ![bundle-administrator-approval-flow-image-1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_2.png)
+
+4. O administrador pode escolher uma das opções abaixo: 
+    - `Approve`: permite que o convidado entre no estúdio.
+    - `Deny`: recusa a solicitação do convidado de entrar no estúdio.
+5. Ao escolher uma das opções, uma mensagem de confirmação é exibida, respectivamente:
+    - {Nome do convidado} has been approved.
+    - {Nome do convidado} has been denied.
+
+Se o acesso do convidado for negado e ele achar que foi um erro, ele pode clicar em `Try again` para tentar novamente:
+
+![bundle-administrator-approval-flow-image-2_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_3.png)
+
+No entanto, se o pedido for negado uma segunda vez, será necessário aguardar cinco minutos antes de tentar novamente. Esse tempo será exibido na página com uma contagem regressiva:
+
+![bundle-administrator-approval-flow-image-3_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_4.png)
 
 ## My Studio (Meu estúdio)
 
 Na página **Device settings** (Configurações do dispositivo), ao clicar em `Enter the studio` (Entrar no estúdio), você será redirecionado para a página **My Studio** (Meu estúdio), conforme mostrado no exemplo abaixo com o [layout](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#tipo-de-layout-configuracao-do-estilo) no formato retrato.
 
-![article_8_my_studio_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_2.png)
+![article_8_my_studio_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_5.png)
 
 > ⚠️ Antes de iniciar a transmissão pelo Bundle, selecione o [tipo de layout](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#tipo-de-layout-configuracao-do-estilo) desejado para a tela. Após entrar na página **My Studio** (Meu estúdio), não será mais possível alterar o layout do evento. Para alterá-lo, será necessário criar um novo evento.
 
@@ -52,7 +81,7 @@ O menu de navegação à esquerda tem as seguintes seções (apenas para adminis
 
 Na opção **My Studio** (Meu estúdio) do menu, as configurações numeradas de 1 a 5 estão disponíveis para convidados e administradores, enquanto as configurações de 6 a 9 são exclusivas para administradores.
 
-![article_8_my_studio_woman_streaming_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_3.png)
+![article_8_my_studio_woman_streaming_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_6.png)
 
 ### Configurações de convidados e administradores
 
@@ -93,7 +122,7 @@ Existe também a opção <i class="fas fa-toggle-off" aria-hidden="true"></i> **
 O nome será exibido em letras brancas sobre um fundo escuro e não poderá ser alterado. Só é possível personalizar a cor inicial da faixa, pois é a mesma usada em **Banners > Theme Color** (Cor do tema). Não é necessário criar um banner para ativar essa opção, você só precisa definir a cor do tema, que é preta por padrão. A imagem abaixo é um exemplo de uma cor de tema rosa:
 
 <p align="center">
-  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_4.png" alt="article_8_asset_types_EN" width="200" height="30">
+  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_7.png" alt="article_8_asset_types_EN" width="200" height="30">
 
 
 ### Dimensões dos recursos

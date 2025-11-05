@@ -94,7 +94,7 @@ A VTEX oferece soluções de split de pagamentos que podem tornar automática a 
 
 ## Solicitar criação de conta franquia
 
-Para abrir uma conta franquia entre em contato com o nosso time de Growth Operations pelo *[Suporte](https://help.vtex.com/pt/support)* selecionando a opção **Comercial** e o tipo de solicitação `Criação de Ambiente White Label`.
+Para abrir uma conta franquia entre em contato com o nosso time de Growth Operations pelo *[Suporte](/pt/support)* selecionando a opção **Comercial** e o tipo de solicitação `Criação de Ambiente White Label`.
 
 A criação de uma conta franquia terá um custo previsto no seu contrato de OMS. Caso não esteja previsto em seu contrato, adicione essa observação a sua solicitação para que seja realizado um aditivo contratual correspondente. 
 

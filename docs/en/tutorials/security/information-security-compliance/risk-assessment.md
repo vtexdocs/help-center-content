@@ -327,7 +327,7 @@ The VTEX platform is a SaaS (Software as a Service) solution and can be accessed
 
 #### Does the platform restrict access to public internet IPs?
 
-Blocking access to the store administrative environment (VTEX Admin) for specific IPs is possible. However, the store website is always open to the general public. To request specific blocking, please contact [Support](https://help.vtex.com/en/support).
+Blocking access to the store administrative environment (VTEX Admin) for specific IPs is possible. However, the store website is always open to the general public. To request specific blocking, please contact [Support](/en/support).
 
 #### Does the solution use a secure protocol (HTTPS)?
 
@@ -369,7 +369,7 @@ Also, VTEX logs various operations, including author and timestamp, in[ Audit](/
 
 VTEX doesn't grant access to its internal systems to protect the privacy and security of our clients, as well as to ensure compliance with applicable laws and regulations.
 
-However, we provide logs containing different[ events](/en/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ) in[ Audit](/en/tutorial/searching-for-events-on-audit--5RXf9WJ5YLFBcS8q8KcxTA) and clients can request logs for specific events via[ Support](https://help.vtex.com/en/support). Clients also have the option of implementing a reverse proxy layer before VTEX that would allow them greater visibility over the requests that reach their environment. This approach gives clients a more detailed and customized control over the data flow in their infrastructure, while maintaining privacy and security as required.
+However, we provide logs containing different[ events](/en/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ) in[ Audit](/en/tutorial/searching-for-events-on-audit--5RXf9WJ5YLFBcS8q8KcxTA) and clients can request logs for specific events via[ Support](/en/support). Clients also have the option of implementing a reverse proxy layer before VTEX that would allow them greater visibility over the requests that reach their environment. This approach gives clients a more detailed and customized control over the data flow in their infrastructure, while maintaining privacy and security as required.
 
 ### Secure development
 
