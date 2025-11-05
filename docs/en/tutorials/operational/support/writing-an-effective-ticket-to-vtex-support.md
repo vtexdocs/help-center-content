@@ -69,7 +69,7 @@ If the error does not occur after blocking the files or in the default Store Fra
 
 ## Completing a ticket
 
-If, after following all the troubleshooting steps outlined above, the issue persists, open a ticket with [VTEX Support]((https://help.vtex.com/support?/cultureInfo=pt-br)) following the guidelines in the table below:
+If, after following all the troubleshooting steps outlined above, the issue persists, open a ticket with [VTEX Support](https://supporticket.vtex.com/support) following the guidelines in the table below:
 
 | Information | Guidelines |
 | ----------- | ----------- |
