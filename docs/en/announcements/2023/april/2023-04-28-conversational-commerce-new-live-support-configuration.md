@@ -29,5 +29,5 @@ With this configuration, you can provide 24/7 support to your customers, even wh
 - Create exceptions, indicating the unavailability windows.
 
 ## What needs to be done?
-To get started, you must [activate Live Support](/en/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/1woBo299K5gvDG7MSa8HYL?&utm_source=autocomplete) in your store and contact our [support](/support) for [Zenvia and Zendesk integration](/en/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/SxhYiiqUJYiQX4CIWxmVE).
+To get started, you must [activate Live Support](/en/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/1woBo299K5gvDG7MSa8HYL?&utm_source=autocomplete) in your store and contact our [support](https://supporticket.vtex.com/support) for [Zenvia and Zendesk integration](/en/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/SxhYiiqUJYiQX4CIWxmVE).
 

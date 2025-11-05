@@ -80,7 +80,7 @@ If you get the message "You don't have any networks enabled for Google Pay in yo
 
 * The toggle switch is enabled, but it is not possible to finish the process
 
-If the message "Google Pay activated successfully." does not appear when activating the toggle switch, it means there may have been instability in the system. If the problem persists, the user will receive a message to contact [VTEX support](/en/support).
+If the message "Google Pay activated successfully." does not appear when activating the toggle switch, it means there may have been instability in the system. If the problem persists, the user will receive a message to contact [VTEX support](https://supporticket.vtex.com/support).
 
 ### Issues that may occur during the purchase process
 

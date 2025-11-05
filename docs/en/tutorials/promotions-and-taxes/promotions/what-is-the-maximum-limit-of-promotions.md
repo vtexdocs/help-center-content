@@ -23,4 +23,4 @@ Nowadays, we have a limitation on the number of active promotions, taxes and c
 
 Only active promotions, taxes or coupons are counted when calculating this limit, which means that archived promotions, taxes or coupons are not considered.
 
-If it is necessary to change any of these limits, please contact our [Support](/en/support) to analyze the viability of the change.
+If it is necessary to change any of these limits, please contact our [Support](https://supporticket.vtex.com/support) to analyze the viability of the change.

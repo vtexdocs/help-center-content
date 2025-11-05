@@ -146,7 +146,7 @@ Para realizar o processamento de pagamentos dos pedidos em uma loja VTEX, os int
 Ao detectar qualquer inconsistência ou erro durante a transação de pagamento de um pedido, o lojista deve:
 
 1. Entrar em contato com o(s) responsável(is) pela respectiva transação (provedores de pagamento e antifraude).
-2. Caso o assunto não seja resolvido, abrir um ticket no [Suporte VTEX](/pt/support) informando os dados da ocorrência.
+2. Caso o assunto não seja resolvido, abrir um ticket no [Suporte VTEX](https://supporticket.vtex.com/support) informando os dados da ocorrência.
 
 ## Agências implementadoras
 

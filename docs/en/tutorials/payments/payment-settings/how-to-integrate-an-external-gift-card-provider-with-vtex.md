@@ -29,4 +29,4 @@ For more information about the gift card system at VTEX, visit [Giftcard Hub](ht
 
 ## Sending endpoint information
 
-After creating the middleware, the provider must open a [ticket](/en/support) on VTEX informing the endpoints to be used for customers to carry out payment transactions using its gift card system.
+After creating the middleware, the provider must open a [ticket](https://supporticket.vtex.com/support) on VTEX informing the endpoints to be used for customers to carry out payment transactions using its gift card system.

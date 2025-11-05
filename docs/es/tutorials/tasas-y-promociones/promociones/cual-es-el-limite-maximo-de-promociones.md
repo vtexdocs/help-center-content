@@ -23,4 +23,4 @@ Hay un límite en la cantidad de promociones, tasas y cupones activos:
 
 Para calcular este límite sólo se tienen en cuenta las promociones, tasas o cupones activos, es decir, no se consideran las promociones, tasas o cupones archivados.
 
-Si necesita cambiar alguno de estos límites, póngase en contacto con nuestro [Soporte](/es/support) para analizar la viabilidad del cambio.
+Si necesita cambiar alguno de estos límites, póngase en contacto con nuestro [Soporte](https://supporticket.vtex.com/support) para analizar la viabilidad del cambio.

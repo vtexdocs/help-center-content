@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-> ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si tienes alguna duda, ponte en contacto con nuestro [Soporte](/es/support).
+> ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si tienes alguna duda, ponte en contacto con nuestro [Soporte](https://supporticket.vtex.com/support).
 
 En el Admin VTEX puedes gestionar la importación y exportación de productos y SKUs utilizando una plantilla, como se indica en las secciones a continuación:
 

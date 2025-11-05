@@ -31,8 +31,8 @@ Algunas tiendas tienen las aplicaciones de manera predeterminada, mientras que o
 | `vtex.edition-store@5.x` | Intelligent Search ya está incluida, por lo que no es necesario instalar las aplicaciones de esta tabla. Procede a [Iniciar la integración con el catálogo](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2wBsO1AKTQZ04idbTKszI4). |
 | `vtex.edition-store@4.x` | Debes instalar las aplicaciones de búsqueda manualmente. Sigue las instrucciones para [Instalar las aplicaciones de búsqueda](#instalar-aplicaciones-de-busqueda). |
 | `vtex.edition-store@3.x` | Debes instalar las aplicaciones de búsqueda manualmente. Sigue las instrucciones para [Instalar las aplicaciones de búsqueda](#instalar-las-aplicaciones-de-busqueda). |
-| Versiones anteriores de `vtex.edition-store` | No son compatibles con Intelligent Search. Si deseas migrar a una versión compatible, ponte en contacto con nuestro [soporte](/es/support). |
-| `vtex.edition-business@0.x` | No es compatible con Intelligent Search. Si deseas migrar a una versión compatible, ponte en contacto con nuestro [soporte](/es/support). |
+| Versiones anteriores de `vtex.edition-store` | No son compatibles con Intelligent Search. Si deseas migrar a una versión compatible, ponte en contacto con nuestro [soporte](https://supporticket.vtex.com/support). |
+| `vtex.edition-business@0.x` | No es compatible con Intelligent Search. Si deseas migrar a una versión compatible, ponte en contacto con nuestro [soporte](https://supporticket.vtex.com/support). |
 
 Consulta con tu equipo de desarrollo para verificar cuál es la Edition App actual de tu tienda. Para averiguarlo, es necesario utilizar el comando `vtex edition get` en [VTEX IO CLI](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-installation-and-command-reference), según la [referencia de comandos](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-command-reference\#edition-get) disponible en el Developer Portal.
 

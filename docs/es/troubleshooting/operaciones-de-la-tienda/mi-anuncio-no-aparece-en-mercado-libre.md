@@ -60,5 +60,5 @@ Para comprobar la configuración del stock mínimo, accede a Marketplace > Conex
  4. Asegúrate de que este campo esté configurado correctamente según se explica en el artículo [Control de stock mínimo para integraciones](/es/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D).
 
 <div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Si las soluciones propuestas no resuelven el problema, abre un ticket con el [soporte VTEX](/es/support).
+Si las soluciones propuestas no resuelven el problema, abre un ticket con el [soporte VTEX](https://supporticket.vtex.com/support).
 </div>

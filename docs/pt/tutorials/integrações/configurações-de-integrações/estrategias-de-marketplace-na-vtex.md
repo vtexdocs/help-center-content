@@ -32,7 +32,7 @@ Algumas das principais operações envolvidas ao vender produtos em marketplaces
 
 O sortimento de produtos enviados para um marketplace é definido na escolha da sua [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV).  
 
-A [contratação de políticas comerciais](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X) adicionais é realizada via ticket em nosso [suporte](/pt/support), selecionando a opção **Comercial** e o tipo de solicitação Criação de Política Comercial. Para cada política comercial adicional, é cobrado um valor mensal, seja ela utilizada para integração com marketplaces certificados, parceiros, externos ou VTEX.
+A [contratação de políticas comerciais](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X) adicionais é realizada via ticket em nosso [suporte](https://supporticket.vtex.com/support), selecionando a opção **Comercial** e o tipo de solicitação Criação de Política Comercial. Para cada política comercial adicional, é cobrado um valor mensal, seja ela utilizada para integração com marketplaces certificados, parceiros, externos ou VTEX.
 
 > ℹ️ Pedidos aprovados em marketplaces estão sujeitos às mesmas [regras contratuais](/pt/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq?locale=pt) de pedidos efetuados por outros canais.
 

@@ -60,4 +60,4 @@ Para validar a configuração do estoque limite, acesse Marketplace > Conexões 
 
  4. Certifique-se de que a configuração deste campo está correta, de acordo com o artigo [Controle de estoque mínimo para integrações](/pt/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D). 
 
->ℹ️ Caso seu problema não seja resolvido por uma das soluções propostas, abra um ticket para o [suporte VTEX](/pt/support).
+>ℹ️ Caso seu problema não seja resolvido por uma das soluções propostas, abra um ticket para o [suporte VTEX](https://supporticket.vtex.com/support).

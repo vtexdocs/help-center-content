@@ -43,7 +43,7 @@ Stores using VTEX Shield and choosing the WAF have the following security rules 
 
 ## Requesting WAF activation
 
-To request WAF activation for your store, please contact [VTEX Support](/en/support). Include the following information in the ticket:
+To request WAF activation for your store, please contact [VTEX Support](https://supporticket.vtex.com/support). Include the following information in the ticket:
 
 * URLs to be added to the WAF.
 * Name and contact information of the point of contact with the VTEX Security team during the activation process.

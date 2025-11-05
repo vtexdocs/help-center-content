@@ -24,5 +24,5 @@ We have now improved the storage architecture and file partitioning solution for
 ## What needs to be done?
 No action is needed. The upgrade was automatically implemented in all VTEX stores using Site Editor.
 
-If you continue to experience content loss after June 12, open a ticket with [VTEX Support](/en/support).
+If you continue to experience content loss after June 12, open a ticket with [VTEX Support](https://supporticket.vtex.com/support).
 

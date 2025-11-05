@@ -23,8 +23,8 @@ You will need to request the creation of a new trade policy only if you want to:
 - Offer a different product assortment on Google Shopping.
 - Sell products at different prices on Google Shopping.
 
-To [request additional trade policies](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), please open a ticket to our [Support](/en/support) by selecting Commercial and Create a trade policy.
+To [request additional trade policies](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), please open a ticket to our [Support](https://supporticket.vtex.com/support) by selecting Commercial and Create a trade policy.
 
-To [purchase additional commercial policies](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), simply request it via ticket in our [Support](/en/support) by selecting the **Commercial** option and the request type **Creation of Commercial Policy.**
+To [purchase additional commercial policies](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), simply request it via ticket in our [Support](https://supporticket.vtex.com/support) by selecting the **Commercial** option and the request type **Creation of Commercial Policy.**
 
 For each additional trade policy, a monthly fee is charged, whether it is used for integration with certified marketplaces, partners, external or VTEX.

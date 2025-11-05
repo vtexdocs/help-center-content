@@ -25,5 +25,5 @@ Também aprimoramos a arquitetura de armazenamento e a solução de segmentaçã
 ## O que precisa ser feito?
 Nenhuma ação é necessária. A atualização foi implementada automaticamente em todas as lojas VTEX que usam o Site Editor.
 
-Se a perda de conteúdo persistir após 12 de junho, abra um ticket para o [Suporte da VTEX](/pt/support).
+Se a perda de conteúdo persistir após 12 de junho, abra um ticket para o [Suporte da VTEX](https://supporticket.vtex.com/support).
 

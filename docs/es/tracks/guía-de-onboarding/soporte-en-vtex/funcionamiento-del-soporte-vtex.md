@@ -15,7 +15,7 @@ trackSlugEN: soporte-en-vtex
 order: 2
 ---
 
-El soporte VTEX se presta online y permite abrir tickets con distintos niveles de prioridad, en función de la región de operación de la tienda. La apertura de tickets se realiza a través de la [página de soporte](/es/support) y requiere [autenticación de la cuenta del usuario](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4EPwTXx5oFdSG1dA3zIchz#definir-roles-y-permisos-para-los-usuarios). Hay tres métodos de autenticación disponibles:
+El soporte VTEX se presta online y permite abrir tickets con distintos niveles de prioridad, en función de la región de operación de la tienda. La apertura de tickets se realiza a través de la [página de soporte](https://supporticket.vtex.com/support) y requiere [autenticación de la cuenta del usuario](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4EPwTXx5oFdSG1dA3zIchz#definir-roles-y-permisos-para-los-usuarios). Hay tres métodos de autenticación disponibles:
 
 - Token recibido en el email registrado en la tienda.
 - Inicio de sesión usando la cuenta de Google.

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact our [Support](/en/support).
+> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact our [Support](https://supporticket.vtex.com/support).
 
 In VTEX Admin, you can manage the import and export of image information using a spreadsheet, as detailed in the following sections:
 

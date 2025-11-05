@@ -32,7 +32,7 @@ To activate this feature, you will need to:
 
 ## 1. Install the Subscriptions module
 
-To install the Subscriptions module, open a request with [our Support](/en/support), indicate the name of your VTEX account, and select the **Technical** option.
+To install the Subscriptions module, open a request with [our Support](https://supporticket.vtex.com/support), indicate the name of your VTEX account, and select the **Technical** option.
 
 The request is expected to be answered within 24 hours, following [our service SLA](/en/tutorial/como-funciona-o-suporte-da-vtex--2eAT5EyOvaLoHdIWDVaxC3#support-plans).
 

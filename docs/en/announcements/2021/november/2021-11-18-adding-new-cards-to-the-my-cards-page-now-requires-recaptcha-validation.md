@@ -27,5 +27,5 @@ If your store uses our native UI on the [My Cards page](/en/tutorial/como-funcio
 
 Note that in order to test this validation on your store, you must access it from the public address (without the `myvtex` environment), using a common user profile, without store administrator or developer privileges.
 
-If your store contains any UI implementation that communicates directly with this [API endpoint](https://developers.vtex.com/vtex-developer-docs/changelog/improvements-my-cards-api-endpoint), please get in touch with our [support team](/en/support) to update your implementation accordingly.
+If your store contains any UI implementation that communicates directly with this [API endpoint](https://developers.vtex.com/vtex-developer-docs/changelog/improvements-my-cards-api-endpoint), please get in touch with our [support team](https://supporticket.vtex.com/support) to update your implementation accordingly.
 

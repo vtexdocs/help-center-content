@@ -23,4 +23,4 @@ Existe um limite na quantidade de promoções, taxas e cupons ativos:
 
 Somente as promoções, taxas ou cupons ativos são contabilizados no cálculo desse limite, ou seja, promoções, taxas ou cupons arquivados não são considerados.
 
-Se for necessário alterar algum desses limites, entre em contato com o nosso [Suporte](/pt/support) para analisarmos a viabilidade da mudança.
+Se for necessário alterar algum desses limites, entre em contato com o nosso [Suporte](https://supporticket.vtex.com/support) para analisarmos a viabilidade da mudança.

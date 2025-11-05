@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](/pt/support).
+> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://supporticket.vtex.com/support).
 
 A **Opções de envio** é uma página do Admin VTEX que permite configurar ofertas de entrega flexíveis e precisas durante a jornada de compra, como definir diferentes tipos de disponibilidade de entrega e de zonas geográficas, e controlar como e quando essas opções são exibidas para o cliente. 
 
