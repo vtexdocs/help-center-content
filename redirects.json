@@ -12728,6 +12728,10 @@
       {
         "from": "/en/tutorial/algoritmo-de-selecao-de-white-label-sellers--3MemNQ4pKkWCpMdzI27AHa",
         "to": "/en/tutorial/selecao-de-sellers-white-label"
+      },
+      {
+        "from": "/support",
+        "to": "https://supporticket.vtex.com/support"
       }
     ]
   }
