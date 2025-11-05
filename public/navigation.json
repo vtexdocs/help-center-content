@@ -57258,12 +57258,12 @@
               "name": {
                 "en": "Order with change itens cannot be invoiced referencing the items",
                 "es": "Los pedidos con itens de modificación no pueden facturarse haciendo referencia a los artículos",
-                "pt": "Pedidos com itens de modificação não podem ser faturados com referência aos itens"
+                "pt": "O pedido com itens de modificação não pode ser faturado com referência aos itens"
               },
               "slug": {
                 "en": "order-with-change-itens-cannot-be-invoiced-referencing-the-items",
                 "es": "los-pedidos-con-itens-de-modificacion-no-pueden-facturarse-haciendo-referencia-a-los-articulos",
-                "pt": "pedidos-com-itens-de-modificacao-nao-podem-ser-faturados-com-referencia-aos-itens"
+                "pt": "o-pedido-com-itens-de-modificacao-nao-pode-ser-faturado-com-referencia-aos-itens"
               },
               "origin": "",
               "type": "markdown",
@@ -61032,6 +61032,21 @@
                 "en": "transaction-stuck-in-a-status-prior-to-the-state-that-it-should-be",
                 "es": "transaccion-atascada-en-un-estado-anterior-al-que-deberia-estar",
                 "pt": "transacao-presa-em-um-status-anterior-ao-estado-em-que-deveria-estar"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transaction stuck in Approved while payment remains Settling when using partial settlements",
+                "es": "Transacción atascada en Aprobado mientras el pago permanece Liquidando cuando se utilizan liquidaciones parciales.",
+                "pt": "Transação presa em Aprovado enquanto o pagamento permanece Liquidado ao usar liquidações parciais"
+              },
+              "slug": {
+                "en": "transaction-stuck-in-approved-while-payment-remains-settling-when-using-partial-settlements",
+                "es": "transaccion-atascada-en-aprobado-mientras-el-pago-permanece-liquidando-cuando-se-utilizan-liquidaciones-parciales",
+                "pt": "transacao-presa-em-aprovado-enquanto-o-pagamento-permanece-liquidado-ao-usar-liquidacoes-parciais"
               },
               "origin": "",
               "type": "markdown",
@@ -64917,6 +64932,21 @@
             },
             {
               "name": {
+                "en": "Sitemap returns \"Error fetching sitemap data\"",
+                "es": "El mapa del sitio devuelve \"Error al obtener los datos del mapa del sitio\".",
+                "pt": "O Sitemap retorna \"Error fetching sitemap data\" (Erro ao buscar dados do mapa do site)"
+              },
+              "slug": {
+                "en": "sitemap-returns-error-fetching-sitemap-data",
+                "es": "el-mapa-del-sitio-devuelve-error-al-obtener-los-datos-del-mapa-del-sitio",
+                "pt": "o-sitemap-retorna-error-fetching-sitemap-data-erro-ao-buscar-dados-do-mapa-do-site"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Some unexpected behavior in MasterData",
                 "es": "Comportamiento inesperado en MasterData",
                 "pt": "Alguns comportamentos inesperados no MasterData"
@@ -66306,6 +66336,21 @@
                 "en": "sliderlayout-bug-when-using-prop-infinite-as-always-on-mobile",
                 "es": "sliderlayout-bug-when-using-prop-infinite-as-always-on-mobile",
                 "pt": "erro-no-layout-do-controle-deslizante-ao-usar-prop-infinite-como-sempre-no-celular"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Some custom pages are not returning in Custom Routes API causing missing entries in the sitemap",
+                "es": "Algunas páginas personalizadas no aparecen en la API de rutas personalizadas, por lo que faltan entradas en el mapa del sitio.",
+                "pt": "Algumas páginas personalizadas não estão retornando na API de rotas personalizadas, causando a falta de entradas no mapa do site."
+              },
+              "slug": {
+                "en": "some-custom-pages-are-not-returning-in-custom-routes-api-causing-missing-entries-in-the-sitemap",
+                "es": "algunas-paginas-personalizadas-no-aparecen-en-la-api-de-rutas-personalizadas-por-lo-que-faltan-entradas-en-el-mapa-del-sitio",
+                "pt": "algumas-paginas-personalizadas-nao-estao-retornando-na-api-de-rotas-personalizadas-causando-a-falta-de-entradas-no-mapa-do-site"
               },
               "origin": "",
               "type": "markdown",
