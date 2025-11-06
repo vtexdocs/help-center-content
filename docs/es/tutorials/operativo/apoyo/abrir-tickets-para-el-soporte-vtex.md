@@ -121,7 +121,7 @@ Para solicitar soporte financiero o comercial, sigue los pasos a continuación y
 ### 1. Inicia sesión en Soporte VTEX
 La primera etapa es autenticar tu acceso al Soporte VTEX, siguiendo los pasos a continuación:
 
-1. Accede al [Soporte VTEX](https://help.vtex.com/es/support).
+1. Accede al [Soporte VTEX](https://supporticket.vtex.com/support).
 2. Selecciona una de las tres opciones disponibles para autenticación:
 
    - Acceso mediante token, enviado al email registrado en tu tienda.

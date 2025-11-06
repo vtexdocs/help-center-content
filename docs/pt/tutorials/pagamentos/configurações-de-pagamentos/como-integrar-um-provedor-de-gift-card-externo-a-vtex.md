@@ -28,5 +28,5 @@ Por meio do [Giftcard Provider Protocol](https://developers.vtex.com/docs/api-re
 Para mais informações sobre o sistema de gift card na VTEX, acesse [Giftcard Hub](https://developers.vtex.com/docs/api-reference/giftcard-hub-api).
 
 ## Envio de informações dos endpoints
-Após a conclusão do middleware, o provedor deve abrir um [ticket](https://help.vtex.com/pt/support) na VTEX informando os endpoints a serem utilizados para que os clientes realizem transações de pagamento utilizando o seu sistema de gift card.
+Após a conclusão do middleware, o provedor deve abrir um [ticket](https://supporticket.vtex.com/support) na VTEX informando os endpoints a serem utilizados para que os clientes realizem transações de pagamento utilizando o seu sistema de gift card.
 

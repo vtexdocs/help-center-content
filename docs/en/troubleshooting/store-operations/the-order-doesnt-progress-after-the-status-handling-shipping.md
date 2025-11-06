@@ -54,4 +54,4 @@ To ensure that the order is invoiced correctly, the following requirements must 
 - When you need to issue more than one invoice for an order, their combined total must equal the order's total amount.
 - The total order amount will be updated if [items are changed or removed](/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
-> ⚠️ If the order remains in the `Invoiced` status after manually adding invoices, open a ticket with [Suporte VTEX](https://help.vtex.com/en/support) for further assistance.
+> ⚠️ If the order remains in the `Invoiced` status after manually adding invoices, open a ticket with [Suporte VTEX](https://supporticket.vtex.com/support) for further assistance.

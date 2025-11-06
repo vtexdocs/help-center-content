@@ -94,7 +94,7 @@ Existen varios tipos de configuración posibles para los precios y medios de pag
 
 ## Solicitar la creación de una cuenta franquicia
 
-Para abrir una cuenta franquicia, póngase en contacto con nuestro equipo de Growth Operations por el [*Soporte*](https://help.vtex.com/es/support) seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Entorno White Label`.
+Para abrir una cuenta franquicia, póngase en contacto con nuestro equipo de Growth Operations por el [*Soporte*](https://supporticket.vtex.com/support) seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Entorno White Label`.
 
 La creación de una cuenta franquicia tiene un costo previsto en su contrato de OMS. Si el costo no está previsto en su contrato, añada esta observación a su solicitud para que se añada una adenda al contrato. 
 

@@ -29,7 +29,7 @@ Para utilizar el mismo catálogo en más de una política comercial, acceda a la
 
 ## Contratar una política comercial
 
-Para [contratar políticas comerciales adicionales](/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), póngase en contacto con nuestro equipo de Growth Operations en *[Soporte](https://help.vtex.com/es/support)* seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Política Comercial`. Al solicitar la creación de una política comercial a través de un ticket, tenga en cuenta un tiempo de respuesta de hasta tres días hábiles.
+Para [contratar políticas comerciales adicionales](/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), póngase en contacto con nuestro equipo de Growth Operations en *[Soporte](https://supporticket.vtex.com/support)* seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Política Comercial`. Al solicitar la creación de una política comercial a través de un ticket, tenga en cuenta un tiempo de respuesta de hasta tres días hábiles.
 
 > ℹ️ Se cobra una tarifa mensual por cada política comercial adicional, independientemente de si se utiliza para la integración con marketplaces certificados, partners, externos o VTEX.
 

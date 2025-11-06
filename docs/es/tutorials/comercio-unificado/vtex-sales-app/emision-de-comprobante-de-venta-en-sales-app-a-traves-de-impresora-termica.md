@@ -47,7 +47,7 @@ Para imprimir el comprobante de venta desde **Sales App**, sigue los pasos a con
 
 3. En la aplicación **Sales App**, en la pantalla final del pedido o después de seleccionar un pedido en la sección **Pedidos**, haz clic en `Imprimir pedido`.
 
-  > ❗ La primera vez que se utiliza la funcionalidad se produce un error en este paso. Cierra la aplicación y sigue las instrucciones desde el comienzo. Si el error continúa, ponte en contacto con nuestro [Soporte](https://help.vtex.com/es/support).
+  > ❗ La primera vez que se utiliza la funcionalidad se produce un error en este paso. Cierra la aplicación y sigue las instrucciones desde el comienzo. Si el error continúa, ponte en contacto con nuestro [Soporte](https://supporticket.vtex.com/support).
 
 4. Selecciona la impresora térmica deseada y la impresión se realizará inmediatamente.
 

@@ -68,13 +68,13 @@ Segue um exemplo de como uma planilha pode ser montada.
 
 ## 4. Abrir chamado no Suporte VTEX
 
-Para migrar os anúncios que foram mapeados na etapa anterior, será necessário abrir um chamado no [Suporte VTEX](https://help.vtex.com/pt/support) com o assunto **“Mercado Livre - Migração de anúncios”** e anexar o arquivo da [planilha de migração preenchida](#2-fazer-download-da-planilha-de-migracao).
+Para migrar os anúncios que foram mapeados na etapa anterior, será necessário abrir um chamado no [Suporte VTEX](https://supporticket.vtex.com/support) com o assunto **“Mercado Livre - Migração de anúncios”** e anexar o arquivo da [planilha de migração preenchida](#2-fazer-download-da-planilha-de-migracao).
 
 Recomendamos que a migração seja feita para todos os produtos de uma vez. Caso o anúncio de algum produto não esteja mapeado, a integração não irá fazer a migração dele. 
 
 Apenas os anúncios mapeados na planilha de migração serão considerados, ou seja, mesmo que o anúncio exista no Mercado Livre, se ele não for mapeado na planilha, a integração não conseguirá atualizar as informações de produto, preço, estoque e nem integrar os pedidos feitos no Mercado Livre.
 
-Se houver mais de um anúncio de um mesmo produto no Mercado Livre, cada anúncio com uma variação e se desejar juntá-los, sugerimos fortemente manter os anúncios separados. Caso deseje reuni-los mesmo assim, recomendamos entrar em contato com o time de CX da VTEX pelo [Suporte VTEX](https://help.vtex.com/pt/support).
+Se houver mais de um anúncio de um mesmo produto no Mercado Livre, cada anúncio com uma variação e se desejar juntá-los, sugerimos fortemente manter os anúncios separados. Caso deseje reuni-los mesmo assim, recomendamos entrar em contato com o time de CX da VTEX pelo [Suporte VTEX](https://supporticket.vtex.com/support).
 
 ## 5. Aguardar a confirmação da migração dos anúncios
 

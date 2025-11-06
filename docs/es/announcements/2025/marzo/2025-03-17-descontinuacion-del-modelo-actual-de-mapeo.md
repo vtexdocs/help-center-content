@@ -32,5 +32,5 @@ A partir de hoy, 17 de marzo de 2025, el módulo **[Amazon Listing](/es/tutorial
 - Monitorear la sincronización de datos y verificar el status de los SKUs enviados.  
 - Crear plantillas de productos enviados.  
 
-Si tienes dudas o comentarios sobre **Amazon Listing**, ponte en contacto con nuestro equipo de [Soporte](https://help.vtex.com/es/support). Para saber más sobre el módulo, accede a la documentación [Amazon Listing](/es/tutorial/amazon-listing--5HIhbnYzJWkl2yM0o72WrL).
+Si tienes dudas o comentarios sobre **Amazon Listing**, ponte en contacto con nuestro equipo de [Soporte](https://supporticket.vtex.com/support). Para saber más sobre el módulo, accede a la documentación [Amazon Listing](/es/tutorial/amazon-listing--5HIhbnYzJWkl2yM0o72WrL).
 

@@ -31,7 +31,7 @@ A VTEX Community conta com moderadores dedicados para acompanhar as publicaçõe
 
 Ao precisar de suporte, acesse [VTEX Community](https://community.vtex.com/), realize o login no portal e  obtenha a resposta da nossa equipe de especialistas do ecossistema VTEX.
 
-A maioria dos casos será tratada através da VTEX Community, porém, ainda existirão situações em que o suporte será realizado via ticket. Se o seu caso demandar um tratamento de [urgência](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9?&utm_source=autocomplete), é indicada a abertura de um ticket no [Suporte](https://help.vtex.com/pt/support).
+A maioria dos casos será tratada através da VTEX Community, porém, ainda existirão situações em que o suporte será realizado via ticket. Se o seu caso demandar um tratamento de [urgência](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9?&utm_source=autocomplete), é indicada a abertura de um ticket no [Suporte](https://supporticket.vtex.com/support).
 
 Sugerimos também que, antes de publicar uma pergunta, os usuários realizem uma pesquisa na comunidade para verificar se a resposta já está disponível. Caso não encontrem a solução desejada, podem criar um novo tópico para receber ajuda da comunidade.
 

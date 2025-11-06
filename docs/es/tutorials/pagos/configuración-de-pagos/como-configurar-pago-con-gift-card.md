@@ -29,4 +29,4 @@ Para obtener más información sobre el sistema de tarjetas de regalo en VTEX, v
 
 ## Envío de información del endpoint 
 
-Luego de crear el middleware, el proveedor debe abrir un [ticket](https://help.vtex.com/es/support) en VTEX informando los endpoints que utilizarán los clientes para realizar transacciones de pago utilizando su sistema de tarjetas de regalo.
+Luego de crear el middleware, el proveedor debe abrir un [ticket](https://supporticket.vtex.com/support) en VTEX informando los endpoints que utilizarán los clientes para realizar transacciones de pago utilizando su sistema de tarjetas de regalo.

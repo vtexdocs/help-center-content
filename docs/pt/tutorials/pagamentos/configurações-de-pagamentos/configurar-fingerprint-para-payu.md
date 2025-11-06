@@ -60,7 +60,7 @@ Neste artigo, explicaremos como associar o recurso Device Fingerprint √† afilia√
 
        console.log("fingerprint: "+window.vtex.deviceFingerprint);
 
-       document.getElementById('gtm').innerHTML = '<p style="background:url(https://maf.pagosonline.net/ws/fp?id='+deviceSessionId+'80200)">'+'<img src="https://maf.pagosonline.net/ws/fp/clear.png?id='+deviceSessionId+'80200">';
+       document.getElementById('gtm').innerHTML = '<p style="background:url(https://maf.pagosonline.net/ws/fp?id='+deviceSessionId+'80200)">'+'<img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/configurar-fingerprint-para-payu_1.png"+deviceSessionId+'80200">';
        document.getElementById('maf').innerHTML = '<object type="application/x-shockwave-flash" data="https://maf.pagosonline.net/ws/fp/fp.swf?id='+deviceSessionId+'80200" width="1" height="1" id="thm_fp"><param name="movie" value="https://maf.pagosonline.net/ws/fp/fp.swf?id='+deviceSessionId+'80200" /></object>';
 
        var pol_script = document.createElement('script');

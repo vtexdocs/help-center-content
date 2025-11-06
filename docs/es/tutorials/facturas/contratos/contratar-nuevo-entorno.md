@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-Para contratar un nuevo entorno VTEX, ponte en contacto con nuestro [Soporte](https://help.vtex.com/es/support) seleccionando la opción Comercial y el tipo de ticket `Crear entorno adicional`. Para saber más, consulta el artículo [Abrir tickets con el Soporte VTEX](/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+Para contratar un nuevo entorno VTEX, ponte en contacto con nuestro [Soporte](https://supporticket.vtex.com/support) seleccionando la opción Comercial y el tipo de ticket `Crear entorno adicional`. Para saber más, consulta el artículo [Abrir tickets con el Soporte VTEX](/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
 
 La creación de un nuevo entorno puede generar costos adicionales, según lo estipulado en tu contrato. En caso de que ese costo no esté previsto, indícalo en el ticket para que se incluya una adenda al contrato.
 

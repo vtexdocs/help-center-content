@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6iTRZiMeCGXYiO2ckABFZi
 ---
 
-> ℹ️ This module is in Beta, which means we are working on improving it. If you have any questions, please contact our [Support team](https://help.vtex.com/en/support).
+> ℹ️ This module is in Beta, which means we are working on improving it. If you have any questions, please contact our [Support team](https://supporticket.vtex.com/support).
 
 Creating promotions is a great strategy to attract more customers to your ecommerce website. When configuring them, you must ensure that the discounts applied will produce the expected results since mistakes during the promotion creation can lead to revenue losses.
 

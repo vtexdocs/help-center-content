@@ -23,7 +23,7 @@ VTEX uses **Cloudfront** as CDN provider in the stores. Your store's domain must
 
 So, if you have the store domain registered on the **Cloudfront** platform, delete it before pointing the DNS to VTEX.
 
-> ⚠️ If you are unable to delete your store's domain registration on the **Cloudfront** platform, please contact [VTEX support](https://help.vtex.com/en/support) to explain the situation. VTEX will help you ensure your store is running smoothly at go-live.
+> ⚠️ If you are unable to delete your store's domain registration on the **Cloudfront** platform, please contact [VTEX support](https://supporticket.vtex.com/support) to explain the situation. VTEX will help you ensure your store is running smoothly at go-live.
 
 ## Configuring CAA records
 

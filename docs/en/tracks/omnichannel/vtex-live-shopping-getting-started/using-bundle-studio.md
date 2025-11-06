@@ -3,8 +3,8 @@ title: 'Using Bundle studio'
 id: 3GKzrP9nkyRwpUyyeYUaeX
 status: PUBLISHED
 createdAt: 2025-07-23T18:06:49.325Z
-updatedAt: 2025-09-15T21:35:12.589Z
-publishedAt: 2025-09-15T21:35:12.589Z
+updatedAt: 2025-11-03T23:15:39.786Z
+publishedAt: 2025-11-03T23:15:39.786Z
 firstPublishedAt: 2025-07-28T15:08:19.382Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-getting-started
 order: 8
 ---
 
-> ℹ️ If you want to use a studio other than Bundle, check [Using external studio](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/Dw0QdKI0aGjmyD5Z6z5JC).
+> ℹ️ If you want to use a studio other than Bundle, check [Using external studios](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/Dw0QdKI0aGjmyD5Z6z5JC).
 
 The VTEX broadcast studio is called **Bundle**. In this article, you’ll learn how to configure all the necessary settings in our native studio solution.
 
@@ -25,20 +25,49 @@ To access the studio in the VTEX Admin and start transmitting a live stream, go 
 
 ![article_8_streaming_studio_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_1.png)
 
- > ℹ️ To enable the fields, the event has to be [turned on](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) to change it to `Live` status.
+ > ℹ️ To enable the fields, the event has to be [turned on](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) and set to `Live`.
 
 The settings in this section do the following:
 
-* **Copy invitation:** When you click this button, a link is generated and copied, which you can send to influencers or hosts. Once they open the link, they’ll be able to turn their camera and microphone on or off, as well as view the chat within the studio. However, they won’t have access to any other actions.
+* **Copy invitation:** When you click this button, a link is generated and copied, which you can send to influencers or hosts. Once they open the link and an [administrator allows them to enter the Studio](#administrator-approval-for-guests-in-the-studio), they’ll be able to turn their camera and microphone on or off and view the chat within the studio. However, as explained in the [My Studio](#my-studio) section, they won’t have access to other actions.
 * **Access:** Redirects to the **Device settings** page in Bundle studio, where you can manage cameras, upload graphic assets, start/end the transmission, among other actions. This configuration is restricted to the broadcast studio administrators only.
 
-Both hosts using the link generated with the `Copy invitation` button and administrators using the `Access` button are redirected to the Bundle **Device settings** page, where they can select the camera and microphone they want to use and run tests to ensure everything is working properly.
+Administrators using the `Access` button are redirected to the Bundle **Device settings** page, where they can select the camera and microphone they want to use and run tests to ensure everything is working properly.
+
+Using the invitation link, hosts and guests will be able to join the Studio after their access is approved by an administrator.
+
+## Administrator approval for guests in the Studio
+
+For external people (such as influencers) to access the Studio, they must be approved by an administrator. That measure enhances security for the store and allows the merchant to have greater control over their event.
+
+For allowing an external person access to Bundle, the steps are the following:
+
+1. The administrator shares the [Streaming Studio](#streaming-studio) invitation link with the guest.
+2. The guest uses the link to ask to join the studio.
+3. In Bundle, the administrator sees the guest waiting for approval in the **My Studio** page:
+
+  ![bundle-administrator-approval-flow-image-1_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_2.png)
+
+4. The Administrator can choose one of the options:
+    - `Approve`: Allows the guest to join the Studio.
+    - `Deny`: Denies the guest’s request to join.
+5. After the action, a confirmation message appears, respectively:
+    - {Guest name} has been approved.
+    - {Guest name} has been denied.
+
+If the guest access is denied and they believe it was a mistake, they can immediately click `Try again` to reattempt:
+
+![bundle-administrator-approval-flow-image-2_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_3.png)
+
+However, if their request is denied a second time, they must wait five minutes before trying again. They will see a countdown on the page:
+
+![bundle-administrator-approval-flow-image-3_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_4.png)
 
 ## My Studio
 
 On the **Device settings** page, when you click `Enter the studio`, you’re redirected to the **My Studio** page, as shown in the example below in portrait [layout type](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-the-style):
 
-![article_8_my_studio_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_2.png)
+![article_8_my_studio_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_5.png)
 
 > ⚠️ Before transmitting from Bundle, you must select the [layout type](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-the-style) you want for the screen. Once you are in the **My Studio** page, you can't change the event layout anymore. To change it, you would need to create a new event.
 
@@ -52,7 +81,7 @@ The left navigation menu has the following sections (administrators only, except
 
 In the **My Studio** menu option, numbers 1 through 5 indicate the settings that can be used by guests and administrators, while numbers 6 through 9 are reserved for administrators only:
 
-![article_8_my_studio_woman_streaming_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_3.png)
+![article_8_my_studio_woman_streaming_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_6.png)
 
 ### Guest and administrator settings
 
@@ -60,7 +89,7 @@ In the **My Studio** menu option, numbers 1 through 5 indicate the settings that
 * **2. Activate/deactivate microphone:** Controls your own microphone settings.
 * **3. Activate/deactivate camera:** Turns your own camera on and off.
 * **4. Share screen:** Allows the host (including guests/influencers) to share their screen and choose the window or screen they want to display.
-* **5. End meeting:** Opens two options to end the broadcast — one that ends the event for everyone and removes all participants from the studio, and another where only the user leaves the meeting. Learn more in the [Ending the transmission](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/69PX90vv4oDWQ34nnBkiQt#ending-the-transmission) section.
+* **5. End meeting:** Opens two options to end the broadcast —  one that ends the event for everyone and removes all participants from the studio, and another where only the user leaves the meeting. Learn more in the [Ending the transmission](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/69PX90vv4oDWQ34nnBkiQt#ending-the-transmission) section.
 
 ### Administrator-only settings
 
@@ -90,10 +119,10 @@ The asset types are the following:
 
 Also, there’s a <i class="fas fa-toggle-off" aria-hidden="true"></i> **Show display names** option. When you log into Bundle, you complete the **Name** field. The name can be displayed on the live stream by enabling this setting.
 
-The name will show in white letters against a dark background and can’t be changed. However, you can customize the initial stripe color, as it’s the same as **Banners > Theme Color**. Creating a banner isn’t necessary to activate this option, you only have to define the theme color, which is black by default. The image below is an example of a pink **Theme Color**:
+The name will show in white letters against a dark background and can’t be changed. However, you can customize the initial stripe color, as it’s the same as  **Banners > Theme Color**. Creating a banner isn’t necessary to activate this option, you only have to define the theme color, which is black by default. The image below is an example of a pink **Theme Color**:
 
 <p align="center">
-  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_4.png" alt="article_8_asset_types_EN" width="200" height="30">
+  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_7.png" alt="article_8_asset_types_EN" width="200" height="30">
 
 
 ### Asset dimensions

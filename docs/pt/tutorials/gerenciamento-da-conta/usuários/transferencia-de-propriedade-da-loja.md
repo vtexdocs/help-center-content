@@ -68,7 +68,7 @@ Se o usuário Titular não estiver disponível para realizar a transferência de
 
 ### Brasil
 
-Para mudar o usuário Titular, entre em contato com o nosso time de Growth Operations pelo [Suporte](https://help.vtex.com/pt/support) selecionando a opção **Comercial** e o tipo de solicitação `Mudança de Usuário Titular`. Será necessário preencher os campos previstos e enviar uma cópia do contrato social.
+Para mudar o usuário Titular, entre em contato com o nosso time de Growth Operations pelo [Suporte](https://supporticket.vtex.com/support) selecionando a opção **Comercial** e o tipo de solicitação `Mudança de Usuário Titular`. Será necessário preencher os campos previstos e enviar uma cópia do contrato social.
 
 Caso o representante informado no formulário não esteja presente no contrato social, deve ser encaminhada uma procuração registrada em cartório, informando que o representante no formulário tem autorização para assinar.
 
@@ -76,7 +76,7 @@ Com estas informações, o time de Growth Operations irá realizar um aditivo em
 
 ### Outros países
 
-Para mudar o usuário Titular, entre em contato com o nosso time de Growth Operations pelo [Suporte](https://help.vtex.com/pt/support) selecionando a opção **Comercial** e o tipo de solicitação `Mudança de Usuário Titular`. Será necessário preencher os campos previstos e enviar uma cópia do contrato social.
+Para mudar o usuário Titular, entre em contato com o nosso time de Growth Operations pelo [Suporte](https://supporticket.vtex.com/support) selecionando a opção **Comercial** e o tipo de solicitação `Mudança de Usuário Titular`. Será necessário preencher os campos previstos e enviar uma cópia do contrato social.
 
 Caso o representante informado no formulário não esteja presente no contrato social, deve ser encaminhada uma cópia do contrato social.
 
