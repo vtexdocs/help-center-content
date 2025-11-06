@@ -101,9 +101,7 @@ function processMarkdownFileLegacySlug(filePath) {
         if (contentType === 'tutorials') {
             contentType = 'tutorial';
             contentTypeNew = 'docs/tutorials';
-        }
-
-        if (contentType === 'tracks') {
+        } else if (contentType === 'tracks') {
             contentTypeNew = 'docs/' + contentType;
         } else {
             contentTypeNew = contentType;
