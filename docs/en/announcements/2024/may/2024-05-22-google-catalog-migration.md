@@ -29,7 +29,7 @@ Catalog migration maps and matches products in the VTEX catalog with the existin
 
 ## What needs to be done?
 
-To proceed with the migration, contact [VTEX Support](https://help.vtex.com/en/support). However, you must first complete the following two requirements:
+To proceed with the migration, contact [VTEX Support](https://supporticket.vtex.com/support). However, you must first complete the following two requirements:
 
 1. Create a new trade policy without any associated products.
 2. Set up the integration with Google Shopping using the trade policy created in the previous step.

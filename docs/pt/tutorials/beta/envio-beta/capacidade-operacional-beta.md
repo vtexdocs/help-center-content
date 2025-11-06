@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://help.vtex.com/pt/support).
+> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://supporticket.vtex.com/support).
 
 > ⚠️ O requisito para usar a funcionalidade é ter [contas franquia](/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) associadas à [conta principal](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex).
 

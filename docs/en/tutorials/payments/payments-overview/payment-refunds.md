@@ -34,7 +34,7 @@ For purchases made using two different payment methods where a partial refund is
 
 - __Credit card first (card-first)__: Determines that the refund will be made from the credit card balance first, followed by the other payment method used in the purchase, such as gift cards. This rule is subject to [specific payment settlement scenarios](#payment-settlement-scenarios).
 
-> ℹ️ VTEX stores are configured by default to use the **Lowest settled amount** rule. If you want to switch to the **Credit card first rule**, submit a request by opening a ticket with [VTEX Support](https://help.vtex.com/en/support).
+> ℹ️ VTEX stores are configured by default to use the **Lowest settled amount** rule. If you want to switch to the **Credit card first rule**, submit a request by opening a ticket with [VTEX Support](https://supporticket.vtex.com/support).
 
 ### Payment settlement scenarios
 

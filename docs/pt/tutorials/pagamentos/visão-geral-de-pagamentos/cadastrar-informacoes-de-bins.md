@@ -25,7 +25,7 @@ Nestas situações, a VTEX precisa ser notificada para permitir que os novos car
 
 ## Solicitar a inclusão de BINs
 
-Para adicionar um novo BIN ou atualizar informações de um BIN já existente na VTEX, é necessário abrir um ticket no [Suporte VTEX](https://help.vtex.com/pt/support).
+Para adicionar um novo BIN ou atualizar informações de um BIN já existente na VTEX, é necessário abrir um ticket no [Suporte VTEX](https://supporticket.vtex.com/support).
 
 > ⚠️ Para garantir a segurança e a legitimidade das alterações solicitadas, é obrigatório o envio de uma comprovação formal da instituição financeira atestando a propriedade dos BINs informados. Solicitações sem essa validação não poderão ser atendidas.
 

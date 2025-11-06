@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-> ℹ️ Esta funcionalidad está en fase de pruebas (beta cerrada). Si estás interesado en participar, abre un ticket con el equipo de [ Soporte de VTEX ](https://help.vtex.com/es/support).
+> ℹ️ Esta funcionalidad está en fase de pruebas (beta cerrada). Si estás interesado en participar, abre un ticket con el equipo de [ Soporte de VTEX ](https://supporticket.vtex.com/support).
 
 El módulo Promociones del Admin VTEX permite establecer un presupuesto para limitar el total de descuentos concedidos en una promoción. Esta funcionalidad ayuda a controlar el gasto en beneficios, garantizando que los descuentos no superen un límite previamente definido.
 

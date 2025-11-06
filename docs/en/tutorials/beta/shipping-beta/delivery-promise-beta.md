@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact [our Support](https://help.vtex.com/en/support).
+> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact [our Support](https://supporticket.vtex.com/support).
 
 **Delivery Promise (Beta)** is VTEX's new solution that allows customers to view only the products they can buy in their shopping experience, considering both the product availability and valid shipping methods for their delivery address.
 
@@ -72,12 +72,12 @@ For [omnichannel](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9
 To join the current phase of **Delivery Promise (Beta)**, you must meet the following conditions:
 
 * <i class="far fa-check-circle"></i> **Requirement:** Use [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG).
-* <i class="far fa-check-circle"></i> **Requirement:** Have implemented the [Store Framework](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework) frontend.
+* <i class="far fa-check-circle"></i> **Requirement:** Have a frontend implementation with [Store Framework](/en/docs/tracks/frontend-implementation#store-framework), [FastStore](/en/docs/tracks/frontend-implementation#faststore) or headless.
 
 ### Learn more
 
 * [Delivery Promise: FAQ](/en/tutorial/delivery-promise-faq--2frHHK5uPsQrLK5XbYHALN)
 * [Setting up Delivery Promise components (Beta)](https://developers.vtex.com/docs/guides/setting-up-delivery-promise-components)
 * [Delivery promise for headless stores (Beta)](https://developers.vtex.com/docs/guides/delivery-promise-for-headless-stores)
-* [Delivery Promise](https://developers.vtex.com/docs/guides/faststore/features-delivery-promise)
+* [Delivery Promise for FastStore](https://developers.vtex.com/docs/guides/faststore/features-delivery-promise)
 

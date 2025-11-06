@@ -28,7 +28,7 @@ Learn how you can configure trade policies in the following modules when your st
 - [Shipping strategy](#shipping-strategy)  
 - [Integrations](#integrations)  
 
-To [request additional trade policies](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), contact our Growth Operations team through *[Support](https://help.vtex.com/en/support)* by selecting **Commercial** and `Create a trade policy`.
+To [request additional trade policies](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), contact our Growth Operations team through *[Support](https://supporticket.vtex.com/support)* by selecting **Commercial** and `Create a trade policy`.
 
 Requesting additional trade policies to integrate with [native connectors](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex), [certified connectors](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-certified-connector-partner), or other VTEX stores is free of charge.
 

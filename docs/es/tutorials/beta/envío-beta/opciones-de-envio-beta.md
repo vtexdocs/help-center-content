@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-> ℹ️ Esta funcionalidad se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarla. Si tienes alguna duda, ponte en contacto con [nuestro Soporte](https://help.vtex.com/es/support).
+> ℹ️ Esta funcionalidad se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarla. Si tienes alguna duda, ponte en contacto con [nuestro Soporte](https://supporticket.vtex.com/support).
 
 La página **Opciones de envío** del Admin VTEX permite configurar ofertas de envío flexibles y precisas durante la jornada de compra, tales como diferentes tipos de disponibilidad de entrega y zonas geográficas, y también cómo se muestran a los clientes.
 

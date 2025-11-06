@@ -19,7 +19,7 @@ order: 2
 
 O primeiro passo para integrar sua loja VTEX à Livelo é ter as credenciais **AppKey** e **AppToken**, ambas são utilizadas para validar sua integração com o Marketplace.
 
-> ❗ Para obter as suas credenciais e iniciar a integração, entre em contato através com o time de [suporte da VTEX](https://help.vtex.com/pt/support).
+> ❗ Para obter as suas credenciais e iniciar a integração, entre em contato através com o time de [suporte da VTEX](https://supporticket.vtex.com/support).
 
 Após solicitar as credenciais, o seller pode seguir com as [Configurações da plataforma VTEX](/pt/tracks/integracao-livelo--4ZSHEiuTkh8HR9ubJQj8BP/HgIbZEzbPr8FQid5MXURQ#conguracoes-na-plataforma-vtex) e configuração da [Regra de divergência.](/pt/tracks/integracao-livelo--4ZSHEiuTkh8HR9ubJQj8BP/4kocvdsHiLcLLcX6eQIVmD)
 
@@ -41,6 +41,6 @@ Só será necessário [conﬁgurar uma política comercial para Marketplace](/pt
 - Conﬁgurar outras condições de pagamento.  
 - Deﬁnir uma [estratégia de envio](/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) diferente.    
 
-Para [contratar políticas comerciais adicionais](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta preencher o [Formulário de liberação de Política Comercial](https://docs.google.com/forms/d/e/1FAIpQLSe9qCGB_KM_xsV5e9uNe06JE8tMZrWcv6EuHUOmqTiM8oRW7w/viewform). Em caso de dúvidas, entre em contato com o nosso time de Growth Operations em [*Suporte*](https://help.vtex.com/pt/support), selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.  
+Para [contratar políticas comerciais adicionais](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta preencher o [Formulário de liberação de Política Comercial](https://docs.google.com/forms/d/e/1FAIpQLSe9qCGB_KM_xsV5e9uNe06JE8tMZrWcv6EuHUOmqTiM8oRW7w/viewform). Em caso de dúvidas, entre em contato com o nosso time de Growth Operations em [*Suporte*](https://supporticket.vtex.com/support), selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.  
 
 Para cada política comercial adicional, é cobrado um valor mensal, seja ela utilizada para integração com marketplaces certificados, parceiros, externos ou VTEX. 

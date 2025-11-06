@@ -76,5 +76,5 @@ Se a conexão ainda for recusada:
 - Verifique se a configuração foi aplicada ao serviço correto em **SQL Server Network Configuration**.  
 - Teste se, em alguma versão listada no campo `SQL Native Client` (não necessariamente 10.0), a subopção `VIA` está com o status **Enabled**.
 
-![](https://cdn.elev.io/file/uploads/5G0ie0odcvxxzlQJCL8hk63Tz97zk9dh4tLJhVkC1lk/9ZNS6_j3_Fx3R7-6XkqoQUsYqJ9DUXqx4PAEEs3WrN4/doc7%20(1)-ZPw.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/atualiza%C3%A7%C3%A3o-de-vendas-com-pdv/erp/corrigir-erro-conexao-recusada-no-ip-ou-porta-integrador-indeva_1.png)-ZPw.png)
 

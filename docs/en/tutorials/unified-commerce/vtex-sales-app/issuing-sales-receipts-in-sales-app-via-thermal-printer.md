@@ -47,7 +47,7 @@ To print the sales receipt using the **Sales App**, follow the steps below:
 
 3. In **Sales App**, on the final order screen or after selecting an order in the **Orders** section, click `Print order`.
 
-  > ❗ The first time you use this feature, an error may occur at this step. Close the app and follow the instructions from the beginning. If the error persists, contact our [Support team](https://help.vtex.com/en/support).
+  > ❗ The first time you use this feature, an error may occur at this step. Close the app and follow the instructions from the beginning. If the error persists, contact our [Support team](https://supporticket.vtex.com/support).
 
 4. Select the desired thermal printer, and the printing will start immediately.
 

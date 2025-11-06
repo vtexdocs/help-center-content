@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact [our Support](https://help.vtex.com/en/support).
+> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact [our Support](https://supporticket.vtex.com/support).
 
 **Delivery Options** is a page in the VTEX Admin that allows you to configure flexible and accurate delivery options during the buying journey, such as defining different types of delivery availability and geographic zones, and controlling how and when these options are displayed to the customer.
 

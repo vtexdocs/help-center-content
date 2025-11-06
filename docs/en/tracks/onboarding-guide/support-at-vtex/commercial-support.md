@@ -31,6 +31,6 @@ To decide whether to [request additional trade policies](/en/tutorial/requesting
 
 ## Requesting a new environment
 
-Only the main account can request new environments, which can be for testing (QA), B2C, B2B, and others. This request is made through [VTEX Support](https://help.vtex.com/en/support).
+Only the main account can request new environments, which can be for testing (QA), B2C, B2B, and others. This request is made through [VTEX Support](https://supporticket.vtex.com/support).
 
 Depending on your business model and strategy, you may need to request a new environment. To do so, you need to understand multistore and additional environments, as explained in the article [Accounts and architecture](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl).

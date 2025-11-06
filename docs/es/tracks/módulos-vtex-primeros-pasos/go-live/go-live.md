@@ -81,7 +81,7 @@ Una vez que hayas realizado el apuntamiento de DNS, notifícalo a la plataforma 
 
 Una vez la notificación es enviada, la tienda estará disponible, pero aun esperando la habilitación del certificado SSL, el cual debiera ocurrir dentro de 10 minutos.
 
-En caso de una falla en generar el certificado, ya sea por demora en la propagación del dominio u otro tipo de error, verá un mensaje al acceder al sitio informando que el certificado de SSL esta siendo generado. Si esto persiste por más de treinta minutos después de la notificación de apuntamiento, abre un ticket con el [soporte de VTEX](https://help.vtex.com/es/support) con prioridad urgente.
+En caso de una falla en generar el certificado, ya sea por demora en la propagación del dominio u otro tipo de error, verá un mensaje al acceder al sitio informando que el certificado de SSL esta siendo generado. Si esto persiste por más de treinta minutos después de la notificación de apuntamiento, abre un ticket con el [soporte de VTEX](https://supporticket.vtex.com/support) con prioridad urgente.
 
 El certificado es generado vía [Let's Encrypt](https://letsencrypt.org/) y es válido por 90 días. De todas formas es automáticamente renovado dentro de los cinco días antes de su expiración, mientras el dominio permanezca correctamente apuntado a VTEX.
 

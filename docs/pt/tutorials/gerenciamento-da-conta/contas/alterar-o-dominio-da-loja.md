@@ -43,7 +43,7 @@ Siga as etapas abaixo para realizar a mudança de domínio:
 
    É necessário conferir se os sites configurados estão relacionados à conta cadastrada em **Configurações da conta > Contas**. Confira [Gerenciamento da conta](/pt/tutorial/gerenciamento-da-conta--2vhUVOKfCaswqLguT2F9xq) para mais detalhes.
 
-3. Se a sua loja utiliza [VTEX IO \- Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) ou [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), entre em contato com o [suporte VTEX](https://help.vtex.com/pt/support) e solicite apontamento interno, informando o novo domínio. Saiba mais sobre [apontamento interno](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-io).
+3. Se a sua loja utiliza [VTEX IO \- Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) ou [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), entre em contato com o [suporte VTEX](https://supporticket.vtex.com/support) e solicite apontamento interno, informando o novo domínio. Saiba mais sobre [apontamento interno](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-io).
 
    Uma vez aberto o chamado, o time de suporte tem até três dias úteis para analisar as configurações e realizar o apontamento. 
 

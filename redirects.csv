@@ -1355,6 +1355,7 @@ https://help.vtex.com/es/tutorial/analizar-las-reservas-de-un-producto--1xdDyqnD
 /tutorial/category-registration-fields--5Z7RrvW41yumyQCmk2iqoG;https://help.vtex.com/es/tutorial/registrar-categoria--tutorials_206;permanent;
 /faq/what-types-of-payment-split-are-there;https://help.vtex.com/tutorial/what-types-of-payment-split-are-there;permanent;
 /v4/docs/como-criar-um-produto--6P8JkU4kDAQRd3lkYBIf5V;https://help.vtex.com/pt/tutorial/como-criar-um-produto--671zAWe0B9eCikzDu7kB1G;permanent;
+/tutorial/adicionar-imagem-a-descricao-do-produto--2hQGTAAiyUSoISGSyOK8Y4;https://help.vtex.com/pt/tutorial/adicionar-ou-editar-produto--29IkdEu6GofCFlltsZh2H8;permanent;
 /tutorial/recursos-del-license-manager-vtex-io--5aWXJJXnuqqPlqBYdHqMdG;https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3#;permanent;
 /en/tutorial/guide-to-pci-gateway-integration--qJQCQREDvQ0kcvGeIoUkI;https://developers.vtex.com/docs/guides/payments-integration-pci-dss-compliance;permanent;
 /faq/create-a-talk-to-us-form-using-master-data;https://help.vtex.com/tutorial/create-a-talk-to-us-form-using-master-data;permanent;
@@ -1462,6 +1463,7 @@ tutorial/como-configurar-el-zoom--frequentlyAskedQuestions_586;https://developer
 /faq/compartilhar-acesso-ao-google-webmaster-tools-da-sua-loja;https://help.vtex.com/tutorial/compartilhar-acesso-ao-google-webmaster-tools-da-sua-loja;permanent;
 /tutorial/politica-comercial-para-marketplace;https://help.vtex.com/pt/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404;permanent;
 /tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY/2oxPVeYpVgA8IrhaDqKon6;/tracks/integracao-com-a-casas-bahia-marketplace--3E9XylGaJ2wqwISGyw4GuY/2oxPVeYpVgA8IrhaDqKon6;permanent;
+/tutorial/add-image-to-product-description--2hQGTAAiyUSoISGSyOK8Y4;https://help.vtex.com/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8;permanent;
 /tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280;https://help.vtex.com/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/1iP90RcJvlrfQhnlxM54wo#;permanent;
 /tutorial/configuring-dns-pointing-to-vtex--tutorials_4280;https://help.vtex.com/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/1iP90RcJvlrfQhnlxM54wo#;permanent;
 /tutorial/configurando-el-apuntamiento-del-dns-para-vtex--tutorials_4280;https://help.vtex.com/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/1iP90RcJvlrfQhnlxM54wo#;permanent;
@@ -1558,6 +1560,7 @@ es/tutorial/politica-comercial-para-marketplace;https://help.vtex.com/pt/tutoria
 /tutorial/setting-up-payu-gateway--36zWOAFHmwIAoWIEU2Y08q;https://help.vtex.com/en/tutorial/setting-up-payments-with-payuv2--7twMgKUZZtJGmR72wS1k3n;permanent;
 /tutorial/configuring-functions-in-the-message-center-templates--tutorials_440;https://developers.vtex.com/vtex-rest-api/docs/how-to-set-up-functions-in-the-message-center-templates;permanent;
 /faq/how-do-reversals-work-when-an-item-is-returned;https://help.vtex.com/tutorial/how-do-reversals-work-when-an-item-is-returned;permanent;
+/tutorial/anadir-imagen-a-la-descripcion-del-producto--2hQGTAAiyUSoISGSyOK8Y4;https://help.vtex.com/es/tutorial/agregar-o-editar-productos--29IkdEu6GofCFlltsZh2H8;permanent;
 /tutorial/adding-products--tutorials_2567;https://help.vtex.com/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8;permanent;
 /tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/5kNtS80hbBGg58jMeF8CRv;https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/Rby973h1l9tEM4C1YrzwZ;permanent;
 /faq/como-lidar-com-erro-de-timeout-com-a-integracao-com-o-catalogo--41SucuGFjn1ndIN2iR1vvr;https://developers.vtex.com/vtex-rest-api/docs/erp-integration-import-products;permanent;
@@ -1608,6 +1611,7 @@ https://help.vtex.com/pt/tutorial/atualizar-quantidade-de-skus-em-estoque;https:
 /tutorial/configurar-especificaciones-de-sku--2AnTdsMR60iyA0YIuq2w68;https://help.vtex.com/es/tutorial/registrar-especificaciones-o-campos-de-sku--tutorials_119;permanent;
 /tutorial/configurar-gateway-sitef-con-pre-auth--2ZH4DLmZpKw022aSGcGYag;https://help.vtex.com/es/tutorial/configurar-pago-con-e-sitef--6UEi0QAlU6BXz5RgWj34Ac;permanent;
 https://help.vtex.com/en/tutorial/order-status-table-oms--frequentlyAskedQuestions_773;https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196#order-status-details;permanent;
+/tutorial/como-atualizar-a-imagem-de-um-sku--5PMb54FnvUuWOq2qGyAosu;https://help.vtex.com/pt/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN;permanent;
 /tutorial/selecionando-estoque-para-pedidos-do-mercado-envios-full--7M4HCsV16LmWXpp20DEpAd;https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy;permanent;
 /en/faq/how-to-check-the-ownership-of-vtex-store-on-google-search-console;https://help.vtex.com/en/tutorial/how-to-check-the-ownership-of-vtex-store-on-google-search-console--frequentlyAskedQuestions_594;permanent;
 /en/tutorial/how-to-integrate-an-external-gift-card-provider-with-vtex--tutorials_450;https://developers.vtex.com/docs/gift-card-integration-guide;permanent;
@@ -1701,6 +1705,7 @@ v4/docs/apps-overview--Abz99oney4PUmrf7QcHc9;https://help.vtex.com/en/tutorial/v
 https://help.vtex.com/en/tutorial/configuring-feed-v3-hook--6JkYQpIlU8ptysUiGIp4Px;https://developers.vtex.com/vtex-rest-api/docs/orders-feed#hook;permanent;
 /tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/6wKQgKmu2FT6084BJT7z5V;https://help.vtex.com/en/tutorial/setting-up-intelligent-search-integration-with-the-catalog--3Nt5cIdwISSlzVtnYfLeIH;permanent;
 /faq/what-is-the-period-considered-for-calculating-my-billing;https://help.vtex.com/tutorial/what-is-the-period-considered-for-calculating-my-billing;permanent;
+/tutorial/how-to-update-the-image-of-an-sku--5PMb54FnvUuWOq2qGyAosu;https://help.vtex.com/en/tutorial/adding-or-editing-skus--4ryZ6J45kwn3jDiQBxGiiN;permanent;
 /tutorial/how-to-configure-rating-and-review-controls--frequentlyAskedQuestions_585;https://help.vtex.com/en/tutorial/list-of-controls-for-templates--tutorials_563#deprecated-controls;permanent;
 /faq/como-verificar-propiedad-en-el-google-search-console-de-tienda-vtex;https://help.vtex.com/es/tutorial/como-verificar-propiedad-en-el-google-search-console-de-tienda-vtex--frequentlyAskedQuestions_594;permanent;
 /faq/how-and-when-do-i-receive-my-invoice-and-my-ticket;https://help.vtex.com/tutorial/how-and-when-do-i-receive-my-invoice-and-my-ticket;permanent;
@@ -1758,6 +1763,7 @@ tutorial/como-configurar-o-zoom--frequentlyAskedQuestions_586;https://developers
 /tutorial/pricing-rules-v2--tutorials_4446;/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/2rBirbpB7wLnei4dQ9KGMW;permanent;
 /tutorial/how-to-use-masterdata-v2s-triggers-to-interact-with-orders--4cqms9Z186yQQMvdxjflAg;https://developers.vtex.com/vtex-rest-api/docs/use-master-data-with-orders;permanent;
 https://developers.vtex.com/vtex-rest-api/docs/identifying-whether-marketing-utms-are-being-sent-to-checkout;https://developers.vtex.com/vtex-rest-api/docs/check-marketing-utms-used-at-checkout;permanent;
+/tutorial/como-actualizar-la-imagen-de-un-sku--5PMb54FnvUuWOq2qGyAosu;https://help.vtex.com/es/tutorial/agregar-o-editar-skus--4ryZ6J45kwn3jDiQBxGiiN;permanent;
 /faq/change-a-placeholder-title;https://help.vtex.com/tutorial/change-a-placeholder-title;permanent;
 /tutorial/configurando-marketplace-entre-lojas-vtex--tutorials_6520;https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402;permanent;
 /faq/por-que-nao-consigo-criar-uma-nova-politica-comercial;https://help.vtex.com/pt/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE;permanent;
@@ -1928,6 +1934,7 @@ pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yoeqpo32uqyygsmmssam;/tutorial
 /tutorial/configurar-pagamento-com-adyenv3;https://developers.vtex.com/docs/apps/adyen.payment-provider-v3;permanent;
 /tutorial/configuring-payment-with-adyenv3;https://developers.vtex.com/docs/apps/adyen.payment-provider-v3;permanent;
 /tutorial/configurar-pagos-con-adyenv3;https://developers.vtex.com/docs/apps/adyen.payment-provider-v3;permanent;
+/pt/tutorial/compre-junto--5lSqsW9vQQmyAGeacqcCIs;https://help.vtex.com/pt/tutorial/compre-junto--tutorials_323;permanent;
 /faq/what-offline-payment-conditions-are-available-in-latin-america;https://help.vtex.com/tutorial/what-offline-payment-conditions-are-available-in-latin-america;permanent;
 /faq/como-dejar-editable-un-campo-del-master-data;https://help.vtex.com/tutorial/como-dejar-editable-un-campo-del-master-data;permanent;
 /tutorial;https://help.vtex.com/tutorial/--531cHtUCUi3puRXNDmKziw;permanent;

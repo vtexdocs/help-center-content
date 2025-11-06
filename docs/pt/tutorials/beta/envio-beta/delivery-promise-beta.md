@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://help.vtex.com/pt/support).
+> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://supporticket.vtex.com/support).
 
 **Delivery Promise (Beta)** é a nova solução da VTEX para que o cliente, durante a experiência de compra na sua loja, visualize somente os produtos que pode adquirir, considerando tanto a disponibilidade dos produtos em estoque quanto formas de envio válidas para o endereço de entrega.
 
@@ -72,12 +72,12 @@ O funcionamento da **Delivery Promise (Beta)** requer conhecer a localização d
 Para participar da fase atual da **Delivery Promise (Beta)**, é necessário atender às seguintes condições:
 
 * <i class="far fa-check-circle"></i> **Requisito:** usar [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG).
-* <i class="far fa-check-circle"></i> **Requisito:** ter implementação de frontend [Store Framework](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework).
+* <i class="far fa-check-circle"></i> **Requisito:** ter implementação de frontend com [Store Framework](/pt/docs/tracks/frontend-implementation#store-framework), [FastStore](/pt/docs/tracks/frontend-implementation#faststore) ou headless.
 
 ### Saiba mais
 
 * [Delivery Promise: FAQ](/pt/tutorial/delivery-promise-faq--2frHHK5uPsQrLK5XbYHALN)
 * [Setting up Delivery Promise components (Beta)](https://developers.vtex.com/docs/guides/setting-up-delivery-promise-components)
 * [Delivery promise for headless stores (Beta)](https://developers.vtex.com/docs/guides/delivery-promise-for-headless-stores)
-* [Delivery Promise](https://developers.vtex.com/docs/guides/faststore/features-delivery-promise)
+* [Delivery Promise for FastStore](https://developers.vtex.com/docs/guides/faststore/features-delivery-promise)
 

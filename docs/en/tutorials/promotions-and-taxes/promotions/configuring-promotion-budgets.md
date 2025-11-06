@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-> ℹ️ This feature is in testing phase (closed beta). If you are interested in joining, please open a ticket with the [ VTEX Support team ](https://help.vtex.com/en/support).
+> ℹ️ This feature is in testing phase (closed beta). If you are interested in joining, please open a ticket with the [ VTEX Support team ](https://supporticket.vtex.com/support).
 
 The Promotions module in the VTEX Admin allows you to configure a budget to limit the discounts in a promotion. This feature helps control benefit spending by ensuring that discounts don't exceed a predefined maximum amount.
 

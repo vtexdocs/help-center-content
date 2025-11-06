@@ -46,7 +46,7 @@ Antes de utilizar los filtros de búsqueda en VTEX Sales App, debes haber instal
 - Es importante configurar los filtros que se mostrarán según se describe en el artículo Configuración de la búsqueda. De lo contrario, toda la información del producto constará de atributos filtrables en VTEX Sales App.
 - Cualquier cambio realizado en la configuración de la búsqueda se aplicará también a la tienda de ecommerce si la herramienta utilizada es VTEX Intelligent Search.
 
-Además de la configuración de VTEX Intelligent Search, también es necesario [ponerse en contacto con el equipo de soporte de VTEX](https://help.vtex.com/es/support) para activar la funcionalidad de filtros en VTEX Sales App.
+Además de la configuración de VTEX Intelligent Search, también es necesario [ponerse en contacto con el equipo de soporte de VTEX](https://supporticket.vtex.com/support) para activar la funcionalidad de filtros en VTEX Sales App.
 
 Una vez activados los filtros, puedes utilizar este recurso siguiendo el procedimiento a continuación al buscar productos:
 1. Si estás utilizando VTEX Sales App en un dispositivo móvil, como un teléfono inteligente, haz clic en `Filtros`. Si estás utilizando un dispositivo con una pantalla más grande, omite este paso.
