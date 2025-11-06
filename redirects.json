@@ -12732,6 +12732,146 @@
       {
         "from": "/support",
         "to": "https://supporticket.vtex.com/support"
+      },
+      {
+        "from": "/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29",
+        "to": "/en/docs/tracks/cadastrar-preco-base"
+      },
+      {
+        "from": "/en/subcategory/settings--4uqMnZjwBO04uWgCom8QiA",
+        "to": "/en/docs/tutorials/integration-settings"
+      },
+      {
+        "from": "/en/tutorial/shopee-integration--5OV9idUY6fHu3P8grnCnqj",
+        "to": "/en/docs/tracks/integracao-shopee"
+      },
+      {
+        "from": "/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx",
+        "to": "/en/docs/tracks/getting-started-with-logistics"
+      },
+      {
+        "from": "/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ",
+        "to": "/en/docs/tracks/catalog-concept-definition"
+      },
+      {
+        "from": "/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z",
+        "to": "/en/docs/tracks/what-is-the-cms"
+      },
+      {
+        "from": "/es/tutorial/campos-de-registro-de-categoria--5Z7RrvW41yumyQCmk2iqoG",
+        "to": "/es//docs/tutorials/registering-a-category#filling-in-the-category-registration-fields"
+      },
+      {
+        "from": "/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29",
+        "to": "/es/docs/tracks/registrar-precio-base"
+      },
+      {
+        "from": "/es/tutorial/como-montar-un-kit-look--tutorials_266",
+        "to": "/es/docs/tutorials/como-montar-un-kit-de-look"
+      },
+      {
+        "from": "/es/tutorial/integracion-con-shopee--5OV9idUY6fHu3P8grnCnqj",
+        "to": "/es/docs/tracks/integracion-con-shopee"
+      },
+      {
+        "from": "/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx",
+        "to": "/es/docs/tracks/logistica-primeros-pasos"
+      },
+      {
+        "from": "/es/tutorial/como-crear-un-rol-financiero--717qPtxW3Cy9n5KrReHeVv",
+        "to": "/es/docs/tutorials/crear-un-rol-financiero"
+      },
+      {
+        "from": "/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ",
+        "to": "/es/docs/tracks/catalogo-definicion-de-concepto"
+      },
+      {
+        "from": "/es/tutorial/configurar-producto-similar-sugerencias-acessorios-y-genericos--tutorials_280",
+        "to": "/es/docs/tutorials/configurar-producto-similar-sugerencias-accesorios-y-genericos"
+      },
+      {
+        "from": "/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z",
+        "to": "/es/docs/tracks/o-que-e-o-cms"
+      },
+      {
+        "from": "/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29",
+        "to": "/pt/docs/tracks/cadastrar-preco-base"
+      },
+      {
+        "from": "/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx",
+        "to": "/pt/docs/tracks/primeiros-passos-da-logistica"
+      },
+      {
+        "from": "/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ",
+        "to": "/pt/docs/tracks/catalogo-definicao-de-conceito"
+      },
+      {
+        "from": "/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z",
+        "to": "/pt/docs/tracks/o-que-e-o-cms"
+      },
+      {
+        "from": "/en/subcategory/insights-overview--1TIJqw8kV2Yok4iQe4SAkq",
+        "to": "en/docs/tutorials/dashboards-in-the-vtex-admin"
+      },
+      {
+        "from": "/en/subcategory/benefits--1yTYB5p4b6iwMsUg8uieyq",
+        "to": "/en/docs/tutorials/promotions"
+      },
+      {
+        "from": "/en/subcategory/access-profiles--1HSqkejwuYcQSMC400uY84",
+        "to": "/en/docs/tutorials/access-control"
+      },
+      {
+        "from": "/en/category/authentications--2DvfvQ5Mwc8mWIgaCWcEyo",
+        "to": "/en/docs/tutorials/authentication"
+      },
+      {
+        "from": "/en/subcategory/application-keys--5GYFjiMQg0qIKpnnQY2qjh",
+        "to": "/en/docs/tutorials/api-keys-category"
+      },
+      {
+        "from": "/en/category/cms--2I0KMdRlAkcwwiK4YeaiUi",
+        "to": "/en/docs/tutorials/storefront"
+      },
+      {
+        "from": "/es/subcategory/vision-de-conjunto-de-insights--1TIJqw8kV2Yok4iQe4SAkq",
+        "to": "/es/docs/tutorials/dashboards-en-el-admin-vtex"
+      },
+      {
+        "from": "/es/subcategory/configuracion-de-integraciones--4uqMnZjwBO04uWgCom8QiA",
+        "to": "/es/docs/tutorials/configuracion-de-las-integraciones"
+      },
+      {
+        "from": "/es/subcategory/vision-de-general-de-pagos--2Xay1NOZKE2CSqKMwckOm8",
+        "to": "/es/docs/tutorials/vision-de-conjunto-de-pagos"
+      },
+      {
+        "from": "/es/category/autenticaciones--2DvfvQ5Mwc8mWIgaCWcEyo",
+        "to": "/es/docs/tutorials/autenticacion"
+      },
+      {
+        "from": "/es/subcategory/claves--21NfLcKOibBom7QOhU9yjP",
+        "to": "/es/docs/tutorials/claves-de-api-category"
+      },
+      {
+        "from": "/es/category/cms--2I0KMdRlAkcwwiK4YeaiUi",
+        "to": "/es/docs/tutorials/storefront"
+      },
+      {
+        "from": "/pt/subcategory/visao-geral-do-insights--1TIJqw8kV2Yok4iQe4SAkq",
+        "to": "/pt/docs/tutorials/dashboards-no-admin-vtex"
+      },
+      {
+        "from": "/pt/category/autenticacoes--2DvfvQ5Mwc8mWIgaCWcEyo",
+        "to": "/pt/docs/tutorials/autenticacao"
+      },
+      {
+        "from": "/pt/subcategory/chaves-de-aplicacao--5GYFjiMQg0qIKpnnQY2qjh",
+        "to": "/pt/docs/tutorials/chaves-de-api-category"
+      },
+      {
+        "from": "/pt/category/cms--2I0KMdRlAkcwwiK4YeaiUi",
+        "to": "/pt/docs/tutorials/storefront"
       }
     ]
   }
