@@ -141,7 +141,7 @@ Sim, a VTEX possui Políticas de Privacidade e Proteção de Dados, que são rev
 
 #### A organização possui um DPO (Data Protection Officer) ou Encarregado de Proteção de Dados, com autoridade, missão, responsabilidade e recursos para coordenar, desenvolver e implementar os requisitos de privacidade aplicáveis e gerenciar os riscos de privacidade por meio do programa de privacidade?
 
-Sim, a VTEX possui uma DPO responsável por coordenar o programa de privacidade: Angela Fonseca ([dpo@vtex.com.br](mailto:dpo@vtex.com.br)).
+Sim, a VTEX possui um DPO responsável por coordenar o programa de privacidade: você pode contatá-lo através do email [dpo@vtex.com.br](mailto:dpo@vtex.com.br).
 
 #### Que tipo de dados pessoais a VTEX trata em nome dos seus clientes?
 
