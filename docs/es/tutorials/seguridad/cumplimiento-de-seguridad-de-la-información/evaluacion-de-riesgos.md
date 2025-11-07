@@ -115,7 +115,8 @@ Los dispositivos de almacenamiento de multimedia utilizados para almacenar los d
 Sí, VTEX dispone de políticas de privacidad y protección de datos, que se revisan anualmente. Las políticas de privacidad interna y externa han sido distribuidas y comunicadas a toda la empresa a través de nuestro canal de anuncios internos. La política de privacidad interna se encuentra alojada en nuestra herramienta de documentos corporativos internos para que todos los empleados puedan consultarla. Accede a la [Política de Privacidad Externa](https://vtex.com/mx-es/privacy-and-agreements/external-notice/) (External Privacy Notice).
 
 #### ¿La organización cuenta con un DPO (Data Protection Officer) o delegado de protección de datos?
-Sí, VTEX cuenta con una DPO encargada de coordinar el programa de privacidad: Angela Fonseca (dpo@vtex.com).
+
+Sí, VTEX cuenta con un DPO encargado de coordinar el programa de privacidad: puedes ponerte en contacto a través del correo [dpo@vtex.com](mailto:dpo@vtex.com).
 
 #### ¿Qué tipo de datos personales trata VTEX en nombre de sus clientes?
 VTEX, como encargada del tratamiento, procesa los datos personales de los compradores solo cuando es necesario, de acuerdo con los requisitos de cada módulo de la plataforma para llevar a cabo las operaciones de ecommerce. Consulta a continuación la lista de los datos personales que pueden ser tratados por VTEX:
