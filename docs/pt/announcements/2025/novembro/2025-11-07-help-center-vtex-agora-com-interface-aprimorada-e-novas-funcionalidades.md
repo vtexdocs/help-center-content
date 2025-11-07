@@ -37,7 +37,7 @@ Utilizando a barra de busca superior, a pesquisa inicia assim que você começa 
 
 Outras novidades estão relacionadas aos [Problemas conhecidos](https://newhelp.vtex.com/pt/known-issues) e os artigos de [Troubleshooting](https://newhelp.vtex.com/pt/troubleshooting), que agora possuem novas opções de ordenação e filtragem. A imagem a seguir é um exemplo dos filtro disponíveis ao se buscar por um problema conhecido:
 
-![new_help_center_filters_view_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/1efb949f638340e237ad7a9acb85705ac0f87a75/docs/pt/announcements/2025/novembro/new_help_center_filters_view_PT.png)
+![new_help_center_filters_view_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/docs/pt/announcements/2025/novembro/new_help_center_filters_view_PT.png)
 
 ## Melhorias na versão mobile
 
