@@ -295,7 +295,7 @@ This approach allows a fast implementation of improvements and bug fixes and eff
 
 #### How is user access managed on the platform, including moving, adding, editing, and deleting accounts?
 
-Admin users are managed directly in the VTEX Admin. They are assigned roles that can contain one or more [permissions](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3), which are established by the account's [sponsor user](/en/tutorial/what-is-the-sponsor-user--3oPr7YuIkEYqUGmEqIMSEy) or by users that have the [User Administrator - RESTRICTED](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) role or a customized role containing the Save User [resource](/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3). Learn more in the article [How to manage users](/en/tutorial/managing-users--tutorials_512).
+Admin users are managed directly in the VTEX Admin. They are assigned roles that can contain one or more [permissions](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3), which are established by the account's [sponsor user](/en/tutorial/what-is-the-sponsor-user--3oPr7YuIkEYqUGmEqIMSEy) or by users that have the [User Administrator - RESTRICTED](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) role or a customized role containing the Save User [resource](/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3). Learn more in the article [How to manage users](/en/docs/tutorials/managing-admin-users).
 
 #### Does the platform have features for managing, organizing, and customizing store management permissions?
 

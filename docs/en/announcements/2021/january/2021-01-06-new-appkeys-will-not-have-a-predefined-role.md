@@ -23,7 +23,7 @@ For security reasons, you can only create this pair with a Sponsor user account.
 
 ## What has changed?
 
-Previously, after credentials were created, access was automatically assigned to the Owner (Admin Super) profile. From now on, new appKeys will not have any role assigned to them. Their assignment must be done in the same way as it is currently done for other users. For instructions, see the Editing users section in the article [How to manage users](/en/tutorial/managing-users--tutorials_512#editing-users).
+Previously, after credentials were created, access was automatically assigned to the Owner (Admin Super) profile. From now on, new appKeys will not have any role assigned to them. Their assignment must be done in the same way as it is currently done for other users. For instructions, see the Editing users section in the article [How to manage users](/en/docs/tutorials/managing-admin-users#editing-users).
 
 For additional information about appKeys and appTokens, please access the [Authentication](https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication) article.
 

@@ -25,7 +25,7 @@ This article helps you choose the right technology for building your storefront 
 
 The frontend implementation is a stage focused on defining the technologies to implement based on the business needs related to the storefront.
 
-> ℹ️ The frontend can be implemented by the company's internal development team or our [implementation partners ](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners).[Users](/en/tutorial/managing-users--tutorials_512) with access to the VTEX Admin can view our partner list through the [Partner Portal](https://partnernetwork.myvtex.com/Parceiros).
+> ℹ️ The frontend can be implemented by the company's internal development team or our [implementation partners ](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners).[Users](/en/docs/tutorials/managing-admin-users) with access to the VTEX Admin can view our partner list through the [Partner Portal](https://partnernetwork.myvtex.com/Parceiros).
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Before implementing the frontend, you should configure the following steps in yo
 | Step | Description |
 |---|---|
 | Defining the store's architecture and sales strategy | The team defines your VTEX store's architecture based on your business model's strategies and needs.<br><br>Learn more in the [Accounts and architecture](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) article. |
-| Configuring roles | The team configures the roles needed for each [user](/en/tutorial/managing-users--tutorials_512) to use the VTEX platform.<br><br>Learn more in the [Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) article. |
+| Configuring roles | The team configures the roles needed for each [user](/en/docs/tutorials/managing-admin-users) to use the VTEX platform.<br><br>Learn more in the [Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) article. |
 | Configuring catalog | The team configures the product[ catalog](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalog), category tree, and related information, such as descriptions, images, and prices, to populate and test the store, including features such as product listing pages (PLP), search features, product details pages (PDP), and checkout.<br><br>Not having a catalog can result in incomplete testing and data integration problems, which delays implementation.<br><br>Learn more in the [VTEX modules I](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7) article. |
 | Defining the apps needed to operate the store | The team defines the native and third-party apps needed to operate the store.<br><br>For stores that will be built using [Store Framework](#store-framework), there is a list of native and third-party apps.<br><br>Learn more in the [VTEX IO apps](https://developers.vtex.com/docs/vtex-io-apps) article. |
 

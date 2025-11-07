@@ -41,7 +41,7 @@ Sigue los pasos a continuación para solucionar el problema:
 
    * Si el rol no es compatible con la página a la que el usuario está intentando acceder, el comportamiento esperado es Error 403.
    * Si hay una combinación del rol **Call center operator** o **OMS- Full access** con el rol **Owner (Admin Super)**, puede haber un conflicto en el acceso a algunas páginas.
-4. Remueve los roles conflictivos y concede únicamente los necesarios para las operaciones que el usuario realiza en la tienda, siguiendo las instrucciones para [Gestionar usuarios](/es/tutorial/gestionar-usuarios--tutorials_512#editar-usuarios).
+4. Remueve los roles conflictivos y concede únicamente los necesarios para las operaciones que el usuario realiza en la tienda, siguiendo las instrucciones para [Gestionar usuarios](/es/docs/tutorials/gestionar-usuarios-administrativos#editar-usuarios).
 
 > ⚠️ Solamente el **Owner (Admin Super)** de la cuenta o usuarios con el rol **User Administrator - RESTRICTED** tienen los permisos necesarios para realizar esta etapa.
 

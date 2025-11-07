@@ -55,6 +55,6 @@ Recomendamos que aproveite esta ocasião para revisar as permissões da sua loja
 Para saber mais sobre como gerenciar permissões de usuários e chaves de aplicação, confira os artigos a seguir:
 
 - [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
-- [Gerenciar usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512)
+- [Gerenciar usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos)
 - [Gerenciar chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet#gerenciar-chaves-de-aplicacao)
 - [Recursos do License Manager](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)

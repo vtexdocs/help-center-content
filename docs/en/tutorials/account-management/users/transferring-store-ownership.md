@@ -29,7 +29,7 @@ The __Account settings__ page allows you to identify the current account sponsor
 
 ### Transferring account ownership
 
-Before you start, make sure the user who will be granted the Sponsor role already has access to the account. If they don't, you should [create a new user](/en/tutorial/managing-users--tutorials_512#creating-a-new-user) for them before you proceed.
+Before you start, make sure the user who will be granted the Sponsor role already has access to the account. If they don't, you should [create a new user](/en/docs/tutorials/managing-admin-users#creating-a-new-user) for them before you proceed.
 
 To transfer store ownership, follow these steps:
 

@@ -157,5 +157,5 @@ To edit the admin users who will be notified about the findings, follow the step
 
 * [VTEX Shield](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
 * [Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
-* [Users](/en/tutorial/managing-users--tutorials_512)
+* [Users](/en/docs/tutorials/managing-admin-users)
 * [API keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet)

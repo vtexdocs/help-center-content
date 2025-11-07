@@ -37,7 +37,7 @@ Na VTEX, a autenticação por login ocorre em dois contextos: na loja virtual, q
 
 > ℹ️ Pelo menos uma das formas de login da tabela acima deve estar habilitada para a loja virtual.
 
-> ⚠️ Para logar no Admin VTEX, é preciso ter um [usuário](/pt/tutorial/gerenciando-usuarios--tutorials_512) administrativo cadastrado. Os [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) relacionados ao usuário e as permissões incluídas no perfil determinam quais [recursos](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) ele pode utilizar no Admin.
+> ⚠️ Para logar no Admin VTEX, é preciso ter um [usuário](/pt/docs/tutorials/gerenciar-usuarios-administrativos) administrativo cadastrado. Os [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) relacionados ao usuário e as permissões incluídas no perfil determinam quais [recursos](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) ele pode utilizar no Admin.
 
 ### Habilitar formas de login
 

@@ -30,7 +30,7 @@ Um dos motivos de erro na autenticação pode ser a falta de vínculo das chaves
 
 Ambas chaves devem ser preenchidas nos seus respectivos campos, sem espaçamento e mantendo a caixa das letras - __case sensitive__. Um pequeno erro no preenchimento pode impedir o funcionamento da integração.
 
-Você pode verificar possíveis erros de digitação nos campos no módulo __Gerenciamento de conta__, em [Usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512). 
+Você pode verificar possíveis erros de digitação nos campos no módulo __Gerenciamento de conta__, em [Usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos). 
 
 > ⚠️ O appToken é exibido para o usuário apenas no momento da sua criação, não podendo ser recuperado posteriormente.
 

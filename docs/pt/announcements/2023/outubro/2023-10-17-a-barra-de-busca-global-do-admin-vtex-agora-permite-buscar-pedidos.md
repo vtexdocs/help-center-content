@@ -32,7 +32,7 @@ Para isso, clique na barra de busca, selecione a opção `Pedidos`, e realize a 
 
 ![order_global_search_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/outubro/2023-10-17-a-barra-de-busca-global-do-admin-vtex-agora-permite-buscar-pedidos_1.gif)
 
-Ao clicar em um resultado, você é redirecionado para a [página de detalhes](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl) do pedido. Além disso, os últimos 10 pedidos buscados ficam registrados como um histórico de buscas recentes, aumentando a praticidade de acesso. O registro de busca é armazenado a nível de [usuário](/pt/tutorial/gerenciando-usuarios--tutorials_512) e não é compartilhado entre usuários diferentes.
+Ao clicar em um resultado, você é redirecionado para a [página de detalhes](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl) do pedido. Além disso, os últimos 10 pedidos buscados ficam registrados como um histórico de buscas recentes, aumentando a praticidade de acesso. O registro de busca é armazenado a nível de [usuário](/pt/docs/tutorials/gerenciar-usuarios-administrativos) e não é compartilhado entre usuários diferentes.
 
 > ℹ️ Para acessar pedidos pela busca global do Admin VTEX, é necessário que o [perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) do usuário esteja associado ao recurso **View order** (chave OMSViewer) do *Order Management System* (OMS).
 

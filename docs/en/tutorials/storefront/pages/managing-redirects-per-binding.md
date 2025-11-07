@@ -21,7 +21,7 @@ Multi-domain stores commonly ask for redirect management per [binding](/en/tutor
 
 Taking this into consideration, VTEX enables you to manage your URL redirects according to the store bindings through the admin interface.
 
-> ⚠️ To create, edit, or remove redirects, the Admin user must have a role that has the [License Manager](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **CMS Settings** resource. You can grant the user a role with the resource by following the instructions in the [How to manage users](/en/tutorial/managing-users--tutorials_512#editing-users) article or create a new role including the resource by following the instructions in the [Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) article.
+> ⚠️ To create, edit, or remove redirects, the Admin user must have a role that has the [License Manager](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **CMS Settings** resource. You can grant the user a role with the resource by following the instructions in the [How to manage users](/en/docs/tutorials/managing-admin-users#editing-users) article or create a new role including the resource by following the instructions in the [Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) article.
 
 In VTEX Admin:
 

@@ -41,7 +41,7 @@ Follow the steps below to solve the issue:
 
    * If the role isn't compatible with the page the user is trying to access, the expected response is *Error 403*.
    * If the roles **Call center operator** or **OMS - Full access** are combined with the role **Owner (Admin Super)**, there may be a conflict when accessing some pages.
-4. Remove conflicting roles and assign only the roles required for the user's operations, following the instructions for [Managing users](/en/tutorial/managing-users--tutorials_512#editing-users).
+4. Remove conflicting roles and assign only the roles required for the user's operations, following the instructions for [Managing users](/en/docs/tutorials/managing-admin-users#editing-users).
 
 > ⚠️ Only the **Owner (Admin Super)** of the account or a user with the role **User Administrator - RESTRICTED** has the required permissions to perform this step.
 

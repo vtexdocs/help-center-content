@@ -19,14 +19,14 @@ We created two new [resources in License Manager](/en/tutorial/license-manager-r
 
 ## What has changed?
 
-We consolidated legacy reading and writing resources for [user](/en/tutorial/managing-users--tutorials_512) information and [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) into two new *License Manager* resources:
+We consolidated legacy reading and writing resources for [user](/en/docs/tutorials/managing-admin-users) information and [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) into two new *License Manager* resources:
 
 | New resource name | New resource key (`resource_key`) | Description |
 | ----- | ----- | ----- |
 | Edit Admin Users | `EditAdminUsers` | Allows creating, editing, and removing admin users. |
 | View Admin Users | `ViewAdminUsers` | Allows viewing user and role information. |
 
-These new resources replace the legacy resources for [managing users](/en/tutorial/managing-users--tutorials_512) in the VTEX Admin:
+These new resources replace the legacy resources for [managing users](/en/docs/tutorials/managing-admin-users) in the VTEX Admin:
 
 | Legacy resource name | Legacy resource key (`resource_key`) | Legacy resource description | New resource name | New resource key (`resource_key`) |
 | ----- | ----- | ----- | ----- | ----- |

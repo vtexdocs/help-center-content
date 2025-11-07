@@ -30,4 +30,4 @@ In addition, the dashboard has undergone some changes:
 
 - By default, deleting users revoke all their access to the store without deleting them from the database. The delete confirmation message now displays this information, making it more evident.
 
-You can find the complete documentation on the user management dashboard in the [How to manage users](/en/tutorial/managing-users--tutorials_512) article.
+You can find the complete documentation on the user management dashboard in the [How to manage users](/en/docs/tutorials/managing-admin-users) article.
