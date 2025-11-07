@@ -46353,6 +46353,21 @@
             },
             {
               "name": {
+                "en": "Payment amount mismatch error after switching installments with reCaptcha v2 in Checkout",
+                "es": "Error de discordancia en el importe del pago tras cambiar los plazos con reCaptcha v2 en Checkout",
+                "pt": "Erro de incompatibilidade do valor do pagamento após a troca de parcelas com o reCaptcha v2 no Checkout"
+              },
+              "slug": {
+                "en": "payment-amount-mismatch-error-after-switching-installments-with-recaptcha-v2-in-checkout",
+                "es": "error-de-discordancia-en-el-importe-del-pago-tras-cambiar-los-plazos-con-recaptcha-v2-en-checkout",
+                "pt": "erro-de-incompatibilidade-do-valor-do-pagamento-apos-a-troca-de-parcelas-com-o-recaptcha-v2-no-checkout"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "PaymentSystems are not returned in orderForm when a cart price comes exclusively from manualPrice",
                 "es": "PaymentSystems no se devuelven en orderForm cuando el precio de un carrito proviene exclusivamente de manualPrice",
                 "pt": "Os PaymentSystems não são retornados no orderForm quando o preço do carrinho vem exclusivamente do manualPrice"
