@@ -16324,14 +16324,14 @@
                 },
                 {
                   "name": {
-                    "en": "How to manage users",
-                    "es": "Gestionar usuarios",
-                    "pt": "Gerenciar usuários"
+                    "en": "Managing administrative users",
+                    "es": "Gestionar usuarios administradores",
+                    "pt": "Gerenciar usuários administrativos"
                   },
                   "slug": {
-                    "en": "managing-users",
-                    "es": "gestionar-usuarios",
-                    "pt": "gerenciando-usuarios"
+                    "en": "managing-admin-users",
+                    "es": "gestionar-usuarios-administradores",
+                    "pt": "gerenciar-usuarios-administrativos"
                   },
                   "origin": "",
                   "type": "markdown",
