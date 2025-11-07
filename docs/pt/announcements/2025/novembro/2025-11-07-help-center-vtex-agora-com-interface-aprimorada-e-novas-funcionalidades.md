@@ -25,19 +25,19 @@ Usando com o design system da VTEX, o mesmo utilizado no [Developer Portal](http
 
 A navegação foi completamente atualizada, tendo agora novas categorias, melhor visualização e menu expansível. Além disso, você pode usar a barra de busca para procurar dentro de cada seção.
 
-![new_help_center_start_here_view_PT](//images.ctfassets.net/alneenqid6w5/1mXINHb81xdhEnYBkXxhLj/00071a3102641ca74ef1a9b99538d89d/new_help_center_start_here_view_PT.png)
+![new_help_center_start_here_view_PT](XXX)
 
 ## Busca rápida e inteligente
 
-A tecnologia de pesquisa e indexação de conteúdo do novo Help Center foi inteiramente atualizada. Implementamos uma busca muito mais rápida e eficiente para que você encontre com facilidade os conteúdos desejados. 
+A tecnologia de pesquisa e indexação de conteúdo do novo Help Center foi inteiramente atualizada. Implementamos uma busca muito mais rápida e eficiente para que você encontre com facilidade os conteúdos desejados.
 
 Utilizando a barra de busca superior, a pesquisa inicia assim que você começa a digitar. Ao optar por visualizar todos os resultados, você é redirecionado para uma página que apresenta esses resultados classificados por categorias, como tutoriais, troubleshooting e outros.
 
-![new_help_center_search_PT](//images.ctfassets.net/alneenqid6w5/6bK2bo2KMtMWRh8gDhG8H/de868162b0d7a6a455c15b15bca65ff4/new_help_center_search_PT.gif)
+![new_help_center_search_PT](XXX)
 
 Outras novidades estão relacionadas aos [Problemas conhecidos](https://newhelp.vtex.com/pt/known-issues) e os artigos de [Troubleshooting](https://newhelp.vtex.com/pt/troubleshooting), que agora possuem novas opções de ordenação e filtragem. A imagem a seguir é um exemplo dos filtro disponíveis ao se buscar por um problema conhecido:
 
-![new_help_center_filters_view_PT](//images.ctfassets.net/alneenqid6w5/51TXMeAXgeWlOyQcilJjbt/19c3f1e0ee11bca65b82e5100f9fcda2/new_help_center_filters_view_PT.png)
+![new_help_center_filters_view_PT](XXX)
 
 ## Melhorias na versão mobile
 
@@ -54,4 +54,4 @@ Existem outros detalhes que valem ser mencionado, tais como:
 * Menção aos contribuidores do artigo
 * Apresentação das seções do artigo com menu interativo (table of content)
 
-![new_help_center_highlights_view_PT](//images.ctfassets.net/alneenqid6w5/3CwF69xtVZHuTSFpPqFbec/3c2994d9995022ae2ce03b371b2241ee/new_help_center_highlights_view_PT.png)
+![new_help_center_highlights_view_PT](XXX)
