@@ -47,10 +47,8 @@ As melhorias no design responsivo permitem que a sua experiência com a nossa do
 
 Existem outros detalhes que valem ser mencionado, tais como:
 
-* Nova página de [Comunicados](https://newhelp.vtex.com/pt/announcements)
-* Presença do [Status da VTEX](https://status.vtex.com/) no menu lateral e superior
-* Botão `Copiar para IA`
-* Botão para copiar o link do artigo
+* Novo botão `Copiar para IA`
+* Novo botão para copiar o link do artigo
 * Menção aos contribuidores do artigo
 * Apresentação das seções do artigo com menu interativo (table of content)
 
