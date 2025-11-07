@@ -25,7 +25,7 @@ VTEX generally communicates with its clients through official channels:
 
 - Pop-up messages in the VTEX Admin
 - Business emails
-- Announcements in the [Help Center](https://newhelp.vtex.com/) or[ Developer Portal](https://developers.vtex.com/)
+- Announcements in the [Help Center](https://help.vtex.com/) or[ Developer Portal](https://developers.vtex.com/)
 - Posts on the official VTEX [website](https://vtex.com/us-en/) or social networks
 
 Be wary of any communication requesting confidential information or suspicious actions, especially from unverified sources.

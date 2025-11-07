@@ -25,7 +25,7 @@ A VTEX geralmente se comunica com seus clientes por meio de canais oficiais:
 
 * Mensagens dentro do Admin VTEX
 * E-mails corporativos
-* Comunicados no [Help Center](https://newhelp.vtex.com/) ou no [Developer Portal](https://developers.vtex.com/)
+* Comunicados no [Help Center](https://help.vtex.com/) ou no [Developer Portal](https://developers.vtex.com/)
 * Publicações no [site](https://vtex.com/br-pt/) ou nas redes sociais oficiais da VTEX
 
 Desconfie de qualquer comunicação que solicite informações confidenciais ou ações suspeitas, especialmente se vier de fontes não verificadas.

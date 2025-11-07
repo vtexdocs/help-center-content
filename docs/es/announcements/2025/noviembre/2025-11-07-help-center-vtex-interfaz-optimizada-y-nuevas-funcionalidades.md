@@ -11,7 +11,7 @@ locale: es
 announcementSynopsisES: 'Lanzamiento de nuevo Help Center optimizado.'
 ---
 
-VTEX ha lanzado un [nuevo Help Center](https://newhelp.vtex.com/es) con una interfaz más simple, búsqueda optimizada y otras funcionalidades para mejorar tu experiencia al interactuar con nuestra documentación combinando la información de calidad de siempre con una presentación rediseñada.
+VTEX ha lanzado un [nuevo Help Center](https://help.vtex.com/es) con una interfaz más simple, búsqueda optimizada y otras funcionalidades para mejorar tu experiencia al interactuar con nuestra documentación combinando la información de calidad de siempre con una presentación rediseñada.
 
 ![new_help_center_home_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/noviembre/new_help_center_home_ES.gif)
 

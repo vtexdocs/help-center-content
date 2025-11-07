@@ -58,7 +58,7 @@ Confira nossos artigos sobre a visão geral de cada menu do seu Admin VTEX, para
 
 ![central de informações admin SEP2023](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/operacional/admin-vtex/admin-vtex-comece-aqui_3.gif)
 
-É aqui que reunimos todos os links úteis do nosso ecossistema VTEX, para ajudá-lo(a) a aproveitar a nossa plataforma ao máximo. C Clicando no botão <i class='fa fa-question-circle-o'></i> na barra superior, você pode acessar nosso [Help Center](https://newhelp.vtex.com), [Developer Portal](https://developers.vtex.com/), [Status da Plataforma](https://status.vtex.com/), [blog](https://vtex.com/pt/blog/) e central de suporte.
+É aqui que reunimos todos os links úteis do nosso ecossistema VTEX, para ajudá-lo(a) a aproveitar a nossa plataforma ao máximo. C Clicando no botão <i class='fa fa-question-circle-o'></i> na barra superior, você pode acessar nosso [Help Center](https://help.vtex.com), [Developer Portal](https://developers.vtex.com/), [Status da Plataforma](https://status.vtex.com/), [blog](https://vtex.com/pt/blog/) e central de suporte.
 
 ### Fornecendo feedbacks no Admin VTEX
 

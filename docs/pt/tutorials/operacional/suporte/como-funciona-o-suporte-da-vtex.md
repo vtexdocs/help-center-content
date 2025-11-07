@@ -53,7 +53,7 @@ Prezamos pela transparência quanto à integridade dos nossos sistemas. Por isso
 Tomaremos todas as providências cabíveis para resolver a situação o quanto antes e garantir o cumprimento do nosso [SLA](/pt/tutorial/o-que-e-o-sla-de-operacao-da-plataforma--2cIFrsY5S8usk84OU4QOKm?locale=pt) previsto em contrato.
 
 ### Help Center
-Neste [portal de documentação para usuários](https://newhelp.vtex.com), você encontra tutoriais para iniciantes, guias de referência e artigos para solução de problemas. Esta base de conhecimento contém todas as informações que você precisa para usar o painel administrativo da VTEX.
+Neste [portal de documentação para usuários](https://help.vtex.com), você encontra tutoriais para iniciantes, guias de referência e artigos para solução de problemas. Esta base de conhecimento contém todas as informações que você precisa para usar o painel administrativo da VTEX.
 
 ### Developer Portal
 Neste [portal para desenvolvedores](https://developers.vtex.com), você encontra toda a documentação sobre integrações com APIs e guias de desenvolvimento para sua loja. O conteúdo apresentado neste site tem como principal público-alvo nossos [parceiros](https://vtex.com/br-pt/partner/) e o time de desenvolvedores dos nossos clientes.

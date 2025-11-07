@@ -58,7 +58,7 @@ Check out our articles for an overview of each menu in your VTEX Admin to learn 
 
 ![information center admin SEP2023](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/operational/vtex-admin/vtex-admin-start-here_3.gif)
 
-This is where you can find all the useful links regarding the VTEX ecosystem to help you make the most of our platform. By clicking the <i class='fa fa-question-circle-o'></i> button on the top bar, you can access [Help Center](https://newhelp.vtex.com), [Developer Portal](https://developers.vtex.com/), [Plataform Status](https://status.vtex.com/), [blog](https://vtex.com/en/blog/) and support pages.
+This is where you can find all the useful links regarding the VTEX ecosystem to help you make the most of our platform. By clicking the <i class='fa fa-question-circle-o'></i> button on the top bar, you can access [Help Center](https://help.vtex.com), [Developer Portal](https://developers.vtex.com/), [Plataform Status](https://status.vtex.com/), [blog](https://vtex.com/en/blog/) and support pages.
 
 ### Giving feedback through the VTEX Admin
 The Give Feedback button allows users to send feedback about their experience on the platform through the VTEX Admin. To access it, follow the steps below:

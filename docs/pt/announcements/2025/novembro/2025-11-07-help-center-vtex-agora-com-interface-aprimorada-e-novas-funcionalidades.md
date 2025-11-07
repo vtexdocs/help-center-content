@@ -11,7 +11,7 @@ locale: pt
 announcementSynopsisPT: 'Lançamento do novo portal Help Center, com diversas melhorias.'
 ---
 
-A VTEX acaba de lançar um [novo Help Center](https://newhelp.vtex.com/pt), com design de interface mais leve, busca aprimorada e outras novidades. A ideia é melhorar a sua experiência com a nossa documentação, aliando à informação de qualidade de sempre uma apresentação renovada e um portal com mais funcionalidades.
+A VTEX acaba de lançar um [novo Help Center](https://help.vtex.com/pt), com design de interface mais leve, busca aprimorada e outras novidades. A ideia é melhorar a sua experiência com a nossa documentação, aliando à informação de qualidade de sempre uma apresentação renovada e um portal com mais funcionalidades.
 
 ![new_help_center_home_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2025/novembro/new_help_center_home_PT.gif)
 
@@ -35,7 +35,7 @@ Utilizando a barra de busca superior, a pesquisa inicia assim que você começa 
 
 ![new_help_center_search_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2025/novembro/new_help_center_search_PT.gif)
 
-Outras novidades estão relacionadas aos [Problemas conhecidos](https://newhelp.vtex.com/pt/known-issues) e os artigos de [Troubleshooting](https://newhelp.vtex.com/pt/troubleshooting), que agora possuem novas opções de ordenação e filtragem. A imagem a seguir é um exemplo dos filtro disponíveis ao se buscar por um problema conhecido:
+Outras novidades estão relacionadas aos [Problemas conhecidos](https://help.vtex.com/pt/known-issues) e os artigos de [Troubleshooting](https://help.vtex.com/pt/troubleshooting), que agora possuem novas opções de ordenação e filtragem. A imagem a seguir é um exemplo dos filtro disponíveis ao se buscar por um problema conhecido:
 
 ![new_help_center_filters_view_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2025/novembro/new_help_center_filters_view_PT.png)
 

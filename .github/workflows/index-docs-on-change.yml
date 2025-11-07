@@ -27,7 +27,7 @@ jobs:
       ALGOLIA_ADMIN_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}
       ALGOLIA_INDEX_NAME: ${{ secrets.ALGOLIA_INDEX_NAME }}
       # Help Center hostname used to construct record URLs (optional override via repo Variables)
-      HELP_CENTER_HOSTNAME: ${{ vars.HELP_CENTER_HOSTNAME || 'newhelp.vtex.com' }}
+      HELP_CENTER_HOSTNAME: ${{ vars.HELP_CENTER_HOSTNAME || 'help.vtex.com' }}
 
       # GitHub API token to increase rate limits for content fetches
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
