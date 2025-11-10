@@ -49,7 +49,7 @@ Para permitir que uma pessoa externa acesse o Bundle, siga os passos abaixo:
 
 3. No Bundle, o administrador vê que o convidado está aguardando sua aprovação na página **My Studio**:
 
-  ![bundle-administrator-approval-flow-image-1_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_2.png)
+  ![usar-studio-bundle_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_2.png)
 
 4. O administrador pode escolher uma das opções abaixo:
     * `Approve`: permite que o convidado entre no estúdio.
@@ -60,7 +60,7 @@ Para permitir que uma pessoa externa acesse o Bundle, siga os passos abaixo:
 
 Se o acesso do convidado for negado e ele achar que foi um erro, ele pode clicar em `Try again` para tentar novamente:
 
-![bundle-administrator-approval-flow-image-2_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_3.png)
+![usar-studio-bundle_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_3.png)
 
 No entanto, se o pedido for negado uma segunda vez, será necessário aguardar cinco minutos antes de tentar novamente. Esse tempo será exibido na página com uma contagem regressiva:
 
