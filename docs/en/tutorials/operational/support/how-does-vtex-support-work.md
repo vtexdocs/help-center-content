@@ -3,8 +3,8 @@ title: 'How does VTEX support work'
 id: 2eAT5EyOvaLoHdIWDVaxC3
 status: PUBLISHED
 createdAt: 2025-01-30T12:32:37.600Z
-updatedAt: 2025-01-30T17:43:47.517Z
-publishedAt: 2025-01-30T17:43:47.517Z
+updatedAt: 2025-11-05T18:46:33.033Z
+publishedAt: 2025-11-05T18:46:33.033Z
 firstPublishedAt: 2025-01-30T17:43:47.517Z
 contentType: tutorial
 productTeam: Others
@@ -28,13 +28,11 @@ As soon as the client opens a ticket, it's forwarded to the support team assigne
 While your ticket is unresolved, you can track its status through the [support dashboard](https://vtexhelp.zendesk.com/auth/v2/login/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests&theme=hc&locale=pt-br&brand_id=144968&auth_origin=144968%2Ctrue%2Ctrue). When a ticket is flagged as resolved, you'll receive an email to indicate your level of satisfaction and add any comments related to our service.
 
 ### Support Plans
-To better serve global customers in different countries, our Customer Excellence team works independently by region. Each region has the autonomy to define its team organization, availability, service SLA and additional support resources:
+VTEX Support is global and provides a standardized service experience for all customers, regardless of their region.  
 
-- Asia-Pacific (APAC)
-- [Brazil](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9)
-- [United States (USA)](/en/faq/vtex-support-united-states--Bm45YFp68QRe1Z5r2oa07)
-- [Europe, Middle East and Africa (EMEA)](/en/faq/vtex-support-emea--5ePu2qkCfmE0IEKDFKg53F?&utm_source=autocomplete)
-- Latin America (LATAM, ex. Brasil)
+Our teams follow the same global criteria for availability and service levels (SLA), ensuring consistency and predictability in support across all regions.
+
+For more information, see [VTEX Global Support Resources](/en/tutorial/recursos-de-suporte-global-da-vtex--5maoEWCrTKFAEMXRsfcklV).
 
 ### Satisfaction Survey
 The *Satisfaction Survey* page in your VTEX Admin allows you to view a list of resolved tickets submitted by you on behalf of your store. Through the page you can also rate VTEX's support through our Satisfaction Survey page after each ticket is resolved.    

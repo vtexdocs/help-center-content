@@ -3,8 +3,8 @@ title: 'Importar y exportar productos y SKUs mediante plantilla (Beta)'
 id: 5udKxWP1ZeBD7QB7Fy2BNl
 status: PUBLISHED
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2025-10-13T23:06:15.308Z
-publishedAt: 2025-10-13T23:06:15.308Z
+updatedAt: 2025-11-05T15:30:32.980Z
+publishedAt: 2025-11-05T15:30:32.980Z
 firstPublishedAt: 2025-09-05T18:41:30.755Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-> ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si tienes alguna duda, ponte en contacto con nuestro [Soporte](https://supporticket.vtex.com/support).
+> ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si tienes alguna duda, ponte en contacto con nuestro [Soporte](https://help.vtex.com/es/support).
 
 En el Admin VTEX puedes gestionar la importación y exportación de productos y SKUs utilizando una plantilla, como se indica en las secciones a continuación:
 
@@ -66,7 +66,7 @@ Tras finalizar la exportación recibirás un email con un link para descargar el
 
 Mientras se procesa la exportación, la página [Productos y SKUs](/es/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) mostrará una ventana en la parte inferior, como se ilustra en la imagen a continuación:
 
-![export-es-loading](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/catálogo-beta/importar-y-exportar-productos-y-skus-mediante-plantilla-beta_1.png)
+![export-es-loading](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/cat%C3%A1logo-beta/importar-y-exportar-productos-y-skus-mediante-plantilla-beta_1.png)
 
 * **Exportaciones 1:** informa el número de exportaciones que se están realizando, en este caso, solo una.
 * **Ícono de carga:** indica que la operación de exportación está en curso.
@@ -79,7 +79,7 @@ Mientras se procesa la exportación, la página [Productos y SKUs](/es/tutorial/
 
 Después de que la operación termina, la ventana presenta los siguientes cambios:
 
-![export-es-done](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/catálogo-beta/importar-y-exportar-productos-y-skus-mediante-plantilla-beta_2.png)
+![export-es-done](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/cat%C3%A1logo-beta/importar-y-exportar-productos-y-skus-mediante-plantilla-beta_2.png)
 
 * **Ícono verde:** indica que la exportación ha finalizado.
 * **Ícono cerrar** <i class="fas fa-times" aria-hidden="true"></i>: al hacer clic se cierra la ventana, sin opción de volver a expandirla.
@@ -109,16 +109,16 @@ La siguiente tabla presenta la descripción y el ejemplo de valor de los campos 
 | Metadescripción | Breve descripción del producto. Se recomienda usar menos de 160 caracteres. Esto permite que los buscadores presenten la descripción de manera correcta en las páginas de resultados. | Camiseta azul cuello redondo de poliéster y lycra confeccionada con 70% de material reciclado |
 | Mostrar en el sitio web* | Si deseas que el producto sea visible en la vitrina, llena con `sí`. Si prefieres que se mantenga oculto, llena con `no`. | sí |
 | Mostrar cuando no hay stock* | Si deseas que el producto sin stock se muestre en la vitrina, llena con `sí`. Esto permite utilizar la opción [Avísame](/es/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e#) para que el cliente ingrese su email y recibe una notificación cuando el producto esté disponible nuevamente. Si prefieres que el producto sin stock se oculte en la vitrina, llena con `no`. | no |
-| Fecha de lanzamiento | Fecha y hora en que el producto estará disponible para la venta. Este campo ayuda a ordenar los resultados de búsqueda del sitio web, influye en la creación de [colecciones automáticas](/es/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye) y determina la fecha de indexación del producto. El formato permitido es `AAAA-MM-DD hh:mm:ss`. | 2025-11-25 10:30:00 |
+| Fecha de lanzamiento | Fecha y hora en que el producto estará disponible para la venta. Este campo ayuda a ordenar los resultados de búsqueda del sitio web, influye en la creación de [colecciones automáticas](/es/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye) y determina la fecha de indexación del producto. El formato permitido es `AAAA-MM-DD`. | 2025-11-25 |
 | Palabras sustitutas | Sinónimos del nombre del producto, que permiten búsquedas más amplias. El límite es de 8000 caracteres, incluyendo caracteres especiales. Para agregar varias palabras, sepáralas con comas sin espacios. | camisa,blusa |
 | Código de referencia Producto | Código de referencia único del producto, utilizado internamente por la tienda. Para llenar este campo, usa una combinación única de letras y/o números. | 68ce4_azul |
 | Código fiscal | Secuencia numérica que identifica el producto. | 84509010 |
 | ID SKU | Código numérico único que identifica el SKU. Si este campo ya está completado no se puede modificar. Para agregar un nuevo producto deja el campo vacío. | 310119261 |
 | Nombre SKU* | Nombre del SKU, es decir, lo que identifica la variación del producto. | M |
 | Activar SKU si es posible* | Si deseas la activación automática del SKU después de verificar los [requisitos de disponibilidad](/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382), llena con `sí`. Si no deseas que se active, llena con `no`. | sí |
-| SKU Activo | Este campo define si el SKU está activo (`sí`) o inactivo (`no`). El campo no permite modificación y solo se utiliza para consulta.  | no |
-| Kit | Este campo define si el SKU es un [kit](/es/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). La acción de convertir un SKU en kit es irreversible. Si vas a crear un nuevo SKU, deja el campo vacío. |  |
-| Código Referencia SKU | Código de referencia único del SKU, creado para ayudar en la gestión del catálogo. Una vez creado, no se puede modificar desde la plantilla.Este campo es obligatorio a menos que se haya llenado el campo **EAN/UPC**. |  |
+| SKU Activo | Este campo define si el SKU está activo (`sí`) o inactivo (`no`). El campo no permite modificación y solo se utiliza para consulta. | no |
+| Kit | Este campo define si el SKU es un [kit](/es/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). La acción de convertir un SKU en kit es irreversible. Si vas a crear un nuevo SKU, deja el campo vacío. | |
+| Código Referencia SKU | Código de referencia único del SKU, creado para ayudar en la gestión del catálogo. Una vez creado, no se puede modificar desde la plantilla.Este campo es obligatorio a menos que se haya llenado el campo **EAN/UPC**. | |
 | EAN/UPC | El EAN (European Article Number) y el UPC (Universal Product Code) son códigos de identificación internacionales y corresponden al código de barras del ítem. Cada SKU puede estar asociado únicamente a uno de estos códigos. La principal diferencia entre ambos radica en la cantidad de caracteres: el EAN contiene 13 dígitos alfanuméricos, mientras que el UPC tiene 12.Este campo es obligatorio a menos que el campo **Código Referencia SKU** haya sido llenado. | 8456971345604 |
 | Código de fabricante | Código proporcionado por el fabricante para identificar el SKU. Si un SKU tiene un código específico, este campo debe llenarse. | 7154-azul |
 | Peso del paquete* | Valor absoluto del peso del paquete. | 0.8 |
@@ -134,10 +134,10 @@ La siguiente tabla presenta la descripción y el ejemplo de valor de los campos 
 | Multiplicador de unidad* | Valor numérico por el que se multiplicará el SKU para definir la cantidad en el carrito. Por ejemplo, un multiplicador de 5 significa que cada SKU representa 5 ítems en el carrito y solo permite compras en múltiplos de 5 como, por ejemplo, 10 o 15 ítems. Los valores de fracciones se pueden separar con punto o coma. Por ejemplo, medio kilogramo se puede indicar como 0.5 o 0,5. | 1 |
 | Condición comercial | Código numérico único identificador de la [condición comercial](/es/tutorial/como-cadastrar-condicao-comercial--tutorials_445), que define las promociones o [condiciones de pago](/es/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) que deben aplicarse al SKU. | Predeterminado |
 | Valor fidelidad | Crédito que el cliente recibe al comprar 1 unidad de determinado SKU. Por ejemplo, si llenas este campo con un valor de 1.00 USD, los clientes que compren este SKU obtendrán un crédito de 1.00 USD en la tienda para compras futuras. Este campo debe llenarse con valores decimales de la moneda predeterminada de la tienda. | 49.90 |
-| Fecha de preventa | Fecha de preventa asignada al SKU. La fecha de preventa es la fecha prevista en que el ítem llegará a las tiendas y estará disponible para la venta. Para configurarla, debes tomar en cuenta la fecha de lanzamiento del ítem y el [cálculo de envío](/es/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) a los clientes. El formato permitido es `AAAA-MM-DD hh:mm:ss`. | 2025-10-30 10:30:00 |
+| Fecha de preventa | Fecha de preventa asignada al SKU. La fecha de preventa es la fecha prevista en que el ítem llegará a las tiendas y estará disponible para la venta. Para configurarla, debes tomar en cuenta la fecha de lanzamiento del ítem y el [cálculo de envío](/es/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) a los clientes. El formato permitido es `AAAA-MM-DD`. | 2025-10-30 |
 | Anexos | Nombre del [anexo](/es/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm#) que el cliente puede seleccionar como personalización del SKU. | Personalizar nombre |
 | Accesorios | Ítems sugeridos como opciones que complementan la venta. Para agregar un ítem [accesorio](/es/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280), incluye el ID de SKU. Si deseas incluir varios SKUs, sepáralos con una coma sin espacios. | 320221270 |
-| Sugerencias | Ítems que se muestran como sugerencias de compra. Para agregar un ítem como [sugerencia](/es/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280), incluye el ID de SKU. Si deseas incluir varios SKUs, sepáralos con una coma sin espacios. | 320221279,320221280  |
+| Sugerencias | Ítems que se muestran como sugerencias de compra. Para agregar un ítem como [sugerencia](/es/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280), incluye el ID de SKU. Si deseas incluir varios SKUs, sepáralos con una coma sin espacios. | 320221279,320221280 |
 | Productos similares | Ítems que se ofrecen como alternativa de compra o que guardan similitud con el producto principal. Para agregar un ítem [similar](/es/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280), incluye el ID de SKU correspondiente. Si deseas incluir varios SKUs, sepáralos con una coma sin espacios. | 320221284 |
 | Mostrar juntos | Ítems sugeridos para adquirirse conjuntamente con el producto principal. Si deseas agregar un ítem para [mostrar juntos](/es/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280), incluye el ID de SKU correspondiente. Si deseas incluir varios SKUs, sepáralos con una coma sin espacios. | 320221293,320221294 |
 

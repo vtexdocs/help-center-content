@@ -3,8 +3,8 @@ title: 'Cadastrar um produto para pré-venda'
 id: 4o6cUJ4gIg0MQWW8WfN34K
 status: PUBLISHED
 createdAt: 2021-09-08T16:32:39.818Z
-updatedAt: 2023-03-29T18:23:13.300Z
-publishedAt: 2023-03-29T18:23:13.300Z
+updatedAt: 2025-11-06T15:35:57.132Z
+publishedAt: 2025-11-06T15:35:57.132Z
 firstPublishedAt: 2021-09-14T16:54:57.039Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,35 +15,43 @@ locale: pt
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-Na plataforma VTEX, operadores de loja podem definir a data prevista de chegada de um produto e ofertá-lo em modo pré-venda. A pré-venda permite a reserva mediante pagamento de produtos antes da data efetiva de lançamento e da disponibilidade no mercado.
+Na plataforma VTEX, os lojistas podem definir a data prevista para a chegada de um produto e ofertá-lo em modo de pré-venda. A pré-venda permite ao cliente reservar o produto mediante pagamento antes da sua data de disponibilização no mercado.
 
 Neste artigo iremos abordar os seguintes tópicos:
 
-- [Criar produto para a pré-venda](#criar-um-produto-para-a-pre-venda)
+- [Criar produto para a pré-venda](#criar-produto-para-a-pre-venda)
 - [Agendar preços](#agendar-precos)
 - [Agendar conteúdo](#agendar-conteudo)
 
-## Criar um produto para a pré-venda
+> ⚠️ Configurar o campo **Data de lançamento** para um produto não impacta sua visibilidade na frente de loja, que é determinada pela ativação ou desativação do campo **Mostrar no site**.
 
-Para disponibilizar um produto via pré-venda, siga os passos abaixo.
+## Criar produto para a pré-venda
 
-1. No Admin VTEX, acesse __Catálogo__, ou digite __Catálogo__ na barra de busca no topo da página.
-2. Clique na aba **Todos os produtos**.
-3. Clique no botão `Adicionar Produto`.
-4. No campo **Data de lançamento no mercado** coloque a data que pretende lançar o produto no formato `dd/mm/aaaa`. Esse campo é um critério de ordenação de produtos da loja. Para saber mais sobre ordenação de produtos, leia o artigo [Posso ordenar os produtos de acordo com o critério da loja?](/pt/tutorial/posso-ordenar-os-produtos-de-acordo-com-o-criterio-da-loja--qfWKX2ZekoEoayiyo0uuA).
-5. Preencha os [restantes campos do produto](/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke).
-6. Clique em `Salvar e Cadastrar um novo SKU`.
-7. Na página de criação do SKU, preencha o campo **Data Previsão Chegada (pré-venda)** com a data em que o produto estará disponível para entrega pela loja no formato `dd/mm/aaaa`.
-> ℹ️ É preciso levar em consideração tanto a data de lançamento quanto o cálculo do frete para o cadastro da data de chegada: `tempo final de entrega = SLA de entrega + prazo de recebimento do lote de abastecimento`
-8. Preencha os [restantes campos do SKU](/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY).
-9. Clique em `Salvar` para finalizar.
+Para disponibilizar um produto para pré-venda, siga os passos abaixo:
 
-> ℹ️ O pedido do item em pré-venda só deverá ser faturado a partir da data de lançamento, isto é, quando haverá a disponibilidade real de estoque do produto.
+1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite **Produtos e SKUs** na barra de busca no topo da página.
+2. Clique em `+ Adicionar produto`.
+3. Na seção **Frente de loja**, no campo **Data de lançamento**, selecione a data em que lançará o produto. 
+
+  > ℹ️ Este campo é utilizado para auxiliar na ordenação do resultado de busca do site. Por meio da querystring `O=OrderByReleaseDateDESC`, é possível puxar esse valor e mostrar a ordem de exibição por data de lançamento. Além disso, o valor deste campo influencia a criação de [coleções automáticas](/pt/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye) e determina a data de [indexação](/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) do produto.
+
+4. Preencha os demais campos para a criação do produto. Saiba mais em [Adicionar ou editar produto](/pt/tutorial/adicionar-ou-editar-produto--29IkdEu6GofCFlltsZh2H8).
+5. Clique em `Salvar`.
+6. Clique na aba `SKUs`.
+7. Clique no sinal `+` **> Adicionar novo SKU**.
+8. Na seção **Estratégia comercial**, no campo **Data de pré-venda**, selecione a data prevista para a chegada do item nas lojas e sua disponibilização para venda.
+
+  > ℹ️ Para realizar essa configuração, é preciso considerar tanto a data de lançamento do item quanto o cálculo do envio do item para os clientes: `tempo final de entrega = SLA de entrega + prazo de recebimento do lote de abastecimento`.
+
+9. Preencha os demais campos para a criação do SKU. Saiba mais em [Adicionar ou editar SKU](/pt/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN).
+10. Clique em `Salvar`.
+
+> ⚠️ O pedido do item em pré-venda só deverá ser faturado a partir da data de lançamento, isto é, quando houver sua disponibilidade para vendas.
 
 ## Agendar preços
-Para agendar os preços fixos da sua loja para a pré-venda de um produto, siga os passos descritos no artigo [Agendar preços](/pt/tutorial/agendar-preco--4vVha6TGzYkguWuMOqCcCk). 
+
+Para agendar os preços fixos da sua loja para a pré-venda de um produto, siga os passos descritos em [Agendar preços](/pt/tutorial/agendar-preco--4vVha6TGzYkguWuMOqCcCk). 
 
 ## Agendar conteúdo
-É importante potencializar a divulgação do produto que será lançado para aumentar o alcance de clientes. Desenvolver um conteúdo dedicado a um novo produto permite que as taxas de sucesso na pré-venda aumentem.
 
-Para agendar o conteúdo, siga os passos descritos na seção [Agendar conteúdo](/pt/tutorial/scheduling-features-for-special-events--2nd50tPWdKK4waXRZLg0JI#agendar-conteudo) do artigo [Agendamento para eventos especiais](/pt/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI).
+Para aumentar o sucesso na etapa de pré-venda e obter um maior alcance de clientes, é importante potencializar a divulgação do produto que será lançado. Para isso, vale agendar conteúdo sobre o lançamento, conforme explicado no artigo [Agendamento para eventos especiais](/pt/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI#agendar-conteudo).

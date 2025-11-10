@@ -3,8 +3,8 @@ title: 'Creating a product for presale'
 id: 4o6cUJ4gIg0MQWW8WfN34K
 status: PUBLISHED
 createdAt: 2021-09-08T16:32:39.818Z
-updatedAt: 2023-03-29T18:23:13.300Z
-publishedAt: 2023-03-29T18:23:13.300Z
+updatedAt: 2025-11-06T15:35:57.132Z
+publishedAt: 2025-11-06T15:35:57.132Z
 firstPublishedAt: 2021-09-14T16:54:57.039Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-On the VTEX platform, store operators can set the expected arrival date of a product and offer it in presale mode. Presale allows reserving products upon payment prior to the actual launch date and market availability.
+On the VTEX platform, merchants can set up the release date of a product and offer it in presale mode. The presale allows clients to reserve these products upon payment prior to the actual product launch date and market availability.
 
 In this article we will cover the following topics:
 
@@ -23,28 +23,35 @@ In this article we will cover the following topics:
 - [Scheduling prices](#scheduling-prices)
 - [Scheduling content](#scheduling-content)
 
+> ⚠️ Configuring the **Release date** field for a product doesn't impact the product display on the storefront, which is determined by the activation or deactivation of the **Display on website** field.
+
 ## Creating a product for presale
 
-To make a product available on presale, follow the steps below.
+To make a product available on presale, follow the steps below:
 
-1. In the VTEX Admin, go to __Catalog__, or type __Catalog__ in the search bar at the top of the page.
-2. Click the **All products** page.
-3. Click `Add Product`.
-4. In the **Market launch date** field put the intended launch date of the product in the `dd/mm/yyyy` format. This field is a criterion for sorting products in the store. To learn more about sorting products, read the article [Can I put my products in an order which I choose?](/en/tutorial/can-i-put-my-products-in-an-order-which-i-choose--qfWKX2ZekoEoayiyo0uuA).
-5. Fill in the [remaining product fields](/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke)
-6. Click `Save and add a new SKU`.
-7. On the SKU creation page, fill in the **Coming soon expected on** field with the date when the product will be available for delivery by the store in the `dd/mm/yyyy` format.
-> ℹ️ You need to consider both the launch date and the shipping cost to determine the arrival date: `final delivery time = delivery SLA + supply batch delivery time frame`
-8. Fill in the [remaining SKU fields](/en/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY).
-9. Click `Save` to finish.
+1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type **Products and SKUs** in the search bar at the top of the page.
+2. Click `+ Add Product`.
+3. In the **Storefront** section, in the **Release date** field, select the desired release date for the product.
 
-> ℹ️ The presale item order should only be invoiced on or after the launch date, that is, when the product will be actually available in the inventory.
+  > ℹ️ This field helps sort search results on the website. You can use the query string `O=OrderByReleaseDateDESC` to retrieve this value and display products in order of release date. In addition, the value of this field influences the creation of [automatic collections](/en/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye) and determines the product [indexing](/en/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) date.
+
+4. Fill in the other fields required to create the product. Know more in [Adding or editing products](/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8).
+5. Click `Save`.
+6. Click the `SKUs` tab.
+7. Click `+` **> Add new SKU**.
+8. In the **Commercial strategy** section, in the **Presale date** field, select the desired date for the presale, indicating when the item is expected to arrive in stores and be available for sale.
+
+  > ℹ️ For this configuration, you need to consider both the item release date and the estimated delivery time: `final delivery time = delivery SLA + supply batch delivery time frame`.
+
+9. Fill in the fields required to create the SKU. Know more in [Adding or editing SKUs](/en/tutorial/adding-or-editing-skus--4ryZ6J45kwn3jDiQBxGiiN).
+10. Click `Save`.
+
+> ⚠️ Presale items must only be invoiced on or after the launch date, when the product becomes available in inventory.
 
 ## Scheduling prices
-To schedule your store's fixed prices for the presale of a product, follow the steps described in the article [Scheduling prices](/en/tutorial/scheduling-prices--4vVha6TGzYkguWuMOqCcCk).  
+
+To schedule your store's fixed prices for the presale of a product, follow the steps described in [Scheduling prices](/en/tutorial/scheduling-prices--4vVha6TGzYkguWuMOqCcCk).  
 
 ## Scheduling content
-It is important to optimize the promotion of the product that will be launched to increase customer reach. Creating content for a new product increases the presale success rates.
 
-To schedule content, follow the steps described in the [Scheduling content](/en/tutorial/scheduling-features-for-special-events--2nd50tPWdKK4waXRZLg0JI#scheduling-content) section of the [Scheduling for special events](/en/tutorial/scheduling-features-for-special-events--2nd50tPWdKK4waXRZLg0JI) article.
-
+To increase success in the pre-sales stage and achieve greater customer reach, it is important to enhance the promotion of the product that will be launched. For this purpose, it’s worth to schedule content about the release date, as explained in the article [Scheduling features for special events](/en/tutorial/scheduling-features-for-special-events--2nd50tPWdKK4waXRZLg0JI#scheduling-content).

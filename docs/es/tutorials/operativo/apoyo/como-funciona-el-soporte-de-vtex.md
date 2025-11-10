@@ -3,8 +3,8 @@ title: 'Cómo funciona el soporte de VTEX'
 id: 2eAT5EyOvaLoHdIWDVaxC3
 status: PUBLISHED
 createdAt: 2025-01-30T12:32:37.600Z
-updatedAt: 2025-01-30T17:43:47.517Z
-publishedAt: 2025-01-30T17:43:47.517Z
+updatedAt: 2025-11-05T18:46:33.033Z
+publishedAt: 2025-11-05T18:46:33.033Z
 firstPublishedAt: 2025-01-30T17:43:47.517Z
 contentType: tutorial
 productTeam: Others
@@ -28,13 +28,10 @@ Una vez abierto, el ticket se envía al equipo de Soporte que da servicio a tu t
 En lo que se soluciona el ticket, puedes seguir el status a través del [dashboard de Soporte](https://support.vtex.com/hc/es-419/requests). Cuando se marque el ticket como solucionado, recibirás un email que te da la oportunidad de indicar tu nivel de satisfacción e incluir cualquier comentario relacionado con nuestro servicio.
 
 ### Planes de soporte
-Para ofrecer un mejor servicio a nuestros clientes globales que se encuentran en diferentes países, nuestro equipo de Customer Excellence opera de forma independiente en cada región. Las regiones tienen autonomía para definir la organización y disponibilidad de los equipos, el nivel de servicio (SLA) y recursos de soporte adicionales:
+El Soporte de VTEX es global y ofrece una experiencia de servicio estandarizada para todos los clientes, independientemente de la región.  
+Nuestros equipos siguen los mismos criterios globales de disponibilidad y niveles de servicio (SLA), garantizando coherencia y previsibilidad en la atención en todas las regiones.
 
-- América Latina (LATAM, ex. Brasil)
-- Asia-Pacífico (APAC)
-- [Brasil](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9)
-- [Estados Unidos (EE. UU.)](/en/faq/vtex-support-united-states--Bm45YFp68QRe1Z5r2oa07)
-- [Europa, Oriente Medio y África (EMEA)](/es/faq/vtex-soporte-emea--5ePu2qkCfmE0IEKDFKg53F?&utm_source=autocomplete)
+Para más información, consulta [Recursos de Soporte Global de VTEX](/es/tutorial/recursos-de-suporte-global-da-vtex--5maoEWCrTKFAEMXRsfcklV).
 
 ### Encuesta de satisfacción
 La página Encuesta de satisfacción en el Admin VTEX presenta los tickets que has abierto en nombre de tu tienda y que ya se han marcado como solucionados y te permite evaluar el servicio de Soporte VTEX mediante una encuesta de satisfacción.
@@ -51,7 +48,7 @@ Valoramos la transparencia en lo que respecta a la integridad de nuestros sistem
 Tomaremos todas las medidas oportunas para resolver la situación lo antes posible y garantizar el cumplimiento de nuestro [SLA](/es/tutorial/o-que-e-o-sla-de-operacao-da-plataforma--2cIFrsY5S8usk84OU4QOKm?locale=pt) previsto en el contrato.
 
 ### Help Center
-Este [portal de documentos para usuarios](https://newhelp.vtex.com) contiene tutoriales para principiantes, guías de referencia y artículos de solución de problemas. Esta base de conocimiento contiene toda la información que necesitas para usar el panel administrativo de VTEX.
+Este [portal de documentos para usuarios](https://help.vtex.com) contiene tutoriales para principiantes, guías de referencia y artículos de solución de problemas. Esta base de conocimiento contiene toda la información que necesitas para usar el panel administrativo de VTEX.
 
 ### Developer Portal
 El [portal para desarrolladores](https://developers.vtex.com) contiene toda la documentación sobre integraciones con APIs y guías de desarrollo para tu tienda. El público objetivo del portal son nuestros [partners](https://vtex.com/br-pt/partner/) y los equipos de desarrolladores de nuestros clientes.

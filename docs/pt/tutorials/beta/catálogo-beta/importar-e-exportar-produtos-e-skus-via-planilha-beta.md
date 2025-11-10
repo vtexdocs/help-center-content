@@ -3,8 +3,8 @@ title: 'Importar e exportar produtos e SKUs via planilha (Beta)'
 id: 5udKxWP1ZeBD7QB7Fy2BNl
 status: PUBLISHED
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2025-10-13T23:06:15.308Z
-publishedAt: 2025-10-13T23:06:15.308Z
+updatedAt: 2025-11-05T15:30:32.980Z
+publishedAt: 2025-11-05T15:30:32.980Z
 firstPublishedAt: 2025-09-05T18:41:30.755Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://supporticket.vtex.com/support).
+> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
 
 No Admin VTEX, você pode gerenciar a importação e a exportação de produtos e SKUs utilizando planilha, conforme apresentado nas seções:
 
@@ -66,7 +66,7 @@ Após a finalização da exportação, você receberá um email com um link para
 
 Enquanto a exportação estiver sendo processada, a página [Produtos e SKUs](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) apresentará uma janela na parte inferior como a imagem a seguir:
 
-![export-pt-loading](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/importar-e-exportar-produtos-e-skus-via-planilha-beta_1.png)
+![export-pt-loading](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/cat%C3%A1logo-beta/importar-e-exportar-produtos-e-skus-via-planilha-beta_1.png)
 
 * **Exportações 1:** informa o número de operações de exportação sendo realizadas, neste caso apenas uma.
 * **Ícone de carregando:** indica que a operação de exportação está em andamento.
@@ -79,7 +79,7 @@ Enquanto a exportação estiver sendo processada, a página [Produtos e SKUs](/p
 
 Após a conclusão da operação, a janela apresentará as seguintes mudanças:
 
-![export-pt-done](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/importar-e-exportar-produtos-e-skus-via-planilha-beta_2.png)
+![export-pt-done](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/cat%C3%A1logo-beta/importar-e-exportar-produtos-e-skus-via-planilha-beta_2.png)
 
 * **Ícone verde:** indica que a exportação foi finalizada.
 * **Ícone fechar** <i class="fas fa-times" aria-hidden="true"></i>: quando clicado, fecha a visualização da janela, sem a opção de voltar a expandi-la.
@@ -100,7 +100,7 @@ A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campo
 | Marca | Nome da [marca](/pt/tutorial/o-que-e-uma-marca--QU07yhHoaWcEYseEucOQW) do produto. Uma vez preenchido, este campo não pode ser editado. | AOC |
 | ID Departamento | Código numérico que identifica a categoria de maior nível hierárquico do produto. Este campo não é editável pela planilha. Em caso de um novo produto, deixe o campo vazio. | 1000014 |
 | Departamento | Nome da categoria de maior nível hierárquico do produto. | Roupas |
-| ID Categoria* | Número único identificador da categoria de menor nível hierárquico do produto.  Essa informação pode ser encontrada no Admin VTEX, em **Catálogo > Categorias**, ou usando o endpoint [Get category tree](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pub/category/tree/-categoryLevels-). | 1000014 |
+| ID Categoria* | Número único identificador da categoria de menor nível hierárquico do produto. Essa informação pode ser encontrada no Admin VTEX, em **Catálogo > Categorias**, ou usando o endpoint [Get category tree](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pub/category/tree/-categoryLevels-). | 1000014 |
 | Categoria | Nome relacionado à categoria de menor nível hierárquico do produto. É possível mover o produto de uma categoria para outra. | Blusas |
 | Políticas comerciais | Número único identificador da [política comercial](/pt/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE). Essa informação pode ser encontrada no Admin VTEX, em **Configurações de loja > Políticas comerciais**. Para múltiplas políticas comerciais, separe os números por vírgula sem usar espaço. | 1,2,7 |
 | ID Categoria global | Código identificador da [categoria global do produto](/pt/tutorial/configurando-a-categoria-global--tutorials_188), ou seja, a taxonomia criada pelo Google para o [Merchant Center](https://support.google.com/merchants/answer/6324436?hl=pt-BR), que fica pré-definida como uma árvore única na plataforma VTEX. Este campo é importante para questões de [SEO](/pt/tutorial/melhorando-o-seo-das-paginas-de-lista-de-produtos--UrQtlKAMuSaLBP5wG9ftG). | 166 |
@@ -109,14 +109,14 @@ A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campo
 | Meta descrição | Breve descrição do produto, preferencialmente usando menos de 160 caracteres. Isso permite que os mecanismos de busca possam apresentar a descrição de forma correta nas páginas de resultados. | Corebiz camiseta azul gola redonda em poliéster e lycra feita com 70% de material reciclado |
 | Mostrar no site* | Se você deseja que o produto esteja visível na vitrine, preencha `sim`. Se prefere que ele fique oculto, preencha com `não`. | sim |
 | Mostrar quando estiver fora de estoque* | Se deseja que o produto esgotado apareça na vitrine, preencha com `sim`. Isso permite usar a configuração [Avise-me](/pt/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e) para que o cliente informe seu email e seja avisado quando o produto estiver disponível. Se prefere que o produto esgotado se torne oculto na vitrine, preencha com `não`. | não |
-| Data de lançamento | Data e hora na qual o produto será disponibilizado para venda. Este campo auxilia a ordenação de resultados de busca do site, influencia a criação de [coleções automáticas](/pt/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye) e determina a data de [indexação](/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) do produto. O formato aceito é `AAAA-MM-DD hh:mm:ss`. | 2025-11-25 10:30:00 |
+| Data de lançamento | Data e hora na qual o produto será disponibilizado para venda. Este campo auxilia a ordenação de resultados de busca do site, influencia a criação de [coleções automáticas](/pt/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye) e determina a data de [indexação](/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) do produto. O formato aceito é `AAAA-MM-DD`. | 2025-11-25 |
 | Palavras substitutas | Sinônimos do nome do produto, que permitem buscas mais abrangentes. O limite é de 8.000 caracteres, incluindo caracteres especiais. Para adicionar diversas palavras, separe-as por vírgula sem espaço. | camisa,blusa |
 | Código de referência Produto | Código de referência único do produto, utilizado apenas internamente pela loja. Para preencher este campo, use uma combinação única de letras e/ou números. | 68ce4_azul |
 | Código fiscal | Sequência numérica que identifica o produto. | 84509010 |
 | ID SKU | Código numérico único que identifica o SKU. Caso esse campo já esteja preenchido, não é possível alterá-lo. Para adicionar um novo SKU, deixe o campo vazio. | 310119261 |
 | Nome SKU* | Nome do SKU, ou seja, que identifica a variação do produto. | M | 
 | Ativar SKU se possível* | Se deseja a ativação automática do SKU após a checagem dos [requisitos de disponibilidade](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382), preencha com `sim`. Se não deseja que ele seja ativado, preencha com `não`. | sim |
-| SKU Ativo | Este campo define se o SKU está ativo (`sim`) ou inativo (`não`). O campo não permite alteração e é utilizado somente para consulta.  | não |
+| SKU Ativo | Este campo define se o SKU está ativo (`sim`) ou inativo (`não`). O campo não permite alteração e é utilizado somente para consulta. | não |
 | Kit | Este campo define se o SKU é um [kit](/pt/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). A ação de transformar um SKU em kit é irreversível. Caso esteja criando um novo SKU, deixe o campo vazio. | |
 | Código de referência SKU | Código de referência único do SKU, criado para auxiliar o lojista na gestão do catálogo. Após ser criado, não é possível editá-lo pela planilha.Este campo é obrigatório, a menos que o campo **EAN/UPC** tenha sido preenchido. | |
 | EAN/UPC | O EAN (European Article Number) e o UPC (Universal Product Code) são códigos de identificação internacionais e correspondem ao código de barras de um item. Cada SKU só pode ser associado a um deles e é possível diferenciá-los pelo número de caracteres alfanuméricos, que são 13 para o EAN e 12 para o UPC.Este campo é obrigatório, a menos que o campo **Código de referência SKU** tenha sido preenchido. | 8456971345604 |
@@ -134,7 +134,7 @@ A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campo
 | Multiplicador de unidade* | Valor numérico pelo qual o SKU será multiplicado para definir a quantidade no carrinho. Por exemplo, o multiplicador 5 significa que cada SKU representa 5 volumes no carrinho, permitindo somente compras de múltiplos de 5, como 10 ou 15 volumes. Valores fracionados podem ser separados tanto por ponto quanto por vírgula. Por exemplo, metade de um quilograma pode ser 0.5 ou 0,5. | 1 |
 | Condição comercial | Código numérico único identificador da [condição comercial](/pt/tutorial/como-cadastrar-condicao-comercial--tutorials_445), que define quais promoções ou [condições de pagamento](/pt/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) devem ser válidas para o SKU. | Padrão |
 | Valor fidelidade | Crédito que o cliente recebe ao concluir uma compra de 1 unidade de determinado SKU. Por exemplo, preenchendo este campo com o valor R$1,00, o cliente que adquirir este SKU vai obter um crédito de R$1,00 na loja para compras futuras. Esse campo deve ser preenchido com valores decimais da moeda padrão da loja. | 49,90 |
-| Data de pré-venda | Data de pré-venda atribuída ao SKU, ou seja, a data prevista para a chegada do item nas lojas e sua disponibilização para venda. Para realizar essa configuração, é preciso considerar tanto a data de lançamento do item quanto o [cálculo do envio](/pt/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) do item para os clientes. O formato aceito é `AAAA-MM-DD hh:mm:ss`. | 2025-10-30 10:30:00 |
+| Data de pré-venda | Data de pré-venda atribuída ao SKU, ou seja, a data prevista para a chegada do item nas lojas e sua disponibilização para venda. Para realizar essa configuração, é preciso considerar tanto a data de lançamento do item quanto o [cálculo do envio](/pt/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) do item para os clientes. O formato aceito é `AAAA-MM-DD`. | 2025-10-30 |
 | Anexos | Nome do [anexo](/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) que pode ser selecionado pelo cliente como customização do SKU. | Customizar nome |
 | Acessórios | Itens sugeridos como opções complementares para a venda. Para adicionar um item [acessório](/pt/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280), inclua o ID do SKU. Se quiser incluir diversos SKUs, separe-os usando vírgula sem espaço. | 320221270 |
 | Sugestões | Itens apresentados como sugestões de compra. Para adicionar um item de [sugestão](/pt/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280), inclua o ID do SKU. Se quiser incluir diversos SKUs, separe-os usando vírgula sem espaço. | 320221279,320221280 |

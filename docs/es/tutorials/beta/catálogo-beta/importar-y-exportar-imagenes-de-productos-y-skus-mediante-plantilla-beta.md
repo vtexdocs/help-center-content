@@ -3,8 +3,8 @@ title: 'Importar y exportar imágenes de productos y SKUs mediante plantilla (Be
 id: 6zBisMdxDYeBF49LPzvfqt
 status: PUBLISHED
 createdAt: 2025-09-26T15:59:03.761Z
-updatedAt: 2025-10-13T22:40:44.722Z
-publishedAt: 2025-10-13T22:40:44.722Z
+updatedAt: 2025-11-05T14:19:35.695Z
+publishedAt: 2025-11-05T14:19:35.695Z
 firstPublishedAt: 2025-09-26T16:15:52.581Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-> ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si tienes alguna duda, ponte en contacto con nuestro [Soporte](https://supporticket.vtex.com/support).
+> ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si tienes alguna duda, ponte en contacto con nuestro [Soporte](https://help.vtex.com/es/support).
 
 En el Admin VTEX puedes gestionar la importación y exportación de información de imágenes utilizando plantillas, como se indica en las secciones a continuación:
 

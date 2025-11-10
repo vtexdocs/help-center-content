@@ -3,8 +3,8 @@ title: 'Delivery Promise (Beta)'
 id: p9EJH9GgxL0JceA6dBswd
 status: PUBLISHED
 createdAt: 2024-08-22T15:58:58.240Z
-updatedAt: 2025-08-29T20:07:18.463Z
-publishedAt: 2025-08-29T20:07:18.463Z
+updatedAt: 2025-11-04T20:48:04.877Z
+publishedAt: 2025-11-04T20:48:04.877Z
 firstPublishedAt: 2024-08-22T18:57:59.895Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact [our Support](https://supporticket.vtex.com/support).
+> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact [our Support](https://help.vtex.com/en/support).
 
 **Delivery Promise (Beta)** is VTEX's new solution that allows customers to view only the products they can buy in their shopping experience, considering both the product availability and valid shipping methods for their delivery address.
 
@@ -72,7 +72,7 @@ For [omnichannel](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9
 To join the current phase of **Delivery Promise (Beta)**, you must meet the following conditions:
 
 * <i class="far fa-check-circle"></i> **Requirement:** Use [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG).
-* <i class="far fa-check-circle"></i> **Requirement:** Have a frontend implementation with [Store Framework](/en/docs/tracks/frontend-implementation#store-framework), [FastStore](/en/docs/tracks/frontend-implementation#faststore) or headless.
+* <i class="far fa-check-circle"></i> **Requirement:** Have a frontend implementation with [Store Framework](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework), [FastStore](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#faststore) or headless.
 
 ### Learn more
 

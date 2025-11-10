@@ -3,8 +3,8 @@ title: 'Adding or editing products'
 id: 29IkdEu6GofCFlltsZh2H8
 status: PUBLISHED
 createdAt: 2024-08-29T19:11:09.043Z
-updatedAt: 2025-10-20T15:24:51.383Z
-publishedAt: 2025-10-20T15:24:51.383Z
+updatedAt: 2025-11-04T16:24:04.395Z
+publishedAt: 2025-11-04T16:24:04.395Z
 firstPublishedAt: 2024-08-29T19:14:22.359Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -51,6 +51,9 @@ The fields in this section provide general product details:
     * ❌ Avoid complex spelling
 * **Active:** To activate the product, enable the toggle <i class="fas fa-toggle-on" aria-hidden="true"></i> **Active**. To keep it inactive, leave the toggle switch <i class="fas fa-toggle-off" aria-hidden="true"></i> disabled. Learn more about product statuses in the article [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By).
 * **Description:** Enter general product information in the text box. This content is displayed to customers in the storefront, so we recommend creating a simple and clear summary.
+
+  > ℹ️ This field allows you to add an image to the product description using an HTML tag that contains the image URL. However, we recommend managing your catalog images through [SKU media](/en/tutorial/adding-or-editing-skus--4ryZ6J45kwn3jDiQBxGiiN#media).
+
 * **Additional description:** When you activate the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i> **Additional description**, a text box displays for including additional product information, such as a summary.
 * **Brand*:** Type or search for the product [brand](/en/tutorial/o-que-e-uma-marca--QU07yhHoaWcEYseEucOQW) name and select the desired option. Make sure the [brand exists](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7lEGOSpAlQJCs5eUc5XFmR) and is active.
 * **Category*:** Type or search for the product [category](/en/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) name and select the desired option, preferably the most specific category level. Make sure the [category exists](/en/tutorial/cadastrar-uma-categoria--tutorials_206) and is active.

@@ -3,8 +3,8 @@ title: 'Como funcionam os pedidos incompletos'
 id: tutorials_294
 status: PUBLISHED
 createdAt: 2017-04-27T22:09:39.566Z
-updatedAt: 2023-03-29T23:26:00.473Z
-publishedAt: 2023-03-29T23:26:00.473Z
+updatedAt: 2025-11-06T18:32:21.225Z
+publishedAt: 2025-11-06T18:32:21.225Z
 firstPublishedAt: 2017-04-27T23:03:13.801Z
 contentType: tutorial
 productTeam: Post-purchase

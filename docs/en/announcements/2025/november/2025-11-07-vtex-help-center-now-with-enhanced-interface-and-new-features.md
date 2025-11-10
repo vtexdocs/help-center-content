@@ -13,7 +13,7 @@ announcementSynopsisEN: 'New Help Center portal with multiple improvements.'
 
 VTEX has just launched a [new Help Center](https://newhelp.vtex.com/en), featuring a lighter interface design, enhanced search, and other updates. The goal is to improve your experience with our documentation by combining high-quality information with a refreshed look and a portal offering more functionality.
 
-![new_help_center_home_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/november/new_help_center_home_EN.gif)
+![new_help_center_home_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/november/2025-11-07-vtex-help-center-now-with-enhanced-interface-and-new-features_1.gif)
 
 ## Light and modern look
 
@@ -25,7 +25,7 @@ By using the VTEX design system, the same used in the [Developer Portal](https:/
 
 Navigation has been completely updated, featuring new categories, improved visibility, and an expandable menu. Additionally, you can use the search bar to search within each section.
 
-![new_help_center_start_here_view_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/november/new_help_center_start_here_view_EN.png)
+![new_help_center_start_here_view_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/november/2025-11-07-vtex-help-center-now-with-enhanced-interface-and-new-features_2.png)
 
 ## Intelligent and quick search
 
@@ -33,11 +33,11 @@ The content search and indexing technology in the new Help Center has been fully
 
 Using the top search bar, results appear as soon as you begin typing. If you choose to view all results, you'll be redirected to a page displaying results by category, such as tutorials, troubleshooting, and others.
 
-![new_help_center_search_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/november/new_help_center_search_EN.gif)
+![new_help_center_search_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/november/2025-11-07-vtex-help-center-now-with-enhanced-interface-and-new-features_3.gif)
 
 Other updates are related to the [Known Issues](https://newhelp.vtex.com/en/known-issues) and [Troubleshooting](https://newhelp.vtex.com/en/troubleshooting) articles, which now have new sorting and filtering options. The following image is an example of the filters available when searching for a known issue:
 
-![new_help_center_filters_view_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/november/new_help_center_filters_view_EN.png)
+![new_help_center_filters_view_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/november/2025-11-07-vtex-help-center-now-with-enhanced-interface-and-new-features_4.png)
 
 ## Improvements in the mobile version
 
@@ -52,4 +52,4 @@ There are also additional improvements worth noting:
 * Article contributor mentions
 * Interactive table of contents for article sections
 
-![new_help_center_highlights_view_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/november/new_help_center_highlights_view_EN.png)
+![new_help_center_highlights_view_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/november/2025-11-07-vtex-help-center-now-with-enhanced-interface-and-new-features_5.png)

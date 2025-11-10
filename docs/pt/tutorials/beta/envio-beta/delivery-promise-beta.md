@@ -3,8 +3,8 @@ title: 'Delivery Promise (Beta)'
 id: p9EJH9GgxL0JceA6dBswd
 status: PUBLISHED
 createdAt: 2024-08-22T15:58:58.240Z
-updatedAt: 2025-08-29T20:07:18.463Z
-publishedAt: 2025-08-29T20:07:18.463Z
+updatedAt: 2025-11-04T20:48:04.877Z
+publishedAt: 2025-11-04T20:48:04.877Z
 firstPublishedAt: 2024-08-22T18:57:59.895Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://supporticket.vtex.com/support).
+> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://help.vtex.com/pt/support).
 
 **Delivery Promise (Beta)** é a nova solução da VTEX para que o cliente, durante a experiência de compra na sua loja, visualize somente os produtos que pode adquirir, considerando tanto a disponibilidade dos produtos em estoque quanto formas de envio válidas para o endereço de entrega.
 
@@ -63,7 +63,7 @@ Para operações [omnichannel](/pt/tracks/estrategias-de-comercio-unificado--3WG
 | Redução do abandono de carrinho | É comum clientes desistirem de compras após informar sua localidade na etapa de carrinho, quando descobrem a impossibilidade de envio para sua localidade ou pelo prazo de envio não atender às expectativas.Com a **Delivery Promise (Beta)**, para todo produto que o cliente visualiza na vitrine, levou-se em conta a existência de estoque e a viabilidade de entrega para a localidade do cliente. Além disso, passamos a apresentar as informações relativas ao envio desde o começo da jornada de compra do cliente. |
 | Aumento do sortimento de produtos na vitrine | Por limitações de funcionalidades como a [regionalização de sellers](/pt/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw), [sellers abrangentes](/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI) e do [algoritmo de seleção de sellers](/pt/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa), sem a **Delivery Promise (Beta)** o sortimento de produtos que aparece na vitrine para o cliente não corresponde à totalidade de produtos dos sellers.Com a **Delivery Promise (Beta)**, o cliente é capaz de visualizar o sortimento completo de produtos de todos os sellers, desde que:<ul><li>Corretamente configurados.</li><li>Disponíveis em estoque.</li><li>Tenham forma de envio válida para o endereço fornecido pelo cliente.</li></ul> |
 | Melhor experiência de compra | **A Delivery Promise (Beta)** promove melhor experiência de compra ao cliente como um todo:<ul><li>Elimina a frustração de descobrir no checkout a impossibilidade de realizar a compra.</li><li>Permite que o cliente visualize um número maior de produtos.</li><li>Permite que o cliente navegue pela vitrine de forma direcionada conforme seus objetivos, que podem ser priorizando o tipo de envio ou a compra em uma loja física.</li> |
-| Incentivo à venda nas lojas físicas  | **A Delivery Promise (Beta)** permite ao cliente ter a certeza de encontrar determinados produtos nas lojas físicas, o que estimula a ida do cliente às lojas e aumenta as oportunidades de vendas. |
+| Incentivo à venda nas lojas físicas | **A Delivery Promise (Beta)** permite ao cliente ter a certeza de encontrar determinados produtos nas lojas físicas, o que estimula a ida do cliente às lojas e aumenta as oportunidades de vendas. |
 
 ## Requisitos e restrições
 
@@ -72,7 +72,7 @@ O funcionamento da **Delivery Promise (Beta)** requer conhecer a localização d
 Para participar da fase atual da **Delivery Promise (Beta)**, é necessário atender às seguintes condições:
 
 * <i class="far fa-check-circle"></i> **Requisito:** usar [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG).
-* <i class="far fa-check-circle"></i> **Requisito:** ter implementação de frontend com [Store Framework](/pt/docs/tracks/frontend-implementation#store-framework), [FastStore](/pt/docs/tracks/frontend-implementation#faststore) ou headless.
+* <i class="far fa-check-circle"></i> **Requisito:** ter implementação de frontend com [Store Framework](/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework), [FastStore](/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#faststore) ou headless.
 
 ### Saiba mais
 
