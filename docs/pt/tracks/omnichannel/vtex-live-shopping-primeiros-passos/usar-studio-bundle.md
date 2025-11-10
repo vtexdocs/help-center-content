@@ -43,7 +43,7 @@ Para que pessoas externas (como influenciadores) tenham acesso ao estúdio, elas
 Para permitir que uma pessoa externa acesse o Bundle, siga os passos abaixo:
 
 1. Como administrador, compartilhe com o convidado o link de convite para o [estúdio de streaming](#estudio-de-streaming).
-2. O convidado acessa o link e solicita acesso ao estúdio. Enquanto aguarda a aprovação do admnistrador, ele vê uma tela como a seguinte imagem:
+2. O convidado acessa o link e solicita acesso ao estúdio. Enquanto aguarda a aprovação do admnistrador, ele vê uma tela como a seguinte:
 
   ![using-buncle-studio-waiting-approval_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/using-buncle-studio-waiting-approval_PT.png)
 
