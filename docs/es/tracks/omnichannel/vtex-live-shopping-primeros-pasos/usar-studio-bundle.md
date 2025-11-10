@@ -49,11 +49,11 @@ Para permitir el acceso de una persona externa a Bundle deben seguirse estos pas
   ![bundle-administrator-approval-flow-image-1_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/usar-studio-bundle_2.png)
 
 4. Puedes elegir una de las opciones:
-    - `Approve`: permite que el invitado se una al estudio.
-    - `Deny`: se deniega el acceso del invitado al estudio.
+    * `Approve`: permite que el invitado se una al estudio.
+    * `Deny`: se deniega el acceso del invitado al estudio.
 5. Al elegir una opción, se muestra el mensaje de confirmación correspondiente, denegando o aprobando el acceso al estudio.
-    - {Nombre del invitado} has been approved.
-    - {Nombre del invitado} has been denied.
+    * {Nombre del invitado} has been approved.
+    * {Nombre del invitado} has been denied.
 
 Si el invitado cree que le denegaste el acceso por error, puede hacer clic inmediatamente en "Try again" para volver a intentarlo:
 
@@ -123,7 +123,6 @@ El nombre se mostrará en letras blancas sobre un fondo oscuro y no se puede cam
 
 <p align="center">
   <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/usar-studio-bundle_7.png" width="200" height="30">
-
 
 ### Dimensiones del recurso
 
