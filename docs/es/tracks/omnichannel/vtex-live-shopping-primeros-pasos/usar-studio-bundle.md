@@ -3,7 +3,7 @@ title: 'Utilizar el estudio Bundle'
 id: 3GKzrP9nkyRwpUyyeYUaeX
 status: PUBLISHED
 createdAt: 2025-07-23T18:06:49.325Z
-updatedAt: 2025-11-10T23:15:39.786Z
+updatedAt: 2025-11-11T23:15:39.786Z
 publishedAt: 2025-11-03T23:15:39.786Z
 firstPublishedAt: 2025-07-28T15:08:19.382Z
 contentType: trackArticle
