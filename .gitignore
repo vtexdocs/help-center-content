@@ -3,3 +3,4 @@ errorDocs.json
 .env
 netlify.toml
 file-migration-plan.md
+.vscode/settings.json
