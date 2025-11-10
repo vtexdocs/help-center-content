@@ -47,7 +47,6 @@ Para permitir que uma pessoa externa acesse o Bundle, siga os passos abaixo:
 
   ![using-buncle-studio-waiting-approval_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/using-buncle-studio-waiting-approval_PT.png)
 
-
 3. No Bundle, o administrador vê que o convidado está aguardando sua aprovação na página **My Studio**:
 
   ![bundle-administrator-approval-flow-image-1_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_2.png)
