@@ -3,8 +3,8 @@ title: 'Importing and exporting products and SKUs using a spreadsheet (Beta)'
 id: 5udKxWP1ZeBD7QB7Fy2BNl
 status: PUBLISHED
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2025-10-13T23:06:15.308Z
-publishedAt: 2025-10-13T23:06:15.308Z
+updatedAt: 2025-11-05T15:30:32.980Z
+publishedAt: 2025-11-05T15:30:32.980Z
 firstPublishedAt: 2025-09-05T18:41:30.755Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact our [Support](https://supporticket.vtex.com/support).
+> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact our [Support](https://help.vtex.com/en/support).
 
 In the VTEX Admin, you can manage SKU specification import and export using a spreadsheet, as described in the sections below:
 
@@ -109,16 +109,16 @@ The following table describes and includes an example of each field in the produ
 | Meta description | Brief product description, preferably under 160 characters. This allows search engines to display the description correctly on results pages. | Corebiz blue t-shirt with round neck in polyester and lycra made with 70% recycled material |
 | Show on site* | If you want the product to be visible in the product listing, enter `yes`. If you prefer to hide it, enter `no`. | yes |
 | Show when out of stock* | If you want out-of-stock products to be visible in the listing, enter `yes`. This allows customers to use the [Notify me](/en/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e#) feature, which allows them to enter their email and receive a notification when the product is available. If you want the out-of-stock product to become hidden in the listing, enter `no`. | no |
-| Release date | Date and time when the product will be available for sale. The value of this field helps sort site search results, influences the creation of [automatic collections](/en/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye), and determines the product [indexing](/en/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) date. The accepted format is `YYYY-MM-DD hh:mm:ss`. | 2025-11-25 10:30:00 |
+| Release date | Date and time when the product will be available for sale. The value of this field helps sort site search results, influences the creation of [automatic collections](/en/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye), and determines the product [indexing](/en/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) date. The accepted format is `YYYY-MM-DD`. | 2025-11-25 |
 | Substitute words | Product name synonyms that allow more comprehensive searches. The limit is 8,000 characters, including special characters. To add several words, separate them with commas, without using spaces. | shirt,blouse |
 | Product reference code | Unique product reference code, for internal store use only. To complete this field, use a combination of letters and/or numbers. | 68ce4_blue |
 | Tax code | Numerical sequence that identifies the product. | 84509010 |
 | SKU ID | Unique numerical code that identifies the SKU. If this field already has a value, you can't change it. To add a new SKU, leave the field empty. | 310119261 |
-| New SKU* | SKU name, which identifies the product variation. | M |
+| SKU name* | Name which identifies the product variation. | M |
 | Activate SKU if possible* | If you want the SKU to be activated automatically after checking the [availability requirements](/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382), enter `yes`. If you don't want it to be activated, enter `no`. | yes |
-| Active SKU | This field defines whether the SKU is active (`yes`) or inactive (`no`). This field can't be edited; it's for reference only.  | no |
-| Bundle | This field defines if the SKU is a [bundle](/en/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). Converting a SKU into a bundle can't be undone. If you're creating a new SKU, leave the field empty. |  |
-| SKU reference code | Unique SKU reference code, created to facilitate catalog management. Once this code is created, it can't be edited through the spreadsheet.This field is required unless the **EAN/UPC** field has a value. |  |
+| Active SKU | This field defines whether the SKU is active (`yes`) or inactive (`no`). This field can't be edited; it's for reference only. | no |
+| Bundle | This field defines if the SKU is a [bundle](/en/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). Converting a SKU into a bundle can't be undone. If you're creating a new SKU, leave the field empty. | |
+| SKU reference code | Unique SKU reference code, created to facilitate catalog management. Once this code is created, it can't be edited through the spreadsheet.This field is required unless the **EAN/UPC** field has a value. | |
 | EAN/UPC | EAN (European Article Number) and UPC (Universal Product Code) are international identification codes corresponding to an item's barcode. Each SKU can be associated with only one of these codes, and they can be differentiated by the number of alphanumeric characters: 13 for EAN and 12 for UPC.This field is required unless the **SKU reference code** field has a value. | 8456971345604 |
 | Manufacturer code | Code provided by the manufacturer to identify the SKU. If a SKU has a specific code, this field must be completed. | 7154-blue |
 | Package weight* | Absolute value of the package weight. | 0.8 |
@@ -134,10 +134,10 @@ The following table describes and includes an example of each field in the produ
 | Unit multiplier* | Numeric value by which the SKU will be multiplied to determine its quantity in the cart. For example, a multiplier of 5 means that each SKU represents 5 units in the cart, allowing purchases only in multiples of 5, such as 10 or 15 units. Fractional values can be separated by either a period or a comma. For example, 0.5 or 0,5 for half a kilogram. | 1 |
 | Commercial condition | Unique numeric identifier for the [commercial condition](/en/tutorial/como-cadastrar-condicao-comercial--tutorials_445), which defines promotions or [payment conditions](/en/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) that are valid for the SKU. | Default |
 | Loyalty amount | Credit the customer receives when purchasing 1 unit of a given SKU. For example, if this field is set to $1.00, the customer who buys the SKU will receive a $1.00 store credit for future purchases. This field must be completed with decimals of the store's default currency. | 49.90 |
-| Presale date | Presale date for the SKU, indicating when the item is expected to arrive in stores and be available for sale. To configure this setting, you need to consider both the item release date and the [estimated shipping](/en/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) to customers. The accepted format is `YYYY-MM-DD hh:mm:ss`. | 2025-10-30 10:30:00 |
+| Presale date | Presale date for the SKU, indicating when the item is expected to arrive in stores and be available for sale. To configure this setting, you need to consider both the item release date and the [estimated shipping](/en/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) to customers. The accepted format is `YYYY-MM-DD`. | 2025-10-30 |
 | Attachments | [Attachment](/en/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm#) name that customers can select as customization for the SKU. | Custom name |
 | Accessories | Complementary items suggested for the main product. To add an [accessory](/en/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280) item, include its SKU ID. If you want to include multiple SKUs, separate them with commas, without using spaces. | 320221270 |
-| Suggestions | Product recommendations. To add a [suggested](/en/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280) item, include its SKU ID. If you want to include multiple SKUs, separate them with commas, without using spaces. | 320221279,320221280  |
+| Suggestions | Product recommendations. To add a [suggested](/en/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280) item, include its SKU ID. If you want to include multiple SKUs, separate them with commas, without using spaces. | 320221279,320221280 |
 | Similar products | Alternatives to the selected item or products with similar characteristics. To add a [similar](/en/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280) item, include its SKU ID. If you want to include multiple SKUs, separate them with commas, without using spaces. | 320221284 |
 | Show together | Suggestions for buying together. To add an item to [show together](/en/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280), include its SKU ID for reference. If you want to include multiple SKUs, separate them with commas, without using spaces. | 320221293,320221294 |
 

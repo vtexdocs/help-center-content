@@ -3,8 +3,8 @@ title: 'Agregar o editar productos'
 id: 29IkdEu6GofCFlltsZh2H8
 status: PUBLISHED
 createdAt: 2024-08-29T19:11:09.043Z
-updatedAt: 2025-10-20T15:24:51.383Z
-publishedAt: 2025-10-20T15:24:51.383Z
+updatedAt: 2025-11-04T16:24:04.395Z
+publishedAt: 2025-11-04T16:24:04.395Z
 firstPublishedAt: 2024-08-29T19:14:22.359Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -51,6 +51,9 @@ Los campos de esta sección incluyen datos generales sobre el producto:
   * ❌ Evitar ortografía compleja
 * **Activo:** para activar el producto, habilita el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i> **Activo**. Para mantenerlo inactivo, deja el botón de alternancia deshabilitado <i class="fas fa-toggle-off" aria-hidden="true"></i>. Para más información sobre el status del producto, consulta [Productos y SKUs](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By).
 * **Descripción:** ingresa la información general del producto en el cuadro de texto. Ya que este contenido se muestra a los clientes en la vitrina de la tienda, recomendamos crear un resumen simple y fácil de entender.
+
+  > ℹ️ Este campo te permite añadir una imagen a la descripción del producto usando una etiqueta HTML que contenga la URL de la imagen. Sin embargo, te recomendamos gestionar las imágenes de tu catálogo como [contenidos multimedia de los SKUs](/es/tutorial/agregar-o-editar-skus--4ryZ6J45kwn3jDiQBxGiiN#contenido-multimedia).
+
 * **Descripción adicional:** al activar el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i> **Descripción adicional**, se muestra un cuadro de texto en el que puedes ingresar información adicional del producto, como un resumen.
 * **Marca*:** ingresa o busca el nombre de la [marca](/es/tutorial/o-que-e-uma-marca--QU07yhHoaWcEYseEucOQW) del producto y selecciona la opción deseada. Debes asegurarte de [registrar la marca](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7lEGOSpAlQJCs5eUc5XFmR) con anterioridad y confirmar que esté activa.
 * **Categoría*:** ingresa o busca el nombre de la [categoría](/es/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) del producto y selecciona la opción deseada utilizando el nivel de categoría más específico. Debes asegurarte de [registrar la categoría](/es/tutorial/cadastrar-uma-categoria--tutorials_206) con anterioridad y confirmar que esté activa.

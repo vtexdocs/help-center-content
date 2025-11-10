@@ -3,8 +3,8 @@ title: 'Importing and exporting product and SKU images using a spreadsheet (Beta
 id: 6zBisMdxDYeBF49LPzvfqt
 status: PUBLISHED
 createdAt: 2025-09-26T15:59:03.761Z
-updatedAt: 2025-10-13T22:40:44.722Z
-publishedAt: 2025-10-13T22:40:44.722Z
+updatedAt: 2025-11-05T14:19:35.695Z
+publishedAt: 2025-11-05T14:19:35.695Z
 firstPublishedAt: 2025-09-26T16:15:52.581Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact our [Support](https://supporticket.vtex.com/support).
+> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact our [Support](https://help.vtex.com/en/support).
 
 In VTEX Admin, you can manage the import and export of image information using a spreadsheet, as detailed in the following sections:
 

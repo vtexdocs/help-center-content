@@ -3,8 +3,8 @@ title: 'VTEX Global Support resources'
 id: 5maoEWCrTKFAEMXRsfcklV
 status: PUBLISHED
 createdAt: 2025-06-16T11:23:32.616Z
-updatedAt: 2025-10-17T18:48:21.129Z
-publishedAt: 2025-10-17T18:48:21.129Z
+updatedAt: 2025-11-06T17:53:21.532Z
+publishedAt: 2025-11-06T17:53:21.532Z
 firstPublishedAt: 2025-06-16T13:25:37.792Z
 contentType: tutorial
 productTeam: Billing
@@ -46,92 +46,17 @@ Urgent tickets report critical issues with direct impact on sales. The following
 ## Ticket priority classification
 
 Ticket priority is determined by the information provided in the submission form. Below are the possible scenarios:
-<table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
-    <thead>
-        <tr class="bb b--muted-3">
-            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Source</th>
-            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Type</th>
-            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Users impacted</th>
-            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Impact</th>
-            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Priority</th>
-        </tr>
-    </thead>
-    <tr class="bb b--muted-3">
-        <td>Financial
-        </td>
-        <td>
-        </td>
-        <td>
-        </td>
-        <td>
-        </td>
-        <td>Low
-        </td>
-    </tr>
-    <tr class="bb b--muted-3">
-        <td rowspan="8" >Technical
-        </td>
-        <td>Question
-        </td>
-        <td>
-        </td>
-        <td>
-        </td>
-        <td>Low
-        </td>
-    </tr>
-    <tr class="bb b--muted-3">
-        <td>Task
-        </td>
-        <td>
-        </td>
-        <td>
-        </td>
-        <td>Low
-        </td>
-    </tr>
-    <tr class="bb b--muted-3">
-        <td rowspan="6" >Incident
-        </td>
-        <td rowspan="3" >Internal
-        </td>
-        <td>Low
-        </td>
-        <td>Low
-        </td>
-    </tr>
-    <tr class="bb b--muted-3">
-        <td>Moderate
-        </td>
-        <td>Normal
-        </td>
-    </tr>
-    <tr class="bb b--muted-3">
-        <td>High
-        </td>
-        <td>High
-        </td>
-    </tr>
-    <tr class="bb b--muted-3">
-        <td rowspan="3" >External / All
-        </td>
-        <td>Low
-        </td>
-        <td>Normal
-        </td>
-    </tr>
-    <tr class="bb b--muted-3">
-        <td>Moderate
-        </td>
-        <td>High
-        </td>
-    </tr>
-    <tr class="bb b--muted-3">
-        <td>High
-        </td>
-        <td>Urgent
-        </td>
-    </tr>
-</table>
+
+| Source | Type | Users impacted | Impact | Priority |
+|-------------|----------|----------------|-----------|-----------|
+| Financial | | | | Low |
+| Technical | Question | | | Low |
+| | Task | | | Low |
+| | Incident | Internal | Low | Low |
+| | | | Moderate | Normal |
+| | | | High | High |
+| | | External / All | Low | Normal |
+| | | | Moderate | High |
+| | | | High | Urgent |
 
 The VTEX Support team may adjust a ticket's priority at any time if it determines that it doesn't align with the priority table descriptions. You can check the priority of your tickets directly in the [VTEX Support panel](https://support.vtex.com/hc/en-us/requests).

@@ -3,8 +3,8 @@ title: 'Recursos de Suporte Global da VTEX'
 id: 5maoEWCrTKFAEMXRsfcklV
 status: PUBLISHED
 createdAt: 2025-06-16T11:23:32.616Z
-updatedAt: 2025-10-17T18:48:21.129Z
-publishedAt: 2025-10-17T18:48:21.129Z
+updatedAt: 2025-11-06T17:53:21.532Z
+publishedAt: 2025-11-06T17:53:21.532Z
 firstPublishedAt: 2025-06-16T13:25:37.792Z
 contentType: tutorial
 productTeam: Billing
@@ -46,92 +46,17 @@ Chamados urgentes são aqueles que reportam problemas críticos com impacto dire
 ## Classificação de prioridade dos Chamados
 
 A tabela a seguir lista os cenários considerados ao classificar a prioridade de um chamado, de acordo com o preenchimento do formulário de abertura:
-<table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
-    <thead>
-        <tr class="bb b--muted-3">
-            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Origem</th>
-            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Tipo</th>
-            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Usuários impactados</th>
-            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Impacto</th>
-            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Prioridade</th>
-        </tr>
-    </thead>
-    <tr class="bb b--muted-3">
-        <td>Financeira
-        </td>
-        <td>
-        </td>
-        <td>
-        </td>
-        <td>
-        </td>
-        <td>Baixa
-        </td>
-    </tr>
-    <tr class="bb b--muted-3">
-        <td rowspan="8" >Técnica
-        </td>
-        <td>Pergunta
-        </td>
-        <td>
-        </td>
-        <td>
-        </td>
-        <td>Baixa
-        </td>
-    </tr>
-    <tr class="bb b--muted-3">
-        <td>Tarefa
-        </td>
-        <td>
-        </td>
-        <td>
-        </td>
-        <td>Baixa
-        </td>
-    </tr>
-    <tr class="bb b--muted-3">
-        <td rowspan="6" >Incidente
-        </td>
-        <td rowspan="3" >Interno
-        </td>
-        <td>Baixo
-        </td>
-        <td>Baixa
-        </td>
-    </tr>
-    <tr class="bb b--muted-3">
-        <td>Moderado
-        </td>
-        <td>Normal
-        </td>
-    </tr>
-    <tr class="bb b--muted-3">
-        <td>Alto
-        </td>
-        <td>Alta
-        </td>
-    </tr>
-    <tr class="bb b--muted-3">
-        <td rowspan="3" >Externo / Todos
-        </td>
-        <td>Baixo
-        </td>
-        <td>Normal
-        </td>
-    </tr>
-    <tr class="bb b--muted-3">
-        <td>Moderado
-        </td>
-        <td>Alta
-        </td>
-    </tr>
-    <tr class="bb b--muted-3">
-        <td>Alto
-        </td>
-        <td>Urgente
-        </td>
-    </tr>
-</table>
+
+| Origem | Tipo | Usuários impactados | Impacto | Prioridade |
+|-------------|-----------|---------------------|-----------|-------------|
+| Financeira | | | | Baixa |
+| Técnica | Pergunta | | | Baixa |
+| | Tarefa | | | Baixa |
+| | Incidente | Interno | Baixo | Baixa |
+| | | | Moderado | Normal |
+| | | | Alto | Alta |
+| | | Externo / Todos | Baixo | Normal |
+| | | | Moderado | Alta |
+| | | | Alto | Urgente |
 
 Nossa equipe VTEX poderá ajustar a prioridade de um chamado a qualquer momento, caso identifique que ela não esteja alinhada com as descrições da tabela de prioridades. Você pode acompanhar a prioridade dos seus chamados diretamente no [painel de suporte](https://support.vtex.com/hc/pt-br/requests).

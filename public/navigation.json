@@ -17672,21 +17672,6 @@
                 },
                 {
                   "name": {
-                    "en": "Intelligent Search: Hybrid Search (Beta)",
-                    "es": "Intelligent Search: Busca Híbrida (Beta)",
-                    "pt": "Intelligent Search: Busca Híbrida (Beta)"
-                  },
-                  "slug": {
-                    "en": "intelligent-search-hybrid-search-beta",
-                    "es": "intelligent-search-busca-hibrida-beta",
-                    "pt": "intelligent-search-busca-hibrida-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Intelligent Search: Semantic search (Beta)",
                     "es": "Intelligent Search: Búsqueda semántica (Beta)",
                     "pt": "Intelligent Search: Busca semântica (Beta)"

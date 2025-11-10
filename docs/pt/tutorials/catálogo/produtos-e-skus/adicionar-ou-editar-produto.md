@@ -3,8 +3,8 @@ title: 'Adicionar ou editar produto'
 id: 29IkdEu6GofCFlltsZh2H8
 status: PUBLISHED
 createdAt: 2024-08-29T19:11:09.043Z
-updatedAt: 2025-10-20T15:24:51.383Z
-publishedAt: 2025-10-20T15:24:51.383Z
+updatedAt: 2025-11-04T16:24:04.395Z
+publishedAt: 2025-11-04T16:24:04.395Z
 firstPublishedAt: 2024-08-29T19:14:22.359Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -52,6 +52,9 @@ Os campos desta seção são sobre os dados gerais do produto:
 
 - **Ativo:** para ativar o produto, habilite o toggle <i class="fas fa-toggle-on" aria-hidden="true"></i> **Ativo**. Para mantê-lo inativo, deixe o toggle desabilitado <i class="fas fa-toggle-off" aria-hidden="true"></i>. Saiba mais sobre status de produto no artigo [Produtos e SKUs](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By).
 - **Descrição:** na caixa de texto, digite as informações gerais sobre o produto. Esse conteúdo é apresentado aos clientes na vitrine da loja, por isso recomendamos criar um resumo simples e de fácil entendimento.
+
+  > ℹ️ Este campo permite adicionar uma imagem à descrição do produto, usando uma tag HTML que contenha a URL da imagem. No entanto, recomendamos que as imagens do seu catálogo sejam gerenciadas como [mídias de SKUs](/pt/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN#imagens).
+
 - **Descrição complementar:** ao ativar o toggle <i class="fas fa-toggle-on" aria-hidden="true"></i> **Descrição complementar**, aparece uma caixa de texto para preencher com conteúdo adicional do produto, como informações resumidas.
 - **Marca*:** digite ou busque o nome da [marca](/pt/tutorial/o-que-e-uma-marca--QU07yhHoaWcEYseEucOQW) do produto, e selecione a opção desejada. É necessário [cadastrar a marca](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7lEGOSpAlQJCs5eUc5XFmR) previamente e garantir que ela esteja ativa.
 - **Categoria*:** digite ou busque o nome da [categoria](/pt/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) do produto, e selecione a opção desejada, dando preferência ao nível de categoria mais específico. Além de [cadastrar a categoria](/pt/tutorial/cadastrar-uma-categoria--tutorials_206) previamente, você deve garantir que ela esteja ativa.

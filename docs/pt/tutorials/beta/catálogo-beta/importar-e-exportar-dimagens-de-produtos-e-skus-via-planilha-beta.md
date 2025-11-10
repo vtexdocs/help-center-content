@@ -3,8 +3,8 @@ title: 'Importar e exportar imagens de produtos e SKUs via planilha (Beta)'
 id: 6zBisMdxDYeBF49LPzvfqt
 status: PUBLISHED
 createdAt: 2025-09-26T15:59:03.761Z
-updatedAt: 2025-10-13T22:40:44.722Z
-publishedAt: 2025-10-13T22:40:44.722Z
+updatedAt: 2025-11-05T14:19:35.695Z
+publishedAt: 2025-11-05T14:19:35.695Z
 firstPublishedAt: 2025-09-26T16:15:52.581Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://supporticket.vtex.com/support).
+> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
 
 No Admin VTEX, você pode gerenciar a importação e a exportação de informações de imagens utilizando planilha, conforme apresentado nas seções:
 

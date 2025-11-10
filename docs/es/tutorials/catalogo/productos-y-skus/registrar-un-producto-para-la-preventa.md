@@ -3,8 +3,8 @@ title: 'Registrar un producto para la preventa'
 id: 4o6cUJ4gIg0MQWW8WfN34K
 status: PUBLISHED
 createdAt: 2021-09-08T16:32:39.818Z
-updatedAt: 2023-03-29T18:23:13.300Z
-publishedAt: 2023-03-29T18:23:13.300Z
+updatedAt: 2025-11-06T15:35:57.132Z
+publishedAt: 2025-11-06T15:35:57.132Z
 firstPublishedAt: 2021-09-14T16:54:57.039Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ locale: es
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-En la plataforma VTEX, los operadores de las tiendas pueden establecer la fecha prevista de llegada de un producto y ofrecerlo en modo de preventa. La preventa permite reservar productos, mediante pago, antes de la fecha de lanzamiento y de que estén disponibles en el mercado.
+En la plataforma VTEX, los lojistas pueden establecer la fecha prevista de llegada de un producto y ofrecerlo en modo de preventa. La preventa permite a los clientes reservar productos, mediante pago, antes de la fecha de lanzamiento y de que estén disponibles en el mercado.
 
 En este artículo trataremos los siguientes temas:
 
@@ -23,27 +23,35 @@ En este artículo trataremos los siguientes temas:
 - [Programar precios](#programar-precios)
 - [Programar contenido](#programar-contenido)
 
+> ⚠️ Configurar el campo **Fecha de release** para un producto no afecta su visibilidad en el storefront, la cual se determina por la activación o desactivación del campo **Mostrar en el sitio webo**.
+
 ## Crear un producto para la preventa
 
-Para que un producto esté disponible en preventa, sigue los pasos a continuación.
+Para que un producto esté disponible en preventa, sigue los pasos a continuación:
 
-1. En el Admin VTEX, accede a __Catálogo__, o escribe __Catálogo__ en la barra de búsqueda en la parte superior de la página.
-2. Haz clic en la página **Todos los productos**.
-3. Haz clic en el botón `Agregar producto`.
-4. En el campo **Fecha de lanzamiento**, ingresa la fecha en la que quieres lanzar el producto en el formato `dd/mm/aaaa`. Este campo es un criterio de ordenación de los productos en la tienda. Para saber más sobre la ordenación de productos, lee el artículo [Puedo ordenar los productos en la página de acuerdo con los criterios de la tienda?](/es/tutorial/puedo-ordenar-los-productos-en-la-pagina-de-acuerdo-con-los-criterios-de-la--qfWKX2ZekoEoayiyo0uuA).
-5. Rellena los [campos restantes del producto](/es/tutorial/campos-de-registro-de-producto--4dYXWIK3zyS8IceKkQseke).
-6. Haz clic en `Guardar y Crear SKU`.
-7. En la página de creación del SKU, rellena el campo **Fecha de previsión de llegada (preventa)** con la fecha en que el producto estará disponible para su entrega por parte de la tienda en el formato `dd/mm/aaaa`.
-> ℹ️ Para registrar la fecha de llegada, debe tenerse en cuenta tanto la fecha de lanzamiento como el cálculo del envío: `tiempo de entrega final = SLA de entrega + plazo para recibir el lote de suministro`.
-8. Rellena los [campos restantes del SKU](/es/tutorial/campos-de-registro-de-sku--21DDItuEQc6mseiW8EakcY).
-9. Haz clic en `Guardar`.
+1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa **Productos y SKUs** en la barra de búsqueda en la parte superior de la página.
+2. Haz clic en `+ Agregar producto`.
+3. En la sección **Storefront**, en el campo **Fecha de release**, asigna una fecha para lanzar el producto.
 
-> ℹ️ El pedido del ítem en preventa solo debe facturarse a partir de la fecha de lanzamiento, es decir, cuando haya disponibilidad real de *stock* del producto.
+  > ℹ️ Este campo se utiliza para ayudar en la ordenación de los resultados de búsqueda en el sitio web. Puedes utilizar una query string `O=OrderByReleaseDateDESC` para obtener este valor y mostrar el orden de visualización por fecha de release. Además, el valor de este campo influye en la creación de [colecciones automáticas](/es/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye) y determina la fecha de [indexación](/es/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) del producto.
+
+4. Rellena los campos del formulario de registro de producto, según se describe en [Agregar o editar productos](/es/tutorial/agregar-o-editar-productos--29IkdEu6GofCFlltsZh2H8).
+5. Haz clic en `Guardar`.
+6. Haz clic en la pestaña `SKUs`.
+7. Haz clic en `+` **> Agregar nuevo SKU**.
+8. En la sección **Estrategia comercial**, en el campo **Fecha de preventa**, asigna una fecha de preventa al SKU. La fecha de preventa es la fecha prevista en que el ítem llegará a las tiendas y estará disponible para la venta.
+
+  > ℹ️ Para configurarla, debes tomar en cuenta la fecha de release del ítem y el cálculo de envío a los clientes: `tiempo de entrega final = SLA de entrega + plazo para recibir el lote de suministro`.
+
+9. Rellena los campos del formulario de registro de SKU, según se describe en [Agregar o editar SKUs](/es/tutorial/agregar-o-editar-skus--4ryZ6J45kwn3jDiQBxGiiN).
+10. Haz clic en `Guardar`.
+
+> ⚠️ El pedido del ítem en preventa solo debe facturarse a partir de la fecha de lanzamiento, es decir, cuando haya disponibilidad real de *stock* del producto.
 
 ## Programar precios
+
 Para programar los precios fijos de tu tienda para la preventa de un producto, sigue los pasos descritos en el artículo [Programar precios](/es/tutorial/programar-precio--4vVha6TGzYkguWuMOqCcCk). 
 
 ## Programar contenido
-Es importante potenciar la divulgación del producto que se lanzará para aumentar su alcance entre los clientes. Desarrollar un contenido específico para un nuevo producto permite aumentar las tasas de éxito de la preventa.
 
-Para programar un contenido, sigue los pasos descritos en la sección [Programar contenido](/es/tutorial/programacion-de-funcionalidades-para-eventos-especiales--2nd50tPWdKK4waXRZLg0JI#programar-contenido) del artículo [Programación de funcionalidades para eventos especiales](/es/tutorial/programacion-de-funcionalidades-para-eventos-especiales--2nd50tPWdKK4waXRZLg0JI).
+Para aumentar el éxito en la etapa de preventa y lograr un mayor alcance de clientes, es importante potenciar la difusión del producto que será lanzado. Para eso, vale la pena programar contenido sobre el lanzamiento, tal como se explica en el artículo [Programación de funcionalidades para eventos especiales](/es/tutorial/programacion-de-funcionalidades-para-eventos-especiales--2nd50tPWdKK4waXRZLg0JI#programar-contenido).

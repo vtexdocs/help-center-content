@@ -3,8 +3,8 @@ title: 'Qual a diferença entre produto e SKU?'
 id: 5yhABFDOpyiUcicce2W4CM
 status: PUBLISHED
 createdAt: 2018-01-26T17:49:48.383Z
-updatedAt: 2023-07-17T13:15:51.969Z
-publishedAt: 2023-07-17T13:15:51.969Z
+updatedAt: 2025-11-06T15:53:06.878Z
+publishedAt: 2025-11-06T15:53:06.878Z
 firstPublishedAt: 2018-01-26T18:00:17.827Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -24,7 +24,3 @@ Nesse exemplo, um dos SKUs do produto "Camisa" poderia ser "Camisa Manga Comprid
 Na plataforma VTEX, uma das condições para que seu produto fique ativo, ou seja, apareça na sua loja, é ter um SKU atribuído a ele, mesmo que esse produto não tenha variações. Nesse caso, você terá 1 SKU para 1 produto: por exemplo, produto "Camisa", com o SKU "Camisa".
 
 Estruturalmente, primeiro você define as informações do produto para, depois, criar seus SKUs.
-
-## Artigos relacionados
-
-- [Cadastrar um produto](/pt/tutorial/cadastrando-produtos--tutorials_2567)
