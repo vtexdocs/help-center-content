@@ -43,9 +43,9 @@ For external people (such as influencers) to access the Studio, they must be app
 For allowing an external person access to Bundle, the steps are the following:
 
 1. The administrator shares the [Streaming Studio](#streaming-studio) invitation link with the guest.
-2. The guest uses the link to ask to join the studio. While waiting for the administrator approval to join the studio, the guest will see an image like the one below:
+2. The guest uses the link to ask to join the studio. While waiting for the administrator’s approval, the guest will see an image like the one below:
 
-  ![using-buncle-studio-waiting-approval_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-buncle-studio-waiting-approval_EN.png)
+  ![using-bundle-studio-waiting-approval_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio-waiting-approval_EN.png)
 
 3. In Bundle, the administrator sees the guest waiting for approval in the **My Studio** page:
 
