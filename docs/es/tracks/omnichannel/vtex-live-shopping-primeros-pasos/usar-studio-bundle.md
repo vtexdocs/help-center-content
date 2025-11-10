@@ -43,10 +43,13 @@ Para que personas externas (como influenciadores) puedan acceder al estudio, un 
 Para permitir el acceso de una persona externa a Bundle deben seguirse estos pasos:
 
 1. Como administrador, compartes el link de invitación al [estudio de streaming](#estudio-de-streaming) con el invitado.
-2. El invitado utiliza el link para solicitar unirse al estudio.
+2. El invitado utiliza el link para solicitar unirse al estudio. Mientras espera la aprobación del administrador, el invitado verá una imagen como la que se muestra a continuación:
+
+  ![using-buncle-studio-waiting-approval_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/using-buncle-studio-waiting-approval_ES.png)
+
 3. En Bundle, verás al invitado en espera de aprobación en la página del estudio:
 
-  ![bundle-administrator-approval-flow-image-1_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/usar-studio-bundle_2.png)
+  ![usar-studio-bundle_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/usar-studio-bundle_2.png)
 
 4. Puedes elegir una de las opciones:
     * `Approve`: permite que el invitado se una al estudio.
