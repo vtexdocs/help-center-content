@@ -64,7 +64,7 @@ Si el invitado cree que le denegaste el acceso por error, puede hacer clic inmed
 
 Si rechazas la solicitud del invitado por segunda vez, deberá esperar cinco minutos antes de intentarlo de nuevo. Durante ese tiempo, verá una cuenta regresiva en pantalla:
 
-![bundle-administrator-approval-flow-image-3_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/usar-studio-bundle_4.png)
+![bundle-administrator-approval-flow-image-3_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/usar-studio-bundle_4.png)
 
 ## My studio
 
