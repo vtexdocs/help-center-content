@@ -46,18 +46,18 @@ For allowing an external person access to Bundle, the steps are the following:
 2. The guest uses the link to ask to join the studio.
 3. In Bundle, the administrator sees the guest waiting for approval in the **My Studio** page:
 
-  ![bundle-administrator-approval-flow-image-1_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_2.png)
+  ![using-bundle-studio_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_2.png)
 
 4. The Administrator can choose one of the options:
-    - `Approve`: Allows the guest to join the Studio.
-    - `Deny`: Denies the guest’s request to join.
+    * `Approve`: Allows the guest to join the Studio.
+    * `Deny`: Denies the guest’s request to join.
 5. After the action, a confirmation message appears, respectively:
-    - {Guest name} has been approved.
-    - {Guest name} has been denied.
+    * {Guest name} has been approved.
+    * {Guest name} has been denied.
 
 If the guest access is denied and they believe it was a mistake, they can immediately click `Try again` to reattempt:
 
-![bundle-administrator-approval-flow-image-2_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_3.png)
+![using-bundle-studio_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_3.png)
 
 However, if their request is denied a second time, they must wait five minutes before trying again. They will see a countdown on the page:
 
