@@ -43,10 +43,14 @@ Para que pessoas externas (como influenciadores) tenham acesso ao estúdio, elas
 Para permitir que uma pessoa externa acesse o Bundle, siga os passos abaixo:
 
 1. Como administrador, compartilhe com o convidado o link de convite para o [estúdio de streaming](#estudio-de-streaming).
-2. O convidado acessa o link e solicita acesso ao estúdio.
+2. O convidado acessa o link e solicita acesso ao estúdio. Enquanto aguarda a aprovação do admnistrador, ele vê uma tela como a seguinte imagem:
+
+  ![using-buncle-studio-waiting-approval_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/using-buncle-studio-waiting-approval_PT.png)
+
+
 3. No Bundle, o administrador vê que o convidado está aguardando sua aprovação na página **My Studio**:
 
-  ![bundle-administrator-approval-flow-image-1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_2.png)
+  ![bundle-administrator-approval-flow-image-1_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_2.png)
 
 4. O administrador pode escolher uma das opções abaixo:
     * `Approve`: permite que o convidado entre no estúdio.
@@ -57,11 +61,11 @@ Para permitir que uma pessoa externa acesse o Bundle, siga os passos abaixo:
 
 Se o acesso do convidado for negado e ele achar que foi um erro, ele pode clicar em `Try again` para tentar novamente:
 
-![bundle-administrator-approval-flow-image-2_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_3.png)
+![bundle-administrator-approval-flow-image-2_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_3.png)
 
 No entanto, se o pedido for negado uma segunda vez, será necessário aguardar cinco minutos antes de tentar novamente. Esse tempo será exibido na página com uma contagem regressiva:
 
-![bundle-administrator-approval-flow-image-3_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_4.png)
+![bundle-administrator-approval-flow-image-3_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_4.png)
 
 ## My Studio (Meu estúdio)
 
