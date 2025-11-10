@@ -19,14 +19,14 @@ Creamos dos nuevos [recursos de License Manager](/es/tutorial/recursos-del-licen
 
 ## ¿Qué cambió?
 
-Consolidamos los recursos heredados de lectura y escritura de información de [usuarios](/es/tutorial/gestionar-usuarios--tutorials_512) y los [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) en dos nuevos recursos del producto License Manager:
+Consolidamos los recursos heredados de lectura y escritura de información de [usuarios](/es/docs/tutorials/gestionar-usuarios-administrativos) y los [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) en dos nuevos recursos del producto License Manager:
 
 | Nombre del nuevo recurso | Clave del nuevo recurso (`resource_key`) | Descripción |
 | ----- | ----- | ----- |
 | Edit Admin Users | `EditAdminUsers` | Permite crear, editar y remover usuarios administrativos. |
 | View Admin Users | `ViewAdminUsers` | Permite ver información de usuarios y roles. |
 
-Estos nuevos recursos reemplazan los siguientes recursos heredados para [gestionar usuarios](/es/tutorial/gestionar-usuarios--tutorials_512) en el Admin VTEX:
+Estos nuevos recursos reemplazan los siguientes recursos heredados para [gestionar usuarios](/es/docs/tutorials/gestionar-usuarios-administrativos) en el Admin VTEX:
 
 | Nombre del recurso heredado | Clave del recurso legado (`resource_key`) | Descripción del recurso heredado | Nombre del nuevo recurso | Clave del nuevo recurso (`resource_key`) |
 | ----- | ----- | ----- | ----- | ----- |

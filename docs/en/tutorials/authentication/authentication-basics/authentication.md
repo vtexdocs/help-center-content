@@ -37,7 +37,7 @@ You need to configure which authentication method will be available in each cont
 
 > ℹ️ At least one of the login methods in the table above must be enabled for the webstore.
 
-> ⚠️ You must have a valid admin [user](/en/tutorial/managing-users--tutorials_512) to log in to the VTEX Admin. The [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) and permissions assigned to the user specify which[ resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) they can use in the Admin.
+> ⚠️ You must have a valid admin [user](/en/docs/tutorials/managing-admin-users) to log in to the VTEX Admin. The [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) and permissions assigned to the user specify which[ resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) they can use in the Admin.
 
 ### Enabling login methods
 

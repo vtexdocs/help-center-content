@@ -24,10 +24,10 @@ These measures aim to make it easier for merchants to restrict the number of use
 ## What has changed?
 
  As of today, the **Owner (Admin Super)** [user role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) will no longer have the **Save user** [resource](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3). This means that users who have only this role will no longer be able to:
-- [Create users](/en/tutorial/managing-users--tutorials_512).
+- [Create users](/en/docs/tutorials/managing-admin-users).
 - Assign [user roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) to users.
 - Remove [user roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) from users.
-- [Edit user data](/en/tutorial/managing-users--tutorials_512#editando-usuarios).
+- [Edit user data](/en/docs/tutorials/managing-admin-users#editando-usuarios).
 - Create [application keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet).
 - Create [application keys](/en/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet).
 
@@ -80,7 +80,7 @@ We reinforce the importance of periodically changing all user passwords and appl
 Check out the following documentation to learn more about managing users and permissions in your store:
 - [Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
 - [License Manager resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)
-- [How to manage users](/en/tutorial/managing-users--tutorials_512)
+- [How to manage users](/en/docs/tutorials/managing-admin-users)
 - [Application Keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet)
 - [Best practices for using application keys](/en/tutorial/best-practices-application-keys--7b6nD1VMHa49aI5brlOvJm)
 

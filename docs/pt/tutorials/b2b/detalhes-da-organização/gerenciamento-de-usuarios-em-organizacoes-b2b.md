@@ -9,7 +9,7 @@ firstPublishedAt: 2024-07-05T13:47:56.220Z
 contentType: tutorial
 productTeam: B2B
 author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: managing-users-in-b2b-organizations
+slugEN: managing-admin-users-in-b2b-organizations
 legacySlug: gerenciamento-de-usuarios-em-organizacoes-b2b
 locale: pt
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd

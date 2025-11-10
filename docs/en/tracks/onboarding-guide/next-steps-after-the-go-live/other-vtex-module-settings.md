@@ -81,7 +81,7 @@ To allow customers to make recurring purchases of their favorite products at the
 
 - Search and filter by status (open, not assigned) or subject (catalog, commercial, infrastructure).
 - Access details and information for completing each task.
-- Assign [users](/en/tutorial/managing-users--tutorials_512) to tasks.
+- Assign [users](/en/docs/tutorials/managing-admin-users) to tasks.
 
 ![vtex-do-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/other-vtex-module-settings_1.JPG)
 

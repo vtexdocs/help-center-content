@@ -21,7 +21,7 @@ O Suporte VTEX é prestado de forma online e permite a abertura de tickets com d
 - Login usando a conta do Google.
 - Email e senha com autenticação de dois fatores via aplicativo ou SMS.
 
-> ⚠️ Para obter a autorização de autenticação, é necessário que o [usuário](/pt/tutorial/gerenciando-usuarios--tutorials_512) tenha acesso ao Admin VTEX e um [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete) associado a [recursos do License Manager](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
+> ⚠️ Para obter a autorização de autenticação, é necessário que o [usuário](/pt/docs/tutorials/gerenciar-usuarios-administrativos) tenha acesso ao Admin VTEX e um [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete) associado a [recursos do License Manager](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
 
 O Suporte VTEX é global e segue um modelo padronizado de atendimento, com critérios unificados de disponibilidade, prioridade e nível de serviço (SLA) aplicáveis a todos os clientes atendidos pela VTEX.  
 

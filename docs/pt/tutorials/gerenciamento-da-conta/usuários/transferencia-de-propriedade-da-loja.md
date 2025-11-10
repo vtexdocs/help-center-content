@@ -29,7 +29,7 @@ A página de **Configurações da conta** permite identificar o usuário titular
 
 ### Transferir a propriedade da conta
 
-Antes de começar, certifique-se de que o usuário a quem será concedido o perfil de acesso de Titular já tem acesso à conta. Se ele não tiver, você deve [criar um novo usuário](/pt/tutorial/managing-users--tutorials_512#creating-a-new-user) para ele antes de prosseguir.
+Antes de começar, certifique-se de que o usuário a quem será concedido o perfil de acesso de Titular já tem acesso à conta. Se ele não tiver, você deve [criar um novo usuário](/pt/docs/tutorials/gerenciar-usuarios-administrativos#creating-a-new-user) para ele antes de prosseguir.
 
 Para transferir a propriedade da loja, siga estes passos:
 

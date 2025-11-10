@@ -82,7 +82,7 @@ Se puede configurar la programación de compras recurrentes en el [sistema de Su
 
 - Acceso a detalles e información para completar cada tarea.
 
-- Asignación de [usuario](/es/tutorial/gestionar-usuarios--tutorials_512) encargado de la tarea.
+- Asignación de [usuario](/es/docs/tutorials/gestionar-usuarios-administrativos) encargado de la tarea.
 
 ![vtex-do-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/guía-de-onboarding/proximos-pasos-tras-el-go-live/otros-ajustes-de-los-modulos-de-vtex_1.JPG)
 

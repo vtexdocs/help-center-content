@@ -19,14 +19,14 @@ Criamos dois novos [recursos no License Manager](/pt/tutorial/recursos-do-licens
 
 ## O que mudou?
 
-Consolidamos recursos legados de leitura e escrita de informações de [usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512) e [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) em dois novos recursos do produto *License Manager*:
+Consolidamos recursos legados de leitura e escrita de informações de [usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos) e [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) em dois novos recursos do produto *License Manager*:
 
 | Nome do novo recurso | Chave do novo recurso (`resource_key`) | Descrição |
 | ----- | ----- | ----- |
 | Edit Admin Users | `EditAdminUsers` | Permite criar, editar e remover usuários administrativos. |
 | View Admin Users | `ViewAdminUsers` | Permite visualizar informações de usuários e perfis de acesso. |
 
-Esses novos recursos substituem os recursos legados listados abaixo no [gerenciamento de usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512) no Admin VTEX:
+Esses novos recursos substituem os recursos legados listados abaixo no [gerenciamento de usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos) no Admin VTEX:
 
 | Nome do recurso legado | Chave do recurso legado (`resource_key`) | Descrição do recurso legado | Nome do novo recurso | Chave do novo recurso (`resource_key`) |
 | ----- | ----- | ----- | ----- | ----- |

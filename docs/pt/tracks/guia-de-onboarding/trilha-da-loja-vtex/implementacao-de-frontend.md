@@ -25,7 +25,7 @@ Este artigo tem como objetivo auxiliar na escolha de qual tecnologia usar para c
 
 O foco da implementação de frontend é uma etapa com foco em definir as tecnologias a serem implementadas, de acordo com as necessidades do negócio relacionadas à frente de loja.
 
-> ℹ️ O frontend pode ser implementado pelo time de desenvolvimento interno da empresa ou pelos nossos [parceiros de implementação](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao). [Usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512) com acesso ao Admin VTEX podem consultar a lista dos nossos parceiros pelo [Partner Portal](https://partnerportal.vtex.com/).
+> ℹ️ O frontend pode ser implementado pelo time de desenvolvimento interno da empresa ou pelos nossos [parceiros de implementação](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao). [Usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos) com acesso ao Admin VTEX podem consultar a lista dos nossos parceiros pelo [Partner Portal](https://partnerportal.vtex.com/).
 
 ## Antes de começar
 
@@ -34,7 +34,7 @@ Antes de começar a implementação do frontend, é recomendado que a loja tenha
 | Etapa | Descrição |
 | ----- | --------- |
 | Definição da arquitetura da loja e sua estratégia de vendas | O time definiu a arquitetura da sua loja VTEX de acordo com as estratégias e necessidades do seu modelo de negócio.<br><br>Mais informações no artigo [Contas e arquitetura](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl). |
-| Configuração dos perfis de acesso | O time configurou os acessos necessários para usar a plataforma VTEX para cada [usuário](/pt/tutorial/gerenciando-usuarios--tutorials_512).<br><br>Mais informações no artigo [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc). |
+| Configuração dos perfis de acesso | O time configurou os acessos necessários para usar a plataforma VTEX para cada [usuário](/pt/docs/tutorials/gerenciar-usuarios-administrativos).<br><br>Mais informações no artigo [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc). |
 | Configuração do catálogo | O time configurou o [catálogo](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalogo) com os produtos, a árvore de categoria e informações relacionadas, como descrições, imagens e preços, a fim de preencher e testar a loja, incluindo recursos como páginas de listagem de produtos (PLP), funcionalidade de pesquisa, páginas de detalhes de produtos (PDP) e checkout.<br><br>A ausência de um catálogo pode resultar em testes incompletos e problemas de integração de dados, atrasando a implementação.<br><br>Mais informações no artigo [Módulos da VTEX I](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7). |
 | Definição dos aplicativos necessários à operação da loja | O time definiu os aplicativos, nativos ou de terceiros, necessários para a operação da loja.<br><br>Para lojas que serão construídas usando [Store Framework](#store-framework), existe uma lista de apps nativos e de terceiros.<br><br>Mais informações no artigo [VTEX IO apps](https://developers.vtex.com/docs/vtex-io-apps). |
 

@@ -29,4 +29,4 @@ Além disso, o painel sofreu algumas alterações:
 - A edição dos nomes dos usuários agora só pode ser feita pelo próprio usuário através das suas Configurações de usuário. Veja o artigo [Configurar dados pessoais na tela de usuário](/pt/tutorial/configurar-dados-pessoais-na-tela-de-usuario--3S32bI9Qb6Ecec66SckYK6).
 - Por padrão, a exclusão de usuários revoga todo o acesso do usuário à loja sem excluí-lo da base de dados. A mensagem de confirmação de exclusão agora apresenta essa informação, deixando esse fato mais evidente.
 
-A documentação completa sobre a utilização do painel de gerenciamento de usuários pode ser encontrada no artigo [Gerenciar usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512).
+A documentação completa sobre a utilização do painel de gerenciamento de usuários pode ser encontrada no artigo [Gerenciar usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos).

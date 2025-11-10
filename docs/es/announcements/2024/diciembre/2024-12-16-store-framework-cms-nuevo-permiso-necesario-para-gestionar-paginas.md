@@ -29,7 +29,7 @@ Agregamos este requisito de permiso por motivos de seguridad. Así, solo los usu
 
 ## ¿Qué se necesita hacer?
 
-Para que un usuario del Admin pueda gestionar rutas de URL y las correspondientes plantillas de páginas en Store Framework CMS, se le debe asignar un rol de acceso específico que incluya el recurso **CMS Settings**. Consulta las instrucciones para editar los roles de acceso de un usuario en el artículo [Gestionar usuarios](/es/tutorial/gestionar-usuarios--tutorials_512#editando-usuarios).
+Para que un usuario del Admin pueda gestionar rutas de URL y las correspondientes plantillas de páginas en Store Framework CMS, se le debe asignar un rol de acceso específico que incluya el recurso **CMS Settings**. Consulta las instrucciones para editar los roles de acceso de un usuario en el artículo [Gestionar usuarios](/es/docs/tutorials/gestionar-usuarios-administrativos#editando-usuarios).
 
 Si deseas utilizar un rol de acceso personalizado, puedes crear un nuevo rol de acceso o editar uno existente para incluir el recurso **CMS Settings**. Consulta las instrucciones para crear y editar roles de acceso en el artículo [Roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol).
 

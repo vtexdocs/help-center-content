@@ -65,7 +65,7 @@ Todos os usuários administrativos cadastrados em uma conta VTEX podem executar 
 
 ### Adicionar usuários administrativos
 
-Novos usuários devem ser cadastrados no Admin VTEX pela página **Gerenciamento da conta**, seguindo os passos do artigo [Gerenciar usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512). Nesta página, também é possível editar, excluir ou exportar usuários.
+Novos usuários devem ser cadastrados no Admin VTEX pela página **Gerenciamento da conta**, seguindo os passos do artigo [Gerenciar usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos). Nesta página, também é possível editar, excluir ou exportar usuários.
 
 ### Definir perfis de acesso e permissões para usuários
 

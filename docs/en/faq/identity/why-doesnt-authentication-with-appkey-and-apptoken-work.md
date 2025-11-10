@@ -30,7 +30,7 @@ One of the reasons for integration errors can be a lack of association of the cr
 
 Both keys should be filled out in their respective fields, without spacing and by respecting the __case sensitivity__. One small error while typing can impede the well-functioning of an integration.
 
-Check for possible errors by accessing __Account Management__ and __[Users](/en/tutorial/managing-users--tutorials_512)__.
+Check for possible errors by accessing __Account Management__ and __[Users](/en/docs/tutorials/managing-admin-users)__.
 
 > ℹ️ The appToken cannot be recovered, once it has been created and displayed to the user.
 

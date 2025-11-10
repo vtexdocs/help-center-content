@@ -177,7 +177,7 @@ Estas configurações são aquelas aplicadas à conta da sua loja na VTEX. Inclu
 Se mais pessoas da sua operação precisarem acessar o Seller Portal, é possível cadastrar novos usuários. Os Owners da conta podem adicionar novos usuários, permitindo o acesso de mais pessoas ao Seller Portal. Para saber mais, confira os seguintes artigos:  
 
 - [Gerenciamento da conta](/pt/tutorial/visao-geral-do-modulo-license-manager/)    
-- [Gerenciar usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512)    
+- [Gerenciar usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos)    
 - [Perfis de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
 
 **Configurações do Usuário**

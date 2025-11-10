@@ -146,7 +146,7 @@ Após a configuração, para exportar a lista basta clicar em **Exportar**, na p
 
 > _O relatório está sendo gerado e será enviado para o seu email._
 
-O arquivo gerado será enviado para o email do [usuário](/pt/tutorial/gerenciando-usuarios--tutorials_512) logado. O conteúdo exportado é referente ao total de pedidos da listagem no momento da exportação. Se algum filtro estiver ativo, somente os anúncios selecionados serão exportados.
+O arquivo gerado será enviado para o email do [usuário](/pt/docs/tutorials/gerenciar-usuarios-administrativos) logado. O conteúdo exportado é referente ao total de pedidos da listagem no momento da exportação. Se algum filtro estiver ativo, somente os anúncios selecionados serão exportados.
 
 ### Visualizar detalhes do pedido
 
@@ -187,7 +187,7 @@ Para exportar uma planilha de comissionamento por SKU com extensão CSV, no topo
 
 > _O relatório está sendo gerado e será enviado para o seu email._
 
-O arquivo será enviado para o email do [usuário](/pt/tutorial/gerenciando-usuarios--tutorials_512) logado.
+O arquivo será enviado para o email do [usuário](/pt/docs/tutorials/gerenciar-usuarios-administrativos) logado.
 
 > ℹ️ O conteúdo exportado é referente ao comissionamento dos SKUs da listagem no momento da exportação. Se algum filtro estiver ativo, somente as comissões de SKU selecionadas serão exportadas.
 

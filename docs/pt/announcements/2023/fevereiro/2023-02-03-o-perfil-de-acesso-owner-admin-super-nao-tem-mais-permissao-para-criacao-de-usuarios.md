@@ -24,10 +24,10 @@ Estas medidas visam facilitar aos lojistas restringir o número de usuários que
 ## O que mudou?
 
 A partir de hoje, o [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) **Owner (Super Admin)** não inclui mais o [recurso](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **Save user**. Isso significa que usuários que tenham apenas este perfil perderão a capacidade de:
-- [Criar usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512).
+- [Criar usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos).
 - Atribuir [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) a usuários.
 - Remover [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) de usuários.
-- [Editar dados de usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512#editando-usuarios).
+- [Editar dados de usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos#editando-usuarios).
 - Criar [chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet).
 - Alterar [chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet).
 
@@ -81,7 +81,7 @@ Reforçamos a todos a importância de alterar periodicamente todas as senhas de 
 Confira as seguintes documentações para saber mais sobre a gestão de usuários e permissões na sua loja:
 - [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
 - [Recursos do License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3)
-- [Gerenciar usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512)
+- [Gerenciar usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos)
 - [Chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet)
 - [Boas práticas na utilização de chaves de aplicação](/pt/tutorial/boas-praticas-chaves-de-aplicacao--7b6nD1VMHa49aI5brlOvJm)
 

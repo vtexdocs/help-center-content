@@ -46,7 +46,7 @@ Para as lojas que utilizam a versão atual para alterar pedidos via Admin VTEX, 
 
 Para as lojas que utilizam nossas APIs, é necessário que a implementação na integração obedeça à nova arquitetura da funcionalidade. 
 
-Na **Alterar pedido**, o endpoint [Create order change](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes) funciona de forma assíncrona e o [usuário](/pt/tutorial/gerenciando-usuarios--tutorials_512) ou integração que faz a requisição recebe da plataforma um `requestId`, que é um identificador único para acompanhar a operação para alterar o pedido. Este identificador posteriormente será utilizado em determinados endpoints. Todos os endpoints da **Alterar pedido** são:
+Na **Alterar pedido**, o endpoint [Create order change](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes) funciona de forma assíncrona e o [usuário](/pt/docs/tutorials/gerenciar-usuarios-administrativos) ou integração que faz a requisição recebe da plataforma um `requestId`, que é um identificador único para acompanhar a operação para alterar o pedido. Este identificador posteriormente será utilizado em determinados endpoints. Todos os endpoints da **Alterar pedido** são:
 
 * [Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes)
 * [Preview order modifications](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/preview)

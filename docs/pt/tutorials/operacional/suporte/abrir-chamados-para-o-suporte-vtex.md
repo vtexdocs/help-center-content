@@ -162,7 +162,7 @@ Para solicitar esse tipo de suporte, siga os passos abaixo:
 4. Clique em `Enviar`.
 
 #### Comercial
-O suporte comercial auxilia o usuário em solicitações relacionadas à [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV),  [ambientes adicionais](/pt/tutorial/contratar-novo-ambiente--tutorials_2542), [sellers white label](/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) ou à [alteração de usuário](/pt/tutorial/gerenciando-usuarios--tutorials_512) com o perfil Sponsor user (Master Admin user).
+O suporte comercial auxilia o usuário em solicitações relacionadas à [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV),  [ambientes adicionais](/pt/tutorial/contratar-novo-ambiente--tutorials_2542), [sellers white label](/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) ou à [alteração de usuário](/pt/docs/tutorials/gerenciar-usuarios-administrativos) com o perfil Sponsor user (Master Admin user).
 
 Para solicitar esse tipo de suporte, siga os passos abaixo:
 
