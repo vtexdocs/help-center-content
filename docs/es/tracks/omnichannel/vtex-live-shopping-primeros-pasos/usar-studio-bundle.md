@@ -96,9 +96,9 @@ En la opción de menú **My studio**, los números del 1 al 5 indican los ajuste
 
 ### Ajustes restringidos a administradores
 
-* **6. Gestionar usuarios:** las opciones del menú de tres puntos verticales te permiten silenciar el micrófono de los participantes o remover participantes o dispositivos del estudio Bundle. La casilla `Active` selecciona a la persona que se muestra en la transmisión en vivo. 
-* **7. Activar/desactivar dispositivos conectados/anfitrión:** cuando la casilla `Active` está marcada, permite que el dispositivo o participante se vea o escuche en la transmisión en vivo. El ícono del micrófono indica los usuarios que tienen su micrófono activo (azul) o apagado (rojo). 
-* **8. Composición de pantalla:** muestra las opciones de pantalla disponibles para organizar participantes y dispositivos. Diferentes opciones funcionan mejor para distintos escenarios dependiendo del número de participantes y dispositivos en la transmisión. 
+* **6. Gestionar usuarios:** las opciones del menú de tres puntos verticales te permiten silenciar el micrófono de los participantes o remover participantes o dispositivos del estudio Bundle. La casilla `Active` selecciona a la persona que se muestra en la transmisión en vivo.
+* **7. Activar/desactivar dispositivos conectados/anfitrión:** cuando la casilla `Active` está marcada, permite que el dispositivo o participante se vea o escuche en la transmisión en vivo. El ícono del micrófono indica los usuarios que tienen su micrófono activo (azul) o apagado (rojo).
+* **8. Composición de pantalla:** muestra las opciones de pantalla disponibles para organizar participantes y dispositivos. Diferentes opciones funcionan mejor para distintos escenarios dependiendo del número de participantes y dispositivos en la transmisión.
 * **9. Go live:** inicia y detiene la transmisión del evento al público.
 
 ## My assets
