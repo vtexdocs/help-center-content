@@ -12,7 +12,7 @@ slugEN: managing-sales-associates-in-instore
 locale: pt
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: instore-primeiros-passos-e-configuracoes
-order: 6
+order: 4
 ---
 
 Após realizar as [configurações básicas do VTEX Sales App no Admin](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), é possível adicionar novos vendedores ao sistema ou gerenciar os vendedores já cadastrados. 
