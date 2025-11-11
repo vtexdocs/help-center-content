@@ -11247,67 +11247,6 @@
           "children": [
             {
               "name": {
-                "en": "VTEX Sales App - Primeros pasos y configuración",
-                "es": "VTEX Sales App - Primeros pasos y configuración",
-                "pt": "VTEX Sales App - Primeiros passos e configurações"
-              },
-              "slug": {
-                "en": "vtex-sales-app-primeros-pasos-y-configuracion",
-                "es": "vtex-sales-app-primeros-pasos-y-configuracion",
-                "pt": "vtex-sales-app-primeiros-passos-e-configuracoes"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "1. VTEX Sales App - Basic settings",
-                    "es": "1. VTEX Sales App - Configuración básica",
-                    "pt": "1. VTEX Sales App - Configurações Básicas"
-                  },
-                  "slug": {
-                    "en": "instore-basic-settings",
-                    "es": "instore-configuracion-basica",
-                    "pt": "instore-setup-basico"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "2. Managing physical stores in VTEX Sales App",
-                    "es": "2. Gestionar tiendas físicas en VTEX Sales App",
-                    "pt": "2. Gerenciar lojas físicas no VTEX Sales App"
-                  },
-                  "slug": {
-                    "en": "adding-new-stores-to-instore",
-                    "es": "agregar-nuevos-tiendas-al-instore",
-                    "pt": "adicionar-lojas-ao-instore"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "3. Managing sales associates in VTEX Sales App",
-                    "es": "3. Gestionar vendedores en VTEX Sales App",
-                    "pt": "3. Gerenciar vendedores no VTEX Sales App"
-                  },
-                  "slug": {
-                    "en": "managing-sales-associates-in-instore",
-                    "es": "gestionar-vendedores-en-instore",
-                    "pt": "gerenciar-vendedores-no-instore"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "VTEX Sales App - Getting started and setting up",
                 "es": "VTEX Sales App - Primeros pasos y configuración",
                 "pt": "VTEX Sales App - Primeiros passos e configurações"
@@ -11337,9 +11276,54 @@
                 },
                 {
                   "name": {
-                    "en": "2. Customizing VTEX Sales App",
-                    "es": "2. Personalización de VTEX Sales App",
-                    "pt": "2. Customizar o VTEX Sales App"
+                    "en": "2. VTEX Sales App - Basic settings",
+                    "es": "2. VTEX Sales App - Configuración básica",
+                    "pt": "2. VTEX Sales App - Configurações Básicas"
+                  },
+                  "slug": {
+                    "en": "instore-basic-settings",
+                    "es": "instore-configuracion-basica",
+                    "pt": "instore-setup-basico"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "3. Managing physical stores in VTEX Sales App",
+                    "es": "3. Gestionar tiendas físicas en VTEX Sales App",
+                    "pt": "3. Gerenciar lojas físicas no VTEX Sales App"
+                  },
+                  "slug": {
+                    "en": "adding-new-stores-to-instore",
+                    "es": "agregar-nuevos-tiendas-al-instore",
+                    "pt": "adicionar-lojas-ao-instore"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "4. Managing sales associates in VTEX Sales App",
+                    "es": "4. Gestionar vendedores en VTEX Sales App",
+                    "pt": "4. Gerenciar vendedores no VTEX Sales App"
+                  },
+                  "slug": {
+                    "en": "managing-sales-associates-in-instore",
+                    "es": "gestionar-vendedores-en-instore",
+                    "pt": "gerenciar-vendedores-no-instore"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "5. Customizing VTEX Sales App",
+                    "es": "5. Personalización de VTEX Sales App",
+                    "pt": "5. Customizar o VTEX Sales App"
                   },
                   "slug": {
                     "en": "customizing-instore",
