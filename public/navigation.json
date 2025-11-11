@@ -10821,37 +10821,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. What are permissions and roles",
-                    "es": "1. ¿Qué son permisos y perfiles de acceso?",
-                    "pt": "1. O que são permissões e perfis de acesso"
-                  },
-                  "slug": {
-                    "en": "what-are-permissions-and-access-profiles",
-                    "es": "que-son-permisos-y-perfiles-de-acceso",
-                    "pt": "o-que-sao-permissoes-e-perfis-de-acesso"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Contas e Permissões",
-                "es": "Contas e Permissões",
-                "pt": "Contas e Permissões"
-              },
-              "slug": {
-                "en": "contas-e-permissoes",
-                "es": "contas-e-permissoes",
-                "pt": "contas-e-permissoes"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
                     "en": "1. Understanding your account",
                     "es": "1. Entendiendo su cuenta",
                     "pt": "1. Entendendo a sua conta"
@@ -10882,9 +10851,24 @@
                 },
                 {
                   "name": {
-                    "en": "3. Creating and editing roles",
-                    "es": "3. Crear y editar perfiles de acceso",
-                    "pt": "3. Criar e editar perfis de acesso"
+                    "en": "3. What are permissions and roles",
+                    "es": "3. ¿Qué son permisos y perfiles de acceso?",
+                    "pt": "3. O que são permissões e perfis de acesso"
+                  },
+                  "slug": {
+                    "en": "what-are-permissions-and-access-profiles",
+                    "es": "que-son-permisos-y-perfiles-de-acceso",
+                    "pt": "o-que-sao-permissoes-e-perfis-de-acesso"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "4. Creating and editing roles",
+                    "es": "4. Crear y editar perfiles de acceso",
+                    "pt": "4. Criar e editar perfis de acesso"
                   },
                   "slug": {
                     "en": "creating-and-editing-access-profiles",
@@ -10897,9 +10881,9 @@
                 },
                 {
                   "name": {
-                    "en": "4. Creating and editing users",
-                    "es": "4. Crear y editar usuario",
-                    "pt": "4. Criar e editar usuário"
+                    "en": "5. Creating and editing users",
+                    "es": "5. Crear y editar usuario",
+                    "pt": "5. Criar e editar usuário"
                   },
                   "slug": {
                     "en": "creating-and-editing-users",
@@ -10912,9 +10896,9 @@
                 },
                 {
                   "name": {
-                    "en": "5. What is the Sponsor user",
-                    "es": "5. Qué es el usuario titular",
-                    "pt": "5. O que é o usuário Titular"
+                    "en": "6. What is the Sponsor user",
+                    "es": "6. Qué es el usuario titular",
+                    "pt": "6. O que é o usuário Titular"
                   },
                   "slug": {
                     "en": "what-is-the-master-user",
@@ -10927,9 +10911,9 @@
                 },
                 {
                   "name": {
-                    "en": "6. How the account relates to the website's pages",
-                    "es": "6. Cómo se relaciona la cuenta con las páginas del sitio web",
-                    "pt": "6. Como a conta se relaciona às páginas do site"
+                    "en": "7. How the account relates to the website's pages",
+                    "es": "7. Cómo se relaciona la cuenta con las páginas del sitio web",
+                    "pt": "7. Como a conta se relaciona às páginas do site"
                   },
                   "slug": {
                     "en": "como-a-conta-se-relaciona-as-paginas-do-site",
@@ -10942,9 +10926,9 @@
                 },
                 {
                   "name": {
-                    "en": "7. Enabling two-factor authentication login",
-                    "es": "7. Habilitar inicio de sesión por autenticación de dos factores",
-                    "pt": "7. Habilitar login por autenticação de dois fatores"
+                    "en": "8. Enabling two-factor authentication login",
+                    "es": "8. Habilitar inicio de sesión por autenticación de dos factores",
+                    "pt": "8. Habilitar login por autenticação de dois fatores"
                   },
                   "slug": {
                     "en": "enabling-2-factor-authentication-login",
@@ -10957,9 +10941,9 @@
                 },
                 {
                   "name": {
-                    "en": "8. Configuring login with Facebook",
-                    "es": "8. Configurar inicio de sesión con Facebook",
-                    "pt": "8. Configurar login com Facebook"
+                    "en": "9. Configuring login with Facebook",
+                    "es": "9. Configurar inicio de sesión con Facebook",
+                    "pt": "9. Configurar login com Facebook"
                   },
                   "slug": {
                     "en": "configuring-login-with-facebook",
@@ -10972,9 +10956,9 @@
                 },
                 {
                   "name": {
-                    "en": "9. Configuring login with Google",
-                    "es": "9. Configurar inicio de sesión con Google",
-                    "pt": "9. Configurar login com Google"
+                    "en": "10. Configuring login with Google",
+                    "es": "10. Configurar inicio de sesión con Google",
+                    "pt": "10. Configurar login com Google"
                   },
                   "slug": {
                     "en": "configuring-login-with-google",
@@ -16953,9 +16937,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "7. Enabling two-factor authentication login",
-                    "es": "7. Habilitar inicio de sesión por autenticación de dos factores",
-                    "pt": "7. Habilitar login por autenticação de dois fatores"
+                    "en": "8. Enabling two-factor authentication login",
+                    "es": "8. Habilitar inicio de sesión por autenticación de dos factores",
+                    "pt": "8. Habilitar login por autenticação de dois fatores"
                   },
                   "slug": {
                     "en": "enabling-2-factor-authentication-login",
