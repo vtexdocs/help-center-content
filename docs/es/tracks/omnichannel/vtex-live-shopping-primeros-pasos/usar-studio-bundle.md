@@ -3,7 +3,7 @@ title: 'Utilizar el estudio Bundle'
 id: 3GKzrP9nkyRwpUyyeYUaeX
 status: PUBLISHED
 createdAt: 2025-07-23T18:06:49.325Z
-updatedAt: 2025-11-03T23:15:39.786Z
+updatedAt: 2025-11-10T23:15:39.786Z
 publishedAt: 2025-11-03T23:15:39.786Z
 firstPublishedAt: 2025-07-28T15:08:19.382Z
 contentType: trackArticle
@@ -43,25 +43,28 @@ Para que personas externas (como influenciadores) puedan acceder al estudio, un 
 Para permitir el acceso de una persona externa a Bundle deben seguirse estos pasos:
 
 1. Como administrador, compartes el link de invitación al [estudio de streaming](#estudio-de-streaming) con el invitado.
-2. El invitado utiliza el link para solicitar unirse al estudio.
+2. El invitado utiliza el link para solicitar unirse al estudio. Mientras espera la aprobación del administrador, el invitado verá una imagen como la que se muestra a continuación:
+
+  ![using-buncle-studio-waiting-approval_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/using-buncle-studio-waiting-approval_ES.png)
+
 3. En Bundle, verás al invitado en espera de aprobación en la página del estudio:
 
-  ![bundle-administrator-approval-flow-image-1_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/usar-studio-bundle_2.png)
+  ![usar-studio-bundle_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/usar-studio-bundle_2.png)
 
 4. Puedes elegir una de las opciones:
-    - `Approve`: permite que el invitado se una al estudio.
-    - `Deny`: se deniega el acceso del invitado al estudio.
+    * `Approve`: permite que el invitado se una al estudio.
+    * `Deny`: se deniega el acceso del invitado al estudio.
 5. Al elegir una opción, se muestra el mensaje de confirmación correspondiente, denegando o aprobando el acceso al estudio.
-    - {Nombre del invitado} has been approved.
-    - {Nombre del invitado} has been denied.
+    * {Nombre del invitado} has been approved.
+    * {Nombre del invitado} has been denied.
 
 Si el invitado cree que le denegaste el acceso por error, puede hacer clic inmediatamente en "Try again" para volver a intentarlo:
 
-![bundle-administrator-approval-flow-image-2_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/usar-studio-bundle_3.png)
+![usar-studio-bundle_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/usar-studio-bundle_3.png)
 
 Si rechazas la solicitud del invitado por segunda vez, deberá esperar cinco minutos antes de intentarlo de nuevo. Durante ese tiempo, verá una cuenta regresiva en pantalla:
 
-![bundle-administrator-approval-flow-image-3_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/usar-studio-bundle_4.png)
+![bundle-administrator-approval-flow-image-3_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/usar-studio-bundle_4.png)
 
 ## My studio
 
@@ -93,9 +96,9 @@ En la opción de menú **My studio**, los números del 1 al 5 indican los ajuste
 
 ### Ajustes restringidos a administradores
 
-* **6. Gestionar usuarios:** las opciones del menú de tres puntos verticales te permiten silenciar el micrófono de los participantes o remover participantes o dispositivos del estudio Bundle. La casilla `Active` selecciona a la persona que se muestra en la transmisión en vivo. 
-* **7. Activar/desactivar dispositivos conectados/anfitrión:** cuando la casilla `Active` está marcada, permite que el dispositivo o participante se vea o escuche en la transmisión en vivo. El ícono del micrófono indica los usuarios que tienen su micrófono activo (azul) o apagado (rojo). 
-* **8. Composición de pantalla:** muestra las opciones de pantalla disponibles para organizar participantes y dispositivos. Diferentes opciones funcionan mejor para distintos escenarios dependiendo del número de participantes y dispositivos en la transmisión. 
+* **6. Gestionar usuarios:** las opciones del menú de tres puntos verticales te permiten silenciar el micrófono de los participantes o remover participantes o dispositivos del estudio Bundle. La casilla `Active` selecciona a la persona que se muestra en la transmisión en vivo.
+* **7. Activar/desactivar dispositivos conectados/anfitrión:** cuando la casilla `Active` está marcada, permite que el dispositivo o participante se vea o escuche en la transmisión en vivo. El ícono del micrófono indica los usuarios que tienen su micrófono activo (azul) o apagado (rojo).
+* **8. Composición de pantalla:** muestra las opciones de pantalla disponibles para organizar participantes y dispositivos. Diferentes opciones funcionan mejor para distintos escenarios dependiendo del número de participantes y dispositivos en la transmisión.
 * **9. Go live:** inicia y detiene la transmisión del evento al público.
 
 ## My assets
@@ -123,7 +126,6 @@ El nombre se mostrará en letras blancas sobre un fondo oscuro y no se puede cam
 
 <p align="center">
   <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/usar-studio-bundle_7.png" width="200" height="30">
-
 
 ### Dimensiones del recurso
 

@@ -3,7 +3,7 @@ title: 'Usar studio Bundle'
 id: 3GKzrP9nkyRwpUyyeYUaeX
 status: PUBLISHED
 createdAt: 2025-07-23T18:06:49.325Z
-updatedAt: 2025-11-03T23:15:39.786Z
+updatedAt: 2025-11-10T23:15:39.786Z
 publishedAt: 2025-11-03T23:15:39.786Z
 firstPublishedAt: 2025-07-28T15:08:19.382Z
 contentType: trackArticle
@@ -32,7 +32,7 @@ Esta seção tem as seguintes configurações:
 * **Copiar convite**: ao clicar neste botão, um link é gerado e copiado para que você possa enviá-lo a influenciadores ou hosts. Ao abrir o link e o [administrador permitir a entrada deles no estúdio](#aprovacao-do-administrador-para-a-entrada-de-convidados-no-estudio), os convidados poderão ligar ou desligar suas câmeras e microfones, bem como ver o chat dentro do estúdio. No entanto, eles não terão acesso a outras ações, conforme explicado na seção [My studio (Meu estúdio)](#my-studio-meu-estudio).
 * **Acessar:** redireciona para a página **Device settings** (Configurações do dispositivo) no estúdio Bundle, onde é possível gerenciar câmeras, fazer upload de recursos gráficos, iniciar/encerrar a transmissão, entre outras ações. Essa configuração é restrita a administradores do estúdio de transmissão.
 
-Os administradores que utilizam o botão `Acessar` são redirecionados para a página **Device settings** do Bundle, onde podem selecionar a câmera e o microfone que desejam usar e efetuar testes para garantir que tudo está funcionando corretamente. 
+Os administradores que utilizam o botão `Acessar` são redirecionados para a página **Device settings** do Bundle, onde podem selecionar a câmera e o microfone que desejam usar e efetuar testes para garantir que tudo está funcionando corretamente.
 
 Com o link do convite, os hosts e convidados poderão entrar no estúdio depois que o acesso for aprovado por um administrador.
 
@@ -43,25 +43,28 @@ Para que pessoas externas (como influenciadores) tenham acesso ao estúdio, elas
 Para permitir que uma pessoa externa acesse o Bundle, siga os passos abaixo:
 
 1. Como administrador, compartilhe com o convidado o link de convite para o [estúdio de streaming](#estudio-de-streaming).
-2. O convidado acessa o link e solicita acesso ao estúdio.
+2. O convidado acessa o link e solicita acesso ao estúdio. Enquanto aguarda a aprovação do admnistrador, ele vê uma tela como a seguinte:
+
+  ![using-buncle-studio-waiting-approval_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/using-buncle-studio-waiting-approval_PT.png)
+
 3. No Bundle, o administrador vê que o convidado está aguardando sua aprovação na página **My Studio**:
 
-  ![bundle-administrator-approval-flow-image-1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_2.png)
+  ![usar-studio-bundle_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_2.png)
 
-4. O administrador pode escolher uma das opções abaixo: 
-    - `Approve`: permite que o convidado entre no estúdio.
-    - `Deny`: recusa a solicitação do convidado de entrar no estúdio.
+4. O administrador pode escolher uma das opções abaixo:
+    * `Approve`: permite que o convidado entre no estúdio.
+    * `Deny`: recusa a solicitação do convidado de entrar no estúdio.
 5. Ao escolher uma das opções, uma mensagem de confirmação é exibida, respectivamente:
-    - {Nome do convidado} has been approved.
-    - {Nome do convidado} has been denied.
+    * {Nome do convidado} has been approved.
+    * {Nome do convidado} has been denied.
 
 Se o acesso do convidado for negado e ele achar que foi um erro, ele pode clicar em `Try again` para tentar novamente:
 
-![bundle-administrator-approval-flow-image-2_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_3.png)
+![usar-studio-bundle_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_3.png)
 
 No entanto, se o pedido for negado uma segunda vez, será necessário aguardar cinco minutos antes de tentar novamente. Esse tempo será exibido na página com uma contagem regressiva:
 
-![bundle-administrator-approval-flow-image-3_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_4.png)
+![bundle-administrator-approval-flow-image-3_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_4.png)
 
 ## My Studio (Meu estúdio)
 
@@ -93,9 +96,9 @@ Na opção **My Studio** (Meu estúdio) do menu, as configurações numeradas de
 
 ### Configurações exclusivas de administradores
 
-* **6. Gerenciar usuários:** as opções do menu de três pontos verticais permitem que você mute o microfone de um participante e remova uma pessoa ou dispositivo do estúdio Bundle. A caixa de seleção `Ativo` define qual participante está sendo exibido na transmissão ao vivo. 
-* **7. Ativar/desativar dispositivos conectados/host:** quando a caixa de seleção `Ativo` está marcada, o dispositivo ou participante fica visível ou audível na transmissão. O ícone do microfone indica quem está com o microfone ligado (azul) ou desligado (vermelho). 
-* **8. Composição da tela:** exibe as opções de exibição disponíveis para organizar participantes e dispositivos. O layout ideal varia conforme o número de participantes e dispositivos na transmissão. 
+* **6. Gerenciar usuários:** as opções do menu de três pontos verticais permitem que você mute o microfone de um participante e remova uma pessoa ou dispositivo do estúdio Bundle. A caixa de seleção `Ativo` define qual participante está sendo exibido na transmissão ao vivo.
+* **7. Ativar/desativar dispositivos conectados/host:** quando a caixa de seleção `Ativo` está marcada, o dispositivo ou participante fica visível ou audível na transmissão. O ícone do microfone indica quem está com o microfone ligado (azul) ou desligado (vermelho).
+* **8. Composição da tela:** exibe as opções de exibição disponíveis para organizar participantes e dispositivos. O layout ideal varia conforme o número de participantes e dispositivos na transmissão.
 * **9. Go live (Transmitir ao vivo):** inicia ou encerra a transmissão do evento para o público.
 
 ## My assets (Meus recursos)
@@ -123,7 +126,6 @@ O nome será exibido em letras brancas sobre um fundo escuro e não poderá ser 
 
 <p align="center">
   <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_7.png" alt="article_8_asset_types_EN" width="200" height="30">
-
 
 ### Dimensões dos recursos
 
@@ -220,4 +222,3 @@ Na opção de menu **Chat private** (Chat privado), há um canal de comunicaçã
 ## Settings (Configurações)
 
 No canto inferior esquerdo do menu, você pode clicar em **Settings** (Configurações) para ajustar as configurações de câmera e áudio, tanto antes quanto durante a transmissão. As configurações estão disponíveis para o administrador e para os participantes que estão como hosts do evento.
-

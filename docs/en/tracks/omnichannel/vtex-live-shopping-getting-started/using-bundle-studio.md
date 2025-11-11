@@ -3,7 +3,7 @@ title: 'Using Bundle studio'
 id: 3GKzrP9nkyRwpUyyeYUaeX
 status: PUBLISHED
 createdAt: 2025-07-23T18:06:49.325Z
-updatedAt: 2025-11-03T23:15:39.786Z
+updatedAt: 2025-11-10T23:15:39.786Z
 publishedAt: 2025-11-03T23:15:39.786Z
 firstPublishedAt: 2025-07-28T15:08:19.382Z
 contentType: trackArticle
@@ -43,21 +43,24 @@ For external people (such as influencers) to access the Studio, they must be app
 For allowing an external person access to Bundle, the steps are the following:
 
 1. The administrator shares the [Streaming Studio](#streaming-studio) invitation link with the guest.
-2. The guest uses the link to ask to join the studio.
+2. The guest uses the link to ask to join the studio. While waiting for the administrator’s approval, the guest will see an image like the one below:
+
+  ![using-bundle-studio-waiting-approval_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio-waiting-approval_EN.png)
+
 3. In Bundle, the administrator sees the guest waiting for approval in the **My Studio** page:
 
-  ![bundle-administrator-approval-flow-image-1_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_2.png)
+  ![using-bundle-studio_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_2.png)
 
 4. The Administrator can choose one of the options:
-    - `Approve`: Allows the guest to join the Studio.
-    - `Deny`: Denies the guest’s request to join.
+    * `Approve`: Allows the guest to join the Studio.
+    * `Deny`: Denies the guest’s request to join.
 5. After the action, a confirmation message appears, respectively:
-    - {Guest name} has been approved.
-    - {Guest name} has been denied.
+    * {Guest name} has been approved.
+    * {Guest name} has been denied.
 
 If the guest access is denied and they believe it was a mistake, they can immediately click `Try again` to reattempt:
 
-![bundle-administrator-approval-flow-image-2_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_3.png)
+![using-bundle-studio_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_3.png)
 
 However, if their request is denied a second time, they must wait five minutes before trying again. They will see a countdown on the page:
 
@@ -93,10 +96,10 @@ In the **My Studio** menu option, numbers 1 through 5 indicate the settings that
 
 ### Administrator-only settings
 
-* **6. Manage users:** The vertical ellipsis menu options allow you to mute someone's microphone or remove them or a device from Bundle studio. The `Active` box selects the person being displayed on the live stream. 
-* **7. Activate/deactivate connected devices/host:** When the `Active` checkbox is marked, it allows the device or participant to be visible or audible in the live stream. The microphone icon indicates who has their microphone currently on (blue) or off (red). 
-* **8. Screen composition:** Shows the available screen options to arrange participants and devices. Different options work better for different scenarios depending on the number of participants and devices in the transmission. 
-* **9. Go live:** Starts and stops broadcasting the event to the public. 
+* **6. Manage users:** The vertical ellipsis menu options allow you to mute someone's microphone or remove them or a device from Bundle studio. The `Active` box selects the person being displayed on the live stream.
+* **7. Activate/deactivate connected devices/host:** When the `Active` checkbox is marked, it allows the device or participant to be visible or audible in the live stream. The microphone icon indicates who has their microphone currently on (blue) or off (red).
+* **8. Screen composition:** Shows the available screen options to arrange participants and devices. Different options work better for different scenarios depending on the number of participants and devices in the transmission.
+* **9. Go live:** Starts and stops broadcasting the event to the public.
 
 ## My assets
 
@@ -123,7 +126,6 @@ The name will show in white letters against a dark background and can’t be cha
 
 <p align="center">
   <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_7.png" alt="article_8_asset_types_EN" width="200" height="30">
-
 
 ### Asset dimensions
 
@@ -155,7 +157,7 @@ To remove an asset, follow the steps below:
 
 1. Go to the desired asset section.
 2. Click the `x` icon in the top right corner of the asset.
-3. On the **"Are you sure you want to delete this asset?"** modal, click **Delete**. 
+3. On the **"Are you sure you want to delete this asset?"** modal, click **Delete**.
 
 ## My destinations
 
@@ -189,7 +191,7 @@ The following confirmation message will be displayed, *"A new destination has be
 1. [Create](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) the event.
 2. On the **Events** page, click the event arrow button to go to the **Event Information** page.
 3. [Turn on](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) the event.
-4. In the [Details](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq#event-details) section, copy the **Inbound server** and **Server key** information and give them to the account you want to connect to, which is Account A in this case. 
+4. In the [Details](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq#event-details) section, copy the **Inbound server** and **Server key** information and give them to the account you want to connect to, which is Account A in this case.
 
 ### Connecting to YouTube
 
@@ -209,7 +211,7 @@ Once you start the live stream, all the content shown on Bundle is going to be a
 
 ### Connecting to Facebook
 
-To broadcast your event on Facebook, you must follow almost the same steps as when [connecting to YouTube](#connecting-to-youtube). The difference is that you have to provide [new Facebook event keys](https://www.facebook.com/business/help/184100780068012), and select `Facebook` as the **Platform** when creating the destination. 
+To broadcast your event on Facebook, you must follow almost the same steps as when [connecting to YouTube](#connecting-to-youtube). The difference is that you have to provide [new Facebook event keys](https://www.facebook.com/business/help/184100780068012), and select `Facebook` as the **Platform** when creating the destination.
 
 After adding the Facebook destination and once you start the live stream, all the content shown on Bundle is automatically streamed on Facebook.
 
