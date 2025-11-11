@@ -10625,7 +10625,7 @@
             },
             {
               "name": {
-                "en": "Transactional Emails",
+                "en": "Transactional emails",
                 "es": "E-mails Transaccionales",
                 "pt": "E-mails Transacionais"
               },
@@ -10807,7 +10807,7 @@
             },
             {
               "name": {
-                "en": "Accounts & Permissions",
+                "en": "Accounts and permissions",
                 "es": "Cuentas y Permisos",
                 "pt": "Contas e Permissões"
               },
@@ -14252,12 +14252,12 @@
             {
               "name": {
                 "en": "Shopee integration",
-                "es": "Integración con Carrefour",
+                "es": "Integración con Shopee",
                 "pt": "Integração com a Shopee"
               },
               "slug": {
                 "en": "shopee-integration",
-                "es": "integracion-con-carrefour",
+                "es": "integracion-con-shopee",
                 "pt": "integracao-com-a-shopee"
               },
               "origin": "",
