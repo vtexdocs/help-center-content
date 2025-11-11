@@ -12,7 +12,7 @@ slugEN: instore-basic-settings
 locale: pt
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: instore-primeiros-passos-e-configuracoes
-order: 4
+order: 2
 ---
 
 O VTEX Sales App é um dos principais produtos da VTEX para operações de [Comércio Unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv). Ele é um aplicativo que permite à sua loja oferecer uma experiência omnichannel real, integrando seus canais online e físicos e colocando seus clientes no centro do negócio.

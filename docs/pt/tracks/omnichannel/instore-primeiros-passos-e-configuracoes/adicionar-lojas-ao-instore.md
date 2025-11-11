@@ -12,7 +12,7 @@ slugEN: adding-new-stores-to-instore
 locale: pt
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: instore-primeiros-passos-e-configuracoes
-order: 5
+order: 3
 ---
 
 Depois de fazer as [configurações básicas do VTEX Sales App no Admin](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), você pode adicionar outras lojas físicas ao sistema ou gerenciar lojas.

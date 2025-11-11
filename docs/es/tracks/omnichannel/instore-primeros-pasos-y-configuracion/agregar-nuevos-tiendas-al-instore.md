@@ -12,7 +12,7 @@ slugEN: adding-new-stores-to-instore
 locale: es
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: instore-primeros-pasos-y-configuracion
-order: 5
+order: 3
 ---
 
 Después de realizar las [configuraciones básicas de inStore en el Admin](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), puede añadir otras tiendas físicas al sistema o gestionar tiendas ya registrados.

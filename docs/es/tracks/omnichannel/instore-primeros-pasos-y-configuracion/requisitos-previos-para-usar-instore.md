@@ -12,7 +12,7 @@ slugEN: prerequisites-for-using-instore
 locale: es
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: instore-primeros-pasos-y-configuracion
-order: 2
+order: 1
 ---
 
 Este artículo explica todos los requisitos que debe cumplir una cuenta VTEX antes de poder configurar, instalar y empezar a utilizar VTEX Sales App:

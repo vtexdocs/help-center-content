@@ -12,7 +12,7 @@ slugEN: prerequisites-for-using-instore
 locale: pt
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: instore-primeiros-passos-e-configuracoes
-order: 2
+order: 1
 ---
 
 

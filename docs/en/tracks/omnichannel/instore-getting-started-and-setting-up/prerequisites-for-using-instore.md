@@ -12,7 +12,7 @@ slugEN: prerequisites-for-using-instore
 locale: en
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: instore-getting-started-and-setting-up
-order: 2
+order: 1
 ---
 
 This article explains all the requirements that a VTEX account needs to meet before you can configure, install and start using VTEX Sales App:
