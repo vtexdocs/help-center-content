@@ -12905,6 +12905,142 @@
           "children": [
             {
               "name": {
+                "en": "Amazon integration",
+                "es": "Integración de Amazon",
+                "pt": "Integração com a Amazon"
+              },
+              "slug": {
+                "en": "amazon-integration",
+                "es": "integracion-de-amazon",
+                "pt": "integracao-com-a-amazon"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "1. Amazon",
+                    "es": "1. Amazon",
+                    "pt": "1. Amazon"
+                  },
+                  "slug": {
+                    "en": "amazon",
+                    "es": "amazon",
+                    "pt": "amazon"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "2. Amazon Integration overview",
+                    "es": "2. Visión general de la Amazon integración",
+                    "pt": "2. Visão geral da integração da Amazon"
+                  },
+                  "slug": {
+                    "en": "amazon-integration-overview",
+                    "es": "vision-general-de-la-amazon-integracion",
+                    "pt": "visao-geral-da-integracao-da-amazon"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "3. Amazon account settings",
+                    "es": "3. Configuración de la cuenta de Amazon",
+                    "pt": "3. Configurações de conta na Amazon"
+                  },
+                  "slug": {
+                    "en": "amazon-account-settings",
+                    "es": "configuracion-de-la-cuenta-amazon",
+                    "pt": "configuracoes-na-conta-amazon"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "4. VTEX platform settings",
+                    "es": "4. Configuración de la plataforma VTEX",
+                    "pt": "4. Configurações na plataforma VTEX"
+                  },
+                  "slug": {
+                    "en": "vtex-platform-settings",
+                    "es": "configuracion-de-la-plataforma-vtex",
+                    "pt": "configuracoes-na-plataforma-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "5. Configuring Price Divergence rule",
+                    "es": "5. Configurar regla de Divergencia de precios",
+                    "pt": "5. Configurar regra de Divergência de valores"
+                  },
+                  "slug": {
+                    "en": "configuring-price-divergence-rule-amazon",
+                    "es": "configurar-regla-de-divergencia-de-precios-amazon",
+                    "pt": "configurar-regra-de-divergencia-de-valores-amazon"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "6. Configuring the Amazon integration",
+                    "es": "6. Configurar la integración de Amazon",
+                    "pt": "6. Configurar a integração da Amazon"
+                  },
+                  "slug": {
+                    "en": "configuring-the-amazon-integration",
+                    "es": "configurar-la-integracion-de-amazon",
+                    "pt": "configurar-a-integracao-da-amazon"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "7. Sending products to Amazon",
+                    "es": "7. Envío de productos a Amazon",
+                    "pt": "7. Envio de produtos à Amazon"
+                  },
+                  "slug": {
+                    "en": "sending-products-to-amazon",
+                    "es": "envio-de-productos-a-amazon",
+                    "pt": "envio-de-produtos-para-amazon"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "8. Product integration errors with Amazon",
+                    "es": "8. Errores de integración de productos Amazon",
+                    "pt": "8. Erros de integração de produtos Amazon"
+                  },
+                  "slug": {
+                    "en": "product-integration-errors-with-amazon",
+                    "es": "errores-de-integracion-de-productos-amazon",
+                    "pt": "erros-de-integracao-de-produtos-amazon"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Mercado Livre Integration",
                 "es": "Integración con Mercado Libre",
                 "pt": "Integração com o Mercado Livre"
@@ -13888,6 +14024,97 @@
             },
             {
               "name": {
+                "en": "Rappi integration",
+                "es": "Integración con Rappi",
+                "pt": "Integração com o Rappi"
+              },
+              "slug": {
+                "en": "rappi-integration",
+                "es": "integracion-con-rappi",
+                "pt": "integracao-com-o-rappi"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "1. Rappi Integration overview",
+                    "es": "1. Visión general  de la Rappi integración",
+                    "pt": "1. Visão geral da integração com a Rappi"
+                  },
+                  "slug": {
+                    "en": "rappi-integration-overview",
+                    "es": "vision-general-de-la-rappi-integracion",
+                    "pt": "visao-geral-da-integracao-com-a-rappi"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "2. Configuring the integration",
+                    "es": "2. Configuración de la integración",
+                    "pt": "2. Configurando a integração"
+                  },
+                  "slug": {
+                    "en": "configuring-the-integration-rappi",
+                    "es": "configuracion-de-la-integracion-rappi",
+                    "pt": "configurando-a-integracao-rappi"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "3. Configuring rappi Price Divergence rule",
+                    "es": "3. Configurar rappi regla de Divergencia de precios",
+                    "pt": "3. Conﬁgurar regra de Divergência de valores rappi"
+                  },
+                  "slug": {
+                    "en": "configuring-rappi-price-divergence-rule",
+                    "es": "configurar-rappi-regla-de-divergencia-de-precios",
+                    "pt": "configurar-regra-de-divergencia-de-valores-rappi"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "4. Rappi integration registration",
+                    "es": "4. Registro de integración de Rappi",
+                    "pt": "4. Cadastro da integração Rappi"
+                  },
+                  "slug": {
+                    "en": "rappi-integration-registration",
+                    "es": "registro-de-integracion-de-rappi",
+                    "pt": "cadastro-da-integracao-rappi"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "5. Mapping Rappi product categories and attributes",
+                    "es": "5. Mapeo de categorías y atributos de productos Rappi",
+                    "pt": "5. Mapeamento de categorias e atributos de produtos Rappi"
+                  },
+                  "slug": {
+                    "en": "mapping-rappi-product-categories-and-attributes",
+                    "es": "mapeo-de-categorias-y-atributos-de-productos-rappi",
+                    "pt": "mapeamento-de-categorias-e-atributos-de-produtos-rappi"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Netshoes Integration",
                 "es": "Integración de Netshoes",
                 "pt": "Integração com a Netshoes"
@@ -14015,6 +14242,97 @@
                     "en": "setting-up-a-marketplace-trade-policy",
                     "es": "configurar-la-politica-comercial-para-marketplace",
                     "pt": "configurar-politica-comercial-para-marketplace"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Shopee integration",
+                "es": "Integración con Carrefour",
+                "pt": "Integração com a Shopee"
+              },
+              "slug": {
+                "en": "shopee-integration",
+                "es": "integracion-con-carrefour",
+                "pt": "integracao-com-a-shopee"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "1. Integration Overview",
+                    "es": "1. Resumen de integración",
+                    "pt": "1. Visão geral da integração"
+                  },
+                  "slug": {
+                    "en": "integration-overview-shopee",
+                    "es": "resumen-de-integracion-shopee",
+                    "pt": "visao-geral-da-integracao-shopee"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "2. Settings on the VTEX platform",
+                    "es": "2. Configuración en la plataforma VTEX",
+                    "pt": "2. Configurações na plataforma VTEX"
+                  },
+                  "slug": {
+                    "en": "settings-on-the-vtex-platform-shopee",
+                    "es": "configuracion-en-la-plataforma-vtex-shopee",
+                    "pt": "configuracoes-na-plataforma-vtex-shopee"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "3. Configuring Price Divergence rule",
+                    "es": "3. Configuración de regla de Divergencia de precios",
+                    "pt": "3. Configurar Regra de divergência de valores"
+                  },
+                  "slug": {
+                    "en": "configuring-price-divergence-rule-shopee",
+                    "es": "configuracion-de-regla-de-divergencia-de-precios-shopee",
+                    "pt": "configurar-regra-de-divergencia-de-valores-shopee"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "4. Install and configure Shopee connector",
+                    "es": "4. Instalar y configurar el conector Shopee",
+                    "pt": "4. Instalar e Configurar conector Shopee"
+                  },
+                  "slug": {
+                    "en": "install-and-configure-shopee-connector",
+                    "es": "instalar-y-configurar-el-conector-shopee",
+                    "pt": "instalar-e-configurar-conector-shopee"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "5. Mapping product categories and attributes to Shopee",
+                    "es": "5. Mapear categorías y atributos de los productos para Shopee",
+                    "pt": "5. Mapeamento de categorias e atributos dos produtos para a Shopee"
+                  },
+                  "slug": {
+                    "en": "mapping-product-categories-and-attributes-to-shopee",
+                    "es": "mapear-categorias-y-atributos-de-los-productos-para-shopee",
+                    "pt": "mapeamento-de-categorias-e-atributos-dos-produtos-para-a-shopee"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -14840,324 +15158,6 @@
                   "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Amazon integration",
-                "es": "Integracion de amazon",
-                "pt": "Integracao com a amazon"
-              },
-              "slug": {
-                "en": "amazon-integration",
-                "es": "integracion-de-amazon",
-                "pt": "integracao-com-a-amazon"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "1. Amazon",
-                    "es": "1. Amazon",
-                    "pt": "1. Amazon"
-                  },
-                  "slug": {
-                    "en": "amazon",
-                    "es": "amazon",
-                    "pt": "amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "2. Amazon Integration overview",
-                    "es": "2. Visión general de la Amazon integración",
-                    "pt": "2. Visão geral da integração da Amazon"
-                  },
-                  "slug": {
-                    "en": "amazon-integration-overview",
-                    "es": "vision-general-de-la-amazon-integracion",
-                    "pt": "visao-geral-da-integracao-da-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "3. Amazon account settings",
-                    "es": "3. Configuración de la cuenta de Amazon",
-                    "pt": "3. Configurações de conta na Amazon"
-                  },
-                  "slug": {
-                    "en": "amazon-account-settings",
-                    "es": "configuracion-de-la-cuenta-amazon",
-                    "pt": "configuracoes-na-conta-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "4. VTEX platform settings",
-                    "es": "4. Configuración de la plataforma VTEX",
-                    "pt": "4. Configurações na plataforma VTEX"
-                  },
-                  "slug": {
-                    "en": "vtex-platform-settings",
-                    "es": "configuracion-de-la-plataforma-vtex",
-                    "pt": "configuracoes-na-plataforma-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "5. Configuring Price Divergence rule",
-                    "es": "5. Configurar regla de Divergencia de precios",
-                    "pt": "5. Configurar regra de Divergência de valores"
-                  },
-                  "slug": {
-                    "en": "configuring-price-divergence-rule-amazon",
-                    "es": "configurar-regla-de-divergencia-de-precios-amazon",
-                    "pt": "configurar-regra-de-divergencia-de-valores-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "6. Configuring the Amazon integration",
-                    "es": "6. Configurar la integración de Amazon",
-                    "pt": "6. Configurar a integração da Amazon"
-                  },
-                  "slug": {
-                    "en": "configuring-the-amazon-integration",
-                    "es": "configurar-la-integracion-de-amazon",
-                    "pt": "configurar-a-integracao-da-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "7. Sending products to Amazon",
-                    "es": "7. Envío de productos a Amazon",
-                    "pt": "7. Envio de produtos à Amazon"
-                  },
-                  "slug": {
-                    "en": "sending-products-to-amazon",
-                    "es": "envio-de-productos-a-amazon",
-                    "pt": "envio-de-produtos-para-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "8. Product integration errors with Amazon",
-                    "es": "8. Errores de integración de productos Amazon",
-                    "pt": "8. Erros de integração de produtos Amazon"
-                  },
-                  "slug": {
-                    "en": "product-integration-errors-with-amazon",
-                    "es": "errores-de-integracion-de-productos-amazon",
-                    "pt": "erros-de-integracao-de-produtos-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Rappi integration",
-            "es": "Integracion de rappi",
-            "pt": "Integracao rappi"
-          },
-          "slug": {
-            "en": "rappi-integration",
-            "es": "integracion-de-rappi",
-            "pt": "integracao-rappi"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "1. Rappi Integration overview",
-                "es": "1. Visión general  de la Rappi integración",
-                "pt": "1. Visão geral da integração com a Rappi"
-              },
-              "slug": {
-                "en": "rappi-integration-overview",
-                "es": "vision-general-de-la-rappi-integracion",
-                "pt": "visao-geral-da-integracao-com-a-rappi"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "2. Configuring the integration",
-                "es": "2. Configuración de la integración",
-                "pt": "2. Configurando a integração"
-              },
-              "slug": {
-                "en": "configuring-the-integration-rappi",
-                "es": "configuracion-de-la-integracion-rappi",
-                "pt": "configurando-a-integracao-rappi"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "3. Configuring rappi Price Divergence rule",
-                "es": "3. Configurar rappi regla de Divergencia de precios",
-                "pt": "3. Conﬁgurar regra de Divergência de valores rappi"
-              },
-              "slug": {
-                "en": "configuring-rappi-price-divergence-rule",
-                "es": "configurar-rappi-regla-de-divergencia-de-precios",
-                "pt": "configurar-regra-de-divergencia-de-valores-rappi"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "4. Rappi integration registration",
-                "es": "4. Registro de integración de Rappi",
-                "pt": "4. Cadastro da integração Rappi"
-              },
-              "slug": {
-                "en": "rappi-integration-registration",
-                "es": "registro-de-integracion-de-rappi",
-                "pt": "cadastro-da-integracao-rappi"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "5. Mapping Rappi product categories and attributes",
-                "es": "5. Mapeo de categorías y atributos de productos Rappi",
-                "pt": "5. Mapeamento de categorias e atributos de produtos Rappi"
-              },
-              "slug": {
-                "en": "mapping-rappi-product-categories-and-attributes",
-                "es": "mapeo-de-categorias-y-atributos-de-productos-rappi",
-                "pt": "mapeamento-de-categorias-e-atributos-de-produtos-rappi"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Shopee integration",
-            "es": "Integracion con shopee",
-            "pt": "Integracao shopee"
-          },
-          "slug": {
-            "en": "shopee-integration",
-            "es": "integracion-con-shopee",
-            "pt": "integracao-shopee"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "1. Integration Overview",
-                "es": "1. Resumen de integración",
-                "pt": "1. Visão geral da integração"
-              },
-              "slug": {
-                "en": "integration-overview-shopee",
-                "es": "resumen-de-integracion-shopee",
-                "pt": "visao-geral-da-integracao-shopee"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "2. Settings on the VTEX platform",
-                "es": "2. Configuración en la plataforma VTEX",
-                "pt": "2. Configurações na plataforma VTEX"
-              },
-              "slug": {
-                "en": "settings-on-the-vtex-platform-shopee",
-                "es": "configuracion-en-la-plataforma-vtex-shopee",
-                "pt": "configuracoes-na-plataforma-vtex-shopee"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "3. Configuring Price Divergence rule",
-                "es": "3. Configuración de regla de Divergencia de precios",
-                "pt": "3. Configurar Regra de divergência de valores"
-              },
-              "slug": {
-                "en": "configuring-price-divergence-rule-shopee",
-                "es": "configuracion-de-regla-de-divergencia-de-precios-shopee",
-                "pt": "configurar-regra-de-divergencia-de-valores-shopee"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "4. Install and configure Shopee connector",
-                "es": "4. Instalar y configurar el conector Shopee",
-                "pt": "4. Instalar e Configurar conector Shopee"
-              },
-              "slug": {
-                "en": "install-and-configure-shopee-connector",
-                "es": "instalar-y-configurar-el-conector-shopee",
-                "pt": "instalar-e-configurar-conector-shopee"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "5. Mapping product categories and attributes to Shopee",
-                "es": "5. Mapear categorías y atributos de los productos para Shopee",
-                "pt": "5. Mapeamento de categorias e atributos dos produtos para a Shopee"
-              },
-              "slug": {
-                "en": "mapping-product-categories-and-attributes-to-shopee",
-                "es": "mapear-categorias-y-atributos-de-los-productos-para-shopee",
-                "pt": "mapeamento-de-categorias-e-atributos-dos-produtos-para-a-shopee"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
             }
           ]
         }
