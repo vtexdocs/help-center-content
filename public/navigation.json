@@ -13554,9 +13554,24 @@
                 },
                 {
                   "name": {
-                    "en": "2. Defining the Shipping Strategy",
-                    "es": "2. Definir la Estrategia de Envío",
-                    "pt": "2. Definir Estratégia de Envio"
+                    "en": "2. Setting up a marketplace trade policy",
+                    "es": "2. Configurar la política comercial para marketplace",
+                    "pt": "2. Configurar política comercial para marketplace"
+                  },
+                  "slug": {
+                    "en": "setting-up-a-marketplace-trade-policy-skyhub-b2w",
+                    "es": "configurar-la-politica-comercial-para-marketplace-skyhub-b2w",
+                    "pt": "configurar-politica-comercial-para-marketplace-skyhub-b2w"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "3. Defining the Shipping Strategy",
+                    "es": "3. Definir la Estrategia de Envío",
+                    "pt": "3. Definir Estratégia de Envio"
                   },
                   "slug": {
                     "en": "defining-the-shipping-strategy-b2w",
@@ -13569,9 +13584,9 @@
                 },
                 {
                   "name": {
-                    "en": "3. Configuring Price Divergence rule",
-                    "es": "3. Configuración de regla de Divergencia de precios",
-                    "pt": "3. Configuração da regra de Divergência de valores"
+                    "en": "4. Configuring Price Divergence rule",
+                    "es": "4. Configuración de regla de Divergencia de precios",
+                    "pt": "4. Configuração da regra de Divergência de valores"
                   },
                   "slug": {
                     "en": "configuring-price-divergence-rule",
@@ -13584,9 +13599,9 @@
                 },
                 {
                   "name": {
-                    "en": "4. Configuring the connector",
-                    "es": "4. Configuración del conector",
-                    "pt": "4. Configurar conector"
+                    "en": "5. Configuring the connector",
+                    "es": "5. Configuración del conector",
+                    "pt": "5. Configurar conector"
                   },
                   "slug": {
                     "en": "configuring-the-connector-b2w",
@@ -13599,9 +13614,9 @@
                 },
                 {
                   "name": {
-                    "en": "5. API registration",
-                    "es": "5. Registro de API",
-                    "pt": "5. Cadastrar API de frete"
+                    "en": "6. API registration",
+                    "es": "6. Registro de API",
+                    "pt": "6. Cadastrar API de frete"
                   },
                   "slug": {
                     "en": "apis-registration",
@@ -13614,9 +13629,9 @@
                 },
                 {
                   "name": {
-                    "en": "6. About B2W integration",
-                    "es": "6. Sobre la integración con B2W",
-                    "pt": "6. Sobre a integração com a B2W"
+                    "en": "7. About B2W integration",
+                    "es": "7. Sobre la integración con B2W",
+                    "pt": "7. Sobre a integração com a B2W"
                   },
                   "slug": {
                     "en": "about-b2w-integration",
@@ -14955,37 +14970,6 @@
                     "en": "product-integration-errors-with-amazon",
                     "es": "errores-de-integracion-de-productos-amazon",
                     "pt": "erros-de-integracao-de-produtos-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Skyhub b2w integration set up",
-                "es": "Configurar integracion skyhub b2w",
-                "pt": "Configurar integracao da skyhub b2w"
-              },
-              "slug": {
-                "en": "skyhub-b2w-integration-set-up",
-                "es": "configurar-integracion-skyhub-b2w",
-                "pt": "configurar-integracao-da-skyhub-b2w"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "1. Setting up a marketplace trade policy",
-                    "es": "1. Configurar la política comercial para marketplace",
-                    "pt": "1. Configurar política comercial para marketplace"
-                  },
-                  "slug": {
-                    "en": "setting-up-a-marketplace-trade-policy-skyhub-b2w",
-                    "es": "configurar-la-politica-comercial-para-marketplace-skyhub-b2w",
-                    "pt": "configurar-politica-comercial-para-marketplace-skyhub-b2w"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26281,9 +26265,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "3. Configuring Price Divergence rule",
-                    "es": "3. Configuración de regla de Divergencia de precios",
-                    "pt": "3. Configuração da regra de Divergência de valores"
+                    "en": "4. Configuring Price Divergence rule",
+                    "es": "4. Configuración de regla de Divergencia de precios",
+                    "pt": "4. Configuração da regra de Divergência de valores"
                   },
                   "slug": {
                     "en": "configuring-price-divergence-rule",
