@@ -12905,127 +12905,6 @@
           "children": [
             {
               "name": {
-                "en": "Amazon integration",
-                "es": "Integracion de amazon",
-                "pt": "Integracao com a amazon"
-              },
-              "slug": {
-                "en": "amazon-integration",
-                "es": "integracion-de-amazon",
-                "pt": "integracao-com-a-amazon"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "1. Amazon",
-                    "es": "1. Amazon",
-                    "pt": "1. Amazon"
-                  },
-                  "slug": {
-                    "en": "amazon",
-                    "es": "amazon",
-                    "pt": "amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "2. Amazon Integration overview",
-                    "es": "2. Visión general de la Amazon integración",
-                    "pt": "2. Visão geral da integração da Amazon"
-                  },
-                  "slug": {
-                    "en": "amazon-integration-overview",
-                    "es": "vision-general-de-la-amazon-integracion",
-                    "pt": "visao-geral-da-integracao-da-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "3. Amazon account settings",
-                    "es": "3. Configuración de la cuenta de Amazon",
-                    "pt": "3. Configurações de conta na Amazon"
-                  },
-                  "slug": {
-                    "en": "amazon-account-settings",
-                    "es": "configuracion-de-la-cuenta-amazon",
-                    "pt": "configuracoes-na-conta-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "4. VTEX platform settings",
-                    "es": "4. Configuración de la plataforma VTEX",
-                    "pt": "4. Configurações na plataforma VTEX"
-                  },
-                  "slug": {
-                    "en": "vtex-platform-settings",
-                    "es": "configuracion-de-la-plataforma-vtex",
-                    "pt": "configuracoes-na-plataforma-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "5. Configuring the Amazon integration",
-                    "es": "5. Configurar la integración de Amazon",
-                    "pt": "5. Configurar a integração da Amazon"
-                  },
-                  "slug": {
-                    "en": "configuring-the-amazon-integration",
-                    "es": "configurar-la-integracion-de-amazon",
-                    "pt": "configurar-a-integracao-da-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "6. Sending products to Amazon",
-                    "es": "6. Envío de productos a Amazon",
-                    "pt": "6. Envio de produtos à Amazon"
-                  },
-                  "slug": {
-                    "en": "sending-products-to-amazon",
-                    "es": "envio-de-productos-a-amazon",
-                    "pt": "envio-de-produtos-para-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "1. Configuring Price Divergence rule",
-                    "es": "1. Configurar regla de Divergencia de precios",
-                    "pt": "1. Configurar regra de Divergência de valores"
-                  },
-                  "slug": {
-                    "en": "configuring-price-divergence-rule-amazon",
-                    "es": "configurar-regla-de-divergencia-de-precios-amazon",
-                    "pt": "configurar-regra-de-divergencia-de-valores-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Mercado Livre Integration",
                 "es": "Integración con Mercado Libre",
                 "pt": "Integração com o Mercado Livre"
@@ -13187,6 +13066,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "11. What features does the integration offer?",
+                    "es": "11. ¿Qué funcionalidades ofrece la integración?",
+                    "pt": "11. Quais são as funcionalidades que a integração oferece?"
+                  },
+                  "slug": {
+                    "en": "what-features-does-the-integration-offer",
+                    "es": "que-funcionalidades-ofrece-la-integracion",
+                    "pt": "quais-sao-as-funcionalidades-que-a-integracao-oferece"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -13236,9 +13130,24 @@
                 },
                 {
                   "name": {
-                    "en": "3. Configuring Price Divergence rule",
-                    "es": "3. Configurar regla de Divergencia de precios",
-                    "pt": "3. Configurar regra de Divergência de valores"
+                    "en": "3. Defining Magazine Luiza trade policy",
+                    "es": "3. Definir la política comercial para Magazine Luiza",
+                    "pt": "3. Definição da política comercial para Magazine Luiza"
+                  },
+                  "slug": {
+                    "en": "defining-magazine-luiza-trade-policy",
+                    "es": "definir-la-politica-comercial-para-magazine-luiza",
+                    "pt": "definicao-da-politica-comercial-para-magazine-luiza"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "4. Configuring Price Divergence rule",
+                    "es": "4. Configurar regla de Divergencia de precios",
+                    "pt": "4. Configurar regra de Divergência de valores"
                   },
                   "slug": {
                     "en": "configuring-price-divergence-rule-magazine-luiza",
@@ -13251,9 +13160,9 @@
                 },
                 {
                   "name": {
-                    "en": "4. Attribute management",
-                    "es": "4. Gestión de atributos",
-                    "pt": "4. Gerenciamento de atributos"
+                    "en": "5. Attribute management",
+                    "es": "5. Gestión de atributos",
+                    "pt": "5. Gerenciamento de atributos"
                   },
                   "slug": {
                     "en": "attribute-management",
@@ -13266,9 +13175,9 @@
                 },
                 {
                   "name": {
-                    "en": "5. Configure integration",
-                    "es": "5. Configurar integración",
-                    "pt": "5. Configurar integração"
+                    "en": "6. Configure integration",
+                    "es": "6. Configurar integración",
+                    "pt": "6. Configurar integração"
                   },
                   "slug": {
                     "en": "configure-integration",
@@ -13281,9 +13190,9 @@
                 },
                 {
                   "name": {
-                    "en": "6. What functionalities does the integration offer?",
-                    "es": "6. ¿Qué funciones ofrece la integración?",
-                    "pt": "6. Quais são as funcionalidades que a integração oferece?"
+                    "en": "7. What functionalities does the integration offer?",
+                    "es": "7. ¿Qué funciones ofrece la integración?",
+                    "pt": "7. Quais são as funcionalidades que a integração oferece?"
                   },
                   "slug": {
                     "en": "what-functionalities-does-the-integration-offer",
@@ -13296,9 +13205,9 @@
                 },
                 {
                   "name": {
-                    "en": "7. Adding the Magazine Luiza integration",
-                    "es": "7. Registro de la integración de Magazine Luiza",
-                    "pt": "7. Cadastro da integração da Magazine Luiza"
+                    "en": "8. Adding the Magazine Luiza integration",
+                    "es": "8. Registro de la integración de Magazine Luiza",
+                    "pt": "8. Cadastro da integração da Magazine Luiza"
                   },
                   "slug": {
                     "en": "adding-the-magazine-luiza-integration",
@@ -13313,44 +13222,13 @@
             },
             {
               "name": {
-                "en": "Integração com o Magazine Luiza",
-                "es": "Integração com o Magazine Luiza",
-                "pt": "Integração com o Magazine Luiza"
-              },
-              "slug": {
-                "en": "integracao-com-o-magazine-luiza",
-                "es": "integracao-com-o-magazine-luiza",
-                "pt": "integracao-com-o-magazine-luiza"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "1. Defining Magazine Luiza trade policy",
-                    "es": "1. Definir la política comercial para Magazine Luiza",
-                    "pt": "1. Definição da política comercial para Magazine Luiza"
-                  },
-                  "slug": {
-                    "en": "defining-magazine-luiza-trade-policy",
-                    "es": "definir-la-politica-comercial-para-magazine-luiza",
-                    "pt": "definicao-da-politica-comercial-para-magazine-luiza"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Carrefour Integration",
-                "es": "Carrefour Integration",
+                "es": "Integración con Carrefour",
                 "pt": "Integração com o Carrefour"
               },
               "slug": {
                 "en": "carrefour-integration",
-                "es": "carrefour-integration",
+                "es": "integracion-con-carrefour",
                 "pt": "integracao-com-o-carrefour"
               },
               "origin": "",
@@ -13517,6 +13395,36 @@
                     "en": "configuring-price-divergence-rule-centauro",
                     "es": "configurar-regla-de-divergencia-de-precios-centauro",
                     "pt": "configurar-regra-de-divergencia-de-valores-centauro"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "4. Registering the Centauro integration",
+                    "es": "4. Registro de la integración de Centauro",
+                    "pt": "4. Cadastro da integração da Centauro"
+                  },
+                  "slug": {
+                    "en": "registering-the-centauro-integration",
+                    "es": "registro-de-la-integracion-de-centauro",
+                    "pt": "cadastro-da-integracao-da-centauro"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "5. Mapping Centauro categories, variations and attributes",
+                    "es": "5. Mapeo de categorías, variaciones y atributos de Centauro",
+                    "pt": "5. Mapeamento de categorias e atributos da Centauro"
+                  },
+                  "slug": {
+                    "en": "mapping-centauro-categories-variations-and-attributes",
+                    "es": "mapeo-de-categorias-variaciones-y-atributos-de-centauro",
+                    "pt": "mapeamento-de-categorias-e-atributos-da-centauro"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -14920,90 +14828,133 @@
             },
             {
               "name": {
-                "en": "Mapping centauro categories variations AND attributes",
-                "es": "Mapeo de categorias variaciones y atributos de centauro",
-                "pt": "Mapeamento de categorias e atributos da centauro"
+                "en": "Amazon integration",
+                "es": "Integracion de amazon",
+                "pt": "Integracao com a amazon"
               },
               "slug": {
-                "en": "mapping-centauro-categories-variations-and-attributes-category",
-                "es": "mapeo-de-categorias-variaciones-y-atributos-de-centauro-category",
-                "pt": "mapeamento-de-categorias-e-atributos-da-centauro-category"
+                "en": "amazon-integration",
+                "es": "integracion-de-amazon",
+                "pt": "integracao-com-a-amazon"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "en": "1. Mapping Centauro categories, variations and attributes",
-                    "es": "1. Mapeo de categorías, variaciones y atributos de Centauro",
-                    "pt": "1. Mapeamento de categorias e atributos da Centauro"
+                    "en": "1. Amazon",
+                    "es": "1. Amazon",
+                    "pt": "1. Amazon"
                   },
                   "slug": {
-                    "en": "mapping-centauro-categories-variations-and-attributes",
-                    "es": "mapeo-de-categorias-variaciones-y-atributos-de-centauro",
-                    "pt": "mapeamento-de-categorias-e-atributos-da-centauro"
+                    "en": "amazon",
+                    "es": "amazon",
+                    "pt": "amazon"
                   },
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Product integration errors with amazon",
-                "es": "Errores de integracion de productos amazon",
-                "pt": "Erros de integracao de produtos amazon"
-              },
-              "slug": {
-                "en": "product-integration-errors-with-amazon-category",
-                "es": "errores-de-integracion-de-productos-amazon-category",
-                "pt": "erros-de-integracao-de-produtos-amazon-category"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
+                },
                 {
                   "name": {
-                    "en": "1. Product integration errors with Amazon",
-                    "es": "1. Errores de integración de productos Amazon",
-                    "pt": "1. Erros de integração de produtos Amazon"
+                    "en": "2. Amazon Integration overview",
+                    "es": "2. Visión general de la Amazon integración",
+                    "pt": "2. Visão geral da integração da Amazon"
+                  },
+                  "slug": {
+                    "en": "amazon-integration-overview",
+                    "es": "vision-general-de-la-amazon-integracion",
+                    "pt": "visao-geral-da-integracao-da-amazon"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "3. Amazon account settings",
+                    "es": "3. Configuración de la cuenta de Amazon",
+                    "pt": "3. Configurações de conta na Amazon"
+                  },
+                  "slug": {
+                    "en": "amazon-account-settings",
+                    "es": "configuracion-de-la-cuenta-amazon",
+                    "pt": "configuracoes-na-conta-amazon"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "4. VTEX platform settings",
+                    "es": "4. Configuración de la plataforma VTEX",
+                    "pt": "4. Configurações na plataforma VTEX"
+                  },
+                  "slug": {
+                    "en": "vtex-platform-settings",
+                    "es": "configuracion-de-la-plataforma-vtex",
+                    "pt": "configuracoes-na-plataforma-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "5. Configuring Price Divergence rule",
+                    "es": "5. Configurar regla de Divergencia de precios",
+                    "pt": "5. Configurar regra de Divergência de valores"
+                  },
+                  "slug": {
+                    "en": "configuring-price-divergence-rule-amazon",
+                    "es": "configurar-regla-de-divergencia-de-precios-amazon",
+                    "pt": "configurar-regra-de-divergencia-de-valores-amazon"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "6. Configuring the Amazon integration",
+                    "es": "6. Configurar la integración de Amazon",
+                    "pt": "6. Configurar a integração da Amazon"
+                  },
+                  "slug": {
+                    "en": "configuring-the-amazon-integration",
+                    "es": "configurar-la-integracion-de-amazon",
+                    "pt": "configurar-a-integracao-da-amazon"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "7. Sending products to Amazon",
+                    "es": "7. Envío de productos a Amazon",
+                    "pt": "7. Envio de produtos à Amazon"
+                  },
+                  "slug": {
+                    "en": "sending-products-to-amazon",
+                    "es": "envio-de-productos-a-amazon",
+                    "pt": "envio-de-produtos-para-amazon"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "8. Product integration errors with Amazon",
+                    "es": "8. Errores de integración de productos Amazon",
+                    "pt": "8. Erros de integração de produtos Amazon"
                   },
                   "slug": {
                     "en": "product-integration-errors-with-amazon",
                     "es": "errores-de-integracion-de-productos-amazon",
                     "pt": "erros-de-integracao-de-produtos-amazon"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Registering the centauro integration",
-                "es": "Registro de la integracion de centauro",
-                "pt": "Cadastro da integracao da centauro"
-              },
-              "slug": {
-                "en": "registering-the-centauro-integration-category",
-                "es": "registro-de-la-integracion-de-centauro-category",
-                "pt": "cadastro-da-integracao-da-centauro-category"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "1. Registering the Centauro integration",
-                    "es": "1. Registro de la integración de Centauro",
-                    "pt": "1. Cadastro da integração da Centauro"
-                  },
-                  "slug": {
-                    "en": "registering-the-centauro-integration",
-                    "es": "registro-de-la-integracion-de-centauro",
-                    "pt": "cadastro-da-integracao-da-centauro"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -15035,37 +14986,6 @@
                     "en": "setting-up-a-marketplace-trade-policy-skyhub-b2w",
                     "es": "configurar-la-politica-comercial-para-marketplace-skyhub-b2w",
                     "pt": "configurar-politica-comercial-para-marketplace-skyhub-b2w"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "What features does the integration offer",
-                "es": "Que funcionalidades ofrece la integracion",
-                "pt": "Quais sao as funcionalidades que a integracao oferece"
-              },
-              "slug": {
-                "en": "what-features-does-the-integration-offer-category",
-                "es": "que-funcionalidades-ofrece-la-integracion-category",
-                "pt": "quais-sao-as-funcionalidades-que-a-integracao-oferece-category"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "1. What features does the integration offer?",
-                    "es": "1. ¿Qué funcionalidades ofrece la integración?",
-                    "pt": "1. Quais são as funcionalidades que a integração oferece?"
-                  },
-                  "slug": {
-                    "en": "what-features-does-the-integration-offer",
-                    "es": "que-funcionalidades-ofrece-la-integracion",
-                    "pt": "quais-sao-as-funcionalidades-que-a-integracao-oferece"
                   },
                   "origin": "",
                   "type": "markdown",
