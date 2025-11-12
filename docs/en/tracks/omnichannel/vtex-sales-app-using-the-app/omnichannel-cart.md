@@ -3,7 +3,7 @@ title: 'Omnichannel cart'
 id: 1MXhIOrlzqQlsV2c76YCpY
 status: PUBLISHED
 createdAt: 2021-08-05T13:50:28.087Z
-updatedAt: 2023-05-31T14:44:52.366Z
+updatedAt: 2025-11-12T14:44:52.366Z
 publishedAt: 2023-05-31T14:44:52.366Z
 firstPublishedAt: 2021-08-05T14:46:03.255Z
 contentType: trackArticle
