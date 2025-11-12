@@ -1,26 +1,27 @@
 ---
-title: 'Configurar Pix'
-id: 7MiYdeYcy77tMqsYC8GTxn
+title: 'Configurar Venda Direta - Crédito'
+id: 5rSTgGeCqEN7c9LmFbfqA
 status: PUBLISHED
-createdAt: 2022-08-30T20:59:07.972Z
-updatedAt: 2023-05-31T14:44:57.201Z
-publishedAt: 2023-05-31T14:44:57.201Z
-firstPublishedAt: 2022-10-05T18:05:57.536Z
+createdAt: 2021-09-27T20:09:51.763Z
+updatedAt: 2025-11-12T19:35:38.275Z
+publishedAt: 2023-07-19T19:35:38.275Z
+firstPublishedAt: 2021-09-27T20:35:59.233Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: setting-up-pix
+slugEN: setting-up-credit-direct-sale
 locale: pt
 trackId: 43B4Nr7uZva5UdwWEt3PEy
-trackSlugEN: instore-pagamentos
-order: 5
+trackSlugEN: vtex-sales-app-payments
+order: 2
 ---
 
-Se você deseja receber pagamentos via Pix no VTEX Sales App, siga os passos abaixo.
+Se você deseja receber pagamentos por cartão de crédito no VTEX Sales App, siga os passos abaixo.
 
 1. No Admin VTEX, acesse **Configuração da loja** > **Pagamentos** > **Configurações** > **Condições de pagamento**, ou digite **Configurações** na barra de busca no topo da página.
 2. Clique no botão `+`.
-3. Em __Pagamento Instantâneo__, clique no método de pagamento __Pix__.
+3. Clique no método de pagamento __Venda Direta Crédito__.
 4. Clique no botão `Status` para ativar essa condição de pagamento.
+5. Você pode optar por configurar o pagamento em dinheiro ou parcelado.
 6. Opcionalmente, você pode configurar condições especiais de pagamento clicando em `Adicionar condição especial`. Leia o artigo [Configurar condições especiais de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456) para mais informações.
 7. Clique em `Salvar`.
 

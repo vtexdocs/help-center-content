@@ -3,7 +3,7 @@ title: 'Configurar Venda direta - Débito'
 id: 74ESYaDpWvw6RSODO2SDl0
 status: PUBLISHED
 createdAt: 2021-09-27T20:07:32.304Z
-updatedAt: 2023-05-31T16:09:57.409Z
+updatedAt: 2025-11-12T16:09:57.409Z
 publishedAt: 2023-05-31T16:09:57.409Z
 firstPublishedAt: 2021-09-27T20:31:12.586Z
 contentType: trackArticle
@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: setting-up-debit-direct-sale
 locale: pt
 trackId: 43B4Nr7uZva5UdwWEt3PEy
-trackSlugEN: instore-pagamentos
+trackSlugEN: vtex-sales-app-payments
 order: 3
 ---
 

@@ -3,15 +3,15 @@ title: 'Configuring cash payments through VTEX Sales App'
 id: 4ye3bIWldaHJxGTgAziBZo
 status: PUBLISHED
 createdAt: 2020-06-28T16:04:36.122Z
-updatedAt: 2023-05-31T15:48:30.288Z
+updatedAt: 2025-11-12T15:48:30.288Z
 publishedAt: 2023-05-31T15:48:30.288Z
 firstPublishedAt: 2020-06-28T16:19:11.591Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: configuring-cash-payments-through-instore
+slugEN: configuring-cash-payments-through-vtex-sales-app
 locale: en
 trackId: 43B4Nr7uZva5UdwWEt3PEy
-trackSlugEN: instore-payments
+trackSlugEN: vtex-sales-app-payments
 order: 4
 ---
 
