@@ -3,7 +3,7 @@ title: 'Barcode reading'
 id: 58azf53rTM13poip0Zfax6
 status: PUBLISHED
 createdAt: 2021-08-05T13:48:54.989Z
-updatedAt: 2023-05-31T14:45:04.181Z
+updatedAt: 2025-11-12T14:45:04.181Z
 publishedAt: 2023-05-31T14:45:04.181Z
 firstPublishedAt: 2021-08-05T14:45:57.555Z
 contentType: trackArticle
