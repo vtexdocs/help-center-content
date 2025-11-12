@@ -2,6 +2,10 @@
   "redirects": {
     "fromCsvExport": [
       {
+        "from": "/pt/docs/tracks/customizar-o-instore",
+        "to": "/pt/docs/tracks/customizar-o-vtex-sales-app"
+      },
+      {
         "from": "pt/docs/tracks/gerencadastrar-o-codigo-de-barras-dos-skus-para-instore",
         "to": "pt/docs/tracks/cadastrar-o-codigo-de-barras-dos-skus-para-o-vtex-sales-app"
       },
