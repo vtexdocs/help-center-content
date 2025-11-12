@@ -3,7 +3,7 @@ title: 'Entrega'
 id: 7D36LJhQ25Y1E1YQoGRSoG
 status: PUBLISHED
 createdAt: 2021-08-05T14:34:32.328Z
-updatedAt: 2023-05-31T14:45:16.260Z
+updatedAt: 2025-11-12T14:45:16.260Z
 publishedAt: 2023-05-31T14:45:16.260Z
 firstPublishedAt: 2021-08-05T14:46:52.387Z
 contentType: trackArticle
