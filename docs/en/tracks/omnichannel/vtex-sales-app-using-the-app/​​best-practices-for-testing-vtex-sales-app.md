@@ -1,5 +1,5 @@
 ---
-title: '​​Best practices for testing VTEX Sales App'
+title: 'Best practices for testing VTEX Sales App'
 id: 6ROGNzkKUOObfab2wKDm6K
 status: PUBLISHED
 createdAt: 2021-12-08T17:48:37.852Z
@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T16:11:02.310Z
 firstPublishedAt: 2021-12-08T17:57:54.529Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: ​​best-practices-for-testing-vtex-sales-app
+slugEN: best-practices-for-testing-vtex-sales-app
 locale: en
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: vtex-sales-app-using-the-app
