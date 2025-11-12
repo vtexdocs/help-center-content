@@ -3,7 +3,7 @@ title: 'Configuración de métodos de pago VTEX Sales App'
 id: 2liigRors32hzqBNs2M1Oa
 status: PUBLISHED
 createdAt: 2020-06-28T14:54:46.020Z
-updatedAt: 2023-08-28T11:55:43.015Z
+updatedAt: 2025-11-12T11:55:43.015Z
 publishedAt: 2023-08-28T11:55:43.015Z
 firstPublishedAt: 2020-06-28T15:17:02.889Z
 contentType: trackArticle
