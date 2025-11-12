@@ -12,7 +12,7 @@ slugEN: customizing-vtex-sales-app
 locale: es
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: vtex-sales-app-primeros-pasos-y-configuracion
-order: 5
+order: 8
 ---
 
 La experiencia VTEX Sales App es personalizable. Puede aplicar funcionalidades y configuraciones específicas según las necesidades de su negocio, así como adaptar el _layout_ de la aplicación para que se ajuste a la identidad de su marca.
