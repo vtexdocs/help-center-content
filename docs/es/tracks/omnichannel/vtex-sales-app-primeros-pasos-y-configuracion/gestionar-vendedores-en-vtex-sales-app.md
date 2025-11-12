@@ -3,16 +3,16 @@ title: 'Gestionar vendedores en VTEX Sales App'
 id: 5pqtuvi97FFZiGf7MlSe8q
 status: PUBLISHED
 createdAt: 2023-04-17T21:01:21.431Z
-updatedAt: 2024-01-05T19:59:15.811Z
+updatedAt: 2025-11-11T19:59:15.811Z
 publishedAt: 2024-01-05T19:59:15.811Z
 firstPublishedAt: 2023-04-25T20:13:04.431Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: managing-sales-associates-in-instore
+slugEN: managing-sales-associates-in-vtex-sales-app
 locale: es
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: vtex-sales-app-primeros-pasos-y-configuracion
-order: 4
+order: 6
 ---
 
 Una vez realizadas las [configuraciones básicas de VTEX Sales App en el Admin](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), es posible agregar nuevos vendedores al sistema o administrar vendedores ya registrados.
