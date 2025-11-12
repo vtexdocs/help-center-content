@@ -3,7 +3,7 @@ title: 'Product details'
 id: nHvqzKre0iKXqHXTuz7JH
 status: PUBLISHED
 createdAt: 2021-08-05T13:57:36.177Z
-updatedAt: 2023-05-31T14:45:25.958Z
+updatedAt: 2025-11-12T14:45:25.958Z
 publishedAt: 2023-05-31T14:45:25.958Z
 firstPublishedAt: 2021-08-05T14:46:27.103Z
 contentType: trackArticle
