@@ -3,15 +3,15 @@ title: 'VTEX Sales App - Basic settings'
 id: 4L5SoLxE8O3YkxF7FKymrO
 status: PUBLISHED
 createdAt: 2020-06-28T13:51:53.895Z
-updatedAt: 2025-02-20T23:01:37.261Z
+updatedAt: 2025-11-11T23:01:37.261Z
 publishedAt: 2025-02-20T23:01:37.261Z
 firstPublishedAt: 2020-06-28T14:01:36.462Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: instore-basic-settings
+slugEN: vtex-sales-app-basic-settings
 locale: en
 trackId: zav76TFEZlAjnyBVL5tRc
-trackSlugEN: instore-first-steps-and-configurations
+trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 4
 ---
 
