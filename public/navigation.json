@@ -14625,24 +14625,9 @@
                 },
                 {
                   "name": {
-                    "es": "2. Instalación y configuración",
-                    "en": "2. Instalación y configuración",
-                    "pt": "2. Installation and configuration"
-                  },
-                  "slug": {
-                    "es": "instalacion-y-configuracion",
-                    "en": "installation-and-configuration",
-                    "pt": "instalacao-e-configuracao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "3. Create product feed",
-                    "es": "3. Crear feed de productos",
-                    "pt": "3. Criar feed de produtos"
+                    "en": "2. Create product feed",
+                    "es": "2. Crear feed de productos",
+                    "pt": "2. Criar feed de produtos"
                   },
                   "slug": {
                     "en": "create-product-feed",
@@ -14655,9 +14640,9 @@
                 },
                 {
                   "name": {
-                    "en": "4. Sales channel mapping",
-                    "es": "4. Mapeo de canales de venta",
-                    "pt": "4. Mapeamento de canais de venda"
+                    "en": "3. Sales channel mapping",
+                    "es": "3. Mapeo de canales de venta",
+                    "pt": "3. Mapeamento de canais de venda"
                   },
                   "slug": {
                     "en": "sales-channel-mapping",
@@ -14670,9 +14655,9 @@
                 },
                 {
                   "name": {
-                    "en": "5. Specifications mapping",
-                    "es": "5. Mapeo de especificaciones",
-                    "pt": "5. Mapeamento de especificações"
+                    "en": "4. Specifications mapping",
+                    "es": "4. Mapeo de especificaciones",
+                    "pt": "4. Mapeamento de especificações"
                   },
                   "slug": {
                     "en": "specifications-mapping",
@@ -14685,9 +14670,9 @@
                 },
                 {
                   "name": {
-                    "en": "6. Update and import product feed",
-                    "es": "6. Actualizar y importar feed de productos",
-                    "pt": "6. Atualizar e importar feed de produtos"
+                    "en": "5. Update and import product feed",
+                    "es": "5. Actualizar y importar feed de productos",
+                    "pt": "5. Atualizar e importar feed de produtos"
                   },
                   "slug": {
                     "en": "update-and-import-product-feed",
@@ -14700,14 +14685,45 @@
                 },
                 {
                   "name": {
-                    "en": "7. Import orders from Lengow",
-                    "es": "7. Importar pedidos de Lengow",
-                    "pt": "7. Importar pedidos da Lengow"
+                    "en": "6. Import orders from Lengow",
+                    "es": "6. Importar pedidos de Lengow",
+                    "pt": "6. Importar pedidos da Lengow"
                   },
                   "slug": {
                     "en": "import-orders-from-lengow",
                     "es": "importar-pedidos-de-lengow",
                     "pt": "importar-pedidos-da-lengow"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Integración de Lengow",
+                "es": "Integración de Lengow",
+                "pt": "Integración de Lengow"
+              },
+              "slug": {
+                "en": "integracion-de-lengow",
+                "es": "integracion-de-lengow",
+                "pt": "integracion-de-lengow"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "1. Instalación y configuración",
+                    "en": "1. Instalación y configuración",
+                    "pt": "1. Instalación y configuración"
+                  },
+                  "slug": {
+                    "es": "instalacion-y-configuracion",
+                    "en": "",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -15106,21 +15122,6 @@
           "origin": "",
           "type": "category",
           "children": [
-            {
-              "name": {
-                "en": "Mercado Libre Envios",
-                "es": "Envíos de Mercado Libre",
-                "pt": "Mercado Livre Envios"
-              },
-              "slug": {
-                "en": "mercado-libre-envios",
-                "es": "envios-de-mercado-libre",
-                "pt": "mercado-livre-envios"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
             {
               "name": {
                 "en": "Integration errors in Amazon orders",
@@ -38639,6 +38640,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Mercado Libre Envios",
+                    "es": "Envíos de Mercado Libre",
+                    "pt": "Mercado Livre Envios"
+                  },
+                  "slug": {
+                    "en": "mercado-libre-envios",
+                    "es": "envios-de-mercado-libre",
+                    "pt": "mercado-livre-envios"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Microvix integration interrupted due to username and password",
                     "es": "Interrupción de la integración con Microvix por usuario y contraseña",
                     "pt": "Interrupção da integração Microvix por usuário e senha"
@@ -49058,6 +49074,21 @@
             },
             {
               "name": {
+                "en": "Dafiti Tracking update fails Crossdocking orders due to delivery type conflict",
+                "es": "Dafiti La actualización del seguimiento falla en los pedidos Crossdocking debido a un conflicto de tipo de entrega",
+                "pt": "Dafiti A atualização do rastreamento falha nos pedidos de Crossdocking devido a um conflito de tipo de entrega"
+              },
+              "slug": {
+                "en": "dafiti-tracking-update-fails-crossdocking-orders-due-to-delivery-type-conflict",
+                "es": "dafiti-la-actualizacion-del-seguimiento-falla-en-los-pedidos-crossdocking-debido-a-un-conflicto-de-tipo-de-entrega",
+                "pt": "dafiti-a-atualizacao-do-rastreamento-falha-nos-pedidos-de-crossdocking-devido-a-um-conflito-de-tipo-de-entrega"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "delivery_contract_type problem - B2W",
                 "es": "problema del tipo de contrato de entrega - B2W",
                 "pt": "problema do tipo delivery_contract_type - B2W"
@@ -49846,6 +49877,21 @@
                 "en": "review-flow-for-updatestock-netshoes",
                 "es": "flujo-de-revision-para-updatestock-netshoes",
                 "pt": "fluxo-de-revisao-para-updatestock-netshoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Brand attribute not sent or overwritten during product sync",
+                "es": "Shopee Atributo de marca no enviado o sobrescrito durante la sincronización del producto",
+                "pt": "Shopee Atributo de marca não enviado ou sobrescrito durante a sincronização do produto"
+              },
+              "slug": {
+                "en": "shopee-brand-attribute-not-sent-or-overwritten-during-product-sync",
+                "es": "shopee-atributo-de-marca-no-enviado-o-sobrescrito-durante-la-sincronizacion-del-producto",
+                "pt": "shopee-atributo-de-marca-nao-enviado-ou-sobrescrito-durante-a-sincronizacao-do-produto"
               },
               "origin": "",
               "type": "markdown",
@@ -60075,6 +60121,21 @@
                 "en": "payment-conditions-set-to-process-transactions-in-installments-other-than-1x-are-processing-transactions-as-prepaid-in-full",
                 "es": "condiciones-de-pago-establecidas-para-procesar-transacciones-a-plazos-distintas-de-1x-estan-procesando-transacciones-como-prepagadas-en-su-totalida",
                 "pt": "as-condicoes-de-pagamento-definidas-para-processar-transacoes-em-parcelas-diferentes-de-1x-estao-processando-transacoes-como-prepagas-integralmente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Payment created without connector leads to canceled transaction",
+                "es": "El pago creado sin conector provoca la cancelación de la transacción",
+                "pt": "O pagamento criado sem conector leva ao cancelamento da transação"
+              },
+              "slug": {
+                "en": "payment-created-without-connector-leads-to-canceled-transaction",
+                "es": "el-pago-creado-sin-conector-provoca-la-cancelacion-de-la-transaccion",
+                "pt": "o-pagamento-criado-sem-conector-leva-ao-cancelamento-da-transacao"
               },
               "origin": "",
               "type": "markdown",
