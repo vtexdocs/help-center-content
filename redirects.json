@@ -2,8 +2,12 @@
   "redirects": {
     "fromCsvExport": [
       {
+        "from": "en/docs/tracks/managing-sales-associates-in-instore",
+        "to": "en/docs/tracks/managing-sales-associates-in-vtex-sales-app"
+      },
+      {
         "from": "en/docs/tracks/adding-new-stores-to-instore",
-        "to": "en/docs/tracks/ng-physical-stores-in-vtex-sales-app"
+        "to": "en/docs/tracks/managing-physical-stores-in-vtex-sales-app"
       },
       {
         "from": "en/docs/tracks/instore-basic-settings",
