@@ -3,16 +3,16 @@ title: 'Pré-requisitos para usar o VTEX Sales App'
 id: 1wtAanSRA3g2316dw7bw8u
 status: PUBLISHED
 createdAt: 2020-06-28T13:28:33.600Z
-updatedAt: 2025-01-14T20:22:09.471Z
+updatedAt: 2025-11-11T20:22:09.471Z
 publishedAt: 2025-01-14T20:22:09.471Z
 firstPublishedAt: 2020-06-28T13:41:36.817Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: prerequisites-for-using-instore
+slugEN: prerequisites-for-using-vtex-sales-app
 locale: pt
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: vtex-sales-app-getting-started-and-setting-up
-order: 1
+order: 2
 ---
 
 
