@@ -8,7 +8,7 @@ publishedAt: 2025-05-28T14:49:34.599Z
 firstPublishedAt: 2021-08-05T14:45:51.056Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: ununified-search-in-vtex-sales-app
+slugEN: unified-search-in-vtex-sales-app
 locale: pt
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: vtex-sales-app-using-the-app
