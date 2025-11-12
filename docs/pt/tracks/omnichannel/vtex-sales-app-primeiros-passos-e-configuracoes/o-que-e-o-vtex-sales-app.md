@@ -3,12 +3,12 @@ title: 'O que é o VTEX Sales App?'
 id: 7fnnVlG3Kv1Tay9iagc5yf
 status: PUBLISHED
 createdAt: 2020-06-28T13:07:24.773Z
-updatedAt: 2024-05-13T18:03:19.146Z
+updatedAt: 2025-11-11T18:03:19.146Z
 publishedAt: 2024-05-13T18:03:19.146Z
 firstPublishedAt: 2020-06-28T13:12:31.221Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: what-is-instore
+slugEN: what-is-vtex-sales-app
 locale: pt
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: vtex-sales-app-getting-started-and-setting-up
