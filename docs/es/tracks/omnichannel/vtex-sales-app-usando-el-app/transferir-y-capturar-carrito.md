@@ -3,7 +3,7 @@ title: 'Transferir y capturar carrito'
 id: 2hlBqxHlxgFo2o4R52pbsk
 status: PUBLISHED
 createdAt: 2021-08-05T14:01:27.341Z
-updatedAt: 2023-05-31T16:04:15.374Z
+updatedAt: 2025-11-12T16:04:15.374Z
 publishedAt: 2023-05-31T16:04:15.374Z
 firstPublishedAt: 2021-08-05T14:46:46.816Z
 contentType: trackArticle
