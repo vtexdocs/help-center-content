@@ -11490,13 +11490,13 @@
             {
               "name": {
                 "en": "VTEX Sales App - Using the app",
-                "es": "VTEX Sales App - Using the app",
+                "es": "VTEX Sales App - Usando el app",
                 "pt": "VTEX Sales App - Usando o app"
               },
               "slug": {
-                "en": "vtex-sales-app-using-the-app",
-                "es": "vtex-sales-app-using-the-app",
-                "pt": "vtex-sales-app-usando-o-app"
+                "en": "vtex-sales-app-using-the-app-category",
+                "es": "vtex-sales-app-usando-el-app-category",
+                "pt": "vtex-sales-app-usando-o-app-category"
               },
               "origin": "",
               "type": "category",
@@ -11508,9 +11508,9 @@
                     "pt": "1. VTEX Sales App - Usando o app"
                   },
                   "slug": {
-                    "en": "instore-using-the-app",
-                    "es": "instore-usando-el-app",
-                    "pt": "instore-usando-o-app"
+                    "en": "vtex-sales-app-using-the-app",
+                    "es": "vtex-sales-app-usando-el-app",
+                    "pt": "vtex-sales-app-usando-o-app"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11534,13 +11534,13 @@
                 {
                   "name": {
                     "en": "3. ​​Best practices for testing VTEX Sales App",
-                    "es": "3. Mejores prácticas de pruebas - VTEX Sales App",
-                    "pt": "3. Boas práticas de testes - VTEX Sales App"
+                    "es": "3. ​​Best practices for testing VTEX Sales App",
+                    "pt": "3. ​​Best practices for testing VTEX Sales App"
                   },
                   "slug": {
-                    "en": "best-practices-for-testing-instore",
-                    "es": "mejores-practicas-de-pruebas-instore",
-                    "pt": "boas-praticas-de-testes-instore"
+                    "en": "best-practices-for-testing-vtex-sales-app",
+                    "es": "",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11553,9 +11553,9 @@
                     "pt": "4. Login no VTEX Sales App"
                   },
                   "slug": {
-                    "en": "instore-login",
-                    "es": "iniciar-sesion-en-instore",
-                    "pt": "login-no-instore"
+                    "en": "vtex-sales-app-login",
+                    "es": "iniciar-sesion-en-vtex-sales-app",
+                    "pt": "login-no-vtex-sales-app"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11598,9 +11598,9 @@
                     "pt": "7. Busca unificada no VTEX Sales App"
                   },
                   "slug": {
-                    "en": "unified-search",
-                    "es": "busqueda-unificada",
-                    "pt": "busca-unificada"
+                    "en": "unified-search-in-vtex-sales-app",
+                    "es": "busqueda-unificada-en-vtex-sales-app",
+                    "pt": "busca-unificada-no-vtex-sales-app"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11658,9 +11658,9 @@
                     "pt": "11. Perfil do cliente no VTEX Sales App"
                   },
                   "slug": {
-                    "en": "customer-profile-on-instore",
-                    "es": "perfil-del-cliente-en-instore",
-                    "pt": "perfil-do-cliente-no-instore"
+                    "en": "customer-profile-on-vtex-sales-app",
+                    "es": "perfil-del-cliente-en-vtex-sales-app",
+                    "pt": "perfil-do-cliente-no-vtex-sales-app"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11688,9 +11688,9 @@
                     "pt": "13. Compartilhar carrinho utilizando o VTEX Sales App Social Selling"
                   },
                   "slug": {
-                    "en": "sharing-shopping-cart-using-instore-social-selling",
-                    "es": "compartir-el-carrito-utilizando-instore-social-selling",
-                    "pt": "compartilhar-carrinho-utilizando-o-instore-social-selling"
+                    "en": "sharing-shopping-cart-using-vtex-sales-app-social-selling",
+                    "es": "compartir-el-carrito-utilizando-vtex-sales-app-social-selling",
+                    "pt": "compartilhar-carrinho-utilizando-o-vtex-sales-app-social-selling"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11763,9 +11763,40 @@
                     "pt": "18. Cancelar e estornar um pedido no VTEX Sales App"
                   },
                   "slug": {
-                    "en": "cancel-and-refund-an-order-on-instore",
-                    "es": "cancelar-y-reembolsar-un-pedido-en-instore",
-                    "pt": "cancelar-e-estornar-um-pedido-no-instore"
+                    "en": "cancel-and-refund-an-order-on-vtex-sales-app",
+                    "es": "cancelar-y-reembolsar-un-pedido-en-vtex-sales-app",
+                    "pt": "cancelar-e-estornar-um-pedido-no-vtex-sales-app"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "VTEX Sales App - Usando el app",
+                "es": "VTEX Sales App - Usando el app",
+                "pt": "VTEX Sales App - Usando o app"
+              },
+              "slug": {
+                "en": "vtex-sales-app-usando-el-app",
+                "es": "vtex-sales-app-usando-el-app",
+                "pt": "vtex-sales-app-usando-o-app"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "1. Mejores prácticas de pruebas - VTEX Sales App",
+                    "pt": "1. Boas práticas de testes - VTEX Sales App",
+                    "en": "1. Mejores prácticas de pruebas - VTEX Sales App"
+                  },
+                  "slug": {
+                    "es": "mejores-practicas-de-pruebas-vtex-sales-app",
+                    "pt": "boas-praticas-de-testes-vtex-sales-app",
+                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
