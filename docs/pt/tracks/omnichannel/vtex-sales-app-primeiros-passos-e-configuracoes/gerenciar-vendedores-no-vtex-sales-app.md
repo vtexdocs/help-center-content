@@ -3,12 +3,12 @@ title: 'Gerenciar vendedores no VTEX Sales App'
 id: 5pqtuvi97FFZiGf7MlSe8q
 status: PUBLISHED
 createdAt: 2023-04-17T21:01:21.431Z
-updatedAt: 2024-01-05T19:59:15.811Z
+updatedAt: 2025-11-11T19:59:15.811Z
 publishedAt: 2024-01-05T19:59:15.811Z
 firstPublishedAt: 2023-04-25T20:13:04.431Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: managing-sales-associates-in-instore
+slugEN: managing-sales-associates-in-vtex-sales-app
 locale: pt
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: vtex-sales-app-getting-started-and-setting-up
