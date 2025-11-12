@@ -11533,14 +11533,14 @@
                 },
                 {
                   "name": {
-                    "en": "3. ​​Best practices for testing VTEX Sales App",
-                    "es": "3. ​​Best practices for testing VTEX Sales App",
-                    "pt": "3. ​​Best practices for testing VTEX Sales App"
+                    "en": "3. Best practices for testing VTEX Sales App",
+                    "es": "3. Mejores prácticas de pruebas - VTEX Sales App",
+                    "pt": "3. Boas práticas de testes - VTEX Sales App"
                   },
                   "slug": {
                     "en": "best-practices-for-testing-vtex-sales-app",
-                    "es": "",
-                    "pt": ""
+                    "es": "mejores-practicas-de-pruebas-vtex-sales-app",
+                    "pt": "boas-praticas-de-testes-vtex-sales-app"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11766,37 +11766,6 @@
                     "en": "cancel-and-refund-an-order-on-vtex-sales-app",
                     "es": "cancelar-y-reembolsar-un-pedido-en-vtex-sales-app",
                     "pt": "cancelar-e-estornar-um-pedido-no-vtex-sales-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "VTEX Sales App - Usando el app",
-                "es": "VTEX Sales App - Usando el app",
-                "pt": "VTEX Sales App - Usando o app"
-              },
-              "slug": {
-                "en": "vtex-sales-app-usando-el-app",
-                "es": "vtex-sales-app-usando-el-app",
-                "pt": "vtex-sales-app-usando-o-app"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "1. Mejores prácticas de pruebas - VTEX Sales App",
-                    "pt": "1. Boas práticas de testes - VTEX Sales App",
-                    "en": "1. Mejores prácticas de pruebas - VTEX Sales App"
-                  },
-                  "slug": {
-                    "es": "mejores-practicas-de-pruebas-vtex-sales-app",
-                    "pt": "boas-praticas-de-testes-vtex-sales-app",
-                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
