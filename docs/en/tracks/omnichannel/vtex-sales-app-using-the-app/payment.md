@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: payment
 locale: en
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
-trackSlugEN: instore-using-the-app
+trackSlugEN: vtex-sales-app-using-the-app
 order: 15
 ---
 

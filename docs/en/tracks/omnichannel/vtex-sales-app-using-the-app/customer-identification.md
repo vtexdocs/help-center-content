@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: customer-identification
 locale: en
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
-trackSlugEN: instore-using-the-app
+trackSlugEN: vtex-sales-app-using-the-app
 order: 5
 ---
 
@@ -20,6 +20,7 @@ After logging in, the sales associate is taken directly to the customer identifi
 The VTEX Sales App app helps sales associates sell more in the physical store. And having information about the customer since the initial interaction is a valuable resource to accomplish that goal, especially considering that the context shown by VTEX Sales App concerns not only the customer's interactions with that specific store, but with all the brand's sales channels.
 
 The customer can be identified by one of these methods:
+
 - Email
 - CPF (in Brazil)
 - QR Code
