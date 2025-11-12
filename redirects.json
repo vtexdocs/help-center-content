@@ -2,6 +2,10 @@
   "redirects": {
     "fromCsvExport": [
       {
+        "from": "en/docs/tracks/customizing-instore",
+        "to": "en/docs/tracks/customizing-vtex-sales-app"
+      },
+      {
         "from": "en/docs/tracks/register-the-barcode-of-the-skus-for-instore",
         "to": "en/docs/tracks/register-the-barcode-of-the-skus-for-vtex-sales-app"
       },
