@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: what-is-instore
 locale: pt
 trackId: zav76TFEZlAjnyBVL5tRc
-trackSlugEN: o-que-e-o-instore
+trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 1
 ---
 

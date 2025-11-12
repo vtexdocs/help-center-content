@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: creating-franchise-accounts
 locale: pt
 trackId: zav76TFEZlAjnyBVL5tRc
-trackSlugEN: criar-contas-franquias
+trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 3
 ---
 

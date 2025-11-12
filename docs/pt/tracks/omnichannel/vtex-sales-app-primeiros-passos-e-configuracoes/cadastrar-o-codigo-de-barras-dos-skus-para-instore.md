@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: register-the-barcode-of-the-skus-for-instore
 locale: pt
 trackId: zav76TFEZlAjnyBVL5tRc
-trackSlugEN: cadastrar-o-codigo-de-barras-dos-skus-para-instore
+trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 7
 ---
 
