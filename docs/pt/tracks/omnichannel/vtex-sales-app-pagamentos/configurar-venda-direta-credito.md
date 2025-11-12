@@ -3,7 +3,7 @@ title: 'Configurar Venda Direta - Crédito'
 id: 5rSTgGeCqEN7c9LmFbfqA
 status: PUBLISHED
 createdAt: 2021-09-27T20:09:51.763Z
-updatedAt: 2023-07-19T19:35:38.275Z
+updatedAt: 2025-11-12T19:35:38.275Z
 publishedAt: 2023-07-19T19:35:38.275Z
 firstPublishedAt: 2021-09-27T20:35:59.233Z
 contentType: trackArticle
