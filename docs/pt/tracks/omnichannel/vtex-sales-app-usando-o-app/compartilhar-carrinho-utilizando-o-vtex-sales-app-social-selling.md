@@ -3,12 +3,12 @@ title: 'Compartilhar carrinho utilizando o VTEX Sales App Social Selling'
 id: 6deiffo22iKkY27PkfstXy
 status: PUBLISHED
 createdAt: 2021-08-05T14:57:10.773Z
-updatedAt: 2023-07-26T19:00:02.450Z
+updatedAt: 2025-11-12T19:00:02.450Z
 publishedAt: 2023-07-26T19:00:02.450Z
 firstPublishedAt: 2021-08-05T15:08:06.961Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: sharing-shopping-cart-using-instore-social-selling
+slugEN: sharing-shopping-cart-using-vtex-sales-app-social-selling
 locale: pt
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: vtex-sales-app-using-the-app
