@@ -3,12 +3,12 @@ title: 'Búsqueda unificada en VTEX Sales App'
 id: 9sXeVwoD60qYYgRJ11r5F
 status: PUBLISHED
 createdAt: 2021-08-05T13:47:18.180Z
-updatedAt: 2025-05-28T14:49:34.599Z
+updatedAt: 2025-11-12T14:49:34.599Z
 publishedAt: 2025-05-28T14:49:34.599Z
 firstPublishedAt: 2021-08-05T14:45:51.056Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: unified-search
+slugEN: unified-search-in-vtex-sales-app
 locale: es
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: vtex-sales-app-using-the-app
