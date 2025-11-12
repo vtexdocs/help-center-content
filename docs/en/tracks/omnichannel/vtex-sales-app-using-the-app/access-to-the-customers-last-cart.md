@@ -3,7 +3,7 @@ title: "Access to the customer's last cart"
 id: 6nmLlqdoUdTzmfYIlRMYds
 status: PUBLISHED
 createdAt: 2021-08-05T13:52:22.445Z
-updatedAt: 2023-05-31T15:09:02.341Z
+updatedAt: 2025-11-12T15:09:02.341Z
 publishedAt: 2023-05-31T15:09:02.341Z
 firstPublishedAt: 2021-08-05T14:46:10.377Z
 contentType: trackArticle
