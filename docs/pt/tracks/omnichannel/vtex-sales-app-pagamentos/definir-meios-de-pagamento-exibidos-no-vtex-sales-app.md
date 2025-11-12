@@ -8,7 +8,7 @@ publishedAt: 2023-07-05T17:16:01.041Z
 firstPublishedAt: 2021-09-27T20:57:59.730Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: setting-up-payment-methods-for-vtex-sales-app
+slugEN: define-payment-methods-displayed-on-vtex-sales-app
 locale: pt
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugEN: vtex-sales-app-payments
