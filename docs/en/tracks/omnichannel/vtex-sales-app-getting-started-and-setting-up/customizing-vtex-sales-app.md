@@ -3,7 +3,7 @@ title: 'Customizing VTEX Sales App'
 id: Rby973h1l9tEM4C1YrzwZ
 status: PUBLISHED
 createdAt: 2021-09-16T00:55:10.885Z
-updatedAt: 2023-07-24T23:04:49.692Z
+updatedAt: 2025-11-11T23:04:49.692Z
 publishedAt: 2023-07-24T23:04:49.692Z
 firstPublishedAt: 2021-09-16T01:00:39.153Z
 contentType: trackArticle
