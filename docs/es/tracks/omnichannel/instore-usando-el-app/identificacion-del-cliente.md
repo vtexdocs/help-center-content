@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: customer-identification
 locale: es
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
-trackSlugEN: instore-usando-el-app
+trackSlugEN: vtex-sales-app-using-the-app
 order: 5
 ---
 
@@ -20,6 +20,7 @@ Al iniciar sesión, el vendedor es llevado directamente a la pantalla de identif
 VTEX Sales App es una aplicación que ayuda a los vendedores a realizar ventas en la tienda física. Y tener información sobre el cliente desde la interacción inicial es un recurso valioso, especialmente teniendo en cuenta que el contexto que muestra VTEX Sales App se refiere no solo a las interacciones del cliente con esa tienda específica, sino con todos los canales de venta de la marca.
 
 El cliente puede ser identificado por uno de estos métodos:
+
 - Email
 - CPF (en Brasil)
 - Código QR

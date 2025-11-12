@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: instore-using-the-app
 locale: es
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
-trackSlugEN: inStore - Descripción del producto
+trackSlugEN: vtex-sales-app-using-the-app
 order: 1
 ---
 
