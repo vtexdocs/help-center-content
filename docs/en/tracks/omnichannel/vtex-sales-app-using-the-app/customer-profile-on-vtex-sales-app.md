@@ -3,12 +3,12 @@ title: 'Customer profile on VTEX Sales App'
 id: 48cSQw1XD4qWkZEsb2ZGbn
 status: PUBLISHED
 createdAt: 2021-08-05T13:54:45.151Z
-updatedAt: 2023-05-31T16:15:54.361Z
+updatedAt: 2025-11-12T16:15:54.361Z
 publishedAt: 2023-05-31T16:15:54.361Z
 firstPublishedAt: 2021-08-05T14:46:16.599Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: customer-profile-on-instore
+slugEN: customer-profile-on-vtex-sales-app
 locale: en
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: vtex-sales-app-using-the-app
