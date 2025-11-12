@@ -2,13 +2,17 @@
   "redirects": {
     "fromCsvExport": [
       {
+        "from": "en/docs/tracks/adding-new-stores-to-instore",
+        "to": "en/docs/tracks/ng-physical-stores-in-vtex-sales-app"
+      },
+      {
         "from": "en/docs/tracks/instore-basic-settings",
         "to": "en/docs/tracks/vtex-sales-app-basic-settings"
-      },      
+      },
       {
         "from": "en/docs/tracks/prerequisites-for-using-instore",
         "to": "en/docs/tracks/prerequisites-for-using-vtex-sales-app"
-      },      
+      },
       {
         "from": "en/docs/tracks/what-is-instore",
         "to": "en/docs/tracks/what-is-vtex-sales-app"
