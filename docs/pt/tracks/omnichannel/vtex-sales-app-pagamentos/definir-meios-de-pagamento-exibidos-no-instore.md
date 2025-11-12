@@ -3,12 +3,12 @@ title: 'Definir meios de pagamento exibidos no VTEX Sales App'
 id: jHQQcyX3WKeUFidwSjmY1
 status: PUBLISHED
 createdAt: 2021-09-27T20:54:02.947Z
-updatedAt: 2023-07-05T17:16:01.041Z
+updatedAt: 2025-11-12T17:16:01.041Z
 publishedAt: 2023-07-05T17:16:01.041Z
 firstPublishedAt: 2021-09-27T20:57:59.730Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: define-payment-methods-displayed-on-instore
+slugEN: setting-up-payment-methods-for-vtex-sales-app
 locale: pt
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugEN: vtex-sales-app-payments
