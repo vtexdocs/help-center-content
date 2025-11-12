@@ -2,6 +2,10 @@
   "redirects": {
     "fromCsvExport": [
       {
+        "from": "pt/docs/tracks/o-que-e-o-instore",
+        "to": "pt/docs/tracks/o-que-e-o-vtex-sales-app"
+      },
+      {
         "from": "es/docs/tracks/personalizacion-de-instore",
         "to": "es/docs/tracks/personalizacion-de-vtex-sales-app"
       },
