@@ -3,16 +3,16 @@ title: 'Gerenciar lojas físicas no VTEX Sales App'
 id: 5PSjRstg7UU4lOm0s8aqKN
 status: PUBLISHED
 createdAt: 2020-06-29T13:30:51.354Z
-updatedAt: 2023-07-26T18:59:24.074Z
+updatedAt: 2025-11-11T18:59:24.074Z
 publishedAt: 2023-07-26T18:59:24.074Z
 firstPublishedAt: 2020-06-29T14:22:11.121Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: adding-new-stores-to-instore
+slugEN: managing-physical-stores-in-vtex-sales-app
 locale: pt
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: vtex-sales-app-getting-started-and-setting-up
-order: 3
+order: 5
 ---
 
 Depois de fazer as [configurações básicas do VTEX Sales App no Admin](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), você pode adicionar outras lojas físicas ao sistema ou gerenciar lojas.
