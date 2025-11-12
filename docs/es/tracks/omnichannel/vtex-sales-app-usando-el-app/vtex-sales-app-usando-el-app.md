@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T15:52:58.346Z
 firstPublishedAt: 2020-06-28T19:51:58.371Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: instore-using-the-app
+slugEN: vtex-sales-app-using-the-app
 locale: es
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: vtex-sales-app-using-the-app
