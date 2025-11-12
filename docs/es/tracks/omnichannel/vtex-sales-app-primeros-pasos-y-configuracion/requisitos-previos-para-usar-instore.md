@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: prerequisites-for-using-instore
 locale: es
 trackId: zav76TFEZlAjnyBVL5tRc
-trackSlugEN: instore-primeros-pasos-y-configuracion
+trackSlugEN: vtex-sales-app-primeros-pasos-y-configuracion
 order: 1
 ---
 

@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: adding-new-stores-to-instore
 locale: es
 trackId: zav76TFEZlAjnyBVL5tRc
-trackSlugEN: instore-primeros-pasos-y-configuracion
+trackSlugEN: invtex-sales-app-primeros-pasos-y-configuracion
 order: 3
 ---
 

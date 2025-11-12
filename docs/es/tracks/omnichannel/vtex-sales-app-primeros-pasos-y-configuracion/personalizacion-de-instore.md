@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: customizing-instore
 locale: es
 trackId: zav76TFEZlAjnyBVL5tRc
-trackSlugEN: instore-primeros-pasos-y-configuracion
+trackSlugEN: vtex-sales-app-primeros-pasos-y-configuracion
 order: 5
 ---
 
