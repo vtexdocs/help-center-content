@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T16:11:02.310Z
 firstPublishedAt: 2021-12-08T17:57:54.529Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: best-practices-for-testing-instore
+slugEN: ​​best-practices-for-testing-vtex-sales-app
 locale: en
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: vtex-sales-app-using-the-app
