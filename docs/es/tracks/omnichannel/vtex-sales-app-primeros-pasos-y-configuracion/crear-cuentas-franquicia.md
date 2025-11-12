@@ -3,7 +3,7 @@ title: 'Crear cuentas franquicia'
 id: eujH0id9Y4WJjjmdazUKd
 status: PUBLISHED
 createdAt: 2022-04-04T15:07:29.526Z
-updatedAt: 2023-05-31T16:16:24.472Z
+updatedAt: 2025-11-11T16:16:24.472Z
 publishedAt: 2023-05-31T16:16:24.472Z
 firstPublishedAt: 2022-04-04T15:31:49.220Z
 contentType: trackArticle
