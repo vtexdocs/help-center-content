@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T15:48:30.288Z
 firstPublishedAt: 2020-06-28T16:19:11.591Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: configuring-cash-payments-through-instore
+slugEN: configuring-cash-payments-through-vtex-sales-app
 locale: en
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugEN: vtex-sales-app-payments
