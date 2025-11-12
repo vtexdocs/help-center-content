@@ -3,12 +3,12 @@ title: 'Cancelar y reembolsar un pedido en VTEX Sales App'
 id: UAahHrTwypk1HhoyyMd2W
 status: PUBLISHED
 createdAt: 2021-11-09T14:00:04.800Z
-updatedAt: 2023-05-31T16:06:08.789Z
+updatedAt: 2025-11-12T16:06:08.789Z
 publishedAt: 2023-05-31T16:06:08.789Z
 firstPublishedAt: 2021-11-09T14:09:59.855Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: cancel-and-refund-an-order-on-instore
+slugEN: cancel-and-refund-an-order-on-vtex-sales-app
 locale: es
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: vtex-sales-app-using-the-app
