@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: configuring-cash-payments-through-instore
 locale: es
 trackId: 43B4Nr7uZva5UdwWEt3PEy
-trackSlugEN: instore-pagos
+trackSlugEN: vtex-sales-app-payments
 order: 4
 ---
 
