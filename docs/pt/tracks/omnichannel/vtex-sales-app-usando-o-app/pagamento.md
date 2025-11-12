@@ -3,7 +3,7 @@ title: 'Pagamento'
 id: 2xxwfe7UQhd33nPTIRF9Yw
 status: PUBLISHED
 createdAt: 2021-08-05T14:37:01.824Z
-updatedAt: 2023-05-31T14:45:11.158Z
+updatedAt: 2025-11-12T14:45:11.158Z
 publishedAt: 2023-05-31T14:45:11.158Z
 firstPublishedAt: 2021-08-05T14:46:59.026Z
 contentType: trackArticle

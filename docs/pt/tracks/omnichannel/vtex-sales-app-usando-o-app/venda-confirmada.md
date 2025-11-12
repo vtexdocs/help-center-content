@@ -3,7 +3,7 @@ title: 'Venda confirmada'
 id: TrTtmCGVLTaCSmowGFYDI
 status: PUBLISHED
 createdAt: 2021-08-05T14:38:25.881Z
-updatedAt: 2023-05-31T15:41:53.703Z
+updatedAt: 2025-11-12T15:41:53.703Z
 publishedAt: 2023-05-31T15:41:53.703Z
 firstPublishedAt: 2021-08-05T14:47:05.559Z
 contentType: trackArticle
