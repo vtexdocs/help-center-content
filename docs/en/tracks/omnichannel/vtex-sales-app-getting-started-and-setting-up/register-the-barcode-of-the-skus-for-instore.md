@@ -3,15 +3,15 @@ title: 'Register the barcode of the SKUs for VTEX Sales App'
 id: 4eooWH0d8Aiwzparyi4Hg
 status: PUBLISHED
 createdAt: 2020-06-28T19:59:59.437Z
-updatedAt: 2023-05-31T15:50:45.045Z
+updatedAt: 2025-11-11T15:50:45.045Z
 publishedAt: 2023-05-31T15:50:45.045Z
 firstPublishedAt: 2020-06-28T20:04:59.879Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: register-the-barcode-of-the-skus-for-instore
+slugEN: register-the-barcode-of-the-skus-for-vtex-sales-app
 locale: en
 trackId: zav76TFEZlAjnyBVL5tRc
-trackSlugEN: register-the-barcode-of-the-skus-for-the-instore
+trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 7
 ---
 
