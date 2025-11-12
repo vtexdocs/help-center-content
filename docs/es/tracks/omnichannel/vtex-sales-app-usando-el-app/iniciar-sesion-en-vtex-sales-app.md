@@ -3,12 +3,12 @@ title: 'Iniciar sesión en VTEX Sales App'
 id: 1nSGGl6oBaeAn6uFDRIbRG
 status: PUBLISHED
 createdAt: 2021-08-05T13:38:54.141Z
-updatedAt: 2023-05-31T16:06:54.210Z
+updatedAt: 2025-11-12T16:06:54.210Z
 publishedAt: 2023-05-31T16:06:54.210Z
 firstPublishedAt: 2021-08-05T14:45:12.172Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: instore-login
+slugEN: vtex-sales-app-login
 locale: es
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: vtex-sales-app-using-the-app
