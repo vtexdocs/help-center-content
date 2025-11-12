@@ -2,6 +2,18 @@
   "redirects": {
     "fromCsvExport": [
       {
+        "from": "en/docs/tracks/what-is-instore",
+        "to": "en/docs/tracks/what-is-vtex-sales-app"
+      },
+      {
+        "from": "es/docs/tracks/que-es-instore",
+        "to": "es/docs/tracks/que-es-vtex-sales-app"
+      },
+      {
+        "from": "pt/docs/tracks/o-que-e-o-instore",
+        "to": "pt/docs/tracks/o-que-e-o-vtex-sales-app"
+      },      
+      {
         "from": "/faq/donde-veo-a-los-clientes-que-utilizan-recurrencia",
         "to": "/tutorial/donde-veo-a-los-clientes-que-utilizan-recurrencia"
       },
