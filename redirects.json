@@ -2,6 +2,10 @@
   "redirects": {
     "fromCsvExport": [
       {
+        "from": "pt/docs/tracks/gerenciar-vendedores-no-instore",
+        "to": "pt/docs/tracks/gerenciar-vendedores-no-vtex-sales-app"
+      },
+      {
         "from": "pt/docs/tracks/adicionar-lojas-ao-instore",
         "to": "pt/docs/tracks/gerenciar-lojas-fisicas-no-vtex-sales-app"
       },
