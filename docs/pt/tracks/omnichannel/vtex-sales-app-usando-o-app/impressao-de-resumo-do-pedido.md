@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: printing-an-order-summary
 locale: pt
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
-trackSlugEN: instore-usando-o-app
+trackSlugEN: vtex-sales-app-using-the-app
 order: 17
 ---
 
