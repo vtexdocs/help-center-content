@@ -8,7 +8,7 @@ publishedAt: 2023-08-28T11:55:43.015Z
 firstPublishedAt: 2020-06-28T15:17:02.889Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: setting-up-payment-methods-for-instore
+slugEN: setting-up-payment-methods-for-vtex-sales-app
 locale: es
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugEN: vtex-sales-app-payments
