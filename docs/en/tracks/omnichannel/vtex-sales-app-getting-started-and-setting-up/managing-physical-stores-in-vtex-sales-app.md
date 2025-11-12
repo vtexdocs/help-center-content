@@ -3,7 +3,7 @@ title: 'Managing physical stores in VTEX Sales App'
 id: 5PSjRstg7UU4lOm0s8aqKN
 status: PUBLISHED
 createdAt: 2020-06-29T13:30:51.354Z
-updatedAt: 2023-07-26T18:59:24.074Z
+updatedAt: 2025-11-11T18:59:24.074Z
 publishedAt: 2023-07-26T18:59:24.074Z
 firstPublishedAt: 2020-06-29T14:22:11.121Z
 contentType: trackArticle
@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: managing-physical-stores-in-vtex-sales-app
 locale: en
 trackId: zav76TFEZlAjnyBVL5tRc
-trackSlugEN: instore-first-steps-and-configurations
+trackSlugEN: instvtex-sales-app-getting-started-and-setting-up
 order: 5
 ---
 
