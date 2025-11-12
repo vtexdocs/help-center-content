@@ -14625,9 +14625,24 @@
                 },
                 {
                   "name": {
-                    "en": "2. Create product feed",
-                    "es": "2. Crear feed de productos",
-                    "pt": "2. Criar feed de produtos"
+                    "es": "2. Instalación y configuración",
+                    "en": "2. Instalación y configuración",
+                    "pt": "2. Installation and configuration"
+                  },
+                  "slug": {
+                    "es": "instalacion-y-configuracion",
+                    "en": "installation-and-configuration",
+                    "pt": "instalacao-e-configuracao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "3. Create product feed",
+                    "es": "3. Crear feed de productos",
+                    "pt": "3. Criar feed de produtos"
                   },
                   "slug": {
                     "en": "create-product-feed",
@@ -14640,9 +14655,9 @@
                 },
                 {
                   "name": {
-                    "en": "3. Sales channel mapping",
-                    "es": "3. Mapeo de canales de venta",
-                    "pt": "3. Mapeamento de canais de venda"
+                    "en": "4. Sales channel mapping",
+                    "es": "4. Mapeo de canales de venta",
+                    "pt": "4. Mapeamento de canais de venda"
                   },
                   "slug": {
                     "en": "sales-channel-mapping",
@@ -14655,9 +14670,9 @@
                 },
                 {
                   "name": {
-                    "en": "4. Specifications mapping",
-                    "es": "4. Mapeo de especificaciones",
-                    "pt": "4. Mapeamento de especificações"
+                    "en": "5. Specifications mapping",
+                    "es": "5. Mapeo de especificaciones",
+                    "pt": "5. Mapeamento de especificações"
                   },
                   "slug": {
                     "en": "specifications-mapping",
@@ -14670,9 +14685,9 @@
                 },
                 {
                   "name": {
-                    "en": "5. Update and import product feed",
-                    "es": "5. Actualizar y importar feed de productos",
-                    "pt": "5. Atualizar e importar feed de produtos"
+                    "en": "6. Update and import product feed",
+                    "es": "6. Actualizar y importar feed de productos",
+                    "pt": "6. Atualizar e importar feed de produtos"
                   },
                   "slug": {
                     "en": "update-and-import-product-feed",
@@ -14685,45 +14700,14 @@
                 },
                 {
                   "name": {
-                    "en": "6. Import orders from Lengow",
-                    "es": "6. Importar pedidos de Lengow",
-                    "pt": "6. Importar pedidos da Lengow"
+                    "en": "7. Import orders from Lengow",
+                    "es": "7. Importar pedidos de Lengow",
+                    "pt": "7. Importar pedidos da Lengow"
                   },
                   "slug": {
                     "en": "import-orders-from-lengow",
                     "es": "importar-pedidos-de-lengow",
                     "pt": "importar-pedidos-da-lengow"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Integración de Lengow",
-                "es": "Integración de Lengow",
-                "pt": "Integración de Lengow"
-              },
-              "slug": {
-                "en": "integracion-de-lengow",
-                "es": "integracion-de-lengow",
-                "pt": "integracion-de-lengow"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "1. Instalación y configuración",
-                    "en": "1. Instalación y configuración",
-                    "pt": "1. Instalación y configuración"
-                  },
-                  "slug": {
-                    "es": "instalacion-y-configuracion",
-                    "en": "",
-                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -15122,6 +15106,21 @@
           "origin": "",
           "type": "category",
           "children": [
+            {
+              "name": {
+                "en": "Mercado Libre Envios",
+                "es": "Envíos de Mercado Libre",
+                "pt": "Mercado Livre Envios"
+              },
+              "slug": {
+                "en": "mercado-libre-envios",
+                "es": "envios-de-mercado-libre",
+                "pt": "mercado-livre-envios"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
             {
               "name": {
                 "en": "Integration errors in Amazon orders",
@@ -38638,21 +38637,6 @@
               "origin": "",
               "type": "category",
               "children": [
-                {
-                  "name": {
-                    "en": "Mercado Libre Envios",
-                    "es": "Envíos de Mercado Libre",
-                    "pt": "Mercado Livre Envios"
-                  },
-                  "slug": {
-                    "en": "mercado-libre-envios",
-                    "es": "envios-de-mercado-libre",
-                    "pt": "mercado-livre-envios"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Microvix integration interrupted due to username and password",
