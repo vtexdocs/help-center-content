@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: setting-up-payment-methods-for-instore
 locale: pt
 trackId: 43B4Nr7uZva5UdwWEt3PEy
-trackSlugEN: instore-pagamentos
+trackSlugEN: vtex-sales-app-payments
 order: 1
 ---
 
