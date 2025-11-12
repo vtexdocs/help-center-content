@@ -11399,12 +11399,12 @@
                   "name": {
                     "en": "1. Setting up payment methods for VTEX Sales App",
                     "es": "1. Configuración de métodos de pago VTEX Sales App",
-                    "pt": "1. Definir meios de pagamento exibidos no VTEX Sales App"
+                    "pt": "1. Configurar métodos de pagamento para o VTEX Sales App"
                   },
                   "slug": {
                     "en": "setting-up-payment-methods-for-vtex-sales-app",
                     "es": "configuracion-de-metodos-de-pago-vtex-sales-app",
-                    "pt": "definir-meios-de-pagamento-exibidos-no-vtex-sales-app"
+                    "pt": "configurar-metodos-de-pagamento-para-o-vtex-sales-app"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11474,12 +11474,12 @@
                   "name": {
                     "en": "6. Define payment methods displayed on VTEX Sales App",
                     "es": "6. Definir los métodos de pago mostrados en VTEX Sales App",
-                    "pt": "6. Define payment methods displayed on VTEX Sales App"
+                    "pt": "6. Definir meios de pagamento exibidos no VTEX Sales App"
                   },
                   "slug": {
                     "en": "define-payment-methods-displayed-on-vtex-sales-app",
                     "es": "definir-los-metodos-de-pago-mostrados-en-vtex-sales-app",
-                    "pt": ""
+                    "pt": "definir-meios-de-pagamento-exibidos-no-vtex-sales-app"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -49067,6 +49067,21 @@
                 "en": "custom-attribute-mapper-mercado-livre",
                 "es": "mapeador-de-atributos-personalizado-mercado-livre",
                 "pt": "mapeador-de-atributos-personalizado-mercado-livre"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Dafiti Tracking update fails Crossdocking orders due to delivery type conflict",
+                "es": "Dafiti La actualización del seguimiento falla en los pedidos Crossdocking debido a un conflicto de tipo de entrega",
+                "pt": "Dafiti A atualização do rastreamento falha nos pedidos de Crossdocking devido a um conflito de tipo de entrega"
+              },
+              "slug": {
+                "en": "dafiti-tracking-update-fails-crossdocking-orders-due-to-delivery-type-conflict",
+                "es": "dafiti-la-actualizacion-del-seguimiento-falla-en-los-pedidos-crossdocking-debido-a-un-conflicto-de-tipo-de-entrega",
+                "pt": "dafiti-a-atualizacao-do-rastreamento-falha-nos-pedidos-de-crossdocking-devido-a-um-conflito-de-tipo-de-entrega"
               },
               "origin": "",
               "type": "markdown",
