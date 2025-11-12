@@ -2,6 +2,10 @@
   "redirects": {
     "fromCsvExport": [
       {
+        "from": "es/docs/tracks/agregar-nuevos-tiendas-al-instore",
+        "to": "es/docs/tracks/gestionar-tiendas-fisicas-en-vtex-sales-app"
+      },
+      {
         "from": "es/docs/tracks/instore-configuracion-basica",
         "to": "es/docs/tracks/vtex-sales-app-configuracion-basica"
       },
