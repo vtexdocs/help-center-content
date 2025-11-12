@@ -11261,14 +11261,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Prerequisites for using VTEX Sales App",
-                    "es": "1. Requisitos previos para usar VTEX Sales App",
-                    "pt": "1. Pré-requisitos para usar o VTEX Sales App"
+                    "en": "1. What is VTEX Sales App?",
+                    "es": "1. ¿Qué es VTEX Sales App?",
+                    "pt": "1. O que é o VTEX Sales App?"
                   },
                   "slug": {
-                    "en": "prerequisites-for-using-instore",
-                    "es": "requisitos-previos-para-usar-instore",
-                    "pt": "pre-requisitos-para-usar-o-instore"
+                    "en": "what-is-vtex-sales-app",
+                    "es": "que-es-vtex-sales-app",
+                    "pt": "o-que-e-o-vtex-sales-app"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11276,14 +11276,14 @@
                 },
                 {
                   "name": {
-                    "en": "2. VTEX Sales App - Basic settings",
-                    "es": "2. VTEX Sales App - Configuración básica",
-                    "pt": "2. VTEX Sales App - Configurações Básicas"
+                    "en": "2. Prerequisites for using VTEX Sales App",
+                    "es": "2. Requisitos previos para usar VTEX Sales App",
+                    "pt": "2. Pré-requisitos para usar o VTEX Sales App"
                   },
                   "slug": {
-                    "en": "instore-basic-settings",
-                    "es": "instore-configuracion-basica",
-                    "pt": "instore-setup-basico"
+                    "en": "prerequisites-for-using-vtex-sales-app",
+                    "es": "requisitos-previos-para-usar-vtex-sales-app",
+                    "pt": "pre-requisitos-para-usar-o-vtex-sales-app"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11291,14 +11291,14 @@
                 },
                 {
                   "name": {
-                    "en": "3. Managing physical stores in VTEX Sales App",
-                    "es": "3. Gestionar tiendas físicas en VTEX Sales App",
-                    "pt": "3. Gerenciar lojas físicas no VTEX Sales App"
+                    "en": "3. Creating franchise accounts",
+                    "es": "3. Crear cuentas franquicia",
+                    "pt": "3. Criar contas franquias"
                   },
                   "slug": {
-                    "en": "adding-new-stores-to-instore",
-                    "es": "agregar-nuevos-tiendas-al-instore",
-                    "pt": "adicionar-lojas-ao-instore"
+                    "en": "creating-franchise-accounts",
+                    "es": "crear-cuentas-franquicia",
+                    "pt": "criar-contas-franquias"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11306,14 +11306,14 @@
                 },
                 {
                   "name": {
-                    "en": "4. Managing sales associates in VTEX Sales App",
-                    "es": "4. Gestionar vendedores en VTEX Sales App",
-                    "pt": "4. Gerenciar vendedores no VTEX Sales App"
+                    "en": "4. VTEX Sales App - Basic settings",
+                    "es": "4. VTEX Sales App - Configuración básica",
+                    "pt": "4. VTEX Sales App - Configurações Básicas"
                   },
                   "slug": {
-                    "en": "managing-sales-associates-in-instore",
-                    "es": "gestionar-vendedores-en-instore",
-                    "pt": "gerenciar-vendedores-no-instore"
+                    "en": "vtex-sales-app-basic-settings",
+                    "es": "vtex-sales-app-configuracion-basica",
+                    "pt": "vtex-sales-app-configuracoes-basicas"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11321,14 +11321,59 @@
                 },
                 {
                   "name": {
-                    "en": "5. Customizing VTEX Sales App",
-                    "es": "5. Personalización de VTEX Sales App",
-                    "pt": "5. Customizar o VTEX Sales App"
+                    "en": "5. Managing physical stores in VTEX Sales App",
+                    "es": "5. Gestionar tiendas físicas en VTEX Sales App",
+                    "pt": "5. Gerenciar lojas físicas no VTEX Sales App"
                   },
                   "slug": {
-                    "en": "customizing-instore",
-                    "es": "personalizacion-de-instore",
-                    "pt": "customizar-o-instore"
+                    "en": "managing-physical-stores-in-vtex-sales-app",
+                    "es": "gestionar-tiendas-fisicas-en-vtex-sales-app",
+                    "pt": "gerenciar-lojas-fisicas-no-vtex-sales-app"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "6. Managing sales associates in VTEX Sales App",
+                    "es": "6. Gestionar vendedores en VTEX Sales App",
+                    "pt": "6. Gerenciar vendedores no VTEX Sales App"
+                  },
+                  "slug": {
+                    "en": "managing-sales-associates-in-vtex-sales-app",
+                    "es": "gestionar-vendedores-en-vtex-sales-app",
+                    "pt": "gerenciar-vendedores-no-vtex-sales-app"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "7. Register the barcode of the SKUs for VTEX Sales App",
+                    "es": "7. Registrar el código de barras de los SKUs para VTEX Sales App",
+                    "pt": "7. Cadastrar o código de barras dos SKUs para o VTEX Sales App"
+                  },
+                  "slug": {
+                    "en": "register-the-barcode-of-the-skus-for-vtex-sales-app",
+                    "es": "registrar-el-codigo-de-barras-de-los-skus-para-vtex-sales-app",
+                    "pt": "cadastrar-o-codigo-de-barras-dos-skus-para-o-vtex-sales-app"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "8. Customizing VTEX Sales App",
+                    "es": "8. Personalización de VTEX Sales App",
+                    "pt": "8. Customizar o VTEX Sales App"
+                  },
+                  "slug": {
+                    "en": "customizing-vtex-sales-app",
+                    "es": "personalizacion-de-vtex-sales-app",
+                    "pt": "customizar-o-vtex-sales-app"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11445,12 +11490,12 @@
             {
               "name": {
                 "en": "VTEX Sales App - Using the app",
-                "es": "VTEX Sales App - Usando el app",
+                "es": "VTEX Sales App - Using the app",
                 "pt": "VTEX Sales App - Usando o app"
               },
               "slug": {
                 "en": "vtex-sales-app-using-the-app",
-                "es": "vtex-sales-app-usando-el-app",
+                "es": "vtex-sales-app-using-the-app",
                 "pt": "vtex-sales-app-usando-o-app"
               },
               "origin": "",
@@ -11458,9 +11503,24 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Installation",
-                    "es": "1. Instalación",
-                    "pt": "1. Instalação"
+                    "en": "1. VTEX Sales App - Using the app",
+                    "es": "1. VTEX Sales App - Usando el app",
+                    "pt": "1. VTEX Sales App - Usando o app"
+                  },
+                  "slug": {
+                    "en": "instore-using-the-app",
+                    "es": "instore-usando-el-app",
+                    "pt": "instore-usando-o-app"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "2. Installation",
+                    "es": "2. Instalación",
+                    "pt": "2. Instalação"
                   },
                   "slug": {
                     "en": "installation",
@@ -11473,9 +11533,9 @@
                 },
                 {
                   "name": {
-                    "en": "2. ​​Best practices for testing VTEX Sales App",
-                    "es": "2. Mejores prácticas de pruebas - VTEX Sales App",
-                    "pt": "2. Boas práticas de testes - VTEX Sales App"
+                    "en": "3. ​​Best practices for testing VTEX Sales App",
+                    "es": "3. Mejores prácticas de pruebas - VTEX Sales App",
+                    "pt": "3. Boas práticas de testes - VTEX Sales App"
                   },
                   "slug": {
                     "en": "best-practices-for-testing-instore",
@@ -11488,9 +11548,9 @@
                 },
                 {
                   "name": {
-                    "en": "3. VTEX Sales App Login",
-                    "es": "3. Iniciar sesión en VTEX Sales App",
-                    "pt": "3. Login no VTEX Sales App"
+                    "en": "4. VTEX Sales App Login",
+                    "es": "4. Iniciar sesión en VTEX Sales App",
+                    "pt": "4. Login no VTEX Sales App"
                   },
                   "slug": {
                     "en": "instore-login",
@@ -11503,9 +11563,9 @@
                 },
                 {
                   "name": {
-                    "en": "4. Customer identification",
-                    "es": "4. Identificación del cliente",
-                    "pt": "4. Identificação do cliente"
+                    "en": "5. Customer identification",
+                    "es": "5. Identificación del cliente",
+                    "pt": "5. Identificação do cliente"
                   },
                   "slug": {
                     "en": "customer-identification",
@@ -11518,9 +11578,9 @@
                 },
                 {
                   "name": {
-                    "en": "5. Access to the customer's last cart",
-                    "es": "5. Acceso al último carrito del cliente",
-                    "pt": "5. Acesso ao último carrinho do cliente"
+                    "en": "6. Access to the customer's last cart",
+                    "es": "6. Acceso al último carrito del cliente",
+                    "pt": "6. Acesso ao último carrinho do cliente"
                   },
                   "slug": {
                     "en": "access-to-the-customers-last-cart",
@@ -11533,9 +11593,9 @@
                 },
                 {
                   "name": {
-                    "en": "6. Unified search in VTEX Sales App",
-                    "es": "6. Búsqueda unificada en VTEX Sales App",
-                    "pt": "6. Busca unificada no VTEX Sales App"
+                    "en": "7. Unified search in VTEX Sales App",
+                    "es": "7. Búsqueda unificada en VTEX Sales App",
+                    "pt": "7. Busca unificada no VTEX Sales App"
                   },
                   "slug": {
                     "en": "unified-search",
@@ -11548,9 +11608,9 @@
                 },
                 {
                   "name": {
-                    "en": "7. Barcode reading",
-                    "es": "7. Lectura de código de barras",
-                    "pt": "7. Leitura do código de barras"
+                    "en": "8. Barcode reading",
+                    "es": "8. Lectura de código de barras",
+                    "pt": "8. Leitura do código de barras"
                   },
                   "slug": {
                     "en": "barcode-reading",
@@ -11563,9 +11623,9 @@
                 },
                 {
                   "name": {
-                    "en": "8. Product details",
-                    "es": "8. Detalles del producto",
-                    "pt": "8. Detalhes do produto"
+                    "en": "9. Product details",
+                    "es": "9. Detalles del producto",
+                    "pt": "9. Detalhes do produto"
                   },
                   "slug": {
                     "en": "product-details",
@@ -11578,9 +11638,9 @@
                 },
                 {
                   "name": {
-                    "en": "9. Omnichannel cart",
-                    "es": "9. Carrito omnicanal",
-                    "pt": "9. Carrinho Omnichannel"
+                    "en": "10. Omnichannel cart",
+                    "es": "10. Carrito omnicanal",
+                    "pt": "10. Carrinho Omnichannel"
                   },
                   "slug": {
                     "en": "omnichannel-cart",
@@ -11593,9 +11653,9 @@
                 },
                 {
                   "name": {
-                    "en": "10. Customer profile on VTEX Sales App",
-                    "es": "10. Perfil del cliente en VTEX Sales App",
-                    "pt": "10. Perfil do cliente no VTEX Sales App"
+                    "en": "11. Customer profile on VTEX Sales App",
+                    "es": "11. Perfil del cliente en VTEX Sales App",
+                    "pt": "11. Perfil do cliente no VTEX Sales App"
                   },
                   "slug": {
                     "en": "customer-profile-on-instore",
@@ -11608,9 +11668,9 @@
                 },
                 {
                   "name": {
-                    "en": "11. Cart transfer and capture",
-                    "es": "11. Transferir y capturar carrito",
-                    "pt": "11. Transferir e capturar carrinho"
+                    "en": "12. Cart transfer and capture",
+                    "es": "12. Transferir y capturar carrito",
+                    "pt": "12. Transferir e capturar carrinho"
                   },
                   "slug": {
                     "en": "cart-transfer-and-capture",
@@ -11623,9 +11683,9 @@
                 },
                 {
                   "name": {
-                    "en": "12. Sharing shopping cart using VTEX Sales App Social Selling",
-                    "es": "12. Compartir el carrito utilizando VTEX Sales App Social Selling",
-                    "pt": "12. Compartilhar carrinho utilizando o VTEX Sales App Social Selling"
+                    "en": "13. Sharing shopping cart using VTEX Sales App Social Selling",
+                    "es": "13. Compartir el carrito utilizando VTEX Sales App Social Selling",
+                    "pt": "13. Compartilhar carrinho utilizando o VTEX Sales App Social Selling"
                   },
                   "slug": {
                     "en": "sharing-shopping-cart-using-instore-social-selling",
@@ -11638,9 +11698,9 @@
                 },
                 {
                   "name": {
-                    "en": "13. Delivery",
-                    "es": "13. Entrega",
-                    "pt": "13. Entrega"
+                    "en": "14. Delivery",
+                    "es": "14. Entrega",
+                    "pt": "14. Entrega"
                   },
                   "slug": {
                     "en": "delivery",
@@ -11653,9 +11713,9 @@
                 },
                 {
                   "name": {
-                    "en": "14. Payment",
-                    "es": "14. Pago",
-                    "pt": "14. Pagamento"
+                    "en": "15. Payment",
+                    "es": "15. Pago",
+                    "pt": "15. Pagamento"
                   },
                   "slug": {
                     "en": "payment",
@@ -11668,9 +11728,9 @@
                 },
                 {
                   "name": {
-                    "en": "15. Sale confirmed",
-                    "es": "15. Venta confirmada",
-                    "pt": "15. Venda confirmada"
+                    "en": "16. Sale confirmed",
+                    "es": "16. Venta confirmada",
+                    "pt": "16. Venda confirmada"
                   },
                   "slug": {
                     "en": "sale-confirmed",
@@ -11683,9 +11743,9 @@
                 },
                 {
                   "name": {
-                    "en": "16. Printing an order summary",
-                    "es": "16. Impresión del resumen del pedido",
-                    "pt": "16. Impressão de resumo do pedido"
+                    "en": "17. Printing an order summary",
+                    "es": "17. Impresión del resumen del pedido",
+                    "pt": "17. Impressão de resumo do pedido"
                   },
                   "slug": {
                     "en": "printing-an-order-summary",
@@ -11698,9 +11758,9 @@
                 },
                 {
                   "name": {
-                    "en": "17. Cancel and refund an order on VTEX Sales App",
-                    "es": "17. Cancelar y reembolsar un pedido en VTEX Sales App",
-                    "pt": "17. Cancelar e estornar um pedido no VTEX Sales App"
+                    "en": "18. Cancel and refund an order on VTEX Sales App",
+                    "es": "18. Cancelar y reembolsar un pedido en VTEX Sales App",
+                    "pt": "18. Cancelar e estornar um pedido no VTEX Sales App"
                   },
                   "slug": {
                     "en": "cancel-and-refund-an-order-on-instore",
@@ -11993,130 +12053,6 @@
                     "en": "getting-event-recording",
                     "es": "obtener-la-grabacion-del-evento",
                     "pt": "obter-gravacao-do-evento"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Creating franchise accounts",
-                "es": "Crear cuentas franquicia",
-                "pt": "Criar contas franquias"
-              },
-              "slug": {
-                "en": "creating-franchise-accounts-category",
-                "es": "crear-cuentas-franquicia-category",
-                "pt": "criar-contas-franquias-category"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "1. Creating franchise accounts",
-                    "es": "1. Crear cuentas franquicia",
-                    "pt": "1. Criar contas franquias"
-                  },
-                  "slug": {
-                    "en": "creating-franchise-accounts",
-                    "es": "crear-cuentas-franquicia",
-                    "pt": "criar-contas-franquias"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Instore product overview",
-                "es": "Instore descripción del producto",
-                "pt": "Instore visao geral do produto"
-              },
-              "slug": {
-                "en": "instore-product-overview",
-                "es": "instore-descripcion-del-producto",
-                "pt": "instore-visao-geral-do-produto"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "1. VTEX Sales App - Using the app",
-                    "es": "1. VTEX Sales App - Usando el app",
-                    "pt": "1. VTEX Sales App - Usando o app"
-                  },
-                  "slug": {
-                    "en": "instore-using-the-app",
-                    "es": "instore-usando-el-app",
-                    "pt": "instore-usando-o-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Register the barcode of the skus for the instore",
-                "es": "Registrar el codigo de barras de los skus para el instore",
-                "pt": "Cadastrar o codigo de barras dos skus para instore"
-              },
-              "slug": {
-                "en": "register-the-barcode-of-the-skus-for-the-instore",
-                "es": "registrar-el-codigo-de-barras-de-los-skus-para-el-instore-category",
-                "pt": "cadastrar-o-codigo-de-barras-dos-skus-para-instore-category"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "1. Register the barcode of the SKUs for VTEX Sales App",
-                    "es": "1. Registrar el código de barras de los SKUs para VTEX Sales App",
-                    "pt": "1. Cadastrar o código de barras dos SKUs para o VTEX Sales App"
-                  },
-                  "slug": {
-                    "en": "register-the-barcode-of-the-skus-for-instore",
-                    "es": "registrar-el-codigo-de-barras-de-los-skus-para-el-instore",
-                    "pt": "cadastrar-o-codigo-de-barras-dos-skus-para-instore"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "What is instore",
-                "es": "Que ES instore",
-                "pt": "O que e o instore"
-              },
-              "slug": {
-                "en": "what-is-instore-category",
-                "es": "que-es-instore-category",
-                "pt": "o-que-e-o-instore-category"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "1. What is VTEX Sales App?",
-                    "es": "1. ¿Qué es VTEX Sales App?",
-                    "pt": "1. O que é o VTEX Sales App?"
-                  },
-                  "slug": {
-                    "en": "what-is-instore",
-                    "es": "que-es-instore",
-                    "pt": "o-que-e-o-instore"
                   },
                   "origin": "",
                   "type": "markdown",
