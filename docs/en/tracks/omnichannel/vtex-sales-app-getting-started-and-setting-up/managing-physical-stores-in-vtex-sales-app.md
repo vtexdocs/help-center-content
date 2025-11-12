@@ -8,7 +8,7 @@ publishedAt: 2023-07-26T18:59:24.074Z
 firstPublishedAt: 2020-06-29T14:22:11.121Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: adding-new-stores-to-instore
+slugEN: managing-physical-stores-in-vtex-sales-app
 locale: en
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: instore-first-steps-and-configurations
