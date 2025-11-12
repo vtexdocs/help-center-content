@@ -1,6 +1,6 @@
 {
-  "id": "instore-payments",
+  "id": "vtex-sales-app-payments",
   "name": "VTEX Sales App - Payments",
-  "slug": "instore-payments",
+  "slug": "vtex-sales-app-payments",
   "order": 2
 }
