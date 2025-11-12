@@ -3,7 +3,7 @@ title: '​​Best practices for testing VTEX Sales App'
 id: 6ROGNzkKUOObfab2wKDm6K
 status: PUBLISHED
 createdAt: 2021-12-08T17:48:37.852Z
-updatedAt: 2023-05-31T16:11:02.310Z
+updatedAt: 2025-11-12T16:11:02.310Z
 publishedAt: 2023-05-31T16:11:02.310Z
 firstPublishedAt: 2021-12-08T17:57:54.529Z
 contentType: trackArticle
