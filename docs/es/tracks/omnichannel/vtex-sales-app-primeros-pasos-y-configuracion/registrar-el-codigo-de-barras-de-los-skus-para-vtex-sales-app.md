@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: register-the-barcode-of-the-skus-for-vtex-sales-app
 locale: es
 trackId: zav76TFEZlAjnyBVL5tRc
-trackSlugEN: vtex-sales-app-primeros-pasos-y-configuracion
+trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 7
 ---
 
