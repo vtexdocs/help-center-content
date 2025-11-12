@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: managing-physical-stores-in-vtex-sales-app
 locale: en
 trackId: zav76TFEZlAjnyBVL5tRc
-trackSlugEN: instvtex-sales-app-getting-started-and-setting-up
+trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 5
 ---
 
