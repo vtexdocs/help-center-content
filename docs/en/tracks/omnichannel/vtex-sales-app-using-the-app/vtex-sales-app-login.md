@@ -8,7 +8,7 @@ publishedAt: 2023-05-31T16:06:54.210Z
 firstPublishedAt: 2021-08-05T14:45:12.172Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: instore-login
+slugEN: vtex-sales-app-login
 locale: en
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: vtex-sales-app-using-the-app
