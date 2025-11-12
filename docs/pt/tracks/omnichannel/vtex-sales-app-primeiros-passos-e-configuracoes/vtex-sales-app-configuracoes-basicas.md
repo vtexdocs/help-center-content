@@ -3,16 +3,16 @@ title: 'VTEX Sales App - Configurações Básicas'
 id: 4L5SoLxE8O3YkxF7FKymrO
 status: PUBLISHED
 createdAt: 2020-06-28T13:51:53.895Z
-updatedAt: 2025-02-20T23:01:37.261Z
+updatedAt: 2025-11-11T23:01:37.261Z
 publishedAt: 2025-02-20T23:01:37.261Z
 firstPublishedAt: 2020-06-28T14:01:36.462Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: instore-basic-settings
+slugEN: vtex-sales-app-basic-settings
 locale: pt
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: vtex-sales-app-getting-started-and-setting-up
-order: 2
+order: 4
 ---
 
 O VTEX Sales App é um dos principais produtos da VTEX para operações de [Comércio Unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv). Ele é um aplicativo que permite à sua loja oferecer uma experiência omnichannel real, integrando seus canais online e físicos e colocando seus clientes no centro do negócio.
