@@ -3,7 +3,7 @@ title: 'Identificación del cliente'
 id: 2l56Bc2V1Xjv93JddsdEMi
 status: PUBLISHED
 createdAt: 2021-08-05T13:45:29.981Z
-updatedAt: 2023-05-31T15:56:36.034Z
+updatedAt: 2025-11-12T15:56:36.034Z
 publishedAt: 2023-05-31T15:56:36.034Z
 firstPublishedAt: 2021-08-05T14:45:44.463Z
 contentType: trackArticle
