@@ -11,7 +11,7 @@ productTeam: Shopping
 slugEN: what-is-vtex-sales-app
 locale: en
 trackId: zav76TFEZlAjnyBVL5tRc
-trackSlugEN: what-is-vtex-sales-app
+trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 1
 ---
 
