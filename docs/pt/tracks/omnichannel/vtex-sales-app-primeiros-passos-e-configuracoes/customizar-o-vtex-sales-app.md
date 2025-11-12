@@ -3,16 +3,16 @@ title: 'Customizar o VTEX Sales App'
 id: Rby973h1l9tEM4C1YrzwZ
 status: PUBLISHED
 createdAt: 2021-09-16T00:55:10.885Z
-updatedAt: 2023-07-24T23:04:49.692Z
+updatedAt: 2025-11-11T23:04:49.692Z
 publishedAt: 2023-07-24T23:04:49.692Z
 firstPublishedAt: 2021-09-16T01:00:39.153Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: customizing-instore
+slugEN: customizing-vtex-sales-app
 locale: pt
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: vtex-sales-app-getting-started-and-setting-up
-order: 5
+order: 8
 ---
 
 A experiência do VTEX Sales App é customizável: você pode aplicar funcionalidades e configurações específicas de acordo com as necessidades do seu negócio, além de adaptar o layout do aplicativo de acordo com a identidade da sua marca.
