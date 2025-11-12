@@ -2,6 +2,10 @@
   "redirects": {
     "fromCsvExport": [
       {
+        "from": "pt/docs/tracks/instore-setup-basico",
+        "to": "pt/docs/tracks/vtex-sales-app-configuracoes-basicas"
+      },      
+      {
         "from": "pt/docs/tracks/pre-requisitos-para-usar-o-instore",
         "to": "pt/docs/tracks/pre-requisitos-para-usar-o-vtex-sales-app"
       },
