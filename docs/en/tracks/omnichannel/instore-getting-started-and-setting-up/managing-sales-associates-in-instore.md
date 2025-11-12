@@ -12,7 +12,7 @@ slugEN: managing-sales-associates-in-instore
 locale: en
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: instore-first-steps-and-configurations
-order: 4
+order: 6
 ---
 
 After configuring the [VTEX Sales App basic settings](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), you can add sales associates to the system or manage the existing ones in the VTEX Admin.
