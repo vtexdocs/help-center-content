@@ -11399,12 +11399,12 @@
                   "name": {
                     "en": "1. Setting up payment methods for VTEX Sales App",
                     "es": "1. Configuración de métodos de pago VTEX Sales App",
-                    "pt": "1. Configurar métodos de pagamento para o VTEX Sales App"
+                    "pt": "1. Definir meios de pagamento exibidos no VTEX Sales App"
                   },
                   "slug": {
-                    "en": "setting-up-payment-methods-for-instore",
-                    "es": "configuracion-de-metodos-de-pago-para-instore",
-                    "pt": "configurar-metodos-de-pagamento-para-o-instore"
+                    "en": "setting-up-payment-methods-for-vtex-sales-app",
+                    "es": "configuracion-de-metodos-de-pago-vtex-sales-app",
+                    "pt": "definir-meios-de-pagamento-exibidos-no-vtex-sales-app"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11447,9 +11447,9 @@
                     "pt": "4. Configurar pagamento em dinheiro pelo VTEX Sales App"
                   },
                   "slug": {
-                    "en": "configuring-cash-payments-through-instore",
-                    "es": "configurar-pago-en-efectivo-por-instore",
-                    "pt": "configurar-pagamento-em-dinheiro-pelo-instore"
+                    "en": "configuring-cash-payments-through-vtex-sales-app",
+                    "es": "configurar-pago-en-efectivo-por-vtex-sales-app",
+                    "pt": "configurar-pagamento-em-dinheiro-pelo-vtex-sales-app"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -11474,12 +11474,12 @@
                   "name": {
                     "en": "6. Define payment methods displayed on VTEX Sales App",
                     "es": "6. Definir los métodos de pago mostrados en VTEX Sales App",
-                    "pt": "6. Definir meios de pagamento exibidos no VTEX Sales App"
+                    "pt": "6. Define payment methods displayed on VTEX Sales App"
                   },
                   "slug": {
-                    "en": "define-payment-methods-displayed-on-instore",
-                    "es": "definir-los-metodos-de-pago-mostrados-en-instore",
-                    "pt": "definir-meios-de-pagamento-exibidos-no-instore"
+                    "en": "define-payment-methods-displayed-on-vtex-sales-app",
+                    "es": "definir-los-metodos-de-pago-mostrados-en-vtex-sales-app",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -49869,6 +49869,21 @@
             },
             {
               "name": {
+                "en": "Shopee Brand attribute not sent or overwritten during product sync",
+                "es": "Shopee Atributo de marca no enviado o sobrescrito durante la sincronización del producto",
+                "pt": "Shopee Atributo de marca não enviado ou sobrescrito durante a sincronização do produto"
+              },
+              "slug": {
+                "en": "shopee-brand-attribute-not-sent-or-overwritten-during-product-sync",
+                "es": "shopee-atributo-de-marca-no-enviado-o-sobrescrito-durante-la-sincronizacion-del-producto",
+                "pt": "shopee-atributo-de-marca-nao-enviado-ou-sobrescrito-durante-a-sincronizacao-do-produto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Shopee Cannot update price because the product has Shopee-exclusive promotions",
                 "es": "Shopee No se puede actualizar el precio porque el producto tiene promociones exclusivas de Shopee",
                 "pt": "Shopee Não é possível atualizar o preço porque o produto tem promoções exclusivas do Shopee"
@@ -60091,6 +60106,21 @@
                 "en": "payment-conditions-set-to-process-transactions-in-installments-other-than-1x-are-processing-transactions-as-prepaid-in-full",
                 "es": "condiciones-de-pago-establecidas-para-procesar-transacciones-a-plazos-distintas-de-1x-estan-procesando-transacciones-como-prepagadas-en-su-totalida",
                 "pt": "as-condicoes-de-pagamento-definidas-para-processar-transacoes-em-parcelas-diferentes-de-1x-estao-processando-transacoes-como-prepagas-integralmente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Payment created without connector leads to canceled transaction",
+                "es": "El pago creado sin conector provoca la cancelación de la transacción",
+                "pt": "O pagamento criado sem conector leva ao cancelamento da transação"
+              },
+              "slug": {
+                "en": "payment-created-without-connector-leads-to-canceled-transaction",
+                "es": "el-pago-creado-sin-conector-provoca-la-cancelacion-de-la-transaccion",
+                "pt": "o-pagamento-criado-sem-conector-leva-ao-cancelamento-da-transacao"
               },
               "origin": "",
               "type": "markdown",
