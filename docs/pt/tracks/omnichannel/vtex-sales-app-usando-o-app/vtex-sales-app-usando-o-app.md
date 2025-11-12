@@ -3,15 +3,15 @@ title: 'VTEX Sales App - Usando o app'
 id: 6cq4E1JCmA6vCvBCCtAgIM
 status: PUBLISHED
 createdAt: 2020-06-28T19:28:16.392Z
-updatedAt: 2023-05-31T15:52:58.346Z
+updatedAt: 2025-11-12T15:52:58.346Z
 publishedAt: 2023-05-31T15:52:58.346Z
 firstPublishedAt: 2020-06-28T19:51:58.371Z
 contentType: trackArticle
 productTeam: Shopping
-slugEN: instore-using-the-app
+slugEN: vtex-sales-app-using-the-app
 locale: pt
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
-trackSlugEN: instore-visao-geral-do-produto
+trackSlugEN: vtex-sales-app-using-the-app
 order: 1
 ---
 
