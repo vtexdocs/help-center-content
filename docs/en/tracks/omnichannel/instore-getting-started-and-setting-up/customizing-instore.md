@@ -12,7 +12,7 @@ slugEN: customizing-instore
 locale: en
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: instore-getting-started-and-setting-up
-order: 5
+order: 8
 ---
 
 The VTEX Sales App experience is customizable: you can enable specific features and settings to suit your business needs, and you can also adapt the app layout to match your brand identity.
