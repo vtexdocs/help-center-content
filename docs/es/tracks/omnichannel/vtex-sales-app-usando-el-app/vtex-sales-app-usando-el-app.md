@@ -3,7 +3,7 @@ title: 'VTEX Sales App - Usando el app'
 id: 6cq4E1JCmA6vCvBCCtAgIM
 status: PUBLISHED
 createdAt: 2020-06-28T19:28:16.392Z
-updatedAt: 2023-05-31T15:52:58.346Z
+updatedAt: 2025-11-12T15:52:58.346Z
 publishedAt: 2023-05-31T15:52:58.346Z
 firstPublishedAt: 2020-06-28T19:51:58.371Z
 contentType: trackArticle
