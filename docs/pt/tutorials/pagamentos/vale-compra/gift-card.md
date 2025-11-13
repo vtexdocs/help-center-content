@@ -46,13 +46,14 @@ Para criar um novo vale-presente, confira o passo a passo:
 
 > ⚠️ **Atenção**: o preenchimento dos campos “Valor” e “Data de expiração” é **obrigatório**. Caso o contrário, o vale-presente não será salvo.
 
-> ❗ A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo [Restricting the use of GiftCards to a collection of products does not work](/pt/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
+> ❗ A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo [Collection functionality doesn't work on Giftcard](https://help.vtex.com/en/known-issues/collection-functionality-doesnt-work-on-giftcard).
 
 Depois de preencher os campos corretamente, o usuário poderá assinalar até três opções de configuração: 
 <ul>
   <li>**Restrito**: somente o cliente referente ao CPF ou CNPJ informado acima poderá utilizar este vale.</li>
   <li>**Recarregável**: enquanto esse vale estiver disponível, seu saldo poderá ser alterado.</li>
-  <li>**Reutilizável**: será possível realizar novas compras com este vale até que seu valor seja totalmente utilizado.</li></ul>
+  <li>**Reutilizável**: será possível realizar novas compras com este vale até que seu valor seja totalmente utilizado.</li>
+</ul>
 <br>
   <li>Por fim, clique no botão **Salvar**.</li>
 <br>
@@ -99,14 +100,19 @@ Após a criação do vale-presente, é necessário configurá-lo como meio de pa
 
 Siga os passos abaixo para configurar o vale-presente:
 
-1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
-2. Na aba __Condições de pagamento__, clique no botão `+`.
-3. Clique no conector __Vale__.
-4. No topo da página, crie um __nome__ para essa condição de pagamento.
-5. Ative a condição no campo __Status__.
-6. Em __Processar com o provedor__, selecione o provedor de giftcard desejado.
-7. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
-8. Clique em `Salvar`.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __GiftCard HUB__ na barra de busca e clique sobre o nome do provedor.
+4. Em __Tipo de estorno__ e __Liquidação antecipada__, selecione as opções desejadas.
+5. Clique em `Salvar`.
+6. Acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
+7. Na aba __Condições de pagamento__, clique no botão `+`.
+8. Clique no conector __Vale__.
+9. No topo da página, crie um __nome__ para essa condição de pagamento.
+10. Ative a condição no campo __Status__.
+11. Em __Processar com o provedor__, selecione o provedor de giftcard desejado.
+12. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
+13. Clique em `Salvar`.
 
 Além disso, você ainda pode definir condições especiais de pagamento para o vale-presente. Não há limite de condições de podem ser aplicadas a um meio de pagamento e especificamos como configurar cada uma delas [aqui](/pt/tutorial/condicoes-especiais--tutorials_456?locale=pt). 
 
