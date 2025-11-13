@@ -26,9 +26,9 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 * [Usuários](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9?&utm_source=autocomplete#usuarios)  
 * Integração
 
-## Pedidos {#pedidos}
+## Pedidos
 
-Nesta aba, você encontrará configurações relacionadas aos pedidos processados pelo VTEX Pick and Pack. 
+Nesta aba, você encontrará configurações relacionadas aos pedidos processados pelo VTEX Pick and Pack.
 
 ![pick-and-pack-pedidos-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_1.png)
 
@@ -41,8 +41,8 @@ Nesta aba, você encontrará configurações relacionadas aos pedidos processado
 
 Veja abaixo os filtros disponíveis que determinam quais pedidos serão baixados:
 
-* **Meios de pagamento:** meios de pagamento utilizados nos pedidos que serão exportados.  
-* **Métodos de envio:** métodos de envio utilizados nos pedidos que serão exportados.  
+* **Meios de pagamento:** meios de pagamento utilizados nos pedidos que serão exportados.
+* **Métodos de envio:** métodos de envio utilizados nos pedidos que serão exportados.
 * **Tipo de envio:** tipos de envio utilizados nos pedidos que serão exportados (SHIP\_FROM\_STORE, PICKUP\_IN\_STORE e DRIVE\_THRU).  
 * **Tags de pedidos:** restringe os pedidos baixados que apresentem determinadas tags.  
 * **Políticas comerciais:** [políticas comerciais](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) aplicadas nos pedidos que serão exportados.  
@@ -50,7 +50,7 @@ Veja abaixo os filtros disponíveis que determinam quais pedidos serão baixados
 
 Clique em Salvar para registrar as alterações feitas na aba.
 
-### Ordens de serviço {#ordens-de-serviço}
+### Ordens de serviço
 
 Nesta seção, você pode definir as opções que serão aplicadas às [ordens de serviço](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-ordens-de-servico--7bUwvmTY6eOqxzhyMIIzvz) da sua loja. Uma ordem de serviço consiste em um único ou um conjunto de pedidos que serão processados pelo fluxo do Pick and Pack simultaneamente.
 
@@ -86,36 +86,35 @@ Clique em Salvar para registrar as alterações feitas na aba.
 ### Separação
 
 ![pick-and-pack-ordem-separacao-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_3.png)  
-![]()
 
 * **Mostrar aba de informações do pedido:** opção que exibe a aba de informações do pedido dentro da ordem de serviço para o separador, tanto no [Admin VTEX](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-ordens-de-servico--7bUwvmTY6eOqxzhyMIIzvz) ou no [aplicativo móvel do Pick and Pack](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#ordens-de-servico-pendentes).  
 * **Mostrar informações do cliente por pedido:** opção que exibe a aba de informações do cliente para o separador.  
 * **Permitir observações nos itens**: opção que permite o separador [adicionar observações nos itens do pedido durante a separação](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#ordens-de-servico-pendentes).
 
-* ### Solicitar confirmação para separar itens: opção que habilita uma validação extra no aplicativo Pick and Pack para o separador confirmar a separação de um item do pedido.
+* **Solicitar confirmação para separar itens:** opção que habilita uma validação extra no aplicativo Pick and Pack para o separador confirmar a separação de um item do pedido.
 
-* ### Ativar fluxo de aprovações: opção que obriga aprovações de algum administrador para a separação dos itens.
+* **Ativar fluxo de aprovações:** opção que obriga aprovações de algum administrador para a separação dos itens.
 
-* ### Permitir adicionar itens: opção que permite o separador [adicionar novos itens durante a separação](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#adicionar-novos-produtos-a-um-pedido).
+* **Permitir adicionar itens:** opção que permite o separador [adicionar novos itens durante a separação](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#adicionar-novos-produtos-a-um-pedido).
 
-* ### Permitir substituição de itens: opção que permite o separador [substituir itens durante a separação](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#substituir-itens).
+* **Permitir substituição de itens:** opção que permite o separador [substituir itens durante a separação](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#substituir-itens).
 
 * **Motivos de substituição**: motivos de [substituição de itens](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#substituir-itens) que serão selecionados pelo separador no [aplicativo móvel do Pick and Pack](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet). Os motivos de substituição cadastrados não são traduzidos caso o separador escolha outro idioma no aplicativo móvel do Pick and Pack.
 
-* ### Permitir recusar itens: opção que permite o separador [recusar itens durante a separação](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#recusar-itens).
+* **Permitir recusar itens:** opção que permite o separador [recusar itens durante a separação](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#recusar-itens).
 
-* **Motivos de recusa**: motivos de [recusa de itens](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#recusar-itens) que serão selecionados pelo separador no [aplicativo móvel do Pick and Pack](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet). Os motivos de recusa cadastrados não são traduzidos caso o separador escolha outro idioma no aplicativo móvel do Pick and Pack.
+* **Motivos de recusa:** motivos de [recusa de itens](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#recusar-itens) que serão selecionados pelo separador no [aplicativo móvel do Pick and Pack](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet). Os motivos de recusa cadastrados não são traduzidos caso o separador escolha outro idioma no aplicativo móvel do Pick and Pack.
 
-* ### Permitir alterações no preço dos itens: opção que permite o separador alterar o preço dos itens durante a separação.
+* **Permitir alterações no preço dos itens:** opção que permite o separador alterar o preço dos itens durante a separação.
 
 * **Motivos de alteração de preços**:  motivos de alteração de preço que serão selecionados pelo separador no [aplicativo móvel do Pick and Pack](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet). Os motivos de alteração de preços cadastrados não são traduzidos caso o separador escolha outro idioma no aplicativo móvel do Pick and Pack.  
 * **Número máximo de alterações de preço nos itens do pedido**: limites de alteração de preço de itens em um pedido. 100% é o valor máximo que pode ser adicionado ao preço original quando modificado e \-100% o valor mínimo, sendo calculado em cima do valor original do item.  
 * **Permitir alterações na quantidade dos itens**: opção que permite o separador [alterar a quantidade dos itens durante a separação](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#alterar-a-quantidade-de-um-produto).   
-* **Número máximo de alterações na quantidade dos itens do pedido**: limites de alteração de quantidade de itens em um pedido. 100% é o valor máximo que pode ser adicionado à quantidade original quando modificada e \-100% o valor mínimo, sendo calculado em cima da quantidade original do item.  
-* **Limitar alterações no valor total do pedido**: limites de alteração do valor total do pedido feitas pelo separador. 100% é o valor máximo que pode ser adicionado ao valor final do pedido quando modificado e \-100% o valor mínimo, sendo calculado em cima do valor original do pedido.  
-* **Número máximo de alterações no pedido**: quantidade máxima de alterações (substituições, recusa e itens novos) que podem ser feitas em um pedido.
+* **Número máximo de alterações na quantidade dos itens do pedido:** limites de alteração de quantidade de itens em um pedido. 100% é o valor máximo que pode ser adicionado à quantidade original quando modificada e \-100% o valor mínimo, sendo calculado em cima da quantidade original do item.  
+* **Limitar alterações no valor total do pedido:** limites de alteração do valor total do pedido feitas pelo separador. 100% é o valor máximo que pode ser adicionado ao valor final do pedido quando modificado e \-100% o valor mínimo, sendo calculado em cima do valor original do pedido.  
+* **Número máximo de alterações no pedido:** quantidade máxima de alterações (substituições, recusa e itens novos) que podem ser feitas em um pedido.
 
-Clique em Salvar para registrar as alterações feitas na aba.
+Clique em `Salvar` para registrar as alterações feitas na aba.
 
 ### Empacotamento
 
@@ -123,8 +122,8 @@ Nesta aba, você encontrará as configurações relacionadas à etapa de empacot
 
 #### Geral
 
-![pick-and-pack-ordem-empacotamento-geral-1-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_5.png)  
-![pick-and-pack-ordem-empacotamento-geral-2-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_6.png)
+![pick-and-pack-ordem-empacotamento-geral-1-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_4.png)  
+![pick-and-pack-ordem-empacotamento-geral-2-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_5.png)
 
 * **Ativar o processo de empacotamento:** opção que habilita o [fluxo de empacotamento](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#empacotamento) efetuado pelo separador.
 
@@ -157,7 +156,7 @@ Clique em Salvar para registrar as alterações feitas na aba.
 
 #### Tipos de embalagem
 
-![pick-and-pack-embalagem-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_7.png)  
+![pick-and-pack-embalagem-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_6.png)  
 A página é organizada da seguinte forma:
 
 | Coluna | Descrição |
@@ -435,7 +434,7 @@ Para atualizar ou deletar uma automação, siga os passos abaixo:
 
 Nesta aba, você fará o gerenciamento dos separadores da sua operação VTEX Pick and Pack. Usuários com permissão **Separador** terão acesso apenas ao aplicativo do VTEX Pick and Pack.
 
-![pick-and-pack-usuarios-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_17.png)
+![pick-and-pack-usuarios-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_7.png)
 
 Para criar um novo usuário, siga os seguintes passos:
 
@@ -475,7 +474,7 @@ Os tipos de eventos que podem gerar avisos:
 
 O sistema reúne as informações do evento — como o identificador do pedido, status atual e anterior, data e outros detalhes — e envia tudo para o endereço configurado. É possível também limitar o envio por instalações. Nesse caso, o Webhook só dispara para eventos relacionados a essas unidades.
 
-![pick-and-pack-webhook-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_18.png)
+![pick-and-pack-webhook-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_8.png)
 
 Para criar um novo webhook, siga os passos abaixo:
 
@@ -503,5 +502,5 @@ Para editar ou deletar webhook, siga os passos abaixo:
 
 Nesta aba, você gera uma chave de API para utilizar os endpoints de autenticação por JWT da [Pick and Pack API](https://developers.vtex.com/docs/api-reference/pick-and-pack-api#post-/token) e da [Pick and Pack Last Mile Protocol API](https://developers.vtex.com/docs/api-reference/pick-and-pack-protocol-api#post-/token) .  
 
-![pick-and-pack-chave-api-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_19.png)  
+![pick-and-pack-chave-api-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-configuracoes_9.png)  
 Para gerar uma nova chave de API, clique em \`Gerar\`.
