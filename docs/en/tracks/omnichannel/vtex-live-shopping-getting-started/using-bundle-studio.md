@@ -3,7 +3,7 @@ title: 'Using Bundle studio'
 id: 3GKzrP9nkyRwpUyyeYUaeX
 status: PUBLISHED
 createdAt: 2025-07-23T18:06:49.325Z
-updatedAt: 2025-11-10T23:15:39.786Z
+updatedAt: 2025-11-14T23:15:39.786Z
 publishedAt: 2025-11-03T23:15:39.786Z
 firstPublishedAt: 2025-07-28T15:08:19.382Z
 contentType: trackArticle
@@ -18,6 +18,17 @@ order: 8
 > ℹ️ If you want to use a studio other than Bundle, check [Using external studios](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/Dw0QdKI0aGjmyD5Z6z5JC).
 
 The VTEX broadcast studio is called **Bundle**. In this article, you’ll learn how to configure all the necessary settings in our native studio solution.
+
+## Stream method for Bundle
+
+To access the native VTEX studio to transmit your event, follow the steps below:
+
+1. In the VTEX Admin, go to **Apps > Live Shopping > Events**, or type **Events** in the search bar at the top of the page.
+2. Click the arrow button of the [event you created](https://help.vtex.com/en/docs/tracks/creating-event) to access the event configuration page.
+3. [Turn on](https://help.vtex.com/en/docs/tracks/turning-on-event) the event, by clicking the toggle switch <i class="fa-solid fa-toggle-on"></i> Turn On at the top right.
+4. Select the `Stream` tab.
+5. In the **Stream method** page, in **Option 1 - Web Studio**, click `Open Web Studio`, to be redirected to a new window in the **Device settings** page in Bundle. Restricted for administrators only.
+6. (Optional) If you wish to have guests and hosts on your event, click `Copy invitation` and share the link with them. For security reasons, a guest’s access to Bundle must be [approved by an administrator](#administrator-approval-for-guests-in-the-studio).
 
 ## Streaming Studio
 
