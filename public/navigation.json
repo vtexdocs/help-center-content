@@ -101,6 +101,37 @@
             },
             {
               "name": {
+                "en": "Novembro",
+                "es": "Novembro",
+                "pt": "Novembro"
+              },
+              "slug": {
+                "en": "novembro",
+                "es": "novembro",
+                "pt": "novembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Breaking change Shopee: Nova permissão de acesso obrigatória",
+                    "en": "Breaking change Shopee: Nova permissão de acesso obrigatória",
+                    "es": "Breaking change Shopee: Nova permissão de acesso obrigatória"
+                  },
+                  "slug": {
+                    "pt": "2025-11-13-breaking-change-shopee-nova-permissao-obrigatoria",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "October",
                 "es": "Octubre",
                 "pt": "Outubro"
