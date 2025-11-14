@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-getting-started
 order: 7
 ---
 
-In the VTEX Admin, when you go to **Apps > Live Shopping** and click the arrow icon of a [created event](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv), you access its **Event Information** page, where you can set it up as explained in the following sections:
+In the VTEX Admin, when you go to **Apps > Live Shopping**, or type Live Shopping in the search bar at the top of the page, and click the arrow icon of a [created event](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv), you access its **Event Information** page, where you can set it up as explained in the following sections:
 
 * [Layout type - Configuring the style](#layout-type-configuring-the-style)
 * [Chat - Configuring the administrator name](#chat-configuring-the-administrator-name)
