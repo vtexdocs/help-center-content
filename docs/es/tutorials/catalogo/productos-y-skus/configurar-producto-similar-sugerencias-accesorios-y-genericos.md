@@ -17,11 +17,11 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 En la plataforma VTEX puedes gestionar la vitrina de tu tienda aplicando estrategias de cross-selling y up-selling.
 
-## ¿Qué es cross-selling?**
+## ¿Qué es cross-selling?
 
 Cross-selling consiste en ofrecer al cliente un ítem complementario al que está adquiriendo durante la experiencia de compra. Por ejemplo, al comprar un celular, el cliente podría interesarse por unos audífonos o una funda para el nuevo dispositivo.
 
-## ¿Qué es up-selling?**
+## ¿Qué es up-selling?
 
 Up-selling significa ofrecer al cliente una versión superior del ítem que está comprando. En el caso de un celular, se podría presentar otro dispositivo con más funcionalidades, o la opción de sustituir unos audífonos por otros con bluetooth.
 
@@ -36,7 +36,7 @@ A continuación se muestran las relaciones de cross-selling y up-selling que pue
 
 >ℹ️ Esta configuración de vitrina puede asociarse a la promoción [Comprar juntos](https://help.vtex.com/es/tutorial/compre-junto--tutorials_323).
 
-[**Configurar cross-selling y up-selling**](https://help.vtex.com/es/docs/tutorials/comprar-juntos-registro-de-promocion)
+## Configurar cross-selling y up-selling
 
 La configuración se realiza a nivel de SKU y puede hacerse de las siguientes formas:
 
