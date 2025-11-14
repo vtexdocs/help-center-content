@@ -19,7 +19,9 @@ In the VTEX Admin, when you go to **Apps > Live Shopping**, or type Live Shoppin
 
 * [Layout type - Configuring the style](#layout-type-configuring-the-style)
 * [Chat - Configuring the administrator name](#chat-configuring-the-administrator-name)
+* [Promotions - Configuring coupons and promotions](#promotions-configuring-coupons-and-promotions)
 * [Settings - Configuring features](#settings-configuring-features)
+* [Product Highlight - Configuring collection presentation](#product-highlight-configuring-collection-presentation)
 * [CMS Configuration - Configuring content presentation](#cms-configuration-configuring-content-presentation)
 
 > ⚠️ This article describes the main settings for an event. It doesn't cover all sections of the **Event Information** page. For more information, check [Live Shopping: Events article](/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
