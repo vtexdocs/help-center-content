@@ -40161,12 +40161,12 @@
               "name": {
                 "en": "Attachment Update and Create API validation on field DomainValues not working",
                 "es": "La validación de la API de actualización y creación de archivos adjuntos en el campo DomainValues no funciona.",
-                "pt": "Atualização de anexos e criação de validação API em campos de valores de domínio que não funcionam"
+                "pt": "A validação da API Attachment Update e Create no campo DomainValues não está funcionando"
               },
               "slug": {
                 "en": "attachment-update-and-create-api-validation-on-field-domainvalues-not-working",
                 "es": "la-validacion-de-la-api-de-actualizacion-y-creacion-de-archivos-adjuntos-en-el-campo-domainvalues-no-funciona",
-                "pt": "atualizacao-de-anexos-e-criacao-de-validacao-api-em-campos-de-valores-de-dominio-que-nao-funcionam"
+                "pt": "a-validacao-da-api-attachment-update-e-create-no-campo-domainvalues-nao-esta-funcionando"
               },
               "origin": "",
               "type": "markdown",
@@ -40176,12 +40176,12 @@
               "name": {
                 "en": "Auto approve API accepts any values",
                 "es": "La API de aprobación automática acepta cualquier valor",
-                "pt": "Auto aprova API aceita quaisquer valores"
+                "pt": "A API de aprovação automática aceita qualquer valor"
               },
               "slug": {
                 "en": "auto-approve-api-accepts-any-values",
                 "es": "la-api-de-aprobacion-automatica-acepta-cualquier-valor",
-                "pt": "auto-aprova-api-aceita-quaisquer-valores"
+                "pt": "a-api-de-aprovacao-automatica-aceita-qualquer-valor"
               },
               "origin": "",
               "type": "markdown",
@@ -47755,12 +47755,12 @@
               "name": {
                 "en": "Drag and Drop issue on Site Editor",
                 "es": "Problema de arrastrar y soltar en el Editor de Sitios",
-                "pt": "Edição Drag and Drop no Site Editor"
+                "pt": "Problema de arrastar e soltar no Site Editor"
               },
               "slug": {
                 "en": "drag-and-drop-issue-on-site-editor",
                 "es": "problema-de-arrastrar-y-soltar-en-el-editor-de-sitios",
-                "pt": "edicao-drag-and-drop-no-site-editor"
+                "pt": "problema-de-arrastar-e-soltar-no-site-editor"
               },
               "origin": "",
               "type": "markdown",
@@ -47935,12 +47935,12 @@
               "name": {
                 "en": "Ordination of images when uploading a new version not working",
                 "es": "No funciona la ordenación de imágenes al subir una nueva versión",
-                "pt": "Ordenação de imagens ao fazer upload de uma nova versão não funcionando"
+                "pt": "A ordenação de imagens ao fazer o upload de uma nova versão não está funcionando"
               },
               "slug": {
                 "en": "ordination-of-images-when-uploading-a-new-version-not-working",
                 "es": "no-funciona-la-ordenacion-de-imagenes-al-subir-una-nueva-version",
-                "pt": "ordenacao-de-imagens-ao-fazer-upload-de-uma-nova-versao-nao-funcionando"
+                "pt": "a-ordenacao-de-imagens-ao-fazer-o-upload-de-uma-nova-versao-nao-esta-funcionando"
               },
               "origin": "",
               "type": "markdown",
