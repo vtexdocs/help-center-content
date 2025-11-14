@@ -30,23 +30,6 @@ To access the native VTEX studio to transmit your event, follow the steps below:
 5. In the **Stream method** page, in **Option 1 - Web Studio**, click `Open Web Studio`, to be redirected to a new window in the **Device settings** page in Bundle. Restricted for administrators only.
 6. (Optional) If you wish to have guests and hosts on your event, click `Copy invitation` and share the link with them. For security reasons, a guest’s access to Bundle must be [approved by an administrator](#administrator-approval-for-guests-in-the-studio).
 
-## Streaming Studio
-
-To access the studio in the VTEX Admin and start transmitting a live stream, go to the **Streaming Studio** section on the **Event Information** page:
-
-![article_8_streaming_studio_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_1.png)
-
- > ℹ️ To enable the fields, the event has to be [turned on](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) and set to `Live`.
-
-The settings in this section do the following:
-
-* **Copy invitation:** When you click this button, a link is generated and copied, which you can send to influencers or hosts. Once they open the link and an [administrator allows them to enter the Studio](#administrator-approval-for-guests-in-the-studio), they’ll be able to turn their camera and microphone on or off and view the chat within the studio. However, as explained in the [My Studio](#my-studio) section, they won’t have access to other actions.
-* **Access:** Redirects to the **Device settings** page in Bundle studio, where you can manage cameras, upload graphic assets, start/end the transmission, among other actions. This configuration is restricted to the broadcast studio administrators only.
-
-Administrators using the `Access` button are redirected to the Bundle **Device settings** page, where they can select the camera and microphone they want to use and run tests to ensure everything is working properly.
-
-Using the invitation link, hosts and guests will be able to join the Studio after their access is approved by an administrator.
-
 ## Administrator approval for guests in the Studio
 
 For external people (such as influencers) to access the Studio, they must be approved by an administrator. That measure enhances security for the store and allows the merchant to have greater control over their event.
