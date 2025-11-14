@@ -40,5 +40,5 @@ See below the possible cross-sell and upsell relationships between SKUs:
 
 You configure this at the SKU level in one of the following ways:
 
-* ***Via VTEX Admin:** Manually when [adding or editing the SKU](https://help.vtex.com/en/docs/tutorials/adding-or-editing-skus), or in bulk, [using a spreadsheet](https://help.vtex.com/en/docs/tutorials/exporting-and-importing-product-and-sku-specifications).  
+* **Via VTEX Admin:** Manually when [adding or editing the SKU](https://help.vtex.com/en/docs/tutorials/adding-or-editing-skus), or in bulk, [using a spreadsheet](https://help.vtex.com/en/docs/tutorials/exporting-and-importing-product-and-sku-specifications).  
 * **Via API Reference:** Using the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#overview).
