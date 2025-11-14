@@ -36,3 +36,4 @@ Por API, usted debe asociar una [tabla de precios](/es/tracks/prices-101--6f8pwC
 Si el usuario configura un escenario que no tiene asociada ninguna tabla de precios, se utilizará una tabla de precios predeterminada.
 > ℹ️ Es importante tener en cuenta que el usuario necesita estar conectado para utilizar Order Configuration y poder ver los diferentes precios basados en su configuración
 
+

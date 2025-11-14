@@ -3,7 +3,7 @@ title: 'Interrupção da integração Microvix por usuário e senha'
 id: 314RUn6H0lO1ish6CsWkKV
 status: PUBLISHED
 createdAt: 2025-09-17T16:59:27.225Z
-updatedAt: 2025-10-02T12:28:53.892Z
+updatedAt: 2025-11-14T12:28:53.892Z
 publishedAt: 2025-10-02T12:28:53.892Z
 firstPublishedAt: 2025-10-02T12:28:14.491Z
 contentType: tutorial

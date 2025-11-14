@@ -36,3 +36,4 @@ Por API, você deve associar uma [tabela de preços](/pt/tracks/prices-101--6f8p
 Caso o usuário configure um cenário que não apresente nenhuma tabela de preços associada, será usada uma tabela de preços default.
 
 > ℹ️ É importante destacar que o usuário precisa estar logado para usar o Order Configuration e, assim, visualizar os diferentes preços baseado na sua configuração
+

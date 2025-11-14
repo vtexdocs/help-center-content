@@ -37,3 +37,4 @@ If you configure a scenario that has no price table linked to it, it will use a 
 
 > ℹ️ Users need to be logged in to use Order Configuration and view the different prices based on their configurations.
 
+
