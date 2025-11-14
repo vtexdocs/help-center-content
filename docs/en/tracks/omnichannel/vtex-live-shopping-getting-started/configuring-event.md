@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-getting-started
 order: 7
 ---
 
-In the VTEX Admin, when you go to **Apps > Live Shopping**, or type Live Shopping in the search bar at the top of the page and click the arrow icon of a [created event](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv), you access its **Event Information** page, where you can set it up as explained in the following sections:
+In the VTEX Admin, when you go to **Apps > Live Shopping**, or type Live Shopping in the search bar at the top of the page and click the arrow icon of a [created event](https://help.vtex.com/en/docs/tracks/creating-event), you access its **Event Information** page. Under the **Manage** tab, you will find the following set up options, divided by page section:
 
 * [Layout type - Configuring the style](#layout-type-configuring-the-style)
 * [Chat - Configuring the administrator name](#chat-configuring-the-administrator-name)
@@ -114,6 +114,14 @@ In the **Settings** section, you can enable or disable the following event featu
 | Chat | <ul><li>**Email required:** By default, to allow the audience to participate in the live event chat, only their name is required. When you enable this field, they also have to provide an email address.</li><li>**Enable email sending:** When this field is enabled, if the audience asks a question and the administrator responds through the chat, an email notification is sent to the user with the response. This helps maintain the interaction with the end user outside the chat.</li></ul> |
 | Player | <ul><li>**Viewer visibility:** Displays the number of viewers currently watching the live stream event. This number isn’t cumulative.</li><li>**Popup transmission:** Allows displaying the entire Live Shopping component (chat, player, and product sidebar) in a popup format, drawing the full attention of the audience while they’re watching the event. The audience can close the popup anytime by clicking the X in the corner to return to the normal format.</li></ul> |
 | Products | <ul><li>**Apply tax:** Allows applying taxes to products showcased during the live event. When this option is enabled, the module **Promotions > Surcharges** will display the product price along with the applicable tax.</li></ul> |
+
+## Product Highlight - Configuring collection display
+
+The **Product Highlight** section is where you manage highlighting products during the event. The products displayed belong to the collection you chose when [creating the event](https://help.vtex.com/en/docs/tracks/creating-event), or the one you add/update before or during the transmission.
+
+>⚠️ To ensure your collection appears correctly during a **Live Shopping** event, we recommend creating it at least a few hours in advance. This allows the platform enough time to index the information. Otherwise, the page may be cached during the event, which could prevent the collection from displaying properly.
+
+To highlight a product, activate the toggle in the **Actions** column. You can choose two products at a time. Once selected, the product appears above the column names.
 
 ## CMS Configuration - Configuring content presentation
 
