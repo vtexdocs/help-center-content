@@ -15,7 +15,7 @@ locale: es
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Las cartas de decisión son una parte muy importante para las construcciones lógicas de nuestros flujos. En la [introducción a flujos](https://docs.weni.ai/l/pt/fluxos/introducao-a-fluxos) hablamos un poco sobre el concepto de estas cartas, y ahora vamos a entender un poco más sobre su anatomía y los tipos que existen dentro de la plataforma.
+Las cartas de decisión son una parte muy importante para las construcciones lógicas de nuestros flujos. En la [introducción a flujos](https://help.vtex.com/es/docs/tutorials/introduccion-a-los-flujos) hablamos un poco sobre el concepto de estas cartas, y ahora vamos a entender un poco más sobre su anatomía y los tipos que existen dentro de la plataforma.
 
 Para facilitar la navegación por este artículo, si deseas ir directamente a un tema específico, solo haz clic en su nombre a continuación:
   * Rutas y reglas de decisión
