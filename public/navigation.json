@@ -40161,12 +40161,12 @@
               "name": {
                 "en": "Attachment Update and Create API validation on field DomainValues not working",
                 "es": "La validación de la API de actualización y creación de archivos adjuntos en el campo DomainValues no funciona.",
-                "pt": "Atualização de anexos e criação de validação API em campos de valores de domínio que não funcionam"
+                "pt": "A validação da API Attachment Update e Create no campo DomainValues não está funcionando"
               },
               "slug": {
                 "en": "attachment-update-and-create-api-validation-on-field-domainvalues-not-working",
                 "es": "la-validacion-de-la-api-de-actualizacion-y-creacion-de-archivos-adjuntos-en-el-campo-domainvalues-no-funciona",
-                "pt": "atualizacao-de-anexos-e-criacao-de-validacao-api-em-campos-de-valores-de-dominio-que-nao-funcionam"
+                "pt": "a-validacao-da-api-attachment-update-e-create-no-campo-domainvalues-nao-esta-funcionando"
               },
               "origin": "",
               "type": "markdown",
@@ -40176,12 +40176,12 @@
               "name": {
                 "en": "Auto approve API accepts any values",
                 "es": "La API de aprobación automática acepta cualquier valor",
-                "pt": "Auto aprova API aceita quaisquer valores"
+                "pt": "A API de aprovação automática aceita qualquer valor"
               },
               "slug": {
                 "en": "auto-approve-api-accepts-any-values",
                 "es": "la-api-de-aprobacion-automatica-acepta-cualquier-valor",
-                "pt": "auto-aprova-api-aceita-quaisquer-valores"
+                "pt": "a-api-de-aprovacao-automatica-aceita-qualquer-valor"
               },
               "origin": "",
               "type": "markdown",
@@ -40851,12 +40851,12 @@
               "name": {
                 "en": "CMS Loyalty Value Settings not Working",
                 "es": "La configuración del valor de fidelización CMS no funciona",
-                "pt": "CMS Fidelidade Configurações de valores não funcionam"
+                "pt": "As configurações do CMS Loyalty Value não estão funcionando"
               },
               "slug": {
                 "en": "cms-loyalty-value-settings-not-working",
                 "es": "la-configuracion-del-valor-de-fidelizacion-cms-no-funciona",
-                "pt": "cms-fidelidade-configuracoes-de-valores-nao-funcionam"
+                "pt": "as-configuracoes-do-cms-loyalty-value-nao-estao-funcionando"
               },
               "origin": "",
               "type": "markdown",
@@ -41331,12 +41331,12 @@
               "name": {
                 "en": "Error message on offers management does not update after sku is binded on VTEX<>VTEX integrations",
                 "es": "Mensaje de error en la gestión de ofertas no se actualiza después de sku está vinculado en VTEX<>VTEX integraciones",
-                "pt": "Mensagem de erro na gestão de ofertas não é atualizada depois que o sku é vinculado a integrações VTEX<>VTEX"
+                "pt": "A mensagem de erro no gerenciamento de ofertas não é atualizada depois que o sku é vinculado nas integrações VTEX<>VTEX"
               },
               "slug": {
                 "en": "error-message-on-offers-management-does-not-update-after-sku-is-binded-on-vtexvtex-integrations",
                 "es": "mensaje-de-error-en-la-gestion-de-ofertas-no-se-actualiza-despues-de-sku-esta-vinculado-en-vtexvtex-integraciones",
-                "pt": "mensagem-de-erro-na-gestao-de-ofertas-nao-e-atualizada-depois-que-o-sku-e-vinculado-a-integracoes-vtexvtex"
+                "pt": "a-mensagem-de-erro-no-gerenciamento-de-ofertas-nao-e-atualizada-depois-que-o-sku-e-vinculado-nas-integracoes-vtexvtex"
               },
               "origin": "",
               "type": "markdown",
@@ -41509,9 +41509,9 @@
             },
             {
               "name": {
-                "en": "GET Product by Refid Returning 'Null' when not Found",
+                "en": "GET Product by Refid Returning \"Null\" when not Found",
                 "es": "GET Product by Refid Devuelve 'Null' cuando no se encuentra",
-                "pt": "GET Product by Refid retorna 'Null' quando não é encontrado"
+                "pt": "GET Product by Refid retorna \"Null\" quando não é encontrado"
               },
               "slug": {
                 "en": "get-product-by-refid-returning-null-when-not-found",
@@ -47755,12 +47755,12 @@
               "name": {
                 "en": "Drag and Drop issue on Site Editor",
                 "es": "Problema de arrastrar y soltar en el Editor de Sitios",
-                "pt": "Edição Drag and Drop no Site Editor"
+                "pt": "Problema de arrastar e soltar no Site Editor"
               },
               "slug": {
                 "en": "drag-and-drop-issue-on-site-editor",
                 "es": "problema-de-arrastrar-y-soltar-en-el-editor-de-sitios",
-                "pt": "edicao-drag-and-drop-no-site-editor"
+                "pt": "problema-de-arrastar-e-soltar-no-site-editor"
               },
               "origin": "",
               "type": "markdown",
@@ -47935,12 +47935,12 @@
               "name": {
                 "en": "Ordination of images when uploading a new version not working",
                 "es": "No funciona la ordenación de imágenes al subir una nueva versión",
-                "pt": "Ordenação de imagens ao fazer upload de uma nova versão não funcionando"
+                "pt": "A ordenação de imagens ao fazer o upload de uma nova versão não está funcionando"
               },
               "slug": {
                 "en": "ordination-of-images-when-uploading-a-new-version-not-working",
                 "es": "no-funciona-la-ordenacion-de-imagenes-al-subir-una-nueva-version",
-                "pt": "ordenacao-de-imagens-ao-fazer-upload-de-uma-nova-versao-nao-funcionando"
+                "pt": "a-ordenacao-de-imagens-ao-fazer-o-upload-de-uma-nova-versao-nao-esta-funcionando"
               },
               "origin": "",
               "type": "markdown",
@@ -49742,6 +49742,21 @@
                 "en": "mercado-livre-mapper-attribute-size",
                 "es": "tamano-del-atributo-mercado-livre-mapper",
                 "pt": "tamanho-do-atributo-do-mercado-livre-mapper"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Os atributos seller_package_height, seller_package_width, seller_package_length e seller_package_weight são obrigatórios.",
+                "es": "Mercado Libre Los atributos altura_paquete_vendedor, anchura_paquete_vendedor, longitud_paquete_vendedor y peso_paquete_vendedor son obligatorios.",
+                "pt": "Mercado Livre Os atributos seller_package_height, seller_package_width, seller_package_length e seller_package_weight são obrigatórios."
+              },
+              "slug": {
+                "en": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios",
+                "es": "mercado-libre-los-atributos-alturapaquetevendedor-anchurapaquetevendedor-longitudpaquetevendedor-y-pesopaquetevendedor-son-obligatorios",
+                "pt": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios"
               },
               "origin": "",
               "type": "markdown",

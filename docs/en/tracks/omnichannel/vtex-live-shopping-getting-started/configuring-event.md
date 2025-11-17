@@ -15,11 +15,13 @@ trackSlugEN: vtex-live-shopping-getting-started
 order: 7
 ---
 
-In the VTEX Admin, when you go to **Apps > Live Shopping** and click the arrow icon of a [created event](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv), you access its **Event Information** page, where you can set it up as explained in the following sections:
+In the VTEX Admin, when you go to **Apps > Live Shopping**, or type **Live Shopping** in the search bar at the top of the page and click the arrow icon of a [created event](https://help.vtex.com/en/docs/tracks/creating-event), you access its **Event Information** page. Under the **Manage** tab, you will find the following set up options, divided by page section:
 
 * [Layout type - Configuring the style](#layout-type-configuring-the-style)
 * [Chat - Configuring the administrator name](#chat-configuring-the-administrator-name)
+* [Promotions - Configuring coupons and promotions](#promotions-configuring-coupons-and-promotions)
 * [Settings - Configuring features](#settings-configuring-features)
+* [Product Highlight - Configuring collection display](#product-highlight-configuring-collection-display)
 * [CMS Configuration - Configuring content presentation](#cms-configuration-configuring-content-presentation)
 
 > ⚠️ This article describes the main settings for an event. It doesn't cover all sections of the **Event Information** page. For more information, check [Live Shopping: Events article](/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
@@ -69,6 +71,42 @@ The **Chat** section is where you manage the live chat during your event. If you
 
 > ℹ️ To learn how to pin messages, block users, delete messages, and perform other actions in the event chat, check [Live Shopping: Events](/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
 
+## Promotions - Configuring coupons and promotions
+
+In this section, you can set up coupons and promotions based on the event viewers or like reactions, for example. The available options will be those previously configured in the [Promotions](https://help.vtex.com/en/docs/tutorials/creating-promotions) module.
+
+To offer a promotion during your **Live Shopping** event, follow the steps below:
+
+1. In the **Promotions** section, click `New promotion`.
+2. Select a promotion option using the dropdown menu.
+3. Choose a variable, which can be:
+
+  * Likes
+  * Comments
+  * Viewers
+  * Orders
+
+4. Fill in the **Goal** field with the condition the audience must fulfill to activate the coupon or promotion. This information is not visible to the public and is limited to 20 characters. See below an example for each variable:
+
+  * **Likes:** Reach 100 like reactions.
+  * **Comments:** Get 150 comments.
+  * **Viewers:** Gather an audience over 200 people.
+  * **Orders:** Receive First 100 orders.
+
+  >⚠️ Be aware that coupons are automatically activated when the audience achieves the goal, but promotions become active five minutes after they achieve the goal.
+
+5. Fill in the **Display message** field with the content that communicates to your audience the goal they must meet to activate the promotion and coupon. Limited to 20 characters. For example, `40% Discount`.
+6. Select an animation to display the promotion or coupon during the event.
+7. Click `Save`.
+
+Once a promotion has been created, it will be displayed in a table with the following columns:
+
+* **State:** Allows activating or deactivating the promotion by switching the toggle. Although the promotion or coupon are automatically activated when the audience meets the goal, you can manage their activation status during the whole event.
+* **Promotion:** Name that identifies the promotion.
+* **Variable:** What the promotion is based on, which can be `Likes`, `Comments`, `Viewers` or `Orders`.
+* **Goal:** Variable value that once achieved, triggers the promotion activation.
+* **Actions:** Allows <i class="fa-solid fa-pencil"></i> editing or <i class="fa-solid fa-trash"></i> deleting the promotion. All of the promotion configurations can be edited. The deletion only removes the promotion from your event configurations, not from the **Promotions** module.
+
 ## Settings - Configuring features
 
 In the **Settings** section, you can enable or disable the following event features:
@@ -78,6 +116,14 @@ In the **Settings** section, you can enable or disable the following event featu
 | Chat | <ul><li>**Email required:** By default, to allow the audience to participate in the live event chat, only their name is required. When you enable this field, they also have to provide an email address.</li><li>**Enable email sending:** When this field is enabled, if the audience asks a question and the administrator responds through the chat, an email notification is sent to the user with the response. This helps maintain the interaction with the end user outside the chat.</li></ul> |
 | Player | <ul><li>**Viewer visibility:** Displays the number of viewers currently watching the live stream event. This number isn’t cumulative.</li><li>**Popup transmission:** Allows displaying the entire Live Shopping component (chat, player, and product sidebar) in a popup format, drawing the full attention of the audience while they’re watching the event. The audience can close the popup anytime by clicking the X in the corner to return to the normal format.</li></ul> |
 | Products | <ul><li>**Apply tax:** Allows applying taxes to products showcased during the live event. When this option is enabled, the module **Promotions > Surcharges** will display the product price along with the applicable tax.</li></ul> |
+
+## Product Highlight - Configuring collection display
+
+The **Product Highlight** section is where you manage highlighting products during the event. The products displayed belong to the collection you chose when [creating the event](https://help.vtex.com/en/docs/tracks/creating-event), or the one you add/update before or during the transmission.
+
+>⚠️ To ensure your collection appears correctly during a **Live Shopping** event, we recommend creating it at least a few hours in advance. This allows the platform enough time to index the information. Otherwise, the page may be cached during the event, which could prevent the collection from displaying properly.
+
+To highlight a product, activate the toggle in the **Actions** column. You can choose two products at a time. Once selected, the product appears above the column names.
 
 ## CMS Configuration - Configuring content presentation
 
