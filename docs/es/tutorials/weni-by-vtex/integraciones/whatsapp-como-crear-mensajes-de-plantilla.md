@@ -54,7 +54,7 @@ Además, en caso de que el envío sea rechazado y decidas apelar, será necesari
 
 Para incluir un ejemplo en el envío, primero crea tu modelo, agregando las variables necesarias. Luego, haz clic en el botón Agregar ejemplo. El panel de vista previa mostrará los ejemplos de activos multimedia o valores de texto proporcionados.
 
-Si hay rechazos de mensajes y quieres resolver o cambiar la configuración de tus mensajes de plantilla, ve a [Mensajes de Plantilla de WhatsApp: Impedimentos y configuraciones](/l/pt/m-dulo-integra-es/whatsapp-template-messages-impedimentos-e-configura-es) y obtén más información.
+Si hay rechazos de mensajes y quieres resolver o cambiar la configuración de tus mensajes de plantilla, ve a [Mensajes de Plantilla de WhatsApp: Impedimentos y configuraciones](https://help.vtex.com/es/docs/tutorials/mensajes-de-plantilla-de-whatsapp-obstaculos-y-configuraciones) y obtén más información.
 
 #### **Obtén más información**
 
