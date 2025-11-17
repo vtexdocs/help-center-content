@@ -1,0 +1,442 @@
+name: Navigation core
+
+on:
+  workflow_call:
+    inputs:
+      ref:
+        description: 'Git ref to checkout for navigation generation'
+        required: false
+        type: string
+      target_branch:
+        description: 'Branch to push navigation.json to (for commit step)'
+        required: false
+        type: string
+      enable_pr_comment:
+        description: 'Whether to create or update a PR comment with the navigation report'
+        required: false
+        type: boolean
+        default: false
+      pr_number:
+        description: 'Pull request number (required when enable_pr_comment is true)'
+        required: false
+        type: number
+      pr_head_sha:
+        description: 'Head commit SHA for the PR (for reporting)'
+        required: false
+        type: string
+
+jobs:
+  build-nav:
+    name: Build navigation
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ inputs.ref || github.ref }}
+          filter: blob:none
+          sparse-checkout: |
+            /**/*.md
+            /**/*.mdx
+            /**/*.json
+            /**/*.yml
+            public/
+          sparse-checkout-cone-mode: false
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate navigation directly into public/
+        working-directory: ${{ github.workspace }}
+        env:
+          REQUEST_TIMEOUT: "60000"
+        run: |
+          set -e
+          mkdir -p public
+          LOG="${{ github.workspace }}/.navgen.log"
+          : > "$LOG"
+          EXTRA_ARGS=""
+          if [ "${ACT}" = "true" ]; then
+            # Speed up local runs under act to avoid long scans/logs
+            EXTRA_ARGS="--languages en --sections announcements"
+          fi
+          echo "Running generator with npx (github shorthand first, then git+https), with clone+build fallback. Extra args: ${EXTRA_ARGS}"
+          # Capture output for summary; don't let the pipe hide failures
+          set +e
+          # 1) Try GitHub shorthand (tarball install) — avoids git when possible
+          npx --yes --package="github:vtexdocs/vtexhelp-nav-cli#main" --package=axios --package=dotenv \
+            vtex-nav gen --content-dir . --output public/navigation.json ${EXTRA_ARGS} > "$LOG" 2>&1
+          GEN_STATUS=$?
+          if [ $GEN_STATUS -ne 0 ]; then
+            echo "npx via github: failed (exit $GEN_STATUS). Retrying via git+https..." >> "$LOG"
+            npx --yes --package="git+https://github.com/vtexdocs/vtexhelp-nav-cli.git#main" --package=axios --package=dotenv \
+              vtex-nav gen --content-dir . --output public/navigation.json ${EXTRA_ARGS} >> "$LOG" 2>&1
+            GEN_STATUS=$?
+          fi
+          if [ $GEN_STATUS -ne 0 ]; then
+            echo "npx failed (exit $GEN_STATUS). Falling back to clone+build path..." >> "$LOG"
+            rm -rf vtexhelp-nav-cli
+            echo "Trying different clone methods..." >> "$LOG"
+            # Try multiple clone approaches
+            git clone --filter=blob:none --depth 1 https://github.com/vtexdocs/vtexhelp-nav-cli.git >> "$LOG" 2>&1
+            CLONE_STATUS=$?
+            if [ $CLONE_STATUS -ne 0 ]; then
+              echo "HTTPS clone failed, trying with per-command SSL verification disabled..." >> "$LOG"
+              git -c http.sslverify=false clone --filter=blob:none --depth 1 https://github.com/vtexdocs/vtexhelp-nav-cli.git >> "$LOG" 2>&1
+              CLONE_STATUS=$?
+            fi
+            if [ $CLONE_STATUS -ne 0 ]; then
+              echo "Still failing, trying curl + unzip approach..." >> "$LOG"
+              curl -L https://github.com/vtexdocs/vtexhelp-nav-cli/archive/refs/heads/main.zip -o vtexhelp-nav-cli.zip >> "$LOG" 2>&1
+              CURL_STATUS=$?
+              if [ $CURL_STATUS -eq 0 ]; then
+                unzip -q vtexhelp-nav-cli.zip && mv vtexhelp-nav-cli-main vtexhelp-nav-cli
+                CLONE_STATUS=0
+                echo "Successfully downloaded via curl+unzip" >> "$LOG"
+              else
+                echo "curl download also failed (exit $CURL_STATUS)" >> "$LOG"
+              fi
+            fi
+            if [ $CLONE_STATUS -ne 0 ]; then
+              echo "git clone failed (exit $CLONE_STATUS)" >> "$LOG"
+            else
+              (
+                set -e
+                cd vtexhelp-nav-cli
+                if [ -f yarn.lock ]; then
+                  if command -v corepack >/dev/null 2>&1; then corepack enable; else echo "corepack not found, skipping enable"; fi
+                  if command -v corepack >/dev/null 2>&1; then corepack prepare yarn@stable --activate; else echo "corepack not found, skipping prepare"; fi
+                  yarn install --frozen-lockfile || yarn install
+                  yarn add axios dotenv
+                  yarn build
+                else
+                  npm ci || npm install --no-audit --no-fund
+                  npm install --no-audit --no-fund axios dotenv
+                  npm run build
+                fi
+              ) >> "$LOG" 2>&1
+              BUILD_STATUS=$?
+              if [ $BUILD_STATUS -eq 0 ]; then
+                node vtexhelp-nav-cli/dist/cli.js gen --content-dir . --output public/navigation.json ${EXTRA_ARGS} >> "$LOG" 2>&1
+                GEN_STATUS=$?
+              else
+                echo "CLI build failed (exit $BUILD_STATUS)" >> "$LOG"
+              fi
+            fi
+          fi
+          set -e
+          echo "Generator exit code: $GEN_STATUS" >> "$LOG"
+          echo "=== END OF LOG ===" >> "$LOG"
+          if [ $GEN_STATUS -ne 0 ]; then
+            echo "Generator exited with code $GEN_STATUS"
+            exit $GEN_STATUS
+          fi
+
+      - name: Upload generated navigation as artifact
+        id: upload_nav
+        uses: actions/upload-artifact@v4
+        with:
+          name: navigation-json
+          path: public/navigation.json
+          compression-level: 0
+          if-no-files-found: error
+
+      - name: Upload generation log as artifact
+        if: ${{ always() }}
+        id: upload_log
+        uses: actions/upload-artifact@v4
+        with:
+          name: navgen-log
+          path: .navgen.log
+          compression-level: 0
+          if-no-files-found: warn
+          include-hidden-files: true
+
+      - name: Summarize navigation (job summary)
+        if: ${{ always() }}
+        env:
+          ARTIFACT_URL: ${{ steps.upload_nav.outputs.artifact-url }}
+        run: |
+          set -e
+          FILE="public/navigation.json"
+          LOG="${{ github.workspace }}/.navgen.log"
+          if [ -f "$FILE" ]; then
+            BYTES=$(stat -c%s "$FILE" 2>/dev/null || wc -c < "$FILE")
+            HUMAN=$(numfmt --to=iec "$BYTES" 2>/dev/null || echo "${BYTES} bytes")
+            SHA256=$(sha256sum "$FILE" | awk '{print $1}')
+          else
+            BYTES=0
+            HUMAN="0 bytes"
+            SHA256="N/A"
+          fi
+          
+          # Extract key metrics from log
+          FILES_PROCESSED=$(grep -E 'Files processed:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Files processed:[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          FILES_SKIPPED=$(grep -E 'Files skipped \(parse errors\):' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Files skipped \(parse errors\):[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          CATEGORIES=$(grep -E 'Categories:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Categories:[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          DOCUMENTS=$(grep -E 'Documents:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Documents:[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          VALIDATION=$(grep -E 'Validation:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Validation:[[:space:]]*([A-Za-z]+).*/\1/' || echo "UNKNOWN")
+          PARSE_ERRORS=$(grep -E 'Parse errors:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Parse errors:[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          DUPLICATE_CONFLICTS=$(grep -E 'Duplicate slug conflicts:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Duplicate slug conflicts:[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          DURATION=$(grep -E 'Duration:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Duration:[[:space:]]*([0-9]+[a-z]*).*/\1/' || echo "unknown")
+          
+          # Extract error samples for PR comment
+          PARSE_ERROR_SAMPLES=$(grep -E '^❌ Failed to parse markdown file:' "$LOG" 2>/dev/null | head -10 | sed 's/^❌ Failed to parse markdown file: /- /' || true)
+          DUPLICATE_SLUG_SAMPLES=$(grep -E '^❌ Duplicate slug' "$LOG" 2>/dev/null | head -10 | sed 's/^❌ /- /' || true)
+          
+          # Extract language coverage
+          LANG_COVERAGE=$(awk '/Language Coverage:/,/^$/' "$LOG" 2>/dev/null | grep -E '^[[:space:]]*[A-Z]{2}:' | sed 's/^/  /' || true)
+          
+          # Extract error samples (first few parse errors and duplicate slugs)
+          PARSE_ERROR_SAMPLES=$(grep -E '^❌ Failed to parse markdown file:' "$LOG" 2>/dev/null | head -5 | sed 's/^❌ Failed to parse markdown file: /- /' || true)
+          DUPLICATE_SLUG_SAMPLES=$(grep -E '^❌ Duplicate slug' "$LOG" 2>/dev/null | head -5 | sed 's/^❌ /- /' || true)
+
+          {
+            echo "## Navigation generation report"
+            echo ""
+            echo "- **Output file**: $FILE"
+            echo "- **Size**: $BYTES bytes ($HUMAN)"
+            echo "- **SHA256**: \`$SHA256\`"
+            echo "- **Duration**: $DURATION"
+            if [ -n "$ARTIFACT_URL" ]; then
+              echo "- **Artifact**: $ARTIFACT_URL"
+            fi
+            echo ""
+            echo "### 📊 Statistics"
+            echo "- **Files processed**: $FILES_PROCESSED"
+            echo "- **Files skipped (parse errors)**: $FILES_SKIPPED"
+            echo "- **Categories**: $CATEGORIES"
+            echo "- **Documents**: $DOCUMENTS"
+            echo "- **Validation**: $VALIDATION"
+            echo "- **Parse errors**: $PARSE_ERRORS"
+            echo "- **Duplicate slug conflicts**: $DUPLICATE_CONFLICTS"
+            echo ""
+            if [ -n "$LANG_COVERAGE" ]; then
+              echo "### 🌍 Language coverage"
+              echo "$LANG_COVERAGE"
+              echo ""
+            fi
+            if [ -n "$PARSE_ERROR_SAMPLES" ] && [ "$PARSE_ERRORS" != "0" ]; then
+              echo "### ⚠️ Sample parse errors"
+              echo "$PARSE_ERROR_SAMPLES"
+              echo ""
+            fi
+            if [ -n "$DUPLICATE_SLUG_SAMPLES" ] && [ "$DUPLICATE_CONFLICTS" != "0" ]; then
+              echo "### 🔗 Sample duplicate slug conflicts"
+              echo "$DUPLICATE_SLUG_SAMPLES"
+              echo ""
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit changes back to branch (if any)
+        id: commit_changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          echo "committed=false" >> "$GITHUB_OUTPUT"
+          echo "commit_sha=" >> "$GITHUB_OUTPUT"
+
+          if [ ! -f public/navigation.json ]; then
+            echo "No navigation.json file generated - nothing to commit"
+            exit 0
+          fi
+
+          TARGET_BRANCH="${{ inputs.target_branch || '' }}"
+          if [ -z "$TARGET_BRANCH" ]; then
+            echo "No target_branch input provided - skipping commit"
+            exit 0
+          fi
+
+          git add public/navigation.json
+
+          if git diff --quiet --exit-code --cached public/navigation.json; then
+            echo "No changes to navigation.json - nothing to commit"
+            git reset public/navigation.json
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(nav): update navigation.json via vtexhelp-nav-cli"
+          NEW_SHA=$(git rev-parse HEAD)
+          git push origin HEAD:"$TARGET_BRANCH"
+
+          echo "committed=true" >> "$GITHUB_OUTPUT"
+          echo "commit_sha=$NEW_SHA" >> "$GITHUB_OUTPUT"
+
+      - name: Create or update PR comment with navigation report
+        if: ${{ inputs.enable_pr_comment }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LOG_ARTIFACT_URL: ${{ steps.upload_log.outputs.artifact-url }}
+          AUTO_COMMIT: ${{ steps.commit_changes.outputs.committed }}
+          AUTO_COMMIT_SHA: ${{ steps.commit_changes.outputs.commit_sha }}
+          PR_NUMBER: ${{ inputs.pr_number }}
+          PR_HEAD_SHA: ${{ inputs.pr_head_sha }}
+        run: |
+          set -e
+          FILE="public/navigation.json"
+          LOG="${{ github.workspace }}/.navgen.log"
+
+          # Get commit info
+          COMMIT_SHA="$PR_HEAD_SHA"
+          COMMIT_TIME=$(git show -s --format=%ci "$COMMIT_SHA" 2>/dev/null || date -u +"%Y-%m-%d %H:%M:%S UTC")
+
+          # Extract metrics (same as in summary step)
+          if [ -f "$FILE" ]; then
+            BYTES=$(stat -c%s "$FILE" 2>/dev/null || wc -c < "$FILE")
+            HUMAN=$(numfmt --to=iec "$BYTES" 2>/dev/null || echo "${BYTES} bytes")
+            SHA256=$(sha256sum "$FILE" | awk '{print $1}')
+          else
+            BYTES=0
+            HUMAN="0 bytes"
+            SHA256="N/A"
+          fi
+
+          FILES_PROCESSED=$(grep -E 'Files processed:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Files processed:[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          FILES_SKIPPED=$(grep -E 'Files skipped \(parse errors\):' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Files skipped \(parse errors\):[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          CATEGORIES=$(grep -E 'Categories:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Categories:[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          DOCUMENTS=$(grep -E 'Documents:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Documents:[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          VALIDATION=$(grep -E 'Validation:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Validation:[[:space:]]*([A-Za-z]+).*/\1/' || echo "UNKNOWN")
+          PARSE_ERRORS=$(grep -E 'Parse errors:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Parse errors:[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          DUPLICATE_CONFLICTS=$(grep -E 'Duplicate slug conflicts:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Duplicate slug conflicts:[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          DURATION=$(grep -E 'Duration:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Duration:[[:space:]]*([0-9]+[a-z]*).*/\1/' || echo "unknown")
+
+          # Extract error samples for PR comment
+          PARSE_ERROR_SAMPLES=$(grep -E '^❌ Failed to parse markdown file:' "$LOG" 2>/dev/null | head -10 | sed 's/^❌ Failed to parse markdown file: /- /' || true)
+          DUPLICATE_SLUG_SAMPLES=$(grep -E '^❌ Duplicate slug' "$LOG" 2>/dev/null | head -10 | sed 's/^❌ /- /' || true)
+
+          # Determine validation emoji and detailed message based on status
+          if [ "$VALIDATION" = "FAILED" ]; then
+            VALIDATION_EMOJI="❌"
+            VALIDATION_DETAILS="**Parse errors**: $PARSE_ERRORS files could not be processed • **Duplicate conflicts**: $DUPLICATE_CONFLICTS slug conflicts found"
+          else
+            VALIDATION_EMOJI="✅"
+            if [ "$PARSE_ERRORS" = "0" ] && [ "$DUPLICATE_CONFLICTS" = "0" ]; then
+              VALIDATION_DETAILS="All files processed successfully with no conflicts"
+            else
+              VALIDATION_DETAILS="**Parse errors**: $PARSE_ERRORS • **Duplicate conflicts**: $DUPLICATE_CONFLICTS"
+            fi
+          fi
+
+          # Build collapsible error sections
+          PARSE_ERRORS_SECTION=""
+          if [ -n "$PARSE_ERROR_SAMPLES" ] && [ "$PARSE_ERRORS" != "0" ]; then
+            PARSE_ERRORS_SECTION="<details>
+          <summary><strong>⚠️ Parse Errors ($PARSE_ERRORS files)</strong></summary>
+          
+          $PARSE_ERROR_SAMPLES
+          
+          </details>"
+          fi
+
+          DUPLICATE_CONFLICTS_SECTION=""
+          if [ -n "$DUPLICATE_SLUG_SAMPLES" ] && [ "$DUPLICATE_CONFLICTS" != "0" ]; then
+            DUPLICATE_CONFLICTS_SECTION="<details>
+          <summary><strong>🔗 Duplicate Slug Conflicts ($DUPLICATE_CONFLICTS conflicts)</strong></summary>
+          
+          $DUPLICATE_SLUG_SAMPLES
+          
+          </details>"
+          fi
+
+          # Create comment body
+          COMMENT_BODY=$(cat << 'EOF'
+          ## 🧭 Navigation Generation Report
+          
+          ### VALIDATION_EMOJI_PLACEHOLDER Validation Status: VALIDATION_PLACEHOLDER
+          VALIDATION_DETAILS_PLACEHOLDER
+          
+          AUTOCOMMIT_LINE_PLACEHOLDER
+          
+          <details>
+          <summary><strong>📊 Generation Details</strong> (click to expand)</summary>
+          
+          | **Commit** | **Date** | **Duration** |
+          |------------|----------|------|
+          | `COMMIT_SHA_PLACEHOLDER` | COMMIT_TIME_PLACEHOLDER | DURATION_PLACEHOLDER |
+          
+          | **Metric** | **Value** | **Output** | **Details** |
+          |------------|-----------|------------|-------------|
+          | Files processed | FILES_PROCESSED_PLACEHOLDER | Path | `FILE_PLACEHOLDER` |
+          | Files skipped | FILES_SKIPPED_PLACEHOLDER | Size | HUMAN_PLACEHOLDER |
+          | Categories | CATEGORIES_PLACEHOLDER | SHA256 | `SHA256_PLACEHOLDER` |
+          | Documents | DOCUMENTS_PLACEHOLDER | Duplicate conflicts | DUPLICATE_CONFLICTS_PLACEHOLDER |
+          
+          PARSE_ERRORS_SECTION_PLACEHOLDER
+          
+          DUPLICATE_CONFLICTS_SECTION_PLACEHOLDER
+          
+          **📋 Generation Log**: LOG_LINK_PLACEHOLDER
+          
+          </details>
+          
+          ---
+          *Generated by [nav-core workflow](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }})*
+          EOF
+          )
+
+          # Add log link if available
+          if [ -n "$LOG_ARTIFACT_URL" ]; then
+            LOG_LINK="- **Full log**: [Download navgen.log]($LOG_ARTIFACT_URL)"
+          else
+            LOG_LINK="- **Full log**: Not available"
+          fi
+
+          # Build auto-commit line
+          if [ "$AUTO_COMMIT" = "true" ]; then
+            AC_EMOJI="📝"
+            if [ -n "$AUTO_COMMIT_SHA" ]; then
+              AC_TEXT="Navigation changes committed by workflow (commit $AUTO_COMMIT_SHA)"
+            else
+              AC_TEXT="Navigation changes committed by workflow"
+            fi
+          elif [ "$AUTO_COMMIT" = "false" ]; then
+            AC_EMOJI="ℹ️"
+            AC_TEXT="No navigation changes to commit"
+          else
+            AC_EMOJI="ℹ️"
+            AC_TEXT="Auto-commit skipped or not applicable"
+          fi
+          AUTOCOMMIT_LINE="**$AC_EMOJI Auto-commit**: $AC_TEXT"
+
+          # Replace placeholders
+          COMMENT_BODY="${COMMENT_BODY//COMMIT_SHA_PLACEHOLDER/$COMMIT_SHA}"
+          COMMENT_BODY="${COMMENT_BODY//COMMIT_TIME_PLACEHOLDER/$COMMIT_TIME}"
+          COMMENT_BODY="${COMMENT_BODY//FILES_PROCESSED_PLACEHOLDER/$FILES_PROCESSED}"
+          COMMENT_BODY="${COMMENT_BODY//FILES_SKIPPED_PLACEHOLDER/$FILES_SKIPPED}"
+          COMMENT_BODY="${COMMENT_BODY//CATEGORIES_PLACEHOLDER/$CATEGORIES}"
+          COMMENT_BODY="${COMMENT_BODY//DOCUMENTS_PLACEHOLDER/$DOCUMENTS}"
+          COMMENT_BODY="${COMMENT_BODY//DURATION_PLACEHOLDER/$DURATION}"
+          COMMENT_BODY="${COMMENT_BODY//FILE_PLACEHOLDER/$FILE}"
+          COMMENT_BODY="${COMMENT_BODY//HUMAN_PLACEHOLDER/$HUMAN}"
+          COMMENT_BODY="${COMMENT_BODY//SHA256_PLACEHOLDER/$SHA256}"
+          COMMENT_BODY="${COMMENT_BODY//VALIDATION_EMOJI_PLACEHOLDER/$VALIDATION_EMOJI}"
+          COMMENT_BODY="${COMMENT_BODY//VALIDATION_PLACEHOLDER/$VALIDATION}"
+          COMMENT_BODY="${COMMENT_BODY//VALIDATION_DETAILS_PLACEHOLDER/$VALIDATION_DETAILS}"
+          COMMENT_BODY="${COMMENT_BODY//PARSE_ERRORS_PLACEHOLDER/$PARSE_ERRORS}"
+          COMMENT_BODY="${COMMENT_BODY//DUPLICATE_CONFLICTS_PLACEHOLDER/$DUPLICATE_CONFLICTS}"
+          COMMENT_BODY="${COMMENT_BODY//PARSE_ERRORS_SECTION_PLACEHOLDER/$PARSE_ERRORS_SECTION}"
+          COMMENT_BODY="${COMMENT_BODY//DUPLICATE_CONFLICTS_SECTION_PLACEHOLDER/$DUPLICATE_CONFLICTS_SECTION}"
+          COMMENT_BODY="${COMMENT_BODY//LOG_LINK_PLACEHOLDER/$LOG_LINK}"
+          COMMENT_BODY="${COMMENT_BODY//AUTOCOMMIT_LINE_PLACEHOLDER/$AUTOCOMMIT_LINE}"
+
+          # Find existing comment
+          if [ -n "$PR_NUMBER" ]; then
+            EXISTING_COMMENT_ID=$(gh pr view "$PR_NUMBER" --json comments --jq '.comments[] | select(.body | contains("🧭 Navigation Generation Report")) | .id' | head -1 || true)
+
+            if [ -n "$EXISTING_COMMENT_ID" ]; then
+              echo "Updating existing comment ID: $EXISTING_COMMENT_ID"
+              echo "$COMMENT_BODY" | gh pr comment "$PR_NUMBER" --edit-last --body-file -
+            else
+              echo "Creating new comment"
+              echo "$COMMENT_BODY" | gh pr comment "$PR_NUMBER" --body-file -
+            fi
+          else
+            echo "PR_NUMBER not provided; skipping PR comment creation"
+          fi
