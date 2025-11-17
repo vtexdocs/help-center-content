@@ -1,0 +1,33 @@
+name: Generate navigation on dispatch
+
+on:
+  repository_dispatch:
+    types: [known-issues-updated]
+  workflow_dispatch:
+    inputs:
+      target_branch:
+        description: "Branch to regenerate navigation on"
+        required: false
+        default: "main"
+      ref:
+        description: "Ref to checkout (defaults to target_branch or the current ref)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nav-dispatch-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-nav:
+    name: Build navigation (dispatch)
+    uses: ./.github/workflows/nav-core.yml
+    with:
+      ref: ${{ github.event_name == 'repository_dispatch' && github.event.client_payload.target_branch || github.event_name == 'workflow_dispatch' && (inputs.ref != '' && inputs.ref || inputs.target_branch) || github.ref }}
+      target_branch: ${{ github.event_name == 'repository_dispatch' && github.event.client_payload.target_branch || github.event_name == 'workflow_dispatch' && inputs.target_branch || 'main' }}
+      enable_pr_comment: false
+    secrets:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

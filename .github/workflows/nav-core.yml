@@ -1,29 +1,174 @@
-name: Generate navigation on PR
+name: Navigation core
 
 on:
-  pull_request:
-    types: [opened, synchronize, reopened]
-
-permissions:
-  contents: write
-  pull-requests: write
-
-concurrency:
-  group: nav-${{ github.ref }}
-  cancel-in-progress: true
+  workflow_call:
+    inputs:
+      ref:
+        description: 'Git ref to checkout for navigation generation'
+        required: false
+        type: string
+      target_branch:
+        description: 'Branch to push navigation.json to (for commit step)'
+        required: false
+        type: string
+      enable_pr_comment:
+        description: 'Whether to create or update a PR comment with the navigation report'
+        required: false
+        type: boolean
+        default: false
+      pr_number:
+        description: 'Pull request number (required when enable_pr_comment is true)'
+        required: false
+        type: number
+      pr_head_sha:
+        description: 'Head commit SHA for the PR (for reporting)'
+        required: false
+        type: string
+    secrets:
+      GITHUB_TOKEN:
+        required: true
 
 jobs:
   build-nav:
     name: Build navigation
-    uses: ./.github/workflows/nav-core.yml
-    with:
-      ref: ${{ github.head_ref }}
-      target_branch: ${{ github.head_ref }}
-      enable_pr_comment: true
-      pr_number: ${{ github.event.number }}
-      pr_head_sha: ${{ github.event.pull_request.head.sha }}
-    secrets:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ inputs.ref || github.ref }}
+          filter: blob:none
+          sparse-checkout: |
+            /**/*.md
+            /**/*.mdx
+            /**/*.json
+            /**/*.yml
+            public/
+          sparse-checkout-cone-mode: false
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate navigation directly into public/
+        working-directory: ${{ github.workspace }}
+        env:
+          REQUEST_TIMEOUT: "60000"
+        run: |
+          set -e
+          mkdir -p public
+          LOG="${{ github.workspace }}/.navgen.log"
+          : > "$LOG"
+          EXTRA_ARGS=""
+          if [ "${ACT}" = "true" ]; then
+            # Speed up local runs under act to avoid long scans/logs
+            EXTRA_ARGS="--languages en --sections announcements"
+          fi
+          echo "Running generator with npx (github shorthand first, then git+https), with clone+build fallback. Extra args: ${EXTRA_ARGS}"
+          # Capture output for summary; don't let the pipe hide failures
+          set +e
+          # 1) Try GitHub shorthand (tarball install) — avoids git when possible
+          npx --yes --package="github:vtexdocs/vtexhelp-nav-cli#main" --package=axios --package=dotenv \
+            vtex-nav gen --content-dir . --output public/navigation.json ${EXTRA_ARGS} > "$LOG" 2>&1
+          GEN_STATUS=$?
+          if [ $GEN_STATUS -ne 0 ]; then
+            echo "npx via github: failed (exit $GEN_STATUS). Retrying via git+https..." >> "$LOG"
+            npx --yes --package="git+https://github.com/vtexdocs/vtexhelp-nav-cli.git#main" --package=axios --package=dotenv \
+              vtex-nav gen --content-dir . --output public/navigation.json ${EXTRA_ARGS} >> "$LOG" 2>&1
+            GEN_STATUS=$?
+          fi
+          if [ $GEN_STATUS -ne 0 ]; then
+            echo "npx failed (exit $GEN_STATUS). Falling back to clone+build path..." >> "$LOG"
+            rm -rf vtexhelp-nav-cli
+            echo "Trying different clone methods..." >> "$LOG"
+            # Try multiple clone approaches
+            git clone --filter=blob:none --depth 1 https://github.com/vtexdocs/vtexhelp-nav-cli.git >> "$LOG" 2>&1
+            CLONE_STATUS=$?
+            if [ $CLONE_STATUS -ne 0 ]; then
+              echo "HTTPS clone failed, trying with per-command SSL verification disabled..." >> "$LOG"
+              git -c http.sslverify=false clone --filter=blob:none --depth 1 https://github.com/vtexdocs/vtexhelp-nav-cli.git >> "$LOG" 2>&1
+              CLONE_STATUS=$?
+            fi
+            if [ $CLONE_STATUS -ne 0 ]; then
+              echo "Still failing, trying curl + unzip approach..." >> "$LOG"
+              curl -L https://github.com/vtexdocs/vtexhelp-nav-cli/archive/refs/heads/main.zip -o vtexhelp-nav-cli.zip >> "$LOG" 2>&1
+              CURL_STATUS=$?
+              if [ $CURL_STATUS -eq 0 ]; then
+                unzip -q vtexhelp-nav-cli.zip && mv vtexhelp-nav-cli-main vtexhelp-nav-cli
+                CLONE_STATUS=0
+                echo "Successfully downloaded via curl+unzip" >> "$LOG"
+              else
+                echo "curl download also failed (exit $CURL_STATUS)" >> "$LOG"
+              fi
+            fi
+            if [ $CLONE_STATUS -ne 0 ]; then
+              echo "git clone failed (exit $CLONE_STATUS)" >> "$LOG"
+            else
+              (
+                set -e
+                cd vtexhelp-nav-cli
+                if [ -f yarn.lock ]; then
+                  if command -v corepack >/dev/null 2>&1; then corepack enable; else echo "corepack not found, skipping enable"; fi
+                  if command -v corepack >/dev/null 2>&1; then corepack prepare yarn@stable --activate; else echo "corepack not found, skipping prepare"; fi
+                  yarn install --frozen-lockfile || yarn install
+                  yarn add axios dotenv
+                  yarn build
+                else
+                  npm ci || npm install --no-audit --no-fund
+                  npm install --no-audit --no-fund axios dotenv
+                  npm run build
+                fi
+              ) >> "$LOG" 2>&1
+              BUILD_STATUS=$?
+              if [ $BUILD_STATUS -eq 0 ]; then
+                node vtexhelp-nav-cli/dist/cli.js gen --content-dir . --output public/navigation.json ${EXTRA_ARGS} >> "$LOG" 2>&1
+                GEN_STATUS=$?
+              else
+                echo "CLI build failed (exit $BUILD_STATUS)" >> "$LOG"
+              fi
+            fi
+          fi
+          set -e
+          echo "Generator exit code: $GEN_STATUS" >> "$LOG"
+          echo "=== END OF LOG ===" >> "$LOG"
+          if [ $GEN_STATUS -ne 0 ]; then
+            echo "Generator exited with code $GEN_STATUS"
+            exit $GEN_STATUS
+          fi
+
+      - name: Upload generated navigation as artifact
+        id: upload_nav
+        uses: actions/upload-artifact@v4
+        with:
+          name: navigation-json
+          path: public/navigation.json
+          compression-level: 0
+          if-no-files-found: error
+
+      - name: Upload generation log as artifact
+        if: ${{ always() }}
+        id: upload_log
+        uses: actions/upload-artifact@v4
+        with:
+          name: navgen-log
+          path: .navgen.log
+          compression-level: 0
+          if-no-files-found: warn
+          include-hidden-files: true
+
+      - name: Summarize navigation (job summary)
+        if: ${{ always() }}
+        env:
+          ARTIFACT_URL: ${{ steps.upload_nav.outputs.artifact-url }}
+        run: |
+          set -e
+          FILE="public/navigation.json"
+          LOG="${{ github.workspace }}/.navgen.log"
+          if [ -f "$FILE" ]; then
+            BYTES=$(stat -c%s "$FILE" 2>/dev/null || wc -c < "$FILE")
             HUMAN=$(numfmt --to=iec "$BYTES" 2>/dev/null || echo "${BYTES} bytes")
             SHA256=$(sha256sum "$FILE" | awk '{print $1}')
           else
@@ -90,15 +235,12 @@ jobs:
             fi
           } >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Commit changes back to PR branch (if any)
+      - name: Commit changes back to branch (if any)
         id: commit_changes
-        # Skip when running under act locally
-        if: ${{ github.event_name == 'pull_request' && env.ACT != 'true' }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
-          # Default outputs
           echo "committed=false" >> "$GITHUB_OUTPUT"
           echo "commit_sha=" >> "$GITHUB_OUTPUT"
 
@@ -106,43 +248,48 @@ jobs:
             echo "No navigation.json file generated - nothing to commit"
             exit 0
           fi
-          
-          # Add the file first so git can track it for diff
-          git add public/navigation.json
-          
-          # Check if there are any changes to commit (handles both new and modified files)
-          if git diff --quiet --exit-code --cached public/navigation.json; then
-            echo "No changes to navigation.json - nothing to commit"
-            git reset public/navigation.json  # unstage if no changes
+
+          TARGET_BRANCH="${{ inputs.target_branch || '' }}"
+          if [ -z "$TARGET_BRANCH" ]; then
+            echo "No target_branch input provided - skipping commit"
             exit 0
           fi
-          
+
+          git add public/navigation.json
+
+          if git diff --quiet --exit-code --cached public/navigation.json; then
+            echo "No changes to navigation.json - nothing to commit"
+            git reset public/navigation.json
+            exit 0
+          fi
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "chore(nav): update navigation.json via vtexhelp-nav-cli"
           NEW_SHA=$(git rev-parse HEAD)
-          # Push using HEAD:branch syntax to handle detached HEAD state
-          git push origin HEAD:${{ github.head_ref }}
-          # Set outputs
+          git push origin HEAD:"$TARGET_BRANCH"
+
           echo "committed=true" >> "$GITHUB_OUTPUT"
           echo "commit_sha=$NEW_SHA" >> "$GITHUB_OUTPUT"
 
       - name: Create or update PR comment with navigation report
-        if: ${{ github.event_name == 'pull_request' }}
+        if: ${{ inputs.enable_pr_comment }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LOG_ARTIFACT_URL: ${{ steps.upload_log.outputs.artifact-url }}
           AUTO_COMMIT: ${{ steps.commit_changes.outputs.committed }}
           AUTO_COMMIT_SHA: ${{ steps.commit_changes.outputs.commit_sha }}
+          PR_NUMBER: ${{ inputs.pr_number }}
+          PR_HEAD_SHA: ${{ inputs.pr_head_sha }}
         run: |
           set -e
           FILE="public/navigation.json"
           LOG="${{ github.workspace }}/.navgen.log"
-          
+
           # Get commit info
-          COMMIT_SHA="${{ github.event.pull_request.head.sha }}"
+          COMMIT_SHA="$PR_HEAD_SHA"
           COMMIT_TIME=$(git show -s --format=%ci "$COMMIT_SHA" 2>/dev/null || date -u +"%Y-%m-%d %H:%M:%S UTC")
-          
+
           # Extract metrics (same as in summary step)
           if [ -f "$FILE" ]; then
             BYTES=$(stat -c%s "$FILE" 2>/dev/null || wc -c < "$FILE")
@@ -153,7 +300,7 @@ jobs:
             HUMAN="0 bytes"
             SHA256="N/A"
           fi
-          
+
           FILES_PROCESSED=$(grep -E 'Files processed:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Files processed:[[:space:]]*([0-9]+).*/\1/' || echo "0")
           FILES_SKIPPED=$(grep -E 'Files skipped \(parse errors\):' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Files skipped \(parse errors\):[[:space:]]*([0-9]+).*/\1/' || echo "0")
           CATEGORIES=$(grep -E 'Categories:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Categories:[[:space:]]*([0-9]+).*/\1/' || echo "0")
@@ -162,11 +309,11 @@ jobs:
           PARSE_ERRORS=$(grep -E 'Parse errors:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Parse errors:[[:space:]]*([0-9]+).*/\1/' || echo "0")
           DUPLICATE_CONFLICTS=$(grep -E 'Duplicate slug conflicts:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Duplicate slug conflicts:[[:space:]]*([0-9]+).*/\1/' || echo "0")
           DURATION=$(grep -E 'Duration:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Duration:[[:space:]]*([0-9]+[a-z]*).*/\1/' || echo "unknown")
-          
+
           # Extract error samples for PR comment
           PARSE_ERROR_SAMPLES=$(grep -E '^❌ Failed to parse markdown file:' "$LOG" 2>/dev/null | head -10 | sed 's/^❌ Failed to parse markdown file: /- /' || true)
           DUPLICATE_SLUG_SAMPLES=$(grep -E '^❌ Duplicate slug' "$LOG" 2>/dev/null | head -10 | sed 's/^❌ /- /' || true)
-          
+
           # Determine validation emoji and detailed message based on status
           if [ "$VALIDATION" = "FAILED" ]; then
             VALIDATION_EMOJI="❌"
@@ -179,7 +326,7 @@ jobs:
               VALIDATION_DETAILS="**Parse errors**: $PARSE_ERRORS • **Duplicate conflicts**: $DUPLICATE_CONFLICTS"
             fi
           fi
-          
+
           # Build collapsible error sections
           PARSE_ERRORS_SECTION=""
           if [ -n "$PARSE_ERROR_SAMPLES" ] && [ "$PARSE_ERRORS" != "0" ]; then
@@ -190,7 +337,7 @@ jobs:
           
           </details>"
           fi
-          
+
           DUPLICATE_CONFLICTS_SECTION=""
           if [ -n "$DUPLICATE_SLUG_SAMPLES" ] && [ "$DUPLICATE_CONFLICTS" != "0" ]; then
             DUPLICATE_CONFLICTS_SECTION="<details>
@@ -200,7 +347,7 @@ jobs:
           
           </details>"
           fi
-          
+
           # Create comment body
           COMMENT_BODY=$(cat << 'EOF'
           ## 🧭 Navigation Generation Report
@@ -233,10 +380,10 @@ jobs:
           </details>
           
           ---
-          *Generated by [nav-generation workflow](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }})*
+          *Generated by [nav-core workflow](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }})*
           EOF
           )
-          
+
           # Add log link if available
           if [ -n "$LOG_ARTIFACT_URL" ]; then
             LOG_LINK="- **Full log**: [Download navgen.log]($LOG_ARTIFACT_URL)"
@@ -260,7 +407,7 @@ jobs:
             AC_TEXT="Auto-commit skipped or not applicable"
           fi
           AUTOCOMMIT_LINE="**$AC_EMOJI Auto-commit**: $AC_TEXT"
-          
+
           # Replace placeholders
           COMMENT_BODY="${COMMENT_BODY//COMMIT_SHA_PLACEHOLDER/$COMMIT_SHA}"
           COMMENT_BODY="${COMMENT_BODY//COMMIT_TIME_PLACEHOLDER/$COMMIT_TIME}"
@@ -281,15 +428,18 @@ jobs:
           COMMENT_BODY="${COMMENT_BODY//DUPLICATE_CONFLICTS_SECTION_PLACEHOLDER/$DUPLICATE_CONFLICTS_SECTION}"
           COMMENT_BODY="${COMMENT_BODY//LOG_LINK_PLACEHOLDER/$LOG_LINK}"
           COMMENT_BODY="${COMMENT_BODY//AUTOCOMMIT_LINE_PLACEHOLDER/$AUTOCOMMIT_LINE}"
-          
-          # Find existing comment
-          EXISTING_COMMENT_ID=$(gh pr view ${{ github.event.number }} --json comments --jq '.comments[] | select(.body | contains("🧭 Navigation Generation Report")) | .id' | head -1 || true)
-          
-          if [ -n "$EXISTING_COMMENT_ID" ]; then
-            echo "Updating existing comment ID: $EXISTING_COMMENT_ID"
-            echo "$COMMENT_BODY" | gh pr comment ${{ github.event.number }} --edit-last --body-file -
-          else
-            echo "Creating new comment"
-            echo "$COMMENT_BODY" | gh pr comment ${{ github.event.number }} --body-file -
-          fi
 
+          # Find existing comment
+          if [ -n "$PR_NUMBER" ]; then
+            EXISTING_COMMENT_ID=$(gh pr view "$PR_NUMBER" --json comments --jq '.comments[] | select(.body | contains("🧭 Navigation Generation Report")) | .id' | head -1 || true)
+
+            if [ -n "$EXISTING_COMMENT_ID" ]; then
+              echo "Updating existing comment ID: $EXISTING_COMMENT_ID"
+              echo "$COMMENT_BODY" | gh pr comment "$PR_NUMBER" --edit-last --body-file -
+            else
+              echo "Creating new comment"
+              echo "$COMMENT_BODY" | gh pr comment "$PR_NUMBER" --body-file -
+            fi
+          else
+            echo "PR_NUMBER not provided; skipping PR comment creation"
+          fi
