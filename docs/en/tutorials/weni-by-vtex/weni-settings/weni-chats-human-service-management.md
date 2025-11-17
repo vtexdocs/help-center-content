@@ -47,7 +47,7 @@ The process is the same as adding users to the Organization:
 
 If the user will only handle human support, add them only to the project without needing to add them to the organization.
 
-To learn more about permissions, [read this article](https://ilhasoft.helpdocs.io/l/pt/atendimento-humano/weni-chats-conhecendo-o-m-dulo-de-chat-demo).
+To learn more about permissions, [read this article](https://help.vtex.com/docs/tutorials/weni-chats-human-service-management).
 
 After assigning the correct permission to the user, the chat module will be available, and they will be a support agent. Now, simply add them to the queue, they will manage.
 
