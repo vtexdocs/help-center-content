@@ -20,7 +20,9 @@ essential.
 
 WARNING: If contacts are not added to a control group, the chatbot will
 conflict and stop human service by sending the default messages configured in
-your environment.### Adding contacts to the control group
+your environment.
+
+### Adding contacts to the control group
 
 In this article we will refer to the control group as `Human Attendance.`
 
