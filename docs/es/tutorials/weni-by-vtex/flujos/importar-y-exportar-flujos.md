@@ -20,7 +20,8 @@ Hay muchas razones por las que podríamos querer importar y exportar flujos, des
 ### Exportación
 
 Existen dos maneras de acceder a la página de exportación de flujos.
-  1. **Primer Camino: A través del Editor de Flujos**
+
+1. **Primer Camino: A través del Editor de Flujos**
 Para acceder a la página de exportación a través del editor de flujos, simplemente ve al menú de opciones y haz clic en el botón ""Exportar Definición"".
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/importar-y-exportar-flujos_1.png)
@@ -29,14 +30,14 @@ O también desde el módulo de flujos
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/importar-y-exportar-flujos_2.png)
 
-Puedes aprender más sobre el [Editor de Flujos y sus herramientas](/l/es/flujos/editor-de-flujo-y-sus-herramientas) haciendo clic en el enlace.
+Puedes aprender más sobre el [Editor de Flujos y sus herramientas](https://help.vtex.com/es/docs/tutorials/editor-de-flujo-y-sus-herramientas) haciendo clic en el enlace.
 
   2. **Segundo Camino: A través de Configuraciones Generales de la Organización**
 Para acceder a la página de exportación desde las configuraciones generales de la organización, simplemente ve al menú de opciones y haz clic en el botón ""Exportar"".
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/importar-y-exportar-flujos_3.png)
 
-Puedes aprender más sobre las [Configuraciones Generales](/l/es/configuracionesgenerales/configuraciones-generales-de-la-organizacion) de la Organización haciendo clic en el enlace.
+Puedes aprender más sobre las [Configuraciones Generales](https://help.vtex.com/es/docs/tutorials/configuraciones-generales-de-proyecto) de la Organización haciendo clic en el enlace.
 
 Una vez en la página de exportación, te mostrará todos los flujos y campañas de esa organización, agrupados por uso, es decir, todos los flujos de un mismo grupo interactúan entre sí.
 

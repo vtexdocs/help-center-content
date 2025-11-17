@@ -23,6 +23,7 @@ In flows, these steps can be actions or decisions, which allow for the creation 
 
 #### Anatomy of a flow
 In the image above, we have an example of a flow for a simple survey. In it, we can see decision cards, action cards, and note cards that together form the structure for the following conversation: send a question that needs to be answered with yes or no, and from that, we have a response for each option.
+
 #### Action cards
 Action cards represent certain operations/actions that we can perform in a conversation. Some of these commands are:
   * Send a message to the contact;
@@ -31,8 +32,7 @@ Action cards represent certain operations/actions that we can perform in a conve
   * Start other flows;
   * Edit contact information;
 
-In other words, action cards trigger commands that are executed immediately, following a stack order.*
-*_The first in the order of cards will always be executed first._
+In other words, action cards trigger commands that are executed immediately, following a stack order. The first in the order of cards will always be executed first.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/flows-introduction_2.png)
 
@@ -62,4 +62,4 @@ To create a note card, simply double-click on an empty space in the flow. After 
 #### What's next?
 Now that we have a better understanding of the concept of a flow and how it is formed, we can delve deeper into each of the existing cards, as well as some other settings within our editor.
 
-If you want to learn more, check out our article on creating flows.
+If you want to learn more, check out our article on [creating flows](https://help.vtex.com/docs/tutorials/flows-creation).
