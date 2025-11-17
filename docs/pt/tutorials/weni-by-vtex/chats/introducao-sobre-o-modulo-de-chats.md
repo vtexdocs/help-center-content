@@ -82,7 +82,9 @@ A função de transferir chat serve para direcionar o contato para um setor, fil
 
 É possível arrastar arquivos para caixa de texto e o **ctrl \+ v** está ativo para copiar arquivos de imagens sem precisar anexar.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/introducao-sobre-o-modulo-de-chats_2.png)##### **Emojis**
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/introducao-sobre-o-modulo-de-chats_2.png)#####
+
+**Emojis**
 
 Emojis podem tornar a comunicação mais envolvente, isso porque eles facilitam a compreensão do tom e a intenção da mensagem. O Weni Chats tem uma página completa de emojis. Veja na imagem abaixo:
 
