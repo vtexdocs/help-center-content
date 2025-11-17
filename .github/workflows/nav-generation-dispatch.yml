@@ -29,5 +29,4 @@ jobs:
       ref: ${{ github.event_name == 'repository_dispatch' && github.event.client_payload.target_branch || github.event_name == 'workflow_dispatch' && (inputs.ref != '' && inputs.ref || inputs.target_branch) || github.ref }}
       target_branch: ${{ github.event_name == 'repository_dispatch' && github.event.client_payload.target_branch || github.event_name == 'workflow_dispatch' && inputs.target_branch || 'main' }}
       enable_pr_comment: false
-    secrets:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    secrets: inherit

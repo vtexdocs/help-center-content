@@ -22,6 +22,5 @@ jobs:
       enable_pr_comment: true
       pr_number: ${{ github.event.number }}
       pr_head_sha: ${{ github.event.pull_request.head.sha }}
-    secrets:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    secrets: inherit
 
