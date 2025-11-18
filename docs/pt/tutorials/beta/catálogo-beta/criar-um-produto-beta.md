@@ -37,9 +37,11 @@ Feito isso, o produto será ativado e estará disponível na sua loja.
 > ℹ️ Se o seu produto não aparecer no site da sua loja após o cadastro, confira o artigo  [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) para entender como resolver esse problema.
 
 # Produto
+
 Nesta aba, você vai realizar o cadastro do produto preenchendo os campos descritos abaixo com as características do item.
 
 ## Informações gerais
+
 ![image9](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-um-produto-beta_1.png)
 
 - **Nome**: informe o título do produto na loja. Use palavras simples e evite outros idiomas ou escrita complexa. Esse campo é importante para SEO e deve respeitar o limite de 150 caracteres. Campo obrigatório. 
@@ -75,8 +77,11 @@ Veja quais são os recursos disponíveis a partir da barra de ferramentas:
 - **URL**: insira o link ao qual o texto vai direcionar o usuário.
 - **Abrir em uma nova aba**: selecione esta opção se você deseja que, ao clicar no link, o usuário abra a página em uma nova aba do navegador. Não selecione se o objetivo for que o usuário acesse o link na mesma aba.
 - **Código-fonte**: exibe o código fonte da descrição em HTML. Você pode editar a descrição diretamente pelo código-fonte, se desejar. Para retornar à visão anterior, é necessário clicar novamente no botão referente ao código-fonte.
+
 ## SEO
+
 ![image11](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-um-produto-beta_3.png)
+
 -  **URL do produto**: insira a URL pela qual será possível acessar o produto na loja. Neste campo, você não pode utilizar espaço nem caracteres especiais. Caso a URL seja composta por mais de uma palavra, você precisa separá-las com um `-`. Campo obrigatório. **Exemplo**: tenis-esportivo-ultralight.
 
 - **Título da página**: escreva o título da página do produto. Para otimizar a classificação do seu produto nos resultados de busca, o ideal é não ultrapassar 60 caracteres. Campo obrigatório. **Exemplo**: Tênis Esportivo Ultralight.
@@ -84,6 +89,7 @@ Veja quais são os recursos disponíveis a partir da barra de ferramentas:
 - **Meta descrição**: escreva o título da página do produto. Para otimizar a classificação do seu produto nos resultados de busca, o ideal é não ultrapassar 60 caracteres. Campo obrigatório. **Exemplo**: Conheça o Tênis Esportivo Ultralight da SportXtreme, perfeito para atletas que buscam leveza e desempenho máximo nas atividades esportivas.
 
 ## Operação e logística
+
 ![image7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-um-produto-beta_4.png)
 
 - **Políticas comerciais**: selecione uma ou mais políticas comerciais a que o produto se destina, para definir a quais marketplaces o produto será disponibilizado. Caso nenhuma política comercial seja selecionada, o produto vai ser considerado para todas elas. **Exemplo**: B2C.
@@ -91,6 +97,7 @@ Veja quais são os recursos disponíveis a partir da barra de ferramentas:
 - **Código fiscal**: informe o número de identificação fiscal do produto.
 
 ## Visibilidade
+
 ![image4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-um-produto-beta_5.png)
 
 - **Mostrar no site**: ative ou desative a visibilidade do produto na sua loja. Caso o produto seja um brinde que não pode ser comprado, por exemplo, é importante desativar esta opção.
@@ -118,7 +125,9 @@ Para um produto disponível na sua loja, ele deve ter pelo menos um SKU ativo. �
 Aqui serão exibidas as especificações criadas anteriormente para os SKUs. Se você tiver criado algum campo de SKU obrigatório, o SKU só poderá ser ativado após o preenchimento desta especificação. 
 
 ## Informações básicas
+
 ![image2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-um-produto-beta_7.png)
+
 - **Nome**: nome do SKU. Este nome será exibido na loja. Campo obrigatório.
 - **Código de referência**: código que será utilizado internamente pela loja para identificar o SKU. Campo obrigatório caso o SKU não tenha EAN/UPC preenchido.
 - **EAN/UPC**: campo que deve conter a informação do código de barras. Campo obrigatório caso o SKU não tenha o Código de referência preenchido.
@@ -144,6 +153,7 @@ Também é possível deletar uma imagem clicando no botão <i class="fas fa-elli
 
 ## Pesos e medidas
 - **Peso e dimensões para frete**:
+
  ![image1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-um-produto-beta_10.png)
 
 - **Peso do pacote**: peso do pacote vazio em quilos. Campo obrigatório.
@@ -158,7 +168,7 @@ Também é possível deletar uma imagem clicando no botão <i class="fas fa-elli
 - **Altura real**: altura do SKU em centímetros.
 - **Comprimento real**: comprimentoaltura do SKU em centímetros.
 
- ## Sistema de medidas
+## Sistema de medidas
 
 - **Unidade de medida**: utilizadao apenas em casos onde é necessário converter a unidade de medida para a venda. Por exemplo, se o produto é vendido em caixas, mas os clientes querem comprar por m². Nos casos comuns, utilizar “un”.
 
@@ -170,4 +180,3 @@ Também é possível deletar uma imagem clicando no botão <i class="fas fa-elli
 - **Ativar kit**: determina se os SKUs que compõem um kit só podem ser vendidos juntos. Você pode fazer com que o SKU faça parte de um kit <i class="fas fa-toggle-on"></i> ou não <i class="fas fa-toggle-off"></i>.
 
 - **Gerar crédito em valores**: determina se o cliente receberá [crédito](/pt/tutorial/gift-card--tutorials_995) que o cliente recebe ao concluir uma compra de uma unidade de um determinado SKU. Você pode ativar <i class="fas fa-toggle-on"></i> ou desativar <i class="fas fa-toggle-off"></i> esta opção.
-
