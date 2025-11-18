@@ -44,8 +44,8 @@ In this tab, complete the fields described below to create the product.
 
 ![image9](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/criar-um-produto-beta_1.png)
 
-* **Name:** Enter the product name. Use simple words, avoiding other languages or complex writing. This field is crucial for SEO and must respect the 150-character limit. Required field. **Example**: Ultralight Running Shoes.
-* **Substitute words:** Enter synonyms of terms related to the product name, separated by commas (`,`). This field is essential for a more comprehensive search and must respect the 8,000-character limit. **Example**: for the product `Ultralight Running Shoes`, synonyms could include `Light Running Shoes,Ultra Running Shoes`. If your store uses VTEX Intelligent Search, do not complete this field and read the[Synonyms](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) article.
+* **Name:** Enter the product name. Use simple words, avoiding other languages or complex writing. This field is crucial for SEO and must respect the 150-character limit. Required field. Example: Ultralight Running Shoes.
+* **Substitute words:** Enter synonyms of terms related to the product name, separated by commas (`,`). This field is essential for a more comprehensive search and must respect the 8,000-character limit. Example: for the product `Ultralight Running Shoes`, synonyms could include `Light Running Shoes,Ultra Running Shoes`. If your store uses VTEX Intelligent Search, do not complete this field and read the[Synonyms](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) article.
 * **Brand:** Select a brand already available in the store to associate with the product. Required field. Example: SportXtreme.
 * **Category:** Select the category or subcategory associated with the product. Required field. Example: Running shoes.
 * **Reference code:** Enter the product's unique reference code to improve your store management. Example: TXU1234.
