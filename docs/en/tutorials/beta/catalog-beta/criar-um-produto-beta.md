@@ -105,13 +105,13 @@ See the tools available in the toolbar:
 - **Supplier: **Select a supplier already added to the store to link to the product.
 - **Tax code:** Enter the fiscal identification number of the product.
 
-### Visibility 
+### Visibility
+
 ![image4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/criar-um-produto-beta_4.png)
 
-- **Display on website:** Enable or disable the product visibility in your store. For example, if the product is a gift that cannot be purchased, you should disable this option.
-
-- **Show when out of stock:** Enable or disable the option to show the product in the store even when it is out of stock. If enabled, the out-of-stock product will be displayed in your store with a [Notify me](/en/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e) field, in which the customer can enter their email to be notified when the product is back in stock. If this option is disabled, the product will not be displayed in the store when it is out of stock.
-- **Priority in search order:** Enter a numerical value to set the priority on the search results page. For more details on this field, read the [How does the Score field work?](/en/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae) article.
+* **Display on website:** Enable or disable the product visibility in your store. For example, if the product is a gift that cannot be purchased, you should disable this option.
+* **Show when out of stock:** Enable or disable the option to show the product in the store even when it is out of stock. If enabled, the out-of-stock product will be displayed in your store with a [Notify me](/en/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e) field, in which the customer can enter their email to be notified when the product is back in stock. If this option is disabled, the product will not be displayed in the store when it is out of stock.
+* **Priority in search order:** Enter a numerical value to set the priority on the search results page. For more details on this field, read the [How does the Score field work?](/en/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae) article.
 
 If your store uses VTEX Intelligent Search, read the [How does VTEX Intelligent Search work?](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/23mytRDsEduqLO0Lo7yufy) article.
 
@@ -162,6 +162,7 @@ You can edit an image's metadata by clicking the <i class="fas fa-ellipsis-v"></
 You can also delete an image by clicking the <i class="fas fa-ellipsis-v"></i> button and selecting <i class="fas fa-trash-alt"></i> `Remove`
 
 ### Weight and Dimensions
+
 ![image1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/criar-um-produto-beta_9.png)
 #### Shipping weight and dimensions
 
