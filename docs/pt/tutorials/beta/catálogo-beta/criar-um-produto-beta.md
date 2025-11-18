@@ -15,11 +15,11 @@ locale: pt
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-> ℹ️ Essa funcionalidade está em fase beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso[Suporte](https://support.vtex.com/hc/pt-br/requests).
+> ℹ️ Essa funcionalidade está em fase beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://support.vtex.com/hc/pt-br/requests).
 
-A página **Adicionar produto (Beta)** possibilita criar e editar produtos e seus SKUs relacionados de forma completa no Admin VTEX. Para adicionar um novo produto, siga o passo a passo abaixo. 
+A página **Adicionar produto (Beta)** possibilita criar e editar produtos e seus SKUs relacionados de forma completa no Admin VTEX. Para adicionar um novo produto, siga o passo a passo abaixo.
 
-1. No Admin VTEX, acesse **Catálogo** > __Produtos e SKUs__ ou digite Produtos e SKUs na barra de busca no topo da página.
+1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs** ou digite Produtos e SKUs na barra de busca no topo da página.
 2. Clique em `+ Adicionar produto`.
 3. Defina se o produto será criado como ativo na loja.
 Para que o produto seja criado como ativo na loja, você precisa selecionar a opção **Ativo** <i class="fas fa-toggle-on"></i> no canto superior direito da página.
