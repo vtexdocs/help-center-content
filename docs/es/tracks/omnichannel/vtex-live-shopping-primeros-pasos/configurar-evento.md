@@ -117,6 +117,14 @@ En la sección **Configuración** puedes activar o desactivar las siguientes fun
 | Reproductor | <ul><li>**Número de espectadores:** muestra el número de espectadores que están viendo el evento en vivo. Este número no es acumulativo.</li><li>**Ventana emergente de la transmisión:** permite mostrar el componente completo de Live Shopping (chat, reproductor y barra lateral de productos) en un formato de ventana emergente para captar toda la atención del público mientras ven el evento. Los participantes pueden cerrar la ventana emergente en cualquier momento haciendo clic en la X en la esquina para volver al formato normal.</li></ul> |
 | Productos | <ul><li>**Aplicar impuestos:** permite aplicar impuestos a los productos mostrados durante el evento en vivo. Cuando activas esta opción, el módulo **Promociones > Cargos** muestra el precio del producto incluyendo los cargos aplicables.</li></ul> |
 
+## Destacar producto - Configurar la presentación de la colección
+
+La sección **Destacar producto** es donde gestionas los productos que deseas destacar durante el evento. Los productos mostrados pertenecen a la colección que seleccionaste al [crear el evento](https://help.vtex.com/es/docs/tracks/crear-evento), o la colección que añades o actualizas antes o durante la transmisión.
+
+>⚠️ Para garantizar que tu colección se muestre correctamente en un evento de **Live Shopping**, recomendamos crearla al menos con unas horas de antelación. Esto le da tiempo a la plataforma para indexar la información. De lo contrario, la página puede quedarse almacenada en caché durante el evento, lo que podría impedir que la colección se muestre correctamente.
+
+Para destacar un producto, activa el botón de alternancia en la columna **Acciones**. Puedes elegir dos productos a la vez. Una vez seleccionado, el producto se mostrará sobre los nombres de las columnas.
+
 ## Configuración CMS - Configurar la presentación del contenido
 
 En la sección **Configuración CMS** puedes configurar la presentación del contenido durante el evento. Las funcionalidades existentes son: 
