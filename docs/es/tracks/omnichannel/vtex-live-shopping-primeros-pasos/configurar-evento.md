@@ -19,6 +19,8 @@ En el Admin VTEX, al acceder a **Apps > Live Shopping**, o ingresar Live Shoppin
 
 * [Tipo de layout - Configurar el estilo](#tipo-de-layout-configurar-el-estilo)
 * [Chat - Configurar el nombre del administrador](#chat-configurar-el-nombre-del-administrador)
+* [Promociones - Configurar cupones y promociones](#promociones-configurar-cupones-y-promociones)
+* [Destacar producto - Configurar la presentación de la colección](#destacar-producto-configurar-la-presentacion-de-la-coleccion)
 * [Configuración - Configurar funcionalidades](#configuracion-configurar-funcionalidades)
 * [Configuración CMS - Configurar la presentación del contenido](#configuracion-cms-configurar-la-presentacion-del-contenido)
 
@@ -68,6 +70,42 @@ La sección **Chat** es donde gestionas el chat en vivo durante tu evento. Si de
 3. Haz clic en `Confirmar`.
 
 > ℹ️ Para aprender a fijar mensajes, bloquear usuarios, eliminar mensajes y realizar otras acciones en el chat del evento, consulta [Live Shopping: Eventos](/es/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch). 
+
+## Promociones - Configurar cupones y promociones
+
+En esta sección puedes configurar cupones y promociones según los espectadores del evento o los "me gusta", por ejemplo. Las opciones disponibles serán aquellas que se hayan configurado previamente en el módulo [Promociones](https://help.vtex.com/es/docs/tutorials/crear-promociones).  
+
+Para ofrecer una promoción durante tu evento de **Live Shopping** sigue los pasos a continuación:
+
+1. En la sección **Promociones** , haz clic en `Nueva promoción`.  
+2. Selecciona una opción de promoción usando el menú desplegable.  
+3. Elige una variable:
+
+  * Me gusta
+  * Comentarios  
+  * Espectadores  
+  * Pedidos  
+
+4. En el campo **Objetivo**, ingresa la condición que la audiencia debe cumplir para activar el cupón o promoción. Esta información no es visible para el público y tiene un límite de 20 caracteres. Consulta a continuación un ejemplo de cada variable:
+
+  * **Me gusta:** alcanzar 100 reacciones de me gusta.  
+  * **Comentarios:** obtener 150 comentarios.  
+  * **Espectadores:** reunir una audiencia de más de 200 personas.  
+  * **Pedidos:** recibir los primeros 100 pedidos.
+
+  >⚠️ Al alcanzar el objetivo los cupones se activan inmediatamente. Las promociones se activan cinco minutos después de que se alcance el objetivo.
+
+5. En el campo **Mensaje para mostrar**, redacta el texto que comunicará a tu audiencia la condición necesaria para la activación de la promoción o cupón. Límite de 20 caracteres. Ejemplo, `40% off`.  
+6. Selecciona una animación para mostrar la promoción o cupón durante el evento.  
+7. Haz clic en `Guardar`.
+
+Una vez creada la promoción, se mostrará en una tabla con las siguientes columnas:
+
+* **Status:** permite activar o desactivar la promoción usando el botón de alternancia. Aunque las promociones o cupones se activen automáticamente cuando la audiencia cumple el objetivo, puedes administrar el status de activación durante el evento.
+* **Promoción:** nombre que identifica la promoción.
+* **Variable:** base de la promoción, que puede ser `Me gusta`, `Comentarios`, `Espectadores` o `Pedidos`.
+* **Objetivo:** valor de la variable que, una vez alcanzado, dispara la activación de la promoción.
+* **Acciones:** permite <i class="fa-solid fa-pencil"></i> editar o <i class="fa-solid fa-trash"></i> eliminar la promoción. Todos los ajustes de promoción pueden editarse. Al eliminar, se remueve la promoción solo de la configuración de este evento, no del módulo **Promociones**.
 
 ## Configuración - Configurar funcionalidades
 
