@@ -182,14 +182,12 @@ You can also delete an image by clicking the <i class="fas fa-ellipsis-v"></i> b
 
 #### Unit system
 
-- **Unit of measure:** Used when the unit of measure needs to be converted for sales purposes. For example, if a product is sold by the box but customers want to buy it by m². Usually used as "ea." (abbreviation for each).
-
-- **Unit multiplier:** Numerical unit that multiplies the selected quantity of the product when it is added to the cart. If the multiplier is 5, the product will be added in multiple quantities of 5, such as 5, 10, 15, 20, and so on.
+* **Unit of measure:** Used when the unit of measure needs to be converted for sales purposes. For example, if a product is sold by the box but customers want to buy it by m². Usually used as "ea." (abbreviation for each).
+* **Unit multiplier:** Numerical unit that multiplies the selected quantity of the product when it is added to the cart. If the multiplier is 5, the product will be added in multiple quantities of 5, such as 5, 10, 15, 20, and so on.
 
 ### Advanced Settings
 
 ![image5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/criar-um-produto-beta_10.png)
 
-- **Activate bundle:** Determines if SKUs within a bundle can only be sold together. You can make the SKU part of a bundle <i class="fas fa-toggle-on"></i> or not <i class="fas fa-toggle-off"></i>.
-
-- **Generate credit with gift card**: Determines if the customer receives [credit](/en/tutorial/gift-card--tutorials_995) when buying an SKU. You can activate <i class="fas fa-toggle-on"></i> or deactivate <i class="fas fa-toggle-off"></i> this option.
+* **Activate bundle:** Determines if SKUs within a bundle can only be sold together. You can make the SKU part of a bundle <i class="fas fa-toggle-on"></i> or not <i class="fas fa-toggle-off"></i>.
+* **Generate credit with gift card**: Determines if the customer receives [credit](/en/tutorial/gift-card--tutorials_995) when buying an SKU. You can activate <i class="fas fa-toggle-on"></i> or deactivate <i class="fas fa-toggle-off"></i> this option.
