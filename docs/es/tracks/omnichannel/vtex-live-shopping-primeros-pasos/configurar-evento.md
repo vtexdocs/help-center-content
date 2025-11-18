@@ -127,7 +127,7 @@ Para destacar un producto, activa el botón de alternancia en la columna **Accio
 
 ## Configuración CMS - Configurar la presentación del contenido
 
-En la sección **Configuración CMS** puedes configurar la presentación del contenido durante el evento. Las funcionalidades existentes son: 
+En la sección **Configuración CMS** puedes configurar la presentación del contenido durante el evento. Las funcionalidades existentes son:
 
 * **Productos de la barra lateral:** muestra una barra con los productos seleccionados al lado del reproductor de video. Los productos se muestran verticalmente al lado izquierdo del reproductor.
 * **Carrusel de productos:** muestra un carrusel con una colección de productos en una vista horizontal debajo del reproductor de video durante el evento en vivo.
