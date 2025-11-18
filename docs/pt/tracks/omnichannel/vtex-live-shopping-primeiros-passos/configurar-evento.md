@@ -136,11 +136,11 @@ Na seção **Configuração do CMS**, você pode configurar como o conteúdo ser
 
 ![article_7_cms_configuration_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/configurar-evento_2.png)
 
-- **Carrinho de compras:** disponibiliza o botão “Adicionar ao carrinho” que, quando clicado, abre uma nova aba com o checkout e o produto adicionado ao carrinho de compras do cliente. O modo picture-in-picture (PiP) também será ativado, permitindo que o cliente continue assistindo à transmissão ao vivo enquanto finaliza o pedido.
-- **Visualização rápida:** permite que o seu público assista ao evento ao vivo enquanto navega pelas variações de produtos. Quando o cliente clica no botão `Adicionar ao carrinho`, uma visualização rápida do produto é aberta sem que a transmissão do evento fique oculta. Isso permite ao cliente escolher o tamanho e a cor de um produto, por exemplo, enquanto assiste ao evento.
-    - Se esta opção estiver desativada, quando o cliente clicar em `Adicionar ao carrinho`, uma nova aba com a página de detalhes do produto (PDP) será aberta e o modo PiP será ativado automaticamente para que o cliente continue assistindo à transmissão ao vivo.
-- **Rolagem infinita:** implementa uma rolagem infinita para a opção de produtos da barra lateral que rola automaticamente a cada N segundos, para que seu público possa visualizar todos os produtos sem nenhuma ação adicional.
-    - A velocidade de rolagem automática padrão é de 10 segundos, mas você pode alterá-la inserindo o número desejado no campo. Recomendamos configurar entre 3 e 100 segundos.
+* **Carrinho de compras:** disponibiliza o botão “Adicionar ao carrinho” que, quando clicado, abre uma nova aba com o checkout e o produto adicionado ao carrinho de compras do cliente. O modo picture-in-picture (PiP) também será ativado, permitindo que o cliente continue assistindo à transmissão ao vivo enquanto finaliza o pedido.
+* **Visualização rápida:** permite que o seu público assista ao evento ao vivo enquanto navega pelas variações de produtos. Quando o cliente clica no botão `Adicionar ao carrinho`, uma visualização rápida do produto é aberta sem que a transmissão do evento fique oculta. Isso permite ao cliente escolher o tamanho e a cor de um produto, por exemplo, enquanto assiste ao evento.
+  * Se esta opção estiver desativada, quando o cliente clicar em `Adicionar ao carrinho`, uma nova aba com a página de detalhes do produto (PDP) será aberta e o modo PiP será ativado automaticamente para que o cliente continue assistindo à transmissão ao vivo.
+* **Rolagem infinita:** implementa uma rolagem infinita para a opção de produtos da barra lateral que rola automaticamente a cada N segundos, para que seu público possa visualizar todos os produtos sem nenhuma ação adicional.
+  * A velocidade de rolagem automática padrão é de 10 segundos, mas você pode alterá-la inserindo o número desejado no campo. Recomendamos configurar entre 3 e 100 segundos.
 
 > ℹ️ Todas as funcionalidades acima são ativadas por padrão, exceto o **Carrossel** de produtos e o **Carrinho de compras**.
 
