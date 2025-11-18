@@ -62,33 +62,23 @@ The text editor for the description is a _rich text_ editor, which means you can
 
 See the tools available in the toolbar:
 
-- **Styles**: Define the style of the selected text. You can choose from **Normal**, and **Heading 1** to **Heading 6**.
+* **Styles**: Define the style of the selected text. You can choose from **Normal**, and **Heading 1** to **Heading 6**.
+* **Font size:** Changes the font size of the selected text. You can choose from 10 to 36 pts.
+* **Bold:** Formats the selected text in bold.
+* **Italic:** Formats the selected text in italics.
+* **Underline:** Underlines the selected text.
+* **Align text left:** Aligns the selected text to the left.
+* **Center text:** Centers the selected text.
+* **Align text right:** Aligns the selected text to the right.
+* **Bulleted list:** Converts the selected text into an unordered list with bullets.
+* **Numbered list:** Converts the selected text into an ordered list item.
+* **Add link:** Adds a link to the selected text. After clicking this button, complete the required fields and then click `Save`.
 
-- **Font size:** Changes the font size of the selected text. You can choose from 10 to 36 pts.
+  * **Link title:** Enter the text with the link.
+  * **URL:** Enter the link to which the text will redirect the user.
+  * **Open in new tab:** Select this option if you want the user to open the page in a new tab when they click the link. Do not select it if you want the user to open the link in the same tab.
 
-- **Bold:** Formats the selected text in bold.
-
-- **Italic:** Formats the selected text in italics.
-
-- **Underline:** Underlines the selected text.
-
-- **Align text left:** Aligns the selected text to the left.
-
-- **Center text:** Centers the selected text.
-
-- **Align text right:** Aligns the selected text to the right.
-
-- **Bulleted list:** Converts the selected text into an unordered list with bullets.
-
-- **Numbered list:** Converts the selected text into an ordered list item.
-
-- **Add link:** Adds a link to the selected text. After clicking this button, complete the required fields and then click `Save`.
-
-     - **Link title:** Enter the text with the link.
-     - **URL:** Enter the link to which the text will redirect the user.
-     - **Open in new tab:** Select this option if you want the user to open the page in a new tab when they click the link. Do not select it if you want the user to open the link in the same tab.
-
-- **Source code:** Displays the source code of the HTML description. You can edit the description directly from the source code if you want. To go back to the previous view, click the source button again.
+* **Source code:** Displays the source code of the HTML description. You can edit the description directly from the source code if you want. To go back to the previous view, click the source button again.
 
 ### SEO 
 ![image11](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/criar-um-produto-beta_3.png)
