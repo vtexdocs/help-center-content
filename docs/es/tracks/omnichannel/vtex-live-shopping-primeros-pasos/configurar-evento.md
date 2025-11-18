@@ -15,12 +15,12 @@ trackSlugEN: vtex-live-shopping-primeros-pasos
 order: 7
 ---
 
-En el Admin VTEX, al acceder a **Apps > Live Shopping** y hacer clic el ícono de flecha de un [evento creado](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) se abre la página de **Información del evento**, que te permite configurarlo mediante las siguientes secciones:
+En el Admin VTEX, al acceder a **Apps > Live Shopping**, o ingresar Live Shopping en la barra de búsqueda de la parte superior de la página, y hacer clic el ícono de flecha de un [evento creado](https://help.vtex.com/es/docs/tracks/crear-evento) se abre la página de **Información del evento**. En la página de gestión encontrarás las siguientes opciones de configuración, divididas en las siguientes secciones:
 
-- [Tipo de layout - Configurar el estilo](#tipo-de-layout-configurar-el-estilo)
-- [Chat - Configurar el nombre del administrador](#chat-configurar-el-nombre-del-administrador)
-- [Configuración - Configurar funcionalidades](#configuracion-configurar-funcionalidades)
-- [Configuración CMS - Configurar la presentación del contenido](#configuracion-cms-configurar-la-presentacion-del-contenido)
+* [Tipo de layout - Configurar el estilo](#tipo-de-layout-configurar-el-estilo)
+* [Chat - Configurar el nombre del administrador](#chat-configurar-el-nombre-del-administrador)
+* [Configuración - Configurar funcionalidades](#configuracion-configurar-funcionalidades)
+* [Configuración CMS - Configurar la presentación del contenido](#configuracion-cms-configurar-la-presentacion-del-contenido)
 
 > ⚠️ Este artículo describe los ajustes principales para un evento. No explica todas las secciones de la página **Información del evento**. Para más información, consulta [Live Shopping: Eventos](/es/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
 
