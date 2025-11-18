@@ -22,7 +22,7 @@ Caso o acesso **Access the Marketplace Network** não esteja ativo, sempre que o
 
 ## O que precisa ser feito?
 
-A atualiação está disponível para todas as contas que utilizam a integração com a Shopee desde xx de novembro de 2025, e é necessário que a permissão de acesso seja ativada.
+A atualiação está disponível para todas as contas que utilizam a integração com a Shopee desde 03 de novembro de 2025, e é necessário que a permissão de acesso seja ativada.
 
 Para adicionar o acesso a um usuário, siga os passos abaixo:
 
