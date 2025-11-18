@@ -3,7 +3,7 @@ title: 'Adding products (Beta)'
 id: 2nkoy6RakJEVF7ug4ZP0bP
 status: PUBLISHED
 createdAt: 2023-10-31T13:43:19.226Z
-updatedAt: 2025-09-04T20:03:27.219Z
+updatedAt: 2025-11-18T20:03:27.219Z
 publishedAt: 2025-09-04T20:03:27.219Z
 firstPublishedAt: 2023-11-05T14:13:41.744Z
 contentType: tutorial
