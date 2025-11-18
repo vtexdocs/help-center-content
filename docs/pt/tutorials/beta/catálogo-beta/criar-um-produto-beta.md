@@ -114,13 +114,13 @@ Em Atributos, será exibido os [grupos de especificações](/pt/tutorial/criando
 
 ## SKUs
 
-Nesta aba, você fará o cadastro de SKUs que serão atrelados ao produto criado anteriormente. 
+Nesta aba, você fará o cadastro de SKUs que serão atrelados ao produto criado anteriormente.
 
 Para um produto disponível na sua loja, ele deve ter pelo menos um SKU ativo. É obrigatório que o SKU tenha uma imagem adicionada a ele para que ele seja ativado.
 
 ## Especificações
 
-Aqui serão exibidas as especificações criadas anteriormente para os SKUs. Se você tiver criado algum campo de SKU obrigatório, o SKU só poderá ser ativado após o preenchimento desta especificação. 
+Aqui serão exibidas as especificações criadas anteriormente para os SKUs. Se você tiver criado algum campo de SKU obrigatório, o SKU só poderá ser ativado após o preenchimento desta especificação.
 
 ## Informações básicas
 
