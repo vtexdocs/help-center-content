@@ -23241,6 +23241,21 @@
                 },
                 {
                   "name": {
+                    "en": "Mercado Libre Envios",
+                    "es": "Envíos de Mercado Libre",
+                    "pt": "Mercado Livre Envios"
+                  },
+                  "slug": {
+                    "en": "mercado-libre-envios",
+                    "es": "envios-de-mercado-libre",
+                    "pt": "mercado-livre-envios"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Mercado Libre Holidays",
                     "es": "Mercado Libre Feriados",
                     "pt": "Mercado Livre Feriados"
@@ -38653,21 +38668,6 @@
               "origin": "",
               "type": "category",
               "children": [
-                {
-                  "name": {
-                    "en": "Mercado Libre Envios",
-                    "es": "Envíos de Mercado Libre",
-                    "pt": "Mercado Livre Envios"
-                  },
-                  "slug": {
-                    "en": "mercado-libre-envios",
-                    "es": "envios-de-mercado-libre",
-                    "pt": "mercado-livre-envios"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Microvix integration interrupted due to username and password",

@@ -3,7 +3,7 @@ title: 'Configurar produto similar, sugestões, acessórios e genéricos'
 id: tutorials_280
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:17.727Z
-updatedAt: 2024-10-30T18:49:41.924Z
+updatedAt: 2025-11-14T18:49:41.924Z
 publishedAt: 2024-10-30T18:49:41.924Z
 firstPublishedAt: 2017-04-27T23:03:13.377Z
 contentType: tutorial
@@ -15,34 +15,30 @@ locale: pt
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-Na plataforma VTEX temos como trabalhar nosso “Cross Selling” e o “Up Selling”, técnicas de marketing muito utilizadas no mercado de varejo online.
+Na plataforma VTEX, você pode gerenciar a vitrine da sua loja utilizando estratégias de cross selling e up selling.
 
-## O que é Cross Selling?
+## O que é cross selling?
 
 Consiste em oferecer um produto complementar ao que o usuário está adquirindo. Por exemplo, o visitante da sua loja está comprando um celular, ele poderá se interessar por um fone de ouvido ou uma capa para o aparelho novo.
 
-## O que é Up Selling?
+## O que é up selling?
 
-No Up Selling você oferece um upgrade para o produto. Usando o mesmo celular, como exemplo, é possível oferecer um aparelho com mais funções ou se o aparelho for acompanhado de um fone de ouvido, pode se oferecer um fone Bluetooth.
+Significa ofertar ao cliente uma versão superior do item sendo comprado. No caso do celular, seria apresentar outro aparelho com mais funcionalidades, ou a opção de substituir um fone de ouvido por outro com Bluetooth.
 
-## Cross Selling e Up Selling na plataforma VTEX
+## Cross selling e up selling na plataforma VTEX
 
-Para te auxiliar na utilização da técnicas acima podemos utilizar os campos no cadastro de produtos/SKUs :
+Veja a seguir quais relações de cross e up selling os SKUs podem ter entre si:
 
-1. No Admin VTEX, acesse o **Catálogo**.
-2. Clique em **Todos os produtos**.
-3. Na listagem, identifique o produto desejado e clique sobre o nome do SKU desejado.
-4. Preencha os campos corretamente conforme indicação abaixo.
-5. Clique no botão `Salvar`.
+* **Acessórios:** itens sugeridos como opções complementares para a venda. Os itens acessórios podem ser selecionados pelo cliente na vitrine marcando uma caixa de seleção.
+* **Sugestões:** itens apresentados como sugestões de compra. Um SKU só aparece como sugestão quando seu preço é superior ao item sendo vendido.
+* **Produtos similares:** itens ofertados como uma alternativa de compra ou simplesmente algo similar.
+* **Mostrar junto:** itens apresentados juntos de forma a serem adquiridos conjuntamente.
 
-![produto-similar-sugestão-acessório-exemplo pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/produtos-e-skus/configurando-produto-similar-sugestoes-acessorios-e-genericos_1.png)
+>ℹ️ Essas configurações de vitrine podem ser associada à promoção [Compre Junto](https://help.vtex.com/pt/docs/tutorials/compre-junto).
 
-**Acessórios:** nesse campo cadastramos os produtos que devem ser vendidos como complemento de um outro produto. Nesta opção os produto cadastrados como acessórios são mostrados como opção de compra com o checkbox de seleção habilitado (função feita no layout).
+## Configurar cross selling e up selling
 
-**Sugestão:** Este campo é responsável pelo Up Selling que aprendemos mais acima, nele são selecionados os produtos que devem ser mostrados como sugestão, porém existe uma regra para que isto ocorra: o produto somente será mostrado se o valor da sugestão for maior que o produto que estamos vendo.
+A configuração é feita a nível de SKU e pode ser realizada das seguintes formas:
 
-**Similar (Produtos Suplentes):** Neste campo selecionamos os produtos similares que queremos mostrar ao cliente na hora da compra, contudo não existe a opção de checkbox como na opção de Acessórios. 
-
-**Mostrar junto:** Exibe os SKUs dos produtos sugeridos para compra em conjunto. 
-
-A opção de Up Selling pode ser trabalhada com o uso da promoção [Compre Junto](/pt/tutorial/compre-junto).
+* **Via Admin VTEX:** manualmente ao [adicionar ou editar o SKU](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-sku), ou massivamente, [utilizando planilha](https://help.vtex.com/pt/docs/tutorials/exportar-e-importar-especificacoes-de-produto-e-de-sku).
+* **Via API Reference:** usando a [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#overview).
