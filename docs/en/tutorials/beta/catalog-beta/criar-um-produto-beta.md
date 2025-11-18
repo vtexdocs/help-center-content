@@ -34,7 +34,7 @@ If you want to create a product as inactive, click the same button and note that
 
 After that, the product will be activated and available in your store.
 
-> ℹ️ If the product is not visible on your store after creating it, read the [Why is the product not visible on the website?](https://Why is the product not visible on the website?) article to find out how to solve this problem.
+>ℹ️ If the product is not visible on your store after creating it, read the [Why is the product not visible on the website?](https://help.vtex.com/faq/why-is-the-product-not-visible-on-the-website) article to find out how to solve this problem.
 
 ## Product
 
