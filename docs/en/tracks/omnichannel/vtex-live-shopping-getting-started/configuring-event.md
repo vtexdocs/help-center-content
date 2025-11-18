@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-getting-started
 order: 7
 ---
 
-In the VTEX Admin, when you go to **Apps > Live Shopping**, or type **Live Shopping** in the search bar at the top of the page and click the arrow icon of a [created event](https://help.vtex.com/en/docs/tracks/creating-event), you access its **Event Information** page. Under the **Manage** tab, you will find the following set up options, divided by page section:
+In the VTEX Admin, when you go to **Apps > Live Shopping**, or type **Live Shopping** in the search bar at the top of the page and click the arrow icon of a [created event](https://help.vtex.com/en/docs/tracks/creating-event), you access its **Event Information** page. Under the **Manage** tab, you'll find the following setup options, divided by page section:
 
 * [Layout type - Configuring the style](#layout-type-configuring-the-style)
 * [Chat - Configuring the administrator name](#chat-configuring-the-administrator-name)
@@ -24,7 +24,7 @@ In the VTEX Admin, when you go to **Apps > Live Shopping**, or type **Live Shopp
 * [Product Highlight - Configuring collection display](#product-highlight-configuring-collection-display)
 * [CMS Configuration - Configuring content presentation](#cms-configuration-configuring-content-presentation)
 
-> ⚠️ This article describes the main settings for an event. It doesn't cover all sections of the **Event Information** page. For more information, check [Live Shopping: Events article](/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
+> ⚠️ This article describes the main settings for an event. It doesn't cover all sections of the **Event Information** page. For more information, see [Live Shopping: Events article](/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
 
 ## Layout type - Configuring the style
 
