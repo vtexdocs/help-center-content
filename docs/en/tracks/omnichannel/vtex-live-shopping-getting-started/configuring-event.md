@@ -79,21 +79,21 @@ To offer a promotion during your **Live Shopping** event, follow the steps below
 
 1. In the **Promotions** section, click `New promotion`.
 2. Select a promotion option using the dropdown menu.
-3. Choose a variable, which can be:
+3. Choose a variable:
 
   * Likes
   * Comments
   * Viewers
   * Orders
 
-4. Fill in the **Goal** field with the condition the audience must fulfill to activate the coupon or promotion. This information is not visible to the public and is limited to 20 characters. See below an example for each variable:
+4. In the **Goal** field, enter the condition the audience must meet to activate the coupon or promotion. This information isn't visible to the public and is limited to 20 characters. See below an example for each variable:
 
   * **Likes:** Reach 100 like reactions.
   * **Comments:** Get 150 comments.
-  * **Viewers:** Gather an audience over 200 people.
-  * **Orders:** Receive First 100 orders.
+  * **Viewers:** Gather an audience of over 200 people.
+  * **Orders:** Receive the first 100 orders.
 
-  >⚠️ Be aware that coupons are automatically activated when the audience achieves the goal, but promotions become active five minutes after they achieve the goal.
+  >⚠️ Note that coupons become active immediately once the goal is met. Promotions activate five minutes after the goal is met.
 
 5. Fill in the **Display message** field with the content that communicates to your audience the goal they must meet to activate the promotion and coupon. Limited to 20 characters. For example, `40% Discount`.
 6. Select an animation to display the promotion or coupon during the event.
