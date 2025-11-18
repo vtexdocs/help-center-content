@@ -101,11 +101,11 @@ To offer a promotion during your **Live Shopping** event, follow the steps below
 
 Once a promotion has been created, it will be displayed in a table with the following columns:
 
-* **State:** Allows activating or deactivating the promotion by switching the toggle. Although the promotion or coupon are automatically activated when the audience meets the goal, you can manage their activation status during the whole event.
+* **State:** Allows activating or deactivating the promotion by switching the toggle. Although promotions or coupons are automatically activated when the audience meets the goal, you can manage their activation status during the event.
 * **Promotion:** Name that identifies the promotion.
 * **Variable:** What the promotion is based on, which can be `Likes`, `Comments`, `Viewers` or `Orders`.
-* **Goal:** Variable value that once achieved, triggers the promotion activation.
-* **Actions:** Allows <i class="fa-solid fa-pencil"></i> editing or <i class="fa-solid fa-trash"></i> deleting the promotion. All of the promotion configurations can be edited. The deletion only removes the promotion from your event configurations, not from the **Promotions** module.
+* **Goal:** Variable value that, once achieved, triggers the promotion activation.
+* **Actions:** Allows <i class="fa-solid fa-pencil"></i> editing or <i class="fa-solid fa-trash"></i> deleting the promotion. All promotion settings can be edited. Deleting removes the promotion only this event’s configuration, not from the **Promotions** module.
 
 ## Settings - Configuring features
 
