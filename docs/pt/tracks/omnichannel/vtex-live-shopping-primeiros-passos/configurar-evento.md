@@ -3,7 +3,7 @@ title: 'Configurar evento'
 id: 125yr6jAfwiiz84JP4ppfO
 status: PUBLISHED
 createdAt: 2025-07-23T18:02:12.430Z
-updatedAt: 2025-09-15T21:13:33.647Z
+updatedAt: 2025-11-18T21:13:33.647Z
 publishedAt: 2025-09-15T21:13:33.647Z
 firstPublishedAt: 2025-07-28T15:08:11.624Z
 contentType: trackArticle
