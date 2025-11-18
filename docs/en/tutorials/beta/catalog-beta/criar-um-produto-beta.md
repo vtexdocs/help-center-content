@@ -21,17 +21,15 @@ The **Add Product (Beta)** page allows you to create and edit[ products](/en/tra
 
 1. In the VTEX Admin, go to **Catalog > Products & SKUs**, or type **Products & SKUs** in the search bar at the top of the page.
 2. Click `+ Add Product`.
-3. Determine if the product being created will be active in the store. To create the product as active in the store, select the **Active** &lt;i class="fas fa-toggle-on">&lt;/i> option in the top right corner of the page.
-If you want to create a product as inactive, click the <i class="fas fa-toggle-on"></i> button and note that the option will change to **Inactive**. You can activate it later from the product edit page or the product list.
-4. Complete the information in each tab as detailed below.  
+3. Determine if the product being created will be active in the store. To create the product as active in the store, select the **Active** <i class="fa-solid fa-toggle-on"></i> option in the top right corner of the page.
+If you want to create a product as inactive, click the same button and note that the option will change to **Inactive**. You can activate it later from the product edit page or the product list.
+4. Complete the information in each tab as detailed below:  
 
-○  	[Product](https://docs.google.com/document/d/186UuyKqeTz8CNGGm8UTcw81kp18RoApX5zuXccZHylc/edit#produtos) 
+  * [Product](#product)
+  * [Attributes](#attributes)
+  * [SKUs](#skus)
 
-○  	[Attributes](https://docs.google.com/document/d/186UuyKqeTz8CNGGm8UTcw81kp18RoApX5zuXccZHylc/edit#atributos)
-
-○  	[SKUs](https://docs.google.com/document/d/186UuyKqeTz8CNGGm8UTcw81kp18RoApX5zuXccZHylc/edit#skus)
-
-5. Select the **Active**&lt;i class="fas fa-toggle-on">&lt;/i> option at the top right of the page to activate the SKU.
+5. Select the **Active** <i class="fa-solid fa-toggle-on"></i> option at the top right of the page to activate the SKU.
 6. Click `Save`.
 
 After that, the product will be activated and available in your store.
