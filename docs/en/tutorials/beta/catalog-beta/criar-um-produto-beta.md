@@ -57,6 +57,7 @@ In this step, you must write a description with the main information about the p
 Example: "The Ultralight Running Shoes are the perfect choice for athletes looking for high performance and comfort. Their innovative design and high-tech materials provide the utmost lightness and resistance during physical activity."
 
 The text editor for the description is a _rich text_ editor, which means you can use different formatting tools in its toolbar, as shown in the image below.
+
 ![image10](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/criar-um-produto-beta_2.gif)
 
 See the tools available in the toolbar:
