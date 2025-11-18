@@ -90,9 +90,9 @@ Veja quais são os recursos disponíveis a partir da barra de ferramentas:
 
 ![image7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-um-produto-beta_4.png)
 
-- **Políticas comerciais**: selecione uma ou mais políticas comerciais a que o produto se destina, para definir a quais marketplaces o produto será disponibilizado. Caso nenhuma política comercial seja selecionada, o produto vai ser considerado para todas elas. **Exemplo**: B2C.
-- **Fornecedor**: selecione um fornecedor já cadastrado na loja para relacionar ao produto.
-- **Código fiscal**: informe o número de identificação fiscal do produto.
+* **Políticas comerciais**: selecione uma ou mais políticas comerciais a que o produto se destina, para definir a quais marketplaces o produto será disponibilizado. Caso nenhuma política comercial seja selecionada, o produto vai ser considerado para todas elas. Exemplo: B2C.
+* **Fornecedor**: selecione um fornecedor já cadastrado na loja para relacionar ao produto.
+* **Código fiscal**: informe o número de identificação fiscal do produto.
 
 ## Visibilidade
 
