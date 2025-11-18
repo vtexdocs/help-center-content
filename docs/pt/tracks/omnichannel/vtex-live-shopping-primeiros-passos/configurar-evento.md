@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-primeiros-passos
 order: 7
 ---
 
-No Admin VTEX, acesse **Aplicativos > Live Shopping** e clique no ícone de seta de um [evento criado](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) para abrir a página de **Informações do evento**. Isso permitirá configurá-lo, conforme explicado nas próximas seções:
+No Admin VTEX, acesse **Aplicativos > Live Shopping** ou digite **Live Shopping** na barra de busca no topo da página e clique no ícone de seta de um [evento criado](https://help.vtex.com/pt/docs/tracks/criar-evento) para abrir a página de **Informações do evento**. Na página de gerenciamento, você encontrará as seguintes opções de configuração, divididas em seções:
 
 * [Tipo de layout - Configuração do estilo](#tipo-de-layout-configuracao-do-estilo)
 * [Chat - Configuração do nome do administrador](#chat-configuracao-do-nome-do-administrador)
