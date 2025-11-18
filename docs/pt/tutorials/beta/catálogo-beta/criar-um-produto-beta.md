@@ -53,7 +53,7 @@ Nesta aba, você vai realizar o cadastro do produto preenchendo os campos descri
 
 ## Descrição
 
-Nesta etapa, você precisa escrever uma descrição das principais informações relacionadas ao produto. O texto deve ser um resumo simples e de fácil entendimento para o cliente. 
+Nesta etapa, você precisa escrever uma descrição das principais informações relacionadas ao produto. O texto deve ser um resumo simples e de fácil entendimento para o cliente.
 
 **Exemplo**: "O Tênis Esportivo Ultralight é a escolha perfeita para os atletas que buscam alto desempenho e conforto. Com design inovador e materiais de alta tecnologia, este tênis proporciona máxima leveza e resistência durante as atividades físicas."
 
@@ -62,31 +62,29 @@ O editor de texto da descrição é do tipo rich text, ou seja, você pode utili
 ![image10](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-um-produto-beta_2.gif)
 Veja quais são os recursos disponíveis a partir da barra de ferramentas:
 
-- **Estilos**: define o estilo do texto selecionado. As opções são: Normal e Título 1 até Título 6.
-- **Tamanho da fonte**: altera o tamanho da fonte do texto selecionado. Você pode optar por um valor de 10 a 36 pts.
-- **Negrito**: formata o texto selecionado em negrito.
-- **Itálico**: formata o texto selecionado em itálico.
-- **Sublinhado**: sublinha o texto selecionado.
-- **Alinhar à esquerda**: alinha o texto selecionado à esquerda.
-- **Alinhar ao centro**: centraliza o texto selecionado.
-- **Alinhar à direita**: alinha o texto selecionado à direita.
-- **Lista com marcadores**: transforma o texto selecionado em um item de uma lista não ordenada, com marcadores.
-- **Lista numerada**: transforma o texto selecionado em um item de uma lista ordenada.
-- **Adicionar link**: insere um link no texto selecionado. Ao clicar neste botão, é necessário preencher as informações abaixo e, em seguida, clicar em `Salvar`.
-- **Título do link**: escreva o texto que vai conter o link.
-- **URL**: insira o link ao qual o texto vai direcionar o usuário.
-- **Abrir em uma nova aba**: selecione esta opção se você deseja que, ao clicar no link, o usuário abra a página em uma nova aba do navegador. Não selecione se o objetivo for que o usuário acesse o link na mesma aba.
-- **Código-fonte**: exibe o código fonte da descrição em HTML. Você pode editar a descrição diretamente pelo código-fonte, se desejar. Para retornar à visão anterior, é necessário clicar novamente no botão referente ao código-fonte.
+* **Estilos**: define o estilo do texto selecionado. As opções são: Normal e Título 1 até Título 6.
+* **Tamanho da fonte**: altera o tamanho da fonte do texto selecionado. Você pode optar por um valor de 10 a 36 pts.
+* **Negrito**: formata o texto selecionado em negrito.
+* **Itálico**: formata o texto selecionado em itálico.
+* **Sublinhado**: sublinha o texto selecionado.
+* **Alinhar à esquerda**: alinha o texto selecionado à esquerda.
+* **Alinhar ao centro**: centraliza o texto selecionado.
+* **Alinhar à direita**: alinha o texto selecionado à direita.
+* **Lista com marcadores**: transforma o texto selecionado em um item de uma lista não ordenada, com marcadores.
+* **Lista numerada**: transforma o texto selecionado em um item de uma lista ordenada.
+* **Adicionar link**: insere um link no texto selecionado. Ao clicar neste botão, é necessário preencher as informações abaixo e, em seguida, clicar em `Salvar`.
+* **Título do link**: escreva o texto que vai conter o link.
+* **URL**: insira o link ao qual o texto vai direcionar o usuário.
+* **Abrir em uma nova aba**: selecione esta opção se você deseja que, ao clicar no link, o usuário abra a página em uma nova aba do navegador. Não selecione se o objetivo for que o usuário acesse o link na mesma aba.
+* **Código-fonte**: exibe o código fonte da descrição em HTML. Você pode editar a descrição diretamente pelo código-fonte, se desejar. Para retornar à visão anterior, é necessário clicar novamente no botão referente ao código-fonte.
 
 ## SEO
 
 ![image11](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-um-produto-beta_3.png)
 
--  **URL do produto**: insira a URL pela qual será possível acessar o produto na loja. Neste campo, você não pode utilizar espaço nem caracteres especiais. Caso a URL seja composta por mais de uma palavra, você precisa separá-las com um `-`. Campo obrigatório. **Exemplo**: tenis-esportivo-ultralight.
-
-- **Título da página**: escreva o título da página do produto. Para otimizar a classificação do seu produto nos resultados de busca, o ideal é não ultrapassar 60 caracteres. Campo obrigatório. **Exemplo**: Tênis Esportivo Ultralight.
-
-- **Meta descrição**: escreva o título da página do produto. Para otimizar a classificação do seu produto nos resultados de busca, o ideal é não ultrapassar 60 caracteres. Campo obrigatório. **Exemplo**: Conheça o Tênis Esportivo Ultralight da SportXtreme, perfeito para atletas que buscam leveza e desempenho máximo nas atividades esportivas.
+* **URL do produto**: insira a URL pela qual será possível acessar o produto na loja. Neste campo, você não pode utilizar espaço nem caracteres especiais. Caso a URL seja composta por mais de uma palavra, você precisa separá-las com um `-`. Campo obrigatório. Exemplo: tenis-esportivo-ultralight.
+* **Título da página**: escreva o título da página do produto. Para otimizar a classificação do seu produto nos resultados de busca, o ideal é não ultrapassar 60 caracteres. Campo obrigatório. Exemplo: Tênis Esportivo Ultralight.
+* **Meta descrição**: escreva o título da página do produto. Para otimizar a classificação do seu produto nos resultados de busca, o ideal é não ultrapassar 60 caracteres. Campo obrigatório. Exemplo: Conheça o Tênis Esportivo Ultralight da SportXtreme, perfeito para atletas que buscam leveza e desempenho máximo nas atividades esportivas.
 
 ## Operação e logística
 
