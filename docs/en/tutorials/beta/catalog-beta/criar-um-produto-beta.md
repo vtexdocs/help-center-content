@@ -101,9 +101,9 @@ See the tools available in the toolbar:
 
 ### Operation and Logistics
 
-- **Trade policies:** Select one or more[ trade policies](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) for the product to determine the marketplaces in which the product will be available. If no trade policy is selected, the product will be applied to all of them. Example: B2C.
-- **Supplier: **Select a supplier already added to the store to link to the product.
-- **Tax code:** Enter the fiscal identification number of the product.
+* **Trade policies:** Select one or more [trade policies](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) for the product to determine the marketplaces in which the product will be available. If no trade policy is selected, the product will be applied to all of them. Example: B2C.
+* **Supplier:** Select a supplier already added to the store to link to the product.
+* **Tax code:** Enter the fiscal identification number of the product.
 
 ### Visibility
 
@@ -188,4 +188,4 @@ You can also delete an image by clicking the <i class="fas fa-ellipsis-v"></i> b
 ![image5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/criar-um-produto-beta_10.png)
 
 * **Activate bundle:** Determines if SKUs within a bundle can only be sold together. You can make the SKU part of a bundle <i class="fas fa-toggle-on"></i> or not <i class="fas fa-toggle-off"></i>.
-* **Generate credit with gift card**: Determines if the customer receives [credit](/en/tutorial/gift-card--tutorials_995) when buying an SKU. You can activate <i class="fas fa-toggle-on"></i> or deactivate <i class="fas fa-toggle-off"></i> this option.
+* **Generate credit with gift card:** Determines if the customer receives [credit](/en/tutorial/gift-card--tutorials_995) when buying an SKU. You can activate <i class="fas fa-toggle-on"></i> or deactivate <i class="fas fa-toggle-off"></i> this option.
