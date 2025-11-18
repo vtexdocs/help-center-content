@@ -126,12 +126,12 @@ Aqui serão exibidas as especificações criadas anteriormente para os SKUs. Se 
 
 ![image2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-um-produto-beta_7.png)
 
-- **Nome**: nome do SKU. Este nome será exibido na loja. Campo obrigatório.
-- **Código de referência**: código que será utilizado internamente pela loja para identificar o SKU. Campo obrigatório caso o SKU não tenha EAN/UPC preenchido.
-- **EAN/UPC**: campo que deve conter a informação do código de barras. Campo obrigatório caso o SKU não tenha o Código de referência preenchido.
-- **Código do fabricante**: fornecido pelo fabricante para identificar seu produto. Caso algum produto tenha um código específico, esse campo deve se preenchido.
-- **Condição comercial**: utilizado para definir promoções ou regras de parcelamento específicas para SKUs. Caso não exista uma condição específica, usar o valor padrão. Saiba mais no artigo [Cadastrar condição comercial](/pt/tutorial/como-cadastrar-condicao-comercial--tutorials_445).  
-- **Modal**: campo que realciona um produto não usual (carne, vidro, colchão) a uma transportadora especializada na entrega desse tipo de produto. Saiba mais no artigo Como funciona o modal.
+* **Nome**: nome do SKU. Este nome será exibido na loja. Campo obrigatório.
+* **Código de referência**: código que será utilizado internamente pela loja para identificar o SKU. Campo obrigatório caso o SKU não tenha EAN/UPC preenchido.
+* **EAN/UPC**: campo que deve conter a informação do código de barras. Campo obrigatório caso o SKU não tenha o Código de referência preenchido.
+* **Código do fabricante**: fornecido pelo fabricante para identificar seu produto. Caso algum produto tenha um código específico, esse campo deve se preenchido.
+* **Condição comercial**: utilizado para definir promoções ou regras de parcelamento específicas para SKUs. Caso não exista uma condição específica, usar o valor padrão. Saiba mais no artigo [Cadastrar condição comercial](/pt/tutorial/como-cadastrar-condicao-comercial--tutorials_445).  
+* **Modal**: campo que realciona um produto não usual (carne, vidro, colchão) a uma transportadora especializada na entrega desse tipo de produto. Saiba mais no artigo Como funciona o modal.
 
 ## Imagens
 
