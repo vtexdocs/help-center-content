@@ -98,9 +98,9 @@ Veja quais são os recursos disponíveis a partir da barra de ferramentas:
 
 ![image4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-um-produto-beta_5.png)
 
-- **Mostrar no site**: ative ou desative a visibilidade do produto na sua loja. Caso o produto seja um brinde que não pode ser comprado, por exemplo, é importante desativar esta opção.
-- **Mostrar quando fora de estoque**: ative ou desative a opção de mostrar o produto na loja mesmo quando não houver quantidade em estoque. Se ativada, o produto esgotado aparece na sua loja no formato de [Avise-me](/pt/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e) — campo em que o cliente informa seu email para ser avisado quando o produto estiver novamente disponível. Se essa opção for desativada, o produto não vai aparecer na loja quando estiver esgotado.
-- **Prioridade na ordenação de busca**: informe um valor numérico para definir a prioridade na página de resultado de busca. Para mais detalhes sobre este campo, leia [Como funciona o campo Score?](/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae). Caso sua loja utilize o VTEX Intelligent Search, leia [Como o VTEX Intelligent Search funciona?](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/23mytRDsEduqLO0Lo7yufy).
+* **Mostrar no site**: ative ou desative a visibilidade do produto na sua loja. Caso o produto seja um brinde que não pode ser comprado, por exemplo, é importante desativar esta opção.
+* **Mostrar quando fora de estoque**: ative ou desative a opção de mostrar o produto na loja mesmo quando não houver quantidade em estoque. Se ativada, o produto esgotado aparece na sua loja no formato de [Avise-me](/pt/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e) — campo em que o cliente informa seu email para ser avisado quando o produto estiver novamente disponível. Se essa opção for desativada, o produto não vai aparecer na loja quando estiver esgotado.
+* **Prioridade na ordenação de busca**: informe um valor numérico para definir a prioridade na página de resultado de busca. Para mais detalhes sobre este campo, leia [Como funciona o campo Score?](/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae). Caso sua loja utilize o VTEX Intelligent Search, leia [Como o VTEX Intelligent Search funciona?](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/23mytRDsEduqLO0Lo7yufy).
 
 ## Atributos
 
