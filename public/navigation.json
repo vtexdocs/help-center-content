@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Breaking change Shopee: Nova permissão de acesso obrigatória",
+                    "es": "Breaking change Shopee: Nova permissão de acesso obrigatória",
+                    "pt": "Breaking change Shopee: Nova permissão de acesso obrigatória"
+                  },
+                  "slug": {
+                    "en": "2025-11-13-breaking-change-shopee-nova-permissao-obrigatoria-copy",
+                    "es": "2025-11-13-breaking-change-shopee-nova-permissao-obrigatoria-copy",
+                    "pt": "2025-11-13-breaking-change-shopee-nova-permissao-obrigatoria"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "VTEX Help Center: Now with enhanced interface and new features",
                     "es": "Help Center VTEX: interfaz optimizada y nuevas funcionalidades",
                     "pt": "Help Center VTEX: agora com interface aprimorada e novas funcionalidades"
@@ -92,37 +107,6 @@
                     "en": "2025-11-03-new-access-control-acl-in-b2b-suite",
                     "es": "2025-11-03-nuevo-control-de-acceso-acl-en-b2b-suite",
                     "pt": "2025-11-03-novo-controle-de-acesso-acl-no-b2b-suite"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Novembro",
-                "es": "Novembro",
-                "pt": "Novembro"
-              },
-              "slug": {
-                "en": "novembro",
-                "es": "novembro",
-                "pt": "novembro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Breaking change Shopee: Nova permissão de acesso obrigatória",
-                    "en": "Breaking change Shopee: Nova permissão de acesso obrigatória",
-                    "es": "Breaking change Shopee: Nova permissão de acesso obrigatória"
-                  },
-                  "slug": {
-                    "pt": "2025-11-13-breaking-change-shopee-nova-permissao-obrigatoria",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -40192,12 +40176,12 @@
               "name": {
                 "en": "Attachment Update and Create API validation on field DomainValues not working",
                 "es": "La validación de la API de actualización y creación de archivos adjuntos en el campo DomainValues no funciona.",
-                "pt": "Atualização de anexos e criação de validação API em campos de valores de domínio que não funcionam"
+                "pt": "A validação da API Attachment Update e Create no campo DomainValues não está funcionando"
               },
               "slug": {
                 "en": "attachment-update-and-create-api-validation-on-field-domainvalues-not-working",
                 "es": "la-validacion-de-la-api-de-actualizacion-y-creacion-de-archivos-adjuntos-en-el-campo-domainvalues-no-funciona",
-                "pt": "atualizacao-de-anexos-e-criacao-de-validacao-api-em-campos-de-valores-de-dominio-que-nao-funcionam"
+                "pt": "a-validacao-da-api-attachment-update-e-create-no-campo-domainvalues-nao-esta-funcionando"
               },
               "origin": "",
               "type": "markdown",
@@ -40207,12 +40191,12 @@
               "name": {
                 "en": "Auto approve API accepts any values",
                 "es": "La API de aprobación automática acepta cualquier valor",
-                "pt": "Auto aprova API aceita quaisquer valores"
+                "pt": "A API de aprovação automática aceita qualquer valor"
               },
               "slug": {
                 "en": "auto-approve-api-accepts-any-values",
                 "es": "la-api-de-aprobacion-automatica-acepta-cualquier-valor",
-                "pt": "auto-aprova-api-aceita-quaisquer-valores"
+                "pt": "a-api-de-aprovacao-automatica-aceita-qualquer-valor"
               },
               "origin": "",
               "type": "markdown",
@@ -40882,12 +40866,12 @@
               "name": {
                 "en": "CMS Loyalty Value Settings not Working",
                 "es": "La configuración del valor de fidelización CMS no funciona",
-                "pt": "CMS Fidelidade Configurações de valores não funcionam"
+                "pt": "As configurações do CMS Loyalty Value não estão funcionando"
               },
               "slug": {
                 "en": "cms-loyalty-value-settings-not-working",
                 "es": "la-configuracion-del-valor-de-fidelizacion-cms-no-funciona",
-                "pt": "cms-fidelidade-configuracoes-de-valores-nao-funcionam"
+                "pt": "as-configuracoes-do-cms-loyalty-value-nao-estao-funcionando"
               },
               "origin": "",
               "type": "markdown",
@@ -41362,12 +41346,12 @@
               "name": {
                 "en": "Error message on offers management does not update after sku is binded on VTEX<>VTEX integrations",
                 "es": "Mensaje de error en la gestión de ofertas no se actualiza después de sku está vinculado en VTEX<>VTEX integraciones",
-                "pt": "Mensagem de erro na gestão de ofertas não é atualizada depois que o sku é vinculado a integrações VTEX<>VTEX"
+                "pt": "A mensagem de erro no gerenciamento de ofertas não é atualizada depois que o sku é vinculado nas integrações VTEX<>VTEX"
               },
               "slug": {
                 "en": "error-message-on-offers-management-does-not-update-after-sku-is-binded-on-vtexvtex-integrations",
                 "es": "mensaje-de-error-en-la-gestion-de-ofertas-no-se-actualiza-despues-de-sku-esta-vinculado-en-vtexvtex-integraciones",
-                "pt": "mensagem-de-erro-na-gestao-de-ofertas-nao-e-atualizada-depois-que-o-sku-e-vinculado-a-integracoes-vtexvtex"
+                "pt": "a-mensagem-de-erro-no-gerenciamento-de-ofertas-nao-e-atualizada-depois-que-o-sku-e-vinculado-nas-integracoes-vtexvtex"
               },
               "origin": "",
               "type": "markdown",
@@ -41540,9 +41524,9 @@
             },
             {
               "name": {
-                "en": "GET Product by Refid Returning 'Null' when not Found",
+                "en": "GET Product by Refid Returning \"Null\" when not Found",
                 "es": "GET Product by Refid Devuelve 'Null' cuando no se encuentra",
-                "pt": "GET Product by Refid retorna 'Null' quando não é encontrado"
+                "pt": "GET Product by Refid retorna \"Null\" quando não é encontrado"
               },
               "slug": {
                 "en": "get-product-by-refid-returning-null-when-not-found",
@@ -41602,12 +41586,12 @@
               "name": {
                 "en": "Global categories in catalog outdated compared to Google",
                 "es": "Categorías globales del catálogo obsoletas en comparación con Google",
-                "pt": "Categorias globais em catálogo desatualizadas em comparação com o Google"
+                "pt": "Categorias globais no catálogo desatualizadas em comparação com o Google"
               },
               "slug": {
                 "en": "global-categories-in-catalog-outdated-compared-to-google",
                 "es": "categorias-globales-del-catalogo-obsoletas-en-comparacion-con-google",
-                "pt": "categorias-globais-em-catalogo-desatualizadas-em-comparacao-com-o-google"
+                "pt": "categorias-globais-no-catalogo-desatualizadas-em-comparacao-com-o-google"
               },
               "origin": "",
               "type": "markdown",
@@ -42020,9 +42004,9 @@
             },
             {
               "name": {
-                "en": "Legacy Catalog UI 'delete' button not functional",
-                "es": "El botón 'eliminar' de la interfaz de usuario del catálogo heredado no funciona",
-                "pt": "O botão 'excluir' da interface do usuário do catálogo legado não funciona"
+                "en": "Legacy Catalog UI \"delete\" button not functional",
+                "es": "El botón \"eliminar\" de la interfaz de usuario del catálogo heredado no funciona",
+                "pt": "O botão \"excluir\" da interface do usuário do catálogo legado não funciona"
               },
               "slug": {
                 "en": "legacy-catalog-ui-delete-button-not-functional",
@@ -42067,12 +42051,12 @@
               "name": {
                 "en": "Legacy collection UI category filter selecting products wrongly to the collection",
                 "es": "El filtro de categorías de la interfaz de usuario de la colección heredada selecciona productos erróneamente en la colección.",
-                "pt": "Filtro da categoria UI Legacy Collection selecionando produtos erroneamente para a coleção"
+                "pt": "Filtro de categoria da IU da coleção legada selecionando produtos erroneamente para a coleção"
               },
               "slug": {
                 "en": "legacy-collection-ui-category-filter-selecting-products-wrongly-to-the-collection",
                 "es": "el-filtro-de-categorias-de-la-interfaz-de-usuario-de-la-coleccion-heredada-selecciona-productos-erroneamente-en-la-coleccion",
-                "pt": "filtro-da-categoria-ui-legacy-collection-selecionando-produtos-erroneamente-para-a-colecao"
+                "pt": "filtro-de-categoria-da-iu-da-colecao-legada-selecionando-produtos-erroneamente-para-a-colecao"
               },
               "origin": "",
               "type": "markdown",
@@ -42110,14 +42094,14 @@
             },
             {
               "name": {
-                "en": "Link 'Why fill VTEX Global Category?' on category setup only works opening in a new tab",
-                "es": "El enlace '¿Por qué rellenar la Categoría Global VTEX?' en la configuración de la categoría sólo funciona abriéndose en una nueva pestaña",
-                "pt": "Link 'Por que preencher a categoria VTEX Global?' na configuração da categoria só funciona abrindo em uma nova aba"
+                "en": "Link \"Why fill VTEX Global Category?\" on category setup only works opening in a new tab",
+                "es": "El enlace \"¿Por qué rellenar la categoría global VTEX?\" en la configuración de la categoría sólo funciona al abrirse en una nueva pestaña",
+                "pt": "O link \"Why fill VTEX Global Category?\" (Por que preencher a categoria global da VTEX?) na configuração da categoria só funciona ao abrir em uma nova guia"
               },
               "slug": {
                 "en": "link-why-fill-vtex-global-category-on-category-setup-only-works-opening-in-a-new-tab",
-                "es": "el-enlace-por-que-rellenar-la-categoria-global-vtex-en-la-configuracion-de-la-categoria-solo-funciona-abriendose-en-una-nueva-pestana",
-                "pt": "link-por-que-preencher-a-categoria-vtex-global-na-configuracao-da-categoria-so-funciona-abrindo-em-uma-nova-aba"
+                "es": "el-enlace-por-que-rellenar-la-categoria-global-vtex-en-la-configuracion-de-la-categoria-solo-funciona-al-abrirse-en-una-nueva-pestana",
+                "pt": "o-link-why-fill-vtex-global-category-por-que-preencher-a-categoria-global-da-vtex-na-configuracao-da-categoria-so-funciona-ao-abrir-em-uma-nova-guia"
               },
               "origin": "",
               "type": "markdown",
@@ -42547,12 +42531,12 @@
               "name": {
                 "en": "Product replacement on OMS order not working on seller portal accounts",
                 "es": "La sustitución de productos en un pedido OMS no funciona en las cuentas del portal del vendedor",
-                "pt": "Substituição de produto em pedido OMS não funcionando nas contas do portal do vendedor"
+                "pt": "A substituição do produto no pedido OMS não está funcionando nas contas do portal do vendedor"
               },
               "slug": {
                 "en": "product-replacement-on-oms-order-not-working-on-seller-portal-accounts",
                 "es": "la-sustitucion-de-productos-en-un-pedido-oms-no-funciona-en-las-cuentas-del-portal-del-vendedor",
-                "pt": "substituicao-de-produto-em-pedido-oms-nao-funcionando-nas-contas-do-portal-do-vendedor"
+                "pt": "a-substituicao-do-produto-no-pedido-oms-nao-esta-funcionando-nas-contas-do-portal-do-vendedor"
               },
               "origin": "",
               "type": "markdown",
@@ -42682,12 +42666,12 @@
               "name": {
                 "en": "Promotions by order of payment methods do not appear on the product page",
                 "es": "Las promociones por orden de formas de pago no aparecen en la página del producto",
-                "pt": "As promoções por ordem de pagamento não aparecem na página do produto"
+                "pt": "As promoções por ordem de métodos de pagamento não são exibidas na página do produto"
               },
               "slug": {
                 "en": "promotions-by-order-of-payment-methods-do-not-appear-on-the-product-page",
                 "es": "las-promociones-por-orden-de-formas-de-pago-no-aparecen-en-la-pagina-del-producto",
-                "pt": "as-promocoes-por-ordem-de-pagamento-nao-aparecem-na-pagina-do-produto"
+                "pt": "as-promocoes-por-ordem-de-metodos-de-pagamento-nao-sao-exibidas-na-pagina-do-produto"
               },
               "origin": "",
               "type": "markdown",
@@ -43207,12 +43191,12 @@
               "name": {
                 "en": "stockkeepingunit catalog API allows invalid commercial condition values",
                 "es": "La API del catálogo stockkeepingunit permite valores de condición comercial no válidos",
-                "pt": "API do catálogo da unidade de estocagem permite valores de condição comercial inválidos"
+                "pt": "A API do catálogo stockkeepingunit permite valores de condição comercial inválidos"
               },
               "slug": {
                 "en": "stockkeepingunit-catalog-api-allows-invalid-commercial-condition-values",
                 "es": "la-api-del-catalogo-stockkeepingunit-permite-valores-de-condicion-comercial-no-validos",
-                "pt": "api-do-catalogo-da-unidade-de-estocagem-permite-valores-de-condicao-comercial-invalidos"
+                "pt": "a-api-do-catalogo-stockkeepingunit-permite-valores-de-condicao-comercial-invalidos"
               },
               "origin": "",
               "type": "markdown",
@@ -43295,9 +43279,9 @@
             },
             {
               "name": {
-                "en": "Telesales search doesn't accept special characters aside from '@'.",
-                "es": "La búsqueda de televentas no acepta caracteres especiales aparte de '@'.",
-                "pt": "A pesquisa de televendas não aceita caracteres especiais além de '@'."
+                "en": "Telesales search doesn't accept special characters aside from \"@\".",
+                "es": "La búsqueda de televentas no acepta caracteres especiales aparte de \"@\".",
+                "pt": "A pesquisa de televendas não aceita caracteres especiais além de \"@\"."
               },
               "slug": {
                 "en": "telesales-search-doesnt-accept-special-characters-aside-from",
@@ -44049,12 +44033,12 @@
               "name": {
                 "en": "Adding a new address on Invoice Address returns null API results",
                 "es": "Añadir una nueva dirección en Dirección de factura devuelve resultados nulos de la API",
-                "pt": "A adição de um novo endereço no endereço da fatura retorna resultados API nulos"
+                "pt": "A adição de um novo endereço no endereço da fatura retorna resultados nulos da API"
               },
               "slug": {
                 "en": "adding-a-new-address-on-invoice-address-returns-null-api-results",
                 "es": "anadir-una-nueva-direccion-en-direccion-de-factura-devuelve-resultados-nulos-de-la-api",
-                "pt": "a-adicao-de-um-novo-endereco-no-endereco-da-fatura-retorna-resultados-api-nulos"
+                "pt": "a-adicao-de-um-novo-endereco-no-endereco-da-fatura-retorna-resultados-nulos-da-api"
               },
               "origin": "",
               "type": "markdown",
@@ -45474,12 +45458,12 @@
               "name": {
                 "en": "Incorrect ShippingEstimateDate for order FOB",
                 "es": "ShippingEstimateDate incorrecto para el pedido FOB",
-                "pt": "Envio incorretoData de EnvioEstimativa para pedido FOB"
+                "pt": "ShippingEstimateDate incorreto para o pedido FOB"
               },
               "slug": {
                 "en": "incorrect-shippingestimatedate-for-order-fob",
                 "es": "shippingestimatedate-incorrecto-para-el-pedido-fob",
-                "pt": "envio-incorretodata-de-envioestimativa-para-pedido-fob"
+                "pt": "shippingestimatedate-incorreto-para-o-pedido-fob"
               },
               "origin": "",
               "type": "markdown",
@@ -45684,12 +45668,12 @@
               "name": {
                 "en": "Lean Shipping overrides user preferred shipping method to cheapest option in different sessions/browsers",
                 "es": "Lean Shipping sustituye el método de envío preferido por el usuario por la opción más barata en diferentes sesiones/navegadores.",
-                "pt": "O envio enxuto substitui o método de envio preferido pelo usuário pela opção mais barata em diferentes sessões/browsers"
+                "pt": "O Lean Shipping substitui o método de envio preferido do usuário pela opção mais barata em diferentes sessões/navegadores"
               },
               "slug": {
                 "en": "lean-shipping-overrides-user-preferred-shipping-method-to-cheapest-option-in-different-sessionsbrowsers",
                 "es": "lean-shipping-sustituye-el-metodo-de-envio-preferido-por-el-usuario-por-la-opcion-mas-barata-en-diferentes-sesionesnavegadores",
-                "pt": "o-envio-enxuto-substitui-o-metodo-de-envio-preferido-pelo-usuario-pela-opcao-mais-barata-em-diferentes-sessoesbrowsers"
+                "pt": "o-lean-shipping-substitui-o-metodo-de-envio-preferido-do-usuario-pela-opcao-mais-barata-em-diferentes-sessoesnavegadores"
               },
               "origin": "",
               "type": "markdown",
@@ -46224,12 +46208,12 @@
               "name": {
                 "en": "Payout and Transaction split don't work in the same order for Multilevel Omnichannel Inventory",
                 "es": "El pago y la división de transacciones no funcionan en el mismo orden para el inventario omnicanal multinivel.",
-                "pt": "O pagamento e a divisão da transação não funcionam na mesma ordem para o Inventário Multilevel Omnichannel"
+                "pt": "O pagamento e a divisão da transação não funcionam na mesma ordem para o inventário omnicanal multinível"
               },
               "slug": {
                 "en": "payout-and-transaction-split-dont-work-in-the-same-order-for-multilevel-omnichannel-inventory",
                 "es": "el-pago-y-la-division-de-transacciones-no-funcionan-en-el-mismo-orden-para-el-inventario-omnicanal-multinivel",
-                "pt": "o-pagamento-e-a-divisao-da-transacao-nao-funcionam-na-mesma-ordem-para-o-inventario-multilevel-omnichannel"
+                "pt": "o-pagamento-e-a-divisao-da-transacao-nao-funcionam-na-mesma-ordem-para-o-inventario-omnicanal-multinivel"
               },
               "origin": "",
               "type": "markdown",
@@ -46492,9 +46476,9 @@
             },
             {
               "name": {
-                "en": "Prices restricted to 'Int32' max value on Change Price API",
-                "es": "Precios restringidos al valor máximo 'Int32' en la API de cambio de precio",
-                "pt": "Preços restritos ao valor máximo 'Int32' na API Change Price"
+                "en": "Prices restricted to \"Int32\" max value on Change Price API",
+                "es": "Precios restringidos al valor máximo \"Int32\" en la API de cambio de precio",
+                "pt": "Preços restritos ao valor máximo \"Int32\" na API Change Price"
               },
               "slug": {
                 "en": "prices-restricted-to-int32-max-value-on-change-price-api",
@@ -46929,12 +46913,12 @@
               "name": {
                 "en": "Shipping Preview wrongly displaying the date when it's scheduled delivery",
                 "es": "La vista previa de envío muestra erróneamente la fecha en la que está programada la entrega",
-                "pt": "Pré-visualização de embarque exibindo erroneamente a data em que está programada a entrega"
+                "pt": "A visualização da remessa está exibindo incorretamente a data quando a entrega está programada"
               },
               "slug": {
                 "en": "shipping-preview-wrongly-displaying-the-date-when-its-scheduled-delivery",
                 "es": "la-vista-previa-de-envio-muestra-erroneamente-la-fecha-en-la-que-esta-programada-la-entrega",
-                "pt": "previsualizacao-de-embarque-exibindo-erroneamente-a-data-em-que-esta-programada-a-entrega"
+                "pt": "a-visualizacao-da-remessa-esta-exibindo-incorretamente-a-data-quando-a-entrega-esta-programada"
               },
               "origin": "",
               "type": "markdown",
@@ -47786,12 +47770,12 @@
               "name": {
                 "en": "Drag and Drop issue on Site Editor",
                 "es": "Problema de arrastrar y soltar en el Editor de Sitios",
-                "pt": "Edição Drag and Drop no Site Editor"
+                "pt": "Problema de arrastar e soltar no Site Editor"
               },
               "slug": {
                 "en": "drag-and-drop-issue-on-site-editor",
                 "es": "problema-de-arrastrar-y-soltar-en-el-editor-de-sitios",
-                "pt": "edicao-drag-and-drop-no-site-editor"
+                "pt": "problema-de-arrastar-e-soltar-no-site-editor"
               },
               "origin": "",
               "type": "markdown",
@@ -47966,12 +47950,12 @@
               "name": {
                 "en": "Ordination of images when uploading a new version not working",
                 "es": "No funciona la ordenación de imágenes al subir una nueva versión",
-                "pt": "Ordenação de imagens ao fazer upload de uma nova versão não funcionando"
+                "pt": "A ordenação de imagens ao fazer o upload de uma nova versão não está funcionando"
               },
               "slug": {
                 "en": "ordination-of-images-when-uploading-a-new-version-not-working",
                 "es": "no-funciona-la-ordenacion-de-imagenes-al-subir-una-nueva-version",
-                "pt": "ordenacao-de-imagens-ao-fazer-upload-de-uma-nova-versao-nao-funcionando"
+                "pt": "a-ordenacao-de-imagens-ao-fazer-o-upload-de-uma-nova-versao-nao-esta-funcionando"
               },
               "origin": "",
               "type": "markdown",
@@ -48258,21 +48242,6 @@
                 "en": "analytics-error-loading-data-in-sales-performance-dashboard",
                 "es": "analytics-error-al-cargar-datos-en-el-panel-de-rendimiento-de-ventas",
                 "pt": "analytics-erro-ao-carregar-dados-no-painel-de-desempenho-de-vendas"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "[B2W] 'B2W direct' order (FOB) integrating with carrier",
-                "es": "[B2W] Pedido 'B2W directo' (FOB) integrando con transportista",
-                "pt": "[Ordem 'B2W direta' (FOB) integrando-se com a transportadora"
-              },
-              "slug": {
-                "en": "b2w-b2w-direct-order-fob-integrating-with-carrier",
-                "es": "b2w-pedido-b2w-directo-fob-integrando-con-transportista",
-                "pt": "ordem-b2w-direta-fob-integrandose-com-a-transportadora"
               },
               "origin": "",
               "type": "markdown",
@@ -48625,21 +48594,6 @@
             },
             {
               "name": {
-                "en": "[Mercado Livre] [Bridge] Bridge isn't logging some error messages",
-                "es": "[Mercado Livre] [Bridge] Bridge no registra algunos mensajes de error",
-                "pt": "[Mercado Livre] [Bridge] O Bridge não está registrando algumas mensagens de erro"
-              },
-              "slug": {
-                "en": "mercado-livre-bridge-bridge-isnt-logging-some-error-messages",
-                "es": "mercado-livre-bridge-bridge-no-registra-algunos-mensajes-de-error",
-                "pt": "mercado-livre-bridge-o-bridge-nao-esta-registrando-algumas-mensagens-de-erro"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "[Mercado Livre] [Sku] Bridge isn't logging some error messages",
                 "es": "[Mercado Livre] [Sku] Bridge no registra algunos mensajes de error",
                 "pt": "[Mercado Livre] [Sku] O Bridge não está registrando algumas mensagens de erro"
@@ -48730,21 +48684,6 @@
             },
             {
               "name": {
-                "en": "[Mercado Livre] Remove under_review validation in Update SKU",
-                "es": "[Mercado Livre] Eliminar validación under_review en Actualizar SKU",
-                "pt": "[Mercado Livre] Remover a validação under_review em Atualizar SKU"
-              },
-              "slug": {
-                "en": "mercado-livre-remove-underreview-validation-in-update-sku",
-                "es": "mercado-livre-eliminar-validacion-underreview-en-actualizar-sku",
-                "pt": "mercado-livre-remover-a-validacao-underreview-em-atualizar-sku"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "[Shopee] Could not create product.",
                 "es": "[Shopee] No se pudo crear el producto.",
                 "pt": "[Não foi possível criar produto."
@@ -48828,6 +48767,21 @@
                 "en": "adjust-shipping-query-when-the-order-has-more-than-one-product-centauro",
                 "es": "ajustar-la-consulta-de-envio-cuando-el-pedido-tiene-mas-de-un-producto-centauro",
                 "pt": "ajuste-a-consulta-de-envio-quando-o-pedido-tem-mais-de-um-produto-centauro"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon Amazon order does not integrate correctly",
+                "es": "Amazon El pedido de Amazon no se integra correctamente",
+                "pt": "Amazon O pedido da Amazon não se integra corretamente"
+              },
+              "slug": {
+                "en": "amazon-amazon-order-does-not-integrate-correctly",
+                "es": "amazon-el-pedido-de-amazon-no-se-integra-correctamente",
+                "pt": "amazon-o-pedido-da-amazon-nao-se-integra-corretamente"
               },
               "origin": "",
               "type": "markdown",
@@ -49060,6 +49014,21 @@
             },
             {
               "name": {
+                "en": "B2W \"B2W direct\" order (FOB) integrating with carrier",
+                "es": "B2W Pedido \"B2W directo\" (FOB) integrando con transportista",
+                "pt": "B2W Pedido \"B2W direto\" (FOB) integrando com a transportadora"
+              },
+              "slug": {
+                "en": "b2w-b2w-direct-order-fob-integrating-with-carrier",
+                "es": "b2w-pedido-b2w-directo-fob-integrando-con-transportista",
+                "pt": "b2w-pedido-b2w-direto-fob-integrando-com-a-transportadora"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Card facebook doesn't save some settings",
                 "es": "La pantalla de integración de facebook no guarda algunos ajustes",
                 "pt": "O card do Facebook não salva algumas configurações"
@@ -49180,13 +49149,13 @@
             },
             {
               "name": {
-                "en": "Erro 'Category XXX not found in browse node mapping for SKU's department specification, choose a more specific global category' persistente",
-                "es": "Erro 'Categoría XXX no encontrada en el mapeo del nodo de navegación para la especificación del departamento de SKU, elija una categoría global más específica' persistente",
+                "en": "Erro \"Category XXX not found in browse node mapping for SKU's department specification, choose a more specific global category\" persistente",
+                "es": "Erro \"Categoría XXX no encontrada en el mapeo del nodo de navegación para la especificación del departamento de SKU, elija una categoría global más específica\" persistente",
                 "pt": "Erro 'Categoria XXX não encontrada no mapeamento de nós de navegação para a especificação do departamento da SKU, escolha uma categoria global mais específica' persistente"
               },
               "slug": {
                 "en": "erro-category-xxx-not-found-in-browse-node-mapping-for-skus-department-specification-choose-a-more-specific-global-category-persistente",
-                "es": "erro-categoria-xxx-no-encontrada-en-el-mapeo-del-nodo-de-navegacion-para-la-especificacion-del-departamento-de-sku-elija-una-categoria-global-mas-e",
+                "es": "erro-categoria-xxx-no-encontrada-en-el-mapeo-del-nodo-de-navegacion-para-la-especificacion-del-departamento-de-sku-elija-una-categoria-global-mas-especifica-persistente",
                 "pt": "erro-categoria-xxx-nao-encontrada-no-mapeamento-de-nos-de-navegacao-para-a-especificacao-do-departamento-da-sku-escolha-uma-categoria-global-mais-e"
               },
               "origin": "",
@@ -49735,6 +49704,21 @@
             },
             {
               "name": {
+                "en": "Mercado Livre Bridge Bridge isn't logging some error messages",
+                "es": "Mercado Livre Bridge Bridge no registra algunos mensajes de error",
+                "pt": "Mercado Livre Bridge O Bridge não está registrando algumas mensagens de erro"
+              },
+              "slug": {
+                "en": "mercado-livre-bridge-bridge-isnt-logging-some-error-messages",
+                "es": "mercado-livre-bridge-bridge-no-registra-algunos-mensajes-de-error",
+                "pt": "mercado-livre-bridge-o-bridge-nao-esta-registrando-algumas-mensagens-de-erro"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "es": "Mercado Livre La interfaz de usuario de promociones muestra el mensaje \"Lo sentimos, se ha producido un error\" debido a los límites de solicitudes de Mercado Livre (módulo Promociones).",
                 "en": "Mercado Livre La interfaz de usuario de promociones muestra el mensaje \"Lo sentimos, se ha producido un error\" debido a los límites de solicitudes de Mercado Livre (módulo Promociones).",
                 "pt": "Mercado Livre La interfaz de usuario de promociones muestra el mensaje \"Lo sentimos, se ha producido un error\" debido a los límites de solicitudes de Mercado Livre (módulo Promociones)."
@@ -49773,6 +49757,36 @@
                 "en": "mercado-livre-mapper-attribute-size",
                 "es": "tamano-del-atributo-mercado-livre-mapper",
                 "pt": "tamanho-do-atributo-do-mercado-livre-mapper"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Os atributos seller_package_height, seller_package_width, seller_package_length e seller_package_weight são obrigatórios.",
+                "es": "Mercado Libre Los atributos altura_paquete_vendedor, anchura_paquete_vendedor, longitud_paquete_vendedor y peso_paquete_vendedor son obligatorios.",
+                "pt": "Mercado Livre Os atributos seller_package_height, seller_package_width, seller_package_length e seller_package_weight são obrigatórios."
+              },
+              "slug": {
+                "en": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios",
+                "es": "mercado-libre-los-atributos-alturapaquetevendedor-anchurapaquetevendedor-longitudpaquetevendedor-y-pesopaquetevendedor-son-obligatorios",
+                "pt": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Remove under_review validation in Update SKU",
+                "es": "Mercado Livre Eliminar validación under_review en Actualizar SKU",
+                "pt": "Mercado Livre Remover a validação under_review em Atualizar SKU"
+              },
+              "slug": {
+                "en": "mercado-livre-remove-underreview-validation-in-update-sku",
+                "es": "mercado-livre-eliminar-validacion-underreview-en-actualizar-sku",
+                "pt": "mercado-livre-remover-a-validacao-underreview-em-atualizar-sku"
               },
               "origin": "",
               "type": "markdown",
@@ -51058,9 +51072,9 @@
             },
             {
               "name": {
-                "en": "User only with the role 'User Administrator - RESTRICTED' is not able to list the users",
-                "es": "El usuario sólo con el rol 'Administrador de usuarios - RESTRINGIDO' no puede listar los usuarios",
-                "pt": "O usuário apenas com a função 'User Administrator - RESTRICTED' não consegue listar os usuários"
+                "en": "User only with the role \"User Administrator - RESTRICTED\" is not able to list the users",
+                "es": "El usuario sólo con el rol \"Administrador de usuarios - RESTRINGIDO\" no puede listar los usuarios",
+                "pt": "O usuário apenas com a função \"User Administrator - RESTRICTED\" não consegue listar os usuários"
               },
               "slug": {
                 "en": "user-only-with-the-role-user-administrator-restricted-is-not-able-to-list-the-users",
@@ -53388,12 +53402,12 @@
               "name": {
                 "en": "Space in street property in Postal Code JSON affects address field display at checkout",
                 "es": "El espacio en la propiedad street en Postal Code JSON afecta a la visualización del campo de dirección en la caja",
-                "pt": "O espaço na propriedade da rua no JSON do código postal afeta a exibição do campo de endereço no checkout"
+                "pt": "O espaço na propriedade da rua no código postal JSON afeta a exibição do campo de endereço no checkout"
               },
               "slug": {
                 "en": "space-in-street-property-in-postal-code-json-affects-address-field-display-at-checkout",
                 "es": "el-espacio-en-la-propiedad-street-en-postal-code-json-afecta-a-la-visualizacion-del-campo-de-direccion-en-la-caja",
-                "pt": "o-espaco-na-propriedade-da-rua-no-json-do-codigo-postal-afeta-a-exibicao-do-campo-de-endereco-no-checkout"
+                "pt": "o-espaco-na-propriedade-da-rua-no-codigo-postal-json-afeta-a-exibicao-do-campo-de-endereco-no-checkout"
               },
               "origin": "",
               "type": "markdown",
@@ -53403,12 +53417,12 @@
               "name": {
                 "en": "Space in warehouse ID causes internal logistics requests to fail",
                 "es": "El espacio en la identificación del almacén hace que fallen las solicitudes de logística interna",
-                "pt": "O espaço na identificação do armazém faz com que os pedidos logísticos internos falhem"
+                "pt": "O espaço na identificação do depósito causa falhas nas solicitações de logística interna"
               },
               "slug": {
                 "en": "space-in-warehouse-id-causes-internal-logistics-requests-to-fail",
                 "es": "el-espacio-en-la-identificacion-del-almacen-hace-que-fallen-las-solicitudes-de-logistica-interna",
-                "pt": "o-espaco-na-identificacao-do-armazem-faz-com-que-os-pedidos-logisticos-internos-falhem"
+                "pt": "o-espaco-na-identificacao-do-deposito-causa-falhas-nas-solicitacoes-de-logistica-interna"
               },
               "origin": "",
               "type": "markdown",
@@ -55505,12 +55519,12 @@
               "name": {
                 "en": "Fullcleanup on sellers does not work if the account has seller groups on Seller Management",
                 "es": "La limpieza completa de vendedores no funciona si la cuenta tiene grupos de vendedores en Gestión de vendedores.",
-                "pt": "A limpeza completa dos vendedores não funciona se a conta tiver grupos de vendedores no Gerenciamento de vendedores"
+                "pt": "A limpeza completa nos vendedores não funciona se a conta tiver grupos de vendedores no Gerenciamento de vendedores"
               },
               "slug": {
                 "en": "fullcleanup-on-sellers-does-not-work-if-the-account-has-seller-groups-on-seller-management",
                 "es": "la-limpieza-completa-de-vendedores-no-funciona-si-la-cuenta-tiene-grupos-de-vendedores-en-gestion-de-vendedores",
-                "pt": "a-limpeza-completa-dos-vendedores-nao-funciona-se-a-conta-tiver-grupos-de-vendedores-no-gerenciamento-de-vendedores"
+                "pt": "a-limpeza-completa-nos-vendedores-nao-funciona-se-a-conta-tiver-grupos-de-vendedores-no-gerenciamento-de-vendedores"
               },
               "origin": "",
               "type": "markdown",
@@ -55863,14 +55877,14 @@
             },
             {
               "name": {
-                "en": "When loading the 'Catalog Maping' page on admin the initial message is not translated",
-                "es": "Al cargar la página 'Catalog Maping' en admin no se traduce el mensaje inicial",
-                "pt": "Ao carregar a página 'Mapeamento do Catálogo' em admin a mensagem inicial não é traduzida"
+                "en": "When loading the \"Catalog Maping\" page on admin the initial message is not translated",
+                "es": "Al cargar la página \"Catalog Maping\" en admin no se traduce el mensaje inicial",
+                "pt": "Ao carregar a página \"Catalog Maping\" no administrador, a mensagem inicial não é traduzida"
               },
               "slug": {
                 "en": "when-loading-the-catalog-maping-page-on-admin-the-initial-message-is-not-translated",
                 "es": "al-cargar-la-pagina-catalog-maping-en-admin-no-se-traduce-el-mensaje-inicial",
-                "pt": "ao-carregar-a-pagina-mapeamento-do-catalogo-em-admin-a-mensagem-inicial-nao-e-traduzida"
+                "pt": "ao-carregar-a-pagina-catalog-maping-no-administrador-a-mensagem-inicial-nao-e-traduzida"
               },
               "origin": "",
               "type": "markdown",
@@ -56963,12 +56977,12 @@
               "name": {
                 "en": "New UI does not show the customers ID document for example CPF",
                 "es": "La nueva interfaz de usuario no muestra el documento de identidad del cliente, por ejemplo el CPF.",
-                "pt": "A nova IU não mostra o documento de identificação do cliente, por exemplo CPF"
+                "pt": "A nova interface do usuário não mostra o documento de identificação do cliente, por exemplo, o CPF"
               },
               "slug": {
                 "en": "new-ui-does-not-show-the-customers-id-document-for-example-cpf",
                 "es": "la-nueva-interfaz-de-usuario-no-muestra-el-documento-de-identidad-del-cliente-por-ejemplo-el-cpf",
-                "pt": "a-nova-iu-nao-mostra-o-documento-de-identificacao-do-cliente-por-exemplo-cpf"
+                "pt": "a-nova-interface-do-usuario-nao-mostra-o-documento-de-identificacao-do-cliente-por-exemplo-o-cpf"
               },
               "origin": "",
               "type": "markdown",
@@ -58425,7 +58439,7 @@
               },
               "slug": {
                 "en": "callbacks-after-approval-may-trigger-paymentauthorizationworker-to-retry-payment-which-may-also-deny-it",
-                "es": "las-devoluciones-de-llamada-tras-la-aprobacion-pueden-provocar-que-paymentauthorizationworker-vuelva-a-intentar-el-pago-lo-que-tambien-puede-denega",
+                "es": "las-devoluciones-de-llamada-tras-la-aprobacion-pueden-provocar-que-paymentauthorizationworker-vuelva-a-intentar-el-pago-lo-que-tambien-puede-denegarlo",
                 "pt": "as-chamadas-de-retorno-apos-a-aprovacao-podem-acionar-o-paymentauthorizationworker-para-tentar-novamente-o-pagamento-o-que-tambem-pode-negalo"
               },
               "origin": "",
@@ -59169,9 +59183,9 @@
             },
             {
               "name": {
-                "en": "Gift card - It does not return Fields 'caption' and 'relationName' when we make a get request.",
-                "es": "Tarjeta regalo - No devuelve los campos 'caption' y 'relationName' cuando hacemos una petición get.",
-                "pt": "Cartão-presente - Ele não retorna os campos 'caption' e 'relationName' quando fazemos uma solicitação get."
+                "en": "Gift card - It does not return Fields \"caption\" and \"relationName\" when we make a get request.",
+                "es": "Tarjeta regalo - No devuelve los campos \"caption\" y \"relationName\" cuando hacemos una petición get.",
+                "pt": "Cartão-presente - Ele não retorna os campos \"caption\" e \"relationName\" quando fazemos uma solicitação get."
               },
               "slug": {
                 "en": "gift-card-it-does-not-return-fields-caption-and-relationname-when-we-make-a-get-request",
@@ -60761,12 +60775,12 @@
               "name": {
                 "en": "The legacy Adyen connector is unable of asynchronously denying payment capture",
                 "es": "El conector Adyen heredado es incapaz de denegar de forma asíncrona la captura de pagos",
-                "pt": "O conector legado da Adyen não consegue negar assincronamente a captura de pagamentos"
+                "pt": "O conector legado da Adyen não consegue recusar de forma assíncrona a captura de pagamentos"
               },
               "slug": {
                 "en": "the-legacy-adyen-connector-is-unable-of-asynchronously-denying-payment-capture",
                 "es": "el-conector-adyen-heredado-es-incapaz-de-denegar-de-forma-asincrona-la-captura-de-pagos",
-                "pt": "o-conector-legado-da-adyen-nao-consegue-negar-assincronamente-a-captura-de-pagamentos"
+                "pt": "o-conector-legado-da-adyen-nao-consegue-recusar-de-forma-assincrona-a-captura-de-pagamentos"
               },
               "origin": "",
               "type": "markdown",
@@ -60956,12 +60970,12 @@
               "name": {
                 "en": "Transaction Not Loading - Blank Screen",
                 "es": "Transacción no cargada - Pantalla en blanco",
-                "pt": "A transação não está carregando - tela em branco"
+                "pt": "A transação não está sendo carregada - tela em branco"
               },
               "slug": {
                 "en": "transaction-not-loading-blank-screen",
                 "es": "transaccion-no-cargada-pantalla-en-blanco",
-                "pt": "a-transacao-nao-esta-carregando-tela-em-branco"
+                "pt": "a-transacao-nao-esta-sendo-carregada-tela-em-branco"
               },
               "origin": "",
               "type": "markdown",
@@ -61046,12 +61060,12 @@
               "name": {
                 "en": "Transaction stuck in Settling after Capture fails due to recipientsSplitRemainValue mismatch",
                 "es": "Transacción bloqueada en Liquidación tras fallo de Captura debido a una falta de coincidencia de recipientsSplitRemainValue.",
-                "pt": "Transação presa na liquidação após falha na captura devido à incompatibilidade de recipientsSplitRemainValue"
+                "pt": "Transação presa na Liquidação após falha na Captura devido à incompatibilidade entre recipientsSplitRemainValue"
               },
               "slug": {
                 "en": "transaction-stuck-in-settling-after-capture-fails-due-to-recipientssplitremainvalue-mismatch",
                 "es": "transaccion-bloqueada-en-liquidacion-tras-fallo-de-captura-debido-a-una-falta-de-coincidencia-de-recipientssplitremainvalue",
-                "pt": "transacao-presa-na-liquidacao-apos-falha-na-captura-devido-a-incompatibilidade-de-recipientssplitremainvalue"
+                "pt": "transacao-presa-na-liquidacao-apos-falha-na-captura-devido-a-incompatibilidade-entre-recipientssplitremainvalue"
               },
               "origin": "",
               "type": "markdown",
@@ -61256,12 +61270,12 @@
               "name": {
                 "en": "Transactions with the TNSPay connector being denied by error: Card not ENROLLED in 3DS",
                 "es": "Transacciones con el conector TNSPay denegadas por error: Tarjeta no REGISTRADA en 3DS",
-                "pt": "Transações com o conector TNSPay sendo negadas por erro: Cartão não PROIBIDO em 3DS"
+                "pt": "As transações com o conector TNSPay estão sendo negadas por erro: Card not ENROLLED in 3DS"
               },
               "slug": {
                 "en": "transactions-with-the-tnspay-connector-being-denied-by-error-card-not-enrolled-in-3ds",
                 "es": "transacciones-con-el-conector-tnspay-denegadas-por-error-tarjeta-no-registrada-en-3ds",
-                "pt": "transacoes-com-o-conector-tnspay-sendo-negadas-por-erro-cartao-nao-proibido-em-3ds"
+                "pt": "as-transacoes-com-o-conector-tnspay-estao-sendo-negadas-por-erro-card-not-enrolled-in-3ds"
               },
               "origin": "",
               "type": "markdown",
@@ -63480,13 +63494,13 @@
             {
               "name": {
                 "en": "Gift promotions not working as expected when acting alongside other gift promotion",
-                "es": "Las promociones de regalo no funcionan como se esperaba cuando actúan junto a otra promoción de regalo",
-                "pt": "Promoções de presentes que não funcionam como esperado quando atuam em conjunto com outras promoções de presentes"
+                "es": "Las promociones de regalo no funcionan como se esperaba cuando actúan junto con otra promoción de regalo",
+                "pt": "As promoções de brindes não funcionam como esperado quando atuam junto com outra promoção de brindes"
               },
               "slug": {
                 "en": "gift-promotions-not-working-as-expected-when-acting-alongside-other-gift-promotion",
-                "es": "las-promociones-de-regalo-no-funcionan-como-se-esperaba-cuando-actuan-junto-a-otra-promocion-de-regalo",
-                "pt": "promocoes-de-presentes-que-nao-funcionam-como-esperado-quando-atuam-em-conjunto-com-outras-promocoes-de-presentes"
+                "es": "las-promociones-de-regalo-no-funcionan-como-se-esperaba-cuando-actuan-junto-con-otra-promocion-de-regalo",
+                "pt": "as-promocoes-de-brindes-nao-funcionam-como-esperado-quando-atuam-junto-com-outra-promocao-de-brindes"
               },
               "origin": "",
               "type": "markdown",
@@ -64712,9 +64726,9 @@
             },
             {
               "name": {
-                "en": "Error occurs when attempting to perform a search using the 'All' field in VTEX CRM UI",
-                "es": "Se produce un error al intentar realizar una búsqueda utilizando el campo 'Todos' en VTEX CRM UI",
-                "pt": "Ocorre um erro ao tentar realizar uma pesquisa usando o campo 'All' na interface do usuário do VTEX CRM"
+                "en": "Error occurs when attempting to perform a search using the \"All\" field in VTEX CRM UI",
+                "es": "Se produce un error al intentar realizar una búsqueda utilizando el campo \"Todos\" en VTEX CRM UI",
+                "pt": "Ocorre um erro ao tentar realizar uma pesquisa usando o campo \"All\" na interface do usuário do VTEX CRM"
               },
               "slug": {
                 "en": "error-occurs-when-attempting-to-perform-a-search-using-the-all-field-in-vtex-crm-ui",
@@ -64774,12 +64788,12 @@
               "name": {
                 "en": "Error when reaching pages over 333 on a entity list (more than 10.000 documents)",
                 "es": "Error al alcanzar páginas superiores a 333 en una lista de entidades (más de 10.000 documentos)",
-                "pt": "Erro ao chegar a páginas acima de 333 em uma lista de entidades (mais de 10.000 documentos)"
+                "pt": "Erro ao acessar páginas acima de 333 em uma lista de entidades (mais de 10.000 documentos)"
               },
               "slug": {
                 "en": "error-when-reaching-pages-over-333-on-a-entity-list-more-than-10000-documents",
                 "es": "error-al-alcanzar-paginas-superiores-a-333-en-una-lista-de-entidades-mas-de-10000-documentos",
-                "pt": "erro-ao-chegar-a-paginas-acima-de-333-em-uma-lista-de-entidades-mais-de-10000-documentos"
+                "pt": "erro-ao-acessar-paginas-acima-de-333-em-uma-lista-de-entidades-mais-de-10000-documentos"
               },
               "origin": "",
               "type": "markdown",
@@ -64968,12 +64982,12 @@
             {
               "name": {
                 "en": "The Scroll API returns 429 and/or 408 errors when querying entities with a large number of documents, typically exceeding millions",
-                "es": "La API de desplazamiento devuelve errores 429 y/o 408 cuando se consultan entidades con un gran número de documentos, que suelen superar los millones.",
+                "es": "La API de desplazamiento devuelve 429 y/o 408 errores cuando se consultan entidades con un gran número de documentos, normalmente superior a millones.",
                 "pt": "A API Scroll retorna erros 429 e/ou 408 ao consultar entidades com um grande número de documentos, geralmente superior a milhões"
               },
               "slug": {
                 "en": "the-scroll-api-returns-429-andor-408-errors-when-querying-entities-with-a-large-number-of-documents-typically-exceeding-millions",
-                "es": "la-api-de-desplazamiento-devuelve-errores-429-yo-408-cuando-se-consultan-entidades-con-un-gran-numero-de-documentos-que-suelen-superar-los-millones",
+                "es": "la-api-de-desplazamiento-devuelve-429-yo-408-errores-cuando-se-consultan-entidades-con-un-gran-numero-de-documentos-normalmente-superior-a-millones",
                 "pt": "a-api-scroll-retorna-erros-429-eou-408-ao-consultar-entidades-com-um-grande-numero-de-documentos-geralmente-superior-a-milhoes"
               },
               "origin": "",
@@ -65135,12 +65149,12 @@
               "name": {
                 "en": "Breadcrumb not being read by crawlers due SSR timeout",
                 "es": "Los rastreadores no leen las migas de pan debido al tiempo de espera del SSR",
-                "pt": "O pão rastejado não é lido pelos rastejadores devido ao tempo limite da SSR"
+                "pt": "O Breadcrumb não está sendo lido pelos rastreadores devido ao tempo limite do SSR"
               },
               "slug": {
                 "en": "breadcrumb-not-being-read-by-crawlers-due-ssr-timeout",
                 "es": "los-rastreadores-no-leen-las-migas-de-pan-debido-al-tiempo-de-espera-del-ssr",
-                "pt": "o-pao-rastejado-nao-e-lido-pelos-rastejadores-devido-ao-tempo-limite-da-ssr"
+                "pt": "o-breadcrumb-nao-esta-sendo-lido-pelos-rastreadores-devido-ao-tempo-limite-do-ssr"
               },
               "origin": "",
               "type": "markdown",
@@ -66035,12 +66049,12 @@
               "name": {
                 "en": "Property blockClass from infoCard not working",
                 "es": "Propiedad blockClass de infoCard no funciona",
-                "pt": "Bloqueio de propriedadeClass de infoCard não funciona"
+                "pt": "A propriedade blockClass do infoCard não está funcionando"
               },
               "slug": {
                 "en": "property-blockclass-from-infocard-not-working",
                 "es": "propiedad-blockclass-de-infocard-no-funciona",
-                "pt": "bloqueio-de-propriedadeclass-de-infocard-nao-funciona"
+                "pt": "a-propriedade-blockclass-do-infocard-nao-esta-funcionando"
               },
               "origin": "",
               "type": "markdown",
@@ -66080,12 +66094,12 @@
               "name": {
                 "en": "Quantity-selector on stepper mode doesn't refresh after reaching max available qunatity",
                 "es": "El selector de cantidad en modo paso a paso no se actualiza después de alcanzar la máxima cantidad disponible.",
-                "pt": "O seletor de quantidade no modo stepper não se atualiza após atingir a qunatity máxima disponível"
+                "pt": "O seletor de quantidade no modo stepper não é atualizado após atingir a quantidade máxima disponível"
               },
               "slug": {
                 "en": "quantityselector-on-stepper-mode-doesnt-refresh-after-reaching-max-available-qunatity",
                 "es": "el-selector-de-cantidad-en-modo-paso-a-paso-no-se-actualiza-despues-de-alcanzar-la-maxima-cantidad-disponible",
-                "pt": "o-seletor-de-quantidade-no-modo-stepper-nao-se-atualiza-apos-atingir-a-qunatity-maxima-disponivel"
+                "pt": "o-seletor-de-quantidade-no-modo-stepper-nao-e-atualizado-apos-atingir-a-quantidade-maxima-disponivel"
               },
               "origin": "",
               "type": "markdown",
@@ -66200,12 +66214,12 @@
               "name": {
                 "en": "Site rendering Desktop Version when accessing via IPad on Safari",
                 "es": "Versión de escritorio del sitio cuando se accede a través de IPad en Safari",
-                "pt": "Versão Desktop da renderização do site ao acessar via IPad no Safari"
+                "pt": "O site renderiza a versão para desktop ao ser acessado via iPad no Safari"
               },
               "slug": {
                 "en": "site-rendering-desktop-version-when-accessing-via-ipad-on-safari",
                 "es": "version-de-escritorio-del-sitio-cuando-se-accede-a-traves-de-ipad-en-safari",
-                "pt": "versao-desktop-da-renderizacao-do-site-ao-acessar-via-ipad-no-safari"
+                "pt": "o-site-renderiza-a-versao-para-desktop-ao-ser-acessado-via-ipad-no-safari"
               },
               "origin": "",
               "type": "markdown",
@@ -66260,12 +66274,12 @@
               "name": {
                 "en": "SKU Selector display mode SELECT not working in shelfs",
                 "es": "El modo de visualización SELECT del selector SKU no funciona en las estanterías",
-                "pt": "Modo de exibição do seletor de SKU SELECT não funciona em prateleiras"
+                "pt": "O modo de exibição SELECT do seletor de SKU não está funcionando nas prateleiras"
               },
               "slug": {
                 "en": "sku-selector-display-mode-select-not-working-in-shelfs",
                 "es": "el-modo-de-visualizacion-select-del-selector-sku-no-funciona-en-las-estanterias",
-                "pt": "modo-de-exibicao-do-seletor-de-sku-select-nao-funciona-em-prateleiras"
+                "pt": "o-modo-de-exibicao-select-do-seletor-de-sku-nao-esta-funcionando-nas-prateleiras"
               },
               "origin": "",
               "type": "markdown",
