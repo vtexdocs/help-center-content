@@ -28,7 +28,7 @@ Firstly, you need to configure a provider in your store's Admin that processes t
 
 To check all the provider options available for this payment method, access the list as described in Step 5 of the section [Set up payment with Apple Pay](#setting-up-payment-with-apple-pay).
 
-> ⚠️ Before starting to configure the provider, you must [register your Merchant ID with Apple Pay](register your Merchant ID with Apple Pay).
+> ⚠️ Before starting to configure the provider, you must [register your Merchant ID with Apple Pay](https://developer.apple.com/help/account/capabilities/configure-apple-pay#create-a-merchant-identifier).
 
 ## Setting up payment with Apple Pay
 
