@@ -69,7 +69,7 @@ La sección **Chat** es donde gestionas el chat en vivo durante tu evento. Si de
 2. En la ventana **Información de la tienda**, ingresa el nombre del administrador en el campo.
 3. Haz clic en `Confirmar`.
 
-> ℹ️ Para aprender a fijar mensajes, bloquear usuarios, eliminar mensajes y realizar otras acciones en el chat del evento, consulta [Live Shopping: Eventos](/es/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch). 
+> ℹ️ Para aprender a fijar mensajes, bloquear usuarios, eliminar mensajes y realizar otras acciones en el chat del evento, consulta [Live Shopping: Eventos](/es/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
 
 ## Promociones - Configurar cupones y promociones
 
@@ -137,10 +137,10 @@ En la sección **Configuración CMS** puedes configurar la presentación del con
 ![article_7_cms_configuration_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/configurar-evento_2.png)
 
 * **Carrito de checkout:** proporciona un botón `Agregar al carrito` que cuando utilizado por la audiencia, abre el checkout con el producto agregado al carrito en una nueva pestaña. El modo pantalla en pantalla (PiP) también se activará para permitir que el cliente continúe viendo la transmisión en vivo mientras finaliza la compra.
-* **Vista rápida:** permite que el público vea el evento en vivo mientras consulta las variaciones del producto. Cuando el cliente hace clic en el botón `Agregar al carrito`, se abre una vista rápida del producto sin ocultar la transmisión del evento permitiéndole elegir la talla y el color del producto, por ejemplo, sin dejar de ver el evento. 
-    * Si desactivas esta opción, cuando el cliente hace clic en `Agregar al carrito`, se abre una nueva pestaña con la página de detalles del producto (PDP) y se activa el modo PiP automáticamente para que pueda continuar viendo la transmisión.
+* **Vista rápida:** permite que el público vea el evento en vivo mientras consulta las variaciones del producto. Cuando el cliente hace clic en el botón `Agregar al carrito`, se abre una vista rápida del producto sin ocultar la transmisión del evento permitiéndole elegir la talla y el color del producto, por ejemplo, sin dejar de ver el evento.
+  * Si desactivas esta opción, cuando el cliente hace clic en `Agregar al carrito`, se abre una nueva pestaña con la página de detalles del producto (PDP) y se activa el modo PiP automáticamente para que pueda continuar viendo la transmisión.
 * **Scroll infinito:** implementa el scroll infinito en la opción de barra lateral de productos que hace scroll cada N segundos automáticamente para que tu público pueda ver todos los productos sin ninguna acción adicional.
-    * La velocidad del scroll automático es 10 segundos de forma predeterminada, pero puedes cambiar el valor ingresando el número deseado en el campo. Recomendamos una configuración de 3 a 100 segundos.
+  * La velocidad del scroll automático es 10 segundos de forma predeterminada, pero puedes cambiar el valor ingresando el número deseado en el campo. Recomendamos una configuración de 3 a 100 segundos.
 
 > ℹ️ Todas las funcionalidades mencionadas anteriormente están activas de forma predeterminada, excepto **Carrusel de productos** y **Carrito de checkout**.
 
