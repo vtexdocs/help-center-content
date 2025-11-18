@@ -9,8 +9,8 @@ firstPublishedAt: 2024-01-31T23:11:13.804Z
 contentType: tutorial
 productTeam: Billing
 author: 1malnhMX0vPThsaJaZMYm2
-slugEN: responsibilities-in-the-vtex-ecosystem
-legacySlug: responsibilities-in-the-vtex-ecosystem
+slugEN: responsibilities-within-the-vtex-ecosystem
+legacySlug: responsibilities-within-the-vtex-ecosystem
 locale: en
 subcategoryId: 1VvCpaa8NCA6a0MK6W6oWg
 ---

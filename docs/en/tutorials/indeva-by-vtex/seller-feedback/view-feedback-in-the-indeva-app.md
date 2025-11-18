@@ -9,8 +9,8 @@ firstPublishedAt: 2025-09-18T13:30:10.037Z
 contentType: tutorial
 productTeam: Others
 author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: view-feedback-in-the-indeva-app-indeva
-legacySlug: view-feedback-in-the-indeva-app-indeva
+slugEN: view-feedback-in-the-indeva-app
+legacySlug: view-feedback-in-the-indeva-app
 locale: en
 subcategoryId: 
 ---
