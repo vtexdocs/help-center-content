@@ -137,10 +137,10 @@ In the **CMS Configuration** section, you can set up how the content will be pre
 ![article_7_cms_configuration_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/configuring-event_2.png)
 
 * **Checkout cart:** Provides an `Add to cart` button that, when clicked by your audience, opens the checkout with the product added to the customer shopping cart in a new tab. The picture-in-picture (PiP) mode will also be activated, allowing the customer to continue watching the live stream while completing the purchase.
-* **Quick view:** Allows your audience to view the live event while seeing product variations. When the customer clicks the `Add to cart` button, a quick product view opens up without hiding the event transmission. This allows the customer to choose the size and color of a product, for example, while still watching the event. 
-    * If this option is disabled, when the customer clicks `Add to cart`, a new tab with the Product Details Page (PDP) opens and the PiP mode automatically activates so that the customer keeps watching the live stream.
-* **Infinite scroll:** Implements an infinite scroll for the sidebar products option that automatically scrolls every N seconds, so that your audience can view all the products without any additional action. 
-    * The automatic scroll speed is set to 10 seconds by default, but you can change it by entering the desired number in the field. We recommend configuring within 3 to 100 seconds.
+* **Quick view:** Allows your audience to view the live event while seeing product variations. When the customer clicks the `Add to cart` button, a quick product view opens up without hiding the event transmission. This allows the customer to choose the size and color of a product, for example, while still watching the event.
+  * If this option is disabled, when the customer clicks `Add to cart`, a new tab with the Product Details Page (PDP) opens and the PiP mode automatically activates so that the customer keeps watching the live stream.
+* **Infinite scroll:** Implements an infinite scroll for the sidebar products option that automatically scrolls every N seconds, so that your audience can view all the products without any additional action.
+  * The automatic scroll speed is set to 10 seconds by default, but you can change it by entering the desired number in the field. We recommend configuring within 3 to 100 seconds.
 
 > ℹ️ All the functionalities above are enabled by default, except **Product carousel** and **Checkout cart**.
 
