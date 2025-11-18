@@ -17312,21 +17312,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Adding products (Beta)",
-                    "es": "Agregar producto (Beta)",
-                    "pt": "Criar um produto (Beta)"
-                  },
-                  "slug": {
-                    "en": "criar-um-produto-beta",
-                    "es": "criar-um-produto-beta",
-                    "pt": "criar-um-produto-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Creating or editing categories, attributes, and variations (Beta)",
                     "es": "Crear o editar categorías, atributos y variaciones (Beta)",
                     "pt": "Criar ou editar categorias, atributos e variações (Beta)"
@@ -23264,6 +23249,21 @@
                     "en": "marketplaces-and-integrations",
                     "es": "marketplaces-e-integraciones",
                     "pt": "marketplaces-e-integracoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Mercado Libre Envios",
+                    "es": "Envíos de Mercado Libre",
+                    "pt": "Mercado Livre Envios"
+                  },
+                  "slug": {
+                    "en": "mercado-libre-envios",
+                    "es": "envios-de-mercado-libre",
+                    "pt": "mercado-livre-envios"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -38622,14 +38622,29 @@
               "children": [
                 {
                   "name": {
-                    "en": "Mercado Libre Envios",
-                    "es": "Envíos de Mercado Libre",
-                    "pt": "Mercado Livre Envios"
+                    "en": "Microvix integration interrupted due to username and password",
+                    "es": "Interrupción de la integración con Microvix por usuario y contraseña",
+                    "pt": "Interrupção da integração Microvix por usuário e senha"
                   },
                   "slug": {
-                    "en": "mercado-libre-envios",
-                    "es": "envios-de-mercado-libre",
-                    "pt": "mercado-livre-envios"
+                    "en": "microvix-integration-interrupted-due-to-username-and-password",
+                    "es": "interrupcion-de-la-integracion-con-microvix-por-usuario-y-contrasena",
+                    "pt": "interrupcao-da-integracao-microvix-por-usuario-e-senha"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "View feedback in the Indeva app",
+                    "es": "Visualizar comentarios en la app de Indeva",
+                    "pt": "Visualizar feedback no app Indeva"
+                  },
+                  "slug": {
+                    "en": "view-feedback-in-the-indeva-app-indeva",
+                    "es": "visualizar-comentarios-en-la-app-de-indeva",
+                    "pt": "visualizar-feedback-no-app-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -49206,6 +49221,21 @@
             },
             {
               "name": {
+                "en": "Magazine Luiza Bridge error: “Request blocked by marketplace CDN",
+                "es": "Revista Luiza Error de puente: \"Solicitud bloqueada por CDN de mercado",
+                "pt": "Magazine Luiza Erro de ponte: \"Solicitação bloqueada pelo CDN do marketplace"
+              },
+              "slug": {
+                "en": "magazine-luiza-bridge-error-request-blocked-by-marketplace-cdn",
+                "es": "revista-luiza-error-de-puente-solicitud-bloqueada-por-cdn-de-mercado",
+                "pt": "magazine-luiza-erro-de-ponte-solicitacao-bloqueada-pelo-cdn-do-marketplace"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Magazine Luiza Orders pending dispatch authorization even if approved by Marketplace",
                 "es": "Revista Luiza Pedidos pendientes de autorización de envío aunque estén aprobados por Marketplace",
                 "pt": "Magazine Luiza Pedidos pendentes de autorização de despacho mesmo que aprovados pelo Marketplace"
@@ -49649,6 +49679,21 @@
                 "en": "mercado-livre-bridge-bridge-isnt-logging-some-error-messages",
                 "es": "mercado-livre-bridge-bridge-no-registra-algunos-mensajes-de-error",
                 "pt": "mercado-livre-bridge-o-bridge-nao-esta-registrando-algumas-mensagens-de-erro"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre First-load failure in Mercado Libre Promotions Admin (data only loads after navigating away/back)",
+                "es": "Mercado Livre Fallo en la primera carga en la administración de promociones de Mercado Libre (los datos sólo se cargan después de navegar hacia atrás/atrás).",
+                "pt": "Mercado Livre Falha no primeiro carregamento na administração de promoções do Mercado Livre (os dados só são carregados depois de navegar para fora/voltar)"
+              },
+              "slug": {
+                "en": "mercado-livre-firstload-failure-in-mercado-libre-promotions-admin-data-only-loads-after-navigating-awayback",
+                "es": "mercado-livre-fallo-en-la-primera-carga-en-la-administracion-de-promociones-de-mercado-libre-los-datos-solo-se-cargan-despues-de-navegar-hacia-atrasatras",
+                "pt": "mercado-livre-falha-no-primeiro-carregamento-na-administracao-de-promocoes-do-mercado-livre-os-dados-so-sao-carregados-depois-de-navegar-para-foravoltar"
               },
               "origin": "",
               "type": "markdown",
@@ -65986,12 +66031,12 @@
               "name": {
                 "en": "Property blockClass from infoCard not working",
                 "es": "Propiedad blockClass de infoCard no funciona",
-                "pt": "Bloqueio de propriedadeClass de infoCard não funciona"
+                "pt": "A propriedade blockClass do infoCard não está funcionando"
               },
               "slug": {
                 "en": "property-blockclass-from-infocard-not-working",
                 "es": "propiedad-blockclass-de-infocard-no-funciona",
-                "pt": "bloqueio-de-propriedadeclass-de-infocard-nao-funciona"
+                "pt": "a-propriedade-blockclass-do-infocard-nao-esta-funcionando"
               },
               "origin": "",
               "type": "markdown",
@@ -66031,12 +66076,12 @@
               "name": {
                 "en": "Quantity-selector on stepper mode doesn't refresh after reaching max available qunatity",
                 "es": "El selector de cantidad en modo paso a paso no se actualiza después de alcanzar la máxima cantidad disponible.",
-                "pt": "O seletor de quantidade no modo stepper não se atualiza após atingir a qunatity máxima disponível"
+                "pt": "O seletor de quantidade no modo stepper não é atualizado após atingir a quantidade máxima disponível"
               },
               "slug": {
                 "en": "quantityselector-on-stepper-mode-doesnt-refresh-after-reaching-max-available-qunatity",
                 "es": "el-selector-de-cantidad-en-modo-paso-a-paso-no-se-actualiza-despues-de-alcanzar-la-maxima-cantidad-disponible",
-                "pt": "o-seletor-de-quantidade-no-modo-stepper-nao-se-atualiza-apos-atingir-a-qunatity-maxima-disponivel"
+                "pt": "o-seletor-de-quantidade-no-modo-stepper-nao-e-atualizado-apos-atingir-a-quantidade-maxima-disponivel"
               },
               "origin": "",
               "type": "markdown",
@@ -66151,12 +66196,12 @@
               "name": {
                 "en": "Site rendering Desktop Version when accessing via IPad on Safari",
                 "es": "Versión de escritorio del sitio cuando se accede a través de IPad en Safari",
-                "pt": "Versão Desktop da renderização do site ao acessar via IPad no Safari"
+                "pt": "O site renderiza a versão para desktop ao ser acessado via iPad no Safari"
               },
               "slug": {
                 "en": "site-rendering-desktop-version-when-accessing-via-ipad-on-safari",
                 "es": "version-de-escritorio-del-sitio-cuando-se-accede-a-traves-de-ipad-en-safari",
-                "pt": "versao-desktop-da-renderizacao-do-site-ao-acessar-via-ipad-no-safari"
+                "pt": "o-site-renderiza-a-versao-para-desktop-ao-ser-acessado-via-ipad-no-safari"
               },
               "origin": "",
               "type": "markdown",
@@ -66211,12 +66256,12 @@
               "name": {
                 "en": "SKU Selector display mode SELECT not working in shelfs",
                 "es": "El modo de visualización SELECT del selector SKU no funciona en las estanterías",
-                "pt": "Modo de exibição do seletor de SKU SELECT não funciona em prateleiras"
+                "pt": "O modo de exibição SELECT do seletor de SKU não está funcionando nas prateleiras"
               },
               "slug": {
                 "en": "sku-selector-display-mode-select-not-working-in-shelfs",
                 "es": "el-modo-de-visualizacion-select-del-selector-sku-no-funciona-en-las-estanterias",
-                "pt": "modo-de-exibicao-do-seletor-de-sku-select-nao-funciona-em-prateleiras"
+                "pt": "o-modo-de-exibicao-select-do-seletor-de-sku-nao-esta-funcionando-nas-prateleiras"
               },
               "origin": "",
               "type": "markdown",
