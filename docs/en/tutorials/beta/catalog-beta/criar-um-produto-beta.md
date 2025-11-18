@@ -157,9 +157,9 @@ To add an image to your SKU, follow the steps below:
 
 > ℹ️ The first image added will be the main image of the SKU and will be displayed in the store and search results.
 
-You can edit an image's metadata by clicking the &lt;i class="fas fa-ellipsis-v">&lt;/i> button and selecting <i class="fas fa-pencil-alt"></i>` Edit Metadata`.
+You can edit an image's metadata by clicking the <i class="fas fa-ellipsis-v"></i> button and selecting <i class="fas fa-pencil-alt"></i> `Edit Metadata`.
 
-You can also delete an image by clicking the <i class="fas fa-ellipsis-v"></i> button and selecting <i class="fas fa-trash-alt"></i>`Remove`
+You can also delete an image by clicking the <i class="fas fa-ellipsis-v"></i> button and selecting <i class="fas fa-trash-alt"></i> `Remove`
 
 ### Weight and Dimensions
 ![image1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/criar-um-produto-beta_9.png)
