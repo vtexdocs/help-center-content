@@ -73,7 +73,7 @@ The **Chat** section is where you manage the live chat during your event. If you
 
 ## Promotions - Configuring coupons and promotions
 
-In this section, you can set up coupons and promotions based on the event viewers or like reactions, for example. The available options will be those previously configured in the [Promotions](https://help.vtex.com/en/docs/tutorials/creating-promotions) module.
+In this section, you can configure coupons and promotions based on event viewers or likes, for example. The available options will be those previously configured in the [Promotions](https://help.vtex.com/en/docs/tutorials/creating-promotions) module.
 
 To offer a promotion during your **Live Shopping** event, follow the steps below:
 
