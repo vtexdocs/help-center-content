@@ -188,6 +188,6 @@ You can also delete an image by clicking the <i class="fas fa-ellipsis-v"></i> b
 ### Advanced Settings 
 ![image5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/criar-um-produto-beta_10.png)
 
-- **Activate bundle:** Determines if SKUs within a bundle can only be sold together. You can make the SKU part of a bundle &lt;i class="fas fa-toggle-on">&lt;/i> or not &lt;i class="fas fa-toggle-off">&lt;/i>.
+- **Activate bundle:** Determines if SKUs within a bundle can only be sold together. You can make the SKU part of a bundle <i class="fas fa-toggle-on"></i> or not <i class="fas fa-toggle-off"></i>.
 
 - **Generate credit with gift card**: Determines if the customer receives [credit](/en/tutorial/gift-card--tutorials_995) when buying an SKU. You can activate <i class="fas fa-toggle-on"></i> or deactivate <i class="fas fa-toggle-off"></i> this option.
