@@ -175,10 +175,10 @@ You can also delete an image by clicking the <i class="fas fa-ellipsis-v"></i> b
 
 #### Actual weight and dimensions
 
-- **Actual weight:** Weight of the SKU in kilos.
-- **Actual width:** Width of the SKU in centimeters.
-- **Actual height:** Height of the SKU in centimeters.
-- **Actual length:** Length of the SKU in centimeters.
+* **Actual weight:** Weight of the SKU in kilos.
+* **Actual width:** Width of the SKU in centimeters.
+* **Actual height:** Height of the SKU in centimeters.
+* **Actual length:** Length of the SKU in centimeters.
 
 #### Unit system
 
