@@ -165,13 +165,10 @@ You can also delete an image by clicking the <i class="fas fa-ellipsis-v"></i> b
 ![image1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/criar-um-produto-beta_9.png)
 #### Shipping weight and dimensions
 
-- **Package weight:** Weight of the empty package in kilos. Required field.
-
-- **Package width:** Width of the package in centimeters. Required field.
-
-- **Package height:** Height of the package in centimeters. Required field.
-
-- **Package length:** Length of the package in centimeters. Required field.
+* **Package weight:** Weight of the empty package in kilos. Required field.
+* **Package width:** Width of the package in centimeters. Required field.
+* **Package height:** Height of the package in centimeters. Required field.
+* **Package length:** Length of the package in centimeters. Required field.
 
 #### Actual weight and dimensions
 
