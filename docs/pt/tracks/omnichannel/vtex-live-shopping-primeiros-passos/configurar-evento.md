@@ -117,6 +117,14 @@ Em **Configurações**, você pode ativar ou desativar as seguintes funcionalida
 | Reprodutor de mídia | <ul><li>**Número de espectadores:** exibe o número de espectadores assistindo o evento ao vivo. Este número não é cumulativo.</li><li>**Pop-up de transmissão:** permite exibir todo o componente do Live Shopping (chat, reprodutor de mídia e barra lateral do produto) em formato de pop-up, para destacar o evento enquanto o público assiste. O espectador pode fechar o pop-up a qualquer momento clicando no X no canto superior para retornar ao formato original.</li></ul> |
 | Produtos | <ul><li>**Aplicar impostos:** permite aplicar impostos a produtos exibidos durante o evento ao vivo. Com essa opção ativa, o módulo **Promoções > Taxas** irá exibir o preço do produto junto com o imposto aplicável.</li></ul> |
 
+## Destaque do produto - Configuração de exibição da coleção
+
+A seção **Destaque do produto** é onde você gerencia os produtos em destaque durante o evento. Os produtos exibidos pertencem à coleção selecionada ao [criar o evento](https://help.vtex.com/pt/docs/tracks/criar-evento) ou à coleção que você adicionar ou atualizar antes ou durante a transmissão.
+
+>⚠️ Para garantir que sua coleção seja exibida corretamente em um evento de **Live Shopping**, recomendamos criá-la com pelo menos algumas horas de antecedência. Assim, a plataforma terá tempo suficiente para indexar as informações. Caso contrário, a página pode ficar armazenada em cache durante o evento, o que pode impedir a exibição correta da coleção.
+
+Para destacar um produto, ative o botão de ativação na coluna Ações. Você pode escolher dois produtos por vez. Depois de selecionado, o produto será exibido acima dos nomes das colunas.
+
 ## Configuração do CMS - Configuração da apresentação do conteúdo
 
 Na seção **Configuração do CMS**, você pode configurar como o conteúdo será apresentado durante o evento. As funcionalidades disponíveis são as seguintes:
