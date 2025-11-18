@@ -17,10 +17,12 @@ order: 7
 
 No Admin VTEX, acesse **Aplicativos > Live Shopping** e clique no ícone de seta de um [evento criado](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) para abrir a página de **Informações do evento**. Isso permitirá configurá-lo, conforme explicado nas próximas seções:
 
-- [Tipo de layout - Configuração do estilo](#tipo-de-layout-configuracao-do-estilo)
-- [Chat - Configuração do nome do administrador](#chat-configuracao-do-nome-do-administrador)
-- [Configurações - Configuração de funcionalidades](#configuracoes-configuracao-de-funcionalidades)
-- [Configuração do CMS - Configuração da apresentação do conteúdo](#configuracao-do-cms-configuracao-da-apresentacao-do-conteudo)
+* [Tipo de layout - Configuração do estilo](#tipo-de-layout-configuracao-do-estilo)
+* [Chat - Configuração do nome do administrador](#chat-configuracao-do-nome-do-administrador)
+* [Promoções - Configuração de cupons e promoções](#promocoes-configuracao-de-cupons-e-promocoes)
+* [Configurações - Configuração de funcionalidades](#configuracoes-configuracao-de-funcionalidades)
+* [Destaque de produto - Configuração de exibição da coleção](#destaque-de-produto-configuracao-de-exibicao-da-colecao)
+* [Configuração do CMS - Configuração da apresentação do conteúdo](#configuracao-do-cms-configuracao-da-apresentacao-do-conteudo)
 
 > ⚠️ Este artigo descreve as principais configurações para um evento, mas não cobre todas as seções da página **Informações do evento**. Para mais informações, acesse [Live Shopping: Eventos](/pt/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch).
 
