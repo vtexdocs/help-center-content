@@ -80,14 +80,13 @@ See the tools available in the toolbar:
 
 * **Source code:** Displays the source code of the HTML description. You can edit the description directly from the source code if you want. To go back to the previous view, click the source button again.
 
-### SEO 
+### SEO
+
 ![image11](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/criar-um-produto-beta_3.png)
 
-- **Product URL:** Enter the URL to access the product page in the store. You cannot use spaces or special characters in this field. If the URL consists of more than one word, you must separate them with a hyphen (-). Required field. **Example**: ultralight-running-shoes.
-
-- **Page title:** Enter the title of the product page. To optimize the ranking of your product in the search results, do not exceed 60 characters. Required field. **Example**: Ultralight Running Shoes
-
-- **Meta description:** Enter the title of the product page. To optimize the ranking of your product in the search results, do not exceed 60 characters. Required field. **Example**: Meet the SportXtreme Ultralight Running Shoes, perfect for athletes looking for lightness and maximum performance in sports activities.
+* **Product URL:** Enter the URL to access the product page in the store. You cannot use spaces or special characters in this field. If the URL consists of more than one word, you must separate them with a hyphen (-). Required field. Example: ultralight-running-shoes.
+* **Page title:** Enter the title of the product page. To optimize the ranking of your product in the search results, do not exceed 60 characters. Required field. Example: Ultralight Running Shoes
+* **Meta description:** Enter the title of the product page. To optimize the ranking of your product in the search results, do not exceed 60 characters. Required field. Example: Meet the SportXtreme Ultralight Running Shoes, perfect for athletes looking for lightness and maximum performance in sports activities.
 
 ### Operation and Logistics
 
@@ -112,6 +111,7 @@ Depending on the product category you create, you may have to complete some fiel
 If you have created any required product fields, the product will only be activated once this specification has been completed.
 
 Under **Attributes**, the [specification groups](/en/tutorial/criando-grupo-de-especificacoes-em-uma-categoria--tutorials_246) will be displayed with the specifications you entered. In the image below, the specification group is **Characteristics**, and the specifications are **Video** and **See More**.
+
 ![image3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/criar-um-produto-beta_5.png)
 
 ## SKUs
@@ -154,6 +154,7 @@ You can also delete an image by clicking the <i class="fas fa-ellipsis-v"></i> b
 ### Weight and Dimensions
 
 ![image1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/criar-um-produto-beta_9.png)
+
 #### Shipping weight and dimensions
 
 * **Package weight:** Weight of the empty package in kilos. Required field.
