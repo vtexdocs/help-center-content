@@ -36,11 +36,11 @@ Feito isso, o produto será ativado e estará disponível na sua loja.
 
 > ℹ️ Se o seu produto não aparecer no site da sua loja após o cadastro, confira o artigo  [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) para entender como resolver esse problema.
 
-# Produto
+## Produto
 
 Nesta aba, você vai realizar o cadastro do produto preenchendo os campos descritos abaixo com as características do item.
 
-## Informações gerais
+### Informações gerais
 
 ![image9](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-um-produto-beta_1.png)
 
@@ -51,7 +51,7 @@ Nesta aba, você vai realizar o cadastro do produto preenchendo os campos descri
 * **Categoria**: selecione a categoria ou subcategoria relacionada ao produto. Campo obrigatório. Exemplo: Calçados Esportivos.
 * **Código de referência**: escreva o código de referência único do produto para facilitar a organização da sua loja. Exemplo: TXU1234.
 
-## Descrição
+### Descrição
 
 Nesta etapa, você precisa escrever uma descrição das principais informações relacionadas ao produto. O texto deve ser um resumo simples e de fácil entendimento para o cliente.
 
@@ -78,7 +78,7 @@ Veja quais são os recursos disponíveis a partir da barra de ferramentas:
 * **Abrir em uma nova aba**: selecione esta opção se você deseja que, ao clicar no link, o usuário abra a página em uma nova aba do navegador. Não selecione se o objetivo for que o usuário acesse o link na mesma aba.
 * **Código-fonte**: exibe o código fonte da descrição em HTML. Você pode editar a descrição diretamente pelo código-fonte, se desejar. Para retornar à visão anterior, é necessário clicar novamente no botão referente ao código-fonte.
 
-## SEO
+### SEO
 
 ![image11](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-um-produto-beta_3.png)
 
@@ -86,7 +86,7 @@ Veja quais são os recursos disponíveis a partir da barra de ferramentas:
 * **Título da página**: escreva o título da página do produto. Para otimizar a classificação do seu produto nos resultados de busca, o ideal é não ultrapassar 60 caracteres. Campo obrigatório. Exemplo: Tênis Esportivo Ultralight.
 * **Meta descrição**: escreva o título da página do produto. Para otimizar a classificação do seu produto nos resultados de busca, o ideal é não ultrapassar 60 caracteres. Campo obrigatório. Exemplo: Conheça o Tênis Esportivo Ultralight da SportXtreme, perfeito para atletas que buscam leveza e desempenho máximo nas atividades esportivas.
 
-## Operação e logística
+### Operação e logística
 
 ![image7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-um-produto-beta_4.png)
 
@@ -94,7 +94,7 @@ Veja quais são os recursos disponíveis a partir da barra de ferramentas:
 * **Fornecedor**: selecione um fornecedor já cadastrado na loja para relacionar ao produto.
 * **Código fiscal**: informe o número de identificação fiscal do produto.
 
-## Visibilidade
+### Visibilidade
 
 ![image4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-um-produto-beta_5.png)
 
@@ -118,11 +118,11 @@ Nesta aba, você fará o cadastro de SKUs que serão atrelados ao produto criado
 
 Para um produto disponível na sua loja, ele deve ter pelo menos um SKU ativo. É obrigatório que o SKU tenha uma imagem adicionada a ele para que ele seja ativado.
 
-## Especificações
+### Especificações
 
 Aqui serão exibidas as especificações criadas anteriormente para os SKUs. Se você tiver criado algum campo de SKU obrigatório, o SKU só poderá ser ativado após o preenchimento desta especificação.
 
-## Informações básicas
+### Informações básicas
 
 ![image2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-um-produto-beta_7.png)
 
@@ -133,7 +133,7 @@ Aqui serão exibidas as especificações criadas anteriormente para os SKUs. Se 
 * **Condição comercial**: utilizado para definir promoções ou regras de parcelamento específicas para SKUs. Caso não exista uma condição específica, usar o valor padrão. Saiba mais no artigo [Cadastrar condição comercial](/pt/tutorial/como-cadastrar-condicao-comercial--tutorials_445).  
 * **Modal**: campo que realciona um produto não usual (carne, vidro, colchão) a uma transportadora especializada na entrega desse tipo de produto. Saiba mais no artigo Como funciona o modal.
 
-## Imagens
+### Imagens
 
 > ⚠️ SKUs devem ter pelo menos uma imagem para estar ativo.
 
@@ -149,7 +149,7 @@ Para adicionar uma imagem a seu SKU, siga os passos abaixo:
 
 Também é possível deletar uma imagem clicando no botão <i class="fas fa-ellipsis-v"></i> e selecione <i class="fas fa-trash-alt"></i> `Remover`. 
 
-## Pesos e medidas
+### Pesos e medidas
 - **Peso e dimensões para frete**:
 
  ![image1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-um-produto-beta_10.png)
@@ -159,20 +159,21 @@ Também é possível deletar uma imagem clicando no botão <i class="fas fa-elli
 - **Altura do pacote**: altura do pacote em centímetros. Campo obrigatório.
 - **Comprimento do pacote**: comprimento do pacote em centímetros. Campo obrigatório.
 
-## Peso e dimensões reais
+### Peso e dimensões reais
 
 - **Peso real**: peso do SKU em quilos.
 - **Largura real**: largura do SKU em centímetros. 
 - **Altura real**: altura do SKU em centímetros.
 - **Comprimento real**: comprimentoaltura do SKU em centímetros.
 
-## Sistema de medidas
+### Sistema de medidas
 
 - **Unidade de medida**: utilizadao apenas em casos onde é necessário converter a unidade de medida para a venda. Por exemplo, se o produto é vendido em caixas, mas os clientes querem comprar por m². Nos casos comuns, utilizar “un”.
 
 - **Multiplicador de unidade**: unidade numérica que multiplica a quantidade selecionada do produto ao ser inserido no carrinho. Caso o multiplicador seja 5, o produto será adicionado em quantidades múltiplas de 5, ou seja 5, 10, 15, 20, e assim porem diante. 
 
-## Configurações avançadas
+### Configurações avançadas
+
 ![image5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-um-produto-beta_11.png)
 
 - **Ativar kit**: determina se os SKUs que compõem um kit só podem ser vendidos juntos. Você pode fazer com que o SKU faça parte de um kit <i class="fas fa-toggle-on"></i> ou não <i class="fas fa-toggle-off"></i>.
