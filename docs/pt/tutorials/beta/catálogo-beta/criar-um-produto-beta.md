@@ -44,12 +44,12 @@ Nesta aba, você vai realizar o cadastro do produto preenchendo os campos descri
 
 ![image9](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-um-produto-beta_1.png)
 
-- **Nome**: informe o título do produto na loja. Use palavras simples e evite outros idiomas ou escrita complexa. Esse campo é importante para SEO e deve respeitar o limite de 150 caracteres. Campo obrigatório. 
-**Exemplo**: Tênis Esportivo Ultralight.
-- **Palavras substitutas**: escreva sinônimos de termos relacionados ao nome dado para o produto, separados por vírgula (`,`). Esse campo é importante para tornar suas buscas mais abrangentes e deve respeitar o limite de 8000 caracteres. **Exemplo**: para o produto Tênis Esportivo Ultralight, as palavras similares podem ser Tênis Esporte Leve,Tênis Ultra Esportivo. Caso sua loja utilize o VTEX Intelligent Search não preencha este campo, leia o artigo Sinônimos.
-- **Marca**: selecione uma marca já cadastrada na loja para relacionar ao produto. Campo obrigatório. __Exemplo__: SportXtreme.
-- **Categoria**: selecione a categoria ou subcategoria relacionada ao produto. Campo obrigatório. __Exemplo__: Calçados Esportivos.
-- **Código de referência**: escreva o código de referência único do produto para facilitar a organização da sua loja. __Exemplo__: TXU1234.
+* **Nome**: informe o título do produto na loja. Use palavras simples e evite outros idiomas ou escrita complexa. Esse campo é importante para SEO e deve respeitar o limite de 150 caracteres. Campo obrigatório. Exemplo: Tênis Esportivo Ultralight.
+* **Nome**: informe o título do produto na loja. Use palavras simples e evite outros idiomas ou escrita complexa. Esse campo é importante para SEO e deve respeitar o limite de 150 caracteres. Campo obrigatório
+* **Palavras substitutas**: escreva sinônimos de termos relacionados ao nome dado para o produto, separados por vírgula (`,`). Esse campo é importante para tornar suas buscas mais abrangentes e deve respeitar o limite de 8000 caracteres. Exemplo: para o produto Tênis Esportivo Ultralight, as palavras similares podem ser Tênis Esporte Leve,Tênis Ultra Esportivo. Caso sua loja utilize o VTEX Intelligent Search não preencha este campo, leia o artigo Sinônimos.
+* **Marca**: selecione uma marca já cadastrada na loja para relacionar ao produto. Campo obrigatório. Exemplo: SportXtreme.
+* **Categoria**: selecione a categoria ou subcategoria relacionada ao produto. Campo obrigatório. Exemplo: Calçados Esportivos.
+* **Código de referência**: escreva o código de referência único do produto para facilitar a organização da sua loja. Exemplo: TXU1234.
 
 ## Descrição
 
