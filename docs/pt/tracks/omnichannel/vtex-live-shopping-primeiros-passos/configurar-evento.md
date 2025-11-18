@@ -71,6 +71,42 @@ A seção **Chat** é onde você gerencia o chat durante o evento. Se você quis
 
 > ℹ️ Para saber mais como fixar mensagens, bloquear usuários, excluir mensagens, e realizar outras ações no chat do evento, acesse [Live Shopping: Eventos](/pt/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch).
 
+## Promoções - Configuração de cupons e promoções
+
+Nesta seção, você pode configurar cupons e promoções baseados nos espectadores do evento ou nas curtidas, por exemplo. As opções disponíveis serão aquelas previamente configuradas no módulo [Promoções](https://help.vtex.com/pt/docs/tutorials/criar-promocoes).
+
+Para anunciar uma promoção durante o seu evento de **Live Shopping**, siga os passos abaixo:
+
+1. Na seção **Promoções**, clique em `Nova promoção`.  
+2. Selecione uma opção de promoção usando o menu suspenso.  
+3. Escolha uma variável:
+
+  * Curtidas
+  * Comentários  
+  * Espectadores  
+  * Pedidos
+
+4. No campo **Objetivo**, informe a condição que o público deve atingir para ativar o cupom ou promoção. Essas informações não são visíveis ao público e estão limitadas a 20 caracteres. Veja abaixo um exemplo para cada variável:
+
+  * **Curtidas:** alcançar 100 curtidas.
+  * **Comentários:** obter 150 comentários.
+  * **Espectadores:** reunir um público com mais de 200 pessoas.
+  * **Pedidos:** receber os primeiros 100 pedidos.
+
+  >⚠️ Os cupons são ativados imediatamente assim que o objetivo é alcançado. As promoções são ativadas cinco minutos após o objetivo ser alcançado.
+
+5. No campo **Mensagem para exibir**, digite o texto que será exibido ao público explicando o objetivo que desbloqueia a promoção ou o cupom. Limite de 20 caracteres. Por exemplo: `40% off`.
+6. Selecione uma animação para exibir a promoção ou o cupom durante o evento.
+7. Clique em `Salvar`.
+
+Depois de criada, a promoção será exibida em uma tabela com as seguintes colunas:
+
+* **Status:** permite ativar ou desativar a promoção usando o botão de ativação. Embora promoções ou cupons sejam ativados automaticamente quando o público atinge o objetivo, é possível gerenciar o status de ativação deles durante o evento.
+* **Promoção:** nome que identifica a promoção.
+* **Variável:** base da promoção, que pode ser `Curtidas`, `Comentários`, `Espectadores` ou `Pedidos`.
+* **Objetivo:** valor da variável que, uma vez atingido, ativa a promoção.
+* **Ações:** permite <i class="fa-solid fa-pencil"></i> editar ou <i class="fa-solid fa-trash"></i> excluir a promoção. Todas as configurações da promoção podem ser editadas. Ao excluir, a promoção será removida apenas desta configuração do evento, não do módulo **Promoções**.
+
 ## Configurações - Configuração de funcionalidades
 
 Em **Configurações**, você pode ativar ou desativar as seguintes funcionalidades:
