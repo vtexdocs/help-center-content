@@ -119,7 +119,7 @@ In the **Settings** section, you can enable or disable the following event featu
 
 ## Product Highlight - Configuring collection display
 
-The **Product Highlight** section is where you manage highlighting products during the event. The products displayed belong to the collection you chose when [creating the event](https://help.vtex.com/en/docs/tracks/creating-event), or the one you add/update before or during the transmission.
+The **Product Highlight** section is where you manage highlighting products during the event. The products displayed belong to the collection you selected when [creating the event](https://help.vtex.com/en/docs/tracks/creating-event), or to the collection you add or update before or during the stream.
 
 >⚠️ To ensure your collection appears correctly during a **Live Shopping** event, we recommend creating it at least a few hours in advance. This allows the platform enough time to index the information. Otherwise, the page may be cached during the event, which could prevent the collection from displaying properly.
 
