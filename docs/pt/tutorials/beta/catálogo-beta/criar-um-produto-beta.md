@@ -24,9 +24,11 @@ A página **Adicionar produto (Beta)** possibilita criar e editar produtos e seu
 3. Defina se o produto será criado como ativo na loja.
 Para que o produto seja criado como ativo na loja, você precisa selecionar a opção **Ativo** <i class="fas fa-toggle-on"></i> no canto superior direito da página. Caso você queira criar um produto no modo inativo, clique no mesmo botão e observe que a opção mudará para **Inativo**. É possível ativá-lo posteriormente pela página de edição do produto ou pela lista de produtos.
 4. Preencha as informações de cada aba. Abaixo você encontra mais informações sobre cada uma delas:
-- [Produto](https://docs.google.com/document/d/186UuyKqeTz8CNGGm8UTcw81kp18RoApX5zuXccZHylc/edit#produtos)
-- [Atributos](https://docs.google.com/document/d/186UuyKqeTz8CNGGm8UTcw81kp18RoApX5zuXccZHylc/edit#atributos)
-- [SKUs](https://docs.google.com/document/d/186UuyKqeTz8CNGGm8UTcw81kp18RoApX5zuXccZHylc/edit#skus)
+
+  * [Produto](#produto)
+  * [Atributos](#atributos)
+  * [SKUs](#skus)
+
 5. Selecione a opção **Ativo** <i class="fas fa-toggle-on"></i> no canto superior direito da página para ativar o SKU.
 6. Clique em `Salvar`.
 
