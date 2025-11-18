@@ -131,15 +131,18 @@ In this tab, you will add the [SKUs](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3
 > ℹ️ A product must have at least one active SKU to be available in your store. The SKU must have an image attached to it for it to be activated.
 
 ### Specifications
+
 This is where the previously created [specifications](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) for the SKUs will be displayed. If you have created any required SKU fields, the SKU will only be activated once this specification has been completed.
 
 ### Basic Information
+
 ![image2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/criar-um-produto-beta_6.png)
+
 - **Name:** The SKU name, which will be displayed in the store. Required field.
 - **Reference code:** Code that the store will use internally to identify the SKU. Required field if the **EAN/UPC** is empty.
 - **EAN/UPC**: Field that must have the barcode information. Required field if the **Reference code** field is empty.
 - **Manufacturer code:** Provided by the manufacturer to identify their product. If a product has a specific code, this field must be completed.
-- **Commercial condition:** Used to define specific promotions or installment rules for SKUs. If there is no specific condition, use the default value. Learn more in the[Registering a commercial condition](/en/tutorial/como-cadastrar-condicao-comercial--tutorials_445) article. 
+- **Commercial condition:** Used to define specific promotions or installment rules for SKUs. If there is no specific condition, use the default value. Learn more in the [Registering a commercial condition](/en/tutorial/como-cadastrar-condicao-comercial--tutorials_445) article.
 - **Modal:** Field that links an unusual product (e.g., meat, glass, mattress) to a carrier specialized in delivering this product. Learn more in the[How the modal works](/en/tutorial/como-funciona-o-modal--tutorials_125) article.
 
 ### Images
