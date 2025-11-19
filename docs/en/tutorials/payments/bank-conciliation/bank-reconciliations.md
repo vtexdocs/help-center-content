@@ -19,7 +19,7 @@ It is through the bank reconciliation that batch payments of orders closed with 
 
 The complete flow is: purchase closed with slip option on the website&gt; order enters as Pending Payment&gt; slip is paid&gt; bank sends the file to the shop&gt; seller performs the reconciliation&gt; order follows flow to delivery.
 
-As explained in our document [How long until an order whose slip was not paid is cancelled?](/hc/pt-br/articles/215033318), there is a deadline for the cancellation of the order, if it is not reported as paid on the Approved Payment status (manually in the OMS or by bank reconciliation). In this case, the order will remain in the Pending Payment status until it is canceled.
+As explained in our document [How long does it take to cancel an order with an unpaid "boleto"?](https://help.vtex.com/en/docs/tutorials/how-long-does-it-take-to-cancel-an-order-with-an-unpaid-boleto), there is a deadline for the cancellation of the order, if it is not reported as paid on the Approved Payment status (manually in the OMS or by bank reconciliation). In this case, the order will remain in the Pending Payment status until it is canceled.
 
 > ⚠️ The procedures in this article are not applicable to integrations that perform bank reconciliation automatically.
 

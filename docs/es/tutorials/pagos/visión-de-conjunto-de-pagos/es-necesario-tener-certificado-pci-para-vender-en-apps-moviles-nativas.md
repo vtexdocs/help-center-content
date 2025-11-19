@@ -24,7 +24,7 @@ En una compra realizada a través de una aplicación nativa, los datos del clien
 
 Para conseguir un certificado PCI para su tienda, es necesario consultar una empresa PCI QSA (PCI Qualified Security Assessors). Estas empresas tienen calificación para evaluar sistemas y procesos, caso por caso. Un buen ejemplo es [Cipher](https://cipher.com/es/avaliacao-consultoria-pci-qsa-asv/).
 
-Usted puede sacar todas sus dudas sobre el proceso de certificación en el sitio oficial del __[PCI Security Standards Council](https://cis.pcisecuritystandards.org/index.php)__.
+Usted puede sacar todas sus dudas sobre el proceso de certificación en el sitio oficial del [**PCI Security Standards Council**](https://www.pcisecuritystandards.org/lang/es-es/).
 
 
 ## Alternativas

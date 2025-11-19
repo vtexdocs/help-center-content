@@ -19,9 +19,9 @@ Conectores são protocolos de comunicação que sua loja precisa usar para habil
 
 Por exemplo, para que seu web site ofereça um determinado meio de pagamento aos seus clientes, você precisa ativar o conector que vai se comunicar com o gateway responsável pelo processamento.
 
-Outra característica importante é a paridade de conexões. Assim como um meio de pagamento pode se comunicar com vários conectores, um conector pode estabelecer comunicação com vários meios de pagamento. Por conta dessa possibilidade, é necessário que você configure o conector, por meio das [afiliações de gateway](/pt/tutorial/afiliacoes-de-gateway).
+Outra característica importante é a paridade de conexões. Assim como um meio de pagamento pode se comunicar com vários conectores, um conector pode estabelecer comunicação com vários meios de pagamento. Por conta dessa possibilidade, é necessário que você [configure o conector](https://help.vtex.com/pt/docs/tutorials/afiliacoes-de-gateway) em sua loja.
 
 ### Artigos relacionados
 - [Visão geral do Pagamentos](/pt/tutorial/pci-gateway-visao-geral)
-- [Cadastrar afiliações de gateway](/pt/tutorial/afiliacoes-de-gateway)
+- [Cadastrar provedores de pagamento e antifraude](https://help.vtex.com/pt/docs/tutorials/afiliacoes-de-gateway)
 

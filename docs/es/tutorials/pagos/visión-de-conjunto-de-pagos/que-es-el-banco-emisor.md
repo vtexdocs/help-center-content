@@ -17,8 +17,7 @@ subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 
 El Banco Emisor es la institución financiera responsable de los medios de pago, ya sean boletos bancarios, tarjetas de débito o de crédito. Es él quien, al recibir los datos de una compra hecha en su tienda, va a autorizar o no la venta (dependiendo del límite de crédito o del dinero disponible en la cuenta del usuario). Con todo cierto, el banco efectúa el cobro del valor.
 
-Este concepto es importante porque le permite configurar [condiciones especiales](/es/tutorial/condiciones-especiales/) para pagos realizados a través de bancos específicos. Además, en el caso de los boletos registrados, cada banco tiene su propia forma de emisión. Y, para hacer esta configuración, usted necesita saber cómo es el proceso del banco emisor elegido y seguir las instrucciones [de este artículo](/es/faq/como-configurar-boleto-registrado).
+Este concepto es importante porque le permite configurar [condiciones especiales](/es/tutorial/condiciones-especiales/) para pagos realizados a través de bancos específicos. Además, en el caso de los boletos registrados, cada banco tiene su propia forma de emisión.
 
 ### Artículos relacionados
 - [Condiciones especiales](/es/tutorial/condiciones-especiales/)
-- [Cómo configurar boleto registrado](/es/faq/como-configurar-boleto-registrado)

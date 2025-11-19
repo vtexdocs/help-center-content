@@ -23,7 +23,7 @@ Explicamos detalladamente abajo cómo sucede la aprobación para cada uno de eso
 
 En este tipo de configuración, es necesario que la tienda o algún sistema avise a VTEX que se efectuó el pago.
 
-El pedido queda en el status “Pago Pendiente” hasta que se haga la notificación de pago. Esa notificación puede ser hecha por [conciliación bancaria](/es/tutorial/conciliaciones-bancarias/), [por API](https://developers.vtex.com/reference/payment#sendpaymentnotification) o [manualmente en Gestión de pedidos](/es/tutorial/como-aprobar-un-pago).
+El pedido queda en el status “Pago Pendiente” hasta que se haga la notificación de pago. Esa notificación puede ser hecha por [conciliación bancaria](/es/tutorial/conciliaciones-bancarias/), [por API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/payments/-paymentId-/payment-notification) o [manualmente en Gestión de pedidos](/es/tutorial/como-aprobar-un-pago).
 
 Es importante destacar que sólo después de la aprobación del pago el pedido seguirá con su flujo normal.
 

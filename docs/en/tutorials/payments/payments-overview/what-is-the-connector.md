@@ -19,8 +19,8 @@ Connectors are communication protocols that your store needs to use to enable da
 
 For example, for your web site to offer a particular payment method to your customers, you need to enable the connector that will communicate with the gateway responsible for the processing.
 
-Another important characteristic is the parity of connections. Just as one means of payment can communicate with multiple connectors, one connector can establish communication with multiple means of payment. Because of this possibility, you need to configure the connector through the [gateway affiliations](/en/tutorial/registering-gateway-affiliations).
+Another important characteristic is the parity of connections. Just as one means of payment can communicate with multiple connectors, one connector can establish communication with multiple means of payment. Because of this possibility, you need to [configure the connector](https://help.vtex.com/docs/tutorials/registering-gateway-affiliations) on your store.
 
 ### Related articles
 - [Payments - Overview](/en/tutorial/pci-gateway-overview)
-- [Registering gateway affiliations](/en/tutorial/registering-gateway-affiliations)
+- [Register payment and anti-fraud providers](https://help.vtex.com/docs/tutorials/registering-gateway-affiliations)
