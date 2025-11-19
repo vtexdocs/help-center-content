@@ -59,9 +59,9 @@ To configure the studio transmission quality, in your external studio, set the f
 
 Before you start the live event, make sure everything works properly:
 
-1. Check with the preview if you [placed the Live Shopping component](https://help.vtex.com/en/docs/tracks/placing-the-live-shopping-component) correctly.
-2. Check your [event configurations](https://help.vtex.com/en/docs/tracks/configuring-event).
-3. Check your [stream method](#stream-settings-quality-transmission) configuration, including the quality transmission settings.
+1. Check the preview to confirm the [Live Shopping component is placed](https://help.vtex.com/en/docs/tracks/placing-the-live-shopping-component) correctly.
+2. Check the [event settings](https://help.vtex.com/en/docs/tracks/configuring-event).
+3. Check your [stream method](#stream-method-for-external-studios) configuration, including the [transmission quality settings](#stream-settings-transmission-quality).
 
 After that, you can start transmitting the event. Since the steps vary for each studio, we recommend checking the official documentation of that particular studio.
 
