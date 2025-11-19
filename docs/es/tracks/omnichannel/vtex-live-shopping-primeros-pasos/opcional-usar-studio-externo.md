@@ -42,11 +42,28 @@ Para transmitir tu evento desde un estudio externo, sigue los pasos a continuaci
 
 7. (Opcional) Haz clic en un botón de confirmación para guardar la configuración.
 
-## Transmitir el evento desde un estudio externo
+## Configuración de la transmisión - Calidad de transmisión
 
-Después de [insertar el componente de Live Shopping](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR) y utilizar la vista previa para asegurarte de que todo esté funcionando correctamente, puedes comenzar a transmitir el evento. Como los pasos varían para cada estudio, te recomendamos revisar la documentación oficial del estudio que estés utilizando. 
+Para lograr una transmisión de alta calidad, incluso en dispositivos con conectividad limitada, debes configurar la configuración de la calidad de transmisión del estudio. Los valores recomendados están disponibles en la página de método de transmisión, en la sección de configuración de la transmisión, como se muestra en la imagen a continuación:
 
-> ❗ Cuando utilices estudios externos, no intentes duplicar la transmisión a través de Bundle. Live Shopping permite una transmisión por estudio, y la plataforma reconocerá solo el primer estudio que transmita el evento.
+![live_shopping_stream_settings_quality_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/live_shopping_stream_settings_quality_EN.png)
+
+Para configurar la calidad de transmisión del estudio, en tu estudio externo, asigna los siguientes campos a estos valores:
+
+* **Output = IngestVideoBitrate:** 2.4 Mb/s
+* **Output = IngestAudioBitrate:** 150 kbps
+* **Video = IngestFramerate:** 30 fps
+* **Output = KeyframeInterval:** 2 seconds
+
+## Antes de la transmisión en vivo
+
+Antes de que inicies el evento en vivo, asegúrate de que todo funciona correctamente:
+
+1. Verifica la previsualización para confirmar que el [componente de Live Shopping se muestra](https://help.vtex.com/es/docs/tracks/insertar-componente-de-live-shopping) correctamente en la página.
+2. Verifica la [configuración del evento](https://help.vtex.com/es/docs/tracks/configurar-evento).
+3. Verifica la configuración del [método de transmisión](#metodo-de-transmision-para-estudios-externos), así como la [configuración de la calidad de transmisión](#configuracion-de-la-transmision-calidad-de-transmision).
+
+Una vez hecho esto, puedes comenzar a transmitir el evento. Como los pasos varían para cada estudio, te recomendamos revisar la documentación oficial del estudio que estés utilizando.
 
 ## Después de transmitir desde un estudio externo
 
