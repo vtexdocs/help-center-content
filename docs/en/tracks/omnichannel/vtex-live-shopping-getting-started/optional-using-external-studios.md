@@ -44,7 +44,7 @@ To transmit your event from an external studio, follow the steps below:
 
 ## Stream settings - Transmission quality
 
-For a high-quality transmission, including streaming to devices with limited internet signal, you have to configure the studio quality transmission settings. The recommended values can be found in the **Stream method** page, in **Stream settings** section, as in the image below:
+For a high-quality stream, including on devices with limited connectivity, you must configure the studio transmission quality settings. The recommended values are available on the **Stream method** page, in **Stream settings** section, as shown in the image below:
 
 ![live_shopping_stream_settings_quality_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/live_shopping_stream_settings_quality_EN.png)
 
