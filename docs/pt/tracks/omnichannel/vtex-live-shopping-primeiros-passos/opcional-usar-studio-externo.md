@@ -24,6 +24,8 @@ Além do Bundle, eventos de **Live Shopping** podem ser transmitidos por estúdi
 - Streamlabs
 - vMix
 
+>❗ Ao transmitir de um estúdio externo, não tente duplicar a transmissão do evento pelo Bundle ou outro estúdio. O **Live Shopping** permite apenas uma transmissão por estúdio, e a plataforma reconhecerá somente o primeiro estúdio que iniciar o evento.
+
 ## Conectar a um estúdio externo
 
 Para configurar soluções de externos, siga os passos abaixo:
