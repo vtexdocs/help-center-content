@@ -3,7 +3,7 @@ title: 'Recursos de Suporte Global da VTEX'
 id: 5maoEWCrTKFAEMXRsfcklV
 status: PUBLISHED
 createdAt: 2025-06-16T11:23:32.616Z
-updatedAt: 2025-11-06T17:53:21.532Z
+updatedAt: 2025-11-19T17:53:21.532Z
 publishedAt: 2025-11-06T17:53:21.532Z
 firstPublishedAt: 2025-06-16T13:25:37.792Z
 contentType: tutorial
@@ -17,18 +17,23 @@ subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 
 Este documento apresenta a disponibilidade, o SLA de atendimento e os recursos adicionais de suporte oferecidos pela VTEX para clientes. Para saber mais sobre como funciona o suporte da VTEX, acesse [Como funciona o suporte VTEX?](/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe).
 
-## Disponibilidades SLA de atendimento
+## Tempo de primeira resposta para todos os chamados
 
-A seguir, apresentamos a tabela de disponibilidade e os SLAs de atendimento, que são padrões globais aplicáveis a clientes e parceiros atendidos pela VTEX. 
+O tempo médio de primeira resposta para todos os chamados é de 20 minutos. O **Copilot AI** dá suporte à triagem e à elaboração da resposta inicial.
 
-| Classificação por prioridade | Tempo médio de primeira resposta | Descrição |
-|------------------------------|----------------------------------|------------|
-| **Urgente** | **1 hora** | Sua loja VTEX em produção está indisponível ou completamente inutilizável, com todos os clientes ou todas as regiões afetadas.<br><br>_Exemplo: VTEX retornando erro 502 para todos usuários._ |
-| **Alta** | **2–4 horas** | Funcionalidades importantes da sua loja VTEX estão indisponíveis ou extremamente lentas, sem alternativa viável para contornar o problema.<br><br>_Exemplo: Uma promoção não está sendo aplicada ou produtos não estão sendo enviados de um Seller para um Marketplace._ |
-| **Normal** | **4–8 horas** | Funcionalidades importantes da sua loja VTEX estão indisponíveis ou lentas, mas existe uma alternativa viável para contornar o problema.<br><br>_Exemplo: Um problema conhecido impacta o seu uso da VTEX, mas um workaround está sendo utilizado como solução temporária._ |
-| **Baixa** | **8–12 horas** | Chamados para o time financeiro, tarefas ou perguntas sobre funcionalidades ou documentação.<br><br>_Exemplo: “É possível configurar feriados locais na plataforma?”_ |
+Para agilizar o atendimento, inclua na solicitação todas as informações relevantes — como contexto, impacto, evidências e registros. Solicitações completas permitem respostas mais precisas e efetivas.
 
-Observe que nosso cálculo para o tempo de primeira resposta considera apenas as horas úteis.
+Chamados urgentes têm prioridade para tratar incidentes críticos. Solicitações não urgentes podem apresentar variação no tempo de primeira resposta, mas ainda contam com o apoio do **Copilot AI** na resposta inicial.
+
+## Solicitações não urgentes
+
+As solicitações não urgentes são classificadas em três níveis de prioridade, conforme a tabela a seguir:
+
+| Nível | Descrição | Exemplo |
+| :---- | :---- | :---- |
+| Alta | Funcionalidades importantes da sua loja VTEX estão indisponíveis ou extremamente lentas, sem solução alternativa viável. | Uma promoção não é aplicada ou os produtos não sincronizam entre o seller e o marketplace. |
+| Normal | Funcionalidades importantes da sua loja VTEX estão indisponíveis ou lentas, mas existe uma solução alternativa temporária. | *Um problema conhecido está afetando sua loja, mas uma solução temporária já está em vigor.* |
+| Baixa | Tarefas ou dúvidas relacionadas a recursos ou documentação. | É possível configurar feriados locais na plataforma? |
 
 ## Chamados urgentes
 
