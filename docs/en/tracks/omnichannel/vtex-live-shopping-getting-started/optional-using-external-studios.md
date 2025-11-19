@@ -37,8 +37,8 @@ To transmit your event from an external studio, follow the steps below:
 5. On the **Stream method** page, in **Option 2 - Push stream**, copy the **Server URL** and the **Server Key** values.
 6. Go to the external studio stream settings and paste the values as shown below:
 
-  * **Server:** Enter the `Server URL` copied value.
-  * **Server Key:** Enter the `Server Key` copied value.
+  * **Server:** Enter the `Server URL` you copied.
+  * **Server Key:** Enter the `Server Key` you copied.
 
 7. (Optional) Usually click a confirmation button to save settings.
 
