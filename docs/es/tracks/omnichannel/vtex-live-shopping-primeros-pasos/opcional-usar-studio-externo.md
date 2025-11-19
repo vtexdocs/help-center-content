@@ -24,9 +24,11 @@ Además del estudio Bundle, puedes transmitir eventos de **Live Shopping** desde
 * Streamlabs
 * vMix
 
-## Conectar un estudio externo
+>❗ Cuando transmitas desde un estudio externo, no intentes duplicar la transmisión del evento vía Bundle u otro estudio. **Live Shopping** permite solo una transmisión por estudio, y la plataforma reconocerá únicamente el primer estudio que comience a transmitir el evento.
 
-Para configurar soluciones de estudios externos sigue los pasos a continuación:
+## Método de transmisión para estudios externos
+
+Para transmitir tu evento desde un estudio externo, sigue los pasos a continuación:
 
 1. [Crea](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) el evento en el Admin VTEX.
 2. En la página **Eventos**, haz clic en el botón de flecha del evento para acceder a la página de **Información del evento**.
@@ -35,8 +37,6 @@ Para configurar soluciones de estudios externos sigue los pasos a continuación:
 5. En la configuración de transmisión del estudio externo, llena los campos como se indica a continuación:
     * **Servidor:** ingresa el valor del servidor inbound.
     * **Clave del servidor:** Ingresa el valor de la clave del servidor.
-
->❗ Cuando transmitas desde un estudio externo, no intentes duplicar la transmisión del evento vía Bundle u otro estudio. **Live Shopping** permite solo una transmisión por estudio, y la plataforma reconocerá únicamente el primer estudio que comience a transmitir el evento.
 
 ## Configurar una transmisión de calidad
 
