@@ -53,6 +53,16 @@ Para configurar a qualidade da transmissão do estúdio, no seu estúdio externo
 * **Video = IngestFramerate:** 30 fps
 * **Output = KeyframeInterval:** 2 seconds
 
+## Antes da transmissão ao vivo
+
+Antes de iniciar o evento ao vivo, certifique-se de que tudo está funcionando corretamente:
+
+1. Verifique a pré-visualização para confirmar se o [componente Live Shopping foi adicionado](https://help.vtex.com/pt/docs/tracks/adicionar-componente-do-live-shopping) corretamente.
+2. Verifique as [configurações do evento](https://help.vtex.com/pt/docs/tracks/configurar-evento).
+3. Verifique a configuração do seu [método de transmissão](#metodo-de-transmissao-para-estudios-externos), incluindo as [configurações da qualidade da transmissão](#configuracoes-da-transmissao-qualidade-da-transmissao).
+
+Depois disso, você pode começar a transmitir o evento. Como as etapas variam de acordo com cada estúdio, recomendamos consultar a documentação oficial do estúdio que estiver usando.
+
 ## Após a transmissão ao vivo por um estúdio externo
 
 Quando a transmissão terminar e o [status](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-do-evento) do evento for `Finalizado`, você deve ocultar o componente **Live Shopping** ou remover o script, dependendo da sua solução de frontend. O público continuará vendo a tela preta no seu site ou landing page até que você preencha esta etapa.
