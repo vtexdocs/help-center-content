@@ -21,7 +21,7 @@ To use the **VTEX Sales App**, products from the physical store must be added to
 
 Among the information entered during the registration of a product in the **Catalog**, is the **EAN**, which corresponds to the barcode of the SKU. This code allows the sales associate to easily add the product to the **VTEX Sales App** cart by reading the product's barcode. The app also allows the barcode to be entered in the search field.
 
-Usually, the catalog information displayed in the app is inherited from the ecommerce catalog. This is how your **VTEX Sales App** will be configured after the [Basic Setup](/en/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc). In this scenario, the products will already be added. You only need to ensure that the bar codes are correctly entered in the **EAN** field of each SKU.
+Usually, the catalog information displayed in the app is inherited from the ecommerce catalog. This is how your **VTEX Sales App** will be configured, as described in [Basic settings](https://help.vtex.com/docs/tracks/vtex-sales-app-basic-settings). In this scenario, the products will already be added. You only need to ensure that the bar codes are correctly entered in the **EAN** field of each SKU.
 
 ## Adding the EAN to your SKUs
 
