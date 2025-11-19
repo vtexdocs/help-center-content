@@ -25,7 +25,7 @@ To access the native VTEX studio to stream your event, follow the steps below:
 
 1. In the VTEX Admin, go to **Apps > Live Shopping > Events**, or type **Events** in the search bar at the top of the page.
 2. Click the arrow button for the [event you created](https://help.vtex.com/en/docs/tracks/creating-event) to open the event configuration page.
-3. [Turn on](https://help.vtex.com/en/docs/tracks/turning-on-event) the event, by clicking the toggle switch <i class="fa-solid fa-toggle-on"></i> Turn On at the top right.
+3. [Turn on](https://help.vtex.com/en/docs/tracks/turning-on-event) the event, by clicking the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i> Turn On at the top right.
 4. Select the `Stream` tab.
 5. In the **Stream method** page, in **Option 1 - Web Studio**, click `Open Web Studio`, to be redirected to a new window in the **Device settings** page in Bundle. Restricted for administrators only.
 6. (Optional) If you wish to have guests and hosts on your event, click `Copy invitation` and share the link with them. For security reasons, a guest’s access to Bundle must be [approved by an administrator](#administrator-approval-for-guests-in-the-studio).
