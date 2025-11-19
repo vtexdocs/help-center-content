@@ -19,7 +19,7 @@ Este documento detalla la disponibilidad, el SLA de servicio y los recursos de s
 
 ## Tiempo de primera respuesta para todos los tickets
 
-El tiempo promedio de primera respuesta para todos los tickets es de **20 minutos**. **Copilot IA** asiste en el triaje y en la elaboración de la respuesta inicial.
+El tiempo promedio de primera respuesta para todos los tickets es de 20 minutos. **Copilot IA** asiste en el triaje y en la elaboración de la respuesta inicial.
 
 Para agilizar la atención, incluye en el ticket toda la información relevante, como contexto, impacto, evidencias y registros. Los tickets completos permiten respuestas más precisas y efectivas.
 
