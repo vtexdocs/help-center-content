@@ -21,7 +21,7 @@ The VTEX broadcast studio is called **Bundle**. In this article, you’ll learn 
 
 ## Stream method for Bundle
 
-To access the native VTEX studio to transmit your event, follow the steps below:
+To access the native VTEX studio to stream your event, follow the steps below:
 
 1. In the VTEX Admin, go to **Apps > Live Shopping > Events**, or type **Events** in the search bar at the top of the page.
 2. Click the arrow button of the [event you created](https://help.vtex.com/en/docs/tracks/creating-event) to access the event configuration page.
