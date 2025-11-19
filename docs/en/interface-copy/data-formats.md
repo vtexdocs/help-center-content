@@ -94,11 +94,13 @@ Use the following format of US phone numbers in local contexts (xxx) xxx-xxx and
 | ---- | ---- |
 | <ul><li>(843) 575-9211</li><li>+1 (511) 475-1731</li></ul> | <ul><li>843.575.9211</li><li>1-511-475-1731</li></ul> |
 
-For percentages, write the number and the symbol together, and either use no decimal places or use two.
+Use % when you’re expressing a percentage itself (a proportion). Use p.p. (percentage points) when you’re expressing the difference between two percentages, rather than a single percentage value.
+
+For percentages, write the number and the symbol together, and either use no decimal places or use two. For p.p., leave a space between the number and the abbreviation.
 
 | Do ✅ | Don't ❌ |
 | ---- | ---- |
-| <ul><li>85%</li><li>85.31%</li></ul> | <ul><li>85 %</li><li>85.315 %</li></ul> |
+| <ul><li>85%</li><li>85.31%</li><li>0.56 p.p. vs. yesterday</li></ul> | <ul><li>85 %</li><li>85.315 %</li><li>0.56p.p. vs. yesterday</li></ul> |
 
 ### Currency
 

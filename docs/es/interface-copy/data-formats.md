@@ -54,11 +54,15 @@ En contextos locales, usa el formato estándar del país, incluyendo el código 
 | :--- | :--- |
 | <ul><li>Formato local México (55) 1234 5678</li><li>Formato internacional México +52 55 1234 5678</li></ul> | <ul><li>Formato local México 55 1234 5678</li><li>Formato internacional México 0052-55-1234-5678</li></ul> |
 
-Omite el espacio entre el número y el símbolo de porcentaje. Aunque en español la norma indica que debe haber un espacio, en la industria tecnológica es común omitirlo. Usa cero o dos decimales, según lo exija el contexto.
+Utiliza % para expresar un porcentaje en sí mismo (una proporción) y p.p. (puntos porcentuales) cuando te refieras a la diferencia entre dos porcentajes, en lugar de a un único valor porcentual.
+
+Para porcentajes, escribe el número y el símbolo juntos, sin espacio. Aunque en español la norma indica que debe haber un espacio entre el número y el símbolo de porcentaje, en esta guía y en el contexto de la industria tecnológica es común omitirlo. Usa cero o dos decimales, según lo exija el contexto.
+
+Para p.p., deja un espacio entre el número y la abreviatura:
 
 | Correcto ✅ | Incorrecto❌ |
 | :--- | :--- |
-| <ul><li>85%</li><li>85.31%</li></ul> | <ul><li>85 %</li><li>85.315 %</li></ul> |
+| <ul><li>85%</li><li>85.31%</li><li>0.56 p.p. vs. ayer</li></ul> | <ul><li>85 %</li><li>85.315 %</li><li>0.56p.p. vs. ayer</li></ul> |
 
 ### Monedas
 

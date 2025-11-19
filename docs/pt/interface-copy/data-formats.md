@@ -54,11 +54,13 @@ Para números de telefone, use o formato (xx) xxxxx-xxxx para contextos locais e
 | :--- | :--- |
 | <ul><li>(11) 4118-3302</li><li>+55 (11) 4118-3302</li></ul> | <ul><li>011. 4118.3302</li><li>55-11-4118-3302</li></ul> |
 
-Para porcentagens, escreva o número e o símbolo juntos. Prefira números inteiros e, se for necessário, limite a duas casas decimais.
+Use % quando estiver expressando uma porcentagem em si (uma proporção). Use p.p. (pontos percentuais) quando estiver expressando a diferença entre duas porcentagens e não um único valor percentual.
+
+Para porcentagens, escreva o número e o símbolo juntos, sem espaço. Use zero ou duas casas decimais, conforme o contexto exigir. Para p.p., deixe um espaço entre o número e a abreviação.
 
 | Correto ✅ | Incorreto ❌ |
 | :--- | :--- |
-| <ul><li>85%</li><li>85,31%</li></ul> | <ul><li>85 %</li><li>85,315 %</li></ul> |
+| <ul><li>85%</li><li>85,31%</li><li>0,56 p.p. vs. ontem</li></ul> | <ul><li>85 %</li><li>85,315 %</li><li>0,56p.p. vs. ontem</li></ul> |
 
 ### Moeda
 
