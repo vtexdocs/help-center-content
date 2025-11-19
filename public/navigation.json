@@ -17170,6 +17170,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "What is Order Configuration",
+                    "es": "Qué es Order Configuration",
+                    "pt": "O que é Order Configuration"
+                  },
+                  "slug": {
+                    "en": "what-is-order-configuration",
+                    "es": "que-es-order-configuration",
+                    "pt": "o-que-e-order-configuration"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -21316,6 +21331,37 @@
             },
             {
               "name": {
+                "en": "Feedback del vendedor",
+                "es": "Feedback del vendedor",
+                "pt": "Feedback del vendedor"
+              },
+              "slug": {
+                "en": "feedback-del-vendedor",
+                "es": "feedback-del-vendedor",
+                "pt": "feedback-del-vendedor"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "Visualizar comentarios en la app de Indeva",
+                    "en": "Visualizar comentarios en la app de Indeva",
+                    "pt": "Visualizar comentarios en la app de Indeva"
+                  },
+                  "slug": {
+                    "es": "visualizar-comentarios-en-la-app-de-indeva",
+                    "en": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Indeva forms",
                 "es": "Formularios de Indeva",
                 "pt": "Formulários Indeva"
@@ -21997,6 +22043,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "View feedback in the Indeva app",
+                    "pt": "Visualizar feedback no app Indeva",
+                    "es": "View feedback in the Indeva app"
+                  },
+                  "slug": {
+                    "en": "view-feedback-in-the-indeva-app",
+                    "pt": "visualizar-feedback-no-app-indeva",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -22522,6 +22583,21 @@
                         "en": "manual-sales-update-indeva",
                         "es": "actualizacion-manual-de-ventas-indeva",
                         "pt": "atualizacao-manual-de-vendas-indeva"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Microvix integration interrupted due to username and password",
+                        "es": "Interrupción de la integración con Microvix por usuario y contraseña",
+                        "pt": "Interrupção da integração Microvix por usuário e senha"
+                      },
+                      "slug": {
+                        "en": "microvix-integration-interrupted-due-to-username-and-password",
+                        "es": "interrupcion-de-la-integracion-con-microvix-por-usuario-y-contrasena",
+                        "pt": "interrupcao-da-integracao-microvix-por-usuario-e-senha"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -25596,6 +25672,21 @@
                 },
                 {
                   "name": {
+                    "en": "Responsibilities within the VTEX ecosystem",
+                    "pt": "Responsabilidades no ecossistema VTEX",
+                    "es": "Responsibilities within the VTEX ecosystem"
+                  },
+                  "slug": {
+                    "en": "responsibilities-within-the-vtex-ecosystem",
+                    "pt": "responsabilidades-no-ecossistema-vtex",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "VTEX Global Support resources",
                     "es": "Recursos de soporte global de VTEX",
                     "pt": "Recursos de Suporte Global da VTEX"
@@ -25634,6 +25725,37 @@
                     "en": "vtex-support-satisfaction-survey",
                     "es": "encuesta-de-satisfaccion-del-soporte-vtex",
                     "pt": "pesquisa-de-satisfacao-do-suporte-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Apoyo",
+                "es": "Apoyo",
+                "pt": "Apoyo"
+              },
+              "slug": {
+                "en": "apoyo",
+                "es": "apoyo",
+                "pt": "apoyo"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "Responsabilidades en el ecosistema VTEX",
+                    "en": "Responsabilidades en el ecosistema VTEX",
+                    "pt": "Responsabilidades en el ecosistema VTEX"
+                  },
+                  "slug": {
+                    "es": "responsabilidades-en-el-ecosistema-vtex",
+                    "en": "",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -30639,37 +30761,6 @@
           "origin": "",
           "type": "category",
           "children": [
-            {
-              "name": {
-                "en": "B2B",
-                "es": "B2B",
-                "pt": "B2B"
-              },
-              "slug": {
-                "en": "b2b",
-                "es": "b2b",
-                "pt": "b2b"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "What is Order Configuration",
-                    "es": "Qué es Order Configuration",
-                    "pt": "O que é Order Configuration"
-                  },
-                  "slug": {
-                    "en": "what-is-order-configuration",
-                    "es": "que-es-order-configuration",
-                    "pt": "o-que-e-order-configuration"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
             {
               "name": {
                 "en": "Price list",
@@ -36081,53 +36172,6 @@
         },
         {
           "name": {
-            "en": "Support",
-            "es": "Soporte",
-            "pt": "Suporte"
-          },
-          "slug": {
-            "en": "support",
-            "es": "soporte",
-            "pt": "suporte"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Operational",
-                "es": "Operativo",
-                "pt": "Operacional"
-              },
-              "slug": {
-                "en": "operational",
-                "es": "operativo",
-                "pt": "operacional"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Responsibilities within the VTEX ecosystem",
-                    "es": "Responsabilidades en el ecosistema VTEX",
-                    "pt": "Responsabilidades no ecossistema VTEX"
-                  },
-                  "slug": {
-                    "en": "responsibilities-in-the-vtex-ecosystem",
-                    "es": "responsabilidades-en-el-ecosistema-vtex",
-                    "pt": "responsabilidades-no-ecossistema-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "Trade policies",
             "es": "Políticas comerciales",
             "pt": "Políticas comerciais"
@@ -38601,68 +38645,6 @@
                     "en": "weni-chats-setting-up-human-attendance",
                     "es": "weni-chats-configurando-el-atencion-humana",
                     "pt": "weni-chats-configurando-o-atendimento-humano"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Uncategorized",
-            "es": "Uncategorized",
-            "pt": "Uncategorized"
-          },
-          "slug": {
-            "en": "uncategorized",
-            "es": "uncategorized",
-            "pt": "uncategorized"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Unknown subcategory",
-                "es": "Unknown subcategory",
-                "pt": "Unknown subcategory"
-              },
-              "slug": {
-                "en": "unknown-subcategory",
-                "es": "unknown-subcategory",
-                "pt": "unknown-subcategory"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Microvix integration interrupted due to username and password",
-                    "es": "Interrupción de la integración con Microvix por usuario y contraseña",
-                    "pt": "Interrupção da integração Microvix por usuário e senha"
-                  },
-                  "slug": {
-                    "en": "microvix-integration-interrupted-due-to-username-and-password",
-                    "es": "interrupcion-de-la-integracion-con-microvix-por-usuario-y-contrasena",
-                    "pt": "interrupcao-da-integracao-microvix-por-usuario-e-senha"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "View feedback in the Indeva app",
-                    "es": "Visualizar comentarios en la app de Indeva",
-                    "pt": "Visualizar feedback no app Indeva"
-                  },
-                  "slug": {
-                    "en": "view-feedback-in-the-indeva-app-indeva",
-                    "es": "visualizar-comentarios-en-la-app-de-indeva",
-                    "pt": "visualizar-feedback-no-app-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
