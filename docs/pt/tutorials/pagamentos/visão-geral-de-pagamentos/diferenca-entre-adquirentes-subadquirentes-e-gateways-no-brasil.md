@@ -23,11 +23,11 @@ Neste artigo, esclareceremos os conceitos de adquirente, subadquirente, gateway,
 
 Um gateway (também chamado de gateway de pagamento) é um __sistema que efetua a transmissão dos dados das compras realizadas na sua loja no momento do checkout__.
 
-Como primeiro player do fluxo, ele é responsável por enviar as informações do pagamento recebidas no checkout para adquirentes, bandeiras e [bancos emissores](/pt/tutorial/o-que-e-banco-emissor--7aVIVGwgtU4SWuqowSQksg) para, então, obter um retorno sobre a continuação do fluxo de compra ou do seu cancelamento. Em outras palavras, o gateway envia os dados de pagamento da compra e recebe respostas para que você saiba se uma determinada compra deve ou não ser confirmada, ou seja, se o pagamento foi ou não aprovado. 
+Como primeiro player do fluxo, ele é responsável por enviar as informações do pagamento recebidas no checkout para adquirentes, bandeiras e [bancos emissores](/pt/tutorial/o-que-e-banco-emissor--7aVIVGwgtU4SWuqowSQksg) para, então, obter um retorno sobre a continuação do fluxo de compra ou do seu cancelamento. Em outras palavras, o gateway envia os dados de pagamento da compra e recebe respostas para que você saiba se uma determinada compra deve ou não ser confirmada, ou seja, se o pagamento foi ou não aprovado.
 
 Como agentes intermediários entre um e-commerce e seus meios de pagamento, os gateways atuam como um terminal, integrando em um só lugar todas as movimentações realizadas entre os players do fluxo de pagamento.
 
-Ativando os [conectores](/pt/tutorial/o-que-e-conector--3lze0Cu0bmyC6u2o2iaeEA) e cadastrando [afiliações de gateway](/pt/tutorial/afiliacoes-de-gateway--tutorials_444), os dados das compras dos seus clientes poderão ser enviados a adquirentes ou outros gateways e, assim, seguir o fluxo de aprovação nas instituições financeiras. 
+Ativando os [conectores](/pt/tutorial/o-que-e-conector--3lze0Cu0bmyC6u2o2iaeEA) e cadastrando [provedores de pagamento e antifraude](https://help.vtex.com/pt/docs/tutorials/afiliacoes-de-gateway), os dados das compras dos seus clientes poderão ser enviados a adquirentes ou outros gateways e, assim, seguir o fluxo de aprovação nas instituições financeiras.
 
 A plataforma VTEX possui um gateway próprio com certificação [PCI](/pt/tutorial/o-que-e-o-pci-ssc--4jo3Vkox3amSO2w4qIWa0E), o que significa que os dados de todos os pagamentos realizados na sua loja estão protegidos de acordo com os mais altos padrões de segurança.
 
@@ -63,7 +63,7 @@ No [fluxo de pagamento por cartão de crédito](/pt/tutorial/cartao-de-credito-f
 
 Banco Emissor é a instituição financeira responsável pelos meios de pagamento, sejam eles boletos bancários, cartões de débito ou de crédito. É ele que, ao receber os dados de uma compra feita na sua loja, vai autorizar ou não a venda (dependendo do limite de crédito ou do dinheiro disponível na conta do usuário). Com tudo certo, o banco efetiva a cobrança do valor.
 
-Esse conceito é importante porque permite que você configure [condições especiais](/pt/tutorial/condicoes-especiais--tutorials_456) para pagamentos realizados através de bancos específicos. Além disso, no caso dos boletos registrados, cada banco possui sua própria forma de emissão. E, para fazer essa configuração, você precisa saber como é o processo do banco emissor escolhido e seguir as instruções [deste artigo](/pt/tutorial/como-configurar-boleto-registrado--frequentlyAskedQuestions_2867). São exemplos de Bancos Emissores: Itaú, Santander, Bradesco e Citibank.
+Esse conceito é importante porque permite que você configure [condições especiais](/pt/tutorial/condicoes-especiais--tutorials_456) para pagamentos realizados através de bancos específicos. Além disso, no caso dos boletos registrados, cada banco possui sua própria forma de emissão.
 
 ## Antifraude
 

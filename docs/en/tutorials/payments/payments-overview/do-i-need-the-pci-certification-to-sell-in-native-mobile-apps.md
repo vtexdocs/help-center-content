@@ -24,7 +24,7 @@ In a purchase made through a native app, the customer data (personal data, payme
 
 To get a PCI certificate for your store, you need to consult a PCI QSA (PCI Qualified Security Assessors) company. These companies are qualified to evaluate systems and processes on a case-by-case basis. A good example is [Cipher](https://cipher.com/br/avaliacao-consultoria-pci-qsa-asv/).
 
-You can answer all your questions about the certification process on the official __[PCI Security Standards Council website](https://pt.pcisecuritystandards.org/index.php)__.
+You can answer all your questions about the certification process on the official [**PCI Security Standards Council website**](https://www.pcisecuritystandards.org/).
 
 
 ## Alternatives

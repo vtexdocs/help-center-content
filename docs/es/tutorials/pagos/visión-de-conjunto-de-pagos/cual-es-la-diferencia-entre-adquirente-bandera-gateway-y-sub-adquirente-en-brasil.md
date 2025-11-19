@@ -27,7 +27,7 @@ Como primer player del flujo, es responsable de enviar la información del pago 
 
 Como agentes intermediarios entre un  e-commerce y sus medios de pago, los gateways actúan como un terminal, integrando en un solo lugar todos los movimientos realizados entre los players del flujo de pago.
 
-Activando los [conectores](/es/tutorial/que-es-el-conector--3lze0Cu0bmyC6u2o2iaeEA) y registrando [afiliaciones de  gateway](/es/tutorial/afiliaciones-de-gateway--tutorials_444), los datos de las compras de sus clientes podrán ser enviados a los adquirentes u otros gateways y, así, seguir el flujo de aprobación en las instituciones financieras.
+Activando los [conectores](/es/tutorial/que-es-el-conector--3lze0Cu0bmyC6u2o2iaeEA) y registrando [proveedores de pagos y antifraude](https://help.vtex.com/es/docs/tutorials/afiliaciones-de-gateway), los datos de las compras de sus clientes podrán ser enviados a los adquirentes u otros gateways y, así, seguir el flujo de aprobación en las instituciones financieras.
 
 La plataforma VTEX tiene un gateway propio con certificación [PCI](/es/tutorial/que-es-el-pci-ssc--4jo3Vkox3amSO2w4qIWa0E), lo que significa que los datos de todos los pagos realizados en su tienda están protegidos de acuerdo con los más altos estándares de seguridad.
 
@@ -61,7 +61,7 @@ En el [flujo de pago por tarjeta de crédito](/es/tutorial/tarjeta-de-credito-fl
 
 El Banco Emisor es la institución financiera responsable de los medios de pago, ya sean boletos bancarios, tarjetas de débito o de crédito. Es este quien, al recibir los datos de una compra hecha en su tienda, va a autorizar o no la venta (dependiendo del límite de crédito o del dinero disponible en la cuenta del usuario). Con todo correcto, el banco efectúa el cobro del valor
 
-Este concepto es importante porque le permite configurar [condiciones especiales](/es/tutorial/condiciones-especiales?locale=es) para pagos realizados a través de bancos específicos. Además, en el caso de los boletos registrados, cada banco tiene su propia forma de emisión. Y, para hacer esta configuración, usted necesita saber cómo es el proceso del banco emisor elegido y seguir las instrucciones de [este artículo](/es/tutorial/como-configurar-boleto-registrado?locale=es). Son ejemplos de Bancos Emisores: Itaú, Santander, Bradesco y Citibank.
+Este concepto es importante porque le permite configurar [condiciones especiales](/es/tutorial/condiciones-especiales?locale=es) para pagos realizados a través de bancos específicos. Además, en el caso de los boletos registrados, cada banco tiene su propia forma de emisión.
 
 ## Antifraude
 

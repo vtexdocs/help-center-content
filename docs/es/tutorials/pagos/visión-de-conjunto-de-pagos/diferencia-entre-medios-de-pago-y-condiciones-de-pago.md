@@ -26,4 +26,4 @@ En VTEX, un medio de pago sólo está disponible en su sitio web después de que
 ### Artículos relacionados
 - [Pagos - Visión general](/es/tutorial/pci-gateway-vision-general)
 - [Configurar Planes de pago](/es/tutorial/condiciones-de-pago)
-- [Registrar afiliaciones de gateway](/es/tutorial/afiliaciones-de-gateway)
+- [Registrar proveedores de pagos y antifraude](https://help.vtex.com/es/docs/tutorials/afiliaciones-de-gateway)

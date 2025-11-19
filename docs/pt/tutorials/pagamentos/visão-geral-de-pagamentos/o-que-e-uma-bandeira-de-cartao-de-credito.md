@@ -19,9 +19,9 @@ __Bandeiras__ são empresas responsáveis por definir as regras de negócio para
 
 As bandeiras mantêm uma relação próxima com os adquirentes para garantir a aceitação dos seus cartões de crédito nos estabelecimentos. Assim, elas promovem seu uso e ampliam a base de usuários.
 
-No [fluxo de pagamento por cartão de crédito](/pt/faq/cartao-de-credito-fluxo-basico-de-um-pagamento), a bandeira recebe do adquirente as informações da compra realizada na sua loja. Então, ela valida as condições (como o número de parcelas) e envia os dados para o [banco emissor](/pt/tutorial/o-que-e-banco-emissor), que verifica se o comprador possui limite disponível.
+No [fluxo de pagamento por cartão de crédito](https://help.vtex.com/pt/docs/tutorials/cartao-de-credito-fluxo-basico-de-um-pagamento), a bandeira recebe do adquirente as informações da compra realizada na sua loja. Então, ela valida as condições (como o número de parcelas) e envia os dados para o [banco emissor](/pt/tutorial/o-que-e-banco-emissor), que verifica se o comprador possui limite disponível.
 
 ### Artigos relacionados
-- [Cartão de crédito - Fluxo básico de um pagamento](/pt/faq/cartao-de-credito-fluxo-basico-de-um-pagamento)
+- [Cartão de crédito - Fluxo básico de um pagamento](https://help.vtex.com/pt/docs/tutorials/cartao-de-credito-fluxo-basico-de-um-pagamento)
 - [O que é um adquirente?](/pt/tutorial/o-que-e-um-adquirente)
 - [O que é banco emissor?](/pt/tutorial/o-que-e-banco-emissor)
