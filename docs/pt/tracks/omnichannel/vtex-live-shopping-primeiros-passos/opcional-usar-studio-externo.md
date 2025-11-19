@@ -40,18 +40,6 @@ Além do Bundle, eventos de **Live Shopping** podem ser transmitidos por estúdi
 
 7. (Opcional) Normalmente, clique em um botão de confirmação para salvar as configurações.
 
-Para configurar soluções de externos, siga os passos abaixo:
-
-1. No Admin VTEX, [crie](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) o evento.
-2. Na página **Eventos**, clique na seta do evento para acessar a página **Informações do evento**.
-3. Clique em [Iniciar](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) evento.
-4. Em [Detalhes](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq#detalhes-do-evento), copie o **servidor de entrada** e as **informações da chave do servidor**.
-5. Nas configurações de transmissão do estúdio externo, preencha os campos conforme indicado abaixo:
-    - **Servidor:** informe o valor do servidor de entrada.
-    - **Chave do servidor:** informe o valor da chave do servidor.
-
-> ℹ️ Antes de clicar em **Go Live** (Transmitir ao vivo), recomendamos usar uma imagem como placeholder antes de iniciar o evento para validar a transmissão. Isso permite que você faça ajustes finais e evite que uma tela preta seja exibida ao público.
-
 ## Configurar uma transmissão de qualidade
 
 Para realizar uma transmissão de alta qualidade, mesmo em dispositivos com sinal de internet limitado, você deve configurar os campos abaixo com os seguintes valores:
