@@ -3,7 +3,7 @@ title: 'Configurar el evento'
 id: 125yr6jAfwiiz84JP4ppfO
 status: PUBLISHED
 createdAt: 2025-07-23T18:02:12.430Z
-updatedAt: 2025-09-15T21:13:33.647Z
+updatedAt: 2025-11-18T21:13:33.647Z
 publishedAt: 2025-09-15T21:13:33.647Z
 firstPublishedAt: 2025-07-28T15:08:11.624Z
 contentType: trackArticle
@@ -15,12 +15,14 @@ trackSlugEN: vtex-live-shopping-primeros-pasos
 order: 7
 ---
 
-En el Admin VTEX, al acceder a **Apps > Live Shopping** y hacer clic el ícono de flecha de un [evento creado](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) se abre la página de **Información del evento**, que te permite configurarlo mediante las siguientes secciones:
+En el Admin VTEX, al acceder a **Apps > Live Shopping**, o ingresar Live Shopping en la barra de búsqueda de la parte superior de la página, y hacer clic el ícono de flecha de un [evento creado](https://help.vtex.com/es/docs/tracks/crear-evento) se abre la página de **Información del evento**. En la página de gestión encontrarás las siguientes opciones de configuración, divididas en las siguientes secciones:
 
-- [Tipo de layout - Configurar el estilo](#tipo-de-layout-configurar-el-estilo)
-- [Chat - Configurar el nombre del administrador](#chat-configurar-el-nombre-del-administrador)
-- [Configuración - Configurar funcionalidades](#configuracion-configurar-funcionalidades)
-- [Configuración CMS - Configurar la presentación del contenido](#configuracion-cms-configurar-la-presentacion-del-contenido)
+* [Tipo de layout - Configurar el estilo](#tipo-de-layout-configurar-el-estilo)
+* [Chat - Configurar el nombre del administrador](#chat-configurar-el-nombre-del-administrador)
+* [Promociones - Configurar cupones y promociones](#promociones-configurar-cupones-y-promociones)
+* [Destacar producto - Configurar la presentación de la colección](#destacar-producto-configurar-la-presentacion-de-la-coleccion)
+* [Configuración - Configurar funcionalidades](#configuracion-configurar-funcionalidades)
+* [Configuración CMS - Configurar la presentación del contenido](#configuracion-cms-configurar-la-presentacion-del-contenido)
 
 > ⚠️ Este artículo describe los ajustes principales para un evento. No explica todas las secciones de la página **Información del evento**. Para más información, consulta [Live Shopping: Eventos](/es/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
 
@@ -67,7 +69,43 @@ La sección **Chat** es donde gestionas el chat en vivo durante tu evento. Si de
 2. En la ventana **Información de la tienda**, ingresa el nombre del administrador en el campo.
 3. Haz clic en `Confirmar`.
 
-> ℹ️ Para aprender a fijar mensajes, bloquear usuarios, eliminar mensajes y realizar otras acciones en el chat del evento, consulta [Live Shopping: Eventos](/es/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch). 
+> ℹ️ Para aprender a fijar mensajes, bloquear usuarios, eliminar mensajes y realizar otras acciones en el chat del evento, consulta [Live Shopping: Eventos](/es/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
+
+## Promociones - Configurar cupones y promociones
+
+En esta sección puedes configurar cupones y promociones según los espectadores del evento o los "me gusta", por ejemplo. Las opciones disponibles serán aquellas que se hayan configurado previamente en el módulo [Promociones](https://help.vtex.com/es/docs/tutorials/crear-promociones).  
+
+Para ofrecer una promoción durante tu evento de **Live Shopping** sigue los pasos a continuación:
+
+1. En la sección **Promociones** , haz clic en `Nueva promoción`.  
+2. Selecciona una opción de promoción usando el menú desplegable.  
+3. Elige una variable:
+
+  * Me gusta
+  * Comentarios  
+  * Espectadores  
+  * Pedidos  
+
+4. En el campo **Objetivo**, ingresa la condición que la audiencia debe cumplir para activar el cupón o promoción. Esta información no es visible para el público y tiene un límite de 20 caracteres. Consulta a continuación un ejemplo de cada variable:
+
+  * **Me gusta:** alcanzar 100 reacciones de me gusta.  
+  * **Comentarios:** obtener 150 comentarios.  
+  * **Espectadores:** reunir una audiencia de más de 200 personas.  
+  * **Pedidos:** recibir los primeros 100 pedidos.
+
+  >⚠️ Al alcanzar el objetivo los cupones se activan inmediatamente. Las promociones se activan cinco minutos después de que se alcance el objetivo.
+
+5. En el campo **Mensaje para mostrar**, redacta el texto que comunicará a tu audiencia la condición necesaria para la activación de la promoción o cupón. Límite de 20 caracteres. Ejemplo, `40% off`.  
+6. Selecciona una animación para mostrar la promoción o cupón durante el evento.  
+7. Haz clic en `Guardar`.
+
+Una vez creada la promoción, se mostrará en una tabla con las siguientes columnas:
+
+* **Status:** permite activar o desactivar la promoción usando el botón de alternancia. Aunque las promociones o cupones se activen automáticamente cuando la audiencia cumple el objetivo, puedes administrar el status de activación durante el evento.
+* **Promoción:** nombre que identifica la promoción.
+* **Variable:** base de la promoción, que puede ser `Me gusta`, `Comentarios`, `Espectadores` o `Pedidos`.
+* **Objetivo:** valor de la variable que, una vez alcanzado, dispara la activación de la promoción.
+* **Acciones:** permite <i class="fa-solid fa-pencil"></i> editar o <i class="fa-solid fa-trash"></i> eliminar la promoción. Todos los ajustes de promoción pueden editarse. Al eliminar, se remueve la promoción solo de la configuración de este evento, no del módulo **Promociones**.
 
 ## Configuración - Configurar funcionalidades
 
@@ -79,9 +117,17 @@ En la sección **Configuración** puedes activar o desactivar las siguientes fun
 | Reproductor | <ul><li>**Número de espectadores:** muestra el número de espectadores que están viendo el evento en vivo. Este número no es acumulativo.</li><li>**Ventana emergente de la transmisión:** permite mostrar el componente completo de Live Shopping (chat, reproductor y barra lateral de productos) en un formato de ventana emergente para captar toda la atención del público mientras ven el evento. Los participantes pueden cerrar la ventana emergente en cualquier momento haciendo clic en la X en la esquina para volver al formato normal.</li></ul> |
 | Productos | <ul><li>**Aplicar impuestos:** permite aplicar impuestos a los productos mostrados durante el evento en vivo. Cuando activas esta opción, el módulo **Promociones > Cargos** muestra el precio del producto incluyendo los cargos aplicables.</li></ul> |
 
+## Destacar producto - Configurar la presentación de la colección
+
+La sección **Destacar producto** es donde gestionas los productos que deseas destacar durante el evento. Los productos mostrados pertenecen a la colección que seleccionaste al [crear el evento](https://help.vtex.com/es/docs/tracks/crear-evento), o la colección que añades o actualizas antes o durante la transmisión.
+
+>⚠️ Para garantizar que tu colección se muestre correctamente en un evento de **Live Shopping**, recomendamos crearla al menos con unas horas de antelación. Esto le da tiempo a la plataforma para indexar la información. De lo contrario, la página puede quedarse almacenada en caché durante el evento, lo que podría impedir que la colección se muestre correctamente.
+
+Para destacar un producto, activa el botón de alternancia en la columna **Acciones**. Puedes elegir dos productos a la vez. Una vez seleccionado, el producto se mostrará sobre los nombres de las columnas.
+
 ## Configuración CMS - Configurar la presentación del contenido
 
-En la sección **Configuración CMS** puedes configurar la presentación del contenido durante el evento. Las funcionalidades existentes son: 
+En la sección **Configuración CMS** puedes configurar la presentación del contenido durante el evento. Las funcionalidades existentes son:
 
 * **Productos de la barra lateral:** muestra una barra con los productos seleccionados al lado del reproductor de video. Los productos se muestran verticalmente al lado izquierdo del reproductor.
 * **Carrusel de productos:** muestra un carrusel con una colección de productos en una vista horizontal debajo del reproductor de video durante el evento en vivo.
@@ -91,10 +137,10 @@ En la sección **Configuración CMS** puedes configurar la presentación del con
 ![article_7_cms_configuration_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/configurar-evento_2.png)
 
 * **Carrito de checkout:** proporciona un botón `Agregar al carrito` que cuando utilizado por la audiencia, abre el checkout con el producto agregado al carrito en una nueva pestaña. El modo pantalla en pantalla (PiP) también se activará para permitir que el cliente continúe viendo la transmisión en vivo mientras finaliza la compra.
-* **Vista rápida:** permite que el público vea el evento en vivo mientras consulta las variaciones del producto. Cuando el cliente hace clic en el botón `Agregar al carrito`, se abre una vista rápida del producto sin ocultar la transmisión del evento permitiéndole elegir la talla y el color del producto, por ejemplo, sin dejar de ver el evento. 
-    * Si desactivas esta opción, cuando el cliente hace clic en `Agregar al carrito`, se abre una nueva pestaña con la página de detalles del producto (PDP) y se activa el modo PiP automáticamente para que pueda continuar viendo la transmisión.
+* **Vista rápida:** permite que el público vea el evento en vivo mientras consulta las variaciones del producto. Cuando el cliente hace clic en el botón `Agregar al carrito`, se abre una vista rápida del producto sin ocultar la transmisión del evento permitiéndole elegir la talla y el color del producto, por ejemplo, sin dejar de ver el evento.
+  * Si desactivas esta opción, cuando el cliente hace clic en `Agregar al carrito`, se abre una nueva pestaña con la página de detalles del producto (PDP) y se activa el modo PiP automáticamente para que pueda continuar viendo la transmisión.
 * **Scroll infinito:** implementa el scroll infinito en la opción de barra lateral de productos que hace scroll cada N segundos automáticamente para que tu público pueda ver todos los productos sin ninguna acción adicional.
-    * La velocidad del scroll automático es 10 segundos de forma predeterminada, pero puedes cambiar el valor ingresando el número deseado en el campo. Recomendamos una configuración de 3 a 100 segundos.
+  * La velocidad del scroll automático es 10 segundos de forma predeterminada, pero puedes cambiar el valor ingresando el número deseado en el campo. Recomendamos una configuración de 3 a 100 segundos.
 
 > ℹ️ Todas las funcionalidades mencionadas anteriormente están activas de forma predeterminada, excepto **Carrusel de productos** y **Carrito de checkout**.
 
