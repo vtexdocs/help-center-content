@@ -3,7 +3,7 @@ title: 'VTEX Global Support resources'
 id: 5maoEWCrTKFAEMXRsfcklV
 status: PUBLISHED
 createdAt: 2025-06-16T11:23:32.616Z
-updatedAt: 2025-11-06T17:53:21.532Z
+updatedAt: 2025-11-19T17:53:21.532Z
 publishedAt: 2025-11-06T17:53:21.532Z
 firstPublishedAt: 2025-06-16T13:25:37.792Z
 contentType: tutorial
@@ -17,18 +17,23 @@ subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 
 This document presents the availability, service SLAs, and additional support resources offered by VTEX. Learn more about VTEX Support in [How does VTEX Support work?](/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). 
 
-## SLA service availability
+## First response time for all tickets
 
-The following table shows the availability and service SLAs, which are global standards applicable to clients and partners served by VTEX.
+The average **first response time** for all tickets is **20 minutes**. **Copilot AI** assists with triaging and drafting the initial response.
 
-| Priority ranking | Average first response time | Description |
-|------------------|------------------------------|--------------|
-| **Urgent** | **1 hour** | Your VTEX store in production is unavailable or completely unusable, with all clients or all regions affected.<br><br>_Example: VTEX returning error 502 for all users._ |
-| **High** | **2–4 hours** | Important features of your VTEX store are unavailable or extremely slow, with no viable workaround.<br><br>_Example: A promotion fails to apply, or products fail to sync from a seller to a marketplace._ |
-| **Normal** | **4–8 hours** | Important features of your VTEX store are unavailable or slow, but a viable workaround exists.<br><br>_Example: A known issue impacts your store, but a temporary solution is in place._ |
-| **Low** | **8–12 hours** | Finance-related tickets, tasks, or questions about features or documentation.<br><br>_Example: “Can you set up local holidays on the platform?”_ |
+To speed up support, include all relevant information in your request  such as context, impact, evidence, and records. Complete requests allow for more accurate and effective responses.
 
-Please note the first response time is calculated based on business hours only.
+Urgent tickets are prioritized to address critical incidents. **Non-urgent requests** may vary in first response time but still benefit from the support of **Copilot AI** in the initial reply.
+
+### Non-urgent requests
+
+Non-urgent requests are classified into three priority levels, as shown in the table below:
+
+| Level | Description | Example |
+| :---- | :---- | :---- |
+| High | Important features of your VTEX store are unavailable or extremely slow, with no viable workaround. |  A promotion fails to apply, or products fail to sync from a seller to a marketplace. |
+| Normal | Important features of your VTEX store are unavailable or slow, but a viable workaround exists.  | A known issue impacts your store, but a temporary solution is in place. |
+| Low | Tasks or questions about features or documentation. | Can you set up local holidays on the platform? |
 
 ## Urgent tickets
 
