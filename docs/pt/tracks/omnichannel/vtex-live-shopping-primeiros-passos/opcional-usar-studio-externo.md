@@ -65,6 +65,6 @@ Depois disso, você pode começar a transmitir o evento. Como as etapas variam d
 
 ## Após a transmissão ao vivo por um estúdio externo
 
-Quando a transmissão terminar e o [status](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-do-evento) do evento for `Finalizado`, você deve ocultar o componente **Live Shopping** ou remover o script, dependendo da sua solução de frontend. O público continuará vendo a tela preta no seu site ou landing page até que você preencha esta etapa.
+Quando a transmissão terminar e o [status](https://help.vtex.com/pt/docs/tracks/criar-evento#status-do-evento) do evento for `Finalizado`, você deve ocultar o componente **Live Shopping** ou remover o script, dependendo da sua solução de frontend. O público continuará vendo a tela preta no seu site ou landing page até que você preencha esta etapa.
 
-Para o passo a passo completo, veja [Como ocultar ou remover componente do Live Shopping](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/7e3bP6LjFgxXC210jSpl59).
+Para o passo a passo completo, veja [Como ocultar ou remover componente do Live Shopping](https://help.vtex.com/pt/docs/tracks/ocultar-ou-remover-componente-do-live-shopping).
