@@ -28,6 +28,18 @@ Além do Bundle, eventos de **Live Shopping** podem ser transmitidos por estúdi
 
 ## Método de transmissão para estúdios externos
 
+1. No Admin VTEX, acesse **Aplicativos > Live Shopping > Eventos**, ou digite **Eventos** na barra de busca no topo da página.
+2. Clique no ícone de seta do [evento que você criou](https://help.vtex.com/pt/docs/tracks/criar-evento) para acessar a página de configuração do evento.
+3. [Inicie o evento](https://help.vtex.com/pt/docs/tracks/iniciar-evento) clicando no botão de ativação <i class="fa-solid fa-toggle-on"></i> `Iniciar` no canto superior direito.
+4. Selecione a aba `Transmissão`.
+5. Na página **Stream method** (Método de transmissão), em **Opção 2 - Push stream** (Transmissão push), copie a URL do servidor e os valores de Chave do servidor.
+6. Vá até as configurações de transmissão do estúdio externo e cole os valores conforme mostrado abaixo:
+
+  * **Servidor:** informe a `URL do servidor` que você copiou.
+  * **Chave do servidor:** informe a `Chave do servidor` que você copiou.
+
+7. (Opcional) Normalmente, clique em um botão de confirmação para salvar as configurações.
+
 Para configurar soluções de externos, siga os passos abaixo:
 
 1. No Admin VTEX, [crie](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) o evento.
