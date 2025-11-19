@@ -35,4 +35,4 @@ To add the SKU's **EAN**, follow the steps below:
 
 >ℹ️ The **EAN** information can take up to 10 minutes to update. After this procedure, it will be possible to add the SKU to the **VTEX Sales App** cart using the barcode reader machine.
 
-Alternatively, the **EAN** field, as well as other SKU fields, can be filled out in bulk using a spreadsheet or your ERP. For more information, see [Backend integrations](https://help.vtex.com/docs/tracks/backend-integrations).
+Alternatively, the **EAN** field, as well as other SKU fields, can be filled out in bulk using a [spreadsheet](https://help.vtex.com/docs/tutorials/filling-in-fields-in-the-import-spreadsheet) or your ERP. For more information, see [Backend integrations](https://help.vtex.com/docs/tracks/backend-integrations).

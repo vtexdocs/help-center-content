@@ -35,4 +35,4 @@ Para cadastrar o **EAN** dos SKUs, siga os passos abaixo:
 
 > ℹ️ A informação do **EAN** pode levar até 10 minutos para ser atualizada. Feito isso, será possível adicionar o SKU ao carrinho do **VTEX Sales App** usando a máquina leitora de código de barras.
 
-Assim como demais campos do cadastro de SKU, o **EAN** pode ser preenchido em massa por planilha ou por seu ERP. Saiba mais em [Integrações de backend](https://help.vtex.com/pt/docs/tracks/integracoes-de-backend).
+Assim como demais campos do cadastro de SKU, o **EAN** pode ser preenchido em massa por [planilha](https://help.vtex.com/pt/docs/tutorials/preencher-campos-da-planilha-de-importacao) ou por seu ERP. Saiba mais em [Integrações de backend](https://help.vtex.com/pt/docs/tracks/integracoes-de-backend).
