@@ -24,7 +24,7 @@ In addition to the Bundle studio, **Live Shopping** events can be transmitted fr
 * Streamlabs
 * vMix
 
->❗ When transmitting from an external studio, don't try to duplicate the event transmission via Bundle or another studio. **Live Shopping** allows only one transmission per studio, and the platform will recognize only the first studio transmitting the event.
+>❗ When transmitting from an external studio, don't try to duplicate the event transmission via Bundle or another studio. **Live Shopping** allows only one transmission per studio, and the platform will recognize only the first studio that starts streaming the event.
 
 ## Stream method for external studios
 
