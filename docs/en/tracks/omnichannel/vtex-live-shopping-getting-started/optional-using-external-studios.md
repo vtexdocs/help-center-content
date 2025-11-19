@@ -3,7 +3,7 @@ title: '(Optional) Using external studios'
 id: Dw0QdKI0aGjmyD5Z6z5JC
 status: PUBLISHED
 createdAt: 2025-07-23T18:10:11.675Z
-updatedAt: 2025-09-15T21:42:49.757Z
+updatedAt: 2025-11-19T21:42:49.757Z
 publishedAt: 2025-09-15T21:42:49.757Z
 firstPublishedAt: 2025-07-28T15:08:28.675Z
 contentType: trackArticle
@@ -24,7 +24,7 @@ In addition to the Bundle studio, **Live Shopping** events can be transmitted fr
 * Streamlabs
 * vMix
 
->❗ When transmitting from an external studio, don't try to duplicate the event transmission via Bundle or another studio. **Live Shopping** allows only one transmission per studio, and the platform will recognize only the first studio transmitting the event.
+>❗ When transmitting from an external studio, don't try to duplicate the event transmission via Bundle or another studio. **Live Shopping** allows only one transmission per studio, and the platform will recognize only the first studio that starts streaming the event.
 
 ## Stream method for external studios
 
@@ -34,39 +34,39 @@ To transmit your event from an external studio, follow the steps below:
 2. Click the arrow button of the [event you created](https://help.vtex.com/en/docs/tracks/creating-event) to access the event configuration page.
 3. [Turn on](https://help.vtex.com/en/docs/tracks/turning-on-event) the event, by clicking the toggle switch <i class="fa-solid fa-toggle-on"></i> Turn On at the top right.
 4. Select the `Stream` tab.
-5. In the **Stream method** page, in **Option 2 - Push stream**, copy the **Server URL** and the **Server Key** values.
+5. On the **Stream method** page, in **Option 2 - Push stream**, copy the **Server URL** and the **Server Key** values.
 6. Go to the external studio stream settings and paste the values as shown below:
 
-  * **Server:** Enter the `Server URL` copied value.
-  * **Server Key:** Enter the `Server Key` copied value.
+  * **Server:** Enter the `Server URL` you copied.
+  * **Server Key:** Enter the `Server Key` you copied.
 
 7. (Optional) Usually click a confirmation button to save settings.
 
-## Stream settings - quality transmission
+## Stream settings - Transmission quality
 
-For a high-quality transmission, including streaming to devices with limited internet signal, you have to configure the studio quality transmission settings. The recommended values can be found in the **Stream method** page, in **Stream settings** section, as in the image below:
+For a high-quality stream, including on devices with limited connectivity, you must configure the studio transmission quality settings. The recommended values are available on the **Stream method** page, in **Stream settings** section, as shown in the image below:
 
 ![live_shopping_stream_settings_quality_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/live_shopping_stream_settings_quality_EN.png)
 
-To configure the studio quality transmission, go to the external studio and fill in set the quality transmission fields with the values shown below:
+To configure the studio transmission quality, in your external studio, set the following fields to these values:
 
 * **Output = IngestVideoBitrate:** 2.4 Mb/s
 * **Output = IngestAudioBitrate:** 150 kbps
 * **Video = IngestFramerate:** 30 fps
 * **Output = KeyframeInterval:** 2 seconds
 
-## Before the Go Live
+## Before the live stream
 
-Before you start transmitting the event, make sure everything works properly:
+Before you start the live event, make sure everything works properly:
 
-1. Check with the preview if you [placed the Live Shopping component](https://help.vtex.com/en/docs/tracks/placing-the-live-shopping-component) correctly.
-2. Check your [event configurations](https://help.vtex.com/en/docs/tracks/configuring-event).
-3. Check your [stream method](#stream-settings-quality-transmission) configuration, including the quality transmission settings.
+1. Check the preview to confirm the [Live Shopping component is placed](https://help.vtex.com/en/docs/tracks/placing-the-live-shopping-component) correctly.
+2. Check the [event settings](https://help.vtex.com/en/docs/tracks/configuring-event).
+3. Check your [stream method](#stream-method-for-external-studios) configuration, including the [transmission quality settings](#stream-settings-transmission-quality).
 
 After that, you can start transmitting the event. Since the steps vary for each studio, we recommend checking the official documentation of that particular studio.
 
 ## After live streaming from an external studio
 
-When the transmission has ended and the event [status](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#event-status) is `Completed`, you must hide the **Live Shopping** component or remove the script, depending on your frontend solution.The audience will continue to see the black screen on your site or landing page until you complete this step.
+When the transmission has ended and the event [status](https://help.vtex.com/docs/tracks/creating-event#event-status) is `Completed`, you must hide the **Live Shopping** component or remove the script, depending on your frontend solution.The audience will continue to see the black screen on your site or landing page until you complete this step.
 
-For the complete instructions, check [Hiding or removing the Live Shopping component](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/7e3bP6LjFgxXC210jSpl59).
+For the complete instructions, check [Hiding or removing the Live Shopping component](https://help.vtex.com/docs/tracks/hiding-or-removing-live-shopping-component).
