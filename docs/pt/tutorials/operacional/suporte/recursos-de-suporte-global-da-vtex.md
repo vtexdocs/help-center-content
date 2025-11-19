@@ -19,7 +19,7 @@ Este documento apresenta a disponibilidade, o SLA de atendimento e os recursos a
 
 ## Tempo de primeira resposta para todos os chamados
 
-O tempo médio de primeira resposta para todos os chamados é de **20 minutos**. O **Copilot AI** dá suporte à triagem e à elaboração da resposta inicial.
+O tempo médio de primeira resposta para todos os chamados é de 20 minutos. O **Copilot AI** dá suporte à triagem e à elaboração da resposta inicial.
 
 Para agilizar o atendimento, inclua na solicitação todas as informações relevantes — como contexto, impacto, evidências e registros. Solicitações completas permitem respostas mais precisas e efetivas.
 
