@@ -36,7 +36,7 @@ Para configurar soluciones de estudios externos sigue los pasos a continuación:
     * **Servidor:** ingresa el valor del servidor inbound.
     * **Clave del servidor:** Ingresa el valor de la clave del servidor.
 
-> ℹ️ Antes de hacer clic en **Go Live**, te recomendamos colocar una imagen de relleno antes de empezar a presentar para validar la transmisión. De esta manera, puedes realizar ajustes finales sin mostrar una pantalla negra al público.
+>❗ Cuando transmitas desde un estudio externo, no intentes duplicar la transmisión del evento vía Bundle u otro estudio. **Live Shopping** permite solo una transmisión por estudio, y la plataforma reconocerá únicamente el primer estudio que comience a transmitir el evento.
 
 ## Configurar una transmisión de calidad
 
