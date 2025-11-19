@@ -46,16 +46,12 @@ Para uma transmissão de alta qualidade, inclusive em dispositivos com conectivi
 
 ![live_shopping_stream_settings_quality_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/live_shopping_stream_settings_quality_EN.png)
 
+Para configurar a qualidade da transmissão do estúdio, no seu estúdio externo, defina os seguintes campos para estes valores:
+
 * **Output = IngestVideoBitrate:** 2.4 Mb/s
 * **Output = IngestAudioBitrate:** 150 kbps
 * **Video = IngestFramerate:** 30 fps
 * **Output = KeyframeInterval:** 2 seconds
-
-## Transmitir o evento por um estúdio externo
-
-Depois de [adicionar o componente do Live Shopping](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR) e usar a pré-visualização para garantir que tudo está funcionando corretamente, você pode começar a transmitir o evento. Como as etapas variam de acordo com cada estúdio, recomendamos consultar a documentação oficial do estúdio que estiver usando.
-
-> ❗ Ao usar estúdios externos, não tente duplicar a transmissão via Bundle. O Live Shopping permite apenas uma transmissão por estúdio, e a plataforma reconhecerá somente o primeiro estúdio que iniciar o evento.
 
 ## Após a transmissão ao vivo por um estúdio externo
 
