@@ -23,7 +23,7 @@ The average **first response time** for all tickets is **20 minutes**. **Copilot
 
 To speed up support, include all relevant information in your request  such as context, impact, evidence, and records. Complete requests allow for more accurate and effective responses.
 
-Urgent tickets are prioritized to address critical incidents. **Non-urgent requests** may vary in first response time but still benefit from the support of **Copilot AI** in the initial reply.
+Urgent tickets are prioritized to address critical incidents. Non-urgent requests may vary in first response time but still benefit from the support of **Copilot AI** in the initial reply.
 
 ### Non-urgent requests
 
