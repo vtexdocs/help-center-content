@@ -17,9 +17,9 @@ order: 7
 
 To use the VTEX Sales App, products from the physical store must be added to the Catalog of your VTEX account. It's there that we insert all products and define their characteristics.
 
-> ⚠️ Salespeople will only have access to products via VTEX Sales App once they are added to your store's catalog on VTEX.
+> ⚠️ Sales people will only have access to products via VTEX Sales App once they are added to your store's catalog.
 
-Among the information entered during the registration of a product in the Catalog, is the __EAN__. The EAN corresponds to the __barcode__ of the SKU. It's this code that allows the sales associate to easily add the product to the VTEX Sales App cart by reading the product's barcode. VTEX Sales App also allows the barcode to be entered in the search field.
+Among the information entered during the registration of a product in the Catalog, is the **EAN**, which corresponds to the barcode of the SKU. It's this code that allows the sales associate to easily add the product to the VTEX Sales App cart by reading the product's barcode. VTEX Sales App also allows the barcode to be entered in the search field.
 
 The VTEX Sales App catalog is typically inherited from the e-commerce catalog. This is how your VTEX Sales App will be configured after the [Basic Setup](/en/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc). In this scenario, the products will already be added. You only need to ensure that the bar codes are correctly entered in the EAN field of each SKU.
 
@@ -29,8 +29,8 @@ To add the SKU's EAN, follow the steps below:
 
 1. In the VTEX Admin, go to **Catalog** > **Products & SKUs**, or type **Products & SKUs** in the search bar at the top of the page.
 2. In the list of SKUs, click the name of the desired SKU.
-3. In the __EAN__ field, fill in the barcode value.
-4. Click __Save__.
+3. In the **EAN** field, fill in the barcode value.
+4. Click `Save`.
 
 Alternatively, the EAN field, as well as other SKU fields, can be filled out in bulk using a spreadsheet or your ERP. Check out the [Adding SKUs article](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) for detailed information.
 
