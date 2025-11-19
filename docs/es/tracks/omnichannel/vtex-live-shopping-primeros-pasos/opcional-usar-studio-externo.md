@@ -30,22 +30,17 @@ Además del estudio Bundle, puedes transmitir eventos de **Live Shopping** desde
 
 Para transmitir tu evento desde un estudio externo, sigue los pasos a continuación:
 
-1. [Crea](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) el evento en el Admin VTEX.
-2. En la página **Eventos**, haz clic en el botón de flecha del evento para acceder a la página de **Información del evento**.
-3. [Inicia](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) el evento.
-4. En la sección de [Detalles](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq#detalles-del-evento), copia la información del **Servidor inbound** y de la **Clave del servidor**.
-5. En la configuración de transmisión del estudio externo, llena los campos como se indica a continuación:
-    * **Servidor:** ingresa el valor del servidor inbound.
-    * **Clave del servidor:** Ingresa el valor de la clave del servidor.
+1. En el Admin VTEX, accede a **Apps > Live Shopping > Eventos**, o ingresa **Eventos** en la barra de búsqueda en la parte superior de la página.
+2. Haz clic en el botón de flecha del [evento que creaste](https://help.vtex.com/es/docs/tracks/crear-evento) para acceder a la página de configuración del evento.
+3. [Inicia](https://help.vtex.com/es/docs/tracks/iniciar-evento) el evento haciendo clic en el botón de alternancia <i class="fa-solid fa-toggle-on"></i> `Iniciar` en la parte superior derecha.
+4. Selecciona la pestaña `Transmisión`.
+5. En la página **Método de transmisión**, en la **Opción 2 - Transmisión push**, copia los valores de **URL del servidor** y los valores de **Clave del servidor**.
+6. Accede a la configuración de transmisión externa del estudio y pega los valores como se muestra a continuación:
 
-## Configurar una transmisión de calidad
+  * **Servidor:** ingresa la `URL del servidor` que copiaste.
+  * **Clave del servidor:** ingresa la `Clave del servidor` que copiaste.
 
-Una transmisión de alta calidad, incluyendo la transmisión a dispositivos con señal de internet limitada, requiere configurar los campos a continuación con valores específicos:
-
-* **Output > IngestVideoBitrate:** alrededor de 2.400.528 bits/2400.528 kbps/2.4 Mb/s
-* **Output > IngestAudioBitrate:** alrededor de 150.000 bits/150 kbps
-* **Video > IngestFramerate:** alrededor de 30 fps
-* **Output > KeyframeInterval:** alrededor de 2 segundos
+7. (Opcional) Haz clic en un botón de confirmación para guardar la configuración.
 
 ## Transmitir el evento desde un estudio externo
 
