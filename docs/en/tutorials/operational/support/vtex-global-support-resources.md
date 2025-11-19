@@ -19,7 +19,7 @@ This document presents the availability, service SLAs, and additional support re
 
 ## First response time for all tickets
 
-The average **first response time** for all tickets is **20 minutes**. **Copilot AI** assists with triaging and drafting the initial response.
+The average **first response time** for all tickets is 20 minutes. **Copilot AI** assists with triaging and drafting the initial response.
 
 To speed up support, include all relevant information in your request  such as context, impact, evidence, and records. Complete requests allow for more accurate and effective responses.
 
