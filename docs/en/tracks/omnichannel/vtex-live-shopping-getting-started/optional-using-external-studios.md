@@ -15,8 +15,6 @@ trackSlugEN: vtex-live-shopping-getting-started
 order: 9
 ---
 
-> ⚠️ This article only applies to accounts broadcasting events from studios different from Bundle.
-
 In addition to the Bundle studio, **Live Shopping** events can be transmitted from external studios with the same functionalities. Some examples are:
 
 * StreamYard

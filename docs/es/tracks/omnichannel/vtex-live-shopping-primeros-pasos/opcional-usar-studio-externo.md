@@ -15,8 +15,6 @@ trackSlugEN: vtex-live-shopping-primeros-pasos
 order: 9
 ---
 
-> ⚠️ Este artículo solo se aplica a cuentas que transmiten eventos desde estudios diferentes de Bundle.
-
 Además del estudio Bundle, puedes transmitir eventos de **Live Shopping** desde estudios externos con las mismas funcionalidades, tales como:
 
 * StreamYard
