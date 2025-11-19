@@ -15,8 +15,6 @@ trackSlugEN: vtex-live-shopping-primeiros-passos
 order: 9
 ---
 
-> ⚠️ Este artigo se aplica apenas a contas que transmitem eventos de estúdios que não sejam o Bundle.
-
 Além do Bundle, eventos de **Live Shopping** podem ser transmitidos por estúdios externos com as mesmas funcionalidades. Veja alguns exemplos:
 
 * StreamYard
