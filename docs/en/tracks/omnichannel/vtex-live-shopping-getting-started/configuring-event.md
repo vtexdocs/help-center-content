@@ -93,7 +93,7 @@ To offer a promotion during your **Live Shopping** event, follow the steps below
   * **Viewers:** Gather an audience of over 200 people.
   * **Orders:** Receive the first 100 orders.
 
-  >⚠️ Note that coupons become active immediately once the goal is met. Promotions activate five minutes after the goal is met.
+  >⚠️ Coupons become active immediately once the goal is met. Promotions activate five minutes after the goal is met.
 
 5. In the **Display message** field, enter the text to be shown to your audience about the goal to unlock the promotion or coupon. Limited to 20 characters. For example, `40% off`.
 6. Select an animation to display the promotion or coupon during the event.
