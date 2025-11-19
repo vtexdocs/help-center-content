@@ -41,7 +41,7 @@ En esta imagen podemos ver la documentación de la API de Weni:
 
 En esta imagen podemos ver cómo sería el cuerpo de la solicitud:
 
-> **Tip:** La carta Llamar Webhook permite el uso de variables, como @results, @contact y @fields. [Obtén más información sobre variables aquí.](/l/es/flujos/introducci-n-a-expresiones-y-variables)
+> **Tip:** La carta Llamar Webhook permite el uso de variables, como @results, @contact y @fields. [Obtén más información sobre variables aquí.](https://help.vtex.com/es/docs/tutorials/introduccion-a-expresiones-y-variables)
 
 ### ¿Cómo saber si la API puede integrarse nativamente?
 

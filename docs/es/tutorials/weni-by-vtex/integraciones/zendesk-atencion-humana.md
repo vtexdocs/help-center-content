@@ -100,7 +100,7 @@ Si todos los pasos se han seguido correctamente, en Aplicaciones > Otras Aplicac
 
 Ahora puedes utilizar la tarjeta Abrir un Ticket en tu flujo en la Plataforma Weni.
 
-Consulta: [Creación de campos personalizados.](https://docs.weni.ai/l/pt/configura-es/campos-de-cria-o-de-ticket-no-zendesk)
+Consulta: [Creación de campos personalizados.](https://help.vtex.com/es/docs/tutorials/agregando-campos-de-creacion-de-ticket-en-zendesk)
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_16.png)
 

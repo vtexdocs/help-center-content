@@ -17,7 +17,7 @@ subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 
 ### Primeiros Passos - Criando Seu Projeto
 
-Na etapa de [cadastro e login](https://docs.weni.ai/l/pt/conceitos-iniciais/introdu-o-conceitual-plataforma), você já criou sua primeira organização e projeto. Para criar uma nova organização, basta clicar em Adicionar Organização.
+Na etapa de [cadastro e login](https://help.vtex.com/docs/tutorials/primeiros-passos-cadastro-e-login), você já criou sua primeira organização e projeto. Para criar uma nova organização, basta clicar em Adicionar Organização.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/visão-geral-weni-by-vtex/criar-projeto_1.png)
 
@@ -59,7 +59,7 @@ Após seguir os passos para criação de organização e projeto você pode come
 
 As pessoas adicionadas a Org terão acesso a todos os projetos criados dentro dela.
 
-Para saber mais sobre o sistema de permissões,  [clique aqui](http://docs.weni.ai/l/pt/conceitos-iniciais/sistema-de-permiss-es).
+Para saber mais sobre o sistema de permissões,  [clique aqui](https://help.vtex.com/docs/tutorials/sistema-de-permissoes-weni).
 
 Adicione membros a sua organização clicando no menu dropdown e depois em Gerenciar membros, veja a imagem:
 
@@ -73,6 +73,6 @@ Os membros que forem adicionados receberão um e-mail de convite para entrar na 
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/visão-geral-weni-by-vtex/criar-projeto_8.png)
 
-Para saber mais sobre o sistema de permissões,  [clique aqui](http://docs.weni.ai/l/pt/conceitos-iniciais/sistema-de-permiss-es).
+Para saber mais sobre o sistema de permissões,  [clique aqui](https://help.vtex.com/docs/tutorials/sistema-de-permissoes-weni).
 
 Após criar sua organização, projeto e adicionar os membros da sua equipe você estará pronto para aproveitar ao máximo o potencial da Weni Plataforma.

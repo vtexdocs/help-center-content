@@ -47,7 +47,9 @@ Los modelos de autenticación son los más restrictivos. Para que un modelo sea 
 - Configurar un botón de contraseña desechable (copiar código o un solo toque).
 - Respetar las restricciones de contenido: no se permite el uso de **URLs**, medios o emojis en los parámetros ni en el contenido de los modelos de autenticación. Los parámetros tienen un límite máximo de 15 caracteres.
 
-Para saber más detalles sobre los modelos, incluidos ejemplos de cada uno, accede a la documentación oficial de [Meta](https://developers.facebook.com/docs/whatsapp/updates-to-pricing/new-template-guidelines/).##### **CONVERSACIONES INICIADAS POR EL USUARIO**
+Para saber más detalles sobre los modelos, incluidos ejemplos de cada uno, accede a la documentación oficial de [Meta](https://developers.facebook.com/docs/whatsapp/updates-to-pricing/new-template-guidelines/).
+
+##### **CONVERSACIONES INICIADAS POR EL USUARIO**
 
 Servicio: Son las conversaciones iniciadas por el usuario, que ayudan a los clientes a resolver dudas.
 

@@ -29,13 +29,9 @@ Para utilizar esse serviço, é necessário que você possua alguma plataforma p
 
 Com o programa instalado, você deve baixar essa [collection](https://files.helpdocs.io/fjqoxc429v/other/1752841354595/code-acti.json) e importar para dentro do seu Postman.
 
-## Guia de uso
-
-Para continuar neste módulo, você deve passar pela etapa anterior clicando no botão abaixo[Primeiros passos](/pt/code-action/primeiros-passos)
-
 #### Autenticação
 
-- Para que seja possível gerar esse token, você deverá fazer uma requisição para a API abaixo, passando seu **login**, **senha** utilizados na plataforma. **E caso possua autenticação de 2 fatores**, você deverá preencher no campo de totp o código de 2 fatores.
+Para que seja possível gerar esse token, você deverá fazer uma requisição para a API abaixo, passando seu **login** e **senha** utilizados na plataforma. Caso tenha autenticação de 2 fatores, você deverá preencher no campo de `totp` o código de 2 fatores.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_1.png)
 
@@ -65,13 +61,13 @@ Para criar um código, como mostra na imagem acima, você precisará de alguns p
 - **code_name**
   - Essa informação deverá ser preenchido com o nome da sua preferência, de acordo com que for mais legível e didático.
 
-Após possuir essas informações, será importante que você crie seu código seguindo o padrão que você poderá ver em [Padrão de código e exemplos](/pt/code-action/padrao-e-exemplos).
+Após possuir essas informações, será importante que você crie seu código seguindo o padrão que você poderá ver em [Padrão de código e exemplos](#padrão-de-código-e-exemplos).
 
 Logo em seguida, você poderá ir para o body, como segue na imagem abaixo e executar a requisição.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_5.png)
 
-Coloque seu código dentro da parte de **raw** e o formato deverá ser **Text**.Após realizar a requisição, você deverá receber um retorno similar a este:
+Coloque seu código dentro da parte de **raw** e o formato deverá ser **Text**. Após realizar a requisição, você deverá receber um retorno similar a este:
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_6.png)
 
@@ -83,7 +79,7 @@ Para realizar a execução do código, será necessário pegar o ID do código q
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_7.png)
 
-Não é necessário passar as credenciais na request acima.O seu código poderá receber requests de qualquer tipo, como: GET, POST, PUT, DELETE... Seu código deverá estar adaptado para receber a request esperada. Para dúvidas relacionadas a como pegar dados da Query ou Body, você poderá visitar [Padrão de código e exemplos](/pt/code-action/padr-o-de-c-digo-e-exemplos).
+Não é necessário passar as credenciais na request acima.O seu código poderá receber requests de qualquer tipo, como: GET, POST, PUT, DELETE... Seu código deverá estar adaptado para receber a request esperada. Para dúvidas relacionadas a como pegar dados da Query ou Body, você poderá visitar [Padrão de código e exemplos](#padrão-de-código-e-exemplos).
 
 ## Padrão de código e exemplos
 
@@ -206,13 +202,13 @@ print(custom_header) -> ""custom_header_value""
 - Para encerrar a execução do seu Code Action, será necessário chamar uma outra função que deverá ser: `engine.result.set(response, status_code=status_code, content_type=""json"")` seguida de um `return None`
   - O primeiro parâmetro que está com o valor **response,** será a resposta retornada pelo seu código quando o mesmo for requisitado.
   - O status_code, será responsável por você afirmar para o usuário qual o se seu código deu sucesso (Sendo um status_code 200, 201\...) ou se seu código deu erro (400, 403, 404\...)
-- Caso você precise que seu código exiba algum tipo de registro durante o processamento, você pode utilizar a expressão: `engine.log.debug(”valor a ser exibido”)` , para mais informações de como visualizar essas logs acesse [Logs e Debug](/pt/code-action/logs-e-debug).
+- Caso você precise que seu código exiba algum tipo de registro durante o processamento, você pode utilizar a expressão: `engine.log.debug(”valor a ser exibido”)` , para mais informações de como visualizar essas logs acesse [Logs e Debug](#logs-e-debug).
 
 ## Logs e Debug
 
 ### Logs de execução
 
-Durante o processo de execução de código, como mencionado em [Padrão de código e exemplos](/pt/code-action/padr-o-de-c-digo-e-exemplos), é possível que seja exibido logs de execução.
+Durante o processo de execução de código, como mencionado em [Padrão de código e exemplos](#padrão-de-código-e-exemplos), é possível que seja exibido logs de execução.
 
 Toda vez que o código é executado, é gerada uma execução de código. Para que você consiga visualizar essa execução, você poderá realizar a request abaixo passando o **ID** do seu código.
 
@@ -234,4 +230,4 @@ Você deverá fazer uma nova request para a API abaixo, passando o ID da execuç
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_10.png)
 
-Você poderá usar o parâmetro **page**, similar na request anterior.Nese retorno acima, você terá o **content** e ele conterá o valor retornado no engine.log.debug, conforme ensinado em [Padrão de código e exemplos](/pt/code-action/padr-o-de-c-digo-e-exemplos).
+Você poderá usar o parâmetro **page**, similar na request anterior.Nese retorno acima, você terá o **content** e ele conterá o valor retornado no engine.log.debug, conforme ensinado em [Padrão de código e exemplos](#padrão-de-código-e-exemplos).

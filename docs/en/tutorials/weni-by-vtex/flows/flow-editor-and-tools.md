@@ -38,7 +38,7 @@ If you want a more complete version of the simulator, just press the @ (5) butto
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/flow-editor-and-tools_4.png)
 
-Allowing you to be able to follow in real time the changes in the expressions that are involved with that flow execution. To learn more about expressions, read the [expressions](/l/en/flows-category/express-es) article
+Allowing you to be able to follow in real time the changes in the expressions that are involved with that flow execution. To learn more about expressions, read the [expressions](https://help.vtex.com/docs/tutorials/expressions-glossary) article.
 
 ### Edition Versions
 
@@ -76,7 +76,7 @@ In addition, we have a number of options in the settings menu, which we can easi
   3. **Edit:** Option to edit the initial settings of the flow, such as the name, triggers, and expiration of the flow (how long it will wait for a response).
   4. **Copy:** Option that creates an exact copy of the flow. This copied flow will appear in your flow list following the naming pattern ""Copy - Name of the copied flow.""
   5. **Delete:** Option to delete the selected flow. Be careful, as this operation cannot be undone.
-  6. **Export Definition:** Option that redirects you to the flow export page. For more information, visit the article on [flow export and import](/l/en/flows-category/import-and-export-flows).
+  6. **Export Definition:** Option that redirects you to the flow export page. For more information, visit the article on [flow export and import](https://help.vtex.com/docs/tutorials/import-and-export-flows).
   7. **Export Translation:** Option that allows you to export the language translation from the platform.
   8. **Import Translation:** Option that allows you to import the language translation into the platform.
 

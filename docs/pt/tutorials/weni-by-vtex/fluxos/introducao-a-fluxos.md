@@ -16,22 +16,23 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
 Um fluxo é um conjunto de passos organizados em formato de fluxograma. Esses passos são aplicados aos seus contatos quando eles entram no fluxo, ou seja, quando começam uma conversa.
-Nos fluxos, esses passos podem ser **a ções** ou **decis ões**, que permitem a criação e o desenrolar das conversas a partir disso. Neste artigo, falaremos um pouco mais sobre a anatomia e estrutura desses fluxos.
+
+Nos fluxos, esses passos podem ser **ações** ou **decisões**, que permitem a criação e o desenrolar das conversas a partir disso. Neste artigo, falaremos um pouco mais sobre a anatomia e estrutura desses fluxos.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/introducao-a-fluxos_1.png)
 
 ### Anatomia dos fluxos
-Na imagem acima, temos um exemplo de um fluxo para uma pesquisa simples. Nele, podemos ver **cartas de decis ão**, **cartas de a ção**, e **cartas para notas** que juntas formam a estrutura para a seguinte conversa: manda uma pergunta, que precisa ser respondida com sim ou não, e a partir disso teremos uma resposta para cada opção.
+Na imagem acima, temos um exemplo de um fluxo para uma pesquisa simples. Nele, podemos ver **cartas de decisão**, **cartas de ação**, e **cartas para notas** que juntas formam a estrutura para a seguinte conversa: manda uma pergunta, que precisa ser respondida com sim ou não, e a partir disso teremos uma resposta para cada opção.
+
 #### Cartas de ação
 As cartas de ação representam algumas operações/ações que conseguimos fazer em uma conversa. Alguns desses comandos são:
-  * Enviar uma mensagem para o contato;
-  * Marcar uma mensagem do contato;
-  * Gerir contatos em grupos;
-  * Começar outros fluxos;
-  * Editar informações do contato;
+  * Enviar uma mensagem para o contato.
+  * Marcar uma mensagem do contato.
+  * Gerir contatos em grupos.
+  * Começar outros fluxos.
+  * Editar informações do contato.
 
-Ou seja, as cartão de ação disparam comandos que são executados imediatamente, seguindo uma ordem de pilha.*
-_* O primeiro na ordem de cartas, sempre ser á o primeiro a ser executado._
+Ou seja, as cartão de ação disparam comandos que são executados imediatamente, seguindo uma ordem de pilha O primeiro na ordem de cartas, sempre ser á o primeiro a ser executado.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/introducao-a-fluxos_2.png)
 
@@ -43,7 +44,7 @@ Algumas formas de criar decisões são:
   * Alguma informação do contato;
   * Algum resultado criado no fluxo;
 
-Essas decisões são tomadas em cima de **regras de decis ão** existentes na carta, que podem ser:
+Essas decisões são tomadas em cima de **regras de decisão** existentes na carta, que podem ser:
   * Verificar existência de palavras específicas em uma resposta/valor;
   * Verificar existência de frases especificas em uma resposta/valor;
   * Verificar existência de números específicos ou regras numéricas em uma resposta/valor;
@@ -61,4 +62,4 @@ Para criar uma carta de nota, basta clicar duas vezes em um lugar vazio no fluxo
 ###  E agora?
 Agora que conhecemos melhor o conceito de fluxo e entendemos como ele é formado, podemos nos aprofundar em cada uma das cartas que existem, além de algumas outras configurações dentro do nosso editor.
 
-Caso queira se aprofundar mais, acesse nosso artigo sobre [criação de fluxos](https://docs.weni.ai/l/pt/fluxos/como-criar-um-fluxo).
+Caso queira se aprofundar mais, acesse nosso artigo sobre [criação de fluxos](https://help.vtex.com/pt/docs/tutorials/criacao-de-fluxos).

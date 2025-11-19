@@ -105,4 +105,4 @@ Ao clicar neste *card* aparecerá as opções de customização, siga as dicas e
 
 ##### **Para aproveitar ainda mais do canal, caso não o tenha feito, inicie o processo de verificação do seu negócio junto a Meta.**
 
-Para iniciar a verificação siga esse passo [link](https://docs.weni.ai/l/pt/m-dulo-integra-es/como-verificar-o-meu-neg-cio)
+Para iniciar a verificação siga esse passo [link](https://help.vtex.com/pt/docs/tutorials/whatsapp-bussiness-api-como-verificar-o-meu-negocio).

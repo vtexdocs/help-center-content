@@ -75,4 +75,4 @@ Uma etapa final é necessária na conta pública. Acesse o aplicativo do Viber n
 
 ##### Mais informações
 
-Gostaria de saber como se informar mais sobre o que é Webhook e como usar? para mais informações, saiba mais em [Criando contatos com Webhooks externos](https://docs.weni.ai/l/pt/estudio/webhooks-integrations) e [Call Webhook: Como fazer chamadas para sistemas externos](https://docs.weni.ai/l/pt/fluxos/webhook-como-fazer-chamadas-para-servidores-externos).
+Gostaria de saber como se informar mais sobre o que é Webhook e como usar? para mais informações, saiba mais em [Criando contatos com Webhooks externos](https://help.vtex.com/pt/docs/tutorials/criando-contatos-com-webhooks-externos) e [Call Webhook: Como fazer chamadas para sistemas externos](https://help.vtex.com/pt/docs/tutorials/call-webhook-como-fazer-chamadas-para-sistemas-externos).
