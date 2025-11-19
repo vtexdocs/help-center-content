@@ -48,16 +48,16 @@ For a high-quality stream, including on devices with limited connectivity, you m
 
 ![live_shopping_stream_settings_quality_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/live_shopping_stream_settings_quality_EN.png)
 
-To configure the studio quality transmission, go to the external studio and fill in set the quality transmission fields with the values shown below:
+To configure the studio transmission quality, in your external studio, set the following fields to these values:
 
 * **Output = IngestVideoBitrate:** 2.4 Mb/s
 * **Output = IngestAudioBitrate:** 150 kbps
 * **Video = IngestFramerate:** 30 fps
 * **Output = KeyframeInterval:** 2 seconds
 
-## Before the Go Live
+## Before the live stream
 
-Before you start transmitting the event, make sure everything works properly:
+Before you start the live event, make sure everything works properly:
 
 1. Check with the preview if you [placed the Live Shopping component](https://help.vtex.com/en/docs/tracks/placing-the-live-shopping-component) correctly.
 2. Check your [event configurations](https://help.vtex.com/en/docs/tracks/configuring-event).
