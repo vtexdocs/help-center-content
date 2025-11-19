@@ -27,7 +27,7 @@ Accede al estudio nativo de VTEX para transmitir tu evento siguiendo los pasos a
 2. Haz clic en el botón de flecha del [evento que creaste](https://help.vtex.com/es/docs/tracks/crear-evento) para acceder a la página de configuración del evento.
 3. [Inicia](https://help.vtex.com/es/docs/tracks/iniciar-evento) el evento haciendo clic en el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i> `Iniciar` en la parte superior derecha.
 4. Selecciona la pestaña `Transmisión`.
-5. En la página Método de transmisión, en la **Opción 1 - Web Studio**, haz clic en `Abrir Web Studio`. Serás redirigido a una nueva ventana en la página **Device settings** en Bundle. Restringido a administradores.
+5. En la página **Método de transmisión**, en la **Opción 1 - Web Studio**, haz clic en `Abrir Web Studio`. Serás redirigido a una nueva ventana en la página **Device settings** en Bundle. Restringido a administradores.
 6. (Opcional) Si deseas incluir invitados y anfitriones en tu evento, haz clic en `Copy invitation` y comparte el link. Por razones de seguridad, el acceso de invitados al estudio Bundle debe [aprobarlo un administrador](#aprobacion-de-invitados-en-el-estudio-por-un-administrador).
 
 ## Aprobación de invitados en el estudio por un administrador
