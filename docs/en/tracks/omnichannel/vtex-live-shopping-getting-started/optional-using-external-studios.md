@@ -42,7 +42,7 @@ To transmit your event from an external studio, follow the steps below:
 
 7. (Optional) Usually click a confirmation button to save settings.
 
-## Stream settings - quality transmission
+## Stream settings - Transmission quality
 
 For a high-quality transmission, including streaming to devices with limited internet signal, you have to configure the studio quality transmission settings. The recommended values can be found in the **Stream method** page, in **Stream settings** section, as in the image below:
 
