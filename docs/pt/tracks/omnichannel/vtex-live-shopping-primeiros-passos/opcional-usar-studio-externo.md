@@ -19,10 +19,10 @@ order: 9
 
 Além do Bundle, eventos de **Live Shopping** podem ser transmitidos por estúdios externos com as mesmas funcionalidades. Veja alguns exemplos:
 
-- StreamYard
-- OBS
-- Streamlabs
-- vMix
+* StreamYard
+* OBS
+* Streamlabs
+* vMix
 
 >❗ Ao transmitir de um estúdio externo, não tente duplicar a transmissão do evento pelo Bundle ou outro estúdio. O **Live Shopping** permite apenas uma transmissão por estúdio, e a plataforma reconhecerá somente o primeiro estúdio que iniciar o evento.
 
@@ -40,14 +40,16 @@ Além do Bundle, eventos de **Live Shopping** podem ser transmitidos por estúdi
 
 7. (Opcional) Normalmente, clique em um botão de confirmação para salvar as configurações.
 
-## Configurar uma transmissão de qualidade
+## Configurações da transmissão - Qualidade da transmissão
 
-Para realizar uma transmissão de alta qualidade, mesmo em dispositivos com sinal de internet limitado, você deve configurar os campos abaixo com os seguintes valores:
+Para uma transmissão de alta qualidade, inclusive em dispositivos com conectividade limitada, é necessário configurar a qualidade da transmissão no estúdio. Os valores recomendados estão disponíveis na página **Método de transmissão**, na seção **Configurações da transmissão**, conforme mostrado na imagem abaixo:
 
-- **Output > IngestVideoBitrate:** aproximadamente 2.400.528 bits / 2400.528 kbps / 2.4 Mb/s
-- **Output > IngestAudioBitrate:** aproximadamente 150.000 bits / 150 kbps
-- **Video > IngestFramerate:** aproximadamente 30 fps
-- **Output > KeyframeInterval:** aproximadamente 2 segundos
+![live_shopping_stream_settings_quality_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/live_shopping_stream_settings_quality_EN.png)
+
+* **Output = IngestVideoBitrate:** 2.4 Mb/s
+* **Output = IngestAudioBitrate:** 150 kbps
+* **Video = IngestFramerate:** 30 fps
+* **Output = KeyframeInterval:** 2 seconds
 
 ## Transmitir o evento por um estúdio externo
 
