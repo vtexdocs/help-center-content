@@ -34,7 +34,7 @@ To transmit your event from an external studio, follow the steps below:
 2. Click the arrow button of the [event you created](https://help.vtex.com/en/docs/tracks/creating-event) to access the event configuration page.
 3. [Turn on](https://help.vtex.com/en/docs/tracks/turning-on-event) the event, by clicking the toggle switch <i class="fa-solid fa-toggle-on"></i> Turn On at the top right.
 4. Select the `Stream` tab.
-5. In the **Stream method** page, in **Option 2 - Push stream**, copy the **Server URL** and the **Server Key** values.
+5. On the **Stream method** page, in **Option 2 - Push stream**, copy the **Server URL** and the **Server Key** values.
 6. Go to the external studio stream settings and paste the values as shown below:
 
   * **Server:** Enter the `Server URL` copied value.
