@@ -3,7 +3,7 @@ title: '(Optional) Using external studios'
 id: Dw0QdKI0aGjmyD5Z6z5JC
 status: PUBLISHED
 createdAt: 2025-07-23T18:10:11.675Z
-updatedAt: 2025-09-15T21:42:49.757Z
+updatedAt: 2025-11-19T21:42:49.757Z
 publishedAt: 2025-09-15T21:42:49.757Z
 firstPublishedAt: 2025-07-28T15:08:28.675Z
 contentType: trackArticle
