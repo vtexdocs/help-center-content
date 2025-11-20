@@ -23,9 +23,9 @@ The page displays the following information:
 
 | Column Fields | Description                                                                                                                                                              |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Name          | Name that identifies the sales associate, defined in the[Add sales associate](#adding-a-sales-associate) step.                                                              |
+| Name          | Name that identifies the sales associate, defined in the [Add sales associate](#adding-a-sales-associate) step.                                                              |
 | Code          | Identifier code of each sales associate. It must be the same used in the physical store system.                                                                          |
-| Store         | Identifier name of the[franchise account](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) in which the sales associate is registered. |
+| Store         | Identifier name of the [franchise account](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) in which the sales associate is registered. |
 | Email         | Sales associate access email.                                                                                                                                            |
 
 ## Adding sales associate
@@ -44,14 +44,14 @@ After the merchant has added the sales associate, they can create an access pass
 
 #### Identification
 
-* **Sales associate name:** sales associate name. Mandatory field.
-* **Sales associate code:** the code that identifies the sales associate. It must be the same used in the physical store system.
-* **Email:** sales associate's Sales App access email. Mandatory field.
+* **Sales associate name:** Sales associate name. Mandatory field.
+* **Sales associate code:** The code that identifies the sales associate. It must be the same used in the physical store system.
+* **Email:** Sales associate's Sales App access email. Mandatory field.
 * **Allow access to other sales associates' performances:** Checkbox that allows you to view other sales associates' sales performance (when checked) or only access information about your own sales performance (when unchecked).
 
 #### Physical store
 
-* **Store:** the [franchise account](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) in which the sales associate will be registered. Mandatory field.
+* **Store:** The [franchise account](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) in which the sales associate will be registered. Mandatory field.
 
 > ℹ️ Changes can take up to 15 minutes to be processed and applied to Sales App.
 
@@ -86,7 +86,7 @@ Once the sales associate is inactivated, they will no longer have access to the 
 
 To access the **Sales App**, the sales associate must follow the steps below:
 
->ℹ️ Sales associates donn't have access to the store's VTEX Admin, as the **Sales App** access is created in another environment.
+>ℹ️ Sales associates don't have access to the store's VTEX Admin, as the **Sales App** access is created in another environment.
 
 1. After the merchant [adds the sales associate](#adding-a-sales-associate), an email is sent to the associate’s registered email address.
 2. By clicking the link in the email, they can create their access.

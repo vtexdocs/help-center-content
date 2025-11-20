@@ -53,7 +53,7 @@ Após o cadastro feito pelo lojista, o vendedor poderá criar uma senha de acess
 
 * **Loja:** [conta franquia](/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) em que o vendedor será cadastrado. Campo obrigatório.
 
-> ℹ️ As alterações podem levar até 15 minutos para serem processadas e aplicadas no Sales App.
+> ℹ️ As alterações podem levar até 15 minutos para serem processadas e aplicadas no **Sales App**.
 
 ## Buscar vendedor
 
