@@ -15,13 +15,13 @@ trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 4
 ---
 
-O VTEX Sales App é um dos principais produtos da VTEX para operações de [Comércio Unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv). Ele é um aplicativo que permite à sua loja oferecer uma experiência omnichannel real, integrando seus canais online e físicos e colocando seus clientes no centro do negócio.
+O **VTEX Sales App** é um dos principais produtos da VTEX para operações de [Comércio Unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv). Ele é um aplicativo que permite à sua loja oferecer uma experiência omnichannel real, integrando seus canais online e físicos e colocando seus clientes no centro do negócio.
 
 > ℹ️ Verifique se a sua loja cumpre todos os [pré-requisitos para usar o VTEX Sales App](/pt/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u) antes de começar a utilizá-lo.
 
 Para utilizar o VTEX Sales App, você precisa seguir os passos descritos a seguir na sua conta principal.
 
-> ⚠️  Não é necessário instalar ou configurar o VTEX Sales App nas contas franquias que representam lojas físicas. Você deve realizar o procedimento descrito neste artigo apenas na conta principal da marca.
+> ⚠️  Não é necessário instalar ou configurar o **VTEX Sales App** nas contas franquias que representam lojas físicas. Você deve realizar o procedimento descrito neste artigo apenas na conta principal da marca.
 
 ## Instalar o VTEX Sales App
 
@@ -40,10 +40,10 @@ Para verificar o site `default`, acesse **Configurações da loja > Checkout** e
 
 ## Configurar o VTEX Sales App
 
-Após a instalação você vai realizar as configurações básicas do aplicativo VTEX Sales App, descritas abaixo.
+Após a instalação você vai realizar as configurações básicas do aplicativo **VTEX Sales App**, descritas abaixo.
 
 1. No Admin VTEX, acesse **Aplicativos > Hub de Extensões > Gerenciamento de Aplicativos**, ou digite **Gerenciamento de Aplicativos** na barra de busca no topo da página.
-2. Na aba `Instalados`, encontre o VTEX Sales App e clique em <i class="fa-solid fa-gear"></i> `Configurações`.
+2. Na aba `Instalados`, encontre o **VTEX Sales App** e clique em <i class="fa-solid fa-gear"></i> `Configurações`.
 3. Clique em `Avançado`.
 4. [Cadastre o endereço da loja](#cadastre-o-endereco-da-loja).
 5. [Registre o vendedor](#registre-o-vendedor).
@@ -51,7 +51,7 @@ Após a instalação você vai realizar as configurações básicas do aplicativ
 
 ### Cadastre o endereço da loja
 
-Na tela **Cadastro de loja**, informe o nome da primeira loja física onde o VTEX Sales App será utilizado e o endereço completo da loja. Quando tiver preenchido todos os campos, clique em `Continuar`.
+Na tela **Cadastro de loja**, informe o nome da primeira loja física onde o **VTEX Sales App** será utilizado e o endereço completo da loja. Quando tiver preenchido todos os campos, clique em `Continuar`.
 
 Posteriormente, você poderá [adicionar outras lojas](/pt/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN), se desejar.
 
@@ -70,19 +70,19 @@ O próximo passo é configurar os meios de pagamento que você vai aceitar no in
 Há duas opções disponíveis:
 
 * **Dinheiro:** ative esta opção se você quiser aceitar pagamentos em dinheiro.
-* **Social selling:** ative esta opção para que todos os meios de pagamento configurados no Checkout do seu ecommerce sejam válidos para o VTEX Sales App ao utilizar [o carrinho compartilhado (Social Selling)](/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy).
+* **Social selling:** ative esta opção para que todos os meios de pagamento configurados no Checkout do seu ecommerce sejam válidos para o **VTEX Sales App** ao utilizar [o carrinho compartilhado (Social Selling)](/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy).
 
 Após selecionar as opções desejadas, clique em `Continuar`.
 
 ## Configurar condições de pagamento
 
-Após fazer as configurações básicas descritas, você precisa configurar as condições de pagamento para o inStore no módulo de **Pagamentos**. Para isso, leia o guia [Configurar os métodos de pagamento para o VTEX Sales App](/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
+Após fazer as configurações básicas descritas, você precisa configurar as condições de pagamento no módulo de **Pagamentos**. Para isso, leia o guia [Configurar os métodos de pagamento para o VTEX Sales App](/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
 
 ## Vincular o catálogo de produtos a uma vitrine de loja
 
-Para que o catálogo da loja física seja refletido no VTEX Sales App, é necessário configurar o [binding](/pt/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W) no CMS (Layout - [CMS Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj)). Essa configuração vincula a [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) ao storefront correspondente, garantindo que os produtos sejam exibidos corretamente na vitrine.
+Para que o catálogo da loja física seja refletido no **VTEX Sales App**, é necessário configurar o [binding](/pt/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W) no CMS (Layout - [CMS Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj)). Essa configuração vincula a [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) ao storefront correspondente, garantindo que os produtos sejam exibidos corretamente na vitrine.
 
-Para configurar o binding e garantir que o catálogo da loja seja exibido no VTEX Sales App, siga os passos abaixo:
+Para configurar o binding e garantir que o catálogo da loja seja exibido no **VTEX Sales App**, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Storefront > Layout** ou digite **Layout** na barra de busca no topo da página.
 2. Clique em CMS e selecione **Sites and channels**.
@@ -91,8 +91,8 @@ Para configurar o binding e garantir que o catálogo da loja seja exibido no VTE
 5. Na seção **Available Sales Channels**, marque a política comercial que deseja vincular ao binding.
 6. Para salvar, clique em `Save Binding`.
 
-> ⚠️ Certifique-se de que a política comercial esteja corretamente configurada no seu Admin VTEX antes de vinculá-la ao binding. Essa configuração é essencial para garantir que o catálogo da loja seja exibido corretamente no VTEX Sales App.
+> ⚠️ Certifique-se de que a política comercial esteja corretamente configurada no seu Admin VTEX antes de vinculá-la ao binding. Essa configuração é essencial para garantir que o catálogo da loja seja exibido corretamente no **VTEX Sales App**.
 
 ## Configurar logística
 
-Para começar a utilizar o VTEX Sales App, você também precisa realizar as configurações de Logística de acordo com as estratégias que deseja implementar. Leia os guias sobre [Comércio Unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) e [Logística](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx) para mais informações.
+Para começar a utilizar o **VTEX Sales App**, você também precisa realizar as configurações de Logística de acordo com as estratégias que deseja implementar. Leia os guias sobre [Comércio Unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) e [Logística](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx) para mais informações.
