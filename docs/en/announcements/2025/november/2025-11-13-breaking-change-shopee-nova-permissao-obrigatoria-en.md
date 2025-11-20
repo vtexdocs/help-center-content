@@ -8,10 +8,10 @@ contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: 2025-11-13-breaking-change-shopee-new-mandatory-access-permission
-locale: pt
+locale: en
 legacySlug: 
 announcementImageID: 
 announcementSynopsisPT: 'Nova permissão obrigatória para acessar o app da Shopee na versão 3.x do conector.'
 ---
 
->📘 Contenido regional disponible solo para Brasil.
+>📘 Regional content available only for Brazil.
