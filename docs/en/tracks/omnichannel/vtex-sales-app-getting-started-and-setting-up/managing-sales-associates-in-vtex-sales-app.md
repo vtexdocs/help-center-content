@@ -29,7 +29,7 @@ The page displays the following information:
 | Store         | Identifier name of the[franchise account](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) in which the sales associate is registered. |
 | Email         | Sales associate access email.                                                                                                                                            |
 
-## Adding a sales associate
+## Adding sales associate
 
 You can add a sales associate by following the steps below:
 
