@@ -20,7 +20,7 @@ A categoria Vendedores representa uma seção dentro das Configurações da loja
 
 ![vendedores-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-primeiros-passos-e-configuracoes/gerenciar-vendedores-no-instore_1.png)
 
-A página apresenta as seguintes informações: 
+A página apresenta as seguintes informações:
 
   | Campos da coluna | Descrição                                                                                                                                                                            |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
