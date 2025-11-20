@@ -19137,21 +19137,6 @@
                 },
                 {
                   "name": {
-                    "en": "Add image to product description",
-                    "es": "Añadir imagen a la descripción del producto",
-                    "pt": "Adicionar imagem à descrição do produto"
-                  },
-                  "slug": {
-                    "en": "add-image-to-product-description",
-                    "es": "anadir-imagen-a-la-descripcion-del-producto",
-                    "pt": "adicionar-imagem-a-descricao-do-produto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Adding or editing products",
                     "es": "Agregar o editar productos",
                     "pt": "Adicionar ou editar produto"
