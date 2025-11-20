@@ -1,6 +1,6 @@
 {
   "id": "cdn-service",
   "name": "CDN Service",
-  "slug": "cdn-service",
+  "slug": "cdn-service-subcategory",
   "order": 1
 }

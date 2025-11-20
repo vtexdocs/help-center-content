@@ -3,7 +3,7 @@ title: 'Usar studio Bundle'
 id: 3GKzrP9nkyRwpUyyeYUaeX
 status: PUBLISHED
 createdAt: 2025-07-23T18:06:49.325Z
-updatedAt: 2025-11-10T23:15:39.786Z
+updatedAt: 2025-11-19T23:15:39.786Z
 publishedAt: 2025-11-03T23:15:39.786Z
 firstPublishedAt: 2025-07-28T15:08:19.382Z
 contentType: trackArticle
@@ -15,26 +15,20 @@ trackSlugEN: vtex-live-shopping-primeiros-passos
 order: 8
 ---
 
-> ℹ️ Se você preferir usar um estúdio diferente do Bundle, veja [Configurar estúdios de transmissão externos](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/Dw0QdKI0aGjmyD5Z6z5JC).
+> ℹ️ Se você preferir usar um estúdio diferente do Bundle, veja [Configurar estúdios de transmissão externos](https://help.vtex.com/pt/docs/tracks/opcional-usar-studio-externo).
 
 O estúdio de transmissão da VTEX é chamado de **Bundle**. Neste artigo, você aprenderá como configurar todas as definições necessárias em nossa solução de estúdio nativa.
 
-## Estúdio de streaming
+## Método de transmissão do Bundle
 
-Para acessar o estúdio no Admin VTEX e iniciar uma transmissão ao vivo, acesse a seção **Estúdio de streaming** na página **Informações do evento**:
+Para acessar o estúdio nativo da VTEX para transmitir seu evento, siga as etapas abaixo:
 
-![article_8_streaming_studio_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_1.png)
-
-> ℹ️ Para ativar os campos, o evento deve ser [iniciado](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) para ficar com o status `Ao vivo`.
-
-Esta seção tem as seguintes configurações:
-
-* **Copiar convite**: ao clicar neste botão, um link é gerado e copiado para que você possa enviá-lo a influenciadores ou hosts. Ao abrir o link e o [administrador permitir a entrada deles no estúdio](#aprovacao-do-administrador-para-a-entrada-de-convidados-no-estudio), os convidados poderão ligar ou desligar suas câmeras e microfones, bem como ver o chat dentro do estúdio. No entanto, eles não terão acesso a outras ações, conforme explicado na seção [My studio (Meu estúdio)](#my-studio-meu-estudio).
-* **Acessar:** redireciona para a página **Device settings** (Configurações do dispositivo) no estúdio Bundle, onde é possível gerenciar câmeras, fazer upload de recursos gráficos, iniciar/encerrar a transmissão, entre outras ações. Essa configuração é restrita a administradores do estúdio de transmissão.
-
-Os administradores que utilizam o botão `Acessar` são redirecionados para a página **Device settings** do Bundle, onde podem selecionar a câmera e o microfone que desejam usar e efetuar testes para garantir que tudo está funcionando corretamente.
-
-Com o link do convite, os hosts e convidados poderão entrar no estúdio depois que o acesso for aprovado por um administrador.
+1. No Admin VTEX, acesse **Aplicativos > Live Shopping > Eventos** ou digite **Eventos** na barra de busca no topo da página.
+2. Clique no ícone de seta do [evento que você criou](https://help.vtex.com/pt/docs/tracks/criar-evento) para abrir a página de configuração do evento.
+3. Inicie o evento clicando no botão de ativação <i class="fas fa-toggle-on" aria-hidden="true"></i> `Iniciar` no canto superior direito.
+4. Selecione a aba `Transmissão`.
+5. Na página **Método de transmissão**, na **Opção 1 - Web Studio**, clique em `Abrir Web Studio`. Você será redirecionado para uma nova janela na página **Device settings** no Bundle. Apenas os administradores podem acessar.
+6. (Opcional) Se você deseja ter convidados e hosts em seu evento, clique em `Copiar convite` e compartilhe o link com eles. Por motivos de segurança, o acesso dos convidados ao Bundle deve ser [aprovado por um administrador](#aprovacao-do-administrador-para-a-entrada-de-convidados-no-estudio).
 
 ## Aprovação do administrador para a entrada de convidados no estúdio
 
