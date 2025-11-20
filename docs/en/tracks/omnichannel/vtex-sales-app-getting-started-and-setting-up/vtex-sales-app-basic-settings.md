@@ -61,7 +61,7 @@ In this section, you need to define an email and a name to be used as the sales 
 
 > ⚠️ The email address entered can't already be in use in the VTEX Admin.
 
-In this step, you will only add one of your sales associates. After completing the basic settings, you can [add other sales associates](https://help.vtex.com/docs/tracks/managing-sales-associates-in-vtex-sales-app#adding-a-sales-associate).
+In this step, you will only add one of your sales associates. After completing the basic settings, you can [add other sales associates](https://help.vtex.com/docs/tracks/managing-sales-associates-in-vtex-sales-app#adding-sales-associate).
 
 ### Configuring payment methods
 
