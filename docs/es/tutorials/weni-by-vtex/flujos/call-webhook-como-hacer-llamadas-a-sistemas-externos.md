@@ -62,5 +62,5 @@ Esta expresión se usa para recuperar los valores devueltos de la última llamad
     * `@webhook.results.cliente`: Nombre del cliente devuelto por la API, en caso de que solo se devuelva un objeto.
     * `@webhook.results.0.cliente`: Nombre del cliente devuelto por la API. Si la respuesta está en un array, es necesario especificar la posición deseada en el array, como 0, 1, 2, y así sucesivamente.
 
-Para almacenar los valores en otras variables, puedes guardarlos como un [campo de contacto](/l/es/contactos-y-mensajes/campo-de-contactos) o [resultado del flujo](/l/es/flujos/glosario-de-variables)."
+Para almacenar los valores en otras variables, puedes guardarlos como un [campo de contacto](https://help.vtex.com/es/docs/tutorials/campo-de-contactos) o [resultado del flujo](https://help.vtex.com/es/docs/tutorials/glosario-de-variables)."
 

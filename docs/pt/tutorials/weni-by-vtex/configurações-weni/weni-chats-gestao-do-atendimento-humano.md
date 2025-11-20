@@ -45,7 +45,7 @@ O processo é o mesmo de adicionar usuários na Organização:
 
 4 - Aguarde a confirmação
 
-Se o usuário só fará atendimento humano, adicione somente ao projeto sem que precise adicionar a organização.[Para entender mais sobre permissões leia esse artigo](https://ilhasoft.helpdocs.io/l/pt/atendimento-humano/weni-chats-conhecendo-o-m-dulo-de-chat-demo).Após adicionar a permissão correta ao usuário, o módulo de chats ficará disponível e o mesmo já é um atendente. Agora é só o adicionar na fila em que vai atender.
+Se o usuário só fará atendimento humano, adicione somente ao projeto sem que precise adicionar a organização. Para entender mais sobre permissões, leia esse [artigo](https://help.vtex.com/pt/docs/tutorials/weni-chats-gestao-do-atendimento-humano). Após adicionar a permissão correta ao usuário, o módulo de chats ficará disponível e o mesmo já é um atendente. Agora é só o adicionar na fila em que vai atender.
 
 ### Como adicionar Setor de atendimento no Weni Chats
 

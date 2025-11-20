@@ -35,7 +35,7 @@ Agora você irá conseguir começar a configurar seu time de agentes, como está
 
 Selecione os agentes que fazem sentido de acordo com sua necessidade.
 
-Ao selecionar os agentes e clicar em **Pular** ou **Continuar**, será possível visualizar a tela abaixo, que deverá ser a configuração do Manager da sua equipe de agentes, caso tenha dúvidas de como preencher acesse a documentação [Perfil do Orquestrador](/l/pt/agent-builder-2/perfil-do-orquestrador) que explica um pouco mais sobre essa etapa.
+Ao selecionar os agentes e clicar em **Pular** ou **Continuar**, será possível visualizar a tela abaixo, que deverá ser a configuração do Manager da sua equipe de agentes. Caso tenha dúvidas de como preencher, acesse a seção **Supervisor** em [Visão geral Weni by VTEX](https://help.vtex.com/pt/docs/tutorials/visao-geral-agent-builder#supervisor).
 
 ![Imagem da tela de configuração do Manager](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/weni-agentic-ai/primeiros-passos-e-configuracao-com-o-app_4.png)
 

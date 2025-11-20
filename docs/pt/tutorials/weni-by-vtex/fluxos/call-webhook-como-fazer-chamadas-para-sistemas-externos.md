@@ -60,4 +60,4 @@ Essa expressão é usada para resgatar valores retornados da última chamada web
   * `@webhook.results.cliente:`Nome do cliente retornado da API, caso retorne somente 1 objeto
   * `@webhook.results.0.cliente:`Nome do cliente retornado da API. Caso retorne em array é necessário dizer a posição do array que deseja na expressão, usando 0, 1, 2 e assim por diante.
 
-Para armazenar os valores em outras variáveis você pode salvar como [campo de contato](/l/pt/contatos/campos-de-contato) ou [resultado do fluxo](/l/pt/fluxos/gloss-rio-de-vari-veis).
+Para armazenar os valores em outras variáveis você pode salvar como [campo de contato](https://help.vtex.com/pt/docs/tutorials/campos-de-contato) ou [resultado do fluxo](https://help.vtex.com/pt/docs/tutorials/glossario-de-variaveis).

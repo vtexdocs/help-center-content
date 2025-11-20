@@ -41,7 +41,7 @@ In this image we can see the documentation of Weni's API:
 
 In this image, we can see what the request body would look like to create a contact with a name and WhatsApp number.
 
-> **Tip:** The Call Webhook card allows the use of variables, such as @results, @contact, and @fields. [Learn more about variables here.](/l/en/flows-category/expressions-and-variables-introduction)
+> **Tip:** The Call Webhook card allows the use of variables, such as @results, @contact, and @fields. [Learn more about variables here.](https://help.vtex.com/docs/tutorials/expressions-and-variables-introduction)
 
 ### How to know if the API can be integrated natively?
 

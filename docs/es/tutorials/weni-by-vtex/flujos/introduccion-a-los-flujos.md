@@ -23,6 +23,7 @@ En los flujos, esos pasos pueden ser acciones o decisiones, que permiten la crea
 
 ### Anatomía de los flujos
 En la imagen de encima, tenemos un ejemplo de un flujo para una búsqueda simple. En el, podemos ver cartas cartas de decisión, cartas de acción y cartas de comentario que juntas forman la estructura para la siguiente conversación: manda una pregunta, que precisa ser respondida con sí o con no, y a partir de eso tendremos una respuesta para cada opción.
+
 #### Cartas de acción
 Las cartas de acción representan algunas operaciones/acciones que conseguimos hacer dentro de una conversación. Algunos de esos comandos son:
   * Enviar un mensaje para el contacto;
@@ -31,8 +32,7 @@ Las cartas de acción representan algunas operaciones/acciones que conseguimos h
   * Comenzar otros flujos;
   * Editar información de contacto;
 
-Osea, las cartas de acción disparan comandos que son ejecutados inmediatamente, siguiendo un orden de pila*
-_* El primero en el orden de las cartas, siempre ser á el primero a ser ejecutado_
+Osea, las cartas de acción disparan comandos que son ejecutados inmediatamente, siguiendo un orden de pila. El primero en el orden de las cartas, siempre ser á el primero a ser ejecutado.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/introduccion-a-los-flujos_2.png)
 
@@ -59,4 +59,4 @@ Para crear una carta de comentario, basta con clickear dos veces en un lugar vac
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/introduccion-a-los-flujos_4.png)
 
 ###  Y ahora?
-Ahora que conocemos mejor el concepto de flujo y entendemos cómo esta formado, podemos profundizar en cada una de las cartas que existen, además de algunas otras configuraciones dentro de nuestra edición."
+Ahora que conocemos mejor el concepto de flujo y entendemos cómo esta formado, podemos profundizar en cada una de las cartas que existen, además de algunas otras configuraciones dentro de nuestra edición.

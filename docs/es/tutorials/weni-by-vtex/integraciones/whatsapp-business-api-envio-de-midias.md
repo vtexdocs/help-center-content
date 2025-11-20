@@ -19,7 +19,7 @@ A continuación, encontrarás los límites soportados en WhatsApp Cloud para cad
 
 #### **Tipos de medios soportados**
 
-| **Tipo de m****ídia** | **Extensão** | **Tipos de mídia compatíveis (MIME Type)** | **Tamanho** |
+| **Tipo de mídia** | **Extensão** | **Tipos de mídia compatíveis (MIME Type)** | **Tamanho** |
 | --- | --- | --- | --- |
 | audio | .aac.amr.mp3.m4a.ogg | audio/aacaudio/amraudio/mpegaudio/mp4audio/ogg (OPUS codecs only; base audio/ogg not supported.) | 16 MB |
 | document | .txt.xls.xlsx.doc.docx.ppt.pptx.pdf | text/plainapplication/vnd.ms-excelapplication/vnd.openxmlformats-officedocument.spreadsheetml.sheetapplication/mswordapplication/vnd.openxmlformats-officedocument.wordprocessingml.documentapplication/vnd.ms-powerpointapplication/vnd.openxmlformats-officedocument.presentationml.presentationapplication/pdf | 100 MB |

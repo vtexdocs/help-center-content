@@ -53,7 +53,7 @@ fluxos.
 
 Para enviar modelos de mensagens é necessário que os mesmos já tenham sido
 cadastrados e aprovados pelo Whatsapp, veja [este
-artigo](https://docs.weni.ai/l/pt/m-dulo-integra-es/mensagens-modelos-template-messages) caso
+artigo](https://help.vtex.com/pt/docs/tutorials/whatsapp-como-criar-template-messages) caso
 haja dúvidas.
 
 Acesse seu projeto, em seguida o módulo de **Fluxos**:

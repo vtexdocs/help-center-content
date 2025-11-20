@@ -45,7 +45,7 @@ __Acquirer:__  a company that specializes in processing payments. It is responsi
 
 ### A business partnership agreement for financial services
 
-For implementing, publishing, and updating a payment connector on VTEX, you need to sign a partnership agreement for financial services that covers the particularities of this domain and the regulations within the platform. If you do not have a partnership agreement yet but want to become a payment provider, please contact our team through the[website](https://vtex.com/us-en/partners).
+For implementing, publishing, and updating a payment connector on VTEX, you need to sign a partnership agreement for financial services that covers the particularities of this domain and the regulations within the platform. If you do not have a partnership agreement yet but want to become a payment provider, please contact our team through the [website](https://vtex.com/us-en/partners).
 
 ### Access to a VTEX environment
 
@@ -87,7 +87,7 @@ Before setting up the VTEX environment, the provider must implement the back-end
 In some cases, connectors can be built for a specific solution. The references below will help you identify such cases:
 
 - [Payment Provider Framework (PPF)](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework): Solution for implementing connectors through VTEX IO from a boilerplate, which already comes with most of the work done, including the protocol endpoints. VTEX IO also speeds up the development process and in-store testing.
-- [Payment Provider Protocol POS payments](https://developers.vtex.com/docs/guides/payments-integration-ppp-applied-to-pos): PPP application for payments in physical stores using a payment terminal (POS), which can be used with credit and debit cards. The payment flow starts with a purchase made on [inStore](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc), then communication is established with the POS, where the customer inserts the card.
+- [Payment Provider Protocol for Point of Sale (POS) - VTEX Sales App](https://developers.vtex.com/docs/guides/payments-integration-ppp-applied-to-pos): PPP application for payments in physical stores using a payment terminal (POS), which can be used with credit and debit cards. The payment flow starts with a purchase made on [VTEX Sales App](https://help.vtex.com/docs/tracks/vtex-sales-app-getting-started-and-setting-up), then communication is established with the POS, where the customer inserts the card.
 
 ### 3. Payment Provider Homologation 
 

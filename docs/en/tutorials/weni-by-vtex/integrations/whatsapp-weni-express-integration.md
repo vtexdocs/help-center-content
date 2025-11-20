@@ -105,4 +105,4 @@ Clicking on this card will appear the customization options, follow the tips and
 
 To take even more advantage of the channel, if you have not done so, start the process of verifying your business with Meta.
 
-To start the verification follow this [link](https://ilhasoft.helpdocs.io/l/en/channels/how-to-verify-my-business) step
+To start the verification follow this [link](https://help.vtex.com/docs/tutorials/whatsapp-bussiness-api-how-to-verify-my-business) step.

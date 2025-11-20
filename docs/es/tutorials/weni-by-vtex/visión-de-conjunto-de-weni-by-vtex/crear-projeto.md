@@ -17,7 +17,7 @@ subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 
 ### Primeros Pasos - Creando Su Proyecto
 
-En la etapa de [registro e inicio de sesión](https://docs.weni.ai/l/pt/conceitos-iniciais/introdu-o-conceitual-plataforma), ya ha creado su primera organización y proyecto. Para crear una nueva organización, simplemente haga clic en **Añadir Organización**.
+En la etapa de [registro e inicio de sesión](https://help.vtex.com/es/docs/tutorials/primeros-pasos-registro-y-login), ya ha creado su primera organización y proyecto. Para crear una nueva organización, simplemente haga clic en **Añadir Organización**.
 
 ![Image](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visión-de-conjunto-de-weni-by-vtex/crear-projeto_1.png)
 
@@ -53,7 +53,7 @@ Después de seguir los pasos para la creación de la organización y el proyecto
 
 > **Nota**: *Las personas añadidas a la organización tendrán acceso a todos los proyectos creados dentro de ella.*
 
-> **Nota**: *Para obtener más información sobre el sistema de permisos, [haga clic aquí](http://docs.weni.ai/l/pt/conceitos-iniciais/sistema-de-permiss-es).*
+> **Nota**: *Para obtener más información sobre el sistema de permisos, [haga clic aquí](https://help.vtex.com/es/docs/tutorials/sistema-de-permisos-weni).*
 
 Agregue miembros a su organización haciendo clic en el menú desplegable y luego en Gestionar miembros, vea la imagen:
 
@@ -67,6 +67,6 @@ Los miembros que sean añadidos recibirán un correo electrónico de invitación
 
 ![Image](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visión-de-conjunto-de-weni-by-vtex/crear-projeto_8.png)
 
-> **Nota**: *Para obtener más información sobre el sistema de permisos, [haga clic aquí](http://docs.weni.ai/l/pt/conceitos-iniciais/sistema-de-permiss-es).*
+> **Nota**: *Para obtener más información sobre el sistema de permisos, [haga clic aquí](https://help.vtex.com/es/docs/tutorials/sistema-de-permisos-weni).*
 
 Después de crear su organización, proyecto y agregar a los miembros de su equipo, estará listo para aprovechar al máximo el potencial de la Plataforma Weni.

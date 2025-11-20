@@ -15,7 +15,7 @@ locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-After understanding a little more about what Action Cards are in our [Introduction to flow](https://docs.weni.ai/l/en/flows-category/introdu-o-a-fluxos), we will now move on to what cards exists and what we can do with each one.
+After understanding a little more about what Action Cards are in our [Introduction to flow](https://help.vtex.com/en/docs/tutorials/flows-introduction), we will now move on to what cards exists and what we can do with each one.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/action-cards_1.gif)
 
@@ -49,7 +49,7 @@ Sending mass messages via a Facebook channel requires specifying a topic if the 
 
   1. **WhatsApp**
 
-Sending messages via a WhatsApp channel requires using a template if you have not received a message from a contact in the last 24 hours. Configuring a template for use on WhatsApp is especially important for the first message in your flow. Read the article about [conversations started by a business on WhatsApp](https://docs.weni.ai/l/pt/whatsapp-business-api/disparo-ativo-no-whats-app).
+Sending messages via a WhatsApp channel requires using a template if you have not received a message from a contact in the last 24 hours. Configuring a template for use on WhatsApp is especially important for the first message in your flow. Read the article about [conversations started by a business on WhatsApp](https://help.vtex.com/en/docs/tutorials/active-message-dispatch-on-whatsapp).
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/action-cards_4.png)
 
@@ -87,7 +87,7 @@ With this, you or a group of people of your choice, can receive notifications fr
 
 ### Label the incoming message
 
-You can mark the last message sent by the contact with a Label. All labeled messages go to a message group with the same name as the label. You can learn more about messages and labels in the [message article](/l/en/messages/contact-s-messages).
+You can mark the last message sent by the contact with a Label. All labeled messages go to a message group with the same name as the label. You can learn more about messages and labels in the [messages article](https://help.vtex.com/docs/tutorials/contacts-messages).
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/action-cards_9.png)
 
@@ -111,7 +111,7 @@ Did the contact complete a satisfaction survey? You can group it with everyone w
 
 #### Remove the contact from a group
 
-You can remove the contact from some [static group](/l/en/groups/static-and-dynamic-groups). In addition, you have the option to mark to remove the contact from all groups that he is part of, without distinction. To understand a little more about groups, visit the contact article
+You can remove the contact from some [static group](https://help.vtex.com/docs/tutorials/static-groups). In addition, you have the option to mark to remove the contact from all groups that he is part of, without distinction. To understand a little more about groups, visit the contact article
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/action-cards_12.png)
 
@@ -127,7 +127,7 @@ Did you ask the age of your contact? You can save the value for later reference.
 
 #### Send an email
 
-Here you can send an email to someone. This email can be sent either to the contact running the flow or to anyone else. Keep in mind that email is not a conversation channel on the Weni Platform, meaning that if someone replies to the sent email, it will go to the inbox of the email configured in the organization. To learn more, visit the [project settings](/l/en/generalsettings/general-organization-s-settings) article.
+Here you can send an email to someone. This email can be sent either to the contact running the flow or to anyone else. Keep in mind that email is not a conversation channel on the Weni Platform, meaning that if someone replies to the sent email, it will go to the inbox of the email configured in the organization. To learn more, visit the [project settings](https://help.vtex.com/docs/tutorials/general-project-settings) article.
 
 To send the email, simply fill in the recipient, subject, and message body in the corresponding fields.
 
@@ -186,12 +186,12 @@ Using this card does not replace the use of templates (pre-approved messages by 
 
 #### **Open a ticket with a human agent**
 
-This card is used to open support tickets for human assistance. To direct the inquiries to the Chats module, you need to select the department (1) and the queue (2). Learn more about [Setting Up Human Attendance](/l/en/human-attendance/weni-chats-setting-up-human-attendance).
+This card is used to open support tickets for human assistance. To direct the inquiries to the Chats module, you need to select the department (1) and the queue (2). Learn more about [Setting Up Human Attendance](https://help.vtex.com/docs/tutorials/weni-chats-setting-up-human-attendance).
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/action-cards_20.png)
 
 #### **Call** **a webhook**
 
-This card allows you to make API requests, storing the response in a variable that can be used within the flow. This makes it easier to connect with other external systems. Learn [how to make calls to external services](/l/en/flows-category/webhook-how-to-make-calls-to-external-servers).
+This card allows you to make API requests, storing the response in a variable that can be used within the flow. This makes it easier to connect with other external systems. Learn [how to make calls to external services](https://help.vtex.com/docs/tutorials/call-webhook-making-requests-to-external-services).
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/action-cards_21.png)
