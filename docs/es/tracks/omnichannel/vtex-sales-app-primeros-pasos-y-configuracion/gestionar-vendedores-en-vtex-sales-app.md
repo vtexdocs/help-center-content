@@ -21,12 +21,12 @@ La categoría **Vendedores** representa una sección dentro del módulo **Config
 
 La página contiene la siguiente información:
 
-| Columna | Descripción                                                                                                                                                              |
-| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Nombre  | Nombre que identifica el vendedor, definido en la etapa [Registrar vendedor](#registrar-vendedor).                                                                                    |
-| Código | Código identificador de cada vendedor, el mismo registrado en el sistema de la tienda física.                                                                           |
-| Tienda  | Nombre identificador de la [cuenta franquicia](/es/tutorial/que-es-una-cuenta-franquicia--kWQC6RkFSCUFGgY5gSjdl) en la que el vendedor está registrado. |
-| Email   | Email de acceso de cada vendedor.                                                                                                                                         |
+| Columna | Descripción |
+| --- | --- |
+| Nombre | Nombre que identifica el vendedor, definido en la etapa [Registrar vendedor](#registrar-vendedor). |
+| Código | Código identificador de cada vendedor, el mismo registrado en el sistema de la tienda física. |
+| Tienda | Nombre identificador de la [cuenta franquicia](/es/tutorial/que-es-una-cuenta-franquicia--kWQC6RkFSCUFGgY5gSjdl) en la que el vendedor está registrado. |
+| Email | Email de acceso de cada vendedor. |
 
 ## Registrar vendedor
 
