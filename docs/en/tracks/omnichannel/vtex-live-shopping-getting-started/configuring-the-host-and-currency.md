@@ -13,9 +13,7 @@ trackSlugEN: vtex-live-shopping-getting-started
 order: 8
 ---
 
-Once the event is configured, you have to set up your host and currency.
-
-In the **Live Shopping** context, the host corresponds to the storefront home URL, and is used internally by the platform. On the other hand, the currency configuration determines how the price is displayed in the event.
+Once the event is configured, you have to set up your host and currency. In the **Live Shopping** context, the host corresponds to the storefront home URL, used internally by the platform, and the currency determines how the price is displayed in the event.
 
 ## Setting up the host and currency
 
