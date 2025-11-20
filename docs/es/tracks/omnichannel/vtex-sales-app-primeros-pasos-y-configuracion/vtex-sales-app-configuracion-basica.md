@@ -65,24 +65,24 @@ En esta etapa, debes registrar solo a uno de tus vendedores. Después de realiza
 
 ### Configurar los medios de pago
 
-El siguiente paso es configurar los medios de pago que aceptarás en VTEX Sales App. Activa las opciones deseadas utilizando el botón <i class="fas fa-toggle-on"></i>.
+El siguiente paso es configurar los medios de pago que aceptarás en **VTEX Sales App**. Activa las opciones deseadas utilizando el botón <i class="fas fa-toggle-on"></i>.
 
 Hay dos opciones:
 
 * **Efectivo**: activa esta opción si deseas aceptar pagos en efectivo.
-* **Social selling:** activa esta opción para que todos los medios de pago configurados en el checkout de tu tienda online sean válidos en VTEX Sales App al utilizar el [carrito compartido (Social Selling)](/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy).
+* **Social selling:** activa esta opción para que todos los medios de pago configurados en el checkout de tu tienda online sean válidos en **VTEX Sales App** al utilizar el [carrito compartido (Social Selling)](/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy).
 
 Después de seleccionar las opciones deseadas, haz clic en `Continuar`.
 
 ## Configurar condiciones de pago
 
-Después de realizar la configuración básica descrita en los pasos anteriores, debes configurar las condiciones de pago para VTEX Sales App en el módulo de **Pagos**. Para configurarlas, consulta la guía [Configuración de métodos de pago VTEX Sales App](/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
+Después de realizar la configuración básica descrita en los pasos anteriores, debes configurar las condiciones de pago para **VTEX Sales App** en el módulo de **Pagos**. Para configurarlas, consulta la guía [Configuración de métodos de pago VTEX Sales App](/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
 
 ## Vincular el catálogo de productos a una vitrina de tienda
 
-Para que el catálogo de la tienda física se refleje en VTEX Sales App, debes configurar el [binding](/es/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W) en el CMS (Layout - [CMS Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj)). Esta configuración vincula la [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) al storefront correspondiente, garantizando que los productos se muestren correctamente en la vitrina.
+Para que el catálogo de la tienda física se refleje en **VTEX Sales App**, debes configurar el [binding](/es/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W) en el CMS (Layout - [CMS Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj)). Esta configuración vincula la [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) al storefront correspondiente, garantizando que los productos se muestren correctamente en la vitrina.
 
-Para configurar el binding y garantizar que el catálogo de la tienda se muestre en VTEX Sales App, sigue los pasos a continuación:
+Para configurar el binding y garantizar que el catálogo de la tienda se muestre en **VTEX Sales App**, sigue los pasos a continuación:
 
 1. En el Admin VTEX accede a **Storefront > Layout** o escribe **Layout** en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en CMS y **Sites and channels**.
@@ -95,4 +95,4 @@ Para configurar el binding y garantizar que el catálogo de la tienda se muestre
 
 ## Configurar logística
 
-Para empezar a utilizar VTEX Sales App, también debes realizar las configuraciones de __Logística__ según las estrategias que quieres aplicar. Para más información, lee las guías sobre [Comercio unificado](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) y [Logística](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx).
+Para empezar a utilizar **VTEX Sales App**, también debes realizar las configuraciones logísticas según las estrategias que quieres aplicar. Para más información, lee las guías sobre [Comercio unificado](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) y [Logística](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx).
