@@ -19,7 +19,7 @@ Para usar o **VTEX Sales App,** os produtos da loja física devem estar cadastra
 
 >⚠️ Os vendedores somente terão acesso aos produtos via **VTEX Sales App** quando os produtos estiverem cadastrados no catálogo da sua loja.
 
-Entre as informações inseridas no cadastro de um produto no Catálogo, está o **EAN**, que corresponde ao código de barras do SKU. Ele permite que o vendedor adicione facilmente o produto ao carrinho no **VTEX Sales App**, bastando passar o código de barras do produto na máquina leitora. O **VTEX Sales App** também permite que o código de barras seja digitado no campo de busca.
+Entre as informações inseridas no cadastro de um produto no Catálogo, está o **EAN,** que corresponde ao código de barras do SKU. Ele permite que o vendedor adicione facilmente o produto ao carrinho no **VTEX Sales App,** bastando passar o código de barras do produto na máquina leitora. O **VTEX Sales App** também permite que o código de barras seja digitado no campo de busca.
 
 Por padrão, o catálogo do **VTEX Sales App** é herdado do catálogo do ecommerce. É assim que o app estará configurado após o [Setup Básico](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-configuracoes-basicas). Neste cenário, os produtos já estarão cadastrados. Você precisará apenas garantir que os códigos de barra estejam corretamente cadastrados no campo **EAN** de cada SKU.
 
