@@ -53,7 +53,7 @@ After the merchant has added the sales associate, they can create an access pass
 
 * **Store:** The [franchise account](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) in which the sales associate will be registered. Mandatory field.
 
-> ℹ️ Changes can take up to 15 minutes to be processed and applied to Sales App.
+> ℹ️ Changes can take up to 15 minutes to be processed and applied to **Sales App**.
 
 ## Searching for a sales associate
 
@@ -67,7 +67,7 @@ Click the `Store` filter to filter sales associates by the name of a specific ph
 
 You may need to change a sales associate's store to a new one, so you need to edit their information. You can edit a sales associate by following the steps below:
 
-1. In the row of the sales associate you want to edit, click <i class="fas fa-ellipsis-v"></i>.
+1. In the row of the sales associate you want to edit, click the menu icon <i class="fas fa-ellipsis-v"></i>.
 2. Click <i class="fas fa-pencil-alt"></i> `Edit`.
 3. Change the information you want.
 4. Click `Save`.

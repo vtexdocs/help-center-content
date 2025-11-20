@@ -67,7 +67,7 @@ Clique no filtro `Loja` para filtrar os vendedores pelo nome de uma loja física
 
 É possível que seja necessário alterar a loja de um vendedor para uma nova loja, para isso é preciso editar seu cadastro. Você pode editar um vendedor seguindo os passos a seguir:
 
-1. Na linha do vendedor que deseja editar, clique em <i class="fas fa-ellipsis-v"></i>.
+1. Na linha do vendedor que deseja editar, clique no menu <i class="fas fa-ellipsis-v"></i>.
 2. Clique em <i class="fas fa-pencil-alt"></i> `Editar`.
 3. Altere as informações que desejar.
 4. Clique em `Salvar` para finalizar.
