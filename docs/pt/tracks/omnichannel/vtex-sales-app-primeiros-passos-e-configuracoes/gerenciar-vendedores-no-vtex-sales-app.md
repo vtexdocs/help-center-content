@@ -17,7 +17,7 @@ order: 6
 
 Após realizar as [configurações básicas do VTEX Sales App no Admin](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), é possível adicionar novos vendedores ao sistema ou gerenciar os vendedores já cadastrados.
 
-A categoria Vendedores representa uma seção dentro das Configurações da loja do Admin VTEX, exibindo a lista completa dos vendedores registrados no aplicativo **VTEX Sales App** da loja. Dentro dessa página, é possível administrar as informações dos vendedores em todas as [contas franquias](/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) da sua loja, realizando operações de [cadastrar](#cadastrar-vendedor), [buscar](#buscar-vendedor), [filtrar](#filtrar-vendedores), [editar](#editar-vendedor) e [excluir](#excluir-vendedor)].
+A categoria Vendedores representa uma seção dentro das Configurações da loja do Admin VTEX, exibindo a lista completa dos vendedores registrados no aplicativo **VTEX Sales App** da loja. Dentro dessa página, é possível administrar as informações dos vendedores em todas as [contas franquias](/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) da sua loja, realizando operações de [cadastrar](#cadastrar-vendedor), [buscar](#buscar-vendedor), [filtrar](#filtrar-vendedores), [editar](#editar-vendedor) e [excluir](#excluir-vendedor).
 
 ![vendedores-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-primeiros-passos-e-configuracoes/gerenciar-vendedores-no-instore_1.png)
 
