@@ -12,3 +12,5 @@ locale: en
 trackSlugEN: vtex-live-shopping-getting-started
 order: 8
 ---
+
+After configuring the event, important to configure the host and currency. In the VTEX Admin, go to **Apps > Live Shopping > Settings**, or type **Settings / Live Shopping** in the search bar at the top of the page.
