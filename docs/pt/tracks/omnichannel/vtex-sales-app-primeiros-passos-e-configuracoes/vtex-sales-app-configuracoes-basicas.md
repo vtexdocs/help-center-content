@@ -17,9 +17,9 @@ order: 4
 
 O **VTEX Sales App** é um dos principais produtos da VTEX para operações de [Comércio Unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv). Ele é um aplicativo que permite à sua loja oferecer uma experiência omnichannel real, integrando seus canais online e físicos e colocando seus clientes no centro do negócio.
 
-> ℹ️ Verifique se a sua loja cumpre todos os [pré-requisitos para usar o VTEX Sales App](/pt/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u) antes de começar a utilizá-lo.
+> ℹ️ Verifique se a sua loja cumpre todos os [pré-requisitos para usar o VTEX Sales App](https://help.vtex.com/pt/docs/tracks/pre-requisitos-para-usar-o-vtex-sales-app).
 
-Para utilizar o VTEX Sales App, você precisa seguir os passos descritos a seguir na sua conta principal.
+Para utilizar o **VTEX Sales App**, você precisa seguir os passos descritos a seguir na sua conta principal.
 
 > ⚠️  Não é necessário instalar ou configurar o **VTEX Sales App** nas contas franquias que representam lojas físicas. Você deve realizar o procedimento descrito neste artigo apenas na conta principal da marca.
 
