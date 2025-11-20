@@ -27,20 +27,20 @@ Para utilizar o **VTEX Sales App**, você precisa seguir os passos descritos a s
 
 O primeiro passo é instalar gratuitamente na conta principal da marca o aplicativo [VTEX Sales App](https://apps.vtex.com/vtex-assisted-sales-admin/p), disponível na VTEX App Store.
 
-1. Acesse a página do [VTEX Sales App Setup](https://apps.vtex.com/vtex-assisted-sales-admin/p) na VTEX App Store.
+1. Acesse a página do [VTEX Sales App setup](https://apps.vtex.com/vtex-assisted-sales-admin/p) na VTEX App Store.
 2. Clique em `Obter app`.
 3. Digite o nome da sua conta principal na VTEX e clique em `Confirmar`.
 4. Clique em `Fechar pedido`.
 5. Clique em `Vá para a página de instalação`. Você será conduzido para a página do aplicativo VTEX Sales App no Admin VTEX.
 6. Clique em `Instalar`.
 
-Ao instalar o VTEX Sales App, a página `checkout/instore` e seus respectivos arquivos (`checkout-instore-custom.js` e `checkout-instore-custom.css`) são criados automaticamente no site `default` dentro do **Checkout**. Por padrão, o VTEX Sales App deve ser utilizado sempre no site `default` da conta principal para simplificar a operação do ecommerce e evitar erros.
+Ao instalar o **VTEX Sales App**, a página `checkout/instore` e seus respectivos arquivos (`checkout-instore-custom.js` e `checkout-instore-custom.css`) são criados automaticamente no site `default` dentro do **Checkout**. Por padrão, o **VTEX Sales App** deve ser utilizado sempre no site `default` da conta principal para simplificar a operação do ecommerce e evitar erros.
 
 Para verificar o site `default`, acesse **Configurações da loja > Checkout** e clique em <i class="fas fa-cog"></i>. Verifique se a URL contém a palavra `default`, como no exemplo: `https://{{accountName}}.myvtex.com/admin/portal/#/sites/default/`. Outra opção é conferir em **Storefront > Layout > CMS > Sites and channels**.
 
 ## Configurar o VTEX Sales App
 
-Após a instalação você vai realizar as configurações básicas do aplicativo **VTEX Sales App**, descritas abaixo.
+Após a instalação, você vai realizar as configurações básicas do aplicativo, descritas abaixo:
 
 1. No Admin VTEX, acesse **Aplicativos > Hub de Extensões > Gerenciamento de Aplicativos**, ou digite **Gerenciamento de Aplicativos** na barra de busca no topo da página.
 2. Na aba `Instalados`, encontre o **VTEX Sales App** e clique em <i class="fa-solid fa-gear"></i> `Configurações`.
