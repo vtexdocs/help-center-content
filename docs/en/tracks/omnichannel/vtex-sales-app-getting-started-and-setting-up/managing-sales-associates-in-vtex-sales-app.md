@@ -23,7 +23,7 @@ The page displays the following information:
 
 | Column Fields | Description                                                                                                                                                              |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Name          | Name that identifies the sales associate, defined in the [Add sales associate](#adding-a-sales-associate) step.                                                              |
+| Name          | Name that identifies the sales associate, defined in the [Add sales associate](#adding-sales-associate) step.                                                              |
 | Code          | Identifier code of each sales associate. It must be the same used in the physical store system.                                                                          |
 | Store         | Identifier name of the [franchise account](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) in which the sales associate is registered. |
 | Email         | Sales associate access email.                                                                                                                                            |
