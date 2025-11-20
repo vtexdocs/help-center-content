@@ -53,7 +53,7 @@ Después de la instalación, realiza la configuración básica según se describ
 
 En la pantalla **Registro tienda**, ingresa el nombre de la primera tienda física donde se utilizará **VTEX Sales App** y su dirección completa. Después de rellenar todos los campos, haz clic en `Continuar`.
 
-Después puedes [agregar otras tiendas](/es/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN) si lo deseas.
+Después puedes agregar otras tiendas si lo deseas.
 
 ### Registrar vendedor
 
@@ -69,7 +69,7 @@ El siguiente paso es configurar los medios de pago que aceptarás en **VTEX Sale
 
 Hay dos opciones:
 
-* **Efectivo**: activa esta opción si deseas aceptar pagos en efectivo.
+* **Efectivo:** activa esta opción si deseas aceptar pagos en efectivo.
 * **Social selling:** activa esta opción para que todos los medios de pago configurados en el checkout de tu tienda online sean válidos en **VTEX Sales App** al utilizar el [carrito compartido (Social Selling)](/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy).
 
 Después de seleccionar las opciones deseadas, haz clic en `Continuar`.
@@ -84,8 +84,8 @@ Para que el catálogo de la tienda física se refleje en **VTEX Sales App**, deb
 
 Para configurar el binding y garantizar que el catálogo de la tienda se muestre en **VTEX Sales App**, sigue los pasos a continuación:
 
-1. En el Admin VTEX accede a **Storefront > Layout** o escribe **Layout** en la barra de búsqueda en la parte superior de la página.
-2. Haz clic en CMS y **Sites and channels**.
+1. En el Admin VTEX, accede a **Storefront > Layout** o escribe **Layout** en la barra de búsqueda en la parte superior de la página.
+2. Haz clic en CMS y selecciona **Sites and channels**.
 3. Selecciona el website deseado en la lista.
 4. En la sección **Links**, haz clic en la fila correspondiente al binding y luego haz clic en `Update`.
 5. En la sección **Available sales channels**, marca la política comercial que deseas vincular al binding.
