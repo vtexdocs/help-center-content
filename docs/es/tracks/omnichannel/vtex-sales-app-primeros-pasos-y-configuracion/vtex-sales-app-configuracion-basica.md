@@ -3,7 +3,7 @@ title: 'VTEX Sales App - Configuración básica'
 id: 4L5SoLxE8O3YkxF7FKymrO
 status: PUBLISHED
 createdAt: 2020-06-28T13:51:53.895Z
-updatedAt: 2025-11-11T23:01:37.261Z
+updatedAt: 2025-11-21T23:01:37.261Z
 publishedAt: 2025-02-20T23:01:37.261Z
 firstPublishedAt: 2020-06-28T14:01:36.462Z
 contentType: trackArticle
@@ -55,13 +55,13 @@ En la pantalla **Registro tienda**, ingresa el nombre de la primera tienda físi
 
 Después puedes [agregar otras tiendas](/es/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN) si lo deseas.
 
-### Registrar el vendedor
+### Registrar vendedor
 
 En esta sección, debes definir un email y un nombre que se utilizarán como credenciales de inicio de sesión del vendedor. Si lo deseas, puedes incluir un código de identificación. Luego, haz clic en `Continuar`.
 
 > ⚠️ El email registrado en esta página no puede ser un email que ya esté en uso en el Admin de la plataforma VTEX. Utiliza emails de vendedores que no tengan acceso al Admin.
 
-En esta etapa, debes registrar solo a uno de tus vendedores. Después de realizar la configuración básica, puedes [añadir otros vendedores](/es/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN).
+En esta etapa, debes registrar solo a uno de tus vendedores. Después de realizar la configuración básica, puedes [añadir otros vendedores](https://help.vtex.com/es/docs/tracks/gestionar-vendedores-en-vtex-sales-app#registrar-vendedor). Para que el vendedor obtenga acceso a **Sales App**, consulta la sección [Primer acceso del vendedor](https://help.vtex.com/es/docs/tracks/gestionar-vendedores-en-vtex-sales-app#primer-acceso-del-vendedor).
 
 ### Configurar los medios de pago
 
