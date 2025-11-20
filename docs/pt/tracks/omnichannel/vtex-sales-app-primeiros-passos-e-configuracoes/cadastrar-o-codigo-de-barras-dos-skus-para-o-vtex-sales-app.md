@@ -15,7 +15,7 @@ trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 7
 ---
 
-Para usar o **VTEX Sales App**, os produtos da loja física devem estar cadastrados no catálogo da sua conta na VTEX. É lá que inserimos todos os produtos e definimos suas características.
+Para usar o **VTEX Sales App,** os produtos da loja física devem estar cadastrados no catálogo da sua conta na VTEX. É lá que inserimos todos os produtos e definimos suas características.
 
 >⚠️ Os vendedores somente terão acesso aos produtos via **VTEX Sales App** quando os produtos estiverem cadastrados no catálogo da sua loja.
 
