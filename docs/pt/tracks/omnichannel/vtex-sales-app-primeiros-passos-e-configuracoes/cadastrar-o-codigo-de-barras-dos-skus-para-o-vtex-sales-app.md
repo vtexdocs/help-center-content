@@ -30,7 +30,7 @@ Para cadastrar o **EAN** dos SKUs, siga os passos abaixo:
 1. No Admin VTEX, acesse **Catálogo** > **Produtos e SKUs**, ou digite **Produtos e SKUs** na barra de busca no topo da página.
 2. Clique na linha referente ao produto desejado.
 3. Clique na aba `SKUs`.
-4. No campo **EAN**, preencha com o valor do código de barras.
+4. No campo **EAN,** preencha com o valor do código de barras.
 5. Clique em `Salvar`.
 
 > ℹ️ A informação do **EAN** pode levar até 10 minutos para ser atualizada. Feito isso, será possível adicionar o SKU ao carrinho do **VTEX Sales App** usando a máquina leitora de código de barras.
