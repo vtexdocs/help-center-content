@@ -95,4 +95,4 @@ Para configurar o binding e garantir que o catálogo da loja seja exibido no **V
 
 ## Configurar logística
 
-Para começar a utilizar o **VTEX Sales App**, você também precisa realizar as configurações logísticas de acordo com as estratégias que deseja implementar. Leia os guias sobre [Comércio Unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) e [Logística](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx) para mais informações.
+Para começar a utilizar o **VTEX Sales App**, você também precisa realizar as configurações logísticas de acordo com as estratégias que deseja implementar. Saiba mais em [Comércio Unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) e [Logística](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx) para mais informações.
