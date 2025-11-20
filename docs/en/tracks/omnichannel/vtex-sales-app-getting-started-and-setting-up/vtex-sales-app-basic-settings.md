@@ -17,15 +17,15 @@ order: 4
 
 **VTEX Sales App** is one of VTEX's main products for [unified commerce](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) operations. It enables your store to provide a true omnichannel experience, integrating your online and physical channels and placing customers at the core of your business.
 
-> ℹ️ Before you start using VTEX Sales App, make sure your store meets all the [prerequisites](/en/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u).
+> ℹ️ Before you start using **VTEX Sales App**, make sure your store meets all the [prerequisites](/en/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u).
 
-To use VTEX Sales App, follow the steps below in your main account.
+To use **VTEX Sales App**, follow the steps below in your main account.
 
-> ⚠️ There is no need to install or configure VTEX Sales App on franchise accounts representing physical stores. You should only configure these settings on the main brand account.
+> ⚠️ There is no need to install or configure **VTEX Sales App** on franchise accounts representing physical stores. You should only configure these settings on the main account.
 
 ## Installing VTEX Sales App
 
-The first step is to install [VTEX Sales App](https://apps.vtex.com/vtex-assisted-sales-admin/p), available in the VTEX App Store, on the main brand account. To do so, follow these steps:
+To install the app, follow the steps below:
 
 1. Go to the [VTEX Sales App](https://apps.vtex.com/vtex-assisted-sales-admin/p) page in the VTEX App Store.
 2. Click on `Get app`.
