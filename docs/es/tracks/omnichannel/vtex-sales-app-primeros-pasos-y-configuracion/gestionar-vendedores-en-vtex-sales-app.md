@@ -17,7 +17,7 @@ order: 6
 
 Una vez realizadas las [configuraciones básicas de VTEX Sales App en el Admin](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), es posible agregar nuevos vendedores al sistema o administrar vendedores ya registrados.
 
-La categoría **Vendedores** representa una sección dentro del módulo **Configuración de la tienda** del Admin VTEX, mostrando la lista completa de vendedores registrados en la aplicación **VTEX Sales App**. Dentro de esta página, es posible gestionar la información de los vendedores en todas las [cuentas franquicia](https://help.vtex.com/es/docs/tutorials/que-es-una-cuenta-franquicia) de tu tienda, mediante operaciones de [registrar](#registrar-vendedor), [buscar](#buscar-vendedor), [filtrar](#filtrar-vendedores), [editar](#editar-vendedor) e [inativar](#inativar-vendedor).
+La categoría **Vendedores** representa una sección dentro del módulo **Configuración de la tienda** del Admin VTEX, mostrando la lista completa de vendedores registrados en la aplicación **VTEX Sales App**. Dentro de esta página, es posible gestionar la información de los vendedores en todas las [cuentas franquicia](https://help.vtex.com/es/docs/tutorials/que-es-una-cuenta-franquicia) de tu tienda, mediante operaciones de [registrar](#registrar-vendedor), [buscar](#buscar-vendedor), [filtrar](#filtrar-vendedores), [editar](#editar-vendedor) e [inactivar](#inactivar-vendedor).
 
 La página contiene la siguiente información:
 
@@ -67,20 +67,20 @@ Haz clic en el filtro `Tienda` para filtrar los vendedores por el nombre de una 
 
 Si es necesario actualizar la tienda de un vendedor, debes editarla en el registro del vendedor. Puedes editar un vendedor siguiendo los pasos a continuación:
 
-1. En la fila del vendedor que deseas editar, haz clic en <i class="fas fa-ellipsis-v"></i>.
+1. En la fila del vendedor que deseas editar, haz clic en el menú <i class="fas fa-ellipsis-v"></i>.
 2. Haz clic en <i class="fas fa-pencil-alt"></i> `Editar`.
 3. Cambia la información que desees.
 4. Haz clic en `Guardar` para finalizar.
 
-## Inativar vendedor
+## Inactivar vendedor
 
 Puedes inactivar un vendedor siguiendo los pasos a continuación:
 
-1. En la fila del vendedor que deseas editar, haz clic en <i class="fas fa-ellipsis-v"></i>.
+1. En la fila del vendedor que deseas editar, haz clic en el menú <i class="fas fa-ellipsis-v"></i>.
 2. Haz clic en <i class="fa-solid fa-box-archive"></i> `Inactivar`.
 3. Haz clic en `Inactivar` para confirmar y finalizar.
 
-Una vez inactivado, el vendedor perderá el acceso a la aplicación VTEX Sales App y no podrá iniciar sesión. Para eliminar definitivamente a un vendedor, contacta con nuestro [soporte](https://support.vtex.com/hc/es-419/requests).
+Una vez inactivado, el vendedor perderá el acceso a la aplicación **VTEX Sales App** y no podrá iniciar sesión. Para eliminar definitivamente a un vendedor, contacta con nuestro [soporte](https://support.vtex.com/hc/es-419/requests).
 
 ## Primer acceso del vendedor
 
