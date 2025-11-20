@@ -15,9 +15,9 @@ trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 4
 ---
 
-**VTEX Sales App** es uno de los principales productos de VTEX para las operaciones de [comercio unificado](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv). Esta aplicación te permite ofrecer una experiencia omnichannel real en tu tienda, integrando los canales online y físicos y poniendo a tus clientes en el centro de tu negocio.
+**VTEX Sales App** es uno de los principales productos de VTEX para las operaciones de [comercio unificado](https://help.vtex.com/es/docs/tracks/comercio-unificado-101). Esta aplicación te permite ofrecer una experiencia omnichannel real en tu tienda, integrando los canales online y físicos y poniendo a tus clientes en el centro de tu negocio.
 
-> ℹ️ Antes de comenzar, verifica que tu tienda cumpla con todos los [prerequisitos para utilizar VTEX Sales App](/es/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u).
+> ℹ️ Antes de comenzar, verifica que tu tienda cumpla con todos los [requisitos para utilizar VTEX Sales App](https://help.vtex.com/es/docs/tracks/requisitos-previos-para-usar-vtex-sales-app).
 
 Para utilizar **VTEX Sales App**, debes seguir los pasos descritos a continuación en tu cuenta principal.
 
@@ -27,7 +27,7 @@ Para utilizar **VTEX Sales App**, debes seguir los pasos descritos a continuaci�
 
 Realiza la instalación de la aplicación según los pasos descritos a continuación:
 
-1. Accede a la página de [VTEX Sales App](https://apps.vtex.com/vtex-assisted-sales-admin/p).
+1. Accede a la página de [VTEX Sales App](https://apps.vtex.com/vtex-assisted-sales-admin/p) en VTEX App Store.
 2. Haz clic en `Obtener app`.
 3. Ingresa el nombre de tu cuenta principal y haz clic en `Confirmar`.
 4. Haz clic en `Finalizar compra`.
@@ -70,13 +70,13 @@ El siguiente paso es configurar los medios de pago que aceptarás en **VTEX Sale
 Hay dos opciones:
 
 * **Efectivo:** activa esta opción si deseas aceptar pagos en efectivo.
-* **Social selling:** activa esta opción para que todos los medios de pago configurados en el checkout de tu tienda online sean válidos en **VTEX Sales App** al utilizar el [carrito compartido (Social Selling)](/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy).
+* **Social selling:** activa esta opción para que todos los medios de pago configurados en el checkout de tu tienda online sean válidos en **VTEX Sales App** al utilizar el [carrito compartido (Social Selling)](https://help.vtex.com/es/docs/tracks/compartir-el-carrito-utilizando-vtex-sales-app-social-selling).
 
 Después de seleccionar las opciones deseadas, haz clic en `Continuar`.
 
 ## Configurar condiciones de pago
 
-Después de realizar la configuración básica descrita en los pasos anteriores, debes configurar las condiciones de pago para **VTEX Sales App** en el módulo de **Pagos**. Para configurarlas, consulta la guía [Configuración de métodos de pago VTEX Sales App](/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
+Después de realizar la configuración básica descrita en los pasos anteriores, debes configurar las condiciones de pago para **VTEX Sales App** en el módulo de **Pagos**. Para configurarlas, consulta la guía [Configuración de métodos de pago VTEX Sales App](https://help.vtex.com/es/docs/tracks/configuracion-de-metodos-de-pago-vtex-sales-app).
 
 ## Vincular el catálogo de productos a una vitrina de tienda
 
@@ -95,4 +95,4 @@ Para configurar el binding y garantizar que el catálogo de la tienda se muestre
 
 ## Configurar logística
 
-Para empezar a utilizar **VTEX Sales App**, también debes realizar las configuraciones logísticas según las estrategias que quieres aplicar. Para más información, lee las guías sobre [Comercio unificado](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) y [Logística](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx).
+Para empezar a utilizar **VTEX Sales App**, también debes realizar las configuraciones logísticas según las estrategias que quieres aplicar. Para más información, lee las guías sobre [Comercio unificado](https://help.vtex.com/es/docs/tracks/comercio-unificado-101) y [Logística](https://help.vtex.com/es/docs/tracks/logistica-primeros-pasos).
