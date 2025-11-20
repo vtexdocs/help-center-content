@@ -21,11 +21,11 @@ order: 4
 
 Para utilizar **VTEX Sales App**, debes seguir los pasos descritos a continuación en tu cuenta principal.
 
-> ⚠️  No es necesario instalar o configurar **VTEX Sales App** en las cuentas franquicia que representan tiendas físicas, solo en la cuenta principal.
+> ⚠️ No es necesario instalar o configurar **VTEX Sales App** en las cuentas franquicia que representan tiendas físicas, solo en la cuenta principal.
 
 ## Instalar VTEX Sales App
 
-Realiza la instalación de la aplicación, según los pasos descritos a continuación:
+Realiza la instalación de la aplicación según los pasos descritos a continuación:
 
 1. Accede a la página de [VTEX Sales App](https://apps.vtex.com/vtex-assisted-sales-admin/p).
 2. Haz clic en `Obtener app`.
