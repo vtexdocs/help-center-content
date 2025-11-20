@@ -17,7 +17,7 @@ order: 6
 
 After configuring the [VTEX Sales App basic settings](https://help.vtex.com/docs/tracks/vtex-sales-app-basic-settings), you can add sales associates to the system or manage the existing ones in the VTEX Admin.
 
-On the VTEX Admin **Store Settings** page, there is a **Sales associates** category that displays a list of the sales associates added to your **VTEX Sales App**. It allows you to manage sales associate information across all [franchise accounts](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) of your store, enabling you to [add](#adding-a-sales-associate), [search](#searching-for-a-sales-associate), [filter](#filtering-sales-associates), [edit](#editing-sales-associate-information), and [inactivate](#inactivating-a-sales-associate) them.
+On the VTEX Admin **Store Settings** page, there is a **Sales associates** category that displays a list of the sales associates added to your **VTEX Sales App**. It allows you to manage sales associate information across all [franchise accounts](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) of your store, enabling you to [add](#adding-sales-associate), [search](#searching-for-sales-associate), [filter](#filtering-sales-associates), [edit](#editing-sales-associate-information), and [inactivate](#inactivating-sales-associate) them.
 
 The page displays the following information:
 
@@ -55,7 +55,7 @@ After the merchant has added the sales associate, they can create an access pass
 
 > ℹ️ Changes can take up to 15 minutes to be processed and applied to **Sales App**.
 
-## Searching for a sales associate
+## Searching for sales associate
 
 You can search for a sales associate using the search bar by entering their name, email, or store.
 
@@ -72,7 +72,7 @@ You may need to change a sales associate's store to a new one, so you need to ed
 3. Change the information you want.
 4. Click `Save`.
 
-## Inactivating a sales associate
+## Inactivating sales associate
 
 You can inactivate a sales associate by following the steps below:
 
