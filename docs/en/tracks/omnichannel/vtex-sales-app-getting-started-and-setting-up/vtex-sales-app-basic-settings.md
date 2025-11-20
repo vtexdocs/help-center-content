@@ -95,4 +95,4 @@ To configure the binding and ensure the store catalog is displayed in **VTEX Sal
 
 ## Configuring logistics
 
-To start using **VTEX Sales App**, you also need to configure the logistics settings based on the strategies you want to implement. For more information, see [Unified commerce](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) and [Logistics](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx).
+To start using **VTEX Sales App**, you also need to configure the logistics settings based on the strategies you want to implement. For more information, see [Unified commerce](https://help.vtex.com/docs/tracks/unified-commerce-101) and [Logistics](https://help.vtex.com/docs/tracks/getting-started-with-logistics).
