@@ -21,7 +21,7 @@ order: 4
 
 To use **VTEX Sales App**, follow the steps below in your main account.
 
-> ⚠️ There is no need to install or configure **VTEX Sales App** on franchise accounts representing physical stores. You should only configure these settings on the main account.
+> ⚠️ There is no need to install or configure **VTEX Sales App** on franchise accounts representing physical stores. All settings are configured on the main account.
 
 ## Installing VTEX Sales App
 
