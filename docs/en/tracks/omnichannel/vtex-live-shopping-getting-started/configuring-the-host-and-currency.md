@@ -19,6 +19,8 @@ In the **Live Shopping** context, the host corresponds to the storefront home UR
 
 ## Setting up the host and currency
 
+To configure the host and currency, follow the steps below:
+
 1. In the VTEX Admin, go to **Apps > Live Shopping > Settings**, or type **Settings / Live Shopping** in the search bar at the top of the page.
 2. In the **Store Host** section, fill in the `Host URL` field with the home URL, starting after the protocol (`http://` or `https://`) and the `www` prefix. For example, if the URL is `https://www.mystore.com`, enter `mystore.com`.
 
