@@ -21,12 +21,12 @@ A categoria Vendedores representa uma seção dentro das Configurações da loja
 
 A página apresenta as seguintes informações:
 
-  | Campos da coluna | Descrição                                                                                                                                                                            |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Nome             | Nome que identifica o vendedor, definido na etapa [Cadastrar vendedor](#cadastrar-vendedor). |
-| Código           | Código identificador de cada vendedor, o mesmo cadastrado no sistema da loja física.                                                                                                 |
-| Loja             | Nome identificador da [conta franquia](/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) em que o vendedor está cadastrado.                              |
-| Email            | Email de acesso referente a cada vendedor.                                                                                                                                           |
+| Campos da coluna | Descrição |
+| --- | --- |
+| Nome | Nome que identifica o vendedor, definido na etapa [Cadastrar vendedor](#cadastrar-vendedor). |
+| Código | Código identificador de cada vendedor, o mesmo cadastrado no sistema da loja física. |
+| Loja | Nome identificador da [conta franquia](/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) em que o vendedor está cadastrado. |
+| Email | Email de acesso referente a cada vendedor. |
 
 ## Cadastrar vendedor
 
