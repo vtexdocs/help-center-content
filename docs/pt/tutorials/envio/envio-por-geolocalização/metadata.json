@@ -1,6 +1,6 @@
 {
   "id": "geolocation-shipping",
   "name": "Envio por geolocalização",
-  "slug": "envio-por-geolocalização-subcategoria",
+  "slug": "envio-por-geolocalização",
   "order": 2
 }

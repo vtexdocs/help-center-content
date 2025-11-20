@@ -1,6 +1,6 @@
 {
   "id": "shipping",
   "name": "Envío",
-  "slug": "envio-categoria",
+  "slug": "envio",
   "order": 17
 }

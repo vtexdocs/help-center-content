@@ -1,6 +1,6 @@
 {
   "id": "billing",
   "name": "Faturas",
-  "slug": "faturas-categoria",
+  "slug": "faturas",
   "order": 18
 }

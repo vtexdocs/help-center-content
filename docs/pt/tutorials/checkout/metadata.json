@@ -1,6 +1,6 @@
 {
   "id": "checkout",
   "name": "Checkout",
-  "slug": "checkout-categoria",
+  "slug": "checkout",
   "order": 11
 }

@@ -1,6 +1,6 @@
 {
   "id": "recaptcha",
   "name": "reCAPTCHA",
-  "slug": "recaptcha-subcategory",
+  "slug": "recaptcha",
   "order": 3
 }

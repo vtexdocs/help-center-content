@@ -1,6 +1,6 @@
 {
   "id": "inventory",
   "name": "Estoque",
-  "slug": "estoque-subcategoria",
+  "slug": "estoque",
   "order": 2
 }

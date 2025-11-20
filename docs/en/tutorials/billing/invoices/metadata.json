@@ -1,6 +1,6 @@
 {
   "id": "invoices",
   "name": "Invoices",
-  "slug": "invoices-subcategory",
+  "slug": "invoices",
   "order": 4
 }

@@ -1,6 +1,6 @@
 {
   "id": "billing",
   "name": "Billing",
-  "slug": "billing-category",
+  "slug": "billing",
   "order": 10
 }

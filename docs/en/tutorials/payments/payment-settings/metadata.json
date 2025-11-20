@@ -1,6 +1,6 @@
 {
   "id": "payment-settings",
   "name": "Payment Settings",
-  "slug": "payment-settings-subcategory",
+  "slug": "payment-settings",
   "order": 3
 }
