@@ -17,7 +17,7 @@ order: 4
 
 **VTEX Sales App** is one of VTEX's main products for [unified commerce](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) operations. It enables your store to provide a true omnichannel experience, integrating your online and physical channels and placing customers at the core of your business.
 
-> ℹ️ Before you start using **VTEX Sales App**, make sure your store meets all the [prerequisites](/en/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u).
+> ℹ️ Before you start using **VTEX Sales App**, make sure your store meets all the [prerequisites](https://help.vtex.com/docs/tracks/prerequisites-for-using-vtex-sales-app).
 
 To use **VTEX Sales App**, follow the steps below in your main account.
 
@@ -53,7 +53,7 @@ After installation, configure **VTEX Sales App** basic settings, as described be
 
 On the screen for adding a new store, enter the name and full address of the first physical store where the **VTEX Sales App** will be used. After completing all the fields, click `Continue`.
 
-You can [add other stores later](/en/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN), if you wish.
+You can add other stores later, if you wish.
 
 ### Adding sales associate
 
@@ -61,7 +61,7 @@ In this section, you need to define an email and a name to be used as the sales 
 
 > ⚠️ The email address entered can't already be in use in the VTEX Admin.
 
-In this step, you will only add one of your sales associates. After completing the basic settings, you can [add other sales associates](https://help.vtex.com/docs/tracks/managing-sales-associates-in-vtex-sales-app#adding-sales-associate).
+In this step, you will only add one of your sales associates. After completing the basic settings, you can [add other sales associates](https://help.vtex.com/docs/tracks/managing-sales-associates-in-vtex-sales-app#adding-sales-associate). For a sales associate to access the **Sales App**, see the [Sales associate first access](https://help.vtex.com/docs/tracks/managing-sales-associates-in-vtex-sales-app#sales-associate-first-access) section.
 
 ### Configuring payment methods
 
@@ -70,13 +70,13 @@ The next step is to set up the payment methods you will accept on **VTEX Sales A
 There are two options available:
 
 * **Cash**: Enable this option if you want to accept cash payments.
-* **Social selling:** Enable this option to make all payment methods configured in your ecommerce Checkout available in **VTEX Sales App** when using the [shared cart (Social Selling)](/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy).
+* **Social selling:** Enable this option to make all payment methods configured in your ecommerce Checkout available in **VTEX Sales App** by using the [Sharing shopping cart (Social Selling)](https://help.vtex.com/docs/tracks/sharing-shopping-cart-using-vtex-sales-app-social-selling).
 
 After selecting the desired options, click `Continue`.
 
 ## Configuring payment conditions
 
-After completing the basic settings, configure **VTEX Sales App** payment conditions in the **Payments** module. To do this, see the guide [Setting up payment methods for VTEX Sales App](/en/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
+After basic settings, configure your payment options in the **Payments** module. Know more in [Setting up payment methods for VTEX Sales App](https://help.vtex.com/docs/tracks/setting-up-payment-methods-for-vtex-sales-app).
 
 ## Linking the store product catalog to the storefront
 
