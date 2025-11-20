@@ -3,7 +3,7 @@ title: 'VTEX Sales App - Basic settings'
 id: 4L5SoLxE8O3YkxF7FKymrO
 status: PUBLISHED
 createdAt: 2020-06-28T13:51:53.895Z
-updatedAt: 2025-11-11T23:01:37.261Z
+updatedAt: 2025-11-21T23:01:37.261Z
 publishedAt: 2025-02-20T23:01:37.261Z
 firstPublishedAt: 2020-06-28T14:01:36.462Z
 contentType: trackArticle
@@ -59,9 +59,9 @@ You can [add other stores later](/en/tracks/instore-setting-up--zav76TFEZlAjnyBV
 
 In this section, you need to define an email and a name to be used as the sales associate's login credentials. If you want, you can include an identification code for the sales associate. Once defined, click `Continue`.
 
-> ⚠️ The email entered on this screen can't already be in use in the VTEX Admin. Use sales associate emails without Admin access.
+> ⚠️ The email address entered can't already be in use in the VTEX Admin.
 
-In this step, you'll add only one of your sales associates. After configuring the basic settings, you can [add other sales associates](/en/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN).
+In this step, you will only add one of your sales associates. After completing the basic settings, you can [add other sales associates](https://help.vtex.com/docs/tracks/managing-sales-associates-in-vtex-sales-app#adding-a-sales-associate).
 
 ### Configuring payment methods
 
@@ -95,4 +95,4 @@ To configure the binding and ensure the store catalog is displayed in VTEX Sales
 
 ## Configuring logistics
 
-To start using VTEX Sales App, you also need to configure the __Logistics__ settings based on the strategies you want to implement. For more information, see the guides [Unified commerce](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) and [Logistics](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx).
+To start using VTEX Sales App, you also need to configure the **Logistics** settings based on the strategies you want to implement. For more information, see the guides [Unified commerce](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) and [Logistics](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx).
