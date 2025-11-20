@@ -3,7 +3,7 @@ title: 'Managing sales associates in VTEX Sales App'
 id: 5pqtuvi97FFZiGf7MlSe8q
 status: PUBLISHED
 createdAt: 2023-04-17T21:01:21.431Z
-updatedAt: 2025-11-11T19:59:15.811Z
+updatedAt: 2025-11-21T19:59:15.811Z
 publishedAt: 2024-01-05T19:59:15.811Z
 firstPublishedAt: 2023-04-25T20:13:04.431Z
 contentType: trackArticle
@@ -15,7 +15,7 @@ trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 6
 ---
 
-After configuring the [VTEX Sales App basic settings](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), you can add sales associates to the system or manage the existing ones in the VTEX Admin.
+After configuring the [VTEX Sales App basic settings](https://help.vtex.com/docs/tracks/vtex-sales-app-basic-settings), you can add sales associates to the system or manage the existing ones in the VTEX Admin.
 On the VTEX Admin **Store Settings** page, there is a **Sales associates** category that displays a list of the sales associates added to your [VTEX Sales App](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf). It allows you to manage sales associate information across all [franchise accounts](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) of your store, enabling you to [add](#adding-a-sales-associate), [search](#searching-for-a-sales-associate), [filter](#filtering-sales-associates), [edit](#editing-sales-associate-information), and [inactivate](#inactivating-a-sales-associate) them.
 
 ![vendedores-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-first-steps-and-configurations/managing-sales-associates-in-instore_1.png)
