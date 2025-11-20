@@ -53,13 +53,13 @@ Após a instalação, você vai realizar as configurações básicas do aplicati
 
 Na tela **Cadastro de loja**, informe o nome da primeira loja física onde o **VTEX Sales App** será utilizado e o endereço completo da loja. Quando tiver preenchido todos os campos, clique em `Continuar`.
 
-Posteriormente, você poderá [adicionar outras lojas](/pt/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN), se desejar.
+Posteriormente, você poderá adicionar outras lojas, se desejar.
 
 ### Registre o vendedor
 
 Nesta seção, você precisa definir um email e um nome para serem usados como credenciais de login de um vendedor.  Se desejar, você pode incluir um código de identificação para o vendedor. Ao terminar, clique em `Continuar`.
 
-> ⚠️ O email registrado nesta tela não pode ser um email já em uso no Admin da plataforma VTEX. Use emails de vendedores que não possuem acesso ao Admin.
+> ⚠️ O email registrado nesta tela não pode ser um email já em uso no Admin VTEX.
 
 Nesta etapa, você registra apenas um de seus vendedores. Após as configurações básicas, você poderá [adicionar outros vendedores](https://help.vtex.com/pt/docs/tracks/gerenciar-vendedores-no-vtex-sales-app). Para que o vendedor adquira acesso ao **Sales App**, confira a seção [Primeiro acesso do vendedor](https://help.vtex.com/pt/docs/tracks/gerenciar-vendedores-no-vtex-sales-app#primeiro-acesso-do-vendedor).
 
