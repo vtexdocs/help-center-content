@@ -44,8 +44,8 @@
                     "pt": "Breaking change Shopee: Nova permissão de acesso obrigatória"
                   },
                   "slug": {
-                    "en": "2025-11-13-breaking-change-shopee-nova-permissao-obrigatoria-copy",
-                    "es": "2025-11-13-breaking-change-shopee-nova-permissao-obrigatoria-copy",
+                    "en": "2025-11-13-breaking-change-shopee-nova-permissao-obrigatoria-en",
+                    "es": "2025-11-13-breaking-change-shopee-nova-permissao-obrigatoria-es",
                     "pt": "2025-11-13-breaking-change-shopee-nova-permissao-obrigatoria"
                   },
                   "origin": "",
@@ -52248,6 +52248,36 @@
                 "en": "regionalization-or-trade-policies-arent-considered-while-filtering-or-sorting-items-by-price-or-discount",
                 "es": "la-regionalizacion-o-las-politicas-comerciales-no-se-tienen-en-cuenta-al-filtrar-u-ordenar-los-articulos-por-precio-o-descuento",
                 "pt": "a-regionalizacao-ou-as-politicas-comerciais-nao-sao-consideradas-ao-filtrar-ou-classificar-itens-por-preco-ou-desconto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Same option ID accross different facets affecting the facet selection in a mobile version",
+                "es": "El mismo ID de opción en diferentes facetas afecta a la selección de facetas en una versión móvil.",
+                "pt": "O mesmo ID de opção em diferentes facetas afeta a seleção de facetas em uma versão móvel"
+              },
+              "slug": {
+                "en": "same-option-id-accross-different-facets-affecting-the-facet-selection-in-a-mobile-version",
+                "es": "el-mismo-id-de-opcion-en-diferentes-facetas-afecta-a-la-seleccion-de-facetas-en-una-version-movil",
+                "pt": "o-mesmo-id-de-opcao-em-diferentes-facetas-afeta-a-selecao-de-facetas-em-uma-versao-movel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Same option value accross different facets affecting the facet selection in a mobile version",
+                "es": "El mismo valor de opción en diferentes facetas afecta a la selección de facetas en una versión móvil.",
+                "pt": "O mesmo valor de opção em diferentes facetas afeta a seleção de facetas em uma versão móvel"
+              },
+              "slug": {
+                "en": "same-option-value-accross-different-facets-affecting-the-facet-selection-in-a-mobile-version",
+                "es": "el-mismo-valor-de-opcion-en-diferentes-facetas-afecta-a-la-seleccion-de-facetas-en-una-version-movil",
+                "pt": "o-mesmo-valor-de-opcao-em-diferentes-facetas-afeta-a-selecao-de-facetas-em-uma-versao-movel"
               },
               "origin": "",
               "type": "markdown",
