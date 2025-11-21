@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Breaking change Shopee: Nova permissão de acesso obrigatória",
+                    "es": "Breaking change Shopee: Nova permissão de acesso obrigatória",
+                    "pt": "Breaking change Shopee: Nova permissão de acesso obrigatória"
+                  },
+                  "slug": {
+                    "en": "2025-11-13-breaking-change-shopee-nova-permissao-obrigatoria-en",
+                    "es": "2025-11-13-breaking-change-shopee-nova-permissao-obrigatoria-es",
+                    "pt": "2025-11-13-breaking-change-shopee-nova-permissao-obrigatoria"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "VTEX Help Center: Now with enhanced interface and new features",
                     "es": "Help Center VTEX: interfaz optimizada y nuevas funcionalidades",
                     "pt": "Help Center VTEX: agora com interface aprimorada e novas funcionalidades"
