@@ -3,7 +3,7 @@ title: 'Cadastrar o código de barras dos SKUs para o VTEX Sales App'
 id: 4eooWH0d8Aiwzparyi4Hg
 status: PUBLISHED
 createdAt: 2020-06-28T19:59:59.437Z
-updatedAt: 2025-11-11T15:50:45.045Z
+updatedAt: 2025-11-19T15:50:45.045Z
 publishedAt: 2023-05-31T15:50:45.045Z
 firstPublishedAt: 2020-06-28T20:04:59.879Z
 contentType: trackArticle
@@ -15,23 +15,24 @@ trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 7
 ---
 
-Para usar o VTEX Sales App, os produtos da loja física devem estar cadastrados no Catálogo da sua conta na VTEX. É lá que inserimos todos os produtos e definimos suas características.
+Para usar o **VTEX Sales App,** os produtos da loja física devem estar cadastrados no catálogo da sua conta na VTEX. É lá que inserimos todos os produtos e definimos suas características.
 
-> ⚠️ Os vendedores somente terão acesso aos produtos via VTEX Sales App uma vez que eles estejam cadastrados no catálogo da sua loja na VTEX.
+>⚠️ Os vendedores somente terão acesso aos produtos via **VTEX Sales App** quando os produtos estiverem cadastrados no catálogo da sua loja.
 
-Entre as informações inseridas no cadastro de um produto no Catálogo, está o __EAN__. O EAN corresponde ao __código de barras__ do SKU. É ele que permite ao vendedor adicionar facilmente o produto ao carrinho do VTEX Sales App, bastando passar o código de barras do produto na máquina leitora. O VTEX Sales App também permite que o código de barras seja digitado no campo de busca.
+Entre as informações inseridas no cadastro de um produto no Catálogo, está o **EAN,** que corresponde ao código de barras do SKU. Ele permite que o vendedor adicione facilmente o produto ao carrinho no **VTEX Sales App,** bastando passar o código de barras do produto na máquina leitora. O **VTEX Sales App** também permite que o código de barras seja digitado no campo de busca.
 
-Normalmente, o catálogo do VTEX Sales App é herdado do catálogo do ecommerce. É assim que seu VTEX Sales App estará configurado após o [Setup Básico](/pt/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc).) Neste cenário, os produtos já estarão cadastrados. Você precisará apenas garantir que os códigos de barra estejam corretamente cadastrados no campo __EAN__ de cada SKU.
+Por padrão, o catálogo do **VTEX Sales App** é herdado do catálogo do ecommerce. É assim que o app estará configurado após o [Setup Básico](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-configuracoes-basicas). Neste cenário, os produtos já estarão cadastrados. Você precisará apenas garantir que os códigos de barra estejam corretamente cadastrados no campo **EAN** de cada SKU.
 
 ## Cadastrar o EAN dos SKUs
 
-Para cadastrar o EAN dos SKUs, siga os passos abaixo:
+Para cadastrar o **EAN** dos SKUs, siga os passos abaixo:
 
-1. No Admin VTEX, acesse **Catálogo** > **Produtos e SKUs**, ou digite _____ na barra de busca no topo da página.
-2. Na lista de SKUs, clique no nome do SKU desejado.
-3. No campo __EAN__, preencha com o valor do código de barras.
-4. Clique em __Salvar__.
+1. No Admin VTEX, acesse **Catálogo** > **Produtos e SKUs**, ou digite **Produtos e SKUs** na barra de busca no topo da página.
+2. Clique na linha referente ao produto desejado.
+3. Clique na aba `SKUs`.
+4. No campo **EAN,** preencha com o valor do código de barras.
+5. Clique em `Salvar`.
 
-Alternativamente, o campo EAN, assim como demais campos do cadastro de SKU, pode ser preenchido em massa por planilha ou por seu ERP. Confira o artigo [Cadastrar SKUs](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) para ver informações detalhadas.
+> ℹ️ A informação do **EAN** pode levar até 10 minutos para ser atualizada. Feito isso, será possível adicionar o SKU ao carrinho do **VTEX Sales App** usando a máquina leitora de código de barras.
 
-> ℹ️ A informação do EAN pode levar até 10 minutos para ser atualizada. Após este procedimento, já será possível adicionar o SKU ao carrinho do VTEX Sales App através da máquina leitora de código de barras.
+Assim como demais campos do cadastro de SKU, o **EAN** pode ser preenchido em massa por [planilha](https://help.vtex.com/pt/docs/tutorials/preencher-campos-da-planilha-de-importacao) ou por seu ERP. Saiba mais em [Integrações de backend](https://help.vtex.com/pt/docs/tracks/integracoes-de-backend).
