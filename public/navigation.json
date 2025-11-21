@@ -52240,6 +52240,36 @@
             },
             {
               "name": {
+                "en": "Same option ID accross different facets affecting the facet selection in a mobile version",
+                "es": "El mismo ID de opción en diferentes facetas afecta a la selección de facetas en una versión móvil.",
+                "pt": "O mesmo ID de opção em diferentes facetas afeta a seleção de facetas em uma versão móvel"
+              },
+              "slug": {
+                "en": "same-option-id-accross-different-facets-affecting-the-facet-selection-in-a-mobile-version",
+                "es": "el-mismo-id-de-opcion-en-diferentes-facetas-afecta-a-la-seleccion-de-facetas-en-una-version-movil",
+                "pt": "o-mesmo-id-de-opcao-em-diferentes-facetas-afeta-a-selecao-de-facetas-em-uma-versao-movel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Same option value accross different facets affecting the facet selection in a mobile version",
+                "es": "El mismo valor de opción en diferentes facetas afecta a la selección de facetas en una versión móvil.",
+                "pt": "O mesmo valor de opção em diferentes facetas afeta a seleção de facetas em uma versão móvel"
+              },
+              "slug": {
+                "en": "same-option-value-accross-different-facets-affecting-the-facet-selection-in-a-mobile-version",
+                "es": "el-mismo-valor-de-opcion-en-diferentes-facetas-afecta-a-la-seleccion-de-facetas-en-una-version-movil",
+                "pt": "o-mesmo-valor-de-opcao-em-diferentes-facetas-afeta-a-selecao-de-facetas-em-uma-versao-movel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Sampling for search filters unexpectedly aggressive omitting filter values",
                 "es": "Muestreo para filtros de búsqueda inesperadamente agresivo omitiendo valores de filtro",
                 "pt": "Amostragem para filtros de pesquisa inesperadamente agressiva, omitindo valores de filtro"
