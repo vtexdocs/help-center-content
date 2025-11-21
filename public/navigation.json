@@ -42526,6 +42526,21 @@
             },
             {
               "name": {
+                "en": "Product Specification Sheet Update does not Trigger Notificator and Indexing",
+                "es": "La actualización de la hoja de especificaciones del producto no activa el notificador ni la indexación",
+                "pt": "A atualização da folha de especificações do produto não aciona o notificador e a indexação"
+              },
+              "slug": {
+                "en": "product-specification-sheet-update-does-not-trigger-notificator-and-indexing",
+                "es": "la-actualizacion-de-la-hoja-de-especificaciones-del-producto-no-activa-el-notificador-ni-la-indexacion",
+                "pt": "a-atualizacao-da-folha-de-especificacoes-do-produto-nao-aciona-o-notificador-e-a-indexacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product unavailable even with franchised stock",
                 "es": "Producto no disponible incluso con stock franquiciado",
                 "pt": "Produto indisponível mesmo com estoque na franquia"
