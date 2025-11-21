@@ -450,10 +450,10 @@ Para crear un nuevo webhook, sigue los pasos a continuación:
 4. Llena los campos del formulario:
    - **Activo**: opción que activa el webhook.
    - **Tipo**: método del webhook. Estos son los tipos de evento que pueden generar notificaciones:
-     - `invoicing`: facturación del pedido.
-     - `order status`: cambio en el status del pedido.
-     - `worksheet status`: cambio en el status de la hoja de trabajo.
-     - `return status`: actualización en el status de la devolución.
+     - `INVOICING`: facturación del pedido.
+     - `ORDER_STATUS`: cambio en el status del pedido.
+     - `WORKSHEET_STATUS`: cambio en el status de la hoja de trabajo.
+     - `RETURN_STATUS`: actualización en el status de la devolución.
    - **URL**: URL del webhook.
    - **Encabezados**: encabezados del webhook.
    - **Parámetros**: parámetros del webhook.
