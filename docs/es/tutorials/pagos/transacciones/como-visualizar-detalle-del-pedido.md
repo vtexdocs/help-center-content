@@ -1,9 +1,9 @@
 ---
-title: 'Visualizar detalles del pedido en Pedidos'
+title: 'Visualizar detalles de la transacción en Pedidos'
 id: tutorials_452
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:24.036Z
-updatedAt: 2023-03-30T14:56:10.230Z
+updatedAt: 2025-11-24T00:00:00.000Z
 publishedAt: 2023-03-30T14:56:10.230Z
 firstPublishedAt: 2017-04-27T23:03:26.583Z
 contentType: tutorial
@@ -24,7 +24,7 @@ Para acceder a esta información, siga estos pasos.
 1. En el Admin VTEX, accede a **Pedidos > Transacciones**, o escribe **Transacciones** en la barra de búsqueda en la parte superior de la página.
 2. Realice una búsqueda o haga clic en la transacción deseada.
 
-Al entrar en la transacción, usted encuentra dos cajas que contienen las principales informaciones referentes al pago del pedido. Esta información se actualiza a medida que la transacción avanza en el flujo de pago del Pagos.
+Al entrar en la transacción, tú encuentras dos cajas que contienen las principales informaciones referentes al pago del pedido. Esta información se actualiza a medida que la transacción avanza en el flujo de pago del Pagos.
 
 En el lado derecho hay un cuadro que contiene el valor total del pedido, los datos del cliente, el ID del pedido y el número de identificación del antifraude (si existe en la operación).
 
@@ -67,7 +67,7 @@ En este ejemplo, la operadora regresa con el evento de liquidación del valor, o
 
 ### Error de procesamiento
 
-El ejemplo siguiente muestra una transacción de tarjeta de crédito que generó un error al procesar el adquirente Redecard. Los afiliados suelen devolver un código (`ConnectorCode`) junto a un mensaje. Para encontrar información detallada del error, se recomienda consultar la documentación del adquirente. A través de una búsqueda rápida en Google, usted puede encontrar la lista de códigos y mensajes de cada afiliado.
+El ejemplo siguiente muestra una transacción de tarjeta de crédito que generó un error al procesar el adquirente Redecard. Los afiliados suelen devolver un código (`ConnectorCode`) junto a un mensaje. Para encontrar información detallada del error, se recomienda consultar la documentación del adquirente. A través de una búsqueda rápida en Google, tú puedes encontrar la lista de códigos y mensajes de cada afiliado.
 
 ![2017-01-26 20_23_37-634883 _ VTEX PCI Gateway](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/transacciones/como-visualizar-detalle-del-pedido_5.png)
 
