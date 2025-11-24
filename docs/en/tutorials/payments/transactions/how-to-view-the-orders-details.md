@@ -1,5 +1,5 @@
 ---
-title: "Viewing the order's details in Orders"
+title: "Viewing transaction details in Orders"
 id: tutorials_452
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:24.036Z
