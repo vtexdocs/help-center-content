@@ -12,7 +12,7 @@ locale: pt
 
 ## General
 
-- [Interfaces de usuário](https://contentguide.vtex.com/docs/formatting/computer-interfaces)
-- [Listas e tabelas](https://contentguide.vtex.com/docs/formatting/lists-and-tables)
-- [Títulos e cabeçalhos](https://contentguide.vtex.com/docs/formatting/headings-and-titles)
+- [Interfaces de usuário](https://contentguide.vtex.com/pt/docs/formatting/computer-interfaces)
+- [Listas e tabelas](https://contentguide.vtex.com/pt/docs/formatting/lists-and-tables)
+- [Cabeçalhos e títulos](https://contentguide.vtex.com/pt/docs/formatting/headings-and-titles)
 

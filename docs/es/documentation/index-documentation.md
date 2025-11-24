@@ -12,16 +12,16 @@ locale: es
 
 ## Documentation guidelines
 
-- [Documentation overview](https://contentguide.vtex.com/docs/documentation/documentation-overview)
-- [Contribution guidelines](https://contentguide.vtex.com/docs/documentation/contribution-guidelines)
+- [Diretrices de contribuición](https://contentguide.vtex.com/es/docs/documentation/contribution-guidelines)
+- [Información general](https://contentguide.vtex.com/es/docs/documentation/documentation-overview)
 
 ## Templates
 
-- [Onboarding](https://contentguide.vtex.com/docs/documentation/onboarding-template)
-- [Troubleshooting](https://contentguide.vtex.com/docs/documentation/troubleshooting-template)
-- [App documentation](https://contentguide.vtex.com/docs/documentation/app-documentation-template)
-- [Release notes](https://contentguide.vtex.com/docs/documentation/release-note-template)
-- [How-to guides](https://contentguide.vtex.com/docs/documentation/how-to-guides-template)
-- [Tutorials](https://contentguide.vtex.com/docs/documentation/tutorial-template)
-- [Announcements](https://contentguide.vtex.com/docs/documentation/announcement-template)
-- [Know Issues overview](https://contentguide.vtex.com/docs/documentation/known-issues-overview)
+- [Comunicados](https://contentguide.vtex.com/es/docs/documentation/announcement-template)
+- [Documentación de aplicaciones](https://contentguide.vtex.com/es/docs/documentation/app-documentation-template)
+- [Guías de uso](https://contentguide.vtex.com/es/docs/documentation/how-to-guides-template)
+- [Notas de release](https://contentguide.vtex.com/es/docs/documentation/release-note-template)
+- [Onboarding](https://contentguide.vtex.com/es/docs/documentation/onboarding-template)
+- [Problemas conocidos](https://contentguide.vtex.com/es/docs/documentation/known-issues-overview)
+- [Resolución de problemas](https://contentguide.vtex.com/es/docs/documentation/troubleshooting-template)
+- [Tutoriales](https://contentguide.vtex.com/es/docs/documentation/tutorial-template)

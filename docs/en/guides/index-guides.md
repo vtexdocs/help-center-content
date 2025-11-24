@@ -12,7 +12,7 @@ locale: en
 
 ## General
 
-- [Inclusive language](https://contentguide.vtex.com/docs/guides/inclusive-language)
-- [Product and feature naming](https://contentguide.vtex.com/docs/guides/product-and-feature-naming)
-- [Tone of voice](https://contentguide.vtex.com/docs/guides/tone-of-voice)
-- [US English standard](https://contentguide.vtex.com/docs/guides/us-english-standard)
+- [Inclusive language](https://contentguide.vtex.com/en/docs/guides/inclusive-language)
+- [Product and feature naming](https://contentguide.vtex.com/en/docs/guides/product-and-feature-naming)
+- [Tone of voice](https://contentguide.vtex.com/en/docs/guides/tone-of-voice)
+- [US English standard](https://contentguide.vtex.com/en/docs/guides/us-english-standard)

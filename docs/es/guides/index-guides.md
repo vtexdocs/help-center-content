@@ -12,6 +12,7 @@ locale: es
 
 ## General
 
-- [Lenguaje neutro](https://contentguide.vtex.com/docs/guides/inclusive-language)
-- [Pautas de naming de productos y funcionalidades](https://contentguide.vtex.com/docs/guides/product-and-feature-naming)
-- [Voz y tono](https://contentguide.vtex.com/docs/guides/tone-of-voice)
+- [Estándar inglés americano](https://contentguide.vtex.com/en/docs/guides/us-english-standard)
+- [Lenguaje inclusivo](https://contentguide.vtex.com/es/docs/guides/inclusive-language)
+- [Naming de productos y funcionalidades](https://contentguide.vtex.com/es/docs/guides/product-and-feature-naming)
+- [Tono de voz](https://contentguide.vtex.com/es/docs/guides/tone-of-voice)
