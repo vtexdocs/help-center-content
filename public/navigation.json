@@ -63490,6 +63490,21 @@
             },
             {
               "name": {
+                "en": "Formula promotions use incorrect freight value when shipping discounts are applied",
+                "es": "Las promociones de fórmulas utilizan un valor de flete incorrecto cuando se aplican descuentos de envío",
+                "pt": "As promoções de fórmula usam o valor incorreto do frete quando os descontos de remessa são aplicados"
+              },
+              "slug": {
+                "en": "formula-promotions-use-incorrect-freight-value-when-shipping-discounts-are-applied",
+                "es": "las-promociones-de-formulas-utilizan-un-valor-de-flete-incorrecto-cuando-se-aplican-descuentos-de-envio",
+                "pt": "as-promocoes-de-formula-usam-o-valor-incorreto-do-frete-quando-os-descontos-de-remessa-sao-aplicados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Free shipping promotion being applied on split orders outside promotion restriction",
                 "es": "La promoción de envío gratuito se está aplicando en pedidos divididos fuera de la restricción de la promoción",
                 "pt": "Promoção de remessa gratuita sendo aplicada em pedidos divididos fora da restrição de promoção"
