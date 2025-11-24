@@ -27938,6 +27938,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Banco do Brasil App",
+                    "es": "Configurar pago con Banco do Brasil App",
+                    "pt": "Configurar pagamento com Banco do Brasil App"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-banco-do-brasil-app",
+                    "es": "configurar-pago-con-banco-do-brasil-app",
+                    "pt": "configurar-pagamento-com-banco-do-brasil-app"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Bancolombia BNPL",
                     "es": "Configurar pago con Bancolombia BNPL",
                     "pt": "Configurar pagamento com Bancolombia BNPL"
