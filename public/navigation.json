@@ -30715,8 +30715,8 @@
                 },
                 {
                   "name": {
-                    "en": "Viewing the order's details in Orders",
-                    "es": "Visualizar detalles del pedido en Pedidos",
+                    "en": "Viewing transaction details in Orders",
+                    "es": "Visualizar detalles de la transacción en Pedidos",
                     "pt": "Visualizar detalhes da transação em Pedidos"
                   },
                   "slug": {
