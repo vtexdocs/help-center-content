@@ -19392,21 +19392,6 @@
                 },
                 {
                   "name": {
-                    "en": "Registering the SKUs barcodes for VTEX Sales App",
-                    "es": "Registrar los códigos de barras de los SKUs para el VTEX Sales App",
-                    "pt": "Cadastrar os códigos de barras dos SKUs para o VTEX Sales App"
-                  },
-                  "slug": {
-                    "en": "registering-the-skus-barcode-for-vtex-sales-app",
-                    "es": "registrar-los-codigos-de-barras-de-los-skus-para-el-vtex-sales-app",
-                    "pt": "cadastrar-o-codigo-de-barra-dos-skus-para-o-vtex-sales-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Setting up product comparison",
                     "es": "Configurar la comparación de productos",
                     "pt": "Configurar a comparação de produtos"
