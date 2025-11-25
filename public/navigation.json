@@ -56822,6 +56822,21 @@
             },
             {
               "name": {
+                "en": "Invoice items description in packages overwritten based on invoiceValue rule (Orders/OMS GET Order reconstruction)",
+                "es": "La descripción de los elementos de la factura en los paquetes se sobrescribe en función de la regla invoiceValue (reconstrucción de pedidos/OMS GET Order)",
+                "pt": "Descrição dos itens da fatura em pacotes sobrescritos com base na regra invoiceValue (reconstrução de pedidos/OMS GET Order)"
+              },
+              "slug": {
+                "en": "invoice-items-description-in-packages-overwritten-based-on-invoicevalue-rule-ordersoms-get-order-reconstruction",
+                "es": "la-descripcion-de-los-elementos-de-la-factura-en-los-paquetes-se-sobrescribe-en-funcion-de-la-regla-invoicevalue-reconstruccion-de-pedidosoms-get-order",
+                "pt": "descricao-dos-itens-da-fatura-em-pacotes-sobrescritos-com-base-na-regra-invoicevalue-reconstrucao-de-pedidosoms-get-order"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Issues with My Account links",
                 "es": "Problemas con los enlaces de Mi cuenta",
                 "pt": "Problemas com os links de Minha conta"
@@ -59368,6 +59383,21 @@
                 "en": "giftcard-transaction-api-always-returns-empty-response",
                 "es": "giftcard-transaction-api-siempre-devuelve-una-respuesta-vacia",
                 "pt": "giftcard-transaction-api-sempre-retorna-resposta-vazia"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Giftcard transactions returning empty",
+                "es": "Transacciones con tarjeta regalo vacías",
+                "pt": "Transações de cartões-presente que retornam vazias"
+              },
+              "slug": {
+                "en": "giftcard-transactions-returning-empty",
+                "es": "transacciones-con-tarjeta-regalo-vacias",
+                "pt": "transacoes-de-cartoespresente-que-retornam-vazias"
               },
               "origin": "",
               "type": "markdown",
@@ -63483,6 +63513,21 @@
                 "en": "flag-only-apply-discount-to-the-cheapest-shipping-option-not-working-as-expected",
                 "es": "la-bandera-aplicar-el-descuento-solo-a-la-opcion-de-envio-mas-barata-no-funciona-como-se-esperaba",
                 "pt": "bandeira-aplicar-desconto-apenas-a-opcao-de-remessa-mais-barata-nao-funcionando-como-esperado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Formula promotions use incorrect freight value when shipping discounts are applied",
+                "es": "Las promociones de fórmulas utilizan un valor de flete incorrecto cuando se aplican descuentos de envío",
+                "pt": "As promoções de fórmula usam o valor incorreto do frete quando os descontos de remessa são aplicados"
+              },
+              "slug": {
+                "en": "formula-promotions-use-incorrect-freight-value-when-shipping-discounts-are-applied",
+                "es": "las-promociones-de-formulas-utilizan-un-valor-de-flete-incorrecto-cuando-se-aplican-descuentos-de-envio",
+                "pt": "as-promocoes-de-formula-usam-o-valor-incorreto-do-frete-quando-os-descontos-de-remessa-sao-aplicados"
               },
               "origin": "",
               "type": "markdown",
