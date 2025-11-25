@@ -1,5 +1,5 @@
 ---
-title: 'Breaking change Livelo: Nova permissão de acesso obrigatória'
+title: 'Breaking change Livelo: New mandatory access permission '
 status: PUBLISHED
 createdAt: 2025-12-02T16:08:37.645Z
 updatedAt: 2025-12-02T16:08:37.645Z
