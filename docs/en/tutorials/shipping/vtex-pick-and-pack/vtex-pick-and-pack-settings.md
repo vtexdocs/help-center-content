@@ -45,7 +45,7 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 
 In this section, you can configure settings for orders processed by VTEX Pick and Pack.
 
-![vtex-pick-and-pack-settings_1](/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_1.png)
+![vtex-pick-and-pack-settings_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_1.png)
 
 - **Download orders from OMS**: Allows exporting orders from the VTEX Orders module.
 
@@ -70,7 +70,7 @@ In this section, you can configure the settings that will be applied to store [w
 
 ### General
 
-![vtex-pick-and-pack-settings_2](/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_2.png)
+![vtex-pick-and-pack-settings_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_2.png)
 
 - **Single order**: Limits each worksheet to a single order.
 - **Multi order**: Allows a worksheet to group more than one order.
@@ -99,7 +99,7 @@ Click `Save` to save the changes in the section.
 
 ### Picking
 
-![vtex-pick-and-pack-settings_3](/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_3.png)
+![vtex-pick-and-pack-settings_3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_3.png)
 
 - **Show order information tab**: Displays the order information tab to the picker in the worksheet, both in the [VTEX Admin](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-ordens-de-servico--7bUwvmTY6eOqxzhyMIIzvz) or in the [Pick and Pack mobile app](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#ordens-de-servico-pendentes).
 - **Show customer information per order**: Displays the customer information tab to the picker.
@@ -127,9 +127,9 @@ In this section, you'll find the packing settings for order items.
 
 ### General
 
-![vtex-pick-and-pack-settings_4](/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_4.png)
+![vtex-pick-and-pack-settings_4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_4.png)
 
-![vtex-pick-and-pack-settings_5](/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_5.png)
+![vtex-pick-and-pack-settings_5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_5.png)
 
 - **Enable packing process**: Enables the [packing flow](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#empacotamento) performed for the picker.
 - **Enable packages report**: Enables displaying a report about the packages. This option is currently disabled.
@@ -159,7 +159,7 @@ Click `Save` to save the changes in the section.
 
 ### Packaging types
 
-![vtex-pick-and-pack-settings_6](/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_6.png)
+![vtex-pick-and-pack-settings_6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_6.png)
 
 This page is organized as follows:
 
@@ -220,7 +220,7 @@ In this section, you'll find the item settings displayed in the VTEX Pick and Pa
 
 In this section, you can define the item details that will be shown in the mobile app and add other information to help the picker locate items.
 
-![itens-geral-en](/docs/en/tutorials/shipping/vtex-pick-and-pack/itens-geral-en.png)
+![vtex-pick-and-pack_15](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack_15.png)
 
 - **Item card information in picking app**: Information about the products that will be displayed on the item card in the [Pick and Pack mobile app](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet).
 - **Enable item transfer**: Allows fulfilling an item from a location different from the facility that was originally specified.
@@ -242,7 +242,7 @@ In this section, you can define the item details that will be shown in the mobil
 
 In this section, you will define the product category hierarchy that will be displayed in the mobile app. The configured list is used to sort items when picking using the Pick and Pack mobile app.
 
-![categorias-en](/docs/en/tutorials/shipping/vtex-pick-and-pack/categorias-en.png)
+![vtex-pick-and-pack_13](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack_13.png)
 
 - **All facilities**: Defines the facilities that will have the categories available. If there are differences between the selected facilities, a warning is displayed indicating that the new setting will replace existing settings.
 - **Available categories**: Full category tree from the catalog. When you select facilities, categories that were previously saved are loaded.
@@ -321,7 +321,7 @@ To edit an item, follow the steps below:
 3. Click the item you want to edit.
 4. Edit the item information:
 
-    ![item-en](/docs/en/tutorials/shipping/vtex-pick-and-pack/item-en.png)
+    ![vtex-pick-and-pack_14](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack_14.png)
 
    - **EAN codes**
    - **SKU codes**
@@ -345,7 +345,7 @@ In this section, you'll find the automation settings for VTEX Pick and Pack proc
 
 In this section, you can configure worksheet automations.
 
-![automacao-en](/docs/en/tutorials/shipping/vtex-pick-and-pack/automacao-en.png)
+![vtex-pick-and-pack_10](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack_10.png)
 
 To create a new automation, follow the steps below:
 
@@ -371,7 +371,7 @@ To update or delete an automation, follow the steps below:
 
 In this section, you can configure order automations.
 
-![automacao2-en](/docs/en/tutorials/shipping/vtex-pick-and-pack/automacao2-en.png)
+![vtex-pick-and-pack_11](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack_11.png)
 
 To create a new automation, follow the steps below:
 
@@ -397,7 +397,7 @@ To update or delete an automation, follow the steps below:
 
 In this section, you can configure shipping automations.
 
-![automacao3-en](/docs/en/tutorials/shipping/vtex-pick-and-pack/automacao3-en.png)
+![vtex-pick-and-pack_12](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack_12.png)
 
 To create a new automation, follow the steps below:
 
@@ -423,7 +423,7 @@ To update or delete an automation, follow the steps below:
 
 In this section, you can manage the pickers in your VTEX Pick and Pack operation. Users with **Picker** permissions can only access the VTEX Pick and Pack app.
 
-![vtex-pick-and-pack-settings_7](/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_7.png)
+![vtex-pick-and-pack-settings_7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_7.png)
 
 To create a new user, follow the steps below:
 
@@ -456,7 +456,7 @@ In this section, you can set up webhooks for the mobile app. Webhooks work as an
 
 The system gathers event information, such as order ID, current and previous status, date, and other details, and sends everything to the configured address. You can also limit notifications by facility. In that case, the webhook is only triggered for events related to the selected units.
 
-![vtex-pick-and-pack-settings_8](/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_8.png)
+![vtex-pick-and-pack-settings_8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_8.png)
 
 To create a new webhook, follow the steps below:
 
@@ -490,6 +490,6 @@ To edit or delete a webhook, follow the steps below:
 
 In this section, you can generate an API key to use the JWT authentication endpoints for the Pick and Pack API and the Pick and Pack Last Mile Protocol API.
 
-![vtex-pick-and-pack-settings_9](/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_9.png)
+![vtex-pick-and-pack-settings_9](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_9.png)
 
 To generate a new API key, click `Generate`.
