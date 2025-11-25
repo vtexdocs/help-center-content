@@ -40606,6 +40606,21 @@
             },
             {
               "name": {
+                "en": "Catalog Search inconsistencies may not return products due to an indexing issue",
+                "es": "Es posible que la búsqueda en el catálogo no devuelva los productos debido a un problema de indexación.",
+                "pt": "As inconsistências da Pesquisa de catálogo podem não retornar produtos devido a um problema de indexação"
+              },
+              "slug": {
+                "en": "catalog-search-inconsistencies-may-not-return-products-due-to-an-indexing-issue",
+                "es": "es-posible-que-la-busqueda-en-el-catalogo-no-devuelva-los-productos-debido-a-un-problema-de-indexacion",
+                "pt": "as-inconsistencias-da-pesquisa-de-catalogo-podem-nao-retornar-produtos-devido-a-um-problema-de-indexacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Catalog Select brand in catalog doesn't work",
                 "es": "Catálogo Seleccionar marca en catálogo no funciona",
                 "pt": "Catalog Selecionar marca no catálogo não funciona"
