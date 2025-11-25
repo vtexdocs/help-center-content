@@ -21,7 +21,7 @@ Utilizando o **Sales App**, vendedores de lojas físicas podem atender clientes 
 
 Este artigo explica como gerenciar cupons fiscais para pedidos realizados no **Sales App**.
 
-No Brasil, impostos estaduais e federais são incluídos no valor dos produtos. Essas informações devem ser cadastradas como [especificações](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) nos produtos da sua loja. Dessa forma, o VTEX Sales App envia qualquer especificação de produto para o pedido final, onde os middlewares de integração - um software que age como uma ponte entre componentes de um ecommerce - podem usá-la no momento em que forem emitir os cupons fiscais.
+No Brasil, impostos estaduais e federais são incluídos no valor dos produtos. Essas informações devem ser cadastradas como [especificações](https://help.vtex.com/pt/docs/tracks/especificacoes-definicao-de-conceito) nos produtos da sua loja. Dessa forma, o VTEX Sales App envia qualquer especificação de produto para o pedido final, onde os middlewares de integração - um software que age como uma ponte entre componentes de um ecommerce - podem usá-la no momento em que forem emitir os cupons fiscais.
 
 Um exemplo é a Nomenclatura Comum do Mercosul (NCM), que define a alíquota de impostos comum ao bloco. Durante o cadastro de produtos a serem disponibilizados no ecommerce, você encontra [esse campo no Catálogo como **Código fiscal**](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-produto). Contudo, o **Sales App** busca essa informação como uma especificação de produto chamada NCM.
 
