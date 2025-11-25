@@ -30,7 +30,7 @@ __Configuración__ es una página del Admin VTEX donde puedes realizar los ajust
 
 En esta sección puedes configurar los ajustes relacionados con los pedidos procesados por **VTEX Pick and Pack**.
 
-![pick-pack-config-pedidos-es](/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_1.png)
+![vtex-pick-and-pack-configuracion_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_1.png)
 
 * **Descargar pedidos del OMS:** permite exportar pedidos desde el OMS.
 
@@ -55,7 +55,7 @@ En esta sección puedes definir las opciones que se aplicarán a las [hojas de t
 
 ### General
 
-![vtex-pick-and-pack-configuracion_2](/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_2.png)
+![vtex-pick-and-pack-configuracion_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_2.png)
 
 - **Pedido único**: opción que limita cada hoja de trabajo a un solo pedido.
 - **Pedidos múltiples**: opción que permite gestionar varios pedidos en una misma hoja de trabajo.
@@ -84,7 +84,7 @@ Haz clic en `Guardar` para registrar los cambios realizados.
 
 ### Alistamiento
 
-![vtex-pick-and-pack-configuracion_3](/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_3.png)
+![vtex-pick-and-pack-configuracion_3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_3.png)
 
 - **Mostrar pestaña de información de pedidos**: opción que exhibe la pestaña de información del pedido en la [hoja de trabajo](https://help.vtex.com/es/docs/tutorials/vtex-pick-and-pack-hojas-de-trabajo) del alistador, tanto en el Admin VTEX como en la [aplicación móvil de Pick and Pack](https://help.vtex.com/es/docs/tutorials/vtex-pick-and-pack-mobile#ordens-de-servico-pendentes).
 - **Mostrar información del cliente por pedido**: opción que exhibe la pestaña de información del cliente para el alistador.
@@ -112,7 +112,7 @@ En esta sección se definen los ajustes correspondientes a la etapa de empaque d
 
 ### General
 
-![vtex-pick-and-pack-configuracion_4](/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_4.png)
+![vtex-pick-and-pack-configuracion_4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_4.png)
 
 - **Activar proceso de empaque**: opción que inicia el [flujo de empaque](https://help.vtex.com/es/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#empacotamento) a ser realizado por el alistador.
 - **Activar informe de paquetes**: opción que permite exhibir un informe sobre los paquetes. Esta opción se encuentra actualmente deshabilitada.
@@ -142,7 +142,7 @@ Haz clic en `Guardar` para registrar los cambios realizados.
 
 ### Tipos de empaque
 
-![vtex-pick-and-pack-configuracion_6](/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_6.png)
+![vtex-pick-and-pack-configuracion_6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_6.png)
 
 La página está organizada de la siguiente manera:
 
@@ -203,7 +203,7 @@ En esta sección encontrarás la configuración de los ítems que se muestran en
 
 En esta sección se define la información de los ítems que se mostrará en la aplicación móvil y se pueden agregar datos adicionales que ayuden al alistador a localizar el ítem.
 
-![itens-geral-es](/docs/es/tutorials/envío/vtex-pick-and-pack/itens-geral-es.png)
+![vtex-pick-and-pack-configuracion_15](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_15.png)
 
 - **Información del ítem que se mostrará en la aplicación de alistamiento**: información de los productos que aparecen en la ficha de los ítems en la [aplicación móvil de Pick and Pack](https://help.vtex.com/es/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet).
 - **Activar transferencia de ítems**: opción que permite entregar un ítem desde una ubicación diferente a la instalación especificada originalmente.
@@ -225,7 +225,7 @@ En esta sección se define la información de los ítems que se mostrará en la 
 
 En esta sección puedes definir la jerarquía de las categorías de productos que se mostrará en la aplicación móvil. La lista definida se utiliza para ordenar los ítems durante el alistamiento en la aplicación móvil Pick and Pack.
 
-![categorias-es](/docs/es/tutorials/envío/vtex-pick-and-pack/categorias-es.png)
+![vtex-pick-and-pack-configuracion_13](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_13.png)
 
 - **Todas las instalaciones**: selección para definir las instalaciones que tendrán las categorías disponibles. Si hay diferencias entre las instalaciones seleccionadas, se muestra una alerta indicando que la nueva configuración reemplazará las existentes.
 - **Categorías disponibles**: árbol completo de categorías del catálogo. Al seleccionar las instalaciones, se cargan las categorías previamente guardadas.
@@ -270,7 +270,7 @@ En esta sección puedes realizar una actualización en masa e indexar el catálo
 
 >ℹ️ En la configuración inicial de Pick and Pack, se debe realizar primero la **actualización masiva del catálogo** y, a continuación, su **indexación**.
 
-![indexar-es](/docs/es/tutorials/envío/vtex-pick-and-pack/indexar-es.png)
+![vtex-pick-and-pack-configuracion_16](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_16.png)
 
 La página está organizada de la siguiente manera:
 
@@ -306,7 +306,7 @@ Para editar la información de un ítem, sigue los pasos a continuación:
 3. Haz clic en el ítem que deseas editar.
 4. Edita la información del ítem:
 
-    ![item-es](/docs/es/tutorials/envío/vtex-pick-and-pack/item-es.png)
+    ![vtex-pick-and-pack-configuracion_14](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_14.png)
 
    - **Códigos EAN**
    - **Códigos SKU**
@@ -329,7 +329,7 @@ En esta sección puedes configurar los ajustes de automatización de procesos de
 
 En esta sección puedes configurar automatizaciones relacionadas con hojas de trabajo.
 
-![automacao-es](/docs/es/tutorials/envío/vtex-pick-and-pack/automacao-es.png)
+![vtex-pick-and-pack-configuracion_10](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_10.png)
 
 Sigue los pasos a continuación para crear una nueva automatización:
 
@@ -355,7 +355,7 @@ Para actualizar o eliminar una automatización, sigue los pasos a continuación:
 
 En esta sección puedes configurar automatizaciones relacionadas con pedidos.
 
-![automacao2-es](/docs/es/tutorials/envío/vtex-pick-and-pack/automacao2-es.png)
+![vtex-pick-and-pack-configuracion_11](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_11.png)
 
 Para crear una nueva automatización, sigue los pasos a continuación:
 
@@ -381,7 +381,7 @@ Para actualizar o eliminar una automatización, sigue los pasos a continuación:
 
 En esta sección puedes configurar automatizaciones relacionadas con los envíos de pedidos.
 
-![automacao3-es](/docs/es/tutorials/envío/vtex-pick-and-pack/automacao3-es.png)
+![vtex-pick-and-pack-configuracion_12](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_12.png)
 
 Sigue los pasos a continuación para crear una nueva automatización:
 
@@ -407,7 +407,7 @@ Sigue los pasos a continuación para actualizar o eliminar una automatización:
 
 En esta sección puedes gestionar los alistadores de tu operación VTEX Pick and Pack. Los usuarios con el permiso **Alistador** solo tendrán acceso a la aplicación VTEX Pick and Pack.
 
-![vtex-pick-and-pack-configuracion_7](/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_7.png)
+![vtex-pick-and-pack-configuracion_7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_7.png)
 
 Para crear un nuevo usuario, sigue los pasos a continuación:
 
@@ -438,7 +438,7 @@ En esta sección puedes configurar integraciones con la aplicación móvil de Pi
 
 En esta sección puedes configurar webhooks para la aplicación móvil. Un webhook es una notificación automática que Pick and Pack envía a una URL cada vez que hay algún cambio en el flujo, como la facturación de un pedido o cambio de status de una hoja de trabajo.
 
-![vtex-pick-and-pack-configuracion_8](/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_8.png)
+![vtex-pick-and-pack-configuracion_8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_8.png)
 
 El sistema agrupa la información del evento, como el ID del pedido, status actual y anterior, fecha y otros detalles, y envía todo a la dirección configurada. También puede limitarse el envío por instalaciones. En ese caso, el webhook solo se dispara para eventos relacionados con esas instalaciones.
 
@@ -472,6 +472,6 @@ Para editar o eliminar un webhook, sigue los pasos a continuación:
 
 En esta sección puedes generar una clave de API para utilizar los endpoints de autenticación utilizando el JWT de la API de Pick and Pack y la API de Pick and Pack Last Mile Protocol.
 
-![vtex-pick-and-pack-configuracion_9](/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_9.png)
+![vtex-pick-and-pack-configuracion_9](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-configuracion_9.png)
 
 Para generar una nueva clave de API, haz clic en `Generar`.
