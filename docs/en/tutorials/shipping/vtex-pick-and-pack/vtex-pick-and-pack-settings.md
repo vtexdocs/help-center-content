@@ -220,7 +220,7 @@ In this section, you'll find the item settings displayed in the VTEX Pick and Pa
 
 In this section, you can define the item details that will be shown in the mobile app and add other information to help the picker locate items.
 
-![vtex-pick-and-pack_15](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack_15.png)
+![vtex-pick-and-pack-settings_15](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_15.png)
 
 - **Item card information in picking app**: Information about the products that will be displayed on the item card in the [Pick and Pack mobile app](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet).
 - **Enable item transfer**: Allows fulfilling an item from a location different from the facility that was originally specified.
@@ -242,7 +242,7 @@ In this section, you can define the item details that will be shown in the mobil
 
 In this section, you will define the product category hierarchy that will be displayed in the mobile app. The configured list is used to sort items when picking using the Pick and Pack mobile app.
 
-![vtex-pick-and-pack_13](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack_13.png)
+![vtex-pick-and-pack-settings_13](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_13.png)
 
 - **All facilities**: Defines the facilities that will have the categories available. If there are differences between the selected facilities, a warning is displayed indicating that the new setting will replace existing settings.
 - **Available categories**: Full category tree from the catalog. When you select facilities, categories that were previously saved are loaded.
@@ -321,7 +321,7 @@ To edit an item, follow the steps below:
 3. Click the item you want to edit.
 4. Edit the item information:
 
-    ![vtex-pick-and-pack_14](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack_14.png)
+    ![vtex-pick-and-pack-settings_14](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_14.png)
 
    - **EAN codes**
    - **SKU codes**
@@ -345,7 +345,7 @@ In this section, you'll find the automation settings for VTEX Pick and Pack proc
 
 In this section, you can configure worksheet automations.
 
-![vtex-pick-and-pack_10](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack_10.png)
+![vtex-pick-and-pack-settings_10](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_10.png)
 
 To create a new automation, follow the steps below:
 
@@ -371,7 +371,7 @@ To update or delete an automation, follow the steps below:
 
 In this section, you can configure order automations.
 
-![vtex-pick-and-pack_11](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack_11.png)
+![vtex-pick-and-pack-settings_11](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_11.png)
 
 To create a new automation, follow the steps below:
 
@@ -397,7 +397,7 @@ To update or delete an automation, follow the steps below:
 
 In this section, you can configure shipping automations.
 
-![vtex-pick-and-pack_12](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack_12.png)
+![vtex-pick-and-pack-settings_12](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_12.png)
 
 To create a new automation, follow the steps below:
 
