@@ -8,7 +8,7 @@ contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: 2025-12-02-breaking-change-livelo-new-mandatory-access-permission
-locale: pt
+locale: en
 legacySlug: 
 announcementImageID: 
 announcementSynopsisEN: 'New mandatory permission to access the Livelo app in version 2.x of the connector.'
