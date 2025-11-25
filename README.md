@@ -39,9 +39,9 @@ You will find the following folders in this repository:
 
 In this document we will address the following topics related to the Help Center Portal:
 
-- [Publishing new articles](#publishing-a-new-article)
-- [Updating published articles](#updating-a-published-article)
-- [Creating redirects](#creating-a-redirect)
+- [Publishing a new article](#publishing-a-new-article)
+- [Updating a published article](#updating-a-published-article)
+- [Creating a redirect](#creating-a-redirect)
 - [Settings for specific content](#settings-for-specific-content)
 
 ### Publishing a new article
@@ -52,12 +52,12 @@ Follow the steps below to create a new article in the Help Center:
 2. Add a new file in the [desired folder](#in-this-repository), and write the content of the article according to the [Template --> TBD](https://github.com/vtexdocs/dev-portal-content/blob/main/templates/guide_template.md).
     > ⚠️ Make sure the file name (slug) is unique and an exact copy of the article slug.
 
-3. [Add images](#adding-an-image-to-the-article) to the article, if necessary.
+3. [Add images](#adding-images) to the article, if necessary.
 3. Fill in the [front matter](#filling-in-front-matter-information) of the article.
 4. Submit your PR for review on GitHub.
 5. Send the PR link in the `#dev-portal-pr` Slack channel for review by another technical writer.
 6. After review, register the PR link in the `Document Link` field of the JIRA task and request the translation of the content, moving the card status to `Translating`.
-7. Once the translations are complete, check the contents of the two files created by the localization team in the folders corresponding to each locale (EN and ES) of the repository. If the article in the PT version contains images, repeat this [procedure](#adding-an-image-to-the-article) to insert them into the EN and ES versions.
+7. Once the translations are complete, check the contents of the two files created by the localization team in the folders corresponding to each locale (EN and ES) of the repository. If the article in the PT version contains images, repeat this [procedure](#adding-images) to insert them into the EN and ES versions.
 8. Approve the PR and apply the merge to publish the article.
 9. Follow the [instructions](#https://github.com/vtexdocs/helpcenter/blob/main/README.md#navigation-sidebar) available in the [README](https://github.com/vtexdocs/helpcenter/blob/main/README.md) file of the `help-center` repository to update the portal navigation sidebar, adding the link for the newly published article.
 
