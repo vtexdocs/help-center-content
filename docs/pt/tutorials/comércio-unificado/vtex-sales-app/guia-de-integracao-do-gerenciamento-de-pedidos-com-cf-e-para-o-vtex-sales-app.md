@@ -34,4 +34,4 @@ Quaisquer outros dados fiscais necessários para seu cenário de negócio, como 
 * **Via API:** confira [How to create a specification](https://developers.vtex.com/vtex-rest-api/docs/how-to-create-a-specification).
 * **Via Admin VTEX:** veja [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto).
 
-Para consultar os pedidos faturados realizados no **Sales App**, no Admin VTEX acesse **Pedidos > Todos os pedidos** e [filtre seus pedidos](https://help.vtex.com/pt/docs/tutorials/filtrar-todos-pedidos) usando o filtro **Outros > InStore > true**.
+Para consultar os pedidos faturados realizados no **Sales App**, no Admin VTEX acesse **Pedidos > Todos os pedidos** e [filtre seus pedidos](https://help.vtex.com/pt/docs/tutorials/filtrar-todos-pedidos) usando o filtro **Outros > inStore > true**.
