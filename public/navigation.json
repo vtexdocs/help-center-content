@@ -950,8 +950,8 @@
               "children": [
                 {
                   "name": {
-                    "en": "Breaking change Livelo: Nova permissão de acesso obrigatória",
-                    "es": "Breaking change Livelo: Nova permissão de acesso obrigatória",
+                    "en": "Breaking change Livelo: New mandatory access permission ",
+                    "es": "Breaking change Livelo: Nuevo permiso obligatorio",
                     "pt": "Breaking change Livelo: Nova permissão de acesso obrigatória"
                   },
                   "slug": {
