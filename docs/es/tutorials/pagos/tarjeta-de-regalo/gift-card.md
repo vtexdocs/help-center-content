@@ -15,12 +15,12 @@ locale: es
 subcategoryId: 3qWeS7abxCyC0G0GMq42gA
 ---
 
-GiftCard, tarjeta de regalo o vale de compra es uno de los recursos del Módulo de Pagos que puede funcionar de dos maneras: 
+Gift card, tarjeta de regalo o vale de compra es uno de los recursos del Módulo de Pagos que puede funcionar de dos maneras:
 
 - Medio de pago para compras.
 - Programa de fidelidad que el administrador de la tienda puede conectar con el sistema VTEX.
 
-Para conocer más detalles sobre la segunda opción de uso, consulte nuestra documentación técnica sobre [cómo integrar con GiftCard](/es/tutorial/integrando-com-gift-card?locale=pt).  
+Para conocer más detalles sobre la segunda opción de uso, consulte nuestra documentación técnica sobre [cómo integrar con gift card](/es/tutorial/integrando-com-gift-card?locale=pt).
 
 ## Cómo crear el vale de compra por el Admin
 
@@ -31,12 +31,12 @@ Para crear un nuevo vale de compra, siga los pasos a continuación:
   <li>En el Admin VTEX, accede a **Promociones > Tarjetas de regalo**, o escribe __**Tarjetas de regalo** en la barra de búsqueda en la parte superior de la página.</li>
   <br>
   <li>Haga clic en el botón azul **Nuevo vale**.</li>
-  <br>   
+  <br>
 > ℹ️ En la pantalla de creación del vale, el campo **Vale** es llenado automáticamente por el sistema VTEX con el código ID del nuevo vale. Este es el código que debe ingresar el cliente en la pantalla de checkout para aplicar el vale al carrito y reducir el valor de pago del pedido.
 <br>
   <li>Complete los campos presentados de acuerdo con las orientaciones que se indican a continuación:</li>
   <br>
-<ul>  
+<ul>
   <li>**Valor**: valor nominal que se concederá para el uso del vale.</li>
   <li>**Código de moneda**: moneda en la que se creará el vale. Las opciones disponibles para la selección se presentan de acuerdo con las políticas comerciales de cada tienda.</li>
   <li>**Fecha de vencimiento**: es la fecha de vigencia de uso del vale.</li>
@@ -48,7 +48,7 @@ Para crear un nuevo vale de compra, siga los pasos a continuación:
 
 > ❗ La funcionalidad de creación de tarjetas de regalo por colecciones de productos no está funcionando. Hay más información sobre este problema en el artículo [Collection functionality doesn't work on Giftcard](https://help.vtex.com/en/known-issues/collection-functionality-doesnt-work-on-giftcard).
 
-Después de completar los campos correctamente, el usuario puede seleccionar hasta tres opciones de configuración: 
+Después de completar los campos correctamente, el usuario puede seleccionar hasta tres opciones de configuración:
 <ul>
   <li>**Restricto**: solo el cliente que hace referencia al CPF o CNPJ informado anteriormente puede usar este vale.</li>
   <li>**Recargable**: mientras este vale esté disponible, su saldo puede alterarse.</li>
@@ -80,11 +80,11 @@ Para crear más de un nuevo vale de compra al mismo tiempo (un lote), siga los p
 <br>
 > ⚠️ **Atención**: los campos “Cantidad de vales”, “Valor” y “Fecha de vencimiento” deben completarse de forma **obligatoria**. De lo contrario, los vales no se guardarán.
 <br>
-> ❗ La funcionalidad de creación de tarjetas de regalo por colecciones de productos no está funcionando. Hay más información sobre este problema en el artículo [Restricting the use of GiftCards to a collection of products does not work](/es/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
+> ❗ La funcionalidad de creación de tarjetas de regalo por colecciones de productos no está funcionando. Hay más información sobre este problema en el artículo [Collection functionality doesn't work on Giftcard](https://help.vtex.com/known-issues/collection-functionality-doesnt-work-on-giftcard).
 <br>
   <li>**Recargable**: mientras estos vales estén disponibles, sus saldos pueden alterarse.</li>
   <li>**Reutilizable**: puede hacer nuevas compras con estos vales hasta que sus valores sean utilizados en su totalidad.</li>
-</ul><br>  
+</ul><br>
   <li>Haga clic en el botón **Guardar**.</li>
 <br>
 Aparecerá una nueva pantalla confirmando que se ha generado el número solicitado de vales y también se mostrarán sus identificaciones.<br>
@@ -94,7 +94,7 @@ Aparecerá una nueva pantalla confirmando que se ha generado el número solicita
 > ℹ️ La creación de cupones no tiene límite, sin embargo, solo se pueden exportar 8000 cupones a la vez.
   </ol>
 
-## Cómo configurar un Vale de Compra como un método de pago 
+## Cómo configurar un Vale de Compra como un método de pago
 
 Después de crear el vale de compra, debe configurarse como método de pago. De esta manera, sus clientes podrán usarlo en el Checkout.
 
@@ -112,15 +112,12 @@ Siga los pasos a continuación para configurar el vale de compra:
 10. Active la condición en el campo __Status__.
 11. En __Procesar con afiliación__, seleccione el proveedor de giftcard deseado.
 12. Si desea utilizar un sistema antifraude, seleccione la opción __Utilizar antifraude__.
-13. Haga clic en `Salvar`.
-
-También puede agregar condiciones especiales de pago a su Vale de Compra. No hay límites en las condiciones que pueden aplicarse a un método de pago, especificamos cómo configurar cada una de estas [aquí](/es/tutorial/condicoes-especiais--tutorials_456?locale=es). 
-
-Para finalizar, haga clic en el botón azul __“Salva”__ para guardar las configuraciones.
+13. Si desea, puede [configurar condiciones especiales de pago](https://help.vtex.com/es/docs/tutorials/condiciones-especiales).
+14. Haga clic en `Salvar`.
 
 ## Cómo gestionar el vale
 
-Una vez creado el vale, puede ser gestionado de algunas formas a través del Admin. De este modo, el usuario puede: 
+Una vez creado el vale, puede ser gestionado de algunas formas a través del Admin. De este modo, el usuario puede:
 
 - Agregar o quitar valor, siempre y cuando el vale sea "Recargable".
 - Ver el estado de cuenta.

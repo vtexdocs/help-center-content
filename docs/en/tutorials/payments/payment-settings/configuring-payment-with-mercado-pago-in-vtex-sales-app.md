@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the payment provider Mercado Pago. Through this connector, your store can offer payment transactions in physical stores (VTEX Sales App), using points of sale (POS). For more information access [What is VTEX Sales App?](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
+At VTEX, it is possible to integrate with the payment provider Mercado Pago. Through this connector, your store can offer payment transactions in physical stores (VTEX Sales App), using points of sale (POS). For more information access [What is VTEX Sales App?](https://help.vtex.com/docs/tracks/vtex-sales-app-getting-started-and-setting-up).
 
 > ℹ️ To use the MercadoPagoV2 provider in your store through other online sales channels (except VTEX Sales App), visit [Setting up payments with MercadoPagoV2](/en/tutorial/setting-up-mercadopagov2-sub-acquirer--1y6k8lCSzJYfPs2yObNFo4).
 
@@ -30,7 +30,7 @@ To use the MercadoPagoV2 provider in the VTEX Sales App, you need to:
 
 ## Configure keys in the Mercado Pago environment
 
-The following steps describe the minimum configurations to be carried out so that the MercadoPagoV2 connector is properly configured. Other personalized settings applied to customers, enabling specific payment methods or particular features of the platform, must be carried out in accordance with [Mercado Pago documentation](https://www.mercadopago.com.br/developers/en/docs/vtex/integration/create-gateway-affiliation-v2).
+The following steps describe the minimum configurations to be carried out so that the MercadoPagoV2 connector is properly configured. Other personalized settings applied to customers, enabling specific payment methods or particular features of the platform, must be carried out in accordance with [Mercado Pago documentation](https://www.mercadopago.com.br/developers/en/docs/vtex/create-application).
 
 <blockquote><ui>1. Access the [Mercado Pago developer portal](https://www.mercadopago.com.br/developers/en) to create a new account.</ui>
 

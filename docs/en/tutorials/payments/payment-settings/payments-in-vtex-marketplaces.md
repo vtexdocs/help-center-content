@@ -41,35 +41,31 @@ See below for the necessary configurations to create commissions for sellers and
 
 When you [Add a seller](/en/tutorial/adicionar-seller--tutorials_392), the marketplace configures commissions by product, freight, or category for their orders. To configure commissions for your sellers, follow the steps below in the VTEX Admin.
 
-1. In the VTEX Admin, go to **Marketplace** > **Management**, or type **Management** in the search bar at the top of the page.
-2. Select a seller from the list and click on `Edit/View`.    
-_If you are using a different version of the Management page, just click on the name of the desired seller._    
-3. Edit the fields in the **Commissions** section.   
-_If you are using a different version of the Management page, edit the fields in the **Commercial Agreements** section._  
-4. Click on `Save`.  
+1. In the VTEX Admin, go to __Marketplace > Management__, or type __Management__ in the search bar at the top of the page.
+2. Select a seller from the list and click on `Edit/View`. If you are using a different version of the Management page, just click on the name of the desired seller.
+3. Edit the fields in the __Commissions__ section. If you are using a different version of the Management page, edit the fields in the __Commercial Agreements__ section.
+4. Click on `Save`.
 
 ### VTEX Marketplace
 
 For the marketplace system to process payments, you need to access the [Payments](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) section in the VTEX environment and configure the following:
 
-- [Gateway affiliations](/en/tutorial/afiliacoes-de-gateway)  
-- [Payment conditions](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3)  
-- [Payment connector](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/7pAEMAo4iqNHwYOarZ3zgm)  
-- [Anti-fraud solution](/en/tutorial/como-configurar-antifraude--tutorials_446)  
+- [Payment providers](https://help.vtex.com/docs/tracks/configuring-payment-connectors)
+- [Payment conditions](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3)
+- [Anti-fraud solution](/en/tutorial/como-configurar-antifraude--tutorials_446)
 
-To finish configuring a marketplace as the payment processor, when [Configuring an affiliate](/en/tutorial/como-configurar-afiliado--tutorials_187), the **Use my payment method** option must be unchecked.
+To finish configuring a marketplace as the payment processor, when [Configuring an affiliate](/en/tutorial/como-configurar-afiliado--tutorials_187), the __Use my payment method__ option must be unchecked.
 
 ### VTEX Seller processing payments
 
-For the seller's system to process payments, the seller needs to access the[ Payments](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) section in the VTEX environment and configure the steps described in this article. This option also applies to physical stores registered as white label sellers.
+For the seller's system to process payments, the seller needs to access the [Payments](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) section in the VTEX environment and configure the steps described in this article. This option also applies to physical stores registered as white label sellers.
 
-- [Trade policies for marketplaces](/en/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)  
-- [Gateway affiliations](/en/tutorial/afiliacoes-de-gateway)  
-- [Payment conditions](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3)  
-- [Payment connector](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/7pAEMAo4iqNHwYOarZ3zgm)  
-- [Anti-fraud solution](/en/tutorial/como-configurar-antifraude--tutorials_446)  
+- [Trade policies for marketplaces](/en/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)
+- [Payment providers](https://help.vtex.com/docs/tracks/configuring-payment-connectors)
+- [Payment conditions](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3)
+- [Anti-fraud solution](/en/tutorial/como-configurar-antifraude--tutorials_446)
 
-Once the Payments system is configured, when [Configuring an affiliate](/en/tutorial/como-configurar-afiliado--tutorials_187) for the marketplace in question, the seller needs to select the **Use my payment method** option.
+Once the Payments system is configured, when [Configuring an affiliate](/en/tutorial/como-configurar-afiliado--tutorials_187) for the marketplace in question, the seller needs to select the __Use my payment method__ option.
 
 ## Learn more
 

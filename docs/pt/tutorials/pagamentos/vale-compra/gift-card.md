@@ -15,12 +15,12 @@ locale: pt
 subcategoryId: 3qWeS7abxCyC0G0GMq42gA
 ---
 
-O GiftCard ou vale-presente é um dos recursos do módulo de Pagamentos que pode funcionar de duas formas:
+O gift card ou vale-presente é um dos recursos do módulo de Pagamentos que pode funcionar de duas formas:
 
-- Meio de pagamento para compras; 
-- Programa de fidelidade que o lojista pode conectar com o sistema VTEX. 
+- Meio de pagamento para compras;
+- Programa de fidelidade que o lojista pode conectar com o sistema VTEX.
 
-Para saber mais detalhes sobre a segunda opção de uso, verifique nossa documentação técnica sobre [como integrar com o GiftCard](/pt/tutorial/integrando-com-gift-card?locale=pt).   
+Para saber mais detalhes sobre a segunda opção de uso, verifique nossa documentação técnica sobre [como integrar com o gift card](/pt/tutorial/integrando-com-gift-card?locale=pt).
 
 ## Como criar o Vale-presente pelo Admin
 
@@ -48,7 +48,7 @@ Para criar um novo vale-presente, confira o passo a passo:
 
 > ❗ A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo [Collection functionality doesn't work on Giftcard](https://help.vtex.com/en/known-issues/collection-functionality-doesnt-work-on-giftcard).
 
-Depois de preencher os campos corretamente, o usuário poderá assinalar até três opções de configuração: 
+Depois de preencher os campos corretamente, o usuário poderá assinalar até três opções de configuração:
 <ul>
   <li>**Restrito**: somente o cliente referente ao CPF ou CNPJ informado acima poderá utilizar este vale.</li>
   <li>**Recarregável**: enquanto esse vale estiver disponível, seu saldo poderá ser alterado.</li>
@@ -67,9 +67,9 @@ Para criar mais de um vale-presente ao mesmo tempo (um lote), confira o passo a 
 <ol>
   <li>No Admin VTEX, acesse **Promoções > Vales-presente**, ou digite **Vales-presente** na barra de busca no topo da página.</li> 
   <br>
-  <li>Clique no botão azul **Criar vales em massa**.</li>  
-  <br>  
-  <li>Preencha os campos apresentados conforme as orientações abaixo:</li>  
+  <li>Clique no botão azul **Criar vales em massa**.</li>
+  <br>
+  <li>Preencha os campos apresentados conforme as orientações abaixo:</li>
 <br>
 <ul>
   <li>**Quantidade de vales-presente**: este é o número de vales que você deseja criar em um mesmo lote. Um número máximo de 500 (quinhentos) vales podem ser criados por lote.</li>
@@ -80,11 +80,11 @@ Para criar mais de um vale-presente ao mesmo tempo (um lote), confira o passo a 
   <br>
   > ⚠️ **Atenção**: o preenchimento dos campos “Quantidade de vales-presente”, “Valor” e “Data de Validade” é **obrigatório**. Caso o contrário, os vales-presente não serão salvos.
 <br>
-  > ❗ A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo [Restricting the use of GiftCards to a collection of products does not work](/pt/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
+  > ❗ A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo [Collection functionality doesn't work on Giftcard](https://help.vtex.com/known-issues/collection-functionality-doesnt-work-on-giftcard).
 <br>
   <li>**Recarregável**: enquanto estes vales estiverem disponíveis, seus saldos poderão ser alterados.</li>
   <li>**Reutilizável**: será possível realizar novas compras com estes vales até que seus valores sejam totalmente utilizados.</li>
-</ul><br>  
+</ul><br>
   <li>Clique no botão **Salvar**.</li>
 <br>
 Uma nova tela irá aparecer confirmando que foram gerados o número de vales-presentes solicitados e os respectivos códigos de identificação serão apresentados.<br> 
@@ -112,15 +112,12 @@ Siga os passos abaixo para configurar o vale-presente:
 10. Ative a condição no campo __Status__.
 11. Em __Processar com o provedor__, selecione o provedor de giftcard desejado.
 12. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
-13. Clique em `Salvar`.
-
-Além disso, você ainda pode definir condições especiais de pagamento para o vale-presente. Não há limite de condições de podem ser aplicadas a um meio de pagamento e especificamos como configurar cada uma delas [aqui](/pt/tutorial/condicoes-especiais--tutorials_456?locale=pt). 
-
-Por fim, clique no botão azul Salvar.
+13. Se desejar, você também pode [configurar condições especiais de pagamento](https://help.vtex.com/pt/docs/tutorials/condicoes-especiais).
+14. Clique em `Salvar`.
 
 ## Como gerenciar o vale
 
-Uma vez que o vale for criado, é possível gerenciá-lo de algumas formas pelo Admin. Desse modo, o usuário pode: 
+Uma vez que o vale for criado, é possível gerenciá-lo de algumas formas pelo Admin. Desse modo, o usuário pode:
 
 - Adicionar ou remover valor, desde que o vale seja "Recarregável";
 - Visualizar o extrato;

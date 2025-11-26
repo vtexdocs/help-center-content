@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX, es posible integrarse con el proveedor de pago MercadoPagoV2. A través de este conector, su tienda puede ofrecer transacciones de pago en tiendas físicas (VTEX Sales App), utilizando puntos de venta (POS). Para más información acceda [¿Qué es VTEX Sales App?](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
+En VTEX, es posible integrarse con el proveedor de pago MercadoPagoV2. A través de este conector, su tienda puede ofrecer transacciones de pago en tiendas físicas (VTEX Sales App), utilizando puntos de venta (POS). Para más información acceda [¿Qué es VTEX Sales App?](https://help.vtex.com/es/docs/tracks/vtex-sales-app-primeros-pasos-y-configuracion).
 
 > ℹ️ Para utilizar el proveedor MercadoPagoV2 en su tienda a través de otros canales de venta en línea (excepto VTEX Sales App), visite [Configurar pago con MercadoPagoV2](/es/tutorial/configurar-el-subadquirente-mercadopagov2--1y6k8lCSzJYfPs2yObNFo4).
 
@@ -30,7 +30,7 @@ Para utilizar el proveedor MercadoPagoV2 en la VTEX Sales App, es necesario:
 
 ## Configurar claves en el entorno de Mercado Pago
 
-Los siguientes pasos describen las configuraciones mínimas a realizar para que el conector MercadoPagoV2 quede correctamente configurado. Otras configuraciones personalizadas que se apliquen a los clientes, habilitando métodos de pago específicos o características particulares de la plataforma, deberán realizarse de acuerdo con [documentación de Mercado Pago](https://www.mercadopago.com.br/developers/es/docs/vtex/integration/create-gateway-affiliation-v2).
+Los siguientes pasos describen las configuraciones mínimas a realizar para que el conector MercadoPagoV2 quede correctamente configurado. Otras configuraciones personalizadas que se apliquen a los clientes, habilitando métodos de pago específicos o características particulares de la plataforma, deberán realizarse de acuerdo con [documentación de Mercado Pago](https://www.mercadopago.com.br/developers/es/docs/vtex/create-application).
 
 <blockquote><ui>1. Accede al [portal para desarrolladores de Mercado Pago](https://www.mercadopago.com.br/developers/es) para crear una nueva cuenta.</ui>
 
