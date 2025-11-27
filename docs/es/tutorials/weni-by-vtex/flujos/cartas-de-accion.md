@@ -15,7 +15,7 @@ locale: es
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Después de entender un poco más sobre qué son las Cartas de acción en nuestra [Introducción a flujos](/l/es/flujos/introducci-n-a-los-flujos), ahora avanzaremos sobre qué cartas existen y qué podemos hacer con cada una de ellas.
+Después de entender un poco más sobre qué son las Cartas de acción en nuestra [Introducción a flujos](https://help.vtex.com/es/docs/tutorials/introduccion-a-los-flujos), ahora avanzaremos sobre qué cartas existen y qué podemos hacer con cada una de ellas.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/cartas-de-accion_1.gif)
 
@@ -45,7 +45,7 @@ La carta de acción más conocida y utilizada de la plataforma. Su función es e
 El envío de mensajes masivos por un canal de Facebook requiere que se especifique un tema si el usuario no ha enviado un mensaje en las últimas 24 horas. Definir un tema para usar en Facebook es especialmente importante para el primer mensaje en su flujo.![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/cartas-de-accion_3.png)
   2. **WhatsApp**
 
-El envío de mensajes por un canal de WhatsApp requiere usar una plantilla si no ha recibido un mensaje de un contacto en las últimas 24 horas. Configurar una plantilla para usar en WhatsApp es especialmente importante para el primer mensaje en su flujo. Lea el artículo sobre el [envío activo en WhatsApp](/l/es/whatsapp-business-api/disparo-activo-en-whats-app).
+El envío de mensajes por un canal de WhatsApp requiere usar una plantilla si no ha recibido un mensaje de un contacto en las últimas 24 horas. Configurar una plantilla para usar en WhatsApp es especialmente importante para el primer mensaje en su flujo. Lea el artículo sobre el [envío activo en WhatsApp](https://help.vtex.com/es/docs/tutorials/envio-activo-de-mensajes-en-whatsapp).
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/cartas-de-accion_4.png)
 
@@ -83,7 +83,7 @@ Con esto, usted o un grupo de personas de su elección podrán recibir notificac
 
 #### Etiquetar el mensaje entrante
 
-Puedes marcar el último mensaje enviado por el contacto con una etiqueta (rótulo). Todos los mensajes etiquetados se agrupan bajo el mismo nombre del rótulo. Puedes aprender más sobre mensajes y etiquetas en el artículo de [mensajes](/l/es/mensajes/mensajes-de-contacto).
+Puedes marcar el último mensaje enviado por el contacto con una etiqueta (rótulo). Todos los mensajes etiquetados se agrupan bajo el mismo nombre del rótulo. Puedes aprender más sobre mensajes y etiquetas en el artículo de [mensajes](https://help.vtex.com/es/docs/tutorials/mensajes-de-contacto).
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/cartas-de-accion_9.png)
 
@@ -103,13 +103,13 @@ Puedes agregar el contacto a un grupo estático. Si el grupo no existe en la pes
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/cartas-de-accion_11.png)
 
-Para entender un poco más sobre grupos estáticos, haz [clic aquí](/l/es/grupos/grupos-estaticos).
+Para entender un poco más sobre grupos estáticos, haz [clic aquí](https://help.vtex.com/es/docs/tutorials/grupos-estaticos).
 
 ¿El contacto respondió a una encuesta de satisfacción? Puedes agruparlo con todos los que respondieron a la encuesta.
 
 #### Eliminar el contacto de un grupo
 
-Puedes eliminar el contacto de algún [grupo estático](/l/es/grupos/grupos-estaticos). Además, tienes la opción de marcar para eliminar el contacto de todos los grupos a los que pertenece, sin distinción.
+Puedes eliminar el contacto de algún [grupo estático](https://help.vtex.com/es/docs/tutorials/grupos-estaticos). Además, tienes la opción de marcar para eliminar el contacto de todos los grupos a los que pertenece, sin distinción.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/cartas-de-accion_12.png)
 
@@ -125,7 +125,7 @@ Para completar los campos del contacto, solo necesitas utilizar la opción **Act
 
 #### Envía un correo electrónico
 
-Aquí puedes enviar un correo electrónico a alguien. Este correo puede ser tanto del contacto que está ejecutando el flujo, como de cualquier otro. Recuerda que el correo electrónico no es un canal de conversación en la Plataforma Weni, es decir, si alguien responde al correo enviado, la respuesta irá a la bandeja de entrada del correo electrónico configurado en la organización (para más información, visita el artículo de [configuración de la organización](/l/es/configuracionesgenerales/configuraciones-generales-de-la-organizacion)).
+Aquí puedes enviar un correo electrónico a alguien. Este correo puede ser tanto del contacto que está ejecutando el flujo, como de cualquier otro. Recuerda que el correo electrónico no es un canal de conversación en la Plataforma Weni, es decir, si alguien responde al correo enviado, la respuesta irá a la bandeja de entrada del correo electrónico configurado en la organización. Para más información, visita el artículo de [configuración de la organización](/https://help.vtex.com/es/docs/tutorials/configuraciones-generales-de-proyecto).
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/cartas-de-accion_14.png)
 
@@ -183,12 +183,12 @@ El uso de esta carta no reemplaza el uso de plantillas (mensajes preaprobados po
 
 #### Abrir un ticket con un agente humano
 
-Esta carta se utiliza para abrir tickets de atención humana. Para que las atenciones se dirijan al módulo de Chats, es necesario seleccionar el sector (1) y la fila (2). Obtenga más información sobre cómo configurar la [atención humana en el módulo de Chats](/l/es/atencion-humana/weni-chats-configurando-el-atencion-humana).
+Esta carta se utiliza para abrir tickets de atención humana. Para que las atenciones se dirijan al módulo de Chats, es necesario seleccionar el sector (1) y la fila (2). Obtenga más información sobre cómo configurar la [atención humana en el módulo de Chats](https://help.vtex.com/es/docs/tutorials/weni-chats-configurando-el-atencion-humana).
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/cartas-de-accion_20.png)
 
 #### Llamar un webhook
 
-Esta carta permite hacer solicitudes a APIs, almacenando el retorno de esas solicitudes en una variable que se puede utilizar en el flujo. Esto facilita la conexión con otros sistemas externos. Aprende cómo hacer [llamadas a sistemas externos](/l/es/flujos/call-webhook-c-mo-hacer-llamadas-a-sistemas-externos).
+Esta carta permite hacer solicitudes a APIs, almacenando el retorno de esas solicitudes en una variable que se puede utilizar en el flujo. Esto facilita la conexión con otros sistemas externos. Aprende cómo hacer [llamadas a sistemas externos](https://help.vtex.com/es/docs/tutorials/call-webhook-como-hacer-llamadas-a-sistemas-externos).
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/cartas-de-accion_21.png)

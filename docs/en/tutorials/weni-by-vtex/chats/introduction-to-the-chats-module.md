@@ -35,7 +35,9 @@ This user has all permission levels, can create departments, and delegate suppor
 - **Contact Information**
 By clicking on the contact’s photo or name in any area of the conversation, you can access the **contact information sidebar**. This sidebar displays the contact’s profile photo in a larger size, data such as the communication channel the contact is using, the time of the last interaction, the option to transfer the chat, and the contact’s media gallery.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_1.png)#### Quick Messages
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_1.png)
+
+#### Quick Messages
 
 Quick Messages is a feature that allows you to register message templates for quick use. By clicking the Quick Messages button, the user can access the function's **sidebar**, where they can view, manage, and register new messages. A message can be used by either clicking on it or typing **/** followed by the message shortcut.
 

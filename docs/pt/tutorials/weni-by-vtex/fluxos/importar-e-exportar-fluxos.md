@@ -20,9 +20,10 @@ Existem muitos motivos para querermos importar e exportar fluxos, desde querer p
 ### Exportação
 
 Existem dois caminhos de chegarmos na página de exportação de fluxos.
-  1. **Primeiro Caminho: Via editor de fluxos**
 
-Para acessar a página de exportação pelo editor de fluxos, basta ir ao menu de opções e clicar no botão _**exportar defini ção**_.
+1. **Primeiro Caminho: Via editor de fluxos**
+
+Para acessar a página de exportação pelo editor de fluxos, basta ir ao menu de opções e clicar no botão _**exportar definição**_.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/importar-e-exportar-fluxos_1.png)
 
@@ -30,17 +31,17 @@ Ou também no módulo de fluxos
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/importar-e-exportar-fluxos_2.png)
 
-Você pode conhecer um pouco mais sobre o [Editor de fluxo e suas ferramentas](https://docs.weni.ai/l/pt/fluxos/editor-de-fluxo-e-suas-ferramentas) clicando no link.
-  1. **Segundo Caminho: Via configura ções gerais da organização**
+Você pode conhecer um pouco mais sobre o [Editor de fluxo e suas ferramentas](https://help.vtex.com/en/docs/tutorials/flow-editor-and-tools) clicando no link.
+
+2. **Segundo Caminho: Via configurações gerais da organização**
 
 Para acessar a página de exportação pelas configurações gerais da organização, basta ir ao menu de opções e clicar no botão _**exportar**_.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/importar-e-exportar-fluxos_3.png)
 
-Você pode conhecer um pouco mais sobre as Configurações gerais de organização clicando no [link](https://docs.weni.ai/l/pt/configuracoesgerais/configura-es-gerais-da-organiza-o).
+Você pode conhecer um pouco mais sobre as Configurações gerais de organização clicando no [link](https://help.vtex.com/pt/docs/tutorials/configuracoes-gerais-do-projeto).
 
-Já na página de exportação, ela irá te exibir todos os fluxos e campanhas daquela organização, estando eles agrupados por uso, ou seja, todos os fluxos de um mesmo grupo interagem entre si.
-Caso você exporte apenas um fluxo de um grupo, você pode ter problemas em seu funcionamento
+Já na página de exportação, ela irá te exibir todos os fluxos e campanhas daquela organização, estando eles agrupados por uso, ou seja, todos os fluxos de um mesmo grupo interagem entre si. Caso você exporte apenas um fluxo de um grupo, você pode ter problemas em seu funcionamento.
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/importar-e-exportar-fluxos_4.png)
 

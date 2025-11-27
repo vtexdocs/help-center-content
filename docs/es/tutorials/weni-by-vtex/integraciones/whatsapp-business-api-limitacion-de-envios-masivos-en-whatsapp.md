@@ -27,7 +27,7 @@ Inicialmente, los números de teléfono comercial tienen un límite de 250 conve
 
 ##### Limitaciones de WhatsApp
 
-Existen diferentes niveles de limitación para el envío de mensajes en WhatsApp:]
+Existen diferentes niveles de limitación para el envío de mensajes en WhatsApp:
 
 | Nivel 1 | Limitado a 1\.000 destinatarios únicos (contactos activos) por día. |
 | --- | --- |

@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Breaking change Shopee: New mandatory permission",
+                    "es": "Breaking change Shopee: Nuevo permiso obligatorio",
+                    "pt": "Breaking change Shopee: Nova permissão de acesso obrigatória"
+                  },
+                  "slug": {
+                    "en": "2025-11-13-breaking-change-shopee-nova-permissao-obrigatoria-en",
+                    "es": "2025-11-13-breaking-change-shopee-nova-permissao-obrigatoria-es",
+                    "pt": "2025-11-13-breaking-change-shopee-nova-permissao-obrigatoria"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "VTEX Help Center: Now with enhanced interface and new features",
                     "es": "Help Center VTEX: interfaz optimizada y nuevas funcionalidades",
                     "pt": "Help Center VTEX: agora com interface aprimorada e novas funcionalidades"
@@ -15638,9 +15653,9 @@
             "pt": "Sobre o Admin"
           },
           "slug": {
-            "en": "about-the-admin",
-            "es": "acerca-de-admin",
-            "pt": "sobre-o-admin"
+            "en": "about-the-admin-category",
+            "es": "acerca-de-admin-categoria",
+            "pt": "sobre-o-admin-categoria"
           },
           "origin": "",
           "type": "category",
@@ -15652,9 +15667,9 @@
                 "pt": "Visão do geral do Admin"
               },
               "slug": {
-                "en": "admin-overview",
-                "es": "visión-general-del-admin",
-                "pt": "visão-do-geral-do-admin"
+                "en": "admin-overview-subcategory",
+                "es": "vision-general-del-admin-subcategoria",
+                "pt": "visão-do-geral-do-admin-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -15715,9 +15730,9 @@
             "pt": "Gerenciamento da conta"
           },
           "slug": {
-            "en": "account-management",
-            "es": "gestión-de-la-cuenta",
-            "pt": "gerenciamento-da-conta"
+            "en": "account-management-category",
+            "es": "gestion-de-la-cuenta-categoria",
+            "pt": "gerenciamento-da-conta-categoria"
           },
           "origin": "",
           "type": "category",
@@ -15729,9 +15744,9 @@
                 "pt": "Controle de acesso"
               },
               "slug": {
-                "en": "access-control",
-                "es": "control-de-acceso",
-                "pt": "controle-de-acesso"
+                "en": "access-control-subcategory",
+                "es": "control-de-acceso-subcategoria",
+                "pt": "controle-de-acesso-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -15820,9 +15835,9 @@
                 "pt": "Configurações da conta"
               },
               "slug": {
-                "en": "account-settings",
-                "es": "configuraciones-de-la-cuenta",
-                "pt": "configurações-da-conta"
+                "en": "account-settings-subcategory",
+                "es": "configuraciones-de-la-cuenta-subcategoria",
+                "pt": "configurações-da-conta-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -15851,9 +15866,9 @@
                 "pt": "Contas"
               },
               "slug": {
-                "en": "accounts",
-                "es": "cuentas",
-                "pt": "contas"
+                "en": "accounts-subcategory",
+                "es": "cuentas-subcategoria",
+                "pt": "contas-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -15987,9 +16002,9 @@
                 "pt": "Chaves de API"
               },
               "slug": {
-                "en": "api-keys-category",
-                "es": "claves-de-api-category",
-                "pt": "chaves-de-api-category"
+                "en": "api-keys-subcategory",
+                "es": "claves-de-api-subcategoria",
+                "pt": "chaves-de-api-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -16093,9 +16108,9 @@
                 "pt": "Usuários"
               },
               "slug": {
-                "en": "users",
-                "es": "usuarios",
-                "pt": "usuários"
+                "en": "users-subcategory",
+                "es": "usuarios-subcategoria",
+                "pt": "usuários-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -16246,9 +16261,9 @@
             "pt": "Apps"
           },
           "slug": {
-            "en": "apps",
-            "es": "apps",
-            "pt": "apps"
+            "en": "apps-category",
+            "es": "apps-categoria",
+            "pt": "apps-categoria"
           },
           "origin": "",
           "type": "category",
@@ -16260,9 +16275,9 @@
                 "pt": "Aplicativo Affiliates Program"
               },
               "slug": {
-                "en": "affiliates-program-app-category",
-                "es": "aplicación-affiliates-program",
-                "pt": "aplicativo-affiliates-program-category"
+                "en": "affiliates-program-app-subcategory",
+                "es": "aplicacion-affiliates-program-subcategoria",
+                "pt": "aplicativo-affiliates-program-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -16291,9 +16306,9 @@
                 "pt": "Aplicativo Amazon MCF"
               },
               "slug": {
-                "en": "amazon-mcf-app",
-                "es": "aplicación-amazon-mcf",
-                "pt": "aplicativo-amazon-mcf"
+                "en": "amazon-mcf-app-subcategory",
+                "es": "aplicacion-amazon-mcf-subcategoria",
+                "pt": "aplicativo-amazon-mcf-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -16322,9 +16337,9 @@
                 "pt": "Visão geral de Apps"
               },
               "slug": {
-                "en": "apps-overview-category",
-                "es": "visión-de-conjunto-de-apps",
-                "pt": "visão-geral-de-apps"
+                "en": "apps-overview-subcategory",
+                "es": "vision-de-conjunto-de-apps-subcategoria",
+                "pt": "visão-geral-de-apps-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -16368,9 +16383,9 @@
                 "pt": "Assembly Options"
               },
               "slug": {
-                "en": "assembly-options",
-                "es": "assembly-options",
-                "pt": "assembly-options"
+                "en": "assembly-options-subcategory",
+                "es": "assembly-options-subcategoria",
+                "pt": "assembly-options-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -16399,9 +16414,9 @@
                 "pt": "Customer Credit"
               },
               "slug": {
-                "en": "customer-credit",
-                "es": "customer-credit",
-                "pt": "customer-credit"
+                "en": "customer-credit-subcategory",
+                "es": "customer-credit-subcategoria",
+                "pt": "customer-credit-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -16445,9 +16460,9 @@
                 "pt": "Live Shopping"
               },
               "slug": {
-                "en": "live-shopping-category",
-                "es": "live-shopping-category",
-                "pt": "live-shopping-category"
+                "en": "live-shopping-subcategory",
+                "es": "live-shopping-subcategoria",
+                "pt": "live-shopping-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -16506,9 +16521,9 @@
                 "pt": "My Account"
               },
               "slug": {
-                "en": "my-account",
-                "es": "my-account",
-                "pt": "my-account"
+                "en": "my-account-subcategory",
+                "es": "my-account-subcategoria",
+                "pt": "my-account-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -16552,9 +16567,9 @@
                 "pt": "Personal Shopper"
               },
               "slug": {
-                "en": "personal-shopper",
-                "es": "personal-shopper",
-                "pt": "personal-shopper"
+                "en": "personal-shopper-subcategory",
+                "es": "personal-shopper-subcategoria",
+                "pt": "personal-shopper-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -16583,9 +16598,9 @@
                 "pt": "VTEX Session"
               },
               "slug": {
-                "en": "vtex-session",
-                "es": "vtex-session",
-                "pt": "vtex-session"
+                "en": "vtex-session-subcategory",
+                "es": "vtex-session-subcategoria",
+                "pt": "vtex-session-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -16616,9 +16631,9 @@
             "pt": "Autenticação"
           },
           "slug": {
-            "en": "authentication",
-            "es": "autenticación",
-            "pt": "autenticação"
+            "en": "authentication-category",
+            "es": "autenticacion-categoria",
+            "pt": "autenticação-categoria"
           },
           "origin": "",
           "type": "category",
@@ -16630,9 +16645,9 @@
                 "pt": "Conceitos básicos de autenticação"
               },
               "slug": {
-                "en": "authentication-basics",
-                "es": "conceptos-básicos-de-autenticación",
-                "pt": "conceitos-básicos-de-autenticação"
+                "en": "authentication-basics-subcategory",
+                "es": "conceptos-basicos-de-autenticacion-subcategoria",
+                "pt": "conceitos-básicos-de-autenticação-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -16721,9 +16736,9 @@
                 "pt": "Configurações de Autenticação"
               },
               "slug": {
-                "en": "authentication-settings",
-                "es": "configuración-de-autenticación",
-                "pt": "configurações-de-autenticação"
+                "en": "authentication-settings-subcategory",
+                "es": "configuracion-de-autenticacion-subcategoria",
+                "pt": "configurações-de-autenticação-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -16752,9 +16767,9 @@
                 "pt": "Autenticação de dois fatores"
               },
               "slug": {
-                "en": "two-factor-authentication",
-                "es": "autenticación-de-dos-factores",
-                "pt": "autenticação-de-dois-fatores"
+                "en": "two-factor-authentication-subcategory",
+                "es": "autenticacion-de-dos-factores-subcategoria",
+                "pt": "autenticação-de-dois-fatores-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -16800,9 +16815,9 @@
             "pt": "B2B"
           },
           "slug": {
-            "en": "b2b",
-            "es": "b2b",
-            "pt": "b2b"
+            "en": "b2b-category",
+            "es": "b2b-categoria",
+            "pt": "b2b-categoria"
           },
           "origin": "",
           "type": "category",
@@ -16814,9 +16829,9 @@
                 "pt": "Configurações de checkout B2B"
               },
               "slug": {
-                "en": "b2b-checkout-settings-category",
-                "es": "b2b-checkout-settings",
-                "pt": "configurações-de-checkout-b2b"
+                "en": "b2b-checkout-settings-subcategory",
+                "es": "b2b-checkout-settings-subcategoria",
+                "pt": "configurações-de-checkout-b2b-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -16845,9 +16860,9 @@
                 "pt": "Histórico de Pedidos B2B"
               },
               "slug": {
-                "en": "b2b-orders-history",
-                "es": "b2b-orders-history",
-                "pt": "histórico-de-pedidos-b2b"
+                "en": "b2b-orders-history-subcategory",
+                "es": "b2b-orders-history-subcategoria",
+                "pt": "histórico-de-pedidos-b2b-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -16876,9 +16891,9 @@
                 "pt": "Organizações B2B"
               },
               "slug": {
-                "en": "b2b-organizations",
-                "es": "organizaciones-b2b",
-                "pt": "organizações-b2b"
+                "en": "b2b-organizations-subcategory",
+                "es": "organizaciones-b2b-subcategoria",
+                "pt": "organizações-b2b-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -16952,9 +16967,9 @@
                 "pt": "Cotações B2B"
               },
               "slug": {
-                "en": "b2b-quotes",
-                "es": "cotizaciones-b2b",
-                "pt": "cotações-b2b"
+                "en": "b2b-quotes-subcategory",
+                "es": "cotizaciones-b2b-subcategoria",
+                "pt": "cotações-b2b-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -16983,9 +16998,9 @@
                 "pt": "Detalhes da organização"
               },
               "slug": {
-                "en": "organization-details",
-                "es": "detalles-de-la-organización",
-                "pt": "detalhes-da-organização"
+                "en": "organization-details-subcategory",
+                "es": "detalles-de-la-organizacion-subcategoria",
+                "pt": "detalhes-da-organização-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -17134,9 +17149,9 @@
                 "pt": "Visão geral"
               },
               "slug": {
-                "en": "overview",
-                "es": "visión-general",
-                "pt": "visão-geral"
+                "en": "overview-subcategory",
+                "es": "vision-general-subcategoria",
+                "pt": "visão-geral-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -17170,6 +17185,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "What is Order Configuration",
+                    "es": "Qué es Order Configuration",
+                    "pt": "O que é Order Configuration"
+                  },
+                  "slug": {
+                    "en": "what-is-order-configuration",
+                    "es": "que-es-order-configuration",
+                    "pt": "o-que-e-order-configuration"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -17180,9 +17210,9 @@
                 "pt": "Guias práticos"
               },
               "slug": {
-                "en": "practical-guides",
-                "es": "guías-práticas",
-                "pt": "guias-práticos"
+                "en": "practical-guides-subcategory",
+                "es": "guias-praticas-subcategoria",
+                "pt": "guias-práticos-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -17241,9 +17271,9 @@
                 "pt": "Permissões da loja"
               },
               "slug": {
-                "en": "storefront-permissions",
-                "es": "permisos-del-storefront",
-                "pt": "permissões-da-loja"
+                "en": "storefront-permissions-subcategory",
+                "es": "permisos-del-storefront-subcategoria",
+                "pt": "permissões-da-loja-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -17274,9 +17304,9 @@
             "pt": "Beta"
           },
           "slug": {
-            "en": "beta",
-            "es": "beta",
-            "pt": "beta"
+            "en": "beta-category",
+            "es": "beta-categoria",
+            "pt": "beta-categoria"
           },
           "origin": "",
           "type": "category",
@@ -17288,28 +17318,13 @@
                 "pt": "Catálogo Beta"
               },
               "slug": {
-                "en": "catalog-beta",
-                "es": "catálogo-beta",
-                "pt": "catálogo-beta"
+                "en": "catalog-beta-subcategory",
+                "es": "catalogo-beta-subcategoria",
+                "pt": "catálogo-beta-subcategoria"
               },
               "origin": "",
               "type": "category",
               "children": [
-                {
-                  "name": {
-                    "en": "Adding products (Beta)",
-                    "es": "Agregar producto (Beta)",
-                    "pt": "Criar um produto (Beta)"
-                  },
-                  "slug": {
-                    "en": "criar-um-produto-beta",
-                    "es": "criar-um-produto-beta",
-                    "pt": "criar-um-produto-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Creating or editing categories, attributes, and variations (Beta)",
@@ -17394,9 +17409,9 @@
                 "pt": "Dashboards Beta"
               },
               "slug": {
-                "en": "dashboards-beta",
-                "es": "dashboards-beta",
-                "pt": "dashboards-beta"
+                "en": "dashboards-beta-subcategory",
+                "es": "dashboards-beta-subcategoria",
+                "pt": "dashboards-beta-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -17425,9 +17440,9 @@
                 "pt": "Data Insights Agent Beta"
               },
               "slug": {
-                "en": "data-insights-agent-beta",
-                "es": "data-insights-agent-beta",
-                "pt": "data-insights-agent-beta"
+                "en": "data-insights-agent-beta-subcategory",
+                "es": "data-insights-agent-beta-subcategoria",
+                "pt": "data-insights-agent-beta-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -17456,9 +17471,9 @@
                 "pt": "Intelligent Search Beta"
               },
               "slug": {
-                "en": "intelligent-search-beta",
-                "es": "intelligent-search-beta",
-                "pt": "intelligent-search-beta"
+                "en": "intelligent-search-beta-subcategory",
+                "es": "intelligent-search-beta-subcategoria",
+                "pt": "intelligent-search-beta-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -17517,9 +17532,9 @@
                 "pt": "Recomendações de produtos Beta"
               },
               "slug": {
-                "en": "product-recommendations-beta-category",
-                "es": "recomendaciones-de-productos-beta-category",
-                "pt": "recomendações-de-produtos-beta"
+                "en": "product-recommendations-beta-subcategory",
+                "es": "recomendaciones-de-productos-beta-subcategoria",
+                "pt": "recomendações-de-produtos-beta-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -17548,9 +17563,9 @@
                 "pt": "Promoções Beta"
               },
               "slug": {
-                "en": "promotions-beta",
-                "es": "promociones-beta",
-                "pt": "promoções-beta"
+                "en": "promotions-beta-subcategory",
+                "es": "promociones-beta-subcategoria",
+                "pt": "promoções-beta-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -17594,9 +17609,9 @@
                 "pt": "Lançamentos (Beta)"
               },
               "slug": {
-                "en": "releases-beta",
-                "es": "lanzamientos-beta",
-                "pt": "lançamentos-beta"
+                "en": "releases-beta-subcategory",
+                "es": "lanzamientos-beta-subcategoria",
+                "pt": "lançamentos-beta-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -17700,9 +17715,9 @@
                 "pt": "Envio Beta"
               },
               "slug": {
-                "en": "shipping-beta",
-                "es": "envío-beta",
-                "pt": "envio-beta"
+                "en": "shipping-beta-subcategory",
+                "es": "envio-beta-subcategoria",
+                "pt": "envio-beta-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -17776,9 +17791,9 @@
                 "pt": "VTEX Data Pipeline Beta"
               },
               "slug": {
-                "en": "vtex-data-pipeline-beta",
-                "es": "vtex-data-pipeline-beta",
-                "pt": "vtex-data-pipeline-beta"
+                "en": "vtex-data-pipeline-beta-subcategory",
+                "es": "vtex-data-pipeline-beta-subcategoria",
+                "pt": "vtex-data-pipeline-beta-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -17972,9 +17987,9 @@
                 "pt": "VTEX Sales App Beta"
               },
               "slug": {
-                "en": "vtex-sales-app-beta",
-                "es": "vtex-sales-app-beta",
-                "pt": "vtex-sales-app-beta"
+                "en": "vtex-sales-app-beta-subcategory",
+                "es": "vtex-sales-app-beta-subcategoria",
+                "pt": "vtex-sales-app-beta-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -18035,9 +18050,9 @@
             "pt": "Faturas"
           },
           "slug": {
-            "en": "billing",
-            "es": "facturas",
-            "pt": "faturas"
+            "en": "billing-category",
+            "es": "facturas-categoria",
+            "pt": "faturas-categoria"
           },
           "origin": "",
           "type": "category",
@@ -18049,9 +18064,9 @@
                 "pt": "Faturas: visão geral"
               },
               "slug": {
-                "en": "billing-overview",
-                "es": "facturación-visión-general",
-                "pt": "faturas-visão-geral"
+                "en": "billing-overview-subcategory",
+                "es": "facturacion-vision-general-subcategoria",
+                "pt": "faturas-visão-geral-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -18080,9 +18095,9 @@
                 "pt": "Contratos"
               },
               "slug": {
-                "en": "contracts",
-                "es": "contratos",
-                "pt": "contratos"
+                "en": "contracts-subcategory",
+                "es": "contratos-subcategoria",
+                "pt": "contratos-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -18231,9 +18246,9 @@
                 "pt": "Títulos"
               },
               "slug": {
-                "en": "invoices",
-                "es": "títulos",
-                "pt": "títulos"
+                "en": "invoices-subcategory",
+                "es": "titulos-subcategoria",
+                "pt": "títulos-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -18352,9 +18367,9 @@
                 "pt": "Dados cadastrais"
               },
               "slug": {
-                "en": "registration-data",
-                "es": "datos-de-registro",
-                "pt": "dados-cadastrais"
+                "en": "registration-data-subcategory",
+                "es": "datos-de-registro-subcategoria",
+                "pt": "dados-cadastrais-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -18385,9 +18400,9 @@
             "pt": "Catálogo"
           },
           "slug": {
-            "en": "catalog",
-            "es": "catalogo",
-            "pt": "catálogo"
+            "en": "catalog-category",
+            "es": "catalogo-categoria",
+            "pt": "catálogo-categoria"
           },
           "origin": "",
           "type": "category",
@@ -18399,9 +18414,9 @@
                 "pt": "Marcas"
               },
               "slug": {
-                "en": "brands",
-                "es": "marcas",
-                "pt": "marcas"
+                "en": "brands-subcategory",
+                "es": "marcas-subcategoria",
+                "pt": "marcas-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -18460,9 +18475,9 @@
                 "pt": "Kit"
               },
               "slug": {
-                "en": "bundle",
-                "es": "kit",
-                "pt": "kit"
+                "en": "bundle-subcategory",
+                "es": "kit-subcategoria",
+                "pt": "kit-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -18551,9 +18566,9 @@
                 "pt": "Catálogo: Visão Geral"
               },
               "slug": {
-                "en": "catalog-overview-category",
-                "es": "catálogo-visión-general",
-                "pt": "catálogo-visão-geral"
+                "en": "catalog-overview-subcategory",
+                "es": "catalogo-vision-general-subcategoria",
+                "pt": "catálogo-visão-geral-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -18597,9 +18612,9 @@
                 "pt": "Categorias"
               },
               "slug": {
-                "en": "categories",
-                "es": "categorías",
-                "pt": "categorias"
+                "en": "categories-subcategory",
+                "es": "categorias-subcategoria",
+                "pt": "categorias-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -18778,9 +18793,9 @@
                 "pt": "Coleções"
               },
               "slug": {
-                "en": "collection",
-                "es": "colecciones",
-                "pt": "coleções"
+                "en": "collection-subcategory",
+                "es": "colecciones-subcategoria",
+                "pt": "coleções-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -18839,9 +18854,9 @@
                 "pt": "Condições comerciais"
               },
               "slug": {
-                "en": "commercial-conditions",
-                "es": "condiciones-comerciales",
-                "pt": "condições-comerciais"
+                "en": "commercial-conditions-subcategory",
+                "es": "condiciones-comerciales-subcategoria",
+                "pt": "condições-comerciais-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -18870,9 +18885,9 @@
                 "pt": "Campos personalizados"
               },
               "slug": {
-                "en": "custom-product-attributes",
-                "es": "campos-personalizados",
-                "pt": "campos-personalizados"
+                "en": "custom-product-attributes-subcategory",
+                "es": "campos-personalizados-subcategoria",
+                "pt": "campos-personalizados-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -18976,9 +18991,9 @@
                 "pt": "Importação e exportação"
               },
               "slug": {
-                "en": "import-and-export",
-                "es": "importación-y-exportación",
-                "pt": "importação-e-exportação"
+                "en": "import-and-export-subcategory",
+                "es": "importacion-y-exportacion-subcategoria",
+                "pt": "importação-e-exportação-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -19052,9 +19067,9 @@
                 "pt": "Tipos de lista"
               },
               "slug": {
-                "en": "list-types",
-                "es": "tipos-de-lista",
-                "pt": "tipos-de-lista"
+                "en": "list-types-subcategory",
+                "es": "tipos-de-lista-subcategoria",
+                "pt": "tipos-de-lista-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -19113,9 +19128,9 @@
                 "pt": "Produtos e SKUs"
               },
               "slug": {
-                "en": "products-and-skus-category",
-                "es": "productos-y-skus-category",
-                "pt": "produtos-e-skus-category"
+                "en": "products-and-skus-subcategory",
+                "es": "productos-y-skus-subcategoria",
+                "pt": "produtos-e-skus-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -19130,21 +19145,6 @@
                     "en": "activating-skus-in-bulk",
                     "es": "activar-skus-en-massa",
                     "pt": "ativar-skus-em-massa"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Add image to product description",
-                    "es": "Añadir imagen a la descripción del producto",
-                    "pt": "Adicionar imagem à descrição do produto"
-                  },
-                  "slug": {
-                    "en": "add-image-to-product-description",
-                    "es": "anadir-imagen-a-la-descripcion-del-producto",
-                    "pt": "adicionar-imagem-a-descricao-do-produto"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -19407,21 +19407,6 @@
                 },
                 {
                   "name": {
-                    "en": "Registering the SKUs barcodes for VTEX Sales App",
-                    "es": "Registrar los códigos de barras de los SKUs para el VTEX Sales App",
-                    "pt": "Cadastrar os códigos de barras dos SKUs para o VTEX Sales App"
-                  },
-                  "slug": {
-                    "en": "registering-the-skus-barcode-for-vtex-sales-app",
-                    "es": "registrar-los-codigos-de-barras-de-los-skus-para-el-vtex-sales-app",
-                    "pt": "cadastrar-o-codigo-de-barra-dos-skus-para-o-vtex-sales-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Setting up product comparison",
                     "es": "Configurar la comparación de productos",
                     "pt": "Configurar a comparação de produtos"
@@ -19504,9 +19489,9 @@
                 "pt": "Relatórios"
               },
               "slug": {
-                "en": "reports",
-                "es": "informes",
-                "pt": "relatórios"
+                "en": "reports-subcategory",
+                "es": "informes-subcategoria",
+                "pt": "relatórios-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -19580,9 +19565,9 @@
                 "pt": "Busca"
               },
               "slug": {
-                "en": "search",
-                "es": "búsqueda",
-                "pt": "busca"
+                "en": "search-subcategory",
+                "es": "busqueda-subcategoria",
+                "pt": "busca-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -19656,9 +19641,9 @@
                 "pt": "Integração XML"
               },
               "slug": {
-                "en": "xml-integration",
-                "es": "integraciones-xml",
-                "pt": "integração-xml"
+                "en": "xml-integration-subcategory",
+                "es": "integraciones-xml-subcategoria",
+                "pt": "integração-xml-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -19734,9 +19719,9 @@
             "pt": "Checkout"
           },
           "slug": {
-            "en": "checkout",
-            "es": "checkout",
-            "pt": "checkout"
+            "en": "checkout-category",
+            "es": "checkout-categoria",
+            "pt": "checkout-categoria"
           },
           "origin": "",
           "type": "category",
@@ -19748,9 +19733,9 @@
                 "pt": "Visão geral do Checkout"
               },
               "slug": {
-                "en": "checkout-overview",
-                "es": "visión-de-conjunto-de-checkout",
-                "pt": "visão-geral-do-checkout"
+                "en": "checkout-overview-subcategory",
+                "es": "vision-de-conjunto-de-checkout-subcategoria",
+                "pt": "visão-geral-do-checkout-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -19854,9 +19839,9 @@
                 "pt": "Configurações do Checkout"
               },
               "slug": {
-                "en": "checkout-settings",
-                "es": "configuración-de-checkout",
-                "pt": "configurações-do-checkout"
+                "en": "checkout-settings-subcategory",
+                "es": "configuracion-de-checkout-subcategoria",
+                "pt": "configurações-do-checkout-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -20185,9 +20170,9 @@
                 "pt": "reCAPTCHA"
               },
               "slug": {
-                "en": "recaptcha",
-                "es": "recaptcha",
-                "pt": "recaptcha"
+                "en": "recaptcha-subcategory",
+                "es": "recaptcha-subcategoria",
+                "pt": "recaptcha-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -20218,9 +20203,9 @@
             "pt": "Conversational Commerce"
           },
           "slug": {
-            "en": "conversational-commerce",
-            "es": "conversational-commerce",
-            "pt": "conversational-commerce"
+            "en": "conversational-commerce-category",
+            "es": "conversational-commerce-categoria",
+            "pt": "conversational-commerce-categoria"
           },
           "origin": "",
           "type": "category",
@@ -20232,9 +20217,9 @@
                 "pt": "VTEX Assisted Sales (SuiteShare)"
               },
               "slug": {
-                "en": "vtex-assisted-sales-suiteshare",
-                "es": "vtex-assisted-sales-suiteshare",
-                "pt": "vtex-assisted-sales-suiteshare"
+                "en": "vtex-assisted-sales-suiteshare-subcategory",
+                "es": "vtex-assisted-sales-suiteshare-subcategoria",
+                "pt": "vtex-assisted-sales-suiteshare-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -20805,9 +20790,9 @@
             "pt": "Dashboards"
           },
           "slug": {
-            "en": "dashboards",
-            "es": "dashboards",
-            "pt": "dashboards"
+            "en": "dashboards-category",
+            "es": "dashboards-categoria",
+            "pt": "dashboards-categoria"
           },
           "origin": "",
           "type": "category",
@@ -20819,9 +20804,9 @@
                 "pt": "Dashboards no Admin VTEX"
               },
               "slug": {
-                "en": "dashboards-in-the-vtex-admin",
-                "es": "dashboards-en-el-admin-vtex",
-                "pt": "dashboards-no-admin-vtex"
+                "en": "dashboards-in-the-vtex-admin-subcategory",
+                "es": "dashboards-en-el-admin-vtex-subcategoria",
+                "pt": "dashboards-no-admin-vtex-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -20897,9 +20882,9 @@
             "pt": "Indeva by VTEX"
           },
           "slug": {
-            "en": "indeva-by-vtex",
-            "es": "indeva-by-vtex",
-            "pt": "indeva-by-vtex"
+            "en": "indeva-by-vtex-category",
+            "es": "indeva-by-vtex-categoria",
+            "pt": "indeva-by-vtex-categoria"
           },
           "origin": "",
           "type": "category",
@@ -20911,9 +20896,9 @@
                 "pt": "Dispositivos e aplicativos"
               },
               "slug": {
-                "en": "devices-and-apps",
-                "es": "dispositivos-y-aplicaciones",
-                "pt": "dispositivos-e-aplicativos"
+                "en": "devices-and-apps-subcategory",
+                "es": "dispositivos-y-aplicaciones-subcategoria",
+                "pt": "dispositivos-e-aplicativos-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -20942,9 +20927,9 @@
                 "pt": "Cadastros de colaboradores"
               },
               "slug": {
-                "en": "employee-registrations",
-                "es": "registros-de-empleados",
-                "pt": "cadastros-de-colaboradores"
+                "en": "employee-registrations-subcategory",
+                "es": "registros-de-empleados-subcategoria",
+                "pt": "cadastros-de-colaboradores-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -21063,9 +21048,9 @@
                 "pt": "Metas"
               },
               "slug": {
-                "en": "goals",
-                "es": "metas",
-                "pt": "metas"
+                "en": "goals-subcategory",
+                "es": "metas-subcategoria",
+                "pt": "metas-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -21139,9 +21124,9 @@
                 "pt": "Cadastro de Metas"
               },
               "slug": {
-                "en": "goals-registration",
-                "es": "registro-de-metas",
-                "pt": "cadastro-de-metas"
+                "en": "goals-registration-subcategory",
+                "es": "registro-de-metas-subcategoria",
+                "pt": "cadastro-de-metas-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -21305,9 +21290,9 @@
                 "pt": "Financeiro Indeva"
               },
               "slug": {
-                "en": "indeva-finance",
-                "es": "finanzas-de-indeva",
-                "pt": "financeiro-indeva"
+                "en": "indeva-finance-subcategory",
+                "es": "finanzas-de-indeva-subcategoria",
+                "pt": "financeiro-indeva-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -21331,14 +21316,45 @@
             },
             {
               "name": {
+                "en": "Feedback del vendedor",
+                "es": "Feedback del vendedor",
+                "pt": "Feedback del vendedor"
+              },
+              "slug": {
+                "en": "feedback-del-vendedor",
+                "es": "feedback-del-vendedor-subcategoria",
+                "pt": "feedback-del-vendedor"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "Visualizar comentarios en la app de Indeva",
+                    "en": "Visualizar comentarios en la app de Indeva",
+                    "pt": "Visualizar comentarios en la app de Indeva"
+                  },
+                  "slug": {
+                    "es": "visualizar-comentarios-en-la-app-de-indeva",
+                    "en": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Indeva forms",
                 "es": "Formularios de Indeva",
                 "pt": "Formulários Indeva"
               },
               "slug": {
-                "en": "indeva-forms",
-                "es": "formularios-de-indeva",
-                "pt": "formulários-indeva"
+                "en": "indeva-forms-subcategory",
+                "es": "formularios-de-indeva-subcategoria",
+                "pt": "formulários-indeva-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -21412,9 +21428,9 @@
                 "pt": "Lista da vez Indeva"
               },
               "slug": {
-                "en": "indeva-queue-list",
-                "es": "lista-de-turno-de-indeva",
-                "pt": "lista-da-vez-indeva"
+                "en": "indeva-queue-list-subcategory",
+                "es": "lista-de-turno-de-indeva-subcategoria",
+                "pt": "lista-da-vez-indeva-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -21473,9 +21489,9 @@
                 "pt": "Suporte Indeva"
               },
               "slug": {
-                "en": "indeva-support",
-                "es": "soporte-de-indeva",
-                "pt": "suporte-indeva"
+                "en": "indeva-support-subcategory",
+                "es": "soporte-de-indeva-subcategoria",
+                "pt": "suporte-indeva-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -21519,9 +21535,9 @@
                 "pt": "Treinamento Indeva"
               },
               "slug": {
-                "en": "indeva-training",
-                "es": "capacitación-de-indeva",
-                "pt": "treinamento-indeva"
+                "en": "indeva-training-subcategory",
+                "es": "capacitacion-de-indeva-subcategoria",
+                "pt": "treinamento-indeva-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -21550,9 +21566,9 @@
                 "pt": "Usabilidade Indeva"
               },
               "slug": {
-                "en": "indeva-usability",
-                "es": "usabilidad-de-indeva",
-                "pt": "usabilidade-indeva"
+                "en": "indeva-usability-subcategory",
+                "es": "usabilidad-de-indeva-subcategoria",
+                "pt": "usabilidade-indeva-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -21581,9 +21597,9 @@
                 "pt": "Gerentes"
               },
               "slug": {
-                "en": "managers",
-                "es": "gerentes",
-                "pt": "gerentes"
+                "en": "managers-subcategory",
+                "es": "gerentes-subcategoria",
+                "pt": "gerentes-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -21657,9 +21673,9 @@
                 "pt": "Visão Geral Indeva"
               },
               "slug": {
-                "en": "overview-indeva",
-                "es": "visión-general-indeva",
-                "pt": "visão-geral-indeva"
+                "en": "overview-indeva-subcategory",
+                "es": "vision-general-indeva-subcategoria",
+                "pt": "visão-geral-indeva-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -21688,9 +21704,9 @@
                 "pt": "Rankings e campanhas"
               },
               "slug": {
-                "en": "rankings-and-campaigns",
-                "es": "rankings-y-campañas",
-                "pt": "rankings-e-campanhas"
+                "en": "rankings-and-campaigns-subcategory",
+                "es": "rankings-y-campanas-subcategoria",
+                "pt": "rankings-e-campanhas-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -21734,9 +21750,9 @@
                 "pt": "Relatórios"
               },
               "slug": {
-                "en": "reports",
-                "es": "informes",
-                "pt": "relatórios"
+                "en": "reports-subcategory",
+                "es": "informes-subcategoria",
+                "pt": "relatórios-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -21930,9 +21946,9 @@
                 "pt": "Validação de vendas"
               },
               "slug": {
-                "en": "sales-validation",
-                "es": "validación-de-ventas",
-                "pt": "validação-de-vendas"
+                "en": "sales-validation-subcategory",
+                "es": "validacion-de-ventas-subcategoria",
+                "pt": "validação-de-vendas-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -21961,9 +21977,9 @@
                 "pt": "Feedback do vendedor"
               },
               "slug": {
-                "en": "seller-feedback",
-                "es": "feedback-del-vendedor",
-                "pt": "feedback-do-vendedor"
+                "en": "seller-feedback-subcategory",
+                "es": "feedback-del-vendedor-subcategoria",
+                "pt": "feedback-do-vendedor-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -22012,6 +22028,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "View feedback in the Indeva app",
+                    "pt": "Visualizar feedback no app Indeva",
+                    "es": "View feedback in the Indeva app"
+                  },
+                  "slug": {
+                    "en": "view-feedback-in-the-indeva-app",
+                    "pt": "visualizar-feedback-no-app-indeva",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -22022,9 +22053,9 @@
                 "pt": "Vendedores"
               },
               "slug": {
-                "en": "sellers",
-                "es": "sellers",
-                "pt": "vendedores"
+                "en": "sellers-subcategory",
+                "es": "sellers-subcategoria",
+                "pt": "vendedores-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -22143,9 +22174,9 @@
                 "pt": "Loja indeva"
               },
               "slug": {
-                "en": "store-indeva",
-                "es": "tienda-indeva",
-                "pt": "loja-indeva"
+                "en": "store-indeva-subcategory",
+                "es": "tienda-indeva-subcategoria",
+                "pt": "loja-indeva-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -22174,9 +22205,9 @@
                 "pt": "Tablet e lista da vez"
               },
               "slug": {
-                "en": "tablet-and-current-queue-list",
-                "es": "tableta-y-lista-del-turno-actual",
-                "pt": "tablet-e-lista-da-vez"
+                "en": "tablet-and-current-queue-list-subcategory",
+                "es": "tableta-y-lista-del-turno-actual-subcategoria",
+                "pt": "tablet-e-lista-da-vez-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -22340,9 +22371,9 @@
                 "pt": "Conta do usuário"
               },
               "slug": {
-                "en": "user-account",
-                "es": "cuenta-de-usuario",
-                "pt": "conta-do-usuário"
+                "en": "user-account-subcategory",
+                "es": "cuenta-de-usuario-subcategoria",
+                "pt": "conta-do-usuário-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -22475,9 +22506,9 @@
                     "pt": "Atualização de vendas com PDV/ERP"
                   },
                   "slug": {
-                    "en": "sales-update-with-pdv/erp",
-                    "es": "actualización-de-ventas-con-pdv/erp",
-                    "pt": "atualização-de-vendas-com-pdv/erp"
+                    "en": "sales-update-with-pdv/erp-subcategory",
+                    "es": "actualizacion-de-ventas-con-pdv/erp-subcategoria",
+                    "pt": "atualização-de-vendas-com-pdv/erp-subcategoria"
                   },
                   "origin": "",
                   "type": "category",
@@ -22544,6 +22575,21 @@
                     },
                     {
                       "name": {
+                        "en": "Microvix integration interrupted due to username and password",
+                        "es": "Interrupción de la integración con Microvix por usuario y contraseña",
+                        "pt": "Interrupção da integração Microvix por usuário e senha"
+                      },
+                      "slug": {
+                        "en": "microvix-integration-interrupted-due-to-username-and-password",
+                        "es": "interrupcion-de-la-integracion-con-microvix-por-usuario-y-contrasena",
+                        "pt": "interrupcao-da-integracao-microvix-por-usuario-e-senha"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Open and check Indeva Integrator",
                         "es": "Abrir y verificar el Integrador Indeva",
                         "pt": "Abrir e verificar o Integrador Indeva"
@@ -22585,9 +22631,9 @@
             "pt": "Infraestrutura"
           },
           "slug": {
-            "en": "infrastructure",
-            "es": "infraestructura",
-            "pt": "infraestrutura"
+            "en": "infrastructure-category",
+            "es": "infraestructura-categoria",
+            "pt": "infraestrutura-categoria"
           },
           "origin": "",
           "type": "category",
@@ -22599,9 +22645,9 @@
                 "pt": "CDN Service"
               },
               "slug": {
-                "en": "cdn-service",
-                "es": "cdn-service",
-                "pt": "cdn-service"
+                "en": "cdn-service-subcategory",
+                "es": "cdn-service-subcategoria",
+                "pt": "cdn-service-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -22735,9 +22781,9 @@
                 "pt": "SLA & Status"
               },
               "slug": {
-                "en": "sla-and-status",
-                "es": "sla-y-status",
-                "pt": "sla-e-status"
+                "en": "sla-and-status-subcategory",
+                "es": "sla-y-status-subcategoria",
+                "pt": "sla-e-status-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -22798,9 +22844,9 @@
             "pt": "Integrações"
           },
           "slug": {
-            "en": "integrations",
-            "es": "integraciones",
-            "pt": "integrações"
+            "en": "integrations-category",
+            "es": "integraciones-categoria",
+            "pt": "integrações-categoria"
           },
           "origin": "",
           "type": "category",
@@ -22812,9 +22858,9 @@
                 "pt": "Configurações de integrações"
               },
               "slug": {
-                "en": "integration-settings",
-                "es": "configuración-de-las-integraciones",
-                "pt": "configurações-de-integrações"
+                "en": "integration-settings-subcategory",
+                "es": "configuracion-de-las-integraciones-subcategoria",
+                "pt": "configurações-de-integrações-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -23226,6 +23272,21 @@
                 },
                 {
                   "name": {
+                    "en": "Mercado Libre Envios",
+                    "es": "Envíos de Mercado Libre",
+                    "pt": "Mercado Livre Envios"
+                  },
+                  "slug": {
+                    "en": "mercado-libre-envios",
+                    "es": "envios-de-mercado-libre",
+                    "pt": "mercado-livre-envios"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Mercado Libre Holidays",
                     "es": "Mercado Libre Feriados",
                     "pt": "Mercado Livre Feriados"
@@ -23383,9 +23444,9 @@
                 "pt": "Visão geral de Integrações"
               },
               "slug": {
-                "en": "integrations-overview",
-                "es": "visión-de-conjunto-de-integraciones",
-                "pt": "visão-geral-de-integrações"
+                "en": "integrations-overview-subcategory",
+                "es": "vision-de-conjunto-de-integraciones-subcategoria",
+                "pt": "visão-geral-de-integrações-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -23579,9 +23640,9 @@
                 "pt": "Estoque"
               },
               "slug": {
-                "en": "inventory",
-                "es": "valores",
-                "pt": "estoque"
+                "en": "inventory-subcategory",
+                "es": "valores-subcategoria",
+                "pt": "estoque-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -23775,9 +23836,9 @@
                 "pt": "Gerenciamento de anúncios"
               },
               "slug": {
-                "en": "offer-management",
-                "es": "gestión-de-anuncios",
-                "pt": "gerenciamento-de-anúncios"
+                "en": "offer-management-subcategory",
+                "es": "gestion-de-anuncios-subcategoria",
+                "pt": "gerenciamento-de-anúncios-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -23836,9 +23897,9 @@
                 "pt": "Pedidos"
               },
               "slug": {
-                "en": "orders",
-                "es": "pedidos",
-                "pt": "pedidos"
+                "en": "orders-subcategory",
+                "es": "pedidos-subcategoria",
+                "pt": "pedidos-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -24032,9 +24093,9 @@
                 "pt": "Preço"
               },
               "slug": {
-                "en": "price",
-                "es": "precio",
-                "pt": "preço"
+                "en": "price-subcategory",
+                "es": "precio-subcategoria",
+                "pt": "preço-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -24093,9 +24154,9 @@
                 "pt": "Produtos"
               },
               "slug": {
-                "en": "products",
-                "es": "productos",
-                "pt": "produtos"
+                "en": "products-subcategory",
+                "es": "productos-subcategoria",
+                "pt": "produtos-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -24156,9 +24217,9 @@
             "pt": "Intelligent Search"
           },
           "slug": {
-            "en": "intelligent-search",
-            "es": "intelligent-search",
-            "pt": "intelligent-search"
+            "en": "intelligent-search-category",
+            "es": "intelligent-search-categoria",
+            "pt": "intelligent-search-categoria"
           },
           "origin": "",
           "type": "category",
@@ -24170,9 +24231,9 @@
                 "pt": "Banners"
               },
               "slug": {
-                "en": "banners-category",
-                "es": "banners-category",
-                "pt": "banners-category"
+                "en": "banners-subcategory",
+                "es": "banners-subcategoria",
+                "pt": "banners-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -24216,9 +24277,9 @@
                 "pt": "Comportamento do Intelligent Search"
               },
               "slug": {
-                "en": "intelligent-search-behavior",
-                "es": "comportamiento-del-intelligent-search",
-                "pt": "comportamento-do-intelligent-search"
+                "en": "intelligent-search-behavior-subcategory",
+                "es": "comportamiento-del-intelligent-search-subcategoria",
+                "pt": "comportamento-do-intelligent-search-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -24337,9 +24398,9 @@
                 "pt": "Intelligent Search - Visão geral"
               },
               "slug": {
-                "en": "intelligent-search-overview-category",
-                "es": "intelligent-search---visión-general",
-                "pt": "intelligent-search---visão-geral"
+                "en": "intelligent-search-overview-subcategory",
+                "es": "intelligent-search---vision-general-subcategoria",
+                "pt": "intelligent-search---visão-geral-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -24413,9 +24474,9 @@
                 "pt": "Configurações do Intelligent Search"
               },
               "slug": {
-                "en": "intelligent-search-settings",
-                "es": "configuración-del-intelligent-search",
-                "pt": "configurações-do-intelligent-search"
+                "en": "intelligent-search-settings-subcategory",
+                "es": "configuracion-del-intelligent-search-subcategoria",
+                "pt": "configurações-do-intelligent-search-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -24444,9 +24505,9 @@
                 "pt": "Redirecionamentos"
               },
               "slug": {
-                "en": "redirects-category",
-                "es": "redireccionamientos",
-                "pt": "redirecionamentos-category"
+                "en": "redirects-subcategory",
+                "es": "redireccionamientos-subcategoria",
+                "pt": "redirecionamentos-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -24490,9 +24551,9 @@
                 "pt": "Relevância"
               },
               "slug": {
-                "en": "relevance",
-                "es": "relevancia",
-                "pt": "relevância"
+                "en": "relevance-subcategory",
+                "es": "relevancia-subcategoria",
+                "pt": "relevância-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -24581,9 +24642,9 @@
                 "pt": "Sinônimos"
               },
               "slug": {
-                "en": "synonyms-category",
-                "es": "sinónimos",
-                "pt": "sinônimos"
+                "en": "synonyms-subcategory",
+                "es": "sinonimos-subcategoria",
+                "pt": "sinônimos-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -24659,9 +24720,9 @@
             "pt": "Master Data"
           },
           "slug": {
-            "en": "master-data",
-            "es": "master-data",
-            "pt": "master-data"
+            "en": "master-data-category",
+            "es": "master-data-categoria",
+            "pt": "master-data-categoria"
           },
           "origin": "",
           "type": "category",
@@ -24673,9 +24734,9 @@
                 "pt": "Gestão de clientes"
               },
               "slug": {
-                "en": "customer-relations-management",
-                "es": "gestión-de-clientes",
-                "pt": "gestão-de-clientes"
+                "en": "customer-relations-management-subcategory",
+                "es": "gestion-de-clientes-subcategoria",
+                "pt": "gestão-de-clientes-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -24809,9 +24870,9 @@
                 "pt": "Conceitos básicos do Master Data"
               },
               "slug": {
-                "en": "master-data-basics",
-                "es": "conceptos-básicos-de-master-data",
-                "pt": "conceitos-básicos-do-master-data"
+                "en": "master-data-basics-subcategory",
+                "es": "conceptos-basicos-de-master-data-subcategoria",
+                "pt": "conceitos-básicos-do-master-data-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -24840,9 +24901,9 @@
                 "pt": "Configurações de Master Data"
               },
               "slug": {
-                "en": "master-data-settings",
-                "es": "configuración-de-master-data",
-                "pt": "configurações-de-master-data"
+                "en": "master-data-settings-subcategory",
+                "es": "configuracion-de-master-data-subcategoria",
+                "pt": "configurações-de-master-data-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -24871,9 +24932,9 @@
                 "pt": "Aplicações no Master Data v1"
               },
               "slug": {
-                "en": "master-data-v1-applications",
-                "es": "aplicaciones-de-master-data-v1",
-                "pt": "aplicações-no-master-data-v1"
+                "en": "master-data-v1-applications-subcategory",
+                "es": "aplicaciones-de-master-data-v1-subcategoria",
+                "pt": "aplicações-no-master-data-v1-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -24962,9 +25023,9 @@
                 "pt": "Configurações do Master Data v1"
               },
               "slug": {
-                "en": "master-data-v1-settings",
-                "es": "configuración-de-master-data-v1",
-                "pt": "configurações-do-master-data-v1"
+                "en": "master-data-v1-settings-subcategory",
+                "es": "configuracion-de-master-data-v1-subcategoria",
+                "pt": "configurações-do-master-data-v1-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -25113,9 +25174,9 @@
                 "pt": "Triggers no Master Data v1"
               },
               "slug": {
-                "en": "master-data-v1-triggers",
-                "es": "triggers-de-master-data-v1",
-                "pt": "triggers-no-master-data-v1"
+                "en": "master-data-v1-triggers-subcategory",
+                "es": "triggers-de-master-data-v1-subcategoria",
+                "pt": "triggers-no-master-data-v1-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -25176,9 +25237,9 @@
             "pt": "Central de mensagens"
           },
           "slug": {
-            "en": "message-center",
-            "es": "centro-de-mensajes",
-            "pt": "central-de-mensagens"
+            "en": "message-center-category",
+            "es": "centro-de-mensajes-categoria",
+            "pt": "central-de-mensagens-categoria"
           },
           "origin": "",
           "type": "category",
@@ -25190,9 +25251,9 @@
                 "pt": "Remetentes"
               },
               "slug": {
-                "en": "senders",
-                "es": "remitentes",
-                "pt": "remetentes"
+                "en": "senders-subcategory",
+                "es": "remitentes-subcategoria",
+                "pt": "remetentes-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -25221,9 +25282,9 @@
                 "pt": "Templates"
               },
               "slug": {
-                "en": "templates",
-                "es": "plantillas",
-                "pt": "templates"
+                "en": "templates-subcategory",
+                "es": "plantillas-subcategoria",
+                "pt": "templates-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -25329,9 +25390,9 @@
             "pt": "Omnichannel"
           },
           "slug": {
-            "en": "omnichannel",
-            "es": "omnichannel",
-            "pt": "omnichannel"
+            "en": "omnichannel-category",
+            "es": "omnichannel-categoria",
+            "pt": "omnichannel-categoria"
           },
           "origin": "",
           "type": "category",
@@ -25343,9 +25404,9 @@
                 "pt": "Visão geral de Omnichannel"
               },
               "slug": {
-                "en": "omnichannel-overview",
-                "es": "visión-general-de-omnichannel",
-                "pt": "visão-geral-de-omnichannel"
+                "en": "omnichannel-overview-subcategory",
+                "es": "vision-general-de-omnichannel-subcategoria",
+                "pt": "visão-geral-de-omnichannel-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -25404,9 +25465,9 @@
                 "pt": "Configurações de Omnichannel"
               },
               "slug": {
-                "en": "omnichannel-settings",
-                "es": "configuración-de-omnichannel",
-                "pt": "configurações-de-omnichannel"
+                "en": "omnichannel-settings-subcategory",
+                "es": "configuracion-de-omnichannel-subcategoria",
+                "pt": "configurações-de-omnichannel-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -25452,9 +25513,9 @@
             "pt": "Operacional"
           },
           "slug": {
-            "en": "operational",
-            "es": "operativo",
-            "pt": "operacional"
+            "en": "operational-category",
+            "es": "operativo-categoria",
+            "pt": "operacional-categoria"
           },
           "origin": "",
           "type": "category",
@@ -25466,9 +25527,9 @@
                 "pt": "Financeiro"
               },
               "slug": {
-                "en": "financial",
-                "es": "financiero",
-                "pt": "financeiro"
+                "en": "financial-subcategory",
+                "es": "financiero-subcategoria",
+                "pt": "financeiro-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -25527,9 +25588,9 @@
                 "pt": "Suporte"
               },
               "slug": {
-                "en": "support",
-                "es": "apoyo",
-                "pt": "suporte"
+                "en": "support-subcategory",
+                "es": "apoyo-subcategoria",
+                "pt": "suporte-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -25596,6 +25657,21 @@
                 },
                 {
                   "name": {
+                    "en": "Responsibilities within the VTEX ecosystem",
+                    "pt": "Responsabilidades no ecossistema VTEX",
+                    "es": "Responsibilities within the VTEX ecosystem"
+                  },
+                  "slug": {
+                    "en": "responsibilities-within-the-vtex-ecosystem",
+                    "pt": "responsabilidades-no-ecossistema-vtex",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "VTEX Global Support resources",
                     "es": "Recursos de soporte global de VTEX",
                     "pt": "Recursos de Suporte Global da VTEX"
@@ -25643,14 +25719,45 @@
             },
             {
               "name": {
+                "en": "Apoyo",
+                "es": "Apoyo",
+                "pt": "Apoyo"
+              },
+              "slug": {
+                "en": "apoyo",
+                "es": "apoyo-subcategoria",
+                "pt": "apoyo"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "Responsabilidades en el ecosistema VTEX",
+                    "en": "Responsabilidades en el ecosistema VTEX",
+                    "pt": "Responsabilidades en el ecosistema VTEX"
+                  },
+                  "slug": {
+                    "es": "responsabilidades-en-el-ecosistema-vtex",
+                    "en": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "VTEX Admin",
                 "es": "Admin VTEX",
                 "pt": "Admin VTEX"
               },
               "slug": {
-                "en": "vtex-admin",
-                "es": "admin-vtex",
-                "pt": "admin-vtex"
+                "en": "vtex-admin-subcategory",
+                "es": "admin-vtex-subcategoria",
+                "pt": "admin-vtex-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -25696,9 +25803,9 @@
             "pt": "Pedidos"
           },
           "slug": {
-            "en": "orders",
-            "es": "pedidos",
-            "pt": "pedidos"
+            "en": "orders-category",
+            "es": "pedidos-categoria",
+            "pt": "pedidos-categoria"
           },
           "origin": "",
           "type": "category",
@@ -25710,9 +25817,9 @@
                 "pt": "Todos os pedidos"
               },
               "slug": {
-                "en": "all-orders",
-                "es": "todos-los-pedidos",
-                "pt": "todos-os-pedidos"
+                "en": "all-orders-subcategory",
+                "es": "todos-los-pedidos-subcategoria",
+                "pt": "todos-os-pedidos-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -26161,9 +26268,9 @@
                 "pt": "Pedidos B2B"
               },
               "slug": {
-                "en": "b2b-orders",
-                "es": "pedidos-b2b",
-                "pt": "pedidos-b2b"
+                "en": "b2b-orders-subcategory",
+                "es": "pedidos-b2b-subcategoria",
+                "pt": "pedidos-b2b-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -26192,9 +26299,9 @@
                 "pt": "Configurações de Gerenciamento de Pedidos"
               },
               "slug": {
-                "en": "orders-management-settings",
-                "es": "configuración-de-gestión-de-pedidos",
-                "pt": "configurações-de-gerenciamento-de-pedidos"
+                "en": "orders-management-settings-subcategory",
+                "es": "configuracion-de-gestion-de-pedidos-subcategoria",
+                "pt": "configurações-de-gerenciamento-de-pedidos-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -26388,9 +26495,9 @@
                 "pt": "Visão geral de pedidos"
               },
               "slug": {
-                "en": "orders-overview-category",
-                "es": "visión-de-conjunto-de-pedidos",
-                "pt": "visão-geral-de-pedidos"
+                "en": "orders-overview-subcategory",
+                "es": "vision-de-conjunto-de-pedidos-subcategoria",
+                "pt": "visão-geral-de-pedidos-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -26554,9 +26661,9 @@
                 "pt": "Televendas e atendimento ao cliente"
               },
               "slug": {
-                "en": "telesales-and-customer-service",
-                "es": "televentas-y-servicio-al-cliente",
-                "pt": "televendas-e-atendimento-ao-cliente"
+                "en": "telesales-and-customer-service-subcategory",
+                "es": "televentas-y-servicio-al-cliente-subcategoria",
+                "pt": "televendas-e-atendimento-ao-cliente-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -26632,9 +26739,9 @@
             "pt": "Outros"
           },
           "slug": {
-            "en": "other",
-            "es": "otros",
-            "pt": "outros"
+            "en": "other-category",
+            "es": "otros-categoria",
+            "pt": "outros-categoria"
           },
           "origin": "",
           "type": "category",
@@ -26646,9 +26753,9 @@
                 "pt": "Foresight Commerce Academy"
               },
               "slug": {
-                "en": "foresight-commerce-academy",
-                "es": "foresight-commerce-academy",
-                "pt": "foresight-commerce-academy"
+                "en": "foresight-commerce-academy-subcategory",
+                "es": "foresight-commerce-academy-subcategoria",
+                "pt": "foresight-commerce-academy-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -26677,9 +26784,9 @@
                 "pt": "Agendamento"
               },
               "slug": {
-                "en": "scheduling-features",
-                "es": "programación-de-funcionalidades",
-                "pt": "agendamento"
+                "en": "scheduling-features-subcategory",
+                "es": "programacion-de-funcionalidades-subcategoria",
+                "pt": "agendamento-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -26708,9 +26815,9 @@
                 "pt": "Não categorizado"
               },
               "slug": {
-                "en": "uncategorized",
-                "es": "no-categorizado",
-                "pt": "não-categorizado"
+                "en": "uncategorized-subcategory",
+                "es": "no-categorizado-subcategoria",
+                "pt": "não-categorizado-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -26756,9 +26863,9 @@
             "pt": "Pagamentos"
           },
           "slug": {
-            "en": "payments",
-            "es": "pagos",
-            "pt": "pagamentos"
+            "en": "payments-category",
+            "es": "pagos-categoria",
+            "pt": "pagamentos-categoria"
           },
           "origin": "",
           "type": "category",
@@ -26770,9 +26877,9 @@
                 "pt": "Conciliação bancária"
               },
               "slug": {
-                "en": "bank-conciliation",
-                "es": "conciliaciones-bancarias-category",
-                "pt": "conciliação-bancária"
+                "en": "bank-conciliation-subcategory",
+                "es": "conciliaciones-bancarias-subcategoria",
+                "pt": "conciliação-bancária-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -26816,9 +26923,9 @@
                 "pt": "Vale-compra"
               },
               "slug": {
-                "en": "gift-card-category",
-                "es": "tarjeta-de-regalo",
-                "pt": "vale-compra"
+                "en": "gift-card-subcategory",
+                "es": "tarjeta-de-regalo-subcategoria",
+                "pt": "vale-compra-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -26847,9 +26954,9 @@
                 "pt": "Configurações de Pagamentos"
               },
               "slug": {
-                "en": "payment-settings",
-                "es": "configuración-de-pagos",
-                "pt": "configurações-de-pagamentos"
+                "en": "payment-settings-subcategory",
+                "es": "configuracion-de-pagos-subcategoria",
+                "pt": "configurações-de-pagamentos-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -27824,6 +27931,21 @@
                     "en": "setting-up-payments-with-bamboo-payments",
                     "es": "configurar-pago-con-bamboo-payments",
                     "pt": "configurar-pagamento-com-bamboo-payments"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Banco do Brasil App",
+                    "es": "Configurar pago con Banco do Brasil App",
+                    "pt": "Configurar pagamento com Banco do Brasil App"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-banco-do-brasil-app",
+                    "es": "configurar-pago-con-banco-do-brasil-app",
+                    "pt": "configurar-pagamento-com-banco-do-brasil-app"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29968,9 +30090,9 @@
                 "pt": "Visão geral de Pagamentos"
               },
               "slug": {
-                "en": "payments-overview",
-                "es": "visión-de-conjunto-de-pagos",
-                "pt": "visão-geral-de-pagamentos"
+                "en": "payments-overview-subcategory",
+                "es": "vision-de-conjunto-de-pagos-subcategoria",
+                "pt": "visão-geral-de-pagamentos-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -30389,9 +30511,9 @@
                 "pt": "Transações"
               },
               "slug": {
-                "en": "transactions",
-                "es": "transacciones",
-                "pt": "transações"
+                "en": "transactions-subcategory",
+                "es": "transacciones-subcategoria",
+                "pt": "transações-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -30593,8 +30715,8 @@
                 },
                 {
                   "name": {
-                    "en": "Viewing the order's details in Orders",
-                    "es": "Visualizar detalles del pedido en Pedidos",
+                    "en": "Viewing transaction details in Orders",
+                    "es": "Visualizar detalles de la transacción en Pedidos",
                     "pt": "Visualizar detalhes da transação em Pedidos"
                   },
                   "slug": {
@@ -30632,44 +30754,13 @@
             "pt": "Preços"
           },
           "slug": {
-            "en": "prices",
-            "es": "precios",
-            "pt": "preços"
+            "en": "prices-category",
+            "es": "precios-categoria",
+            "pt": "preços-categoria"
           },
           "origin": "",
           "type": "category",
           "children": [
-            {
-              "name": {
-                "en": "B2B",
-                "es": "B2B",
-                "pt": "B2B"
-              },
-              "slug": {
-                "en": "b2b",
-                "es": "b2b",
-                "pt": "b2b"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "What is Order Configuration",
-                    "es": "Qué es Order Configuration",
-                    "pt": "O que é Order Configuration"
-                  },
-                  "slug": {
-                    "en": "what-is-order-configuration",
-                    "es": "que-es-order-configuration",
-                    "pt": "o-que-e-order-configuration"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
             {
               "name": {
                 "en": "Price list",
@@ -30677,9 +30768,9 @@
                 "pt": "Lista de preços"
               },
               "slug": {
-                "en": "price-list",
-                "es": "lista-de-precios",
-                "pt": "lista-de-preços"
+                "en": "price-list-subcategory",
+                "es": "lista-de-precios-subcategoria",
+                "pt": "lista-de-preços-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -30843,9 +30934,9 @@
                 "pt": "Regras de preço"
               },
               "slug": {
-                "en": "price-rules",
-                "es": "reglas-de-precio",
-                "pt": "regras-de-preço"
+                "en": "price-rules-subcategory",
+                "es": "reglas-de-precio-subcategoria",
+                "pt": "regras-de-preço-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -30874,9 +30965,9 @@
                 "pt": "Configurações de preços"
               },
               "slug": {
-                "en": "price-settings",
-                "es": "configuración-de-precios",
-                "pt": "configurações-de-preços"
+                "en": "price-settings-subcategory",
+                "es": "configuracion-de-precios-subcategoria",
+                "pt": "configurações-de-preços-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -30920,9 +31011,9 @@
                 "pt": "Arredondamento de Preços"
               },
               "slug": {
-                "en": "rounding-rules-category",
-                "es": "redondeo-de-precios-category",
-                "pt": "arredondamento-de-preços"
+                "en": "rounding-rules-subcategory",
+                "es": "redondeo-de-precios-subcategoria",
+                "pt": "arredondamento-de-preços-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -30953,9 +31044,9 @@
             "pt": "Projetos & Integrações"
           },
           "slug": {
-            "en": "projects-and-integrations",
-            "es": "proyectos-y-integraciones",
-            "pt": "projetos-e-integrações"
+            "en": "projects-and-integrations-category",
+            "es": "proyectos-y-integraciones-categoria",
+            "pt": "projetos-e-integrações-categoria"
           },
           "origin": "",
           "type": "category",
@@ -30967,9 +31058,9 @@
                 "pt": "Integração com ferramentas de monitoramento"
               },
               "slug": {
-                "en": "integration-with-monitoring-tools",
-                "es": "integración-con-herramientas-de-monitoreo",
-                "pt": "integração-com-ferramentas-de-monitoramento"
+                "en": "integration-with-monitoring-tools-subcategory",
+                "es": "integracion-con-herramientas-de-monitoreo-subcategoria",
+                "pt": "integração-com-ferramentas-de-monitoramento-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -31210,9 +31301,9 @@
             "pt": "Promoções e taxas"
           },
           "slug": {
-            "en": "promotions-and-taxes",
-            "es": "tasas-y-promociones",
-            "pt": "promoções-e-taxas"
+            "en": "promotions-and-taxes-category",
+            "es": "tasas-y-promociones-categoria",
+            "pt": "promoções-e-taxas-categoria"
           },
           "origin": "",
           "type": "category",
@@ -31224,9 +31315,9 @@
                 "pt": "Audiência de campanhas"
               },
               "slug": {
-                "en": "campaign-audiences-category",
-                "es": "audiencia-de-las-campañas",
-                "pt": "audiência-de-campanhas"
+                "en": "campaign-audiences-subcategory",
+                "es": "audiencia-de-las-campanas-subcategoria",
+                "pt": "audiência-de-campanhas-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -31300,9 +31391,9 @@
                 "pt": "Cupons"
               },
               "slug": {
-                "en": "coupons",
-                "es": "cupones",
-                "pt": "cupons"
+                "en": "coupons-subcategory",
+                "es": "cupones-subcategoria",
+                "pt": "cupons-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -31361,9 +31452,9 @@
                 "pt": "Promoções"
               },
               "slug": {
-                "en": "promotions",
-                "es": "promociones",
-                "pt": "promoções"
+                "en": "promotions-subcategory",
+                "es": "promociones-subcategoria",
+                "pt": "promoções-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -31917,9 +32008,9 @@
                 "pt": "Visão geral de Taxas & Promoções"
               },
               "slug": {
-                "en": "rates-and-benefits-overview",
-                "es": "visión-de-conjunto-de-tasas-y-promociones",
-                "pt": "visão-geral-de-taxas-e-promoções"
+                "en": "rates-and-benefits-overview-subcategory",
+                "es": "vision-de-conjunto-de-tasas-y-promociones-subcategoria",
+                "pt": "visão-geral-de-taxas-e-promoções-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -31948,9 +32039,9 @@
                 "pt": "Taxas"
               },
               "slug": {
-                "en": "taxes",
-                "es": "impuestos",
-                "pt": "taxas"
+                "en": "taxes-subcategory",
+                "es": "impuestos-subcategoria",
+                "pt": "taxas-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -32011,9 +32102,9 @@
             "pt": "Segurança"
           },
           "slug": {
-            "en": "security",
-            "es": "seguridad",
-            "pt": "segurança"
+            "en": "security-category",
+            "es": "seguridad-categoria",
+            "pt": "segurança-categoria"
           },
           "origin": "",
           "type": "category",
@@ -32025,9 +32116,9 @@
                 "pt": "Compliance de segurança da informação"
               },
               "slug": {
-                "en": "information-security-compliance",
-                "es": "cumplimiento-de-seguridad-de-la-información",
-                "pt": "compliance-de-segurança-da-informação"
+                "en": "information-security-compliance-subcategory",
+                "es": "cumplimiento-de-seguridad-de-la-informacion-subcategoria",
+                "pt": "compliance-de-segurança-da-informação-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -32116,9 +32207,9 @@
                 "pt": "Recursos de segurança da plataforma"
               },
               "slug": {
-                "en": "platform-security-resources",
-                "es": "recursos-de-seguridad-de-la-plataforma",
-                "pt": "recursos-de-segurança-da-plataforma"
+                "en": "platform-security-resources-subcategory",
+                "es": "recursos-de-seguridad-de-la-plataforma-subcategoria",
+                "pt": "recursos-de-segurança-da-plataforma-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -32192,9 +32283,9 @@
                 "pt": "Segurança para lojistas"
               },
               "slug": {
-                "en": "store-security",
-                "es": "seguridad-para-comerciantes",
-                "pt": "segurança-para-lojistas"
+                "en": "store-security-subcategory",
+                "es": "seguridad-para-comerciantes-subcategoria",
+                "pt": "segurança-para-lojistas-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -32343,9 +32434,9 @@
                 "pt": "VTEX Shield"
               },
               "slug": {
-                "en": "vtex-shield-category",
-                "es": "vtex-shield-category",
-                "pt": "vtex-shield-category"
+                "en": "vtex-shield-subcategory",
+                "es": "vtex-shield-subcategoria",
+                "pt": "vtex-shield-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -32436,9 +32527,9 @@
             "pt": "Sellers"
           },
           "slug": {
-            "en": "sellers",
-            "es": "sellers",
-            "pt": "sellers"
+            "en": "sellers-category",
+            "es": "sellers-categoria",
+            "pt": "sellers-categoria"
           },
           "origin": "",
           "type": "category",
@@ -32450,9 +32541,9 @@
                 "pt": "Categorias e marcas"
               },
               "slug": {
-                "en": "categories-and-brands",
-                "es": "categorías-y-marcas",
-                "pt": "categorias-e-marcas"
+                "en": "categories-and-brands-subcategory",
+                "es": "categorias-y-marcas-subcategoria",
+                "pt": "categorias-e-marcas-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -32496,9 +32587,9 @@
                 "pt": "Gerenciamento"
               },
               "slug": {
-                "en": "management",
-                "es": "gestión",
-                "pt": "gerenciamento"
+                "en": "management-subcategory",
+                "es": "gestion-subcategoria",
+                "pt": "gerenciamento-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -32557,9 +32648,9 @@
                 "pt": "SKUs Recebidos"
               },
               "slug": {
-                "en": "received-skus",
-                "es": "skus-recibidos",
-                "pt": "skus-recebidos"
+                "en": "received-skus-subcategory",
+                "es": "skus-recibidos-subcategoria",
+                "pt": "skus-recebidos-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -32588,9 +32679,9 @@
                 "pt": "Seller Portal"
               },
               "slug": {
-                "en": "seller-portal",
-                "es": "seller-portal",
-                "pt": "seller-portal"
+                "en": "seller-portal-subcategory",
+                "es": "seller-portal-subcategoria",
+                "pt": "seller-portal-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -32814,9 +32905,9 @@
                 "pt": "Visão geral de Sellers"
               },
               "slug": {
-                "en": "sellers-overview",
-                "es": "visión-de-conjunto-de-sellers",
-                "pt": "visão-geral-de-sellers"
+                "en": "sellers-overview-subcategory",
+                "es": "vision-de-conjunto-de-sellers-subcategoria",
+                "pt": "visão-geral-de-sellers-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -32950,9 +33041,9 @@
                 "pt": "Vínculos de SKU"
               },
               "slug": {
-                "en": "sku-binding",
-                "es": "vínculos-de-sku",
-                "pt": "vínculos-de-sku"
+                "en": "sku-binding-subcategory",
+                "es": "vinculos-de-sku-subcategoria",
+                "pt": "vínculos-de-sku-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -32998,9 +33089,9 @@
             "pt": "Envio"
           },
           "slug": {
-            "en": "shipping",
-            "es": "envío",
-            "pt": "envio"
+            "en": "shipping-category",
+            "es": "envio-categoria",
+            "pt": "envio-categoria"
           },
           "origin": "",
           "type": "category",
@@ -33012,9 +33103,9 @@
                 "pt": "Envio por geolocalização"
               },
               "slug": {
-                "en": "geolocation-shipping",
-                "es": "envío-por-geolocalización",
-                "pt": "envio-por-geolocalização"
+                "en": "geolocation-shipping-subcategory",
+                "es": "envio-por-geolocalizacion-subcategoria",
+                "pt": "envio-por-geolocalização-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -33043,9 +33134,9 @@
                 "pt": "Feriados"
               },
               "slug": {
-                "en": "holidays",
-                "es": "festivos",
-                "pt": "feriados"
+                "en": "holidays-subcategory",
+                "es": "festivos-subcategoria",
+                "pt": "feriados-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -33074,9 +33165,9 @@
                 "pt": "Inventário"
               },
               "slug": {
-                "en": "inventory",
-                "es": "inventario",
-                "pt": "inventário"
+                "en": "inventory-subcategory",
+                "es": "inventario-subcategoria",
+                "pt": "inventário-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -33165,9 +33256,9 @@
                 "pt": "Configurações de Estoque e Entrega"
               },
               "slug": {
-                "en": "inventory-and-shipping-settings",
-                "es": "configuración-de-inventario-y-envío",
-                "pt": "configurações-de-estoque-e-entrega"
+                "en": "inventory-and-shipping-settings-subcategory",
+                "es": "configuracion-de-inventario-y-envio-subcategoria",
+                "pt": "configurações-de-estoque-e-entrega-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -33301,9 +33392,9 @@
                 "pt": "Visão geral da logística"
               },
               "slug": {
-                "en": "logistics-overview",
-                "es": "visión-general-de-la-logística",
-                "pt": "visão-geral-da-logística"
+                "en": "logistics-overview-subcategory",
+                "es": "vision-general-de-la-logistica-subcategoria",
+                "pt": "visão-geral-da-logística-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -33362,9 +33453,9 @@
                 "pt": "Pontos de retirada"
               },
               "slug": {
-                "en": "pickup-points-category",
-                "es": "puntos-de-recogida-category",
-                "pt": "pontos-de-retirada-category"
+                "en": "pickup-points-subcategory",
+                "es": "puntos-de-recogida-subcategoria",
+                "pt": "pontos-de-retirada-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -33408,9 +33499,9 @@
                 "pt": "Tarifas de envio"
               },
               "slug": {
-                "en": "shipping-rates-category",
-                "es": "tarifas-de-envío",
-                "pt": "tarifas-de-envio-category"
+                "en": "shipping-rates-subcategory",
+                "es": "tarifas-de-envio-subcategoria",
+                "pt": "tarifas-de-envio-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -33484,9 +33575,9 @@
                 "pt": "Simulador de envio"
               },
               "slug": {
-                "en": "shipping-simulator",
-                "es": "simulador-de-envío",
-                "pt": "simulador-de-envio-category"
+                "en": "shipping-simulator-subcategory",
+                "es": "simulador-de-envio-subcategoria",
+                "pt": "simulador-de-envio-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -33530,9 +33621,9 @@
                 "pt": "Estratégia de envio"
               },
               "slug": {
-                "en": "shipping-strategy-category",
-                "es": "estratégia-de-envío",
-                "pt": "estratégia-de-envio"
+                "en": "shipping-strategy-subcategory",
+                "es": "estrategia-de-envio-subcategoria",
+                "pt": "estratégia-de-envio-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -33891,9 +33982,9 @@
                 "pt": "VTEX Pick and Pack"
               },
               "slug": {
-                "en": "vtex-pick-and-pack-category",
-                "es": "vtex-pick-and-pack-category",
-                "pt": "vtex-pick-and-pack-category"
+                "en": "vtex-pick-and-pack-subcategory",
+                "es": "vtex-pick-and-pack-subcategoria",
+                "pt": "vtex-pick-and-pack-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -34042,9 +34133,9 @@
                 "pt": "VTEX Shipping Network"
               },
               "slug": {
-                "en": "vtex-shipping-network",
-                "es": "vtex-shipping-network",
-                "pt": "vtex-shipping-network"
+                "en": "vtex-shipping-network-subcategory",
+                "es": "vtex-shipping-network-subcategoria",
+                "pt": "vtex-shipping-network-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -34135,9 +34226,9 @@
             "pt": "Configurações da Loja"
           },
           "slug": {
-            "en": "store-settings",
-            "es": "configuraciones-de-la-tienda",
-            "pt": "configurações-da-loja"
+            "en": "store-settings-category",
+            "es": "configuraciones-de-la-tienda-categoria",
+            "pt": "configurações-da-loja-categoria"
           },
           "origin": "",
           "type": "category",
@@ -34149,9 +34240,9 @@
                 "pt": "Boas práticas para o sucesso da sua loja VTEX"
               },
               "slug": {
-                "en": "best-practices-for-the-success-of-your-vtex-store-category",
-                "es": "mejores-prácticas-para-el-éxito-de-tu-tienda-vtex",
-                "pt": "boas-práticas-para-o-sucesso-da-sua-loja-vtex"
+                "en": "best-practices-for-the-success-of-your-vtex-store-subcategory",
+                "es": "mejores-practicas-para-el-exito-de-tu-tienda-vtex-subcategoria",
+                "pt": "boas-práticas-para-o-sucesso-da-sua-loja-vtex-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -34180,9 +34271,9 @@
                 "pt": "Visão Geral de Configurações da Loja"
               },
               "slug": {
-                "en": "store-settings-overview-category",
-                "es": "visión-general-de-configuraciones-de-la-tienda",
-                "pt": "visão-geral-de-configurações-da-loja"
+                "en": "store-settings-overview-subcategory",
+                "es": "vision-general-de-configuraciones-de-la-tienda-subcategoria",
+                "pt": "visão-geral-de-configurações-da-loja-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -34228,9 +34319,9 @@
             "pt": "Storefront"
           },
           "slug": {
-            "en": "storefront",
-            "es": "storefront",
-            "pt": "storefront"
+            "en": "storefront-category",
+            "es": "storefront-categoria",
+            "pt": "storefront-categoria"
           },
           "origin": "",
           "type": "category",
@@ -34242,9 +34333,9 @@
                 "pt": "Headless CMS"
               },
               "slug": {
-                "en": "headless-cms",
-                "es": "headless-cms",
-                "pt": "headless-cms"
+                "en": "headless-cms-subcategory",
+                "es": "headless-cms-subcategoria",
+                "pt": "headless-cms-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -34348,9 +34439,9 @@
                 "pt": "Layout"
               },
               "slug": {
-                "en": "layout",
-                "es": "layout",
-                "pt": "layout"
+                "en": "layout-subcategory",
+                "es": "layout-subcategoria",
+                "pt": "layout-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -35324,9 +35415,9 @@
                 "pt": "Páginas"
               },
               "slug": {
-                "en": "pages",
-                "es": "páginas",
-                "pt": "páginas"
+                "en": "pages-subcategory",
+                "es": "paginas-subcategoria",
+                "pt": "páginas-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -35400,9 +35491,9 @@
                 "pt": "Site Editor"
               },
               "slug": {
-                "en": "site-editor",
-                "es": "site-editor",
-                "pt": "site-editor"
+                "en": "site-editor-subcategory",
+                "es": "site-editor-subcategoria",
+                "pt": "site-editor-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -35536,9 +35627,9 @@
                 "pt": "Configurações da Loja - Storefront"
               },
               "slug": {
-                "en": "store-settings---storefront",
-                "es": "configuración-de-la-tienda---storefront",
-                "pt": "configurações-da-loja---storefront"
+                "en": "store-settings---storefront-subcategory",
+                "es": "configuracion-de-la-tienda---storefront-subcategoria",
+                "pt": "configurações-da-loja---storefront-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -35732,9 +35823,9 @@
                 "pt": "Visão Geral Storefront"
               },
               "slug": {
-                "en": "storefront-overview-category",
-                "es": "visión-general-storefront",
-                "pt": "visão-geral-storefront"
+                "en": "storefront-overview-subcategory",
+                "es": "vision-general-storefront-subcategoria",
+                "pt": "visão-geral-storefront-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -35763,9 +35854,9 @@
                 "pt": "Estilos"
               },
               "slug": {
-                "en": "styles",
-                "es": "estilos",
-                "pt": "estilos"
+                "en": "styles-subcategory",
+                "es": "estilos-subcategoria",
+                "pt": "estilos-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -35811,9 +35902,9 @@
             "pt": "Assinaturas"
           },
           "slug": {
-            "en": "subscriptions",
-            "es": "suscripciones",
-            "pt": "assinaturas"
+            "en": "subscriptions-category",
+            "es": "suscripciones-categoria",
+            "pt": "assinaturas-categoria"
           },
           "origin": "",
           "type": "category",
@@ -35825,9 +35916,9 @@
                 "pt": "Guias de Assinatura"
               },
               "slug": {
-                "en": "subscription-guides",
-                "es": "guía-de-suscripciones",
-                "pt": "guias-de-assinatura"
+                "en": "subscription-guides-subcategory",
+                "es": "guia-de-suscripciones-subcategoria",
+                "pt": "guias-de-assinatura-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -36008,9 +36099,9 @@
             "pt": "Sugestões"
           },
           "slug": {
-            "en": "suggestions",
-            "es": "sugerencias",
-            "pt": "sugestões"
+            "en": "suggestions-category",
+            "es": "sugerencias-categoria",
+            "pt": "sugestões-categoria"
           },
           "origin": "",
           "type": "category",
@@ -36022,9 +36113,9 @@
                 "pt": "Pendentes"
               },
               "slug": {
-                "en": "pending",
-                "es": "productos",
-                "pt": "pendentes"
+                "en": "pending-subcategory",
+                "es": "productos-subcategoria",
+                "pt": "pendentes-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -36053,9 +36144,9 @@
                 "pt": "Em processamento"
               },
               "slug": {
-                "en": "processing",
-                "es": "en-procesamiento",
-                "pt": "em-processamento"
+                "en": "processing-subcategory",
+                "es": "en-procesamiento-subcategoria",
+                "pt": "em-processamento-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -36081,61 +36172,14 @@
         },
         {
           "name": {
-            "en": "Support",
-            "es": "Soporte",
-            "pt": "Suporte"
-          },
-          "slug": {
-            "en": "support",
-            "es": "soporte",
-            "pt": "suporte"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Operational",
-                "es": "Operativo",
-                "pt": "Operacional"
-              },
-              "slug": {
-                "en": "operational",
-                "es": "operativo",
-                "pt": "operacional"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Responsibilities within the VTEX ecosystem",
-                    "es": "Responsabilidades en el ecosistema VTEX",
-                    "pt": "Responsabilidades no ecossistema VTEX"
-                  },
-                  "slug": {
-                    "en": "responsibilities-in-the-vtex-ecosystem",
-                    "es": "responsabilidades-en-el-ecosistema-vtex",
-                    "pt": "responsabilidades-no-ecossistema-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "Trade policies",
             "es": "Políticas comerciales",
             "pt": "Políticas comerciais"
           },
           "slug": {
-            "en": "trade-policies",
-            "es": "políticas-comerciales",
-            "pt": "políticas-comerciais"
+            "en": "trade-policies-category",
+            "es": "politicas-comerciales-categoria",
+            "pt": "políticas-comerciais-categoria"
           },
           "origin": "",
           "type": "category",
@@ -36147,9 +36191,9 @@
                 "pt": "Configurações de Políticas Comerciais"
               },
               "slug": {
-                "en": "trade-policies-settings",
-                "es": "configuración-de-políticas-comerciales",
-                "pt": "configurações-de-políticas-comerciais"
+                "en": "trade-policies-settings-subcategory",
+                "es": "configuracion-de-politicas-comerciales-subcategoria",
+                "pt": "configurações-de-políticas-comerciais-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -36193,9 +36237,9 @@
                 "pt": "Visão geral de Políticas Comerciais"
               },
               "slug": {
-                "en": "trade-policies'-overview",
-                "es": "visión-de-conjunto-de-políticas-comerciales",
-                "pt": "visão-geral-de-políticas-comerciais"
+                "en": "trade-policies'-overview-subcategory",
+                "es": "vision-de-conjunto-de-politicas-comerciales-subcategoria",
+                "pt": "visão-geral-de-políticas-comerciais-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -36286,9 +36330,9 @@
             "pt": "Comércio Unificado"
           },
           "slug": {
-            "en": "unified-commerce",
-            "es": "comercio-unificado",
-            "pt": "comércio-unificado"
+            "en": "unified-commerce-category",
+            "es": "comercio-unificado-categoria",
+            "pt": "comércio-unificado-categoria"
           },
           "origin": "",
           "type": "category",
@@ -36300,9 +36344,9 @@
                 "pt": "VTEX Sales App"
               },
               "slug": {
-                "en": "vtex-sales-app",
-                "es": "vtex-sales-app",
-                "pt": "vtex-sales-app"
+                "en": "vtex-sales-app-subcategory",
+                "es": "vtex-sales-app-subcategoria",
+                "pt": "vtex-sales-app-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -36453,9 +36497,9 @@
             "pt": "VTEX Tracking"
           },
           "slug": {
-            "en": "vtex-tracking",
-            "es": "vtex-tracking",
-            "pt": "vtex-tracking"
+            "en": "vtex-tracking-category",
+            "es": "vtex-tracking-categoria",
+            "pt": "vtex-tracking-categoria"
           },
           "origin": "",
           "type": "category",
@@ -36467,9 +36511,9 @@
                 "pt": "Indicadores"
               },
               "slug": {
-                "en": "indicators",
-                "es": "indicadores",
-                "pt": "indicadores"
+                "en": "indicators-subcategory",
+                "es": "indicadores-subcategoria",
+                "pt": "indicadores-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -36528,9 +36572,9 @@
                 "pt": "Aplicativo Móvel"
               },
               "slug": {
-                "en": "mobile-app",
-                "es": "aplicación-móvil",
-                "pt": "aplicativo-móvel"
+                "en": "mobile-app-subcategory",
+                "es": "aplicacion-movil-subcategoria",
+                "pt": "aplicativo-móvel-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -36559,9 +36603,9 @@
                 "pt": "Visão geral VTEX Tracking"
               },
               "slug": {
-                "en": "overview-vtex-tracking",
-                "es": "visión-general-vtex-tracking",
-                "pt": "visão-geral-vtex-tracking"
+                "en": "overview-vtex-tracking-subcategory",
+                "es": "vision-general-vtex-tracking-subcategoria",
+                "pt": "visão-geral-vtex-tracking-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -36605,9 +36649,9 @@
                 "pt": "Relatórios"
               },
               "slug": {
-                "en": "reports-category",
-                "es": "informes-category",
-                "pt": "relatórios"
+                "en": "reports-subcategory",
+                "es": "informes-subcategoria",
+                "pt": "relatórios-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -36696,9 +36740,9 @@
                 "pt": "Rotas"
               },
               "slug": {
-                "en": "routes-category",
-                "es": "rutes",
-                "pt": "rotas"
+                "en": "routes-subcategory",
+                "es": "rutes-subcategoria",
+                "pt": "rotas-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -36757,9 +36801,9 @@
                 "pt": "Serviços"
               },
               "slug": {
-                "en": "services",
-                "es": "servicios",
-                "pt": "serviços"
+                "en": "services-subcategory",
+                "es": "servicios-subcategoria",
+                "pt": "serviços-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -36818,9 +36862,9 @@
                 "pt": "VTEX Tracking - Todos os artigos"
               },
               "slug": {
-                "en": "vtex-tracking---all-articles",
-                "es": "vtex-tracking---todos-los-artículos",
-                "pt": "vtex-tracking---todos-os-artigos"
+                "en": "vtex-tracking---all-articles-subcategory",
+                "es": "vtex-tracking---todos-los-articulos-subcategoria",
+                "pt": "vtex-tracking---todos-os-artigos-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -37016,9 +37060,9 @@
             "pt": "Weni by VTEX"
           },
           "slug": {
-            "en": "weni-by-vtex",
-            "es": "weni-by-vtex",
-            "pt": "weni-by-vtex"
+            "en": "weni-by-vtex-category",
+            "es": "weni-by-vtex-categoria",
+            "pt": "weni-by-vtex-categoria"
           },
           "origin": "",
           "type": "category",
@@ -37030,9 +37074,9 @@
                 "pt": "Agent Builder"
               },
               "slug": {
-                "en": "agent-builder",
-                "es": "agent-builder",
-                "pt": "agent-builder"
+                "en": "agent-builder-subcategory",
+                "es": "agent-builder-subcategoria",
+                "pt": "agent-builder-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -37091,9 +37135,9 @@
                 "pt": "Chats"
               },
               "slug": {
-                "en": "chats",
-                "es": "chats",
-                "pt": "chats"
+                "en": "chats-subcategory",
+                "es": "chats-subcategoria",
+                "pt": "chats-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -37182,9 +37226,9 @@
                 "pt": "Code Action"
               },
               "slug": {
-                "en": "code-action",
-                "es": "code-action",
-                "pt": "code-action"
+                "en": "code-action-subcategory",
+                "es": "code-action-subcategoria",
+                "pt": "code-action-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -37213,9 +37257,9 @@
                 "pt": "Fluxos"
               },
               "slug": {
-                "en": "flows",
-                "es": "flujos",
-                "pt": "fluxos"
+                "en": "flows-subcategory",
+                "es": "flujos-subcategoria",
+                "pt": "fluxos-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -37514,9 +37558,9 @@
                 "pt": "Insights"
               },
               "slug": {
-                "en": "insights-category",
-                "es": "insights-category",
-                "pt": "insights"
+                "en": "insights-subcategory",
+                "es": "insights-subcategoria",
+                "pt": "insights-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -37545,9 +37589,9 @@
                 "pt": "Integrações"
               },
               "slug": {
-                "en": "integrations",
-                "es": "integraciones",
-                "pt": "integrações"
+                "en": "integrations-subcategory",
+                "es": "integraciones-subcategoria",
+                "pt": "integrações-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -38071,9 +38115,9 @@
                 "pt": "Estúdio"
               },
               "slug": {
-                "en": "studio",
-                "es": "estúdio",
-                "pt": "estúdio"
+                "en": "studio-subcategory",
+                "es": "estudio-subcategoria",
+                "pt": "estúdio-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -38327,9 +38371,9 @@
                 "pt": "Weni Agentic AI"
               },
               "slug": {
-                "en": "weni-agentic-ai",
-                "es": "weni-agentic-ai",
-                "pt": "weni-agentic-ai"
+                "en": "weni-agentic-ai-subcategory",
+                "es": "weni-agentic-ai-subcategoria",
+                "pt": "weni-agentic-ai-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -38403,9 +38447,9 @@
                 "pt": "Visão geral Weni by VTEX"
               },
               "slug": {
-                "en": "weni-by-vtex-overview",
-                "es": "visión-de-conjunto-de-weni-by-vtex",
-                "pt": "visão-geral-weni-by-vtex"
+                "en": "weni-by-vtex-overview-subcategory",
+                "es": "vision-de-conjunto-de-weni-by-vtex-subcategoria",
+                "pt": "visão-geral-weni-by-vtex-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -38554,9 +38598,9 @@
                 "pt": "Configurações Weni"
               },
               "slug": {
-                "en": "weni-settings",
-                "es": "configuraciones-weni",
-                "pt": "configurações-weni"
+                "en": "weni-settings-subcategory",
+                "es": "configuraciones-weni-subcategoria",
+                "pt": "configurações-weni-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -38601,83 +38645,6 @@
                     "en": "weni-chats-setting-up-human-attendance",
                     "es": "weni-chats-configurando-el-atencion-humana",
                     "pt": "weni-chats-configurando-o-atendimento-humano"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Uncategorized",
-            "es": "Uncategorized",
-            "pt": "Uncategorized"
-          },
-          "slug": {
-            "en": "uncategorized",
-            "es": "uncategorized",
-            "pt": "uncategorized"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Unknown subcategory",
-                "es": "Unknown subcategory",
-                "pt": "Unknown subcategory"
-              },
-              "slug": {
-                "en": "unknown-subcategory",
-                "es": "unknown-subcategory",
-                "pt": "unknown-subcategory"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Mercado Libre Envios",
-                    "es": "Envíos de Mercado Libre",
-                    "pt": "Mercado Livre Envios"
-                  },
-                  "slug": {
-                    "en": "mercado-libre-envios",
-                    "es": "envios-de-mercado-libre",
-                    "pt": "mercado-livre-envios"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Microvix integration interrupted due to username and password",
-                    "es": "Interrupción de la integración con Microvix por usuario y contraseña",
-                    "pt": "Interrupção da integração Microvix por usuário e senha"
-                  },
-                  "slug": {
-                    "en": "microvix-integration-interrupted-due-to-username-and-password",
-                    "es": "interrupcion-de-la-integracion-con-microvix-por-usuario-y-contrasena",
-                    "pt": "interrupcao-da-integracao-microvix-por-usuario-e-senha"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "View feedback in the Indeva app",
-                    "es": "Visualizar comentarios en la app de Indeva",
-                    "pt": "Visualizar feedback no app Indeva"
-                  },
-                  "slug": {
-                    "en": "view-feedback-in-the-indeva-app-indeva",
-                    "es": "visualizar-comentarios-en-la-app-de-indeva",
-                    "pt": "visualizar-feedback-no-app-indeva"
                   },
                   "origin": "",
                   "type": "markdown",

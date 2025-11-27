@@ -3,7 +3,7 @@ title: 'Using Bundle studio'
 id: 3GKzrP9nkyRwpUyyeYUaeX
 status: PUBLISHED
 createdAt: 2025-07-23T18:06:49.325Z
-updatedAt: 2025-11-10T23:15:39.786Z
+updatedAt: 2025-11-19T23:15:39.786Z
 publishedAt: 2025-11-03T23:15:39.786Z
 firstPublishedAt: 2025-07-28T15:08:19.382Z
 contentType: trackArticle
@@ -15,26 +15,20 @@ trackSlugEN: vtex-live-shopping-getting-started
 order: 8
 ---
 
-> ℹ️ If you want to use a studio other than Bundle, check [Using external studios](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/Dw0QdKI0aGjmyD5Z6z5JC).
+> ℹ️ If you want to use a studio other than Bundle, see [Using external studios](https://help.vtex.com/docs/tracks/optional-using-external-studios).
 
 The VTEX broadcast studio is called **Bundle**. In this article, you’ll learn how to configure all the necessary settings in our native studio solution.
 
-## Streaming Studio
+## Stream method for Bundle
 
-To access the studio in the VTEX Admin and start transmitting a live stream, go to the **Streaming Studio** section on the **Event Information** page:
+To access the native VTEX studio to stream your event, follow the steps below:
 
-![article_8_streaming_studio_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_1.png)
-
- > ℹ️ To enable the fields, the event has to be [turned on](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) and set to `Live`.
-
-The settings in this section do the following:
-
-* **Copy invitation:** When you click this button, a link is generated and copied, which you can send to influencers or hosts. Once they open the link and an [administrator allows them to enter the Studio](#administrator-approval-for-guests-in-the-studio), they’ll be able to turn their camera and microphone on or off and view the chat within the studio. However, as explained in the [My Studio](#my-studio) section, they won’t have access to other actions.
-* **Access:** Redirects to the **Device settings** page in Bundle studio, where you can manage cameras, upload graphic assets, start/end the transmission, among other actions. This configuration is restricted to the broadcast studio administrators only.
-
-Administrators using the `Access` button are redirected to the Bundle **Device settings** page, where they can select the camera and microphone they want to use and run tests to ensure everything is working properly.
-
-Using the invitation link, hosts and guests will be able to join the Studio after their access is approved by an administrator.
+1. In the VTEX Admin, go to **Apps > Live Shopping > Events**, or type **Events** in the search bar at the top of the page.
+2. Click the arrow button for the [event you created](https://help.vtex.com/en/docs/tracks/creating-event) to open the event configuration page.
+3. [Turn on](https://help.vtex.com/en/docs/tracks/turning-on-event) the event, by clicking the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i> `Turn On` at the top right.
+4. Select the `Stream` tab.
+5. On the **Stream method** page, in **Option 1 - Web Studio**, click `Open Web Studio`. You’ll be redirected to a new window on the **Device settings** page in Bundle. This option is restricted for administrators only.
+6. (Optional) If you want to have guests and hosts on your event, click `Copy invitation` and share the link with them. For security reasons, guest access to Bundle must be [approved by an administrator](#administrator-approval-for-guests-in-the-studio).
 
 ## Administrator approval for guests in the Studio
 

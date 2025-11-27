@@ -192,7 +192,7 @@ O suporte ao Google Pay com [tokenização DPAN](/pt/tutorial/dpan-e-fpan-entend
 
 #### Suporte a pagamento via POS (VTEX Sales App) 
 
-Conectores compatíveis com pagamentos via [POS](https://pt.wikipedia.org/wiki/Caixa_(varejo)) no [VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc) viabilizam transações [Omnichannel](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) entre o ambiente físico e digital. Entre os benefícios, estão:
+Conectores compatíveis com pagamentos via [POS](https://pt.wikipedia.org/wiki/Caixa_(varejo)) no [VTEX Sales App](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes) viabilizam transações [Omnichannel](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) entre o ambiente físico e digital. Entre os benefícios, estão:
 
 - __Integração entre canais:__ o cliente pode iniciar uma compra online e finalizá-la na loja física utilizando o mesmo meio de pagamento.
 - __Redução de erros operacionais:__ como o pagamento é integrado ao VTEX Sales App, não é necessário registrar transações manualmente no [ERP](https://pt.wikipedia.org/wiki/Sistema_integrado_de_gest%C3%A3o_empresarial).

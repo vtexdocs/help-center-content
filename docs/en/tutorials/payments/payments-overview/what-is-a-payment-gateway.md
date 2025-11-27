@@ -21,12 +21,12 @@ It's responsible for sending this information to acquirers, card brands and [iss
 
 In other words, the gateway sends data and receives responses so that you know whether or not a particular purchase should be confirmed.
 
-VTEX platform has its own gateway with [PCI](/en/faq/what-is-the-pci-ssc) certification, which means that data on all payments made in your store is protected according to high security standards. 
+VTEX platform has its own gateway with [PCI](https://help.vtex.com/docs/tutorials/what-is-the-pci-ssc) certification, which means that data on all payments made in your store is protected according to high security standards. 
 
-By activating the [connectors](/en/tutorial/what-is-the-connector) and registering [gateway affiliations](/en/tutorial/registering-gateway-affiliations/), your clients' shopping data can be sent to acquirers or other gateways and thus move on through the approval flow in financial institutions.
+By activating the [connectors](/en/tutorial/what-is-the-connector) and registering [payment and anti-fraud providers](https://help.vtex.com/docs/tutorials/registering-gateway-affiliations), your clients' shopping data can be sent to acquirers or other gateways and thus move on through the approval flow in financial institutions.
 
 ### Related articles
 - [What is the issuing bank?](/en/tutorial/what-is-the-issuing-bank)
 - [What is a connector?](/en/tutorial/what-is-the-connector)
-- [Registering gateway affiliations](/en/tutorial/registering-gateway-affiliations/)
-- [What is PCI SSC?](/en/faq/what-is-the-pci-ssc)
+- [Register payment and anti-fraud providers](https://help.vtex.com/docs/tutorials/registering-gateway-affiliations)
+- [What is PCI SSC?](https://help.vtex.com/docs/tutorials/what-is-the-pci-ssc)

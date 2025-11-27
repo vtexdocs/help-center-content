@@ -46,7 +46,7 @@ Para crear un nuevo vale de compra, siga los pasos a continuación:
 
 > ⚠️ **Atención**: los campos “Valor” y “Fecha de vencimiento” deben completarse de forma **obligatoria**. De lo contrario, el vale no se guardará.
 
-> ❗ La funcionalidad de creación de tarjetas de regalo por colecciones de productos no está funcionando. Hay más información sobre este problema en el artículo [Restricting the use of GiftCards to a collection of products does not work](/es/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
+> ❗ La funcionalidad de creación de tarjetas de regalo por colecciones de productos no está funcionando. Hay más información sobre este problema en el artículo [Collection functionality doesn't work on Giftcard](https://help.vtex.com/en/known-issues/collection-functionality-doesnt-work-on-giftcard).
 
 Después de completar los campos correctamente, el usuario puede seleccionar hasta tres opciones de configuración: 
 <ul>
@@ -100,14 +100,19 @@ Después de crear el vale de compra, debe configurarse como método de pago. De 
 
 Siga los pasos a continuación para configurar el vale de compra:
 
-1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Configuración__, o escribe __Configuración__ en la barra de búsqueda en la parte superior de la página.
-2. En la pestana __Condiciones de proveedor__, haga clic en el botón `+`.
-3. Haga clic en conector __Vale__.
-4. Al inicio de la página, cree un __nombre__ para esta condición de pago.
-5. Active la condición en el campo __Status__.
-6. En __Procesar con afiliación__, seleccione el proveedor de giftcard deseado.
-7. Si desea utilizar un sistema antifraude, seleccione la opción __Utilizar antifraude__.
-8. Haga clic en `Salvar`.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página..
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __GiftCard HUB__ en la barra de búsqueda y haga clic en el nombre del proveedor.
+4. En __Tipo de reembolso__ y __Liquidación anticipada__, seleccione las opciones deseadas.
+5. Haga clic en `Salvar`.
+6. Accede a __Configuración de la tienda > Pago > Configuración__, o escribe __Configuración__ en la barra de búsqueda en la parte superior de la página.
+7. En la pestana __Condiciones de proveedor__, haga clic en el botón `+`.
+8. Haga clic en conector __Vale__.
+9. Al inicio de la página, cree un __nombre__ para esta condición de pago.
+10. Active la condición en el campo __Status__.
+11. En __Procesar con afiliación__, seleccione el proveedor de giftcard deseado.
+12. Si desea utilizar un sistema antifraude, seleccione la opción __Utilizar antifraude__.
+13. Haga clic en `Salvar`.
 
 También puede agregar condiciones especiales de pago a su Vale de Compra. No hay límites en las condiciones que pueden aplicarse a un método de pago, especificamos cómo configurar cada una de estas [aquí](/es/tutorial/condicoes-especiais--tutorials_456?locale=es). 
 

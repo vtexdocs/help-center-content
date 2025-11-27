@@ -46,7 +46,7 @@ To create a new gift card, follow the step by step:
 
 > ⚠️ **Warning**: The “Value” and the “Expiration Date” fields are **mandatory**. If you do not fill them, the purchase voucher will not be saved.
 
-> ❗ The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article [Restricting the use of GiftCards to a collection of products does not work](/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
+> ❗ The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article [Collection functionality doesn't work on Giftcard](https://help.vtex.com/en/known-issues/collection-functionality-doesnt-work-on-giftcard).
 
 After filling in the fields correctly, the user can select up to three configuration options:
 <ul>
@@ -100,14 +100,19 @@ After creating the Gift Card, it must be configured as a payment method. This wa
 
 Follow the steps below to set up the Gift card:
 
-1. In the VTEX Admin, go to __Store Settings > Payment > Settings__, or type Settings in the search bar at the top of the page.
-2. In the __Payment Conditions__ tab, click on the `+` button.
-3. Click on the __Vale__ connector.
-4. On the top of the page, create a __name__ to this payment condition.
-5. Activate the condition in the __Status__ field.
-6. Under __Process with provider__, select the desired giftcard provider.
-7. If you want to use an anti-fraud system, select the option __Use anti-fraud solution__.
-8. Click on `Save`.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __GiftCard HUB__ in the search bar and click on the name of the provider.
+4. In __Refund method__ and __Early settlement__, select the desired options.
+5. Click `Save`.
+6. Go to __Store Settings > Payment > Settings__, or type Settings in the search bar at the top of the page.
+7. In the __Payment Conditions__ tab, click on the `+` button.
+8. Click on the __Vale__ connector.
+9. On the top of the page, create a __name__ to this payment condition.
+10. Activate the condition in the __Status__ field.
+11. Under __Process with provider__, select the desired giftcard provider.
+12. If you want to use an anti-fraud system, select the option __Use anti-fraud solution__.
+13. Click on `Save`.
 
 You can also add to the Gift Card special payment conditions. There is no limit on the conditions that can be applied to a payment method. We describe how to set each one of them [here](/en/tutorial/condicoes-especiais--tutorials_456?locale=pt). 
 

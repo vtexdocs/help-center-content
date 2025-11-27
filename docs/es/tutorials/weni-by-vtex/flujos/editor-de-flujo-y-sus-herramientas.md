@@ -37,7 +37,7 @@ En el caso de que usted desee una versión mas completa del simulador, basta con
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/editor-de-flujo-y-sus-herramientas_4.png)
 
-Permitiendo que puedas seguir en tiempo real los cambios de las expresiones involucradas en la ejecución del flujo. Para obtener más información sobre expresiones, lee el artículo sobre [expresiones](/l/es/flujos/glosario-de-expresiones) haciendo clic aquí.
+Permitiendo que puedas seguir en tiempo real los cambios de las expresiones involucradas en la ejecución del flujo. Para obtener más información sobre expresiones, lee el artículo sobre [expresiones](https://help.vtex.com/es/docs/tutorials/glossario-de-expressoes).
 
 ### Versiones de edición
 
@@ -73,9 +73,9 @@ Además de eso, tenemos una serie de opciones en los menús de configuración, q
   2. **Editar:** Opción que permite la edición de las configuraciones iniciales del flujo, como el nombre, triggers, y expiración del flujo (por cuánto tiempo esperará una respuesta).
   3. **Copiar:** Opción que crea una copia exacta del flujo. Este flujo-copia aparecerá en su lista de flujos siguiendo el padrón de nomenclatura _Copy-Nombre del flujo copiado_.
   4. **Eliminar:** Opción que te permite borrar un flujo. Tenga cuidado, pues esta operación no puede ser deshecha.
-  5. **Exportar defini ção:** Opção que te redireciona para a página de exportação de fluxos. Para saber mais, visite o artigo sobre [exportação e importação de fluxos](/l/es/flujos/importar-y-exportar-flujos).
-  6. **Exportar tradu ção:** Opção que possibilita você importar a tradução do idioma na plataforma.
-  7. **Importar tradu ção:** Opção que possibilita você exportar a tradução de um determinado idioma na plataforma.
+  5. **Exportar definición:** Opción que te redirecciona para la página de exportación de flujos. Para más informaciones, lee el artículo sobre [importación y exportación de flujos](https://help.vtex.com/es/docs/tutorials/importar-y-exportar-flujos).
+  6. **Exportar traducción:** Opción que permite exportar la traducción de un idioma en la plataforma.
+  7. **Importar traducción:** Opción que permite importar la traducción de un idioma en la plataforma.
 
 ### Barra de Herramientas
 En esta parte del Editor de Flujos, encontrarás algunas herramientas que facilitarán tu trabajo. Solo necesitas hacer clic y utilizarlas.

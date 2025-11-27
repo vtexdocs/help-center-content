@@ -62,5 +62,5 @@ This expression is used to retrieve values returned from the last webhook call m
     * `@webhook.results.client`: Name of the client returned by the API, if only one object is returned.
     * `@webhook.results.0.client`: Name of the client returned by the API. If the response is in an array, you need to specify the position of the array, such as 0, 1, 2, and so on.
 
-To store the values in other variables, you can save them as a [contact field](/l/en/contacts/contact-fields) or [flow result](/l/en/flows-category/variables-glossary).",
+To store the values in other variables, you can save them as a [contact field](https://help.vtex.com/en/docs/tutorials/contact-fields) or [flow result](https://help.vtex.com/docs/tutorials/variables-glossary).",
 

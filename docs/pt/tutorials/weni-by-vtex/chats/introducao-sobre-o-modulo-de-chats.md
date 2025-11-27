@@ -82,7 +82,10 @@ A função de transferir chat serve para direcionar o contato para um setor, fil
 
 É possível arrastar arquivos para caixa de texto e o **ctrl \+ v** está ativo para copiar arquivos de imagens sem precisar anexar.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/introducao-sobre-o-modulo-de-chats_2.png)##### **Emojis**
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/introducao-sobre-o-modulo-de-chats_2.png)
+
+##### Emojis
+
 
 Emojis podem tornar a comunicação mais envolvente, isso porque eles facilitam a compreensão do tom e a intenção da mensagem. O Weni Chats tem uma página completa de emojis. Veja na imagem abaixo:
 
@@ -120,11 +123,15 @@ Ao visualizar o histórico do contato o agente pode ver o início do atendimento
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/introducao-sobre-o-modulo-de-chats_16.png) Depois de adicionar esta opção o nome do agente irá aparecer no balão de mensagem seguido de dois pontos, como mostra na imagem em seguida:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/introducao-sobre-o-modulo-de-chats_5.png)##### **Modo de visualização**
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/introducao-sobre-o-modulo-de-chats_5.png)
+
+#### **Modo de visualização**
 
 Ao clicar no nome do agente no dashboard, abre\-se o **modo de visualização dos atendimentos do agente**. Assim, é possível ter uma visão geral dos **detalhes dos atendimentos** por agentes e um gerente pode **assumir um chat a qualquer momento**, transferindo para ele este atendimento.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/introducao-sobre-o-modulo-de-chats_6.png)##### **Notificação Via Navegador**
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/introducao-sobre-o-modulo-de-chats_6.png)
+
+##### **Notificação Via Navegador**
 
 Como uma parte dos nossos clientes optam por não ativar o efeito sonoro, foi lançada também a notificação via navegador. Para que isso aconteça é necessário permitir as notificações do seu navegador, para então ser notificado assim como mostra a imagem abaixo:
 

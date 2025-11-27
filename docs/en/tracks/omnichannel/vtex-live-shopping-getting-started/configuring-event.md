@@ -3,7 +3,7 @@ title: 'Configuring the event'
 id: 125yr6jAfwiiz84JP4ppfO
 status: PUBLISHED
 createdAt: 2025-07-23T18:02:12.430Z
-updatedAt: 2025-09-15T21:13:33.647Z
+updatedAt: 2025-11-18T21:13:33.647Z
 publishedAt: 2025-09-15T21:13:33.647Z
 firstPublishedAt: 2025-07-28T15:08:11.624Z
 contentType: trackArticle
@@ -15,14 +15,16 @@ trackSlugEN: vtex-live-shopping-getting-started
 order: 7
 ---
 
-In the VTEX Admin, when you go to **Apps > Live Shopping** and click the arrow icon of a [created event](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv), you access its **Event Information** page, where you can set it up as explained in the following sections:
+In the VTEX Admin, when you go to **Apps > Live Shopping**, or type **Live Shopping** in the search bar at the top of the page and click the arrow icon of a [created event](https://help.vtex.com/docs/tracks/creating-event), you access its **Event Information** page. Under the **Manage** tab, you'll find the following setup options, divided by page section:
 
 * [Layout type - Configuring the style](#layout-type-configuring-the-style)
 * [Chat - Configuring the administrator name](#chat-configuring-the-administrator-name)
+* [Promotions - Configuring coupons and promotions](#promotions-configuring-coupons-and-promotions)
 * [Settings - Configuring features](#settings-configuring-features)
+* [Product Highlight - Configuring collection display](#product-highlight-configuring-collection-display)
 * [CMS Configuration - Configuring content presentation](#cms-configuration-configuring-content-presentation)
 
-> ⚠️ This article describes the main settings for an event. It doesn't cover all sections of the **Event Information** page. For more information, check [Live Shopping: Events article](/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
+> ⚠️ This article describes the main settings for an event. It doesn't cover all sections of the **Event Information** page. For more information, see [Live Shopping: Events article](/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
 
 ## Layout type - Configuring the style
 
@@ -69,6 +71,42 @@ The **Chat** section is where you manage the live chat during your event. If you
 
 > ℹ️ To learn how to pin messages, block users, delete messages, and perform other actions in the event chat, check [Live Shopping: Events](/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
 
+## Promotions - Configuring coupons and promotions
+
+In this section, you can configure coupons and promotions based on event viewers or likes, for example. The available options will be those previously configured in the [Promotions](https://help.vtex.com/en/docs/tutorials/creating-promotions) module.
+
+To offer a promotion during your **Live Shopping** event, follow the steps below:
+
+1. In the **Promotions** section, click `New promotion`.
+2. Select a promotion option using the dropdown menu.
+3. Choose a variable:
+
+  * Likes
+  * Comments
+  * Viewers
+  * Orders
+
+4. In the **Goal** field, enter the condition the audience must meet to activate the coupon or promotion. This information isn't visible to the public and is limited to 20 characters. See below an example for each variable:
+
+  * **Likes:** Reach 100 like reactions.
+  * **Comments:** Get 150 comments.
+  * **Viewers:** Gather an audience of over 200 people.
+  * **Orders:** Receive the first 100 orders.
+
+  >⚠️ Coupons become active immediately once the goal is met. Promotions activate five minutes after the goal is met.
+
+5. In the **Display message** field, enter the text to be shown to your audience about the goal to unlock the promotion or coupon. Limited to 20 characters. For example, `40% off`.
+6. Select an animation to display the promotion or coupon during the event.
+7. Click `Save`.
+
+Once a promotion has been created, it will be displayed in a table with the following columns:
+
+* **State:** Allows activating or deactivating the promotion by switching the toggle. Although promotions or coupons are automatically activated when the audience meets the goal, you can manage their activation status during the event.
+* **Promotion:** Name that identifies the promotion.
+* **Variable:** What the promotion is based on, which can be `Likes`, `Comments`, `Viewers` or `Orders`.
+* **Goal:** Variable value that, once achieved, triggers the promotion activation.
+* **Actions:** Allows <i class="fa-solid fa-pencil"></i> editing or <i class="fa-solid fa-trash"></i> deleting the promotion. All promotion settings can be edited. Deleting removes the promotion only this event’s configuration, not from the **Promotions** module.
+
 ## Settings - Configuring features
 
 In the **Settings** section, you can enable or disable the following event features:
@@ -78,6 +116,14 @@ In the **Settings** section, you can enable or disable the following event featu
 | Chat | <ul><li>**Email required:** By default, to allow the audience to participate in the live event chat, only their name is required. When you enable this field, they also have to provide an email address.</li><li>**Enable email sending:** When this field is enabled, if the audience asks a question and the administrator responds through the chat, an email notification is sent to the user with the response. This helps maintain the interaction with the end user outside the chat.</li></ul> |
 | Player | <ul><li>**Viewer visibility:** Displays the number of viewers currently watching the live stream event. This number isn’t cumulative.</li><li>**Popup transmission:** Allows displaying the entire Live Shopping component (chat, player, and product sidebar) in a popup format, drawing the full attention of the audience while they’re watching the event. The audience can close the popup anytime by clicking the X in the corner to return to the normal format.</li></ul> |
 | Products | <ul><li>**Apply tax:** Allows applying taxes to products showcased during the live event. When this option is enabled, the module **Promotions > Surcharges** will display the product price along with the applicable tax.</li></ul> |
+
+## Product Highlight - Configuring collection display
+
+The **Product Highlight** section is where you manage highlighting products during the event. The products displayed belong to the collection you selected when [creating the event](https://help.vtex.com/en/docs/tracks/creating-event), or to the collection you add or update before or during the stream.
+
+>⚠️ To ensure your collection appears correctly in a **Live Shopping** event, we recommend creating it at least a few hours in advance. This allows the platform enough time to index the information. Otherwise, the page may be cached during the event, which could prevent the collection from displaying properly.
+
+To highlight a product, activate the toggle switch in the **Actions** column. You can choose two products at a time. Once selected, the product will display above the column names.
 
 ## CMS Configuration - Configuring content presentation
 
@@ -91,10 +137,10 @@ In the **CMS Configuration** section, you can set up how the content will be pre
 ![article_7_cms_configuration_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/configuring-event_2.png)
 
 * **Checkout cart:** Provides an `Add to cart` button that, when clicked by your audience, opens the checkout with the product added to the customer shopping cart in a new tab. The picture-in-picture (PiP) mode will also be activated, allowing the customer to continue watching the live stream while completing the purchase.
-* **Quick view:** Allows your audience to view the live event while seeing product variations. When the customer clicks the `Add to cart` button, a quick product view opens up without hiding the event transmission. This allows the customer to choose the size and color of a product, for example, while still watching the event. 
-    * If this option is disabled, when the customer clicks `Add to cart`, a new tab with the Product Details Page (PDP) opens and the PiP mode automatically activates so that the customer keeps watching the live stream.
-* **Infinite scroll:** Implements an infinite scroll for the sidebar products option that automatically scrolls every N seconds, so that your audience can view all the products without any additional action. 
-    * The automatic scroll speed is set to 10 seconds by default, but you can change it by entering the desired number in the field. We recommend configuring within 3 to 100 seconds.
+* **Quick view:** Allows your audience to view the live event while seeing product variations. When the customer clicks the `Add to cart` button, a quick product view opens up without hiding the event transmission. This allows the customer to choose the size and color of a product, for example, while still watching the event.
+  * If this option is disabled, when the customer clicks `Add to cart`, a new tab with the Product Details Page (PDP) opens and the PiP mode automatically activates so that the customer keeps watching the live stream.
+* **Infinite scroll:** Implements an infinite scroll for the sidebar products option that automatically scrolls every N seconds, so that your audience can view all the products without any additional action.
+  * The automatic scroll speed is set to 10 seconds by default, but you can change it by entering the desired number in the field. We recommend configuring within 3 to 100 seconds.
 
 > ℹ️ All the functionalities above are enabled by default, except **Product carousel** and **Checkout cart**.
 

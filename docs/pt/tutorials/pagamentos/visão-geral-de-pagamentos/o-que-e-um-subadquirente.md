@@ -15,10 +15,10 @@ locale: pt
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
-Um __subdadquirente__ é uma empresa que processa pagamentos e transmite os dados gerados para os outros players envolvidos no [fluxo de pagamento](/pt/faq/cartao-de-credito-fluxo-basico-de-um-pagamento). Seu papel é semelhante ao de um [adquirente](/pt/tutorial/o-que-e-um-adquirente), mas não o substitui por completo. Assim, ele pode ser entendido como uma espécie de intermediador entre adquirente e loja.
+Um __subdadquirente__ é uma empresa que processa pagamentos e transmite os dados gerados para os outros players envolvidos no [fluxo de pagamento](https://help.vtex.com/pt/docs/tutorials/cartao-de-credito-fluxo-basico-de-um-pagamento). Seu papel é semelhante ao de um [adquirente](/pt/tutorial/o-que-e-um-adquirente), mas não o substitui por completo. Assim, ele pode ser entendido como uma espécie de intermediador entre adquirente e loja.
 
 As principais vantagens do __subdadquirente__ são seu baixo custo de implementação e facilidade de integração, o que torna essa uma solução bastante atraente para o pequeno lojista. Por outro lado, o custo por operação é mais alto do que as realizadas direto com os adquirentes.
 
 ### Artigos relacionados
 - [O que é um adquirente?](/pt/tutorial/o-que-e-um-adquirente)
-- [Cartão de crédito - Fluxo básico de um pagamento](/pt/faq/cartao-de-credito-fluxo-basico-de-um-pagamento)
+- [Cartão de crédito - Fluxo básico de um pagamento](https://help.vtex.com/pt/docs/tutorials/cartao-de-credito-fluxo-basico-de-um-pagamento)

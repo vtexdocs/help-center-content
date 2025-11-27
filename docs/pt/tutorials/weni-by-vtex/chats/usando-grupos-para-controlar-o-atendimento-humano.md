@@ -20,7 +20,9 @@ essencial.
 
 ATENÇÃO: caso contatos não sejam adicionados a um grupo de controle, o chatbot
 irá conflitar e interromper o atendimento humano, enviando as mensagens padrão
-configuradas no seu ambiente.### Adicionando contatos ao grupo de controle
+configuradas no seu ambiente.
+
+### Adicionando contatos ao grupo de controle
 
 Neste artigo iremos nos referir ao grupo de controle como `Atendimento Humano`.
 

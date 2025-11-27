@@ -3,7 +3,7 @@ title: 'Cadastrar dados fiscais extras (NCM e ICMS) em um produto para o VTEX Sa
 id: 51xsyWzGiQ08KMO2EaaGAa
 status: PUBLISHED
 createdAt: 2017-08-14T23:24:39.793Z
-updatedAt: 2023-05-31T14:50:57.382Z
+updatedAt: 2025-11-25T14:50:57.382Z
 publishedAt: 2023-05-31T14:50:57.382Z
 firstPublishedAt: 2017-08-14T23:35:56.687Z
 contentType: tutorial
@@ -15,21 +15,23 @@ locale: pt
 subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 ---
 
-O VTEX VTEX Sales App é uma das nossas principais soluções para operações de Comércio Unificado. Ele é um aplicativo que permite integrar seus canais de venda online e físicos, colocando seus clientes no centro do negócio.
+O **VTEX Sales App** é uma das nossas principais soluções para operações de Comércio Unificado. Ele é um aplicativo que permite integrar seus canais de venda online e físicos, colocando seus clientes no centro do negócio.
 
-Utilizando o VTEX Sales App, vendedores de lojas físicas podem atender clientes de uma maneira personalizada e realizar o processo de venda completo, desde ajudá-los a escolher os melhores produtos até o pagamento e a entrega.
+Utilizando o **Sales App**, vendedores de lojas físicas podem atender clientes de uma maneira personalizada e realizar o processo de venda completo, desde ajudá-los a escolher os melhores produtos até o pagamento e a entrega.
 
-Neste artigo, vamos explicar como gerenciar cupons fiscais para pedidos realizados no VTEX Sales App. 
+Este artigo explica como gerenciar cupons fiscais para pedidos realizados no **Sales App**.
 
-No Brasil, impostos estaduais e federais são incluídos no valor dos produtos. Essas informações devem ser cadastradas como [especificações](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) nos produtos da sua loja. Dessa forma, o VTEX Sales App envia qualquer especificação de produto para o pedido final, onde os middlewares de integração - um software que age como uma ponte entre componentes de um ecommerce - podem usá-la no momento em que forem emitir os cupons fiscais.
+No Brasil, impostos estaduais e federais são incluídos no valor dos produtos. Essas informações devem ser cadastradas como [especificações](https://help.vtex.com/pt/docs/tracks/especificacoes-definicao-de-conceito) nos produtos da sua loja. Dessa forma, o **Sales App** envia qualquer especificação de produto para o pedido final, onde os middlewares de integração - um software que age como uma ponte entre componentes de um ecommerce - podem usá-la no momento em que forem emitir os cupons fiscais.
 
-Um exemplo é a Nomenclatura Comum do Mercosul (NCM), que define a alíquota de impostos comum ao bloco. Durante o cadastro de produtos a serem disponibilizados no ecommerce, você encontra [esse campo no Catálogo como **Tax Code**](/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke). Contudo, o VTEX Sales App busca essa informação como uma especificação de produto chamada **NCM**.
+Um exemplo é a Nomenclatura Comum do Mercosul (NCM), que define a alíquota de impostos comum ao bloco. Durante o cadastro de produtos a serem disponibilizados no ecommerce, você encontra [esse campo no Catálogo como **Código fiscal**](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-produto). Contudo, o **Sales App** busca essa informação como uma especificação de produto chamada NCM.
 
-Para viabilizar a venda de produtos em lojas físicas, é necessário atrelar o Imposto sobre Circulação de Mercadorias e Serviços (ICMS) do produto por estado no Brasil. Essa informação deve ser cadastrada como campo de especificação para cada produto (**ICMS_RJ**, **ICMS_SP**). Importante lembrar que só é necessária essa configuração caso haja loja física operando com VTEX Sales App naquele estado.
+Para viabilizar a venda de produtos em lojas físicas, é necessário atrelar o Imposto sobre Circulação de Mercadorias e Serviços (ICMS) do produto por estado no Brasil. Essa informação deve ser cadastrada como campo de especificação para cada produto (ICMS_RJ, ICMS_SP). Importante lembrar que só é necessária essa configuração caso haja loja física operando com VTEX Sales App naquele estado.
 
 Quaisquer outros dados fiscais necessários para seu cenário de negócio, como PIS e COFINS, por exemplo, podem ser criados como campos de especificação de produtos e estarão disponíveis no OMS.
 
-É possível cadastrar especificações de produto via API ou através do Admin. Para cadastrar especificações por API, siga o guia [How to create a specification](https://developers.vtex.com/vtex-rest-api/docs/how-to-create-a-specification). Para cadastrar a especificação pelo Admin, siga o tutorial [Configurar especificações do produto](/pt/tutorial/configurando-campos-de-especificacao-no-produto--tutorials_271).
+É possível cadastrar especificações de produto por API ou pelo Admin VTEX:
 
-Consulte os pedidos faturados realizados no VTEX Sales App seguindo os passos descritos no artigo [Get invoiced orders placed in VTEX Sales App](https://developers.vtex.com/vtex-rest-api/docs/get-invoiced-orders-placed-in-instore).
+* **Via API:** veja [Specifications](https://developers.vtex.com/docs/guides/specifications).
+* **Via Admin VTEX:** veja [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto).
 
+Para consultar os pedidos faturados realizados no **Sales App**, no Admin VTEX acesse **Pedidos > Todos os pedidos** e [filtre seus pedidos](https://help.vtex.com/pt/docs/tutorials/filtrar-todos-pedidos) usando o filtro **Outros > inStore > true**.

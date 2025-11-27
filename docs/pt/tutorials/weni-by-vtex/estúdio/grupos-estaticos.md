@@ -15,13 +15,13 @@ locale: pt
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-Como visto em nossa [Introdução a contatos](https://docs.weni.ai/l/pt/contatos/contatos-e-mensagens-urn-s-campos-de-contato-e-grupos), existem dois tipos de grupos para os contatos na plataforma. Agora explicaremos como funcionam e como criar seus grupos.
+Como visto em nossa [Introdução a contatos](https://help.vtex.com/pt/docs/tutorials/introducao-a-contatos), existem dois tipos de grupos para os contatos na plataforma. Agora explicaremos como funcionam e como criar seus grupos.
 
 #### **Grupo estático**
 
 O grupo estático é o tipo de grupo onde os contatos precisam ser adicionados e/ou removidos manualmente. Para que um contato entre e/ou saia de um grupo estático, ele precisa ser adicionado/removido pelo usuário da plataforma pela aba de contatos, ou, adicionado/removido através de fluxos durante a conversa com a sua automação.
 
-Você pode encontrar a descrição das cartas de fluxo para grupos clicando [cartas de ações](https://docs.weni.ai/l/pt/fluxos/cartas-de-acao) e [decisões.](https://docs.weni.ai/l/pt/fluxos/cartas-de-decisao)
+Você pode encontrar a descrição das cartas de fluxo para grupos clicando [cartas de ações](https://help.vtex.com/docs/tutorials/cartas-de-acao) e [decisões.](https://help.vtex.com/docs/tutorials/cartas-de-decisao).
 
 Para criar um grupo estático, basta navegar até a página de contatos, dentro do módulo ""Estúdio"" e clicar no botão **Criar Grupo** no menu lateral.
 
