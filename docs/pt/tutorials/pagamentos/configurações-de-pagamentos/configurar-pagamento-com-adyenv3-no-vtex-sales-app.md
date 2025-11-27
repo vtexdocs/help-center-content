@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento Adyen. Por meio deste conector, sua loja pode oferecer transações de pagamento em lojas físicas (VTEX Sales App), utilizando pontos de vendas (POS). Para mais informações, acesse [O que é o VTEX Sales App?](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
+Na VTEX, é possível realizar a integração com o provedor de pagamento Adyen. Por meio deste conector, sua loja pode oferecer transações de pagamento em lojas físicas (VTEX Sales App), utilizando pontos de vendas (POS). Para mais informações, acesse [O que é o VTEX Sales App?](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes).
 
 > ℹ️ Para utilizar a afiliação AdyenV3 em sua loja por outros canais de venda online (exceto VTEX Sales App), acesse [Configurar pagamento com AdyenV3](/pt/tutorial/configurar-pagamento-com-adyenv3--7xAz67E2Eg63LWCQNjVdwv).
 
@@ -33,7 +33,7 @@ Para utilizar a afiliação AdyenV3 no VTEX Sales App, é necessário:
 O primeiro passo consiste em configurar suas contas na Adyen e na VTEX para permitir transações de pagamento em pontos de venda (POS). Para realizar estas configurações, acesse as seguintes documentações:
 
 - [Adyen - Terminal API go-live checklist](https://docs.adyen.com/point-of-sale/get-started/go-live-tapi)
-- [VTEX - VTEX Sales App Basic settings](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO)
+- [VTEX - VTEX Sales App Basic settings](https://help.vtex.com/pt/docs/tutorials/configurar-pagamento-com-adyenv3-no-vtex-sales-app)
 
 ## Configurar ambiente Adyen
 

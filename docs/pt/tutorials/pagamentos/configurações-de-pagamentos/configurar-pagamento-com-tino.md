@@ -126,5 +126,5 @@ A Tino disponibiliza a opção de coletar dados de navegação e métricas relac
 
 ## Configurar conciliação (opcional)
 
-Para mais informações sobre como utilizar a solução da Tino que permite conciliar os pedidos e repasses realizados a fornecedores, acesse documentação da Tino [Conciliação](https://docs.tino.com.br/guias/mdulos/conciliao).
+Para mais informações sobre como utilizar a solução da Tino que permite conciliar os pedidos e repasses realizados a fornecedores, acesse documentação da Tino [Conciliação](https://docs.tino.com.br/guias/guias-de-integra%C3%A7%C3%A3o/integra%C3%A7%C3%A3o-em-ecommerce/plataformas/vtex#2-fluxos-operacionais).
 

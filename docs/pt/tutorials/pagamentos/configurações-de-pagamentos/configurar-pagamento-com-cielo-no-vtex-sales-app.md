@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento Cielo. Por meio deste conector, sua loja pode oferecer transações de pagamento em lojas físicas (VTEX Sales App), utilizando pontos de vendas (POS). Para mais informações, acesse [O que é o VTEX Sales App?](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
+Na VTEX, é possível realizar a integração com o provedor de pagamento Cielo. Por meio deste conector, sua loja pode oferecer transações de pagamento em lojas físicas (VTEX Sales App), utilizando pontos de vendas (POS). Para mais informações, acesse [O que é o VTEX Sales App?](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes).
 
 > ℹ️ Para utilizar o provedor Cielo em sua loja por outros canais de venda online (exceto VTEX Sales App), acesse [Configurar pagamento com CieloEcommerce](/pt/tutorial/configurar-pagamento-com-cieloecommerce--6zuELBqEo0QzApbU4l7L4).
 

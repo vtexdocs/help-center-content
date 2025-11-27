@@ -30,6 +30,4 @@ Depois será necessário configurar o Samsung Pay conforme as etapas abaixo:
 7. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condiciones-especiales--tutorials_456).
 8. Clique em `Salvar`.
 
-Para definir condições especiais sobre o Samsung Pay, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
-
 Depois de seguir os passos indicados, Samsung Pay pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 
