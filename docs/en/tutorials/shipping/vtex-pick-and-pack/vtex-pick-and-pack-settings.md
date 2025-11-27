@@ -19,243 +19,477 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 
 **Settings** is a VTEX Admin page that allows you to select the VTEX Pick and Pack settings for your store. The settings are distributed in the following tabs:
 
-* [Picking](#picking)
-* [Categories](#categories)
-* [Packing](#packing)
-* [Orders](#orders)
-* [Automation](#automation)
-* [Users](#users)
-* [Catalog](#catalog)
-* [Facilities](#facilities)
-
-## Picking
-
-In this tab, you'll find the settings related to the picking of order items. Here, you can set actions the picker can take during the picking process, including notifying you that an order item is unavailable and suggesting replacements.
-
-![pick-and-pack-separacao-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_1.png)
-
-### Picking Strategy
-
-In this section, you can define the picking strategy types you would like for your pickers.
-
-> ℹ️ Only the **Wave picking** strategy is currently available.
-
-### Order Changes
-
-In this section, you can set actions related to order changes, such as when items are out of stock.
-
-* **Send changes to the OMS:** Allows you to send the changes made by the picker to the [VTEX OMS](/en/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201). You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
-* **Allow changing item prices:** Allows the picker to change the item prices from an order. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
-* **Allow replacing items:** Allows the picker to replace unavailable items from an order. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
-* **Allow rejecting items:** Allows the picker to reject unavailable items from an order. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
-* **Allow changing item quantity:** Allows the picker to change the number of items in an order. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
-* **Allow adding order notes:** Allows the picker to add notes to orders, such as the reason for a price change. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
-* **Allow adding item notes:** Allows the picker to add notes to items, such as why an item was rejected. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
-* **Rejection reasons:** Displays the options available for the picker to choose from when rejecting items from an order. The picker can choose as many options as they want.
-* **Price change reasons:** Displays the options available for the picker to choose from when changing item prices from an order. The picker can choose as many options as they want.
-* **Limit for quantity changes in order items:** Percentage that limits how many items can be changed from an order.
-* **Limit for price changes in order items:** Percentage that limits how many item prices can be changed from an order.
-* **Total limit for order changes:** Percentage that limits the total number of orders that can be changed.
-
-#### Worksheets
-
-In this section, you can set the options that will be applied to your store worksheets.
-
-* **Allow multiple orders in one worksheet:** Allows adding multiple orders to a worksheet. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
-* **Enable quick picking:** Allows fast picking and automatic confirmation of product quantities and prices, avoiding the need for manual checks by the picker. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
-* **Enable express fulfillment:** Allows the express fulfillment option, enabling orders to be picked and packed simultaneously. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
-* **Allow moving orders after the picking process has started:** Allows editing worksheets even after the picking process has started. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
-* **Allow moving orders between worksheets:** Allows editing worksheets by moving the added orders between worksheets. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
-* **Worksheet tags:** Allows adding custom tags to optimize the order-picking process.
-* **Enable dynamic EAN codes:** Enables the use of dynamic barcodes, which can be changed based on the product's characteristics, such as weight. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
-
-### Onboarding
-
-You can activate the VTEX Pick and Pack app configuration process by following the steps below:
-
-1. Click `Onboarding`.
-2. Click `Start`.
-3. Select the options you want to set for the app. This setting will only apply to parentAccount.
-4. Click `Next`.
-5. Select the worksheets to be managed in the app and the number of tabs you want to create.
-6. Click `Next`.
-7. Activate <i class="fas fa-toggle-on"></i> the sales associates to whom you want the settings to apply.
-8. Click `Completed`.
-9. Click `Close`.
-
-Click `Save` to save the changes.
-
-## Categories
-
-On this tab, you can configure the order of the categories in which the orders will be picked. This enables the picker to manage the order picking process efficiently.
-
-![pick-pack-categorias-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_2.png)
-
-* **Fast configuration**: Applies the settings to all facilities. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
-* **Facility**: Determines the facility to which the category settings will be applied.
-
-To add a category to the list, click the desired category. To reorder, drag the category to the desired position in the list.
-
-You can import a CSV file or export the already configured list.
-
-## Packing
-In this tab, you will find the packing settings for order items.
-
-![pick-pack-empacotamento-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_3.png)
-* **Allow package reports**: Enables the visualization of the package report, which will be displayed on the Orders screen. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
-* **Allow automatic packing**: Allows automatic packaging of orders. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
-
-### Configuring package label printing
-
-In this section, you can configure the characteristics of the label that will be attached to the order package. See the available characteristics below:
-
-* **Print package label settings enabled**: Enables or disables the option to edit the label characteristics.
-* **Format**: Determines the label format.
-* **Font size (px)**: Determines the font size (in pixels) that will be printed on the label.
-
-#### Margins
-
-* **Left**: Size of the label's left margin in millimeters.
-* **Right**: Size of the label's right margin in millimeters.
-* **Top**: Size of the label's top margin in millimeters.
-* **Bottom**: Size of the label's bottom margin in millimeters.
-
-#### Dimensions
-
-* **Width**: Label width in millimeters.
-* **Height**: Label height in millimeters.
-
-### Configuring print receipt
-
-In this section, you can configure the order receipt printing characteristics. See the available characteristics below:
-
-* **Print receipt settings enabled**: Enables or disables the option to edit the receipt's characteristics.
-* **Format**: Determines the receipt format.
-* **Font size (px)**: Determines the font size (in pixels) that will be printed on the receipt.
-
-#### Margins
-
-* **Left**: Size of the receipt's left margin in millimeters.
-* **Right**: Size of the receipt's right margin in millimeters.
-* **Top**: Size of the receipt's top margin in millimeters.
-* **Bottom**: Size of the receipt's bottom margin in millimeters.
-
-#### Dimensions
-
-* **Width**: Receipt width in millimeters.
-* **Height**: Receipt height in millimeters.
-
-### Envelopes
-
-In this section, you must add the types of envelopes your store will use to package and ship orders. To add a new envelope, follow these steps:
-
-1. Click `Create`.
-2. Complete the fields below:
-   * **Name**: Name that will identify the envelope.
-   * **Type**: Envelope type. The options are Box, Bag, Envelope, Tape, Paper, and Others.
-   * **Description**: Envelope description for internal use.
-   * **Code**: Envelope identification code.
-   * **Cubic weight**: Envelope [cubic weight](/en/tutorial/como-o-peso-cubado-e-calculado--tutorials_128).
-   * **Height**: Envelope height in millimeters.
-   * **Length**: Envelope length in millimeters.
-   * **Weight**: Envelope weight in millimeters.
-   * **Width**: Envelope width in millimeters.
-3. Click `Save`.
-
-Click `Save` to save the changes.
+- [Orders](#orders)
+  - [Filters](#filters)
+- [Worksheets](#worksheets)
+  - [General](#general)
+  - [Label](#label)
+  - [Picking](#picking)
+- [Packing](#packing)
+  - [General](#general-1)
+  - [Packaging types](#packaging-types)
+- [Items](#items)
+  - [General](#general-2)
+  - [Categories](#categories)
+  - [Catalog](#catalog)
+- [Automation](#automation)
+  - [Worksheets](#worksheets-1)
+  - [Orders](#orders-1)
+  - [Shipping services](#shipping-services)
+- [Users](#users)
+- [Integration](#integration)
+  - [Webhook](#webhook)
+  - [API key](#api-key)
 
 ## Orders
 
-In this tab, you will find settings for orders processed by VTEX Pick and Pack.
+In this section, you can configure settings for orders processed by VTEX Pick and Pack.
 
-![pick-pack-config-pedidos-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_4.png)
+![vtex-pick-and-pack-settings_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_1.png)
 
-* **Download Orders From OMS**: Allows exporting orders from the OMS.
-* **Payment methods**: Payment methods used in the orders being exported.
-* **Shipping method**: Shipping methods used in the orders being exported.
-* **Shipment type**: Shipping types used in the orders being exported.
-* **Order tags**: Tags used in the orders being exported.
+- **Download orders from OMS**: Allows exporting orders from the VTEX Orders module.
 
-Click `Save` to save the changes.
+>ℹ️ The filters below only apply to new orders placed after the export. If no filters are set, all orders will be downloaded.
+
+### Filters
+
+The following filters determine which orders will be downloaded:
+
+- **Payment methods**: Payment methods used in the orders being exported.
+- **Shipping method**: Shipping methods used in the orders being exported.
+- **Shipment type**: Shipping types used in the orders being exported (`SHIP_FROM_STORE`, `PICKUP_IN_STORE`, or `DRIVE_THRU`).
+- **Order tags**: Restricts the download to orders that have certain tags.
+- **Trade policies**: [Trade policies](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) applied to the orders being exported.
+- **Submit changes to OMS**: Allows submitting the changes (replacements, rejections, or modifications) made to the handled orders to the [VTEX Orders module](https://help.vtex.com/en/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201). Orders must have their worksheet completed and no items pending picking or packing in the OMS to be valid in this filter.
+
+Click `Save` to save the changes in the section.
+
+## Worksheets
+
+In this section, you can configure the settings that will be applied to store [worksheets](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-ordens-de-servico--7bUwvmTY6eOqxzhyMIIzvz). A worksheet consists of a single order or a set of orders that will be processed by the Pick and Pack flow simultaneously.
+
+### General
+
+![vtex-pick-and-pack-settings_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_2.png)
+
+- **Single order**: Limits each worksheet to a single order.
+- **Multi order**: Allows a worksheet to group more than one order.
+- **Worksheet tags**: Custom tags that help identify worksheets. Tags can be viewed on the [pending worksheets](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#ordens-de-servico-pendentes) screen in the Pick and Pack mobile app.
+- **Allow worksheet notes**: Enables the picker [to add notes to the worksheet](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#ordens-de-servico-pendentes).
+- **Allow support chat**: Enables a chat between the picker and the merchant through the VTEX Admin.
+- **Enable picking list**: List that contains the necessary worksheet information for the picker to pick items. This information can be printed in label format.
+
+### Label
+
+You can define the information that will be displayed on the picking list, printed, and added to the order package.
+
+- **Size (in)**: Print format for the label.
+- **Font size (px)**: Font size in pixels that will be used for printing the label.
+- **Margin left**: Size of left label margin in millimeters.
+- **Margin right**: Size of the right label margin in millimeters.
+- **Margin top**: Size of top label margin in millimeters.
+- **Margin bottom**: Size of bottom label margin in millimeters.
+- **Show order IDs**: Displays order IDs on the label.
+- **Separate items by orders**: Allows generating one label per order.
+- **Show customer information**: Displays customer information on the label.
+- **Show package barcode / QR**: Displays the barcode or QR code on the label.
+- **Barcode / QR**: If the **Show package barcode / QR** option is enabled, this allows choosing whether the barcode with the order number, the worksheet number, or both will appear on the label.
+
+Click `Save` to save the changes in the section.
+
+### Picking
+
+![vtex-pick-and-pack-settings_3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_3.png)
+
+- **Show order information tab**: Displays the order information tab to the picker in the worksheet, both in the [VTEX Admin](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-ordens-de-servico--7bUwvmTY6eOqxzhyMIIzvz) or in the [Pick and Pack mobile app](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#ordens-de-servico-pendentes).
+- **Show customer information per order**: Displays the customer information tab to the picker.
+- **Allow item notes**: Allows the picker to [add notes to order items during picking](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#ordens-de-servico-pendentes).
+- **Ask confirmation to pick items**: Enables extra validation in the Pick and Pack app that requires the picker to confirm an item when picking it.
+- **Activate approval flow**: Requires admin approval for picking items.
+- **Allow adding items**: Allows the picker to [add new items during picking](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#adicionar-novos-produtos-a-um-pedido).
+- **Allow item replacements**: Allows the picker to [replace items during picking](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#substituir-itens).
+- **Replacement reasons**: Reasons for [item replacement](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#substituir-itens) that the picker will be able to select in the [Pick and Pack mobile app](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet). The replacement reasons you add aren't translated when the picker selects another language in the Pick and Pack mobile app.
+- **Allow item rejections**: Allows the picker to [reject items during picking](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#recusar-itens).
+- **Rejection reasons**: Reasons for [rejecting items](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#recusar-itens) that the picker will be able to select in the [Pick and Pack mobile app](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet). The rejection reasons you add aren't translated when the picker selects another language in the Pick and Pack mobile app.
+- **Allow item price changes**: Allows the picker to change the price of items during picking.
+- **Price change reasons**: Price change reasons that the picker will be able to select in the [Pick and Pack mobile app](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet). The price change reasons you add aren't translated when the picker selects another language in the Pick and Pack mobile app.
+- **Threshold for changes to item price**: Limit for changes to item price in an order. **100%** is the maximum amount that can be added to the original price when making a change (calculated over the original item price). `-100%` is the minimum.
+- **Allow item quantity changes**: Allows the picker to [change the quantity of items during picking](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#alterar-a-quantidade-de-um-produto).
+- **Threshold for changes to item quantity**: Quantity change limits for items in an order. **100%** is the maximum value that can be added to the original quantity when making a change (calculated over the original item quantity). `-100%` is the minimum.
+- **Limit order total changes**: Limits the changes that a picker can make to the order total. **100%** is the maximum amount that can be added to the final order total when making a change (calculated from the original order value). `-100%` is the minimum.
+- **Threshold for total changes to an order**: Maximum number of changes (replacements, rejections, and new items) that can be made to an order.
+
+Click `Save` to save the changes in the section.
+
+## Packing
+
+In this section, you'll find the packing settings for order items.
+
+### General
+
+![vtex-pick-and-pack-settings_4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_4.png)
+
+![vtex-pick-and-pack-settings_5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_5.png)
+
+- **Enable packing process**: Enables the [packing flow](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#empacotamento) performed for the picker.
+- **Enable packages report**: Enables displaying a report about the packages. This option is currently disabled.
+- **Enable packing labels**: Enables generating labels for packing orders and shows the label settings on the page.
+- **Packaging options**: Settings for the packaging that will be used during packing. The following options are available:
+  - **Measurement system**: Allows selecting between metric or imperial system for package dimensions and weight.
+  - **Update total weight**: Displays a modal in the Pick and Pack app for the picker to enter the total package weight. If disabled, the modal is not shown and the packing process is started.
+- **Custom packaging**: Displays a form for the picker to enter the dimensions and weight of custom packaging in the Pick and Pack app.
+- **No packaging**: Allows using the packaging of the items to ship the order.
+  - **Use SKU dimensions and weight**: Uses the SKU dimensions and weight as the dimensions and weight of the packaging. If the SKU doesn't have this information, the custom packaging dimensions and weight form will be displayed.
+  - **Enter total dimensions/weight**: Allows entering the item dimensions and weight.
+- **Show quantity of packages**: Displays the number of packages on the printed label.
+- **Show package barcode/QR code**: Displays a barcode or QR code generated from the information of the **Barcode/QR code** field.
+- **Show order information**: Displays order details on the printed label. In the **Orders** field, select the information you want to display.
+- **Show customer information**: Displays customer details on the printed label. In the **Customer** field, select the information you want to display.
+- **Show shipping information**: Displays shipping details on the printed label. In the **Shipping** field, select the details you want to display.
+- **Show items**: Displays order item details on the printed label. In the **Items** field, select the details you want to display.
+- **Show picking information**: Displays item picking details on the printed label. In the **Picking** field, select the information you want to display.
+- **Size (in)**: Format for printing the invoice in inches.
+- **Font size (px)**: Font size that will be used on the printed label in pixels.
+- **Margin left**: Size of the printed label left margin in millimeters.
+- **Margin right**: Size of the right margin of the printed label in millimeters.
+- **Margin top**: Size of the top margin of the printed label in millimeters.
+- **Margin bottom**: Size of the bottom margin of the printed label in millimeters.
+
+Click `Save` to save the changes in the section.
+
+### Packaging types
+
+![vtex-pick-and-pack-settings_6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_6.png)
+
+This page is organized as follows:
+
+| Column       | Description                                      |
+| ------------ | ------------------------------------------------ |
+| **Name**     | Name of the packaging.                           |
+| **Description** | Description with details about the packaging. |
+| **Code**     | Unique packaging code.                           |
+| **Size (in)**| Packaging size in inches.                        |
+| **Type**     | Type of packaging: `Box`, `Bag`, `Envelopes`, `Tape`, or `Paper`. |
+
+To create a new packaging type, follow the steps below:
+
+1. In VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or search for **Settings** in the search bar.
+2. Click the **Packing** section and then the **Packaging types** tab.
+3. Click the `Create packaging type` button.
+4. Complete the following fields:
+   - **Name**: Name of the packaging type.
+   - **Type**: Type of packaging, which can be `Box`, `Bag`, `Envelopes`, `Tape`, or `Paper`.
+   - **Description**: Description with details about the packaging.
+   - **Code**: Unique code for the packaging.
+   - **Length**: Package length in centimeters.
+   - **Height**: Package height in centimeters.
+   - **Width**: Package width in centimeters.
+   - **Max weight**: Maximum weight of the packaging.
+5. Click `Save`.
+
+To edit a packaging type, follow the steps below:
+
+1. In VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or search for **Settings** in the search bar.
+2. Click the **Packing** section and then the **Packaging types** tab.
+3. Click <i class="fas-solid fa-ellipsis-vertical"></i> for the packaging type you want to edit.
+4. Click <i class="fas fa-pencil"></i> `Edit`.
+5. Edit the information of the packaging type.
+6. Click `Save`.
+
+To duplicate a packaging type, follow the steps below:
+
+1. In VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or search for **Settings** in the search bar.
+2. Click the **Packing** section and then the **Packaging types** tab.
+3. Click <i class="fas-solid fa-ellipsis-vertical"></i> for the packaging type you want to duplicate.
+4. Click <i class="fas fa-copy"></i> `Duplicate`.
+5. Click `Confirm`.
+
+**To delete a packaging type, follow the steps below:**
+
+1. In VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or search for **Settings** in the search bar.
+2. Click the **Packing** section and then the **Packaging types** tab.
+3. Click <i class="fas-solid fa-ellipsis-vertical"></i> for the packaging type you want to delete.
+4. Click <i class="fas fa-trash"></i> `Delete`.
+5. Click `Confirm`.
+
+## Items
+
+In this section, you'll find the item settings displayed in the VTEX Pick and Pack mobile app.
+
+### General
+
+In this section, you can define the item details that will be shown in the mobile app and add other information to help the picker locate items.
+
+![vtex-pick-and-pack-settings_15](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_15.png)
+
+- **Item card information in picking app**: Information about the products that will be displayed on the item card in the [Pick and Pack mobile app](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet).
+- **Enable item transfer**: Allows fulfilling an item from a location different from the facility that was originally specified.
+- **Enable item location**: Assigns a unique code to each SKU to facilitate locating items in the store or warehouse. For more information about this setting, check [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
+- **Codes**: Item location code. For more information about this setting, check [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
+- **Example**: Field that lets you preview how the location code will be generated. For more information about this setting, check [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
+- **Separator**: Symbol that will separate each section of information in the location code. For more information about this setting, check [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
+- **Assign product brands to**: Defines the space (**BIN**, zone, section, or aisle) that brands will be in. For more information about this setting, check [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
+- **Assign product categories to**: Defines the space (**BIN**, zone, section, or aisle) that categories will be in. For more information about this setting, check [Pick and Pack Order changes API](https://developers.vtex.com/docs/api-reference/pick-and-pack-order-changes-).
+- **Enable dynamic barcodes**: When enabled `<i class="fas fa-toggle-on"></i>`, allows generating EANs based on:
+
+  | **Price**|**Weight**|
+  | --- | --- |
+  | Format: `Digit-Item-Price-CheckDigit` <br>If the price is $12.90, the digits are converted as `01290`. <br>Example: `20-01234-01290-1` | Format: `Digit-Item-Weight-CheckDigit` <br>If the weight is 200 g, the digits are converted ass `00200`. <br>Example: `20-01234-00200-1` |
+
+- **Dynamic barcode types**: Defines whether the dynamic barcodes will be based on price, weight, or item quantity. After selecting the barcode type, complete the fields with the numeric values of the code.
+
+### Categories
+
+In this section, you will define the product category hierarchy that will be displayed in the mobile app. The configured list is used to sort items when picking using the Pick and Pack mobile app.
+
+![vtex-pick-and-pack-settings_13](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_13.png)
+
+- **All facilities**: Defines the facilities that will have the categories available. If there are differences between the selected facilities, a warning is displayed indicating that the new setting will replace existing settings.
+- **Available categories**: Full category tree from the catalog. When you select facilities, categories that were previously saved are loaded.
+
+To define the available categories for a facility, follow the steps below:
+
+1. Click `Change selected facilities` and select the facilities you want to edit.
+2. In the list, click the categories you want to include in the facilities. You can search using the category name up to three levels in the tree.
+3. Click <i class="fas fa-grip-vertical"></i> and drag a category to sort the list as desired.
+4. Click `Save`.
+  
+To remove a selected category, click <i class="fas fa-trash"></i>.
+
+To export the information of the categories that will be displayed in the [Pick and Pack mobile app](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet), follow these steps:
+
+1. In VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or search for **Settings** in the search bar.
+2. Click the **Categories** section.
+3. Click the categories you want to export.
+4. After selecting them, click `Export`. A CSV file will be downloaded that contains the following information:
+
+```csv
+category_id,name,priority
+6,Food,10
+```
+
+- `category_id`: Category ID.
+- `name`: Category name.
+- `priority`: Priority in the category sort order displayed in the mobile app.
+
+To import information for the selected categories that will be displayed in the [Pick and Pack mobile app](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet), follow the steps below:
+
+1. In VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or search for **Settings** in the search bar.
+2. Click the **Categories** section.
+3. Click `Import`.
+4. Select the CSV file from your computer. The CSV file must have the columns `category_id`, `name`, and `priority`.
+5. Make sure the information is correct.
+6. Click `Replace`.
+
+### Catalog
+
+In this section, you can **bulk update** and **index the catalog** that will be available in the Pick and Pack mobile app.
+
+>ℹ️ During the initial Pick and Pack setup, you need to **bulk update** the catalog and **index** it.
+
+The page is organized as follows:
+
+| Column        | Description|
+| ------------- | --------- |
+| **Item**      | Product name. |
+| **ID**        | Product ID.|
+| **SKU**       | SKU ID.|
+| **EAN**       | EAN number.|
+| **Categories**| Categories the product belongs to.|
+| **Dimensions**| Product dimensions.|
+| **Weight**    | Product weight.|
+| **Weighable** | Indicates if the product varies in weight, like fruit, or has a fixed weight.|
+| **Temperature** | Product storage temperature. This information is only displayed in the VTEX Admin. |
+| **Active**    | Indicates whether the product is active in the mobile app catalog.          |
+
+To edit items in bulk, follow the steps below:
+
+1. In VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or search for **Settings** in the search bar.
+2. Under **Items**, click the **Catalog** section.
+3. Click `Bulk update`.
+4. Click `Download template`.
+5. Complete the template with the item information.
+6. Click `Choose file` and select the edited template that has the new information.
+7. Click `Continue`.
+8. Check for errors in the CSV. If there are any, correct them and re-upload the file.
+9. Click `Continue`.
+
+To edit an item, follow the steps below:
+
+1. In VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or search for **Settings** in the search bar.
+2. Under **Items**, click the **Catalog** section.
+3. Click the item you want to edit.
+4. Edit the item information:
+
+    ![vtex-pick-and-pack-settings_14](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_14.png)
+
+   - **EAN codes**
+   - **SKU codes**
+   - **Temperature**
+
+5. Click `Save`.
+
+To index the updates to the items, follow the steps below:
+
+1. In VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or search for **Settings** in the search bar.
+2. Under **Items**, click the **Catalog** section.
+3. Click `Index catalog`.
+4. Click `Continue`.
+5. Click `OK` to finish.
 
 ## Automation
 
-In this tab, you will find the automation settings for VTEX Pick and Pack processes.
+In this section, you'll find the automation settings for VTEX Pick and Pack processes. Automations are a rule-based mechanism triggered by events in which conditions are defined and the system automatically performs actions when they are met. These rules can be applied to orders, worksheets, and shipping services.
 
-![pick-pack-automacao-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_5.png)
+### Worksheets
+
+In this section, you can configure worksheet automations.
+
+![vtex-pick-and-pack-settings_10](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_10.png)
 
 To create a new automation, follow the steps below:
 
-1. Click `Create`.
-2. Complete the __Name__ field with the name of the automation and __Automation for__ with the option you want to automate.
-3. Click `Save`.
+1. In VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or search for **Settings** in the search bar.
+2. Under **Automation**, click the **Worksheets** section.
+3. Click `New`.
+4. Complete the fields below:
+   - **Active**: Activates the worksheet automation.
+   - **Automation name**: Descriptive name for the automation.
+   - **When this happens**: Condition that triggers the automation.
+   - **Do this**: Action applied by the automation.
+   - Click `+ Add another action` to implement additional actions.
+5. Click `Create` to finish.
+
+To update or delete an automation, follow the steps below:
+
+1. In VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or search for **Settings** in the search bar.
+2. Under the **Automation** section, click **Worksheets**.
+3. Click the automation you want to edit.
+4. Click `Update` to save the changes or click `Delete` to delete the automation.
+
+### Orders
+
+In this section, you can configure order automations.
+
+![vtex-pick-and-pack-settings_11](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_11.png)
+
+To create a new automation, follow the steps below:
+
+1. In VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or search for **Settings** in the search bar.
+2. In the **Automation** section, click **Orders**.
+3. Click `New`.
+4. Complete the fields below:
+   - **Active**: Activates the order automation.
+   - **Automation name**: Descriptive name for the automation.
+   - **When this happens**: Condition that triggers the automation.
+   - **Do this**: Action applied by the automation.
+   - Click `+ Add another action` to implement additional actions.
+5. Click `Create` to finish.
+
+To update or delete an automation, follow the steps below:
+
+1. In VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or search for **Settings** in the search bar.
+2. In **Automation**, click the **Orders** section.
+3. Click the automation you want to edit.
+4. Click `Update` to save the changes or click `Delete` to delete the automation.
+
+### Shipping services
+
+In this section, you can configure shipping automations.
+
+![vtex-pick-and-pack-settings_12](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_12.png)
+
+To create a new automation, follow the steps below:
+
+1. In VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or search for **Settings** in the search bar.
+2. In **Automation**, click the **Shipping services** section.
+3. Click `New`.
+4. Complete the fields below:
+   - **Active**: Activates the shipping automation.
+   - **Automation name**: Descriptive name for the automation.
+   - **When this happens**: Condition that triggers the automation.
+   - **Do this**: Action applied by the automation.
+   - Click `+ Add another action` to implement additional actions.
+5. Click `Create` to finish.
+
+To update or delete an automation, follow the steps below:
+
+1. In VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or search for **Settings** in the search bar.
+2. In **Automation**, click the **Shipping services** section.
+3. Click the automation you want to edit.
+4. Click `Update` to save the changes or click `Delete` to delete the automation.
 
 ## Users
 
-In this tab, you can manage users, admins, and pickers from your VTEX Pick and Pack operation. Users with Admin permission will have access to the VTEX Admin and be able to make changes within the tool. Users with Picker permission can only access the VTEX Pick and Pack app.
+In this section, you can manage the pickers in your VTEX Pick and Pack operation. Users with **Picker** permissions can only access the VTEX Pick and Pack app.
 
-![pick-pack-usuarios-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_6.png)
+![vtex-pick-and-pack-settings_7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_7.png)
 
 To create a new user, follow the steps below:
 
-1. Click `Create`.
-2. Select the permission type you want for your new user: __Admin__ or __Picker__.
-3. Add users based on the desired permissions:
-  * __Admin__ permission
-    1. Select the listed user you want to add as __Admin__.
-    2. Click `Create`.
-    ![pick-pack-usuarios-2-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_7.png)
-  * __Picker__ permission
-    1. Complete the form with the following information:
-       * User name
-       * Name
-       * Email (required)
-       * Password (required)
-       * Facilities
-       * Allow shipping packages
-       * Categories
-    2. Click `Create`.
-    ![pick-pack-usuarios-3-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_8.png)
+1. In VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or search for **Settings** in the search bar.
+2. In the **Users** section, click **Pickers**.
+3. Click `Create user`.
+4. Complete the form fields:
+   - **Username**: Username of the picker.
+   - **Name**: Picker name.
+   - **Email**: Login email of the picker.
+   - **Password**: Login password of the picker.
+   - Select the facility where the picker is located.
+5. Click `Create user`.
 
-## Catalog
+To edit or delete a user, follow the steps below:
 
-In this tab, you can access information about items in orders that are currently in the shipping stage.
+1. In VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or search for **Settings** in the search bar.
+2. In the **Users** section, click **Pickers**.
+3. Click the picker you want to edit or delete.
+4. Edit the information you want to change.
+5. Click `Update` to save the changes or `Delete` to delete the user.
 
-![pick-pack-catalogo-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_9.png)
+## Integration
 
-The page displays the following information in a table:
+In this section, you can set up integrations with the Pick and Pack mobile app.
 
-| Column fields | Description                                                                                                   |
-| ------------- | ------------------------------------------------------------------------------------------------------------- |
-| Item          | Product name.                                                                                                 |
-| Product ID    | Product identification number.                                                                                |
-| SKU           | Product SKU identification number.                                                                            |
-| EAN           | Product EAN number.                                                                                           |
-| Categories    | Categories in which the product is listed.                                                                    |
-| Dimensions    | Product dimensions.                                                                                           |
-| Weight        | Product weight.                                                                                               |
-| Weighable     | Products that must be weighed to indicate their weight in kilograms or grams, depending on the configuration. |
-| Temperature   | Products that must be stored at a minimum temperature to avoid deterioration.                                 |
-| Active        | Whether the product is available to customers or not.                                                         |
+### Webhook
 
-You can add bulk SKU IDs and EANs for your products via a CSV file. To do this, follow the steps below:
+In this section, you can set up webhooks for the mobile app. Webhooks work as an automatic notification that Pick and Pack sends to a URL every time there's a change in the flow, such as invoicing an order or a worksheet status update.
 
-1. Click the `Bulk Upload SKU/EAN` button.
-2. Add the file you want to upload.
-3. Click `Continue`.
+The system gathers event information, such as order ID, current and previous status, date, and other details, and sends everything to the configured address. You can also limit notifications by facility. In that case, the webhook is only triggered for events related to the selected units.
 
-You can also index the catalog to update the product list. To do this, click `Index Catalog` and then `Continue`.
+![vtex-pick-and-pack-settings_8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_8.png)
 
-> ❗ Indexing the catalog will delete and recreate all its contents, so you could lose all your custom EAN and SKU codes.
+To create a new webhook, follow the steps below:
 
-## Facilities
+1. In VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or search for **Settings** in the search bar.
+2. In **Integration**, click the **Webhook** section.
+3. Click `New`.
+4. Complete the form fields:
+   - **Active**: Activates the webhook.
+   - **Type**: Webhook method. The event types that can trigger notifications are:
 
-In this tab, you will be able to add and view your store's facilities.
+     - `INVOICING`: The order is invoiced.
+     - `ORDER_STATUS`: The order status changes.
+     - `WORKSHEET_STATUS`: The worksheet status changes.
+     - `RETURN_STATUS`: The return status changes.
+  
+   - **URL**: Webhook URL.
+   - **Headers**: Webhook headers.
+   - **Params**: Webhook parameters.
+   - **Where will this apply (facilities)**: Facilities the webhook will apply to.
+5. Click `Create`.
 
-![pick-pack-instalacoes-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_10.png)
+To edit or delete a webhook, follow the steps below:
 
-To create a new facility, follow these steps:
+1. In VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or search for **Settings** in the search bar.
+2. In **Integration**, click the **Webhook** section.
+3. Click the webhook you want to edit.
+4. Edit the webhook information.
+5. Click `Update` to save the changes or `Delete` to delete the webhook.
 
-1. Click `Create`.
-2. Complete the form with your facility's address. You must complete the __Street__, __City__, and __State__ fields.
-3. Click `Save`.
+### API key
+
+In this section, you can generate an API key to use the JWT authentication endpoints for the Pick and Pack API and the Pick and Pack Last Mile Protocol API.
+
+![vtex-pick-and-pack-settings_9](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_9.png)
+
+To generate a new API key, click `Generate`.
