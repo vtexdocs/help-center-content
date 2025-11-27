@@ -42558,12 +42558,12 @@
               "name": {
                 "es": "Producto no disponible incluso con stock franquiciado",
                 "pt": "Produto indisponível mesmo com estoque franqueado",
-                "en": "Product returning as unavailable even with stock in a whitelabel seller"
+                "en": "Producto no disponible incluso con stock franquiciado"
               },
               "slug": {
                 "es": "producto-no-disponible-incluso-con-stock-franquiciado",
                 "pt": "produto-indisponivel-mesmo-com-estoque-franqueado",
-                "en": "product-returning-as-unavailable-even-with-stock-in-a-whitelabel-seller"
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
