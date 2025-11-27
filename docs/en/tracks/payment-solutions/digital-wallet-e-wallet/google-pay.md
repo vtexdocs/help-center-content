@@ -3,7 +3,7 @@ title: 'Google Pay'
 id: 61JMBvM5Vanqj6RaJsP8CT
 status: PUBLISHED
 createdAt: 2023-06-27T21:28:37.755Z
-updatedAt: 2024-08-02T13:49:01.227Z
+updatedAt: 2025-11-27T00:00:00.000Z
 publishedAt: 2024-08-02T13:49:01.227Z
 firstPublishedAt: 2023-06-27T21:46:39.537Z
 contentType: trackArticle
@@ -16,6 +16,8 @@ order: 2
 ---
 
 Google Pay™ is a digital payments service that allows users not to share their actual card information with the store, providing more security and streamlining the checkout step. With Google Pay, users can make payments using credit or debit cards without having to enter any information manually, and Google Pay is also available in various apps, websites and in the Google Wallet. 
+
+> ⚠️ The debit card payment option on Google Pay is available exclusively in Brazil.
 
 The Google Pay API Terms of Service apply whenever the Google Pay service is offered by a merchant. To read the terms, please see [Google Pay API Terms of Service](https://payments.developers.google.com/terms/sellertos).
 

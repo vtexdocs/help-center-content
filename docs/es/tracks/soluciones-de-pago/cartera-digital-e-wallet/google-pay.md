@@ -3,7 +3,7 @@ title: 'Google Pay'
 id: 61JMBvM5Vanqj6RaJsP8CT
 status: PUBLISHED
 createdAt: 2023-06-27T21:28:37.755Z
-updatedAt: 2024-08-02T13:49:01.227Z
+updatedAt: 2025-11-27T00:00:00.000Z
 publishedAt: 2024-08-02T13:49:01.227Z
 firstPublishedAt: 2023-06-27T21:46:39.537Z
 contentType: trackArticle
@@ -17,9 +17,11 @@ order: 2
 
 Google Pay™ es un servicio de pagos digitales que permite a los usuarios no compartir los datos reales de su tarjeta con la tienda, aportando más seguridad y agilizando la fase de checkout. Con Google Pay, el usuario puede realizar pagos utilizando tarjetas de crédito o débito, sin necesidad de rellenar ningún dato manualmente, y Google Pay también está disponible en muchas aplicaciones, sitios web y Catera Google. 
 
+> ⚠️ La opción de pago con tarjeta de débito en Google Pay está disponible exclusivamente en Brasil.
+
 Los términos de la API de Google Pay se aplican siempre que el administrador de la tienda ofrezca Google Pay como medio de pago. Para leer los términos, accede a [Google Pay API Terms of Service](https://payments.developers.google.com/terms/sellertos).
 
-> ⚠️ Google Pay no está disponible para Checkout V5 o versiones anteriores de Checkout.h
+> ⚠️ Google Pay no está disponible para Checkout V5 o versiones anteriores de Checkout.
 
 ## Activar Google Pay
 
