@@ -29,9 +29,9 @@ Cada banco que realiza transações de pagamento associadas ao PSE possui um có
 1. Acesse o checkout da sua loja.
 2. Na seção de pagamentos, clique sobre a opção __PSE__.
 3. Abra a página __Web Developer Tools__ do seu navegador. Caso tenha alguma dúvida, veja abaixo como realizar este procedimento de acordo com o tipo de navegador:
-- [Google Chrome](https://developer.chrome.com/docs/devtools/open#inspect)
-- [Firefox](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/open_the_inspector/index.html)
-- [Safari](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/open_the_inspector/index.html)
+   - [Google Chrome](https://developer.chrome.com/docs/devtools/open#inspect)
+   - [Firefox](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/open_the_inspector/index.html)
+   - [Safari](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/open_the_inspector/index.html)
 
 4. Clique sobre a aba __Rede__.
 5. Atualize a página pressionando a tecla __F5__ ou o botão de atualizar do seu navegador.

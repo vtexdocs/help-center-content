@@ -27,72 +27,60 @@ For more details on the second option, check our technical documentation on [int
 By a VTEX standard, the gift card is considered a payment method. This product has a nominal value that can be used at the moment of the purchase to reduce the order price.
 
 To create a new gift card, follow the step by step:
-<ol>
-  <li>In the VTEX Admin, go to **Promotions > Gift Cards**, or type **Gift Cards** in the search bar at the top of the page.</li>
-  <br>
-  <li>Click on the **New Gift Card** button.</li>
-  <br>
-  > ℹ️ On the gift card creation screen, the **Gift card** field is automatically filled in by the VTEX system with the ID code of the new gift card. This is the code to be entered by the customer on the checkout screen to apply the gift card to the cart and reduce the payment value of the order.
-<br>
-  <li>Fill in the fields that will be displayed as explained below:</li>
-  <br>
-<ul>
-  <li>**Value**: the nominal value that will be granted for the voucher use.</li>
-  <li>**Currency code**: currency in which the voucher will be created. The options available for selection are presented in accordance with the commercial policies of each store.</li>
-  <li>**Expiration Date**: this is the effective date for using the voucher.</li>
-  <li>**Customer ID**: data that identifies and defines the voucher for a specific client.</li>
-  <li>**Collection**: identifies the product collection that defines the items to which the voucher can be applied.</li>
-</ul><br>
+
+1. In the VTEX Admin, go to **Promotions > Gift Cards**, or type **Gift Cards** in the search bar at the top of the page.
+2. Click on the **New Gift Card** button.
+
+> ℹ️ On the gift card creation screen, the **Gift card** field is automatically filled in by the VTEX system with the ID code of the new gift card. This is the code to be entered by the customer on the checkout screen to apply the gift card to the cart and reduce the payment value of the order.
+
+3. Fill in the fields that will be displayed as explained below:
+   - **Value**: the nominal value that will be granted for the voucher use.
+   - **Currency code**: currency in which the voucher will be created. The options available for selection are presented in accordance with the commercial policies of each store.
+   - **Expiration Date**: this is the effective date for using the voucher.
+   - **Customer ID**: data that identifies and defines the voucher for a specific client.
+   - **Collection**: identifies the product collection that defines the items to which the voucher can be applied.
 
 > ⚠️ **Warning**: The “Value” and the “Expiration Date” fields are **mandatory**. If you do not fill them, the purchase voucher will not be saved.
 
 > ❗ The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article [Collection functionality doesn't work on Giftcard](https://help.vtex.com/en/known-issues/collection-functionality-doesnt-work-on-giftcard).
 
 After filling in the fields correctly, the user can select up to three configuration options:
-<ul>
-  <li>**Restricted**: only the customer associated with the CPF or CNPJ informed above can use this voucher.</li>
-  <li>**Reloadable**: while this voucher is available, its balance can be changed.</li>
-  <li>**Reusable**: it will be possible to make new purchases with this voucher until its value is fully used.</li>
-</ul>
-<br>
-  <li>Finally, click on the **Save** button.</li>
-<br>
-> ℹ️ There is no limit to the creation of gift cards, however only 8000 gift cards can be exported at a time.
+   - **Restricted**: only the customer associated with the CPF or CNPJ informed above can use this voucher.
+   - **Reloadable**: while this voucher is available, its balance can be changed.
+   - **Reusable**: it will be possible to make new purchases with this voucher until its value is fully used.
 
-</ol>
+4. Finally, click on the **Save** button.
+
+> ℹ️ There is no limit to the creation of gift cards, however only 8000 gift cards can be exported at a time.
 
 ## How to create a batch of Vouchers (manual)
 
 To create more than one new voucher at the same time (a batch), follow the step by step:
-<ol>
-  <li>In the VTEX Admin, go to **Promotions > Gift Cards**, or type **Gift Cards** in the search bar at the top of the page.</li>
-  <br>
-  <li>Click on the **New Gift Card Batch** button.</li>
-  <br>
-  <li>Fill in the fields that will be displayed as explained below:</li>
-<br>
-<ul>
-  <li>**Number of gift cards**: this is the number of vouchers that you want to create as a batch. A maximum of 500 (five hundred) vouchers can be created per batch.</li>
-  <li>**Value**: the nominal value that will be granted for all vouchers in this batch.</li>
-  <li>**Currency code**: currency in which vouchers will be batched. The options available for selection are customized according to the commercial policies of each store.</li>
-  <li>**Expiration Date**: this is the effective date for using all vouchers of this batch.</li>
-  <li>**Collection**: identifies the product collection that defines the items to which the vouchers can be applied.</li>
-<br>
+
+1. In the VTEX Admin, go to **Promotions > Gift Cards**, or type **Gift Cards** in the search bar at the top of the page.
+2. Click on the **New Gift Card Batch** button.
+3. Fill in the fields that will be displayed as explained below:
+   - **Number of gift cards**: this is the number of vouchers that you want to create as a batch. A maximum of 500 (five hundred) vouchers can be created per batch.
+   - **Value**: the nominal value that will be granted for all vouchers in this batch.
+   - **Currency code**: currency in which vouchers will be batched. The options available for selection are customized according to the commercial policies of each store.
+   - **Expiration Date**: this is the effective date for using all vouchers of this batch.
+   - **Collection**: identifies the product collection that defines the items to which the vouchers can be applied.
+
 > ⚠️ **Warning**: The “Number of gift cards”, “Value” and the “Expiration Date” fields are **mandatory**. If you don’t fill them, the purchase vouchers will not be saved.
-<br>
-> ❗ The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article   > ❗ A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo [Collection functionality doesn't work on Giftcard](https://help.vtex.com/known-issues/collection-functionality-doesnt-work-on-giftcard).
-<br>
-  <li>**Reloadable**: while these vouchers are available, their balances can be changed;</li>
-  <li>**Reusable**: it will be possible to make new purchases with these vouchers until their values are fully used.</li>
-</ul><br>
-  <li>Click on the **Save** button.</li>
-<br>
-A new screen will appear confirming that the requested number of vouchers has been generated and their IDs will also be shown.<br> 
-<br>
-  <li>To end, click on the **Back** button.</li>
-<br>
+
+> ❗ The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article [Collection functionality doesn't work on Giftcard](https://help.vtex.com/known-issues/collection-functionality-doesnt-work-on-giftcard).
+
+   - **Reloadable**: while these vouchers are available, their balances can be changed.
+   - **Reusable**: it will be possible to make new purchases with these vouchers until their values are fully used.
+
+4. Click on the **Save** button.
+
+A new screen will appear confirming that the requested number of vouchers has been generated and their IDs will also be shown.
+
+5. To end, click on the **Back** button.
+
 > ℹ️ There is no limit to the creation of gift cards, however only 8000 gift cards can be exported at a time.
-</ol>
+
 
 ## How to set a Gift Card as a payment method
 
@@ -100,18 +88,18 @@ After creating the Gift Card, it must be configured as a payment method. This wa
 
 Follow the steps below to set up the Gift card:
 
-1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+1. In the VTEX Admin, go to **Store Settings > Payment > Providers**, or type **Providers** in the search bar at the top of the page.
 2. On the providers screen, click the `New Provider` button.
-3. Type the name __GiftCard HUB__ in the search bar and click on the name of the provider.
-4. In __Refund method__ and __Early settlement__, select the desired options.
+3. Type the name **GiftCard HUB** in the search bar and click on the name of the provider.
+4. In **Refund method** and **Early settlement**, select the desired options.
 5. Click `Save`.
-6. Go to __Store Settings > Payment > Settings__, or type Settings in the search bar at the top of the page.
-7. In the __Payment Conditions__ tab, click on the `+` button.
-8. Click on the __Vale__ connector.
-9. On the top of the page, create a __name__ to this payment condition.
-10. Activate the condition in the __Status__ field.
-11. Under __Process with provider__, select the desired giftcard provider.
-12. If you want to use an anti-fraud system, select the option __Use anti-fraud solution__.
+6. Go to **Store Settings > Payment > Settings**, or type Settings in the search bar at the top of the page.
+7. In the **Payment Conditions** tab, click on the `+` button.
+8. Click on the **Vale** connector.
+9. On the top of the page, create a **name** to this payment condition.
+10. Activate the condition in the **Status** field.
+11. Under **Process with provider**, select the desired giftcard provider.
+12. If you want to use an anti-fraud system, select the option **Use anti-fraud solution**.
 13. If you want, you can also [configure special payment conditions](https://help.vtex.com/docs/tutorials/special-conditions).
 14. Click on `Save`.
 

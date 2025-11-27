@@ -29,9 +29,9 @@ Cada banco que realiza transacciones de pago asociadas a PSE tiene un código es
 1. Accede al checkout de tu tienda.
 2. En la sección de pago, haz clic en la opción __PSE__.
 3. Abre la página __Web Developer Tools__ de tu navegador. Si tienes dudas sobre cómo acceder a esta página, consulta a continuación las instrucciones de cada tipo de navegador:
-- [Google Chrome](https://developer.chrome.com/docs/devtools/open#inspect)
-- [Firefox](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/open_the_inspector/index.html)
-- [Safari](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/open_the_inspector/index.html)
+   - [Google Chrome](https://developer.chrome.com/docs/devtools/open#inspect)
+   - [Firefox](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/open_the_inspector/index.html)
+   - [Safari](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/open_the_inspector/index.html)
 
 4. Haz clic en la pestaña __Red__.
 5. Actualiza la página presionando la tecla __F5__ o el botón de actualizar el navegador.

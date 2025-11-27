@@ -29,9 +29,9 @@ Each bank that makes payment transactions associated with PSE has a specific ide
 1. Go to your store checkout.
 2. In the payment section, click the __PSE__ option.
 3. Open the __Web Developer Tools__ page in your browser. If you have any doubts, see below how to do this based on the browser you're using:
-- [Google Chrome](https://developer.chrome.com/docs/devtools/open#inspect)</li>
-- [Firefox](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/open_the_inspector/index.html)
-- [Safari](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/open_the_inspector/index.html)
+   - [Google Chrome](https://developer.chrome.com/docs/devtools/open#inspect)</li>
+   - [Firefox](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/open_the_inspector/index.html)
+   - [Safari](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/open_the_inspector/index.html)
 
 4. Click the __Network__ tab.
 5. Refresh the page by clicking __F5__ or the refresh button on your browser.
