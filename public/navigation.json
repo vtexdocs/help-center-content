@@ -42514,6 +42514,21 @@
             },
             {
               "name": {
+                "en": "Product returning as unavailable even with stock in a whitelabel seller",
+                "es": "Producto devuelto como no disponible incluso con stock en un vendedor de marca blanca",
+                "pt": "Produto retornando como indisponível mesmo com estoque em um vendedor whitelabel"
+              },
+              "slug": {
+                "en": "product-returning-as-unavailable-even-with-stock-in-a-whitelabel-seller",
+                "es": "producto-devuelto-como-no-disponible-incluso-con-stock-en-un-vendedor-de-marca-blanca",
+                "pt": "produto-retornando-como-indisponivel-mesmo-com-estoque-em-um-vendedor-whitelabel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product Specification Export Index Out of Range",
                 "es": "Especificación del producto Índice de exportación fuera de la gama",
                 "pt": "Especificação do produto Índice de exportação fora da faixa"
@@ -42574,14 +42589,14 @@
             },
             {
               "name": {
-                "en": "Product unavailable even with franchised stock",
                 "es": "Producto no disponible incluso con stock franquiciado",
-                "pt": "Produto indisponível mesmo com estoque franqueado"
+                "pt": "Produto indisponível mesmo com estoque franqueado",
+                "en": "Producto no disponible incluso con stock franquiciado"
               },
               "slug": {
-                "en": "product-unavailable-even-with-franchised-stock",
                 "es": "producto-no-disponible-incluso-con-stock-franquiciado",
-                "pt": "produto-indisponivel-mesmo-com-estoque-franqueado"
+                "pt": "produto-indisponivel-mesmo-com-estoque-franqueado",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
