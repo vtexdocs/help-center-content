@@ -12,10 +12,10 @@ locale: en
 
 ## General
 
-- [Action labels](https://contentguide.vtex.com/docs/interface-copy/action-labels)
-- [Content labels](https://contentguide.vtex.com/docs/interface-copy/content-labels)
-- [Data formats](https://contentguide.vtex.com/docs/interface-copy/data-formats)
-- [Descriptions](https://contentguide.vtex.com/docs/interface-copy/descriptions)
-- [Messages](https://contentguide.vtex.com/docs/interface-copy/messages)
-- [Placeholder texts](https://contentguide.vtex.com/docs/interface-copy/placeholder-texts)
-- [Titles](https://contentguide.vtex.com/docs/interface-copy/titles)
+- [Action labels](https://contentguide.vtex.com/en/docs/interface-copy/action-labels)
+- [Content labels](https://contentguide.vtex.com/en/docs/interface-copy/content-labels)
+- [Data formats](https://contentguide.vtex.com/en/docs/interface-copy/data-formats)
+- [Descriptions](https://contentguide.vtex.com/en/docs/interface-copy/descriptions)
+- [Messages](https://contentguide.vtex.com/en/docs/interface-copy/messages)
+- [Placeholder texts](https://contentguide.vtex.com/en/docs/interface-copy/placeholder-texts)
+- [Titles](https://contentguide.vtex.com/en/docs/interface-copy/titles)

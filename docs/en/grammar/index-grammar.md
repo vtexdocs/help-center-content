@@ -12,11 +12,11 @@ locale: en
 
 ## General
 
-- [Abbreviations](https://contentguide.vtex.com/docs/grammar/abbreviations)
-- [Adjectives](https://contentguide.vtex.com/docs/grammar/adjectives)
-- [Articles](https://contentguide.vtex.com/docs/grammar/articles)
-- [Capitalization](https://contentguide.vtex.com/docs/grammar/capitalization)
-- [Contractions](https://contentguide.vtex.com/docs/grammar/contractions)
-- [Pronouns](https://contentguide.vtex.com/docs/grammar/pronouns)
-- [Punctuation](https://contentguide.vtex.com/docs/grammar/punctuation)
-- [Verbs](https://contentguide.vtex.com/docs/grammar/verbs)
+- [Abbreviations](https://contentguide.vtex.com/en/docs/grammar/abbreviations)
+- [Adjectives](https://contentguide.vtex.com/en/docs/grammar/adjectives)
+- [Articles](https://contentguide.vtex.com/en/docs/grammar/articles)
+- [Capitalization](https://contentguide.vtex.com/en/docs/grammar/capitalization)
+- [Contractions](https://contentguide.vtex.com/en/docs/grammar/contractions)
+- [Pronouns](https://contentguide.vtex.com/en/docs/grammar/pronouns)
+- [Punctuation](https://contentguide.vtex.com/en/docs/grammar/punctuation)
+- [Verbs](https://contentguide.vtex.com/en/docs/grammar/verbs)

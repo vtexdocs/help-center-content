@@ -1,90 +1,90 @@
 ---
-title: 'Troubleshooting'
-id: edu0010
+title: 'Resolución de problemas'
+id: edu0010-es
 status: PUBLISHED
-createdAt: 2024-12-04T19:24:22.388Z
-updatedAt: 2025-02-03T11:11:00.388Z
-publishedAt: 2024-12-04T19:24:22.388Z
-firstPublishedAt: 2024-12-04T19:24:22.388Z
+createdAt: 2025-11-25T19:24:22.388Z
+updatedAt: 2025-11-25T11:55:00.388Z
+publishedAt: 2025-11-25T19:24:22.388Z
+firstPublishedAt: 2025-11-25T19:24:22.388Z
 contentType: trackArticle
 productTeam: Education
-slugEN: troubleshooting-template
-locale: en
+slugES: resolucion-de-problemas
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: troubleshooting-template
+trackSlugES: resolucion-de-problemas
 ---
 
-Troubleshooting articles help users find practical solutions to problems they may encounter when completing tasks on the platform.
+Los artículos de resolución de problemas ayudan a los usuarios a encontrar soluciones prácticas a los problemas que puedan enfrentar al completar acciones en la plataforma.
 
-In this guide, you’ll see the available templates, general guidelines, and examples of troubleshooting articles.
+Consulta en esta guía las plantillas disponibles, directrices generales y ejemplos de artículos para la resolución de problemas.
 
-> ℹ️ Make sure to review the guidelines from the [Best practices for writing documentation](https://contentguide.vtex.com/docs/documentation/documentation-overview#best-practices-for-writing-documentation).
+> ℹ️ Asegúrate de revisar las pautas en [Buenas prácticas para la redacción de documentación](https://contentguide.vtex.com/docs/documentation/documentation-overview#best-practices-for-writing-documentation).
 
-## Writing a troubleshooting article
+## Cómo redactar un artículo de resolución de problemas
 
-| **Topic** | **Description** |
+| **Tema** | **Descripción** |
 | ------------ | ---------------------- |
-| **Title** | Clearly describe the issue in a concise and direct manner, using first-person language. |
-| **Introduction** | Provide a brief overview of the problem scenario, including affected modules, error messages, and screenshots. |
-| **Solution(s)** | Outline the steps to resolve the issue, including: <ol><li><b>Solution name:</b> Provide a clear and concise label for each solution.</li><li><b>Steps:</b> Break down the solution into numbered steps, using clear and concise language.</li></ol> |
-| **Assets** | Include screenshots or other visual aids to enhance understanding (if applicable). |
-| **User perspective** | Write from the user's point of view, focusing on the problem they are experiencing. |
-| **Product tags and keywords** | **Include relevant product tags and keywords to improve search visibility.** |
-| **Responsibility** | Indicate who is responsible for resolving the issue and taking necessary actions: VTEX, the user, or both. |
-| **Root cause analysis** | Identify the underlying cause of the problem to provide effective solutions. |
+| **Título** | Describe claramente el problema de manera concisa y directa, utilizando la primera persona. |
+| **Introducción** | Proporciona una breve descripción del escenario del problema, incluyendo los módulos afectados, los mensajes de error y capturas de pantalla. |
+| **Soluciones** | Describe los pasos para resolver el problema, incluyendo: <ol><li><b>Nombre de la solución:</b>proporciona una etiqueta clara y concisa para cada solución.</li><li><b>Pasos:</b> desglosa la solución en pasos numerados, utilizando un lenguaje claro y conciso.</li></ol> |
+| **Recursos** | Incluye capturas de pantalla u otras ayudas visuales para facilitar la comprensión (si corresponde). |
+| **Perspectiva del usuario** | Escribe desde el punto de vista del usuario, centrándote en el problema que está experimentando. |
+| **Tags y palabras clave del producto** | **Incluye tags y palabras clave relevantes para el producto para mejorar la visibilidad en las búsquedas.** |
+| **Responsabilidad** | Indica quién es responsable de resolver el problema y tomar las medidas necesarias: VTEX, el usuario o ambos. |
+| **Análisis de la causa raíz** | Identifica la causa subyacente del problema para proporcionar soluciones efectivas. |
 
-## Troubleshooting templates
+## Plantillas de solución de problemas
 
 <details>
-<summary><b>Template 1 - Error and problem groups</b></summary>
+<summary><b>Plantilla 1 - Grupos de errores y problemas</b></summary>
 
 ```md
-# Title
-Product tags: [Add products related to the problem. Example: Orders and Payments]
+# Título
+Product tags: [Agregar productos relacionados con el problema. Ejemplo: Pedidos y pagos]
 
-Keywords: [Words that help identify the article content in a search. Example: Unidentified order, SKU, etc.]
+Keywords: [Palabras que ayudan a identificar el contenido del artículo en una búsqueda. Ejemplo: Pedido no identificado, SKU, etc.]
 
-[Add a brief introduction describing the problem faced by the user. Whenever possible, limit this to 2 paragraphs.]
+[Agrega una breve introducción que describa el problema que el usuario está enfrentando. Siempre que sea posible, limítala a 2 párrafos.]
 
-## Solution
+## Solución
 
-To identify the meaning and determine the specific correction for each error message, see the table below:
+Para entender el significado y la corrección específica de cada mensaje de error, consulta la siguiente tabla:
 
-| Error type or message | Meaning | Required action |
+| Tipo o mensaje de error | Significado | Acción requerida |
 | :--- | :--- | :--- |
-| `{Add the error message}` or `Add the error type` | [Describe the meaning of the message or the cause of the error type. Example: Order not found on VTEX (item removed from the catalog or incorrect information).] | [Guide the user with clear instructions. Example: provide a summary of the steps, mention another article, or recommend contacting support for further assistance.] |
+| `{Agregar el mensaje de error}` o `Agregar el tipo de error` | [Describe el significado del mensaje o la causa del tipo de error. Ejemplo: Pedido no encontrado en VTEX (ítem eliminado del catálogo o información incorrecta).] | [Guía al usuario con instrucciones claras. Por ejemplo, ofrece un resumen de los pasos, menciona otro artículo relacionado o recomienda ponerte en contacto con el soporte técnico para obtener más ayuda.] |
 ```
 
 </details>
 <details>
-<summary><b>Template 2 - General articles</b></summary>
+<summary><b>Plantilla 2 - Artículos generales</b></summary>
 
 ```md
-# Title
+# Título
 
-Product tags: [Add products related to the problem. Example: Orders and Payments]
+Product tags: [Agregar productos relacionados con el problema. Ejemplo: Pedidos y pagos]
 
-Keywords: [Words that help identify the article content in a search. Example: Unidentified order, SKU, etc.]
+Keywords: [Palabras que ayudan a identificar el contenido del artículo en una búsqueda. Ejemplo: Pedido no identificado, SKU, etc.]
 
-[Add a brief introduction describing the problem faced by the user. Limit this to 2 paragraphs.]
+[Añade una breve introducción que describa el problema que el usuario está enfrentando. Limita esta sección a 2 párrafos.]
 
-## Solution
+## Solución
 
-[Describe possible solutions to solve the reported error. When there are multiple steps to fix the error, these should be divided into individual steps, see the next template, Template 3 - General articles: More than one step in the solution.]
+[Describe las posibles soluciones para resolver el error reportado. Cuando la solución requiera varios pasos divídelos en pasos individuales. Para más detalles, consulta la plantilla Plantilla 3 - Artículos generales: más de un paso en la solución]
 
-To solve this problem, there are several solutions you can consider:
+Para solucionar este problema, puedes probar las siguientes opciones:
 
-- [Solution name 1](#solution-name-1): [Describe the scenario for this problem. Example: "Site Editor doesn't open."]
+- [Nombre de la solución 1](#nombre-solucion-1): [Describe el escenario de este problema. Ejemplo: "Site Editor no abre."]
 
-- [Solution name 2](#solution-name-2): …
+- [Nombre de la solución 2](#nombre-solucion-2): …
 
-### Solution name 1
+### Nombre de la solución 1
 
-[Example title: "Checking roles"]
+[Ejemplo de título: "Verificar roles"]
 
-[Describe what needs to be done to solve the problem and the expected outcome.]
+[Describe qué se debe hacer para resolver el problema y el resultado esperado.]
 
-### Solution name 2
+### Nombre de la solución 2
 
 .
 .
@@ -93,41 +93,41 @@ To solve this problem, there are several solutions you can consider:
 
 </details>
 <details>
-<summary><b>Template 3 - General articles: More than one step in the solution</b></summary>
+<summary><b>Plantilla 3 - Artículos generales: más de un paso en la solución</b></summary>
 
 ```md
-# Alternative title
+# Título alternativo
 
-### Solution name 1
+### Nombre de la solución 1
 
-[Example Title: Configure your VTEX account]
+[Ejemplo de título: Configura tu cuenta VTEX]
 
-[Describe in investigative steps. Within each step, describe the necessary steps to solve the problem and the expected outcome.]
+[Describe la solución en pasos de diagnóstico. En cada paso, explica las acciones necesarias para resolver el problema y el resultado esperado.]
 
-### Step 1 - Step name 1
-
-.
-.
-.
-
-#### Step 2 - Step name 2
+### Paso 1 - Nombre del paso 1
 
 .
 .
 .
 
-### Solution name 2
-
-.
-.
-.
-#### Step 1 - Step name 1
+#### Paso 2 - Nombre del paso 2
 
 .
 .
 .
 
-#### Step 2 - Step name 2
+### Nombre de la solución 2
+
+.
+.
+.
+#### Paso 1 - Nombre del paso 1
+
+.
+.
+.
+
+#### Paso 2 - Nombre del paso 2
 
 .
 .
@@ -136,12 +136,12 @@ To solve this problem, there are several solutions you can consider:
 
 </details>
 
-## Examples of troubleshooting articles
+## Ejemplos de artículos de solución de problemas
 
-- [Help Center](https://help.vtex.com/category/troubleshooting--39pDkp8qxSll6mGj0tWViz)
-  - [My ad is not displayed on Mercado Livre](https://help.vtex.com/tutorial/my-ad-is-not-displayed-on-mercado-livre--2UpudfowEvG97e2lstj4qc)
-  - [My store’s Site Editor is not working](https://help.vtex.com/tutorial/my-stores-site-editor-is-not-working--3A6Ois91zEZ8zpKJp1wsP2)
-  - [Promotion not applied to the marketplace](https://help.vtex.com/tutorial/promotion-not-applied-to-the-marketplace--2pxlVpzgThuw2wTEISRwA2)
+- [Centro de ayuda](https://help.vtex.com/category/troubleshooting--39pDkp8qxSll6mGj0tWViz)
+  - [Mi anuncio no se muestra en Mercado Libre](https://help.vtex.com/es/troubleshooting/mi-anuncio-no-aparece-en-mercado-libre)
+  - [Problemas con Site Editor en mi tienda](https://help.vtex.com/es/troubleshooting/problemas-con-site-editor-en-mi-tienda)
+  - [Promoción no aplicada en marketplace](https://help.vtex.com/es/troubleshooting/promocion-no-aplicada-en-marketplace)
 
 - [Developer Portal](https://developers.vtex.com/docs/troubleshooting)
   - [I can't update the EAN of my SKUs via API](https://developers.vtex.com/docs/troubleshooting/i-cant-update-the-ean-of-my-skus-via-api)

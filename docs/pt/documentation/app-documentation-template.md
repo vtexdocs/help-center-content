@@ -1,201 +1,201 @@
 ---
-title: 'App documentation'
-id: edu0005
+title: 'Documentação de aplicativos'
+id: edu0005-pt
 status: PUBLISHED
-createdAt: 2024-12-03T19:24:22.388Z
-updatedAt: 2025-02-03T11:11:00.388Z
-publishedAt: 2024-12-03T19:24:22.388Z
-firstPublishedAt: 2024-12-03T19:24:22.388Z
+createdAt: 2025-11-25T19:24:22.388Z
+updatedAt: 2025-11-25T11:55:00.388Z
+publishedAt: 2025-11-25T19:24:22.388Z
+firstPublishedAt: 2025-11-25T19:24:22.388Z
 contentType: trackArticle
 productTeam: Education
-slugEN: app-documentation-template
-locale: en
+slugPT: documentacao-de-aplicativos
+locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: app-documentation-template
+trackSlugPT: documentacao-de-aplicativos
 ---
 
-An app documentation guide helps users understand [VTEX apps](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-a-vtex-app), including installation and configuration.
+A documentação de apps ajuda os usuários a entender os [aplicativos VTEX](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-a-vtex-app), incluindo sua instalação e configuração.
 
-> ℹ️ To add documentation to an app, you must use the [Docs builder](https://developers.vtex.com/docs/guides/vtex-io-documentation-docs-builder). The documentation is written in Markdown files, inside the app repository. By using the Docs builder, the documentation becomes publicly available on the [VTEX Developer Portal](https://developers.vtex.com/).
+> ℹ️ Para adicionar documentação a um aplicativo, você deve usar o [Docs builder](https://developers.vtex.com/docs/guides/vtex-io-documentation-docs-builder). A documentação é escrita em arquivos Markdown, dentro do repositório do aplicativo. Ao usar o Docs builder, a documentação fica disponível publicamente no [VTEX Developer Portal](https://developers.vtex.com/).
 
-In this guide, you’ll learn about the available template, general guidelines, and examples of Onboarding articles. 
+Neste guia, serão apresentadas diretrizes gerais, modelos e exemplos de artigos de integração. 
 
-> ⚠️ This guide is part of the [App Store guidelines](https://developers.vtex.com/docs/guides/vtex-io-documentation-homologation-requirements-for-vtex-app-store) and one of the requirements to submit an app to the homologation process and [make it available in the App Store](https://developers.vtex.com/docs/guides/vtex-io-documentation-homologation-requirements-for-vtex-app-store).
+> ⚠️ Este guia faz parte das [diretrizes da App Store](https://developers.vtex.com/docs/guides/vtex-io-documentation-homologation-requirements-for-vtex-app-store) e é um dos requisitos para enviar um app para o processo de homologação e [disponibilizá-lo na App Store](https://developers.vtex.com/docs/guides/vtex-io-documentation-homologation-requirements-for-vtex-app-store).
 
-## Writing app documentation
+## Como escrever uma documentação de aplicativo
 
 <details>
-<summary><b>Target audience</b></summary>
+<summary><b>Público-alvo</b></summary>
 
-**Description:** Identify your readers
+**Descrição:** Identifique seus leitores.
 
-| **✅ Do** | **❌ Don’t** |
+| **✅ Correto** | **❌ Incorreto** |
 | :--- | :--- |
-| Differentiate between developers and business users. | Assume a single audience. |
+| Diferencie entre desenvolvedores e usuários administradores. | Considere um único público. |
 
 </details>
 
 <details>
-<summary><b>Learning objective</b></summary>
+<summary><b>Objetivos de aprendizagem</b></summary>
 
-**Description:** Define the user's takeaway.
+**Descrição:** Defina o que o usuário deve aprender.
 
-| **✅ Do** | **❌ Don’t** |
+| **✅ Correto** | **❌ Incorreto** |
 | :--- | :--- |
-| Clearly state what users should learn. | Leave learning goals ambiguous. |
+| Indique claramente o que os usuários devem aprender. | Deixe os objetivos de aprendizagem ambíguos. |
 
 </details>
 
 <details>
-<summary><b>Title</b></summary>
+<summary><b>Título</b></summary>
 
-**Description:** Use a clear and concise title.
+**Descrição:** Use um título claro e conciso.
 
-| **✅ Do** | **❌ Don’t** |
+| **✅ Correto** | **❌ Incorreto** |
 | :--- | :--- |
-| <ol><li>Use the app name and a verb describing the learning objective.</li><li>Capitalize the first letter of each word.</li></ol> | Include punctuation, version numbers, or the word `App`. |
+| <ol><li>Use o nome do aplicativo e um verbo que descreva o objetivo de aprendizagem.</li><li>Escreva a primeira letra de cada palavra em maiúscula.</li></ol> | Inclua pontuação, números de versão ou a palavra `App`. |
 
 </details>
 
 <details>
-<summary><b>Introduction</b></summary>
+<summary><b>Introdução</b></summary>
 
-**Description:** Briefly introduce the app and its benefits.
+**Descrição:** Apresente brevemente o aplicativo e seus benefícios.
 
-| **✅ Do** | **❌ Don’t** |
+| **✅ Correto** | **❌ Incorreto** |
 | :--- | :--- |
-| <ol><li>Summarize the app's purpose and user benefits.</li><li>Include an image and callouts for important notes.</li></ol>| Focus solely on technical details. |
+| <ol><li>Resuma a finalidade do aplicativo e os benefícios para o usuário.</li><li>Inclua uma imagem e callouts para observações importantes.</li></ol> | Foque exclusivamente nos detalhes técnicos. |
 
 </details>
 
 <details>
-<summary><b>Before you begin (optional)</b></summary>
+<summary><b>Antes de começar (opcional)</b></summary>
 
-**Description:** List requirements before installation.
+**Descrição:** Liste os requisitos antes da instalação.
 
-| **✅ Do** | **❌ Don’t** |
+| **✅ Correto** | **❌ Incorreto** |
 | :--- | :--- |
-| <ol><li>Use clear bullet points or checklists.</li><li>Use callouts if applicable.</li></ol> | Write lengthy paragraphs explaining prerequisites. |
+| <ol><li>Use itens de lista ou uma checklist.</li><li>Use callouts, se aplicável.</li></ol> | Escreva parágrafos longos explicando os pré-requisitos. |
 
 </details>
 
 <details>
-<summary><b>Installation</b></summary>
+<summary><b>Instalação</b></summary>
 
-**Description:** Provide a step-by-step guide with code snippets (if applicable).
+**Descrição:** Escreva um guia passo a passo com trechos de código (se aplicável).
 
-| **✅ Do** | **❌ Don’t** |
+| **✅ Correto** | **❌ Incorreto** |
 | :--- | :--- |
-| <ul><li>Provide clear and concise steps.</li><li>Enhance clarity with code snippets.</li></ul> | Skip steps or lack specific instructions. |
+| <ul><li>Organize em etapas claras e concisas.</li><li>Aumente a clareza com trechos de código.</li></ul> | Pule etapas ou não forneça instruções específicas. |
 
 </details>
 
 <details>
-<summary><b>Configuration</b></summary>
+<summary><b>Configuração</b></summary>
 
-**Description:** Guide users through the app configuration.
+**Descrição:** Oriente os usuários na configuração do aplicativo.
 
-| **✅ Do** | **❌ Don’t** |
+| **✅ Correto** | **❌ Incorreto** |
 | :--- | :--- |
-| List all essential settings with detailed steps as defined in the [settingsSchema](https://developers.vtex.com/docs/guides/vtex-io-documentation-manifest#settingsschema). | Omit configuration details. |
+| Liste todas as configurações essenciais com etapas detalhadas, conforme definido no [settingsSchema](https://developers.vtex.com/docs/guides/vtex-io-documentation-manifest#settingsschema). | Omita detalhes de configuração. |
 
 </details>
 
 <details>
-<summary><b>How it works</b></summary>
+<summary><b>Como funciona</b></summary>
 
-**Description:** (Optional) Detail the app functions and provide steps for using the app.
+**Descrição:** (Opcional) Detalhe as funções do aplicativo e as etapas para usá-lo.
 
-| **✅ Do** | **❌ Don’t** |
+| **✅ Correto** | **❌ Incorreto** |
 | :--- | :--- |
-| <ol><li>Use numbered lists for each operation, with clear and concise steps.</li><li>Use images to illustrate the UI.</li></ol> | Skip steps or lack specific instructions. |
+| <ol><li>Use listas numeradas para cada operação, com etapas claras e concisas.</li><li>Use imagens para ilustrar a interface do usuário.</li></ol> | Pule etapas ou omita instruções específicas. |
 
 </details>
 
 <details>
-<summary><b>Customization</b></summary>
+<summary><b>Personalização</b></summary>
 
-**Description:** (Optional) Provide steps for customizing the app.
+**Descrição:** (Opcional) Escreva as etapas para personalizar o aplicativo.
 
-| **✅ Do** | **❌ Don’t** |
+| **✅ Correto** | **❌ Incorreto** |
 | :--- | :--- |
-| <ul><li>Include [CSS handles](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-using-css-handles-for-store-customization) and a related table if applicable.</li><li>Reference external documentation for CSS customization.</li></ul> | Ignore customization options. |
+| <ul><li>Inclua [identificadores CSS](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-using-css-handles-for-store-customization) e uma tabela relacionada, se aplicável.</li><li>Consulte a documentação externa para personalização CSS.</li></ul> | Ignore as opções de personalização. |
 
 </details>
 
 <details>
-<summary><b>Contributors</b></summary>
+<summary><b>Colaboradores</b></summary>
 
-**Description:** (Optional) Acknowledge contributors.
+**Descrição:** (Opcional) Inclua um agradecimento aos colaboradores.
 
-| **✅ Do** | **❌ Don’t** |
+| **✅ Correto** | **❌ Incorreto** |
 | :--- | :--- |
-| Follow the [All-Contributors specification](https://github.com/all-contributors/all-contributors). | Omit recognition of contributors. |
+| Siga a [especificação All Contributors](https://github.com/all-contributors/all-contributors). | Omita o reconhecimento dos colaboradores. |
 
 </details>
 
 <details>
 <summary><b>Callouts</b></summary>
 
-**Description:** (Optional) Acknowledge contributors.
+**Descrição:** (Opcional) Inclua um agradecimento aos colaboradores.
 
-| ✅ Do | ❌ Don’t |
+| ✅ Correto | ❌ Incorreto |
 | :--- | :--- |
-| Highlight information using callouts. | <ul><li>Use the provided callout types (Information, Warning, Danger) with appropriate messages.</li><li>Use generic text to highlight information.</li></ul> |
+| Destaque informações usando callouts. | <ul><li>Use os tipos de callout fornecidos (Information, Warning, Danger) com mensagens apropriadas.</li><li>Use texto genérico para destacar informações.</li></ul> |
 
 </details>
 
-## App documentation template
+## Modelo de documentação de um aplicativo
 
 <details>
-<summary><b>App documentation template</b></summary>
+<summary><b>Modelo de documentação de um aplicativo</b></summary>
 
 ```md
-# `{Insert the app name}`
+# `{Insira o nome do aplicativo}`
 
-`{insert app name}` `{app's purpose starting with a verb}` so you can `{job to be done}`.
+`{insira nome do aplicativo}` `{finalidade do aplicativo começando com um verbo}` para que você possa `{tarefa a ser realizada}`.
 
-![insert-an-image-preview](/)
+![adicione-uma-pré-visualização-da-imagem](/)
 
-## Before you begin
+## Antes de começar
 
-You need to have `{insert what the user needs to have: an account in another platform, CLI, knowledge about another app, etc.}`.
+Você precisa ter `{insira o que o usuário precisa ter: uma conta em outra plataforma, CLI, conhecimento sobre outro aplicativo, etc.}`.
 
-If you don't have `{insert what the user needs to have and how to get it}`.
+Se você não tiver `{insira o que o usuário precisa ter e como obtê-lo}`.
 
-## Installation
+## Instalação
 
-1. [Install](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-installing-an-app) the `{insert app name}` app in the desired VTEX account by running `vtex install {appVendor}.{appName}` in your terminal.
-2. (Optional, for frontend apps) Open the store Store Theme app directory in your code editor.
-3. (Optional, for frontend apps) Open the app `manifest.json file` and add the `{insert app name}` app under the `peerDependencies` field.
+1. [Instale](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-installing-an-app) o aplicativo `{insira o nome do aplicativo}` na conta VTEX desejada executando `vtex install {appVendor}.{appName}` no seu terminal.
+2. (Opcional, para aplicativos frontend) Abra o diretório do aplicativo Store Theme da loja no seu editor de código.
+3. (Opcional, para aplicativos frontend) Abra o arquivo `manifest.json` do aplicativo e adicione o aplicativo `{insira o nome do aplicativo}` no campo `peerDependencies`.
 
 
       "peerDependencies": {
-          "vtex.`{appName}`": "`{appVersion}`"
+          "vtex.{appName}": "{appVersion}"
       }
       
 
-4. (Optional, for frontend apps) Declare the `{insert app name}` app in the desired template. For example:
+4. (Opcional, para aplicativos frontend) Declare o aplicativo `{insira o nome do aplicativo}` no modelo desejado. Por exemplo:
 
       "store.home": {
-          "blocks": [
+          "blocos": [
       +     "{app-name}",
           ]
       },
 
-*![insert-an-image-preview](/)*
+*![adicione-uma-pré-visualização-da-imagem](/)*
 
-## Configuration
+## Configuração
 
-Once you have installed the app, you can `{describe the app's configuration in the VTEX Admin as defined in the settingsSchema[https://developers.vtex.com/docs/guides/vtex-io-documentation-manifest#settingsschema], for example}`.
+Depois de instalar o aplicativo, você pode `{descrever a configuração do aplicativo no Admin VTEX, conforme definido no settingsSchema[https://developers.vtex.com/docs/guides/vtex-io-documentation-manifest#settingsschema], por exemplo}`.
 
-1. `First step`.
-2. `Second step`.
-3. `Third step`.
+1. `Primeiro passo`.
+2. `Segundo passo`.
+3. `Terceiro passo`.
 
-## Customization (Optional, for frontend apps)
+## Personalização (opcional, para aplicativos frontend)
 
-To apply CSS customizations to this and other blocks, follow the instructions in [Using CSS Handles for store customization](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-using-css-handles-for-store-customization).
+Para aplicar personalizações CSS a este e outros blocos, siga as instruções em [Using CSS Handles for store customization](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-using-css-handles-for-store-customization).
 
 | CSS Handles |
 | ------------------ |
@@ -203,24 +203,24 @@ To apply CSS customizations to this and other blocks, follow the instructions in
 | csshandlesName |
 | csshandlesName |
 
-## How the app works (optional)
+## Como o aplicativo funciona (opcional)
 
-Use this section for [Admin apps](https://learn.vtex.com/docs/course-admin-lang-en) when the app requires user interaction beyond the Admin configuration.
+Use esta seção para [aplicativos do Admin](https://learn.vtex.com/docs/course-admin-lang-en) quando o aplicativo exigir interação do usuário além da configuração de administrador.
 
-`{Detail what can be done with the app and provide the steps to perform each operation.}`
+`{Informe em detalhes o que pode ser feito com o aplicativo e forneça as etapas para realizar cada operação.}`
 
-## Contributors
+## Colaboradores
 
-Thanks go to these wonderful people:
+Agradecemos a colaboração destas pessoas incríveis:
 
-- `{insert the GitHub username}`
+- `{insira o nome de usuário do GitHub}`
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome.
+Este projeto segue a especificação [All Contributors](https://github.com/all-contributors/all-contributors). Todas as contribuições são bem-vindas.
 ```
 
 </details>
 
-## Examples of app documentation articles
+## Exemplos de artigos de documentação de aplicativos
 
 - [Breadcrumb](https://developers.vtex.com/docs/apps/vtex.breadcrumb)
 - [SKU Selector](https://developers.vtex.com/docs/apps/vtex.store-components/skuselector)

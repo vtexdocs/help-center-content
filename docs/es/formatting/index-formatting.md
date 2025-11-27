@@ -12,6 +12,6 @@ locale: es
 
 ## General
 
-- [Encabezados y títulos](https://contentguide.vtex.com/docs/formatting/headings-and-titles)
-- [Interfaz de usuario](https://contentguide.vtex.com/docs/formatting/computer-interfaces)
-- [Listas y tablas](https://contentguide.vtex.com/docs/formatting/lists-and-tables)
+- [Encabezados y títulos](https://contentguide.vtex.com/es/docs/formatting/headings-and-titles)
+- [Interfaz de usuario](https://contentguide.vtex.com/es/docs/formatting/computer-interfaces)
+- [Listas y tablas](https://contentguide.vtex.com/es/docs/formatting/lists-and-tables)

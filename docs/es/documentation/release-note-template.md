@@ -1,67 +1,71 @@
 ---
-title: 'Release note'
-id: edu0009
+title: 'Notas de release'
+id: edu0009-es
 status: PUBLISHED
-createdAt: 2025-02-06T15:00:00.388Z
-updatedAt: 2025-02-06T15:00:00.388Z
-publishedAt: 2025-02-06T15:00:00.388Z
-firstPublishedAt: 2025-02-06T15:00:00.388Z
+createdAt: 2025-11-25T19:24:22.388Z
+updatedAt: 2025-11-25T11:55:00.388Z
+publishedAt: 2025-11-25T19:24:22.388Z
+firstPublishedAt: 2025-11-25T19:24:22.388Z
 contentType: trackArticle
 productTeam: Education
-slugEN: release-note-template
-locale: en
+slugES: notas-de-release
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: release-note-template
+trackSlugES: notas-de-release
 ---
 
-A release note informs users about updates, enhancements, and bug fixes in a new product version. In this guide, you’ll see general guidelines on how to write a release note and the release note template.
+Una release note (o nota de la versión) informa a los usuarios sobre actualizaciones, mejoras y correcciones de errores en una nueva versión del producto. Consulta en esta guía las pautas generales sobre cómo redactar releases notes y su estructura.
 
-> ℹ️ Make sure to review the guidelines in the [Best practices for writing documentation](https://contentguide.vtex.com/docs/documentation/documentation-overview#best-practices-for-writing-documentation).
+> ℹ️ Para saber más, accede a [Mejores prácticas para la redacción de documentación](https://contentguide.vtex.com/docs/documentation/documentation-overview#best-practices-for-writing-documentation).
 
-## Writing a release note
+> ℹ️ Este tipo de contenido se publica únicamente en inglés.
 
-| **Topic** | **Description** |
+## Cómo redactar release notes
+
+| **Tema** | **Descripción** |
 | --------- | --------------- |
-| **Introduction** | <ol><li>Start the first paragraph with an overview, explaining the change and its impact.</li><li>Ensure the reader immediately understands how the changes presented in the release note will affect their store operations.</li></ol> |
-| **"What has changed?"** | Explain the changes introduced by the release. |
-| **"Why did we make this change?"** | Explain what motivated VTEX to create it and the issues that were solved. |
-| **"What needs to be done?"** | <ol><li>Guide readers on how to leverage these new capabilities or adapt to changes.</li><li>Add a call to action to direct the reader to additional information.</li></ol> |
+| **Introducción** | <ol><li>Comienza el primer párrafo con una descripción general, explicando el cambio y su impacto.</li><li>Garantiza que el usuario comprenda de inmediato el impacto que los cambios de la release note tendrán en las operaciones de su tienda.</li></ol> |
+| **"¿Qué cambió?"** | Explica los cambios implementados. |
+| **"¿Por qué realizamos este cambio?"** | Explica qué motivó a VTEX a realizar estos cambios y los problemas que se resolvieron. |
+| **"¿Qué se necesita hacer?"** | <ol><li>Indica cómo aprovechar estas nuevas funcionalidades o adaptarse a los cambios.</li><li>Agrega una llamada a la acción para que el usuario pueda consultar más información.</li></ol> |
 
-## Release note template
+## Plantilla de release notes
 
-Release notes must have the following tags at their beginning:
+Las release notes deben comenzar con las siguientes tags:
 
-| **Tag name** | **Icon** | **Description** |
+| **Nombre de la tag** | **Ícono** | **Descripción** |
 | ------------ | -------- | --------------- |
-| `added`      | `+`      | New features, functionalities, or components introduced in the release. |
-| `deprecated` | `➖` | A feature, function, or component is no longer recommended for use. |
-| `info` | `ℹ` | Important information or updates that aren't tied to specific changes but are relevant for users. |
-| `fixed` | `✔` | Bugs or issues that have been solved in the release. |
-| `removed` | `x` | A feature, functionality, or component has been eliminated. |
-| `improved` | `^` | Enhancements or optimizations made to existing features or products. |
+| `added`      | `+`      | Nuevas funcionalidades, elementos o componentes introducidos en la versión. |
+| `deprecated` | `➖` | Ya no se recomienda el uso de una funcionalidad, elemento o componente. |
+| `info` | `ℹ` | Información importante o actualizaciones que no están vinculados a cambios específicos pero que son relevantes para los usuarios. |
+| `fixed` | `✔` | Errores o problemas que se han resuelto en la versión. |
+| `removed` | `x` | Se ha eliminado una funcionalidad, elemento o componente. |
+| `improved` | `^` | Mejoras u optimizaciones realizadas a funcionalidades o productos existentes. |
 
 <details>
-<summary><b>Release Note template</b></summary>
+<summary><b>Plantilla de release notes</b></summary>
 
 ```md
-# Feature name: summary
+# Nombre de la funcionalidad: resumen
  
-We created/modified this feature to <insert the key benefit> so you can <job to be done>.
+Creamos/actualizamos esta funcionalidad para <insertar el beneficio principal>, de modo que puedas <alcanzar tu objetivo o realizar la tarea deseada>.
 
-## What has changed?
+## ¿Qué cambió?
 
-Before, you had to <how the user used to solve the problem>. Now, you have this <new button/screen/experience> where you can <benefit>.
+Antes era necesario <describir cómo el usuario resolvía el problema anteriormente>.
+Ahora, dispones de <nuevo botón/pantalla/experiencia> que te permite <ingresar beneficio o mejora principal>.
 
-## Why did we make this change?
+## ¿Por qué realizamos este cambio?
 
-In order to <facilitate your job to be done>, we developed <subject>. This is available for <specific or general users?>.
+Con el objetivo de <facilitar tu objetivo o tarea>, desarrollamos <ingresar tema o componente>.
+Esta actualización está disponible para <usuarios específicos o todos los usuarios>.
 
-## What needs to be done?
-To <use this new resource> you have to <install something or adjust a configuration.>
+## ¿Qué se necesita hacer?
+Para <utilizar este nuevo recurso>, es necesario <instalar x, ajustar una configuración o realizar una acción específica>.
 
-To learn more <about the feature/module/product>, see <the article>.
+Para más información <sobre la funcionalidad, módulo o producto>, consulta <el artículo correspondiente>.
 ```
 
 </details>
 
-> See release note examples in the [Developer Portal](https://developers.vtex.com/updates/release-notes).
+> Accede a ejemplos de release notes en [Developer Portal](https://developers.vtex.com/updates/release-notes).

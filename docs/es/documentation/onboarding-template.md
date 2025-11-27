@@ -1,71 +1,73 @@
 ---
 title: 'Onboarding'
-id: edu0008
+id: edu0008-es
 status: PUBLISHED
-createdAt: 2024-12-03T19:24:22.388Z
-updatedAt: 2025-02-03T11:11:00.388Z
-publishedAt: 2024-12-03T19:24:22.388Z
-firstPublishedAt: 2024-12-03T19:24:22.388Z
+createdAt: 2025-11-25T19:24:22.388Z
+updatedAt: 2025-11-25T11:55:00.388Z
+publishedAt: 2025-11-25T19:24:22.388Z
+firstPublishedAt: 2025-11-25T19:24:22.388Z
 contentType: trackArticle
 productTeam: Education
-slugEN: onboarding-template
-locale: en
+slugES: onboarding-template
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: onboarding-template
+trackSlugES: onboarding-template
 ---
 
-Onboarding articles introduce new users to a specific technology, tool, or system to facilitate the learning curve and enable them to become proficient and productive.
+Los artículos de onboarding presentan a los nuevos usuarios una tecnología, herramienta o sistema específico, acelerando su aprendizaje y permitiéndoles ser más competentes y productivos.
 
-In this guide, you'll see the available template, general guidelines, and examples of Onboarding articles in this guide.
+Esta guía incluye la plantilla de onboarding, pautas generales y ejemplos de artículos dentro de la categoría.
 
-> ℹ️ Make sure to review the guidelines from the [Best practices for writing documentation](https://contentguide.vtex.com/docs/documentation/documentation-overview#best-practices-for-writing-documentation).
+> ℹ️ Este tipo de contenido se publica únicamente en inglés.
 
-## Writing an onboarding article
+> ℹ️ Asegúrate de revisar las pautas de las [Mejores prácticas para redactar documentación](https://contentguide.vtex.com/docs/documentation/documentation-overview#best-practices-for-writing-documentation).
 
-| Topic | Description |
+## Cómo redactar un artículo de onboarding
+
+| Tema | Descripción |
 | :---- | :---- |
-| **Focus on Fundamentals** | Emphasize the core elements a user needs to understand to get started, such as critical dependencies, initial configurations, and key setup steps. Avoid overwhelming users with advanced configurations unless they're necessary for the initial usage.  |
-| **Assets** | Whenever possible, include visuals such as diagrams, screenshots, or flowcharts. These can clarify complex processes and provide users with a quick reference. In the architecture section, a well-labeled diagram helps illustrate system components and interactions. |
-| **Instructions** | For sections like **Quickstart**, make sure each step is actionable and, if needed, link to additional resources for deeper understanding. |
-| **Links to Prerequisites and Further Learning** | Use links to redirect users to related technologies, documentation, and guides. For example, in the Next steps section, suggest related configurations or customizations and link to resources that expand on or complement the basic onboarding content. |
+| **Enfoque en aspectos fundamentales** | Destaca los elementos esenciales que el usuario debe comprender para empezar, como las dependencias críticas, las configuraciones iniciales y los pasos clave de instalación. Evita incluir configuraciones avanzadas, salvo que sean necesarias para el uso inicial. |
+| **Recursos visuales** | Siempre que sea posible, incluye elementos visuales como diagramas, capturas de pantalla o flujogramas, pues ayudan a aclarar procesos complejos y ofrecen a los usuarios una referencia rápida. En la sección de arquitectura, un diagrama bien rotulado facilita la comprensión de los componentes e interacciones del sistema. |
+| **Instrucciones** | En secciones como **Inicio rápido**, asegúrate de que cada paso sea claro y accionable, y agrega links a recursos adicionales si se necesita una comprensión más profunda. |
+| **Links a prerrequisitos y aprendizaje adicional** | Utiliza links para redirigir a los usuarios a tecnologías, documentación y guías relacionadas. Por ejemplo, en la sección Próximos pasos, sugiere configuraciones o personalizaciones relacionadas e incluye links a recursos que amplíen o complementen el contenido básico de onboarding. |
 
-## Onboarding template
+## Plantilla de onboarding
 
 <details>
-<summary><b>Onboarding template</b></summary>
+<summary><b>Plantilla de onboarding</b></summary>
 
 ```md
-# Title
-[Describe what the technology is in this section.]
+# Título
+[Indica la tecnología en esta sección.]
 
-Ex.: To work with {technology name}, you should be familiar with the following technologies:
-[Add here the technologies that the user should know before starting to work with it.]
-[Technology 1](/link)
-[Technology 2](/link)
-[Technology 3](/link)
-… 
-## {technology name} architecture
-[Add here a diagram illustrating the technology architecture and provide an explanation.]
+Ej.: Para trabajar con {nombre de la tecnología}, primero debes familiarizarte con las siguientes tecnologías:
+[Agrega aquí las tecnologías que el usuario debe conocer antes de comenzar a trabajar con la tecnología que se está introduciendo.]
+[Tecnología 1](/link)
+[Tecnología 2](/link)
+[Tecnología 3](/link)
+…
+## Arquitectura de {nombre de la tecnología}
+[Agrega un diagrama que muestre la arquitectura de la tecnología y proporciona una explicación clara.]
 
-## Quickstart
-[Describe the instructions for developing a project using the technology, from installing the requirements to running the project locally. The steps below can vary depending on the technology used.]
+## Inicio rápido (quickstart)
+[Proporciona instrucciones paso a paso para desarrollar un proyecto usando la tecnología, desde la instalación de los requisitos hasta la ejecución local del proyecto. Ajusta los pasos según la tecnología.]
 
-### 1. Initial settings
-[Describe the requirements and initial configuration needed before developing the project.]
+### 1. Configuración inicial
+[Especifica los requisitos y la configuración inicial necesarios antes de comenzar el proyecto.]
 
-### 2.  Setting up the project
-[Provide instructions for setting up the development environment to kickstart the project and run it locally.]
+### 2. Configuración del proyecto
+[Indica cómo preparar el entorno de desarrollo y ejecutar el proyecto de manera local.]
 
-### 3. Customizing the storefront
-[After running the project locally, describe the customization options available.]
+### 3. Personalización del storefront
+[Después de ejecutar el proyecto localmente, describe las opciones disponibles para personalizar el storefront.]
 
-## Next steps
-[Suggest additional initial configurations or steps for those who have completed the quickstart section, and include the card component along with links to suggestions.]
+## Próximos pasos
+[Sugiere configuraciones adicionales o pasos a seguir tras completar el inicio rápido, e incluye el componente de tarjeta con links a las recomendaciones.]
 ```
 
 </details>
 
-## Examples of Onboarding articles
+## Ejemplos de artículos de onboarding
 
 - [FastStore - Overview](https://developers.vtex.com/docs/guides/faststore)  
 - [Store Framework - Overview](https://developers.vtex.com/docs/guides/store-framework)

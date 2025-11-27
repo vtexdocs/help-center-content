@@ -1,95 +1,95 @@
 ---
-title: 'Product Documentation overview'
-id: edu0001
+title: 'Visão geral da documentação'
+id: edu0001-pt
 status: PUBLISHED
-createdAt: 2024-12-03T19:24:22.388Z
-updatedAt: 2025-02-11T11:55:00.388Z
-publishedAt: 2024-12-03T19:24:22.388Z
-firstPublishedAt: 2024-12-03T19:24:22.388Z
+createdAt: 2025-11-25T19:24:22.388Z
+updatedAt: 2025-11-25T11:55:00.388Z
+publishedAt: 2025-11-25T19:24:22.388Z
+firstPublishedAt: 2025-11-25T19:24:22.388Z
 contentType: trackArticle
 productTeam: Education
-slugEN: documentation-overview
-locale: en
+slugPT: visao-geral-da-documentacao
+locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: documentation-overview
+trackSlugPT: visao-geral-da-documentacao
 ---
 
-VTEX documentation is designed to provide clear and concise information for anyone interested in using or integrating with our products. Our goal is to empower clients and partners by offering resources that support learning about the platform and business development.
+A documentação da VTEX foi pensada para fornecer informações claras e concisas para qualquer pessoa interessada em usar ou integrar nossos produtos. Nosso objetivo é capacitar clientes e parceiros, oferecendo recursos que auxiliem no aprendizado sobre a plataforma e no desenvolvimento de negócios.
 
-In this guide, you’ll learn about how VTEX creates documentation and how you can contribute.
+Neste guia, apresentaremos como a VTEX cria documentação e como você pode contribuir.
 
-## Learning resources
+## Recursos de aprendizagem
 
-At VTEX, we offer resources where you can find guides, tutorials, learning paths, product updates, and ask questions or offer help with VTEX products:
+Na VTEX, oferecemos recursos onde você pode encontrar guias, tutoriais, trilhas de aprendizagem, atualizações de produtos e também fazer perguntas ou oferecer ajuda sobre os produtos VTEX:
 
-| **Portal name** | **Description** |
+| **Nome do portal** | **Descrição** |
 | :---- | :---- |
-| [Help Center](https://help.vtex.com/) | Provides beginner tutorials, reference guides, and articles. |
-| [Developer Portal](https://developers.vtex.com/) |  Provides information about integrations, APIs, and development resources for your store. |
-| [Community](https://community.vtex.com/) | Enables connection with other users, asking questions, and sharing knowledge within the VTEX ecosystem. |
-| [Learning VTEX](https://learn.vtex.com/) | Provides a learning environment on how to develop a store using [Store Framework](https://developers.vtex.com/docs/guides/store-framework) or a [VTEX App](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-a-vtex-app). |
+| [Help Center](https://help.vtex.com/) | Oferece tutoriais para iniciantes, guias de referência e artigos. |
+| [Developer Portal](https://developers.vtex.com/) | Fornece informações sobre integrações, APIs e recursos de desenvolvimento para sua loja. |
+| [Community](https://community.vtex.com/) | Permite se conectar com outros usuários, fazer perguntas e compartilhar conhecimento dentro do ecossistema VTEX. |
+| [Learning VTEX](https://learn.vtex.com/) | Oferece um ambiente de aprendizagem para desenvolver uma loja usando o [Store Framework](https://developers.vtex.com/docs/guides/store-framework) ou um [VTEX App](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-a-vtex-app). |
 
-## Best practices for writing documentation
+## Melhores práticas para escrever documentação
 
-At VTEX, our goal for documentation is to make everything as simple and clear as possible for users working with or interested in VTEX solutions.
+Na VTEX, nosso objetivo com a documentação é torná-la o mais simples e clara possível para os usuários que trabalham com ou têm interesse em soluções VTEX.
 
-We welcome contributions to VTEX documentation and encourage you to help improve the user experience. There are several ways to contribute, depending on the documentation portal you're interested in and your preferred method. Check our [Contribution Guidelines](https://contentguide.vtex.com/docs/documentation/contribution-guidelines) for more information.
+Aceitamos contribuições para a documentação da VTEX e incentivamos você a ajudar a melhorar a experiência do usuário. Existem várias maneiras de contribuir, dependendo do portal de documentação e do método que preferir. Consulte nossas [Diretrizes de contribuição](LINK) para mais informações.
 
-### Define the documentation structure
+### Defina a estrutura da documentação
 
-Before you start writing, it’s important to understand your target audience and the specific goals of your documentation. To help you define the documentation objectives, answer the following questions:
+Antes de começar a escrever, é importante entender o público-alvo e os objetivos específicos da sua documentação. Para ajudar a definir os objetivos da documentação, responda às perguntas a seguir:
 
-- What do you want users to achieve after reading your documentation?
-- What are the essential tasks or concepts they need to understand?
-- What additional information could enhance user understanding?
+- O que você deseja que os usuários consigam fazer depois de ler sua documentação?
+- Quais são as tarefas ou conceitos essenciais que eles precisam compreender?
+- Que informações adicionais poderiam melhorar a experiência de aprendizagem do usuário?
 
-### Identify the audience
+### Identifique o público
 
-To help you define the audience, answer the following questions:
+Para ajudar a definir o público, responda às perguntas a seguir:
 
-- Who is the target audience for that information?
-- What are they trying to do?
+- Quem é o público-alvo dessas informações?
+- O que essas pessoas estão tentando fazer?
 
-At VTEX, we have the following audience as our documentation readers:
+Na VTEX, temos os seguintes perfis de público como leitores da nossa documentação:
 
-| Audience type        | Description   |
+| Tipo de público        | Descrição   |
 | :------------------- | :------------ |
-| **Beginner**         | New to ecommerce operations and VTEX, with little to no prior experience. Their main challenge is adapting to the platform and the ecommerce context. |
-| **Operational**      | Handles daily ecommerce tasks, such as SKU registration and promotion management. Familiar with the ecommerce context but may encounter problems that they can’t solve by themselves. |
-| **Highly Technical** | Builds or integrates technical solutions with VTEX. They work on store implementations, app development with our solutions, and integrations with partner systems via VTEX APIs. This audience requires in-depth technical documentation that describes the characteristics of all our features and indicates how to address business needs. |
+| **Iniciante**         | Novo em operações de ecommerce e na VTEX, com pouca ou nenhuma experiência prévia. Seu principal desafio é se adaptar à plataforma e ao contexto do ecommerce. |
+| **Operacional**      | Lida com tarefas diárias de ecommerce, como cadastro de SKUs e gerenciamento de promoções. É familiarizado com o contexto de ecommerce, mas pode encontrar problemas que não consegue resolver sozinho. |
+| **Altamente técnico** | Cria ou integra soluções técnicas com a VTEX. Trabalha na implementação de lojas, no desenvolvimento de aplicativos com nossas soluções e na integração com sistemas parceiros por meio das APIs da VTEX. Esse público precisa de documentação técnica detalhada que descreva as características de todos os nossos recursos e indique como atender às necessidades de negócio. |
 
-### Checklist to define the documentation objectives
+### Checklist para definir os objetivos da documentação
 
-To help you define the documentation context, see the checklist below:
+Para ajudar você a definir o contexto da documentação, siga a checklist abaixo:
 
-#### Audience
+#### Público
 
-- [ ] Beginner
-- [ ] Operational
-- [ ] Highly Technical
+- [ ] Iniciante
+- [ ] Operacional
+- [ ] Altamente técnico
 
-#### Learning Category
+#### Categoria de aprendizagem
 
-- [ ] Awareness - The audience can describe or paraphrase a concept or feature.
-- [ ] Comprehension - The audience can understand a concept to support decision-making.
-- [ ] Applicable Skill - The audience can follow instructions to complete a task.
+- [ ] Consciência - O público consegue descrever ou parafrasear um conceito ou uma funcionalidade.
+- [ ] Compreensão - O público entende um conceito que auxilia a tomada de decisão.
+- [ ] Habilidade prática - O público segue instruções para concluir uma tarefa.
 
-#### Learning Objective
+#### Objetivo de aprendizagem
 
-1.  Choose one or two tasks or concepts that the content will discuss. What should someone be able to do or understand after reading this article?
-2.  Template example: *"Create a guide on **add the guide’s purpose**. The guide should emphasize clarity, structure, and user-friendliness. It's intended for **add the guide’s audience**."*
+1.  Escolha uma ou duas tarefas ou conceitos que o conteúdo irá abordar. O que alguém deve conseguir fazer ou entender após ler este artigo?
+2.  Exemplo de modelo: *"Crie um guia sobre {adicione o objetivo do guia}. O guia deve enfatizar clareza, estrutura e facilidade de uso e ter como público-alvo {adicione o público-alvo do guia}".*
 
-## Documentation guidelines principles
+## Princípios das diretrizes de documentação
 
-This guideline is the VTEX interpretation of stylistics as a discipline and explains particular language choices when creating functional and technical content about our platform.
+Esta diretriz representa a interpretação da VTEX sobre a disciplina de estilística e explica determinadas escolhas linguísticas ao criar conteúdo funcional e técnico sobre nossa plataforma.
 
-| Principle                   | Orientation  | Usage  |
+| Princípio                   | Orientação  | Uso  |
 | :-------------------------- | :----------- | :----- |
-| **Clarity and conciseness** | <ol><li>Use simple language and avoid jargon. Break down complex concepts into smaller, easier-to-understand steps.</li><li>Use clear and informative headings and subheadings to guide readers through the documentation.</li></ol>| <ol><li>Instead of *Utilize the API endpoint for product creation.* write, *Create a new product using the API.*</li><li>Use headings like *Getting started*, *Instructions*, and *Advanced features*.</li></ol>   |
-| **Consistency**             | Maintain consistency in terminology, style, and formatting throughout the documentation. | Use the same terminology for similar concepts referring to the same subject/reader consistently from the beginning to the end of the text (example: *customer* instead of *client*, and stick to *you* instead of alternating with *user* or *member*).  |
-| **Completeness**            | Make sure the documentation is both comprehensive and concise, covering all relevant topics with enough detail. | If you’re documenting a feature, include information on how to use it, common use cases, and potential troubleshooting steps. |
-| **Usability**               | Consider the user's perspective and write the documentation in a way that is easy to navigate and use. | Use clear headings, subheadings, and bullet points to organize the content. |
-| **Logical flow**            | Organize the content in a logical sequence that is easy to follow. | Start with an introduction, followed by detailed sections on specific topics. |
-| **Media and code examples** | Use media such as diagrams, screenshots, and code examples to enhance understanding. | Use screenshots, diagrams, and code snippets to illustrate examples and ensure accuracy. *Tip:* Diagrams, like platform or product architecture diagrams, can help illustrate complex processes or relationships. |
+| **Clareza e concisão** | <ol><li>Use uma linguagem simples e evite jargões. Divida conceitos complexos em etapas menores e mais fáceis de entender.</li><li>Use títulos e subtítulos claros e informativos para guiar o leitor pela documentação.</li></ol>| <ol><li>Em vez de *Utilize o endpoint da API para criação de produtos*, escreva *Crie um novo produto usando a API*.</li><li>Use títulos como *Primeiros passos*, *Instruções* e *Recursos avançados*.</li></ol>   |
+| **Consistência**             | Mantenha a consistência na terminologia, estilo e formatação em toda a documentação. | Use a mesma terminologia para conceitos semelhantes que se referem ao mesmo assunto/leitor de forma consistente do início ao fim do texto (exemplo: mantenha *cliente* em vez de *consumidor* e use *você* em vez de alternar com *usuário* ou *membro*).  |
+| **Integralidade**            | Garanta que a documentação seja ao mesmo tempo completa e concisa, cobrindo todos os tópicos relevantes com o nível adequado de detalhe. | Se estiver documentando uma funcionalidade, inclua informações sobre como usá-la, casos de uso comuns e possíveis etapas de solução de problemas. |
+| **Usabilidade**               | Considere a perspectiva do usuário e escreva a documentação de forma que seja fácil de navegar e usar. | Use títulos, subtítulos e listas para organizar o conteúdo. |
+| **Fluxo lógico**            | Organize o conteúdo em uma sequência lógica e fácil de seguir. | Comece com uma introdução, seguida de seções detalhadas sobre tópicos específicos. |
+| **Mídia e exemplos de código** | Use mídia como diagramas, capturas de tela e exemplos de código para ajudar na compreensão. | Use capturas de tela, diagramas e trechos de código para ilustrar exemplos e garantir precisão. *Dica:* diagramas, como os de arquitetura da plataforma ou do produto, podem ajudar a ilustrar processos ou relações complexas. |
 
-For more details about these principles, see the [Grammar](https://contentguide.vtex.com/docs/grammar) and [Formatting](https://contentguide.vtex.com/docs/formatting) sections.
+Para mais informações sobre esses princípios, consulte as seções [Grammar](https://contentguide.vtex.com/docs/grammar) e [Formatting](https://contentguide.vtex.com/docs/formatting).
