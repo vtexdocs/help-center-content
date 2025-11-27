@@ -77,7 +77,7 @@ Para definir el contexto de la documentación, utiliza la siguiente lista:
 #### Objetivo de aprendizaje
 
 1.  Elige una o dos tareas o conceptos que se abordarán en el contenido. ¿Qué debería poder hacer o comprender una persona después de leer este artículo?
-2.  Ejemplo de plantilla: *"Crea una guía sobre {agregar el propósito de la guía}. La guía debe destacar la claridad, la estructura y la facilidad de uso. Está dirigida a {agregar audiencia de la guía}."*
+2.  Ejemplo de plantilla: *"Crea una guía sobre `{agregar el propósito de la guía}`. La guía debe destacar la claridad, la estructura y la facilidad de uso. Está dirigida a `{agregar audiencia de la guía}`."*
 
 ## Principios de las directrices de documentación
 

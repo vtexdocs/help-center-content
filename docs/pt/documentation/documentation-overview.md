@@ -77,7 +77,7 @@ Para ajudar você a definir o contexto da documentação, siga a checklist abaix
 #### Objetivo de aprendizagem
 
 1.  Escolha uma ou duas tarefas ou conceitos que o conteúdo irá abordar. O que alguém deve conseguir fazer ou entender após ler este artigo?
-2.  Exemplo de modelo: *"Crie um guia sobre {adicione o objetivo do guia}. O guia deve enfatizar clareza, estrutura e facilidade de uso e ter como público-alvo {adicione o público-alvo do guia}".*
+2.  Exemplo de modelo: *"Crie um guia sobre `{adicione o objetivo do guia}`. O guia deve enfatizar clareza, estrutura e facilidade de uso e ter como público-alvo `{adicione o público-alvo do guia}`".*
 
 ## Princípios das diretrizes de documentação
 
