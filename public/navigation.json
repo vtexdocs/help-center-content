@@ -39692,7 +39692,7 @@
               "name": {
                 "en": "SKU quantity miscount in checkout when More for Less promotion is applied in B2B Quotes",
                 "es": "Error en el recuento de la cantidad de SKU en la caja cuando se aplica la promoción Más por Menos en Cotizaciones B2B.",
-                "pt": "Erro na contagem da quantidade de SKU no checkout quando a promoção Mais por Menos é aplicada em Cotações B2B"
+                "pt": "Erro na contagem da quantidade de SKU no checkout quando a promoção Mais por menos é aplicada em cotações B2B"
               },
               "slug": {
                 "en": "sku-quantity-miscount-in-checkout-when-more-for-less-promotion-is-applied-in-b2b-quotes",
@@ -40681,21 +40681,6 @@
             },
             {
               "name": {
-                "en": "Categories missing seller not provisioned correctly",
-                "es": "Categorías que faltan vendedor no provisionado correctamente",
-                "pt": "Categorias ausentes do vendedor não provisionadas corretamente"
-              },
-              "slug": {
-                "en": "categories-missing-seller-not-provisioned-correctly",
-                "es": "categorias-que-faltan-vendedor-no-provisionado-correctamente",
-                "pt": "categorias-ausentes-do-vendedor-nao-provisionadas-corretamente"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Categories that only have products setup by Similar Category do not appear on sitemap",
                 "es": "Las categorías que sólo tienen productos configurados por Categoría similar no aparecen en el mapa del sitio.",
                 "pt": "As categorias que têm apenas produtos configurados por Categoria semelhante não aparecem no mapa do site"
@@ -40809,21 +40794,6 @@
                 "en": "changing-the-order-of-a-sku-specification-on-the-admin-could-make-the-page-not-work-correctly",
                 "es": "cambiar-el-orden-de-una-especificacion-de-sku-en-el-admin-podria-hacer-que-la-pagina-no-funcione-correctamente",
                 "pt": "alterar-a-ordem-de-uma-especificacao-de-sku-no-admin-pode-fazer-a-pagina-nao-funcionar-corretamente"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "CMS Legacy Collections Timeout",
-                "es": "CMS Legacy Collections Tiempo de espera",
-                "pt": "Tempo limite das coleções herdadas do CMS"
-              },
-              "slug": {
-                "en": "cms-legacy-collections-timeout",
-                "es": "cms-legacy-collections-tiempo-de-espera",
-                "pt": "tempo-limite-das-colecoes-herdadas-do-cms"
               },
               "origin": "",
               "type": "markdown",
@@ -42511,6 +42481,21 @@
             },
             {
               "name": {
+                "en": "Product returning as unavailable even with stock in a whitelabel seller",
+                "es": "Producto devuelto como no disponible incluso con stock en un vendedor de marca blanca",
+                "pt": "Produto retornando como indisponível mesmo com estoque em um vendedor whitelabel"
+              },
+              "slug": {
+                "en": "product-returning-as-unavailable-even-with-stock-in-a-whitelabel-seller",
+                "es": "producto-devuelto-como-no-disponible-incluso-con-stock-en-un-vendedor-de-marca-blanca",
+                "pt": "produto-retornando-como-indisponivel-mesmo-com-estoque-em-um-vendedor-whitelabel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Product Specification Export Index Out of Range",
                 "es": "Especificación del producto Índice de exportación fuera de la gama",
                 "pt": "Especificação do produto Índice de exportação fora da faixa"
@@ -42571,14 +42556,14 @@
             },
             {
               "name": {
-                "en": "Product unavailable even with franchised stock",
                 "es": "Producto no disponible incluso con stock franquiciado",
-                "pt": "Produto indisponível mesmo com estoque na franquia"
+                "pt": "Produto indisponível mesmo com estoque franqueado",
+                "en": "Producto no disponible incluso con stock franquiciado"
               },
               "slug": {
-                "en": "product-unavailable-even-with-franchised-stock",
                 "es": "producto-no-disponible-incluso-con-stock-franquiciado",
-                "pt": "produto-indisponivel-mesmo-com-estoque-na-franquia"
+                "pt": "produto-indisponivel-mesmo-com-estoque-franqueado",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -42697,8 +42682,8 @@
               },
               "slug": {
                 "en": "received-skus-association-approvals-dont-add-the-sellers-available-sales-channel-on-the-product-when-the-sku-is-sold-by-more-than-1-seller",
-                "es": "skus-recibidos-las-aprobaciones-de-asociacion-no-anaden-el-canal-de-ventas-disponible-del-vendedor-en-el-producto-cuando-el-sku-es-vendido-por-mas",
-                "pt": "skus-recebidos-as-aprovacoes-de-associacao-nao-adicionam-o-canal-de-vendas-disponivel-do-vendedor-no-produto-quando-o-sku-e-vendido-por-mais-de-um"
+                "es": "skus-recibidos-las-aprobaciones-de-asociacion-no-anaden-el-canal-de-ventas-disponible-del-vendedor-en-el-producto-cuando-el-sku-es-vendido-por-mas-de-1-vendedor",
+                "pt": "skus-recebidos-as-aprovacoes-de-associacao-nao-adicionam-o-canal-de-vendas-disponivel-do-vendedor-no-produto-quando-o-sku-e-vendido-por-mais-de-um-vendedor"
               },
               "origin": "",
               "type": "markdown",
@@ -43366,21 +43351,6 @@
             },
             {
               "name": {
-                "es": "Timeout de la especificación Categories.aspx",
-                "pt": "Categorias.aspx Especificação Timeout",
-                "en": "Timeout de la especificación Categories.aspx"
-              },
-              "slug": {
-                "es": "timeout-de-la-especificacion-categoriesaspx",
-                "pt": "categoriasaspx-especificacao-timeout",
-                "en": ""
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Timeout when editing specifications",
                 "es": "Tiempo de espera al editar especificaciones",
                 "pt": "Tempo limite ao editar especificações"
@@ -43953,21 +43923,6 @@
             },
             {
               "name": {
-                "en": "'Back to site' button takes to gatewayCallback//Success instead of placeOrder page",
-                "es": "El botón 'Volver al sitio' lleva a gatewayCallback//Success en lugar de a la página placeOrder",
-                "pt": "O botão 'Back to site' leva ao gatewayCallback//Success ao invés de placeOrder page"
-              },
-              "slug": {
-                "en": "back-to-site-button-takes-to-gatewaycallbacksuccess-instead-of-placeorder-page",
-                "es": "el-boton-volver-al-sitio-lleva-a-gatewaycallbacksuccess-en-lugar-de-a-la-pagina-placeorder",
-                "pt": "o-botao-back-to-site-leva-ao-gatewaycallbacksuccess-ao-inves-de-placeorder-page"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "'Go to payment' button doesn't work in delivery split when switching between Delivery and Pick up options",
                 "es": "El botón 'Ir al pago' no funciona en la división de entrega cuando se cambia entre las opciones de Entrega y Recogida.",
                 "pt": "O botão 'Ir para pagamento' não funciona na divisão da entrega ao alternar entre as opções de Entrega e Coleta"
@@ -44006,6 +43961,21 @@
                 "en": "something-went-wrong-when-adding-an-incomplete-address-and-tried-to-edit-it",
                 "es": "algo-salio-mal-al-anadir-una-direccion-incompleta-e-intentar-editarla",
                 "pt": "algo-deu-errado-ao-adicionar-um-endereco-incompleto-e-tentar-editalo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "\"Back to site\" button takes to gatewayCallback/{orderGroup}/Success instead of placeOrder page",
+                "es": "El botón \"Volver al sitio\" lleva a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder",
+                "pt": "O botão \"Voltar ao site\" leva ao gatewayCallback/{orderGroup}/Success em vez da página placeOrder"
+              },
+              "slug": {
+                "en": "back-to-site-button-takes-to-gatewaycallbackordergroupsuccess-instead-of-placeorder-page",
+                "es": "el-boton-volver-al-sitio-lleva-a-gatewaycallbackordergroupsuccess-en-lugar-de-a-la-pagina-placeorder",
+                "pt": "o-botao-voltar-ao-site-leva-ao-gatewaycallbackordergroupsuccess-em-vez-da-pagina-placeorder"
               },
               "origin": "",
               "type": "markdown",
@@ -45918,6 +45888,21 @@
             },
             {
               "name": {
+                "pt": "O botão 'Back to site' leva ao gatewayCallback//Success ao invés de placeOrder page",
+                "en": "O botão 'Back to site' leva ao gatewayCallback//Success ao invés de placeOrder page",
+                "es": "O botão 'Back to site' leva ao gatewayCallback//Success ao invés de placeOrder page"
+              },
+              "slug": {
+                "pt": "o-botao-back-to-site-leva-ao-gatewaycallbacksuccess-ao-inves-de-placeorder-page",
+                "en": "",
+                "es": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order can't be created due to invalid credit card",
                 "es": "No se puede crear el pedido debido a que la tarjeta de crédito no es válida",
                 "pt": "O pedido não pode ser criado devido a um cartão de crédito inválido"
@@ -47585,37 +47570,6 @@
         },
         {
           "name": {
-            "en": "Cloud Services",
-            "es": "Cloud Services",
-            "pt": "Cloud Services"
-          },
-          "slug": {
-            "en": "cloud-services",
-            "es": "cloud-services",
-            "pt": "cloud-services"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "AB Tester app shows miscalculated information for sessions and conversion",
-                "es": "La aplicación AB Tester muestra información errónea sobre sesiones y conversión",
-                "pt": "O aplicativo AB Tester mostra informações mal calculadas para sessões e conversão"
-              },
-              "slug": {
-                "en": "ab-tester-app-shows-miscalculated-information-for-sessions-and-conversion",
-                "es": "la-aplicacion-ab-tester-muestra-informacion-erronea-sobre-sesiones-y-conversion",
-                "pt": "o-aplicativo-ab-tester-mostra-informacoes-mal-calculadas-para-sessoes-e-conversao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "CMS",
             "es": "CMS",
             "pt": "CMS"
@@ -48756,21 +48710,6 @@
             },
             {
               "name": {
-                "en": "Amazon Amazon order does not integrate correctly",
-                "es": "Amazon El pedido de Amazon no se integra correctamente",
-                "pt": "Amazon O pedido da Amazon não se integra corretamente"
-              },
-              "slug": {
-                "en": "amazon-amazon-order-does-not-integrate-correctly",
-                "es": "amazon-el-pedido-de-amazon-no-se-integra-correctamente",
-                "pt": "amazon-o-pedido-da-amazon-nao-se-integra-corretamente"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Amazon Carrier selection",
                 "es": "Amazon Selección de transportistas",
                 "pt": "Seleção de transportadora Amazon"
@@ -48787,12 +48726,12 @@
             {
               "name": {
                 "en": "Amazon category implementation",
-                "es": "Implementación de la categoría de Amazon",
+                "es": "Implantación de categorías en Amazon",
                 "pt": "Implementação da categoria Amazon"
               },
               "slug": {
                 "en": "amazon-category-implementation",
-                "es": "implementacion-de-la-categoria-de-amazon",
+                "es": "implantacion-de-categorias-en-amazon",
                 "pt": "implementacao-da-categoria-amazon"
               },
               "origin": "",
@@ -48818,12 +48757,12 @@
               "name": {
                 "en": "Amazon global category not working",
                 "es": "La categoría global de Amazon no funciona",
-                "pt": "Categoria global da Amazon não funciona"
+                "pt": "A categoria global da Amazon não está funcionando"
               },
               "slug": {
                 "en": "amazon-global-category-not-working",
                 "es": "la-categoria-global-de-amazon-no-funciona",
-                "pt": "categoria-global-da-amazon-nao-funciona"
+                "pt": "a-categoria-global-da-amazon-nao-esta-funcionando"
               },
               "origin": "",
               "type": "markdown",
@@ -48899,6 +48838,21 @@
                 "en": "amazon-listing-returns-code-13013-preventing-sku-creation",
                 "es": "amazon-listado-codigo-de-devolucion-13013-que-impide-la-creacion-de-sku",
                 "pt": "amazon-listagem-codigo-de-devolucao-13013-impedindo-a-criacao-de-sku"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon order does not integrate",
+                "es": "El pedido de Amazon no se integra",
+                "pt": "O pedido da Amazon não se integra"
+              },
+              "slug": {
+                "en": "amazon-order-does-not-integrate",
+                "es": "el-pedido-de-amazon-no-se-integra",
+                "pt": "o-pedido-da-amazon-nao-se-integra"
               },
               "origin": "",
               "type": "markdown",
@@ -49133,12 +49087,12 @@
               "name": {
                 "en": "Erro \"Category XXX not found in browse node mapping for SKU's department specification, choose a more specific global category\" persistente",
                 "es": "Erro \"Categoría XXX no encontrada en el mapeo del nodo de navegación para la especificación del departamento de SKU, elija una categoría global más específica\" persistente",
-                "pt": "Erro 'Categoria XXX não encontrada no mapeamento de nós de navegação para a especificação do departamento da SKU, escolha uma categoria global mais específica' persistente"
+                "pt": "Erro \"A categoria XXX não foi encontrada no mapeamento do nó de navegação para a especificação de departamento da SKU, escolha uma categoria global mais específica\" persistente"
               },
               "slug": {
                 "en": "erro-category-xxx-not-found-in-browse-node-mapping-for-skus-department-specification-choose-a-more-specific-global-category-persistente",
                 "es": "erro-categoria-xxx-no-encontrada-en-el-mapeo-del-nodo-de-navegacion-para-la-especificacion-del-departamento-de-sku-elija-una-categoria-global-mas-especifica-persistente",
-                "pt": "erro-categoria-xxx-nao-encontrada-no-mapeamento-de-nos-de-navegacao-para-a-especificacao-do-departamento-da-sku-escolha-uma-categoria-global-mais-e"
+                "pt": "erro-a-categoria-xxx-nao-foi-encontrada-no-mapeamento-do-no-de-navegacao-para-a-especificacao-de-departamento-da-sku-escolha-uma-categoria-global-mais-especifica-persistente"
               },
               "origin": "",
               "type": "markdown",
@@ -49523,12 +49477,12 @@
               "name": {
                 "en": "MELI OMS Label Printing",
                 "es": "MELI OMS Label Printing",
-                "pt": "Impressão do rótulo MELI OMS"
+                "pt": "Impressão de etiquetas MELI OMS"
               },
               "slug": {
                 "en": "meli-oms-label-printing",
                 "es": "meli-oms-label-printing",
-                "pt": "impressao-do-rotulo-meli-oms"
+                "pt": "impressao-de-etiquetas-meli-oms"
               },
               "origin": "",
               "type": "markdown",
@@ -51145,21 +51099,6 @@
           "children": [
             {
               "name": {
-                "en": "Accented synonyms may not return products in secondary languages",
-                "es": "Los sinónimos acentuados pueden no devolver productos en lenguas secundarias",
-                "pt": "Sinônimos acentuados podem não retornar produtos em idiomas secundários"
-              },
-              "slug": {
-                "en": "accented-synonyms-may-not-return-products-in-secondary-languages",
-                "es": "los-sinonimos-acentuados-pueden-no-devolver-productos-en-lenguas-secundarias",
-                "pt": "sinonimos-acentuados-podem-nao-retornar-produtos-em-idiomas-secundarios"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Accounts with '-' on the name don't have metrics on search report",
                 "es": "Las cuentas con '-' en el nombre no tienen métricas en el informe de búsqueda",
                 "pt": "Contas com '-' no nome não têm métricas no relatório de busca"
@@ -51213,21 +51152,6 @@
                 "en": "autocomplete-not-answering-to-cold-starts",
                 "es": "autocompletar-no-responde-al-arranque-en-frio",
                 "pt": "o-preenchimento-automatico-nao-responde-a-partidas-a-frio"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Autocomplete Suggestion API removes special characters from the product name",
-                "es": "La API de sugerencia de autocompletar elimina los caracteres especiales del nombre del producto",
-                "pt": "A API de sugestão de preenchimento automático remove caracteres especiais do nome do produto"
-              },
-              "slug": {
-                "en": "autocomplete-suggestion-api-removes-special-characters-from-the-product-name",
-                "es": "la-api-de-sugerencia-de-autocompletar-elimina-los-caracteres-especiales-del-nombre-del-producto",
-                "pt": "a-api-de-sugestao-de-preenchimento-automatico-remove-caracteres-especiais-do-nome-do-produto"
               },
               "origin": "",
               "type": "markdown",
@@ -51453,36 +51377,6 @@
                 "en": "deleted-banner-may-still-appear-on-plp",
                 "es": "el-banner-eliminado-puede-seguir-apareciendo-en-plp",
                 "pt": "o-banner-excluido-ainda-pode-aparecer-no-plp"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Deleted banners may remain retrievable in the Banners route of IS API",
-                "es": "Los banners eliminados pueden seguir recuperándose en la ruta Banners de la API IS",
-                "pt": "Os banners excluídos podem permanecer recuperáveis na rota Banners da API IS"
-              },
-              "slug": {
-                "en": "deleted-banners-may-remain-retrievable-in-the-banners-route-of-is-api",
-                "es": "los-banners-eliminados-pueden-seguir-recuperandose-en-la-ruta-banners-de-la-api-is",
-                "pt": "os-banners-excluidos-podem-permanecer-recuperaveis-na-rota-banners-da-api-is"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Deleted banners may still appear on PLP",
-                "es": "Los banners eliminados pueden seguir apareciendo en PLP",
-                "pt": "Os banners excluídos ainda podem aparecer no PLP"
-              },
-              "slug": {
-                "en": "deleted-banners-may-still-appear-on-plp",
-                "es": "los-banners-eliminados-pueden-seguir-apareciendo-en-plp",
-                "pt": "os-banners-excluidos-ainda-podem-aparecer-no-plp"
               },
               "origin": "",
               "type": "markdown",
@@ -52255,21 +52149,6 @@
             },
             {
               "name": {
-                "en": "Regionalization or trade policies aren't considered while filtering or sorting items by price",
-                "es": "La regionalización o las políticas comerciales no se tienen en cuenta al filtrar o clasificar los artículos por precio",
-                "pt": "A regionalização ou as políticas comerciais não são consideradas ao filtrar ou classificar itens por preço"
-              },
-              "slug": {
-                "en": "regionalization-or-trade-policies-arent-considered-while-filtering-or",
-                "es": "la-regionalizacion-o-las-politicas-comerciales-no-se-tienen-en-cuenta-al",
-                "pt": "a-regionalizacao-ou-as-politicas-comerciais-nao-sao-consideradas-ao-filtrar"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Regionalization or trade policies aren't considered while filtering or sorting items by price or discount",
                 "es": "La regionalización o las políticas comerciales no se tienen en cuenta al filtrar u ordenar los artículos por precio o descuento.",
                 "pt": "A regionalização ou as políticas comerciais não são consideradas ao filtrar ou classificar itens por preço ou desconto"
@@ -52510,29 +52389,14 @@
             },
             {
               "name": {
-                "en": "Searching for products using synonyms may not return all the products from original term",
-                "es": "Es posible que la búsqueda de productos mediante sinónimos no devuelva todos los productos del término original.",
-                "pt": "A pesquisa de produtos usando sinônimos pode não retornar todos os produtos do termo original"
-              },
-              "slug": {
-                "en": "searching-for-products-using-synonyms-may-not-return-all-the-products-from-original-term",
-                "es": "es-posible-que-la-busqueda-de-productos-mediante-sinonimos-no-devuelva-todos-los-productos-del-termino-original",
-                "pt": "a-pesquisa-de-produtos-usando-sinonimos-pode-nao-retornar-todos-os-produtos-do-termo-original"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "SKU Specification filters aren't loaded when the SKU is only available in a Whitelabel seller",
                 "es": "Los filtros de especificación de SKU no se cargan cuando la SKU sólo está disponible en un vendedor de etiqueta blanca",
-                "pt": "Os filtros de especificação SKU não são carregados quando o SKU só está disponível em um vendedor de Whitelabel"
+                "pt": "Os filtros de especificação de SKU não são carregados quando a SKU está disponível apenas em um vendedor Whitelabel"
               },
               "slug": {
                 "en": "sku-specification-filters-arent-loaded-when-the-sku-is-only-available-in-a-whitelabel-seller",
                 "es": "los-filtros-de-especificacion-de-sku-no-se-cargan-cuando-la-sku-solo-esta-disponible-en-un-vendedor-de-etiqueta-blanca",
-                "pt": "os-filtros-de-especificacao-sku-nao-sao-carregados-quando-o-sku-so-esta-disponivel-em-um-vendedor-de-whitelabel"
+                "pt": "os-filtros-de-especificacao-de-sku-nao-sao-carregados-quando-a-sku-esta-disponivel-apenas-em-um-vendedor-whitelabel"
               },
               "origin": "",
               "type": "markdown",
@@ -52698,6 +52562,21 @@
                 "en": "translation-issues-when-using-a-subaccount-to-implement-multilanguage-stores",
                 "es": "problemas-de-traduccion-al-utilizar-una-subcuenta-para-implantar-tiendas-multilingues",
                 "pt": "problemas-de-traducao-ao-usar-uma-subconta-para-implementar-lojas-em-varios-idiomas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Unavailable products may appear in the middle of PLP in Delivery Promise context",
+                "es": "Los productos no disponibles pueden aparecer en medio del PLP en el contexto de la Promesa de Entrega",
+                "pt": "Produtos indisponíveis podem aparecer no meio do PLP no contexto da promessa de entrega"
+              },
+              "slug": {
+                "en": "unavailable-products-may-appear-in-the-middle-of-plp-in-delivery-promise-context",
+                "es": "los-productos-no-disponibles-pueden-aparecer-en-medio-del-plp-en-el-contexto-de-la-promesa-de-entrega",
+                "pt": "produtos-indisponiveis-podem-aparecer-no-meio-do-plp-no-contexto-da-promessa-de-entrega"
               },
               "origin": "",
               "type": "markdown",
@@ -55454,6 +55333,21 @@
             },
             {
               "name": {
+                "en": "Categories missing seller not provisioned correctly",
+                "es": "Categorías que faltan vendedor no provisionado correctamente",
+                "pt": "Categorias ausentes do vendedor não provisionadas corretamente"
+              },
+              "slug": {
+                "en": "categories-missing-seller-not-provisioned-correctly",
+                "es": "categorias-que-faltan-vendedor-no-provisionado-correctamente",
+                "pt": "categorias-ausentes-do-vendedor-nao-provisionadas-corretamente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Create seller with Additional Information is returning an error",
                 "es": "Crear vendedor con información adicional devuelve un error",
                 "pt": "Criar vendedor com informações adicionais está retornando um erro"
@@ -57370,21 +57264,6 @@
                 "en": "orders-stuck-in-cancel-status-in-fulfillment-but-with-marketplace-canceled",
                 "es": "pedidos-atascados-en-estado-cancelado-en-cumplimiento-pero-con-mercado-cancelado",
                 "pt": "pedidos-presos-no-status-de-cancelamento-no-atendimento-mas-com-o-marketplace-cancelado"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Orders stuck in completed with on-order-completed status in fulfillment and Approved Payment status in Marketplace",
-                "es": "Pedidos atascados en completado con el estado en orden completado en cumplimiento y el estado de Pago Aprobado en el Mercado.",
-                "pt": "Pedidos presos em concluídos com status de pedido concluído no atendimento e status de pagamento aprovado no Marketplace"
-              },
-              "slug": {
-                "en": "orders-stuck-in-completed-with-onordercompleted-status-in-fulfillment-and-approved-payment-status-in-marketplace",
-                "es": "pedidos-atascados-en-completado-con-el-estado-en-orden-completado-en-cumplimiento-y-el-estado-de-pago-aprobado-en-el-mercado",
-                "pt": "pedidos-presos-em-concluidos-com-status-de-pedido-concluido-no-atendimento-e-status-de-pagamento-aprovado-no-marketplace"
               },
               "origin": "",
               "type": "markdown",
@@ -59586,13 +59465,13 @@
             {
               "name": {
                 "en": "Inconsistency on the deadlines of Customer Credit invoices",
-                "es": "Incongruencia en los plazos de las facturas de crédito de los clientes",
-                "pt": "Inconsistência sobre os prazos das faturas de crédito ao cliente"
+                "es": "Incoherencia en los plazos de las facturas de crédito de los clientes",
+                "pt": "Inconsistência nos prazos das faturas de crédito do cliente"
               },
               "slug": {
                 "en": "inconsistency-on-the-deadlines-of-customer-credit-invoices",
-                "es": "incongruencia-en-los-plazos-de-las-facturas-de-credito-de-los-clientes",
-                "pt": "inconsistencia-sobre-os-prazos-das-faturas-de-credito-ao-cliente"
+                "es": "incoherencia-en-los-plazos-de-las-facturas-de-credito-de-los-clientes",
+                "pt": "inconsistencia-nos-prazos-das-faturas-de-credito-do-cliente"
               },
               "origin": "",
               "type": "markdown",
@@ -61070,21 +60949,6 @@
             },
             {
               "name": {
-                "en": "Transaction stuck in a status prior to the state that it should be",
-                "es": "Transacción atascada en un estado anterior al que debería estar",
-                "pt": "Transação presa em um status anterior ao estado em que deveria estar"
-              },
-              "slug": {
-                "en": "transaction-stuck-in-a-status-prior-to-the-state-that-it-should-be",
-                "es": "transaccion-atascada-en-un-estado-anterior-al-que-deberia-estar",
-                "pt": "transacao-presa-em-um-status-anterior-ao-estado-em-que-deveria-estar"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Transaction stuck in Approved while payment remains Settling when using partial settlements",
                 "es": "Transacción atascada en Aprobado mientras el pago permanece Liquidando cuando se utilizan liquidaciones parciales.",
                 "pt": "Transação presa em Aprovado enquanto o pagamento permanece Liquidado ao usar liquidações parciais"
@@ -61243,21 +61107,6 @@
                 "en": "transactions-made-with-payu-do-not-change-from-cancelling-status",
                 "es": "las-transacciones-realizadas-con-payu-no-cambian-de-estado-de-cancelacion",
                 "pt": "as-transacoes-feitas-com-payu-nao-mudam-do-status-de-cancelamento"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Transactions remain in pending authorization despite connector approval",
-                "es": "Las transacciones permanecen pendientes de autorización a pesar de la aprobación del conector",
-                "pt": "As transações permanecem em autorização pendente apesar da aprovação do conector"
-              },
-              "slug": {
-                "en": "transactions-remain-in-pending-authorization-despite-connector-approval",
-                "es": "las-transacciones-permanecen-pendientes-de-autorizacion-a-pesar-de-la-aprobacion-del-conector",
-                "pt": "as-transacoes-permanecem-em-autorizacao-pendente-apesar-da-aprovacao-do-conector"
               },
               "origin": "",
               "type": "markdown",
@@ -62318,21 +62167,6 @@
             },
             {
               "name": {
-                "en": "Products showing flag and discount after promotion ended",
-                "es": "Productos que muestran la bandera y el descuento tras finalizar la promoción",
-                "pt": "Produtos que mostram a bandeira e o desconto após o término da promoção"
-              },
-              "slug": {
-                "en": "products-showing-flag-and-discount-after-promotion-ended",
-                "es": "productos-que-muestran-la-bandera-y-el-descuento-tras-finalizar-la-promocion",
-                "pt": "produtos-que-mostram-a-bandeira-e-o-desconto-apos-o-termino-da-promocao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Redirection with parameters in CMS Builder does not work",
                 "es": "La redirección con parámetros en el CMS Builder no funciona",
                 "pt": "O redirecionamento com parâmetros no CMS Builder não funciona"
@@ -63252,12 +63086,12 @@
               "name": {
                 "en": "Campaign Audience doesn't save coupon information",
                 "es": "Campaign Audience no guarda la información de los cupones",
-                "pt": "O público da campanha não guarda informações sobre cupons"
+                "pt": "O Campaign Audience não salva as informações do cupom"
               },
               "slug": {
                 "en": "campaign-audience-doesnt-save-coupon-information",
                 "es": "campaign-audience-no-guarda-la-informacion-de-los-cupones",
-                "pt": "o-publico-da-campanha-nao-guarda-informacoes-sobre-cupons"
+                "pt": "o-campaign-audience-nao-salva-as-informacoes-do-cupom"
               },
               "origin": "",
               "type": "markdown",
@@ -63640,21 +63474,6 @@
             },
             {
               "name": {
-                "es": "La promoción de envío gratuito no se aplica debido a que el importe mínimo o máximo se basa en el precio unitario en lugar del valor total del artículo.",
-                "en": "La promoción de envío gratuito no se aplica debido a que el importe mínimo o máximo se basa en el precio unitario en lugar del valor total del artículo.",
-                "pt": "La promoción de envío gratuito no se aplica debido a que el importe mínimo o máximo se basa en el precio unitario en lugar del valor total del artículo."
-              },
-              "slug": {
-                "es": "la-promocion-de-envio-gratuito-no-se-aplica-debido-a-que-el-importe-minimo-o-maximo-se-basa-en-el-precio-unitario-en-lugar-del-valor-total-del-arti",
-                "en": "",
-                "pt": ""
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Max Shipping Discount not updating priceTags",
                 "es": "Max Shipping Discount no actualiza priceTags",
                 "pt": "O Max Shipping Discount não está atualizando as priceTags"
@@ -63903,6 +63722,21 @@
                 "en": "productsku-upload-form-allows-utf16-format-uploaddownload",
                 "es": "el-formulario-de-carga-de-productossku-permite-cargardescargar-el-formato-utf16",
                 "pt": "o-formulario-de-upload-do-produtosku-permite-uploaddownload-do-formato-utf16"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Products showing flag and discount after promotion ended",
+                "es": "Productos que muestran la bandera y el descuento tras finalizar la promoción",
+                "pt": "Produtos que mostram a bandeira e o desconto após o término da promoção"
+              },
+              "slug": {
+                "en": "products-showing-flag-and-discount-after-promotion-ended",
+                "es": "productos-que-muestran-la-bandera-y-el-descuento-tras-finalizar-la-promocion",
+                "pt": "produtos-que-mostram-a-bandeira-e-o-desconto-apos-o-termino-da-promocao"
               },
               "origin": "",
               "type": "markdown",
@@ -64993,21 +64827,6 @@
             },
             {
               "name": {
-                "en": "Sitemap returns \"Error fetching sitemap data\"",
-                "es": "El mapa del sitio devuelve \"Error al obtener los datos del mapa del sitio\".",
-                "pt": "O Sitemap retorna \"Error fetching sitemap data\" (Erro ao buscar dados do mapa do site)"
-              },
-              "slug": {
-                "en": "sitemap-returns-error-fetching-sitemap-data",
-                "es": "el-mapa-del-sitio-devuelve-error-al-obtener-los-datos-del-mapa-del-sitio",
-                "pt": "o-sitemap-retorna-error-fetching-sitemap-data-erro-ao-buscar-dados-do-mapa-do-site"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Some unexpected behavior in MasterData",
                 "es": "Comportamiento inesperado en MasterData",
                 "pt": "Alguns comportamentos inesperados no MasterData"
@@ -65112,6 +64931,21 @@
           "origin": "",
           "type": "category",
           "children": [
+            {
+              "name": {
+                "en": "AB Tester app shows miscalculated information for sessions and conversion",
+                "es": "La aplicación AB Tester muestra información errónea sobre sesiones y conversión",
+                "pt": "O aplicativo AB Tester mostra informações mal calculadas para sessões e conversão"
+              },
+              "slug": {
+                "en": "ab-tester-app-shows-miscalculated-information-for-sessions-and-conversion",
+                "es": "la-aplicacion-ab-tester-muestra-informacion-erronea-sobre-sesiones-y-conversion",
+                "pt": "o-aplicativo-ab-tester-mostra-informacoes-mal-calculadas-para-sessoes-e-conversao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
             {
               "name": {
                 "en": "addToCart function doesn't work correctly with attachments and assembly options' component's attachment",
@@ -66352,6 +66186,21 @@
                 "en": "sitemap-not-generating-due-a-timeout-toomanyrequests",
                 "es": "el-sitemap-no-se-genera-debido-a-un-tiempo-de-espera-toomanyrequests",
                 "pt": "o-sitemap-nao-esta-sendo-gerado-devido-a-um-tempo-limite-toomanyrequests"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sitemap returns \"Error fetching sitemap data\"",
+                "es": "El mapa del sitio devuelve \"Error al obtener los datos del mapa del sitio\".",
+                "pt": "O Sitemap retorna \"Error fetching sitemap data\" (Erro ao buscar dados do mapa do site)"
+              },
+              "slug": {
+                "en": "sitemap-returns-error-fetching-sitemap-data",
+                "es": "el-mapa-del-sitio-devuelve-error-al-obtener-los-datos-del-mapa-del-sitio",
+                "pt": "o-sitemap-retorna-error-fetching-sitemap-data-erro-ao-buscar-dados-do-mapa-do-site"
               },
               "origin": "",
               "type": "markdown",
