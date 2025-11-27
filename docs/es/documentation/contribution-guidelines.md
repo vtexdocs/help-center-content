@@ -1,97 +1,97 @@
 ---
-title: 'Contribution Guidelines'
-id: edu0003
+title: 'Directrices para contribuidores'
+id: edu0003-es
 status: PUBLISHED
-createdAt: 2024-12-03T19:24:22.388Z
-updatedAt: 2025-02-06T19:00:00.388Z
-publishedAt: 2024-12-03T19:24:22.388Z
-firstPublishedAt: 2024-12-03T19:24:22.388Z
+createdAt: 2025-11-25T19:24:22.388Z
+updatedAt: 2025-11-25T11:55:00.388Z
+publishedAt: 2025-11-25T19:24:22.388Z
+firstPublishedAt: 2025-11-25T19:24:22.388Z
 contentType: trackArticle
 productTeam: Education
-slugEN: contribution-guidelines
-locale: en
+slugES: directrices-para-contribuidores
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: contribution-guidelines
+trackSlugES: directrices-para-contribuidores
 ---
 
-Your help makes a huge difference in improving the VTEX documentation experience. There are several ways to contribute, depending on the documentation portal you're interested in and your preferred method. This guide outlines the ways you can help improve VTEX documentation:
+Tu participación es clave para mejorar la experiencia de la documentación de VTEX. Existen distintas maneras de colaborar, dependiendo del portal de documentación que te interese y del método que prefieras. Esta guía describe las formas en que puedes contribuir para optimizar la documentación de VTEX:
 
-- [Feedback button](#feedback-button)
-- [Was this helpful?](#was-this-helpful)
-- [Suggest edits (GitHub)](#suggest-edits-github)
+- [Botón de feedback](#botón-de-feedback)
+- [¿Te ha parecido útil?](#te-ha-parecido-útil)
+- [Sugerir cambios (GitHub)](#sugerir-cambios-github)
 
-## Feedback button
+## Botón de feedback
 
-**Available at:** [Help Center](https://help.vtex.com/) and [Developer Portal](https://developers.vtex.com/)
+**Disponible en:** [Help Center](https://help.vtex.com/es) y [Developer Portal](https://developers.vtex.com/)
 
-You can submit your feedback about any page in the documentation portals by clicking `Feedback` at the top right corner of each portal.
+Puedes enviar tus comentarios sobre cualquier página de los portales de documentación haciendo clic en  `Feedback`  en la esquina superior derecha de cada portal.
 
 ![doc-feedback-form](https://vtexhelp.vtexassets.com/assets/docs/src/doc-feedback-form___21b3eb638614c18bf9b51f91e834a380.gif)
 
-By clicking `Feedback`, a new browser window will open with a [form](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform) for you to submit your feedback. Here’s the information you need to provide in the feedback form:
+Al hacer clic en `Feedback` se abrirá una nueva ventana del navegador con un [formulario](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform) para que nos envíes tus comentarios. Consulta a continuación la información que debes proporcionar en el formulario:
 
-- **Platform:** Select one of the following portals you would like to give feedback on: [Help Center](https://help.vtex.com/), [Developer Portal](https://developers.vtex.com), or [VTEX Learning Center](https://learn.vtex.com/).
-- **URL (optional):** If you want to give feedback for a specific page in one of the portals mentioned before, add the exact page URL, for example: `https://developers.vtex.com/docs/guides/getting-started-with-storefront-solutions`.  
-- **Feedback type:** Choose the type of feedback you want to give:
+- **Platform:** selecciona uno de los siguientes portales sobre el que deseas enviar tu feedback: [Help Center](https://help.vtex.com/), [Developer Portal](https://developers.vtex.com), o [VTEX Learning Center](https://learn.vtex.com/).
+- **URL (opcional):** si deseas enviar comentarios sobre una página específica de uno de los portales mencionados anteriormente, agrega la URL exacta de la página, por ejemplo: `https://developers.vtex.com/docs/guides/getting-started-with-storefront-solutions`.
+- **Feedback type:** Elige el tipo de comentario que deseas enviar:
 
-| **Feedback type** | **Description** |
+| **Tipo de feedback** | **Descripción** |
 | :---- | :---- |
-| Comment | Leave a comment about the documentation. |
-| Question | DDescribe any questions you have regarding the documentation content. |
-| Error | Report incorrect information in the documentation content or if the page isn't available. |
-| Improvement | Suggest improvements to the content. |
+| Comment | Deja un comentario sobre la documentación. |
+| Question | Indica cualquier duda o pregunta que tengas acerca del contenido. |
+| Error | Reporta información incorrecta o señala si la página presenta algún problema o no está disponible. |
+| Improvement | Sugiere posibles mejoras o ajustes para optimizar el contenido. |
 
-- **Feedback:** Describe your feedback based on the **Feedback type** you’ve chosen.
-- **Suggestions (optional):** Add a suggestion to fix or improve the content.
-- **Attachment (optional):** If you have additional files to share, such as screenshots, images, and spreadsheets, upload them to this section.
-- **Follow-up:** If you would like us to contact you about your feedback, select `Yes`. On the next page of the form, add your name and email so we can reach out to you.
+- **Feedback:** detalla tus comentarios según el tipo de feedback que hayas elegido.
+- **Suggestions (opcional):** agrega cualquier sugerencia para corregir o mejorar el contenido.
+- **Attachment (opcional):** si tienes archivos adicionales para compartir, como capturas de pantalla, imágenes u hojas de cálculo, cárgalos en esta sección.
+- **Follow-up:** si deseas que nos pongamos en contacto contigo para hablar sobre tus comentarios, selecciona `Yes` y agrega tu nombre e email en la siguiente página del formulario.
 
-## Was this helpful?
+## ¿Te ha parecido útil?
 
-**Available at:** [Help Center](https://help.vtex.com/) and [Developer Portal](https://developers.vtex.com/)
+**Disponible en:** [Help Center](https://help.vtex.com/) y [Developer Portal](https://developers.vtex.com/)
 
-You can submit feedback about any page in the documentation portals by responding to the `Was this helpful?` option.
+Puedes enviar tus comentarios sobre cualquier página de los portales de documentación haciendo clic en el pulgar arriba o abajo en `¿Te ha parecido útil?`
 
 ![How to submit feedback](https://vtexhelp.vtexassets.com/assets/docs/src/was-this-helpful___f7a0bfefa5147947c2bb4d11baa31e22.gif)
 
-You can leave a comment about the page and why you found it helpful or not. Click `SEND FEEDBACK` to submit your feedback.
+En el Developer Portal, además de indicar si te gustó o no la página con el pulgar arriba o abajo, también puedes dejar un comentario sobre la página y explicar por qué te pareció útil o no. Haz clic en `SEND FEEDBACK` para enviar tus comentarios. 
 
-## Suggest edits (GitHub)
+## Sugerir cambios (GitHub)
 
-**Available at:** [Help Center](https://help.vtex.com/) and [Developer Portal](https://developers.vtex.com/)
+**Disponible en:** [Help Center](https://help.vtex.com/) y [Developer Portal](https://developers.vtex.com/)
 
-You can contribute to any page in the documentation portals by clicking `Suggest edits (GitHub)`.
+Puedes contribuir a cualquier página en los portales de documentación haciendo clic en `Sugerir cambios (GitHub)`.
 
-![How to suggest edits](https://vtexhelp.vtexassets.com/assets/docs/src/suggest-edits-github___fff6aa05ddc4031e99a38b84c1d91aeb.gif)  
+![How to suggest edits](https://vtexhelp.vtexassets.com/assets/docs/src/suggest-edits-github___fff6aa05ddc4031e99a38b84c1d91aeb.gif)
 
-By clicking `Suggest edits (GitHub)`, a new browser window will open with the documentation repository page. Follow these steps to contribute using the `Suggest edits (GitHub)`:
+Al hacer clic en `Sugerir cambios (GitHub)`, se abrirá una nueva ventana del navegador con la página del repositorio de la documentación. Sigue estos pasos para realizar tus sugerencias a través de `Sugerir cambios (GitHub)`:
 
-1. In the documentation repository page, edit the documentation file that corresponds to your suggestions.  
+1. En la página del repositorio de la documentación edita el archivo que deseas modificar.
 
-   > ⚠️ Make sure to apply your suggestions based on the [documentation guidelines principles](https://contentguide.vtex.com/docs/documentation/documentation-overview#documentation-guidelines-principles) and the [code of conduct](https://github.com/vtexdocs/dev-portal-content/blob/main/CODE_OF_CONDUCT.md).  
+   > ⚠️ Asegúrate de que tus aportes sigan los [principios de las directrices de documentación](https://contentguide.vtex.com/docs/documentation/documentation-overview#documentation-guidelines-principles) y el [código de conducta](https://github.com/vtexdocs/dev-portal-content/blob/main/CODE_OF_CONDUCT.md).
 
-2. Click `Commit changes…`.  
-3. In the **Propose changes** modal, complete the following:
+2. Haz clic en `Commit changes…`.
+3. En la ventana modal **Propose changes** llena los siguientes datos requeridos:
 
-   | **Field name** | **Description** |
+   | **Nombre del campo** | **Descripción** |
    | :---- | :---- |
-   | Commit message | Write a short description of your commit, for example, `Fix typo`. |
-   | Extended description (Optional) | Write a description with more details about your commit. |
-   | Create a new branch for this commit and start a pull request | Give a name for your branch so you can open a pull request, and the team can review your suggestions. |
+   | Commit message | Escribe una breve descripción de tu commit, por ejemplo, `Fix typo`. |
+   | Extended description (Optional) | Agrega más detalles sobre tu commit, si es necesario. |
+   | Create a new branch for this commit and start a pull request | Asigna un nombre a la nueva rama para poder abrir un pull request y que el equipo pueda revisar tus sugerencias. |
 
-4. Once you complete the modal, click `Propose changes`.
-5. Create a pull request with your changes by completing the following:
+4. Una vez llenado el formulario, haz clic en `Propose changes`.
+5. Crea un pull request con los cambios propuestos completando lo siguiente:
 
-   ![How to open a pull request](https://vtexhelp.vtexassets.com/assets/docs/src/open-pull-request___2181e6b6116f8427f47435992da98723.png)  
+   ![How to open a pull request](https://vtexhelp.vtexassets.com/assets/docs/src/open-pull-request___2181e6b6116f8427f47435992da98723.png)
 
-   | **Field name** | **Description** |
+   | **Nombre del campo** | **Descripción** |
    | :---- | :---- |
-   | Add a title | Add a title for your pull request by adding the type of change, the file name, and what you changed, for example, `Fix (customer-credit-integration-guide.md): Documentation typos`. |
-   | Add a description | Check the types of changes you are proposing: New content, Improvement, Fix or Spelling and grammar accuracy. Also, feel free to provide more details in your description to help the team review your suggestion. |
-   | Reviewers | Click `Reviewers` and choose the group `vtexdocs/vtex-education`. |
+   | Add a title | Agrega un título a tu pull request indicando el tipo de cambio, el nombre del archivo y lo que modificaste. Por ejemplo: `Fix (customer-credit-integration-guide.md): Documentation typos`. |
+   | Add a description | Verifica el tipo de cambio que estás proponiendo: New content, Improvement, Fix o Spelling and grammar accuracy. Además, puedes incluir más detalles en la descripción para ayudar al equipo a revisar tu sugerencia. |
+   | Reviewers | Haz clic en `Reviewers` y selecciona el grupo `vtexdocs/vtex-education`. |
 
-6. Click `Create pull request`.
+6. Haz clic en `Create pull request`.
 
-Once you’ve opened a pull request, our team will review your changes as soon as possible and follow up with you in the pull request comments.
+Una vez que hayas abierto el pull request, nuestro equipo revisará tus cambios lo antes posible y se pondrá en contacto a través de los comentarios del pull request.
 
-> ⚠️ Pull requests are a collaborative process. Your suggestions are valued, but approval is not guaranteed. Be open to feedback and discussion.
+> ⚠️ Los pull requests son un proceso colaborativo. Valoramos tus sugerencias, pero su aprobación no está garantizada. Ten en cuenta que los cambios propuestos pueden recibir feedback o ser discutidos por otros colaboradores.

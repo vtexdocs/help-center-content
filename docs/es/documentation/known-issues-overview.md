@@ -1,67 +1,67 @@
 ---
-title: 'Known Issues overview'
-id: edu0007
+title: 'Problemas conocidos'
+id: edu0007-es
 status: PUBLISHED
-createdAt: 2025-02-06T15:00:00.388Z
-updatedAt: 2025-02-06T15:00:00.388Z
-publishedAt: 2025-02-06T15:00:00.388Z
-firstPublishedAt: 2025-02-06T15:00:00.388Z
+createdAt: 2025-11-25T19:24:22.388Z
+updatedAt: 2025-11-25T11:55:00.388Z
+publishedAt: 2025-11-25T19:24:22.388Z
+firstPublishedAt: 2025-11-25T19:24:22.388Z
 contentType: trackArticle
 productTeam: Education
-slugEN: known-issues-article
-locale: en
+slugES: problemas-conocidos
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: known-issues-article
+trackSlugES: problemas-conocidos
 ---
 
-[Known Issues](https://help.vtex.com/known-issues) inform users about identified problems in the VTEX platform or products, their current status, and potential solutions (workarounds) or permanent fixes. We constantly update these articles so you can anticipate potential issues and know that our team is aware of them.
+En los artículos de [problemas conocidos](https://help.vtex.com/known-issues) se informa a los usuarios sobre los problemas identificados en la plataforma o productos VTEX, status actual, soluciones alternativas (workarounds) o soluciones definitivas. Los artículos se actualizan con frecuencia para ayudar a los usuarios a anticipar posibles problemas y confirmar que nuestro equipo los está gestionando.
 
-In this article, you’ll see the difference between Known Issues, other types of articles, and Product Improvements, as well as an overview of a Known Issue article.
+En este artículo aprenderás en qué se diferencian los problemas conocidos de otros tipos de contenido y de las optimizaciones de producto, además de una vista general sobre su estructura.
 
-## Differences between Known Issues and Troubleshooting guides
+## Diferencias entre problemas conocidos y guías de solución de problemas
 
-When navigating VTEX documentation, it's important to understand the differences between article types, which have specific purposes. For example, Known Issues articles alert users to identified problems within the platform, providing updates, workarounds, or solutions. In contrast, Troubleshooting guides offer step-by-step instructions for fixing specific errors.
+Al navegar por la documentación de VTEX, es importante comprender las diferencias entre los tipos de artículos, ya que cada uno tiene un propósito específico. Por ejemplo, los artículos de problemas conocidos alertan a los usuarios sobre problemas identificados en la plataforma, proporcionando actualizaciones, soluciones alternativas o definitivas. En cambio, las guías de solución de problemas ofrecen instrucciones para corregir errores específicos.
 
-Below, find the goal, content focus and audience between Known Issues articles and other article types:
+A continuación, encontrarás el objetivo, el enfoque del contenido y la audiencia de los artículos de problemas conocidos y otros tipos de artículos:
 
-| **Topic** | **Known Issue** | **Troubleshooting** |
+| **Tema** | **Problema conocido** | **Solución de problemas** |
 | --------- | --------------- | ------------------- |
-| **Goal** | Informing users of known issues within the platform and products and their workarounds or solutions. | Providing step-by-step instructions to solve specific problems or errors. |
-| **Content focus** | Problem description, impact, workaround or solution, and status updates. | Troubleshooting steps, error messages, and potential causes. |
-| **Audience** | All users who may be affected by the known issue. | Users experiencing specific problems or errors. |
-| **Article example** | [Benefits and taxes are not applied to services](https://help.vtex.com/known-issues/benefits-and-taxes-are-not-applied-to-services--4u12zyfc387daNQamFohA2) | [My store’s Site Editor is not working](https://help.vtex.com/tutorial/my-stores-site-editor-is-not-working--3A6Ois91zEZ8zpKJp1wsP2) |
+| **Objetivo** | Informar a los usuarios sobre problemas conocidos dentro de la plataforma y los productos y sus soluciones alternativas o definitivas. | Proporcionar instrucciones para resolver problemas o errores específicos. |
+| **Enfoque del contenido** | Descripción del problema, impacto, solución alternativa o definitiva y actualizaciones de status. | Instrucciones para solucionar problemas, mensajes de error y posibles causas. |
+| **Audiencia** | Usuarios que puedan verse impactados por el problema conocido. | Usuarios que experimentan problemas o errores específicos. |
+| **Ejemplo de artículo** | [Promociones e impuestos no se aplican a los servicios](https://help.vtex.com/known-issues/benefits-and-taxes-are-not-applied-to-services--4u12zyfc387daNQamFohA2) | [Problemas con Site Editor en mi tienda](https://help.vtex.com/tutorial/my-stores-site-editor-is-not-working--3A6Ois91zEZ8zpKJp1wsP2) |
 
-## Guidelines on identifying known issues or product improvements
+## Guías para diferenciar problemas conocidos de optimizaciones de producto
 
-Both known issues and product improvements intend to enhance the product. However, while known issues focus on solving existing problems, product improvements aim to add new features or enhance existing ones.
+Tanto los problemas conocidos como las optimizaciones de producto tienen como objetivo mejorar el producto. Sin embargo, mientras los problemas conocidos se enfocan en resolver fallas existentes, las optimizaciones de producto buscan agregar nuevas funcionalidades o mejorar las ya existentes.
 
-To better illustrate the difference between them, consider the following:
+A continuación se muestra una comparación entre ambos:
 
-| **Topic** | **Known issue** | **Product improvement** |
+| **Tema** | **Problema conocido** | **Optimización de producto** |
 | --------- | --------------- | ----------------------- |
-| **Definition** | An identified problem or bug in the product or platform. | A proposed change to enhance the product or the platform's functionality, usability, or performance. |
-| **Focus** | Fixing existing problems. | Adding new features or improving existing ones. |
-| **User impact** | Negative impact on user experience or functionality. | Positive impact on user experience or functionality. |
-| **Example** | A button on a page doesn't work as expected. | Adding a new feature to filter search results. |
+| **Definición** | Problema o error identificado en el producto o plataforma. | Cambio propuesto para mejorar el producto o funcionalidad, usabilidad o desempeño de la plataforma. |
+| **Enfoque** | Solución de problemas existentes. | Agregar nuevas funcionalidades o mejorar las existentes. |
+| **Impacto en el usuario** | Impacto negativo en la experiencia del usuario o funcionalidad. | Impacto positivo en la experiencia del usuario o funcionalidad. |
+| **Ejemplo** | Un botón en una página no funciona como debería. | Agregar una nueva funcionalidad para filtrar los resultados de búsqueda. |
 
-## Known Issue structure
+## Estructura de problemas conocidos
 
 ![known-issue-article-overview](https://vtexhelp.vtexassets.com/assets/docs/src/known-issue-article-overview___e5746db32fe1bc696a82b4e1f4fff087.png)
 
-| **Article topic** | **Description** |
+| **Tema del artículo** | **Descripción** |
 | ----------------- | --------------- |
-| 1 - Title | Article title describing the issue. |
-| 2 - Product name | Tag for the product affected by the issue. |
-| 3 - Status | Tag describing the Known Issue status. These are the available status: <ol><li>`Fixed`: The issue has been solved, and a fix has been implemented.</li><li>`Backlog`: The issue has been identified but is not currently scheduled for a fix. It may be prioritized and scheduled for a future release.</li><li>`Scheduled`: The issue has been prioritized and scheduled for a fix.</li><li>`No fix`: The issue won’t be fixed, likely due to low impact, technical constraints, or other reasons.</li></ol> |
-| 4 - Created on | Date when the article was created. |
-| 5 - Updated on | Date when the article was last updated. |
-| 6 - Summary | Section to describe the bug. |
-| 7 - Simulation | Section to describe what steps are needed to reproduce the behavior. |
-| 8 - Workaround | Section to describe the workaround for the issue, if there’s any. |
+| 1 - Título | Título del artículo que describe el problema. |
+| 2 - Nombre del producto | Tag del producto afectado por el problema. |
+| 3 - Status | Tag que describe el status del problema conocido. Estos son los status disponibles: <ol><li>`Resuelto`: el problema se ha solucionado y se ha implementado una solución.</li><li>`Backlog`: el problema se ha identificado, pero no se ha programado su solución. Podría priorizarse y programarse para una próxima versión.</li><li>`Programado`: el problema se ha priorizado y programado para su solución.</li><li>`No resuelto`: el problema no se corregirá, probablemente debido a bajo impacto, limitaciones técnicas u otras razones.</li></ol> |
+| 4 - Publicado el | Fecha en que se creó el artículo. |
+| 5 - Última actualización el | Fecha en que se actualizó el artículo por última vez. |
+| 6 - Resumen | Sección para describir el error. |
+| 7 - Simulación | Sección para describir qué pasos son necesarios para reproducir el comportamiento. |
+| 8 - Workaround | Sección para describir la solución alternativa al problema, si la hubiera. |
 
-## Examples of Known Issues
+## Ejemplos de problemas conocidos
 
-- [Cart does not update in FastStore if external request is made to update orderForm](https://help.vtex.com/known-issues/cart-does-not-update-in-faststore-if-external-request-is-made-to-update-orderform--7ef1GxxapbH2XKKf7HBuAM)
-- [Stuck transactions after Risk Rejection](https://help.vtex.com/known-issues/stuck-transactions-after-risk-rejection--4LKwXp4P9IEkUh02vNZKiA)
-- [Benefits and taxes are not applied to services](https://help.vtex.com/known-issues/benefits-and-taxes-are-not-applied-to-services--4u12zyfc387daNQamFohA2)
-- [FetchMore brings repeated values between the to and from](https://help.vtex.com/known-issues/fetchmore-bringing-repeated-values-between-the-to-and-from--1Vx0YekKCDaf8t6hocU1iv)
+- [El carrito no se actualiza en FastStore si se realiza una solicitud externa para actualizar orderForm](https://help.vtex.com/known-issues/cart-does-not-update-in-faststore-if-external-request-is-made-to-update-orderform--7ef1GxxapbH2XKKf7HBuAM)
+- [Transacciones bloqueadas tras el rechazo de riesgo](https://help.vtex.com/known-issues/stuck-transactions-after-risk-rejection--4LKwXp4P9IEkUh02vNZKiA)
+- [Promociones e impuestos no se aplican a los servicios](https://help.vtex.com/known-issues/benefits-and-taxes-are-not-applied-to-services--4u12zyfc387daNQamFohA2)
+- [FetchMore aporta valores repetidos entre el origen y el destino](https://help.vtex.com/known-issues/fetchmore-bringing-repeated-values-between-the-to-and-from--1Vx0YekKCDaf8t6hocU1iv)

@@ -1,62 +1,63 @@
 ---
-title: 'Announcement'
-id: edu0004
+title: 'Anúncios'
+id: edu0004-pt
 status: PUBLISHED
-createdAt: 2025-02-06T15:00:00.388Z
-updatedAt: 2025-02-06T15:00:00.388Z
-publishedAt: 2025-02-06T15:00:00.388Z
-firstPublishedAt: 2025-02-06T15:00:00.388Z
+createdAt: 2025-11-25T19:24:22.388Z
+updatedAt: 2025-11-25T11:55:00.388Z
+publishedAt: 2025-11-25T19:24:22.388Z
+firstPublishedAt: 2025-11-25T19:24:22.388Z
 contentType: trackArticle
 productTeam: Education
-slugEN: announcement-template
-locale: en
+slugPT: anuncios
+locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: announcement-template
+trackSlugPT: anuncios
 ---
 
-An announcement informs users about new features, improvements, bug fixes, and other product and system updates.
-In this guide, you’ll see general guidelines, the announcement template, and examples.
+Um anúncio informa os usuários sobre novos recursos, melhorias, correções de bugs e outras atualizações de produtos e sistemas.
+Neste guia, você verá diretrizes gerais, o modelo de um anúncio e exemplos.
 
-> ℹ️ Make sure to review the guidelines in the [Best practices for writing documentation](https://contentguide.vtex.com/docs/documentation/documentation-overview#best-practices-for-writing-documentation).
+> ℹ️ Revise as diretrizes em [Melhores práticas para escrever documentação](https://contentguide.vtex.com/docs/documentation/documentation-overview#best-practices-for-writing-documentation).
 
-## Writing an announcement
+## Como escrever um anúncio
 
-| **Topic** | **Description** |
+| **Tópico** | **Descrição** |
 | --------- | --------------- |
-| **Introduction** | <ol><li>Start the first paragraph with an overview, explaining the change and its significant impact for merchants or customers.</li><li>Make sure the reader immediately understands how the announcement will affect their store operations.</li><li>Mention the region (for example, Global, Brazil, LATAM, APAC, US, or EMEA) and the product phase (Beta, Alpha, or General Availability) in the introduction paragraph.</li></ol> |
-| **Heading titles** | Make sure the heading titles follow the standard text in all locales. |
-| **"What has changed?"** | Explain the use case. |
-| **"Why did we make this change?"** | Explain what motivates VTEX to create it and make a list using bullet points to explain the business problems that are solved. |
-| **"What needs to be done?"** | <ol><li>Guide readers on how to leverage these new capabilities as fast as they can.</li><li>Add a call to action to direct the reader to more information.</li></ol> |
+| **Introdução** | <ol><li>Comece o primeiro parágrafo com uma visão geral, explicando a mudança e seu impacto significativo para lojistas ou clientes.</li><li>Deixe claro para o leitor já no início como o que está sendo anunciado afetará as operações de sua loja.</li><li>Informe a região (por exemplo, Global, Brasil, LATAM, APAC, EUA ou EMEA) e a fase do produto (beta, alfa ou disponibilidade geral) na introdução.</li></ol> |
+| **Títulos** | Garanta que todos os títulos estejam seguindo o padrão textual em todos os locales. |
+| **"O que mudou?"** | Explique o caso de uso. |
+| **"Por que fizemos essa mudança?"** | Explique o que motivou a VTEX a realizar a mudança e faça uma lista com itens para explicar os problemas solucionados. |
+| **"O que precisa ser feito?"** | <ol><li>Oriente os leitores sobre como aproveitar esses novos recursos o mais rápido possível.</li><li>Adicione um link de call-to-action que direcione o leitor para mais informações.</li></ol> |
 
-## Announcement template
+## Modelo de anúncio
 
 <details>
-<summary><b>Announcement template</b></summary>
+<summary><b>Modelo de anúncio</b></summary>
 
 ```md
-# Feature name + benefit
- 
-We created/modified this feature to <insert the key benefit> so you can <job to be done>. It's available in <, Alpha, Beta, for a specific country, or for all users (general availability)>.
+# Nome da funcionalidade + benefício
 
-## What has changed?
+Criamos/modificamos esta funcionalidade para <incluir o principal benefício> permitindo que você <tarefa a ser realizada>. Ela está disponível em <alpha, beta, para um país específico ou para todos os usuários (disponibilidade geral)>.
 
-Previously, you had to <how the user used to solve the problem>. Now, you have this <new button/screen> where you can <benefit>.
+## O que mudou?
 
-## Why did we make this change?
+Antes, você precisava/era necessário <como o usuário resolvia o problema>. Agora, você pode/é possível usar <novo botão/tela> para <benefício>.
 
-In order to <facilitate your job to be done>, we developed <subject>. This is available for <specific or general users?> in <the name of the module>. The key benefits are:
+## Por que fizemos essa mudança?
 
-- Key benefit 1
-- Key benefit 2
-- Key benefit 3
+Para <facilitar a tarefa a ser realizada>, desenvolvemos <assunto>. Este recurso está disponível para <usuários específicos ou todos os usuários?> no <nome do módulo>. Suas principais vantagens são:
 
-## What needs to be done?
-To <use this new resource> you have to <install something or adjust a configuration or go to a menu.>
+- Benefício 1
+- Benefício 2
+- Benefício 3
 
-To learn more <about the feature/module/product>, see <the article/track>.
+## O que precisa ser feito?
+
+Para <usar este novo recurso>, você deve <instalar algo, ajustar uma configuração ou acessar um menu>.
+
+Para saber mais <sobre o recurso/módulo/produto>, confira <o artigo/a trilha>.
 ```
 
 </details>
 
-> Find examples of announcement articles on the [Help Center](https://help.vtex.com/en/announcements).
+> Veja exemplos de artigos de anúncio no [Help Center](https://help.vtex.com/pt/announcements).
