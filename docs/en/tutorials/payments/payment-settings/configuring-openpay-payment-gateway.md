@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-[Openpay](https://www.openpay.mx/en/) is an online payment processor that allows you to receive payments made by credit cards, bank transfers, and in cash.
+[Openpay](https://www.openpay.mx/) is an online payment processor that allows you to receive payments made by credit cards, bank transfers, and in cash.
 
 > ⚠️ To configure it in your store, you need to have a verified Openpay account. If you do not have it yet, [click here](https://sandbox-dashboard.openpay.mx/login/register?isCandidateForNewStyles=false) to create your account.
 
