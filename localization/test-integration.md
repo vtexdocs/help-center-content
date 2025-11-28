@@ -1,1 +1,1 @@
-Source file to test the Crowdin integration.
+Source file to test the crowdin integration.
