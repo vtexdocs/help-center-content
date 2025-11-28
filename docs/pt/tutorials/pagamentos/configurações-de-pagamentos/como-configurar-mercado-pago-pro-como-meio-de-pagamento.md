@@ -3,7 +3,7 @@ title: 'Como configurar Mercado Pago Pro como meio de pagamento'
 id: 520AthtalgojtTUKw0La9S
 status: PUBLISHED
 createdAt: 2020-11-17T17:45:31.552Z
-updatedAt: 2023-03-26T21:46:46.072Z
+updatedAt: 2025-11-25T00:00:00.000Z
 publishedAt: 2023-03-26T21:46:46.072Z
 firstPublishedAt: 2020-11-17T19:19:23.749Z
 contentType: tutorial
@@ -15,34 +15,23 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-O Mercado Pago Pro é uma solução de pagamento da [carteira digital](/pt/tutorial/o-que-e-uma-carteira-digital-e-wallet) Mercado Pago.
-
-Para oferecê-lo como meio de pagamento no SmartCheckout para os seus consumidores, você deve primeiro cadastrar uma afiliação de gateway e, posteriormente, configurar o Mercado Pago Pro como meio de pagamento em si.  
-
-Antes de configurar a condição de pagamento, você deve certificar-se que os subadquirentes MercadoPagoV1 ou MercadoPagoV2 já estejam cadastrados na sua loja. 
-
-Caso necessário, acesse os links abaixo para cadastrar os subadquirentes:
-
-- [MercadoPagoV1](/pt/tutorial/configurar-o-subadquirente-mercadopagov1)
-- [MercadoPagoV2](/pt/tutorial/configurar-o-subadquirente-mercadopagov2)
+O Mercado Pago Pro é uma solução de pagamento da [carteira digital](https://help.vtex.com/pt/docs/tutorials/o-que-e-uma-carteira-digital-e-wallet) Mercado Pago. Antes de configurar a condição de pagamento, você deve certificar-se que o subadquirente [MercadoPagoV2](https://help.vtex.com/pt/docs/tutorials/configurar-o-subadquirente-mercadopagov2) já esteja cadastrado na sua loja.
 
 ## Configuração do meio de pagamento Mercado Pago Pro
 
 Para configurar o Mercado Pago Pro, siga os passos abaixo:
 
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Certifique-se que você está na aba __Condições de pagamento__.
-3. Ao lado da barra de busca, clique no __botão verde “+”__.
-4. Na seção “Outro”, clique na opção __MercadoPagoPro__.
-5. No topo da página, preencha o campo __Nome da Regra__.
-6. Logo abaixo, clique no botão __Status__ para __ativar a regra__.
-7. Em __Processar com afiliação__, selecione uma das opções: __MercadoPagoV1__ ou __MercadoPagoV2__.
-8. Caso seja necessário, clique na caixa de seleção __“Usar Antifraude”__.
+1. No [VTEX IO CLI](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install), execute o comando `vtex login nomedaconta` para realizar o login em sua conta.
+2. Instale o app __Mercado Pago Pro__ por meio do comando `vtex install mercadopago.mercadopago-app`.
+3. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
+4. Na aba __Condições de Pagamentos__, clique no botão `+`.
+5. Clique sobre a opção __MercadoPagoPro__.
+6. Na tela de configuração, ative a condição clicando em __Status__.
+7. Em __Processar com o provedor__, selecione __MercadoPagoV2__.
+8. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
+9. Caso necessário, você também pode configurar [condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condiciones-especiales--tutorials_456).
+10. Clique em `Salvar`.
 
-Do lado direito da tela, é possível configurar as [condições especiais de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456).
+> ℹ️ Para processar pagamentos feitos com o Pix, basta [cadastrar uma chave Pix no Mercado Pago](https://www.mercadopago.com.br/ferramentas-para-vender/aceitar-pix) após concluir a configuração do meio de pagamento.
 
-Entretanto, essa etapa é opcional. Você pode simplesmente clicar diretamente no __botão azul “Salvar”__ para finalizar a configuração do meio de pagamento. 
-
-> ℹ️ Para processar pagamentos feitos com o Pix, basta [cadastrar uma chave Pix no Mercado Pago](https://www.mercadopago.com.br/pix/) após concluir a configuração do meio de pagamento.
-
-> ⚠️ **Lembre-se:** novas condições de pagamento podem levar até 10 minutos para ser exibidas no SmartCheckout.
+Depois de seguir os passos indicados, Mercado Pago Pro pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento.
