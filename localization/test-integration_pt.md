@@ -1,0 +1,1 @@
+Arquivo-fonte para testar a integração com o Crowdin.
