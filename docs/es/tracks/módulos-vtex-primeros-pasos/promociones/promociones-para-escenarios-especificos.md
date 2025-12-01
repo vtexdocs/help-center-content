@@ -31,7 +31,7 @@ Esta promoción puede aplicar el descuento a ambos productos o solamente a uno d
 
 La pantalla de configuración tiene dos listas de SKUs, que se pueden agregar manualmente o importar por plantilla. Cada lista tiene sus propios campos para configurar el **porcentaje de descuento** y la **cantidad mínima** requerida.
 
-![Comprar juntos – PT](comprar-juntos-registro-de-promocion_1.gif)
+![Comprar juntos – PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/promociones/comprar-juntos-registro-de-promocion_1.gif)
 
 - **Lista 1:** incluye los productos principales y define el porcentaje de descuento. 
 - **Lista 2:** agrega productos complementarios y configura el descuento aplicado a ellos.
@@ -83,7 +83,7 @@ En la configuración, define los **SKUs** o **colecciones** participantes y esta
 - **Considerar solamente ítems iguales:** esta opción limita el descuento a productos idénticos, considerando solo la cantidad de un mismo SKU en el carrito. Si los SKUs son diferentes, aunque pertenezcan a la misma colección, no son elegibles.
 - **Agregar rango:** haz clic en `+` para crear nuevos niveles de cantidad y descuento (hasta 10 rangos posibles).
 
-![Descuento progresivo – PT](descuento-progresivo_1.gif)
+![Descuento progresivo – PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/promociones/descuento-progresivo_1.gif)
 
 Para más información, consulta [Cómo funciona la promoción Descuento progresivo](https://help.vtex.com/es/tutorial/desconto-progressivo--tutorials_324).
 
@@ -94,7 +94,7 @@ La promoción **Compra uno y lleva uno gratis** otorga envío gratis, un regalo 
 -  El cliente compra una televisión y recibe envío gratis. 
 -  El cliente compra una consola de videojuegos y recibe un juego gratis.
 
-![Compra uno y lleva uno gratis – ES](como-funciona-la-promocion-compre-y-gane_1.gif)
+![Compra uno y lleva uno gratis – ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/promociones/como-funciona-la-promocion-compre-y-gane_1.gif)
 
 La pantalla de configuración permite definir las condiciones de la compra y el beneficio otorgado.
 

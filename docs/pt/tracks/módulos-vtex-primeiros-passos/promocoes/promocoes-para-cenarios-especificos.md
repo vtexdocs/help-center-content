@@ -32,7 +32,7 @@ Essa promoção aplica o desconto a ambos os produtos ou a apenas um deles, conf
 A tela de configuração apresenta duas listas de SKUs, que podem ser adicionadas manualmente ou importadas por planilha. Cada lista possui campos próprios para configurar o **percentual de desconto** e a **quantidade mínima** exigida.
 
 
-![Compre Junto - PT](compre-junto_1.gif)
+![Compre Junto - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/promocoes/compre-junto_1.gif)
 
 - **Lista 1:** inclua os produtos principais e defina o percentual de desconto. 
 - **Lista 2:** adicione produtos complementares e configure o desconto aplicado a eles.
@@ -86,7 +86,7 @@ Na configuração, defina os **SKUs** ou **coleções** participantes e estabele
 - **Considerar somente itens iguais:** essa opção limita o desconto a produtos idênticos, considerando apenas a quantidade de um mesmo SKU no carrinho  SKUs diferentes, mesmo da mesma coleção, não são elegíveis.
 - **Adicionar intervalo:** clique em `+` para criar novos níveis de quantidade e desconto (até 10 intervalos possíveis).
 
-![Desconto Progressivo – PT](desconto-progressivo_1.gif)
+![Desconto Progressivo – PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/promocoes/desconto-progressivo_1.gif)
 
 Para mais informações, acesse [Como funciona o Desconto Progressivo](https://help.vtex.com/pt/tutorial/desconto-progressivo--tutorials_324).
 
@@ -98,7 +98,7 @@ A promoção **Compre e Ganhe** oferece frete grátis, um brinde ou a definiçã
 -  Compre uma televisão e receba frete grátis. 
 -  Compre um videogame e ganhe um jogo.
 
-![Compre e Ganhe – PT](compre-e-ganhe_1.gif)
+![Compre e Ganhe – PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/promocoes/compre-e-ganhe_1.gif)
 
 A tela de configuração permite definir as condições da compra e o benefício concedido.
 

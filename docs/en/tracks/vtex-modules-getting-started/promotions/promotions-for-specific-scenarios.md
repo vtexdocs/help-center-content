@@ -31,7 +31,7 @@ This promotion can apply the discount to both products or only one, depending on
 
 The setup screen has two SKU lists, which you can add manually or import via spreadsheet. Each list has its own fields to define the **discount percentage** and the **minimum quantity** required.
 
-![Buy Together – EN](buy-together_1.gif)
+![Buy Together – EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/buy-together_1.gif)
 
 - **List 1:** Include the main products and set the discount percentage.
 - **List 2:** Add complementary products and set the discount that will apply to them.
@@ -84,7 +84,7 @@ When configuring this promotion, set the participating **SKUs** or **collections
 - **Only consider identical items:** This option limits the discount to identical products, considering only the quantity of a single SKU in the cart. Different SKUs, even within the same collection, aren't eligible.
 - **Add range:** Click `+` to create new quantity and discount levels (up to 10 ranges).
 
-![Progressive Discount – EN](progressive-discount_1.gif)
+![Progressive Discount – EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/progressive-discount_1.gif)
 
 For more information, see [How the progressive discount works](https://help.vtex.com/docs/tutorials/progressive-discount).
 
@@ -95,7 +95,7 @@ The **Buy One Get One** promotion offers free shipping, a gift, or the option of
 -  Buy a TV and get free shipping. 
 -  Buy a video game console and get a free game.
 
-![Buy One, Get One – EN](buy-one-get-one_1.gif)
+![Buy One, Get One – EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/buy-one-get-one_1.gif)
 
 The configuration screen allows you to set the purchase conditions and the benefit granted.
 
