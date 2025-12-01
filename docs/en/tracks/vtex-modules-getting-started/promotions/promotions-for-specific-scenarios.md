@@ -3,7 +3,7 @@ title: 'Promotions for specific scenarios'
 id: jOu9b69mKbrTDfSJYAawy
 status: PUBLISHED
 createdAt: 2020-01-22T13:55:51.326Z
-updatedAt: 2023-10-23T17:08:04.859Z
+updatedAt: 2025-12-01T17:08:04.859Z
 publishedAt: 2023-10-23T17:08:04.859Z
 firstPublishedAt: 2020-01-22T15:01:20.187Z
 contentType: trackArticle
@@ -15,95 +15,145 @@ trackSlugEN: promotions
 order: 5
 ---
 
-As explained in the previous topic, a Regular Promotion is the most generic type of promotion at VTEX.
+VTEX offers different promotion types. The **Regular Promotion** is the default promotion configured in VTEX accounts.
+To apply more specific rules, you can configure other types of promotions to meet different scenarios. See the available promotions below:
 
-However, occasionally your store will need to create promotions for more specific scenarios.
+-  [Buy Together](#buy-together)
+-  [More for Less](#more-for-less)
+-  [Progressive Discount](#progressive-discount)
+-  [Buy One Get One](#buy-one-get-one)
+-  [Usage restrictions](#usage-restrictions)
 
-In order to meet these scenarios, we offer the following types of promotions:
+## Buy Together
 
-- Buy Together - Bundle
-- More For Less
-- Progressive Discount
-- Buy One Get One
+The **Buy Together** promotion offers discounts when a customer adds two or more products to the cart.  
+This promotion can apply the discount to both products or only one, depending on the configured conditions.
 
-> ℹ️ The configuration screens for any of the promotions mentioned above follow the same main sections as those explained in the Regular Promotion article. The options in these sections repeat themselves throughout the promotions, with the exception of some specific configurations regarding which conditions to apply the promotion to. Therefore, this article will focus on these specific configurations.
+The setup screen has two SKU lists, which you can add manually or import via spreadsheet. Each list has its own fields to define the **discount percentage** and the **minimum quantity** required.
 
-### Buy Together - Bundle
+![Buy Together – EN](buy-together_1.gif)
 
-The Buy Together promotion is used to grant a discount for two or more products when placed at the same time in the cart.
+- **List 1:** Include the main products and set the discount percentage.
+- **List 2:** Add complementary products and set the discount that will apply to them.
 
-The promotion configuration screen offers two SKU lists, which can be added manually or using a spreadsheet.
+> ℹ️ Add different SKUs in List 1 and List 2.
 
-You can define a discount value for each of these lists. If, for example, list 1 has a 10% discount and list 2 has a 5% discount, when the cart has at least one product from each of these lists, a total of 10% discount will be granted on the value of the items from list 1 and a 5% discount will be granted on the value of the items from list 2.
+**Examples:**
+- Buy a pair of pants and get **10% off** a belt. 
+- Buy a pair of sneakers and a pair of socks and get **15% off**.
 
-![Compre junto - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_1.png)
+For more information, check [Creating a Buy Together promotion](https://help.vtex.com/docs/tutorials/buy-together).
 
-Two examples of this type of promotion would be "Buy a pair of pants and get 10% off when buying a belt" and "Buy a pair of sneakers + a pair of socks and get a 15% off".
+## More for Less
 
-To understand the Buy Together promotion in more detail, read our article on [Creating a Buy Together Promotion](/en/tutorial/buy-together--tutorials_323).
+The **More for Less** promotion applies discounts when a customer adds multiple units of the same product to the cart. 
+**Example:** "Buy 3, pay for 2".
 
-### More for Less
+When configuring this promotion, define the participating **SKUs** or **collections**, the number of products the customer must buy, and the number of products that will get the discount.
 
-The More for Less promotion is used to grant a discount when the customer adds several units of the same product to the cart. A classic example of this promotion would be "Buy 4 pay for 3".
+The screen displays the following fields:
 
-In the configuration of the More for Less promotion, the store must define which collections or SKUs it will apply to. Then, it must choose the minimum number of items in the cart for it to apply and the number of items that get a discount.
+- **The customer buys [X] of the following products:** Minimum quantity required. 
+- **SKUs:** Add up to 100 SKUs manually or via spreadsheet. 
+- **Collections:** Select a product collection to simplify applying the promotion. 
+- **The customer gets [Y] of the products with:** Set the number of items that will get the discount. 
+- **Discount of:** Select the type of discount (**percentage** or **fixed amount**) and enter the amount.
 
-![More less](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_2.png)
+### Advanced settings
 
-For example:
-- For every `3` products, the customer will get `1` `free` product.
-- For every `5` products, the customer will get `2` products with a `30%` `discount`.
+Advanced settings define how the discount will be applied to the selected products. See how to complete the fields and choose the options that best suit your promotion rules:
 
-To understand the More for Less promotion in more detail, read the article [Creating More for Less promotion](/en/tutorial/creating-more-for-less-promotion--tutorials_325).
+- **How the discount will be applied**
+    - **Any item:** The discount applies to any product within the configured criteria, even if they aren't identical.
+    - **Only identical items:** The discount applies only when the items are identical (same SKU).
+- **Cheapest products:** The discount applies to the lowest-priced products.
+**Most expensive products:** The discount applies to the highest-priced products.
 
-### Progressive Discount
+For more information, see [Creating a More for Less promotion](https://help.vtex.com/docs/tutorials/creating-a-more-for-less-promotion).
 
-The Progressive Discount promotion is used when the store wants to offer a percentage discount for a certain quantity of products inserted in the cart.
+## Progressive Discount
 
-An example would be: “When buying 5 kg of pet food, get a 5% off. Add 5 kg more and receive 10% off”.
+The **Progressive Discount** promotion offers increasing percentage discounts as a customer adds eligible products to the cart.
 
-When configuring the Progressive Discount promotion, the store must define which collections or SKUs the promotion applies to. Then, it must choose the minimum quantity and the initial discount applied. For example: for the first `3` items, the customer will receive a `5%` discount.
+**Example:** Buy 10 lbs of pet food and get **5%** off. Add 10 more pounds and get **10%** off.
 
-To add more details to the progressive discount promotion, click on the "+" button. A new line will be added, and then you can add a new discount. For example: for the next 2 products, the customer will receive an additional 5% discount. And so on.
+When configuring this promotion, set the participating **SKUs** or **collections** and define quantity ranges with their corresponding discount percentages.
 
-![Desconto progressivo - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_3.png)
+- **SKUs:** Select the specific products that will get a progressive discount. 
+- **Collections:** Select product collections to apply the rule to as a group. 
+- **Only consider identical items:** This option limits the discount to identical products, considering only the quantity of a single SKU in the cart. Different SKUs, even within the same collection, aren't eligible.
+- **Add range:** Click `+` to create new quantity and discount levels (up to 10 ranges).
 
-To understand the Progressive Discount promotion in more detail, read our article on [How progressive discount works](/en/tutorial/progressive-discount--tutorials_324).
+![Progressive Discount – EN](progressive-discount_1.gif)
 
-### Buy One Get One
+For more information, see [How the progressive discount works](https://help.vtex.com/docs/tutorials/progressive-discount).
 
-The Buy One Get One promotion is used to offer free shipping or a freebie when a certain product is purchased. For example, "buy a television and get free shipping" or "buy a video game and win a game".
+## Buy One Get One
+The **Buy One Get One** promotion offers free shipping, a gift, or the option of setting a **maximum price per item** whenever a customer adds the eligible products to the cart, depending on the configured rules.
 
-The applied discount (free shipping or freebie) must be defined in the promotion's general data. Then the store must choose the collections or SKUs to which it will apply. Finally, you must define the minimum number of items in the cart for the promotion to apply.
+**Examples:**
+-  Buy a TV and get free shipping. 
+-  Buy a video game console and get a free game.
 
-![Compre um e leve outro - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_4.png)
+![Buy One, Get One – EN](buy-one-get-one_1.gif)
 
-To understand the Buy One Get One promotion in more detail, read our article on [How the Buy and Win promotion works](/en/tutorial/buy-and-win--tutorials_322).
+The configuration screen allows you to set the purchase conditions and the benefit granted.
 
-### Restricting promotional products in cart
+- **Customer buys:**
 
-This setting determines how many items in the cart will be affected by a promotion. 
+    - **SKUs:** Enter the name or ID of the participating products. 
+    - **Collections:** Add the eligible collections.
+    - **Minimum quantity:** Set the number of required items.
+    - **Only consider identical items:** If enabled, the promotion will only apply when the products are identical.
 
-> ⚠️ It is important to note that such restrictions are only **valid for regular promotions with percentage discounts**.
+- **Choose the benefit the customer gets:**
 
-After filling in all the [regular promotion fields](/en/tutorial/regular-promotion--tutorials_327) with the percentage discount, you can __set a maximum number of items affected per cart__ by checking the box for this option, found in the __restrictions__ section.
+    - **Free shipping:**
+        - All shipping options. 
+        - Cheapest shipping option only.
+        - Specific shipping type.
 
-![Limite itens - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_5.png)
+    - **Gift:** 
+        - Select the SKUs for the gift.
+        - Set the maximum number of gifts.
+        - Choose between **a gift per cart** or **a gift per eligible item**. 
+        - **Maximum price:** Limits the price of products that can trigger the promotion.
 
-By default, the __unlimited__ selection is active, applying the promotion to all items in the cart, as illustrated in the diagram below:  
+> ⚠️ A Buy One Get One promotion allows you to configure up to 100 different SKUs simultaneously.
 
-![Caso ilimitado EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_6.png)
+For more information, see [How the Buy One Get One (BoGo) promotion works](https://help.vtex.com/docs/tutorials/buy-one-get-one).
 
-To restrict the number of items in the cart, you can choose one from the following options:
+## Campaign Promotion
 
-- __Items by cart__: this setting restrict a promotion to a predetermined number of items in the cart. Once the limit is reached, the promotion will apply to the rest of the cart. The system uses price as a selection criterion so the items with the lowest prices will be affected first.
+The **Campaign Promotion** lets you create promotions targeted to specific audiences, offering benefits like **free shipping**, **gifts**, and **promotional price tables**.
 
-![Caso por itens EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_7.png)
+This type of promotion is linked to a [campaign audience](https://help.vtex.com/en/docs/tutorials/criar-audiencia-de-campanhas), which defines the target audience eligible for the offer.
 
-- __Items by product__: this setting restricts the promotion to a number of units per product. As in the example below, only two units per product will be eligible for the promotion. The lowest price determines which product items are eligible first.   
+> ❗Campaign audiences and their promotions are only valid for the main store account. Seller accounts don't support this feature.
 
-![Caso por produto EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_8.png)
+For more information, see [Creating a campaign promotion](https://help.vtex.com/docs/tutorials/campaign-promotion).
 
-- __Items by SKU__: this setting restricts the promotion to a predetermined number of units for each SKU in the cart. As in the example below, only two units per SKU will be eligible. As seen in the previous case, the lowest price will determine the eligible items. 
+## Usage restrictions
 
-![Caso por SKU EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_9.png)
+The Restrictions section is available for all types of promotions. See below the restrictions you can apply and what each one means.
+
+- **Limit the use of in-store promotions:** Set a maximum number of times the promotion can be used across the store.  
+
+- **Limit promotion usage per customer:** Restrict the number of times each customer can use the promotion.  
+
+- **Limit the maximum number of eligible items:** Restrict the maximum number of items per order that can get the discount. The behavior of this setting varies depending on the option selected in the [Buy One Get One](#buy-one-get-one) promotion.  
+
+- For **Fixed amount discount**, **Fixed amount discount: formula** and **Maximum price per item**, the limit applies to the total items in the cart.
+
+ - For **Percentage discount**, you can choose whether the limit applies per cart, per product, or per SKU. For more information on these discounts, see [Regular Promotion](https://help.vtex.com/docs/tutorials/regular-promotion).
+
+ The table below shows the restrictions that apply to each promotion type:
+
+ | Promotion type | Limit use in the store | Limit use per customer | Limit eligible items |
+| :---- | :---: | :---: | :---: |
+| **Regular** | Yes | Yes | No |
+| **Buy Together** | Yes | Yes | No |
+| **More for Less** | Yes | Yes | Yes |
+| **Progressive Discount** | Yes | Yes | Yes |
+| **Buy One Get One** | Yes | Yes | No |
+| **Campaign** | Yes | Yes | No |

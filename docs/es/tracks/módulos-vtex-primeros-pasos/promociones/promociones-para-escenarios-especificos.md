@@ -3,7 +3,7 @@ title: 'Promociones para escenarios específicos'
 id: jOu9b69mKbrTDfSJYAawy
 status: PUBLISHED
 createdAt: 2020-01-22T13:55:51.326Z
-updatedAt: 2023-10-23T17:08:04.859Z
+updatedAt: 2025-12-01T17:08:04.859Z
 publishedAt: 2023-10-23T17:08:04.859Z
 firstPublishedAt: 2020-01-22T15:01:20.187Z
 contentType: trackArticle
@@ -15,97 +15,141 @@ trackSlugEN: promociones
 order: 5
 ---
 
-Como se explicó en el tópico anterior, la Promoción Regular es el tipo más genérico de promoción en VTEX.
+En VTEX hay varios tipos de promociones. La promoción **Regular** es la configuración predeterminada en las cuentas VTEX.
+Cuando la tienda necesita aplicar reglas más específicas pueden configurarse otros tipos de promociones para diferentes escenarios. Consulta a continuación las promociones disponibles:
 
-Sin embargo, a veces su tienda puede necesitar crear promociones para escenarios más específicos.
+-  [Comprar juntos](#comprar-juntos)
+-  [Más por menos](#mas-por-menos)
+-  [Descuento progresivo](#descuento-progresivo)
+-  [Compra uno y lleva uno gratis](#compra-uno-y-lleva-uno-gratis)
+-  [Restricciones de uso](#restricciones-de-uso)
 
-Es para atender a estos escenarios que ofrecemos los tipos de promociones que se explican a continuación:
+## Comprar juntos
 
-- Comprar juntos
-- Más por menos
-- Descuento progresivo
-- Compre y gane
-- Límite de ítems con promoción en el carrito 
+La promoción **Comprar juntos** ofrece descuentos cuando el cliente agrega dos o más productos al carrito.  
+Esta promoción puede aplicar el descuento a ambos productos o solamente a uno de ellos, según las condiciones configuradas.
 
-> ℹ️ Las pantallas de configuración de todas las promociones tienen las mismas secciones principales explicadas en el artículo sobre Promoción Regular. Las opciones presentes en estas secciones se repiten en todas las promociones, con excepción de algunas configuraciones específicas de condiciones para aplicar la promoción. Por lo tanto, en este artículo nos enfocamos en estas configuraciones específicas.
+La pantalla de configuración tiene dos listas de SKUs, que se pueden agregar manualmente o importar por plantilla. Cada lista tiene sus propios campos para configurar el **porcentaje de descuento** y la **cantidad mínima** requerida.
 
-### Comprar Juntos
+![Comprar juntos – PT](comprar-juntos-registro-de-promocion_1.gif)
 
-La promoción Comprar Juntos se utiliza para conceder un descuento a dos o más productos cuando se colocan al mismo tiempo en el carrito.
+- **Lista 1:** incluye los productos principales y define el porcentaje de descuento. 
+- **Lista 2:** agrega productos complementarios y configura el descuento aplicado a ellos.
 
-La pantalla de configuración de la promoción ofrece dos listas de SKUs, que pueden añadirse manualmente o por plantilla.
+> ℹ️ Agrega diferentes SKUs en la Lista 1 y en la Lista 2.
 
-Puede, entonces, definir un valor de descuento para cada una de estas listas. Si, por ejemplo, la lista 1 tiene un 10% de descuento y la lista 2 un 5% de descuento, cuando el carrito tenga al menos un producto de cada una de estas listas, se concederá un descuento total del 10% sobre el valor de los ítems de la lista 1 y un descuento del 5% sobre el valor de los ítems de la lista 2.
+**Ejemplos:**
+- Compra un pantalón y recibe **10% de descuento** en un cinturón.
+- Compra un par de zapatillas y un par de calcetines y recibe **15% de descuento**.
 
-![Compre Junto - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/promociones/promociones-para-escenarios-especificos_1.png)
+Para más información, consulta [Crear promoción Comprar juntos](https://help.vtex.com/es/tutorial/compre-junto--tutorials_323).
 
-Dos ejemplos de este tipo de promoción serían "Compre un pantalón y gane 10% de descuento en la compra de un cinturón" y "Compre un par de zapatos + un par de calcetines y gane 15% de descuento".
+## Más por menos
 
-Para entender la promoción Comprar Juntos con más detalle, consulte el artículo [Crear la promoción Comprar Juntos](/es/tutorial/comprar-juntos--tutorials_323).
+La promoción **Más por menos** se utiliza para conceder un descuento cuando el cliente agrega varias unidades de un mismo producto al carrito. 
+**Ejemplo:** “Compra 3 y paga 2”.
 
-### Más por Menos
+En la configuración de esta promoción, define los **SKUs** o **colecciones** participantes, el número de productos que el cliente debe comprar y la cantidad de productos que recibirán el descuento.
 
-La promoción Más por Menos se utiliza para otorgar un descuento cuando el cliente agrega varias unidades del mismo producto al carrito. Un ejemplo clásico de esta promoción sería "Lleve 4 y pague 3".
+La pantalla muestra los siguientes campos:
 
-En la configuración de la promoción Más por Menos, la tienda debe definir a qué colecciones o SKUs se aplicará. Luego, elija el número de ítems en el carrito para que funcione y el número de ítems con descuento.
+- **El cliente compra [X] de los siguientes productos:** cantidad mínima requerida. 
+- **SKUs:** agrega hasta 100 SKUs manualmente o mediante plantilla. 
+- **Colecciones:** selecciona una colección de productos para facilitar la aplicación de la promoción. 
+- **El cliente se lleva [Y] de los productos con:** define cuántos productos entre los agregados recibirán descuento. 
+- **Descuento de:** selecciona el tipo de descuento, ya sea **porcentual** o **valor fijo** e ingresa el valor.
 
-![Más por menos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/promociones/promociones-para-escenarios-especificos_2.png)
+### Configuración avanzada
+Los ajustes avanzados permiten definir cómo se aplicará el descuento a los productos seleccionados. Llena los campos y elige las opciones que se ajusten a las reglas de la promoción:
 
-Por ejemplo:
+- **Se debe aplicar el descuento**
+    - **Cualquier ítem:** aplica el descuento a cualquier ítem dentro de los criterios configurados. Los ítems no necesitan ser iguales entre sí. 
+    - **Solo para ítems iguales:** el descuento solo se aplica cuando los ítems son idénticos (mismo SKU).
+- **Productos más baratos:** el descuento se aplica a los productos de menor valor.
+- **Productos más caros:** el descuento se aplica a los productos de mayor valor.
 
-- Por cada `3` productos, el cliente llevará `1` producto `gratis`.
-- Por cada `5` productos, el cliente llevará `2` productos `con descuento` del `30%`.
+Para más información, consulta [Crear promoción Más por menos](https://help.vtex.com/es/tutorial/leve-mais-por-menos--tutorials_325).
 
-Para comprender la promoción Más por Menos con más detalle, consulte el artículo [Crear promoción Más por Menos](/es/tutorial/crear-promocion-mas-por-menos--tutorials_325).
+## Descuento progresivo
 
-### Descuento Progresivo
+La promoción **Descuento progresivo** otorga porcentajes de descuento que aumentan conforme el cliente agrega productos elegibles al carrito.
 
-La promoción de Descuento Progresivo se utiliza cuando la tienda desea ofrecer un porcentaje de descuento para una cierta cantidad de productos ingresados en el carrito.
+**Ejemplo:** Si el cliente compra 5 kg de alimento para mascotas, recibe un **5%** de descuento. Si agrega 5 kg más, recibe un **10%**.
 
-Un ejemplo sería: “Al comprar 5 kg de alimento para mascotas, reciba 5% de descuento. Agregue 5 kg más y reciba 10% más”.
+En la configuración, define los **SKUs** o **colecciones** participantes y establece rangos de cantidad con sus respectivos porcentajes de descuento.
 
-Al configurar la promoción de Descuento Progresivo, la tienda debe definir a qué colecciones o SKUs se aplicará. Luego, elija la primera cantidad y el primer descuento aplicado. Por ejemplo: para los primeros `3` ítems, el cliente recibirá un descuento del `5%`.
+- **SKUs:** selecciona los productos específicos que recibirán el descuento progresivo. 
+- **Colecciones:** elige colecciones de productos para aplicar la regla en grupo. 
+- **Considerar solamente ítems iguales:** esta opción limita el descuento a productos idénticos, considerando solo la cantidad de un mismo SKU en el carrito. Si los SKUs son diferentes, aunque pertenezcan a la misma colección, no son elegibles.
+- **Agregar rango:** haz clic en `+` para crear nuevos niveles de cantidad y descuento (hasta 10 rangos posibles).
 
-Para continuar la progresión del descuento, haga clic en el botón "+". Se agregará una nueva línea y, entonces, podrá agregar un nuevo descuento. Por ejemplo: para los siguientes 2 productos, el cliente recibirá un descuento adicional del 5%. Y así sucesivamente.
+![Descuento progresivo – PT](descuento-progresivo_1.gif)
 
-![Desconto progressivo - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/promociones/promociones-para-escenarios-especificos_3.png)
+Para más información, consulta [Cómo funciona la promoción Descuento progresivo](https://help.vtex.com/es/tutorial/desconto-progressivo--tutorials_324).
 
-Para entender la promoción del Descuento Progresivo con más detalle, vea el artículo [Cómo el Descuento Progresivo funciona](/es/tutorial/descuento-progresivo--tutorials_324).
+## Compra uno y lleva uno gratis
+La promoción **Compra uno y lleva uno gratis** otorga envío gratis, un regalo o la opción de establecer un **precio máximo por ítem** cada vez que el cliente agregue los productos elegibles al carrito, según las reglas configuradas.
 
-### Compre y Gane
+**Ejemplos:**
+-  El cliente compra una televisión y recibe envío gratis. 
+-  El cliente compra una consola de videojuegos y recibe un juego gratis.
 
-La promoción Compre y Gane se utiliza para ofrecer flete gratis o un regalo si se compra un determinado producto. Por ejemplo, "compre un televisor y no pague el envío" o "compre un videojuego y gane un juego".
+![Compra uno y lleva uno gratis – ES](como-funciona-la-promocion-compre-y-gane_1.gif)
 
-El descuento aplicado (flete gratis o regalo) debe definirse en los datos generales de la promoción. Luego, la tienda debe elegir las colecciones o SKUs a los que se aplicará. Finalmente, debe definir la cantidad mínima de ítems en el carrito para que la promoción funcione.
+La pantalla de configuración permite definir las condiciones de la compra y el beneficio otorgado.
 
-![Compre e Ganhe - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/promociones/promociones-para-escenarios-especificos_4.png)
+- **Si el cliente compra:**
+    - **SKUs:** ingresa el nombre o ID de los productos participantes.
+    - **Colecciones:** agrega las colecciones elegibles.
+    - **Cantidad mínima:** define la cantidad de ítems necesarios. 
+    - **Considerar solamente ítems iguales:** si activas esta opción, la promoción solo se aplicará cuando los productos sean idénticos.
 
-Para entender la promoción Compre y Gane con más detalle, vea el artículo [Cómo funciona la promoción Compre y Gane](/es/tutorial/compre-y-gane--tutorials_322).
+- **Selecciona el beneficio que el cliente obtiene:**
+    -  **Envío gratis:**
+        - Todas las opciones de envío.
+        - Solo al envío más barato. 
+        - Tipo de envío específico.
+    - **Regalo:**
+         - Selecciona los SKUs de regalo.
+         - Define la cantidad máxima de regalos. 
+         - Elige entre **un regalo por carrito** o **uno por ítem elegible**.
+         - **Precio máximo:** limita el valor de los productos que pueden activar la promoción.
 
-### Límite de ítems con promoción en el carrito  
+> ⚠️ Una promoción Compra uno y lleva uno gratis permite configurar hasta 100 SKUs diferentes simultáneamente.
 
-Esta configuración define cuántos ítems del carrito serán objeto de la promoción.
+Para más información, consulta [Cómo funciona la promoción Compra uno y lleva uno gratis](https://help.vtex.com/es/tutorial/compre-e-ganhe--tutorials_322).
 
-> ⚠️ Es importante señalar que esta posibilidad es **válida apenas para una promoción regular con descuento porcentual.**
+## Promoción de campaña
 
-Después de rellenar todos [los campos de una promoción regular](/es/tutorial/regular-promotion--tutorials_327) con descuento porcentual, puede seleccionar la opción __Definir la cantidad máxima de ítems afectados por carrito__ en la sección __Restricciones y limitaciones de uso__.
+La **Promoción de campaña** permite crear promociones dirigidas a audiencias específicas, ofreciendo beneficios como **envío gratis**, **regalos** y **tablas de precios promocionales**.
 
-![Limite itens - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/promociones/promociones-para-escenarios-especificos_5.png)
+Este tipo de promoción está asociada a una [audiencia de campaña](https://help.vtex.com/es/docs/tutorials/criar-audiencia-de-campanhas), que define el público objetivo elegible para la oferta.  
 
-Por defecto, la opción __ilimitado__ está activa, aplicando la promoción a todos los ítems del carrito, como se ilustra en el siguiente diagrama:
+> ❗Las audiencias de campaña y sus promociones solo son válidas para la cuenta principal de la tienda. Las cuentas de sellers no ofrecen esta funcionalidad.
 
-![Caso ilimitado ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/promociones/promociones-para-escenarios-especificos_6.png)
+Para más información, consulta [Crear una promoción de campaña](https://help.vtex.com/es/docs/tutorials/promocion-de-campana).
 
-Para restringir el número de ítems del carrito que recibirán el descuento, puede elegir una de las siguientes opciones:
+## Restricciones de uso
 
-- __Ítems por carrito__: esta configuración limita la aplicación de la promoción a un número de ítems del carrito. Una vez alcanzado el límite, la promoción no se aplicará al resto del carrito. El sistema utiliza el precio como criterio de elección, por lo que los ítems con el precio más bajo serán los primeros en ser afectados.
+La sección Restricciones está presente en todos los tipos de promociones. Consulta a continuación los tipos de restricciones y su descripción.
 
-![Caso por itens ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/promociones/promociones-para-escenarios-especificos_7.png)
+- **Limitar el uso de las promociones en la tienda:** marca esta opción para definir la cantidad máxima de veces que la promoción puede utilizarse.  
 
-- __Ítems por producto__: esta configuración limita la promoción a un número de unidades de cada producto. Como en el siguiente ejemplo, apenas dos unidades por producto serán elegibles para la promoción. El precio más bajo define qué ítems de cada producto son elegibles para la promoción.
+- **Limitar uso de la promoción por cliente:** marca esta opción para restringir las veces que cada cliente puede usar la promoción.  
 
-![Caso por produto ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/promociones/promociones-para-escenarios-especificos_8.png)
+- **Limitar la cantidad máxima de ítems elegibles:** restringe el número máximo de ítems por pedido que pueden recibir el descuento de la promoción. El comportamiento de esta configuración varía según la opción seleccionada en la promoción [Compra uno y lleva uno gratis](#compra-uno-y-lleva-uno-gratis).  
 
-- __Ítems por SKU__: esta configuración limita la promoción a un número de unidades por cada SKU en el carrito. Como en el siguiente ejemplo, apenas dos unidades de cada SKU serán elegibles para la promoción. Como en el caso anterior, será el precio más bajo el que defina los ítems elegibles para la promoción.
+  - Para condiciones de descuento de tipo **Valor fijo**, **Valor fijo: fórmula** y **Precio máximo por ítem**, el límite se aplica al total de ítems del carrito. 
 
-![Caso por SKU ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/promociones/promociones-para-escenarios-especificos_9.png)
+ - Para condiciones de **Descuento porcentual**, puedes definir si el límite se aplicará por carrito, producto o SKU. Para más información sobre descuentos bajo estas condiciones, consulta [Promoción Regular](https://help.vtex.com/es/docs/tutorials/registro-promocion-regular).
+
+ La siguiente tabla muestra los tipos de promoción en que cada restricción puede aplicarse:
+
+| Tipo de promoción | Límite de uso en la tienda | Límite de uso por cliente | Límite de ítems elegibles |
+| :---- | :---: | :---: | :---: |
+| **Regular** | sí | sí | no |
+| **Comprar juntos** | sí | sí | no |
+| **Más por menos** | sí | sí | sí |
+| **Descuento progresivo** | sí | sí | sí |
+| **Compra uno y lleva uno gratis** | sí | sí | no |
+| **Campaña** | sí | sí | no |
