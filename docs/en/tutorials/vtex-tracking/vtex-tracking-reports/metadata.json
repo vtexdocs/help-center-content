@@ -1,6 +1,6 @@
 {
-  "id": "reports",
-  "name": "Reports",
-  "slug": "reports-subcategory",
+  "id": "vtex-tracking-reports",
+  "name": "VTEX Tracking reports",
+  "slug": "vtex-tracking-reports-subcategory",
   "order": 5
 }

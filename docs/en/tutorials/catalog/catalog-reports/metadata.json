@@ -1,6 +1,6 @@
 {
-  "id": "reports",
-  "name": "Reports",
-  "slug": "reports-subcategory",
+  "id": "catalog-reports",
+  "name": "Catalog reports",
+  "slug": "catalog-reports-subcategory",
   "order": 12
 }
