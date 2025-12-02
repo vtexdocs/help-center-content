@@ -1,6 +1,6 @@
 {
-  "id": "reports",
-  "name": "Reports",
-  "slug": "reports-subcategory",
+  "id": "indeva-reports",
+  "name": "Indeva reports",
+  "slug": "indeva-reports-subcategory",
   "order": 14
 }
