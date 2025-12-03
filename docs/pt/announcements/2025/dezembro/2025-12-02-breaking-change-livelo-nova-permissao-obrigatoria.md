@@ -18,7 +18,7 @@ Para melhorar a segurança de acessos e fortalecer os controles de permissão, i
 
 Caso o acesso **Access the Marketplace Network** não esteja ativo, sempre que o usuário acessar a integração da Livelo será apresentada uma mensagem de erro conforme imagem abaixo:
 
-![breaking-change-livelo-nova-permissao-de-acesso-obrigatoria-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2025/dezembro/2025-12-02-breaking-change-livelo-new-mandatory-access-permission_1.png)
+![breaking-change-livelo-nova-permissao-de-acesso-obrigatoria-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs\pt\announcements\2025\dezembro\025-12-02-breaking-change-livelo-new-mandatory-access-permission_1.png)
 
 ## O que precisa ser feito?
 
@@ -31,4 +31,4 @@ Para adicionar o acesso a um usuário, siga os passos abaixo:
 3. Na seção **UI resources**, localize e marque a opção **Access the Marketplace Network**.
 4. Clique em **Salvar** para aplicar as alterações.
 
-![breaking-change-livelo-nova-permissao-de-acesso-obrigatoria-2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2025/dezembro/2025-12-02-breaking-change-livelo-new-mandatory-access-permission_2.png)
+![breaking-change-livelo-nova-permissao-de-acesso-obrigatoria-2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs\pt\announcements\2025\dezembro\025-12-02-breaking-change-livelo-new-mandatory-access-permission_2.png)
