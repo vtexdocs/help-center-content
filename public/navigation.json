@@ -18427,7 +18427,7 @@
         {
           "name": {
             "en": "Catalog",
-            "es": "Catalogo",
+            "es": "Catálogo",
             "pt": "Catálogo"
           },
           "slug": {
@@ -19515,14 +19515,14 @@
             },
             {
               "name": {
-                "en": "Reports",
-                "es": "Informes",
-                "pt": "Relatórios"
+                "en": "Catalog Reports",
+                "es": "Catálogo Informes",
+                "pt": "Catálogo Relatórios"
               },
               "slug": {
-                "en": "reports-subcategory",
-                "es": "informes-subcategoria",
-                "pt": "relatórios-subcategoria"
+                "en": "catalog-reports-subcategory",
+                "es": "catalogo-informes-subcategoria",
+                "pt": "catálogo-relatórios-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -21776,14 +21776,14 @@
             },
             {
               "name": {
-                "en": "Reports",
-                "es": "Informes",
-                "pt": "Relatórios"
+                "en": "Indeva Reports",
+                "es": "Informes de Indeva",
+                "pt": "Relatórios Indeva"
               },
               "slug": {
-                "en": "reports-subcategory",
-                "es": "informes-subcategoria",
-                "pt": "relatórios-subcategoria"
+                "en": "indeva-reports-subcategory",
+                "es": "informes-de-indeva-subcategoria",
+                "pt": "relatórios-indeva-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -29919,6 +29919,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Worldline Global Collect",
+                    "es": "Configurar pago con Worldline Global Collect",
+                    "pt": "Configurar pagamento com Worldline Global Collect"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-worldline-global-collect",
+                    "es": "configurar-pago-con-worldline-global-collect",
+                    "pt": "configurar-pagamento-com-worldline-global-collect"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Worldline Global Online Pay",
                     "es": "Configurar pago con Worldline Global Online Pay",
                     "pt": "Configurar pagamento com Worldline Global Online Pay"
@@ -36675,14 +36690,14 @@
             },
             {
               "name": {
-                "en": "Reports",
-                "es": "Informes",
-                "pt": "Relatórios"
+                "en": "VTEX Tracking Reports",
+                "es": "VTEX Tracking Informes",
+                "pt": "Relatórios VTEX Tracking"
               },
               "slug": {
-                "en": "reports-subcategory",
-                "es": "informes-subcategoria",
-                "pt": "relatórios-subcategoria"
+                "en": "vtex-tracking-reports-subcategory",
+                "es": "vtex-tracking-informes-subcategoria",
+                "pt": "relatórios-vtex-tracking-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -44764,6 +44779,21 @@
             },
             {
               "name": {
+                "en": "Checkout UI allows Payment with incomplete invoice address in pickup flow (inconsistent invoiceData)",
+                "es": "Checkout UI permite el pago con dirección de factura incompleta en el flujo de recogida (invoiceData inconsistente)",
+                "pt": "A interface do usuário do checkout permite o pagamento com endereço de fatura incompleto no fluxo de retirada (invoiceData inconsistente)"
+              },
+              "slug": {
+                "en": "checkout-ui-allows-payment-with-incomplete-invoice-address-in-pickup-flow-inconsistent-invoicedata",
+                "es": "checkout-ui-permite-el-pago-con-direccion-de-factura-incompleta-en-el-flujo-de-recogida-invoicedata-inconsistente",
+                "pt": "a-interface-do-usuario-do-checkout-permite-o-pagamento-com-endereco-de-fatura-incompleto-no-fluxo-de-retirada-invoicedata-inconsistente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Checkout UI changes the selected address when more than 1 address available",
                 "es": "La interfaz de usuario de la caja cambia la dirección seleccionada cuando hay más de 1 dirección disponible.",
                 "pt": "A interface de usuário do checkout altera o endereço selecionado quando há mais de um endereço disponível"
@@ -46384,6 +46414,21 @@
             },
             {
               "name": {
+                "en": "Place Order from Exisiting Cart ignores tax service response validation when isMarketplaceResponsibleForTaxes flag is true on taxConfiguration",
+                "es": "Place Order from Exisiting Cart ignora la validación de la respuesta del servicio de impuestos cuando la bandera isMarketplaceResponsibleForTaxes es verdadera en taxConfiguration",
+                "pt": "Fazer pedido de um carrinho existente ignora a validação da resposta do serviço de impostos quando o sinalizador isMarketplaceResponsibleForTaxes é verdadeiro em taxConfiguration"
+              },
+              "slug": {
+                "en": "place-order-from-exisiting-cart-ignores-tax-service-response-validation-when-ismarketplaceresponsiblefortaxes-flag-is-true-on-taxconfiguration",
+                "es": "place-order-from-exisiting-cart-ignora-la-validacion-de-la-respuesta-del-servicio-de-impuestos-cuando-la-bandera-ismarketplaceresponsiblefortaxes-es-verdadera-en-taxconfiguration",
+                "pt": "fazer-pedido-de-um-carrinho-existente-ignora-a-validacao-da-resposta-do-servico-de-impostos-quando-o-sinalizador-ismarketplaceresponsiblefortaxes-e-verdadeiro-em-taxconfiguration"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "PlaceOrder generating wrong discount and shipping values between items that appear more than once",
                 "es": "PlaceOrder generando valores de descuento y envío erróneos entre artículos que aparecen más de una vez.",
                 "pt": "PlaceOrder gerando desconto errado e valores de envio entre itens que aparecem mais de uma vez"
@@ -47037,6 +47082,21 @@
                 "en": "shipping-step-with-postal-code-does-not-work-for-some-countries-united-arab-emirates",
                 "es": "el-paso-de-envio-con-codigo-postal-no-funciona-para-algunos-paises-emiratos-arabes-unidos",
                 "pt": "a-etapa-de-envio-com-codigo-postal-nao-funciona-em-alguns-paises-emirados-arabes-unidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopper is redirect to gatewayCallback/{orderGroup}/Success instead of placeOrder page",
+                "es": "El comprador es redirigido a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder",
+                "pt": "O comprador é redirecionado para a página gatewayCallback/{orderGroup}/Success em vez da página placeOrder"
+              },
+              "slug": {
+                "en": "shopper-is-redirect-to-gatewaycallbackordergroupsuccess-instead-of-placeorder-page",
+                "es": "el-comprador-es-redirigido-a-gatewaycallbackordergroupsuccess-en-lugar-de-a-la-pagina-placeorder",
+                "pt": "o-comprador-e-redirecionado-para-a-pagina-gatewaycallbackordergroupsuccess-em-vez-da-pagina-placeorder"
               },
               "origin": "",
               "type": "markdown",
