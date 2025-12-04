@@ -47,8 +47,10 @@ La oración puede terminar con dos puntos o un punto.
 
 | ✅ Correcto | ❌ Incorrecto |
 | :---- | :---- |
-| Para gestionar las categorías de productos de tu tienda sigue los pasos a continuación: Accede al Admin VTEX. … | Pasos para gestionar las categorías de productos de tu tienda. Primero, accede al Admin VTEX. … |
-| Instala las dependencias del proyecto para ejecutarlo localmente, siguiendo las instrucciones a continuación. > ⚠️ Asegúrate de que tu proyecto cumpla todos los prerrequisitos descritos en la sección [Antes de comenzar]. 1. Abre el terminal y ejecuta `yarn install`. 2. … | Instalar las dependencias del proyecto: > ⚠️ Debes verificar que tu proyecto tenga todos los prerrequisitos descritos en la sección [Antes de comenzar]. Ejecuta `yarn install`. … |
+| Para gestionar las categorías de productos de tu tienda sigue los pasos a continuación: Accede al Admin VTEX. … | Pasos para gestionar las categorías de productos de tu tienda. Primero, accede al Admin VTEX. … | Instalar las dependencias del proyecto:|
+| ⚠️ Asegúrate de que tu proyecto cumpla todos los prerrequisitos descritos en la sección [Antes de comenzar].| ⚠️ Debes verificar que tu proyecto tenga todos los prerrequisitos descritos en la sección [Antes de comenzar].|
+| 1. Abre el terminal y ejecuta `yarn install`. | Ejecuta `yarn install`.|
+| 2. ... | 2. ...|
 
 ## Contenido
 
@@ -56,41 +58,51 @@ Al inicio de los procedimientos, utiliza **Antes de empezar** como título.
 
 | ✅ Correcto | ❌ Incorrecto |
 | :---- | :---- |
-| ## Antes de empezar | ## Antes de comenzar |
+| Antes de empezar | Antes de comenzar |
 
 Cada fila de la guía debe corresponder a una acción que el usuario debe realizar.
 
 | ✅ Correcto | ❌ Incorrecto |
 | :---- | :---- |
-| Agrega un nombre a la categoría. Haz clic en "Guardar". Regresa a la página **Categorías**. | Agrega el nombre de la categoría, haz clic en "Guardar" y regresa a la página **Categorías**. |
+| 1. Agrega un nombre a la categoría. | 1. Agrega el nombre de la categoría, haz clic en "Guardar" y regresa a la página **Categorías**. |
+| 2. Haz clic en "Guardar". |  |
+| 3. Regresa a la página **Categorías**. |  |
 
 Explica los conceptos por separado (por ejemplo, en los callouts o en la introducción) y evita utilizar pasos exclusivamente para explicar conceptos.
 
 | ✅ Correcto | ❌ Incorrecto |
 | :---- | :---- |
-| Los workspaces de desarrollo permiten vincular, publicar e instalar aplicaciones. Para crear un workspace de desarrollo sigue los pasos a continuación: Inicia sesión en la cuenta VTEX deseada. Crea un workspace de desarrollo ejecutando el comando `vtex use {workspaceName}`. | Los workspaces de desarrollo permiten vincular, publicar e instalar aplicaciones. Para crear un workspaces de desarrollo, inicia sesión en tu cuenta VTEX. Crea un workspace de desarrollo ejecutando el comando `vtex use {workspaceName}`. |
+| Los workspaces de desarrollo permiten vincular, publicar e instalar aplicaciones. Para crear un workspace de desarrollo sigue los pasos a continuación: | 1. Los workspaces de desarrollo permiten vincular, publicar e instalar aplicaciones. Para crear un workspaces de desarrollo, inicia sesión en tu cuenta VTEX.| 
+| 1. Inicia sesión en la cuenta VTEX deseada. | 2. Crea un workspace de desarrollo ejecutando el comando `vtex use {workspaceName}`.
+| 2. Crea un workspace de desarrollo ejecutando el comando `vtex use {workspaceName}`. |  |
 
 | ✅ Correcto | ❌ Incorrecto |
 | :---- | :---- |
-| Abre el terminal. Inicia un servidor de desarrollo local para alojar tu sitio web ejecutando `faststore dev`. > ℹ️ El comando `faststore dev`, parte de la [CLI de FastStore](https://developers.vtex.com/docs/guides/faststore/getting-started-3-faststore-cli), actualiza el proyecto de la tienda con el paquete `@faststore/core`. | Abre un terminal. Inicia un servidor de desarrollo local para alojar tu sitio web ejecutando `faststore dev`. El comando `faststore dev`, parte de la [CLI de FastStore](https://developers.vtex.com/docs/guides/faststore/getting-started-3-faststore-cli), actualiza su proyecto de tienda con el paquete `@faststore/core`. |
+| 1. Abre el terminal. | 1. Abre un terminal. |
+| Inicia un servidor de desarrollo local para alojar tu sitio web ejecutando `faststore dev`. | 2. Inicia un servidor de desarrollo local para alojar tu sitio web ejecutando `faststore dev`.|
+| ℹ️ El comando `faststore dev`, parte de la [CLI de FastStore](https://developers.vtex.com/docs/guides/faststore/getting-started-3-faststore-cli), actualiza el proyecto de la tienda con el paquete `@faststore/core`.| 3. El comando `faststore dev`, parte de la [CLI de FastStore](https://developers.vtex.com/docs/guides/faststore/getting-started-3-faststore-cli), actualiza su proyecto de tienda con el paquete `@faststore/core`. |
 
 Incluye todas las acciones necesarias. No omitas ningún paso ni asumas que el usuario ya conoce un paso específico.
 
 | ✅ Correcto | ❌ Incorrecto |
 | :---- | :---- |
-| Ingresa **install**. Presiona `Enter` para iniciar la instalación. | 1. Ingresa **install**.*(Supone que el usuario sabe presionar* `*Enter*`*)* |
+| 1. Ingresa **install**. Presiona `Enter` para iniciar la instalación. | 1. Ingresa **install**. *(Supone que el usuario sabe presionar* `*Enter*`*)* |
 
 Si alguno de los pasos es demasiado extenso, divídelo en varios. También puedes combinar acciones pequeñas en un solo paso usando corchetes angulares (>) para seleccionar menús secuenciales.
 
 | ✅ Correcto | ❌ Incorrecto |
 | :---- | :---- |
-| Accede a **Catálogo > Atributos personalizados de producto > Tipos de servicio**. | Accede a **Catálogo**. Ve a **Atributos personalizados de producto**. Luego a **Tipos de servicio**. |
+| 1. Accede a **Catálogo > Atributos personalizados de producto > Tipos de servicio**. | 1. Accede a **Catálogo**. 
+|  | 2. Ve a **Atributos personalizados de producto**. |
+|  | 3. Luego a **Tipos de servicio**. |
 
 Mantén el tiempo verbal consistente a lo largo del tutorial.
 
 | ✅ Correcto | ❌ Incorrecto |
 | :---- | :---- |
-| 1. Configura el stock. 2. Ingresa un nombre. 3. Haz clic en `Guardar`. | 1. Configuración de stock. 2. Ingresa un nombre. 3. Haz clic en `Guardar`. |
+| 1. Configura el stock. | 1. Configuración de stock. |
+| 2. Ingresa un nombre. | 2. Ingresa un nombre. |
+| 3. Haz clic en `Guardar`. | 3. Haz clic en `Guardar`. |
 
 Indica el propósito de la acción y dónde debe realizarse.
 
@@ -148,7 +160,8 @@ Evite usar lenguaje direccional que haga referencia al diseño visual (p. ej., "
 
 | ✅ Correcto | ❌ Incorrecto |
 | :---- | :---- |
-| Haz clic en el menú ☰. En el siguiente diagrama,... | Haz clic en el botón con tres líneas. En el diagrama de abajo, … |
+| 1. Haz clic en el menú ☰. | 1. Haz clic en el botón con tres líneas. |
+| 2. En el siguiente diagrama, ... | 2. En el diagrama de abajo, ... |
 
 > ⚠️ Al mencionar elementos de la interfaz del Admin que contengan texto, transcribe el texto tal como aparece en la interfaz, conservando las mayúsculas y minúsculas. Para más información, consulta [Interfaces de computadora](/TBD).
 
@@ -166,7 +179,13 @@ Los pasos secundarios dividen las instrucciones complejas en acciones secuencial
 
 | ✅ Correcto | ❌ Incorrecto |
 | :---- | :---- |
-| Para agregar una instancia de VM sigue los pasos a continuación: Haz clic en "Crear instancia". Ingresa un *Nombre* para la instancia de VM y luego: Selecciona la *Región* en la que deseas implementar la instancia de VM. Selecciona el *Tipo de máquina*. Haz clic en "Crear". Para conectarte a la instancia de VM mediante SSH, haz clic en `SSH`. | Para agregar una instancia de VM, haz lo siguiente: Haz clic en "Crear instancia". Ingresz un *Nombre* para la instancia de VM y luego: Selecciona la *Región* en la que deseas implementar la instancia de VM. Selecciona el *Tipo de máquina*. Haz clic en "Crear". Para conectarte a la instancia de VM mediante SSH, haz clic en `SSH`.  |
+| 1. Para agregar una instancia de VM sigue los pasos a continuación: | 1. Para agregar una instancia de VM, haz lo siguiente: |
+| a. Haz clic en "Crear instancia". |  a. Haz clic en "Crear instancia". |
+| b. Ingresa un *Nombre* para la instancia de VM y luego: | b. Ingresa un *Nombre* para la instancia de VM y luego: |
+| i. Selecciona la *Región* en la que deseas implementar la instancia de VM. | Selecciona la *Región* en la que deseas implementar la instancia de VM. |
+| ii. Selecciona el *Tipo de máquina*. | Selecciona el *Tipo de máquina*. |
+| c. Haz clic en "Crear". | Haz clic en "Crear". |
+| 2. Para conectarte a la instancia de VM mediante SSH, haz clic en `SSH`. | 2. Para conectarte a la instancia de VM mediante SSH, haz clic en `SSH`.  |
 
 #### Acciones no secuenciales
 
@@ -174,7 +193,12 @@ Para ítems independientes que no requieren una secuencia específica, utiliza u
 
 | ✅ Correcto | ❌ Incorrecto |
 | :---- | :---- |
-| Ve a **Configuración**. Completa los campos de la pantalla listados a continuación según sea necesario. … … … Haz clic en Guardar. | Ve a **Configuración**. Completa los campos de la pantalla listados a continuación según sea necesario. … … … 3. Haz clic en Guardar. |
+| 1. Ve a **Configuración**. | 1.  Ve a **Configuración**. |
+| 2. Completa los campos de la pantalla listados a continuación según sea necesario. | 2. Completa los campos de la pantalla listados a continuación según sea necesario. |
+| • … | a. … |
+| • … | b. … |
+| • … | c. … |
+| 3. Haz clic en Guardar. | 3. Haz clic en Guardar. |
 
 ### Formato
 
@@ -184,4 +208,7 @@ Para garantizar la claridad y mantener la fluidez, comprueba siempre que el cont
 
 | ✅ Correcto | ❌ Incorrecto |
 | :---- | :---- |
-| Accede al Admin VTEX. Ve a **Catálogo > Productos y SKUs**. ![Captura de pantalla de la interfaz de Productos y SKUs](/img-link). Haz clic en `Agregar producto`. | Accede al Admin VTEX. Ve a **Catálogo > Productos y SKUs**. ![Captura de pantalla de la interfaz de Productos y SKUs](/img-link). Haz clic en `Agregar producto`. |
+| 1. Accede al Admin VTEX. | Accede al Admin VTEX. |
+| 2. Ve a **Catálogo > Productos y SKUs**. | 2. Ve a **Catálogo > Productos y SKUs**. |
+| `Captura de pantalla de la interfaz de Productos y SKUs.` | `Captura de pantalla de la interfaz de Productos y SKUs.` |
+| 3. Haz clic en `Agregar producto`. | 1. Haz clic en `Agregar producto`. |

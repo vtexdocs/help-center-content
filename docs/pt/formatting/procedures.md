@@ -41,8 +41,13 @@ A frase pode terminar com dois-pontos ou ponto final.
 
 | ✅ Correto | ❌ Incorreto |
 | :---- | :---- |
-| Para gerenciar as categorias de produtos da loja, siga estes passos: Acesse o Admin VTEX.  … | Passos para gerenciar as categorias de produtos da sua loja. Primeiro, acesse o Admin VTEX. … |
-| Instale as dependências do projeto para executá-lo localmente, seguindo as instruções abaixo. > ⚠️ Certifique-se de que seu projeto tenha todos os pré-requisitos descritos na seção [Antes de começar]. 1. Abra o terminal e execute `yarn install`. 2. … | Instale as dependências do projeto: > ⚠️ Certifique-se de que seu projeto tenha todos os pré-requisitos descritos na seção [Antes de começar]. Execute `yarn install`. … |
+| Para gerenciar as categorias de produtos da loja, siga estes passos: | Passos para gerenciar as categorias de produtos da sua loja. |
+| 1. Acesse o Admin VTEX. | Primeiro, acesse o Admin VTEX. |
+| 2. ... | 2. ... |
+| Instale as dependências do projeto para executá-lo localmente, seguindo as instruções abaixo. | Instale as dependências do projeto: |
+| ⚠️ Certifique-se de que seu projeto tenha todos os pré-requisitos descritos na seção [Antes de começar]. | ⚠️ Certifique-se de que seu projeto tenha todos os pré-requisitos descritos na seção [Antes de começar]. |
+| 1. Abra o terminal e execute `yarn install`. | Execute `yarn install`. |
+| 2. ... | 2. ... |
 
 ## Conteúdo
 
@@ -50,17 +55,24 @@ Cada linha do passo a passo deve corresponder a uma ação que o usuário deve r
 
 | ✅ Correto | ❌ Incorreto |
 | :---- | :---- |
-| Adicione o nome da categoria. Clique em `Salvar`. Volte para a página **Categorias**. | Adicione o nome da categoria, clique em "Salvar" e volte para a página **Categorias**. |
+| 1. Adicione o nome da categoria. | 1. Adicione o nome da categoria, clique em "Salvar" e volte para a página **Categorias**. |
+| 2. Clique em `Salvar`. |  |
+| 3. Volte para a página **Categorias**. |  |
 
 Explique os conceitos separadamente (por exemplo: em callouts ou na introdução) e evite usar os passos exclusivamente para explicar conceitos.
 
 | ✅ Correto | ❌ Incorreto |
 | :---- | :---- |
-| Os workspaces de desenvolvimento permitem que você vincule, publique e instale aplicativos. Para criar um workspace de desenvolvimento, siga os passos abaixo: Faça login na conta VTEX desejada. Crie um workspace de desenvolvimento executando o comando `vtex use {workspaceName}`. | Os workspaces de desenvolvimento permitem que você vincule, publique e instale aplicativos. Para criar um workspace de desenvolvimento, faça login em uma conta VTEX. Crie um workspace de desenvolvimento executando o comando `vtex use {workspaceName}`. |
+| Os workspaces de desenvolvimento permitem que você vincule, publique e instale aplicativos. Para criar um workspace de desenvolvimento, siga os passos abaixo: | 1. Os workspaces de desenvolvimento permitem que você vincule, publique e instale aplicativos. Para criar um workspace de desenvolvimento, faça login em uma conta VTEX. |
+| 1. Faça login na conta VTEX desejada. |  2. Crie um workspace de desenvolvimento executando o comando `vtex use {workspaceName}`. |
+| 2. Crie um workspace de desenvolvimento executando o comando `vtex use {workspaceName}`. | |
 
 | ✅ Correto | ❌ Incorreto |
 | :---- | :---- |
-| Abra um terminal. Inicie um servidor de desenvolvimento local para hospedar seu site executando `faststore dev`. > ℹ️ O comando `faststore dev`, parte da [FastStore CLI](https://developers.vtex.com/docs/guides/faststore/getting-started-3-faststore-cli), atualiza o projeto da loja com o pacote `@faststore/core`. | Abra um terminal. Inicie um servidor de desenvolvimento local para hospedar seu site executando `faststore dev`. O comando `faststore dev`, parte do [FastStore CLI](https://developers.vtex.com/docs/guides/faststore/getting-started-3-faststore-cli), atualiza o projeto da sua loja com o pacote `@faststore/core`. |
+| 1. Abra um terminal. Inicie um servidor de desenvolvimento local para hospedar seu site executando `faststore dev`. | 1. Abra um terminal. |
+| ℹ️ O comando `faststore dev`, parte da [FastStore CLI](https://developers.vtex.com/docs/guides/faststore/getting-started-3-faststore-cli), atualiza o projeto da loja com o pacote `@faststore/core`.    | 2. Inicie um servidor de desenvolvimento local para hospedar seu site executando `faststore dev`. |
+|  | 3. O comando `faststore dev`, parte do [FastStore CLI](https://developers.vtex.com/docs/guides/faststore/getting-started-3-faststore-cli), atualiza o projeto da sua loja com o pacote `@faststore/core`.|
+
 
 Inclua todas as ações necessárias. Não pule etapas nem assuma que o usuário já conheça um determinado passo.
 
@@ -72,13 +84,17 @@ Se um passo for muito longo, divida-o em vários outros. Você também pode comb
 
 | ✅ Correto | ❌ Incorreto |
 | :---- | :---- |
-| Acesse **Catálogo > Atributos personalizados do produto > Tipos de serviço**. | Acesse **Catálogo**. Vá para **Atributos personalizados do produto**. Depois, vá para **Tipos de serviço**. |
+| 1. Acesse **Catálogo > Atributos personalizados do produto > Tipos de serviço**. | 1. Acesse **Catálogo**. |
+|  | 2. Vá para **Atributos personalizados do produto**. |
+|  | 3. Depois, vá para **Tipos de serviço**. |
 
 Mantenha a forma verbal consistente ao longo do passo a passo.
 
 | ✅ Correto | ❌ Incorreto |
 | :---- | :---- |
-| 1. Configure o inventário. 2. Informe seu nome. 3. Clique em `Salvar`. | 1. Configurando o inventário. 2. Preencher seu nome. 3. Clique em `Salvar`. |
+| 1. Configure o inventário. | 1. Configurando o inventário. |
+| 2. Informe seu nome. | 2. Preencher seu nome. |
+| 3. Clique em `Salvar`. | 3. Clique em `Salvar`. |
 
 Indique o objetivo da ação e onde ela deve ser realizada antes de indicá-la.
 
@@ -135,7 +151,8 @@ Evite usar linguagem direcional que faça referência ao layout visual (por exem
 
 | ✅ Correto | ❌ Incorreto |
 | :---- | :---- |
-| Clique no menu ☰. No diagrama a seguir,... | Clique no botão com três linhas. No diagrama abaixo, … |
+| 1. Clique no menu ☰. | 1. Clique no botão com três linhas. |
+| 2. No diagrama a seguir, ... | 2. No diagrama abaixo, ... |
 
 > ⚠️ Ao mencionar elementos da interface do Admin que tenham texto, transcreva o texto como aparece no Admin, mantendo as letras maiúsculas e minúsculas. Para mais informações, acesse [Interfaces de computador](/TBD).
 
@@ -153,7 +170,13 @@ Os passos secundários dividem instruções complexas em ações menores e seque
 
 | ✅ Correto | ❌ Incorreto |
 | :---- | :---- |
-| Para adicionar uma instância de VM, faça o seguinte: Clique em `Criar instância`. Insira um *Nome* para a instância de VM e depois: Selecione a *Região* que você deseja fazer o deploy da instância de VM. Selecione o *Tipo de máquina*.  Clique em `Criar`. Para se conectar à instância de VM usando SSH, clique em `SSH`. | Para adicionar uma instância de VM, faça o seguinte: Clique em `Criar instância`. Insira um *Nome* para a instância de VM e depois: Selecione a *Região* que você deseja fazer o deploy da instância de VM. Selecione o *Tipo de máquina*. Clique em `Criar`. Para se conectar à instância de VM usando SSH, clique em `SSH`.  |
+| 1. Para adicionar uma instância de VM, faça o seguinte: | 1. Para adicionar uma instância de VM, faça o seguinte: |
+| a. Clique em `Criar instância`. | a. Clique em `Criar instância`. |
+| b. Insira um *Nome* para a instância de VM e depois: | b. Insira um *Nome* para a instância de VM e depois: |
+| i. Selecione a *Região* que você deseja fazer o deploy da instância de VM. | c. Selecione a *Região* que você deseja fazer o deploy da instância de VM. |
+| ii. Selecione o *Tipo de máquina*. | d. Selecione o *Tipo de máquina*. |
+| c. Clique em `Criar`. | e. Clique em `Criar`. |
+| 3. Para se conectar à instância de VM usando SSH, clique em `SSH`. | 2. Para se conectar à instância de VM usando SSH, clique em `SSH`. |
 
 #### Ações não sequenciais
 
@@ -161,7 +184,12 @@ Para itens independentes que não exigem uma sequência específica, use uma lis
 
 | ✅ Correto | ❌ Incorreto |
 | :---- | :---- |
-| Vá para **Configurações**. Preencha os campos da tela listados abaixo, conforme necessário. … … … Clique em `Salvar`.  | Vá para **Configurações**. Preencha os campos da tela listados abaixo, conforme necessário. … … …        3. Clique em `Salvar`.  |
+| 1. Vá para **Configurações**. | 1. Vá para **Configurações**. |
+| 2. Preencha os campos da tela listados abaixo, conforme necessário. | 2. Preencha os campos da tela listados abaixo, conforme necessário. |
+| • ... | a. ... |
+| • ... | b. ... |
+| • ... | c. ... |
+| 3. Clique em `Salvar`. | 3. Clique em `Salvar`. |
 
 ### Formatação
 
@@ -171,4 +199,7 @@ Para garantir clareza e manter o fluxo, verifique sempre se o conteúdo inserido
 
 | ✅ Correto | ❌ Incorreto |
 | :---- | :---- |
-| Abra o Admin VTEX. Acesse **Catálogo > Produtos e SKUs**. ![Captura de tela da interface Produtos e SKUs](/img-link). Clique em `Adicionar produto`. | 1. Abra o Admin VTEX. 2. Acesse **Catálogo > Produtos e SKUs**. ![Captura de tela da interface Produtos e SKUs](/img-link). 1. Clique em `Adicionar produto`. |
+| 1. Abra o Admin VTEX. | 1. Abra o Admin VTEX. |
+| 2. Acesse **Catálogo > Produtos e SKUs**.  | 2. Acesse **Catálogo > Produtos e SKUs**. |
+| `Captura de tela da interface Produtos e SKUs.` | `Captura de tela da interface Produtos e SKUs.` |
+| 3. Clique em `Adicionar produto`. | 1. Clique em `Adicionar produto`. |

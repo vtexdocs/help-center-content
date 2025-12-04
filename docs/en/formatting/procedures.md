@@ -47,8 +47,14 @@ The sentence can end with a colon or a period.
 
 | ✅ Do | ❌ Don't |
 | :---- | :---- |
-| To manage store product categories, follow these steps: Access the VTEX Admin.  … | Steps to manage your store's product categories. First, access the VTEX Admin. … |
-| Install project dependencies to run it locally by following the instructions below. > ⚠️ Make sure your project has all the prerequisites described in the [Before you begin] section. 1. Open the terminal and run `yarn install`. 2. … | Install the project's dependencies: > ⚠️ You must check that your project has all the prerequisites described in the [Before you begin] section. Run `yarn install`. … |
+| To manage store product categories, follow these steps: | Steps to manage your store's product categories.
+| 1. Access the VTEX Admin. | First, access the VTEX Admin.
+| 2. …   … | 2. …
+| Install project dependencies to run it locally by following the instructions below. | Install the project's dependencies:
+| ⚠️ Make sure your project has all the prerequisites described in the [Before you begin] section. | ⚠️ You must check that your project has all the prerequisites described in the [Before you begin] section.
+| 1. Open the terminal and run `yarn install`. | Run `yarn install`. … |
+| 2. ... | 2. ...
+
 
 ## Content
 
@@ -56,41 +62,51 @@ When starting a procedure, use **Before you begin** as the title.
 
 | ✅ Do | ❌ Don't |
 | :---- | :---- |
-| ## Before you begin | ## Before you start |
+| Before you begin | Before you start |
 
 Each line of the procedure must correspond to an action to be taken by the user.
 
 | ✅ Do | ❌ Don't |
 | :---- | :---- |
-| Add the category name. Click `Save`. Go back to the **Categories** page. | Add the category name, click `Save`, and go back to the **Categories** page. |
+| 1. Add the category name. | 1. Add the category name, click `Save`, and go back to the **Categories** page. |
+| 2. Click `Save`. |
+| 3.Go back to the **Categories** page. | 
 
 Explain concepts separately (example: in callouts or introductory text) and avoid using steps in the procedure exclusively to explain concepts.
 
 | ✅ Do | ❌ Don't |
 | :---- | :---- |
-| Development workspaces allow you to link, publish, and install apps. To create a development workspace, follow these steps: Log in to the desired VTEX account. Create a development workspace by running the `vtex use {workspaceName}` command. | Development workspaces allow you to link, publish, and install apps. To create a Development workspace, log in to a VTEX account. Create a development workspace by running the `vtex use {workspaceName}` command. |
+| Development workspaces allow you to link, publish, and install apps. To create a development workspace, follow these steps: | 1. Development workspaces allow you to link, publish, and install apps. To create a Development workspace, log in to a VTEX account. |
+| 1. Log in to the desired VTEX account. | Create a development workspace by running the `vtex use {workspaceName}` command. |
+| 2. Create a development workspace by running the `vtex use {workspaceName}` command.  
 
 | ✅ Do | ❌ Don't |
 | :---- | :---- |
-| Open a terminal. Start a local development server to serve your website by running `faststore dev`. > ℹ️ The `faststore dev` command, part of the [FastStore CLI](https://developers.vtex.com/docs/guides/faststore/getting-started-3-faststore-cli), updates the store project with the `@faststore/core` package. | Open a terminal. Start a local development server to serve your website by running `faststore dev`.  The `faststore dev` command, part of the [FastStore CLI](https://developers.vtex.com/docs/guides/faststore/getting-started-3-faststore-cli), updates your store's project with the `@faststore/core` package. |
+| 1. Open a terminal. | 1. Open a terminal.
+| 2. Start a local development server to serve your website by running `faststore dev`. | Start a local development server to serve your website by running `faststore dev`.|
+| ℹ️ The `faststore dev` command, part of the [FastStore CLI](https://developers.vtex.com/docs/guides/faststore/getting-started-3-faststore-cli), updates the store project with the `@faststore/core` package. | 3. The `faststore dev` command, part of the [FastStore CLI](https://developers.vtex.com/docs/guides/faststore/getting-started-3-faststore-cli), updates your store's project with the `@faststore/core` package. |
 
 Include every required action. Don't skip steps or assume the user is already familiar with a particular step.
 
 | ✅ Do | ❌ Don't |
 | :---- | :---- |
-| Type **install**. Press `Enter` on your keyboard to start the installation. | 1. Type **install**. *(Assumes user knows to press `Enter`)* |
+| 1. Type **install**. Press `Enter` on your keyboard to start the installation. | 1. Type **install**. *(Assumes user knows to press `Enter`)* |
 
 If a step is too long, consider splitting it into multiple steps. You can also combine small actions into one step by using angle brackets (>) for sequential menu selections.
 
 | ✅ Do | ❌ Don't |
 | :---- | :---- |
-| Go to **Catalog > Custom Product Attributes > Service Types**. | Go to **Catalog**. Go to **Custom Product Attributes**. Go to **Service Types**. |
+| 1. Go to **Catalog > Custom Product Attributes > Service Types**. | 1.Go to **Catalog**. 
+|  | 2. Go to **Custom Product Attributes**. |
+|  | 3. Go to **Service Types**. |
 
 Keep the verbal tense consistent throughout procedures.
 
 | ✅ Do | ❌ Don't |
 | :---- | :---- |
-| 1. Configure inventory. 2. Enter your name. 3. Click `Save`. | 1. Configuring inventory. 2. To fill in your name. 3. Click `Save`. |
+| 1. Configure inventory. | 1. Configuring inventory. |
+| 2. Enter your name. | 2. To fill in your name. |
+| 3. Click `Save`. | 3. Click `Save`. |
 
 State the purpose of the action and its location before declaring the action.
 
@@ -147,7 +163,8 @@ Avoid using directional language that references the visual layout (example: "ab
 
 | ✅ Do | ❌ Don't |
 | :---- | :---- |
-| Click the ☰ menu. In the following diagram,... | Click the button with three lines. In the diagram below, … |
+| 1. Click the ☰ menu.  | 1. Click the button with three lines.|
+| 2. In the following diagram, ...  | In the diagram below, ...|
 
 > ⚠️ When mentioning elements of the Admin UI that contain text, reproduce the text as it appears in the Admin, including its capitalization. For more information, see [Computer interfaces](/TBD).
 
@@ -165,7 +182,13 @@ Sub-steps break down complex instructions into smaller, sequential actions that 
 
 | ✅ Do | ❌ Don't |
 | :---- | :---- |
-| To add a VM instance, do the following: Click `Create instance`. Enter a *Name* for the VM instance, and then: Select the *Region* where you want to deploy the VM instance. Select the *Machine type.*  Click `Create`. To connect to the VM instance using SSH, click `SSH`. | To add a VM instance, do the following: Click `Create instance`. Enter a *Name* for the VM instance, and then: Select the *Region* where you want to deploy the VM instance. Select the *Machine type.*  Click `Create`. To connect to the VM instance using SSH, click `SSH`.  |
+| 1. To add a VM instance, do the following: | 1. To add a VM instance, do the following: |
+| a. Click `Create instance`. |   a. Click `Create instance`.|
+| b. Enter a *Name* for the VM instance, and then: |   b. Enter a *Name* for the VM instance, and then:|
+| i. Select the *Region* where you want to deploy the VM instance. | c. Select the *Region* where you want to deploy the VM instance.|
+| ii. Select the *Machine type.* | d. Select the *Machine type.*|
+| c. Click `Create`. | e. Click `Create`.|
+| 2. To connect to the VM instance using SSH, click `SSH`. | 2. To connect to the VM instance using SSH, click `SSH`.
 
 #### Non-sequential actions
 
@@ -173,7 +196,12 @@ For independent items that don't require a specific sequential order, use a bull
 
 | ✅ Do | ❌ Don't |
 | :---- | :---- |
-| Go to **Settings**. Compete the screen fields listed below as needed. … … … Click `Save`.  | Go to **Settings**. Fill in the screen fields listed below according to your needs. … … …        3. Click `Save`.  |
+| 1. Go to **Settings**.| 1. Go to **Settings**.|
+| Complete the screen fields listed below as needed. |  Fill in the screen fields listed below according to your needs.|
+| • ... | a. ... |
+| • ... | b. ... |
+| • ... | c. ... |
+| Click `Save`. | 3. Click `Save`. |
 
 ### Formatting
 
@@ -183,4 +211,7 @@ To ensure clarity and maintain the flow, always check that the inserted content 
 
 | ✅ Do | ❌ Don't |
 | :---- | :---- |
-| Open the VTEX Admin. Go to **Catalog > Products and SKUs**. ![Screenshot of the Products and SKUs interface](/img-link). Click `Add product`. | 1. Open the VTEX Admin. 2. Navigate to **Catalog > Products and SKUs**. ![Screenshot of the Products and SKUs interface](/img-link). 1. Click `Add Product`. |
+| 1. Open the VTEX Admin.| 1. Open the VTEX Admin.
+| 2. Go to **Catalog > Products and SKUs**. | 2. Navigate to **Catalog > Products and SKUs**.
+| `Screenshot of the Products and SKUs interface.` | `Screenshot of the Products and SKUs interface.`
+|3. Click `Add product`. | 1. Click `Add Product.` |
