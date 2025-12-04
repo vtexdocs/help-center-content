@@ -11,7 +11,7 @@ slugEN: 2025-12-02-breaking-change-livelo-new-mandatory-access-permission
 locale: es
 legacySlug: 
 announcementImageID: 
-announcementSynopsisES: 'Nuevo permiso obligatorio para acceder a la aplicación Livelo en la versión 2.x del conector.'
+announcementSynopsisES: 'Nuevo permiso obligatorio para acceder a la aplicación Livelo en la versión 1.3.1 del conector.'
 ---
 
 > Contenido regional disponible solo para Brasil.
