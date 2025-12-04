@@ -46,7 +46,7 @@ A continuación se muestra una comparación entre ambos:
 
 ## Estructura de problemas conocidos
 
-![known-issue-article-overview](https://vtexhelp.vtexassets.com/assets/docs/src/known-issue-article-overview___e5746db32fe1bc696a82b4e1f4fff087.png)
+![known-issue-article-overview](https://raw.githubusercontent.com/vtexdocs/content-portal-content/refs/heads/main/images/es/known-issues-1.png?raw=true)
 
 | **Tema del artículo** | **Descripción** |
 | ----------------- | --------------- |
