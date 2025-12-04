@@ -1,5 +1,5 @@
 ---
-title: 'Documentación de producto: información general'
+title: 'Información general'
 id: edu0001-es
 status: PUBLISHED
 createdAt: 2025-11-25T19:24:22.388Z
@@ -8,10 +8,10 @@ publishedAt: 2025-11-25T19:24:22.388Z
 firstPublishedAt: 2025-11-25T19:24:22.388Z
 contentType: trackArticle
 productTeam: Education
-slugES: documentacion-de-producto-informacion-general
+slugES: información-general
 locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugES: documentacion-de-producto-informacion-general
+trackSlugES: información-general
 ---
 
 La documentación de VTEX está diseñada para proporcionar información clara y concisa a cualquier persona interesada en usar o integrar nuestros productos. Nuestro objetivo es empoderar a clientes y partners mediante recursos que faciliten el aprendizaje sobre la plataforma y el desarrollo de su negocio.
@@ -33,7 +33,7 @@ VTEX pone a tu disposición recursos tales como guías, tutoriales, rutas de apr
 
 En VTEX, nuestro objetivo al redactar documentación es hacer que todo sea lo más simple y claro posible para los usuarios que trabajan con soluciones VTEX o que están interesados ​​en ellas.
 
-Agradecemos las contribuciones a la documentación de VTEX y te invitamos a participar en la mejora continua de la experiencia de uso. Existen distintas maneras de colaborar, dependiendo del portal de documentación que te interese y del método que prefieras. Consulta nuestras [Directrices para contribuidores](https://contentguide.vtex.com/es/docs/documentation/contribution-guidelines) para más información.
+Agradecemos las contribuciones a la documentación de VTEX y te invitamos a participar en la mejora continua de la experiencia de uso. Existen distintas maneras de colaborar, dependiendo del portal de documentación que te interese y del método que prefieras. Consulta nuestras [Directrices de contribución](https://contentguide.vtex.com/es/docs/documentation/contribution-guidelines) para más información.
 
 ### Definir la estructura de la documentación
 

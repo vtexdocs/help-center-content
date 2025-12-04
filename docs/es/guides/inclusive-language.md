@@ -1,5 +1,5 @@
 ---
-title: 'Lenguaje neutro'
+title: 'Lenguaje inclusivo'
 id: guides0004-es
 status: PUBLISHED
 createdAt: 2025-08-13T19:24:22.388Z
@@ -8,10 +8,10 @@ publishedAt: 2025-08-13T19:24:22.388Z
 firstPublishedAt: 2025-08-13T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugES: lenguaje-neutro
+slugES: lenguaje-inclusivo
 locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugES: lenguaje-neutro
+trackSlugES: lenguaje-inclusivo
 ---
 
 Evitamos las marcas de género lo más posible sin afectar la claridad del contenido, con el objetivo de mantener una comunicación inclusiva, accesible y fluida. Sin embargo, cuando el contexto, por espacio, design u otras consideraciones, exige una forma marcada, utilizamos el masculino genérico como convención linguística.

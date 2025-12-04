@@ -1,5 +1,5 @@
 ---
-title: 'Pautas de naming de productos y funcionalidades'
+title: 'Naming de productos y funcionalidades'
 id: guides0001-es
 status: PUBLISHED
 createdAt: 2025-08-13T19:24:22.388Z
@@ -8,10 +8,10 @@ publishedAt: 2025-08-13T19:24:22.388Z
 firstPublishedAt: 2025-08-13T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugES: pautas-naming-productos-funcionalidades
+slugES: naming-de-productos-y-funcionalidades
 locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugES: pautas-naming-productos-funcionalidades
+trackSlugES: naming-de-productos-y-funcionalidades
 ---
 
 ## Objetivo

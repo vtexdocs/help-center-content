@@ -1,5 +1,5 @@
 ---
-title: 'Formatação de dados'
+title: 'Formatos de dados'
 id: ui0009-pt
 status: PUBLISHED
 createdAt: 2025-08-28T19:24:22.388Z

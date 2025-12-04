@@ -1,5 +1,5 @@
 ---
-title: 'Voz y tono'
+title: 'Tono de voz'
 id: guides0002-es
 status: PUBLISHED
 createdAt: 2025-08-13T19:24:22.388Z
@@ -8,10 +8,10 @@ publishedAt: 2025-08-13T19:24:22.388Z
 firstPublishedAt: 2025-08-13T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugES: voz-y-tono
+slugES: tono-de-voz
 locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugES: voz-y-tono
+trackSlugES: tono-de-voz
 ---
 
 La voz de VTEX representa **los elementos centrales de nuestra marca** en la manera en que nos expresamos. Asegura que cada mensaje transmita **la personalidad de VTEX** y respete nuestros estándares de calidad en todos los puntos de contacto.

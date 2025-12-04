@@ -1,5 +1,5 @@
 ---
-title: 'Directrices para contribuidores'
+title: 'Directrices de contribución'
 id: edu0003-es
 status: PUBLISHED
 createdAt: 2025-11-25T19:24:22.388Z
@@ -8,10 +8,10 @@ publishedAt: 2025-11-25T19:24:22.388Z
 firstPublishedAt: 2025-11-25T19:24:22.388Z
 contentType: trackArticle
 productTeam: Education
-slugES: directrices-para-contribuidores
+slugES: directrices-de-contribución
 locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugES: directrices-para-contribuidores
+trackSlugES: directrices-de-contribución
 ---
 
 Tu participación es clave para mejorar la experiencia de la documentación de VTEX. Existen distintas maneras de colaborar, dependiendo del portal de documentación que te interese y del método que prefieras. Esta guía describe las formas en que puedes contribuir para optimizar la documentación de VTEX:
