@@ -154,7 +154,7 @@ Evite usar linguagem direcional que faça referência ao layout visual (por exem
 | 1. Clique no menu ☰. | 1. Clique no botão com três linhas. |
 | 2. No diagrama a seguir, ... | 2. No diagrama abaixo, ... |
 
-> ⚠️ Ao mencionar elementos da interface do Admin que tenham texto, transcreva o texto como aparece no Admin, mantendo as letras maiúsculas e minúsculas. Para mais informações, acesse [Interfaces de computador](/TBD).
+> ⚠️ Ao mencionar elementos da interface do Admin que tenham texto, transcreva o texto como aparece no Admin, mantendo as letras maiúsculas e minúsculas. Para mais informações, acesse [Interfaces de usuário](https://contentguide.vtex.com/pt/docs/formatting/computer-interfaces).
 
 ### Passos secundários em instruções numeradas
 

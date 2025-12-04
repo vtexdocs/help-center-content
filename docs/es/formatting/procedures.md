@@ -163,7 +163,7 @@ Evite usar lenguaje direccional que haga referencia al diseño visual (p. ej., "
 | 1. Haz clic en el menú ☰. | 1. Haz clic en el botón con tres líneas. |
 | 2. En el siguiente diagrama, ... | 2. En el diagrama de abajo, ... |
 
-> ⚠️ Al mencionar elementos de la interfaz del Admin que contengan texto, transcribe el texto tal como aparece en la interfaz, conservando las mayúsculas y minúsculas. Para más información, consulta [Interfaces de computadora](/TBD).
+> ⚠️ Al mencionar elementos de la interfaz del Admin que contengan texto, transcribe el texto tal como aparece en la interfaz, conservando las mayúsculas y minúsculas. Para más información, consulta [Interfaces de usuario](https://contentguide.vtex.com/es/docs/formatting/computer-interfaces).
 
 ### Pasos secundarios en procedimientos numerados
 

@@ -33,7 +33,7 @@ At VTEX, we offer resources where you can find guides, tutorials, learning paths
 
 At VTEX, our goal for documentation is to make everything as simple and clear as possible for users working with or interested in VTEX solutions.
 
-We welcome contributions to VTEX documentation and encourage you to help improve the user experience. There are several ways to contribute, depending on the documentation portal you're interested in and your preferred method. Check our [Contribution Guidelines](https://contentguide.vtex.com/docs/documentation/contribution-guidelines) for more information.
+We welcome contributions to VTEX documentation and encourage you to help improve the user experience. There are several ways to contribute, depending on the documentation portal you're interested in and your preferred method. Check our [Contribution Guidelines](https://contentguide.vtex.com/en/docs/documentation/contribution-guidelines) for more information.
 
 ### Define the documentation structure
 

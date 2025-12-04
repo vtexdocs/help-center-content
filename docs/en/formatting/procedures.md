@@ -166,7 +166,7 @@ Avoid using directional language that references the visual layout (example: "ab
 | 1. Click the ☰ menu.  | 1. Click the button with three lines.|
 | 2. In the following diagram, ...  | In the diagram below, ...|
 
-> ⚠️ When mentioning elements of the Admin UI that contain text, reproduce the text as it appears in the Admin, including its capitalization. For more information, see [Computer interfaces](/TBD).
+> ⚠️ When mentioning elements of the Admin UI that contain text, reproduce the text as it appears in the Admin, including its capitalization. For more information, see [Computer interfaces](https://contentguide.vtex.com/en/docs/formatting/computer-interfaces).
 
 ### Sub-steps in numbered procedures
 

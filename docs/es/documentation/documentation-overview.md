@@ -33,7 +33,7 @@ VTEX pone a tu disposición recursos tales como guías, tutoriales, rutas de apr
 
 En VTEX, nuestro objetivo al redactar documentación es hacer que todo sea lo más simple y claro posible para los usuarios que trabajan con soluciones VTEX o que están interesados ​​en ellas.
 
-Agradecemos las contribuciones a la documentación de VTEX y te invitamos a participar en la mejora continua de la experiencia de uso. Existen distintas maneras de colaborar, dependiendo del portal de documentación que te interese y del método que prefieras. Consulta nuestras [Directrices para contribuidores](LINK) para más información.
+Agradecemos las contribuciones a la documentación de VTEX y te invitamos a participar en la mejora continua de la experiencia de uso. Existen distintas maneras de colaborar, dependiendo del portal de documentación que te interese y del método que prefieras. Consulta nuestras [Directrices para contribuidores](https://contentguide.vtex.com/es/docs/documentation/contribution-guidelines) para más información.
 
 ### Definir la estructura de la documentación
 

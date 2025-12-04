@@ -33,7 +33,7 @@ Na VTEX, oferecemos recursos onde você pode encontrar guias, tutoriais, trilhas
 
 Na VTEX, nosso objetivo com a documentação é torná-la o mais simples e clara possível para os usuários que trabalham com ou têm interesse em soluções VTEX.
 
-Aceitamos contribuições para a documentação da VTEX e incentivamos você a ajudar a melhorar a experiência do usuário. Existem várias maneiras de contribuir, dependendo do portal de documentação e do método que preferir. Consulte nossas [Diretrizes de contribuição](LINK) para mais informações.
+Aceitamos contribuições para a documentação da VTEX e incentivamos você a ajudar a melhorar a experiência do usuário. Existem várias maneiras de contribuir, dependendo do portal de documentação e do método que preferir. Consulte nossas [Diretrizes de contribuição](https://contentguide.vtex.com/pt/docs/documentation/contribution-guidelines) para mais informações.
 
 ### Defina a estrutura da documentação
 
