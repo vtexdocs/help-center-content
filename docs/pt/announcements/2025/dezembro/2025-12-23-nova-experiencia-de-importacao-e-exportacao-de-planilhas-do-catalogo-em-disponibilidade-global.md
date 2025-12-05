@@ -40,4 +40,4 @@ Nenhuma ação é necessária por parte dos lojistas, e até XX de janeiro de 20
 * [Importar e exportar produtos e SKUs via planilha](https://help.vtex.com/pt/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha-beta)
 * [Importar e exportar especificações de produtos via planilha](https://help.vtex.com/pt/docs/tutorials/importar-e-exportar-especificacoes-de-produtos-via-planilha-beta)
 * [Importar e exportar especificações de SKUs via planilha](https://help.vtex.com/pt/docs/tutorials/importar-e-exportar-especificacoes-de-skus-via-planilha-beta)
-* [Importar e exportar imagens de produtos e SKUs via planilha](https://help.vtex.com/pt/docs/tutorials/importar-e-exportar-imagens-de-produtos-e-skus-via-planilha-beta)
+* [Importar e exportar imagens de produtos e SKUs via planilha](https://help.vtex.com/pt/docs/tutorials/importar-e-exportar-dimagens-de-produtos-e-skus-via-planilha-beta)
