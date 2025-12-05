@@ -17380,7 +17380,7 @@
                   "slug": {
                     "en": "importing-and-exporting-product-and-sku-images-using-a-spreadsheet-beta",
                     "es": "importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla-beta",
-                    "pt": "importar-e-exportar-dimagens-de-produtos-e-skus-via-planilha-beta"
+                    "pt": "importar-e-exportar-imagens-de-produtos-e-skus-via-planilha-beta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -46519,6 +46519,21 @@
             },
             {
               "name": {
+                "en": "Price tables are not applied due to session cookie loss",
+                "es": "Las tablas de precios no se aplican debido a la pérdida de la cookie de sesión",
+                "pt": "As tabelas de preços não são aplicadas devido à perda do cookie da sessão"
+              },
+              "slug": {
+                "en": "price-tables-are-not-applied-due-to-session-cookie-loss",
+                "es": "las-tablas-de-precios-no-se-aplican-debido-a-la-perdida-de-la-cookie-de-sesion",
+                "pt": "as-tabelas-de-precos-nao-sao-aplicadas-devido-a-perda-do-cookie-da-sessao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Prices restricted to \"Int32\" max value on Change Price API",
                 "es": "Precios restringidos al valor máximo \"Int32\" en la API de cambio de precio",
                 "pt": "Preços restritos ao valor máximo \"Int32\" na API Change Price"
@@ -59293,6 +59308,21 @@
                 "en": "gift-card-view-only-role-not-available",
                 "es": "tarjeta-regalo-ver-solo-papel-no-disponible",
                 "pt": "funcao-somente-de-visualizacao-de-cartaopresente-nao-disponivel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Gift Cards not returned in Checkout when both CPF and CNPJ are sent (Gift Card Search prioritizes corporateDocument)",
+                "es": "Las tarjetas regalo no se devuelven en Checkout cuando se envían tanto CPF como CNPJ (la búsqueda de tarjetas regalo da prioridad a corporateDocument)",
+                "pt": "Cartões-presente não retornam no Checkout quando são enviados CPF e CNPJ (a busca de cartões-presente prioriza corporateDocument)"
+              },
+              "slug": {
+                "en": "gift-cards-not-returned-in-checkout-when-both-cpf-and-cnpj-are-sent-gift-card-search-prioritizes-corporatedocument",
+                "es": "las-tarjetas-regalo-no-se-devuelven-en-checkout-cuando-se-envian-tanto-cpf-como-cnpj-la-busqueda-de-tarjetas-regalo-da-prioridad-a-corporatedocument",
+                "pt": "cartoespresente-nao-retornam-no-checkout-quando-sao-enviados-cpf-e-cnpj-a-busca-de-cartoespresente-prioriza-corporatedocument"
               },
               "origin": "",
               "type": "markdown",
