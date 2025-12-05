@@ -8,7 +8,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 slugEN: 2025-12-23-new-spreadsheet-import-and-export-experience-for-the-catalog-in-global-availability
 locale: pt
-announcementSynopsisPT: 'XXX.'
+announcementSynopsisPT: 'Interface redesenhada oferece exportação por filtros e acompanhamento de status. Migração até janeiro de 2026.'
 ---
 
 Os lojistas VTEX vão dispor de uma nova experiência de importação e exportação de planilhas de produtos e SKUs, especificações e imagens. As lojas estão sendo migradas gradualmente para a nova experiência e até XX de janeiro de 2026, todas as lojas VTEX de todas as regiões serão migradas para a nova experiência.
