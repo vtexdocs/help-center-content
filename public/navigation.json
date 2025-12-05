@@ -950,6 +950,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Indeva by VTEX documentation now in the VTEX Help Center",
+                    "es": "La documentación de Indeva by VTEX migra al Help Center",
+                    "pt": "Indeva by VTEX documentation now in the VTEX Help Center"
+                  },
+                  "slug": {
+                    "en": "2025-12-05-indeva-by-vtex-documentation-now-in-the-vtex-help-center",
+                    "es": "2025-12-05-la-documentacion-de-indeva-by-vtex-migra-al-help-center",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Breaking change Livelo: New mandatory access permission ",
                     "es": "Breaking change Livelo: Nuevo permiso obligatorio",
                     "pt": "Breaking change Livelo: Nova permissão de acesso obrigatória"
@@ -958,6 +973,37 @@
                     "en": "2025-12-02-breaking-change-livelo-new-mandatory-permission",
                     "es": "2025-12-02-breaking-change-livelo-nuevo-permiso-obligatorio",
                     "pt": "2025-12-02-breaking-change-livelo-nova-permissao-obrigatoria"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Dezembro",
+                "es": "Dezembro",
+                "pt": "Dezembro"
+              },
+              "slug": {
+                "en": "dezembro",
+                "es": "dezembro",
+                "pt": "dezembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Documentação da Indeva by VTEX migrada para Help Center VTEX",
+                    "en": "Documentação da Indeva by VTEX migrada para Help Center VTEX",
+                    "es": "Documentação da Indeva by VTEX migrada para Help Center VTEX"
+                  },
+                  "slug": {
+                    "pt": "2025-12-05-documentacao-da-indeva-by-vtex-migrada-para-o-help-center-vtex",
+                    "en": "",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -46519,6 +46565,21 @@
             },
             {
               "name": {
+                "en": "Price tables are not applied due to session cookie loss",
+                "es": "Las tablas de precios no se aplican debido a la pérdida de la cookie de sesión",
+                "pt": "As tabelas de preços não são aplicadas devido à perda do cookie da sessão"
+              },
+              "slug": {
+                "en": "price-tables-are-not-applied-due-to-session-cookie-loss",
+                "es": "las-tablas-de-precios-no-se-aplican-debido-a-la-perdida-de-la-cookie-de-sesion",
+                "pt": "as-tabelas-de-precos-nao-sao-aplicadas-devido-a-perda-do-cookie-da-sessao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Prices restricted to \"Int32\" max value on Change Price API",
                 "es": "Precios restringidos al valor máximo \"Int32\" en la API de cambio de precio",
                 "pt": "Preços restritos ao valor máximo \"Int32\" na API Change Price"
@@ -59293,6 +59354,21 @@
                 "en": "gift-card-view-only-role-not-available",
                 "es": "tarjeta-regalo-ver-solo-papel-no-disponible",
                 "pt": "funcao-somente-de-visualizacao-de-cartaopresente-nao-disponivel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Gift Cards not returned in Checkout when both CPF and CNPJ are sent (Gift Card Search prioritizes corporateDocument)",
+                "es": "Las tarjetas regalo no se devuelven en Checkout cuando se envían tanto CPF como CNPJ (la búsqueda de tarjetas regalo da prioridad a corporateDocument)",
+                "pt": "Cartões-presente não retornam no Checkout quando são enviados CPF e CNPJ (a busca de cartões-presente prioriza corporateDocument)"
+              },
+              "slug": {
+                "en": "gift-cards-not-returned-in-checkout-when-both-cpf-and-cnpj-are-sent-gift-card-search-prioritizes-corporatedocument",
+                "es": "las-tarjetas-regalo-no-se-devuelven-en-checkout-cuando-se-envian-tanto-cpf-como-cnpj-la-busqueda-de-tarjetas-regalo-da-prioridad-a-corporatedocument",
+                "pt": "cartoespresente-nao-retornam-no-checkout-quando-sao-enviados-cpf-e-cnpj-a-busca-de-cartoespresente-prioriza-corporatedocument"
               },
               "origin": "",
               "type": "markdown",
