@@ -11,25 +11,27 @@ locale: pt
 announcementSynopsisPT: 'Interface redesenhada oferece exportação por filtros e acompanhamento de status. Migração das lojas até janeiro de 2026.'
 ---
 
-A VTEX está implementando uma nova interface para importação e exportação de planilhas de produtos e SKUs, especificações e imagens no Catálogo. A migração das lojas ocorrerá de forma gradual e será concluída até XX de janeiro de 2026 para todas as regiões.
-
-Para acessar a funcionalidade, no Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](https://help.vtex.com/pt/docs/tutorials/produtos-e-skus) na barra de busca no topo da página. As opções de importação e exportação estão disponíveis no topo da página, conforme a imagem a seguir:
-
-[PRINT 1]
-
-## O que mudou?
-
-A interface de gerenciamento de planilhas do Catálogo foi completamente redesenhada, centralizando as operações de importação e exportação na página de listagem de produtos e SKUs.
-
-Principais melhorias implementadas:
-
-* **Exportação baseada em filtros e busca:** os lojistas podem utilizar os filtros e a busca realizados na página de listagem para exportar seus itens de acordo com suas necessidades.
+A VTEX está implementando uma nova experiência para importação e exportação de planilhas de produtos e SKUs, especificações e imagens no Catálogo. A interface de gerenciamento de planilhas do Catálogo foi completamente redesenhada, centralizando as operações de importação e exportação na página de listagem de produtos e SKUs.
 
     [GIF 1]
 
-* **Janela de visualização do status da importação e exportação:** os lojistas podem verificar se a importação ou exportação da planilha foi concluída e qual tipo de relatório está sendo processado na fila.
+A migração das lojas ocorrerá de forma gradual e será concluída até XX de janeiro de 2026 para todas as regiões.
+
+## O que mudou?
+
+Para utilziar a funcionalidade, no Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](https://help.vtex.com/pt/docs/tutorials/produtos-e-skus) na barra de busca no topo da página. As opções de importação e exportação estão disponíveis no topo da página, conforme a imagem a seguir:
+
+[PRINT 1]
+
+Entre as melhorias implementadas, vale citar as seguintes:
+
+* **Exportação baseada em filtros e busca:** os lojistas podem utilizar os filtros e a busca realizados na página de listagem para exportar seus itens de acordo com suas necessidades.
 
     [PRINT 2]
+
+* **Janela de visualização do status da importação e exportação:** os lojistas podem verificar se a importação ou exportação da planilha foi concluída e qual tipo de relatório está sendo processado na fila.
+
+    [PRINT 3]
 
 ## O que precisa ser feito?
 
