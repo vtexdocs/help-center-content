@@ -19,11 +19,11 @@ A migração das lojas ocorrerá de forma gradual e será concluída até XX de 
 
 ## O que mudou?
 
-Para utilizar a funcionalidade, no Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](https://help.vtex.com/pt/docs/tutorials/produtos-e-skus) na barra de busca no topo da página. As opções de importação e exportação estão disponíveis no topo da página, conforme a imagem a seguir:
+Para utiliar a funcionalidade, no Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](https://help.vtex.com/pt/docs/tutorials/produtos-e-skus) na barra de busca no topo da página. As opções de importação e exportação estão disponíveis no topo da página, conforme a imagem a seguir:
 
 [PRINT 1]
 
-Entre as melhorias implementadas, vale citar as seguintes:
+Entre as melhorias implementadas, vale citar:
 
 * **Exportação baseada em filtros e busca:** os lojistas podem utilizar os filtros e a busca realizados na página de listagem para exportar seus itens de acordo com suas necessidades.
 
