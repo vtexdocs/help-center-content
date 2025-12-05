@@ -42,9 +42,9 @@ Neste guia, você verá o modelo de onboarding, as diretrizes gerais e exemplos 
 
 Ex.: Para trabalhar com {nome da tecnologia}, é necessário conhecer as seguintes tecnologias:
 [Adicione aqui as tecnologias que o usuário deve conhecer antes de começar a trabalhar.]
-[Tecnologia 1](/link)
-[Tecnologia 2](/link)
-[Tecnologia 3](/link)
+[Tecnologia 1](#)
+[Tecnologia 2](#)
+[Tecnologia 3](#)
 … 
 ## Arquitetura da {nome da tecnologia}
 [Adicione aqui um diagrama que ilustre a arquitetura da tecnologia e a explique.]

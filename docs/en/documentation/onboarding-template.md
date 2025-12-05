@@ -40,9 +40,9 @@ In this guide, you'll see the available template, general guidelines, and exampl
 
 Ex.: To work with {technology name}, you should be familiar with the following technologies:
 [Add here the technologies that the user should know before starting to work with it.]
-[Technology 1](/link)
-[Technology 2](/link)
-[Technology 3](/link)
+[Technology 1](#)
+[Technology 2](#)
+[Technology 3](#)
 … 
 ## {technology name} architecture
 [Add here a diagram illustrating the technology architecture and provide an explanation.]

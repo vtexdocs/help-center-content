@@ -1,102 +1,104 @@
 ---
 title: 'How-to guide'
-id: edu0006
+id: edu0006-es
 status: PUBLISHED
-createdAt: 2025-02-06T15:00:00.388Z
-updatedAt: 2025-02-06T15:00:00.388Z
-publishedAt: 2025-02-06T15:00:00.388Z
-firstPublishedAt: 2025-02-06T15:00:00.388Z
+createdAt: 2025-12-05T15:00:00.388Z
+updatedAt: 2025-12-05T15:00:00.388Z
+publishedAt: 2025-12-05T15:00:00.388Z
+firstPublishedAt: 2025-12-05T15:00:00.388Z
 contentType: trackArticle
 productTeam: Education
-slugEN: how-to-guide-template
-locale: en
+slugES: how-to-guide-template
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: how-to-guide-template
+trackSlugES: how-to-guide-template
 ---
 
-A how-to guide is a type of documentation that provides specific instructions on how to perform a task. It's focused on the practical aspects of a process, often with step-by-step instructions and visual aids. How-to guides are for users who want to accomplish a specific goal and are familiar with the product or module.
+Una how-to guide, o guía práctica, es un tipo de documentación que proporciona instrucciones específicas sobre cómo realizar una tarea. Se centra en los aspectos prácticos de un proceso, a menudo con instrucciones paso a paso y ayudas visuales. Las how-to guide están dirigidas a usuarios que desean lograr un objetivo específico y están familiarizados con el producto o módulo.
 
-In this guide, you’ll see the available template, general guidelines, and examples of how-to guides.
+Esta guía incluye la plantilla disponible, pautas generales y ejemplos de how-to guides.
 
-> ℹ️ Make sure to review the guidelines in the [Best practices for writing documentation](https://contentguide.vtex.com/docs/documentation/documentation-overview#best-practices-for-writing-documentation).
+> ℹ️ Asegúrate de revisar las pautas de [Mejores prácticas para redactar documentación](https://contentguide.vtex.com/es/docs/documentation/documentation-overview#buenas-practicas-para-la-redaccion-de-documentacion).
 
-## Differences between a tutorial and a how-to guide
+> ⚠️ Este tipo de contenido se publica únicamente en inglés.
 
-While both [tutorial](https://contentguide.vtex.com/docs/documentation/tutorial-template) and how-to guide are instructional resources, they have some differences in their structure and purpose:
+## Diferencias entre tutorial y how-to guide (guía práctica)
+
+Aunque tanto los [tutoriales](https://contentguide.vtex.com/es/docs/documentation/tutorial-template) como las how-to guides son recursos didácticos, difieren en su estructura y propósito:
 
 <details>
-<summary><b>Purpose</b></summary>
+<summary><b>Objetivo</b></summary>
 
-| **Tutorial** | **How-to guide** |
+| **Tutorial** | **Guía práctica** |
 | ------------ | ---------------- |
-| Learning-oriented. Teaches a broader concept, skill, or process in detail. | Task-oriented. Focus on helping the user complete a specific task or goal. |
+| Orientado al aprendizaje. Enseña un concepto, habilidad o proceso de forma detallada. | Orientado a tareas. Se centra en ayudar al usuario a completar una tarea u objetivo específico. |
 
 </details>
 
 <details>
-<summary><b>Scope</b></summary>
+<summary><b>Alcance</b></summary>
 
-| **Tutorial** | **How-to guide** |
+| **Tutorial** | **Guía práctica** |
 | ------------ | ---------------- |
-| Covers a series of steps or concepts, often related to learning a new skill. | Narrow in scope, typically covering one task or process divided into steps. |
+| Cubre una serie de pasos o conceptos, normalmente relacionados con el aprendizaje de una nueva habilidad. | Su alcance es limitado, generalmente abarcando una tarea o proceso en etapas. |
 
 </details>
 
 <details>
-<summary><b>Content</b></summary>
+<summary><b>Contenido</b></summary>
 
-| **Tutorial** | **How-to guide** |
+| **Tutorial** | **Guía práctica** |
 | ------------ | ---------------- |
-| Educational, offering context, background, and explanations. | Practical, with direct, task-oriented instructions. |
+| Educativo, ofrece contexto, antecedentes y explicaciones. | Práctico, con instrucciones directas y orientadas a la acción. |
 
 </details>
 
 <details>
-<summary><b>Audience</b></summary>
+<summary><b>Audiencia</b></summary>
 
-| **Tutorial** | **How-to guide** |
+| **Tutorial** | **Guía práctica** |
 | ------------ | ---------------- |
-| Users who want to learn a skill or understand a concept deeply. | Users who need to quickly achieve a specific goal, usually with prior knowledge. |
+| Orientado a usuarios que desean aprender una habilidad o comprender un concepto en profundidad. | Orientado a usuarios que necesitan alcanzar rápidamente un objetivo específico y ya tienen conocimientos previos. |
 
 </details>
 
-## Writing a how-to guide
+## Cómo escribir how-to guides
 
-| **Topic** | **Description** |
+| **Tema** | **Descripción** |
 | --------- | ------------ |
-| **Title** | Directly states the guide's goal and uses a verb in the gerund form. Consider your target audience and the specific action you want them to take. For example: `Setting up your development environment` |
-| **Before you begin** (optional)  | Lists all necessary prerequisites the user must have or complete before following the steps in the guide, including: <ol><li>Tools and software requirements: Specifies the minimum system requirements, such as operating system versions, specific software installations, and hardware configurations.</li><li>Account creation or setup: If the user needs to create an account or set up specific configurations, it provides clear instructions or links to relevant resources.</li><li>Basic knowledge or skills: If the guide assumes a certain level of familiarity with specific concepts or tools, it briefly outlines those prerequisites or provides links to additional learning resources.</li></ol> |
-| **Instructions** | <ol><li>Provides detailed instructions for completing the task or achieving the goal.</li><li>Breaks down the process into steps, ensuring each step is clear and actionable.</li><li>Considers what the user needs to accomplish by the end of the guide and outlines every necessary task to get there. For example, if the goal is to set up a development environment for building a storefront, consider each task the user needs to complete to achieve that.</li><li>If a guide requires only one step, omit the **Step 1 - Step title**, and in the section **Instructions**, list the action(s) in an ordered list.</li><li>Each step should guide the user from one point to the next in a logical sequence. Where relevant, it includes examples, media, or warnings to help users.</li><li>The last step should illustrate the outcome so the user can compare it with their results.</li></ol> |
-| **Content of the instructions**  | <ol><li>Each line of the procedure must correspond to an action to be taken by the user.</li><li>Don’t assume user knowledge. For example, if the user must press `Enter` in a step, include that instruction as part of the step.</li><li>Use angle brackets (`>`) to break down complex steps or combine simple ones for sequential actions. For example: *1. In the VTEX Admin, go to __Storefront > Site Editor__*.</li><li>Maintain consistent verb tense throughout the instructions by using imperative verbs. For example: *1. Click File > New > Document.*.</li></ol> |
+| **Título** | Como este tipo de guías se escribe únicamente en inglés, debes indicar el objetivo de la misma con un verbo en gerundio. Considera a tu audiencia y la acción que quieres que realicen. Por ejemplo: `Setting up your development environment` |
+| **Antes de comenzar** (opcional) | Lista todos los prerrequisitos que el usuario debe cumplir antes de seguir los pasos de la guía, incluyendo: <ol><li>Requisitos de herramientas y software: especifica los requisitos mínimos del sistema, como versiones del sistema operativo, instalaciones de software concretas y configuraciones de hardware.</li><li>Creación o configuración de la cuenta: si el usuario necesita crear una cuenta o configurar elementos específicos, proporciona instrucciones claras o links a recursos relevantes.</li><li>Conocimientos o habilidades básicas: si la guía asume cierto nivel de familiaridad con conceptos o herramientas específicos, describe brevemente esos prerrequisitos o proporciona links a recursos de aprendizaje adicionales.</li></ol> |
+| **Instrucciones** | <ol><li>Proporciona instrucciones detalladas para completar la tarea o lograr el objetivo.</li><li>Divide el proceso en pasos. Cada paso debe ser claro y accionable.</li><li>Considera lo que el usuario necesita conseguir al final de la guía y describe cada tarea necesaria para lograrlo. Por ejemplo, si el objetivo es configurar un entorno de desarrollo para crear una tienda física, considera cada tarea que el usuario debe completar para hacerlo.</li><li>Si una guía requiere solo un paso, omite el **Paso 1 - Título del paso**, y en la sección **Instrucciones**, enumera las acciones en una lista ordenada.</li><li>Cada paso debe guiar al usuario de un punto al siguiente en una secuencia lógica. Cuando corresponda, incluye ejemplos, contenido multimedia o advertencias para ayudar a los usuarios.</li><li>El último paso debe ilustrar el resultado para que el usuario pueda compararlo con sus resultados.</li></ol> |
+| **Contenido de las instrucciones** | <ol><li>Cada línea de las instrucciones debe corresponder a un paso que el usuario debe realizar.</li><li>No asumas conocimientos del usuario. Por ejemplo, si el usuario debe presionar `Enter` en un paso, incluye esa instrucción como parte del mismo.</li><li>Utiliza corchetes angulares (`>`) para desglosar pasos complejos o combinar pasos simples para acciones secuenciales. Por ejemplo: *1. En el Admin VTEX, accede a __Storefront > Site Editor__*.</li><li>Mantén la coherencia en el tiempo verbal a lo largo de las instrucciones utilizando verbos en imperativo. Por ejemplo: *1. Haz clic en Archivo > Nuevo > Documento*.</li></ol> |
 
-## How-to guide template
+## Plantilla de how-to guide
 
 <details>
-<summary><b>How-to guide template</b></summary>
+<summary><b>Plantilla de how-to guide</b></summary>
 
 ```md
-# Title
+# Título
 
-[Describe in this section the goal of the guide and what the user will be able to do after following it.]
+[Describe en esta sección el objetivo de la guía y lo que el usuario podrá hacer después de seguirla.]
 
-## Before you begin
-[List any necessary tools, software, accounts, required knowledge or skills that the user must have before beginning to follow the guide.]
+## Antes de comenzar
+[Enumera las herramientas, el software, las cuentas, los conocimientos o las habilidades necesarias que el usuario debe tener antes de comenzar a seguir la guía].
 
-## Intructions
+## Instrucciones
 
-### Step 1 - Step 1 title
-[Provide instructions for this step.]
+### Paso 1 - Título del paso 1
+[Proporciona instrucciones para este paso.]
 
-### Step 2 - Step 2 title
-[Provide instructions for this step.]
+### Paso 2 - Título del paso 2
+[Proporciona instrucciones para este paso.]
 
-### Step 3 - Step 3 title
-[Provide instructions for this step.]
+### Paso 3 - Título del paso 3
+[Proporciona instrucciones para este paso.]
 ```
 
 </details>
 
-## Examples of how-to guides
+## Ejemplos de how-to guides
 
 - [Overriding native component's props](https://developers.vtex.com/docs/guides/faststore/overrides-component-props)
 - [Managing product images in specific contexts](https://developers.vtex.com/docs/guides/faststore/customization-managing-product-images-in-specific-contexts)

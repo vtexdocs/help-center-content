@@ -42,9 +42,9 @@ Esta guía incluye la plantilla de onboarding, pautas generales y ejemplos de ar
 
 Ej.: Para trabajar con {nombre de la tecnología}, primero debes familiarizarte con las siguientes tecnologías:
 [Agrega aquí las tecnologías que el usuario debe conocer antes de comenzar a trabajar con la tecnología que se está introduciendo.]
-[Tecnología 1](/link)
-[Tecnología 2](/link)
-[Tecnología 3](/link)
+[Tecnología 1](#)
+[Tecnología 2](#)
+[Tecnología 3](#)
 …
 ## Arquitectura de {nombre de la tecnología}
 [Agrega un diagrama que muestre la arquitectura de la tecnología y proporciona una explicación clara.]
