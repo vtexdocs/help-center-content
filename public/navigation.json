@@ -964,6 +964,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Dezembro",
+                "es": "Dezembro",
+                "pt": "Dezembro"
+              },
+              "slug": {
+                "en": "dezembro",
+                "es": "dezembro",
+                "pt": "dezembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Nova experiência de importação e exportação de planilhas do Catálogo em disponibilidade global",
+                    "en": "Nova experiência de importação e exportação de planilhas do Catálogo em disponibilidade global",
+                    "es": "Nova experiência de importação e exportação de planilhas do Catálogo em disponibilidade global"
+                  },
+                  "slug": {
+                    "pt": "2025-12-23-nova-experiencia-de-importacao-e-exportacao-de-planilhas-do-catalogo-em-disponibilidade-global",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
