@@ -51775,6 +51775,21 @@
             },
             {
               "name": {
+                "en": "Intelligent Search can throw an error when a product/sku has a specification with the same name as a native field",
+                "es": "La Búsqueda Inteligente puede lanzar un error cuando un producto/sku tiene una especificación con el mismo nombre que un campo nativo",
+                "pt": "O Intelligent Search pode gerar um erro quando um produto/sku tem uma especificação com o mesmo nome de um campo nativo"
+              },
+              "slug": {
+                "en": "intelligent-search-can-throw-an-error-when-a-productsku-has-a-specification-with-the-same-name-as-a-native-field",
+                "es": "la-busqueda-inteligente-puede-lanzar-un-error-cuando-un-productosku-tiene-una-especificacion-con-el-mismo-nombre-que-un-campo-nativo",
+                "pt": "o-intelligent-search-pode-gerar-um-erro-quando-um-produtosku-tem-uma-especificacao-com-o-mesmo-nome-de-um-campo-nativo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Intelligent Search cleanup intermitently failing",
                 "es": "La limpieza de la Búsqueda Inteligente falla intermitentemente",
                 "pt": "Falha intermitente na limpeza da Pesquisa Inteligente"
@@ -52023,6 +52038,21 @@
                 "en": "not-able-to-open-proper-detached-sku-on-pdp-in-a-new-tab",
                 "es": "no-se-puede-abrir-la-sku-adecuada-en-pdp-en-una-nueva-pestana",
                 "pt": "nao-e-possivel-abrir-a-sku-separada-adequada-no-pdp-em-uma-nova-guia"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "PLP does not load when facet values are reserved words",
+                "es": "PLP no se carga cuando los valores de las facetas son palabras reservadas",
+                "pt": "O PLP não é carregado quando os valores da faceta são palavras reservadas"
+              },
+              "slug": {
+                "en": "plp-does-not-load-when-facet-values-are-reserved-words",
+                "es": "plp-no-se-carga-cuando-los-valores-de-las-facetas-son-palabras-reservadas",
+                "pt": "o-plp-nao-e-carregado-quando-os-valores-da-faceta-sao-palavras-reservadas"
               },
               "origin": "",
               "type": "markdown",
@@ -52518,21 +52548,6 @@
                 "en": "sku-variations-doesnt-return-in-the-plp",
                 "es": "las-variaciones-de-sku-no-vuelven-en-el-plp",
                 "pt": "as-variacoes-da-sku-nao-retornam-no-plp"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Some facet values may not work with Intelligent Search",
-                "es": "Algunos valores de las facetas pueden no funcionar con la Búsqueda Inteligente",
-                "pt": "Alguns valores de faceta podem não funcionar com a Pesquisa Inteligente"
-              },
-              "slug": {
-                "en": "some-facet-values-may-not-work-with-intelligent-search",
-                "es": "algunos-valores-de-las-facetas-pueden-no-funcionar-con-la-busqueda-inteligente",
-                "pt": "alguns-valores-de-faceta-podem-nao-funcionar-com-a-pesquisa-inteligente"
               },
               "origin": "",
               "type": "markdown",
@@ -63453,6 +63468,21 @@
                 "en": "exported-price-table-filtered-by-brand-does-not-bring-all-the-skus",
                 "es": "tabla-de-precios-exportados-filtrado-por-marca-no-trae-todos-los-skus",
                 "pt": "tabela-de-precos-de-exportacao-filtrada-por-marca-nao-traz-todos-os-skus"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "External Marketplace prices not updated after promotion start or end",
+                "es": "Los precios del mercado externo no se actualizan tras el inicio o el fin de la promoción",
+                "pt": "Preços do Marketplace externo não atualizados após o início ou término da promoção"
+              },
+              "slug": {
+                "en": "external-marketplace-prices-not-updated-after-promotion-start-or-end",
+                "es": "los-precios-del-mercado-externo-no-se-actualizan-tras-el-inicio-o-el-fin-de-la-promocion",
+                "pt": "precos-do-marketplace-externo-nao-atualizados-apos-o-inicio-ou-termino-da-promocao"
               },
               "origin": "",
               "type": "markdown",
