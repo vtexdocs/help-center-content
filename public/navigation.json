@@ -933,6 +933,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "December",
+                "es": "Diciembre",
+                "pt": "Dezembro"
+              },
+              "slug": {
+                "en": "december",
+                "es": "diciembre",
+                "pt": "dezembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Breaking change Livelo: New mandatory access permission ",
+                    "es": "Breaking change Livelo: Nuevo permiso obligatorio",
+                    "pt": "Breaking change Livelo: Nova permissão de acesso obrigatória"
+                  },
+                  "slug": {
+                    "en": "2025-12-02-breaking-change-livelo-new-mandatory-permission",
+                    "es": "2025-12-02-breaking-change-livelo-nuevo-permiso-obligatorio",
+                    "pt": "2025-12-02-breaking-change-livelo-nova-permissao-obrigatoria"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
@@ -17349,7 +17380,7 @@
                   "slug": {
                     "en": "importing-and-exporting-product-and-sku-images-using-a-spreadsheet-beta",
                     "es": "importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla-beta",
-                    "pt": "importar-e-exportar-dimagens-de-produtos-e-skus-via-planilha-beta"
+                    "pt": "importar-e-exportar-imagens-de-produtos-e-skus-via-planilha-beta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18396,7 +18427,7 @@
         {
           "name": {
             "en": "Catalog",
-            "es": "Catalogo",
+            "es": "Catálogo",
             "pt": "Catálogo"
           },
           "slug": {
@@ -19484,14 +19515,14 @@
             },
             {
               "name": {
-                "en": "Reports",
-                "es": "Informes",
-                "pt": "Relatórios"
+                "en": "Catalog Reports",
+                "es": "Catálogo Informes",
+                "pt": "Catálogo Relatórios"
               },
               "slug": {
-                "en": "reports-subcategory",
-                "es": "informes-subcategoria",
-                "pt": "relatórios-subcategoria"
+                "en": "catalog-reports-subcategory",
+                "es": "catalogo-informes-subcategoria",
+                "pt": "catálogo-relatórios-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -21745,14 +21776,14 @@
             },
             {
               "name": {
-                "en": "Reports",
-                "es": "Informes",
-                "pt": "Relatórios"
+                "en": "Indeva Reports",
+                "es": "Informes de Indeva",
+                "pt": "Relatórios Indeva"
               },
               "slug": {
-                "en": "reports-subcategory",
-                "es": "informes-subcategoria",
-                "pt": "relatórios-subcategoria"
+                "en": "indeva-reports-subcategory",
+                "es": "informes-de-indeva-subcategoria",
+                "pt": "relatórios-indeva-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -29888,6 +29919,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Worldline Global Collect",
+                    "es": "Configurar pago con Worldline Global Collect",
+                    "pt": "Configurar pagamento com Worldline Global Collect"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-worldline-global-collect",
+                    "es": "configurar-pago-con-worldline-global-collect",
+                    "pt": "configurar-pagamento-com-worldline-global-collect"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Worldline Global Online Pay",
                     "es": "Configurar pago con Worldline Global Online Pay",
                     "pt": "Configurar pagamento com Worldline Global Online Pay"
@@ -36644,14 +36690,14 @@
             },
             {
               "name": {
-                "en": "Reports",
-                "es": "Informes",
-                "pt": "Relatórios"
+                "en": "VTEX Tracking Reports",
+                "es": "VTEX Tracking Informes",
+                "pt": "Relatórios VTEX Tracking"
               },
               "slug": {
-                "en": "reports-subcategory",
-                "es": "informes-subcategoria",
-                "pt": "relatórios-subcategoria"
+                "en": "vtex-tracking-reports-subcategory",
+                "es": "vtex-tracking-informes-subcategoria",
+                "pt": "relatórios-vtex-tracking-subcategoria"
               },
               "origin": "",
               "type": "category",
@@ -47059,7 +47105,7 @@
             {
               "name": {
                 "en": "Shopper is redirect to gatewayCallback/{orderGroup}/Success instead of placeOrder page",
-                "es": "El comprador es redirigido a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder",
+                "es": "El comprador es redirigido a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder.",
                 "pt": "O comprador é redirecionado para a página gatewayCallback/{orderGroup}/Success em vez da página placeOrder"
               },
               "slug": {
