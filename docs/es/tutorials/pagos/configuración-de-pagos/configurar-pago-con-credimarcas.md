@@ -23,7 +23,7 @@ Para configurar la afiliación Credimarcas, siga los pasos a continuación:
 2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
 3. Escriba el nombre **credimarcas** en la barra de búsqueda y haga clic en el nombre del proveedor.
 4. Rellene los campos de registro __Clave de aplicación__ y __Token de aplicación__ con los datos proporcionados por Credimarcas.
-5. Si desea modificar el nombre de identificación que se mostrará para el proveedor Belluno Digital Bank en la pantalla VTEX Admin, ingrese la información en el campo **Nombre** en **Información general**.
+5. Si desea modificar el nombre de identificación que se mostrará para el proveedor Credimarcas en la pantalla VTEX Admin, ingrese la información en el campo **Nombre** en **Información general**.
 6. En **Control de pago**, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en **Activar modo de prueba**.
 7. En **Liquidación automática**, seleccione una de las siguientes opciones:
 - **Utiliza comportamiento recomendado por el procesador de pagos**: a captura no es automática, sino programada de acuerdo con el plazo especificado por el adquirente que, además de indicar si el pago ha sido autorizado, puede especificar o recomendar un número de días para la captura en el momento de la respuesta a la autorización de pago (este es el comportamiento predeterminado de la plataforma).

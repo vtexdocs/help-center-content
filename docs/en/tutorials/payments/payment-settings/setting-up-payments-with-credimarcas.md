@@ -31,9 +31,9 @@ To configure Credimarcas provider, follow the steps below:
 - **Automatic capture immediately after anti-fraud analysis**: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic capture immediately after payment authorization".
 - **Disabled**: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.
 
-6. In **Type Payment**, select whether the payment will be made via "Payment App" or "Redirect".
-7. If an alert message appears indicating the need to install the app, click on the **Install app** button and follow the installation instructions.
-8. Click on `Save`.
+8. In **Type Payment**, select whether the payment will be made via "Payment App" or "Redirect".
+9. If an alert message appears indicating the need to install the app, click on the **Install app** button and follow the installation instructions.
+10. Click `Save`.
 
 ## Setting up Notes Payable
 
