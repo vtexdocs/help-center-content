@@ -47105,7 +47105,7 @@
             {
               "name": {
                 "en": "Shopper is redirect to gatewayCallback/{orderGroup}/Success instead of placeOrder page",
-                "es": "El comprador es redirigido a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder.",
+                "es": "El comprador es redirigido a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder",
                 "pt": "O comprador é redirecionado para a página gatewayCallback/{orderGroup}/Success em vez da página placeOrder"
               },
               "slug": {
@@ -59420,21 +59420,6 @@
             },
             {
               "name": {
-                "en": "Giftcard transactions returning empty",
-                "es": "Transacciones con tarjeta regalo vacías",
-                "pt": "Transações de cartões-presente que retornam vazias"
-              },
-              "slug": {
-                "en": "giftcard-transactions-returning-empty",
-                "es": "transacciones-con-tarjeta-regalo-vacias",
-                "pt": "transacoes-de-cartoespresente-que-retornam-vazias"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Import file for customer credit invoices stuck in loading",
                 "es": "Archivo de importación de facturas de crédito de clientes atascado en la carga",
                 "pt": "Arquivo de importação de faturas de crédito de clientes travado no carregamento"
@@ -59818,6 +59803,21 @@
                 "en": "lack-of-validation-in-the-billingaddress-zip-code",
                 "es": "falta-de-validacion-en-el-codigo-postal-billingaddress",
                 "pt": "falta-de-validacao-no-codigo-postal-billingaddress"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "List Giftcard transactions API returning empty or incomplete",
+                "es": "Lista de transacciones de Giftcard API que devuelve vacía o incompleta",
+                "pt": "Listagem da API de transações de cartão-presente que retorna vazia ou incompleta"
+              },
+              "slug": {
+                "en": "list-giftcard-transactions-api-returning-empty-or-incomplete",
+                "es": "lista-de-transacciones-de-giftcard-api-que-devuelve-vacia-o-incompleta",
+                "pt": "listagem-da-api-de-transacoes-de-cartaopresente-que-retorna-vazia-ou-incompleta"
               },
               "origin": "",
               "type": "markdown",
