@@ -15,7 +15,7 @@ locale: pt
 subcategoryId:
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamentos Worldline Global Collect. Por meio deste provedor, sua loja pode oferecer diversos meios de pagamento, como cartões de crédito, débito, PIX e Worldline Global Collect.
+Na VTEX, é possível realizar a integração com o provedor de pagamentos Worldline Global Collect. Por meio deste provedor, sua loja pode oferecer diversos meios de pagamento, como cartões de crédito, débito, PIX, Apple Pay e Worldline Global Collect.
 
 Para configurar Worldline Global Collect, siga os passos abaixo:
 
@@ -25,7 +25,7 @@ Para configurar Worldline Global Collect, siga os passos abaixo:
 4. Em **Autorização do provedor**, preencha os campos **Chave de aplicação** e **Token de aplicação** com as informações da sua conta Worldline Global Collect.
 5. Caso deseje modificar o nome de identificação a ser exibido para o provedor Worldline Global Collect na tela do Admin VTEX, insira a informação no campo **Nome** em **Informações básicas**.
 6. Em **Controle de pagamento**, selecione se deseja ativar o provedor em ambiente de teste clicando em **Ativar modo de teste**.
-7. Em **Campos do provedor**, selecione ou preencha os campos **Environment**, **Merchant ID**, **Webhook Key ID**, **Webhook Secret Key**, **Capture type**, **Payment Sub-domain**, **3DS mode**, **PosID**, e **Soft Descriptor** conforme orientações do provedor.
+7. Em **Campos do provedor**, selecione ou preencha os campos **Environment**, **Merchant ID**, **Webhook Key ID**, **Webhook Secret Key**, **Capture type**, **Payment Sub-domain**, **3DS mode**, e **Soft Descriptor** conforme orientações do provedor.
 8. Clique em `Salvar`.
 
 Para configurar os métodos de pagamento a serem processados pela Worldline Global Collect, acesse [Condições de Pagamento](https://help.vtex.com/pt/docs/tutorials/condicoes-de-pagamento).
