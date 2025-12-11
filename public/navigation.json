@@ -28134,6 +28134,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Chase Payment",
+                    "es": "Configurar pago con Chase Payment",
+                    "pt": "Configurar pagamento com Chase Payment"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-chase-payment",
+                    "es": "configurar-pago-con-chase-payment",
+                    "pt": "configurar-pagamento-com-chase-payment"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Cielo Orquestrador",
                     "es": "Configurar pago con Cielo Orquestrador",
                     "pt": "Configurar pagamento com Cielo Orquestrador"
@@ -28224,6 +28239,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Credibanco",
+                    "es": "Configurar pago con Credibanco",
+                    "pt": "Configurar pagamento com Credibanco"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-credibanco",
+                    "es": "configurar-pago-con-credibanco",
+                    "pt": "configurar-pagamento-com-credibanco"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Credimarcas",
                     "es": "Configurar pago con Credimarcas",
                     "pt": "Configurar pagamento com Credimarcas"
@@ -28262,6 +28292,21 @@
                     "en": "setting-up-payments-with-creditea",
                     "es": "configurar-pago-con-creditea",
                     "pt": "configurar-pagamento-com-creditea"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Creditop",
+                    "es": "Configurar pago con Creditop",
+                    "pt": "Configurar pagamento com Creditop"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-creditop",
+                    "es": "configurar-pago-con-creditop",
+                    "pt": "configurar-pagamento-com-creditop"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29867,6 +29912,21 @@
                     "en": "setting-up-payments-with-virtualpos",
                     "es": "configurar-pago-con-virtualpos",
                     "pt": "configurar-pagamento-com-virtualpos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Visa Conecta",
+                    "es": "Configurar pago con Visa Conecta",
+                    "pt": "Configurar pagamento com Visa Conecta"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-visa-conecta",
+                    "es": "configurar-pago-con-visa-conecta",
+                    "pt": "configurar-pagamento-com-visa-conecta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -58588,6 +58648,21 @@
                 "en": "cobranded-saved-card-with-wrong-payment-system-id",
                 "es": "tarjeta-guardada-de-marca-compartida-con-identificador-de-sistema-de-pago-incorrecto",
                 "pt": "cartao-salvo-de-marca-compartilhada-com-identificacao-incorreta-do-sistema-de-pagamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Competing Authorization Rules generated when receiving a delayToCancel value",
+                "es": "Reglas de autorización competidoras generadas al recibir un valor delayToCancel",
+                "pt": "Regras de autorização concorrentes geradas ao receber um valor delayToCancel"
+              },
+              "slug": {
+                "en": "competing-authorization-rules-generated-when-receiving-a-delaytocancel-value",
+                "es": "reglas-de-autorizacion-competidoras-generadas-al-recibir-un-valor-delaytocancel",
+                "pt": "regras-de-autorizacao-concorrentes-geradas-ao-receber-um-valor-delaytocancel"
               },
               "origin": "",
               "type": "markdown",
