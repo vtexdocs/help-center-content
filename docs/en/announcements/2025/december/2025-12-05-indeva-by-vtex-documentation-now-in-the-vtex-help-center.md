@@ -14,9 +14,9 @@ announcementImageID:
 announcementSynopsisEN: 'Indeva by VTEX documentation is now part of the Help Center, offering a unified and more organized navigation experience.'
 ---
 
-To ensure a unified and easy-to-navigate documentation experience, all **Indeva by VTEX** documentation has been migrated to the [VTEX Help Center](https://help.vtex.com/pt/category/indeva-by-vtex--1QIG6GwCJBv1wrR8wiuWYL). 
+To ensure a unified and easy-to-navigate documentation experience, all **Indeva by VTEX** documentation has been migrated to the [VTEX Help Center](https://help.vtex.com/en). 
  
-[Indeva by VTEX](https://help.vtex.com/pt/category/indeva-by-vtex--1QIG6GwCJBv1wrR8wiuWYL) is a solution focused on commercial performance management and sales team productivity. The platform centralizes data, goals, and results in a single environment, making it easier to track and analyze key performance indicators (KPIs) for sales associates.
+[Indeva by VTEX](https://help.vtex.com/docs/tutorials/indeva-by-vtex-category) is a solution focused on commercial performance management and sales team productivity. The platform centralizes data, goals, and results in a single environment, making it easier to track and analyze key performance indicators (KPIs) for sales associates.
 
 ## What has changed?
 
@@ -28,27 +28,27 @@ In the VTEX Help Center, you'll find the following subcategories:
 
 | Subcategory | Description | Role |
 | ----- | ----- | ----- |
-| [Indeva overview (Visão geral Indeva)](https://help.vtex.com/pt/subcategory/visao-geral-indeva--1iNFZ3jKoIo5aOZtK4C1pO) | Introduction to the product and its key components | All roles |
-| [User account (Conta do usuário)](https://help.vtex.com/pt/subcategory/conta-do-usuario-indeva--1kLZWFCmluavm21LygmQA0) | Information on access, permissions, and access authentication. | Managers and administrators |
-| [Employee registrations (Cadastro de colaboradores)](https://help.vtex.com/pt/subcategory/cadastros-de-colaboradores-indeva--2fZRuqcVChcJ9AhY4vzfl3) | Guidelines on creating and managing roles. | Managers |
-| [Store (Loja)](https://help.vtex.com/pt/subcategory/loja-indeva--47cSVtf01m00VM60utC1Nt) | Settings and monitoring of sales units. | Managers |
-| [Tablet and sales associate tracking (Tablet e lista da vez)](https://help.vtex.com/pt/subcategory/tablet-e-lista-da-vez-indeva--78bsG4YLzz1TR7eUzFSf4F) | Selector to choose the sales associate who will serve the next customer at physical points of sale (POS). | Sales associates |
-| [Sales associates (Vendedores)](https://help.vtex.com/pt/subcategory/vendedores-indeva--1acPW0OHXq4PjbQUFVrNrY) | Management of goals, results, and individual performance monitoring. | Sales associates |
-| [Managers (Gerentes)](https://help.vtex.com/pt/subcategory/gerentes--4LwIt8RFNUOMKhMZ2C6hAK) | Managerial overview and consolidated team results. | Managers |
-| [Goals (Metas)](https://help.vtex.com/pt/subcategory/metas-indeva--2qRY1ABm4FFJywlXZeCFa7) | Visualization and tracking of sales goals. | Managers and sales associates |
-| [Goal definition (Cadastro de metas)](https://help.vtex.com/pt/subcategory/cadastro-de-metas-indeva--4xaNvv2oZFUetmybJrtHUL) | Creation, editing, and monitoring of sales goals. | Managers |
-| [Sales update and validation (Atualização e validação de vendas)](https://help.vtex.com/pt/subcategory/atualizacao-de-vendas-com-pdv-erp-indeva--2TvvbKyvcItxWiM018erXt) | Integration with POS/ERP and validation rules. | Managers and technical team |
-| [Sales associate feedback (Feedback do vendedor)](https://help.vtex.com/pt/subcategory/feedback-do-vendedor-indeva--45XP64ednNSE1YhkHFcCnr) | Reviews and comments on sales and individual performance. | Sales associates and managers |
-| [Rankings and campaigns (Rankings e campanhas)](https://help.vtex.com/pt/subcategory/rankings-e-campanhas-indeva--2basvwwwR3pbjG1BxlHqrc) | Creation and tracking of campaigns and performance rankings. | Managers |
-| [Reports (Relatórios)](https://help.vtex.com/pt/subcategory/relatorios-indeva--12W8z1keFc6Z7CmgoSpqdz) | Custom dashboards and operation indicators. | Managers |
-| [Indeva forms (Formulários Indeva)](https://help.vtex.com/pt/subcategory/formularios-indeva--4k2nT4bkX7B73rZyIhw8aE) | Creation, sending, and analysis of operational forms. | Managers |
-| [Indeva sales associate tracking (Lista da vez Indeva)](https://help.vtex.com/pt/subcategory/lista-da-vez-indeva--1ydaNLr2vhaL9YiUHYHPeS) | Management of the order of the sales associate who will serve the next customer in stores. | Sales associates |
-| [Indeva finance (Financeiro Indeva)](https://help.vtex.com/pt/subcategory/financeiro-indeva--1LRiSf1bi4xyNzNoZ2QyP7) | Consolidated view of results and bonuses. | Managers |
-| [Devices and apps (Dispositivos e aplicativos)](https://help.vtex.com/pt/subcategory/dispositivos-e-aplicativos--4dnEsUKLcKwtXi4VwWTH1L) | Instructions for using the platform on different devices. | All roles |
-| [Indeva training (Treinamento Indeva)](https://help.vtex.com/pt/subcategory/treinamento-indeva--7gZy4EMwjWMuWGNI9j9Dyt) | Training content and best practices. | All roles |
-| [Indeva usability (Usabilidade Indeva)](https://help.vtex.com/pt/subcategory/usabilidade-indeva--28FNnk5j9BdyzEExn889Fz) | Tips and instructions regarding product navigation and user experience. | All roles |
-| [Indeva Support (Suporte Indeva)](https://help.vtex.com/pt/subcategory/suporte-indeva--43f3IRjn9begSh9Tgpa923) | Information on support channels and ticket submission. | All roles |
+| [Indeva overview](https://help.vtex.com/docs/tutorials/vision-general-indeva-subcategoria) | Introduction to the product and its key components | All roles |
+| [User account](https://help.vtex.com/docs/tutorials/conta-do-usu%C3%A1rio-subcategoria) | Information on access, permissions, and access authentication. | Managers and administrators |
+| [Employee registrations](https://help.vtex.com/docs/tutorials/cadastros-de-colaboradores-subcategoria) | Guidelines on creating and managing roles. | Managers |
+| [Store](https://help.vtex.com/docs/tutorials/loja-indeva-subcategoria) | Settings and monitoring of sales units. | Managers |
+| [Tablet and sales associate tracking](https://help.vtex.com/docs/tutorials/tablet-e-lista-da-vez-subcategoria) | Selector to choose the sales associate who will serve the next customer at physical points of sale (POS). | Sales associates |
+| [Sales associates](https://help.vtex.com/docs/tutorials/vendedores-subcategoria) | Management of goals, results, and individual performance monitoring. | Sales associates |
+| [Managers](https://help.vtex.com/docs/tutorials/managers-subcategory) | Managerial overview and consolidated team results. | Managers |
+| [Goals](https://help.vtex.com/docs/tutorials/goals-subcategory) | Visualization and tracking of sales goals. | Managers and sales associates |
+| [Goal definition](https://help.vtex.com/docs/tutorials/goals-registration-subcategory) | Creation, editing, and monitoring of sales goals. | Managers |
+| [Sales update and validation](https://help.vtex.com/docs/tutorials/sales-update-with-pdv-subcategory) | Integration with POS/ERP and validation rules. | Managers and technical team |
+| [Sales associate feedback](https://help.vtex.com/en/docs/tutorials/seller-feedback-subcategory) | Reviews and comments on sales and individual performance. | Sales associates and managers |
+| [Rankings and campaigns](https://help.vtex.com/docs/tutorials/rankings-e-campanhas-subcategoria) | Creation and tracking of campaigns and performance rankings. | Managers |
+| [Reports](https://help.vtex.com/docs/tutorials/relat%C3%B3rios-indeva-subcategoria) | Custom dashboards and operation indicators. | Managers |
+| [Indeva forms](https://help.vtex.com/docs/tutorials/formul%C3%A1rios-indeva-subcategoria) | Creation, sending, and analysis of operational forms. | Managers |
+| [Indeva sales associate tracking](https://help.vtex.com/docs/tutorials/lista-da-vez-indeva-subcategoria) | Management of the order of the sales associate who will serve the next customer in stores. | Sales associates |
+| [Indeva finance](https://help.vtex.com/docs/tutorials/financeiro-indeva-subcategoria) | Consolidated view of results and bonuses. | Managers |
+| [Devices and apps](https://help.vtex.com/docs/tutorials/devices-and-apps-subcategory) | Instructions for using the platform on different devices. | All roles |
+| [Indeva training](https://help.vtex.com/docs/tutorials/indeva-training-subcategory) | Training content and best practices. | All roles |
+| [Indeva usability](https://help.vtex.com/docs/tutorials/usabilidade-indeva-subcategoria) | Tips and instructions regarding product navigation and user experience. | All roles |
+| [Indeva Support (Suporte Indeva)](https://help.vtex.com/docs/tutorials/indeva-support-subcategory) | Information on support channels and ticket submission. | All roles |
 
  ## What needs to be done?
 
-No action is required. The Indeva documentation is now available in the VTEX Help Center and can be accessed under the [Indeva by VTEX](https://help.vtex.com/pt/category/indeva-by-vtex--1QIG6GwCJBv1wrR8wiuWYL) category.
+No action is required. The Indeva documentation is now available in the VTEX Help Center and can be accessed under the [Indeva by VTEX](https://help.vtex.com/docs/tutorials/indeva-by-vtex-category) category.
