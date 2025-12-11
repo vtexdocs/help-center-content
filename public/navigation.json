@@ -44014,21 +44014,6 @@
             },
             {
               "name": {
-                "en": "\"Back to site\" button takes to gatewayCallback/{orderGroup}/Success instead of placeOrder page",
-                "es": "El botón \"Volver al sitio\" lleva a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder",
-                "pt": "O botão \"Voltar ao site\" leva ao gatewayCallback/{orderGroup}/Success em vez da página placeOrder"
-              },
-              "slug": {
-                "en": "back-to-site-button-takes-to-gatewaycallbackordergroupsuccess-instead-of-placeorder-page",
-                "es": "el-boton-volver-al-sitio-lleva-a-gatewaycallbackordergroupsuccess-en-lugar-de-a-la-pagina-placeorder",
-                "pt": "o-botao-voltar-ao-site-leva-ao-gatewaycallbackordergroupsuccess-em-vez-da-pagina-placeorder"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Adding a new address on Invoice Address returns null API results",
                 "es": "Añadir una nueva dirección en Dirección de factura devuelve resultados nulos de la API",
                 "pt": "A adição de um novo endereço no endereço da fatura retorna resultados nulos da API"
@@ -45942,21 +45927,6 @@
                 "en": "null-values-in-deliveryslainminutes-object-for-same-day-scheduled-delivery",
                 "es": "valores-nulos-en-el-objeto-deliveryslainminutes-para-la-entrega-programada-en-el-mismo-dia",
                 "pt": "valores-nulos-no-objeto-deliveryslainminutes-para-entrega-programada-para-o-mesmo-dia"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "pt": "O botão 'Back to site' leva ao gatewayCallback//Success ao invés de placeOrder page",
-                "en": "O botão 'Back to site' leva ao gatewayCallback//Success ao invés de placeOrder page",
-                "es": "O botão 'Back to site' leva ao gatewayCallback//Success ao invés de placeOrder page"
-              },
-              "slug": {
-                "pt": "o-botao-back-to-site-leva-ao-gatewaycallbacksuccess-ao-inves-de-placeorder-page",
-                "en": "",
-                "es": ""
               },
               "origin": "",
               "type": "markdown",
@@ -64971,6 +64941,21 @@
                 "en": "rest-contentrange-header-shows-incorrect-total-when-using-custom-index-on-entity",
                 "es": "la-cabecera-rest-contentrange-muestra-un-total-incorrecto-al-utilizar-un-indice-personalizado-en-una-entidad",
                 "pt": "o-cabecalho-do-intervalo-de-conteudo-rest-mostra-o-total-incorreto-ao-usar-o-indice-personalizado-na-entidade"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Search API returns Timeout when querying large Master Data entities without filters",
+                "es": "La API de búsqueda devuelve un tiempo de espera al consultar grandes entidades de datos maestros sin filtros.",
+                "pt": "A API de pesquisa retorna o tempo limite ao consultar grandes entidades de dados mestre sem filtros"
+              },
+              "slug": {
+                "en": "search-api-returns-timeout-when-querying-large-master-data-entities-without-filters",
+                "es": "la-api-de-busqueda-devuelve-un-tiempo-de-espera-al-consultar-grandes-entidades-de-datos-maestros-sin-filtros",
+                "pt": "a-api-de-pesquisa-retorna-o-tempo-limite-ao-consultar-grandes-entidades-de-dados-mestre-sem-filtros"
               },
               "origin": "",
               "type": "markdown",
