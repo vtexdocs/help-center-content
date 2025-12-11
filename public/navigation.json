@@ -47104,6 +47104,21 @@
             },
             {
               "name": {
+                "en": "Shopper is redirect to gatewayCallback/{orderGroup}/Success instead of placeOrder page",
+                "es": "El comprador es redirigido a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder",
+                "pt": "O comprador é redirecionado para a página gatewayCallback/{orderGroup}/Success em vez da página placeOrder"
+              },
+              "slug": {
+                "en": "shopper-is-redirect-to-gatewaycallbackordergroupsuccess-instead-of-placeorder-page",
+                "es": "el-comprador-es-redirigido-a-gatewaycallbackordergroupsuccess-en-lugar-de-a-la-pagina-placeorder",
+                "pt": "o-comprador-e-redirecionado-para-a-pagina-gatewaycallbackordergroupsuccess-em-vez-da-pagina-placeorder"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Shoppers not able to access the payment step directly with a complete profile and available pickup option",
                 "es": "Los compradores no pueden acceder directamente al paso de pago con un perfil completo y la opción de recogida disponible",
                 "pt": "Compradores que não conseguem acessar a etapa de pagamento diretamente com um perfil completo e opção de retirada disponível"
