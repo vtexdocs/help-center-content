@@ -30280,6 +30280,21 @@
                 },
                 {
                   "name": {
+                    "en": "Payment settlement types",
+                    "es": "Tipos de liquidación de pagos",
+                    "pt": "Tipos de liquidação de pagamento"
+                  },
+                  "slug": {
+                    "en": "payment-settlement-types",
+                    "es": "tipos-de-liquidacion-de-pagos",
+                    "pt": "tipos-de-liquidacao-de-pagamento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Pix: FAQ",
                     "es": "Pix: FAQ",
                     "pt": "Pix: FAQ"
@@ -44014,21 +44029,6 @@
             },
             {
               "name": {
-                "en": "\"Back to site\" button takes to gatewayCallback/{orderGroup}/Success instead of placeOrder page",
-                "es": "El botón \"Volver al sitio\" lleva a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder",
-                "pt": "O botão \"Voltar ao site\" leva ao gatewayCallback/{orderGroup}/Success em vez da página placeOrder"
-              },
-              "slug": {
-                "en": "back-to-site-button-takes-to-gatewaycallbackordergroupsuccess-instead-of-placeorder-page",
-                "es": "el-boton-volver-al-sitio-lleva-a-gatewaycallbackordergroupsuccess-en-lugar-de-a-la-pagina-placeorder",
-                "pt": "o-botao-voltar-ao-site-leva-ao-gatewaycallbackordergroupsuccess-em-vez-da-pagina-placeorder"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Adding a new address on Invoice Address returns null API results",
                 "es": "Añadir una nueva dirección en Dirección de factura devuelve resultados nulos de la API",
                 "pt": "A adição de um novo endereço no endereço da fatura retorna resultados nulos da API"
@@ -45949,21 +45949,6 @@
             },
             {
               "name": {
-                "pt": "O botão 'Back to site' leva ao gatewayCallback//Success ao invés de placeOrder page",
-                "en": "O botão 'Back to site' leva ao gatewayCallback//Success ao invés de placeOrder page",
-                "es": "O botão 'Back to site' leva ao gatewayCallback//Success ao invés de placeOrder page"
-              },
-              "slug": {
-                "pt": "o-botao-back-to-site-leva-ao-gatewaycallbacksuccess-ao-inves-de-placeorder-page",
-                "en": "",
-                "es": ""
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Order can't be created due to invalid credit card",
                 "es": "No se puede crear el pedido debido a que la tarjeta de crédito no es válida",
                 "pt": "O pedido não pode ser criado devido a um cartão de crédito inválido"
@@ -47105,7 +47090,7 @@
             {
               "name": {
                 "en": "Shopper is redirect to gatewayCallback/{orderGroup}/Success instead of placeOrder page",
-                "es": "El comprador es redirigido a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder.",
+                "es": "El comprador es redirigido a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder",
                 "pt": "O comprador é redirecionado para a página gatewayCallback/{orderGroup}/Success em vez da página placeOrder"
               },
               "slug": {
@@ -52518,6 +52503,21 @@
                 "en": "searches-with-at-the-end-not-working-correctly",
                 "es": "las-busquedas-con-al-final-no-funcionan-correctamente",
                 "pt": "pesquisas-com-no-final-nao-funcionando-corretamente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "SKU Detach selector lists product specifications in the Search Settings",
+                "es": "El selector SKU Detach enumera las especificaciones del producto en los Ajustes de búsqueda",
+                "pt": "O seletor SKU Detach lista as especificações do produto nas configurações de pesquisa"
+              },
+              "slug": {
+                "en": "sku-detach-selector-lists-product-specifications-in-the-search-settings",
+                "es": "el-selector-sku-detach-enumera-las-especificaciones-del-producto-en-los-ajustes-de-busqueda",
+                "pt": "o-seletor-sku-detach-lista-as-especificacoes-do-produto-nas-configuracoes-de-pesquisa"
               },
               "origin": "",
               "type": "markdown",
@@ -58610,6 +58610,21 @@
             },
             {
               "name": {
+                "en": "Competing Authorization Rules generated when receiving a delayToCancel value",
+                "es": "Reglas de autorización competidoras generadas al recibir un valor delayToCancel",
+                "pt": "Regras de autorização concorrentes geradas ao receber um valor delayToCancel"
+              },
+              "slug": {
+                "en": "competing-authorization-rules-generated-when-receiving-a-delaytocancel-value",
+                "es": "reglas-de-autorizacion-competidoras-generadas-al-recibir-un-valor-delaytocancel",
+                "pt": "regras-de-autorizacao-concorrentes-geradas-ao-receber-um-valor-delaytocancel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Console error [Report Only] - Refused to apply inline style because it violates the following Content Security",
                 "es": "Error de consola [Sólo informe] - Se ha denegado la aplicación del estilo en línea porque infringe la siguiente seguridad de contenido",
                 "pt": "Erro de console [Report Only] - Recusou-se a aplicar o estilo inline porque ele viola a seguinte segurança de conteúdo"
@@ -59420,21 +59435,6 @@
             },
             {
               "name": {
-                "en": "Giftcard transactions returning empty",
-                "es": "Transacciones con tarjeta regalo vacías",
-                "pt": "Transações de cartões-presente que retornam vazias"
-              },
-              "slug": {
-                "en": "giftcard-transactions-returning-empty",
-                "es": "transacciones-con-tarjeta-regalo-vacias",
-                "pt": "transacoes-de-cartoespresente-que-retornam-vazias"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Import file for customer credit invoices stuck in loading",
                 "es": "Archivo de importación de facturas de crédito de clientes atascado en la carga",
                 "pt": "Arquivo de importação de faturas de crédito de clientes travado no carregamento"
@@ -59818,6 +59818,21 @@
                 "en": "lack-of-validation-in-the-billingaddress-zip-code",
                 "es": "falta-de-validacion-en-el-codigo-postal-billingaddress",
                 "pt": "falta-de-validacao-no-codigo-postal-billingaddress"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "List Giftcard transactions API returning empty or incomplete",
+                "es": "Lista de transacciones de Giftcard API que devuelve vacía o incompleta",
+                "pt": "Listagem da API de transações de cartão-presente que retorna vazia ou incompleta"
+              },
+              "slug": {
+                "en": "list-giftcard-transactions-api-returning-empty-or-incomplete",
+                "es": "lista-de-transacciones-de-giftcard-api-que-devuelve-vacia-o-incompleta",
+                "pt": "listagem-da-api-de-transacoes-de-cartaopresente-que-retorna-vazia-ou-incompleta"
               },
               "origin": "",
               "type": "markdown",
@@ -64963,6 +64978,21 @@
             },
             {
               "name": {
+                "en": "Search API returns Timeout when querying large Master Data entities without filters",
+                "es": "La API de búsqueda devuelve un tiempo de espera al consultar grandes entidades de datos maestros sin filtros.",
+                "pt": "A API de pesquisa retorna o tempo limite ao consultar grandes entidades de dados mestre sem filtros"
+              },
+              "slug": {
+                "en": "search-api-returns-timeout-when-querying-large-master-data-entities-without-filters",
+                "es": "la-api-de-busqueda-devuelve-un-tiempo-de-espera-al-consultar-grandes-entidades-de-datos-maestros-sin-filtros",
+                "pt": "a-api-de-pesquisa-retorna-o-tempo-limite-ao-consultar-grandes-entidades-de-dados-mestre-sem-filtros"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Searching not return document when the value contains a + (plus) symbol.",
                 "es": "La búsqueda no devuelve el documento cuando el valor contiene un símbolo + (más).",
                 "pt": "A pesquisa não retorna o documento quando o valor contém um símbolo + (mais)."
@@ -65092,6 +65122,21 @@
                 "en": "ab-tester-app-shows-miscalculated-information-for-sessions-and-conversion",
                 "es": "la-aplicacion-ab-tester-muestra-informacion-erronea-sobre-sesiones-y-conversion",
                 "pt": "o-aplicativo-ab-tester-mostra-informacoes-mal-calculadas-para-sessoes-e-conversao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "add_to_cart event doesn't send the discount info and the discount price",
+                "es": "El evento add_to_cart no envía la información de descuento y el precio de descuento",
+                "pt": "O evento add_to_cart não envia as informações de desconto e o preço do desconto"
+              },
+              "slug": {
+                "en": "addtocart-event-doesnt-send-the-discount-info-and-the-discount-price",
+                "es": "el-evento-addtocart-no-envia-la-informacion-de-descuento-y-el-precio-de-descuento",
+                "pt": "o-evento-addtocart-nao-envia-as-informacoes-de-desconto-e-o-preco-do-desconto"
               },
               "origin": "",
               "type": "markdown",
