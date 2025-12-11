@@ -28224,6 +28224,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Credibanco",
+                    "es": "Configurar pago con Credibanco",
+                    "pt": "Configurar pagamento com Credibanco"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-credibanco",
+                    "es": "configurar-pago-con-credibanco",
+                    "pt": "configurar-pagamento-com-credibanco"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Credimarcas",
                     "es": "Configurar pago con Credimarcas",
                     "pt": "Configurar pagamento com Credimarcas"
