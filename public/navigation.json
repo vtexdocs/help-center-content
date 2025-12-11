@@ -47151,7 +47151,7 @@
             {
               "name": {
                 "en": "Shopper is redirect to gatewayCallback/{orderGroup}/Success instead of placeOrder page",
-                "es": "El comprador es redirigido a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder.",
+                "es": "El comprador es redirigido a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder",
                 "pt": "O comprador é redirecionado para a página gatewayCallback/{orderGroup}/Success em vez da página placeOrder"
               },
               "slug": {
@@ -51821,6 +51821,21 @@
             },
             {
               "name": {
+                "en": "Intelligent Search can throw an error when a product/sku has a specification with the same name as a native field",
+                "es": "La Búsqueda Inteligente puede lanzar un error cuando un producto/sku tiene una especificación con el mismo nombre que un campo nativo",
+                "pt": "O Intelligent Search pode gerar um erro quando um produto/sku tem uma especificação com o mesmo nome de um campo nativo"
+              },
+              "slug": {
+                "en": "intelligent-search-can-throw-an-error-when-a-productsku-has-a-specification-with-the-same-name-as-a-native-field",
+                "es": "la-busqueda-inteligente-puede-lanzar-un-error-cuando-un-productosku-tiene-una-especificacion-con-el-mismo-nombre-que-un-campo-nativo",
+                "pt": "o-intelligent-search-pode-gerar-um-erro-quando-um-produtosku-tem-uma-especificacao-com-o-mesmo-nome-de-um-campo-nativo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Intelligent Search cleanup intermitently failing",
                 "es": "La limpieza de la Búsqueda Inteligente falla intermitentemente",
                 "pt": "Falha intermitente na limpeza da Pesquisa Inteligente"
@@ -52069,6 +52084,21 @@
                 "en": "not-able-to-open-proper-detached-sku-on-pdp-in-a-new-tab",
                 "es": "no-se-puede-abrir-la-sku-adecuada-en-pdp-en-una-nueva-pestana",
                 "pt": "nao-e-possivel-abrir-a-sku-separada-adequada-no-pdp-em-uma-nova-guia"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "PLP does not load when facet values are reserved words",
+                "es": "PLP no se carga cuando los valores de las facetas son palabras reservadas",
+                "pt": "O PLP não é carregado quando os valores da faceta são palavras reservadas"
+              },
+              "slug": {
+                "en": "plp-does-not-load-when-facet-values-are-reserved-words",
+                "es": "plp-no-se-carga-cuando-los-valores-de-las-facetas-son-palabras-reservadas",
+                "pt": "o-plp-nao-e-carregado-quando-os-valores-da-faceta-sao-palavras-reservadas"
               },
               "origin": "",
               "type": "markdown",
@@ -52541,6 +52571,21 @@
             },
             {
               "name": {
+                "en": "SKU Detach selector lists product specifications in the Search Settings",
+                "es": "El selector SKU Detach enumera las especificaciones del producto en los Ajustes de búsqueda",
+                "pt": "O seletor SKU Detach lista as especificações do produto nas configurações de pesquisa"
+              },
+              "slug": {
+                "en": "sku-detach-selector-lists-product-specifications-in-the-search-settings",
+                "es": "el-selector-sku-detach-enumera-las-especificaciones-del-producto-en-los-ajustes-de-busqueda",
+                "pt": "o-seletor-sku-detach-lista-as-especificacoes-do-produto-nas-configuracoes-de-pesquisa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "SKU Specification filters aren't loaded when the SKU is only available in a Whitelabel seller",
                 "es": "Los filtros de especificación de SKU no se cargan cuando la SKU sólo está disponible en un vendedor de etiqueta blanca",
                 "pt": "Os filtros de especificação de SKU não são carregados quando a SKU está disponível apenas em um vendedor Whitelabel"
@@ -52564,21 +52609,6 @@
                 "en": "sku-variations-doesnt-return-in-the-plp",
                 "es": "las-variaciones-de-sku-no-vuelven-en-el-plp",
                 "pt": "as-variacoes-da-sku-nao-retornam-no-plp"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Some facet values may not work with Intelligent Search",
-                "es": "Algunos valores de las facetas pueden no funcionar con la Búsqueda Inteligente",
-                "pt": "Alguns valores de faceta podem não funcionar com a Pesquisa Inteligente"
-              },
-              "slug": {
-                "en": "some-facet-values-may-not-work-with-intelligent-search",
-                "es": "algunos-valores-de-las-facetas-pueden-no-funcionar-con-la-busqueda-inteligente",
-                "pt": "alguns-valores-de-faceta-podem-nao-funcionar-com-a-pesquisa-inteligente"
               },
               "origin": "",
               "type": "markdown",
@@ -59451,21 +59481,6 @@
             },
             {
               "name": {
-                "en": "Giftcard transactions returning empty",
-                "es": "Transacciones con tarjeta regalo vacías",
-                "pt": "Transações de cartões-presente que retornam vazias"
-              },
-              "slug": {
-                "en": "giftcard-transactions-returning-empty",
-                "es": "transacciones-con-tarjeta-regalo-vacias",
-                "pt": "transacoes-de-cartoespresente-que-retornam-vazias"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Import file for customer credit invoices stuck in loading",
                 "es": "Archivo de importación de facturas de crédito de clientes atascado en la carga",
                 "pt": "Arquivo de importação de faturas de crédito de clientes travado no carregamento"
@@ -59849,6 +59864,21 @@
                 "en": "lack-of-validation-in-the-billingaddress-zip-code",
                 "es": "falta-de-validacion-en-el-codigo-postal-billingaddress",
                 "pt": "falta-de-validacao-no-codigo-postal-billingaddress"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "List Giftcard transactions API returning empty or incomplete",
+                "es": "Lista de transacciones de Giftcard API que devuelve vacía o incompleta",
+                "pt": "Listagem da API de transações de cartão-presente que retorna vazia ou incompleta"
+              },
+              "slug": {
+                "en": "list-giftcard-transactions-api-returning-empty-or-incomplete",
+                "es": "lista-de-transacciones-de-giftcard-api-que-devuelve-vacia-o-incompleta",
+                "pt": "listagem-da-api-de-transacoes-de-cartaopresente-que-retorna-vazia-ou-incompleta"
               },
               "origin": "",
               "type": "markdown",
@@ -63506,6 +63536,21 @@
             },
             {
               "name": {
+                "en": "External Marketplace prices not updated after promotion start or end",
+                "es": "Los precios del mercado externo no se actualizan tras el inicio o el fin de la promoción",
+                "pt": "Preços do Marketplace externo não atualizados após o início ou término da promoção"
+              },
+              "slug": {
+                "en": "external-marketplace-prices-not-updated-after-promotion-start-or-end",
+                "es": "los-precios-del-mercado-externo-no-se-actualizan-tras-el-inicio-o-el-fin-de-la-promocion",
+                "pt": "precos-do-marketplace-externo-nao-atualizados-apos-o-inicio-ou-termino-da-promocao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Fixed Price being created on trade Policy 1 when saving bundle prices.",
                 "es": "Precio fijo que se crea en la política comercial 1 al guardar los precios de los paquetes.",
                 "pt": "Preço fixo sendo criado na política comercial 1 ao economizar preços de pacote."
@@ -65108,6 +65153,21 @@
                 "en": "ab-tester-app-shows-miscalculated-information-for-sessions-and-conversion",
                 "es": "la-aplicacion-ab-tester-muestra-informacion-erronea-sobre-sesiones-y-conversion",
                 "pt": "o-aplicativo-ab-tester-mostra-informacoes-mal-calculadas-para-sessoes-e-conversao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "add_to_cart event doesn't send the discount info and the discount price",
+                "es": "El evento add_to_cart no envía la información de descuento y el precio de descuento",
+                "pt": "O evento add_to_cart não envia as informações de desconto e o preço do desconto"
+              },
+              "slug": {
+                "en": "addtocart-event-doesnt-send-the-discount-info-and-the-discount-price",
+                "es": "el-evento-addtocart-no-envia-la-informacion-de-descuento-y-el-precio-de-descuento",
+                "pt": "o-evento-addtocart-nao-envia-as-informacoes-de-desconto-e-o-preco-do-desconto"
               },
               "origin": "",
               "type": "markdown",
