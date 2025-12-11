@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o gateway 55PAY. Por meio desta integração, sua loja pode utilizar os serviços de [PABX Virtual](https://suporte.55pbx.com/hc/pt-br/articles/218648978-O-que-%C3%A9-PABX-Virtual-) da empresa 55PBX.
+Na VTEX, é possível realizar a integração com o gateway 55PAY. Por meio desta integração, sua loja pode utilizar os serviços de [PABX Virtual](https://suporte.55pbx.com/support/solutions/articles/151000180060-o-que-%C3%A9-pabx-virtual-) da empresa 55PBX.
 
 Para configurar 55PAY, siga os passos abaixo:
 
