@@ -15,6 +15,9 @@ locale: pt
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
+> ⚠️ Este recurso está em Beta fechado, o que significa que apenas clientes específicos podem acessá-lo agora. Caso queira implementá-lo no futuro, entre em contato com nosso [Suporte](https://support.vtex.com/hc/pt-br/).
+
+
 Quando um cliente finaliza uma compra em uma loja VTEX, um número de pedido é gerado e o pagamento é processado. Após essa etapa, a liquidação do pagamento, também conhecida como captura, pode ocorrer de três formas distintas:
 
 - Total

@@ -15,6 +15,8 @@ locale: en
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
+> ⚠️ This feature is in closed beta, meaning only specific customers can access it now. If you want to implement it in the future, please contact our [Support](https://support.vtex.com/hc/en-us/).
+
 When a customer places an order in a VTEX store, the system generates an order number and processes the payment. Then, the payment settlement can occur in three ways:
 
 - Total
