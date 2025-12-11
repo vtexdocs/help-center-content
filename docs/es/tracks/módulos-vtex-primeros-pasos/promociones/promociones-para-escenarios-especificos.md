@@ -22,6 +22,7 @@ Cuando la tienda necesita aplicar reglas más específicas pueden configurarse o
 -  [Más por menos](#mas-por-menos)
 -  [Descuento progresivo](#descuento-progresivo)
 -  [Compra uno y lleva uno gratis](#compra-uno-y-lleva-uno-gratis)
+-  [Promoción de campaña](#promocion-de-campana)
 -  [Restricciones de uso](#restricciones-de-uso)
 
 ## Comprar juntos

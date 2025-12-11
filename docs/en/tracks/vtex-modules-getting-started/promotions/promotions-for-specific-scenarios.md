@@ -22,6 +22,7 @@ To apply more specific rules, you can configure other types of promotions to mee
 -  [More for Less](#more-for-less)
 -  [Progressive Discount](#progressive-discount)
 -  [Buy One Get One](#buy-one-get-one)
+-  [Campaign Promotion](#campaign-promotion)
 -  [Usage restrictions](#usage-restrictions)
 
 ## Buy Together

@@ -18,11 +18,13 @@ order: 5
 Na VTEX existem diversos tipos de promoções. A **Promoção Regular** é a promoção padrão configurada nas contas VTEX.  
 Quando a loja precisa aplicar regras mais específicas, é possível configurar outros tipos de promoções que atenda diferentes cenários. Veja a seguir quais promoções estão disponíveis:
 
--  [Compre junto](#compre-junto)  
--  [Leve mais por menos](#leve-mais-por-menos)  
--  [Desconto progressivo](#desconto-progressivo)  
--  [Compre e ganhe](#compre-e-ganhe)  
+-  [Compre Junto](#compre-junto)  
+-  [Leve mais por Menos](#leve-mais-por-menos)  
+-  [Desconto Progressivo](#desconto-progressivo)  
+-  [Compre e Ganhe](#compre-e-ganhe)  
+-  [Promoção de Campanha](#promocao-de-campanha)
 -  [Restrições de uso](#restricoes-de-uso)
+
 
 ##  Compre Junto
 
@@ -125,7 +127,7 @@ A tela de configuração permite definir as condições da compra e o benefício
 
 Para mais informações, acesse [Como funciona a promoção Compre e Ganhe](https://help.vtex.com/pt/tutorial/compre-e-ganhe--tutorials_322).
 
-## Promoção de campanha
+## Promoção de Campanha
 
 A **Promoção de Campanha** permite criar promoções voltadas a audiências específicas, oferecendo benefícios como **frete grátis**, **brindes** e **tabelas de preços promocionais**.
 
