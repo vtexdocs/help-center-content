@@ -14,7 +14,7 @@ announcementImageID:
 announcementSynopsisEN: 'Indeva by VTEX documentation is now part of the Help Center, offering a unified and more organized navigation experience.'
 ---
 
-To ensure a unified and easy-to-navigate documentation experience, all **Indeva by VTEX** documentation has been migrated to the [VTEX Help Center](https://help.vtex.com/en). 
+To ensure a unified and easy-to-navigate documentation experience, all **Indeva by VTEX** documentation has been migrated to the [VTEX Help Center](https://help.vtex.com/docs/tutorials/indeva-by-vtex-category). 
  
 [Indeva by VTEX](https://help.vtex.com/docs/tutorials/indeva-by-vtex-category) is a solution focused on commercial performance management and sales team productivity. The platform centralizes data, goals, and results in a single environment, making it easier to track and analyze key performance indicators (KPIs) for sales associates.
 

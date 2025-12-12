@@ -16,7 +16,7 @@ announcementSynopsisES: 'La documentación de Indeva by VTEX ahora está disponi
 
 Para garantizar una experiencia de documentación unificada y fácil de navegar, toda la documentación de **Indeva by VTEX** se migró al [VTEX Help Center](https://help.vtex.com/es/docs/tutorials/indeva-by-vtex-categoria).
 
-[Indeva by VTEX](https://help.vtex.com/es/docs/tutorials/indeva-by-vtex-category) es una solución orientada a la gestión del desempeño comercial y la productividad de los equipos de ventas (disponible solo para clientes de Brasil). La plataforma centraliza datos, metas y resultados en un solo entorno, facilitando el seguimiento y análisis de indicadores clave de rendimiento (KPIs) de los vendedores.
+[Indeva by VTEX](https://help.vtex.com/es/docs/tutorials/indeva-by-vtex-categoria) es una solución orientada a la gestión del desempeño comercial y la productividad de los equipos de ventas (disponible solo para clientes de Brasil). La plataforma centraliza datos, metas y resultados en un solo entorno, facilitando el seguimiento y análisis de indicadores clave de rendimiento (KPIs) de los vendedores.
 
 ## ¿Qué cambió?
 
@@ -39,16 +39,16 @@ En el Help Center puedes consultar las siguientes subcategorías:
 | [Registro de metas](https://help.vtex.com/es/docs/tutorials/cadastro-de-metas-subcategoria) | Creación, edición y seguimiento de metas de ventas. | Gerentes |
 | [Actualización y validación de ventas](https://help.vtex.com/es/docs/tutorials/actualizacion-de-ventas-con-pdv) | Integración con PDV/ERP y reglas de validación. | Gerentes y equipo técnico |
 | [Feedback del vendedor](https://help.vtex.com/es/docs/tutorials/feedback-del-vendedor) | Registro de evaluaciones y comentarios sobre ventas y desempeño individual. | Vendedores y gerentes |
-| [Rankings y campañas](https://help.vtex.com/es/docs/tutorials/rankings-e-campanhas-subcategoria) | Creación y seguimiento de campañas y rankings de desempeño. | Gerentes |
-| [Informes](https://help.vtex.com/es/docs/tutorials/relat%C3%B3rios-indeva-subcategoria) | Dashboards e indicadores personalizados de la operación. | Gerentes |
-| [Formularios Indeva](https://help.vtex.com/es/docs/tutorials/formul%C3%A1rios-indeva-subcategoria) | Creación, envío y análisis de formularios operativos. | Gerentes |
-| [Seguimiento de vendedores Indeva](https://help.vtex.com/es/docs/tutorials/lista-da-vez-indeva-subcategoria) | Gestión del orden del vendedor que atenderá al próximo cliente en las tiendas. | Vendedores |
+| [Rankings y campañas](https://help.vtex.com/es/docs/tutorials/rankings-y-campanas-subcategoria) | Creación y seguimiento de campañas y rankings de desempeño. | Gerentes |
+| [Informes](https://help.vtex.com/es/docs/tutorials/informes-de-indeva-subcategoria) | Dashboards e indicadores personalizados de la operación. | Gerentes |
+| [Formularios Indeva](https://help.vtex.com/es/docs/tutorials/formularios-de-indeva-subcategoria) | Creación, envío y análisis de formularios operativos. | Gerentes |
+| [Seguimiento de vendedores Indeva](https://help.vtex.com/es/docs/tutorials/lista-de-turno-de-indeva-subcategoria) | Gestión del orden del vendedor que atenderá al próximo cliente en las tiendas. | Vendedores |
 | [Finanzas Indeva](https://help.vtex.com/es/docs/tutorials/financeiro-indeva-subcategoria) | Visión consolidada de resultados y bonificaciones. | Gerentes |
 | [Dispositivos y aplicaciones](https://help.vtex.com/es/docs/tutorials/dispositivos-y-aplicaciones-subcategoria) | Orientaciones sobre el uso de la plataforma en diferentes dispositivos. | Todos los roles |
-| [Capacitación Indeva](https://help.vtex.com/es/docs/tutorials/treinamento-indeva-subcategoria) | Contenidos de capacitación y buenas prácticas. | Todos los roles |
+| [Capacitación Indeva](https://help.vtex.com/es/docs/tutorials/capacitacion-de-indeva-subcategoria) | Contenidos de capacitación y buenas prácticas. | Todos los roles |
 | [Usabilidad Indeva](https://help.vtex.com/es/docs/tutorials/usabilidad-de-indeva-subcategoria) | Consejos y orientaciones sobre navegación y experiencia de uso del producto. | Todos los roles |
 | [Soporte Indeva](https://help.vtex.com/es/docs/tutorials/soporte-de-indeva-subcategoria) | Información sobre canales de contacto y apertura de tickets. | Todos los roles |
 
 ## ¿Qué se necesita hacer?
 
-No es necesaria ninguna acción. La documentación de Indeva ya está disponible para consulta en el Help Center y puede accederse en la categoría [Indeva by VTEX](https://help.vtex.com/es/docs/tutorials/indeva-by-vtex-category).
+No es necesaria ninguna acción. La documentación de Indeva ya está disponible para consulta en el Help Center y puede accederse en la categoría [Indeva by VTEX](https://help.vtex.com/es/docs/tutorials/indeva-by-vtex-categoria).
