@@ -950,6 +950,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Indeva by VTEX documentation now in the VTEX Help Center",
+                    "es": "La documentación de Indeva by VTEX migra al Help Center",
+                    "pt": "Indeva by VTEX documentation now in the VTEX Help Center"
+                  },
+                  "slug": {
+                    "en": "2025-12-05-indeva-by-vtex-documentation-now-in-the-vtex-help-center",
+                    "es": "2025-12-05-la-documentacion-de-indeva-by-vtex-migra-al-help-center",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Breaking change Livelo: New mandatory access permission ",
                     "es": "Breaking change Livelo: Nuevo permiso obligatorio",
                     "pt": "Breaking change Livelo: Nova permissão de acesso obrigatória"
@@ -958,6 +973,37 @@
                     "en": "2025-12-02-breaking-change-livelo-new-mandatory-permission",
                     "es": "2025-12-02-breaking-change-livelo-nuevo-permiso-obligatorio",
                     "pt": "2025-12-02-breaking-change-livelo-nova-permissao-obrigatoria"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Dezembro",
+                "es": "Dezembro",
+                "pt": "Dezembro"
+              },
+              "slug": {
+                "en": "dezembro",
+                "es": "dezembro",
+                "pt": "dezembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Documentação da Indeva by VTEX migrada para Help Center VTEX",
+                    "en": "Documentação da Indeva by VTEX migrada para Help Center VTEX",
+                    "es": "Documentação da Indeva by VTEX migrada para Help Center VTEX"
+                  },
+                  "slug": {
+                    "pt": "2025-12-05-documentacao-da-indeva-by-vtex-migrada-para-o-help-center-vtex",
+                    "en": "",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17511,21 +17557,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "​​Dynamic relevance in Intelligent Search (Beta)",
-                    "es": "Relevancia dinámica en Intelligent Search (beta)",
-                    "pt": "Relevância dinâmica no Intelligent Search (Beta)"
-                  },
-                  "slug": {
-                    "en": "dynamic-relevance-in-intelligent-search-beta",
-                    "es": "relevancia-dinamica-en-intelligent-search-beta",
-                    "pt": "relevancia-dinamica-no-intelligent-search-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Intelligent Search: Semantic search (Beta)",
                     "es": "Intelligent Search: Búsqueda semántica (Beta)",
                     "pt": "Intelligent Search: Busca semântica (Beta)"
@@ -28134,6 +28165,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Chase Payment",
+                    "es": "Configurar pago con Chase Payment",
+                    "pt": "Configurar pagamento com Chase Payment"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-chase-payment",
+                    "es": "configurar-pago-con-chase-payment",
+                    "pt": "configurar-pagamento-com-chase-payment"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Cielo Orquestrador",
                     "es": "Configurar pago con Cielo Orquestrador",
                     "pt": "Configurar pagamento com Cielo Orquestrador"
@@ -28224,6 +28270,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Credibanco",
+                    "es": "Configurar pago con Credibanco",
+                    "pt": "Configurar pagamento com Credibanco"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-credibanco",
+                    "es": "configurar-pago-con-credibanco",
+                    "pt": "configurar-pagamento-com-credibanco"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Credimarcas",
                     "es": "Configurar pago con Credimarcas",
                     "pt": "Configurar pagamento com Credimarcas"
@@ -28262,6 +28323,21 @@
                     "en": "setting-up-payments-with-creditea",
                     "es": "configurar-pago-con-creditea",
                     "pt": "configurar-pagamento-com-creditea"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Creditop",
+                    "es": "Configurar pago con Creditop",
+                    "pt": "Configurar pagamento com Creditop"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-creditop",
+                    "es": "configurar-pago-con-creditop",
+                    "pt": "configurar-pagamento-com-creditop"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29867,6 +29943,21 @@
                     "en": "setting-up-payments-with-virtualpos",
                     "es": "configurar-pago-con-virtualpos",
                     "pt": "configurar-pagamento-com-virtualpos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Visa Conecta",
+                    "es": "Configurar pago con Visa Conecta",
+                    "pt": "Configurar pagamento com Visa Conecta"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-visa-conecta",
+                    "es": "configurar-pago-con-visa-conecta",
+                    "pt": "configurar-pagamento-com-visa-conecta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -58588,6 +58679,21 @@
                 "en": "cobranded-saved-card-with-wrong-payment-system-id",
                 "es": "tarjeta-guardada-de-marca-compartida-con-identificador-de-sistema-de-pago-incorrecto",
                 "pt": "cartao-salvo-de-marca-compartilhada-com-identificacao-incorreta-do-sistema-de-pagamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Competing Authorization Rules generated when receiving a delayToCancel value",
+                "es": "Reglas de autorización competidoras generadas al recibir un valor delayToCancel",
+                "pt": "Regras de autorização concorrentes geradas ao receber um valor delayToCancel"
+              },
+              "slug": {
+                "en": "competing-authorization-rules-generated-when-receiving-a-delaytocancel-value",
+                "es": "reglas-de-autorizacion-competidoras-generadas-al-recibir-un-valor-delaytocancel",
+                "pt": "regras-de-autorizacao-concorrentes-geradas-ao-receber-um-valor-delaytocancel"
               },
               "origin": "",
               "type": "markdown",
