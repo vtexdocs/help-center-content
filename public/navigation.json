@@ -18102,6 +18102,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "CMS BETA",
+                "es": "CMS BETA",
+                "pt": "CMS BETA"
+              },
+              "slug": {
+                "en": "cms-beta",
+                "es": "cms-beta",
+                "pt": "cms-beta"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Content Management overview",
+                    "es": "Content Management overview",
+                    "pt": "Content Management overview"
+                  },
+                  "slug": {
+                    "en": "content-management-overview",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
