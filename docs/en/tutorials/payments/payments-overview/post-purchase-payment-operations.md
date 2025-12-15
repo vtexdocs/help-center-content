@@ -18,9 +18,9 @@ Post-purchase payment operations occur after an order is approved and can be of 
  
 The behavior of these operations depends on the processing mode configured for each connector in the VTEX Gateway, which can be:
 
-- Total mode
-- Hold mode
-- Partial
+- [Total mode](#total-mode)
+- [Hold mode](#hold-mode)
+- [Partial mode](#partial-mode)
 
 > ℹ️ A single account (store) can have connectors configured with different modes within VTEX Gateway — for example, one connector in **Partial mode** and another in **Hold mode**. When a transaction involves multiple connectors using different modes, such as **Hold** and **Partial**, the system automatically switches to **Total mode** to ensure consistency and integrity in the payment process.
 

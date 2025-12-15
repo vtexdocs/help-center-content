@@ -18,9 +18,9 @@ As operações de pagamento pós-compra acontecem após a aprovação do pedido 
 
 O comportamento dessas operações depende do modo de processamento configurado para cada conector no VTEX Gateway, que pode ser:
 
-- Modo Total
-- Modo Hold
-- Modo Parcial
+- [Modo Total](#modo-total)
+- [Modo Hold](#modo-hold)
+- [Modo Parcial](#modo-parcial)
 
 > ℹ️ Uma mesma conta (loja) pode ter conectores configurados com diferentes modos dentro do VTEX Gateway — por exemplo, um conector no **Modo Parcial** e outro no **Modo Hold**. Quando uma transação envolve mais de um conector com modos distintos, como **Hold** e **Parcial**, o sistema ajusta automaticamente o comportamento para o **Modo Total**, garantindo a consistência e a integridade do processo de pagamento.
 
