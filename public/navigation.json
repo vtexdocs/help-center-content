@@ -950,6 +950,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Indeva by VTEX documentation now in the VTEX Help Center",
+                    "es": "La documentación de Indeva by VTEX migra al Help Center",
+                    "pt": "Indeva by VTEX documentation now in the VTEX Help Center"
+                  },
+                  "slug": {
+                    "en": "2025-12-05-indeva-by-vtex-documentation-now-in-the-vtex-help-center",
+                    "es": "2025-12-05-la-documentacion-de-indeva-by-vtex-migra-al-help-center",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Breaking change Livelo: New mandatory access permission ",
                     "es": "Breaking change Livelo: Nuevo permiso obligatorio",
                     "pt": "Breaking change Livelo: Nova permissão de acesso obrigatória"
@@ -958,6 +973,37 @@
                     "en": "2025-12-02-breaking-change-livelo-new-mandatory-permission",
                     "es": "2025-12-02-breaking-change-livelo-nuevo-permiso-obligatorio",
                     "pt": "2025-12-02-breaking-change-livelo-nova-permissao-obrigatoria"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Dezembro",
+                "es": "Dezembro",
+                "pt": "Dezembro"
+              },
+              "slug": {
+                "en": "dezembro",
+                "es": "dezembro",
+                "pt": "dezembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Documentação da Indeva by VTEX migrada para Help Center VTEX",
+                    "en": "Documentação da Indeva by VTEX migrada para Help Center VTEX",
+                    "es": "Documentação da Indeva by VTEX migrada para Help Center VTEX"
+                  },
+                  "slug": {
+                    "pt": "2025-12-05-documentacao-da-indeva-by-vtex-migrada-para-o-help-center-vtex",
+                    "en": "",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
