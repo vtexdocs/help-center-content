@@ -1010,6 +1010,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Diciembre",
+                "es": "Diciembre",
+                "pt": "Dezembro"
+              },
+              "slug": {
+                "en": "diciembre",
+                "es": "diciembre",
+                "pt": "dezembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "Skyhub: nuevo modelo de cálculo de envío ",
+                    "pt": "Skyhub: novo modelo de simulação de frete ",
+                    "en": "Skyhub: nuevo modelo de cálculo de envío "
+                  },
+                  "slug": {
+                    "es": "2025-12-15-skyhub-nuevo-modelo-de-envio",
+                    "pt": "2025-12-15-skyhub-novo-modelo-de-calculo-de-frete",
+                    "en": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
