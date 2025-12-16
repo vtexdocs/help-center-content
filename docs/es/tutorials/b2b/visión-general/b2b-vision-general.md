@@ -3,7 +3,7 @@ title: 'B2B: Información general'
 id: 5vb9SNXhX2bZnkpAh7ADdC
 status: PUBLISHED
 createdAt: 2021-03-30T12:31:10.644Z
-updatedAt: 2025-12-11T13:56:48.012Z
+updatedAt: 2024-05-10T13:56:48.012Z
 publishedAt: 2024-05-10T13:56:48.012Z
 firstPublishedAt: 2021-03-30T18:43:45.812Z
 contentType: tutorial

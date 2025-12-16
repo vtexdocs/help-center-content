@@ -3,7 +3,7 @@ title: 'Estilos - Información general'
 id: v0Db5ohEKSFIkTzSwCjVi
 status: PUBLISHED
 createdAt: 2022-01-04T21:56:41.366Z
-updatedAt: 2025-12-11T11:49:19.859Z
+updatedAt: 2023-03-28T11:49:19.859Z
 publishedAt: 2023-03-28T11:49:19.859Z
 firstPublishedAt: 2022-01-04T22:27:33.513Z
 contentType: tutorial

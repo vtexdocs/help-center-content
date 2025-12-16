@@ -3,7 +3,7 @@ title: 'Customer Credit - Información general'
 id: 1uIqTjWxIIIEW0COMg4uE0
 status: PUBLISHED
 createdAt: 2018-11-08T17:11:28.486Z
-updatedAt: 2025-12-11T21:37:56.199Z
+updatedAt: 2024-02-09T21:37:56.199Z
 publishedAt: 2024-02-09T21:37:56.199Z
 firstPublishedAt: 2018-11-08T19:14:39.491Z
 contentType: tutorial

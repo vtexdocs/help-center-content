@@ -3,7 +3,7 @@ title: 'Personal Shopper: Información general'
 id: 12dC0UMD0C6x6kw43LF8MH
 status: PUBLISHED
 createdAt: 2024-11-19T15:03:14.481Z
-updatedAt: 2025-12-11T19:19:22.351Z
+updatedAt: 2024-11-21T19:19:22.351Z
 publishedAt: 2024-11-21T19:19:22.351Z
 firstPublishedAt: 2024-11-21T16:43:30.533Z
 contentType: tutorial

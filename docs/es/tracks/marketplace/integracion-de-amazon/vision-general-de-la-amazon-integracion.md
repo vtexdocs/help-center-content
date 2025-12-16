@@ -3,7 +3,7 @@ title: 'Información general de la Amazon integración'
 id: 1LyC9esKs7KKo4if6VpquN
 status: PUBLISHED
 createdAt: 2021-07-19T15:22:22.679Z
-updatedAt: 2025-12-11T20:00:38.897Z
+updatedAt: 2021-09-14T20:00:38.897Z
 publishedAt: 2021-09-14T20:00:38.897Z
 firstPublishedAt: 2021-07-19T20:20:16.684Z
 contentType: trackArticle

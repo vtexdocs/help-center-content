@@ -3,7 +3,7 @@ title: 'Información general Configuraciones de Usuário'
 id: 3Qsy4ce1FrWKZPoMeEQY34
 status: PUBLISHED
 createdAt: 2023-03-28T19:17:26.175Z
-updatedAt: 2025-12-11T14:25:48.567Z
+updatedAt: 2024-10-30T14:25:48.567Z
 publishedAt: 2024-10-30T14:25:48.567Z
 firstPublishedAt: 2023-03-28T19:28:17.517Z
 contentType: tutorial

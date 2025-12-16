@@ -3,7 +3,7 @@ title: 'Información general Configuraciones de la Tienda'
 id: 6VtlMoid6iM9dP14X1CopT
 status: PUBLISHED
 createdAt: 2023-03-29T23:00:51.439Z
-updatedAt: 2025-12-11T22:38:50.560Z
+updatedAt: 2023-09-13T22:38:50.560Z
 publishedAt: 2023-09-13T22:38:50.560Z
 firstPublishedAt: 2023-03-29T23:07:38.446Z
 contentType: tutorial

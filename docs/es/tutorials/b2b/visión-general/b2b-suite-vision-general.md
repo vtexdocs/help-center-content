@@ -3,7 +3,7 @@ title: 'B2B Suite - Información general'
 id: 5eG6UfveWrai7looK0kVG3
 status: PUBLISHED
 createdAt: 2024-05-09T10:31:51.517Z
-updatedAt: 2025-12-11T18:37:56.917Z
+updatedAt: 2024-05-10T18:37:56.917Z
 publishedAt: 2024-05-10T18:37:56.917Z
 firstPublishedAt: 2024-05-10T11:07:09.230Z
 contentType: tutorial

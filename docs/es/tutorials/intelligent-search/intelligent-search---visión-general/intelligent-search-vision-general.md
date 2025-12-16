@@ -3,7 +3,7 @@ title: 'Intelligent Search - Información general'
 id: 5o8ixTpYIxx3uJD0B1xp3z
 status: PUBLISHED
 createdAt: 2024-08-22T13:45:31.422Z
-updatedAt: 2025-12-11T16:36:56.579Z
+updatedAt: 2024-09-05T16:36:56.579Z
 publishedAt: 2024-09-05T16:36:56.579Z
 firstPublishedAt: 2024-09-05T16:36:56.579Z
 contentType: tutorial
