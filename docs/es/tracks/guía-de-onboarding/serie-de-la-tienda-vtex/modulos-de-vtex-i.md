@@ -26,7 +26,7 @@ La plataforma VTEX se compone de diferentes módulos, cada uno responsable de un
 
 ## Catálogo
 
-[Catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR) es el módulo de VTEX mediante el cual los retailers configuran sus productos, poniéndolos a disposición en el sitio web de la tienda. La estructura del catálogo define la experiencia de compra del cliente en la tienda online, cuando este navega por las categorías de clasificación de los productos. En la guía [Catalog](https://developers.vtex.com/docs/guides/catalog-overview), los desarrolladores pueden consultar una [visión general del módulo Catálogo](/es/tutorial/catalog-overview--77M8ItLhDXs6aBdQTqToVe) que abarca la [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api).
+[Catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR) es el módulo de VTEX mediante el cual los retailers configuran sus productos, poniéndolos a disposición en el sitio web de la tienda. La estructura del catálogo define la experiencia de compra del cliente en la tienda online, cuando este navega por las categorías de clasificación de los productos. En la guía [Catalog](https://developers.vtex.com/docs/guides/catalog-overview), los desarrolladores pueden consultar una [información general del módulo Catálogo](/es/tutorial/catalog-overview--77M8ItLhDXs6aBdQTqToVe) que abarca la [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api).
 
 ### Antes de comenzar en Catálogo
 

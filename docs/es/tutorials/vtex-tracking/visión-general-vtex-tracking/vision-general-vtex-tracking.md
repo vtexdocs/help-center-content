@@ -1,9 +1,9 @@
 ---
-title: 'Visión general VTEX Tracking'
+title: 'Información general VTEX Tracking'
 id: 1uDRquVudbPuoK05MtbZGh
 status: PUBLISHED
 createdAt: 2020-08-19T19:19:18.195Z
-updatedAt: 2021-11-30T00:00:37.560Z
+updatedAt: 2025-12-11T00:00:37.560Z
 publishedAt: 2021-11-30T00:00:37.560Z
 firstPublishedAt: 2020-08-19T19:29:24.564Z
 contentType: tutorial

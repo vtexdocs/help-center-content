@@ -1,9 +1,9 @@
 ---
-title: 'Visión General Configuración de Storefront'
+title: 'Información general Configuración de Storefront'
 id: 5j0UAGGK2Pzn2yg9t9MTCF
 status: PUBLISHED
 createdAt: 2023-03-24T17:53:16.090Z
-updatedAt: 2023-04-10T16:50:44.703Z
+updatedAt: 2025-12-11T16:50:44.703Z
 publishedAt: 2023-04-10T16:50:44.703Z
 firstPublishedAt: 2023-03-24T18:33:35.108Z
 contentType: tutorial

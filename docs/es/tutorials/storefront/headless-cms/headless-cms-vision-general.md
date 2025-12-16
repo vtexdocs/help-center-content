@@ -1,9 +1,9 @@
 ---
-title: 'Headless CMS - Visión general'
+title: 'Headless CMS - Información general'
 id: 3U5gvhHdQL0jczYH8gjX09
 status: PUBLISHED
 createdAt: 2023-12-15T20:27:39.404Z
-updatedAt: 2024-10-30T18:10:39.993Z
+updatedAt: 2025-12-11T18:10:39.993Z
 publishedAt: 2024-10-30T18:10:39.993Z
 firstPublishedAt: 2023-12-18T13:33:50.044Z
 contentType: tutorial

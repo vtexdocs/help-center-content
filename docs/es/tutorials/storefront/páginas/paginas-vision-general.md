@@ -1,9 +1,9 @@
 ---
-title: 'Páginas - Visión general'
+title: 'Páginas - Información general'
 id: 5iBUUJbK5NqG6OxlDrGNzc
 status: PUBLISHED
 createdAt: 2021-12-15T20:09:14.461Z
-updatedAt: 2023-04-25T19:15:44.154Z
+updatedAt: 2025-12-11T19:15:44.154Z
 publishedAt: 2023-04-25T19:15:44.154Z
 firstPublishedAt: 2021-12-16T13:34:41.687Z
 contentType: tutorial

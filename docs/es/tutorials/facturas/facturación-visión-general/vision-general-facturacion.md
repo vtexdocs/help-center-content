@@ -1,9 +1,9 @@
 ---
-title: 'Visión General Facturación'
+title: 'Información general Facturación'
 id: 6UxfCl4fw4GmyQwoUuIcQs
 status: PUBLISHED
 createdAt: 2018-05-17T20:22:30.358Z
-updatedAt: 2025-09-04T20:02:13.442Z
+updatedAt: 2025-12-11T20:02:13.442Z
 publishedAt: 2025-09-04T20:02:13.442Z
 firstPublishedAt: 2018-05-17T20:24:17.809Z
 contentType: tutorial

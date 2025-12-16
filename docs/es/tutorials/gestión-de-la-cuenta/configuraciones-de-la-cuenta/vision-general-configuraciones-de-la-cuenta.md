@@ -1,9 +1,9 @@
 ---
-title: 'Visión general configuraciones de la cuenta'
+title: 'Información general configuraciones de la cuenta'
 id: 6USYxLuzNt4uAkvjdPF7I8
 status: PUBLISHED
 createdAt: 2023-03-28T18:45:41.656Z
-updatedAt: 2023-06-01T14:00:56.396Z
+updatedAt: 2025-12-11T14:00:56.396Z
 publishedAt: 2023-06-01T14:00:56.396Z
 firstPublishedAt: 2023-03-28T18:48:11.473Z
 contentType: tutorial

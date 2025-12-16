@@ -1,9 +1,9 @@
 ---
-title: 'Tienda - Visión general'
+title: 'Tienda - Información general'
 id: 3Eat287G6wUi6Mly5rW5Fs
 status: PUBLISHED
 createdAt: 2022-01-06T13:45:16.048Z
-updatedAt: 2025-09-02T18:14:11.909Z
+updatedAt: 2025-12-11T18:14:11.909Z
 publishedAt: 2025-09-02T18:14:11.909Z
 firstPublishedAt: 2022-01-06T14:09:01.062Z
 contentType: tutorial

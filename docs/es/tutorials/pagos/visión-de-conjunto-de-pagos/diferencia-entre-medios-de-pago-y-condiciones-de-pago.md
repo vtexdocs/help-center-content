@@ -24,6 +24,6 @@ Ya las __condiciones de pagos__ son las reglas que deberán ser seguidas por una
 En VTEX, un medio de pago sólo está disponible en su sitio web después de que usted haga su configuración en el módulo de [Pagos](/es/tutorial/pci-gateway-vision-general), definiendo las __condiciones__ en las cuales pagos se podrán hacer. En otras palabras, podemos entender las condiciones de pago como los medios de pago ya configurados.
 
 ### Artículos relacionados
-- [Pagos - Visión general](/es/tutorial/pci-gateway-vision-general)
+- [Pagos - Información general](/es/tutorial/pci-gateway-vision-general)
 - [Configurar Planes de pago](/es/tutorial/condiciones-de-pago)
 - [Registrar proveedores de pagos y antifraude](https://help.vtex.com/es/docs/tutorials/afiliaciones-de-gateway)

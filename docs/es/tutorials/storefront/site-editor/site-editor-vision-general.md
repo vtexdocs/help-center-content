@@ -1,9 +1,9 @@
 ---
-title: 'Site Editor - Visión general'
+title: 'Site Editor - Información general'
 id: 299Dbeb9mFczUTyNQ9xPe1
 status: PUBLISHED
 createdAt: 2021-12-14T20:14:01.406Z
-updatedAt: 2023-03-24T13:02:27.326Z
+updatedAt: 2025-12-11T13:02:27.326Z
 publishedAt: 2023-03-24T13:02:27.326Z
 firstPublishedAt: 2021-12-15T17:21:20.017Z
 contentType: tutorial

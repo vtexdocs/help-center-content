@@ -1,9 +1,9 @@
 ---
-title: 'Visión General Envio'
+title: 'Información general Envio'
 id: 6Qc1DsKIht2l7elwJCLddX
 status: PUBLISHED
 createdAt: 2023-03-29T21:30:22.041Z
-updatedAt: 2023-03-29T21:31:56.588Z
+updatedAt: 2025-12-11T21:31:56.588Z
 publishedAt: 2023-03-29T21:31:56.588Z
 firstPublishedAt: 2023-03-29T21:31:56.588Z
 contentType: tutorial

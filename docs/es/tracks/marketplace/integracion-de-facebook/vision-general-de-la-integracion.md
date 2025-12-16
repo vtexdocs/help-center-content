@@ -1,9 +1,9 @@
 ---
-title: 'Visión general de la integración'
+title: 'Información general de la integración'
 id: 4THXfWqYHqMZGGk6zgrk7K
 status: PUBLISHED
 createdAt: 2021-02-08T18:40:40.661Z
-updatedAt: 2021-07-12T20:23:18.731Z
+updatedAt: 2025-12-11T20:23:18.731Z
 publishedAt: 2021-07-12T20:23:18.731Z
 firstPublishedAt: 2021-02-08T20:11:26.459Z
 contentType: trackArticle

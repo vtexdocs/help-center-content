@@ -76,7 +76,7 @@ En el módulo Multimedia puedes gestionar los archivos multimedia de tu tienda, 
 
 ![cms-store-framework-media-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/cms/cms-vtex-io_5.png)
 
-Para saber más sobre este módulo, consulta el tutorial [Multimedia - Visión general](/es/tutorial/midia-visao-geral--31fhjHTt4TBoo50AmGQ9b2).
+Para saber más sobre este módulo, consulta el tutorial [Multimedia - Información general](/es/tutorial/midia-visao-geral--31fhjHTt4TBoo50AmGQ9b2).
 
 ## Más información
 

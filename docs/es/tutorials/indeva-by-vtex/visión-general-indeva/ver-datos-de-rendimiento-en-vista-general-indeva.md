@@ -1,5 +1,5 @@
 ---
-title: 'Visualizar datos de desempeño en la Vista general de Indeva'
+title: 'Visualizar datos de desempeño en la Información general de Indeva'
 id: 33ouhc7hiMiYevviUfm6wV
 status: PUBLISHED
 createdAt: 2025-09-04T17:20:05.305Z

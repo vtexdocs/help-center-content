@@ -1,5 +1,5 @@
 ---
-title: 'Vista General de la Tienda (Beta)'
+title: 'Información general de la Tienda (Beta)'
 id: 7i8wNsQQgbbFhYMYbQ5X46
 status: PUBLISHED
 createdAt: 2023-06-14T17:43:51.256Z

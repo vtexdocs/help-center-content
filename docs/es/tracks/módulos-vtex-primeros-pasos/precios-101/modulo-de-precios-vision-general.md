@@ -1,10 +1,10 @@
 ---
-title: 'Precios - Visión General'
+title: 'Precios - Información general'
 id: 3N9xYhnampRQOrfaTAOxNu
 status: PUBLISHED
 createdAt: 2019-07-09T19:26:54.473Z
 updatedAt: 2023-08-21T17:16:35.856Z
-publishedAt: 2023-08-21T17:16:35.856Z
+publishedAt: 2025-12-11T17:16:35.856Z
 firstPublishedAt: 2019-07-11T21:35:16.813Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising

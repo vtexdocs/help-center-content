@@ -1,9 +1,9 @@
 ---
-title: 'Visión general  de la Livelo integración'
+title: 'Información general de la Livelo integración'
 id: 5rhGcaM0SedoK7lDMBkVFD
 status: PUBLISHED
 createdAt: 2023-08-10T22:18:36.772Z
-updatedAt: 2023-08-11T02:18:04.456Z
+updatedAt: 2025-12-11T02:18:04.456Z
 publishedAt: 2023-08-11T02:18:04.456Z
 firstPublishedAt: 2023-08-11T01:56:55.424Z
 contentType: trackArticle

@@ -1,9 +1,9 @@
 ---
-title: 'CMS - Visión general'
+title: 'CMS - Información general'
 id: 6OCY6S9tqBXPD5mgpbBInC
 status: PUBLISHED
 createdAt: 2020-01-08T13:23:56.157Z
-updatedAt: 2024-11-18T16:45:06.943Z
+updatedAt: 2025-12-11T16:45:06.943Z
 publishedAt: 2024-11-18T16:45:06.943Z
 firstPublishedAt: 2020-01-13T14:28:47.464Z
 contentType: trackArticle

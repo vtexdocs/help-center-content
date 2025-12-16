@@ -1,9 +1,9 @@
 ---
-title: 'Catálogo: visión general'
+title: 'Catálogo: Información general'
 id: 77M8ItLhDXs6aBdQTqToVe
 status: PUBLISHED
 createdAt: 2022-03-04T15:23:02.967Z
-updatedAt: 2025-08-29T16:00:16.027Z
+updatedAt: 2025-12-11T16:00:16.027Z
 publishedAt: 2025-08-29T16:00:16.027Z
 firstPublishedAt: 2022-03-07T13:44:12.589Z
 contentType: tutorial
