@@ -14,7 +14,7 @@ locale: en
 hidden: false
 ---
 
-The Content Management System (CMS) provides merchants with the flexibility and control needed to manage and structure their storefront content independently. It allows business teams and content editors to create multiple versions of content, collaborate on details, review for quality, and schedule publishing.
+The Content Management System (CMS) provides merchants with the flexibility and control needed to manage and structure their storefront content independently. It allows business teams and content editors to create multiple versions of content, collaborate on details, review for quality, and schedule publishing. To access the CMS, open the VTEX Admin and go to **Storefront > Content > Content**.
 
 Below are the main parts of the CMS:
 
@@ -22,7 +22,7 @@ Below are the main parts of the CMS:
 
 ![cms-overview](https://vtexhelp.vtexassets.com/assets/docs/src/cms-overview___4da66fe4346083e5056bc43f9c49db1a.png)
 
-**All Content** is the main dashboard of the Content Management system. It allows you to list and manage all your store’s digital content, including pages, layouts, templates, and global sections, within the VTEX Admin. This central hub aims to streamline the content creation, editing, and publishing process through a modular system with version control (branches).
+**Content** is the main dashboard of the Content Management system. It allows you to list and manage all your store’s digital content, including pages, layouts, templates, and global sections, within the VTEX Admin. This central hub aims to streamline the content creation, editing, and publishing process through a modular system with version control (branches).
 
 For more details, refer to the [Content](/TBD) guide.
 
