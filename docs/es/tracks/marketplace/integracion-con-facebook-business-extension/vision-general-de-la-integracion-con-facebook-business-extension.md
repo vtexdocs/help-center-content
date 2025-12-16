@@ -3,7 +3,7 @@ title: 'Información general de la integración con Facebook Business Extension'
 id: 2OdxzECQkND8gP3ohtTRDD
 status: PUBLISHED
 createdAt: 2021-09-30T14:44:39.701Z
-updatedAt: 2021-10-05T21T21:31:56.949Z
+updatedAt: 2021-10-05T21:31:56.949Z
 publishedAt: 2021-10-05T21:31:56.949Z
 firstPublishedAt: 2021-09-30T18:47:14.819Z
 contentType: trackArticle

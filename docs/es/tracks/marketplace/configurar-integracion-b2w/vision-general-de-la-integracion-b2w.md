@@ -3,7 +3,7 @@ title: 'Información general de la integración'
 id: 5qetRRLNCgDTfhz2PUUO9v
 status: PUBLISHED
 createdAt: 2022-02-02T20:14:05.208Z
-updatedAt: 2022-02-02T21T21:09:18.803Z
+updatedAt: 2022-02-02T21:09:18.803Z
 publishedAt: 2022-02-02T21:09:18.803Z
 firstPublishedAt: 2022-02-02T21:04:33.822Z
 contentType: trackArticle
