@@ -58687,6 +58687,21 @@
             },
             {
               "name": {
+                "en": "Changes not persisted when editing Expiration date in payment rules",
+                "es": "Los cambios no persisten al editar la fecha de caducidad en las reglas de pago",
+                "pt": "As alterações não são mantidas ao editar a data de vencimento nas regras de pagamento"
+              },
+              "slug": {
+                "en": "changes-not-persisted-when-editing-expiration-date-in-payment-rules",
+                "es": "los-cambios-no-persisten-al-editar-la-fecha-de-caducidad-en-las-reglas-de-pago",
+                "pt": "as-alteracoes-nao-sao-mantidas-ao-editar-a-data-de-vencimento-nas-regras-de-pagamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Checkout cancels transaction after creation",
                 "es": "El pago cancela la transacción después de la creación",
                 "pt": "O checkout cancela a transação após a criação"
@@ -58950,6 +58965,21 @@
                 "en": "divergent-status-on-the-transaction-list-and-on-the-transaction",
                 "es": "estado-divergente-en-la-lista-de-transacciones-y-en-la-transaccion",
                 "pt": "status-divergente-na-lista-de-transacoes-e-na-transacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "dueDate parameter is not expected for PPP implementations",
+                "es": "el parámetro dueDate no está previsto para las implementaciones de la APP",
+                "pt": "O parâmetro dueDate não é esperado para implementações de PPP"
+              },
+              "slug": {
+                "en": "duedate-parameter-is-not-expected-for-ppp-implementations",
+                "es": "el-parametro-duedate-no-esta-previsto-para-las-implementaciones-de-la-app",
+                "pt": "o-parametro-duedate-nao-e-esperado-para-implementacoes-de-ppp"
               },
               "origin": "",
               "type": "markdown",
