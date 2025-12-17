@@ -11,7 +11,7 @@ slugEN: 2025-12-15-skyhub-new-shipping-model
 locale: en
 legacySlug: 
 announcementImageID: 
-announcementSynopsisPT: 'Mandatory update for Skyhub's new shipping model.'
+announcementSynopsisPT: 'Mandatory update for Skyhub''s new shipping model.'
 ---
 
 > Regional content available only for Brazil.
