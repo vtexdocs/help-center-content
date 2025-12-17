@@ -1,5 +1,5 @@
 ---
-title: 'Información general de la Tienda'
+title: 'Vista General de la Tienda'
 id: P8ahguoRs0U3PzmXg2wuQ
 status: PUBLISHED
 createdAt: 2021-11-18T22:48:32.711Z

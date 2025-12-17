@@ -20,7 +20,7 @@ El Admin VTEX permite a los administradores de la tienda gestionar todas sus exp
 ## Página de inicio
 ![Store Overview gif ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/operativo/admin-vtex/admin-vtex-comience-aqui_1.gif)
 
-La página de inicio proporciona una vista de alto nivel de tu tienda, como una cabina de mando para tus operaciones de comercio digital, y por eso se llama [Información general](/es/v4/docs/visao-geral-da-loja--6mcM4LPUqQxSiXY6uFtXZy).
+La página de inicio proporciona una vista de alto nivel de tu tienda, como una cabina de mando para tus operaciones de comercio digital, y por eso se llama [Vista general](/es/v4/docs/visao-geral-da-loja--6mcM4LPUqQxSiXY6uFtXZy).
 
 Una vez que accedas al Admin, verás métricas y gráficos útiles para monitorear el desempeño de tu tienda, como los ingresos generados y el número de pedidos, el embudo de ventas y la tasa de conversión, así como los 10 productos que más ingresos generan.
 

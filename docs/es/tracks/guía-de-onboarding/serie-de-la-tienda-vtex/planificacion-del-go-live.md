@@ -168,7 +168,7 @@ Después del go live, se puede acceder a la tienda en el [dominio registrado](/e
 
 Recomendamos monitorear el rendimiento de la tienda después del lanzamiento desde el menú de [Dashboards](/es/tutorial/visao-geral-dashboards--1yn2nZUoXtDO3teTEJsCNl) en el Admin VTEX, que incluye las siguientes páginas:
 
-- [Información general:](/es/tutorial/vista-general-de-la-tienda--P8ahguoRs0U3PzmXg2wuQ) métricas principales que afectan los ingresos de las tiendas. Este dashboard monitorea los principales indicadores de la evolución de ventas mediante los recursos de análisis de tendencias de pedidos, tasa de conversión y gráficos del embudo de ventas.
+- [Vista general:](/es/tutorial/vista-general-de-la-tienda--P8ahguoRs0U3PzmXg2wuQ) métricas principales que afectan los ingresos de las tiendas. Este dashboard monitorea los principales indicadores de la evolución de ventas mediante los recursos de análisis de tendencias de pedidos, tasa de conversión y gráficos del embudo de ventas.
 - [Desempeño de ventas:](/es/tutorial/desempeno-de-ventas--3DMube0sEsK9vPcRYGas72) dashboard que control para el comercio unificado, que ayuda a las tiendas a ampliar su negocio y tomar decisiones con mayor precisión.
 
 Además de las herramientas disponibles en el Admin VTEX, puedes monitorear el rendimiento de la tienda a través de [Google Analytics](https://analytics.google.com/analytics/web/) si fue previamente configurado. Para más información, accede a la guía [Configurar Google Analytics 4 en una tienda VTEX](/es/tutorial/como-configurar-google-analytics-em-loja-vtex--G2P0rmSrEiqCcmUMyUUwG).

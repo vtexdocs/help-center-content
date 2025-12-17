@@ -21,5 +21,5 @@ A partir de ahora, los retailers podrán [monitorear y optimizar](https://develo
 
 ## ¿Qué se necesita hacer?
 
-En esta discontinuación, el retailer no necesita realizar ninguna acción. Los módulos [Información general de la Tienda](/es/tutorial/vista-general-de-la-tienda--P8ahguoRs0U3PzmXg2wuQ) y [Desempeño de Ventas](/es/tutorial/desempeno-de-ventas--3DMube0sEsK9vPcRYGas72) seguirán disponibles en el VTEX Admin.
+En esta discontinuación, el retailer no necesita realizar ninguna acción. Los módulos [Vista General de la Tienda](/es/tutorial/vista-general-de-la-tienda--P8ahguoRs0U3PzmXg2wuQ) y [Desempeño de Ventas](/es/tutorial/desempeno-de-ventas--3DMube0sEsK9vPcRYGas72) seguirán disponibles en el VTEX Admin.
 

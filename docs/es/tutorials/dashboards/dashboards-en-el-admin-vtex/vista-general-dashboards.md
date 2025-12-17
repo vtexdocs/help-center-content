@@ -1,5 +1,5 @@
 ---
-title: 'Información general Dashboards'
+title: 'Vista General Dashboards'
 id: 1yn2nZUoXtDO3teTEJsCNl
 status: PUBLISHED
 createdAt: 2023-03-29T21:16:46.179Z
@@ -21,6 +21,6 @@ Esta información se puede encontrar en el menú **Dashboards** de tu Admin.
 
 La sección incluye las siguientes páginas, que ya son parte del Admin:
 
-- [Información general](/es/v4/docs/vision-general-de-la-tienda--6mcM4LPUqQxSiXY6uFtXZy): es donde los administradores de tiendas tienen acceso a las principales métricas que afectan a los ingresos de sus tiendas. En este panel, puedes seguir la evolución de tus ventas a través de los recursos de análisis de tendencias de pedidos, tasa de conversión y gráficos de embudo de ventas.  
+- [Visión general](/es/v4/docs/vision-general-de-la-tienda--6mcM4LPUqQxSiXY6uFtXZy): es donde los administradores de tiendas tienen acceso a las principales métricas que afectan a los ingresos de sus tiendas. En este panel, puedes seguir la evolución de tus ventas a través de los recursos de análisis de tendencias de pedidos, tasa de conversión y gráficos de embudo de ventas.  
 - [Desempeño de ventas](/es/v4/docs/desempeno-de-ventas--6gx46RGRzWO8qgaVck7PRp): un panel diseñado para el comercio unificado que ayuda a las tiendas a hacer crecer su negocio y a tomar decisiones más precisas.  
 
