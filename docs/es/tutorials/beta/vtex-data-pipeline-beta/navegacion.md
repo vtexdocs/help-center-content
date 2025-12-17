@@ -1,5 +1,5 @@
 ---
-title: 'Navegación Data Pipeline'
+title: `Navegación Data Pipeline`
 id: 4X4hK0zdIHN0Xn5x2MLYYd
 status: PUBLISHED
 createdAt: 2024-02-02T17:48:16.639Z
@@ -39,7 +39,7 @@ Los campos de la tabla se describen a continuación:
 | ref | string | URL de la página que refirió al comprador a esta página. |
 | workspace | string | Workspace que el usuario está visitando (ej. master). Relevante para AB Testing en la Plataforma IO. |
 | checkout_type | string | Esta columna indica el tipo de checkout utilizado por esa tienda respectiva en ese tipo de solicitud. |
-| storefront | string | El entorno de VTEX utilizado para renderizar la página. Actualmente, tenemos tres plataformas posibles: 'portal', 'store_framework' y 'fast_store'. |
+| storefront | string | El entorno de VTEX utilizado para renderizar la página. Actualmente, tenemos tres plataformas posibles: `portal`, `store_framework` y `fast_store`. |
 | is_new_user | boolean | Especifica si esta es la primera visualización de página del comprador en esta tienda. |
 | is_first_event | boolean | Especifica si esta es la primera visualización de página del comprador en su sesión actual. |
 | user_agent | string | Cadena user-agent extraída del navegador del comprador. |
@@ -86,13 +86,13 @@ Los campos de la tabla se describen a continuación:
 | --- | --- | --- |
 | account_name | string | Cuenta VTEX de la tienda que está generando esta sesión. |
 | url | string | URL completa de la visualización de página. |
-| request_type | string | El tipo de página que el usuario está visualizando. Puede ser uno de los siguientes:<br><b>- homeView</b>: <code>&lt;domain&gt;/</code><br><b>- productView</b>: <code>&lt;domain&gt;/&lt;product-name&gt;/p</code><br><b>- checkout</b>: <code>&lt;domain&gt;/checkout#/checkout</code><br><b>- cart</b>: <code>&lt;domain&gt;/checkout#/cart</code><br><b>- email</b>: <code>&lt;domain&gt;/checkout#/email</code><br><b>- login</b>: <code>&lt;domain&gt;/login?returnUrl=&lt;checkout&gt;</code><br><b>- profile</b>: <code>&lt;domain&gt;/checkout#/profile</code><br><b>- shipping</b>: <code>&lt;domain&gt;/checkout#/shipping</code><br><b>- payment</b>: <code>&lt;domain&gt;/checkout#/payment</code><br><b>- orderPlaced</b>: <code>&lt;domain&gt;/checkout#/orderPlaced</code><br><b>- otherView</b>: <code>&lt;domain&gt;/&lt;other-path&gt;</code> |
+| request_type | string | El tipo de página que el usuario está visualizando. Puede ser uno de los siguientes:<br><b>- homeView</b>: <code>```<domain>/```</code><br><b>- productView</b>: <code>```<domain>/<product-name>/p```</code><br><b>- checkout</b>: <code>```<domain>/checkout#/checkout```</code><br><b>- cart</b>: <code>```<domain>/checkout#/cart```</code><br><b>- email</b>: <code>```<domain>/checkout#/email```</code><br><b>- login</b>: <code>```<domain>/login?returnUrl=<checkout>```</code><br><b>- profile</b>: <code>```<domain>/checkout#/profile```</code><br><b>- shipping</b>: <code> ```<domain>/checkout#/shipping```</code><br><b>- payment</b>: <code>```<domain>/checkout#/payment```</code><br><b>- orderPlaced</b>: <code>```<domain>/checkout#/orderPlaced``` </code><br><b>- otherView</b>: <code>```<domain>/<other-path>```</code> |
 | product_id | bigint | ID del producto mostrado en la página, usado para unir con el Modelo de Datos del Catálogo. Solo presente si request_type es productView. |
 | product_name | string | Nombre del producto mostrado en la página, usado para unir con el Modelo de Datos del Catálogo. Solo presente si request_type es productView. |
 | category_id | bigint | ID de la categoría mostrada en la página, usado para unir con el Modelo de Datos del Catálogo. Solo presente si request_type es categoryView. |
 | category_name | string | Nombre de la categoría mostrada en la página, usado para unir con el Modelo de Datos del Catálogo. Solo presente si request_type es categoryView. |
 | order_group | string | Grupo de pedido al que pertenece este pedido (que también se puede encontrar en el Modelo de Datos de Pedidos, para unir datos de Navegación con datos de Pedidos). |
-| traffic_type | string | Establece 'Paid' u 'Organic' según el patrón de la URL. |
+| traffic_type | string | Establece `Paid` u `Organic` según el patrón de la URL. |
 | url_utm_medium | string | UTM Medium, extraído de la url. |
 | url_utm_source | string | UTM Source, extraído de la url. |
 | url_utm_campaign | string | UTM Campaign, extraído de la url. |
@@ -120,7 +120,7 @@ Los campos de la tabla se describen a continuación:
 | checkout_type | string | Esta columna indica el tipo de checkout utilizado por esa tienda respectiva en ese tipo de solicitud. |
 | is_new_user | boolean | Especifica si esta es la primera visualización de página del comprador en esta tienda. |
 | is_first_event | boolean | Especifica si esta es la primera visualización de página del comprador en su sesión actual. |
-| navigation_type | string | Tipo de navegación dado por este evento. Este campo acepta las siguientes opciones: 'navigate', 'reload', 'back-forward', 'back-forward-cache', 'prerender', 'restore'. |
+| navigation_type | string | Tipo de navegación dado por este evento. Este campo acepta las siguientes opciones: `navigate`, `reload`, `back-forward`, `back-forward-cache`, `prerender`, `restore`. |
 | ttfb_value | float | Time to First Byte (TTFB): Mide cuánto tiempo espera el navegador antes de recibir el primer byte de datos del servidor. |
 | cls_value | float | Cumulative Layout Shift (CLS): Evalúa la estabilidad visual midiendo cambios inesperados en el diseño. |
 | inp_value | float | Interaction to Next Paint (INP): Mide qué tan rápido responde la interfaz a cualquier interacción del usuario, capturando la latencia hasta la próxima actualización visual. |
