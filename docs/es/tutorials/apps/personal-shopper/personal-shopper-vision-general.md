@@ -1,5 +1,5 @@
 ---
-title: 'Personal Shopper: visión general'
+title: 'Personal Shopper - Información general'
 id: 12dC0UMD0C6x6kw43LF8MH
 status: PUBLISHED
 createdAt: 2024-11-19T15:03:14.481Z

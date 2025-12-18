@@ -1,5 +1,5 @@
 ---
-title: 'Intelligent Search - Visión general'
+title: 'Intelligent Search - Información general'
 id: 5o8ixTpYIxx3uJD0B1xp3z
 status: PUBLISHED
 createdAt: 2024-08-22T13:45:31.422Z

@@ -1,5 +1,5 @@
 ---
-title: 'Site Editor - Visión general'
+title: 'Site Editor - Información general'
 id: 299Dbeb9mFczUTyNQ9xPe1
 status: PUBLISHED
 createdAt: 2021-12-14T20:14:01.406Z

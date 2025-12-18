@@ -1,5 +1,5 @@
 ---
-title: 'Visión General Facturación'
+title: 'Facturación - Información general'
 id: 6UxfCl4fw4GmyQwoUuIcQs
 status: PUBLISHED
 createdAt: 2018-05-17T20:22:30.358Z

@@ -1,5 +1,5 @@
 ---
-title: 'CMS - Visión general'
+title: 'CMS - Información general'
 id: 6OCY6S9tqBXPD5mgpbBInC
 status: PUBLISHED
 createdAt: 2020-01-08T13:23:56.157Z

@@ -1,5 +1,5 @@
 ---
-title: 'Visión general configuraciones de la cuenta'
+title: 'Configuraciones de la cuenta - Información general'
 id: 6USYxLuzNt4uAkvjdPF7I8
 status: PUBLISHED
 createdAt: 2023-03-28T18:45:41.656Z

@@ -1,5 +1,5 @@
 ---
-title: 'B2B Suite - Visión general'
+title: 'B2B Suite - Información general'
 id: 5eG6UfveWrai7looK0kVG3
 status: PUBLISHED
 createdAt: 2024-05-09T10:31:51.517Z

@@ -1,5 +1,5 @@
 ---
-title: 'Checkout VTEX - Vista general'
+title: 'Checkout VTEX - Información general'
 id: 7wcprkM7yZUflOqbzAN5SI
 status: PUBLISHED
 createdAt: 2022-07-06T12:13:18.284Z

@@ -1,5 +1,5 @@
 ---
-title: 'Visión general de la integración'
+title: 'Integración B2W - Información general'
 id: 5qetRRLNCgDTfhz2PUUO9v
 status: PUBLISHED
 createdAt: 2022-02-02T20:14:05.208Z
