@@ -24,6 +24,6 @@ Outro detalhe importante é que um __store name__ só pode estar vinculado a um 
 
 ### Artigos relacionados
 - [O que é account name?](/pt/tutorial/o-que-e-account-name)
-- [Visão geral do License Manager](/pt/tutorial/visao-geral-do-modulo-license-manager)
+- [License Manager - Visão geral](/pt/tutorial/visao-geral-do-modulo-license-manager)
 - [Como criar um store name?](/pt/tutorial/como-criar-um-store-name) 
 

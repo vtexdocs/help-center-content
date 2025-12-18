@@ -42,7 +42,7 @@ Binding es el proceso utilizado para vincular tu sitio web a una tienda. Para m�
 
 ![layout-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/cms/cms-vtex-io_2.png)
 
-> ℹ️ A excepción de la carpeta **Sites and channels**, todas las demás funcionalidades de la sección **Layout** del Admin VTEX solo están disponibles para tiendas CMS Portal Legado. 
+> ℹ️ A excepción de la carpeta **Sites and channels**, todas las demás funcionalidades de la sección **Layout** del Admin VTEX solo están disponibles para tiendas CMS Portal (Legado). 
 
 ## Banners
 

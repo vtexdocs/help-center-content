@@ -49,7 +49,7 @@ A seção **Configurações** contém as seguintes abas:
 - **Tipos de arquivos:** configurações relacionadas aos arquivos de ativos, como dimensões e tamanho da imagem. 
 - **Regiões geográficas:** banco de dados das regiões geográficas onde os produtos da loja estão disponíveis.
 
-## Estrutura de pastas CMS Legado
+## Estrutura de pastas CMS Portal (Legado)
 
 Na VTEX, toda nova conta já dispõe de pastas pré-instaladas no seu CMS. Entretanto, algumas delas são __obrigatórias__. 
 

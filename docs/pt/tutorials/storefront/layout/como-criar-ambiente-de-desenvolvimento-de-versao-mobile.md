@@ -16,7 +16,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial válido apenas para lojas CMS Portal Legado.
+Tutorial válido apenas para lojas CMS Portal (Legado).
 </div>
 
 Iniciamos esse artigo reforçando que a tendência e as boas práticas indicam a utilização de uma única versão (responsiva) para desktop e mobile. A criação de uma versão mobile apartada era uma prática adotada quando os recursos de CSS dificultavam a adaptação de uma versão desktop para mobile. 
@@ -32,7 +32,7 @@ Existem algumas maneiras de desenvolver uma versão mobile sem impactar a versã
 Para desenvolver uma versão mobile com um novo WebSite, você deve seguir os seguintes passos:
 
 1. Configurar uma nova loja (temporária) no módulo **Configurações da conta** Esse passo deve ser realizado pelo responsável pela loja (ambiente). No Admin, acesse __Configurações da conta > Conta__. Selecione a conta deseja e clique __Configurar outra loja__.
-2. Criar (ou clonar o principal) um novo WebSite no **CMS Layout**:
+2. Criar (ou clonar o principal) um novo WebSite no **CMS Portal (Legado)**:
 
   Storefront > Layout > Pasta CMS > Sites and Channels > New Website
 

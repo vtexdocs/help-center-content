@@ -16,7 +16,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial valid only for CMS Portal Legado stores.
+Tutorial valid only for Legacy CMS Portal stores.
 </div>
 
 A [website](/en/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete) consists of a series of folders and files that make up and define the content of the web pages displayed to your store's visitors.

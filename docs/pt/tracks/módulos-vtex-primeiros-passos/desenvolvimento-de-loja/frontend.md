@@ -48,7 +48,7 @@ Algumas funcionalidades não estão disponíveis, a exemplo de customizações d
 
 O CMS Portal é uma tecnologia legada da VTEX responsável por gerenciar, principalmente, o código fonte do site, sendo então o módulo onde está o conteúdo que aparece na loja. 
 
-Para o CMS Legado, um conceito importante é o de Controles, que são snippets de código que renderizam dados nativos da VTEX. Os controles ajudam o lojista a criar conteúdo e incluir ferramentas no site de forma nativa utilizando o que a VTEX já oferece. Para que essa customização ocorra, são utilizados CSS, HTML e JavaScript no desenvolvimento, permitindo que se crie layouts e templates.
+Para o CMS Portal (Legado), um conceito importante é o de Controles, que são snippets de código que renderizam dados nativos da VTEX. Os controles ajudam o lojista a criar conteúdo e incluir ferramentas no site de forma nativa utilizando o que a VTEX já oferece. Para que essa customização ocorra, são utilizados CSS, HTML e JavaScript no desenvolvimento, permitindo que se crie layouts e templates.
 
-Por utilizar tecnologias mais defasadas, quando há necessidade de fazer alguma alteração no CMS Legado, é necessário acessar os códigos internamente e prosseguir com essas alterações no campo Layout. Dessa forma, CMS se torna uma tecnologia mais difícil de utilizar e manter, dificultando também que se mantenha uma boa performance conforme se realizam mais customizações. 
+Por utilizar tecnologias mais defasadas, quando há necessidade de fazer alguma alteração no CMS Portal (Legado), é necessário acessar os códigos internamente e prosseguir com essas alterações no campo Layout. Dessa forma, CMS se torna uma tecnologia mais difícil de utilizar e manter, dificultando também que se mantenha uma boa performance conforme se realizam mais customizações. 
 

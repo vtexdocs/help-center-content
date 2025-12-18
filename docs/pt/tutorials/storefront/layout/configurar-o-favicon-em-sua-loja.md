@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ Tutorial válido apenas para lojas CMS Portal Legado. Para lojas desenvolvidas com Store Framework, siga as instruções da seção **Favicons** no guia [Configurando SEO em sua loja Store Framework](/pt/tutorial/configurando-seo-em-sua-loja--1sKskEsjUSvgHyqM8oknVR?&utm_source=autocomplete#favicons).
+> ⚠️ Tutorial válido apenas para lojas CMS Portal (Legado). Para lojas desenvolvidas com Store Framework, siga as instruções da seção **Favicons** no guia [Configurando SEO em sua loja Store Framework](/pt/tutorial/configurando-seo-em-sua-loja--1sKskEsjUSvgHyqM8oknVR?&utm_source=autocomplete#favicons).
 
 Favicon é um pequeno ícone associado a um site. Ele é exibido na aba do navegador ao lado do título da página, nos favoritos, nos históricos de navegação e em outros locais onde o endereço do site aparece, como as páginas de resultados de busca.
 
@@ -23,7 +23,7 @@ O favicon ajuda os usuários a identificar rapidamente um site quando tem vária
 
 ![favicon-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/configurar-o-favicon-em-sua-loja_1.png)
 
-Para configurar o favicon em lojas CMS Portal Legado, siga as instruções abaixo:
+Para configurar o favicon em lojas CMS Portal (Legado), siga as instruções abaixo:
 
 1. No Admin VTEX, acesse **Storefront > Layout > CMS > Files Manager > imagens**.
 

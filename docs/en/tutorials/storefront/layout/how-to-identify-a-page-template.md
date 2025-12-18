@@ -17,7 +17,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 
 This is a question very often asked by VTEX clients. The CMS is an old module (which is being completely renewed), and it was designed at a time when it was difficult to manipulate content. The new platform will be more flexible and intuitive, but in the meantime we will give here a step-by-step description of how you can identify the template of a specific page.
 
-First we must briefly explain how the `{AccountName}.myvtex.com/admin/a` **CMS Layout** is structured.
+First we must briefly explain how the `{AccountName}.myvtex.com/admin/a` **Legacy CMS Portal** is structured.
 
 The main function of the CMS is to allow you to manage the layout of your store. It is here that the Directories and Templates that will bring your e-commerce to life will be created.
 

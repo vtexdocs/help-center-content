@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 ---
 
-> ⚠️ La funcionalidad [Lista](/es/tutorial/que-es-una-lista--4b4NsVFwA8kwqS8S82w4Go) es exclusiva para las tiendas que utilizan CMS Portal Legado.
+> ⚠️ La funcionalidad [Lista](/es/tutorial/que-es-una-lista--4b4NsVFwA8kwqS8S82w4Go) es exclusiva para las tiendas que utilizan CMS Portal (Legado).
 
 La creación de un tipo de lista es la configuración de qué listas tendrá el sitio. Ejemplo: Lista de Casamento y Lista de Aniversário. Cada una de estas es un tipo de lista diferente, con configuraciones propias. Este artículo tiene el objetivo de ilustrar el proceso de creación de un tipo de lista.
 

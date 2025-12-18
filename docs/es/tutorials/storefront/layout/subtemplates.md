@@ -16,7 +16,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial válido solo para tiendas CMS Portal Legado.
+Tutorial válido solo para tiendas CMS Portal (Legado).
 </div>
 
 Los Subtemplates sirven para pequeñas estructuras que podrán ser reaprovechadas en más de un Template de Página. Subtemplates funcionam como _“includes”_. 

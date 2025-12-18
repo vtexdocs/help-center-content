@@ -33,7 +33,7 @@ Após criada a multiloja, defina o layout para cada loja dependendo da tecnologi
 
 Em um ambiente multidomínio é possível definir layouts distintos para cada loja, variando de acordo com o domínio acessado. 
 
-- Para lojas CMS Portal Legado, veja [Layout](/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW).
+- Para lojas CMS Portal (Legado), veja [Layout](/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW).
 - Para lojas desenvolvidas com Store Framework, veja [Gerenciando conteúdo de página e template](/pt/tutorial/gerenciando-conteudo-de-pagina-e-template--3tMbx6HXy4Fy5r9EhboG37).
 
 ### Definir politícias comerciais

@@ -27,7 +27,7 @@ Neste guia, você encontrará as seguintes seções:
 - [Restrições](#restricoes)
 - [Configurar a promoção](#configurar-a-promocao)
 - [Destaque de promoções no Store Framework](#destaque-de-promocoes-no-store-framework)
-- [Destaque de promoções no CMS Portal Legado](#destaque-de-promocoes-no-cms-portal-legado)
+- [Destaque de promoções no CMS Portal (Legado)](#destaque-de-promocoes-no-cms-portal-legado)
      - [Template de página](#template-de-pagina)
      - [Template de prateleira](#template-de-prateleira)
 
@@ -68,15 +68,15 @@ Siga as instruções abaixo para configurar o destaque nas promoções de sua lo
 6. Prossiga para as instruções correspondentes à tecnologia de frontend utilizada por sua loja:
 
 - [Store Framework](#destaque-de-promocoes-no-store-framework)
-- [CMS Portal Legado](#destaque-de-promocoes-no-cms-portal-legado)
+- [CMS Portal (Legado)](#destaque-de-promocoes-no-cms-portal-legado)
 
 ## Destaque de promoções no Store Framework
 
 Para lojas desenvolvidas com Store Framework, após configurar o destaque da promoção, siga as instruções da documentação do componente [Product Highlights](https://developers.vtex.com/docs/apps/vtex.product-highlights).
 
-## Destaque de promoções no CMS Portal Legado
+## Destaque de promoções no CMS Portal (Legado)
 
-Para lojas CMS Portal Legado, após configurar o destaque da promoção, configure o [template de página](#configurar-o-template-de-pagina) e o [template de prateleira](#configurar-o-template-de-prateleira) no módulo CMS. Além disso, seu CSS deve estar configurado para essa função.
+Para lojas CMS Portal (Legado), após configurar o destaque da promoção, configure o [template de página](#configurar-o-template-de-pagina) e o [template de prateleira](#configurar-o-template-de-prateleira) no módulo CMS. Além disso, seu CSS deve estar configurado para essa função.
 
 ### Template de página
 

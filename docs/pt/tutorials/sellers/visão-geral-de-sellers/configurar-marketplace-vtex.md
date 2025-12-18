@@ -83,13 +83,13 @@ Um marketplace pode obter a informação da localização do usuário na vitrine
 
 Quando o VTEX Session não tem acesso à localização do consumidor, ainda é preciso apontar um sortimento de produtos de sellers na experiência de compra. Nesse cenário, o algoritmo de seleção de sellers indica [sellers abrangentes](/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI), que são capazes de entregar pedidos em todas as regiões atendidas pelo seu marketplace.
 
-> ℹ️ A funcionalidade Region está adaptada apenas para lojas que utilizam o VTEX IO, e não é válida para o Portal CMS Legado.
+> ℹ️ A funcionalidade Region está adaptada apenas para lojas que utilizam o VTEX IO, e não é válida para o CMS Portal (Legado).
 
 ## Configurar storefront
 
-É preciso configurar o _storefront_ (frente da loja) da sua loja para  considerar as informações dos sellers na experiência de compra. Isso pode ser feito tanto no Portal CMS Legado quanto em lojas que utilizam o [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs).
+É preciso configurar o _storefront_ (frente da loja) da sua loja para  considerar as informações dos sellers na experiência de compra. Isso pode ser feito tanto no CMS Portal (Legado) quanto em lojas que utilizam o [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs).
 
-Para lojas que ainda utilizam o Portal CMS Legado, configure os seguintes [controles](/pt/tutorial/lista-de-controles-para-templates--tutorials_563) nos templates do seu ecommerce:
+Para lojas que ainda utilizam o CMS Portal (Legado), configure os seguintes [controles](/pt/tutorial/lista-de-controles-para-templates--tutorials_563) nos templates do seu ecommerce:
 
 <table>
   <tr>

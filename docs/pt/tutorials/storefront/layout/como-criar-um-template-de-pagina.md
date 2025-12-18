@@ -16,7 +16,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial válido apenas para lojas CMS Portal Legado.
+Tutorial válido apenas para lojas CMS Portal (Legado).
 </div>
 
 O template de página é um modelo criado para definir uma estrutura HTML para apresentação do conteúdo das páginas. 

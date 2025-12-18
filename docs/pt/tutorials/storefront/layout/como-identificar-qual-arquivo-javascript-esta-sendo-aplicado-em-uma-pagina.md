@@ -16,7 +16,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial válido apenas para lojas CMS Portal Legado.
+Tutorial válido apenas para lojas CMS Portal (Legado).
 </div>
 
 A plataforma VTEX é extremamente flexível. Por isso, é comum que os clientes tenham diversas customizações no front-end do e-commerce. Diferentes ferramentas podem ser responsáveis por essas customizações, entre as quais o Google Tag Manager ou mesmo arquivos JavaScript incluídos no CMS.

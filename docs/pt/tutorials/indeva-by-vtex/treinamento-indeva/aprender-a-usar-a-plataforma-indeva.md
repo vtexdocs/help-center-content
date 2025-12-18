@@ -21,7 +21,7 @@ Gestores e equipes que estão começando a utilizar a plataforma **Indeva** enco
 
 Assista ao vídeo de apresentação da Indeva e entenda como a ferramenta conecta metas, resultados e rotinas operacionais:
 
-[Visão geral da Indeva](https://youtu.be/i5mNArEeSEo)
+[Indeva - Visão geral](https://youtu.be/i5mNArEeSEo)
 
 ## Participar do treinamento completo
 

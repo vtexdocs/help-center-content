@@ -226,5 +226,5 @@ Para configurar alguma das opções acima, siga os passos abaixo:
 
 * [Produtos e SKUs](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By)
 * [Adicionar ou editar produto](/pt/tutorial/adicionar-ou-editar-produto--29IkdEu6GofCFlltsZh2H8)
-* [Catálogo: Visão Geral](/pt/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe)
+* [Catálogo - Visão geral](/pt/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe)
 * [Catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ) (trilha)

@@ -34,7 +34,7 @@ Copia esta [Lista de verificación de tienda](https://cdn.statically.io/gh/vtexd
 
 El proceso de _go live_ de tu tienda puede tener variaciones en función de algunas características de tu operación. Además, algunos pasos son sensibles al tiempo. Por estos motivos, te recomendamos que planifiques todo el proceso de _go live_ con al menos 15 días de antelación.
 
-> ℹ️ Si utilizas el CMS Portal Legado y quieres migrar a un storefront creado con [CMS IO](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), sigue las instrucciones de la guía sobre cómo [migrar tu storefront de CMS Portal Legado a Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io).
+> ℹ️ Si utilizas el CMS Portal (Legado) y quieres migrar a un storefront creado con [CMS IO](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), sigue las instrucciones de la guía sobre cómo [migrar tu storefront de CMS Portal (Legado) a Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io).
 
 En aras de la organización y la comodidad, esta guía divide los pasos del _go live_ en cuatro etapas:
 

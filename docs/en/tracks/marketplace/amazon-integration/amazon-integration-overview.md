@@ -1,5 +1,5 @@
 ---
-title: 'Amazon Integration overview'
+title: 'Amazon integration - Overview'
 id: 1LyC9esKs7KKo4if6VpquN
 status: PUBLISHED
 createdAt: 2021-07-19T15:22:22.679Z

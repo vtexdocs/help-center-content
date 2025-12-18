@@ -29,5 +29,5 @@ Feito isso, os tipos de frete epecificados entrarão na promoção e aparecerão
 Você também pode ativar a flag __Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente__. Neste caso, a promoção será aplicada somente após o cliente selecionar alguma forma de entrega.
 
 ### Artigos relacionados
-- [Visão geral: promoções, taxas e cupons](/pt/tutorial/overview-2)
+- [Promoções, taxas e cupons - Visão geral](/pt/tutorial/overview-2)
 - [Criar promoções](/pt/tutorial/como-criar-promocoes)

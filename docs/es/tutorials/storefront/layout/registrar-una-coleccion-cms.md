@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ Existen dos formas de configurar colecciones, mediante el Portal CMS Legado o utilizando el módulo [Colecciones Beta](/es/tutorial/registrar-colecciones-beta--yJBHqNMViOAnnnq4fyOye). Este artículo se refiere a la configuración de colecciones mediante el Portal CMS Legado.
+> ⚠️ Existen dos formas de configurar colecciones, mediante el CMS Portal (Legado) o utilizando el módulo [Colecciones Beta](/es/tutorial/registrar-colecciones-beta--yJBHqNMViOAnnnq4fyOye). Este artículo se refiere a la configuración de colecciones mediante el CMS Portal (Legado).
 
 Realice el siguiente paso a paso para registrar una nueva colección:  
 

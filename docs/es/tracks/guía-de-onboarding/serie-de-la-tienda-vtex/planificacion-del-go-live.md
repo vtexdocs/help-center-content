@@ -122,8 +122,8 @@ Después de concluidas las pruebas y ajustes correspondientes, se debe preparar 
       <td class="t-body pa5" style="min-width: 10rem;">Solicitar el [apuntamiento de DNS interno para VTEX IO](/es/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-io) mediante un ticket con el [soporte VTEX](https://supporticket.vtex.com/support).<br> <br>Para más información, consulta los artículos:<ul><li>[Going live with a new store](https://developers.vtex.com/docs/guides/vtex-io-documentation-go-live) (Store Framework)</li><li>[Migrating your storefront from Legacy CMS Portal to Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-storefront-from-legacy-to-io)</li><li>[Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns) (FastStore)</li></ul></td>
     </tr>
     <tr class="bb b--muted-3">
-      <td class="t-body pa5" style="min-width: 10rem;">CMS Portal Legado</td>
-      <td class="t-body pa5" style="min-width: 10rem;">Si el acceso a la tienda está restringido por una [política comercial](/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) con una regla condicional y tu storefront fue creado con[CMS Portal Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), debes solicitar un [apuntamiento interno especial](/es/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-especial). Un ejemplo común son las tiendas B2B que restringen el acceso a empresas preaprobadas. La solicitud de apuntamiento especial se envía a través del [soporte VTEX](https://supporticket.vtex.com/support), que debe incluir la política comercial y la regla condicional configurada.</td>
+      <td class="t-body pa5" style="min-width: 10rem;">CMS Portal (Legado)</td>
+      <td class="t-body pa5" style="min-width: 10rem;">Si el acceso a la tienda está restringido por una [política comercial](/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) con una regla condicional y tu storefront fue creado con[CMS Portal (Legado)](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), debes solicitar un [apuntamiento interno especial](/es/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-especial). Un ejemplo común son las tiendas B2B que restringen el acceso a empresas preaprobadas. La solicitud de apuntamiento especial se envía a través del [soporte VTEX](https://supporticket.vtex.com/support), que debe incluir la política comercial y la regla condicional configurada.</td>
     </tr>
   </tbody>
   </table>
@@ -131,7 +131,7 @@ Después de concluidas las pruebas y ajustes correspondientes, se debe preparar 
 Independientemente del tipo de solicitud que se necesite, el ticket para el soporte VTEX debe contener la siguiente información:
 
 - Título que indique la intención de realizar el go live.
-- Si la [tecnología de storefront](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) fue desarrollada en VTEX IO o CMS Portal Legado.
+- Si la [tecnología de storefront](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) fue desarrollada en VTEX IO o CMS Portal (Legado).
 - URL que se debe apuntar.
 - Horario en que se realizará el apuntamiento interno, entre 9:00 y 17:00 UTC-3.
 - Indicar si la tienda tiene reglas condicionales de [políticas comerciales](/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE).

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3aExYJkji3NIu9Ks8bxbWx
 ---
 
-> ℹ️ Existem duas formas de configurar coleções: por meio do **Portal CMS Legado** ou utilizando o módulo de **Coleções (Beta)**. Este artigo refere-se à configuração de coleções por meio do módulo de **Coleções (Beta)**. Essa funcionalidade está em estágio Beta e disponível para ambientes a partir do Admin v3. Em caso de dúvidas [entre em contato com nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
+> ℹ️ Existem duas formas de configurar coleções: por meio do **CMS Portal (Legado)** ou utilizando o módulo de **Coleções (Beta)**. Este artigo refere-se à configuração de coleções por meio do módulo de **Coleções (Beta)**. Essa funcionalidade está em estágio Beta e disponível para ambientes a partir do Admin v3. Em caso de dúvidas [entre em contato com nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 O módulo de __Coleções (Beta)__ permite criar e gerenciar coleções de forma prática e rápida.
 

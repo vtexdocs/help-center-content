@@ -34,7 +34,7 @@ There are a number of ways of developing a mobile version without impacting the 
 To develop a mobile version for a new website, you must proceed as follows:
 
 1. Set up a new (temporary) store in the **Account Settings.** This should be done by the person responsible for the store (environment). In the Admin, go to __Account Settings > Accounts__. Select the desired account and click **Configure This Store**.
-2. Create a new website (or clone the main one) on the **CMS Layout**:
+2. Create a new website (or clone the main one) on the **Legacy CMS Portal**:
 
 Storefront > Layout > CMS folder > Sites and Channels > New Website
 

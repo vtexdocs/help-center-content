@@ -1,5 +1,5 @@
 ---
-title: 'Visão geral da integração com o Facebook Business Extension'
+title: 'Integração com o Facebook Business Extension - Visão geral'
 id: 2OdxzECQkND8gP3ohtTRDD
 status: PUBLISHED
 createdAt: 2021-09-30T14:44:39.701Z
