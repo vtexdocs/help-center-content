@@ -253,7 +253,7 @@ Nos arquivos do [tema da sua loja](https://developers.vtex.com/vtex-developer-do
 * [Quais configurações logísticas impactam na disponibilidade do produto no carrinho?](/pt/tutorial/quais-configuracoes-logisticas-impactam-na-disponibilidade-do-produto-no-carrinho--NAyBFToRdvlDyOzeeAeNw)
 * [Catálogo - Definição de conceito](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ)
 * [Como funciona a indexação](/pt/tutorial/entendendo-o-funcionamento-da-indexacao)
-* [Módulo de Preços - Visão Geral](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP)
+* [Módulo de Preços - Visão geral](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP)
 * [Gerenciar inventário](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139)
 * [Simulador de envio](/pt/tutorial/simulador-de-envio--tutorials_144)
 * [CMS - Visão geral](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC)

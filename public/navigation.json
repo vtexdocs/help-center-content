@@ -10099,7 +10099,7 @@
                   "name": {
                     "en": "1. Pricing - Overview",
                     "es": "1. Precios - Información general",
-                    "pt": "1. Preços - Visão Geral"
+                    "pt": "1. Preços - Visão geral"
                   },
                   "slug": {
                     "en": "prices-module-overview",
@@ -15038,7 +15038,7 @@
                   "name": {
                     "en": "1. Livelo integration - Overview",
                     "es": "1. Livelo integración - Información general",
-                    "pt": "1. Visão geral da integração com a Livelo"
+                    "pt": "1. Integração com a Livelo - Visão geral"
                   },
                   "slug": {
                     "en": "livelo-integration-overview",
@@ -15800,7 +15800,7 @@
                   "name": {
                     "en": "Marketplace - Overview",
                     "es": "Marketplace - Información general",
-                    "pt": "Visão Geral Marketplace"
+                    "pt": "Marketplace - Visão geral"
                   },
                   "slug": {
                     "en": "marketplace-overview",
@@ -16331,7 +16331,7 @@
                   "name": {
                     "en": "User settings - Overview",
                     "es": "Configuraciones de Usuário - Información general",
-                    "pt": "Visão Geral Configurações de Usuário"
+                    "pt": "Configurações de Usuário - Visão geral"
                   },
                   "slug": {
                     "en": "user-settings-overview",
@@ -16440,7 +16440,7 @@
                   "name": {
                     "en": "Apps - Overview",
                     "es": "Vision General Apps",
-                    "pt": "Visão Geral Apps"
+                    "pt": "Apps - Visão geral"
                   },
                   "slug": {
                     "en": "apps-overview",
@@ -16532,7 +16532,7 @@
                   "name": {
                     "en": "Customer Credit - Overview",
                     "es": "Customer Credit - Información general",
-                    "pt": "Customer Credit - Visão Geral"
+                    "pt": "Customer Credit - Visão geral"
                   },
                   "slug": {
                     "en": "customer-credit-overview",
@@ -16963,7 +16963,7 @@
                   "name": {
                     "en": "B2B Orders History - Overview",
                     "es": "B2B Orders History - Información general",
-                    "pt": "Histórico de Pedidos B2B - Visão Geral"
+                    "pt": "Histórico de Pedidos B2B - Visão geral"
                   },
                   "slug": {
                     "en": "overview-of-b2b-orders-history",
@@ -17252,7 +17252,7 @@
                   "name": {
                     "en": "B2B – Overview",
                     "es": "B2B - Información general",
-                    "pt": "B2B – Visão Geral"
+                    "pt": "B2B – Visão geral"
                   },
                   "slug": {
                     "en": "b2b-overview",
@@ -17697,7 +17697,7 @@
                   "name": {
                     "en": "Releases - Overview",
                     "es": "Introducción a Releases",
-                    "pt": "Visão Geral Lançamentos"
+                    "pt": "Lançamentos - Visão geral"
                   },
                   "slug": {
                     "en": "releases-overview",
@@ -18137,7 +18137,7 @@
                   "name": {
                     "en": "Billing - Overview",
                     "es": "Facturación - Información general",
-                    "pt": "Visão Geral Faturas"
+                    "pt": "Faturas - Visão geral"
                   },
                   "slug": {
                     "en": "billing-module-overview",
@@ -20877,7 +20877,7 @@
                   "name": {
                     "en": "Dashboards - Overview",
                     "es": "Vista General Dashboards",
-                    "pt": "Visão Geral Dashboards"
+                    "pt": "Dashboards - Visão geral"
                   },
                   "slug": {
                     "en": "dashboards-overview",
@@ -21732,7 +21732,7 @@
               "name": {
                 "en": "Indeva - Overview",
                 "es": "Indeva - Información general",
-                "pt": "Visão Geral Indeva"
+                "pt": "Indeva - Visão geral"
               },
               "slug": {
                 "en": "overview-indeva-subcategory",
@@ -26688,7 +26688,7 @@
                   "name": {
                     "en": "Orders - Overview",
                     "es": "Pedidos - Información general",
-                    "pt": "Visão Geral Pedidos"
+                    "pt": "Pedidos - Visão geral"
                   },
                   "slug": {
                     "en": "orders-overview",
@@ -26826,7 +26826,7 @@
                   "name": {
                     "en": "Foresight Commerce Academy - Overview",
                     "es": "Foresight Commerce Academy - Visión Geral",
-                    "pt": "Foresight Commerce Academy - Visão Geral"
+                    "pt": "Foresight Commerce Academy - Visão geral"
                   },
                   "slug": {
                     "en": "foresight-commerce-academy-overview",
@@ -32035,7 +32035,7 @@
                   "name": {
                     "en": "Promotions - Overview",
                     "es": "Promociones - Información general",
-                    "pt": "Visão Geral Promoções"
+                    "pt": "Promoções - Visão geral"
                   },
                   "slug": {
                     "en": "promotions-overview",
@@ -33570,7 +33570,7 @@
                   "name": {
                     "en": "Shipping - Overview",
                     "es": "Envio - Información general",
-                    "pt": "Visão Geral Envio"
+                    "pt": "Envio - Visão geral"
                   },
                   "slug": {
                     "en": "shipping-overview",
@@ -34405,7 +34405,7 @@
               "name": {
                 "en": "Store Settings - Overview",
                 "es": "Configuraciones de la Tienda - Información general",
-                "pt": "Visão Geral de Configurações da Loja"
+                "pt": "Configurações da Loja - Visão geral"
               },
               "slug": {
                 "en": "store-settings-overview-subcategory",
@@ -34434,7 +34434,7 @@
                   "name": {
                     "en": "Store Settings - Overview",
                     "es": "Configuraciones de la Tienda - Información general",
-                    "pt": "Visão Geral Configurações da Loja"
+                    "pt": "Configurações da Loja - Visão geral"
                   },
                   "slug": {
                     "en": "store-settings-overview",
@@ -35277,7 +35277,7 @@
                   "name": {
                     "en": "Layout Overview",
                     "es": "Visión de conjunto de Layout",
-                    "pt": "Visão Geral do Layout"
+                    "pt": "Layout - Visão geral"
                   },
                   "slug": {
                     "en": "what-is-cms-layout",
@@ -35925,7 +35925,7 @@
                   "name": {
                     "en": "Storefront Settings - Overview",
                     "es": "Configuración de Storefront - Información general",
-                    "pt": "Visão Geral Configurações de Storefront"
+                    "pt": "Configurações de Storefront - Visão geral"
                   },
                   "slug": {
                     "en": "storefront-settings-overview",
@@ -35957,7 +35957,7 @@
               "name": {
                 "en": "Storefront - Overview",
                 "es": "Storefront - Información general",
-                "pt": "Visão Geral Storefront"
+                "pt": "Storefront - Visão geral"
               },
               "slug": {
                 "en": "storefront-overview-subcategory",
@@ -35971,7 +35971,7 @@
                   "name": {
                     "en": "Storefront - Overview",
                     "es": "Storefront - Información general",
-                    "pt": "Visão Geral Storefront"
+                    "pt": "Storefront - Visão geral"
                   },
                   "slug": {
                     "en": "storefront-overview",
@@ -36766,7 +36766,7 @@
                   "name": {
                     "en": "VTEX Tracking - Overview",
                     "es": "VTEX Tracking - Información general",
-                    "pt": "Visão Geral VTEX Tracking"
+                    "pt": "VTEX Tracking - Visão geral"
                   },
                   "slug": {
                     "en": "vtex-tracking-overview",
@@ -36903,7 +36903,7 @@
                   "name": {
                     "en": "Routes",
                     "es": "Rutas",
-                    "pt": "Visão Geral de Rotas"
+                    "pt": "Rotas - Visão geral"
                   },
                   "slug": {
                     "en": "routes",
@@ -37222,7 +37222,7 @@
                   "name": {
                     "en": "Agent Builder - Overview",
                     "es": "Información general de Agent Builder",
-                    "pt": "Visão geral Agent Builder"
+                    "pt": "Agent Builder - Visão geral"
                   },
                   "slug": {
                     "en": "agent-builder-overview",

@@ -1,5 +1,5 @@
 ---
-title: 'Customer Credit - Visão Geral'
+title: 'Customer Credit - Visão geral'
 id: 1uIqTjWxIIIEW0COMg4uE0
 status: PUBLISHED
 createdAt: 2018-11-08T17:11:28.486Z

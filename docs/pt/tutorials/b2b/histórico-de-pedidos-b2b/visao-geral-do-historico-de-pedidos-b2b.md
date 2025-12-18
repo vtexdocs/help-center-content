@@ -1,5 +1,5 @@
 ---
-title: 'Histórico de Pedidos B2B - Visão Geral'
+title: 'Histórico de Pedidos B2B - Visão geral'
 id: C2i93MZmjSrqhEx16YYuA
 status: PUBLISHED
 createdAt: 2024-07-26T13:17:45.094Z

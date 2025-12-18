@@ -168,7 +168,7 @@ Após o go-live, é possível acessar a loja no [domínio cadastrado](/pt/tracks
 
 Recomendamos acompanhar o desempenho da loja após o lançamento a partir do menu de [Dashboards](/pt/tutorial/visao-geral-dashboards--1yn2nZUoXtDO3teTEJsCNl) no Admin VTEX, que inclui as seguintes páginas:
 
-- [Visão Geral](/pt/tutorial/store-overview--P8ahguoRs0U3PzmXg2wuQ): principais métricas que impactam a receita das lojas. Nesse painel, é possível acompanhar os principais indicadores da evolução das vendas através dos recursos de análise de tendências de pedidos, taxa de conversão e gráficos de funil de vendas.
-- [Performance de Vendas](/pt/tutorial/sales-performance--3DMube0sEsK9vPcRYGas72): painel de controle para comércio unificado, que auxilia lojas a ampliarem seu negócio e tomarem decisões com mais precisão.
+- [Visão geral](/pt/tutorial/store-overview--P8ahguoRs0U3PzmXg2wuQ): principais métricas que impactam a receita das lojas. Nesse painel, é possível acompanhar os principais indicadores da evolução das vendas através dos recursos de análise de tendências de pedidos, taxa de conversão e gráficos de funil de vendas.
+- [Performance de vendas](/pt/tutorial/sales-performance--3DMube0sEsK9vPcRYGas72): painel de controle para comércio unificado, que auxilia lojas a ampliarem seu negócio e tomarem decisões com mais precisão.
 
 Além das ferramentas disponíveis no Admin VTEX, é possível acompanhar a performance da loja pelo [Google Analytics](https://analytics.google.com/analytics/web/), caso tenha sido configurado anteriormente. Para obter mais informações, basta acessar o guia [Configurar Google Analytics 4 em loja VTEX](/pt/tutorial/como-configurar-google-analytics-em-loja-vtex--G2P0rmSrEiqCcmUMyUUwG).

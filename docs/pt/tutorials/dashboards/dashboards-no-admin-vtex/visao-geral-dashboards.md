@@ -1,5 +1,5 @@
 ---
-title: 'Visão Geral Dashboards'
+title: 'Dashboards - Visão geral'
 id: 1yn2nZUoXtDO3teTEJsCNl
 status: PUBLISHED
 createdAt: 2023-03-29T21:16:46.179Z
@@ -22,5 +22,5 @@ Essas ações são encontradas no menu __Dashboards__, do seu Admin.
 
 A seção inclui as seguintes páginas, já em seu Admin:
 
-- [Visão Geral](/pt/v4/docs/visao-geral-da-loja--6mcM4LPUqQxSiXY6uFtXZy): onde lojistas têm acesso às principais métricas que impactam a receita de suas lojas. Nesse painel, você pode acompanhar a evolução das suas vendas através dos recursos de análise de tendências de pedidos, taxa de conversão e gráficos de funil de vendas.  
+- [Visão geral](/pt/v4/docs/visao-geral-da-loja--6mcM4LPUqQxSiXY6uFtXZy): onde lojistas têm acesso às principais métricas que impactam a receita de suas lojas. Nesse painel, você pode acompanhar a evolução das suas vendas através dos recursos de análise de tendências de pedidos, taxa de conversão e gráficos de funil de vendas.  
 - [Performance de Vendas](/pt/v4/docs/performance-de-vendas--6gx46RGRzWO8qgaVck7PRp): um painel de controle para comércio unificado, ajudando lojas a ampliarem seu negócio e tomarem decisões com mais precisão.  

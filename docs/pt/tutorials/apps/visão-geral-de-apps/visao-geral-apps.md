@@ -1,5 +1,5 @@
 ---
-title: 'Visão Geral Apps'
+title: 'Apps - Visão geral'
 id: 4xfsHXyAQTjbZNuiKl6Y0e
 status: PUBLISHED
 createdAt: 2023-03-29T15:53:55.835Z
