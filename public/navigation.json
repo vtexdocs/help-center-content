@@ -44676,12 +44676,12 @@
               "name": {
                 "en": "Checkout overwrites receiver name with customer name",
                 "es": "El pago sobrescribe el nombre del receptor con el nombre del cliente",
-                "pt": "O checkout sobregrava o nome do receptor com o nome do cliente"
+                "pt": "O checkout substitui o nome do receptor pelo nome do cliente"
               },
               "slug": {
                 "en": "checkout-overwrites-receiver-name-with-customer-name",
                 "es": "el-pago-sobrescribe-el-nombre-del-receptor-con-el-nombre-del-cliente",
-                "pt": "o-checkout-sobregrava-o-nome-do-receptor-com-o-nome-do-cliente"
+                "pt": "o-checkout-substitui-o-nome-do-receptor-pelo-nome-do-cliente"
               },
               "origin": "",
               "type": "markdown",
@@ -52420,6 +52420,21 @@
             },
             {
               "name": {
+                "en": "Search facets disappear when using back button after clicking \"Show more\"",
+                "es": "Las facetas de búsqueda desaparecen al utilizar el botón Atrás después de hacer clic en \"Mostrar más\".",
+                "pt": "As facetas de pesquisa desaparecem ao usar o botão Voltar depois de clicar em \"Mostrar mais\""
+              },
+              "slug": {
+                "en": "search-facets-disappear-when-using-back-button-after-clicking-show-more",
+                "es": "las-facetas-de-busqueda-desaparecen-al-utilizar-el-boton-atras-despues-de-hacer-clic-en-mostrar-mas",
+                "pt": "as-facetas-de-pesquisa-desaparecem-ao-usar-o-botao-voltar-depois-de-clicar-em-mostrar-mais"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Search filters disappear intermittently",
                 "es": "Los filtros de búsqueda desaparecen intermitentemente",
                 "pt": "Os filtros de busca desaparecem de forma intermitente"
@@ -52428,6 +52443,21 @@
                 "en": "search-filters-disappear-intermittently",
                 "es": "los-filtros-de-busqueda-desaparecen-intermitentemente",
                 "pt": "os-filtros-de-busca-desaparecem-de-forma-intermitente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Search filters disappear when using back button after clicking \"Show more\"",
+                "es": "Los filtros de búsqueda desaparecen al utilizar el botón de retroceso después de hacer clic en \"Mostrar más\".",
+                "pt": "Os filtros de pesquisa desaparecem ao usar o botão Voltar depois de clicar em \"Mostrar mais\""
+              },
+              "slug": {
+                "en": "search-filters-disappear-when-using-back-button-after-clicking-show-more",
+                "es": "los-filtros-de-busqueda-desaparecen-al-utilizar-el-boton-de-retroceso-despues-de-hacer-clic-en-mostrar-mas",
+                "pt": "os-filtros-de-pesquisa-desaparecem-ao-usar-o-botao-voltar-depois-de-clicar-em-mostrar-mais"
               },
               "origin": "",
               "type": "markdown",
@@ -59615,6 +59645,21 @@
             },
             {
               "name": {
+                "en": "Inconsistency in single installment payment condition behavior at checkout",
+                "es": "Incoherencia en el comportamiento de la condición de pago único en la caja",
+                "pt": "Inconsistência no comportamento da condição de pagamento em parcela única no checkout"
+              },
+              "slug": {
+                "en": "inconsistency-in-single-installment-payment-condition-behavior-at-checkout",
+                "es": "incoherencia-en-el-comportamiento-de-la-condicion-de-pago-unico-en-la-caja",
+                "pt": "inconsistencia-no-comportamento-da-condicao-de-pagamento-em-parcela-unica-no-checkout"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Inconsistency on the deadlines of Customer Credit invoices",
                 "es": "Incoherencia en los plazos de las facturas de crédito de los clientes",
                 "pt": "Inconsistência nos prazos das faturas de crédito do cliente"
@@ -60658,21 +60703,6 @@
                 "en": "second-payment-authorization-request-being-sent-within-an-interval-shorter-than-what-is-stated-in-firstretryattemptinseconds",
                 "es": "segunda-solicitud-de-autorizacion-de-pago-enviada-en-un-intervalo-inferior-al-indicado-en-firstretryattemptinseconds",
                 "pt": "segunda-solicitacao-de-autorizacao-de-pagamento-sendo-enviada-em-um-intervalo-menor-do-que-o-indicado-em-firstretryattemptinseconds"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Single installment payment condition does not appear at chekout.",
-                "es": "La condición de pago único no aparece en el chekout.",
-                "pt": "A condição de pagamento em uma única parcela não aparece no checkout."
-              },
-              "slug": {
-                "en": "single-installment-payment-condition-does-not-appear-at-chekout",
-                "es": "la-condicion-de-pago-unico-no-aparece-en-el-chekout",
-                "pt": "a-condicao-de-pagamento-em-uma-unica-parcela-nao-aparece-no-checkout"
               },
               "origin": "",
               "type": "markdown",
