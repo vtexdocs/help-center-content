@@ -17956,8 +17956,8 @@
                     "pt": "Navegação Data Pipeline"
                   },
                   "slug": {
-                    "en": "navigation",
-                    "es": "navegacion",
+                    "en": "navigation-data-pipeline",
+                    "es": "navegacion-data-pipeline",
                     "pt": "navegacao-data-pipeline-beta"
                   },
                   "origin": "",
