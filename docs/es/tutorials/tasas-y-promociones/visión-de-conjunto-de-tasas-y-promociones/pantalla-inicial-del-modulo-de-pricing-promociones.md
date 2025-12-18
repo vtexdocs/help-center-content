@@ -1,5 +1,5 @@
 ---
-title: 'Información general: Audiencia de Campañas, promociones, impuestos y cupones'
+title: 'Audiencia de Campañas, promociones, impuestos y cupones - Información general'
 id: tutorials_326
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:08.926Z

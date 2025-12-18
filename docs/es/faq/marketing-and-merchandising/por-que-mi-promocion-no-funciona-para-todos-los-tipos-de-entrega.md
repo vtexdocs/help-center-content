@@ -29,5 +29,5 @@ Hecho esto, los tipos de flete especificados entrarán en la promoción y aparec
 Usted también puede activar la flag __Aplique el descuento solo cuando el cliente seleccione uno de los transportistas anteriores__. En este caso, la promoción se aplicará en todos los tipos de flete seleccionados por el cliente.
 
 ### Artículos relacionados
-- [Información general: Promociones, impuestos y cupones](/es/tutorial/pantalla-inicial-del-modulo-de-pricing-promociones)
+- [Promociones, impuestos y cupones - Información general](/es/tutorial/pantalla-inicial-del-modulo-de-pricing-promociones)
 - [Crear promociones](/es/tutorial/como-crear-promociones)

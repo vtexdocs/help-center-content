@@ -1,5 +1,5 @@
 ---
-title: 'Información general  de la Rappi integración'
+title: 'Información general de la Rappi integración'
 id: 7y40IL3ajiukMRHrX3XmC8
 status: PUBLISHED
 createdAt: 2024-05-31T20:24:26.112Z

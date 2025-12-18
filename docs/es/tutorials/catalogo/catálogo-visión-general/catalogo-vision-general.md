@@ -1,5 +1,5 @@
 ---
-title: 'Catálogo: información general'
+title: 'Catálogo - Información general'
 id: 77M8ItLhDXs6aBdQTqToVe
 status: PUBLISHED
 createdAt: 2022-03-04T15:23:02.967Z

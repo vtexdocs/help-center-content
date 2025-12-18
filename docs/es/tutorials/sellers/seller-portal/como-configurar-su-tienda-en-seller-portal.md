@@ -81,7 +81,7 @@ Para que se venda un producto, su cliente necesita saber cuánto cuesta cada ít
 
  Para aprender más, lea los siguientes artículos:
 
-- [Información general del módulo de Precios](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP)  
+- [Precios - Información general](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP)  
 - [Registro de precios](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29)  
 
 ### 3. Logística
