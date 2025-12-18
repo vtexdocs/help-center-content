@@ -17951,14 +17951,29 @@
                 },
                 {
                   "name": {
-                    "en": "Navigation Data Pipeline",
                     "es": "Navegación Data Pipeline",
-                    "pt": "Navegação Data Pipeline"
+                    "pt": "Navegação Data Pipeline",
+                    "en": "Navegación Data Pipeline"
                   },
                   "slug": {
-                    "en": "navigation",
                     "es": "navegacion",
-                    "pt": "navegacao-data-pipeline-beta"
+                    "pt": "navegacao-data-pipeline-beta",
+                    "en": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Navigation Data Pipeline",
+                    "es": "Navigation Data Pipeline",
+                    "pt": "Navigation Data Pipeline"
+                  },
+                  "slug": {
+                    "en": "navigation-data-pipeline",
+                    "es": "",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
