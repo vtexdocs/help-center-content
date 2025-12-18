@@ -18,7 +18,7 @@ subcategoryId: 7ogirQ8NClawO2X6xdgCKc
 Lojas desenvolvidas com o VTEX IO Store Framework possuem nativamente um *Progressive Web App* (PWA), que é um tipo de aplicativo web que oferece uma experiência de usuário semelhante a de um aplicativo nativo, mas executada diretamente em um navegador da web.
 
 <div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Para lojas CMS Portal Legado, consulte o guia [Como transformar o site da minha loja em um PWA](/pt/tutorial/how-to-turn-my-store-website-into-a-pwa--3i8VmYeToAUGKgo2kKK6I2).
+Para lojas CMS Portal (Legado), consulte o guia [Como transformar o site da minha loja em um PWA](/pt/tutorial/how-to-turn-my-store-website-into-a-pwa--3i8VmYeToAUGKgo2kKK6I2).
 </div>
 
 Para configurar um PWA em sua loja, acesse Configurações da Loja > Storefront > Loja no Admin VTEX, e siga as etapas abaixo:

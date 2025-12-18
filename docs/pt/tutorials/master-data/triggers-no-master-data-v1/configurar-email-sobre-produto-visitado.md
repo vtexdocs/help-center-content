@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2nx7hMJmisofwqwy2P9l2i
 ---
 
-> ⚠️ Tutorial válido apenas para lojas CMS Portal Legado.
+> ⚠️ Tutorial válido apenas para lojas CMS Portal (Legado).
 
 O email sobre produto visitado é uma mensagem automática enviada para clientes que visitaram a página de um produto no site mas não finalizaram a compra. O envio do email tem como objetivo a recuperação da venda e a oferta de outros produtos.
 
@@ -63,7 +63,7 @@ Siga o passo a passo abaixo para exibir os campos importantes para o cenário de
 
 ## Criar template de email sobre produto visitado
 
-O template do email que será enviado deve ser configurado no Portal CMS Legado, seguindo o passo a passo abaixo. Para auxiliar a configuração, você pode utilizar o [template de exemplo](https://assets.ctfassets.net/alneenqid6w5/6TloqmkC76AAauQ4e4SWmA/90018592126fff6bd0d7a9a4ae8568d7/produtovisitadoexemplo.zip).
+O template do email que será enviado deve ser configurado no CMS Portal (Legado), seguindo o passo a passo abaixo. Para auxiliar a configuração, você pode utilizar o [template de exemplo](https://assets.ctfassets.net/alneenqid6w5/6TloqmkC76AAauQ4e4SWmA/90018592126fff6bd0d7a9a4ae8568d7/produtovisitadoexemplo.zip).
 
 1. No Admin, acesse **Storefront > Layout**.
 2. Clique em **HTML Templates**.
@@ -98,7 +98,7 @@ Após criar o template, é preciso criar a estrutura de pastas necessária para 
     * **Protocol**: HTTPS
     * **Authentication Required?**: manter desmarcado.
 7. Clique no botão `Save Folder`.
-8. Após a criação da pasta, você precisa associar o template de página ao layout da página. Clique na pasta criada no menu lateral esquerdo do Portal CMS Legado.
+8. Após a criação da pasta, você precisa associar o template de página ao layout da página. Clique na pasta criada no menu lateral esquerdo do CMS Portal (Legado).
 9. Clique em **new layout**.
 10. Em **Template**, selecione o template criado anteriormente.
 11. Clique no botão `Save Layout`.

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ℹ️ Este artículo solo es válido para tiendas CMS Portal Legado.
+> ℹ️ Este artículo solo es válido para tiendas CMS Portal (Legado).
 
 Progressive Web App (PWA) es un conjunto de técnicas utilizadas para desarrollar aplicaciones web y utilizar funcionalidades que de otro modo estarían restringidas a aplicaciones nativas.
 
@@ -31,7 +31,7 @@ Progressive Web App (PWA) es un conjunto de técnicas utilizadas para desarrolla
 
 Si ya tienes un sitio o aplicación web, puedes implementar poco a poco las características que definen una PWA, como notificaciones, caché de archivos, ejecución offline y otras cosas que hagan al usuario sentirse como si estuviera utilizando una aplicación nativa.
 
-> ⚠️ VTEX **no** ofrece soluciones nativas para conversión a PWA en el CMS Portal Legado, aunque sí tiene la infraestructura básica para una implementación manual. Las tiendas desarrolladas con VTEX IO Store Framework tienen este recurso de forma nativa.
+> ⚠️ VTEX **no** ofrece soluciones nativas para conversión a PWA en el CMS Portal (Legado), aunque sí tiene la infraestructura básica para una implementación manual. Las tiendas desarrolladas con VTEX IO Store Framework tienen este recurso de forma nativa.
 
 ## Instrucciones
 

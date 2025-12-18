@@ -68,7 +68,7 @@ Além disso, para verificar se as URLs estão corretas, você pode utilizar um s
 
 O nome da imagem é o que vem depois da última `/` na URL da imagem, incluindo a extensão do arquivo. Portanto, esse campo precisa ser preenchido com o nome e a extensão do arquivo (`.jpg`, `.png` ou `.gif`). Exemplo: `exemplo15.jpg`.
 
-Esse nome será relacionado à imagem no gerenciador de arquivos do Portal CMS Legado.
+Esse nome será relacionado à imagem no gerenciador de arquivos do CMS Portal (Legado).
 
 ### TextoImagem
 

@@ -1,5 +1,5 @@
 ---
-title: 'Storefront Overview'
+title: 'Storefront - Overview'
 id: 7cRrL2xtY7HDqiyep1PxIS
 status: PUBLISHED
 createdAt: 2023-03-23T17:35:21.202Z

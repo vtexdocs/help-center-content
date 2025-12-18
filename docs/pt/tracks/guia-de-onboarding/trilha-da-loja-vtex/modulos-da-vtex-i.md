@@ -240,7 +240,7 @@ Uma vez que a audiência de campanha foi criada, é preciso associá-la a uma [P
 1. [Crie uma promoção](/pt/tutorial/criar-promocoes--tutorials_320) de qualquer tipo, com exceção da promoção Compre Junto.
 2. Ative o campo __Destaque nos produtos__ no formulário da promoção.
 3. Salve a promoção.
-4. No [CMS Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), insira o controle de exibição de promoção no template: `<vtex.cmc:discountHightLight/>`. 
+4. No [CMS Portal (Legado)](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), insira o controle de exibição de promoção no template: `<vtex.cmc:discountHightLight/>`. 
 
 ### Sincronização de datas de promoção, banners e ativos digitais
 

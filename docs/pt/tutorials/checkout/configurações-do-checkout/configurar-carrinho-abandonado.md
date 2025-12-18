@@ -18,10 +18,10 @@ subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 O carrinho abandonado é a funcionalidade da VTEX que envia e-mails aos clientes para lembrá-los de finalizar a compra em um carrinho que foi montado, mas não finalizado.
 
 A configuração do carrinho abandonado pode ser realizada de duas formas diferentes, de acordo com o ambiente de operação da loja:
-- [Portal CMS Legado](#configuracao-para-lojas-portal-cms-legado): por meio de diversos módulos da plataforma VTEX (CMS, Master Data e Central de Mensagens) e também em seu servidor de host.
+- [CMS Portal (Legado)](#configuracao-para-lojas-portal-cms-legado): por meio de diversos módulos da plataforma VTEX (CMS, Master Data e Central de Mensagens) e também em seu servidor de host.
 - [VTEX IO](#configuracao-para-lojas-vtex-io): por meio da instalação do app “Abandoned Cart”, configuração do template de email na Central de Mensagens, e do Trigger no Master Data.
 
-## Configuração para lojas Portal CMS Legado 
+## Configuração para lojas CMS Portal (Legado) 
 
 Nesta seção são apresentados os seguintes tópicos para configuração da funcionalidade carrinho abandonado nas lojas VTEX Legado:
 

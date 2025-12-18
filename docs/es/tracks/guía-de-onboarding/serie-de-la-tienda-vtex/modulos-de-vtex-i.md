@@ -240,7 +240,7 @@ Para destacar una promoción en la página del producto (PDP) sigue los pasos qu
 1. [Crea una promoción](/es/tutorial/lista-de-promocoes-beta--4yB7nNdliiFxBTXE19GCIi) de cualquier tipo, a excepción de Comprar juntos.
 2. Activa el campo __Promoción resaltada__ en el formulario de promoción.
 3. Guarda la promoción.
-4. En el [CMS Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), ingresa el control de visualización de la promoción en el template: `<vtex.cmc:discountHightLight/>`. 
+4. En el [CMS Portal (Legado)](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), ingresa el control de visualización de la promoción en el template: `<vtex.cmc:discountHightLight/>`. 
 
 ### Sincronización de fechas de promoción, banners y activos digitales
 

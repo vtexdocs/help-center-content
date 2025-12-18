@@ -34602,8 +34602,8 @@
                 {
                   "name": {
                     "en": "A/B Testing for stores on Legacy CMS Portal",
-                    "es": "Pruebas A/B para tiendas en CMS Portal Legado",
-                    "pt": "Teste A/B para lojas no CMS Portal Legado"
+                    "es": "Pruebas A/B para tiendas en CMS Portal (Legado)",
+                    "pt": "Teste A/B para lojas no CMS Portal (Legado)"
                   },
                   "slug": {
                     "en": "ab-testing-how-where-when-and-why",
@@ -35820,8 +35820,8 @@
                 {
                   "name": {
                     "en": "Configuring SEO in Legacy CMS Portal stores",
-                    "es": "Configurar SEO en tiendas CMS Portal Legado",
-                    "pt": "Configurando SEO em sua loja CMS Portal Legado"
+                    "es": "Configurar SEO en tiendas CMS Portal (Legado)",
+                    "pt": "Configurando SEO em sua loja CMS Portal (Legado)"
                   },
                   "slug": {
                     "en": "configuring-seo-in-legacy-cms-portal-stores",

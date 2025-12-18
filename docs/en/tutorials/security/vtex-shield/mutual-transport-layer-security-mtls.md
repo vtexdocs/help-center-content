@@ -95,7 +95,7 @@ Therefore, to use mTLS, the store must meet at least one of the following requir
 
 * Operate in a headless model, where all interactions with VTEX are performed through API-based integrations.
 
-  > ⚠️  The use of mTLS doesn't apply to implementations with a native storefront, such as [Store Framework](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) or [Portal CMS Legado](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). 
+  > ⚠️  The use of mTLS doesn't apply to implementations with a native storefront, such as [Store Framework](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) or [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). 
 
 * Have one or more API-based integrations with external services (ERP, WMS, external sellers, etc.).
 

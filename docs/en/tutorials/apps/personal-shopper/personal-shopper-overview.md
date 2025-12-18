@@ -1,5 +1,5 @@
 ---
-title: 'Personal Shopper Overview'
+title: 'Personal Shopper - Overview'
 id: 12dC0UMD0C6x6kw43LF8MH
 status: PUBLISHED
 createdAt: 2024-11-19T15:03:14.481Z
@@ -194,7 +194,7 @@ As a registered Personal Shopper consultant, you have the ability to create call
     * **Email**: Enter the customer's email address for communication and event-related notifications.
     * **Phone (Optional)**: Enter the customer's phone number to enable additional contact options.
     * **Product (Optional)**: If applicable, specify the product of interest to focus the call discussion.
-    * **Select the platform you are on**: VTEX IO or VTEX Portal (a.k.a., VTEX Legacy CMS Portal).
+    * **Select the platform you are on**: VTEX IO or VTEX Portal (a.k.a., Legacy CMS Portal).
 5. Click `Create call`.
 6. Choose `Start an instant call` to begin the call with the customer or `Create a call for later` to schedule a call.
 

@@ -49,7 +49,7 @@ La sección **Configuración** está estructurada de la siguiente manera:
 - **Tipos de archivos:** configuraciones relacionadas con los archivos de recursos, como las dimensiones y el tamaño de las imágenes. 
 - **Regiones geográficas:** base de datos de las regiones geográficas donde están disponibles los productos de la tienda.
 
-## Estructura de carpetas del CMS Legado 
+## Estructura de carpetas del CMS Portal (Legado) 
 
 En VTEX, toda nueva cuenta ya tiene carpetas preinstaladas en su CMS. Sin embargo, algunas de estas son __obligatorias__. 
 

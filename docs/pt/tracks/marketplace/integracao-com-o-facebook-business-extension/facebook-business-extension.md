@@ -27,7 +27,7 @@ A VTEX desenvolveu a app _Facebook Business Extension e Conversions API_, que fa
 
 ## Compatibilidade
 
-A app _Facebook Business Extension e Conversions API_ tem compatibilidade total com lojas que operam com VTEX IO, compatibilidade parcial com as lojas que são CMS Legado ou [Headless](https://vtex.com/en/blog/strategy/headless-commerce-what-it-is-and-why-its-growing-so-fast/). Para identificar em qual modelo sua loja opera, acesse [Edition App](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-edition-app). 
+A app _Facebook Business Extension e Conversions API_ tem compatibilidade total com lojas que operam com VTEX IO, compatibilidade parcial com as lojas que são CMS Portal (Legado) ou [Headless](https://vtex.com/en/blog/strategy/headless-commerce-what-it-is-and-why-its-growing-so-fast/). Para identificar em qual modelo sua loja opera, acesse [Edition App](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-edition-app). 
 
 Saiba mais sobre a configuração necessária para cada uma em nosso guia [Facebook Business Extension](https://developers.vtex.com/docs/guides/vtex-facebook-fbe#compatibility) no Developer Portal.
 

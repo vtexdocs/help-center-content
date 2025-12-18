@@ -18,7 +18,7 @@ subcategoryId: 7ogirQ8NClawO2X6xdgCKc
 Las tiendas creadas con VTEX IO Store Framework incorporan de forma nativa una aplicación web progresiva (PWA), la cual brinda una experiencia de usuario similar a la de una aplicación nativa, pero se ejecuta directamente en un navegador web.
 
 <div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Para tiendas CMS Portal Legado, consulta la guía [Cómo transformar el sitio web de mi tienda en una PWA](/es/tutorial/how-to-turn-my-store-website-into-a-pwa--3i8VmYeToAUGKgo2kKK6I2).
+Para tiendas CMS Portal (Legado), consulta la guía [Cómo transformar el sitio web de mi tienda en una PWA](/es/tutorial/how-to-turn-my-store-website-into-a-pwa--3i8VmYeToAUGKgo2kKK6I2).
 </div>
 
 Para configurar una PWA en tu tienda, accede a Configuración de la tienda > **Storefront > Tienda** en el Admin VTEX, y sigue los pasos que se indican a continuación:

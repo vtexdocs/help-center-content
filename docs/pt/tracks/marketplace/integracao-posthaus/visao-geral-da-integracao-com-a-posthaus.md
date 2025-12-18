@@ -1,5 +1,5 @@
 ---
-title: 'Visão geral da integração com a Posthaus'
+title: 'Integração com a Posthaus - Visão geral'
 id: 4ftXLupAsAfGz4qgFknnNm
 status: PUBLISHED
 createdAt: 2024-10-23T15:22:43.393Z

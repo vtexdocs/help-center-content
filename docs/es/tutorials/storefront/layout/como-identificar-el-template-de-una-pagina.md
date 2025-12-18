@@ -17,11 +17,11 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 
 Esa duda es muy común entre los comerciantes VTEX. Como el CMS es un módulo antiguo (que se está rehaciendo totalmente) fue diseñado en una época en la que el contenido no era fácil de manipularse. La nueva plataforma dará más libertad y será intuitiva pero mientras tanto, vamos a diseñar aquí el paso a paso para que usted identifique el template de una página específica.
 
-Antes es necesario explicar rápidamente la estructura del CMS Layout, que queda en `{AccountName}.myvtex.com/admin/a`
+Antes es necesario explicar rápidamente la estructura del CMS Portal (Legado), que queda en `{AccountName}.myvtex.com/admin/a`
 
 ![cms_newadmin ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-identificar-el-template-de-una-pagina_1.png)
 
-La principal función del CMS Layout es permitir la administración del layout de su tienda. En él se crearán los Directorios y Templates que darán vida a su e-commerce.
+La principal función del CMS Portal (Legado) es permitir la administración del layout de su tienda. En él se crearán los Directorios y Templates que darán vida a su e-commerce.
 
 Tradicionalmente en el mundo de la tecnología organizamos páginas y archivos en carpetas, así como en su computadora.
 

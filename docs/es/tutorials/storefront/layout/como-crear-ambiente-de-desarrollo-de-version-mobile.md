@@ -16,7 +16,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial válido solo para tiendas CMS Portal Legado.
+Tutorial válido solo para tiendas CMS Portal (Legado).
 </div>
 
 Iniciamos este artículo advirtiendo que la tendencia y las buenas prácticas indican que se use una única versión (responsiva) para desktop y mobile. 
@@ -34,7 +34,7 @@ Existen algunas manearas de desarrollar una versión mobile sin impactar la vers
 Para desarrollar una versión mobile con un nuevo WebSite, debe seguir los siguientes pasos:
 
 1. Configurar nueva tienda (temporal) en **Configuración de la cuenta.** Este paso lo debe realizar el responsable de la tienda (ambiente). En el Admin VTEX, accede a __Configuración de la cuenta > Cuenta__. Selecciona la cuenta deseada y haga clic en **Configurar otra tienda**
-2. Crear (o clonar lo principal) un nuevo WebSite en el **CMS Layout**
+2. Crear (o clonar lo principal) un nuevo WebSite en el **CMS Portal (Legado)**
 
 Storefront > Layout > Carpeta de CMS > Sites and Channels > New Website
 

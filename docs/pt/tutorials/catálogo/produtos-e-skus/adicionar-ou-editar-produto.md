@@ -112,6 +112,6 @@ A tabela abaixo apresenta exemplos de especificações de produto para produtos 
 
 * [Produtos e SKUs](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By)
 * [Adicionar ou editar SKU](/pt/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN)
-* [Catálogo: Visão Geral](/pt/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe)
+* [Catálogo - Visão geral](/pt/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe)
 * [Catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ) (trilha)
 

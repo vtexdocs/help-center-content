@@ -26,8 +26,8 @@ Nas seções a seguir, exploraremos melhor os principais aspectos e tecnologias 
 
 Outros conceitos essenciais para desenvolvimento de loja na VTEX são:
 
-## CMS Legado
-Na VTEX, frentes de loja podem ser construídas através do CMS Legado, por exemplo, o qual gerencia todo o conteúdo que aparece na loja.
+## CMS Portal (Legado)
+Na VTEX, frentes de loja podem ser construídas através do CMS Portal (Legado), por exemplo, o qual gerencia todo o conteúdo que aparece na loja.
 
 ## VTEX Admin
 Também essencial para uma loja é o Admin ou, no caso da VTEX, o VTEX Admin. Nele é possível gerenciar todas as informações necessárias para a melhoria de performance do negócio e em tomadas de decisões mais embasadas. 

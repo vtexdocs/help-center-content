@@ -30,7 +30,7 @@ Para activar el acceso, sigue las instrucciones de este tutorial.
 5. Selecciona el método de instalación apropiado para la tecnología de tu tienda:
 
 - [Store Framework](#store-framework)
-- [CMS Portal Legado](#cms-portal-legado)
+- [CMS Portal (Legado)](#cms-portal-legado)
 
 ### Store Framework
 
@@ -51,7 +51,7 @@ Para activar el acceso, sigue las instrucciones de este tutorial.
 9. Haz clic en `Guardar`.
 10. Vuelve a [Google Search Console](https://search.google.com/search-console) y haz clic en `Verificar`. La verificación te dará acceso a los datos de indexación de la tienda.
 
-### CMS Portal Legado
+### CMS Portal (Legado)
 
 1. En el Admin VTEX, accede a **Storefront > Layout**.
 2. Ve a la carpeta `CMS > HTML Templates` y haz clic en el archivo `Home`.

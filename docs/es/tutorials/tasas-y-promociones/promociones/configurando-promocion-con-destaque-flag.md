@@ -25,7 +25,7 @@ En esta guía puedes consultar las siguientes secciones:
 - [Restricciones](#restricciones)
 - [Configurar la promoción](configurar-la-promocion)
 - [Promociones destacadas en Store Framework](#promociones-destacadas-en-store-framework)
-- [Destacar promociones en CMS Portal Legado](#destacar-promociones-en-cms-portal-Legado)
+- [Destacar promociones en CMS Portal (Legado)](#destacar-promociones-en-cms-portal-Legado)
      - [Plantilla de página](#plantilla-de-pagina) 
      - [Plantilla de estantería de productos](#plantilla-de-estanteria-de-productos)
 
@@ -66,15 +66,15 @@ Sigue las instrucciones a continuación para configurar promociones destacadas e
 6. Sigue las instrucciones correspondientes a la tecnología frontend utilizada por tu tienda:
 
 - [Store Framework](#promociones-destacadas-en-store-framework)
-- [CMS Portal Legado](#promociones-destacadas-en-cms-portal-legado)
+- [CMS Portal (Legado)](#promociones-destacadas-en-cms-portal-legado)
 
 ## Promociones destacadas en Store Framework
 
 Para tiendas desarrolladas con Store Framework, después de configurar la promoción destacada, sigue las instrucciones de la documentación del componente [Product Highlights](https://developers.vtex.com/docs/apps/vtex.product-highlights).
 
-## Destacar promociones en CMS Portal Legado
+## Destacar promociones en CMS Portal (Legado)
 
-Para tiendas CMS Portal Legado, tras configurar la promoción destacada, configura la [plantilla de página](#plantilla-de-pagina) y la [plantilla-de-estantería de productos](#plantilla-de-estanteria-de-productos) en el módulo CMS. Además, el CSS debe estar configurado para esta función.
+Para tiendas CMS Portal (Legado), tras configurar la promoción destacada, configura la [plantilla de página](#plantilla-de-pagina) y la [plantilla-de-estantería de productos](#plantilla-de-estanteria-de-productos) en el módulo CMS. Además, el CSS debe estar configurado para esta función.
 
 ### Plantilla de página
 

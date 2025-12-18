@@ -1,5 +1,5 @@
 ---
-title: 'Teste A/B para lojas no CMS Portal Legado'
+title: 'Teste A/B para lojas no CMS Portal (Legado)'
 id: tutorials_581
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:39.133Z
@@ -24,8 +24,8 @@ Na VTEX o teste A/B pode ser realizado entre as seguintes tecnologias de desenvo
 
 | Tecnologia     | É possível teste A/B nativo entre elas?     | Referência     |
 | ---------- | ---------- | ---------- |
-| CMS Portal Legado - VTEX IO (Store Framework)       | Sim       | [A/B testing Legacy and IO store versions](https://developers.vtex.com/docs/guides/vtex-io-documentation-performing-ab-testing-between-legacy-and-io)       |
-| CMS Portal Legado - FastStore       | Não       | -       |
+| CMS Portal (Legado) - VTEX IO (Store Framework)       | Sim       | [A/B testing Legacy and IO store versions](https://developers.vtex.com/docs/guides/vtex-io-documentation-performing-ab-testing-between-legacy-and-io)       |
+| CMS Portal (Legado) - FastStore       | Não       | -       |
 | VTEX IO (Store Framework) - VTEX IO (Store Framework)       | Não      | -      |
 | VTEX IO (Store Framework) - FastStore      | Não      | -       |
 | FastStore - FastStore       | Não       | -       |

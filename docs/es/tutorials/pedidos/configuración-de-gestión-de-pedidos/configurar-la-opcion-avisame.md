@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
 
-> ⚠️ Este articulo explica cómo configurar la opción **Avísame** en las tiendas que usan [CMS Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). En las tiendas que usan [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), la configuración se debe hacer siguiendo los pasos de la guía [Availability Notify](https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify).
+> ⚠️ Este articulo explica cómo configurar la opción **Avísame** en las tiendas que usan [CMS Portal (Legado)](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). En las tiendas que usan [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), la configuración se debe hacer siguiendo los pasos de la guía [Availability Notify](https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify).
 
 Cuando no hay [stock](/es/tutorial/gestionar-items-en-inventario--tutorials_139) de un producto, el administrador de la tienda puede optar por ofrecer al cliente la opción **Avísame**. Esta funcionalidad permite que los clientes interesados en un producto reciban una notificación por email cuando el ítem vuelva a estar disponible.
 

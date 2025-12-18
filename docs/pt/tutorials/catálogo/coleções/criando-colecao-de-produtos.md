@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3aExYJkji3NIu9Ks8bxbWx
 ---
 
-> ⚠️ Existem duas formas de configurar coleções, por meio do Portal CMS Legado ou utilizando o módulo de [Coleções Beta](/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye). Este artigo refere-se à [configuração de coleções por meio do Portal CMS Legado](/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L).
+> ⚠️ Existem duas formas de configurar coleções, por meio do CMS Portal (Legado) ou utilizando o módulo de [Coleções Beta](/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye). Este artigo refere-se à [configuração de coleções por meio do CMS Portal (Legado)](/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L).
 
 Para criar uma coleção, siga as instruções abaixo:
 

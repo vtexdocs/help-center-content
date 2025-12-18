@@ -26,8 +26,8 @@ En las siguientes secciones, profundizaremos en los principales aspectos y tecno
 
 Otros conceptos esenciales para el desarrollo de la tienda en VTEX son:
 
-## CMS Legado
-En VTEX, los storefronts pueden ser construidos a través del CMS Legado, por ejemplo, que gestiona todo el contenido que aparece en la tienda.
+## CMS Portal (Legado)
+En VTEX, los storefronts pueden ser construidos a través del CMS Portal (Legado), por ejemplo, que gestiona todo el contenido que aparece en la tienda.
 
 ## Admin VTEX
 Otro elemento esencial de una tienda es el admin o, en el caso de VTEX, el Admin VTEX. El Admin permite gestionar toda la información necesaria para mejorar el rendimiento del negocio y tomar decisiones mejor fundamentadas. 

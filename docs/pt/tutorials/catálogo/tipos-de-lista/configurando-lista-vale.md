@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 ---
 
-> ⚠️ A funcionalidade [Lista](/pt/tutorial/o-que-e-uma-lista--4b4NsVFwA8kwqS8S82w4Go) é exclusiva para lojas que usam CMS Portal Legado.
+> ⚠️ A funcionalidade [Lista](/pt/tutorial/o-que-e-uma-lista--4b4NsVFwA8kwqS8S82w4Go) é exclusiva para lojas que usam CMS Portal (Legado).
 
 Será abordado neste artigo as particularidades da criação de um tipo de Lista Vale, que é um tipo especial de Lista. [Veja nossa documentação completa de Tipo de Lista clicando aqui.](/pt/tutorial/criando-tipo-de-lista/)
 

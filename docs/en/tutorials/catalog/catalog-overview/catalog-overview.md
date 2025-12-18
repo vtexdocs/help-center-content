@@ -1,5 +1,5 @@
 ---
-title: 'Catalog: Overview'
+title: 'Catalog - Overview'
 id: 77M8ItLhDXs6aBdQTqToVe
 status: PUBLISHED
 createdAt: 2022-03-04T15:23:02.967Z

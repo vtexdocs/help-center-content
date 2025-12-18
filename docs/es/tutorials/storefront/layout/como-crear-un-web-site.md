@@ -16,7 +16,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial válido solo para tiendas CMS Portal Legado.
+Tutorial válido solo para tiendas CMS Portal (Legado).
 </div>
 
 Un [sitio web](/es/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete) está formado por una serie de carpetas y archivos que conforman y definen el contenido de las páginas web que se muestran a los visitantes de una tienda.
@@ -42,7 +42,7 @@ Sigue los pasos a continuación para crear un sitio web o lanzar tu primera tien
 
 6. Luego cambia los templates y los layouts de tu sitio web como desees. Para obtener más información sobre cómo realizar estos cambios, lee los artículos a continuación:
 
-  - [Visión de conjunto de CMS Layout](/es/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262).
+  - [Visión de conjunto de CMS Portal (Legado)](/es/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262).
   - [Crear un template de página](/es/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850).
   - [Lista de controles para templates](/es/tutorial/lista-de-controles-para-templates)
 
@@ -50,7 +50,7 @@ Sigue los pasos a continuación para crear un sitio web o lanzar tu primera tien
 
   - [¿Qué es un web site?](/es/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
   - [Vincular una tienda a una estructura de carpetas en CMS (binding)](/es/tutorial/vincular-um-account-name-a-um-website-binding)
-  - [Visión de conjunto de CMS Layout](/es/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262)
+  - [Visión de conjunto de CMS Portal (Legado)](/es/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262)
   - [Crear un template de página](/es/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850)
   - [Lista de controles para templates](/es/tutorial/lista-de-controles-para-templates)
 
