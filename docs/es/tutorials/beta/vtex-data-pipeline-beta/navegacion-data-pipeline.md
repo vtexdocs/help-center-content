@@ -9,7 +9,7 @@ firstPublishedAt: 2024-05-27T19:26:59.542Z
 contentType: tutorial
 productTeam: Others
 author: 2p7evLfTcDrhc5qtrzbLWD
-slugEN: navigation
+slugEN: navigation-data-pipeline
 legacySlug: navegacion
 locale: es
 subcategoryId: oMrzcOMVbBpH0reeMFHFg
