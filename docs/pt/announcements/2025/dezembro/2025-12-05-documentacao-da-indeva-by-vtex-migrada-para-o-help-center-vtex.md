@@ -7,7 +7,7 @@ publishedAt: 2025-12-05T15:08:37.645Z
 contentType: updates
 productTeam: Others
 author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: 2025-12-05-indeva-by-VTEX-documentation-now-in-the-vtex-help-center
+slugEN: 2025-12-05-indeva-by-vtex-documentation-now-in-the-vtex-help-center
 locale: pt
 legacySlug:
 announcementImageID:
