@@ -25,6 +25,98 @@
           "children": [
             {
               "name": {
+                "en": "December",
+                "es": "Diciembre",
+                "pt": "Dezembro"
+              },
+              "slug": {
+                "en": "2025-december",
+                "es": "2025-diciembre",
+                "pt": "2025-dezembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Skyhub: New shipping model ",
+                    "es": "Skyhub: nuevo modelo de cálculo de envío ",
+                    "pt": "Skyhub: novo modelo de simulação de frete "
+                  },
+                  "slug": {
+                    "en": "2025-12-15-skyhub-new-shipping-model",
+                    "es": "2025-12-15-skyhub-nuevo-modelo-de-envio",
+                    "pt": "2025-12-15-skyhub-novo-modelo-de-calculo-de-frete"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Indeva by VTEX documentation now in the VTEX Help Center",
+                    "es": "La documentación de Indeva by VTEX migra al Help Center",
+                    "pt": "Indeva by VTEX documentation now in the VTEX Help Center"
+                  },
+                  "slug": {
+                    "en": "2025-12-05-indeva-by-vtex-documentation-now-in-the-vtex-help-center",
+                    "es": "2025-12-05-la-documentacion-de-indeva-by-vtex-migra-al-help-center",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Breaking change Livelo: New mandatory access permission ",
+                    "es": "Breaking change Livelo: Nuevo permiso obligatorio",
+                    "pt": "Breaking change Livelo: Nova permissão de acesso obrigatória"
+                  },
+                  "slug": {
+                    "en": "2025-12-02-breaking-change-livelo-new-mandatory-permission",
+                    "es": "2025-12-02-breaking-change-livelo-nuevo-permiso-obligatorio",
+                    "pt": "2025-12-02-breaking-change-livelo-nova-permissao-obrigatoria"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Dezembro",
+                "es": "Dezembro",
+                "pt": "Dezembro"
+              },
+              "slug": {
+                "en": "dezembro",
+                "es": "dezembro",
+                "pt": "2025-dezembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Documentação da Indeva by VTEX migrada para Help Center VTEX",
+                    "en": "Documentação da Indeva by VTEX migrada para Help Center VTEX",
+                    "es": "Documentação da Indeva by VTEX migrada para Help Center VTEX"
+                  },
+                  "slug": {
+                    "pt": "2025-12-05-documentacao-da-indeva-by-vtex-migrada-para-o-help-center-vtex",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "November",
                 "es": "Noviembre",
                 "pt": "Novembro"
@@ -715,7 +807,7 @@
               "slug": {
                 "en": "2025-march",
                 "es": "2025-marzo",
-                "pt": "2025-março"
+                "pt": "2025-marco"
               },
               "origin": "",
               "type": "category",
@@ -927,98 +1019,6 @@
                     "en": "2025-01-21-optimize-logistics-with-operational-capacity-beta",
                     "es": "2025-01-21-optimiza-logistica-con-capacidad-operativa-beta",
                     "pt": "2025-01-21-otimize-logistica-com-capacidade-operacional-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "December",
-                "es": "Diciembre",
-                "pt": "Dezembro"
-              },
-              "slug": {
-                "en": "december",
-                "es": "diciembre",
-                "pt": "dezembro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Skyhub: New shipping model ",
-                    "es": "Skyhub: nuevo modelo de cálculo de envío ",
-                    "pt": "Skyhub: novo modelo de simulação de frete "
-                  },
-                  "slug": {
-                    "en": "2025-12-15-skyhub-new-shipping-model",
-                    "es": "2025-12-15-skyhub-nuevo-modelo-de-envio",
-                    "pt": "2025-12-15-skyhub-novo-modelo-de-calculo-de-frete"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Indeva by VTEX documentation now in the VTEX Help Center",
-                    "es": "La documentación de Indeva by VTEX migra al Help Center",
-                    "pt": "Indeva by VTEX documentation now in the VTEX Help Center"
-                  },
-                  "slug": {
-                    "en": "2025-12-05-indeva-by-vtex-documentation-now-in-the-vtex-help-center",
-                    "es": "2025-12-05-la-documentacion-de-indeva-by-vtex-migra-al-help-center",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Breaking change Livelo: New mandatory access permission ",
-                    "es": "Breaking change Livelo: Nuevo permiso obligatorio",
-                    "pt": "Breaking change Livelo: Nova permissão de acesso obrigatória"
-                  },
-                  "slug": {
-                    "en": "2025-12-02-breaking-change-livelo-new-mandatory-permission",
-                    "es": "2025-12-02-breaking-change-livelo-nuevo-permiso-obligatorio",
-                    "pt": "2025-12-02-breaking-change-livelo-nova-permissao-obrigatoria"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Dezembro",
-                "es": "Dezembro",
-                "pt": "Dezembro"
-              },
-              "slug": {
-                "en": "dezembro",
-                "es": "dezembro",
-                "pt": "dezembro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Documentação da Indeva by VTEX migrada para Help Center VTEX",
-                    "en": "Documentação da Indeva by VTEX migrada para Help Center VTEX",
-                    "es": "Documentação da Indeva by VTEX migrada para Help Center VTEX"
-                  },
-                  "slug": {
-                    "pt": "2025-12-05-documentacao-da-indeva-by-vtex-migrada-para-o-help-center-vtex",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -1690,7 +1690,7 @@
               "slug": {
                 "en": "2024-march",
                 "es": "2024-marzo",
-                "pt": "2024-março"
+                "pt": "2024-marco"
               },
               "origin": "",
               "type": "category",
@@ -3393,7 +3393,7 @@
               "slug": {
                 "en": "2022-march",
                 "es": "2022-marzo",
-                "pt": "2022-março"
+                "pt": "2022-marco"
               },
               "origin": "",
               "type": "category",
@@ -4260,7 +4260,7 @@
               "slug": {
                 "en": "2021-march",
                 "es": "2021-marzo",
-                "pt": "2021-março"
+                "pt": "2021-marco"
               },
               "origin": "",
               "type": "category",
@@ -5444,7 +5444,7 @@
               "slug": {
                 "en": "2020-march",
                 "es": "2020-marzo",
-                "pt": "2020-março"
+                "pt": "2020-marco"
               },
               "origin": "",
               "type": "category",
@@ -5592,37 +5592,6 @@
             },
             {
               "name": {
-                "en": "january",
-                "es": "enero",
-                "pt": "janeiro"
-              },
-              "slug": {
-                "en": "january",
-                "es": "enero",
-                "pt": "janeiro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Now you can choose the interest type used on installments",
-                    "es": "Ahora usted puede elegir el tipo de interés utilizado en las cuotas de su tienda",
-                    "pt": "Agora você pode escolher o tipo de juros usado nas parcelas da sua loja"
-                  },
-                  "slug": {
-                    "en": "2019-01-03-now-you-can-choose-the-interest-type-used-on-installments",
-                    "es": "2019-01-03-ahora-usted-puede-elegir-el-tipo-de-interes-utilizado-en-las-cuotas-de-su",
-                    "pt": "2019-01-03-agora-voce-pode-escolher-o-tipo-de-juros-usado-nas-parcelas-da-sua-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "November",
                 "es": "November",
                 "pt": "Novembro"
@@ -5645,6 +5614,37 @@
                     "en": "2019-11-01-b2w-integration-automate-picking-request-with-b2w-coleta",
                     "pt": "2019-11-01-integracao-b2w-automatize-a-solicitacao-de-picking-com-a-b2w-coleta",
                     "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "October",
+                "es": "Octubre",
+                "pt": "Outubro"
+              },
+              "slug": {
+                "en": "2019-october",
+                "es": "2019-octubre",
+                "pt": "2019-outubro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Build customer loyalty with the new subscription promotion option",
+                    "es": "Fidelice a sus clientes con la nueva opción de promoción por suscripción",
+                    "pt": "Fidelize seus clientes com a nova opção de promoção por assinatura"
+                  },
+                  "slug": {
+                    "en": "2019-10-31-build-customer-loyalty-with-the-new-subscription-promotion-option",
+                    "es": "2019-10-31-fidelice-a-sus-clientes-con-la-nueva-opcion-de-promocion-por-suscripcion",
+                    "pt": "2019-10-31-fidelize-seus-clientes-com-a-nova-opcao-de-promocao-por-assinatura"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -6102,7 +6102,7 @@
               "slug": {
                 "en": "2019-march",
                 "es": "2019-marzo",
-                "pt": "2019-março"
+                "pt": "2019-marco"
               },
               "origin": "",
               "type": "category",
@@ -6217,28 +6217,28 @@
             },
             {
               "name": {
-                "en": "october",
-                "es": "octubre",
-                "pt": "outubro"
+                "en": "January",
+                "es": "Enero",
+                "pt": "Janeiro"
               },
               "slug": {
-                "en": "october",
-                "es": "octubre",
-                "pt": "outubro"
+                "en": "2019-january",
+                "es": "2019-enero",
+                "pt": "2019-janeiro"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "en": "Build customer loyalty with the new subscription promotion option",
-                    "es": "Fidelice a sus clientes con la nueva opción de promoción por suscripción",
-                    "pt": "Fidelize seus clientes com a nova opção de promoção por assinatura"
+                    "en": "Now you can choose the interest type used on installments",
+                    "es": "Ahora usted puede elegir el tipo de interés utilizado en las cuotas de su tienda",
+                    "pt": "Agora você pode escolher o tipo de juros usado nas parcelas da sua loja"
                   },
                   "slug": {
-                    "en": "2019-10-31-build-customer-loyalty-with-the-new-subscription-promotion-option",
-                    "es": "2019-10-31-fidelice-a-sus-clientes-con-la-nueva-opcion-de-promocion-por-suscripcion",
-                    "pt": "2019-10-31-fidelize-seus-clientes-com-a-nova-opcao-de-promocao-por-assinatura"
+                    "en": "2019-01-03-now-you-can-choose-the-interest-type-used-on-installments",
+                    "es": "2019-01-03-ahora-usted-puede-elegir-el-tipo-de-interes-utilizado-en-las-cuotas-de-su",
+                    "pt": "2019-01-03-agora-voce-pode-escolher-o-tipo-de-juros-usado-nas-parcelas-da-sua-loja"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -6925,7 +6925,7 @@
               "slug": {
                 "en": "2018-march",
                 "es": "2018-marzo",
-                "pt": "2018-março"
+                "pt": "2018-marco"
               },
               "origin": "",
               "type": "category",
