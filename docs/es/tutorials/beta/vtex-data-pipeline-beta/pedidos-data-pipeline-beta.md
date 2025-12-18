@@ -45,12 +45,12 @@ En esta sección puedes consultar la siguiente información:
 
 ## Características de los datos
 
-| **Característica**                    | **Descripción**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Origen**                            | Los datos del conjunto de pedidos proceden del [OMS (Order Management System)](/es/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201).                                                                                                                                                                                                                                                                                                                                                       |
-| **Disponibilidad**                    | Se puede acceder a los datos de pedidos a través del [informe de pedidos](/es/tutorial/exportacao-de-pedidos-no-modulo-pedidos--tutorials_6417) en el Admin VTEX y también por las [API de Orders](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders?endpoint=get-/api/oms/pvt/orders). Es importante tener en cuenta que los datos facilitados por la API pueden no estar estructurados exactamente de la misma manera que en este conjunto de datos de Data Pipeline. |
-| **Historial**                         | Los datos se conservan durante dos años, a partir de 2022 para los clientes que ya utilizan la plataforma VTEX.                                                                                                                                                                                                                                                                                                                                                                                         |
-| **Intervalo mínimo de actualización** | Una hora.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Característica** | **Descrição**|
+| ------------ | -------|
+| **Origen**   | Los datos del conjunto de pedidos proceden del [OMS (Order Management System)](/es/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201).  |
+| **Disponibilidad**   | Se puede acceder a los datos de pedidos a través del [informe de pedidos](/es/tutorial/exportacao-de-pedidos-no-modulo-pedidos--tutorials_6417) en el Admin VTEX y también por las [API de Orders](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders?endpoint=get-/api/oms/pvt/orders). Es importante tener en cuenta que los datos facilitados por la API pueden no estar estructurados exactamente de la misma manera que en este conjunto de datos de Data Pipeline. |
+| **Historial**  | Los datos se conservan durante dos años, a partir de 2022 para los clientes que ya utilizan la plataforma VTEX. |
+| **Intervalo mínimo de actualización** | Una hora. |
 
 ## Tabla `orders_latest`
 
@@ -111,6 +111,7 @@ Consulta a continuación los campos que componen la tabla:
 |       **changesattachment_id**        |  character varying(256)  |                               ID del anexo de personalización del pedido.                               |
 |   **changesattachment_changesdata**   |          super           |                              Datos de los cambios realizados en el pedido.                              |
 |     **shippingdata_postal_code**      |  character varying(256)  |                           Código postal de la dirección de envío del pedido.                            |
+|**seller_parent_account**| caractere varying(100)|Describe la cuenta principal de la tienda dada. Si la tienda actual es la principal, el valor es null.|
 
 ## Tabla `orders_historical`
 
@@ -171,6 +172,7 @@ Consulta a continuación los campos que componen la tabla:
 |       **changesattachment_id**        |  character varying(256)  |                                     Identificador único para una operación de cambio asociada al pedido.                                      |
 |   **changesattachment_changesdata**   |          super           |                 Detalles de los cambios realizados en el pedido, como agregar o remover ítems, así como otras modificaciones.                 |
 |     **shippingdata_postal_code**      |  character varying(256)  |                                              Código postal de la dirección de envío del pedido.                                               |
+|**seller_parent_account**| caractere varying(100)|Describe la cuenta principal de la tienda dada. Si la tienda actual es la principal, el valor es null.|
 
 ## Tabla `orders_totals`
 
@@ -356,6 +358,7 @@ Consulta a continuación los campos que componen la tabla:
 |           **unidad de medida**           | character varying(65535) |                                               Unidad de medida del producto.                                                |
 |            **unitmultiplier**            |     double precision     |                      Multiplicador unitario del producto, utilizado en cálculos de precio y cantidad.                       |
 |               **batch_id**               |  character varying(13)   |           Identificador referente a la carga de datos en la tabla para control de calidad de la ingesta de datos.           |
+|**uniqueid**|character varying(65535)|ID único del artículo dado, que puede usarse para unir esta fila con otras tablas.|
 
 ## Tabla `orders_extra_info`
 

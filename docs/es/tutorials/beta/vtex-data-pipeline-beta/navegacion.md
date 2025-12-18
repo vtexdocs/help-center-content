@@ -1,5 +1,5 @@
 ---
-title: `Navegación Data Pipeline`
+title: 'Navegación Data Pipeline'
 id: 4X4hK0zdIHN0Xn5x2MLYYd
 status: PUBLISHED
 createdAt: 2024-02-02T17:48:16.639Z
@@ -86,7 +86,7 @@ Los campos de la tabla se describen a continuación:
 | --- | --- | --- |
 | account_name | string | Cuenta VTEX de la tienda que está generando esta sesión. |
 | url | string | URL completa de la visualización de página. |
-| request_type | string | El tipo de página que el usuario está visualizando. Puede ser uno de los siguientes:<br><b>- homeView</b>: <code>```<domain>/```</code><br><b>- productView</b>: <code>```<domain>/<product-name>/p```</code><br><b>- checkout</b>: <code>```<domain>/checkout#/checkout```</code><br><b>- cart</b>: <code>```<domain>/checkout#/cart```</code><br><b>- email</b>: <code>```<domain>/checkout#/email```</code><br><b>- login</b>: <code>```<domain>/login?returnUrl=<checkout>```</code><br><b>- profile</b>: <code>```<domain>/checkout#/profile```</code><br><b>- shipping</b>: <code> ```<domain>/checkout#/shipping```</code><br><b>- payment</b>: <code>```<domain>/checkout#/payment```</code><br><b>- orderPlaced</b>: <code>```<domain>/checkout#/orderPlaced``` </code><br><b>- otherView</b>: <code>```<domain>/<other-path>```</code> |
+| request_type | string | El tipo de página que el usuario está visualizando. Puede ser uno de los siguientes:<br><b>- homeView</b>: ```<domain>/```<br><b>- productView</b>:```<domain>/<product-name>/p```<br><b>- checkout</b>:```<domain>/checkout#/checkout```<br><b>- cart</b>: ```<domain>/checkout#/cart```<br><b>- email</b>: ```<domain>/checkout#/email```<br><b>- login</b>: ```<domain>/login?returnUrl=<checkout>```<br><b>- profile</b>: ```<domain>/checkout#/profile```<br><b>- shipping</b>: ```<domain>/checkout#/shipping```<br><b>- payment</b>:```<domain>/checkout#/payment```<br><b>- orderPlaced</b>:```<domain>/checkout#/orderPlaced``` <br><b>- otherView</b>: ```<domain>/<other-path>```|
 | product_id | bigint | ID del producto mostrado en la página, usado para unir con el Modelo de Datos del Catálogo. Solo presente si request_type es productView. |
 | product_name | string | Nombre del producto mostrado en la página, usado para unir con el Modelo de Datos del Catálogo. Solo presente si request_type es productView. |
 | category_id | bigint | ID de la categoría mostrada en la página, usado para unir con el Modelo de Datos del Catálogo. Solo presente si request_type es categoryView. |

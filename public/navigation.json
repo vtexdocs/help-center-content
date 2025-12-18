@@ -17951,6 +17951,21 @@
                 },
                 {
                   "name": {
+                    "en": "Navigation Data Pipeline",
+                    "es": "Navegación Data Pipeline",
+                    "pt": "Navegação Data Pipeline"
+                  },
+                  "slug": {
+                    "en": "navigation",
+                    "es": "navegacion",
+                    "pt": "navegacao-data-pipeline-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Orders Data Pipeline",
                     "es": "Pedidos Data Pipeline (Beta)",
                     "pt": "Pedidos Data Pipeline"
