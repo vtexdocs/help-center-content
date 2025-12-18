@@ -1,9 +1,9 @@
 ---
 title: "Documentação da Indeva by VTEX migrada para Help Center VTEX"
 status: PUBLISHED
-createdAt: 2025-12-05T10:08:37.645Z
-updatedAt: 2025-12-05T10:08:37.645Z
-publishedAt: 2025-12-05T10:08:37.645Z
+createdAt: 2025-12-05T15:08:37.645Z
+updatedAt: 2025-12-05T15:08:37.645Z
+publishedAt: 2025-12-05T15:08:37.645Z
 contentType: updates
 productTeam: Others
 author: 2AhArvGNSPKwUAd8GOz0iU
