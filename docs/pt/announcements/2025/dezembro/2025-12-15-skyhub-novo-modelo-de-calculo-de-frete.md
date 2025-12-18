@@ -1,5 +1,5 @@
 ---
-title: 'Skyhub: novo modelo de simulação de frete '
+title: 'Skyhub: novo modelo de simulação de frete'
 status: PUBLISHED
 createdAt: 2025-12-15T76:48:37.645Z
 updatedAt: 2025-12-15T76:48:37.645Z

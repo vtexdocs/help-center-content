@@ -1,5 +1,5 @@
 ---
-title: 'Skyhub: New shipping model '
+title: 'Skyhub: New shipping model'
 status: PUBLISHED
 createdAt: 2025-12-15T76:48:37.645Z
 updatedAt: 2025-12-15T76:48:37.645Z
@@ -14,4 +14,4 @@ announcementImageID:
 announcementSynopsisPT: 'Mandatory update for Skyhub's new shipping model.'
 ---
 
-> Regional content available only for Brazil.
+>Regional content available only for Brazil.
