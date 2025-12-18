@@ -1,5 +1,5 @@
 ---
-title: 'Navegación Data Pipeline'
+title: "Navegación Data Pipeline"
 id: 4X4hK0zdIHN0Xn5x2MLYYd
 status: PUBLISHED
 createdAt: 2024-02-02T17:48:16.639Z
@@ -19,117 +19,117 @@ Un conjunto de datos de navegación contiene el conjunto de acciones de navegaci
 
 ## Características de los datos
 
-| Característica | Descripción |
-| --- | --- |
-| Fuente de datos | Los datos de este conjunto provienen de un script que se ejecuta en el frontend de la tienda y registra la información de la sesión del usuario y su actividad. |
-| Disponibilidad | Esta métrica solo está disponible a través del Data Pipeline. |
-| Historial | Debido al volumen significativo de este Modelo de Datos, solo podemos enviar pipelines incrementales, no datos históricos. Esto significa que una vez que adquiera el producto, comenzaremos a entregar sus datos desde ese momento en adelante. A diferencia de otros Modelos de Datos, no podemos incluir datos históricos en la carga inicial. |
-| Intervalo mínimo de actualización | Una hora. |
+| Característica                    | Descripción                                                                                                                                                                                                                                                                                                                                       |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Fuente de datos                   | Los datos de este conjunto provienen de un script que se ejecuta en el frontend de la tienda y registra la información de la sesión del usuario y su actividad.                                                                                                                                                                                   |
+| Disponibilidad                    | Esta métrica solo está disponible a través del Data Pipeline.                                                                                                                                                                                                                                                                                     |
+| Historial                         | Debido al volumen significativo de este Modelo de Datos, solo podemos enviar pipelines incrementales, no datos históricos. Esto significa que una vez que adquiera el producto, comenzaremos a entregar sus datos desde ese momento en adelante. A diferencia de otros Modelos de Datos, no podemos incluir datos históricos en la carga inicial. |
+| Intervalo mínimo de actualización | Una hora.                                                                                                                                                                                                                                                                                                                                         |
 
 ## Tabla: page_views
 
 Los campos de la tabla se describen a continuación:
 
-| Nombre de columna | Tipo de columna | Descripción de columna |
-| --- | --- | --- |
-| mac_id | string | ID único (UUID) para identificar usuarios recurrentes. Dura 1 año y se actualiza mientras el usuario cambia de páginas. |
-| session_id | string | ID único de sesión, que dura 30 minutos y se actualiza mientras el usuario cambia de páginas. |
-| account_name | string | Cuenta VTEX de la tienda que está generando esta sesión. |
-| url | string | URL completa de la visualización de página. |
-| ref | string | URL de la página que refirió al comprador a esta página. |
-| workspace | string | Workspace que el usuario está visitando (ej. master). Relevante para AB Testing en la Plataforma IO. |
-| checkout_type | string | Esta columna indica el tipo de checkout utilizado por esa tienda respectiva en ese tipo de solicitud. |
-| storefront | string | El entorno de VTEX utilizado para renderizar la página. Actualmente, tenemos tres plataformas posibles: `portal`, `store_framework` y `fast_store`. |
-| is_new_user | boolean | Especifica si esta es la primera visualización de página del comprador en esta tienda. |
-| is_first_event | boolean | Especifica si esta es la primera visualización de página del comprador en su sesión actual. |
-| user_agent | string | Cadena user-agent extraída del navegador del comprador. |
-| event_time | timestamp | Marca de tiempo cuando este evento fue ingerido (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX). |
+| Nombre de columna | Tipo de columna | Descripción de columna                                                                                                                              |
+| ----------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| mac_id            | string          | ID único (UUID) para identificar usuarios recurrentes. Dura 1 año y se actualiza mientras el usuario cambia de páginas.                             |
+| session_id        | string          | ID único de sesión, que dura 30 minutos y se actualiza mientras el usuario cambia de páginas.                                                       |
+| account_name      | string          | Cuenta VTEX de la tienda que está generando esta sesión.                                                                                            |
+| url               | string          | URL completa de la visualización de página.                                                                                                         |
+| ref               | string          | URL de la página que refirió al comprador a esta página.                                                                                            |
+| workspace         | string          | Workspace que el usuario está visitando (ej. master). Relevante para AB Testing en la Plataforma IO.                                                |
+| checkout_type     | string          | Esta columna indica el tipo de checkout utilizado por esa tienda respectiva en ese tipo de solicitud.                                               |
+| storefront        | string          | El entorno de VTEX utilizado para renderizar la página. Actualmente, tenemos tres plataformas posibles: `portal`, `store_framework` y `fast_store`. |
+| is_new_user       | boolean         | Especifica si esta es la primera visualización de página del comprador en esta tienda.                                                              |
+| is_first_event    | boolean         | Especifica si esta es la primera visualización de página del comprador en su sesión actual.                                                         |
+| user_agent        | string          | Cadena user-agent extraída del navegador del comprador.                                                                                             |
+| event_time        | timestamp       | Marca de tiempo cuando este evento fue ingerido (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX).                    |
 
 ## Tabla: session_order
 
 Los campos de la tabla se describen a continuación:
 
-| Nombre de columna | Tipo de columna | Descripción de columna |
-| --- | --- | --- |
-| session_id | string | ID único de sesión, que dura 30 minutos y se actualiza mientras el usuario cambia de páginas. |
-| account_name | string | Cuenta VTEX de la tienda que está generando esta sesión. |
-| order_group | string | Grupo de pedido al que pertenece este pedido (que también se puede encontrar en el Modelo de Datos de Pedidos, para unir datos de Navegación con datos de Pedidos). |
-| record_created_at | timestamp | Cuando este registro fue creado (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX). |
-| record_updated_at | timestamp | Cuando este registro fue actualizado (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX). |
-| batch_id | timestamp | Identificador usado cuando los datos se cargan en la tabla para control de calidad de la ingesta de datos. (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX). |
+| Nombre de columna | Tipo de columna | Descripción de columna                                                                                                                                                                      |
+| ----------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| session_id        | string          | ID único de sesión, que dura 30 minutos y se actualiza mientras el usuario cambia de páginas.                                                                                               |
+| account_name      | string          | Cuenta VTEX de la tienda que está generando esta sesión.                                                                                                                                    |
+| order_group       | string          | Grupo de pedido al que pertenece este pedido (que también se puede encontrar en el Modelo de Datos de Pedidos, para unir datos de Navegación con datos de Pedidos).                         |
+| record_created_at | timestamp       | Cuando este registro fue creado (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX).                                                                            |
+| record_updated_at | timestamp       | Cuando este registro fue actualizado (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX).                                                                       |
+| batch_id          | timestamp       | Identificador usado cuando los datos se cargan en la tabla para control de calidad de la ingesta de datos. (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX). |
 
 ## Tabla: session_user_agent
 
 Los campos de la tabla se describen a continuación:
 
-| Nombre de columna | Tipo de columna | Descripción de columna |
-| --- | --- | --- |
-| account_name | string | Cuenta VTEX de la tienda que está generando esta sesión. |
-| session_id | string | ID único de sesión, que dura 30 minutos y se actualiza mientras el usuario cambia de páginas. |
-| browser_family | string | Familia del navegador, extraída del user_agent. |
-| browser_version | string | Versión del navegador, extraída del user_agent. |
-| operating_system_family | string | Familia del sistema operativo, extraída del user_agent. |
-| operating_system_version | string | Versión del sistema operativo, extraída del user_agent. |
-| device_family | string | Familia del dispositivo, extraída del user_agent. |
-| device_brand | string | Marca del dispositivo, extraída del user_agent. |
-| device_model | string | Modelo del dispositivo, extraído del user_agent. |
-| device_type | string | Tipo de dispositivo, extraído del user_agent. |
-| record_created_at | timestamp | Cuando este registro fue creado (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX). |
-| record_updated_at | timestamp | Cuando este registro fue actualizado (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX). |
-| batch_id | timestamp | Identificador usado cuando los datos se cargan en la tabla para control de calidad de la ingesta de datos. (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX). |
+| Nombre de columna        | Tipo de columna | Descripción de columna                                                                                                                                                                      |
+| ------------------------ | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| account_name             | string          | Cuenta VTEX de la tienda que está generando esta sesión.                                                                                                                                    |
+| session_id               | string          | ID único de sesión, que dura 30 minutos y se actualiza mientras el usuario cambia de páginas.                                                                                               |
+| browser_family           | string          | Familia del navegador, extraída del user_agent.                                                                                                                                             |
+| browser_version          | string          | Versión del navegador, extraída del user_agent.                                                                                                                                             |
+| operating_system_family  | string          | Familia del sistema operativo, extraída del user_agent.                                                                                                                                     |
+| operating_system_version | string          | Versión del sistema operativo, extraída del user_agent.                                                                                                                                     |
+| device_family            | string          | Familia del dispositivo, extraída del user_agent.                                                                                                                                           |
+| device_brand             | string          | Marca del dispositivo, extraída del user_agent.                                                                                                                                             |
+| device_model             | string          | Modelo del dispositivo, extraído del user_agent.                                                                                                                                            |
+| device_type              | string          | Tipo de dispositivo, extraído del user_agent.                                                                                                                                               |
+| record_created_at        | timestamp       | Cuando este registro fue creado (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX).                                                                            |
+| record_updated_at        | timestamp       | Cuando este registro fue actualizado (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX).                                                                       |
+| batch_id                 | timestamp       | Identificador usado cuando los datos se cargan en la tabla para control de calidad de la ingesta de datos. (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX). |
 
 ## Tabla: url
 
 Los campos de la tabla se describen a continuación:
 
-| Nombre de columna | Tipo de columna | Descripción de columna |
-| --- | --- | --- |
-| account_name | string | Cuenta VTEX de la tienda que está generando esta sesión. |
-| url | string | URL completa de la visualización de página. |
-| request_type | string | El tipo de página que el usuario está visualizando. Puede ser uno de los siguientes:<br><b>- homeView</b>: ```<domain>/```<br><b>- productView</b>:```<domain>/<product-name>/p```<br><b>- checkout</b>:```<domain>/checkout#/checkout```<br><b>- cart</b>: ```<domain>/checkout#/cart```<br><b>- email</b>: ```<domain>/checkout#/email```<br><b>- login</b>: ```<domain>/login?returnUrl=<checkout>```<br><b>- profile</b>: ```<domain>/checkout#/profile```<br><b>- shipping</b>: ```<domain>/checkout#/shipping```<br><b>- payment</b>:```<domain>/checkout#/payment```<br><b>- orderPlaced</b>:```<domain>/checkout#/orderPlaced``` <br><b>- otherView</b>: ```<domain>/<other-path>```|
-| product_id | bigint | ID del producto mostrado en la página, usado para unir con el Modelo de Datos del Catálogo. Solo presente si request_type es productView. |
-| product_name | string | Nombre del producto mostrado en la página, usado para unir con el Modelo de Datos del Catálogo. Solo presente si request_type es productView. |
-| category_id | bigint | ID de la categoría mostrada en la página, usado para unir con el Modelo de Datos del Catálogo. Solo presente si request_type es categoryView. |
-| category_name | string | Nombre de la categoría mostrada en la página, usado para unir con el Modelo de Datos del Catálogo. Solo presente si request_type es categoryView. |
-| order_group | string | Grupo de pedido al que pertenece este pedido (que también se puede encontrar en el Modelo de Datos de Pedidos, para unir datos de Navegación con datos de Pedidos). |
-| traffic_type | string | Establece `Paid` u `Organic` según el patrón de la URL. |
-| url_utm_medium | string | UTM Medium, extraído de la url. |
-| url_utm_source | string | UTM Source, extraído de la url. |
-| url_utm_campaign | string | UTM Campaign, extraído de la url. |
-| url_utm_content | string | UTM Content, extraído de la url. |
-| url_utm_term | string | UTM Term, extraído de la url. |
-| url_gclid_found | boolean | Verdadero si se encontró un código gclid (ID de Google Ads) en la url. |
-| url_fbcid_found | boolean | Verdadero si se encontró un código fbclid (ID de Facebook Ads) en la url. |
-| record_created_at | timestamp | Cuando este registro fue creado (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX). |
-| record_updated_at | timestamp | Cuando este registro fue actualizado (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX). |
-| batch_id | timestamp | Identificador usado cuando los datos se cargan en la tabla para control de calidad de la ingesta de datos. (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX). |
+| Nombre de columna | Tipo de columna | Descripción de columna                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ----------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| account_name      | string          | Cuenta VTEX de la tienda que está generando esta sesión.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| url               | string          | URL completa de la visualización de página.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| request_type      | string          | El tipo de página que el usuario está visualizando. Puede ser uno de los siguientes:<br><b>- homeView</b>: `<domain>/`<br><b>- productView</b>:`<domain>/<product-name>/p`<br><b>- checkout</b>:`<domain>/checkout#/checkout`<br><b>- cart</b>: `<domain>/checkout#/cart`<br><b>- email</b>: `<domain>/checkout#/email`<br><b>- login</b>: `<domain>/login?returnUrl=<checkout>`<br><b>- profile</b>: `<domain>/checkout#/profile`<br><b>- shipping</b>: `<domain>/checkout#/shipping`<br><b>- payment</b>:`<domain>/checkout#/payment`<br><b>- orderPlaced</b>:`<domain>/checkout#/orderPlaced` <br><b>- otherView</b>: `<domain>/<other-path>` |
+| product_id        | bigint          | ID del producto mostrado en la página, usado para unir con el Modelo de Datos del Catálogo. Solo presente si request_type es productView.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| product_name      | string          | Nombre del producto mostrado en la página, usado para unir con el Modelo de Datos del Catálogo. Solo presente si request_type es productView.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| category_id       | bigint          | ID de la categoría mostrada en la página, usado para unir con el Modelo de Datos del Catálogo. Solo presente si request_type es categoryView.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| category_name     | string          | Nombre de la categoría mostrada en la página, usado para unir con el Modelo de Datos del Catálogo. Solo presente si request_type es categoryView.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| order_group       | string          | Grupo de pedido al que pertenece este pedido (que también se puede encontrar en el Modelo de Datos de Pedidos, para unir datos de Navegación con datos de Pedidos).                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| traffic_type      | string          | Establece `Paid` u `Organic` según el patrón de la URL.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| url_utm_medium    | string          | UTM Medium, extraído de la url.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| url_utm_source    | string          | UTM Source, extraído de la url.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| url_utm_campaign  | string          | UTM Campaign, extraído de la url.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| url_utm_content   | string          | UTM Content, extraído de la url.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| url_utm_term      | string          | UTM Term, extraído de la url.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| url_gclid_found   | boolean         | Verdadero si se encontró un código gclid (ID de Google Ads) en la url.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| url_fbcid_found   | boolean         | Verdadero si se encontró un código fbclid (ID de Facebook Ads) en la url.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| record_created_at | timestamp       | Cuando este registro fue creado (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| record_updated_at | timestamp       | Cuando este registro fue actualizado (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| batch_id          | timestamp       | Identificador usado cuando los datos se cargan en la tabla para control de calidad de la ingesta de datos. (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX).                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 ## Tabla: web_vitals
 
 Los campos de la tabla se describen a continuación:
 
-| Nombre de columna | Tipo de columna | Descripción de columna |
-| --- | --- | --- |
-| mac_id | string | ID único (UUID) para identificar usuarios recurrentes. Dura 1 año y se actualiza mientras el usuario cambia de páginas. |
-| session_id | string | ID único de sesión, que dura 30 minutos y se actualiza mientras el usuario cambia de páginas. |
-| metric_id | string | ID único para este evento de core web vital. |
-| account_name | string | Cuenta VTEX de la tienda que está generando esta sesión. |
-| url | string | URL completa de la visualización de página. |
-| ref | string | URL de la página que refirió al comprador a esta página. |
-| workspace | string | Workspace que el usuario está visitando (ej. master). Relevante para AB Testing en la Plataforma IO. |
-| checkout_type | string | Esta columna indica el tipo de checkout utilizado por esa tienda respectiva en ese tipo de solicitud. |
-| is_new_user | boolean | Especifica si esta es la primera visualización de página del comprador en esta tienda. |
-| is_first_event | boolean | Especifica si esta es la primera visualización de página del comprador en su sesión actual. |
-| navigation_type | string | Tipo de navegación dado por este evento. Este campo acepta las siguientes opciones: `navigate`, `reload`, `back-forward`, `back-forward-cache`, `prerender`, `restore`. |
-| ttfb_value | float | Time to First Byte (TTFB): Mide cuánto tiempo espera el navegador antes de recibir el primer byte de datos del servidor. |
-| cls_value | float | Cumulative Layout Shift (CLS): Evalúa la estabilidad visual midiendo cambios inesperados en el diseño. |
-| inp_value | float | Interaction to Next Paint (INP): Mide qué tan rápido responde la interfaz a cualquier interacción del usuario, capturando la latencia hasta la próxima actualización visual. |
-| lcp_value | float | Largest Contentful Paint (LCP): Mide el tiempo de carga del elemento visible más grande. |
-| event_time | timestamp | Marca de tiempo cuando este evento fue ingerido (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX). |
-| client_time | timestamp | Marca de tiempo del evento desde el dispositivo del comprador (que puede ser inconsistente, ya que los compradores pueden configurar sus propios valores de fecha y hora). |
-| record_created_at | timestamp | Cuando este registro fue creado (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX). |
-| record_updated_at | timestamp | Cuando este registro fue actualizado (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX). |
-| batch_id | timestamp | Identificador usado cuando los datos se cargan en la tabla para control de calidad de la ingesta de datos. (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX). |
+| Nombre de columna | Tipo de columna | Descripción de columna                                                                                                                                                                      |
+| ----------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| mac_id            | string          | ID único (UUID) para identificar usuarios recurrentes. Dura 1 año y se actualiza mientras el usuario cambia de páginas.                                                                     |
+| session_id        | string          | ID único de sesión, que dura 30 minutos y se actualiza mientras el usuario cambia de páginas.                                                                                               |
+| metric_id         | string          | ID único para este evento de core web vital.                                                                                                                                                |
+| account_name      | string          | Cuenta VTEX de la tienda que está generando esta sesión.                                                                                                                                    |
+| url               | string          | URL completa de la visualización de página.                                                                                                                                                 |
+| ref               | string          | URL de la página que refirió al comprador a esta página.                                                                                                                                    |
+| workspace         | string          | Workspace que el usuario está visitando (ej. master). Relevante para AB Testing en la Plataforma IO.                                                                                        |
+| checkout_type     | string          | Esta columna indica el tipo de checkout utilizado por esa tienda respectiva en ese tipo de solicitud.                                                                                       |
+| is_new_user       | boolean         | Especifica si esta es la primera visualización de página del comprador en esta tienda.                                                                                                      |
+| is_first_event    | boolean         | Especifica si esta es la primera visualización de página del comprador en su sesión actual.                                                                                                 |
+| navigation_type   | string          | Tipo de navegación dado por este evento. Este campo acepta las siguientes opciones: `navigate`, `reload`, `back-forward`, `back-forward-cache`, `prerender`, `restore`.                     |
+| ttfb_value        | float           | Time to First Byte (TTFB): Mide cuánto tiempo espera el navegador antes de recibir el primer byte de datos del servidor.                                                                    |
+| cls_value         | float           | Cumulative Layout Shift (CLS): Evalúa la estabilidad visual midiendo cambios inesperados en el diseño.                                                                                      |
+| inp_value         | float           | Interaction to Next Paint (INP): Mide qué tan rápido responde la interfaz a cualquier interacción del usuario, capturando la latencia hasta la próxima actualización visual.                |
+| lcp_value         | float           | Largest Contentful Paint (LCP): Mide el tiempo de carga del elemento visible más grande.                                                                                                    |
+| event_time        | timestamp       | Marca de tiempo cuando este evento fue ingerido (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX).                                                            |
+| client_time       | timestamp       | Marca de tiempo del evento desde el dispositivo del comprador (que puede ser inconsistente, ya que los compradores pueden configurar sus propios valores de fecha y hora).                  |
+| record_created_at | timestamp       | Cuando este registro fue creado (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX).                                                                            |
+| record_updated_at | timestamp       | Cuando este registro fue actualizado (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX).                                                                       |
+| batch_id          | timestamp       | Identificador usado cuando los datos se cargan en la tabla para control de calidad de la ingesta de datos. (Usado exclusivamente para propósitos de evaluación de calidad interna de VTEX). |
 
 ## Análisis con navegación
 
