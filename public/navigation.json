@@ -950,6 +950,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Skyhub: New shipping model ",
+                    "es": "Skyhub: nuevo modelo de cálculo de envío ",
+                    "pt": "Skyhub: novo modelo de simulação de frete "
+                  },
+                  "slug": {
+                    "en": "2025-12-15-skyhub-new-shipping-model",
+                    "es": "2025-12-15-skyhub-nuevo-modelo-de-envio",
+                    "pt": "2025-12-15-skyhub-novo-modelo-de-calculo-de-frete"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Indeva by VTEX documentation now in the VTEX Help Center",
                     "es": "La documentación de Indeva by VTEX migra al Help Center",
                     "pt": "Indeva by VTEX documentation now in the VTEX Help Center"
@@ -1004,37 +1019,6 @@
                     "pt": "2025-12-05-documentacao-da-indeva-by-vtex-migrada-para-o-help-center-vtex",
                     "en": "",
                     "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Diciembre",
-                "es": "Diciembre",
-                "pt": "Dezembro"
-              },
-              "slug": {
-                "en": "diciembre",
-                "es": "diciembre",
-                "pt": "dezembro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "Skyhub: nuevo modelo de cálculo de envío ",
-                    "pt": "Skyhub: novo modelo de simulação de frete ",
-                    "en": "Skyhub: nuevo modelo de cálculo de envío "
-                  },
-                  "slug": {
-                    "es": "2025-12-15-skyhub-nuevo-modelo-de-envio",
-                    "pt": "2025-12-15-skyhub-novo-modelo-de-calculo-de-frete",
-                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -9448,7 +9432,7 @@
           "children": [
             {
               "name": {
-                "en": "VTEX store overview",
+                "en": "VTEX Store - Overview",
                 "es": "Serie de la tienda VTEX",
                 "pt": "Trilha da loja VTEX"
               },
@@ -12704,8 +12688,8 @@
                 {
                   "name": {
                     "en": "1. Intelligent Search",
-                    "es": "1. Intelligent Search",
-                    "pt": "1. Intelligent Search"
+                    "es": "1. Intelligent Search - Información general",
+                    "pt": "1. Intelligent Search - Visão geral"
                   },
                   "slug": {
                     "en": "overview-intelligent-search",
@@ -12993,9 +12977,9 @@
                 },
                 {
                   "name": {
-                    "en": "2. Amazon Integration overview",
+                    "en": "2. Amazon integration - Overview",
                     "es": "2. Amazon integración - Información general",
-                    "pt": "2. Visão geral da integração da Amazon"
+                    "pt": "2. Integração da Amazon - Visão geral"
                   },
                   "slug": {
                     "en": "amazon-integration-overview",
@@ -13658,9 +13642,9 @@
                 },
                 {
                   "name": {
-                    "en": "2. Integration with Facebook Business Extension overview",
+                    "en": "2. Integration with Facebook Business Extension - Overview",
                     "es": "2. Integración con Facebook Business Extension - Información general",
-                    "pt": "2. Visão geral da integração com o Facebook Business Extension"
+                    "pt": "2. Integração com o Facebook Business Extension - Visão geral"
                   },
                   "slug": {
                     "en": "integration-with-facebook-business-extension-overview",
@@ -13734,9 +13718,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Integration overview",
+                    "en": "1. B2W integration - Overview",
                     "es": "1. Integración B2W - Información general",
-                    "pt": "1. Visão geral da integração"
+                    "pt": "1. Integração B2W - Visão geral"
                   },
                   "slug": {
                     "en": "integration-overview-b2w",
@@ -14097,9 +14081,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Rappi Integration overview",
+                    "en": "1. Rappi integration - Overview",
                     "es": "1. Rappi integración - Información general",
-                    "pt": "1. Visão geral da integração com a Rappi"
+                    "pt": "1. Integração com a Rappi - Visão geral"
                   },
                   "slug": {
                     "en": "rappi-integration-overview",
@@ -14324,9 +14308,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Integration Overview",
+                    "en": "1. Shopee integration - Overview",
                     "es": "1. Resumen de integración",
-                    "pt": "1. Visão geral da integração"
+                    "pt": "1. Integração com a Shopee - Visão geral"
                   },
                   "slug": {
                     "en": "integration-overview-shopee",
@@ -14885,9 +14869,9 @@
                 },
                 {
                   "name": {
-                    "en": "2. Integration overview",
+                    "en": "2. Facebook integration - Overview",
                     "es": "2. Marketplace integración - Información general",
-                    "pt": "2. Visão geral da integração"
+                    "pt": "2. Integração com o Facebook - Visão geral"
                   },
                   "slug": {
                     "en": "integration-overview",
@@ -15052,7 +15036,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Livelo Integration overview",
+                    "en": "1. Livelo integration - Overview",
                     "es": "1. Livelo integración - Información general",
                     "pt": "1. Visão geral da integração com a Livelo"
                   },
@@ -15143,9 +15127,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Posthaus Integration Overview",
+                    "en": "1. Posthaus integration - Overview",
                     "es": "1. Descripción general de la integración de Posthaus",
-                    "pt": "1. Visão geral da integração com a Posthaus"
+                    "pt": "1. Integração com a Posthaus - Visão geral"
                   },
                   "slug": {
                     "en": "posthaus-integration-overview",
@@ -15770,7 +15754,7 @@
           "children": [
             {
               "name": {
-                "en": "Admin overview",
+                "en": "Admin - Overview",
                 "es": "Admin - Información general",
                 "pt": "Visão do geral do Admin"
               },
@@ -15814,7 +15798,7 @@
                 },
                 {
                   "name": {
-                    "en": "Marketplace Overview",
+                    "en": "Marketplace - Overview",
                     "es": "Marketplace - Información general",
                     "pt": "Visão Geral Marketplace"
                   },
@@ -15952,9 +15936,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Account settings overview",
+                    "en": "Account settings - Overview",
                     "es": "Configuraciones de la cuenta - Información general",
-                    "pt": "Visão geral configurações da conta"
+                    "pt": "Configurações da conta - Visão geral"
                   },
                   "slug": {
                     "en": "account-settings-overview",
@@ -16345,7 +16329,7 @@
                 },
                 {
                   "name": {
-                    "en": "User settings Overview",
+                    "en": "User settings - Overview",
                     "es": "Configuraciones de Usuário - Información general",
                     "pt": "Visão Geral Configurações de Usuário"
                   },
@@ -16440,9 +16424,9 @@
             },
             {
               "name": {
-                "en": "Apps Overview",
+                "en": "Apps - Overview",
                 "es": "Visión de conjunto de Apps",
-                "pt": "Visão geral de Apps"
+                "pt": "Apps - Visão geral"
               },
               "slug": {
                 "en": "apps-overview-subcategory",
@@ -16454,7 +16438,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "Apps Overview",
+                    "en": "Apps - Overview",
                     "es": "Vision General Apps",
                     "pt": "Visão Geral Apps"
                   },
@@ -16684,9 +16668,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Personal Shopper Overview",
+                    "en": "Personal Shopper - Overview",
                     "es": "Personal Shopper - Información general",
-                    "pt": "Visão geral do Personal Shopper"
+                    "pt": "Personal Shopper - Visão geral"
                   },
                   "slug": {
                     "en": "personal-shopper-overview",
@@ -16977,9 +16961,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Overview of B2B Orders History",
+                    "en": "B2B Orders History - Overview",
                     "es": "B2B Orders History - Información general",
-                    "pt": "Visão Geral do Histórico de Pedidos B2B"
+                    "pt": "Histórico de Pedidos B2B - Visão Geral"
                   },
                   "slug": {
                     "en": "overview-of-b2b-orders-history",
@@ -17160,9 +17144,9 @@
                 },
                 {
                   "name": {
-                    "en": "B2B trade policies overview",
+                    "en": "B2B trade policies - Overview",
                     "es": "Políticas comerciales en B2B - Información general",
-                    "pt": "Visão geral da política comercial no B2B"
+                    "pt": "Política comercial no B2B - Visão geral"
                   },
                   "slug": {
                     "en": "b2b-trade-policies-overview",
@@ -17252,9 +17236,9 @@
             },
             {
               "name": {
-                "en": "Overview",
+                "en": "B2B - Overview",
                 "es": "B2B - Información general",
-                "pt": "Visão geral"
+                "pt": "B2B - Visão geral"
               },
               "slug": {
                 "en": "overview-subcategory",
@@ -17711,6 +17695,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Releases - Overview",
+                    "es": "Introducción a Releases",
+                    "pt": "Visão Geral Lançamentos"
+                  },
+                  "slug": {
+                    "en": "releases-overview",
+                    "es": "introduccion-a-releases",
+                    "pt": "visao-geral-lancamentos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Releases Module (Beta)",
                     "es": "Módulo de Lanzamientos (Beta)",
                     "pt": "Módulo Lançamentos (Beta)"
@@ -17719,21 +17718,6 @@
                     "en": "releases-module-beta",
                     "es": "modulo-de-lanzamientos-beta",
                     "pt": "modulo-lancamentos-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Releases Overview",
-                    "es": "Introducción a Releases",
-                    "pt": "Visão Geral Lançamentos"
-                  },
-                  "slug": {
-                    "en": "releases-overview",
-                    "es": "introduccion-a-releases",
-                    "pt": "visao-geral-lancamentos"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18137,9 +18121,9 @@
           "children": [
             {
               "name": {
-                "en": "Billing Overview",
+                "en": "Billing - Overview",
                 "es": "Facturación - Información general",
-                "pt": "Faturas: visão geral"
+                "pt": "Faturas - Visão geral"
               },
               "slug": {
                 "en": "billing-overview-subcategory",
@@ -18151,7 +18135,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "Billing Overview",
+                    "en": "Billing - Overview",
                     "es": "Facturación - Información general",
                     "pt": "Visão Geral Faturas"
                   },
@@ -18639,9 +18623,9 @@
             },
             {
               "name": {
-                "en": "Catalog: Overview",
+                "en": "Catalog - Overview",
                 "es": "Catálogo - Información general",
-                "pt": "Catálogo: Visão Geral"
+                "pt": "Catálogo - Visão geral"
               },
               "slug": {
                 "en": "catalog-overview-subcategory",
@@ -18653,9 +18637,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Catalog: Overview",
+                    "en": "Catalog - Overview",
                     "es": "Catálogo - Información general",
-                    "pt": "Catálogo: visão geral"
+                    "pt": "Catálogo - Visão geral"
                   },
                   "slug": {
                     "en": "catalog-overview",
@@ -19806,9 +19790,9 @@
           "children": [
             {
               "name": {
-                "en": "Checkout overview",
+                "en": "Checkout - Overview",
                 "es": "Visión de conjunto de Checkout",
-                "pt": "Visão geral do Checkout"
+                "pt": "Checkout - Visão geral"
               },
               "slug": {
                 "en": "checkout-overview-subcategory",
@@ -20891,7 +20875,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "Dashboards Overview",
+                    "en": "Dashboards - Overview",
                     "es": "Vista General Dashboards",
                     "pt": "Visão Geral Dashboards"
                   },
@@ -20921,7 +20905,7 @@
                 },
                 {
                   "name": {
-                    "en": "Store Overview",
+                    "en": "Store - Overview",
                     "es": "Vista General de la Tienda",
                     "pt": "Visão Geral da Loja"
                   },
@@ -21746,7 +21730,7 @@
             },
             {
               "name": {
-                "en": "Overview Indeva",
+                "en": "Indeva - Overview",
                 "es": "Indeva - Información general",
                 "pt": "Visão Geral Indeva"
               },
@@ -21760,7 +21744,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "View performance data in Indeva Overview",
+                    "en": "View performance data in Indeva - Overview",
                     "es": "Visualizar datos de desempeño en la información general de Indeva",
                     "pt": "Visualizar dados de desempenho na Visão Geral do Indeva"
                   },
@@ -23517,9 +23501,9 @@
             },
             {
               "name": {
-                "en": "Integrations overview",
+                "en": "Integrations - Overview",
                 "es": "Visión de conjunto de Integraciones",
-                "pt": "Visão geral de Integrações"
+                "pt": "Integrações - Visão geral"
               },
               "slug": {
                 "en": "integrations-overview-subcategory",
@@ -24471,7 +24455,7 @@
             },
             {
               "name": {
-                "en": "Intelligent Search Overview",
+                "en": "Intelligent Search - Overview",
                 "es": "Intelligent Search - Información general",
                 "pt": "Intelligent Search - Visão geral"
               },
@@ -25477,9 +25461,9 @@
           "children": [
             {
               "name": {
-                "en": "Omnichannel overview",
+                "en": "Omnichannel - Overview",
                 "es": "Omnichannel - Información general",
-                "pt": "Visão geral de Omnichannel"
+                "pt": "Omnichannel - Visão geral"
               },
               "slug": {
                 "en": "omnichannel-overview-subcategory",
@@ -26568,9 +26552,9 @@
             },
             {
               "name": {
-                "en": "Orders overview",
+                "en": "Orders - Overview",
                 "es": "Visión de conjunto de Pedidos",
-                "pt": "Visão geral de pedidos"
+                "pt": "Pedidos - Visão geral"
               },
               "slug": {
                 "en": "orders-overview-subcategory",
@@ -26702,7 +26686,7 @@
                 },
                 {
                   "name": {
-                    "en": "Orders Overview",
+                    "en": "Orders - Overview",
                     "es": "Pedidos - Información general",
                     "pt": "Visão Geral Pedidos"
                   },
@@ -30238,9 +30222,9 @@
             },
             {
               "name": {
-                "en": "Payments overview",
+                "en": "Payments - Overview",
                 "es": "Visión de conjunto de Pagos",
-                "pt": "Visão geral de Pagamentos"
+                "pt": "Pagamentos - Visão geral"
               },
               "slug": {
                 "en": "payments-overview-subcategory",
@@ -32049,7 +32033,7 @@
                 },
                 {
                   "name": {
-                    "en": "Promotions Overview",
+                    "en": "Promotions - Overview",
                     "es": "Promociones - Información general",
                     "pt": "Visão Geral Promoções"
                   },
@@ -32156,9 +32140,9 @@
             },
             {
               "name": {
-                "en": "Rates & Benefits overview",
+                "en": "Rates & Benefits - Overview",
                 "es": "Visión de conjunto de Tasas y Promociones",
-                "pt": "Visão geral de Taxas & Promoções"
+                "pt": "Taxas & Promoções - Visão geral"
               },
               "slug": {
                 "en": "rates-and-benefits-overview-subcategory",
@@ -32170,9 +32154,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Overview:  Campaign Audiences, promotions, taxes and coupons",
+                    "en": "Campaign Audiences, promotions, taxes and coupons - Overview",
                     "es": "Audiencia de Campañas, promociones, impuestos y cupones - Información general",
-                    "pt": "Visão geral: Audiência de campanhas, promoções, taxas e cupons"
+                    "pt": "Visão geral - Audiência de campanhas, promoções, taxas e cupons"
                   },
                   "slug": {
                     "en": "overview-pricing-module",
@@ -33053,9 +33037,9 @@
             },
             {
               "name": {
-                "en": "Sellers Overview",
+                "en": "Sellers - Overview",
                 "es": "Visión de conjunto de Sellers",
-                "pt": "Visão geral de Sellers"
+                "pt": "Sellers - Visão geral"
               },
               "slug": {
                 "en": "sellers-overview-subcategory",
@@ -33540,9 +33524,9 @@
             },
             {
               "name": {
-                "en": "Logistics Overview",
+                "en": "Logistics - Overview",
                 "es": "Logística - Información general",
-                "pt": "Visão geral da logística"
+                "pt": "logística - Visão geral"
               },
               "slug": {
                 "en": "logistics-overview-subcategory",
@@ -33584,7 +33568,7 @@
                 },
                 {
                   "name": {
-                    "en": "Shipping Overview",
+                    "en": "Shipping - Overview",
                     "es": "Envio - Información general",
                     "pt": "Visão Geral Envio"
                   },
@@ -34419,7 +34403,7 @@
             },
             {
               "name": {
-                "en": "Store Settings Overview",
+                "en": "Store Settings - Overview",
                 "es": "Configuraciones de la Tienda - Información general",
                 "pt": "Visão Geral de Configurações da Loja"
               },
@@ -34448,7 +34432,7 @@
                 },
                 {
                   "name": {
-                    "en": "Store Settings Overview",
+                    "en": "Store Settings - Overview",
                     "es": "Configuraciones de la Tienda - Información general",
                     "pt": "Visão Geral Configurações da Loja"
                   },
@@ -35939,7 +35923,7 @@
                 },
                 {
                   "name": {
-                    "en": "Storefront Settings Overview",
+                    "en": "Storefront Settings - Overview",
                     "es": "Configuración de Storefront - Información general",
                     "pt": "Visão Geral Configurações de Storefront"
                   },
@@ -35971,7 +35955,7 @@
             },
             {
               "name": {
-                "en": "Storefront Overview",
+                "en": "Storefront - Overview",
                 "es": "Storefront - Información general",
                 "pt": "Visão Geral Storefront"
               },
@@ -35985,7 +35969,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "Storefront Overview",
+                    "en": "Storefront - Overview",
                     "es": "Storefront - Información general",
                     "pt": "Visão Geral Storefront"
                   },
@@ -36385,12 +36369,12 @@
             },
             {
               "name": {
-                "en": "Trade Policies' overview",
+                "en": "Trade Policies - Overview",
                 "es": "Visión de conjunto de Políticas Comerciales",
-                "pt": "Visão geral de Políticas Comerciais"
+                "pt": "Políticas Comerciais - Visão geral"
               },
               "slug": {
-                "en": "trade-policies'-overview-subcategory",
+                "en": "trade-policies-overview-subcategory",
                 "es": "vision-de-conjunto-de-politicas-comerciales-subcategoria",
                 "pt": "visão-geral-de-políticas-comerciais-subcategoria"
               },
@@ -36751,7 +36735,7 @@
             },
             {
               "name": {
-                "en": "Overview VTEX Tracking",
+                "en": "VTEX Tracking - Overview",
                 "es": "VTEX Tracking - Información general",
                 "pt": "Visão geral VTEX Tracking"
               },
@@ -36780,7 +36764,7 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX Tracking Overview",
+                    "en": "VTEX Tracking - Overview",
                     "es": "VTEX Tracking - Información general",
                     "pt": "Visão Geral VTEX Tracking"
                   },
@@ -37236,7 +37220,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "Agent Builder overview",
+                    "en": "Agent Builder - Overview",
                     "es": "Información general de Agent Builder",
                     "pt": "Visão geral Agent Builder"
                   },
@@ -38595,7 +38579,7 @@
             },
             {
               "name": {
-                "en": "Weni by VTEX overview",
+                "en": "Weni by VTEX - Overview",
                 "es": "Visión de conjunto de Weni by VTEX",
                 "pt": "Visão geral Weni by VTEX"
               },
