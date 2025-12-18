@@ -10,7 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: navigation
-legacySlug: navigation
+legacySlug: navigation-data-pipeline
 locale: en
 subcategoryId: oMrzcOMVbBpH0reeMFHFg
 ---
