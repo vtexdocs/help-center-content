@@ -161,7 +161,7 @@ VTEX cuenta con un [ protocolo de integración para servicios de tributación ex
 
 Para obtener más detalles sobre el protocolo, consulte la siguiente documentación:
 
-- [Información general del sistema](https://developers.vtex.com/vtex-rest-api/docs/tax-services-overview) 
+- [Tax Service - Información general](https://developers.vtex.com/vtex-rest-api/docs/tax-services-overview) 
 - [Funcionamiento del protocolo](https://developers.vtex.com/vtex-rest-api/docs/tax-services-specification) 
 - [Cómo implementar Tax Service](https://developers.vtex.com/vtex-rest-api/docs/tax-services-recipe) 
 - [Ejemplo de implementación](https://github.com/vtex-apps/tax-protocol-example)

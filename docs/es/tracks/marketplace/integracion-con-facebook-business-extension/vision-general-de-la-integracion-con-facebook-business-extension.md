@@ -1,5 +1,5 @@
 ---
-title: 'Información general de la integración con Facebook Business Extension'
+title: 'Integración con Facebook Business Extension - Información general'
 id: 2OdxzECQkND8gP3ohtTRDD
 status: PUBLISHED
 createdAt: 2021-09-30T14:44:39.701Z

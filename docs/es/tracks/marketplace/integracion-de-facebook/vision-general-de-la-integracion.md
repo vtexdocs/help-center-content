@@ -1,5 +1,5 @@
 ---
-title: 'Información general de la integración'
+title: 'Marketplace integración - Información general'
 id: 4THXfWqYHqMZGGk6zgrk7K
 status: PUBLISHED
 createdAt: 2021-02-08T18:40:40.661Z

@@ -1,5 +1,5 @@
 ---
-title: 'Información general de la Livelo integración'
+title: 'Livelo integración - Información general'
 id: 5rhGcaM0SedoK7lDMBkVFD
 status: PUBLISHED
 createdAt: 2023-08-10T22:18:36.772Z
