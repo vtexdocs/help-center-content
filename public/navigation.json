@@ -7511,24 +7511,9 @@
                 "pt": "Recebi uma Nota Fiscal e não sou cliente VTEX. Por quê?"
               },
               "slug": {
-                "en": "testi",
+                "en": "i-received-an-invoice-and-im-not-a-vtex-client",
                 "es": "recibi-una-factura-y-no-soy-cliente-vtex",
                 "pt": "recebi-uma-nota-fiscal-e-nao-sou-cliente-vtex-por-que"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "pt": "Recebi uma Nota Fiscal e não sou cliente VTEX. Por quê?",
-                "en": "Recebi uma Nota Fiscal e não sou cliente VTEX. Por quê?",
-                "es": "Recebi uma Nota Fiscal e não sou cliente VTEX. Por quê?"
-              },
-              "slug": {
-                "pt": "recebi-uma-nota-fiscal-e-nao-sou-cliente-vtex",
-                "en": "",
-                "es": ""
               },
               "origin": "",
               "type": "markdown",
