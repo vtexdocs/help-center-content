@@ -43,30 +43,6 @@ def file_exists(repo, ref, path):
     except Exception:
         return False
 
-def slug_exists_in_en_section_recursive(repo, ref, original_file_path, slug):
-    section = get_third_level_folder(original_file_path)  # e.g.: tutorials
-    if not section:
-        return False
-
-    try:
-        tree = repo.get_git_tree(ref, recursive=True).tree
-    except Exception:
-        return False
-
-    for item in tree:
-        if item.type != "blob":
-            continue
-
-        path = item.path
-        if not path.startswith(f"docs/en/{section}/"):
-            continue
-
-        if path.endswith(f"/{slug}.md") or path.endswith(f"/{slug}.mdx"):
-            return True
-
-    return False
-
-
 # Get changed Markdown files in the PR 
 changed_files = [f for f in pr.get_files() if (
     f.filename.endswith(('.md', '.mdx'))
@@ -74,6 +50,26 @@ changed_files = [f for f in pr.get_files() if (
 )]
 
 print(f"Found {len(changed_files)} markdown file{plural_list(changed_files)} in PR:")
+
+tree = repo.get_git_tree(pr.head.sha, recursive=True).tree
+
+en_section_slugs = {}
+for item in tree:
+    if item.type != "blob":
+        continue
+    path = item.path
+    if not path.startswith("docs/en/"):
+        continue
+    if not (path.endswith(".md") or path.endswith(".mdx")):
+        continue
+
+    parts = path.split("/")
+    if len(parts) < 4:
+        continue
+
+    section = parts[2]
+    slug = os.path.splitext(os.path.basename(path))[0]
+    en_section_slugs.setdefault(section, set()).add(slug)
 
 error_found = False
 frontmatters = {}
@@ -142,9 +138,8 @@ for f in changed_files:
                             error_found = True
                         continue
                 
-                    # Otherwise, check if the English file exists in docs/en/<third_level>/
-                    if not slug_exists_in_en_section_recursive(repo, pr.head.ref, f.filename, value):
-                        section = get_third_level_folder(f.filename)
+                    section = get_third_level_folder(f.filename)
+                    if not section or value not in en_section_slugs.get(section, set()):
                         field_errors.append({
                             "field": "slugEN",
                             "message": f"`{value}` was not found in `docs/en/{section}/`"
