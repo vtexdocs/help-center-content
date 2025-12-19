@@ -32,7 +32,7 @@ Para configurar Culqi, siga los pasos a continuación:
 - **Desactivado**: la captura se realiza solo cuando se factura el pedido. Si se opta por este comportamiento de captura, es importante estar atento al tiempo de facturación, ya que puede exceder el tiempo de captura acordado con el proveedor de pagos y provocar la cancelación de la transacción.
 
 8. En **Campos del Proveedor**, complete los campos **platform** según las instrucciones del proveedor.
-9. Haga clic en `Salvar`.
+9. Haga clic en `Guardar`.
 
 ## Configurar condición de pago
 
