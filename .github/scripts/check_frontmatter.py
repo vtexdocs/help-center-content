@@ -43,15 +43,28 @@ def file_exists(repo, ref, path):
     except Exception:
         return False
 
-def slug_exists_in_en_same_section(repo, ref, original_file_path, slug):
-    section = get_third_level_folder(original_file_path)  # e.g. announcements
+def slug_exists_in_en_section_recursive(repo, ref, original_file_path, slug):
+    section = get_third_level_folder(original_file_path)  # e.g.: tutorials
     if not section:
         return False
 
-    candidate_md = f"docs/en/{section}/{slug}.md"
-    candidate_mdx = f"docs/en/{section}/{slug}.mdx"
+    try:
+        tree = repo.get_git_tree(ref, recursive=True).tree
+    except Exception:
+        return False
 
-    return file_exists(repo, ref, candidate_md) or file_exists(repo, ref, candidate_mdx)
+    for item in tree:
+        if item.type != "blob":
+            continue
+
+        path = item.path
+        if not path.startswith(f"docs/en/{section}/"):
+            continue
+
+        if path.endswith(f"/{slug}.md") or path.endswith(f"/{slug}.mdx"):
+            return True
+
+    return False
 
 
 # Get changed Markdown files in the PR 
@@ -130,7 +143,7 @@ for f in changed_files:
                         continue
                 
                     # Otherwise, check if the English file exists in docs/en/<third_level>/
-                    if not slug_exists_in_en_same_section(repo, pr.head.ref, f.filename, value):
+                    if not slug_exists_in_en_section_recursive(repo, pr.head.ref, f.filename, value):
                         section = get_third_level_folder(f.filename)
                         field_errors.append({
                             "field": "slugEN",
