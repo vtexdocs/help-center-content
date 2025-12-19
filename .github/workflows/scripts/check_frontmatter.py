@@ -42,12 +42,24 @@ print(f"Found {len(changed_files)} markdown file{plural_list(changed_files)} in 
 error_found = False
 frontmatters = {}
 file_errors = {}  # filename -> list of error strings
+filename_regex = re.compile(r'^[a-z0-9\/\-\.]+$')
+
 for f in changed_files:
     print(f"- {f.filename}")
     content = repo.get_contents(f.filename, ref=pr.head.ref)
     text = content.decoded_content.decode('utf-8')
     generic_errors = []
     field_errors = []
+
+    if not filename_regex.match(f.filename):
+        file_errors[f.filename] = {
+            "generic": [
+                "Filename contains invalid characters. Use only lowercase letters (a-z), numbers (0-9) and hyphens (-). Accents and special characters are not allowed."
+            ],
+            "fields": [],
+        }
+        error_found = True
+        continue 
 
     # Extract frontmatter
     if text.startswith('---'):
@@ -79,22 +91,6 @@ for f in changed_files:
                 if key == 'title':
                     if not isinstance(value, str) or not value:
                         field_errors.append({"field": "title", "message": "'title' must be a non-empty string"})
-                        error_found = True
-                    continue
-                if key == 'excerpt':
-                    if not isinstance(value, str):
-                        field_errors.append({"field": "excerpt", "message": "'excerpt' must be a string"})
-                        error_found = True
-                    continue
-                if key == 'slug':
-                    if not (isinstance(value, str) and re.fullmatch(r'[a-z0-9\-]+', value)):
-                        field_errors.append({"field": "slug", "message": "'slug' must contain only lowercase letters, numbers, and hyphens"})
-                        error_found = True
-                    if value != f.filename.split('/')[-1].replace('.mdx', '').replace('.md', ''):
-                        field_errors.append({"field": "slug", "message": "'slug' must match the filename without extension"})
-                        error_found = True
-                    if "/announcements/" in f.filename and not date_regex.match(value):
-                        field_errors.append({"field": "slug", "message": "'slug' in announcements must start with date in format YYYY-MM-DD-"})
                         error_found = True
                     continue
                 if key == 'createdAt':
