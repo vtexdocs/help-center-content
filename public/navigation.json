@@ -61190,6 +61190,21 @@
             },
             {
               "name": {
+                "en": "Transaction gets cancelled after reverting from Authorized to Started",
+                "es": "La transacción se cancela tras pasar de Autorizada a Iniciada",
+                "pt": "A transação é cancelada após ser revertida de Autorizada para Iniciada"
+              },
+              "slug": {
+                "en": "transaction-gets-cancelled-after-reverting-from-authorized-to-started",
+                "es": "la-transaccion-se-cancela-tras-pasar-de-autorizada-a-iniciada",
+                "pt": "a-transacao-e-cancelada-apos-ser-revertida-de-autorizada-para-iniciada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction Not Loading - Blank Screen",
                 "es": "Transacción no cargada - Pantalla en blanco",
                 "pt": "A transação não está sendo carregada - tela em branco"
