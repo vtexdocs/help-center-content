@@ -102,24 +102,12 @@ for f in changed_files:
 
             print(fm_dict)
             frontmatters[f.filename] = fm_dict
-            # Regular expression for ISO 8601 date format (YYYY-MM-DDThh:mm:ss.sssZ)
-            iso8601_regex = re.compile(r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}Z$")
 
             # Validate formatting in present fields
             for key, value in fm_dict.items():
                 if key == 'title':
                     if not isinstance(value, str) or not value:
                         field_errors.append({"field": "title", "message": "'title' must be a non-empty string"})
-                        error_found = True
-                    continue
-                if key == 'createdAt':
-                    if not (isinstance(value, str) and iso8601_regex.match(value)):
-                        field_errors.append({"field": "createdAt", "message": "'createdAt' must be in ISO 8601 format (YYYY-MM-DDThh:mm:ss.sssZ)."})
-                        error_found = True
-                    continue
-                if key == 'updatedAt':
-                    if not (isinstance(value, str) and iso8601_regex.match(value)):
-                        field_errors.append({"field": "updatedAt", "message": "'updatedAt' must be in ISO 8601 format (YYYY-MM-DDThh:mm:ss.sssZ)."})
                         error_found = True
                     continue
                 if key == 'slugEN':
@@ -135,7 +123,7 @@ for f in changed_files:
                     section = get_third_level_folder(f.filename)
                     field_errors.append({
                         "field": "slugEN",
-                        "message": f"slugEN '{slug_value}' not found in docs/en/{section}/ as {slug_value}.md or {slug_value}.mdx."
+                        "message": f"`{slug_value}` was not found in `docs/en/{section}/`"
                     })
                     error_found = True
 
