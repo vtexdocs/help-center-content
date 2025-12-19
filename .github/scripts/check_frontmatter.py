@@ -31,6 +31,29 @@ pr = repo.get_pull(pr_number)
 def plural_list(list):
     return 's' if len(list) != 1 else ''
 
+def get_third_level_folder(path):
+    # docs/<locale>/<third_level>/...
+    parts = path.split('/')
+    return parts[2] if len(parts) > 2 else None
+
+def file_exists(repo, ref, path):
+    try:
+        repo.get_contents(path, ref=ref)
+        return True
+    except Exception:
+        return False
+
+def slug_exists_in_en_same_section(repo, ref, original_file_path, slug):
+    section = get_third_level_folder(original_file_path)  # e.g. announcements
+    if not section:
+        return False
+
+    candidate_md = f"docs/en/{section}/{slug}.md"
+    candidate_mdx = f"docs/en/{section}/{slug}.mdx"
+
+    return file_exists(repo, ref, candidate_md) or file_exists(repo, ref, candidate_mdx)
+
+
 # Get changed Markdown files in the PR 
 changed_files = [f for f in pr.get_files() if (
     f.filename.endswith(('.md', '.mdx'))
@@ -79,12 +102,8 @@ for f in changed_files:
 
             print(fm_dict)
             frontmatters[f.filename] = fm_dict
-
             # Regular expression for ISO 8601 date format (YYYY-MM-DDThh:mm:ss.sssZ)
             iso8601_regex = re.compile(r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}Z$")
-
-            # Regular expression for date format (YYYY-MM-DD)
-            date_regex = re.compile(r"^\d{4}-\d{2}-\d{2}-")
 
             # Validate formatting in present fields
             for key, value in fm_dict.items():
@@ -108,6 +127,17 @@ for f in changed_files:
                         field_errors.append({"field": "slugEN", "message": "'slugEN' must contain only lowercase letters, numbers, and hyphens"})
                         error_found = True
                     continue
+
+            # slugEN existence check in docs/en/<section>/
+            slug_value = fm_dict.get("slugEN")
+            if isinstance(slug_value, str) and slug_value:
+                if not slug_exists_in_en_same_section(repo, pr.head.ref, f.filename, slug_value):
+                    section = get_third_level_folder(f.filename)
+                    field_errors.append({
+                        "field": "slugEN",
+                        "message": f"slugEN '{slug_value}' not found in docs/en/{section}/ as {slug_value}.md or {slug_value}.mdx."
+                    })
+                    error_found = True
 
             # Validate mandatory fields for all doc types
             if 'title' not in fm_dict:
