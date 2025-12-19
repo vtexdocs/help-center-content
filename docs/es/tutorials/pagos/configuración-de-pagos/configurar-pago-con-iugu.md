@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-[iugu](https://partnerportal.vtex.com/iugu-156/p) es una solución en asociación con VTEX que proporciona las siguientes opciones de pago a través de [checkout transparente](/es/tutorial/que-es-el-checkout-transparente--2Y4ECegUmcYUggmck2GOwe): tarjeta de crédito, pix y boleto bancario. Además, es posible realizar [operaciones de recurrencia](/es/tutorial/configurar-recurrencia-en-condiciones-de-pago--6EGuoAytLqU2CqUuaI2GUW) y [split de pagos](/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx) (cobros y transacción) entre marketplaces.
+iugu es una solución en asociación con VTEX que proporciona las siguientes opciones de pago a través de [checkout transparente](/es/tutorial/que-es-el-checkout-transparente--2Y4ECegUmcYUggmck2GOwe): tarjeta de crédito, pix y boleto bancario. Además, es posible realizar [operaciones de recurrencia](/es/tutorial/configurar-recurrencia-en-condiciones-de-pago--6EGuoAytLqU2CqUuaI2GUW) y [split de pagos](/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx) (cobros y transacción) entre marketplaces.
 
 Para agregar iugu a tu tienda, sigue los pasos a continuación:
 
