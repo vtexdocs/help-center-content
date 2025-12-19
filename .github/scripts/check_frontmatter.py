@@ -65,7 +65,7 @@ print(f"Found {len(changed_files)} markdown file{plural_list(changed_files)} in 
 error_found = False
 frontmatters = {}
 file_errors = {}  # filename -> list of error strings
-filename_regex = re.compile(r'^[a-z0-9\/\-\.]+$')
+filename_regex = re.compile(r'^[a-z0-9\-]+\.(md|mdx)$')
 
 for f in changed_files:
     print(f"- {f.filename}")
@@ -74,7 +74,9 @@ for f in changed_files:
     generic_errors = []
     field_errors = []
 
-    if not filename_regex.match(f.filename):
+    basename = os.path.basename(f.filename)
+    
+    if not filename_regex.match(basename):
         file_errors[f.filename] = {
             "generic": [
                 "Filename contains invalid characters. Use only lowercase letters (a-z), numbers (0-9) and hyphens (-). Accents and special characters are not allowed."
@@ -82,7 +84,7 @@ for f in changed_files:
             "fields": [],
         }
         error_found = True
-        continue 
+        continue
 
     # Extract frontmatter
     if text.startswith('---'):
@@ -114,18 +116,29 @@ for f in changed_files:
                     if not (isinstance(value, str) and re.fullmatch(r'[a-z0-9\-]+', value)):
                         field_errors.append({"field": "slugEN", "message": "'slugEN' must contain only lowercase letters, numbers, and hyphens"})
                         error_found = True
+                        continue
+                
+                    # If the modified file is already under docs/en/, slugEN must match the filename
+                    if f.filename.startswith("docs/en/"):
+                        filename_no_ext = os.path.splitext(basename)[0]
+                        if value != filename_no_ext:
+                            field_errors.append({
+                                "field": "slugEN",
+                                "message": f"On `docs/en/`, `slugEN` must match the filename. Expected `{filename_no_ext}`, got `{value}`."
+                            })
+                            error_found = True
+                        continue
+                
+                    # Otherwise, check if the English file exists in docs/en/<third_level>/
+                    if not slug_exists_in_en_same_section(repo, pr.head.ref, f.filename, value):
+                        section = get_third_level_folder(f.filename)
+                        field_errors.append({
+                            "field": "slugEN",
+                            "message": f"`{value}` was not found in `docs/en/{section}/`"
+                        })
+                        error_found = True
+                
                     continue
-
-            # slugEN existence check in docs/en/<section>/
-            slug_value = fm_dict.get("slugEN")
-            if isinstance(slug_value, str) and slug_value:
-                if not slug_exists_in_en_same_section(repo, pr.head.ref, f.filename, slug_value):
-                    section = get_third_level_folder(f.filename)
-                    field_errors.append({
-                        "field": "slugEN",
-                        "message": f"`{slug_value}` was not found in `docs/en/{section}/`"
-                    })
-                    error_found = True
 
             # Validate mandatory fields for all doc types
             if 'title' not in fm_dict:
