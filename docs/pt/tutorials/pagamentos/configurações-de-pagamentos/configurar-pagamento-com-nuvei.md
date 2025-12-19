@@ -28,7 +28,7 @@ Para utilizar o Nuvei, siga os passos abaixo:
 2. Na tela de provedores, clique no botão `Novo provedor`.
 3. Digite o nome **nuvei-payment-provider** na barra de busca e clique sobre o nome do provedor.
 4. Em **Autorização do provedor**, preencha os campos **Chave de aplicação** e **Token de aplicação** com as informações da sua conta Nuvei.
-5. Caso deseje modificar o nome de identificação a ser exibido para o provedor CieloEcommerce na tela do Admin VTEX, insira a informação no campo **Nome** em **Informações básicas**.
+5. Caso deseje modificar o nome de identificação a ser exibido para o provedor Nuvei na tela do Admin VTEX, insira a informação no campo **Nome** em **Informações básicas**.
 6. Em **Controle de pagamento**, selecione se deseja ativar o provedor em ambiente de teste clicando em **Ativar modo de teste**.
 7. Em **Liquidação automática**, selecione uma das seguintes opções:
 - **Usar comportamento recomendado pelo processador de pagamentos**: a captura não é automática, mas agendada de acordo com o prazo especificado pela adquirente que, além de indicar se o pagamento foi autorizado, pode especificar ou recomendar um número de dias para a captura no momento da resposta à autorização do pagamento (este é o comportamento padrão da plataforma).
