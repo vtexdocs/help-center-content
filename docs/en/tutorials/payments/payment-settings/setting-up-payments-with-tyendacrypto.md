@@ -23,19 +23,16 @@ To configure TiendaCrypto, follow the steps below:
 2. On the providers screen, click the `New Provider` button.
 3. Type the name __TiendaCrypto__ in the search bar and click on the name of the provider.
 4. Click on __Authorize__. You will be redirected to the TiendaCrypto environment.
-5. In the __Payment settlement__ field, select one of the available options:
+5. En **Liquidación automática**, seleccione una de las siguientes opciones:
+- **Utiliza comportamiento recomendado por el procesador de pagos**: a captura no es automática, sino programada de acuerdo con el plazo especificado por el adquirente que, además de indicar si el pago ha sido autorizado, puede especificar o recomendar un número de días para la captura en el momento de la respuesta a la autorización de pago (este es el comportamiento predeterminado de la plataforma).
+- **Liquidación automática inmediatamente después de la autorización del pago**: la captura es automática y se produce inmediatamente después de la autorización, incluso si la transacción tiene un análisis antifraude.
+- **Liquidación automática inmediatamente después del análisis antifraude**: la captura es automática y se realiza inmediatamente después de la autorización y el análisis antifraude (si seleccionas este comportamiento y no tienes análisis antifraude, la captura de pago se realizará de la misma manera que en el comportamiento "Liquidación automática inmediatamente después de la autorización del pago").
+- **Desactivado**: la captura se realiza solo cuando se factura el pedido. Si se opta por este comportamiento de captura, es importante estar atento al tiempo de facturación, ya que puede exceder el tiempo de captura acordado con el proveedor de pagos y provocar la cancelación de la transacción.
 
-    - __Use Behavior Recommended By The Payment Processor__: capture is not automatic; it is scheduled according to the period specified by the acquirer. The acquirer indicates whether the payment has been authorized and can determine or recommend a number of days for the capture upon payment authorization.
-    - __Immediate: Automatic Settlement After Payment Authorization__: capture is automatically performed right after payment authorization, even if the transaction includes an anti-fraud analysis.
-    - __Immediate: Automatic Settlement After Anti-Fraud Analysis__:  Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in __Immediate: Automatic Settlement After Payment Authorization__.
-    - __Scheduled: Schedules The Automatic Settlement__: By selecting this option, the field __Scheduled time frame in hours for automatic settlement__ will be displayed, and it must be completed with the period in which the automatic capture will take place. This period must be in accordance with the limits allowed by the payment provider.
-    - __Deactivated: Not Automatically Captured__: capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.
+6. If an alert message appears indicating the need to install the app, click on the **Install app** button and follow the installation instructions.
+7. Click `Save`.
 
-<blockquote><ui>6. If an alert message appears indicating the need to install the app, click on the **Install app** button and follow the installation instructions.</ui>
-
-<blockquote><ui>7. Click on **Save.**</ui>
-
-## Setting up payment condition 
+## Setting up payment condition
 
 1. In the VTEX Admin, go to __Store Settings > Payment > Settings__, or type __Settings__ in the search bar at the top of the page.
 2. In the __Payment Conditions__ tab, click on the `+` button.
@@ -43,6 +40,6 @@ To configure TiendaCrypto, follow the steps below:
 4. Activate the condition in the __Status__ field.
 5. If you want to use an anti-fraud system, select the option __Use anti-fraud__.
 6. If you wish, you can also configure [payment special conditions](/en/tutorial/special-conditions--tutorials_456).
-7. Click on `Save`.
+7. Click `Save`.
 
 After following the indicated steps, TiendaCrypto connector may take up to 10 minutes to appear at your store's checkout as a payment option.

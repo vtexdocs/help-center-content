@@ -23,14 +23,14 @@ To configure VentiPay, follow the steps below:
 2. On the providers screen, click the `New Provider` button.
 3. Type the name __Ventipay__ in the search bar and click on the name of the provider.
 4. Fill in the __Application Key__ and __Application Token__ fields with data provided by VentiPay.
-5. Click on `Save`.
+5. Click `Save`.
 
 ## Setting up VentiPay payment condition 
 
-In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
-In the __Payment Conditions__ tab, click on the `+` button.
-Choose the payment condition __Ventipay__.
-Activate the condition in the __Status__ field.
-Click on `Save`.
+1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
+2. In the __Payment Conditions__ tab, click on the `+` button.
+3. Choose the payment condition __Ventipay__.
+4. Activate the condition in the __Status__ field.
+5. Click `Save`.
 
 After following the indicated steps, VentiPay may take up to 10 minutes to appear at your store's checkout as a payment option.

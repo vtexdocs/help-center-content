@@ -56,16 +56,15 @@ Para utilizar __VTEX Native Checkout Experience__ en tu tienda, es necesario:
 
 Para instalar las aplicaciones de Stripe en tu tienda, sigue los pasos a continuación:
 
-<blockquote><ui>1. Instale el [VTEX Native Checkout (aplicación Stripe)](https://marketplace.stripe.com/apps/vtex-native-checkout).Durante la configuración, asegúrese de ingresar el nombre de su cuenta VTEX usando solo letras minúsculas. Por ejemplo, si el nombre de su cuenta es "MyStore", ingréselo como "mystore".</ui>
+1. Instale el [VTEX Native Checkout (aplicación Stripe)](https://marketplace.stripe.com/apps/vtex-native-checkout).Durante la configuración, asegúrese de ingresar el nombre de su cuenta VTEX usando solo letras minúsculas. Por ejemplo, si el nombre de su cuenta es "MyStore", ingréselo como "mystore".
+2. Acceda al [Stripe Dashboard](https://dashboard.stripe.com/login?redirect=%2Fapikeys), copie y guarde las claves publicable y secreta. Es importante que copie y guarde las claves del modo (prueba o en vivo) en el que instaló la aplicación VTEX Native Checkout App en Stripe.
 
-<blockquote><ui>2. Acceda al [Stripe Dashboard](https://dashboard.stripe.com/login?redirect=%2Fapikeys), copie y guarde las claves publicable y secreta. Es importante que copie y guarde las claves del modo (prueba o en vivo) en el que instaló la aplicación VTEX Native Checkout App en Stripe.</ui>
+> ⚠️ Antes de iniciar la instalación de la aplicación Payment Provider Framework, verifica con el equipo de soporte de [Vinneren](stripe-support@vinneren.com.mx) o [Stripe](https://support.stripe.com/contact/login) las versiones más actuales de la aplicación.
 
-<blockquote>> ⚠️ Antes de iniciar la instalación de la aplicación Payment Provider Framework, verifica con el equipo de soporte de [Vinneren](stripe-support@vinneren.com.mx) o [Stripe](https://support.stripe.com/contact/login) las versiones más actuales de la aplicación.</blockquote>
+3. En [VTEX IO CLI](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install), ejecuta los comandos a continuación para instalar las aplicaciones de Stripe:
 
-<blockquote><ui>3. En [VTEX IO CLI](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install), ejecuta los comandos a continuación para instalar las aplicaciones de Stripe:</ui>
-
-  <blockquote><ui>- **Payment Provider Framework**: `vtex install stripe.stripe-payments-provider`.</ui></blockquote>
-  <blockquote><ui>- **Payment App**: `vtex install stripe.stripe-payment-app`.</ui></blockquote>
+- **Payment Provider Framework**: `vtex install stripe.stripe-payments-provider`.
+- **Payment App**: `vtex install stripe.stripe-payment-app`.
 
 ### Configurar StripeV2 en VTEX
 
@@ -90,7 +89,7 @@ Para configurar el script antifraude para StripeV2 en VTEX, siga los pasos a con
 3. Haga clic en el botón __Nuevo__ e ingrese un nombre descriptivo.
 4. Pegue el contenido del script que copió anteriormente.
 5. Reemplace la información "pk_test" con su clave pública de Stripe copiada en los pasos anteriores.
-6. Haga clic en `Guardar`.     
+6. Haga clic en `Guardar`.
 
 ### Configurar condición de pago
 
@@ -124,17 +123,15 @@ Para utilizar o __VTEX with Stripe Payment Element Experience__ em sua loja, é 
 
 Para instalar las aplicaciones de Stripe en tu tienda sigue los pasos a continuación:
 
-<blockquote><ui>1. Instale el [VTEX Elements Checkout (Stripe App)](https://marketplace.stripe.com/apps/vtex-with-stripe-payment-element) para obtener las claves de Stripe necesarias.</ui>
+1. Instale el [VTEX Elements Checkout (Stripe App)](https://marketplace.stripe.com/apps/vtex-with-stripe-payment-element) para obtener las claves de Stripe necesarias.
+2. Una vez que se complete la instalación, se mostrarán las claves pública (pk) y restringida (rk). Cópielos y guárdelos, ya que los utilizará más adelante.
 
-<blockquote><ui>2. Una vez que se complete la instalación, se mostrarán las claves pública (pk) y restringida (rk). Cópielos y guárdelos, ya que los utilizará más adelante.</ui>
+> ⚠️ Antes de iniciar la instalación de la aplicación Payment Provider Framework, verifica con el equipo de soporte de [Vinneren](stripe-support@vinneren.com.mx) o [Stripe](https://support.stripe.com/contact/login) las versiones más actuales de la aplicación.
 
-<blockquote>> ⚠️ Antes de iniciar la instalación de la aplicación Payment Provider Framework, verifica con el equipo de soporte de [Vinneren](stripe-support@vinneren.com.mx) o [Stripe](https://support.stripe.com/contact/login) las versiones más actuales de la aplicación.</blockquote>
+3. En [VTEX IO CLI](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install), ejecuta los comandos a continuación para instalar las aplicaciones de Stripe:
 
-<blockquote><ui>3. En [VTEX IO CLI](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install), ejecuta los comandos a continuación para instalar las aplicaciones de Stripe:
-</ui>
-
-  <blockquote><ui>- **Payment Provider Framework**: `vtex install stripe.stripe-payments-provider`.</ui></blockquote>
-  <blockquote><ui>- **Payment App**: `vtex install stripe.stripe-payment-app`.</ui></blockquote>  
+- **Payment Provider Framework**: `vtex install stripe.stripe-payments-provider`.
+- **Payment App**: `vtex install stripe.stripe-payment-app`.
 
 ### Configurar StripeV2 en VTEX (Element Experience)
 
@@ -150,11 +147,11 @@ Para configurar la integración de StripeV2 en VTEX sigue los pasos a continuaci
 8. En __Test Mode__, seleccione __Falso__ si el modo es __Live__ o __True__ si el modo es __Test__.
 9. Haz clic en `Guardar`.
 10. Agregue claves Stripe en la configuración de la aplicación del proveedor, de la siguiente manera:
-<blockquote>a. Vaya a **Applications > My applications > Stripe Payment Provider**.</blockquote>
-<blockquote>b. Haga clic en **Settings**.</blockquote>
-<blockquote>c. En **Clave publicable**, ingrese su clave comenzando con **pk_**.</blockquote>
-<blockquote>d. En **Clave secreta**, ingrese su clave comenzando con **rk_**.</blockquote>
-<blockquote>d. Haga clic en **Guardar**.</blockquote>  
+a. Vaya a **Applications > My applications > Stripe Payment Provider**.
+b. Haga clic en **Settings**.
+c. En **Clave publicable**, ingrese su clave comenzando con **pk_**.
+d. En **Clave secreta**, ingrese su clave comenzando con **rk_**.
+e. Haga clic en **Guardar**.
 
 ### Configurar condición de pago (Element Experience)
 
@@ -182,15 +179,15 @@ Para realizar la configuración del webhook en tu cuenta Stripe, sigue los pasos
 5. En el campo __Connection point URL__, ingresa la URL del endpoint de tu tienda VTEX en el siguiente formato: `https://{{account}}.myvtex.com/_v/stripe.payment-provider-connector/v0/webhook`. Sustituye {account} por el nombre de tu cuenta VTEX.
 6. Haz clic en __+ Select events__.
 7. Haz clic en las categorías y selecciona los siguientes eventos:
-<blockquote> - **payment_intent.payment_failed**</blockquote>
-<blockquote> - **payment_method.canceled**</blockquote>
-<blockquote> - **payment_intent.succeeded**</blockquote>
-<blockquote> - **payment_method.attached**</blockquote>
+- **payment_intent.payment_failed**
+- **payment_method.canceled**
+- **payment_intent.succeeded**
+- **payment_method.attached**
 
 8. Haz clic en __Add events__.
-9. Haz clic en __Add Connection Point__.  
+9. Haz clic en __Add Connection Point__.
 
-## Configurar pago con Google Pay en StripeV2 (opcional)  
+## Configurar pago con Google Pay en StripeV2 (opcional)
 
 Con el proveedor StripeV2 puedes procesar pagos con Google Pay en tu tienda. Para configurar Google Pay sigue los pasos a continuación:
 
@@ -205,7 +202,7 @@ Con el proveedor StripeV2 puedes procesar pagos con Google Pay en tu tienda. Par
 9. En __Información general__, en la opción __Nombre__, ingrese __StripeV2Elements__ para identificar el tipo de integración.  
 10. En __Campos del proveedor__, en la opción __Mode__, selecciona __Embedded__.
 11. En __Test Mode__, seleccione __Falso__ si el modo es __Live__ o __True__ si el modo es __Test__.
-12. Haz clic en `Guardar`.  
+12. Haz clic en `Guardar`.
 13. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Configuración__, o ingresa __Configuración__ en la barra de búsqueda en la parte superior de la página.
 14. En la pestaña __Condiciones de pago__, haz clic en el botón `+`.
 15. Haz clic en la opción __Google Pay__.
@@ -227,10 +224,10 @@ Con el proveedor StripeV2 puedes procesar pagos con Apple Pay en tu tienda. Para
 6. Ingresa __StripeV2__ en la barra de búsqueda y haz clic sobre el nombre del proveedor.
 7. En __Clave de aplicación__, ingresa la clave publicable que obtuviste en el __VTEX Elements Checkout (Stripe App)__.
 8. En __Token de aplicación__, ingresa la clave secreta que obtuviste en el __VTEX Elements Checkout (Stripe App)__ (restricted API key).
-9. En __Información general__, en la opción __Nombre__, ingrese __StripeV2Elements__ para identificar el tipo de integración.  
+9. En __Información general__, en la opción __Nombre__, ingrese __StripeV2Elements__ para identificar el tipo de integración.
 10. En __Campos del proveedor__, en la opción __Mode__, selecciona __Embedded__.
 11. En __Test Mode__, seleccione __Falso__ si el modo es __Live__ o __True__ si el modo es __Test__.
-12. Haz clic en `Guardar`.  
+12. Haz clic en `Guardar`.
 13. Accede al [dashboard de sua conta na Stripe](https://dashboard.stripe.com/) en la sección de configuración de pagos.
 14. En __Settings__, haz clic en __Payment Methods__.
 15. Haz clic en __Apple Pay > Set Up__.
@@ -247,7 +244,7 @@ Con el proveedor StripeV2 puedes procesar pagos con Apple Pay en tu tienda. Para
 26. En la pantalla de configuración, activa la condición haciendo clic en __Status__.
 27. En __Procesar con proveedor__, selecciona la opción __StripeV2__.
 28. Si deseas utilizar un sistema antifraude, selecciona la opción __Utilizar antifraude__.
-29. Indique si desea procesar pagos con o sin cuotas. 
+29. Indique si desea procesar pagos con o sin cuotas.
 30. Si lo deseas, también puedes [configurar condiciones de pago especiales](/es/tutorial/condiciones-especiales--tutorials_456).
 31. Haz clic en `Guardar`.
 
@@ -255,7 +252,7 @@ Cuando hayas realizado estos pasos, Apple Pay figurará en el checkout de la tie
 
 ## Configurar condición de pago en meses sin intereses (MSI) (opcional)
 
-> ⚠️ La condición de pago en cuotas sin intereses (**MSI - Meses Sin Intereses**) está disponible en Stripe únicamente para cuentas en México.  
+> ⚠️ La condición de pago en cuotas sin intereses (**MSI - Meses Sin Intereses**) está disponible en Stripe únicamente para cuentas en México.
 
 __MSI__ se puede configurar tanto la opción de operación __VTEX Native Checkout experience__ como para __VTEX with Stripe Payment Element Experience__. A continuación se indican los pasos para configurarla en función de la opción de operación adoptada en tu tienda:
 
@@ -267,7 +264,7 @@ __MSI__ se puede configurar tanto la opción de operación __VTEX Native Checkou
 4. [Configura las condiciones MSI](/es/tutorial/condiciones-de-pago--tutorials_455#en-cuotas-sin-interes) de la forma deseada en la pantalla del medio de pago.
 5. [Configura las condiciones MSI](https://support.stripe.com/questions/c%C3%B3mo-configurar-meses-sin-intereses-%28msi%29-en-tu-cuenta-stripe?locale=es-419) en tu dashboard de Stripe con la misma información utilizada en la configuración de VTEX (paso 4).
 
-> ⚠️ Si la información registrada en los pasos 4 y 5 es diferente, la condición de MSI podría no funcionar correctamente.  
+> ⚠️ Si la información registrada en los pasos 4 y 5 es diferente, la condición de MSI podría no funcionar correctamente.
 
 ### Configurar MSI en la opción VTEX with Stripe Payment Element Experience
 
