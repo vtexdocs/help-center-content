@@ -61897,6 +61897,21 @@
             },
             {
               "name": {
+                "en": "Paste action blocked on login and on the Pick and Pack picking search field",
+                "es": "Acción de pegar bloqueada en el inicio de sesión y en el campo de búsqueda de picking Pick and Pack",
+                "pt": "Ação de colar bloqueada no login e no campo de pesquisa de picking Pick and Pack"
+              },
+              "slug": {
+                "en": "paste-action-blocked-on-login-and-on-the-pick-and-pack-picking-search-field",
+                "es": "accion-de-pegar-bloqueada-en-el-inicio-de-sesion-y-en-el-campo-de-busqueda-de-picking-pick-and-pack",
+                "pt": "acao-de-colar-bloqueada-no-login-e-no-campo-de-pesquisa-de-picking-pick-and-pack"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Pick and Pack Worksheets remain open and cannot be completed",
                 "es": "Las hojas de trabajo Pick and Pack permanecen abiertas y no pueden completarse",
                 "pt": "As planilhas de coleta e embalagem permanecem abertas e não podem ser concluídas"

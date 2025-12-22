@@ -19,10 +19,10 @@ PicPay is a [digital wallet](/en/faq/what-is-an-e-wallet) that allows transfers 
 
 To configure PicPay, follow the steps below:
 
-1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+1. In the VTEX Admin, go to **Store Settings > Payment > Providers**, or type **Providers** in the search bar at the top of the page.
 2. On the providers screen, click the `New Provider` button.
-3. Type the name __PicPay__ in the search bar and click on the name of the provider.
-4. Fill in the _Application Key_ and _Application Token_ fields with your __PicPay__ account information.
+3. Type the name **PicPay** in the search bar and click on the name of the provider.
+4. Fill in the **App key** and **App token** fields with your **PicPay** account information.
 5. Click `Save`.
 
 ## Setting up the payment condition
