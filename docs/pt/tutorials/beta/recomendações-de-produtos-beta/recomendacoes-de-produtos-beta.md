@@ -23,22 +23,23 @@ A funcionalidade de Recomendações de produtos permite que sua loja ofereça ex
 
 ## Pré-requisitos
 
-Para ativar as recomendações de produtos, é necessário ter uma loja implementada com [Store Framework](https://developers.vtex.com/docs/guides/store-framework).
+Para ativar as recomendações de produtos, é necessário ter uma loja implementada com [Store Framework](https://developers.vtex.com/docs/guides/store-framework), [FastStore](https://developers.vtex.com/docs/guides/faststore) ou no modelo [headless](https://developers.vtex.com/docs/guides/headless-commerce).
 
 ## Estratégias de recomendação
 
-Confira a seguir as cinco estratégias de recomendação disponíveis, implementadas diretamente pelo time da VTEX.
+Confira a seguir as estratégias de recomendação disponíveis, implementadas diretamente pelo time da VTEX.
 
-### Página inicial (Home)
-
-* **Recomendações personalizadas:** itens selecionados com base no comportamento de navegação do usuário.  
-* **Mais vendidos:** produtos com maior volume de vendas na loja.  
-* **Produtos vistos:** itens previamente visualizados pelo usuário.
-
-### Página de produto (PDP)
-
-* **Similares:** sugestões de produtos relacionados ao item visualizado.  
-* **Compre junto:** recomendações de produtos frequentemente comprados em conjunto.
+| Nome                           | Descrição                                                                         |
+| ------------------------------ | --------------------------------------------------------------------------------- |
+| Mais populares                 | Produtos com maior número de visualizações.                                       |
+| Recomendado para você          | Recomendações personalizadas com base no perfil e no comportamento do usuário.    |
+| Produtos similares             | Produtos semelhantes a um produto específico.                                     |
+| Comprados juntos               | Produtos complementares a um produto específico, comumente comprados em conjunto. |
+| Mais vendidos                  | Produtos mais vendidos da loja.                                                   |
+| Vistos recentemente            | Produtos visualizados mais recentemente pelo usuário.                             |
+| Interações recentes            | Produtos com maior probabilidade de interação futura pelo usuário.                |
+| Produtos visualmente similares | Produtos visualmente semelhantes a um produto específico.                         |
+| Coleção manual                 | Recomendações a partir de uma coleção definida manualmente.                       |
 
 ## Implementação
 
