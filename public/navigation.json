@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Granular permissions for Seller Register and Marketplace Network",
+                    "es": "Permisos granulares para Seller Register y Marketplace Network",
+                    "pt": "Permissões granulares para Seller Register e Marketplace Network"
+                  },
+                  "slug": {
+                    "en": "2025-12-23-granular-permissions-seller-marketplace-network",
+                    "es": "2025-12-23-permisos-granulares-seller-marketplace-network",
+                    "pt": "2025-12-23-permissoes-granulares-seller-marketplace-network"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Skyhub: New shipping model ",
                     "es": "Skyhub: nuevo modelo de cálculo de envío ",
                     "pt": "Skyhub: novo modelo de simulação de frete "
@@ -60298,6 +60313,21 @@
                 "en": "order-report-inconsistency-when-tid-field-is-duplicated-in-the-connectorresponses-field-from-get-payment-details-api",
                 "es": "incoherencia-en-el-informe-de-pedido-cuando-el-campo-tid-esta-duplicado-en-el-campo-connectorresponses-de-la-api-de-detalles-de-pago-get",
                 "pt": "inconsistencia-no-relatorio-de-pedidos-quando-o-campo-tid-e-duplicado-no-campo-connectorresponses-da-api-de-detalhes-de-pagamento-get"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order stuck in “Payment pending” despite approved transaction",
+                "es": "Pedido bloqueado en \"Pago pendiente\" a pesar de transacción aprobada",
+                "pt": "Pedido preso em \"Pagamento pendente\" apesar da transação aprovada"
+              },
+              "slug": {
+                "en": "order-stuck-in-payment-pending-despite-approved-transaction",
+                "es": "pedido-bloqueado-en-pago-pendiente-a-pesar-de-transaccion-aprobada",
+                "pt": "pedido-preso-em-pagamento-pendente-apesar-da-transacao-aprovada"
               },
               "origin": "",
               "type": "markdown",
