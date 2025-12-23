@@ -316,7 +316,5 @@ flowchart TB
 
 ## References
 
-- [VTEX B2B Suite](https://developers.vtex.com/docs/guides/vtex-b2b-suite)
-- [B2B Organizations](https://developers.vtex.com/docs/guides/vtex-b2b-organizations)
 - [Storefront Permissions](https://developers.vtex.com/docs/guides/vtex-storefront-permissions)
 - [License Manager Resources](https://help.vtex.com/docs/tutorials/license-manager-resources)
