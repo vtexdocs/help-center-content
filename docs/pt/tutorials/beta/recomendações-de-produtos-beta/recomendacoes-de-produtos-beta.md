@@ -44,3 +44,5 @@ Confira a seguir as estratégias de recomendação disponíveis, implementadas d
 ## Implementação
 
 Para solicitar a ativação da funcionalidade de recomendações de produtos na sua loja, abra um ticket com o [Suporte Comercial](/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ), indicando quais estratégias deseja ativar. A equipe da VTEX vai analisar a solicitação e entrar em contato.
+
+Saiba mais sobre a implementação no Store Framework na documentação do componente [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf).
