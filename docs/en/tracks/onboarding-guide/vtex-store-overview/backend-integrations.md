@@ -181,7 +181,7 @@ Importing products refers to the act of transferring all relevant product inform
 On VTEX, it is important to understand the distinction between products and SKUs:
 
 - [Product](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru): Abstract catalog unit, visible on the store shelves.
-- [SKU](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA): Concrete catalog unit in stock, representing specific variations of a product, such as color, size, and other attributes. SKUs are displayed as individual items on product pages. SKUs are displayed as individual items on product pages.
+- [SKU](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA): Concrete catalog unit in stock, representing specific variations of a product, such as color, size, and other attributes. SKUs are displayed as individual items on product pages.
 
 > ℹ️ The way in which products and SKUs are structured directly influences the customer's shopping experience.
 
