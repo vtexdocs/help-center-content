@@ -207,7 +207,7 @@ Connectors with the [payout split](/en/tutorial/split-de-pagamento--6k5JidhYRUxi
 - __Cost and complexity reduction__: Eliminates manual transfers, lowers administrative costs, and speeds up financial reconciliation.
 - __Flexibility for different business models__: Supports operations with models such as marketplace, ship-from-store, and dropshipping.
 
-## Saiba mais
+## Learn more
 
 - [VTEX Payment Provider Protocol - Help Center](/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m)
 - [Secure Proxy - Help Center](https://developers.vtex.com/docs/guides/payments-integration-secure-proxy#custom-supported-operators)
