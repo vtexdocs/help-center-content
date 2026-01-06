@@ -49026,6 +49026,21 @@
             },
             {
               "name": {
+                "en": "Amazon Listing UI doesn't enable “Save and Send” and blocks SKU publication for VITAMIN productType",
+                "es": "Amazon Listing UI no habilita \"Guardar y Enviar\" y bloquea la publicación de SKU para VITAMIN productType",
+                "pt": "Amazon A interface do usuário de listagem não habilita \"Salvar e enviar\" e bloqueia a publicação de SKU para o tipo de produto VITAMINA"
+              },
+              "slug": {
+                "en": "amazon-listing-ui-doesnt-enable-save-and-send-and-blocks-sku-publication-for-vitamin-producttype",
+                "es": "amazon-listing-ui-no-habilita-guardar-y-enviar-y-bloquea-la-publicacion-de-sku-para-vitamin-producttype",
+                "pt": "amazon-a-interface-do-usuario-de-listagem-nao-habilita-salvar-e-enviar-e-bloqueia-a-publicacao-de-sku-para-o-tipo-de-produto-vitamina"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Amazon order does not integrate",
                 "es": "El pedido de Amazon no se integra",
                 "pt": "O pedido da Amazon não se integra"
@@ -66451,12 +66466,12 @@
               "name": {
                 "en": "ProductImpression doesn't show all the products when the SKU is individually showed",
                 "es": "ProductImpression no muestra todos los productos cuando el SKU se muestra individualmente",
-                "pt": "ProdutoImpressão não mostra todos os produtos quando o SKU é mostrado individualmente"
+                "pt": "O ProductImpression não mostra todos os produtos quando o SKU é mostrado individualmente"
               },
               "slug": {
                 "en": "productimpression-doesnt-show-all-the-products-when-the-sku-is-individually-showed",
                 "es": "productimpression-no-muestra-todos-los-productos-cuando-el-sku-se-muestra-individualmente",
-                "pt": "produtoimpressao-nao-mostra-todos-os-produtos-quando-o-sku-e-mostrado-individualmente"
+                "pt": "o-productimpression-nao-mostra-todos-os-produtos-quando-o-sku-e-mostrado-individualmente"
               },
               "origin": "",
               "type": "markdown",
