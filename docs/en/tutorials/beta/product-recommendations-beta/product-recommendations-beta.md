@@ -45,4 +45,5 @@ Below are the available recommendation strategies developed by the VTEX team:
 
 To request activation of the Product Recommendations feature in your store, open a ticket with [Commercial Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ), indicating which strategies you want to activate. The VTEX team will review the request and get in contact with you.  
 
-Learn more about the Store Framewaork implementation in the component documentation [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf).
+Learn more about the Store Framework implementation in the component documentation [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf).
+
