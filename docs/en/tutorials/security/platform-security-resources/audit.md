@@ -71,6 +71,28 @@ The **Results** section lists all events found in the query and displays informa
 | __Author__ | Email, ID, or token of the user who performed the event. |
 | __More Details__ | Button that opens a modal with more information about the event, when applicable. The details displayed may include: <ul><li class="t-body mb5 lh-copy">**Entity name:** The ID of the entity that was changed.</li><li class="t-body mb5 lh-copy">**Entity before action:** dInformation about the entity before the event, in [JSON](http://www.json.org/) format.</li><li class="t-body mb5 lh-copy">**Entity after action:** Information about the entity after the event, in [JSON](http://www.json.org/) format.</li></ul>Depending on the event, not all the information above is displayed. For example, an event that deleted information only displays the entity before the action. In contrast, an event that added information only displays the entity after the action. <br /><br /> Some events have no additional information. In such cases, the modal is left blank. |
 
+### Exporting results
+
+In addition to viewing the list of events and their information, you can also export these results and share them with others. 
+When performing a query, after applying the filters, the <i class="fas fa-arrow-down" aria-hidden="true"></i> `Export to CSV` button will be enabled.
+
+Click <i class="fas fa-arrow-down" aria-hidden="true"></i> `Export to CSV` to send the file with the events. The email will be sent to the address currently being used in the VTEX Admin.
+
+>ℹ️ The exported file may take around 20 minutes to deliver via email.
+
+See the example of the file that will be exported: 
+
+```csv
+app,source.application,source.author,source.entityName,source.eventTime,source.workflow,table,time
+checkout,checkout,john.doe@example.com,Order,2025-10-28T21:01:01.165Z,order-processing,orders,2025-10-28T21:01:01.166Z
+inventory,inventory,jane.smith@example.com,Product,2025-10-28T21:01:01.166Z,inventory-management,products,2025-10-28T21:01:01.166Z
+catalog,catalog,admin@example.com,Category,2025-10-28T21:01:01.166Z,catalog-update,categories,2025-10-28T21:01:01.166Z
+pricing,pricing,pricing-bot@example.com,Price,2025-10-28T21:01:01.167Z,,,2025-10-28T21:01:01.167Z
+
+```
+
+>ℹ️ Only one event export is performed at a time. You must wait until you receive the email with the CSV file to perform a new event export.
+
 ### Query examples
 
 Below, we've listed some common query scenarios to illustrate how filters should be arranged depending on what you want to query.
