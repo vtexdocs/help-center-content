@@ -23,24 +23,26 @@ The Product Recommendations feature allows your store to provide custom experien
 
 ## Prerequisites
 
-To activate Product Recommendations, you must have a store implemented with [Store Framework](https://developers.vtex.com/docs/guides/store-framework).
+To activate product recommendations, you must have a store implemented using [Store Framework](https://developers.vtex.com/docs/guides/store-framework), [FastStore](https://developers.vtex.com/docs/guides/faststore), or the [headless](https://developers.vtex.com/docs/guides/headless-commerce) model.
 
 ## Recommendation strategies
 
-See below the five available recommendation strategies, implemented directly by the VTEX team.
+Below are the available recommendation strategies developed by the VTEX team:
 
-### Homepage
-
-* **Custom recommendations:** Items selected based on user browsing behavior.  
-* **Best-selling:** Products with the highest sales volume in the store.  
-* **Recently viewed:** Items previously viewed by the user.
-
-### Product Details Page (PDP)
-
-* **Similar products:** Recommendations based on the viewed item.  
-* **Buy together:** Recommendations for products that are frequently bought together.
+| Name                      | Description                                                                                     |
+| ------------------------- | ----------------------------------------------------------------------------------------------- |
+| Most popular              | Products with the highest number of views                                                       |
+| Recommended for you       | Custom recommendations based on user profile and behavior                                       |
+| Similar products          | Products similar to a specific one                                                              |
+| Cross-sell                | Complementary products for a specific one that are commonly purchased together. |
+| Best sellers              | The store's best-selling products                                                               |
+| Last seen                 | Products recently viewed by the user                                                            |
+| Recent interactions       | Products most likely to engage the user in the future                                           |
+| Visually similar products | Products visually similar to a specific one                                                     |
+| Manual collection         | Recommendations from a collection created manually                                              |
 
 ## Implementation
 
 To request activation of the Product Recommendations feature in your store, open a ticket with [Commercial Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ), indicating which strategies you want to activate. The VTEX team will review the request and get in contact with you.  
 
+Learn more about the Store Framewaork implementation in the component documentation [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf).
