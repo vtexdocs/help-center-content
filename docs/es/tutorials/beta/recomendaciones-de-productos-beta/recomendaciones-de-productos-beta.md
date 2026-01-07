@@ -45,4 +45,4 @@ A continuación se describen las estrategias de recomendación disponibles desar
 
 Para solicitar la activación de la funcionalidad Recomendaciones de productos en tu tienda, abre un ticket con [Soporte comercial](/es/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) que incluya las estrategias que deseas activar. VTEX analizará la solicitud y se pondrá en contacto contigo.
 
-Más información sobre la implementación en Store Framewaork en la documentación del componente [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf).
+Más información sobre la implementación en Store Framework en la documentación del componente [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf).
