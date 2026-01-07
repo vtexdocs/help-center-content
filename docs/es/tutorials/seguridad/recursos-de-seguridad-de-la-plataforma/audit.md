@@ -73,6 +73,28 @@ La sección **Resultados** lista cada evento encontrado en la consulta y muestra
 | __Autor__ | Email, ID o token del usuario que realizó el evento. |
 | __Más detalles__ | Botón que abre un modal con más información sobre el evento, cuando corresponda. Los detalles mostrados pueden incluir: <ul><li class="t-body mb5 lh-copy">**Nombre de la entidad:** ID de la entidad modificada.</li><li class="t-body mb5 lh-copy">**Entidad antes de la acción:** información de la entidad antes del evento, en formato [JSON](http://www.json.org/).</li><li class="t-body mb5 lh-copy">**Entidad después de la acción:** información de la entidad después del evento, en formato [JSON](http://www.json.org/).</li></ul>La exhibición completa de la información previamente mencionada puede variar dependiendo del evento. Por ejemplo, un evento para eliminar información mostrará únicamente la entidad antes de la acción. Sin embargo, un evento que implica agregar información solo mostrará la entidad después de la acción. <br /><br /> Algunos eventos no proporcionan ninguna información adicional. En estos casos, el modal aparece vacío. |
 
+### Exportar resultados
+
+Además de consultar la lista de eventos y su información, es posible exportar estos resultados para compartirlos con terceros.
+
+Al realizar una consulta, después de aplicar los filtros, el botón <i class="fas fa-arrow-down"aria-hidden="true"></i> `Exportar a CSV`se habilitará automáticamente.
+
+Haz clic en <i class="fas fa-arrow-down"aria-hidden="true"></i> `Exportar a CSV`para enviar el archivo con los eventos. El email se enviará a la dirección que está configurada actualmente en el Admin VTEX.
+
+>ℹ️ El envío del archivo exportado puede demorar aproximadamente 20 minutos en llegar por email.
+
+Consulta a continuación un ejemplo del archivo que se exportará:
+
+```csv
+app,source.application,source.author,source.entityName,source.eventTime,source.workflow,table,time
+checkout,checkout,john.doe@example.com,Order,2025-10-28T21:01:01.165Z,order-processing,orders,2025-10-28T21:01:01.166Z
+inventory,inventory,jane.smith@example.com,Product,2025-10-28T21:01:01.166Z,inventory-management,products,2025-10-28T21:01:01.166Z
+catalog,catalog,admin@example.com,Category,2025-10-28T21:01:01.166Z,catalog-update,categories,2025-10-28T21:01:01.166Z
+pricing,pricing,pricing-bot@example.com,Price,2025-10-28T21:01:01.167Z,,,2025-10-28T21:01:01.167Z
+```
+
+>ℹ️ Solo se puede exportar un evento por vez. Debes esperar a recibir el email con el archivo CSV antes de exportar otro evento.
+
 ### Ejemplos de consultas
 
 A continuación, listamos algunos escenarios de consulta comunes para ilustrar cómo se deben componer los filtros con base en lo que deseas obtener.
