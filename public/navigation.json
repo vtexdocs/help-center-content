@@ -47885,6 +47885,21 @@
             },
             {
               "name": {
+                "en": "Error publishing Scheduled Release ahead of schedule in Admin (\"You can't publish an empty release\")",
+                "es": "Error al publicar una publicación programada antes de lo previsto en Admin (\"No se puede publicar una publicación vacía\")",
+                "pt": "Erro ao publicar a versão agendada antes do previsto no Admin (\"Você não pode publicar uma versão vazia\")"
+              },
+              "slug": {
+                "en": "error-publishing-scheduled-release-ahead-of-schedule-in-admin-you-cant-publish-an-empty-release",
+                "es": "error-al-publicar-una-publicacion-programada-antes-de-lo-previsto-en-admin-no-se-puede-publicar-una-publicacion-vacia",
+                "pt": "erro-ao-publicar-a-versao-agendada-antes-do-previsto-no-admin-voce-nao-pode-publicar-uma-versao-vazia"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Final domain different from myvtex due to old component version on Site Editor",
                 "es": "Dominio final diferente de myvtex debido a la versión antigua del componente en el Editor de Sitios",
                 "pt": "O domínio final é diferente do myvtex devido à versão antiga do componente no Site Editor"
@@ -48989,6 +49004,21 @@
                 "en": "amazon-listing-returns-code-13013-preventing-sku-creation",
                 "es": "amazon-listado-codigo-de-devolucion-13013-que-impide-la-creacion-de-sku",
                 "pt": "amazon-listagem-codigo-de-devolucao-13013-impedindo-a-criacao-de-sku"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon Listing UI doesn't enable “Save and Send” and blocks SKU publication for VITAMIN productType",
+                "es": "Amazon Listing UI no habilita \"Guardar y Enviar\" y bloquea la publicación de SKU para VITAMIN productType",
+                "pt": "Amazon A interface do usuário de listagem não habilita \"Salvar e enviar\" e bloqueia a publicação de SKU para o tipo de produto VITAMINA"
+              },
+              "slug": {
+                "en": "amazon-listing-ui-doesnt-enable-save-and-send-and-blocks-sku-publication-for-vitamin-producttype",
+                "es": "amazon-listing-ui-no-habilita-guardar-y-enviar-y-bloquea-la-publicacion-de-sku-para-vitamin-producttype",
+                "pt": "amazon-a-interface-do-usuario-de-listagem-nao-habilita-salvar-e-enviar-e-bloqueia-a-publicacao-de-sku-para-o-tipo-de-produto-vitamina"
               },
               "origin": "",
               "type": "markdown",
@@ -51250,14 +51280,14 @@
           "children": [
             {
               "name": {
-                "en": "Accounts with '-' on the name don't have metrics on search report",
-                "es": "Las cuentas con '-' en el nombre no tienen métricas en el informe de búsqueda",
-                "pt": "Contas com '-' no nome não têm métricas no relatório de busca"
+                "en": "Accounts with \"-\" on the name don't have metrics on search report",
+                "es": "Las cuentas con \"-\" en el nombre no tienen métricas en el informe de búsqueda",
+                "pt": "Contas com \"-\" no nome não têm métricas no relatório de pesquisa"
               },
               "slug": {
                 "en": "accounts-with-on-the-name-dont-have-metrics-on-search-report",
                 "es": "las-cuentas-con-en-el-nombre-no-tienen-metricas-en-el-informe-de-busqueda",
-                "pt": "contas-com-no-nome-nao-tem-metricas-no-relatorio-de-busca"
+                "pt": "contas-com-no-nome-nao-tem-metricas-no-relatorio-de-pesquisa"
               },
               "origin": "",
               "type": "markdown",
@@ -51528,6 +51558,21 @@
                 "en": "deleted-banner-may-still-appear-on-plp",
                 "es": "el-banner-eliminado-puede-seguir-apareciendo-en-plp",
                 "pt": "o-banner-excluido-ainda-pode-aparecer-no-plp"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Detached SKU search results not considering regionalized availability",
+                "es": "Los resultados de búsqueda de SKU independientes no tienen en cuenta la disponibilidad regionalizada",
+                "pt": "Os resultados da pesquisa de SKUs independentes não consideram a disponibilidade regionalizada"
+              },
+              "slug": {
+                "en": "detached-sku-search-results-not-considering-regionalized-availability",
+                "es": "los-resultados-de-busqueda-de-sku-independientes-no-tienen-en-cuenta-la-disponibilidad-regionalizada",
+                "pt": "os-resultados-da-pesquisa-de-skus-independentes-nao-consideram-a-disponibilidade-regionalizada"
               },
               "origin": "",
               "type": "markdown",
@@ -61430,6 +61475,66 @@
             },
             {
               "name": {
+                "en": "Transactions remain stuck in Analyzing Risk despite AFPP connector approval",
+                "es": "Las transacciones siguen atascadas en Análisis de riesgos a pesar de la aprobación del conector AFPP",
+                "pt": "As transações continuam presas no Analyzing Risk apesar da aprovação do conector AFPP"
+              },
+              "slug": {
+                "en": "transactions-remain-stuck-in-analyzing-risk-despite-afpp-connector-approval",
+                "es": "las-transacciones-siguen-atascadas-en-analisis-de-riesgos-a-pesar-de-la-aprobacion-del-conector-afpp",
+                "pt": "as-transacoes-continuam-presas-no-analyzing-risk-apesar-da-aprovacao-do-conector-afpp"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions remain stuck in Analyzing Risk despite legacy anti fraud connector approval",
+                "es": "Las transacciones permanecen atascadas en Análisis de riesgos a pesar de la aprobación del conector antifraude heredado",
+                "pt": "As transações permanecem presas no Analyzing Risk, apesar da aprovação do conector antifraude legado"
+              },
+              "slug": {
+                "en": "transactions-remain-stuck-in-analyzing-risk-despite-legacy-anti-fraud-connector-approval",
+                "es": "las-transacciones-permanecen-atascadas-en-analisis-de-riesgos-a-pesar-de-la-aprobacion-del-conector-antifraude-heredado",
+                "pt": "as-transacoes-permanecem-presas-no-analyzing-risk-apesar-da-aprovacao-do-conector-antifraude-legado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions remain stuck in Authorized despite connector approval",
+                "es": "Las transacciones siguen bloqueadas en Autorizado a pesar de la aprobación del conector",
+                "pt": "As transações permanecem presas no Autorizado, apesar da aprovação do conector"
+              },
+              "slug": {
+                "en": "transactions-remain-stuck-in-authorized-despite-connector-approval",
+                "es": "las-transacciones-siguen-bloqueadas-en-autorizado-a-pesar-de-la-aprobacion-del-conector",
+                "pt": "as-transacoes-permanecem-presas-no-autorizado-apesar-da-aprovacao-do-conector"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions remain stuck in Pending Authorization despite connector approval",
+                "es": "Las transacciones permanecen atascadas en Pendiente de autorización a pesar de la aprobación del conector",
+                "pt": "As transações permanecem presas em Autorização Pendente apesar da aprovação do conector"
+              },
+              "slug": {
+                "en": "transactions-remain-stuck-in-pending-authorization-despite-connector-approval",
+                "es": "las-transacciones-permanecen-atascadas-en-pendiente-de-autorizacion-a-pesar-de-la-aprobacion-del-conector",
+                "pt": "as-transacoes-permanecem-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transactions stuck in \"Canceling\" and payments remain in \"Authorized\"",
                 "es": "Las transacciones se atascan en \"Cancelando\" y los pagos permanecen en \"Autorizado\".",
                 "pt": "As transações ficam presas em \"Cancelando\" e os pagamentos permanecem em \"Autorizados\""
@@ -61460,6 +61565,21 @@
             },
             {
               "name": {
+                "en": "Transactions stuck in Authorized after approval",
+                "es": "Transacciones bloqueadas en Autorizado después de la aprobación",
+                "pt": "Transações presas em Autorizado após aprovação"
+              },
+              "slug": {
+                "en": "transactions-stuck-in-authorized-after-approval",
+                "es": "transacciones-bloqueadas-en-autorizado-despues-de-la-aprobacion",
+                "pt": "transacoes-presas-em-autorizado-apos-aprovacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transactions stuck in Authorized or Pending Authorization after approval",
                 "es": "Transacciones atascadas en Autorizado o Pendiente de autorización tras la aprobación",
                 "pt": "Transações presas em Autorizado ou Autorização pendente após a aprovação"
@@ -61468,6 +61588,21 @@
                 "en": "transactions-stuck-in-authorized-or-pending-authorization-after-approval",
                 "es": "transacciones-atascadas-en-autorizado-o-pendiente-de-autorizacion-tras-la-aprobacion",
                 "pt": "transacoes-presas-em-autorizado-ou-autorizacao-pendente-apos-a-aprovacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions stuck in Pending Authorization after approval",
+                "es": "Transacciones atascadas en Pendiente de autorización tras la aprobación",
+                "pt": "Transações presas em Autorização Pendente após a aprovação"
+              },
+              "slug": {
+                "en": "transactions-stuck-in-pending-authorization-after-approval",
+                "es": "transacciones-atascadas-en-pendiente-de-autorizacion-tras-la-aprobacion",
+                "pt": "transacoes-presas-em-autorizacao-pendente-apos-a-aprovacao"
               },
               "origin": "",
               "type": "markdown",
@@ -64120,6 +64255,21 @@
             },
             {
               "name": {
+                "en": "Promotion Simulator UI shows an incorrect number of items compared to the actual cart",
+                "es": "La interfaz de usuario del simulador de promociones muestra un número incorrecto de artículos en comparación con el carrito real.",
+                "pt": "A interface do usuário do Simulador de Promoção mostra um número incorreto de itens em comparação com o carrinho real"
+              },
+              "slug": {
+                "en": "promotion-simulator-ui-shows-an-incorrect-number-of-items-compared-to-the-actual-cart",
+                "es": "la-interfaz-de-usuario-del-simulador-de-promociones-muestra-un-numero-incorrecto-de-articulos-en-comparacion-con-el-carrito-real",
+                "pt": "a-interface-do-usuario-do-simulador-de-promocao-mostra-um-numero-incorreto-de-itens-em-comparacao-com-o-carrinho-real"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Promotion subscription with week, month and day frequency not working on recurring cycles",
                 "es": "La suscripción promocional con frecuencia de semana, mes y día no funciona en ciclos recurrentes",
                 "pt": "A assinatura de promoção com frequência de semana, mês e dia não está funcionando em ciclos recorrentes"
@@ -66316,12 +66466,12 @@
               "name": {
                 "en": "ProductImpression doesn't show all the products when the SKU is individually showed",
                 "es": "ProductImpression no muestra todos los productos cuando el SKU se muestra individualmente",
-                "pt": "ProdutoImpressão não mostra todos os produtos quando o SKU é mostrado individualmente"
+                "pt": "O ProductImpression não mostra todos os produtos quando o SKU é mostrado individualmente"
               },
               "slug": {
                 "en": "productimpression-doesnt-show-all-the-products-when-the-sku-is-individually-showed",
                 "es": "productimpression-no-muestra-todos-los-productos-cuando-el-sku-se-muestra-individualmente",
-                "pt": "produtoimpressao-nao-mostra-todos-os-produtos-quando-o-sku-e-mostrado-individualmente"
+                "pt": "o-productimpression-nao-mostra-todos-os-produtos-quando-o-sku-e-mostrado-individualmente"
               },
               "origin": "",
               "type": "markdown",
