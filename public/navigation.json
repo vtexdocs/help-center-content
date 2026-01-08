@@ -11,6 +11,53 @@
       "categories": [
         {
           "name": {
+            "en": "2026",
+            "es": "2026",
+            "pt": "2026"
+          },
+          "slug": {
+            "en": "2026",
+            "es": "2026",
+            "pt": "2026"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "January",
+                "es": "January",
+                "pt": "January"
+              },
+              "slug": {
+                "en": "2026-january",
+                "es": "january",
+                "pt": "january"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "New Audit event export",
+                    "es": "New Audit event export",
+                    "pt": "New Audit event export"
+                  },
+                  "slug": {
+                    "en": "2026-01-08-new-audit-event-export",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": {
             "en": "2025",
             "es": "2025",
             "pt": "2025"
@@ -58445,6 +58492,21 @@
             },
             {
               "name": {
+                "en": "504 timeout when creating gift cards in bulk via Admin (large batch size)",
+                "es": "Tiempo de espera de 504 al crear tarjetas regalo de forma masiva a través de Admin (lote de gran tamaño).",
+                "pt": "Tempo limite de 504 ao criar cartões-presente em massa através do Admin (lote de grande tamanho)"
+              },
+              "slug": {
+                "en": "504-timeout-when-creating-gift-cards-in-bulk-via-admin-large-batch-size",
+                "es": "tiempo-de-espera-de-504-al-crear-tarjetas-regalo-de-forma-masiva-a-traves-de-admin-lote-de-gran-tamano",
+                "pt": "tempo-limite-de-504-ao-criar-cartoespresente-em-massa-atraves-do-admin-lote-de-grande-tamanho"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Adyen 3DS2 double request generates payment authorization denial",
                 "es": "La doble solicitud de Adyen 3DS2 genera una denegación de autorización de pago",
                 "pt": "Solicitação dupla do Adyen 3DS2 gera recusa de autorização de pagamento"
@@ -64263,6 +64325,21 @@
                 "en": "promotion-more-for-less-not-working-alongside-regular-promotion",
                 "es": "promocion-mas-por-menos-no-funciona-junto-con-la-promocion-regular",
                 "pt": "promocao-mais-por-menos-nao-trabalhar-ao-lado-da-promocao-regular"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Promotion Simulator UI shows an incorrect number of items compared to the actual cart",
+                "es": "La interfaz de usuario del simulador de promociones muestra un número incorrecto de artículos en comparación con el carrito real.",
+                "pt": "A interface do usuário do Simulador de Promoção mostra um número incorreto de itens em comparação com o carrinho real"
+              },
+              "slug": {
+                "en": "promotion-simulator-ui-shows-an-incorrect-number-of-items-compared-to-the-actual-cart",
+                "es": "la-interfaz-de-usuario-del-simulador-de-promociones-muestra-un-numero-incorrecto-de-articulos-en-comparacion-con-el-carrito-real",
+                "pt": "a-interface-do-usuario-do-simulador-de-promocao-mostra-um-numero-incorreto-de-itens-em-comparacao-com-o-carrinho-real"
               },
               "origin": "",
               "type": "markdown",
