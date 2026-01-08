@@ -30,4 +30,4 @@ Esta nueva funcionalidad de Audit se ha desarrollado para:
 
 ## ¿Qué se necesita hacer?
 
-La funcionalidad ya está disponible para todas las tiendas. Para más información sobre cómo exportar eventos de Audit, consulta la sección [Resultados](https://help.vtex.com/es/docs/tutorials/audit#resultados) del artículo [Audit](https://help.vtex.com/es/docs/tutorials/audit).
+La funcionalidad ya está disponible para todas las tiendas. Para más información sobre cómo exportar eventos de Audit, consulta la sección [Exportar resultados](https://help.vtex.com/es/docs/tutorials/audit#exportar-resultados) del artículo [Audit](https://help.vtex.com/es/docs/tutorials/audit).
