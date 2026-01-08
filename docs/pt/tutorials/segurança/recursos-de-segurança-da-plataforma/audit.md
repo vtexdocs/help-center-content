@@ -71,6 +71,28 @@ A seção **Resultados** lista cada evento encontrado na busca e exibe as inform
 | __Autor__ | Email, ID ou token do usuário que realizou o evento. |
 | __Mais detalhes__ | Botão que abre um modal com mais informações sobre o evento, quando aplicável. Os detalhes exibidos podem incluir: <ul><li class="t-body mb5 lh-copy">**Nome da entidade:** ID da entidade modificada.</li><li class="t-body mb5 lh-copy">**Entidade antes da ação:** dados da entidade antes do evento, em formato [JSON](http://www.json.org/).</li><li class="t-body mb5 lh-copy">**Entidade após a ação:** dados da entidade após o evento, em formato [JSON](http://www.json.org/).</li></ul>A depender do evento, nem todas as informações citadas acima são exibidas. Por exemplo, um evento de exclusão de uma informação mostra apenas a entidade antes da ação. Por outro lado, um evento de criação de uma informação apresenta apenas a entidade após a ação. <br /><br /> Alguns eventos não apresentam nenhuma informação complementar. Nesses casos, o modal aparece vazio. |
 
+### Exportar resultados
+
+Além de visualizar a lista de eventos e suas as informações, é possível exportar esses resultados para compartilhar com terceiros.
+
+Ao fazer uma consulta, após aplicar os filtros, o botão <i class="fas fa-arrow-down" aria-hidden="true"></i> `Exportar para CSV` será habilitado.
+
+Clique em <i class="fas fa-arrow-down" aria-hidden="true"></i> `Exportar para CSV` para enviar o arquivo com os eventos. O email será enviado para o endereço que está atualmente em uso no Admin VTEX.
+
+>ℹ️ O arquivo exportado pode demorar em torno de 20 minutos para ser enviado por email.
+
+Veja o exemplo de arquivo que será exportado:
+
+```csv
+app,source.application,source.author,source.entityName,source.eventTime,source.workflow,table,time
+checkout,checkout,john.doe@example.com,Order,2025-10-28T21:01:01.165Z,order-processing,orders,2025-10-28T21:01:01.166Z
+inventory,inventory,jane.smith@example.com,Product,2025-10-28T21:01:01.166Z,inventory-management,products,2025-10-28T21:01:01.166Z
+catalog,catalog,admin@example.com,Category,2025-10-28T21:01:01.166Z,catalog-update,categories,2025-10-28T21:01:01.166Z
+pricing,pricing,pricing-bot@example.com,Price,2025-10-28T21:01:01.167Z,,,2025-10-28T21:01:01.167Z
+```
+
+>ℹ️ Apenas uma exportação de eventos é realizada por vez. Você deve aguardar o recebimento do email com o arquivo CSV para realizar uma nova exportação de eventos.
+
 ### Exemplos de buscas
 
 A seguir, listamos alguns cenários de busca comuns para ilustrar como os filtros devem ser compostos dependendo do que se deseja buscar.
