@@ -8,7 +8,7 @@ publishedAt: 2026-01-08T00:00:00.000Z
 contentType: updates
 productTeam: Segurança
 author: 2o8pvz6z9hvxvhSoKAiZzg
-slugPT: 2026-01-08-nova-exportacao-eventos-audit
+slugEN: 2026-01-08-new-audit-event-export
 locale: pt
 legacySlug: 
 announcementImageID: 'undefined'
