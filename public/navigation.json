@@ -26,13 +26,13 @@
             {
               "name": {
                 "en": "January",
-                "es": "January",
-                "pt": "January"
+                "es": "Enero",
+                "pt": "Janeiro"
               },
               "slug": {
                 "en": "2026-january",
-                "es": "january",
-                "pt": "january"
+                "es": "2026-enero",
+                "pt": "2026-janeiro"
               },
               "origin": "",
               "type": "category",
@@ -40,13 +40,13 @@
                 {
                   "name": {
                     "en": "New Audit event export",
-                    "es": "New Audit event export",
-                    "pt": "New Audit event export"
+                    "es": "Nueva exportación de eventos de Audit",
+                    "pt": "Nova exportação de eventos do Audit"
                   },
                   "slug": {
                     "en": "2026-01-08-new-audit-event-export",
-                    "es": "",
-                    "pt": ""
+                    "es": "2026-01-08-nueva-audit-exportacion-eventos",
+                    "pt": "2026-01-08-nova-exportacao-eventos-audit"
                   },
                   "origin": "",
                   "type": "markdown",
