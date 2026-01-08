@@ -11,7 +11,7 @@ author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: 2026-01-08-new-audit-event-export
 locale: en
 legacySlug: 
-announcementImageID: ''
+announcementImageID: 'undefined'
 announcementSynopsisEN: 'You can now export audit events as a CSV file, making audits easier and ensuring regulatory compliance.'
 ---
 
@@ -30,4 +30,4 @@ This new Audit feature was developed to:
 
 ## What needs to be done?
 
-The feature is available to all VTEX accounts. For more information on how to export Audit events, see the Results section of the [Audit](https://help.vtex.com/en/docs/tutorials/audit) article.
+The feature is available to all VTEX accounts. For more information on how to export Audit events, see the [Results](https://help.vtex.com/docs/tutorials/audit#results) section of the [Audit](https://help.vtex.com/en/docs/tutorials/audit) article.
