@@ -41254,14 +41254,14 @@
             },
             {
               "name": {
-                "en": "Creating SKUs in seller portal accounts result in inocrrect unit multiplier",
-                "es": "La creación de SKU en cuentas del portal del vendedor da como resultado un multiplicador de unidades incorrecto",
-                "pt": "A criação de SKUs em contas do portal do vendedor resulta em um multiplicador de unidades incorreto"
+                "en": "Creating SKUs in seller portal accounts result in unit multiplier always being 1",
+                "es": "La creación de SKU en las cuentas del portal del vendedor hace que el multiplicador de unidades sea siempre 1.",
+                "pt": "A criação de SKUs em contas do portal do vendedor faz com que o multiplicador de unidades seja sempre 1."
               },
               "slug": {
-                "en": "creating-skus-in-seller-portal-accounts-result-in-inocrrect-unit-multiplier",
-                "es": "la-creacion-de-sku-en-cuentas-del-portal-del-vendedor-da-como-resultado-un-multiplicador-de-unidades-incorrecto",
-                "pt": "a-criacao-de-skus-em-contas-do-portal-do-vendedor-resulta-em-um-multiplicador-de-unidades-incorreto"
+                "en": "creating-skus-in-seller-portal-accounts-result-in-unit-multiplier-always-being-1",
+                "es": "la-creacion-de-sku-en-las-cuentas-del-portal-del-vendedor-hace-que-el-multiplicador-de-unidades-sea-siempre-1",
+                "pt": "a-criacao-de-skus-em-contas-do-portal-do-vendedor-faz-com-que-o-multiplicador-de-unidades-seja-sempre-1"
               },
               "origin": "",
               "type": "markdown",
@@ -58762,6 +58762,21 @@
             },
             {
               "name": {
+                "en": "Captured transaction remains in Approved status due to missing settlement registration in Requests",
+                "es": "La transacción capturada permanece en estado Aprobada debido a la falta de registro de liquidación en Solicitudes.",
+                "pt": "A transação capturada permanece no status Aprovada devido à falta de registro de liquidação nas Solicitações."
+              },
+              "slug": {
+                "en": "captured-transaction-remains-in-approved-status-due-to-missing-settlement-registration-in-requests",
+                "es": "la-transaccion-capturada-permanece-en-estado-aprobada-debido-a-la-falta-de-registro-de-liquidacion-en-solicitudes",
+                "pt": "a-transacao-capturada-permanece-no-status-aprovada-devido-a-falta-de-registro-de-liquidacao-nas-solicitacoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Card brands incorrectly processed as Visa",
                 "es": "Marcas de tarjetas procesadas incorrectamente como Visa",
                 "pt": "Marcas de cartão processadas incorretamente como Visa"
@@ -60540,6 +60555,21 @@
                 "en": "orders-placed-with-gift-card-generate-transactions-with-brazilian-currency-r",
                 "es": "los-pedidos-realizados-con-tarjeta-regalo-generan-transacciones-con-moneda-brasilena-r",
                 "pt": "pedidos-feitos-com-gift-card-geram-transacoes-em-moeda-brasileira-r"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Orders remain in \"Payment Pending\" even after transaction is approved or finished",
+                "es": "Los pedidos permanecen en «Pago pendiente» incluso después de que la transacción haya sido aprobada o finalizada.",
+                "pt": "Os pedidos permanecem em \"Pagamento pendente\" mesmo após a transação ter sido aprovada ou concluída."
+              },
+              "slug": {
+                "en": "orders-remain-in-payment-pending-even-after-transaction-is-approved-or-finished",
+                "es": "los-pedidos-permanecen-en-pago-pendiente-incluso-despues-de-que-la-transaccion-haya-sido-aprobada-o-finalizada",
+                "pt": "os-pedidos-permanecem-em-pagamento-pendente-mesmo-apos-a-transacao-ter-sido-aprovada-ou-concluida"
               },
               "origin": "",
               "type": "markdown",
