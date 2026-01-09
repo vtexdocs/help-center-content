@@ -40382,6 +40382,21 @@
             },
             {
               "name": {
+                "en": "Catalog API accepts list of items but UI does not reflect",
+                "es": "La API del catálogo acepta la lista de artículos, pero la interfaz de usuario no lo refleja.",
+                "pt": "A API do catálogo aceita listas de itens, mas a interface do usuário não reflete isso."
+              },
+              "slug": {
+                "en": "catalog-api-accepts-list-of-items-but-ui-does-not-reflect",
+                "es": "la-api-del-catalogo-acepta-la-lista-de-articulos-pero-la-interfaz-de-usuario-no-lo-refleja",
+                "pt": "a-api-do-catalogo-aceita-listas-de-itens-mas-a-interface-do-usuario-nao-reflete-isso"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Catalog API Create SKU File only work with an URL",
                 "es": "La API del catálogo Crear archivo SKU sólo funciona con una URL",
                 "pt": "API do catálogo Criar arquivo SKU só funciona com uma URL"
@@ -42363,13 +42378,13 @@
             {
               "name": {
                 "en": "Number-type product specifications allow importing array of values",
-                "es": "Las especificaciones de producto de tipo numérico permiten importar matrices de valores",
-                "pt": "As especificações de produto do tipo número permitem a importação de uma matriz de valores"
+                "es": "Las especificaciones de productos de tipo numérico permiten importar matrices de valores.",
+                "pt": "As especificações do produto do tipo numérico permitem importar uma matriz de valores."
               },
               "slug": {
                 "en": "numbertype-product-specifications-allow-importing-array-of-values",
-                "es": "las-especificaciones-de-producto-de-tipo-numerico-permiten-importar-matrices-de-valores",
-                "pt": "as-especificacoes-de-produto-do-tipo-numero-permitem-a-importacao-de-uma-matriz-de-valores"
+                "es": "las-especificaciones-de-productos-de-tipo-numerico-permiten-importar-matrices-de-valores",
+                "pt": "as-especificacoes-do-produto-do-tipo-numerico-permitem-importar-uma-matriz-de-valores"
               },
               "origin": "",
               "type": "markdown",
@@ -42378,13 +42393,13 @@
             {
               "name": {
                 "en": "Number-type product specifications allow importing decimal values",
-                "es": "Las especificaciones de producto de tipo numérico permiten importar valores decimales",
-                "pt": "As especificações de produtos do tipo número permitem a importação de valores decimais"
+                "es": "Las especificaciones de productos de tipo numérico permiten importar valores decimales.",
+                "pt": "As especificações do produto do tipo numérico permitem importar valores decimais."
               },
               "slug": {
                 "en": "numbertype-product-specifications-allow-importing-decimal-values",
-                "es": "las-especificaciones-de-producto-de-tipo-numerico-permiten-importar-valores-decimales",
-                "pt": "as-especificacoes-de-produtos-do-tipo-numero-permitem-a-importacao-de-valores-decimais"
+                "es": "las-especificaciones-de-productos-de-tipo-numerico-permiten-importar-valores-decimales",
+                "pt": "as-especificacoes-do-produto-do-tipo-numerico-permitem-importar-valores-decimais"
               },
               "origin": "",
               "type": "markdown",
@@ -56987,6 +57002,21 @@
             },
             {
               "name": {
+                "en": "Invoice accepted with value higher than order total via Orders API during concurrent Change",
+                "es": "Factura aceptada con un valor superior al total del pedido a través de la API de pedidos durante un cambio simultáneo.",
+                "pt": "Fatura aceita com valor superior ao total do pedido por meio da API de pedidos durante alteração simultânea"
+              },
+              "slug": {
+                "en": "invoice-accepted-with-value-higher-than-order-total-via-orders-api-during-concurrent-change",
+                "es": "factura-aceptada-con-un-valor-superior-al-total-del-pedido-a-traves-de-la-api-de-pedidos-durante-un-cambio-simultaneo",
+                "pt": "fatura-aceita-com-valor-superior-ao-total-do-pedido-por-meio-da-api-de-pedidos-durante-alteracao-simultanea"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Invoice items description in packages overwritten based on invoiceValue rule (Orders/OMS GET Order reconstruction)",
                 "es": "La descripción de los elementos de la factura en los paquetes se sobrescribe en función de la regla invoiceValue (reconstrucción de pedidos/OMS GET Order)",
                 "pt": "Descrição dos itens da fatura em pacotes sobrescritos com base na regra invoiceValue (reconstrução de pedidos/OMS GET Order)"
@@ -58423,6 +58453,21 @@
                 "en": "12-digits-cardnumber-being-accepted-in-checkout-and-causing-stuck-transactions",
                 "es": "12-digitos-cardnumber-siendo-aceptados-en-la-caja-y-causando-transacciones-atascadas",
                 "pt": "numero-de-12-digitos-do-cartaonumero-sendo-aceito-na-caixa-e-causando-transacoes-presas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "504 timeout when creating gift cards in bulk via Admin (large batch size)",
+                "es": "Tiempo de espera de 504 al crear tarjetas regalo de forma masiva a través de Admin (lote de gran tamaño).",
+                "pt": "Tempo limite de 504 ao criar cartões-presente em massa através do Admin (lote de grande tamanho)"
+              },
+              "slug": {
+                "en": "504-timeout-when-creating-gift-cards-in-bulk-via-admin-large-batch-size",
+                "es": "tiempo-de-espera-de-504-al-crear-tarjetas-regalo-de-forma-masiva-a-traves-de-admin-lote-de-gran-tamano",
+                "pt": "tempo-limite-de-504-ao-criar-cartoespresente-em-massa-atraves-do-admin-lote-de-grande-tamanho"
               },
               "origin": "",
               "type": "markdown",
@@ -59960,6 +60005,21 @@
             },
             {
               "name": {
+                "en": "It is not possible to use the sales channel filter on the transactions page.",
+                "es": "No es posible utilizar el filtro del canal de ventas en la página de transacciones.",
+                "pt": "Não é possível utilizar o filtro do canal de vendas na página de transações."
+              },
+              "slug": {
+                "en": "it-is-not-possible-to-use-the-sales-channel-filter-on-the-transactions-page",
+                "es": "no-es-posible-utilizar-el-filtro-del-canal-de-ventas-en-la-pagina-de-transacciones",
+                "pt": "nao-e-possivel-utilizar-o-filtro-do-canal-de-vendas-na-pagina-de-transacoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "It's possible to go from order to transaction but the inverse flow doesn't work",
                 "es": "Es posible pasar de la orden a la transacción pero el flujo inverso no funciona",
                 "pt": "É possível ir da ordem para a transação, mas o fluxo inverso não funciona"
@@ -59975,21 +60035,6 @@
             },
             {
               "name": {
-                "en": "Konduto AF cannot complete a request when the accountId is missing.",
-                "es": "Konduto AF no puede completar una solicitud cuando falta el accountId.",
-                "pt": "O Konduto AF não pode concluir uma solicitação quando o accountId está ausente."
-              },
-              "slug": {
-                "en": "konduto-af-cannot-complete-a-request-when-the-accountid-is-missing",
-                "es": "konduto-af-no-puede-completar-una-solicitud-cuando-falta-el-accountid",
-                "pt": "o-konduto-af-nao-pode-concluir-uma-solicitacao-quando-o-accountid-esta-ausente"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Lack of validation in the BillingAddress zip code",
                 "es": "Falta de validación en el código postal BillingAddress",
                 "pt": "Falta de validação no código postal BillingAddress"
@@ -59998,6 +60043,21 @@
                 "en": "lack-of-validation-in-the-billingaddress-zip-code",
                 "es": "falta-de-validacion-en-el-codigo-postal-billingaddress",
                 "pt": "falta-de-validacao-no-codigo-postal-billingaddress"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Legacy Antifrauds cannot complete a request when the accountId is missing.",
+                "es": "Los sistemas antifraude heredados no pueden completar una solicitud cuando falta el ID de la cuenta.",
+                "pt": "Os Antifrauds legados não podem concluir uma solicitação quando o accountId está ausente."
+              },
+              "slug": {
+                "en": "legacy-antifrauds-cannot-complete-a-request-when-the-accountid-is-missing",
+                "es": "los-sistemas-antifraude-heredados-no-pueden-completar-una-solicitud-cuando-falta-el-id-de-la-cuenta",
+                "pt": "os-antifrauds-legados-nao-podem-concluir-uma-solicitacao-quando-o-accountid-esta-ausente"
               },
               "origin": "",
               "type": "markdown",
