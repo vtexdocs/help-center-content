@@ -3,7 +3,7 @@ title: 'Importar e exportar produtos e SKUs via planilha (Beta)'
 id: 5udKxWP1ZeBD7QB7Fy2BNl
 status: PUBLISHED
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2025-11-05T15:30:32.980Z
+updatedAt: 2026-01-09T15:30:32.980Z
 publishedAt: 2025-11-05T15:30:32.980Z
 firstPublishedAt: 2025-09-05T18:41:30.755Z
 contentType: tutorial
@@ -51,6 +51,9 @@ Para exportar um arquivo `.xlsx` com informações sobre o seu sortimento de pro
 1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) na barra de busca no topo da página.
 2. (Opcional) Caso queira exportar uma seleção de produtos e SKUs, [busque](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#buscar-produtos) ou [filtre](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#filtrar-produtos) os itens desejados. Este passo não é necessário para exportar todos os produtos e/ou SKUs.
 3. No topo da página, clique em `Exportar`.
+
+  > ⚠️ O limite de exportação é de 100.000 produtos.
+
 4. Clique em `Produtos e SKUs`.
 5. No modal de **Exportação**, selecione o ícone caixa correspondente aos **Campos de produto** e/ou **Campos de SKU**, conforme desejado. Os campos obrigatórios não podem ser desmarcados.
 
