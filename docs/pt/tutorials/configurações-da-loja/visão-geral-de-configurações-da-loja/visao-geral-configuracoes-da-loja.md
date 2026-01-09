@@ -1,5 +1,5 @@
 ---
-title: 'Visão Geral Configurações da Loja'
+title: 'Configurações da Loja - Visão geral'
 id: 6VtlMoid6iM9dP14X1CopT
 status: PUBLISHED
 createdAt: 2023-03-29T23:00:51.439Z

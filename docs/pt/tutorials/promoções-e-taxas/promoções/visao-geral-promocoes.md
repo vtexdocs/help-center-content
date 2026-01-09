@@ -1,5 +1,5 @@
 ---
-title: 'Visão Geral Promoções'
+title: 'Promoções - Visão geral'
 id: 3PeHVYcooLIDmA33IAnjhm
 status: PUBLISHED
 createdAt: 2023-03-29T19:29:50.947Z

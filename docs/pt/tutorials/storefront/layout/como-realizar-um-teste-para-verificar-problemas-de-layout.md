@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ Tutorial válido apenas para lojas CMS Portal Legado.
+> ⚠️ Tutorial válido apenas para lojas CMS Portal (Legado).
 
 Quando nos deparamos com cenários onde há algum comportamento estranho no site, há alguns procedimentos que possamos fazer para sanar de onde está vindo a dúvida.
 

@@ -32,7 +32,6 @@ Para configurar el proveedor argonPAY, siga los pasos a continuación:
 - **Programado: Establece Cuándo Se Realizará La Captura Automática**: al seleccionar esta opción, se mostrará el campo **Periodo de tiempo programado en horas para la captura automática**, que deberá rellenarse con el periodo en el que se realizará la captura automática. Este periodo debe respetar los límites permitidos por el proveedor de pagos.
 - **Desactivado: No Capturado Automáticamente**: la captura se realiza solo cuando se factura el pedido. Si se opta por este comportamiento de captura, es importante estar atento al tiempo de facturación, ya que puede exceder el tiempo de captura acordado con el proveedor de pagos y provocar la cancelación de la transacción.
 
-
 8. Si desea utilizar Split de pagos en su tienda, seleccione la opción **Activar split de cobros y enviar destinatarios de pago** e indique el **Responsable de cargos de procesamiento de pagos** y el **Responsable de contracargos** (marketplace, sellers o marketplace y sellers).
 9. Haga clic en `Guardar`.
 

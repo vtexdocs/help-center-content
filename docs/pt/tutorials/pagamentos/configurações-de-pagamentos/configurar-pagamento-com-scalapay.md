@@ -17,24 +17,21 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 Na VTEX, é possível realizar a integração com o provedor de pagamentos Scalapay. Com este provedor, sua loja pode realizar vendas por "Scalapay Pay in 3" e "Scalapay Pay in 4".
 
-Para configurar Izipay, siga os passos abaixo:
+Para configurar Scalapay, siga os passos abaixo:
 
-1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+1. No Admin VTEX, acesse **Configurações da loja > Pagamentos > Provedores**, ou digite **Provedores** na barra de busca no topo da página.
 2. Na tela de provedores, clique no botão `Novo provedor`.
-3. Digite o nome __Scalapay Connector__ na barra de busca e clique sobre o nome do provedor.
-4. Em __Autorização do provedor__, preencha os campos __Chave de aplicação__ e __Token de aplicação__ com as informações da sua conta Scalapay.
-5. Caso deseje modificar o nome de identificação a ser exibido para o provedor Scalapay na tela do Admin VTEX, insira a informação no campo __Nome__ em __Informações básicas__.
-6. Em __Controle de pagamento__, selecione se deseja ativar o provedor em ambiente de teste clicando em __Ativar modo de teste__.
-7. Em __Liquidação automática__, selecione uma das seguintes opções:
-<br>
-<ul>
-<br>
-    	<li>**Usar comportamento recomendado pelo processador de pagamentos**: a captura não é automática, mas agendada de acordo com o prazo especificado pela adquirente que, além de indicar se o pagamento foi autorizado, pode especificar ou recomendar um número de dias para a captura no momento da resposta à autorização do pagamento (este é o comportamento padrão da plataforma).</li>
-    	<li>**Liquidação automática imediatamente após a autorização do pagamento**: a captura é automática e acontece logo após a autorização, mesmo que a transação possua uma análise antifraude.</li>
-   		<li>**Liquidação automática imediatamente após a análise antifraude**: a captura é automática e acontece logo após a autorização e análise antifraude (Caso você selecione este comportamento e não possua análise antifraude, a captura do pagamento acontecerá da mesma forma que no comportamento "Liquidação automática imediatamente após a autorização do pagamento").</li>      
-   		<li>**Desativado**: a captura acontece somente quando o pedido for faturado. Caso escolha esse comportamento de captura, é importante atentar-se quanto ao tempo do faturamento. Isso porque o faturamento pode ultrapassar o tempo de captura acordado com o provedor de pagamentos e levar à perda da transação.</li>
-</ul>
-8. Em __Campos do provedor__, selecione __Pay in 3__ ou __Pay in 4__ em __Product Type__.  
+3. Digite o nome *Scalapay Connector** na barra de busca e clique sobre o nome do provedor.
+4. Em **Autorização do provedor**, preencha os campos **Chave de aplicação** e **Token de aplicação** com as informações da sua conta Scalapay
+5. Caso deseje modificar o nome de identificação a ser exibido para o provedor Scalapay na tela do Admin VTEX, insira a informação no campo **Nome** em **Informações básicas**.
+6. Em **Controle de pagamento**, selecione se deseja ativar o provedor em ambiente de teste clicando em **Ativar modo de teste**.
+7. Em **Liquidação automática**, selecione uma das seguintes opções:
+- **Usar comportamento recomendado pelo processador de pagamentos**: a captura não é automática, mas agendada de acordo com o prazo especificado pela adquirente que, além de indicar se o pagamento foi autorizado, pode especificar ou recomendar um número de dias para a captura no momento da resposta à autorização do pagamento (este é o comportamento padrão da plataforma).
+- **Liquidação automática imediatamente após a autorização do pagamento**: a captura é automática e acontece logo após a autorização, mesmo que a transação possua uma análise antifraude.
+- **Liquidação automática imediatamente após a análise antifraude**: a captura é automática e acontece logo após a autorização e análise antifraude (Caso você selecione este comportamento e não possua análise antifraude, a captura do pagamento acontecerá da mesma forma que no comportamento "Liquidação automática imediatamente após a autorização do pagamento").
+- **Desativado**: a captura acontece somente quando o pedido for faturado. Caso escolha esse comportamento de captura, é importante atentar-se quanto ao tempo do faturamento. Isso porque o faturamento pode ultrapassar o tempo de captura acordado com o provedor de pagamentos e levar à perda da transação.
+
+8. Em **Campos do provedor**, selecione **Pay in 3** ou **Pay in 4** em **Product Type**.
 9. Clique em `Salvar`.
 
 ## Configurar condição de pagamento

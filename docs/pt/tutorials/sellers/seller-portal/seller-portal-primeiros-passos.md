@@ -74,7 +74,7 @@ Para acessar o módulo de Preços, navegue na barra lateral clicando em Produtos
 
 Para saber mais, confira os seguintes artigos:
 
-- [Visão geral do módulo de Preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP)
+- [Preços - Visão geral](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP)
 - [Cadastro de preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29)
 
 ### 3. Envio

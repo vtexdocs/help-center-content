@@ -24,51 +24,41 @@ To use Nuvei, follow the steps below:
 
 ## Configuring Nuvei provider on VTEX
 
-<blockquote><ui>1. In the VTEX Admin, go to **Store Settings > Payment > Providers**, or type **Providers** in the search bar at the top of the page.</ui>
+1. In the VTEX Admin, go to **Store Settings > Payment > Providers**, or type **Providers** in the search bar at the top of the page.
+2. On the providers screen, click the **New Provider** button.
+3. Type the name **nuvei-payment-provider** in the search bar and click on the name of the provider.
+4. In **Provider Authorization**, fill in the **App key** and **App token** fields with with your Nuvei account information.
+5. If you wish to modify the identification name to be displayed for the Nuvei provider on the VTEX Admin screen, enter the information in the **Name** field in **Basic Information**.
+6. In **Payment Control**, select whether you want to activate the provider in a test environment by clicking **Enable test mode**.
+7. In the **Automatic settlement** field, select one of the following option:
+- **Use behavior recommended by the payment processor**: Capture is not automatic; it is scheduled according to the period specified by the acquirer. The acquirer indicates whether the payment has been authorized and can determine or recommend a number of days for the capture upon payment authorization. (This is the platform's default behavior).
+- **Automatic capture immediately after payment authorization**: Capture is automatically performed right after payment authorization, even if the transaction includes an anti-fraud analysis.
+- **Automatic capture immediately after anti-fraud analysis**: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic capture immediately after payment authorization".
+- **Disabled**: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.
 
-<blockquote><ui>2. On the providers screen, click the **New Provider** button.</ui>
+8. If you want to use [payment split](/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx) in your store, select the option **Enable payout split and send payment recipients** and indicate the **Accountable for payment processing charge** and **Accountable for chargebacks** (marketplace, sellers or marketplaces and sellers).
+9. To fill in the fields **Merchant Id**, **Merchant Site Id** and **Client Secret** (Secret Key), access the information available in **Settings > My Integration Settings** within the control panel of your account in the Nuvei environment.
 
-<blockquote><ui>3. Type the name **nuvei-payment-provider** in the search bar and click on the name of the provider.</ui>
+> ⚠️ Nuvei has specific credentials (Merchant Id, Merchant Site Id and Client Secret) for each type of environment. Access the test [(Integration)](sandbox.nuvei.com) and [Live](cpanel.nuvei.com) environments to identify the credentials relating to each of them.
 
-<blockquote><ui>4. In **Provider Authorization**, fill in the **App key** and **App token** fields with with your Nuvei account information.</ui>
+10. In **Environment**, select whether you want to configure the Nuvei provider in the **Integration** or **Live** environment.
+11. In **Test 3ds challenge Integration only**, if you have selected the test environment (**Integration**) it is possible to perform 3DS security tests using the **Force 3ds Challenge**, **Force 3ds Frictionless** or **User cardHolder name** options. For more information about the tests, access the [Nuvei](https://docs.nuvei.com/documentation/integration/testing/testing-cards/?highlight=test%20cards#3d-secure-v2-test-scenarios) documentation.
 
-<blockquote><ui>5. If you wish to modify the identification name to be displayed for the Nuvei provider on the VTEX Admin screen, enter the information in the **Name** field in **Basic Information**.</ui>
+> ⚠️ Whenever the provider's **Environment** is configured as **Live**, the option selected for the **Test 3ds challenge Integration only** field must be **User cardHolder name**.
 
-<blockquote><ui>6. In **Payment Control**, select whether you want to activate the provider in a test environment by clicking **Enable test mode**.</ui>
-
-<blockquote><ui>7. In the **Automatic settlement** field, select one of the following option:
-<ul>
-    	<li>**Use behavior recommended by the payment processor**: Capture is not automatic; it is scheduled according to the period specified by the acquirer. The acquirer indicates whether the payment has been authorized and can determine or recommend a number of days for the capture upon payment authorization. (This is the platform's default behavior).</li>
-    	<li>**Automatic capture immediately after payment authorization**: Capture is automatically performed right after payment authorization, even if the transaction includes an anti-fraud analysis.</li>
-    	<li>**Automatic capture immediately after anti-fraud analysis**: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic capture immediately after payment authorization".</li>
-    	<li>**Disabled**: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.</li>
-</ul></ui>
-
-<blockquote><ui>8. If you want to use [payment split](/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx) in your store, select the option **Enable payout split and send payment recipients** and indicate the **Accountable for payment processing charge** and **Accountable for chargebacks** (marketplace, sellers or marketplaces and sellers).</ui>  
-
-<blockquote><ui>9. To fill in the fields **Merchant Id**, **Merchant Site Id** and **Client Secret** (Secret Key), access the information available in **Settings > My Integration Settings** within the control panel of your account in the Nuvei environment.</ui>
-
-<blockquote><ui>> ⚠️ Nuvei has specific credentials (Merchant Id, Merchant Site Id and Client Secret) for each type of environment. Access the test [(Integration)](sandbox.nuvei.com) and [Live](cpanel.nuvei.com) environments to identify the credentials relating to each of them.</blockquote>
-<br>  
-<blockquote><ui>10. In **Environment**, select whether you want to configure the Nuvei provider in the **Integration** or **Live** environment.</ui>
-
-<blockquote><ui>11. In **Test 3ds challenge Integration only**, if you have selected the test environment (**Integration**) it is possible to perform 3DS security tests using the **Force 3ds Challenge**, **Force 3ds Frictionless** or **User cardHolder name** options. For more information about the tests, access the [Nuvei](https://docs.nuvei.com/documentation/integration/testing/testing-cards/?highlight=test%20cards#3d-secure-v2-test-scenarios) documentation.</ui>
-
- <blockquote><ui>> ⚠️ Whenever the provider's **Environment** is configured as **Live**, the option selected for the **Test 3ds challenge Integration only** field must be **User cardHolder name**.</blockquote>
-<br>
-<blockquote><ui>12. In **3DS**, select whether you want to use 3DS authentication.</ui>
-
-<blockquote><ui>13. Click **Save**.</ui>
+12. In **3DS**, select whether you want to use 3DS authentication.
+13. In **Marketplace (Split) - Payaut API Key**, fill in as indicated by the provider.
+14. Click `Save`.
 
 ## Configuring DMN Url on Nuvei
 
 To configure DMN Url information on Nuvei, follow the steps below:
 
 1. Access your Nuvei test environment ([Integration](sandbox.nuvei.com)) or [Live](cpanel.nuvei.com).
-2. On the __Settings__ menu, click __My Integration settings__.
-3. In __DMN URL__, replace the __{account-name}__ field with the name of your VTEX account.
+2. On the **Settings** menu, click **My Integration settings**.
+3. In **DMN URL**, replace the **{account-name}** field with the name of your VTEX account.
 
-`https://master--{account-name}.myvtex.com/_v/api/nuvei-payment-provider/v0/dmn` 
+`https://master--{account-name}.myvtex.com/_v/api/nuvei-payment-provider/v0/dmn`
 
 To configure the payment methods to be processed by Nuvei, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
 

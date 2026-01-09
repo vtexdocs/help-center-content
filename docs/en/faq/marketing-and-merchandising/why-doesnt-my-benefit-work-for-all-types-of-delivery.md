@@ -29,5 +29,5 @@ Once this has been done, the specified shipping types will enter the promotion a
 You can also activate the __Apply selected discount only when one of the above carriers is selected by the customer__ flag. In such case, the benefit will be applied to all shipping types selected by the customer.
 
 ### Related articles
-- [Overview: Promotions, taxes and coupons](/en/tutorial/overview-pricing-module)
+- [Promotions, taxes and coupons - Overview](/en/tutorial/overview-pricing-module)
 - [Creating benefits](/en/tutorial/creating-promotions-2)

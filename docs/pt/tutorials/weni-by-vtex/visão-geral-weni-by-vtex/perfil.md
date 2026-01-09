@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 ---
 
-#### Visão Geral
+#### Visão geral
 
 Sendo uma comunidade, a Weni é feita por seus usuários e colaboradores! Então, a seção Perfil permite que você gerencie sua conta e visualize todas as suas inteligências.
 

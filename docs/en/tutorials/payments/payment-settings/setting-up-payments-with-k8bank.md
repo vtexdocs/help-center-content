@@ -15,27 +15,24 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the K8Bank payment provider. With this provider, your store can make sales through a credit, debit, private labels and cobranded cards, bank invoices and PIX.
+At VTEX, it is possible to integrate with the K8Bank payment provider. With this provider, your store can make sales through credit, debit, private labels, and cobranded cards, bank invoices, and PIX.
 
 To configure K8Bank, follow the steps below:
 
-1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
-2. On the providers screen, click the `New Provider` button.
-3. Type the name __K8Bank__ in the search bar and click on the name of the provider.
-4. Fill in the __Application Key__, __Application Token__, __cnpj__ and __CobrancasClientId__ fields with the data provided by K8Bank.
-5. In the __Payment capture__ field, select one of the following option:
-<br>
-<ul>
-<br>
-    	<li>**Use Behavior Recommended By The Payment Processor**: Capture is not automatic; it is scheduled according to the period specified by the acquirer. The acquirer indicates whether the payment has been authorized and can determine or recommend a number of days for the capture upon payment authorization. (This is the platform's default behavior).</li>
-    	<li>**Immediate: Automatic Capture Immediately After Payment Authorization**: Capture is automatically performed right after payment authorization, even if the transaction includes an anti-fraud analysis.</li>
-   		<li>**Immediate: Automatic Capture Immediately After Anti-fraud Analysis**: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic Capture Immediately After Payment Authorization".</li>
-   		<li>**Scheduled: Schedules The Automatic Capture**: By selecting this option, the field **Scheduled time frame in hours for automatic capture** will be displayed, and it must be completed with the period in which the automatic capture will take place. This period must be in accordance with the limits allowed by the payment provider.</li>        
-   		<li>**Deactivated: Not Automatically Captured**: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.</li>
-</ul>
-6. In __Enable payout split and sending payment recipients?__, select whether split payments will be available for the marketplace and sellers.
-
-7. Click on the `Save` button.
+1. In the VTEX Admin, go to **Store Settings > Payment > Providers**, or type **Providers** in the search bar at the top of the page.
+2. On the provider's screen, click the `New Provider` button.
+3. Type the name **K8Bank**  in the search bar and click on the name of the provider.
+4. In **Provider Authorization**, fill in the **App Key** and **App token** fields with data provided by K8Bank.
+5. If you wish to modify the identification name to be displayed for the K8Bank provider on the VTEX Admin screen, enter the information in the **Name** field in **Basic Information**.
+6. In **Payment Control**, select whether you want to activate the provider in a test environment by clicking **Enable test mode**.
+7. In the **Automatic settlement** field, select one of the following options:
+  - **Use behavior recommended by the payment processor**: Capture is not automatic; it is scheduled according to the period specified by the acquirer. The acquirer indicates whether the payment has been authorized and can determine or recommend a number of days for the capture upon payment authorization. (This is the platform's default behavior).
+  - **Automatic capture immediately after payment authorization**: Capture is automatically performed right after payment authorization, even if the transaction includes an anti-fraud analysis.
+  - **Automatic capture immediately after anti-fraud analysis**: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic capture immediately after payment authorization".
+  - **Disabled**: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.
+8. If you want to use [payment split](https://help.vtex.com/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx) in your store, select the option **Enable payout split and send payment recipients** and indicate the **Accountable for payment processing charges** and **Accountable for chargebacks** (marketplace, sellers or marketplaces and sellers).
+9. In **Provider Fields**, select or complete the fields **cnpj** and **CobrancasClientId** according to the provider's instructions.
+10. Click `Save`.
 
 To configure the payment methods to be processed by K8Bank, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
 

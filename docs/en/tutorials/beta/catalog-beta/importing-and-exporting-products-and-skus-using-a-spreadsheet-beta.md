@@ -3,7 +3,7 @@ title: 'Importing and exporting products and SKUs using a spreadsheet (Beta)'
 id: 5udKxWP1ZeBD7QB7Fy2BNl
 status: PUBLISHED
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2025-11-05T15:30:32.980Z
+updatedAt: 2026-01-09T15:30:32.980Z
 publishedAt: 2025-11-05T15:30:32.980Z
 firstPublishedAt: 2025-09-05T18:41:30.755Z
 contentType: tutorial
@@ -51,6 +51,9 @@ To export a `.xlsx` file with product and SKU information, follow these steps:
 1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type [Products and SKUs](/en/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) in the search bar at the top of the page.
 2. (Optional) If you want to export a subset of products and SKUs, [search](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#searching-for-a-product) or a [filter](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#filtering-products) the desired items. This step is not required to export all products and/or SKUs.
 3. At the top of the page, click `Export`.
+
+  > ⚠️ The export limit is 100,000 products.
+
 4. Click `Products and SKUs`.
 5. In the **Export** modal, select the checkboxes for **Product fields** and/or **SKU fields** as desired. Required fields can't be unchecked.
 

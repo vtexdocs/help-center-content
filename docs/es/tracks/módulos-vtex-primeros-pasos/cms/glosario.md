@@ -22,7 +22,7 @@ La siguiente tabla de conceptos presenta terminologías del VTEX CMS.
 | Concepto    | Descripción|
 | ----------  | ---------- |
 | VTEX IO | Un entorno de desarrollo nativo que permite al desarrollador crear rápidamente aplicaciones web de alta calidad, sin tener que lidiar con cuestiones de infraestructura y escalabilidad. Aprovechando la plataforma VTEX IO, la solución VTEX IO Store Framework permite a los usuarios del Admin ser asistidos por el **Site Editor** para realizar actualizaciones del contenido de la tienda. Artículos relacionados:[What is VTEX IO?](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-what-is-vtex-io), [What is Store Framework?](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-what-is-vtex-store-framework), [Site Editor](/es/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1)|
-| Legado| Legado es el nombre de una tecnología basada en HTML y CSS que algunas tiendas VTEX utilizan para crear, organizar, editar y definir toda la estructura de carpetas, archivos y componentes para conformar el storefront como deseen. Artículos relacionados: [CMS Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z#legacy-cms-portal)|
+| Legado| Legado es el nombre de una tecnología basada en HTML y CSS que algunas tiendas VTEX utilizan para crear, organizar, editar y definir toda la estructura de carpetas, archivos y componentes para conformar el storefront como deseen. Artículos relacionados: [CMS Portal (Legado)](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z#legacy-cms-portal)|
 | Binding | Antes de que pueda comenzar a organizar el contenido, su sitio debe estar vinculado a la tienda como se define en la configuración de su cuenta. Esto se debe a que cada cuenta puede tener varias tiendas, cada una asociada con una estructura de carpetas distinta.Al hacer el binding, usted le dice a la plataforma qué tienda "posee" esa estructura de carpetas específica. Artículos relacionados: [Qué es binding?](/es/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete) |
 | SEO     | Search Engine Optimization (SEO) es un conjunto de prácticas que mejoran la calidad del tráfico del sitio web mediante un mejor posicionamiento en los resultados de los motores de búsqueda.|
 
@@ -40,7 +40,7 @@ La siguiente tabla de conceptos presenta terminologías del VTEX CMS.
 
 | Concepto    | Descripción|
 | ----------  | ---------- |
-| Sites and Channels  | El área de CMS que almacena toda la estructura de carpetas del sitio de su tienda. Aquí es donde crea y organiza los layouts de su sitio, como veremos más adelante. Artículo relacionado: [CMS Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z#cms-portal-legado) |
+| Sites and Channels  | El área de CMS que almacena toda la estructura de carpetas del sitio de su tienda. Aquí es donde crea y organiza los layouts de su sitio, como veremos más adelante. Artículo relacionado: [CMS Portal (Legado)](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z#cms-portal-legado) |
 | Template | Son los archivos que contienen el código de las páginas de tu sitio web. Determinan, entre otras cosas, cómo aparece la información en la pantalla (incluida la posición de los placeholders). En la plataforma VTEX, las plantillas se dividen en dos tipos: HTML Templates (o plantillas de página) y Shelves templates.</br></br>Artículo relacionado: [Layout](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z#layout)|
 | Layout  | es responsable de determinar qué elementos |
 

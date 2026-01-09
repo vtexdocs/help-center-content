@@ -1,5 +1,5 @@
 ---
-title: 'Headless CMS - Visión general'
+title: 'Headless CMS - Información general'
 id: 3U5gvhHdQL0jczYH8gjX09
 status: PUBLISHED
 createdAt: 2023-12-15T20:27:39.404Z

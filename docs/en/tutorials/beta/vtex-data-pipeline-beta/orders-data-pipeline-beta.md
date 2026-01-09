@@ -108,6 +108,7 @@ The *latest* table stores the latest status of each order, including details suc
 |changesattachment_id|character varying(256)|ID of the customization attachment of the order.|
 |changesattachment_changesdat a|super|Details of changes made to the order.|
 |shippingdata_postal_code|character varying(256)|Postal code of the order's shipping address.|
+|seller_parent_account| character varying(100)| Outline the parent account of the given store. If the current store is the parent, then the value is null.|
 
 ## Table: `orders_historical`
 
@@ -167,6 +168,7 @@ The `historical` table stores a complete record of all order updates. The table 
 |changesattachment_id|character varying(256)|Unique identifier for a change operation related to the order.|
 |changesattachment_changesda ta|super|Details of changes made to the order, such as adding or removing items and other modifications.|
 |shippingdata_postal_code|character varying(256)|Postal code of the order's shipping address.|  
+|seller_parent_account| character varying(100)| Outline the parent account of the given store. If the current store is the parent, then the value is null.|
 
 ## Table: `orders_totals`
 
@@ -349,6 +351,7 @@ The *items* table stores details about the individual items in each order, inclu
 |measurementunit|character varying(65535)|Unit of measure of the product.|
 |unitmultiplier|double precision|Unit multiplier for the product, used in price and quantity calculations.|
 |batch_id|character varying(13)|Identifier used when data is loaded into the table for quality control of data ingestion.|
+|uniqueid|character varying(65535)|Unique id of the given item, which can be used to join this row with other tables.|
 
 ## Table: `orders_extra_info`
 

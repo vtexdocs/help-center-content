@@ -1,5 +1,5 @@
 ---
-title: 'Visão geral: Audiência de campanhas, promoções, taxas e cupons'
+title: 'Visão geral - Audiência de campanhas, promoções, taxas e cupons'
 id: tutorials_326
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:08.926Z

@@ -1,5 +1,5 @@
 ---
-title: 'Vista general de las políticas comerciales en B2B'
+title: 'Políticas comerciales en B2B - Información general'
 id: sKrYjDJPBChgIxzYFpUvu
 status: PUBLISHED
 createdAt: 2024-07-05T11:20:38.780Z

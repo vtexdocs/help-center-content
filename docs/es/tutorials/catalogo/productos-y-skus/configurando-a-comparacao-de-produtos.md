@@ -15,7 +15,7 @@ locale: es
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-> ⚠️ Este tutorial solo es válido para tiendas CMS Portal Legado.
+> ⚠️ Este tutorial solo es válido para tiendas CMS Portal (Legado).
 
 La comparación de productos es una función nativa de VTEX que permite mostrar en paralelo los detalles y especificaciones de productos previamente seleccionados, lo que permite al usuario comparar los productos de la tienda de forma sencilla y visualizar fácilmente las diferencias entre sus especificaciones.
 

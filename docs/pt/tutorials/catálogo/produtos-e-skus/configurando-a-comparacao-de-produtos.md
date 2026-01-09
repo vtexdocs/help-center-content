@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-> ⚠️ Tutorial válido apenas para lojas CMS Portal Legado.
+> ⚠️ Tutorial válido apenas para lojas CMS Portal (Legado).
 
 A comparação de produtos é um recurso nativo da VTEX que permite exibir, lado a lado, detalhes e especificações de produtos previamente selecionados, possibilitando que o usuário compare os produtos da loja de forma simples e visualize facilmente as diferenças entre suas especificações.
 

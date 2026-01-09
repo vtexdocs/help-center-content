@@ -3,7 +3,7 @@ title: 'Importar y exportar productos y SKUs mediante plantilla (Beta)'
 id: 5udKxWP1ZeBD7QB7Fy2BNl
 status: PUBLISHED
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2025-11-05T15:30:32.980Z
+updatedAt: 2026-01-09T15:30:32.980Z
 publishedAt: 2025-11-05T15:30:32.980Z
 firstPublishedAt: 2025-09-05T18:41:30.755Z
 contentType: tutorial
@@ -51,6 +51,9 @@ Para exportar un archivo `.xlsx` con información sobre tus productos y SKUs sig
 1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa [Productos y SKUs](/es/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) en la barra de búsqueda en la parte superior de la página.
 2. (Opcional) Si deseas exportar determinados productos y SKUs, [busca](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By#buscar-productos) o [filtra](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By#filtrar-productos) los ítems deseados. Este paso no es necesario para exportar todos los productos y/o SKUs.
 3. En la parte superior de la página, haz clic en `Exportar`.
+
+  > ⚠️ El límite de exportación es de 100.000 productos.
+  
 4. Haz clic en `Productos y SKUs`.
 5. En la ventana modal de exportación selecciona el ícono correspondiente a los **Campos de producto** y/o **Campos de SKU**, según lo deseado. Los campos obligatorios no pueden deseleccionarse.
 

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 ---
 
-> ⚠️ A VTEX apresenta duas opções da busca - a busca do Portal CMS Legado e o VTEX Intelligent Search. Esse artigo se refere à busca do Portal CMS Legado. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse a trilha [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+> ⚠️ A VTEX apresenta duas opções da busca - a busca do CMS Portal (Legado) e o VTEX Intelligent Search. Esse artigo se refere à busca do CMS Portal (Legado). Para saber mais sobre o aplicativo VTEX Intelligent Search acesse a trilha [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 Se você precisa utilizar, em seus produtos, palavras que talvez não sejam importantes para o buscador, existem algumas boas práticas que podem ser adotadas:
 

@@ -15,7 +15,7 @@ trackSlugEN: customer-credit-como-empezar
 order: 1
 ---
 
-En esta guía encontrará instrucciones paso a paso para instalar y configurar la aplicación Customer Credit. Para obtener más información sobre esta aplicación, visite [Customer Credit - Visión General](/es/tutorial/customer-credit-vision-general--1uIqTjWxIIIEW0COMg4uE0).
+En esta guía encontrará instrucciones paso a paso para instalar y configurar la aplicación Customer Credit. Para obtener más información sobre esta aplicación, visite [Customer Credit - Información general](/es/tutorial/customer-credit-vision-general--1uIqTjWxIIIEW0COMg4uE0).
 
 Para instalar Customer Credit en su tienda, siga los pasos a continuación:
 

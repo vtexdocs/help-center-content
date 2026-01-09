@@ -1,5 +1,5 @@
 ---
-title: 'Visão geral da integração com a Rappi'
+title: 'Integração com a Rappi - Visão geral'
 id: 7y40IL3ajiukMRHrX3XmC8
 status: PUBLISHED
 createdAt: 2024-05-31T20:24:26.112Z

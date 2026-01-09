@@ -24,8 +24,8 @@ On VTEX, A/B testing can be conducted using the following store development tech
 
 | Technology | Is native A/B testing possible?   | Reference    |
 | ---------- | ---------- | ---------- |
-| CMS Portal Legado - VTEX IO (Store Framework) | Yes     | [A/B testing Legacy and IO store versions](https://developers.vtex.com/docs/guides/vtex-io-documentation-performing-ab-testing-between-legacy-and-io)     |
-| CMS Portal Legado - FastStore | No | - |
+| Legacy CMS Portal - VTEX IO (Store Framework) | Yes     | [A/B testing Legacy and IO store versions](https://developers.vtex.com/docs/guides/vtex-io-documentation-performing-ab-testing-between-legacy-and-io)     |
+| Legacy CMS Portal - FastStore | No | - |
 | VTEX IO (Store Framework) - VTEX IO (Store Framework)   | No | - |
 | VTEX IO (Store Framework) - FastStore     | No | - |
 | FastStore - FastStore  | No | - |

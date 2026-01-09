@@ -42,7 +42,7 @@ Binding is the process of linking your website to a store. For more details, see
 
 ![layout-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/cms-vtex-io_2.png)
 
-> ℹ️ Except the **Sites and channels**folder, all the other features in the **Layout** section of the VTEX Admin are only available for CMS Portal Legado stores.
+> ℹ️ Except the **Sites and channels**folder, all the other features in the **Layout** section of the VTEX Admin are only available for Legacy CMS Portal stores.
 
 ## Banners
 

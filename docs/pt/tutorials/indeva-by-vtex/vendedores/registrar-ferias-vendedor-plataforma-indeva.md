@@ -23,7 +23,7 @@ Para registrar o período de férias de um vendedor, siga as etapas abaixo:
 </ol>
 
 <img
-  src="https://cdn.elev.io/file/uploads/QBzHaXAsXxOVU9cJt8qy4K7_fCUmprAgEkSOPIaQEPs/CwwM1wnv-rIrotcLhq-pPCktB8xZqs4NkmhkPzqseEM/Snap%202018-01-19%20at%2011.03.08-kQ0.png"
+  src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/registrar-ferias-vendedor-plataforma-indeva_1.png"
   alt="Tela com opções de ações no cadastro de vendedores"
   loading="lazy"
 />
@@ -35,7 +35,7 @@ Para registrar o período de férias de um vendedor, siga as etapas abaixo:
 </ol>
 
 <img
-  src="https://cdn.elev.io/file/uploads/QBzHaXAsXxOVU9cJt8qy4K7_fCUmprAgEkSOPIaQEPs/N8c_3OlADCZAPqOOCqqb26lkKIE2p4PM8ruun8QweT0/Snap%202018-01-19%20at%2015.06.41-6Hw.png"
+  src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/registrar-ferias-vendedor-plataforma-indeva_2.png"
   alt="Tela de preenchimento das datas de férias do vendedor"
   loading="lazy"
 />

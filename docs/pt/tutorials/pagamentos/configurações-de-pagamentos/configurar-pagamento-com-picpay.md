@@ -19,10 +19,10 @@ O PicPay é uma [carteira digital](/pt/faq/o-que-e-uma-carteira-digital-e-wallet
 
 Para configurar PicPay, siga os passos abaixo:
 
-1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+1. No Admin VTEX, acesse **Configurações da loja > Pagamentos > Provedores**, ou digite **Provedores** na barra de busca no topo da página.
 2. Na tela de provedores, clique no botão `Novo provedor`.
-3. Digite o nome __PicPay__ na barra de busca e clique sobre o nome do provedor.
-4. Preencha os campos _Application Key_ e _Application Token_ com as informações da sua conta __PicPay__.
+3. Digite o nome **PicPay** na barra de busca e clique sobre o nome do provedor.
+4. Preencha os campos **Chave de aplicação** e **Token de aplicação** com as informações da sua conta **PicPay**.
 5. Clique em `Salvar`.
 
 ## Configurar condição de pagamento PicPay

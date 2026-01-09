@@ -42,9 +42,9 @@ Antes de começar a implementação do frontend, é recomendado que a loja tenha
 
 ## Tecnologias de desenvolvimento de frontend na VTEX
 
-A VTEX possui três tecnologias distintas para o desenvolvimento de frente de loja: a [FastStore](#FastStore), o [Store Framework](#store-framework) e o [CMS Portal Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). O CMS Portal Legado foi a primeira tecnologia da VTEX para construção de frente de loja, baseada em HTML, CSS e JavaScript, e todo o desenvolvimento e a edição do código dessa tecnologia são feitos via Admin VTEX.
+A VTEX possui três tecnologias distintas para o desenvolvimento de frente de loja: a [FastStore](#FastStore), o [Store Framework](#store-framework) e o [CMS Portal (Legado)](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). O CMS Portal (Legado) foi a primeira tecnologia da VTEX para construção de frente de loja, baseada em HTML, CSS e JavaScript, e todo o desenvolvimento e a edição do código dessa tecnologia são feitos via Admin VTEX.
 
-> ⚠️ Apesar de ainda ser usado por algumas lojas, o [CMS Portal Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) é uma tecnologia legada e não está mais disponível para lojas que estão iniciando com a VTEX.
+> ⚠️ Apesar de ainda ser usado por algumas lojas, o [CMS Portal (Legado)](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) é uma tecnologia legada e não está mais disponível para lojas que estão iniciando com a VTEX.
 
 As próximas seções são sobre as principais características e funcionalidades da FastStore e do Store Framework.
 

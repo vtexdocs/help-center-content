@@ -46,4 +46,4 @@ Para configurá-los, você precisa contratar um plano em uma dessas empresas e s
 
 ### Artigos relacionados
 - [Como configurar o antifraude](/pt/tutorial/como-configurar-antifraude)
-- [Visão geral do Pagamentos](/pt/tutorial/pci-gateway-visao-geral)
+- [Pagamentos - Visão geral](/pt/tutorial/pci-gateway-visao-geral)

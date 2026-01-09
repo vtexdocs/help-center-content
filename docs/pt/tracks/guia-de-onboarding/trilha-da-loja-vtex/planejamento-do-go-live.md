@@ -122,8 +122,8 @@ Após a conclusão dos testes e ajustes necessários, é preciso preparar a loja
       <td class="t-body pa5" style="min-width: 10rem;">Solicitar o [apontamento interno de DNS para VTEX IO](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-io) por meio de um ticket para o [Suporte VTEX](https://supporticket.vtex.com/support).<br>Mais informações nos artigos:<ul><li>[Going live with a new store](https://developers.vtex.com/docs/guides/vtex-io-documentation-go-live) (Store Framework)</li><li>[Migrating your storefront from Legacy CMS Portal to Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-storefront-from-legacy-to-io)</li><li>[Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns) (FastStore)</li></ul></td>
     </tr>
     <tr class="bb b--muted-3">
-      <td class="t-body pa5" style="min-width: 10rem;">CMS Portal Legado</td>
-      <td class="t-body pa5" style="min-width: 10rem;">Se o acesso à loja é restrito por [política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) com regra condicional e sua frente de loja foi construída com [CMS Portal Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), é preciso solicitar um [apontamento interno especial](/pt/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-especial). Um exemplo comum são as lojas B2B, que restringem o acesso a empresas pré-aprovadas. A solicitação de apontamento especial é feita pelo [Suporte VTEX](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ/), indicando a política comercial e a regra condicional configurada.</td>
+      <td class="t-body pa5" style="min-width: 10rem;">CMS Portal (Legado)</td>
+      <td class="t-body pa5" style="min-width: 10rem;">Se o acesso à loja é restrito por [política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) com regra condicional e sua frente de loja foi construída com [CMS Portal (Legado)](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), é preciso solicitar um [apontamento interno especial](/pt/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-especial). Um exemplo comum são as lojas B2B, que restringem o acesso a empresas pré-aprovadas. A solicitação de apontamento especial é feita pelo [Suporte VTEX](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ/), indicando a política comercial e a regra condicional configurada.</td>
     </tr>
   </tbody>
   </table>
@@ -131,7 +131,7 @@ Após a conclusão dos testes e ajustes necessários, é preciso preparar a loja
 Independente do tipo de solicitação a ser encaminhada, o ticket para o Suporte VTEX deve conter as seguintes informações:
 
 - Título informando a intenção de realizar o go-live.
-- Se a [tecnologia de frente de loja](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) foi desenvolvida em VTEX IO ou CMS Portal Legado.
+- Se a [tecnologia de frente de loja](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) foi desenvolvida em VTEX IO ou CMS Portal (Legado).
 - URL a ser apontada.
 - Horário para o apontamento interno ocorrer, entre 9 e 17 BRT (UTC-3).
 - Informar se a loja tem regras condicionais de [políticas comerciais](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE).
@@ -168,7 +168,7 @@ Após o go-live, é possível acessar a loja no [domínio cadastrado](/pt/tracks
 
 Recomendamos acompanhar o desempenho da loja após o lançamento a partir do menu de [Dashboards](/pt/tutorial/visao-geral-dashboards--1yn2nZUoXtDO3teTEJsCNl) no Admin VTEX, que inclui as seguintes páginas:
 
-- [Visão Geral](/pt/tutorial/store-overview--P8ahguoRs0U3PzmXg2wuQ): principais métricas que impactam a receita das lojas. Nesse painel, é possível acompanhar os principais indicadores da evolução das vendas através dos recursos de análise de tendências de pedidos, taxa de conversão e gráficos de funil de vendas.
-- [Performance de Vendas](/pt/tutorial/sales-performance--3DMube0sEsK9vPcRYGas72): painel de controle para comércio unificado, que auxilia lojas a ampliarem seu negócio e tomarem decisões com mais precisão.
+- [Visão geral](/pt/tutorial/store-overview--P8ahguoRs0U3PzmXg2wuQ): principais métricas que impactam a receita das lojas. Nesse painel, é possível acompanhar os principais indicadores da evolução das vendas através dos recursos de análise de tendências de pedidos, taxa de conversão e gráficos de funil de vendas.
+- [Performance de vendas](/pt/tutorial/sales-performance--3DMube0sEsK9vPcRYGas72): painel de controle para comércio unificado, que auxilia lojas a ampliarem seu negócio e tomarem decisões com mais precisão.
 
 Além das ferramentas disponíveis no Admin VTEX, é possível acompanhar a performance da loja pelo [Google Analytics](https://analytics.google.com/analytics/web/), caso tenha sido configurado anteriormente. Para obter mais informações, basta acessar o guia [Configurar Google Analytics 4 em loja VTEX](/pt/tutorial/como-configurar-google-analytics-em-loja-vtex--G2P0rmSrEiqCcmUMyUUwG).

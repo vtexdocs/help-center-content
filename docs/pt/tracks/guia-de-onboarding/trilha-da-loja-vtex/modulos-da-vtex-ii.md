@@ -143,7 +143,7 @@ Na VTEX, é possível oferecer carteiras digitais nativas, como o [Google Pay](/
 
 Customer credit é a solução da VTEX para permitir que crédito seja oferecido a clientes específicos, possibilitando um prazo maior para o pagamento de suas compras. Por meio deste app, é possível ter acesso a gerenciamento de clientes, configuração de prazos e parcelamentos, definição de crédito e acompanhamento de status de títulos de cobrança emitidos, entre outras funcionalidades.
 
-Para mais informações, acesse [Customer Credit - Visão Geral](/pt/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0) e [Customer Credit - Como Começar](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
+Para mais informações, acesse [Customer Credit - Visão geral](/pt/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0) e [Customer Credit - Como Começar](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
 
 ## Pedidos
 

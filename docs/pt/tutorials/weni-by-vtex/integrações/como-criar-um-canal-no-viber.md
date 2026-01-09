@@ -19,11 +19,13 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Para criar o canal, clique em **""Aplicações > Descobertas""** dentro do seu projeto:
 
-![](https://files.helpdocs.io/fjqoxc429v/articles/deao4urhfi/1728477549682/image.png
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-criar-um-canal-no-viber.png) 
 
 Logo após, clique no botão de adicionar e uma janela de confirmação será aberta.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-criar-um-canal-no-viber_1.png) ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-criar-um-canal-no-viber_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-criar-um-canal-no-viber_1.png) 
+
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/como-criar-um-canal-no-viber_2.png)
 
 Poderá encontrar o aplicativo em Meus Aplicativos. Ao clicar no local indicado na imagem > Configurar, uma nova janela será aberta
 

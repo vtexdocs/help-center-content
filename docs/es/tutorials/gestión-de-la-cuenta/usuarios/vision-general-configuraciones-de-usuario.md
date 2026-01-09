@@ -1,5 +1,5 @@
 ---
-title: 'Visión General Configuraciones de Usuário'
+title: 'Configuraciones de Usuário - Información general'
 id: 3Qsy4ce1FrWKZPoMeEQY34
 status: PUBLISHED
 createdAt: 2023-03-28T19:17:26.175Z

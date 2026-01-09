@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7BtmQ6zk6O7VJ7QumXJEiM
 ---
 
-#### Visão Geral
+#### Visão geral
 
 Agentes ativos são projetados para agir de forma proativa com base em regras e condições predefinidas. Ao contrário dos agentes passivos, que reagem apenas às interações dos usuários, os agentes ativos podem iniciar ações ou comunicações quando determinados critérios são atendidos, muitas vezes desencadeadas por mudanças em dados ou eventos do sistema. O comando para fazer o deploy de um agente ativo é o mesmo utilizado para outros agentes: `weni project push agent_definition.yaml`
 

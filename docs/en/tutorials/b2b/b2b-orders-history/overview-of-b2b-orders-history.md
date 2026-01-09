@@ -1,5 +1,5 @@
 ---
-title: 'Overview of B2B Orders History'
+title: 'B2B Orders History - Overview'
 id: C2i93MZmjSrqhEx16YYuA
 status: PUBLISHED
 createdAt: 2024-07-26T13:17:45.094Z

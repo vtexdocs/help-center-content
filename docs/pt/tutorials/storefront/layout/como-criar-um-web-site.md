@@ -16,7 +16,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial válido apenas para lojas CMS Portal Legado.
+Tutorial válido apenas para lojas CMS Portal (Legado).
 </div>
 
 Um [website](/pt/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete) consiste em uma série de pastas e arquivos que compõem e definem o conteúdo das páginas web exibidas para os visitantes da sua loja.
@@ -42,7 +42,7 @@ Siga os passos a seguir para criar um website ou colocar a sua primeira loja no 
 
 6. Em seguida, mude os templates e layouts do seu website como desejar. Para saber mais sobre como fazer essas mudanças, leia os artigos:
 
-   - [Visão geral do CMS Layout](/pt/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262).
+  - [CMS Portal (Legado) - Visão geral](/pt/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262).
   - [Criar um template de página](/pt/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850).
   - [Lista de controles para templates](/pt/tutorial/lista-de-controles-para-templates).
 
@@ -50,6 +50,6 @@ Siga os passos a seguir para criar um website ou colocar a sua primeira loja no 
 
 - [O que é um website?](/pt/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
 - [Vincular um account name a um website (binding)](/pt/tutorial/vincular-um-account-name-a-um-website-binding)
-- [Visão geral do CMS Layout](/pt/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262)
+- [CMS Portal (Legado) - Visão geral](/pt/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262)
 - [Criar um template de página](/pt/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850)
 - [Lista de controles para templates](/pt/tutorial/lista-de-controles-para-templates)

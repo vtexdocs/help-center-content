@@ -1,5 +1,5 @@
 ---
-title: 'CMS - Visión general'
+title: 'CMS - Información general'
 id: 6OCY6S9tqBXPD5mgpbBInC
 status: PUBLISHED
 createdAt: 2020-01-08T13:23:56.157Z
@@ -27,5 +27,5 @@ Los siguientes artículos detallan las funcionalidades del CMS de cada tecnolog�
 
 - [FastStore CMS](/es/tutorial/gestion-de-paginas--3DO6rBhZ1p3zndnFu5BgRt)
 - [Store Framework CMS](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2)
-- [CMS Portal Legado](/es/tutorial/que-es-el-cms-layout--EmO8u2WBj2W4MUQCS8262)
+- [CMS Portal (Legado)](/es/tutorial/que-es-el-cms-layout--EmO8u2WBj2W4MUQCS8262)
 

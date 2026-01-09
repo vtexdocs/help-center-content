@@ -23,7 +23,7 @@ Antes só era possível visualizar e exportar relatórios sobre os resultados de
 <table width = "100%">
   <tr>
     <td>
-      <img src = "https://images.ctfassets.net/alneenqid6w5/2QF4oxUnywaQz8RZjm85SJ/a3fa0d57d6e5fa330b042b106c1f7a2a/relatorios-filtros-PT.png" style = "display:block; margin-left: auto; margin-right: auto;" alt = "Opções de filtros do relatório" title = "Opções de filtros do relatório">
+      <img src = "https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/october/2020-10-13-metricas-do-autocomplete-agora-disponiveis-nos-relatorios-de-busca_1.png" style = "display:block; margin-left: auto; margin-right: auto;" alt = "Opções de filtros do relatório" title = "Opções de filtros do relatório">
     </td>
   </tr>
   <tr>

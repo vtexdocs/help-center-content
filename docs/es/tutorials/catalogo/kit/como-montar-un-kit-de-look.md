@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 17Lkzo2rGBE1Bt7dXjE0tV
 ---
 
-> ⚠️ Tutorial válido solo para tiendas CMS Portal Legado.
+> ⚠️ Tutorial válido solo para tiendas CMS Portal (Legado).
 
 Aprenda cómo configurar en VTEX un kit de look o Lookbook.
 

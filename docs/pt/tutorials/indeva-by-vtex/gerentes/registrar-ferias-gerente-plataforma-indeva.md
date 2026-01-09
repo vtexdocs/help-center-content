@@ -23,7 +23,7 @@ Para registrar o período de férias de um gerente, siga as etapas abaixo:
 </ol>
 
 <img
-  src="https://cdn.elev.io/file/uploads/QBzHaXAsXxOVU9cJt8qy4K7_fCUmprAgEkSOPIaQEPs/-Ch-pVry6Kocsz4AVPKTw4JYHcZ8VTONNLLBsFQZdsQ/Snap%202018-11-23%20at%2016.02.57-KRk.png"
+  src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/gerentes/registrar-ferias-gerente-plataforma-indeva_1.png"
   alt="Tela com opções de ações no cadastro de gerentes"
   loading="lazy"
 />
