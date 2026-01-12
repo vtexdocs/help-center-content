@@ -49193,6 +49193,21 @@
             },
             {
               "name": {
+                "en": "APP FBE CAPI Purchase event not deduplicated in headless checkout (FBP/external_id dependency on VTEX Checkout)",
+                "es": "APP FBE El evento de compra CAPI no se deduplica en el proceso de pago sin interfaz (dependencia de FBP/external_id en VTEX Checkout).",
+                "pt": "APP FBE Evento de compra CAPI não deduplicado no checkout sem interface (dependência de FBP/external_id no VTEX Checkout)"
+              },
+              "slug": {
+                "en": "app-fbe-capi-purchase-event-not-deduplicated-in-headless-checkout-fbpexternalid-dependency-on-vtex-checkout",
+                "es": "app-fbe-el-evento-de-compra-capi-no-se-deduplica-en-el-proceso-de-pago-sin-interfaz-dependencia-de-fbpexternalid-en-vtex-checkout",
+                "pt": "app-fbe-evento-de-compra-capi-nao-deduplicado-no-checkout-sem-interface-dependencia-de-fbpexternalid-no-vtex-checkout"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Attribute meli_shipping_mode not being updated in MELI integration",
                 "es": "El atributo meli_shipping_mode no se actualiza en la integración MELI",
                 "pt": "O atributo meli_shipping_mode não está sendo atualizado na integração MELI"
@@ -65994,6 +66009,21 @@
                 "en": "custom-headers-are-not-applied-to-all-pages",
                 "es": "las-cabeceras-personalizadas-no-se-aplican-a-todas-las-paginas",
                 "pt": "os-cabecalhos-personalizados-nao-sao-aplicados-a-todas-as-paginas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Custom routes missing from Sitemap for subaccounts",
+                "es": "Rutas personalizadas que faltan en el mapa del sitio para las subcuentas",
+                "pt": "Rotas personalizadas ausentes do mapa do site para subcontas"
+              },
+              "slug": {
+                "en": "custom-routes-missing-from-sitemap-for-subaccounts",
+                "es": "rutas-personalizadas-que-faltan-en-el-mapa-del-sitio-para-las-subcuentas",
+                "pt": "rotas-personalizadas-ausentes-do-mapa-do-site-para-subcontas"
               },
               "origin": "",
               "type": "markdown",
