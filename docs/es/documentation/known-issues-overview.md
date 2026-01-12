@@ -46,18 +46,19 @@ A continuación se muestra una comparación entre ambos:
 
 ## Estructura de problemas conocidos
 
-![known-issue-article-overview](https://raw.githubusercontent.com/vtexdocs/content-portal-content/refs/heads/main/images/es/known-issues-1.png?raw=true)
+![known-issue-article-overview](https://github.com/vtexdocs/content-portal-content/blob/main/images/es/known-issue-article-overview.png?raw=true)
 
 | **Tema del artículo** | **Descripción** |
 | ----------------- | --------------- |
 | 1 - Título | Título del artículo que describe el problema. |
 | 2 - Nombre del producto | Tag del producto afectado por el problema. |
-| 3 - Status | Tag que describe el status del problema conocido. Estos son los status disponibles: <ol><li>`Resuelto`: el problema se ha solucionado y se ha implementado una solución.</li><li>`Backlog`: el problema se ha identificado, pero no se ha programado su solución. Podría priorizarse y programarse para una próxima versión.</li><li>`Programado`: el problema se ha priorizado y programado para su solución.</li><li>`No resuelto`: el problema no se corregirá, probablemente debido a bajo impacto, limitaciones técnicas u otras razones.</li></ol> |
-| 4 - Publicado el | Fecha en que se creó el artículo. |
-| 5 - Última actualización el | Fecha en que se actualizó el artículo por última vez. |
-| 6 - Resumen | Sección para describir el error. |
-| 7 - Simulación | Sección para describir qué pasos son necesarios para reproducir el comportamiento. |
-| 8 - Workaround | Sección para describir la solución alternativa al problema, si la hubiera. |
+| 3 - Zendesk ID | Identificador único del problema conocido en Zendesk. |
+| 4 - Status | Tag que describe el status del problema conocido. Estos son los status disponibles: <ol><li>`Resuelto`: el problema se ha solucionado y se ha implementado una solución.</li><li>`Backlog`: el problema se ha identificado, pero no se ha programado su solución. Podría priorizarse y programarse para una próxima versión.</li><li>`Programado`: el problema se ha priorizado y programado para su solución.</li><li>`No resuelto`: el problema no se corregirá, probablemente debido a bajo impacto, limitaciones técnicas u otras razones.</li></ol> |
+| 5 - Publicado el | Fecha en que se creó el artículo. |
+| 6 - Última actualización el | Fecha en que se actualizó el artículo por última vez. |
+| 7 - Sumario | Sección para describir el error. |
+| 8 - Simulación | Sección para describir qué pasos son necesarios para reproducir el comportamiento. |
+| 9 - Workaround | Sección para describir la solución alternativa al problema, si la hubiera. |
 
 ## Ejemplos de problemas conocidos
 
@@ -65,3 +66,8 @@ A continuación se muestra una comparación entre ambos:
 - [Transacciones bloqueadas tras el rechazo de riesgo](https://help.vtex.com/known-issues/stuck-transactions-after-risk-rejection--4LKwXp4P9IEkUh02vNZKiA)
 - [Promociones e impuestos no se aplican a los servicios](https://help.vtex.com/known-issues/benefits-and-taxes-are-not-applied-to-services--4u12zyfc387daNQamFohA2)
 - [FetchMore aporta valores repetidos entre el origen y el destino](https://help.vtex.com/known-issues/fetchmore-bringing-repeated-values-between-the-to-and-from--1Vx0YekKCDaf8t6hocU1iv)
+
+## Recursos relacionados
+
+- [Repositorio de problemas conocidos en GitHub](https://github.com/vtexdocs/known-issues/)
+- [Integración de problemas conocidos (Google Docs) (Interno)](https://docs.google.com/document/d/11Qy3cpSNZwyqv0fLhQb1LEw196rpMyuYMF0Zon_SIrU/edit)

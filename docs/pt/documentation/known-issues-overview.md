@@ -46,18 +46,19 @@ Para ilustrar melhor a diferença entre eles, veja a tabela abaixo:
 
 ## Estrutura de problemas conhecidos
 
-![known-issue-article-overview](https://vtexhelp.vtexassets.com/assets/docs/src/known-issue-article-overview___e5746db32fe1bc696a82b4e1f4fff087.png)
+![known-issue-article-overview](https://github.com/vtexdocs/content-portal-content/blob/main/images/pt/known-issue-article-overview.png?raw=true)
 
 | **Tema do artigo** | **Descrição** |
 | ----------------- | --------------- |
 | 1 - Título | Título do artigo que descreve o problema. |
 | 2 - Nome do produto | Tag para o produto afetado pelo problema. |
-| 3 - Status | Tag que descreve o status do problema conhecido. Estes são os status disponíveis: <ol><li>`Corrigido`: o problema foi resolvido e uma correção foi aplicada.</li><li>`Backlog`: o problema foi identificado, mas não há previsão para uma correção no momento. Ele pode ser priorizado e programado para uma versão futura.</li><li>`Agendado`: o problema foi priorizado e agendado para correção.</li><li>`Não resolvido`: o problema não será corrigido, provavelmente devido a baixo impacto, restrições técnicas ou outros motivos.</li></ol> |
-| 4 - Criado em | Data em que o artigo foi criado. |
-| 5 - Atualizado em | Data da última atualização do artigo. |
-| 6 - Resumo | Seção para descrever o bug. |
-| 7 - Simulação | Seção para descrever quais etapas são necessárias para reproduzir o comportamento. |
-| 8 - Workaround | Seção para descrever o workaround para o problema, caso exista. |
+| 3 - Zendesk ID | Identificador único do problema conhecido no Zendesk. |
+| 4 - Status | Tag que descreve o status do problema conhecido. Estes são os status disponíveis: <ol><li>`Corrigido`: o problema foi resolvido e uma correção foi aplicada.</li><li>`Backlog`: o problema foi identificado, mas não há previsão para uma correção no momento. Ele pode ser priorizado e programado para uma versão futura.</li><li>`Agendado`: o problema foi priorizado e agendado para correção.</li><li>`Não resolvido`: o problema não será corrigido, provavelmente devido a baixo impacto, restrições técnicas ou outros motivos.</li></ol> |
+| 5 - Publicado em | Data em que o artigo foi criado. |
+| 6 - Última atualização em | Data da última atualização do artigo. |
+| 7 - Sumário | Seção para descrever o bug. |
+| 8 - Simulação | Seção para descrever quais etapas são necessárias para reproduzir o comportamento. |
+| 9 - Workaround | Seção para descrever o workaround para o problema, caso exista. |
 
 ## Exemplos de problemas conhecidos
 
@@ -65,3 +66,8 @@ Para ilustrar melhor a diferença entre eles, veja a tabela abaixo:
 - [Transações bloqueadas após a rejeição do risco](https://help.vtex.com/known-issues/stuck-transactions-after-risk-rejection--4LKwXp4P9IEkUh02vNZKiA)
 - [Promoções e impostos não são aplicados a serviços](https://help.vtex.com/known-issues/benefits-and-taxes-are-not-applied-to-services--4u12zyfc387daNQamFohA2)
 - [FetchMore traz valores repetidos entre o to e o from](https://help.vtex.com/known-issues/fetchmore-bringing-repeated-values-between-the-to-and-from--1Vx0YekKCDaf8t6hocU1iv)
+
+## Recursos relacionados
+
+- [Repositório de problemas conhecidos no GitHub](https://github.com/vtexdocs/known-issues/)
+- [Integração de problemas conhecidos (Google Docs) (Interno)](https://docs.google.com/document/d/11Qy3cpSNZwyqv0fLhQb1LEw196rpMyuYMF0Zon_SIrU/edit)

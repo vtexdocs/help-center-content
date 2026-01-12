@@ -46,18 +46,19 @@ To better illustrate the difference between them, consider the following:
 
 ## Known Issue structure
 
-![known-issue-article-overview](https://vtexhelp.vtexassets.com/assets/docs/src/known-issue-article-overview___e5746db32fe1bc696a82b4e1f4fff087.png)
+![known-issue-article-overview](https://github.com/vtexdocs/content-portal-content/blob/main/images/en/known-issue-article-overview.png?raw=true)
 
 | **Article topic** | **Description** |
 | ----------------- | --------------- |
 | 1 - Title | Article title describing the issue. |
 | 2 - Product name | Tag for the product affected by the issue. |
-| 3 - Status | Tag describing the Known Issue status. These are the available status: <ol><li>`Fixed`: The issue has been solved, and a fix has been implemented.</li><li>`Backlog`: The issue has been identified but is not currently scheduled for a fix. It may be prioritized and scheduled for a future release.</li><li>`Scheduled`: The issue has been prioritized and scheduled for a fix.</li><li>`No fix`: The issue won’t be fixed, likely due to low impact, technical constraints, or other reasons.</li></ol> |
-| 4 - Created on | Date when the article was created. |
-| 5 - Updated on | Date when the article was last updated. |
-| 6 - Summary | Section to describe the bug. |
-| 7 - Simulation | Section to describe what steps are needed to reproduce the behavior. |
-| 8 - Workaround | Section to describe the workaround for the issue, if there’s any. |
+| 3 - Zendesk ID | Unique identifier of the known issue in Zendesk. |
+| 4 - Status | Tag describing the Known Issue status. These are the available status: <ol><li>`Fixed`: The issue has been solved, and a fix has been implemented.</li><li>`Backlog`: The issue has been identified but is not currently scheduled for a fix. It may be prioritized and scheduled for a future release.</li><li>`Scheduled`: The issue has been prioritized and scheduled for a fix.</li><li>`No fix`: The issue won’t be fixed, likely due to low impact, technical constraints, or other reasons.</li></ol> |
+| 5 - Published on | Date when the article was created. |
+| 6 - Last updated on | Date when the article was last updated. |
+| 7 - Summary | Section to describe the bug. |
+| 8 - Simulation | Section to describe what steps are needed to reproduce the behavior. |
+| 9 - Workaround | Section to describe the workaround for the issue, if there’s any. |
 
 ## Examples of Known Issues
 
@@ -65,3 +66,8 @@ To better illustrate the difference between them, consider the following:
 - [Stuck transactions after Risk Rejection](https://help.vtex.com/known-issues/stuck-transactions-after-risk-rejection--4LKwXp4P9IEkUh02vNZKiA)
 - [Benefits and taxes are not applied to services](https://help.vtex.com/known-issues/benefits-and-taxes-are-not-applied-to-services--4u12zyfc387daNQamFohA2)
 - [FetchMore brings repeated values between the to and from](https://help.vtex.com/known-issues/fetchmore-bringing-repeated-values-between-the-to-and-from--1Vx0YekKCDaf8t6hocU1iv)
+
+## Related resources
+
+- [Known Issues repository on GitHub](https://github.com/vtexdocs/known-issues/)
+- [Known Issues Integration (Google Docs) (Internal)](https://docs.google.com/document/d/11Qy3cpSNZwyqv0fLhQb1LEw196rpMyuYMF0Zon_SIrU/edit)
