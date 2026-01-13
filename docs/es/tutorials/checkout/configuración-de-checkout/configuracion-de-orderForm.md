@@ -16,7 +16,7 @@ subcategoryId:
 ---
 
 
-En las secciones a continuación, describimos algunos ajustes de seguridad disponibles en Checkout que se pueden activar mediante el endpoint[ Update orderForm configuration](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm).
+En las secciones a continuación, describimos algunos ajustes de seguridad disponibles en Checkout que se pueden activar mediante el endpoint [Update orderForm configuration](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm).
 
 ## Exigir inicio de sesión al completar una compra
 
@@ -28,7 +28,7 @@ Cuando activas este campo, [SmartCheckout](/es/tutorial/smartcheckout-security--
 
 Al definir un valor numérico para el campo `minimumPurchaseDowntimeSeconds`, puedes determinar el tiempo mínimo en segundos que un comprador debe esperar antes de realizar otra compra. Este ajuste evita que los clientes creen múltiples pedidos en un breve periodo de tiempo.
 
-Recomendamos configurar el valor de este campo como 90 segundos y utilizar este ajuste junto con [Exigir inicio de sesión al completar una compra](#exigir-inicio-de-sesion-al-completar-una-compra).
+Recomendamos configurar el valor de este campo como 90 segundos y utilizar este ajuste junto con [Exigir inicio de sesión al completar una compra](#exigir-inicio-de-sesión-al-completar-una-compra).
 
 ## Tiempo mínimo de existencia de un carrito para permitir el uso de una nueva tarjeta de crédito
 
