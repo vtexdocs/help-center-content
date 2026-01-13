@@ -20226,6 +20226,21 @@
                 },
                 {
                   "name": {
+                    "en": "orderForm settings",
+                    "es": "Configuración de orderForm",
+                    "pt": "Configurações do orderForm"
+                  },
+                  "slug": {
+                    "en": "orderform-settings",
+                    "es": "configuracion-de-orderform",
+                    "pt": "configuracoes-do-orderform"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up Cart Abandonment (Trigger)",
                     "es": "Configurar carrito abandonado",
                     "pt": "Configurar Carrinho Abandonado"
@@ -57484,6 +57499,21 @@
             },
             {
               "name": {
+                "en": "Order status exported in Portuguese in OMS Order Export (non-translatable statusDescription)",
+                "es": "Estado del pedido exportado en portugués en OMS Order Export (statusDescription no traducible)",
+                "pt": "Status do pedido exportado em português no OMS Exportação de pedidos (statusDescription não traduzível)"
+              },
+              "slug": {
+                "en": "order-status-exported-in-portuguese-in-oms-order-export-nontranslatable-statusdescription",
+                "es": "estado-del-pedido-exportado-en-portugues-en-oms-order-export-statusdescription-no-traducible",
+                "pt": "status-do-pedido-exportado-em-portugues-no-oms-exportacao-de-pedidos-statusdescription-nao-traduzivel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order stuck at seller status cancellation-request-denied-ffm",
                 "es": "Pedido bloqueado en el estado del vendedor cancellation-request-denied-ffm",
                 "pt": "Pedido preso no status de vendedor cancellation-request-denied-ffm"
@@ -61658,8 +61688,8 @@
             {
               "name": {
                 "en": "Transactions remain stuck despite connector approval",
-                "es": "Las transacciones siguen bloqueadas a pesar de la aprobación del conector",
-                "pt": "As transações continuam travadas apesar da aprovação do conector"
+                "es": "Las transacciones siguen bloqueadas a pesar de la aprobación del conector.",
+                "pt": "As transações continuam travadas, apesar da aprovação do conector"
               },
               "slug": {
                 "en": "transactions-remain-stuck-despite-connector-approval",
@@ -61778,13 +61808,13 @@
             {
               "name": {
                 "en": "Transactions stuck in Authorized or Pending Authorization after approval",
-                "es": "Transacciones atascadas en Autorizado o Pendiente de autorización tras la aprobación",
-                "pt": "Transações presas em Autorizado ou Autorização pendente após a aprovação"
+                "es": "Transacciones bloqueadas en «Autorizado» o «Autorización pendiente» tras su aprobación.",
+                "pt": "Transações retidas em Autorizado ou Autorização pendente após aprovação"
               },
               "slug": {
                 "en": "transactions-stuck-in-authorized-or-pending-authorization-after-approval",
-                "es": "transacciones-atascadas-en-autorizado-o-pendiente-de-autorizacion-tras-la-aprobacion",
-                "pt": "transacoes-presas-em-autorizado-ou-autorizacao-pendente-apos-a-aprovacao"
+                "es": "transacciones-bloqueadas-en-autorizado-o-autorizacion-pendiente-tras-su-aprobacion",
+                "pt": "transacoes-retidas-em-autorizado-ou-autorizacao-pendente-apos-aprovacao"
               },
               "origin": "",
               "type": "markdown",
