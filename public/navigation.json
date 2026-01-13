@@ -34782,7 +34782,7 @@
                 {
                   "name": {
                     "en": "Changing the pages of the site to HTTPS protocol",
-                    "es": "Cambiar las páginas del sitio para el protocolo HTTPS",
+                    "es": "Cambiar las páginas del sitio al protocolo HTTPS",
                     "pt": "Alterar as páginas do site para o protocolo HTTPS"
                   },
                   "slug": {
@@ -46139,6 +46139,21 @@
                 "en": "order-creation-failed-due-to-price-divergence-on-fulfillment-layer",
                 "es": "la-creacion-de-la-orden-fallo-debido-a-la-divergencia-de-precios-en-la-capa-de-cumplimiento",
                 "pt": "a-criacao-de-pedidos-falhou-devido-a-divergencia-de-precos-na-camada-de-cumprimento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order creation fails and order with no item is created when cart contains paused non-white label seller",
+                "es": "El pedido no se crea y se crea un pedido sin artículos cuando el carrito contiene un vendedor no blanco en pausa.",
+                "pt": "A criação do pedido falha e é criado um pedido sem itens quando o carrinho contém um vendedor não white label em pausa."
+              },
+              "slug": {
+                "en": "order-creation-fails-and-order-with-no-item-is-created-when-cart-contains-paused-nonwhite-label-seller",
+                "es": "el-pedido-no-se-crea-y-se-crea-un-pedido-sin-articulos-cuando-el-carrito-contiene-un-vendedor-no-blanco-en-pausa",
+                "pt": "a-criacao-do-pedido-falha-e-e-criado-um-pedido-sem-itens-quando-o-carrinho-contem-um-vendedor-nao-white-label-em-pausa"
               },
               "origin": "",
               "type": "markdown",
