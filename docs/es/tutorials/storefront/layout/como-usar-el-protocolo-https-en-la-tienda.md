@@ -1,5 +1,5 @@
 ---
-title: 'Cambiar las páginas del sitio para el protocolo HTTPS'
+title: 'Cambiar las páginas del sitio al protocolo HTTPS'
 id: frequentlyAskedQuestions_4378
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:00.790Z
