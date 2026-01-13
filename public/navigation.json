@@ -46146,6 +46146,21 @@
             },
             {
               "name": {
+                "en": "Order creation fails and order with no item is created when cart contains paused non-white label seller",
+                "es": "El pedido no se crea y se crea un pedido sin artículos cuando el carrito contiene un vendedor no blanco en pausa.",
+                "pt": "A criação do pedido falha e é criado um pedido sem itens quando o carrinho contém um vendedor não white label em pausa."
+              },
+              "slug": {
+                "en": "order-creation-fails-and-order-with-no-item-is-created-when-cart-contains-paused-nonwhite-label-seller",
+                "es": "el-pedido-no-se-crea-y-se-crea-un-pedido-sin-articulos-cuando-el-carrito-contiene-un-vendedor-no-blanco-en-pausa",
+                "pt": "a-criacao-do-pedido-falha-e-e-criado-um-pedido-sem-itens-quando-o-carrinho-contem-um-vendedor-nao-white-label-em-pausa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order replacement feature doesn't work when the replaced cart and original order have the same value",
                 "es": "La función de sustitución de pedidos no funciona cuando el carro sustituido y el pedido original tienen el mismo valor.",
                 "pt": "O recurso de substituição de pedidos não funciona quando o carrinho substituído e o pedido original têm o mesmo valor"
