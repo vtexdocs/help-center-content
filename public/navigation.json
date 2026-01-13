@@ -25781,13 +25781,13 @@
                 {
                   "name": {
                     "en": "Responsibilities within the VTEX ecosystem",
-                    "pt": "Responsabilidades no ecossistema VTEX",
-                    "es": "Responsibilities within the VTEX ecosystem"
+                    "es": "Responsabilidades en el ecosistema VTEX",
+                    "pt": "Responsabilidades no ecossistema VTEX"
                   },
                   "slug": {
                     "en": "responsibilities-within-the-vtex-ecosystem",
-                    "pt": "responsabilidades-no-ecossistema-vtex",
-                    "es": ""
+                    "es": "responsabilidades-en-el-ecosistema-vtex",
+                    "pt": "responsabilidades-no-ecossistema-vtex"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25833,37 +25833,6 @@
                     "en": "vtex-support-satisfaction-survey",
                     "es": "encuesta-de-satisfaccion-del-soporte-vtex",
                     "pt": "pesquisa-de-satisfacao-do-suporte-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Apoyo",
-                "es": "Apoyo",
-                "pt": "Apoyo"
-              },
-              "slug": {
-                "en": "apoyo",
-                "es": "apoyo-subcategoria",
-                "pt": "apoyo"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "Responsabilidades en el ecosistema VTEX",
-                    "en": "Responsabilidades en el ecosistema VTEX",
-                    "pt": "Responsabilidades en el ecosistema VTEX"
-                  },
-                  "slug": {
-                    "es": "responsabilidades-en-el-ecosistema-vtex",
-                    "en": "",
-                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -46139,6 +46108,21 @@
                 "en": "order-creation-failed-due-to-price-divergence-on-fulfillment-layer",
                 "es": "la-creacion-de-la-orden-fallo-debido-a-la-divergencia-de-precios-en-la-capa-de-cumplimiento",
                 "pt": "a-criacao-de-pedidos-falhou-devido-a-divergencia-de-precos-na-camada-de-cumprimento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order creation fails and order with no item is created when cart contains paused non-white label seller",
+                "es": "El pedido no se crea y se crea un pedido sin artículos cuando el carrito contiene un vendedor no blanco en pausa.",
+                "pt": "A criação do pedido falha e é criado um pedido sem itens quando o carrinho contém um vendedor não white label em pausa."
+              },
+              "slug": {
+                "en": "order-creation-fails-and-order-with-no-item-is-created-when-cart-contains-paused-nonwhite-label-seller",
+                "es": "el-pedido-no-se-crea-y-se-crea-un-pedido-sin-articulos-cuando-el-carrito-contiene-un-vendedor-no-blanco-en-pausa",
+                "pt": "a-criacao-do-pedido-falha-e-e-criado-um-pedido-sem-itens-quando-o-carrinho-contem-um-vendedor-nao-white-label-em-pausa"
               },
               "origin": "",
               "type": "markdown",

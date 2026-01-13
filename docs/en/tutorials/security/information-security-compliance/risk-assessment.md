@@ -424,9 +424,9 @@ VTEX mainly uses the following AWS data regions for the described purposes:
 
 Vulnerability checks are continually run. Each check has to be run again until it's approved with no issues found. An auditor will accept them during recertification periods.
 
-#### Could product customizations or configurations made by clients introduce security vulnerabilities to the platform? If yes, how would such event be handled?
+#### Could product customizations or configurations made by clients introduce security vulnerabilities to the platform? If yes, how would such an event be handled?
 
-Merchants and any implementation agency hired by them can create customizations within their own environment. If a vulnerability is detected in the VTEX system, our security and development team will quickly take action to address the issue. Due to the customizable nature of the platform, the merchant and the implementation agency are responsible for handling vulnerabilities that may arise from customizations during development. For more information, check[ Responsibilities within the VTEX ecosystem](/en/tutorial/responsibilities-in-the-vtex-ecosystem--3vL9aWICDr3WR64DYi1fJ3#implementation-agencies).
+Merchants and any implementation agency hired by them can create customizations within their own environment. If a vulnerability is detected in the VTEX system, our security and development team will quickly take action to address the issue. Due to the customizable nature of the platform, the merchant and the implementation agency are responsible for handling vulnerabilities that may arise from customizations during development. For more information, check[ Responsibilities within the VTEX ecosystem](/en/tutorial/responsibilities-within-the-vtex-ecosystem#implementation-agencies).
 
 ### Incident response and mitigation
 
@@ -436,13 +436,13 @@ Yes, VTEX has a formal security incident response protocol that covers the key p
 
 #### Does the company have a pentest calendar? What is the frequency of tests?
 
-Pentests are conducted every six months at VTEX. We share the **Attestation of Penetration Testing** report for the latest penetration tests performed on our behalf by an independent, reputable and technically competent third-party security consultancy.
+Pentests are conducted every six months at VTEX. We share the **Attestation of Penetration Testing** report for the latest penetration tests performed on our behalf by an independent, reputable, and technically competent third-party security consultancy.
 
 This is provided upon request, free of charge, by [opening a ticket to VTEX support](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
 
 #### Does VTEX have an incident response procedure for data breaches that complies with personal data protection laws?
 
-Yes, the VTEX security incident response plan covers incidents related to data breach and complies with personal data protection laws. It includes guidelines for the key phases of the process: preparation, incident detection, containment, eradication, recovery, post-incident activity. This procedure also includes an integrated communication plan that is applied during all phases of the response.
+Yes, the VTEX security incident response plan covers incidents related to data breaches and complies with personal data protection laws. It includes guidelines for the key phases of the process: preparation, incident detection, containment, eradication, recovery, and post-incident activity. This procedure also includes an integrated communication plan that is applied during all phases of the response.
 
 #### What controls does VTEX use to mitigate ransomware attacks?
 
@@ -456,7 +456,7 @@ VTEX has a carefully designed business continuity plan to deal with the challeng
 
 #### Does VTEX have a disaster recovery plan?
 
-VTEX has a disaster recovery plan focused on ensuring operational continuity and availability of critical resources during emergency situations. The plan covers detailed guidelines about how to act during unplanned incidents, classified as crises, which may arise from natural disasters, cyberattacks, or other disruptive events. It incorporates key recovery phases, including the definition of a recovery point objective (RPO) and a recovery time objective (RTO), as well as backup testing to ensure the plan is efficient and ready for real-life scenarios.
+VTEX has a disaster recovery plan focused on ensuring operational continuity and the availability of critical resources during emergency situations. The plan covers detailed guidelines about how to act during unplanned incidents, classified as crises, which may arise from natural disasters, cyberattacks, or other disruptive events. It incorporates key recovery phases, including the definition of a recovery point objective (RPO) and a recovery time objective (RTO), as well as backup testing to ensure the plan is efficient and ready for real-life scenarios.
 
 #### Does VTEX periodically test the disaster recovery plan?
 
