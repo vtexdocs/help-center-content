@@ -2,7 +2,7 @@
 title: 'Granular permissions for Seller Register and Marketplace Network'
 status: PUBLISHED
 createdAt: 2025-12-23T12:00:00.000Z
-updatedAt: 2025-12-23T12:00:00.000Z
+updatedAt: 2026-01-15T12:00:00.000Z
 publishedAt: 2025-12-23T12:00:00.000Z
 contentType: updates
 productTeam: Channels
@@ -43,6 +43,19 @@ To ensure your operation is not impacted, update access profiles by **March 01, 
 4. Save the changes and validate that users can access the modules.
 
 >⚠️ Without updating the profiles, users will see blank screens or error messages when trying to access the Seller and Marketplace Network modules after the cutoff date.
+
+If your operation uses VTEX IO custom apps that interact with seller data, update the `manifest.json` file by adding the required policies:
+
+```json
+"policies": [
+  {
+    "name": "view-seller"
+  },
+  {
+    "name": "save-seller"
+  }
+]
+```
 
 For more information about managing access profiles, see the [Access profiles](https://help.vtex.com/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc) documentation.
 
