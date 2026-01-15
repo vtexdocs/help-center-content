@@ -40397,6 +40397,21 @@
             },
             {
               "name": {
+                "en": "Catalog API accepts list of items but UI does not reflect",
+                "es": "La API del catálogo acepta la lista de artículos, pero la interfaz de usuario no lo refleja.",
+                "pt": "A API do catálogo aceita listas de itens, mas a interface do usuário não reflete isso."
+              },
+              "slug": {
+                "en": "catalog-api-accepts-list-of-items-but-ui-does-not-reflect",
+                "es": "la-api-del-catalogo-acepta-la-lista-de-articulos-pero-la-interfaz-de-usuario-no-lo-refleja",
+                "pt": "a-api-do-catalogo-aceita-listas-de-itens-mas-a-interface-do-usuario-nao-reflete-isso"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Catalog API Create SKU File only work with an URL",
                 "es": "La API del catálogo Crear archivo SKU sólo funciona con una URL",
                 "pt": "API do catálogo Criar arquivo SKU só funciona com uma URL"
@@ -41192,14 +41207,14 @@
             },
             {
               "name": {
-                "en": "Creating SKUs in seller portal accounts result in inocrrect unit multiplier",
-                "es": "La creación de SKU en cuentas del portal del vendedor da como resultado un multiplicador de unidades incorrecto",
-                "pt": "A criação de SKUs em contas do portal do vendedor resulta em um multiplicador de unidades incorreto"
+                "en": "Creating SKUs in seller portal accounts result in unit multiplier always being 1",
+                "es": "La creación de SKU en las cuentas del portal del vendedor hace que el multiplicador de unidades sea siempre 1.",
+                "pt": "A criação de SKUs em contas do portal do vendedor faz com que o multiplicador de unidades seja sempre 1."
               },
               "slug": {
-                "en": "creating-skus-in-seller-portal-accounts-result-in-inocrrect-unit-multiplier",
-                "es": "la-creacion-de-sku-en-cuentas-del-portal-del-vendedor-da-como-resultado-un-multiplicador-de-unidades-incorrecto",
-                "pt": "a-criacao-de-skus-em-contas-do-portal-do-vendedor-resulta-em-um-multiplicador-de-unidades-incorreto"
+                "en": "creating-skus-in-seller-portal-accounts-result-in-unit-multiplier-always-being-1",
+                "es": "la-creacion-de-sku-en-las-cuentas-del-portal-del-vendedor-hace-que-el-multiplicador-de-unidades-sea-siempre-1",
+                "pt": "a-criacao-de-skus-em-contas-do-portal-do-vendedor-faz-com-que-o-multiplicador-de-unidades-seja-sempre-1"
               },
               "origin": "",
               "type": "markdown",
@@ -42378,13 +42393,13 @@
             {
               "name": {
                 "en": "Number-type product specifications allow importing array of values",
-                "es": "Las especificaciones de producto de tipo numérico permiten importar matrices de valores",
-                "pt": "As especificações de produto do tipo número permitem a importação de uma matriz de valores"
+                "es": "Las especificaciones de productos de tipo numérico permiten importar matrices de valores.",
+                "pt": "As especificações do produto do tipo numérico permitem importar uma matriz de valores."
               },
               "slug": {
                 "en": "numbertype-product-specifications-allow-importing-array-of-values",
-                "es": "las-especificaciones-de-producto-de-tipo-numerico-permiten-importar-matrices-de-valores",
-                "pt": "as-especificacoes-de-produto-do-tipo-numero-permitem-a-importacao-de-uma-matriz-de-valores"
+                "es": "las-especificaciones-de-productos-de-tipo-numerico-permiten-importar-matrices-de-valores",
+                "pt": "as-especificacoes-do-produto-do-tipo-numerico-permitem-importar-uma-matriz-de-valores"
               },
               "origin": "",
               "type": "markdown",
@@ -42393,13 +42408,13 @@
             {
               "name": {
                 "en": "Number-type product specifications allow importing decimal values",
-                "es": "Las especificaciones de producto de tipo numérico permiten importar valores decimales",
-                "pt": "As especificações de produtos do tipo número permitem a importação de valores decimais"
+                "es": "Las especificaciones de productos de tipo numérico permiten importar valores decimales.",
+                "pt": "As especificações do produto do tipo numérico permitem importar valores decimais."
               },
               "slug": {
                 "en": "numbertype-product-specifications-allow-importing-decimal-values",
-                "es": "las-especificaciones-de-producto-de-tipo-numerico-permiten-importar-valores-decimales",
-                "pt": "as-especificacoes-de-produtos-do-tipo-numero-permitem-a-importacao-de-valores-decimais"
+                "es": "las-especificaciones-de-productos-de-tipo-numerico-permiten-importar-valores-decimales",
+                "pt": "as-especificacoes-do-produto-do-tipo-numerico-permitem-importar-valores-decimais"
               },
               "origin": "",
               "type": "markdown",
@@ -46069,6 +46084,21 @@
             },
             {
               "name": {
+                "en": "Order creation fails and order with no item is created when cart contains paused non-white label seller",
+                "es": "El pedido no se crea y se crea un pedido sin artículos cuando el carrito contiene un vendedor no blanco en pausa.",
+                "pt": "A criação do pedido falha e é criado um pedido sem itens quando o carrinho contém um vendedor não white label em pausa."
+              },
+              "slug": {
+                "en": "order-creation-fails-and-order-with-no-item-is-created-when-cart-contains-paused-nonwhite-label-seller",
+                "es": "el-pedido-no-se-crea-y-se-crea-un-pedido-sin-articulos-cuando-el-carrito-contiene-un-vendedor-no-blanco-en-pausa",
+                "pt": "a-criacao-do-pedido-falha-e-e-criado-um-pedido-sem-itens-quando-o-carrinho-contem-um-vendedor-nao-white-label-em-pausa"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order replacement feature doesn't work when the replaced cart and original order have the same value",
                 "es": "La función de sustitución de pedidos no funciona cuando el carro sustituido y el pedido original tienen el mismo valor.",
                 "pt": "O recurso de substituição de pedidos não funciona quando o carrinho substituído e o pedido original têm o mesmo valor"
@@ -47900,6 +47930,21 @@
             },
             {
               "name": {
+                "en": "Error publishing Scheduled Release ahead of schedule in Admin (\"You can't publish an empty release\")",
+                "es": "Error al publicar una publicación programada antes de lo previsto en Admin (\"No se puede publicar una publicación vacía\")",
+                "pt": "Erro ao publicar a versão agendada antes do previsto no Admin (\"Você não pode publicar uma versão vazia\")"
+              },
+              "slug": {
+                "en": "error-publishing-scheduled-release-ahead-of-schedule-in-admin-you-cant-publish-an-empty-release",
+                "es": "error-al-publicar-una-publicacion-programada-antes-de-lo-previsto-en-admin-no-se-puede-publicar-una-publicacion-vacia",
+                "pt": "erro-ao-publicar-a-versao-agendada-antes-do-previsto-no-admin-voce-nao-pode-publicar-uma-versao-vazia"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Final domain different from myvtex due to old component version on Site Editor",
                 "es": "Dominio final diferente de myvtex debido a la versión antigua del componente en el Editor de Sitios",
                 "pt": "O domínio final é diferente do myvtex devido à versão antiga do componente no Site Editor"
@@ -49011,6 +49056,21 @@
             },
             {
               "name": {
+                "en": "Amazon Listing UI doesn't enable “Save and Send” and blocks SKU publication for VITAMIN productType",
+                "es": "Amazon Listing UI no habilita \"Guardar y Enviar\" y bloquea la publicación de SKU para VITAMIN productType",
+                "pt": "Amazon A interface do usuário de listagem não habilita \"Salvar e enviar\" e bloqueia a publicação de SKU para o tipo de produto VITAMINA"
+              },
+              "slug": {
+                "en": "amazon-listing-ui-doesnt-enable-save-and-send-and-blocks-sku-publication-for-vitamin-producttype",
+                "es": "amazon-listing-ui-no-habilita-guardar-y-enviar-y-bloquea-la-publicacion-de-sku-para-vitamin-producttype",
+                "pt": "amazon-a-interface-do-usuario-de-listagem-nao-habilita-salvar-e-enviar-e-bloqueia-a-publicacao-de-sku-para-o-tipo-de-produto-vitamina"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Amazon order does not integrate",
                 "es": "El pedido de Amazon no se integra",
                 "pt": "O pedido da Amazon não se integra"
@@ -49094,6 +49154,21 @@
                 "en": "amazon-skus-for-the-same-product-werent-grouped-on-amazon",
                 "es": "los-sku-del-mismo-producto-no-se-agrupaban-en-amazon",
                 "pt": "amazon-os-skus-do-mesmo-produto-nao-foram-agrupados-na-amazon"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "APP FBE CAPI Purchase event not deduplicated in headless checkout (FBP/external_id dependency on VTEX Checkout)",
+                "es": "APP FBE El evento de compra CAPI no se deduplica en el proceso de pago sin interfaz (dependencia de FBP/external_id en VTEX Checkout).",
+                "pt": "APP FBE Evento de compra CAPI não deduplicado no checkout sem interface (dependência de FBP/external_id no VTEX Checkout)"
+              },
+              "slug": {
+                "en": "app-fbe-capi-purchase-event-not-deduplicated-in-headless-checkout-fbpexternalid-dependency-on-vtex-checkout",
+                "es": "app-fbe-el-evento-de-compra-capi-no-se-deduplica-en-el-proceso-de-pago-sin-interfaz-dependencia-de-fbpexternalid-en-vtex-checkout",
+                "pt": "app-fbe-evento-de-compra-capi-nao-deduplicado-no-checkout-sem-interface-dependencia-de-fbpexternalid-no-vtex-checkout"
               },
               "origin": "",
               "type": "markdown",
@@ -49394,6 +49469,21 @@
                 "en": "magazine-luiza-orders-pending-dispatch-authorization-even-if-approved-by-marketplace",
                 "es": "revista-luiza-pedidos-pendientes-de-autorizacion-de-envio-aunque-esten-aprobados-por-marketplace",
                 "pt": "magazine-luiza-pedidos-pendentes-de-autorizacao-de-despacho-mesmo-que-aprovados-pelo-marketplace"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Magazine Luiza SKU creation fails with misleading “already exists” error when data is unchanged",
+                "es": "Magazine Luiza La creación de SKU falla con un error engañoso que indica «ya existe» cuando los datos no han cambiado.",
+                "pt": "Magazine Luiza A criação do SKU falha com um erro enganoso de “já existe” quando os dados não foram alterados."
+              },
+              "slug": {
+                "en": "magazine-luiza-sku-creation-fails-with-misleading-already-exists-error-when-data-is-unchanged",
+                "es": "magazine-luiza-la-creacion-de-sku-falla-con-un-error-enganoso-que-indica-ya-existe-cuando-los-datos-no-han-cambiado",
+                "pt": "magazine-luiza-a-criacao-do-sku-falha-com-um-erro-enganoso-de-ja-existe-quando-os-dados-nao-foram-alterados"
               },
               "origin": "",
               "type": "markdown",
@@ -51265,14 +51355,14 @@
           "children": [
             {
               "name": {
-                "en": "Accounts with '-' on the name don't have metrics on search report",
-                "es": "Las cuentas con '-' en el nombre no tienen métricas en el informe de búsqueda",
-                "pt": "Contas com '-' no nome não têm métricas no relatório de busca"
+                "en": "Accounts with \"-\" on the name don't have metrics on search report",
+                "es": "Las cuentas con \"-\" en el nombre no tienen métricas en el informe de búsqueda",
+                "pt": "Contas com \"-\" no nome não têm métricas no relatório de pesquisa"
               },
               "slug": {
                 "en": "accounts-with-on-the-name-dont-have-metrics-on-search-report",
                 "es": "las-cuentas-con-en-el-nombre-no-tienen-metricas-en-el-informe-de-busqueda",
-                "pt": "contas-com-no-nome-nao-tem-metricas-no-relatorio-de-busca"
+                "pt": "contas-com-no-nome-nao-tem-metricas-no-relatorio-de-pesquisa"
               },
               "origin": "",
               "type": "markdown",
@@ -51543,6 +51633,21 @@
                 "en": "deleted-banner-may-still-appear-on-plp",
                 "es": "el-banner-eliminado-puede-seguir-apareciendo-en-plp",
                 "pt": "o-banner-excluido-ainda-pode-aparecer-no-plp"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Detached SKU search results not considering regionalized availability",
+                "es": "Los resultados de búsqueda de SKU independientes no tienen en cuenta la disponibilidad regionalizada",
+                "pt": "Os resultados da pesquisa de SKUs independentes não consideram a disponibilidade regionalizada"
+              },
+              "slug": {
+                "en": "detached-sku-search-results-not-considering-regionalized-availability",
+                "es": "los-resultados-de-busqueda-de-sku-independientes-no-tienen-en-cuenta-la-disponibilidad-regionalizada",
+                "pt": "os-resultados-da-pesquisa-de-skus-independentes-nao-consideram-a-disponibilidade-regionalizada"
               },
               "origin": "",
               "type": "markdown",
@@ -56957,6 +57062,21 @@
             },
             {
               "name": {
+                "en": "Invoice accepted with value higher than order total via Orders API during concurrent Change",
+                "es": "Factura aceptada con un valor superior al total del pedido a través de la API de pedidos durante un cambio simultáneo.",
+                "pt": "Fatura aceita com valor superior ao total do pedido por meio da API de pedidos durante alteração simultânea"
+              },
+              "slug": {
+                "en": "invoice-accepted-with-value-higher-than-order-total-via-orders-api-during-concurrent-change",
+                "es": "factura-aceptada-con-un-valor-superior-al-total-del-pedido-a-traves-de-la-api-de-pedidos-durante-un-cambio-simultaneo",
+                "pt": "fatura-aceita-com-valor-superior-ao-total-do-pedido-por-meio-da-api-de-pedidos-durante-alteracao-simultanea"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Invoice items description in packages overwritten based on invoiceValue rule (Orders/OMS GET Order reconstruction)",
                 "es": "La descripción de los elementos de la factura en los paquetes se sobrescribe en función de la regla invoiceValue (reconstrucción de pedidos/OMS GET Order)",
                 "pt": "Descrição dos itens da fatura em pacotes sobrescritos com base na regra invoiceValue (reconstrução de pedidos/OMS GET Order)"
@@ -57347,6 +57467,21 @@
             },
             {
               "name": {
+                "en": "Order status exported in Portuguese in OMS Order Export (non-translatable statusDescription)",
+                "es": "Estado del pedido exportado en portugués en OMS Order Export (statusDescription no traducible)",
+                "pt": "Status do pedido exportado em português no OMS Exportação de pedidos (statusDescription não traduzível)"
+              },
+              "slug": {
+                "en": "order-status-exported-in-portuguese-in-oms-order-export-nontranslatable-statusdescription",
+                "es": "estado-del-pedido-exportado-en-portugues-en-oms-order-export-statusdescription-no-traducible",
+                "pt": "status-do-pedido-exportado-em-portugues-no-oms-exportacao-de-pedidos-statusdescription-nao-traduzivel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order stuck at seller status cancellation-request-denied-ffm",
                 "es": "Pedido bloqueado en el estado del vendedor cancellation-request-denied-ffm",
                 "pt": "Pedido preso no status de vendedor cancellation-request-denied-ffm"
@@ -57595,6 +57730,21 @@
                 "en": "possible-errors-in-change-orders-notification-in-the-ui-api-and-gateway",
                 "es": "posibles-errores-en-la-notificacion-de-ordenes-de-cambio-en-la-interfaz-de-usuario-la-api-y-la-pasarela",
                 "pt": "possiveis-erros-na-notificacao-de-ordens-de-alteracao-na-interface-do-usuario-na-api-e-no-gateway"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Refund not triggered after input invoice due to inconsistent invoiceData (OMS ↔ Payments)",
+                "es": "El reembolso no se ha activado tras la factura de entrada debido a datos de factura incoherentes (OMS ↔ Pagos).",
+                "pt": "Reembolso não acionado após a entrada da fatura devido a dados inconsistentes da fatura (OMS ↔ Pagamentos)"
+              },
+              "slug": {
+                "en": "refund-not-triggered-after-input-invoice-due-to-inconsistent-invoicedata-oms-payments",
+                "es": "el-reembolso-no-se-ha-activado-tras-la-factura-de-entrada-debido-a-datos-de-factura-incoherentes-oms-pagos",
+                "pt": "reembolso-nao-acionado-apos-a-entrada-da-fatura-devido-a-dados-inconsistentes-da-fatura-oms-pagamentos"
               },
               "origin": "",
               "type": "markdown",
@@ -58400,6 +58550,21 @@
             },
             {
               "name": {
+                "en": "504 timeout when creating gift cards in bulk via Admin (large batch size)",
+                "es": "Tiempo de espera de 504 al crear tarjetas regalo de forma masiva a través de Admin (lote de gran tamaño).",
+                "pt": "Tempo limite de 504 ao criar cartões-presente em massa através do Admin (lote de grande tamanho)"
+              },
+              "slug": {
+                "en": "504-timeout-when-creating-gift-cards-in-bulk-via-admin-large-batch-size",
+                "es": "tiempo-de-espera-de-504-al-crear-tarjetas-regalo-de-forma-masiva-a-traves-de-admin-lote-de-gran-tamano",
+                "pt": "tempo-limite-de-504-ao-criar-cartoespresente-em-massa-atraves-do-admin-lote-de-grande-tamanho"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Adyen 3DS2 double request generates payment authorization denial",
                 "es": "La doble solicitud de Adyen 3DS2 genera una denegación de autorización de pago",
                 "pt": "Solicitação dupla do Adyen 3DS2 gera recusa de autorização de pagamento"
@@ -58618,6 +58783,21 @@
                 "en": "callbackurl-always-returns-403-when-the-connector-owner-account-has-been-disabled",
                 "es": "callbackurl-siempre-devuelve-403-cuando-la-cuenta-del-propietario-del-conector-ha-sido-desactivada",
                 "pt": "a-callbackurl-sempre-retorna-403-quando-a-conta-do-proprietario-do-conector-foi-desativada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Captured transaction remains in Approved status due to missing settlement registration in Requests",
+                "es": "La transacción capturada permanece en estado Aprobada debido a la falta de registro de liquidación en Solicitudes.",
+                "pt": "A transação capturada permanece no status Aprovada devido à falta de registro de liquidação nas Solicitações."
+              },
+              "slug": {
+                "en": "captured-transaction-remains-in-approved-status-due-to-missing-settlement-registration-in-requests",
+                "es": "la-transaccion-capturada-permanece-en-estado-aprobada-debido-a-la-falta-de-registro-de-liquidacion-en-solicitudes",
+                "pt": "a-transacao-capturada-permanece-no-status-aprovada-devido-a-falta-de-registro-de-liquidacao-nas-solicitacoes"
               },
               "origin": "",
               "type": "markdown",
@@ -59930,6 +60110,21 @@
             },
             {
               "name": {
+                "en": "It is not possible to use the sales channel filter on the transactions page.",
+                "es": "No es posible utilizar el filtro del canal de ventas en la página de transacciones.",
+                "pt": "Não é possível utilizar o filtro do canal de vendas na página de transações."
+              },
+              "slug": {
+                "en": "it-is-not-possible-to-use-the-sales-channel-filter-on-the-transactions-page",
+                "es": "no-es-posible-utilizar-el-filtro-del-canal-de-ventas-en-la-pagina-de-transacciones",
+                "pt": "nao-e-possivel-utilizar-o-filtro-do-canal-de-vendas-na-pagina-de-transacoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "It's possible to go from order to transaction but the inverse flow doesn't work",
                 "es": "Es posible pasar de la orden a la transacción pero el flujo inverso no funciona",
                 "pt": "É possível ir da ordem para a transação, mas o fluxo inverso não funciona"
@@ -59945,21 +60140,6 @@
             },
             {
               "name": {
-                "en": "Konduto AF cannot complete a request when the accountId is missing.",
-                "es": "Konduto AF no puede completar una solicitud cuando falta el accountId.",
-                "pt": "O Konduto AF não pode concluir uma solicitação quando o accountId está ausente."
-              },
-              "slug": {
-                "en": "konduto-af-cannot-complete-a-request-when-the-accountid-is-missing",
-                "es": "konduto-af-no-puede-completar-una-solicitud-cuando-falta-el-accountid",
-                "pt": "o-konduto-af-nao-pode-concluir-uma-solicitacao-quando-o-accountid-esta-ausente"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Lack of validation in the BillingAddress zip code",
                 "es": "Falta de validación en el código postal BillingAddress",
                 "pt": "Falta de validação no código postal BillingAddress"
@@ -59968,6 +60148,21 @@
                 "en": "lack-of-validation-in-the-billingaddress-zip-code",
                 "es": "falta-de-validacion-en-el-codigo-postal-billingaddress",
                 "pt": "falta-de-validacao-no-codigo-postal-billingaddress"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Legacy Antifrauds cannot complete a request when the accountId is missing.",
+                "es": "Los sistemas antifraude heredados no pueden completar una solicitud cuando falta el ID de la cuenta.",
+                "pt": "Os Antifrauds legados não podem concluir uma solicitação quando o accountId está ausente."
+              },
+              "slug": {
+                "en": "legacy-antifrauds-cannot-complete-a-request-when-the-accountid-is-missing",
+                "es": "los-sistemas-antifraude-heredados-no-pueden-completar-una-solicitud-cuando-falta-el-id-de-la-cuenta",
+                "pt": "os-antifrauds-legados-nao-podem-concluir-uma-solicitacao-quando-o-accountid-esta-ausente"
               },
               "origin": "",
               "type": "markdown",
@@ -60350,6 +60545,21 @@
             },
             {
               "name": {
+                "en": "Order stuck in Verifying Invoice after settlement-request with value 0",
+                "es": "Pedido atascado en «Verificando factura» tras solicitud de liquidación con valor 0.",
+                "pt": "Pedido preso em Verificação da fatura após solicitação de liquidação com valor 0"
+              },
+              "slug": {
+                "en": "order-stuck-in-verifying-invoice-after-settlementrequest-with-value-0",
+                "es": "pedido-atascado-en-verificando-factura-tras-solicitud-de-liquidacion-con-valor-0",
+                "pt": "pedido-preso-em-verificacao-da-fatura-apos-solicitacao-de-liquidacao-com-valor-0"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order with Status of Verifying Invoice does not update to Invoiced.",
                 "es": "El pedido con estado de verificación de factura no se actualiza a facturado.",
                 "pt": "Pedido com status de Verificação de Fatura não é atualizado para Faturação."
@@ -60373,6 +60583,21 @@
                 "en": "orders-placed-with-gift-card-generate-transactions-with-brazilian-currency-r",
                 "es": "los-pedidos-realizados-con-tarjeta-regalo-generan-transacciones-con-moneda-brasilena-r",
                 "pt": "pedidos-feitos-com-gift-card-geram-transacoes-em-moeda-brasileira-r"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Orders remain in \"Payment Pending\" even after transaction is approved or finished",
+                "es": "Los pedidos permanecen en «Pago pendiente» incluso después de que la transacción haya sido aprobada o finalizada.",
+                "pt": "Os pedidos permanecem em \"Pagamento pendente\" mesmo após a transação ter sido aprovada ou concluída."
+              },
+              "slug": {
+                "en": "orders-remain-in-payment-pending-even-after-transaction-is-approved-or-finished",
+                "es": "los-pedidos-permanecen-en-pago-pendiente-incluso-despues-de-que-la-transaccion-haya-sido-aprobada-o-finalizada",
+                "pt": "os-pedidos-permanecem-em-pagamento-pendente-mesmo-apos-a-transacao-ter-sido-aprovada-ou-concluida"
               },
               "origin": "",
               "type": "markdown",
@@ -60553,6 +60778,21 @@
                 "en": "payment-stuck-after-early-cancellation-request-during-settling",
                 "es": "pago-bloqueado-tras-solicitud-de-cancelacion-anticipada-durante-la-liquidacion",
                 "pt": "pagamento-bloqueado-apos-solicitacao-de-cancelamento-antecipado-durante-a-liquidacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Payments Admin Defense Mode settings page fails to load (permissions and GET /admin/iframe/transactions/settings 500)",
+                "es": "La página de configuración del modo de defensa de la administración de pagos no se carga (permisos y GET /admin/iframe/transactions/settings 500).",
+                "pt": "A página de configurações do Modo de Defesa do Administrador de Pagamentos não carrega (permissões e GET /admin/iframe/transactions/settings 500)"
+              },
+              "slug": {
+                "en": "payments-admin-defense-mode-settings-page-fails-to-load-permissions-and-get-adminiframetransactionssettings-500",
+                "es": "la-pagina-de-configuracion-del-modo-de-defensa-de-la-administracion-de-pagos-no-se-carga-permisos-y-get-adminiframetransactionssettings-500",
+                "pt": "a-pagina-de-configuracoes-do-modo-de-defesa-do-administrador-de-pagamentos-nao-carrega-permissoes-e-get-adminiframetransactionssettings-500"
               },
               "origin": "",
               "type": "markdown",
@@ -61431,13 +61671,73 @@
             {
               "name": {
                 "en": "Transactions remain stuck despite connector approval",
-                "es": "Las transacciones siguen bloqueadas a pesar de la aprobación del conector",
-                "pt": "As transações continuam travadas apesar da aprovação do conector"
+                "es": "Las transacciones siguen bloqueadas a pesar de la aprobación del conector.",
+                "pt": "As transações continuam travadas, apesar da aprovação do conector"
               },
               "slug": {
                 "en": "transactions-remain-stuck-despite-connector-approval",
                 "es": "las-transacciones-siguen-bloqueadas-a-pesar-de-la-aprobacion-del-conector",
                 "pt": "as-transacoes-continuam-travadas-apesar-da-aprovacao-do-conector"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions remain stuck in Analyzing Risk despite AFPP connector approval",
+                "es": "Las transacciones siguen atascadas en Análisis de riesgos a pesar de la aprobación del conector AFPP",
+                "pt": "As transações continuam presas no Analyzing Risk apesar da aprovação do conector AFPP"
+              },
+              "slug": {
+                "en": "transactions-remain-stuck-in-analyzing-risk-despite-afpp-connector-approval",
+                "es": "las-transacciones-siguen-atascadas-en-analisis-de-riesgos-a-pesar-de-la-aprobacion-del-conector-afpp",
+                "pt": "as-transacoes-continuam-presas-no-analyzing-risk-apesar-da-aprovacao-do-conector-afpp"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions remain stuck in Analyzing Risk despite legacy anti fraud connector approval",
+                "es": "Las transacciones permanecen atascadas en Análisis de riesgos a pesar de la aprobación del conector antifraude heredado",
+                "pt": "As transações permanecem presas no Analyzing Risk, apesar da aprovação do conector antifraude legado"
+              },
+              "slug": {
+                "en": "transactions-remain-stuck-in-analyzing-risk-despite-legacy-anti-fraud-connector-approval",
+                "es": "las-transacciones-permanecen-atascadas-en-analisis-de-riesgos-a-pesar-de-la-aprobacion-del-conector-antifraude-heredado",
+                "pt": "as-transacoes-permanecem-presas-no-analyzing-risk-apesar-da-aprovacao-do-conector-antifraude-legado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions remain stuck in Authorized despite connector approval",
+                "es": "Las transacciones siguen bloqueadas en Autorizado a pesar de la aprobación del conector",
+                "pt": "As transações permanecem presas no Autorizado, apesar da aprovação do conector"
+              },
+              "slug": {
+                "en": "transactions-remain-stuck-in-authorized-despite-connector-approval",
+                "es": "las-transacciones-siguen-bloqueadas-en-autorizado-a-pesar-de-la-aprobacion-del-conector",
+                "pt": "as-transacoes-permanecem-presas-no-autorizado-apesar-da-aprovacao-do-conector"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions remain stuck in Pending Authorization despite connector approval",
+                "es": "Las transacciones permanecen atascadas en Pendiente de autorización a pesar de la aprobación del conector",
+                "pt": "As transações permanecem presas em Autorização Pendente apesar da aprovação do conector"
+              },
+              "slug": {
+                "en": "transactions-remain-stuck-in-pending-authorization-despite-connector-approval",
+                "es": "las-transacciones-permanecen-atascadas-en-pendiente-de-autorizacion-a-pesar-de-la-aprobacion-del-conector",
+                "pt": "as-transacoes-permanecem-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector"
               },
               "origin": "",
               "type": "markdown",
@@ -61475,14 +61775,44 @@
             },
             {
               "name": {
+                "en": "Transactions stuck in Authorized after approval",
+                "es": "Transacciones bloqueadas en Autorizado después de la aprobación",
+                "pt": "Transações presas em Autorizado após aprovação"
+              },
+              "slug": {
+                "en": "transactions-stuck-in-authorized-after-approval",
+                "es": "transacciones-bloqueadas-en-autorizado-despues-de-la-aprobacion",
+                "pt": "transacoes-presas-em-autorizado-apos-aprovacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transactions stuck in Authorized or Pending Authorization after approval",
-                "es": "Transacciones atascadas en Autorizado o Pendiente de autorización tras la aprobación",
-                "pt": "Transações presas em Autorizado ou Autorização pendente após a aprovação"
+                "es": "Transacciones bloqueadas en «Autorizado» o «Autorización pendiente» tras su aprobación.",
+                "pt": "Transações retidas em Autorizado ou Autorização pendente após aprovação"
               },
               "slug": {
                 "en": "transactions-stuck-in-authorized-or-pending-authorization-after-approval",
-                "es": "transacciones-atascadas-en-autorizado-o-pendiente-de-autorizacion-tras-la-aprobacion",
-                "pt": "transacoes-presas-em-autorizado-ou-autorizacao-pendente-apos-a-aprovacao"
+                "es": "transacciones-bloqueadas-en-autorizado-o-autorizacion-pendiente-tras-su-aprobacion",
+                "pt": "transacoes-retidas-em-autorizado-ou-autorizacao-pendente-apos-aprovacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions stuck in Pending Authorization after approval",
+                "es": "Transacciones atascadas en Pendiente de autorización tras la aprobación",
+                "pt": "Transações presas em Autorização Pendente após a aprovação"
+              },
+              "slug": {
+                "en": "transactions-stuck-in-pending-authorization-after-approval",
+                "es": "transacciones-atascadas-en-pendiente-de-autorizacion-tras-la-aprobacion",
+                "pt": "transacoes-presas-em-autorizacao-pendente-apos-a-aprovacao"
               },
               "origin": "",
               "type": "markdown",
@@ -62333,6 +62663,21 @@
             },
             {
               "name": {
+                "es": "No se puede exportar más de 65.536 líneas en CMS Builder",
+                "pt": "Incapaz de exportar mais de 65.536 linhas no CMS Builder",
+                "en": "No se puede exportar más de 65.536 líneas en CMS Builder"
+              },
+              "slug": {
+                "es": "no-se-puede-exportar-mas-de-65536-lineas-en-cms-builder",
+                "pt": "incapaz-de-exportar-mais-de-65536-linhas-no-cms-builder",
+                "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "O=OrderByBestDiscount brings the wrong order",
                 "es": "O=OrderByBestDiscount trae el pedido equivocado",
                 "pt": "O=OrderByBestDiscount traz o pedido errado"
@@ -62506,6 +62851,21 @@
                 "en": "redirection-with-parameters-in-cms-builder-does-not-work",
                 "es": "la-redireccion-con-parametros-en-el-cms-builder-no-funciona",
                 "pt": "o-redirecionamento-com-parametros-no-cms-builder-nao-funciona"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Redirects export from CMS URL Builder limted to 65,536 records",
+                "es": "Redirige la exportación desde CMS URL Builder limitada a 65 536 registros.",
+                "pt": "Redireciona a exportação do CMS URL Builder limitada a 65.536 registros"
+              },
+              "slug": {
+                "en": "redirects-export-from-cms-url-builder-limted-to-65536-records",
+                "es": "redirige-la-exportacion-desde-cms-url-builder-limitada-a-65-536-registros",
+                "pt": "redireciona-a-exportacao-do-cms-url-builder-limitada-a-65536-registros"
               },
               "origin": "",
               "type": "markdown",
@@ -62701,21 +63061,6 @@
                 "en": "unable-to-delete-template-on-legacy-cms",
                 "es": "no-se-puede-eliminar-la-plantilla-en-el-cms-heredado",
                 "pt": "incapaz-de-apagar-o-modelo-no-cms-antigo"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Unable to export more than 65,536 lines in CMS Builder",
-                "es": "No se puede exportar más de 65.536 líneas en CMS Builder",
-                "pt": "Incapaz de exportar mais de 65.536 linhas no CMS Builder"
-              },
-              "slug": {
-                "en": "unable-to-export-more-than-65536-lines-in-cms-builder",
-                "es": "no-se-puede-exportar-mas-de-65536-lineas-en-cms-builder",
-                "pt": "incapaz-de-exportar-mais-de-65536-linhas-no-cms-builder"
               },
               "origin": "",
               "type": "markdown",
@@ -64128,6 +64473,21 @@
                 "en": "promotion-more-for-less-not-working-alongside-regular-promotion",
                 "es": "promocion-mas-por-menos-no-funciona-junto-con-la-promocion-regular",
                 "pt": "promocao-mais-por-menos-nao-trabalhar-ao-lado-da-promocao-regular"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Promotion Simulator UI shows an incorrect number of items compared to the actual cart",
+                "es": "La interfaz de usuario del simulador de promociones muestra un número incorrecto de artículos en comparación con el carrito real.",
+                "pt": "A interface do usuário do Simulador de Promoção mostra um número incorreto de itens em comparação com o carrinho real"
+              },
+              "slug": {
+                "en": "promotion-simulator-ui-shows-an-incorrect-number-of-items-compared-to-the-actual-cart",
+                "es": "la-interfaz-de-usuario-del-simulador-de-promociones-muestra-un-numero-incorrecto-de-articulos-en-comparacion-con-el-carrito-real",
+                "pt": "a-interface-do-usuario-do-simulador-de-promocao-mostra-um-numero-incorreto-de-itens-em-comparacao-com-o-carrinho-real"
               },
               "origin": "",
               "type": "markdown",
@@ -65669,6 +66029,21 @@
             },
             {
               "name": {
+                "en": "Custom routes missing from Sitemap for subaccounts",
+                "es": "Rutas personalizadas que faltan en el mapa del sitio para las subcuentas",
+                "pt": "Rotas personalizadas ausentes do mapa do site para subcontas"
+              },
+              "slug": {
+                "en": "custom-routes-missing-from-sitemap-for-subaccounts",
+                "es": "rutas-personalizadas-que-faltan-en-el-mapa-del-sitio-para-las-subcuentas",
+                "pt": "rotas-personalizadas-ausentes-do-mapa-do-site-para-subcontas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Disclosure Layout can't be used properly when prop animated is set as true",
                 "es": "Disclosure Layout no se puede utilizar correctamente cuando prop animado se establece como verdadero",
                 "pt": "O layout de divulgação não pode ser usado corretamente quando a animação de propulsão é definida como verdadeira."
@@ -66331,12 +66706,12 @@
               "name": {
                 "en": "ProductImpression doesn't show all the products when the SKU is individually showed",
                 "es": "ProductImpression no muestra todos los productos cuando el SKU se muestra individualmente",
-                "pt": "ProdutoImpressão não mostra todos os produtos quando o SKU é mostrado individualmente"
+                "pt": "O ProductImpression não mostra todos os produtos quando o SKU é mostrado individualmente"
               },
               "slug": {
                 "en": "productimpression-doesnt-show-all-the-products-when-the-sku-is-individually-showed",
                 "es": "productimpression-no-muestra-todos-los-productos-cuando-el-sku-se-muestra-individualmente",
-                "pt": "produtoimpressao-nao-mostra-todos-os-produtos-quando-o-sku-e-mostrado-individualmente"
+                "pt": "o-productimpression-nao-mostra-todos-os-produtos-quando-o-sku-e-mostrado-individualmente"
               },
               "origin": "",
               "type": "markdown",
