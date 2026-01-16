@@ -3,7 +3,7 @@ title: 'Adicionar ou editar SKU'
 id: 4ryZ6J45kwn3jDiQBxGiiN
 status: PUBLISHED
 createdAt: 2024-08-29T19:24:29.305Z
-updatedAt: 2025-07-28T22:21:13.931Z
+updatedAt: 2026-01-16T22:21:13.931Z
 publishedAt: 2025-07-28T22:21:13.931Z
 firstPublishedAt: 2024-08-29T19:28:11.129Z
 contentType: tutorial
