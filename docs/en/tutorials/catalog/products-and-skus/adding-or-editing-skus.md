@@ -3,7 +3,7 @@ title: 'Adding or editing SKUs'
 id: 4ryZ6J45kwn3jDiQBxGiiN
 status: PUBLISHED
 createdAt: 2024-08-29T19:24:29.305Z
-updatedAt: 2025-07-28T22:21:13.931Z
+updatedAt: 2026-01-16T22:21:13.931Z
 publishedAt: 2025-07-28T22:21:13.931Z
 firstPublishedAt: 2024-08-29T19:28:11.129Z
 contentType: tutorial
@@ -169,12 +169,12 @@ The fields below correspond to the actual dimensions of the product — the same
 
 ### Inventory unit
 
-The following fields define how the SKU will be organized and counted in the [warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb):
+Define inventory aspects in the Catalog context:
+
+> ❗ The **Unit of measure** and **Unit multiplier** fields are used for catalog purposes and don't generate any impact on inventory, stock, or other shipping configurations.
 
 * **Unit of measure:** Identifies the unit of measure used to count items in stock.
 * **Unit multiplier:** Numeric value by which the SKU will be multiplied to determine its quantity in the cart. For example, a multiplier of 5 means that each SKU represents 5 units in the cart, allowing purchases only in multiples of 5, such as 10 or 15 units. Fractional values can be separated by either a period or a comma. For example, 0.5 or 0,5 for half a kilogram.
-
-> ⚠️ The value in the unit multiplier field has no impact on inventory and logistics calculations.
 
 ## Commercial strategy
 

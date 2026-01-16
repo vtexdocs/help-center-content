@@ -49507,6 +49507,21 @@
             },
             {
               "name": {
+                "en": "Magazine Luiza SKU creation fails with misleading “already exists” error when data is unchanged",
+                "es": "Magazine Luiza La creación de SKU falla con un error engañoso que indica «ya existe» cuando los datos no han cambiado.",
+                "pt": "Magazine Luiza A criação do SKU falha com um erro enganoso de “já existe” quando os dados não foram alterados."
+              },
+              "slug": {
+                "en": "magazine-luiza-sku-creation-fails-with-misleading-already-exists-error-when-data-is-unchanged",
+                "es": "magazine-luiza-la-creacion-de-sku-falla-con-un-error-enganoso-que-indica-ya-existe-cuando-los-datos-no-han-cambiado",
+                "pt": "magazine-luiza-a-criacao-do-sku-falha-com-um-erro-enganoso-de-ja-existe-quando-os-dados-nao-foram-alterados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "MELI automatic messages Mercado Livre - Messages",
                 "es": "Mensajes automáticos MELI Mercado Livre - Mensajes",
                 "pt": "Mensagens automáticas do MELI Mercado Livre - Mensagens"
@@ -57746,6 +57761,21 @@
                 "en": "possible-errors-in-change-orders-notification-in-the-ui-api-and-gateway",
                 "es": "posibles-errores-en-la-notificacion-de-ordenes-de-cambio-en-la-interfaz-de-usuario-la-api-y-la-pasarela",
                 "pt": "possiveis-erros-na-notificacao-de-ordens-de-alteracao-na-interface-do-usuario-na-api-e-no-gateway"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Refund not triggered after input invoice due to inconsistent invoiceData (OMS ↔ Payments)",
+                "es": "El reembolso no se ha activado tras la factura de entrada debido a datos de factura incoherentes (OMS ↔ Pagos).",
+                "pt": "Reembolso não acionado após a entrada da fatura devido a dados inconsistentes da fatura (OMS ↔ Pagamentos)"
+              },
+              "slug": {
+                "en": "refund-not-triggered-after-input-invoice-due-to-inconsistent-invoicedata-oms-payments",
+                "es": "el-reembolso-no-se-ha-activado-tras-la-factura-de-entrada-debido-a-datos-de-factura-incoherentes-oms-pagos",
+                "pt": "reembolso-nao-acionado-apos-a-entrada-da-fatura-devido-a-dados-inconsistentes-da-fatura-oms-pagamentos"
               },
               "origin": "",
               "type": "markdown",
@@ -66038,6 +66068,21 @@
                 "en": "custom-routes-missing-from-sitemap-for-subaccounts",
                 "es": "rutas-personalizadas-que-faltan-en-el-mapa-del-sitio-para-las-subcuentas",
                 "pt": "rotas-personalizadas-ausentes-do-mapa-do-site-para-subcontas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "disableSitemapEntry flag not respected by sitemap generation",
+                "es": "La generación del mapa del sitio no respeta el indicador disableSitemapEntry.",
+                "pt": "O sinalizador disableSitemapEntry não é respeitado pela geração do mapa do site"
+              },
+              "slug": {
+                "en": "disablesitemapentry-flag-not-respected-by-sitemap-generation",
+                "es": "la-generacion-del-mapa-del-sitio-no-respeta-el-indicador-disablesitemapentry",
+                "pt": "o-sinalizador-disablesitemapentry-nao-e-respeitado-pela-geracao-do-mapa-do-site"
               },
               "origin": "",
               "type": "markdown",
