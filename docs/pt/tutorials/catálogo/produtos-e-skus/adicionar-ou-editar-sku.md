@@ -169,12 +169,12 @@ Os campos abaixo correspondem às dimensões reais do produto, as mesmas que sã
 
 ### Medidas de estoque
 
-Os campos a seguir definem como o SKU será organizado e contado no [estoque](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb):
+Defina aspectos de estoque no contexto de Catálogo:
+
+> ❗ Os campos **Unidade de medida** e **Multiplicador de unidade** são utilizados para questões de catálogo e não geram nenhum impacto no inventário, estoque e demais configurações de envio.
 
 * **Unidade de medida:** identificação da unidade de medida considerada para a contagem de itens em estoque.
 * **Multiplicador de unidade:** valor numérico pelo qual o SKU será multiplicado para definir a quantidade no carrinho. Por exemplo, o multiplicador 5 significa que cada SKU representa 5 volumes no carrinho, permitindo somente compras de múltiplos de 5, como 10 ou 15 volumes. Valores fracionados podem ser separados tanto por ponto quanto por vírgula. Por exemplo, metade de um quilograma pode ser 0.5 ou 0,5.
-
-> ⚠️ O valor no campo multiplicador de unidade não tem impacto sobre os cálculos de inventário e logística.
 
 ## Estratégia Comercial
 

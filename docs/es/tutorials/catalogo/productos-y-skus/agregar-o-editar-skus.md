@@ -3,7 +3,7 @@ title: 'Agregar o editar SKUs'
 id: 4ryZ6J45kwn3jDiQBxGiiN
 status: PUBLISHED
 createdAt: 2024-08-29T19:24:29.305Z
-updatedAt: 2025-07-28T22:21:13.931Z
+updatedAt: 2026-01-16T22:21:13.931Z
 publishedAt: 2025-07-28T22:21:13.931Z
 firstPublishedAt: 2024-08-29T19:28:11.129Z
 contentType: tutorial
@@ -169,12 +169,12 @@ Los siguientes campos corresponden a las dimensiones reales del producto que tam
 
 ### Medidas de stock
 
-Los siguientes campos definen cómo se organizará y contabilizará el SKU en el [almacén](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb):
+Defina aspectos de stock en el contexto del Catálogo:
+
+> ❗ La **Unidad de medida** y el **Multiplicador de unidad** se utilizan para fines de catálogo y no generan ningún impacto en el inventario, stock u otras configuraciones de envío.
 
 * **Unidad de medida:** identificación de la unidad de medida utilizada para contabilizar los ítems en stock.
 * **Multiplicador de unidad:** valor numérico que se utiliza para multiplicar el SKU y definir la cantidad en el carrito. Por ejemplo, un multiplicador de 5 significa que cada SKU representa 5 ítems en el carrito y solo permite compras en múltiplos de 5 como, por ejemplo, 10 o 15 ítems. Los valores de fracciones se pueden separar con punto o coma. Por ejemplo, medio kilogramo se puede indicar como 0.5 o 0,5.
-
-> ⚠️ El valor en el campo multiplicador de unidad no tiene impacto en los cálculos de inventario y logística.
 
 ## Estrategia comercial
 
