@@ -31,15 +31,17 @@ Para compreender melhor o conteúdo, detalho a seguir as funções básicas a se
 - **Allow:** ao utilizar esse termo você estará permitindo que o crawler das ferramentas de busca navegue e indexe o endereço indicado.
 - **Disallow:** você estará bloqueando o conteúdo indicado.
 
-Para validar o conteúdo do arquivo robots.txt, é importante:
+Para validar o conteúdo do arquivo `robots.txt`, é importante:
 
 - Verificar se as URLs listadas realmente precisam de regras específicas de rastreamento;
 - Confirmar se as regras estão corretamente aplicadas às URLs desejadas;
-- Garantir que o arquivo sitemap.xml esteja corretamente informado.
+- Garantir que o arquivo `sitemap.xml` esteja corretamente informado.
 
-A edição do arquivo robots.txt da loja está disponível em:
-`[accountname].vtexcommercestable.com.br/admin/Site/ConfigSEOContents.aspx`.
+A edição do arquivo `robots.txt` da loja está disponível em:
+```
+{accountName}.vtexcommercestable.com.br/admin/Site/ConfigSEOContents.aspx
+```
 
-Após configurar o robots.txt, o próximo passo é revisar o **sitemap.xml** da loja. O sitemap tem a função de apresentar a estrutura do site aos mecanismos de busca, indicando quais páginas devem ser rastreadas e indexadas, como categorias, produtos e páginas institucionais.
+Após configurar o `robots.txt`, o próximo passo é revisar o `sitemap.xml` da loja. O sitemap tem a função de apresentar a estrutura do site aos mecanismos de busca, indicando quais páginas devem ser rastreadas e indexadas, como categorias, produtos e páginas institucionais.
 
-Ao informar corretamente o sitemap no Google Search Console, você facilita o trabalho do crawler, permitindo que as páginas da loja sejam descobertas e indexadas de forma **mais rápida e eficiente** nos resultados de busca.
+Ao informar corretamente o sitemap no Google Search Console, você facilita o trabalho do crawler, permitindo que as páginas da loja sejam descobertas e indexadas de forma mais rápida nos resultados de busca.
