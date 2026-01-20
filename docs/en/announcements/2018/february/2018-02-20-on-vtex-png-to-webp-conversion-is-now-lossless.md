@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Change in the compression form came to meet the needs of stores that have to display high quality images.'
 ---
 
-VTEX stores already have automatic image compiling to __WebP__ format, as reported in [this previous announcement](/en/announcement/vtex-stores-now-have-automatic-image-compiling-to-webp). The news is that this process is now __lossless__ for __PNG__ files. This means that images with this file extension will still be converted to the Google's format, but __without quality losses__.
+VTEX stores already have automatic image compiling to __WebP__ format, as reported in [this previous announcement](/en/announcements/vtex-stores-now-have-automatic-image-compiling-to-webp). The news is that this process is now __lossless__ for __PNG__ files. This means that images with this file extension will still be converted to the Google's format, but __without quality losses__.
 
 The conversion of the image files only happens when your store is accessed by someone using a compatible browser (e.g. Gooogle Chrome). If they use a browser that doesn't read the format, the images won't be converted and will be displayed in their original formats. Notice that this automatic image compiling doesn't affect the file you uploaded in the CMS, only the way it's rendered on screen. 
 

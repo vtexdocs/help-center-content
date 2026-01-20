@@ -19,6 +19,6 @@ All VTEX stores must activate the HTTPS protocol in all their pages until __Apri
 
 Besides all the benefits in terms of information security, the HTTPS protocol ensures that your store will be better ranked by Google. Their search algorithm indexes secure sites over the ones which doesn't use HTTPS. This means that if your store has enabled the protocol throughout all it's pages, it will be easier to find by potential clients.
 
-Enabling HTTPS is also a key requirement to use VTEX's new CDN, as announced [here](/en/announcement/all-stores-have-until-april-20th-to-activate-the-new-cdn). Available since October 2017 the new CDN will be mandatory starting in __April 20th__, and will enhance your website's performance.
+Enabling HTTPS is also a key requirement to use VTEX's new CDN, as announced [here](/en/announcements/all-stores-have-until-april-20th-to-activate-the-new-cdn). Available since October 2017 the new CDN will be mandatory starting in __April 20th__, and will enhance your website's performance.
 
 To enable HTTPS in your whole store, follow the instructions of this [VTEX Help Article](/en/tutorial/enable-https-throughout-the-site).

@@ -103,7 +103,7 @@ Did your lead arrive through your website? Ask his Whatsapp number and send a me
 
 #### Add the contact to a group
 
-You can add the contact to a static group. If the group does not exist in the contacts tab, you can create it by typing the name you want for the group in the selection field. To understand a little more about groups, visit the [contact article](/l/en/groups/static-and-dynamic-groups)
+You can add the contact to a static group. If the group does not exist in the contacts tab, you can create it by typing the name you want for the group in the selection field. To understand a little more about groups, visit the [contact article](/en/docs/tutorials/introduction-to-contacts)
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/action-cards_11.png)
 
@@ -111,7 +111,7 @@ Did the contact complete a satisfaction survey? You can group it with everyone w
 
 #### Remove the contact from a group
 
-You can remove the contact from some [static group](https://help.vtex.com/docs/tutorials/static-groups). In addition, you have the option to mark to remove the contact from all groups that he is part of, without distinction. To understand a little more about groups, visit the contact article
+You can remove the contact from some [static group](/en/docs/tutorials/static-groups). In addition, you have the option to mark to remove the contact from all groups that he is part of, without distinction. To understand a little more about groups, visit the contact article
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/action-cards_12.png)
 

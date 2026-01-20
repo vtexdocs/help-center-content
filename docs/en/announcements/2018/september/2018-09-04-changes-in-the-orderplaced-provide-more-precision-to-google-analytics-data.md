@@ -57,7 +57,7 @@ The updates are mainly intended for those scenarios where a single order has pro
 
 
 ## What you need to do
-This update __doesn't require__ any actions. If your store already uses the __version 4 of the orderPlaced__, which is fully compatible with the [Omnichannel](/en/announcement/shift-your-business-with-vtexs-omnichannel-experience) features, the new logic is already on.
+This update __doesn't require__ any actions. If your store already uses the __version 4 of the orderPlaced__, which is fully compatible with the [Omnichannel](/en/announcements/shift-your-business-with-vtexs-omnichannel-experience) features, the new logic is already on.
 
 
 > ⚠️ It's an update on the **version 4 of orderPlaced only**, and it doesn't affect the behavior of previous versions.
