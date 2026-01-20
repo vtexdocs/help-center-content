@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn
 ---
 
-A VTEX dispõe de diversas proteções contra possíveis ataques a lojas. Ainda sim, há configurações e produtos terceiros que podem maximizar a segurança da sua operação. Este artigo descreve alguns destes recursos:
+A VTEX dispõe de diversas proteções contra possíveis ataques a lojas. Ainda assim, há configurações e produtos de terceiros que podem maximizar a segurança da sua operação. Este artigo descreve alguns destes recursos:
 
 * [Antifraude](#antifraude)
 * [Proteção contra ataques de transações](#protecao-contra-ataques-de-transacoes)
@@ -47,7 +47,7 @@ Recomendamos o uso do [reCAPTCHA v3](/pt/tutorial/using-recaptcha-at-checkout--1
 
 Saiba mais sobre como configurar esta validação no Checkout da sua loja em [reCAPTCHA no Checkout](/pt/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP#). Para a implementação do reCAPTCHA V3 em uma loja VTEX, consulte o guia para desenvolvedores [reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha#recaptcha-v3-score).
 
-> ℹ️ No fluxo de [cadastro de cartões](/pt/tutorial/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#cartoes) dos clientes da loja na página [Minha Conta](/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh), a validação por reCAPTCHA está ativa por padrão, sem a necessidade de configuração por parte dos lojistas.
+> ℹ️ No fluxo de [cadastro de cartões](/pt/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#cartoes) dos clientes da loja na página [Minha Conta](/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh), a validação por reCAPTCHA está ativa por padrão, sem a necessidade de configuração por parte dos lojistas.
 
 ## Configurações do orderForm
 
@@ -57,7 +57,7 @@ Para acessar a documentação sobre este assunto, insira abaixo seu [nome de con
 
 ## Desabilitar login por senha
 
-Se sua loja está sofre ataques mesmo com a aplicação dos recursos citados acima, recomendamos desabilitar o login por senha. Essa medida pode ser aplicada temporariamente ou não, com o intuito de quebrar o fluxo da automação do ataque.
+Se sua loja está sofrendo ataques mesmo com a aplicação dos recursos citados acima, recomendamos desabilitar o login por senha. Essa medida pode ser aplicada temporariamente ou não, com o intuito de quebrar o fluxo da automação do ataque.
 
 Para realizar esta configuração:
 
