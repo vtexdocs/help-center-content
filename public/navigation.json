@@ -42813,6 +42813,21 @@
             },
             {
               "name": {
+                "en": "Promotion UI incorrectly changes aphostrophe character",
+                "es": "La interfaz de usuario de la promoción cambia incorrectamente el carácter del apóstrofo.",
+                "pt": "A interface do usuário da promoção altera incorretamente o caractere apóstrofo"
+              },
+              "slug": {
+                "en": "promotion-ui-incorrectly-changes-aphostrophe-character",
+                "es": "la-interfaz-de-usuario-de-la-promocion-cambia-incorrectamente-el-caracter-del-apostrofo",
+                "pt": "a-interface-do-usuario-da-promocao-altera-incorretamente-o-caractere-apostrofo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Promotions by order of payment methods do not appear on the product page",
                 "es": "Las promociones por orden de formas de pago no aparecen en la página del producto",
                 "pt": "As promoções por ordem de métodos de pagamento não são exibidas na página do produto"

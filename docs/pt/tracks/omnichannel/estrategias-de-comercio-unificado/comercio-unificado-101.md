@@ -19,7 +19,7 @@ A evolução do varejo online trouxe uma série de melhorias à experiência do 
 
 ![32. Unified Commerce 101 - 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/estrategias-de-comercio-unificado/comercio-unificado-101_1.png)
 
-Em uma arquitetura __multicanal__, cada canal se comunica de forma independente com a loja, seja o ecomerce, as lojas físicas, o SAC, as mídias sociais etc. Quando um cliente interage com um desses canais, a loja não tem conhecimento algum sobre quem é esse cliente.
+Em uma arquitetura __multicanal__, cada canal se comunica de forma independente com a loja, seja o ecommerce, as lojas físicas, o SAC, as mídias sociais etc. Quando um cliente interage com um desses canais, a loja não tem conhecimento algum sobre quem é esse cliente.
 
 Já em uma arquitetura __omnichannel__, os dados do cliente são compartilhados entre os canais da loja. Isso significa que, quando o cliente que já interagiu com a loja interage por um novo canal, a loja tem conhecimento sobre quem é esse cliente, qual é o histórico de pedidos dele, o perfil de compras etc.
 
@@ -29,10 +29,10 @@ O __Comércio Unificado__ resolve esse problema.
 
 ![32. Unified Commerce 101 - 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/estrategias-de-comercio-unificado/comercio-unificado-101_2.png)
 
-O Comércio Unificado é uma evolução do omnichannel: além do compartilhamento de dados, nessa estratégia acontece também a __unificação do sistema de processamento e gerenciamento dos pedidos__. Na prática, isso significa que todo pedido realizado em um canal da loja fica não apenas visível por outros canais como pode ser processado por eles.
+O Comércio Unificado é uma evolução do omnichannel: além do compartilhamento de dados, nessa estratégia acontece também a __unificação do sistema de processamento e gerenciamento dos pedidos__. Na prática, isso significa que todo pedido realizado em um canal da loja fica não apenas visível por outros canais, mas também pode ser processado por eles.
 
 Veja abaixo alguns dos cenários possibilitados pelo Comércio Unificado:
-- __Prateleira Infinita__: cliente compra em um canal (em uma loja física, por exemplo) e recebe a partir do estoque de outra loja ou do Centro de Distribuição principal.
+- __Prateleira Infinita__: cliente compra em um canal (por exemplo, em uma loja física) e recebe a partir do estoque de outra loja ou do Centro de Distribuição principal.
 - __Transação com carrinho misto__: cliente compra em uma loja física, retira um dos produtos na hora e recebe o outro em casa a partir de outro estoque.
 - __Retirada em loja__: cliente compra no ecommerce e retira os produtos em uma loja física.
 
@@ -44,7 +44,7 @@ O VTEX Sales App é um aplicativo da VTEX que permite que os vendedores de suas 
 
 Ele é uma ferramenta importante em sua estratégia de Comércio Unificado porque interage com a base de dados unificada da sua conta VTEX e com o nosso Sistema de Gerenciamento de Pedidos. Ou seja, todas as vendas feitas com o VTEX Sales App dão ao vendedor os dados do cliente, ainda que ele nunca tenha comprado nessa loja, e permitem a criação de pedidos em que o fulfillment é realizado a partir de outros canais e estoques.
 
-Se quiser mais detalhes, veja nossa [documentação sobre o VTEX Sales App](/pt/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
+Se quiser mais detalhes, veja nossa [documentação sobre o VTEX Sales App](/pt/docs/tracks/o-que-e-o-vtex-sales-app).
 
 ## Saiba mais
 
