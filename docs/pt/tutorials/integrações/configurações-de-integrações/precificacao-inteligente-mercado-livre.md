@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-A **Precificação inteligente** na [integração do Mercado Livre](xxxxx) disponibiliza duas funcionalidades, a **Sugestões de preços** e o **Ajuste automático de preços.** Veja a seguir o que é cada uma dessas funcionalidades e como utilizá-las.
+A **Precificação inteligente** na [integração do Mercado Livre](/pt/docs/tracks/configurar-integracao-do-mercado-livre) disponibiliza duas funcionalidades, a **Sugestões de preços** e o **Ajuste automático de preços.** Veja a seguir o que é cada uma dessas funcionalidades e como utilizá-las.
 
 Ambas as funcionalidades estão disponíveis apenas para clientes que utilizam a integração **Mercado Livre Premium.**
 

@@ -34,7 +34,7 @@ Desenvolvemos uma nova interface para a Lista de Promoções, que permite:
 
 ## Por que fizemos essa mudança?
 
-A atualização da Lista de Promoções faz parte do [Novo Admin VTEX](hhttps://content.vtex.com/join-new-admin-beta-program-pt/?utm_source=announcement&utm_medium=help_center&utm_campaign=promotions_list). Nosso objetivo é permitir que você gerencie o seu comércio digital em um único lugar de forma simples, mais inteligente e conveniente.
+A atualização da Lista de Promoções faz parte do [Novo Admin VTEX](https://content.vtex.com/join-new-admin-beta-program-pt/?utm_source=announcement&utm_medium=help_center&utm_campaign=promotions_list). Nosso objetivo é permitir que você gerencie o seu comércio digital em um único lugar de forma simples, mais inteligente e conveniente.
 
 ## O que precisa ser feito?
 

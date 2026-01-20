@@ -19,7 +19,7 @@ subcategoryId: 2tEO9ytK1aMO0i2oMayoQq
 
 O fluxo completo é: compra fechada com boleto no site &gt; pedido entra como Pagamento Pendente &gt; boleto é pago &gt; banco envia o arquivo para a loja &gt; lojista realiza a conciliação &gt; pedido segue fluxo para entrega.
 
-Conforme explicado em nosso documento [Em quanto tempo um pedido de boleto sem pagamento é cancelado?](/faq/em-quanto-tempo-um-pedido-de-boleto-sem-pagamento-e-cancelado/), existe um prazo para o cancelamento do pedido, caso este não seja notificado como pago no status de Pagamento Aprovado (seja manualmente no OMS ou por conciliação bancária). Nesse caso, o pedido permanecerá no status de Pagamento Pendente até ser cancelado.
+Conforme explicado em nosso documento [Em quanto tempo um pedido de boleto sem pagamento é cancelado?](/pt/docs/tutorials/em-quanto-tempo-um-pedido-de-boleto-sem-pagamento-e-cancelado), existe um prazo para o cancelamento do pedido, caso este não seja notificado como pago no status de Pagamento Aprovado (seja manualmente no OMS ou por conciliação bancária). Nesse caso, o pedido permanecerá no status de Pagamento Pendente até ser cancelado.
 
 > ⚠️ Os procedimentos deste artigo não são aplicáveis para as integrações que realizam a conciliação bancária de forma automática.
 
