@@ -2,7 +2,7 @@
 title: 'Permisos granulares para Seller Register y Marketplace Network'
 status: PUBLISHED
 createdAt: 2025-12-23T12:00:00.000Z
-updatedAt: 2025-12-23T12:00:00.000Z
+updatedAt: 2026-01-15T12:00:00.000Z
 publishedAt: 2025-12-23T12:00:00.000Z
 contentType: updates
 productTeam: Channels
@@ -41,6 +41,19 @@ Para garantizar que su operación no se vea afectada, actualice los perfiles de 
    - Para Seller: Seleccione "View Seller" o "Save Seller" (en "Seller Register").
    - Para Marketplace Network: Seleccione "Access the Marketplace Network" (en "Channels").
 4. Guarde los cambios y valide si los usuarios pueden acceder a los módulos.
+
+Si su operación utiliza apps personalizadas del VTEX IO que interactúan con datos de sellers, actualice el archivo `manifest.json` agregando las políticas necesarias:
+
+```json
+"policies": [
+  {
+    "name": "view-seller"
+  },
+  {
+    "name": "save-seller"
+  }
+]
+```
 
 >⚠️ Sin la actualización de los perfiles, los usuarios verán pantallas vacías o mensajes de error al intentar acceder a los módulos de Seller y Marketplace Network después de la fecha límite.
 
