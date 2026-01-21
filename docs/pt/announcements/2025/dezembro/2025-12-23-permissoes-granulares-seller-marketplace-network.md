@@ -50,7 +50,7 @@ Se sua operação utiliza apps customizados do VTEX IO que interagem com dados d
     "name": "view-seller"
   },
   {
-    "name": "save-seller"
+    "name": "save-seller" 
   }
 ]
 ```
