@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Login with Google and Facebook: Client secrets are now masked",
+                    "es": "Inicio de sesión con Google y Facebook: enmascaramiento del secreto del cliente",
+                    "pt": "Login com Google e Facebook: Client Secret agora é mascarado"
+                  },
+                  "slug": {
+                    "en": "2026-01-23-login-with-google-and-facebook-client-secret-masked",
+                    "es": "2026-01-23-login-con-google-y-facebook-secreto-del-cliente-enmascarado",
+                    "pt": "2026-01-23-login-com-google-e-facebook-client-secret-mascarado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "New Audit event export",
                     "es": "Nueva exportación de eventos de Audit",
                     "pt": "Nova exportação de eventos do Audit"
