@@ -7,8 +7,8 @@ updatedAt: 2026-01-21T00:00:00.000Z
 publishedAt: 2026-01-21T00:00:00.000Z
 contentType: updates
 productTeam: Identity
-author: 
-slugEN: login-with-google-and-facebook-client-secret-masked
+author: 1malnhMX0vPThsaJaZMYm2
+slugEN: 2026-01-23-login-with-google-and-facebook-client-secret-masked
 locale: en
 legacySlug: 
 announcementImageID: 'undefined'
