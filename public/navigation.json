@@ -30446,6 +30446,21 @@
                 },
                 {
                   "name": {
+                    "en": "Post-purchase payment operations",
+                    "es": "Operaciones de pago poscompra",
+                    "pt": "Operações de pagamentos pós-compra"
+                  },
+                  "slug": {
+                    "en": "post-purchase-payment-operations",
+                    "es": "operaciones-de-pago-poscompra",
+                    "pt": "operacoes-de-pagamentos-pos-compra"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Registered Ticket - Basic payment flow",
                     "es": "Boleto Bancario Registrado - Flujo básico de pago",
                     "pt": "Boleto Bancário Registrado - Fluxo básico de pagamento"
