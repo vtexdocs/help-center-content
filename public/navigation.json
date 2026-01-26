@@ -45095,6 +45095,21 @@
             },
             {
               "name": {
+                "en": "Checkout UI shows “login to view credits” when provider returns balance=0",
+                "es": "La interfaz de usuario de pago muestra «inicie sesión para ver los créditos» cuando el proveedor devuelve saldo=0.",
+                "pt": "A interface do usuário do checkout exibe “faça login para visualizar os créditos” quando o provedor retorna saldo=0"
+              },
+              "slug": {
+                "en": "checkout-ui-shows-login-to-view-credits-when-provider-returns-balance0",
+                "es": "la-interfaz-de-usuario-de-pago-muestra-inicie-sesion-para-ver-los-creditos-cuando-el-proveedor-devuelve-saldo0",
+                "pt": "a-interface-do-usuario-do-checkout-exibe-faca-login-para-visualizar-os-creditos-quando-o-provedor-retorna-saldo0"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Checkout UI shows free shipping when the user switches the delivery options",
                 "es": "La interfaz de pago muestra el envío gratuito cuando el usuario cambia las opciones de entrega.",
                 "pt": "A interface de usuário do checkout mostra o frete grátis quando o usuário alterna as opções de entrega"
