@@ -52,17 +52,7 @@ Los siguientes ejemplos y diagramas demuestran cómo cada modo de procesamiento 
 3. El retailer solicita al gateway la liquidación del valor restante del pedido (80 USD)
 4. El gateway no se comunica con el conector, puesto que ya se ha solicitado el valor total del pedido
 
-```mermaid
-sequenceDiagram
-        participant Retailer
-    participant Gateway
-    participant Conector
-
-    Retailer->>Gateway: 1. Solicitud de liquidación de $20
-    Gateway->>Conector: 2. Solicitud de liquidación de $100
-    Retailer->>Gateway: 3. Solicitud de liquidación del monto restante ($80)
-    Note over Gateway: 4. Gateway no realiza comunicación con el Conector, ya que el valor total del pedido fue solicitado
-```
+![Total mode liquidacion](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visión-de-conjunto-de-pagos/total-mode-liquidacion.png)
 
 ### Cancelación
 
@@ -71,17 +61,7 @@ sequenceDiagram
 3. El retailer solicita al gateway la cancelación del valor restante del pedido (80 USD)
 4. El gateway solicita al conector la cancelación de 100 USD
 
-```mermaid
-sequenceDiagram
-        participant Retailer
-    participant Gateway
-    participant Conector
-
-    Retailer->>Gateway: 1. Solicitud de cancelación de $20
-    Note right of Gateway: 2. No se comunica con el Conector
-    Retailer->>Gateway: 3. Solicitud de cancelación del monto restante ($80)
-    Gateway->>Conector: 4. Solicitud de cancelación de $100
-```
+![Total mode cancelacion](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visión-de-conjunto-de-pagos/total-mode-cancelacion.png)
 
 ### Reembolso
 
@@ -90,17 +70,7 @@ sequenceDiagram
 3. El retailer solicita al gateway el reembolso del valor restante del pedido (80 USD)
 4. El gateway solicita al conector el reembolso del valor restante del pedido (80 USD)
 
-```mermaid
-sequenceDiagram
-        participant Retailer
-    participant Gateway
-    participant Conector
-
-    Retailer->>Gateway: 1. Solicitud de reembolso de $20
-    Gateway->>Conector: 2. Solicitud de reembolso de $20
-    Retailer->>Gateway: 3. Solicitud de reembolso del monto restante ($80)
-    Gateway->>Conector: 4. Solicitud de reembolso del monto restante ($80)
-```
+![Total mode reembolso](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visión-de-conjunto-de-pagos/total-mode-reembolso.png)
 
 > ℹ️ El conector solo realiza una operación de reembolso si el valor solicitado ya hubiera sido liquidado anteriormente.
 
@@ -114,17 +84,7 @@ sequenceDiagram
 3. El retailer solicita al gateway la liquidación del valor restante del pedido (80 USD)
 4. El gateway solicita al conector la liquidación de 100 USD
 
-```mermaid
-sequenceDiagram
-        participant Retailer
-    participant Gateway
-    participant Conector
-
-    Retailer->>Gateway: 1. Solicitud de liquidación de $20
-    Note right of Gateway: 2. No se comunica con el Conector
-    Retailer->>Gateway: 3. Solicitud de liquidación del monto restante ($80)
-    Gateway->>Conector: 4. Solicitud de liquidación de $100
-```
+![Hold mode liquidacion](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visión-de-conjunto-de-pagos/hold-mode-liquidacion.png)
 
 ### Cancelación
 
@@ -135,17 +95,7 @@ sequenceDiagram
 3. El retailer solicita al gateway la cancelación del valor restante del pedido (80 USD)
 4. El gateway solicita al conector la cancelación de 100 USD
 
-```mermaid
-sequenceDiagram
-        participant Retailer
-    participant Gateway
-    participant Conector
-
-    Retailer->>Gateway: 1. Solicitud de cancelación de $20
-    Note right of Gateway: 2. No se comunica con el Conector
-    Retailer->>Gateway: 3. Solicitud de cancelación del monto restante ($80)
-    Gateway->>Conector: 4. Solicitud de cancelación de $100
-```
+![Hold mode cancelacion 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visión-de-conjunto-de-pagos/hold-mode-cancelacion-1.png)
 
 **Ejemplo 2**: cancelación de una parte del valor total del pedido
 
@@ -155,18 +105,7 @@ sequenceDiagram
 4. El gateway solicita al conector la liquidación de 80 USD
 5. El valor de 20 USD permanece cancelado en el gateway, pero esta cancelación no se informa al conector
 
-```mermaid
-sequenceDiagram
-        participant Retailer
-    participant Gateway
-    participant Conector
-
-    Retailer->>Gateway: 1. Solicitud de cancelación de $20
-    Note right of Gateway: 2. No se comunica con el Conector
-    Retailer->>Gateway: 3. Solicitud de liquidación del monto restante ($80)
-    Gateway->>Conector: 4. Solicita liquidación de $80
-    Note over Gateway: 5. El valor de $20 permanece cancelado en en Gateway, pero nos es informado al Conector
-```
+![Hold mode cancelacion 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visión-de-conjunto-de-pagos/hold-mode-cancelacion-2.png)
 
 ### Reembolso
 
@@ -175,17 +114,7 @@ sequenceDiagram
 3. El retailer solicita al gateway el reembolso del valor restante del pedido (80 USD)
 4. El gateway solicita al conector el reembolso del valor restante del pedido (80 USD)
 
-```mermaid
-sequenceDiagram
-        participant Retailer
-    participant Gateway
-    participant Conector
-
-    Retailer->>Gateway: 1. Solicitud de reembolso de $20
-    Gateway->>Conector: 2. Solicitud de reembolso de $20
-    Retailer->>Gateway: 3. Solicitud de reembolso del monto restante ($80)
-    Gateway->>Conector: 4. Solicitud de reembolso del monto restante ($80)
-```
+![Hold mode reembolso](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visión-de-conjunto-de-pagos/hold-mode-reembolso.png)
 
 > ℹ️ El conector solo realiza una operación de reembolso si el valor solicitado ya hubiera sido liquidado anteriormente.
 
@@ -200,17 +129,7 @@ sequenceDiagram
 3. El retailer solicita al gateway la liquidación del valor restante del pedido (80 USD)
 4. El gateway solicita al conector la liquidación del valor restante del pedido (80 USD)
 
-```mermaid
-sequenceDiagram
-        participant Retailer
-    participant Gateway
-    participant Conector
-
-    Retailer->>Gateway: 1. Solicitud de liquidación de $20
-    Gateway->>Conector: 2. Solicitud de liquidación de $20
-    Retailer->>Gateway: 3. Solicitud de liquidación del monto restante ($80)
-    Gateway->>Conector: 4. Solicitud de liquidación del monto restante ($80)
-```
+![Partial mode liquidacion](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visión-de-conjunto-de-pagos/partial-mode-liquidacion.png)
 
 ### Cancelación
 
@@ -219,17 +138,7 @@ sequenceDiagram
 3. El retailer solicita al gateway la cancelación del valor restante del pedido (80 USD)
 4. El gateway solicita al conector la cancelación del valor restante del pedido (80 USD)
 
-```mermaid
-sequenceDiagram
-        participant Retailer
-    participant Gateway
-    participant Conector
-
-    Retailer->>Gateway: 1. Solicitud de cancelación de $20
-    Gateway->>Conector: 2. Solicitud de cancelación de $20
-    Retailer->>Gateway: 3. Solicitud de cancelación del monto restante ($80)
-    Gateway->>Conector: 4. Solicitud de cancelación del monto restante ($80)
-```
+![Partial mode cancelacion](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visión-de-conjunto-de-pagos/partial-mode-cancelacion.png)
 
 ### Reembolso
 
@@ -238,17 +147,7 @@ sequenceDiagram
 3. El retailer solicita al gateway el reembolso del valor restante del pedido (80 USD)
 4. El gateway solicita al conector el reembolso del valor restante del pedido (80 USD)
 
-```mermaid
-sequenceDiagram
-        participant Retailer
-    participant Gateway
-    participant Conector
-
-    Retailer->>Gateway: 1. Solicitud de reembolso de $20
-    Gateway->>Conector: 2. Solicitud de reembolso de $20
-    Retailer->>Gateway: 3. Solicitud de reembolso del monto restante ($80)
-    Gateway->>Conector: 4. Solicitud de reembolso del monto restante ($80)
-```
+![Partial mode reembolso](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visión-de-conjunto-de-pagos/partial-mode-reembolso.png)
 
 > ℹ️ El conector solo realiza una operación de reembolso si el valor solicitado ya hubiera sido liquidado anteriormente.
 

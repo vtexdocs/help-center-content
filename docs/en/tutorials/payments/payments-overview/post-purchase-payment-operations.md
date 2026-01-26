@@ -52,17 +52,7 @@ The following examples and diagrams show how each processing mode works in settl
 3. The merchant requests settlement of the remaining order amount ($80) from the gateway
 4. The gateway doesn't communicate with the connector, as the total order amount has already been requested
 
-```mermaid
-sequenceDiagram
-        participant Merchant
-    participant Gateway
-    participant Connector
-
-    Merchant->>Gateway: 1. Requests to settle $20
-    Gateway->>Connector: 2. Requests to settle $100
-    Merchant->>Gateway: 3. Requests to settle the remaining $80
-    Note over Gateway: 4. Gateway does not communicate again with the Connector, since the full amount has already been requested
-```
+![Total mode settlement](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/total-mode-settlement.png)
 
 ### Cancellation
 
@@ -71,17 +61,7 @@ sequenceDiagram
 3. The merchant requests cancellation of the remaining order amount ($80) from the gateway
 4. The gateway requests the cancellation of $100 from the connector
 
-```mermaid
-sequenceDiagram
-        participant Merchant
-    participant Gateway
-    participant Connector
-
-    Merchant->>Gateway: 1. Requests to cancel $20
-    Note right of Gateway: 2. Does not communicate with the Connector
-    Merchant->>Gateway: 3. Requests to cancel the remaining $80
-    Gateway->>Connector: 4. Requests to cancel $100
-```
+![Total mode cancellation](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/total-mode-cancellation.png)
 
 ### Refund
 
@@ -90,17 +70,7 @@ sequenceDiagram
 3. The merchant requests a refund of the remaining order amount ($80) from the gateway
 4. The gateway requests a refund of the remaining order amount ($80) from the connector
 
-```mermaid
-sequenceDiagram
-        participant Merchant
-    participant Gateway
-    participant Connector
-
-    Merchant->>Gateway: 1. Requests to refund $20
-    Gateway->>Connector: 2. Requests to refund $20
-    Merchant->>Gateway: 3. Requests to refund the remaining $80
-    Gateway->>Connector: 4. Requests to refund the remaining $80
-```
+![Total mode refund](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/total-mode-refund.png)
 
 > ℹ️ The connector will only carry out a refund operation if the requested amount has already been settled previously.
 
@@ -114,17 +84,7 @@ sequenceDiagram
 3. The merchant requests settlement of the remaining order amount ($80) from the gateway
 4. The gateway requests a settlement of $100 from the connector
 
-```mermaid
-sequenceDiagram
-        participant Merchant
-    participant Gateway
-    participant Connector
-
-    Merchant->>Gateway: 1. Requests to settle $20
-    Note right of Gateway: 2. Does not communicate with the Connector
-    Merchant->>Gateway: 3. Requests to settle the remaining $80
-    Gateway->>Connector: 4. Request to settle $100
-```
+![Hold mode settlement](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/hold-mode-settlement.png)
 
 ### Cancellation
 
@@ -135,17 +95,7 @@ sequenceDiagram
 3. The merchant requests cancellation of the remaining order amount ($80) from the gateway
 4. The gateway requests the cancellation of $100 from the connector
 
-```mermaid
-sequenceDiagram
-        participant Merchant
-    participant Gateway
-    participant Connector
-
-    Merchant->>Gateway: 1. Requests to cancel $20
-    Note right of Gateway: 2. Does not communicate with the Connector
-    Merchant->>Gateway: 3. Requests to cancel the remaining $80
-    Gateway->>Connector: 4. Requests to cancel $100
-```
+![Hold mode cancellation 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/hold-mode-cancellation-1.png)
 
 **Example 2**: Cancellation of a partial order amount
 
@@ -155,18 +105,7 @@ sequenceDiagram
 4. The gateway requests a settlement of $80 from the connector
 5. The amount of $20 remains canceled in the gateway, but isn't reflected in the connector
 
-```mermaid
-sequenceDiagram
-        participant Merchant
-    participant Gateway
-    participant Connector
-
-    Merchant->>Gateway: 1. Requests to cancel $20
-    Note right of Gateway: 2. Does not communicate with the Connector
-    Merchant->>Gateway: 3. Requests to settle the remaining $80
-    Gateway->>Connector: 4. Requests to settle $80
-    Note over Gateway: 5. The $20 remains canceled in the Gateway, but is not reported to the Connector
-```
+![Hold mode cancellation 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/hold-mode-cancellation-2.png)
 
 ### Refund
 
@@ -175,17 +114,7 @@ sequenceDiagram
 3. The merchant requests a refund of the remaining order amount ($80) from the gateway
 4. The gateway requests a refund of the remaining order amount ($80) from the connector
 
-```mermaid
-sequenceDiagram
-        participant Merchant
-    participant Gateway
-    participant Connector
-
-    Merchant->>Gateway: 1. Requests to refund $20
-    Gateway->>Connector: 2. Requests to refund $20
-    Merchant->>Gateway: 3. Requests to refund the remaining $80
-    Gateway->>Connector: 4. Requests to refund the remaining $80
-```
+![Hold mode refund](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/hold-mode-refund.png)
 
 > ℹ️ The connector will only carry out a refund operation if the requested amount has already been settled previously.
 
@@ -200,17 +129,7 @@ sequenceDiagram
 3. The merchant requests settlement of the remaining order amount ($80) from the gateway
 4. The gateway requests the settlement of the remaining order amount ($80) from the connector
 
-```mermaid
-sequenceDiagram
-        participant Merchant
-    participant Gateway
-    participant Connector
-
-    Merchant->>Gateway: 1. Requests to settle $20
-    Gateway->>Connector: 2. Requests to settle $20
-    Merchant->>Gateway: 3. Requests to settle the remaining $80
-    Gateway->>Connector: 4. Requests to settle the remaining $80
-```
+![Partial mode settlement](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/partial-mode-settlement.png)
 
 ### Cancellation
 
@@ -219,17 +138,7 @@ sequenceDiagram
 3. The merchant requests the cancellation of the remaining order amount ($80) from the gateway
 4. The gateway requests the cancellation of the remaining order amount ($80) from the connector
 
-```mermaid
-sequenceDiagram
-        participant Merchant
-    participant Gateway
-    participant Connector
-
-    Merchant->>Gateway: 1. Requests to cancel $20
-    Gateway->>Connector: 2. Requests to cancel $20
-    Merchant->>Gateway: 3. Requests to cancel the remaining $80
-    Gateway->>Connector: 4. Requests to cancel the remaining $80
-```
+![Partial mode cancellation](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/partial-mode-cancellation.png)
 
 ### Refund
 
@@ -238,17 +147,7 @@ sequenceDiagram
 3. The merchant requests a refund of the remaining order amount ($80) from the gateway
 4. The gateway requests a refund of the remaining order amount ($80) from the connector
 
-```mermaid
-sequenceDiagram
-        participant Merchant
-    participant Gateway
-    participant Connector
-
-    Merchant->>Gateway: 1. Requests to refund $20
-    Gateway->>Connector: 2. Requests to refund $20
-    Merchant->>Gateway: 3. Requests to refund the remaining $80
-    Gateway->>Connector: 4. Requests to refund the remaining $80
-```
+![Partial mode refund](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/partial-mode-refund.png)
 
 > ℹ️ The connector will only carry out a refund operation if the requested amount has already been settled previously.
 
