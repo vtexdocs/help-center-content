@@ -40548,6 +40548,21 @@
             },
             {
               "name": {
+                "en": "Catalog does not remove special characters when setting up the text link",
+                "es": "El catálogo no elimina los caracteres especiales al configurar el enlace de texto.",
+                "pt": "O catálogo não remove caracteres especiais ao configurar o link de texto."
+              },
+              "slug": {
+                "en": "catalog-does-not-remove-special-characters-when-setting-up-the-text-link",
+                "es": "el-catalogo-no-elimina-los-caracteres-especiales-al-configurar-el-enlace-de-texto",
+                "pt": "o-catalogo-nao-remove-caracteres-especiais-ao-configurar-o-link-de-texto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Catalog Error exporting the report",
                 "es": "Catálogo Error al exportar el informe",
                 "pt": "Catalog Erro ao exportar o relatório"
@@ -43385,12 +43400,12 @@
               "name": {
                 "en": "StockKeepingUnitInsertUpdate WebService method allows to insert existent RefId",
                 "es": "El método WebService StockKeepingUnitInsertUpdate permite insertar un RefId existente",
-                "pt": "O método StockKeepingUnitInsertUpdate WebService permite a inserção de RefId existentes"
+                "pt": "O método StockKeepingUnitInsertUpdate WebService permite inserir um RefId existente."
               },
               "slug": {
                 "en": "stockkeepingunitinsertupdate-webservice-method-allows-to-insert-existent-refid",
                 "es": "el-metodo-webservice-stockkeepingunitinsertupdate-permite-insertar-un-refid-existente",
-                "pt": "o-metodo-stockkeepingunitinsertupdate-webservice-permite-a-insercao-de-refid-existentes"
+                "pt": "o-metodo-stockkeepingunitinsertupdate-webservice-permite-inserir-um-refid-existente"
               },
               "origin": "",
               "type": "markdown",
@@ -52331,14 +52346,14 @@
             },
             {
               "name": {
-                "en": "Prioritization by product's 'keyword' not considering stopwords",
-                "es": "Priorización por 'palabra clave' del producto sin tener en cuenta las 'stopwords",
-                "pt": "Priorização por 'palavra-chave' do produto, sem considerar stopwords"
+                "en": "Prioritization by product's \"keyword\" not considering stopwords",
+                "es": "Priorización por «palabra clave» del producto sin tener en cuenta las palabras vacías.",
+                "pt": "Priorização por “palavra-chave” do produto, sem considerar palavras irrelevantes"
               },
               "slug": {
                 "en": "prioritization-by-products-keyword-not-considering-stopwords",
-                "es": "priorizacion-por-palabra-clave-del-producto-sin-tener-en-cuenta-las-stopwords",
-                "pt": "priorizacao-por-palavrachave-do-produto-sem-considerar-stopwords"
+                "es": "priorizacion-por-palabra-clave-del-producto-sin-tener-en-cuenta-las-palabras-vacias",
+                "pt": "priorizacao-por-palavrachave-do-produto-sem-considerar-palavras-irrelevantes"
               },
               "origin": "",
               "type": "markdown",
@@ -61491,14 +61506,14 @@
             },
             {
               "name": {
-                "en": "Transaction cancellation error with 'Unreachable code' message",
-                "es": "Error de cancelación de transacción con el mensaje 'Código no localizable'.",
-                "pt": "Erro de cancelamento de transação com a mensagem 'Unreachable code' (código inacessível)"
+                "en": "Transaction cancellation error with \"Unreachable code\" message",
+                "es": "Error de cancelación de transacción con el mensaje «Código inaccesible».",
+                "pt": "Erro de cancelamento da transação com a mensagem “Código inacessível”"
               },
               "slug": {
                 "en": "transaction-cancellation-error-with-unreachable-code-message",
-                "es": "error-de-cancelacion-de-transaccion-con-el-mensaje-codigo-no-localizable",
-                "pt": "erro-de-cancelamento-de-transacao-com-a-mensagem-unreachable-code-codigo-inacessivel"
+                "es": "error-de-cancelacion-de-transaccion-con-el-mensaje-codigo-inaccesible",
+                "pt": "erro-de-cancelamento-da-transacao-com-a-mensagem-codigo-inacessivel"
               },
               "origin": "",
               "type": "markdown",
@@ -67525,6 +67540,37 @@
                 "en": "order-not-notified-carrier-leaves-label-barcode-incomplete",
                 "es": "el-pedido-no-notificado-al-transportista-deja-incompleto-el-codigo-de-barras-de-la-etiqueta",
                 "pt": "pedido-nao-notificado-transportadora-deixa-etiqueta-com-codigo-de-barras-incompleto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Personal shopper",
+            "es": "Personal shopper",
+            "pt": "Personal shopper"
+          },
+          "slug": {
+            "en": "personal-shopper",
+            "es": "personal-shopper",
+            "pt": "personal-shopper"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Notifications from the personal shopper are not arriving on WhatsApp.",
+                "es": "Las notificaciones del asistente personal de compras no llegan a WhatsApp.",
+                "pt": "As notificações do personal shopper não estão chegando no WhatsApp."
+              },
+              "slug": {
+                "en": "notifications-from-the-personal-shopper-are-not-arriving-on-whatsapp",
+                "es": "las-notificaciones-del-asistente-personal-de-compras-no-llegan-a-whatsapp",
+                "pt": "as-notificacoes-do-personal-shopper-nao-estao-chegando-no-whatsapp"
               },
               "origin": "",
               "type": "markdown",
