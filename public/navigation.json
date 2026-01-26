@@ -11,68 +11,6 @@
       "categories": [
         {
           "name": {
-            "en": "2026",
-            "es": "2026",
-            "pt": "2026"
-          },
-          "slug": {
-            "en": "2026",
-            "es": "2026",
-            "pt": "2026"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "January",
-                "es": "Enero",
-                "pt": "Janeiro"
-              },
-              "slug": {
-                "en": "2026-january",
-                "es": "2026-enero",
-                "pt": "2026-janeiro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Login with Google and Facebook: Client secrets are now masked",
-                    "es": "Inicio de sesión con Google y Facebook: enmascaramiento del secreto del cliente",
-                    "pt": "Login com Google e Facebook: Client Secret agora é mascarado"
-                  },
-                  "slug": {
-                    "en": "2026-01-23-login-with-google-and-facebook-client-secret-masked",
-                    "es": "2026-01-23-login-con-google-y-facebook-secreto-del-cliente-enmascarado",
-                    "pt": "2026-01-23-login-com-google-e-facebook-client-secret-mascarado"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "New Audit event export",
-                    "es": "Nueva exportación de eventos de Audit",
-                    "pt": "Nova exportação de eventos do Audit"
-                  },
-                  "slug": {
-                    "en": "2026-01-08-new-audit-event-export",
-                    "es": "2026-01-08-nueva-audit-exportacion-eventos",
-                    "pt": "2026-01-08-nova-exportacao-eventos-audit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "2025",
             "es": "2025",
             "pt": "2025"
@@ -85,82 +23,6 @@
           "origin": "",
           "type": "category",
           "children": [
-            {
-              "name": {
-                "en": "December",
-                "es": "Diciembre",
-                "pt": "Dezembro"
-              },
-              "slug": {
-                "en": "2025-december",
-                "es": "2025-diciembre",
-                "pt": "2025-dezembro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Granular permissions for Seller Register and Marketplace Network",
-                    "es": "Permisos granulares para Seller Register y Marketplace Network",
-                    "pt": "Permissões granulares para Seller Register e Marketplace Network"
-                  },
-                  "slug": {
-                    "en": "2025-12-23-granular-permissions-seller-marketplace-network",
-                    "es": "2025-12-23-permisos-granulares-seller-marketplace-network",
-                    "pt": "2025-12-23-permissoes-granulares-seller-marketplace-network"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Skyhub: New shipping model ",
-                    "es": "Skyhub: nuevo modelo de cálculo de envío ",
-                    "pt": "Skyhub: novo modelo de simulação de frete "
-                  },
-                  "slug": {
-                    "en": "2025-12-15-skyhub-new-shipping-model",
-                    "es": "2025-12-15-skyhub-nuevo-modelo-de-envio",
-                    "pt": "2025-12-15-skyhub-novo-modelo-de-calculo-de-frete"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Indeva by VTEX documentation now in the VTEX Help Center",
-                    "es": "La documentación de Indeva by VTEX migra al Help Center",
-                    "pt": "Documentação da Indeva by VTEX migrada para Help Center VTEX"
-                  },
-                  "slug": {
-                    "en": "2025-12-05-indeva-by-vtex-documentation-now-in-the-vtex-help-center",
-                    "es": "2025-12-05-la-documentacion-de-indeva-by-vtex-migra-al-help-center",
-                    "pt": "2025-12-05-documentacao-da-indeva-by-vtex-migrada-para-o-help-center-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Breaking change Livelo: New mandatory access permission ",
-                    "es": "Breaking change Livelo: Nuevo permiso obligatorio",
-                    "pt": "Breaking change Livelo: Nova permissão de acesso obrigatória"
-                  },
-                  "slug": {
-                    "en": "2025-12-02-breaking-change-livelo-new-mandatory-permission",
-                    "es": "2025-12-02-breaking-change-livelo-nuevo-permiso-obligatorio",
-                    "pt": "2025-12-02-breaking-change-livelo-nova-permissao-obrigatoria"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
             {
               "name": {
                 "en": "November",
@@ -853,7 +715,7 @@
               "slug": {
                 "en": "2025-march",
                 "es": "2025-marzo",
-                "pt": "2025-marco"
+                "pt": "2025-março"
               },
               "origin": "",
               "type": "category",
@@ -1065,6 +927,37 @@
                     "en": "2025-01-21-optimize-logistics-with-operational-capacity-beta",
                     "es": "2025-01-21-optimiza-logistica-con-capacidad-operativa-beta",
                     "pt": "2025-01-21-otimize-logistica-com-capacidade-operacional-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "December",
+                "es": "Diciembre",
+                "pt": "Dezembro"
+              },
+              "slug": {
+                "en": "december",
+                "es": "diciembre",
+                "pt": "dezembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Breaking change Livelo: New mandatory access permission ",
+                    "es": "Breaking change Livelo: Nuevo permiso obligatorio",
+                    "pt": "Breaking change Livelo: Nova permissão de acesso obrigatória"
+                  },
+                  "slug": {
+                    "en": "2025-12-02-breaking-change-livelo-new-mandatory-permission",
+                    "es": "2025-12-02-breaking-change-livelo-nuevo-permiso-obligatorio",
+                    "pt": "2025-12-02-breaking-change-livelo-nova-permissao-obrigatoria"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -1736,7 +1629,7 @@
               "slug": {
                 "en": "2024-march",
                 "es": "2024-marzo",
-                "pt": "2024-marco"
+                "pt": "2024-março"
               },
               "origin": "",
               "type": "category",
@@ -3439,7 +3332,7 @@
               "slug": {
                 "en": "2022-march",
                 "es": "2022-marzo",
-                "pt": "2022-marco"
+                "pt": "2022-março"
               },
               "origin": "",
               "type": "category",
@@ -4306,7 +4199,7 @@
               "slug": {
                 "en": "2021-march",
                 "es": "2021-marzo",
-                "pt": "2021-marco"
+                "pt": "2021-março"
               },
               "origin": "",
               "type": "category",
@@ -5490,7 +5383,7 @@
               "slug": {
                 "en": "2020-march",
                 "es": "2020-marzo",
-                "pt": "2020-marco"
+                "pt": "2020-março"
               },
               "origin": "",
               "type": "category",
@@ -5638,6 +5531,37 @@
             },
             {
               "name": {
+                "en": "january",
+                "es": "enero",
+                "pt": "janeiro"
+              },
+              "slug": {
+                "en": "january",
+                "es": "enero",
+                "pt": "janeiro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Now you can choose the interest type used on installments",
+                    "es": "Ahora usted puede elegir el tipo de interés utilizado en las cuotas de su tienda",
+                    "pt": "Agora você pode escolher o tipo de juros usado nas parcelas da sua loja"
+                  },
+                  "slug": {
+                    "en": "2019-01-03-now-you-can-choose-the-interest-type-used-on-installments",
+                    "es": "2019-01-03-ahora-usted-puede-elegir-el-tipo-de-interes-utilizado-en-las-cuotas-de-su",
+                    "pt": "2019-01-03-agora-voce-pode-escolher-o-tipo-de-juros-usado-nas-parcelas-da-sua-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "November",
                 "es": "November",
                 "pt": "Novembro"
@@ -5660,37 +5584,6 @@
                     "en": "2019-11-01-b2w-integration-automate-picking-request-with-b2w-coleta",
                     "pt": "2019-11-01-integracao-b2w-automatize-a-solicitacao-de-picking-com-a-b2w-coleta",
                     "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "October",
-                "es": "Octubre",
-                "pt": "Outubro"
-              },
-              "slug": {
-                "en": "2019-october",
-                "es": "2019-octubre",
-                "pt": "2019-outubro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Build customer loyalty with the new subscription promotion option",
-                    "es": "Fidelice a sus clientes con la nueva opción de promoción por suscripción",
-                    "pt": "Fidelize seus clientes com a nova opção de promoção por assinatura"
-                  },
-                  "slug": {
-                    "en": "2019-10-31-build-customer-loyalty-with-the-new-subscription-promotion-option",
-                    "es": "2019-10-31-fidelice-a-sus-clientes-con-la-nueva-opcion-de-promocion-por-suscripcion",
-                    "pt": "2019-10-31-fidelize-seus-clientes-com-a-nova-opcao-de-promocao-por-assinatura"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -6148,7 +6041,7 @@
               "slug": {
                 "en": "2019-march",
                 "es": "2019-marzo",
-                "pt": "2019-marco"
+                "pt": "2019-março"
               },
               "origin": "",
               "type": "category",
@@ -6263,28 +6156,28 @@
             },
             {
               "name": {
-                "en": "January",
-                "es": "Enero",
-                "pt": "Janeiro"
+                "en": "october",
+                "es": "octubre",
+                "pt": "outubro"
               },
               "slug": {
-                "en": "2019-january",
-                "es": "2019-enero",
-                "pt": "2019-janeiro"
+                "en": "october",
+                "es": "octubre",
+                "pt": "outubro"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "en": "Now you can choose the interest type used on installments",
-                    "es": "Ahora usted puede elegir el tipo de interés utilizado en las cuotas de su tienda",
-                    "pt": "Agora você pode escolher o tipo de juros usado nas parcelas da sua loja"
+                    "en": "Build customer loyalty with the new subscription promotion option",
+                    "es": "Fidelice a sus clientes con la nueva opción de promoción por suscripción",
+                    "pt": "Fidelize seus clientes com a nova opção de promoção por assinatura"
                   },
                   "slug": {
-                    "en": "2019-01-03-now-you-can-choose-the-interest-type-used-on-installments",
-                    "es": "2019-01-03-ahora-usted-puede-elegir-el-tipo-de-interes-utilizado-en-las-cuotas-de-su",
-                    "pt": "2019-01-03-agora-voce-pode-escolher-o-tipo-de-juros-usado-nas-parcelas-da-sua-loja"
+                    "en": "2019-10-31-build-customer-loyalty-with-the-new-subscription-promotion-option",
+                    "es": "2019-10-31-fidelice-a-sus-clientes-con-la-nueva-opcion-de-promocion-por-suscripcion",
+                    "pt": "2019-10-31-fidelize-seus-clientes-com-a-nova-opcao-de-promocao-por-assinatura"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -6971,7 +6864,7 @@
               "slug": {
                 "en": "2018-march",
                 "es": "2018-marzo",
-                "pt": "2018-marco"
+                "pt": "2018-março"
               },
               "origin": "",
               "type": "category",
@@ -9478,7 +9371,7 @@
           "children": [
             {
               "name": {
-                "en": "VTEX Store - Overview",
+                "en": "VTEX store overview",
                 "es": "Serie de la tienda VTEX",
                 "pt": "Trilha da loja VTEX"
               },
@@ -10144,8 +10037,8 @@
                 {
                   "name": {
                     "en": "1. Pricing - Overview",
-                    "es": "1. Precios - Información general",
-                    "pt": "1. Preços - Visão geral"
+                    "es": "1. Precios - Visión General",
+                    "pt": "1. Preços - Visão Geral"
                   },
                   "slug": {
                     "en": "prices-module-overview",
@@ -10884,7 +10777,7 @@
                 {
                   "name": {
                     "en": "1. CMS - Overview",
-                    "es": "1. CMS - Información general",
+                    "es": "1. CMS - Visión general",
                     "pt": "1. CMS - Visão geral"
                   },
                   "slug": {
@@ -12734,8 +12627,8 @@
                 {
                   "name": {
                     "en": "1. Intelligent Search",
-                    "es": "1. Intelligent Search - Información general",
-                    "pt": "1. Intelligent Search - Visão geral"
+                    "es": "1. Intelligent Search",
+                    "pt": "1. Intelligent Search"
                   },
                   "slug": {
                     "en": "overview-intelligent-search",
@@ -13023,9 +12916,9 @@
                 },
                 {
                   "name": {
-                    "en": "2. Amazon integration - Overview",
-                    "es": "2. Amazon integración - Información general",
-                    "pt": "2. Integração da Amazon - Visão geral"
+                    "en": "2. Amazon Integration overview",
+                    "es": "2. Visión general de la Amazon integración",
+                    "pt": "2. Visão geral da integração da Amazon"
                   },
                   "slug": {
                     "en": "amazon-integration-overview",
@@ -13688,9 +13581,9 @@
                 },
                 {
                   "name": {
-                    "en": "2. Integration with Facebook Business Extension - Overview",
-                    "es": "2. Integración con Facebook Business Extension - Información general",
-                    "pt": "2. Integração com o Facebook Business Extension - Visão geral"
+                    "en": "2. Integration with Facebook Business Extension overview",
+                    "es": "2. Visión general de la integración con Facebook Business Extension",
+                    "pt": "2. Visão geral da integração com o Facebook Business Extension"
                   },
                   "slug": {
                     "en": "integration-with-facebook-business-extension-overview",
@@ -13764,9 +13657,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. B2W integration - Overview",
-                    "es": "1. Integración B2W - Información general",
-                    "pt": "1. Integração B2W - Visão geral"
+                    "en": "1. Integration overview",
+                    "es": "1. Visión general de la integración",
+                    "pt": "1. Visão geral da integração"
                   },
                   "slug": {
                     "en": "integration-overview-b2w",
@@ -14127,9 +14020,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Rappi integration - Overview",
-                    "es": "1. Rappi integración - Información general",
-                    "pt": "1. Integração com a Rappi - Visão geral"
+                    "en": "1. Rappi Integration overview",
+                    "es": "1. Visión general  de la Rappi integración",
+                    "pt": "1. Visão geral da integração com a Rappi"
                   },
                   "slug": {
                     "en": "rappi-integration-overview",
@@ -14354,9 +14247,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Shopee integration - Overview",
+                    "en": "1. Integration Overview",
                     "es": "1. Resumen de integración",
-                    "pt": "1. Integração com a Shopee - Visão geral"
+                    "pt": "1. Visão geral da integração"
                   },
                   "slug": {
                     "en": "integration-overview-shopee",
@@ -14915,9 +14808,9 @@
                 },
                 {
                   "name": {
-                    "en": "2. Facebook integration - Overview",
-                    "es": "2. Marketplace integración - Información general",
-                    "pt": "2. Integração com o Facebook - Visão geral"
+                    "en": "2. Integration overview",
+                    "es": "2. Visión general de la integración",
+                    "pt": "2. Visão geral da integração"
                   },
                   "slug": {
                     "en": "integration-overview",
@@ -15082,9 +14975,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Livelo integration - Overview",
-                    "es": "1. Livelo integración - Información general",
-                    "pt": "1. Integração com a Livelo - Visão geral"
+                    "en": "1. Livelo Integration overview",
+                    "es": "1. Visión general  de la Livelo integración",
+                    "pt": "1. Visão geral da integração com a Livelo"
                   },
                   "slug": {
                     "en": "livelo-integration-overview",
@@ -15173,9 +15066,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Posthaus integration - Overview",
+                    "en": "1. Posthaus Integration Overview",
                     "es": "1. Descripción general de la integración de Posthaus",
-                    "pt": "1. Integração com a Posthaus - Visão geral"
+                    "pt": "1. Visão geral da integração com a Posthaus"
                   },
                   "slug": {
                     "en": "posthaus-integration-overview",
@@ -15800,8 +15693,8 @@
           "children": [
             {
               "name": {
-                "en": "Admin - Overview",
-                "es": "Admin - Información general",
+                "en": "Admin overview",
+                "es": "Visión general del Admin",
                 "pt": "Visão do geral do Admin"
               },
               "slug": {
@@ -15844,9 +15737,9 @@
                 },
                 {
                   "name": {
-                    "en": "Marketplace - Overview",
-                    "es": "Marketplace - Información general",
-                    "pt": "Marketplace - Visão geral"
+                    "en": "Marketplace Overview",
+                    "es": "Visión General Marketplace",
+                    "pt": "Visão Geral Marketplace"
                   },
                   "slug": {
                     "en": "marketplace-overview",
@@ -15982,9 +15875,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Account settings - Overview",
-                    "es": "Configuraciones de la cuenta - Información general",
-                    "pt": "Configurações da conta - Visão geral"
+                    "en": "Account settings overview",
+                    "es": "Visión general configuraciones de la cuenta",
+                    "pt": "Visão geral configurações da conta"
                   },
                   "slug": {
                     "en": "account-settings-overview",
@@ -16375,9 +16268,9 @@
                 },
                 {
                   "name": {
-                    "en": "User settings - Overview",
-                    "es": "Configuraciones de Usuário - Información general",
-                    "pt": "Configurações de Usuário - Visão geral"
+                    "en": "User settings Overview",
+                    "es": "Visión General Configuraciones de Usuário",
+                    "pt": "Visão Geral Configurações de Usuário"
                   },
                   "slug": {
                     "en": "user-settings-overview",
@@ -16470,9 +16363,9 @@
             },
             {
               "name": {
-                "en": "Apps - Overview",
+                "en": "Apps Overview",
                 "es": "Visión de conjunto de Apps",
-                "pt": "Apps - Visão geral"
+                "pt": "Visão geral de Apps"
               },
               "slug": {
                 "en": "apps-overview-subcategory",
@@ -16484,9 +16377,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Apps - Overview",
+                    "en": "Apps Overview",
                     "es": "Vision General Apps",
-                    "pt": "Apps - Visão geral"
+                    "pt": "Visão Geral Apps"
                   },
                   "slug": {
                     "en": "apps-overview",
@@ -16577,8 +16470,8 @@
                 {
                   "name": {
                     "en": "Customer Credit - Overview",
-                    "es": "Customer Credit - Información general",
-                    "pt": "Customer Credit - Visão geral"
+                    "es": "Customer Credit - Visión General",
+                    "pt": "Customer Credit - Visão Geral"
                   },
                   "slug": {
                     "en": "customer-credit-overview",
@@ -16714,9 +16607,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Personal Shopper - Overview",
-                    "es": "Personal Shopper - Información general",
-                    "pt": "Personal Shopper - Visão geral"
+                    "en": "Personal Shopper Overview",
+                    "es": "Personal Shopper: visión general",
+                    "pt": "Visão geral do Personal Shopper"
                   },
                   "slug": {
                     "en": "personal-shopper-overview",
@@ -17007,9 +16900,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "B2B Orders History - Overview",
-                    "es": "B2B Orders History - Información general",
-                    "pt": "Histórico de Pedidos B2B - Visão geral"
+                    "en": "Overview of B2B Orders History",
+                    "es": "Vista general de B2B Orders History",
+                    "pt": "Visão Geral do Histórico de Pedidos B2B"
                   },
                   "slug": {
                     "en": "overview-of-b2b-orders-history",
@@ -17190,9 +17083,9 @@
                 },
                 {
                   "name": {
-                    "en": "B2B trade policies - Overview",
-                    "es": "Políticas comerciales en B2B - Información general",
-                    "pt": "Política comercial no B2B - Visão geral"
+                    "en": "B2B trade policies overview",
+                    "es": "Vista general de las políticas comerciales en B2B",
+                    "pt": "Visão geral da política comercial no B2B"
                   },
                   "slug": {
                     "en": "b2b-trade-policies-overview",
@@ -17282,9 +17175,9 @@
             },
             {
               "name": {
-                "en": "B2B - Overview",
-                "es": "B2B - Información general",
-                "pt": "B2B - Visão geral"
+                "en": "Overview",
+                "es": "Visión general",
+                "pt": "Visão geral"
               },
               "slug": {
                 "en": "overview-subcategory",
@@ -17297,8 +17190,8 @@
                 {
                   "name": {
                     "en": "B2B – Overview",
-                    "es": "B2B - Información general",
-                    "pt": "B2B – Visão geral"
+                    "es": "B2B: visión general",
+                    "pt": "B2B – Visão Geral"
                   },
                   "slug": {
                     "en": "b2b-overview",
@@ -17312,7 +17205,7 @@
                 {
                   "name": {
                     "en": "B2B Suite - Overview",
-                    "es": "B2B Suite - Información general",
+                    "es": "B2B Suite - Visión general",
                     "pt": "B2B Suite - Visão geral"
                   },
                   "slug": {
@@ -17618,6 +17511,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "​​Dynamic relevance in Intelligent Search (Beta)",
+                    "es": "Relevancia dinámica en Intelligent Search (beta)",
+                    "pt": "Relevância dinâmica no Intelligent Search (Beta)"
+                  },
+                  "slug": {
+                    "en": "dynamic-relevance-in-intelligent-search-beta",
+                    "es": "relevancia-dinamica-en-intelligent-search-beta",
+                    "pt": "relevancia-dinamica-no-intelligent-search-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Intelligent Search: Semantic search (Beta)",
                     "es": "Intelligent Search: Búsqueda semántica (Beta)",
                     "pt": "Intelligent Search: Busca semântica (Beta)"
@@ -17741,21 +17649,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Releases - Overview",
-                    "es": "Introducción a Releases",
-                    "pt": "Lançamentos - Visão geral"
-                  },
-                  "slug": {
-                    "en": "releases-overview",
-                    "es": "introduccion-a-releases",
-                    "pt": "visao-geral-lancamentos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Releases Module (Beta)",
                     "es": "Módulo de Lanzamientos (Beta)",
                     "pt": "Módulo Lançamentos (Beta)"
@@ -17764,6 +17657,21 @@
                     "en": "releases-module-beta",
                     "es": "modulo-de-lanzamientos-beta",
                     "pt": "modulo-lancamentos-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Releases Overview",
+                    "es": "Introducción a Releases",
+                    "pt": "Visão Geral Lançamentos"
+                  },
+                  "slug": {
+                    "en": "releases-overview",
+                    "es": "introduccion-a-releases",
+                    "pt": "visao-geral-lancamentos"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18033,8 +17941,8 @@
                     "pt": "Navegação Data Pipeline"
                   },
                   "slug": {
-                    "en": "navigation-data-pipeline",
-                    "es": "navegacion-data-pipeline",
+                    "en": "navigation",
+                    "es": "navegacion",
                     "pt": "navegacao-data-pipeline-beta"
                   },
                   "origin": "",
@@ -18182,9 +18090,9 @@
           "children": [
             {
               "name": {
-                "en": "Billing - Overview",
-                "es": "Facturación - Información general",
-                "pt": "Faturas - Visão geral"
+                "en": "Billing Overview",
+                "es": "Facturación: visión general",
+                "pt": "Faturas: visão geral"
               },
               "slug": {
                 "en": "billing-overview-subcategory",
@@ -18196,9 +18104,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Billing - Overview",
-                    "es": "Facturación - Información general",
-                    "pt": "Faturas - Visão geral"
+                    "en": "Billing Overview",
+                    "es": "Visión General Facturación",
+                    "pt": "Visão Geral Faturas"
                   },
                   "slug": {
                     "en": "billing-module-overview",
@@ -18684,9 +18592,9 @@
             },
             {
               "name": {
-                "en": "Catalog - Overview",
-                "es": "Catálogo - Información general",
-                "pt": "Catálogo - Visão geral"
+                "en": "Catalog: Overview",
+                "es": "Catálogo: Visión General",
+                "pt": "Catálogo: Visão Geral"
               },
               "slug": {
                 "en": "catalog-overview-subcategory",
@@ -18698,9 +18606,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Catalog - Overview",
-                    "es": "Catálogo - Información general",
-                    "pt": "Catálogo - Visão geral"
+                    "en": "Catalog: Overview",
+                    "es": "Catálogo: visión general",
+                    "pt": "Catálogo: visão geral"
                   },
                   "slug": {
                     "en": "catalog-overview",
@@ -19851,9 +19759,9 @@
           "children": [
             {
               "name": {
-                "en": "Checkout - Overview",
+                "en": "Checkout overview",
                 "es": "Visión de conjunto de Checkout",
-                "pt": "Checkout - Visão geral"
+                "pt": "Visão geral do Checkout"
               },
               "slug": {
                 "en": "checkout-overview-subcategory",
@@ -19866,7 +19774,7 @@
                 {
                   "name": {
                     "en": "Checkout VTEX - Overview",
-                    "es": "Checkout VTEX - Información general",
+                    "es": "Checkout VTEX - Vista general",
                     "pt": "Checkout VTEX - Visão geral"
                   },
                   "slug": {
@@ -20234,21 +20142,6 @@
                     "en": "order-split-and-delivery-split",
                     "es": "division-de-pedidos-y-division-de-entregas",
                     "pt": "divisao-de-pedidos-e-divisao-de-entregas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "orderForm settings",
-                    "es": "Configuración de orderForm",
-                    "pt": "Configurações do orderForm"
-                  },
-                  "slug": {
-                    "en": "orderform-settings",
-                    "es": "configuracion-de-orderform",
-                    "pt": "configuracoes-do-orderform"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20951,9 +20844,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Dashboards - Overview",
+                    "en": "Dashboards Overview",
                     "es": "Vista General Dashboards",
-                    "pt": "Dashboards - Visão geral"
+                    "pt": "Visão Geral Dashboards"
                   },
                   "slug": {
                     "en": "dashboards-overview",
@@ -20981,7 +20874,7 @@
                 },
                 {
                   "name": {
-                    "en": "Store - Overview",
+                    "en": "Store Overview",
                     "es": "Vista General de la Tienda",
                     "pt": "Visão Geral da Loja"
                   },
@@ -21806,9 +21699,9 @@
             },
             {
               "name": {
-                "en": "Indeva - Overview",
-                "es": "Indeva - Información general",
-                "pt": "Indeva - Visão geral"
+                "en": "Overview Indeva",
+                "es": "Visión general Indeva",
+                "pt": "Visão Geral Indeva"
               },
               "slug": {
                 "en": "overview-indeva-subcategory",
@@ -21820,8 +21713,8 @@
               "children": [
                 {
                   "name": {
-                    "en": "View performance data in Indeva - Overview",
-                    "es": "Visualizar datos de desempeño en la información general de Indeva",
+                    "en": "View performance data in Indeva Overview",
+                    "es": "Visualizar datos de desempeño en la Vista general de Indeva",
                     "pt": "Visualizar dados de desempenho na Visão Geral do Indeva"
                   },
                   "slug": {
@@ -23577,9 +23470,9 @@
             },
             {
               "name": {
-                "en": "Integrations - Overview",
+                "en": "Integrations overview",
                 "es": "Visión de conjunto de Integraciones",
-                "pt": "Integrações - Visão geral"
+                "pt": "Visão geral de Integrações"
               },
               "slug": {
                 "en": "integrations-overview-subcategory",
@@ -24531,8 +24424,8 @@
             },
             {
               "name": {
-                "en": "Intelligent Search - Overview",
-                "es": "Intelligent Search - Información general",
+                "en": "Intelligent Search Overview",
+                "es": "Intelligent Search - Visión general",
                 "pt": "Intelligent Search - Visão geral"
               },
               "slug": {
@@ -24591,7 +24484,7 @@
                 {
                   "name": {
                     "en": "Intelligent Search - Overview",
-                    "es": "Intelligent Search - Información general",
+                    "es": "Intelligent Search - Visión general",
                     "pt": "Intelligent Search - Visão geral"
                   },
                   "slug": {
@@ -25537,9 +25430,9 @@
           "children": [
             {
               "name": {
-                "en": "Omnichannel - Overview",
-                "es": "Omnichannel - Información general",
-                "pt": "Omnichannel - Visão geral"
+                "en": "Omnichannel overview",
+                "es": "Visión general de Omnichannel",
+                "pt": "Visão geral de Omnichannel"
               },
               "slug": {
                 "en": "omnichannel-overview-subcategory",
@@ -25796,13 +25689,13 @@
                 {
                   "name": {
                     "en": "Responsibilities within the VTEX ecosystem",
-                    "es": "Responsabilidades en el ecosistema VTEX",
-                    "pt": "Responsabilidades no ecossistema VTEX"
+                    "pt": "Responsabilidades no ecossistema VTEX",
+                    "es": "Responsibilities within the VTEX ecosystem"
                   },
                   "slug": {
                     "en": "responsibilities-within-the-vtex-ecosystem",
-                    "es": "responsabilidades-en-el-ecosistema-vtex",
-                    "pt": "responsabilidades-no-ecossistema-vtex"
+                    "pt": "responsabilidades-no-ecossistema-vtex",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25848,6 +25741,37 @@
                     "en": "vtex-support-satisfaction-survey",
                     "es": "encuesta-de-satisfaccion-del-soporte-vtex",
                     "pt": "pesquisa-de-satisfacao-do-suporte-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Apoyo",
+                "es": "Apoyo",
+                "pt": "Apoyo"
+              },
+              "slug": {
+                "en": "apoyo",
+                "es": "apoyo-subcategoria",
+                "pt": "apoyo"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "Responsabilidades en el ecosistema VTEX",
+                    "en": "Responsabilidades en el ecosistema VTEX",
+                    "pt": "Responsabilidades en el ecosistema VTEX"
+                  },
+                  "slug": {
+                    "es": "responsabilidades-en-el-ecosistema-vtex",
+                    "en": "",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26597,9 +26521,9 @@
             },
             {
               "name": {
-                "en": "Orders - Overview",
+                "en": "Orders overview",
                 "es": "Visión de conjunto de Pedidos",
-                "pt": "Pedidos - Visão geral"
+                "pt": "Visão geral de pedidos"
               },
               "slug": {
                 "en": "orders-overview-subcategory",
@@ -26731,9 +26655,9 @@
                 },
                 {
                   "name": {
-                    "en": "Orders - Overview",
-                    "es": "Pedidos - Información general",
-                    "pt": "Pedidos - Visão geral"
+                    "en": "Orders Overview",
+                    "es": "Vista General Pedidos",
+                    "pt": "Visão Geral Pedidos"
                   },
                   "slug": {
                     "en": "orders-overview",
@@ -26871,7 +26795,7 @@
                   "name": {
                     "en": "Foresight Commerce Academy - Overview",
                     "es": "Foresight Commerce Academy - Visión Geral",
-                    "pt": "Foresight Commerce Academy - Visão geral"
+                    "pt": "Foresight Commerce Academy - Visão Geral"
                   },
                   "slug": {
                     "en": "foresight-commerce-academy-overview",
@@ -28165,21 +28089,6 @@
                 },
                 {
                   "name": {
-                    "en": "Setting up payments with Bold",
-                    "es": "Configurar pago con Bold",
-                    "pt": "Configurar pagamento com Bold"
-                  },
-                  "slug": {
-                    "en": "setting-up-payments-with-bold",
-                    "es": "configurar-pago-con-bold",
-                    "pt": "configurar-pagamento-com-bold"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Setting up payments with Bom Pra Credito",
                     "es": "Configurar pago con Bom Pra Credito",
                     "pt": "Configurar pagamento com Bom Pra Crédito"
@@ -28218,21 +28127,6 @@
                     "en": "setting-up-payments-with-brinks-cash-ecommerce",
                     "es": "configurar-pago-con-brinks-cash-ecommerce",
                     "pt": "configurar-pagamento-com-brinks-cash-ecommerce"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Setting up payments with Chase Payment",
-                    "es": "Configurar pago con Chase Payment",
-                    "pt": "Configurar pagamento com Chase Payment"
-                  },
-                  "slug": {
-                    "en": "setting-up-payments-with-chase-payment",
-                    "es": "configurar-pago-con-chase-payment",
-                    "pt": "configurar-pagamento-com-chase-payment"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -28330,21 +28224,6 @@
                 },
                 {
                   "name": {
-                    "en": "Setting up payments with Credibanco",
-                    "es": "Configurar pago con Credibanco",
-                    "pt": "Configurar pagamento com Credibanco"
-                  },
-                  "slug": {
-                    "en": "setting-up-payments-with-credibanco",
-                    "es": "configurar-pago-con-credibanco",
-                    "pt": "configurar-pagamento-com-credibanco"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Setting up payments with Credimarcas",
                     "es": "Configurar pago con Credimarcas",
                     "pt": "Configurar pagamento com Credimarcas"
@@ -28383,21 +28262,6 @@
                     "en": "setting-up-payments-with-creditea",
                     "es": "configurar-pago-con-creditea",
                     "pt": "configurar-pagamento-com-creditea"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Setting up payments with Creditop",
-                    "es": "Configurar pago con Creditop",
-                    "pt": "Configurar pagamento com Creditop"
-                  },
-                  "slug": {
-                    "en": "setting-up-payments-with-creditop",
-                    "es": "configurar-pago-con-creditop",
-                    "pt": "configurar-pagamento-com-creditop"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -30010,21 +29874,6 @@
                 },
                 {
                   "name": {
-                    "en": "Setting up payments with Visa Conecta",
-                    "es": "Configurar pago con Visa Conecta",
-                    "pt": "Configurar pagamento com Visa Conecta"
-                  },
-                  "slug": {
-                    "en": "setting-up-payments-with-visa-conecta",
-                    "es": "configurar-pago-con-visa-conecta",
-                    "pt": "configurar-pagamento-com-visa-conecta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Setting up payments with Wabi",
                     "es": "Configurar pago con Wabi",
                     "pt": "Configurar pagamento com Wabi"
@@ -30282,9 +30131,9 @@
             },
             {
               "name": {
-                "en": "Payments - Overview",
+                "en": "Payments overview",
                 "es": "Visión de conjunto de Pagos",
-                "pt": "Pagamentos - Visão geral"
+                "pt": "Visão geral de Pagamentos"
               },
               "slug": {
                 "en": "payments-overview-subcategory",
@@ -30454,21 +30303,6 @@
                     "en": "pix-faq",
                     "es": "pix-faq",
                     "pt": "pix-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Post-purchase payment operations",
-                    "es": "Operaciones de pago poscompra",
-                    "pt": "Operações de pagamentos pós-compra"
-                  },
-                  "slug": {
-                    "en": "post-purchase-payment-operations",
-                    "es": "operaciones-de-pago-poscompra",
-                    "pt": "operacoes-de-pagamentos-pos-compra"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -32123,9 +31957,9 @@
                 },
                 {
                   "name": {
-                    "en": "Promotions - Overview",
-                    "es": "Promociones - Información general",
-                    "pt": "Promoções - Visão geral"
+                    "en": "Promotions Overview",
+                    "es": "Visión General Promociones",
+                    "pt": "Visão Geral Promoções"
                   },
                   "slug": {
                     "en": "promotions-overview",
@@ -32230,9 +32064,9 @@
             },
             {
               "name": {
-                "en": "Rates & Benefits - Overview",
+                "en": "Rates & Benefits overview",
                 "es": "Visión de conjunto de Tasas y Promociones",
-                "pt": "Taxas & Promoções - Visão geral"
+                "pt": "Visão geral de Taxas & Promoções"
               },
               "slug": {
                 "en": "rates-and-benefits-overview-subcategory",
@@ -32244,9 +32078,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Campaign Audiences, promotions, taxes and coupons - Overview",
-                    "es": "Audiencia de Campañas, promociones, impuestos y cupones - Información general",
-                    "pt": "Visão geral - Audiência de campanhas, promoções, taxas e cupons"
+                    "en": "Overview:  Campaign Audiences, promotions, taxes and coupons",
+                    "es": "Visión general: Audiencia de Campañas, promociones, impuestos y cupones",
+                    "pt": "Visão geral: Audiência de campanhas, promoções, taxas e cupons"
                   },
                   "slug": {
                     "en": "overview-pricing-module",
@@ -33127,9 +32961,9 @@
             },
             {
               "name": {
-                "en": "Sellers - Overview",
+                "en": "Sellers Overview",
                 "es": "Visión de conjunto de Sellers",
-                "pt": "Sellers - Visão geral"
+                "pt": "Visão geral de Sellers"
               },
               "slug": {
                 "en": "sellers-overview-subcategory",
@@ -33614,9 +33448,9 @@
             },
             {
               "name": {
-                "en": "Logistics - Overview",
-                "es": "Logística - Información general",
-                "pt": "logística - Visão geral"
+                "en": "Logistics Overview",
+                "es": "Visión general de la logística",
+                "pt": "Visão geral da logística"
               },
               "slug": {
                 "en": "logistics-overview-subcategory",
@@ -33658,9 +33492,9 @@
                 },
                 {
                   "name": {
-                    "en": "Shipping - Overview",
-                    "es": "Envio - Información general",
-                    "pt": "Envio - Visão geral"
+                    "en": "Shipping Overview",
+                    "es": "Visión General Envio",
+                    "pt": "Visão Geral Envio"
                   },
                   "slug": {
                     "en": "shipping-overview",
@@ -34493,9 +34327,9 @@
             },
             {
               "name": {
-                "en": "Store Settings - Overview",
-                "es": "Configuraciones de la Tienda - Información general",
-                "pt": "Configurações da Loja - Visão geral"
+                "en": "Store Settings Overview",
+                "es": "Visión General de Configuraciones de la Tienda",
+                "pt": "Visão Geral de Configurações da Loja"
               },
               "slug": {
                 "en": "store-settings-overview-subcategory",
@@ -34522,9 +34356,9 @@
                 },
                 {
                   "name": {
-                    "en": "Store Settings - Overview",
-                    "es": "Configuraciones de la Tienda - Información general",
-                    "pt": "Configurações da Loja - Visão geral"
+                    "en": "Store Settings Overview",
+                    "es": "Visión General Configuraciones de la Tienda",
+                    "pt": "Visão Geral Configurações da Loja"
                   },
                   "slug": {
                     "en": "store-settings-overview",
@@ -34585,7 +34419,7 @@
                 {
                   "name": {
                     "en": "Headless CMS - Overview",
-                    "es": "Headless CMS - Información general",
+                    "es": "Headless CMS - Visión general",
                     "pt": "Headless CMS - Visão geral"
                   },
                   "slug": {
@@ -34645,7 +34479,7 @@
                 {
                   "name": {
                     "en": "Media - Overview",
-                    "es": "Multimedia - Información general",
+                    "es": "Multimedia - Visión general",
                     "pt": "Mídia - Visão geral"
                   },
                   "slug": {
@@ -34676,8 +34510,8 @@
                 {
                   "name": {
                     "en": "A/B Testing for stores on Legacy CMS Portal",
-                    "es": "Pruebas A/B para tiendas en CMS Portal (Legado)",
-                    "pt": "Teste A/B para lojas no CMS Portal (Legado)"
+                    "es": "Pruebas A/B para tiendas en CMS Portal Legado",
+                    "pt": "Teste A/B para lojas no CMS Portal Legado"
                   },
                   "slug": {
                     "en": "ab-testing-how-where-when-and-why",
@@ -34811,7 +34645,7 @@
                 {
                   "name": {
                     "en": "Changing the pages of the site to HTTPS protocol",
-                    "es": "Cambiar las páginas del sitio al protocolo HTTPS",
+                    "es": "Cambiar las páginas del sitio para el protocolo HTTPS",
                     "pt": "Alterar as páginas do site para o protocolo HTTPS"
                   },
                   "slug": {
@@ -35367,7 +35201,7 @@
                   "name": {
                     "en": "Layout Overview",
                     "es": "Visión de conjunto de Layout",
-                    "pt": "Layout - Visão geral"
+                    "pt": "Visão Geral do Layout"
                   },
                   "slug": {
                     "en": "what-is-cms-layout",
@@ -35697,7 +35531,7 @@
                 {
                   "name": {
                     "en": "Pages - Overview",
-                    "es": "Páginas - Información general",
+                    "es": "Páginas - Visión general",
                     "pt": "Páginas - Visão geral"
                   },
                   "slug": {
@@ -35833,7 +35667,7 @@
                 {
                   "name": {
                     "en": "Site Editor - Overview",
-                    "es": "Site Editor - Información general",
+                    "es": "Site Editor - Visión general",
                     "pt": "Site Editor - Visão geral"
                   },
                   "slug": {
@@ -35894,8 +35728,8 @@
                 {
                   "name": {
                     "en": "Configuring SEO in Legacy CMS Portal stores",
-                    "es": "Configurar SEO en tiendas CMS Portal (Legado)",
-                    "pt": "Configurando SEO em sua loja CMS Portal (Legado)"
+                    "es": "Configurar SEO en tiendas CMS Portal Legado",
+                    "pt": "Configurando SEO em sua loja CMS Portal Legado"
                   },
                   "slug": {
                     "en": "configuring-seo-in-legacy-cms-portal-stores",
@@ -35999,7 +35833,7 @@
                 {
                   "name": {
                     "en": "Store - Overview",
-                    "es": "Tienda - Información general",
+                    "es": "Tienda - Visión general",
                     "pt": "Loja - Visão geral"
                   },
                   "slug": {
@@ -36013,9 +35847,9 @@
                 },
                 {
                   "name": {
-                    "en": "Storefront Settings - Overview",
-                    "es": "Configuración de Storefront - Información general",
-                    "pt": "Configurações de Storefront - Visão geral"
+                    "en": "Storefront Settings Overview",
+                    "es": "Visión General Configuración de Storefront",
+                    "pt": "Visão Geral Configurações de Storefront"
                   },
                   "slug": {
                     "en": "storefront-settings-overview",
@@ -36045,9 +35879,9 @@
             },
             {
               "name": {
-                "en": "Storefront - Overview",
-                "es": "Storefront - Información general",
-                "pt": "Storefront - Visão geral"
+                "en": "Storefront Overview",
+                "es": "Visión General Storefront",
+                "pt": "Visão Geral Storefront"
               },
               "slug": {
                 "en": "storefront-overview-subcategory",
@@ -36059,9 +35893,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Storefront - Overview",
-                    "es": "Storefront - Información general",
-                    "pt": "Storefront - Visão geral"
+                    "en": "Storefront Overview",
+                    "es": "Visión General Storefront",
+                    "pt": "Visão Geral Storefront"
                   },
                   "slug": {
                     "en": "storefront-overview",
@@ -36106,7 +35940,7 @@
                 {
                   "name": {
                     "en": "Styles - Overview",
-                    "es": "Estilos - Información general",
+                    "es": "Estilos - Visión general",
                     "pt": "Estilos - Visão geral"
                   },
                   "slug": {
@@ -36459,12 +36293,12 @@
             },
             {
               "name": {
-                "en": "Trade Policies - Overview",
+                "en": "Trade Policies' overview",
                 "es": "Visión de conjunto de Políticas Comerciales",
-                "pt": "Políticas Comerciais - Visão geral"
+                "pt": "Visão geral de Políticas Comerciais"
               },
               "slug": {
-                "en": "trade-policies-overview-subcategory",
+                "en": "trade-policies'-overview-subcategory",
                 "es": "vision-de-conjunto-de-politicas-comerciales-subcategoria",
                 "pt": "visão-geral-de-políticas-comerciais-subcategoria"
               },
@@ -36825,8 +36659,8 @@
             },
             {
               "name": {
-                "en": "VTEX Tracking - Overview",
-                "es": "VTEX Tracking - Información general",
+                "en": "Overview VTEX Tracking",
+                "es": "Visión general VTEX Tracking",
                 "pt": "Visão geral VTEX Tracking"
               },
               "slug": {
@@ -36854,9 +36688,9 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX Tracking - Overview",
-                    "es": "VTEX Tracking - Información general",
-                    "pt": "VTEX Tracking - Visão geral"
+                    "en": "VTEX Tracking Overview",
+                    "es": "Visión general VTEX Tracking",
+                    "pt": "Visão Geral VTEX Tracking"
                   },
                   "slug": {
                     "en": "vtex-tracking-overview",
@@ -36993,7 +36827,7 @@
                   "name": {
                     "en": "Routes",
                     "es": "Rutas",
-                    "pt": "Rotas - Visão geral"
+                    "pt": "Visão Geral de Rotas"
                   },
                   "slug": {
                     "en": "routes",
@@ -37310,9 +37144,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Agent Builder - Overview",
+                    "en": "Agent Builder overview",
                     "es": "Información general de Agent Builder",
-                    "pt": "Agent Builder - Visão geral"
+                    "pt": "Visão geral Agent Builder"
                   },
                   "slug": {
                     "en": "agent-builder-overview",
@@ -38669,7 +38503,7 @@
             },
             {
               "name": {
-                "en": "Weni by VTEX - Overview",
+                "en": "Weni by VTEX overview",
                 "es": "Visión de conjunto de Weni by VTEX",
                 "pt": "Visão geral Weni by VTEX"
               },
