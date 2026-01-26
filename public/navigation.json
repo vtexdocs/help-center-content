@@ -30431,6 +30431,21 @@
                 },
                 {
                   "name": {
+                    "en": "Payment settlement types",
+                    "es": "Tipos de liquidación de pagos",
+                    "pt": "Tipos de liquidação de pagamento"
+                  },
+                  "slug": {
+                    "en": "payment-settlement-types",
+                    "es": "tipos-de-liquidacion-de-pagos",
+                    "pt": "tipos-de-liquidacao-de-pagamento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Pix: FAQ",
                     "es": "Pix: FAQ",
                     "pt": "Pix: FAQ"
