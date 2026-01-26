@@ -11,6 +11,68 @@
       "categories": [
         {
           "name": {
+            "en": "2026",
+            "es": "2026",
+            "pt": "2026"
+          },
+          "slug": {
+            "en": "2026",
+            "es": "2026",
+            "pt": "2026"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "January",
+                "es": "Enero",
+                "pt": "Janeiro"
+              },
+              "slug": {
+                "en": "2026-january",
+                "es": "2026-enero",
+                "pt": "2026-janeiro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Login with Google and Facebook: Client secrets are now masked",
+                    "es": "Inicio de sesión con Google y Facebook: enmascaramiento del secreto del cliente",
+                    "pt": "Login com Google e Facebook: Client Secret agora é mascarado"
+                  },
+                  "slug": {
+                    "en": "2026-01-23-login-with-google-and-facebook-client-secret-masked",
+                    "es": "2026-01-23-login-con-google-y-facebook-secreto-del-cliente-enmascarado",
+                    "pt": "2026-01-23-login-com-google-e-facebook-client-secret-mascarado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "New Audit event export",
+                    "es": "Nueva exportación de eventos de Audit",
+                    "pt": "Nova exportação de eventos do Audit"
+                  },
+                  "slug": {
+                    "en": "2026-01-08-new-audit-event-export",
+                    "es": "2026-01-08-nueva-audit-exportacion-eventos",
+                    "pt": "2026-01-08-nova-exportacao-eventos-audit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": {
             "en": "2025",
             "es": "2025",
             "pt": "2025"
@@ -23,6 +85,82 @@
           "origin": "",
           "type": "category",
           "children": [
+            {
+              "name": {
+                "en": "December",
+                "es": "Diciembre",
+                "pt": "Dezembro"
+              },
+              "slug": {
+                "en": "2025-december",
+                "es": "2025-diciembre",
+                "pt": "2025-dezembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Granular permissions for Seller Register and Marketplace Network",
+                    "es": "Permisos granulares para Seller Register y Marketplace Network",
+                    "pt": "Permissões granulares para Seller Register e Marketplace Network"
+                  },
+                  "slug": {
+                    "en": "2025-12-23-granular-permissions-seller-marketplace-network",
+                    "es": "2025-12-23-permisos-granulares-seller-marketplace-network",
+                    "pt": "2025-12-23-permissoes-granulares-seller-marketplace-network"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Skyhub: New shipping model ",
+                    "es": "Skyhub: nuevo modelo de cálculo de envío ",
+                    "pt": "Skyhub: novo modelo de simulação de frete "
+                  },
+                  "slug": {
+                    "en": "2025-12-15-skyhub-new-shipping-model",
+                    "es": "2025-12-15-skyhub-nuevo-modelo-de-envio",
+                    "pt": "2025-12-15-skyhub-novo-modelo-de-calculo-de-frete"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Indeva by VTEX documentation now in the VTEX Help Center",
+                    "es": "La documentación de Indeva by VTEX migra al Help Center",
+                    "pt": "Documentação da Indeva by VTEX migrada para Help Center VTEX"
+                  },
+                  "slug": {
+                    "en": "2025-12-05-indeva-by-vtex-documentation-now-in-the-vtex-help-center",
+                    "es": "2025-12-05-la-documentacion-de-indeva-by-vtex-migra-al-help-center",
+                    "pt": "2025-12-05-documentacao-da-indeva-by-vtex-migrada-para-o-help-center-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Breaking change Livelo: New mandatory access permission ",
+                    "es": "Breaking change Livelo: Nuevo permiso obligatorio",
+                    "pt": "Breaking change Livelo: Nova permissão de acesso obrigatória"
+                  },
+                  "slug": {
+                    "en": "2025-12-02-breaking-change-livelo-new-mandatory-permission",
+                    "es": "2025-12-02-breaking-change-livelo-nuevo-permiso-obligatorio",
+                    "pt": "2025-12-02-breaking-change-livelo-nova-permissao-obrigatoria"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
             {
               "name": {
                 "en": "November",
@@ -715,7 +853,7 @@
               "slug": {
                 "en": "2025-march",
                 "es": "2025-marzo",
-                "pt": "2025-março"
+                "pt": "2025-marco"
               },
               "origin": "",
               "type": "category",
@@ -927,37 +1065,6 @@
                     "en": "2025-01-21-optimize-logistics-with-operational-capacity-beta",
                     "es": "2025-01-21-optimiza-logistica-con-capacidad-operativa-beta",
                     "pt": "2025-01-21-otimize-logistica-com-capacidade-operacional-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "December",
-                "es": "Diciembre",
-                "pt": "Dezembro"
-              },
-              "slug": {
-                "en": "december",
-                "es": "diciembre",
-                "pt": "dezembro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Breaking change Livelo: New mandatory access permission ",
-                    "es": "Breaking change Livelo: Nuevo permiso obligatorio",
-                    "pt": "Breaking change Livelo: Nova permissão de acesso obrigatória"
-                  },
-                  "slug": {
-                    "en": "2025-12-02-breaking-change-livelo-new-mandatory-permission",
-                    "es": "2025-12-02-breaking-change-livelo-nuevo-permiso-obligatorio",
-                    "pt": "2025-12-02-breaking-change-livelo-nova-permissao-obrigatoria"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -1629,7 +1736,7 @@
               "slug": {
                 "en": "2024-march",
                 "es": "2024-marzo",
-                "pt": "2024-março"
+                "pt": "2024-marco"
               },
               "origin": "",
               "type": "category",
@@ -3332,7 +3439,7 @@
               "slug": {
                 "en": "2022-march",
                 "es": "2022-marzo",
-                "pt": "2022-março"
+                "pt": "2022-marco"
               },
               "origin": "",
               "type": "category",
@@ -4199,7 +4306,7 @@
               "slug": {
                 "en": "2021-march",
                 "es": "2021-marzo",
-                "pt": "2021-março"
+                "pt": "2021-marco"
               },
               "origin": "",
               "type": "category",
@@ -5383,7 +5490,7 @@
               "slug": {
                 "en": "2020-march",
                 "es": "2020-marzo",
-                "pt": "2020-março"
+                "pt": "2020-marco"
               },
               "origin": "",
               "type": "category",
@@ -5531,37 +5638,6 @@
             },
             {
               "name": {
-                "en": "january",
-                "es": "enero",
-                "pt": "janeiro"
-              },
-              "slug": {
-                "en": "january",
-                "es": "enero",
-                "pt": "janeiro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Now you can choose the interest type used on installments",
-                    "es": "Ahora usted puede elegir el tipo de interés utilizado en las cuotas de su tienda",
-                    "pt": "Agora você pode escolher o tipo de juros usado nas parcelas da sua loja"
-                  },
-                  "slug": {
-                    "en": "2019-01-03-now-you-can-choose-the-interest-type-used-on-installments",
-                    "es": "2019-01-03-ahora-usted-puede-elegir-el-tipo-de-interes-utilizado-en-las-cuotas-de-su",
-                    "pt": "2019-01-03-agora-voce-pode-escolher-o-tipo-de-juros-usado-nas-parcelas-da-sua-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "November",
                 "es": "November",
                 "pt": "Novembro"
@@ -5584,6 +5660,37 @@
                     "en": "2019-11-01-b2w-integration-automate-picking-request-with-b2w-coleta",
                     "pt": "2019-11-01-integracao-b2w-automatize-a-solicitacao-de-picking-com-a-b2w-coleta",
                     "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "October",
+                "es": "Octubre",
+                "pt": "Outubro"
+              },
+              "slug": {
+                "en": "2019-october",
+                "es": "2019-octubre",
+                "pt": "2019-outubro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Build customer loyalty with the new subscription promotion option",
+                    "es": "Fidelice a sus clientes con la nueva opción de promoción por suscripción",
+                    "pt": "Fidelize seus clientes com a nova opção de promoção por assinatura"
+                  },
+                  "slug": {
+                    "en": "2019-10-31-build-customer-loyalty-with-the-new-subscription-promotion-option",
+                    "es": "2019-10-31-fidelice-a-sus-clientes-con-la-nueva-opcion-de-promocion-por-suscripcion",
+                    "pt": "2019-10-31-fidelize-seus-clientes-com-a-nova-opcao-de-promocao-por-assinatura"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -6041,7 +6148,7 @@
               "slug": {
                 "en": "2019-march",
                 "es": "2019-marzo",
-                "pt": "2019-março"
+                "pt": "2019-marco"
               },
               "origin": "",
               "type": "category",
@@ -6156,28 +6263,28 @@
             },
             {
               "name": {
-                "en": "october",
-                "es": "octubre",
-                "pt": "outubro"
+                "en": "January",
+                "es": "Enero",
+                "pt": "Janeiro"
               },
               "slug": {
-                "en": "october",
-                "es": "octubre",
-                "pt": "outubro"
+                "en": "2019-january",
+                "es": "2019-enero",
+                "pt": "2019-janeiro"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "en": "Build customer loyalty with the new subscription promotion option",
-                    "es": "Fidelice a sus clientes con la nueva opción de promoción por suscripción",
-                    "pt": "Fidelize seus clientes com a nova opção de promoção por assinatura"
+                    "en": "Now you can choose the interest type used on installments",
+                    "es": "Ahora usted puede elegir el tipo de interés utilizado en las cuotas de su tienda",
+                    "pt": "Agora você pode escolher o tipo de juros usado nas parcelas da sua loja"
                   },
                   "slug": {
-                    "en": "2019-10-31-build-customer-loyalty-with-the-new-subscription-promotion-option",
-                    "es": "2019-10-31-fidelice-a-sus-clientes-con-la-nueva-opcion-de-promocion-por-suscripcion",
-                    "pt": "2019-10-31-fidelize-seus-clientes-com-a-nova-opcao-de-promocao-por-assinatura"
+                    "en": "2019-01-03-now-you-can-choose-the-interest-type-used-on-installments",
+                    "es": "2019-01-03-ahora-usted-puede-elegir-el-tipo-de-interes-utilizado-en-las-cuotas-de-su",
+                    "pt": "2019-01-03-agora-voce-pode-escolher-o-tipo-de-juros-usado-nas-parcelas-da-sua-loja"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -6864,7 +6971,7 @@
               "slug": {
                 "en": "2018-march",
                 "es": "2018-marzo",
-                "pt": "2018-março"
+                "pt": "2018-marco"
               },
               "origin": "",
               "type": "category",
@@ -9371,7 +9478,7 @@
           "children": [
             {
               "name": {
-                "en": "VTEX store overview",
+                "en": "VTEX Store - Overview",
                 "es": "Serie de la tienda VTEX",
                 "pt": "Trilha da loja VTEX"
               },
@@ -10037,8 +10144,8 @@
                 {
                   "name": {
                     "en": "1. Pricing - Overview",
-                    "es": "1. Precios - Visión General",
-                    "pt": "1. Preços - Visão Geral"
+                    "es": "1. Precios - Información general",
+                    "pt": "1. Preços - Visão geral"
                   },
                   "slug": {
                     "en": "prices-module-overview",
@@ -10777,7 +10884,7 @@
                 {
                   "name": {
                     "en": "1. CMS - Overview",
-                    "es": "1. CMS - Visión general",
+                    "es": "1. CMS - Información general",
                     "pt": "1. CMS - Visão geral"
                   },
                   "slug": {
@@ -12627,8 +12734,8 @@
                 {
                   "name": {
                     "en": "1. Intelligent Search",
-                    "es": "1. Intelligent Search",
-                    "pt": "1. Intelligent Search"
+                    "es": "1. Intelligent Search - Información general",
+                    "pt": "1. Intelligent Search - Visão geral"
                   },
                   "slug": {
                     "en": "overview-intelligent-search",
@@ -12916,9 +13023,9 @@
                 },
                 {
                   "name": {
-                    "en": "2. Amazon Integration overview",
-                    "es": "2. Visión general de la Amazon integración",
-                    "pt": "2. Visão geral da integração da Amazon"
+                    "en": "2. Amazon integration - Overview",
+                    "es": "2. Amazon integración - Información general",
+                    "pt": "2. Integração da Amazon - Visão geral"
                   },
                   "slug": {
                     "en": "amazon-integration-overview",
@@ -13581,9 +13688,9 @@
                 },
                 {
                   "name": {
-                    "en": "2. Integration with Facebook Business Extension overview",
-                    "es": "2. Visión general de la integración con Facebook Business Extension",
-                    "pt": "2. Visão geral da integração com o Facebook Business Extension"
+                    "en": "2. Integration with Facebook Business Extension - Overview",
+                    "es": "2. Integración con Facebook Business Extension - Información general",
+                    "pt": "2. Integração com o Facebook Business Extension - Visão geral"
                   },
                   "slug": {
                     "en": "integration-with-facebook-business-extension-overview",
@@ -13657,9 +13764,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Integration overview",
-                    "es": "1. Visión general de la integración",
-                    "pt": "1. Visão geral da integração"
+                    "en": "1. B2W integration - Overview",
+                    "es": "1. Integración B2W - Información general",
+                    "pt": "1. Integração B2W - Visão geral"
                   },
                   "slug": {
                     "en": "integration-overview-b2w",
@@ -14020,9 +14127,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Rappi Integration overview",
-                    "es": "1. Visión general  de la Rappi integración",
-                    "pt": "1. Visão geral da integração com a Rappi"
+                    "en": "1. Rappi integration - Overview",
+                    "es": "1. Rappi integración - Información general",
+                    "pt": "1. Integração com a Rappi - Visão geral"
                   },
                   "slug": {
                     "en": "rappi-integration-overview",
@@ -14247,9 +14354,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Integration Overview",
+                    "en": "1. Shopee integration - Overview",
                     "es": "1. Resumen de integración",
-                    "pt": "1. Visão geral da integração"
+                    "pt": "1. Integração com a Shopee - Visão geral"
                   },
                   "slug": {
                     "en": "integration-overview-shopee",
@@ -14808,9 +14915,9 @@
                 },
                 {
                   "name": {
-                    "en": "2. Integration overview",
-                    "es": "2. Visión general de la integración",
-                    "pt": "2. Visão geral da integração"
+                    "en": "2. Facebook integration - Overview",
+                    "es": "2. Marketplace integración - Información general",
+                    "pt": "2. Integração com o Facebook - Visão geral"
                   },
                   "slug": {
                     "en": "integration-overview",
@@ -14975,9 +15082,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Livelo Integration overview",
-                    "es": "1. Visión general  de la Livelo integración",
-                    "pt": "1. Visão geral da integração com a Livelo"
+                    "en": "1. Livelo integration - Overview",
+                    "es": "1. Livelo integración - Información general",
+                    "pt": "1. Integração com a Livelo - Visão geral"
                   },
                   "slug": {
                     "en": "livelo-integration-overview",
@@ -15066,9 +15173,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Posthaus Integration Overview",
+                    "en": "1. Posthaus integration - Overview",
                     "es": "1. Descripción general de la integración de Posthaus",
-                    "pt": "1. Visão geral da integração com a Posthaus"
+                    "pt": "1. Integração com a Posthaus - Visão geral"
                   },
                   "slug": {
                     "en": "posthaus-integration-overview",
@@ -15693,8 +15800,8 @@
           "children": [
             {
               "name": {
-                "en": "Admin overview",
-                "es": "Visión general del Admin",
+                "en": "Admin - Overview",
+                "es": "Admin - Información general",
                 "pt": "Visão do geral do Admin"
               },
               "slug": {
@@ -15737,9 +15844,9 @@
                 },
                 {
                   "name": {
-                    "en": "Marketplace Overview",
-                    "es": "Visión General Marketplace",
-                    "pt": "Visão Geral Marketplace"
+                    "en": "Marketplace - Overview",
+                    "es": "Marketplace - Información general",
+                    "pt": "Marketplace - Visão geral"
                   },
                   "slug": {
                     "en": "marketplace-overview",
@@ -15875,9 +15982,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Account settings overview",
-                    "es": "Visión general configuraciones de la cuenta",
-                    "pt": "Visão geral configurações da conta"
+                    "en": "Account settings - Overview",
+                    "es": "Configuraciones de la cuenta - Información general",
+                    "pt": "Configurações da conta - Visão geral"
                   },
                   "slug": {
                     "en": "account-settings-overview",
@@ -16268,9 +16375,9 @@
                 },
                 {
                   "name": {
-                    "en": "User settings Overview",
-                    "es": "Visión General Configuraciones de Usuário",
-                    "pt": "Visão Geral Configurações de Usuário"
+                    "en": "User settings - Overview",
+                    "es": "Configuraciones de Usuário - Información general",
+                    "pt": "Configurações de Usuário - Visão geral"
                   },
                   "slug": {
                     "en": "user-settings-overview",
@@ -16363,9 +16470,9 @@
             },
             {
               "name": {
-                "en": "Apps Overview",
+                "en": "Apps - Overview",
                 "es": "Visión de conjunto de Apps",
-                "pt": "Visão geral de Apps"
+                "pt": "Apps - Visão geral"
               },
               "slug": {
                 "en": "apps-overview-subcategory",
@@ -16377,9 +16484,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Apps Overview",
+                    "en": "Apps - Overview",
                     "es": "Vision General Apps",
-                    "pt": "Visão Geral Apps"
+                    "pt": "Apps - Visão geral"
                   },
                   "slug": {
                     "en": "apps-overview",
@@ -16470,8 +16577,8 @@
                 {
                   "name": {
                     "en": "Customer Credit - Overview",
-                    "es": "Customer Credit - Visión General",
-                    "pt": "Customer Credit - Visão Geral"
+                    "es": "Customer Credit - Información general",
+                    "pt": "Customer Credit - Visão geral"
                   },
                   "slug": {
                     "en": "customer-credit-overview",
@@ -16607,9 +16714,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Personal Shopper Overview",
-                    "es": "Personal Shopper: visión general",
-                    "pt": "Visão geral do Personal Shopper"
+                    "en": "Personal Shopper - Overview",
+                    "es": "Personal Shopper - Información general",
+                    "pt": "Personal Shopper - Visão geral"
                   },
                   "slug": {
                     "en": "personal-shopper-overview",
@@ -16900,9 +17007,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Overview of B2B Orders History",
-                    "es": "Vista general de B2B Orders History",
-                    "pt": "Visão Geral do Histórico de Pedidos B2B"
+                    "en": "B2B Orders History - Overview",
+                    "es": "B2B Orders History - Información general",
+                    "pt": "Histórico de Pedidos B2B - Visão geral"
                   },
                   "slug": {
                     "en": "overview-of-b2b-orders-history",
@@ -17083,9 +17190,9 @@
                 },
                 {
                   "name": {
-                    "en": "B2B trade policies overview",
-                    "es": "Vista general de las políticas comerciales en B2B",
-                    "pt": "Visão geral da política comercial no B2B"
+                    "en": "B2B trade policies - Overview",
+                    "es": "Políticas comerciales en B2B - Información general",
+                    "pt": "Política comercial no B2B - Visão geral"
                   },
                   "slug": {
                     "en": "b2b-trade-policies-overview",
@@ -17175,9 +17282,9 @@
             },
             {
               "name": {
-                "en": "Overview",
-                "es": "Visión general",
-                "pt": "Visão geral"
+                "en": "B2B - Overview",
+                "es": "B2B - Información general",
+                "pt": "B2B - Visão geral"
               },
               "slug": {
                 "en": "overview-subcategory",
@@ -17190,8 +17297,8 @@
                 {
                   "name": {
                     "en": "B2B – Overview",
-                    "es": "B2B: visión general",
-                    "pt": "B2B – Visão Geral"
+                    "es": "B2B - Información general",
+                    "pt": "B2B – Visão geral"
                   },
                   "slug": {
                     "en": "b2b-overview",
@@ -17205,7 +17312,7 @@
                 {
                   "name": {
                     "en": "B2B Suite - Overview",
-                    "es": "B2B Suite - Visión general",
+                    "es": "B2B Suite - Información general",
                     "pt": "B2B Suite - Visão geral"
                   },
                   "slug": {
@@ -17511,21 +17618,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "​​Dynamic relevance in Intelligent Search (Beta)",
-                    "es": "Relevancia dinámica en Intelligent Search (beta)",
-                    "pt": "Relevância dinâmica no Intelligent Search (Beta)"
-                  },
-                  "slug": {
-                    "en": "dynamic-relevance-in-intelligent-search-beta",
-                    "es": "relevancia-dinamica-en-intelligent-search-beta",
-                    "pt": "relevancia-dinamica-no-intelligent-search-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Intelligent Search: Semantic search (Beta)",
                     "es": "Intelligent Search: Búsqueda semántica (Beta)",
                     "pt": "Intelligent Search: Busca semântica (Beta)"
@@ -17649,6 +17741,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Releases - Overview",
+                    "es": "Introducción a Releases",
+                    "pt": "Lançamentos - Visão geral"
+                  },
+                  "slug": {
+                    "en": "releases-overview",
+                    "es": "introduccion-a-releases",
+                    "pt": "visao-geral-lancamentos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Releases Module (Beta)",
                     "es": "Módulo de Lanzamientos (Beta)",
                     "pt": "Módulo Lançamentos (Beta)"
@@ -17657,21 +17764,6 @@
                     "en": "releases-module-beta",
                     "es": "modulo-de-lanzamientos-beta",
                     "pt": "modulo-lancamentos-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Releases Overview",
-                    "es": "Introducción a Releases",
-                    "pt": "Visão Geral Lançamentos"
-                  },
-                  "slug": {
-                    "en": "releases-overview",
-                    "es": "introduccion-a-releases",
-                    "pt": "visao-geral-lancamentos"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17941,8 +18033,8 @@
                     "pt": "Navegação Data Pipeline"
                   },
                   "slug": {
-                    "en": "navigation",
-                    "es": "navegacion",
+                    "en": "navigation-data-pipeline",
+                    "es": "navegacion-data-pipeline",
                     "pt": "navegacao-data-pipeline-beta"
                   },
                   "origin": "",
@@ -18090,9 +18182,9 @@
           "children": [
             {
               "name": {
-                "en": "Billing Overview",
-                "es": "Facturación: visión general",
-                "pt": "Faturas: visão geral"
+                "en": "Billing - Overview",
+                "es": "Facturación - Información general",
+                "pt": "Faturas - Visão geral"
               },
               "slug": {
                 "en": "billing-overview-subcategory",
@@ -18104,9 +18196,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Billing Overview",
-                    "es": "Visión General Facturación",
-                    "pt": "Visão Geral Faturas"
+                    "en": "Billing - Overview",
+                    "es": "Facturación - Información general",
+                    "pt": "Faturas - Visão geral"
                   },
                   "slug": {
                     "en": "billing-module-overview",
@@ -18592,9 +18684,9 @@
             },
             {
               "name": {
-                "en": "Catalog: Overview",
-                "es": "Catálogo: Visión General",
-                "pt": "Catálogo: Visão Geral"
+                "en": "Catalog - Overview",
+                "es": "Catálogo - Información general",
+                "pt": "Catálogo - Visão geral"
               },
               "slug": {
                 "en": "catalog-overview-subcategory",
@@ -18606,9 +18698,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Catalog: Overview",
-                    "es": "Catálogo: visión general",
-                    "pt": "Catálogo: visão geral"
+                    "en": "Catalog - Overview",
+                    "es": "Catálogo - Información general",
+                    "pt": "Catálogo - Visão geral"
                   },
                   "slug": {
                     "en": "catalog-overview",
@@ -19759,9 +19851,9 @@
           "children": [
             {
               "name": {
-                "en": "Checkout overview",
+                "en": "Checkout - Overview",
                 "es": "Visión de conjunto de Checkout",
-                "pt": "Visão geral do Checkout"
+                "pt": "Checkout - Visão geral"
               },
               "slug": {
                 "en": "checkout-overview-subcategory",
@@ -19774,7 +19866,7 @@
                 {
                   "name": {
                     "en": "Checkout VTEX - Overview",
-                    "es": "Checkout VTEX - Vista general",
+                    "es": "Checkout VTEX - Información general",
                     "pt": "Checkout VTEX - Visão geral"
                   },
                   "slug": {
@@ -20142,6 +20234,21 @@
                     "en": "order-split-and-delivery-split",
                     "es": "division-de-pedidos-y-division-de-entregas",
                     "pt": "divisao-de-pedidos-e-divisao-de-entregas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "orderForm settings",
+                    "es": "Configuración de orderForm",
+                    "pt": "Configurações do orderForm"
+                  },
+                  "slug": {
+                    "en": "orderform-settings",
+                    "es": "configuracion-de-orderform",
+                    "pt": "configuracoes-do-orderform"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20844,9 +20951,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Dashboards Overview",
+                    "en": "Dashboards - Overview",
                     "es": "Vista General Dashboards",
-                    "pt": "Visão Geral Dashboards"
+                    "pt": "Dashboards - Visão geral"
                   },
                   "slug": {
                     "en": "dashboards-overview",
@@ -20874,7 +20981,7 @@
                 },
                 {
                   "name": {
-                    "en": "Store Overview",
+                    "en": "Store - Overview",
                     "es": "Vista General de la Tienda",
                     "pt": "Visão Geral da Loja"
                   },
@@ -21699,9 +21806,9 @@
             },
             {
               "name": {
-                "en": "Overview Indeva",
-                "es": "Visión general Indeva",
-                "pt": "Visão Geral Indeva"
+                "en": "Indeva - Overview",
+                "es": "Indeva - Información general",
+                "pt": "Indeva - Visão geral"
               },
               "slug": {
                 "en": "overview-indeva-subcategory",
@@ -21713,8 +21820,8 @@
               "children": [
                 {
                   "name": {
-                    "en": "View performance data in Indeva Overview",
-                    "es": "Visualizar datos de desempeño en la Vista general de Indeva",
+                    "en": "View performance data in Indeva - Overview",
+                    "es": "Visualizar datos de desempeño en la información general de Indeva",
                     "pt": "Visualizar dados de desempenho na Visão Geral do Indeva"
                   },
                   "slug": {
@@ -23470,9 +23577,9 @@
             },
             {
               "name": {
-                "en": "Integrations overview",
+                "en": "Integrations - Overview",
                 "es": "Visión de conjunto de Integraciones",
-                "pt": "Visão geral de Integrações"
+                "pt": "Integrações - Visão geral"
               },
               "slug": {
                 "en": "integrations-overview-subcategory",
@@ -24424,8 +24531,8 @@
             },
             {
               "name": {
-                "en": "Intelligent Search Overview",
-                "es": "Intelligent Search - Visión general",
+                "en": "Intelligent Search - Overview",
+                "es": "Intelligent Search - Información general",
                 "pt": "Intelligent Search - Visão geral"
               },
               "slug": {
@@ -24484,7 +24591,7 @@
                 {
                   "name": {
                     "en": "Intelligent Search - Overview",
-                    "es": "Intelligent Search - Visión general",
+                    "es": "Intelligent Search - Información general",
                     "pt": "Intelligent Search - Visão geral"
                   },
                   "slug": {
@@ -25430,9 +25537,9 @@
           "children": [
             {
               "name": {
-                "en": "Omnichannel overview",
-                "es": "Visión general de Omnichannel",
-                "pt": "Visão geral de Omnichannel"
+                "en": "Omnichannel - Overview",
+                "es": "Omnichannel - Información general",
+                "pt": "Omnichannel - Visão geral"
               },
               "slug": {
                 "en": "omnichannel-overview-subcategory",
@@ -25689,13 +25796,13 @@
                 {
                   "name": {
                     "en": "Responsibilities within the VTEX ecosystem",
-                    "pt": "Responsabilidades no ecossistema VTEX",
-                    "es": "Responsibilities within the VTEX ecosystem"
+                    "es": "Responsabilidades en el ecosistema VTEX",
+                    "pt": "Responsabilidades no ecossistema VTEX"
                   },
                   "slug": {
                     "en": "responsibilities-within-the-vtex-ecosystem",
-                    "pt": "responsabilidades-no-ecossistema-vtex",
-                    "es": ""
+                    "es": "responsabilidades-en-el-ecosistema-vtex",
+                    "pt": "responsabilidades-no-ecossistema-vtex"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25741,37 +25848,6 @@
                     "en": "vtex-support-satisfaction-survey",
                     "es": "encuesta-de-satisfaccion-del-soporte-vtex",
                     "pt": "pesquisa-de-satisfacao-do-suporte-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Apoyo",
-                "es": "Apoyo",
-                "pt": "Apoyo"
-              },
-              "slug": {
-                "en": "apoyo",
-                "es": "apoyo-subcategoria",
-                "pt": "apoyo"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "Responsabilidades en el ecosistema VTEX",
-                    "en": "Responsabilidades en el ecosistema VTEX",
-                    "pt": "Responsabilidades en el ecosistema VTEX"
-                  },
-                  "slug": {
-                    "es": "responsabilidades-en-el-ecosistema-vtex",
-                    "en": "",
-                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26521,9 +26597,9 @@
             },
             {
               "name": {
-                "en": "Orders overview",
+                "en": "Orders - Overview",
                 "es": "Visión de conjunto de Pedidos",
-                "pt": "Visão geral de pedidos"
+                "pt": "Pedidos - Visão geral"
               },
               "slug": {
                 "en": "orders-overview-subcategory",
@@ -26655,9 +26731,9 @@
                 },
                 {
                   "name": {
-                    "en": "Orders Overview",
-                    "es": "Vista General Pedidos",
-                    "pt": "Visão Geral Pedidos"
+                    "en": "Orders - Overview",
+                    "es": "Pedidos - Información general",
+                    "pt": "Pedidos - Visão geral"
                   },
                   "slug": {
                     "en": "orders-overview",
@@ -26795,7 +26871,7 @@
                   "name": {
                     "en": "Foresight Commerce Academy - Overview",
                     "es": "Foresight Commerce Academy - Visión Geral",
-                    "pt": "Foresight Commerce Academy - Visão Geral"
+                    "pt": "Foresight Commerce Academy - Visão geral"
                   },
                   "slug": {
                     "en": "foresight-commerce-academy-overview",
@@ -28089,6 +28165,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Bold",
+                    "es": "Configurar pago con Bold",
+                    "pt": "Configurar pagamento com Bold"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-bold",
+                    "es": "configurar-pago-con-bold",
+                    "pt": "configurar-pagamento-com-bold"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Bom Pra Credito",
                     "es": "Configurar pago con Bom Pra Credito",
                     "pt": "Configurar pagamento com Bom Pra Crédito"
@@ -28127,6 +28218,21 @@
                     "en": "setting-up-payments-with-brinks-cash-ecommerce",
                     "es": "configurar-pago-con-brinks-cash-ecommerce",
                     "pt": "configurar-pagamento-com-brinks-cash-ecommerce"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Chase Payment",
+                    "es": "Configurar pago con Chase Payment",
+                    "pt": "Configurar pagamento com Chase Payment"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-chase-payment",
+                    "es": "configurar-pago-con-chase-payment",
+                    "pt": "configurar-pagamento-com-chase-payment"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -28224,6 +28330,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Credibanco",
+                    "es": "Configurar pago con Credibanco",
+                    "pt": "Configurar pagamento com Credibanco"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-credibanco",
+                    "es": "configurar-pago-con-credibanco",
+                    "pt": "configurar-pagamento-com-credibanco"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Credimarcas",
                     "es": "Configurar pago con Credimarcas",
                     "pt": "Configurar pagamento com Credimarcas"
@@ -28262,6 +28383,21 @@
                     "en": "setting-up-payments-with-creditea",
                     "es": "configurar-pago-con-creditea",
                     "pt": "configurar-pagamento-com-creditea"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Creditop",
+                    "es": "Configurar pago con Creditop",
+                    "pt": "Configurar pagamento com Creditop"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-creditop",
+                    "es": "configurar-pago-con-creditop",
+                    "pt": "configurar-pagamento-com-creditop"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29874,6 +30010,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Visa Conecta",
+                    "es": "Configurar pago con Visa Conecta",
+                    "pt": "Configurar pagamento com Visa Conecta"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-visa-conecta",
+                    "es": "configurar-pago-con-visa-conecta",
+                    "pt": "configurar-pagamento-com-visa-conecta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Wabi",
                     "es": "Configurar pago con Wabi",
                     "pt": "Configurar pagamento com Wabi"
@@ -30131,9 +30282,9 @@
             },
             {
               "name": {
-                "en": "Payments overview",
+                "en": "Payments - Overview",
                 "es": "Visión de conjunto de Pagos",
-                "pt": "Visão geral de Pagamentos"
+                "pt": "Pagamentos - Visão geral"
               },
               "slug": {
                 "en": "payments-overview-subcategory",
@@ -30303,6 +30454,21 @@
                     "en": "pix-faq",
                     "es": "pix-faq",
                     "pt": "pix-faq"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Post-purchase payment operations",
+                    "es": "Operaciones de pago poscompra",
+                    "pt": "Operações de pagamentos pós-compra"
+                  },
+                  "slug": {
+                    "en": "post-purchase-payment-operations",
+                    "es": "operaciones-de-pago-poscompra",
+                    "pt": "operacoes-de-pagamentos-pos-compra"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -31957,9 +32123,9 @@
                 },
                 {
                   "name": {
-                    "en": "Promotions Overview",
-                    "es": "Visión General Promociones",
-                    "pt": "Visão Geral Promoções"
+                    "en": "Promotions - Overview",
+                    "es": "Promociones - Información general",
+                    "pt": "Promoções - Visão geral"
                   },
                   "slug": {
                     "en": "promotions-overview",
@@ -32064,9 +32230,9 @@
             },
             {
               "name": {
-                "en": "Rates & Benefits overview",
+                "en": "Rates & Benefits - Overview",
                 "es": "Visión de conjunto de Tasas y Promociones",
-                "pt": "Visão geral de Taxas & Promoções"
+                "pt": "Taxas & Promoções - Visão geral"
               },
               "slug": {
                 "en": "rates-and-benefits-overview-subcategory",
@@ -32078,9 +32244,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Overview:  Campaign Audiences, promotions, taxes and coupons",
-                    "es": "Visión general: Audiencia de Campañas, promociones, impuestos y cupones",
-                    "pt": "Visão geral: Audiência de campanhas, promoções, taxas e cupons"
+                    "en": "Campaign Audiences, promotions, taxes and coupons - Overview",
+                    "es": "Audiencia de Campañas, promociones, impuestos y cupones - Información general",
+                    "pt": "Visão geral - Audiência de campanhas, promoções, taxas e cupons"
                   },
                   "slug": {
                     "en": "overview-pricing-module",
@@ -32961,9 +33127,9 @@
             },
             {
               "name": {
-                "en": "Sellers Overview",
+                "en": "Sellers - Overview",
                 "es": "Visión de conjunto de Sellers",
-                "pt": "Visão geral de Sellers"
+                "pt": "Sellers - Visão geral"
               },
               "slug": {
                 "en": "sellers-overview-subcategory",
@@ -33448,9 +33614,9 @@
             },
             {
               "name": {
-                "en": "Logistics Overview",
-                "es": "Visión general de la logística",
-                "pt": "Visão geral da logística"
+                "en": "Logistics - Overview",
+                "es": "Logística - Información general",
+                "pt": "logística - Visão geral"
               },
               "slug": {
                 "en": "logistics-overview-subcategory",
@@ -33492,9 +33658,9 @@
                 },
                 {
                   "name": {
-                    "en": "Shipping Overview",
-                    "es": "Visión General Envio",
-                    "pt": "Visão Geral Envio"
+                    "en": "Shipping - Overview",
+                    "es": "Envio - Información general",
+                    "pt": "Envio - Visão geral"
                   },
                   "slug": {
                     "en": "shipping-overview",
@@ -34327,9 +34493,9 @@
             },
             {
               "name": {
-                "en": "Store Settings Overview",
-                "es": "Visión General de Configuraciones de la Tienda",
-                "pt": "Visão Geral de Configurações da Loja"
+                "en": "Store Settings - Overview",
+                "es": "Configuraciones de la Tienda - Información general",
+                "pt": "Configurações da Loja - Visão geral"
               },
               "slug": {
                 "en": "store-settings-overview-subcategory",
@@ -34356,9 +34522,9 @@
                 },
                 {
                   "name": {
-                    "en": "Store Settings Overview",
-                    "es": "Visión General Configuraciones de la Tienda",
-                    "pt": "Visão Geral Configurações da Loja"
+                    "en": "Store Settings - Overview",
+                    "es": "Configuraciones de la Tienda - Información general",
+                    "pt": "Configurações da Loja - Visão geral"
                   },
                   "slug": {
                     "en": "store-settings-overview",
@@ -34419,7 +34585,7 @@
                 {
                   "name": {
                     "en": "Headless CMS - Overview",
-                    "es": "Headless CMS - Visión general",
+                    "es": "Headless CMS - Información general",
                     "pt": "Headless CMS - Visão geral"
                   },
                   "slug": {
@@ -34479,7 +34645,7 @@
                 {
                   "name": {
                     "en": "Media - Overview",
-                    "es": "Multimedia - Visión general",
+                    "es": "Multimedia - Información general",
                     "pt": "Mídia - Visão geral"
                   },
                   "slug": {
@@ -34510,8 +34676,8 @@
                 {
                   "name": {
                     "en": "A/B Testing for stores on Legacy CMS Portal",
-                    "es": "Pruebas A/B para tiendas en CMS Portal Legado",
-                    "pt": "Teste A/B para lojas no CMS Portal Legado"
+                    "es": "Pruebas A/B para tiendas en CMS Portal (Legado)",
+                    "pt": "Teste A/B para lojas no CMS Portal (Legado)"
                   },
                   "slug": {
                     "en": "ab-testing-how-where-when-and-why",
@@ -34645,7 +34811,7 @@
                 {
                   "name": {
                     "en": "Changing the pages of the site to HTTPS protocol",
-                    "es": "Cambiar las páginas del sitio para el protocolo HTTPS",
+                    "es": "Cambiar las páginas del sitio al protocolo HTTPS",
                     "pt": "Alterar as páginas do site para o protocolo HTTPS"
                   },
                   "slug": {
@@ -35201,7 +35367,7 @@
                   "name": {
                     "en": "Layout Overview",
                     "es": "Visión de conjunto de Layout",
-                    "pt": "Visão Geral do Layout"
+                    "pt": "Layout - Visão geral"
                   },
                   "slug": {
                     "en": "what-is-cms-layout",
@@ -35531,7 +35697,7 @@
                 {
                   "name": {
                     "en": "Pages - Overview",
-                    "es": "Páginas - Visión general",
+                    "es": "Páginas - Información general",
                     "pt": "Páginas - Visão geral"
                   },
                   "slug": {
@@ -35667,7 +35833,7 @@
                 {
                   "name": {
                     "en": "Site Editor - Overview",
-                    "es": "Site Editor - Visión general",
+                    "es": "Site Editor - Información general",
                     "pt": "Site Editor - Visão geral"
                   },
                   "slug": {
@@ -35728,8 +35894,8 @@
                 {
                   "name": {
                     "en": "Configuring SEO in Legacy CMS Portal stores",
-                    "es": "Configurar SEO en tiendas CMS Portal Legado",
-                    "pt": "Configurando SEO em sua loja CMS Portal Legado"
+                    "es": "Configurar SEO en tiendas CMS Portal (Legado)",
+                    "pt": "Configurando SEO em sua loja CMS Portal (Legado)"
                   },
                   "slug": {
                     "en": "configuring-seo-in-legacy-cms-portal-stores",
@@ -35833,7 +35999,7 @@
                 {
                   "name": {
                     "en": "Store - Overview",
-                    "es": "Tienda - Visión general",
+                    "es": "Tienda - Información general",
                     "pt": "Loja - Visão geral"
                   },
                   "slug": {
@@ -35847,9 +36013,9 @@
                 },
                 {
                   "name": {
-                    "en": "Storefront Settings Overview",
-                    "es": "Visión General Configuración de Storefront",
-                    "pt": "Visão Geral Configurações de Storefront"
+                    "en": "Storefront Settings - Overview",
+                    "es": "Configuración de Storefront - Información general",
+                    "pt": "Configurações de Storefront - Visão geral"
                   },
                   "slug": {
                     "en": "storefront-settings-overview",
@@ -35879,9 +36045,9 @@
             },
             {
               "name": {
-                "en": "Storefront Overview",
-                "es": "Visión General Storefront",
-                "pt": "Visão Geral Storefront"
+                "en": "Storefront - Overview",
+                "es": "Storefront - Información general",
+                "pt": "Storefront - Visão geral"
               },
               "slug": {
                 "en": "storefront-overview-subcategory",
@@ -35893,9 +36059,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Storefront Overview",
-                    "es": "Visión General Storefront",
-                    "pt": "Visão Geral Storefront"
+                    "en": "Storefront - Overview",
+                    "es": "Storefront - Información general",
+                    "pt": "Storefront - Visão geral"
                   },
                   "slug": {
                     "en": "storefront-overview",
@@ -35940,7 +36106,7 @@
                 {
                   "name": {
                     "en": "Styles - Overview",
-                    "es": "Estilos - Visión general",
+                    "es": "Estilos - Información general",
                     "pt": "Estilos - Visão geral"
                   },
                   "slug": {
@@ -36293,12 +36459,12 @@
             },
             {
               "name": {
-                "en": "Trade Policies' overview",
+                "en": "Trade Policies - Overview",
                 "es": "Visión de conjunto de Políticas Comerciales",
-                "pt": "Visão geral de Políticas Comerciais"
+                "pt": "Políticas Comerciais - Visão geral"
               },
               "slug": {
-                "en": "trade-policies'-overview-subcategory",
+                "en": "trade-policies-overview-subcategory",
                 "es": "vision-de-conjunto-de-politicas-comerciales-subcategoria",
                 "pt": "visão-geral-de-políticas-comerciais-subcategoria"
               },
@@ -36659,8 +36825,8 @@
             },
             {
               "name": {
-                "en": "Overview VTEX Tracking",
-                "es": "Visión general VTEX Tracking",
+                "en": "VTEX Tracking - Overview",
+                "es": "VTEX Tracking - Información general",
                 "pt": "Visão geral VTEX Tracking"
               },
               "slug": {
@@ -36688,9 +36854,9 @@
                 },
                 {
                   "name": {
-                    "en": "VTEX Tracking Overview",
-                    "es": "Visión general VTEX Tracking",
-                    "pt": "Visão Geral VTEX Tracking"
+                    "en": "VTEX Tracking - Overview",
+                    "es": "VTEX Tracking - Información general",
+                    "pt": "VTEX Tracking - Visão geral"
                   },
                   "slug": {
                     "en": "vtex-tracking-overview",
@@ -36827,7 +36993,7 @@
                   "name": {
                     "en": "Routes",
                     "es": "Rutas",
-                    "pt": "Visão Geral de Rotas"
+                    "pt": "Rotas - Visão geral"
                   },
                   "slug": {
                     "en": "routes",
@@ -37144,9 +37310,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Agent Builder overview",
+                    "en": "Agent Builder - Overview",
                     "es": "Información general de Agent Builder",
-                    "pt": "Visão geral Agent Builder"
+                    "pt": "Agent Builder - Visão geral"
                   },
                   "slug": {
                     "en": "agent-builder-overview",
@@ -38503,7 +38669,7 @@
             },
             {
               "name": {
-                "en": "Weni by VTEX overview",
+                "en": "Weni by VTEX - Overview",
                 "es": "Visión de conjunto de Weni by VTEX",
                 "pt": "Visão geral Weni by VTEX"
               },
@@ -40322,6 +40488,21 @@
             },
             {
               "name": {
+                "en": "Catalog API accepts list of items but UI does not reflect",
+                "es": "La API del catálogo acepta la lista de artículos, pero la interfaz de usuario no lo refleja.",
+                "pt": "A API do catálogo aceita listas de itens, mas a interface do usuário não reflete isso."
+              },
+              "slug": {
+                "en": "catalog-api-accepts-list-of-items-but-ui-does-not-reflect",
+                "es": "la-api-del-catalogo-acepta-la-lista-de-articulos-pero-la-interfaz-de-usuario-no-lo-refleja",
+                "pt": "a-api-do-catalogo-aceita-listas-de-itens-mas-a-interface-do-usuario-nao-reflete-isso"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Catalog API Create SKU File only work with an URL",
                 "es": "La API del catálogo Crear archivo SKU sólo funciona con una URL",
                 "pt": "API do catálogo Criar arquivo SKU só funciona com uma URL"
@@ -40405,6 +40586,21 @@
                 "en": "catalog-database-registers-skus-with-duplicate-specifications",
                 "es": "la-base-de-datos-del-catalogo-registra-las-sku-con-especificaciones-duplicadas",
                 "pt": "base-de-dados-do-catalogo-registra-skus-com-especificacoes-duplicadas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Catalog does not remove special characters when setting up the text link",
+                "es": "El catálogo no elimina los caracteres especiales al configurar el enlace de texto.",
+                "pt": "O catálogo não remove caracteres especiais ao configurar o link de texto."
+              },
+              "slug": {
+                "en": "catalog-does-not-remove-special-characters-when-setting-up-the-text-link",
+                "es": "el-catalogo-no-elimina-los-caracteres-especiales-al-configurar-el-enlace-de-texto",
+                "pt": "o-catalogo-nao-remove-caracteres-especiais-ao-configurar-o-link-de-texto"
               },
               "origin": "",
               "type": "markdown",
@@ -41117,14 +41313,14 @@
             },
             {
               "name": {
-                "en": "Creating SKUs in seller portal accounts result in inocrrect unit multiplier",
-                "es": "La creación de SKU en cuentas del portal del vendedor da como resultado un multiplicador de unidades incorrecto",
-                "pt": "A criação de SKUs em contas do portal do vendedor resulta em um multiplicador de unidades incorreto"
+                "en": "Creating SKUs in seller portal accounts result in unit multiplier always being 1",
+                "es": "La creación de SKU en las cuentas del portal del vendedor hace que el multiplicador de unidades sea siempre 1.",
+                "pt": "A criação de SKUs em contas do portal do vendedor faz com que o multiplicador de unidades seja sempre 1."
               },
               "slug": {
-                "en": "creating-skus-in-seller-portal-accounts-result-in-inocrrect-unit-multiplier",
-                "es": "la-creacion-de-sku-en-cuentas-del-portal-del-vendedor-da-como-resultado-un-multiplicador-de-unidades-incorrecto",
-                "pt": "a-criacao-de-skus-em-contas-do-portal-do-vendedor-resulta-em-um-multiplicador-de-unidades-incorreto"
+                "en": "creating-skus-in-seller-portal-accounts-result-in-unit-multiplier-always-being-1",
+                "es": "la-creacion-de-sku-en-las-cuentas-del-portal-del-vendedor-hace-que-el-multiplicador-de-unidades-sea-siempre-1",
+                "pt": "a-criacao-de-skus-em-contas-do-portal-do-vendedor-faz-com-que-o-multiplicador-de-unidades-seja-sempre-1"
               },
               "origin": "",
               "type": "markdown",
@@ -42303,13 +42499,13 @@
             {
               "name": {
                 "en": "Number-type product specifications allow importing array of values",
-                "es": "Las especificaciones de producto de tipo numérico permiten importar matrices de valores",
-                "pt": "As especificações de produto do tipo número permitem a importação de uma matriz de valores"
+                "es": "Las especificaciones de productos de tipo numérico permiten importar matrices de valores.",
+                "pt": "As especificações do produto do tipo numérico permitem importar uma matriz de valores."
               },
               "slug": {
                 "en": "numbertype-product-specifications-allow-importing-array-of-values",
-                "es": "las-especificaciones-de-producto-de-tipo-numerico-permiten-importar-matrices-de-valores",
-                "pt": "as-especificacoes-de-produto-do-tipo-numero-permitem-a-importacao-de-uma-matriz-de-valores"
+                "es": "las-especificaciones-de-productos-de-tipo-numerico-permiten-importar-matrices-de-valores",
+                "pt": "as-especificacoes-do-produto-do-tipo-numerico-permitem-importar-uma-matriz-de-valores"
               },
               "origin": "",
               "type": "markdown",
@@ -42318,13 +42514,13 @@
             {
               "name": {
                 "en": "Number-type product specifications allow importing decimal values",
-                "es": "Las especificaciones de producto de tipo numérico permiten importar valores decimales",
-                "pt": "As especificações de produtos do tipo número permitem a importação de valores decimais"
+                "es": "Las especificaciones de productos de tipo numérico permiten importar valores decimales.",
+                "pt": "As especificações do produto do tipo numérico permitem importar valores decimais."
               },
               "slug": {
                 "en": "numbertype-product-specifications-allow-importing-decimal-values",
-                "es": "las-especificaciones-de-producto-de-tipo-numerico-permiten-importar-valores-decimales",
-                "pt": "as-especificacoes-de-produtos-do-tipo-numero-permitem-a-importacao-de-valores-decimais"
+                "es": "las-especificaciones-de-productos-de-tipo-numerico-permiten-importar-valores-decimales",
+                "pt": "as-especificacoes-do-produto-do-tipo-numerico-permitem-importar-valores-decimais"
               },
               "origin": "",
               "type": "markdown",
@@ -42685,6 +42881,21 @@
                 "en": "productsskus-import-does-not-support-lb",
                 "es": "la-importacion-de-productosskus-no-es-compatible-con-lb",
                 "pt": "produtosskus-importacao-nao-suporta-lb"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Promotion UI incorrectly changes aphostrophe character",
+                "es": "La interfaz de usuario de la promoción cambia incorrectamente el carácter del apóstrofo.",
+                "pt": "A interface do usuário da promoção altera incorretamente o caractere apóstrofo"
+              },
+              "slug": {
+                "en": "promotion-ui-incorrectly-changes-aphostrophe-character",
+                "es": "la-interfaz-de-usuario-de-la-promocion-cambia-incorrectamente-el-caracter-del-apostrofo",
+                "pt": "a-interface-do-usuario-da-promocao-altera-incorretamente-o-caractere-apostrofo"
               },
               "origin": "",
               "type": "markdown",
@@ -43234,12 +43445,12 @@
               "name": {
                 "en": "StockKeepingUnitInsertUpdate WebService method allows to insert existent RefId",
                 "es": "El método WebService StockKeepingUnitInsertUpdate permite insertar un RefId existente",
-                "pt": "O método StockKeepingUnitInsertUpdate WebService permite a inserção de RefId existentes"
+                "pt": "O método StockKeepingUnitInsertUpdate WebService permite inserir um RefId existente."
               },
               "slug": {
                 "en": "stockkeepingunitinsertupdate-webservice-method-allows-to-insert-existent-refid",
                 "es": "el-metodo-webservice-stockkeepingunitinsertupdate-permite-insertar-un-refid-existente",
-                "pt": "o-metodo-stockkeepingunitinsertupdate-webservice-permite-a-insercao-de-refid-existentes"
+                "pt": "o-metodo-stockkeepingunitinsertupdate-webservice-permite-inserir-um-refid-existente"
               },
               "origin": "",
               "type": "markdown",
@@ -44691,12 +44902,12 @@
               "name": {
                 "en": "Checkout overwrites receiver name with customer name",
                 "es": "El pago sobrescribe el nombre del receptor con el nombre del cliente",
-                "pt": "O checkout sobregrava o nome do receptor com o nome do cliente"
+                "pt": "O checkout substitui o nome do receptor pelo nome do cliente"
               },
               "slug": {
                 "en": "checkout-overwrites-receiver-name-with-customer-name",
                 "es": "el-pago-sobrescribe-el-nombre-del-receptor-con-el-nombre-del-cliente",
-                "pt": "o-checkout-sobregrava-o-nome-do-receptor-com-o-nome-do-cliente"
+                "pt": "o-checkout-substitui-o-nome-do-receptor-pelo-nome-do-cliente"
               },
               "origin": "",
               "type": "markdown",
@@ -45987,6 +46198,21 @@
                 "en": "order-creation-failed-due-to-price-divergence-on-fulfillment-layer",
                 "es": "la-creacion-de-la-orden-fallo-debido-a-la-divergencia-de-precios-en-la-capa-de-cumplimiento",
                 "pt": "a-criacao-de-pedidos-falhou-devido-a-divergencia-de-precos-na-camada-de-cumprimento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order creation fails and order with no item is created when cart contains paused non-white label seller",
+                "es": "El pedido no se crea y se crea un pedido sin artículos cuando el carrito contiene un vendedor no blanco en pausa.",
+                "pt": "A criação do pedido falha e é criado um pedido sem itens quando o carrinho contém um vendedor não white label em pausa."
+              },
+              "slug": {
+                "en": "order-creation-fails-and-order-with-no-item-is-created-when-cart-contains-paused-nonwhite-label-seller",
+                "es": "el-pedido-no-se-crea-y-se-crea-un-pedido-sin-articulos-cuando-el-carrito-contiene-un-vendedor-no-blanco-en-pausa",
+                "pt": "a-criacao-do-pedido-falha-e-e-criado-um-pedido-sem-itens-quando-o-carrinho-contem-um-vendedor-nao-white-label-em-pausa"
               },
               "origin": "",
               "type": "markdown",
@@ -47825,6 +48051,21 @@
             },
             {
               "name": {
+                "en": "Error publishing Scheduled Release ahead of schedule in Admin (\"You can't publish an empty release\")",
+                "es": "Error al publicar una publicación programada antes de lo previsto en Admin (\"No se puede publicar una publicación vacía\")",
+                "pt": "Erro ao publicar a versão agendada antes do previsto no Admin (\"Você não pode publicar uma versão vazia\")"
+              },
+              "slug": {
+                "en": "error-publishing-scheduled-release-ahead-of-schedule-in-admin-you-cant-publish-an-empty-release",
+                "es": "error-al-publicar-una-publicacion-programada-antes-de-lo-previsto-en-admin-no-se-puede-publicar-una-publicacion-vacia",
+                "pt": "erro-ao-publicar-a-versao-agendada-antes-do-previsto-no-admin-voce-nao-pode-publicar-uma-versao-vazia"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Final domain different from myvtex due to old component version on Site Editor",
                 "es": "Dominio final diferente de myvtex debido a la versión antigua del componente en el Editor de Sitios",
                 "pt": "O domínio final é diferente do myvtex devido à versão antiga do componente no Site Editor"
@@ -48936,6 +49177,21 @@
             },
             {
               "name": {
+                "en": "Amazon Listing UI doesn't enable “Save and Send” and blocks SKU publication for VITAMIN productType",
+                "es": "Amazon Listing UI no habilita \"Guardar y Enviar\" y bloquea la publicación de SKU para VITAMIN productType",
+                "pt": "Amazon A interface do usuário de listagem não habilita \"Salvar e enviar\" e bloqueia a publicação de SKU para o tipo de produto VITAMINA"
+              },
+              "slug": {
+                "en": "amazon-listing-ui-doesnt-enable-save-and-send-and-blocks-sku-publication-for-vitamin-producttype",
+                "es": "amazon-listing-ui-no-habilita-guardar-y-enviar-y-bloquea-la-publicacion-de-sku-para-vitamin-producttype",
+                "pt": "amazon-a-interface-do-usuario-de-listagem-nao-habilita-salvar-e-enviar-e-bloqueia-a-publicacao-de-sku-para-o-tipo-de-produto-vitamina"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Amazon order does not integrate",
                 "es": "El pedido de Amazon no se integra",
                 "pt": "O pedido da Amazon não se integra"
@@ -49019,6 +49275,21 @@
                 "en": "amazon-skus-for-the-same-product-werent-grouped-on-amazon",
                 "es": "los-sku-del-mismo-producto-no-se-agrupaban-en-amazon",
                 "pt": "amazon-os-skus-do-mesmo-produto-nao-foram-agrupados-na-amazon"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "APP FBE CAPI Purchase event not deduplicated in headless checkout (FBP/external_id dependency on VTEX Checkout)",
+                "es": "APP FBE El evento de compra CAPI no se deduplica en el proceso de pago sin interfaz (dependencia de FBP/external_id en VTEX Checkout).",
+                "pt": "APP FBE Evento de compra CAPI não deduplicado no checkout sem interface (dependência de FBP/external_id no VTEX Checkout)"
+              },
+              "slug": {
+                "en": "app-fbe-capi-purchase-event-not-deduplicated-in-headless-checkout-fbpexternalid-dependency-on-vtex-checkout",
+                "es": "app-fbe-el-evento-de-compra-capi-no-se-deduplica-en-el-proceso-de-pago-sin-interfaz-dependencia-de-fbpexternalid-en-vtex-checkout",
+                "pt": "app-fbe-evento-de-compra-capi-nao-deduplicado-no-checkout-sem-interface-dependencia-de-fbpexternalid-no-vtex-checkout"
               },
               "origin": "",
               "type": "markdown",
@@ -49319,6 +49590,21 @@
                 "en": "magazine-luiza-orders-pending-dispatch-authorization-even-if-approved-by-marketplace",
                 "es": "revista-luiza-pedidos-pendientes-de-autorizacion-de-envio-aunque-esten-aprobados-por-marketplace",
                 "pt": "magazine-luiza-pedidos-pendentes-de-autorizacao-de-despacho-mesmo-que-aprovados-pelo-marketplace"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Magazine Luiza SKU creation fails with misleading “already exists” error when data is unchanged",
+                "es": "Magazine Luiza La creación de SKU falla con un error engañoso que indica «ya existe» cuando los datos no han cambiado.",
+                "pt": "Magazine Luiza A criação do SKU falha com um erro enganoso de “já existe” quando os dados não foram alterados."
+              },
+              "slug": {
+                "en": "magazine-luiza-sku-creation-fails-with-misleading-already-exists-error-when-data-is-unchanged",
+                "es": "magazine-luiza-la-creacion-de-sku-falla-con-un-error-enganoso-que-indica-ya-existe-cuando-los-datos-no-han-cambiado",
+                "pt": "magazine-luiza-a-criacao-do-sku-falha-com-um-erro-enganoso-de-ja-existe-quando-os-dados-nao-foram-alterados"
               },
               "origin": "",
               "type": "markdown",
@@ -51190,14 +51476,14 @@
           "children": [
             {
               "name": {
-                "en": "Accounts with '-' on the name don't have metrics on search report",
-                "es": "Las cuentas con '-' en el nombre no tienen métricas en el informe de búsqueda",
-                "pt": "Contas com '-' no nome não têm métricas no relatório de busca"
+                "en": "Accounts with \"-\" on the name don't have metrics on search report",
+                "es": "Las cuentas con \"-\" en el nombre no tienen métricas en el informe de búsqueda",
+                "pt": "Contas com \"-\" no nome não têm métricas no relatório de pesquisa"
               },
               "slug": {
                 "en": "accounts-with-on-the-name-dont-have-metrics-on-search-report",
                 "es": "las-cuentas-con-en-el-nombre-no-tienen-metricas-en-el-informe-de-busqueda",
-                "pt": "contas-com-no-nome-nao-tem-metricas-no-relatorio-de-busca"
+                "pt": "contas-com-no-nome-nao-tem-metricas-no-relatorio-de-pesquisa"
               },
               "origin": "",
               "type": "markdown",
@@ -51468,6 +51754,21 @@
                 "en": "deleted-banner-may-still-appear-on-plp",
                 "es": "el-banner-eliminado-puede-seguir-apareciendo-en-plp",
                 "pt": "o-banner-excluido-ainda-pode-aparecer-no-plp"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Detached SKU search results not considering regionalized availability",
+                "es": "Los resultados de búsqueda de SKU independientes no tienen en cuenta la disponibilidad regionalizada",
+                "pt": "Os resultados da pesquisa de SKUs independentes não consideram a disponibilidade regionalizada"
+              },
+              "slug": {
+                "en": "detached-sku-search-results-not-considering-regionalized-availability",
+                "es": "los-resultados-de-busqueda-de-sku-independientes-no-tienen-en-cuenta-la-disponibilidad-regionalizada",
+                "pt": "os-resultados-da-pesquisa-de-skus-independentes-nao-consideram-a-disponibilidade-regionalizada"
               },
               "origin": "",
               "type": "markdown",
@@ -52090,14 +52391,14 @@
             },
             {
               "name": {
-                "en": "Prioritization by product's 'keyword' not considering stopwords",
-                "es": "Priorización por 'palabra clave' del producto sin tener en cuenta las 'stopwords",
-                "pt": "Priorização por 'palavra-chave' do produto, sem considerar stopwords"
+                "en": "Prioritization by product's \"keyword\" not considering stopwords",
+                "es": "Priorización por «palabra clave» del producto sin tener en cuenta las palabras vacías.",
+                "pt": "Priorização por “palavra-chave” do produto, sem considerar palavras irrelevantes"
               },
               "slug": {
                 "en": "prioritization-by-products-keyword-not-considering-stopwords",
-                "es": "priorizacion-por-palabra-clave-del-producto-sin-tener-en-cuenta-las-stopwords",
-                "pt": "priorizacao-por-palavrachave-do-produto-sem-considerar-stopwords"
+                "es": "priorizacion-por-palabra-clave-del-producto-sin-tener-en-cuenta-las-palabras-vacias",
+                "pt": "priorizacao-por-palavrachave-do-produto-sem-considerar-palavras-irrelevantes"
               },
               "origin": "",
               "type": "markdown",
@@ -52435,6 +52736,21 @@
             },
             {
               "name": {
+                "en": "Search facets disappear when using back button after clicking \"Show more\"",
+                "es": "Las facetas de búsqueda desaparecen al utilizar el botón Atrás después de hacer clic en \"Mostrar más\".",
+                "pt": "As facetas de pesquisa desaparecem ao usar o botão Voltar depois de clicar em \"Mostrar mais\""
+              },
+              "slug": {
+                "en": "search-facets-disappear-when-using-back-button-after-clicking-show-more",
+                "es": "las-facetas-de-busqueda-desaparecen-al-utilizar-el-boton-atras-despues-de-hacer-clic-en-mostrar-mas",
+                "pt": "as-facetas-de-pesquisa-desaparecem-ao-usar-o-botao-voltar-depois-de-clicar-em-mostrar-mais"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Search filters disappear intermittently",
                 "es": "Los filtros de búsqueda desaparecen intermitentemente",
                 "pt": "Os filtros de busca desaparecem de forma intermitente"
@@ -52443,6 +52759,21 @@
                 "en": "search-filters-disappear-intermittently",
                 "es": "los-filtros-de-busqueda-desaparecen-intermitentemente",
                 "pt": "os-filtros-de-busca-desaparecem-de-forma-intermitente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Search filters disappear when using back button after clicking \"Show more\"",
+                "es": "Los filtros de búsqueda desaparecen al utilizar el botón de retroceso después de hacer clic en \"Mostrar más\".",
+                "pt": "Os filtros de pesquisa desaparecem ao usar o botão Voltar depois de clicar em \"Mostrar mais\""
+              },
+              "slug": {
+                "en": "search-filters-disappear-when-using-back-button-after-clicking-show-more",
+                "es": "los-filtros-de-busqueda-desaparecen-al-utilizar-el-boton-de-retroceso-despues-de-hacer-clic-en-mostrar-mas",
+                "pt": "os-filtros-de-pesquisa-desaparecem-ao-usar-o-botao-voltar-depois-de-clicar-em-mostrar-mais"
               },
               "origin": "",
               "type": "markdown",
@@ -56852,6 +57183,21 @@
             },
             {
               "name": {
+                "en": "Invoice accepted with value higher than order total via Orders API during concurrent Change",
+                "es": "Factura aceptada con un valor superior al total del pedido a través de la API de pedidos durante un cambio simultáneo.",
+                "pt": "Fatura aceita com valor superior ao total do pedido por meio da API de pedidos durante alteração simultânea"
+              },
+              "slug": {
+                "en": "invoice-accepted-with-value-higher-than-order-total-via-orders-api-during-concurrent-change",
+                "es": "factura-aceptada-con-un-valor-superior-al-total-del-pedido-a-traves-de-la-api-de-pedidos-durante-un-cambio-simultaneo",
+                "pt": "fatura-aceita-com-valor-superior-ao-total-do-pedido-por-meio-da-api-de-pedidos-durante-alteracao-simultanea"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Invoice items description in packages overwritten based on invoiceValue rule (Orders/OMS GET Order reconstruction)",
                 "es": "La descripción de los elementos de la factura en los paquetes se sobrescribe en función de la regla invoiceValue (reconstrucción de pedidos/OMS GET Order)",
                 "pt": "Descrição dos itens da fatura em pacotes sobrescritos com base na regra invoiceValue (reconstrução de pedidos/OMS GET Order)"
@@ -57242,6 +57588,21 @@
             },
             {
               "name": {
+                "en": "Order status exported in Portuguese in OMS Order Export (non-translatable statusDescription)",
+                "es": "Estado del pedido exportado en portugués en OMS Order Export (statusDescription no traducible)",
+                "pt": "Status do pedido exportado em português no OMS Exportação de pedidos (statusDescription não traduzível)"
+              },
+              "slug": {
+                "en": "order-status-exported-in-portuguese-in-oms-order-export-nontranslatable-statusdescription",
+                "es": "estado-del-pedido-exportado-en-portugues-en-oms-order-export-statusdescription-no-traducible",
+                "pt": "status-do-pedido-exportado-em-portugues-no-oms-exportacao-de-pedidos-statusdescription-nao-traduzivel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order stuck at seller status cancellation-request-denied-ffm",
                 "es": "Pedido bloqueado en el estado del vendedor cancellation-request-denied-ffm",
                 "pt": "Pedido preso no status de vendedor cancellation-request-denied-ffm"
@@ -57490,6 +57851,21 @@
                 "en": "possible-errors-in-change-orders-notification-in-the-ui-api-and-gateway",
                 "es": "posibles-errores-en-la-notificacion-de-ordenes-de-cambio-en-la-interfaz-de-usuario-la-api-y-la-pasarela",
                 "pt": "possiveis-erros-na-notificacao-de-ordens-de-alteracao-na-interface-do-usuario-na-api-e-no-gateway"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Refund not triggered after input invoice due to inconsistent invoiceData (OMS ↔ Payments)",
+                "es": "El reembolso no se ha activado tras la factura de entrada debido a datos de factura incoherentes (OMS ↔ Pagos).",
+                "pt": "Reembolso não acionado após a entrada da fatura devido a dados inconsistentes da fatura (OMS ↔ Pagamentos)"
+              },
+              "slug": {
+                "en": "refund-not-triggered-after-input-invoice-due-to-inconsistent-invoicedata-oms-payments",
+                "es": "el-reembolso-no-se-ha-activado-tras-la-factura-de-entrada-debido-a-datos-de-factura-incoherentes-oms-pagos",
+                "pt": "reembolso-nao-acionado-apos-a-entrada-da-fatura-devido-a-dados-inconsistentes-da-fatura-oms-pagamentos"
               },
               "origin": "",
               "type": "markdown",
@@ -58295,6 +58671,21 @@
             },
             {
               "name": {
+                "en": "504 timeout when creating gift cards in bulk via Admin (large batch size)",
+                "es": "Tiempo de espera de 504 al crear tarjetas regalo de forma masiva a través de Admin (lote de gran tamaño).",
+                "pt": "Tempo limite de 504 ao criar cartões-presente em massa através do Admin (lote de grande tamanho)"
+              },
+              "slug": {
+                "en": "504-timeout-when-creating-gift-cards-in-bulk-via-admin-large-batch-size",
+                "es": "tiempo-de-espera-de-504-al-crear-tarjetas-regalo-de-forma-masiva-a-traves-de-admin-lote-de-gran-tamano",
+                "pt": "tempo-limite-de-504-ao-criar-cartoespresente-em-massa-atraves-do-admin-lote-de-grande-tamanho"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Adyen 3DS2 double request generates payment authorization denial",
                 "es": "La doble solicitud de Adyen 3DS2 genera una denegación de autorización de pago",
                 "pt": "Solicitação dupla do Adyen 3DS2 gera recusa de autorização de pagamento"
@@ -58520,6 +58911,21 @@
             },
             {
               "name": {
+                "en": "Captured transaction remains in Approved status due to missing settlement registration in Requests",
+                "es": "La transacción capturada permanece en estado Aprobada debido a la falta de registro de liquidación en Solicitudes.",
+                "pt": "A transação capturada permanece no status Aprovada devido à falta de registro de liquidação nas Solicitações."
+              },
+              "slug": {
+                "en": "captured-transaction-remains-in-approved-status-due-to-missing-settlement-registration-in-requests",
+                "es": "la-transaccion-capturada-permanece-en-estado-aprobada-debido-a-la-falta-de-registro-de-liquidacion-en-solicitudes",
+                "pt": "a-transacao-capturada-permanece-no-status-aprovada-devido-a-falta-de-registro-de-liquidacao-nas-solicitacoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Card brands incorrectly processed as Visa",
                 "es": "Marcas de tarjetas procesadas incorrectamente como Visa",
                 "pt": "Marcas de cartão processadas incorretamente como Visa"
@@ -58573,6 +58979,21 @@
                 "en": "change-the-number-of-characters-in-the-braspag-slip",
                 "es": "modificar-el-numero-de-caracteres-de-la-ficha-braspag",
                 "pt": "alterar-o-numero-de-caracteres-no-boletim-da-braspag"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Changes not persisted when editing Expiration date in payment rules",
+                "es": "Los cambios no persisten al editar la fecha de caducidad en las reglas de pago",
+                "pt": "As alterações não são mantidas ao editar a data de vencimento nas regras de pagamento"
+              },
+              "slug": {
+                "en": "changes-not-persisted-when-editing-expiration-date-in-payment-rules",
+                "es": "los-cambios-no-persisten-al-editar-la-fecha-de-caducidad-en-las-reglas-de-pago",
+                "pt": "as-alteracoes-nao-sao-mantidas-ao-editar-a-data-de-vencimento-nas-regras-de-pagamento"
               },
               "origin": "",
               "type": "markdown",
@@ -58843,6 +59264,21 @@
                 "en": "divergent-status-on-the-transaction-list-and-on-the-transaction",
                 "es": "estado-divergente-en-la-lista-de-transacciones-y-en-la-transaccion",
                 "pt": "status-divergente-na-lista-de-transacoes-e-na-transacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "dueDate parameter is not expected for PPP implementations",
+                "es": "el parámetro dueDate no está previsto para las implementaciones de la APP",
+                "pt": "O parâmetro dueDate não é esperado para implementações de PPP"
+              },
+              "slug": {
+                "en": "duedate-parameter-is-not-expected-for-ppp-implementations",
+                "es": "el-parametro-duedate-no-esta-previsto-para-las-implementaciones-de-la-app",
+                "pt": "o-parametro-duedate-nao-e-esperado-para-implementacoes-de-ppp"
               },
               "origin": "",
               "type": "markdown",
@@ -59600,6 +60036,21 @@
             },
             {
               "name": {
+                "en": "Inconsistency in single installment payment condition behavior at checkout",
+                "es": "Incoherencia en el comportamiento de la condición de pago único en la caja",
+                "pt": "Inconsistência no comportamento da condição de pagamento em parcela única no checkout"
+              },
+              "slug": {
+                "en": "inconsistency-in-single-installment-payment-condition-behavior-at-checkout",
+                "es": "incoherencia-en-el-comportamiento-de-la-condicion-de-pago-unico-en-la-caja",
+                "pt": "inconsistencia-no-comportamento-da-condicao-de-pagamento-em-parcela-unica-no-checkout"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Inconsistency on the deadlines of Customer Credit invoices",
                 "es": "Incoherencia en los plazos de las facturas de crédito de los clientes",
                 "pt": "Inconsistência nos prazos das faturas de crédito do cliente"
@@ -59780,6 +60231,21 @@
             },
             {
               "name": {
+                "en": "It is not possible to use the sales channel filter on the transactions page.",
+                "es": "No es posible utilizar el filtro del canal de ventas en la página de transacciones.",
+                "pt": "Não é possível utilizar o filtro do canal de vendas na página de transações."
+              },
+              "slug": {
+                "en": "it-is-not-possible-to-use-the-sales-channel-filter-on-the-transactions-page",
+                "es": "no-es-posible-utilizar-el-filtro-del-canal-de-ventas-en-la-pagina-de-transacciones",
+                "pt": "nao-e-possivel-utilizar-o-filtro-do-canal-de-vendas-na-pagina-de-transacoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "It's possible to go from order to transaction but the inverse flow doesn't work",
                 "es": "Es posible pasar de la orden a la transacción pero el flujo inverso no funciona",
                 "pt": "É possível ir da ordem para a transação, mas o fluxo inverso não funciona"
@@ -59795,21 +60261,6 @@
             },
             {
               "name": {
-                "en": "Konduto AF cannot complete a request when the accountId is missing.",
-                "es": "Konduto AF no puede completar una solicitud cuando falta el accountId.",
-                "pt": "O Konduto AF não pode concluir uma solicitação quando o accountId está ausente."
-              },
-              "slug": {
-                "en": "konduto-af-cannot-complete-a-request-when-the-accountid-is-missing",
-                "es": "konduto-af-no-puede-completar-una-solicitud-cuando-falta-el-accountid",
-                "pt": "o-konduto-af-nao-pode-concluir-uma-solicitacao-quando-o-accountid-esta-ausente"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Lack of validation in the BillingAddress zip code",
                 "es": "Falta de validación en el código postal BillingAddress",
                 "pt": "Falta de validação no código postal BillingAddress"
@@ -59818,6 +60269,21 @@
                 "en": "lack-of-validation-in-the-billingaddress-zip-code",
                 "es": "falta-de-validacion-en-el-codigo-postal-billingaddress",
                 "pt": "falta-de-validacao-no-codigo-postal-billingaddress"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Legacy Antifrauds cannot complete a request when the accountId is missing.",
+                "es": "Los sistemas antifraude heredados no pueden completar una solicitud cuando falta el ID de la cuenta.",
+                "pt": "Os Antifrauds legados não podem concluir uma solicitação quando o accountId está ausente."
+              },
+              "slug": {
+                "en": "legacy-antifrauds-cannot-complete-a-request-when-the-accountid-is-missing",
+                "es": "los-sistemas-antifraude-heredados-no-pueden-completar-una-solicitud-cuando-falta-el-id-de-la-cuenta",
+                "pt": "os-antifrauds-legados-nao-podem-concluir-uma-solicitacao-quando-o-accountid-esta-ausente"
               },
               "origin": "",
               "type": "markdown",
@@ -60170,6 +60636,21 @@
             },
             {
               "name": {
+                "en": "Order stuck in “Payment pending” despite approved transaction",
+                "es": "Pedido bloqueado en \"Pago pendiente\" a pesar de transacción aprobada",
+                "pt": "Pedido preso em \"Pagamento pendente\" apesar da transação aprovada"
+              },
+              "slug": {
+                "en": "order-stuck-in-payment-pending-despite-approved-transaction",
+                "es": "pedido-bloqueado-en-pago-pendiente-a-pesar-de-transaccion-aprobada",
+                "pt": "pedido-preso-em-pagamento-pendente-apesar-da-transacao-aprovada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order Stuck in Payment Pending Due to Outdated Transaction Status",
                 "es": "Pedido bloqueado en pendiente de pago debido a un estado de transacción obsoleto",
                 "pt": "Pedido preso em pagamento pendente devido a status de transação desatualizado"
@@ -60178,6 +60659,21 @@
                 "en": "order-stuck-in-payment-pending-due-to-outdated-transaction-status",
                 "es": "pedido-bloqueado-en-pendiente-de-pago-debido-a-un-estado-de-transaccion-obsoleto",
                 "pt": "pedido-preso-em-pagamento-pendente-devido-a-status-de-transacao-desatualizado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order stuck in Verifying Invoice after settlement-request with value 0",
+                "es": "Pedido atascado en «Verificando factura» tras solicitud de liquidación con valor 0.",
+                "pt": "Pedido preso em Verificação da fatura após solicitação de liquidação com valor 0"
+              },
+              "slug": {
+                "en": "order-stuck-in-verifying-invoice-after-settlementrequest-with-value-0",
+                "es": "pedido-atascado-en-verificando-factura-tras-solicitud-de-liquidacion-con-valor-0",
+                "pt": "pedido-preso-em-verificacao-da-fatura-apos-solicitacao-de-liquidacao-com-valor-0"
               },
               "origin": "",
               "type": "markdown",
@@ -60208,6 +60704,21 @@
                 "en": "orders-placed-with-gift-card-generate-transactions-with-brazilian-currency-r",
                 "es": "los-pedidos-realizados-con-tarjeta-regalo-generan-transacciones-con-moneda-brasilena-r",
                 "pt": "pedidos-feitos-com-gift-card-geram-transacoes-em-moeda-brasileira-r"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Orders remain in \"Payment Pending\" even after transaction is approved or finished",
+                "es": "Los pedidos permanecen en «Pago pendiente» incluso después de que la transacción haya sido aprobada o finalizada.",
+                "pt": "Os pedidos permanecem em \"Pagamento pendente\" mesmo após a transação ter sido aprovada ou concluída."
+              },
+              "slug": {
+                "en": "orders-remain-in-payment-pending-even-after-transaction-is-approved-or-finished",
+                "es": "los-pedidos-permanecen-en-pago-pendiente-incluso-despues-de-que-la-transaccion-haya-sido-aprobada-o-finalizada",
+                "pt": "os-pedidos-permanecem-em-pagamento-pendente-mesmo-apos-a-transacao-ter-sido-aprovada-ou-concluida"
               },
               "origin": "",
               "type": "markdown",
@@ -60388,6 +60899,21 @@
                 "en": "payment-stuck-after-early-cancellation-request-during-settling",
                 "es": "pago-bloqueado-tras-solicitud-de-cancelacion-anticipada-durante-la-liquidacion",
                 "pt": "pagamento-bloqueado-apos-solicitacao-de-cancelamento-antecipado-durante-a-liquidacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Payments Admin Defense Mode settings page fails to load (permissions and GET /admin/iframe/transactions/settings 500)",
+                "es": "La página de configuración del modo de defensa de la administración de pagos no se carga (permisos y GET /admin/iframe/transactions/settings 500).",
+                "pt": "A página de configurações do Modo de Defesa do Administrador de Pagamentos não carrega (permissões e GET /admin/iframe/transactions/settings 500)"
+              },
+              "slug": {
+                "en": "payments-admin-defense-mode-settings-page-fails-to-load-permissions-and-get-adminiframetransactionssettings-500",
+                "es": "la-pagina-de-configuracion-del-modo-de-defensa-de-la-administracion-de-pagos-no-se-carga-permisos-y-get-adminiframetransactionssettings-500",
+                "pt": "a-pagina-de-configuracoes-do-modo-de-defesa-do-administrador-de-pagamentos-nao-carrega-permissoes-e-get-adminiframetransactionssettings-500"
               },
               "origin": "",
               "type": "markdown",
@@ -60643,21 +61169,6 @@
                 "en": "second-payment-authorization-request-being-sent-within-an-interval-shorter-than-what-is-stated-in-firstretryattemptinseconds",
                 "es": "segunda-solicitud-de-autorizacion-de-pago-enviada-en-un-intervalo-inferior-al-indicado-en-firstretryattemptinseconds",
                 "pt": "segunda-solicitacao-de-autorizacao-de-pagamento-sendo-enviada-em-um-intervalo-menor-do-que-o-indicado-em-firstretryattemptinseconds"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Single installment payment condition does not appear at chekout.",
-                "es": "La condición de pago único no aparece en el chekout.",
-                "pt": "A condição de pagamento em uma única parcela não aparece no checkout."
-              },
-              "slug": {
-                "en": "single-installment-payment-condition-does-not-appear-at-chekout",
-                "es": "la-condicion-de-pago-unico-no-aparece-en-el-chekout",
-                "pt": "a-condicao-de-pagamento-em-uma-unica-parcela-nao-aparece-no-checkout"
               },
               "origin": "",
               "type": "markdown",
@@ -61040,14 +61551,14 @@
             },
             {
               "name": {
-                "en": "Transaction cancellation error with 'Unreachable code' message",
-                "es": "Error de cancelación de transacción con el mensaje 'Código no localizable'.",
-                "pt": "Erro de cancelamento de transação com a mensagem 'Unreachable code' (código inacessível)"
+                "en": "Transaction cancellation error with \"Unreachable code\" message",
+                "es": "Error de cancelación de transacción con el mensaje «Código inaccesible».",
+                "pt": "Erro de cancelamento da transação com a mensagem “Código inacessível”"
               },
               "slug": {
                 "en": "transaction-cancellation-error-with-unreachable-code-message",
-                "es": "error-de-cancelacion-de-transaccion-con-el-mensaje-codigo-no-localizable",
-                "pt": "erro-de-cancelamento-de-transacao-com-a-mensagem-unreachable-code-codigo-inacessivel"
+                "es": "error-de-cancelacion-de-transaccion-con-el-mensaje-codigo-inaccesible",
+                "pt": "erro-de-cancelamento-da-transacao-com-a-mensagem-codigo-inacessivel"
               },
               "origin": "",
               "type": "markdown",
@@ -61063,6 +61574,21 @@
                 "en": "transaction-created-with-duplicated-payments",
                 "es": "transaccion-creada-con-pagos-duplicados",
                 "pt": "transacao-criada-com-pagamentos-duplicados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transaction gets cancelled after reverting from Authorized to Started",
+                "es": "La transacción se cancela tras pasar de Autorizada a Iniciada",
+                "pt": "A transação é cancelada após ser revertida de Autorizada para Iniciada"
+              },
+              "slug": {
+                "en": "transaction-gets-cancelled-after-reverting-from-authorized-to-started",
+                "es": "la-transaccion-se-cancela-tras-pasar-de-autorizada-a-iniciada",
+                "pt": "a-transacao-e-cancelada-apos-ser-revertida-de-autorizada-para-iniciada"
               },
               "origin": "",
               "type": "markdown",
@@ -61266,13 +61792,73 @@
             {
               "name": {
                 "en": "Transactions remain stuck despite connector approval",
-                "es": "Las transacciones siguen bloqueadas a pesar de la aprobación del conector",
-                "pt": "As transações continuam travadas apesar da aprovação do conector"
+                "es": "Las transacciones siguen bloqueadas a pesar de la aprobación del conector.",
+                "pt": "As transações continuam travadas, apesar da aprovação do conector"
               },
               "slug": {
                 "en": "transactions-remain-stuck-despite-connector-approval",
                 "es": "las-transacciones-siguen-bloqueadas-a-pesar-de-la-aprobacion-del-conector",
                 "pt": "as-transacoes-continuam-travadas-apesar-da-aprovacao-do-conector"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions remain stuck in Analyzing Risk despite AFPP connector approval",
+                "es": "Las transacciones siguen atascadas en Análisis de riesgos a pesar de la aprobación del conector AFPP",
+                "pt": "As transações continuam presas no Analyzing Risk apesar da aprovação do conector AFPP"
+              },
+              "slug": {
+                "en": "transactions-remain-stuck-in-analyzing-risk-despite-afpp-connector-approval",
+                "es": "las-transacciones-siguen-atascadas-en-analisis-de-riesgos-a-pesar-de-la-aprobacion-del-conector-afpp",
+                "pt": "as-transacoes-continuam-presas-no-analyzing-risk-apesar-da-aprovacao-do-conector-afpp"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions remain stuck in Analyzing Risk despite legacy anti fraud connector approval",
+                "es": "Las transacciones permanecen atascadas en Análisis de riesgos a pesar de la aprobación del conector antifraude heredado",
+                "pt": "As transações permanecem presas no Analyzing Risk, apesar da aprovação do conector antifraude legado"
+              },
+              "slug": {
+                "en": "transactions-remain-stuck-in-analyzing-risk-despite-legacy-anti-fraud-connector-approval",
+                "es": "las-transacciones-permanecen-atascadas-en-analisis-de-riesgos-a-pesar-de-la-aprobacion-del-conector-antifraude-heredado",
+                "pt": "as-transacoes-permanecem-presas-no-analyzing-risk-apesar-da-aprovacao-do-conector-antifraude-legado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions remain stuck in Authorized despite connector approval",
+                "es": "Las transacciones siguen bloqueadas en Autorizado a pesar de la aprobación del conector",
+                "pt": "As transações permanecem presas no Autorizado, apesar da aprovação do conector"
+              },
+              "slug": {
+                "en": "transactions-remain-stuck-in-authorized-despite-connector-approval",
+                "es": "las-transacciones-siguen-bloqueadas-en-autorizado-a-pesar-de-la-aprobacion-del-conector",
+                "pt": "as-transacoes-permanecem-presas-no-autorizado-apesar-da-aprovacao-do-conector"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions remain stuck in Pending Authorization despite connector approval",
+                "es": "Las transacciones permanecen atascadas en Pendiente de autorización a pesar de la aprobación del conector",
+                "pt": "As transações permanecem presas em Autorização Pendente apesar da aprovação do conector"
+              },
+              "slug": {
+                "en": "transactions-remain-stuck-in-pending-authorization-despite-connector-approval",
+                "es": "las-transacciones-permanecen-atascadas-en-pendiente-de-autorizacion-a-pesar-de-la-aprobacion-del-conector",
+                "pt": "as-transacoes-permanecem-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector"
               },
               "origin": "",
               "type": "markdown",
@@ -61310,14 +61896,44 @@
             },
             {
               "name": {
+                "en": "Transactions stuck in Authorized after approval",
+                "es": "Transacciones bloqueadas en Autorizado después de la aprobación",
+                "pt": "Transações presas em Autorizado após aprovação"
+              },
+              "slug": {
+                "en": "transactions-stuck-in-authorized-after-approval",
+                "es": "transacciones-bloqueadas-en-autorizado-despues-de-la-aprobacion",
+                "pt": "transacoes-presas-em-autorizado-apos-aprovacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transactions stuck in Authorized or Pending Authorization after approval",
-                "es": "Transacciones atascadas en Autorizado o Pendiente de autorización tras la aprobación",
-                "pt": "Transações presas em Autorizado ou Autorização pendente após a aprovação"
+                "es": "Transacciones bloqueadas en «Autorizado» o «Autorización pendiente» tras su aprobación.",
+                "pt": "Transações retidas em Autorizado ou Autorização pendente após aprovação"
               },
               "slug": {
                 "en": "transactions-stuck-in-authorized-or-pending-authorization-after-approval",
-                "es": "transacciones-atascadas-en-autorizado-o-pendiente-de-autorizacion-tras-la-aprobacion",
-                "pt": "transacoes-presas-em-autorizado-ou-autorizacao-pendente-apos-a-aprovacao"
+                "es": "transacciones-bloqueadas-en-autorizado-o-autorizacion-pendiente-tras-su-aprobacion",
+                "pt": "transacoes-retidas-em-autorizado-ou-autorizacao-pendente-apos-aprovacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions stuck in Pending Authorization after approval",
+                "es": "Transacciones atascadas en Pendiente de autorización tras la aprobación",
+                "pt": "Transações presas em Autorização Pendente após a aprovação"
+              },
+              "slug": {
+                "en": "transactions-stuck-in-pending-authorization-after-approval",
+                "es": "transacciones-atascadas-en-pendiente-de-autorizacion-tras-la-aprobacion",
+                "pt": "transacoes-presas-em-autorizacao-pendente-apos-a-aprovacao"
               },
               "origin": "",
               "type": "markdown",
@@ -61762,6 +62378,21 @@
             },
             {
               "name": {
+                "en": "Paste action blocked on login and on the Pick and Pack picking search field",
+                "es": "Acción de pegar bloqueada en el inicio de sesión y en el campo de búsqueda de picking Pick and Pack",
+                "pt": "Ação de colar bloqueada no login e no campo de pesquisa de picking Pick and Pack"
+              },
+              "slug": {
+                "en": "paste-action-blocked-on-login-and-on-the-pick-and-pack-picking-search-field",
+                "es": "accion-de-pegar-bloqueada-en-el-inicio-de-sesion-y-en-el-campo-de-busqueda-de-picking-pick-and-pack",
+                "pt": "acao-de-colar-bloqueada-no-login-e-no-campo-de-pesquisa-de-picking-pick-and-pack"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Pick and Pack Worksheets remain open and cannot be completed",
                 "es": "Las hojas de trabajo Pick and Pack permanecen abiertas y no pueden completarse",
                 "pt": "As planilhas de coleta e embalagem permanecem abertas e não podem ser concluídas"
@@ -62153,6 +62784,21 @@
             },
             {
               "name": {
+                "es": "No se puede exportar más de 65.536 líneas en CMS Builder",
+                "pt": "Incapaz de exportar mais de 65.536 linhas no CMS Builder",
+                "en": "No se puede exportar más de 65.536 líneas en CMS Builder"
+              },
+              "slug": {
+                "es": "no-se-puede-exportar-mas-de-65536-lineas-en-cms-builder",
+                "pt": "incapaz-de-exportar-mais-de-65536-linhas-no-cms-builder",
+                "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "O=OrderByBestDiscount brings the wrong order",
                 "es": "O=OrderByBestDiscount trae el pedido equivocado",
                 "pt": "O=OrderByBestDiscount traz o pedido errado"
@@ -62326,6 +62972,21 @@
                 "en": "redirection-with-parameters-in-cms-builder-does-not-work",
                 "es": "la-redireccion-con-parametros-en-el-cms-builder-no-funciona",
                 "pt": "o-redirecionamento-com-parametros-no-cms-builder-nao-funciona"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Redirects export from CMS URL Builder limted to 65,536 records",
+                "es": "Redirige la exportación desde CMS URL Builder limitada a 65 536 registros.",
+                "pt": "Redireciona a exportação do CMS URL Builder limitada a 65.536 registros"
+              },
+              "slug": {
+                "en": "redirects-export-from-cms-url-builder-limted-to-65536-records",
+                "es": "redirige-la-exportacion-desde-cms-url-builder-limitada-a-65-536-registros",
+                "pt": "redireciona-a-exportacao-do-cms-url-builder-limitada-a-65536-registros"
               },
               "origin": "",
               "type": "markdown",
@@ -62521,21 +63182,6 @@
                 "en": "unable-to-delete-template-on-legacy-cms",
                 "es": "no-se-puede-eliminar-la-plantilla-en-el-cms-heredado",
                 "pt": "incapaz-de-apagar-o-modelo-no-cms-antigo"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Unable to export more than 65,536 lines in CMS Builder",
-                "es": "No se puede exportar más de 65.536 líneas en CMS Builder",
-                "pt": "Incapaz de exportar mais de 65.536 linhas no CMS Builder"
-              },
-              "slug": {
-                "en": "unable-to-export-more-than-65536-lines-in-cms-builder",
-                "es": "no-se-puede-exportar-mas-de-65536-lineas-en-cms-builder",
-                "pt": "incapaz-de-exportar-mais-de-65536-linhas-no-cms-builder"
               },
               "origin": "",
               "type": "markdown",
@@ -63948,6 +64594,21 @@
                 "en": "promotion-more-for-less-not-working-alongside-regular-promotion",
                 "es": "promocion-mas-por-menos-no-funciona-junto-con-la-promocion-regular",
                 "pt": "promocao-mais-por-menos-nao-trabalhar-ao-lado-da-promocao-regular"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Promotion Simulator UI shows an incorrect number of items compared to the actual cart",
+                "es": "La interfaz de usuario del simulador de promociones muestra un número incorrecto de artículos en comparación con el carrito real.",
+                "pt": "A interface do usuário do Simulador de Promoção mostra um número incorreto de itens em comparação com o carrinho real"
+              },
+              "slug": {
+                "en": "promotion-simulator-ui-shows-an-incorrect-number-of-items-compared-to-the-actual-cart",
+                "es": "la-interfaz-de-usuario-del-simulador-de-promociones-muestra-un-numero-incorrecto-de-articulos-en-comparacion-con-el-carrito-real",
+                "pt": "a-interface-do-usuario-do-simulador-de-promocao-mostra-um-numero-incorreto-de-itens-em-comparacao-com-o-carrinho-real"
               },
               "origin": "",
               "type": "markdown",
@@ -65489,6 +66150,36 @@
             },
             {
               "name": {
+                "en": "Custom routes missing from Sitemap for subaccounts",
+                "es": "Rutas personalizadas que faltan en el mapa del sitio para las subcuentas",
+                "pt": "Rotas personalizadas ausentes do mapa do site para subcontas"
+              },
+              "slug": {
+                "en": "custom-routes-missing-from-sitemap-for-subaccounts",
+                "es": "rutas-personalizadas-que-faltan-en-el-mapa-del-sitio-para-las-subcuentas",
+                "pt": "rotas-personalizadas-ausentes-do-mapa-do-site-para-subcontas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "disableSitemapEntry flag not respected by sitemap generation",
+                "es": "La generación del mapa del sitio no respeta el indicador disableSitemapEntry.",
+                "pt": "O sinalizador disableSitemapEntry não é respeitado pela geração do mapa do site"
+              },
+              "slug": {
+                "en": "disablesitemapentry-flag-not-respected-by-sitemap-generation",
+                "es": "la-generacion-del-mapa-del-sitio-no-respeta-el-indicador-disablesitemapentry",
+                "pt": "o-sinalizador-disablesitemapentry-nao-e-respeitado-pela-geracao-do-mapa-do-site"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Disclosure Layout can't be used properly when prop animated is set as true",
                 "es": "Disclosure Layout no se puede utilizar correctamente cuando prop animado se establece como verdadero",
                 "pt": "O layout de divulgação não pode ser usado corretamente quando a animação de propulsão é definida como verdadeira."
@@ -66151,12 +66842,12 @@
               "name": {
                 "en": "ProductImpression doesn't show all the products when the SKU is individually showed",
                 "es": "ProductImpression no muestra todos los productos cuando el SKU se muestra individualmente",
-                "pt": "ProdutoImpressão não mostra todos os produtos quando o SKU é mostrado individualmente"
+                "pt": "O ProductImpression não mostra todos os produtos quando o SKU é mostrado individualmente"
               },
               "slug": {
                 "en": "productimpression-doesnt-show-all-the-products-when-the-sku-is-individually-showed",
                 "es": "productimpression-no-muestra-todos-los-productos-cuando-el-sku-se-muestra-individualmente",
-                "pt": "produtoimpressao-nao-mostra-todos-os-produtos-quando-o-sku-e-mostrado-individualmente"
+                "pt": "o-productimpression-nao-mostra-todos-os-produtos-quando-o-sku-e-mostrado-individualmente"
               },
               "origin": "",
               "type": "markdown",
@@ -66894,6 +67585,37 @@
                 "en": "order-not-notified-carrier-leaves-label-barcode-incomplete",
                 "es": "el-pedido-no-notificado-al-transportista-deja-incompleto-el-codigo-de-barras-de-la-etiqueta",
                 "pt": "pedido-nao-notificado-transportadora-deixa-etiqueta-com-codigo-de-barras-incompleto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Personal shopper",
+            "es": "Personal shopper",
+            "pt": "Personal shopper"
+          },
+          "slug": {
+            "en": "personal-shopper",
+            "es": "personal-shopper",
+            "pt": "personal-shopper"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Notifications from the personal shopper are not arriving on WhatsApp.",
+                "es": "Las notificaciones del asistente personal de compras no llegan a WhatsApp.",
+                "pt": "As notificações do personal shopper não estão chegando no WhatsApp."
+              },
+              "slug": {
+                "en": "notifications-from-the-personal-shopper-are-not-arriving-on-whatsapp",
+                "es": "las-notificaciones-del-asistente-personal-de-compras-no-llegan-a-whatsapp",
+                "pt": "as-notificacoes-do-personal-shopper-nao-estao-chegando-no-whatsapp"
               },
               "origin": "",
               "type": "markdown",
