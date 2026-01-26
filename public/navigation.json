@@ -28165,6 +28165,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Bold",
+                    "es": "Configurar pago con Bold",
+                    "pt": "Configurar pagamento com Bold"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-bold",
+                    "es": "configurar-pago-con-bold",
+                    "pt": "configurar-pagamento-com-bold"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Bom Pra Credito",
                     "es": "Configurar pago con Bom Pra Credito",
                     "pt": "Configurar pagamento com Bom Pra Crédito"
