@@ -2,10 +2,10 @@
 title: 'Tipos de liquidación de pagos'
 id:
 status: PUBLISHED
-createdAt: 2025-12-10T00:00:00.001Z
-updatedAt: 2025-12-10T00:00:00.001Z
-publishedAt: 2025-12-10T00:00:00.001Z
-firstPublishedAt: 2025-12-10T00:00:00.001Z
+createdAt: 2026-01-26T00:00:00.001Z
+updatedAt: 2026-01-26T00:00:00.001Z
+publishedAt: 2026-01-26T00:00:00.001Z
+firstPublishedAt: 2026-01-26T00:00:00.001Z
 contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
