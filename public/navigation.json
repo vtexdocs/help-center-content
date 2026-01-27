@@ -52122,13 +52122,13 @@
             {
               "name": {
                 "en": "Intelligent Search multilanguage doesn't support 2 variations of the same language/idiom",
-                "es": "La búsqueda inteligente multilingüe no admite 2 variaciones del mismo idioma/idioma",
-                "pt": "O Intelligent Search multilíngue não é compatível com duas variações do mesmo idioma/idioma"
+                "es": "La búsqueda inteligente multilingüe no admite dos variantes del mismo idioma o dialecto.",
+                "pt": "A Pesquisa Inteligente multilíngue não suporta duas variações do mesmo idioma/idioma."
               },
               "slug": {
                 "en": "intelligent-search-multilanguage-doesnt-support-2-variations-of-the-same-languageidiom",
-                "es": "la-busqueda-inteligente-multilingue-no-admite-2-variaciones-del-mismo-idiomaidioma",
-                "pt": "o-intelligent-search-multilingue-nao-e-compativel-com-duas-variacoes-do-mesmo-idiomaidioma"
+                "es": "la-busqueda-inteligente-multilingue-no-admite-dos-variantes-del-mismo-idioma-o-dialecto",
+                "pt": "a-pesquisa-inteligente-multilingue-nao-suporta-duas-variacoes-do-mesmo-idiomaidioma"
               },
               "origin": "",
               "type": "markdown",
