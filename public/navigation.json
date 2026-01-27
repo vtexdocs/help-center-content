@@ -68,6 +68,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Janeiro",
+                "es": "Janeiro",
+                "pt": "Janeiro"
+              },
+              "slug": {
+                "en": "janeiro",
+                "es": "janeiro",
+                "pt": "2026-janeiro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Templates para criação de promoções",
+                    "en": "Templates para criação de promoções",
+                    "es": "Templates para criação de promoções"
+                  },
+                  "slug": {
+                    "pt": "2026-01-27-templates-para-criacao-de-promocoes",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
