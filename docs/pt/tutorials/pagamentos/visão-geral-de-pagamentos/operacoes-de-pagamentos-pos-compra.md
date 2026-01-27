@@ -52,17 +52,7 @@ Os exemplos e diagramas a seguir demonstram como cada modo de processamento atua
 3. Merchant solicita ao Gateway a liquidação do valor restante do pedido (R$ 80)
 4. Gateway não realiza comunicação com o Conector, pois o valor total do pedido já foi solicitado
 
-```mermaid
-sequenceDiagram
-        participant Merchant
-    participant Gateway
-    participant Conector
-
-    Merchant->>Gateway: 1. Solicita liquidação de R$20
-    Gateway->>Conector: 2. Solicita liquidação de R$100
-    Merchant->>Gateway: 3. Solicita liquidação do valor restante (R$80)
-    Note right of Gateway: 4. Não envia nada ao Conector, pois o total já foi solicitado
-```
+![Modo total liquidação](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/visão-geral-de-pagamentos/modo-total-liquidacao.png)
 
 ### Cancelamento
 
@@ -71,17 +61,7 @@ sequenceDiagram
 3. Merchant solicita ao Gateway o cancelamento do valor restante do pedido (R$ 80)
 4. Gateway solicita ao Conector o cancelamento de R$ 100
 
-```mermaid
-sequenceDiagram
-        participant Merchant
-    participant Gateway
-    participant Conector
-
-    Merchant->>Gateway: 1. Solicita cancelamento de R$20
-    Note right of Gateway: 2. Não realiza comunicação com o Conector
-    Merchant->>Gateway: 3. Solicita cancelamento do valor restante (R$80)
-    Gateway->>Conector: 4. Solicita cancelamento de R$100
-```
+![Modo total cancelamento](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/visão-geral-de-pagamentos/modo-total-cancelamento.png)
 
 ### Reembolso
 
@@ -90,17 +70,7 @@ sequenceDiagram
 3. Merchant solicita ao Gateway o reembolso do valor restante do pedido (R$ 80)
 4. Gateway solicita ao Conector o reembolso do valor restante do pedido (R$ 80)
 
-```mermaid
-sequenceDiagram
-        participant Merchant
-    participant Gateway
-    participant Conector
-
-    Merchant->>Gateway: 1. Solicita reembolso de R$20
-    Gateway->>Conector: 2. Solicita reembolso de R$20
-    Merchant->>Gateway: 3. Solicita reembolso do valor restante (R$80)
-    Gateway->>Conector: 4. Solicita reembolso do valor restante (R$80)
-```
+![Modo total reembolso](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/visão-geral-de-pagamentos/modo-total-reembolso.png)
 
 > ℹ️ O conector somente executa uma operação de reembolso se o valor solicitado já tiver sido liquidado anteriormente.
 
@@ -114,17 +84,7 @@ sequenceDiagram
 3. Merchant solicita ao Gateway a liquidação do valor restante do pedido (R$ 80)
 4. Gateway solicita ao Conector a liquidação de R$ 100
 
-```mermaid
-sequenceDiagram
-        participant Merchant
-    participant Gateway
-    participant Conector
-
-    Merchant->>Gateway: 1. Solicita liquidação de R$20
-    Note right of Gateway: 2. Não realiza comunicação com o Conector
-    Merchant->>Gateway: 3. Solicita liquidação do valor restante (R$80)
-    Gateway->>Conector: 4. Solicita liquidação de R$100
-```
+![Modo hold liquidação](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/visão-geral-de-pagamentos/modo-hold-liquidacao.png)
 
 ### Cancelamento
 
@@ -135,17 +95,7 @@ sequenceDiagram
 3. Merchant solicita ao Gateway o cancelamento do valor restante do pedido (R$ 80)
 4. Gateway solicita ao Conector o cancelamento de R$ 100
 
-```mermaid
-sequenceDiagram
-        participant Merchant
-    participant Gateway
-    participant Conector
-
-    Merchant->>Gateway: 1. Solicita cancelamento de R$20
-    Note right of Gateway: 2. Não realiza comunicação com o Conector
-    Merchant->>Gateway: 3. Solicita cancelamento do valor restante (R$80)
-    Gateway->>Conector: 4. Solicita cancelamento de R$100
-```
+![Modo hold cancelamento 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/visão-geral-de-pagamentos/modo-hold-cancelamento-1.png)
 
 **Exemplo 2**: cancelamento de uma parte do valor do pedido
 
@@ -155,18 +105,7 @@ sequenceDiagram
 4. Gateway solicita ao Conector a liquidação de R$ 80
 5. O valor de R$ 20 permanece cancelado no Gateway, mas não é informado ao conector
 
-```mermaid
-sequenceDiagram
-        participant Merchant
-    participant Gateway
-    participant Conector
-
-    Merchant->>Gateway: 1. Solicita cancelamento de R$20
-    Note right of Gateway: 2. Não realiza comunicação com o Conector
-    Merchant->>Gateway: 3. Solicita liquidação do valor restante (R$80)
-    Gateway->>Conector: 4. Solicita liquidação de R$80
-    Note over Gateway: 5. O valor de R$ 20 permanece cancelado no Gateway, mas não é informado ao conector.
-```
+![Modo hold cancelamento 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/visão-geral-de-pagamentos/modo-hold-cancelamento-2.png)
 
 ### Reembolso
 
@@ -175,17 +114,7 @@ sequenceDiagram
 3. Merchant solicita ao Gateway o reembolso do valor restante do pedido (R$ 80)
 4. Gateway solicita ao Conector o reembolso do valor restante do pedido (R$ 80)
 
-```mermaid
-sequenceDiagram
-        participant Merchant
-    participant Gateway
-    participant Conector
-
-    Merchant->>Gateway: 1. Solicita reembolso de R$20
-    Gateway->>Conector: 2. Solicita reembolso de R$20
-    Merchant->>Gateway: 3. Solicita reembolso do valor restante (R$80)
-    Gateway->>Conector: 4. Solicita reembolso do valor restante (R$80)
-```
+![Modo hold reembolso](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/visão-geral-de-pagamentos/modo-hold-reembolso.png)
 
 > ℹ️ O conector somente executa uma operação de reembolso se o valor solicitado já tiver sido liquidado anteriormente.
 
@@ -200,17 +129,7 @@ sequenceDiagram
 3. Merchant solicita ao Gateway a liquidação do valor restante do pedido (R$ 80)
 4. Gateway solicita ao Conector a liquidação do valor restante do pedido (R$ 80)
 
-```mermaid
-sequenceDiagram
-        participant Merchant
-    participant Gateway
-    participant Conector
-
-    Merchant->>Gateway: 1. Solicita liquidação de R$20
-    Gateway->>Conector: 2. Solicita liquidação de R$20
-    Merchant->>Gateway: 3. Solicita liquidação do valor restante (R$80)
-    Gateway->>Conector: 4. Solicita liquidação do valor restante (R$80)
-```
+![Modo parcial liquidação](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/visão-geral-de-pagamentos/modo-parcial-liquidacao.png)
 
 ### Cancelamento
 
@@ -219,17 +138,7 @@ sequenceDiagram
 3. Merchant solicita ao Gateway o cancelamento do valor restante do pedido (R$ 80)
 4. Gateway solicita ao Conector o cancelamento do valor restante do pedido (R$ 80)
 
-```mermaid
-sequenceDiagram
-        participant Merchant
-    participant Gateway
-    participant Conector
-
-    Merchant->>Gateway: 1. Solicita cancelamento de R$20
-    Gateway->>Conector: 2. Solicita cancelamento de R$20
-    Merchant->>Gateway: 3. Solicita cancelamento do valor restante (R$80)
-    Gateway->>Conector: 4. Solicita cancelamento do valor restante (R$80)
-```
+![Modo parcial cancelamento](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/visão-geral-de-pagamentos/modo-parcial-cancelamento.png)
 
 ### Reembolso
 
@@ -238,17 +147,7 @@ sequenceDiagram
 3. Merchant solicita ao Gateway o reembolso do valor restante do pedido (R$ 80)
 4. Gateway solicita ao Conector o reembolso do valor restante do pedido (R$ 80)
 
-```mermaid
-sequenceDiagram
-        participant Merchant
-    participant Gateway
-    participant Conector
-
-    Merchant->>Gateway: 1. Solicita reembolso de R$20
-    Gateway->>Conector: 2. Solicita reembolso de R$20
-    Merchant->>Gateway: 3. Solicita reembolso do valor restante (R$80)
-    Gateway->>Conector: 4. Solicita reembolso do valor restante (R$80)
-```
+![Modo parcial reembolso](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/visão-geral-de-pagamentos/modo-parcial-reembolso.png)
 
 > ℹ️ O conector somente executa uma operação de reembolso se o valor solicitado já tiver sido liquidado anteriormente.
 
