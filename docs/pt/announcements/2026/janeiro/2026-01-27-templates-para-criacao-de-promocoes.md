@@ -8,7 +8,7 @@ publishedAt: 2026-01-27T00:00:00.000Z
 contentType: updates
 productTeam: Others
 author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: 2026-01-08-templates-for-creating-promotions
+slugEN: 2026-01-27-templates-for-creating-promotions
 locale: pt
 legacySlug: 
 announcementImageID: 'undefined'
