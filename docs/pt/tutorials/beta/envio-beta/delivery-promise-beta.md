@@ -21,7 +21,7 @@ subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 
 Com a **Delivery Promise (Beta)**, sua loja é capaz de fazer uma “promessa de entrega” ao cliente para todos os produtos visualizados, conforme apresentado no vídeo a seguir:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l8HU2qVpsBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" style="aspect-ratio: 16/9" src="https://www.youtube.com/embed/l8HU2qVpsBg?si=f7Y051pPfgGe1-hD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe>
 
 > ❗ A fase atual da **Delivery Promise (Beta)** ainda não permite filtrar a vitrine da loja por um prazo de envio. Para mais informações sobre filtros, veja a seção [Funcionalidades disponíveis](#funcionalidades-disponiveis).
 
