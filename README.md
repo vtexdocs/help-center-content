@@ -140,7 +140,7 @@ In addition to the standard fields for all articles, check the specific fields f
 
 ##### Announcements fields
 
-- **announcementSynopsisEN:** Announcement Synopsis information. The name of this parameter varies according to the language of the article, for the Portuguese version it must be used `announcementSynopsisPT`, and for the Spanish version use `announcementSynopsisES`.
+- **announcementSynopsisEN:** Announcement Synopsis information with single quotes. The name of this parameter varies according to the language of the article, for the Portuguese version it must be used `announcementSynopsisPT`, and for the Spanish version use `announcementSynopsisES`.
 - **author:** Technical writer ID in Contentful.
 
 ##### Known issue fields
