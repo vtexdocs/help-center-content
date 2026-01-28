@@ -64,14 +64,16 @@ Para criar uma nova opção de envio, siga os passos abaixo.
    - **Prazo mínimo:** quantidade mínima de horas ou dias para a opção de envio.
    - **Prazo máximo:** quantidade máxima de horas ou dias para a opção de envio.
    - **Zonas de envio**: clique no botão `+ Adicionar zonas` e selecione as zonas de envio que deseja que sejam atendidas pela opção de envio. É possível buscar por uma zona de envio por meio da barra de busca. Clique em `Salvar` para fechar a janela.
-   - **Precificação**: condições de precificação da opção de envio. Os modelos de precificação aplicados em cada segmentação são: **Valor fixo**, um mesmo preço que será aplicado a todos os carrinhos, **Markup**, uma porcentagem de lucro em cima do valor do frete, e **Repasse de custo**, a loja arca com o custo da opção de envio. As condições de precificação são definidas partir das seguintes segmentações:
+   - **Precificação**: condições de precificação da opção de envio. Os modelos de precificação aplicados em cada segmentação são: **Valor fixo**, um mesmo preço que será aplicado a todos os carrinhos, **Markup**, uma porcentagem de lucro em cima do valor do frete, e **Repasse de custo**, a loja arca com o custo da opção de envio. É possível combinar as opções de precificação entre si. As condições de precificação são definidas partir das seguintes segmentações:
        - **Todos os carrinhos**: o preço será aplicado a todos os carrinhos criados na loja.
        - **Políticas comerciais**: o preço será aplicado a uma determinada política comercial.
        - **Valor do carrinho**: o preço será aplicado caso o valor do carrinho ultrapasse um determinado valor.
        - **Zonas de envio**: o preço será aplicado a uma determinada zona de envio. É necessária a seleção prévia das zonas de envio no campo anterior para utilizar essa segmentação.
 4. Clique em `Criar opção de envio.`
 
-Feito isso, a opção de envio estará ativa e disponível para os clientes da loja.
+Feito isso, a opção de envio estará ativa e disponível para os clientes da loja, como demonstra o exemplo abaixo:
+
+![delivery-options-pt-example](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_4.png)
 
 ## Editar uma opção de envio
 
