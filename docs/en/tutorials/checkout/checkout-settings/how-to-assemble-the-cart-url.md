@@ -17,7 +17,7 @@ subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 
 In some situations, customers ask stores for the link to the shopping cart already assembled with all products. To mount the cart URL you need to use __/checkout/cart/add?__ at the end of the website's default URL, followed by these parameters:
 
-- __Sales Policy:__ `sc={Sales Policy ID}`
+- __Trade Policy:__ `sc={Trade Policy ID}`
 - __SKU:__ `sku={SKU ID}`
 - __Quantity:__ `qty={Quantity of the product}`
 - __Seller:__ `seller={Seller ID}`
