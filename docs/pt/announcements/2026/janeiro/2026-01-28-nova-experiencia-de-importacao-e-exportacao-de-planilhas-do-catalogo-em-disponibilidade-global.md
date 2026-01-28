@@ -25,7 +25,7 @@ As principais melhorias da nova experiência são:
 * **Exportação baseada em filtros e busca:** os lojistas podem utilizar os filtros e a busca da página **Produtos e SKUs** para exportar itens de acordo com suas necessidades. Quando há filtros ativos, somente os resultados na página de listagem são exportados.
 * **Janela de visualização do status da exportação:** os lojistas podem verificar se a exportação da planilha foi concluída e qual tipo de arquivo está sendo processado. Isso é útil pois diferentes exportações podem ser realizadas ao mesmo tempo.
 
-  ![https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2026/janeiro/catalog_exporting_window_PT.png]
+  ![catalog_exporting_window_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2026/janeiro/catalog_exporting_window_PT.png)
 
 * **Novo template de importação de produtos e SKUs:** na página de listagem, ao clicar em **Importar > Produtos e SKUs**, você encontra um link para baixar o `template` da planilha de importação no formato `.xlsx`. Os campos da planilha estão localizados em português, inglês e espanhol.
 
