@@ -14,7 +14,7 @@ announcementSynopsisPT: 'Interface redesenhada que oferece exportação por filt
 
 Até XX de janeiro de 2026, todas as lojas VTEX terão acesso à nova experiência de importação e exportação de planilhas de produtos e SKUs, especificações e imagens. A migração das contas está sendo feita gradualmente e será aplicada às lojas de todas as regiões.
 
-Com relação à atualização, a interface do gerenciamento de planilhas foi redesenhada e as operações de importação e exportação estarão centralizadas em \*\*Catálogo \> Produtos e SKUs\*\*, como pode ser visto a seguir:
+Com relação à atualização, a interface do gerenciamento de planilhas foi redesenhada e as operações de importação e exportação estarão centralizadas em **Catálogo > Produtos e SKUs**, como pode ser visto a seguir:
 
 ![INSERT IMAGE 1]
 
@@ -23,10 +23,9 @@ Com relação à atualização, a interface do gerenciamento de planilhas foi re
 As principais melhorias da nova experiência são:
 
 * **Exportação baseada em filtros e busca:** os lojistas podem utilizar os filtros e a busca da página **Produtos e SKUs** para exportar itens de acordo com suas necessidades. Quando há filtros ativos, somente os resultados na página de listagem são exportados.
-
 * **Janela de visualização do status da exportação:** os lojistas podem verificar se a exportação da planilha foi concluída e qual tipo de arquivo está sendo processado. Isso é útil pois diferentes exportações podem ser realizadas ao mesmo tempo.
 
-![INSERT IMAGE 2]
+  ![INSERT IMAGE 2]
 
 * **Novo template de importação de produtos e SKUs:** na página de listagem, ao clicar em **Importar > Produtos e SKUs**, você encontra um link para baixar o `template` da planilha de importação no formato `.xlsx`. Os campos da planilha estão localizados em português, inglês e espanhol.
 
