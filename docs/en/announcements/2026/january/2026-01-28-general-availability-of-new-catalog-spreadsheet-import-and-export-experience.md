@@ -25,7 +25,7 @@ The main improvements of the new experience are:
 * **Export based on filters and search:** Merchants can use the filters and search on the **Products and SKUs** page to export the items they want. When filters are active, only the results on the list page are exported.
 * **Export status window:** Merchants can check whether the spreadsheet export has been completed and the file type that is being processed. This is useful because you can do different types of exports at the same time.
 
-  ![INSERT IMAGE 2]
+  ![https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2026/january/catalog_exporting_window_EN.png]
   
 * **New product and SKU import template:** On the list page, when you click **Import > Products and SKUs**, you can find a link to download the import spreadsheet `template` in `.xlsx` format. The fields in the spreadsheet are available in English, Spanish, and Portuguese.
 
