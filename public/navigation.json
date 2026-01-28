@@ -32230,6 +32230,37 @@
             },
             {
               "name": {
+                "en": "Promoções",
+                "es": "Promoções",
+                "pt": "Promoções"
+              },
+              "slug": {
+                "en": "promocoes",
+                "es": "promocoes",
+                "pt": "promoções-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Gerenciamento de templates de promoção",
+                    "en": "Gerenciamento de templates de promoção",
+                    "es": "Gerenciamento de templates de promoção"
+                  },
+                  "slug": {
+                    "pt": "gerenciamento-de-templates-de-promocao",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Rates & Benefits - Overview",
                 "es": "Visión de conjunto de Tasas y Promociones",
                 "pt": "Taxas & Promoções - Visão geral"
