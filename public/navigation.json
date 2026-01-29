@@ -43039,13 +43039,13 @@
             {
               "name": {
                 "en": "Reorder Collection Failing for Large Collections",
-                "es": "Fallo en la reordenación de colecciones grandes",
-                "pt": "Falha na reordenação de coleções para coleções grandes"
+                "es": "Error al reordenar colecciones grandes",
+                "pt": "Falha na reordenação de coleções grandes"
               },
               "slug": {
                 "en": "reorder-collection-failing-for-large-collections",
-                "es": "fallo-en-la-reordenacion-de-colecciones-grandes",
-                "pt": "falha-na-reordenacao-de-colecoes-para-colecoes-grandes"
+                "es": "error-al-reordenar-colecciones-grandes",
+                "pt": "falha-na-reordenacao-de-colecoes-grandes"
               },
               "origin": "",
               "type": "markdown",
