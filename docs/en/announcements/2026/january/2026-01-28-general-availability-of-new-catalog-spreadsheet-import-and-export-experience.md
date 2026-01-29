@@ -12,11 +12,9 @@ locale: en
 announcementSynopsisEN: 'The redesigned interface offers export using filters and status tracking.'
 ---
 
-By January XX, 2026, all VTEX stores will have access to the new spreadsheet import and export experience for products and SKUs, specifications, and images. Account migration is being done gradually and will be applied to stores in all regions.
+By the end of February 2026, all VTEX stores will have access to the new spreadsheet import and export experience for products and SKUs, specifications, and images. Account migration is being done gradually and will be applied to stores in all regions.
 
-The update includes a redesign of the spreadsheet management interface and centralizes the import and export operations in **Catalog > Products and SKUs**, as shown below:
-
-![INSERT IMAGE 1]
+The update includes a redesign of the spreadsheet management interface and centralizes the import and export operations in **Catalog > Products and SKUs**.
 
 ## What has changed?
 
@@ -31,7 +29,7 @@ The main improvements of the new experience are:
 
 ## What needs to be done?
 
-No action is required from merchants. By January XX, 2026, VTEX stores in all regions will be migrated to the new experience.
+No action is required from merchants. By the end of February 2026, VTEX stores in all regions will be migrated to the new experience.
 
 ### Related documentation
 

@@ -12,11 +12,9 @@ locale: es
 announcementSynopsisES: 'La interfaz rediseñada ofrece exportación por filtros y seguimiento del status.'
 ---
 
-Para el XX de enero de 2026, todas las tiendas VTEX tendrán acceso a la nueva experiencia de importación y exportación de plantillas de productos y SKUs, especificaciones e imágenes. La migración de las cuentas se está realizando gradualmente y se aplicará a tiendas de todas las regiones.
+Hasta el final de febrero de 2026, todas las tiendas VTEX tendrán acceso a la nueva experiencia de importación y exportación de plantillas de productos y SKUs, especificaciones e imágenes. La migración de las cuentas se está realizando gradualmente y se aplicará a tiendas de todas las regiones.
 
-La actualización abarca el rediseño de la interfaz de gestión de plantillas y centraliza las operaciones de importación y exportación en **Catálogo > Productos y SKUs**, como se muestra a continuación:
-
-![INSERT IMAGE 1]
+La actualización abarca el rediseño de la interfaz de gestión de plantillas y centraliza las operaciones de importación y exportación en **Catálogo > Productos y SKUs**.
 
 ## ¿Qué cambió?
 
@@ -31,7 +29,7 @@ Las principales mejoras de la nueva experiencia son:
 
 ## ¿Qué se necesita hacer?
 
-No se requiere ninguna acción. Para el XX de enero de 2026, las tiendas VTEX de todas las regiones habrán migrado a la nueva experiencia.
+No se requiere ninguna acción. Hasta el final de febrero de 2026, las tiendas VTEX de todas las regiones habrán migrado a la nueva experiencia.
 
 ### Documentación relacionada
 

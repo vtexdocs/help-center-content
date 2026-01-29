@@ -12,11 +12,9 @@ locale: pt
 announcementSynopsisPT: 'Interface redesenhada que oferece exportação por filtros e acompanhamento de status.'
 ---
 
-Até XX de janeiro de 2026, todas as lojas VTEX terão acesso à nova experiência de importação e exportação de planilhas de produtos e SKUs, especificações e imagens. A migração das contas está sendo feita gradualmente e será aplicada às lojas de todas as regiões.
+Até o final de fevereiro de 2026, todas as lojas VTEX terão acesso à nova experiência de importação e exportação de planilhas de produtos e SKUs, especificações e imagens. A migração das contas está sendo feita gradualmente e será aplicada às lojas de todas as regiões.
 
-Com relação à atualização, a interface do gerenciamento de planilhas foi redesenhada e as operações de importação e exportação estarão centralizadas em **Catálogo > Produtos e SKUs**, como pode ser visto a seguir:
-
-![INSERT IMAGE 1]
+Com relação à atualização, a interface do gerenciamento de planilhas foi redesenhada e as operações de importação e exportação estarão centralizadas em **Catálogo > Produtos e SKUs**.
 
 ## O que mudou?
 
@@ -31,7 +29,7 @@ As principais melhorias da nova experiência são:
 
 ## O que precisa ser feito?
 
-Nenhuma ação é necessária por parte dos lojistas e, até XX de janeiro de 2026, as lojas VTEX de todas as regiões terão sido migradas para a nova experiência.
+Nenhuma ação é necessária por parte dos lojistas e, até o final de fevereiro de 2026, as lojas VTEX de todas as regiões terão sido migradas para a nova experiência.
 
 ### Documentação relacionada
 
