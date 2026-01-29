@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "General availability of new catalog spreadsheet import and export experience",
+                    "es": "Nueva experiencia de importación y exportación de plantillas del módulo Catálogo con disponibilidad general",
+                    "pt": "Nova experiência de importação e exportação de planilhas do Catálogo em disponibilidade global"
+                  },
+                  "slug": {
+                    "en": "2026-01-28-general-availability-of-new-catalog-spreadsheet-import-and-export-experience",
+                    "es": "2026-01-28-nueva-experiencia-de-importacion-y-exportacion-de-plantillas-del-modulo-catalogo-con-disponibilidad-general",
+                    "pt": "2026-01-28-nova-experiencia-de-importacao-e-exportacao-de-planilhas-do-catalogo-em-disponibilidade-global"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Login with Google and Facebook: Client secrets are now masked",
                     "es": "Inicio de sesión con Google y Facebook: enmascaramiento del secreto del cliente",
                     "pt": "Login com Google e Facebook: Client Secret agora é mascarado"
@@ -39745,6 +39760,21 @@
                 "en": "incorrect-values-in-quotes-on-items-with-unity-multiplier-configuration",
                 "es": "valores-incorrectos-en-las-comillas-de-los-articulos-con-configuracion-de-multiplicador-unitario",
                 "pt": "valores-incorretos-em-cotacoes-de-itens-com-configuracao-de-multiplicador-de-unidade"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Non-responsive B2B components cause layout and usability issues on mobile",
+                "es": "Los componentes B2B que no responden causan problemas de diseño y usabilidad en dispositivos móviles.",
+                "pt": "Componentes B2B não responsivos causam problemas de layout e usabilidade em dispositivos móveis"
+              },
+              "slug": {
+                "en": "nonresponsive-b2b-components-cause-layout-and-usability-issues-on-mobile",
+                "es": "los-componentes-b2b-que-no-responden-causan-problemas-de-diseno-y-usabilidad-en-dispositivos-moviles",
+                "pt": "componentes-b2b-nao-responsivos-causam-problemas-de-layout-e-usabilidade-em-dispositivos-moveis"
               },
               "origin": "",
               "type": "markdown",
