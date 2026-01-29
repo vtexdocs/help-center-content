@@ -68,6 +68,8 @@ O provedor deve encaminhar à VTEX, o [AOC](https://www.pcisecuritystandards.org
 - __Assinatura__: Documento assinado pelo representante da empresa e pelo QSA.
 - __Data de expiração__: a validade do AOC é de 1 ano após a data de assinatura.  Um AOC emitido a mais de 11 meses não deve ser encaminhado à VTEX, ou seja, com tempo inferior a 30 dias para a data de expiração.
 
+> ⚠️ Sempre que for necessário atualizar um conector que processe pagamentos com cartões de crédito, débito ou cobranded, será obrigatório realizar novamente o processo de [homologação](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-homologation) (abertura de ticket e envio do AOC), exceto quando o conector atender simultaneamente às condições descritas neste [artigo](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-homologation#when-is-payment-provider-homologation-not-required).
+
 > ❗ Os documentos SAQ (Self-Assessment Questionnaire) e AOC (Attestation of Compliance for Onsite Assessments – Merchants Version) não são aceitos no processo de integração da VTEX.
 
 #### Provedores de pagamentos com boletos, promissórias ou cartões de loja com bandeira própria (Private Label ou cartões em geral, mas que envolvam soluções com redirect)
