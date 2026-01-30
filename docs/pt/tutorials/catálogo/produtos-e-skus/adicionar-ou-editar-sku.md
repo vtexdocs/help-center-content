@@ -3,7 +3,7 @@ title: 'Adicionar ou editar SKU'
 id: 4ryZ6J45kwn3jDiQBxGiiN
 status: PUBLISHED
 createdAt: 2024-08-29T19:24:29.305Z
-updatedAt: 2026-01-16T22:21:13.931Z
+updatedAt: 2026-01-30T22:21:13.931Z
 publishedAt: 2025-07-28T22:21:13.931Z
 firstPublishedAt: 2024-08-29T19:28:11.129Z
 contentType: tutorial
@@ -36,7 +36,8 @@ Todo novo SKU criado precisa estar vinculado a um produto. Assim, uma vez que vo
     * [Logística](#logistica)
     * [Estratégia Comercial](#estrategia-comercial)
     * [Customizações](#customizacoes)
-    * [Vitrine](#vitrine)
+    * [Recomendações de cross-sell e up-sell](#recomendacoes-de-cross-sell-e-up-sell)
+    * [Atributos](#atributos)
 
     > Os campos de preenchimento obrigatório estão marcados com um asterisco (*).
 
@@ -196,31 +197,38 @@ Para vincular uma customização ao SKU, clique no ícone adicionar +, selecione
 
 > ⚠️ As opções de anexos e serviços disponíveis para o SKU precisam ter sido previamente configuradas. Para mais informações, veja os artigos [Cadastrar um anexo](/pt/tutorial/cadastrar-um-anexo--7zHMUpuoQE4cAskqEUWScU) e [Criar serviço para um SKU](/pt/tutorial/criar-servico-para-um-sku--tutorials_252).
 
-## Vitrine
+## Recomendações de cross-sell e up-sell
 
 Esta seção permite à loja configurar para o novo SKU opções de [cross selling](/pt/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280#o-que-e-cross-selling) e/ou [up selling](/pt/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280#o-que-e-up-selling), que serão refletidas na vitrine da loja e na experiência de navegação dos clientes.
 
-Veja a seguir quais tipos de relação outros itens podem ter com o SKU sendo cadastrado:
+Para configurar um opção de cross-sell ou up-sell, siga os passos abaixo:
 
-* **Acessórios:** itens sugeridos como opções complementares para a venda.
-* **Sugestões:** itens apresentados como sugestões de compra.
-* **Produtos similares:** itens ofertados como uma alternativa de compra ou simplesmente algo similar.
-* **Mostrar junto:** itens sugeridos para serem adquiridos conjuntamente.
+1. Na seção **Recomendações de cross-sell e up-sell**, clique no ícone adicionar `+`.
+2. Selecione uma das seguintes opções:
 
-Para configurar alguma das opções acima, siga os passos abaixo:
+    * **Acessórios:** itens sugeridos como opções complementares para a venda.
+    * **Sugestões:** itens apresentados como sugestões de compra.
+    * **Produtos similares:** itens ofertados como uma alternativa de compra ou simplesmente algo similar.
+    * **Mostrar junto:** itens sugeridos para serem adquiridos conjuntamente.
 
-1. Na seção **Vitrine**, clique no ícone adicionar +.
-2. Clique em uma das opções apresentadas:
+3. Clique `Adicionar SKUs`
+4. Selecione os SKUs desejados. Você pode usar a barra de busca se desejar.
+5. Clique em `Aplicar`.
 
-    * Acessórios
-    * Sugestões
-    * Produtos similares
-    * Mostrar junto
+> ℹ️ Para mais informações, veja o artigo [Configurar produto similar, sugestões, acessórios e genéricos](/pt/tutorial/configurar-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280).
 
-3. No campo de texto do modal aberto, digite ID do SKU do item desejado.
-4. Clique em `Aplicar`.
+## Atributos
 
-> ℹ️ Para mais informações, veja o artigo [ Configurar produto similar, sugestões, acessórios e genéricos](/pt/tutorial/configurar-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280).
+Esta seção permite configurar campos customizáveis com valores específicos para cada SKU. Por exemplo, em um batom (produto), cada uma das cores (SKUs) pode ter o campo ingredientes (atributo de SKU) com valores diferentes.
+
+Para configurar um atributo para o SKU, siga os passos abaixo:
+
+1. Na seção **Atributos**, clique no ícone adicionar `+`
+2. Preencha o campo **Nome** com a identificação do atributo.
+3. (Opcional) Se quiser replicar o atributo para os outros SKUs, marque a caixa de seleção **Aplicar a todos os SKUs**.
+4. Clique em `Criar`.
+
+> ℹ️ Os atributos do SKU não possuem vínculo com a árvore de categorias.
 
 ## Saiba mais
 

@@ -3,7 +3,7 @@ title: 'Adding or editing SKUs'
 id: 4ryZ6J45kwn3jDiQBxGiiN
 status: PUBLISHED
 createdAt: 2024-08-29T19:24:29.305Z
-updatedAt: 2026-01-16T22:21:13.931Z
+updatedAt: 2026-01-30T22:21:13.931Z
 publishedAt: 2025-07-28T22:21:13.931Z
 firstPublishedAt: 2024-08-29T19:28:11.129Z
 contentType: tutorial
@@ -36,7 +36,8 @@ Every new SKU must be linked to a product. Once the product is created, follow t
     * [Logistics](#logistics)
     * [Commercial strategy](#commercial-strategy)
     * [Customizations](#customizations)
-    * [Cross-sells and up-sells](#cross-sells-and-up-sells)
+    * [Cross-sell and up-sell recommendations](#cross-sell-and-up-sell-recommendations)
+    * [Attributes](#attributes)
 
     > Required fields are marked with an asterisk (*).
 
@@ -196,31 +197,38 @@ To link a customization to a SKU, click the add + icon, select the desired optio
 
 > ⚠️ The attachment and service options for the SKU must be configured in advance. For more information, see the articles [Adding an attachment](/en/tutorial/cadastrar-um-anexo--7zHMUpuoQE4cAskqEUWScU) and [Creating a service for a SKU](/en/tutorial/criar-servico-para-um-sku--tutorials_252).
 
-## Cross-sells and up-sells
+## Cross-sell and up-sell recommendations
 
-This section allows the store to configure [cross-selling](/en/tutorial/setting-up-a-similar-product-suggestions-accessories-and-generics--tutorials_280#what-is-cross-selling) and [up-selling](/en/tutorial/setting-up-a-similar-product-suggestions-accessories-and-generics--tutorials_280#what-is-up-selling) options for the new SKU, reflecting them on the storefront and in the customer browsing experience.
+This section allows the store to configure [cross-selling](/en/tutorial/setting-up-a-similar-product-suggestions-accessories-and-generics--tutorials_280#what-is-cross-selling) and [up-selling](/en/tutorial/setting-up-a-similar-product-suggestions-accessories-and-generics--tutorials_280#what-is-up-selling) options for the new SKU, reflecting them on the storefront and in the customer browsing experience. 
 
-Below are the possible types of items you can associate with the SKU.
+To configure cross-sell and up-sell options, follow the steps below:
 
-* **Accessories:** Complimentary items suggested for the main product.
-* **Suggestions:** Product recommendations.
-* **Similar products:** Alternatives to the selected item or products with similar characteristics.
-* **Show together:** Suggestions for buying together.
+1. In the **Cross-sell and up-sell recommendations** section, click the add icon `+`.
+2. Select an option from the following:
 
-To configure any of the above options, follow the steps below:
+    * **Accessories:** Complimentary items suggested for the main product.
+    * **Suggestions:** Product recommendations.
+    * **Similar products:** Alternatives to the selected item or products with similar characteristics.
+    * **Show together:** Suggestions for buying together.
 
-1. In the **Cross-sells and up-sells** section, click the add icon +.
-2. Click one of these options
-
-    * Accessories
-    * Suggestions
-    * Similar products
-    * Show together
-
-3. In the text field of the open modal, enter the SKU ID of the desired item.
-4. Click `Apply`.
+3. Click `Add SKUs`
+4. Select the SKUs you want to add. You can use the search bar if you wish.
+5. Click `Apply`.
 
 > ℹ️ For more information, see the article [How to set up similar product, suggestions, accessories and generics](/en/tutorial/configurar-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280).
+
+## Attributes
+
+This section allows the store to configure custom fields with specific values for each SKU. For example, in a lipstick (product), each of the colors (SKUs) can have the field ingredients (SKU attribute) with different values.
+
+To configure an attribute for the SKU, follow the steps below:
+
+1. In the **Attributes** section, click the add icon `+`.
+2. Fill in the field **Name** with the attribute identifier.
+3. (Optional) If you want to replicate the attribute for all SKUs, check the box **Apply to all SKUs**.
+4. Click `Create`.
+
+> ℹ️ Attributes for the SKU are not linked to the category tree.
 
 ## Learn more
 
