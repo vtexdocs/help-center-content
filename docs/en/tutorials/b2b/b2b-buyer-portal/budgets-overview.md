@@ -8,8 +8,6 @@ slugEN: budgets-overview
 locale: en
 ---
 
-# Budgets overview
-
 Budget management allows B2B organizations to plan, allocate, and track their expenses in a structured way. The feature provides operations to create and manage budgets and allocations, record financial movements such as transactions and reservations, and track all activity through statements, ensuring transparency, traceability, and control over buyer spending.
 
 A budget can be subdivided into multiple allocations, and all value movements — such as debits, credits, and refunds — update these balances according to their rules. The feature is designed to support flows in which budgets and allocations are created, balances are consumed by transactions or temporary reservations, and statements are later used to reconcile financial activity over time.
