@@ -228,7 +228,7 @@ Para configurar un atributo para el SKU, sigue los pasos a continuación:
 3. (Opcional) Si deseas replicar el atributo para todos los SKUs, marca la casilla de selección **Aplicar a todos los SKUs**.
 4. Haz clic en `Crear`.
 
-> ℹ️ Los atributos del SKU no están vinculados a el árbol de categorías.
+> ℹ️ Los atributos del SKU no están vinculados al árbol de categorías.
 
 ## Más información
 
