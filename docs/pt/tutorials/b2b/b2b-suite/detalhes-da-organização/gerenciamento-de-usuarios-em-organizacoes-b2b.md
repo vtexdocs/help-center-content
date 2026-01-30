@@ -8,11 +8,8 @@ publishedAt: 2024-07-05T13:50:41.743Z
 firstPublishedAt: 2024-07-05T13:47:56.220Z
 contentType: tutorial
 productTeam: B2B
-author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: managing-admin-users-in-b2b-organizations
-legacySlug: gerenciamento-de-usuarios-em-organizacoes-b2b
+slugEN: managing-users-in-b2b-organizations
 locale: pt
-subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
 
 Em uma operação B2B VTEX, usuários são pessoas autorizadas a acessar a plataforma dentro de uma organização B2B. Eles podem:
