@@ -45503,13 +45503,13 @@
             {
               "name": {
                 "en": "Divergent order value between marketplace and seller while using price override and promotions",
-                "es": "Valor de pedido divergente entre el mercado y el vendedor al utilizar anulación de precios y promociones",
-                "pt": "Valor divergente do pedido entre o mercado e o vendedor enquanto usa a substituição de preço e promoções"
+                "es": "Valor del pedido divergente entre el mercado y el vendedor al utilizar la anulación de precios y las promociones.",
+                "pt": "Valor divergente do pedido entre o marketplace e o vendedor ao usar substituição de preço e promoções"
               },
               "slug": {
                 "en": "divergent-order-value-between-marketplace-and-seller-while-using-price-override-and-promotions",
-                "es": "valor-de-pedido-divergente-entre-el-mercado-y-el-vendedor-al-utilizar-anulacion-de-precios-y-promociones",
-                "pt": "valor-divergente-do-pedido-entre-o-mercado-e-o-vendedor-enquanto-usa-a-substituicao-de-preco-e-promocoes"
+                "es": "valor-del-pedido-divergente-entre-el-mercado-y-el-vendedor-al-utilizar-la-anulacion-de-precios-y-las-promociones",
+                "pt": "valor-divergente-do-pedido-entre-o-marketplace-e-o-vendedor-ao-usar-substituicao-de-preco-e-promocoes"
               },
               "origin": "",
               "type": "markdown",

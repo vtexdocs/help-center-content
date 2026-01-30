@@ -3,7 +3,7 @@ title: 'Agregar o editar SKUs'
 id: 4ryZ6J45kwn3jDiQBxGiiN
 status: PUBLISHED
 createdAt: 2024-08-29T19:24:29.305Z
-updatedAt: 2026-01-16T22:21:13.931Z
+updatedAt: 2026-01-30T22:21:13.931Z
 publishedAt: 2025-07-28T22:21:13.931Z
 firstPublishedAt: 2024-08-29T19:28:11.129Z
 contentType: tutorial
@@ -36,7 +36,8 @@ Todo nuevo SKU debe vincularse a un producto. Para registrar un nuevo SKU despu�
     * [Logística](#logistica)
     * [Estrategia comercial](#estrategia-comercial)
     * [Personalizaciones](#personalizaciones)
-    * [Cross-sells y up-sells](#cross-sells-y-up-sells)
+    * [Recomendaciones de cross-sell y up-sell](#recomendaciones-de-cross-sell-y-up-sell)
+    * [Atributos](#atributos)
 
     > Los campos obligatorios están marcados con un asterisco (*).
 
@@ -118,14 +119,14 @@ El SKU puede tener hasta 6 videos y la **única forma de agregarlos es utilizand
 
 **Vimeo**
 
-- `https://vimeo.com/{VIDEO_ID}`
+* `https://vimeo.com/{VIDEO_ID}`
 
 **YouTube**
 
-- `https://youtu.be/{VIDEO_ID}`
-- `https://www.youtube.com/watch?v={VIDEO_ID}`
-- `https://www.youtube.com/embed/{VIDEO_ID}`
-- `https://www.youtube.com/v/{VIDEO_ID}`
+* `https://youtu.be/{VIDEO_ID}`
+* `https://www.youtube.com/watch?v={VIDEO_ID}`
+* `https://www.youtube.com/embed/{VIDEO_ID}`
+* `https://www.youtube.com/v/{VIDEO_ID}`
 
 > ⚠️ Sustituye `{VIDEO_ID}` con el ID del video que deseas mostrar.
 
@@ -143,7 +144,7 @@ Los campos del SKU relacionados con [logística](/es/tutorial/fulfillment-logist
 
 ### Modal (opcional)
 
-[Modal](/es/tutorial/como-funciona-o-modal--tutorials_125) es una configuración para transportadoras que realizan entregas especializadas, ya que algunos productos requieren condiciones de transportación especiales, tales como refrigeración o capacidad de transportar cargas químicas. 
+[Modal](/es/tutorial/como-funciona-o-modal--tutorials_125) es una configuración para transportadoras que realizan entregas especializadas, ya que algunos productos requieren condiciones de transportación especiales, tales como refrigeración o capacidad de transportar cargas químicas.
 
 Si se crearon opciones de modal para el SKU, se mostrarán en una lista desplegable que te permite escoger una sola opción. Para más información, consulta el artículo [Configurar modal para transportadoras](/es/tutorial/configurar-modal-para-transportadoras--3jhLqxuPhuiq24UoykCcqy).
 
@@ -189,38 +190,45 @@ Esta sección incluye campos relacionados con las estrategias de venta de la tie
 
 Puedes configurar los SKUs para ofrecer opciones personalizadas a los clientes. Por ejemplo, el cliente puede elegir agregar un nombre a una camiseta. Las personalizaciones pueden ser de dos tipos: [anexos](/es/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) o [servicios](/es/tutorial/o-que-e-um-servico).
 
-Para vincular una personalización al SKU, haz clic en el ícono de agregar +, selecciona una opción y completa los pasos correspondientes: 
+Para vincular una personalización al SKU, haz clic en el ícono de agregar +, selecciona una opción y completa los pasos correspondientes:
 
 * `Anexos`: al hacer clic en esta opción, se abre la ventana modal **Selecciona los anexos que deseas vincular**. Selecciona los anexos deseados y haz clic en `Aplicar`.
 * `Servicios`: al hacer clic en esta opción, se abre la ventana modal **Nuevo servicio**. Rellena los campos y activa el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i> **Activo**. Para guardar la información, haz clic en `Aplicar`.
 
 > ⚠️ Las opciones de anexos y servicios disponibles para el SKU deben configurarse previamente. Para más información, consulta los artículos [Registrar un anexo](/es/tutorial/cadastrar-um-anexo--7zHMUpuoQE4cAskqEUWScU) y [Crear servicio para un SKU](/es/tutorial/criar-servico-para-um-sku--tutorials_252).
 
-## Cross-sells y up-sells
+## Recomendaciones de cross-sell y up-sell
 
 Esta sección permite configurar opciones de [cross-selling](/es/tutorial/configurar-producto-similar-sugerencias-accesorios-y-genericos--tutorials_280#que-es-cross-selling) y/o [up-selling](/es/tutorial/configurar-producto-similar-sugerencias-accesorios-y-genericos--tutorials_280#que-es-up-selling) para el nuevo SKU que se reflejarán en la vitrina de la tienda y en la experiencia de navegación de los clientes.
 
-A continuación se describen los tipos de ítems que puedes asociar al SKU que estás registrando:
+Para configurar una opción de cross-sell o up-sell, sigue los pasos a continuación:
 
-* **Accesorios:** ítems sugeridos como opciones que complementan la venta.
-* **Sugerencias:** ítems que se muestran como sugerencias de compra.
-* **Productos similares:** ítems ofrecidos como alternativa o simplemente como un producto similar.
-* **Mostrar juntos:** ítems recomendados para comprar juntos.
+1. En la sección, **Recomendaciones de cross-sell y up-sell**, haz clic en el ícono adicionar `+`.
+2. Selecciona una opción de la siguiente lista:
 
-Para configurar alguna de estas opciones, sigue los pasos a continuación:
+    * **Accesorios:** ítems sugeridos como opciones que complementan la venta.
+    * **Sugerencias:** ítems que se muestran como sugerencias de compra.
+    * **Productos similares:** ítems ofrecidos como alternativa o simplemente como un producto similar.
+    * **Mostrar juntos:** ítems recomendados para comprar juntos.
 
-1. En la sección, **Cross-sells y up-sells**, haz clic en el ícono +.
-2. Haz clic en una de las opciones:
-
-    * Accesorios
-    * Sugerencias
-    * Productos similares
-    * Mostrar juntos
-
-3. En el campo de texto de la ventana modal que se abre, ingresa el ID de SKU del ítem deseado.
-4. Haz clic en `Aplicar`.
+3. Haz clic en `Agregar SKUs`
+4. Seleccione los SKUs que deseas agregar. Puedes usar la barra de búsqueda si lo deseas.
+5. Haz clic en `Aplicar`.
 
 > ℹ️ Para más información, consulta el artículo [Consultar producto similar, sugerencias, accesorios y genéricos](/es/tutorial/configurar-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280).
+
+## Atributos
+
+Esta sección permite configurar campos personalizados con valores específicos para cada SKU. Por ejemplo, en un lápiz labial (producto), cada una de los colores (SKUs) puede tener el campo ingredientes (atributo de SKU) con diferentes valores.
+
+Para configurar un atributo para el SKU, sigue los pasos a continuación:
+
+1. En la sección **Atributos**, haz clic en el ícono adicionar `+`.
+2. Rellena el campo **Nombre** con la identificación del atributo.
+3. (Opcional) Si deseas replicar el atributo para todos los SKUs, marca la casilla de selección **Aplicar a todos los SKUs**.
+4. Haz clic en `Crear`.
+
+> ℹ️ Los atributos del SKU no están vinculados a el árbol de categorías.
 
 ## Más información
 

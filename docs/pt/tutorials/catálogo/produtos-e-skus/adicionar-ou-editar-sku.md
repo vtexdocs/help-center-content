@@ -3,7 +3,7 @@ title: 'Adicionar ou editar SKU'
 id: 4ryZ6J45kwn3jDiQBxGiiN
 status: PUBLISHED
 createdAt: 2024-08-29T19:24:29.305Z
-updatedAt: 2026-01-16T22:21:13.931Z
+updatedAt: 2026-01-30T22:21:13.931Z
 publishedAt: 2025-07-28T22:21:13.931Z
 firstPublishedAt: 2024-08-29T19:28:11.129Z
 contentType: tutorial
@@ -36,7 +36,8 @@ Todo novo SKU criado precisa estar vinculado a um produto. Assim, uma vez que vo
     * [Logística](#logistica)
     * [Estratégia Comercial](#estrategia-comercial)
     * [Customizações](#customizacoes)
-    * [Vitrine](#vitrine)
+    * [Recomendações de cross-sell e up-sell](#recomendacoes-de-cross-sell-e-up-sell)
+    * [Atributos](#atributos)
 
     > Os campos de preenchimento obrigatório estão marcados com um asterisco (*).
 
@@ -58,8 +59,8 @@ Veja nas seções a seguir os campos do formulário e as orientações sobre com
 
 A parte inicial do formulário é sobre a nomeação e ativação do SKU:
 
-- **Nome*:** insira o nome do SKU, ou seja, a identificação da variação do produto. O nome é limitado a 200 caracteres. Exemplo: para o produto “Geladeira”, o nome do SKU pode ser “110 volts”.
-- **Ativo:** para ativar o SKU sendo criado, habilite o <i class="fas fa-toggle-on" aria-hidden="true"></i>. Para mantê-lo inativo, deixe o toggle desabilitado <i class="fas fa-toggle-off" aria-hidden="true"></i>. Se após ativar o SKU ele estiver indisponível para venda, consulte o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
+* **Nome*:** insira o nome do SKU, ou seja, a identificação da variação do produto. O nome é limitado a 200 caracteres. Exemplo: para o produto "Geladeira", o nome do SKU pode ser "110 volts".
+* **Ativo:** para ativar o SKU sendo criado, habilite o <i class="fas fa-toggle-on" aria-hidden="true"></i>. Para mantê-lo inativo, deixe o toggle desabilitado <i class="fas fa-toggle-off" aria-hidden="true"></i>. Se após ativar o SKU ele estiver indisponível para venda, consulte o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
 
 ## Especificações
 
@@ -94,7 +95,7 @@ A tabela abaixo apresenta os limites e formatos aceitos para cada imagem:
 
 > ℹ️ Para conhecer outras recomendações, confira o artigo [Boas práticas para o uso de imagens no Catálogo](/pt/tutorial/boas-praticas-para-o-uso-de-imagens-no-catalogo--738K2yfq5U86kUI2k4AQIk).
 
-Após realizar o upload de uma imagem, é possível editar os metadados, seguindo os passos abaixo: 
+Após realizar o upload de uma imagem, é possível editar os metadados, seguindo os passos abaixo:
 
 1. Passe o mouse sobre a imagem, de forma a visualizar os ícones existentes.
 2. Clique no ícone menu <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
@@ -118,14 +119,14 @@ O SKU pode ter até 6 vídeos e a **única forma de adicioná-los é por meio de
 
 **Vimeo**
 
-- `https://vimeo.com/{VIDEO_ID}`
+* `https://vimeo.com/{VIDEO_ID}`
 
 **Youtube**
 
-- `https://youtu.be/{VIDEO_ID}`
-- `https://www.youtube.com/watch?v={VIDEO_ID}`
-- `https://www.youtube.com/embed/{VIDEO_ID}`
-- `https://www.youtube.com/v/{VIDEO_ID}`
+* `https://youtu.be/{VIDEO_ID}`
+* `https://www.youtube.com/watch?v={VIDEO_ID}`
+* `https://www.youtube.com/embed/{VIDEO_ID}`
+* `https://www.youtube.com/v/{VIDEO_ID}`
 
 > ⚠️ Substitua `{VIDEO_ID}` de acordo com seu cenário.
 
@@ -143,7 +144,7 @@ Os campos do SKU sobre [logística](/pt/tutorial/fulfillment-logistica-vtex--53u
 
 ### Modal (opcional)
 
-[Modal](/pt/tutorial/como-funciona-o-modal--tutorials_125) é uma configuração da transportadora que realiza entregas especializadas. Isso porque alguns produtos exigem condições especiais para serem transportados, como refrigeração ou capacidade de portar carga química. 
+[Modal](/pt/tutorial/como-funciona-o-modal--tutorials_125) é uma configuração da transportadora que realiza entregas especializadas. Isso porque alguns produtos exigem condições especiais para serem transportados, como refrigeração ou capacidade de portar carga química.
 
 Quando foram criadas anteriormente, as opções de modais para o SKU são apresentadas como uma lista, na qual é possível escolher uma única opção. Para saber mais, veja o artigo [Configurar modal para transportadoras](/pt/tutorial/configurar-modal-para-transportadoras--3jhLqxuPhuiq24UoykCcqy).
 
@@ -152,7 +153,7 @@ Quando foram criadas anteriormente, as opções de modais para o SKU são aprese
 Os campos a seguir são utilizados para [calcular o fator cúbico de peso](/pt/tutorial/como-o-peso-cubado-e-calculado--tutorials_128) do SKU e são referentes ao pacote que será utilizado no transporte do SKU:
 
 * **Peso do pacote:** valor absoluto de peso.
-* **Largura do pacote: **valor absoluto de largura.
+* **Largura do pacote:** valor absoluto de largura.
 * **Altura do pacote:** valor absoluto de altura.
 * **Comprimento do pacote:** valor absoluto de comprimento.
 
@@ -196,31 +197,38 @@ Para vincular uma customização ao SKU, clique no ícone adicionar +, selecione
 
 > ⚠️ As opções de anexos e serviços disponíveis para o SKU precisam ter sido previamente configuradas. Para mais informações, veja os artigos [Cadastrar um anexo](/pt/tutorial/cadastrar-um-anexo--7zHMUpuoQE4cAskqEUWScU) e [Criar serviço para um SKU](/pt/tutorial/criar-servico-para-um-sku--tutorials_252).
 
-## Vitrine
+## Recomendações de cross-sell e up-sell
 
 Esta seção permite à loja configurar para o novo SKU opções de [cross selling](/pt/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280#o-que-e-cross-selling) e/ou [up selling](/pt/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280#o-que-e-up-selling), que serão refletidas na vitrine da loja e na experiência de navegação dos clientes.
 
-Veja a seguir quais tipos de relação outros itens podem ter com o SKU sendo cadastrado:
+Para configurar um opção de cross-sell ou up-sell, siga os passos abaixo:
 
-* **Acessórios:** itens sugeridos como opções complementares para a venda.
-* **Sugestões:** itens apresentados como sugestões de compra.
-* **Produtos similares:** itens ofertados como uma alternativa de compra ou simplesmente algo similar.
-* **Mostrar junto:** itens sugeridos para serem adquiridos conjuntamente.
+1. Na seção **Recomendações de cross-sell e up-sell**, clique no ícone adicionar `+`.
+2. Selecione uma das seguintes opções:
 
-Para configurar alguma das opções acima, siga os passos abaixo:
+    * **Acessórios:** itens sugeridos como opções complementares para a venda.
+    * **Sugestões:** itens apresentados como sugestões de compra.
+    * **Produtos similares:** itens ofertados como uma alternativa de compra ou simplesmente algo similar.
+    * **Mostrar junto:** itens sugeridos para serem adquiridos conjuntamente.
 
-1. Na seção **Vitrine**, clique no ícone adicionar +.
-2. Clique em uma das opções apresentadas:
+3. Clique `Adicionar SKUs`
+4. Selecione os SKUs desejados. Você pode usar a barra de busca se desejar.
+5. Clique em `Aplicar`.
 
-    * Acessórios
-    * Sugestões
-    * Produtos similares
-    * Mostrar junto
+> ℹ️ Para mais informações, veja o artigo [Configurar produto similar, sugestões, acessórios e genéricos](/pt/tutorial/configurar-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280).
 
-3. No campo de texto do modal aberto, digite ID do SKU do item desejado.
-4. Clique em `Aplicar`.
+## Atributos
 
-> ℹ️ Para mais informações, veja o artigo [ Configurar produto similar, sugestões, acessórios e genéricos](/pt/tutorial/configurar-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280).
+Esta seção permite configurar campos customizáveis com valores específicos para cada SKU. Por exemplo, em um batom (produto), cada uma das cores (SKUs) pode ter o campo ingredientes (atributo de SKU) com valores diferentes.
+
+Para configurar um atributo para o SKU, siga os passos abaixo:
+
+1. Na seção **Atributos**, clique no ícone adicionar `+`
+2. Preencha o campo **Nome** com a identificação do atributo.
+3. (Opcional) Se quiser replicar o atributo para os outros SKUs, marque a caixa de seleção **Aplicar a todos os SKUs**.
+4. Clique em `Criar`.
+
+> ℹ️ Os atributos do SKU não possuem vínculo com a árvore de categorias.
 
 ## Saiba mais
 
