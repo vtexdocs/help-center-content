@@ -3,7 +3,7 @@ title: 'How to assemble an Outfit'
 id: tutorials_266
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:08.863Z
-updatedAt: 2025-09-16T14:45:58.909Z
+updatedAt: 2026-01-30T14:45:58.909Z
 publishedAt: 2025-09-16T14:45:58.909Z
 firstPublishedAt: 2017-04-27T23:03:12.436Z
 contentType: tutorial
@@ -21,11 +21,12 @@ Learn how to set up an Outfit (previously called Kit Look) in VTEX.
 
 Before talking about the Outfit, it is important to remind you that you should know how to create a bundle (previously called kit). To do so, access the article [Bundle registration](/en/tutorial/bundle-registration--tutorials_215).
 
-Differences between bundle and Outfit:
+The following table describes the characteristics and scenarios for using a bundle or an outfit:
 
-**Bundle:** In a bundle, the component products may only be sold in the bundle, they cannot be sold separately. This means that in the event the product “Shirt” is in the “Beach” bundle, even searching for the product Shirt on the website, it will not be sold outside the bundle – with the other components.
-
-**Outfit:** In an Outfit, all component products may be found on the website and sold outside the bundle, i.e., even on the page of the Outfit product, it is possible to buy the items either separately or all together. See our customization documentation for the Outfit.
+| **Type** | **Definition** | **Example** |
+| :---: | :--- | :--- |
+| [Bundle](/en/tutorial/what-is-a-bundle--5ov5s3eHM4AqAAgqWwoc28) | <ul><li>The components form a set that can't be divided, and customers can't pick individual items from it.</li><li>The store may or may not offer individual components separately.</li></ul> | A men's fashion store offers a "Father's Day" bundle that includes a pair of shoes, a pair of socks, and a keychain. The customer isn't interested in the keychain, but likes the shoes and the socks, so they buy the bundle because items aren't sold separately. |
+| Outfit | <ul><li>The components are a buy-together suggestion and customers can pick and choose whatever items they want to buy from the outfit. Usually known as "Shop the Look".</li><li>The store always offers individual components separately.</li></ul> | A women's fashion store offers a "Summer" outfit that includes a bikini, a cover-up, and sandals. The customer doesn't like the sandals and only buys the bikini and the cover-up. |
 
 ### What is the Outfit?
 

@@ -3,7 +3,7 @@ title: 'Montar un Kit de look'
 id: tutorials_266
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:08.863Z
-updatedAt: 2025-09-16T14:45:58.909Z
+updatedAt: 2026-01-30T14:45:58.909Z
 publishedAt: 2025-09-16T14:45:58.909Z
 firstPublishedAt: 2017-04-27T23:03:12.436Z
 contentType: tutorial
@@ -21,11 +21,12 @@ Aprenda cómo configurar en VTEX un kit de look o Lookbook.
 
 Antes de hablar sobre el Kit de look es importante recordarle que debe crear un Kit. Para eso, acceda al artículo [Registrar kit](/es/tutorial/cadastrando-kit/).
 
-Las diferencias entre el KIT y el KIT DE LOOK:
+La siguiente tabla presenta las características y contextos para el uso de kit o kit de look:
 
-**KIT:** En un kit, los productos componentes sólo se pueden vender en el kit, o sea, no se pueden vender por separado. Esto significa que si el producto “Blusa” está en el kit “Praia”, aunque se busque el producto Blusa en el sitio, éste no se podrá vender fuera del kit – con sus demás componentes.
-
-**KIT DE LOOK:** En un kit de look, todos los productos componentes se pueden encontrar en el sitio y se pueden vender fuera del kit, o sea, incluso en la página de producto del kit de look se pueden comprar los productos por separado, o todos juntos. Vea nuestra documentación de personalización del kit de look.
+| **Tipo** | **Definición** | **Ejemplo** |
+| :---: | :--- | :--- |
+| [Kit](/es/tutorial/que-es-un-kit--5ov5s3eHM4AqAAgqWwoc28) | <ul><li>Los componentes forman un conjunto que no se puede dividir, de modo que el cliente no puede comprar los ítems por separado.</li><li>La tienda puede decidir si ofrece los componentes para compra individual o no.</li></ul> | Una tienda de moda masculina ofrece el kit "Día del Padre", compuesto por un par de zapatos, medias y un llavero. Al cliente no le interesa el llavero, pero le gustaron los zapatos y las medias, por lo que acepta llevarse el kit completo, ya que no es posible comprar ítems individuales. |
+| Kit de look | <ul><li>Los componentes funcionan como una sugerencia de compra conjunta, y el cliente puede elegir los ítems del kit de look que desea adquirir. Normalmente conocido como "Shop the Look".</li><li>La tienda ofrece todos los componentes para compra individual.</li></ul> | Una tienda de moda femenina ofrece la venta del kit de look "Verano", formado por un bikini, una salida de playa y unas sandalias. A la cliente no le gustaron las sandalias y compra solo el bikini y la salida de playa. |
 
 ### ¿Qué es el Kit de look?
 
