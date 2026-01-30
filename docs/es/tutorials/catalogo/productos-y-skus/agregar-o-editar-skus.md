@@ -119,14 +119,14 @@ El SKU puede tener hasta 6 videos y la **única forma de agregarlos es utilizand
 
 **Vimeo**
 
-- `https://vimeo.com/{VIDEO_ID}`
+* `https://vimeo.com/{VIDEO_ID}`
 
 **YouTube**
 
-- `https://youtu.be/{VIDEO_ID}`
-- `https://www.youtube.com/watch?v={VIDEO_ID}`
-- `https://www.youtube.com/embed/{VIDEO_ID}`
-- `https://www.youtube.com/v/{VIDEO_ID}`
+* `https://youtu.be/{VIDEO_ID}`
+* `https://www.youtube.com/watch?v={VIDEO_ID}`
+* `https://www.youtube.com/embed/{VIDEO_ID}`
+* `https://www.youtube.com/v/{VIDEO_ID}`
 
 > ⚠️ Sustituye `{VIDEO_ID}` con el ID del video que deseas mostrar.
 
@@ -144,7 +144,7 @@ Los campos del SKU relacionados con [logística](/es/tutorial/fulfillment-logist
 
 ### Modal (opcional)
 
-[Modal](/es/tutorial/como-funciona-o-modal--tutorials_125) es una configuración para transportadoras que realizan entregas especializadas, ya que algunos productos requieren condiciones de transportación especiales, tales como refrigeración o capacidad de transportar cargas químicas. 
+[Modal](/es/tutorial/como-funciona-o-modal--tutorials_125) es una configuración para transportadoras que realizan entregas especializadas, ya que algunos productos requieren condiciones de transportación especiales, tales como refrigeración o capacidad de transportar cargas químicas.
 
 Si se crearon opciones de modal para el SKU, se mostrarán en una lista desplegable que te permite escoger una sola opción. Para más información, consulta el artículo [Configurar modal para transportadoras](/es/tutorial/configurar-modal-para-transportadoras--3jhLqxuPhuiq24UoykCcqy).
 
@@ -190,7 +190,7 @@ Esta sección incluye campos relacionados con las estrategias de venta de la tie
 
 Puedes configurar los SKUs para ofrecer opciones personalizadas a los clientes. Por ejemplo, el cliente puede elegir agregar un nombre a una camiseta. Las personalizaciones pueden ser de dos tipos: [anexos](/es/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) o [servicios](/es/tutorial/o-que-e-um-servico).
 
-Para vincular una personalización al SKU, haz clic en el ícono de agregar +, selecciona una opción y completa los pasos correspondientes: 
+Para vincular una personalización al SKU, haz clic en el ícono de agregar +, selecciona una opción y completa los pasos correspondientes:
 
 * `Anexos`: al hacer clic en esta opción, se abre la ventana modal **Selecciona los anexos que deseas vincular**. Selecciona los anexos deseados y haz clic en `Aplicar`.
 * `Servicios`: al hacer clic en esta opción, se abre la ventana modal **Nuevo servicio**. Rellena los campos y activa el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i> **Activo**. Para guardar la información, haz clic en `Aplicar`.
