@@ -17849,12 +17849,12 @@
                   "name": {
                     "en": "Delivery Options (Beta)",
                     "es": "Opciones de envío (Beta)",
-                    "pt": "Opções de envio (Beta)"
+                    "pt": "Delivery Options (Beta)"
                   },
                   "slug": {
                     "en": "delivery-options-beta",
                     "es": "opciones-de-envio-beta",
-                    "pt": "opcoes-de-envio-beta"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -39752,6 +39752,21 @@
             },
             {
               "name": {
+                "en": "Non-responsive B2B components cause layout and usability issues on mobile",
+                "es": "Los componentes B2B que no responden causan problemas de diseño y usabilidad en dispositivos móviles.",
+                "pt": "Componentes B2B não responsivos causam problemas de layout e usabilidade em dispositivos móveis"
+              },
+              "slug": {
+                "en": "nonresponsive-b2b-components-cause-layout-and-usability-issues-on-mobile",
+                "es": "los-componentes-b2b-que-no-responden-causan-problemas-de-diseno-y-usabilidad-en-dispositivos-moviles",
+                "pt": "componentes-b2b-nao-responsivos-causam-problemas-de-layout-e-usabilidade-em-dispositivos-moveis"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order Again from B2B Orders History doesn't work",
                 "es": "Volver a pedir desde el historial de pedidos B2B no funciona",
                 "pt": "O pedido novamente do histórico de pedidos B2B não funciona"
@@ -43009,13 +43024,13 @@
             {
               "name": {
                 "en": "Reorder Collection Failing for Large Collections",
-                "es": "Fallo en la reordenación de colecciones grandes",
-                "pt": "Falha na reordenação de coleções para coleções grandes"
+                "es": "Error al reordenar colecciones grandes",
+                "pt": "Falha na reordenação de coleções grandes"
               },
               "slug": {
                 "en": "reorder-collection-failing-for-large-collections",
-                "es": "fallo-en-la-reordenacion-de-colecciones-grandes",
-                "pt": "falha-na-reordenacao-de-colecoes-para-colecoes-grandes"
+                "es": "error-al-reordenar-colecciones-grandes",
+                "pt": "falha-na-reordenacao-de-colecoes-grandes"
               },
               "origin": "",
               "type": "markdown",
