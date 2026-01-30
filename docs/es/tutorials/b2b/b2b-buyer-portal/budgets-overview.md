@@ -4,6 +4,8 @@ La gestión de presupuestos permite a las organizaciones B2B planificar, distrib
 
 Un presupuesto puede dividirse en varias asignaciones, y cada movimiento de valores, como débitos, créditos o reembolsos, actualiza los saldos de acuerdo con sus reglas. Esta funcionalidad está diseñada para manejar flujos en los que se crean presupuestos y asignaciones, los saldos se consumen por transacciones o reservas temporales y, posteriormente, los estados de cuenta se utilizan para conciliar la actividad financiera a lo largo del tiempo.
 
+>⚠️ La funcionalidad de Presupuestos solo está disponible para B2B Buyer Portal. Se requiere autorización del Commerce Engineer de la cuenta para su uso.
+
 ## Conceptos clave
 
 ### Presupuesto

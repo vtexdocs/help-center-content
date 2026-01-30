@@ -1,8 +1,20 @@
+---
+title: 'Visão geral de Budgets'
+createdAt: '2025-01-30T10:00:00.000Z'
+updatedAt: '2025-01-30T10:00:00.000Z'
+contentType: tutorial
+productTeam: B2B
+slugEN: budgets-overview
+locale: pt
+---
+
 # Visão geral de Budgets
 
 O gerenciamento de orçamentos permite que organizações B2B planejem, distribuam e acompanhem seus gastos de forma estruturada. A funcionalidade oferece operações para criar e gerenciar budgets e allocations, registrar movimentações financeiras como transactions ou reservations e acompanhar toda a atividade por meio de statements, garantindo transparência, rastreabilidade e controle sobre os gastos dos compradores.
 
 Um budget pode ser subdividido em múltiplas allocations, e toda movimentação de valores como débitos, créditos e reembolsos, atualiza esses saldos de acordo com suas regras. A funcionalidade foi projetada para suportar fluxos nos quais budgets e allocations são criados, os saldos são consumidos por transactions ou reservations temporárias e, posteriormente, os statements são utilizados para reconciliar a atividade financeira ao longo do tempo.
+
+>⚠️ A funcionalidade de Budgets está disponível apenas para B2B Buyer Portal. É necessária autorização do Commerce Engineer da conta para uso.
 
 ## Conceitos-chave
 
