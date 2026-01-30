@@ -17849,12 +17849,12 @@
                   "name": {
                     "en": "Delivery Options (Beta)",
                     "es": "Opciones de envío (Beta)",
-                    "pt": "Delivery Options (Beta)"
+                    "pt": "Opções de envio (Beta)"
                   },
                   "slug": {
                     "en": "delivery-options-beta",
                     "es": "opciones-de-envio-beta",
-                    "pt": ""
+                    "pt": "opcoes-de-envio-beta"
                   },
                   "origin": "",
                   "type": "markdown",
