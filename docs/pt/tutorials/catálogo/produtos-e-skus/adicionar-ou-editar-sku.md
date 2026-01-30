@@ -59,8 +59,8 @@ Veja nas seções a seguir os campos do formulário e as orientações sobre com
 
 A parte inicial do formulário é sobre a nomeação e ativação do SKU:
 
-- **Nome*:** insira o nome do SKU, ou seja, a identificação da variação do produto. O nome é limitado a 200 caracteres. Exemplo: para o produto “Geladeira”, o nome do SKU pode ser “110 volts”.
-- **Ativo:** para ativar o SKU sendo criado, habilite o <i class="fas fa-toggle-on" aria-hidden="true"></i>. Para mantê-lo inativo, deixe o toggle desabilitado <i class="fas fa-toggle-off" aria-hidden="true"></i>. Se após ativar o SKU ele estiver indisponível para venda, consulte o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
+* **Nome*:** insira o nome do SKU, ou seja, a identificação da variação do produto. O nome é limitado a 200 caracteres. Exemplo: para o produto "Geladeira", o nome do SKU pode ser "110 volts".
+* **Ativo:** para ativar o SKU sendo criado, habilite o <i class="fas fa-toggle-on" aria-hidden="true"></i>. Para mantê-lo inativo, deixe o toggle desabilitado <i class="fas fa-toggle-off" aria-hidden="true"></i>. Se após ativar o SKU ele estiver indisponível para venda, consulte o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
 
 ## Especificações
 
@@ -95,7 +95,7 @@ A tabela abaixo apresenta os limites e formatos aceitos para cada imagem:
 
 > ℹ️ Para conhecer outras recomendações, confira o artigo [Boas práticas para o uso de imagens no Catálogo](/pt/tutorial/boas-praticas-para-o-uso-de-imagens-no-catalogo--738K2yfq5U86kUI2k4AQIk).
 
-Após realizar o upload de uma imagem, é possível editar os metadados, seguindo os passos abaixo: 
+Após realizar o upload de uma imagem, é possível editar os metadados, seguindo os passos abaixo:
 
 1. Passe o mouse sobre a imagem, de forma a visualizar os ícones existentes.
 2. Clique no ícone menu <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
@@ -119,14 +119,14 @@ O SKU pode ter até 6 vídeos e a **única forma de adicioná-los é por meio de
 
 **Vimeo**
 
-- `https://vimeo.com/{VIDEO_ID}`
+* `https://vimeo.com/{VIDEO_ID}`
 
 **Youtube**
 
-- `https://youtu.be/{VIDEO_ID}`
-- `https://www.youtube.com/watch?v={VIDEO_ID}`
-- `https://www.youtube.com/embed/{VIDEO_ID}`
-- `https://www.youtube.com/v/{VIDEO_ID}`
+* `https://youtu.be/{VIDEO_ID}`
+* `https://www.youtube.com/watch?v={VIDEO_ID}`
+* `https://www.youtube.com/embed/{VIDEO_ID}`
+* `https://www.youtube.com/v/{VIDEO_ID}`
 
 > ⚠️ Substitua `{VIDEO_ID}` de acordo com seu cenário.
 
@@ -144,7 +144,7 @@ Os campos do SKU sobre [logística](/pt/tutorial/fulfillment-logistica-vtex--53u
 
 ### Modal (opcional)
 
-[Modal](/pt/tutorial/como-funciona-o-modal--tutorials_125) é uma configuração da transportadora que realiza entregas especializadas. Isso porque alguns produtos exigem condições especiais para serem transportados, como refrigeração ou capacidade de portar carga química. 
+[Modal](/pt/tutorial/como-funciona-o-modal--tutorials_125) é uma configuração da transportadora que realiza entregas especializadas. Isso porque alguns produtos exigem condições especiais para serem transportados, como refrigeração ou capacidade de portar carga química.
 
 Quando foram criadas anteriormente, as opções de modais para o SKU são apresentadas como uma lista, na qual é possível escolher uma única opção. Para saber mais, veja o artigo [Configurar modal para transportadoras](/pt/tutorial/configurar-modal-para-transportadoras--3jhLqxuPhuiq24UoykCcqy).
 
@@ -153,7 +153,7 @@ Quando foram criadas anteriormente, as opções de modais para o SKU são aprese
 Os campos a seguir são utilizados para [calcular o fator cúbico de peso](/pt/tutorial/como-o-peso-cubado-e-calculado--tutorials_128) do SKU e são referentes ao pacote que será utilizado no transporte do SKU:
 
 * **Peso do pacote:** valor absoluto de peso.
-* **Largura do pacote: **valor absoluto de largura.
+* **Largura do pacote:** valor absoluto de largura.
 * **Altura do pacote:** valor absoluto de altura.
 * **Comprimento do pacote:** valor absoluto de comprimento.
 

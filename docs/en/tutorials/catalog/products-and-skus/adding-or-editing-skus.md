@@ -95,7 +95,7 @@ The table below shows the size limits and formats accepted for each image:
 
 > ℹ️ For more recommendations, check the article [Best practices for using images in the Catalog](/en/tutorial/best-practices-for-using-images-in-the-catalog--738K2yfq5U86kUI2k4AQIk).
 
-After uploading an image, you can edit its metadata by following the steps below: 
+After uploading an image, you can edit its metadata by following the steps below:
 
 1. Hover over the image to view the existing icons.
 2. Click the menu icon <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
@@ -119,14 +119,14 @@ A SKU can have up to 6 videos, and you can only add them using links from either
 
 **Vimeo**
 
-- `https://vimeo.com/{VIDEO_ID}`
+* `https://vimeo.com/{VIDEO_ID}`
 
 **YouTube**
 
-- `https://youtu.be/{VIDEO_ID}`
-- `https://www.youtube.com/watch?v={VIDEO_ID}`
-- `https://www.youtube.com/embed/{VIDEO_ID}`
-- `https://www.youtube.com/v/{VIDEO_ID}`
+* `https://youtu.be/{VIDEO_ID}`
+* `https://www.youtube.com/watch?v={VIDEO_ID}`
+* `https://www.youtube.com/embed/{VIDEO_ID}`
+* `https://www.youtube.com/v/{VIDEO_ID}`
 
 > ⚠️ Replace `{VIDEO_ID}` with the ID of the video you want to display.
 
@@ -144,7 +144,7 @@ These are the SKU fields related to [logistics](/en/tutorial/fulfillment-logisti
 
 ## Modal (optional)
 
-[Modal](/en/tutorial/como-funciona-o-modal--tutorials_125) is a carrier configuration for specialized deliveries, as some products require special transport conditions, such as refrigeration or the ability to carry chemical cargo. 
+[Modal](/en/tutorial/como-funciona-o-modal--tutorials_125) is a carrier configuration for specialized deliveries, as some products require special transport conditions, such as refrigeration or the ability to carry chemical cargo.
 
 When previously created, modal options for the SKU will be displayed in a list, allowing you to select a single option. To learn more, see the article [Setting up modal for carriers](/en/tutorial/configurar-modal-para-transportadoras--3jhLqxuPhuiq24UoykCcqy).
 
@@ -199,7 +199,7 @@ To link a customization to a SKU, click the add + icon, select the desired optio
 
 ## Cross-sell and up-sell recommendations
 
-This section allows the store to configure [cross-selling](/en/tutorial/setting-up-a-similar-product-suggestions-accessories-and-generics--tutorials_280#what-is-cross-selling) and [up-selling](/en/tutorial/setting-up-a-similar-product-suggestions-accessories-and-generics--tutorials_280#what-is-up-selling) options for the new SKU, reflecting them on the storefront and in the customer browsing experience. 
+This section allows the store to configure [cross-selling](/en/tutorial/setting-up-a-similar-product-suggestions-accessories-and-generics--tutorials_280#what-is-cross-selling) and [up-selling](/en/tutorial/setting-up-a-similar-product-suggestions-accessories-and-generics--tutorials_280#what-is-up-selling) options for the new SKU, reflecting them on the storefront and in the customer browsing experience.
 
 To configure cross-sell and up-sell options, follow the steps below:
 
@@ -236,4 +236,3 @@ To configure an attribute for the SKU, follow the steps below:
 * [Adding or editing products](/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8)
 * [Catalog: Overview](/en/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe)
 * [Catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ) (track)
-
