@@ -16969,12 +16969,43 @@
           },
           "slug": {
             "en": "b2b-category",
-            "es": "b2b-categoria",
+            "es": "b2b",
             "pt": "b2b-categoria"
           },
           "origin": "",
           "type": "category",
           "children": [
+            {
+              "name": {
+                "en": "B2B Buyer Portal",
+                "es": "B2B Buyer Portal",
+                "pt": "B2B Buyer Portal"
+              },
+              "slug": {
+                "en": "b2b-buyer-portal-subcategory",
+                "es": "b2b-buyer-portal",
+                "pt": "b2b-buyer-portal-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Budgets overview",
+                    "pt": "Visão geral de Budgets",
+                    "es": "Budgets overview"
+                  },
+                  "slug": {
+                    "en": "budgets-overview",
+                    "pt": "budgets-overview",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
             {
               "name": {
                 "en": "B2B Suite",
