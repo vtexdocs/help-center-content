@@ -7,7 +7,7 @@ publishedAt: 2025-12-23T12:00:00.000Z
 contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
-slugEN: granular-permissions-seller-marketplace-network
+slugEN: 2025-12-23-granular-permissions-seller-marketplace-network
 locale: en
 legacySlug: 
 announcementImageID: 
