@@ -39752,6 +39752,21 @@
             },
             {
               "name": {
+                "en": "Non-responsive B2B components cause layout and usability issues on mobile",
+                "es": "Los componentes B2B que no responden causan problemas de diseño y usabilidad en dispositivos móviles.",
+                "pt": "Componentes B2B não responsivos causam problemas de layout e usabilidade em dispositivos móveis"
+              },
+              "slug": {
+                "en": "nonresponsive-b2b-components-cause-layout-and-usability-issues-on-mobile",
+                "es": "los-componentes-b2b-que-no-responden-causan-problemas-de-diseno-y-usabilidad-en-dispositivos-moviles",
+                "pt": "componentes-b2b-nao-responsivos-causam-problemas-de-layout-e-usabilidade-em-dispositivos-moveis"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order Again from B2B Orders History doesn't work",
                 "es": "Volver a pedir desde el historial de pedidos B2B no funciona",
                 "pt": "O pedido novamente do histórico de pedidos B2B não funciona"
@@ -43009,13 +43024,13 @@
             {
               "name": {
                 "en": "Reorder Collection Failing for Large Collections",
-                "es": "Fallo en la reordenación de colecciones grandes",
-                "pt": "Falha na reordenação de coleções para coleções grandes"
+                "es": "Error al reordenar colecciones grandes",
+                "pt": "Falha na reordenação de coleções grandes"
               },
               "slug": {
                 "en": "reorder-collection-failing-for-large-collections",
-                "es": "fallo-en-la-reordenacion-de-colecciones-grandes",
-                "pt": "falha-na-reordenacao-de-colecoes-para-colecoes-grandes"
+                "es": "error-al-reordenar-colecciones-grandes",
+                "pt": "falha-na-reordenacao-de-colecoes-grandes"
               },
               "origin": "",
               "type": "markdown",
@@ -45426,13 +45441,13 @@
             {
               "name": {
                 "en": "Divergent order value between marketplace and seller while using price override and promotions",
-                "es": "Valor de pedido divergente entre el mercado y el vendedor al utilizar anulación de precios y promociones",
-                "pt": "Valor divergente do pedido entre o mercado e o vendedor enquanto usa a substituição de preço e promoções"
+                "es": "Valor del pedido divergente entre el mercado y el vendedor al utilizar la anulación de precios y las promociones.",
+                "pt": "Valor divergente do pedido entre o marketplace e o vendedor ao usar substituição de preço e promoções"
               },
               "slug": {
                 "en": "divergent-order-value-between-marketplace-and-seller-while-using-price-override-and-promotions",
-                "es": "valor-de-pedido-divergente-entre-el-mercado-y-el-vendedor-al-utilizar-anulacion-de-precios-y-promociones",
-                "pt": "valor-divergente-do-pedido-entre-o-mercado-e-o-vendedor-enquanto-usa-a-substituicao-de-preco-e-promocoes"
+                "es": "valor-del-pedido-divergente-entre-el-mercado-y-el-vendedor-al-utilizar-la-anulacion-de-precios-y-las-promociones",
+                "pt": "valor-divergente-do-pedido-entre-o-marketplace-e-o-vendedor-ao-usar-substituicao-de-preco-e-promocoes"
               },
               "origin": "",
               "type": "markdown",
