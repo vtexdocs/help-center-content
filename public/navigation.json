@@ -24791,13 +24791,13 @@
                 {
                   "name": {
                     "en": "Merchandising rule conditions",
-                    "es": "Merchandising rule conditions",
-                    "pt": "Merchandising rule conditions"
+                    "es": "Condiciones de las reglas de merchandising",
+                    "pt": "Condições de Regras de merchandising"
                   },
                   "slug": {
                     "en": "merchandising-rule-conditions",
-                    "es": "",
-                    "pt": ""
+                    "es": "condiciones-de-las-reglas-de-merchandising",
+                    "pt": "condicoes-de-regras-de-merchandising"
                   },
                   "origin": "",
                   "type": "markdown",
