@@ -15,11 +15,11 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento Mercado Pago. Por meio deste conector, sua loja pode oferecer transações de pagamento em lojas físicas (VTEX Sales App), utilizando pontos de vendas (POS). Para mais informações, acesse [O que é o VTEX Sales App?](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes).
+Na VTEX, é possível realizar a integração com o provedor de pagamento Mercado Pago. Por meio deste conector, sua loja pode oferecer transações de pagamento em lojas físicas com o **VTEX Sales App**, utilizando pontos de vendas (POS). Para mais informações, acesse [O que é o VTEX Sales App?](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes).
 
-> ℹ️ Para utilizar o provedor MercadoPagoV2 em sua loja por outros canais de venda online (exceto VTEX Sales App), acesse [Configurar pagamento com MercadoPagoV2](/pt/tutorial/configurar-o-subadquirente-mercadopagov2--1y6k8lCSzJYfPs2yObNFo4).
+> ℹ️ Para utilizar o provedor MercadoPagoV2 em sua loja por outros canais de venda online (exceto **VTEX Sales App**), acesse [Configurar pagamento com MercadoPagoV2](https://help.vtex.com/pt/docs/tutorials/configurar-o-subadquirente-mercadopagov2).
 
-Para utilizar o provedor MercadoPagoV2 no VTEX Sales App, é necessário:
+Para utilizar o provedor MercadoPagoV2 no **VTEX Sales App**, é necessário:
 
 - [Configurar chaves no ambiente Mercado Pago](#configurar-chaves-no-ambiente-mercado-pago)
 - [Configurar conector MercadoPagoV2 (VTEX Sales App) na VTEX](#configurar-conector-mercadopagov2-vtex-sales-app-na-vtex)
@@ -36,7 +36,7 @@ Os passos a seguir descrevem as configurações mínimas a serem realizadas para
 
     > ⚠️ O portal do desenvolvedor Mercado Pago permite que o usuário obtenha informações de todas as chaves necessárias pra configurar a conexão entre a VTEX e o Mercado Pago. Recomendamos que o procedimento abaixo seja realizado por um usuário que já possua acesso às demais chaves de sua conta no Mercado Pago.
 
-2. Após realizar o login, acesse a [documentação de credenciais](https://www.mercadopago.com.br/developers/pt/docs/vtex/additional-content/your-integrations/credentials) do Mercado Pago para verificar como obter o **Public Key** e **Access Token** que serão utilizados na configuração do MercadoPagoV2 na VTEX. 
+2. Após realizar o login, acesse a [documentação de credenciais](https://www.mercadopago.com.br/developers/pt/docs/vtex/additional-content/your-integrations/credentials) do Mercado Pago para verificar como obter o **Public Key** e **Access Token** que serão utilizados na configuração do MercadoPagoV2 na VTEX.
 
 ## Configurar conector MercadoPagoV2 (VTEX Sales App) na VTEX
 
@@ -81,7 +81,7 @@ Os passos a seguir descrevem as configurações mínimas a serem realizadas para
 4. Em **Processar com o provedor**, selecione a opção **MercadoPagoV2**.
 5. Ative a condição no campo **Status**.
 6. Se desejar utilizar um sistema antifraude, selecione a opção **Usar solução antifraude**.
-7. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condiciones-especiales--tutorials_456).
+7. Se desejar, você também pode [configurar condições especiais de pagamento](https://help.vtex.com/pt/docs/tutorials/condicoes-especiais).
 8. Clique em `Salvar`.
 
-Depois de seguir os passos indicados, o provedor MercadoPagoV2 pode demorar até 10 minutos para aparecer como opção de pagamento no VTEX Sales App de sua loja.
+Depois de seguir os passos indicados, o provedor MercadoPagoV2 pode demorar até 10 minutos para aparecer como opção de pagamento no **VTEX Sales App** de sua loja.

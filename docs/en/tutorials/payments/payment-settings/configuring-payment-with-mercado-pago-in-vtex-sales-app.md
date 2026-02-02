@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the payment provider Mercado Pago. Through this connector, your store can offer payment transactions in physical stores (VTEX Sales App), using points of sale (POS). For more information access [What is VTEX Sales App?](https://help.vtex.com/docs/tracks/vtex-sales-app-getting-started-and-setting-up).
+At VTEX, it is possible to integrate with the payment provider Mercado Pago. Through this connector, your store can offer payment transactions in physical stores via **VTEX Sales App**, using points of sale (POS). For more information access [What is VTEX Sales App?](https://help.vtex.com/docs/tracks/vtex-sales-app-getting-started-and-setting-up).
 
-> ℹ️ To use the MercadoPagoV2 provider in your store through other online sales channels (except VTEX Sales App), visit [Setting up payments with MercadoPagoV2](/en/tutorial/setting-up-mercadopagov2-sub-acquirer--1y6k8lCSzJYfPs2yObNFo4).
+> ℹ️ To use the MercadoPagoV2 provider in your store through other online sales channels (except **VTEX Sales App**), visit [Setting up payments with MercadoPagoV2](/en/tutorial/setting-up-mercadopagov2-sub-acquirer--1y6k8lCSzJYfPs2yObNFo4).
 
 To use the MercadoPagoV2 provider in the VTEX Sales App, you need to:
 
@@ -36,7 +36,7 @@ The following steps describe the minimum configurations to be carried out so tha
 
     > ⚠️ The Mercado Pago developer portal allows the user to obtain information on all the keys necessary to configure the connection between VTEX and Mercado Pago. We recommend that the procedure below be carried out by a user who already has access to the other keys to their Mercado Pago account.
 
-2. After logging in, access the Mercado Pago [credentials documentation](https://www.mercadopago.com.br/developers/en/docs/vtex/additional-content/your-integrations/credentials) to check how to obtain the **Public Key** and **Access Token** that will be used to configure MercadoPagoV2 on VTEX. 
+2. After logging in, access the Mercado Pago [credentials documentation](https://www.mercadopago.com.br/developers/en/docs/vtex/additional-content/your-integrations/credentials) to check how to obtain the **Public Key** and **Access Token** that will be used to configure MercadoPagoV2 on VTEX.
 
 ## Configure MercadoPagoV2 connector (VTEX Sales App) on VTEX
 
@@ -81,7 +81,7 @@ The following steps describe the minimum configurations to be carried out so tha
 4. Under **Process with provider**, select the previously configured connector.
 5. Activate the condition in the **Status** field.
 6. If you want to use an anti-fraud system, select the option **Use anti-fraud solution**.
-7. If you want, you can also [configure special payment conditions](/en/tutorial/special-conditions--tutorials_456).
+7. If you want, you can also [configure special payment conditions](https://help.vtex.com/docs/tutorials/special-conditions).
 8. Click `Save`.
 
-After completing these steps, the MercadoPagoV2 provider may take up to 10 minutes to appear as a payment option in your store's VTEX Sales App.
+After completing these steps, the MercadoPagoV2 provider may take up to 10 minutes to appear as a payment option in your store's **VTEX Sales App**.

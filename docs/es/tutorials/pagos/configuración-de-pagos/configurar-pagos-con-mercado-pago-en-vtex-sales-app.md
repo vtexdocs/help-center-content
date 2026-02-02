@@ -15,11 +15,11 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX, es posible integrarse con el proveedor de pago MercadoPagoV2. A través de este conector, su tienda puede ofrecer transacciones de pago en tiendas físicas (VTEX Sales App), utilizando puntos de venta (POS). Para más información acceda [¿Qué es VTEX Sales App?](https://help.vtex.com/es/docs/tracks/vtex-sales-app-primeros-pasos-y-configuracion).
+En VTEX, es posible integrarse con el proveedor de pago MercadoPagoV2. A través de este conector, su tienda puede ofrecer transacciones de pago en tiendas físicas vía **VTEX Sales App**, utilizando puntos de venta (POS). Para más información acceda [¿Qué es VTEX Sales App?](https://help.vtex.com/es/docs/tracks/vtex-sales-app-primeros-pasos-y-configuracion).
 
-> ℹ️ Para utilizar el proveedor MercadoPagoV2 en su tienda a través de otros canales de venta en línea (excepto VTEX Sales App), visite [Configurar pago con MercadoPagoV2](/es/tutorial/configurar-el-subadquirente-mercadopagov2--1y6k8lCSzJYfPs2yObNFo4).
+> ℹ️ Para utilizar el proveedor MercadoPagoV2 en su tienda a través de otros canales de venta en línea (excepto **VTEX Sales App**), visite [Configurar pago con MercadoPagoV2](https://help.vtex.com/es/docs/tutorials/configurar-el-subadquirente-mercadopagov2).
 
-Para utilizar el proveedor MercadoPagoV2 en la VTEX Sales App, es necesario:
+Para utilizar el proveedor MercadoPagoV2 en la **VTEX Sales App**, es necesario:
 
 - [Configurar claves en el entorno Mercado Pago](#configurar-claves-en-el-entorno-de-mercado-pago)
 - [Configurar el conector MercadoPagoV2 (VTEX Sales App) en VTEX](#configurar-el-conector-mercadopagov2-vtex-sales-app-en-vtex)
@@ -81,7 +81,7 @@ Los siguientes pasos describen las configuraciones mínimas a realizar para que 
 4. En **Procesar con proveedor**, seleccione el conector previamente configurado.
 5. Active la condición en el campo **Status**.
 6. Si desea utilizar un sistema antifraude, seleccione la opción **Utilizar antifraude**.
-7. Si desea, puede [configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456).
+7. Si desea, puede [configurar condiciones especiales de pago](https://help.vtex.com/es/docs/tutorials/condiciones-especiales).
 8. Haga clic en `Guardar`.
 
-Tras seguir los pasos indicados, el proveedor MercadoPagoV2 puede tardar hasta 10 minutos para aparecer como opción de pago en la App Ventas VTEX de su tienda.
+Tras seguir los pasos indicados, el proveedor MercadoPagoV2 puede tardar hasta 10 minutos para aparecer como opción de pago en el **VTEX Sales App** de su tienda.
