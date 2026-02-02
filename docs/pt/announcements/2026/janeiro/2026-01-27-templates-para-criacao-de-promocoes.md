@@ -1,5 +1,5 @@
 ---
-title: 'Templates para criação de promoções'
+title: 'Crie promoções mais rápido com templates reutilizáveis'
 status: PUBLISHED
 createdAt: 2026-01-27T00:00:00.000Z
 updatedAt: 2026-01-27T00:00:00.000Z
@@ -12,21 +12,16 @@ locale: pt
 announcementSynopsisPT: 'Agora é possível criar e usar templates para agilizar a criação de promoções no Admin VTEX.'
 ---
 
-A partir de [data a ser definida], o módulo de **Promoções** da VTEX passa a contar com o [gerenciamento de templates de promoção](colocar link). Essa funcionalidade permite ao lojista salvar e reutilizar configurações de promoções, tornando o processo de criação e gerenciamento de promoções mais rápido e consistente por meio de modelos pré-configurados no Admin VTEX.
+A partir de [data a ser definida], o módulo de **Promoções** da VTEX passa a contar com o [gerenciamento de templates de promoção](colocar link). A funcionalidade permite ao lojista salvar e reutilizar templates de promoções, tornando a criação de promoções mais rápida, padronizada e consistente.
 
 ## O que mudou?
 
-Agora, é possível para o lojista criar, editar e excluir templates de promoção diretamente no fluxo de criação de promoções. Um template funciona como um modelo base: ao selecioná-lo, o formulário de **Nova promoção** é preenchido automaticamente com as configurações previamente salvas.
+Antes, cada promoção precisava ser criada do zero. Mesmo em cenários recorrentes, como campanhas sazonais ou promoções com regras semelhantes, o lojista precisava configurar manualmente todas as condições e benefícios a cada nova promoção.
 
-### Comportamento ao criar uma promoção a partir de um template
+Agora, o lojista pode criar, editar e excluir templates de promoção diretamente no fluxo de criação de promoções. Um template funciona como um modelo pré-configurado. Ao selecioná-lo, o formulário de **Nova promoção** é automaticamente preenchido com as configurações salvas, reduzindo etapas manuais, retrabalho e variações indesejadas entre campanhas.
 
-Ao criar uma promoção usando um template, ocorre o seguinte comportamento padrão:
-
-- O Admin VTEX abre o formulário de **Nova promoção** com os campos preenchidos conforme o template.  
-- Campos que não fazem parte do template permanecem vazios e devem ser configurados manualmente.  
-- As alterações feitas na promoção não afetam o template original.  
-- Configurações como orçamento da promoção não são salvas no template.
+Para mais informações sobre o funcionamento e as regras dos templates de promoção, veja [Gerenciamento de templates de promoção](link).
 
 ## O que precisa ser feito?
 
-Nenhuma ação é necessária. A nova funcionalidade estará disponível a partir de [data a ser definida] em todas as contas VTEX.
+Nenhuma ação é necessária. A partir de [data a ser definida], a nova funcionalidade estará em disponibilidade global (GA) para as lojas de todas as regiões.
