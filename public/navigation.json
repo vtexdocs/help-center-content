@@ -24790,6 +24790,21 @@
                 },
                 {
                   "name": {
+                    "en": "Merchandising rule conditions",
+                    "es": "Merchandising rule conditions",
+                    "pt": "Merchandising rule conditions"
+                  },
+                  "slug": {
+                    "en": "merchandising-rule-conditions",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Merchandising rules",
                     "es": "Reglas de merchandising",
                     "pt": "Regras de merchandising"
