@@ -70,7 +70,7 @@ Los siguientes pasos describen las configuraciones mínimas a realizar para que 
 > ⚠️ Antes de instalar la app **mercadopago.mercadopago-app**, confirma con el equipo de soporte de Mercado Pago la versión actual de la aplicación.
 
 1. En [VTEX IO CLI](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install), ejecute el comando `vtex login nombredecuenta` para iniciar sesión en su cuenta.
-2. Instale la aplicación **mercadopago.mercadopago-app** usando el comando `vtex install mercadopago.mercadopago-app@{{current-app-version}}`. Se debe reemplazar la información {{current-app-version}} dcon la versión actual de la aplicación, por ejemplo: `vtex install mercadopago.mercadopago-app@2.3.15`.
+2. Instale la aplicación **mercadopago.mercadopago-app** usando el comando `vtex install mercadopago.mercadopago-app@{{current-app-version}}`. Se debe reemplazar la información {{current-app-version}} con la versión actual de la aplicación, por ejemplo: `vtex install mercadopago.mercadopago-app@2.3.15`.
 3. Instale la aplicación **mercadopago.instore** usando el comando `vtex install mercadopago.instore`.
 
 ## Configurar condición de pago
