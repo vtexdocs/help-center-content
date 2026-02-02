@@ -22,6 +22,7 @@ At VTEX, it is possible to integrate with the payment provider Cielo. Through th
 To use the Cielo provider in the **VTEX Sales App**, you need to:
 
 - [Configure keys in the Cielo environment](#configure-keys-in-the-cielo-environment)
+- [Install payment app on VTEX](#install-payment-app-on-vtex)
 - [Configure Cielo connector (VTEX Sales App) on VTEX](#configure-cielo-connector-vtex-sales-app-on-vtex)
 - [Configure payment condition](#configure-payment-condition)
 
@@ -36,16 +37,22 @@ The following steps describe the minimum configurations to be carried out so tha
     > ⚠️ The Cielo developer portal allows the user to obtain information on all the keys necessary to configure the connection between VTEX and Cielo Lio. We recommend that the procedure below be carried out by a user who already has access to the other keys in their Cielo account.
 
 2. Log in with your Cielo account.
-3. Request the creation of SalesApp keys through the link [https://devcielo.zendesk.com/hc/pt-br/requests/new?ticket_form_id=526108](https://devcielo.zendesk.com/hc/pt-br/requests/new?ticket_form_id=526108) or by accessing **Suporte > Cielo Lio > Envie sua pergunta > Token de integração remota**.
-
-    > ℹ️ The keys will be available on the Cielo developer portal within 2 business days.
-
+3. Request the creation of SalesApp keys through the [link](https://devcielo.zendesk.com/hc/pt-br/requests/new?ticket_form_id=526108) or by accessing **Suporte > Cielo Smart LIO > Envie sua pergunta > Token de integração remota** in [Cielo portal](https://devcielo.zendesk.com/hc/pt-br).
 4. Enter the following data:
 
     - **Subject:** Request for production keys.
     - **PDV Name:** SalesApp.
 
 5. Send the request by clicking the confirmation button.
+
+> ℹ️ The keys will be available on the Cielo developer portal within 2 business days.
+
+## Install payment app on VTEX
+
+1. In the [VTEX IO CLI](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install), execute the command `vtex login {{accountName}}` to log in to your account.
+2. Install the payment app **vtex.challenge-wait-for-confirmation** by executing the command `vtex install app vtex.challenge-wait-for-confirmation`.
+
+> ℹ️ For more information, see [Payment Provider Protocol for Point of Sale (POS) - VTEX Sales App](https://developers.vtex.com/docs/guides/payments-integration-ppp-applied-to-pos).
 
 ## Configure Cielo connector (VTEX Sales App) on VTEX
 

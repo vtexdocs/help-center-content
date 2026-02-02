@@ -22,6 +22,7 @@ En VTEX, es posible integrarse con el proveedor de pago Cielo. A través de este
 Para utilizar el proveedor Cielo en la **VTEX Sales App**, es necesario:
 
 - [Configurar claves en el entorno Cielo](#configurar-claves-en-el-entorno-de-cielo)
+- [Instalar aplicación de pago en VTEX](#instalar-aplicacion-de-pago-en-vtex)
 - [Configurar el conector Cielo (VTEX Sales App) en VTEX](#configurar-el-conector-cielo-vtex-sales-app-en-vtex)
 - [Configurar condición de pago](#configurar-condicion-de-pago)
 
@@ -36,16 +37,22 @@ Los siguientes pasos describen las configuraciones mínimas a realizar para que 
     > ⚠️ El portal de desarrolladores Cielo permite al usuario obtener información sobre todas las claves necesarias para configurar la conexión entre VTEX y Cielo Lio. Recomendamos que el procedimiento a continuación lo realice un usuario que ya tenga acceso a las otras claves en su cuenta Cielo.
 
 2. Inicía la sesión con tu cuenta Cielo.
-3. Solicite la creación de claves de SalesApp a través del enlace [https://devcielo.zendesk.com/hc/pt-br/requests/new?ticket_form_id=526108](https://devcielo.zendesk.com/hc/pt-br/requests/new?ticket_form_id=526108) o accediendo **Suporte > Cielo Lio > Envie sua pergunta > Token de integração remota** dentro del portal.
-
-    > ℹ️ Las claves estarán disponibles en el portal de desarrolladores Cielo dentro de 2 días hábiles.
-
+3. Solicite la creación de claves de SalesApp a través del [enlace](https://devcielo.zendesk.com/hc/pt-br/requests/new?ticket_form_id=526108) o accediendo **Suporte > Cielo Smart LIO > Envie sua pergunta > Token de integração remota** en [portal da Cielo](https://devcielo.zendesk.com/hc/pt-br).
 4. Introduzca los siguientes datos:
 
     - **Assunto:** Solicitação de chaves de produção.
     - **Nome do PDV:** SalesApp.
 
 5. Envíe la solicitud haciendo clic en el botón de confirmación.
+
+> ℹ️ Las claves estarán disponibles en el portal de desarrolladores Cielo dentro de 2 días hábiles.
+
+## Instalar aplicación de pago en VTEX
+
+1. [En VTEX IO CLI](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install), ejecute el comando `vtex login {{nombredecuenta}}` para iniciar sesión en su cuenta.
+2. Instale la aplicación de pago **vtex.challenge-wait-for-confirmation** por meio del comando `vtex install app vtex.challenge-wait-for-confirmation`.
+
+> ℹ️ Para más información, consulte [Payment Provider Protocol for Point of Sale (POS) - VTEX Sales App](https://developers.vtex.com/docs/guides/payments-integration-ppp-applied-to-pos).
 
 ## Configurar el conector Cielo (VTEX Sales App) en VTEX
 
