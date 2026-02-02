@@ -1,7 +1,6 @@
 ---
 title: 'Merchandising rule conditions'
 id: 4K9WCBiQ4ndU396ZygDpc2
-status: CHANGED
 createdAt: 2024-06-27T17:17:15.295Z
 updatedAt: 2025-09-26T15:09:02.902Z
 publishedAt: 2024-09-06T19:13:55.703Z
