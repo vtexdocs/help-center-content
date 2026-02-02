@@ -41,7 +41,6 @@ In this document, are listed the roles that are predefined for new VTEX stores a
 * [Seller Manager](#seller-manager)
 * [User Administrator - RESTRICTED](#user-administrator-restricted)
 * [VTEX IO Admin](#vtex-io-admin)
-* [Webservice - Full access](#webservice-full-access)
 
 ## Admin - Start page only
 
@@ -53,6 +52,16 @@ Resource table:
 |---|---|---|---|
 | Homepage | Catalog | Administration | Home page |
 | Help page | Catalog | Administration | Help home page |
+| View Product | Catalog API | General | View product and SKU details. |
+| View Collection | Catalog API | General | View collection details. |
+| View Category | Catalog API | General | View category details. |
+| View Brand | Catalog API | General | View brand details. |
+| Import Spreadsheet | Catalog API | General | Import products and SKUs via spreadsheet. |
+| Export Spreadsheet | Catalog API | General | Export catalog information spreadsheet. |
+| Edit Product | Catalog API | General | Edit product details and SKUs. |
+| Edit Collection | Catalog API | General | Edit collection details. |
+| Edit Category | Catalog API | General | Edit category details. |
+| Edit Brand | Catalog API | General | Edit brand details. |
 
 ## Checkout Admin
 
@@ -155,7 +164,7 @@ Resource table:
 | Resource name | Product | Category | Description |
 |---|---|---|---|
 | Place Orders | VTEX Fulfilment | Fulfilment Resources |
-| Orders Detail | VTEX Fulfilment | Fulfilment Resources |
+| Order Details | VTEX Fulfilment | Fulfilment Resources |
 
 ## IntegrationProfile - Fulfillment Gateway
 
@@ -168,7 +177,7 @@ Resource table:
 | Notify payment | OMS | AcessoOMS | Access to the button that manually notifies payments to the gateway in the payment area within the order. |
 | View order | OMS | AcessoOMS | Allows users to view all orders in OMS. |
 | Place Orders | VTEX Fulfilment | Fulfilment Resources |
-| Orders Detail | VTEX Fulfilment | Fulfilment Resources |
+| Order Details | VTEX Fulfilment | Fulfilment Resources |
 | Cancel order | OMS | AcessoOMS | Allows users to cancel orders in OMS. |
 
 ## IntegrationProfile - Fulfillment Gateway GetOrder
@@ -181,7 +190,7 @@ Resource table:
 | View Payment Data | PCI Gateway | Payment-ViewPaymentData | Recovers a transaction. |
 | View order | OMS | AcessoOMS | Allows users to view all orders in OMS. |
 | Place Orders | VTEX Fulfilment | Fulfilment Resources |
-| Orders Detail | VTEX Fulfilment | Fulfilment Resources |
+| Order Details | VTEX Fulfilment | Fulfilment Resources |
 
 ## IntegrationProfile - Fulfillment Gateway Oms
 
@@ -196,7 +205,7 @@ Resource table:
 | Notify invoice | OMS | AcessoOMS | Allows users to manually inform invoices and data for tracking in OMS. |
 | View order | OMS | AcessoOMS | Allows users to view all orders in OMS. |
 | Place Orders | VTEX Fulfilment | Fulfilment Resources |
-| Orders Detail | VTEX Fulfilment | Fulfilment Resources |
+| Order Details | VTEX Fulfilment | Fulfilment Resources |
 | Notify refund | OMS | AcessoOMS | Allows users to notify when an accounts receivable invoice is in processing, indicating a journal entry for something that was refunded. Allows the input of a return invoice. |
 | Cancel order | OMS | AcessoOMS | Allows users to cancel orders in OMS. |
 | Order feed subscription | OMS | AcessoOMS | Allows users to subscribe to receive order status updates in the Order Feed. |
@@ -215,7 +224,7 @@ Resource table:
 | View order | OMS | AcessoOMS | Allows users to view all orders in OMS. |
 | List Orders | OMS | AcessoOMS | Allows users to list all orders from the given account. |
 | Place Orders | VTEX Fulfilment | Fulfilment Resources |
-| Orders Detail | VTEX Fulfilment | Fulfilment Resources |
+| Order Details | VTEX Fulfilment | Fulfilment Resources |
 | Notify refund | OMS | AcessoOMS | Allows users to notify when an accounts receivable invoice is in processing, indicating a journal entry for something that was refunded. Allows the input of a return invoice. |
 | Cancel order | OMS | AcessoOMS | Allows users to cancel orders in OMS. |
 | Order feed subscription | OMS | AcessoOMS | Allows users to subscribe to receive order status updates in the Order Feed. |
@@ -228,7 +237,7 @@ Resource table:
 
 | Resource name | Product | Category | Description |
 |---|---|---|---|
-| Orders Detail | VTEX Fulfilment | Fulfilment Resources | |
+| Order Details | VTEX Fulfilment | Fulfilment Resources | |
 
 ## Logistics - Full access
 
@@ -236,8 +245,8 @@ Resource table:
 
 | Resource name | Product | Category | Description |
 |---|---|---|---|
-| Home-page | Catalog | Administration | Home page |
-| Help-page | Catalog | Administration | Help home page |
+| Homepage | Catalog | Administration | Home page |
+| Help page | Catalog | Administration | Help home page |
 | Logistics full access | Logistics | Access to Logistics | Gives full access to all logistics resources (viewing, creating, editing and canceling settings) |
 | Logistics viewer | Logistics | Access to Logistics | Permission to view the start page of the logistics module. |
 | Logistics inventory full access | Logistics | Access to Logistics | Gives full access to the logistics inventory (viewing, creating, editing and canceling settings). |
@@ -261,8 +270,8 @@ Resource table:
 
 | Resource name | Product | Category | Description |
 |---|---|---|---|
-| Home-page | Catalog | Administration | Home page |
-| Help-page | Catalog | Administration | Help home page |
+| Homepage | Catalog | Administration | Home page |
+| Help page | Catalog | Administration | Help home page |
 | Change order workflow status | OMS | AccessOMS | Allows users to access actions within the workflow to change orders status, through the Actions button in the Workflow |
 | Notify payment | OMS | AcessoOMS | Access to the button that manually notifies payments to the gateway in the payment area within the order. |
 | Notify invoice | OMS | AcessoOMS | Allows users to manually inform invoices and data for tracking in OMS. |
@@ -331,11 +340,3 @@ Resource table:
 | Import Redirects | VTEX IO | Infrastructure | Enable users to manage redirects with VTEX IO's command line interface |
 | Manage A/B Test | VTEX IO | A/B Test | Allows users to start, finish or get status of an A/B Test |
 | Read logs | Application Logs Stream | Logs | Read logs from VTEX IO apps owned from this account |
-
-## Webservice - Full access
-
-Resource table:
-
-| Resource name | Product | Category | Description |
-|---|---|---|---|
-| Webservice access | WebService | webservice | Permission to use any SOAP request |

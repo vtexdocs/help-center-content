@@ -41,7 +41,6 @@ Neste documento estão listados os perfis de acesso que estão predefinidos para
 * [Seller Manager](#seller-manager)
 * [User Administrator - RESTRICTED](#user-administrator-restricted)
 * [VTEX IO Admin](#vtex-io-admin)
-* [Webservice - Full access](#webservice-full-access)
 
 ## Admin - Start page only
 
@@ -51,8 +50,18 @@ Tabela de recursos:
 
 | Nome do recurso | Produto | Categoria | Descrição |
 |---|---|---|---|
-| Homepage | Catalog | Administração | Página inicial |
-| Help page | Catalog | Administração | Página de ajuda inicial |
+| Homepage | Catalog | Admin | Página inicial |
+| Help page | Catalog | Admin | Página de ajuda inicial |
+| View Product | Catalog API | General | Visualizar detalhes de produtos e SKUs. |
+| Edit Product | Catalog API | General | Editar detalhes de produtos e SKUs. |
+| View Category | Catalog API | General | Visualizar detalhes de categorias. |
+| Edit Category | Catalog API | General | Editar detalhes de categorias. |
+| View Collection | Catalog API | General | Visualizar detalhes de coleções. |
+| Edit Collection | Catalog API | General | Editar detalhes de coleções. |
+| View Brand | Catalog API | General | Visualizar detalhes de marcas. |
+| Edit Brand | Catalog API | General | Editar detalhes de marcas. |
+| Import Spreadsheet | Catalog API | General | Importar produtos e SKUs por planilha. |
+| Export Spreadsheet | Catalog API | General | Exportar planilha de informações do catálogo. |
 
 ## Checkout Admin
 
@@ -155,7 +164,7 @@ Tabela de recursos:
 | Nome do recurso | Produto | Categoria | Descrição |
 |---|---|---|---|
 | Place Orders | VTEX Fulfilment | Fulfilment Resources | |
-| Orders Detail | VTEX Fulfilment | Fulfilment Resources | |
+| Order Details | VTEX Fulfilment | Fulfilment Resources | |
 
 ## IntegrationProfile - Fulfillment Gateway
 
@@ -168,7 +177,7 @@ Tabela de recursos:
 | Notify payment | OMS | AcessoOMS | Acesso ao botão que notifica pagamento ao gateway manualmente na área de pagamento dentro do pedido. |
 | View order | OMS | AcessoOMS | Permite a visualização de todos os pedidos no OMS. |
 | Place Orders | VTEX Fulfilment | Fulfilment Resources |
-| Orders Detail | VTEX Fulfilment | Fulfilment Resources |
+| Order Details | VTEX Fulfilment | Fulfilment Resources |
 | Cancel order | OMS | AcessoOMS | Permite Cancelar pedido no OMS. |
 
 ## IntegrationProfile - Fulfillment Gateway GetOrder
@@ -181,7 +190,7 @@ Tabela de recursos:
 | View Payment Data | PCI Gateway | Payment-ViewPaymentData | Recupera uma transação. |
 | View order | OMS | AcessoOMS | Permite a visualização de todos os pedidos no OMS. |
 | Place Orders | VTEX Fulfilment | Fulfilment Resources |
-| Orders Detail | VTEX Fulfilment | Fulfilment Resources |
+| Order Details | VTEX Fulfilment | Fulfilment Resources |
 
 ## IntegrationProfile - Fulfillment Gateway Oms
 
@@ -196,7 +205,7 @@ Tabela de recursos:
 | Notify invoice | OMS | AcessoOMS | Permite informar faturas (NF) e dados para rastreio manualmente no OMS. |
 | View order | OMS | AcessoOMS | Permite a visualização de todos os pedidos no OMS. |
 | Place Orders | VTEX Fulfilment | Fulfilment Resources |
-| Orders Detail | VTEX Fulfilment | Fulfilment Resources |
+| Order Details | VTEX Fulfilment | Fulfilment Resources |
 | Notify reemburse | OMS | AcessoOMS | Permite notificar uma nota fiscal de entrada, indicando a entrada novamente de algo que foi reembolsado. Permite o input de uma nota de devolução. |
 | Cancel order | OMS | AcessoOMS | Permite Cancelar pedido no OMS. |
 | Order feed subscription | OMS | AcessoOMS | Permite que o usuário se inscreva para receber atualizações dos status dos pedidos no Order Feed. |
@@ -215,7 +224,7 @@ Tabela de recursos:
 | View order | OMS | AcessoOMS | Permite a visualização de todos os pedidos no OMS. |
 | List Orders | OMS | AcessoOMS | Permite listar todos os pedidos da conta. |
 | Place Orders | VTEX Fulfilment | Fulfilment Resources |
-| Orders Detail | VTEX Fulfilment | Fulfilment Resources |
+| Order Details | VTEX Fulfilment | Fulfilment Resources |
 | Notify reemburse | OMS | AcessoOMS | Permite notificar uma nota fiscal de entrada, indicando a entrada novamente de algo que foi reembolsado. Permite o input de uma nota de devolução. |
 | Cancel order | OMS | AcessoOMS | Permite Cancelar pedido no OMS. |
 | Order feed subscription | OMS | AcessoOMS | Permite que o usuário se inscreva para receber atualizações dos status dos pedidos no Order Feed. |
@@ -228,7 +237,7 @@ Tabela de recursos:
 
 | Nome do recurso | Produto | Categoria | Descrição |
 |---|---|---|---|
-| Orders Detail | VTEX Fulfilment | Fulfilment Resources | |
+| Order Details | VTEX Fulfilment | Fulfilment Resources | |
 
 ## Logistics - Full access
 
@@ -261,8 +270,8 @@ Tabela de recursos:
 
 | Nome do recurso | Produto | Categoria | Descrição |
 |---|---|---|---|
-| Home-page | Catalog | Administração | Página inicial |
-| Help-page | Catalog | Administração | Página de ajuda inicial |
+| Homepage | Catalog | Administração | Página inicial |
+| Help page | Catalog | Administração | Página de ajuda inicial |
 | Change order workflow status | OMS | AcessoOMS | Permite acesso às ações dentro do workflow pra mudança de status de pedido, através do botão de Ações no Workflow |
 | Notify payment | OMS | AcessoOMS | Acesso ao botão que notifica pagamento ao gateway manualmente na área de pagamento dentro do pedido. |
 | Notify invoice | OMS | AcessoOMS | Permite informar faturas (NF) e dados para rastreio manualmente no OMS. |
@@ -331,12 +340,4 @@ Tabela de recursos:
 | Import Redirects | VTEX IO | Infrastructure | Enable user to manage redirects with VTEX IO's command line interface |
 | Manage A/B Test | VTEX IO | A/B Test | Allow to start, finish or get status of a A/B Test |
 | Read logs | Application Logs Stream | Logs | Read logs from VTEX IO apps owned from this account |
-
-## Webservice - Full access
-
-Tabela de recursos:
-
-| Nome do recurso | Produto | Categoria | Descrição |
-|---|---|---|---|
-| Webservice access | WebService | webservice | Criar, editar e deletar informações do catálogo por meio do WebService. |
 

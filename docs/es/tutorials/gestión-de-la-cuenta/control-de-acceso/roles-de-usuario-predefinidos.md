@@ -41,19 +41,28 @@ En este documento, se enumeran roles que están predefinidos para las nuevas tie
 * [Seller Manager](#seller-manager)
 * [User Administrator - RESTRICTED](#user-administrator-restricted)
 * [VTEX IO Admin](#vtex-io-admin)
-* [Webservice - Full access](#webservice-full-access)
 
 ## Admin - Start page only
 
-rol básico que da acceso a la página de inicio del ambiente administrativo.
+Rol básico que da acceso a la página de inicio del ambiente administrativo.
 Mínimo requerido para que un usuario no sea recibido con un mensaje de error al entrar en el ambiente administrativo.  
 
 Tabla de recursos:
 
 | Nombre del recurso | Producto | Categoría | Descripción |
 |---|---|---|---|
-| Home-page | Catalog | Administración | Página inicial |
-| Help-page | Catalog | Administración | Página de ayuda inicial |
+| Homepage | Catalog | Admin | Página inicial |
+| Help page | Catalog | Admin | Página de ayuda inicial |
+| View Product | Catalog API | General | Ver detalles de productos y SKUs. |
+| Edit Product | Catalog API | General | Editar detalles del producto y SKU. |
+| View Category | Catalog API | General | Ver detalles de la categoría. |
+| Edit Category | Catalog API | General | Editar detalles de la categoría. |
+| View Collection | Catalog API | General | Ver detalles de la colección. |
+| Edit Collection | Catalog API | General | Editar detalles de la colección. |
+| View Brand | Catalog API | General | Ver detalles de la marca. |
+| Edit Brand | Catalog API | General | Editar detalles de la marca. |
+| Import Spreadsheet | Catalog API | General | Importar productos y SKUs mediante hoja de cálculo. |
+| Export Spreadsheet | Catalog API | General | Hoja de cálculo para exportar información del catálogo. |
 
 ## Checkout Admin
 
@@ -79,7 +88,7 @@ Tabla de recursos:
 
 | Nombre del recurso | Producto | Categoría | Descripción |
 |---|---|---|---|
-| Assisted Sales | Catalog | Televentas | Funcionalidades de televenta. Tras iniciar sesión, el usuario es redirigido al sitio web de televenta www.{nombredetienda}.com.br/a/televendas. De esta forma, el operador puede utilizar las funcionalidades de televenta, como navegar por la tienda en nombre del cliente.Como este recurso provoca la redirección automática a la tienda, el usuario que entre en una cuenta con un perfil con este recurso no tendrá acceso a importantes funcionalidades del Admin. |
+| Assisted Sales | Catalog | Televentas | Funcionalidades de televenta. Tras iniciar sesión, el usuario es redirigido al sitio web de televenta `www.{nombredetienda}.com.br/a/televendas`. De esta forma, el operador puede utilizar las funcionalidades de televenta, como navegar por la tienda en nombre del cliente.Como este recurso provoca la redirección automática a la tienda, el usuario que entre en una cuenta con un perfil con este recurso no tendrá acceso a importantes funcionalidades del Admin. |
 | View order | OMS | AccesoOMS | Permite la visualización de pedidos en el OMS. |
 
 ## Finance  
@@ -156,7 +165,7 @@ Tabla de recursos:
 | Nombre del recurso | Producto | Categoría | Descripción |
 |---|---|---|---|
 | Place Orders | VTEX Fulfilment | Fulfilment Resources |
-| Orders Detail | VTEX Fulfilment | Fulfilment Resources |
+| Order Details | VTEX Fulfilment | Fulfilment Resources |
 
 ## IntegrationProfile - Fulfillment Gateway
 
@@ -169,7 +178,7 @@ Tabla de recursos:
 | Notify payment | OMS | AccesoOMS | Acceso al botón que notifica el pago al gateway manualmente en el área de pago dentro del pedido. |
 | View order | OMS | AccesoOMS | Permite la visualización de todos los pedidos en el OMS. |
 | Place Orders | VTEX Fulfilment | Fulfilment Resources |
-| Orders Detail | VTEX Fulfilment | Fulfilment Resources |
+| Order Details | VTEX Fulfilment | Fulfilment Resources |
 | Cancel order | OMS | AccesoOMS | Permite Cancelar pedido en el OMS. |
 
 ## IntegrationProfile - Fulfillment Gateway GetOrder
@@ -182,7 +191,7 @@ Tabla de recursos:
 | View Payment Data | PCI Gateway | Payment-ViewPaymentData | Recupera una transacción. |
 | View order | OMS | AccesoOMS | Permite la visualización de todos los pedidos en el OMS. |
 | Place Orders | VTEX Fulfilment | Fulfilment Resources |
-| Orders Detail | VTEX Fulfilment | Fulfilment Resources |
+| Order Details | VTEX Fulfilment | Fulfilment Resources |
 
 ## IntegrationProfile - Fulfillment Gateway Oms
 
@@ -197,7 +206,7 @@ Tabla de recursos:
 | Notify invoice | OMS | AccesoOMS | Permite informar facturas (NF) y datos para rastreo manualmente en el OMS. |
 | View order | OMS | AccesoOMS | Permite la visualización de todos los pedidos en el OMS. |
 | Place Orders | VTEX Fulfilment | Fulfilment Resources |
-| Orders Detail | VTEX Fulfilment | Fulfilment Resources |
+| Order Details | VTEX Fulfilment | Fulfilment Resources |
 | Notify reemburse | OMS | AccesoOMS | Permite notificar una factura de entrada, indicando la entrada de nuevo de algo que ha sido reembolsado. Permite el input de una factura de devolución. |
 | Cancel order | OMS | AccesoOMS | Permite Cancelar pedido en el OMS. |
 | Order feed subscription | OMS | AccesoOMS | Permite que el usuario se inscriba para recibir actualizaciones de los status de los pedidos en el Order Feed. |
@@ -216,7 +225,7 @@ Tabla de recursos:
 | View order | OMS | AccesoOMS | Permite la visualización de todos los pedidos en el OMS. |
 | List Orders | OMS | AcessoOMS | Permite listar todos los pedidos de la cuenta. |
 | Place Orders | VTEX Fulfilment | Fulfilment Resources |
-| Orders Detail | VTEX Fulfilment | Fulfilment Resources |
+| Order Details | VTEX Fulfilment | Fulfilment Resources |
 | Notify reemburse | OMS | AccesoOMS | Permite notificar una factura de entrada, indicando la entrada de nuevo de algo que ha sido reembolsado. Permite el input de una factura de devolución. |
 | Cancel order | OMS | AccesoOMS | Permite Cancelar pedido en el OMS. |
 | Order feed subscription | OMS | AccesoOMS | Permite que el usuario se inscriba para recibir actualizaciones de los status de los pedidos en Order Feed. |
@@ -229,7 +238,7 @@ Tabla de recursos:
 
 | Nombre del recurso | Producto | Categoría | Descripción |
 |---|---|---|---|
-| Orders Detail | VTEX Fulfilment | Fulfilment Resources |
+| Order Details | VTEX Fulfilment | Fulfilment Resources |
 
 ## Logistics - Full access
 
@@ -237,8 +246,8 @@ Tabla de recursos:
 
 | Nombre del recurso | Producto | Categoría | Descripción |
 |---|---|---|---|
-| Home-page | Catalog | Administración | Página inicial |
-| Help-page | Catalog | Administración | Página de ayuda inicial |
+| Homepage | Catalog | Admin | Página inicial |
+| Help page | Catalog | Admin | Página de ayuda inicial |
 | Logistics full access | Logistics | Acceso a Logistics | Permite acceso pleno a todos los recursos de logística (visualización, creación, edición y cancelación de configuraciones). |
 | Logistics viewer | Logistics | Acceso a Logistics | Permiso de visualización del área inicial del módulo de logística. |
 | Logistics inventory full access | Logistics | Acceso a Logistics | Permite el acceso pleno al inventario logístico (visualización, creación, edición y cancelación de configuraciones). |
@@ -262,8 +271,8 @@ Tabla de recursos:
 
 | Nombre del recurso | Producto | Categoría | Descripción |
 |---|---|---|---|
-| Home-page | Catalog | Administración | Página inicial |
-| Help-page | Catalog | Administración | Página de ayuda inicial |
+| Homepage | Catalog | Admin | Página inicial |
+| Help page | Catalog | Admin | Página de ayuda inicial |
 | Change order workflow status | OMS | AccesoOMS | Permite el acceso a las acciones dentro del workflow para cambiar el status del pedido, a través del botón de acciones en el workflow. |
 | Notify payment | OMS | AccesoOMS | Acceso al botón que notifica el pago al gateway manualmente en el área de pago dentro del pedido. |
 | Notify invoice | OMS | AccesoOMS | Permite informar facturas (NF) y datos para rastreo manualmente en el OMS. |
@@ -332,12 +341,3 @@ Tabla de recursos:
 | Import Redirects | VTEX IO | Infrastructure | Permite al usuario gestionar redirecciones con la interfaz de línea de comando de VTEX IO. |
 | Manage A/B Test | VTEX IO | A/B Test | Permite iniciar, terminar u obtener status de una prueba A/B. |
 | Read logs | Application Logs Stream | Logs | Leer logs de apps de VTEX IO que pertenecen a esta cuenta. |
-
-## Webservice - Full access
-
-Tabla de recursos:
-
-| Nombre del recurso | Producto | Categoría | Descripción |
-|---|---|---|---|
-| Webservice access | WebService | webservice | Permiso para utilizar cualquier request de SOAP. |
-
