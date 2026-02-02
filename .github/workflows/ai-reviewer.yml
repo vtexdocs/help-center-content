@@ -1,0 +1,62 @@
+name: Review Documentation with AI
+
+on:
+  pull_request:
+    paths:
+      - 'docs/**/*.md'
+      - 'docs/**/*.mdx'
+      - '!docs/localization/**'
+    types: [opened, synchronize, ready_for_review]
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  get-changed-files:
+    runs-on: ubuntu-latest
+    if: ${{ !github.event.pull_request.draft }}
+    outputs:
+      files: ${{ steps.get-files.outputs.all_modified_files }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Get changed files
+        id: get-files
+        uses: tj-actions/changed-files@v44
+        with:
+          json: true
+          escape_json: false
+          files: |
+            docs/pt/**/*.md
+            docs/pt/**/*.mdx
+      - name: Check output
+        run: echo "${{ steps.get-files.outputs.all_modified_files }}"
+
+  ai-reviewer:
+    needs: get-changed-files
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        file: ${{ fromJson(needs.get-changed-files.outputs.files) }}
+    steps:
+    - uses: actions/setup-python@v5
+    - uses: actions/checkout@v4
+    - uses: vtexdocs/ai-documentation-reviewer-action@v1
+      id: generate-feedback
+      with:
+        gemini_api_key: ${{ secrets.GEMINI_API_KEY }}
+        file_paths: ${{ matrix.file }}
+    - name: Comment PR with AI feedback
+      uses: thollander/actions-comment-pull-request@v3
+      with:
+        message: |
+          ### 🔍 Documentation feedback for ${{ matrix.file }}
+          ${{ steps.generate-feedback.outputs.response }}
+
+          <hr><h3 id="ai-feedback">Was this feedback useful?</h3>
+
+          - [ ] Yes
+          - [ ] No
+        comment-tag: ${{ matrix.file }}
