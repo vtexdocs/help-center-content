@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
-Este artigo explica como cadastrar um usuário com um perfil de acesso de televendas. Para mais informações sobre perfis de acessos e como configurá-los, veja o artigo [Perfis de acesso](https://help.vtex.com//pt/tutorial/perfis-de-acesso-).
+Este artigo explica como cadastrar um usuário com um perfil de acesso de televendas. Para mais informações sobre perfis de acessos e como configurá-los, veja o artigo [Perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso).
 
 Por meio dos perfis de televendas, o lojista pode dar permissão de acesso a usuários da área de televendas para atender clientes e realizar operações de venda.
 
