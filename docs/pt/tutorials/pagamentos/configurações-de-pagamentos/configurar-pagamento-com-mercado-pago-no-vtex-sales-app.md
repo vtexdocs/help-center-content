@@ -42,7 +42,7 @@ Os passos a seguir descrevem as configurações mínimas a serem realizadas para
 
 1. No Admin VTEX, acesse **Configurações da loja > Pagamentos > Provedores**, ou digite **Provedores** na barra de busca no topo da página.
 2. Na tela de provedores, clique no botão **Novo provedor**.
-3. Digite o nome **MercadoPagoV2** na barra de busca e clique sobre o nome do provedor.
+3. Digite o nome **MercadoPagoV2** na barra de busca e clique no nome do provedor.
 4. Em **Chave de aplicação**, insira o nome da sua **Public Key** localizada no portal de desenvolvedor do Mercado Pago.
 5. Em **Token de aplicação**, insira a chave **Access Token** localizada no portal de desenvolvedor do Mercado Pago.
 6. Caso deseje modificar o nome de identificação a ser exibido para o provedor Mercado Pago na tela do Admin VTEX, insira a informação no campo **Nome** em **Informações básicas**.
