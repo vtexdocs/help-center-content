@@ -71,28 +71,28 @@
             },
             {
               "name": {
-                "en": "Janeiro",
-                "es": "Janeiro",
-                "pt": "Janeiro"
+                "en": "February",
+                "es": "Febrero",
+                "pt": "Fevereiro"
               },
               "slug": {
-                "en": "janeiro",
-                "es": "janeiro",
-                "pt": "2026-janeiro"
+                "en": "february",
+                "es": "febrero",
+                "pt": "fevereiro"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "pt": "Templates para criação de promoções",
-                    "en": "Templates para criação de promoções",
-                    "es": "Templates para criação de promoções"
+                    "en": "Create promotions faster with reusable templates",
+                    "es": "Crea promociones más rápido con templates reutilizables",
+                    "pt": "Crie promoções mais rápido com templates reutilizáveis"
                   },
                   "slug": {
-                    "pt": "2026-01-27-templates-para-criacao-de-promocoes",
-                    "en": "",
-                    "es": ""
+                    "en": "2026-02-03-create-promotions-faster-with-reusable-templates",
+                    "es": "2026-02-03-crea-promociones-mas-rapido-con-templates-reutilizables",
+                    "pt": "2026-02-03-crie-promocoes-mais-rapido-com-templates-reutilizaveis"
                   },
                   "origin": "",
                   "type": "markdown",
