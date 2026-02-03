@@ -25,7 +25,7 @@ A página apresenta as informações a seguir em uma tabela:
 
 | Coluna | Descrição |
 | ---- | ---- |
-| **Chave/Nome** | Chave de API, seguida pelo nome definido durante a criação da chave. Se o token tiver passado do período de renovação recomendado (3 meses, por padrão), ao lado da chave aparece um ícone de alerta para renovação. Saiba mais em [Configurar alerta para renovar tokens de API](/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ). |
+| **Chave/Nome** | Chave de API, seguida pelo nome definido durante a criação da chave. Se o token tiver passado do período de renovação recomendado (3 meses, por padrão), ao lado da chave aparece um ícone de alerta para renovação. Saiba mais em [Configurar alerta para renovar tokens de API](/pt/tutorial/configurar-alerta-para-renovar-tokens-de-api). |
 | **Perfil de acesso** | Perfis de acesso associados à chave de API. |
 | **Data de criação** | Data de criação da chave de API. |
 | **Status** | Status da chave de API, que pode ser **Ativo** ou **Inativo**. |
@@ -93,7 +93,7 @@ Siga o passo a passo abaixo para inativar ou ativar uma chave de API:
 
 ## Renovar token
 
-Renovar o token de API com frequência é crucial para manter a segurança da sua loja. Para garantir a proteção contínua, faça a renovação antes mesmo de receber o [alerta](/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ) para isso. Siga as instruções descritas em [Renovar token de API](/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3).
+Renovar o token de API com frequência é crucial para manter a segurança da sua loja. Para garantir a proteção contínua, faça a renovação antes mesmo de receber o [alerta](/pt/tutorial/configurar-alerta-para-renovar-tokens-de-api) para isso. Siga as instruções descritas em [Renovar token de API](/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3).
 
 ## Excluir chave
 
@@ -113,5 +113,5 @@ Para excluir uma chave de API de forma definitiva, siga os passos abaixo:
 
 * [Chaves de API](/pt/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6)  
 * [Renovar token de API](/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3)
-* [Configurar alerta para renovar tokens de API](/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)  
+* [Configurar alerta para renovar tokens de API](/pt/tutorial/configurar-alerta-para-renovar-tokens-de-api)  
 * [Chaves externas](/pt/tutorial/chaves-externas--1isU0HfKkeg0atlxRha14Q)

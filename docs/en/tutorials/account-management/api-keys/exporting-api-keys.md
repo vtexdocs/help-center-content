@@ -15,18 +15,18 @@ locale: en
 subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 ---
 
-The [API Keys](/en/tutorial/api-keys--4bFEmcHXgpNksoePchZyy6) page allows you to export information for all generated and external keys associated with the account to an `XLSX` file.  
+The [API Keys](/en/tutorial/api-keys) page allows you to export information for all generated and external keys associated with the account to an `XLSX` file.  
 
 ## Before you begin
 
-To export, you must have the [User Administrator - RESTRICTED](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) role or a [custom](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) role with the *View API Keys* resource.
+To export, you must have the [User Administrator - RESTRICTED](/en/tutorial/predefined-roles#user-administrator-restricted) role or a [custom](/en/tutorial/roles#creating-a-role) role with the *View API Keys* resource.
 
 ## Instructions
 
 Follow the instructions below to export keys:  
 
 1. In the top bar of the VTEX Admin, click **your profile avatar**, indicated by the initial letter of your email address.  
-2. Click *Account Settings \> API Keys*.  
+2. Click *Account Settings > API Keys*.  
 3. Click `Export`. The file download will start instantly.  
 
 See the information available in the spreadsheet below.
@@ -57,7 +57,7 @@ See the information available in the spreadsheet below.
 
 ## Learn more
 
-- [API keys](/en/tutorial/api-keys--4bFEmcHXgpNksoePchZyy6)  
-- [Configuring alerts to renew API tokens](/en/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)  
-- [Generated keys](/en/tutorial/generated-keys--7fnU4iZdvZKbxCaT3Ymdjc)  
-- [External keys](/en/tutorial/external-keys--1isU0HfKkeg0atlxRha14Q)  
+- [API keys](/en/tutorial/api-keys)  
+- [Configuring alerts to renew API tokens](/en/tutorial/configuring-alerts-to-renew-api-tokens)  
+- [Generated keys](/en/tutorial/generated-keys)  
+- [External keys](/en/tutorial/external-keys)  

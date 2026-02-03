@@ -75,6 +75,6 @@ Se você renovou o token por engano ou esqueceu de copiar o novo token gerado, s
 
 ## Saiba mais
 
-* [Chaves de API](/pt/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6)
-* [Configurar alerta para renovar tokens de API](/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)
-* [Chaves geradas](/pt/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc)
+* [Chaves de API](/pt/tutorial/chaves-de-api)
+* [Configurar alerta para renovar tokens de API](/pt/tutorial/configurar-alerta-para-renovar-tokens-de-api)
+* [Chaves geradas](/pt/tutorial/chaves-geradas)

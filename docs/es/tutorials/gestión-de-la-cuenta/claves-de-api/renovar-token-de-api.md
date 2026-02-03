@@ -56,7 +56,7 @@ Sigue las instrucciones para eliminar manualmente un token antiguo tras la renov
 
 1. En la barra superior del Admin VTEX, haz clic en el **avatar de tu perfil**, marcado por la inicial de tu email, y luego en *Configuración de la cuenta > Claves de API*.  
 2. Comprueba que estás en la pestaña **Generadas**.
-3. En la fila de una clave de API que tenga la alerta *Eliminación pendiente \- Token antiguo*, haz clic en el menú (⋮) y luego en <i class="far fa-trash-alt"></i> `Eliminar token antiguo`.  
+3. En la fila de una clave de API que tenga la alerta *Eliminación pendiente - Token antiguo*, haz clic en el menú (⋮) y luego en <i class="far fa-trash-alt"></i> `Eliminar token antiguo`.  
 
    ![delete-pending-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gestión-de-la-cuenta/claves-de-api/renovar-token-de-api_2.png)
 
@@ -64,7 +64,7 @@ Sigue las instrucciones para eliminar manualmente un token antiguo tras la renov
 
 ## Deshacer renovación de token
 
-> ⚠️ Este procedimiento solo es posible mientras el token antiguo no haya sido [eliminado](#eliminar-token-antiguo). Si se eliminó el token antiguo, será necesario renovar el token de nuevo o [eliminar la clave de API](/es/tutorial/clave-generada--7fnU4iZdvZKbxCaT3Ymdjc#eliminar-clave).
+> ⚠️ Este procedimiento solo es posible mientras el token antiguo no haya sido [eliminado](#eliminar-token-antiguo). Si se eliminó el token antiguo, será necesario renovar el token de nuevo o [eliminar la clave de API](/es/tutorial/clave-generadas#eliminar-clave).
 
 Si renovaste el token por error u olvidaste copiar el nuevo token generado, sigue los pasos a continuación para deshacer la renovación.
 
@@ -76,5 +76,5 @@ Si renovaste el token por error u olvidaste copiar el nuevo token generado, sigu
 ## Más información
 
 * [Claves de API](/es/tutorial/claves-de-api--4bFEmcHXgpNksoePchZyy6)
-* [Configurar alerta para renovar tokens de API](/es/tutorial/configurar-la-duracion-de-las-claves-de-api--kcGIFysFt02FDuhsfjQwZ)
+* [Configurar alerta para renovar tokens de API](/es/tutorial/configurar-alerta-para-renovar-tokens-de-api)
 * [Claves generadas](/es/tutorial/claves-generadas--7fnU4iZdvZKbxCaT3Ymdjc)

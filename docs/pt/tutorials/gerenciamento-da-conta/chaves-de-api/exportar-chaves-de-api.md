@@ -15,11 +15,11 @@ locale: pt
 subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 ---
 
-A página [Chaves de API](/pt/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6) permite exportar informações de todas as chaves geradas e as chaves externas relacionadas à conta para um arquivo `XLSX`.
+A página [Chaves de API](/pt/tutorial/chaves-de-api) permite exportar informações de todas as chaves geradas e as chaves externas relacionadas à conta para um arquivo `XLSX`.
 
 ## Antes de começar
 
-Para a exportação, é obrigatório ter o perfil de acesso [User Administrator - RESTRICTED](/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) ou um perfil [customizado](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso) com o recurso *View API Keys*.
+Para a exportação, é obrigatório ter o perfil de acesso [User Administrator - RESTRICTED](/pt/tutorial/perfis-de-acesso-predefinidos#user-administrator-restricted) ou um perfil [customizado](/pt/tutorial/perfis-de-acesso#criando-um-perfil-de-acesso) com o recurso *View API Keys*.
 
 ## Instruções
 
@@ -57,7 +57,7 @@ A seguir, confira as informações disponíveis na planilha.
 
 ## Saiba mais
 
-* [Chaves de API](/pt/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6)  
-* [Configurações de chaves de API](/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)  
-* [Chaves geradas](/pt/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc)  
-* [Chaves externas](/pt/tutorial/chaves-externas--1isU0HfKkeg0atlxRha14Q)
+* [Chaves de API](/pt/tutorial/chaves-de-api)  
+* [Configurar alerta para renovar tokens de API](/pt/tutorial/configurar-alerta-para-renovar-tokens-de-api)  
+* [Chaves geradas](/pt/tutorial/chaves-geradas)  
+* [Chaves externas](/pt/tutorial/chaves-externas)

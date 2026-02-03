@@ -119,8 +119,8 @@ Nenhuma ação é necessária. A atualização é automática para todas as cont
 Confira a documentação atualizada para explorar todas as funcionalidades:
 
 * [Chaves de API](/pt/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6)  
-* [Chaves externas](/pt/tutorial/chaves-terceiras--1isU0HfKkeg0atlxRha14Q) 
+* [Chaves externas](/pt/tutorial/chaves-externas--1isU0HfKkeg0atlxRha14Q) 
 * [Chaves geradas](/pt/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc)  
-* [Configurar alerta para renovar tokens de API](/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)  
+* [Configurar alerta para renovar tokens de API](/pt/tutorial/configurar-alerta-para-renovar-tokens-de-api)  
 * [Exportar chaves de API](/pt/tutorial/exportar-chaves-de-api--1p4eYJWD26gOdicUdiiGC5)  
 * [Renovar token de API](/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3)
