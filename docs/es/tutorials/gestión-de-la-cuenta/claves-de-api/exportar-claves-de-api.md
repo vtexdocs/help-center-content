@@ -58,6 +58,6 @@ A continuación se describen los datos disponibles en la plantilla.
 ## Más información
 
 * [Claves de API](/es/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6)  
-* [Configurar la duración de las claves de API](/es/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)  
+* [Configurar alerta para renovar tokens de API](/es/tutorial/configurar-alerta-para-renovar-tokens-de-api)  
 * [Claves generadas](/es/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc) 
-* [Claves externas](/es/tutorial/chaves-terceiras--1isU0HfKkeg0atlxRha14Q)
+* [Claves externas](/es/tutorial/chaves-externas--1isU0HfKkeg0atlxRha14Q)

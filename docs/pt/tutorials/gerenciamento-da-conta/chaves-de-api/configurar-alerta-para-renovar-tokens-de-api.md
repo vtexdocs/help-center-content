@@ -17,7 +17,7 @@ subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 
 A página **Chaves de API** permite configurar um alerta para recomendar a renovação de tokens de API para chaves geradas internamente.
 
-[Renovar tokens](/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3]) periodicamente é importante para garantir a segurança, limitar a exposição a riscos e controlar o acesso a recursos, minimizando o impacto de chaves comprometidas.
+[Renovar tokens](/pt/tutorial/renovar-token-de-api]) periodicamente é importante para garantir a segurança, limitar a exposição a riscos e controlar o acesso a recursos, minimizando o impacto de chaves comprometidas.
 
 ![token-renewal-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/chaves-de-api/configurar-alerta-para-renovar-tokens-de-api_1.png)
 
@@ -32,7 +32,7 @@ Por padrão, o alerta de renovação aparece após 3 meses, a não ser que outra
 
 A periodicidade do alerta será aplicada a todas as chaves novas e existentes e terá a data de criação da chave como referência para a contagem do tempo.
 
-> ℹ️ O token não expira após o prazo definido. A configuração determina apenas quando a interface vai recomendar a renovação, sem desabilitar a utilização do token. O alerta funciona como um lembrete para [renovar manualmente o token](/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3).
+> ℹ️ O token não expira após o prazo definido. A configuração determina apenas quando a interface vai recomendar a renovação, sem desabilitar a utilização do token. O alerta funciona como um lembrete para [renovar manualmente o token](/pt/tutorial/renovar-token-de-api).
 
 ## Exibição do alerta
 
@@ -46,10 +46,10 @@ Ao atingir o prazo definido, o alerta para renovação aparece ao lado da chave 
 
 O alerta vermelho significa que o token está em uso há 3 meses ou mais além do prazo determinado.
 
-Quando visualizar uma chave com o alerta, [renove o token](/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3) assim que possível. Após a renovação, o alerta reaparece após o período selecionado (3 ou 6 meses), considerando a data de renovação mais recente como ponto de partida para a contagem do tempo.
+Quando visualizar uma chave com o alerta, [renove o token](/pt/tutorial/renovar-token-de-api) assim que possível. Após a renovação, o alerta reaparece após o período selecionado (3 ou 6 meses), considerando a data de renovação mais recente como ponto de partida para a contagem do tempo.
 
 ## Saiba mais
 
-* [Chaves de API](/pt/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6)  
-* [Chaves geradas](/pt/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc)  
-* [Renovar token de API](/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3)
+* [Chaves de API](/pt/tutorial/chaves-de-api)  
+* [Chaves geradas](/pt/tutorial/chaves-geradas)  
+* [Renovar token de API](/pt/tutorial/renovar-token-de-api)

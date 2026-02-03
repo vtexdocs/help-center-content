@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Identity
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: external-keys
-legacySlug: chaves-terceiras
+legacySlug: chaves-externas
 locale: pt
 subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 ---
 
-As chaves de API externas são credenciais geradas e administradas por outras contas VTEX. Ao adicionar [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) às chaves de API — o equivalente a nomes de usuário — fornecidas por terceiros, você pode permitir que eles acessem recursos específicos na sua conta.
+As chaves de API externas são credenciais geradas e administradas por outras contas VTEX. Ao adicionar [perfis de acesso](/pt/tutorial/perfis-de-acesso) às chaves de API — o equivalente a nomes de usuário — fornecidas por terceiros, você pode permitir que eles acessem recursos específicos na sua conta.
 
 A aba **Externas** apresenta a listagem de chaves de API de terceiros adicionadas à sua conta.
 
@@ -40,11 +40,11 @@ Esta página permite que você realize as seguintes ações:
 
 Para adicionar uma chave de terceiros à sua conta, siga os passos abaixo:
 
-1. Na barra superior do Admin VTEX, clique no **avatar do seu perfil**, marcado pela inicial do seu email, e depois em *Configurações da conta \> Chaves de API*.  
+1. Na barra superior do Admin VTEX, clique no **avatar do seu perfil**, marcado pela inicial do seu email, e depois em *Configurações da conta > Chaves de API*.  
 2. Clique na aba **Externas**.  
 3. Clique em `+ Adicionar chave`.  
 4. Preencha o campo **Identificação da chave externa** com o nome para identificar a chave de API.   
-5. Selecione os [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) que serão associados à chave. Por padrão, nenhum perfil de acesso é pré-selecionado.
+5. Selecione os [perfis de acesso](/pt/tutorial/perfis-de-acesso) que serão associados à chave. Por padrão, nenhum perfil de acesso é pré-selecionado.
 
    > ❗ Marque apenas os perfis de acesso necessários para a integração que utilizará a chave de API. O uso irrestrito de perfis de acesso muito permissivos aumenta o risco de ataques nas lojas por vazamento de credenciais de login.
 
@@ -71,6 +71,6 @@ Para remover uma chave de API de terceiros, siga as instruções abaixo:
 
 ## Saiba mais
 
-* [Chaves de API](/pt/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6)
-* [Configurar alerta para renovar tokens de API](/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)
-* [Chaves geradas](/pt/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc)
+* [Chaves de API](/pt/tutorial/chaves-de-api)
+* [Configurar alerta para renovar tokens de API](/pt/tutorial/configurar-alerta-para-renovar-tokens-de-api)
+* [Chaves geradas](/pt/tutorial/chaves-geradas)

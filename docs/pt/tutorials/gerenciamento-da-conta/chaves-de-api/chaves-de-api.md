@@ -39,7 +39,7 @@ A página **Chaves de API** no Admin VTEX permite gerenciar as chaves de API com
 
 * [Exportar chaves de API](/pt/tutorial/exportar-chaves-de-api--1p4eYJWD26gOdicUdiiGC5): fazer download de uma planilha com informações sobre as chaves de API geradas e externas.
 
-* [Configurações](/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ): definir o período para recomendação de renovação dos tokens. Quando um token atingir o limite estabelecido, a interface alertará sobre a necessidade de renovação. Essa configuração se aplica a todos os tokens de chave.
+* [Configurações](/pt/tutorial/configurar-alerta-para-renovar-tokens-de-api): definir o período para recomendação de renovação dos tokens. Quando um token atingir o limite estabelecido, a interface alertará sobre a necessidade de renovação. Essa configuração se aplica a todos os tokens de chave.
 
    > ℹ️ O token não expira após o prazo definido. A configuração determina apenas quando a interface vai recomendar a renovação.
 
@@ -66,7 +66,7 @@ Saiba mais sobre cada recurso em [Recursos do License Manager](/pt/tutorial/recu
 
 ## Saiba mais
 
-* [Configurar alerta para renovar tokens de API](/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)  
-* [Chaves externas](/pt/tutorial/chaves-terceiras--1isU0HfKkeg0atlxRha14Q)  
-* [Chaves geradas](/pt/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc)  
-* [Renovar token de API](/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3)
+* [Configurar alerta para renovar tokens de API](/pt/tutorial/configurar-alerta-para-renovar-tokens-de-api)  
+* [Chaves externas](/pt/tutorial/chaves-externas)  
+* [Chaves geradas](/pt/tutorial/chaves-geradas)  
+* [Renovar token de API](/pt/tutorial/renovar-token-de-api)
