@@ -26,11 +26,13 @@ Siga as etapas abaixo para acessar a área de templates de promoção no Admin V
 4. Clique em `Salvar como template`.
 5. No modal **Salvar como template**, preencha:
 
-    - Nome (obrigatório)
-    - Descrição (opcional)
+    - Nome (obrigatório): identificação do template na lista de templates.
+    - Descrição (opcional): breve explicação sobre o objetivo ou o tipo de promoção que o template representa.
 6. Clique em `Salvar`.
 
-Após a criação, o template fica disponível na página **Templates**. O formulário usado no processo continua sendo um formulário de promoção e não é convertido automaticamente em template. Caso a promoção tenha um orçamento configurado, essa configuração não é salva no template.
+Após a criação, o template fica disponível na aba **Templates**, acessível em **Promoções > Promoções > Criar promoção > Templates**.
+
+O formulário usado no processo continua sendo um formulário de promoção e não é convertido automaticamente em template. Caso a promoção tenha um orçamento configurado, essa configuração não é salva no template.
 
 ## Criar uma promoção a partir de um template
 
@@ -47,7 +49,7 @@ Ao selecionar um template:
 - O formulário é carregado com os campos preenchidos conforme o template.
 - Campos que não fazem parte do template permanecem sem preenchimento e devem ser configurados manualmente.
 
-> ℹ️ Você cria esta promoção a partir de um template. As alterações feitas aqui não afetam o template original.
+> ℹ️ As alterações feitas na promoção não afetam o template original.
 
 ## Editar um template de promoção
 
@@ -74,8 +76,7 @@ Para deletar um template, siga as etapas abaixo:
 4. Selecione o template que deseja alterar, e clique no ícone <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
 5. Clique em `Deletar`.
 
-> ⚠️ A exclusão do template é permanente. Feito isso, ele deixa de aparecer na lista de templates.
-Promoções já criadas a partir dele não são impactadas.
+> ⚠️ A exclusão do template é permanente. Feito isso, ele deixa de aparecer na lista de templates. Promoções já criadas a partir dele não são afetadas.
 
 ## Criar template vazio
 
