@@ -59,7 +59,7 @@ The following steps describe the minimum configurations to be carried out so tha
 17. In **Tipos de pagamento excluídos** ("Excluded payment types"), describe the specific brands of credit, debit, and ticket (Visa, Mastercard, and others) that you do not want to offer through Checkout Pro, learn more at [Exclude payment types and methods](https://www.mercadopago.com.br/developers/en/docs/vtex/payments-configuration/checkout-pro/exclude-payment-types-methods). If you choose to leave this field blank, all payment types available in MercadoPagoV2 can be used in your store.
 18. In **Modo de processamento** ("Processing Mode"), select the option **Aggregator**.
 19. In **Integrator ID**, indicate the identifying code of the developer or agency that configures Mercado Pago.
-20. The **Moeda** ("Currency") field identifies the currency used for payment in the store. It is not necessary to fill it.
+20. The **Moeda** ("Currency") field identifies the currency used for payment in the store. It's not necessary to fill it.
 21. The **Merchant Account ID** field identifies the trading account. It is not necessary to fill it.
 22. In **Prazo de captura de pagamento aprovado** ("Approved payment capture deadline"), select the desired deadline for payment capture.
 23. In **Tempo para cancelar compras de um carrinho abandonado**, enter the time interval to wait until the enabled payment methods are not available to make the purchase.
