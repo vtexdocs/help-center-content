@@ -23,12 +23,12 @@ Para isso, será necessário incluir um trecho de código JavaScript no arquivo 
 
 ## Localizar o ID da condição de pagamento
 
-Em uma das etapas de configuração do `checkout-instore-custom.js`, será necessário informar os IDs das condições de pagamento. Para encontrá-los, siga os passos abaixo:
+Em uma das etapas de configuração do `checkout-instore-custom.js`, é preciso informar os IDs das condições de pagamento. Para encontrá-los, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Configurações da loja > Pagamentos > Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Na aba **Condições de pagamento**, identifique a opção desejada. Caso queira, use a barra de busca.
-3. O ID é o código numérico que aparece no topo direito da condição de pagamento. Por exemplo, o ID de `DINHEIRO` é 201:
+2. Na aba **Condições de pagamento**, identifique a opção desejada. Caso queira, filtre os resultados usando a barra de busca.
+3. O ID é o código numérico que aparece no topo direito da condição de pagamento. No exemplo abaixo, o ID de `DINHEIRO` é 201:
 
 ![INSERT IMAGE](link)
 
-> ℹ️ As informações completas para disponibilizar os meios e condições de pagamento no **VTEX Sales App** estão disponíveis no guia [Define payment methods displayed on VTEX Sales App](https://developers.vtex.com/docs/guides/define-payment-methods-displayed-on-vtex-sales-app).
+> ℹ️ As informações completas para disponibilizar os meios de pagamento no **VTEX Sales App** estão disponíveis no guia [Define payment methods displayed on VTEX Sales App](https://developers.vtex.com/docs/guides/define-payment-methods-displayed-on-vtex-sales-app).
