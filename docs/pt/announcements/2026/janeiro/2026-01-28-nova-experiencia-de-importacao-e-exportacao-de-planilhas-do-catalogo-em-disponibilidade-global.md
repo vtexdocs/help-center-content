@@ -2,7 +2,7 @@
 title: 'Nova experiência de importação e exportação de planilhas do Catálogo em disponibilidade global'
 status: PUBLISHED
 createdAt: 2026-01-28T00:00:00.000Z
-updatedAt: 2026-01-28T00:00:00.000Z
+updatedAt: 2026-04-02T00:00:00.000Z
 publishedAt: 2026-01-28T00:00:00.000Z
 contentType: updates
 productTeam: Catálogo
@@ -10,6 +10,12 @@ author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: 2026-01-28-general-availability-of-new-catalog-spreadsheet-import-and-export-experience
 locale: pt
 announcementSynopsisPT: 'Interface redesenhada que oferece exportação por filtros e acompanhamento de status.'
+tags:
+  - Catálogo
+  - Importação
+  - Produto
+  - Produtos
+  - SKU
 ---
 
 Até o final de fevereiro de 2026, todas as lojas VTEX terão acesso à nova experiência de importação e exportação de planilhas de produtos e SKUs, especificações e imagens. A migração das contas está sendo feita gradualmente e será aplicada às lojas de todas as regiões.
