@@ -22,7 +22,7 @@ tags:
 
 No Master Data v1, os formulários de Cliente e Endereço são criados por padrão somente na loja principal da conta. Por isso, ao criar uma [multiloja](/pt/tutorial/criar-subconta-multiloja-multidominio--tutorials_510), os formulários não são criados automaticamente.
 
-> ⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais: <ul> <li> [ Características das versões do Master Data ](/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/vtex-rest-api/docs/getting-started-1) </li> </ul>
+> ⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais: <ul> <li> [ Características das versões do Master Data ](/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/docs/guides/master-data-v2-basics) </li> </ul>
 
 ## Solução
 
