@@ -15,7 +15,7 @@ trackSlugEN: vtex-sales-app-payments
 order: 6
 ---
 
-Após realizar as configurações de pagamento da sua loja, é preciso criar filtros para disponibilizar os meios de pagamento para os clientes no checkout do **VTEX Sales App**.
+Após configurar os meios de pagamento da sua loja, é preciso criar filtros para disponibilizá-los para os clientes no checkout do **VTEX Sales App**.
 
 Para isso, será necessário incluir um trecho de código JavaScript no arquivo `checkout-instore-custom.js` da sua loja. O passo a passo completo está disponível no guia [Define payment methods displayed on VTEX Sales App](https://developers.vtex.com/docs/guides/define-payment-methods-displayed-on-vtex-sales-app).
 
@@ -23,12 +23,12 @@ Para isso, será necessário incluir um trecho de código JavaScript no arquivo 
 
 ## Localizar o ID da condição de pagamento
 
-Em uma das etapas de configuração do `checkout-instore-custom.js`, é preciso informar os IDs das condições de pagamento. Para encontrá-los, siga os passos abaixo:
+Em uma das etapas de configuração do `checkout-instore-custom.js`, é preciso informar os IDs das condições de pagamento. Para identificá-los, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Configurações da loja > Pagamentos > Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Na aba **Condições de pagamento**, identifique a opção desejada. Caso queira, filtre os resultados usando a barra de busca.
-3. O ID é o código numérico que aparece no topo direito da condição de pagamento. No exemplo abaixo, o ID de `DINHEIRO` é 201:
+2. Na aba **Condições de pagamento**, busque a opção desejada. Caso queira, filtre os resultados usando a barra de busca.
+3. O ID do meio de pagamento é o código numérico que aparece no topo direito. No exemplo a seguir, o ID do `Mastercard` com parcelamento de 1x a 10x é `4`:
 
 ![INSERT IMAGE](link)
 
-> ℹ️ As informações completas para disponibilizar os meios de pagamento no **VTEX Sales App** estão disponíveis no guia [Define payment methods displayed on VTEX Sales App](https://developers.vtex.com/docs/guides/define-payment-methods-displayed-on-vtex-sales-app).
+> ℹ️ As informações completas para definir os meios de pagamento exibidos no **VTEX Sales App** estão disponíveis no guia [Define payment methods displayed on VTEX Sales App](https://developers.vtex.com/docs/guides/define-payment-methods-displayed-on-vtex-sales-app).
