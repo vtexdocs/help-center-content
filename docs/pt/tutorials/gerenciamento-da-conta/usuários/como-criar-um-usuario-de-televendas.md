@@ -15,31 +15,27 @@ locale: pt
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
-Este artigo explica como cadastrar um usuário com o [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) de televendas. Para mais informações sobre perfis de acessos e como configurá-los, veja o artigo [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+Este artigo explica como cadastrar um usuário com um perfil de acesso de televendas. Para mais informações sobre perfis de acessos e como configurá-los, veja o artigo [Perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso).
 
-## Os perfis de televendas
+Por meio dos perfis de televendas, o lojista pode dar permissão de acesso a usuários da área de televendas para atender clientes e realizar operações de venda.
 
-Por meio dos perfis de televendas, o lojista pode dar permissão de acesso a usuários da área de televendas.
+> ℹ️ Usuários com perfil de Call Center Operator têm acesso restrito ao ambiente de televendas da loja. Eles não têm acesso aos módulos administrativos do Admin VTEX, como Catálogo, Pagamentos, Promoções, entre outros. O acesso é limitado exclusivamente às funcionalidades necessárias para realizar vendas assistidas em nome dos clientes.
 
-Utilizando um desses perfis, quando o usuário faz seu login, ele é redirecionado para o site de televendas e consegue fazer operações na loja em nome do cliente final.
-
-## Criação do usuário de televendas
+Ao fazer login, o usuário com perfil de televendas é automaticamente redirecionado para o site de televendas, onde pode fazer operações na loja em nome do cliente final.
 
 Para criar um usuário com perfil de televendas, siga os seguintes passos:
 
 1. Clique em **Gerenciamento da conta** > **Perfis de acesso**.
-
 2. Clique no botão **Novo Perfil**.
+3. No menu **Escolher perfil de acesso**, selecione um dos perfis de televendas:
 
-3. No menu **Escolher perfil de acesso**, selecione **_Call center operator_** ou **_Call center operator (restricted order views)_**. O primeiro perfil dá acesso a todos pedidos, e o segundo perfil dá acesso apenas aos pedidos criados pelo próprio usuário.
+   * **Call center operator**: Permite acesso às [funcionalidades de televendas](https://help.vtex.com/pt/tutorial/funcionalidades-de-televendas) e à visualização de todos os pedidos no módulo **Pedidos**.
+   * **Call center operator (restricted order views)**: Permite acesso às funcionalidades de televendas, mas permite visualizar apenas os pedidos criados pelo próprio usuário.
 
-4. Na caixa de texto **Adicionar usuários para este perfil de acesso**, digite o email do usuário ao que deseja atribuir o perfil de televendas.
-
-5. Clique no botão **Adicionar**.
-
+   Para mais detalhes sobre os recursos de cada perfil, consulte [Perfis de acesso predefinidos](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#call-center-operator).
+4. No campo **Adicionar usuários para este perfil de acesso**, digite o email do usuário ao que deseja atribuir o perfil de televendas.
+5. Clique no botão `Adicionar`.
 6. Caso queira adicionar mais usuários, repita os passos 4 e 5. 
+7. Clique no botão `Salvar`.
 
-7. Clique no botão **Salvar**.
-
-> ⚠️ Ao criar um [perfil](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), evite incluir [recursos](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) de televendas junto com outros recursos. Do contrário, o perfil pode não funcionar como esperado.
-
+> ⚠️ Ao criar um [perfil](https://help.vtex.com/pt/tutorial/perfis-de-acesso), evite incluir [recursos](https://help.vtex.com/pt/tutorial/recursos-do-license-manager) de televendas junto com outros recursos. Do contrário, o perfil pode não funcionar como esperado.
