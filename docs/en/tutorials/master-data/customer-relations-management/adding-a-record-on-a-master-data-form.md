@@ -19,7 +19,7 @@ To add a record in a Master Data form, you need to access Master Data and choose
 
 Fields can be configured as editable or not directly in the data entity. Learn more in [Data entity](/en/tutorial/entidade-de-dados--tutorials_1265).
 
-> ⚠️ This article covers Master Data v1. It is important to evaluate which version of Master Data meets your needs or is used in your operation. Learn more: <ul> <li> [ Master Data version features ](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/vtex-rest-api/docs/getting-started-1) </li> </ul>
+> ⚠️ This article covers Master Data v1. It is important to evaluate which version of Master Data meets your needs or is used in your operation. Learn more: <ul> <li> [ Master Data version features ](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/docs/guides/master-data-v2-basics) </li> </ul>
 
 ## Adding a record
 
