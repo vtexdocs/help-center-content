@@ -25094,6 +25094,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Master Data",
+                    "es": "Master Data",
+                    "pt": "Master Data"
+                  },
+                  "slug": {
+                    "en": "master-data",
+                    "es": "master-data",
+                    "pt": "master-data"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Data entity",
                     "es": "Entidad de datos",
                     "pt": "Entidade de dados"
