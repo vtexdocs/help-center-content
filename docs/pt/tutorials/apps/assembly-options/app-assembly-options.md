@@ -3,7 +3,7 @@ title: 'App Assembly Options'
 id: 54mWg37mojrqOgCA79iqqk
 status: PUBLISHED
 createdAt: 2022-06-14T10:43:51.397Z
-updatedAt: 2023-03-29T14:51:54.670Z
+updatedAt: 2026-02-04T14:51:54.670Z
 publishedAt: 2023-03-29T14:51:54.670Z
 firstPublishedAt: 2022-06-22T19:48:18.050Z
 contentType: tutorial
@@ -21,7 +21,27 @@ Na VTEX, é possível disponibilizar opções de customização de produtos util
 
 O [app Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p) disponibiliza uma interface para configurar e gerenciar as opções de customização em lojas que utilizam [VTEX IO](https://vtex.com/br-pt/store-framework/), como alternativa à implementação de Assembly Options pelos anexos do Catálogo.
 
-## Instalação 
+## Limite de recursão de Assembly Options
+
+Durante a adição das informações dos assemblies a um carrinho, a funcionalidade tem um limite de recursão de 20 SKUs. Esse limite pode ser atingido em casos de encadeamentos complexos de assembly options, como pode ser visto nos exemplos a seguir:
+
+* Cadeias com mais de 20 assemblies:
+    * O SKU 1 possui a assembly option A cadastrada.
+    * A assembly option A possui SKUs como componentes, cada um com uma assembly option B cadastrada.
+    * Assembly option possui SKUs como componentes, cada um com uma assembly option C cadastrada, e assim por diante.
+
+![IMAGE_1](Link)
+
+Encadeamentos cíclicos de assemblies com muitos SKUs em suas opções de componentes, exemplo:
+SKU A possui Assembly A cadastrado
+Assembly A possui 10 SKUs como componentes, cada um com assembly B cadastrado
+Assembly B possui 10 SKUs como componentes, cada um com assembly A cadastrado
+
+![IMAGE_2](Link)
+
+Nesses cenários, é recomendável revisar a modelagem dos assemblies, simplificando a estrutura ou removendo referências cíclicas para evitar o estouro do limite de recursão.
+
+## Instalação
 
 Você pode instalar o aplicativo gratuitamente pela [VTEX App Store](https://apps.vtex.com/vtex-admin-assembly-options/p) ou pelo [VTEX IO CLI](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference), seguindo os passos do [guia para desenvolvedores Assembly Options](https://developers.vtex.com/vtex-developer-docs/docs/assembly-options-app).
 
