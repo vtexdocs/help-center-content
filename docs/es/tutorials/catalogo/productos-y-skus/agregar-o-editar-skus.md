@@ -60,7 +60,7 @@ En las siguientes secciones se describen los campos del formulario, incluyendo d
 La primera parte incluye el nombre y activación del SKU:
 
 * **Nombre*:** ingresa el nombre del SKU, es decir, la identificación de la variante del producto. El nombre tiene un límite de 200 caracteres. Ejemplo: para el producto "Refrigerador", el nombre del SKU puede ser "436 L".
-* **Activo:** para activar el SKU que estás creando, habilita el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i>. Para mantenerlo inactivo, deja el botón de alternancia deshabilitado <i class="fas fa-toggle-off" aria-hidden="true"></i>. Si el SKU no está disponible para la venta después de activarlo, consulta el artículo [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
+* **Activo:** para activar el SKU que estás creando, habilita el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i>. Para mantenerlo inactivo, deja el botón de alternancia deshabilitado <i class="fas fa-toggle-off" aria-hidden="true"></i>. Si el SKU no está disponible para la venta después de activarlo, consulta el artículo [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web).
 
 ## Especificaciones
 
@@ -109,7 +109,7 @@ Además de agregar nuevas imágenes a un SKU, puedes replicar las imágenes de u
 2. En la ventana modal **Escoge los SKUs en que deseas replicar los elementos multimedia**, haz clic en los SKUs a los que deseas agregar las imágenes copiadas.
 3. Haz clic en `Aplicar`.
 
-> ⚠️ Uno de los requisitos para activar un SKU es que tenga al menos una imagen. Para más información sobre las condiciones para mostrar un ítem en el storefront, consulta el artículo [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
+> ⚠️ Uno de los requisitos para activar un SKU es que tenga al menos una imagen. Para más información sobre las condiciones para mostrar un ítem en el storefront, consulta el artículo [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web).
 
 ### Videos
 

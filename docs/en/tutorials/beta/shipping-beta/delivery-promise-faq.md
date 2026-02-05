@@ -45,11 +45,11 @@ The merchant must ensure that the following product aspects are correctly config
 * Product count in the [inventory](/en/tutorial/gerenciar-inventario--tutorials_139) for sales, unlimited inventory, or the option to display the product when sold out is activated.
 * [CMS](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) templates for the store frontend.
 
-> ℹ️ For more information, see the article [Why is the product not visible on the website?](/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
+> ℹ️ For more information, see the article [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website).
 
 ### 2. Does Delivery Promise (Beta) guarantee that all my products will be displayed on the product listing page?
 
-When the necessary settings for displaying the product on the product listing page are correct, **Delivery Promise (Beta)** displays the complete assortment of products and their respective sellers on the product listing page. If a product is unavailable due to incorrect settings or a lack of stock, it will not be displayed on the product listing page, even with the new feature. For more information, see the article [Why is the product not visible on the website?](/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
+When the necessary settings for displaying the product on the product listing page are correct, **Delivery Promise (Beta)** displays the complete assortment of products and their respective sellers on the product listing page. If a product is unavailable due to incorrect settings or a lack of stock, it will not be displayed on the product listing page, even with the new feature. For more information, see the article [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website).
 
 ### 3. Regarding product availability, how can I ensure the product will be displayed on the product listing page?
 

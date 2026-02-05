@@ -41,4 +41,4 @@ No se requiere ninguna acción. La actualización será automática para todas l
 
 Para obtener más información sobre cómo utilizar la interfaz, consulta el artículo [Vínculos de SKU](/es/tutorial/vinculos-de-sku--1SmrVgNwjJX17hdqwLa0TX).
 
-Esta página sigue el diseño del [Nuevo Admin VTEX](/es/announcements/bienvenido-al-nuevo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa), con un aspecto más sencillo, moderno y fácil de usar. Para acceder a más páginas con esta experiencia, además de un Admin mejorado con datos procesables, [únete](https://content.vtex.com/join-new-admin-beta-program-es/?utm_source=announcement&utm_medium=help_center&utm_campaign=sku_bindings) al programa Beta del nuevo Admin VTEX.
+Esta página sigue el diseño del [Nuevo Admin VTEX](/es/announcements/2022-06-13-bienvenido-al-nuevo-admin-vtex), con un aspecto más sencillo, moderno y fácil de usar. Para acceder a más páginas con esta experiencia, además de un Admin mejorado con datos procesables, [únete](https://content.vtex.com/join-new-admin-beta-program-es/?utm_source=announcement&utm_medium=help_center&utm_campaign=sku_bindings) al programa Beta del nuevo Admin VTEX.

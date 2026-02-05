@@ -33,7 +33,7 @@ A plataforma VTEX se organiza em diferentes módulos, cada um deles responsável
 Não existem configurações prévias que devam ser realizadas antes das configurações no Catálogo, mas vale ressaltar os seguintes pontos de atenção:
 
 - __Navegação do cliente no site:__ é importante que a loja planeje como deseja organizar sua [árvore de categorias](#arvore-de-categorias) e saber de antemão qual experiência de navegação deseja promover aos clientes na hierarquia de categorias.
-- __Tornar produtos disponíveis para clientes:__ para [disponibilizar um produto na loja](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382), após as configurações de Catálogo, é preciso que o SKU tenha [preço](#precos) cadastrado e [logística](#logistica) para envio. Além disso, o CMS da loja precisa estar configurado corretamente.
+- __Tornar produtos disponíveis para clientes:__ para [disponibilizar um produto na loja](/pt/faq/por-que-o-produto-nao-aparece-no-site), após as configurações de Catálogo, é preciso que o SKU tenha [preço](#precos) cadastrado e [logística](#logistica) para envio. Além disso, o CMS da loja precisa estar configurado corretamente.
 
 ### Arquitetura do Catálogo
 

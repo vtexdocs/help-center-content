@@ -190,5 +190,5 @@ Los status posibles son:
 - **Resuelto:** ticket resuelto por el agente de soporte o por el usuario. El usuario dispone de 27 horas laborables para reabrir el ticket respondiendo el email de soporte o accediendo al Historial de solicitudes. En caso contrario, se cerrará el ticket.
 - **Cerrado:** ticket marcado como resuelto y cerrado automáticamente tras 27 horas laborables sin interacción. Los tickets cerrados no pueden reabrirse.
 
-Una vez resuelto el ticket, el equipo de soporte enviará un email con un link a la [encuesta de satisfacción](/es/announcements/avalie-o-atendimento-da-vtex-pelo-seu-admin--7rSJLgGbtRw2GhjTJezkJf). A través de esta encuesta puedes calificar el servicio sin salir del entorno VTEX y contribuir a la mejora continua del soporte.
+Una vez resuelto el ticket, el equipo de soporte enviará un email con un link a la [encuesta de satisfacción](/es/announcements/2022-01-13-evalua-el-servicio-vtex-en-tu-admin). A través de esta encuesta puedes calificar el servicio sin salir del entorno VTEX y contribuir a la mejora continua del soporte.
 

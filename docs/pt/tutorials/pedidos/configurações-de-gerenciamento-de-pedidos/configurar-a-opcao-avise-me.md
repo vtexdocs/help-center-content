@@ -70,4 +70,4 @@ Para configurar o template de emails de **Avise-me** a serem enviados para o cli
 
 * [Exportar os clientes cadastrados na notificação de disponibilidade (Avise-me)](/pt/tutorial/como-exportar-os-clientes-cadastrados-no-avise-me--3Yr19DMQukGeIImUeCwIao)
 * [Inserir imagens no email de "Avise-me"](/pt/tutorial/inserir-imagens-no-email-de-avise-me--3soCXGcE3XBPsnPhxJh2DY)
-* [O que fazer quando o "Avise-me" não está sendo exibido](/pt/faq/o-que-fazer-quando-o-avise-me-nao-esta-sendo-exibido--oNb6JK1LPMOQwYsecKKCs)
+* [O que fazer quando o "Avise-me" não está sendo exibido](/pt/faq/o-que-fazer-quando-o-avise-me-nao-esta-sendo-exibido)

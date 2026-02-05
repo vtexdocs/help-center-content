@@ -45,11 +45,11 @@ El retailer debe verificar que los siguientes aspectos del producto estén corre
 * Recuento del [stock](/es/tutorial/gerenciar-inventario--tutorials_139) del producto para ventas, o stock ilimitado configurado o posibilidad de activar la opción para mostrar el producto cuando esté agotado.
 * Plantillas de [CMS](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) configuradas para el frontend de la tienda.
 
-> ℹ️ Para más información, consulta [¿Por qué el producto no se muestra en el sitio web?](/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
+> ℹ️ Para más información, consulta [¿Por qué el producto no se muestra en el sitio web?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web).
 
 ### 2. ¿Delivery Promise (Beta) garantiza que todos mis productos se mostrarán en la vitrina?
 
-Cuando se configuran correctamente los ajustes necesarios para que el producto se muestre en la vitrina, **Delivery Promise (Beta)** muestra todo el surtido de tus productos y de los productos de tus sellers en la vitrina de la tienda. Si un producto no está disponible debido a configuraciones incorrectas o a la falta de stock, no se mostrará en la vitrina, incluso con la nueva funcionalidad. Para saber más, consulta [¿Por qué el producto no se muestra en el sitio web?](/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
+Cuando se configuran correctamente los ajustes necesarios para que el producto se muestre en la vitrina, **Delivery Promise (Beta)** muestra todo el surtido de tus productos y de los productos de tus sellers en la vitrina de la tienda. Si un producto no está disponible debido a configuraciones incorrectas o a la falta de stock, no se mostrará en la vitrina, incluso con la nueva funcionalidad. Para saber más, consulta [¿Por qué el producto no se muestra en el sitio web?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web).
 
 ### 3. ¿Cómo puedo garantizar que el stock del producto se muestre en la vitrina?
 

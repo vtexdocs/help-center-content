@@ -202,7 +202,7 @@ On the **Manage order items** page, you can undo a modification if you want. To 
 
 In any [type of order modification](#types-of-order-modifications) on the **Manage order items** page, when you click `Review and Apply,` the modification may not be approved, which redirects you back to the order details page. Some of the reasons for modifications being rejected are:
 
-- **Unavailable item:** The SKU may [not be displayed on the store's website](/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) or may be unavailable due to an error or missing catalog, price, or logistics settings.
+- **Unavailable item:** The SKU may [not be displayed on the store's website](/en/faq/why-is-the-product-not-visible-on-the-website) or may be unavailable due to an error or missing catalog, price, or logistics settings.
 - **Insufficient inventory:** The number of items added or replaced in the modification may be greater than the number of items available for sale in your [inventory](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139).
 
 If the Catalog and inventory settings are correct and modifications to orders return errors, this might indicate a problem with the platform's processing. In this case, we recommend contacting our [support team](https://supporticket.vtex.com/support).

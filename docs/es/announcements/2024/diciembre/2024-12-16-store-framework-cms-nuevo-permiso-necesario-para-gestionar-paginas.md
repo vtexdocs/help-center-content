@@ -17,7 +17,7 @@ announcementSynopsisES: 'Para gestionar páginas en Store Framework CMS es neces
 
 [Páginas](/es/tutorial/paginas-vision-general--5iBUUJbK5NqG6OxlDrGNzc) es una funcionalidad del Store Framework CMS para gestionar todas las rutas de URL y las correspondientes plantillas de página del sitio web de tu tienda, como las páginas de inicio, de productos y de inicio de sesión. Por razones de seguridad, estamos exigiendo que los usuarios del Admin tengan un permiso específico para gestionar rutas y plantillas de página.
 
-> ⚠️ Como se [anunció anteriormente](/es/announcements/store-framework-cms-nuevo-permiso-para-gestionar-redirecciones--1GcT48ML2w6TZQxQyGbD6W), el rol `CMS Settings` ya era necesario para administrar redirecciones con Store Framework CMS.
+> ⚠️ Como se [anunció anteriormente](/es/announcements/2023-08-31-store-framework-cms-nuevo-permiso-para-gestionar-redirecciones), el rol `CMS Settings` ya era necesario para administrar redirecciones con Store Framework CMS.
 
 ## ¿Qué cambió?
 

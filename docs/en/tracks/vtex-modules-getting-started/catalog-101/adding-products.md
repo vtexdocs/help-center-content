@@ -23,7 +23,7 @@ There are different ways to add a product:
 
 > ℹ️ Before creating a product, you must have created and activated its corresponding brand and category.
 
-> ⚠️ If your product does not appear on your store's website after you have created it, check out the article [Why is the product not shown on the website?](/en/faq/why-is-the-product-not-shown-on-the-website--frequentlyAskedQuestions_382) to understand how to solve this problem.
+> ⚠️ If your product does not appear on your store's website after you have created it, check out the article [Why is the product not shown on the website?](/en/faq/why-is-the-product-not-visible-on-the-website) to understand how to solve this problem.
 
 ## VTEX Admin
 

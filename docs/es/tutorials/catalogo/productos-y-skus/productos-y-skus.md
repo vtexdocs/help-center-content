@@ -78,7 +78,7 @@ La siguiente tabla describe el significado de las opciones del filtro `Status`:
 
 | **Tipo de status** | **Descripción** |
 | :---: | :--- |
-| Activo | El producto se considera activo cuando el retailer activa la configuración del status en el producto para demostrar que desea venderlo.Para poder venderlo, el producto debe estar activo. Sin embargo, la activación no garantiza su disponibilidad, ya que un producto disponible debe cumplir con otros factores, como precio, stock, entre otros. Consulta más información en [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382). |
+| Activo | El producto se considera activo cuando el retailer activa la configuración del status en el producto para demostrar que desea venderlo.Para poder venderlo, el producto debe estar activo. Sin embargo, la activación no garantiza su disponibilidad, ya que un producto disponible debe cumplir con otros factores, como precio, stock, entre otros. Consulta más información en [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web). |
 | Inactivo | El producto se considera inactivo cuando el retailer desactiva la configuración de status para indicar que no desea venderlo en ese momento.Todo producto inactivo se clasifica como no disponible para la venta. |
 
 ## Monitorear disponibilidad de los productos
@@ -88,7 +88,7 @@ En la página **Productos y SKUs** cada producto tiene un ícono de color que in
 | **Color del ícono** | **Nombre** | **Significado** |
 | :---: | :---: | :--- |
 | Verde | `Disponible para la venta` | El producto tiene status activo y está disponible para la venta en la tienda; además tiene por lo menos una [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) asociada. |
-| Naranja | `Producto no disponible` | El producto no está disponible para la venta a pesar de tener status activo. Es decir, el retailer configuró el status para indicar que desea venderlo, pero por el momento no está disponible.La indisponibilidad del producto puede deberse a diferentes motivos, como precio, stock, logística, entre otros. Para más información, consulta el artículo [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382). |
+| Naranja | `Producto no disponible` | El producto no está disponible para la venta a pesar de tener status activo. Es decir, el retailer configuró el status para indicar que desea venderlo, pero por el momento no está disponible.La indisponibilidad del producto puede deberse a diferentes motivos, como precio, stock, logística, entre otros. Para más información, consulta el artículo [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web). |
 | Blanco | `Inactivo en el catálogo` | El producto está deshabilitado y tiene status inactivo.Los retailers desactivan un producto cuando no desean venderlo y en estos casos el seguimiento de la disponibilidad no se aplica. |
 
 Los íconos de disponibilidad del producto se aplican de la misma manera a los SKUs, según se describe en la sección a seguir.
@@ -145,6 +145,6 @@ En la parte superior derecha de la ventana, puedes copiar el contenido al portap
 * [Agregar o editar productos](/es/tutorial/agregar-o-editar-productos--29IkdEu6GofCFlltsZh2H8)
 * [Agregar o editar SKUs](/es/tutorial/agregar-o-editar-skus--4ryZ6J45kwn3jDiQBxGiiN)
 * [Llenar campos de registro de producto](/es/tutorial/campos-de-cadastro-de-produto)
-* [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382)
+* [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web)
 * [¿Qué ajustes de logística impactan la disponibilidad del producto en el carrito?](/es/tutorial/quais-configuracoes-logisticas-impactam-na-disponibilidade-do-produto-no-carrinho--NAyBFToRdvlDyOzeeAeNw)
 

@@ -29,7 +29,7 @@ Both products and SKUs can be either active or inactive, as shown in the table b
 
 | **Product or SKU status** | **Description** |
 | :---: | :--- |
-| Active | The product or SKU was activated, indicating that the merchant intends to sell it on the storefront.The sale of that product or SKU also depends on its activation and availability. For more information on product availability, see [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#tracking-product-availability) and [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website--frequentlyAskedQuestions_382). |
+| Active | The product or SKU was activated, indicating that the merchant intends to sell it on the storefront.The sale of that product or SKU also depends on its activation and availability. For more information on product availability, see [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#tracking-product-availability) and [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website). |
 | Inactive | The product or SKU is inactive, showing the merchant doesn't want it to display in the storefront for sale at the moment. |
 
 ## Deactivating a product

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
-For more on the Checkout v6 advantages, access our article on the [new SmartCheckout™ release](/en/announcements/dazzle-your-customer-with-the-new-smartcheckout-shopping-experience--47B91RA1WNhUfTNg5iGU0J).
+For more on the Checkout v6 advantages, access our article on the [new SmartCheckout™ release](/en/announcements/2019-05-21-dazzle-your-customer-with-the-new-smartcheckout-shopping-experience).
 
 To update your store's checkout to the latest version (Checkout v6), you must enable it in both Test and Production environments.
 

@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'The new interface for mapping categories and attributes will replace the mapping template.'
 ---
 
-Continuing the improvements made for [Mercado Libre certification](/en/announcements/vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil--34D14K2Y6ogJs3OxKpQUrJ), we are officially releasing the new interface for mapping categories and attributes to all VTEX clients that operate as sellers in Mercado Libre.
+Continuing the improvements made for [Mercado Libre certification](/en/announcements/2021-08-23-vtex-is-now-officially-a-certified-mercado-libre-partner-in-brazil), we are officially releasing the new interface for mapping categories and attributes to all VTEX clients that operate as sellers in Mercado Libre.
 
 Prior to certification, sellers had to fill out the [mapping template](/en/tutorial/mapeamento-de-categorias-variacoes-e-atributos-do-mercado-libre--4xNFUZZmboCSUVdLCFo6eA) with the categories and attributes of the products they wanted to list on Mercado Libre. The new interface for mapping categories and attributes will replace the mapping template.
 

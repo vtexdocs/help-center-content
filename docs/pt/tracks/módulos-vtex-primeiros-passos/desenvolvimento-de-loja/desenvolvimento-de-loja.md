@@ -33,7 +33,7 @@ Na VTEX, frentes de loja podem ser construídas através do CMS Portal (Legado),
 Também essencial para uma loja é o Admin ou, no caso da VTEX, o VTEX Admin. Nele é possível gerenciar todas as informações necessárias para a melhoria de performance do negócio e em tomadas de decisões mais embasadas. 
 
 ## VTEX IO
-Ainda com foco em performance e em prover a melhor experiência possível, a VTEX traz para o mercado o conceito de VTEX IO. VTEX IO é uma plataforma de desenvolvimento low-code e em nuvem, que permite que [seus desenvolvedores](https://partnerportal.vtex.com/) criem soluções para ecommerce. Seu objetivo é fornecer uma forma mais barata e eficiente de desenvolver soluções e integrações personalizadas dentro do ecossistema VTEX. 
+Ainda com foco em performance e em prover a melhor experiência possível, a VTEX traz para o mercado o conceito de VTEX IO. VTEX IO é uma plataforma de desenvolvimento low-code e em nuvem, que permite que [seus desenvolvedores](https://vtex.com/pt-br/parceiros/) criem soluções para ecommerce. Seu objetivo é fornecer uma forma mais barata e eficiente de desenvolver soluções e integrações personalizadas dentro do ecossistema VTEX. 
 
 Para isso, a plataforma oferece ao time de desenvolvimento da sua loja todas as ferramentas necessárias para que foquem na implementação do problema de negócio, sem precisar se preocupar com questões de compatibilidade e infraestrutura de software. VTEX IO possibilita tanto o desenvolvimento de frontend quanto de backend. 
 

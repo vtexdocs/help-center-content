@@ -25,7 +25,7 @@ Este artigo tem como objetivo auxiliar na escolha de qual tecnologia usar para c
 
 O foco da implementação de frontend é uma etapa com foco em definir as tecnologias a serem implementadas, de acordo com as necessidades do negócio relacionadas à frente de loja.
 
-> ℹ️ O frontend pode ser implementado pelo time de desenvolvimento interno da empresa ou pelos nossos [parceiros de implementação](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao). [Usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos) com acesso ao Admin VTEX podem consultar a lista dos nossos parceiros pelo [Partner Portal](https://partnerportal.vtex.com/).
+> ℹ️ O frontend pode ser implementado pelo time de desenvolvimento interno da empresa ou pelos nossos [parceiros de implementação](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao). [Usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos) com acesso ao Admin VTEX podem consultar a lista dos nossos parceiros pelo [Partner Portal](https://vtex.com/pt-br/parceiros/).
 
 ## Antes de começar
 

@@ -17,7 +17,7 @@ announcementSynopsisPT: 'Gerenciar páginas no Store Framework CMS exige acesso 
 
 [Páginas](/pt/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc) é uma funcionalidade do Store Framework CMS que gerencia todas as rotas de URL e os modelos de página correspondentes do site da sua loja, como a página inicial, de produto e de login. Por motivos de segurança, estamos exigindo que usuários do Admin possuam uma permissão específica para gerenciar as rotas e páginas de template dessa funcionalidade.
 
-> ⚠️ Conforme [anunciado anteriormente](/pt/announcements/store-framework-cms-nova-permissao-para-gerenciar-redirecionamentos--1GcT48ML2w6TZQxQyGbD6W), o recurso `CMS Settings` já era necessário para gerenciar redirecionamentos no Store Framework CMS.
+> ⚠️ Conforme [anunciado anteriormente](/pt/announcements/2023-08-31-store-framework-cms-nova-permissao-para-gerenciar-redirecionamentos), o recurso `CMS Settings` já era necessário para gerenciar redirecionamentos no Store Framework CMS.
 
 ## O que mudou?
 

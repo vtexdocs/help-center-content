@@ -33,7 +33,7 @@ If the value is `Yes`, you must configure the integration between your VTEX ware
 
 To use the **Warehouse assignment** feature, you must also:  
 
-- Have your account enabled for the new model for [adding products](/en/announcements/novo-modelo-de-anuncios-no-mercado-livre--3g7c72gcJk6WvKXNGfPTkb).  
+- Have your account enabled for the new model for [adding products](/en/announcements/2025-06-30-new-offer-model-on-mercado-libre).  
 - Have at least one offer using the new model.  
 - Have active warehouses in the [VTEX Shipping Strategy](/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) module.  
 

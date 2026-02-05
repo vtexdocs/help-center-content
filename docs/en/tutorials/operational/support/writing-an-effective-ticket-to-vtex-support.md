@@ -34,7 +34,7 @@ Before opening a ticket, check whether the problem is related to the store's cus
 
 ### Cart, Checkout and CMS Stores
 
-It is important to validate whether the scenario occurs without customizing the store. To run this test, disable customizations (JS and CSS) and try to reproduce the error. Learn more about this in the article[Blocking customizations to troubleshoot frontend issues](/en/faq/como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja--5c1a4bvVK8rAvKLczhkCnY).
+It is important to validate whether the scenario occurs without customizing the store. To run this test, disable customizations (JS and CSS) and try to reproduce the error. Learn more about this in the article[Blocking customizations to troubleshoot frontend issues](/en/faq/blocking-customizations-to-troubleshoot-front-end-issues).
 
 ### Store Framework
 To check if the problem is associated with IO, follow the steps below:

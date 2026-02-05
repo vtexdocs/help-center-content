@@ -112,7 +112,7 @@ Para auxiliar decisões sobre quais produtos e configurações incluir no planej
 
 ## Parceiros de implementação
 
-É comum a criação de uma loja contar com a participação de agências e [parceiros de implementação](https://vtex.com/br-pt/partner/) (System Integration Partners). A VTEX está associada a um vasto ecossistema de parceiros que foram reconhecidos por sua excelência e confiabilidade na criação de projetos de lojas VTEX. Desde que o [usuário](/pt/docs/tutorials/gerenciar-usuarios-administrativos) tenha uma permissão de acesso ao Admin VTEX de uma loja, é possível consultar a lista desses parceiros pelo [Partner Portal](https://partnerportal.vtex.com/) (somente português).
+É comum a criação de uma loja contar com a participação de agências e [parceiros de implementação](https://vtex.com/br-pt/partner/) (System Integration Partners). A VTEX está associada a um vasto ecossistema de parceiros que foram reconhecidos por sua excelência e confiabilidade na criação de projetos de lojas VTEX. Desde que o [usuário](/pt/docs/tutorials/gerenciar-usuarios-administrativos) tenha uma permissão de acesso ao Admin VTEX de uma loja, é possível consultar a lista desses parceiros pelo [Partner Portal](https://vtex.com/pt-br/parceiros/) (somente português).
 
 O [Quadrante VTEX](https://vtex.com/pt-br/blog/parceiros/quadrante_vtex_2023/) é um programa em que a VTEX avalia internamente a performance e os resultados de sucesso da operação dos seus parceiros. Esta é uma forma de reconhecer e premiar anualmente aqueles que apresentam o maior nível de entrega e excelência. Veja [aqui](https://vtex.com/pt-br/blog/parceiros/quadrante_vtex_2023/) o resultado do Quadrante de 2023.
 

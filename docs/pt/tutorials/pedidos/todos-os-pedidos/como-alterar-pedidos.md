@@ -202,7 +202,7 @@ Na página **Gerenciar itens do pedido**, se você se arrepender de alguma alter
 
 Em qualquer tipo de [alteração de pedido](#tipos-de-alteracao-de-pedidos), na página **Gerenciar itens do pedido**, ao clicar em `Revisar e aplicar`, pode ser que a alteração não seja aprovada, o que te faz ser redirecionado de volta para a página de detalhes do pedido. Alguns dos motivos para alterações serem negadas são:
 
-* **Item indisponível:** o SKU pode [não aparecer no site da loja](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) ou estar indisponível devido a erro ou falta de configurações de catálogo, preço ou logística. 
+* **Item indisponível:** o SKU pode [não aparecer no site da loja](/pt/faq/por-que-o-produto-nao-aparece-no-site) ou estar indisponível devido a erro ou falta de configurações de catálogo, preço ou logística. 
 * **Inventário insuficiente:** a quantidade de itens adicionados ou substituídos na alteração pode ser maior do que a quantidade de itens disponíveis para venda no seu [inventário](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).
 
 Se as configurações de **Catálogo** e inventário estiverem corretas e ainda assim as tentativas de alteração de pedidos resultarem em erro, pode ser um problema de processamento da plataforma. Neste caso, recomendamos entrar em contato com [nosso suporte](https://support.vtex.com/hc/pt-br/requests).

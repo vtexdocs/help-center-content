@@ -18,7 +18,7 @@ announcementSynopsisPT: 'Usuários agora precisam do recurso CMS GraphQL API par
 A partir de segunda-feira, 18 de março de 2024, todos os[ usuários](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) e [chaves de aplicação](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) que precisarem acessar o [Site Editor](/pt/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) e o [Mídia](/pt/tutorial/media-overview--31fhjHTt4TBoo50AmGQ9b2) deverão ter o[ recurso](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `CMS GraphQL API` do License Manager adicionados aos seus[ perfis de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) para o gerenciamento de conteúdo.
 
 ## O que mudou?
-Como [anunciado anteriormente para os usuários do Headless CMS](/pt/announcements/headless-cms-new-authorization-requirement--7G056zzZmGFBztkRqhpUgj), os usuários e as chaves de aplicação devem ter o recurso `CMS GraphQL API` associado aos seus perfis de acesso para gerenciar conteúdo.
+Como [anunciado anteriormente para os usuários do Headless CMS](/pt/announcements/2024-02-02-headless-cms-nova-solicitacao-de-autorizacao), os usuários e as chaves de aplicação devem ter o recurso `CMS GraphQL API` associado aos seus perfis de acesso para gerenciar conteúdo.
 
 Agora, estamos estendendo esse requisito para o Site Editor e o Mídia, o que significa que o recurso `CMS GraphQL API` é necessário para gerenciar conteúdo usando essas ferramentas.
 

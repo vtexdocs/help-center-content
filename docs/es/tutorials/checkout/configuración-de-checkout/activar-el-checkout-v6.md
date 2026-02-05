@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
-Para conocer las ventajas del Checkout v6, acceda a nuestro artículo sobre el [lanzamiento del nuevo SmartCheckout™](/es/announcements/encante-a-su-cliente-con-la-nueva-experiencia-de-compra-del-smartcheckout--47B91RA1WNhUfTNg5iGU0J)
+Para conocer las ventajas del Checkout v6, acceda a nuestro artículo sobre el [lanzamiento del nuevo SmartCheckout™](/es/announcements/2019-05-21-encante-a-su-cliente-con-la-nueva-experiencia-de-compra-del-smartcheckout)
 
 Para actualizar el checkout de su tienda a la última versión (Checkout v6), debe habilitarlo en los ambientes de Prueba y Producción.
 

@@ -202,7 +202,7 @@ En la página **Gestionar ítems del pedido**, puedes deshacer las modificacione
 
 En cualquier tipo de [modificación de pedido](#tipos-de-modificaciones-en-los-pedidos), en la página **Gestionar ítems del pedido**, al hacer clic en `Revisar y aplicar`, es posible que la modificación no se apruebe. En este caso, serás redirigido nuevamente a la página de detalles del pedido. Algunos de los motivos por los que se deniegan los cambios son:
 
-* **Ítem no disponible:** el SKU puede [no aparecer en el sitio web de la tienda](/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) o no estar disponible por un error o falta de configuración de catálogo, precio o logística. 
+* **Ítem no disponible:** el SKU puede [no aparecer en el sitio web de la tienda](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web) o no estar disponible por un error o falta de configuración de catálogo, precio o logística. 
 * **Stock insuficiente:** la cantidad de ítems agregados o sustituidos en la modificación puede ser superior a la cantidad de ítems disponibles para la venta en tu [stock](/es/tutorial/gerenciar-inventario--tutorials_139).
 
 Si la configuración del catálogo y del stock es correcta y los intentos de modificar los pedidos siguen dando error, podría tratarse de un problema de procesamiento de la plataforma. En este caso, ponte en contacto con [nuestro equipo de soporte](https://supporticket.vtex.com/support).

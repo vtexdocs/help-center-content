@@ -17,7 +17,7 @@ announcementSynopsisEN: 'The Products and SKUs page, along with the pages for ad
 
 The pages for creating or editing [products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By), previously in beta, are now in general availability (GA) for VTEX stores in all regions.
 
-See the improvements made since the [beta version](/en/announcements/new-page-for-adding-products-and-skus--5eKaFgMwrbuhUmuQzT4Q0Y).
+See the improvements made since the [beta version](/en/announcements/2024-09-25-new-page-for-adding-products-and-skus).
 
 ## What has changed?
 

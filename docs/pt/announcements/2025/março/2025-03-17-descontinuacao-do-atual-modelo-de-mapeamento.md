@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Em 15 dias o atual modelo de mapeamento de produtos para a integração com a Amazon será descontinuado.'
 ---
 
-Conforme o anúncio [Amazon: atual modelo de mapeamento de produtos será descontinuado](/pt/announcements/amazon-atual-modelo-de-mapeamento-sera-descontinuado--dDEnVg1X0HealtNtUNKfL),no dia 31 de março de 2025 realizaremos a descontinuação do envio de produtos por feed XML, o mapeamento de produtos via planilha e o Amazon mapper para as integrações entre lojas VTEX e Amazon.
+Conforme o anúncio [Amazon: atual modelo de mapeamento de produtos será descontinuado](/pt/announcements/2025-02-19-amazon-atual-modelo-de-mapeamento-sera-descontinuado),no dia 31 de março de 2025 realizaremos a descontinuação do envio de produtos por feed XML, o mapeamento de produtos via planilha e o Amazon mapper para as integrações entre lojas VTEX e Amazon.
 
 A partir dessa data, a única maneira de enviar produtos do catálogo VTEX que ainda não estão disponíveis na Amazon será utilizando o novo Amazon Listing.
 

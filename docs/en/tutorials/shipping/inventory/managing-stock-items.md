@@ -67,5 +67,5 @@ In the **Inventory Management** page, to perform a search, simply type the name 
 
 * [Updating the quantity of items in inventory](/en/tutorial/updating-the-quantity-of-items-in-inventory--2MDwYV1COA6YuoiY22AyGo)
 * [How reservations work](/en/tutorial/how-does-reservation-work--tutorials_92)
-* [SKU available in stock but unavailable for sale](/en/faq/sku-com-unidades-positivas-no-inventario-mas-indisponivel-para-venda--6HIEgJSYM8S05IyWHnIcOn)
+* [SKU available in stock but unavailable for sale](/en/faq/sku-available-in-stock-but-unavailable-for-sale)
 * [Why is my stock negative?](/en/faq/por-que-meu-estoque-esta-negativo--frequentlyAskedQuestions_159)

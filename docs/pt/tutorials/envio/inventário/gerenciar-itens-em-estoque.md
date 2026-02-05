@@ -70,5 +70,5 @@ Na **Gerenciamento de inventário**, para realizar uma busca pela barra, basta d
 
 * [Atualização da quantidade de itens em estoque](/pt/tutorial/como-atualizar-estoque--2MDwYV1COA6YuoiY22AyGo)
 * [Como a reserva funciona](/pt/tutorial/como-a-reserva-funciona--tutorials_92)
-* [SKU com unidades positivas no inventário, mas indisponível para venda](/pt/faq/sku-com-unidades-positivas-no-inventario-mas-indisponivel-para-venda--6HIEgJSYM8S05IyWHnIcOn)
+* [SKU com unidades positivas no inventário, mas indisponível para venda](/pt/faq/sku-com-unidades-positivas-no-inventario-mas-indisponivel-para-venda)
 * [Por que meu estoque está negativo?](/pt/faq/por-que-meu-estoque-esta-negativo--frequentlyAskedQuestions_159)

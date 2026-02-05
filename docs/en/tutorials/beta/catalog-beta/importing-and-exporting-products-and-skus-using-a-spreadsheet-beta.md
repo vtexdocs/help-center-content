@@ -118,7 +118,7 @@ The following table describes and includes an example of each field in the produ
 | Tax code | Numerical sequence that identifies the product. | 84509010 |
 | SKU ID | Unique numerical code that identifies the SKU. If this field already has a value, you can't change it. To add a new SKU, leave the field empty. | 310119261 |
 | SKU name* | Name which identifies the product variation. | M |
-| Activate SKU if possible* | If you want the SKU to be activated automatically after checking the [availability requirements](/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382), enter `yes`. If you don't want it to be activated, enter `no`. | yes |
+| Activate SKU if possible* | If you want the SKU to be activated automatically after checking the [availability requirements](/en/faq/why-is-the-product-not-visible-on-the-website), enter `yes`. If you don't want it to be activated, enter `no`. | yes |
 | Active SKU | This field defines whether the SKU is active (`yes`) or inactive (`no`). This field can't be edited; it's for reference only. | no |
 | Bundle | This field defines if the SKU is a [bundle](/en/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). Converting a SKU into a bundle can't be undone. If you're creating a new SKU, leave the field empty. | |
 | SKU reference code | Unique SKU reference code, created to facilitate catalog management. Once this code is created, it can't be edited through the spreadsheet.This field is required unless the **EAN/UPC** field has a value. | |

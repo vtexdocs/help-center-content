@@ -30,7 +30,7 @@ Este artigo apresenta algumas das principais práticas para você gerenciar sua 
     * [Participe da VTEX Community](#participe-da-vtex-community)
     * [Conheça boas práticas em solicitações do Suporte VTEX](#conheca-boas-praticas-em-solicitacoes-do-suporte-vtex)
 
-> ℹ️ **Agências parceiras**Existem diversas agências e parceiros de implementação que foram certificados pela VTEX por terem demonstrado excelência e confiabilidade em projetos com a plataforma. Portanto, seja para uma implementação eficiente, uma arquitetura de loja personalizada ou para obter apoio contínuo na infraestrutura, recomendamos a contratação de agências parceiras. Para conferir nossos parceiros, acesse o [Partner Portal](https://partnerportal.vtex.com/parceiros) (somente português) ou acesse [VTEX.com](http://VTEX.com) (demais idiomas).
+> ℹ️ **Agências parceiras**Existem diversas agências e parceiros de implementação que foram certificados pela VTEX por terem demonstrado excelência e confiabilidade em projetos com a plataforma. Portanto, seja para uma implementação eficiente, uma arquitetura de loja personalizada ou para obter apoio contínuo na infraestrutura, recomendamos a contratação de agências parceiras. Para conferir nossos parceiros, acesse o [Partner Portal](https://vtex.com/pt-br/parceiros/parceiros) (somente português) ou acesse [VTEX.com](http://VTEX.com) (demais idiomas).
 
 ## Performance e segurança
 

@@ -33,7 +33,7 @@ Check out [Transferring store ownership](/en/tutorial/transferring-store-ownersh
 
 ## Authentication credentials no longer restricted to Sponsor user
 
-Before, only the Sponsor user could create and manage appKey and appToken pairs for [API integration authentication](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet). Now, as announced in [Improvements in Application Key management](/en/announcements/improvements-in-application-key-management--6DsPdiQ65RKNUNl7p93zHJ), the Sponsor user can delegate the responsibility of creating authentication credentials as needed, giving more flexibility to store owners.
+Before, only the Sponsor user could create and manage appKey and appToken pairs for [API integration authentication](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet). Now, as announced in [Improvements in Application Key management](/en/announcements/2021-08-19-improvements-in-application-key-management), the Sponsor user can delegate the responsibility of creating authentication credentials as needed, giving more flexibility to store owners.
 
 ## Learn more
 

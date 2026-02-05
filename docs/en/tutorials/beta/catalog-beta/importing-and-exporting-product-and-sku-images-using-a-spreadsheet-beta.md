@@ -37,7 +37,7 @@ To import product and SKU images using a spreadsheet, follow these steps:
 
 While the import is in progress, a message will be displayed indicating that the file is being processed. Leaving the page won't interrupt the operation. After the operation is complete, you will receive a confirmation email.
 
-> ⚠️ Products with images successfully imported are automatically queued for [indexing](/en/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256). If this doesn't happen, see the article [Why is the product not visible on the website?](/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
+> ⚠️ Products with images successfully imported are automatically queued for [indexing](/en/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256). If this doesn't happen, see the article [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website).
 
 ## Exporting product and SKU images using a spreadsheet
 

@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Para mantener su operación en funcionamiento, asegúrese de que su integración esté actualizada'
 ---
 
-El día 13/06/19, [anunciamos la descontinuación de las APIs de Feed V1 y V2](/es/announcements/descontinuacion-del-feed-v1-y-v2-del-modulo-de-gestion-de-pedidos--4zoxe3FihrNs0yQ1g1JyG4) y la obligatoriedad de migración a V3 de este servicio. Esta API es responsable por el proceso de integración de pedidos entre VTEX y sistemas externos, como ERPs.
+El día 13/06/19, [anunciamos la descontinuación de las APIs de Feed V1 y V2](/es/announcements/2019-06-12-descontinuacion-del-feed-v1-y-v2-del-modulo-de-gestion-de-pedidos) y la obligatoriedad de migración a V3 de este servicio. Esta API es responsable por el proceso de integración de pedidos entre VTEX y sistemas externos, como ERPs.
 
 __Cambiamos la fecha final de migración y las tiendas que aún no se adaptaron a la nueva versión tienen hasta el día 12/08 para adecuar su integración__. Después de esta fecha, no será más posible consumir datos de pedidos utilizando las versiones anteriores de esta API, impactando su proceso de entrega de pedidos.
 

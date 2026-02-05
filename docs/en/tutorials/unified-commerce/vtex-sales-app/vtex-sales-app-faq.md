@@ -121,7 +121,7 @@ For a specialized goal management service, we recommend [Indeva](https://vtex.co
 
 Yes, the sales associate just needs to use the **Force stock** feature. Learn more in our documentation for developers [Force stock availability](https://developers.vtex.com/docs/guides/force-stock-availability). 
 
-> ℹ️ To understand why a product available in local inventory may appear as unavailable in the system, see these articles:<ul><li>[Why is the product not visible on the website?](/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382)</li><li>[Which logistics settings can impact the product availability in the cart?](/en/tutorial/quais-configuracoes-logisticas-impactam-na-disponibilidade-do-produto-no-carrinho--NAyBFToRdvlDyOzeeAeNw)</li></ul>
+> ℹ️ To understand why a product available in local inventory may appear as unavailable in the system, see these articles:<ul><li>[Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website)</li><li>[Which logistics settings can impact the product availability in the cart?](/en/tutorial/quais-configuracoes-logisticas-impactam-na-disponibilidade-do-produto-no-carrinho--NAyBFToRdvlDyOzeeAeNw)</li></ul>
 
 ### 9. Are there any device limitations for using VTEX Sales App, such as mobile-only access?
 

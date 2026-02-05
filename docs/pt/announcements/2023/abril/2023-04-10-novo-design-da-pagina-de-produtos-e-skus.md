@@ -17,7 +17,7 @@ announcementSynopsisPT: 'O novo design da página de Produtos & SKUs possibilita
 
 O gerenciamento do catálogo é fundamental para o sucesso de um comércio digital, pois é a partir da vitrine de produtos que os clientes interagem com a marca e tomam decisões de compra. Por isso, é importante que os lojistas tenham uma experiência consistente e ágil ao consultar, cadastrar e editar informações sobre produtos e SKUs.
 
-Pensando nessa necessidade, redesenhamos a página **Catálogo > Produtos & SKUs** para oferecer uma experiência aprimorada de gestão do Catálogo. A interface está disponível em fase Beta, para lojas que utilizam o [Novo Admin VTEX](/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa).
+Pensando nessa necessidade, redesenhamos a página **Catálogo > Produtos & SKUs** para oferecer uma experiência aprimorada de gestão do Catálogo. A interface está disponível em fase Beta, para lojas que utilizam o [Novo Admin VTEX](/pt/announcements/2022-06-13-bem-vindo-ao-novo-admin-vtex).
 
 ## O que mudou?
 

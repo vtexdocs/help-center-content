@@ -34,7 +34,7 @@ Antes de abrir um ticket, confira se o problema está relacionado às customiza�
 
 ### Carrinho, Checkout e lojas em CMS
 
-É importante validar se o cenário ocorre sem customização da loja. Para realizar este teste, desative as customizações (JS e CSS) e tente reproduzir o erro. Saiba como fazer isso com o artigo [Como bloquear customizações para investigar problemas no front-end da loja](/pt/faq/como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja--5c1a4bvVK8rAvKLczhkCnY). 
+É importante validar se o cenário ocorre sem customização da loja. Para realizar este teste, desative as customizações (JS e CSS) e tente reproduzir o erro. Saiba como fazer isso com o artigo [Como bloquear customizações para investigar problemas no front-end da loja](/pt/faq/como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja). 
 
 ### Store Framework
 

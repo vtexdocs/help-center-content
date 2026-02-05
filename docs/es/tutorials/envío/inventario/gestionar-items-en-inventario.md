@@ -70,5 +70,5 @@ En la página **Gestión del stock**, para realizar una búsqueda en la barra, s
 
 * [Actualización de la cantidad de ítems en stock](/es/tutorial/actualization-de-la-cantidad-de-items-en-stock--2MDwYV1COA6YuoiY22AyGo)
 * [Como se maneja la reserva](/es/tutorial/como-se-maneja-la-reserva--tutorials_92)
-* [El SKU tiene unidades positivas en el stock, pero no está disponible para la venta](/es/faq/sku-com-unidades-positivas-no-inventario-mas-indisponivel-para-venda--6HIEgJSYM8S05IyWHnIcOn)
+* [El SKU tiene unidades positivas en el stock, pero no está disponible para la venta](/es/faq/el-sku-tiene-unidades-positivas-en-el-stock-pero-no-esta-disponible-para-la)
 * [¿Por qué mi stock está negativo?](/es/faq/por-que-meu-estoque-esta-negativo--frequentlyAskedQuestions_159)

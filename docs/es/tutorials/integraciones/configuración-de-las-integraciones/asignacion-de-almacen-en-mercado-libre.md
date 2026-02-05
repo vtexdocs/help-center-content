@@ -33,7 +33,7 @@ En caso de que el valor sea  `Sí`, debes configurar la integración de tus alma
 
 Otros requisitos para utilizar la funcionalidad **Asignación de almacén** son:  
 
-- La cuenta debe operar con el nuevo modelo de [registro de producto](/es/announcements/nuevo-modelo-de-anuncios-no-mercado-libre--3g7c72gcJk6WvKXNGfPTkb).  
+- La cuenta debe operar con el nuevo modelo de [registro de producto](/es/announcements/2025-06-30-nuevo-modelo-de-anuncios-en-mercado-libre).  
 - Debe haber al menos un anuncio registrado en este nuevo modelo.  
 - Los almacenes deben estar activos en el módulo [Estrategia de envío VTEX](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3).  
 

@@ -41,4 +41,4 @@ No action is required. All stores will be automatically updated. You can return 
 
 For more information on how to leverage the interface, please refer to the article [SKU Bindings](/en/tutorial/sku-bindings--1SmrVgNwjJX17hdqwLa0TX).
 
-This page follows the design of the [New VTEX Admin](/en/announcements/welcome-to-the-redesigned-vtex-admin--5tLPBodp6Xu03vYdyBTGTa), with a simpler, more modern and user-friendly look. To get access to more pages in the new experience, plus an enhanced Admin with actionable data, [join](https://content.vtex.com/join-new-admin-beta-program-en/?utm_source=announcement&utm_medium=help_center&utm_campaign=sku_bindings) the New VTEX Admin Beta program.
+This page follows the design of the [New VTEX Admin](/en/announcements/2022-06-13-welcome-to-the-redesigned-vtex-admin), with a simpler, more modern and user-friendly look. To get access to more pages in the new experience, plus an enhanced Admin with actionable data, [join](https://content.vtex.com/join-new-admin-beta-program-en/?utm_source=announcement&utm_medium=help_center&utm_campaign=sku_bindings) the New VTEX Admin Beta program.

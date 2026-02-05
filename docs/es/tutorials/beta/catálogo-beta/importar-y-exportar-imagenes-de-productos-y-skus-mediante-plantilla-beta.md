@@ -37,7 +37,7 @@ Para importar imágenes de productos y SKUs a partir de una plantilla sigue los 
 
 Durante la importación, aparecerá un mensaje que indica que el archivo se está procesando. La operación seguirá en curso aunque navegues a otra página. Después de que la operación termine recibirás un email de confirmación.
 
-> ⚠️ Los productos con imágenes importadas con éxito se agregan automáticamente a la cola de [indexación](/es/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256). Si esto no sucede, consulta el artículo [¿Por qué no se muestra el producto en el sitio web?](/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
+> ⚠️ Los productos con imágenes importadas con éxito se agregan automáticamente a la cola de [indexación](/es/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256). Si esto no sucede, consulta el artículo [¿Por qué no se muestra el producto en el sitio web?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web).
 
 ## Exportar imágenes de productos y SKUs mediante plantilla
 

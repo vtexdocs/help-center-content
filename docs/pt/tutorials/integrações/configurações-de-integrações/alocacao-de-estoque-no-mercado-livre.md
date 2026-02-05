@@ -33,7 +33,7 @@ Caso o valor do campo seja `Sim`, você deve configurar a integração dos seus 
 
 Outros requisitos para utilizar a funcionalidade **Alocação de estoque** são:  
 
-- Ter a conta habilitada para o novo modelo de [cadastro de produto](/pt/announcements/novo-modelo-de-anuncios-no-mercado-livre--3g7c72gcJk6WvKXNGfPTkb).   
+- Ter a conta habilitada para o novo modelo de [cadastro de produto](/pt/announcements/2025-06-30-novo-modelo-de-anuncios-no-mercado-livre).   
 - Ter ao menos um anúncio cadastrado no novo modelo.  
 - Ter os estoques ativos no módulo de [Estratégias de envio da VTEX](/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3).  
 

@@ -37,7 +37,7 @@ Para adicionar um novo produto ao catálogo da loja, siga os passos abaixo:
 
 > ❗ Uma vez que o produto seja criado, ele pode ser inativado, mas não é possível excluir um único produto. A plataforma só permite excluir produtos e SKUs em massa por meio da [Manutenção de Base (Full Cleanup)](/pt/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802).
 
-> ℹ️ Se após criar o produto ele não aparecer na vitrine da loja, confira o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) e saiba como resolver o problema.
+> ℹ️ Se após criar o produto ele não aparecer na vitrine da loja, confira o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site) e saiba como resolver o problema.
 
 Veja nas próximas seções as orientações sobre como preencher os campos de criação do produto.
 

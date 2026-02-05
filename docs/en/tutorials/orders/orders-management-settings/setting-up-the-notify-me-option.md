@@ -70,5 +70,5 @@ To set up the **Notify me** template for the emails which will be sent to the cu
 
 * [Exporting customers who signed up for the availability notification (Notify me)](/en/tutorial/exporting-clients-registered-in-the-availability-notification--3Yr19DMQukGeIImUeCwIao)
 * [Inserting images in the "Notify me" email](/en/tutorial/inserting-images-into-let-me-know-email--3soCXGcE3XBPsnPhxJh2DY)
-* [What to do when the "Notify me" option is not displayed](/en/faq/what-to-do-when-the-notify-me-option-is-not-displayed--oNb6JK1LPMOQwYsecKKCs)
+* [What to do when the "Notify me" option is not displayed](/en/faq/what-to-do-when-the-notify-me-option-is-not-displayed)
 

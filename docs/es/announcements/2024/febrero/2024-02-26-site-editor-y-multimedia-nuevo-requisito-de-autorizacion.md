@@ -19,7 +19,7 @@ A partir del lunes 18 de marzo de 2024, será obligatorio que todos los [usuario
 
 ## ¿Qué cambió?
 
-Como se [anunció anteriormente para los usuarios de Headless CMS](/es/announcements/headless-cms-new-authorization-requirement--7G056zzZmGFBztkRqhpUgj), es necesario que tanto los usuarios como las claves de aplicación tengan el recurso `CMS GraphQL API` asociado con su rol para gestionar el contenido.
+Como se [anunció anteriormente para los usuarios de Headless CMS](/es/announcements/2024-02-02-headless-cms-nueva-solicitud-de-autorizacion), es necesario que tanto los usuarios como las claves de aplicación tengan el recurso `CMS GraphQL API` asociado con su rol para gestionar el contenido.
 
 Ahora, estamos extendiendo este requisito al Site Editor y Multimedia, lo que significa que el recurso 'CMS GraphQL API' es necesario para gestionar el contenido utilizando estas herramientas.
 

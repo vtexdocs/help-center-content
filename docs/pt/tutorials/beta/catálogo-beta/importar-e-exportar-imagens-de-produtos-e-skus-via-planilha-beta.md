@@ -37,7 +37,7 @@ Para importações de imagens de produtos e SKUs por planilha, realize os seguin
 
 Enquanto a importação estiver em andamento, aparecerá a mensagem de que o arquivo está sendo processado. A operação não será afetada, caso você saia da página. Após a conclusão da operação, você receberá um email de confirmação.
 
-> ⚠️ Os produtos com imagens importadas com sucesso são automaticamente colocados na fila de [indexação](/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256). Caso isso não aconteça, veja o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
+> ⚠️ Os produtos com imagens importadas com sucesso são automaticamente colocados na fila de [indexação](/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256). Caso isso não aconteça, veja o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site).
 
 ## Exportar imagens de produtos e SKUs via planilha
 

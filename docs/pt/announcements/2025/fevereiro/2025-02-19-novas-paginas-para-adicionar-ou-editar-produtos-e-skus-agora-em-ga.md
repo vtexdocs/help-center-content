@@ -17,7 +17,7 @@ announcementSynopsisPT: 'A página Produtos e SKUs e as páginas para adicionar 
 
 As páginas para criação ou edição de [produtos e SKUs](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) que estavam em sua versão beta agora estão em General Availability (GA), e isso vale para as lojas VTEX de todas as regiões. 
 
-Veja a seguir quais foram as melhorias realizadas desde a [novidade do beta](/pt/announcements/new-page-for-adding-products-and-skus--5eKaFgMwrbuhUmuQzT4Q0Y).
+Veja a seguir quais foram as melhorias realizadas desde a [novidade do beta](/pt/announcements/2024-09-25-nova-pagina-de-cadastro-de-produtos-e-skus).
 
 ## O que mudou?
 
