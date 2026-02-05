@@ -17,7 +17,7 @@ order: 6
 
 Após configurar os meios de pagamento da sua loja, é preciso criar filtros para disponibilizá-los para os clientes no checkout do **VTEX Sales App**.
 
-Para isso, será necessário incluir um trecho de código JavaScript no arquivo `checkout-instore-custom.js` da sua loja. O passo a passo completo está disponível no guia [Define payment methods displayed on VTEX Sales App](https://developers.vtex.com/docs/guides/define-payment-methods-displayed-on-vtex-sales-app).
+Para isso, será necessário incluir um bloco de código JavaScript no arquivo `checkout-instore-custom.js` da sua loja. O passo a passo completo está disponível no guia [Define payment methods displayed on VTEX Sales App](https://developers.vtex.com/docs/guides/define-payment-methods-displayed-on-vtex-sales-app).
 
 > ❗ Recomendamos que qualquer alteração no arquivo `checkout-instore-custom.js` seja feita por uma pessoa desenvolvedora, pois erros nesta etapa podem causar problemas críticos para a loja.
 
