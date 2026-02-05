@@ -35,5 +35,5 @@ Incluimos los motivos de cancelación en el informe de pedidos para facilitar a 
 
 No se requiere ninguna acción, el cambio es automático para todas las tiendas VTEX. Todos los informes de pedidos generados a partir de hoy ya contienen este cambio.
 
-Para entender cómo realizar la exportación de pedidos, lea el tutorial [Exportación de pedidos en Gestión de pedidos](/es/tutorial/exportando-pedidos-no-gerenciamento-de-pedidos--tutorials_6417). Para saber más sobre la estructura del informe de pedidos, revise el artículo [Informe de pedidos](/es/tutorial/planilha-de-pedidos--31m1ewsmsEe0WS4So2aGMY).
+Para entender cómo realizar la exportación de pedidos, lea el tutorial [Exportación de pedidos en Gestión de pedidos](/es/docs/tutorials/exportacion-de-pedidos-en-el-modulo-pedidos). Para saber más sobre la estructura del informe de pedidos, revise el artículo [Informe de pedidos](/es/docs/tutorials/informe-de-pedidos).
 

@@ -33,7 +33,7 @@ Siga el proceso paso a paso para configurar sinónimos individualmente en VTEX A
 3. Rellene los campos referentes al sinónimo:
    - __Tipo:__ define el tipo de sinónimo. Consulte [Tipos de sinónimos](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#tipos-de-sinonimos) para obtener más información.
    - __Términos:__ palabras o expresiones que se definirán como sinónimos. Debe pulsar `Enter` después de cada término para insertar otro término.
-   - **Idiomas:** idiomas en los que se aplicará el sinónimo. Campo solo disponible para tiendas que utilizan [configuración multidioma (beta)](/es/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+   - **Idiomas:** idiomas en los que se aplicará el sinónimo. Campo solo disponible para tiendas que utilizan [configuración multidioma (beta)](/es/docs/tutorials/vtex-intelligent-search-configuracion-multidioma-beta).
    - __Status:__ define si el sinónimo estará activo o inactivo.
 4. Para terminar, haga clic en `Publicar`.
 

@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Hemos rediseñado Vínculos de SKU para facilitar la relación entre los SKU de los sellers y de los marketplaces.'
 ---
 
-VTEX permite que tu tienda actúe a la vez como [seller](/es/tutorial/como-configurar-el-seller-para-vender-en-un-marketplace-vtex--6g045OkRSjNpqhkExbQRlP) y como [marketplace](/es/tutorial/configurar-marketplaces-vtex--7splyp5MqIyt2Iyz5jsNzb), lo que te permite reducir costos, llegar a más clientes y aumentar la variedad de productos ofrecidos. En este contexto, cada marketplace debe establecer y mantener una relación directa entre su catálogo y los [SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) ofrecidos por los sellers.
+VTEX permite que tu tienda actúe a la vez como [seller](/es/docs/tutorials/como-configurar-el-seller-para-vender-en-un-marketplace-vtex) y como [marketplace](/es/docs/tutorials/configurar-marketplaces-vtex), lo que te permite reducir costos, llegar a más clientes y aumentar la variedad de productos ofrecidos. En este contexto, cada marketplace debe establecer y mantener una relación directa entre su catálogo y los [SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) ofrecidos por los sellers.
 
 Para mejorar esta experiencia, hemos rediseñado la página **Vínculos de SKU** en el Admin VTEX. La nueva interfaz te permite seguir y gestionar la relación de vínculo entre los SKU del seller y del marketplace de una forma más sencilla y ágil.
 
@@ -39,6 +39,6 @@ Hemos actualizado la página para simplificar la experiencia de gestión de los 
 
 No se requiere ninguna acción. La actualización será automática para todas las tiendas. Puedes volver a la versión anterior de la experiencia en cualquier momento haciendo clic en el aviso en la parte superior de la nueva página.
 
-Para obtener más información sobre cómo utilizar la interfaz, consulta el artículo [Vínculos de SKU](/es/tutorial/vinculos-de-sku--1SmrVgNwjJX17hdqwLa0TX).
+Para obtener más información sobre cómo utilizar la interfaz, consulta el artículo [Vínculos de SKU](/es/docs/tutorials/vinculos-de-sku).
 
 Esta página sigue el diseño del [Nuevo Admin VTEX](/es/announcements/2022-06-13-bienvenido-al-nuevo-admin-vtex), con un aspecto más sencillo, moderno y fácil de usar. Para acceder a más páginas con esta experiencia, además de un Admin mejorado con datos procesables, [únete](https://content.vtex.com/join-new-admin-beta-program-es/?utm_source=announcement&utm_medium=help_center&utm_campaign=sku_bindings) al programa Beta del nuevo Admin VTEX.

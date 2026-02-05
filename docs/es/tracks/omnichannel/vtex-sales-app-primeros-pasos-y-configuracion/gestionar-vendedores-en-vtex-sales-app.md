@@ -25,7 +25,7 @@ La página contiene la siguiente información:
 | --- | --- |
 | Nombre | Nombre que identifica el vendedor, definido en la etapa [Registrar vendedor](#registrar-vendedor). |
 | Código | Código identificador de cada vendedor, el mismo registrado en el sistema de la tienda física. |
-| Tienda | Nombre identificador de la [cuenta franquicia](/es/tutorial/que-es-una-cuenta-franquicia--kWQC6RkFSCUFGgY5gSjdl) en la que el vendedor está registrado. |
+| Tienda | Nombre identificador de la [cuenta franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia) en la que el vendedor está registrado. |
 | Email | Email de acceso de cada vendedor. |
 
 ## Registrar vendedor
@@ -51,7 +51,7 @@ Después de completar el registro, el vendedor podrá crear una contraseña de a
 
 #### Tienda física
 
-* **Tienda:** [cuenta franquicia](/es/tutorial/que-es-una-cuenta-franquicia--kWQC6RkFSCUFGgY5gSjdl) en la que el vendedor será registrado. Campo obligatorio.
+* **Tienda:** [cuenta franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia) en la que el vendedor será registrado. Campo obligatorio.
 
 > ℹ️ Los cambios pueden tardar hasta 15 minutos en procesarse y aplicarse en **VTEX Sales App**.
 

@@ -100,4 +100,4 @@ Sigue los pasos a continuación para configurar una nueva entidad de datos.
 21. Haz clic en la pestaña **Aplicaciones** para volver a la página de inicio de Master Data.  
 22.	Haz clic en `Volver a cargar aplicaciones`.
 
-> ℹ️ Después de crear la entidad de datos, debes [crear el formulario para agregar, editar y mostrar los datos en Master Data](/es/tutorial/creando-formulario-en-master-data--tutorials_1047).
+> ℹ️ Después de crear la entidad de datos, debes [crear el formulario para agregar, editar y mostrar los datos en Master Data](/es/docs/tutorials/creando-formulario-en-master-data).

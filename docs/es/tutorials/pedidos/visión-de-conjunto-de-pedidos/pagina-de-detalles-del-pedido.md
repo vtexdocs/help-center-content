@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-> ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+> ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](/es/docs/tutorials/como-funciona-mi-cuenta).
 
-La página **Detalles del pedido** permite ver toda la información sobre un pedido y gestionarlo en un solo lugar. Para ver la página, haz clic en **Pedidos > [Todos los pedidos](/es/tutorial/todos-los-pedidos--2QTduKHAJMFIZ3BAsi6Pi)** y selecciona un pedido de la lista.
+La página **Detalles del pedido** permite ver toda la información sobre un pedido y gestionarlo en un solo lugar. Para ver la página, haz clic en **Pedidos > [Todos los pedidos](/es/docs/tutorials/todos-los-pedidos)** y selecciona un pedido de la lista.
 
 Puedes también buscar pedidos desde cualquier página del Admin VTEX utilizando la barra de búsqueda global en la parte superior de la página. Por defecto, la búsqueda está configurada en `Páginas`. Para buscar un pedido, haga clic en la barra, seleccione la opción `Pedidos` y utilice cualquiera de los siguientes criterios:
 
@@ -40,7 +40,7 @@ En la página de detalles del pedido, puedes:
 
 La página **Detalles del pedido** está dividida en bloques que agrupan información o funcionalidades. Mira a continuación las secciones de la página y sus respectivas funciones.
 
-Para más información sobre el status y el flujo del pedido, consulta el artículo [Flujo y status de pedidos](/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
+Para más información sobre el status y el flujo del pedido, consulta el artículo [Flujo y status de pedidos](/es/docs/tutorials/flujo-y-status-de-pedidos).
 
 > ℹ️ A continuación, se detallan todas las secciones posibles de la página **Detalles del pedido**, pero ten en cuenta que solo serán visibles las secciones que se aplican al pedido en cuestión.
 
@@ -51,11 +51,11 @@ Para más información sobre el status y el flujo del pedido, consulta el artíc
 La barra superior de la página contiene la siguiente información y acciones:
 
 * **Número del pedido:** identificación numérica del pedido.  
-* **Status del pedido:** etapa del flujo de pedidos en la que se encuentra el pedido. Consulta el artículo [Flujo y status de pedidos](/es/tutorial/flujo-de-pedido-en-el-oms--tutorials_196) para obtener más información.  
+* **Status del pedido:** etapa del flujo de pedidos en la que se encuentra el pedido. Consulta el artículo [Flujo y status de pedidos](/es/docs/tutorials/flujo-y-status-de-pedidos) para obtener más información.  
 * **Acciones**: menú que permite acceder a acciones rápidas relativas al pedido.
     * <i class="fas fa-print"></i> **Imprimir pedido**: permite imprimir los datos del pedido.    
     * **Cancelar pedido:** botón que permite cancelar el pedido si aún no tiene el status «Facturado».  
-    * **Facturar:** botón que permite [facturar un pedido](/es/tutorial/como-faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v). Esto se aplica a pedidos pendientes de facturación.  
+    * **Facturar:** botón que permite [facturar un pedido](/es/docs/tutorials/como-facturar-manualmente-un-pedido). Esto se aplica a pedidos pendientes de facturación.  
 * **Navegación entre pedidos:** puedes navegar entre los pedidos utilizando las flechas <i class="fas fa-chevron-left"></i> y <i class="fas fa-chevron-right"></i>.
 
 ## Información general 
@@ -76,7 +76,7 @@ La información general del pedido se muestra en la parte superior de la página
 
 ### Status del pedido
 
-Este bloque muestra el status actual del pedido en el [flujo de pedidos](/es/tutorial/fluxo-de-pedido--tutorials_196) VTEX. Aquí, puedes [ver historial](#historial-del-pedido), con todos los cambios ocurridos e interaciones dentro del pedido.  
+Este bloque muestra el status actual del pedido en el [flujo de pedidos](/es/docs/tutorials/flujo-y-status-de-pedidos) VTEX. Aquí, puedes [ver historial](#historial-del-pedido), con todos los cambios ocurridos e interaciones dentro del pedido.  
 
 ### Ítems a facturar
 
@@ -84,12 +84,12 @@ Este bloque muestra el status actual del pedido en el [flujo de pedidos](/es/tut
 
 El bloque **Ítems a facturar** contiene paquetes con ítems cuyo pago ha sido aprobado pero que aún no han sido [facturados](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT), es decir, sus facturas no se no se emitieron a la plataforma.
 
-Un paquete es un envoltorio o una caja que contiene los ítems de una entrega. Un pedido puede tener más de un paquete porque puede estar compuesto de ítems de sellers o stocks distintos. En el artículo [División de pedidos y división de entregas](/es/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV), puedes obtener más información sobre la división de paquetes.
+Un paquete es un envoltorio o una caja que contiene los ítems de una entrega. Un pedido puede tener más de un paquete porque puede estar compuesto de ítems de sellers o stocks distintos. En el artículo [División de pedidos y división de entregas](/es/docs/tutorials/division-de-pedidos-y-division-de-entregas), puedes obtener más información sobre la división de paquetes.
 
 En la esquina superior izquierda aparecen las siguientes acciones:
 
-* **Modificar:** modifica los ítems del pedido. Ten en cuenta que la [modificación de ítems](/es/tutorial/como-alterar-itens-do-pedido--7jekq618QxgbsOxKkXBjE8) es diferente al [cambio de pedido](/es/tutorial/substituicao-de-pedidos--2IK9mwQjBKseQmE8K8saO8). En el cambio de pedido, el cliente es quien solicita los cambios y, en la modificación de ítems, es la tienda la que cambia el pedido. 
-* **Facturar:** emite la factura del pedido. Puedes obtener más información sobre el envío de facturas en el artículo [Cómo facturar un pedido](/es/tutorial/como-faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v).
+* **Modificar:** modifica los ítems del pedido. Ten en cuenta que la [modificación de ítems](/es/tutorial/como-alterar-itens-do-pedido--7jekq618QxgbsOxKkXBjE8) es diferente al [cambio de pedido](/es/docs/tutorials/cambio-de-pedido). En el cambio de pedido, el cliente es quien solicita los cambios y, en la modificación de ítems, es la tienda la que cambia el pedido. 
+* **Facturar:** emite la factura del pedido. Puedes obtener más información sobre el envío de facturas en el artículo [Cómo facturar un pedido](/es/docs/tutorials/como-facturar-manualmente-un-pedido).
 
 ### Facturas
 
@@ -97,10 +97,10 @@ En la esquina superior izquierda aparecen las siguientes acciones:
 
 Este bloque muestra los ítems facturados con sus respectivas facturas y los paquetes que componen las entregas. En este bloque tú puedes:
 
-* **Devolver ítems:** al hacer clic en `Devolver ítems` se abre una nueva página con la información de la devolución. Para obtener más información, consulta el artículo [Cómo devolver ítems del pedido](/es/tutorial/como-devolver-items-del-pedido--2bSNWwD0g8fcUmuupLao9i).  
+* **Devolver ítems:** al hacer clic en `Devolver ítems` se abre una nueva página con la información de la devolución. Para obtener más información, consulta el artículo [Cómo devolver ítems del pedido](/es/docs/tutorials/como-devolver-items-del-pedido).  
 * **Rastrear la entrega del pedido:** al hacer clic en `Rastreo`, se abre una nueva página con los detalles de la entrega.  
-* **Confirmar entrega:** confirmar la entrega del pedido al destinatario. Para confirmar a entrega, haz clic en <i class="fas fa-ellipsis-v"></i> «Acciones» y selecciona <i class="fas fa-check"></i> «Confirmar entrega». La confirmación de la entrega no cambia el status ni el [flujo del pedido](/es/tutorial/flujo-de-pedido-en-el-oms--tutorials_196). La información se utiliza únicamente para indicar a la tienda y al cliente que la entrega ha sido finalizada.  
-* **[Cambiar los datos de rastreo](/es/tutorial/cambiar-los-datos-de-seguimiento--63c2hG3fBSCnchiMBOR5Ck):** introducir y editar los datos de rastreo para su uso por la tienda y el cliente.    
+* **Confirmar entrega:** confirmar la entrega del pedido al destinatario. Para confirmar a entrega, haz clic en <i class="fas fa-ellipsis-v"></i> «Acciones» y selecciona <i class="fas fa-check"></i> «Confirmar entrega». La confirmación de la entrega no cambia el status ni el [flujo del pedido](/es/docs/tutorials/flujo-y-status-de-pedidos). La información se utiliza únicamente para indicar a la tienda y al cliente que la entrega ha sido finalizada.  
+* **[Cambiar los datos de rastreo](/es/docs/tutorials/cambiar-los-datos-de-seguimiento):** introducir y editar los datos de rastreo para su uso por la tienda y el cliente.    
 
 ### Ítems devueltos
 
@@ -108,7 +108,7 @@ Este bloque muestra los ítems facturados con sus respectivas facturas y los paq
 
 El bloque de **Ítems devueltos** se muestra cuando se devuelven ítems del pedido. Mira qué información y acciones están disponibles en este bloque:
 
-* <i class="far fa-check-circle"></i> **Confirmar la entrega:** confirmar la recepción del paquete devuelto. Obtén más información sobre la devolución de ítems en el artículo [Cómo devolver ítems del pedido](/es/tutorial/como-devolver-items-del-pedido--2bSNWwD0g8fcUmuupLao9i).  
+* <i class="far fa-check-circle"></i> **Confirmar la entrega:** confirmar la recepción del paquete devuelto. Obtén más información sobre la devolución de ítems en el artículo [Cómo devolver ítems del pedido](/es/docs/tutorials/como-devolver-items-del-pedido).  
 * **Información del paquete:** datos sobre el paquete con ítems devueltos.
     * **Factura de entrada:** número de la factura de entrada en el almacén, después de la devolución.  
     * **Fecha de emisión:** fecha de emisión de la factura de entrada, cuando se produjo la devolución.  
@@ -134,7 +134,7 @@ Haciendo clic en `Ver interacciones`, puedes seguir las comunicaciones con siste
 
 En el **Historial del pedido**, puedes iniciar la preparación del pedido (si está disponible) haciendo clic en `Iniciar preparación`. Al hacer clic en `Comenzar preparación`, cambiarás el status del pedido e indicarás que se están preparando los ítems para su entrega. En la pantalla, aparecerá un modal para que confirmes tu decisión. Para continuar, marca las casillas y haz clic en `Proceder con el status`. 
 
-Para obtener más información sobre cuándo debe realizarse la preparación, lee el artículo [Flujo y status de pedidos](/es/tutorial/flujo-de-pedido-en-el-oms--tutorials_196).
+Para obtener más información sobre cuándo debe realizarse la preparación, lee el artículo [Flujo y status de pedidos](/es/docs/tutorials/flujo-y-status-de-pedidos).
 
 También puedes ver los detalles de las notificaciones enviadas por email al cliente haciendo clic en la flecha <i class="fa-chevron-right"></i>. Puedes enviar un nuevo email haciendo clic en el botón `Reenviar email`.
 
@@ -153,7 +153,7 @@ Los comentarios enviados se registran en la página de detalles del pedido con l
 En la parte derecha de la página, puedes consultar los detalles financieros del pedido. Esta información se actualiza automáticamente a medida que avanza el pedido. 
 
 * **Costo total del pedido:** valor total cobrado por el pedido, es decir, la suma del precio de los ítems, del envío y de los servicios adicionales, si los hay.   
-    * **[Cambiar el costo final](/es/tutorial/cambiar-el-valor-final-del-pedido--2asq4BmxvSD8Tw9xpfZuMo):** permite modificar el valor total cobrado.   
+    * **[Cambiar el costo final](/es/docs/tutorials/cambiar-el-valor-total-del-pedido):** permite modificar el valor total cobrado.   
     * **Promociones y _partnerships_:** promociones aplicadas al pedido, si las hay. Se dividen en:  
         * **Promociones**: tarjeta de regalo o código promocional aplicado en el _checkout_.  
         * **_Marketing:_** promociones de campañas de _marketing_.  
@@ -169,5 +169,5 @@ En la parte derecha de la página, puedes consultar los detalles financieros del
 ## Más información
 
 * [Modificar ítems del pedido](/es/tutorial/como-modificar-items-del-pedido--7jekq618QxgbsOxKkXBjE8)  
-* [Devolver ítems del pedido](/es/tutorial/como-devolver-items-del-pedido--2bSNWwD0g8fcUmuupLao9i)  
-* [Facturar el pedido](/es/tutorial/como-facturar-manualmente-un-pedido--7p1h852V5t54KyscpgxE2v)  
+* [Devolver ítems del pedido](/es/docs/tutorials/como-devolver-items-del-pedido)  
+* [Facturar el pedido](/es/docs/tutorials/como-facturar-manualmente-un-pedido)  

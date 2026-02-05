@@ -34,7 +34,7 @@ Utilice la autonomía que tiene sobre el código y cree el escenario de *storefr
 
 2. Haga clic en `Versiones` en la esquina superior derecha. 
 
-> ℹ️ El contenido que ve cuando hace clic en un bloque es el que está activo en ese momento. Para más información sobre **Versiones**, acceda [Gestión de versiones de contenido](/es/tutorial/managing-content-versions--4loXo98CZncY0NnjKrScbG) y [Programar actualizaciones de contenido](/es/tutorial/scheduling-content-updates--5L93gED3wgSRoWpFJlJ2ns)
+> ℹ️ El contenido que ve cuando hace clic en un bloque es el que está activo en ese momento. Para más información sobre **Versiones**, acceda [Gestión de versiones de contenido](/es/docs/tutorials/gestion-de-versiones-de-contenido) y [Programar actualizaciones de contenido](/es/docs/tutorials/programar-actualizaciones-de-contenido)
 
 3. Haga clic en el botón `Nuevo contenido`. 
 4. Realice los cambios deseados de acuerdo con las configuraciones disponibles para el bloque. 

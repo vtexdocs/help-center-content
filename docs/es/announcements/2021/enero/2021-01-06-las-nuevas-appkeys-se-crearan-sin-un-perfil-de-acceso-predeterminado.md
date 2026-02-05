@@ -35,4 +35,4 @@ Una aplicación que utiliza appKey debería recibir acceso únicamente a las fun
 
 Con este cambio, el perfil de acceso se deberá determinar manualmente según la necesidad y los permisos se delimitarán de acuerdo con el perfil seleccionado.
 
-Puede encontrar más información en el artículo [Perfiles de acceso](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+Puede encontrar más información en el artículo [Perfiles de acceso](/es/docs/tutorials/roles).

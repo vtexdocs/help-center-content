@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Actualiza tu integración: nuevas formas de aplicar descuentos en Google Shopping.'
 ---
 
-Hemos actualizado las formas de envío de precios de productos en la [integración con Google Shopping](/es/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/2kGKxwD9HKJvTLDTikQ4zG) para que los retailers puedan ofrecer anuncios con mayor calidad y descuentos con el [medio de pago](/es/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) que mejor se adapte a las demandas del público de la tienda.
+Hemos actualizado las formas de envío de precios de productos en la [integración con Google Shopping](/es/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/2kGKxwD9HKJvTLDTikQ4zG) para que los retailers puedan ofrecer anuncios con mayor calidad y descuentos con el [medio de pago](/es/docs/tutorials/diferencia-entre-medios-de-pago-y-condiciones-de-pago) que mejor se adapte a las demandas del público de la tienda.
 
 ## ¿Qué cambió?
 

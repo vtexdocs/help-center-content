@@ -15,7 +15,7 @@ trackSlugEN: catalogo-101
 order: 13
 ---
 
-> ⚠️ Antes de crear una colección, es necesario haber configurado la autorización. Para eso, debe tener un perfil de acceso con el recurso **Write Collections**, en la sección **Collection** de los perfiles de Catalog. Vea [aquí](/es/tutorial/perfiles-de-acceso--7HKK5Uau2H6wxE1rH5oRbc) cómo configurar un recurso.
+> ⚠️ Antes de crear una colección, es necesario haber configurado la autorización. Para eso, debe tener un perfil de acceso con el recurso **Write Collections**, en la sección **Collection** de los perfiles de Catalog. Vea [aquí](/es/docs/tutorials/roles) cómo configurar un recurso.
 
 Realice el siguiente paso a paso para registrar una nueva colección:
 

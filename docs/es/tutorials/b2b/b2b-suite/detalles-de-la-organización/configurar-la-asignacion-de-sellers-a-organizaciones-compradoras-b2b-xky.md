@@ -46,4 +46,4 @@ A partir de ahora, cada vez que la organización realice una búsqueda en la pla
 
 > ⚠️ Las organizaciones compradoras que opten por no crear asignaciones de sellers, podrán acceder igualmente a la información y realizar compras a todos los sellers disponibles en el marketplace.
 
-Para más información sobre cómo integrar un nuevo seller, consulta el artículo [Agregar seller](/es/tutorial/adicionar-seller--tutorials_392).
+Para más información sobre cómo integrar un nuevo seller, consulta el artículo [Agregar seller](/es/docs/tutorials/agregar-seller).

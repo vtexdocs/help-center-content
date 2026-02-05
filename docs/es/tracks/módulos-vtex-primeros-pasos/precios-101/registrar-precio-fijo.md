@@ -69,5 +69,5 @@ Para eliminar un precio fijo existente, sigue los pasos que se indican a continu
 Para registrar un precio fijo mediante API, utiliza el endpoint [Create or update base or fixed prices](https://developers.vtex.com/docs/api-reference/pricing-api#put-/pricing/prices/-itemId-) de la Pricing API.
 
 ### Más información
-* [Programar precio](/es/tutorial/programar-precio--4vVha6TGzYkguWuMOqCcCk)
+* [Programar precio](/es/docs/tutorials/programar-precio)
 

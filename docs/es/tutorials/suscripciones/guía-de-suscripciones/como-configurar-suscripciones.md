@@ -51,13 +51,13 @@ Actualmente, los siguientes medios de pago están habilitados para pedidos de su
 
 > ℹ️ Para colocar a disposición la opción de pago **Tarjeta de crédito**, contacte al adquirente de cu tienda y verifique si acepta transacciones de compras recurrentes de tarjetas con token (sin CVV). El sistema de **Suscripciones** utilizará los mismos datos de la tarjeta empleada en la primera compra para realizar las demás compras de suscripción, garantizando la seguridad de todo el proceso.
 
-Para habilitar este tipo de transacción en el conector, el gestor de la tienda deberá solicitar al adquirente la habilitación para transaccionar pagos recurrentes. Acceda a nuestro artículo sobre [Registrar afiliaciones de gateway](/es/tutorial/afiliaciones-de-gateway--tutorials_444).
+Para habilitar este tipo de transacción en el conector, el gestor de la tienda deberá solicitar al adquirente la habilitación para transaccionar pagos recurrentes. Acceda a nuestro artículo sobre [Registrar afiliaciones de gateway](/es/docs/tutorials/afiliaciones-de-gateway).
 
 ## 3. Crear un plan de suscripción
 
-En el módulo __Suscripciones__, necesita crear planes de suscripción para ponerlos a disposición de sus clientes y asociar productos a esos planes. Los planes se utilizan para indicar que la función __Suscripciones__ está activa para determinados productos y para mostrar la frecuencia de las suscripciones disponibles. Consulte el artículo [Cómo crear un plan de suscripción](/es/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) para obtener más información sobre este proceso.
+En el módulo __Suscripciones__, necesita crear planes de suscripción para ponerlos a disposición de sus clientes y asociar productos a esos planes. Los planes se utilizan para indicar que la función __Suscripciones__ está activa para determinados productos y para mostrar la frecuencia de las suscripciones disponibles. Consulte el artículo [Cómo crear un plan de suscripción](/es/docs/tutorials/como-crear-un-plan-de-suscripcion) para obtener más información sobre este proceso.
 
-Existe otra opción para crear un plan de suscripción, que consiste en crear manualmente un anexo de SKU en el __Catálogo__. El **anexo de SKU** se encarga de indicar que la funcionalidad de Suscripción está activa para esa SKU, y también qué frecuencias están disponibles. Consulte el artículo [Cómo crear un anexo de suscripción](/es/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK) para obtener más información sobre este proceso.
+Existe otra opción para crear un plan de suscripción, que consiste en crear manualmente un anexo de SKU en el __Catálogo__. El **anexo de SKU** se encarga de indicar que la funcionalidad de Suscripción está activa para esa SKU, y también qué frecuencias están disponibles. Consulte el artículo [Cómo crear un anexo de suscripción](/es/docs/tutorials/como-crear-un-anexo-de-suscripcion-en-el-modulo-catalogo) para obtener más información sobre este proceso.
 
 ## 4. Configurar perfiles de acceso para Suscripciones
 
@@ -83,6 +83,6 @@ Para configurar los perfiles de acceso de Suscripciones, realice las siguientes 
 5. Marque las casillas de los recursos que desea agregar.
 6. Haga clic en `Guardar`.
 
-Una vez que Suscripciones esté configurada en su tienda, acceda a nuestro artículo para verificar cómo [gestionar suscripciones](/es/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x).
+Una vez que Suscripciones esté configurada en su tienda, acceda a nuestro artículo para verificar cómo [gestionar suscripciones](/es/docs/tutorials/como-gestionar-suscripciones).
 
-Se puede probar el flujo de compra de una suscripción a partir de la perspectiva del cliente de su tienda. Para comprender cómo su cliente genera un pedido de suscripción, consulte nuestro artículo sobre [cómo funciona Suscripciones](/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453).
+Se puede probar el flujo de compra de una suscripción a partir de la perspectiva del cliente de su tienda. Para comprender cómo su cliente genera un pedido de suscripción, consulte nuestro artículo sobre [cómo funciona Suscripciones](/es/docs/tutorials/como-funciona-suscripciones).

@@ -25,7 +25,7 @@ En VTEX, su tienda puede recibir pagos a través de pagarés. Para habilitar est
 
 ## Configurar proveedor de pago
 
-Para configurar un proveedor de pagos, acceda a [Registrar proveedores de pagos y antifraude](/es/tutorial/afiliaciones-de-gateway--tutorials_444).
+Para configurar un proveedor de pagos, acceda a [Registrar proveedores de pagos y antifraude](/es/docs/tutorials/afiliaciones-de-gateway).
 
 > ⚠️ Verifique que el proveedor de pago deseado admita el procesamiento de pagos de pagarés.
 
@@ -42,8 +42,8 @@ Después de registrar el proveedor de pagos, siga los pasos a continuación:
 - __Descripción:__ ingrese los detalles de la condición de pago.
 - __Validez del pagaré:__ Plazo límite que su cliente tendrá para pagar el pagaré antes de que caduque.
 - __Autorización automática:__ seleccione si desea autorizar los pagos automáticamente. Recomendamos esta opción solo en casos en los que el pago que se realiza durante la entrega o recogida del pedido en la tienda. Si selecciona «Yes», el status del pedido cambia automáticamente a Preparando entrega sin pasar por ninguna verificación de pago.
-- __Modificar margen:__ es el margen porcentual permitido para la modificación del importe del pago realizado con un pagaré. Para algunos clientes, puede ser importante permitir [cambios en los pedidos](/es/tutorial/cambiar-items-de-un-pedido-finalizado--tutorials_190). En este caso, debe rellenar el campo Modificar margen para determinar el porcentaje de margen de cambio permitido.
-- __Activar split de pago:__ indique si utilizará la solución de [split de pagos](/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx). Si selecciona esta opción, cuando la venta involucre tiendas del marketplace, el pagaré se dividirá entre los sellers y el marketplace.
+- __Modificar margen:__ es el margen porcentual permitido para la modificación del importe del pago realizado con un pagaré. Para algunos clientes, puede ser importante permitir [cambios en los pedidos](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado). En este caso, debe rellenar el campo Modificar margen para determinar el porcentaje de margen de cambio permitido.
+- __Activar split de pago:__ indique si utilizará la solución de [split de pagos](/es/docs/tutorials/split-de-pagos). Si selecciona esta opción, cuando la venta involucre tiendas del marketplace, el pagaré se dividirá entre los sellers y el marketplace.
 - __Facturación automática:__ Número de días para la facturación automática del pagaré después de la autorización. 
 Los pagarés se facturan en el momento de la autorización del pago. Al configurar este campo, la facturación no se producirá al momento de la autorización, sino después del número de días que establezca.<br>
 

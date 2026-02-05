@@ -19,7 +19,7 @@ __Clientes o partners que implementan tiendas B2B:__ Las tiendas B2B, de forma p
 
 ## ¿Quién resulta afectado?
 
-Las tiendas B2B. Es decir, toda tienda que tenga una política comercial restringida (regla condicional). Principalmente, las tiendas nuevas. Para entender  más sobre las tiendas B2B, haga clic [aquí](/es/tutorial/setting-up-b2b-on-vtex--tutorials_238).
+Las tiendas B2B. Es decir, toda tienda que tenga una política comercial restringida (regla condicional). Principalmente, las tiendas nuevas. Para entender  más sobre las tiendas B2B, haga clic [aquí](/es/docs/tutorials/configurando-b2b-na-vtex).
 
 
 ## Cómo proceder

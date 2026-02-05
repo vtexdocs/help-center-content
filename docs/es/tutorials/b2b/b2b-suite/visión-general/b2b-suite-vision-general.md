@@ -86,7 +86,7 @@ Amplía la experiencia de checkout para usuarios que son miembros de organizacio
 
 ### B2B Orders History
 
-Proporciona una nueva página de Pedidos en [Mi cuenta](/es/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh) para que los usuarios B2B puedan ver todos los pedidos anteriores realizados por usuarios de su organización o centro de costos, en función de su rol.
+Proporciona una nueva página de Pedidos en [Mi cuenta](/es/docs/tutorials/como-funciona-mi-cuenta) para que los usuarios B2B puedan ver todos los pedidos anteriores realizados por usuarios de su organización o centro de costos, en función de su rol.
 
 ### B2B Admin Customers
 

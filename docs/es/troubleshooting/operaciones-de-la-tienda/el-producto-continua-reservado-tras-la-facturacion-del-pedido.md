@@ -28,7 +28,7 @@ Cuando se vende un producto, este pasa por los siguientes status en el stock de 
 
 3. [Reserva reconocida](/es/tutorial/como-a-reserva-funciona--tutorials_92#reserva-reconhecida): el pedido entra en el status "Preparando envío", lo que indica que el producto está a punto de ser enviado.
 
-Los productos se retiran del almacén solamente cuando el pedido alcanza el status **Preparando envío**. La [reducción de la cantidad en el stock](/es/tutorial/como-a-reserva-funciona--tutorials_92#baixa-no-estoque), que corresponde a la actualización de los ítems disponibles para la venta, puede ser realizada manualmente por el retailer o automáticamente a través del ERP. Este proceso se realiza a través de la [gestión del stock](/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) o a través del endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
+Los productos se retiran del almacén solamente cuando el pedido alcanza el status **Preparando envío**. La [reducción de la cantidad en el stock](/es/tutorial/como-a-reserva-funciona--tutorials_92#baixa-no-estoque), que corresponde a la actualización de los ítems disponibles para la venta, puede ser realizada manualmente por el retailer o automáticamente a través del ERP. Este proceso se realiza a través de la [gestión del stock](/es/docs/tutorials/gestionar-items-en-inventario) o a través del endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
 ## Soluciones
 

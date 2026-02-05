@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 ---
 
-La página [Claves de API](/es/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6) permite exportar información de todas las claves generadas y las claves externas relacionadas con la cuenta a un archivo `XLSX`.
+La página [Claves de API](/es/docs/tutorials/claves-de-api) permite exportar información de todas las claves generadas y las claves externas relacionadas con la cuenta a un archivo `XLSX`.
 
 ## Antes de empezar
 
@@ -57,7 +57,7 @@ A continuación se describen los datos disponibles en la plantilla.
 
 ## Más información
 
-* [Claves de API](/es/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6)  
+* [Claves de API](/es/docs/tutorials/claves-de-api)  
 * [Configurar alerta para renovar tokens de API](/es/tutorial/configurar-alerta-para-renovar-tokens-de-api)  
-* [Claves generadas](/es/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc) 
-* [Claves externas](/es/tutorial/chaves-externas--1isU0HfKkeg0atlxRha14Q)
+* [Claves generadas](/es/docs/tutorials/claves-generadas) 
+* [Claves externas](/es/docs/tutorials/claves-externas)

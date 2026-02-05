@@ -56,25 +56,25 @@ Existen estrategias para prevenir y reducir la exposición de tu tienda al riesg
 
 * **Antifraude:** configura un sistema [antifraude](/es/tutorial/what-is-anti-fraud) para todos los medios de pago de tu tienda.  
 * **reCAPTCHA:** utiliza [reCAPTCHA](/es/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP#) para prevenir fraudes con falsos usuarios creados por programas maliciosos.
-* **Autenticación:** si tu tienda está experimentando ataques recurrentes, considera desactivar el inicio de sesión mediante contraseña y opta por otro método de [autenticación](/es/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs) para los clientes de tu tienda.
+* **Autenticación:** si tu tienda está experimentando ataques recurrentes, considera desactivar el inicio de sesión mediante contraseña y opta por otro método de [autenticación](/es/docs/tutorials/autenticacion) para los clientes de tu tienda.
 
-> ℹ️ Para más información sobre acciones preventivas, consulta el artículo [Prácticas recomendadas para evitar ataques virtuales](/es/tutorial/boas-praticas-contra-ataques-virtuais--191rpbF7UgrKapVCi1PCDE) y este [post](https://community.vtex.com/t/duvidas-frequentes-varias-tentativas-de-compras-fraudulentas-o-que-fazer/39470) (disponible en portugués) en VTEX Community.
+> ℹ️ Para más información sobre acciones preventivas, consulta el artículo [Prácticas recomendadas para evitar ataques virtuales](/es/docs/tutorials/practicas-recomendadas-para-evitar-ataques-virtuales) y este [post](https://community.vtex.com/t/duvidas-frequentes-varias-tentativas-de-compras-fraudulentas-o-que-fazer/39470) (disponible en portugués) en VTEX Community.
 
 ### Controla el nivel de acceso de los permisos
 
-Respecto a la [seguridad de las tiendas VTEX](/es/subcategory/seguranca-para-lojistas--6uJgdHqWf1Mo0rUfgxseTn), existen medidas preventivas y [mejores prácticas](/es/tutorial/boas-praticas-para-evitar-golpes-que-utilizam-a-marca-da-vtex--6uPwUr2Fnj2m3TM4hAj2Ec) que aumentan el nivel de seguridad de tu negocio. Una de las principales es la gestión de roles en tu Admin VTEX. 
+Respecto a la [seguridad de las tiendas VTEX](/es/subcategory/seguranca-para-lojistas--6uJgdHqWf1Mo0rUfgxseTn), existen medidas preventivas y [mejores prácticas](/es/docs/tutorials/buenas-practicas-de-prevencion-de-fraudes-que-utilizan-la-marca-vtex) que aumentan el nivel de seguridad de tu negocio. Una de las principales es la gestión de roles en tu Admin VTEX. 
 
-Consulta a continuación algunas de las recomendaciones más importantes sobre [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) en VTEX:
+Consulta a continuación algunas de las recomendaciones más importantes sobre [roles](/es/docs/tutorials/roles) en VTEX:
 
 * **Concede el nivel mínimo de permiso necesario:** crea roles de manera que el acceso a la información y configuraciones sea únicamente el requerido para llevar a cabo la actividad prevista. Además de los [roles predeterminados](/es/tutorial/perfis-de-acesso), también puedes crear [roles personalizados](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso). Reducir el nivel de permisos de terceros a contenidos críticos implica disminuir tu exposición al riesgo de accesos no deseados, fugas de datos u otros escenarios perjudiciales. 
-* **Reevalúa roles:** [gestiona los usuarios](/es/tutorial/gerenciando-usuarios--tutorials_512) de manera periódica y mantén actualizado el nivel de permiso adecuado de cada usuario. Es esencial eliminar roles de empleados o proveedores que ya no participan en tu negocio. Realizar revisiones periódicas y proactivas de usuarios ayuda a prevenir violaciones de seguridad causadas por accesos indebidos.
-* **Controla el permiso de las claves de aplicación:** el acceso a tu tienda VTEX también puede realizarse mediante [claves de aplicación](/es/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) utilizadas en integraciones. Es importante seguir nuestras recomendaciones de [Mejores prácticas para el uso de claves de aplicación](/es/tutorial/boas-praticas-chaves-de-aplicacao--7b6nD1VMHa49aI5brlOvJm).
+* **Reevalúa roles:** [gestiona los usuarios](/es/docs/tutorials/gestionar-usuarios-administradores) de manera periódica y mantén actualizado el nivel de permiso adecuado de cada usuario. Es esencial eliminar roles de empleados o proveedores que ya no participan en tu negocio. Realizar revisiones periódicas y proactivas de usuarios ayuda a prevenir violaciones de seguridad causadas por accesos indebidos.
+* **Controla el permiso de las claves de aplicación:** el acceso a tu tienda VTEX también puede realizarse mediante [claves de aplicación](/es/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) utilizadas en integraciones. Es importante seguir nuestras recomendaciones de [Mejores prácticas para el uso de claves de aplicación](/es/docs/tutorials/buenas-practicas-claves-de-api).
 * **Restringe el acceso al Admin VTEX a dominios corporativos:** al utilizar un dominio corporativo, se crea una barrera adicional que impide que personas y sistemas no autorizados accedan a tu tienda. Limitar el acceso solamente a emails corporativos ayuda a mitigar el riesgo de fugas de datos (intencionadas o accidentales), aumenta la protección contra el phishing y facilita la trazabilidad de las actividades de auditoría.
-* **Activa la autenticación de 2 factores:** con la [autenticación de 2 factores (2FA)](/es/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ) agregas una capa extra de seguridad a tu operación y proteges el acceso a tu tienda en caso de que la confidencialidad de tu contraseña se vea comprometida. Activar esta autenticación es aún más importante para los usuarios con acceso a información y configuraciones de niveles críticos.
+* **Activa la autenticación de 2 factores:** con la [autenticación de 2 factores (2FA)](/es/docs/tutorials/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores) agregas una capa extra de seguridad a tu operación y proteges el acceso a tu tienda en caso de que la confidencialidad de tu contraseña se vea comprometida. Activar esta autenticación es aún más importante para los usuarios con acceso a información y configuraciones de niveles críticos.
 
 ### Conoce nuestros partners y marketplaces certificados
 
-La arquitectura de la plataforma VTEX permite que las tiendas actúen simultáneamente como [marketplaces o como sellers](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402), y la página [Marketplaces e integraciones](/es/tutorial/marketplaces-e-integracoes--5AcBO1t29nhq7rBHas9b6V) facilita el descubrimiento y la comunicación entre marketplaces y sellers VTEX. Además, VTEX ofrece integraciones nativas con varios [marketplaces certificados](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-marketplace-certificado) y [partners](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-marketplace-partner) (como Amazon y Mercado Libre).
+La arquitectura de la plataforma VTEX permite que las tiendas actúen simultáneamente como [marketplaces o como sellers](/es/docs/tutorials/estrategias-de-marketplace-en-vtex), y la página [Marketplaces e integraciones](/es/docs/tutorials/marketplaces-e-integraciones) facilita el descubrimiento y la comunicación entre marketplaces y sellers VTEX. Además, VTEX ofrece integraciones nativas con varios [marketplaces certificados](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-marketplace-certificado) y [partners](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-marketplace-partner) (como Amazon y Mercado Libre).
 
 Si deseas desarrollar una integración con un marketplace externo, consulta el artículo [External Marketplace](https://developers.vtex.com/docs/guides/external-marketplace-integration-guide).
 
@@ -110,7 +110,7 @@ Por este motivo, VTEX pone a disposición la página [VTEX Status](https://statu
 * [Feed RSS](https://rss.com/blog/how-do-rss-feeds-work/)
 * [Slack](https://slack.com/)
 
-> ℹ️ Para comprender los detalles de la página de status de la plataforma, accede al artículo [Página VTEX Status](/es/tutorial/pagina-de-status-da-vtex--gPhqDn9IQ3c67wbJEX3JJ).
+> ℹ️ Para comprender los detalles de la página de status de la plataforma, accede al artículo [Página VTEX Status](/es/docs/tutorials/pagina-vtex-status).
 
 ### Conoce nuestros contenidos de onboarding
 
@@ -145,7 +145,7 @@ Existen algunos casos en los que se requiere soporte a través de la apertura de
 
 Nuestros especialistas están preparados para resolver tu consulta y brindarte una excelente experiencia durante todo el proceso, pero tu colaboración puede contribuir a que el soporte funcione de la manera más rápida y eficaz posible. 
 
-Existen [Buenas prácticas para abrir un ticket con el soporte VTEX](/es/tutorial/como-escrever-um-ticket-completo-para-o-suporte-vtex--6u4ehk6F0ksuDgYuCbFDRX), con el fin de recibir una atención más rápida y objetiva. Algunas de las principales son:
+Existen [Buenas prácticas para abrir un ticket con el soporte VTEX](/es/docs/tutorials/como-escribir-un-ticket-completo-para-soporte-vtex), con el fin de recibir una atención más rápida y objetiva. Algunas de las principales son:
 
 * Proporcionar información detallada sobre el motivo de la apertura del ticket.
 * Describir la situación o el problema de forma clara, precisa y objetiva (especialmente en el caso de problemas urgentes).
@@ -153,7 +153,7 @@ Existen [Buenas prácticas para abrir un ticket con el soporte VTEX](/es/tutoria
 * Cuando sea posible, adjuntar capturas de pantalla e incluir los registros (logs) relevantes.
 * Cuando sea posible, proporcionar instrucciones sobre cómo reproducir situaciones de error y problemas.
 
-Estas recomendaciones son algunas de las más importantes. Para más información, consulta el artículo [Buenas prácticas para abrir un ticket con el soporte VTEX](/es/tutorial/como-escrever-um-ticket-completo-para-o-suporte-vtex--6u4ehk6F0ksuDgYuCbFDRX).
+Estas recomendaciones son algunas de las más importantes. Para más información, consulta el artículo [Buenas prácticas para abrir un ticket con el soporte VTEX](/es/docs/tutorials/como-escribir-un-ticket-completo-para-soporte-vtex).
 
 > ℹ️ Para una visión general de nuestro soporte vía tickets, consulta la serie [Soporte VTEX](/es/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8), presente en la **Guía de onboarding**.
 

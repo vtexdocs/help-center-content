@@ -23,7 +23,7 @@ Para seguir monitoreando los datos de navegación en tu tienda VTEX, deberás cr
 
 Universal Analytics dejará de procesar eventos el 1 de julio de 2023. Por lo tanto, la única versión funcional de la herramienta será Google Analytics 4.
 
-Para garantizar la compatibilidad de las tiendas VTEX debes crear un registro en Google Analytics 4 y ajustar las configuraciones de tu cuenta en Google Tag Manager como se especifica en el artículo [Configurar Google Analytics 4 en tiendas VTEX](/es/tutorial/como-configurar-el-google-analytics-en-tienda-vtex--G2P0rmSrEiqCcmUMyUUwG).
+Para garantizar la compatibilidad de las tiendas VTEX debes crear un registro en Google Analytics 4 y ajustar las configuraciones de tu cuenta en Google Tag Manager como se especifica en el artículo [Configurar Google Analytics 4 en tiendas VTEX](/es/docs/tutorials/como-configurar-el-google-analytics-en-tienda-vtex).
 
 Las tiendas que utilizan VTEX IO - Store Framework también necesitan configurar [la aplicación Google Tag Manager](https://developers.vtex.com/docs/guides/google-tag-manager) para realizar la integración con Google Analytics 4. 
 
@@ -33,7 +33,7 @@ Implementamos el cambio para permitir que las tiendas VTEX que utilizan el [CMS 
 
 ## ¿Qué se necesita hacer?
 
-Para que tu tienda sea compatible con la nueva herramienta de análisis de datos de Google, sigue las instrucciones de la guía [Configurar Google Analytics 4 en tiendas VTEX](/es/tutorial/como-configurar-el-google-analytics-en-tienda-vtex--G2P0rmSrEiqCcmUMyUUwG).
+Para que tu tienda sea compatible con la nueva herramienta de análisis de datos de Google, sigue las instrucciones de la guía [Configurar Google Analytics 4 en tiendas VTEX](/es/docs/tutorials/como-configurar-el-google-analytics-en-tienda-vtex).
 
 Si tu tienda utiliza [VTEX IO - Store Framework](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), será necesário activar una configuración en el Admin VTEX, `Send events in GA4 format`, y configurar la aplicación para recibir actualizaciones de Google Analytics 4. Para más información, accede a [Installing Google Tag Manager](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-google-tag-manager).
 

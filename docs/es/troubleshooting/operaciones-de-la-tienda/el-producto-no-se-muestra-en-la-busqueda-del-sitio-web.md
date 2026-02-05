@@ -51,7 +51,7 @@ La ausencia del producto en un resultado de búsqueda puede atribuirse a que alg
 
 1. En el Admin VTEX, accede a **Catálogo > Todos los productos**.
 
-> ⚠️ Las tiendas que utilizan la página **Productos y SKUs (beta)** deben verificar los campos de registro de productos accediendo a **Catálogo > Productos y SKUs** en el Admin VTEX. Más información en [Productos y SKUs (beta)](/es/tutorial/productos-y-skus-beta--2ig7TmROlirWirZjFWZ3By).
+> ⚠️ Las tiendas que utilizan la página **Productos y SKUs (beta)** deben verificar los campos de registro de productos accediendo a **Catálogo > Productos y SKUs** en el Admin VTEX. Más información en [Productos y SKUs (beta)](/es/docs/tutorials/productos-y-skus).
 
 2. Haz clic en sobre el producto que deseas **EDITAR**.
 

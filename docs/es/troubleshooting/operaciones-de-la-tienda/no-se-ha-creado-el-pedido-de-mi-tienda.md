@@ -25,7 +25,7 @@ Cuando un cliente intenta realizar una compra y se produce un error al crear el 
 
 Antes de considerar razones complejas para errores en pedidos no creados, aplica los procesos de resolución de problemas (troubleshooting) presentados en este artículo. Algunos de los escenarios de error más comunes son:
 
-* El ítem no estaba disponible en el [stock](/es/tutorial/inventory-management--tutorials_139) y la tienda no estaba configurada para vender productos sin stock (agotados).
+* El ítem no estaba disponible en el [stock](/es/docs/tutorials/gestionar-items-en-inventario) y la tienda no estaba configurada para vender productos sin stock (agotados).
 * La integración XML no estaba configurada para enviar información sobre productos sin stock (agotados).
 
 ## Soluciones
@@ -37,7 +37,7 @@ Considera los siguientes procesos de solución de problemas para errores en la c
 
 ### Gestionar stock
 
-Hay dos formas de gestionar el [stock](/es/tutorial/inventory-management--tutorials_139):
+Hay dos formas de gestionar el [stock](/es/docs/tutorials/gestionar-items-en-inventario):
 
 * **Vía API:** utilizando el endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 * **Vía Admin VTEX:** accediendo a _Catálogo > Stock > Gestión del stock_.
@@ -51,7 +51,7 @@ Las siguientes soluciones se centran en la gestión del stock a través del Admi
 
 ### Revisar la integración XML
 
-XML es un lenguaje de marcado que define y almacena datos de forma compatible. Si la [integración XML de tu tienda](/es/tutorial/configurando-xml--tutorials_242) no tiene definidas ciertas configuraciones, es posible que no pueda exportarse la información del producto.
+XML es un lenguaje de marcado que define y almacena datos de forma compatible. Si la [integración XML de tu tienda](/es/docs/tutorials/como-configurar-xml) no tiene definidas ciertas configuraciones, es posible que no pueda exportarse la información del producto.
 
 Puede ocurrir un error debido a la falta de información del producto cuando no hay stock de ese producto y la integración no está configurada para enviar productos _sin stock (agotados)_. Para activar la configuración, sigue los pasos a continuación:
 

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 ---
 
-Cambiar el [dominio](/es/tutorial/configurar-dominio-de-la-tienda--tutorials_2450) de una tienda tras el go live exige una atención cuidadosa para minimizar problemas de SEO y garantizar una transición transparente, sin impactar la experiencia del cliente.
+Cambiar el [dominio](/es/docs/tutorials/configurar-dominio-de-la-tienda) de una tienda tras el go live exige una atención cuidadosa para minimizar problemas de SEO y garantizar una transición transparente, sin impactar la experiencia del cliente.
 
 Consulta en las secciones a continuación más información sobre el proceso completo para cambiar tu dominio en VTEX:
 
@@ -37,10 +37,10 @@ Sigue los pasos a continuación para cambiar el dominio:
 
 1. Crea un nuevo host en el Admin VTEX, como se ilustra en [Registrar nuevo host](/es/tutorial/configurar-dominio-de-la-tienda--tutorials_2450#registrar-nuevo-host). En este punto, el DNS del nuevo dominio aún no debe apuntar a VTEX.
 
-2. En el Admin VTEX, verifica la configuración de Checkout en **Configuración de la tienda > Storefront > Checkout**, según se describe en [Configurar template en SmartCheckout](/es/tutorial/configurar-template-en-el-smartcheckout-update--ToTE5XB39t0SwtHgpgwSv). 
+2. En el Admin VTEX, verifica la configuración de Checkout en **Configuración de la tienda > Storefront > Checkout**, según se describe en [Configurar template en SmartCheckout](/es/docs/tutorials/configurar-template-en-el-smartcheckout-update). 
 
    Este paso es imprescindible para que Checkout siga funcionando tras el cambio.  
-   Es necesario verificar que los sitios configurados estén asociados a la cuenta registrada en **Configuración de la cuenta > Cuenta**. Para más información, consulta [Gestión de la cuenta](/es/tutorial/gestion-de-la-cuenta--2vhUVOKfCaswqLguT2F9xq).
+   Es necesario verificar que los sitios configurados estén asociados a la cuenta registrada en **Configuración de la cuenta > Cuenta**. Para más información, consulta [Gestión de la cuenta](/es/docs/tutorials/gestion-de-la-cuenta).
 
 3. Si tu tienda utiliza [VTEX IO - Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) o [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), ponte en contacto con el [Soporte VTEX](https://supporticket.vtex.com/support) y solicita el apuntamiento interno, informando el nuevo dominio. Más información sobre [apuntamiento interno](/es/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-el-apuntamiento-io).
 

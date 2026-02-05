@@ -17,7 +17,7 @@ subcategoryId: 1O8AEORWOcgIiMosGoousQ
 
 El **Simulador de envío** está disponible en el Admin para simular y analizar las opciones de entrega disponibles. La simulación verifica las condiciones de entrega dando al administrador de tienda la capacidad de verificar la disponibilidad de ítems, formas de entrega, costos y plazos. 
 
-El simulador también se puede utilizar para validar la configuración de la  **[Estrategia de envío](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)** antes de que se habilite el proceso logístico (Stock, Muelle y [Política de envío](/es/tutorial/politica-de-envio--tutorials_140)) considerando:
+El simulador también se puede utilizar para validar la configuración de la  **[Estrategia de envío](/es/docs/tutorials/estrategia-de-envio)** antes de que se habilite el proceso logístico (Stock, Muelle y [Política de envío](/es/docs/tutorials/politica-de-envio)) considerando:
 
 * **Disponibilidad de un ítem:** el simulador verifica si el ítem cuenta con _stock_ y si se puede realizar su entrega (si hay transportadoras registradas para esa región, por ejemplo). Si uno de los dos criterios no se cumple, el simulador entiende que el ítem no está disponible.
 * **Disponibilidad de Sellers White Label:** el simulador selecciona al franquiciado más cercano a la dirección de entrega (la configuración logística es calculada a través del ambiente del _Seller White Label_, y no por la Main Account).
@@ -51,9 +51,9 @@ Si lo desea, puede seleccionar la casilla `Simular ítems individualmente`.
 
 ## Detalles de la simulación
 
-La simulación de flete indica todas las posibilidades de envío y la disponibilidad de los ítems incluidos en la simulación y describe los [detalles de entrega de un pedido](/es/tutorial/pagina-de-detalles-del-pedido--2Y75n54Cc9VizrlG1N6ZNl), el valor del flete y el tiempo de entrega tomando en cuenta las particularidades que se indican a continuación.
+La simulación de flete indica todas las posibilidades de envío y la disponibilidad de los ítems incluidos en la simulación y describe los [detalles de entrega de un pedido](/es/docs/tutorials/pagina-de-detalles-del-pedido), el valor del flete y el tiempo de entrega tomando en cuenta las particularidades que se indican a continuación.
 
-* **Transportadoras desconsideradas**: al realizar la simulación, algunas transportadoras pueden estar indisponibles porque no cumplen los criterios de la [ Política de envío](/es/tutorial/politica-de-envio--tutorials_140) (vea 
+* **Transportadoras desconsideradas**: al realizar la simulación, algunas transportadoras pueden estar indisponibles porque no cumplen los criterios de la [ Política de envío](/es/docs/tutorials/politica-de-envio) (vea 
 [transportadoras desconsideradas](#transportadoras-desconsideradas) para más información)
 * **Compartición de simulación:** se puede realizar la compartición de la simulación haciendo clic en `Compartir simulación` en la esquina superior derecha de la página. Al hacer clic, se copiará un _link_ de compartición en su área de transferencia. Esta funcionalidad facilita la comunicación con el equipo de VTEX, o de su tienda, para resolver problemas que se producen en pedidos específicos. Solo la persona que tiene acceso al ambiente VTEX puede ver el _link_ de compartición generado.
 * **Valor del flete:** para las simulaciones realizadas con más de un SKU, el `valor del flete` se divide proporcionalmente al peso de cada SKU en el paquete. Por ejemplo, considere una simulación realizada con 2 SKU (uno de 2 kg y otro de 3 kg). Supongamos que el valor total del flete en la transportadora A es de USD 10. En este caso, el valor de flete del SKU más liviano es de USD 4 y el del más pesado es de USD 6. Para saber más, vea [Cómo se realiza el rateo de flete](/es/tutorial/como-e-feito-o-rateio-de-frete--frequentlyAskedQuestions_155?&utm_source=autocomplete).
@@ -76,13 +76,13 @@ A continuación, se enumeran los motivos más comunes por los que una transporta
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">El peso total del carrito excedió el límite permitido por la transportadora. 
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Puede cumplir con el límite dividiendo la carga.  Para más información lea nuestro artículo sobre [reparto de carga](/es/tutorial/como-funciona-a-divisao-de-carga--tutorials_109). También puede verificar si hay un error en la [configuración del producto en el catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
+   <td class="t-body pa5" style="min-width: 15rem;">Puede cumplir con el límite dividiendo la carga.  Para más información lea nuestro artículo sobre [reparto de carga](/es/docs/tutorials/como-se-maneja-el-reparto-de-carga). También puede verificar si hay un error en la [configuración del producto en el catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">El peso o la dimensión del ítem no es permitido por la transportadora.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración de la [plantilla de flete](/es/tutorial/plantilla-de-flete--tutorials_127) a través de los campos ***WeightStart, WeightEnd y MaxVolume***.*** *** También revise si hay un error en la [configuración del producto en el catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
+   <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración de la [plantilla de flete](/es/docs/tutorials/plantilla-de-flete) a través de los campos ***WeightStart, WeightEnd y MaxVolume***.*** *** También revise si hay un error en la [configuración del producto en el catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
    </td>
   </tr>
   <tr class="bb b--muted-3">
@@ -90,19 +90,19 @@ A continuación, se enumeran los motivos más comunes por los que una transporta
       
       *Nota: los ítems que componen un kit o promoción no se pueden separar en diferentes paquetes.*
    </td>
-  <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración de la [plantilla de flete ](/es/tutorial/plantilla-de-flete--tutorials_127)a través de los campos ***WeightStart ***y ***WeightEnd. ***También puede comprobar si hay un error en la [configuración del producto en el catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
+  <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración de la [plantilla de flete ](/es/docs/tutorials/plantilla-de-flete)a través de los campos ***WeightStart ***y ***WeightEnd. ***También puede comprobar si hay un error en la [configuración del producto en el catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">Las opciones de programación de entrega no están disponibles.
    </td>
-  <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración de las ventanas de [entregas programadas](/es/tutorial/entrega-programada--22g3HAVCGLFiU7xugShOBi) y el horario de atención de la [política de envío](/es/tutorial/politica-de-envio--tutorials_140). Es posible que las ventanas de entregas programadas estén bloqueadas, compruebe si las ventanas correctas están activas.
+  <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración de las ventanas de [entregas programadas](/es/docs/tutorials/entrega-programada) y el horario de atención de la [política de envío](/es/docs/tutorials/politica-de-envio). Es posible que las ventanas de entregas programadas estén bloqueadas, compruebe si las ventanas correctas están activas.
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">El Código Postal no es cubierto por la transportadora.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración de la [plantilla de flete](/es/tutorial/plantilla-de-flete--tutorials_127) a través de los campos ***ZipCodeStart*** y ***ZipCodeEnd. ***También revise las [Tarifas de envío](/es/tutorial/gestionar-valores-de-flete--tutorials_141) en el módulo de **Envío**.
+   <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración de la [plantilla de flete](/es/docs/tutorials/plantilla-de-flete) a través de los campos ***ZipCodeStart*** y ***ZipCodeEnd. ***También revise las [Tarifas de envío](/es/docs/tutorials/gestionar-las-tarifas-de-envio) en el módulo de **Envío**.
    </td>
   </tr>
   <tr class="bb b--muted-3">
@@ -120,19 +120,19 @@ A continuación, se enumeran los motivos más comunes por los que una transporta
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">La transportadora está inactiva. 
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Revise el registro de la [política de envío](/es/tutorial/politica-de-envio--tutorials_140) para verificar si la transportadora está activa.
+   <td class="t-body pa5" style="min-width: 15rem;">Revise el registro de la [política de envío](/es/docs/tutorials/politica-de-envio) para verificar si la transportadora está activa.
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">El precio de los ítems no cumple las especificaciones de la transportadora.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración del precio límite aceptado en la [política de envío](/es/tutorial/politica-de-envio--tutorials_140). 
+   <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración del precio límite aceptado en la [política de envío](/es/docs/tutorials/politica-de-envio). 
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">El horario de atención de la transportadora no se adecúa al horario de entrega.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Verifique el horario de atención de la [política de envío](/es/tutorial/politica-de-envio--tutorials_140).
+   <td class="t-body pa5" style="min-width: 15rem;">Verifique el horario de atención de la [política de envío](/es/docs/tutorials/politica-de-envio).
    </td>
   </tr>
 </table>

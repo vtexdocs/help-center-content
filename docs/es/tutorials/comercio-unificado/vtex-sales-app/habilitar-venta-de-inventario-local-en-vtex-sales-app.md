@@ -33,17 +33,17 @@ El primer paso es [solicitar la creación de una cuenta de franquicia](/es/track
 
 ## Crear un seller
 
-Tras crear una cuenta franquicia, debes [crear un seller](/es/tutorial/adicionar-seller--tutorials_392) para que represente a la tienda física en la cuenta principal asociada a la cuenta franquicia. Para comprobar si tu tienda utiliza la recogida en tienda o los sellers para representar a las tiendas físicas, ve a la página **[Gestión de sellers](/es/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv)** de tu Admin VTEX y busca el nombre de la tienda física.
+Tras crear una cuenta franquicia, debes [crear un seller](/es/docs/tutorials/agregar-seller) para que represente a la tienda física en la cuenta principal asociada a la cuenta franquicia. Para comprobar si tu tienda utiliza la recogida en tienda o los sellers para representar a las tiendas físicas, ve a la página **[Gestión de sellers](/es/docs/tutorials/gestion-de-sellers)** de tu Admin VTEX y busca el nombre de la tienda física.
 
 ## Configurar un punto de recogida
 
-Tras crear la cuenta franquicia, debes insertar tanto la dirección de la tienda física como un [punto de recogida](/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) disponible. Para ello, sigue las instrucciones en el artículo [Cómo configurar puntos de recogida](/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#como-configurar-pontos-de-retirada).
+Tras crear la cuenta franquicia, debes insertar tanto la dirección de la tienda física como un [punto de recogida](/es/docs/tutorials/puntos-de-recogida) disponible. Para ello, sigue las instrucciones en el artículo [Cómo configurar puntos de recogida](/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#como-configurar-pontos-de-retirada).
 
 Al punto de recogida creado se le asignará un ID que necesitarás al [Crear un almacén](crear-un-almacen). Si pierdes el ID, puedes verlo en la pantalla **Puntos de recogida** del Admin VTEX, en la columna **ID**.
 
 ## Crear un almacén
 
-Con el punto de recogida registrado, debes introducir el [almacén](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) disponible para tu tienda física en cada seller. Puedes compartir un almacén existente en tu tienda online con tu operación física o puedes crear un almacén exclusivo para las ventas de la tienda física. Para que un almacén esté disponible para Sales App, sigue los pasos a continuación:
+Con el punto de recogida registrado, debes introducir el [almacén](/es/docs/tutorials/almacen) disponible para tu tienda física en cada seller. Puedes compartir un almacén existente en tu tienda online con tu operación física o puedes crear un almacén exclusivo para las ventas de la tienda física. Para que un almacén esté disponible para Sales App, sigue los pasos a continuación:
 
 1. En el Admin VTEX, ve a **Envío > Estrategia de envío** > **Almacenes**, o escribe **Estrategia de envío** en la barra de búsqueda de la parte superior de la página.
 2. Haz clic en `+ Crear almacén`.
@@ -53,9 +53,9 @@ Con el punto de recogida registrado, debes introducir el [almacén](/es/tutorial
 
 ## Actualizar el stock
 
-Después de configurar el almacén y el punto de recogida, se recomienda comprobar los ítems disponibles en el [stock](/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) y actualizarlo. Puedes comprobar el stock de tu tienda de dos formas:
+Después de configurar el almacén y el punto de recogida, se recomienda comprobar los ítems disponibles en el [stock](/es/docs/tutorials/gestionar-items-en-inventario) y actualizarlo. Puedes comprobar el stock de tu tienda de dos formas:
 
-- **Manualmente**: en la página **[Gestión de stock](/es/tutorial/gerenciar-itens-em-estoque--tutorials_139)** en el Admin VTEX de la cuenta franquicia.
+- **Manualmente**: en la página **[Gestión de stock](/es/docs/tutorials/gestionar-items-en-inventario)** en el Admin VTEX de la cuenta franquicia.
 - **Integración ERP**: a través de la [integración ERP](https://developers.vtex.com/docs/guides/erp-integration-guide), agregando las cuentas franquicia a tu integración para que el [almacén se actualice automáticamente](https://developers.vtex.com/docs/guides/erp-integration-import-inventory#update-sku-inventory) por el ERP.
 
 Si todos tus productos se muestran sin cantidad, tendrás que agregar las cantidades de esta tienda manualmente o a través de la API.
@@ -95,7 +95,7 @@ También puedes configurar la Venta en mano para ignorar la cantidad de ítems e
 
 ### Habilitar la venta con carrito mixto (opcional)
 
-Una venta con carrito mixto es una venta que contiene ítems que el cliente recogerá en la tienda en el momento de la compra e ítems que se le entregarán en su domicilio. Esta funcionalidad está configurada por defecto en las tiendas VTEX. Para obtener más información sobre la funcionalidad, consulta nuestro artículo [División de pedidos y división de envíos](/es/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV).
+Una venta con carrito mixto es una venta que contiene ítems que el cliente recogerá en la tienda en el momento de la compra e ítems que se le entregarán en su domicilio. Esta funcionalidad está configurada por defecto en las tiendas VTEX. Para obtener más información sobre la funcionalidad, consulta nuestro artículo [División de pedidos y división de envíos](/es/docs/tutorials/division-de-pedidos-y-division-de-entregas).
 
 ## Integrar el punto de ventas
 

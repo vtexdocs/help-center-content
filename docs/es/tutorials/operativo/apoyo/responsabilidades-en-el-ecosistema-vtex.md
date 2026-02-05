@@ -142,7 +142,7 @@ Al detectar cualquier inconsistencia o error durante la operación de pago de un
 
 En el caso de las soluciones CMS nativas, es habitual que el retailer cuente con la colaboración de una agencia de implementación para personalizar la apariencia y la experiencia del cliente en el storefront.
 
-VTEX ofrece las siguientes posibilidades nativas de CMS: [Layout](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj#layout) para tiendas que utilizan [CMS Portal (Legado)](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), [Site Editor](/es/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) para las que utilizan [Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework) y [Headless CMS](/es/tutorial/headless-cms-visao-geral--3U5gvhHdQL0jczYH8gjX09) para aquellas que usan [FastStore](https://www.faststore.dev/). También es posible integrar tu CMS externo con las API de VTEX basadas en [headless](https://developers.vtex.com/docs/guides/headless-commerce).
+VTEX ofrece las siguientes posibilidades nativas de CMS: [Layout](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj#layout) para tiendas que utilizan [CMS Portal (Legado)](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), [Site Editor](/es/docs/tutorials/site-editor-vision-general) para las que utilizan [Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework) y [Headless CMS](/es/docs/tutorials/headless-cms-vision-general) para aquellas que usan [FastStore](https://www.faststore.dev/). También es posible integrar tu CMS externo con las API de VTEX basadas en [headless](https://developers.vtex.com/docs/guides/headless-commerce).
 
 Los problemas relacionados con la apariencia del contenido para el usuario final siempre deben tratarse inicialmente con el soporte de la agencia. Algunos ejemplos de estos problemas son:
 
@@ -158,7 +158,7 @@ Si la agencia descubre que el problema está en los controles, aplicaciones o co
 
 ## Integraciones con marketplaces externos
 
-VTEX tiene una arquitectura multiseller nativa que permite a las tiendas VTEX convertirse en marketplaces o sellers en otras tiendas VTEX. La plataforma también dispone de integraciones nativas con marketplaces externos para ofrecer sus productos sin necesidad de desarrollo. Los marketplaces con integraciones nativas se encuentran en la guía [Marketplaces e integraciones](/es/tutorial/marketplaces-e-integracoes--5AcBO1t29nhq7rBHas9b6V).
+VTEX tiene una arquitectura multiseller nativa que permite a las tiendas VTEX convertirse en marketplaces o sellers en otras tiendas VTEX. La plataforma también dispone de integraciones nativas con marketplaces externos para ofrecer sus productos sin necesidad de desarrollo. Los marketplaces con integraciones nativas se encuentran en la guía [Marketplaces e integraciones](/es/docs/tutorials/marketplaces-e-integraciones).
 
 Aun así, pueden existir tiendas partner estratégicas para tu empresa que operen fuera de esta red de colaboración nativa. Para casos como este, VTEX permite el desarrollo de [integraciones con marketplaces externos](https://developers.vtex.com/docs/guides/external-marketplace-integration-guide) con conectores externos (hubs) encargados de la comunicación entre una tienda VTEX y un marketplace externo no nativo.
 
@@ -192,7 +192,7 @@ Para más información sobre quién es responsable de cada fase del flujo de ped
 Sigue los pasos que se indican a continuación para identificar al soporte con el que debes ponerte en contacto si hay un problema en la actualización del status del pedido:
 
 1. En el Admin VTEX, accede a **Pedidos > Todos los pedidos**.
-2. Haz clic en el pedido deseado para acceder a la [página de detalles del pedido](/es/tutorial/pagina-de-detalles-del-pedido--2Y75n54Cc9VizrlG1N6ZNl).
+2. Haz clic en el pedido deseado para acceder a la [página de detalles del pedido](/es/docs/tutorials/pagina-de-detalles-del-pedido).
 3. En la sección **Historial de pedidos**, haz clic en `Ver interacciones` (botón ilustrado a continuación), y comprueba si hay algún mensaje de error. 
 
 ![ver-interacciones-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/soporte/operativo/responsabilidades-en-el-ecosistema-vtex_2.png)

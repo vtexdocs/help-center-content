@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ **Atención:** existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a [la configuración de colecciones mediante el CMS](/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L).
+> ⚠️ **Atención:** existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a [la configuración de colecciones mediante el CMS](/es/docs/tutorials/registrar-una-coleccion-cms).
 
 Las vitrinas se usan en el destaque de productos en diversas páginas. Se pueden usar también para recomendaciones, en la página del producto.
 
@@ -50,7 +50,7 @@ Recuerde guardar antes de buscar o cambiar páginas.
 El siguiente paso es agregar el contenido seleccionando **Add Content**.
 ![coleção8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_7.png)
 
-Es posible definir cada contenido usando colecciones o resultados de búsqueda, usando parámetros de búsqueda (más detalles [aquí](/es/tutorial/como-funciona-a-busca-da-vtex--tutorials_542)).
+Es posible definir cada contenido usando colecciones o resultados de búsqueda, usando parámetros de búsqueda (más detalles [aquí](/es/docs/tutorials/como-funciona-la-busqueda-de-vtex)).
 
 Los contenidos que deben cumplimentarse **Content** son:
 _Content_: nombre que identificará cada conjunto de elementos

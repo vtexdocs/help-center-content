@@ -19,7 +19,7 @@ Conceder crédito a terceros es una estrategia utilizada en varios modelos de ne
 
 Pero antes de ahondar en la aplicación de esta estrategia, hagamos una definición más precisa del término "crédito". Toda empresa que acepte recibir pagos en cuotas debe establecer un valor máximo mensual para pagar estas pequeñas "deudas". Este valor es el límite de crédito.
 
-En VTEX, el administrador de la tienda cuenta con [Customer Credit](/es/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0) para auxiliarlo en la gestión de este asunto. Se trata de una app que permite al usuario conceder crédito a los clientes —ya sean personas físicas o tiendas partners— que pueden utilizar este crédito como medio de pago.
+En VTEX, el administrador de la tienda cuenta con [Customer Credit](/es/docs/tutorials/customer-credit-vision-general) para auxiliarlo en la gestión de este asunto. Se trata de una app que permite al usuario conceder crédito a los clientes —ya sean personas físicas o tiendas partners— que pueden utilizar este crédito como medio de pago.
 
 En este artículo abordamos una sugerencia de flujo de implementación de Customer Credit en la estrategia B2B.
 

@@ -32,7 +32,7 @@ Esta práctica se asemeja a la definición de una política de contraseñas con 
 
 Renueva los tokens de API de manera recurrente para reducir los riesgos de exposición y mantener tus integraciones protegidas. Configura alertas en **Claves de API > Configuración** para recibir recordatorios periódicos (cada 3 o 6 meses) y guarda el nuevo token de forma segura mediante el link de acceso único, eliminando el antiguo después de la migración.
 
-Consulta [Renovar token de API](/es/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3) para saber más.
+Consulta [Renovar token de API](/es/docs/tutorials/renovar-token-de-api) para saber más.
 
 ## Reevaluar las claves y los accesos periódicamente
 
@@ -44,7 +44,7 @@ Si la recomendación anterior es similar a la definición de cambios de contrase
 
 Restringe el acceso de cada clave a los recursos y a la información según su respectiva función y necesidad. Al reducir la cantidad de información compartida entre los usuarios o las integraciones, se reduce el riesgo de fuga por amenazas internas.
 
-Ten en cuenta que la gestión de permisos para las claves de API se realiza mediante los [roles de acceso](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) y los [recursos de License Manager](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
+Ten en cuenta que la gestión de permisos para las claves de API se realiza mediante los [roles de acceso](/es/docs/tutorials/roles) y los [recursos de License Manager](/es/docs/tutorials/recursos-del-license-manager).
 
 ## Mantener un programa de concienciación
 

@@ -30,7 +30,7 @@ Cualquier cambio de status o modificación de información de un producto inicia
 - Creación o remoción del producto de una colección
 - Modificación del precio o cantidad de stock
 
-> ℹ️ Para más información sobre la indexación de un producto en tiendas de [CMS - Portal legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), consulta [Cómo funciona la indexación (CMS - Portal Legado)](/es/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256). Si tu tienda utiliza [Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), verifica el [Historial de indexación (Intelligent Search)](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH).
+> ℹ️ Para más información sobre la indexación de un producto en tiendas de [CMS - Portal legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), consulta [Cómo funciona la indexación (CMS - Portal Legado)](/es/docs/tutorials/entendiendo-el-funcionamento-de-la-indexacion). Si tu tienda utiliza [Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), verifica el [Historial de indexación (Intelligent Search)](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH).
 
 En ciertas situaciones, la indexación es interrumpida y no se muestra la información más actualizada del producto en la tienda. A continuación se mencionan algunos escenarios en los que se produce la interrupción:
 
@@ -61,7 +61,7 @@ Los errores en el registro de un producto pueden generar inconsistencias al rein
 
 1. En el Admin VTEX, accede a **Catálogo > Todos los productos**.  
 
-   > ⚠️ Las tiendas que utilizan la página **Produtos y SKUS (Beta)** deben verificar los campos de registro de productos accediendo a **Catálogo > Produtos y SKUS** en el Admin VTEX. Más información en [Produtos y SKUS (Beta)](/es/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).
+   > ⚠️ Las tiendas que utilizan la página **Produtos y SKUS (Beta)** deben verificar los campos de registro de productos accediendo a **Catálogo > Produtos y SKUS** en el Admin VTEX. Más información en [Produtos y SKUS (Beta)](/es/docs/tutorials/productos-y-skus).
 
 2. Ubica el producto que deseas y haz clic en **Modificar**.  
 
@@ -71,9 +71,9 @@ Los errores en el registro de un producto pueden generar inconsistencias al rein
 
 ### Verificar la información de binding de la cuenta
 
-Cuando la cuenta tiene [más de una tienda](/es/tutorial/gestionar-multitienda--4S0lFVBPylRS5KpVgdyDhJ), se debe realizar un proceso de [binding](/es/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W) para vincular el sitio web y las políticas comerciales aplicables a cada tienda. Si un producto está relacionado a una política comercial que no es parte del binding de la cuenta, pueden producirse errores de indexación.
+Cuando la cuenta tiene [más de una tienda](/es/docs/tutorials/gestionar-multitienda), se debe realizar un proceso de [binding](/es/docs/tutorials/que-es-binding) para vincular el sitio web y las políticas comerciales aplicables a cada tienda. Si un producto está relacionado a una política comercial que no es parte del binding de la cuenta, pueden producirse errores de indexación.
 
-Para identificar las políticas comerciales asociadas a cada tienda de tu cuenta, consulta [Vincular una tienda a una estructura de carpetas en CMS (binding)](/es/tutorial/vincular-um-account-name-a-um-website-binding--PxjfleOw6suCSO2uGWMMs).
+Para identificar las políticas comerciales asociadas a cada tienda de tu cuenta, consulta [Vincular una tienda a una estructura de carpetas en CMS (binding)](/es/docs/tutorials/vincular-un-account-name-a-un-website-binding).
 
 ### Reducir las políticas comerciales asociadas al producto
 
@@ -81,7 +81,7 @@ Cuando un producto tiene varias políticas comerciales asociadas, las iteracione
 
 Ejemplo: si un producto tiene 5 SKUs activos en 5 políticas comerciales diferentes, deben realizarse 25 validaciones de disponibilidad de stock, reglas de precios y promociones.
 
-Para evitar este escenario, verifica si existe la posibilidad de utilizar una misma política comercial para distintos marketplaces, según se describe en [Configurar política comercial para marketplace](/es/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404).  
+Para evitar este escenario, verifica si existe la posibilidad de utilizar una misma política comercial para distintos marketplaces, según se describe en [Configurar política comercial para marketplace](/es/docs/tutorials/configurar-politica-comercial-para-marketplace).  
 
 > ⚠️ Si es posible reducir el número de políticas comerciales de tu tienda, vuelve a acceder al registro del producto para cambiar la política comercial y verifica el informe de indexación, según se describe en [Verificar los campos de registro del producto](https://docs.google.com/document/d/1EJY1pNrzyNDLY9jIKwxoVM7H-a_MiY5gwRBWcA7kKrQ/edit#heading=h.thoceo5ljuhz).
 
@@ -110,10 +110,10 @@ Si alguno de los SKUs del producto forma parte de una [colección](/es/tracks/ca
 
 Se puede realizar una reindexación completa de la base de productos para actualizar la información de todos los productos de la tienda al mismo tiempo.
 
-En las tiendas que tienen menos de 100 mil productos registrados en el catálogo, el [usuario titular](/es/tutorial/o-que-e-o-usuario-master--3oPr7YuIkEYqUGmEqIMSEy) de la cuenta puede utilizar la función __Programar reindexación completa__ en el Admin VTEX.
+En las tiendas que tienen menos de 100 mil productos registrados en el catálogo, el [usuario titular](/es/docs/tutorials/que-es-el-usuario-titular) de la cuenta puede utilizar la función __Programar reindexación completa__ en el Admin VTEX.
 
 Las cuentas que tienen 100 mil productos o más registrados deben ponerse en contacto con el [soporte VTEX](/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) para realizar esta operación.
 
-Más información en [Mantenimiento de base de datos (full cleanup)](/es/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802).
+Más información en [Mantenimiento de base de datos (full cleanup)](/es/docs/tutorials/mantenimiento-de-base-de-datos-full-cleanup).
 
 ![Programar reindexación completa](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/no-logro-indexar-un-producto-del-catalogo_1.png)

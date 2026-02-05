@@ -27,7 +27,7 @@ Anteriormente, la gestión de las  [Claves de Aplicación](/es/tutorial/claves-d
 
 ### La autorización para crear claves de aplicación ahora se basan en recursos
 
-Anteriormente, solo el [usuario Titular](/es/tutorial/que-es-el-usuario-master--3oPr7YuIkEYqUGmEqIMSEy) podía crear y administrar claves de aplicación. Ahora, cualquier usuario con el recurso `License Manager / Services access control / Save user` configurado en sus [perfiles de acceso](/es/tutorial/perfiles-de-acceso--7HKK5Uau2H6wxE1rH5oRbc) puede crear estas credenciales y compartir los mismos permisos con otros usuarios, lo que permite al usuario propietario delegar esta responsabilidad según sea necesario.
+Anteriormente, solo el [usuario Titular](/es/docs/tutorials/que-es-el-usuario-titular) podía crear y administrar claves de aplicación. Ahora, cualquier usuario con el recurso `License Manager / Services access control / Save user` configurado en sus [perfiles de acceso](/es/docs/tutorials/roles) puede crear estas credenciales y compartir los mismos permisos con otros usuarios, lo que permite al usuario propietario delegar esta responsabilidad según sea necesario.
 
 ## ¿Por qué realizamos estos cambios?
 

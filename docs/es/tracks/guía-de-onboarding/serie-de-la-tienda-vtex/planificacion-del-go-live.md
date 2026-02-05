@@ -101,7 +101,7 @@ Durante las pruebas UAT, los probadores exploran el sitio web, realizan pedidos 
 
 Después de concluidas las pruebas y ajustes correspondientes, se debe preparar la tienda para el go live. Siete a tres días antes de la fecha prevista para el lanzamiento oficial, se deben completar las siguientes acciones:
 
-1. [Registrar el dominio en VTEX](/es/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450): hay que acceder a **Configuración de la cuenta** en el Admin VTEX para conectar la dirección de la tienda.
+1. [Registrar el dominio en VTEX](/es/docs/tutorials/configurar-dominio-de-la-tienda): hay que acceder a **Configuración de la cuenta** en el Admin VTEX para conectar la dirección de la tienda.
 
    > ⚠️ Después del registro, hay un plazo de siete días para completar el go live. Si la tienda no completa los procedimientos requeridos para el go live en ese periodo, habrá que acceder al registro y guardarlo nuevamente.
 
@@ -123,7 +123,7 @@ Después de concluidas las pruebas y ajustes correspondientes, se debe preparar 
     </tr>
     <tr class="bb b--muted-3">
       <td class="t-body pa5" style="min-width: 10rem;">CMS Portal (Legado)</td>
-      <td class="t-body pa5" style="min-width: 10rem;">Si el acceso a la tienda está restringido por una [política comercial](/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) con una regla condicional y tu storefront fue creado con[CMS Portal (Legado)](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), debes solicitar un [apuntamiento interno especial](/es/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-especial). Un ejemplo común son las tiendas B2B que restringen el acceso a empresas preaprobadas. La solicitud de apuntamiento especial se envía a través del [soporte VTEX](https://supporticket.vtex.com/support), que debe incluir la política comercial y la regla condicional configurada.</td>
+      <td class="t-body pa5" style="min-width: 10rem;">Si el acceso a la tienda está restringido por una [política comercial](/es/docs/tutorials/crear-una-politica-comercial) con una regla condicional y tu storefront fue creado con[CMS Portal (Legado)](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), debes solicitar un [apuntamiento interno especial](/es/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-especial). Un ejemplo común son las tiendas B2B que restringen el acceso a empresas preaprobadas. La solicitud de apuntamiento especial se envía a través del [soporte VTEX](https://supporticket.vtex.com/support), que debe incluir la política comercial y la regla condicional configurada.</td>
     </tr>
   </tbody>
   </table>
@@ -134,7 +134,7 @@ Independientemente del tipo de solicitud que se necesite, el ticket para el sopo
 - Si la [tecnología de storefront](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) fue desarrollada en VTEX IO o CMS Portal (Legado).
 - URL que se debe apuntar.
 - Horario en que se realizará el apuntamiento interno, entre 9:00 y 17:00 UTC-3.
-- Indicar si la tienda tiene reglas condicionales de [políticas comerciales](/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE).
+- Indicar si la tienda tiene reglas condicionales de [políticas comerciales](/es/docs/tutorials/crear-una-politica-comercial).
 - Si ya hay un sitio web activo que se esté migrando a VTEX, indicar si se utiliza la red CDN de Cloudfront.
 
 > ⚠️ Después de recibir la confirmación de apuntamiento interno, hay que realizar el apuntamiento común de DNS en hasta cinco días. De lo contrario, el apuntamiento interno se eliminará y habrá que enviar una nueva solicitud.
@@ -161,14 +161,14 @@ Después del lanzamiento oficial de la tienda, hay varias acciones importantes q
 
 Después del go live, se puede acceder a la tienda en el [dominio registrado](/es/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#cadastrar-dominio-na-vtex). Sin embargo, puede que sea necesario redirigir direcciones antiguas o una dirección sin subdominio `www` para garantizar el acceso a la dirección de la tienda nueva. Recomendamos seguir los tutoriales de los siguientes artículos:
 
-- [Redirección de otras direcciones](/es/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ)
-- [Configurar acceso sin www](/es/tutorial/configurando-acesso-sem-www--tutorials_4278)
+- [Redirección de otras direcciones](/es/docs/tutorials/redireccion-de-otras-direcciones)
+- [Configurar acceso sin www](/es/docs/tutorials/mejores-practicas-para-acceder-a-tienda-sin-www)
 
 ### Monitorear el rendimiento de la tienda
 
-Recomendamos monitorear el rendimiento de la tienda después del lanzamiento desde el menú de [Dashboards](/es/tutorial/visao-geral-dashboards--1yn2nZUoXtDO3teTEJsCNl) en el Admin VTEX, que incluye las siguientes páginas:
+Recomendamos monitorear el rendimiento de la tienda después del lanzamiento desde el menú de [Dashboards](/es/docs/tutorials/vista-general-dashboards) en el Admin VTEX, que incluye las siguientes páginas:
 
-- [Vista general:](/es/tutorial/vista-general-de-la-tienda--P8ahguoRs0U3PzmXg2wuQ) métricas principales que afectan los ingresos de las tiendas. Este dashboard monitorea los principales indicadores de la evolución de ventas mediante los recursos de análisis de tendencias de pedidos, tasa de conversión y gráficos del embudo de ventas.
-- [Desempeño de ventas:](/es/tutorial/desempeno-de-ventas--3DMube0sEsK9vPcRYGas72) dashboard que control para el comercio unificado, que ayuda a las tiendas a ampliar su negocio y tomar decisiones con mayor precisión.
+- [Vista general:](/es/docs/tutorials/vista-general-de-la-tienda) métricas principales que afectan los ingresos de las tiendas. Este dashboard monitorea los principales indicadores de la evolución de ventas mediante los recursos de análisis de tendencias de pedidos, tasa de conversión y gráficos del embudo de ventas.
+- [Desempeño de ventas:](/es/docs/tutorials/desempeno-de-ventas) dashboard que control para el comercio unificado, que ayuda a las tiendas a ampliar su negocio y tomar decisiones con mayor precisión.
 
-Además de las herramientas disponibles en el Admin VTEX, puedes monitorear el rendimiento de la tienda a través de [Google Analytics](https://analytics.google.com/analytics/web/) si fue previamente configurado. Para más información, accede a la guía [Configurar Google Analytics 4 en una tienda VTEX](/es/tutorial/como-configurar-google-analytics-em-loja-vtex--G2P0rmSrEiqCcmUMyUUwG).
+Además de las herramientas disponibles en el Admin VTEX, puedes monitorear el rendimiento de la tienda a través de [Google Analytics](https://analytics.google.com/analytics/web/) si fue previamente configurado. Para más información, accede a la guía [Configurar Google Analytics 4 en una tienda VTEX](/es/docs/tutorials/como-configurar-el-google-analytics-en-tienda-vtex).

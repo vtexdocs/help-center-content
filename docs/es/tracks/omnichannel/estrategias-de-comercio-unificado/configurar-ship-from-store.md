@@ -50,11 +50,11 @@ Crearemos un transportista para entregar desde el stock local de una de sus tien
 
 1. En el Admin VTEX de la cuenta franquicia deseada, accede a **Envío** > __Estrategia de envío__, o escribe __Estrategia de envío__ en la barra de búsqueda en la parte superior de la página.
 2. Haga clic en el botón `Crear política de envío`.
-3. Complete los datos del transportista de acuerdo con el artículo [Registrar transportista](/es/tutorial/cadastrar-transportadora--tutorials_140).
+3. Complete los datos del transportista de acuerdo con el artículo [Registrar transportista](/es/docs/tutorials/politica-de-envio).
 
 #### Conecte los transportistas al inventario de la tienda física
 
 Ahora es necesario informar al sistema VTEX cuál es el almacén del que los productos se irán para ser entregados por el transportista registrado en el paso anterior.
 
-1. Cree un muelle, como se describe [en este artículo](/es/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW). En el campo __Políticas de envío asociadas__, añada el transportista que creó en la sección anterior de esta guía.
-2. Cree un almacén, siguiendo los pasos del artículo [Registrar inventario](/es/tutorial/gerenciar-estoque--tutorials_137). En el campo __Origen__, añada el muelle que creó en el paso anterior.
+1. Cree un muelle, como se describe [en este artículo](/es/docs/tutorials/gestionar-el-muelle). En el campo __Políticas de envío asociadas__, añada el transportista que creó en la sección anterior de esta guía.
+2. Cree un almacén, siguiendo los pasos del artículo [Registrar inventario](/es/docs/tutorials/gestionar-almacenes). En el campo __Origen__, añada el muelle que creó en el paso anterior.

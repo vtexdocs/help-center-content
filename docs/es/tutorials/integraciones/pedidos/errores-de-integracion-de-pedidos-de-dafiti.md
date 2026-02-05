@@ -32,7 +32,7 @@ ____
 `No fue posible integrar el pedido, porque uno o más items no tienen suficiente inventario para el canal de ventas de Marketplace`<br>
 </br> `No fue posible integrar el pedido, porque uno o más items no están disponibles`
 
-Los errores relacionados con la falta o insuficiencia de stock pueden tener varias causas. Para identificar el origen del error y corregirlo, consulte el artículo [Errores de falta de stock en la integración de pedidos de marketplace](/es/tutorial/erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace--s1i5OCcPFslrMkZJLDnfP).
+Los errores relacionados con la falta o insuficiencia de stock pueden tener varias causas. Para identificar el origen del error y corregirlo, consulte el artículo [Errores de falta de stock en la integración de pedidos de marketplace](/es/docs/tutorials/errores-de-falta-de-stock-en-la-integracion-de-pedidos-de-marketplace).
 
 ____
 
@@ -40,7 +40,7 @@ ____
 
 `Não foi possível integrar o pedido, pois um ou mais itens não possui preço vigente para o canal de vendas configurado`
 
-Este error indica una inconsistencia en el precio del SKU, que puede estar expirado o tener un error de registro. Verifique si es necesario [cambiar el precio del SKU](/es/tutorial/alteracao-de-preco-de-sku--tutorials_95) y vuelva a procesar manualmente el pedido. En su Admin, en el módulo **Marketplace > Conexiones > Pedidos**, haga clic en el pedido que tiene el error y, luego, haga clic en **Acciones**. Seleccione la opción **Reprocesar**.
+Este error indica una inconsistencia en el precio del SKU, que puede estar expirado o tener un error de registro. Verifique si es necesario [cambiar el precio del SKU](/es/docs/tutorials/alteracion-de-precio-de-sku) y vuelva a procesar manualmente el pedido. En su Admin, en el módulo **Marketplace > Conexiones > Pedidos**, haga clic en el pedido que tiene el error y, luego, haga clic en **Acciones**. Seleccione la opción **Reprocesar**.
 
 ____
 
@@ -77,6 +77,6 @@ En la [configuración de la integración](/es/tracks/configurar-integracao-da-da
 
 ### Sepa más
 
-- [Errores de falta de stock en la integración de pedidos de marketplaces](/es/tutorial/erros-de-falta-de-estoque-em-pedidos-de-integracao-com-marketplace--s1i5OCcPFslrMkZJLDnfP)
-- [Errores de SLA en la integración de pedidos de marketplaces](/es/tutorial/erros-de-sla-na-integracao-de-pedidos-de-marketplace--X8lSfxT44OyxkxwvnRk1X)
-- [Resolución de errores de divergencia de precio en pedidos de marketplaces](/es/tutorial/resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace--6MbmPX4SKyRkcTJxVhRna8)
+- [Errores de falta de stock en la integración de pedidos de marketplaces](/es/docs/tutorials/errores-de-falta-de-stock-en-la-integracion-de-pedidos-de-marketplace)
+- [Errores de SLA en la integración de pedidos de marketplaces](/es/docs/tutorials/errores-de-sla-en-la-integracion-de-pedidos-de-marketplace)
+- [Resolución de errores de divergencia de precio en pedidos de marketplaces](/es/docs/tutorials/resolucion-de-errores-de-divergencia-de-precio-en-pedidos-de-marketplace)

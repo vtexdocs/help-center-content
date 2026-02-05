@@ -192,16 +192,16 @@ El conjunto de datos de pagos puede utilizarse para llevar a cabo los siguientes
 
 Los datos de pago de la plataforma VTEX muestran correlaciones con otros conjuntos de datos, ampliando la comprensión del ciclo de compra:
 
-- **Interacción con datos de [pedidos](/es/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv):** el análisis conjunto de los datos de pago y los pedidos proporciona información sobre cómo influyen los medios de pago en las conversiones de pedidos, revelando tendencias en el comportamiento de compra de los clientes.  
+- **Interacción con datos de [pedidos](/es/docs/tutorials/pedidos-data-pipeline-beta):** el análisis conjunto de los datos de pago y los pedidos proporciona información sobre cómo influyen los medios de pago en las conversiones de pedidos, revelando tendencias en el comportamiento de compra de los clientes.  
 - **Análisis financieros y contables:** integrar datos de pago con análisis financieros contribuye a una gestión más eficiente del flujo de caja y permite realizar previsiones financieras más precisas, impulsando la salud financiera de la empresa.  
 
 ### Descubra otros conjuntos de datos
 
-- [Catálogo](/es/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
-- [Stock](/es/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2) 
-- [Navegación](/es/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)   
-- [Pedidos](/es/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
-- [Precios](/es/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-- [Promociones](/es/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Tarjeta de regalo](/es/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Registro del Bridge](/es/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Catálogo](/es/docs/tutorials/catalogo-data-pipeline)
+- [Stock](/es/docs/tutorials/stock-data-pipeline-beta) 
+- [Navegación](/es/docs/tutorials/navegacion-data-pipeline)   
+- [Pedidos](/es/docs/tutorials/pedidos-data-pipeline-beta) 
+- [Precios](/es/docs/tutorials/precios-data-pipeline-beta)  
+- [Promociones](/es/docs/tutorials/promociones)
+- [Tarjeta de regalo](/es/docs/tutorials/tarjeta-de-regalo-data-pipeline)
+- [Registro del Bridge](/es/docs/tutorials/registros-del-bridge-data-pipeline)

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-> ℹ️ <strong>Para llevar a cabo la rescisión del contrato, su tienda no puede tener ninguna deuda con VTEX. De ser así, la deuda debe pagarse para poder continuar con el proceso. Sepa [cómo pagar su factura](/es/tutorial/como-baixar-boletos-e-notas-fiscais-da-vtex--tutorials_653).
+> ℹ️ <strong>Para llevar a cabo la rescisión del contrato, su tienda no puede tener ninguna deuda con VTEX. De ser así, la deuda debe pagarse para poder continuar con el proceso. Sepa [cómo pagar su factura](/es/docs/tutorials/como-descargar-las-facturas-de-vtex).
 
 Para solicitar una rescisión, póngase en contacto con nuestro equipo financiero a través de un [ticket](/es/tutorial/opening-tickets-to-vtex-support-finacial--1ad3TguXzCSKq4yuYSK80c), la apertura de un ticket producirá una respuesta de VTEX. Después de este contacto, debe enviar los documentos obligatorios. 
 

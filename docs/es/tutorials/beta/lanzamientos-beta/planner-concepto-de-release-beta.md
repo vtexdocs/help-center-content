@@ -19,7 +19,7 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 
 La gestión de una operación de _ecommerce_ exige que el _retailer_ haga una serie de actualizaciones en su tienda que, muchas veces, suelen relacionarse entre sí. Por ejemplo, una campaña publicitaria en la cual se deben configurar distintos elementos del _storefront_.
 
-El **Releases** es el módulo de VTEX que le permite al _retailer_ [administrar sus releases](/es/tutorial/planner-acciones-en-los-releases-beta--1zsomdifPEQkdV6RW93JyW) a fin de coordinar la planificación, la creación, la programación y la publicación de los cambios en la tienda. 
+El **Releases** es el módulo de VTEX que le permite al _retailer_ [administrar sus releases](/es/docs/tutorials/planner-acciones-en-releases-beta) a fin de coordinar la planificación, la creación, la programación y la publicación de los cambios en la tienda. 
 
 Un release es un cambio o un grupo de cambios que pueden publicarse en conjunto. Los principales beneficios de usar los releases son:
 
@@ -32,12 +32,12 @@ Un release es un cambio o un grupo de cambios que pueden publicarse en conjunto.
 
 Se puede acceder a esta funcionalidad a través del menú de navegación del **Releases** en el Admin VTEX, donde encontrarás las siguientes páginas:
 
-* [Calendario](/es/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xHfIx9C): permite gestionar los releases programados. Se pueden ver por semana o mes.
-* [Releases](/es/tutorial/planner-pagina-de-releases-beta--2p7IiVD6K8i1iRiwHph5sw): permite gestionar todos los releases. Se muestran en una lista.
+* [Calendario](/es/docs/tutorials/planner-pagina-calendario-beta): permite gestionar los releases programados. Se pueden ver por semana o mes.
+* [Releases](/es/docs/tutorials/planner-pagina-de-releases-beta): permite gestionar todos los releases. Se muestran en una lista.
 
 ## Status de los releases
 
-Un release puede tener distintos status desde que se crea hasta que se publica o elimina, por ejemplo. En las páginas [Calendario](/es/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xHfIx9C) y [Releases](/es/tutorial/planner-pagina-de-releases-beta--2p7IiVD6K8i1iRiwHph5sw), el status de cada release se presenta asociado a un color, tal como se muestra en la tabla a continuación:
+Un release puede tener distintos status desde que se crea hasta que se publica o elimina, por ejemplo. En las páginas [Calendario](/es/docs/tutorials/planner-pagina-calendario-beta) y [Releases](/es/docs/tutorials/planner-pagina-de-releases-beta), el status de cada release se presenta asociado a un color, tal como se muestra en la tabla a continuación:
 
 | **Status** | **Color** | **Definición** |
 |:---:|:---:|:---:|
@@ -51,6 +51,6 @@ Un release puede tener distintos status desde que se crea hasta que se publica o
 
 ## Más información
 
-* [Releases: acciones en releases](/es/tutorial/planner-acciones-en-los-releases-beta--1zsomdifPEQkdV6RW93JyW)
-* [Releases: página Calendario](/es/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xHfIx9C)
-* [Releases: página Releases](/es/tutorial/planner-pagina-de-releases-beta--2p7IiVD6K8i1iRiwHph5sw)
+* [Releases: acciones en releases](/es/docs/tutorials/planner-acciones-en-releases-beta)
+* [Releases: página Calendario](/es/docs/tutorials/planner-pagina-calendario-beta)
+* [Releases: página Releases](/es/docs/tutorials/planner-pagina-de-releases-beta)

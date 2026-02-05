@@ -27,7 +27,7 @@ En el Admin VTEX puedes gestionar la importación y exportación de especificaci
 
 Para importar especificaciones de producto a partir de una plantilla sigue los pasos a continuación:
 
-1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa [Productos y SKUs](/es/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) en la barra de búsqueda en la parte superior de la página.
+1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa [Productos y SKUs](/es/docs/tutorials/productos-y-skus) en la barra de búsqueda en la parte superior de la página.
 2. En la parte superior de la página, haz clic en `Importar`.
 3. Haz clic en `Especificaciones de producto`.
 4. Agrega la plantilla con extensión `.xls` o `.xlsx`. Puedes arrastrar el archivo y soltarlo en el área indicada, o hacer clic en la ventana modal y seleccionar el archivo desde tu dispositivo.
@@ -46,7 +46,7 @@ Para exportar un archivo `.xlsx` con información sobre especificaciones de prod
 
 > ℹ️ La información exportada corresponde a los campos presentados en la sección [Campos de la plantilla de especificaciones de producto](#campos-de-la-plantilla-de-especificaciones-de-producto).
 
-1. En el Admin VTEX, accede a **Catálogo > Productos** y SKUs o ingresa [Productos y SKUs](/es/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) en la barra de búsqueda en la parte superior de la página.
+1. En el Admin VTEX, accede a **Catálogo > Productos** y SKUs o ingresa [Productos y SKUs](/es/docs/tutorials/productos-y-skus) en la barra de búsqueda en la parte superior de la página.
 2. (Opcional) Si deseas exportar especificaciones de producto de determinados ítems, [busca](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By#buscar-productos) o [filtra](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By#filtrar-productos) según tus preferencias. Este paso no es necesario para exportar las especificaciones de todos los productos de tu catálogo.
 3. En la parte superior de la página, haz clic en `Exportar`.
 4. Haz clic en `Especificaciones de producto`.
@@ -64,8 +64,8 @@ La siguiente tabla presenta la descripción y ejemplo de valor de los campos de 
 | ID Producto* | Código numérico único identificador del producto. | 310117603 |
 | Nombre de producto | Nombre del producto que los clientes ven al navegar. | Camiseta de algodón |
 | Código de referencia Producto | Código de referencia único del producto, utilizado internamente por la tienda. Para llenar este campo, usa una combinación de letras y/o números. | camisaColor |
-| ID Marca | Código numérico que identifica la [marca](/es/tutorial/o-que-e-uma-marca--QU07yhHoaWcEYseEucOQW) del producto. Esta información se puede encontrar en el Admin VTEX, en **Catálogo > Marcas**, o usando el endpoint [Get brand list](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/brand/list). | 2000003 |
-| Marca | Nombre de la [marca](/es/tutorial/o-que-e-uma-marca--QU07yhHoaWcEYseEucOQW) del producto. Una vez completado, este campo no se puede editar. | AOC |
+| ID Marca | Código numérico que identifica la [marca](/es/docs/tutorials/que-es-una-marca) del producto. Esta información se puede encontrar en el Admin VTEX, en **Catálogo > Marcas**, o usando el endpoint [Get brand list](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/brand/list). | 2000003 |
+| Marca | Nombre de la [marca](/es/docs/tutorials/que-es-una-marca) del producto. Una vez completado, este campo no se puede editar. | AOC |
 | ID de Departamento | Código numérico que identifica la categoría de mayor nivel jerárquico del producto. | 1000014 |
 | Departamento | Nombre de la categoría de mayor nivel jerárquico del producto. | Ropa |
 | ID Categoría | Número identificador único de la categoría de menor nivel jerárquico del producto. Esta información se puede encontrar en el Admin VTEX, en **Catálogo > Categorías**, o usando el endpoint [Get category tree](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pub/category/tree/-categoryLevels-). | 1000014 |
@@ -80,7 +80,7 @@ La siguiente tabla presenta la descripción y ejemplo de valor de los campos de 
 
 ## Más información
 
-* [Importar y exportar productos y SKUs mediante plantilla (Beta)](/es/tutorial/importar-y-exportar-productos-y-skus-mediante-plantilla-beta--5udKxWP1ZeBD7QB7Fy2BNl)
-* [Importar y exportar especificaciones de SKUs mediante plantilla (Beta)](/es/tutorial/importar-y-exportar-especificaciones-de-skus-mediante-plantilla-beta--5EAioeC33wHpIxKHaGQzbV)
-* [Importar y exportar imágenes de productos y SKUs mediante plantilla (Beta)](/es/tutorial/importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla-beta--6zBisMdxDYeBF49LPzvfqt)
+* [Importar y exportar productos y SKUs mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-productos-y-skus-mediante-plantilla-beta)
+* [Importar y exportar especificaciones de SKUs mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-especificaciones-de-skus-mediante-plantilla-beta)
+* [Importar y exportar imágenes de productos y SKUs mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla-beta)
 

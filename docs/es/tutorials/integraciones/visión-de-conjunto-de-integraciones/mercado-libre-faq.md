@@ -43,7 +43,7 @@ También puedes usar la ruta [POST Create Specification](https://developers.vtex
 
 #### Crear una plantilla en el Centro de mensajes (opcional)
 
-El [Centro de mensajes](/es/tutorial/conhecendo-o-message-center--tutorials_84) en un módulo que se encarga de configurar y enviar emails en VTEX a través de una plantilla de mensajes. La ventaja de crear una plantilla para describir tus productos es que, si tu tienda anuncia muchos productos en Mercado Libre, todos ellos tendrán una descripción estándar y personalizada.
+El [Centro de mensajes](/es/docs/tutorials/como-funciona-el-message-center) en un módulo que se encarga de configurar y enviar emails en VTEX a través de una plantilla de mensajes. La ventaja de crear una plantilla para describir tus productos es que, si tu tienda anuncia muchos productos en Mercado Libre, todos ellos tendrán una descripción estándar y personalizada.
 
 Antes de crear la plantilla, debes [rellenar el campo Descripción del anuncio](#rellenar-el-campo-descripcion-del-anuncio). Este campo será importante para crear una descripción exclusiva para tu producto. Después de rellenar el campo, ingresa a *CLIENTE > Centro de mensajes > Plantillas* en el Admin VTEX y busca la tarjeta **Bridge - Integração Mercado Livre**.
 

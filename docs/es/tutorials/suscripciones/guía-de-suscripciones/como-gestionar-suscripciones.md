@@ -19,7 +19,7 @@ El **Sistema de Suscripciones** es una app desarrollada por VTEX para facilitar 
 
 Su cliente indica con qué frecuencia desea repetir la compra de un determinado SKU y el sistema rehace el pedido de la compra automáticamente en cada período programado, con las mismas características configuradas en el pedido original. 
 
-Para verificar cómo **configurar** la funcionalidad de Suscripciones en su tienda, acceda a [nuestro artículo](/es/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj).
+Para verificar cómo **configurar** la funcionalidad de Suscripciones en su tienda, acceda a [nuestro artículo](/es/docs/tutorials/como-configurar-suscripciones).
 
 La gestión de suscripciones se realiza a través de la pestaña **Dashboards** del módulo **Suscripciones** de su Admin.
 
@@ -39,7 +39,7 @@ La sección de **Suscripciones Únicas** permite:
 
 ### Pedidos de Suscripción
 
-> ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+> ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](/es/docs/tutorials/como-funciona-mi-cuenta).
 
 La sección **Pedidos de Suscripción** permite: 
 
@@ -50,7 +50,7 @@ La sección **Pedidos de Suscripción** permite:
 ![ES Dashboard Pedidos Assinatura](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/suscripciones/guía-de-suscripciones/como-gestionar-suscripciones_2.png)
 
 - Al acceder a cada pestaña de la sección **Pedidos de Suscripción**, es posible visualizar el flujo y los detalles de los pedidos que fueron *omitidos*, los que presentaron *ciclos problemáticos*, aquellos que contienen un *error de pago* y  pedidos *completos*.  
-- Además de listar detalles de los errores que se produjeron durante el flujo de pedidos de suscripción, también es posible realizar el **reintento manual** de los pedidos con errores. Revise nuestro artículo sobre la [Resolución de problemas de  pedidos con suscripción](/es/tutorial/como-solucionar-pedidos-de-assinatura-com-erros--uLL8AYBGdtAmbbdL5gRCf) para saber más. 
+- Además de listar detalles de los errores que se produjeron durante el flujo de pedidos de suscripción, también es posible realizar el **reintento manual** de los pedidos con errores. Revise nuestro artículo sobre la [Resolución de problemas de  pedidos con suscripción](/es/docs/tutorials/como-solucionar-errores-en-pedidos-de-suscripcion) para saber más. 
 
 ![ES Log Pedidos Assinatura](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/suscripciones/guía-de-suscripciones/como-gestionar-suscripciones_3.png)
 

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-El módulo Promociones define la promoción que se aplicará a una compra de la misma manera que [Checkout](/es/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) selecciona el seller que realizará el fulfillment del pedido. Esta lógica se denomina competencia de promociones.
+El módulo Promociones define la promoción que se aplicará a una compra de la misma manera que [Checkout](/es/docs/tutorials/checkout-vtex-vista-general) selecciona el seller que realizará el fulfillment del pedido. Esta lógica se denomina competencia de promociones.
 
 Las promociones compiten cuando:
 
@@ -35,9 +35,9 @@ Para entender cómo funciona la selección de promociones, a continuación se de
 Los efectos de las promociones están relacionados con el beneficio que cada una ofrece. Hay cuatro tipos:
 
 - **Descuento en el precio:** promociones que aplican un descuento porcentual o de valor fijo sobre el valor del producto. Esto incluye algunos descuentos de la promoción [Regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) y cualquier otra condición que afecte el precio de un ítem.  
-- **Descuento en el envío**: [promociones que aplican descuento en el envío](/es/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW).  
+- **Descuento en el envío**: [promociones que aplican descuento en el envío](/es/docs/tutorials/registrar-promociones-de-flete).  
 - **Regalo**: promociones que otorgan un regalo al cliente.  
-- **Fórmula**: promociones con tipo de descuento de valor fijo basado en [fórmula](/es/tutorial/promocao-regular-com-desconto-nominal-baseado-em-formula--2Pwrq6THyGViNedQG381jV), una de las opciones de la promoción Regular.
+- **Fórmula**: promociones con tipo de descuento de valor fijo basado en [fórmula](/es/docs/tutorials/promocion-regular-con-descuento-nominal-basado-en-la-formula), una de las opciones de la promoción Regular.
 
 ## Orden de aplicación de promociones
 
@@ -98,7 +98,7 @@ Se aplica de la siguiente manera:
 
 ![promoção es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/como-funciona-la-competencia-de-promociones_1.png)
 
-> ⚠️ Los pedidos de origen [marketplace](/es/tutorial/configurar-promocao-para-marketplace--tutorials_406) y fulfillment no reconocen la acumulación de promociones, ya que el uso de promociones en marketplaces VTEX o externos está restringido a ciertos tipos específicos.
+> ⚠️ Los pedidos de origen [marketplace](/es/docs/tutorials/configurar-promocion-para-marketplace) y fulfillment no reconocen la acumulación de promociones, ya que el uso de promociones en marketplaces VTEX o externos está restringido a ciertos tipos específicos.
 
 ## Estrategia de competencia de promociones
 
@@ -113,7 +113,7 @@ Hay dos estrategias de competencia:
 - [Competencia por escenario](#competencia-por-scenario)  
 - [Competencia por ítem](#competencia-por-item)
 
-> De manera predeterminada, todas las cuentas siguen la estrategia de competencia por escenario. Si la estrategia de competencia por ítem se adapta mejor a tus necesidades de negocio, [abre un ticket con nuestro equipo de Soporte](/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) para solicitar el cambio.
+> De manera predeterminada, todas las cuentas siguen la estrategia de competencia por escenario. Si la estrategia de competencia por ítem se adapta mejor a tus necesidades de negocio, [abre un ticket con nuestro equipo de Soporte](/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex) para solicitar el cambio.
 
 ### Competencia por escenario
 
@@ -271,7 +271,7 @@ VTEX aplica la estrategia que ofrece el mayor descuento. Como en el escenario 1 
 
 ### Competencia por ítem
 
-El módulo Promociones puede configurarse para aplicar el mayor descuento en cada ítem individual del carrito, en lugar de combinar promociones a nivel del carrito. La tienda define esta configuración basándose en la estrategia de negocio. Si deseas usar este modelo y aún no está activado, [abre un ticket](/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) con el equipo de Soporte para solicitar el cambio.
+El módulo Promociones puede configurarse para aplicar el mayor descuento en cada ítem individual del carrito, en lugar de combinar promociones a nivel del carrito. La tienda define esta configuración basándose en la estrategia de negocio. Si deseas usar este modelo y aún no está activado, [abre un ticket](/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex) con el equipo de Soporte para solicitar el cambio.
 
 La competencia por ítem funciona de la siguiente manera:
 

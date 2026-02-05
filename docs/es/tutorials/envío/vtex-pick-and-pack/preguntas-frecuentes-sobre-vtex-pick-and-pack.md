@@ -36,7 +36,7 @@ La integración de las funcionalidades de VTEX Pick and Pack con los pedidos de 
 
 1. En el Admin VTEX, accede a **Envío > Pick and Pack > Configuración** o ingresa `Configuración` en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en **General** en la sección **Pedidos**.
-3. Selecciona los [filtros](/es/tutorial/vtex-pick-and-pack-configuracion--16cs3e7hWk7c4cSZqe10O9) en la página **General**.
+3. Selecciona los [filtros](/es/docs/tutorials/vtex-pick-and-pack-configuracion) en la página **General**.
 4. Haz clic en **Guardar**.
 
 ### ¿Los alistadores preparan un solo pedido por vez o varios al mismo tiempo?

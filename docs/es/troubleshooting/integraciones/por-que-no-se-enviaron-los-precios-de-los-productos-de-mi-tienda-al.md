@@ -36,7 +36,7 @@ Consulta en la tabla siguiente los posibles mensajes de error relativos a la con
 |**Mensaje de error**|**Significado**|**Acción requerida**|
 |:--:|:--:|:--:|
 |Sale price cannot be updated to 29,99. Can not offer more then 70% off.| El seller no puede ofrecer más del 70 % de descuento sobre el [precio base](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) de un producto.| Cambia el precio del descuento a un valor que esté dentro del porcentaje exigido por el marketplace.|
-|Comprueba que este SKU tiene un precio registrado para esta política o que el precio no venció.| El precio del SKU no se ha registrado en la [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) utilizada en la integración con el marketplace o ha vencido.| Registra el precio del SKU en la política comercial utilizada para integrar la tienda con el marketplace.|
+|Comprueba que este SKU tiene un precio registrado para esta política o que el precio no venció.| El precio del SKU no se ha registrado en la [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) utilizada en la integración con el marketplace o ha vencido.| Registra el precio del SKU en la política comercial utilizada para integrar la tienda con el marketplace.|
 
 ### Catalogación de productos
 

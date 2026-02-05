@@ -31,5 +31,5 @@ Con esta actualización, puedes:
 
 ## ¿Qué se necesita hacer?
 
-Esta función solo está disponible para sellers que utilizan el nuevo modelo de anuncios y que activaron el stock multi origen en Mercado Libre. Para completar la configuración y saber más, consulta [Asignación de almacén en Mercado Libre](/es/tutorial/alocacao-de-estoque-no-mercado-livre--6BfmmAFctWbi7hxJlxCU1S) y [Configurar la asignación de almacén](/es/tutorial/configurar-alocacao-de-estoque--1yCEr7xQ0gVsTBB0ktMYVX).
+Esta función solo está disponible para sellers que utilizan el nuevo modelo de anuncios y que activaron el stock multi origen en Mercado Libre. Para completar la configuración y saber más, consulta [Asignación de almacén en Mercado Libre](/es/docs/tutorials/asignacion-de-almacen-en-mercado-libre) y [Configurar la asignación de almacén](/es/docs/tutorials/configurar-asignacion-de-almacen).
 

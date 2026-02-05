@@ -92,7 +92,7 @@ Ahorre con 20% de descuento en camisas de múltiples departamentos.
 
 Compre un suéter y obtenga 50% de descuento en una camisa de manga larga, clásica o contemporánea.
 
-- "Compre un suéter y obtenga 50%" en otro artículo, hace que esto sea una [Promoción Comprar Juntos](/es/tutorial/buy-together--tutorials_323).
+- "Compre un suéter y obtenga 50%" en otro artículo, hace que esto sea una [Promoción Comprar Juntos](/es/docs/tutorials/comprar-juntos-registro-de-promocion).
 - "Suéter y camisa de manga larga, clásica o contemporánea" son los artículos a los que se aplicará este beneficio.
 
 > ⚠️ La Promoción Comprar Juntos funciona solamente con un porcentaje de descuento.
@@ -101,7 +101,7 @@ Compre un suéter y obtenga 50% de descuento en una camisa de manga larga, clás
 
 Compre cualquier suéter y reciba un par de medias específicas, compre dos suéteres y reciba dos pares de medias específicas.
 
-- “Compre cualquier suéter y reciba un par de medias específicas” convierte esto en una [Promoción Compre y Gane](/es/tutorial/buy-one-get-one--tutorials_322).
+- “Compre cualquier suéter y reciba un par de medias específicas” convierte esto en una [Promoción Compre y Gane](/es/docs/tutorials/como-funciona-la-promocion-compre-y-gane).
 - “Suéter” es una colección o ítem al que se aplicará este beneficio.
 - “Medias” es el regalo de la promoción.
 - Recibir “un par de medias por cada suéter comprado" es una restricción que puede ser incluida con la cantidad mínima del suéter.
@@ -110,7 +110,7 @@ Compre cualquier suéter y reciba un par de medias específicas, compre dos sué
 
 Compre seis pares de medias específicas y obtenga un par gratis.
 
-- “Compre seis pares de medias específicas y obtenga un par gratis” convierte esto en una [Promoción Compre y Gane](/es/tutorial/buy-one-get-one--tutorials_322).  
+- “Compre seis pares de medias específicas y obtenga un par gratis” convierte esto en una [Promoción Compre y Gane](/es/docs/tutorials/como-funciona-la-promocion-compre-y-gane).  
 - “Par de medias” es el producto específico y el regalo de la promoción.
 - Obtener “un par de medias por cada par comprado” es la restricción que puede ser incluida con la cantidad mínima de pares de medias.
 
@@ -118,7 +118,7 @@ Compre seis pares de medias específicas y obtenga un par gratis.
 
 Compre dos prendas tejidas de manga larga y reciba 20% de descuento sobre el precio, o compre tres prendas tejidas de manga corta y reciba 30% de descuento sobre el precio.
 
-- “Compre dos prendas tejidas de manga larga y reciba 20% de descuento sobre el precio" o "compre tres prendas tejidas de manga corta y reciba 30% de descuento sobre el precio" hace de esta una [Promoción de Descuento Progresivo](/es/tutorial/progressive-discount--tutorials_324).  
+- “Compre dos prendas tejidas de manga larga y reciba 20% de descuento sobre el precio" o "compre tres prendas tejidas de manga corta y reciba 30% de descuento sobre el precio" hace de esta una [Promoción de Descuento Progresivo](/es/docs/tutorials/descuento-progresivo).  
 - "Dos prendas tejidas de manga larga con un 20% de descuento" y "tres prendas tejidas de manga corta con un 30% de descuento" son restricciones que puede configurar introduciendo las cantidades mínimas de SKUs y los descuentos relacionados que se aplicarán.
 
 ## Escenario 15
@@ -133,13 +133,13 @@ Ahorre $50 por cada $300 gastados.
 
 Gaste $500 y obtenga un código de cupón individual con 20% de descuento para utilizarlo en la próxima compra.
 
-- “20% de descuento” hace que sea una [Promoción Regular - Valor de fidelidad porcentual](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).  El crédito de recompensa se transfiere a una [Tarjeta de Regalo](/es/tutorial/gift-card--tutorials_995).
+- “20% de descuento” hace que sea una [Promoción Regular - Valor de fidelidad porcentual](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).  El crédito de recompensa se transfiere a una [Tarjeta de Regalo](/es/docs/tutorials/gift-card).
 - “Gaste $500” es una restricción que puede ser incluida con el valor mínimo de la configuración del pedido.
 
 ## Escenario 17
 Compra 3 camisetas básicas y paga solo 1.
 
-- La promoción Compra 3 camisetas básicas y paga solo 1 es un ejemplo del tipo [Más por Menos](/es/tutorial/leve-mais-por-menos--tutorials_325).
+- La promoción Compra 3 camisetas básicas y paga solo 1 es un ejemplo del tipo [Más por Menos](/es/docs/tutorials/mas-por-menos).
 - Para configurar esta promoción, define que al comprar 3 camisetas básicas, el cliente reciba 2 de ellas con un descuento del 100%.
 - Como alternativa, puedes aplicar un descuento porcentual del 67% sobre las 3 unidades, lo que simula el mismo beneficio final.
 - Puedes definir condiciones como 3 camisetas básicas con un 67% de descuento o 3 camisetas básicas con 2 unidades gratuitas. Ambas opciones se pueden configurar según la cantidad mínima de ítems y el descuento correspondiente.
@@ -148,18 +148,18 @@ Compra 3 camisetas básicas y paga solo 1.
 
 -  [Crear Promoción Regular](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI)
 
--   [Campos de la Promoción Regular](/es/tutorial/regular-promotion--tutorials_327)
+-   [Campos de la Promoción Regular](/es/docs/tutorials/registro-promocion-regular)
 
 -   [Promociones para escenarios específicos](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy)
 
--   [Crear promoción Comprar Juntos](/es/tutorial/buy-together--tutorials_323)
+-   [Crear promoción Comprar Juntos](/es/docs/tutorials/comprar-juntos-registro-de-promocion)
 
--   [Crear promoción Más por Menos](/es/tutorial/creating-more-for-less-promotion--tutorials_325)
+-   [Crear promoción Más por Menos](/es/docs/tutorials/mas-por-menos)
 
--   [Cómo el descuento progresivo funciona](/es/tutorial/progressive-discount--tutorials_324)
+-   [Cómo el descuento progresivo funciona](/es/docs/tutorials/descuento-progresivo)
 
--   [Cómo funciona la promoción Compre y Gane](/es/tutorial/buy-one-get-one--tutorials_322)
+-   [Cómo funciona la promoción Compre y Gane](/es/docs/tutorials/como-funciona-la-promocion-compre-y-gane)
 
 -   [Límite de ítems con promoción en el carrito](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy)
 
--   [Configurar Tarjeta de Regalo](/es/tutorial/how-to-configure-gift-cards--tutorials_995)
+-   [Configurar Tarjeta de Regalo](/es/docs/tutorials/gift-card)

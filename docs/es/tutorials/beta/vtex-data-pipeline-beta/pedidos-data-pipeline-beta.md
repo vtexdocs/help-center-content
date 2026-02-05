@@ -47,8 +47,8 @@ En esta sección puedes consultar la siguiente información:
 
 | **Característica** | **Descrição**|
 | ------------ | -------|
-| **Origen**   | Los datos del conjunto de pedidos proceden del [OMS (Order Management System)](/es/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201).  |
-| **Disponibilidad**   | Se puede acceder a los datos de pedidos a través del [informe de pedidos](/es/tutorial/exportacao-de-pedidos-no-modulo-pedidos--tutorials_6417) en el Admin VTEX y también por las [API de Orders](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders?endpoint=get-/api/oms/pvt/orders). Es importante tener en cuenta que los datos facilitados por la API pueden no estar estructurados exactamente de la misma manera que en este conjunto de datos de Data Pipeline. |
+| **Origen**   | Los datos del conjunto de pedidos proceden del [OMS (Order Management System)](/es/docs/tutorials/pedidos-vision-general).  |
+| **Disponibilidad**   | Se puede acceder a los datos de pedidos a través del [informe de pedidos](/es/docs/tutorials/exportacion-de-pedidos-en-el-modulo-pedidos) en el Admin VTEX y también por las [API de Orders](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders?endpoint=get-/api/oms/pvt/orders). Es importante tener en cuenta que los datos facilitados por la API pueden no estar estructurados exactamente de la misma manera que en este conjunto de datos de Data Pipeline. |
 | **Historial**  | Los datos se conservan durante dos años, a partir de 2022 para los clientes que ya utilizan la plataforma VTEX. |
 | **Intervalo mínimo de actualización** | Una hora. |
 
@@ -432,10 +432,10 @@ El conjunto de datos de pedidos se correlaciona con los siguientes conjuntos del
 
 ### Descubra otros conjuntos de datos
 
-- [Stock](/es/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
-- [Navegación](/es/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)
-- [Pagos](/es/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)
-- [Precios](/es/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)
-- [Promociones](/es/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Tarjeta de regalo](/es/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Registro del Bridge](/es/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Stock](/es/docs/tutorials/stock-data-pipeline-beta)
+- [Navegación](/es/docs/tutorials/navegacion-data-pipeline)
+- [Pagos](/es/docs/tutorials/pagos)
+- [Precios](/es/docs/tutorials/precios-data-pipeline-beta)
+- [Promociones](/es/docs/tutorials/promociones)
+- [Tarjeta de regalo](/es/docs/tutorials/tarjeta-de-regalo-data-pipeline)
+- [Registro del Bridge](/es/docs/tutorials/registros-del-bridge-data-pipeline)

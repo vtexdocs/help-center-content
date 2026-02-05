@@ -42,7 +42,7 @@ Aprende más sobre los principales escenarios de uso de índices en Master Data 
 
 ### Consultas de hasta mil documentos
 
-Se recomienda el uso de índices para búsquedas con resultados de hasta mil documentos. Si al buscar a través de un índice obtienes más de mil documentos como resultado, puedes optimizar el rendimiento indexando el campo, es decir, [configurándolo como filtro en la entidad de datos](/es/tutorial/filtrando-dados-no-master-data--tutorials_778).
+Se recomienda el uso de índices para búsquedas con resultados de hasta mil documentos. Si al buscar a través de un índice obtienes más de mil documentos como resultado, puedes optimizar el rendimiento indexando el campo, es decir, [configurándolo como filtro en la entidad de datos](/es/docs/tutorials/filtrar-datos-en-el-master-data).
 
 ### Restricción de valores por documento (clave alternativa)
 

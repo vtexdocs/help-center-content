@@ -23,10 +23,10 @@ Antes de empezar a usar VTEX Sales App, es necesario que la tienda tenga cuentas
 
 Al crear cuentas franquicia, cada una de tus tiendas físicas tendrá un Admin VTEX separado, con su propia logística, pero heredará el catálogo de la cuenta principal.
 
-Tus cuentas franquicia funcionarán como [Sellers White Label](/es/tutorial/que-son-cuenta-franquicia-y-seller-white-label--5orlGHyDHGAYciQ64oEgKa#que-es-un-seller-white-label). Esto significa que cuando se realiza un pedido por cualquier canal, ya sea VTEX Sales App o ecommerce, el sistema buscará entre todos los sellers aquel que pueda entregar con el mejor [SLA](/es/tutorial/que-es-el-sla-de-operacion-de-la-plataforma--2cIFrsY5S8usk84OU4QOKm).
+Tus cuentas franquicia funcionarán como [Sellers White Label](/es/tutorial/que-son-cuenta-franquicia-y-seller-white-label--5orlGHyDHGAYciQ64oEgKa#que-es-un-seller-white-label). Esto significa que cuando se realiza un pedido por cualquier canal, ya sea VTEX Sales App o ecommerce, el sistema buscará entre todos los sellers aquel que pueda entregar con el mejor [SLA](/es/docs/tutorials/acuerdo-de-nivel-de-servicio-sla-para-la-operacion-de-vtex).
 
 > ⚠️ Cada seller debe tener un nro. de registro de persona jurídica diferente para que los pagos de los pedidos funcionen correctamente.
 
 La logística de cada una de las cuentas franquicia se puede gestionar en un Admin VTEX separado. Para acceder, introduce la URL `(nombre-de-la-cuenta-franquicia).myvtex.com/admin`.
 
-Para más detalles sobre este tipo de cuenta y cómo configurarla, consulta [¿Qué es una cuenta franquicia?](/es/tutorial/que-es-una-cuenta-franquicia--kWQC6RkFSCUFGgY5gSjdl).
+Para más detalles sobre este tipo de cuenta y cómo configurarla, consulta [¿Qué es una cuenta franquicia?](/es/docs/tutorials/que-es-una-cuenta-franquicia).

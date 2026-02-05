@@ -26,9 +26,9 @@ En la sección **Pedidos**, puedes ver toda la información relativa al progreso
 Esta sección incluye las siguientes páginas:
 
 - [Todos los pedidos](/es/v4/docs/todos-los-pedidos--6JHeydzIft46VY7JTEpbJT) 
-- [Detalles del pedido](/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl)   
-- [Transacciones](/es/tutorial/how-to-view-transactions-on-pci-gateway--tutorials_461) 
-- [Conciliación bancaria](/es/tutorial/bank-reconciliations--tutorials_453) 
+- [Detalles del pedido](/es/docs/tutorials/pagina-de-detalles-del-pedido)   
+- [Transacciones](/es/docs/tutorials/transacciones-pci-gateway) 
+- [Conciliación bancaria](/es/docs/tutorials/conciliaciones-bancarias) 
 
 Además de buscar pedidos en **Pedidos > Todos los pedidos**, puede buscar pedidos desde cualquier página del Admin VTEX utilizando la barra de búsqueda global en la parte superior de la página. Por defecto, la búsqueda está configurada en `Páginas`. Para buscar un pedido, haga clic en la barra, seleccione la opción `Pedidos` y utilice cualquiera de los siguientes criterios:
 
@@ -37,14 +37,14 @@ Además de buscar pedidos en **Pedidos > Todos los pedidos**, puede buscar pedid
 - Email del cliente
 - Documento del cliente
 
-> ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+> ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](/es/docs/tutorials/como-funciona-mi-cuenta).
 
 ## Suscripciones
 
-En la plataforma VTEX, puedes crear [suscripciones](/es/tutorial/how-subscriptions-work--frequentlyAskedQuestions_4453), es decir, ofrecer a tus clientes la posibilidad de realizar pedidos recurrentes automáticamente, según la frecuencia establecida.
+En la plataforma VTEX, puedes crear [suscripciones](/es/docs/tutorials/como-funciona-suscripciones), es decir, ofrecer a tus clientes la posibilidad de realizar pedidos recurrentes automáticamente, según la frecuencia establecida.
 
 Para gestionar esta funcionalidad en tu tienda, esta sección incluye las siguientes páginas:
 
-- [Dashboards](/es/tutorial/how-to-manage-subscriptions--6Jk50FPbv6iuz1OsFypv8x)
-- [Planes](/es/tutorial/subscription-plans-beta--5kczKRqHEsrs1tYtRcY8wR)
+- [Dashboards](/es/docs/tutorials/como-gestionar-suscripciones)
+- [Planes](/es/docs/tutorials/planes-de-suscripcion)
 

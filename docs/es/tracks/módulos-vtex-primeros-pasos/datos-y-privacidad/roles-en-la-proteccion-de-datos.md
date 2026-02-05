@@ -79,7 +79,7 @@ Los retailers desempeñan un papel crucial en la seguridad de los datos, ya que 
 
 Para saber cómo gestionar correctamente las credenciales de acceso y garantizar la integridad de los datos, consulta los siguientes artículos:
 
-* [Roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
-* [Recursos de License Manager](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3)
+* [Roles](/es/docs/tutorials/roles)
+* [Recursos de License Manager](/es/docs/tutorials/recursos-del-license-manager)
 * [Claves de aplicación](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet)
 

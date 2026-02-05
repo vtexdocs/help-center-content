@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-Toda la comunicación con el cliente de su tienda acerca de las [Suscripciones](/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453) se realizará a través del módulo **Plantillas de email**. Los emails transaccionales relacionados con las suscripciones son totalmente personalizables y ya están instalados automáticamente en el Admin VTEX.
+Toda la comunicación con el cliente de su tienda acerca de las [Suscripciones](/es/docs/tutorials/como-funciona-suscripciones) se realizará a través del módulo **Plantillas de email**. Los emails transaccionales relacionados con las suscripciones son totalmente personalizables y ya están instalados automáticamente en el Admin VTEX.
 
 Para acceder a los emails transaccionales de los pedidos de suscripciones, verifique el procedimiento que se indica a continuación:
 
@@ -29,7 +29,7 @@ También puede crear [su propia plantilla de correo electrónico](/es/tutorial/c
 
 ## Cómo su cliente acompaña sus pedidos de suscripción
 
-> ℹ️ En [Mi Cuenta](/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), los clientes solo pueden acceder a los pedidos de los últimos dos años.
+> ℹ️ En [Mi Cuenta](/es/docs/tutorials/como-funciona-mi-cuenta), los clientes solo pueden acceder a los pedidos de los últimos dos años.
 
 Cada acción que ocurre dentro del flujo de pedidos de **Suscripciones** contiene un gatillo que dispara un correo electrónico notificando a su cliente. Una vez activada la suscripción, el cliente recibirá correos electrónicos con detalles del status de cada pedido de suscripción cada vez que realice una acción. 
 

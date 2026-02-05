@@ -46,7 +46,7 @@ Para ver las interacciones de un pedido, sigue los pasos a continuación:
 
 1. En el Admin VTEX, accede a **Pedidos > Todos los pedidos** o ingresa **Todos los pedidos** en la barra de búsqueda en la parte superior de la página.
 2. Busca el pedido utilizando la barra de búsqueda y los filtros disponibles en **Todos los pedidos**. 
-3. Haz clic en el pedido deseado y se te redirigirá a la [Página de detalles del pedido](/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
+3. Haz clic en el pedido deseado y se te redirigirá a la [Página de detalles del pedido](/es/docs/tutorials/pagina-de-detalles-del-pedido).
 4. En la sección **Historial del pedido**, haz clic en `Ver interacciones`.
 
 #### Cancelación por el marketplace
@@ -61,6 +61,6 @@ En el módulo **Pedidos** del Admin VTEX, se pueden cancelar pedidos manualmente
 
 Además, el cliente puede solicitar la cancelación del pedido al retailer mientras esté en el status `Periodo cancelación`. En este caso, el pedido primero tiene el status `Cancelación solicitada` y después de la aprobación pasa a `Cancelado`.
 
-Puedes ver todas las modificaciones del pedido en la [Página de detalles del pedido](/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
+Puedes ver todas las modificaciones del pedido en la [Página de detalles del pedido](/es/docs/tutorials/pagina-de-detalles-del-pedido).
 
 > ⚠️  Para pedidos originados en un marketplace pero cancelados por la tienda, la integración no notifica automáticamente la cancelación al marketplace. En estos casos, **es necesario cancelar manualmente el pedido directamente en la interfaz del marketplace**.

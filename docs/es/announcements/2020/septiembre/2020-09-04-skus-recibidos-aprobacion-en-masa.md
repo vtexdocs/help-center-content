@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Ahora es posible seleccionar hasta 25 SKUs en el panel de SKUs Recibidos. Además, creamos una nueva API para eso.'
 ---
 
-Los marketplaces gestionan los productos de sus sellers en el panel [SKUs Recibidos](/es/tutorial/sugerindo-e-aprovando-skus--tutorials_396). Desde ahí, pueden revisar y aprobar los productos enviados por los sellers. En el panel se pueden seleccionar SKUs de forma masiva, aprobando o rechazando varios ítems de una sola vez. 
+Los marketplaces gestionan los productos de sus sellers en el panel [SKUs Recibidos](/es/docs/tutorials/catalogacion-manual-de-skus). Desde ahí, pueden revisar y aprobar los productos enviados por los sellers. En el panel se pueden seleccionar SKUs de forma masiva, aprobando o rechazando varios ítems de una sola vez. 
 
 ## ¿Qué cambió?
 

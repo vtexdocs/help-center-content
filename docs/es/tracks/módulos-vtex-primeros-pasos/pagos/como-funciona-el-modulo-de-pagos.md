@@ -84,6 +84,6 @@ Ejemplos de antifraudes: ClearSale y Konduto.
 ## Certificación PCI SSC
 El PCI Security Standards Council es un foro mundial abierto para el continuo desarrollo, mejora, almacenamiento, difusión e implementación de normas de seguridad para la protección de datos. 
 
-[La plataforma VTEX posee un gateway propio con **certificación PCI**](/es/tutorial/que-es-el-pci-ssc--4jo3Vkox3amSO2w4qIWa0E), que significa que los datos de todos los pagos realizados en su tienda están protegidos de acuerdo con los más altos estándares de seguridad. 
+[La plataforma VTEX posee un gateway propio con **certificación PCI**](/es/docs/tutorials/que-es-el-pci-ssc), que significa que los datos de todos los pagos realizados en su tienda están protegidos de acuerdo con los más altos estándares de seguridad. 
 
 Si desea profundizar los conceptos de gateway, adquirente, subadquirente, bandera, banco emisor y antifraude, consulte nuestro [artículo sobre agentes financieros en Brasil](/es/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil).

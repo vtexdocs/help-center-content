@@ -15,14 +15,14 @@ locale: es
 subcategoryId: 7uJcyu0VawEm8ggqKu404u
 ---
 
-Las [tarifas de envío](/es/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) de su tienda son los precios de envío que se ofrecerán a los clientes. En el módulo **Tarifas de envío** en el Admin VTEX, puede gestionar individualmente una tarifa de envío mediante el código postal. En este módulo puede:
+Las [tarifas de envío](/es/docs/tutorials/tarifas-de-envio) de su tienda son los precios de envío que se ofrecerán a los clientes. En el módulo **Tarifas de envío** en el Admin VTEX, puede gestionar individualmente una tarifa de envío mediante el código postal. En este módulo puede:
 
 * [Registrar](#registrar) nuevas tarifas de envío;
 * [Buscar](#buscar) las tarifas de envío existentes;
 * [Editar](#editar) las tarifas de envío;
 * [Eliminar](#eliminar) las tarifas de envío.
 
-> ℹ️ Cuando tenga que actualizar o registrar varios precios de envío, recomendamos utilizar la Plantilla de envío (flete) en vez del módulo Tarifas de envío. Si desea comprobar cómo se mostrarán las tarifas de envío registradas al cliente final, utilice el módulo **[Simulador de envío](/es/tutorial/simulacao-de-frete--tutorials_144)**.
+> ℹ️ Cuando tenga que actualizar o registrar varios precios de envío, recomendamos utilizar la Plantilla de envío (flete) en vez del módulo Tarifas de envío. Si desea comprobar cómo se mostrarán las tarifas de envío registradas al cliente final, utilice el módulo **[Simulador de envío](/es/docs/tutorials/simulador-de-envio)**.
 
 ## Registrar
 
@@ -31,7 +31,7 @@ Para registrar una nueva tarifa de envío, siga las instrucciones a continuació
 1. En el Admin VTEX, accede a **Envío > Tarifas de envío**, o escribe *Tarifas de envío* en la barra de búsqueda en la parte superior de la página.  
 2. Haga clic en el botón `Nuevo valor de envío`.  
 3. Rellene los campos:  
-    * **Política de envío (Transportadora):** seleccione la [política de envío](/es/tutorial/politica-de-envio--tutorials_140) que corresponde a la nueva tarifa.
+    * **Política de envío (Transportadora):** seleccione la [política de envío](/es/docs/tutorials/politica-de-envio) que corresponde a la nueva tarifa.
     * **País:** país en que la transportadora realizará la entrega.
     * **Rango de código postal:** limite inicial y final de los códigos postales en que la nueva tarifa estará disponible. Debe rellenar este campo con números y/o letras.
     * **Rango de peso:** limite inicial y final de peso que la transportadora acepta para el envío (considerando la tarifa de envío y el código postal). Debe rellenar este campo con un número decimal. La unidad de peso (gramos, kilogramos, etc.) debe ser la misma utilizada al registrar los artículos en el catálogo (SKU). 
@@ -50,7 +50,7 @@ Para consultar las tarifas de envío registradas, siga las instrucciones a conti
 3. Seleccione una **Política de envío (Transportadora)**.  
 4. Haga clic en el botón `Buscar`.  
 
-Aparecerá una lista con los requisitos de la búsqueda. La lista también contiene las tarifas registradas (tanto por la [plantilla de envío (flete)](/es/tutorial/planilha-de-frete--tutorials_127) como por las [tarifas de envío](/es/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM)) y es posible [Editar](#heading=h.3znysh7) o [eliminar](#eliminar) una tarifa de envío.
+Aparecerá una lista con los requisitos de la búsqueda. La lista también contiene las tarifas registradas (tanto por la [plantilla de envío (flete)](/es/docs/tutorials/plantilla-de-flete) como por las [tarifas de envío](/es/docs/tutorials/tarifas-de-envio)) y es posible [Editar](#heading=h.3znysh7) o [eliminar](#eliminar) una tarifa de envío.
 
 ## Editar
 

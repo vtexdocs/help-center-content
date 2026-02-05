@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-[PSE (Pagos Seguros en Línea)](/es/tutorial/configurar-pagamento-com-pse--7dRChubn7TqdEyWrHQEQp6) es un medio de pago disponible en las tiendas VTEX para transacciones en Colombia. Si utilizas PSE en tu tienda y deseas ofrecer una condición especial de pago al cliente según el tipo de banco seleccionado, puedes crear una promoción regular para PSE.
+[PSE (Pagos Seguros en Línea)](/es/docs/tutorials/configurar-pago-con-pse) es un medio de pago disponible en las tiendas VTEX para transacciones en Colombia. Si utilizas PSE en tu tienda y deseas ofrecer una condición especial de pago al cliente según el tipo de banco seleccionado, puedes crear una promoción regular para PSE.
 
 Para configurar promociones por banco con PSE, debes:
 

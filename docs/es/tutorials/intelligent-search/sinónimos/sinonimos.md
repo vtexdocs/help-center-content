@@ -25,7 +25,7 @@ Durante la búsqueda, Intelligent Search recibe el término buscado por el clien
 
 De este modo, aunque el cliente no busque la palabra registrada en el producto, podrá obtener resultados relevantes, lo que aumenta las posibilidades de éxito de la búsqueda y reduce la posibilidad de obtener resultados vacíos.
 
-El uso de sinónimos también complementa los [informes](/es/tutorial/analytics--6qRMAHDL9hvv3oE0bh8mA1) de búsquedas sin resultados. A partir de este análisis, el retailer puede identificar las búsquedas que no arrojaron resultados y determinar qué términos necesitan sinónimos registrados.
+El uso de sinónimos también complementa los [informes](/es/docs/tutorials/analytics) de búsquedas sin resultados. A partir de este análisis, el retailer puede identificar las búsquedas que no arrojaron resultados y determinar qué términos necesitan sinónimos registrados.
 
 ## Tipos de sinónimos
 
@@ -36,17 +36,17 @@ Pueden crearse dos tipos de sinónimos: unidireccional y bidireccional. Consulta
 | Unidireccional | Dos o más palabras tienen significados similares, pero no se consideran equivalentes en todos los contextos.<br>Esta configuración se elige estratégicamente para que la coincidencia funcione en una dirección específica. | `smartphone → iphone`<br>Al buscar el término "smartphone", los resultados incluirán productos etiquetados como "iphone". Sin embargo, al buscar "iphone" no se mostrarán resultados de "smartphone". |
 | Bidireccional | Dos o más palabras tienen sentidos y significados equivalentes, lo que permite que la correspondencia funcione en ambas direcciones.<br>Esta configuración facilita la búsqueda de productos que pueden tener nombres distintos según el país o la región. | `diet ⇄ cero azúcar ⇄ sin azúcar`<br>Al buscar productos "diet" se incluirán productos definidos como "cero azúcar" y "sin azúcar". Del mismo modo, al buscar "cero azúcar", los resultados incluirán productos "diet" y "sin azúcar". Los resultados de "sin azúcar" también incluirán productos "cero azúcar" y "diet".<br><br>`pomelo ⇄ toronja ⇄ pamplemusa`<br>En distintos países en los que se habla español, los términos "pomelo", "toronja" y "pamplemusa" se refieren a la misma fruta. Con sinónimos bidireccionales para cada término, no será necesario repetir cada palabra en la descripción del producto, ya que se mostrarán todos los resultados. |
 
-Aprende más sobre el registro de sinónimos en [Crear sinónimos](/es/tutorial/criar-sinonimos--5IfjhvjxNAvJGEWNn0AhOA).
+Aprende más sobre el registro de sinónimos en [Crear sinónimos](/es/docs/tutorials/crear-sinonimos).
 
 > ⚠️ Una vez registrado o modificado un sinónimo, puede tardar hasta dos horas en reflejarse en la tienda.
 
 ## Buenas prácticas
 
-> ❗ No utilices las [palabras sustitutas](/es/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu) para optimizar las búsquedas de productos y SKU en el Catálogo con Intelligent Search. Usa únicamente la funcionalidad de sinónimos, ya que permite una gestión más escalable de términos por producto.
+> ❗ No utilices las [palabras sustitutas](/es/docs/tutorials/optimizar-las-busquedas-con-palabras-sustitutas) para optimizar las búsquedas de productos y SKU en el Catálogo con Intelligent Search. Usa únicamente la funcionalidad de sinónimos, ya que permite una gestión más escalable de términos por producto.
 
 ### Clasificación de los resultados
 
-Al crear un sinónimo bidireccional, no hay diferenciación entre los dos términos en la clasificación de los resultados de búsqueda. Por ejemplo, si existe un sinónimo bidireccional como tempra ⇄ paracetamol, al buscar `tempra`, los resultados de este medicamento no necesariamente aparecerán antes que los resultados de `paracetamol`. Para determinar la estrategia de clasificación, es necesario utilizar una [regla de merchandising](/es/tutorial/reglas-de-merchandising--2UEbxllrr98twbGIVhSPvi).
+Al crear un sinónimo bidireccional, no hay diferenciación entre los dos términos en la clasificación de los resultados de búsqueda. Por ejemplo, si existe un sinónimo bidireccional como tempra ⇄ paracetamol, al buscar `tempra`, los resultados de este medicamento no necesariamente aparecerán antes que los resultados de `paracetamol`. Para determinar la estrategia de clasificación, es necesario utilizar una [regla de merchandising](/es/docs/tutorials/reglas-de-merchandising).
 
 ### Palabras agregadas individualmente
 
@@ -70,9 +70,9 @@ Consulta a continuación algunos ejemplos de configuración de sinónimos:
 | `pantalón ⇄ pantalones` | Bidireccional | ❌ Configuración redundante. Intelligent Search corrige automáticamente casos como este. |
 | `pantalón jeans ⇄ pantalón de jeans` | Bidireccional | ❌ Configuración redundante. Intelligent Search corrige automáticamente casos como este. |
 
-> ℹ️ La funcionalidad [Sinónimos](/es/tutorial/sinonimos-inteligentes--1rR47Kk96UgFYwh8dkDG7i) genera recomendaciones de términos para registrar sinónimos, además de la configuración manual. Si te interesa implementarla en el futuro, ponte en contacto con nuestro [soporte](https://support.vtex.com/hc/pt-br/requests). Es posible que más adelante se apliquen tarifas adicionales.
+> ℹ️ La funcionalidad [Sinónimos](/es/docs/tutorials/sinonimos-inteligentes) genera recomendaciones de términos para registrar sinónimos, además de la configuración manual. Si te interesa implementarla en el futuro, ponte en contacto con nuestro [soporte](https://support.vtex.com/hc/pt-br/requests). Es posible que más adelante se apliquen tarifas adicionales.
 
 ## Más información
 
-* [Crear sinónimos](/es/tutorial/criar-sinonimos--5IfjhvjxNAvJGEWNn0AhOA)
-* [Lista de sinónimos](/es/tutorial/lista-de-sinonimos--3E1fi0C6tVrR0klMFXAaU8)
+* [Crear sinónimos](/es/docs/tutorials/crear-sinonimos)
+* [Lista de sinónimos](/es/docs/tutorials/lista-de-sinonimos)

@@ -24,6 +24,6 @@ Para crear una tasa, siga los pasos a continuación:
    1. Acceda al módulo Tasas y Promociones.
    2. Haga clic en la pestaña __Tasa__.
    3. Haga clic en el botón __Nueva tasa__.
-   4. Complete los datos generales de la tasa, informe los ítems a los que se aplicará y elija las condiciones de aplicación. Para conocer en detalle la función de cada campo de la pantalla de configuración de tasas, lea el artículo [Crear tasa/ impuesto](/es/tutorial/como-crear-tasaimpuesto--tutorials_321).
+   4. Complete los datos generales de la tasa, informe los ítems a los que se aplicará y elija las condiciones de aplicación. Para conocer en detalle la función de cada campo de la pantalla de configuración de tasas, lea el artículo [Crear tasa/ impuesto](/es/docs/tutorials/creando-la-tasaimpuesto).
    5. Haga clic en __Guardar__.
   

@@ -15,11 +15,11 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Nuevos permisos requeridos para acceder a la configuración de pedidos en el Admin VTEX'
 ---
 
-Para aumentar la seguridad y control de la autenticación, actualizamos la forma en que [License Manager](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) valida el acceso a la configuración de pedidos de la tienda. Los nuevos recursos son obligatorios para poder acceder a ciertas páginas del Admin VTEX. 
+Para aumentar la seguridad y control de la autenticación, actualizamos la forma en que [License Manager](/es/docs/tutorials/roles) valida el acceso a la configuración de pedidos de la tienda. Los nuevos recursos son obligatorios para poder acceder a ciertas páginas del Admin VTEX. 
 
 ## ¿Qué cambió?
 
-Actualizamos los [recursos de License Manager](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) utilizados para validar la autenticación de los usuarios al acceder a algunas páginas del Admin VTEX. Ahora se requieren los recursos `Save Order Configuration` y `Save OrderForm Configuration` para acceder a las páginas de [configuración general de pedidos](/es/tutorial/configuraciones-generales--tutorials_194) y de [gestión de afiliados](/es/tutorial/como-configurar-afiliado--tutorials_187).
+Actualizamos los [recursos de License Manager](/es/docs/tutorials/recursos-del-license-manager) utilizados para validar la autenticación de los usuarios al acceder a algunas páginas del Admin VTEX. Ahora se requieren los recursos `Save Order Configuration` y `Save OrderForm Configuration` para acceder a las páginas de [configuración general de pedidos](/es/docs/tutorials/configuraciones-generales) y de [gestión de afiliados](/es/docs/tutorials/como-configurar-afiliado).
 
 ## ¿Qué se necesita hacer?
 

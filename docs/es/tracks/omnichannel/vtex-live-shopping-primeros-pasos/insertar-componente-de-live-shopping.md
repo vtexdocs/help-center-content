@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-primeros-pasos
 order: 4
 ---
 
-Una vez que tu evento esté [configurado en Bundle](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX) o en un estudio externo y antes de empezar la transmisión, tienes que agregar el componente de **Live Shopping** en tu sitio web, ya sea en la página de inicio de la tienda o en la [landing page](/es/tutorial/live-shopping-configurar-landing-page-para-transmisiones-en-vivo--4iBDPEpXyKSfoIqUdwHGFE). La configuración varía dependiendo de la solución de frontend de tu tienda:
+Una vez que tu evento esté [configurado en Bundle](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX) o en un estudio externo y antes de empezar la transmisión, tienes que agregar el componente de **Live Shopping** en tu sitio web, ya sea en la página de inicio de la tienda o en la [landing page](/es/docs/tutorials/live-shopping-configurar-landing-page-para-transmisiones-en-vivo). La configuración varía dependiendo de la solución de frontend de tu tienda:
 
 * [Store Framework (VTEX IO)](#store-framework-vtex-io)
 * [CMS - Portal Legado](#cms-portal-legado)
@@ -26,7 +26,7 @@ Una vez que tu evento esté [configurado en Bundle](/es/tracks/vtex-live-shoppin
 
 ## Store Framework (VTEX IO)
 
-En tiendas que utilizan [Store Framework](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework), sigue estos pasos para agregar el componente de **Live Shopping** desde [Site Editor](/es/tutorial/gestionar-contenido-de-paginas-y-templates--3tMbx6HXy4Fy5r9EhboG37): 
+En tiendas que utilizan [Store Framework](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework), sigue estos pasos para agregar el componente de **Live Shopping** desde [Site Editor](/es/docs/tutorials/gestionar-contenido-de-paginas-y-templates): 
 
 1. En el Admin VTEX, accede a **Storefront > Site Editor**, o ingresa **Site Editor** en la barra de búsqueda en la parte superior de la página.
 2. En la **lista de Bloques** en el lado derecho de la página, selecciona **Live Shopping**.
@@ -51,7 +51,7 @@ En tiendas que utilizan [CMS - Portal Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQ
 
 ## Headless CMS
 
-En tiendas que utilizan [Headless CMS](/es/tutorial/headless-cms-vision-general--3U5gvhHdQL0jczYH8gjX09), sigue los pasos a continuación para agregar el componente de **Live Shopping**: 
+En tiendas que utilizan [Headless CMS](/es/docs/tutorials/headless-cms-vision-general), sigue los pasos a continuación para agregar el componente de **Live Shopping**: 
 
 1. En la página **Información del evento** del [evento creado](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv), haz clic en el ícono de flecha.
 2. Accede a la sección **Configuración CMS**.
@@ -71,7 +71,7 @@ Para insertar el componente de **Live Shopping** en tu proyecto sigue los pasos 
 > ℹ️ Esta funcionalidad está disponible como solución nativa en la versión más reciente de FastStore. Si tu storefront utiliza [FastStore v1 o v2](https://developers.vtex.com/docs/guides/faststore/getting-started-faststore-versions-and-support-levels), consulta la guía [Implementing Live Shopping for FastStore previous versions](https://developers.vtex.com/docs/guides/faststore/storefront-features-implementing-live-shopping-for-faststore-previous-versions).
 
 1. En el Admin VTEX, accede a **Apps > Live Shopping > Eventos**, o ingresa **Eventos** en la barra de búsqueda en la parte superior de la página.
-2. En la columna **Acciones**, haz clic en la flecha para ir a la [página del evento](/es/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
+2. En la columna **Acciones**, haz clic en la flecha para ir a la [página del evento](/es/docs/tutorials/live-shopping-eventos).
 3. En la sección **Detalles**, copia el valor `ID`, un código único compuesto por números y letras. Puedes utilizar el botón `Copiar al portapapeles`.
 4. Accede a **Storefront > Headless CMS**, o ingresa **Headless CMS** en la barra de búsqueda en la parte superior de la página.
 5. Selecciona la página en la que quieres insertar el componente **Live Shopping Player**.

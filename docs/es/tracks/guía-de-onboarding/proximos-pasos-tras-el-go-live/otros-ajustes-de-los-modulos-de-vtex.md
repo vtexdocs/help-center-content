@@ -23,13 +23,13 @@ Luego de configurar los ajustes obligatorios de [Promociones](/es/tracks/serie-d
 
 ### Clústeres de clientes
 
-Para proporcionarles ventajas de compra exclusivas a un grupo específico de personas o empresas, puedes [crear promociones personalizadas](/es/tutorial/creando-promociones-cluster-clientes--tutorials_342) para un clúster de clientes registrados en la tienda. En este contexto, la información de la promoción solo se mostrará en el carrito después de que los clientes inicien sesión en el sitio web. 
+Para proporcionarles ventajas de compra exclusivas a un grupo específico de personas o empresas, puedes [crear promociones personalizadas](/es/docs/tutorials/creando-promociones-cluster-clientes) para un clúster de clientes registrados en la tienda. En este contexto, la información de la promoción solo se mostrará en el carrito después de que los clientes inicien sesión en el sitio web. 
 
 ### Competencia de promociones
 
 Cuando la tienda tiene promociones activas registradas que comparten características similares y que pueden aplicarse simultáneamente a un producto, las promociones pueden competir entre sí. En estos casos, es importante entender el orden de prioridad en que se aplicarán las promociones al producto para garantizar que se esté utilizando la estrategia de ventas correctamente.
 
-Para más información, consulta [Cómo funciona la competencia de promociones](/es/tutorial/como-funciona-la-competencia-de-promociones--tutorials_2270).
+Para más información, consulta [Cómo funciona la competencia de promociones](/es/docs/tutorials/como-funciona-la-competencia-de-promociones).
 
 ### Promociones para marketplace
 
@@ -40,7 +40,7 @@ Las tiendas que operan como marketplace VTEX solo pueden configurar [promociones
 - Porcentaje de precio
 - Tablas de precios
 
-Para más información, consulta [Configurar promoción para marketplace](/es/tutorial/configurar-promocion-para-marketplace--tutorials_406).
+Para más información, consulta [Configurar promoción para marketplace](/es/docs/tutorials/configurar-promocion-para-marketplace).
 
 ## Logística
 
@@ -72,11 +72,11 @@ Después de configurar los ajustes obligatorios de [Pedidos](/es/tracks/serie-de
 
 ### Suscripciones
 
-Se puede configurar la programación de compras recurrentes en el [sistema de Suscripciones](/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453) de la plataforma, posibilitando que los clientes vuelvan a adquirir automáticamente sus productos preferidos con la frecuencia que deseen.
+Se puede configurar la programación de compras recurrentes en el [sistema de Suscripciones](/es/docs/tutorials/como-funciona-suscripciones) de la plataforma, posibilitando que los clientes vuelvan a adquirir automáticamente sus productos preferidos con la frecuencia que deseen.
 
 ### VTEX DO
 
-[VTEX DO](/es/tutorial/vtex-do-interface--7KMbRL4OslN8DTX9oiuCiu) es el sistema de gestión de tareas de procesamiento de pedidos en la tienda que permite a los operadores de la tienda ejecutar manualmente las tareas creadas automáticamente por el Admin VTEX. VTEX DO tiene las siguientes funcionalidades:
+[VTEX DO](/es/docs/tutorials/vtex-do-interface) es el sistema de gestión de tareas de procesamiento de pedidos en la tienda que permite a los operadores de la tienda ejecutar manualmente las tareas creadas automáticamente por el Admin VTEX. VTEX DO tiene las siguientes funcionalidades:
 
 - Búsqueda y filtro por status (abiertas y sin asignar) o por tema (catálogo, comercial, infraestructura).
 
@@ -88,10 +88,10 @@ Se puede configurar la programación de compras recurrentes en el [sistema de Su
 
 ### VTEX Social Selling
 
-[VTEX Social Selling](/es/tutorial/como-ativar-o-app-carrinho-compartilhavel--1lS3fQdXpOoC0BTeVhydfg) les permite a los vendedores seleccionar productos y compartirlos con los clientes a través de canales de comunicación como WhatsApp, Facebook Messenger e email. Esta funcionalidad se puede utilizar tanto en la tienda online como en operaciones de tiendas físicas ([VTEX Sales App](/es/tracks/proximos-pasos-tras-el-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm#vtex-sales-app).
+[VTEX Social Selling](/es/docs/tutorials/como-activar-la-app-carrito-compartido) les permite a los vendedores seleccionar productos y compartirlos con los clientes a través de canales de comunicación como WhatsApp, Facebook Messenger e email. Esta funcionalidad se puede utilizar tanto en la tienda online como en operaciones de tiendas físicas ([VTEX Sales App](/es/tracks/proximos-pasos-tras-el-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm#vtex-sales-app).
 
 ## B2B Suite 
-[B2B Suite](/es/tutorial/b2b-suite-overview--5eG6UfveWrai7looK0kVG3) es un conjunto de [aplicaciones VTEX IO](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-io) que permite a las tiendas gestionar organizaciones, permisos de acceso y configuraciones de checkout para relaciones comerciales B2B, entre otras funciones. Estos recursos son importantes para simplificar el flujo de compra, reducir costos y ofrecer una experiencia de compra personalizada.
+[B2B Suite](/es/docs/tutorials/b2b-suite-vision-general) es un conjunto de [aplicaciones VTEX IO](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-io) que permite a las tiendas gestionar organizaciones, permisos de acceso y configuraciones de checkout para relaciones comerciales B2B, entre otras funciones. Estos recursos son importantes para simplificar el flujo de compra, reducir costos y ofrecer una experiencia de compra personalizada.
 
 ### Conjunto de aplicaciones B2B Suite
 Las aplicaciones que componen B2B Suite se desarrollaron para impulsar las operaciones de negocios B2B. Son las siguientes:

@@ -74,7 +74,7 @@ Puedes elegir entre las siguientes opciones:
 Determina las condiciones y los porcentajes de descuento que deben aplicarse. Consulta a continuación las condiciones disponibles:
 
 - **SKUs:** selecciona los SKUs a los que se aplicará el descuento progresivo. Esta opción restringe la promoción a los productos asociados a los SKUs elegidos.
-- **Colecciones:** selecciona las [colecciones](/es/tutorial/criando-colecao-de-produtos--tutorials_244) de productos donde se aplicará el descuento progresivo. Esta opción permite aplicar la promoción a un grupo de productos predefinidos.
+- **Colecciones:** selecciona las [colecciones](/es/docs/tutorials/creando-colecciones-de-productos) de productos donde se aplicará el descuento progresivo. Esta opción permite aplicar la promoción a un grupo de productos predefinidos.
 - **Debe ser el mismo ítem:** esta opción aplica el descuento solo a productos idénticos. Por ejemplo, si agregas diferentes SKUs pertenecientes a la misma colección, la promoción no se aplicará. La regla considera únicamente la cantidad de unidades de un mismo SKU en el carrito.
 - **Descuento:** esta opción permite configurar el porcentaje de descuento que se aplica cuando se alcanza la cantidad mínima de ítems especificada. Puedes crear hasta 10 rangos de descuento progresivo. 
 - **Agregar rango:** en esta opción puedes configurar niveles de descuento progresivo adicionales. Por ejemplo, puedes configurar que al alcanzar 10 unidades, el descuento sea del 5 %, y que al llegar a 20 unidades, aumente al 10 %. El número máximo de rangos configurables es 10.
@@ -132,7 +132,7 @@ Destaca la promoción en la página de producto y agrega datos personalizados pa
 
 - **Destacar promociones en los productos:** marca esta opción para mostrar la promoción directamente en las páginas de producto. 
 
-> ⚠️ Recuerda [configurar la visualización en el módulo CMS](/es/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
+> ⚠️ Recuerda [configurar la visualización en el módulo CMS](/es/docs/tutorials/configurando-promocion-con-destaque-flag).
 
 - **Información adicional:** haz clic en `Crear` para agregar campos personalizados con nombre y valor, que puedes utilizar para personalizar la tienda.
 

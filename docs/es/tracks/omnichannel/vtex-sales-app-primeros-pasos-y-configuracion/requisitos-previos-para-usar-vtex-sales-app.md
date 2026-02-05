@@ -93,7 +93,7 @@ Para configurar el adquiriente que procesará los pagos de su tienda, vaya a [Co
 
 ### Facturación
 
-Para emitir la factura al consumidor, VTEX dispone de integraciones con ERP y otros sistemas responsables de esta parte del proceso. Puedes entender mejor esta funcionalidad consultando la [Guía de integración con la factura electrónica](/es/tutorial/guia-de-integracao-do-gerenciamento-de-pedidos-com-cf-e-para-o-vtex-instore--51xsyWzGiQ08KMO2EaaGAa).
+Para emitir la factura al consumidor, VTEX dispone de integraciones con ERP y otros sistemas responsables de esta parte del proceso. Puedes entender mejor esta funcionalidad consultando la [Guía de integración con la factura electrónica](/es/docs/tutorials/guia-de-integracion-del-gerenciamento-de-pedidos-con-cupon-fiscal-electronico-para-el-vtex-sales-app).
 
 Recomendamos los siguientes _partners_ de facturación:
 
@@ -124,7 +124,7 @@ Los requisitos previos para implementar estas estrategias son todos los elemento
 
 Recomendaciones adicionales:
 
-* Activar el módulo **Checkout v6**. Lee el artículo [Cómo activar el Checkout v6](/es/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH) para más información.
+* Activar el módulo **Checkout v6**. Lee el artículo [Cómo activar el Checkout v6](/es/docs/tutorials/activar-el-checkout-v6) para más información.
 * Precios: recomendamos que tus tiendas físicas hereden los precios del ecommerce. Sin embargo, si decides tener precios diferentes, ten en cuenta los requisitos y las observaciones a continuación.
     * Es necesario involucrar a una agencia aliada para regionalizar el catálogo.
     * Esto puede afectar a las herramientas de comparación de precios, ya que solo reciben un valor.

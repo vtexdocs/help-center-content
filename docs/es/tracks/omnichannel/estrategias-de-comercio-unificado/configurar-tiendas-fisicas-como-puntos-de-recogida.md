@@ -27,7 +27,7 @@ Comprueba los requisitos para empezar a utilizar las tiendas físicas como punto
 
 ## Configurar tiendas físicas como puntos de recogida
 
-En la plataforma VTEX, las tiendas físicas se configuran como cuentas franquicia, que a su vez funcionan como Sellers White Label de la cuenta principal de la marca. Lee el artículo [¿Qué es una cuenta franquicia?](/es/tutorial/que-es-una-cuenta-franquicia--kWQC6RkFSCUFGgY5gSjdl) para obtener más información sobre este tipo de cuenta.
+En la plataforma VTEX, las tiendas físicas se configuran como cuentas franquicia, que a su vez funcionan como Sellers White Label de la cuenta principal de la marca. Lee el artículo [¿Qué es una cuenta franquicia?](/es/docs/tutorials/que-es-una-cuenta-franquicia) para obtener más información sobre este tipo de cuenta.
 
 Por lo tanto, en cada cuenta franquicia que vaya a servir de punto de recogida, hay que configurar un punto de recogida y relacionarlo con las demás configuraciones logísticas de la cuenta. Consulta el paso a paso completo que se muestra a continuación.
 
@@ -41,12 +41,12 @@ Para que tu cliente pueda comprar (en la tienda o a través de otro canal) y rec
 
 1. En el Admin VTEX de la cuenta franquicia deseada, accede a **Envío** > __Estrategia de envío__, o escribe __Puntos de recogida__ en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en el botón `Añadir`.
-3. Rellena la información solicitada. Para obtener más información sobre cada campo, lee el artículo [Configurar puntos de recogida (pickup points)](/es/tutorial/configurar-puntos-de-recogida-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).
+3. Rellena la información solicitada. Para obtener más información sobre cada campo, lee el artículo [Configurar puntos de recogida (pickup points)](/es/docs/tutorials/registro-de-puntos-de-recogida).
 4. Haz clic en `Guardar`.
 
 ### Asociar un punto de recogida a una política de envío
 
-A continuación, debes asociar los nuevos puntos de recogida con una política de envío para que funcionen correctamente. Para obtener más información sobre este proceso, consulta la sección [Asociar punto de recogida con una política de envío](/es/tutorial/configurar-puntos-de-recogida-pickup-points--2R5ClQiwe4KoSQgsuiOw4E#2-asociar-punto-de-recogida-con-una-politica-de-envio) del artículo [Configurar puntos de recogida](/es/tutorial/configurar-puntos-de-recogida-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).
+A continuación, debes asociar los nuevos puntos de recogida con una política de envío para que funcionen correctamente. Para obtener más información sobre este proceso, consulta la sección [Asociar punto de recogida con una política de envío](/es/tutorial/configurar-puntos-de-recogida-pickup-points--2R5ClQiwe4KoSQgsuiOw4E#2-asociar-punto-de-recogida-con-una-politica-de-envio) del artículo [Configurar puntos de recogida](/es/docs/tutorials/registro-de-puntos-de-recogida).
 
 ### Asociar un punto de recogida al almacén de una tienda física
 

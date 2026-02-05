@@ -22,7 +22,7 @@ Desarrollamos nuevas funcionalidades para [Sales App](https://apps.vtex.com/vtex
 Para mejorar la experiencia de compra del cliente en las tiendas físicas, presentamos las nuevas funcionalidades de Sales App. Las principales mejoras son:
 
 * **HTML en la descripción del producto:** permite que la descripción de un producto contenga HTML, lo que proporciona una manera más flexible y dinámica de presentar la información.
-* **Venta de inventario local:** permite que el vendedor finalice una compra usando la aplicación de Sales App, sin tener que ir a la caja registradora. Además, Sales App permite que el vendedor agrupe en una sola transacción los productos que se entregarán a domicilio con los que el cliente se llevará de la tienda inmediatamente. Puedes ver más información en el artículo [Habilitar Venta de inventario local en VTEX Sales App](/es/tutorial/habilitar-venta-en-mano-en-vtex-sales-app--54eQN4rOH5yBYPGG2w8v9q).
+* **Venta de inventario local:** permite que el vendedor finalice una compra usando la aplicación de Sales App, sin tener que ir a la caja registradora. Además, Sales App permite que el vendedor agrupe en una sola transacción los productos que se entregarán a domicilio con los que el cliente se llevará de la tienda inmediatamente. Puedes ver más información en el artículo [Habilitar Venta de inventario local en VTEX Sales App](/es/docs/tutorials/habilitar-venta-de-inventario-local-en-vtex-sales-app).
 * **Sugerencias de productos similares:** presenta productos similares en la página del producto, lo que ofrece una mayor variedad de productos y diversifica las opciones del cliente.
 * **Otras ofertas**: muestra el mejor precio disponible en la página del producto, ya sea en la tienda virtual o en otras tiendas físicas.
 
@@ -30,9 +30,9 @@ Para mejorar la experiencia de compra del cliente en las tiendas físicas, prese
 
 Las funcionalidades **HTML en la descripción del producto** y **Otras ofertas** se aplicarán automáticamente a todas las tiendas VTEX que utilizan Sales App.
 
-Para implementar **Sugerencias de productos similares**, sigue los pasos del artículo [Configurar producto similar, sugerencias, accesorios y genéricos](/es/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280).
+Para implementar **Sugerencias de productos similares**, sigue los pasos del artículo [Configurar producto similar, sugerencias, accesorios y genéricos](/es/docs/tutorials/configurar-producto-similar-sugerencias-accesorios-y-genericos).
 
-Para configurar **Venta de inventario local** en tu tienda, consulta el artículo [Habilitar Venta de inventario local en VTEX Sales App](/es/tutorial/habilitar-venta-en-mano-en-vtex-sales-app--54eQN4rOH5yBYPGG2w8v9q).
+Para configurar **Venta de inventario local** en tu tienda, consulta el artículo [Habilitar Venta de inventario local en VTEX Sales App](/es/docs/tutorials/habilitar-venta-de-inventario-local-en-vtex-sales-app).
 
 Para más información sobre Sales App, consulta nuestra documentación:
 

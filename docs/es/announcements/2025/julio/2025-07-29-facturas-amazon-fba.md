@@ -30,5 +30,5 @@ Desarrollamos esta funcionalidad para agilizar la rutina de los sellers y centra
 
 ## ¿Qué se necesita hacer?
 
-La funcionalidad está disponible para todas las cuentas VTEX integradas con Amazon. Para utilizarla, consulta el tutorial [Facturas de pedidos FBA](/es/tutorial/notas-fiscais-de-pedidos-fba--5ok71vWueJ22JhXo1egx2y) y sigue las instrucciones.
+La funcionalidad está disponible para todas las cuentas VTEX integradas con Amazon. Para utilizarla, consulta el tutorial [Facturas de pedidos FBA](/es/docs/tutorials/facturas-de-pedidos-fba) y sigue las instrucciones.
 

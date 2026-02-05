@@ -30,5 +30,5 @@ Los principales beneficios son:
 
 ## ¿Qué se necesita hacer?
 
-La funcionalidad está disponible para todas las cuentas VTEX que utilizan la integración de Mercado Libre a partir del **13 de octubre de 2025.** Para saber cómo configurarla y activarla, accede al tutorial [Precios inteligentes Mercado Libre](/es/tutorial/precificacao-inteligente-mercado-livre--3J8t9EFFaaxmOloOqzU5Hz).
+La funcionalidad está disponible para todas las cuentas VTEX que utilizan la integración de Mercado Libre a partir del **13 de octubre de 2025.** Para saber cómo configurarla y activarla, accede al tutorial [Precios inteligentes Mercado Libre](/es/docs/tutorials/precios-inteligentes-mercado-libre).
 

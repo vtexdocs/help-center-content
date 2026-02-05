@@ -69,4 +69,4 @@ El costo de una aplicación puede ser:
 - Un valor fijo mensual.
 - O presentar condiciones específicas, que pueden incluir el número de mensajes SMS enviados o el tiempo de retransmisión en vivo, entre otros factores.
 
-Los costos se añadirán automáticamente a tu [factura VTEX](/es/tutorial/vision-general-facturacion--6UxfCl4fw4GmyQwoUuIcQs) poco después de comprar la aplicación.
+Los costos se añadirán automáticamente a tu [factura VTEX](/es/docs/tutorials/vision-general-facturacion) poco después de comprar la aplicación.

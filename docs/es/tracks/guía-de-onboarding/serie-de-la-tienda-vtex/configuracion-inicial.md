@@ -45,36 +45,36 @@ Los clientes que hayan formalizado una asociación con VTEX mediante firma puede
 
 ## Recibir acceso al Admin VTEX
 
-Tras la firma del acuerdo comercial, el [usuario titular](/es/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy) recibirá acceso al Admin VTEX por email en hasta 10 días laborables. El usuario titular es el principal responsable de la tienda y el único usuario que tiene acceso total a todas las secciones del Admin VTEX, incluyendo acciones importantes de mantenimiento y autorización.
+Tras la firma del acuerdo comercial, el [usuario titular](/es/docs/tutorials/que-es-el-usuario-titular) recibirá acceso al Admin VTEX por email en hasta 10 días laborables. El usuario titular es el principal responsable de la tienda y el único usuario que tiene acceso total a todas las secciones del Admin VTEX, incluyendo acciones importantes de mantenimiento y autorización.
 
 Al principio, las principales acciones que solo pueden ser ejecutadas por el usuario titular son:
 
 * Solicitar un entorno de prueba para el gerente de la cuenta.
-* Agregar nuevos usuarios al entorno VTEX, lo que requiere conocimiento de los [roles](/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy) existentes.
-* [Activar inicio de sesión por autenticación de dos factores](/es/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ) para los operadores.
+* Agregar nuevos usuarios al entorno VTEX, lo que requiere conocimiento de los [roles](/es/docs/tutorials/roles-de-usuario-predefinidos) existentes.
+* [Activar inicio de sesión por autenticación de dos factores](/es/docs/tutorials/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores) para los operadores.
 * Definir los [métodos de inicio de sesión](/es/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs#inicio-de-sesion) para los clientes de la tienda.
 
 Existen otras acciones que están restringidas a este usuario. Puedes ver la lista en el artículo [Usuario titular](/es/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy#acciones-restringidas-al-usuario-titular).
 
-> ⚠️ El **usuario titular** difiere del usuario **Owner (Admin Super)**. El usuario **Owner (Admin Super)** es un [rol](/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy) de [License Manager](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) que define los permisos concedidos a un usuario y puede asignarse a varios usuarios. Sin embargo, solo hay un **usuario titular** por [cuenta](/es/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC).
+> ⚠️ El **usuario titular** difiere del usuario **Owner (Admin Super)**. El usuario **Owner (Admin Super)** es un [rol](/es/docs/tutorials/roles-de-usuario-predefinidos) de [License Manager](/es/docs/tutorials/recursos-del-license-manager) que define los permisos concedidos a un usuario y puede asignarse a varios usuarios. Sin embargo, solo hay un **usuario titular** por [cuenta](/es/docs/tutorials/que-es-account-name).
 
 ## Usuarios y permisos
 
-Todos los usuarios administrativos registrados en una cuenta VTEX pueden ejecutar acciones de acuerdo con su [rol](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) asignado y con los respectivos permisos para acceder a los [recursos de la plataforma](/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3). Por ejemplo, para recuperar una transacción, el usuario debe tener un rol con permiso para utilizar el recurso `View Payment Data`.
+Todos los usuarios administrativos registrados en una cuenta VTEX pueden ejecutar acciones de acuerdo con su [rol](/es/docs/tutorials/roles) asignado y con los respectivos permisos para acceder a los [recursos de la plataforma](/es/docs/tutorials/recursos-del-license-manager). Por ejemplo, para recuperar una transacción, el usuario debe tener un rol con permiso para utilizar el recurso `View Payment Data`.
 
 ### Agregar usuarios administrativos
 
-Los nuevos usuarios se deben registrar en el Admin VTEX a través de la página **Configuración de la cuenta**, siguiendo los pasos del artículo [Gestionar usuarios](/es/tutorial/gerenciando-usuarios--tutorials_512). En esta página también puedes editar, eliminar o exportar usuarios.
+Los nuevos usuarios se deben registrar en el Admin VTEX a través de la página **Configuración de la cuenta**, siguiendo los pasos del artículo [Gestionar usuarios](/es/docs/tutorials/gestionar-usuarios-administradores). En esta página también puedes editar, eliminar o exportar usuarios.
 
 ### Definir roles y permisos para los usuarios
 
-Para definir las acciones que un usuario puede realizar en el Admin VTEX, sigue las instrucciones del artículo [Roles](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc). Puedes asignar usuarios a [roles predefinidos](/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy) o, si necesitas grupos de permisos más allá de los abarcados en estos roles, puedes crear [roles personalizados](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso).
+Para definir las acciones que un usuario puede realizar en el Admin VTEX, sigue las instrucciones del artículo [Roles](/es/docs/tutorials/roles). Puedes asignar usuarios a [roles predefinidos](/es/docs/tutorials/roles-de-usuario-predefinidos) o, si necesitas grupos de permisos más allá de los abarcados en estos roles, puedes crear [roles personalizados](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso).
 
 ## Autenticación para la plataforma y storefront
 
-Debes configurar el método de [autenticación](/es/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs) que los clientes emplearán para iniciar sesión en la tienda y que los usuarios administrativos utilizarán para iniciar sesión en el Admin VTEX. Existen diversas formas de completar la autenticación en el entorno VTEX. Por ejemplo, los métodos de código de acceso y contraseña siempre están disponibles, mientras que la autenticación mediante Google es opcional.
+Debes configurar el método de [autenticación](/es/docs/tutorials/autenticacion) que los clientes emplearán para iniciar sesión en la tienda y que los usuarios administrativos utilizarán para iniciar sesión en el Admin VTEX. Existen diversas formas de completar la autenticación en el entorno VTEX. Por ejemplo, los métodos de código de acceso y contraseña siempre están disponibles, mientras que la autenticación mediante Google es opcional.
 
-Para iniciar sesión en la tienda, VTEX ofrece la autenticación por código de acceso, contraseña, [Facebook](/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook) y [Google](/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google). Se pueden activar uno o más métodos de autenticación. Las instrucciones para activar las soluciones se detallan en el artículo [Autenticación](/es/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs).
+Para iniciar sesión en la tienda, VTEX ofrece la autenticación por código de acceso, contraseña, [Facebook](/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook) y [Google](/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google). Se pueden activar uno o más métodos de autenticación. Las instrucciones para activar las soluciones se detallan en el artículo [Autenticación](/es/docs/tutorials/autenticacion).
 
 ## Autenticación para integraciones y desarrollo de aplicaciones
 
@@ -90,7 +90,7 @@ La tabla a continuación detalla los tres tipos de autenticación disponibles:
 
 ## Políticas comerciales
 
-Las [políticas comerciales](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) son un concepto importante en VTEX. Una política comercial es un conjunto de configuraciones, que incluye:
+Las [políticas comerciales](/es/docs/tutorials/como-funciona-una-politica-comercial) son un concepto importante en VTEX. Una política comercial es un conjunto de configuraciones, que incluye:
 
 * [Catálogo](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#catalogo)
 * [Precios](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#precios)
@@ -103,12 +103,12 @@ Toda integración con un canal de ventas debe tener una política comercial asoc
 Dependiendo de su arquitectura en VTEX, la tienda puede beneficiarse de tener más de una política comercial, o asociar estrategias de varias políticas comerciales a [multitiendas](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multitienda) y [entornos adicionales](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#entorno-adicional). El artículo [Cuentas y arquitectura](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) explica en detalle la relación entre estos conceptos.
 
 <div>
-Para [crear una política comercial](/es/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) y para [contratar políticas comerciales adicionales](/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), debes ponerte en contacto con el [equipo de soporte de VTEX](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8).
+Para [crear una política comercial](/es/docs/tutorials/crear-una-politica-comercial) y para [contratar políticas comerciales adicionales](/es/docs/tutorials/contratacion-de-politicas-comerciales-adicionales), debes ponerte en contacto con el [equipo de soporte de VTEX](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8).
 </div>
 
 ## Edition Apps
 
-[Edition Apps](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app) son paquetes que agrupan configuraciones y aplicaciones. Se crean mediante [sponsor accounts](https://developers.vtex.com/docs/guides/vtex-io-documentation-sponsor-account) para facilitar la configuración de [cuentas franquicia](/es/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl). Algunos ejemplos incluyen **Edition Store** y **Edition Business**, que se ofrecen de forma nativa. Toda Edition App depende de `vtex.edition-business` o `vtex.edition-store`.
+[Edition Apps](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app) son paquetes que agrupan configuraciones y aplicaciones. Se crean mediante [sponsor accounts](https://developers.vtex.com/docs/guides/vtex-io-documentation-sponsor-account) para facilitar la configuración de [cuentas franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia). Algunos ejemplos incluyen **Edition Store** y **Edition Business**, que se ofrecen de forma nativa. Toda Edition App depende de `vtex.edition-business` o `vtex.edition-store`.
 
 Para editar una Edition App, debes ponerte en contacto con nuestro [equipo de soporte](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8). Ten en cuenta que solo la _sponsor account_ puede realizar cambios. Para crear una Edition App, se deben cumplir los requisitos descritos en [Developing an Edition App](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app#developing-an-edition-app).
 

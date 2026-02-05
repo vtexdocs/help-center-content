@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Ahora es posible cambiar la máscara del Conversation Tracker (modos Soft y Hard) a través del módulo Gestión de Pedidos.'
 ---
 
-[Conversation Tracker](/es/tutorial/conversation-tracker--tutorials_195) se utiliza para unificar toda la comunicación realizada con un cliente durante el flujo de un pedido. Estos correos electrónicos, que también incluyen los mensajes enviados al correo electrónico del cliente por cualquier otro sistema integrado, se registran en la línea de tiempo del pedido en cuestión. 
+[Conversation Tracker](/es/docs/tutorials/comprendiendo-el-conversation-tracker) se utiliza para unificar toda la comunicación realizada con un cliente durante el flujo de un pedido. Estos correos electrónicos, que también incluyen los mensajes enviados al correo electrónico del cliente por cualquier otro sistema integrado, se registran en la línea de tiempo del pedido en cuestión. 
 
 Conversation Tracker puede tener dos configuraciones de máscara:
 
@@ -46,4 +46,4 @@ Si el cambio de configuración es realmente necesario, ahora es posible hacerlo 
 
 El cambio puede hacerse a través de la pestaña **Configuración** en el módulo *Gestión de pedidos*. En la pestaña Configuración **General**, cambie a la opción deseada en la sección **Tipo de máscara de conversación**.
 Una vez que haya cambiado al modo Soft, puede probar cómo funciona la configuración. Basta con crear un pedido de prueba, y en el OMS pasar el mouse sobre el correo electrónico enviado, para comprobar qué alias se aplicó (Soft o Hard).
-Para saber más, consulte nuestra documentación sobre [Conversation Tracker](/es/tutorial/conversation-tracker--tutorials_195).
+Para saber más, consulte nuestra documentación sobre [Conversation Tracker](/es/docs/tutorials/comprendiendo-el-conversation-tracker).

@@ -97,5 +97,5 @@ Si deseas agregar una nueva dirección de envío relacionada con este centro de 
 </ol>
 
 #### Campos personalizados
-Los campos personalizados permiten a los usuarios agregar información relevante para la empresa. Para más información, consulta [Campos personalizados en el registro  de organizaciones](/es/tutorial/campos-personalizados-no-cadastro-de-organizacao--2MqEVusOvcbqagNwOuHA7f).
+Los campos personalizados permiten a los usuarios agregar información relevante para la empresa. Para más información, consulta [Campos personalizados en el registro  de organizaciones](/es/docs/tutorials/campos-personalizados-en-el-registro-de-organizaciones).
 

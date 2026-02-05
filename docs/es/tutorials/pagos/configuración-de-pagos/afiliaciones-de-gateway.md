@@ -39,9 +39,9 @@ Para agregar un nuevo proveedor de pago o antifraude a tu tienda, sigue los paso
 
 > ❗ Las credenciales utilizadas para rellenar los campos Clave de aplicación y Token de aplicación las debe informar el proveedor de pago para identificar la tienda. No se deben utilizar las credenciales [generadas en el Admin](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet), que empiezan por `vtexappkey-`.
 
-Para configurar los medios de pago que el proveedor escogido procesará, accede a [Configurar condiciones de pago](/es/tutorial/condiciones-de-pago--tutorials_455). 
+Para configurar los medios de pago que el proveedor escogido procesará, accede a [Configurar condiciones de pago](/es/docs/tutorials/condiciones-de-pago). 
 
-Para definir condiciones especiales para los medios de pago, accede a [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456).
+Para definir condiciones especiales para los medios de pago, accede a [Configurar condiciones especiales de Pago](/es/docs/tutorials/condiciones-especiales).
 
 ![interface_provedor_ES_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/afiliaciones-de-gateway_2.JPG)
 

@@ -17,7 +17,7 @@ subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 
 > ℹ️ Esta funcionalidad se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarla. Si tienes alguna duda, ponte en contacto con [nuestro Soporte](https://supporticket.vtex.com/support).
 
-> ⚠️ El requisito para usar la funcionalidad es tener [cuentas franquicia](/es/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) asociadas a la [cuenta principal](/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-cuenta-vtex).
+> ⚠️ El requisito para usar la funcionalidad es tener [cuentas franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia) asociadas a la [cuenta principal](/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-cuenta-vtex).
 
 El módulo **Capacidad operativa (Beta)** te ayuda a gestionar la capacidad de los sellers para recibir y preparar pedidos de la tienda, optimizando así tu red logística. Puedes monitorear la distribución de pedidos entre los sellers y realizar [acciones](#acciones-en-la-pagina-de-detalles-de-la-capacidad-del-seller) para mejorarla.
 
@@ -37,7 +37,7 @@ Este artículo explica cómo utilizar el módulo **Capacidad operativa (Beta)** 
 * [Elegir entre editar la capacidad operativa del seller, hacerla ilimitada o pausar seller  o desactivar módulo](#elegir-entre-editar-la-capacidad-operativa-del-seller-hacerla-ilimitada-o-pausar-seller-o-desactivar-modulo)
 * [Desactivar el módulo Capacidad operativa (beta)](#desactivar-el-modulo-capacidad-operativa-beta)
 
-> ℹ️ Para poder activar y gestionar el módulo **Capacidad operativa (Beta)**, tu [rol](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) en el Admin VTEX debe estar asociado al [recurso de License Manager](/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) denominado *Logistics full access*.
+> ℹ️ Para poder activar y gestionar el módulo **Capacidad operativa (Beta)**, tu [rol](/es/docs/tutorials/roles) en el Admin VTEX debe estar asociado al [recurso de License Manager](/es/docs/tutorials/recursos-del-license-manager) denominado *Logistics full access*.
 
 ## Activar el módulo Capacidad operativa (beta)
 
@@ -72,7 +72,7 @@ La página **Capacidad operativa (Beta)** contiene la siguiente información:
 
 | **Columna** | **Descripción** |
 | :----------: | :---------- |
-| Seller | Identificación del [seller](/es/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w) referido en la capacidad operativa. |
+| Seller | Identificación del [seller](/es/docs/tutorials/que-es-un-seller) referido en la capacidad operativa. |
 | Capacidad de operación | Porcentaje de capacidad operativa del seller utilizada en el día.**Ejemplo:** un seller con capacidad para preparar 100 pedidos diarios tiene un 80% de su capacidad operativa del día utilizada. Esto significa que solo puede recibir 20 pedidos nuevos ese día.En esta columna, se muestra un ícono de alerta cuando el seller alcanza el 100% de su capacidad y no puede recibir nuevos pedidos ese día.Puedes [editar la capacidad operativa de los sellers](#editar-la-capacidad-operativa-del-seller) individualmente o en masa. |
 | Status | Status de la capacidad operativa del seller, que pueden ser dos:<ul><li><i class="fas fa-toggle-on" aria-hidden="true"></i> **Activo:** el botón de alternancia está activado y el seller puede recibir nuevos pedidos, bien porque está dentro del límite de capacidad configurado, bien porque es un seller de capacidad ilimitada.</li><li><i class="fas fa-toggle-off" aria-hidden="true"></i>**Pausado:** el botón de alternancia está desactivado y el seller no puede recibir nuevos pedidos.</li></ul>Para decidir cuándo pausar un seller, consulta la sección [Elegir entre editar la capacidad operativa del seller, hacerla ilimitada o pausar seller](#elegir-entre-editar-la-capacidad-operativa-del-seller-hacerla-ilimitada-o-pausar-seller-o-desactivar-modulo). |
 
@@ -123,7 +123,7 @@ La capacidad operativa del seller puede medirse por número de pedidos o ítems 
     - **Cantidad de ítems:** la capacidad del seller se medirá por número de ítems del pedido.
 5. Haz clic en `Guardar cambios`.
 
-> ⚠️ La plataforma tiene algunas restricciones con respecto a [sellers de extensa cobertura](/es/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI). La sección [Comportamiento de sellers de extensa cobertura](#comportamiento-de-sellers-de-extensa-cobertura) contiene más información.
+> ⚠️ La plataforma tiene algunas restricciones con respecto a [sellers de extensa cobertura](/es/docs/tutorials/seller-de-extensa-cobertura). La sección [Comportamiento de sellers de extensa cobertura](#comportamiento-de-sellers-de-extensa-cobertura) contiene más información.
 
 ## Acciones en la página de detalles de la capacidad del seller
 
@@ -142,7 +142,7 @@ En la esquina superior derecha de la página de detalles del seller, hay un bot�
 - **Activar:** habilita el botón de alternancia para que el status esté `Activo` y haz clic en `Activar`.
 - **Desactivar:** inhabilita el botón de alternancia para que el status esté `Pausado` y haz clic en `Pausar`.
 
-> ⚠️ La plataforma tiene algunas restricciones en relación con [sellers de extensa cobertura](/es/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI). La sección [Comportamiento de sellers de extensa cobertura](#comportamiento-de-sellers-de-extensa-cobertura) contiene más información.
+> ⚠️ La plataforma tiene algunas restricciones en relación con [sellers de extensa cobertura](/es/docs/tutorials/seller-de-extensa-cobertura). La sección [Comportamiento de sellers de extensa cobertura](#comportamiento-de-sellers-de-extensa-cobertura) contiene más información.
 
 ### Monitorear la capacidad utilizada
 
@@ -210,7 +210,7 @@ Para editar la dirección o el nombre de identificación del seller en **Capacid
 
 ## Comportamiento de sellers de extensa cobertura
 
-Cuando el cliente informa su ubicación en el sitio web de la tienda, se muestran los productos de tu tienda (seller 1) y de los [sellers de extensa cobertura](/es/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI). 
+Cuando el cliente informa su ubicación en el sitio web de la tienda, se muestran los productos de tu tienda (seller 1) y de los [sellers de extensa cobertura](/es/docs/tutorials/seller-de-extensa-cobertura). 
 
 Debido a una limitación de la plataforma, cuando desactivas la capacidad operativa de un seller de extensa cobertura, sus productos siguen apareciendo como disponibles en la vitrina, aunque el cliente no puede comprarlos. Por esta razón, recomendamos mantener siempre activa la capacidad operativa de sellers de extensa cobertura.
 

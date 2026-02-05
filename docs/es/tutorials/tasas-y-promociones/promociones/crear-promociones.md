@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Una promoción es un descuento concedido sobre el valor de la compra del cliente. Este descuento puede estar asociado a uno o varios productos, al costo de envío o a un regalo, por ejemplo. Existen los siguientes tipos de promoción en VTEX: [Regular](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Comprar Juntos](/es/tutorial/compre-junto--tutorials_323), [Más por Menos](/es/tutorial/leve-mais-por-menos--tutorials_325), [Descuento Progresivo](/es/tutorial/desconto-progressivo--tutorials_324), [Comprar y Obtener](/es/tutorial/compre-e-ganhe--tutorials_322)y [Promoción de Campaña](/es/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume). 
+Una promoción es un descuento concedido sobre el valor de la compra del cliente. Este descuento puede estar asociado a uno o varios productos, al costo de envío o a un regalo, por ejemplo. Existen los siguientes tipos de promoción en VTEX: [Regular](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Comprar Juntos](/es/docs/tutorials/comprar-juntos-registro-de-promocion), [Más por Menos](/es/docs/tutorials/mas-por-menos), [Descuento Progresivo](/es/docs/tutorials/descuento-progresivo), [Comprar y Obtener](/es/docs/tutorials/como-funciona-la-promocion-compre-y-gane)y [Promoción de Campaña](/es/docs/tutorials/promocion-de-campana). 
 
 En este artículo, encontrarás el paso a paso para realizar las siguientes acciones:
 
@@ -34,7 +34,7 @@ Sigue el tutorial a continuación para crear una [promoción regular](/es/tracks
  2. Haz clic en __Promociones__.
  3. Haz clic en el botón `Crear promoción`.
  4. Selecciona la opción `Regular`.
- 5. Rellena los [campos de la promoción](/es/tutorial/regular-promotion--tutorials_327).
+ 5. Rellena los [campos de la promoción](/es/docs/tutorials/registro-promocion-regular).
  6. Haz clic en `Guardar`.
 
 ## Filtrar o buscar promoción
@@ -80,7 +80,7 @@ Estas promociones se pueden identificar fácilmente en la página principal de P
 
 ![programada](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/crear-promociones_1.png)
 
-Para programar una promoción, sigue los pasos descritos en la sección [Programar promociones](/es/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI?&utm_source=autocomplete#programar-promociones) del artículo [Programación de funcionalidades para eventos especiales](/es/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI).
+Para programar una promoción, sigue los pasos descritos en la sección [Programar promociones](/es/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI?&utm_source=autocomplete#programar-promociones) del artículo [Programación de funcionalidades para eventos especiales](/es/docs/tutorials/programacion-de-funcionalidades-para-eventos-especiales).
 
 ## Archivar promoción
 Si no quieres que se siga utilizando una promoción, puedes moverla a la lista de promociones archivadas, con lo que su status cambiará automáticamente a Inactiva. Para archivar una promoción, sigue los pasos a continuación:

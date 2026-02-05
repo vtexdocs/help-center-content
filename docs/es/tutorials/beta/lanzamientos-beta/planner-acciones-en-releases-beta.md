@@ -17,14 +17,14 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 
 > ℹ️ El **Releases** se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarlo. Esta funcionalidad es válida únicamente para las tiendas que usan [FastStore](https://www.faststore.dev/).
 
-El módulo **Releases** te permite gestionar [releases](/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ) para que puedas coordinar la creación, programación y publicación de los cambios en tu tienda. Un release es un cambio o un grupo de cambios que pueden publicarse en conjunto.
+El módulo **Releases** te permite gestionar [releases](/es/docs/tutorials/planner-concepto-de-release-beta) para que puedas coordinar la creación, programación y publicación de los cambios en tu tienda. Un release es un cambio o un grupo de cambios que pueden publicarse en conjunto.
 
 En el **Releases**, puedes ver la información de los releases, seguir los [status de los releases](/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-los-releases) y llevar a cabo una serie de acciones. En este artículo, te mostraremos cuáles son esas acciones y cómo realizarlas.
 
 Se puede acceder a esta funcionalidad a través del menú de navegación del **Releases** en el Admin VTEX, donde encontrarás las siguientes páginas:
 
-* [Calendario](/es/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xHfIx9C)
-* [Releases](/es/tutorial/planner-pagina-de-release-beta--2p7IiVD6K8i1iRiwHph5sw)
+* [Calendario](/es/docs/tutorials/planner-pagina-calendario-beta)
+* [Releases](/es/docs/tutorials/planner-pagina-de-releases-beta)
 
 Cada página muestra una vista de los releases y te permite realizar distintas acciones que dependerán del [status del release](/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-los-releases). Las principales acciones son:
 
@@ -40,7 +40,7 @@ Cada página muestra una vista de los releases y te permite realizar distintas a
 
 Para crear un release a través del **Releases**, sigue estos pasos:
 
-1. En la página [Calendario](/es/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xHfIx9C) o [Releases](/es/tutorial/planner-pagina-de-releases-beta--2p7IiVD6K8i1iRiwHph5sw), haz clic en el botón `Crear release`.
+1. En la página [Calendario](/es/docs/tutorials/planner-pagina-calendario-beta) o [Releases](/es/docs/tutorials/planner-pagina-de-releases-beta), haz clic en el botón `Crear release`.
 2. Rellena el campo **Nombre** con un nombre para el release.
 3. En **Fecha de publicación**, selecciona una fecha para la publicación del release (opcional).
 4. En **Hora**, selecciona un horario para la publicación (opcional).
@@ -69,7 +69,7 @@ En cuanto a la definición de las fechas de publicación, existen tres acciones 
 
 Para programar un release en el status `No programado`, sigue estos pasos:
 
-1. En la página [Releases](/es/tutorial/planner-pagina-de-releases-beta--2p7IiVD6K8i1iRiwHph5sw), haz clic en el ícono del menú de tres puntos<i class="fas fa-ellipsis-v"></i> del release deseado.
+1. En la página [Releases](/es/docs/tutorials/planner-pagina-de-releases-beta), haz clic en el ícono del menú de tres puntos<i class="fas fa-ellipsis-v"></i> del release deseado.
 2. Selecciona la opción <i class="fal fa-calendar"></i> `Programar`.
 3. En **Fecha de publicación**, selecciona una fecha para la publicación del release.
 4. En **Hora**, selecciona un horario para la publicación.
@@ -87,7 +87,7 @@ Cuando un release está en el status `Programado`, puedes reprogramarlo. Los pas
 
 Para desprogramar un release y hacer que pase al status `No programado`, sigue estos pasos:
 
-1. En la página [Releases](/es/tutorial/planner-pagina-de-releases-beta--2p7IiVD6K8i1iRiwHph5sw), haz clic en el ícono del menú de tres puntos<i class="fas fa-ellipsis-v"></i> del release deseado.
+1. En la página [Releases](/es/docs/tutorials/planner-pagina-de-releases-beta), haz clic en el ícono del menú de tres puntos<i class="fas fa-ellipsis-v"></i> del release deseado.
 2. Selecciona la opción <i class="fal fa-calendar"></i> `Anular programación`.
 3. Haz clic en el botón `Anular programación`.
 
@@ -101,7 +101,7 @@ Para publicar un release, este debe estar en uno de los siguientes [status](/es/
 
 Para publicar un release y hacer visibles los cambios en el _storefront_ de la tienda, sigue los pasos a continuación:
 
-1. En la página **Calendario** o [Releases](/es/tutorial/planner-pagina-de-releases-beta--2p7IiVD6K8i1iRiwHph5sw), haz clic en el ícono del menú de tres puntos<i class="fas fa-ellipsis-v"></i> del release deseado.
+1. En la página **Calendario** o [Releases](/es/docs/tutorials/planner-pagina-de-releases-beta), haz clic en el ícono del menú de tres puntos<i class="fas fa-ellipsis-v"></i> del release deseado.
 2. Haz clic en <i class="far fa-cloud-upload"></i> `Publicar ahora`.
 3. Haz clic en `Publicar`.
 
@@ -115,7 +115,7 @@ Cuando se elimina un release que está en el status `Publicado`, los cambios que
 
 Sigue estas instrucciones paso a paso para eliminar un release:
 
-1. En la página [Releases](/es/tutorial/planner-pagina-de-releases-beta--2p7IiVD6K8i1iRiwHph5sw), haz clic en el ícono del menú de tres puntos<i class="fas fa-ellipsis-v"></i> del release deseado.
+1. En la página [Releases](/es/docs/tutorials/planner-pagina-de-releases-beta), haz clic en el ícono del menú de tres puntos<i class="fas fa-ellipsis-v"></i> del release deseado.
 2. Haz clic en <i class="far fa-trash-alt"></i> `Eliminar`.
 3. Haz clic en `Eliminar`.
 
@@ -123,6 +123,6 @@ Sigue estas instrucciones paso a paso para eliminar un release:
 
 ## Más información
 
-* [Releases: concepto de release](/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ)
-* [Releases: página Calendario](/es/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xHfIx9C)
-* [Releases: página Releases](/es/tutorial/planner-pagina-de-releases-beta--2p7IiVD6K8i1iRiwHph5sw)
+* [Releases: concepto de release](/es/docs/tutorials/planner-concepto-de-release-beta)
+* [Releases: página Calendario](/es/docs/tutorials/planner-pagina-calendario-beta)
+* [Releases: página Releases](/es/docs/tutorials/planner-pagina-de-releases-beta)

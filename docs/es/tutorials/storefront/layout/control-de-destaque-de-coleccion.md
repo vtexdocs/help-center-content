@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ **Atención:** existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a [la configuración de colecciones mediante el CMS Portal (Legado)](/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L).
+> ⚠️ **Atención:** existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a [la configuración de colecciones mediante el CMS Portal (Legado)](/es/docs/tutorials/registrar-una-coleccion-cms).
 
 El control `<vtex.cmc:HightLight/>` (para páginas de producto) o `$product.HightLight` (para estantes) renderiza un elemento HTML con una clase específica en el contexto de los productos que forman parte de una colección marcada con la flag __Highlight__.
 

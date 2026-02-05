@@ -17,7 +17,7 @@ announcementSynopsisES: 'Lanzamos una nueva página de configuración para que l
 
 Una de las responsabilidades de un [marketplace](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-un-marketplace-vtex) es recibir anuncios de sus _sellers_, revisarlos y aprobarlos para incluirlos en su catálogo.
 
-Para que los _marketplaces_ tengan más control sobre los criterios de aprobación de un anuncio, hemos creado la configuración **[Filtros de calidad de anuncios](/es/tutorial/filtros-de-qualidade-dos-anuncios--4xm0gi8leCyxHj8YdgHSJH)**, que permite a los _marketplaces_ crear los requisitos obligatorios y opcionales para su aprobación. 
+Para que los _marketplaces_ tengan más control sobre los criterios de aprobación de un anuncio, hemos creado la configuración **[Filtros de calidad de anuncios](/es/docs/tutorials/calidad-de-anuncios)**, que permite a los _marketplaces_ crear los requisitos obligatorios y opcionales para su aprobación. 
 
 De esta forma, los SKU que se envían al _marketplace_ cumplen los requisitos relevantes para la curación de catálogos. 
 
@@ -47,8 +47,8 @@ Sepa más acerca de los [beneficios](/es/tutorial/filtros-de-qualidade-dos-anunc
 
 ## ¿Qué se necesita hacer?
 
-La página de configuración está disponible automáticamente para todas las cuentas VTEX que utilizan la página [SKU Recibidos](/es/tutorial/sugerindo-e-aprovando-skus--tutorials_396). No se requiere ninguna acción para obtener la funcionalidad.
+La página de configuración está disponible automáticamente para todas las cuentas VTEX que utilizan la página [SKU Recibidos](/es/docs/tutorials/catalogacion-manual-de-skus). No se requiere ninguna acción para obtener la funcionalidad.
 
-Para acceder a la página donde se configuran los filtros de calidad de anuncios, en el Admin VTEX, ve a _Marketplace > **[Calidad de anuncios](/es/tutorial/filtros-de-qualidade-dos-anuncios--4xm0gi8leCyxHj8YdgHSJH)**_.
+Para acceder a la página donde se configuran los filtros de calidad de anuncios, en el Admin VTEX, ve a _Marketplace > **[Calidad de anuncios](/es/docs/tutorials/calidad-de-anuncios)**_.
 
 Esta página sigue el nuevo sistema de diseño de VTEX, con un aspecto más sencillo, moderno y fácil de usar. Para acceder a más páginas con esta experiencia, además de un Admin mejorado con datos procesables, [únete](https://content.vtex.com/join-new-admin-beta-program-es/) al programa Beta del[ nuevo Admin VTEX](/es/v4).

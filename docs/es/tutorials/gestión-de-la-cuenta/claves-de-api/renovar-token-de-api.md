@@ -75,6 +75,6 @@ Si renovaste el token por error u olvidaste copiar el nuevo token generado, sigu
 
 ## Más información
 
-* [Claves de API](/es/tutorial/claves-de-api--4bFEmcHXgpNksoePchZyy6)
+* [Claves de API](/es/docs/tutorials/claves-de-api)
 * [Configurar alerta para renovar tokens de API](/es/tutorial/configurar-alerta-para-renovar-tokens-de-api)
-* [Claves generadas](/es/tutorial/claves-generadas--7fnU4iZdvZKbxCaT3Ymdjc)
+* [Claves generadas](/es/docs/tutorials/claves-generadas)

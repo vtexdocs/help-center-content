@@ -75,6 +75,6 @@ Para cambiar la configuración de la verificación en dos pasos sigue las instru
 
 ## Recuperar el acceso al Admin VTEX
 
-Si pierdes el acceso al método de autenticación elegido y no puede iniciar sesión, prueba con otro método de inicio de sesión o sigue los pasos del artículo [Restablecer contraseña de acceso al Admin VTEX](/es/tutorial/redefinir-senha-de-acesso-ao-admin-vtex--frequentlyAskedQuestions_531).
+Si pierdes el acceso al método de autenticación elegido y no puede iniciar sesión, prueba con otro método de inicio de sesión o sigue los pasos del artículo [Restablecer contraseña de acceso al Admin VTEX](/es/docs/tutorials/restablecer-contrasena-de-acceso-al-admin-vtex).
 
 Después de ingresar el código de acceso y redefinir tu contraseña, podrás cambiar el método de autenticación en dos pasos siguiendo las instrucciones de esta guía.

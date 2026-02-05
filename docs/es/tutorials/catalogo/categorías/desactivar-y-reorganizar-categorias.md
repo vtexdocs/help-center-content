@@ -71,5 +71,5 @@ Para mover una categoría sin causar errores ni perder información, sigue las i
 ## Más información
 
 - [Categorías - Definición del concepto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
-- [Registrar una categoría](/es/tutorial/registrar-categoria--tutorials_206)
+- [Registrar una categoría](/es/docs/tutorials/registrar-categoria)
 

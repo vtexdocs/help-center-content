@@ -27,9 +27,9 @@ Las funcionalidades de televentas disponibles en VTEX son:
 - [Ingresar precio manual](#ingresar-precio-manual)
 - [Gestión de pedidos](#gestion-de-pedidos)
 
-> ⚠️ Para acceder a la barra de herramientas de televentas, precios manuales y a la página **[Todos los pedidos](/es/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi)**, el usuario debe estar registrado en la tienda con el rol de [Call center operator](/es/tutorial/como-criar-um-usuario-de-televendas--frequentlyAskedQuestions_4227).
+> ⚠️ Para acceder a la barra de herramientas de televentas, precios manuales y a la página **[Todos los pedidos](/es/docs/tutorials/todos-los-pedidos)**, el usuario debe estar registrado en la tienda con el rol de [Call center operator](/es/docs/tutorials/como-creo-un-usuario-de-televentas).
 
-Además, es necesario configurar estas funcionalidades de antemano, siguiendo los pasos del tutorial [Cómo configurar las funcionalidades de televentas](/es/tutorial/como-configurar-as-funcionalidades-de-televendas--76FNgQP2Glc4umMJ5Yr50R).
+Además, es necesario configurar estas funcionalidades de antemano, siguiendo los pasos del tutorial [Cómo configurar las funcionalidades de televentas](/es/docs/tutorials/como-configurar-las-funcionalidades-de-televentas).
 
 Cuando inicie sesión con el email asociado al rol, el operador de televentas será redirigido a la página de inicio de la tienda.
 
@@ -37,15 +37,15 @@ Cuando inicie sesión con el email asociado al rol, el operador de televentas se
 
 La barra de herramientas de televentas es una barra superior que se muestra en el sitio web de la tienda para los usuarios con el rol Call Center operator. Mediante la barra de herramientas, los operadores pueden navegar a la tienda, realizar compras y gestionar pedidos a nombre de los clientes.
 
-Para saber cómo utilizar esta función, consulte el tutorial [Barra de herramientas de televentas](/es/tutorial/usando-e-customizando-toolbar-de-televendas--tutorials_5500).
+Para saber cómo utilizar esta función, consulte el tutorial [Barra de herramientas de televentas](/es/docs/tutorials/barra-de-herramientas-de-televentas).
 
-> ℹ️ Un caso de uso de la funcionalidad de televentas es importar pedidos de otras plataformas al módulo Pedidos de Admin VTEX. Para ello, puedes asociar una [política comercial](/es/tutorial/crear-una-politica-comercial--563tbcL0TYKEKeOY4IAgAE) específica con el pago mediante [pagaré](/es/tutorial/configurar-pagos-con-pagare--5pW7avTwtyQcMu4uiW8quQ) (medio de pago aprobado de forma inmediata y manual por el propio operador).
+> ℹ️ Un caso de uso de la funcionalidad de televentas es importar pedidos de otras plataformas al módulo Pedidos de Admin VTEX. Para ello, puedes asociar una [política comercial](/es/docs/tutorials/crear-una-politica-comercial) específica con el pago mediante [pagaré](/es/docs/tutorials/configurar-pagos-con-pagare) (medio de pago aprobado de forma inmediata y manual por el propio operador).
 
 ### Mi cuenta
 
 Al navegar por la tienda a nombre del cliente a través de la barra de herramientas, el operador de televentas puede acceder a la página **Mi cuenta** para gestionar datos personales, direcciones, pedidos, tarjetas y suscripciones de forma simplificada en una sola página.
 
-Para saber más, consulte el tutorial [Cómo funciona Mi Cuenta](/es/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh).
+Para saber más, consulte el tutorial [Cómo funciona Mi Cuenta](/es/docs/tutorials/como-funciona-mi-cuenta).
 
 ### Comprar a nombre del cliente
 
@@ -70,7 +70,7 @@ Para acceder al menú Suscripciones sigue los pasos a continuación:
 - `Nueva suscripción` para crear una suscripción.
 - `Ver detalles` para editar una suscripción existente.
 
-> ℹ️ Para saber más sobre suscripciones, consulta [Cómo funciona Suscripciones](/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453).
+> ℹ️ Para saber más sobre suscripciones, consulta [Cómo funciona Suscripciones](/es/docs/tutorials/como-funciona-suscripciones).
 
 ## Carrito Compartido
 
@@ -78,9 +78,9 @@ Con el carrito compartido, el operador de televentas puede incluir los productos
 
 En este caso, el email del operador no se registra en la información del pedido.
 
-Para utilizar esta funcionalidad, la tienda debe tener la aplicación [Carrito Compartido (Social Selling)](/es/tutorial/como-ativar-o-app-carrinho-compartilhavel--1lS3fQdXpOoC0BTeVhydfg) instalada y activada.
+Para utilizar esta funcionalidad, la tienda debe tener la aplicación [Carrito Compartido (Social Selling)](/es/docs/tutorials/como-activar-la-app-carrito-compartido) instalada y activada.
 
-Consulta [Cómo activar la app Carrito Compartido (Social Selling)](/es/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN) para saber más.
+Consulta [Cómo activar la app Carrito Compartido (Social Selling)](/es/docs/tutorials/como-usar-la-app-carrito-compartido) para saber más.
 
 ## Ingresar precio manual
 
@@ -90,7 +90,7 @@ Para ello, los desarrolladores de la tienda deben habilitar la funcionalidad de 
 
 Para modificar el precio, el operador debe hacer doble clic en el precio mostrado en el carrito e ingresar cualquier otro valor. No hay restricciones en cuanto al aumento y la reducción de precios.
 
-Después de cerrar el pedido, el precio manual debe ser aprobado por el administrador de la tienda o por un usuario que tenga el permiso de [Autorización de pedidos](/es/tutorial/how-order-authorization-works--3MBK6CmKHAuUjMBieDU0pn) en el sistema. Una vez validado el precio manual ingresado, el pedido sigue el flujo de facturación.
+Después de cerrar el pedido, el precio manual debe ser aprobado por el administrador de la tienda o por un usuario que tenga el permiso de [Autorización de pedidos](/es/docs/tutorials/como-funciona-la-autorizacion-de-pedidos) en el sistema. Una vez validado el precio manual ingresado, el pedido sigue el flujo de facturación.
 
 ## Gestión de pedidos
 
@@ -100,7 +100,7 @@ Para saber más, consulta [Estructura de la página de gestión de pedidos](/es/
 
 Para entender las principales funcionalidades de la página **Todos los pedidos**, consulta:
 
-* [Cambiar ítems de un pedido finalizado](/es/tutorial/como-fazer-a-alteracao-de-itens--tutorials_190).
-* [Cómo cancelar pedido](/es/tutorial/como-cancelar-pedido--tutorials_186).
+* [Cambiar ítems de un pedido finalizado](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado).
+* [Cómo cancelar pedido](/es/docs/tutorials/como-cancelar-pedido).
 * [Cómo devolver ítems del pedido](/es/tutorial/como-fazer-a-devolucao-de-itens--tutorials_191).
-* [Verificar detalles de error en los pedidos](/es/tutorial/como-verificar-detalhes-de-erros-nos-pedidos--frequentlyAskedQuestions_6718).
+* [Verificar detalles de error en los pedidos](/es/docs/tutorials/como-verificar-detalles-de-errores-en-los-pedidos).

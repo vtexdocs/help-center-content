@@ -138,12 +138,12 @@ Debes registrar una [especificación de SKU](/es/tracks/catalogo-101--5AF0XfnjfW
 
 - **La categoría global VTEX (X) de este SKU no está configurada correctamente en la integración**
 
-  Este error se produce cuando la [categoría global](/es/tutorial/configurando-a-categoria-global--tutorials_188) seleccionada en el mapeo no existe en Amazon. Comprueba el [mapeo de categoría global](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#categoria-global) del producto para asegurarte de que la categoría seleccionada está asociada a Amazon.
+  Este error se produce cuando la [categoría global](/es/docs/tutorials/configurando-a-categoria-global) seleccionada en el mapeo no existe en Amazon. Comprueba el [mapeo de categoría global](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#categoria-global) del producto para asegurarte de que la categoría seleccionada está asociada a Amazon.
 
 ## Aviso de SKU inactivo
 
 - **El SKU que intentaste enviar está inactivo en VTEX**
 
-El [SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) no está activo en VTEX. Solo se pueden integrar SKU activos. En algunos caos, este error se genera por [colecciones](/es/tutorial/como-deletar-colecao--6C620yHzwsGoS8iaCocAM2) antiguas asociadas a la política comercial de Amazon que contiene SKU inactivos.
-Verifica el status del SKU en el Admin desde el módulo *PRODUCTOS > Catálogo > Productos y SKUs* y, de ser necesario, [activa el SKU](/es/tutorial/ativar-skus-em-massa--4uMZATlSc0kEYiewWKSwEY).
+El [SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) no está activo en VTEX. Solo se pueden integrar SKU activos. En algunos caos, este error se genera por [colecciones](/es/docs/tutorials/como-eliminar-una-coleccion) antiguas asociadas a la política comercial de Amazon que contiene SKU inactivos.
+Verifica el status del SKU en el Admin desde el módulo *PRODUCTOS > Catálogo > Productos y SKUs* y, de ser necesario, [activa el SKU](/es/docs/tutorials/activar-skus-en-massa).
 

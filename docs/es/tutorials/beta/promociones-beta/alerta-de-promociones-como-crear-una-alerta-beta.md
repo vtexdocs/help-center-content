@@ -77,5 +77,5 @@ Si activas esta opción y no seleccionas ninguna promoción, no podrás guardar 
 
 ## Más información
 
-- [Alertas de promociones](/es/tutorial/alerta-de-promocoes-beta--3vDTjwoNtaxA1PUrkpEQLW)
+- [Alertas de promociones](/es/docs/tutorials/alertas-de-promociones-beta)
 - [Cómo funcionan las promociones](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)

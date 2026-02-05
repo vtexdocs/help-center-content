@@ -126,8 +126,8 @@ En esta sección puedes definir las condiciones que deben cumplirse para que se 
 - **Precio de lista:** la promoción se aplicará considerando el valor original del producto (sin descuentos) como validación.  
 - **Número BIN de la tarjeta:** la promoción se aplicará solo cuando la tarjeta utilizada pertenezca a una red, banco o categoría identificada por un número BIN específico.  
   - Importa un archivo `TXT` o `CSV` con la lista de BINs. Debes incluir un número por fila.  
-- **Tags de marketing:** la promoción se aplicará cuando la compra se realice a través del [módulo Suscripciones de VTEX](/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453).  
-- **Afiliados:** selecciona los marketplaces o partners afiliados elegibles para la promoción. Para más información, consulta [Qué es afiliado](/es/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0).  
+- **Tags de marketing:** la promoción se aplicará cuando la compra se realice a través del [módulo Suscripciones de VTEX](/es/docs/tutorials/como-funciona-suscripciones).  
+- **Afiliados:** selecciona los marketplaces o partners afiliados elegibles para la promoción. Para más información, consulta [Qué es afiliado](/es/docs/tutorials/que-es-afiliado).  
 - **Clúster de clientes:** selecciona un clúster de clientes que ya exista en Master Data en formato `field=value` o `field contains value`. Escoge una de las siguientes opciones:  
   - **Todos los siguientes:** la promoción se aplicará solo si se cumplen todos los criterios del clúster.  
   - **Al menos uno de los siguientes:** la promoción se aplicará si se cumple al menos uno de los criterios del clúster.  
@@ -169,13 +169,13 @@ Utiliza esta sección para limitar las veces que la promoción puede usarse en l
 
 Define si la promoción puede combinarse con otras promociones o con precios ajustados manualmente. Esta configuración controla el comportamiento de la promoción cuando hay más de una promoción elegible.
 
-- **Permitir acumular con otras promociones:** permite combinar la promoción con otras que estén activas en el mismo pedido. La promoción acumula descuentos de envío y regalos de forma predeterminada. Para más información, consulta [Cómo funciona la competencia de promociones](/es/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270).  
+- **Permitir acumular con otras promociones:** permite combinar la promoción con otras que estén activas en el mismo pedido. La promoción acumula descuentos de envío y regalos de forma predeterminada. Para más información, consulta [Cómo funciona la competencia de promociones](/es/docs/tutorials/como-funciona-la-competencia-de-promociones).  
 - **Permitir acumular con precios manuales:** permite aplicar la promoción aún cuando el precio del producto se haya definido manualmente.
 
 ## Destacar promoción en los productos
 
 Utiliza esta sección para destacar la promoción visualmente en los productos mostrados en la vitrina de la tienda.
 
-- **Destacar promoción en los productos:** activa esta opción para mostrar una insignia promocional en los productos elegibles para la promoción. Para que el destaque funcione correctamente, debes [configurar la visualización en el módulo CMS de la tienda](/es/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).  
+- **Destacar promoción en los productos:** activa esta opción para mostrar una insignia promocional en los productos elegibles para la promoción. Para que el destaque funcione correctamente, debes [configurar la visualización en el módulo CMS de la tienda](/es/docs/tutorials/configurando-promocion-con-destaque-flag).  
 - **Información adicional:** haz clic en `Crear` para agregar campos personalizados con nombre y valor, que puedes utilizar para personalizar la tienda.
 

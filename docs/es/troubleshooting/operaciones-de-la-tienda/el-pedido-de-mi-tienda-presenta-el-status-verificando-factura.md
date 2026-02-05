@@ -19,12 +19,12 @@ tags:
   - Factura
 ---
 
-Al monitorear el [flujo de pedidos](/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196) de tu tienda, puedes encontrarte con un pedido que permanece con el status `Verificando factura` durante más tiempo del esperado. En este status, la plataforma comprueba si el pago se ha completado y si la factura del pedido ha sido correctamente incluida, siendo estas condiciones necesarias para que el pedido avance en el flujo.
+Al monitorear el [flujo de pedidos](/es/docs/tutorials/flujo-y-status-de-pedidos) de tu tienda, puedes encontrarte con un pedido que permanece con el status `Verificando factura` durante más tiempo del esperado. En este status, la plataforma comprueba si el pago se ha completado y si la factura del pedido ha sido correctamente incluida, siendo estas condiciones necesarias para que el pedido avance en el flujo.
 
 Cuando el pedido permanece con el status `Verificando factura`, suele ser por los siguientes motivos:
 
-* Hubo un problema con la [liquidación del pago](/es/tutorial/configurar-tempo-maximo-para-captura-automatica--7dwcaxrcgcFJUk7umqPBw2).
-* La factura no se incluyó correctamente en el pedido, o la [factura](/es/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v) se realizó solo parcialmente. 
+* Hubo un problema con la [liquidación del pago](/es/docs/tutorials/configurar-tiempo-maximo-para-la-liquidacion-automatica).
+* La factura no se incluyó correctamente en el pedido, o la [factura](/es/docs/tutorials/como-facturar-manualmente-un-pedido) se realizó solo parcialmente. 
 
 ## Solución
 
@@ -43,13 +43,13 @@ Consulta a continuación errores comunes en la facturación de pedidos y cómo r
 Sigue los pasos a continuación para facturar el pedido (total o parcialmente) o ajustar los datos de facturación vía Admin VTEX:
 
 1. En el Admin VTEX, accede a **Pedidos > Todos los pedidos** o ingresa **Todos los pedidos** en la barra de búsqueda en la parte superior de la página.
-2. Haz clic en el pedido deseado. Puedes buscarlo [utilizando los filtros](/es/tutorial/como-filtrar-pedidos--tutorials_192).
+2. Haz clic en el pedido deseado. Puedes buscarlo [utilizando los filtros](/es/docs/tutorials/filtrar-todos-los-pedidos).
 3. En la sección **Facturación pendiente**, haz clic en `Factura`.
 4. Haz clic en la opción que desees, ya sea enviar una sola factura o enviar la factura con la referencia de los ítems.
 5. Rellena los campos.
 6. Haz clic en `Guardar factura`.
 
-> ℹ️ Puedes consultar las instrucciones para el envío de facturas vía Admin VTEX en el artículo [Cómo facturar un pedido](/es/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v). Si deseas facturar el pedido vía API, utiliza el endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
+> ℹ️ Puedes consultar las instrucciones para el envío de facturas vía Admin VTEX en el artículo [Cómo facturar un pedido](/es/docs/tutorials/como-facturar-manualmente-un-pedido). Si deseas facturar el pedido vía API, utiliza el endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
 
-> ℹ️ Si es necesario realizar ajustes en el pedido, puedes [modificarlo a través del Admin VTEX](/es/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw).
+> ℹ️ Si es necesario realizar ajustes en el pedido, puedes [modificarlo a través del Admin VTEX](/es/docs/tutorials/como-modificar-pedidos).
 

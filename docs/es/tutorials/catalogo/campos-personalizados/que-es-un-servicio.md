@@ -24,5 +24,5 @@ Si su producto comprado es una Camisa de la Selección Brasileña, el nombre de 
 
 ### Artículos relacionados
 - [¿Qué es un anexo?](/es/tutorial/que-es-un-anexo)
-- [Registrar un anexo](/es/tutorial/registrar-un-anexo--7zHMUpuoQE4cAskqEUWScU)
+- [Registrar un anexo](/es/docs/tutorials/registrar-un-anexo)
 - [Crear servicio para un SKU](/es/tutorial/criando-servico-para-um-sku)

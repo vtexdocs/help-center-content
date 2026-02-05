@@ -29,7 +29,7 @@ Para implementar una estrategia de Pasillo Infinito, usted debe agregar sus tien
 
 Para hacer esto, siga los pasos en el artículo [Agregar nuevos vendedores y tiendas al VTEX Sales App](/es/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN).
 
-Un punto importante de atención al registrar una nueva tienda es la [Política Comercial](/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) aplicada a esa tienda. Ella define qué variedad de productos será válida para la tienda.
+Un punto importante de atención al registrar una nueva tienda es la [Política Comercial](/es/docs/tutorials/crear-una-politica-comercial) aplicada a esa tienda. Ella define qué variedad de productos será válida para la tienda.
 
 Si la Política Comercial principal de la tienda también se utiliza para vender en marketplaces, usted debe usar una Política Comercial diferente para VTEX Sales App. Si no lo hace, los métodos de pago `Débito Venta Directa` y `Crédito Venta Directa`, configurados para el VTEX Sales App, también se mostrarán en el proceso de pago de los marketplaces.
 

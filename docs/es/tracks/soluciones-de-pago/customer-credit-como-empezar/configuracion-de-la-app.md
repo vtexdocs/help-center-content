@@ -30,7 +30,7 @@ Para realizar la configuración inicial del Customer Credit, siga los pasos a co
 <br>
 <ul>
 <br>
-    	<li>**Habilitar emails transaccionales en el Centro de mensajes**: haga clic en **Habilitar** para instalar las plantillas de correo electrónico transaccional relacionadas con el Customer Credit en [Message Center](/es/tutorial/conhecendo-o-message-center--tutorials_84).</li>
+    	<li>**Habilitar emails transaccionales en el Centro de mensajes**: haga clic en **Habilitar** para instalar las plantillas de correo electrónico transaccional relacionadas con el Customer Credit en [Message Center](/es/docs/tutorials/como-funciona-el-message-center).</li>
     	<li>**Configurar las condiciones de pago del checkout**: haga clic en **Configurar** para permitirle definir la fecha límite y las reglas de pago de la tienda.</li>
   	<li>**Afiliación no autenticada todavía**: haga clic en **Autenticar** para ser redirigido a la pantalla de configuración donde deberás completar la información **Application Key** y **Application Token**. Esta acción permitirá que los pagos realizados a través de Customer Credit se procesen en su tienda. Obtenga más información en [Autenticación](https://developers.vtex.com/docs/guides/authentication).</li>
 </ul>
@@ -102,7 +102,7 @@ Para crear condiciones de pago para títulos de Customer Credit, siga los pasos 
 
 ![CC_Configuration_9_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/soluciones-de-pago/customer-credit-como-empezar/configuracion-de-la-app_8.JPG)
 
-<blockquote><ui>7. Si lo deseas también puedes [Configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456).</ui>
+<blockquote><ui>7. Si lo deseas también puedes [Configurar condiciones especiales de pago](/es/docs/tutorials/condiciones-especiales).</ui>
 
 <blockquote><ui>8. Clic en **Guardar**.</ui>
 

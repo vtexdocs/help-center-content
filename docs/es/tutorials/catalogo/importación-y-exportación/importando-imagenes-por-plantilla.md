@@ -88,7 +88,7 @@ La _Etiqueta__ es lo que se usa para facilitar la organización de la plantilla 
 
 > ℹ️ Este campo es obligatorio. El ID informado debe corresponderse con el ID de un SKU ya existente en el Catálogo.
 
-El ID del SKU es el código que identifica al SKU que se asociará a la imagen. Este código puede obtenerse exportando **Productos y SKU**. Para más información, consulta el artículo [Cómo exportar plantillas de productos](/es/tutorial/how-to-export-a-product-spreadsheet--2sIroGeqZqaN3NAvaSGwWV).
+El ID del SKU es el código que identifica al SKU que se asociará a la imagen. Este código puede obtenerse exportando **Productos y SKU**. Para más información, consulta el artículo [Cómo exportar plantillas de productos](/es/docs/tutorials/como-exportar-planilla-de-productos).
 
 ### CodigoReferenciaSKU
 

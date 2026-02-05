@@ -25,7 +25,7 @@ Luego, puede configurar la condición de pago de Alelo.
 
 Como toda condición de pago, la configuración de Alelo también permite incluir condiciones especiales. Sin embargo, estos criterios son opcionales y su ausencia no impide el buen funcionamiento del vale de alimentación. 
 
-Para más detalles, puede consultar el tutorial sobre [cómo configurar cada una de las condiciones especiales de pago](/es/tutorial/condicoes-especiais--tutorials_456). 
+Para más detalles, puede consultar el tutorial sobre [cómo configurar cada una de las condiciones especiales de pago](/es/docs/tutorials/condiciones-especiales). 
 
 Ahora, siga las instrucciones:
 

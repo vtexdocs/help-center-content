@@ -23,13 +23,13 @@ En este artículo, aclararemos los conceptos de adquirente, subadquirente, gatew
 
 Un gateway (también llamado gateway de pago) es un __sistema que efectúa la transmisión de los datos de las compras realizadas en su tienda en el momento del checkout__.
 
-Como primer player del flujo, es responsable de enviar la información del pago recibida en el checkout a los adquirentes, banderas y [bancos emisores](/es/tutorial/que-es-banco-emissor--7aVIVGwgtU4SWuqowSQksg) para, entonces, obtener una respuesta sobre la continuación del flujo de compra o de su cancelación. En otras palabras, el gateway envía los datos de pago y recibe respuestas para que usted sepa si una determinada compra debe o no ser confirmada, es decir, si el pago ha sido aprobado o no. 
+Como primer player del flujo, es responsable de enviar la información del pago recibida en el checkout a los adquirentes, banderas y [bancos emisores](/es/docs/tutorials/que-es-el-banco-emisor) para, entonces, obtener una respuesta sobre la continuación del flujo de compra o de su cancelación. En otras palabras, el gateway envía los datos de pago y recibe respuestas para que usted sepa si una determinada compra debe o no ser confirmada, es decir, si el pago ha sido aprobado o no. 
 
 Como agentes intermediarios entre un  e-commerce y sus medios de pago, los gateways actúan como un terminal, integrando en un solo lugar todos los movimientos realizados entre los players del flujo de pago.
 
-Activando los [conectores](/es/tutorial/que-es-el-conector--3lze0Cu0bmyC6u2o2iaeEA) y registrando [proveedores de pagos y antifraude](https://help.vtex.com/es/docs/tutorials/afiliaciones-de-gateway), los datos de las compras de sus clientes podrán ser enviados a los adquirentes u otros gateways y, así, seguir el flujo de aprobación en las instituciones financieras.
+Activando los [conectores](/es/docs/tutorials/que-es-el-conector) y registrando [proveedores de pagos y antifraude](https://help.vtex.com/es/docs/tutorials/afiliaciones-de-gateway), los datos de las compras de sus clientes podrán ser enviados a los adquirentes u otros gateways y, así, seguir el flujo de aprobación en las instituciones financieras.
 
-La plataforma VTEX tiene un gateway propio con certificación [PCI](/es/tutorial/que-es-el-pci-ssc--4jo3Vkox3amSO2w4qIWa0E), lo que significa que los datos de todos los pagos realizados en su tienda están protegidos de acuerdo con los más altos estándares de seguridad.
+La plataforma VTEX tiene un gateway propio con certificación [PCI](/es/docs/tutorials/que-es-el-pci-ssc), lo que significa que los datos de todos los pagos realizados en su tienda están protegidos de acuerdo con los más altos estándares de seguridad.
 
 ## Adquirente
 

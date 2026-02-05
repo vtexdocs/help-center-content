@@ -24,7 +24,7 @@ Si deseas configurar una [regla de merchandising](/es/tracks/vtex-intelligent-se
     * **Nombre de la regla**: nombre de la regla de _merchandising_. Ejemplo: promover el producto A cuando se busca «galletas de chocolate».
     * **Fecha de inicio (opcional)**: define la fecha a partir de la cual se aplicará la regla de _merchandising_. La fecha considera la zona horaria UTC-0.
     * **Fecha de fin (opcional)**: define la fecha en que la regla de _merchandising_ dejará de aplicarse a las búsquedas de la tienda. La fecha considera la zona horaria UTC-0.
-    * **Aplicar a los idiomas:** idiomas en los que se aplicará la regla de merchandising. Campo solo disponible para tiendas que utilizan [configuración multidioma (beta)](/es/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+    * **Aplicar a los idiomas:** idiomas en los que se aplicará la regla de merchandising. Campo solo disponible para tiendas que utilizan [configuración multidioma (beta)](/es/docs/tutorials/vtex-intelligent-search-configuracion-multidioma-beta).
 5. Haga clic en **Editor Manual**. Para más información sobre cada editor, consulte [Tipos de edición](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicion).
 6. Haz clic en `Siguiente`.
 7. Si lo necesitas, modifica la información básica ya definida sobre la nueva regla de _merchandising_ en la sección [Información general](#informacion-general).

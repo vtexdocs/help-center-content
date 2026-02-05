@@ -17,9 +17,9 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 
 > ℹ️ El **Releases**se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarlo. Esta funcionalidad es válida únicamente para las tiendas que usan [FastStore](https://www.faststore.dev/).
 
-El módulo **Releases** te permite [gestionar tus releases](/es/tutorial/planner-acciones-en-los-releases-beta--1zsomdifPEQkdV6RW93JyW) para que puedas coordinar la creación, programación y publicación de los cambios en tu tienda.
+El módulo **Releases** te permite [gestionar tus releases](/es/docs/tutorials/planner-acciones-en-releases-beta) para que puedas coordinar la creación, programación y publicación de los cambios en tu tienda.
 
-Las páginas **Releases** y [Releases](/es/v4/docs/planner-pagina-de-releases--1tQNCNwoMvxV4EoizajqJw) están en el menú de navegación del **Releases**, en el Admin VTEX. Puedes crear un nuevo release y realizar algunas [acciones de releases](/es/tutorial/planner-acciones-en-los-releases-beta--1zsomdifPEQkdV6RW93JyW) desde la página **Calendario**.
+Las páginas **Releases** y [Releases](/es/v4/docs/planner-pagina-de-releases--1tQNCNwoMvxV4EoizajqJw) están en el menú de navegación del **Releases**, en el Admin VTEX. Puedes crear un nuevo release y realizar algunas [acciones de releases](/es/docs/tutorials/planner-acciones-en-releases-beta) desde la página **Calendario**.
 
 Existen tres maneras de ver la página **Calendario**:
 
@@ -46,7 +46,7 @@ En esta pantalla, puedes:
 
 **IV - Seleccionar el tipo de vista:** para tener otra vista de la página _Calendario_, haz clic en `Semana` <i class="fas fa-angle-down"></i>.
 
-**V - Crear nuevo release:** para crear un nuevo release, haz clic en el botón `Crear release` y sigue los pasos descriptos en [Releases: acciones en los releases](/es/tutorial/planner-acciones-en-los-releases-beta--1zsomdifPEQkdV6RW93JyW).
+**V - Crear nuevo release:** para crear un nuevo release, haz clic en el botón `Crear release` y sigue los pasos descriptos en [Releases: acciones en los releases](/es/docs/tutorials/planner-acciones-en-releases-beta).
 
 ## Vista por semana
 
@@ -64,7 +64,7 @@ En esta pantalla, puedes:
 
 **IV - Seleccionar el tipo de vista:** para tener otra vista de la página Calendario, haz clic en `Mes` <i class="fas fa-angle-down"></i>.
 
-**V - Crear nuevo release:** para crear un nuevo release, haz clic en el botón `Crear release` y sigue los pasos descriptos en [Releases: acciones en los releases](/es/tutorial/planner-acciones-en-los-releases-beta--1zsomdifPEQkdV6RW93JyW).
+**V - Crear nuevo release:** para crear un nuevo release, haz clic en el botón `Crear release` y sigue los pasos descriptos en [Releases: acciones en los releases](/es/docs/tutorials/planner-acciones-en-releases-beta).
 
 ## Vista por día
 
@@ -80,12 +80,12 @@ Además de ver información sobre el release, en esta pantalla, puedes:
 
 **III - Acceder a un release:** cuando hay varios releases programados para el día seleccionado, estos aparecerán en una lista ordenados por la fecha de publicación más próxima.
 
-**IV - Crear nuevo release:** para crear un nuevo release, haz clic en el botón `Crear release` y sigue los pasos descriptos en [Releases: acciones en los releases](/es/tutorial/planner-acciones-en-releases-beta--1zsomdifPEQkdV6RW93JyW).
+**IV - Crear nuevo release:** para crear un nuevo release, haz clic en el botón `Crear release` y sigue los pasos descriptos en [Releases: acciones en los releases](/es/docs/tutorials/planner-acciones-en-releases-beta).
 
-**V - Realizar acciones en el release:** según el [status de un release](/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-los-releases), el menú de tres puntos <i class="fas fa-ellipsis-v"></i> mostrará distintas opciones de acciones. Para ver las posibles acciones, consulta [Releases: acciones en los releases](/es/tutorial/planner-acciones-en-releases-beta--1zsomdifPEQkdV6RW93JyW).
+**V - Realizar acciones en el release:** según el [status de un release](/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-los-releases), el menú de tres puntos <i class="fas fa-ellipsis-v"></i> mostrará distintas opciones de acciones. Para ver las posibles acciones, consulta [Releases: acciones en los releases](/es/docs/tutorials/planner-acciones-en-releases-beta).
 
 ## Más información
 
-* [Releases: concepto de release](/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ)
-* [Releases: acciones en los releases](/es/tutorial/planner-acciones-en-los-releases-beta--1zsomdifPEQkdV6RW93JyW)
+* [Releases: concepto de release](/es/docs/tutorials/planner-concepto-de-release-beta)
+* [Releases: acciones en los releases](/es/docs/tutorials/planner-acciones-en-releases-beta)
 * [Releases: página de Releases](/es/v4/docs/planner-pagina-de-releases--1tQNCNwoMvxV4EoizajqJw)

@@ -46,7 +46,7 @@ Sigue las instrucciones a continuación para crear una nueva clave de API:
 2. Comprueba que estás en la pestaña **Generadas**.  
 3. Haz clic en `+ Generar clave`.  
 4. Rellena el campo **Identificación de la clave** con el nombre para identificar la clave de API. Este campo es obligatorio.  
-5. Selecciona los [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) que se asociarán a la clave. De manera predeterminada, no se preselecciona ningún rol.
+5. Selecciona los [roles](/es/docs/tutorials/roles) que se asociarán a la clave. De manera predeterminada, no se preselecciona ningún rol.
 
    > ℹ️ Marca solo los roles necesarios para la integración que utilizará la clave de API. El uso sin restricciones de roles muy permisivos aumenta el riesgo de ataques en las tiendas al filtrarse las credenciales de inicio de sesión.
 
@@ -94,7 +94,7 @@ Sigue los pasos a continuación para desactivar o activar una clave de API:
 
 ## Renovar token
 
-Renovar el token de API con frecuencia es muy importante para mantener la seguridad de la tienda. Para garantizar la protección continua, renueva los tokens antes de recibir la [alerta](/es/tutorial/configurar-alerta-para-renovar-tokens-de-api) de renovación siguiendo las instrucciones en [Renovar token de API](/es/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3).
+Renovar el token de API con frecuencia es muy importante para mantener la seguridad de la tienda. Para garantizar la protección continua, renueva los tokens antes de recibir la [alerta](/es/tutorial/configurar-alerta-para-renovar-tokens-de-api) de renovación siguiendo las instrucciones en [Renovar token de API](/es/docs/tutorials/renovar-token-de-api).
 
 ## Eliminar clave
 

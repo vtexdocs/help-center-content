@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-Cada acción realizada en una aplicación se ha registrado en el módulo **Pedidos**. Para ver este registro, en la [página de detalles del pedido](/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl) haga clic en `Ver interacciones`.
+Cada acción realizada en una aplicación se ha registrado en el módulo **Pedidos**. Para ver este registro, en la [página de detalles del pedido](/es/docs/tutorials/pagina-de-detalles-del-pedido) haga clic en `Ver interacciones`.

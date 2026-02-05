@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Agregamos eventos de tarjeta de regalo a los logs de Audit.'
 ---
 
-[Audit](/es/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA) es el módulo que registra los eventos de acciones en tu tienda VTEX para propósitos de auditoría. VTEX ha optimizado Audit con tres nuevos eventos relacionados con operaciones de tarjetas de regalo.
+[Audit](/es/docs/tutorials/audit) es el módulo que registra los eventos de acciones en tu tienda VTEX para propósitos de auditoría. VTEX ha optimizado Audit con tres nuevos eventos relacionados con operaciones de tarjetas de regalo.
 
 ## ¿Qué cambió?
 
@@ -24,7 +24,7 @@ Agregamos los siguientes eventos de tarjeta de regalo en las aplicaciones de **C
 ### Catálogo (API)
 | Acción | Descripción | Detalles del evento |
 |---|---|---|
-| GiftCard Create | Creación de una [tarjeta de regalo nativa](/es/tutorial/gift-card--tutorials_995) (GiftCard System). | ID de la tarjeta de regalo creada y del usuario que realizó la acción. |
+| GiftCard Create | Creación de una [tarjeta de regalo nativa](/es/docs/tutorials/gift-card) (GiftCard System). | ID de la tarjeta de regalo creada y del usuario que realizó la acción. |
 | GiftCard List All Paged | Flujo interno para mostrar tarjetas de regalo disponibles. | ID de las tarjetas de regalo devueltas por la API y del usuario que realizó la acción. |
 
 ### Tarjeta de regalo
@@ -34,6 +34,6 @@ Agregamos los siguientes eventos de tarjeta de regalo en las aplicaciones de **C
 
 ## ¿Qué se necesita hacer?
 
-No se requiere ninguna acción. La optimización de [Audit](/es/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA) ya está disponible para todas las cuentas.
+No se requiere ninguna acción. La optimización de [Audit](/es/docs/tutorials/audit) ya está disponible para todas las cuentas.
 
-Más información en [Eventos disponíveis en Audit](/es/tutorial/eventos-disponibles-en-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
+Más información en [Eventos disponíveis en Audit](/es/docs/tutorials/eventos-disponibles-en-audit).

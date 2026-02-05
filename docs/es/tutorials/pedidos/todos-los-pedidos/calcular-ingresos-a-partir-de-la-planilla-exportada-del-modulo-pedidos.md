@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-La pantalla inicial del módulo **Pedidos** muestra los ingresos totales obtenidos por su tienda de acuerdo con los criterios definidos en los [filtros](/es/tutorial/filtrar-todos-pedidos--tutorials_192) de búsqueda.
+La pantalla inicial del módulo **Pedidos** muestra los ingresos totales obtenidos por su tienda de acuerdo con los criterios definidos en los [filtros](/es/docs/tutorials/filtrar-todos-los-pedidos) de búsqueda.
 
 Sin embargo, es posible que desee calcular los ingresos en un período determinado a partir de la planilla de pedidos exportada de Gestión de pedidos.
 
@@ -24,11 +24,11 @@ Esto es porque, como en esta planilla se enumeran decenas de atributos de los pe
 Para calcular los ingresos totales de la planilla, sigue los pasos a continuación:
 
 1. En el Admin VTEX, accede a **Pedidos > Todos los pedidos**, o escribe **Todos los pedidos** en la barra de búsqueda en la parte superior de la página.
-2. [Exporte la planilla de pedidos](/es/tutorial/exportacao-de-pedidos-no-modulo-pedidos--tutorials_6417), eligiendo en los filtros de búsqueda el intervalo de tiempo deseado.
+2. [Exporte la planilla de pedidos](/es/docs/tutorials/exportacion-de-pedidos-en-el-modulo-pedidos), eligiendo en los filtros de búsqueda el intervalo de tiempo deseado.
 3. Abra su email y descargue el enlace dentro de las 72 horas, que es la fecha de vencimiento del enlace.
 4. Quite todos los valores duplicados de la segunda columna (__Order__). Esto debe hacerse porque, en los casos de compras de más de un SKU, se generan varias líneas para el mismo pedido - una para cada SKU.
 5. Agregue los valores de la columna __Total Value__. En esta columna queda el valor total del pedido (es decir, ya considerando todos los SKUs del carrito).
 
 > ℹ️ La suma de los valores de la columna Total Value (después de la eliminación de los pedidos duplicados) es el ingreso total obtenido con los pedidos seleccionados en la planilla.
 
-Para entender todas las columnas de la planilla, vea el artículo [Informe de pedidos](/es/tutorial/planilha-de-pedidos--31m1ewsmsEe0WS4So2aGMY).
+Para entender todas las columnas de la planilla, vea el artículo [Informe de pedidos](/es/docs/tutorials/informe-de-pedidos).

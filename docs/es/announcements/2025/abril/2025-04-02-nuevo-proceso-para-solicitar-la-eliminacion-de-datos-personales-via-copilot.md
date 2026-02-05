@@ -31,5 +31,5 @@ Solo los retailers autorizados podrán solicitar la eliminación de datos de cli
 
 Luego, asigna este rol al retailer que será responsable de la solicitud de eliminación de datos de clientes.
 
-Más detalles estarán disponibles en la documentación actualizada [Eliminación de los datos de clientes](/es/tutorial/erasing-customer-data--1R9Fn7A06Ifj4R9YD4JTKU) el 9 de abril.
+Más detalles estarán disponibles en la documentación actualizada [Eliminación de los datos de clientes](/es/docs/tutorials/eliminacion-de-los-datos-de-clientes) el 9 de abril.
 

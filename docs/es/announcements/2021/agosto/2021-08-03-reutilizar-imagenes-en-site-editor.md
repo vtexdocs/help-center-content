@@ -39,5 +39,5 @@ El objetivo de la mejora es ayudar a los clientes de VTEX a gestionar sus imáge
 
 No se requiere ninguna acción. Ahora, los bloques con la opción nativa de subir imágenes tienen Image Widget.
 
-Para obtener más información, consulte nuestra [documentación de Image Widget](/es/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov).
+Para obtener más información, consulte nuestra [documentación de Image Widget](/es/docs/tutorials/image-widget).
 

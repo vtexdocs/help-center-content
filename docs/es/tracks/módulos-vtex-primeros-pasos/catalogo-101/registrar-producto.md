@@ -27,7 +27,7 @@ Hay diferentes formas de registrar un producto:
 
 ## Admin VTEX
 
-Para saber cómo registrar un nuevo producto al catálogo de la tienda, consulta el artículo [Agregar o editar productos](/es/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8).
+Para saber cómo registrar un nuevo producto al catálogo de la tienda, consulta el artículo [Agregar o editar productos](/es/docs/tutorials/agregar-o-editar-productos).
 
 ## Plantilla
 

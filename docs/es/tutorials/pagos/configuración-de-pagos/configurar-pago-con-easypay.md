@@ -25,7 +25,7 @@ Para utilizar easypay, debes:
 - [Configurar la afiliación de easypay](#configurar-la-afiliacion-de-easypay)
 - [Configurar el pago con Apple Pay en easypay (opcional)](#configurar-el-pago-con-apple-pay-en-easypay-opcional)    
 
-> ⚠️ Si eres marketplace o seller, consulta los artículos [Configurar pago con easypay en marketplace](/es/tutorial/configurar-pago-con-easypay-marketplace--3YllWiITcPEOpteuToEdO7) o [Configurar pago con easypay seller account](/es/tutorial/configurar-pago-con-easypay-seller--5mYMCM1tiRiZO6PozuUncE).
+> ⚠️ Si eres marketplace o seller, consulta los artículos [Configurar pago con easypay en marketplace](/es/docs/tutorials/configurar-pago-con-easypay-marketplace) o [Configurar pago con easypay seller account](/es/docs/tutorials/configurar-pago-con-easypay-seller).
 
 ## Instalar la aplicación easypay
 
@@ -82,7 +82,7 @@ __Merchant account UID__: identificación de la cuenta del comerciante en la que
 
 __Margin account UID__: identificación de la cuenta de margen.
 
-> ℹ️ Este campo solo debe rellenarse cuando la tienda es un marketplace y realiza split de pagos. Para más información, consulta el artículo [Configurar pago con easypay en marketplaces](/es/tutorial/configurar-pago-con-easypay-marketplace--3YllWiITcPEOpteuToEdO7).
+> ℹ️ Este campo solo debe rellenarse cuando la tienda es un marketplace y realiza split de pagos. Para más información, consulta el artículo [Configurar pago con easypay en marketplaces](/es/docs/tutorials/configurar-pago-con-easypay-marketplace).
 
 __Refund account ID e Refund account key__: si no existe una cuenta específica para reembolso, el valor de __Key ID__ deberá rellenarse en el campo __Refund account ID__, y el valor de __Key value__ en __Refund account key__.
 
@@ -196,7 +196,7 @@ Para configurar la afiliación easypay, sigue los pasos a continuación:
 4. Rellena los campos __Clave de aplicación__ y __Token de aplicación__ con los datos de tu cuenta easypay.
 5. Si desea modificar el nombre de identificación que se mostrará para el proveedor easypay en la pantalla VTEX Admin, ingrese la información en el campo __Nombre__ en __Información general__.
 6. En __Control de pago__, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en __Activar modo de prueba__.
-7. Si desea utilizar [Split de pagos](/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx) en su tienda, seleccione la opción __Activar split de cobros y enviar destinatarios de pago__ e indique el __Responsable de cargos de procesamiento de pagos__ y el __Responsable de contracargos__ (marketplace, sellers o marketplace y sellers).
+7. Si desea utilizar [Split de pagos](/es/docs/tutorials/split-de-pagos) en su tienda, seleccione la opción __Activar split de cobros y enviar destinatarios de pago__ e indique el __Responsable de cargos de procesamiento de pagos__ y el __Responsable de contracargos__ (marketplace, sellers o marketplace y sellers).
 8. Haz clic en `Guardar`.
 
 ## Configurar el pago con Apple Pay en easypay (opcional) 
@@ -205,7 +205,7 @@ Para procesar pagos con Apple Pay en easypay, primero debes realizar configuraci
 
 Para configurar otros medios de pago que easypay procesará, accede a [Configurar condiciones de pago](/es/tutorial/condiciones-de-pago).
 
-Para establecer condiciones especiales en los medios de pago, accede a [Configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456).
+Para establecer condiciones especiales en los medios de pago, accede a [Configurar condiciones especiales de pago](/es/docs/tutorials/condiciones-especiales).
 
 as seguir los pasos indicados, el conector easypay puede demorar hasta 10 minutos en aparecer en el checkout de tu tienda como medio de pago.
 

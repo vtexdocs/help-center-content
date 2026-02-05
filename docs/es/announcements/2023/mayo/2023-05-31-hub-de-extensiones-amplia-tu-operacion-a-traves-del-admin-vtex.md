@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'La nueva sección del Admin VTEX para encontrar partners, agregar funcionalidades y gestionar extensiones'
 ---
 
-El Hub de extensiones es la nueva sección del Admin VTEX que reúne a desarrolladores, partners y administradores de las tiendas que desean ampliar las funcionalidades de su operación. A través del Hub de extensiones los partners pueden publicar sus extensiones y los administradores de las tiendas pueden verlas, comprarlas, instalarlas y gestionarlas. El Hub de extensiones estará disponible globalmente en todas las tiendas VTEX durante el tercer trimestre de 2023. Si deseas habilitar el Hub de extensiones en tu tienda de forma inmediata, puedes hacer la solicitud [abriendo un ticket con soporte](/es/tutorial/abrir-tickets-para-el-soporte-vtex--16yOEqpO32UQYygSmMSSAM).
+El Hub de extensiones es la nueva sección del Admin VTEX que reúne a desarrolladores, partners y administradores de las tiendas que desean ampliar las funcionalidades de su operación. A través del Hub de extensiones los partners pueden publicar sus extensiones y los administradores de las tiendas pueden verlas, comprarlas, instalarlas y gestionarlas. El Hub de extensiones estará disponible globalmente en todas las tiendas VTEX durante el tercer trimestre de 2023. Si deseas habilitar el Hub de extensiones en tu tienda de forma inmediata, puedes hacer la solicitud [abriendo un ticket con soporte](/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex).
 
 ![Extensions Hub GIF](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/mayo/2023-05-31-hub-de-extensiones-amplia-tu-operacion-a-traves-del-admin-vtex_1.gif)
 
@@ -29,7 +29,7 @@ El Hub de extensiones es una nueva sección del Admin VTEX donde agrupamos tres 
 
 Con el Hub de extensiones, toda la experiencia de navegación y compra de aplicaciones ocurre dentro del Admin VTEX, sin ningún tipo de fricciones. Puedes encontrar, comprar e instalar aplicaciones en unos pocos clics sin salir del Admin VTEX.
 
-Los precios en la **App Store** se mostrarán en dólares estadounidenses (USD), a menos que tu tienda esté en Brasil, en cuyo caso los precios serán en reales (BRL). Los pagos por compra, suscripción y uso de la aplicación se procesan automáticamente y los importes correspondientes se añaden a tu [factura VTEX](/es/tutorial/vision-general-facturacion--6UxfCl4fw4GmyQwoUuIcQs) en tu moneda local, eliminando la necesidad de pago con tarjeta de crédito. Si tu operación no está ubicada en Brasil y tu factura está en una moneda distinta de USD, convertiremos el importe en USD a tu moneda local.
+Los precios en la **App Store** se mostrarán en dólares estadounidenses (USD), a menos que tu tienda esté en Brasil, en cuyo caso los precios serán en reales (BRL). Los pagos por compra, suscripción y uso de la aplicación se procesan automáticamente y los importes correspondientes se añaden a tu [factura VTEX](/es/docs/tutorials/vision-general-facturacion) en tu moneda local, eliminando la necesidad de pago con tarjeta de crédito. Si tu operación no está ubicada en Brasil y tu factura está en una moneda distinta de USD, convertiremos el importe en USD a tu moneda local.
 
 > ℹ️ El [sitio web de la App Store](http://apps.vtex.com/) seguirá existiendo, pero solo para la visualización de aplicaciones de forma pública. Ya no será posible comprar aplicaciones a través del sitio web, dado que las compras solo pueden realizarse en el Admin VTEX.
 
@@ -45,7 +45,7 @@ El [sitio web Partner portal](https://vtex.com/es-mx/partners//) continuará exi
 
 ## ¿Qué se necesita hacer?
 
-El Hub de extensiones estará disponible para todas las tiendas a partir del tercer trimestre de 2023. Si deseas habilitar el Hub de extensiones en tu tienda de forma inmediata, puedes realizar la solicitud [abriendo un ticket a nuestro equipo de soporte](/es/tutorial/abrir-tickets-para-el-soporte-vtex--16yOEqpO32UQYygSmMSSAM). A continuación, para empezar a utilizar el Hub de extensiones, solo tendrás que acceder a través del Admin de tu tienda. En el panel lateral izquierdo del Admin VTEX, haz clic en el ícono **Extensiones** y el Hub de extensiones estará visible en la parte superior del menú.
+El Hub de extensiones estará disponible para todas las tiendas a partir del tercer trimestre de 2023. Si deseas habilitar el Hub de extensiones en tu tienda de forma inmediata, puedes realizar la solicitud [abriendo un ticket a nuestro equipo de soporte](/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex). A continuación, para empezar a utilizar el Hub de extensiones, solo tendrás que acceder a través del Admin de tu tienda. En el panel lateral izquierdo del Admin VTEX, haz clic en el ícono **Extensiones** y el Hub de extensiones estará visible en la parte superior del menú.
 
 ![Extensions Hub panel](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/mayo/2023-05-31-hub-de-extensiones-amplia-tu-operacion-a-traves-del-admin-vtex_2.png)
 

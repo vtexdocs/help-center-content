@@ -19,15 +19,15 @@ Hay situaciones en las que los clientes pueden solicitar la cancelación de un p
 
 > ❗ Después que se cancela el pedido, no se le puede cambiar el status.
 
-> ⚠️ No es posible [cancelar](/es/tutorial/como-cancelar-pedido--tutorials_186) pedidos [parcialmente facturados](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
+> ⚠️ No es posible [cancelar](/es/docs/tutorials/como-cancelar-pedido) pedidos [parcialmente facturados](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado).
 
 ## Cancelación en la ventana de cancelación
 
-Cuando el cliente solicita la cancelación durante la [ventana de cancelación](/es/tutorial/configurar-el-tiempo-de-espera-para-cancelar-el-pedido--jYFdnPDtNm4WCEkYWqqC), el pedido se cancela automáticamente sin necesidad de autorización de la tienda. Hasta ese momento, según el [flujo del pedido](/es/tutorial/flujo-de-pedido-en-el-oms--tutorials_196), el administrador de la tienda aún no ha realizado ninguna acción sobre ese pedido.
+Cuando el cliente solicita la cancelación durante la [ventana de cancelación](/es/docs/tutorials/configurar-el-tiempo-de-espera-para-cancelar-el-pedido), el pedido se cancela automáticamente sin necesidad de autorización de la tienda. Hasta ese momento, según el [flujo del pedido](/es/docs/tutorials/flujo-y-status-de-pedidos), el administrador de la tienda aún no ha realizado ninguna acción sobre ese pedido.
 
 * Esta acción la realiza el cliente en __Mis pedidos__, al hacer clic en `Solicitar cancelación del pedido`.
 
-> ℹ️ Cuando el cliente solicita la cancelación del pedido durante la ventana de cancelación, la notificación de esta acción se envía únicamente al usuario con [perfil de acceso](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) de Titular de la cuenta (usuario master).
+> ℹ️ Cuando el cliente solicita la cancelación del pedido durante la ventana de cancelación, la notificación de esta acción se envía únicamente al usuario con [perfil de acceso](/es/docs/tutorials/roles) de Titular de la cuenta (usuario master).
 
 ## Cancelación aprobada por el administrador de la tienda
 
@@ -38,7 +38,7 @@ Este es el caso cuando el cliente solicita la cancelación fuera de la ventana d
 
 El administrador de la tienda debe aprobar o denegar la cancelación. Si el administrador de la tienda no aprueba la cancelación, recomendamos informar al cliente que no se puede cancelar el pedido.
 
-Incluso si el cancelamiento solicitado por el cliente es negado por el administrador de la tienda utilizando [VTEX DO](/es/tutorial/vtex-do--7KMbRL4OslN8DTX9oiuCiu), es necesario que el administrador proceda con la [facturación](/es/tutorial/faturar-um-pedido--7p1h852V5t54KyscpgxE2v) del pedido, ya que esto es lo que hace que el pedido siga su curso.
+Incluso si el cancelamiento solicitado por el cliente es negado por el administrador de la tienda utilizando [VTEX DO](/es/docs/tutorials/vtex-do-interface), es necesario que el administrador proceda con la [facturación](/es/docs/tutorials/como-facturar-manualmente-un-pedido) del pedido, ya que esto es lo que hace que el pedido siga su curso.
 
 > ⚠️ Si la funcionalidad [Cambio de pedido](/es/tutorial/cambio-de-pedido--2IK9mwQjBKseQmE8K8saO8#como-activar-la-funcionalidad) está activada, los pedidos pueden ser modificados o cancelados en cualquier momento, incluso después de la ventana de cancelación.
 
@@ -60,5 +60,5 @@ Para cambiar las opciones, siga los pasos a continuación:
 - [¿Por qué un pedido fue cancelado?](/es/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493)
 - [Configurar el tiempo de espera para cancelar el pedido](/es/tutorial/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido)
 - [¿Por qué el pedido fue cancelado en VTEX y no en el marketplace?](/es/faq/por-que-el-pedido-fue-cancelado-en-la-vtex-e-no-en-el-marketplace--frequentlyAskedQuestions_678)
-- [Cambio de pedido](/es/tutorial/substituicao-de-pedidos--2IK9mwQjBKseQmE8K8saO8)
+- [Cambio de pedido](/es/docs/tutorials/cambio-de-pedido)
 

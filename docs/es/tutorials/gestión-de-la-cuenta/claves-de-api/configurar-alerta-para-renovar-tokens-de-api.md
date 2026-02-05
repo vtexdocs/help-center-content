@@ -33,7 +33,7 @@ La alerta de renovación se muestra a los 3 meses de forma predeterminada, a men
 
 La periodicidad de la alerta se aplicará a todas las claves, tanto nuevas como existentes, tomando la fecha de creación de cada clave como referencia para calcular su plazo de validez.
 
-> ℹ️ El token no vence después del plazo definido. La configuración solamente determina cuándo la interfaz recomendará la renovación sin desactivar la utilización del token. La alerta es un recordatorio para [renovar el token manualmente](/es/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3).
+> ℹ️ El token no vence después del plazo definido. La configuración solamente determina cuándo la interfaz recomendará la renovación sin desactivar la utilización del token. La alerta es un recordatorio para [renovar el token manualmente](/es/docs/tutorials/renovar-token-de-api).
 
 ## Visibilidad de la alerta
 
@@ -47,10 +47,10 @@ La alerta naranja indica que el token superó el plazo de uso recomendado por un
 
 La alerta roja indica que el plazo de uso recomendado se superó hace 3 meses o más.
 
-Cuando veas una clave con alerta, [renueva el token](/es/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3) tan pronto como sea posible. Después de renovarlo, la alerta se mostrará nuevamente una vez que haya pasado el periodo seleccionado (3 o 6 meses) desde la fecha de renovación más reciente.
+Cuando veas una clave con alerta, [renueva el token](/es/docs/tutorials/renovar-token-de-api) tan pronto como sea posible. Después de renovarlo, la alerta se mostrará nuevamente una vez que haya pasado el periodo seleccionado (3 o 6 meses) desde la fecha de renovación más reciente.
 
 ## Más información
 
-* [Claves de API](/es/tutorial/claves-de-api--4bFEmcHXgpNksoePchZyy6)
-* [Claves generadas](/es/tutorial/claves-generadas--7fnU4iZdvZKbxCaT3Ymdjc)
-* [Renovar token de API](/es/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3)
+* [Claves de API](/es/docs/tutorials/claves-de-api)
+* [Claves generadas](/es/docs/tutorials/claves-generadas)
+* [Renovar token de API](/es/docs/tutorials/renovar-token-de-api)

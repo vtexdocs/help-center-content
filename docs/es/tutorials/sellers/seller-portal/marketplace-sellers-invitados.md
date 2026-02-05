@@ -41,8 +41,8 @@ La invitación se realiza mediante un enlace enviado al seller por email que con
 5. Seleccione el tipo de seller entre las opciones `Común` y `Whitelabel`.    
 6. Si desea que el seller importe sus productos y árbol de categorías, active el botón **Compartir catálogo del marketplace**.     
 7.  Si ha activado el botón en el paso anterior, determine cómo compartirá su catálogo con el seller:
-    - **Canal de ventas:** definiendo una [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) asociada a los productos y árbol de categorías que quieras compartir con el seller.
-    - **Colección:** definiendo una [colección](/es/tutorial/tipos-de-colecao--5tKnhh8tMGIrVL7Fqirq7n) con los productos y el árbol de categorías para compartir con el seller. 
+    - **Canal de ventas:** definiendo una [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) asociada a los productos y árbol de categorías que quieras compartir con el seller.
+    - **Colección:** definiendo una [colección](/es/docs/tutorials/tipos-de-coleccion) con los productos y el árbol de categorías para compartir con el seller. 
 8. Haga clic en `Enviar invitación`.   
 
 El seller recibirá por email una invitación para vender en su marketplace. 

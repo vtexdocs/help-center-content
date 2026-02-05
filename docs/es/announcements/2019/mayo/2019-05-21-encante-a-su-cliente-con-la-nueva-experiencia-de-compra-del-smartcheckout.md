@@ -55,4 +55,4 @@ Además, el Checkout v6 también cuenta con un **simulador de flete** en la  eta
 
 <br>
 
-Para saber más, acceda a nuestro artículo sobre cómo [activar el Checkout v6](/es/tutorial/activar-el-checkout-v6--7qVqv3ptRvpVVplrvg8ruH) en su tienda.
+Para saber más, acceda a nuestro artículo sobre cómo [activar el Checkout v6](/es/docs/tutorials/activar-el-checkout-v6) en su tienda.

@@ -90,7 +90,7 @@ Los siguientes pasos describen las configuraciones mínimas a realizar para que 
 4. En **Procesar con proveedor**, seleccione el conector previamente configurado.
 5. Active la condición en el campo **Status**.
 6. Si desea utilizar un sistema antifraude, seleccione la opción **Utilizar antifraude**.
-7. Si desea, puede [configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456).
+7. Si desea, puede [configurar condiciones especiales de pago](/es/docs/tutorials/condiciones-especiales).
 8. Haga clic en `Guardar`.
 
 Tras seguir los pasos indicados, el proveedor Cielo puede tardar hasta 10 minutos para aparecer como opción de pago en la **VTEX Sales App** de su tienda.

@@ -16,7 +16,7 @@ subcategoryId: 31ICVopiWZfSTdr9jZMShb
 order: 1
 ---
 
-**Facturación** es la página en la que gestionas todos los aspectos financieros de tu cuenta VTEX. Solo está disponible para usuarios con un [rol Financiero](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). Para ver, editar o realizar cualquier acción en esta página, solicita permiso al propietario de la tienda. 
+**Facturación** es la página en la que gestionas todos los aspectos financieros de tu cuenta VTEX. Solo está disponible para usuarios con un [rol Financiero](/es/docs/tutorials/roles). Para ver, editar o realizar cualquier acción en esta página, solicita permiso al propietario de la tienda. 
 
 Para acceder a esta sección, haz clic en tu **avatar de perfil**, que se puede identificar por la primera letra de tu dirección de email, y luego haz clic en **Facturación**. Selecciona la pestaña que deseas visitar, como **Contratos, Facturas, Datos de registro y Contactos de facturación**.
 

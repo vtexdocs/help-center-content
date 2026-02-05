@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ **Atención:** existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a [la configuración de colecciones mediante el CMS](/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L).
+> ⚠️ **Atención:** existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a [la configuración de colecciones mediante el CMS](/es/docs/tutorials/registrar-una-coleccion-cms).
 
 En la página __Storefront__ > __Layout__, se establece un layout estándar para todas las páginas del mismo tipo incluidas en cada carpeta de un website, ejemplo: _producto_.
 
@@ -40,7 +40,7 @@ Es posible limitar la disponibilidad del template a un período de tiempo predet
 
 Después de llenar todos los campos, asegúrese de guardar los cambios realizados haciendo clic en __Save Layout__.
 
-Tenga en cuenta que estos criterios se basan en [el contexto de búsqueda](/es/tutorial/--q0p2UU6sBaYcEMsq24YSi) de la página en el que se encuentra el usuario, que está directamente vinculado a los [parámetros de búsqueda](/es/tutorial/--tutorials_567), pero que no son necesariamente establecidos manualmente por el administrador de la tienda; toda la página encaja automáticamente en un contexto de contenido.
+Tenga en cuenta que estos criterios se basan en [el contexto de búsqueda](/es/docs/tutorials/como-crear-landing-pages-con-urls-personalizadas) de la página en el que se encuentra el usuario, que está directamente vinculado a los [parámetros de búsqueda](/es/tutorial/--tutorials_567), pero que no son necesariamente establecidos manualmente por el administrador de la tienda; toda la página encaja automáticamente en un contexto de contenido.
 
 Sucede que las condiciones ofrecidas no están presentes en ninguna página:
 

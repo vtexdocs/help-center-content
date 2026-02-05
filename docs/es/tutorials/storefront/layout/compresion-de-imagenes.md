@@ -54,8 +54,8 @@ VTEX entrega al cliente la imagen que tenga el tamaño de archivo más pequeño 
 
 ## Artículos relacionados
 
-* [Buenas prácticas para el uso de imágenes en el Catálogo](/es/tutorial/boas-praticas-para-o-uso-de-imagens-no-catalogo--738K2yfq5U86kUI2k4AQIk)
+* [Buenas prácticas para el uso de imágenes en el Catálogo](/es/docs/tutorials/buenas-practicas-para-el-uso-de-imagenes-en-el-catalogo)
 * [Añadir imagen a la descripción del producto](/es/tutorial/adicionar-imagem-a-descricao-do-produto--2hQGTAAiyUSoISGSyOK8Y4)
-* [Importar imágenes por plantilla](/es/tutorial/importando-imagens-por-planilha--tutorials_262)
-* [¿Cómo actualizar la imagen de un SKU?](/es/tutorial/como-atualizar-a-imagem-de-um-sku--5PMb54FnvUuWOq2qGyAosu)
-* [Reutilización de imágenes con Image Widget](/es/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov)
+* [Importar imágenes por plantilla](/es/docs/tutorials/importando-imagenes-por-plantilla)
+* [¿Cómo actualizar la imagen de un SKU?](/es/docs/tutorials/como-actualizar-la-imagen-de-un-sku)
+* [Reutilización de imágenes con Image Widget](/es/docs/tutorials/image-widget)

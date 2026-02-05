@@ -35,7 +35,7 @@ Para configurar MercadoPagoV2 sigue los pasos a continuación:
 14. En __Modo binario__, indicar si la tienda debe aceptar pagos pendientes. Seleccionar "Sí" indica que el proceso de aprobación del pago se produce instantáneamente y puede aprobarse o rechazarse. Seleccionar "No" define que el pago puede permanecer en estado "pendiente" (si requiere alguna acción por parte del comprador) o "en proceso" (si se requiere revisión manual).
 15. En __Métodos de pago excluidos__, describe los métodos de pago que no deseas utilizar a través de MercadoPagoV2 (opcional). Si opta por dejar este campo en blanco, todos los métodos de pago disponibles de MercadoPagoV2 estarán disponibles en su tienda.
 16. En __Tipos de pago excluidos__,  describe las banderas específicas de crédito y débito (Visa, Mastercard, etc) que no deseas utilizar a través de MercadoPagoV2 (opcional). Si opta por dejar este campo en blanco, todos los tipos de pago disponibles de MercadoPagoV2 estarán disponibles en su tienda.
-17. En __Modo de procesamiento__, escoja cómo quiere usar MercadoPagoV2: como subadquirente o gateway. Para más información, visite [¿Qué es un subadquirente?](/es/tutorial/que-es-un-subadquirente--64aX6PeRQQ66O8uCqo0W4q) y [¿Qué es un gateway de pagos?](/es/tutorial/que-es-un-gateway-de-pagos--2KH9Wdi7F6swOU4amECSOk). 
+17. En __Modo de procesamiento__, escoja cómo quiere usar MercadoPagoV2: como subadquirente o gateway. Para más información, visite [¿Qué es un subadquirente?](/es/docs/tutorials/que-es-un-subadquirente) y [¿Qué es un gateway de pagos?](/es/docs/tutorials/que-es-un-gateway-de-pagos). 
 18. En la opción __Integrator ID__, indique el código identificador del desarrollador o agencia que realiza la configuración de Mercado Pago.
 19. En la opción __Moneda__, elija si la moneda utilizada para el pago será "Local" (cada país) o "Dólar estadounidense" (USD).
 20. El campo __Merchant Account ID__ identifica la cuenta del merchant. No es necesario llenarlo.
@@ -45,9 +45,9 @@ Para configurar MercadoPagoV2 sigue los pasos a continuación:
 
 ## Configurar condiciones de pago
 
-Para configurar los métodos de pago predeterminados a procesar por MercadoPagoV2, acceda a [Configurar condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455).
+Para configurar los métodos de pago predeterminados a procesar por MercadoPagoV2, acceda a [Configurar condiciones de Pago](/es/docs/tutorials/condiciones-de-pago).
 
-Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/docs/tutorials/condiciones-especiales).
 
 ## Configurar métodos de pago únicos
 

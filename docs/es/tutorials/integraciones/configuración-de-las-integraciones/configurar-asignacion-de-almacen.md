@@ -21,7 +21,7 @@ La funcionalidad **Asignación de almacén** permite sincronizar los diferentes 
 
 Para utilizar la funcionalidad **Asignación de almacén** la cuenta VTEX debe cumplir con los siguientes tres requisitos:  
 
-- La [asignación de almacén](/es/tutorial/alocacao-de-estoque-no-mercado-livre--6BfmmAFctWbi7hxJlxCU1S) debe estar activa.  
+- La [asignación de almacén](/es/docs/tutorials/asignacion-de-almacen-en-mercado-libre) debe estar activa.  
 - Debe operar con el nuevo modelo de [registro de producto](/es/announcements/2025-06-30-nuevo-modelo-de-anuncios-en-mercado-libre) y contar con al menos un anuncio registrado en este nuevo modelo.  
 - Los almacenes deben estar activos en el módulo Estrategias de envío de VTEX.  
 
@@ -44,7 +44,7 @@ Estas opciones pueden utilizarse en conjunto para refinar aún más la búsqueda
 
 La tabla de almacenes se compone de las columnas, **Almacén VTEX, Tipo, Status** y **Almacén de Mercado Libre.**
 
-- **Almacén VTEX** en esta columna figuran todos los almacenes activos en el módulo de [Estrategia de envío](/es/tutorial/gerenciar-estoque--tutorials_137).  
+- **Almacén VTEX** en esta columna figuran todos los almacenes activos en el módulo de [Estrategia de envío](/es/docs/tutorials/gestionar-almacenes).  
 - **Tipo**  
 - **Status** muestra si un almacén VTEX está asignado a uno de Mercado Libre o si está pendiente.  
 - **Almacén de Mercado Libre** muestra el botón `Asignar` si un almacén VTEX presenta el status **Pendiente** y si el status es **Asignado,** muestra el nombre y el ID del almacén de Mercado Libre.  
@@ -114,8 +114,8 @@ Al seleccionar esta opción, se te redirigirá a la pantalla de configuración d
 
 1. Selecciona el almacén deseado.  
 2. En el menú de acciones <i class="ph ph-dots-three-vertical"></i>, haz clic en Gestionar almacén VTEX.  
-3. Se te redirigirá al registro del almacén correspondiente en el [módulo Envío](/es/tutorial/logistica--53udnvI5eBy8DKo8FOjMoP).  
-4. Realiza los cambios deseados siguiendo el tutorial [Gestionar almacenes](/es/tutorial/gerenciar-estoque--tutorials_137).  
+3. Se te redirigirá al registro del almacén correspondiente en el [módulo Envío](/es/docs/tutorials/fulfillment-logistica-vtex).  
+4. Realiza los cambios deseados siguiendo el tutorial [Gestionar almacenes](/es/docs/tutorials/gestionar-almacenes).  
 
 ### Desasignar almacén
 

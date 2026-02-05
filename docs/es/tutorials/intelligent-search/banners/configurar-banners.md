@@ -50,7 +50,7 @@ Para registrar el banner, debes rellenar los siguientes campos:
 * **Hora de inicio:** hora en la que el banner comenzará a estar disponible.
 * **Fecha de fin:** fecha en la que el banner dejará de estar disponible. Esto permite al administrador programar futuras campañas, lo que facilita su control.
 * **Hora de fin:** hora en la que el banner dejará de estar disponible.
-* **Idiomas:** idiomas en los que se aplicará el banner. Campo solo disponible para tiendas que utilizan [configuración multidioma (beta)](/es/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+* **Idiomas:** idiomas en los que se aplicará el banner. Campo solo disponible para tiendas que utilizan [configuración multidioma (beta)](/es/docs/tutorials/vtex-intelligent-search-configuracion-multidioma-beta).
 
 ### Reglas de activación
 

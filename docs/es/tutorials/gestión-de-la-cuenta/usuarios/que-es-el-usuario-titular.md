@@ -25,8 +25,8 @@ La página de gestión del titular le permite identificar al usuario titular act
 
 Solo el usuario titular puede realizar estas acciones críticas de mantenimiento y autorización:
 
-* [Transferir la propiedad de la tienda](/es/tutorial/transferir-la-propiedad-de-la-tienda--7a7fRn7Em47DcP272RwUYG) a un nuevo usuario titular
-* Operaciones de [mantenimiento de la base de datos (full cleanup)](/es/tutorial/database-maintenance-full-cleanup--34P9LGs7BCIQK6acQom802) tales como:
+* [Transferir la propiedad de la tienda](/es/docs/tutorials/transferir-la-propiedad-de-la-tienda) a un nuevo usuario titular
+* Operaciones de [mantenimiento de la base de datos (full cleanup)](/es/docs/tutorials/mantenimiento-de-base-de-datos-full-cleanup) tales como:
     * Volver a registrar los precios en SmartCheckout
     * Eliminar productos del indexador
     * Eliminar productos/SKU e ítems relacionados
@@ -37,7 +37,7 @@ Solo el usuario titular puede realizar estas acciones críticas de mantenimiento
     * [Facebook](/es/tracks/facebook-integration--7h8KvIC4DbRRc8VlyJ8PFc/5OP69kHWKca01wLH0w10jX)
     * [Google Shopping](/es/tracks/integrating-with-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/44hAYlKYSRZMTNY3ELxeQ2)
     * [Mercado Libre](/es/tracks/mercado-libre-integration-set-up--2YfvI3Jxe0CGIKoWIGQEIq/4leBEAd22Icm46kGeiGgak)
-* [Aprobar solicitudes de cancelación de pedidos](/es/tutorial/how-does-cancellation-work-when-requested-by-the-customer--3wEI6DUNtecooG2Ki4Akqo)
+* [Aprobar solicitudes de cancelación de pedidos](/es/docs/tutorials/cancelacion-de-pedido-solicitada-por-el-cliente)
 
 Además, cuando VTEX necesita comunicar información importante sobre la tienda, como cambios de roles, dicha comunicación se lleva a cabo directa y exclusivamente con el usuario titular.
 

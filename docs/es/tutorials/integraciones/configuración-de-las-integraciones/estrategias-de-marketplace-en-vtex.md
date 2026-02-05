@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-Un marketplace es una plataforma virtual en la que diferentes vendedores anuncian sus productos. Estos vendedores se denominan sellers y, además, de ser propietarios de los productos, muchas veces también son los responsables del [proceso de fulfillment del producto](/es/tutorial/fulfillment-logistics-vtex--53udnvI5eBy8DKo8FOjMoP).  
+Un marketplace es una plataforma virtual en la que diferentes vendedores anuncian sus productos. Estos vendedores se denominan sellers y, además, de ser propietarios de los productos, muchas veces también son los responsables del [proceso de fulfillment del producto](/es/docs/tutorials/fulfillment-logistica-vtex).  
 
 ![Estrategias de marketplace](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuración-de-las-integraciones/estrategias-de-marketplace-en-vtex_1.png)
 
@@ -30,11 +30,11 @@ Algunas de las principales operaciones relacionadas con la venta de productos en
 - Procesamiento de pedidos  
 - Gestión de los canales  
 
-La selección de productos enviados a un marketplace se define al elegir [la política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV).  
+La selección de productos enviados a un marketplace se define al elegir [la política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial).  
 
-La [contratación de políticas comerciales adicionales](/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X) se realiza a través de la apertura de un ticket en nuestro servicio de soporte, seleccionando la opción __Comercial__ y el tipo de solicitud “Creación de política comercial”. Se cobra una tarifa mensual por cada política comercial adicional, independientemente de si se utiliza para la integración con marketplaces certificados, partners, externos o VTEX.  
+La [contratación de políticas comerciales adicionales](/es/docs/tutorials/contratacion-de-politicas-comerciales-adicionales) se realiza a través de la apertura de un ticket en nuestro servicio de soporte, seleccionando la opción __Comercial__ y el tipo de solicitud “Creación de política comercial”. Se cobra una tarifa mensual por cada política comercial adicional, independientemente de si se utiliza para la integración con marketplaces certificados, partners, externos o VTEX.  
 
-> ℹ️ Los pedidos aprobados en los marketplaces están sujetos a las mismas [normas contractuales](/es/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq) de pedidos realizados a través de otros canales.
+> ℹ️ Los pedidos aprobados en los marketplaces están sujetos a las mismas [normas contractuales](/es/docs/tutorials/que-considera-vtex-como-ingresos-en-el-calculo-de-facturacion) de pedidos realizados a través de otros canales.
 
 A continuación, abordaremos los siguientes escenarios:  
 
@@ -66,7 +66,7 @@ Es posible que un seller que no está integrado con VTEX quiera vender productos
 
 ### Como marketplace VTEX
 
-La configuración para [convertirse en un marketplace VTEX](/es/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb) elimina algunos de los pasos requeridos en otras integraciones. Una vez configurado tu marketplace, consulta las [acciones para la operación de marketplaces VTEX](/es/tutorial/acoes-para-a-operacao-de-marketplaces-vtex--2SdIflvwywiOqCpczKCfev).  
+La configuración para [convertirse en un marketplace VTEX](/es/docs/tutorials/configurar-marketplaces-vtex) elimina algunos de los pasos requeridos en otras integraciones. Una vez configurado tu marketplace, consulta las [acciones para la operación de marketplaces VTEX](/es/docs/tutorials/acciones-para-la-operacion-de-marketplaces-vtex).  
 
 A continuación, se presentan los principales marketplaces VTEX:  
 ![mkt br](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuración-de-las-integraciones/estrategias-de-marketplace-en-vtex_2.png)
@@ -105,7 +105,7 @@ En caso de que tu tienda desee vender en un marketplace que no tiene conexión c
 
 ### Integrado con marketplaces
 
-Cada integración a un marketplace debe estar vinculada a una [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV), ya que es a través de la política comercial que usted define las configuraciones que se aplicarán a sus productos en ese marketplace.
+Cada integración a un marketplace debe estar vinculada a una [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial), ya que es a través de la política comercial que usted define las configuraciones que se aplicarán a sus productos en ese marketplace.
 
 Si en el marketplace se utilizan las mismas configuraciones de catálogo, precio y estrategia de envío de su tienda VTEX, no es necesario crear una nueva política comercial, porque la misma política comercial puede usarse para diferentes canales de venta.
 
@@ -118,7 +118,7 @@ Sólo necesitas configurar una política comercial específica del marketplace s
 - Configurar otras condiciones de pago.  
 - Definir una estrategia de envío diferente.  
 
-Para [contratar pólíticas comerciales adicionales](/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), simplemente solicite vía ticket en Soporte, seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Pólítica Comercial`.
+Para [contratar pólíticas comerciales adicionales](/es/docs/tutorials/contratacion-de-politicas-comerciales-adicionales), simplemente solicite vía ticket en Soporte, seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Pólítica Comercial`.
 
 Por cada pólítica comercial adicional, se cobra una tarifa mensual, ya sea que se utilice para la integración con marketplaces certificados, asociados, externos o VTEX.
 
@@ -132,12 +132,12 @@ Actualmente, la plataforma VTEX cuenta con los siguientes marketplaces certifica
 - [Dafiti](/es/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i)  
 - [Netshoes](/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm)  
 - [Zoom](/es/tutorial/integrando-com-zoom--2OoQjigCVOIEWWkgOqwCK6?&utm_source=autocomplete)  
-- [CSU (Opte+)](/es/tutorial/integrando-com-csu-opte-2--tutorials_4258)  
-- [MadeiraMadeira](/es/tutorial/integracao-com-madeiramadeira--J4QCENKiz4urYNfaMuE0i)  
-- [Riachuelo](/es/tutorial/integracao-com-riachuelo--kpfxAgwEcANihHLT4iW81)  
-- [Camicado](/es/tutorial/integracao-com-renner-e-camicado--5qf2wloosKlmIB8o2AitnT)  
-- [Renner](/es/tutorial/integracao-com-renner-e-camicado--5qf2wloosKlmIB8o2AitnT)  
-- [Enjoei](/es/tutorial/integracao-com-enjoei--3mV9uhw1AdqFol8K2tfwly)  
+- [CSU (Opte+)](/es/docs/tutorials/integrar-con-csu)  
+- [MadeiraMadeira](/es/docs/tutorials/integracion-con-madeiramadeira)  
+- [Riachuelo](/es/docs/tutorials/integracion-con-riachuelo)  
+- [Camicado](/es/docs/tutorials/integracion-con-renner-y-camicado)  
+- [Renner](/es/docs/tutorials/integracion-con-renner-y-camicado)  
+- [Enjoei](/es/docs/tutorials/integracion-con-enjoei)  
 - [Wish](/es/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4)  
 - [Shopee](/es/tutorial/integracao-com-a-shopee-beta--5OV9idUY6fHu3P8grnCnqj)  
 - [Facebook](/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc)  
@@ -172,10 +172,10 @@ Actualmente, la plataforma VTEX cuenta con los siguientes marketplaces certifica
 
 La arquitectura de VTEX permite que una tienda alojada en tu plataforma anuncie sus productos en otras tiendas VTEX. Se denomina seller VTEX a una tienda VTEX que vende sus productos en otra tienda VTEX. En puntos anteriores proporcionamos información sobre [marketplaces VTEX](#actuar-como-marketplace), aquellas tiendas que actúan como el entorno donde se anuncian los productos de sellers VTEX.  
 
-La configuración de la [integración entre tiendas VTEX](/es/tutorial/configurar-seller-para-vender-em-marketplace-vtex--6g045OkRSjNpqhkExbQRlP) es sencilla y elimina algunos  pasos requeridos en otras integraciones. Además, puedes hacer uso del módulo de __Marketplaces e integraciones__, que ofrece un catálogo de marketplaces interesados en colaboraciones, facilitando el contacto entre sellers VTEX, marketplaces VTEX y marketplaces certificados.  
+La configuración de la [integración entre tiendas VTEX](/es/docs/tutorials/como-configurar-el-seller-para-vender-en-un-marketplace-vtex) es sencilla y elimina algunos  pasos requeridos en otras integraciones. Además, puedes hacer uso del módulo de __Marketplaces e integraciones__, que ofrece un catálogo de marketplaces interesados en colaboraciones, facilitando el contacto entre sellers VTEX, marketplaces VTEX y marketplaces certificados.  
 
 ## Seller Portal
 
-[Seller Portal](/es/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) es una edición de la plataforma VTEX destinada a que los sellers se conecten y vendan sus productos en marketplaces alojados en VTEX. A través de este portal, los sellers acceden a todas las funcionalidades esenciales para la operación del ecommerce en grandes vitrinas, aportando visibilidad y conversión de ventas.  
+[Seller Portal](/es/docs/tutorials/como-configurar-su-tienda-en-seller-portal) es una edición de la plataforma VTEX destinada a que los sellers se conecten y vendan sus productos en marketplaces alojados en VTEX. A través de este portal, los sellers acceden a todas las funcionalidades esenciales para la operación del ecommerce en grandes vitrinas, aportando visibilidad y conversión de ventas.  
 
-> ℹ️ En VTEX, es posible actuar como un [seller white label](/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa), un seller no identificado por el consumidor en la experiencia de compra. Este tipo de seller es el estándar para las [cuentas franquicia](/es/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl), por ejemplo, y puede ser estratégico para determinados modelos de negocio. Para más información, consulta el artículo [Elegir entre cuenta estándar, cuenta franquicia o Seller Portal](/es/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78).
+> ℹ️ En VTEX, es posible actuar como un [seller white label](/es/docs/tutorials/seller-white-label), un seller no identificado por el consumidor en la experiencia de compra. Este tipo de seller es el estándar para las [cuentas franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia), por ejemplo, y puede ser estratégico para determinados modelos de negocio. Para más información, consulta el artículo [Elegir entre cuenta estándar, cuenta franquicia o Seller Portal](/es/docs/tutorials/elegir-entre-cuenta-estandar-cuenta-franquicia-o-seller-portal).

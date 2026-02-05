@@ -26,7 +26,7 @@ Este artículo es una guía para que los clientes y partners abran los tickets c
 - [Antes de abrir un ticket](#antes-de-abrir-un-ticket)
 - [Rellenar un ticket](#rellenar-un-ticket)
 
-Para aprender a abrir un ticket en VTEX, consulta el artículo [Abrir tickets para el soporte VTEX](/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+Para aprender a abrir un ticket en VTEX, consulta el artículo [Abrir tickets para el soporte VTEX](/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex).
 
 ## Antes de abrir un ticket
 
@@ -74,7 +74,7 @@ Si, después de seguir todos los pasos de troubleshooting indicados anteriorment
 | Información | Guías |
 | ----------- | ----------- |
 | Asunto y descripción del problema |  - Resume el problema o duda en pocas palabras. Rellena el campo **Asunto de la solicitud** de forma concisa y directa para ayudar al equipo de especialistas a entender rápidamente el escenario.   - Rellena el campo **Asunto de la solicitud** con una descripción completa de lo observado e incluye qué, cómo y dónde está ocurriendo el problema para que el equipo de especialistas pueda investigar y reproducir el escenario. No olvides informar si los pasos para reproducir el problema incluyen alguna acción atípica que se deba realizar o algún permiso de acceso restringido.   |
-| Pruebas | Incluye cualquier material que permita observar el problema, si está disponible. Por ejemplo, capturas o grabaciones de pantalla, [archivos HAR](/es/tutorial/gerar-arquivo-har-para-debugar-problemas-na-loja--15xVlw8nuakk2k6Cao4k2Q), logs generados por la plataforma, respuestas del servidor o el texto o ID del error mostrado. |
+| Pruebas | Incluye cualquier material que permita observar el problema, si está disponible. Por ejemplo, capturas o grabaciones de pantalla, [archivos HAR](/es/docs/tutorials/generar-archivo-har), logs generados por la plataforma, respuestas del servidor o el texto o ID del error mostrado. |
 | Escenario esperado | Proporciona los detalles del escenario esperado, en comparación con lo que está ocurriendo. |
 | Pruebas y validaciones | Si ya intentaste solucionar el problema, detalla las acciones que ya hayas realizado, qué documentación consultaste y los resultados. |
 | Alcance del ticket |  - No abordes más de un problema en un mismo ticket.   - No crees más de un ticket para el mismo problema.  |
@@ -92,7 +92,7 @@ Puedes adaptar esta información a tu escenario específico y también utilizarl
 | Escenarios | Información |
 | ----------- | ----------- |
 | Pedidos |  - ID del pedido o ` orderForm `.   - URL del pedido en ** Gestión de pedidos ** en o ** Bridge ** (para los pedidos de marketplaces con integraciones nativas).  |
-| Checkout |  - URL del carrito generada por [Cartman](/es/tutorial/configurar-o-cartman--1ACMTStZYkMqB0lTgwg451).   - ID de los SKU y código postal para reproducir el carrito. 
+| Checkout |  - URL del carrito generada por [Cartman](/es/docs/tutorials/configurar-cartman).   - ID de los SKU y código postal para reproducir el carrito. 
 | Logística |  - ID del seller.   - URL del almacén, muelle o transportadora del seller.   - Información para simular el envío, como ID de los SKU y código postal.  |
 | Pagos |  - ID de la transacción.   - Link de la transacción al acceder al Admin VTEX en * Pagos > Transacciones. * 
 | VTEX IO |  - Nombre y versión de la aplicación utilizada.   - Workspace utilizado.   - Archivo ZIP con el [store-theme](https://developers.vtex.com/docs/guides/vtex-io-documentation-3-settingyourstoretheme) en caso de tema vinculado y no instalado.  |
@@ -101,5 +101,5 @@ Puedes adaptar esta información a tu escenario específico y también utilizarl
 
 #### Más información
 
-- [Abrir un ticket para el soporte VTEX](/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM)
+- [Abrir un ticket para el soporte VTEX](/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex)
 - [¿Cómo funciona el soporte de VTEX?](/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe)

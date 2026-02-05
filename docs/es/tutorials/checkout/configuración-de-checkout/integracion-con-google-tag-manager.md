@@ -38,7 +38,7 @@ A través de las etiquetas, Google Analytics te permite acceder a datos importan
 
 ## Editar configuraciones del Checkout
 
-> ⚠️ Los usuarios que realizan configuraciones de checkout deben tener un rol con el [recurso de License Manager](/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) **Manage portal**. A su vez, este nuevo rol deben crearlo usuarios que tengan acceso **Owner (Admin Super)**.
+> ⚠️ Los usuarios que realizan configuraciones de checkout deben tener un rol con el [recurso de License Manager](/es/docs/tutorials/recursos-del-license-manager) **Manage portal**. A su vez, este nuevo rol deben crearlo usuarios que tengan acceso **Owner (Admin Super)**.
 
 Después, debes configurar el código de identificación de la tienda en Tag Manager en VTEX siguiendo los pasos a continuación:
 

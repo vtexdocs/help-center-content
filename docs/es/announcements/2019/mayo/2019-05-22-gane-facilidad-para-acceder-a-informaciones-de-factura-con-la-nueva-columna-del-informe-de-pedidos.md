@@ -29,4 +29,4 @@ Esto significa que el campo `Invoice Number` mostrará siempre todas las factura
 
 ## ¿Qué necesita hacer?
 
-La nueva columna del informe ya está habilitada para todas las cuentas VTEX y no se requiere ninguna acción. Para entender mejor cómo funciona el informe de pedidos, acceda a nuestro artículo sobre [exportar pedidos en el módulo Gestión de Pedidos](/es/tutorial/exportacion-de-pedidos-en-gestion-de-pedidos--tutorials_6417).
+La nueva columna del informe ya está habilitada para todas las cuentas VTEX y no se requiere ninguna acción. Para entender mejor cómo funciona el informe de pedidos, acceda a nuestro artículo sobre [exportar pedidos en el módulo Gestión de Pedidos](/es/docs/tutorials/exportacion-de-pedidos-en-el-modulo-pedidos).

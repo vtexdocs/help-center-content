@@ -35,5 +35,5 @@ Con esta actualización, la creación y gestión de promociones será más intui
 ## ¿Qué se necesita hacer?
 No se requiere ninguna acción. El nuevo formulario estará disponible a partir del 22/08/2025 en todas las cuentas VTEX.
 
-Para saber más, consulta [Promoción Regular](/es/tutorial/promocao-regular-pt--tutorials_327).
+Para saber más, consulta [Promoción Regular](/es/docs/tutorials/registro-promocion-regular).
 

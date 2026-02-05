@@ -21,7 +21,7 @@ La página **Opciones de envío** del Admin VTEX permite configurar ofertas de e
 
 Esto proporciona a los retailers autonomía para crear, configurar y gestionar las opciones de envío como contenido estratégico dentro de la plataforma VTEX y mayor flexibilidad para alinear la capacidad logística con los objetivos comerciales, optimizando la experiencia de compra de los clientes.
 
-Las opciones de envío utilizan la información registrada en las [políticas de envío](/es/tutorial/politica-de-envio--tutorials_140) de la tienda. Si no tienes estos ajustes configurados o ninguno cumple con las metas de las opciones de envío, consulta el artículo [Crear una política de envío](/es/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT).
+Las opciones de envío utilizan la información registrada en las [políticas de envío](/es/docs/tutorials/politica-de-envio) de la tienda. Si no tienes estos ajustes configurados o ninguno cumple con las metas de las opciones de envío, consulta el artículo [Crear una política de envío](/es/docs/tutorials/crear-una-politica-de-envio).
 
 La página Opciones de envío te permite realizar las siguientes acciones:
 
@@ -55,7 +55,7 @@ Para crear una nueva opción de envío sigue los pasos a continuación.
   ![delivery-options-form-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/envío-beta/opciones-de-envio-beta_2.png)
    - **Método de envío:** selecciona el tipo de método de envío (**Envío**, **Entrega programada**, **Recogida**, **Recogida programada**).
    - **Nombre de la opción:** ingresa el nombre de la opción que se mostrará al cliente durante la compra.
-   - **Usar opción como filtro en la vitrina de la tienda**: marca la casilla para permitir que los clientes utilicen esta opción para filtrar los productos con los [filtros de Intelligent Search](/es/tutorial/filtros--k24mQQa9SjmhNWSwdqIMB).
+   - **Usar opción como filtro en la vitrina de la tienda**: marca la casilla para permitir que los clientes utilicen esta opción para filtrar los productos con los [filtros de Intelligent Search](/es/docs/tutorials/filtros).
 
    > ⚠️ Los filtros de métodos de envío solo se mostrarán en la lista de productos para el cliente si esta opción está activada. Si está desactivada, los filtros no se mostrarán.
 

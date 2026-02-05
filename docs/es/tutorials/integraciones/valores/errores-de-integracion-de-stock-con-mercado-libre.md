@@ -29,7 +29,7 @@ A continuación se muestran los principales mensajes de error de integración de
 
 **Mensaje traducido:** Mensaje de error no mapeado por la integración. Ponte en contacto con VTEX informando de lo sucedido para que se pueda realizar el mapeo. Mensaje en Mercado Libre: Error de validación. No se puede activar un ítem sin stock.
 
-La causa más común del error es la falta de _stock_, y en Mercado Libre no se puede activar un ítem sin _stock_. Por lo tanto, se debe [actualizar la cantidad de los SKU en stock](/es/tutorial/como-atualizar-estoque--2MDwYV1COA6YuoiY22AyGo) y volver a procesar el error. Si el error persiste tras volver a procesarlo de forma manual, otra posible causa es que el SKU esté inactivo. Verifica el _status_ del SKU en tu Admin, en **Catálogo > Productos y SKU**. Una tercera posibilidad es que el ítem no esté correctamente marcado en la colección o en la política comercial definida para Mercado Libre. Si es necesario, consulta el artículo [Asociación de SKU a una política comercial](/es/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb).
+La causa más común del error es la falta de _stock_, y en Mercado Libre no se puede activar un ítem sin _stock_. Por lo tanto, se debe [actualizar la cantidad de los SKU en stock](/es/docs/tutorials/actualization-de-la-cantidad-de-items-en-stock) y volver a procesar el error. Si el error persiste tras volver a procesarlo de forma manual, otra posible causa es que el SKU esté inactivo. Verifica el _status_ del SKU en tu Admin, en **Catálogo > Productos y SKU**. Una tercera posibilidad es que el ítem no esté correctamente marcado en la colección o en la política comercial definida para Mercado Libre. Si es necesario, consulta el artículo [Asociación de SKU a una política comercial](/es/docs/tutorials/asociacion-de-sku-a-una-politica-comercial).
 
 ___
 
@@ -123,5 +123,5 @@ Un usuario puede ser desactivado en Mercado Libre por diversos motivos, desde ha
 ### Sepa más
 
 - [Integración con Mercado Libre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)
-- [Control de stock mínimo para integraciones](/es/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D)
-- [Configurar la Alerta de Stock Crítico](/es/tutorial/configurar-o-alerta-de-estoque-critico--6FD0GHeQPCsKIMgkQ88SGu)
+- [Control de stock mínimo para integraciones](/es/docs/tutorials/control-de-stock-minimo-para-integraciones)
+- [Configurar la Alerta de Stock Crítico](/es/docs/tutorials/configurar-la-alerta-de-stock-critico)

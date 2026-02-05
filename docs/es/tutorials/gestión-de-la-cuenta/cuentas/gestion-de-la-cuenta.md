@@ -41,7 +41,7 @@ En esta sección puedes consultar la información básica de tu cuenta VTEX.
 
 ![Página de detalles de la cuenta - detalles](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gestión-de-la-cuenta/cuentas/gestion-de-la-cuenta_3.png)
 
-- **Nombre de la cuenta principal:** el [nombre de la cuenta VTEX](/es/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC).
+- **Nombre de la cuenta principal:** el [nombre de la cuenta VTEX](/es/docs/tutorials/que-es-account-name).
 - **Fecha de creación:** la fecha de creación de la cuenta.
 - **ID de la cuenta:** el código único que identifica tu cuenta.
 - **Fecha del go-live:** la fecha en que tu cuenta se activó y estuvo disponible para su configuración e implementación en la tienda.
@@ -78,7 +78,7 @@ Puedes editar los datos de registro de la empresa siguiendo los pasos a continua
 
 En esta sección se presentan los datos del usuario titular de la cuenta. Cada cuenta VTEX tiene un único usuario titular, que dispone de acceso completo a todas las secciones del Admin, incluidas las acciones críticas de mantenimiento y autorización.
 
-> ℹ️ Más información sobre el [usuario titular](/es/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy).
+> ℹ️ Más información sobre el [usuario titular](/es/docs/tutorials/que-es-el-usuario-titular).
 
 ![Página de detalles de la cuenta - Titular](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gestión-de-la-cuenta/cuentas/gestion-de-la-cuenta_5.png)
 
@@ -122,7 +122,7 @@ Para crear una nueva tienda, sigue los pasos a continuación.
 5. Si deseas iniciar el proceso [go-live](/es/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM) para tu tienda, rellena el campo **Hosts** con el [dominio de tu tienda](/es/tutorial/configurando-dominios-no-license-manager). En caso contrario, deja este campo en blanco.
 6. Haz clic en el botón `Crear`.
 
-> ℹ️ Para obtener más información sobre la configuración de los **Hosts** de tu tienda, consulta el artículo [Configurar el dominio de tu tienda](/es/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
+> ℹ️ Para obtener más información sobre la configuración de los **Hosts** de tu tienda, consulta el artículo [Configurar el dominio de tu tienda](/es/docs/tutorials/configurar-dominio-de-la-tienda).
 
 > ⚠️ No utilice un dominio de tipo ".com" en el campo Store name. Este tipo de entrada sólo puede existir en el campo Hosts.
 
@@ -153,9 +153,9 @@ El nombre de la tienda eliminada no puede volver a utilizarse.
 
 ## Más información
 
-- [¿Qué es un nombre de cuenta?](/es/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC)
-- [Usuario titular](/es/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy)
+- [¿Qué es un nombre de cuenta?](/es/docs/tutorials/que-es-account-name)
+- [Usuario titular](/es/docs/tutorials/que-es-el-usuario-titular)
 - [Transferir la propiedad de la tienda](/es/tutorial/transferencia-de-propriedade-da-loja)
-- [Configurando el dominio de tu tienda](/es/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450)
+- [Configurando el dominio de tu tienda](/es/docs/tutorials/configurar-dominio-de-la-tienda)
 - [Go-live](/es/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM)
 

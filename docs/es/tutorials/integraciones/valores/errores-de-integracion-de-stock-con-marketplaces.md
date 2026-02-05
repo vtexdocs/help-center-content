@@ -19,8 +19,8 @@ A veces se producen errores de integración de stock en los marketplaces para lo
 
 Para ver qué errores de integración de _stock_ son más frecuentes en un determinado _marketplace_ y cómo resolverlos, haz clic en el nombre del _marketplace_:
 
-- [Mercado Libre](/es/tutorial/erros-de-integracao-de-estoque-com-o-mercado-livre--3pWA3vRePuGmJ5tquY4fva)
-- [Amazon](/es/tutorial/erros-de-integracao-de-estoque-com-a-amazon--3t05cXK2vDbKCA6rifMMWj)
+- [Mercado Libre](/es/docs/tutorials/errores-de-integracion-de-stock-con-mercado-libre)
+- [Amazon](/es/docs/tutorials/errores-de-integracion-de-stock-con-amazon)
 - Via (sólo Brasil)
 - Magazine Luiza (sólo Brasil)
 - Carrefour (sólo Brasil)
@@ -28,4 +28,4 @@ Para ver qué errores de integración de _stock_ son más frecuentes en un deter
 
 | **SEPA MÁS** |
 | ---------- |
-|Si desea más información sobre _marketplaces_ y oportunidades de crecimiento, consulte el artículo [Estrategias de marketplace en VTEX](/es/tutorial/integrando-com-marketplace--tutorials_402).|
+|Si desea más información sobre _marketplaces_ y oportunidades de crecimiento, consulte el artículo [Estrategias de marketplace en VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex).|

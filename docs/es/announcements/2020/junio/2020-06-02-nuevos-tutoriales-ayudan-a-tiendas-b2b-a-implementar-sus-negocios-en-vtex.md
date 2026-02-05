@@ -23,13 +23,13 @@ VTEX es una plataforma cada vez más preparada para cumplir con escenarios como 
 
 - [Cómo ingresar y manipular información personalizada en el orden](/es/tutorial/como-adicionar-e-manipular-informacoes-customizadas-no-pedido--7tDi1jQQ51ufARcRm8NUnC)
 - [Cómo añadir una segunda dirección al pedido para fines de facturación](/es/tutorial/como-adicionar-um-segundo-endereco-ao-pedido-destinado-a-faturacao--6Mow9ibQPDOcEggNnujuA)
-- [Cómo estructurar entidades del Master Data para guardar datos de ventas B2B](/es/tutorial/como-estruturar-entidades-do-master-data-para-armazenar-dados-de-venda-b2b--7vHtMxXLc9oYnEfajjtTqL)
-- [Gestión de crédito a través de Customer Credit](/es/tutorial/gestao-de-credito-por-meio-do-customer-credit--5lihi3WBsV5mSIDqNvnoK0)
+- [Cómo estructurar entidades del Master Data para guardar datos de ventas B2B](/es/docs/tutorials/como-estructurar-entidades-del-master-data-para-guardar-datos-de-ventas-b2b)
+- [Gestión de crédito a través de Customer Credit](/es/docs/tutorials/gestion-crediticia-a-traves-del-customer-credit)
 - [Cómo ingresar un correo electrónico de operador de televentas personificado con el Session Manager
 ](/es/tutorial/como-adicionar-e-mail-de-televendas-personificado-via-session-manager--4tT90hWRChUy84UClF8pC)
-- [Ingresar tasas en el carrito](/es/tutorial/inserir-taxas-no-carrinho--2wY5ePTTRz17EBhO3F7XBQ)
-- [Promociones más comunes para B2B](/es/tutorial/as-promocoes-mais-comuns-em-b2b--XoM951AzUIvfaH71UdANf)
-- [Cómo configurar el valor mínimo por pedido y la cantidad máxima de ítems por SKU](/es/tutorial/como-configurar-valor-minimo-de-pedido-e-quantidade-maxima-de-itens-por-sku--7JqipPUBxtKz0m4OlAyKs9)
+- [Ingresar tasas en el carrito](/es/docs/tutorials/ingresar-tasas-en-el-carrito)
+- [Promociones más comunes para B2B](/es/docs/tutorials/promociones-mas-comunes-para-b2b)
+- [Cómo configurar el valor mínimo por pedido y la cantidad máxima de ítems por SKU](/es/docs/tutorials/como-configurar-el-valor-minimo-por-pedido-y-la-cantidad-maxima-de-items-por)
 
 ¡Trae tu tienda B2B a VTEX! Para obtener más información, comuníquese con su Customer Success Manager.
 

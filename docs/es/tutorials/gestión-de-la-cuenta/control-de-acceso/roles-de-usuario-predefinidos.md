@@ -19,7 +19,7 @@ subcategoryId: 1HSqkejwuYcQSMC400uY84
 
 En este documento, se enumeran roles que están predefinidos para las nuevas tiendas VTEX y sus respectivos recursos. Para acceder a ellos directamente, utilice la lista a continuación.
 
-> ℹ️ Para obtener más información sobre cada recurso listado en los perfiles a continuación, consulte el artículo [Recursos del License Manager](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
+> ℹ️ Para obtener más información sobre cada recurso listado en los perfiles a continuación, consulte el artículo [Recursos del License Manager](/es/docs/tutorials/recursos-del-license-manager).
 
 * [Admin - Start page only](#admin-start-page-only)
 * [Checkout Admin](#checkout-admin)

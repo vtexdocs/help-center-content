@@ -81,12 +81,12 @@ Para obtener más información sobre este asunto, consulte [Configurar el apunta
 
 ### Configurar trigger
 
-En esta etapa, es necesario configurar un [trigger en Master Data](/es/tutorial/criando-trigger-no-master-data--tutorials_1270). El proceso consiste en rellenar algunos valores que determinarán la activación del trigger, algunos de los cuales son filtros:
+En esta etapa, es necesario configurar un [trigger en Master Data](/es/docs/tutorials/creando-trigger-en-el-master-data). El proceso consiste en rellenar algunos valores que determinarán la activación del trigger, algunos de los cuales son filtros:
 
 - __Checkout:__ el trigger se activará si no se completa el checkout y es diferente de nulo, es decir, si el cliente no finaliza la compra.
 - Carrito:__ relacionado con los últimos productos que el cliente agregó al carrito. El trigger se activa si el valor es diferente de nulo.
 - __Último carrito:__ registra la fecha y hora de creación del carrito. El trigger se activa si el valor es diferente de nulo.
-- __¿Recibe newsletter?:__ garantiza el cumplimiento de los [derechos de titulares de datos](/es/tutorial/data-subject-rights--6imchxTx09icupKMbzHVIM), ya que solo los clientes suscritos al newsletter recibirán emails de carrito abandonado. La suscripción al newsletter se puede gestionar desde el checkout o en la sección [Mi cuenta](/es/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#perfil) de la tienda. El trigger se activa si el valor es verdadero.
+- __¿Recibe newsletter?:__ garantiza el cumplimiento de los [derechos de titulares de datos](/es/docs/tutorials/derechos-de-los-titulares-de-datos-personales), ya que solo los clientes suscritos al newsletter recibirán emails de carrito abandonado. La suscripción al newsletter se puede gestionar desde el checkout o en la sección [Mi cuenta](/es/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#perfil) de la tienda. El trigger se activa si el valor es verdadero.
 
 Para que la activación del trigger sea posible, es necesario que los filtros estén rellenados según las instrucciones a continuación:
 

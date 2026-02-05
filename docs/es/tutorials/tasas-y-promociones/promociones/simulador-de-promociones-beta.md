@@ -15,13 +15,13 @@ locale: es
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-> ⚠️ Los usuarios deben tener un [rol](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) con permisos para ver el módulo **Promociones** en el Admin VTEX para poder acceder al **Simulador de promociones**.
+> ⚠️ Los usuarios deben tener un [rol](/es/docs/tutorials/roles) con permisos para ver el módulo **Promociones** en el Admin VTEX para poder acceder al **Simulador de promociones**.
 
 El **Simulador de promociones** es una herramienta que permite ver las promociones creadas en tu tienda VTEX que se aplicaron al carrito y sus condiciones de activación. También puedes probar la aplicación de promociones antes de activarlas, incluyendo promociones inactivas y programadas.
 
-Como las promociones pueden configurarse de diversas maneras, es importante poder ver la [competencia](/es/tutorial/como-funciona-la-competencia-de-promociones--tutorials_2270) y la acumulación de promociones durante la compra y los activadores de dichas promociones.
+Como las promociones pueden configurarse de diversas maneras, es importante poder ver la [competencia](/es/docs/tutorials/como-funciona-la-competencia-de-promociones) y la acumulación de promociones durante la compra y los activadores de dichas promociones.
 
-El **Simulador de promociones** está disponible para todas las tiendas VTEX mediante [Cartman](/es/tutorial/configurar-cartman--1ACMTStZYkMqB0lTgwg451), una herramienta para los administradores de la tienda en la etapa de checkout. Para acceder al simulador, sigue los pasos a continuación:
+El **Simulador de promociones** está disponible para todas las tiendas VTEX mediante [Cartman](/es/docs/tutorials/configurar-cartman), una herramienta para los administradores de la tienda en la etapa de checkout. Para acceder al simulador, sigue los pasos a continuación:
 
 1. En la barra superior del Admin VTEX, haz clic en el botón `Vista previa `para abrir la página de acceso restringido de tu tienda.
 
@@ -54,7 +54,7 @@ Si necesitas agregar o remover ítems del carrito, puedes mantener la ventana de
 
 ### Buscar y filtrar promociones
 
-La herramienta tiene una barra de búsqueda que permite buscar promociones por nombre del producto o nombre de la promoción. Además, puedes filtrar las promociones por **Tipo de promoción** ([Regular](/es/tracks/promociones--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Comprar juntos](/es/tutorial/comprar-juntos-registro-de-promocion--tutorials_323), [Más por menos](/es/tutorial/mas-por-menos--tutorials_3255), [Descuento progresivo](/es/tutorial/descuento-progresivo--tutorials_324), [Compra y gana](/es/tutorial/como-funciona-la-promocion-compre-y-gane--tutorials_322) o [Promoción de campaña](/es/tutorial/promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume)) y **Descuento** (Aplicado o No aplicado).
+La herramienta tiene una barra de búsqueda que permite buscar promociones por nombre del producto o nombre de la promoción. Además, puedes filtrar las promociones por **Tipo de promoción** ([Regular](/es/tracks/promociones--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Comprar juntos](/es/docs/tutorials/comprar-juntos-registro-de-promocion), [Más por menos](/es/tutorial/mas-por-menos--tutorials_3255), [Descuento progresivo](/es/docs/tutorials/descuento-progresivo), [Compra y gana](/es/docs/tutorials/como-funciona-la-promocion-compre-y-gane) o [Promoción de campaña](/es/docs/tutorials/promocion-de-campana)) y **Descuento** (Aplicado o No aplicado).
 
 ### Ver detalles de las promociones aplicadas
 
@@ -92,4 +92,4 @@ Para ejecutar una simulación, sigue estos pasos:
 
 * [Cómo funcionan las promociones](/es/tracks/promociones--6asfF1vFYiZgTQtOzwJchR)
 * [Promociones para escenarios específicos](/es/tracks/promociones--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy)
-* [Configurar Cartman](/es/tutorial/configurar-cartman--1ACMTStZYkMqB0lTgwg451)
+* [Configurar Cartman](/es/docs/tutorials/configurar-cartman)

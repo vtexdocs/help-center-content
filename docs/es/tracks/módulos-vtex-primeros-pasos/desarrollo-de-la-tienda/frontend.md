@@ -25,7 +25,7 @@ Store Framework surge de la idea de componibilidad, ya que permite combinar dife
 
 La ampliación de funcionalidades se produce a través de aplicaciones VTEX disponibles globalmente.
 
-Store Framework es una solución para construir storefronts aprovechando VTEX IO. Esta solución permite utilizar la interfaz intuitiva de [Site Editor](/es/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) y simplificar la gestión de contenido de la tienda.
+Store Framework es una solución para construir storefronts aprovechando VTEX IO. Esta solución permite utilizar la interfaz intuitiva de [Site Editor](/es/docs/tutorials/site-editor-vision-general) y simplificar la gestión de contenido de la tienda.
 
 ![vtex io](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/desarrollo-de-la-tienda/frontend_1.png)
 
