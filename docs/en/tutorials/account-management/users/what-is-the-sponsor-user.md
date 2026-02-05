@@ -26,7 +26,7 @@ The Sponsor management page allows you to identify the current Sponsor user, tra
 Only the Sponsor user can perform these critical maintenance and authorization actions:
 
 * [Transfer store ownership](/en/tutorial/transferring-store-ownership) to a new Sponsor user
-* [Database Maintenance (Full Cleanup)](/en/tutorial/database-maintenance-full-cleanup--34P9LGs7BCIQK6acQom802) operations, including:
+* [Database Maintenance (Full Cleanup)](/en/docs/tutorials/database-maintenance-full-cleanup) operations, including:
     * Re-register prices in SmartCheckout
     * Delete Indexer Products
     * Delete Products/SKUs and related items
@@ -37,7 +37,7 @@ Only the Sponsor user can perform these critical maintenance and authorization a
     * [Facebook](/en/tracks/facebook-integration--7h8KvIC4DbRRc8VlyJ8PFc/5OP69kHWKca01wLH0w10jX)
     * [Google Shopping](/en/tracks/integrating-with-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/44hAYlKYSRZMTNY3ELxeQ2)
     * [Mercado Libre](/en/tracks/mercado-libre-integration-set-up--2YfvI3Jxe0CGIKoWIGQEIq/4leBEAd22Icm46kGeiGgak)
-* [Approve order cancellation requests](/en/tutorial/how-does-cancellation-work-when-requested-by-the-customer--3wEI6DUNtecooG2Ki4Akqo)
+* [Approve order cancellation requests](/en/docs/tutorials/order-cancellation-requested-by-the-customer)
 
 In addition, when VTEX needs to communicate store-sensitive information, such as changes in roles, such communication is done directly and exclusively with the Sponsor user.
 

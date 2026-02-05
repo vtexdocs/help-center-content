@@ -30,7 +30,7 @@ Whenever there is a change in product status or information, a reindexing flow i
 - Creation or removal of a collection
 - Changes in price or stock quantity
 
-> ℹ️ For more details about indexing a product in [legacy](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) stores, see [How indexing works (Legacy CMS Portal)](/en/tutorial/understanding-how-indexation-works--tutorials_256). If your store uses [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), see [Indexing History (Intelligent Search)](/en/tutorial/indexing-history--55SRQ79PXk5lTURF54DRyJ).
+> ℹ️ For more details about indexing a product in [legacy](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) stores, see [How indexing works (Legacy CMS Portal)](/en/docs/tutorials/understanding-how-indexation-works). If your store uses [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), see [Indexing History (Intelligent Search)](/en/docs/tutorials/indexing-history).
 
 In some cases, the indexing process may be interrupted, resulting in the latest updated product information not being displayed on the store's website. Here are a few scenarios where such interruption can occur:
 
@@ -61,7 +61,7 @@ Errors in product fields can lead to inconsistencies when indexing a product.
 
 1. In the Admin VTEX, go to **Catalog > All Products**.  
 
-   > ⚠️ Stores using the **Products and SKUs (Beta)** page should check the product fields by going to **Catalog > Products and SKUs** in the VTEX Admin. Learn more about [Products and SKUs (Beta)](/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).
+   > ⚠️ Stores using the **Products and SKUs (Beta)** page should check the product fields by going to **Catalog > Products and SKUs** in the VTEX Admin. Learn more about [Products and SKUs (Beta)](/en/docs/tutorials/products-and-skus).
 
 2. Find the product you want and click **UPDATE**.  
 
@@ -71,9 +71,9 @@ Errors in product fields can lead to inconsistencies when indexing a product.
 
 ### Checking the account binding information
 
-When the account has [more than one store](/en/tutorial/managing-a-multistore--4S0lFVBPylRS5KpVgdyDhJ), you need to conduct the [binding](/en/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W), process — which binds the website to trade policies for each store. If a product is associated with a trade policy not present in the account's binding, indexing errors can occur.
+When the account has [more than one store](/en/docs/tutorials/managing-a-multistore), you need to conduct the [binding](/en/docs/tutorials/what-is-binding), process — which binds the website to trade policies for each store. If a product is associated with a trade policy not present in the account's binding, indexing errors can occur.
 
-To identify the trade policies associated with each store in your account, see [Linking a store to a CMS folder structure (binding)](/en/tutorial/linking-an-account-name-to-a-website-binding--PxjfleOw6suCSO2uGWMMs).
+To identify the trade policies associated with each store in your account, see [Linking a store to a CMS folder structure (binding)](/en/docs/tutorials/linking-an-account-name-to-a-website-binding).
 
 ### Changing a product's trade policies
 
@@ -81,7 +81,7 @@ When a product is associated with multiple policies, it may exit the indexing qu
 
 Example: A product with 5 active SKUs across 5 different trade policies may require 25 validations of stock availability, price rules, and promotions.
 
-To avoid this scenario, check the possibility of using the same trade policy for different marketplaces, as described in [Configuring a marketplace trade policy](/en/tutorial/configuring-a-marketplace-trade-policy--tutorials_404).  
+To avoid this scenario, check the possibility of using the same trade policy for different marketplaces, as described in [Configuring a marketplace trade policy](/en/docs/tutorials/configuring-a-marketplace-trade-policy).  
 
 > ⚠️ If you can reduce the number of trade policies in your store, access the product fields again to change the trade policy and check the indexing report, as described in **Checking product fields**.
 
@@ -110,10 +110,10 @@ If any of the product's SKUs are included in a [collection](/en/tracks/catalog-1
 
 A complete reindexing of the product base can be conducted to simultaneously update the information for all products in the store.
 
-For stores with fewer than 100,000 products in the catalog, the [account holder](/en/tutorial/what-is-the-sponsor-user--3oPr7YuIkEYqUGmEqIMSEy) can use the __Schedule full reindexing__ function in the VTEX Admin.
+For stores with fewer than 100,000 products in the catalog, the [account holder](/en/docs/tutorials/what-is-the-sponsor-user) can use the __Schedule full reindexing__ function in the VTEX Admin.
 
 For accounts with 100,000 or more products, please contact [VTEX Support](/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) to conduct this type of operation.
 
-Learn more in [Database Maintenance (Full Cleanup)](/en/tutorial/database-maintenance-full-cleanup--34P9LGs7BCIQK6acQom802).
+Learn more in [Database Maintenance (Full Cleanup)](/en/docs/tutorials/database-maintenance-full-cleanup).
 
 ![Schedule full reindexing](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/i-cant-index-a-product-in-the-catalog_1.png)

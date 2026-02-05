@@ -21,7 +21,7 @@ subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 
 This gives merchants autonomy to create, configure, and manage delivery options as strategic content on the VTEX platform. This approach provides more flexibility to align logistical capabilities with business objectives, enhancing customers' shopping experience.
 
-The delivery options use the information already defined in the store [shipping policies](/en/tutorial/shipping-policy--tutorials_140). If these settings aren't defined or don't meet the delivery target of the shipping options, see the article [Creating a shipping policy](/en/tutorial/creating-a-shipping-policy--66rJO4LKBdyMJOH6Z3dsaT).
+The delivery options use the information already defined in the store [shipping policies](/en/docs/tutorials/shipping-policy). If these settings aren't defined or don't meet the delivery target of the shipping options, see the article [Creating a shipping policy](/en/docs/tutorials/creating-a-shipping-policy).
 
 The Delivery Options page allows you to:
 
@@ -55,7 +55,7 @@ To create a delivery option, follow the steps below:
   ![delivery-options-form-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-options-beta_2.png)
     - **Shipping method:** Select the shipping method (**delivery**, **scheduled delivery**, **pickup**, **scheduled pickup**).
     - **Option name:** Enter the name of the option the customer will see when purchasing.
-    - **Use option as a filter on the product listing page**: Enable this to allow customers to filter products by this delivery option using[ Intelligent Search filters](/en/tutorial/filters--k24mQQa9SjmhNWSwdqIMB).
+    - **Use option as a filter on the product listing page**: Enable this to allow customers to filter products by this delivery option using[ Intelligent Search filters](/en/docs/tutorials/filters).
 
    > ⚠️ The shipping method filters will only be displayed in the product listing for the customer if this option is enabled. If disabled, the filters will not be displayed.
 

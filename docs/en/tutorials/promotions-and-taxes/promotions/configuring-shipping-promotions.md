@@ -19,7 +19,7 @@ You can create several types of [discount](/en/tutorial/como-criar-promocoes--tu
 
 The step-by-step instructions for creating a shipping promotion are the same as for [other regular promotions](/en/tutorial/regular-promotion--tutorials_327"). However, some specifics must be taken into account when configuring these discounts.
 
-Before setting up a shipping promotion, you should understand how discounts can be offered to your buyers. On VTEX, there are four types of shipping promotions, which you can choose in the field **What is the type and amount of the discount?** when creating a [Regular Promotion](/en/tutorial/regular-promotion--tutorials_327). Here are the shipping promotion types:
+Before setting up a shipping promotion, you should understand how discounts can be offered to your buyers. On VTEX, there are four types of shipping promotions, which you can choose in the field **What is the type and amount of the discount?** when creating a [Regular Promotion](/en/docs/tutorials/regular-promotion). Here are the shipping promotion types:
 
 - **Nominal:** a specific discount on the shipping cost. For example,  a $20 discount for deliveries to the West Coast.
 
@@ -81,4 +81,4 @@ In summary, the purpose of the option **Apply discount only when one of the abov
 
 When configuring the **Promotions & Taxes** module, you can enable more than one carrier for the same promotion. However, your customer will only be able to select one carrier at checkout.
 
-Another possibility is to configure a shipping promotion by creating a campaign promotion. For more information, [read this article](/en/tutorial/creating-a-campaign-benefit--1ChYXhK2AQGuS6wAqS8Ume).
+Another possibility is to configure a shipping promotion by creating a campaign promotion. For more information, [read this article](/en/docs/tutorials/campaign-promotion).

@@ -30,7 +30,7 @@ In this section you will be able to create promotions, campaign audience, gift c
 
 Soon to be included in the redesigned Admin:
 
-- [Campaign audience](/en/tutorial/creating-campaign-audiences--6cnuDZJzIkIeocewAQQK4K): definitions of target audience that can be used as a promotion criterion.   
-- [Gift cards](/en/tutorial/gift-card--tutorials_995): considered a payment method on the VTEX platform.   
-- [Tax](/en/tutorial/creating-surchargestaxes--tutorials_321): an additional percentage added to the price of the product, aiming to increase the value.  
+- [Campaign audience](/en/docs/tutorials/creating-a-campaign-audience): definitions of target audience that can be used as a promotion criterion.   
+- [Gift cards](/en/docs/tutorials/gift-card): considered a payment method on the VTEX platform.   
+- [Tax](/en/docs/tutorials/creating-surchargestaxes): an additional percentage added to the price of the product, aiming to increase the value.  
 

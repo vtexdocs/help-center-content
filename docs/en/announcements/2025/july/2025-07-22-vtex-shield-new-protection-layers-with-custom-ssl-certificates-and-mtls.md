@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: "VTEX Shield now offers custom SSL certificates and mTLS, expanding the platform's set of advanced security features."
 ---
 
-[VTEX Shield](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh) is an add-on product that provides customizable security layers for your store in addition to the security standards guaranteed by existing [certifications and security practices](https://vtex.com/us-en/security/security-practices/) on VTEX.
+[VTEX Shield](/en/docs/tutorials/vtex-shield) is an add-on product that provides customizable security layers for your store in addition to the security standards guaranteed by existing [certifications and security practices](https://vtex.com/us-en/security/security-practices/) on VTEX.
 
 We've enhanced the advanced security features offered by VTEX Shield. Now, you can request two new features:
 
@@ -27,15 +27,15 @@ These new features increase control over system communication, meeting security 
 
 ## What has changed?
 
-VTEX Shield already offered [Web Application Firewall (WAF)](/en/tutorial/web-application-firewall-waf--6BZYLlU03ws72iqIFF6jdn), [Security Monitor](/en/tutorial/security-monitor--5LOVNLrrtmgSj99pM1NS4x), and [Data Protection Plus](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh#data-protection-plus) as additional security layers. Now, you can also select custom SSL certificates and the mTLS protocol, as described below.
+VTEX Shield already offered [Web Application Firewall (WAF)](/en/docs/tutorials/web-application-firewall-waf), [Security Monitor](/en/docs/tutorials/security-monitor), and [Data Protection Plus](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh#data-protection-plus) as additional security layers. Now, you can also select custom SSL certificates and the mTLS protocol, as described below.
 
 ### Custom SSL certificates
 
-By default, VTEX uses [SSL certificates](/en/tutorial/security-certificate-ssl--tutorials_1308) from the [Let's Encrypt](https://letsencrypt.org/) certificate authority. However, some stores need to maintain direct control over digital certificates to meet specific compliance or security requirements.
+By default, VTEX uses [SSL certificates](/en/docs/tutorials/security-certificate-ssl) from the [Let's Encrypt](https://letsencrypt.org/) certificate authority. However, some stores need to maintain direct control over digital certificates to meet specific compliance or security requirements.
 
 With custom SSL certificates, stores with specific security or compliance needs can install and manage their own custom certificates directly through the VTEX Admin.
 
-Learn more in [Custom SSL certificates](/en/tutorial/custom-ssl-certificates--1hoaDEbU50PDZSe6AYep9q).
+Learn more in [Custom SSL certificates](/en/docs/tutorials/custom-ssl-certificates).
 
 ### Mutual Transport Layer Security (mTLS)
 
@@ -43,7 +43,7 @@ The mTLS protocol offers enhanced protection in integrations between VTEX and ex
 
 Unlike the traditional TLS protocol, where only the server proves its identity, mTLS ensures mutual authentication by requiring [both the client and the server to present valid certificates](/en/tutorial/mutual-transport-layer-security-mtls--6YR3SoynJMfeEKGlY1Cqlo#client-server-architecture) before exchanging information. This practice reduces the risk of malicious or unauthorized connections.
 
-Learn more in [Mutual Transport Layer Security (mTLS)](/en/tutorial/mutual-transport-layer-security-mtls--6YR3SoynJMfeEKGlY1Cqlo).
+Learn more in [Mutual Transport Layer Security (mTLS)](/en/docs/tutorials/mutual-transport-layer-security-mtls).
 
 ## Why did we make this change?
 

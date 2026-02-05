@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-VTEX DO manages tasks automatically created by the VTEX Admin that require manual action by the ecommerce team. To access it, log in to your VTEX Admin, go to **Orders > [All orders](/en/tutorial/lista-de-pedidos--2QTduKHAJMFIZ3BAsi6Pi)**, and click on the inbox icon in the bottom right corner of the page. By clicking on the icon, a modal will display the list of tasks related to the store's orders. 
+VTEX DO manages tasks automatically created by the VTEX Admin that require manual action by the ecommerce team. To access it, log in to your VTEX Admin, go to **Orders > [All orders](/en/docs/tutorials/all-orders)**, and click on the inbox icon in the bottom right corner of the page. By clicking on the icon, a modal will display the list of tasks related to the store's orders. 
 
 ![VTEX Do overview EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/vtex-do-interface_1.gif)
 
@@ -81,7 +81,7 @@ Tasks managed through VTEX DO can include messages from all VTEX systems. Some e
   <tr>
    <td>Authorizing an order with price divergence
    </td>
-   <td>The order was generated with an amount different from the configured [price divergence rule](/en/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW).
+   <td>The order was generated with an amount different from the configured [price divergence rule](/en/docs/tutorials/price-divergence-rule).
    </td>
    <td>Go to **Task details** and click **View details** > authorize or cancel the order on the **Order details** page.
    </td>
@@ -97,7 +97,7 @@ Tasks managed through VTEX DO can include messages from all VTEX systems. Some e
   <tr>
    <td>An error occurred while generating the recurring order
    </td>
-   <td>[Subscription](/en/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj) orders are often not authorized due to problems with the buyer's credit card. We suggest that your store's Customer Service Center contact the customer to offer support.
+   <td>[Subscription](/en/docs/tutorials/how-to-configure-subscriptions) orders are often not authorized due to problems with the buyer's credit card. We suggest that your store's Customer Service Center contact the customer to offer support.
    </td>
    <td>Go to **Task details** and click **View details** > authorize or cancel the order on the **Order details** page.
    </td>

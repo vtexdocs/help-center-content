@@ -29,4 +29,4 @@ Only Samsung Pay users will be able to make purchases using this payment method,
 
 By accessing SmartCheckout and selecting Samsung Pay as payment method, customers simply need to authorize the purchase via biometric identification or app password.
 
-For more details, check out the article on [how to configure Samsung Pay as a payment method in your store](/en/tutorial/configurar-samsung-pay-como-meio-de-pagamento--5Yj9rgzOCVYuGmAumQlfpP).
+For more details, check out the article on [how to configure Samsung Pay as a payment method in your store](/en/docs/tutorials/configuring-samsung-pay-as-a-payment-method).

@@ -24,7 +24,7 @@ We created the **Promotion Simulator** to give merchants more autonomy to manage
 
 ## What's new?
 
-From now on, the **Promotion Simulator** will be available for all VTEX stores via [Cartman](/en/tutorial/configure-cartman--1ACMTStZYkMqB0lTgwg451), an auxiliary tool for merchants at checkout. The simulator allows you to:
+From now on, the **Promotion Simulator** will be available for all VTEX stores via [Cartman](/en/docs/tutorials/configure-cartman), an auxiliary tool for merchants at checkout. The simulator allows you to:
 
 * **View the promotions** applicable or applied to each item in the cart and the condition to activate them.
 * **Manage existing promotions** through the cart.
@@ -36,9 +36,9 @@ From now on, the **Promotion Simulator** will be available for all VTEX stores v
 
 ## What needs to be done?
 
-No action is required, as the **Promotion Simulator** is now available in all VTEX stores via [Cartman](/en/tutorial/configure-cartman--1ACMTStZYkMqB0lTgwg451).
+No action is required, as the **Promotion Simulator** is now available in all VTEX stores via [Cartman](/en/docs/tutorials/configure-cartman).
 
-Users must have a [role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) authorized to access the **Promotions** module in the VTEX Admin to access the **Promotion Simulator**. 
+Users must have a [role](/en/docs/tutorials/roles) authorized to access the **Promotions** module in the VTEX Admin to access the **Promotion Simulator**. 
 
 To start using the simulator, follow these instructions:
 
@@ -52,4 +52,4 @@ To start using the simulator, follow these instructions:
 
    In the new window, you will see the details of promotions applied and not applied to the cart.
 
-Check out the [Promotion Simulator](/en/tutorial/promotion-simulator-beta--4zc8SNqjqeIJ0ZRMhjlnvy) guide for more details on how to use the new tool.
+Check out the [Promotion Simulator](/en/docs/tutorials/promotions-simulator-beta) guide for more details on how to use the new tool.

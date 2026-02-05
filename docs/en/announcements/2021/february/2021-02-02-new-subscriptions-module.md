@@ -64,7 +64,7 @@ Previously, in the VTEX system, a subscription consisted of an SKU linked to a p
 
 ![img7 subscriptions EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/february/2021-02-02-new-subscriptions-module_7.png)
 
-The subscription now consists of an SKU list and a particular purchase configuration. This means that we have removed the concept of Subscription Groups from our system. For more information, read our article [How subscription works](/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453). The diagram below shows our new subscription concept:
+The subscription now consists of an SKU list and a particular purchase configuration. This means that we have removed the concept of Subscription Groups from our system. For more information, read our article [How subscription works](/en/docs/tutorials/how-subscriptions-work). The diagram below shows our new subscription concept:
 
 #### Now:
 ![img8 subscriptions EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/february/2021-02-02-new-subscriptions-module_8.png)
@@ -77,4 +77,4 @@ We also changed the way of calculating the subscription order cycle date. Users 
 Remember that if your store does not use our APIs in their integrations, no adaptation is needed on your side. The implementation will be automatic. 
 If you are a retailer or partner that used our subscriptions API, please note that every subscription API route previously defined will be replaced by new ones. You will be assisted by the VTEX team during the entire migration process, ensuring a seamless transition to the new module. Check out our [Integration with the New Subscription Module Guide](https://developers.vtex.com/vtex-developer-docs/docs/subscriptions-v3-migration-guide). 
 
-> ℹ️ You can request the new Subscriptions UI by contacting our customer [support](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM). Your store needs to enable and install [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) in order to use the new UI.
+> ℹ️ You can request the new Subscriptions UI by contacting our customer [support](/en/docs/tutorials/opening-tickets-to-vtex-support). Your store needs to enable and install [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) in order to use the new UI.

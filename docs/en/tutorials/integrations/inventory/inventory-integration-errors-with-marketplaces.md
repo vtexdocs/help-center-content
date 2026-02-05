@@ -19,7 +19,7 @@ Inventory integration errors may occur in marketplaces for which VTEX has develo
 
 To see which inventory integration errors are most common in a given marketplace and how to solve them, click on the name of the marketplace:
 
-- [Amazon](/en/tutorial/erros-de-integracao-de-estoque-com-a-amazon--3t05cXK2vDbKCA6rifMMWj)
+- [Amazon](/en/docs/tutorials/amazon-inventory-integration-errors)
 - Mercado Livre (LATAM only)
 - Via (Brazil only)
 - Magazine Luiza (Brazil only)
@@ -28,4 +28,4 @@ To see which inventory integration errors are most common in a given marketplace
 
 | **LEARN MORE** |
 | ---------- |
-|For more information on marketplaces and growth opportunities, check out the article [Marketplace strategies at VTEX](/en/tutorial/integrando-com-marketplace--tutorials_402).|
+|For more information on marketplaces and growth opportunities, check out the article [Marketplace strategies at VTEX](/en/docs/tutorials/marketplace-strategies-at-vtex).|

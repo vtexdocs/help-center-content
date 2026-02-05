@@ -92,7 +92,7 @@ Save 20% on shirts of multiple departments.
 
 Purchase a sweater and save 50% on a classic or contemporary long sleeve shirt.
 
-- “Purchase a sweater and save 50%” on another item makes this a [Buy Together Promotion](/en/tutorial/buy-together--tutorials_323).
+- “Purchase a sweater and save 50%” on another item makes this a [Buy Together Promotion](/en/docs/tutorials/buy-together).
 - “Sweater and classic or contemporary long sleeve shirt” are items this benefit will be applied to.
 
 > ⚠️ The Buy Together Promotion works only with a percentage discount.
@@ -101,7 +101,7 @@ Purchase a sweater and save 50% on a classic or contemporary long sleeve shirt.
 
 Purchase any sweater and receive a specific pair of socks and purchase two sweaters and receive two specific pair of socks.
 
-- “Purchase a sweater and receive a specific sock” makes this a [Buy One Get One - Gift](/en/tutorial/buy-one-get-one--tutorials_322).
+- “Purchase a sweater and receive a specific sock” makes this a [Buy One Get One - Gift](/en/docs/tutorials/buy-one-get-one).
 - “Sweater” is a collection or the items this benefit will be applied to.
 - “Sock” is the gift of the promotion.
 - To “get one sock for every purchased sweater” is a restriction that can be included with the minimum quantity of the sweater.
@@ -110,7 +110,7 @@ Purchase any sweater and receive a specific pair of socks and purchase two sweat
 
 Purchase six specific pair of socks and get one free.
 
-- “Purchase six specific pair of socks and get one free” makes this a [Buy One Get One - Gift](/en/tutorial/buy-one-get-one--tutorials_322).
+- “Purchase six specific pair of socks and get one free” makes this a [Buy One Get One - Gift](/en/docs/tutorials/buy-one-get-one).
 
 - “Sock” is the specific product and the gift of the promotion.
 
@@ -120,7 +120,7 @@ Purchase six specific pair of socks and get one free.
 
 Purchase two long-sleeve knits and receive 20% off or purchase three short sleeve knits and receive 30% off.
 
-- “Purchase two long-sleeve knits and receive 20% off” or “purchase three short sleeve knits and receive 30% off” makes this a [Progressive Discount](/en/tutorial/progressive-discount--tutorials_324).
+- “Purchase two long-sleeve knits and receive 20% off” or “purchase three short sleeve knits and receive 30% off” makes this a [Progressive Discount](/en/docs/tutorials/progressive-discount).
 
 - “Two long-sleeve knits with 20% off" or "three short sleeve knits with 30% off” are restrictions that you can configure by entering the minimum SKU quantities and related discounts.
 
@@ -135,13 +135,13 @@ Save $50 for every $300 spent.
 ## Scenario 16
 Spend $500 and get an individual coupon code with a 20% off to be used on the next purchase.
 
-- “20% off” makes this a [Regular Promotion - Percentage reward value](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). The reward credit is transferred to a [Gift Card](/en/tutorial/gift-card--tutorials_995).
+- “20% off” makes this a [Regular Promotion - Percentage reward value](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). The reward credit is transferred to a [Gift Card](/en/docs/tutorials/gift-card).
 - “Spend $500” is a restriction that can be included with the minimum value of the order setting.
 
 ## Scenario 17
 Buy 3 basic T-shirts and pay for only 1.
 
-- The Buy 3 basic T-shirts and pay for only 1 promotion is an example of a [More for Less offer](/en/tutorial/leve-mais-por-menos--tutorials_325).
+- The Buy 3 basic T-shirts and pay for only 1 promotion is an example of a [More for Less offer](/en/docs/tutorials/creating-a-more-for-less-promotion).
 - To configure this promotion, set it so that when a customer buys 3 basic T-shirts, they receive 2 of them with a 100% discount.
 - Alternatively, you can apply a 67% percentage discount across the 3 items, which simulates the same final benefit.
 - You can define conditions such as 3 basic T-shirts with a 67% discount or 3 basic T-shirts with 2 free units. Both options can be configured based on the minimum quantity of items and the corresponding discount.
@@ -149,19 +149,19 @@ Buy 3 basic T-shirts and pay for only 1.
 ## Related articles
 -   [Creating Regular Promotions](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI)
 
--   [Regular Promotion fields](/en/tutorial/regular-promotion--tutorials_327)
+-   [Regular Promotion fields](/en/docs/tutorials/regular-promotion)
 
 -   [Promotions for specific scenarios](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy)
 
--   [Creating a Buy Together promotion](/en/tutorial/buy-together--tutorials_323)
+-   [Creating a Buy Together promotion](/en/docs/tutorials/buy-together)
 
--   [Creating More for Less promotion](/en/tutorial/creating-more-for-less-promotion--tutorials_325)
+-   [Creating More for Less promotion](/en/docs/tutorials/creating-a-more-for-less-promotion)
 
--   [How the progressive discount works](/en/tutorial/progressive-discount--tutorials_324)
+-   [How the progressive discount works](/en/docs/tutorials/progressive-discount)
 
--   [How the Buy One Get One (BoGo) promotion works](/en/tutorial/buy-one-get-one--tutorials_322)
+-   [How the Buy One Get One (BoGo) promotion works](/en/docs/tutorials/buy-one-get-one)
 
 -   [Restricting promotional products in cart](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#restricting-promotional-products-in-cart)
 
--   [Setting up Gift cards](/en/tutorial/how-to-configure-gift-cards--tutorials_995)
+-   [Setting up Gift cards](/en/docs/tutorials/gift-card)
 

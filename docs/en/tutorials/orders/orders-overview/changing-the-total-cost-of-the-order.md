@@ -15,14 +15,14 @@ locale: en
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-The [Order Details page](/en/tutorial/order-details-page-beta--2Y75n54Cc9VizrlG1N6ZNl) allows you to change the final cost of orders that have not yet been invoiced. This occurs when there are discounts or additions to the order total.
+The [Order Details page](/en/docs/tutorials/order-details-page) allows you to change the final cost of orders that have not yet been invoiced. This occurs when there are discounts or additions to the order total.
 
 > ⚠️ Remember that this feature is only available for orders whose status is `Preparing delivery`.
 
 To make the change, follow the steps below:
 
 1. In the VTEX Admin, go to **Orders > All Orders**, or type **All Orders** in the search bar at the top of the page.    
-2. Search for the order by using the search bar [or the filters](/en/tutorial/como-filtrar-pedidos--tutorials_192) and select the desired order.    
+2. Search for the order by using the search bar [or the filters](/en/docs/tutorials/filtering-all-orders) and select the desired order.    
 3. Click the order to access the **Order details page**.        
 4. Go to the **Total cost of the order** section on the right side of the Order Details page.    
 5. Click `Change final cost`.    
@@ -42,4 +42,4 @@ When changing or removing items from an order, the order total changes. In this 
 
 The order total will be updated once the invoice is added, corresponding to what is captured by the VTEX payment gateway. The VTEX Payments system will automatically refund the customer if an item is returned.
 
-> ℹ️ The partial invoices feature is available to all VTEX stores, but the partial settlement in the gateway is in beta. Besides, for partial invoices to trigger partial settlements in the transaction, it is necessary to use a connector with the [Payment Provider Protocol](/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). Legacy connectors do not support the functionality.
+> ℹ️ The partial invoices feature is available to all VTEX stores, but the partial settlement in the gateway is in beta. Besides, for partial invoices to trigger partial settlements in the transaction, it is necessary to use a connector with the [Payment Provider Protocol](/en/docs/tutorials/payment-provider-protocol). Legacy connectors do not support the functionality.

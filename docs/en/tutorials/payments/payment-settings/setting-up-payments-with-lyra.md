@@ -41,7 +41,7 @@ To configure LyraNetwork, follow the steps below:
 3. Click __Lyra__ option.
 4. On the configuration page, activate the condition by clicking __Status__.
 5. If you want to use an anti-fraud system, check the __Use anti-fraud solution__ option.
-6. If necessary, you can also [configure special payment conditions](/en/tutorial/special-conditions--tutorials_456).
+6. If necessary, you can also [configure special payment conditions](/en/docs/tutorials/special-conditions).
 7. Click `Save`.
 
 After following the indicated steps, Lyra may take up to 10 minutes to appear at your store's checkout as a payment option.

@@ -17,7 +17,7 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 
 > ℹ️ If you are already a VTEX customer and wish to adopt this functionality for your business, please contact [Commercial Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you are not yet a customer but are interested in this solution, please fill out the [contact form](https://vtex.com/us-en/contact/).
 
-The [VTEX Pick and Pack](/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA) mobile app helps the picker — the person who picks and packs items in the facility — handle orders, from picking to shipping. This makes the store's order picking and delivery flow smoother and more efficient.
+The [VTEX Pick and Pack](/en/docs/tutorials/vtex-pick-and-pack-fulfillment) mobile app helps the picker — the person who picks and packs items in the facility — handle orders, from picking to shipping. This makes the store's order picking and delivery flow smoother and more efficient.
 
 ![pickpack-mobile-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-mobile_1.png)
 
@@ -86,9 +86,9 @@ To create a worksheet, follow the steps below:
 To search for an order, enter the order ID in the search bar. To filter the order list, tap  and select one or more of the following options:
 
 - Delivery Date
-- [Categories](/en/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg)
-- [Payment Methods](/en/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q)
-- [Shipping Strategy](/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)
+- [Categories](/en/docs/tutorials/what-is-a-category)
+- [Payment Methods](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions)
+- [Shipping Strategy](/en/docs/tutorials/shipping-strategy)
 - Shipment Type
 
 ## Picking items
@@ -300,7 +300,7 @@ To finish packing, tap `Confirm Packing`.
 
 #### Learn more
 
-- [VTEX Pick and Pack](/en/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU)
-- [VTEX Pick and Pack: FAQ](/en/tutorial/vtex-pick-and-pack-faq--2Rvf9vTS35vmOhkE2i0xcs)
-- [VTEX Pick and Pack: Settings](/en/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9)
+- [VTEX Pick and Pack](/en/docs/tutorials/vtex-pick-and-pack)
+- [VTEX Pick and Pack: FAQ](/en/docs/tutorials/vtex-pick-and-pack-faq)
+- [VTEX Pick and Pack: Settings](/en/docs/tutorials/vtex-pick-and-pack-settings)
 

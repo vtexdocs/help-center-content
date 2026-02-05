@@ -87,13 +87,13 @@ Check out more details in our [FAQ about the Orders management module](/en/tutor
 
 ### Order again
 
-All VTEX stores have the [My account](/en/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh) feature. 
+All VTEX stores have the [My account](/en/docs/tutorials/how-my-account-works) feature. 
 
 This tool allows you to monitor the order status in the after-sales flow and carry out operations such as: “Order again”, which allows placing the same order again.  
 
 ![Order again](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/practical-guides/facilitating-b2b-store-operation_1.png)
 
-For more details on “My Account,” check out the tutorial on [how to configure this feature](/en/tutorial/configurar-o-my-account--23Ayv5D6b86UBnYfoXqZL1).
+For more details on “My Account,” check out the tutorial on [how to configure this feature](/en/docs/tutorials/setting-up-my-account).
 
 ### Order replacement
 

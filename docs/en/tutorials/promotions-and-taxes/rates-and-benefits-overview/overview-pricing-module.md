@@ -26,7 +26,7 @@ There are four departments within this module responsible for configuring each o
 
 A campaign audience is a way of defining the target audience to which a benefit can be applied. In other words, you can create customer segments based on the definition of some criteria that will be eligible for a given campaign audience and consequently one or more benefits. A campaign audience can be associated with one or more campaign benefits.
 
-[Learn how to create a campaign audiences.](/en/tutorial/como-criar-campanhas--6cnuDZJzIkIeocewAQQK4K)
+[Learn how to create a campaign audiences.](/en/docs/tutorials/creating-a-campaign-audience)
 
 ## Benefits
 

@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-> ⚠️ This is a regional exclusive content not applicable to English speaking countries. The English speaking countries version version is available at [Accounts Payable - International.](/en/tutorial/accounts-payable-international--3yea9sIlsA0KgUC28ASCGs)
+> ⚠️ This is a regional exclusive content not applicable to English speaking countries. The English speaking countries version version is available at [Accounts Payable - International.](/en/docs/tutorials/accounts-payable-international)

@@ -50,11 +50,11 @@ Let's set up a carrier to deliver from the local warehouse of one of your physic
 
 1. In the VTEX Admin of the desired franchise account, go to **Shipping** > __Shipping Strategy__, or type __Shipping Strategy__ in the search bar at the top of the page.
 2. Click the `Create shipping policy` button.
-3. Fill in the carrier's data according to the article [Adding a carrier](/en/tutorial/cadastrar-transportadora--tutorials_140).
+3. Fill in the carrier's data according to the article [Adding a carrier](/en/docs/tutorials/shipping-policy).
 
 #### Connect carriers to the physical store inventory
 
 Now you need to inform the VTEX system which is the warehouse from which products will leave to be delivered by the carrier added in the previous step.
 
-1. Add a loading dock, as described in [this article](/en/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW). In the __Associated shipping policies__ field, add the carrier that you created in the previous section of this guide.
-2. Create a warehouse following the steps in the article [Adding a warehouse](/en/tutorial/geristar-estoque--tutorials_137). In the __Origin__ section, link the loading dock you created in the previous step.
+1. Add a loading dock, as described in [this article](/en/docs/tutorials/managing-loading-docks). In the __Associated shipping policies__ field, add the carrier that you created in the previous section of this guide.
+2. Create a warehouse following the steps in the article [Adding a warehouse](/en/docs/tutorials/managing-warehouses). In the __Origin__ section, link the loading dock you created in the previous step.

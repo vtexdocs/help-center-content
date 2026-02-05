@@ -29,7 +29,7 @@ To implement an Endless Aisle strategy, you must add your physical stores to the
 
 To do this, follow the steps in the article [Managing physical stores and sales associates in VTEX Sales App](/en/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN).
 
-An important point of attention when registering a new store is the [Trade Policy](/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) applied to it. It defines which assortment of products will be valid for the store.
+An important point of attention when registering a new store is the [Trade Policy](/en/docs/tutorials/creating-a-trade-policy) applied to it. It defines which assortment of products will be valid for the store.
 
 If the store's main Trade Policy is also used to sell on marketplaces, you must use a different Trade Policy for VTEX Sales App. Otherwise, the payment methods `Direct Selling Debit` and `Direct Selling Credit`, configured for VTEX Sales App, will also be displayed at the checkout of marketplaces.
 

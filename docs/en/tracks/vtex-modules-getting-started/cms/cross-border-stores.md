@@ -51,7 +51,7 @@ Since a cross-border store can have multiple bindings and reach shoppers worldwi
 
 - [How to create a multistore / multidomain?](/en/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.105681227.937537057.1646651653-1001456323.1619912759)
 
-- [What is binding?](/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W)
+- [What is binding?](/en/docs/tutorials/what-is-binding)
 
-- [How trade policies work?](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
+- [How trade policies work?](/en/docs/tutorials/how-trade-policies-work)
 

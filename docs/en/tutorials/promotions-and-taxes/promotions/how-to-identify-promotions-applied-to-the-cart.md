@@ -69,11 +69,11 @@ Follow the step-by-step instructions to find the `orderForm` and identify the pr
 
 ## Promotions Simulator (Beta)
 
-The Promotions Simulator is a tool that allows you to see not only the promotions created in the VTEX platform and which were applied to the shopping cart, but also their activation conditions. Since there are multiple configurations for the promotions, it is important to be able to see the [competition](/en/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270), the combination of promotions during the purchase and the causes that trigger them.
+The Promotions Simulator is a tool that allows you to see not only the promotions created in the VTEX platform and which were applied to the shopping cart, but also their activation conditions. Since there are multiple configurations for the promotions, it is important to be able to see the [competition](/en/docs/tutorials/how-promotion-competition-works), the combination of promotions during the purchase and the causes that trigger them.
 
-For more information, read the [Promotions Simulator (Beta)](/en/tutorial/simulador-de-promocoes-beta--4zc8SNqjqeIJ0ZRMhjlnvy) article.
+For more information, read the [Promotions Simulator (Beta)](/en/docs/tutorials/promotions-simulator-beta) article.
 
 ## Learn more
 
 * [How promotions work](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N)
-* [How to identify promotions attributed to an SKU?](/en/tutorial/how-to-identify-promotions-attributed-to-an-sku--frequentlyAskedQuestions_4813)
+* [How to identify promotions attributed to an SKU?](/en/docs/tutorials/how-to-identify-promotions-attributed-to-an-sku)

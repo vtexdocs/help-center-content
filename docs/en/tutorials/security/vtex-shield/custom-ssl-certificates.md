@@ -15,9 +15,9 @@ locale: en
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
-> ℹ️ This feature is part of [VTEX Shield](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). If you are already a VTEX customer and want to adopt VTEX Shield for your business, please contact [Commercial Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you are not yet a customer but are interested in this solution, please complete our [contact form](https://vtex.com/br-pt/contato/).
+> ℹ️ This feature is part of [VTEX Shield](/en/docs/tutorials/vtex-shield). If you are already a VTEX customer and want to adopt VTEX Shield for your business, please contact [Commercial Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you are not yet a customer but are interested in this solution, please complete our [contact form](https://vtex.com/br-pt/contato/).
 
-By default, VTEX uses [SSL certificates](/en/tutorial/security-certificate-ssl--tutorials_1308) issued by [Let's Encrypt](https://letsencrypt.org/), an open-source solution widely adopted in the market. This approach guarantees security, reliability, and compatibility with most browsers.
+By default, VTEX uses [SSL certificates](/en/docs/tutorials/security-certificate-ssl) issued by [Let's Encrypt](https://letsencrypt.org/), an open-source solution widely adopted in the market. This approach guarantees security, reliability, and compatibility with most browsers.
 
 However, some stores require custom SSL certificates for specific compliance reasons, internal security requirements, or certification entities that offer additional warranties.
 
@@ -37,7 +37,7 @@ The page displays the following information in a table:
 
 Before installing a custom certificate, the following requirements must be met:
 
-* Be a user associated with a [role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) from the [License Manager resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) listed below to view and manage the information on the page:
+* Be a user associated with a [role](/en/docs/tutorials/roles) from the [License Manager resources](/en/docs/tutorials/license-manager-resources) listed below to view and manage the information on the page:
 
   * **Product:** *CDN API*
   * **Category:** *Certificate management*
@@ -65,7 +65,7 @@ The installation may take 7 days to complete, and during this time, the status o
 
 ## Learn more
 
-* [VTEX Shield](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
-* [Configuring the store domain](/en/tutorial/configuring-the-store-domain--tutorials_2450)
+* [VTEX Shield](/en/docs/tutorials/vtex-shield)
+* [Configuring the store domain](/en/docs/tutorials/configuring-the-store-domain)
 * [Go-live](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj)
 * [Error installing custom SSL certificate](/en/tutorial/error-installing-custom-ssl-certificate--6hgFzbcc96mcrqXZMmHCTr)

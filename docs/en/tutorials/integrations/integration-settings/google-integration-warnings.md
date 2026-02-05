@@ -40,19 +40,19 @@ Below are the required fields and how to complete them:
 **Price:** Required field that must be completed by entering the price type you want to display in Google Shopping.
 To identify the SKU price integration error with Google, see the documentation [Checking integrations](/en/tutorial/verificando-integracao-no-bridge/#preco).  
 
-**Availability:** Required field. If the integration of a SKU shows an error, see [Inventory management](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) and [Warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).   
+**Availability:** Required field. If the integration of a SKU shows an error, see [Inventory management](/en/docs/tutorials/managing-stock-items) and [Warehouse](/en/docs/tutorials/warehouse).   
 
 > ℹ️ A product description differs from the title or product name.  
 
-**EAN/UPC:** Required field in the [Catalog module](/en/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe) that must be completed with the SKU's unique identification code (barcode) with up to 13 numeric characters.  
+**EAN/UPC:** Required field in the [Catalog module](/en/docs/tutorials/catalog-overview) that must be completed with the SKU's unique identification code (barcode) with up to 13 numeric characters.  
 
-**Manufacturer code:** Required field in the [Catalog module](/en/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe) that must be completed with the code provided by the manufacturer to identify their product. If a product has a specific code, this field must be completed.  
+**Manufacturer code:** Required field in the [Catalog module](/en/docs/tutorials/catalog-overview) that must be completed with the code provided by the manufacturer to identify their product. If a product has a specific code, this field must be completed.  
 
 > ℹ️ The codes EAN/UPC and Manufacturer's code are required when selling manufactured products. See when to apply the [EAN/UPC](https://support.google.com/merchants/answer/6324461?hl=pt-BR&ref_topic=6324338&sjid=10867212756007821438-SA) or the [Manufacturer's Code](https://support.google.com/merchants/answer/6324482?hl=pt-BR&ref_topic=6324338&sjid=10867212756007821438-SA) to a product.   
 
 **Size:** Required field only for clothing products that correspond to the category [ID1604](https://support.google.com/merchants/answer/6324492?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) and footwear that correspond to the category [ID187](https://support.google.com/merchants/answer/6324492?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) on Google. If applicable to your product, enter the SKU size.  
 
-The Size field is a [custom field](/en/tutorial/criando-um-campo-de-produto--tutorials_106) and must be created by the seller. See below the field name and type.  
+The Size field is a [custom field](/en/docs/tutorials/adding-specifications-or-product-fields) and must be created by the seller. See below the field name and type.  
 
 |**Field name**|**Field type**|
 |:---:|:---:|
@@ -62,7 +62,7 @@ This field type supports alphanumeric values such as ** S, M, L, XL, 9.5, 10, 6.
 
 **Color:** Required field only for clothing items and accessories that correspond to [category ID166](https://support.google.com/merchants/answer/6324487?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) on Google. If applicable to your product, enter the SKU color.  
 
-The Color field is a [custom field](/en/tutorial/criando-um-campo-de-produto--tutorials_106) and must be created by the seller. See below the field name and type.  
+The Color field is a [custom field](/en/docs/tutorials/adding-specifications-or-product-fields) and must be created by the seller. See below the field name and type.  
 
 | **Field name** | **Field type** |
 |:---:|:---:|
@@ -74,7 +74,7 @@ This field type supports alphanumeric values such as **Green, Black, Yellow, Pin
 
 **Gender:** Required field only for clothing items and accessories that correspond to [category ID166](https://support.google.com/merchants/answer/6324479?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) on Google. If applicable to your product, enter the SKU gender.  
 
-The Gender field is a [custom field](/en/tutorial/criando-um-campo-de-produto--tutorials_106) and must be created by the seller. See below the field name and type.  
+The Gender field is a [custom field](/en/docs/tutorials/adding-specifications-or-product-fields) and must be created by the seller. See below the field name and type.  
 
 | **Field name** | **Field type** | **Field value** |
 |:---:|:---:|:---:|
@@ -84,7 +84,7 @@ This field requires entering predefined values. Only the values listed under fie
 
 **Age Group:** Required field for clothing items and accessories that correspond to [category ID166](https://support.google.com/merchants/answer/6324463?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1#:~:text=Veja%20a%20seguir%20os%20valores%20aceitos%20para%20este%20atributo%3A) on Google. If applicable to your product, enter the SKU age group.  
 
-The **Age group** field is a [custom field](/en/tutorial/criando-um-campo-de-produto--tutorials_106) and must be created by the seller. See below the field name and type.  
+The **Age group** field is a [custom field](/en/docs/tutorials/adding-specifications-or-product-fields) and must be created by the seller. See below the field name and type.  
 
 | **Field name** | **Field type** | **Field value** |
 |---|---|---|

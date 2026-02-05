@@ -25,7 +25,7 @@ After completing the step above, you can configure Alelo as a payment method in 
 
 As with any payment method, configuring Alelo also allows you to add special conditions. However, these are optional and not adding them will not hinder the proper functioning of the voucher card. 
 
-For more details, you can check out our tutorial on [how to configure each of the special payment conditions](/en/tutorial/condicoes-especiais--tutorials_456). 
+For more details, you can check out our tutorial on [how to configure each of the special payment conditions](/en/docs/tutorials/special-conditions). 
 
 Follow the instructions below:
 

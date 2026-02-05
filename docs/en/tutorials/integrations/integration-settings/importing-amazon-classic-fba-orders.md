@@ -19,14 +19,14 @@ There are three types of logistics configuration to fulfill orders placed on Ama
 
 - [Self Ship](#self-ship)  
 - [FBA Classic](#FBA-Classic-(-Fulfillment-by-Amazon)) 
-- FBA Onsite, to learn about the program and integration with VTEX, check out the documentation on [Importing FBA Onsite orders](/en/tutorial/importacao-de-pedidos-amazon-fba-onsite--7gNpMDDchHo29fu3Sbvl1n) 
-- DBA (learn more about the program and the integration with VTEX by reading the [Amazon DBA order import](/en/tutorial/importacao-de-pedidos-amazon-dba--1um6EfKlALGsHzERbH7jig) documentation)  
+- FBA Onsite, to learn about the program and integration with VTEX, check out the documentation on [Importing FBA Onsite orders](/en/docs/tutorials/importing-amazon-fba-onsite-orders) 
+- DBA (learn more about the program and the integration with VTEX by reading the [Amazon DBA order import](/en/docs/tutorials/importing-amazon-dba-orders) documentation)  
 
 The seller can use Self Ship, FBA, and DBA simultaneously or only one of the logistics options, considering the eligibility of the products for the respective programs. Regardless of using only one or more logistics options, through the VTEX Admin, you can track and manage all orders placed.  
 
 ## Self Ship  
 
-*Selfship* is the logistics strategy in which the seller is responsible for the entire fulfillment process, from product picking to delivery. To configure this option, you should follow the steps described in the[ Creating a trade policy](/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) and [Defining a shipping policy in Amazon](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#definicao-da-estrategia-de-envio) steps.  
+*Selfship* is the logistics strategy in which the seller is responsible for the entire fulfillment process, from product picking to delivery. To configure this option, you should follow the steps described in the[ Creating a trade policy](/en/docs/tutorials/creating-a-trade-policy) and [Defining a shipping policy in Amazon](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#definicao-da-estrategia-de-envio) steps.  
 
 ## FBA Classic (Fulfillment by Amazon)  
 
@@ -42,7 +42,7 @@ Follow the steps to activate this service in the VTEX integration:
 
 ### 1. Creating a product specification  
 
-First, to set up your FBA Classic products, you need to [add a product specification](/en/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) called __AMAZON_CHANNEL__ so that you indicate your product's shipping type to Amazon. In this way, you indicate to Amazon the type of shipment of the product.  
+First, to set up your FBA Classic products, you need to [add a product specification](/en/docs/tutorials/adding-specifications-or-product-fields) called __AMAZON_CHANNEL__ so that you indicate your product's shipping type to Amazon. In this way, you indicate to Amazon the type of shipment of the product.  
 
 The values required will vary according to product segmentation:  
 
@@ -52,16 +52,16 @@ The values required will vary according to product segmentation:
 After creating the product specification, your product will be available for FBA Classic orders. If you want to change the shipping type of this product, you need to change the specification value.  
 
 ### 2. Defining a shipping strategy for FBA Classic orders   
-> ℹ️ You need to ensure that the [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) you choose is specifically for Amazon to guarantee that another integration will not use the inventory you create. 
+> ℹ️ You need to ensure that the [trade policy](/en/docs/tutorials/how-trade-policies-work) you choose is specifically for Amazon to guarantee that another integration will not use the inventory you create. 
 
-Then you need to create a dedicated [shipping strategy](/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) for FBA Classic orders, telling us how you want your products to be delivered. Doing so will not affect the shipping strategy already defined in the "Defining a shipping strategy" on Amazon step.  
+Then you need to create a dedicated [shipping strategy](/en/docs/tutorials/shipping-strategy) for FBA Classic orders, telling us how you want your products to be delivered. Doing so will not affect the shipping strategy already defined in the "Defining a shipping strategy" on Amazon step.  
 
 Follow the steps below to create a specific shipping strategy:  
 
   1.	Create a [shipping policy](/en/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio) associated with the trade policy used in the Amazon integration.  
-  2.	Create a [dock](/en/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW) associated with the trade policy used in the Amazon integration.  
-  3.	Create a [warehouse](/en/tutorial/gerenciar-estoque--tutorials_137) associated with the loading dock you created in the previous step.  
-  4.	Go to the [Inventory Management](/en/tutorial/managing-stock-items--tutorials_139) page, find the warehouse created in the previous step, and activate the Unlimited inventory field.
+  2.	Create a [dock](/en/docs/tutorials/managing-loading-docks) associated with the trade policy used in the Amazon integration.  
+  3.	Create a [warehouse](/en/docs/tutorials/managing-warehouses) associated with the loading dock you created in the previous step.  
+  4.	Go to the [Inventory Management](/en/docs/tutorials/managing-stock-items) page, find the warehouse created in the previous step, and activate the Unlimited inventory field.
 
 ### 3. Configuring FBA Classic in the Amazon integration  
 

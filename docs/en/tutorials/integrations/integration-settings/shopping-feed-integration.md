@@ -78,7 +78,7 @@ To create a feed, follow the steps below:
    - Enable **Include test orders** if you want test orders to be imported into VTEX as well.  
    - In the field `Date from which to import orders`, fill in the date of the first order import.   
    - In the field `Shipment by Channel Sales Policy`, fill in which shipping policy should be associated with the integration of the channel you are registering.    
-6. Click the `Add` button and fill in the **[VTEX Shipping Policy](/en/tutorial/creating-a-shipping-policy--66rJO4LKBdyMJOH6Z3dsaT)** and **Shopping Feed Courier** fields.  
+6. Click the `Add` button and fill in the **[VTEX Shipping Policy](/en/docs/tutorials/creating-a-shipping-policy)** and **Shopping Feed Courier** fields.  
 7. Click the `Save` button.  
 
 ![config app shopping feed](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/shopping-feed-integration_3.png)

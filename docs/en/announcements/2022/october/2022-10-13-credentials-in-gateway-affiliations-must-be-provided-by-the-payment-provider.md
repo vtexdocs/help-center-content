@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Credentials in gateway affiliations created in the Admin must be replaced by October 31 for security reasons'
 ---
 
-When configuring [gateway affiliations](/en/tutorial/registering-gateway-affiliations--tutorials_444) in the Admin to make payments available in your store, you must enter the following credentials to identify your store for the payment provider: **Application Key** and **Application Token**. These credentials have the same function as user and password and must be provided by the payment provider.
+When configuring [gateway affiliations](/en/docs/tutorials/registering-gateway-affiliations) in the Admin to make payments available in your store, you must enter the following credentials to identify your store for the payment provider: **Application Key** and **Application Token**. These credentials have the same function as user and password and must be provided by the payment provider.
 
 ## What has changed?
 
@@ -25,8 +25,8 @@ If your store has any gateway affiliations configured with a pair of **Applicati
 
 ## Why did we make this change?
 
-Using the **Application Key** and **Application Token** generated in the Admin in gateway affiliations can pose a security risk, as keys are being shared to access services from a VTEX store. The [role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) assigned to a credential defines which [store resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) a given user can access. Depending on the role, anyone with access to the credentials can access the allowed resources improperly. You can check the instructions in the [Application Keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) article to disable an **Application Key** if needed.
+Using the **Application Key** and **Application Token** generated in the Admin in gateway affiliations can pose a security risk, as keys are being shared to access services from a VTEX store. The [role](/en/docs/tutorials/roles) assigned to a credential defines which [store resources](/en/docs/tutorials/license-manager-resources) a given user can access. Depending on the role, anyone with access to the credentials can access the allowed resources improperly. You can check the instructions in the [Application Keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) article to disable an **Application Key** if needed.
 
 ## What needs to be done?
 
-The payment provider must provide the credentials for the affiliation being configured. The keys must be replaced by April 30, 2023. You can find the instructions for configuring them in the [Registering gateway affiliations](/en/tutorial/registering-gateway-affiliations--tutorials_444) article.
+The payment provider must provide the credentials for the affiliation being configured. The keys must be replaced by April 30, 2023. You can find the instructions for configuring them in the [Registering gateway affiliations](/en/docs/tutorials/registering-gateway-affiliations) article.

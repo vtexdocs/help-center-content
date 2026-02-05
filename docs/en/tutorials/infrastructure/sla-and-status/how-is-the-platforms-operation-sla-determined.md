@@ -34,5 +34,5 @@ To identify unstable scenarios, we recommend checking the [VTEX Status](https://
 
 ## Learn more
 
-- [VTEX status page](/en/tutorial/vtex-status-page--gPhqDn9IQ3c67wbJEX3JJ)
+- [VTEX status page](/en/docs/tutorials/vtex-status-page)
 

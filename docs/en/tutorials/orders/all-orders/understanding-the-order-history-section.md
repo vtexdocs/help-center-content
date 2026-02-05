@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-In [order details page](/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), the **Order History** section includes order details such as the order workflow, payment method used, emails exchanged with the customer and the possibility of including comments.
+In [order details page](/en/docs/tutorials/order-details-page), the **Order History** section includes order details such as the order workflow, payment method used, emails exchanged with the customer and the possibility of including comments.
 
 Its main purpose is to illustrate the entire flow that occurred with the order, so as to easily identify deviations from standard behavior or to easily identify order information.
 

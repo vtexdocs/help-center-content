@@ -83,12 +83,12 @@ To manage the files of your Web Site, you may access this directory. In it, you 
 - [What is binding?](/en/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete)
 
 ### Guides
-- [Creating and editing a page template](/en/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850): Learn how to create a page template. A page template is a model designed to define an HTML structure for displaying page content.
+- [Creating and editing a page template](/en/docs/tutorials/how-to-create-a-page-template): Learn how to create a page template. A page template is a model designed to define an HTML structure for displaying page content.
 
 - [Associating a template with a layout](/en/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK?&utm_source=autocomplete): Associate a template with a layout using the Sites and Channels folder.
 
-- [Managing placeholders](/en/tutorial/gerenciandoplaceholders--29Y7r9JqcWIqmGipReGLQI): A placeholder is a configurable snippet of code that meets conditions defined by the store. Learn how to insert and configure a placeholder, for example, a banner on your store’s homepage.
+- [Managing placeholders](/en/docs/tutorials/managing-placeholders): A placeholder is a configurable snippet of code that meets conditions defined by the store. Learn how to insert and configure a placeholder, for example, a banner on your store’s homepage.
 
 - [Using VTEX's native controls](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/7mGkGmo8l6wf4fXJCkWwPi?&utm_source=autocomplete): Controls are snippets of codes that you can use in your website's templates to perform specific actions. For example, you can use a control on a product page to display the product name.
 
-- [What is the purpose of the Customized Control?](/en/tutorial/what-is-the-purpose-of-the-customized-control--frequentlyAskedQuestions_627): In addition to VTEX's native controls, you can create your own controls.
+- [What is the purpose of the Customized Control?](/en/docs/tutorials/what-is-the-purpose-of-the-customized-control): In addition to VTEX's native controls, you can create your own controls.

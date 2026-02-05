@@ -27,7 +27,7 @@ Once your account authentication is complete, sending products to Facebook will 
 - Product condition
 - Availability
 
-The update is automatic and will be performed whenever changes are made to any of details. It's important to note that the value for “currency” is defined in the trade policy, and that “availability” refers only to whether there are products available or not, because there is no inventory control. For more information, see [How inventory availability works on the product page](/en/tutorial/como-funciona-a-disponibilidade-de-estoque-na-pagina-de-produto--gyVfuG5dTyUyGA02iiU0y).
+The update is automatic and will be performed whenever changes are made to any of details. It's important to note that the value for “currency” is defined in the trade policy, and that “availability” refers only to whether there are products available or not, because there is no inventory control. For more information, see [How inventory availability works on the product page](/en/docs/tutorials/how-inventory-availability-works-on-the-product-page).
 
 If you want to send product attributes to Facebook, you need to complete an additional step. Attributes are product [specifications](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP), i.e., properties that can be added either for products or SKUs.
 
@@ -105,7 +105,7 @@ Custom labels are useful for:
 
 ### Setup
 
-You need to create custom labels on Facebook Business Manager. After creating them, follow the [Adding product specifications or fields](/en/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) tutorial to link them to a specific offer using **product specifications**.
+You need to create custom labels on Facebook Business Manager. After creating them, follow the [Adding product specifications or fields](/en/docs/tutorials/adding-specifications-or-product-fields) tutorial to link them to a specific offer using **product specifications**.
 
 Add the following value when creating the new product specification field:
 

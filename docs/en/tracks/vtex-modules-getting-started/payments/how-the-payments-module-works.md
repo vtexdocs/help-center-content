@@ -53,7 +53,7 @@ Therefore, the **sub-acquirer** can be considered an middleman between acquirer 
 
 Sub-acquirers examples: Paypal and PagSeguro.
 
-To learn more about the [advantages and disadvantages of including a sub-acquirer in your flow](/en/tutorial/difference-between-acquires-sub-acquirers-and-gateways--1dyPJ3gQCCO4ea2o6OMgCi), check out our article.
+To learn more about the [advantages and disadvantages of including a sub-acquirer in your flow](/en/docs/tutorials/what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil), check out our article.
 
 ## Card brands
 Card brands are companies that are responsible for defining the business rules for purchases made with credit cards_, such as the number of installments you can split a payment on and the facilities in which it is accepted, nationally and internationally.
@@ -85,7 +85,7 @@ Anti-fraud examples: ClearSale and Konduto.
 ## PCI SSC certification
 PCI Security Standards Council is an open global forum for the continued development, enhancement, storage, dissemination and implementation of data protection security standards.
 
-[The VTEX platform has its own **PCI-certified** gateway](/en/tutorial/what-is-pci-ssc--4jo3Vkox3amSO2w4qIWa0E), meaning that data from all payments made in your store is protected according to the highest security standards.
+[The VTEX platform has its own **PCI-certified** gateway](/en/docs/tutorials/what-is-the-pci-ssc), meaning that data from all payments made in your store is protected according to the highest security standards.
 
-If you want to learn more about the concepts of gateway, acquirer, sub-acquirer, brand, issuing banks and anti-fraud, check out our [article on financial agents in Brazil](/en/tutorial/financial-agents-explained--1dyPJ3gQCCO4ea2o6OMgCi).
+If you want to learn more about the concepts of gateway, acquirer, sub-acquirer, brand, issuing banks and anti-fraud, check out our [article on financial agents in Brazil](/en/docs/tutorials/what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil).
 

@@ -32,7 +32,7 @@ Besides searching for orders in **Orders > All Orders**, you can search for orde
 
 ## Viewing the Details of an Order
 
-Clicking on an order takes you to the [order details](/en/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl) screen, where you can review a range of order information and perform some actions, such as:
+Clicking on an order takes you to the [order details](/en/docs/tutorials/order-details-page) screen, where you can review a range of order information and perform some actions, such as:
 - Resend the last email to the customer.
 - Manually cancel the order.
 - Invoice the order items.

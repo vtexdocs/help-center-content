@@ -85,10 +85,10 @@ Dimensions are the options available for filtering, grouping, and comparing data
 | 1P / 3P | 1P, or first-party, determines the metrics of the store itself. 3P, or third party, determines the metrics of third parties. For example, by selecting the Orders metric and filtering by 3P, you'll see orders from third parties, i.e., your sellers, in the list and in the chart. |
 | Campaign | Name of the campaigns created in the VTEX Admin. |
 | Coupon | Name of the coupons created in the VTEX Admin. |
-| Trade policy | Name of the [trade policies](/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) in your store. The filter will apply each policy’s strategy and sales channels. |
-| Promotions | Name of the [promotions](/en/tutorial/promotion-examples--5A8UTc7knvAscxo7e7rMFD) created in the VTEX Admin. |
-| UTM Campaign | Name of the [UTM](/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) Campaigns for your campaigns. |
-| UTM Source | Name of the [UTM](/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) Sources to track the traffic source on your ecommerce store. |
+| Trade policy | Name of the [trade policies](/en/docs/tutorials/how-trade-policies-work) in your store. The filter will apply each policy’s strategy and sales channels. |
+| Promotions | Name of the [promotions](/en/docs/tutorials/promotion-examples) created in the VTEX Admin. |
+| UTM Campaign | Name of the [UTM](/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium) Campaigns for your campaigns. |
+| UTM Source | Name of the [UTM](/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium) Sources to track the traffic source on your ecommerce store. |
 
 ## Metrics
 Both the chart and the list display the metrics of your store based on data from the Order Management (OMS) module. The metrics are divided into:

@@ -15,13 +15,13 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Managing pages in Store Framework CMS requires a role with the "CMS Settings" resource.'
 ---
 
-[Pages](/en/tutorial/pages-overview--5iBUUJbK5NqG6OxlDrGNzc) is a Store Framework CMS feature that manages all URL routes and corresponding page templates of your store’s website, such as home, product, and login page. For security purposes, we now require Admin users to have specific permission to manage the routes and page templates with this feature.
+[Pages](/en/docs/tutorials/pages-overview) is a Store Framework CMS feature that manages all URL routes and corresponding page templates of your store’s website, such as home, product, and login page. For security purposes, we now require Admin users to have specific permission to manage the routes and page templates with this feature.
 
 > ⚠️ As [announced before](/en/announcements/2023-08-31-new-permission-required-to-manage-redirects-in-store-framework-cms), the `CMS Settings` role was already required to manage redirects with Store Framework CMS.
 
 ## What has changed?
 
-To allow Admin users to create, edit, and remove URL routes and corresponding page templates, they must have a role with the [License Manager](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **CMS Settings** resource.
+To allow Admin users to create, edit, and remove URL routes and corresponding page templates, they must have a role with the [License Manager](/en/docs/tutorials/license-manager-resources) **CMS Settings** resource.
 
 ## Why did we make this change?
 

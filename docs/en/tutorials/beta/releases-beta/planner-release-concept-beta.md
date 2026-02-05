@@ -19,7 +19,7 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 
 Managing an ecommerce operation requires the retailer to perform a series of store updates to the store, which are often interconnected. For example, carrying out an advertising campaign in which different storefront elements need to be configured.
 
-The **Releases** is the VTEX module that allows the retailers to [manage their releases](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW) in order to coordinate the planning, creation, scheduling and publication of changes to the store. 
+The **Releases** is the VTEX module that allows the retailers to [manage their releases](/en/docs/tutorials/planner-actions-on-releases-beta) in order to coordinate the planning, creation, scheduling and publication of changes to the store. 
 
 A release means a change or a group of changes that can be published together. The main benefits of using releases are:
 
@@ -32,12 +32,12 @@ A release means a change or a group of changes that can be published together. T
 
 The feature can be accessed through the VTEX Admin **Releases** navigation menu, where you'll find the following pages:
 
-* [Calendar](/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C): Allows you to manage scheduled releases, with a weekly or monthly view.
-* [Releases](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw): Allows you to manage all releases, with a list view.
+* [Calendar](/en/docs/tutorials/planner-calendar-page-beta): Allows you to manage scheduled releases, with a weekly or monthly view.
+* [Releases](/en/docs/tutorials/planner-releases-page-beta): Allows you to manage all releases, with a list view.
 
 ## Status of releases
 
-A release can have different statuses from its creation to its publication or deletion, for example. On the [Calendar](/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C) and [Releases](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) pages, the status of each release is displayed associated with a color, as shown in the table below:
+A release can have different statuses from its creation to its publication or deletion, for example. On the [Calendar](/en/docs/tutorials/planner-calendar-page-beta) and [Releases](/en/docs/tutorials/planner-releases-page-beta) pages, the status of each release is displayed associated with a color, as shown in the table below:
 
 | **Status** | **Color** | **Definition** |
 |:---:|:---:|:---:|
@@ -51,6 +51,6 @@ A release can have different statuses from its creation to its publication or de
 
 ## Learn more
 
-* [Releases: Actions on releases](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW)
-* [Releases: Calendar page](/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C)
-* [Releases: Releases page](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw)
+* [Releases: Actions on releases](/en/docs/tutorials/planner-actions-on-releases-beta)
+* [Releases: Calendar page](/en/docs/tutorials/planner-calendar-page-beta)
+* [Releases: Releases page](/en/docs/tutorials/planner-releases-page-beta)

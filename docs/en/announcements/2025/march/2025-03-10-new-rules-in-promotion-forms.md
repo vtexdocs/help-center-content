@@ -54,8 +54,8 @@ No action is required. The improvements are automatically applied to the new for
 
 For more information, check the following articles:
 
-- [Buy Together](/en/tutorial/compre-junto--tutorials_323)
-- [Buy One Get One](/en/tutorial/compre-e-ganhe--tutorials_322)
-- [Progressive discount](/en/tutorial/desconto-progressivo--tutorials_324)
-- [More for Less](/en/tutorial/leve-mais-por-menos--tutorials_325)
+- [Buy Together](/en/docs/tutorials/buy-together)
+- [Buy One Get One](/en/docs/tutorials/buy-one-get-one)
+- [Progressive discount](/en/docs/tutorials/progressive-discount)
+- [More for Less](/en/docs/tutorials/creating-a-more-for-less-promotion)
 

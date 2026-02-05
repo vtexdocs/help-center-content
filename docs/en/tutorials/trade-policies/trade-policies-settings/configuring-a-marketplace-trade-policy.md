@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 5AxJjgQO1Uc0kWKMwyi08W
 ---
 
-On the VTEX platform, you can use [trade policies](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) to group catalog, prices, promotions, logistics, customer segmentation and payment settings for different sales strategies. Stores that operate as sellers configure trade policies to apply specific conditions for each marketplace in which they sell products. 
+On the VTEX platform, you can use [trade policies](/en/docs/tutorials/how-trade-policies-work) to group catalog, prices, promotions, logistics, customer segmentation and payment settings for different sales strategies. Stores that operate as sellers configure trade policies to apply specific conditions for each marketplace in which they sell products. 
 
 Learn how you can configure trade policies in the following modules when your store operates as a seller.
 
@@ -28,7 +28,7 @@ Learn how you can configure trade policies in the following modules when your st
 - [Shipping strategy](#shipping-strategy)  
 - [Integrations](#integrations)  
 
-To [request additional trade policies](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), contact our Growth Operations team through *[Support](https://supporticket.vtex.com/support)* by selecting **Commercial** and `Create a trade policy`.
+To [request additional trade policies](/en/docs/tutorials/requesting-an-additional-trade-policy), contact our Growth Operations team through *[Support](https://supporticket.vtex.com/support)* by selecting **Commercial** and `Create a trade policy`.
 
 Requesting additional trade policies to integrate with [native connectors](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex), [certified connectors](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-certified-connector-partner), or other VTEX stores is free of charge.
 
@@ -37,12 +37,12 @@ For each additional trade policy, a monthly fee is charged, whether it is used f
 ## Store setup
 Creating a new trade policy is the first step in defining the conditions that apply to each marketplace in which a seller operates. Sellers can create multiple trade policies, or apply the same policy to more than one marketplace.
 
-This configuration can be done in the *Store setup* module, on the *Trade policies* page. You must [create a new trade policy](/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) when the settings for catalog, price, promotions, logistics and payments are different between the marketplaces in which sellers sell their products. 
+This configuration can be done in the *Store setup* module, on the *Trade policies* page. You must [create a new trade policy](/en/docs/tutorials/creating-a-trade-policy) when the settings for catalog, price, promotions, logistics and payments are different between the marketplaces in which sellers sell their products. 
 
 ![EN Add Politica comercial](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/trade-policies/trade-policies-settings/configuring-a-marketplace-trade-policy_1.jpg)
 
 ## Orders management
-After creating a trade policy, you must associate it with each marketplace in which the seller sells products by adding them as [affiliates](/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0). This is how sellers identify which trade policy operates in each marketplace. If your store sells products in three different marketplaces, you must create three affiliates: one for each marketplace.
+After creating a trade policy, you must associate it with each marketplace in which the seller sells products by adding them as [affiliates](/en/docs/tutorials/what-is-an-affiliate). This is how sellers identify which trade policy operates in each marketplace. If your store sells products in three different marketplaces, you must create three affiliates: one for each marketplace.
 
 This can be configured in the *Settings* page of the *Order management* module, where you can add affiliates. Even if you create several, it is important to note that only one trade policy will operate in the marketplace at a time. 
 
@@ -64,9 +64,9 @@ If no trade policy is selected, the promotion will be available in all sales cha
 *In the example above, the promotion will only apply to orders from the "Marketplace-BRL" and "Argentina-ARS" trade policies, where the store operates as a seller. The promotion will not be available on the VTEX storefront.* 
 
 ## Payments
-Sellers who process payment for their product sales in a marketplace can create [special payment conditions](/en/tutorial/condicoes-especiais--tutorials_456) and apply them to specific marketplaces by using trade policies. If you want your store to offer more financing options for orders placed on partner marketplaces, you must create a special condition and associate it with the trade policy in place on these marketplaces.
+Sellers who process payment for their product sales in a marketplace can create [special payment conditions](/en/docs/tutorials/special-conditions) and apply them to specific marketplaces by using trade policies. If you want your store to offer more financing options for orders placed on partner marketplaces, you must create a special condition and associate it with the trade policy in place on these marketplaces.
 
-This configuration can be done in the *Payments* module by [creating a special condition](/en/tutorial/condicoes-especiais--tutorials_456) and associating it with the trade policies of your choice.
+This configuration can be done in the *Payments* module by [creating a special condition](/en/docs/tutorials/special-conditions) and associating it with the trade policies of your choice.
 
 ![EN Pagamento Politica comercial](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/trade-policies/trade-policies-settings/configuring-a-marketplace-trade-policy_4.jpg)
 
@@ -88,7 +88,7 @@ Sellers can define a different pricing strategy for each marketplace in which th
 
 This configuration can be done in the *Prices* module by means of trade policies. When entering prices for their products, sellers must take into account that each trade policy is created with its own price table. To differentiate prices between trade policies, you can use:
 
-- [Price rules](/en/tutorial/configurar-regra-de-preco-para-politica-comercial--5LQMLwcUcEGCWK6SMI6cEM): to determine a markup for specific categories and brands.
+- [Price rules](/en/docs/tutorials/configuring-a-pricing-rule-for-a-sales-policy): to determine a markup for specific categories and brands.
 - [Fixed prices](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy): to differentiate prices for specific products.
 
 ![EN Regra de preço](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/trade-policies/trade-policies-settings/configuring-a-marketplace-trade-policy_6.jpg)
@@ -118,7 +118,7 @@ Trade policies also apply to all integrations in which your store sells products
 
 ## Learn more
 
-- [Creating a trade policy](/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)  
-- [How trade policies work](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)  
-- [Marketplace strategies at VTEX](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402)
+- [Creating a trade policy](/en/docs/tutorials/creating-a-trade-policy)  
+- [How trade policies work](/en/docs/tutorials/how-trade-policies-work)  
+- [Marketplace strategies at VTEX](/en/docs/tutorials/marketplace-strategies-at-vtex)
 

@@ -61,7 +61,7 @@ When the search is by keyword, the search engine undergoes a search of the __ind
 __Ranking System:__
 This algorithm uses the concept of ranking (Score) to prioritize and order products. For each search, the indexer allocates a score to products based on the search term. Some basic fields (having different weight) are considered when calculating this ranking. The shop window display is created according to this ranking, from highest to lowest, meaning that the product with the highest score displayed first, while the one with the lowest score, last.
 
-> ℹ️ For more information, see the article [How does the Score field work?](/en/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
+> ℹ️ For more information, see the article [How does the Score field work?](/en/docs/tutorials/how-does-the-score-field-work).
 
 ## How the search is done
 
@@ -118,5 +118,5 @@ Result:
 **Hint:** The use of __substitute words__, in spite of their low indexer score weight, is an extremely important feature. With this feature, it is possible to reach users that search for grammatically incorrect terms, but with the same semantics. 
 
 ## Read more
- - [How does the Score field work](/en/tutorial/how-does-the-score-field-work--1BUZC0mBYEEIUgeQYAKcae)
+ - [How does the Score field work](/en/docs/tutorials/how-does-the-score-field-work)
 

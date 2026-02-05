@@ -49,11 +49,11 @@ All the features available on the page will be described in the following sectio
 To add a new promotion, click the `Create Promotion` button. Then, you can select the following types of promotions: 
 
 - [Regular](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI)
-- [Buy Together - Bundle](/en/tutorial/compre-junto--tutorials_323)
-- [More for Less](/en/tutorial/leve-mais-por-menos--tutorials_325)
-- [Progressive Discount](/en/tutorial/desconto-progressivo--tutorials_324)
-- [Buy One Get One](/en/tutorial/compre-e-ganhe--tutorials_322)
-- [Campaign Promotion](/en/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume)
+- [Buy Together - Bundle](/en/docs/tutorials/buy-together)
+- [More for Less](/en/docs/tutorials/creating-a-more-for-less-promotion)
+- [Progressive Discount](/en/docs/tutorials/progressive-discount)
+- [Buy One Get One](/en/docs/tutorials/buy-one-get-one)
+- [Campaign Promotion](/en/docs/tutorials/campaign-promotion)
 
 ## Archived promotions
 
@@ -94,7 +94,7 @@ By default, the maximum number of active promotions is 100. If you need to incre
 
 The promotion list can be filtered according to your needs by using the following filters:
 
-- **Discount type:** The type of discount that will be applied to the promotion. The options are: [Regular](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Buy Together - Bundle](/en/tutorial/buy-together--tutorials_323), [More for Less](/en/tutorial/creating-a-more-for-less-promotion--tutorials_325), [Progressive Discount](/en/tutorial/progressive-discount--tutorials_324), [Buy One Get One](/en/tutorial/buy-one-get-one--tutorials_322), and [Campaign Promotion](/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume).
+- **Discount type:** The type of discount that will be applied to the promotion. The options are: [Regular](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Buy Together - Bundle](/en/docs/tutorials/buy-together), [More for Less](/en/docs/tutorials/creating-a-more-for-less-promotion), [Progressive Discount](/en/docs/tutorials/progressive-discount), [Buy One Get One](/en/docs/tutorials/buy-one-get-one), and [Campaign Promotion](/en/docs/tutorials/campaign-promotion).
 - **Status:** The status of the promotion. The options are: `Active`, `Scheduled`, `Paused`, and `Completed`.
 - **Last modified:** Last update history for the last 12 months, 3 months, 30 days, 7 days, or the day before the query.
 - **Trade policy:** Trade policy under which the promotion will be applied.
@@ -112,5 +112,5 @@ By clicking on the <i class="fas fa-ellipsis-v"></i> icon in a promotion, you ca
 - <i class="fas fa-archive"></i> __Archive:__ archive the promotion. The promotion will automatically be moved to the *[Archived Promotions](#archived-promotions)* page.
 
 #### Learn more
-- [What are utm_source, utm_campaign, and utm_medium](/en/tutorial/o-que-sao-utm-source-utm-campaign-e-utm-medium--2wTz7QJ8KUG6skGAoAQuii)
+- [What are utm_source, utm_campaign, and utm_medium](/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium)
 

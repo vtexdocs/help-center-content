@@ -21,7 +21,7 @@ It returns relevant results from the user's first interaction with the store thr
 
 In this track, we will present the necessary steps to configure and begin using Intelligent Search in your VTEX store.
 
-> ℹ️ Explore all available features and learn more about the tool's behavior in the section [Intelligent Search - Overview](/en/tutorial/intelligent-search-overview--5o8ixTpYIxx3uJD0B1xp3z).
+> ℹ️ Explore all available features and learn more about the tool's behavior in the section [Intelligent Search - Overview](/en/docs/tutorials/intelligent-search-overview).
 
 ## Requirements
 

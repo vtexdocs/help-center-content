@@ -72,4 +72,4 @@ To create a fixed price via API, use the [Create or update price or fixed price]
 
 ### Learn more
 
-* [Scheduling prices](/en/tutorial/scheduling-prices--4vVha6TGzYkguWuMOqCcCk)
+* [Scheduling prices](/en/docs/tutorials/scheduling-prices)

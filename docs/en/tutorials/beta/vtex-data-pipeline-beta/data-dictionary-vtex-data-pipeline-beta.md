@@ -43,15 +43,15 @@ Each section contains information such as the following:
 The following sections will help you understand how the data relates to your business and how relevant it is to your project.  
 The available datasets are:  
 
-- [Catalog](/en/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
-- [Inventory](/en/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
-- [Navigation](/en/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd) 
-- [Payments](/en/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs) 
-- [Orders](/en/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)  
-- [Prices](/en/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)
-- [Promotions](/en/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)  
-- [Gift cards](/en/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Bridge logs](/en/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
-- [Marketplace in](/en/tutorial/marketplace-in-data-pipeline--4L3hlSqsnxGqVyxmoYvjTV)
-- [Cart Availability](/en/tutorial/disponibilidade-de-carrinho-data-pipeline--1TU6rsMUlwmSoVVLs6Oom0)
+- [Catalog](/en/docs/tutorials/catalog-data-pipeline)
+- [Inventory](/en/docs/tutorials/inventory-data-pipeline-beta)
+- [Navigation](/en/docs/tutorials/navigation-data-pipeline) 
+- [Payments](/en/docs/tutorials/payments) 
+- [Orders](/en/docs/tutorials/orders-data-pipeline-beta)  
+- [Prices](/en/docs/tutorials/prices-data-pipeline-beta)
+- [Promotions](/en/docs/tutorials/promotions)  
+- [Gift cards](/en/docs/tutorials/gift-card-data-pipeline)
+- [Bridge logs](/en/docs/tutorials/bridge-logs-data-pipeline)
+- [Marketplace in](/en/docs/tutorials/marketplace-in-data-pipeline)
+- [Cart Availability](/en/docs/tutorials/cart-availability-data-pipeline)
 

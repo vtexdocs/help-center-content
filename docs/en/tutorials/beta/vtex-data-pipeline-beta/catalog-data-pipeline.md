@@ -36,7 +36,7 @@ In this section you will find the following information:
 
 | **Characteristic** | **Description** |  
 |:---:|:---:|  
-| **Data Source** | The data is obtained from the [catalog module](/en/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe). |  
+| **Data Source** | The data is obtained from the [catalog module](/en/docs/tutorials/catalog-overview). |  
 | **Availability** | The data can be accessed in the VTEX Admin. |  
 | **History** | The available data starts from February 2025. |  
 | **Minimum Possible Update Interval** | One hour. |
@@ -203,11 +203,11 @@ Catalog data is strongly connected to various other data models. Here are some n
 
 ### Discover other Datasets
 
-- [Inventory](/en/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)   
-- [Payments](/en/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
-- [Orders](/en/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
-- [Prices](/en/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-- [Promotions](/en/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Gift cards](/en/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Bridge logs](/en/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Inventory](/en/docs/tutorials/inventory-data-pipeline-beta)   
+- [Payments](/en/docs/tutorials/payments)  
+- [Orders](/en/docs/tutorials/orders-data-pipeline-beta) 
+- [Prices](/en/docs/tutorials/prices-data-pipeline-beta)  
+- [Promotions](/en/docs/tutorials/promotions)
+- [Gift cards](/en/docs/tutorials/gift-card-data-pipeline)
+- [Bridge logs](/en/docs/tutorials/bridge-logs-data-pipeline)
 

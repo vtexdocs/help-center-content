@@ -24,17 +24,17 @@ To identify the problem, perform a [shipping simulation](/en/tutorial/simulacao-
 Here are the most common problems that cause SLA errors:
 
 - **Out of stock:** when one or more SKUs in the order are unavailable. For more information, see the article [Out-of-stock errors in marketplace integration orders](/en/tutorial/erros-de-falta-de-estoque-em-pedidos-de-integracao-com-marketplace--s1i5OCcPFslrMkZJLDnfP#).
-- **Item not in collection or trade policy:** check if the SKU is marked correctly in the collection or trade policy defined for the marketplace. Learn more in the article [Associate a SKU to a trade policy](/en/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb).
+- **Item not in collection or trade policy:** check if the SKU is marked correctly in the collection or trade policy defined for the marketplace. Learn more in the article [Associate a SKU to a trade policy](/en/docs/tutorials/associate-a-sku-to-a-trade-policy).
 - **Delivery zip code not covered by the shipping strategy:** when the delivery of the order to a given address is not included in your [shipping policy](/en/tutorial/politica-de-envio--tutorials_140?&utm_source=autocomplete).
-- **Loading dock not associated with trade policy:** when [adding the dock](/en/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW), you must link it with the trade policy defined for the marketplace.
+- **Loading dock not associated with trade policy:** when [adding the dock](/en/docs/tutorials/managing-loading-docks), you must link it with the trade policy defined for the marketplace.
 - **Inactive SKU:** the SKU is not active, which prevents it from being integrated. Check the status of the item in your Admin, in _Catalog > Products and SKUs._
 
 After resolving the error, the order must be manually reprocessed. In your Admin, go to **Marketplace > Connections > Orders** and click on the order with the error. Click on the **Actions** button and choose the **Reprocess** option.
 
-> ℹ️ If the error persists, open a [VTEX support ticket](/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+> ℹ️ If the error persists, open a [VTEX support ticket](/en/docs/tutorials/opening-tickets-to-vtex-support).
 
 ### Learn more
 
-- [Out-of-stock errors in marketplace integration orders](/en/tutorial/erros-de-falta-de-estoque-em-pedidos-de-integracao-com-marketplace--s1i5OCcPFslrMkZJLDnfP)
+- [Out-of-stock errors in marketplace integration orders](/en/docs/tutorials/out-of-stock-errors-in-marketplace-integration-orders)
 - [Shipping Simulator](/en/tutorial/simulacao-de-frete)
-- [Resolution of price divergence errors in marketplace integration orders](/en/tutorial/resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace--6MbmPX4SKyRkcTJxVhRna8)
+- [Resolution of price divergence errors in marketplace integration orders](/en/docs/tutorials/troubleshooting-price-divergence-errors-in-marketplace-orders)

@@ -30,7 +30,7 @@ To set up the Holidays, follow the steps below:
 **Holidays** feature will only be valid for carriers configured to allow these settings. To make the carrier eligible for holiday setup, follow the steps below:
 
 1. In the VTEX Admin, go to **Shipping > Shipping Strategy**, or type *Shipping Strategy* in the search bar at the top of the page.  
-2. On the `Shipping Policies` tab, select the [shipping policy](/en/tutorial/politica-de-envio--tutorials_140) associated with the given carrier.
+2. On the `Shipping Policies` tab, select the [shipping policy](/en/docs/tutorials/shipping-policy) associated with the given carrier.
 3. In the **Weekends and Holidays** section, make sure the option `Holiday delivery` disabled <i class="fas fa-toggle-off"></i>.
 4. Click on `Save`.
 
@@ -40,7 +40,7 @@ To set up the Holidays, follow the steps below:
 
 The shipping time calculated for an order is based on the sum of two factors:
 
-- **Picking time**: The time the store operator takes to make the order items available to the [carrier](/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE).
+- **Picking time**: The time the store operator takes to make the order items available to the [carrier](/en/docs/tutorials/carriers-on-vtex).
 - **Delivery time**: The time it takes for the carrier to deliver the order to the end customer.
 
 `Picking time + Delivery time = Order shipping time`
@@ -55,7 +55,7 @@ From a technical standpoint, holidays are considered in the `shippingEstimateDat
 2. Tuesday (02/06) is a holiday.
 3. The estimated delivery date will be Thursday (02/08), as Tuesday will not be considered a business day.
 
-> ⚠️ There is one exception in which the holiday counts as a business day: when the customer places an order on a holiday and the carrier has shipping hours set ([Shipping Window](/en/tutorial/carrier-working-hours--2oGpbInIgdxSWUi3TZjdCS)) for that same day.
+> ⚠️ There is one exception in which the holiday counts as a business day: when the customer places an order on a holiday and the carrier has shipping hours set ([Shipping Window](/en/docs/tutorials/carrier-working-hours)) for that same day.
 
 ### Example 2
 

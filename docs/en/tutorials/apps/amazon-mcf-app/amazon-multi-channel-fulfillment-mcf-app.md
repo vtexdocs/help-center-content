@@ -73,7 +73,7 @@ To configure this, please go to Admin and follow the steps below:
 
 In both steps 8 and 10, the key to be filled in is the Google geolocation key. To generate a key, [please refer to Google's developer guide on how to generate a key](https://developers.google.com/maps/documentation/geocoding/overview).
 
-> ℹ️ If you have questions about Google geolocation key, please read in detail how the VTEX platform uses this configuration in the articles [Setting up geolocation at checkout](/en/tutorial/geolocation-at-checkout--tutorials_4345) and [Registering geolocation](/en/tutorial/registering-geolocation--tutorials_138).
+> ℹ️ If you have questions about Google geolocation key, please read in detail how the VTEX platform uses this configuration in the articles [Setting up geolocation at checkout](/en/docs/tutorials/geolocation-at-checkout) and [Registering geolocation](/en/docs/tutorials/registering-geolocation).
 
 ### Installing the app
 

@@ -29,7 +29,7 @@ Our regular support hours are Monday through Friday, from 9am GMT+8 to 7pm GMT+8
 
 Keep in mind that our first response time calculation is based on working hours. The criteria for ticket urgency are defined in the section below.  
 
-> ⚠️ Emergency support will be available **exclusively** for Urgent requests and provided via [Zendesk tickets](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM). Urgent requests are defined as problems that directly prevent sales or the store’s operation, as described in [Ticket Urgency](#ticket-urgency).
+> ⚠️ Emergency support will be available **exclusively** for Urgent requests and provided via [Zendesk tickets](/en/docs/tutorials/opening-tickets-to-vtex-support). Urgent requests are defined as problems that directly prevent sales or the store’s operation, as described in [Ticket Urgency](#ticket-urgency).
 
 ## Ticket urgency
 

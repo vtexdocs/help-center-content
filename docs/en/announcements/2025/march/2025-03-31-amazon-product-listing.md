@@ -30,5 +30,5 @@ Now, although the process remains manual, listed attributes are validated before
 
 ## What needs to be done?
 
-The new module will be available to all [VTEX accounts acting as sellers](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) from March 31, 2025. To learn more about the module and list new products, see the [Amazon Listing](/en/tutorial/amazon-listing--5HIhbnYzJWkl2yM0o72WrL) tutorial.
+The new module will be available to all [VTEX accounts acting as sellers](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) from March 31, 2025. To learn more about the module and list new products, see the [Amazon Listing](/en/docs/tutorials/amazon-listing) tutorial.
 

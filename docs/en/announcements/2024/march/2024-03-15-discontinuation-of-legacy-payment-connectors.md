@@ -21,29 +21,29 @@ As another step in the process of [discontinuing legacy payment connectors](/en/
 | :---: | :---: |
 | Adyen | [AdyenV3](/en/tutorial/configuring-payment-with-adyenv3--7xAz67E2Eg63LWCQNjVdwv) |
 | AuthorizeNet/AuthorizeDotNet | - |
-| BankInvoiceItau/BankIssuedInvoiceItau | [MaxiPagoV4](/en/tutorial/setting-up-payments-with-maxipagov4--4pWPhTago6uDxjFMB6kln3) |
-| BankInvoiceSantander/BankIssuedInvoiceSantander | [Egetnet](/en/tutorial/setting-up-getnet-acquirer-with-egetnet-connector--75kwGKPKnK8mwiEmQGYiWq) |
-| Bradesco/RegisteredBankInvoiceBradesco | [ShopfacilPayment](/en/tutorial/configure-payment-with-shopfacil--4v3z3CLrgZ2bByMx7uoMeG) |
-| Braspag/BraspagV2 | [CieloEcommerce](/en/tutorial/setting-up-payments-with-cieloecommerce--6zuELBqEo0QzApbU4l7L4) |
-| Cielo/CieloV3 | [CieloEcommerce](/en/tutorial/setting-up-payments-with-cieloecommerce--6zuELBqEo0QzApbU4l7L4) |
+| BankInvoiceItau/BankIssuedInvoiceItau | [MaxiPagoV4](/en/docs/tutorials/setting-up-payments-with-maxipagov4) |
+| BankInvoiceSantander/BankIssuedInvoiceSantander | [Egetnet](/en/docs/tutorials/setting-up-getnet-acquirer-with-egetnet-connector) |
+| Bradesco/RegisteredBankInvoiceBradesco | [ShopfacilPayment](/en/docs/tutorials/configure-payment-with-shopfacil) |
+| Braspag/BraspagV2 | [CieloEcommerce](/en/docs/tutorials/setting-up-payments-with-cieloecommerce) |
+| Cielo/CieloV3 | [CieloEcommerce](/en/docs/tutorials/setting-up-payments-with-cieloecommerce) |
 | Credomatic | - |
-| CyberSource | [Cybersource IO](/en/tutorial/setting-up-cybersource-gateway--6nhvUTrLxeacsoYG6GkGM) |
-| Decidir/DecidirV1 | [Payway](/en/tutorial/setting-up-payments-with-payway--wHkvX7olfPPsAdeFq7obp) |
-| ERede/E-Rede V2/ERedeRest | [Itaú Rede](/en/tutorial/setting-up-payments-with-itau-rede--77BYOKxVzONWulAf8dTVSX) |
-| Firstdata | [Fiserv AR](/en/tutorial/setting-up-payments-with-fiserv-ar--1qF6HiMShBpMCyzz53edlx) or [Fiserv MX](/en/tutorial/setting-up-payments-with-fiserv-mx--3vcYUO1y0Zp9DWVI1AcvfK) |
-| ItauShopline | [MaxiPagoV4](/en/tutorial/setting-up-payments-with-maxipagov4--4pWPhTago6uDxjFMB6kln3) |
-| MaxiPago | [MaxiPagoV4](/en/tutorial/setting-up-payments-with-maxipagov4--4pWPhTago6uDxjFMB6kln3) |
-| MercadoPagoV1 | [MercadoPagoV2](/en/tutorial/setting-up-mercadopagov2-sub-acquirer--1y6k8lCSzJYfPs2yObNFo4) |
-| PagHiper | [PagHiperV2](/en/tutorial/setting-up-payments-with-paghiperv2--131E6zBcTTkzZtL82cZh1x) or [PagHiperV3](/en/tutorial/setting-up-payments-with-paghiperv3--1dYVbSK0yHNY5vp0gJj4fC) |
-| PagoEfectivo | [PagoEfectivoV2](/en/tutorial/setting-up-payments-with-pagoefectivov2--63Raoh7hlWoWbMJOAacfMV)  |
+| CyberSource | [Cybersource IO](/en/docs/tutorials/setting-up-cybersource-gateway) |
+| Decidir/DecidirV1 | [Payway](/en/docs/tutorials/setting-up-payments-with-payway) |
+| ERede/E-Rede V2/ERedeRest | [Itaú Rede](/en/docs/tutorials/setting-up-payments-with-itau-rede) |
+| Firstdata | [Fiserv AR](/en/docs/tutorials/setting-up-payments-with-fiserv-ar) or [Fiserv MX](/en/docs/tutorials/setting-up-payments-with-fiserv-mx) |
+| ItauShopline | [MaxiPagoV4](/en/docs/tutorials/setting-up-payments-with-maxipagov4) |
+| MaxiPago | [MaxiPagoV4](/en/docs/tutorials/setting-up-payments-with-maxipagov4) |
+| MercadoPagoV1 | [MercadoPagoV2](/en/docs/tutorials/setting-up-mercadopagov2-sub-acquirer) |
+| PagHiper | [PagHiperV2](/en/docs/tutorials/setting-up-payments-with-paghiperv2) or [PagHiperV3](/en/docs/tutorials/setting-up-payments-with-paghiperv3) |
+| PagoEfectivo | [PagoEfectivoV2](/en/docs/tutorials/setting-up-payments-with-pagoefectivov2)  |
 | PagosNet | - |
-| PagosWeb | [Bamboo-Payments](/en/tutorial/setting-up-payments-with-bamboo-payments--33TDZBp1wmgzJdiZtvu1xY) |
-| PagSeguro/PagSeguroDirect | [PagBankV3](/en/tutorial/setting-up-pagseguro-v3--5Noi1mUbBQ6CyqdeDQtWfw) |
-| PayPal/PayPalPlus | [PayPalV2](/en/tutorial/setting-up-payments-with-paypalv2--2nGiQVk3YKvOAu8Zg4RKFr) |
-| PayU/PayUGlobal | [PayUv2](/en/tutorial/setting-up-payments-with-payuv2--7twMgKUZZtJGmR72wS1k3n) |
-| Redsys/RedsysV2 | [RedsysEXP](/en/tutorial/setting-up-payments-with-redsysexp--7DSQeUbDEgH6yUvtXg4wly) |
-| Sitef/SitefDirectSale/SitefPreauth | [ESITEF](/en/tutorial/setting-up-payments-with-e-sitef--6UEi0QAlU6BXz5RgWj34Ac) |
-| WebPay/WebPay2P | [Transbank Webpay](/en/tutorial/setting-up-payments-with-transbank-webpay--3uVwZ1gUx2g5TXGt0CHb44) |
+| PagosWeb | [Bamboo-Payments](/en/docs/tutorials/setting-up-payments-with-bamboo-payments) |
+| PagSeguro/PagSeguroDirect | [PagBankV3](/en/docs/tutorials/setting-up-pagseguro-v3) |
+| PayPal/PayPalPlus | [PayPalV2](/en/docs/tutorials/setting-up-payments-with-paypalv2) |
+| PayU/PayUGlobal | [PayUv2](/en/docs/tutorials/setting-up-payments-with-payuv2) |
+| Redsys/RedsysV2 | [RedsysEXP](/en/docs/tutorials/setting-up-payments-with-redsysexp) |
+| Sitef/SitefDirectSale/SitefPreauth | [ESITEF](/en/docs/tutorials/setting-up-payments-with-e-sitef) |
+| WebPay/WebPay2P | [Transbank Webpay](/en/docs/tutorials/setting-up-payments-with-transbank-webpay) |
 
 ## What needs to be done?
 

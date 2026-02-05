@@ -31,5 +31,5 @@ Only authorized merchants will be able to request customer data deletion through
 
 Next, assign this role to the merchants who will request customer data deletion.
 
-More details will be available in the updated documentation [Deleting customer data](/en/tutorial/erasing-customer-data--1R9Fn7A06Ifj4R9YD4JTKU) on April 09.
+More details will be available in the updated documentation [Deleting customer data](/en/docs/tutorials/erasing-customer-data) on April 09.
 

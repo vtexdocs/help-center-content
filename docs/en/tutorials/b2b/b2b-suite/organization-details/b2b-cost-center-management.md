@@ -97,5 +97,5 @@ If you want to add a new delivery address associated with this cost center, foll
 </ol>
 
 #### Custom fields
-Custom fields allow users to add information relevant to the company. For more information, go to [Custom fields when adding an organization](/en/tutorial/campos-personalizados-no-cadastro-de-organizacao--2MqEVusOvcbqagNwOuHA7f).
+Custom fields allow users to add information relevant to the company. For more information, go to [Custom fields when adding an organization](/en/docs/tutorials/custom-fields-when-adding-an-organization).
 

@@ -31,7 +31,7 @@ The Payment Settings Page is where you can set up payment conditions, custom pay
 The Order Settings section is where you can set up general orders settings, manage affiliates, orders authorization and payment methods for subscriptions settings. It includes the following pages, that are coming soon in the Admin v4 design:
 
 - [Settings](/en/subcategory/orders-management-settings--1qvm3kIrt6KA6IeGc4EQ6k)  
-- [Orders Authorization](/en/tutorial/how-order-authorization-works--3MBK6CmKHAuUjMBieDU0pn)  
+- [Orders Authorization](/en/docs/tutorials/how-order-authorization-works)  
 - [Subscription Payments](/en/tutorial/how-to-configure-subscriptions--1FA9dfE7vJqxBna9Nft5Sj#2-configure-payment-methods)  
 
 ## Email Templates
@@ -44,8 +44,8 @@ The Email Templates section is where you customize the templates and define send
 The Shipping section is where you set up general shipping settings, geolocation on your store, and define holidays when your store is closed. This section includes the following pages, that are coming soon in the Admin v4 design:
 
 - [Settings](/en/subcategory/inventory-and-shipping-settings--1UL6Q7nUN6SkA2g2SUsECi)    
-- [Geolocation Shipping](/en/tutorial/registering-geolocation--tutorials_138)  
-- [Holidays](/en/tutorial/registering-holidays--2ItOthSEAoyAmcwsuiO6Yk)  
+- [Geolocation Shipping](/en/docs/tutorials/registering-geolocation)  
+- [Holidays](/en/docs/tutorials/registering-holidays)  
 
 ## Product
 The Product section is where you can set up price settings, commercial conditions and price rounding rules to your products. This section includes the following pages, that are coming soon in the Admin v4 design:
@@ -66,8 +66,8 @@ The Storefront section includes settings for your store’s interface with end-c
 ## Channels
 The Channels section includes the Sales Channels page, where you set up catalog, pricing, promotions, logistics, customer segmentation, and payment conditions for different sales strategies. It is also where you set up your XML’s integrations. This section includes the following pages, that are coming soon in the Admin v4 design:
 
-- [Sales Channels](/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) (previously called "trade policies" in VTEX)    
-- [XML Integration](/en/tutorial/configuring-xml--tutorials_242)
+- [Sales Channels](/en/docs/tutorials/how-trade-policies-work) (previously called "trade policies" in VTEX)    
+- [XML Integration](/en/docs/tutorials/configuring-xml)
 
 ## Intelligent Search
 The Intelligent Search section is where you define general settings for intelligent search, and its integrations. This section includes the following pages, that are coming soon in the Admin v4 design:

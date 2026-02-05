@@ -42,15 +42,15 @@ Follow the steps below to create a website or publish your first store.
 
 6. Change your website templates and layouts as you wish. To learn more about how to make these changes, read the articles below.
 
-  - [CMS layout overview](/en/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262).
-  - [Creating and editing a page template](/en/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850).
+  - [CMS layout overview](/en/docs/tutorials/what-is-cms-layout).
+  - [Creating and editing a page template](/en/docs/tutorials/how-to-create-a-page-template).
   - [List of controls for templates](/en/tutorial/lista-de-controles-para-templates).
 
 ## Related articles
 
 - [What is a website?](/en/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
 - [Linking an account name to a website (binding)](/en/tutorial/vincular-um-account-name-a-um-website-binding)
-- [CMS layout overview](/en/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262)
-- [Creating a page template](/en/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850)
+- [CMS layout overview](/en/docs/tutorials/what-is-cms-layout)
+- [Creating a page template](/en/docs/tutorials/how-to-create-a-page-template)
 [List of controls for templates](/en/tutorial/lista-de-controles-para-templates).
 

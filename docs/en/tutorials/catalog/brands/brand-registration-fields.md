@@ -29,7 +29,7 @@ To better understand the meaning of each Brand creation field, read their descri
 
 - __Adwords Remarketing Code__: Also known as Google Remarketing Tag, it's the code used in Google Adwords campaigns. Filling out this field with the code will allow you to follow the remarketing metrics linked to that brand.
 
-- __Score (used for search result prioritization)__: A value used to set brand priority on the search results page. For more on this field and search result prioritization, read our article on [how the Score field works](/en/tutorial/--1BUZC0mBYEEIUgeQYAKcae)
+- __Score (used for search result prioritization)__: A value used to set brand priority on the search results page. For more on this field and search result prioritization, read our article on [how the Score field works](/en/docs/tutorials/how-does-the-score-field-work)
 
 - __Display in Home menu__: When ticking this box, the brand appears in the _Department Menu_ control (<vtex.cmc:departmentNavigator/>). For more on the use of controls and their application for your store pages, read our article on [controls list](/en/tutorial/--tutorials_563).
 

@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'We changed the logic that defines the order of choice of sellers for franchise accounts, thus reducing abandoned carts.'
 ---
 
-VTEX made a change in the logic that defines the order of choice of sellers to be shown at the checkout of stores that use the [franchise accounts model](/en/tutorial/what-are-franchise-account-and-seller-white-label--5orlGHyDHGAYciQ64oEgKa). Before, the checkout assumed that the sellers had stock and selected all who delivered to the order address. From now on, the checkout first selects only those sellers who are able to deliver to that address and then filters the sellers with stock of products in the cart.
+VTEX made a change in the logic that defines the order of choice of sellers to be shown at the checkout of stores that use the [franchise accounts model](/en/docs/tutorials/white-label-seller). Before, the checkout assumed that the sellers had stock and selected all who delivered to the order address. From now on, the checkout first selects only those sellers who are able to deliver to that address and then filters the sellers with stock of products in the cart.
 
 This change prevents the selection of sellers that are available for delivery but do not have stock. The consequence is a more efficient process of choosing sellers for stores that use the franchise account model, which reduces cases of cart rupture and contributes to increasing the stock turnover and the conversion rate of your store.
 
@@ -27,4 +27,4 @@ We made this change in the checkout heuristic (the logic that determines the ord
 
 No. This change has an impact on the efficiency of the choice of sellers through checkout and, consequently, on the conversion rate of stores that use the franchise account model. This is a change in heuristics, which does not require any action by the store.
 
-[Learn more about franchise accounts at VTEX →](/en/tutorial/what-are-franchise-account-and-seller-white-label--5orlGHyDHGAYciQ64oEgKa)
+[Learn more about franchise accounts at VTEX →](/en/docs/tutorials/white-label-seller)

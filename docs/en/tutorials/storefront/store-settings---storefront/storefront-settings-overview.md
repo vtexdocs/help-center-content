@@ -25,6 +25,6 @@ The Storefront section includes settings for your store’s interface with end-c
 - Settings - Coming soon
 - Master Data - Coming soon
 - Checkout - Coming soon
-- [Store](/en/tutorial/cms-store-overview--3Eat287G6wUi6Mly5rW5Fs)
+- [Store](/en/docs/tutorials/cms-store-overview)
 - [GraphQL IDE](https://developers.vtex.com/vtex-developer-docs/docs/graphql-ide)
 - Checkout UI Custom - Coming soon

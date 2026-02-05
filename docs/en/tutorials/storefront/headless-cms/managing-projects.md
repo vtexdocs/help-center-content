@@ -24,7 +24,7 @@ Each project is customized with its own settings, content, and branding accordin
 In this guide, you will learn how to manage each frontend project of your store.
 
 ## Before you begin
-For the Headless CMS management, make sure the [resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `See CMS menu on the top-bar`, `Settings*`, and `CMS GraphQL API` are associated with your [user role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). Otherwise, [create a custom user role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) and add these resources to it or add these resources to an existing user role.
+For the Headless CMS management, make sure the [resources](/en/docs/tutorials/license-manager-resources) `See CMS menu on the top-bar`, `Settings*`, and `CMS GraphQL API` are associated with your [user role](/en/docs/tutorials/roles). Otherwise, [create a custom user role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) and add these resources to it or add these resources to an existing user role.
 
 ## Overview
 To access **Projects**, go to the VTEX Admin and access **Storefront > Headless CMS**.
@@ -49,7 +49,7 @@ A webhook is an HTTP endpoint that enables automated communication between the V
 
 Once you have created a new project, you can create pages for it with all the URL routes and corresponding page templates of your store’s website, such as home, product, and login pages. 
 
-To create a new page, follow the steps in [Managing Pages in the Headless CMS](/en/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
+To create a new page, follow the steps in [Managing Pages in the Headless CMS](/en/docs/tutorials/managing-pages)
 
 ## Project settings
 The Project settings allow you to configure your project according to three main categories:

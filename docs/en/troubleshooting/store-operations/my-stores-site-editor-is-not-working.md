@@ -81,7 +81,7 @@ To solve this error, see the following instructions:
 
 ### Checking if the user role has the necessary permissions
 
-One possible reason for this issue might be related to the lack of the `CMS GraphQL API` License Manager [resource](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) in a [user role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) for content management.
+One possible reason for this issue might be related to the lack of the `CMS GraphQL API` License Manager [resource](/en/docs/tutorials/license-manager-resources) in a [user role](/en/docs/tutorials/roles) for content management.
 
 Ensure that users are associated with the `CMS GraphQL API` resource within their user roles by either [creating a new role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) or editing an existing one.
 

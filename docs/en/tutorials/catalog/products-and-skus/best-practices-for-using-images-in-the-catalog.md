@@ -43,5 +43,5 @@ In order to get good results with your images and solve possible import problems
 
 - [Adding Products](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL)
 - [Adding SKUs](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ)
-- [Importing images from a spreadsheet](/en/tutorial/importing-images-from-a-spreadsheet--tutorials_262)
+- [Importing images from a spreadsheet](/en/docs/tutorials/importing-images-from-a-spreadsheet)
 

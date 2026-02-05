@@ -18,7 +18,7 @@ order: 6
 Entering the invoice in the order is a required step for its status to change to `Invoiced` - a sign that the order has been successfully completed. Remember that once an order is read as invoiced by the system, this status cannot be changed.
 
 You can invoice orders in two ways:
-- __Manually:__ In the *VTEX Admin > Orders > All Orders*, click the order and then click the `Invoice` button. Learn more in [How to manually invoice an order](/en/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v).
+- __Manually:__ In the *VTEX Admin > Orders > All Orders*, click the order and then click the `Invoice` button. Learn more in [How to manually invoice an order](/en/docs/tutorials/how-to-manually-invoice-an-order).
 - __Via API:__ If you have an ERP integration, use the [Order invoice notification request](https://developers.vtex.com/vtex-rest-api/reference/invoice).
 
 ## Changing the order status to Invoiced
@@ -27,7 +27,7 @@ Only after reaching the total order value will the status change to `Invoiced`, 
 
 - __Unchanged order:__ you must enter an invoice with an amount equivalent to the total value.  
 - __Changed order > discounting the amount > followed by a separate invoice:__ you must insert an invoice with the amount remaining after the change. The invoice can be [partial](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), or complete, if it contains all the amount remaining after the change.  
-- __Order with partial invoice > followed by change with discount:__ you must make a [change](/en/tutorial/changing-items-from-a-complete-order--tutorials_190), discounting the remaining amount. To do this, calculate the total amount, minus the partial invoice amount.
+- __Order with partial invoice > followed by change with discount:__ you must make a [change](/en/docs/tutorials/changing-items-from-a-complete-order), discounting the remaining amount. To do this, calculate the total amount, minus the partial invoice amount.
 
 ## Invoice
 

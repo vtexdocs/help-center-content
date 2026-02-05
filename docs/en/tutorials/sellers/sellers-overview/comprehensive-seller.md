@@ -49,7 +49,7 @@ This occurs both during browsing and in the cart, in order to prevent the custom
 
 > ℹ️ Even if during browsing the customer's location information is captured and stored in the `regionId` field of the Session API, the location is not used in the cart. Only products from the main seller and comprehensive sellers will be available to the customer in the cart. Products from other sellers will only be available after the customer enters the delivery zip code at checkout.
 
-In cases of more than one comprehensive seller, the checkout selects the one with the highest amount in stock for the item in question, among all comprehensive sellers. Know more in [White label sellers selection](/en/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa). 
+In cases of more than one comprehensive seller, the checkout selects the one with the highest amount in stock for the item in question, among all comprehensive sellers. Know more in [White label sellers selection](/en/docs/tutorials/white-label-sellers-selection). 
 
 ## Enabling a comprehensive seller
 

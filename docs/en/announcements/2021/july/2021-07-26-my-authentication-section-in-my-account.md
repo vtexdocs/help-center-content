@@ -21,7 +21,7 @@ The My Authentication section is available on all VTEX accounts, and you can fin
 
 ## What has changed?
 
-In this section, all users can manage their password and login sessions, allowing them to sign out other sessions remotely. For more details on using My Authentication, see the [Authentication section on the article Setting up My account](/en/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh).
+In this section, all users can manage their password and login sessions, allowing them to sign out other sessions remotely. For more details on using My Authentication, see the [Authentication section on the article Setting up My account](/en/docs/tutorials/how-my-account-works).
 
 ![My Authentication app EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/july/2021-07-26-my-authentication-section-in-my-account_1.png)
 

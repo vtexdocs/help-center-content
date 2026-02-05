@@ -16,10 +16,10 @@ subcategoryId: 2LaAukjQB4QEbqSYdgjq7l
 order: 1
 ---
 
-In a [B2B operation](/en/tutorial/b2b-visao-geral--5vb9SNXhX2bZnkpAh7ADdC), multiple users from the same organization place orders on behalf of the company. The **B2B Orders History** app was developed to meet these specific needs, allowing users to view and manage orders in an integrated and collaborative way.
+In a [B2B operation](/en/docs/tutorials/b2b-overview), multiple users from the same organization place orders on behalf of the company. The **B2B Orders History** app was developed to meet these specific needs, allowing users to view and manage orders in an integrated and collaborative way.
 
 ## Feature
-The **B2B Orders History** app replaces the standard Orders page in [My Account](/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh) with a version tailored to the B2B scenario. This customization allows logged-in [users](/en/tutorial/gerenciamento-de-permissoes-no-b2b-suite--2PLR7mIFxgbmsGq84paLeA) of an organization to view their orders and access orders placed by other members of the same organization or cost center, provided they have the necessary permissions.
+The **B2B Orders History** app replaces the standard Orders page in [My Account](/en/docs/tutorials/how-my-account-works) with a version tailored to the B2B scenario. This customization allows logged-in [users](/en/docs/tutorials/permissions-management-in-b2b-suite) of an organization to view their orders and access orders placed by other members of the same organization or cost center, provided they have the necessary permissions.
 
 ## Advantages
 A centralized view of orders is important to:

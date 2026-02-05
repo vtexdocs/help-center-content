@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3PQwnyOcNyYgawy06oe6gE
 ---
 
-At VTEX, [warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) is the physical location where the store products are stored, and inventory is the relationship between the warehouses and the SKUs available for sale. To view the SKUs registered in your [catalog](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR) and respective warehouses, in your VTEX Admin, access **Catalog > Inventory > Inventory Management**.
+At VTEX, [warehouse](/en/docs/tutorials/warehouse) is the physical location where the store products are stored, and inventory is the relationship between the warehouses and the SKUs available for sale. To view the SKUs registered in your [catalog](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR) and respective warehouses, in your VTEX Admin, access **Catalog > Inventory > Inventory Management**.
 
 This article contains information about the **Inventory Management** page. Learn how:
 
@@ -26,9 +26,9 @@ This article contains information about the **Inventory Management** page. Learn
 
 Other possible actions in the **Inventory Management** page are:
 
-* [Tracking the item update history](/en/tutorial/inventory-update-history--5AM7xbmMzmKSEQewakamc2).
+* [Tracking the item update history](/en/docs/tutorials/inventory-update-history).
 * [Checking if the SKUs have reserved units](/en/tutorial/how-does-reservation-work--tutorials_92#how-to-track-reservation-status). 
-* [Updating the number of SKUs available for sale](/en/tutorial/updating-the-quantity-of-items-in-inventory--2MDwYV1COA6YuoiY22AyGo).
+* [Updating the number of SKUs available for sale](/en/docs/tutorials/updating-the-quantity-of-items-in-inventory).
 
 ## Inventory information
 
@@ -39,18 +39,18 @@ In the VTEX Admin, go to **Catalog > Inventory > Inventory Management**, or type
     * **Products:** the name of the product.
     * **Warehouse**: to which warehouse the SKU belongs to.
     * **SKU ID:** the identifier code for the SKU.
-    * **Last Update**: most recent quantity of SKU units registered on the VTEX platform.> ℹ️ If you click any number in the **Last Update** column, the [Update Logs](/en/tutorial/historico-de-movimentacoes-do-inventario--5AM7xbmMzmKSEQewakamc2) window will open with the changes registers. Each row corresponds to an update with the user who made the change, the date and the inventory quantity before an and after the update. You can only see the last 50 updates of a SKU.
+    * **Last Update**: most recent quantity of SKU units registered on the VTEX platform.> ℹ️ If you click any number in the **Last Update** column, the [Update Logs](/en/docs/tutorials/inventory-update-history) window will open with the changes registers. Each row corresponds to an update with the user who made the change, the date and the inventory quantity before an and after the update. You can only see the last 50 updates of a SKU.
     * **Reserved:** reserved SKU units. Orders for these reservations have not yet been approved for payment.
     By clicking on the values in this column to see details about the SKU reservation data, you are redirected to the Order management page. To learn more about how to view a reservation, please refer to [How to track reservation status](/en/tutorial/how-does-reservation-work--tutorials_92#como-acompanhar-o-status-da-reserva)
     * **Fulfilled:** shipped units of that SKU. The items in this column are from orders with `Payment approved`, `Preparing for delivery` or `Invoiced` status. By clicking on the items to view details of shipped SKUs, you will be redirected to the Order management page.
     * **Available:** SKU units available for sale.
     * **Update Count:** manual update of the available quantity of SKU items. To learn more about how to update the count, read the article [Updating the quantity of SKUs in stock](/en/tutorial/atualizar-quantidade-de-skus-em-estoque--IKMWjOjMcMqKusSGko8c0).
     * **Unlimited inventory:** allows you to add unlimited SKU units, making it always available for your store's checkout. This rules out the need to update the count for this SKU.
-    * **Lead time (days):** Optional setting of shipping time at SKU level. When you define a time for the SKU of a warehouse, that is added to the [shipping time calculation](/en/tutorial/como-funciona-o-calculo-de-envio--tutorials_116). By default, the [lead time](/en/tutorial/lead_time-shipping-time-at-sku-level--16yv5Mkj6bTyWR1hCN2f4B) is set as zero days and counted as business days, but you can [change it to calendar days](/en/tutorial/lead_time-shipping-time-at-sku-level--16yv5Mkj6bTyWR1hCN2f4B#configuring-lead-time-calculation-in-calendar-days-optional). To configure hours, minutes, and seconds, use the [Update inventory by SKU and warehouse endpoint](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
+    * **Lead time (days):** Optional setting of shipping time at SKU level. When you define a time for the SKU of a warehouse, that is added to the [shipping time calculation](/en/docs/tutorials/how-shipping-calculation-works). By default, the [lead time](/en/docs/tutorials/lead-time-shipping-time-at-sku-level) is set as zero days and counted as business days, but you can [change it to calendar days](/en/tutorial/lead_time-shipping-time-at-sku-level--16yv5Mkj6bTyWR1hCN2f4B#configuring-lead-time-calculation-in-calendar-days-optional). To configure hours, minutes, and seconds, use the [Update inventory by SKU and warehouse endpoint](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
-> ❗ To ensure the items added to the inventory will be available for sale on the store, the [SKU ID](/en/tutorial/how-to-find-an-sku-id--4VQZsYeb3igGK2YowuEYWW) cannot contain **a leading zero**. For instance, the system does not read IDs with a `01`, `02`, `021` format because the expected format is `1`, `2`, `21`.
+> ❗ To ensure the items added to the inventory will be available for sale on the store, the [SKU ID](/en/docs/tutorials/finding-a-sku-id) cannot contain **a leading zero**. For instance, the system does not read IDs with a `01`, `02`, `021` format because the expected format is `1`, `2`, `21`.
 
-The total quantity of items on the **Inventory Management** page is updated in real-time, but it may take up to 1 hour to reflect in the [inventory history](/en/tutorial/historico-de-movimentacoes-do-inventario--5AM7xbmMzmKSEQewakamc2).
+The total quantity of items on the **Inventory Management** page is updated in real-time, but it may take up to 1 hour to reflect in the [inventory history](/en/docs/tutorials/inventory-update-history).
 
 ### Search filters
 
@@ -65,7 +65,7 @@ In the **Inventory Management** page, to perform a search, simply type the name 
 
 ## Related articles
 
-* [Updating the quantity of items in inventory](/en/tutorial/updating-the-quantity-of-items-in-inventory--2MDwYV1COA6YuoiY22AyGo)
-* [How reservations work](/en/tutorial/how-does-reservation-work--tutorials_92)
+* [Updating the quantity of items in inventory](/en/docs/tutorials/updating-the-quantity-of-items-in-inventory)
+* [How reservations work](/en/docs/tutorials/how-does-reservation-work)
 * [SKU available in stock but unavailable for sale](/en/faq/sku-available-in-stock-but-unavailable-for-sale)
 * [Why is my stock negative?](/en/faq/por-que-meu-estoque-esta-negativo--frequentlyAskedQuestions_159)

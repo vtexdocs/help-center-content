@@ -38,7 +38,7 @@ The integration of VTEX Pick and Pack features with store orders isn't automatic
 
 1. In the VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or type `Settings` in the search bar at the top of the page.
 2. In the **Orders** section, click **General**.
-3. Complete the [filters](/en/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9) on the **General** page.
+3. Complete the [filters](/en/docs/tutorials/vtex-pick-and-pack-settings) on the **General** page.
 4. Click **Save**.
 
 ### Will pickers handle one order at a time, or multiple orders simultaneously?

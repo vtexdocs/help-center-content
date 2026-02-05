@@ -23,7 +23,7 @@ By using inStore Social Selling, you can create activation actions for a specifi
 
 ## What has changed?
 
-Previously, cart sharing wasn’t possible on inStore, [only through ecommerce](/en/tutorial/how-to-use-the-shareable-cart-app--3ePPpkmeZ96GXbeIoGZbTN).
+Previously, cart sharing wasn’t possible on inStore, [only through ecommerce](/en/docs/tutorials/how-to-use-the-shareable-cart-app).
 
 With inStore Social Selling, your physical store sales reps can select products and generate a link to share the **Cart Suggestion** with one or more customers via WhatsApp, as shown below. It is also possible to copy the link and share it on other social media.
 

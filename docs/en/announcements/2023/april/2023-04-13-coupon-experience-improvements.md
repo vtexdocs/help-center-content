@@ -15,17 +15,17 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'The new Coupons experience to display additional strategic information and provide new configuration possibilities.'
 ---
 
-The main goal of running promotions is increasing the competitiveness of the store and, consequently, the conversion rate. This is possible by offering benefits that are financially attractive to buyers. A successful strategy to achieve this is using [coupons](/en/tutorial/cupons-beta--1aAEN3ADpz19ss5JCIEBdL) — codes that you can provide to the customers that allow them to apply promotions.
+The main goal of running promotions is increasing the competitiveness of the store and, consequently, the conversion rate. This is possible by offering benefits that are financially attractive to buyers. A successful strategy to achieve this is using [coupons](/en/docs/tutorials/coupons-beta) — codes that you can provide to the customers that allow them to apply promotions.
 
-We updated the <i class="fas fa-bullhorn"></i> *Promotions & Taxes > Coupons* module in the VTEX Admin to include additional strategic information in the coupon list and provide more configuration possibilities when [creating new coupons](/en/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU).
+We updated the <i class="fas fa-bullhorn"></i> *Promotions & Taxes > Coupons* module in the VTEX Admin to include additional strategic information in the coupon list and provide more configuration possibilities when [creating new coupons](/en/docs/tutorials/creating-a-coupon-beta).
 
 ## What has changed?
 
-The new [Coupons](/en/tutorial/cupons-beta--1aAEN3ADpz19ss5JCIEBdL) experience offers the following resources:
+The new [Coupons](/en/docs/tutorials/coupons-beta) experience offers the following resources:
 
 ### New coupon list
 
-The new [coupon list](/en/tutorial/lista-de-cupons-beta--5z5ya3IonsC2W4B5h4JrsZ) shows all the existing coupons in your store. This allows you to manage coupon data and analyze in which orders they were used.
+The new [coupon list](/en/docs/tutorials/coupons-list-beta) shows all the existing coupons in your store. This allows you to manage coupon data and analyze in which orders they were used.
 
 ![listacupons en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/april/2023-04-13-coupon-experience-improvements_1.gif)
 
@@ -70,7 +70,7 @@ On the other hand, if your store uses previous Admin versions, go to *Products >
 
 For more information, read the following articles:
 
--	[Coupons](/en/tutorial/cupons-beta--1aAEN3ADpz19ss5JCIEBdL)
--	[Creating a coupon](/en/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU)
--	[Coupons list](/en/tutorial/lista-de-cupons-beta--5z5ya3IonsC2W4B5h4JrsZ)
+-	[Coupons](/en/docs/tutorials/coupons-beta)
+-	[Creating a coupon](/en/docs/tutorials/creating-a-coupon-beta)
+-	[Coupons list](/en/docs/tutorials/coupons-list-beta)
 - [Promotions & Taxes API v2](https://developers.vtex.com/docs/api-reference/promotions-and-taxes-api-v2#overview)

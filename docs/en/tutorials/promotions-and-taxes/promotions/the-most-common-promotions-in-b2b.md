@@ -37,7 +37,7 @@ Retailers must be careful not to carry out promotions that can harm their busine
 
 Promotions can help move your inventory. Keeping an old inventory for a long time can make you lose sales of new products.
 
-The retailer can apply discounts from a certain amount of products within a purchase, encouraging greater consumption of that item. An example of this type of promotion is the [Progressive Discount](/en/tutorial/desconto-progressivo--tutorials_324).
+The retailer can apply discounts from a certain amount of products within a purchase, encouraging greater consumption of that item. An example of this type of promotion is the [Progressive Discount](/en/docs/tutorials/progressive-discount).
 
 Another option is to make promotions for batches of products. It is a way to guarantee that a certain product’s old inventory will be sold.
 
@@ -65,14 +65,14 @@ As an example, imagine a notebook that has a high sales volume and a low margin 
 
 The idea here is to offer both items together as a promotion. This way, the retailer guarantees that the customer will buy related products that will bring a higher aggregate margin. This is done through cross-selling promotions.
 
-[Buy One Get One](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#compre-e-ganhe) promotions and offering [bundles](/en/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28) are the main strategies for this scenario.
+[Buy One Get One](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#compre-e-ganhe) promotions and offering [bundles](/en/docs/tutorials/what-is-a-bundle) are the main strategies for this scenario.
 
 ## Customer segmentation
 Thinking about customer profiles is a good way to apply promotions efficiently. It is important to group customers by segment and region, considering taxes and interests as a basis for discounts and promotions.
 
 If the retailer has a rebate from a manufacturer, it is worth focusing on the segment that consumes that product. It is another way of delimiting the categories that will receive planned discounts.
 
-Check out our article on [how to create a benefit for a cluster of customers](/en/tutorial/criando-promocao-para-um-cluster-de-clientes--tutorials_342) to learn more on how to implement this method.
+Check out our article on [how to create a benefit for a cluster of customers](/en/docs/tutorials/creating-promotion-for-a-customer-cluster) to learn more on how to implement this method.
 
 ## Free shipping
 

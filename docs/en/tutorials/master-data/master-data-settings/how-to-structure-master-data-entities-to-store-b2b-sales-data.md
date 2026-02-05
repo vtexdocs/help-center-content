@@ -15,13 +15,13 @@ locale: en
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q
 ---
 
-Through [Master Data](/en/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw) - the VTEX platform’s module that allows the creation of database architectures - it is possible to collect, store and make available data in various formats for the customers and administrative users of a store. There are two ways to configure it:
+Through [Master Data](/en/docs/tutorials/master-data) - the VTEX platform’s module that allows the creation of database architectures - it is possible to collect, store and make available data in various formats for the customers and administrative users of a store. There are two ways to configure it:
 - By using a Content Management System (CMS) internal to the store's administrative dashboard.
 - By sending requests to [Master Data’s API](https://developers.vtex.com/docs/api-reference/master-data-api-v2-overview).
 
-The stored data is described by [Data Entities](/en/tutorial/creating-data-entities--tutorials_1265), which are representative models that allow Master Data to validate the information received and create forms. The system allows the creation of [connections between the data](/en/tutorial/creating-relationships-between-data-entities--6TdIa6Q2IgWYUu2wsYIG48) of different entities, in addition to providing a series of automation possibilities.
+The stored data is described by [Data Entities](/en/docs/tutorials/data-entity), which are representative models that allow Master Data to validate the information received and create forms. The system allows the creation of [connections between the data](/en/tutorial/creating-relationships-between-data-entities--6TdIa6Q2IgWYUu2wsYIG48) of different entities, in addition to providing a series of automation possibilities.
 
-An example is the [Triggers](/en/tutorial/criando-trigger-no-master-data--tutorials_1270) that can be activated by changes in stored data and can have effects such as sending emails and other changes to that data. Learn more about all the possible configurations of this module in [Master Data’s official documentation](/en/subcategory/configuracoes-de-master-data--5tSNDlvmik8gGuKw2goW4q).
+An example is the [Triggers](/en/docs/tutorials/creating-trigger-in-master-data) that can be activated by changes in stored data and can have effects such as sending emails and other changes to that data. Learn more about all the possible configurations of this module in [Master Data’s official documentation](/en/subcategory/configuracoes-de-master-data--5tSNDlvmik8gGuKw2goW4q).
 
 ## Modeling sales structures and goals
 
@@ -51,7 +51,7 @@ Here are some relevant fields you can add to this table:
 
 ### Customers
 
-Every store has a Data Entity that configures the table of customers. You can add fields to that entity by following the walkthrough in the article [Creating a field in Master Data](/en/tutorial/how-can-i-create-field-in-master-data--frequentlyAskedQuestions_1829). This way, when a customer visits a store, the front-end has access to relevant information regarding their position in the sales structure and can provide a custom experience. In addition, it is possible to limit the access to the store to only approved customers, as explained in the article [Configuring B2B on VTEX](/en/tutorial/configurando-b2b-na-vtex).
+Every store has a Data Entity that configures the table of customers. You can add fields to that entity by following the walkthrough in the article [Creating a field in Master Data](/en/docs/tutorials/how-can-i-create-a-field-in-master-data). This way, when a customer visits a store, the front-end has access to relevant information regarding their position in the sales structure and can provide a custom experience. In addition, it is possible to limit the access to the store to only approved customers, as explained in the article [Configuring B2B on VTEX](/en/tutorial/configurando-b2b-na-vtex).
 
 Here are some relevant fields you can add to this table:
 - Representative’s ID
@@ -86,9 +86,9 @@ In addition to providing a powerful data structure’s modeling tool, Master Dat
 
 ### Forms
 
-Master Data’s CMS allows you to configure forms to fill in the modeled tables. It is useful for information that will be entered and edited by administrative users, since it is possible to limit usage through [roles](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+Master Data’s CMS allows you to configure forms to fill in the modeled tables. It is useful for information that will be entered and edited by administrative users, since it is possible to limit usage through [roles](/en/docs/tutorials/roles).
 
-To learn how to configure these forms, check out the article [Creating forms in Master Data](/en/tutorial/creating-form-in-master-data--tutorials_1047). It is also possible to create an Application, which is a grouper of forms, following the steps detailed in the article [Creating applications in Master Data](/en/tutorial/creating-an-application-in-master-data--tutorials_1115).
+To learn how to configure these forms, check out the article [Creating forms in Master Data](/en/docs/tutorials/creating-form-in-master-data). It is also possible to create an Application, which is a grouper of forms, following the steps detailed in the article [Creating applications in Master Data](/en/docs/tutorials/creating-an-application-in-master-data).
 
 ### Front-end or API
 
@@ -96,22 +96,22 @@ Forms can also be submitted via front-end for customers to fill them, as describ
 
 ### Triggers
 
-Events in a Master Data’s data entity can trigger changes to the data. For more on this, check out the article [Creating triggers in Master Data v1](/en/tutorial/criando-trigger-no-master-data--tutorials_1270).
+Events in a Master Data’s data entity can trigger changes to the data. For more on this, check out the article [Creating triggers in Master Data v1](/en/docs/tutorials/creating-trigger-in-master-data).
 
 ### Bulk import
 
-It is also possible to fill tables in bulk by uploading spreadsheets, as explained in the article [Importing data into Master Data](/en/tutorial/importing-data-into-master-data--tutorials_1135).
+It is also possible to fill tables in bulk by uploading spreadsheets, as explained in the article [Importing data into Master Data](/en/docs/tutorials/importing-data-into-master-data-v1).
 
 ## Learn more
 
-- [What is Master Data](/en/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw)
+- [What is Master Data](/en/docs/tutorials/master-data)
 - [Master Data API](https://developers.vtex.com/docs/api-reference/master-data-api-v2-overview)
-- [Creating data entities](/en/tutorial/creating-data-entities--tutorials_1265)
+- [Creating data entities](/en/docs/tutorials/data-entity)
 - [Creating relationships between data entities](/en/tutorial/creating-relationships-between-data-entities--6TdIa6Q2IgWYUu2wsYIG48)
-- [How to create a trigger in Master Data v1](/en/tutorial/criando-trigger-no-master-data--tutorials_1270)
-- [Creating a field in Master Data](/en/tutorial/how-can-i-create-field-in-master-data--frequentlyAskedQuestions_1829)
+- [How to create a trigger in Master Data v1](/en/docs/tutorials/creating-trigger-in-master-data)
+- [Creating a field in Master Data](/en/docs/tutorials/how-can-i-create-a-field-in-master-data)
 - [How to set up B2B with VTEX](/en/tutorial/configurando-b2b-na-vtex)
-- [Creating a form in Master Data](/en/tutorial/creating-form-in-master-data--tutorials_1047)
-- [How to create an application in Master Data](/en/tutorial/creating-an-application-in-master-data--tutorials_1115)
+- [Creating a form in Master Data](/en/docs/tutorials/creating-form-in-master-data)
+- [How to create an application in Master Data](/en/docs/tutorials/creating-an-application-in-master-data)
 - [Creating a Talk to Us form using Master Data](/en/tutorial/criar-formulario-de-fale-conosco-usando-master-data--frequentlyAskedQuestions_614)
-- [How to import data into Master Data](/en/tutorial/importing-data-into-master-data--tutorials_1135)
+- [How to import data into Master Data](/en/docs/tutorials/importing-data-into-master-data-v1)

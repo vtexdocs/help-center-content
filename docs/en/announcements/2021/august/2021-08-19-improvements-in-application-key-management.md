@@ -27,7 +27,7 @@ Before, managing [Application Keys](/en/tutorial/application-keys--2iffYzlvvz4BD
 
 ### Permissions to create Application Keys are now resource based
 
-Before, only the [Sponsor user](/en/tutorial/what-is-the-master-user--3oPr7YuIkEYqUGmEqIMSEy) could create and manage Application Keys. Now any user with the `License Manager / Services access control / Save user` resource included in their [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) can create these credentials and share the same permissions with other users, allowing the Sponsor user to delegate this responsibility as needed.
+Before, only the [Sponsor user](/en/docs/tutorials/what-is-the-sponsor-user) could create and manage Application Keys. Now any user with the `License Manager / Services access control / Save user` resource included in their [roles](/en/docs/tutorials/roles) can create these credentials and share the same permissions with other users, allowing the Sponsor user to delegate this responsibility as needed.
 
 ## Why did we make these changes?
 

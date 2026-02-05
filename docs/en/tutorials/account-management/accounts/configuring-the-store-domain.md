@@ -54,7 +54,7 @@ Check out the host examples below and see which ones can be used as the main hos
 | Host example | Can be used as a host: yes (✔️) or not (❌) | Description |
 |---|---|---|
 | `www.mystore.com` | ✔️ | Contains the www subdomain. |
-| `mystore.com` | ❌ | Does not contain a subdomain. To configure access via this address, you must set up a host with a subdomain such as `www.mystore.com` and then create a redirect. Read [Best practices for accessing the store without www](/en/tutorial/configuring-access-without-www--tutorials_4278) for more details. |
+| `mystore.com` | ❌ | Does not contain a subdomain. To configure access via this address, you must set up a host with a subdomain such as `www.mystore.com` and then create a redirect. Read [Best practices for accessing the store without www](/en/docs/tutorials/best-practices-for-accessing-the-store-without-www) for more details. |
 | `store.mybrand.com` | ✔️ | Contains the store subdomain. |
 | `www.store.mybrand.com` | ✔️ | Contains two subdomains: `www` and `store`. |
 
@@ -62,8 +62,8 @@ Check out the host examples below and see which ones can be used as the main hos
 
 To ensure your store is accessible via different URLs, such as `www.mystore.com` and `mystore.com`, you should register a single main host and redirect the additional addresses to the main one. Learn more about redirects:
 
-* [Redirection from other addresses](/en/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ)
-* [Best practices for accessing the store without www](/en/tutorial/configuring-access-without-www--tutorials_4278)
+* [Redirection from other addresses](/en/docs/tutorials/redirect-from-other-addresses)
+* [Best practices for accessing the store without www](/en/docs/tutorials/best-practices-for-accessing-the-store-without-www)
 
 We recommend implementing a single host in your store.
 

@@ -19,7 +19,7 @@ If an order has been successfully billed in your ERP but is stuck in the `Prepar
 To verify that this is your case, follow the steps below:
 
 1. In the VTEX Admin, go to **Orders > All Orders**, or type **All Orders** in the search bar at the top of the page.
-2. Click the desired order to go to the [order's details page](/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
+2. Click the desired order to go to the [order's details page](/en/docs/tutorials/order-details-page).
 3. In the **Order Status** section, click `Try Again`.
 
 Check if a message appears, and if it describes the error.

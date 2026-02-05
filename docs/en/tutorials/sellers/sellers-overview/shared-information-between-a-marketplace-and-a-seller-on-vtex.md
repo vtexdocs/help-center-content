@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 5tlIjp0ZkAU4EIk4OgyEmm
 ---
 
-Selling on marketplaces is a collaborative commerce model that offers mutual advantages to sellers and marketplaces. The VTEX architecture allows stores to act both as a seller and as a marketplace. Learn more at [Marketplace strategies at VTEX](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402).
+Selling on marketplaces is a collaborative commerce model that offers mutual advantages to sellers and marketplaces. The VTEX architecture allows stores to act both as a seller and as a marketplace. Learn more at [Marketplace strategies at VTEX](/en/docs/tutorials/marketplace-strategies-at-vtex).
 
 In order to collaborate, a marketplace hosted on the VTEX platform and a seller, whether it is a VTEX seller or an external one, need to exchange information. This article describes the main information being shared and is divided into the following sections:
 
@@ -47,11 +47,11 @@ You can integrate a VTEX marketplace with a VTEX seller or with an external sell
 
 In order for a VTEX marketplace to connect to a VTEX seller, it will need access to the following information:
 
-- **Seller ID (Account Name):** [account name](/en/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) is the seller identification code on VTEX.
+- **Seller ID (Account Name):** [account name](/en/docs/tutorials/what-is-an-account-name) is the seller identification code on VTEX.
 - **Admin email:** email of the admin responsible for the seller.
-- **Seller affiliate ID:** three digit identification code which identifies the [affiliate](/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) created by the seller in their own VTEX Admin.
+- **Seller affiliate ID:** three digit identification code which identifies the [affiliate](/en/docs/tutorials/what-is-an-affiliate) created by the seller in their own VTEX Admin.
 - **Description:** text describing the seller with a business tone. You can display this text in the marketplace window display when [customizing the CMS](/en/tutorial/list-of-controls-for-templates--tutorials_563).
-- **Trade policy:** identification code of the [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) the seller wants to use when selling on the marketplace.
+- **Trade policy:** identification code of the [trade policy](/en/docs/tutorials/how-trade-policies-work) the seller wants to use when selling on the marketplace.
 - **Fulfillment SellerId:** identification code of the seller responsible for fulfilling the order. This information is optional, only required when the seller sells SKUs from another seller. It must not be filled in when the seller sells their own SKUs.
 - **Catalog EndPoint:** endpoint URLfor the seller's catalog.
 - **TaxCode:** seller's company registration number (CNPJ in Brazil) or corresponding code for other countries.
@@ -84,6 +84,6 @@ The marketplace can give the seller partial access to the email addresses of its
 
 ## Learn more
 
-- [Marketplace strategies at VTEX](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402)
-- [Actions for a VTEX marketplace operation](/en/tutorial/acoes-para-a-operacao-de-marketplaces-vtex--2SdIflvwywiOqCpczKCfev)
+- [Marketplace strategies at VTEX](/en/docs/tutorials/marketplace-strategies-at-vtex)
+- [Actions for a VTEX marketplace operation](/en/docs/tutorials/actions-for-vtex-marketplace-operation)
 - [Adding a seller](/en/tutorial/configurando-seller)

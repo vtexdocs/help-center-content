@@ -16,11 +16,11 @@ legacySlug: why-is-the-product-not-shown-on-the-website
 
 For a product to be displayed on the product listing page, it needs to be available for sale, which happens when the following settings are correctly configured:
 
-* The [product](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) and its [SKUs](/en/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u) are added to the Catalog.
+* The [product](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) and its [SKUs](/en/docs/tutorials/what-is-an-sku) are added to the Catalog.
 * The product has a [price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu).
-* The logistics settings make it possible to ship the product to customers, which includes configuring the [warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb), [loading dock](/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj), [shipping policies](/en/tutorial/politica-de-envio--tutorials_140), etc.
-* Regarding [inventory](/en/tutorial/gerenciar-inventario--tutorials_139), the product must meet one of the following conditions:
-    * There is stock available for sale ([reserved](/en/tutorial/como-a-reserva-funciona--tutorials_92) items are not considered available).
+* The logistics settings make it possible to ship the product to customers, which includes configuring the [warehouse](/en/docs/tutorials/warehouse), [loading dock](/en/docs/tutorials/loading-dock), [shipping policies](/en/docs/tutorials/shipping-policy), etc.
+* Regarding [inventory](/en/docs/tutorials/managing-stock-items), the product must meet one of the following conditions:
+    * There is stock available for sale ([reserved](/en/docs/tutorials/how-does-reservation-work) items are not considered available).
     * Unlimited inventory is configured for the product.
     * The option to display the product when it is sold out is active.
 * The store [Content Management System (CMS)](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) templates are configured.
@@ -36,7 +36,7 @@ This article explains how to investigate and fix product unavailability errors o
 
 > ⚠️ After adjusting the product and SKU details or changing logistics settings, wait for the product to be indexed. You can track the status via the [indexing queue](/en/tutorial/entendendo-o-funcionamento-da-indexacao) in the VTEX Admin, under **Catalog > Reports > Indexed Products**. Once indexing is complete, we recommend accessing the product page on the store website using an anonymous browser tab to view the updated, uncached version.
 
-There are cases in which the product is displayed on the product listing page but becomes unavailable when added to the cart. This may be due to different logistics configurations. Learn more in the article [Which logistics settings can impact the product availability in the cart?](/en/tutorial/which-logistics-settings-can-impact-the-product-availability-in-the-cart--NAyBFToRdvlDyOzeeAeNw).
+There are cases in which the product is displayed on the product listing page but becomes unavailable when added to the cart. This may be due to different logistics configurations. Learn more in the article [Which logistics settings can impact the product availability in the cart?](/en/docs/tutorials/which-logistics-settings-can-impact-the-product-availability-in-the-cart).
 
 ## Catalog
 
@@ -63,11 +63,11 @@ To check the product settings, you must follow the steps below.
 
    > ⚠️ When adding a new product, you must associate it with a brand and a category that are active before it can be activated for the first time. However, once a product has been added and is active, deactivating the category and brand will not deactivate it completely. Products with inactive categories and brands become invisible in the store, which means they are not displayed in the search results and do not have their own pages. To make them unavailable, you must reset their quantity in stock to zero.
 
-    * **Trade policies:** Check if the product is associated with a [trade policy](/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV). If it's not, use the selection box to choose the trade policy with which you want to associate it.
+    * **Trade policies:** Check if the product is associated with a [trade policy](/en/docs/tutorials/how-trade-policies-work). If it's not, use the selection box to choose the trade policy with which you want to associate it.
     * **Market launch date:** Check if the date for the product launch on market is correct. If the date is set in the future, the product will only be displayed on the website at the mentioned date.
     * **Show on site:** Check if the **Yes** option is selected. Otherwise, the product will not be displayed on the website.
     * **Product active:** Check if the **Yes** option is selected. Otherwise, the product will not be displayed.
-    * **Show out of stock:** Check if the **Yes** option is selected — in this case, the expected behavior is that out-of-stock products will be shown in the store featuring a [Notify me](/en/tutorial/setting-up-the-notify-me-option--2VqVifQuf6Co2KG048Yu6e) button. If this option is not enabled, the product may not be displayed in the store because it is not available in stock.
+    * **Show out of stock:** Check if the **Yes** option is selected — in this case, the expected behavior is that out-of-stock products will be shown in the store featuring a [Notify me](/en/docs/tutorials/setting-up-the-notify-me-option) button. If this option is not enabled, the product may not be displayed in the store because it is not available in stock.
     * If the product contains specifications, check the **Specifications** tab to see if they are filled in.
 3. After each change, click `Save`.
 
@@ -117,7 +117,7 @@ On the SKUs page, in **Products > Catalog > Products and SKUs**, follow the inst
 
 ### Indexed Info
 
-For a product to be displayed on the website, it needs to be [indexed](/en/tutorial/understanding-how-indexation-works--tutorials_256). The **Catalog** indexer allows you to view detailed information about each product and SKU indexing, following the steps below.
+For a product to be displayed on the website, it needs to be [indexed](/en/docs/tutorials/understanding-how-indexation-works). The **Catalog** indexer allows you to view detailed information about each product and SKU indexing, following the steps below.
 
 1. In **Products > Catalog > Products and SKUs**, find in the list the SKU you want to investigate.
 2. On the row of the desired SKU, click the down arrow  <i class="fa-solid fa-sort-down"></i> next to the `Edit` button.
@@ -166,44 +166,44 @@ You can also create base prices using a spreadsheet or the Pricing API. For more
 
 ## Logistics
 
-Different aspects of [logistics](/en/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP) can cause the product's unavailability on the product listing page. The product may be unavailable because the store [shipping strategy](/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) does not allow shipping to the customer's location or because there is not enough quantity of the product in the [inventory](/en/tutorial/gerenciar-inventario--tutorials_139).
+Different aspects of [logistics](/en/docs/tutorials/fulfillment-logistics-vtex) can cause the product's unavailability on the product listing page. The product may be unavailable because the store [shipping strategy](/en/docs/tutorials/shipping-strategy) does not allow shipping to the customer's location or because there is not enough quantity of the product in the [inventory](/en/docs/tutorials/managing-stock-items).
 
-> ℹ️ If the product is displayed as available on the product listing page but becomes unavailable when added to the cart, see the article [Which logistics settings can impact the product availability in the cart?](/en/tutorial/which-logistics-settings-can-impact-the-product-availability-in-the-cart--NAyBFToRdvlDyOzeeAeNw). 
+> ℹ️ If the product is displayed as available on the product listing page but becomes unavailable when added to the cart, see the article [Which logistics settings can impact the product availability in the cart?](/en/docs/tutorials/which-logistics-settings-can-impact-the-product-availability-in-the-cart). 
 
 ### Shipping Simulator
 
 One way to test if there is a feasible delivery route is using the **Shipping Simulator** to validate the store's logistical settings and check your inventory.
 
-To simulate shipping an item to a location, in the VTEX Admin, go to **Shipping > Shipping Simulator**. You can find the instructions in the article [Shipping Simulator](/en/tutorial/simulador-de-envio--tutorials_144).
+To simulate shipping an item to a location, in the VTEX Admin, go to **Shipping > Shipping Simulator**. You can find the instructions in the article [Shipping Simulator](/en/docs/tutorials/shipping-simulation).
 
-> ⚠️ When investigating the availability of an item through the **Shipping Simulator**, we recommend using an address covered by all your [shipping policies](/en/tutorial/politica-de-envio--tutorials_140). If the item is unavailable for this location, it won't be available for any other.
+> ⚠️ When investigating the availability of an item through the **Shipping Simulator**, we recommend using an address covered by all your [shipping policies](/en/docs/tutorials/shipping-policy). If the item is unavailable for this location, it won't be available for any other.
 
-When the logistics settings for the [shipping policy](/en/tutorial/politica-de-envio--tutorials_140), [warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb), and [loading dock](/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) are configured correctly, and the shipping policy covers the customer's location, the item may not be displayed on the product listing page due to its inventory, as explained below.
+When the logistics settings for the [shipping policy](/en/docs/tutorials/shipping-policy), [warehouse](/en/docs/tutorials/warehouse), and [loading dock](/en/docs/tutorials/loading-dock) are configured correctly, and the shipping policy covers the customer's location, the item may not be displayed on the product listing page due to its inventory, as explained below.
 
 ### Inventory
 
 By adopting any of the following inventory strategies, you can ensure product availability on the product listing page:
 
-* Ensure sufficient item count for sales ([reserved](/en/tutorial/como-a-reserva-funciona--tutorials_92) items are not considered available).
+* Ensure sufficient item count for sales ([reserved](/en/docs/tutorials/how-does-reservation-work) items are not considered available).
     * In the VTEX Admin, go to **Catalog > Inventory > Inventory Management**, change the value in the *Update Count* column in the product row, and click `Save`.
-* Activate the [unlimited inventory](/en/tutorial/gerenciar-inventario--tutorials_139) option for the product.
+* Activate the [unlimited inventory](/en/docs/tutorials/managing-stock-items) option for the product.
     * In the VTEX Admin, go to **Catalog > Inventory > Inventory Management**, activate the toggle in the *Unlimited inventory* column in the product row, and click `Save`.
 * Configure the product to be displayed on the product listing page when out of stock.
     * In the VTEX Admin, go to **Catalog > All Products**, and click a product to go to its configuration page. In the *Product* tab, check the `Yes` option in the `Show when out of stock` field.
 
 If [future inventory](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/items/-skuId-/warehouses/-warehouseId-/supplyLots/-supplyLotId-) is configured for the SKU, the supply of this item could take longer than expected. In this period, the product unavailability on the product listing page could be due to a lack of stock.
 
-> ⚠️ If your store has [franchise accounts](/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex), for the inventory of these accounts to be available for sale, the products must be linked to the same [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) used in your storefront.
+> ⚠️ If your store has [franchise accounts](/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex), for the inventory of these accounts to be available for sale, the products must be linked to the same [trade policy](/en/docs/tutorials/how-trade-policies-work) used in your storefront.
 
 ## CMS
 
-If your product is still not visible on the website even after checking all the **Catalog**, **Prices** and **Logistics** settings, you must check your store [CMS](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC). See below to learn how to investigate if your store's [binding](/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) is correct and check the specific settings for [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) and [VTEX IO](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2).
+If your product is still not visible on the website even after checking all the **Catalog**, **Prices** and **Logistics** settings, you must check your store [CMS](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC). See below to learn how to investigate if your store's [binding](/en/docs/tutorials/what-is-binding) is correct and check the specific settings for [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) and [VTEX IO](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2).
 
 > ⚠️ To perform the CMS investigation described below, you must ask your store's developer team for support.
 
 ## Binding
 
-Regardless of which CMS your store uses — Legacy Portal or VTEX IO — you must confirm that the [binding](/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) is configured, i.e. that your website and its folder structure are correctly associated with your VTEX account.
+Regardless of which CMS your store uses — Legacy Portal or VTEX IO — you must confirm that the [binding](/en/docs/tutorials/what-is-binding) is configured, i.e. that your website and its folder structure are correctly associated with your VTEX account.
 
 1. In the VTEX Admin, go to **CMS > Layout**.
 2. Click the **CMS** folder.
@@ -248,9 +248,9 @@ For stores developed with VTEX IO, you need to check the following items in [you
 ## Learn more
 
 * [Catalog - concept definition](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR)
-* [Which logistics settings can impact the product availability in the cart?](/en/tutorial/which-logistics-settings-can-impact-the-product-availability-in-the-cart--NAyBFToRdvlDyOzeeAeNw)
-* [How indexing works](/en/tutorial/understanding-how-indexation-works--tutorials_256)
+* [Which logistics settings can impact the product availability in the cart?](/en/docs/tutorials/which-logistics-settings-can-impact-the-product-availability-in-the-cart)
+* [How indexing works](/en/docs/tutorials/understanding-how-indexation-works)
 * [Pricing module - Overview](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)
-* [Inventory management](/en/tutorial/managing-stock-items--tutorials_139)
-* [Shipping simulator](/en/tutorial/shipping-simulation--tutorials_144)
+* [Inventory management](/en/docs/tutorials/managing-stock-items)
+* [Shipping simulator](/en/docs/tutorials/shipping-simulation)
 * [CMS - Overview](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC)

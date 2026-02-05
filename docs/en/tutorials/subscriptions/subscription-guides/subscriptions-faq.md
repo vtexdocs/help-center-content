@@ -24,7 +24,7 @@ The number of subscriptions is unlimited, both for your store and for your custo
 Yes, customers can create as many subscriptions as they want.
 
 ### Can my customer buy via subscription and pick up from stores or other pickup points?
-Yes, read our article [Pickup points for Subscriptions (Beta)](/en/tutorial/pickup-points-for-subscription-orders-beta--csIqB6iBh4QNIFdEj0nVv) for more information.
+Yes, read our article [Pickup points for Subscriptions (Beta)](/en/docs/tutorials/pickup-points-for-subscription-orders) for more information.
 
 ### Can my customer add more than one address to their subscription?
 It is not possible to add more than one address to the same subscription.
@@ -39,7 +39,7 @@ Yes, they can create a subscription with multiple SKUs.
 
 The number of items in the subscription will match the quantity available when the recurring order is generated. If, for example, a customer has 4 SKUs in their subscription but only 3 are in stock at that moment, the recurring order will include only those 3 SKUs. In these cases, the missing item isn't charged, and the subscription order is marked as Partial in **My Account**.
 
-You can also notify customers about the partially generated subscription order using our [Message Center](/en/tutorial/emails-transacionais-para-pedidos-de-assinaturas--2NYHqHMRqZ43Cn6s84ZCB5) module. The key for this message template is `vtexcommerce-subscriptions-partialorder`.
+You can also notify customers about the partially generated subscription order using our [Message Center](/en/docs/tutorials/transactional-emails-for-subscriptions-orders) module. The key for this message template is `vtexcommerce-subscriptions-partialorder`.
 
 ### Can I give discounts on the products in a subscription plan?
 Yes, as long as you create a regular promotion and check the `Subscription order` checkbox. Learn how to create promotions in the track [Create Regular Promotion](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
@@ -57,7 +57,7 @@ If the customer card was canceled and they didn't notice before the subscription
 
 Additionally, they can update the card on the subscription at any time. If the card was canceled and the customer added a new one after the subscription was generated, that subscription order won't be created, but the next recurrence will be charged to the new card.
 
-Using our [Message Center](/en/tutorial/emails-transacionais-para-pedidos-de-assinaturas--2NYHqHMRqZ43Cn6s84ZCB5) module, you can enable sending an email to notify customers that the subscription payment wasn't approved. The key for this message template is `vtexcommerce-subscriptions-payment-not-approved`.
+Using our [Message Center](/en/docs/tutorials/transactional-emails-for-subscriptions-orders) module, you can enable sending an email to notify customers that the subscription payment wasn't approved. The key for this message template is `vtexcommerce-subscriptions-payment-not-approved`.
 
 ### Can my customers request a scheduled delivery for their subscription orders?
 Currently, it is not possible to request scheduled deliveries for subscription orders. We have made this decision to prevent your customers from being affected if your store's logistic configuration changes. 
@@ -89,4 +89,4 @@ However, you can set a different time via API using the [Edit subscriptions sett
 No, Subscriptions does not work with [Seller Portal](/en/tutorial/how-to-set-up-your-store-on-seller-portal).
 
 ### How does it work to create subscriptions from original orders that have SKUs with attachments?
-By default, stores do not create subscription orders associating SKU [attachments](/en/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) with the original order, i.e., attachments are not considered in recurring orders. However, you can enable this setting for your store, but it can only be done via API using the [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings) endpoint. Learn more in [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).
+By default, stores do not create subscription orders associating SKU [attachments](/en/docs/tutorials/what-is-an-attachment) with the original order, i.e., attachments are not considered in recurring orders. However, you can enable this setting for your store, but it can only be done via API using the [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings) endpoint. Learn more in [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).

@@ -27,7 +27,7 @@ To check if your account is enabled, go to **Admin VTEX > Marketplace > Marketpl
 
 ![Multi-origin enable](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/warehouse-assignment-on-mercado-libre_1.jpg)  
 
-If the value is `Yes`, you must configure the integration between your VTEX warehouses and Mercado Libre warehouses. To do so, follow the steps in [Configuring warehouse assignment](/en/tutorial/configurar-alocacao-de-estoque--1yCEr7xQ0gVsTBB0ktMYVX).  
+If the value is `Yes`, you must configure the integration between your VTEX warehouses and Mercado Libre warehouses. To do so, follow the steps in [Configuring warehouse assignment](/en/docs/tutorials/configuring-warehouse-assignment).  
 
 ## Other requirements  
 
@@ -35,7 +35,7 @@ To use the **Warehouse assignment** feature, you must also:
 
 - Have your account enabled for the new model for [adding products](/en/announcements/2025-06-30-new-offer-model-on-mercado-libre).  
 - Have at least one offer using the new model.  
-- Have active warehouses in the [VTEX Shipping Strategy](/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) module.  
+- Have active warehouses in the [VTEX Shipping Strategy](/en/docs/tutorials/shipping-strategy) module.  
 
 If your account doesn’t meet the requirements for enabling **Warehouse assignment** or **offering products in the new model**, please contact Mercado Libre support.
 

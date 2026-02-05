@@ -17,14 +17,14 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 
 > ℹ️ The **Releases** is in beta version, which means we are working to improve it. This feature is only available for stores using [FastStore](https://www.faststore.dev/).
 
-The **Releases** module allows you to manage [releases](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ) so that you can coordinate the creation, schedule and publication of the changes in your store. A release is a change or a group of changes that can be published together.
+The **Releases** module allows you to manage [releases](/en/docs/tutorials/planner-release-concept-beta) so that you can coordinate the creation, schedule and publication of the changes in your store. A release is a change or a group of changes that can be published together.
 
 In the **Releases**, you can view all the information about releases, follow the [status of the releases](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases) and perform a series of actions. In this article, we will present you those actions and how to perform them.
 
 The feature can be accessed through the VTEX Admin **Releases** navigation menu, where you’ll find the following pages:
 
-* [Calendar](/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C)
-* [Releases](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw)
+* [Calendar](/en/docs/tutorials/planner-calendar-page-beta)
+* [Releases](/en/docs/tutorials/planner-releases-page-beta)
 
 Each page displays a view of the releases and allows you to perform different actions depending on the [release status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases). The main actions are:
 
@@ -40,7 +40,7 @@ Each page displays a view of the releases and allows you to perform different ac
 
 To create a release through the **Releases**, follow these steps:
 
-1. In the [Calendar](/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C) or [Releases](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) page, click on `Create Release`.
+1. In the [Calendar](/en/docs/tutorials/planner-calendar-page-beta) or [Releases](/en/docs/tutorials/planner-releases-page-beta) page, click on `Create Release`.
 2. Fill in the **Name** field with a name for the release.
 3. In **Publish date**, choose a date to publish the release (optional).
 4. In **Time**, choose the time of the publication (optional).
@@ -69,7 +69,7 @@ There are three possible actions you can perform when you set the publication da
 
 To schedule a release with the `Unscheduled` status, follow these steps:
 
-1. In the [Releases](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) page, click on the three-dots menu icon <i class="fas fa-ellipsis-v"></i> of the desired release.
+1. In the [Releases](/en/docs/tutorials/planner-releases-page-beta) page, click on the three-dots menu icon <i class="fas fa-ellipsis-v"></i> of the desired release.
 2. Choose the <i class="fal fa-calendar"></i> `Schedule` option.
 3. In **Publish date**, choose a date to publish the release.
 4. In **Time**, choose the time of the publication.
@@ -87,7 +87,7 @@ When the release is in the `Scheduled` status, you can reschedule it. The steps 
 
 To unschedule a release and move it to the `Unscheduled` status, follow these steps:
 
-1. In the [Releases](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) page, click on the three-dots menu icon <i class="fas fa-ellipsis-v"></i> of the desired release.
+1. In the [Releases](/en/docs/tutorials/planner-releases-page-beta) page, click on the three-dots menu icon <i class="fas fa-ellipsis-v"></i> of the desired release.
 2. Choose the <i class="fal fa-calendar"></i> `Unschedule` option.
 3. Click on the `Unschedule` button.
 
@@ -101,7 +101,7 @@ In order to publish a release, it needs to be in one of the following [status](/
 
 In order to publish a release and make the changes available in the storefront of your store, follow these step-by-step instructions:
 
-1. In the [Releases](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) page, click on the three-dots menu icon <i class="fas fa-ellipsis-v"></i> of the desired release.
+1. In the [Releases](/en/docs/tutorials/planner-releases-page-beta) page, click on the three-dots menu icon <i class="fas fa-ellipsis-v"></i> of the desired release.
 2. Click on <i class="far fa-cloud-upload"></i> `Publish Now.`
 3. Click on `Publish.`
 
@@ -115,12 +115,12 @@ When you delete a release in the `Published` status, its changes remain in the s
 
 To delete a release, follow these step-by-step instructions:
 
-1. In the [Releases](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) page, click on the three-dots menu icon <i class="fas fa-ellipsis-v"></i> of the desired release.
+1. In the [Releases](/en/docs/tutorials/planner-releases-page-beta) page, click on the three-dots menu icon <i class="fas fa-ellipsis-v"></i> of the desired release.
 2. Click on <i class="far fa-trash-alt"></i> `Delete`.
 3. Click on `Delete` again.
 
 ## Learn more
 
-* [Releases: Release concept](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ)
-* [Releases: Calendar page](/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C)
-* [Releases: Releases page](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw)
+* [Releases: Release concept](/en/docs/tutorials/planner-release-concept-beta)
+* [Releases: Calendar page](/en/docs/tutorials/planner-calendar-page-beta)
+* [Releases: Releases page](/en/docs/tutorials/planner-releases-page-beta)

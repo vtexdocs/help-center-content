@@ -25,4 +25,4 @@ We developed this feature to allow sellers to offer product customization option
 
 ## What needs to be done?
 No action is required. The feature is already available in VTEX Sales App.
-For more information on how to use this feature, see the article [Assembly Options in VTEX Sales App](/en/tutorial/assembly-options-no-vtex-sales-app--4fTfqOMcXyhAhWXkl935lr).
+For more information on how to use this feature, see the article [Assembly Options in VTEX Sales App](/en/docs/tutorials/assembly-options-in-vtex-sales-app).

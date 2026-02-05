@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'New gift card events added to Audit records.'
 ---
 
-[Audit](/en/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA) is a module that records events that happen in your VTEX store, enabling future auditing. VTEX has improved Audit by adding three new events related to gift card operations.
+[Audit](/en/docs/tutorials/audit) is a module that records events that happen in your VTEX store, enabling future auditing. VTEX has improved Audit by adding three new events related to gift card operations.
 
 ## What has changed?
 
@@ -24,7 +24,7 @@ We’ve added the following gift card events to the **Catalog (API)** and **Gift
 ### Catalog (API)
 | Action | Description | Event details |
 |---|---|---|
-| GiftCard Create | Creates a [native gift card](/en/tutorial/gift-card--tutorials_995) (GiftCard System). | ID of the gift card created and the user who performed the action. |
+| GiftCard Create | Creates a [native gift card](/en/docs/tutorials/gift-card) (GiftCard System). | ID of the gift card created and the user who performed the action. |
 | GiftCard List All Paged | Internal flow for displaying available gift cards. | ID of the gift cards returned by the API and the user who searched. |
 
 ### Gift card
@@ -34,6 +34,6 @@ We’ve added the following gift card events to the **Catalog (API)** and **Gift
 
 ## What needs to be done?
 
-No action is required. The [Audit](/en/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA) update is already active for all accounts.
+No action is required. The [Audit](/en/docs/tutorials/audit) update is already active for all accounts.
 
-Learn more in [Events available in Audit](/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
+Learn more in [Events available in Audit](/en/docs/tutorials/events-available-in-audit).

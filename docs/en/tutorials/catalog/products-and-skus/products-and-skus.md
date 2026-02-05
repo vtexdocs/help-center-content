@@ -35,11 +35,11 @@ From the product list, you can find the following information:
 | **Column** | **Description** |
 |----|----|
 | **Name** | The product name, set when adding it. Below the name, the page displays the product ID, which is the product's unique identifier code.Next to the name, each row displays an arrow <i class="fas fa-chevron-right"></i> to [view the list of SKUs](#viewing-the-sku-list) associated with the product, an icon that represents [product availability](#tracking-product-availability) and the product image. |
-| **Last Update** | Date of the most recent product [indexing](/en/tutorial/understanding-how-indexation-works--tutorials_256). For more details about this process, go to the [Viewing indexed information](#viewing-indexed-information) section. |
+| **Last Update** | Date of the most recent product [indexing](/en/docs/tutorials/understanding-how-indexation-works). For more details about this process, go to the [Viewing indexed information](#viewing-indexed-information) section. |
 
 ## Creating a product
 
-When you click the `Add Product` button, the page for [adding a new product](/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8) to the catalog opens. For details on how to complete each field, see the article [Filling in product registration fields](/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke).
+When you click the `Add Product` button, the page for [adding a new product](/en/docs/tutorials/adding-or-editing-products) to the catalog opens. For details on how to complete each field, see the article [Filling in product registration fields](/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke).
 
 ## Searching for a product
 
@@ -64,10 +64,10 @@ You can filter the product list using the options below. Select the desired filt
 * [Status](#filtering-by-status)
 * [Brand](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh)
 * [Category](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
-* [Seller](/en/tutorial/what-is-a-seller--5FkLvhZ3Few4CWWIuYOK2w)
-* [Kit](/en/tutorial/what-is-a-kit--5ov5s3eHM4AqAAgqWwoc28)
+* [Seller](/en/docs/tutorials/what-is-a-seller)
+* [Kit](/en/docs/tutorials/what-is-a-bundle)
 * [Store Visibility](/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke)
-* [Trade policy](/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV)
+* [Trade policy](/en/docs/tutorials/how-trade-policies-work)
 * Created date
 
 > ⚠️ To quickly find recently created products, use the `Created date` filter. You can filter by products created `Today` or in the `Last 7 days`.
@@ -89,7 +89,7 @@ On the **Products and SKUs** page, each product has a colored icon that indicate
 
 | **Icon color** | **Name** | **Meaning** |
 | :---: | :--- | :--- |
-| Green | `Available for sale` | The product is enabled with an active status and is available for sale in the store, associated with at least one [trade policy](/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV). |
+| Green | `Available for sale` | The product is enabled with an active status and is available for sale in the store, associated with at least one [trade policy](/en/docs/tutorials/how-trade-policies-work). |
 | Orange | `Unavailable product` | The product is unavailable for sale, even though it is active. This means the seller marked the product as available for sale, but it is currently not sellable.Several reasons may cause a product to be unavailable, such as pricing, inventory, logistics, or others. For more information, check the article [Why is the product not showing on the website?](/en/faq/why-is-the-product-not-visible-on-the-website) |
 | White | `Inactive in the catalog` | The product is disabled and has an inactive status.When a seller disables a product, it means they do not intend to sell it. In this case, availability tracking does not apply. |
 
@@ -110,7 +110,7 @@ In the SKU list, you'll find the following information:
 
 Hovering over a SKU row displays icons that allow you to perform different actions:
 
-* <i class="fas fa-cube" aria-hidden="true"></i>**Edit inventory:** Takes you to the inventory management page in VTEX Admin, where you can change the quantity of the SKU available in stock. Check out the [Inventory management](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) article for more information.
+* <i class="fas fa-cube" aria-hidden="true"></i>**Edit inventory:** Takes you to the inventory management page in VTEX Admin, where you can change the quantity of the SKU available in stock. Check out the [Inventory management](/en/docs/tutorials/managing-stock-items) article for more information.
 * <i class="fas fa-dollar-sign" aria-hidden="true"></i> **Edit prices:** Takes you to the **Price list** in the VTEX Admin to change the prices of the SKU.
 * <i class="fas fa-info-circle" aria-hidden="true"></i> **Information:** Opens a modal displaying the SKU price, inventory, and trade policy details.
 * <i class="far fa-clone"></i> __Copy SKU Code:__ Copies the SKU ID to the clipboard.
@@ -126,17 +126,17 @@ You can also edit the product from the [action menu](#accessing-the-action-menu)
 
 By clicking the menu icon <i class="fas fa-ellipsis-v"></i> in a product, you can:
 
-* **Edit product:** Takes you to the page for [adding product](/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8) to change product details.
+* **Edit product:** Takes you to the page for [adding product](/en/docs/tutorials/adding-or-editing-products) to change product details.
 * **View SKU list:** It takes you to the SKU list screen.
-* **Edit similar category:** It takes you to the similar category configuration screen, which allows you to associate another category to the product. For more information, read the [How to set up similar categories](/en/tutorial/configurando-categoria-similar--tutorials_204) article. 
+* **Edit similar category:** It takes you to the similar category configuration screen, which allows you to associate another category to the product. For more information, read the [How to set up similar categories](/en/docs/tutorials/setting-up-similar-categories) article. 
 * **Edit prices:** Takes you to the **Price list** in the VTEX Admin to change the prices of the product and its SKUs.
-* **Edit inventory:** Takes you to the inventory management screen in the VTEX Admin to change the quantity of each product SKU available in stock. Check the [Inventory management](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) article for more information.
-* **View in store:** Takes you to the product detail page (PDP) on the [storefront](/en/tutorial/visao-geral-storefront--7cRrL2xtY7HDqiyep1PxIS).
+* **Edit inventory:** Takes you to the inventory management screen in the VTEX Admin to change the quantity of each product SKU available in stock. Check the [Inventory management](/en/docs/tutorials/managing-stock-items) article for more information.
+* **View in store:** Takes you to the product detail page (PDP) on the [storefront](/en/docs/tutorials/storefront-overview).
 * **View indexed info:** Opens a modal with product and SKU indexing information. See the [Viewing indexed information](#viewing-indexed-information) section for more details. 
 
 ## Viewing indexed information
 
-The **Products and SKUs** page lets you track the product and SKU [indexing](/en/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) logs. To do this, find the desired product row, click the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> [action menu](#accessing-the-action-menu), and select `View indexing information`. This will open the Indexing Log modal, as shown in the image below:
+The **Products and SKUs** page lets you track the product and SKU [indexing](/en/docs/tutorials/understanding-how-indexation-works) logs. To do this, find the desired product row, click the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> [action menu](#accessing-the-action-menu), and select `View indexing information`. This will open the Indexing Log modal, as shown in the image below:
 
 ![products_and_skus_indexing_modal_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/products-and-skus_3.png)
 
@@ -144,9 +144,9 @@ In the top right corner of the modal, you can copy the content to the clipboard 
 
 ## Learn more
 
-* [Adding or editing products](/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8)
-* [Adding or editing SKUs](/en/tutorial/adding-or-editing-skus--4ryZ6J45kwn3jDiQBxGiiN)
+* [Adding or editing products](/en/docs/tutorials/adding-or-editing-products)
+* [Adding or editing SKUs](/en/docs/tutorials/adding-or-editing-skus)
 * [Filling in product registration fields](/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke)
 * [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website)
-* [Which logistics settings can impact the product availability in the cart?](/en/tutorial/quais-configuracoes-logisticas-impactam-na-disponibilidade-do-produto-no-carrinho--NAyBFToRdvlDyOzeeAeNw)
+* [Which logistics settings can impact the product availability in the cart?](/en/docs/tutorials/which-logistics-settings-can-impact-the-product-availability-in-the-cart)
 

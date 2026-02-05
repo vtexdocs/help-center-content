@@ -51,7 +51,7 @@ A missing product in a search result may come from incomplete fields during the 
 
 1. In the Admin VTEX, go to **Catalog > All Products**.
 
-> ⚠️ Stores using the **Products and SKUS (Beta)** page should check the product registration fields by going to **Catalog > Products and SKUs** in the VTEX Admin. Learn more about [Produtos and SKUS (Beta)](/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).
+> ⚠️ Stores using the **Products and SKUS (Beta)** page should check the product registration fields by going to **Catalog > Products and SKUs** in the VTEX Admin. Learn more about [Produtos and SKUS (Beta)](/en/docs/tutorials/products-and-skus).
 
 2. Find the product you want and click **Edit product**.
 

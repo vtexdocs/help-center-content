@@ -31,7 +31,7 @@ You can actively update the tracking data using the [Update Order Tracking Statu
 
 This data can be sent by any external system that is tracking the delivery status of the package, whether it be an ERP, middleware, or the carrier itself.
 
-It is also possible to [insert the variable](/en/tutorial/incluir-variaveis-do-pedido-no-template-de-e-mail-transacional--694Bn8eOeAWYQeaWGaOISe) `trackingURL` in some [Message Center templates](/en/tutorial/lista-de-templates-de-e-mail-no-message-center--3g2S2kqBOoSGcCaqMYK2my), such as **Order invoiced** and **Order shipped**, which will allow the client to track their order via the link.
+It is also possible to [insert the variable](/en/tutorial/incluir-variaveis-do-pedido-no-template-de-e-mail-transacional--694Bn8eOeAWYQeaWGaOISe) `trackingURL` in some [Message Center templates](/en/docs/tutorials/order-transactional-email-templates), such as **Order invoiced** and **Order shipped**, which will allow the client to track their order via the link.
 
 ## Integration with Correios
 

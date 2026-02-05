@@ -15,9 +15,9 @@ locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-The [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By) page allows merchants to manage existing products and variations or add new ones. This article describes how to add or edit products. For information on SKUs, see [Adding or editing SKUs](/en/tutorial/adding-or-editing-skus--4ryZ6J45kwn3jDiQBxGiiN).
+The [Products and SKUs](/en/docs/tutorials/products-and-skus) page allows merchants to manage existing products and variations or add new ones. This article describes how to add or edit products. For information on SKUs, see [Adding or editing SKUs](/en/docs/tutorials/adding-or-editing-skus).
 
-> ℹ️ Registering products can also be done by [importing a spreadsheet](/en/tutorial/filling-in-fields-in-the-import-spreadsheet--4nYhx63Q5yokQWaMguaIgI) or via ERP, following the [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-import-products) instructions on our Developer Portal.
+> ℹ️ Registering products can also be done by [importing a spreadsheet](/en/docs/tutorials/filling-in-fields-in-the-import-spreadsheet) or via ERP, following the [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-import-products) instructions on our Developer Portal.
 
 To add a new product to the store catalog, follow these steps:
 
@@ -35,7 +35,7 @@ To add a new product to the store catalog, follow these steps:
 4. Depending on the product category, the **Category attributes** step might appear with additional sections. Complete the fields as described in [Category attributes](#category-attributes).
 5. Click `Save`.
 
-> ❗ You can deactivate a product after creating it, but you can't delete a single product. The platform only allows bulk deleting products and SKUs in bulk via [Full Cleanup](/en/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802).
+> ❗ You can deactivate a product after creating it, but you can't delete a single product. The platform only allows bulk deleting products and SKUs in bulk via [Full Cleanup](/en/docs/tutorials/database-maintenance-full-cleanup).
 
 > ℹ️ If the product you created doesn't show in the storefront, check the article [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website) to learn how to solve the problem.
 
@@ -45,26 +45,26 @@ See the following sections to learn how to complete the product creation fields.
 
 The fields in this section provide general product details:
 
-* **Product name*:** Enter the product name to be displayed to customers during their browsing experience. The limit is 150 characters. This field is crucial for [SEO](/en/tutorial/melhorando-o-seo-das-paginas-de-lista-de-produtos--UrQtlKAMuSaLBP5wG9ftG), so we recommend the following:
+* **Product name*:** Enter the product name to be displayed to customers during their browsing experience. The limit is 150 characters. This field is crucial for [SEO](/en/docs/tutorials/improving-the-seo-of-product-listing-pages), so we recommend the following:
     * ✅ Use simple words
     * ❌ Avoid other languages
     * ❌ Avoid complex spelling
-* **Active:** To activate the product, enable the toggle <i class="fas fa-toggle-on" aria-hidden="true"></i> **Active**. To keep it inactive, leave the toggle switch <i class="fas fa-toggle-off" aria-hidden="true"></i> disabled. Learn more about product statuses in the article [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By).
+* **Active:** To activate the product, enable the toggle <i class="fas fa-toggle-on" aria-hidden="true"></i> **Active**. To keep it inactive, leave the toggle switch <i class="fas fa-toggle-off" aria-hidden="true"></i> disabled. Learn more about product statuses in the article [Products and SKUs](/en/docs/tutorials/products-and-skus).
 * **Description:** Enter general product information in the text box. This content is displayed to customers in the storefront, so we recommend creating a simple and clear summary.
 
   > ℹ️ This field allows you to add an image to the product description using an HTML tag that contains the image URL. However, we recommend managing your catalog images through [SKU media](/en/tutorial/adding-or-editing-skus--4ryZ6J45kwn3jDiQBxGiiN#media).
 
 * **Additional description:** When you activate the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i> **Additional description**, a text box displays for including additional product information, such as a summary.
-* **Brand*:** Type or search for the product [brand](/en/tutorial/o-que-e-uma-marca--QU07yhHoaWcEYseEucOQW) name and select the desired option. Make sure the [brand exists](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7lEGOSpAlQJCs5eUc5XFmR) and is active.
-* **Category*:** Type or search for the product [category](/en/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) name and select the desired option, preferably the most specific category level. Make sure the [category exists](/en/tutorial/cadastrar-uma-categoria--tutorials_206) and is active.
-* **Trade policies:** Choose whether the product should be linked to "All [trade policies](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)" or "Specific trade policies". The second option is selected by default, but you must assign one or more values to the field.
+* **Brand*:** Type or search for the product [brand](/en/docs/tutorials/what-is-a-brand) name and select the desired option. Make sure the [brand exists](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7lEGOSpAlQJCs5eUc5XFmR) and is active.
+* **Category*:** Type or search for the product [category](/en/docs/tutorials/what-is-a-category) name and select the desired option, preferably the most specific category level. Make sure the [category exists](/en/docs/tutorials/registering-a-category) and is active.
+* **Trade policies:** Choose whether the product should be linked to "All [trade policies](/en/docs/tutorials/how-trade-policies-work)" or "Specific trade policies". The second option is selected by default, but you must assign one or more values to the field.
 
 ## SEO
 
-The [SEO](/en/tutorial/melhorando-o-seo-das-paginas-de-lista-de-produtos--UrQtlKAMuSaLBP5wG9ftG) (Search Engine Optimization) section focuses on optimizing your website to stand out in search results on Google, Bing, and other search engines.
+The [SEO](/en/docs/tutorials/improving-the-seo-of-product-listing-pages) (Search Engine Optimization) section focuses on optimizing your website to stand out in search results on Google, Bing, and other search engines.
 
-* **Global category:** Enter the [product's global category](/en/tutorial/configurando-a-categoria-global--tutorials_188), which refers to the taxonomy created by Google for the [Merchant Center](https://support.google.com/merchants/answer/6324436?hl=pt-BR). This is predefined as a unique tree in the VTEX platform.
-* **Product URL:** Enter the product URL. The link can't contain spaces and words must be separated by hyphens (-). If you don't enter a value, the platform automatically generates a URL. Learn more in the article [How to define the URL for a product page?](/en/tutorial/como-definir-a-url-de-um-produto--frequentlyAskedQuestions_368).
+* **Global category:** Enter the [product's global category](/en/docs/tutorials/setting-up-the-global-category), which refers to the taxonomy created by Google for the [Merchant Center](https://support.google.com/merchants/answer/6324436?hl=pt-BR). This is predefined as a unique tree in the VTEX platform.
+* **Product URL:** Enter the product URL. The link can't contain spaces and words must be separated by hyphens (-). If you don't enter a value, the platform automatically generates a URL. Learn more in the article [How to define the URL for a product page?](/en/docs/tutorials/how-to-define-the-url-for-a-product-page).
 
   > ❗ When filling in the **Product URL**, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages: `a`, `meta`, `api` and `admin`.
 
@@ -75,17 +75,17 @@ The [SEO](/en/tutorial/melhorando-o-seo-das-paginas-de-lista-de-produtos--UrQtlK
 
 ## Storefront
 
-These fields define how the product displays in the [storefront](/en/tutorial/visao-geral-storefront--7cRrL2xtY7HDqiyep1PxIS):
+These fields define how the product displays in the [storefront](/en/docs/tutorials/storefront-overview):
 
 * **Display on website:** If you want to make the product visible in the storefront, enable the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i>. To hide it, keep it disabled <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 * **Show when out of stock:** If you want the out-of-stock product to be displayed on the storefront, enable the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i>. This allows customers to use the [Notify me](/en/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e#) feature, which allows them to enter their email and receive a notification when the product is available. To hide out-of-stock items, keep it disabled <i class="fas fa-toggle-off" aria-hidden="true"></i>.
-* **Release date:** Set a date to make the product available for sale. This field helps sort search results on the website. You can use the query string `O=OrderByReleaseDateDESC` to retrieve this value and display products in order of release date. In addition, the value of this field influences the creation of [automatic collections](/en/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye) and determines the product [indexing](/en/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) date.
+* **Release date:** Set a date to make the product available for sale. This field helps sort search results on the website. You can use the query string `O=OrderByReleaseDateDESC` to retrieve this value and display products in order of release date. In addition, the value of this field influences the creation of [automatic collections](/en/docs/tutorials/creating-collections-beta) and determines the product [indexing](/en/docs/tutorials/understanding-how-indexation-works) date.
 * **Substitute words:** Include synonyms for department and/or product category names by typing the desired term and pressing `Enter`. This field helps make product searches more comprehensive, allowing you to add multiple words up to a limit of 8,000 characters.
 
   > Example: For the product "Sneakers", substitute words could be "Trainers", "Running shoes", and "Athletic shoes".
 
 * **Similar categories:** Add the names of [similar categories](/en/tutorial/configurando-categoria-similar).
-* **Priority in search order:** Click the arrows to assign a priority level to the product on the search results page. Negative values aren't allowed. For more information, see the article [How does the Score field work?](/en/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
+* **Priority in search order:** Click the arrows to assign a priority level to the product on the search results page. Negative values aren't allowed. For more information, see the article [How does the Score field work?](/en/docs/tutorials/how-does-the-score-field-work).
 
 ## Identifiers
 
@@ -110,7 +110,7 @@ The table below shows examples of product specifications for products in differe
 
 ## Learn more
 
-* [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By)
-* [Adding or editing SKUs](/en/tutorial/adding-or-editing-skus--4ryZ6J45kwn3jDiQBxGiiN)
-* [Catalog: Overview](/en/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe)
+* [Products and SKUs](/en/docs/tutorials/products-and-skus)
+* [Adding or editing SKUs](/en/docs/tutorials/adding-or-editing-skus)
+* [Catalog: Overview](/en/docs/tutorials/catalog-overview)
 * [Catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ) (track)

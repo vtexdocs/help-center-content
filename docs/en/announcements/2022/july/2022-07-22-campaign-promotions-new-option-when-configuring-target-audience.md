@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Use multiple target audiences in a campaign audience simultaneously, instead of applying audiences alternatively.'
 ---
 
-Promotions dedicated to segments of audience are strategic actions for attracting and retaining customers. At VTEX, a [campaign promotion](/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume) allows you to reach specific target audiences within a single [campaign audience](/en/tutorial/campaign-audiences--3o7lhpNseXY2WmjZO0gQ6m).
+Promotions dedicated to segments of audience are strategic actions for attracting and retaining customers. At VTEX, a [campaign promotion](/en/docs/tutorials/campaign-promotion) allows you to reach specific target audiences within a single [campaign audience](/en/docs/tutorials/campaign-audiences).
 
 We have improved the campaign audience settings so that you can add up target audiences instead of using just one audience at a time. Therefore, you can combine different criteria and be even more specific when defining the audience benefiting from a promotion.
 
@@ -45,8 +45,8 @@ No action is needed. The change will be automatically implemented in all VTEX st
 
 For more information on campaign promotions and campaign audiences, please refer to our documentation:
 
-- [Creating a campaign audience](/en/tutorial/creating-campaign-audiences--6cnuDZJzIkIeocewAQQK4K)
-- [Campaign Audiences](/en/tutorial/campaign-audiences--3o7lhpNseXY2WmjZO0gQ6m)
-- [Creating a campaign promotion](/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume)
+- [Creating a campaign audience](/en/docs/tutorials/creating-a-campaign-audience)
+- [Campaign Audiences](/en/docs/tutorials/campaign-audiences)
+- [Creating a campaign promotion](/en/docs/tutorials/campaign-promotion)
 - [Promotions & Taxes API](https://developers.vtex.com/vtex-rest-api/reference/setcampaignconfiguration)
 

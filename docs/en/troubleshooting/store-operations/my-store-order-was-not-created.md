@@ -25,7 +25,7 @@ When a customer tries to buy a product and an error occurs in creating the order
 
 Before considering complex causes for errors with orders that were not created, try the troubleshooting processes presented in this article. Some of the most common error scenarios are:
 
-* The item was not available in the [inventory](/en/tutorial/inventory-management--tutorials_139), and the store was not configured to sell _out-of-stock_ products.
+* The item was not available in the [inventory](/en/docs/tutorials/managing-stock-items), and the store was not configured to sell _out-of-stock_ products.
 * The XML integration was not configured to send information about _out-of-stock_ products.
 
 ## Solutions
@@ -37,7 +37,7 @@ Consider the following troubleshooting processes for order creation errors:
 
 ### Manage inventory
 
-There are two ways to manage your [inventory](/en/tutorial/inventory-management--tutorials_139):
+There are two ways to manage your [inventory](/en/docs/tutorials/managing-stock-items):
 
 * **Via API:** Using the endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 * **Via VTEX Admin:** Accessing _Catalog > Inventory > Inventory Management_.
@@ -51,7 +51,7 @@ The following solutions focus on inventory management via VTEX Admin:
 
 ### Review XML integration
 
-XML is a markup language that defines and stores data in a shareable manner. When your [store’s XML integration](/en/tutorial/configurando-xml--tutorials_242) is not set for certain configurations, it might not be able to export a product information.
+XML is a markup language that defines and stores data in a shareable manner. When your [store’s XML integration](/en/docs/tutorials/configuring-xml) is not set for certain configurations, it might not be able to export a product information.
 
 An error with product missing information can happen when the product has no inventory and the integration is not set for sending _out-of-stock_ products. To activate the configuration, follow the steps below:
 

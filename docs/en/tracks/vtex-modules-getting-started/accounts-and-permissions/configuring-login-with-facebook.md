@@ -20,7 +20,7 @@ For this, some alternatives are offered, including **Facebook**.
 
 ## Registering a Client Id and a Client Secret for login with Facebook
 
-To configure a Facebook registration, follow the instructions detailed in [this article about the registration of Client Id and Client Secret for login with Facebook](/en/tutorial/registering-a-client-id-and-a-client-secret-for-login-with-facebook--3R7rzXWG1GswWOIkYyy8SO).
+To configure a Facebook registration, follow the instructions detailed in [this article about the registration of Client Id and Client Secret for login with Facebook](/en/docs/tutorials/adding-a-client-id-and-a-client-secret-to-log-in-with-facebook).
 
 ## Configuring login on VTEX
 

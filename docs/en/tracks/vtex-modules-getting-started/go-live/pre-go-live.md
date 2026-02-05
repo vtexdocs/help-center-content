@@ -33,9 +33,9 @@ After you receive the internal pointing confirmation, you must do the [common DN
 
 ## Requesting special pointing
 
-If your store access is limited by a [trade policy](/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) with a conditional rule and your storefront was built with the [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), you will need to request a special internal pointing.
+If your store access is limited by a [trade policy](/en/docs/tutorials/creating-a-trade-policy) with a conditional rule and your storefront was built with the [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), you will need to request a special internal pointing.
 
-An example is [B2B stores](/en/tutorial/b2b-visao-geral--5vb9SNXhX2bZnkpAh7ADdC), which [restrict access](/en/tutorial/configurando-b2b-na-vtex--tutorials_238) to pre-approved companies.
+An example is [B2B stores](/en/docs/tutorials/b2b-overview), which [restrict access](/en/docs/tutorials/setting-up-b2b-on-vtex) to pre-approved companies.
 
 To request a special pointing, open a ticket with [VTEX support](https://supporticket.vtex.com/support), indicating which trade policy and conditional rule are configured. This process can take up to 3 business days.
 

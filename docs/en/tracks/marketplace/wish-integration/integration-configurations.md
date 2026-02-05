@@ -42,7 +42,7 @@ _ex: Carrier X has a shipping rate of U$ 7,00 to Atlanta (metropolitan region) i
 To indicate which of your store's carriers corresponds to [those accepted by Wish](https://merchant.wish.com/documentation/shippingproviders), you'll need to perform a from/to in your configuration.
 
   1. Using the first selector (_dropdown_), indicate which carrier will be used for Wish;
-  2. Using the second selector, indicate which VTEX [carrier type](/en/tutorial/difference-between-delivery-types--tutorials_126) would correspond to the one selected during the previous step;
+  2. Using the second selector, indicate which VTEX [carrier type](/en/docs/tutorials/how-does-the-type-of-delivery-work) would correspond to the one selected during the previous step;
     _Ex: Suppose that you're using TNT as a carrier and that your VTEX Logistics panel identifies this carrier or delivery type as "standard". Therefore, the field should be called "Standard". Remember that the word should exactly match the one appearing in your Logistics module. 
   
   3. Click on "save" to conclude the setup.
@@ -55,7 +55,7 @@ To indicate which of your store's carriers corresponds to [those accepted by Wis
 
 The value (in %) of how much the order value may differ from the original value should be given in this field.
 
-_Ex: The set rate is 10%. The original order value should be U$ 100, but it came from Wish at U$ 109, so considering the set rate, the order will be integrated. However, if the order comes in at U$ 150, then it would have been denied and displayed in the [Orders tab (within the Admin integrations section)](/en/tutorial/checking-integrations-in-bridge--tutorials_422)._
+_Ex: The set rate is 10%. The original order value should be U$ 100, but it came from Wish at U$ 109, so considering the set rate, the order will be integrated. However, if the order comes in at U$ 150, then it would have been denied and displayed in the [Orders tab (within the Admin integrations section)](/en/docs/tutorials/checking-integrations-in-bridge)._
 
 ## Currency conversion
 

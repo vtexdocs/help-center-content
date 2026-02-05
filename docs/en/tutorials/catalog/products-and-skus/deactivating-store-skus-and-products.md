@@ -15,7 +15,7 @@ locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-After you add a [product or SKU](/en/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) to your catalog, you can no longer delete it individually, since the VTEX platform only allows bulk deletion of products and SKUs using the [Full Cleanup](/en/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802) feature. However, you can deactivate a product or SKU so that it no longer displays on your storefront. 
+After you add a [product or SKU](/en/docs/tutorials/products-and-skus) to your catalog, you can no longer delete it individually, since the VTEX platform only allows bulk deletion of products and SKUs using the [Full Cleanup](/en/docs/tutorials/database-maintenance-full-cleanup) feature. However, you can deactivate a product or SKU so that it no longer displays on your storefront. 
 
 This article explains how to deactivate a product or SKU and is divided into the following sections:
 
@@ -55,6 +55,6 @@ To deactivate a SKU, follow the steps below:
 
 ## Learn more
 
-* [Products and SKUs](/en/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By)
-* [Adding or editing products](/en/tutorial/adicionar-ou-editar-produto--29IkdEu6GofCFlltsZh2H8)
-* [Adding or editing SKUs](/en/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN)
+* [Products and SKUs](/en/docs/tutorials/products-and-skus)
+* [Adding or editing products](/en/docs/tutorials/adding-or-editing-products)
+* [Adding or editing SKUs](/en/docs/tutorials/adding-or-editing-skus)

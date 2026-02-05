@@ -17,9 +17,9 @@ subcategoryId: 2xWRgEIlR2ookieEmm4KQu
 
 *Seller management* is the module where marketplace operators can manage sellers and invite them to connect to the marketplace and sell their products. In this module, it is possible to invite different types of sellers, as follows:
 
-- VTEX Store [Seller Management](/en/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv) is the page where marketplace operators add sellers, enter their information, and manage their status. This article will guide you through the steps needed to add a new seller. Information entered when creating a seller is not visible on the marketplace storefront and is only viewed by marketplace users at their VTEX Admin at **Marketplace > Management**.
+- VTEX Store [Seller Management](/en/docs/tutorials/seller-management) is the page where marketplace operators add sellers, enter their information, and manage their status. This article will guide you through the steps needed to add a new seller. Information entered when creating a seller is not visible on the marketplace storefront and is only viewed by marketplace users at their VTEX Admin at **Marketplace > Management**.
 
-To add an unidentifiable seller, aka [white label seller](/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa), this model must be provided for in your contract with VTEX. In case you need to make changes to your contract, please contact your VTEX sales representative and submit a request to [add a franchise account](/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) through our Support. Every franchise account is created as a white label seller. It is not possible to change the seller type after its creation. 
+To add an unidentifiable seller, aka [white label seller](/en/docs/tutorials/white-label-seller), this model must be provided for in your contract with VTEX. In case you need to make changes to your contract, please contact your VTEX sales representative and submit a request to [add a franchise account](/en/docs/tutorials/what-is-a-franchise-account) through our Support. Every franchise account is created as a white label seller. It is not possible to change the seller type after its creation. 
 
 > ℹ️ If you want to find new partners to sell in your marketplace, use the **Find sellers,** which facilitates the identification and the communication between marketplaces and sellers operating in the VTEX ecosystem, as well as certified partners.
 
@@ -30,8 +30,8 @@ To add an unidentifiable seller, aka [white label seller](/en/tutorial/definicoe
 5. Click `Save`.     
 
 **Integration**
-- **VTEX seller’s account**: Enter the [account name](/en/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) of the seller.  
-- **Affiliate ID**: Enter the identification code of the [affiliate](/en/tutorial/como-configurar-afiliado--tutorials_187), defined by the seller when adding their marketplace. It always consists of three consonants, whether they are repeated or not. Vowels are not accepted.  
+- **VTEX seller’s account**: Enter the [account name](/en/docs/tutorials/what-is-an-account-name) of the seller.  
+- **Affiliate ID**: Enter the identification code of the [affiliate](/en/docs/tutorials/configuring-affiliates), defined by the seller when adding their marketplace. It always consists of three consonants, whether they are repeated or not. Vowels are not accepted.  
 - **Pause seller after creation**: Select the checkbox so that the seller is created as `Paused`. By selecting this box, you can add the seller, catalog their offers and run all the necessary tests before making them available on your storefront to take orders.  
 
 **Exclusive fields for the integration of external sellers**
@@ -46,11 +46,11 @@ To add an unidentifiable seller, aka [white label seller](/en/tutorial/definicoe
     - Preferably, use only lowercase letters, as the field is case-sensitive.
     - Use up to 50 characters.  
     - Avoid using only the word “list” as your ID.  
-    - For white label sellers, the ID has to start with the [account name](/en/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) of the marketplace, followed by the code of your choice. E.g., marketplaceseller1.  
-- **Seller groups**: Keyword that identifies the group the seller belongs to, to be filtered in the sellers list. Define a new keyword to create a new group or repeat one already used to link the seller to one or more existing groups. You can create groups for comprehensive sellers, franchise accounts, third party sellers, premium partners, or any other category that applies to your business. Know more in [Seller Management](/en/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv).
+    - For white label sellers, the ID has to start with the [account name](/en/docs/tutorials/what-is-an-account-name) of the marketplace, followed by the code of your choice. E.g., marketplaceseller1.  
+- **Seller groups**: Keyword that identifies the group the seller belongs to, to be filtered in the sellers list. Define a new keyword to create a new group or repeat one already used to link the seller to one or more existing groups. You can create groups for comprehensive sellers, franchise accounts, third party sellers, premium partners, or any other category that applies to your business. Know more in [Seller Management](/en/docs/tutorials/seller-management).
 
 **Trade agreements**
-- **Marketplace trade policies**: Select the [trade policies](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) that are valid for the seller to link your products and sales conditions to different contexts. For example, a trade policy used on the website and a trade policy used in an app.    
+- **Marketplace trade policies**: Select the [trade policies](/en/docs/tutorials/how-trade-policies-work) that are valid for the seller to link your products and sales conditions to different contexts. For example, a trade policy used on the website and a trade policy used in an app.    
 - **Product commissioning**: Define the commissioning percentage that applies to the seller's products.  
 - **Shipping commissioning**: Define the commissioning percentage that applies to the shipping cost of the seller's orders.  
 - **Add commissioning by category**: When checking this option, select the categories from your catalog that will have specific commissioning percentages associated with the seller. You can define the commissioning percentage by product and/or shipping for the selected category.   
@@ -72,8 +72,8 @@ Once you have filled out the form and clicked **Save**, your seller will be adde
 
 ## Learn more
 
-- [Creating a trade policy](/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)  
-- [Seller management](/en/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv)
-- [Configuring a VTEX marketplace](/en/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb)  
-- [Actions for a VTEX marketplace operation](/en/tutorial/acoes-para-a-operacao-de-marketplaces-vtex--2SdIflvwywiOqCpczKCfev) 
+- [Creating a trade policy](/en/docs/tutorials/creating-a-trade-policy)  
+- [Seller management](/en/docs/tutorials/seller-management)
+- [Configuring a VTEX marketplace](/en/docs/tutorials/configuring-vtex-marketplace)  
+- [Actions for a VTEX marketplace operation](/en/docs/tutorials/actions-for-vtex-marketplace-operation) 
 

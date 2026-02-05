@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-getting-started
 order: 4
 ---
 
-Once your event is [configured on Bundle](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX) or an external studio and before transmitting it, place the **Live Shopping** component on your site, whether on the store homepage or a [landing page](/en/tutorial/live-shopping-configuring-a-landing-page-for-live-shopping-events--4iBDPEpXyKSfoIqUdwHGFE). The configuration steps vary depending on your store frontend solution:
+Once your event is [configured on Bundle](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX) or an external studio and before transmitting it, place the **Live Shopping** component on your site, whether on the store homepage or a [landing page](/en/docs/tutorials/live-shopping-configuring-a-landing-page-for-live-shopping-events). The configuration steps vary depending on your store frontend solution:
 
 * [Store Framework (VTEX IO)](#store-framework-vtex-io)
 * [Legacy CMS Portal](#legacy-cms-portal)
@@ -26,7 +26,7 @@ Once your event is [configured on Bundle](/en/tracks/vtex-live-shopping-getting-
 
 ## Store Framework (VTEX IO)
 
-For stores using [Store Framework](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework), follow the steps below to place the **Live Shopping** component from [Site Editor](/en/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37): 
+For stores using [Store Framework](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework), follow the steps below to place the **Live Shopping** component from [Site Editor](/en/docs/tutorials/managing-page-and-template-content): 
 
 1. In the VTEX Admin, go to **Storefront > Site Editor**, or type **Site Editor** in the search bar at the top of the page.
 2. On the **Blocks** list on the right side of the page, select the **Live Shopping** block.
@@ -51,7 +51,7 @@ For stores using [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN4
 
 ## Headless CMS
 
-For stores using [Headless CMS](/en/tutorial/headless-cms-overview--3U5gvhHdQL0jczYH8gjX09), follow the steps below to place the **Live Shopping** component: 
+For stores using [Headless CMS](/en/docs/tutorials/headless-cms-overview), follow the steps below to place the **Live Shopping** component: 
 
 1. In the **Event Information** page of the [created event](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv), click the arrow icon.
 2. Go to the **CMS Configuration** section.
@@ -71,7 +71,7 @@ To place the **Live Shopping** component on your project, follow the steps below
 > ℹ️ This feature is available as a native solution in the latest version of FastStore. If your storefront uses [FastStore v1 or v2](https://developers.vtex.com/docs/guides/faststore/getting-started-faststore-versions-and-support-levels), see the guide [Implementing Live Shopping for FastStore previous versions](https://developers.vtex.com/docs/guides/faststore/storefront-features-implementing-live-shopping-for-faststore-previous-versions).
 
 1. In the VTEX Admin, go to **Apps > Live Shopping > Events**, or type **Events** in the search bar at the top of the page.
-2. In the **Action** column, click the arrow button to go to the [Event page](/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
+2. In the **Action** column, click the arrow button to go to the [Event page](/en/docs/tutorials/live-shopping-events).
 3. In the **Details** section, copy the `ID` value, a unique code of numbers and letters. You can use the `Copy to clipboard` button.
 4. Go to **Storefront > Headless CMS**, or type **Headless CMS** in the search bar at the top of the page.
 5. Select the page where you want to add the **Live Shopping Player**.

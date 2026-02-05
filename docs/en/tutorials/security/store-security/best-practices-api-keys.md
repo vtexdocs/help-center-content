@@ -32,7 +32,7 @@ This practice is similar to defining a password policy with settings for periodi
 
 Renew API tokens frequently to reduce exposure risks and keep your integrations secure. Configure alerts in **API Keys > Settings** to receive renewal reminders periodically (every 3 or 6 months) and securely save the new token using the one-time access link, deleting the old one after migration.
 
-Learn more in [Renewing API tokens](/en/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3).
+Learn more in [Renewing API tokens](/en/docs/tutorials/renewing-api-tokens).
 
 ## Reassess keys and access periodically
 
@@ -43,7 +43,7 @@ If the previous recommendation is similar to changing the passwords periodically
 
 Restrict each key's access to resources and information according to their respective function and need. By reducing the amount of information shared between users or integrations, you reduce the risk of leakage by insider threats.
 
-Note that you can manage permissions for API keys by configuring [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) and [License Manager features](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
+Note that you can manage permissions for API keys by configuring [roles](/en/docs/tutorials/roles) and [License Manager features](/en/docs/tutorials/license-manager-resources).
 
 ## Maintain an awareness program
 

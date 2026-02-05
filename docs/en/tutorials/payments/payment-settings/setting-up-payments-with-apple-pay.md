@@ -24,7 +24,7 @@ Your customers can shop using Apple Pay, the [digital wallet](/en/faq/what-is-an
 
 ## Setting up the payment provider
 
-Firstly, you need to configure a provider in your store's Admin that processes transactions with Apple Pay, such as [Adyen](/en/tutorial/configuring-payment-with-adyenv3) and [Stripe](/en/tutorial/configuring-stripe-gateway-affiliation--fwF2wk2FQKrODrWWkvSLO).
+Firstly, you need to configure a provider in your store's Admin that processes transactions with Apple Pay, such as [Adyen](/en/tutorial/configuring-payment-with-adyenv3) and [Stripe](/en/docs/tutorials/configuring-stripe-gateway-affiliation).
 
 To check all the provider options available for this payment method, access the list as described in Step 5 of the section [Set up payment with Apple Pay](#setting-up-payment-with-apple-pay).
 
@@ -47,5 +47,5 @@ After following the indicated steps, Apple Pay may take up to 10 minutes to appe
 ### Related articles
 
 - [Setting up Merchant ID in Apple Pay](https://developers.vtex.com/vtex-rest-api/docs/setting-up-merchant-id-in-apple-pay)
-- [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456)
-- [What is an ewallet?](/en/tutorial/what-is-an-e-wallet--4v5wcOe4A0SiaimWM2cU60)
+- [Configuring payment special conditions](/en/docs/tutorials/special-conditions)
+- [What is an ewallet?](/en/docs/tutorials/what-is-an-e-wallet)

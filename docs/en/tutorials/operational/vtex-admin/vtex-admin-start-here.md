@@ -47,7 +47,7 @@ Check out our articles for an overview of each menu in your VTEX Admin to learn 
 - [Shipping](/en/v4/docs/visao-geral-envio--1hw1otLpTkIjQh4WiBTFYv)  
 - [Marketplace](/en/v4/docs/visao-geral-marketplace--1MwABSIGjYSrFPUXhnUXiV)  
 - [Apps](/en/v4/docs/apps-overview--Abz99oney4PUmrf7QcHc9)  
-- [Store Settings](/en/tutorial/visao-geral-configuracoes-da-loja--6VtlMoid6iM9dP14X1CopT)  
+- [Store Settings](/en/docs/tutorials/store-settings-overview)  
 - [Account Settings](/en/v4/docs/account-settings-overview--159BmXTQhaP44wLxtPff6r)  
 - [User Settings](/en/v4/docs/visao-geral-configuracoes-usuario--1qYAvOTZBVYMosJ7tQm3Ry)  
 - [Billing](/en/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC)  
@@ -98,7 +98,7 @@ Feedback type (select one or more options):
 
 Your profile avatar is a central hub for all your user and account settings. By clicking it, you can access your [User settings](/en/v4/docs/user-settings-overview--1qYAvOTZBVYMosJ7tQm3Ry), [Account settings](/en/v4/docs/account-settings-overview--159BmXTQhaP44wLxtPff6r), and [Billing](/en/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC) information, as well as change the language of your Admin, and log out.
 
-Your profile settings are separate from the store-related settings. This gives you greater control and visibility over the actions that affect your business and the ones that impact a user's profile, such as [roles](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+Your profile settings are separate from the store-related settings. This gives you greater control and visibility over the actions that affect your business and the ones that impact a user's profile, such as [roles](/en/docs/tutorials/roles).
 The VTEX Admin offers a localized experience in the following language options:
 
 * Portuguese

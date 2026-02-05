@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-The [Regular Promotion](/en/tutorial/regular-promotion--tutorials_327) offers discounts in a flexible way, combining multiple conditions, restrictions and benefits. One of the possibilities of this type of promotion is to provide a reward value to your customers, i.e. a credit that acts as cashback to be used in future store purchases. The purpose of this type of discount is to generate loyalty through recurrence of purchases, i.e. to offer an incentive for customers to return to shop in the store.
+The [Regular Promotion](/en/docs/tutorials/regular-promotion) offers discounts in a flexible way, combining multiple conditions, restrictions and benefits. One of the possibilities of this type of promotion is to provide a reward value to your customers, i.e. a credit that acts as cashback to be used in future store purchases. The purpose of this type of discount is to generate loyalty through recurrence of purchases, i.e. to offer an incentive for customers to return to shop in the store.
 
 In this article, we explain:
 - [Types of reward values](#types-of-reward-values)
@@ -24,7 +24,7 @@ In this article, we explain:
 
 ## Types of reward values
 
-You can create a [regular promotion](/en/tutorial/regular-promotion--tutorials_327) in **Promotions & Taxes > Promotions > New Promotion > Regular Promotion**. When choosing the type and value of the discount, there are two options available for offering a reward value:
+You can create a [regular promotion](/en/docs/tutorials/regular-promotion) in **Promotions & Taxes > Promotions > New Promotion > Regular Promotion**. When choosing the type and value of the discount, there are two options available for offering a reward value:
 
 - [Nominal reward value](#nominal-reward-value)
 - [Percentage reward value](#percentage-reward-value)
@@ -62,7 +62,7 @@ The following are some examples of configurable restrictions so that regular pro
 * Delivery addresses that are part of a given range of Postal Codes.
 * One purchase per customer.
 
-You can make these settings in **Promotions & Taxes > Promotions > New Promotion > Regular Promotion**. To do so, follow the instructions described in the article [Regular Promotion](/en/tutorial/regular-promotion--tutorials_327).
+You can make these settings in **Promotions & Taxes > Promotions > New Promotion > Regular Promotion**. To do so, follow the instructions described in the article [Regular Promotion](/en/docs/tutorials/regular-promotion).
 
 ## How reward values work
 
@@ -95,7 +95,7 @@ In the **Order flow** section, you can check the reward value applied:
 
 ![fluxo-oms-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/regular-promotion-with-reward-value_3.png)
 
-If you use the new [Order details (Beta)](/en/tutorial/order-details-page-beta--2Y75n54Cc9VizrlG1N6ZNl) interface, go to `See interactions` to check the applied value:
+If you use the new [Order details (Beta)](/en/docs/tutorials/order-details-page) interface, go to `See interactions` to check the applied value:
 
 ![interacoes-neworders-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/regular-promotion-with-reward-value_4.png)
 
@@ -115,4 +115,4 @@ Note that the value will be discounted from the other method of payment selected
 
 ## Learn more
 
-* [Regular Promotion](/en/tutorial/regular-promotion--tutorials_327)
+* [Regular Promotion](/en/docs/tutorials/regular-promotion)

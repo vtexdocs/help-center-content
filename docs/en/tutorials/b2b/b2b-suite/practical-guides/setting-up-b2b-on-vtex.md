@@ -59,7 +59,7 @@ Browsing by non-approved users (when attempting to access any page, they will be
 
 Users not registered on the website need an interface for pre-registration. The pre-registration is a form with basic information about the user. Although basic, such information must be sufficient for the store owner to approve and release the user’s browsing on the website.
 
-Accordingly, all pre-registration fields must be defined. B2B usually uses client information (name, email, phone etc.) and their address (street, district, city etc.) for purposes of pre-registration. Check our article [Import customer data - Brazil](/en/tutorial/importando-dados-de-clientes-brasil--2zWYVOyj0sISYQmeUwCsI0) for more information about the required data.
+Accordingly, all pre-registration fields must be defined. B2B usually uses client information (name, email, phone etc.) and their address (street, district, city etc.) for purposes of pre-registration. Check our article [Import customer data - Brazil](/en/docs/tutorials/import-customer-data) for more information about the required data.
 
 > ⚠️ The field used as conditional rule in the commercial policy should not be included in this form, since users cannot approve themselves, this being under the responsibility of the store.
 

@@ -45,6 +45,6 @@ In this way, each issuing bank decides which verification process will be used.
 
 Initially, the 3DS2 flow will be available for the CieloV3, Adyen and Redsýs connectors. VTEX customers should contact both acquirers to confirm if it will be enabled. 
 
-Then, the client should [open a ticket for VTEX](/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) requiring the functionality's installation. Also, in this same ticket, it's importante to inform the connector and the accounts that will be enabled for 3DS2 flow.
+Then, the client should [open a ticket for VTEX](/en/docs/tutorials/opening-tickets-to-vtex-support) requiring the functionality's installation. Also, in this same ticket, it's importante to inform the connector and the accounts that will be enabled for 3DS2 flow.
 
-To learn how to enable this flow with Adyen, see [this article](/en/tutorial/adicionando-suporte-a-3ds-na-integracao-com-a-adyen--3DNZeC9qJaC2GMIw4mawYk). To perform the same process with CieloV3, check out this [tutorial](/en/tutorial/configurar-adquirente-cielo--3avjZ7q65WcM02K8K0eeWu).
+To learn how to enable this flow with Adyen, see [this article](/en/docs/tutorials/add-3ds-support-to-the-integration-with-adyen). To perform the same process with CieloV3, check out this [tutorial](/en/tutorial/configurar-adquirente-cielo--3avjZ7q65WcM02K8K0eeWu).

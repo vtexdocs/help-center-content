@@ -32,5 +32,5 @@ To find out what promotions are being attributed to an SKU, we have to analyze i
 ## Learn more
 
 - [How promotions work](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N)
-- [Identifying promotions applied to the cart](/en/tutorial/how-to-identify-promotions-applied-to-the-cart--frequentlyAskedQuestions_345)
+- [Identifying promotions applied to the cart](/en/docs/tutorials/how-to-identify-promotions-applied-to-the-cart)
 

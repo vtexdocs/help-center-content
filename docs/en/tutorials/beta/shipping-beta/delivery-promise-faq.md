@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-Below are some frequently asked questions about **[Delivery Promise (Beta)](/en/tutorial/delivery-promise-beta--p9EJH9GgxL0JceA6dBswd)**:
+Below are some frequently asked questions about **[Delivery Promise (Beta)](/en/docs/tutorials/delivery-promise-beta)**:
 
 [1. What are the requirements for a product to be displayed on the product listing page?](#1-what-are-the-requirements-for-a-product-to-be-displayed-on-the-product-listing-page)
 
@@ -41,8 +41,8 @@ The merchant must ensure that the following product aspects are correctly config
 
 * Product and SKU levels in the catalog.
 * Pricing.
-* [Shipping strategy](/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) for shipping the order to the customer address.
-* Product count in the [inventory](/en/tutorial/gerenciar-inventario--tutorials_139) for sales, unlimited inventory, or the option to display the product when sold out is activated.
+* [Shipping strategy](/en/docs/tutorials/shipping-strategy) for shipping the order to the customer address.
+* Product count in the [inventory](/en/docs/tutorials/managing-stock-items) for sales, unlimited inventory, or the option to display the product when sold out is activated.
 * [CMS](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) templates for the store frontend.
 
 > ℹ️ For more information, see the article [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website).
@@ -55,8 +55,8 @@ When the necessary settings for displaying the product on the product listing pa
 
 There are three ways to do this:
 
-* Keep the [inventory](/en/tutorial/gerenciar-inventario--tutorials_139) with the product available for sale (remember that [reserved](/en/tutorial/como-a-reserva-funciona--tutorials_92) items are not available for sale).
-* Activate the [unlimited inventory](/en/tutorial/gerenciar-inventario--tutorials_139) option for the product.
+* Keep the [inventory](/en/docs/tutorials/managing-stock-items) with the product available for sale (remember that [reserved](/en/docs/tutorials/how-does-reservation-work) items are not available for sale).
+* Activate the [unlimited inventory](/en/docs/tutorials/managing-stock-items) option for the product.
 * Configure the product to be displayed on the product listing page even when it is out of stock. To do this, go to **Catalog > Products & SKUs** in the VTEX Admin and, on the product configuration page, in the Product tab, check the **Yes** option in the `Show when out of stock` field.
 
 ### 4. To use Delivery Promise (Beta), do I need to request the customer's location?
@@ -72,16 +72,16 @@ In all the mentioned options, the customer can provide their address or a differ
 
 In this case, the merchant can use one of the following strategies:
 
-* Define [comprehensive sellers](/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI), which allows products from these sellers to be displayed to customers who do not provide a location.
-* Set a default postal code or [geolocation](/en/tutorial/gerenciar-geolocalizacao--tutorials_138) for customers who do not provide their location. We suggest setting it near to a [warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) that stores a large number of products or close to the region with the highest sales volume.
+* Define [comprehensive sellers](/en/docs/tutorials/comprehensive-seller), which allows products from these sellers to be displayed to customers who do not provide a location.
+* Set a default postal code or [geolocation](/en/docs/tutorials/registering-geolocation) for customers who do not provide their location. We suggest setting it near to a [warehouse](/en/docs/tutorials/warehouse) that stores a large number of products or close to the region with the highest sales volume.
 
 ### 6. Where should I configure which stores cover specific postal codes?
 
-Even if you use **Delivery Promise (Beta)**, this configuration continues to be made in the [shipping rate templates](/en/tutorial/planilha-de-frete--tutorials_127) of the sellers' [shipping policies](/en/tutorial/politica-de-envio--tutorials_140).
+Even if you use **Delivery Promise (Beta)**, this configuration continues to be made in the [shipping rate templates](/en/docs/tutorials/shipping-rate-template) of the sellers' [shipping policies](/en/docs/tutorials/shipping-policy).
 
 ### 7. What happens if I use the Region feature?
 
-**Delivery Promise (Beta)** replaces all existing features in [Region V1](/en/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw) and V2, as well as adding improvements in performance, shopping experience, and new features. As the solution is still under development, seller regionalization is still being used as usual by customers who haven't joined **Delivery Promise (Beta)**.
+**Delivery Promise (Beta)** replaces all existing features in [Region V1](/en/docs/tutorials/configure-seller-regionalization) and V2, as well as adding improvements in performance, shopping experience, and new features. As the solution is still under development, seller regionalization is still being used as usual by customers who haven't joined **Delivery Promise (Beta)**.
 
 ### 8. Can free shipping filters and tags be displayed with Delivery Promise (Beta)?
 
@@ -89,4 +89,4 @@ In the current beta phase, there will be no free shipping filters. For now, we'l
 
 ### 9. What if I don't want to use Delivery Promise (Beta)?
 
-You can choose whether or not to use the **Delivery Promise (Beta)**. If you don't want to request the customer's location, you can continue using the current customer navigation solution without setting a location and associate it or not with [comprehensive sellers](/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI). However, the best shopping experience for customers using the product listing page is achieved with **Delivery Promise (Beta)**, which is VTEX's recommendation.
+You can choose whether or not to use the **Delivery Promise (Beta)**. If you don't want to request the customer's location, you can continue using the current customer navigation solution without setting a location and associate it or not with [comprehensive sellers](/en/docs/tutorials/comprehensive-seller). However, the best shopping experience for customers using the product listing page is achieved with **Delivery Promise (Beta)**, which is VTEX's recommendation.

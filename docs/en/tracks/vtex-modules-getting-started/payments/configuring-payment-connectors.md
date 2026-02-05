@@ -19,7 +19,7 @@ The __Payments__ module allows several payment providers (gateways, acquirers, s
 
 When a purchase is made in your store and the customer makes payment, data transmission between VTEX and the chosen provider occurs through communication protocols configured in the VTEX Admin.
 
-> ℹ️ To check which payment providers are available in your region and the respective settings articles, visit [List of payment providers by country](/en/tutorial/list-of-payment-providers-by-country--2im3BEGXxSAcRuxEaIHPvp).
+> ℹ️ To check which payment providers are available in your region and the respective settings articles, visit [List of payment providers by country](/en/docs/tutorials/list-of-payment-providers-by-country).
 
 Below is an example of how to set up a payment provider:
 

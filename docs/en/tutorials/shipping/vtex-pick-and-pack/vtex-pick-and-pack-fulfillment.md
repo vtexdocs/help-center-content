@@ -17,7 +17,7 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 
 > ℹ️ If you are interested in implementing for your business, fill out our [form](https://vtex.com/us-en/contact/) and indicate the name of the desired product in the `Comments` section.
 
-[VTEX Pick and Pack](/en/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU) is a solution to streamline stores’ fulfillment processes by optimizing orders’ picking and packing, and the last-mile delivery. The solution is composed of the [Last Mile](/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) and **VTEX Pick and Pack Fulfillment** features, and appears in your VTEX Admin in **Apps**.
+[VTEX Pick and Pack](/en/docs/tutorials/vtex-pick-and-pack) is a solution to streamline stores’ fulfillment processes by optimizing orders’ picking and packing, and the last-mile delivery. The solution is composed of the [Last Mile](/en/docs/tutorials/vtex-pick-and-pack-last-mile) and **VTEX Pick and Pack Fulfillment** features, and appears in your VTEX Admin in **Apps**.
 
 The **VTEX Pick and Pack Fulfillment** module is related to the order handling process and has the following sections:
 
@@ -37,7 +37,7 @@ This is the order management interface, with two main pages:
 
 ### Picking and Packing list page
 
-When you access **Fulfillment > Picking and Packing**, you find a page listing all the orders that had the payment confirmed and are on the [order status](/en/tutorial/order-flow-and-status--tutorials_196) `ready for handling`, as in the image below:
+When you access **Fulfillment > Picking and Packing**, you find a page listing all the orders that had the payment confirmed and are on the [order status](/en/docs/tutorials/order-flow-and-status) `ready for handling`, as in the image below:
 
 The table below contains a description of the columns:
 
@@ -45,7 +45,7 @@ The table below contains a description of the columns:
 | ---------- | ---------- |
 | Created date | Order placement date and time. |
 | Delivery date | Order shipping deadline, according to the Service Level Agreement (SLA) defined between the store and the customer. |
-| Delivery method | Order shipping type, which can be delivery, send to customer’s address, or pickup from [pickup point](/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R). |
+| Delivery method | Order shipping type, which can be delivery, send to customer’s address, or pickup from [pickup point](/en/docs/tutorials/pickup-points). |
 | Order number | Unique ID that identifies an order, the same one used in the Order Management System (OMS). |
 | Picker | Name of the picker assigned to the order. The picker is the person responsible for the picking process. The default value is `Unassigned` until a picker is assigned. |
 | Status | Order status, which can be: <ul><li>**Ready for handling:** Orders are ready for handling, but were not yet assigned to a picker.</li><li>**Ready for picking:** The order was assigned to a picker and is depending on the picker’s confirmation to move to the next status.</li><li>**Picking:** The picker is collecting the order items.</li><li>**Ready for packing:** The picker has finished the picking process and the order is ready to be packed.</li><li>**Packing:** The order’s items are being packed in bags or packages determined by the store.</li><li>**Ready for invoicing:** The order can be invoiced. *VTEX Pick and Pack* solution does not invoice orders.</li><li>**Invoiced:** The order was invoiced.</li><li>**Prepare services:** Shipping services are ready to be created.</li><li>**Ready for shipping:** The order is ready for shipping.</li><li>**Delivered:** The order was delivered to the customer address or pickup point.</li><li>**Idle:** The order was an external fulfillment, and *VTEX Pick and Pack* will not be able to process it. If the order is invoiced in OMS in a status different from `Ready for invoicing`, the system will also consider it an external fulfillment and change the order status to `Idle`.</li><li>**Canceled:** The order was ready for handling, but was canceled.</li></ul> |
@@ -58,7 +58,7 @@ To view more details about an order, select one from the list and the informatio
 | Delivery information | Customer’s address for delivery or pickup point address, when the customer is picking up from the store. |
 | Delivery window | Shows the date the order was placed and the date the customer should receive it. |
 | Order items | Number of items and their categories. |
-| Payment method | Order's total amount and the [payment method](/en/tutorial/difference-between-payment-methods-and-payment-conditions--3azJenhGFyUy2gsocms42Q) used, like credit or debit cards. |
+| Payment method | Order's total amount and the [payment method](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) used, like credit or debit cards. |
 
 You can perform the following actions in the Picking and Packing page:
 
@@ -87,8 +87,8 @@ You can filter orders using different criteria, and when you click `Filters`, a 
 * **Status:** One or more selected [order status](#picking-and-packing-list-page).
 * **Order total:** Order’s cost range, which can go from $0 to $5 millions.
 * **Number of items:** Number of orders’ items, which can go from 0 to 99.
-* **Carrier:** The [carrier](/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) assigned to the delivery.
-* **Payment method:** The [payment method](/en/tutorial/difference-between-payment-methods-and-payment-conditions--3azJenhGFyUy2gsocms42Q) used by the customer, like credit or debit cards.
+* **Carrier:** The [carrier](/en/docs/tutorials/carriers-on-vtex) assigned to the delivery.
+* **Payment method:** The [payment method](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) used by the customer, like credit or debit cards.
 * **Picker:** Picker assigned for the order picking process. Use available pickers’ emails.
 * **Categories:** Orders items' categories, for example, _Beverage_ or _Clothes_. It depends on the store’s category tree configured in the Catalog.
 
@@ -319,7 +319,7 @@ You will receive a message of success and the order will move to the _Ready for 
 
 #### Track order
 
-Once the order gets to the _Ready for shipping_ or _Delivered_ status, the `Go to tracking` button will appear in the [Picking and Packing details page](#picking-and-packing-details-page). When you click it, you will be redirected to [Last Mile](/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) to track the order.
+Once the order gets to the _Ready for shipping_ or _Delivered_ status, the `Go to tracking` button will appear in the [Picking and Packing details page](#picking-and-packing-details-page). When you click it, you will be redirected to [Last Mile](/en/docs/tutorials/vtex-pick-and-pack-last-mile) to track the order.
 
 Or you can go to **Last Mile** directly in the store’s Admin, accessing **Apps > Last Mile > Shipping Services**.
 
@@ -330,7 +330,7 @@ In **VTEX Pick and Pack**, the **Insights** page provides data and analytics abo
 * [Picking and Packing](#insights-picking-and-packing)
 * [Operation](#insights-operation)
 
-> ⚠️ To be able to access **Insights**, you need to have a VTEX Fulfillment Admin user profile, that is different from [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). For more information, see the [Users](/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#users) section.
+> ⚠️ To be able to access **Insights**, you need to have a VTEX Fulfillment Admin user profile, that is different from [roles](/en/docs/tutorials/roles). For more information, see the [Users](/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#users) section.
 
 ### Insights: Picking and Packing
 
@@ -346,7 +346,7 @@ You can combine multiple filters to filter the information you want to see in th
 * City
 * Seller
 
-> ℹ️ The filter **Seller** is visible only for the account that operates as a marketplace. [White label sellers](/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) do not have that filter option in **Insights**.
+> ℹ️ The filter **Seller** is visible only for the account that operates as a marketplace. [White label sellers](/en/docs/tutorials/white-label-seller) do not have that filter option in **Insights**.
 
 Besides the **Total orders** chart, there is a sequence of charts where you obtain data about _Payment methods_ and orders that were:
 
@@ -464,7 +464,7 @@ To delete a package, click on the row that corresponds to it and then click `Yes
 
 ### Shipping settings
 
-In this tab, you can associate a [Last Mile](/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) service to your store, which allows you to have status and location tracking with real-time updates, while your in-house courier’s fleet delivers orders to customers.
+In this tab, you can associate a [Last Mile](/en/docs/tutorials/vtex-pick-and-pack-last-mile) service to your store, which allows you to have status and location tracking with real-time updates, while your in-house courier’s fleet delivers orders to customers.
 
 If the **Last Mile** toggle <i class="fas fa-toggle-off"></i>is disabled, there are no setting options. To start using **Last Mile**, do the following:
 
@@ -515,9 +515,9 @@ In **VTEX Pick and Pack**, the **Users** page allows you to manage the profiles 
 
 ### Users and License Manager in VTEX Fulfillment
 
-The **VTEX Pick and Pack** concept of _user_ is different from the common meaning of the term in VTEX. In **VTEX Fulfillment**, there are three types of users that participate in the fulfillment process - picker, customer service and admin. Usually, in VTEX, users are related to [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) and [License Manager resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
+The **VTEX Pick and Pack** concept of _user_ is different from the common meaning of the term in VTEX. In **VTEX Fulfillment**, there are three types of users that participate in the fulfillment process - picker, customer service and admin. Usually, in VTEX, users are related to [roles](/en/docs/tutorials/roles) and [License Manager resources](/en/docs/tutorials/license-manager-resources).
 
-To access the **VTEX Fulfillment**, the admin and customer service users must have permissions related to License Manager resources. We recommend [creating a role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) identified as “_Fulfillment admin_”, which must have at least the following products and resources associated with it:
+To access the **VTEX Fulfillment**, the admin and customer service users must have permissions related to License Manager resources. We recommend [creating a role](/en/docs/tutorials/roles) identified as “_Fulfillment admin_”, which must have at least the following products and resources associated with it:
 
 | **Product** | **Associated Resources** |
 | ---------- | ---------- |
@@ -549,7 +549,7 @@ To create a new _picker_, follow the steps below:
         * One uppercase letter
         * One lowercase letter
         * One number
-    * **Stores:** Select the environment the picker will be associated with. Each environment can have multiple [white label sellers](/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) associated with it.
+    * **Stores:** Select the environment the picker will be associated with. Each environment can have multiple [white label sellers](/en/docs/tutorials/white-label-seller) associated with it.
     * **Categories:** Select up to four categories related to the products the picker will collect.
 
   > ℹ️ The categories related to the picker optimize the algorithm when determining which picker will get the order. However, it is not a limitation, any picker can be assigned to tasks from all categories.

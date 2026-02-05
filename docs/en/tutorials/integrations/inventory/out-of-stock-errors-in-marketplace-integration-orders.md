@@ -21,17 +21,17 @@ Error messages often refer to out-of-stock items. One of the simplest ways to ch
 
 Out-of-stock errors can occur for different reasons. Here are the most common:
 
-- **Items unavailable**: one or more SKUs in the order are unavailable, you must [update the number of SKUs in stock](/en/tutorial/como-atualizar-estoque--2MDwYV1COA6YuoiY22AyGo).
+- **Items unavailable**: one or more SKUs in the order are unavailable, you must [update the number of SKUs in stock](/en/docs/tutorials/updating-the-quantity-of-items-in-inventory).
 - **Inactive SKU:** the SKU is not active, which prevents it from being integrated. Check the status of the item in your Admin, in _Catalog > Products and SKUs._
 - **Negative inventory:** a [negative inventory balance](/en/tutorial/atualizar-quantidade-de-skus-em-estoque--IKMWjOjMcMqKusSGko8c0#why-is-my-inventory-negative) occurs when there are more reserved items than the total quantity in stock.
-- **Item not in collection or trade policy:** check if the SKU is marked correctly in the collection or trade policy defined for the marketplace. Learn more in the article [Associating SKUs with a trade policy](/en/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb).
+- **Item not in collection or trade policy:** check if the SKU is marked correctly in the collection or trade policy defined for the marketplace. Learn more in the article [Associating SKUs with a trade policy](/en/docs/tutorials/associate-a-sku-to-a-trade-policy).
 
 After resolving the error, the order must be manually reprocessed. In your Admin, go to **MARKETPLACE > Connections > Orders** and click on the order with the error. Click on the **Actions** button and choose the **Reprocess** option.
 
-> ℹ️ If the error persists, please open a [VTEX support ticket](/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+> ℹ️ If the error persists, please open a [VTEX support ticket](/en/docs/tutorials/opening-tickets-to-vtex-support).
 
 ### Learn more
 
-- [Minimum stock control for integrations](/en/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D)
-- [Setting up the Alert Low Inventory](/en/tutorial/configurar-o-alerta-de-estoque-critico--6FD0GHeQPCsKIMgkQ88SGu)
+- [Minimum stock control for integrations](/en/docs/tutorials/minimum-stock-control-for-integrations)
+- [Setting up the Alert Low Inventory](/en/docs/tutorials/setting-up-the-critical-stock-alert)
 - [Setting up Future Inventory](/en/tutorial/configurar-estoque-futuro--UMSGjooqRfkRbeoh94kS4)

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: WpbGhubuRZaNZilJSXnqu
 ---
 
-Fields are attributes of a document. Before you configure them, you must understand the [concepts of data entities in our guide](/en/tutorial/creating-data-entities--tutorials_1265).
+Fields are attributes of a document. Before you configure them, you must understand the [concepts of data entities in our guide](/en/docs/tutorials/data-entity).
 
 The process is done in two modules, Dynamic Storage and CRM, described below. Dynamic Storage is an environment in which fields are created, while CRM is where this information is viewed.
 

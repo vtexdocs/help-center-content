@@ -16,7 +16,7 @@ legacySlug: sku-available-in-stock-but-unavailable-for-sale
 
 <!-- Yay, no errors, warnings, or alerts! -->
 
-When two or more warehouses use the same [trade policy](/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV), and there is a negative number of items in stock for a given SKU in one of these warehouses, the SKU becomes unavailable for sale, even though the [inventory](/en/tutorial/managing-stock-items--tutorials_139) quantity is positive in another warehouse.
+When two or more warehouses use the same [trade policy](/en/docs/tutorials/how-trade-policies-work), and there is a negative number of items in stock for a given SKU in one of these warehouses, the SKU becomes unavailable for sale, even though the [inventory](/en/docs/tutorials/managing-stock-items) quantity is positive in another warehouse.
 
 This occurs because the VTEX platform sums the negative number of items for that SKU in a warehouse to the positive number of items in other warehouses. If the result of the sum equals zero, the SKU will be unavailable for sale.
 

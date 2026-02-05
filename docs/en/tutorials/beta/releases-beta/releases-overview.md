@@ -18,7 +18,7 @@ order: 1
 
 > ℹ️ The **Releases** is in beta version, which means we are working to improve it. This feature is only available for stores using [FastStore](https://www.faststore.dev/).
 
-The **Releases** menu allows you to manage groups of related changes to coordinate the planning, creation, scheduling, and publishing of changes in your store. The changes or groups of changes that **Releases** can publish together are known as [releases](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ).
+The **Releases** menu allows you to manage groups of related changes to coordinate the planning, creation, scheduling, and publishing of changes in your store. The changes or groups of changes that **Releases** can publish together are known as [releases](/en/docs/tutorials/planner-release-concept-beta).
 
 > ⚠️ In the beta version, releases must be [CMS](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2)-related, because other VTEX platform modules are not yet included. To use the **Releases**, you must configure the CMS as described in [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
@@ -26,7 +26,7 @@ Check out below the pages available in the **Releases** menu.
 
 ## Calendar
 
-On the [Calendar](/en/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xHfIx9C) page, you can create a new release and perform several other [actions on releases](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW). You can view the **Calendar** page in three ways:
+On the [Calendar](/en/docs/tutorials/planner-calendar-page-beta) page, you can create a new release and perform several other [actions on releases](/en/docs/tutorials/planner-actions-on-releases-beta). You can view the **Calendar** page in three ways:
 
 - [View per month](/en/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xHfIx9C#view-per-month): Displays the releases scheduled for the selected month.
 - [View per week](/en/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xHfIx9C#view-per-week): Displays the releases scheduled for a given week.
@@ -34,13 +34,13 @@ On the [Calendar](/en/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xH
 
 ## Releases
 
-In [Releases](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw), you can create a new release and perform several other [actions on releases](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW). On this page, all existing releases are presented in a list showing first the releases with `Not scheduled` [status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases), followed by those that are scheduled.
+In [Releases](/en/docs/tutorials/planner-releases-page-beta), you can create a new release and perform several other [actions on releases](/en/docs/tutorials/planner-actions-on-releases-beta). On this page, all existing releases are presented in a list showing first the releases with `Not scheduled` [status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases), followed by those that are scheduled.
 
 The scheduled releases are sorted by release date: you can see the most recent releases at the top of the list and the oldest ones at the bottom.
 
 ## Learn more
 
-- [Releases: Release Concept](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ)
-- [Releases: Actions on Releases](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW)
-- [Releases: Calendar page](/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C)
-- [Releases: Releases page](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw)
+- [Releases: Release Concept](/en/docs/tutorials/planner-release-concept-beta)
+- [Releases: Actions on Releases](/en/docs/tutorials/planner-actions-on-releases-beta)
+- [Releases: Calendar page](/en/docs/tutorials/planner-calendar-page-beta)
+- [Releases: Releases page](/en/docs/tutorials/planner-releases-page-beta)

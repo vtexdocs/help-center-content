@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
-From the **Catalog > Categories** page in the VTEX Admin, you can perform actions related to the [categories](/en/tutorial/registering-a-category--tutorials_206) configured in your store. See the sections below to learn how you can:
+From the **Catalog > Categories** page in the VTEX Admin, you can perform actions related to the [categories](/en/docs/tutorials/registering-a-category) configured in your store. See the sections below to learn how you can:
 
 - [Deactivate a category](#deactivating-a-category)
 - [Change the order of subcategories](#changing-the-order-of-subcategories)
@@ -71,4 +71,4 @@ To move a category without causing errors or losing information, follow the step
 ## Learn more
 
 - [Categories - Concept definition](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
-- [Adding a category](/en/tutorial/registering-a-category--tutorials_206)
+- [Adding a category](/en/docs/tutorials/registering-a-category)

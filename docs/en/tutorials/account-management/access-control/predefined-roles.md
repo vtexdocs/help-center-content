@@ -75,7 +75,7 @@ Resource table:
 
 ## Call center operator
 
-This is a role dedicated to telesales operators, as it grants access to VTEX's [telesales features](/en/tutorial/telesales-features--UqhiccIRIK2KD0OqkzJaS) and allows you to view orders.
+This is a role dedicated to telesales operators, as it grants access to VTEX's [telesales features](/en/docs/tutorials/telesales-features) and allows you to view orders.
 
 The Assisted Sales resource causes the user to be automatically redirected to the store's telesales page, which will leave the user logging into an account with this role without access to important features of the administrative menu.
 

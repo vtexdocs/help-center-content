@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'New security layer in Checkout validates hosts via License Manager when using reCAPTCHA.'
 ---
 
-To improve security during checkout, we added a new layer of protection in the store [reCAPTCHA](/en/tutorial/using-recaptcha-at-checkout--18Te3oDd7f4qcjKu9jhNzP) validation. Now, store [hosts](/en/tutorial/configurar-dominio-de-la-tienda--tutorials_2450#store-address-structure) are validated through [License Manager](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc), which is the systems that checks user permissions for completing actions in the platform.
+To improve security during checkout, we added a new layer of protection in the store [reCAPTCHA](/en/docs/tutorials/using-recaptcha-at-checkout) validation. Now, store [hosts](/en/tutorial/configurar-dominio-de-la-tienda--tutorials_2450#store-address-structure) are validated through [License Manager](/en/docs/tutorials/roles), which is the systems that checks user permissions for completing actions in the platform.
 
 ## What has changed?
 

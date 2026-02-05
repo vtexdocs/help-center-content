@@ -27,7 +27,7 @@ Now, we've integrated new features and improvements, such as:
 - **Customization and attachments:** Allows you to customize products and add relevant attachments directly on the PDP.
 - **Buy together:** Displays combinations of the most relevant offers to encourage customers to make additional purchases.
 - **Other offers:** Displays the available alternatives to the main product.
-- **Delivery and pickup:** Displays clear shipping and pickup details based on the customer's postal code, allowing you to sort [pickup points](/en/tutorial/como-funcionam-pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) by the closest, cheapest, or fastest option.
+- **Delivery and pickup:** Displays clear shipping and pickup details based on the customer's postal code, allowing you to sort [pickup points](/en/docs/tutorials/pickup-points) by the closest, cheapest, or fastest option.
 - **Performance and interface:** Reduces loading times and renews the design for smoother navigation.
 - **Inventory display adjustments:** Corrects inventory information for products available for delivery or pickup, including immediate pickup (*On Hands*).
 

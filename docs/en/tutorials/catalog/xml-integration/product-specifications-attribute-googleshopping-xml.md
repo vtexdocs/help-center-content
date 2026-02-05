@@ -93,4 +93,4 @@ Just save this and the values will become listed.
 
 Now just define on Google Shopping XML the attributes as structured above.
 
-See [How to Configure Google Shopping XML](/en/tutorial/how-to-configure-xml-for-google-shopping--frequentlyAskedQuestions_372) for instructions on how to configure the XML.
+See [How to Configure Google Shopping XML](/en/docs/tutorials/how-to-configure-xml-for-google-shopping) for instructions on how to configure the XML.

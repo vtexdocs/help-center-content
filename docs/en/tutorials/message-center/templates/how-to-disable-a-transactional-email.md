@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 4D5LrWwlHGmOWMomOaaGee
 ---
 
-At VTEX, the user has the option to automate the sending of emails to his clients by using the [Message Center](/en/tutorial/--tutorials_84) module. There are already some pre-configured templates available on the platform, which may be customized according to user preference.
+At VTEX, the user has the option to automate the sending of emails to his clients by using the [Message Center](/en/docs/tutorials/understanding-the-message-center) module. There are already some pre-configured templates available on the platform, which may be customized according to user preference.
 
 This funcionality is however not mandatory. You can opt out of sending these messages if that's more advantageous for the store.
 

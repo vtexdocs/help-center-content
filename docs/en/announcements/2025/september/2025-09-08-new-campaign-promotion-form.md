@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'New VTEX Campaign Promotion form interface improves usability and offer segmentation.'
 ---
 
-From September 8, 2025, the VTEX **Promotions** module will feature a new interface for the **Campaign Promotion form**. The interface has been improved to enhance usability and streamline promotion setup, enabling you to create offers targeted to audiences defined in the [Campaign Audiences module](/en/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K).
+From September 8, 2025, the VTEX **Promotions** module will feature a new interface for the **Campaign Promotion form**. The interface has been improved to enhance usability and streamline promotion setup, enabling you to create offers targeted to audiences defined in the [Campaign Audiences module](/en/docs/tutorials/creating-a-campaign-audience).
 
 ## What has changed?
 The Campaign Promotion form interface has been optimized to make it easier to view and complete the configuration fields. The features remain the same as in the previous version:
@@ -29,5 +29,5 @@ The Campaign Promotion form interface has been optimized to make it easier to vi
 ## What needs to be done?
 No action is required. The new form will be available in all VTEX accounts starting on September 8, 2025.
 
-For more information, go to [Creating Promotion Campaigns](/en/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume)
+For more information, go to [Creating Promotion Campaigns](/en/docs/tutorials/campaign-promotion)
 

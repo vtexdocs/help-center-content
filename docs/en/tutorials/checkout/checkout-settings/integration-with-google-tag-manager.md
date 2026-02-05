@@ -38,7 +38,7 @@ Through tags, Google Analytics allows you to access essential data regarding you
 
 ## Editing Checkout settings
 
-> ⚠️ Users need to have the [License Manager resource](/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) **Manage portal** assigned to their role to be able to configure store Checkout settings. In turn, the user that creates the new role needs to have **Owner (Admin Super)** access.
+> ⚠️ Users need to have the [License Manager resource](/en/docs/tutorials/license-manager-resources) **Manage portal** assigned to their role to be able to configure store Checkout settings. In turn, the user that creates the new role needs to have **Owner (Admin Super)** access.
 
 After this, you have to set up the store identification code from Tag Manager on VTEX following the steps below:
 

@@ -20,7 +20,7 @@ tags:
   - Import
 ---
 
-After setting the category tree and adding [product specifications and SKUs](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#product-specification) to your store, you must complete the values for the specifications you created. In the VTEX Admin, you can do this process manually or using a spreadsheet when [adding products and SKUs](/en/tutorial/adding-sku-specifications-or-fields--tutorials_119).
+After setting the category tree and adding [product specifications and SKUs](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#product-specification) to your store, you must complete the values for the specifications you created. In the VTEX Admin, you can do this process manually or using a spreadsheet when [adding products and SKUs](/en/docs/tutorials/adding-sku-specifications-or-fields).
 
 If you get the message `"An error occurred in the data writing process. Make sure your worksheet data is consistent with the instructions and try again."` when importing SKUs via spreadsheet, this may be due to:
 

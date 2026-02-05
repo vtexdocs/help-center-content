@@ -17,7 +17,7 @@ order: 2
 
 This guide explains how to integrate with Facebook using the connector developed by VTEX. Integration through native connectors should be your default selection, as it implies more efficiency and security.
 
-> ❗ It is possible to [set up the integration with an XML file](/en/tutorial/configurando-xml--tutorials_242). However, it is not advisable to perform the integration simultaneously by an XML file and the native connector, as this causes conflicts and divergence in the information.
+> ❗ It is possible to [set up the integration with an XML file](/en/docs/tutorials/configuring-xml). However, it is not advisable to perform the integration simultaneously by an XML file and the native connector, as this causes conflicts and divergence in the information.
 
 Before you proceed with the integration, you must have created:
 

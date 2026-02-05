@@ -45,7 +45,7 @@ This type of out-of-court request can be submitted directly to the hosting or do
 
 Make sure that all your store pages use HTTPS to ensure secure data transmission. Cloned sites often use invalid HTTP or certificates, which can be an indication that it isn't a legitimate page.
 
-Learn more about how to activate HTTPS in your VTEX store in [Changing the pages of the site to HTTPS protocol](/en/tutorial/how-do-i-use-the-https-protocol-on-my-stores-pages--frequentlyAskedQuestions_4378).
+Learn more about how to activate HTTPS in your VTEX store in [Changing the pages of the site to HTTPS protocol](/en/docs/tutorials/how-do-i-use-the-https-protocol-on-my-stores-pages).
 
 ## Monitor your brand's online presence
 

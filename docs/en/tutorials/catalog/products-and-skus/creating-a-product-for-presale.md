@@ -33,9 +33,9 @@ To make a product available on presale, follow the steps below:
 2. Click `+ Add Product`.
 3. In the **Storefront** section, in the **Release date** field, select the desired release date for the product.
 
-  > ℹ️ This field helps sort search results on the website. You can use the query string `O=OrderByReleaseDateDESC` to retrieve this value and display products in order of release date. In addition, the value of this field influences the creation of [automatic collections](/en/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye) and determines the product [indexing](/en/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) date.
+  > ℹ️ This field helps sort search results on the website. You can use the query string `O=OrderByReleaseDateDESC` to retrieve this value and display products in order of release date. In addition, the value of this field influences the creation of [automatic collections](/en/docs/tutorials/creating-collections-beta) and determines the product [indexing](/en/docs/tutorials/understanding-how-indexation-works) date.
 
-4. Fill in the other fields required to create the product. Know more in [Adding or editing products](/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8).
+4. Fill in the other fields required to create the product. Know more in [Adding or editing products](/en/docs/tutorials/adding-or-editing-products).
 5. Click `Save`.
 6. Click the `SKUs` tab.
 7. Click `+` **> Add new SKU**.
@@ -43,14 +43,14 @@ To make a product available on presale, follow the steps below:
 
   > ℹ️ For this configuration, you need to consider both the item release date and the estimated delivery time: `final delivery time = delivery SLA + supply batch delivery time frame`.
 
-9. Fill in the fields required to create the SKU. Know more in [Adding or editing SKUs](/en/tutorial/adding-or-editing-skus--4ryZ6J45kwn3jDiQBxGiiN).
+9. Fill in the fields required to create the SKU. Know more in [Adding or editing SKUs](/en/docs/tutorials/adding-or-editing-skus).
 10. Click `Save`.
 
 > ⚠️ Presale items must only be invoiced on or after the launch date, when the product becomes available in inventory.
 
 ## Scheduling prices
 
-To schedule your store's fixed prices for the presale of a product, follow the steps described in [Scheduling prices](/en/tutorial/scheduling-prices--4vVha6TGzYkguWuMOqCcCk).  
+To schedule your store's fixed prices for the presale of a product, follow the steps described in [Scheduling prices](/en/docs/tutorials/scheduling-prices).  
 
 ## Scheduling content
 

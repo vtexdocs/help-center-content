@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-To offer **subscription plans** to your customers, you need to install the Subscriptions app and make the necessary configurations. For more information about this process, see our article [How to configure Subscriptions in your store](/en/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj).
+To offer **subscription plans** to your customers, you need to install the Subscriptions app and make the necessary configurations. For more information about this process, see our article [How to configure Subscriptions in your store](/en/docs/tutorials/how-to-configure-subscriptions).
 
 Once the app has been set up, you must create subscription plans for your customers and associate products with these plans. The Plans feature indicates for which products the Subscriptions option is active and the available subscription frequencies.
 
@@ -99,8 +99,8 @@ To navigate between pages in both lists, use the <i class="fas fa-chevron-left">
 
 Creating a SKU attachment is an alternative option equivalent to creating a subscription plan. The attachment indicates that the Subscription feature is active for a given SKU, and which frequencies are available.
 
-We recommend using the path described above to create a plan directly in the Subscriptions module. However, if you opt to do it via SKU attachment, follow the steps described in the article [How to create a subscription attachment](/en/tutorial/how-to-create-a-subscription-attachment--2bUuKyPflA8cOGLv8OvaKK).
+We recommend using the path described above to create a plan directly in the Subscriptions module. However, if you opt to do it via SKU attachment, follow the steps described in the article [How to create a subscription attachment](/en/docs/tutorials/how-to-create-a-subscription-attachment-via-the-catalog-module).
 
 ## Learn more
 
-* [Subscription plans](/en/tutorial/planos-de-assinatura-beta--5kczKRqHEsrs1tYtRcY8wR)
+* [Subscription plans](/en/docs/tutorials/subscription-plans)

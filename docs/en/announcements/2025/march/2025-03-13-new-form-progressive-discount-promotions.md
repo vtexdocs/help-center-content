@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Configure progressive discount promotions, boosting larger purchases with adjustable and flexible percentages.'
 ---
 
-VTEX has launched a new [Progressive Discount](/en/tutorial/desconto-progressivo--tutorials_324) form, which allows you to configure promotions with increasing discount percentages as more products are added to the cart. This feature is ideal for encouraging larger purchases, offering benefits based on the number of items purchased.
+VTEX has launched a new [Progressive Discount](/en/docs/tutorials/progressive-discount) form, which allows you to configure promotions with increasing discount percentages as more products are added to the cart. This feature is ideal for encouraging larger purchases, offering benefits based on the number of items purchased.
 
 ## What has changed?
 Previously, there were some limitations when creating a Progressive Discount promotion, with no configurable discount ranges, few options for customizing conditions, and no control over offer combinations. Now, the new form allows you to configure discount percentages by quantity, apply specific rules for SKUs or collections, adjust conditions such as payment methods and shipping location, and manage combining with other promotions, all in a more easy-to-use interface.
@@ -27,4 +27,4 @@ With the new form, you can:
 - Define **adjustable conditions**, such as shipping location rules and payment methods.
 - Understand the stacking behavior: Progressive Discount promotions are not stackable with other promotions, except when combined with manual prices.
 ## What needs to be done?
-No action is required. The new promotion form is already available in all VTEX stores. To see the new architecture of the page, go to [How the progressive discount promotion  works](/en/tutorial/desconto-progressivo--tutorials_324).
+No action is required. The new promotion form is already available in all VTEX stores. To see the new architecture of the page, go to [How the progressive discount promotion  works](/en/docs/tutorials/progressive-discount).

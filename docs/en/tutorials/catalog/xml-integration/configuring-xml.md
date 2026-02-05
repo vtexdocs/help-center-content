@@ -57,7 +57,7 @@ Once you have this, follow the steps below to configure your XML:
 11. Choose whether or not to display the unavailable SKUs on the marketplace site, in other words, whether the product will be displayed for purchase, even if it is not available for immediate delivery.
 12. Select whether you want the product displayed with the default SKU information.
 13. Thereafter, you have to enter the tags in accordance with the what has been defined by the system you will be sending the XML to. You must check the selection box in the __Show content__ column, for the tags which have a name entered. The tags with this option checked, and which you cannot deselect, are mandatory.
-14. The URL used to access the XML is generated automatically, according to the [domain registered in the Web Site dictionary](/en/tutorial/configuring-an-xml-domain--2RkGK4vHS0c6sYuUw0cUWC), in the __CMS__.
+14. The URL used to access the XML is generated automatically, according to the [domain registered in the Web Site dictionary](/en/docs/tutorials/configuring-an-xml-domain), in the __CMS__.
 
 > ⚠️ In case the trade policy has restricted access, the XML will not be generated.
 

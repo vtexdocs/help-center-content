@@ -26,7 +26,7 @@ Users may experience difficulties when configuring promotions for marketplaces d
 To solve the problem of promotions not being applied to marketplaces, review the [trade policy](#selecting-trade-policies) and the [affiliate selection](#selecting-affiliates).
 
 ### Selecting trade policies
-[Trade policies](/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) define rules and conditions for applying promotions in marketplaces. You should select the right trade policy to ensure the promotion will apply as expected. Below are the steps for configuring a trade policy promotion.
+[Trade policies](/en/docs/tutorials/creating-a-trade-policy) define rules and conditions for applying promotions in marketplaces. You should select the right trade policy to ensure the promotion will apply as expected. Below are the steps for configuring a trade policy promotion.
 
 1. Create a [regular promotion](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
 2. In the **Trade policy** section, select the `Equal to` and **Delivered by me (other stores)** options.

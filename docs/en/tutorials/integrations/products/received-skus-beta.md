@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 4HBbKdnwneGew2qGGykSM8
 ---
 
-The Received SKUs page provides a way for [marketplaces](/en/tutorial/visao-geral-marketplace--40Zd0z9h2RXsM9uMUp3kEb) to view, prioritize, and catalog items sent by the sellers. This way, they can create new products and link them to existing SKUs or products to make them available for sale. You can access this page on the VTEX Admin by going to Marketplace > Received SKUs or typing Received SKUs in the Admin search bar.  
+The Received SKUs page provides a way for [marketplaces](/en/docs/tutorials/marketplace-overview) to view, prioritize, and catalog items sent by the sellers. This way, they can create new products and link them to existing SKUs or products to make them available for sale. You can access this page on the VTEX Admin by going to Marketplace > Received SKUs or typing Received SKUs in the Admin search bar.  
 
 Cataloging can be done manually or automatically [using one or more matchers](/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher) or [autoApprove](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions/#put-/suggestions/configuration/autoapproval/toggle). You can also use third-party tools to do this.  
 
@@ -121,7 +121,7 @@ In this case, the items will be sorted in ascending or descending order when you
 
 ## Cataloging items  
 
-All the SKUs displayed in the list are available for cataloging. However, we recommend [mapping the categories and brands](/en/tutorial/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta--6NU8LwR6i0tTb8nk30bnbE) before this step to streamline the cataloging process.  
+All the SKUs displayed in the list are available for cataloging. However, we recommend [mapping the categories and brands](/en/docs/tutorials/mapping-categories-and-brands-for-the-marketplace-beta) before this step to streamline the cataloging process.  
 
 > ⚠️ The offers in the Pending tab are only available for 30 days. After this period, they automatically expire and the seller will need to submit them again.  
 

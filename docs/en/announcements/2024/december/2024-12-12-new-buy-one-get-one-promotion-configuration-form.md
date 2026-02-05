@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: "We've updated the \"Buy One Get One\" form with a more intuitive interface, simplifying promotion configuration."
 ---
 
-VTEX has made available a new [form](/en/tutorial/compre-e-ganhe--tutorials_322) for configuring the Buy One Get Onepromotion. This feature offers a new interface, making it easier to create promotions that offer customers benefits such as free shipping or gifts when they add products to the cart.
+VTEX has made available a new [form](/en/docs/tutorials/buy-one-get-one) for configuring the Buy One Get Onepromotion. This feature offers a new interface, making it easier to create promotions that offer customers benefits such as free shipping or gifts when they add products to the cart.
 
 ## Why did we make this change?
 We've created the new form to improve the experience of configuring promotions in the VTEX Admin. The main benefits include:

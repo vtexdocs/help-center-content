@@ -24,5 +24,5 @@ If your purchased product is a Brazilian National Team Shirt, the name of your s
 
 ### Related articles
 - [What is an attachment?](/en/tutorial/what-is-an-attachment)
-- [Registering an attachment](/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU)
+- [Registering an attachment](/en/docs/tutorials/adding-an-attachment)
 - [How to create a service for a SKU](/en/tutorial/creating-a-service-for-a-sku)

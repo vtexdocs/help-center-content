@@ -27,8 +27,8 @@ As of October 15, 2023, it will no longer be possible to access the [Insights da
 ## Why we are making this change?
 
 The information available in the **Insights** dashboard can also be found in other dashboards, such as:
-- [Store Overview](/en/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ)
-- [Store Overview (beta)](/en/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46)
+- [Store Overview](/en/docs/tutorials/store-overview)
+- [Store Overview (beta)](/en/docs/tutorials/store-overview-beta)
 
 Therefore, this discontinuation aims to reduce redundancy on the platform so that, in the future, we can focus on maintaining and improving a single experience. Currently, the **Store Overview** dashboards already display the same information as the **Insights** dashboard but with more accurate data and improved visualization.
 
@@ -36,4 +36,4 @@ Therefore, this discontinuation aims to reduce redundancy on the platform so tha
 
 As of October 15, 2023, this change will be automatically applied to all VTEX stores, and no action is required from you.
 
-If you want to monitor your store sales metrics, please go to the [Store Overview](/en/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ) or [Store Overview](/en/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) (beta) dashboards, which have the same information as the **Insights** dashboard but with more accurate data and improved visualization.
+If you want to monitor your store sales metrics, please go to the [Store Overview](/en/docs/tutorials/store-overview) or [Store Overview](/en/docs/tutorials/store-overview-beta) (beta) dashboards, which have the same information as the **Insights** dashboard but with more accurate data and improved visualization.

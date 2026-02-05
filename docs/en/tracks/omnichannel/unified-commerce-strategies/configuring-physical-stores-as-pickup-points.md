@@ -27,7 +27,7 @@ Check the requirements to start using physical stores as pickup points for [VTEX
 
 ## Configuring physical stores as pickup points
 
-On the VTEX platform, physical stores are configured as franchise accounts, which function as white label sellers of the main account. For more information, read the article [What is a franchise account?](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl).
+On the VTEX platform, physical stores are configured as franchise accounts, which function as white label sellers of the main account. For more information, read the article [What is a franchise account?](/en/docs/tutorials/what-is-a-franchise-account).
 
 Therefore, you must configure a pickup point and associate it with the logistics settings on the account of each franchise that will act as a local pickup point. See the step-by-step instructions below.
 
@@ -41,12 +41,12 @@ You must configure the physical stores as pickup points so that your customers c
 
 1. In the VTEX Admin of the desired franchise account, go to **Shipping** > __Pickup points__, or type __Pickup points__ in the search bar at the top of the page.
 2. Click on `Add pickup point`.
-3. Fill in the required information. To learn more about each field, read our article [Adding pickup points](/en/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).
+3. Fill in the required information. To learn more about each field, read our article [Adding pickup points](/en/docs/tutorials/creating-pickup-points).
 4. Click on `Save`.
 
 ### Associating a pickup point with a shipping policy
 
-Next, you must associate the new pickup points with a shipping policy for them to work properly. For more information about this process, please refer to the section [Link a pickup point with a shipping policy](/en/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E#2-link-a-pickup-point-to-a-shipping-policy) of the article [Configuring pickup points](/en/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).
+Next, you must associate the new pickup points with a shipping policy for them to work properly. For more information about this process, please refer to the section [Link a pickup point with a shipping policy](/en/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E#2-link-a-pickup-point-to-a-shipping-policy) of the article [Configuring pickup points](/en/docs/tutorials/creating-pickup-points).
 
 ### Associating a pickup point with the warehouse of a physical store
 

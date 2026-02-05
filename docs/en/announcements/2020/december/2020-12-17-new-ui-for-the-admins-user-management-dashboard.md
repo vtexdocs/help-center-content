@@ -26,7 +26,7 @@ The user management dashboard design has been refreshed with the same interface 
 
 In addition, the dashboard has undergone some changes:
 
-- User names can now only be edited by users themselves through User Settings. See the [Configuring personal data on the user's screen](/en/tutorial/setting-up-personal-data-on-the-users-screen--3S32bI9Qb6Ecec66SckYK6) article.
+- User names can now only be edited by users themselves through User Settings. See the [Configuring personal data on the user's screen](/en/docs/tutorials/setting-up-personal-data-on-the-users-screen) article.
 
 - By default, deleting users revoke all their access to the store without deleting them from the database. The delete confirmation message now displays this information, making it more evident.
 

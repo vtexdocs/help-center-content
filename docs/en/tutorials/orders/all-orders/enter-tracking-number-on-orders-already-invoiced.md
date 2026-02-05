@@ -28,4 +28,4 @@ You can enter the tracking number on orders already invoiced, by following the s
 
 ### Learn more
 
-- [Register tracking on the tax receipt](/en/tutorial/cadastrar-rastreio-na-nota-fiscal--5acsOh2bssscYgmEKc8wK8)
+- [Register tracking on the tax receipt](/en/docs/tutorials/register-tracking-on-the-tax-receipt)

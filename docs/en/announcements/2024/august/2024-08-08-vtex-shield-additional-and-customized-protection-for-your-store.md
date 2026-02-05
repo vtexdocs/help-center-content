@@ -15,13 +15,13 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'VTEX Shield: A solution that provides additional and customizable layers of protection.'
 ---
 
-We are introducing [VTEX Shield](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh), a solution that provides additional and customizable layers of security for your store, complementing the standards already guaranteed by [VTEX's security certifications and practices](https://vtex.com/us-en/security/security-practices/).
+We are introducing [VTEX Shield](/en/docs/tutorials/vtex-shield), a solution that provides additional and customizable layers of security for your store, complementing the standards already guaranteed by [VTEX's security certifications and practices](https://vtex.com/us-en/security/security-practices/).
 
 With VTEX Shield, you can obtain access to advanced features to detect potential risks and proactively adopt preventive measures. Check out how each feature can strengthen your store's protection.
 
 ## Security Monitor
 
-[Security Monitor](/en/tutorial/security-monitor--5LOVNLrrtmgSj99pM1NS4x) is a powerful dashboard tool in the VTEX Admin. It detects security threats related to the behavior of admin users and incorrect settings.
+[Security Monitor](/en/docs/tutorials/security-monitor) is a powerful dashboard tool in the VTEX Admin. It detects security threats related to the behavior of admin users and incorrect settings.
 
 This feature actively monitors internal and external threats and notifies store administrators in the event of discoveries, allowing you to manage your store's security with agility and precision.
 
@@ -29,7 +29,7 @@ This feature actively monitors internal and external threats and notifies store 
 
 The WAF is an essential line of defense that monitors and filters internet traffic in real time to block external threats such as DDoS attacks and SQL injections.
 
-With customizable settings, the WAF adapts to the specific needs of your store, ensuring that only legitimate traffic reaches the site. Learn more about this feature and the threats blocked in [Web Application Firewall (WAF)](/en/tutorial/web-application-firewall-waf--6BZYLlU03ws72iqIFF6jdn).
+With customizable settings, the WAF adapts to the specific needs of your store, ensuring that only legitimate traffic reaches the site. Learn more about this feature and the threats blocked in [Web Application Firewall (WAF)](/en/docs/tutorials/web-application-firewall-waf).
 
 ## Data Protection Plus
 

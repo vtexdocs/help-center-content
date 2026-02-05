@@ -32,5 +32,5 @@ On this page, soon to be included in Admin v4, you can perform the following act
 - 2-step verification
 - Active sessions
 
-For more information about how to configure user data on the user page, please refer to the article [Configuring personal data on the user page](/en/tutorial/setting-up-personal-data-on-the-users-screen--3S32bI9Qb6Ecec66SckYK6).
+For more information about how to configure user data on the user page, please refer to the article [Configuring personal data on the user page](/en/docs/tutorials/setting-up-personal-data-on-the-users-screen).
 

@@ -19,7 +19,7 @@ When managing orders in OMS, the VTEX order management system, adding the invoic
 
 We improved the OMS so that partial invoices added to orders also trigger partial settlements in the transaction. The total order amount will be updated after adding the invoice, and it corresponds to the amount settled in the VTEX payment gateway. 
 
-> ℹ️ The partial invoices feature is available to all VTEX stores, but the partial settlement in the gateway is in beta. Besides, for partial invoices to trigger partial settlements in the transaction, it is necessary to use a connector with the [Payment Provider Protocol](/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). Legacy connectors do not support the functionality.
+> ℹ️ The partial invoices feature is available to all VTEX stores, but the partial settlement in the gateway is in beta. Besides, for partial invoices to trigger partial settlements in the transaction, it is necessary to use a connector with the [Payment Provider Protocol](/en/docs/tutorials/payment-provider-protocol). Legacy connectors do not support the functionality.
 
 ## What has changed?
 
@@ -49,9 +49,9 @@ To replicate this behavior:
 
 1. Add a [partial invoice to the order](/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe#sending-a-partial-invoice).
 
-    > If you use the new [Order details page (Beta)](/en/tutorial/pagina-de-detalhes-do-pedido-beta--2Y75n54Cc9VizrlG1N6ZNl), access [How to manually invoice an order (Beta)](/en/tutorial/how-to-manually-invoice-an-order-beta--7p1h852V5t54KyscpgxE2v).
+    > If you use the new [Order details page (Beta)](/en/docs/tutorials/order-details-page), access [How to manually invoice an order (Beta)](/en/docs/tutorials/how-to-manually-invoice-an-order).
 
-2. Make a [change in the order](/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190). 
+2. Make a [change in the order](/en/docs/tutorials/changing-items-from-a-complete-order). 
 
     > If you use the Order details (Beta) interface, access [How to change items in an order (Beta)](/en/tutorial/how-to-change-order-items-beta--7jekq618QxgbsOxKkXBjE8).
 

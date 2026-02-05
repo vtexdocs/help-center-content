@@ -15,12 +15,12 @@ locale: en
 subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 ---
 
-> ⚠️ We don't recommend using [Substitute Words](/en/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu) when using Intelligent Search. To associate words with products, we recommend using [Synonyms](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV), which allows you to manage terms per product in a more scalable way. For more information, contact our [Support team](https://support.vtex.com/hc/pt-br/requests).
+> ⚠️ We don't recommend using [Substitute Words](/en/docs/tutorials/how-to-optimize-searches-with-substitute-words) when using Intelligent Search. To associate words with products, we recommend using [Synonyms](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV), which allows you to manage terms per product in a more scalable way. For more information, contact our [Support team](https://support.vtex.com/hc/pt-br/requests).
 
 ## How the search engine works 
 VTEX has an intelligent algorithm that, based on the term searched for, identifies the best result for the user, i.e., it always shoes the result that will generate more conversions into sales.
 
-> ℹ️ See more details on [how the search engine works](/en/tutorial/how-does-vtex-search-work--tutorials_542) at VTEX.
+> ℹ️ See more details on [how the search engine works](/en/docs/tutorials/how-does-vtex-search-work) at VTEX.
 
 ## How useful is a substitute word
 If the search engine does not identify the Landing Page, Brand or Department according to the term searched for, it applies a search for a Substitute Word (key work). 

@@ -60,7 +60,7 @@ After configuration in the VTEX environment, you also need to configure Webhook 
 
 Once you have completed the steps above, Stripe will be ready to be used in your store. It will be available in the __Process with affiliation__ field — provided that the payment method is compatible with Stripe — when creating a payment condition. 
 
-Learn more in the article [Configuring payment conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455).
+Learn more in the article [Configuring payment conditions](/en/docs/tutorials/how-to-configure-payment-conditions).
 
 ## Configuring Google Pay
 

@@ -17,7 +17,7 @@ subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 
 > ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact [our Support](https://supporticket.vtex.com/support).
 
-> ⚠️ To use the feature, it is required to have [franchise accounts](/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) associated with the [main account](/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#vtex-account-types).
+> ⚠️ To use the feature, it is required to have [franchise accounts](/en/docs/tutorials/what-is-a-franchise-account) associated with the [main account](/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#vtex-account-types).
 
 The **Operational Capacity (Beta)** page allows you to manage the sellers' capacity to receive and handle the store's orders to optimize your logistics network. You can monitor the order allocation between sellers and perform [actions](#actions-on-the-capacity-details-page-of-the-seller) to improve order allocation between them.
 
@@ -37,7 +37,7 @@ This article describes how to use **Operational Capacity (Beta)** and is structu
 - [Choosing between editing seller operational capacity, making it unlimited or pausing the seller, or disabling the module](#choosing-between-editing-seller-operational-capacity-making-it-unlimited-or-pausing-the-seller-or-disabling-the-module)
 - [Disabling the Operational Capacity (Beta) module](#disabling-the-operational-capacity-beta-module)
 
-> ℹ️ To manage **Operational Capacity (Beta)**, your VTEX Admin [role](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) must be associated with the *Logistics full access* [License Manager resource](/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3).
+> ℹ️ To manage **Operational Capacity (Beta)**, your VTEX Admin [role](/en/docs/tutorials/roles) must be associated with the *Logistics full access* [License Manager resource](/en/docs/tutorials/license-manager-resources).
 
 ## Enabling the Operational Capability (Beta) module
 
@@ -72,7 +72,7 @@ The **Operational Capacity (Beta)** page displays the following information:
 
 | **Column** | **Description** |
 | :----------: | :---------- |
-| Seller | Identification of the [seller](/en/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w) to which the operational capacity refers. |
+| Seller | Identification of the [seller](/en/docs/tutorials/what-is-a-seller) to which the operational capacity refers. |
 | Capacity Usage | Percentage of the seller operational capacity used on the day.**Example:** A seller with the capacity to handle 100 orders daily has used 80% of its capacity for the day. Therefore, they can only receive 20 more new orders that day.In this column, an alert icon is displayed when the seller reaches 100% of their capacity, so they cannot receive any new orders for the day.You can [edit the operational capacity of sellers](#editing-the-sellers-operational-capacity) individually or in bulk. |
 | Status | Status of the seller's operational capacity, which can be of two types:<ul><li><i class="fas fa-toggle-on" aria-hidden="true"></i> **Active:** The toggle switch is activated, and the seller can receive new orders, either because it is within the capacity limit that has been set, or because the seller has unlimited capacity.</li><li><i class="fas fa-toggle-off" aria-hidden="true"></i>**Paused:** The toggle switch is deactivated, and the seller cannot receive new orders.</li></ul>To choose when to pause a seller, see the section [Choosing between pausing or increasing operational capacity](#choosing-between-editing-seller-operational-capacity-making-it-unlimited-or-pausing-the-seller-or-disabling-the-module). |
 
@@ -123,7 +123,7 @@ The seller's operational capacity considers the number of orders or order items.
     - **Number of items:** The seller's operational capacity will be based on the number of items in an order.
 5. Click `Save Changes`.
 
-> ⚠️ The platform has some restrictions regarding [comprehensive sellers](/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI). Learn more in the [Comprehensive seller behavior](#comprehensive-seller-behavior) section.
+> ⚠️ The platform has some restrictions regarding [comprehensive sellers](/en/docs/tutorials/comprehensive-seller). Learn more in the [Comprehensive seller behavior](#comprehensive-seller-behavior) section.
 
 ## Actions on the capacity details page of the seller
 
@@ -142,7 +142,7 @@ At the top right of the seller's details page, you'll find a toggle switch to ac
 - **Activate:** Enable the toggle switch for `Active` and click `Activate`.
 - **Pause:** Toggle the switch for `Paused` and click `Pause`.
 
-> ⚠️ The platform has some restrictions regarding [comprehensive sellers](/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI). Learn more in the [Comprehensive seller behavior](#comprehensive-seller-behavior) section.
+> ⚠️ The platform has some restrictions regarding [comprehensive sellers](/en/docs/tutorials/comprehensive-seller). Learn more in the [Comprehensive seller behavior](#comprehensive-seller-behavior) section.
 
 ### Monitoring capacity usage
 
@@ -210,7 +210,7 @@ To edit the seller's address or identification name in **Operational Capacity (B
 
 ## Comprehensive seller behavior
 
-When customers don't enter their location on your store, they can see your store's products (seller 1) and those from [comprehensive sellers](/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI).
+When customers don't enter their location on your store, they can see your store's products (seller 1) and those from [comprehensive sellers](/en/docs/tutorials/comprehensive-seller).
 
 Due to a platform limitation, when you deactivate the operational capacity of a comprehensive seller, their products are still displayed on the store, but customers can't buy them. 
 We therefore recommend leaving the comprehensive sellers' operational capacity enabled at all times.

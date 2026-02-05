@@ -17,9 +17,9 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 
 > ℹ️ The **Releases** is in beta version, which means we are working to improve it. This feature is only available for stores using [FastStore](https://www.faststore.dev/).
 
-The **Releases** module allows you to [manage your releases](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ) so that you can coordinate the creation, schedule and publication of the changes in your store.
+The **Releases** module allows you to [manage your releases](/en/docs/tutorials/planner-release-concept-beta) so that you can coordinate the creation, schedule and publication of the changes in your store.
 
-In the navigation menu of the **Releases** in the VTEX Admin, you'll find the **Releases** and [Calendar](/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C) pages. You can create a new release and perform other [actions](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW) under **Releases**.
+In the navigation menu of the **Releases** in the VTEX Admin, you'll find the **Releases** and [Calendar](/en/docs/tutorials/planner-calendar-page-beta) pages. You can create a new release and perform other [actions](/en/docs/tutorials/planner-actions-on-releases-beta) under **Releases**.
 
 On the **Releases** page, you'll see all existing releases listed by the `Not scheduled` [status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases) releases first, followed by those already scheduled. 
 
@@ -49,14 +49,14 @@ In the **Releases** page, you can:
 
 **III - Filter releases:** To filter by [release status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases), use the `Status` <i class="fas fa-angle-down"></i> button and choose the desired option. To filter by scheduled date or publication date, click on `Date` <i class="fas fa-angle-down"></i> and choose the desired date.
 
-**IV - Create new release:** To create a new release, click on the `Create Release` button and follow the step-by-step instructions in [Releases: Actions on releases](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW).
+**IV - Create new release:** To create a new release, click on the `Create Release` button and follow the step-by-step instructions in [Releases: Actions on releases](/en/docs/tutorials/planner-actions-on-releases-beta).
 
 **VI - Navigate between pages:** To see more release results, navigate the result pages using the arrows <i class="fas fa-angle-left"></i> <i class="fas fa-angle-right"></i>.
 
-**VII - Perform actions on the release:** Depending on the [release status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases), the three-dots menu <i class="fas fa-ellipsis-v"></i> will show different action options. To check out the possible actions, read [Releases: Actions on releases](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW).
+**VII - Perform actions on the release:** Depending on the [release status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases), the three-dots menu <i class="fas fa-ellipsis-v"></i> will show different action options. To check out the possible actions, read [Releases: Actions on releases](/en/docs/tutorials/planner-actions-on-releases-beta).
 
 ## Learn more
 
-* [Releases: Release concept](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ)
-* [Releases: Actions on releases](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW)
-* [Releases: Calendar page](/en/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C)
+* [Releases: Release concept](/en/docs/tutorials/planner-release-concept-beta)
+* [Releases: Actions on releases](/en/docs/tutorials/planner-actions-on-releases-beta)
+* [Releases: Calendar page](/en/docs/tutorials/planner-calendar-page-beta)

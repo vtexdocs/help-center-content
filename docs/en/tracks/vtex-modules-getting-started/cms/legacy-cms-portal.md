@@ -33,7 +33,7 @@ The [Layout](/en/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) section allows you 
 
 - **Product Cluster (Collections):** create product groups. You can use them to build Campaign or Product Collection landing pages that load specific product clusters.
 
-- **Sites and Channels:** configure [your store binding](/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) and other License Manager settings. To learn more, please refer to the [CMS folder structure](/en/tutorial/cms-folder-structure--2RdMaJSv4AK4EyscmQuocu) article.
+- **Sites and Channels:** configure [your store binding](/en/docs/tutorials/what-is-binding) and other License Manager settings. To learn more, please refer to the [CMS folder structure](/en/docs/tutorials/cms-folder-structure) article.
 
 ## Settings
 
@@ -97,7 +97,7 @@ There are folders that, although not as important as the previous ones, are ofte
 
 - `/sistema/buscavazia`: folder to which the user is directed if the search finds no results.
 - `/sistema/{codigoHTTP}`: folder that renders error pages according to HTTP status codes, such as `404` (page not found), `401` (unauthorized), and `500` (server error).
-- `/marcas`: folder containing layouts for brand pages, which can be customized with exclusive layouts. If there is no specific layout for brands, these pages will be rendered the same way as the search folder. To understand how brand pages work, see the article [on VTEX search](/en/tutorial/how-does-vtex-search-work--tutorials_542).
+- `/marcas`: folder containing layouts for brand pages, which can be customized with exclusive layouts. If there is no specific layout for brands, these pages will be rendered the same way as the search folder. To understand how brand pages work, see the article [on VTEX search](/en/docs/tutorials/how-does-vtex-search-work).
 
 ## VTEX's native controls
 Controls are snippets of codes that you can use in your website's templates to perform specific actions.
@@ -125,15 +125,15 @@ You can check out all available native controls and their respective uses in our
 - [What is binding?](/en/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete)
 
 ## Guides
-- [Creating and editing a page template](/en/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850): Learn how to create a page template. A page template is a model designed to define an HTML structure for displaying page content.
+- [Creating and editing a page template](/en/docs/tutorials/how-to-create-a-page-template): Learn how to create a page template. A page template is a model designed to define an HTML structure for displaying page content.
 
 - [Associating a template with a layout](/en/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK?&utm_source=autocomplete): Associate a template with a layout using the Sites and Channels folder.
 
-- [Managing placeholders](/en/tutorial/gerenciandoplaceholders--29Y7r9JqcWIqmGipReGLQI): A placeholder is a configurable snippet of code that meets conditions defined by the store. Learn how to insert and configure a placeholder, for example, a banner on your store’s homepage.
+- [Managing placeholders](/en/docs/tutorials/managing-placeholders): A placeholder is a configurable snippet of code that meets conditions defined by the store. Learn how to insert and configure a placeholder, for example, a banner on your store’s homepage.
 
 - [Using VTEX's native controls](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/7mGkGmo8l6wf4fXJCkWwPi?&utm_source=autocomplete): Controls are snippets of codes that you can use in your website's templates to perform specific actions. For example, you can use a control on a product page to display the product name.
 
-- [What is the purpose of the Customized Control?](/en/tutorial/what-is-the-purpose-of-the-customized-control--frequentlyAskedQuestions_627): In addition to VTEX's native controls, you can create your own controls.
+- [What is the purpose of the Customized Control?](/en/docs/tutorials/what-is-the-purpose-of-the-customized-control): In addition to VTEX's native controls, you can create your own controls.
 
 ## Controls
 - [List of controls for templates](/en/tutorial/list-of-controls-for-templates--tutorials_563)

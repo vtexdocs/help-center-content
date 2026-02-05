@@ -21,7 +21,7 @@ Under data protection regulations such as the [EU's General Data Protection Regu
 
 Before [requesting customer data deletion via Copilot](#requesting-customer-data-deletion-via-copilot), follow these steps:
 
-1. **Identify where the data is stored:** Check the [Master Data](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) entities that store customer data in your operation.
+1. **Identify where the data is stored:** Check the [Master Data](/en/docs/tutorials/master-data) entities that store customer data in your operation.
 2. **Delete custom entities manually:** If your store keeps customer data in custom entities, delete it manually before requesting data deletion via Copilot. For instructions, see the [Custom data entities](#custom-data-entities) section. Follow this process only for custom entities. Don't delete the Master Data [native entities](#master-data-native-entities) CL and AD.
 
 ### Master Data native entities

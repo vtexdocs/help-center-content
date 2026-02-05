@@ -20,7 +20,7 @@ The gift card or voucher is one of the features of the Payments module, and it w
 - A payment method for purchases;
 - A loyalty program that the retailer can connect with the VTEX system.
 
-For more details on the second option, check our technical documentation on [integration with gift cards](/en/tutorial/how-to-integrate-with-a-gift-card--tutorials_450).
+For more details on the second option, check our technical documentation on [integration with gift cards](/en/docs/tutorials/how-to-integrate-an-external-gift-card-provider-with-vtex).
 
 ## How to create the GiftCard (manual)
 

@@ -25,7 +25,7 @@ To use easypay, you need to:
 - [Configure the easypay affiliation](#configure-the-easypay-affiliation)
 - [Configure payment with Apple Pay on easypay (optional)](#configure-payment-with-apple-pay-on-easypay-optional)     
 
-> ⚠️ If you are a marketplace or seller, read [Configuring payment with easypay in a marketplace](/en/tutorial/setting-up-payments-with-easypay-marketplace--3YllWiITcPEOpteuToEdO7) or [Configuring payment with easypay seller](/en/tutorial/setting-up-payments-with-easypay-seller--5mYMCM1tiRiZO6PozuUncE).
+> ⚠️ If you are a marketplace or seller, read [Configuring payment with easypay in a marketplace](/en/docs/tutorials/setting-up-payments-with-easypay-marketplace) or [Configuring payment with easypay seller](/en/docs/tutorials/setting-up-payments-with-easypay-seller).
 
 ## Install the easypay app
 
@@ -82,7 +82,7 @@ __Merchant account UID__: identification of the merchant account where purchase 
 
 __Margin account UID__: identification of the margin account. 
 
-> ℹ️ This field should only be completed if the store is a marketplace and splits payments. Learn more in the [Configuring payment with easypay in a marketplace](/en/tutorial/setting-up-payments-with-easypay-marketplace--3YllWiITcPEOpteuToEdO7) article.
+> ℹ️ This field should only be completed if the store is a marketplace and splits payments. Learn more in the [Configuring payment with easypay in a marketplace](/en/docs/tutorials/setting-up-payments-with-easypay-marketplace) article.
 
 __Refund account ID and Refund account key__: If there is no specific refund account, the __Key ID__ value must be entered in the __Refund account ID__ field, and the __Key value__ in the __Refund account key__.
 
@@ -196,7 +196,7 @@ To configure the easypay affiliation, follow the steps below:
 4. Complete the __App Key__ and __App Token__ fields with your easypay account information.
 5. If you wish to modify the identification name to be displayed for the easypay provider on the VTEX Admin screen, enter the information in the __Name__ field in __Basic Information__.
 6. In __Payment Control__, select whether you want to activate the provider in a test environment by clicking __Enable test mode__.
-7. If you want to use [payment split](/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx) in your store, select the option __Enable payout split and send payment recipients__ and indicate the __Accountable for payment processing charges__ and __Accountable for chargebacks__ (marketplace, sellers or marketplaces and sellers).
+7. If you want to use [payment split](/en/docs/tutorials/split-payment) in your store, select the option __Enable payout split and send payment recipients__ and indicate the __Accountable for payment processing charges__ and __Accountable for chargebacks__ (marketplace, sellers or marketplaces and sellers).
 8. Click `Save`.
 
 ## Configure payment with Apple Pay on easypay (optional) 
@@ -205,7 +205,7 @@ To process payments with Apple Pay on easypay, you must first perform configurat
 
 To configure other payment methods that easypay will process, read the [Configuring payment conditions](/en/tutorial/how-to-configure-payment-conditions) article.
 
-To set special conditions for payment methods, read [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456).
+To set special conditions for payment methods, read [Configuring payment special conditions](/en/docs/tutorials/special-conditions).
 
 After following the instructions, it can take up to 10 minutes for the easypay connector to be displayed as a payment option at your store checkout.  
 

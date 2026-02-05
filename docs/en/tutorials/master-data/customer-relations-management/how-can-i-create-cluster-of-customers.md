@@ -35,7 +35,7 @@ The purpose of this article is to show how to configure your CRM to create a clu
 
 So technically, a cluster in CRM is nothing more than a field.
 
-To populate this field you can use an [import worksheet](/en/tutorial/importing-data-into-master-data--tutorials_1135) or an API, or you can do it manually using the Customer form in CRM. Everything depends on the store’s strategy for clusterizing its customers.
+To populate this field you can use an [import worksheet](/en/docs/tutorials/importing-data-into-master-data-v1) or an API, or you can do it manually using the Customer form in CRM. Everything depends on the store’s strategy for clusterizing its customers.
 
 ## Learn more
 

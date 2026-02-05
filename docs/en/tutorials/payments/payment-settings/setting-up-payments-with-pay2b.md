@@ -25,7 +25,7 @@ To configure Pay2b, follow the steps below:
 4. In __Provider Authorization__, fill in the __App Key__ and __App token__ fields with data provided by Pay2b.
 5. If you wish to modify the identification name to be displayed for the Pay2b provider on the VTEX Admin screen, enter the information in the __Name__ field in __Basic Information__.
 6. In __Payment Control__, select whether you want to activate the provider in a test environment by clicking __Enable test mode__.
-7. If you want to use [payment split](/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx) in your store, select the option __Enable payout split and send payment recipients__ and indicate the __Accountable for payment processing charges__ and __Accountable for chargebacks__ (marketplace, sellers or marketplaces and sellers).
+7. If you want to use [payment split](/en/docs/tutorials/split-payment) in your store, select the option __Enable payout split and send payment recipients__ and indicate the __Accountable for payment processing charges__ and __Accountable for chargebacks__ (marketplace, sellers or marketplaces and sellers).
 8. Click `Save`.
 
 To configure the payment methods to be processed by Pay2b, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).

@@ -25,7 +25,7 @@ To configure a VTEX Intelligent Search [merchandising rule](/en/tracks/vtex-inte
 	* **Rule name**: Merchandising rule name. Example: Promote product A when searching for a chocolate cookie.
 	* **Start date (optional)**: Set a date from which the merchandising rule will apply. The date follows the UTC-0 time zone.
 	* **End date (optional)**: Set a date when the merchandising rule will no longer apply to store searches. The date follows the UTC-0 time zone.
-	* **Apply to locales:** Languages to which the merchandising rule will apply. The field is only available for stores using [Multilanguage settings (Beta)](/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+	* **Apply to locales:** Languages to which the merchandising rule will apply. The field is only available for stores using [Multilanguage settings (Beta)](/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings-beta).
 5.	Click **Visual Editor**. Read the [Types of editing](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao) section for more information about each editor.
 6.	Click `Next`.
 7.	Define at least one search term or filter for applying the merchandising rule:
@@ -39,7 +39,7 @@ To configure a VTEX Intelligent Search [merchandising rule](/en/tracks/vtex-inte
 	* Hide products in the search results.
 	* Pin products to the top positions of the search results.
 	* Drag the pinned product to the desired position in the search results.
-	* Edit the initial settings of the merchandising rule, including the rule name, start and end dates, and the locales to which it will be applied if the store uses the[ Multilanguage settings (Beta)](/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+	* Edit the initial settings of the merchandising rule, including the rule name, start and end dates, and the locales to which it will be applied if the store uses the[ Multilanguage settings (Beta)](/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings-beta).
 
       Learn more about these actions in items **IV, V, VI, VIII, IX**, and **XI** of the [Actions available in the Visual Editor](#actions-available-in-the-visual-editor) section.
 9.	Click `Save`.

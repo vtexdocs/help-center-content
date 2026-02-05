@@ -41,8 +41,8 @@ You can invite sellers by sending them a link by email with all the necessary in
 5. Select the type of seller — `Common` or `White label`.    
 6. Toggle the **Share marketplace catalog** option if you want the seller to import your products and category tree.     
 7. If you enabled the switch in the previous step, you have to determine how to share your catalog with the seller:
-    - **Sales Channel:** defining the sales channel ([trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)) associated with the products and category tree you want to share with the seller.
-    - **Collection:** defining a [collection](/en/tutorial/tipos-de-colecao--5tKnhh8tMGIrVL7Fqirq7n) with the products and category tree to share with the seller.     
+    - **Sales Channel:** defining the sales channel ([trade policy](/en/docs/tutorials/how-trade-policies-work)) associated with the products and category tree you want to share with the seller.
+    - **Collection:** defining a [collection](/en/docs/tutorials/collection-types) with the products and category tree to share with the seller.     
 8. Click on `Send invite`.     
 
 The seller will receive an invitation by email to sell on your marketplace. 

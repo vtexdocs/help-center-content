@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
 
-When the price defined by the seller is different from the price offered by the marketplace, orders may not be processed correctly. On VTEX, the order authorization flow allows you to control and automatically approve these orders by configuring [Price Divergence rule](/en/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW). This article explains how sellers can create and edit Price Divergence rule and manually approve orders.
+When the price defined by the seller is different from the price offered by the marketplace, orders may not be processed correctly. On VTEX, the order authorization flow allows you to control and automatically approve these orders by configuring [Price Divergence rule](/en/docs/tutorials/price-divergence-rule). This article explains how sellers can create and edit Price Divergence rule and manually approve orders.
 
 When no Price Divergence rule is created, the VTEX platform will behave differently for each scenario below:
 
@@ -31,7 +31,7 @@ We recommend that the seller creates the Price Divergence rule before configurin
 
 ## Creating Price Divergence rule
 
-The [Price Divergence rule](/en/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW) is composed of one or more order authorization rules, which correspond to ranges between 0% and 100% of the order price. The configuration is done so that each range is associated with an automatic processing action.
+The [Price Divergence rule](/en/docs/tutorials/price-divergence-rule) is composed of one or more order authorization rules, which correspond to ranges between 0% and 100% of the order price. The configuration is done so that each range is associated with an automatic processing action.
 
 > ℹ️ To create a Price Divergence rule, the user must have a Super Admin (Owner) or OMS Full role. To ensure security in the management of your operations, please refer to the article Best practices for secure user management.
 
@@ -61,7 +61,7 @@ Once you have defined the authorization rule range, select one of the following 
 - **Automatically deny:** Orders with a price difference within the defined range are automatically rejected and are not integrated.
 - **Create a task in VTEX DO for approval:** For the configured range, the order is integrated, but remains in pending status, awaiting approval from an authorized user. In the **Authorized persons** field, you must enter the email addresses of the users who can [manually approve these orders](/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe#approving-orders-manually).
 
-To configure a hierarchy of users responsible for approving orders, you must enter more than one email address and sort the registered users. You can change these users at any time by editing the order authorization rule. Please note that only users with the Super Admin (Owner) or OMS Full [roles](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) can edit the rule.
+To configure a hierarchy of users responsible for approving orders, you must enter more than one email address and sort the registered users. You can change these users at any time by editing the order authorization rule. Please note that only users with the Super Admin (Owner) or OMS Full [roles](/en/docs/tutorials/roles) can edit the rule.
 
 To create the **2nd rule**, click on the <i class="fas fa-plus" aria-hidden="true"></i> plus sign. The same applies to creating a third or fourth rule, and so on. Once you click on the icon, the following interface is displayed:
 
@@ -98,7 +98,7 @@ There are two ways to manually approve an order with price divergence:
 
 ### Approving orders via Orders module
 
-This is done on the [All Orders page](/en/tutorial/lista-de-pedidos-interface--2QTduKHAJMFIZ3BAsi6Pi). To do this, follow the steps below.
+This is done on the [All Orders page](/en/docs/tutorials/all-orders). To do this, follow the steps below.
 
 1. In the VTEX Admin, go to **Orders > All Orders**, or type **All Orders** in the search bar at the top of the page.
 2. Click on the order with the status `Waiting for manual authorization`.
@@ -118,7 +118,7 @@ To approve an order with price divergence via VTEX DO, follow the steps below.
 
 ### Learn more
 
-- [Price Divergence rule](/en/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW)
-- [All Orders](/en/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi)
-- [Marketplace strategies on VTEX](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402)
+- [Price Divergence rule](/en/docs/tutorials/price-divergence-rule)
+- [All Orders](/en/docs/tutorials/all-orders)
+- [Marketplace strategies on VTEX](/en/docs/tutorials/marketplace-strategies-at-vtex)
 

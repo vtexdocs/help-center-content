@@ -15,12 +15,12 @@ locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-On VTEX, the SKU (Stock Keeping Unit) corresponds to the physical inventory of each product and to the most specific level for handling product variations. For example, if the product is a T-shirt, the SKU could be a white size S T-shirt. With the SKU ID, you can [edit the SKU](/en/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN) or perform other actions.
+On VTEX, the SKU (Stock Keeping Unit) corresponds to the physical inventory of each product and to the most specific level for handling product variations. For example, if the product is a T-shirt, the SKU could be a white size S T-shirt. With the SKU ID, you can [edit the SKU](/en/docs/tutorials/adding-or-editing-skus) or perform other actions.
 
 To find a SKU ID, follow the steps below:
 
-1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By) in the search bar at the top of the page.
-2. To display the[ SKUs added to the product](/en/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN), click the arrow next to the product name.
+1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type [Products and SKUs](/en/docs/tutorials/products-and-skus) in the search bar at the top of the page.
+2. To display the[ SKUs added to the product](/en/docs/tutorials/adding-or-editing-skus), click the arrow next to the product name.
 3. Find the numeric sequence that precedes the SKU name, which is the ID.
 
 In the example below, the product "Corebiz t-shirt" is associated with the SKU "corebiz t-shirt black", whose ID is `310119261`:
@@ -29,7 +29,7 @@ In the example below, the product "Corebiz t-shirt" is associated with the SKU "
 
 ## Identifying a SKU ID via URL
 
-When you click a SKU and open its [edit page](/en/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN), the URL on your browser is displayed as follows: 
+When you click a SKU and open its [edit page](/en/docs/tutorials/adding-or-editing-skus), the URL on your browser is displayed as follows: 
 
 `https://{accountName}.myvtex.com/catalog-products/product/{productID}/sku/{skuID}`.
 

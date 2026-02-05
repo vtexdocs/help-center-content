@@ -23,7 +23,7 @@ To display a promotion correctly in Sales App, you must:
 - Add a field called `salesAppHighlight` with the value `true` in the **additional information** section to highlight the promotion in the product image.
 - In the **additional information** section, add a field with the name `salesAppDisplayName`. As the value, add the text that will overwrite the default name of the promotion displayed on the search page. For example, "Free shipping".
 
-> ℹ️ If you want the promotion to be exclusive to Sales App, you need to configure a dedicated [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) for Sales App.
+> ℹ️ If you want the promotion to be exclusive to Sales App, you need to configure a dedicated [trade policy](/en/docs/tutorials/how-trade-policies-work) for Sales App.
 
 When a product has multiple promotions, the sales associate in a physical store can view all the options by clicking the tag of the promotion displayed in the search results.
 

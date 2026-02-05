@@ -36,19 +36,19 @@ To start using the Regionalization feature, you must follow the steps described 
 
 ## 1. Seller configuration
 
-First, you must understand which [seller](/en/tutorial/what-is-a-seller--5FkLvhZ3Few4CWWIuYOK2w) scenario applies to your store. See below for possible scenarios.
+First, you must understand which [seller](/en/docs/tutorials/what-is-a-seller) scenario applies to your store. See below for possible scenarios.
 
 ### Seller 1
 
-By default, the architecture of all VTEX stores allows them to operate as both seller and [marketplace](/en/tutorial/marketplace-strategies-at-vtex--tutorials_402) simultaneously. This means that your VTEX store will be the seller with ID number 1, as it can operate as a seller in its own environment.
+By default, the architecture of all VTEX stores allows them to operate as both seller and [marketplace](/en/docs/tutorials/marketplace-strategies-at-vtex) simultaneously. This means that your VTEX store will be the seller with ID number 1, as it can operate as a seller in its own environment.
 
 This seller is automatically created in the store account, and it represents your own inventory. This applies both to marketplaces that sell their own products and to stores that are not marketplaces, but combine checkout and [fulfillment](/en/tutorial/what-are-orders-with-marketplace-source-and-orders-with-fulfillment-source--6eVYrmUAwMOeKICU2KuG06#fulfillment) in their ecommerce.
 
 ### White label seller
 
-A [white label seller](/en/tutorial/what-are-franchise-account-and-seller-white-label--5orlGHyDHGAYciQ64oEgKa) is a type of seller that the end customers do not choose or acknowledge at any point in the purchase process.
+A [white label seller](/en/docs/tutorials/white-label-seller) is a type of seller that the end customers do not choose or acknowledge at any point in the purchase process.
 
-When the consumer adds a product to the cart and simulates shipping, the system automatically selects the white label seller that has that product in stock and displays the delivery methods of the sellers that offer the best conditions. To learn more about the white label seller selection algorithm, please refer to this [article](/en/tutorial/white-label-sellers-selection-algorithm--3MemNQ4pKkWCpMdzI27AHa).
+When the consumer adds a product to the cart and simulates shipping, the system automatically selects the white label seller that has that product in stock and displays the delivery methods of the sellers that offer the best conditions. To learn more about the white label seller selection algorithm, please refer to this [article](/en/docs/tutorials/white-label-sellers-selection).
 
 VTEX Intelligent Search checks the availability of products in the inventory of white label sellers in each region to determine which products will be displayed to the customer, which means you must configure at least one white label seller in your store.
 

@@ -15,13 +15,13 @@ trackSlugEN: orders
 order: 2
 ---
 
-The [Order flow](/en/tutorial/order-flow-and-status--tutorials_196) is the path taken by an order inside VTEX platform, from the moment the customer clicks the Checkout button until the order is invoiced or canceled.
+The [Order flow](/en/docs/tutorials/order-flow-and-status) is the path taken by an order inside VTEX platform, from the moment the customer clicks the Checkout button until the order is invoiced or canceled.
 
 Order changes - whether caused by the customer, the store, or external systems - generate changes to the __order status__. And with that, the order moves within the flow.
 
 ## Marketplaces and Sellers
 
-[Marketplace and Seller](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) concepts are critical to understanding the flow of an order at VTEX. Let's understand why:
+[Marketplace and Seller](/en/docs/tutorials/marketplace-strategies-at-vtex) concepts are critical to understanding the flow of an order at VTEX. Let's understand why:
 
 - __Marketplace__ is the environment where the order is closed, ie, where the customer performs the checkout process.
 - __Seller__ is the owner of the SKU. It is therefore responsible for the fulfillment - that is, for delivering the product to the customer.

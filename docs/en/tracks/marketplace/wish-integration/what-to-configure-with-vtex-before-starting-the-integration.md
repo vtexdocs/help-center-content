@@ -31,7 +31,7 @@ You'll need to define which trade policy will be used to integrate your products
 Once the trade policy is created, you'll need to link the new trade policy to products from your catalog that you want to send to Wish. The following step-by-step will show you how to define the assortment **in bulk using a spreadsheet** (for other methods, [click here](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ).
 
   1. Export your catalog products ([see how in the "by spreadsheet" section of this article](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ));
-  2. Add the **ID** of the trade policy set in the previous step to the **"Stores"** field ([mais detalhes aqui](/en/tutorial/filling-in-spreadsheet-fields--4nYhx63Q5yokQWaMguaIgI));
+  2. Add the **ID** of the trade policy set in the previous step to the **"Stores"** field ([mais detalhes aqui](/en/docs/tutorials/filling-in-fields-in-the-import-spreadsheet));
   3. Import the spreadsheet back into the catalog.
 
 ## Defining the logistics

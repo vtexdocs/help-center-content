@@ -18,16 +18,16 @@ order: 6
 Besides the resources provided in the initial agreement with VTEX, you can purchase solutions and activate other features to expand your business operation. To do so, commercial support will guide you on:
 
 - Requesting an [additional trade policy](#requesting-an-additional-trade-policy), [additional environment](#requesting-a-new-environment), and franchise account.
-- Changing the [Sponsor user](/en/tutorial/what-is-the-sponsor-user--3oPr7YuIkEYqUGmEqIMSEy).
+- Changing the [Sponsor user](/en/docs/tutorials/what-is-the-sponsor-user).
 - Requesting [add-on solutions](/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm).
 
 You can [open a commercial support ticket](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#financial) if you need support with other topics or buy an add-on solution. Start by exploring the [Help Center](/en/) articles and checking the sections below.
 
 ## Requesting an additional trade policy
 
-[Trade policies](/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) define the sales conditions and strategies for a sales channel, such as the store itself, marketplaces, physical stores, or B2B models. An operation can have a single trade policy or multiple policies; the business model determines the number of trade policies that will be associated with the account.
+[Trade policies](/en/docs/tutorials/how-trade-policies-work) define the sales conditions and strategies for a sales channel, such as the store itself, marketplaces, physical stores, or B2B models. An operation can have a single trade policy or multiple policies; the business model determines the number of trade policies that will be associated with the account.
 
-To decide whether to [request additional trade policies](/en/tutorial/requesting-an-additional-trade-policy--61vuFOw4yGh6nwSmkLJL1X), you need to understand if the account needs an additional or multistore environment. The [Accounts and architecture](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) article explains these concepts.
+To decide whether to [request additional trade policies](/en/docs/tutorials/requesting-an-additional-trade-policy), you need to understand if the account needs an additional or multistore environment. The [Accounts and architecture](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) article explains these concepts.
 
 ## Requesting a new environment
 

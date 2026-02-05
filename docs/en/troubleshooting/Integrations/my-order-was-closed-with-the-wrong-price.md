@@ -21,7 +21,7 @@ tags:
 
 In the VTEX Admin, under **Marketplace > Connections > Orders**, you can check the status of orders closed by certified marketplaces. Orders closed with the wrong price will show the status **Processed with error**. 
 
-> ℹ️ To prevent orders from being closed with the wrong price, you can create [Price Divergence rules](/en/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW).
+> ℹ️ To prevent orders from being closed with the wrong price, you can create [Price Divergence rules](/en/docs/tutorials/price-divergence-rule).
 
 There are three possible causes for an order to be closed with the wrong price:
 - [Product price assumed by the marketplace](#product-price-assumed-by-the-marketplace)

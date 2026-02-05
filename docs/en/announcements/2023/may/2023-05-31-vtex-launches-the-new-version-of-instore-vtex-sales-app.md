@@ -35,13 +35,13 @@ The new menu provides significant advantages, which are highlighted below:
 
 The Offers section allows merchants to display specific products or search results and customize their marketing strategies to their business needs and goals.
 
-One of the key features of this update is that merchants can set the Offers section as their home page. This provides a more customized user experience, as customers are immediately greeted with selected content and product recommendations. Learn more in the [Enabling Local stock sale in VTEX Sales App](/en/tutorial/enabling-local-stock-sale-in-vtex-sales-app--54eQN4rOH5yBYPGG2w8v9q) article.
+One of the key features of this update is that merchants can set the Offers section as their home page. This provides a more customized user experience, as customers are immediately greeted with selected content and product recommendations. Learn more in the [Enabling Local stock sale in VTEX Sales App](/en/docs/tutorials/enabling-local-stock-sale-in-vtex-sales-app) article.
 
 <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/may/2023-05-31-vtex-launches-the-new-version-of-instore-vtex-sales-app_2.png" alt= “anuncio-sale-app-en” width="35%" height="35%">
 
 ### Sales Performance
 
-The Sales Performance page allows merchants to view their sales metrics and compare performance across sales dates and staff performance. Learn more in the [VTEX Sales App: Sales Performance](/en/tutorial/sales-app-sales-performance--7i4Elt835tatBM6iqZoc56) article.
+The Sales Performance page allows merchants to view their sales metrics and compare performance across sales dates and staff performance. Learn more in the [VTEX Sales App: Sales Performance](/en/docs/tutorials/sales-app-sales-performance) article.
 
 <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/may/2023-05-31-vtex-launches-the-new-version-of-instore-vtex-sales-app_3.png" alt= “vendas-da-loja-sales-app-en” width="35%" height="35%">
 

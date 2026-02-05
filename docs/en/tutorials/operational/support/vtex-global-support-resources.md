@@ -46,7 +46,7 @@ Urgent tickets report critical issues with direct impact on sales. The following
 | Unable to fulfill orders | Order status not being updated Order feed or hook not working |
 | Store usability unavailable | Users can't add items to the cart Users can't register on the site Internal search with no response |
 
-> ⚠️ Urgent tickets will receive emergency support exclusively via [Zendesk](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
+> ⚠️ Urgent tickets will receive emergency support exclusively via [Zendesk](/en/docs/tutorials/opening-tickets-to-vtex-support).
 
 ## Ticket priority classification
 

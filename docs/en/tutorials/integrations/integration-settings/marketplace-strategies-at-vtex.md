@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-A marketplace is a virtual platform through which different sellers offer their products. In addition to owning products, sellers are often responsible for the [fulfillment process](/en/tutorial/fulfillment-logistics-vtex--53udnvI5eBy8DKo8FOjMoP).  
+A marketplace is a virtual platform through which different sellers offer their products. In addition to owning products, sellers are often responsible for the [fulfillment process](/en/docs/tutorials/fulfillment-logistics-vtex).  
 
 ![Marketplace strategies](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/marketplace-strategies-at-vtex_1.png)  
 
@@ -30,11 +30,11 @@ Here are some of the main transactions when selling products on marketplaces:
 - Order processing.  
 - Channel management.  
 
-The product assortment sent to a marketplace is defined when you choose the [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV).  
+The product assortment sent to a marketplace is defined when you choose the [trade policy](/en/docs/tutorials/how-trade-policies-work).  
 
-[Additional trade policies can be requested](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X) via a ticket to our [Support](https://supporticket.vtex.com/support) team by selecting the Commercial option and the New Trade Policy request type. A monthly fee is charged for each additional trade policy, whether used for integration with certified, partner, external, or VTEX marketplaces.  
+[Additional trade policies can be requested](/en/docs/tutorials/requesting-an-additional-trade-policy) via a ticket to our [Support](https://supporticket.vtex.com/support) team by selecting the Commercial option and the New Trade Policy request type. A monthly fee is charged for each additional trade policy, whether used for integration with certified, partner, external, or VTEX marketplaces.  
 
-> ℹ️ Orders placed through marketplaces are subject to the same [contractual rules](/en/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq) as the ones placed through other channels.  
+> ℹ️ Orders placed through marketplaces are subject to the same [contractual rules](/en/docs/tutorials/what-does-vtex-consider-as-revenue-in-the-billing-calculation) as the ones placed through other channels.  
 
 Here are the scenarios we will address next:  
 
@@ -66,7 +66,7 @@ For sellers not integrated with VTEX but want to sell their products on a VTEX m
 
 ### Operating as a VTEX marketplace
 
-The process to configure your store as [a VTEX marketplace](/en/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb) does not require some of the steps required in other integrations. Once your marketplace is configured, see [Actions for a VTEX marketplace operation](/en/tutorial/acoes-para-a-operacao-de-marketplaces-vtex--2SdIflvwywiOqCpczKCfev).  
+The process to configure your store as [a VTEX marketplace](/en/docs/tutorials/configuring-vtex-marketplace) does not require some of the steps required in other integrations. Once your marketplace is configured, see [Actions for a VTEX marketplace operation](/en/docs/tutorials/actions-for-vtex-marketplace-operation).  
 
 See below for the main VTEX marketplaces:  
 
@@ -98,7 +98,7 @@ At VTEX, you can sell on other channels in the following situations:
 - [Integrating with marketplaces](#integrating-with-marketplaces)  
 - [Operating as a VTEX seller](#operating-as-a-vtex-seller)  
 
-> ℹ️ A VTEX store can act simultaneously as a [VTEX seller](#selling-on-marketplaces) and a [VTEX marketplace](#operating-as-a-vtex-marketplces). The VTEX platform offers different fulfillment features that can be combined for scenarios such as dropshipping, where the seller receives and forwards the customer's order to a third party responsible for the fulfillment. The most fitting [logistics](/en/tutorial/logistica--53udnvI5eBy8DKo8FOjMoP) solution for the seller will depend on the architecture and business model and can be implemented through [Back office integration (ERP/PIM/WMS)](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide).  
+> ℹ️ A VTEX store can act simultaneously as a [VTEX seller](#selling-on-marketplaces) and a [VTEX marketplace](#operating-as-a-vtex-marketplces). The VTEX platform offers different fulfillment features that can be combined for scenarios such as dropshipping, where the seller receives and forwards the customer's order to a third party responsible for the fulfillment. The most fitting [logistics](/en/docs/tutorials/fulfillment-logistics-vtex) solution for the seller will depend on the architecture and business model and can be implemented through [Back office integration (ERP/PIM/WMS)](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide).  
 
 ### Integrating with an external marketplace
 
@@ -106,7 +106,7 @@ If you want to sell your products on a marketplace not integrated with VTEX, you
 
 ### Integrating with marketplaces
 
-Each integration with a marketplace needs to be linked to a [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV), because it is through the trade policy that you define the settings that will be applied to your products in that marketplace.
+Each integration with a marketplace needs to be linked to a [trade policy](/en/docs/tutorials/how-trade-policies-work), because it is through the trade policy that you define the settings that will be applied to your products in that marketplace.
 
 If the same catalog, price and shipping strategy settings from your VTEX store are used in the marketplace, there is no need to create a new trade policy, because the same commercial policy can be used for different sales channels.
 
@@ -119,7 +119,7 @@ You will only need to configure a trade policy for a specific marketplace if you
 - Configure other payment conditions.  
 - Define a different shipping strategy.  
 
-To [purchase additional trade policies](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), simply request it via a ticket in Support, selecting the **Commercial** option and the request type `Creation of Trade Policy`.
+To [purchase additional trade policies](/en/docs/tutorials/requesting-an-additional-trade-policy), simply request it via a ticket in Support, selecting the **Commercial** option and the request type `Creation of Trade Policy`.
 
 For each additional trade policy, a monthly fee is charged, whether it is used for integration with certified marketplaces, partners, external or VTEX.  
 
@@ -133,12 +133,12 @@ Currently, on the VTEX platform, you can find the following marketplaces:
 - [Dafiti](/en/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i)  
 - [Netshoes](/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm)  
 - [Zoom](/en/tutorial/integrando-com-zoom--2OoQjigCVOIEWWkgOqwCK6?&utm_source=autocomplete)  
-- [CSU (Opte+)](/en/tutorial/integrando-com-csu-opte-2--tutorials_4258)  
-- [MadeiraMadeira](/en/tutorial/integracao-com-madeiramadeira--J4QCENKiz4urYNfaMuE0i)  
-- [Riachuelo](/en/tutorial/integracao-com-riachuelo--kpfxAgwEcANihHLT4iW81)  
-- [Camicado](/en/tutorial/integracao-com-renner-e-camicado--5qf2wloosKlmIB8o2AitnT)  
-- [Renner](/en/tutorial/integracao-com-renner-e-camicado--5qf2wloosKlmIB8o2AitnT)  
-- [Enjoei](/en/tutorial/integracao-com-enjoei--3mV9uhw1AdqFol8K2tfwly)  
+- [CSU (Opte+)](/en/docs/tutorials/integrating-with-csu-opte-2)  
+- [MadeiraMadeira](/en/docs/tutorials/integrating-with-madeiramadeira)  
+- [Riachuelo](/en/docs/tutorials/integrating-with-riachuelo)  
+- [Camicado](/en/docs/tutorials/integrating-with-renner-and-camicado)  
+- [Renner](/en/docs/tutorials/integrating-with-renner-and-camicado)  
+- [Enjoei](/en/docs/tutorials/integrating-with-enjoei)  
 - [Wish](/en/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4)  
 - [Shopee](/en/tutorial/integracao-com-a-shopee-beta--5OV9idUY6fHu3P8grnCnqj)  
 - [Facebook](/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc)  
@@ -173,10 +173,10 @@ Currently, on the VTEX platform, you can find the following marketplaces:
 
 VTEX's architecture allows stores hosted in your platform to sell their products in other VTEX stores. A VTEX store that sells its products on another VTEX store is called a VTEX seller. Later in this article, you will see more information about VTEX stores offering products from VTEX sellers, acting as [VTEX marketplaces](#operating-as-a-vtex-marketplaces).  
 
-Setting up an [integration between VTEX stores](/en/tutorial/configurar-seller-para-vender-em-marketplace-vtex--6g045OkRSjNpqhkExbQRlP) is simple and requires fewer steps than other integrations. You can also use the Marketplaces and Integrations module, which provides a catalog of marketplaces interested in partnerships and facilitates contact between VTEX sellers, VTEX marketplaces, and certified marketplaces.   
+Setting up an [integration between VTEX stores](/en/docs/tutorials/configuring-a-seller-on-vtex-marketplace) is simple and requires fewer steps than other integrations. You can also use the Marketplaces and Integrations module, which provides a catalog of marketplaces interested in partnerships and facilitates contact between VTEX sellers, VTEX marketplaces, and certified marketplaces.   
 
 ## Seller Portal  
 
-The [Seller Portal](/en/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) is a VTEX platform edition for sellers to connect and sell their products on VTEX marketplaces. The portal allows sellers to access all the key features necessary to operate ecommerce on big storefronts, increasing visibility and sales conversion.  
+The [Seller Portal](/en/docs/tutorials/how-to-set-up-your-store-on-seller-portal) is a VTEX platform edition for sellers to connect and sell their products on VTEX marketplaces. The portal allows sellers to access all the key features necessary to operate ecommerce on big storefronts, increasing visibility and sales conversion.  
 
-> ℹ️ At VTEX, it is possible to act as a [white label seller](/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa), a seller unknown to the consumer in his shopping experience. This type of seller is the standard for [franchise accounts](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl), for example, and can be strategic for certain business models. To learn more, see the article [Choosing between standard account, franchise account, or Seller Portal](/en/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78).
+> ℹ️ At VTEX, it is possible to act as a [white label seller](/en/docs/tutorials/white-label-seller), a seller unknown to the consumer in his shopping experience. This type of seller is the standard for [franchise accounts](/en/docs/tutorials/what-is-a-franchise-account), for example, and can be strategic for certain business models. To learn more, see the article [Choosing between standard account, franchise account, or Seller Portal](/en/docs/tutorials/choosing-between-standard-account-franchise-account-or-seller-portal).

@@ -27,6 +27,6 @@ VTEX is proud to have offices and clients around the world. Each country office 
 | Mexico | Soluciones Cloud en Ecommerce S. de R.L. de C.V. |
 | United Kingdom | VTEX Ecommerce Platform Limited |
 
-To know which country office you are invoiced from, consult your contract or [download your invoice](/en/tutorial/como-fazer-download-faturas-da-VTEX--tutorials_653). When you open an invoice, you will find the company name and address from which your store is being invoiced in the left corner of your invoice, below VTEX’s logo.  
+To know which country office you are invoiced from, consult your contract or [download your invoice](/en/docs/tutorials/how-to-download-the-vtex-invoices). When you open an invoice, you will find the company name and address from which your store is being invoiced in the left corner of your invoice, below VTEX’s logo.  
 
 ![reconhecimento fatura](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/billing/contracts/names-of-vtex-branches-worldwide_1.JPG)

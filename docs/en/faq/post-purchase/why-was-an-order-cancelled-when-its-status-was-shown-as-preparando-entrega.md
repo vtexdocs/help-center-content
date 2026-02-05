@@ -16,7 +16,7 @@ legacySlug: why-was-an-order-cancelled-when-its-status-was-shown-as-preparando-e
 
 Any order can be cancelled before it is shown as `Invoiced`.
 
-When cancellation happens, the user is notified through [VTEX DO](/en/tutorial/vtex-do-interface--7KMbRL4OslN8DTX9oiuCiu). Thus, depending on the stage of the delivery, the user can confirm or reverse cancellation: 
+When cancellation happens, the user is notified through [VTEX DO](/en/docs/tutorials/vtex-do-interface). Thus, depending on the stage of the delivery, the user can confirm or reverse cancellation: 
 
 1) If you want to confirm the cancellation, in **Orders > All Orders**, click the desired order and click **Cancel Order**.
 

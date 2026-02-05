@@ -26,7 +26,7 @@ To configure the product assortment, you will need to [associate the sales polic
 
 To configure logistics, follow the step-by-step described [in this article](/en/tutorial/configuring-logistics-for-a-marketplace).
 
-To learn more, see our tutorial with more details on [how to set up a sales policy for a marketplace](/en/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404).
+To learn more, see our tutorial with more details on [how to set up a sales policy for a marketplace](/en/docs/tutorials/configuring-a-marketplace-trade-policy).
 
 ## Seller
 
@@ -51,5 +51,5 @@ After creating an [affiliate](/en/tutorial/configuring-affiliates/), you must as
 #### **LEAR MORE**
 
 - [Marketplace strategies at VTEX](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
-- [How trade policies work](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
-- [Creating a trade policy](/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)
+- [How trade policies work](/en/docs/tutorials/how-trade-policies-work)
+- [Creating a trade policy](/en/docs/tutorials/creating-a-trade-policy)

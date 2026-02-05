@@ -15,13 +15,13 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-> ⚠️ Users must have an authorized [role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) that grants access to the **Promotions** module in the VTEX Admin to access the **Promotion Simulator**.
+> ⚠️ Users must have an authorized [role](/en/docs/tutorials/roles) that grants access to the **Promotions** module in the VTEX Admin to access the **Promotion Simulator**.
 
 The **Promotion Simulator** is a tool that allows you to view not only the promotions created in the VTEX platform and applied to the shopping cart but also their activation conditions. You can also test the application of promotions before activating them, including scheduled and inactive promotions.
 
-With multiple configuration possibilities for promotions, the simulator brings visibility into promotion [competition](/en/tutorial/how-promotion-competition-works--tutorials_2270), how they are combined during the purchase, and the triggers that activate them.
+With multiple configuration possibilities for promotions, the simulator brings visibility into promotion [competition](/en/docs/tutorials/how-promotion-competition-works), how they are combined during the purchase, and the triggers that activate them.
 
-The **Promotion Simulator** is available for all VTEX stores through [Cartman](/en/tutorial/configure-cartman--1ACMTStZYkMqB0lTgwg451), a tool for merchants at checkout. To access the simulator, follow the steps below:
+The **Promotion Simulator** is available for all VTEX stores through [Cartman](/en/docs/tutorials/configure-cartman), a tool for merchants at checkout. To access the simulator, follow the steps below:
 
 1. In the top bar of the VTEX Admin, click the `Preview` button to open your store's restricted access page.
 
@@ -53,7 +53,7 @@ If you need to add or remove items from your cart, you can keep the simulator wi
 
 ### Searching and filtering promotions
 
-The tool provides a search bar for finding promotions by product or promotion name. Additionally, you can filter promotions by **Promotion type** ([Regular](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Buy Together](/en/tutorial/buy-together--tutorials_323), [Get More for Less](/en/tutorial/creating-a-more-for-less-promotion--tutorials_325), [Progressive Discount](/en/tutorial/progressive-discount--tutorials_324), [Buy One, Get One](/en/tutorial/buy-one-get-one--tutorials_322), or [Campaign Promotion](/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume)) and **Discount** (Applied or Not Applied).
+The tool provides a search bar for finding promotions by product or promotion name. Additionally, you can filter promotions by **Promotion type** ([Regular](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Buy Together](/en/docs/tutorials/buy-together), [Get More for Less](/en/docs/tutorials/creating-a-more-for-less-promotion), [Progressive Discount](/en/docs/tutorials/progressive-discount), [Buy One, Get One](/en/docs/tutorials/buy-one-get-one), or [Campaign Promotion](/en/docs/tutorials/campaign-promotion)) and **Discount** (Applied or Not Applied).
 
 ### Viewing applied promotions details
 
@@ -94,4 +94,4 @@ To run a simulation, follow the instructions below:
 
 * [How promotions work](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR)
 * [Promotions for specific scenarios](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy)
-* [Configuring Cartman](/en/tutorial/configure-cartman--1ACMTStZYkMqB0lTgwg451)
+* [Configuring Cartman](/en/docs/tutorials/configure-cartman)

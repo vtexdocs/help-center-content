@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the CMS](/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L).
+> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the CMS](/en/docs/tutorials/adding-collections-cms).
 
 On the __Storefront__ > __Layout__ page, a standard layout is established for all pages of the same kind included on each folder of a website; e.g. product. 
 
@@ -39,7 +39,7 @@ It is possible to limit the availability of the template to a predetermined peri
 
 After filling in all the needed fields, do not forget to save the changes made by clicking on __Save Layout__.
 
-Please note that these criteria are based on the page's ["search context"](/en/tutorial/--q0p2UU6sBaYcEMsq24YSi) on which the user is, which is directly tied to the [search parameters](/en/tutorial/--tutorials_567), but that are not necessarily set manually by the store admin - the entire page automatically fits in a content context.
+Please note that these criteria are based on the page's ["search context"](/en/docs/tutorials/how-to-create-landing-pages-with-customized-urls) on which the user is, which is directly tied to the [search parameters](/en/tutorial/--tutorials_567), but that are not necessarily set manually by the store admin - the entire page automatically fits in a content context.
 
 It happens that the offered conditions are not present on any page:
 

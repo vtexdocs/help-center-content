@@ -17,7 +17,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 At VTEX, it is possible to integrate with the payment provider Mercado Pago. Through this connector, your store can offer payment transactions in physical stores via **VTEX Sales App**, using points of sale (POS). For more information access [What is VTEX Sales App?](https://help.vtex.com/docs/tracks/vtex-sales-app-getting-started-and-setting-up).
 
-> ℹ️ To use the MercadoPagoV2 provider in your store through other online sales channels (except **VTEX Sales App**), visit [Setting up payments with MercadoPagoV2](/en/tutorial/setting-up-mercadopagov2-sub-acquirer--1y6k8lCSzJYfPs2yObNFo4).
+> ℹ️ To use the MercadoPagoV2 provider in your store through other online sales channels (except **VTEX Sales App**), visit [Setting up payments with MercadoPagoV2](/en/docs/tutorials/setting-up-mercadopagov2-sub-acquirer).
 
 To use the MercadoPagoV2 provider in the VTEX Sales App, you need to:
 
