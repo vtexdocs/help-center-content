@@ -53321,6 +53321,21 @@
               "origin": "",
               "type": "markdown",
               "children": []
+            },
+            {
+              "name": {
+                "en": "Nizza script affecting pixel apps",
+                "es": "El script Nizza afecta a las aplicaciones de píxeles.",
+                "pt": "Script Nizza afetando aplicativos pixel"
+              },
+              "slug": {
+                "en": "nizza-script-affecting-pixel-apps",
+                "es": "el-script-nizza-afecta-a-las-aplicaciones-de-pixeles",
+                "pt": "script-nizza-afetando-aplicativos-pixel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
