@@ -119,7 +119,7 @@ La asociación del *stock* al muelle, por su parte, se realiza a través del par
 
 ### Configuración de precios
 
-La configuración de precios se realiza a través de [tablas de precios](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8), estas son un conjunto de precios aplicados a determinados SKUs en un contexto específico. Para realizar la configuración deberá:
+La configuración de precios se realiza a través de [tablas de precios](/es/docs/tracks/tablas-de-precio-definicion-de-concepto), estas son un conjunto de precios aplicados a determinados SKUs en un contexto específico. Para realizar la configuración deberá:
 
 1. [Crear una nueva tabla de precios](/es/docs/tutorials/creacion-de-tablas-de-precios).
 2. Editar la configuración de la plantilla de precios.
@@ -133,7 +133,7 @@ En el modelo de negocios B2B, una práctica común es la concesión de crédito 
 
 La gestión de crédito es un recurso versátil y, por eso, se utiliza en diferentes escenarios de negocio en el modelo B2B. Explicamos algunas de las situaciones en que las tiendas con diferentes contextos de negocio pueden emplear esta estrategia en el artículo [Gestión de créditos por medio de Customer Credit](/es/docs/tutorials/gestion-crediticia-a-traves-del-customer-credit).
 
-En VTEX, los administradores de tiendas pueden utilizar [Customer Credit](/es/docs/tutorials/customer-credit-vision-general), una aplicación en la que pueden ofrecer y administrar los créditos que conceden a sus clientes. Para instalar la aplicación, consulte el paso a paso completo en el artículo [Instalar Customer Credit](/es/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
+En VTEX, los administradores de tiendas pueden utilizar [Customer Credit](/es/docs/tutorials/customer-credit-vision-general), una aplicación en la que pueden ofrecer y administrar los créditos que conceden a sus clientes. Para instalar la aplicación, consulte el paso a paso completo en el artículo [Instalar Customer Credit](/es/docs/tracks/instalar-customer-credit).
 
 > ℹ️ Los medios de pago convencionales, como tarjeta de crédito, tarjeta de débito y boleto bancario (disponible en Brasil), también se pueden configurar para el contexto B2B. La gestión de crédito es el método más utilizado por los clientes.
 
@@ -143,13 +143,13 @@ Después de instalar la aplicación en su tienda, debe configurar Customer Credi
 
 En Brasil, una de las particularidades de los negocios B2B es la forma en que los impuestos son incluidos en el valor total de cada ítem de una tienda. 
 
-Lea el artículo [Tasas](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/3DcO1XrLqlbZsq80zxSgZS) para obtener más información.
+Lea el artículo [Tasas](/es/docs/tracks/tasas-que-son-y-como-crearlas) para obtener más información.
 
 ### Sistema de tributación simple 
 
 A las tiendas que trabajan con un sistema de tributación simple en que solo se agrega un tipo de impuesto al precio del SKU, se les recomienda dos métodos para configurar el modelo de definición de precios de su tienda:
 
-- A través de la configuración de [tablas de precios](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8), en el caso de tributación, debe crear tablas que solo usen precios convencionales, ya que las tablas de precios promocionales no se pueden aplicar en este contexto. 
+- A través de la configuración de [tablas de precios](/es/docs/tracks/tablas-de-precio-definicion-de-concepto), en el caso de tributación, debe crear tablas que solo usen precios convencionales, ya que las tablas de precios promocionales no se pueden aplicar en este contexto. 
 
 - Através de la aplicación de [tasas](/es/tutorial/como-criar-taxaimposto/) a los precios de los SKUs para que los impuestos no se muestren en el estante de la tienda. 
 

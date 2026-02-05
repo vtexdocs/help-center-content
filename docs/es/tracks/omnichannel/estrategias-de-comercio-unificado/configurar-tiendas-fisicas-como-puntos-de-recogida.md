@@ -23,7 +23,7 @@ Es el cliente quien decide si desea que su pedido sea entregado en su domicilio 
 
 ## Requisitos previos - VTEX Sales App
 
-Comprueba los requisitos para empezar a utilizar las tiendas físicas como puntos de recogida de los pedidos realizados en [VTEX Sales App](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) . Para ello, consulte el artículo [Requisitos previos para usar VTEX Sales App](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u).
+Comprueba los requisitos para empezar a utilizar las tiendas físicas como puntos de recogida de los pedidos realizados en [VTEX Sales App](/es/docs/tracks/que-es-vtex-sales-app) . Para ello, consulte el artículo [Requisitos previos para usar VTEX Sales App](/es/docs/tracks/requisitos-previos-para-usar-vtex-sales-app).
 
 ## Configurar tiendas físicas como puntos de recogida
 
@@ -33,7 +33,7 @@ Por lo tanto, en cada cuenta franquicia que vaya a servir de punto de recogida, 
 
 ### Crear cuentas franquicia
 
-Para más información sobre la creación de cuentas franquicia, lea nuestro artículo [Crear cuentas franquicia](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/eujH0id9Y4WJjjmdazUKd).
+Para más información sobre la creación de cuentas franquicia, lea nuestro artículo [Crear cuentas franquicia](/es/docs/tracks/crear-cuentas-franquicia).
 
 ### Crear puntos de recogida
 

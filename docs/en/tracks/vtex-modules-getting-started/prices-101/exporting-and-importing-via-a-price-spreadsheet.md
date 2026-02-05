@@ -34,8 +34,8 @@ Follow the steps below to export the price spreadsheet:
 2. At the top of the screen, click the export icon <i class="fas fa-download"></i>.
 > A sidebar will be displayed.
 3. Under **Select the spreadsheet you want to export**, you must choose from the following options:
-   - **Base prices table (default):** The [base price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) is the SKU reference price for all price tables.
-   - **Fixed price table:** The [fixed price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy) overrides the base price even if the price rule is configured.
+   - **Base prices table (default):** The [base price](/en/docs/tracks/preco-base-definicao-de-conceito) is the SKU reference price for all price tables.
+   - **Fixed price table:** The [fixed price](/en/docs/tracks/preco-fixo-definicao-de-conceito) overrides the base price even if the price rule is configured.
    - **Calculated price table:** The final price that will be displayed in the store, which does not include promotions.
 4. Click the `Export table` button.
 > Then, the selected price table will open.

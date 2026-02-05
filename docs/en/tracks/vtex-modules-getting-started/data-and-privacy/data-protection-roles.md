@@ -37,7 +37,7 @@ It includes information on:
 * Processor and controller roles.
 * Compliance with the rights of data subjects.
 * [Subprocessors](https://vtex.com/us-en/privacy-and-agreements/subprocessors/).
-* Our [technical and administrative](/en/tracks/data-and-privacy--4Lc0i0an0DgnEtB0AUwlcq/7ANSqBP5DgOrVVyglo3Lbh) data security measures.
+* Our [technical and administrative](/en/docs/tracks/technical-and-administrative-measures) data security measures.
 * Security incident management.
 * Limitations of liability:
     * Audit requests.
@@ -57,7 +57,7 @@ Both VTEX and merchants must ensure the security of personal data, each within a
 
 ## VTEX responsibilities
 
-VTEX, as the processor, can assist the merchant in complying with the data subject's rights, conducting privacy impact reports, and notifying the merchant of any incidents involving personal data of which it is aware. In addition, we are committed to complying with the [technical and administrative](/en/tracks/data-and-privacy--4Lc0i0an0DgnEtB0AUwlcq/7ANSqBP5DgOrVVyglo3Lbh) security measures established in the [DPA](https://vtex.com/us-en/privacy-and-agreements/data-processing-addendum/).
+VTEX, as the processor, can assist the merchant in complying with the data subject's rights, conducting privacy impact reports, and notifying the merchant of any incidents involving personal data of which it is aware. In addition, we are committed to complying with the [technical and administrative](/en/docs/tracks/technical-and-administrative-measures) security measures established in the [DPA](https://vtex.com/us-en/privacy-and-agreements/data-processing-addendum/).
 
 ## Merchant responsibilities
 

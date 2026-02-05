@@ -17,7 +17,7 @@ order: 5
 
 Você captura os Leads que chegam no seu WhatsApp, divulga os links, inseriu o chat no site, mas não consegue trabalhar com esses clientes no seu CRM?
 
-Mas, se você caiu de paraquedas neste artigo, sugiro que antes acesse: [Como começar na VTEX Assisted Sales (SuiteShare)](/pt/tracks/suitshare--khP0p8mjIYRIpvM7Cb4Zr/2JIhYGumvHRHI1WY5iMYN0), [Levar os visitantes do meu site e redes sociais para o WhatsApp](/pt/tracks/suitshare--khP0p8mjIYRIpvM7Cb4Zr/5dA25l9g68S9RzXrq1rEsq) e o mais importante: [Capturar dados do lead antes de iniciar uma conversa no WhatsApp](/pt/tracks/suitshare--khP0p8mjIYRIpvM7Cb4Zr/5dcakrZEc8aOTG7OshTPWp).
+Mas, se você caiu de paraquedas neste artigo, sugiro que antes acesse: [Como começar na VTEX Assisted Sales (SuiteShare)](/pt/docs/tracks/como-comecar), [Levar os visitantes do meu site e redes sociais para o WhatsApp](/pt/docs/tracks/levar-os-visitantes-do-meu-site-e-redes-sociais-para-o-whatsapp) e o mais importante: [Capturar dados do lead antes de iniciar uma conversa no WhatsApp](/pt/docs/tracks/capturar-dados-do-lead-antes-de-iniciar-uma-conversa-no-whatsapp).
 
 Tudo pronto? 
 

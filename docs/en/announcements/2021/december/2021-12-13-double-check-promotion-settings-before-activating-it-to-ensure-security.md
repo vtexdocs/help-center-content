@@ -22,7 +22,7 @@ Mistakes can happen when configuring a new promotion and filling in information.
 ## What has changed?
 Previously, a promotion was automatically activated when saved with **Active** status. With the new feature, you can view a summary of the settings configured before activating a new promotion. This allows you to make sure that all data in the promotion is correct, avoiding implementation errors.
 
-For the summary to be displayed, the promotion must be  configured with **Active** status and must be of the [Regular](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) or [More for Less](/en/docs/tutorials/creating-a-more-for-less-promotion) type.
+For the summary to be displayed, the promotion must be  configured with **Active** status and must be of the [Regular](/en/docs/tracks/creating-regular-promotions) or [More for Less](/en/docs/tutorials/creating-a-more-for-less-promotion) type.
 
 The promotion summary displays alerts with attention points to ensure the expected behavior of a promotion before activating it.
 

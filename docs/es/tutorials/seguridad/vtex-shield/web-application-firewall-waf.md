@@ -15,7 +15,7 @@ locale: es
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
-> ℹ️ Esta funcionalidad es parte de [VTEX Shield](/es/docs/tutorials/vtex-shield).  Si ya es cliente de VTEX y desea adoptar VTEX Shield para su negocio, por favor, póngase en contacto con el [Soporte Comercial](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Pueden aplicarse tarifas adicionales. Si aún no es cliente pero está interesado en esta solución, por favor, complete el [formulario de contacto](https://vtex.com/co-es/contacto/).
+> ℹ️ Esta funcionalidad es parte de [VTEX Shield](/es/docs/tutorials/vtex-shield).  Si ya es cliente de VTEX y desea adoptar VTEX Shield para su negocio, por favor, póngase en contacto con el [Soporte Comercial](/es/docs/tracks/soporte-comercial). Pueden aplicarse tarifas adicionales. Si aún no es cliente pero está interesado en esta solución, por favor, complete el [formulario de contacto](https://vtex.com/co-es/contacto/).
 
 Web Application Firewall (WAF) es una capa de seguridad diseñada para proteger aplicaciones web mediante monitoreo y filtrado del tráfico de internet.
 

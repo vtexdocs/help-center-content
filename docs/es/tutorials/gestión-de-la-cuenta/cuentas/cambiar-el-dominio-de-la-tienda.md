@@ -46,7 +46,7 @@ Sigue los pasos a continuación para cambiar el dominio:
 
    Una vez abierto el ticket, el equipo de soporte tiene hasta tres días laborables para analizar la configuración y realizar el apuntamiento. 
 
-4. Realiza el apuntamiento de DNS a la CDN de VTEX siguiendo las instrucciones de la guía [Go live](/es/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj). 
+4. Realiza el apuntamiento de DNS a la CDN de VTEX siguiendo las instrucciones de la guía [Go live](/es/docs/tracks/go-live). 
 
 ## Eliminar el dominio antiguo
 

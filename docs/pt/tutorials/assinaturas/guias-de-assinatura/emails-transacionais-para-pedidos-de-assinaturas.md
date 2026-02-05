@@ -25,7 +25,7 @@ Para acessar os emails transacionais para pedidos de assinaturas, confira o pass
 4. Faça as alterações desejadas.
 5. Clique em `Salvar`.
 
-Também é possível [criar seu próprio template de email](/pt/tutorial/conhecendo-o-message-center/).
+Também é possível [criar seu próprio template de email](/pt/docs/tutorials/conhecendo-o-message-center/).
 
 ## Como seu cliente acompanha seus pedidos de assinatura
 

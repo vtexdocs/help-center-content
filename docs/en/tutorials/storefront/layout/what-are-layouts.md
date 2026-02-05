@@ -15,14 +15,14 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-__Layouts__ are responsible for determining which [placeholders](/en/tutorial/what-are-placeholders) will appear on the pages of your [web site](/en/tutorial/what-is-a-web-site). You find them organized by folders in the **Sites and Channels** directory of the [CMS](/en/faq/what-is-cms)
+__Layouts__ are responsible for determining which [placeholders](/en/docs/tutorials/what-are-placeholders) will appear on the pages of your [web site](/en/docs/tutorials/what-is-a-web-site). You find them organized by folders in the **Sites and Channels** directory of the [CMS](/en/faq/what-is-cms)
 
-This is done first with the placeholder settings, that will tell you which type is used and what file will fill it. Then, in order for the layout to become functional, it must be linked to a [template](/en/tutorial/what-are-templates). Thus, the page code where the placeholder will be displayed will know exactly where the information comes from.
+This is done first with the placeholder settings, that will tell you which type is used and what file will fill it. Then, in order for the layout to become functional, it must be linked to a [template](/en/docs/tutorials/what-are-templates). Thus, the page code where the placeholder will be displayed will know exactly where the information comes from.
 
 > ⚠️ **Important**<br> In order to work, each layout must be linked to a single template.
 
 ### Related articles
 - [What is CMS?](/en/faq/what-is-cms)
-- [What is a web site?](/en/tutorial/what-is-a-web-site)
-- [What are templates?](/en/tutorial/what-are-templates)
-- [What are placeholders?](/en/tutorial/what-are-placeholders)
+- [What is a web site?](/en/docs/tutorials/what-is-a-web-site)
+- [What are templates?](/en/docs/tutorials/what-are-templates)
+- [What are placeholders?](/en/docs/tutorials/what-are-placeholders)

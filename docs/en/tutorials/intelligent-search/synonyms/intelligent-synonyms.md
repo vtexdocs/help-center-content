@@ -18,7 +18,7 @@ subcategoryId: BBzMtJan1UTxC9QZODnlN
 
 > ℹ️ This feature is available for accounts that have at least 100,000 monthly searches so that the artificial intelligence model can be trained. To check the number of monthly searches in your store, in the VTEX Admin, go to *Storefront > Intelligent Search > Analytics* and filter by the last 30 days. If you’re interested in implementing Intelligent Synonyms, please contact [our support](https://support.vtex.com/hc/pt-br/requests). Additional fees may apply in the future.
 
-The [Synonyms](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) feature of [VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) allows you to add words, or similar sentences, as synonyms for customer search terms, increasing the chance of successful searches.
+The [Synonyms](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) feature of [VTEX Intelligent Search](/en/docs/tracks/overview-intelligent-search) allows you to add words, or similar sentences, as synonyms for customer search terms, increasing the chance of successful searches.
 
 With the Intelligent Synonyms feature, the **Synonyms** page in the VTEX Admin provides intelligent recommendations of terms, as well as manual configuration of synonyms. The platform leverages artificial intelligence to suggest synonyms based on customer search behavior in your store.
 
@@ -61,4 +61,4 @@ Follow these instructions to view the synonym suggestions and choose whether to 
 
 * [Synonyms](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV)
 * [Configuring Synonyms](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL)
-* [VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG)
+* [VTEX Intelligent Search](/en/docs/tracks/overview-intelligent-search)

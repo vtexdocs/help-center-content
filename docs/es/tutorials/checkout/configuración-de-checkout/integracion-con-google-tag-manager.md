@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
-> ⚠️ Si su tienda está construida en [Store Framework](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), debe instalar la aplicación de pixel del Google Tag Manager para hacer la integración con todas las páginas. Vea cómo hacerlo en la [documentación de la app](https://developers.vtex.com/vtex-developer-docs/docs/google-tag-manager).
+> ⚠️ Si su tienda está construida en [Store Framework](/es/docs/tracks/cms-vtex-io), debe instalar la aplicación de pixel del Google Tag Manager para hacer la integración con todas las páginas. Vea cómo hacerlo en la [documentación de la app](https://developers.vtex.com/vtex-developer-docs/docs/google-tag-manager).
 
 Google Tag Manager es un sistema de gestión de etiquetas creado por Google para gestionar etiquetas JavaScript y HTML utilizadas para seguimiento y análisis de sitios web.
 
@@ -30,7 +30,7 @@ En VTEX, la integración con Google Tag Manager es nativa, lo que simplifica la 
 Antes de empezar a configurar Google Tag Manager, debes realizar los siguientes pasos:
 
 - Crear una cuenta en [Google Tag Manager](https://tagmanager.google.com/?hl=ES#/home).
-- Configurar Google Analytics 4, es decir, realizar la primera etapa descrita en la guía [Configurar el Google Analytics 4 en una tienda VTEX](/es/tutorial/como-configurar-el-google-analytics-en-tienda-vtex).
+- Configurar Google Analytics 4, es decir, realizar la primera etapa descrita en la guía [Configurar el Google Analytics 4 en una tienda VTEX](/es/docs/tutorials/como-configurar-el-google-analytics-en-tienda-vtex).
 
 ## Configurar etiquetas en Google Tag Manager
 
@@ -56,6 +56,6 @@ Para verificar eventos (activadores) y variables disponibles en las páginas que
 
 ## VTEX IO: instalar el píxel de Google Tag Manager
 
-Si tu tienda utiliza [VTEX IO - Store Framework](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), además de la configuración, deberás usar una nueva versión de la aplicación Google Tag Manager. Para más información, accede a [Installing Google Tag Manager](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-google-tag-manager).
+Si tu tienda utiliza [VTEX IO - Store Framework](/es/docs/tracks/cms-vtex-io), además de la configuración, deberás usar una nueva versión de la aplicación Google Tag Manager. Para más información, accede a [Installing Google Tag Manager](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-google-tag-manager).
 
-Esta etapa no es necesaria para las tiendas que utilizan [CMS - Portal Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
+Esta etapa no es necesaria para las tiendas que utilizan [CMS - Portal Legado](/es/docs/tracks/cms-portal-legado).

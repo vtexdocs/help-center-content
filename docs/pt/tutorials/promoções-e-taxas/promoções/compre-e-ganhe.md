@@ -108,7 +108,7 @@ Nesta seção, detalharemos as condições em que você deve aplicar para que um
 
 - **Meio de pagamento:** a promoção será aplicada quando você selecionar um dos métodos de pagamento especificados e o carrinho tiver apenas um método de pagamento.
 - **Número do Bin do cartão:** a promoção só poderá ser aplicada se forem utilizados cartões de bandeiras, bancos ou categorias específicas, identificados por seus códigos BIN. É possível realizar a importação de uma lista de BINs, que deve estar salvo em um arquivo de texto (**.txt**) ou (**.csv**) com cada BIN descrito em uma linha diferente.
-- **Cluster de clientes:** selecione um [cluster de clientes](/pt/tutorial/como-criar-um-cluster-de-clientes) já criado no Master Data, seguindo o formato `field=value` ou `field contains value`.
+- **Cluster de clientes:** selecione um [cluster de clientes](/pt/docs/tutorials/como-criar-um-cluster-de-clientes) já criado no Master Data, seguindo o formato `field=value` ou `field contains value`.
 - **Tipo de frete:** permite escolher se a promoção será aplicada em um ou mais tipos de fretes selecionados.
 - **Localização de entrega:** a promoção só será aplicada caso o endereço de entrega do pedido esteja de acordo com as seguintes definições abaixo:
   - **Países de entrega:** permite que você selecione os países onde a promoção será válida. Apenas pedidos com endereços de entrega localizados nos países selecionados poderão se beneficiar da promoção.

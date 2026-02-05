@@ -38,7 +38,7 @@ El ítem permanece en este status durante un tiempo determinado, y si no se conf
 
 _plazo de vencimiento del pago + plazo de reserva en el stock_
 
-* **Plazo de vencimiento del pago:** el tiempo (en días) establecido para realizar el pago. Para los pagos con boleto (Brasil) o [pagaré](/es/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ#configurar-pagare), este plazo se puede configurar en el módulo **[Pagos](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB)**. En cambio, para los demás medios de pago, como tarjeta de crédito y _wallet_, no se puede configurar un plazo de vencimiento de pago. El flujo de pago se inicia justo después del _checkout_ y la aprobación o denegación se realizará en distintos momentos, según el medio de pago seleccionado.
+* **Plazo de vencimiento del pago:** el tiempo (en días) establecido para realizar el pago. Para los pagos con boleto (Brasil) o [pagaré](/es/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ#configurar-pagare), este plazo se puede configurar en el módulo **[Pagos](/es/docs/tracks/como-funciona-el-modulo-de-pagos)**. En cambio, para los demás medios de pago, como tarjeta de crédito y _wallet_, no se puede configurar un plazo de vencimiento de pago. El flujo de pago se inicia justo después del _checkout_ y la aprobación o denegación se realizará en distintos momentos, según el medio de pago seleccionado.
 * **Plazo de reserva en el stock:** se establece automáticamente, siguiendo las reglas que se indican a continuación.
     * **cuatro días consecutivos**: cuando el día de vencimiento del pago sea domingo, lunes o martes.
     * **cinco días consecutivos:** cuando el día de vencimiento del pago sea miércoles, jueves o viernes.

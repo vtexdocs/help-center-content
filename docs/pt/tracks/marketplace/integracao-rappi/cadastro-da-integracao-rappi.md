@@ -26,7 +26,7 @@ Terminadas as etapas de conﬁguração da sua conta na Rappi e da sua conta na 
 | **Campo** | **Descrição** | **Exemplo** |
 |---|---|---|
 | **Status da integração** | Botão que define se a integração estará ligada ou desligada. | <i class="fas fa-toggle-on"></i>  ou <i class="fas fa-toggle-off"></i> |
-| **ID do Afiliado** | Código identificador para criação de um [afiliado](/pt/tutorial/o-que-e-afiliado) que ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não. Vogais não são aceitas.  A configuração do conector cria automaticamente o afiliado. | RPP |
+| **ID do Afiliado** | Código identificador para criação de um [afiliado](/pt/docs/tutorials/o-que-e-afiliado) que ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não. Vogais não são aceitas.  A configuração do conector cria automaticamente o afiliado. | RPP |
 | **Email** | Email do representante comercial da Rappi para o afiliado que está sendo criado. | email@integracao.com |
 | **Canal de vendas** | Identificador da [política comercial](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace) que definirá o sortimento de catálogo e os valores dos itens que serão enviados para a Rappi. | 1 |
 | **Client Id** | Identificador fornecido pela Rappi. | rppteste |

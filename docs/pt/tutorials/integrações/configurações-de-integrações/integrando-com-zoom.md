@@ -59,7 +59,7 @@ Se você ainda não possui uma coleção, há duas formas de configurar uma. É 
 
 ### Definir política comercial
 
-Ao [criar uma política comercial](/pt/docs/tutorials/criar-uma-politica-comercial), você determina o sortimento de produtos, preços e estratégias de envio em um canal de venda. Ou seja, é preciso [configurar uma política comercial para marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/) para definir quais informações dos seus produtos serão enviadas para o Zoom.
+Ao [criar uma política comercial](/pt/docs/tutorials/criar-uma-politica-comercial), você determina o sortimento de produtos, preços e estratégias de envio em um canal de venda. Ou seja, é preciso [configurar uma política comercial para marketplace](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace/) para definir quais informações dos seus produtos serão enviadas para o Zoom.
 
 Só será necessário ter uma política comercial diferente daquela utilizada na sua loja VTEX se você quiser oferecer uma seleção diferente de produtos ou enviar preços diferentes para o Zoom. Para [contratar políticas comerciais adicionais](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional), basta solicitar via ticket em nosso [Suporte](https://supporticket.vtex.com/support) selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
 

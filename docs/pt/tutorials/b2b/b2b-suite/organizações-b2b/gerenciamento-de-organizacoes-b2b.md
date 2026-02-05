@@ -98,4 +98,4 @@ Para visualizar ou customizar algum desses modelos, siga as etapas abaixo:
 
 5. Clique em `Salvar`.
 
-Para saber mais sobre a edição de modelos do Email Template, acesse nosso artigo [Criar ou editar modelos de email transacional](/pt/tracks/transactional-emails--6IkJwttMw5T84mlY9RifRP/335JZKUYgvYlGOJgvJYxRO).
+Para saber mais sobre a edição de modelos do Email Template, acesse nosso artigo [Criar ou editar modelos de email transacional](/pt/docs/tracks/criar-ou-editar-template-de-e-mail-transacional).

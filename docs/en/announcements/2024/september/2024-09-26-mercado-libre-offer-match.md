@@ -30,5 +30,5 @@ The main advantages of this feature are:
 
 The **Offer Match** feature can be accessed through the VTEX Admin in **Marketplace > Mercado Libre > Offer March** or by typing Offer Match in the search bar. Offer Match is available for all VTEX accounts.  
 
-To learn more about using this feature, check [Mercado Libre offer match](/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/43uD4LPU5PLUWe11IaWwyR).
+To learn more about using this feature, check [Mercado Libre offer match](/en/docs/tracks/match-offers-mercado-livre).
 

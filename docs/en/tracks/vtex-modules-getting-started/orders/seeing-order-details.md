@@ -19,7 +19,7 @@ In the Admin side menu, within the Orders area, is the __Orders__ section. Click
 
 In the default view of this screen, all store orders are listed starting from the most recent ones. You can change the sorting by clicking on the column names, as well as fetch orders using specific data, and also export this data.
 
-In addition, the search offers a very flexible filter, which we will explain in detail in the [next article](/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/3cjk655ZzDGICH4rVfgu7O).
+In addition, the search offers a very flexible filter, which we will explain in detail in the [next article](/en/docs/tracks/how-the-orders-module-filters-work).
 
 To further explore the order list, see the [Order List Overview article](/en/tutorial/orders-list--tutorials_200).
 
@@ -62,7 +62,7 @@ This card displays promotions that were applied to the order value as well as th
 
 ### Order status
 
-This is the current order status, which indicates the point at which the order is in the [order flow](/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/4811ExCe3WrEiRMV3sy9n8).
+This is the current order status, which indicates the point at which the order is in the [order flow](/en/docs/tracks/order-flow).
 
 ### Flow
 

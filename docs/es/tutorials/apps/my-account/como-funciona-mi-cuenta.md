@@ -143,7 +143,7 @@ Sin embargo, hay **limitaciones** que las tiendas que utilizan la autenticación
 
 * En tiendas que actúan como _marketplace_, la opción `Guardar tarjeta` de la pestaña **Tarjetas de crédito** no estará disponible para los casos en que la condición de pago de la tarjeta de crédito solo esté asociada al [seller white label](/es/docs/tutorials/seller-white-label). Esto se debe a que la validación de la tarjeta se realiza directamente en la cuenta principal, a través de una transacción de prueba por el valor de USD 1,50, que se reembolsa inmediatamente.
 
-    En otras palabras, para guardar la tarjeta, la [condición de pago](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) de tarjeta de crédito también debe estar en la cuenta principal, en este caso, en Marketplace.
+    En otras palabras, para guardar la tarjeta, la [condición de pago](/es/docs/tracks/configurar-una-condicion-de-pago) de tarjeta de crédito también debe estar en la cuenta principal, en este caso, en Marketplace.
 
 ## Suscripciones
 

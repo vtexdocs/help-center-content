@@ -19,7 +19,7 @@ El **Informe de Indexación** es el reporte que indica el status de indexación 
 
 ![productosindexados](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/informes/utilizando-el-informe-de-indexacion_1.png)
 
-> ℹ️ **Nota:** Acceda a ver más información en [Entendiendo el funcionamiento de la indexación.](/es/tutorial/entendiendo-el-funcionamento-de-la-indexacion)
+> ℹ️ **Nota:** Acceda a ver más información en [Entendiendo el funcionamiento de la indexación.](/es/docs/tutorials/entendiendo-el-funcionamento-de-la-indexacion)
 
 ## Cómo acceder al informe de indexación
 

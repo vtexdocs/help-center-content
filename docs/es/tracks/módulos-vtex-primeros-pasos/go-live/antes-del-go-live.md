@@ -25,7 +25,7 @@ Debes [registrar el dominio en Configuración de la cuenta](/es/tutorial/configu
 
 ## Solicitar el apuntamiento IO
 
-Si tu storefront se creó con [CMS IO](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), solicita el apuntamiento interno de DNS a CMS IO mediante un ticket con el [equipo de soporte de VTEX](https://supporticket.vtex.com/support), indicando la URL que deseas que se apunte. Este proceso puede tomar hasta tres días laborables.
+Si tu storefront se creó con [CMS IO](/es/docs/tracks/cms-vtex-io), solicita el apuntamiento interno de DNS a CMS IO mediante un ticket con el [equipo de soporte de VTEX](https://supporticket.vtex.com/support), indicando la URL que deseas que se apunte. Este proceso puede tomar hasta tres días laborables.
 
 Después de recibir la confirmación del apuntamiento interno, debes realizar el [apuntamiento de DNS común](/es/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#realizar-el-apuntamiento-de-dns) dentro de cinco días. De lo contrario, se eliminará el apuntamiento interno y tendrás que volver a solicitarlo.
 
@@ -33,7 +33,7 @@ Después de recibir la confirmación del apuntamiento interno, debes realizar el
 
 ## Solicitar el apuntamiento especial
 
-Si el acceso a tu tienda está restringido por una [política comercial](/es/docs/tutorials/crear-una-politica-comercial) con regla condicional y tu storefront se construyó con [CMS Portal Legacy](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), debes solicitar un apuntamiento interno especial.
+Si el acceso a tu tienda está restringido por una [política comercial](/es/docs/tutorials/crear-una-politica-comercial) con regla condicional y tu storefront se construyó con [CMS Portal Legacy](/es/docs/tracks/cms-portal-legado), debes solicitar un apuntamiento interno especial.
 
 Un ejemplo común son las [tiendas B2B](/es/docs/tutorials/b2b-vision-general), que [restringen el acceso](/es/tutorial/configurando-b2b-na-vtex--tutorials_238#1-incluir-regra-condicional-na-politica-comercial-do-b2b) a empresas previamente aprobadas.
 

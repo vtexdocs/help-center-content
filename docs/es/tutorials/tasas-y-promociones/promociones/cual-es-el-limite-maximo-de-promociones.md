@@ -18,7 +18,7 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 Hay un límite en la cantidad de promociones, tasas y cupones activos:
 
 - [Promociones](/es/docs/tutorials/crear-promociones): 100
-- [Tasas](/es/tutorial/creando-la-tasaimpuesto/): 100
+- [Tasas](/es/docs/tutorials/creando-la-tasaimpuesto/): 100
 - [Cupones:](/es/tutorial/crear-cupon-de-descuento/) 50.000
 
 Para calcular este límite sólo se tienen en cuenta las promociones, tasas o cupones activos, es decir, no se consideran las promociones, tasas o cupones archivados.

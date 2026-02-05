@@ -14,17 +14,17 @@ locale: es
 legacySlug: por-que-esta-mi-pedido-parado-en-listo-para-preparar
 ---
 
-En el status `Listo para preparar`, ele flujo del pedido espera el catastro de la nota fiscal para la factura. El pedido quedará en ese status hasta que se realice su [factura](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT), o sea, hasta que la nota fiscal sea insertada en el pedido.
+En el status `Listo para preparar`, ele flujo del pedido espera el catastro de la nota fiscal para la factura. El pedido quedará en ese status hasta que se realice su [factura](/es/docs/tracks/facturar-un-pedido), o sea, hasta que la nota fiscal sea insertada en el pedido.
 
 ## Facturación en el módulo Pedidos
 
-Para cambiar el status, debes agregar la factura a través de la API de [Order Invoice Notification](https://developers.vtex.com/vtex-rest-api/reference/invoicenotification) o [manualmente](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) en el Admin VTEX. 
+Para cambiar el status, debes agregar la factura a través de la API de [Order Invoice Notification](https://developers.vtex.com/vtex-rest-api/reference/invoicenotification) o [manualmente](/es/docs/tracks/facturas-parciales) en el Admin VTEX. 
 
 Ten en cuenta la siguiente información para asegurarte de que la facturación se ha realizado correctamente:
 
 * La factura debe contener el valor total del pedido, incluido el flete.  
 * Si la factura ya contiene el valor total correcto del pedido, es necesario reenviarla.  
-* Si la factura insertada no contiene el valor completo, es necesario insertar una nueva [factura parcial](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) con el valor que falta. Esta nueva factura debe tener un número diferente al que ya está registrado en el pedido.  
+* Si la factura insertada no contiene el valor completo, es necesario insertar una nueva [factura parcial](/es/docs/tracks/facturas-parciales) con el valor que falta. Esta nueva factura debe tener un número diferente al que ya está registrado en el pedido.  
 
 ### Integración con marketplace
 

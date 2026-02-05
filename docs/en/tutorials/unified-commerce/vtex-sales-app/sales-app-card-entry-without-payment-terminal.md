@@ -52,11 +52,11 @@ The following table presents the main advantages of using **Sales App card entry
 | **Integrated and frictionless experience** | The purchase and the payment confirmation take place in **VTEX Sales App**, eliminating the need for multiple environments to complete a sale and promoting a seamless experience. |
 | **Secure purchases** | During the purchase, the customer watches the card scanning and (automatic or manual) data entry process, which keeps the information masked and doesn't store it after the purchase is completed. |
 | **Virtual card support** | **Sales App card** entrysupports physical card with [BINs](/en/docs/tutorials/adding-bin-information) and virtual cards, expanding payment options for customers. |
-| **Payment starter kit** | In addition to the [shared cart (Social Selling)](/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy) option, **Sales App card entry** allows merchants starting to use **VTEX Sales App** to integrate the solution without having to get an additional acquirer. |
+| **Payment starter kit** | In addition to the [shared cart (Social Selling)](/en/docs/tracks/sharing-shopping-cart-using-vtex-sales-app-social-selling) option, **Sales App card entry** allows merchants starting to use **VTEX Sales App** to integrate the solution without having to get an additional acquirer. |
 
 ## Use cases
 
-When using **Sales App card entry** for [endless aisle](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) sales with default shipping (over 24 hours), the purchase follows the same checkout flow as the ecommerce website and is classified as a card-not-present transaction — a technical term applied when the payment doesn't count has having used a physical card.
+When using **Sales App card entry** for [endless aisle](/en/docs/tracks/endless-aisle) sales with default shipping (over 24 hours), the purchase follows the same checkout flow as the ecommerce website and is classified as a card-not-present transaction — a technical term applied when the payment doesn't count has having used a physical card.
 
 > ❗ Transactions made using this feature are subject to anti-fraud rules. Approval may take up to 24 hours if the purchase requires anti-fraud authorization. For this reason, we don't recommend using **Sales App card entry** in the following scenarios:<ul><li>Sales with express shipping</li><li>Local inventory sales (On Hands)</li></ul>
 
@@ -72,7 +72,7 @@ The settings required to activate the feature differ for stores that already use
 
 ### Stores starting to use VTEX Sales App
 
-When [setting up VTEX Sales App](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), in the payment method activation step, keep the option <i class="fas fa-toggle-on" aria-hidden="true"></i> **Sales App card entry** enabled.
+When [setting up VTEX Sales App](/en/docs/tracks/vtex-sales-app-basic-settings), in the payment method activation step, keep the option <i class="fas fa-toggle-on" aria-hidden="true"></i> **Sales App card entry** enabled.
 
 ### Stores using VTEX Sales App
 
@@ -118,5 +118,5 @@ Follow the steps below to sell using **Sales App card entry**:
 ## Learn more
 
 - [VTEX Sales App: FAQ](/en/docs/tutorials/vtex-sales-app-faq)
-- [Sharing shopping cart using VTEX Sales App Social Selling](/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy)
-- [Prerequisites for using VTEX Sales App](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u)
+- [Sharing shopping cart using VTEX Sales App Social Selling](/en/docs/tracks/sharing-shopping-cart-using-vtex-sales-app-social-selling)
+- [Prerequisites for using VTEX Sales App](/en/docs/tracks/prerequisites-for-using-vtex-sales-app)

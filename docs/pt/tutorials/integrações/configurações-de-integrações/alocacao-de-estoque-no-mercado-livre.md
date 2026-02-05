@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-A funcionalidade **Alocação de estoque** permite que sellers VTEX que utilizam a [**integração Premium**](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/51oWBHvVxSs8eAwLQhSbSd) com o Mercado Livre associem seus múltiplos estoques a diferentes estoques do Mercado Livre.  
+A funcionalidade **Alocação de estoque** permite que sellers VTEX que utilizam a [**integração Premium**](/pt/docs/tracks/mercado-livre-marketplace) com o Mercado Livre associem seus múltiplos estoques a diferentes estoques do Mercado Livre.  
 
 > ℹ️ Somente sellers com contas habilitadas pelo Mercado Livre podem utilizar essa funcionalidade.  
 

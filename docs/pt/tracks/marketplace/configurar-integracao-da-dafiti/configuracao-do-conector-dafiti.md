@@ -25,7 +25,7 @@ A configuração do conector é feita no Admin. Para realizá-la, siga as instru
 
 - **Ambiente*:** escolha a opção _Produção_ para utilizar o ambiente real de vendas da Dafiti. Esta é a configuração sugerida. Caso você queira realizar algum teste na integração, marque _QA_. O _token_ e o acesso ao ambiente teste são disponibilizados pela Dafiti.
 
-- **ID do afiliado*:** código identificador para criação de um [afiliado](/pt/tutorial/o-que-e-afiliado) que ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não, vogais não são aceitas. Sugestão: DFT. A configuração do conector cria automaticamente o afiliado.
+- **ID do afiliado*:** código identificador para criação de um [afiliado](/pt/docs/tutorials/o-que-e-afiliado) que ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não, vogais não são aceitas. Sugestão: DFT. A configuração do conector cria automaticamente o afiliado.
 
 - **Política comercial*:** ID da política comercial que será utilizada para a integração com a Dafiti. Todos os produtos vinculados a esta política comercial serão enviados para o marketplace.
 

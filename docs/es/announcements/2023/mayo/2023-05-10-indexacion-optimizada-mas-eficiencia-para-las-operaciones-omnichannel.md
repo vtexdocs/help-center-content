@@ -18,7 +18,7 @@ announcementSynopsisES: 'La indexación optimizada permite operaciones omnichann
 
 La [indexación](/es/docs/tutorials/entendiendo-el-funcionamento-de-la-indexacion) es el proceso que se produce automáticamente cada vez que se crea o actualiza un producto en una tienda VTEX. Esto garantiza que los productos que se muestran a los clientes de la tienda estén siempre actualizados con la última versión.
 
-Con el objetivo de mejorar este flujo, hemos rediseñado la indexación para procesar solo lo necesario, lo que reduce significativamente el tiempo de procesamiento y los costos involucrados. Esto permite a las tiendas VTEX crear escenarios[omnichannel](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) complejos con mayor confiabilidad y competitividad.
+Con el objetivo de mejorar este flujo, hemos rediseñado la indexación para procesar solo lo necesario, lo que reduce significativamente el tiempo de procesamiento y los costos involucrados. Esto permite a las tiendas VTEX crear escenarios[omnichannel](/es/docs/tracks/comercio-unificado-101) complejos con mayor confiabilidad y competitividad.
 
 ## ¿Qué cambió?
 

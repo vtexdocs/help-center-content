@@ -19,7 +19,7 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 
 El menú **Releases** te permite gestionar grupos de cambios relacionados para coordinar la planificación, creación, programación y publicación de los cambios de tu tienda. A los cambios o grupos de cambios que **Releases** puede publicar en conjunto se les conoce como releases.
 
-> ⚠️ En la etapa Beta, los releases deben estar relacionados al [CMS](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) porque hay otros módulos de la plataforma VTEX que aún no están incluidos. Para usar el **Releases**, se debe configurar el CMS tal como se describe en [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+> ⚠️ En la etapa Beta, los releases deben estar relacionados al [CMS](/es/docs/tracks/cms-vtex-io) porque hay otros módulos de la plataforma VTEX que aún no están incluidos. Para usar el **Releases**, se debe configurar el CMS tal como se describe en [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 ## Calendario
 

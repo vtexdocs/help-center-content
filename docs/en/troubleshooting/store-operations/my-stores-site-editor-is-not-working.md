@@ -45,7 +45,7 @@ To solve this error, see the following instructions:
 
 ### Checking the search integration
 
-One possible reason for this issue might be related to the [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) search not integrated with your store’s catalog. Follow the steps below to integrate it into your store:
+One possible reason for this issue might be related to the [Intelligent Search](/en/docs/tracks/overview-intelligent-search) search not integrated with your store’s catalog. Follow the steps below to integrate it into your store:
 
 1. Access the VTEX Admin and go to **Store Settings > Intelligent Search > Integrations**.
 2. On the **Integrations** page, all the statuses must be checked, as in the following image.

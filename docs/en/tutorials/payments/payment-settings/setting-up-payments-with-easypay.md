@@ -203,7 +203,7 @@ To configure the easypay affiliation, follow the steps below:
 
 To process payments with Apple Pay on easypay, you must first perform configurations to enable your store in the Apple Pay environment. Learn more at [Setting up Merchant ID in Apple Pay](https://developers.vtex.com/docs/guides/setting-up-merchant-id-in-apple-pay).    
 
-To configure other payment methods that easypay will process, read the [Configuring payment conditions](/en/tutorial/how-to-configure-payment-conditions) article.
+To configure other payment methods that easypay will process, read the [Configuring payment conditions](/en/docs/tutorials/how-to-configure-payment-conditions) article.
 
 To set special conditions for payment methods, read [Configuring payment special conditions](/en/docs/tutorials/special-conditions).
 

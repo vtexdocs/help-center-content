@@ -17,7 +17,7 @@ subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 
 La página de [Detalles del pedido](/es/docs/tutorials/pagina-de-detalles-del-pedido) permite que los administradores de tienda sigan el flujo detallado de los pedidos. 
 
-La página recoge los datos de un determinado pedido y permite que los administradores de tienda incluyan y consulten manualmente la [factura](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT) de dicho pedido. También puedes enviar una [factura parcial](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cuando el pedido sufre cambios en su valor, en los ítems, o en casos de devolución de ítems.
+La página recoge los datos de un determinado pedido y permite que los administradores de tienda incluyan y consulten manualmente la [factura](/es/docs/tracks/facturar-un-pedido) de dicho pedido. También puedes enviar una [factura parcial](/es/docs/tracks/facturas-parciales) cuando el pedido sufre cambios en su valor, en los ítems, o en casos de devolución de ítems.
 
 Facturar un pedido en la plataforma VTEX significa ingresar la factura de los ítems en el módulo **Pedidos**. Es necesario facturar el pedido para que la factura esté a disposición del cliente y el [flujo del pedido](/es/docs/tutorials/flujo-y-status-de-pedidos) llegue a su fin. El envío de facturas puede realizarse:
 
@@ -64,6 +64,6 @@ Una vez `facturado` el pedido, comprueba las facturas introducidas en la secció
 
 ![Itens faturarES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/visión-de-conjunto-de-pedidos/como-facturar-manualmente-un-pedido_2.png)
 
-En los casos de envío de [facturas parciales](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), al [modificar o eliminar ítems de un pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado), el valor total del pedido se actualizará después de la facturación, y corresponderá al valor capturado por el _gateway_ de pagos de VTEX.
+En los casos de envío de [facturas parciales](/es/docs/tracks/facturas-parciales), al [modificar o eliminar ítems de un pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado), el valor total del pedido se actualizará después de la facturación, y corresponderá al valor capturado por el _gateway_ de pagos de VTEX.
 
-No es posible [cancelar](/es/docs/tutorials/como-cancelar-pedido) pedidos [parcialmente facturados](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado).
+No es posible [cancelar](/es/docs/tutorials/como-cancelar-pedido) pedidos [parcialmente facturados](/es/docs/tracks/facturas-parciales). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado).

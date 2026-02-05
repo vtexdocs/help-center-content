@@ -38,7 +38,7 @@ The item remains with this status for a certain time, and if payment is not conf
 
 _Payment expiration period + inventory reservation period_
 
-- **Payment expiration period:** the time period (in days) in which the payment must be made. You can configure this period in the **[Payments](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB)** module for payments with boleto (Brazilian offline payment method) or [notes payable](/en/tutorial/setting-up-payments-with-notes-payable--5pW7avTwtyQcMu4uiW8quQ#notes-payable-setup). For other payment methods, such as credit card and wallet, no time limit for payment expiration can be specified. The payment flow starts right after checkout, and the payment can be approved or denied in different time periods, depending on the selected payment method.
+- **Payment expiration period:** the time period (in days) in which the payment must be made. You can configure this period in the **[Payments](/en/docs/tracks/how-the-payments-module-works)** module for payments with boleto (Brazilian offline payment method) or [notes payable](/en/tutorial/setting-up-payments-with-notes-payable--5pW7avTwtyQcMu4uiW8quQ#notes-payable-setup). For other payment methods, such as credit card and wallet, no time limit for payment expiration can be specified. The payment flow starts right after checkout, and the payment can be approved or denied in different time periods, depending on the selected payment method.
 - **Inventory reservation period:** is set automatically, following the rules below.
     - **four calendar days:** when the payment is due on a Sunday, Monday or Tuesday.
     - **five calendar days:** when the payment is due on a Wednesday, Thursday or Friday.

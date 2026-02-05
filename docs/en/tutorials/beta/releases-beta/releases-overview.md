@@ -20,7 +20,7 @@ order: 1
 
 The **Releases** menu allows you to manage groups of related changes to coordinate the planning, creation, scheduling, and publishing of changes in your store. The changes or groups of changes that **Releases** can publish together are known as [releases](/en/docs/tutorials/planner-release-concept-beta).
 
-> ⚠️ In the beta version, releases must be [CMS](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2)-related, because other VTEX platform modules are not yet included. To use the **Releases**, you must configure the CMS as described in [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+> ⚠️ In the beta version, releases must be [CMS](/en/docs/tracks/cms-vtex-io)-related, because other VTEX platform modules are not yet included. To use the **Releases**, you must configure the CMS as described in [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 Check out below the pages available in the **Releases** menu.
 

@@ -28,12 +28,12 @@ Business Manager is a free tool created to make it easier for you to manage your
 
 The next steps to integrate your VTEX store with Facebook are:
 
-1. [Define the commercial policy](/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/747gwmk5oMkyb6FtwLo17B).
-2. [Configure the connector](/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/5OP69kHWKca01wLH0w10jX).
-3. [Authenticate the account](/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/41qzoa7TWIYTyIhABHdgzI).
+1. [Define the commercial policy](/en/docs/tracks/defining-a-trade-policy).
+2. [Configure the connector](/en/docs/tracks/configuring-the-connector-facebook).
+3. [Authenticate the account](/en/docs/tracks/sending-products-to-facebook).
 
 After these steps have been completed, the integration is finished. However, the product attributes will not have been sent.
 
 > ℹ️ If you want to send your product attributes to Facebook, you need to do a template mapping of categories and attributes. This mapping is optional. However, if you choose to do it, you must follow all the steps described above. Otherwise, errors can occur in the integration.
 
-The steps required to perform category and attribute mapping are described in more detail in the article [Sending products to Facebook](/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/41qzoa7TWIYTyIhABHdgzI).
+The steps required to perform category and attribute mapping are described in more detail in the article [Sending products to Facebook](/en/docs/tracks/sending-products-to-facebook).

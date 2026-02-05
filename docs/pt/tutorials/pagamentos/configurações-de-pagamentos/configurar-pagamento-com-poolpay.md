@@ -26,7 +26,7 @@ Para configurar PoolPay, siga os passos abaixo:
 5. Em __Ativar divisão e enviar recebedores?__, selecione se o split de pagamentos estará disponível para o marketplace e os sellers.
 6. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela PoolPay, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento). 
+Para configurar os métodos de pagamento a serem processados pela PoolPay, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento). 
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

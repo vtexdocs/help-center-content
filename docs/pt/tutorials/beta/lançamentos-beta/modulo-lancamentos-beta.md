@@ -19,7 +19,7 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 
 O gerenciamento de uma operação de ecommerce requer que o lojista faça uma série de atualizações e modificações na sua loja, que muitas vezes estão relacionadas entre si. Um exemplo é a realização de uma campanha publicitária, em que diferentes elementos do storefront precisam ser configurados.
 
-O módulo **Lançamentos** permite ao lojista gerenciar grupos de modificações relacionadas, de forma a coordenar o planejamento, criação, agendamento e publicação das modificações na loja. Na fase em beta, as modificações que podem ser agrupadas precisam ser relacionadas ao [CMS](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), outros módulos da plataforma VTEX ainda não estão inclusos.
+O módulo **Lançamentos** permite ao lojista gerenciar grupos de modificações relacionadas, de forma a coordenar o planejamento, criação, agendamento e publicação das modificações na loja. Na fase em beta, as modificações que podem ser agrupadas precisam ser relacionadas ao [CMS](/pt/docs/tracks/cms-vtex-io), outros módulos da plataforma VTEX ainda não estão inclusos.
 
 Os principais benefícios com o módulo são:
 

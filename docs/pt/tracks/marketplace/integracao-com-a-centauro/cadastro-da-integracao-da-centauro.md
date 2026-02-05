@@ -27,7 +27,7 @@ Nessa etapa, você realizará o cadastro da sua loja na integração da Centauro
 
 | Campo | Definição  |
 | ---------- | ---------- | 
-| ID do afiliado* | Esse campo deve ser preenchido com um código identificador para criação de um [afiliado](/pt/tutorial/o-que-e-afiliado) que ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não, vogais não são aceitas. Sugestão: CNT. A configuração do conector cria automaticamente o afiliado. |
+| ID do afiliado* | Esse campo deve ser preenchido com um código identificador para criação de um [afiliado](/pt/docs/tutorials/o-que-e-afiliado) que ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não, vogais não são aceitas. Sugestão: CNT. A configuração do conector cria automaticamente o afiliado. |
 | Política comercial* | ID da política comercial que será utilizada para a integração com a Centauro. São os produtos dessa política comercial que serão enviados para o marketplace.|
 | CNPJ * | CNPJ da empresa que será cadastrada para integração. |
 | Token da Centauro * | Chave de acesso para comunicação entre VTEX e Centauro. Este token deve ser solicitado diretamente para Centauro e preenchido neste campo.|

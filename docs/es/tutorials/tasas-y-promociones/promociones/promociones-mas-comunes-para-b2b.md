@@ -43,7 +43,7 @@ Otra opción es llevar a cabo promociones en la venta de lotes. De esta manera, 
 
 Primero debe determinar los límites de aging considerando las características de su producto y segmento. A veces, los productos que causan más perjuicio debido a su conservación deben venderse a precio de costo o incluso por debajo del mismo.
 
-En este escenario, una [Promoción regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) debería ayudar a la operación a quemar el inventario. Puede seleccionar productos o categorías específicas con exceso de stock y aplicar descuentos porcentuales (ej.: 20%) o nominales (ej.: $ 100) de forma masiva. El objetivo aquí es recuperar el crédito para volverlo a poner en operación.
+En este escenario, una [Promoción regular](/es/docs/tracks/crear-promocion-regular) debería ayudar a la operación a quemar el inventario. Puede seleccionar productos o categorías específicas con exceso de stock y aplicar descuentos porcentuales (ej.: 20%) o nominales (ej.: $ 100) de forma masiva. El objetivo aquí es recuperar el crédito para volverlo a poner en operación.
 
 Para calibrar la extensión de la promoción, puede usar las restricciones y el área de limitaciones de uso para definir, por ejemplo, si la promoción se aplicará ilimitadamente o si habrá un número máximo de usos.
 
@@ -80,4 +80,4 @@ Otra forma de atraer el interés de los clientes es una promoción que ofrece en
 
 Esta estrategia puede combinarse con otras mencionadas anteriormente. Puede ofrecer flete gratis por la compra de un gran volumen de un producto antiguo. También puede utilizar el flete gratis como un descuento en un pago al contado.
 
-Para más información sobre cómo hacer una promoción de flete gratis, vea el artículo [Crear Promoción Regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+Para más información sobre cómo hacer una promoción de flete gratis, vea el artículo [Crear Promoción Regular](/es/docs/tracks/crear-promocion-regular).

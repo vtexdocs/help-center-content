@@ -15,7 +15,7 @@ trackSlugEN: cartera-digital-e-wallet
 order: 3
 ---
 
-Sus clientes pueden comprar con Apple Pay, la [cartera digital](/es/tracks/digital-wallet-e-wallet--6X8YyZBoVJpz5R8oXciTyu/7jLbdfch9Oe2yYbQa9zwE1) de Apple. Para ello, usted necesita cumplir algunos requisitos:
+Sus clientes pueden comprar con Apple Pay, la [cartera digital](/es/docs/tracks/cartera-digital-e-wallet) de Apple. Para ello, usted necesita cumplir algunos requisitos:
 
 - Tener cuenta en `developer.apple.com`.
 - Tener contrato con un proveedor que procese pagos con Apple Pay.

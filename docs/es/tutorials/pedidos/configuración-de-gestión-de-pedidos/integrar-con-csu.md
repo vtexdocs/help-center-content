@@ -22,7 +22,7 @@ CSU trabaja solamente con un modelo de Marketplace: **Checkout na CSU**. A trav�
 ## Primeros pasos
 
 1. Configure la [política comercial](/es/tutorial/politica-comercial-para-marketplace/) (la indicación de CSU es que usted utilice la misma política de su propio site).
-2. Configure la [logística](/es/tutorial/como-configurar-logistica-para-politica-comercial/) para esa política comercial.
+2. Configure la [logística](/es/docs/tutorials/como-configurar-logistica-para-politica-comercial/) para esa política comercial.
 
 ## Crear afiliado
 

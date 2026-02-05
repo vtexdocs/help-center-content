@@ -17,7 +17,7 @@ subcategoryId: 7ogirQ8NClawO2X6xdgCKc
 
 Las `UTMi`s son UTMs internas, es decir, parámetros de URL que tienen el objetivo de rastrear el tráfico entre páginas de su sitio. Por medio de ellas, usted puede marcar la navegación y definir contextos donde ciertas acciones deben ser aplicadas.
 
-Por lo tanto, no tienen el objetivo de rastrear el tráfico que viene de sitios o servicios externos, con propósitos relacionados con el contexto de marketing. Esta es una función ejercida por las UTMs, como se explica en el artículo [Qué son utm_source, utm_campaign y utm_medium](/es/faq/que-son-utm-source-utm-campaign-y-utm-medium).
+Por lo tanto, no tienen el objetivo de rastrear el tráfico que viene de sitios o servicios externos, con propósitos relacionados con el contexto de marketing. Esta es una función ejercida por las UTMs, como se explica en el artículo [Qué son utm_source, utm_campaign y utm_medium](/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium).
 
 Normalmente, las UTMs internas se utilizan como __causa de promoción__. En el módulo Tasas y Promociones, usted puede definir que sólo los pedidos cerrados con determinada UTM aplicada en la URL recibirán la promoción. Vea abajo el campo para elegir o crear esta UTM interna en el registro de una promoción regular.![utmi1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/configuración-de-la-tienda---storefront/que-son-las-utms-internas_1.jpg)
 

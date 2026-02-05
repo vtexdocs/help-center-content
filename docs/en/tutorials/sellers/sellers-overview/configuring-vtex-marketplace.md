@@ -53,7 +53,7 @@ Once you have requested the Seller Portal, follow the instructions in [Inviting 
 
 ## Mapping the Catalog architecture
 
-The [catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) of sellers who sell products in your marketplace has a different structure than yours, whether they are VTEX or external sellers. There are two instances when you need to map the catalogs to make them compatible: 
+The [catalog](/en/docs/tracks/catalog-architecture) of sellers who sell products in your marketplace has a different structure than yours, whether they are VTEX or external sellers. There are two instances when you need to map the catalogs to make them compatible: 
 
 - When the seller sends products for the first time to a VTEX marketplace.  
 - When there are seller products that have unmapped information.  

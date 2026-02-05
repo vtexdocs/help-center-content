@@ -28,7 +28,7 @@ The status `Verifying invoice` usually indicates the following reasons:
 
 ## Solution
 
-Regarding payment settlement, the order remains with the `Verifying invoice` status until the [gateway](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#gateway) confirms the payment, which is indicated by the status `Settled` in the [transaction flow](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/1xjzgJZvqwaI1rfxLMCC3Y). If the settlement isn’t completed after a while, a new order must be created, as the issue is related to the gateway and not the platform.
+Regarding payment settlement, the order remains with the `Verifying invoice` status until the [gateway](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#gateway) confirms the payment, which is indicated by the status `Settled` in the [transaction flow](/en/docs/tracks/the-transaction-flow). If the settlement isn’t completed after a while, a new order must be created, as the issue is related to the gateway and not the platform.
 
 For the invoice, you need to ensure that the total amount of the order was invoiced and that the information sent was correct, as described in the section below.
 

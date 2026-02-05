@@ -24,7 +24,7 @@ En el Admin VTEX puedes gestionar la importación y exportación de productos y 
 - [Ventana de seguimiento de la exportación](#ventana-de-seguimiento-de-la-exportacion)
 - [Campos de la plantilla de productos y SKUs](#campos-de-la-plantilla-de-productos-y-skus)
 
-> ℹ️ Aprende a gestionar manualmente tus productos y SKUs en el Admin VTEX consultando los artículos [Agregar o editar productos](/es/docs/tutorials/agregar-o-editar-productos) y [Agregar o editar SKUs](/es/docs/tutorials/agregar-o-editar-skus). Para información sobre [integraciones de backend con ERP](/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu), consulta la guía <a hef="https://developers.vtex.com/docs/guides/erp-integration-guide">Back office integration guide (ERP/PIM/WMS)</a>.
+> ℹ️ Aprende a gestionar manualmente tus productos y SKUs en el Admin VTEX consultando los artículos [Agregar o editar productos](/es/docs/tutorials/agregar-o-editar-productos) y [Agregar o editar SKUs](/es/docs/tutorials/agregar-o-editar-skus). Para información sobre [integraciones de backend con ERP](/es/docs/tracks/integraciones-de-backend), consulta la guía <a hef="https://developers.vtex.com/docs/guides/erp-integration-guide">Back office integration guide (ERP/PIM/WMS)</a>.
 
 ## Importar productos y SKUs mediante plantilla
 

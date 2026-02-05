@@ -21,7 +21,7 @@ After completing this step, you will be ready to define your sales channels and 
 
 ## Create collection for Lengow
 
-To choose which products should become available to Lengow, you must [create a collection](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3moFonW33dgOYDrU21Z1X0) in *Store Setup > CMS > Layout*. We recommend naming the collection `Lengow` and including all products in your Catalog.
+To choose which products should become available to Lengow, you must [create a collection](/en/docs/tracks/adding-collections-track) in *Store Setup > CMS > Layout*. We recommend naming the collection `Lengow` and including all products in your Catalog.
 
 ## Configure XML feed for Lengow
 

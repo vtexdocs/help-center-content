@@ -105,7 +105,7 @@ As tarefas gerenciadas por meio do VTEX DO podem incluir mensagens de todos os s
   <tr>
    <td>Preço menor que markup mínimo
    </td>
-   <td>O valor da compra é menor do que o markup, ou a margem de lucro mínima do [preço base de um SKU](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29).
+   <td>O valor da compra é menor do que o markup, ou a margem de lucro mínima do [preço base de um SKU](/pt/docs/tracks/cadastrar-preco-base).
    </td>
    <td>Acesse os **Detalhes da tarefa** >  clique em **Ver detalhes** > autorize ou cancele o pedido na página de **Detalhes do pedido**.
    </td>

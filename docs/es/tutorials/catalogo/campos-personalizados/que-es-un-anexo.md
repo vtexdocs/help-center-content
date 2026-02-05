@@ -16,7 +16,7 @@ subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 order: 2
 ---
 
-Un anexo es la personalización, opcional y sin costo, de un producto. Se utiliza para agregar una información a un SKU. Esta información puede ser relacionada con un [servicio](/es/tutorial/que-es-un-servicio) o al propio artículo comprado.
+Un anexo es la personalización, opcional y sin costo, de un producto. Se utiliza para agregar una información a un SKU. Esta información puede ser relacionada con un [servicio](/es/docs/tutorials/que-es-un-servicio) o al propio artículo comprado.
 
 > ⚠️ VTEX no controla el inventario de un anexo. Esta esa uns función del marketplace o del seller.
 
@@ -26,6 +26,6 @@ Si su artículo comprado es una Camisa de la Selección Brasileña, el nombre de
 - Número: que permite la inclusión del número elegido por el cliente dentro de los valores 5, 7, 9, 10 y 11, en la parte trasera de la camisa.
 
 ### Artículos relacionados
-- [Registrar un anexo](/es/tutorial/registrar-un-anexo)
-- [¿Qué es un servicio?](/es/tutorial/que-es-un-servicio)
+- [Registrar un anexo](/es/docs/tutorials/registrar-un-anexo)
+- [¿Qué es un servicio?](/es/docs/tutorials/que-es-un-servicio)
 - [Crear servicio para un SKU](/es/tutorial/criando-servico-para-um-sku)

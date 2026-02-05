@@ -39,4 +39,4 @@ Para rellenar este campo, usted puede usar una [planilla de importación](/es/do
 
 ## Más información
 
-- [Crear promoción para un clúster](/es/tutorial/creando-promociones-cluster-clientes)
+- [Crear promoción para un clúster](/es/docs/tutorials/creando-promociones-cluster-clientes)

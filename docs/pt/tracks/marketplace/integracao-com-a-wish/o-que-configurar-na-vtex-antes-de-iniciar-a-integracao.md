@@ -19,9 +19,9 @@ Para garantir o correto funcionamento da integração, é necessário previament
 
 ## Definindo política comercial
 
-É necessário definir qual política comercial será usada para integrar seus produtos com a Wish. Esta definição implicará em quatro aspectos principais: sortimento de produtos, estoque, preço e moeda. Ou seja, a disponibilidade e os preços dos seus produtos em determinado canal de vendas estarão completamente baseados na política comercial que você escolher. [Clique aqui para entender com mais detalhes como funciona a política comercial](/pt/tutorial/configurando-a-politica-comercial-para-marketplace).
+É necessário definir qual política comercial será usada para integrar seus produtos com a Wish. Esta definição implicará em quatro aspectos principais: sortimento de produtos, estoque, preço e moeda. Ou seja, a disponibilidade e os preços dos seus produtos em determinado canal de vendas estarão completamente baseados na política comercial que você escolher. [Clique aqui para entender com mais detalhes como funciona a política comercial](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace).
 
-> ℹ️ OBS: a Wish exige que os preços do produto e de frete sejam enviados em dólar (USD). No entanto, ela cria os pedidos com o valor já convertido em reais (R$) para facilitar a emissão da nota fiscal. Isto significa que a integração deve enviar preços em dólar e aceitar pedidos em reais. Dessa maneira, a arquitetura usa apenas Real (R$) e faz a conversão na integração. Portanto, **a política comercial para Wish deve ser em reais (R$)** e todo fluxo de conversão será melhor detalhado no [passo 5](/pt/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4/6EYEy1jRiAj465WOnhiczD).
+> ℹ️ OBS: a Wish exige que os preços do produto e de frete sejam enviados em dólar (USD). No entanto, ela cria os pedidos com o valor já convertido em reais (R$) para facilitar a emissão da nota fiscal. Isto significa que a integração deve enviar preços em dólar e aceitar pedidos em reais. Dessa maneira, a arquitetura usa apenas Real (R$) e faz a conversão na integração. Portanto, **a política comercial para Wish deve ser em reais (R$)** e todo fluxo de conversão será melhor detalhado no [passo 5](/pt/docs/tracks/configuracoes-da-integracao).
 
 [Clique aqui](/pt/faq/por-que-nao-consigo-criar-uma-nova-politica-comercial) para saber como contratar uma nova política caso necessário.
 
@@ -48,5 +48,5 @@ Para garantir que os pedidos integrem com sucesso, será necessário fazer toda 
 
 Para vender seus produtos na Wish, é importante definir uma estratégia de preços. Para entender um pouco mais do contexto geral de preços na VTEX, veja [este artigo](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP). Siga o passo-a-passo abaixo para realizar as configurações:
 
-  1. Crie uma [tabela de preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/2WQ3pVYfQpXkJnHr7VTFBv) para a política comercial da Wish
-  2. Defina [preços base](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) a partir da nova tabela
+  1. Crie uma [tabela de preços](/pt/docs/tracks/cadastrar-tabelas-de-precos) para a política comercial da Wish
+  2. Defina [preços base](/pt/docs/tracks/preco-base-definicao-de-conceito) a partir da nova tabela

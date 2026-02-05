@@ -47,6 +47,6 @@ We have added new events to the Conversions API to:
 
 ## What needs to be done?
 
-The app is available globally, fully compatible with all stores using [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-what-is-vtex-io) and partially compatible with Legacy or [Headless](https://vtex.com/en/blog/strategy/headless-commerce-what-it-is-and-why-its-growing-so-fast/) [CMS](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) stores. To identify in which model your store operates, access the [Edition App](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-edition-app).
+The app is available globally, fully compatible with all stores using [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-what-is-vtex-io) and partially compatible with Legacy or [Headless](https://vtex.com/en/blog/strategy/headless-commerce-what-it-is-and-why-its-growing-so-fast/) [CMS](/en/docs/tracks/what-is-the-cms) stores. To identify in which model your store operates, access the [Edition App](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-edition-app).
 
 The update is now automatically available for stores already using the Facebook Business Extension. If you want to integrate your VTEX store with FBE, follow the steps in the article [Integration with Facebook Business Extension](/en/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D).

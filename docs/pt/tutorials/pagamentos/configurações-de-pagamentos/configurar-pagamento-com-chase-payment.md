@@ -34,7 +34,7 @@ Para configurar o Chase Payment, siga os passos abaixo:
 8. Em **Campos do provedor**, selecione ou preencha os campos **Merchant ID**, **Anti-fraud Merchant ID**, **Safetech Merchant ID**, **Fraud Scoring**, **Connection Username**, **Connection Password**, **Sandbox Mode**, **Automatic settlement**, **ApplePay Automatic settlement**, **External Refund**, **External Cancellation**, **enable credit card tokenization display**, e **enable anti-fraud analysis** com as informações da sua conta Chase Payments.
 9. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela Chase Payment, acesse [Configurar condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela Chase Payment, acesse [Configurar condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

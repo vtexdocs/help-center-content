@@ -19,7 +19,7 @@ Uma promoção para um cluster de clientes é uma promoção válida apenas para
 
 Configurar clusters de clientes permite criar uma variedade de promoções personalizadas para públicos segmentados.
 
-Antes de criar uma promoção, é preciso definir a propriedade que determina se um cliente faz parte ou não do cluster. Para isso, é possível utilizar campos já existentes no perfil do cliente (por exemplo: `email`) ou [criar um cluster de clientes no módulo Master Data](/pt/faq/como-criar-um-cluster-de-clientes/).
+Antes de criar uma promoção, é preciso definir a propriedade que determina se um cliente faz parte ou não do cluster. Para isso, é possível utilizar campos já existentes no perfil do cliente (por exemplo: `email`) ou [criar um cluster de clientes no módulo Master Data](/pt/docs/tutorials/como-criar-um-cluster-de-clientes/).
 
 Com a propriedade definida, siga as instruções abaixo.
 

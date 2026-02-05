@@ -26,7 +26,7 @@ You can invoice orders in two ways:
 Only after reaching the total order value will the status change to `Invoiced`, that is, when the order's value matches the invoiced amount. There are three scenarios for invoicing, depending on the order's situation:
 
 - __Unchanged order:__ you must enter an invoice with an amount equivalent to the total value.  
-- __Changed order > discounting the amount > followed by a separate invoice:__ you must insert an invoice with the amount remaining after the change. The invoice can be [partial](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), or complete, if it contains all the amount remaining after the change.  
+- __Changed order > discounting the amount > followed by a separate invoice:__ you must insert an invoice with the amount remaining after the change. The invoice can be [partial](/en/docs/tracks/partial-invoices), or complete, if it contains all the amount remaining after the change.  
 - __Order with partial invoice > followed by change with discount:__ you must make a [change](/en/docs/tutorials/changing-items-from-a-complete-order), discounting the remaining amount. To do this, calculate the total amount, minus the partial invoice amount.
 
 ## Invoice

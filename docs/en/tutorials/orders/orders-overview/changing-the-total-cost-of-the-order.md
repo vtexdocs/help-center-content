@@ -38,7 +38,7 @@ Changes to the order cost will be updated in the "Items to invoice" and "Order H
 
 ### Partial invoices
 
-When changing or removing items from an order, the order total changes. In this case, you have to [invoice the order](/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT) by sending the [partial invoice](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) corresponding to the amount that will be settled for the order after the change. 
+When changing or removing items from an order, the order total changes. In this case, you have to [invoice the order](/en/docs/tracks/invoicing-an-order) by sending the [partial invoice](/en/docs/tracks/partial-invoices) corresponding to the amount that will be settled for the order after the change. 
 
 The order total will be updated once the invoice is added, corresponding to what is captured by the VTEX payment gateway. The VTEX Payments system will automatically refund the customer if an item is returned.
 

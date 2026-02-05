@@ -41,7 +41,7 @@ La solución combina:
 -	**Last Mile**: los operadores de la tienda pueden gestionar y dar instrucciones a los repartidores sobre la recolección y entrega de pedidos. Esto incluye optimización de rutas y prueba de recolección/entrega. Además, tu tienda puede integrarse fácilmente con transportadoras externas o un sistema TMS.  
 - **Aplicaciones móviles:** aplicaciones para dispositivos móviles diseñadas exclusivamente para que los alistadores y repartidores puedan realizar sus tareas sin necesidad de acceder al Admin de la tienda. Actualmente, las aplicaciones solo están disponibles para dispositivos Android.  
 
-> ❗ **VTEX Pick and Pack** no es un sistema de facturación. Los pedidos deben facturarse a través del OMS de VTEX. Puedes ver más información en [Facturar un pedido](/es/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT).
+> ❗ **VTEX Pick and Pack** no es un sistema de facturación. Los pedidos deben facturarse a través del OMS de VTEX. Puedes ver más información en [Facturar un pedido](/es/docs/tracks/facturar-un-pedido).
 
 ## ¿Por qué realizamos este cambio?
 

@@ -38,7 +38,7 @@ Para configurar o PayUv2, siga os passos abaixo:
 12. Em **Expiración pago (días)**, selecione o período em que deseja configurar o vencimento de pagamentos realizados por promissórias.
 13. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela PayUv2, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela PayUv2, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

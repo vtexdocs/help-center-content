@@ -16,7 +16,7 @@ subcategoryId: 3vhg10rO4MSmy06KeIYMIa
 order: 1
 ---
 
-En la plataforma VTEX, tienes la opción de registrar tiendas físicas, franquiciados y representantes de tu red como cuentas franquicia. Esta es una forma de ampliar tu estrategia de [Comercio Unificado](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) u _Omnichannel_.
+En la plataforma VTEX, tienes la opción de registrar tiendas físicas, franquiciados y representantes de tu red como cuentas franquicia. Esta es una forma de ampliar tu estrategia de [Comercio Unificado](/es/docs/tracks/comercio-unificado-101) u _Omnichannel_.
 
 La cuenta franquicia está asociada a una cuenta principal. En el caso de una marca que tenga varias tiendas físicas, franquiciados o representantes, cada uno de ellos puede tener una cuenta franquicia vinculada a la cuenta principal de la marca. Esto les permite entregar los productos vendidos por el ecommerce de la marca.
 

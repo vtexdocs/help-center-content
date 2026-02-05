@@ -22,7 +22,7 @@ Usted puede cancelar un pedido con VTEX de tres maneras diferentes:
 
 > ⚠️ Una vez cancelado el pedido, no se puede cambiar su status. Es posible cancelar el pedido hasta antes de **Facturado**, después el pedido no puede ser modificado.
 
-> ℹ️ No es posible [cancelar](/es/docs/tutorials/como-cancelar-pedido) pedidos [parcialmente facturados](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado).
+> ℹ️ No es posible [cancelar](/es/docs/tutorials/como-cancelar-pedido) pedidos [parcialmente facturados](/es/docs/tracks/facturas-parciales). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado).
 
 ## Cancelación por el módulo Pedidos
 
@@ -45,7 +45,7 @@ Consulte nuestra [Guía de integración de ERPs](https://developers.vtex.com/doc
 
 El cliente puede solicitar la cancelación del pedido a través de la pantalla de **Mis pedidos**.
 
-Si el cliente solicita la cancelación dentro del período de gracia del pedido, que es [configurable en la tienda](/es/tutorial/configurar-el-tiempo-de-espera-para-cancelar-el-pedido), el comerciante no necesita aprobar la cancelación. Se considera que el flujo de picking, packing y entrega aún no ha comenzado, por lo que la cancelación no traería ninguna carga a la tienda.
+Si el cliente solicita la cancelación dentro del período de gracia del pedido, que es [configurable en la tienda](/es/docs/tutorials/configurar-el-tiempo-de-espera-para-cancelar-el-pedido), el comerciante no necesita aprobar la cancelación. Se considera que el flujo de picking, packing y entrega aún no ha comenzado, por lo que la cancelación no traería ninguna carga a la tienda.
 
 Después del período de gracia, se entiende que la tienda ya está trabajando por el pedido. En este caso, el comerciante debe confirmar la solicitud de cancelación.
 

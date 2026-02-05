@@ -31,10 +31,10 @@ To add a new product to the store catalog, check the article [Adding or editing 
 
 ## Spreadsheet
 
-We recommend that you add products and SKUs together when using a spreadsheet. You can check out the steps on the [Adding SKU](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) article of this track.
+We recommend that you add products and SKUs together when using a spreadsheet. You can check out the steps on the [Adding SKU](/en/docs/tracks/adding-skus) article of this track.
 
 ## API
 
 To add a new product via API use the [Create product with category and brand](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product) endpoint. 
 
-> ℹ️ If you want to import products via [backend integrations](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) with an ERP, check out the [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).
+> ℹ️ If you want to import products via [backend integrations](/en/docs/tracks/backend-integrations) with an ERP, check out the [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).

@@ -19,7 +19,7 @@ tags:
   - Preços
 ---
 
-O preço de um produto é enviado para o marketplace após dois processos: a [configuração de preços na loja do seller](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) e a catalogação de produtos. Se um desses processos citados não for executado, o preço do produto do seller não será disponibilizado no marketplace.  
+O preço de um produto é enviado para o marketplace após dois processos: a [configuração de preços na loja do seller](/pt/docs/tracks/modulo-de-precos-visao-geral) e a catalogação de produtos. Se um desses processos citados não for executado, o preço do produto do seller não será disponibilizado no marketplace.  
 
 ## Solução
 
@@ -27,7 +27,7 @@ Para resolver o problema primeiro é necessário identificar qual dos processos 
 
 ### Configuração do módulo de Preços
 
-A [configuração do módulo de Preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) é o local onde o seller cria, edita e armazena os dados de preços dos SKUs vendidos em sua loja.  
+A [configuração do módulo de Preços](/pt/docs/tracks/modulo-de-precos-visao-geral) é o local onde o seller cria, edita e armazena os dados de preços dos SKUs vendidos em sua loja.  
 
 As mensagens de erro de integração estão disponíveis no menu de Preços do Admin, para acessar vá em **Marketplace > Conexões > Preços.**
 
@@ -35,7 +35,7 @@ Veja na tabela abaixo quais são as possíveis mensagens de erro referente à co
 
 |**Mensagem de erro**|**Significado**|**Ação requerida**|
 |--|--|--|
-|Sale price cannot be updated to 29,99. Can not offer more then 70% off.|O seller não pode oferecer mais de 70% de oferta sobre o [preço-base](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) de um produto.| Alterar o preço da oferta para um valor que esteja dentro da porcentagem exigida pelo marketplace.|
+|Sale price cannot be updated to 29,99. Can not offer more then 70% off.|O seller não pode oferecer mais de 70% de oferta sobre o [preço-base](/pt/docs/tracks/preco-base-definicao-de-conceito) de um produto.| Alterar o preço da oferta para um valor que esteja dentro da porcentagem exigida pelo marketplace.|
 |Verifique se este SKU possui preço cadastrado para esta política ou se o preço não expirou.|O preço do SKU não foi cadastrado na [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) utilizada na integração com o marketplace ou expirou.| Cadastrar preço para o SKU na política comercial utilizada para integrar a loja ao marketplace.|
 
 ### Catalogação dos produtos

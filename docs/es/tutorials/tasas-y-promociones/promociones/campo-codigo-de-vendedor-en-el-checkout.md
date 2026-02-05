@@ -51,7 +51,7 @@ El campo **Código de Vendedor** se debe registrar en [Master Data](/es/docs/tut
 Después de crear la entidad *codigovendedor*, debes asociarla a una promoción. Para crear una promoción, sigue los pasos a continuación:
 
 1. En el Admin VTEX, accede a **Promociones > Promociones**, o escribe **Promociones** en la barra de búsqueda en la parte superior de la página.
-2. Crea una nueva [promoción regular](/es/tracks/promociones--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N). Rellena la información de **Resumen de la promoción** y **¿A qué ítems se aplicará esta promoción?** según lo desees.
+2. Crea una nueva [promoción regular](/es/docs/tracks/como-funcionan-las-promociones). Rellena la información de **Resumen de la promoción** y **¿A qué ítems se aplicará esta promoción?** según lo desees.
 
 > ℹ️ Si deseas utilizar el campo Código de vendedor para ofrecer un descuento en el valor de la compra, rellena la información de **¿Cuál es el tipo y valor del descuento?**.
 

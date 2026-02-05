@@ -27,7 +27,7 @@ Go-live is when your store becomes available for customers to visit and make pur
 
 ## Before you begin
 
-When preparing a store for go-live, you should have already defined the implementation team or [partner agency](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners), chosen the [VTEX account types](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#vtex-account-types) based on your operation, and planned the store's architecture. More information on these steps can be found in the [Accounts and architecture](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) article.
+When preparing a store for go-live, you should have already defined the implementation team or [partner agency](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners), chosen the [VTEX account types](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#vtex-account-types) based on your operation, and planned the store's architecture. More information on these steps can be found in the [Accounts and architecture](/en/docs/tracks/accounts-and-architecture) article.
 
 ## 1. Preparing for the go-live
 
@@ -73,7 +73,7 @@ Once the store's internal settings have been completed, you'll need to configure
 
 > ⚠️ Once the account is active in production, all orders will be automatically charged, and the [take rate](/en/tutorial/understanding-the-value-of-approved-revenues--tutorials_4322#understanding-the-values-of-approved-revenues) will be applied based on the plan agreed upon with VTEX. This includes orders placed on the `{accountname}.myvtex.com` domain, even if they were placed for testing purposes.
 
-For more information, see the [Settings](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7wFsbWgN4rnZsbjhv8IItX) article, which is part of the detailed [Go-live](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/1iP90RcJvlrfQhnlxM54wo) track article.
+For more information, see the [Settings](/en/docs/tracks/settings) article, which is part of the detailed [Go-live](/en/docs/tracks/go-live-process) track article.
 
 ## 4. Testing before the go-live
 
@@ -107,7 +107,7 @@ Once the necessary tests and fixes have been completed, you must prepare the sto
 
 2. **Request internal pointing:** Open a ticket to [VTEX Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy) to request internal DNS pointing. It can take up to three working days to complete this request.
 
-    The request type forwarded must be consistent with the [technology chosen](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) for the storefront:
+    The request type forwarded must be consistent with the [technology chosen](/en/docs/tracks/frontend-implementation) for the storefront:
 
   <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
   <thead>
@@ -123,7 +123,7 @@ Once the necessary tests and fixes have been completed, you must prepare the sto
     </tr>
     <tr class="bb b--muted-3">
       <td class="t-body pa5" style="min-width: 10rem;">Legacy CMS Portal</td>
-      <td class="t-body pa5" style="min-width: 10rem;">If access to the store is restricted by a [trade policy](/en/docs/tutorials/creating-a-trade-policy) with a conditional rule, and your storefront was built using [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), you need to request a [special internal pointing](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#requesting-special-pointing). A typical example is B2B stores, which restrict access to pre-approved companies. The special pointing request is made by [VTEX Support](https://supporticket.vtex.com/support), indicating the trade policy and the configured conditional rule.</td>
+      <td class="t-body pa5" style="min-width: 10rem;">If access to the store is restricted by a [trade policy](/en/docs/tutorials/creating-a-trade-policy) with a conditional rule, and your storefront was built using [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal), you need to request a [special internal pointing](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#requesting-special-pointing). A typical example is B2B stores, which restrict access to pre-approved companies. The special pointing request is made by [VTEX Support](https://supporticket.vtex.com/support), indicating the trade policy and the configured conditional rule.</td>
     </tr>
   </tbody>
   </table>

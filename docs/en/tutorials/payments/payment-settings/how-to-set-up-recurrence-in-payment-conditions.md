@@ -19,7 +19,7 @@ The "Recurrency" of a Payment Condition is a special condition that enables us t
 
 ## How to set it up
 
-To set up the recurrence, firstly it is necessary to set up a [Payment Condition](/en/tutorial/how-to-configure-payment-conditions). 
+To set up the recurrence, firstly it is necessary to set up a [Payment Condition](/en/docs/tutorials/how-to-configure-payment-conditions). 
 After this, it is possible to set the special conditions and, finally, the recurrence of said condition. 
 
 1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.

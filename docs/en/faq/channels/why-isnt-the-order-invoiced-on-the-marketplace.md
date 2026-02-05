@@ -20,7 +20,7 @@ This scenario arises when the tax invoice and the order invoice are entered on V
 
 As in any other phase of the purchase, anything can happen during integration. However, this will always be logged on the bridge to help you understand and find out how to correct it.
 
-[Find out how to analyze integration errors on the Bridge.](/en/tutorial/checking-integrations-in-bridge)
+[Find out how to analyze integration errors on the Bridge.](/en/docs/tutorials/checking-integrations-in-bridge)
 
 ## Enter the access key with the tax invoice
 

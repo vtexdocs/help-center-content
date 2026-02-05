@@ -31,7 +31,7 @@ Para corrigir erros de integração em pedidos do Mercado Livre, considere as se
 
 ### Verificando o ID da loja oficial no Mercado Livre 
 
-Caso sua loja tenha o status de [Loja Oficial](https://www.mercadolivre.com.br/lojas-oficiais/catalogo) no Mercado Livre, é necessário informar no [cadastro do conector](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4YvYdgICMosaEgISOYogsi) o ID fornecido pelo Mercado Livre.  
+Caso sua loja tenha o status de [Loja Oficial](https://www.mercadolivre.com.br/lojas-oficiais/catalogo) no Mercado Livre, é necessário informar no [cadastro do conector](/pt/docs/tracks/cadastro-da-integracao-do-mercado-livre) o ID fornecido pelo Mercado Livre.  
 
 Para validar se foi inserido o ID correto, acesse **Marketplace > Conexões > Marketplaces e Integrações** e siga os passos abaixo:  
 
@@ -43,7 +43,7 @@ Para validar se foi inserido o ID correto, acesse **Marketplace > Conexões > Ma
 
 ### Verificando correspondências de categorias  
 
-Ao realizar o [mapeamento de categorias e atributos](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA) para o Mercado Livre, é necessário que os atributos de cada categoria cadastradas na VTEX correspondam aos atributos das categorias existentes no Mercado Livre.   
+Ao realizar o [mapeamento de categorias e atributos](/pt/docs/tracks/mapear-categorias-e-atributos-dos-produtos-para-o-mercado-livre-mapper) para o Mercado Livre, é necessário que os atributos de cada categoria cadastradas na VTEX correspondam aos atributos das categorias existentes no Mercado Livre.   
 Se algum dos atributos for preenchido incorretamente, a integração retornará um erro no seguinte formato:  
 `A categoria selecionada no atributo category_meli não existe no Mercado Livre.`
 

@@ -120,7 +120,7 @@ Por este motivo, ofrecemos una serie de contenidos de onboarding sobre la plataf
 
 | **Formato** | **Cómo acceder** | **Idioma** |
 | :---: | :--- | :--- |
-| Documentación | Help Center: [Guía de onboarding](/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/3QfoDZWg9YWl8lwS9MVrnU) | Español, portugués e inglés. |
+| Documentación | Help Center: [Guía de onboarding](/es/docs/tracks/introduccion-a-vtex) | Español, portugués e inglés. |
 | Videos | Sitio web: [Onboarding VTEX](https://sites.google.com/vtex.com.br/onboardingvtex/trilha) | Solamente disponible en portugués. |
 | Demos e ebooks | Sitio web: [vtex.com](https://vtex.com/co-es/resources) | Cada contenido está disponible en español, inglés o portugués, dependiendo de tu ubicación. |
 
@@ -155,5 +155,5 @@ Existen [Buenas prácticas para abrir un ticket con el soporte VTEX](/es/docs/tu
 
 Estas recomendaciones son algunas de las más importantes. Para más información, consulta el artículo [Buenas prácticas para abrir un ticket con el soporte VTEX](/es/docs/tutorials/como-escribir-un-ticket-completo-para-soporte-vtex).
 
-> ℹ️ Para una visión general de nuestro soporte vía tickets, consulta la serie [Soporte VTEX](/es/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8), presente en la **Guía de onboarding**.
+> ℹ️ Para una visión general de nuestro soporte vía tickets, consulta la serie [Soporte VTEX](/es/docs/tracks/soporte-vtex), presente en la **Guía de onboarding**.
 

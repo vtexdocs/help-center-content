@@ -40,7 +40,7 @@ Se sua loja armazena informações de clientes em entidades de dados personaliza
 
 ## 2. Configurar perfil de acesso
 
-Para solicitar a exclusão de dados, crie um [perfil de acesso customizado](/pt/tutorial/criar-perfil-de-acesso) chamado **Lei Geral de Proteção de Dados** com os seguintes recursos do [License Manager](/pt/tutorial/license-manager-resources):
+Para solicitar a exclusão de dados, crie um [perfil de acesso customizado](/pt/docs/tutorials/criar-perfil-de-acesso) chamado **Lei Geral de Proteção de Dados** com os seguintes recursos do [License Manager](/pt/tutorial/license-manager-resources):
 
 - **Write user rights requests** (do produto **User Rights**);
 - **Open Support Ticket** (do produto **VTEX Support**).

@@ -110,7 +110,7 @@ A integração da VTEX com o Carrefour só aplica as promoções que conseguem s
 Os detalhes do pedido são influenciados diretamente por fatores como entrega, preço e disponibilidade.
 
 #### Frete
-O Carrefour consulta, no momento do pedido, a tabela de frete cadastrada na VTEX. Nossa plataforma retorna para eles as opções de frete disponíveis, de acordo com o mapeamento preenchido na configuração da integração. É importante ter em mente que a consulta só é possível se a [API de Frete](/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2/6FacWWJszKw0Um42uYcQai) for cadastrada no painel do Carrefour.
+O Carrefour consulta, no momento do pedido, a tabela de frete cadastrada na VTEX. Nossa plataforma retorna para eles as opções de frete disponíveis, de acordo com o mapeamento preenchido na configuração da integração. É importante ter em mente que a consulta só é possível se a [API de Frete](/pt/docs/tracks/enviar-produtos-para-carrefour) for cadastrada no painel do Carrefour.
 
 > ⚠️ OBS: caso nenhum dos campos do mapeamento seja preenchido corretamente, não será possível simular o frete na VTEX. Consequentemente, os pedidos feitos no Carrefour não serão integrados.
 
@@ -157,5 +157,5 @@ __1-__ Para alterar o status para __Shipped__, será necessário:
 `invoiceKey`, `invoiceNumber`, `trackingUrl`, `trackingNumber`, `courier`, `issuanceDate`.
 
 __2-__ Para alterar o pedido com a informação de __entregue ao cliente__, será necessário:
-`courierStatus`: esse campo pode ser populado de modo automático (via [atualizações de rastreio das próprias transportadoras](/pt/faq/quais-transportadoras-disponibilizam-o-rastreio-de-frete)) ou manual, via API ou interface de Pedidos, no módulo de Gerenciamento de pedidos. Quando o campo retornar `finished=true`, a integração envia a informação ao marketplace. Se o campo retornar `finished=false`, o pedido não será alterado com a informação de entrega.
+`courierStatus`: esse campo pode ser populado de modo automático (via [atualizações de rastreio das próprias transportadoras](/pt/docs/tutorials/quais-transportadoras-disponibilizam-o-rastreio-de-frete)) ou manual, via API ou interface de Pedidos, no módulo de Gerenciamento de pedidos. Quando o campo retornar `finished=true`, a integração envia a informação ao marketplace. Se o campo retornar `finished=false`, o pedido não será alterado com a informação de entrega.
 

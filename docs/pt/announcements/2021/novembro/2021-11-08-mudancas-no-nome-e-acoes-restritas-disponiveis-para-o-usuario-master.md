@@ -17,7 +17,7 @@ announcementSynopsisPT: 'O gerenciamento das credenciais de autenticação não 
 
 Agilizar processos é fundamental para que as operações de comércio digital acompanhem a natureza dinâmica e acelerada dos mercados globais. Certas ações críticas de manutenção e autorização, entretanto, devem ser gerenciadas de forma centralizada, dado o potencial impacto negativo dos erros. 
 
-É por isso que cada conta VTEX tem apenas um [usuário Titular](/pt/tutorial/o-que-e-o-usuario-titular) - o único a quem é dado acesso total a todas as seções do Admin. Se você já está conosco há algum tempo, talvez tenha se perguntado: 
+É por isso que cada conta VTEX tem apenas um [usuário Titular](/pt/docs/tutorials/o-que-e-o-usuario-titular) - o único a quem é dado acesso total a todas as seções do Admin. Se você já está conosco há algum tempo, talvez tenha se perguntado: 
 
 _"Titular?! Você não quis dizer <span style="text-decoration:underline;">usuário Master</span>"?_
 
@@ -29,7 +29,7 @@ Mas isso não é tudo. Também modificamos o processo para mudar o usuário Titu
 
 ![Gerenciamento titular gif](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/novembro/2021-11-08-mudancas-no-nome-e-acoes-restritas-disponiveis-para-o-usuario-master_1.gif)
 
-Confira o artigo [Transferência de propriedade da loja](/pt/tutorial/transferencia-de-propriedade-da-loja) para mais detalhes sobre este novo processo.
+Confira o artigo [Transferência de propriedade da loja](/pt/docs/tutorials/transferencia-de-propriedade-da-loja) para mais detalhes sobre este novo processo.
 
 ## As credenciais de autenticação não são mais restritas ao usuário Titular
 
@@ -37,6 +37,6 @@ Antes, somente o usuário Titular podia criar e gerenciar pares de appKey e appT
 
 ## Saiba mais
 
-* [O que é o usuário Titular?](/pt/tutorial/o-que-e-o-usuario-titular)
-* [Transferência de propriedade da loja](/pt/tutorial/transferencia-de-propriedade-da-loja)
+* [O que é o usuário Titular?](/pt/docs/tutorials/o-que-e-o-usuario-titular)
+* [Transferência de propriedade da loja](/pt/docs/tutorials/transferencia-de-propriedade-da-loja)
 * [Autenticação](/pt/tutorial/chaves-de-aplicacao)

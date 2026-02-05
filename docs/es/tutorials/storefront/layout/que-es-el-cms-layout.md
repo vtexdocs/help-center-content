@@ -34,7 +34,7 @@ Si aún no ha creado un Web Site (o desea crear un nuevo), es en ese directorio 
 
 Antes de comenzar a organizar el contenido de su Web Site, este Web Site debe estar vinculado a un account name. De esta forma, el sistema entiende dónde se va a aplicar toda la información agregada o modificada en las carpetas, archivos o código del Web Site.
 
-Este es un proceso fundamental para el perfecto funcionamiento de su tienda, pero también es muy simple. Sólo tienes que seguir los pasos [de este artículo](/es/tutorial/vincular-un-account-name-a-un-website-binding).
+Este es un proceso fundamental para el perfecto funcionamiento de su tienda, pero también es muy simple. Sólo tienes que seguir los pasos [de este artículo](/es/docs/tutorials/vincular-un-account-name-a-un-website-binding).
 
 ![Binding](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/que-es-el-cms-layout_1.png)
 

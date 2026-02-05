@@ -43,7 +43,7 @@ The search using these codes must necessarily contain all digits, or your search
 
 ![Códigos EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/searching-for-transactions-on-payments_2.png)
 
-These values, within the transaction detail, represent the communication with the respective connector. At [transaction events](/en/tutorial/how-to-view-the-orders-details), it is possible to validate each contact made.
+These values, within the transaction detail, represent the communication with the respective connector. At [transaction events](/en/docs/tutorials/how-to-view-the-orders-details), it is possible to validate each contact made.
 
 ## Customer's Name
 

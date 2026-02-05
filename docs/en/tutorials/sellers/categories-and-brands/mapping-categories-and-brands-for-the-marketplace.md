@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 24EN0qRBg4yK0uusGUGosu
 ---
 
-When a store acts as a marketplace, it is important to remember that the sellers' catalogs have a completely independent structure. In order to make definitions between both catalogs compatible, [categories](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), [brands](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh) and [specifications](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) have to be mapped when sellers:
+When a store acts as a marketplace, it is important to remember that the sellers' catalogs have a completely independent structure. In order to make definitions between both catalogs compatible, [categories](/en/docs/tracks/categories-concept-definition), [brands](/en/docs/tracks/brands-concept-definition) and [specifications](/en/docs/tracks/specifications-concept-definition) have to be mapped when sellers:
 
 - Send their products for the first time  
 - Send products with data that has not been mapped before  

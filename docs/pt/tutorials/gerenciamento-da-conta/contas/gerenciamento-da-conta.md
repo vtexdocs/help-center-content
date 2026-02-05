@@ -82,7 +82,7 @@ Esta seção apresenta detalhes do usuário titular da conta. Cada conta VTEX te
 
 ![Página de detalhes da conta - Titular](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/contas/gerenciamento-da-conta_5.png)
 
-Caso você seja o usuário titular, poderá [transferir a propriedade da loja](/pt/tutorial/transferencia-de-propriedade-da-loja) nesta seção. Ou seja, tornar outro usuário o titular da conta.
+Caso você seja o usuário titular, poderá [transferir a propriedade da loja](/pt/docs/tutorials/transferencia-de-propriedade-da-loja) nesta seção. Ou seja, tornar outro usuário o titular da conta.
 
 ## Lojas
 
@@ -155,7 +155,7 @@ O nome da loja removida não poderá ser utilizado novamente.
 
 - [O que é nome de conta?](/pt/docs/tutorials/o-que-e-account-name)
 - [Usuário titular](/pt/docs/tutorials/o-que-e-o-usuario-titular)
-- [Transferir a propriedade da loja](/pt/tutorial/transferencia-de-propriedade-da-loja)
+- [Transferir a propriedade da loja](/pt/docs/tutorials/transferencia-de-propriedade-da-loja)
 - [Configurando o domínio da sua loja](/pt/docs/tutorials/configurar-o-dominio-da-loja)
 - [Go-live](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM)
 

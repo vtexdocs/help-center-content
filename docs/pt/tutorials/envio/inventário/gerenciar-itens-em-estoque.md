@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3PQwnyOcNyYgawy06oe6gE
 ---
 
-Na VTEX, [estoque](/pt/docs/tutorials/estoque) é a identificação dos locais físicos de armazenamento de produtos da loja, e inventário é a relação dos estoques com os SKUs disponíveis para venda. Para visualizar os SKUs cadastrados no seu [catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR) e respectivos estoques, acesse o Admin VTEX em **Catálogo > Inventário > Gerenciamento de inventário**.
+Na VTEX, [estoque](/pt/docs/tutorials/estoque) é a identificação dos locais físicos de armazenamento de produtos da loja, e inventário é a relação dos estoques com os SKUs disponíveis para venda. Para visualizar os SKUs cadastrados no seu [catálogo](/pt/docs/tracks/catalogo-definicao-de-conceito) e respectivos estoques, acesse o Admin VTEX em **Catálogo > Inventário > Gerenciamento de inventário**.
 
 Este artigo contém informações sobre a página **Gerenciamento de inventário**. Aprenda como:
 

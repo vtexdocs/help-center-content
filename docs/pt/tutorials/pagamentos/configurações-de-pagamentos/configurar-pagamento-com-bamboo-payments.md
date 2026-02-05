@@ -35,7 +35,7 @@ Para configurar o Bamboo-Payments, siga os passos abaixo:
 9. Em **Habilitar autorización y captura**, **País de operación**, **Límite Superior de Captura Permitido (%)** e **Límite Inferior de Captura Permitido (%)** selecione as opções desejadas.
 10. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela Bamboo-Payments, acesse [Configurar condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela Bamboo-Payments, acesse [Configurar condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

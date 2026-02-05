@@ -85,7 +85,7 @@ The table below shows the three authentication types available:
 | **Authentication type** | **Description** |
 | :---: | :--- |
 | Authentication of API requests using [app keys](/en/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) | App keys are used to authenticate VTEX API requests. Store admins can create these keys for different integrations.Learn more in the [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) article. |
-| Authentication of requests to APIs using user tokens | User tokens are used to authenticate API requests, especially for [frontend](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) apps developed using VTEX IO.Learn more in the [API authentication using user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) article. |
+| Authentication of requests to APIs using user tokens | User tokens are used to authenticate API requests, especially for [frontend](/en/docs/tracks/frontend-implementation) apps developed using VTEX IO.Learn more in the [API authentication using user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) article. |
 | Authentication of apps using authentication tokens | The use of auth tokens is required for authentication when developing apps using VTEX IO.Learn more in the [App authentication using auth tokens](https://developers.vtex.com/docs/guides/app-authentication-using-auth-tokens) article. |
 
 ## Trade policy
@@ -100,7 +100,7 @@ An important concept on VTEX is [trade policy](/en/docs/tutorials/how-trade-poli
 
 In every integration with a sales channel, a trade policy must be linked, and when one of the settings mentioned above is different for a new channel, a new trade policy must be created.
 
-Depending on its architecture on VTEX, the store can benefit from more than one trade policy or associate strategies from several trade policies with [multistores](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multistore) and [additional environments](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#additional-environment). The [Accounts and architecture](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) article explains the relationship between these concepts.
+Depending on its architecture on VTEX, the store can benefit from more than one trade policy or associate strategies from several trade policies with [multistores](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multistore) and [additional environments](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#additional-environment). The [Accounts and architecture](/en/docs/tracks/accounts-and-architecture) article explains the relationship between these concepts.
 
 > ℹ️ To [create a trade policy](/en/docs/tutorials/creating-a-trade-policy) and to [request additional trade policies](/en/docs/tutorials/requesting-an-additional-trade-policy), contact [VTEX Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#requesting-an-additional-trade-policy).
 
@@ -108,7 +108,7 @@ Depending on its architecture on VTEX, the store can benefit from more than one 
 
 [Edition Apps](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app) are bundles that combine configurations and apps in a single set. They are created by [Sponsor accounts](https://developers.vtex.com/docs/guides/vtex-io-documentation-sponsor-account) to facilitate [franchise account](/en/docs/tutorials/what-is-a-franchise-account) configuration. Some examples are **Edition Store** and **Edition Business**, which are provided natively. Any Edition App depends on `vtex.edition-business` or `vtex.edition-store`.
 
-Contact our [support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) team to change an Edition App, keeping in mind that only the _Sponsor account_ can make changes. To create an Edition App, you must meet the requirements for [Developing an Edition App](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app#developing-an-edition-app).
+Contact our [support](/en/docs/tracks/vtex-support) team to change an Edition App, keeping in mind that only the _Sponsor account_ can make changes. To create an Edition App, you must meet the requirements for [Developing an Edition App](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app#developing-an-edition-app).
 
 ## VTEX IO CLI
 

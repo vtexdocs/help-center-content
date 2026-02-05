@@ -23,10 +23,10 @@ Para llevar a cabo la integración por conector, **es requisito** **tener una cu
 
 Los próximos pasos para integrar su tienda VTEX con Google Shopping son:
 
-1. [Definir la política comercial](/es/tracks/integracion-con-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/3AqbcsWrge8zLt0BC5CtGd)
-2. [Configurar el conector](/es/tracks/integracion-con-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl)
-3. [Autenticar la cuenta](/es/tracks/integracion-con-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/44hAYlKYSRZMTNY3ELxeQ2)
-4. [Enviar productos a Google Shopping](/es/tracks/integracion-con-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/5L5LnccDCj5lJk8H95GQ82)
-5. [Configurar el _feed_](/es/tracks/integracion-con-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/3D9Dw6MQnGkqHZhPzme31X)
+1. [Definir la política comercial](/es/docs/tracks/definir-la-politica-comercial-google-shopping)
+2. [Configurar el conector](/es/docs/tracks/configuracion-del-conector)
+3. [Autenticar la cuenta](/es/docs/tracks/autenticar-la-cuenta-google-shopping)
+4. [Enviar productos a Google Shopping](/es/docs/tracks/enviar-productos-a-google-shopping)
+5. [Configurar el _feed_](/es/docs/tracks/configurar-el-feed)
 
 Además, para que la integración funcione correctamente, asegúrese de tener todos los [Requisitos para las campañas de Shopping](https://support.google.com/google-ads/answer/6275312) exigidos por Google.

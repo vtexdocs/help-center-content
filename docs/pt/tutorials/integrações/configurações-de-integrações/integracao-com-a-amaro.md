@@ -48,7 +48,7 @@ No Admin VTEX, é necessário realizar as seguintes etapas:
 
 ### Definir política comercial  
 
-A [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) é o que determina o sortimento de produtos, preços e estratégia de envio da sua loja VTEX em um canal de venda. Para vender na AMARO, o seller deverá [configurar uma política comercial](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/) para marketplace com um sortimento inicial de produtos, contendo o mínimo de cinco itens com fotografia, preços e estoque disponíveis. 
+A [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) é o que determina o sortimento de produtos, preços e estratégia de envio da sua loja VTEX em um canal de venda. Para vender na AMARO, o seller deverá [configurar uma política comercial](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace/) para marketplace com um sortimento inicial de produtos, contendo o mínimo de cinco itens com fotografia, preços e estoque disponíveis. 
 Não existe cobrança para a contratação de [políticas comerciais adicionais](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional) para integrar sua loja VTEX com conectores nativos, conectores certificados, tais como a AMARO, ou outras lojas VTEX.  
 
 ### Criar novo AppKey e AppToken  

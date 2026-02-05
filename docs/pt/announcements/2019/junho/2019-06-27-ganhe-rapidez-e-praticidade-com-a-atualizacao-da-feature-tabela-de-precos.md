@@ -27,5 +27,5 @@ Antes, para criar uma tabela de preços, era necessário ir até o filtro do mó
 
 Nesta atualização, é possível criar, encontrar e visualizar tabelas de preço com mais rapidez e praticidade. O novo botão exibe uma interface gráfica bastante intuitiva, o que torna mais simples a experiência do usuário na gestão de tabelas de preços.
 
-Para saber mais, acesse nosso tutorial sobre como [configurar Tabelas de Preço](/pt/tutorial/criar-tabelas-de-precos)
+Para saber mais, acesse nosso tutorial sobre como [configurar Tabelas de Preço](/pt/docs/tutorials/criar-tabelas-de-precos)
 

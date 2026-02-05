@@ -97,4 +97,4 @@ Para ver o personalizar cualquiera de estas plantillas, sigue los pasos que se i
 
 5. Haz clic en `Guardar`.
 
-Para más información sobre la edición de plantillas de email, consulta nuestro artículo[Crear o editar plantillas de email transaccional](/es/tracks/transactional-emails--6IkJwttMw5T84mlY9RifRP/335JZKUYgvYlGOJgvJYxRO).
+Para más información sobre la edición de plantillas de email, consulta nuestro artículo[Crear o editar plantillas de email transaccional](/es/docs/tracks/crear-o-editar-template-de-correo-electronico-transaccional).

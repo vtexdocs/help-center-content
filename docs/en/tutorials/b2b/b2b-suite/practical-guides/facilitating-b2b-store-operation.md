@@ -45,11 +45,11 @@ For more details, check out the article on [how to fill each of the registration
 
 ### Price per quantity
 
-At VTEX, you can set the price of an item according to its quantity. When configuring the [fixed price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy) of an SKU, you can also determine a [minimum product quantity to sell it](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy#item-minimo-no-carrinho). In other words, the product price will be adjusted depending on the number of items the consumer adds to the cart.
+At VTEX, you can set the price of an item according to its quantity. When configuring the [fixed price](/en/docs/tracks/preco-fixo-definicao-de-conceito) of an SKU, you can also determine a [minimum product quantity to sell it](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy#item-minimo-no-carrinho). In other words, the product price will be adjusted depending on the number of items the consumer adds to the cart.
 
 For example, suppose that a product costs US$ 100 per unit, and the product's price remains the same if you buy up to 10 units. However, if the customer adds 12 items to the shopping cart, the price per unit will be lower: US$ 98.
 
-This is a resource that meets the needs of wholesale businesses. Currently, there are three ways to establish a fixed price at VTEX. See all the methods in our article [how to register fixed prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj).
+This is a resource that meets the needs of wholesale businesses. Currently, there are three ways to establish a fixed price at VTEX. See all the methods in our article [how to register fixed prices](/en/docs/tracks/adding-a-fixed-price).
 
 > ℹ️ Before you keep going on your reading, check our article about [the most used promotions for the B2B context](/en/tutorial/as-promocoes-mais-comuns-em-b2b--XoM951AzUIvfaH71UdANf?&utm_source=autocomplete).
 
@@ -73,13 +73,13 @@ This stage has peculiarities that can be leveraged through some tools. Check out
 
 ### Orders management
 
-All VTEX stores have an “Orders management” module, where you can see all [orders](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE) placed in a store. 
+All VTEX stores have an “Orders management” module, where you can see all [orders](/en/docs/tracks/o-que-e-um-pedido-na-vtex) placed in a store. 
 
 The system includes:
 
 - Details of each order placed in the store, such as buyer data and payment method. 
 
-- The [order flow](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/4811ExCe3WrEiRMV3sy9n8), a tool that monitors the order status during the after-sales period.
+- The [order flow](/en/docs/tracks/order-flow), a tool that monitors the order status during the after-sales period.
 
 - Features to update the order status, such as invoicing.
 

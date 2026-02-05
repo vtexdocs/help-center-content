@@ -20,9 +20,9 @@ Este artículo tiene como objetivo explicar cómo funciona el flujo básico de u
 ![ES Flujo Tarjeta de Credito](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visión-de-conjunto-de-pagos/tarjeta-de-credito-flujo-basico-de-un-pago_1.svg)
 
 1. En la pantalla de Checkout, el cliente elige el __Medio de Pago__ tarjeta de crédito para realizar el pago de su compra.
-2. La información de este pago se pasa al __Gateway de Pagos__. El [gateway](/es/tutorial/que-es-un-gateway-de-pagos) es el player responsable de garantizar que este pago se realice con éxito.
-3. Con la información en mano, gateway de pagos repasa la información necesaria para el __Adquirente__. Los [adquirentes](/es/tutorial/cual-es-la-diferencia-entre-adquirente-bandera-gateway-y-sub-adquirente-en-brasil#adquirente) son responsables de liquidaciones de las transacciones financieras con los minoristas.
-4. En posesión de la información, el adquirente envía los datos del pago a la __Bandera__. La [bandera de la tarjeta](/es/tutorial/cual-es-la-diferencia-entre-adquirente-bandera-gateway-y-sub-adquirente-en-brasil#bandera-de-tarjeta) fija algunas reglas de negocio para los pagos, como el número de parcelas. Además, conecta el adquirente con los bancos emisores.
+2. La información de este pago se pasa al __Gateway de Pagos__. El [gateway](/es/docs/tutorials/que-es-un-gateway-de-pagos) es el player responsable de garantizar que este pago se realice con éxito.
+3. Con la información en mano, gateway de pagos repasa la información necesaria para el __Adquirente__. Los [adquirentes](/es/docs/tutorials/cual-es-la-diferencia-entre-adquirente-bandera-gateway-y-sub-adquirente-en-brasil#adquirente) son responsables de liquidaciones de las transacciones financieras con los minoristas.
+4. En posesión de la información, el adquirente envía los datos del pago a la __Bandera__. La [bandera de la tarjeta](/es/docs/tutorials/cual-es-la-diferencia-entre-adquirente-bandera-gateway-y-sub-adquirente-en-brasil#bandera-de-tarjeta) fija algunas reglas de negocio para los pagos, como el número de parcelas. Además, conecta el adquirente con los bancos emisores.
 5. Por último, la bandera envía la información del pago al __Banco Emisor__. El banco emisor hace el análisis de crédito, comprueba el límite disponible y entonces autoriza o niega el pago.
 
 Con la respuesta del banco emisor, se realiza el flujo inverso y el __Gateway de Pagos__ recibe la información si el pago fue aprobado o negado.

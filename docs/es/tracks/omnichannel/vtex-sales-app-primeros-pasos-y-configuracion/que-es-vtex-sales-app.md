@@ -25,7 +25,7 @@ Con esto, usted será capaz de implementar una estrategia de pasillo infinito, q
 
 - Evitar la falta de stock y nunca perder una venta.
 - Tener visibilidad en tiempo real de su stock.
-- Beneficiarse de una búsqueda inteligente y consulta de ítems, cuando se instala la Búsqueda [Inteligente Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG)en el sitio web.
+- Beneficiarse de una búsqueda inteligente y consulta de ítems, cuando se instala la Búsqueda [Inteligente Search](/es/docs/tracks/vision-general-intelligent-search)en el sitio web.
 - Crear transacciones de carrito mixto.
 
 Por último, con VTEX Sales App, el proceso de compra se hace más rápido, tanto al añadir productos al carrito como durante el pago y la confirmación.

@@ -75,7 +75,7 @@ This Multilevel Omnichannel Inventory feature is only available for [VTEX market
 
 You cannot split payouts among the entire supply chain (marketplace, direct seller, and white-label sellers). Multilevel Omnichannel Inventory orders are restricted to having the order payment made in the marketplace. The reconciliation and transfer of values to level 3 sellers must be done outside the VTEX system, as there is no native support for that.
 
-You can only use the [payment split](/en/tutorial/split-payment) solution to split payouts between the marketplace and direct seller (level 2) levels. In this case, we recommend using [payout splits](/en/tutorial/split-payment). Direct sellers will receive the amounts for their own items and white-label seller items, deducting the commissions agreed with the marketplace.
+You can only use the [payment split](/en/docs/tutorials/split-payment) solution to split payouts between the marketplace and direct seller (level 2) levels. In this case, we recommend using [payout splits](/en/docs/tutorials/split-payment). Direct sellers will receive the amounts for their own items and white-label seller items, deducting the commissions agreed with the marketplace.
 
 This solution may be effective when direct sellers are in the same economic group as their white-label sellers, making it possible to include all payouts in a single bank account.
 
@@ -105,7 +105,7 @@ The Manual Price feature does not apply to Multilevel Omnichannel Inventory. The
 
 - [ERP Integration](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide)   
 - [Pricing API REST](https://developers.vtex.com/vtex-rest-api/reference/createupdatepriceorfixedprice).  
-- [Pricing page in the VTEX Admin](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)  
+- [Pricing page in the VTEX Admin](/en/docs/tracks/prices-module-overview)  
 
 ### New user information
 

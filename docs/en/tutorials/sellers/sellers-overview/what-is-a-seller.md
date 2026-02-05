@@ -36,6 +36,6 @@ On VTEX, there are two types, the regular seller and the white label seller.
 
 ## Related articles
 
-- [What is a marketplace?](/en/faq/what-is-a-marketplace)  
+- [What is a marketplace?](/en/docs/tutorials/what-is-a-marketplace)  
 - [Adding a seller](/en/tutorial/configuring-the-seller)  
 - [Marketplace strategies at VTEX](/en/docs/tutorials/marketplace-strategies-at-vtex)  

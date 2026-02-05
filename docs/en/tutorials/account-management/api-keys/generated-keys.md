@@ -25,7 +25,7 @@ The page displays the following information in a table:
 
 | Column | Description |
 | :---- | :---- |
-| **Key/Name** | API key, followed by the name defined when creating the key. If the token has exceeded the recommended renewal period (3 months, by default), a renewal alert icon is displayed next to the key. Learn more in [Configuring alerts to renew API tokens](/en/tutorial/configuring-alerts-to-renew-api-tokens). |
+| **Key/Name** | API key, followed by the name defined when creating the key. If the token has exceeded the recommended renewal period (3 months, by default), a renewal alert icon is displayed next to the key. Learn more in [Configuring alerts to renew API tokens](/en/docs/tutorials/configuring-alerts-to-renew-api-tokens). |
 | **Roles** | Roles associated with the API key. |
 | **Created date** | API key created date. |
 | **Status** | API key status, which can be **Active** or **Inactive**. |
@@ -46,7 +46,7 @@ Follow the instructions below to create a new API key:
 2. Make sure you are in the **Generated** tab.  
 3. Click `+ Generate Key`.  
 4. Complete the **Key identification** field with a name to identify the API key. This field is required.  
-5. Select the [roles](/en/tutorial/roles) that will be associated with the key. By default, no role is pre-selected.  
+5. Select the [roles](/en/docs/tutorials/roles) that will be associated with the key. By default, no role is pre-selected.  
 
    > ℹ️ Select only the roles required for the integration that will use the API key. Unrestricted use of overly permissive roles increases the risk of store attacks through leaked login credentials.
 
@@ -94,7 +94,7 @@ Follow the steps below to change an API key:
 
 ## Renewing tokens
 
-Renewing your API token regularly is crucial for maintaining store security. To ensure continuous protection, renew your token before getting the [alert](/en/tutorial/configuring-alerts-to-renew-api-tokens). Follow the instructions in [Renewing API tokens](/en/tutorial/renovar-token-de-api).
+Renewing your API token regularly is crucial for maintaining store security. To ensure continuous protection, renew your token before getting the [alert](/en/docs/tutorials/configuring-alerts-to-renew-api-tokens). Follow the instructions in [Renewing API tokens](/en/tutorial/renovar-token-de-api).
 
 ## Deleting keys
 
@@ -112,7 +112,7 @@ To delete an API key permanently, follow the steps below:
 
 ## Learn more
 
-* [API Keys](/en/tutorial/api-keys)
-* [Renewing API tokens](/en/tutorial/renewing-api-tokens)
+* [API Keys](/en/docs/tutorials/api-keys)
+* [Renewing API tokens](/en/docs/tutorials/renewing-api-tokens)
 * [Configuring alerts to renew API tokens](/en/tutorial/configuring-the-duration-of-the-api-keys)
-* [External keys](/en/tutorial/external-keys)
+* [External keys](/en/docs/tutorials/external-keys)

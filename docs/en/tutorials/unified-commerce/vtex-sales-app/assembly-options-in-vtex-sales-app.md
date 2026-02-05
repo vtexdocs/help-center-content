@@ -17,9 +17,9 @@ subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 
 [VTEX Sales App](https://apps.vtex.com/vtex-assisted-sales-admin/p) is an app that allows integration between online and physical sales channels. It enables sales associates to offer customized, in-person service to customers while handling an end-to-end sales process — from choosing products to finding the best payment method and shipping option.
 
-For more information on installing VTEX Sales App, check out the article [VTEX Sales App - Basic Settings](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO).
+For more information on installing VTEX Sales App, check out the article [VTEX Sales App - Basic Settings](/en/docs/tracks/vtex-sales-app-basic-settings).
 
-[Assembly Options](/en/tutorial/assembly-options-app) is available in the VTEX App Store and allows sellers to offer additional services during the sale process, such as extended warranties and protection plans. It also makes it possible to assemble sets of multiple SKUs, such as Christmas or breakfast baskets, makeup sets, etc.
+[Assembly Options](/en/docs/tutorials/assembly-options-app) is available in the VTEX App Store and allows sellers to offer additional services during the sale process, such as extended warranties and protection plans. It also makes it possible to assemble sets of multiple SKUs, such as Christmas or breakfast baskets, makeup sets, etc.
 
 ## Installing Assembly Options
 

@@ -32,7 +32,7 @@ This section includes the following information:
 
 |**Characteristic**|**Description**|
 | - | - |
-|**Data source**|The data in this set comes from the [VTEX Payments module](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB). It can be collected and organized to reflect the transactions and payments completed on the platform.|
+|**Data source**|The data in this set comes from the [VTEX Payments module](/en/docs/tracks/how-the-payments-module-works). It can be collected and organized to reflect the transactions and payments completed on the platform.|
 |**Availability**|Navigation data can only be accessed through the VTEX Admin.|
 |**History**|The data is retained for two years, from 2023 for clients who already use the VTEX platform. The data in the `transaction_interactions` table only has history since May 2024 and the data in `authorizations_consolidated` only since June 2023.|
 |**Minimum update interval**|One hour.|

@@ -33,4 +33,4 @@ Esta mejora facilita el monitoreo de hallazgos de seguridad y la integración co
 
 La actualización ya está disponible para todas las cuentas que utilizan Security Monitor. No se requiere ninguna acción.
 
-> ℹ️ Security Monitor es parte del producto [VTEX Shield](/es/docs/tutorials/vtex-shield). Si ya eres cliente de VTEX y deseas adoptar VTEX Shield en tu empresa, ponte en contacto con nuestro [Soporte comercial](/es/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Pueden aplicarse cargos adicionales. Si aún no eres cliente VTEX, pero te interesa esta solución, llena el [formulario de contacto](https://vtex.com/es-mx/contacto/).
+> ℹ️ Security Monitor es parte del producto [VTEX Shield](/es/docs/tutorials/vtex-shield). Si ya eres cliente de VTEX y deseas adoptar VTEX Shield en tu empresa, ponte en contacto con nuestro [Soporte comercial](/es/docs/tracks/soporte-comercial). Pueden aplicarse cargos adicionales. Si aún no eres cliente VTEX, pero te interesa esta solución, llena el [formulario de contacto](https://vtex.com/es-mx/contacto/).

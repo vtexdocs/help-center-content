@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
-> ℹ️ Esta funcionalidade faz parte do produto [VTEX Shield](/pt/docs/tutorials/vtex-shield). Se já é cliente da VTEX e deseja adotar o VTEX Shield no seu negócio, entre em contato com o [Suporte Comercial](/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
+> ℹ️ Esta funcionalidade faz parte do produto [VTEX Shield](/pt/docs/tutorials/vtex-shield). Se já é cliente da VTEX e deseja adotar o VTEX Shield no seu negócio, entre em contato com o [Suporte Comercial](/pt/docs/tracks/suporte-comercial). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
 
 Por padrão, a VTEX utiliza [certificados SSL](/pt/docs/tutorials/certificado-de-seguranca-ssl) emitidos pelo [Let’s Encrypt](https://letsencrypt.org/), uma solução open-source amplamente adotada no mercado. Essa abordagem garante segurança, confiabilidade e compatibilidade com a maioria dos navegadores.
 

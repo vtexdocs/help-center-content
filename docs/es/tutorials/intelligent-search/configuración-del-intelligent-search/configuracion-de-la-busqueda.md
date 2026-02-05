@@ -19,7 +19,7 @@ La página **Configuración de la búsqueda** comprende la configuración global
 
 ## Configuración general
 
-La configuración general presenta las siguientes opciones relativas a [las especificaciones de productos y SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP):
+La configuración general presenta las siguientes opciones relativas a [las especificaciones de productos y SKU](/es/docs/tracks/especificaciones-definicion-de-concepto):
 
 * **Utiliza las especificaciones de SKU para mostrar productos individuales en los resultados de búsqueda**: establece las características que determinarán el orden de los SKU en los resultados de búsqueda.
 

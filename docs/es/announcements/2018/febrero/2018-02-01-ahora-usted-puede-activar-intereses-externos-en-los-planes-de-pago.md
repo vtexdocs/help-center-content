@@ -19,4 +19,4 @@ Pagos tiene una nueva feature para configurar sus medios de pago. Ahora, es posi
 
 Al hacer clic en el botón __Configuración__ en la página principal del módulo Pagos, se dirigirá a la lista de métodos de pago registrados en su tienda. Al hacer clic en uno que permita parcelamiento, usted tendrá en el área de configuración de las parcelas un botón para activar/desactivar la funcionalidad __Intereses externos__.
 
-Para saber más sobre la configuración de esta feature [accede a nuestra documentación](/es/tutorial/condiciones-de-pago#intereses-externos).
+Para saber más sobre la configuración de esta feature [accede a nuestra documentación](/es/docs/tutorials/condiciones-de-pago#intereses-externos).

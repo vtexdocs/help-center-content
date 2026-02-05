@@ -23,4 +23,4 @@ Se você precisa utilizar, em seus produtos, palavras que talvez não sejam impo
 - Utilizar coleção, redirecionando o termo buscado para uma *landing page*.
 - Redirecionar o termo buscado para um contexto de busca que faça sentido (Categoria, marca ou mesmo  produto).
 
-Para entender como realizar configuração de redirecionamento, leia [Mapeamento de URLs (Redirecionamento 301)](/pt/faq/mapeamento-de-urls-redirecionamento-301/).
+Para entender como realizar configuração de redirecionamento, leia [Mapeamento de URLs (Redirecionamento 301)](/pt/docs/tutorials/mapeamento-de-urls-redirecionamento-301/).

@@ -15,9 +15,9 @@ trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 5
 ---
 
-Depois de fazer as [configurações básicas do VTEX Sales App no Admin](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), você pode adicionar outras lojas físicas ao sistema ou gerenciar lojas.
+Depois de fazer as [configurações básicas do VTEX Sales App no Admin](/pt/docs/tracks/vtex-sales-app-configuracoes-basicas), você pode adicionar outras lojas físicas ao sistema ou gerenciar lojas.
 
-**Loja física** é uma página das **Configurações da loja** do Admin VTEX que apresenta a listagem de lojas físicas cadastradas no aplicativo [VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf). Nela, você pode gerenciar informações de todas as lojas físicas da conta.
+**Loja física** é uma página das **Configurações da loja** do Admin VTEX que apresenta a listagem de lojas físicas cadastradas no aplicativo [VTEX Sales App](/pt/docs/tracks/o-que-e-o-vtex-sales-app). Nela, você pode gerenciar informações de todas as lojas físicas da conta.
 
 Esta página permite que você realize as seguintes ações: 
 

@@ -84,7 +84,7 @@ To learn more about the order flow and when to handle an order, read the article
 
 ![Itens faturarEN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/order-details-page_3.png)
 
-The block **Items to Invoice** contains packages with items for which payment has been approved but not yet [invoiced](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT), i.e. their invoices have not been uploaded to the platform.
+The block **Items to Invoice** contains packages with items for which payment has been approved but not yet [invoiced](/en/docs/tracks/invoicing-an-order), i.e. their invoices have not been uploaded to the platform.
 
 The package is the wrapping or box that contains the items of a delivery. Please note that a single order may include more than one package if it consists of items from different sellers or different warehouses. For more information about package split, check out the article [Order split and delivery split](/en/docs/tutorials/order-split-and-delivery-split).
 

@@ -16,14 +16,14 @@ legacySlug: why-is-the-product-not-shown-on-the-website
 
 For a product to be displayed on the product listing page, it needs to be available for sale, which happens when the following settings are correctly configured:
 
-* The [product](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) and its [SKUs](/en/docs/tutorials/what-is-an-sku) are added to the Catalog.
-* The product has a [price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu).
+* The [product](/en/docs/tracks/adding-products) and its [SKUs](/en/docs/tutorials/what-is-an-sku) are added to the Catalog.
+* The product has a [price](/en/docs/tracks/prices-module-overview).
 * The logistics settings make it possible to ship the product to customers, which includes configuring the [warehouse](/en/docs/tutorials/warehouse), [loading dock](/en/docs/tutorials/loading-dock), [shipping policies](/en/docs/tutorials/shipping-policy), etc.
 * Regarding [inventory](/en/docs/tutorials/managing-stock-items), the product must meet one of the following conditions:
     * There is stock available for sale ([reserved](/en/docs/tutorials/how-does-reservation-work) items are not considered available).
     * Unlimited inventory is configured for the product.
     * The option to display the product when it is sold out is active.
-* The store [Content Management System (CMS)](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) templates are configured.
+* The store [Content Management System (CMS)](/en/docs/tracks/what-is-the-cms) templates are configured.
 
 You must adjust one or more of these settings when a product is not displayed on the product listing page.
 
@@ -139,7 +139,7 @@ An active SKU without errors will appear in the index, similar to the one illust
 
 ## Prices
 
-In the **Prices** module, it's important to verify if your product SKU contains [base prices](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx).
+In the **Prices** module, it's important to verify if your product SKU contains [base prices](/en/docs/tracks/preco-base-definicao-de-conceito).
 
 1. Access **Products > Prices > Price list**.
 2. Check each SKU row and the column corresponding to the desired trade policy.
@@ -162,7 +162,7 @@ To create a base price in the VTEX Admin, follow the steps below:
 
 4. Click `X` or in the area outside the side bar to save the price.
 
-You can also create base prices using a spreadsheet or the Pricing API. For more information, please see the steps described in the article [Adding a base price](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29).
+You can also create base prices using a spreadsheet or the Pricing API. For more information, please see the steps described in the article [Adding a base price](/en/docs/tracks/cadastrar-preco-base).
 
 ## Logistics
 
@@ -197,7 +197,7 @@ If [future inventory](https://developers.vtex.com/docs/api-reference/logistics-a
 
 ## CMS
 
-If your product is still not visible on the website even after checking all the **Catalog**, **Prices** and **Logistics** settings, you must check your store [CMS](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC). See below to learn how to investigate if your store's [binding](/en/docs/tutorials/what-is-binding) is correct and check the specific settings for [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) and [VTEX IO](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2).
+If your product is still not visible on the website even after checking all the **Catalog**, **Prices** and **Logistics** settings, you must check your store [CMS](/en/docs/tracks/what-is-the-cms). See below to learn how to investigate if your store's [binding](/en/docs/tutorials/what-is-binding) is correct and check the specific settings for [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal) and [VTEX IO](/en/docs/tracks/cms-vtex-io).
 
 > ⚠️ To perform the CMS investigation described below, you must ask your store's developer team for support.
 
@@ -216,11 +216,11 @@ Regardless of which CMS your store uses — Legacy Portal or VTEX IO — you mus
 
 ### Legacy CMS Portal
 
-If your store uses the [CMS Legacy Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), we recommend that your store's developers check if the product search result [control](/en/tutorial/lista-de-controles-para-templates--tutorials_563#controls-for-department-category-and-search-pages) (`<vtex.cmc:searchResult/>`) is being used in the page templates for Department, Category and Search, in **CMS > Layout**. If not, the products will not be displayed.
+If your store uses the [CMS Legacy Portal](/en/docs/tracks/legacy-cms-portal), we recommend that your store's developers check if the product search result [control](/en/tutorial/lista-de-controles-para-templates--tutorials_563#controls-for-department-category-and-search-pages) (`<vtex.cmc:searchResult/>`) is being used in the page templates for Department, Category and Search, in **CMS > Layout**. If not, the products will not be displayed.
 
 ### CMS VTEX IO
 
-If your store is developed with [VTEX IO](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), your store's developers must check the **Pages** settings and the blocks declared in the store templates.
+If your store is developed with [VTEX IO](/en/docs/tracks/cms-vtex-io), your store's developers must check the **Pages** settings and the blocks declared in the store templates.
 
 #### Pages
 
@@ -247,10 +247,10 @@ For stores developed with VTEX IO, you need to check the following items in [you
 
 ## Learn more
 
-* [Catalog - concept definition](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR)
+* [Catalog - concept definition](/en/docs/tracks/catalog-concept-definition)
 * [Which logistics settings can impact the product availability in the cart?](/en/docs/tutorials/which-logistics-settings-can-impact-the-product-availability-in-the-cart)
 * [How indexing works](/en/docs/tutorials/understanding-how-indexation-works)
-* [Pricing module - Overview](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)
+* [Pricing module - Overview](/en/docs/tracks/prices-module-overview)
 * [Inventory management](/en/docs/tutorials/managing-stock-items)
 * [Shipping simulator](/en/docs/tutorials/shipping-simulation)
-* [CMS - Overview](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC)
+* [CMS - Overview](/en/docs/tracks/what-is-the-cms)

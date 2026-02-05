@@ -15,7 +15,7 @@ trackSlugEN: support-at-vtex
 order: 5
 ---
 
-After [joining VTEX](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4EPwTXx5oFdSG1dA3zIchz), clients may have questions related to changing their account details, billing information, invoices, and other billing aspects of the account. To address these, billing support is available to help with contractual and billing issues related to stores and VTEX.
+After [joining VTEX](/en/docs/tracks/initial-setup), clients may have questions related to changing their account details, billing information, invoices, and other billing aspects of the account. To address these, billing support is available to help with contractual and billing issues related to stores and VTEX.
 
 You can start by exploring the [Help Center](/en/) articles and by checking the topics below.
 
@@ -37,7 +37,7 @@ For more information, read the articles [What does VTEX consider as revenues for
 
 ## Changing the account details
 
-After the [first access](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4EPwTXx5oFdSG1dA3zIchz), you can change the store details, such as:
+After the [first access](/en/docs/tracks/initial-setup), you can change the store details, such as:
 
 - Changing and adding contacts.
 - Transferring responsibility.

@@ -96,7 +96,7 @@ En la página **Set up TikTok for Business** (Configurar TikTok for Business), q
 10. En la sección **Catalog**, escribe el nombre que desees para el nuevo catálogo que se creará en [TikTok Catalog Manager](https://ads.tiktok.com/help/article?aid=10001005) y haz clic en `Create New`. Los productos asociados a la política comercial informada en el [formulario](#1-rellenar-el-formulario-de-configuracion-de-la-integracion) se añadirán a este catálogo en TikTok.
 11. Haz clic en `Finish Setup`.
 
-Una vez completada esta configuración, serás redirigido a **Marketplace > TikTok** en el Admin VTEX, donde podrás [gestionar la integración](/es/tracks/integracion-de-tiktok--1r0yJSO11nrer1YVu3WTFd/24SfBYkRkKMaetgjLDKgaP). En algunas versiones del Admin VTEX, la página se encuentra en **Aplicaciones > Mis aplicaciones > TikTok.** Una vez que la configuración se completó con éxito, cualquier usuario conectado al Admin VTEX podrá acceder a esta área de gestión de TikTok. 
+Una vez completada esta configuración, serás redirigido a **Marketplace > TikTok** en el Admin VTEX, donde podrás [gestionar la integración](/es/docs/tracks/gestionar-la-integracion-de-tiktok-for-business-en-vtex-admin). En algunas versiones del Admin VTEX, la página se encuentra en **Aplicaciones > Mis aplicaciones > TikTok.** Una vez que la configuración se completó con éxito, cualquier usuario conectado al Admin VTEX podrá acceder a esta área de gestión de TikTok. 
 
 ### Envío de datos de productos a TikTok
 
@@ -116,4 +116,4 @@ Una vez configurada la integración, el envío de productos a TikTok es un proce
 * Precio (en BRL)
 * Imágenes
 
-Para que los productos se sincronicen, es necesario rellenar los campos con toda esta información. Las actualizaciones de los registros de productos realizadas en el entorno VTEX, mediante [API](https://developers.vtex.com/vtex-rest-api/reference/catalog-api-overview) o en el [Admin](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL), se replican automáticamente en TikTok.
+Para que los productos se sincronicen, es necesario rellenar los campos con toda esta información. Las actualizaciones de los registros de productos realizadas en el entorno VTEX, mediante [API](https://developers.vtex.com/vtex-rest-api/reference/catalog-api-overview) o en el [Admin](/es/docs/tracks/registrar-producto), se replican automáticamente en TikTok.

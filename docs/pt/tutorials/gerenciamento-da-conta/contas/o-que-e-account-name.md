@@ -20,8 +20,8 @@ Um __account name__ (ou __nome de conta__) é a identificação da sua empresa n
 
 Assim como o nome fantasia (que é a forma pela qual seus clientes conhecem sua marca), o __account name__ é como o sistema reconhece sua empresa e processa suas informações, configurações e as lojas que estão vinculadas a ela.
 
-Em outras palavras, o __account name__ identifica sua conta na VTEX e permite que você configure suas lojas. Para isso, você precisa primeiro definir os [__store names__](/pt/tutorial/o-que-e-store-name) (ou __nomes de loja__), ação realizada na página de [Gerenciamento de conta](/pt/docs/tutorials/gerenciamento-da-conta). 
+Em outras palavras, o __account name__ identifica sua conta na VTEX e permite que você configure suas lojas. Para isso, você precisa primeiro definir os [__store names__](/pt/docs/tutorials/o-que-e-store-name) (ou __nomes de loja__), ação realizada na página de [Gerenciamento de conta](/pt/docs/tutorials/gerenciamento-da-conta). 
 
-Com seu __nome de conta__ configurado e pelo menos um __nome de loja__ criado (cada account name pode ter vários nomes de loja vinculados a ele), você poderá colocar sua loja no ar. Basta você [criar um web site](/pt/tutorial/como-criar-um-web-site) para ela e realizar o que chamamos de [binding](/pt/tutorial/o-que-e-binding). 
+Com seu __nome de conta__ configurado e pelo menos um __nome de loja__ criado (cada account name pode ter vários nomes de loja vinculados a ele), você poderá colocar sua loja no ar. Basta você [criar um web site](/pt/docs/tutorials/como-criar-um-web-site) para ela e realizar o que chamamos de [binding](/pt/docs/tutorials/o-que-e-binding). 
 
 Esse processo nada mais é do que estabelecer uma ligação entre um web site, um __nome de loja__ e uma política comercial. É fundamental para tornar sua loja disponível.

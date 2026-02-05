@@ -14,8 +14,8 @@ locale: en
 legacySlug: 
 ---
 
-Some times, the [NSU](/en/tutorial/how-do-i-find-the-order-nsu-and-tid) (Single Sequential Number) may be duplicated in the acquirer Rede. Errors like this can disrupt the conciliation process.
+Some times, the [NSU](/en/docs/tutorials/how-do-i-find-the-order-nsu-and-tid) (Single Sequential Number) may be duplicated in the acquirer Rede. Errors like this can disrupt the conciliation process.
 
-However, in circumstances where the NSU is the same for two different customers, an alternative to verify the transaction is to process the payment using the [TID](/en/tutorial/how-to-view-the-orders-details) numbers, which are different from each other.
+However, in circumstances where the NSU is the same for two different customers, an alternative to verify the transaction is to process the payment using the [TID](/en/docs/tutorials/how-to-view-the-orders-details) numbers, which are different from each other.
 
 Note: it's important to understand that the NSU is not created by VTEX, but by the acquirer responsible for the transaction. Therefore, it's important to contact Rede's e-commerce team to solve the problem.

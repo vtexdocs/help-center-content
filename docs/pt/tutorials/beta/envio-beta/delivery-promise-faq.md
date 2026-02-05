@@ -43,7 +43,7 @@ O lojista precisa garantir a correta configuração dos seguintes aspectos do pr
 * Cadastro de preço.
 * [Estratégia de envio](/pt/docs/tutorials/estrategia-de-envio) que viabiliza o envio do pedido para o endereço fornecido pelo cliente.
 * Contagem do produto no [inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) disponível para vendas, ou estoque infinito configurado ou opção habilitada para exibir o produto quando esgotado.
-* Templates de [CMS](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) do frontend da loja configurados.
+* Templates de [CMS](/pt/docs/tracks/o-que-e-o-cms) do frontend da loja configurados.
 
 > ℹ️ Para mais informações, veja o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site).
 

@@ -65,7 +65,7 @@ Para adicionar um seller não identificável, também chamado de [seller white l
 
 > ℹ️ Com a nova versão da página, lançada em 2022, retiramos da tela o campo Endpoint de Catálogo, pois não é mais necessário para a integração com um novo seller. Caso necessário, ainda é possível realizar o gerenciamento do campo por meio de API.
 
-Uma vez preenchido o formulário e clicado em **Salvar**, seu seller será adicionado ao marketplace. Para que a configuração da sua loja como marketplace seja concluída, é preciso também [Mapear marcas, categorias e especificações do catálogo do seller](/pt/tutorial/mapeando-categorias-e-marcas-para-marketplace/) e [Aprovar anúncios recebidos](/pt/tutorial/sugerindo-e-aprovando-skus/).
+Uma vez preenchido o formulário e clicado em **Salvar**, seu seller será adicionado ao marketplace. Para que a configuração da sua loja como marketplace seja concluída, é preciso também [Mapear marcas, categorias e especificações do catálogo do seller](/pt/docs/tutorials/mapeando-categorias-e-marcas-para-marketplace/) e [Aprovar anúncios recebidos](/pt/docs/tutorials/sugerindo-e-aprovando-skus/).
 
 ## Saiba mais
 

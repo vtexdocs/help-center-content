@@ -33,18 +33,18 @@ Before implementing the frontend, you should configure the following steps in yo
 
 | Step | Description |
 |---|---|
-| Defining the store's architecture and sales strategy | The team defines your VTEX store's architecture based on your business model's strategies and needs.<br><br>Learn more in the [Accounts and architecture](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) article. |
+| Defining the store's architecture and sales strategy | The team defines your VTEX store's architecture based on your business model's strategies and needs.<br><br>Learn more in the [Accounts and architecture](/en/docs/tracks/accounts-and-architecture) article. |
 | Configuring roles | The team configures the roles needed for each [user](/en/docs/tutorials/managing-admin-users) to use the VTEX platform.<br><br>Learn more in the [Roles](/en/docs/tutorials/roles) article. |
-| Configuring catalog | The team configures the product[ catalog](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalog), category tree, and related information, such as descriptions, images, and prices, to populate and test the store, including features such as product listing pages (PLP), search features, product details pages (PDP), and checkout.<br><br>Not having a catalog can result in incomplete testing and data integration problems, which delays implementation.<br><br>Learn more in the [VTEX modules I](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7) article. |
+| Configuring catalog | The team configures the product[ catalog](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalog), category tree, and related information, such as descriptions, images, and prices, to populate and test the store, including features such as product listing pages (PLP), search features, product details pages (PDP), and checkout.<br><br>Not having a catalog can result in incomplete testing and data integration problems, which delays implementation.<br><br>Learn more in the [VTEX modules I](/en/docs/tracks/vtex-modules-i) article. |
 | Defining the apps needed to operate the store | The team defines the native and third-party apps needed to operate the store.<br><br>For stores that will be built using [Store Framework](#store-framework), there is a list of native and third-party apps.<br><br>Learn more in the [VTEX IO apps](https://developers.vtex.com/docs/vtex-io-apps) article. |
 
-> ℹ️ The [development stage](#development-stages) can run in parallel with other [backend integrations](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) and [module configuration](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7) steps, such as setting up payment methods and logistics. This will depend on the type of [architecture and planning](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) chosen for the VTEX store, and the [implementing agency](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners) or [VTEX Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) should monitor these processes.
+> ℹ️ The [development stage](#development-stages) can run in parallel with other [backend integrations](/en/docs/tracks/backend-integrations) and [module configuration](/en/docs/tracks/vtex-modules-i) steps, such as setting up payment methods and logistics. This will depend on the type of [architecture and planning](/en/docs/tracks/accounts-and-architecture) chosen for the VTEX store, and the [implementing agency](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners) or [VTEX Support](/en/docs/tracks/vtex-support) should monitor these processes.
 
 ## Frontend development technologies on VTEX
 
-VTEX has three different technologies for storefront development: [FastStore](#faststore), [Store Framework](#store-framework) and [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). Legacy CMS Portal was VTEX's first technology for building storefronts, based on HTML, CSS, and JavaScript, and all development and code editing for this technology is done via the VTEX Admin.
+VTEX has three different technologies for storefront development: [FastStore](#faststore), [Store Framework](#store-framework) and [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal). Legacy CMS Portal was VTEX's first technology for building storefronts, based on HTML, CSS, and JavaScript, and all development and code editing for this technology is done via the VTEX Admin.
 
-> ⚠️ Although some stores still use it, the [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) is a legacy technology and is no longer available to new stores starting with VTEX.
+> ⚠️ Although some stores still use it, the [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal) is a legacy technology and is no longer available to new stores starting with VTEX.
 
 The following sections are about the main characteristics and features of FastStore and Store Framework.
 
@@ -102,10 +102,10 @@ The following table shows some of Store Framework's main features:
 | [Workspaces and test environments](https://developers.vtex.com/docs/guides/vtex-io-documentation-workspace) | It allows you to create different store versions and test them beforehand to make changes safely. |
 | [Site Editor](/en/docs/tutorials/site-editor-overview) | Content management system (CMS) for editing templates and building new pages on the store's website. |
 | [Native A/B testing](https://developers.vtex.com/docs/guides/ab-tests) | It allows you to test and validate the store version with the highest conversion rates. |
-| [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) integration | Autocomplete feature in the search bar, which also offers search suggestions and products based on configurable preferences. |
+| [Intelligent Search](/en/docs/tracks/overview-intelligent-search) integration | Autocomplete feature in the search bar, which also offers search suggestions and products based on configurable preferences. |
 | [Progressive Web App (PWA)](/en/docs/tutorials/enabling-pwa-push-notifications-in-your-store) | 
 Enables native app-like experiences on any device with PWA-ready technology.|
-| [Cross-border](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/5qgXy9Erm7FDP3UB5Ox8Bs) | It allows a VTEX [multistore](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multistore) to operate in different countries with a specific approach for each one. |
+| [Cross-border](/en/docs/tracks/cross-border-stores) | It allows a VTEX [multistore](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multistore) to operate in different countries with a specific approach for each one. |
 | Checkout, [My Account](/en/docs/tutorials/how-my-account-works), and Login integrations | Integration with other stages of the customer buying journey. |
 
 ## Choosing the frontend technology
@@ -117,7 +117,7 @@ For B2B stores, Store Framework is a good choice, as it provides the [B2B Suite]
 
 FastStore is an evolving alternative focused on store performance. This solution offers a fast loading experience, crucial for keeping store visitors engaged and reducing cart abandonment rates. For simpler use cases with a focus on performance, FastStore cab be the recommended technology.
 
-> ℹ️ The [VTEX support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) team can help you choose between one of the available storefront technologies.
+> ℹ️ The [VTEX support](/en/docs/tracks/vtex-support) team can help you choose between one of the available storefront technologies.
 
 The table below compares the two technologies based on their main features:
 
@@ -205,12 +205,12 @@ The table below compares the two technologies based on their main features:
 
 ## Development stages
 
-Before launching the store into production and [going live](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/6xYnNxDHUcY6FyChgziCoH), list the essential settings and features to add to the storefront. These definitions help you define the Minimum Viable Product (MVP) for the storefront. The following topics outline:
+Before launching the store into production and [going live](/en/docs/tracks/planning-the-go-live), list the essential settings and features to add to the storefront. These definitions help you define the Minimum Viable Product (MVP) for the storefront. The following topics outline:
 
 - [FastStore MVP requirements](#faststore-mvp-requirements)
 - [Store Framework MVP requirements](#store-framework-mvp-requirements)
 
-> ℹ️ The following recommendations are for basic storefront setup. Other settings may be required depending on the [architecture chosen](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) for your store's operation.
+> ℹ️ The following recommendations are for basic storefront setup. Other settings may be required depending on the [architecture chosen](/en/docs/tracks/accounts-and-architecture) for your store's operation.
 
 ### Developing using FastStore
 
@@ -232,7 +232,7 @@ Below are the requirements for each topic:
   - [Creating a category tree](/en/docs/tutorials/registering-a-category) ([departments](/en/docs/tutorials/what-is-a-department), [categories](/en/docs/tutorials/what-is-a-category) and [subcategories](/en/docs/tutorials/what-is-a-subcategory))
   - [Defining filters and types of specifications per category](/en/docs/tutorials/creating-a-specification-group-in-a-category)
   - [Adding SKU images](/en/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY#images)
-  - [Adding SKU prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29)
+  - [Adding SKU prices](/en/docs/tracks/cadastrar-preco-base)
   - [Inventory management](/en/docs/tutorials/managing-stock-items)
 - VTEX Intelligent Search
   - [Integrating the Intelligent Search app with the account](https://www.faststore.dev/docs/getting-started-requirements#enable-the-vtex-intelligent-search-app-in-your-account)
@@ -260,7 +260,7 @@ Below are the requirements for each topic:
   - [Associating a shipping strategy and warehouse with a loading dock](/en/docs/tutorials/managing-loading-docks)
 - Payments
   - [Configuring the Notes Payable provider](/en/docs/tutorials/setting-up-the-notes-payable-conector)
-  - [Adding gateway providers](/en/tutorial/registering-gateway-affiliations/)
+  - [Adding gateway providers](/en/docs/tutorials/registering-gateway-affiliations/)
 - Performance and SEO
   - Improving the store performance using the right[ technology](https://v1.faststore.dev/how-to-guides/performance) tools
 - Metrics
@@ -285,7 +285,7 @@ Below are the requirements for each topic:
   - [Creating a category tree](/en/docs/tutorials/registering-a-category) ([departments](/en/docs/tutorials/what-is-a-department), [categories](/en/docs/tutorials/what-is-a-category) and [subcategories](/en/docs/tutorials/what-is-a-subcategory))
   - [Defining filters and types of specifications per category](/en/docs/tutorials/creating-a-specification-group-in-a-category)
   - [Adding SKU images](/en/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY#images)
-  - [Adding SKU prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29)
+  - [Adding SKU prices](/en/docs/tracks/cadastrar-preco-base)
   - [Inventory management](/en/docs/tutorials/managing-stock-items)
 - VTEX Intelligent Search
   - [Integrating the Intelligent Search app with the account](https://www.faststore.dev/docs/getting-started-requirements#enable-the-vtex-intelligent-search-app-in-your-account)
@@ -306,7 +306,7 @@ Below are the requirements for each topic:
   - [Associating a shipping strategy and warehouse with a loading dock](/en/docs/tutorials/managing-loading-docks)
 - Payments
   - [Configuring the Notes Payable provider](/en/docs/tutorials/setting-up-the-notes-payable-conector)
-  - [Adding gateway providers](/en/tutorial/registering-gateway-affiliations/)
+  - [Adding gateway providers](/en/docs/tutorials/registering-gateway-affiliations/)
 - Performance
   - Improving the store performance using performance [optimization tools](https://developers.vtex.com/docs/guides/vtex-io-documentation-best-practices-for-optimizing-performance)
 - Metrics

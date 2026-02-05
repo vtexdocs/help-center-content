@@ -43,7 +43,7 @@ Outra opção é efetuar promoções na venda de lotes. Essa é uma forma de gar
 
 Primeiro é preciso determinar quais os limites de aging, considerando as características do seu produto e segmento. Por vezes, produtos cuja manutenção está dando prejuízo precisam ser vendidos pelo valor de custo ou mesmo abaixo do custo.
 
-Nesse cenário, uma [Promoção Regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) abrangente deve ajudar a operação a queimar estoque. Você pode selecionar produtos específicos ou categorias com estoque excedente e aplicar de forma massiva descontos percentuais (ex: 20%) ou nominais (ex: R$ 100). O objetivo aqui é recuperar crédito para colocar novamente na operação.
+Nesse cenário, uma [Promoção Regular](/pt/docs/tracks/criar-promocao-regular) abrangente deve ajudar a operação a queimar estoque. Você pode selecionar produtos específicos ou categorias com estoque excedente e aplicar de forma massiva descontos percentuais (ex: 20%) ou nominais (ex: R$ 100). O objetivo aqui é recuperar crédito para colocar novamente na operação.
 
 Para calibrar a extensão da promoção, você pode usar a área de restrições e limitações de uso para definir, por exemplo, se a promoção será aplicada ilimitadas vezes ou se haverá um número máximo de usos.
 
@@ -81,4 +81,4 @@ Outra forma de atrair o interesse dos clientes é uma promoção que ofereça fr
 
 Essa estratégia pode ser combinada com outras citadas anteriormente. A loja pode oferecer frete grátis na compra de um grande volume de um produto já antigo. Também é possível utilizar o frete grátis como desconto em um pagamento à vista.
 
-Para mais informações sobre como fazer uma promoção percentual de frete grátis, leia o artigo [Criar Promoção Regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+Para mais informações sobre como fazer uma promoção percentual de frete grátis, leia o artigo [Criar Promoção Regular](/pt/docs/tracks/criar-promocao-regular).

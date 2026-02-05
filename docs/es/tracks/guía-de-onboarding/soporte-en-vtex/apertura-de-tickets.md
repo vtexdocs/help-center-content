@@ -20,10 +20,10 @@ El acceso a una cuenta VTEX te permite entrar al dashboard de soporte, desde don
 ## Tipos de soporte 
 Los tickets con el Soporte VTEX, detallados a continuación, se dividen en tres tipos y cada uno sigue un proceso específico:
 
-- [Soporte técnico](/es/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3thRAdTB3gGwTB0e1fVL3T): su objetivo es la resolución de problemas o responder preguntas técnicas relativas a productos VTEX.
+- [Soporte técnico](/es/docs/tracks/suporte-tecnico): su objetivo es la resolución de problemas o responder preguntas técnicas relativas a productos VTEX.
    - [Copilot](/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex): herramienta que genera sugerencias automáticas para resolver problemas comunes o aclarar dudas técnicas sobre la plataforma VTEX.
-- [Soporte financiero](/es/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3g2mhmPDx5GszNgLDICzsl): su objetivo es la resolución de problemas relacionados con contratos o asuntos financieros de tiendas que operan con VTEX.
-- [Soporte comercial](/es/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ): su objetivo es la contratación de políticas comerciales adicionales, entornos adicionales, cuentas franquicia o cambios de usuario titular.
+- [Soporte financiero](/es/docs/tracks/soporte-financiero): su objetivo es la resolución de problemas relacionados con contratos o asuntos financieros de tiendas que operan con VTEX.
+- [Soporte comercial](/es/docs/tracks/soporte-comercial): su objetivo es la contratación de políticas comerciales adicionales, entornos adicionales, cuentas franquicia o cambios de usuario titular.
 
 > ℹ️ Para más información sobre apertura de tickets y tipos existentes, consulta [Abrir tickets con el Soporte VTEX.](/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex)
 

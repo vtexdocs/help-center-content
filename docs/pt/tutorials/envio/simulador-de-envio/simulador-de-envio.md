@@ -81,13 +81,13 @@ A simulação de frete indica todas as possibilidades de envio e disponibilidade
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">Peso total do carrinho excedeu o limite da transportadora
    </td>
-    <td class="t-body pa5" style="min-width: 15rem;">É possível atender ao limite através da divisão de carga. Veja a [ divisão de carga](/pt/docs/tutorials/como-funciona-a-divisao-de-carga) para maiores informações. Confira também se há erro nas [configurações do produto no catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
+    <td class="t-body pa5" style="min-width: 15rem;">É possível atender ao limite através da divisão de carga. Veja a [ divisão de carga](/pt/docs/tutorials/como-funciona-a-divisao-de-carga) para maiores informações. Confira também se há erro nas [configurações do produto no catálogo](/pt/docs/tracks/produtos-definicao-de-conceito).
    </td>
   </tr>
  <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">O peso ou dimensão do item não é suportado pela transportadora.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Confira as configurações da [planilha de frete](/pt/docs/tutorials/planilha-de-frete)  através dos campos ***WeightStart, WeightEnd ***e*** MaxVolume. *** Confira também se há erro nas [configurações do produto no catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
+   <td class="t-body pa5" style="min-width: 15rem;">Confira as configurações da [planilha de frete](/pt/docs/tutorials/planilha-de-frete)  através dos campos ***WeightStart, WeightEnd ***e*** MaxVolume. *** Confira também se há erro nas [configurações do produto no catálogo](/pt/docs/tracks/produtos-definicao-de-conceito).
    </td>
   </tr>
   <tr class="bb b--muted-3">
@@ -95,7 +95,7 @@ A simulação de frete indica todas as possibilidades de envio e disponibilidade
        
        *Obs.: itens que compõem um kit ou promoção não podem ser separados em pacotes diferentes.*
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Confira as configurações da [planilha de frete](/pt/docs/tutorials/planilha-de-frete) através dos campos ***WeightStart ***e ***WeightEnd. ***Confira também se há erro nas [configurações do produto no catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
+   <td class="t-body pa5" style="min-width: 15rem;">Confira as configurações da [planilha de frete](/pt/docs/tutorials/planilha-de-frete) através dos campos ***WeightStart ***e ***WeightEnd. ***Confira também se há erro nas [configurações do produto no catálogo](/pt/docs/tracks/produtos-definicao-de-conceito).
    </td>
   </tr>
   <tr class="bb b--muted-3">

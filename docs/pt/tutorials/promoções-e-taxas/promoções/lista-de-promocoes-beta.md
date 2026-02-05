@@ -48,7 +48,7 @@ Todas as funcionalidades da página serão detalhadas nas seguintes seções:
 
 Para cadastrar uma nova promoção, clique no botão `Criar Promoção`. Em seguida, você pode selecionar os seguintes tipos de promoções:
 
-- [Regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI)
+- [Regular](/pt/docs/tracks/criar-promocao-regular)
 - [Compre Junto](/pt/docs/tutorials/compre-junto)
 - [Leve Mais por Menos](/pt/docs/tutorials/leve-mais-por-menos)
 - [Desconto Progressivo](/pt/docs/tutorials/desconto-progressivo)
@@ -94,7 +94,7 @@ O número máximo padrão de promoções ativas é 100. Caso precise aumentar es
 
 A lista de promoções pode ser filtrada conforme a sua necessidade. A filtragem da lista pode ser feita pelos filtros a seguir: 
 
-- **Tipo de desconto:** tipo de desconto que será aplicado na promoção. As opções são [Regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Compre Junto](/pt/docs/tutorials/compre-junto), [Leve Mais por Menos](/pt/docs/tutorials/leve-mais-por-menos), [Desconto Progressivo](/pt/docs/tutorials/desconto-progressivo), [Compre e Ganhe](/pt/docs/tutorials/compre-e-ganhe) e [Promoção de Campanha](/pt/docs/tutorials/promocao-de-campanha).
+- **Tipo de desconto:** tipo de desconto que será aplicado na promoção. As opções são [Regular](/pt/docs/tracks/criar-promocao-regular), [Compre Junto](/pt/docs/tutorials/compre-junto), [Leve Mais por Menos](/pt/docs/tutorials/leve-mais-por-menos), [Desconto Progressivo](/pt/docs/tutorials/desconto-progressivo), [Compre e Ganhe](/pt/docs/tutorials/compre-e-ganhe) e [Promoção de Campanha](/pt/docs/tutorials/promocao-de-campanha).
 - **Status:** status da promoção. As opções são `Ativa`, `Programada`, `Pausada` e `Finalizada`.
 - **Última edição:** histórico das últimas edições nos últimos 12 meses, 3 meses, 30 dias, 7 dias ou no dia anterior à consulta.
 - **Política comercial:** política comercial em que a promoção será aplicada.

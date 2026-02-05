@@ -35,9 +35,9 @@ Com configurações personalizáveis, o WAF se adapta às necessidades específi
 
 O Data Protection Plus oferece uma arquitetura avançada de proteção de dados, com uma camada extra de segurança para informações pessoais ou sensíveis. Para mais detalhes, acesse o conjunto de guias da categoria [Data Protection Plus](https://developers.vtex.com/docs/guides/data-protection-plus) no Developer Portal.
 
-> ℹ️ No momento, essa funcionalidade está disponível apenas em algumas regiões. Em caso de dúvidas, entre em contato com o [Suporte Comercial](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
+> ℹ️ No momento, essa funcionalidade está disponível apenas em algumas regiões. Em caso de dúvidas, entre em contato com o [Suporte Comercial](/pt/docs/tracks/suporte-comercial).
 
 ## Como obter acesso?
 
-Se já é cliente da VTEX e deseja adotar o VTEX Shield no seu negócio, entre em contato com o [Suporte Comercial](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
+Se já é cliente da VTEX e deseja adotar o VTEX Shield no seu negócio, entre em contato com o [Suporte Comercial](/pt/docs/tracks/suporte-comercial). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
 

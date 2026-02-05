@@ -41,7 +41,7 @@ Para integrar com o Enjoei, é necessário realizar as seguintes etapas no seu A
 
 A [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) é o que determina o sortimento de produtos, preços e estratégia de envio da sua loja VTEX em um canal de venda. Se você deseja que as mesmas configurações da sua loja sejam utilizadas para seus produtos no Enjoei, não é necessário [criar uma política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) nova, pois uma mesma política comercial pode ser usada para diferentes canais de venda.
 
-Caso seja do seu interesse ter configurações específicas para vender no Enjoei, você pode [configurar uma política comercial para marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/).
+Caso seja do seu interesse ter configurações específicas para vender no Enjoei, você pode [configurar uma política comercial para marketplace](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace/).
 
 A [contratação de políticas comerciais adicionais](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional) para integrar com conectores certificados, certificados nativos ou outras lojas VTEX é isenta de taxas. Saiba mais sobre quem são esses parceiros em [Estratégias de marketplace na VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex).
 

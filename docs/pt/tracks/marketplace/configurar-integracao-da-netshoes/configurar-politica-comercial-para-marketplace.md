@@ -50,4 +50,4 @@ A simulação de frete e atualização de estoques depende de uma prévia config
 
 1. [Crie ou edite uma doca](/pt/tutorial/como-cadastrar-doca) associando à política comercial.
 2. Associe uma [transportadora](/pt/tutorial/gerenciar-transportadora) a essa doca.
-3. Verifique se existe algum [estoque](/pt/tutorial/gerenciar-estoque) que se associe a essa doca.
+3. Verifique se existe algum [estoque](/pt/docs/tutorials/gerenciar-estoque) que se associe a essa doca.

@@ -101,7 +101,7 @@ Hay carpetas que, aunque no son tan importantes como las anteriores, suelen ser 
 Estas son:
 - `/sistema/buscavazia`: carpeta donde el usuario es dirigido si la búsqueda no encuentra resultados.
 - `/sistema/{codigoHTTP}`: carpeta que renderiza páginas de errores de acuerdo con los códigos de status HTTP, tales como 404 (página no encontrada), 401 (no autorizado) y 500 (error de servidor).
-- `/marcas`: carpeta que contiene layouts de páginas de marca, que pueden ser personalizadas con un layout exclusivo. Si no hay layout específico para marcas, estas páginas se renderizarán de la misma manera que la carpeta de búsqueda. Para entender cómo funcionan las páginas de marca, consulte el artículo [Cómo funciona la búsqueda de VTEX](/es/tutorial/como-funciona-la-busqueda-de-vtex).
+- `/marcas`: carpeta que contiene layouts de páginas de marca, que pueden ser personalizadas con un layout exclusivo. Si no hay layout específico para marcas, estas páginas se renderizarán de la misma manera que la carpeta de búsqueda. Para entender cómo funcionan las páginas de marca, consulte el artículo [Cómo funciona la búsqueda de VTEX](/es/docs/tutorials/como-funciona-la-busqueda-de-vtex).
 
 ## Controles nativos de VTEX
 

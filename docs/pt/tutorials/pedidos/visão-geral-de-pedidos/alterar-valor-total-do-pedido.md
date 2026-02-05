@@ -37,7 +37,7 @@ As alterações no pedido serão atualizadas na seção *Itens para Faturar, e H
 
 ### Faturas parciais
 
-Ao alterar ou remover itens de um pedido, o valor total do pedido é alterado. Nesses cenários, é necessário [faturar o pedido](/pt/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT) enviando a [fatura parcial](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) correspondente ao valor que será liquidado pelo pedido após a alteração. 
+Ao alterar ou remover itens de um pedido, o valor total do pedido é alterado. Nesses cenários, é necessário [faturar o pedido](/pt/docs/tracks/faturar-um-pedido) enviando a [fatura parcial](/pt/docs/tracks/faturas-parciais) correspondente ao valor que será liquidado pelo pedido após a alteração. 
 
 O valor total do pedido será atualizado após a inserção da nota fiscal, e corresponde ao que é captado pelo gateway de pagamentos da VTEX. Caso um item seja devolvido, o sistema de Pagamentos da VTEX fará o estorno automaticamente ao cliente.
 

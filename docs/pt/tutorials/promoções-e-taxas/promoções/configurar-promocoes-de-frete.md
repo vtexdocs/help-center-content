@@ -81,4 +81,4 @@ Em resumo, a função do checkbox **Aplicar o desconto somente quando uma das tr
 
 Durante a configuração no módulo de **Promoções e Taxas**, você pode habilitar mais de uma transportadora para a mesma promoção. Contudo, o seu cliente só poderá selecionar uma transportadora no momento de finalizar a compra.
 
-Outra possibilidade é configurar uma promoção de frete criando uma promoção de campanha. Para saber as especificidades de frete nesta modalidade de desconto, [leia o nosso artigo](/pt/tutorial/promocao-de-campanha).
+Outra possibilidade é configurar uma promoção de frete criando uma promoção de campanha. Para saber as especificidades de frete nesta modalidade de desconto, [leia o nosso artigo](/pt/docs/tutorials/promocao-de-campanha).

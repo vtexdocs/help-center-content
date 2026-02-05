@@ -65,4 +65,4 @@ To better understand the meaning of each category registration field, see the fu
 - [What is a Subcategory?](/en/docs/tutorials/what-is-a-subcategory)
 - [Cleaning store's data base](/en/tutorial/understanding-how-to-maintain-a-database)
 - [Registering a product](/en/tutorial/registering-a-product)
-- [Registering an SKU](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ)
+- [Registering an SKU](/en/docs/tracks/adding-skus)

@@ -21,7 +21,7 @@ There are different ways to add SKUs:
 - Importing spreadsheet
 - API
 
-> ℹ️ If you want to import SKUs via [backend integrations](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) with an ERP, check out the [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).
+> ℹ️ If you want to import SKUs via [backend integrations](/en/docs/tracks/backend-integrations) with an ERP, check out the [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).
 
 ## VTEX Admin
 

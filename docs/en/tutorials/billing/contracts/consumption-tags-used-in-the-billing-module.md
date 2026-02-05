@@ -53,7 +53,7 @@ The following sections provide details about each of these groups.
 Below are the tags related to the channel through which the order is placed:
 
 * **IsInStore:** For orders placed through [VTEX Sales App](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc).
-* **IsInfiniteShelf:** For orders placed through **VTEX Sales App** [endless aisle](/en/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) feature; used when the [inventory](/en/docs/tutorials/managing-stock-items) item is not stored locally.
+* **IsInfiniteShelf:** For orders placed through **VTEX Sales App** [endless aisle](/en/docs/tracks/endless-aisle) feature; used when the [inventory](/en/docs/tutorials/managing-stock-items) item is not stored locally.
 * **IsSalesAppDeliveredByMainAccount:** For orders placed through [VTEX Sales App](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc); used when the item sold belongs to the [main account](/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#vtex-account-types) and the sale is made within the main account environment.
 * **IsSocialSelling:** For orders placed through [Social Selling](/en/docs/tutorials/how-to-use-the-shareable-cart-app).
 

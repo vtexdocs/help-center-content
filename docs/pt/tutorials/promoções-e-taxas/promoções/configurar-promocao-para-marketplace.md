@@ -19,7 +19,7 @@ O módulo de promoções da VTEX permite a criação de diferentes tipos de prom
 
 ## Promoções disponíveis para marketplaces
 
-Apenas [promoções regulares](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) dos seguintes tipos funcionam em marketplaces:
+Apenas [promoções regulares](/pt/docs/tracks/criar-promocao-regular) dos seguintes tipos funcionam em marketplaces:
 
 - Promoção de frete grátis
 - Promoção de frete percentual

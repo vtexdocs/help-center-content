@@ -19,7 +19,7 @@ VTEX permite la creación de diferentes tipos de [promociones](/es/tutorial/visa
 
 ## Promociones disponibles de sellers para marketplaces
 
-En marketplaces, solamente pueden aplicarse los siguientes tipos de [promociones regulares](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI):
+En marketplaces, solamente pueden aplicarse los siguientes tipos de [promociones regulares](/es/docs/tracks/crear-promocion-regular):
 
 * Envío gratis
 * Envío porcentual
@@ -121,14 +121,14 @@ Los sellers pueden segmentar las promociones para mercados específicos. Hay dos
 
 ### Selección por política comercial
 
-1. Cree una [promoción regular](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+1. Cree una [promoción regular](/es/docs/tracks/crear-promocion-regular).
 2. En la sección **Política Comercial**, seleccione las opciones **Es igual a** y **Entregado por mí (Tienda de otros)**.
 3. Luego, seleccione las políticas comerciales deseadas.
 4. Haga clic en `Guardar`.
 
 ### Selección por afiliado
 
-1. Cree una [promoción regular](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+1. Cree una [promoción regular](/es/docs/tracks/crear-promocion-regular).
 2. Complete el campo **Afiliados** con el nombre del afiliado relacionado al marketplace que desea.
 2. En la sección **Política Comercial**, seleccione las opciones **Es igual a** y **Entregado por mí (Tienda de otros)**.
 4. Haga clic en `Guardar`.

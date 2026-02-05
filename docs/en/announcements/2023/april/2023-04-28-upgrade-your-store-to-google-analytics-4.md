@@ -17,7 +17,7 @@ announcementSynopsisEN: 'upgrade-your-store-to-google-analytics-4'
 
 As of July 1, 2023, [Google Analytics 4](https://support.google.com/analytics/answer/10089681) (GA4) will replace Universal Analytics, the previous version of Google's data analytics tool. See details about the change in [this Google article](https://support.google.com/analytics/answer/11583528). 
 
-For stores using [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) or [VTEX IO - Store Framework](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), to continue tracking browsing data in your VTEX store, you will need to create a GA4 property and adjust some settings in your store.
+For stores using [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal) or [VTEX IO - Store Framework](/en/docs/tracks/cms-vtex-io), to continue tracking browsing data in your VTEX store, you will need to create a GA4 property and adjust some settings in your store.
 
 ## What has changed?
 Universal Analytics will stop processing events on July 1, 2023. Therefore, the only functional version of the tool will be Google Analytics 4.
@@ -28,10 +28,10 @@ Stores using VTEX IO - Store Framework also need to configure [the Google Tag Ma
 
 ## Why make this change?
 
-This change is necessary to ensure that VTEX stores using [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) or [VTEX IO - Store Framework](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) remain compatible with Google Analytics 4, enabling them to gather relevant browsing data through the latest version of Google's analytics tool.
+This change is necessary to ensure that VTEX stores using [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal) or [VTEX IO - Store Framework](/en/docs/tracks/cms-vtex-io) remain compatible with Google Analytics 4, enabling them to gather relevant browsing data through the latest version of Google's analytics tool.
 
 ## What needs to be done?
 
 To make your store compatible with the new version of Google's data analytics tool, please follow the instructions in the [Configuring Google Analytics 4 in VTEX stores](/en/docs/tutorials/how-to-setup-google-analytics-in-vtex-store) guide.
 
-If your store uses [VTEX IO - Store Framework](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), you must enable the `Send events in GA4 format` setting in the VTEX Admin and configure the app to receive all Google Analytics 4 updates. For more information, see the [Installing Google Tag Manager](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-google-tag-manager) guide.
+If your store uses [VTEX IO - Store Framework](/en/docs/tracks/cms-vtex-io), you must enable the `Send events in GA4 format` setting in the VTEX Admin and configure the app to receive all Google Analytics 4 updates. For more information, see the [Installing Google Tag Manager](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-google-tag-manager) guide.

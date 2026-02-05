@@ -17,7 +17,7 @@ order: 5
 
 Após realizar as configurações iniciais da integração, é possível enviar os produtos para o catálogo do Magazine Luiza, além de definir quais atributos de cada categoria serão exibidos nos anúncios no marketplace.  
 
-> ⚠️ Para enviar produtos ao marketplace, o seller deve mapear as [categorias](/pt/docs/tutorials/o-que-e-uma-categoria) e [atributos dos produtos](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP), além de configurar [estoque](/pt/docs/tutorials/estoque) e [preço](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/) de cada produto.  
+> ⚠️ Para enviar produtos ao marketplace, o seller deve mapear as [categorias](/pt/docs/tutorials/o-que-e-uma-categoria) e [atributos dos produtos](/pt/docs/tracks/especificacoes-definicao-de-conceito), além de configurar [estoque](/pt/docs/tutorials/estoque) e [preço](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/) de cada produto.  
 
 ![Gerenciamento de atributos Magalu](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/configurar-integracao-com-o-magazine-luiza/gerenciamento-de-atributos_1.gif)
 
@@ -38,7 +38,7 @@ Para habilitar ou desabilitar um atributo, siga os passos abaixo:
 
 > ℹ️ Por padrão, todos os atributos de produtos e SKUs ativos no catálogo VTEX estão habilitados para envio ao marketplace.  
 
-Após configurar o **Gerenciamento de Atributos,** é necessário [reindexar a base](/pt/tutorial/entendendo-o-funcionamento-da-indexacao) para que as alterações reflitam no marketplace. Durante o período de reindexação, os produtos entram em uma fila para atualização dos dados, mas seguem disponíveis para venda.  
+Após configurar o **Gerenciamento de Atributos,** é necessário [reindexar a base](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao) para que as alterações reflitam no marketplace. Durante o período de reindexação, os produtos entram em uma fila para atualização dos dados, mas seguem disponíveis para venda.  
 
-> ℹ️ Somente o [usuário Titular (owner)](/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA) tem permissão para reindexar a base de uma loja VTEX.
+> ℹ️ Somente o [usuário Titular (owner)](/pt/docs/tracks/o-que-e-o-usuario-master) tem permissão para reindexar a base de uma loja VTEX.
 

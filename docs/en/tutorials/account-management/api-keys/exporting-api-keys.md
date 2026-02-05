@@ -15,11 +15,11 @@ locale: en
 subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 ---
 
-The [API Keys](/en/tutorial/api-keys) page allows you to export information for all generated and external keys associated with the account to an `XLSX` file.  
+The [API Keys](/en/docs/tutorials/api-keys) page allows you to export information for all generated and external keys associated with the account to an `XLSX` file.  
 
 ## Before you begin
 
-To export, you must have the [User Administrator - RESTRICTED](/en/tutorial/predefined-roles#user-administrator-restricted) role or a [custom](/en/tutorial/roles#creating-a-role) role with the *View API Keys* resource.
+To export, you must have the [User Administrator - RESTRICTED](/en/docs/tutorials/predefined-roles#user-administrator-restricted) role or a [custom](/en/docs/tutorials/roles#creating-a-role) role with the *View API Keys* resource.
 
 ## Instructions
 
@@ -57,7 +57,7 @@ See the information available in the spreadsheet below.
 
 ## Learn more
 
-- [API keys](/en/tutorial/api-keys)  
-- [Configuring alerts to renew API tokens](/en/tutorial/configuring-alerts-to-renew-api-tokens)  
-- [Generated keys](/en/tutorial/generated-keys)  
-- [External keys](/en/tutorial/external-keys)  
+- [API keys](/en/docs/tutorials/api-keys)  
+- [Configuring alerts to renew API tokens](/en/docs/tutorials/configuring-alerts-to-renew-api-tokens)  
+- [Generated keys](/en/docs/tutorials/generated-keys)  
+- [External keys](/en/docs/tutorials/external-keys)  

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-> ⚠️ O tutorial a seguir é válido para associar SKUs **já existentes** a uma determinada [Política Comercial](/pt/docs/tutorials/criar-uma-politica-comercial). Para cadastrar um novo SKU, leia o tutorial [Cadastrar SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ).
+> ⚠️ O tutorial a seguir é válido para associar SKUs **já existentes** a uma determinada [Política Comercial](/pt/docs/tutorials/criar-uma-politica-comercial). Para cadastrar um novo SKU, leia o tutorial [Cadastrar SKU](/pt/docs/tracks/cadastrar-sku).
 
 Na página de configuração de cada SKU existe a opção de associar apenas aquele item a uma ou mais políticas comerciais. 
 

@@ -24,7 +24,7 @@ After setting the category tree and adding [product specifications and SKUs](/en
 
 If you get the message `"An error occurred in the data writing process. Make sure your worksheet data is consistent with the instructions and try again."` when importing SKUs via spreadsheet, this may be due to:
 
-- [Incomplete mandatory SKU specifications.](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
+- [Incomplete mandatory SKU specifications.](/en/docs/tracks/specifications-concept-definition)
 - Incorrect file formatting.
 
 ## Solution 

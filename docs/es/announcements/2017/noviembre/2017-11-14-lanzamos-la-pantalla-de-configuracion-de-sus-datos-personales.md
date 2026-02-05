@@ -28,4 +28,4 @@ En ella puedes:
 - Configurar la autenticación de 2 factores por app.
 - Deshabilitar la autenticación de 2 factores.
 
-Vea en más detalle qué puedes hacer con la pantalla My User en el artículo [Configurar datos personales en la pantalla de usuario](/es/tutorial/configurar-datos-personales-en-la-pantalla-de-usuario).
+Vea en más detalle qué puedes hacer con la pantalla My User en el artículo [Configurar datos personales en la pantalla de usuario](/es/docs/tutorials/configurar-datos-personales-en-la-pantalla-de-usuario).

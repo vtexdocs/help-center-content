@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
-Cada conta VTEX tem apenas um [usuário Titular](/pt/tutorial/o-que-e-o-usuario-titular) – o único a quem é dado acesso total a todas as seções do Admin, incluindo ações importantes de manutenção e autorização. Por padrão, este perfil de acesso é atribuído a um usuário especificado em contrato, geralmente a pessoa que supervisiona as operações de comércio digital no dia a dia.
+Cada conta VTEX tem apenas um [usuário Titular](/pt/docs/tutorials/o-que-e-o-usuario-titular) – o único a quem é dado acesso total a todas as seções do Admin, incluindo ações importantes de manutenção e autorização. Por padrão, este perfil de acesso é atribuído a um usuário especificado em contrato, geralmente a pessoa que supervisiona as operações de comércio digital no dia a dia.
 
 O usuário Titular atual pode transferir esta responsabilidade para quem desejar através da página de [Gerenciamento de titulares](#gerenciamento-de-titulares), seguindo as [etapas do fluxo de transferência de propriedade](#transferir-a-propriedade-da-conta).
 

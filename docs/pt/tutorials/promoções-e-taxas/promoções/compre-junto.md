@@ -83,7 +83,7 @@ Para mais informações, acesse [Seller Opt-in for Promotions](https://developer
 
 ### Selecionar políticas comerciais para aplicar o desconto
 
-Selecione as políticas comerciais que oferecerão o desconto. Você pode oferecer descontos para políticas comerciais onde [sua loja atua como marketplace](/pt/faq/o-que-e-um-marketplace) (Minha loja) ou como seller (Lojas de terceiros - Fulfillment).
+Selecione as políticas comerciais que oferecerão o desconto. Você pode oferecer descontos para políticas comerciais onde [sua loja atua como marketplace](/pt/docs/tutorials/o-que-e-um-marketplace) (Minha loja) ou como seller (Lojas de terceiros - Fulfillment).
 
 Você pode escolher entre as seguintes opções:
 
@@ -120,7 +120,7 @@ Defina as restrições que serão aplicadas à promoção. As condições permit
 
 - **Número do BIN  do cartão:** aplique a promoção apenas quando forem utilizados cartões de bandeiras, bancos ou categorias específicas identificadas por seus códigos BIN. Importe uma lista de BINs salva em um arquivo de texto (.txt) ou (.csv), com cada BIN descrito em uma linha diferente.
 
-- **Cluster de clientes:** selecione um [cluster de clientes](/pt/tutorial/como-criar-um-cluster-de-clientes) já criado no Master Data, seguindo o formato `field=value` ou `field contains value`. Em seguida escolha uma das seguintes opções:
+- **Cluster de clientes:** selecione um [cluster de clientes](/pt/docs/tutorials/como-criar-um-cluster-de-clientes) já criado no Master Data, seguindo o formato `field=value` ou `field contains value`. Em seguida escolha uma das seguintes opções:
   - **Todos os seguintes:** aplique a promoção apenas se todos os critérios do cluster forem atendidos.
   - **Pelo menos um dos seguintes:** aplique a promoção se pelo menos um dos critérios do cluster for atendido.
 

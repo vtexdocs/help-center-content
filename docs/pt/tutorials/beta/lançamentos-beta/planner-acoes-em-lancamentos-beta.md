@@ -34,7 +34,7 @@ Cada página apresenta uma visualização dos lançamentos e permite realizar a�
 * [Publicar lançamento](#publicar-lancamento)
 * [Excluir lançamento](#excluir-lancamento)
 
-> ⚠️ Na fase beta, os lançamentos precisam estar relacionados ao [CMS](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), pois outros módulos da plataforma VTEX ainda não estão inclusos. Para utilizar o **Lançamentos**, é necessário configurar o CMS conforme descrito em [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+> ⚠️ Na fase beta, os lançamentos precisam estar relacionados ao [CMS](/pt/docs/tracks/cms-vtex-io), pois outros módulos da plataforma VTEX ainda não estão inclusos. Para utilizar o **Lançamentos**, é necessário configurar o CMS conforme descrito em [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 ## Criar lançamento
 

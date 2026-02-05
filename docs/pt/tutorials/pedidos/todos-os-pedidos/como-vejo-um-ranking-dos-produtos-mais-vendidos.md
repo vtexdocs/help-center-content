@@ -17,7 +17,7 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 
 > ⚠️ O módulo **Pedidos** não tem o objetivo de servir como ferramenta de BI (Business Inteligence). Normalmente, é no ERP que a loja tem acesso aos relatórios de vendas.
 
-Embora o objetivo principal do módulo **Pedidos** seja gerenciar o fluxo de pedidos, é possível manipular os dados da [planilha de pedidos](/pt/tutorial/planilha-de-pedidos) para extrair informações que podem ser úteis ao seu negócio.
+Embora o objetivo principal do módulo **Pedidos** seja gerenciar o fluxo de pedidos, é possível manipular os dados da [planilha de pedidos](/pt/docs/tutorials/planilha-de-pedidos) para extrair informações que podem ser úteis ao seu negócio.
 
 Para obter uma lista de SKUs vendidos em determinado período por ordem de mais vendidos, siga os passos abaixo:
 

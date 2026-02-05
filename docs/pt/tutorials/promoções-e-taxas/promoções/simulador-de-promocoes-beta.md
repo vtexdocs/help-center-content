@@ -53,7 +53,7 @@ Se precisar adicionar ou remover itens do carrinho, você pode manter a janela d
 
 ### Buscar e filtrar promoções
 
-A ferramenta apresenta uma barra de busca para encontrar promoções pelo nome do produto ou nome da promoção. Além disso, você pode filtrar as promoções por **Tipo de promoção** ([Regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Compre Junto](/pt/docs/tutorials/compre-junto), [Leve Mais por Menos](/pt/docs/tutorials/leve-mais-por-menos), [Desconto Progressivo](/pt/docs/tutorials/desconto-progressivo), [Compre e Ganhe](/pt/docs/tutorials/compre-e-ganhe) ou [Promoção de Campanha](/pt/docs/tutorials/promocao-de-campanha)) e **Desconto** (Aplicado ou Não aplicado).
+A ferramenta apresenta uma barra de busca para encontrar promoções pelo nome do produto ou nome da promoção. Além disso, você pode filtrar as promoções por **Tipo de promoção** ([Regular](/pt/docs/tracks/criar-promocao-regular), [Compre Junto](/pt/docs/tutorials/compre-junto), [Leve Mais por Menos](/pt/docs/tutorials/leve-mais-por-menos), [Desconto Progressivo](/pt/docs/tutorials/desconto-progressivo), [Compre e Ganhe](/pt/docs/tutorials/compre-e-ganhe) ou [Promoção de Campanha](/pt/docs/tutorials/promocao-de-campanha)) e **Desconto** (Aplicado ou Não aplicado).
 
 ### Ver detalhes das promoções aplicadas
 
@@ -93,5 +93,5 @@ Para fazer uma simulação, siga as instruções abaixo:
 ### Saiba mais
 
 * [Como funcionam as promoções](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)
-* [Promoções para cenários específicos](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy)
+* [Promoções para cenários específicos](/pt/docs/tracks/promocoes-para-cenarios-especificos)
 * [Configurar o Cartman](/pt/docs/tutorials/configurar-o-cartman)

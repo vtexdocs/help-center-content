@@ -20,7 +20,7 @@ Este escenario se caracteriza por la inserción del albarán y la factura del pe
 
 Como en cualquier paso de la compra, algo puede ocurrir con la integración. Sin embargo, eso siempre estará registrado en el bridge, para ayudar a comprender y saber cómo corregir.
 
-[Sepa cómo analizar errores de integración en el Bridge.](/es/tutorial/como-verificar-la-integracion-en-bridge)
+[Sepa cómo analizar errores de integración en el Bridge.](/es/docs/tutorials/como-verificar-la-integracion-en-bridge)
 
 ## Inserte la clave de acceso con el albarán
 

@@ -26,7 +26,7 @@ Para el _marketplace_, el beneficio que le brinda contar con _sellers white labe
 
 ## Relación entre seller white label y cuenta franquicia
 
-La [cuenta franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia) es un tipo de cuenta que se crea y asocia a una cuenta estándar, y su principal característica es que hereda el [catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) de la cuenta estándar; es decir, que se importan las categorías, los productos y las especificaciones al entorno de la cuenta franquicia, ya que esta no crea productos propios.
+La [cuenta franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia) es un tipo de cuenta que se crea y asocia a una cuenta estándar, y su principal característica es que hereda el [catálogo](/es/docs/tracks/arquitectura-del-catalogo) de la cuenta estándar; es decir, que se importan las categorías, los productos y las especificaciones al entorno de la cuenta franquicia, ya que esta no crea productos propios.
 
 Usar la cuenta franquicia es estratégico, por ejemplo, para las operaciones que desean expandir sus ventas con la integración de tiendas físicas, ya que existe la posibilidad de heredar un catálogo ya registrado en la plataforma VTEX. Obtén más información en [¿Qué es una cuenta franquicia?](/es/docs/tutorials/que-es-una-cuenta-franquicia).
 

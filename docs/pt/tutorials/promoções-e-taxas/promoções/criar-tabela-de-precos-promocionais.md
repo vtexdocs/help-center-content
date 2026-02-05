@@ -15,10 +15,10 @@ locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Antes de ativar sua tabela de preço promocional é importante ter uma tabela de preço criada. Veja como fazer isso no tutorial **[Criar tabelas de preços](/pt/tutorial/criar-tabelas-de-precos).** Complete esta etapa e siga os passos seguintes.
+Antes de ativar sua tabela de preço promocional é importante ter uma tabela de preço criada. Veja como fazer isso no tutorial **[Criar tabelas de preços](/pt/docs/tutorials/criar-tabelas-de-precos).** Complete esta etapa e siga os passos seguintes.
 
 Depois de definida a tabela de preços que deseja usar, você pode criar uma tabela de preços promocionais, utilizando estes dois tipos de promoção. Clique e confira os campos a serem preenchidos:
- **[promoções regulares](/pt/tutorial/promocao-regular) ou [promoções de audiência de campanha](/pt/tutorial/promocao-de-campanha)**
+ **[promoções regulares](/pt/tutorial/promocao-regular) ou [promoções de audiência de campanha](/pt/docs/tutorials/promocao-de-campanha)**
 
 Para criar uma tabela de preços promocionais é necessário cumprir as etapas acima e depois seguir os seguintes passos.
 

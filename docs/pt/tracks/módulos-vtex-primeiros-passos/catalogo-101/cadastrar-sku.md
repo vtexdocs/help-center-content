@@ -21,7 +21,7 @@ Há diferentes formas de cadastrar SKUs:
 - Importação de planilha
 - API
 
-> ℹ️ Se você deseja importar SKUs via [integrações de backend](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) com ERP, confira o guia [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).
+> ℹ️ Se você deseja importar SKUs via [integrações de backend](/pt/docs/tracks/integracoes-de-backend) com ERP, confira o guia [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).
 
 ## Admin VTEX
 

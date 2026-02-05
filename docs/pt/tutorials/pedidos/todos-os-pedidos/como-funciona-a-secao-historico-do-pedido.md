@@ -32,7 +32,7 @@ relacionadas a cada pedido, como o pagamento, cancelamento e outros eventos.
 
 ## Emails transacionados com o cliente
 
-A **Histórico do pedido** está diretamente relacionada ao [conversation tracker](/pt/tutorial/conversation-tracker), que é utilizado para unificar toda a comunicação feita com o cliente durante o fluxo de um pedido.
+A **Histórico do pedido** está diretamente relacionada ao [conversation tracker](/pt/docs/tutorials/conversation-tracker), que é utilizado para unificar toda a comunicação feita com o cliente durante o fluxo de um pedido.
 
 Além disso, toda comunicação realizada por outros sistemas, com o email utilizado no pedido, também será documentado na seção **Histórico do pedido**.
 

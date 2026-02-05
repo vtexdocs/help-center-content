@@ -15,7 +15,7 @@ trackSlugEN: configurar-integracao-com-o-google-shopping
 order: 3
 ---
 
-Após a criação da sua conta no Google Merchant Center, o próximo passo da integração é definir a [política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) que será usada. Ao [Configurar política comercial para marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/), você define quais produtos serão enviados ao Google Shopping e qual será o preço deles na plataforma.
+Após a criação da sua conta no Google Merchant Center, o próximo passo da integração é definir a [política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) que será usada. Ao [Configurar política comercial para marketplace](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace/), você define quais produtos serão enviados ao Google Shopping e qual será o preço deles na plataforma.
 
 Na maioria dos casos, recomendamos a escolha da política comercial principal (ID: 1), já que os resultados do Google Shopping direcionam o comprador para realizar a compra nas lojas dos anunciantes. Assim, a integração enviará para o Google todos os produtos disponíveis na sua loja, e com os mesmos preços anunciados.
 

@@ -64,7 +64,7 @@ Siga as instruções abaixo para excluir manualmente um token antigo, após a re
 
 ## Desfazer renovação de token
 
-> ℹ️ Este procedimento é possível apenas enquanto o token antigo não tiver sido [excluído](#excluir-token-antigo). Se o token antigo tiver sido excluído, será necessário renovar o token novamente ou [excluir a chave de API](/pt/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc#excluir-chave).
+> ℹ️ Este procedimento é possível apenas enquanto o token antigo não tiver sido [excluído](#excluir-token-antigo). Se o token antigo tiver sido excluído, será necessário renovar o token novamente ou [excluir a chave de API](/pt/docs/tutorials/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc#excluir-chave).
 
 Se você renovou o token por engano ou esqueceu de copiar o novo token gerado, siga os passos abaixo para desfazer a renovação.
 
@@ -75,6 +75,6 @@ Se você renovou o token por engano ou esqueceu de copiar o novo token gerado, s
 
 ## Saiba mais
 
-* [Chaves de API](/pt/tutorial/chaves-de-api)
-* [Configurar alerta para renovar tokens de API](/pt/tutorial/configurar-alerta-para-renovar-tokens-de-api)
-* [Chaves geradas](/pt/tutorial/chaves-geradas)
+* [Chaves de API](/pt/docs/tutorials/chaves-de-api)
+* [Configurar alerta para renovar tokens de API](/pt/docs/tutorials/configurar-alerta-para-renovar-tokens-de-api)
+* [Chaves geradas](/pt/docs/tutorials/chaves-geradas)

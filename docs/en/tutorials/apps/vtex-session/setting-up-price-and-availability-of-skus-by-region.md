@@ -27,7 +27,7 @@ To regionalize SKU prices and availability, it is necessary:
 
 > ⚠️ In case of [Multilevel Omnichannel Inventory](/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4#), a marketplace (level 1) cannot configure the display of prices and availability of White Label Seller products (level 3) with the regionalization feature.
 
-> ℹ️ The feature **Region** works for both CMS Portal Legacy stores and stores developed using [VTEX IO](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC), but the feature [VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) is available only for stores using VTEX IO. As a result, stores with CMS Portal Legacy have a limitation in indexing regionalized data, and it is not possible to correctly order the sellers that serve the storefront of a RegionId based on the availability of items.
+> ℹ️ The feature **Region** works for both CMS Portal Legacy stores and stores developed using [VTEX IO](/en/docs/tracks/what-is-the-cms), but the feature [VTEX Intelligent Search](/en/docs/tracks/overview-intelligent-search) is available only for stores using VTEX IO. As a result, stores with CMS Portal Legacy have a limitation in indexing regionalized data, and it is not possible to correctly order the sellers that serve the storefront of a RegionId based on the availability of items.
 
 ## Setting up delivery in Franchise Account/White Label Seller
 
@@ -40,6 +40,6 @@ To configure delivery, follow the steps below:
 3. In __Shipping Policies__, click on the button `Create Shipping Policy` to register a [carrier](/en/tutorial/gerenciar-transportadora#). The ZIP codes operated by this carrier will be taken into account to display the price and availability by region in the main store.
 4. Register a [Dock](/en/tutorial/how-to-register-a-dock).
 5. Register an [Inventory](/en/tutorial/gerenciar-estoque--tutorials_137#).
-6. [Add stock for SKUs](/en/tutorial/managing-stock-items) that will be delivered through the configured route.
+6. [Add stock for SKUs](/en/docs/tutorials/managing-stock-items) that will be delivered through the configured route.
 
 > ℹ️ For an SKU to appear as available for sale, it needs to have stock and price associated with it.

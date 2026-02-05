@@ -23,7 +23,7 @@ The customer can decide whether they want their order delivered to their home or
 
 ## Prerequisites - VTEX Sales App
 
-Check the requirements to start using physical stores as pickup points for [VTEX Sales App](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) orders in the article [Prerequisites for using VTEX Sales App](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u). 
+Check the requirements to start using physical stores as pickup points for [VTEX Sales App](/en/docs/tracks/what-is-vtex-sales-app) orders in the article [Prerequisites for using VTEX Sales App](/en/docs/tracks/prerequisites-for-using-vtex-sales-app). 
 
 ## Configuring physical stores as pickup points
 
@@ -33,7 +33,7 @@ Therefore, you must configure a pickup point and associate it with the logistics
 
 ### Creating franchise accounts
 
-For more information about creating franchise accounts, read our article [Creating franchise accounts](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/eujH0id9Y4WJjjmdazUKd).
+For more information about creating franchise accounts, read our article [Creating franchise accounts](/en/docs/tracks/creating-franchise-accounts).
 
 ### Creating pickup points
 

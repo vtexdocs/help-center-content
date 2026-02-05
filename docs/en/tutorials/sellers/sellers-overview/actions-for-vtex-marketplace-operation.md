@@ -67,13 +67,13 @@ VTEX marketplaces can create a series of rules for promotions and determine, acc
 
 Managing the content that is displayed on your storefront allows you to maintain a cohesive editorial line for your marketplace. We suggest establishing clear guidelines on what kind of content is approved in your marketplace content strategy. 
 
-You can configure your marketplace's [Legacy CMS](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z) according to the content you want to promote, so that your marketplace shopping experience reflects your brand identity. For stores hosted on VTEX IO, you can [customize CSS handles](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-using-css-handles-for-store-customization) to change the look of your marketplace storefront.
+You can configure your marketplace's [Legacy CMS](/en/docs/tracks/what-is-the-cms) according to the content you want to promote, so that your marketplace shopping experience reflects your brand identity. For stores hosted on VTEX IO, you can [customize CSS handles](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-using-css-handles-for-store-customization) to change the look of your marketplace storefront.
 
 ## Managing orders 
 
 Marketplace order management is directly connected to customer satisfaction with your marketplace. Establishing and following up on the SLA (Service Level Agreement) between sellers and marketplaces is key to a positive rating of your marketplace. The SLA is the service agreement between the seller and the marketplace, and includes details about shipping policies, customer service, and exchanges and returns, for example. 
 
-On the VTEX platform, the **Order management** section allows sellers and marketplaces to track [order flow](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/4811ExCe3WrEiRMV3sy9n8). You can differentiate between [orders from the marketplace and orders from your sellers](/en/tutorial/o-que-sao-pedidos-com-origem-marketplace-e-origem-fulfillment--6eVYrmUAwMOeKICU2KuG06). 
+On the VTEX platform, the **Order management** section allows sellers and marketplaces to track [order flow](/en/docs/tracks/order-flow). You can differentiate between [orders from the marketplace and orders from your sellers](/en/tutorial/o-que-sao-pedidos-com-origem-marketplace-e-origem-fulfillment--6eVYrmUAwMOeKICU2KuG06). 
 
 [Marketplaces that process payments](/en/docs/tutorials/payments-in-vtex-marketplaces) must follow the [transaction flow in Payments](/en/docs/tutorials/transaction-flow-in-payments). Sellers, on the other hand, are responsible for the [fulfillment](/en/tutorial/o-que-sao-pedidos-com-origem-marketplace-e-origem-fulfillment--6eVYrmUAwMOeKICU2KuG06) of the orders, so they must [add the invoice](/en/tutorial/como-inserir-a-nota-fiscal) to the platform.
 

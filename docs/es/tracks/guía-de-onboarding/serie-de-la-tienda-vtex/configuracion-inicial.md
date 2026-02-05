@@ -85,7 +85,7 @@ La tabla a continuación detalla los tres tipos de autenticación disponibles:
 | **Tipo de autenticación** | **Descripción** |
 | :---: | :--- |
 | Autenticación de requests a API mediante [claves de aplicación](/es/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) (appKeys) | Las claves de aplicación (appKeys) se utilizan para autenticar requests a API de VTEX. Los administradores de la tienda pueden crear las claves para diferentes integraciones.Para más información, consulta [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). |
-| Autenticación de requets a API mediante tokens de usuario | Los tokens de usuarios se utilizan para autenticar requests a API, especialmente en aplicaciones [frontend](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) desarrolladas con VTEX IO.Para más información, consulta [API authentication using user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens). |
+| Autenticación de requets a API mediante tokens de usuario | Los tokens de usuarios se utilizan para autenticar requests a API, especialmente en aplicaciones [frontend](/es/docs/tracks/implementacion-del-frontend) desarrolladas con VTEX IO.Para más información, consulta [API authentication using user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens). |
 | Autenticación de aplicaciones mediante tokens de autenticación | El uso de tokens de autenticación (auth tokens) es necesario para la autenticación cuando se desarrollan aplicaciones en VTEX IO.Para más información, consulta [App authentication using auth tokens](https://developers.vtex.com/docs/guides/app-authentication-using-auth-tokens). |
 
 ## Políticas comerciales
@@ -100,17 +100,17 @@ Las [políticas comerciales](/es/docs/tutorials/como-funciona-una-politica-comer
 
 Toda integración con un canal de ventas debe tener una política comercial asociada. Cuando alguna de las configuraciones antes mencionadas es diferente para un nuevo canal, es necesario crear una nueva política comercial.
 
-Dependiendo de su arquitectura en VTEX, la tienda puede beneficiarse de tener más de una política comercial, o asociar estrategias de varias políticas comerciales a [multitiendas](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multitienda) y [entornos adicionales](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#entorno-adicional). El artículo [Cuentas y arquitectura](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) explica en detalle la relación entre estos conceptos.
+Dependiendo de su arquitectura en VTEX, la tienda puede beneficiarse de tener más de una política comercial, o asociar estrategias de varias políticas comerciales a [multitiendas](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multitienda) y [entornos adicionales](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#entorno-adicional). El artículo [Cuentas y arquitectura](/es/docs/tracks/cuentas-y-arquitectura) explica en detalle la relación entre estos conceptos.
 
 <div>
-Para [crear una política comercial](/es/docs/tutorials/crear-una-politica-comercial) y para [contratar políticas comerciales adicionales](/es/docs/tutorials/contratacion-de-politicas-comerciales-adicionales), debes ponerte en contacto con el [equipo de soporte de VTEX](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8).
+Para [crear una política comercial](/es/docs/tutorials/crear-una-politica-comercial) y para [contratar políticas comerciales adicionales](/es/docs/tutorials/contratacion-de-politicas-comerciales-adicionales), debes ponerte en contacto con el [equipo de soporte de VTEX](/es/docs/tracks/soporte-vtex).
 </div>
 
 ## Edition Apps
 
 [Edition Apps](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app) son paquetes que agrupan configuraciones y aplicaciones. Se crean mediante [sponsor accounts](https://developers.vtex.com/docs/guides/vtex-io-documentation-sponsor-account) para facilitar la configuración de [cuentas franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia). Algunos ejemplos incluyen **Edition Store** y **Edition Business**, que se ofrecen de forma nativa. Toda Edition App depende de `vtex.edition-business` o `vtex.edition-store`.
 
-Para editar una Edition App, debes ponerte en contacto con nuestro [equipo de soporte](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8). Ten en cuenta que solo la _sponsor account_ puede realizar cambios. Para crear una Edition App, se deben cumplir los requisitos descritos en [Developing an Edition App](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app#developing-an-edition-app).
+Para editar una Edition App, debes ponerte en contacto con nuestro [equipo de soporte](/es/docs/tracks/soporte-vtex). Ten en cuenta que solo la _sponsor account_ puede realizar cambios. Para crear una Edition App, se deben cumplir los requisitos descritos en [Developing an Edition App](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app#developing-an-edition-app).
 
 ## VTEX IO CLI
 

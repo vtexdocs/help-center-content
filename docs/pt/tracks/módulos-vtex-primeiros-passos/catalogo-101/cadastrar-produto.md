@@ -31,10 +31,10 @@ Para saber como cadastrar novos produtos ao seu catálogo pelo Admin VTEX, confi
 
 ## Planilha
 
-Para cadastrar seus produtos por planilha, recomendamos que você cadastre ao mesmo tempo os SKUs. Você pode conferir o passo a passo no artigo [Cadastrar SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) desta trilha.
+Para cadastrar seus produtos por planilha, recomendamos que você cadastre ao mesmo tempo os SKUs. Você pode conferir o passo a passo no artigo [Cadastrar SKU](/pt/docs/tracks/cadastrar-sku) desta trilha.
 
 ## API
 
 Para cadastrar um produto por API, use a chamada [Create product with category and brand](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product).
 
-> ℹ️ Se você deseja importar produtos via [integrações de backend](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) com ERP, confira o guia [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).
+> ℹ️ Se você deseja importar produtos via [integrações de backend](/pt/docs/tracks/integracoes-de-backend) com ERP, confira o guia [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).

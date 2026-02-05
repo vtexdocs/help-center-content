@@ -24,4 +24,4 @@ To confirm that this is the problem, in the [order details page](/en/docs/tutori
 
 If there is an error such as "The requested reservation *00-abc* could not be guaranteed for the *00-xyz* order", it is because one or many of the SKUs included in the cart doesn't have available inventory, which prevents the purchase from being approved. In this case, correcting the inventory should allow the order to move on.
 
-For more information, see [Checking error details in the orders](/en/faq/how-to-check-error-details-in-the-orders).
+For more information, see [Checking error details in the orders](/en/docs/tutorials/how-to-check-error-details-in-the-orders).

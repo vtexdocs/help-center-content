@@ -15,7 +15,7 @@ locale: es
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-> ⚠️ El siguiente tutorial es válido para asociar los SKU **ya existentes** a una determinada [Política Comercial](/es/docs/tutorials/crear-una-politica-comercial). Para registrar un nuevo SKU, consulte el tutorial [Registrar SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ).
+> ⚠️ El siguiente tutorial es válido para asociar los SKU **ya existentes** a una determinada [Política Comercial](/es/docs/tutorials/crear-una-politica-comercial). Para registrar un nuevo SKU, consulte el tutorial [Registrar SKU](/es/docs/tracks/registrar-sku).
 
 En la página de configuración de cada SKU, existe la opción de asociar solo aquel artículo con una o varias Políticas Comerciales.
 

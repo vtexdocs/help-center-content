@@ -67,11 +67,11 @@ Para operações [omnichannel](/pt/tracks/estrategias-de-comercio-unificado--3WG
 
 ## Requisitos e restrições
 
-O funcionamento da **Delivery Promise (Beta)** requer conhecer a localização do cliente desde o início da jornada de compra, de modo que a vitrine mostre somente os produtos com forma de envio válida. Para isso, é necessário instalar o [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), que solicita ao cliente o endereço da localidade. 
+O funcionamento da **Delivery Promise (Beta)** requer conhecer a localização do cliente desde o início da jornada de compra, de modo que a vitrine mostre somente os produtos com forma de envio válida. Para isso, é necessário instalar o [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search), que solicita ao cliente o endereço da localidade. 
 
 Para participar da fase atual da **Delivery Promise (Beta)**, é necessário atender às seguintes condições:
 
-* <i class="far fa-check-circle"></i> **Requisito:** usar [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG).
+* <i class="far fa-check-circle"></i> **Requisito:** usar [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search).
 * <i class="far fa-check-circle"></i> **Requisito:** ter implementação de frontend com [Store Framework](/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework), [FastStore](/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#faststore) ou headless.
 
 ### Saiba mais

@@ -17,7 +17,7 @@ subcategoryId: 30Kdgc6wJkMWgcXLB8mGr7
 
 To generate a search result, VTEX Intelligent Search takes into account the availability of each product found in the search. Available products will always have priority over unavailable products in the search results.
 
-When checking the availability of a product, VTEX Intelligent Search uses the **Show out of stock** field in the [Catalog](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR) to verify which products will be displayed even if they are unavailable. If the product configuration specifies that it should not be displayed when out of stock, the platform will not showcase the product. However, if the configuration indicates that the product should be displayed even when out of stock, the platform will position it at the end of the search results.
+When checking the availability of a product, VTEX Intelligent Search uses the **Show out of stock** field in the [Catalog](/en/docs/tracks/catalog-concept-definition) to verify which products will be displayed even if they are unavailable. If the product configuration specifies that it should not be displayed when out of stock, the platform will not showcase the product. However, if the configuration indicates that the product should be displayed even when out of stock, the platform will position it at the end of the search results.
 
 VTEX Intelligent Search also checks if:
 

@@ -22,7 +22,7 @@ O cadastro do conector é feito no Admin da VTEX. Para realizá-lo, siga as inst
 3. Clique em `Conectar`.
 5. Preencha os campos da tela descritos logo abaixo e, em seguida, clique no botão `Salvar Configuração` (campos marcados com o símbolo * são obrigatórios).
 
-- **Id do afiliado*:** código identificador para criação de um [afiliado](/pt/tutorial/o-que-e-afiliado) qque ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não, vogais não são aceitas. Sugestão: `VVJ`. A configuração do conector cria automaticamente o afiliado.
+- **Id do afiliado*:** código identificador para criação de um [afiliado](/pt/docs/tutorials/o-que-e-afiliado) qque ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não, vogais não são aceitas. Sugestão: `VVJ`. A configuração do conector cria automaticamente o afiliado.
 - **Afiliate Email*:** preencha com o e-mail cadastrado na etapa [**Criar conta de seller na Casas Bahia Marketplace**](/pt/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY/2oxPVeYpVgA8IrhaDqKon6#criar-conta-de-seller-na-via).
 - **Política comercial*:** ID da [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) que será utilizada para a integração com a Casas Bahia Marketplace. São os produtos dessa política comercial que serão enviados para o marketplace.
 - **Chave de acesso:** preencha com o Token enviado pela Casas Bahia Marketplace na etapa [Solicitar token na Via](/pt/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY/2oxPVeYpVgA8IrhaDqKon6#solicitar-token-na-via).

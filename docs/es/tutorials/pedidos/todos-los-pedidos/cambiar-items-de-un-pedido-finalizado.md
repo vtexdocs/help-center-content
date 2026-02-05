@@ -37,7 +37,7 @@ Antes de realizar cambios en el pedido, ten en cuenta las restricciones de la fu
 * Es necesario que el [adquirente](/es/docs/tutorials/que-es-un-adquirente) acepte el nuevo valor de la transacción para que se produzca el cambio.
 * El aumento del precio solo se permite si el pedido se pagó utilizando las condiciones de pago **Promissory** o **CardPromissory** (disponibles en el Administrador en **Configuración de la tienda > Pago > Configuración > Condiciones de pago**), [efectivo](/es/docs/tutorials/configurar-pagos-con-pagare) o [control de crédito](/es/docs/tutorials/customer-credit-vision-general). Además, el [adquirente](/es/docs/tutorials/que-es-un-adquirente) debe permitir transacciones sin el uso del código CVV y dos operaciones de cobro en el mismo pedido.
 * La [reserva](/es/docs/tutorials/como-se-maneja-la-reserva) de los ítems en el _stock_ no es automática. Es necesario actualizar manualmente la cantidad de ítems que siguen disponibles en el _[stock](/es/docs/tutorials/gestionar-items-en-inventario)_.
-* No es posible [cancelar](/es/docs/tutorials/como-cancelar-pedido) pedidos [parcialmente facturados](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible cambiar el pedido.
+* No es posible [cancelar](/es/docs/tutorials/como-cancelar-pedido) pedidos [parcialmente facturados](/es/docs/tracks/facturas-parciales). Si el cliente desea sustituir o remover ítems del pedido, es posible cambiar el pedido.
 * No se puede modificar un pedido con una transacción finalizada. Por ejemplo, para los cambios en el valor de un pedido con descuento, el OMS considera que, si el status que se muestra en Detalles de la transacción es distinto de «Finished», todavía puedes cambiar el valor de la transacción, aunque el valor ya se haya liquidado.  
 * No es posible realizar cambios en  pedidos procedentes de _[marketplaces integrados con VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex)_ (ya sean conectores nativos o conectores de _partners_).
 * Solo se pueden modificar los pedidos que están en preparación.
@@ -69,7 +69,7 @@ Las alteraciones en el pedido serán actualizadas en la sección *Ítems para fa
 
 ### Facturas Parciales
 
-Al cambiar o eliminar ítems de un pedido, el valor total del pedido cambia. En estos casos, es necesario [facturar el pedido](/es/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT) enviando la [factura parcial](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) correspondiente al importe que se liquidará por el pedido después del cambio. 
+Al cambiar o eliminar ítems de un pedido, el valor total del pedido cambia. En estos casos, es necesario [facturar el pedido](/es/docs/tracks/facturar-un-pedido) enviando la [factura parcial](/es/docs/tracks/facturas-parciales) correspondiente al importe que se liquidará por el pedido después del cambio. 
 
 El valor total del pedido se actualizará después de que se inserte la factura, y corresponde al valor liquidado por el gateway de pagos de VTEX. Si el cliente devuelve un ítem, el reembolso se realizará automáticamente a través del sistema de Pagos de VTEX.
 

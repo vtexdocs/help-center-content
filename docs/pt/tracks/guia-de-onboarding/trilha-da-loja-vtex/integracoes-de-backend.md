@@ -128,7 +128,7 @@ Mais informações sobre configuração do Catálogo com back-office nos artigos
 
 Após compreender e planejar a [Arquitetura do Catálogo](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#arquitetura-do-catalogo) da loja, a criação das categorias pode ser realizada pelas seguintes formas:
 
-1. __Admin VTEX:__ criar cada categoria usando a interface de usuário. Veja os detalhes em [Cadastrar Categorias](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3UYjVS03JbleGPh0Ckpic1).
+1. __Admin VTEX:__ criar cada categoria usando a interface de usuário. Veja os detalhes em [Cadastrar Categorias](/pt/docs/tracks/cadastrar-categorias).
 2. __API do Catálogo:__ criar cada categoria fazendo chamadas de API. Veja os detalhes na [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/category).
 3. __Integração com back-office:__ importar as categorias a partir de um software externo de back-office (ERP ou PIM) integrado à VTEX. O software pode já oferecer integração nativa com a VTEX ou requerer o desenvolvimento de um middleware que utiliza a [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#overview). Veja os detalhes em [Migração de Categorias a partir do ERP](https://developers.vtex.com/docs/guides/erp-integration-set-up-catalog#category-migration-from-erps).
 
@@ -143,9 +143,9 @@ Mais informações sobre importação para back-office de categorias no artigo [
 
 #### Marcas
 
-[Marcas](/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh) são atributos de produtos que ajudam os clientes a identificar o produto e a empresa responsável por ele. Um produto deve estar associado a uma única marca, o que significa que criar marcas é um passo obrigatório na configuração do Catálogo. É possível criar marcas das seguintes formas:
+[Marcas](/pt/docs/tracks/marcas-definicao-de-conceito) são atributos de produtos que ajudam os clientes a identificar o produto e a empresa responsável por ele. Um produto deve estar associado a uma única marca, o que significa que criar marcas é um passo obrigatório na configuração do Catálogo. É possível criar marcas das seguintes formas:
 
-1. __Admin VTEX:__ criar cada marca usando a interface de usuário. Veja os detalhes em [Cadastrar Marcas](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7lEGOSpAlQJCs5eUc5XFmR).
+1. __Admin VTEX:__ criar cada marca usando a interface de usuário. Veja os detalhes em [Cadastrar Marcas](/pt/docs/tracks/cadastrar-marcas).
 2. __API do Catálogo:__ criar cada marca fazendo chamadas de API. Veja os detalhes na [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/brand).
 3. __Integração com back-office:__ importar as marcas a partir de um software externo de back-office (ERP ou PIM) integrado à VTEX. O software pode já oferecer a integração nativa com a VTEX ou pode requerer o desenvolvimento de um middleware que utiliza a [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#overview). Veja os detalhes em [Criar Marcas no guia de configuração do Catálogo para back-office](https://developers.vtex.com/docs/guides/erp-integration-set-up-catalog#create-brands).
 
@@ -155,7 +155,7 @@ Mais informações sobre importação para back-office de marcas para no artigo 
 
 #### Especificações
 
-[Especificações](/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) são propriedades adicionais que podem ser atribuídas a produtos e SKUs da loja para serem usadas na criação de filtros de busca e para diferenciar SKUs e produtos na página do produto. A criação de especificações pode ser realizada por meio de [integrações de back-office](https://developers.vtex.com/docs/guides/erp-integration-set-up-catalog#create-specifications-groups) utilizando a [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#overview).
+[Especificações](/pt/docs/tracks/especificacoes-definicao-de-conceito) são propriedades adicionais que podem ser atribuídas a produtos e SKUs da loja para serem usadas na criação de filtros de busca e para diferenciar SKUs e produtos na página do produto. A criação de especificações pode ser realizada por meio de [integrações de back-office](https://developers.vtex.com/docs/guides/erp-integration-set-up-catalog#create-specifications-groups) utilizando a [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#overview).
 
 Existem três tipos de especificações e elas devem ser criadas na seguinte ordem:
 
@@ -179,8 +179,8 @@ Importar produtos refere-se ao ato de transferir todas as informações relevant
 
 Na VTEX, é importante compreender a distinção entre Produtos e SKUs:
 
-- [Produto](/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru): unidade abstrata do catálogo, visível nas prateleiras da loja. 
-- [SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA): unidade concreta do catálogo no estoque, representando as variações específicas de um produto, como cor, tamanho e outros atributos. Os SKUs são exibidos como itens individuais em páginas de produtos.
+- [Produto](/pt/docs/tracks/produtos-definicao-de-conceito): unidade abstrata do catálogo, visível nas prateleiras da loja. 
+- [SKU](/pt/docs/tracks/sku-definicao-de-conceito): unidade concreta do catálogo no estoque, representando as variações específicas de um produto, como cor, tamanho e outros atributos. Os SKUs são exibidos como itens individuais em páginas de produtos.
 
 > ℹ️ A maneira como produtos e SKUs são estruturados tem impacto direto na experiência de compra dos clientes.
 
@@ -188,9 +188,9 @@ A importação de produtos segue os passos na ordem da tabela abaixo:
 
 | **Ação** | **Descrição** | **Métodos** |
 | :--- | :--- | :--- |
-| [1. Importar produtos](https://developers.vtex.com/docs/guides/products) | Registrar os produtos no catálogo. | <ul><li>Integração pela [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product)</li><li>Importação de planilhas ([método clássico](/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#spreadsheet) e [app google-drive-import](https://developers.vtex.com/docs/apps/vtex.google-drive-import@0.x)).</li><li>Entrada manual no [Admin VTEX](/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL).</li></ul>|
+| [1. Importar produtos](https://developers.vtex.com/docs/guides/products) | Registrar os produtos no catálogo. | <ul><li>Integração pela [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product)</li><li>Importação de planilhas ([método clássico](/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#spreadsheet) e [app google-drive-import](https://developers.vtex.com/docs/apps/vtex.google-drive-import@0.x)).</li><li>Entrada manual no [Admin VTEX](/pt/docs/tracks/cadastrar-produto).</li></ul>|
 | [2. Importar especificações dos produtos](https://developers.vtex.com/docs/guides/product-specifications) | Preencher as especificações dos produtos no catálogo. | <ul><li>Integração usando a [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/specification).</li><li>Entrada manual no [Admin VTEX](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106#preencher-especificacoes-de-produto).</li></ul> |
-| [3. Adicionar os produtos à política comercial](https://developers.vtex.com/docs/guides/erp-integration-import-products#add-product-to-trade-polic) | Associar os produtos às devidas [políticas comerciais](/pt/docs/tutorials/como-funciona-uma-politica-comercial), definindo regras específicas (Preços, Pagamentos, estratégia de envio, etc.) de acordo com o canal de venda ou público. No mínimo, deve-se adicionar todos os produtos à política comercial principal. | <ul><li>Integração usando a [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/salespolicy/-tradepolicyId-).</li><li>Entrada manual no [Admin VTEX ao cadastrar um produto](/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL).</li></ul> |
+| [3. Adicionar os produtos à política comercial](https://developers.vtex.com/docs/guides/erp-integration-import-products#add-product-to-trade-polic) | Associar os produtos às devidas [políticas comerciais](/pt/docs/tutorials/como-funciona-uma-politica-comercial), definindo regras específicas (Preços, Pagamentos, estratégia de envio, etc.) de acordo com o canal de venda ou público. No mínimo, deve-se adicionar todos os produtos à política comercial principal. | <ul><li>Integração usando a [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/salespolicy/-tradepolicyId-).</li><li>Entrada manual no [Admin VTEX ao cadastrar um produto](/pt/docs/tracks/cadastrar-produto).</li></ul> |
 | [4. Importar SKUs](https://developers.vtex.com/docs/guides/skus) | Adicionar SKUs aos produtos no Catálogo. | <ul><li>Integração usando a [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunit).</li><li>Entrada manual no [Admin VTEX](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#adicionar-novo-sku-a-um-produto-ja-cadastrado).</li></ul> |
 | [5. Importar especificações dos SKUs](https://developers.vtex.com/docs/guides/sku-specifications) | Preencher as especificações dos SKUs no Catálogo. | <ul><li>Integração usando a [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunit/-skuId-/specification).</li><li>Entrada manual no [Admin VTEX](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119#preencher-especificacoes-de-sku).</li></ul> |
 | [6. Importar imagens dos SKUs](https://developers.vtex.com/docs/guides/images) | Adicionar imagens aos SKUs. | <ul><li>Integração usando a [API do Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunit/-skuId-/file).</li><li>Entrada manual no [Admin VTEX](/pt/docs/tutorials/como-atualizar-a-imagem-de-um-sku).</li></ul> |
@@ -203,7 +203,7 @@ Mais informações sobre importação para back-office de produtos no artigo [Im
 
 ### Preços
 
-[Preços](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#precos) são as informações dos valores de venda dos SKUs, os quais são armazenados em [tabelas de preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8). Para garantir que os produtos da loja tenham preços competitivos e adaptados aos diferentes canais de vendas, é necessário compreender como as informações de preços são integradas à VTEX. 
+[Preços](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#precos) são as informações dos valores de venda dos SKUs, os quais são armazenados em [tabelas de preços](/pt/docs/tracks/tabelas-de-preco-definicao-de-conceito). Para garantir que os produtos da loja tenham preços competitivos e adaptados aos diferentes canais de vendas, é necessário compreender como as informações de preços são integradas à VTEX. 
 
 Em operações de venda, é comum delegar o cálculo do preço para o ERP, de onde esses dados podem ser importados. Os preços têm um valor base definido para cada SKU e podem variar de acordo com o contexto. Os passos para realizar a importação de preços são:
 
@@ -283,7 +283,7 @@ Abaixo se encontram os eventos que o back-office pode transmitir para a VTEX. A 
 
 - **Alterar pedido:** alterar itens ou valores do pedido.
 - **Cancelar pedido:** finalizar o pedido e cancelar o pagamento.
-- **Faturar pedido:** [inserir a nota fiscal ao pedido](/pt/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT). Essa é a indicação de que o pedido foi concluído com sucesso e está pronto para ser enviado.
+- **Faturar pedido:** [inserir a nota fiscal ao pedido](/pt/docs/tracks/faturar-um-pedido). Essa é a indicação de que o pedido foi concluído com sucesso e está pronto para ser enviado.
 - **Rastrear pedido:** enviar as informações de rastreamento. Pode ser o código ou URL de rastreamento da transportadora, ou as notificações sobre atualizações no rastreamento.
 
 Mais informações sobre configurar processamento de pedidos para back-office nos artigos [Set up order processing](https://developers.vtex.com/docs/guides/erp-integration-set-up-order-processing) e [Change order](https://developers.vtex.com/docs/guides/change-order).
@@ -303,7 +303,7 @@ Mais informações no artigo [Login (SSO)](https://developers.vtex.com/docs/guid
 
 ### Pagamentos
 
-Os sistemas de [Pagamento]() da VTEX oferecem recursos extensivos para dar suporte a vários [métodos de pagamento](https://developers.vtex.com/docs/guides/payments-integration-payment-methods), [condições](/pt/tutorial/condicoes-de-pagamento) e integrações. Os pagamentos na VTEX possuem as seguintes opções de [fluxo de compra](https://developers.vtex.com/docs/guides/payments-integration-purchase-flows):
+Os sistemas de [Pagamento]() da VTEX oferecem recursos extensivos para dar suporte a vários [métodos de pagamento](https://developers.vtex.com/docs/guides/payments-integration-payment-methods), [condições](/pt/docs/tutorials/condicoes-de-pagamento) e integrações. Os pagamentos na VTEX possuem as seguintes opções de [fluxo de compra](https://developers.vtex.com/docs/guides/payments-integration-purchase-flows):
 
 - **Transparente:** o pagamento acontece diretamente no checkout, e o comprador escolhe o método de pagamento.
 - **Redirecionamento:** abre uma nova janela no navegador do comprador, onde o pagamento é processado por um serviço externo. Após finalizar o pagamento, o comprador retorna ao checkout para finalizar a compra.
@@ -346,7 +346,7 @@ Um [app](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-a
 
 Os tipos de apps disponíveis na VTEX são:
 
-- [Storefront](/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ): temas de loja desenvolvidos com o [Store Framework](/pt/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework).
+- [Storefront](/pt/docs/tracks/implementacao-de-frontend): temas de loja desenvolvidos com o [Store Framework](/pt/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework).
 - [Frontend](https://developers.vtex.com/docs/guides/vtex-io-documentation-1-developing-storefront-apps-using-react-and-vtex-io): componentes [React](https://react.dev/) que compõem temas de loja desenvolvidos com Store Framework.
 - [Admin VTEX](https://learn.vtex.com/docs/course-admin-lang-en): módulos e funcionalidades para o [Admin VTEX](/pt/docs/tutorials/admin-vtex-comece-aqui).
 - [Serviços (backend)](https://developers.vtex.com/docs/guides/vtex-io-documentation-service): serviços [Node](https://nodejs.org/en) ou [.NET Core](https://dotnet.microsoft.com/en-us/) capazes de lidar com eventos e gatilhos, exportar rotas HTTP, e expor resolvedores GraphQL.

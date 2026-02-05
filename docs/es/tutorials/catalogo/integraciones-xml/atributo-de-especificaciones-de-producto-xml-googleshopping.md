@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2OCA7SVfWoMSiAi0GEGwKo
 ---
 
-Después de la [actualización hecha por Google](/es/tutorial/como-se-hace-la-actualizacion-del-xml) en septiembre de 2015, algunas tags de atributo utilizadas en el feed de productos pasaron a tener valores predefinidos que son exigidos en el idioma **inglés** y todo en **letras minúsculas**.
+Después de la [actualización hecha por Google](/es/docs/tutorials/como-se-hace-la-actualizacion-del-xml) en septiembre de 2015, algunas tags de atributo utilizadas en el feed de productos pasaron a tener valores predefinidos que son exigidos en el idioma **inglés** y todo en **letras minúsculas**.
 
 Así es para que se pueda integrar los productos en Google Shopping y tener una mejor adherencia de categorización.
 

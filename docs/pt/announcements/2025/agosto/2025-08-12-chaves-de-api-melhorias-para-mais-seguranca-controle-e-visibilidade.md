@@ -121,6 +121,6 @@ Confira a documentação atualizada para explorar todas as funcionalidades:
 * [Chaves de API](/pt/docs/tutorials/chaves-de-api)  
 * [Chaves externas](/pt/docs/tutorials/chaves-externas) 
 * [Chaves geradas](/pt/docs/tutorials/chaves-geradas)  
-* [Configurar alerta para renovar tokens de API](/pt/tutorial/configurar-alerta-para-renovar-tokens-de-api)  
+* [Configurar alerta para renovar tokens de API](/pt/docs/tutorials/configurar-alerta-para-renovar-tokens-de-api)  
 * [Exportar chaves de API](/pt/docs/tutorials/exportar-chaves-de-api)  
 * [Renovar token de API](/pt/docs/tutorials/renovar-token-de-api)

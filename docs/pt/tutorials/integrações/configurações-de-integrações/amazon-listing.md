@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-O **Amazon Listing** é a funcionalidade utilizada pelo seller para cadastrar produtos através da interface do Admin VTEX e disponibilizá-los em um anúncio na Amazon. Ao finalizar a [integração com a Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan), é necessário disponibilizar os produtos de sua loja, para serem anunciados no marketplace. Para disponibilizar os produtos, existem duas possibilidades:
+O **Amazon Listing** é a funcionalidade utilizada pelo seller para cadastrar produtos através da interface do Admin VTEX e disponibilizá-los em um anúncio na Amazon. Ao finalizar a [integração com a Amazon](/pt/docs/tracks/configurar-a-integracao-da-amazon), é necessário disponibilizar os produtos de sua loja, para serem anunciados no marketplace. Para disponibilizar os produtos, existem duas possibilidades:
 - Se o produto já existe na Amazon, o seller deve seguir as instruções do [Tutorial Match de anúncios Amazon](/pt/docs/tutorials/match-de-anuncios-amazon) para vincular seu produto a um anúncio na Amazon.  
 - Se o produto ainda não existe na Amazon, o seller deve seguir as instruções deste tutorial para cadastrar seu produto e criar um novo anúncio na Amazon. 
 

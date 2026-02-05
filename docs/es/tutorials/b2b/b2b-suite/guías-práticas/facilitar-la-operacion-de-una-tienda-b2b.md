@@ -45,11 +45,11 @@ Para saber más detalles, lea el artículo sobre [cómo completar cada uno de lo
 
 ### Precio por cantidad
 
-En VTEX, el cliente puede definir el precio de un ítem de acuerdo con su cantidad. Al configurar el [precio fijo](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy) de un SKU, se puede definir la [cantidad mínima de ítems en el carrito para activar el precio fijo](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy#item-minimo-no-carrinho). Es decir, en base al volumen que el consumidor añada al carrito, todos los productos adquieren un valor determinado.
+En VTEX, el cliente puede definir el precio de un ítem de acuerdo con su cantidad. Al configurar el [precio fijo](/es/docs/tracks/precio-fijo-definicion-de-concepto) de un SKU, se puede definir la [cantidad mínima de ítems en el carrito para activar el precio fijo](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy#item-minimo-no-carrinho). Es decir, en base al volumen que el consumidor añada al carrito, todos los productos adquieren un valor determinado.
 
 Tomemos como ejemplo un producto que tiene el valor unitario de USD 100 y que este precio se mantendrá hasta que se incluyen 10 unidades en el carrito. Sin embargo, si el consumidor quiere comprar 12 ítems de una sola vez, el precio unitario se reduce un poco, a USD 98.
 
-Este es un recurso que se adapta a las necesidades de los clientes mayoristas. Actualmente existen tres formas de establecer un precio fijo en VTEX. Acceda al artículo sobre [cómo registrar precios fijos](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj) para conocer todas las formas de configuración.
+Este es un recurso que se adapta a las necesidades de los clientes mayoristas. Actualmente existen tres formas de establecer un precio fijo en VTEX. Acceda al artículo sobre [cómo registrar precios fijos](/es/docs/tracks/registrar-precio-fijo) para conocer todas las formas de configuración.
 
 > ℹ️ Antes de proceder con su lectura, lea el artículo sobre[ las promociones más usadas para el escenario B2B](/es/tutorial/as-promocoes-mais-comuns-em-b2b--XoM951AzUIvfaH71UdANf?&utm_source=autocomplete).
 
@@ -73,13 +73,13 @@ Esta etapa tiene una serie de particularidades que se pueden potenciar a través
 
 ### Gestión de pedidos
 
-Todas las tiendas VTEX cuentan con el módulo «Gestión de pedidos», el cual permite orquestar todos los [pedidos](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE) que se realizan en una tienda. 
+Todas las tiendas VTEX cuentan con el módulo «Gestión de pedidos», el cual permite orquestar todos los [pedidos](/es/docs/tracks/o-que-e-um-pedido-na-vtex) que se realizan en una tienda. 
 
 El sistema comprende:
 
 - Todos los detalles relacionados con cada uno de los pedidos registrados en la tienda, como los datos del comprador y método de pago. 
 
-- El [flujo de pedidos](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/4811ExCe3WrEiRMV3sy9n8), una herramienta que monitorea el status de un pedido durante todo el periodo de posventa.
+- El [flujo de pedidos](/es/docs/tracks/flujo-del-pedido), una herramienta que monitorea el status de un pedido durante todo el periodo de posventa.
 
 - Dispositivos para que el cliente actualice el status del pedido, como la facturación.
 

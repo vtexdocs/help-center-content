@@ -25,7 +25,7 @@ tags:
 
 The status `Handling shipping` occurs in the [order flow](/en/tutorial/order-flow-on-the-oms--tutorials_196#fluxo-do-seller) shortly after the seller starts handling the items. At this point, VTEX must receive the order's invoice details, updating the flow with the `Invoiced` or `Canceled` status.
 
-> ℹ️ You can't [cancel orders](/en/docs/tutorials/canceling-orders) that have already been [partially invoiced](/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). If the customer wants to replace or remove items, they can [change the order](/en/docs/tutorials/changing-items-from-a-complete-order).
+> ℹ️ You can't [cancel orders](/en/docs/tutorials/canceling-orders) that have already been [partially invoiced](/en/docs/tracks/partial-invoices). If the customer wants to replace or remove items, they can [change the order](/en/docs/tutorials/changing-items-from-a-complete-order).
 
 An order remaining in the status `Handling shipping` longer than expected may be due to the invoices not being registered on VTEX.
 
@@ -33,7 +33,7 @@ An order remaining in the status `Handling shipping` longer than expected may be
 
 ### Checking invoices in ERP integrations
 
-The first action required is to contact the person responsible for your [ERP integration](https://developers.vtex.com/docs/guides/erp-integration-guide) and check whether the single invoice or all [partial invoices](/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) have already been registered via the [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice) endpoint.
+The first action required is to contact the person responsible for your [ERP integration](https://developers.vtex.com/docs/guides/erp-integration-guide) and check whether the single invoice or all [partial invoices](/en/docs/tracks/partial-invoices) have already been registered via the [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice) endpoint.
 
 After this confirmation, follow the steps below to check if the status has changed:
 
@@ -49,7 +49,7 @@ Merchants can add invoices to the VTEX Admin via [manual order invoicing](/en/do
 
 To ensure that the order is invoiced correctly, the following requirements must be met:
 
-- The invoice total must be equal to the sum of the item prices in the order and their respective shipping costs. If the invoice amount is lower than the total, you must add a [partial invoice](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) for the remaining amount.
+- The invoice total must be equal to the sum of the item prices in the order and their respective shipping costs. If the invoice amount is lower than the total, you must add a [partial invoice](/en/docs/tracks/partial-invoices) for the remaining amount.
 - Each invoice issued, whether total or partial, must have a unique number.
 - When you need to issue more than one invoice for an order, their combined total must equal the order's total amount.
 - The total order amount will be updated if [items are changed or removed](/en/docs/tutorials/changing-items-from-a-complete-order).

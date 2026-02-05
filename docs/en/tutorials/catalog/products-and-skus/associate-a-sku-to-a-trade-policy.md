@@ -15,7 +15,7 @@ locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-> ⚠️ This tutorial explains how to assign **existing SKUs** to a given [trade policy](/en/docs/tutorials/creating-a-trade-policy). To add a new SKU, please read the tutorial [Adding SKUs](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ).
+> ⚠️ This tutorial explains how to assign **existing SKUs** to a given [trade policy](/en/docs/tutorials/creating-a-trade-policy). To add a new SKU, please read the tutorial [Adding SKUs](/en/docs/tracks/adding-skus).
 
 You can associate an SKU with one or more trade policies on the configuration page of each SKU.
 

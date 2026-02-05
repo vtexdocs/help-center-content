@@ -17,7 +17,7 @@ subcategoryId: 4HBbKdnwneGew2qGGykSM8
 
 A página **SKUs recebidos** permite que o [marketplace](/pt/docs/tutorials/visao-geral-marketplace) visualize, priorize e catalogue os itens enviados pelos seus sellers. Dessa maneira, é possível criar novos produtos e também associá-los a SKUs ou a produtos já existentes para disponibilizá-los para venda. Acesse a página no Admin VTEX em **Marketplace > SKUs recebidos**  ou digite **SKUs recebidos** na barra de busca do Admin.  
 
-A catalogação pode ser feita manualmente ou automaticamente, [por meio de um ou mais matchers](/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher), e também pelo [autoApprove](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions/#put-/suggestions/configuration/autoapproval/toggle). Além disso, também existe a possibilidade de usar ferramentas externas para realizar essa operação.  
+A catalogação pode ser feita manualmente ou automaticamente, [por meio de um ou mais matchers](/pt/docs/tutorials/entendendo-a-pontuacao-do-vtex-matcher), e também pelo [autoApprove](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions/#put-/suggestions/configuration/autoapproval/toggle). Além disso, também existe a possibilidade de usar ferramentas externas para realizar essa operação.  
 
 ![Apresentação Anúncios Recebidos-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/produtos/skus-recebidos-beta_1.gif)  
 

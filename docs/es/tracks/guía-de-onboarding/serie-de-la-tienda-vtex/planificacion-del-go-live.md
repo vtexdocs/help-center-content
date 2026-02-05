@@ -27,7 +27,7 @@ El go live es el momento en que la tienda empieza a estar disponible para que lo
 
 ## Antes de comenzar
 
-Para preparar una tienda para el go live, es importante definir previamente el equipo o [agencia partner](/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#partners-de-implementacion) que se encargará de la implementación, escoger los [tipos de cuenta VTEX](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-cuenta-en-vtex) según el tipo de operación y planificar la arquitectura de la tienda. Para más información sobre las etapas, consulta el artículo [Cuentas y arquitectura](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl).
+Para preparar una tienda para el go live, es importante definir previamente el equipo o [agencia partner](/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#partners-de-implementacion) que se encargará de la implementación, escoger los [tipos de cuenta VTEX](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-cuenta-en-vtex) según el tipo de operación y planificar la arquitectura de la tienda. Para más información sobre las etapas, consulta el artículo [Cuentas y arquitectura](/es/docs/tracks/cuentas-y-arquitectura).
 
 ## 1. Preparación para el go live
 
@@ -73,7 +73,7 @@ Después de completar las configuraciones internas de la tienda se deben realiza
 
 > ⚠️ Desde el momento en que la cuenta se active en producción, todos los pedidos se cobrarán automáticamente y el [take rate](/es/tutorial/compreenda-o-valor-da-receita-aprovada--tutorials_4322#valores-da-receita-aprovada) se aplicará según el plan acordado con VTEX. Esto incluye los pedidos realizados en `{nombredelatienda}.myvtex.com`, incuso si fueron realizados como prueba.
 
-Para más información, consulta el artículo [Configuración](/es/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7wFsbWgN4rnZsbjhv8IItX), que forma parte de la serie [Go live](/es/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/1iP90RcJvlrfQhnlxM54wo).
+Para más información, consulta el artículo [Configuración](/es/docs/tracks/configuracion), que forma parte de la serie [Go live](/es/docs/tracks/processo-de-go-live).
 
 ## 4. Pruebas antes del go live
 
@@ -107,7 +107,7 @@ Después de concluidas las pruebas y ajustes correspondientes, se debe preparar 
 
 2. **Solicitar apuntamiento interno:** hay que abrir un ticket con el [soporte VTEX](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy) para solicitar el apuntamiento de DNS interno. El plazo para completar esta solicitud es de hasta tres días laborables.
 
-    El tipo de solicitud enviada debe corresponder a la [tecnología escogida](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) para el storefront:
+    El tipo de solicitud enviada debe corresponder a la [tecnología escogida](/es/docs/tracks/implementacion-del-frontend) para el storefront:
 
   <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
   <thead>
@@ -123,7 +123,7 @@ Después de concluidas las pruebas y ajustes correspondientes, se debe preparar 
     </tr>
     <tr class="bb b--muted-3">
       <td class="t-body pa5" style="min-width: 10rem;">CMS Portal (Legado)</td>
-      <td class="t-body pa5" style="min-width: 10rem;">Si el acceso a la tienda está restringido por una [política comercial](/es/docs/tutorials/crear-una-politica-comercial) con una regla condicional y tu storefront fue creado con[CMS Portal (Legado)](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), debes solicitar un [apuntamiento interno especial](/es/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-especial). Un ejemplo común son las tiendas B2B que restringen el acceso a empresas preaprobadas. La solicitud de apuntamiento especial se envía a través del [soporte VTEX](https://supporticket.vtex.com/support), que debe incluir la política comercial y la regla condicional configurada.</td>
+      <td class="t-body pa5" style="min-width: 10rem;">Si el acceso a la tienda está restringido por una [política comercial](/es/docs/tutorials/crear-una-politica-comercial) con una regla condicional y tu storefront fue creado con[CMS Portal (Legado)](/es/docs/tracks/cms-portal-legado), debes solicitar un [apuntamiento interno especial](/es/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-especial). Un ejemplo común son las tiendas B2B que restringen el acceso a empresas preaprobadas. La solicitud de apuntamiento especial se envía a través del [soporte VTEX](https://supporticket.vtex.com/support), que debe incluir la política comercial y la regla condicional configurada.</td>
     </tr>
   </tbody>
   </table>
@@ -131,7 +131,7 @@ Después de concluidas las pruebas y ajustes correspondientes, se debe preparar 
 Independientemente del tipo de solicitud que se necesite, el ticket para el soporte VTEX debe contener la siguiente información:
 
 - Título que indique la intención de realizar el go live.
-- Si la [tecnología de storefront](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) fue desarrollada en VTEX IO o CMS Portal (Legado).
+- Si la [tecnología de storefront](/es/docs/tracks/implementacion-del-frontend) fue desarrollada en VTEX IO o CMS Portal (Legado).
 - URL que se debe apuntar.
 - Horario en que se realizará el apuntamiento interno, entre 9:00 y 17:00 UTC-3.
 - Indicar si la tienda tiene reglas condicionales de [políticas comerciales](/es/docs/tutorials/crear-una-politica-comercial).

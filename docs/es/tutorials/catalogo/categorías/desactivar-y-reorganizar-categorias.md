@@ -70,6 +70,6 @@ Para mover una categoría sin causar errores ni perder información, sigue las i
 
 ## Más información
 
-- [Categorías - Definición del concepto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
+- [Categorías - Definición del concepto](/es/docs/tracks/categorias-definicion-de-concepto)
 - [Registrar una categoría](/es/docs/tutorials/registrar-categoria)
 

@@ -15,11 +15,11 @@ locale: pt
 subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 ---
 
-A página [Chaves de API](/pt/tutorial/chaves-de-api) permite exportar informações de todas as chaves geradas e as chaves externas relacionadas à conta para um arquivo `XLSX`.
+A página [Chaves de API](/pt/docs/tutorials/chaves-de-api) permite exportar informações de todas as chaves geradas e as chaves externas relacionadas à conta para um arquivo `XLSX`.
 
 ## Antes de começar
 
-Para a exportação, é obrigatório ter o perfil de acesso [User Administrator - RESTRICTED](/pt/tutorial/perfis-de-acesso-predefinidos#user-administrator-restricted) ou um perfil [customizado](/pt/tutorial/perfis-de-acesso#criando-um-perfil-de-acesso) com o recurso *View API Keys*.
+Para a exportação, é obrigatório ter o perfil de acesso [User Administrator - RESTRICTED](/pt/docs/tutorials/perfis-de-acesso-predefinidos#user-administrator-restricted) ou um perfil [customizado](/pt/docs/tutorials/perfis-de-acesso#criando-um-perfil-de-acesso) com o recurso *View API Keys*.
 
 ## Instruções
 
@@ -57,7 +57,7 @@ A seguir, confira as informações disponíveis na planilha.
 
 ## Saiba mais
 
-* [Chaves de API](/pt/tutorial/chaves-de-api)  
-* [Configurar alerta para renovar tokens de API](/pt/tutorial/configurar-alerta-para-renovar-tokens-de-api)  
-* [Chaves geradas](/pt/tutorial/chaves-geradas)  
-* [Chaves externas](/pt/tutorial/chaves-externas)
+* [Chaves de API](/pt/docs/tutorials/chaves-de-api)  
+* [Configurar alerta para renovar tokens de API](/pt/docs/tutorials/configurar-alerta-para-renovar-tokens-de-api)  
+* [Chaves geradas](/pt/docs/tutorials/chaves-geradas)  
+* [Chaves externas](/pt/docs/tutorials/chaves-externas)

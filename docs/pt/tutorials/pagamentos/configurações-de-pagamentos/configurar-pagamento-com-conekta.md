@@ -31,7 +31,7 @@ Para configurar Conekta, siga os passos abaixo:
 10. Em __Indicar metodos de pago que se habilitaran, separados por coma. ej: cash, transfer, card, bnpl__, insira os meios de pagamento que deseja utilizar sua loja.
 11. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela Conekta, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento). 
+Para configurar os métodos de pagamento a serem processados pela Conekta, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento). 
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

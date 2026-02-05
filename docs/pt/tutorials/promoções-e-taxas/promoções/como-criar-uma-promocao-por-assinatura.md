@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Neste artigo, você encontrará o passo a passo para criar promoções de assinatura em [Promoção Regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). 
+Neste artigo, você encontrará o passo a passo para criar promoções de assinatura em [Promoção Regular](/pt/docs/tracks/criar-promocao-regular). 
 
 1. Acesse o módulo **Promoções e Taxas**.
 2. Clique em **Promoções**.

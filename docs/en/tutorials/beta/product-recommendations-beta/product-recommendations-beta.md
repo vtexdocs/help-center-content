@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6WyZwZfn89IsnNFNkTAi8d
 ---
 
-> ℹ️ This feature is in closed beta, and only participating customers can access it. If you're a VTEX client and want to adopt this feature for your business, please contact [Commercial Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you're not a VTEX client but are interested in this solution, please complete our [contact form](https://vtex.com/en-us/contact/).
+> ℹ️ This feature is in closed beta, and only participating customers can access it. If you're a VTEX client and want to adopt this feature for your business, please contact [Commercial Support](/en/docs/tracks/commercial-support). Additional fees may apply. If you're not a VTEX client but are interested in this solution, please complete our [contact form](https://vtex.com/en-us/contact/).
 
 The Product Recommendations feature allows your store to provide custom experiences to buyers by recommending items based on multiple strategies. In addition, you can display relevant or complementary products, boost conversion rates, and increase the average ticket of your business.
 
@@ -43,7 +43,7 @@ Below are the available recommendation strategies developed by the VTEX team:
 
 ## Implementation
 
-To request activation of the Product Recommendations feature in your store, open a ticket with [Commercial Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ), indicating which strategies you want to activate. The VTEX team will review the request and get in contact with you.  
+To request activation of the Product Recommendations feature in your store, open a ticket with [Commercial Support](/en/docs/tracks/commercial-support), indicating which strategies you want to activate. The VTEX team will review the request and get in contact with you.  
 
 Learn more about the Store Framework implementation in the component documentation [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf).
 

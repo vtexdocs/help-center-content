@@ -15,7 +15,7 @@ trackSlugEN: proximos-pasos-tras-el-go-live
 order: 3
 ---
 
-En la **Serie general de la tienda VTEX**, los artículos [Módulos de VTEX I](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7) y [Módulos de VTEX II](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ) detallan los ajustes principales de cada módulo. El presente artículo explica otros ajustes de los módulos que no son requisito para el [go-live](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/6xYnNxDHUcY6FyChgziCoH).
+En la **Serie general de la tienda VTEX**, los artículos [Módulos de VTEX I](/es/docs/tracks/modulos-de-vtex-i) y [Módulos de VTEX II](/es/docs/tracks/modulos-de-vtex-ii) detallan los ajustes principales de cada módulo. El presente artículo explica otros ajustes de los módulos que no son requisito para el [go-live](/es/docs/tracks/planificacion-del-go-live).
 
 ## Promociones
 
@@ -33,7 +33,7 @@ Para más información, consulta [Cómo funciona la competencia de promociones](
 
 ### Promociones para marketplace
 
-Las tiendas que operan como marketplace VTEX solo pueden configurar [promociones regulares](/es/tracks/promociones--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) para sus productos, tales como:
+Las tiendas que operan como marketplace VTEX solo pueden configurar [promociones regulares](/es/docs/tracks/crear-promocion-regular) para sus productos, tales como:
 
 - Envío gratis
 - Envío porcentual
@@ -44,7 +44,7 @@ Para más información, consulta [Configurar promoción para marketplace](/es/do
 
 ## Logística
 
-Después de configurar los ajustes obligatorios de [Logística](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistc), las cuentas VTEX que tienen una arquitectura [multitienda o multidominio](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multiloja) pueden iniciar una estrategia de ventas para otros países para convertirse en una [tienda internacional (cross-border)](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/5qgXy9Erm7FDP3UB5Ox8Bs). Algunas de las principales ventajas de este tipo de operación son:
+Después de configurar los ajustes obligatorios de [Logística](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistc), las cuentas VTEX que tienen una arquitectura [multitienda o multidominio](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multiloja) pueden iniciar una estrategia de ventas para otros países para convertirse en una [tienda internacional (cross-border)](/es/docs/tracks/tiendas-transfronterizas-cross-border). Algunas de las principales ventajas de este tipo de operación son:
 
 - **Optimización de la capacidad logística total:** la acumulación de experiencia sobre procesos logísticos complejos (importación y exportación) permite la gestión más eficiente de toda la cadena logística (nacional e internacional).
 - **Expansión del negocio:** apertura de nuevos públicos que aumentan el potencial de ventas de las tiendas.
@@ -64,7 +64,7 @@ Las operaciones cross-border deben planificarse tomando en cuenta las siguientes
 
 - **Diferenciales competitivos:** definir la forma en que la empresa podrá ofrecer beneficios a los clientes del nuevo mercado en comparación con los competidores actuales.
 
-Para más información sobre cómo empezar una operación cross-border, ponte en contacto con el CX encargado de la cuenta VTEX o con el [equipo de soporte VTEX](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8).
+Para más información sobre cómo empezar una operación cross-border, ponte en contacto con el CX encargado de la cuenta VTEX o con el [equipo de soporte VTEX](/es/docs/tracks/soporte-vtex).
 
 ## Pedidos
 

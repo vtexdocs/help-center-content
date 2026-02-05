@@ -31,7 +31,7 @@ The following table contains a description of the columns in the SKU binding lis
 
 | **Column** | **Description** |
 | ---------- | ---------- |
-| SKU | A numerical code that identifies the [SKU](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) of the marketplace catalog. |
+| SKU | A numerical code that identifies the [SKU](/en/docs/tracks/adding-skus) of the marketplace catalog. |
 | Seller | [Seller’s](/en/docs/tutorials/adding-a-seller) name and ID in the marketplace. |
 | Seller SKU | An alphanumeric code that identifies the SKU of the seller’s catalog to which the marketplace SKU is bound to. |
 | Status | The status of the binding between the seller’s SKU and the ones from the marketplace may be of two types: <ul><li>**Bound:** There is a connection between the seller’s SKU and the marketplace SKU.</li><li>**Unbound:** There is no connection between the seller’s SKU and the marketplace SKU.</li></ul> If a SKU binding is changed from **Bind** to **Unbind**, then the seller’s SKU will become unavailable in the marketplace catalog. |

@@ -31,7 +31,7 @@ A tabela a seguir apresenta a descrição das colunas da listagem de vínculos d
 
 | **Coluna** | **Descrição** |
 | ---------- | ---------- |
-| SKU | Código numérico que identifica o [SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) do catálogo do marketplace. |
+| SKU | Código numérico que identifica o [SKU](/pt/docs/tracks/cadastrar-sku) do catálogo do marketplace. |
 | Seller | Nome e ID do [seller cadastrado](/pt/docs/tutorials/adicionar-seller) no marketplace. |
 | SKU de seller | Código alfanumérico que identifica o SKU do catálogo do seller com o qual o SKU do marketplace tem um vínculo. |
 | Status | Situação do vínculo entre o SKU do seller e o SKU do marketplace, podendo ser de dois tipos: <ul><li>**Vinculado:** existe uma correspondência entre o SKU do seller e o SKU do marketplace.</li><li>**Desvinculado:** não existe uma correspondência entre o SKU do seller e o SKU do marketplace.</li></ul> Se um vínculo de SKU é alterado de **Vinculado** para **Desvinculado**, o SKU do seller se torna indisponível no catálogo do marketplace. |

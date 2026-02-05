@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6GWaAkVqXQYN79ilMgUsPr
 ---
 
-> ℹ️ The **Affiliates Program** is an app that is only supported by [VTEX IO](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) stores and is not available for stores that use [Legacy Portal CMS](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) or [Headless CMS](https://www.faststore.dev/tutorials/cms/0#vtex-headless-cms). Please visit the Affiliates Program app developer guide to install and configure the app on your VTEX store.
+> ℹ️ The **Affiliates Program** is an app that is only supported by [VTEX IO](/en/docs/tracks/cms-vtex-io) stores and is not available for stores that use [Legacy Portal CMS](/en/docs/tracks/legacy-cms-portal) or [Headless CMS](https://www.faststore.dev/tutorials/cms/0#vtex-headless-cms). Please visit the Affiliates Program app developer guide to install and configure the app on your VTEX store.
 
 In the **Affiliates Program** app, an affiliate is someone who partners with your VTEX store to promote sales in exchange for a commission. The term is, therefore, different from the [usual concept of an affiliate at VTEX](/en/docs/tutorials/what-is-an-affiliate). 
 

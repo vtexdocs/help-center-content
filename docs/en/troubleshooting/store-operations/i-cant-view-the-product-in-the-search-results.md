@@ -21,7 +21,7 @@ tags:
   - Rewriter
 ---
 
-When the user searches in a VTEX store using [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), the desired product may not be found, even if the search term is included in the item's information.
+When the user searches in a VTEX store using [Intelligent Search](/en/docs/tracks/overview-intelligent-search), the desired product may not be found, even if the search term is included in the item's information.
 
 Example scenario: When searching the store's website for products containing the term "Pendleton," the search results return 6 products. However, when we access the VTEX Admin (__Storefront > Intelligent Search > Explained Search__) and enter the same term, 9 products are displayed.
 
@@ -55,7 +55,7 @@ A missing product in a search result may come from incomplete fields during the 
 
 2. Find the product you want and click **Edit product**.
 
-3. In the **Brand** field, confirm if the information is correct. If necessary, add the brand corresponding to the product. You can only add brands that have already been [created in the store](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/7lEGOSpAlQJCs5eUc5XFmR).
+3. In the **Brand** field, confirm if the information is correct. If necessary, add the brand corresponding to the product. You can only add brands that have already been [created in the store](/en/docs/tracks/create-brands).
 
 4. Confirm if the **Show on site** option is checked.
 
@@ -77,7 +77,7 @@ To remove the restriction on searching by *brand* and allow products to be found
 
 1. In the VTEX Admin, go to **Storefront > Intelligent Search > Explained Search** enter the desired term, and see how many products are returned in the search.
 
-2. Configure the [Rewriter](https://developers.vtex.com/docs/apps/vtex.rewriter) app. If this app is not installed in your store, go to the [App Store](/en/tracks/extensions-hub--AW7klkYMh557y5IUOgzco/2LDRvGujYsumxi7IlE7CEJ) and install it.
+2. Configure the [Rewriter](https://developers.vtex.com/docs/apps/vtex.rewriter) app. If this app is not installed in your store, go to the [App Store](/en/docs/tracks/extensions-hub-app-store) and install it.
 
 3. Access the [GraphQL IDE](https://developers.vtex.com/docs/guides/graphql-ide#graphql-basics) in **Store Settings > Storefront > GraphQL IDE**.
 

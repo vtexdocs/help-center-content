@@ -19,11 +19,11 @@ order: 2
 
 ## Franchise accounts and white label sellers
 
-[Franchise accounts](/en/docs/tutorials/what-is-a-franchise-account) are accounts associated with a [main account](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl). Companies with multiple physical stores, franchisees, or multi-brands can create franchise accounts associated with the brand's main account.
+[Franchise accounts](/en/docs/tutorials/what-is-a-franchise-account) are accounts associated with a [main account](/en/docs/tracks/accounts-and-architecture). Companies with multiple physical stores, franchisees, or multi-brands can create franchise accounts associated with the brand's main account.
 
 ![main account](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/unified-commerce_1.png)
 
-This model shares Catalog and [storefront](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) information, allowing the franchise accounts' inventory to be available for sale in the main store. It also supports different unified commerce strategies, such as [ship from store](#ship-from-store), [physical stores as pickup points](#pickup-points), and [endless aisle](/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm).
+This model shares Catalog and [storefront](/en/docs/tracks/frontend-implementation) information, allowing the franchise accounts' inventory to be available for sale in the main store. It also supports different unified commerce strategies, such as [ship from store](#ship-from-store), [physical stores as pickup points](#pickup-points), and [endless aisle](/en/docs/tracks/add-on-products).
 
 Other advantages of working with franchise accounts are listed below:
 
@@ -43,11 +43,11 @@ Other advantages of working with franchise accounts are listed below:
 
 ## Ship from store
 
-Physical stores can act as mini distribution centers by shipping products directly from their warehouse to customers. This type of operation reduces shipping costs and time, improving the company's logistics planning. Learn more in the [Ship From Store](/en/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv/50GAmxxFsJoLWqcnMysWdl) article.
+Physical stores can act as mini distribution centers by shipping products directly from their warehouse to customers. This type of operation reduces shipping costs and time, improving the company's logistics planning. Learn more in the [Ship From Store](/en/docs/tracks/configuring-ship-from-store) article.
 
 ## Pickup points
 
-Configuring physical [pickup points](/en/docs/tutorials/pickup-points) contributes to operations that apply [unified commerce strategies](/en/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3). This approach optimizes the customer's buying experience by centralizing sales and order management, and offering multiple shipping options. On VTEX, you can add the following pickup points:
+Configuring physical [pickup points](/en/docs/tutorials/pickup-points) contributes to operations that apply [unified commerce strategies](/en/docs/tracks/unified-commerce-101). This approach optimizes the customer's buying experience by centralizing sales and order management, and offering multiple shipping options. On VTEX, you can add the following pickup points:
 
 - Distribution center (DC).
 - Proprietary physical store.

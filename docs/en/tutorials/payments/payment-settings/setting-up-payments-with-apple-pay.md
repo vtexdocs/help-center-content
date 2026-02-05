@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Your customers can shop using Apple Pay, the [digital wallet](/en/faq/what-is-an-e-wallet) from Apple. For this, you need to fulfill some requirements:
+Your customers can shop using Apple Pay, the [digital wallet](/en/docs/tutorials/what-is-an-e-wallet) from Apple. For this, you need to fulfill some requirements:
 
 - Have an account in `developer.apple.com`.
 - Hire a gateway that processes payments with Apple Pay.
@@ -39,7 +39,7 @@ To check all the provider options available for this payment method, access the 
 5. In the __Process with provider__ field, select the provider that will be used to process the payments.
 6. If there is an anti-fraud set up in your store, you can activate it for this payment condition by checking the __Use anti-Fraud solutio__ box.
 7. Choose whether you want payments to be made in cash or installments.
-8. If you wish, you can also opt for a [special payment condition](/en/tutorial/special-conditions).
+8. If you wish, you can also opt for a [special payment condition](/en/docs/tutorials/special-conditions).
 9. Click `Save`.
 
 After following the indicated steps, Apple Pay may take up to 10 minutes to appear at your store's checkout as a payment option.

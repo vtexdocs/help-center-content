@@ -43,7 +43,7 @@ Below are the first steps you need to take to start using VTEX Ads, based on you
 
 If you're a brand interested in maximizing your exposure and sales in stores through advertisements:
 
-1. Contact [VTEX Commercial Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) or the publisher you want to advertise with directly.  
+1. Contact [VTEX Commercial Support](/en/docs/tracks/commercial-support) or the publisher you want to advertise with directly.  
 2. Choose from available ad formats like sponsored products or banners. Learn more about the possible formats at [Campaign types](/en/tracks/vtex-ads--4sZoGHUrBNlaPMrtPCqGvA#campaign-types).  
 3. Send the creative content following the publisher's guidelines.  
 4. Track the campaign performance through platform reports and metrics.
@@ -52,7 +52,7 @@ If you're a brand interested in maximizing your exposure and sales in stores thr
 
 If you're a merchant who wants to make advertising space available in your store:
 
-1. Contact [Commercial Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) and request the activation of VTEX Ads in your environment.  
+1. Contact [Commercial Support](/en/docs/tracks/commercial-support) and request the activation of VTEX Ads in your environment.  
 2. Define the available media spaces on your website, such as sponsored product shelves or banners. Learn more about the possible formats at [Campaign types](/en/tracks/vtex-ads--4sZoGHUrBNlaPMrtPCqGvA#campaign-types).  
 3. Define your partner advertisers.  
 4. Monitor campaign results and optimize space usage to maximize media revenue.

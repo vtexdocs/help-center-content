@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-PicPay es una [cartera digital](/es/faq/que-es-una-cartera-digital) que permite la transferencia de valores entre usuarios, incluyendo establecimientos comerciales. Su cliente elige pagar con ella y recibe un código para escanear usando la aplicación para smartphones.
+PicPay es una [cartera digital](/es/docs/tutorials/que-es-una-cartera-digital) que permite la transferencia de valores entre usuarios, incluyendo establecimientos comerciales. Su cliente elige pagar con ella y recibe un código para escanear usando la aplicación para smartphones.
 
 Para configurar PicPay, siga los pasos a continuación:
 
@@ -33,7 +33,7 @@ Para configurar PicPay, siga los pasos a continuación:
 4. Haga clic en el botón __Status__ para activar esta condición de pago.
 5. Si hay un antifraude configurado en su tienda, usted puede activarlo para esta condición de pago marcando la casilla __Usar Antifraude__.
 6. Defina si los pagos van a ser en efectivo o parcelados.
-7. También es posible configurar [condiciones especiales de pago](/es/tutorial/condiciones-especiales).
+7. También es posible configurar [condiciones especiales de pago](/es/docs/tutorials/condiciones-especiales).
 8. Haga clic en __Guardar__.
 
 Después de seguir los pasos indicados arriba, PicPay aparecerá en el checkout de su tienda como una opción de pago. Después de hacer clic en __Finalizar Compra__, un código aparecerá para que el cliente escanee con la aplicación mobile y efectúe el pago.

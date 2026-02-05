@@ -20,7 +20,7 @@ La logística o fulfillment es el proceso de planificación y ejecución del tra
 
 VTEX te permite registrar e controlar el _stock_, gestionar las tarifas de envío, controlar la disponibilidad de los ítems y hacer el seguimiento de las entregas. 
 
-> ℹ️ Si tu tienda no ha dado los primeros pasos en el módulo de **Envío**, consulta el artículo [Logística: primeros pasos](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/6Y8C1JuPtO5E61Ew91tq1a). Consulta el artículo [Glosario de logística](/es/docs/tutorials/glosario-de-logistica) para consultar el significado de los términos logísticos utilizados en VTEX. Las configuraciones logísticas disponibles mediante [API](https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview).
+> ℹ️ Si tu tienda no ha dado los primeros pasos en el módulo de **Envío**, consulta el artículo [Logística: primeros pasos](/es/docs/tracks/logistica-primeros-pasos). Consulta el artículo [Glosario de logística](/es/docs/tutorials/glosario-de-logistica) para consultar el significado de los términos logísticos utilizados en VTEX. Las configuraciones logísticas disponibles mediante [API](https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview).
 
 Para saber qué configuraciones logísticas son necesarias y cómo realizarlas, primero hay que entender los pasos del flujo de compra de un producto:
 
@@ -33,9 +33,9 @@ Para saber qué configuraciones logísticas son necesarias y cómo realizarlas, 
 
     Una vez finalizado el pedido, se [autoriza la reserva](/es/tutorial/como-se-maneja-la-reserva--tutorials_92#reserva-autorizada) de los productos. Así, la plataforma se asegura de que los ítems no puedan volver a venderse. 
 
-4. Cuando se confirma el [pago](/es/tracks/pagos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB), también [se confirma la reserva](/es/tutorial/como-se-maneja-la-reserva--tutorials_92#reserva-confirmada).
+4. Cuando se confirma el [pago](/es/docs/tracks/como-funciona-el-modulo-de-pagos), también [se confirma la reserva](/es/tutorial/como-se-maneja-la-reserva--tutorials_92#reserva-confirmada).
 5. Tras la confirmación del pago y el vencimiento del [periodo de carencia para la cancelación](/es/docs/tutorials/configurar-el-tiempo-de-espera-para-cancelar-el-pedido), la plataforma espera a que el administrador de la tienda prepare los ítems. Cuando el administrador de la tienda[ inicia la preparación del pedido,](/es/docs/tutorials/enviar-pedido-al-status-a-preparar-la-entrega) indica a la plataforma que se están preparando los ítems del pedido y sus facturas. A partir de esta etapa se [reconoce la reserva](/es/tutorial/como-se-maneja-la-reserva--tutorials_92#reserva-reconocida).
-6. La tienda incluye la [factura](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT) del pedido en la plataforma.  
+6. La tienda incluye la [factura](/es/docs/tracks/facturar-un-pedido) del pedido en la plataforma.  
 7. Se inicia el proceso de envío:
     * En el caso de los pedidos que se envían a la dirección del cliente (entrega), la tienda envía los paquetes al [muelle](/es/docs/tutorials/muelles) donde la [transportadora](/es/docs/tutorials/transportadoras-en-vtex) debe recogerlos. La transportadora (elegida mediante las [políticas de envío](/es/docs/tutorials/politica-de-envio)) entrega el pedido.
     * En el caso de los pedidos que se envían a los [puntos de recogida](/es/docs/tutorials/puntos-de-recogida) (recogida), la tienda debe dejar los paquetes disponibles para que el cliente los recoja. Para ello, los paquetes se sacan del [almacén](/es/docs/tutorials/almacen) y se transportan al punto de recogida. El transporte desde el muelle hasta el punto de recogida se define por una[ política de envío](/es/docs/tutorials/politica-de-envio).

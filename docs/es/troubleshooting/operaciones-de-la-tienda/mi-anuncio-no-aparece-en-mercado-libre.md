@@ -30,7 +30,7 @@ Otro caso es cuando la cantidad del producto cae por debajo del [stock mínimo](
 Hay dos posibles soluciones para resolver este problema: [verificar la política comercial del producto](#verificar-la-politica-comercial-del-producto) y [verificar la configuración del stock mínimo](#verificar-el-stock-minimo).
 ### Verificar la política comercial
 
-La [política comercial](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/15NZiQstCET8zyQUIa7nhw) establece la configuración que se aplica a los productos enviados a Mercado Libre.
+La [política comercial](/es/docs/tracks/configurar-politica-comercial-para-mercado-libre) establece la configuración que se aplica a los productos enviados a Mercado Libre.
 
 Para comprobar que la política comercial esté configurada correctamente en el producto, accede a Catálogo > Todos los productos en el Admin VTEX o escribe Todos los productos en la barra de búsqueda en la parte superior de la página. Luego sigue los pasos a continuación:
 

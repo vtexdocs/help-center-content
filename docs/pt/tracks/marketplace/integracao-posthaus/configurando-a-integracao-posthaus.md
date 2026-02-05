@@ -21,7 +21,7 @@ O primeiro passo para integrar da sua loja VTEX à Posthaus é ter as credenciai
 
 > ❗ Para obter as suas credenciais e iniciar a integração, entre em contato por meio do time de [suporte da VTEX](https://supporticket.vtex.com/support). 
 
-Após solicitar as credenciais, o seller pode seguir com a [Deﬁnição da política comercial na Posthaus](#definicao-da-politica-comercial-na-posthaus) VTEX e configuração da [Regra de divergência](/pt/tracks/integracao-posthaus--eipXIoOCKRgTDkg1Z1C4a/1OrzYEI4OZajAwUXPzmtlE).  
+Após solicitar as credenciais, o seller pode seguir com a [Deﬁnição da política comercial na Posthaus](#definicao-da-politica-comercial-na-posthaus) VTEX e configuração da [Regra de divergência](/pt/docs/tracks/configurar-regra-de-divergencia-de-valores-posthaus).  
 
 Durante o processo de conﬁguração na plataforma VTEX, tenha sempre em mãos as credenciais fornecidas pela Posthaus. O [AppKey e AppToken](https://developers.vtex.com/docs/guides/authentication) são imprescindíveis para a integração.  
 

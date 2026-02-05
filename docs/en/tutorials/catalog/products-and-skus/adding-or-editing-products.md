@@ -55,7 +55,7 @@ The fields in this section provide general product details:
   > ℹ️ This field allows you to add an image to the product description using an HTML tag that contains the image URL. However, we recommend managing your catalog images through [SKU media](/en/tutorial/adding-or-editing-skus--4ryZ6J45kwn3jDiQBxGiiN#media).
 
 * **Additional description:** When you activate the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i> **Additional description**, a text box displays for including additional product information, such as a summary.
-* **Brand*:** Type or search for the product [brand](/en/docs/tutorials/what-is-a-brand) name and select the desired option. Make sure the [brand exists](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7lEGOSpAlQJCs5eUc5XFmR) and is active.
+* **Brand*:** Type or search for the product [brand](/en/docs/tutorials/what-is-a-brand) name and select the desired option. Make sure the [brand exists](/en/docs/tracks/create-brands) and is active.
 * **Category*:** Type or search for the product [category](/en/docs/tutorials/what-is-a-category) name and select the desired option, preferably the most specific category level. Make sure the [category exists](/en/docs/tutorials/registering-a-category) and is active.
 * **Trade policies:** Choose whether the product should be linked to "All [trade policies](/en/docs/tutorials/how-trade-policies-work)" or "Specific trade policies". The second option is selected by default, but you must assign one or more values to the field.
 

@@ -41,7 +41,7 @@ Para obter bons resultados com as suas imagens e solucionar possíveis problemas
 
 ## Saiba mais
 
-- [Cadastrar Producto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL)
-- [Cadastrar SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ)
+- [Cadastrar Producto](/pt/docs/tracks/cadastrar-produto)
+- [Cadastrar SKU](/pt/docs/tracks/cadastrar-sku)
 - [Importar imagens por planilha](/pt/docs/tutorials/importando-imagens-por-planilha)
 

@@ -41,4 +41,4 @@ La nueva interfaz ya está disponible para toda nuestra base de clientes que uti
 
 Todos los clientes que utilizaban la plantilla de mapeo para enviar sus productos ya no tendrán que utilizarla, y la plantilla se descontinuará a finales de noviembre de 2021. Los productos que ya se han mapeado mediante la plantilla seguirán anunciándose en Mercado Libre. Solo los nuevos productos que se envíen tendrán que mapearse utilizando la nueva interfaz. 
 
-Para saber más sobre cómo utilizar la nueva interfaz, lee el artículo [Enviar productos a Mercado Libre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).
+Para saber más sobre cómo utilizar la nueva interfaz, lee el artículo [Enviar productos a Mercado Libre](/es/docs/tracks/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper).

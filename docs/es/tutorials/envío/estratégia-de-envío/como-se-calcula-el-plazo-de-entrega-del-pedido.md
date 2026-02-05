@@ -33,4 +33,4 @@ Para configurar una política de envío, almacén o muelle, acceda a su Admin VT
 ### Sepa más
 
 - [Simulador de envío](/es/docs/tutorials/simulador-de-envio)
-- [Verificar como el plazo de entrega de una solicitud fue calculado](/es/tutorial/comprobar-como-se-calculo-el-plazo-de-entrega-de-un-pedido).
+- [Verificar como el plazo de entrega de una solicitud fue calculado](/es/docs/tutorials/comprobar-como-se-calculo-el-plazo-de-entrega-de-un-pedido).

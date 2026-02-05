@@ -37,7 +37,7 @@ This is another step for providing a completely centralized management experienc
 
 The new interface is already available in the VTEX Admin for all our customer base that use the Mercado Libre connector for offering their products. To access it, click **MARKETPLACE > Integrations > Settings** and, on the Mercado Libre box, click `Map`.
 
-To learn more about how to use the new interface, check the article [Sending products to Mercado Libre](/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).
+To learn more about how to use the new interface, check the article [Sending products to Mercado Libre](/en/docs/tracks/mapping-product-categories-and-attributes-to-mercado-libre).
 
 This page follows VTEX's new Design System, which has a cleaner, more modern, user-friendly look and feel. To access more pages with this experience and have an improved Admin with actionable data, [join](https://content.vtex.com/join-new-admin-beta-program-en/?utm_source=announcement&utm_medium=display&utm_campaign=meli_tabelamedidas) the [New VTEX Admin](/en/v4) Beta program.
 

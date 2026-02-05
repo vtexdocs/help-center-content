@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-getting-started
 order: 4
 ---
 
-Once your event is [configured on Bundle](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX) or an external studio and before transmitting it, place the **Live Shopping** component on your site, whether on the store homepage or a [landing page](/en/docs/tutorials/live-shopping-configuring-a-landing-page-for-live-shopping-events). The configuration steps vary depending on your store frontend solution:
+Once your event is [configured on Bundle](/en/docs/tracks/using-bundle-studio) or an external studio and before transmitting it, place the **Live Shopping** component on your site, whether on the store homepage or a [landing page](/en/docs/tutorials/live-shopping-configuring-a-landing-page-for-live-shopping-events). The configuration steps vary depending on your store frontend solution:
 
 * [Store Framework (VTEX IO)](#store-framework-vtex-io)
 * [Legacy CMS Portal](#legacy-cms-portal)
@@ -36,10 +36,10 @@ For stores using [Store Framework](/en/tracks/vtex-store-overview--eSDNk26pdvemF
 
 ## Legacy CMS Portal
 
-For stores using [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), follow the steps below to place the **Live Shopping** component: 
+For stores using [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal), follow the steps below to place the **Live Shopping** component: 
 
-1. In the **Event Information** page of the [created event](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv), click the arrow icon.
-2. After [turning on the event](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq), go to the **CMS Configuration** section.
+1. In the **Event Information** page of the [created event](/en/docs/tracks/creating-event), click the arrow icon.
+2. After [turning on the event](/en/docs/tracks/turning-on-event), go to the **CMS Configuration** section.
 3. In **Script for template**, select `CMS template`.
 4. Copy the code in **Script for template**.
 
@@ -53,7 +53,7 @@ For stores using [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN4
 
 For stores using [Headless CMS](/en/docs/tutorials/headless-cms-overview), follow the steps below to place the **Live Shopping** component: 
 
-1. In the **Event Information** page of the [created event](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv), click the arrow icon.
+1. In the **Event Information** page of the [created event](/en/docs/tracks/creating-event), click the arrow icon.
 2. Go to the **CMS Configuration** section.
 3. In **Script for template**, select `External template`.
 4. Copy the code in **Script for template**.

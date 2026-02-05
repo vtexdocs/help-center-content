@@ -81,7 +81,7 @@ Después de crear el tipo de lista, usted será dirigido a la pantalla donde apa
 
 - **Exportar a Excel**: Permite exportar los datos de tipos de listas para Excel.
 - **Versión**:Identificación de listas creadas en la versión antigua de la funcionalidad, con limitaciones. La versión más actual es la “v2”.
-- **Entrega**: Identifica dónde se entregará el producto: Al dueño de la lista, al comprador o [si el valor de la compra será revertido en Vale para el dueño de la lista](/es/tutorial/configurando-lista-vale).
+- **Entrega**: Identifica dónde se entregará el producto: Al dueño de la lista, al comprador o [si el valor de la compra será revertido en Vale para el dueño de la lista](/es/docs/tutorials/configurando-lista-vale).
 - **Visibilidad**:Identifica la visibilidad configurada.
 - **Única**: Indica se es posible crear más de una lista del mismo tipo.
 - **Participantes**: Exhibe los límites máximo y mínimo configurados para la lista.

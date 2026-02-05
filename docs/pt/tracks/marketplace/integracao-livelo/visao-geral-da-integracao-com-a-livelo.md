@@ -28,5 +28,5 @@ Para realizar a conﬁguração entre VTEX e Livelo, é necessário concluir as 
 
 - [Credenciais Livelo  ](/pt/tracks/integracao-livelo--4ZSHEiuTkh8HR9ubJQj8BP/HgIbZEzbPr8FQid5MXURQ#credenciais-livelo)
 - [Configurações na plataforma VTEX](/pt/tracks/integracao-livelo--4ZSHEiuTkh8HR9ubJQj8BP/HgIbZEzbPr8FQid5MXURQ#conguracoes-na-plataforma-vtex)  
-- [Cadastro da integração Livelo](/pt/tracks/integracao-livelo--4ZSHEiuTkh8HR9ubJQj8BP/2h9cAUiAZONxc5xbqeRjvu)  
+- [Cadastro da integração Livelo](/pt/docs/tracks/cadastro-da-integracao-livelo)  
 

@@ -22,7 +22,7 @@ A página conta com uma lista dos SKUs enviados pelos sellers para o marketplace
 ## O que mudou?
 Até então, para conferir as informações de um SKU recebido era preciso acessar sua página de detalhes saindo da listagem principal do módulo. Agora, ao clicar em qualquer SKU da lista, você acessa um resumo das principais informações do SKU por meio de uma barra lateral, sem sair da página de listagem.
 
-A barra contém  imagens do SKU, preço, nível de estoque, além de outros atributos do produto, como descrição, especificações, códigos e IDs. Também inclui a porcentagem de equivalência que o SKU recebeu pelo [matcher](/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher) instalado em sua loja. Ainda é possível acessar a página completa de detalhes do SKU, clicando no botão *Ver página de detalhes*. 
+A barra contém  imagens do SKU, preço, nível de estoque, além de outros atributos do produto, como descrição, especificações, códigos e IDs. Também inclui a porcentagem de equivalência que o SKU recebeu pelo [matcher](/pt/docs/tutorials/entendendo-a-pontuacao-do-vtex-matcher) instalado em sua loja. Ainda é possível acessar a página completa de detalhes do SKU, clicando no botão *Ver página de detalhes*. 
 
 ![Sidebar received](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/maio/2021-05-03-marketplace-nova-barra-lateral-com-detalhes-de-skus-recebidos_1.gif)
 

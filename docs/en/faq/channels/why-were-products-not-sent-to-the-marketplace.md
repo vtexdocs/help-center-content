@@ -18,7 +18,7 @@ Products are sent to the marketplace by means of two major processes: the proces
 
 ## Check the Integrations
 
-Integrations are the first place you should check if there is a problem. [Access it and check the integration status of each product](/en/tutorial/checking-integrations-in-bridge).
+Integrations are the first place you should check if there is a problem. [Access it and check the integration status of each product](/en/docs/tutorials/checking-integrations-in-bridge).
 
 If a product is not registered, it may mean that it was not configured correctly, and so you must [revalidate the marketplace configurations](/en/tutorial/integrating-with-marketplace/).
 
@@ -40,4 +40,4 @@ Normally this is a manual process, and it varies from marketplace to marketplace
 
 ## How to solve it
 
-For all these problems, the recommended solution is to [reprocess the product through Integrations](/en/tutorial/checking-integrations-in-bridge).
+For all these problems, the recommended solution is to [reprocess the product through Integrations](/en/docs/tutorials/checking-integrations-in-bridge).

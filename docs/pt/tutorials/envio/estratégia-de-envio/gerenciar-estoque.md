@@ -51,7 +51,7 @@ Este artigo contém as informações necessárias para:
     * Depois de selecionada a doca, preencha o campo **Dias e horas de processamento.** Neste campo você deve configurar o tempo de manuseio do pedido (em dias e horas) para transportá-lo do estoque à doca. O campo deve ser preenchido com o número de dias clicando em <i class="fas fa-minus"></i> e <i class="fas fa-plus"></i> e a quantidade de horas pelo campo <i class="far fa-clock"></i>.  
     * Preencha a **Tarifa adicional** caso tenha algum custo adicional de preparação dos pedidos do estoque à doca.
     * Clique em `Salvar Alterações.`
-* **Estoque inStore**: marque  <i class="fas fa-toggle-on"></i> para `Ativo` para vincular o estoque a uma loja física que possui inStore. Para que os [pontos de retirada](/pt/docs/tutorials/cadastro-de-pontos-de-retirada) fiquem disponíveis para associação, eles precisam estar previamente cadastrados. Para saber mais como utilizar essa funcionalidade, consulte o artigo [Lojas físicas como pontos de retirada](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/4hXfgqXxS1lwAfnxgja3xW)
+* **Estoque inStore**: marque  <i class="fas fa-toggle-on"></i> para `Ativo` para vincular o estoque a uma loja física que possui inStore. Para que os [pontos de retirada](/pt/docs/tutorials/cadastro-de-pontos-de-retirada) fiquem disponíveis para associação, eles precisam estar previamente cadastrados. Para saber mais como utilizar essa funcionalidade, consulte o artigo [Lojas físicas como pontos de retirada](/pt/docs/tracks/configurar-lojas-fisicas-como-pontos-de-retirada)
 
 ## Editar estoque
 
@@ -71,4 +71,4 @@ Este artigo contém as informações necessárias para:
 3. No card do estoque desejado, selecione o <i class="fas fa-ellipsis-v"></i>.
 4. Selecione a opção `Deletar`.  
 
-> ⚠️ Para adicionar itens ao estoque, é preciso cadastrar os itens primeiramente no catálogo. Depois de cadastrar os itens pelo [catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR), e ter um estoque cadastrado, você deve associar os itens ao seu respectivo estoque pelo [gerenciamento de inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque).
+> ⚠️ Para adicionar itens ao estoque, é preciso cadastrar os itens primeiramente no catálogo. Depois de cadastrar os itens pelo [catálogo](/pt/docs/tracks/arquitetura-do-catalogo), e ter um estoque cadastrado, você deve associar os itens ao seu respectivo estoque pelo [gerenciamento de inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque).

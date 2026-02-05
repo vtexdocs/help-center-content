@@ -25,7 +25,7 @@ Para acessar esse recurso, clique em __Configurações da Loja__ no menu de nave
 Veja abaixo mais detalhes sobre as diferentes seções e páginas deste menu.
 
 ## Pagamentos
-Na página de Pagamentos, você pode configurar condições de pagamento, pagamentos personalizados, afiliações de gateway e notificações. Saiba mais sobre as ações que você pode realizar nessa [página](/pt/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG/7pAEMAo4iqNHwYOarZ3zgm), que em breve será incluída no Admin v4.
+Na página de Pagamentos, você pode configurar condições de pagamento, pagamentos personalizados, afiliações de gateway e notificações. Saiba mais sobre as ações que você pode realizar nessa [página](/pt/docs/tracks/configurar-um-conector-de-pagamentos), que em breve será incluída no Admin v4.
 
 ## Pedidos
 Na seção de Pedidos, você pode definir as configurações gerais de pedidos, afiliados, autorização de pedidos e métodos de pagamento para assinaturas. Ela inclui as páginas abaixo, que em breve serão incluídas no Admin v4.

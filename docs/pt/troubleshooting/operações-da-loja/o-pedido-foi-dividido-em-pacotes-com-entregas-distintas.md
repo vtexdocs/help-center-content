@@ -34,7 +34,7 @@ A data de entrega de cada pacote é alterada de acordo com o valor do `shippingE
 
 ## Solução
 
-Para evitar uma divisão de pacotes em pedidos que incluam produtos de pré-venda, você pode configurar o [agrupamento de produtos por remessa](/pt/tutorial/como-funciona-a-remessa). Desta forma, é possível agrupar em um único conjunto todos os pacotes a serem entregues pela mesma transportadora e provenientes da mesma [doca](/pt/docs/tutorials/doca).
+Para evitar uma divisão de pacotes em pedidos que incluam produtos de pré-venda, você pode configurar o [agrupamento de produtos por remessa](/pt/docs/tutorials/como-funciona-a-remessa). Desta forma, é possível agrupar em um único conjunto todos os pacotes a serem entregues pela mesma transportadora e provenientes da mesma [doca](/pt/docs/tutorials/doca).
 
 > ❗ Ao configurar o agrupamento da remessa, esse comportamento será aplicado a todos os pedidos com datas de entrega distintas e não somente aos casos envolvendo produtos de pré-venda.
 
@@ -43,6 +43,6 @@ Para evitar uma divisão de pacotes em pedidos que incluam produtos de pré-vend
 Para configurar a remessa na sua loja, siga os passos abaixo: 
 
 1. No Admin VTEX, acesse **Configurações da loja > Envio > Configurações**, ou digite **Envio** na barra de busca no topo da página e selecione **Configurações da loja / Envio**.
-2. Na página **Configurações gerais**, na seção **Agrupar produtos na mesma remessa**, preencha o campo _Criar grupos de remessa com intervalos de {X} dia(s)_ com o número de dias que deseja definir para a [remessa](/pt/tutorial/como-funciona-a-remessa).
+2. Na página **Configurações gerais**, na seção **Agrupar produtos na mesma remessa**, preencha o campo _Criar grupos de remessa com intervalos de {X} dia(s)_ com o número de dias que deseja definir para a [remessa](/pt/docs/tutorials/como-funciona-a-remessa).
 3. Clique em **Salvar**.
 

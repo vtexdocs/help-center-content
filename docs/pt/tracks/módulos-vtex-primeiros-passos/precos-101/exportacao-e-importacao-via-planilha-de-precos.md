@@ -34,8 +34,8 @@ Para exportar a planilha de preços, siga os passos a seguir:
 2. Na parte superior da tela, clique no ícone de exportação <i class="fas fa-download"></i>.
 > Uma barra lateral irá aparecer.
 3. No campo **Selecione a planilha que deseja exportar**, você deverá escolher uma planilha dentre as seguintes opções:
-   - **Tabela de preços-base (padrão):** o [preço base](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) é o preço de referência de um SKU para todas as tabelas de preço.
-   - **Tabela de preços fixos:** o [preço fixo](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy) sobrepõe o preço base mesmo com a regra de preço configurado.
+   - **Tabela de preços-base (padrão):** o [preço base](/pt/docs/tracks/preco-base-definicao-de-conceito) é o preço de referência de um SKU para todas as tabelas de preço.
+   - **Tabela de preços fixos:** o [preço fixo](/pt/docs/tracks/preco-fixo-definicao-de-conceito) sobrepõe o preço base mesmo com a regra de preço configurado.
    - **Tabela de preços calculados:** o preço final que será exibido na loja, esse preço não reflete promoções.
 4. Clique no botão `Exportar tabela`.
 > Em seguida, a tabela de preço selecionada abrirá na interface.

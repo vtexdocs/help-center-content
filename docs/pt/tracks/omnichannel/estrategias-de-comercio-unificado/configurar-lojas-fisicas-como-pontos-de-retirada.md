@@ -23,7 +23,7 @@ Fica a critério do cliente decidir se deseja que o pedido seja entregue em casa
 
 ## Pré-requisitos - VTEX Sales App
 
-Verifique os requisitos que sua loja precisa garantir para iniciar a implementação de lojas físicas como pontos de retirada para pedidos realizados no [VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf). Para isso, confira o artigo [Pré-requisitos para usar o VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u).
+Verifique os requisitos que sua loja precisa garantir para iniciar a implementação de lojas físicas como pontos de retirada para pedidos realizados no [VTEX Sales App](/pt/docs/tracks/o-que-e-o-vtex-sales-app). Para isso, confira o artigo [Pré-requisitos para usar o VTEX Sales App](/pt/docs/tracks/pre-requisitos-para-usar-o-vtex-sales-app).
 
 ## Configurar lojas físicas como pontos de retirada
 
@@ -33,7 +33,7 @@ Portanto, em cada conta franquia que servirá como ponto de retirada, é necess�
 
 ### Criar contas franquia
 
-Para mais informações sobre criação de contas franquia, leia nosso artigo [Criar contas franquias](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/eujH0id9Y4WJjjmdazUKd).
+Para mais informações sobre criação de contas franquia, leia nosso artigo [Criar contas franquias](/pt/docs/tracks/criar-contas-franquias).
 
 ### Criar pontos de retirada
 

@@ -426,7 +426,7 @@ Vulnerability checks are continually run. Each check has to be run again until i
 
 #### Could product customizations or configurations made by clients introduce security vulnerabilities to the platform? If yes, how would such an event be handled?
 
-Merchants and any implementation agency hired by them can create customizations within their own environment. If a vulnerability is detected in the VTEX system, our security and development team will quickly take action to address the issue. Due to the customizable nature of the platform, the merchant and the implementation agency are responsible for handling vulnerabilities that may arise from customizations during development. For more information, check[ Responsibilities within the VTEX ecosystem](/en/tutorial/responsibilities-within-the-vtex-ecosystem#implementation-agencies).
+Merchants and any implementation agency hired by them can create customizations within their own environment. If a vulnerability is detected in the VTEX system, our security and development team will quickly take action to address the issue. Due to the customizable nature of the platform, the merchant and the implementation agency are responsible for handling vulnerabilities that may arise from customizations during development. For more information, check[ Responsibilities within the VTEX ecosystem](/en/docs/tutorials/responsibilities-within-the-vtex-ecosystem#implementation-agencies).
 
 ### Incident response and mitigation
 

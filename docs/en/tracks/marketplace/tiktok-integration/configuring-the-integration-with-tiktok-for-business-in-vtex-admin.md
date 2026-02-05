@@ -98,7 +98,7 @@ On the **Set Up TikTok for Business page**, as illustrated below, please follow 
 10. In the **Catalog** section, edit the name of the new catalog to be created in the [TikTok Catalog Manager](https://ads.tiktok.com/help/article?aid=10001005) as desired and click `Create New`. The products associated with the trade policy informed in the [form](#1-completing-the-integration-configuration-form) will be added to this catalog onc TikTok.
 11. Click `Finish Setup`.
 
-When you complete this setting, you will be redirected back to **Marketplace > TikTok** in the VTEX Admin, where you can [manage the integration](/en/tracks/tiktok-integration--1r0yJSO11nrer1YVu3WTFd/24SfBYkRkKMaetgjLDKgaP). For some versions of the VTEX Admin, you can access the page in **Apps > My apps > TikTok**. After the configuration has been successfully completed, any user logged into the VTEX Admin can access the TikTok management area. 
+When you complete this setting, you will be redirected back to **Marketplace > TikTok** in the VTEX Admin, where you can [manage the integration](/en/docs/tracks/managing-the-integration-with-tiktok-for-business-in-vtex-admin). For some versions of the VTEX Admin, you can access the page in **Apps > My apps > TikTok**. After the configuration has been successfully completed, any user logged into the VTEX Admin can access the TikTok management area. 
 
 ### Sending product data to TikTok
 
@@ -118,4 +118,4 @@ Once the integration is configured, sending products to TikTok will be an automa
 * Price (in BRL)
 * Images
 
-For products to be synced, all of the above information must be completed. Updates to product listings made in the VTEX environment, via [API](https://developers.vtex.com/vtex-rest-api/reference/catalog-api-overview) or [Admin](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL), are automatically replicated on TikTok.
+For products to be synced, all of the above information must be completed. Updates to product listings made in the VTEX environment, via [API](https://developers.vtex.com/vtex-rest-api/reference/catalog-api-overview) or [Admin](/en/docs/tracks/adding-products), are automatically replicated on TikTok.

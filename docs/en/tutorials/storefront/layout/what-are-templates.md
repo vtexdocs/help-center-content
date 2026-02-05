@@ -19,7 +19,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 This functionality is available for stores using the Legacy Portal technology.
 </div>
 
-Templates are the files that contain the code of the pages of your web site. They are responsible, among other things, for determining how the information will appear on the screen (including the position of the [placeholders](/en/tutorial/what-are-placeholders)).
+Templates are the files that contain the code of the pages of your web site. They are responsible, among other things, for determining how the information will appear on the screen (including the position of the [placeholders](/en/docs/tutorials/what-are-placeholders)).
 
 In VTEX platform, templates are divided into two types:
 
@@ -36,8 +36,8 @@ And speaking of organization, you will find all templates in **Storefront > Layo
 
 ### Related articles
 - [What is CMS?](/en/tutorial/what-is-cms)
-- [What is a web site?](/en/tutorial/what-is-a-web-site)
-- [What are placeholders?](/en/tutorial/what-are-placeholders)
-- [What are layouts?](/en/tutorial/what-are-layouts)
-- [What are shelves?](/en/tutorial/what-are-shelves)
+- [What is a web site?](/en/docs/tutorials/what-is-a-web-site)
+- [What are placeholders?](/en/docs/tutorials/what-are-placeholders)
+- [What are layouts?](/en/docs/tutorials/what-are-layouts)
+- [What are shelves?](/en/docs/tutorials/what-are-shelves)
 - [Creating a page template](/en/tutorial/creating-a-page-template)

@@ -17,7 +17,7 @@ subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 
 The [Order Details](/en/docs/tutorials/order-details-page) page gathers the data of a particular order and allows the retailer to follow the detailed order flow. 
 
-It is also on this page that the store can manually add and check the [order invoice](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT). You can also send a [partial invoice](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) when there is a change in the order's cost, items, or when items are returned.
+It is also on this page that the store can manually add and check the [order invoice](/en/docs/tracks/invoicing-an-order). You can also send a [partial invoice](/en/docs/tracks/partial-invoices) when there is a change in the order's cost, items, or when items are returned.
 
 To invoice the order on the VTEX platform, you need to add the items' invoice to the **Orders** module. You must invoice the order so that the invoice is available to the customer and the [order flow](/en/docs/tutorials/order-flow-and-status) is complete. The invoice can be sent:
 
@@ -64,6 +64,6 @@ After the order is `Invoiced`, go to the **Invoice** section to check the invoic
 
 ![FaturaEN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/how-to-manually-invoice-an-order_2.png)
 
-For [partial invoices](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), when [changing or removing items from an order](/en/tutorial/how-to-change-order-items--7jekq618QxgbsOxKkXBjE8), the order total will be updated after invoicing and will correspond to what is settled by the VTEX payment gateway.
+For [partial invoices](/en/docs/tracks/partial-invoices), when [changing or removing items from an order](/en/tutorial/how-to-change-order-items--7jekq618QxgbsOxKkXBjE8), the order total will be updated after invoicing and will correspond to what is settled by the VTEX payment gateway.
 
-Orders with [partial invoices](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](/en/docs/tutorials/canceling-orders). If the customer wants to replace or remove items from the order, it is possible to [change the order](/en/docs/tutorials/changing-items-from-a-complete-order).
+Orders with [partial invoices](/en/docs/tracks/partial-invoices) cannot be [canceled](/en/docs/tutorials/canceling-orders). If the customer wants to replace or remove items from the order, it is possible to [change the order](/en/docs/tutorials/changing-items-from-a-complete-order).

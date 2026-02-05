@@ -30,7 +30,7 @@ This tutorial contains the necessary information to install and configure the ap
 
 Before installing the app:
 
-- Make sure you have an [Amazon seller](https://sell.amazon.com/) account. Please refer to the article [Amazon account configuration](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/43L0dpbjLBz6tcim1BbTzf) to learn more about required account settings.
+- Make sure you have an [Amazon seller](https://sell.amazon.com/) account. Please refer to the article [Amazon account configuration](/en/docs/tracks/amazon-account-settings) to learn more about required account settings.
 - Verify if the products in your store meet [Amazon's restriction policies](https://sellercentral.amazon.com/gp/help/external/200164330)
 - Ensure that your store is located in one of the countries where MCF is available. Amazon MCF is available in some countries, such as the United States, Australia, Mexico, Germany and Canada. Check out the updated list of countries where MCF is available on [Amazon's page](https://sell.amazon.com/fulfillment-by-amazon/fba-multi-channel).
 
@@ -103,7 +103,7 @@ To install the app, go to the VTEX App Store:
 
 For items registered in one platform to be available in both, it is necessary to integrate the catalogs via marketplace.
 
-To integrate the platforms, please refer to and follow the steps in the tutorial [Configuring the Amazon integration](/en/tracks/amazon-integration-setup--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan).
+To integrate the platforms, please refer to and follow the steps in the tutorial [Configuring the Amazon integration](/en/docs/tracks/configuring-the-amazon-integration).
 
 ### Authorizing the integration
 

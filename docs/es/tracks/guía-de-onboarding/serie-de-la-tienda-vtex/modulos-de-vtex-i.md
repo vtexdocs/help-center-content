@@ -22,11 +22,11 @@ La plataforma VTEX se compone de diferentes módulos, cada uno responsable de un
 - [Promociones](#promociones)
 - [Logística](#logistica)
 
-> ℹ️ El artículo [Módulos de VTEX II](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ) presenta los módulos [Pagos](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#pagos), [Pedidos](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#pedidos), y [Checkout](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#checkout).
+> ℹ️ El artículo [Módulos de VTEX II](/es/docs/tracks/modulos-de-vtex-ii) presenta los módulos [Pagos](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#pagos), [Pedidos](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#pedidos), y [Checkout](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#checkout).
 
 ## Catálogo
 
-[Catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR) es el módulo de VTEX mediante el cual los retailers configuran sus productos, poniéndolos a disposición en el sitio web de la tienda. La estructura del catálogo define la experiencia de compra del cliente en la tienda online, cuando este navega por las categorías de clasificación de los productos. En la guía [Catalog](https://developers.vtex.com/docs/guides/catalog-overview), los desarrolladores pueden consultar una [visión general del módulo Catálogo](/es/docs/tutorials/catalogo-vision-general) que abarca la [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api).
+[Catálogo](/es/docs/tracks/catalogo-definicion-de-concepto) es el módulo de VTEX mediante el cual los retailers configuran sus productos, poniéndolos a disposición en el sitio web de la tienda. La estructura del catálogo define la experiencia de compra del cliente en la tienda online, cuando este navega por las categorías de clasificación de los productos. En la guía [Catalog](https://developers.vtex.com/docs/guides/catalog-overview), los desarrolladores pueden consultar una [visión general del módulo Catálogo](/es/docs/tutorials/catalogo-vision-general) que abarca la [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api).
 
 ### Antes de comenzar en Catálogo
 
@@ -54,15 +54,15 @@ La siguiente tabla muestra los principales ajustes de Catálogo para la tienda, 
 | **Tema** | **Configuración en el Admin VTEX** | **Configuración por API** |
 | :--- | :--- | :--- |
 | 1. [Árbol de categorias](/es/tutorial/catalog-overview--77M8ItLhDXs6aBdQTqToVe#categorias) | [Registrar categoría](/es/docs/tutorials/registrar-categoria) | - [Categories](https://developers.vtex.com/docs/guides/categories) <br> - [Create Category](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/category) |
-| 2. [Marcas](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh) | [Registrar marcas](/es/docs/tutorials/registrando-marcas) | - [Brands](https://developers.vtex.com/docs/guides/brands) <br> - [Create Brand](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/brand) |
+| 2. [Marcas](/es/docs/tracks/marcas-definicion-de-concepto) | [Registrar marcas](/es/docs/tutorials/registrando-marcas) | - [Brands](https://developers.vtex.com/docs/guides/brands) <br> - [Create Brand](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/brand) |
 | 3.1. [Especificaciones de producto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacion-de-producto) | [Registrar especificaciones o campos de producto](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto) | - [Product specifications](https://developers.vtex.com/docs/guides/product-specifications) <br> - [Create Specification](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/specification) |
 | 3.2. [Especificaciones de SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacion-de-sku) | [Registrar especificaciones o campos de SKU](/es/docs/tutorials/registrar-especificaciones-o-campos-de-sku) | - [SKU specifications](https://developers.vtex.com/docs/guides/sku-specifications) <br> - [Create Specification](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/specification) |
-| 4. [Productos](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru) | [Registrar productos](/es/tutorial/cadastrando-produtos--tutorials_2567) | - [Products](https://developers.vtex.com/docs/guides/products) <br> - [Create Product with Category and Brand](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product) |
-| 5. [SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) | [Rellenar campos de registro de SKU](/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) | - [SKUs](https://developers.vtex.com/docs/guides/skus) <br> - [Create SKU](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunit) |
+| 4. [Productos](/es/docs/tracks/productos-definicion-de-concepto) | [Registrar productos](/es/tutorial/cadastrando-produtos--tutorials_2567) | - [Products](https://developers.vtex.com/docs/guides/products) <br> - [Create Product with Category and Brand](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product) |
+| 5. [SKU](/es/docs/tracks/sku-definicion-de-concepto) | [Rellenar campos de registro de SKU](/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) | - [SKUs](https://developers.vtex.com/docs/guides/skus) <br> - [Create SKU](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunit) |
 
 <br>
 
-> ⚠️ Puedes obtener información detallada sobre la importación de productos a la plataforma VTEX desde un sistema ERP (Enterprise Resource Planning) o PIM (Product Information Manager) consultando el artículo [Integraciones de backend](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu).
+> ⚠️ Puedes obtener información detallada sobre la importación de productos a la plataforma VTEX desde un sistema ERP (Enterprise Resource Planning) o PIM (Product Information Manager) consultando el artículo [Integraciones de backend](/es/docs/tracks/integraciones-de-backend).
 
 #### Árbol de categorías
 
@@ -76,15 +76,15 @@ Antes de importar el catálogo de la tienda a VTEX, recomendamos empezar a traba
 
 ![catalog_arquitecture_table_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/guía-de-onboarding/serie-de-la-tienda-vtex/modulos-de-vtex-i_2.png)
 
-> ℹ️ En el artículo [Integraciones de backend](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) puedes consultar más información sobre cómo importar especificaciones para back office.
+> ℹ️ En el artículo [Integraciones de backend](/es/docs/tracks/integraciones-de-backend) puedes consultar más información sobre cómo importar especificaciones para back office.
 
 #### Marcas
 
-Las [Marcas](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh) identifican a la empresa que crea o revende productos. En VTEX, las marcas deben registrarse de forma independiente, y al crear un producto, es obligatorio asociarlo a una marca ya registrada en la tienda.
+Las [Marcas](/es/docs/tracks/marcas-definicion-de-concepto) identifican a la empresa que crea o revende productos. En VTEX, las marcas deben registrarse de forma independiente, y al crear un producto, es obligatorio asociarlo a una marca ya registrada en la tienda.
 
 #### Especificaciones
 
-Las [especificaciones](/es/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) son propiedades adicionales que se pueden asignar a los productos y SKU de la tienda, como tamaño, color, voltaje o material. Es decir, existen [especificações de producto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacion-de-producto) y [especificaciones de SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacion-de-sku).
+Las [especificaciones](/es/docs/tracks/especificaciones-definicion-de-concepto) son propiedades adicionales que se pueden asignar a los productos y SKU de la tienda, como tamaño, color, voltaje o material. Es decir, existen [especificações de producto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacion-de-producto) y [especificaciones de SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacion-de-sku).
 
 En el __Catálogo__ de VTEX, las especificaciones se crean en el siguiente orden:
 
@@ -96,11 +96,11 @@ Las especificaciones siguen la jerarquía del catálogo, por lo que cuando se cr
 
 #### Productos
 
-El [Producto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru) es el nivel de organización del catálogo que se encuentra en la jerarquía por debajo de las categorías y por encima de los SKU. Como el producto está por encima del SKU en la jerarquía del catálogo, podemos entenderlo como una definición genérica de los ítems que se venden en tu tienda. Un producto debe tener obligatoriamente al menos un SKU asociado.
+El [Producto](/es/docs/tracks/productos-definicion-de-concepto) es el nivel de organización del catálogo que se encuentra en la jerarquía por debajo de las categorías y por encima de los SKU. Como el producto está por encima del SKU en la jerarquía del catálogo, podemos entenderlo como una definición genérica de los ítems que se venden en tu tienda. Un producto debe tener obligatoriamente al menos un SKU asociado.
 
 #### SKUs
 
-El [SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) (_Stock Keeping Unit_) es una variación del producto y representa la unidad física en stock que adquiere el cliente. Además, representa el último nivel en la organización de un catálogo, y para que esté activo requiere contar con una imagen y que sus especificaciones estén completas.
+El [SKU](/es/docs/tracks/sku-definicion-de-concepto) (_Stock Keeping Unit_) es una variación del producto y representa la unidad física en stock que adquiere el cliente. Además, representa el último nivel en la organización de un catálogo, y para que esté activo requiere contar con una imagen y que sus especificaciones estén completas.
 
 ### Ajustes opcionales de Catálogo
 
@@ -108,7 +108,7 @@ La siguiente tabla muestra los ajustes opcionales de Catálogo en VTEX:
 
 | **Funcionalidad** | **Descripción** | **Más información** |
 | :---: | :--- | :--- |
-| Colecciones | Una colección es la agrupación de dos o más productos que pueden compartir o no características específicas. <br> Se pueden crear colecciones para asociar productos en función de diversos criterios, como fechas conmemorativas, lanzamientos o productos más vendidos. | __Help Center__ <br> - [Colecciones - Definición del concepto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4hN41yU8IPeb8HKmmaXoca) <br> - [Registrar colecciones (beta)](/es/docs/tutorials/registrar-colecciones-beta)  <br> __Developer Portal__  <br> - [Create Collection](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/collection/) <br> - [Get All Inactive Collections](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog/pvt/collection/inactive) <br> - [Get All Collections](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/collection/search) <br> - [Get Collections by search terms](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/collection/search/-searchTerms-) <br> - [Import File Example](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog/pvt/collection/stockkeepingunit/importfileexample) <br> - [Add products to Collection by imported file](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/collection/-collectionId-/stockkeepingunit/importinsert) |
+| Colecciones | Una colección es la agrupación de dos o más productos que pueden compartir o no características específicas. <br> Se pueden crear colecciones para asociar productos en función de diversos criterios, como fechas conmemorativas, lanzamientos o productos más vendidos. | __Help Center__ <br> - [Colecciones - Definición del concepto](/es/docs/tracks/colecciones-definicion-del-concepto) <br> - [Registrar colecciones (beta)](/es/docs/tutorials/registrar-colecciones-beta)  <br> __Developer Portal__  <br> - [Create Collection](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/collection/) <br> - [Get All Inactive Collections](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog/pvt/collection/inactive) <br> - [Get All Collections](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/collection/search) <br> - [Get Collections by search terms](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/collection/search/-searchTerms-) <br> - [Import File Example](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog/pvt/collection/stockkeepingunit/importfileexample) <br> - [Add products to Collection by imported file](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/collection/-collectionId-/stockkeepingunit/importinsert) |
 | Anexos | Un anexo es una personalización opcional y gratuita del producto que se utiliza para añadir información a un SKU. | __Help Center__ <br> - [Registrar un anexo](/es/docs/tutorials/registrar-un-anexo) <br> - [Cómo crear un anexo de suscripción](/es/docs/tutorials/como-crear-un-anexo-de-suscripcion-en-el-modulo-catalogo) <br> - [¿Qué es un anexo?](/es/docs/tutorials/que-es-un-anexo)  <br> __Developer Portal__ <br> - [Catalog API - Attachment](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog/pvt/attachment/-attachmentid-) <br> - [Catalog API - SKU attachment](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/skuattachment) |
 | Assembly Options | Assembly Options es un tipo de anexo para casos complejos, como la personalización de productos, en los que es necesario gestionar diferentes combinaciones de productos, cantidad, ítems adicionales, costos y stock, y mostrar estas opciones en la página de producto. | __Developer Portal__ <br> - [Assembly Options](/es/docs/tutorials/assembly-options) <br> - [Assembly Option App](https://developers.vtex.com/docs/guides/assembly-options-app) |
 | Servicios | Servicio con costo adicional que puede ofrecerse con un producto como opcional. Se utiliza para agregar un servicio adicional a un SKU, como embalaje para regalo, personalización o acuerdos de garantía especial. | __Help Center__ <br> - [¿Qué es un servicio?](/es/docs/tutorials/que-es-un-servicio) <br> - [Gestión de servicios](/es/docs/tutorials/gestion-de-servicios) <br> - [Importación de servicios](/es/docs/tutorials/importacion-de-servicios) <br> - [Informe de servicios](/es/docs/tutorials/informe-de-servicios) <br> - [Programación de servicios](/es/docs/tutorials/programacion-de-servicios)  <br> __Developer Portal__ <br> - [Catalog API - SKU service](https://developers.vtex.com/docs/api-reference/catalog-api#put-/api/catalog/pvt/skuservice/-skuServiceId-) <br> - [Catalog API - SKU service attachment](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/skuservicetypeattachment) <br> - [Catalog API - SKU service type](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/skuservicetype) <br> - [Catalog API - SKU service value](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/skuservicevalue) |
@@ -129,7 +129,7 @@ En la siguiente tabla se presentan los principales términos relacionados con el
 | **Término** | **Definición** |
 | :---: | :--- |
 | Precios | Información de los valores de venta de los SKU de la tienda. |
-| [Tablas de precios](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) | Conjunto de precios de los SKU que se pueden aplicar en un determinado contexto, como una [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial). Las tablas almacenan la información de los precios que se muestran en el storefront de la tienda. |
+| [Tablas de precios](/es/docs/tracks/tablas-de-precio-definicion-de-concepto) | Conjunto de precios de los SKU que se pueden aplicar en un determinado contexto, como una [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial). Las tablas almacenan la información de los precios que se muestran en el storefront de la tienda. |
 | Precio de costo | Precio pagado por la tienda para adquirir el SKU. |
 | Markup | Margen de beneficio que la tienda desea obtener con la venta del SKU. |
 | [Precio base](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#definicion) | Valor calculado al combinar el __precio de costo__ y el __markup__. Este es el precio de referencia de un SKU en todas las tablas de precios. |
@@ -139,7 +139,7 @@ En la siguiente tabla se presentan los principales términos relacionados con el
 | [Redondeo de precios](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1tUIUvF6BUkDgMsknGaMkF#definiciones) | Estrategia de precios que se basa en el redondeo de precios. El objetivo de este método es influenciar la decisión de compra del consumidor al mostrar precios en un formato más fácil e intuitivo. |
 | [Bloqueo de precio](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/7JZhLmI3mjBVu0RMOueoy3#definicion) | Determina las variaciones máximas y mínimas del precio de un ítem. Esta funcionalidad garantiza que los precios de los SKU no cambien a valores indeseados. |
 
-Puedes consultar más información sobre la arquitectura de precios en el artículo [Arquitectura del sistema de precios](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx).
+Puedes consultar más información sobre la arquitectura de precios en el artículo [Arquitectura del sistema de precios](/es/docs/tracks/arquitectura-del-sistema-de-precios).
 
 ### Registrar tabla de precios
 
@@ -158,7 +158,7 @@ La relación entre los precios, la tabla de precios y el contexto que se aplicar
 Puedes registrar tablas de precios para los SKU de la tienda de tres maneras:
 
 - [Admin VTEX](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/2WQ3pVYfQpXkJnHr7VTFBv#admin)
-- [Plantilla](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D)
+- [Plantilla](/es/docs/tracks/exportacion-e-importacion-mediante-la-plantilla-de-precios)
 - [API](https://developers.vtex.com/docs/api-reference/pricing-api)
 
 Los precios se pueden programar para eventos especiales, como se describe en el artículo [Programación de precios](/es/docs/tutorials/programar-precio).
@@ -179,7 +179,7 @@ En VTEX, el retailer puede crear un conjunto de reglas para indicar si los clien
 
 ### Antes de comenzar en Promociones
 
-Antes de configurar las promociones de tu tienda, es necesario registrar el [Catálogo](/es/docs/tutorials/catalogo-vision-general) con los productos que se venderán y establecer lo [precios](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) de los SKU.
+Antes de configurar las promociones de tu tienda, es necesario registrar el [Catálogo](/es/docs/tutorials/catalogo-vision-general) con los productos que se venderán y establecer lo [precios](/es/docs/tracks/modulo-de-precios-vision-general) de los SKU.
 
 ### Cómo funciona el módulo Promociones
 
@@ -205,7 +205,7 @@ Hay seis tipos diferentes de promociones, cada una relacionada con un escenario 
 
 | **Tipo de promoción** | **Definición** |
 | :---: | :--- |
-| [Regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) | Promoción que permite a la tienda ofrecer descuentos de forma flexible, combinando múltiples condiciones, restricciones y beneficios.  |
+| [Regular](/es/docs/tracks/crear-promocion-regular) | Promoción que permite a la tienda ofrecer descuentos de forma flexible, combinando múltiples condiciones, restricciones y beneficios.  |
 | [Comprar Juntos](/es/docs/tutorials/comprar-juntos-registro-de-promocion) | Promoción utilizada para conceder descuentos en productos cuando se agregan juntos al carrito. El descuento puede aplicarse a ambos productos. También existe la opción de que el descuento solo se aplique si se añade al carrito una determinada cantidad de uno de los productos. |
 | [Más Por Menos](/es/docs/tutorials/mas-por-menos) | Promoción utilizada para conceder un descuento cuando el cliente añade al carrito varias unidades del mismo producto. |
 | [Descuento Progresivo](/es/docs/tutorials/descuento-progresivo) | Promoción utilizada cuando se desea ofrecer un descuento porcentual a un determinado número de productos del carrito. |
@@ -226,7 +226,7 @@ Puedes crear cupones de descuento en el [Admin VTEX](/es/docs/tutorials/crear-cu
 
 Antes de crear una promoción de campaña se debe crear una [audiencia de campaña](/es/docs/tutorials/crear-audiencias-de-campana) para definir el público objetivo de la promoción. A partir de los criterios definidos por el retailer pueden seleccionarse segmentos de clientes elegibles para la promoción, los cuales actúan como activadores.
 
-Una vez creada la audiencia de campaña, es necesario asociarla a una [Promoción Regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), ccreando así una promoción de campaña. Este tipo de promoción engloba todas las posibilidades presentes en la [Promoción Regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) y las siguientes opciones adicionales:
+Una vez creada la audiencia de campaña, es necesario asociarla a una [Promoción Regular](/es/docs/tracks/crear-promocion-regular), ccreando así una promoción de campaña. Este tipo de promoción engloba todas las posibilidades presentes en la [Promoción Regular](/es/docs/tracks/crear-promocion-regular) y las siguientes opciones adicionales:
 
 - Público objetivo específico.
 - Envío gratis para todos los envíos disponibles.
@@ -240,7 +240,7 @@ Para destacar una promoción en la página del producto (PDP) sigue los pasos qu
 1. [Crea una promoción](/es/docs/tutorials/lista-de-promociones-beta) de cualquier tipo, a excepción de Comprar juntos.
 2. Activa el campo __Promoción resaltada__ en el formulario de promoción.
 3. Guarda la promoción.
-4. En el [CMS Portal (Legado)](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), ingresa el control de visualización de la promoción en el template: `<vtex.cmc:discountHightLight/>`. 
+4. En el [CMS Portal (Legado)](/es/docs/tracks/cms-portal-legado), ingresa el control de visualización de la promoción en el template: `<vtex.cmc:discountHightLight/>`. 
 
 ### Sincronización de fechas de promoción, banners y activos digitales
 
@@ -257,7 +257,7 @@ Para realizar los ajustes de logística, deben haberse completado los siguientes
 - __Registrar catálogo__: como la realización de pedidos está relacionada con el almacenamiento de ítems, los productos y SKU de la tienda deben estar registrados en el [Catálogo](#catalogo).
 - __Configurar política comercial__: las [políticas comerciales](/es/docs/tutorials/como-funciona-una-politica-comercial) moldean la experiencia del cliente en el sitio web de una tienda, segmentando desde las condiciones de venta para cada público, hasta los productos ofrecidos, precios, promociones y métodos de envío.
 
-Además, si el modelo de negocio incluye tiendas internacionales y ventas [cross-border](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/5qgXy9Erm7FDP3UB5Ox8Bs), es importante determinar previamente cuál sería el modelo de [arquitetura de la tienda](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#arquitectura-de-la-tienda).
+Además, si el modelo de negocio incluye tiendas internacionales y ventas [cross-border](/es/docs/tracks/tiendas-transfronterizas-cross-border), es importante determinar previamente cuál sería el modelo de [arquitetura de la tienda](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#arquitectura-de-la-tienda).
 
 ### Ajustes obligatorios en Logística
 
@@ -306,7 +306,7 @@ La ruta logística se inicia en el [almacén](/es/docs/tutorials/almacen), que e
 
 El [stock](/es/docs/tutorials/gestionar-items-en-inventario) de la tienda corresponde a los ítems almacenados que están disponibles para la venta. El almacén es la identificación de la ubicación física de almacenamiento, mientras que el stock es el conjunto de SKU disponibles para la venta.
 
-> ❗ En VTEX, la actualización del stock una vez vendidos los ítems debe ser controlada por la propia tienda. De esta forma, tras la venta, el retailer garantiza un control de la cantidad de ítems restantes y de las operaciones de facturación con ERP. En el artículo  [Integraciones de backend](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) puedes consultar más información sobre cómo importar stock a través del back office.
+> ❗ En VTEX, la actualización del stock una vez vendidos los ítems debe ser controlada por la propia tienda. De esta forma, tras la venta, el retailer garantiza un control de la cantidad de ítems restantes y de las operaciones de facturación con ERP. En el artículo  [Integraciones de backend](/es/docs/tracks/integraciones-de-backend) puedes consultar más información sobre cómo importar stock a través del back office.
 
 ### Lead time
 

@@ -23,7 +23,7 @@ In addition to the modules covered in the previous article, such as [Catalog](/e
 
 ## Payments
 
-The [Payments](/en/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB) module on VTEX is where you can manage all the financial operations of a store. It allows you to determine the payment providers, methods, and conditions that will be offered to customers at checkout and check payment transaction details for each order.
+The [Payments](/en/docs/tracks/how-the-payments-module-works) module on VTEX is where you can manage all the financial operations of a store. It allows you to determine the payment providers, methods, and conditions that will be offered to customers at checkout and check payment transaction details for each order.
 
 ### Before you begin with Payments
 
@@ -134,17 +134,17 @@ You can also offer gift cards from external providers via the [GiftCard Hub API]
 
 Digital wallets provide secure environments where customers can store their bank and credit card information in an encrypted form and use it when completing a purchase. This payment method enhances security by eliminating the need to enter sensitive data for each purchase. Instead, users authenticate within the digital wallet environment once.
 
-On VTEX, you can offer native digital wallets, such as [Google Pay](/en/tracks/digital-wallet-e-wallet--6X8YyZBoVJpz5R8oXciTyu/61JMBvM5Vanqj6RaJsP8CT), or integrated digital wallets, such as [Apple Pay](/en/tracks/digital-wallet-e-wallet--6X8YyZBoVJpz5R8oXciTyu/STKWiXJSR9ImPt5EEC2aL), [Samsung Pay](/en/docs/tutorials/configuring-samsung-pay-as-a-payment-method), and [PayPal](/en/tutorial/configurar-paypal--4p3sD9u1moq2Aya2oc684w). Learn more in [Digital wallet (ewallet)](/en/tracks/digital-wallet-e-wallet--6X8YyZBoVJpz5R8oXciTyu/7jLbdfch9Oe2yYbQa9zwE1).
+On VTEX, you can offer native digital wallets, such as [Google Pay](/en/docs/tracks/google-pay), or integrated digital wallets, such as [Apple Pay](/en/docs/tracks/apple-pay), [Samsung Pay](/en/docs/tutorials/configuring-samsung-pay-as-a-payment-method), and [PayPal](/en/tutorial/configurar-paypal--4p3sD9u1moq2Aya2oc684w). Learn more in [Digital wallet (ewallet)](/en/docs/tracks/digital-wallet-e-wallet).
 
 #### Customer Credit
 
 Customer Credit is a VTEX solution designed to offer credit to specific customers, enabling them to spread payments over time. With this app, you can access customer management, set up payment terms and installment plans, define credit limits, and monitor the status of issued invoices, among other features.
 
-Learn more in [Customer Credit - Overview](/en/docs/tutorials/customer-credit-overview) and [Customer Credit - Getting Started](/en/tracks/customer-credit-getting-started--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
+Learn more in [Customer Credit - Overview](/en/docs/tutorials/customer-credit-overview) and [Customer Credit - Getting Started](/en/docs/tracks/installing-customer-credit).
 
 ## Orders
 
-As soon as the customer completes a purchase, an [order](/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE) is generated on VTEX. Orders can be managed through the VTEX Admin, in **Orders > [All Orders](/en/docs/tutorials/all-orders)**, by accessing the [order details page](/en/docs/tutorials/order-details-page), or via API. For an overview of developer content related to the [Orders API](https://developers.vtex.com/docs/api-reference/orders-api#overview), check the [Orders](https://developers.vtex.com/docs/guides/orders-overview) guide.
+As soon as the customer completes a purchase, an [order](/en/docs/tracks/o-que-e-um-pedido-na-vtex) is generated on VTEX. Orders can be managed through the VTEX Admin, in **Orders > [All Orders](/en/docs/tutorials/all-orders)**, by accessing the [order details page](/en/docs/tutorials/order-details-page), or via API. For an overview of developer content related to the [Orders API](https://developers.vtex.com/docs/api-reference/orders-api#overview), check the [Orders](https://developers.vtex.com/docs/guides/orders-overview) guide.
 
 ### Before you begin with Orders
 
@@ -159,14 +159,14 @@ However, for a customer to make a purchase and place an order, the store must ha
 
 ### Order integration
 
-Stores frequently want to [integrate their orders](https://developers.vtex.com/docs/guides/erp-integration-guide) with systems such as ERP (Enterprise Resource Planning) and WMS (Warehouse Management System). The [backend implementation](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) allows stores to automate some actions in order processing, such as:
+Stores frequently want to [integrate their orders](https://developers.vtex.com/docs/guides/erp-integration-guide) with systems such as ERP (Enterprise Resource Planning) and WMS (Warehouse Management System). The [backend implementation](/en/docs/tracks/backend-integrations) allows stores to automate some actions in order processing, such as:
 
 - Receiving notifications about order progress and status within the [order flow](/en/docs/tutorials/order-flow-and-status).
 - Obtaining information on orders that need to be picked and packed.
 - Sending the [invoice](/en/docs/tutorials/how-to-manually-invoice-an-order) to the VTEX platform, which then forwards it to the customer.
 - Making [changes](/en/docs/tutorials/changing-items-from-a-complete-order) to order items.
 
-There are two different ways of tracking order status changes: [Feed](https://developers.vtex.com/docs/guides/orders-feed) or [Hook](https://developers.vtex.com/docs/guides/orders-feed#hook). Learn more about order integration in the [Backend integrations](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) article.
+There are two different ways of tracking order status changes: [Feed](https://developers.vtex.com/docs/guides/orders-feed) or [Hook](https://developers.vtex.com/docs/guides/orders-feed#hook). Learn more about order integration in the [Backend integrations](/en/docs/tracks/backend-integrations) article.
 
 ### Managing orders
 
@@ -228,7 +228,7 @@ Checkout is the last stage in the online shopping process, playing a significant
 
 ### Before you begin with Checkout
 
-To ensure the checkout will work properly, the following modules must be correctly configured: [Catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR), [Logistics](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx), [Prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP#), [Promotions](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N#), [Payments](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#), and [Orders](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE).
+To ensure the checkout will work properly, the following modules must be correctly configured: [Catalog](/en/docs/tracks/catalog-concept-definition), [Logistics](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx), [Prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP#), [Promotions](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N#), [Payments](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#), and [Orders](/en/docs/tracks/o-que-e-um-pedido-na-vtex).
 
 ![checkout-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/vtex-modules-ii_4.jpg)
 

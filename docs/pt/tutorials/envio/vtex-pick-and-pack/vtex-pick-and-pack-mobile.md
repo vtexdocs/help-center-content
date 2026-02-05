@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-> ℹ️ Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
+> ℹ️ Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](/pt/docs/tracks/suporte-comercial). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
 
 O aplicativo móvel do [VTEX Pick and Pack](/pt/docs/tutorials/vtex-pick-and-pack-fulfillment) auxilia o separador - profissional responsável por selecionar e empacotar itens na instalação - no manuseio de pedidos, abrangendo desde a separação dos itens até o envio. Assim, o fluxo de separação e entrega dos pedidos da loja torna-se mais organizado e fluido.
 

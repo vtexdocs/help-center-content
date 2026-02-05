@@ -37,10 +37,10 @@ Audiência de campanha é uma forma de definir o público alvo ao qual uma promo
 Para verificar essa quantidade, observe a mensagem que aparece no canto superior direito, abaixo da paginação. Os tipos de promoções que podem ser criadas são:
 
 - [Promoção regular](/pt/tutorial/promocao-regular/)
-- [Compre junto](/pt/tutorial/compre-junto)
-- [Leve mais por menos](/pt/tutorial/leve-mais-por-menos)
-- [Desconto progressivo](/pt/tutorial/desconto-progressivo)
-- [Compre e ganhe](/pt/tutorial/compre-e-ganhe)
+- [Compre junto](/pt/docs/tutorials/compre-junto)
+- [Leve mais por menos](/pt/docs/tutorials/leve-mais-por-menos)
+- [Desconto progressivo](/pt/docs/tutorials/desconto-progressivo)
+- [Compre e ganhe](/pt/docs/tutorials/compre-e-ganhe)
 - [Preço máximo por item](/pt/tutorial/preco-maximo-por-item)
 
 ## Cupons
@@ -53,5 +53,5 @@ Para verificar essa quantidade, observe a mensagem que aparece no canto superior
 
 ![taxas.pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/visão-geral-de-taxas-e-promoções/overview-2_4.png)
 
-Nesta área serão criados os impostos que incidirão sobre os seus produtos. É permitido também filtrar, buscar e arquivar as taxas. [Entenda melhor as particularidades dessa configuração no artigo sobre taxas](/pt/tutorial/como-criar-taxaimposto/).
+Nesta área serão criados os impostos que incidirão sobre os seus produtos. É permitido também filtrar, buscar e arquivar as taxas. [Entenda melhor as particularidades dessa configuração no artigo sobre taxas](/pt/docs/tutorials/como-criar-taxaimposto/).
 

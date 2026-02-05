@@ -17,7 +17,7 @@ order: 2
 
 O primeiro passo para integrar sua loja VTEX com o Carrefour Marketplace é [criar uma conta de seller](https://www.carrefour.com.br/marketplace/inscreva-se). Depois de  realizar o cadastro e criar a conta, você deverá aguardar o contato do Carrefour em até 5 dias úteis. Em caso de dúvidas, assista ao tutorial do Carrefour Marketplace [“Como cadastrar sua loja para vender no Carrefour Marketplace”.](https://www.youtube.com/watch?v=TYYOmRpNTl4)
 
-Durante esse contato, o Carrefour Marketplace fornecerá o **ShopKey** e **ShopId** da sua loja. Guarde esses dados porque eles serão necessários para [cadastrar o conector do Carrefour](/pt/tracks/configurar-integracion-con-carrefour--2wYlj07cNuA8k8mmwY86K2/2AhqcmRN1mseCsGuGIe6GK), sem eles não será possível realizar a integração.
+Durante esse contato, o Carrefour Marketplace fornecerá o **ShopKey** e **ShopId** da sua loja. Guarde esses dados porque eles serão necessários para [cadastrar o conector do Carrefour](/pt/docs/tracks/configurar-cadastro-da-integracao-do-carrefour), sem eles não será possível realizar a integração.
 
 ### API de Frete
 
@@ -31,8 +31,8 @@ Em caso de dúvidas, assista ao tutorial do Carrefour [“Como configurar a Inte
 
 Para dar continuidade à integração, os próximos passos são:
 
-- [Configurar política comercial](/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2/2s7YE2VK7LBx4Mvokj3gc)
-- [Definir Estratégia de Envio](/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2/4WKC9WpPyZHpb7ZoyPlCbV)
-- [Configurar cadastro do conector do Carrefour](/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2/2AhqcmRN1mseCsGuGIe6GK)
-- [Enviar produtos para Carrefour](/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2/6FacWWJszKw0Um42uYcQai)
+- [Configurar política comercial](/pt/docs/tracks/configurar-politica-comercial-para-marketplace-carrefour)
+- [Definir Estratégia de Envio](/pt/docs/tracks/definir-a-estrategia-de-envio)
+- [Configurar cadastro do conector do Carrefour](/pt/docs/tracks/configurar-cadastro-da-integracao-do-carrefour)
+- [Enviar produtos para Carrefour](/pt/docs/tracks/enviar-produtos-para-carrefour)
 

@@ -19,7 +19,7 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 
 Managing an ecommerce operation requires the retailer to perform several updates and changes in the store, which are often interconnected — for example, carrying out a publicity campaign in which different storefront elements need to be configured.
 
-The **Releases** module allows the retailer to manage connected groups of changes to coordinate the stores changes’ planning, creating, scheduling and publishing. In the beta phase, the changes that can be grouped together must be related to the [CMS](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2). Other modules of the VTEX platform are not yet included.
+The **Releases** module allows the retailer to manage connected groups of changes to coordinate the stores changes’ planning, creating, scheduling and publishing. In the beta phase, the changes that can be grouped together must be related to the [CMS](/en/docs/tracks/cms-vtex-io). Other modules of the VTEX platform are not yet included.
 
 The main benefits of the module are:
 

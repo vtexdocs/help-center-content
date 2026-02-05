@@ -78,7 +78,7 @@ Para criar um formulário:
 
 1. Crie uma entidade de dados com todas as informações que você deseja que constem no formulário. Em caso de dúvidas, confira o artigo sobre [como criar uma entidade de dados no Master Data](/pt/tutorial/criando-entidade-de-dados--tutorials_1265?&utm_source=autocomplete).
 
-2. Crie o formulário utilizando o tutorial para [criar formulários no Master Data](/pt/tutorial/criando-formulario-no-master-data/).
+2. Crie o formulário utilizando o tutorial para [criar formulários no Master Data](/pt/docs/tutorials/criando-formulario-no-master-data/).
 
 Assim, quando um cliente preencher o formulário, seus dados serão incluídos na tabela de clientes do Master Data.
 
@@ -111,7 +111,7 @@ Na configuração através do Admin, é preciso:
 
 2. __Associar uma transportadora à doca escolhida__: essa associação é feita por meio do preenchimento do campo Políticas de envio associadas presente na tela de cadastro/edição da doca, no qual você deve selecionar a política comercial configurada para o cenário B2B — caso não existam transportadoras cadastradas na sua loja, você deverá [cadastrar uma transportadora](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/55MezrFTw2limlgT7KUg6l).
 
-3. __Definir um estoque e associá-lo à doca__: essa associação é feita a partir da seleção da doca desejada na tela de cadastro/edição de estoques — caso não existam estoques cadastrados na sua loja, você precisará [cadastrar um estoque](/pt/tutorial/gerenciar-estoque). 
+3. __Definir um estoque e associá-lo à doca__: essa associação é feita a partir da seleção da doca desejada na tela de cadastro/edição de estoques — caso não existam estoques cadastrados na sua loja, você precisará [cadastrar um estoque](/pt/docs/tutorials/gerenciar-estoque). 
 
 Na configuração por meio da [API de Logística](https://developers.vtex.com/vtex-developer-docs/reference/logistics-api-overview), os mesmos passos devem ser seguidos. Porém, você pode utilizar o endpoint `[POST Create/Update Dock](https://developers.vtex.com/vtex-developer-docs/reference/docks#createupdatedock)` para associar a política comercial à doca e para associar  a transportadora à doca preenchendo os parâmetros `salesChannels` e `freightTableIds`, respectivamente.  
 
@@ -119,7 +119,7 @@ Já a associação do estoque à doca é feita por meio do parâmetro `warehouse
 
 ### Configuração de preços
 
-A configuração de preços é feita por meio de [tabelas de preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8), um conjunto de preços aplicados a determinados SKUs em um determinado contexto. Para configurar, você deverá:
+A configuração de preços é feita por meio de [tabelas de preços](/pt/docs/tracks/tabelas-de-preco-definicao-de-conceito), um conjunto de preços aplicados a determinados SKUs em um determinado contexto. Para configurar, você deverá:
 
 1. [Criar uma nova tabela de preços](/pt/docs/tutorials/criar-tabelas-de-precos).
 2. Editar as configurações da planilha de preços.
@@ -133,7 +133,7 @@ No modelo de negócios B2B, uma prática comum é a concessão de crédito a alg
 
 A gestão de crédito é um recurso versátil e, por conta disso, é utilizada em diferentes cenários de negócio no modelo B2B. Explicamos algumas das situações em que lojas com diferentes contextos de negócio podem empregar essa estratégia no artigo [Gestão de Crédito por meio do Customer Credit](/pt/docs/tutorials/gestao-de-credito-por-meio-do-customer-credit).
 
-Na VTEX, os lojistas podem utilizar o [Customer Credit](/pt/docs/tutorials/customer-credit-visao-geral), aplicativo no qual o usuário pode oferecer e administrar os créditos cedidos aos seus clientes. Para instalar o aplicativo, confira o passo a passo completo no artigo [Instalar Customer Credit](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
+Na VTEX, os lojistas podem utilizar o [Customer Credit](/pt/docs/tutorials/customer-credit-visao-geral), aplicativo no qual o usuário pode oferecer e administrar os créditos cedidos aos seus clientes. Para instalar o aplicativo, confira o passo a passo completo no artigo [Instalar Customer Credit](/pt/docs/tracks/instalar-customer-credit).
 
 > ℹ️ Meios de pagamento convencionais, como cartão de crédito, cartão de débito e boleto bancário, também podem ser configurados para o contexto B2B. A gestão de crédito é apenas o método utilizado com mais frequência pelos clientes.
 
@@ -143,15 +143,15 @@ Depois de instalar o aplicativo na sua loja, é preciso configurar o Customer Cr
 
 No Brasil, uma das particularidades de negócios B2B é a forma como diferentes impostos são somados ao valor total de cada item de uma loja. 
 
-Leia o artigo [Taxas](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/3DcO1XrLqlbZsq80zxSgZS) para obter mais informações.
+Leia o artigo [Taxas](/pt/docs/tracks/taxas-o-que-sao-e-como-criar) para obter mais informações.
 
 ### Sistema de tributação simples 
 
 Para lojas que trabalham com um sistema de tributação simples, no qual o preço do SKU é somado a apenas a um tipo de imposto, há dois métodos recomendáveis para configurar o modelo de precificação da sua loja:
 
-- Configuração de [tabelas de preço](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8). No caso de tributação, você deve criar apenas tabelas que usam preços convencionais, uma vez que tabelas de preços promocionais não são aplicáveis neste contexto.
+- Configuração de [tabelas de preço](/pt/docs/tracks/tabelas-de-preco-definicao-de-conceito). No caso de tributação, você deve criar apenas tabelas que usam preços convencionais, uma vez que tabelas de preços promocionais não são aplicáveis neste contexto.
 
-- Aplicação de [taxas](/pt/tutorial/como-criar-taxaimposto/) aos preços dos SKU para que os impostos não sejam exibidos na vitrine da loja.
+- Aplicação de [taxas](/pt/docs/tutorials/como-criar-taxaimposto/) aos preços dos SKU para que os impostos não sejam exibidos na vitrine da loja.
 
 ### Sistema de tributação complexo
 

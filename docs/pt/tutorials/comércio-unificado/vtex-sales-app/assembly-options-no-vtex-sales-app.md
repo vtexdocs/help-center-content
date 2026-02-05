@@ -17,7 +17,7 @@ subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 
 O [VTEX Sales App](https://apps.vtex.com/vtex-assisted-sales-admin/p) é um aplicativo que permite a integração entre os canais de vendas online e físicos. Por meio dele, os vendedores das lojas físicas podem oferecer atendimento personalizado aos clientes, e realizar o processo de venda de maneira completa e presencial, desde a escolha dos produtos, até a seleção do melhor meio de pagamento e entrega.
 
-Para mais informações sobre a instalação do VTEX Sales App, acesse [VTEX Sales App - Configurações Básicas](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO).
+Para mais informações sobre a instalação do VTEX Sales App, acesse [VTEX Sales App - Configurações Básicas](/pt/docs/tracks/vtex-sales-app-configuracoes-basicas).
 
 O [Assembly Options](/pt/tutorial/assembly-options-app), disponível na VTEX  [App Store](https://apps.vtex.com/vtex-admin-assembly-options/p), é a funcionalidade que permite aos vendedores oferecer serviços adicionais durante o processo de venda, como garantia estendida e seguro. Além disso, proporciona a montagem de conjuntos compostos por diversos SKUs, como cestas de natal ou café da manhã, kits de maquiagem, entre outros.
 

@@ -19,7 +19,7 @@ O **Relatório de Indexação** é o relatório que indica o status de indexaç�
 
 ![RelatorioIndexação](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/relatórios/utilizar-o-relatorio-de-indexacao_1.png)
 
-> ℹ️ **Nota:** Para mais informações, acesse [Entendendo o funcionamento da indexação.](/pt/tutorial/entendendo-o-funcionamento-da-indexacao)
+> ℹ️ **Nota:** Para mais informações, acesse [Entendendo o funcionamento da indexação.](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao)
 
 ## Como acessar o relatório de indexação
 

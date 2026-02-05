@@ -19,7 +19,7 @@ The `<vtex.cmc:searchResult/>` control renders a shop window with the products r
 
 > ℹ️ This control works only on pages with search context, ie pages where the displayed results were brought by a search made by the user.
 
-When the user performs a search in the store, VTEX system tries to bring results according to a priority order of filters. Understand the search in the article [How VTEX search works](/en/tutorial/how-does-vtex-search-work).
+When the user performs a search in the store, VTEX system tries to bring results according to a priority order of filters. Understand the search in the article [How VTEX search works](/en/docs/tutorials/how-does-vtex-search-work).
 
 Let's say, for example, that the result is a category context. That is, the user searched, for example, for the term "Shirts", the system identified that there is a category with the name "Shirts" and loaded the page of that category - using, therefore, the category template. If the Search Result control is in the code of this template (by default, it actually is), it will render a shop window with the products that are part of that category.
 

@@ -29,7 +29,7 @@ Seguem as mensagens mais comuns de erros de integração de estoque com a Netsho
 
 `Não foi possível localizar o mapeamento deste SKU na planilha`
 
-Este erro significa que o SKU não foi mapeado, ou que o mapeamento foi feito incorretamente. Para solucionar o problema, consulte o [Mapeamento de categorias, variações e atributos da Netshoes](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc), e realize o mapeamento do SKU.
+Este erro significa que o SKU não foi mapeado, ou que o mapeamento foi feito incorretamente. Para solucionar o problema, consulte o [Mapeamento de categorias, variações e atributos da Netshoes](/pt/docs/tracks/mapeamento-de-categorias-variacoes-e-atributos-da-netshoes), e realize o mapeamento do SKU.
 
 É necessário preencher sua _Planilha de Mapeamento_ com os termos exatos da _Planilha de Consulta na Netshoes_. Adotar palavras diferentes, ou variações de letras maiúsculas e minúsculas, ocasiona erros de mapeamento, pois a planilha é _case sensitive_.
 
@@ -51,7 +51,7 @@ ____
 
 `Este produto não possui descrição, que é um campo obrigatório para integrar produtos neste marketplace`
 
-No cadastro do seu produto na VTEX, um campo considerado obrigatório pelo marketplace não foi preenchido na etapa de [Mapeamento de categorias, variações e atributos da Netshoes](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc). Na mensagem de erro, trata-se da _Descrição do produto_.
+No cadastro do seu produto na VTEX, um campo considerado obrigatório pelo marketplace não foi preenchido na etapa de [Mapeamento de categorias, variações e atributos da Netshoes](/pt/docs/tracks/mapeamento-de-categorias-variacoes-e-atributos-da-netshoes). Na mensagem de erro, trata-se da _Descrição do produto_.
 
 Para solucionar o problema, acesse seu Admin VTEX, em **Catálogo > Produtos e SKUs**, e encontre o produto em questão. Você pode **Filtrar resultados ou fazer uma busca**, clicando sobre essa opção. Após identificar o produto, clique em **ALTERAR**. Ao visualizar a página de cadastro, [preencha o campo do produto](/pt/tutorial/campos-de-cadastro-de-produto) _Descrição do produto_, e depois clique em **Salvar**.
 
@@ -75,7 +75,7 @@ ____
 
 `A Marca XXX, cadastrada na planilha de mapeamento, não corresponde à um valor aceito pela Netshoes.`
 
-As mensagens indicam erros de mapeamento de valores. A tentativa de realizar uma correspondência entre o nome de um atributo do seu catálogo na VTEX, por exemplo, e o termo aceito pela Netshoes, não foi realizada com sucesso. Para solucionar o problema, consulte o [Mapeamento de categorias, variações e atributos da Netshoes](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc), e faça o mapeamento do atributo, variação ou categoria, conforme o  que aparece na mensagem.
+As mensagens indicam erros de mapeamento de valores. A tentativa de realizar uma correspondência entre o nome de um atributo do seu catálogo na VTEX, por exemplo, e o termo aceito pela Netshoes, não foi realizada com sucesso. Para solucionar o problema, consulte o [Mapeamento de categorias, variações e atributos da Netshoes](/pt/docs/tracks/mapeamento-de-categorias-variacoes-e-atributos-da-netshoes), e faça o mapeamento do atributo, variação ou categoria, conforme o  que aparece na mensagem.
 
 É necessário preencher sua _Planilha de Mapeamento da Netshoes_ com os termos exatos da _Planilha de Consulta na Netshoes_. Adotar palavras diferentes, ou variações de letras maiúsculas e minúsculas dos termos aceitos pelo marketplace, ocasiona erros de mapeamento.
 
@@ -85,7 +85,7 @@ ____
 
 `Os atributo(s) XXX é(são) obrigatório(s) e não foi(foram) encontrado(s) no Produto e nem no Sku`
 
-A Netshoes não aceita integração de itens com atributos obrigatórios não mapeados. A mensagem indica que o mapeamento do atributo não foi realizado, ou que isso não foi feito de forma correta. Para solucionar o problema, consulte o [Mapeamento de categorias, variações e atributos da Netshoes](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc), e realize o mapeamento do atributo descrito na mensagem de erro.
+A Netshoes não aceita integração de itens com atributos obrigatórios não mapeados. A mensagem indica que o mapeamento do atributo não foi realizado, ou que isso não foi feito de forma correta. Para solucionar o problema, consulte o [Mapeamento de categorias, variações e atributos da Netshoes](/pt/docs/tracks/mapeamento-de-categorias-variacoes-e-atributos-da-netshoes), e realize o mapeamento do atributo descrito na mensagem de erro.
 
 É necessário preencher sua _Planilha de Mapeamento da Netshoes_ com os valores exatos da _Planilha de Consulta na Netshoes_. Adotar palavras diferentes, ou variações de letras maiúsculas e minúsculas, ocasiona erros de mapeamento.
 

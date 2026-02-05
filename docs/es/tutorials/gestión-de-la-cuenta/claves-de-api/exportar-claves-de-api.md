@@ -58,6 +58,6 @@ A continuación se describen los datos disponibles en la plantilla.
 ## Más información
 
 * [Claves de API](/es/docs/tutorials/claves-de-api)  
-* [Configurar alerta para renovar tokens de API](/es/tutorial/configurar-alerta-para-renovar-tokens-de-api)  
+* [Configurar alerta para renovar tokens de API](/es/docs/tutorials/configurar-alerta-para-renovar-tokens-de-api)  
 * [Claves generadas](/es/docs/tutorials/claves-generadas) 
 * [Claves externas](/es/docs/tutorials/claves-externas)

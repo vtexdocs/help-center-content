@@ -28,7 +28,7 @@ A release means a change or a group of changes that can be published together. T
 * Greater control when testing and reviewing modifications prior to their publication.
 * Ease in scheduling or deleting groups of modifications.
 
-> ⚠️ In the beta version, releases must be [CMS](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2)-related, because other VTEX platform modules are not yet included. To use the **Releases**, you must configure the CMS as described in [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+> ⚠️ In the beta version, releases must be [CMS](/en/docs/tracks/cms-vtex-io)-related, because other VTEX platform modules are not yet included. To use the **Releases**, you must configure the CMS as described in [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 The feature can be accessed through the VTEX Admin **Releases** navigation menu, where you'll find the following pages:
 

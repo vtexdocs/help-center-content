@@ -37,7 +37,7 @@ Apesar do prazo, algumas medidas já foram implementadas para todas as lojas:
 - No Portal CMS, todas as pastas que forem criadas ou alteradas serão forçadas para HTTPS.
 - Contas inativas ou que não estavam em produção foram atualizadas automaticamente para HTTPS.
 
-É importante lembrar que, para completar a migração para nova CDN, __é fundamental ativar o HTTPS em todo o seu site__. Os detalhes de como fazer isso estão [neste artigo do Help](/pt/tutorial/ativar-https-em-todo-o-site).
+É importante lembrar que, para completar a migração para nova CDN, __é fundamental ativar o HTTPS em todo o seu site__. Os detalhes de como fazer isso estão [neste artigo do Help](/pt/docs/tutorials/ativar-https-em-todo-o-site).
 
 Depois de ativar o HTTPS, você deverá:
 - Atualizar seu DNS para o novo CNAME da VTEX.

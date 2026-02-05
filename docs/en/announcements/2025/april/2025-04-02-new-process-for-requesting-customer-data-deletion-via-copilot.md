@@ -23,7 +23,7 @@ Currently, deleting customer personal data is requested by opening a ticket with
 
 ## What needs to be done?
 
-Only authorized merchants will be able to request customer data deletion through Copilot. To grant this permission, you will need to create a [custom role](/en/tutorial/criar-perfil-de-acesso) named **General Data Protection Law** with the following resources from [License Manager](/en/tutorial/license-manager-resources):
+Only authorized merchants will be able to request customer data deletion through Copilot. To grant this permission, you will need to create a [custom role](/en/tutorial/criar-perfil-de-acesso) named **General Data Protection Law** with the following resources from [License Manager](/en/docs/tutorials/license-manager-resources):
 - **Write user rights requests** (from the **User Rights** product)
 - **Open Support Ticket** (from the **VTEX Support** product)
 

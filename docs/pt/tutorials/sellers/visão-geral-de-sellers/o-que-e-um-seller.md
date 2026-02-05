@@ -22,7 +22,7 @@ Além de dono do produto e responsável pela logística de distribuição, o sel
 
 Um __seller__ pode exibir seu catálogo para venda numa loja de terceiros, seja ela VTEX ou não; este seller pode também vender seus produtos em uma loja própria, sendo assim a loja atua como __seller__ e __marketplace__ de forma simultânea, neste caso o seller é chamado de [seller white label](/pt/docs/tutorials/seller-white-label).
 
-Neste cenário a loja responsável pela venda atua como [marketplace](/pt/tutorial/o-que-e-um-marketplace), sendo responsável por efetivar a venda e receber o pagamento do cliente, enquanto o __seller__ tem a função de realizar a entrega do pedido.
+Neste cenário a loja responsável pela venda atua como [marketplace](/pt/docs/tutorials/o-que-e-um-marketplace), sendo responsável por efetivar a venda e receber o pagamento do cliente, enquanto o __seller__ tem a função de realizar a entrega do pedido.
 
 O sortimento de produtos enviados a um marketplace, é definido no momento de escolha da [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial).
 

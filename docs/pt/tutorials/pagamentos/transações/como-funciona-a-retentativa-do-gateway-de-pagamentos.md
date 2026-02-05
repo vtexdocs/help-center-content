@@ -28,6 +28,6 @@ Abaixo, seguem os casos onde o gateway da VTEX realiza as retentativas:
 
 ## Artigos relacionados
 
-- [O que é um gateway de pagamentos?](/pt/tutorial/o-que-e-um-gateway-de-pagamentos)
-- [Diferença entre meios de pagamento e condições de pagamento](/pt/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento)
-- [O que é um adquirente?](/pt/tutorial/o-que-e-um-adquirente)
+- [O que é um gateway de pagamentos?](/pt/docs/tutorials/o-que-e-um-gateway-de-pagamentos)
+- [Diferença entre meios de pagamento e condições de pagamento](/pt/docs/tutorials/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento)
+- [O que é um adquirente?](/pt/docs/tutorials/o-que-e-um-adquirente)

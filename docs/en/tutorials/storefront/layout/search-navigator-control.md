@@ -21,7 +21,7 @@ The `<vtex.cmc:searchNavigator/>` control renders a menu of filters related to t
 
 > ℹ️ This control works **only on pages with search context**, i.e. pages where the displayed results were fetched by a user search.
 
-When users perform a search on the store page, the VTEX system tries to fetch results according to filter priority order. [Know more about the VTEX search works here.](/en/tutorial/how-does-vtex-search-work)
+When users perform a search on the store page, the VTEX system tries to fetch results according to filter priority order. [Know more about the VTEX search works here.](/en/docs/tutorials/how-does-vtex-search-work)
 
 Let's suppose that the result is a category context, which means that the user searched, for example, for the term "Shirts", the system identified that there is a category with the name "Shirts" and loads that category's page - using, therefore, the category template. If the Search Navigator control is in the code of this template, it will render a menu with filters on the page.
 
@@ -50,7 +50,7 @@ This flag can be found on the category registration screen.
 
 ![How Search Navigator control works EN 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/search-navigator-control_2.png)
 
-> ℹ️ **Important**: The `&lt;vtex.cmc:searchNavigator/&gt;` control displays, by default, only the primary-level categories (root) and the lowest-level sub-categories, within the current context. Intermediate splits in the categories tree are omitted. In addition, the control only functions on the first three levels, which traditionally are the Department, Category and Subcategory. If your [catalog architecture](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) has any other subdivisions except the three levels mentioned above, these will not be displayed using the native control.
+> ℹ️ **Important**: The `&lt;vtex.cmc:searchNavigator/&gt;` control displays, by default, only the primary-level categories (root) and the lowest-level sub-categories, within the current context. Intermediate splits in the categories tree are omitted. In addition, the control only functions on the first three levels, which traditionally are the Department, Category and Subcategory. If your [catalog architecture](/en/docs/tracks/catalog-architecture) has any other subdivisions except the three levels mentioned above, these will not be displayed using the native control.
 
 ## Brands
 
@@ -80,7 +80,7 @@ Both are found on the field registration screen.
 
 ## Price ranges
 
-If you have any [price range](/en/tutorial/setting-up-the-price-range-filter) configured in the store, it also functions as a filter and is, by default, displayed in the menu by the Search Navigator control.
+If you have any [price range](/en/docs/tutorials/setting-up-the-price-range-filter) configured in the store, it also functions as a filter and is, by default, displayed in the menu by the Search Navigator control.
 
 Since they're filters registered in categories, price ranges are only displayed on department or category pages.
 

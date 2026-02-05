@@ -34,7 +34,7 @@ Para configurar Dock, siga os passos abaixo:
 
 ## Configurar condição de pagamento
 
-Para configurar o pagamento por cartões de crédito ou débito, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento). 
+Para configurar o pagamento por cartões de crédito ou débito, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento). 
 
 Para configurar o pagamento por cartões private labels, acesse [Configurar pagamentos com Cartões de Loja](/pt/tutorial/configurar-pagamentos-com-cartoes-de-loja-bandeira-propria--428FgVdSGQUeAOoogkaIw4#).
 

@@ -37,7 +37,7 @@ Antes de realizar as alterações no pedido, fique atento às restrições da fu
 * É preciso que o [adquirente](/pt/docs/tutorials/o-que-e-um-adquirente) aceite o novo valor da operação para que a alteração ocorra.
 * O acréscimo de valores só é permitido se pedido foi pago pelas condições de pagamento **Promissory** ou **CardPromissory** (disponíveis no Admin em **Configurações da loja > Pagamentos > Configurações > Condições de pagamento**), [dinheiro](/pt/docs/tutorials/como-configurar-pagamento-customizado) ou [controle de crédito](/pt/docs/tutorials/customer-credit-visao-geral). Além disso, o [adquirente ](/pt/docs/tutorials/o-que-e-um-adquirente)deve permitir a operação sem o uso de CVV e duas operações de cobrança em um mesmo pedido.
 * A [reserva](/pt/docs/tutorials/como-a-reserva-funciona)dos itens no inventário não é automática. É preciso atualizar manualmente a quantidade de itens que ainda estão disponíveis no [inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque).
-* Não é possível [cancelar pedidos](/pt/docs/tutorials/como-cancelar-pedido) que já tenham sido [faturados parcialmente](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível alterar o pedido.
+* Não é possível [cancelar pedidos](/pt/docs/tutorials/como-cancelar-pedido) que já tenham sido [faturados parcialmente](/pt/docs/tracks/faturas-parciais). Caso o cliente deseje substituir ou remover itens do pedido, é possível alterar o pedido.
 * Não é possível alterar um pedido com a transação finalizada. Para alterações no valor do pedido com desconto, por exemplo, o OMS leva em considera que ainda é possível alterar o valor da transação se o status mostrado em Detalhes da transação é diferente de `Finished`, mesmo se o valor já tenha sido liquidado.  
 * Não é possível fazer alterações em pedidos vindos de [marketplaces integrados com a VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex) (tanto conectores nativos ou conectores de parceiros).
 * É possível alterar apenas pedidos que foram para manuseio, no status *Preparando entrega*.
@@ -67,7 +67,7 @@ As alterações no pedido serão atualizadas na seção *Itens para Faturar*, e 
 
 ### Faturas parciais
 
-Ao alterar ou remover itens de um pedido, o valor total do pedido é alterado. Nesses cenários, é necessário [faturar o pedido](/pt/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT) enviando a [fatura parcial](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) correspondente ao valor que será liquidado pelo pedido após a alteração. 
+Ao alterar ou remover itens de um pedido, o valor total do pedido é alterado. Nesses cenários, é necessário [faturar o pedido](/pt/docs/tracks/faturar-um-pedido) enviando a [fatura parcial](/pt/docs/tracks/faturas-parciais) correspondente ao valor que será liquidado pelo pedido após a alteração. 
 
 O valor total do pedido será atualizado após a inserção da nota fiscal, e corresponde ao que é captado pelo gateway de pagamentos da VTEX. Caso um item seja devolvido, o sistema de Pagamentos da VTEX fará o estorno automaticamente ao cliente.
 

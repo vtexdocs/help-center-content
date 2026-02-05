@@ -49,6 +49,6 @@ Para saber mais sobre proteção de dados, acesse [Segurança do SmartCheckout](
 ## Rastreamento de páginas
 
 Quando novos parâmetros são inseridos em uma URL, como por exemplo a `querystring`, o rastreamento de páginas pode ser alterado, impactando avaliações realizadas por sistemas como o funil de conversão do Google Analytics. Para utilizar serviço de rastreamento de páginas com parâmetros adicionais, veja as regras atualizadas em 
-[como configurar funil de vendas no Google Analytics](/pt/faq/configurar-funil-de-vendas-no-google-analytics).
+[como configurar funil de vendas no Google Analytics](/pt/docs/tutorials/configurar-funil-de-vendas-no-google-analytics).
 
 > ℹ️ Caso utilize outro sistema de rastreamento de página em sua loja, verifique a documentação interna deste sistema.

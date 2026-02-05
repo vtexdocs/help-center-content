@@ -26,9 +26,9 @@ Quando surge a necessidade de apoio, os clientes e parceiros podem contar com a 
 
 Esta trilha é dedicada à apresentação do suporte virtual prestado pela VTEX e está organizada da seguinte forma:
 
-- [Funcionamento do Suporte VTEX](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/2Ik9CGbPeZIHHaYFsuyId3)
-- [Abertura de chamados](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/6EboD7Y1BOLlWdT8JM15EE)
-- [Suporte técnico](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3thRAdTB3gGwTB0e1fVL3T)
-- [Suporte financeiro](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3g2mhmPDx5GszNgLDICzsl)
-- [Suporte comercial](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ)
-- [Rescisão de contrato](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3TUpFItxp8L1WZAD1JuYfF)
+- [Funcionamento do Suporte VTEX](/pt/docs/tracks/funcionamento-do-suporte-vtex)
+- [Abertura de chamados](/pt/docs/tracks/abertura-de-chamados)
+- [Suporte técnico](/pt/docs/tracks/suporte-tecnico)
+- [Suporte financeiro](/pt/docs/tracks/suporte-financeiro)
+- [Suporte comercial](/pt/docs/tracks/suporte-comercial)
+- [Rescisão de contrato](/pt/docs/tracks/rescisao-de-contrato)

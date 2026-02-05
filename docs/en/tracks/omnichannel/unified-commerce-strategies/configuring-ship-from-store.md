@@ -25,7 +25,7 @@ Consider this example: a customer who is at homeplaces an order on the ecommerce
 
 ## Prerequisites
 
-First of all, you must consider the prerequisites that your store needs to ensure in order to start implementing a Ship From Store strategy. Check our article on [Prerequisites for using VTEX Sales App](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u).
+First of all, you must consider the prerequisites that your store needs to ensure in order to start implementing a Ship From Store strategy. Check our article on [Prerequisites for using VTEX Sales App](/en/docs/tracks/prerequisites-for-using-vtex-sales-app).
 
 ## How to implement Ship From Store
 
@@ -38,7 +38,7 @@ These are the steps to implement __Ship From Store__:
 
 ### Create franchise accounts
 
-We recommend using the [franchise account feature](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/eujH0id9Y4WJjjmdazUKd) to implement __Ship From Store__. With them, each of your physical stores will have a separate environment, with their own logistics, but all will inherit the catalog from the main environment.
+We recommend using the [franchise account feature](/en/docs/tracks/creating-franchise-accounts) to implement __Ship From Store__. With them, each of your physical stores will have a separate environment, with their own logistics, but all will inherit the catalog from the main environment.
 
 ### Configure the logistics
 

@@ -41,7 +41,7 @@ Para obtener buenos resultados con sus imágenes y solucionar posibles problemas
 
 ## Más información
 
-- [Registrar Producto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL)
-- [Registrar SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ)
+- [Registrar Producto](/es/docs/tracks/registrar-producto)
+- [Registrar SKU](/es/docs/tracks/registrar-sku)
 - [Importar imágenes por plantilla](/es/docs/tutorials/importando-imagenes-por-plantilla)
 

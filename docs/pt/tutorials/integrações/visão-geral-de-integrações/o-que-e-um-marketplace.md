@@ -26,6 +26,6 @@ Um marketplace também pode ser entendido como uma *loja vitrine*, que exibe os 
 
 ## Artigos relacionados
 
-- [O que é um seller?](/pt/faq/o-que-e-um-seller)
+- [O que é um seller?](/pt/docs/tutorials/o-que-e-um-seller)
 - [Configurar seller](/pt/tutorial/configurando-seller)
 - [Integrar com marketplace](/pt/tutorial/integrando-com-marketplace)

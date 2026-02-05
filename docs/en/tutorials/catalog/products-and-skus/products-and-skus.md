@@ -62,8 +62,8 @@ After entering information in the search bar, it expands to display existing cri
 You can filter the product list using the options below. Select the desired filters and click `Apply`. To cancel a selection, click the selected filter and then click `Clear`.
 
 * [Status](#filtering-by-status)
-* [Brand](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh)
-* [Category](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
+* [Brand](/en/docs/tracks/brands-concept-definition)
+* [Category](/en/docs/tracks/categories-concept-definition)
 * [Seller](/en/docs/tutorials/what-is-a-seller)
 * [Kit](/en/docs/tutorials/what-is-a-bundle)
 * [Store Visibility](/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke)

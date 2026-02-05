@@ -181,7 +181,7 @@ Click `Filters` to use these filters and select **Other**. You can find the opti
 * **Currency:** Displays the currencies configured in the [trade policy](/en/docs/tutorials/how-trade-policies-work) and that have been used in orders. 
 * **Hostname:** Displays your [account name](/en/docs/tutorials/what-is-an-account-name), which is your company ID in the VTEX system. 
 * **B2B:** Select `true` to filter by orders from [B2B](/en/docs/tutorials/b2b-overview) stores or `false` for orders from other business models. 
-* **inStore:** Select `true` to filter by orders made using [inStore](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) or `false` for non-inStore orders. 
+* **inStore:** Select `true` to filter by orders made using [inStore](/en/docs/tracks/what-is-vtex-sales-app) or `false` for non-inStore orders. 
 * **Delivery channel:** Displays the type of order delivery, whether it will be delivered or picked up at a [pickup point](/en/docs/tutorials/pickup-points). The pickup option appears only for stores that have configured this feature.
 * **Country:** Displays the country where the order was made.
 * **Has return invoice:** Identifies whether the orders have a return invoice - `true` - or not - `false`.

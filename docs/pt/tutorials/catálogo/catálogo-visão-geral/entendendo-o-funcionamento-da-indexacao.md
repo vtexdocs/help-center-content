@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6jaCCq5pVL7VxL0WNWV0cF
 ---
 
-> ⚠️ Tutorial válido apenas para lojas que utilizam a busca do [CMS Portal (Legado)](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). Se a sua loja utiliza o [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), consulte a página [Histórico da Indexação](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH) para acompanhar o processo de indexação.
+> ⚠️ Tutorial válido apenas para lojas que utilizam a busca do [CMS Portal (Legado)](/pt/docs/tracks/cms-portal-legado). Se a sua loja utiliza o [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search), consulte a página [Histórico da Indexação](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH) para acompanhar o processo de indexação.
 
 A indexação é um processo que prepara os dados gerais do SKU, tais como dados de catálogo, de preço e de estoque e atualiza as informações para servir de base para pesquisas e montagens das prateleiras do site.
 

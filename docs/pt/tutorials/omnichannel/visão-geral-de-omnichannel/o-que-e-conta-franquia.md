@@ -16,7 +16,7 @@ subcategoryId: 3vhg10rO4MSmy06KeIYMIa
 order: 1
 ---
 
-Na plataforma VTEX, você tem a opção de cadastrar lojas físicas, franqueados e representantes da sua rede como contas franquia. Essa é uma forma de expandir sua estratégia de [Comércio Unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) ou Omnichannel.
+Na plataforma VTEX, você tem a opção de cadastrar lojas físicas, franqueados e representantes da sua rede como contas franquia. Essa é uma forma de expandir sua estratégia de [Comércio Unificado](/pt/docs/tracks/comercio-unificado-101) ou Omnichannel.
 
 A conta franquia é associada a uma conta principal. No caso de uma marca que possui múltiplas lojas físicas, franqueados ou representantes, cada um deles pode ter uma conta franquia vinculada à conta principal da marca. Isso permite que eles entreguem produtos vendidos pelo ecommerce da marca.
 

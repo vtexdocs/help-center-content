@@ -29,7 +29,7 @@ Venta de inventario local permite al vendedor de una tienda física realizar ven
 
 ## Crear una cuenta franquicia
 
-El primer paso es [solicitar la creación de una cuenta de franquicia](/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/eujH0id9Y4WJjjmdazUKd) para tu tienda física. La cuenta franquicia estará asociada a la cuenta principal de tu tienda y heredará su catálogo. Si ya tienes una cuenta franquicia, ve al paso siguiente.
+El primer paso es [solicitar la creación de una cuenta de franquicia](/es/docs/tracks/crear-cuentas-franquicia) para tu tienda física. La cuenta franquicia estará asociada a la cuenta principal de tu tienda y heredará su catálogo. Si ya tienes una cuenta franquicia, ve al paso siguiente.
 
 ## Crear un seller
 

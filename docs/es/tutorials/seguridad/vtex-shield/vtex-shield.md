@@ -15,7 +15,7 @@ locale: es
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
-> ℹ️ Si ya eres cliente de VTEX y deseas adoptar VTEX Shield para tu negocio, ponte en contacto con [Soporte Comercial](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Pueden aplicarse tarifas adicionales. Si aún no eres cliente pero estás interesado en esta solución, llena el [formulario de contacto](https://vtex.com/co-es/contacto/).
+> ℹ️ Si ya eres cliente de VTEX y deseas adoptar VTEX Shield para tu negocio, ponte en contacto con [Soporte Comercial](/es/docs/tracks/soporte-comercial). Pueden aplicarse tarifas adicionales. Si aún no eres cliente pero estás interesado en esta solución, llena el [formulario de contacto](https://vtex.com/co-es/contacto/).
 
 VTEX Shield ofrece capas de protección adicionales y personalizables para tiendas que priorizan la resiliencia de la plataforma, además de los estándares de seguridad garantizados por las certificaciones y [prácticas de seguridad](https://vtex.com/mx-es/security/security-practices/) existentes en VTEX.
 
@@ -45,7 +45,7 @@ Solo las tiendas con VTEX Shield que opten por este recurso pueden solicitar la 
 
 ## Data Protection Plus
 
-> ℹ️ Esta funcionalidad se encuentra en fase beta cerrada y está disponible solo en algunas regiones. Si tienes alguna duda, ponte en contacto con [nuestro soporte](/es/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
+> ℹ️ Esta funcionalidad se encuentra en fase beta cerrada y está disponible solo en algunas regiones. Si tienes alguna duda, ponte en contacto con [nuestro soporte](/es/docs/tracks/soporte-comercial).
 
 [Data Protection Plus](https://developers.vtex.com/docs/guides/data-protection-plus) es una arquitectura de datos que proporciona una capa adicional de protección para datos personales. En esta arquitectura, todos los datos de información de identificación personal (PII, Personally Identifiable Information) se almacenan en [Profile System](https://developers.vtex.com/docs/guides/profile-system), un servicio desarrollado específicamente para procesar PII siguiendo un [conjunto de reglas y procesos](https://developers.vtex.com/docs/guides/pii-data-architecture-specifications) apropiado para este objetivo.
 

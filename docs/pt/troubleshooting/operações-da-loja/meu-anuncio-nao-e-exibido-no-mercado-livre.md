@@ -31,7 +31,7 @@ Para resolver esse problema, existem duas soluções que você pode considerar: 
 
 ### Verificando a política comercial
 
-É por meio da [política comercial](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/15NZiQstCET8zyQUIa7nhw) que são definidas as configurações aplicadas aos produtos enviados para o Mercado Livre. 
+É por meio da [política comercial](/pt/docs/tracks/configurar-politica-comercial-para-o-mercado-livre) que são definidas as configurações aplicadas aos produtos enviados para o Mercado Livre. 
 
 Para validar se a política comercial está configurada corretamente no cadastro do produto, acesse __Catálogo > Todos os Produtos__ no Admin VTEX ou digite __Todos os Produtos__ na barra de busca no topo da página, e siga as instruções abaixo:
 

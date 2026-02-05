@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2OCA7SVfWoMSiAi0GEGwKo
 ---
 
-Following the [update released by Google](/en/tutorial/understanding-the-updating-of-the-xml)  in September 2015, several attribute tags used in the product feed now have pre-defined values that are required in the English language and all of them **in upper case.**
+Following the [update released by Google](/en/docs/tutorials/understanding-the-updating-of-the-xml)  in September 2015, several attribute tags used in the product feed now have pre-defined values that are required in the English language and all of them **in upper case.**
 
 This is to make it possible to integrate the products on Google Shopping and to improve the level of categorization.
 

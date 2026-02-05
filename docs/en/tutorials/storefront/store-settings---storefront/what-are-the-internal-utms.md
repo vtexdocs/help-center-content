@@ -17,7 +17,7 @@ subcategoryId: 7ogirQ8NClawO2X6xdgCKc
 
 `UTMi`s are internal UTMs, that is, URL parameters that are intended to track traffic between pages inside your site. Through them, you can trace navigation and define contexts where certain actions should be applied.
 
-Therefore, they do not aim to track traffic coming from external sites or services for purposes related to the marketing context. This is a function performed by the UTMs, as explained in the article [What are utm_source, utm_campaign and utm_medium](/en/faq/what-are-utm-source-utm-campaign-and-utm-medium).
+Therefore, they do not aim to track traffic coming from external sites or services for purposes related to the marketing context. This is a function performed by the UTMs, as explained in the article [What are utm_source, utm_campaign and utm_medium](/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium).
 
 Normally, the internal UTMs are used as __cause of benefit__. In the Promotions & Taxes module, you can define that only closed orders with a given UTM applied to the URL will receive a certain benefit. See below the field to choose or create this internal UTM in the registration of a regular benefit.![utmi1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/store-settings---storefront/what-are-the-internal-utms_1.jpg)
 

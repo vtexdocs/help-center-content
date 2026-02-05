@@ -64,7 +64,7 @@ There they are grouped by a product that has several variations/SKUs.
 
 _`Ex:` Blue shirt (product) | S, M, L (variations/SKUs)_
 
-The category is sent according to the Department filled in the [mapping worksheet](/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc).
+The category is sent according to the Department filled in the [mapping worksheet](/en/docs/tracks/mapping-categories-variations-and-attributes-in-netshoes).
 
 ## 2 - Inventory
 

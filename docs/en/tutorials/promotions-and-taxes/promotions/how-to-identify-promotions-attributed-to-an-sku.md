@@ -31,6 +31,6 @@ To find out what promotions are being attributed to an SKU, we have to analyze i
 
 ## Learn more
 
-- [How promotions work](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N)
+- [How promotions work](/en/docs/tracks/how-promotions-work)
 - [Identifying promotions applied to the cart](/en/docs/tutorials/how-to-identify-promotions-applied-to-the-cart)
 

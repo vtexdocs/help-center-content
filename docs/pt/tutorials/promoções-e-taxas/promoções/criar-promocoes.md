@@ -16,7 +16,7 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
 
-Uma promoção é um desconto concedido sobre o valor da compra do cliente. Este desconto pode estar associado a um ou mais produtos, ao frete, ou a um brinde, por exemplo. Existem os seguintes tipos de promoção na VTEX: [Regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Compre Junto](/pt/docs/tutorials/compre-junto), [Leve Mais por Menos](/pt/docs/tutorials/leve-mais-por-menos), [Desconto Progressivo](/pt/docs/tutorials/desconto-progressivo), [Compre e Ganhe](/pt/docs/tutorials/compre-e-ganhe) e [Promoção de Campanha](/pt/docs/tutorials/promocao-de-campanha). 
+Uma promoção é um desconto concedido sobre o valor da compra do cliente. Este desconto pode estar associado a um ou mais produtos, ao frete, ou a um brinde, por exemplo. Existem os seguintes tipos de promoção na VTEX: [Regular](/pt/docs/tracks/criar-promocao-regular), [Compre Junto](/pt/docs/tutorials/compre-junto), [Leve Mais por Menos](/pt/docs/tutorials/leve-mais-por-menos), [Desconto Progressivo](/pt/docs/tutorials/desconto-progressivo), [Compre e Ganhe](/pt/docs/tutorials/compre-e-ganhe) e [Promoção de Campanha](/pt/docs/tutorials/promocao-de-campanha). 
 
 Neste artigo, você encontrará o passo a passo para:
 
@@ -30,7 +30,7 @@ Neste artigo, você encontrará o passo a passo para:
 
 ## Cadastrar promoção 
 
-O tutorial abaixo indicará como criar uma [promoção regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). Veja os passos a seguir:
+O tutorial abaixo indicará como criar uma [promoção regular](/pt/docs/tracks/criar-promocao-regular). Veja os passos a seguir:
 
  1. Acesse o módulo Promoções e Taxas.
  2. Clique em Promoções

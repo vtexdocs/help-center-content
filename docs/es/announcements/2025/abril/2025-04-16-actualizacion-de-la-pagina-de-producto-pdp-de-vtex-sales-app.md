@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Optimización en la Página de Producto (PDP) de VTEX Sales App: navegación más ágil, promociones y personalización.'
 ---
 
-Hemos actualizado la Página de Producto (PDP) de [VTEX Sales App](/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6cq4E1JCmA6vCvBCCtAgIM) para mejorar la experiencia de navegación, facilitar la visualización de la información y optimizar las funcionalidades.
+Hemos actualizado la Página de Producto (PDP) de [VTEX Sales App](/es/docs/tracks/vtex-sales-app-usando-el-app) para mejorar la experiencia de navegación, facilitar la visualización de la información y optimizar las funcionalidades.
 
 ## ¿Qué cambió?
 

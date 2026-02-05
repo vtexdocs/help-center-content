@@ -38,7 +38,7 @@ Los cambios en el pedido se actualizarán en la sección *Ítems a Facturar*, y 
 
 ### Facturas Parciales
 
-Al cambiar o eliminar ítems de un pedido, el valor total del pedido cambia. En estos casos, es necesario [facturar el pedido](/es/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT) enviando la [factura parcial](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) correspondiente al importe que se liquidará por el pedido después del cambio. 
+Al cambiar o eliminar ítems de un pedido, el valor total del pedido cambia. En estos casos, es necesario [facturar el pedido](/es/docs/tracks/facturar-un-pedido) enviando la [factura parcial](/es/docs/tracks/facturas-parciales) correspondiente al importe que se liquidará por el pedido después del cambio. 
 
 El valor total del pedido se actualizará después de que se inserte la factura, y corresponde al valor capturado por el gateway de pagos de VTEX. Si el cliente devuelve un ítem, el reembolso se realizará automáticamente a través del sistema de Pagos de VTEX.
 

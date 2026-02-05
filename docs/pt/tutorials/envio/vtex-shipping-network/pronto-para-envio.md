@@ -19,7 +19,7 @@ subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 
 > ⚠️ O [VTEX Shipping Network Correios](/pt/docs/tutorials/vtex-shipping-network-correios-faq) integra sua operação com os serviços PAC e SEDEX do contrato VTEX junto aos Correios, e o [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades:<ul><li>[Painel VTEX Shipping Network](/pt/docs/tutorials/painel-vtex-shipping-network)</li><li>[Entregas Correios](/pt/docs/tutorials/entregas-correios-vtex-shipping-network)</li><li>Pronto para envio</li></ul>
 
-Quando um pedido está pronto para o envio e com a nota fiscal inserida na plataforma ([faturado](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT)), a loja providencia a etiqueta de envio e notifica a transportadora que o envio deve ser feito.
+Quando um pedido está pronto para o envio e com a nota fiscal inserida na plataforma ([faturado](/pt/docs/tracks/faturar-um-pedido)), a loja providencia a etiqueta de envio e notifica a transportadora que o envio deve ser feito.
 
 Para gerar etiquetas padronizadas e notificar as transportadoras do envio automaticamente, o [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) tem a funcionalidade **Pronto para envio**.
 

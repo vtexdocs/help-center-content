@@ -34,5 +34,5 @@ En el Admin accede a **Apps** > **Live Shopping** > **Eventos**. En la página *
 
 > ⚠️ Los detalles de uso varían según el plan seleccionado: **Lite**, **Standard**, o **Pro**. Todos los detalles de pago se proporcionan al momento de la instalación.
 
-También puedes navegar por **Apps** > **Live Shopping** >**Página global** para [configurar una página global de eventos en vivo](/es/tutorial/live-shopping-configurar-landing-page-para-transmisiones-en-vivo). Esta funcionalidad proporciona una vista general de los eventos pasados, en vivo y futuros asociados a tu cuenta, lo que permite mejorar el engagement y las oportunidades de venta incluso después de que los eventos hayan concluido o antes de que se produzcan.
+También puedes navegar por **Apps** > **Live Shopping** >**Página global** para [configurar una página global de eventos en vivo](/es/docs/tutorials/live-shopping-configurar-landing-page-para-transmisiones-en-vivo). Esta funcionalidad proporciona una vista general de los eventos pasados, en vivo y futuros asociados a tu cuenta, lo que permite mejorar el engagement y las oportunidades de venta incluso después de que los eventos hayan concluido o antes de que se produzcan.
 

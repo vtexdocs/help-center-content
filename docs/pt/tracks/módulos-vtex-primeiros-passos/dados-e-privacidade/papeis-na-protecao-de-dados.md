@@ -37,7 +37,7 @@ Nele, você encontrará informações sobre:
 * Papéis de operador e controlador.
 * Atendimento a direitos dos titulares de dados.
 * [Suboperadores](https://vtex.com/br-pt/privacy-and-agreements/subprocessors/).
-* Nossas [medidas técnicas e administrativas](/pt/tracks/dados-e-privacidade--4Lc0i0an0DgnEtB0AUwlcq/7ANSqBP5DgOrVVyglo3Lbh) de segurança de dados.
+* Nossas [medidas técnicas e administrativas](/pt/docs/tracks/medidas-tecnicas-e-administrativas) de segurança de dados.
 * Gerenciamento de incidentes de segurança.
 * Limitações de responsabilidades:
     * Pedidos de auditoria.
@@ -57,7 +57,7 @@ Tanto a VTEX quanto os lojistas devem assegurar a segurança dos dados pessoais,
 
 ## Responsabilidades da VTEX
 
-A VTEX, como operadora, poderá auxiliar o lojista no atendimento aos direitos de titulares, na realização de relatórios de impacto à privacidade e no aviso de qualquer incidente envolvendo dados pessoais de que tenha conhecimento. Ademais, nos comprometemos com as [medidas técnicas e administrativas](/pt/tracks/dados-e-privacidade--4Lc0i0an0DgnEtB0AUwlcq/7ANSqBP5DgOrVVyglo3Lbh) de segurança previstas no [DPA](https://vtex.com/us-en/privacy-and-agreements/data-processing-addendum/).
+A VTEX, como operadora, poderá auxiliar o lojista no atendimento aos direitos de titulares, na realização de relatórios de impacto à privacidade e no aviso de qualquer incidente envolvendo dados pessoais de que tenha conhecimento. Ademais, nos comprometemos com as [medidas técnicas e administrativas](/pt/docs/tracks/medidas-tecnicas-e-administrativas) de segurança previstas no [DPA](https://vtex.com/us-en/privacy-and-agreements/data-processing-addendum/).
 
 ## Responsabilidades de lojistas
 

@@ -29,7 +29,7 @@ Este tutorial contém as informações necessárias para a instalação e config
 
 Antes de instalar, é preciso:
 
-* Ter uma conta de [Seller na Amazon](https://sell.amazon.com/). Consulte o artigo [Configurações de conta na Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/43L0dpbjLBz6tcim1BbTzf) para saber mais sobre as configurações de conta necessárias.
+* Ter uma conta de [Seller na Amazon](https://sell.amazon.com/). Consulte o artigo [Configurações de conta na Amazon](/pt/docs/tracks/configuracoes-na-conta-amazon) para saber mais sobre as configurações de conta necessárias.
 * Conferir se os produtos da sua loja atendem às [políticas de restrições da Amazon](https://sellercentral.amazon.com/gp/help/external/200164330).
 * Garantir que sua loja está localizada nos países onde o MCF está disponível. Países como Estados Unidos, Austrália, México, Alemanha e Canadá já possuem o MCF da Amazon. Confira a lista atualizada de países [nesta página da Amazon](https://sell.amazon.com/fulfillment-by-amazon/fba-multi-channel.html).
 
@@ -106,7 +106,7 @@ Para instalar o aplicativo, acesse a App Store VTEX:
 
 Para que os itens que estão cadastrados em uma das plataformas fiquem disponíveis em ambas, é preciso realizar uma integração entre catálogos via marketplace. 
 
-Para realizar a integração, consulte e siga os passos do tutorial [Cadastro da integração da Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan).
+Para realizar a integração, consulte e siga os passos do tutorial [Cadastro da integração da Amazon](/pt/docs/tracks/configurar-a-integracao-da-amazon).
 
 ### Autorização entre contas
 

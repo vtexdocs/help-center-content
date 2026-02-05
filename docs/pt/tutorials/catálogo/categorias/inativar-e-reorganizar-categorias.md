@@ -70,5 +70,5 @@ Para movimentar uma categoria sem causar erros ou perder informações, siga o p
 
 ## Saiba mais
 
-* [Categorias - Definição de conceito](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
+* [Categorias - Definição de conceito](/pt/docs/tracks/categorias-definicao-de-conceito)
 * [Cadastrar uma Categoria](/pt/docs/tutorials/cadastrar-uma-categoria)

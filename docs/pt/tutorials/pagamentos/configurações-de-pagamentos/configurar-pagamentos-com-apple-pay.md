@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Seus clientes podem fazer compras usando o Apple Pay, a [carteira digital](/pt/faq/o-que-e-uma-carteira-digital-e-wallet) da Apple. Para isso, você precisa cumprir alguns requisitos:
+Seus clientes podem fazer compras usando o Apple Pay, a [carteira digital](/pt/docs/tutorials/o-que-e-uma-carteira-digital-e-wallet) da Apple. Para isso, você precisa cumprir alguns requisitos:
 
 - Ter conta em `developer.apple.com`.
 - Ter contrato com um gateway que processe pagamentos com Apple Pay.

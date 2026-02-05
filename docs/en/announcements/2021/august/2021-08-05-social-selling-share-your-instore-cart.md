@@ -45,4 +45,4 @@ The goal of this feature is to empower physical store sales reps and enable sale
 
 To use inStore Social Selling, you need to [contact the VTEX support team](https://support.vtex.com/hc/pt-br/requests) and request the installation.
 
-Check out the article [Sharing Cart using inStore Social Selling](/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy) for more information.
+Check out the article [Sharing Cart using inStore Social Selling](/en/docs/tracks/sharing-shopping-cart-using-vtex-sales-app-social-selling) for more information.

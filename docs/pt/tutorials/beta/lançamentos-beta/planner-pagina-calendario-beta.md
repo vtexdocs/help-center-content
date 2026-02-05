@@ -29,7 +29,7 @@ Existem três formas de visualização da página **Calendário**:
 
 O **Calendário** apresenta somente [lançamentos agendados](/pt/tutorial/planner-acoes-em-lancamentos-beta--1zsomdifPEQkdV6RW93JyW#agendar). Para visualizar todos os seus lançamentos, acesse a página [Lançamentos](/pt/docs/tutorials/planner-pagina-lancamentos-beta).
 
-> ⚠️ Na fase beta, os lançamentos precisam estar relacionados ao [CMS](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), pois outros módulos da plataforma VTEX ainda não estão inclusos. Para utilizar **Lançamentos**, é necessário configurar o CMS conforme descrito em [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+> ⚠️ Na fase beta, os lançamentos precisam estar relacionados ao [CMS](/pt/docs/tracks/cms-vtex-io), pois outros módulos da plataforma VTEX ainda não estão inclusos. Para utilizar **Lançamentos**, é necessário configurar o CMS conforme descrito em [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 ## Visualização por mês
 

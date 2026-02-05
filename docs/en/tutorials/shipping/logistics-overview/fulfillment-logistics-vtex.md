@@ -19,7 +19,7 @@ Logistics or fulfillment is the process of planning and executing the transporta
 
 The VTEX platform allows you to register and control your inventory, manage shipping rates, control item availability, and track deliveries. 
 
-> ℹ️ If you have not made the first steps in the **Shipping** module, check out this complementary content: The article [Getting started with Logistics](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/6Y8C1JuPtO5E61Ew91tq1a). Our [Logistics Glossary](/en/docs/tutorials/logistics-glossary), in which you can find the definitions of logistics terms used at VTEX. The logistics settings available via [API](https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview).
+> ℹ️ If you have not made the first steps in the **Shipping** module, check out this complementary content: The article [Getting started with Logistics](/en/docs/tracks/getting-started-with-logistics). Our [Logistics Glossary](/en/docs/tutorials/logistics-glossary), in which you can find the definitions of logistics terms used at VTEX. The logistics settings available via [API](https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview).
 
 To find out which logistics configurations are necessary and how to perform them, you must first understand the steps in the purchase flow of a product.
 
@@ -31,9 +31,9 @@ To find out which logistics configurations are necessary and how to perform them
 3. After the calculation, the platform displays the delivery methods available to the customer (with their respective delivery times and prices). The customer chooses between pickup and delivery and places the order. 
 Once the order is placed, the [reservation of the products is authorized](/en/tutorial/how-does-reservation-work--tutorials_92#authorized-reservation). With this, the platform ensures that the items cannot be sold again. 
 
-4. Once the [payment](/en/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB) is confirmed, the [reservation is also confirmed](/en/tutorial/how-does-reservation-work--tutorials_92#confirmed-reservation).
+4. Once the [payment](/en/docs/tracks/how-the-payments-module-works) is confirmed, the [reservation is also confirmed](/en/tutorial/how-does-reservation-work--tutorials_92#confirmed-reservation).
 5. After the payment is confirmed and the [grace period for order cancellation](/en/docs/tutorials/setting-the-grace-period-for-order-cancellation) expires, the platform waits for the retailer to handle the items. When the retailer [starts handling the order](/en/docs/tutorials/moving-order-to-start-handling-shipping), they indicate to the platform that the order items and their invoices are being prepared. From this stage, the [reservation is acknowledged](/en/tutorial/how-does-reservation-work--tutorials_92#acknowledged-reservation).
-6. The store uploads the order [invoice](/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT) on the platform.  
+6. The store uploads the order [invoice](/en/docs/tracks/invoicing-an-order) on the platform.  
 7. The shipping process begins:
     * For orders that are shipped to the customer's address (delivery), the store sends the packages to the [loading dock](/en/docs/tutorials/loading-dock) where they will be collected by the [carrier](/en/docs/tutorials/carriers-on-vtex). The carrier (chosen through the [shipping policies](/en/docs/tutorials/shipping-policy)) delivers the order.
     * For orders that are shipped to [pickup points](/en/docs/tutorials/pickup-points) (pickup), the store must make the packages ready for customer pick up. To do this, the packages are collected from the [warehouse](/en/docs/tutorials/warehouse) and transported to the pickup point. Transportation from the loading dock to the pickup point is configured using a [shipping policy](/en/docs/tutorials/shipping-policy).

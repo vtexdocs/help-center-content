@@ -26,7 +26,7 @@ A marketplace that uses white label sellers to fulfill orders benefits from more
 
 ## Relationship between white label sellers and franchise accounts 
 
-A [franchise account](/en/docs/tutorials/what-is-a-franchise-account) is a type of account associated with a standard account, primarily defined by the fact that it inherits the [catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) from the standard account. In other words, categories, products and specifications are imported to the franchise account website, which does not have to create its own products.
+A [franchise account](/en/docs/tutorials/what-is-a-franchise-account) is a type of account associated with a standard account, primarily defined by the fact that it inherits the [catalog](/en/docs/tracks/catalog-architecture) from the standard account. In other words, categories, products and specifications are imported to the franchise account website, which does not have to create its own products.
 
 A franchise account is of strategic use for sales growth operations, such as the integration of physical stores, considering the opportunity of inheriting a catalog already registered on the VTEX platform. Learn more in [What is a franchise account](/en/docs/tutorials/what-is-a-franchise-account).
 

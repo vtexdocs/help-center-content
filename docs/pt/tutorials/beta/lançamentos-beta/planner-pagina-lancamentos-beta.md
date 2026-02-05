@@ -25,7 +25,7 @@ Na página **Lançamentos**, todos os lançamentos que existem são apresentados
 
 A ordenação dos lançamentos agendados é feita com base na data de publicação: quanto mais longínquo no futuro é um lançamento primeiro ele aparece na listagem, e quanto mais distante no passado, por último ele aparece.
 
-> ⚠️ Na fase beta, os lançamentos precisam estar relacionados ao [CMS](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), pois outros módulos da plataforma VTEX ainda não estão inclusos. Para utilizar o **Lançamentos**, é necessário configurar o CMS conforme descrito em [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+> ⚠️ Na fase beta, os lançamentos precisam estar relacionados ao [CMS](/pt/docs/tracks/cms-vtex-io), pois outros módulos da plataforma VTEX ainda não estão inclusos. Para utilizar o **Lançamentos**, é necessário configurar o CMS conforme descrito em [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 ## Visualização em lista
 

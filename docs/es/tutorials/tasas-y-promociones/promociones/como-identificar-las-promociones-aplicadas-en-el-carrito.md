@@ -73,5 +73,5 @@ Para obtener más información, lea el artículo [Simulador de promociones (Beta
 
 ## Más información
 
-* [Cómo funcionan las promociones](/es/tracks/promociones--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N)
+* [Cómo funcionan las promociones](/es/docs/tracks/como-funcionan-las-promociones)
 * [Cómo identificar promociones asignadas a un SKU](/es/docs/tutorials/como-identificar-promociones-asignadas-un-sku)

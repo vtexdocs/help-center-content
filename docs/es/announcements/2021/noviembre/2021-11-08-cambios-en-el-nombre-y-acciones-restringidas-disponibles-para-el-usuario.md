@@ -29,7 +29,7 @@ Pero eso no es todo. También renovamos por completo el proceso para cambiar el 
 
 ![Gestion titular gif](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/noviembre/2021-11-08-cambios-en-el-nombre-y-acciones-restringidas-disponibles-para-el-usuario_1.gif)
 
-Consulte [Transferir la propiedad de la tienda](/es/tutorial/transferir-la-propiedad-de-la-tienda) para conocer más detalles sobre este nuevo proceso. 
+Consulte [Transferir la propiedad de la tienda](/es/docs/tutorials/transferir-la-propiedad-de-la-tienda) para conocer más detalles sobre este nuevo proceso. 
 
 ## Las credenciales de autenticación ya no están restringidas al usuario titular
 
@@ -38,5 +38,5 @@ Antes, solo el usuario titular podía crear y gestionar los pares appKey y appTo
 ## Más información
 
 * [¿Qué es el usuario titular?](/es/tutorial/que-es-el-usuario-patrocinador)
-* [Transferir la propiedad de la tienda](/es/tutorial/transferir-la-propiedad-de-la-tienda)
+* [Transferir la propiedad de la tienda](/es/docs/tutorials/transferir-la-propiedad-de-la-tienda)
 * [Autenticación](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet)

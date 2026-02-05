@@ -20,7 +20,7 @@ A plataforma VTEX promove a colaboração entre marketplaces e sellers em difere
 Na VTEX, existem três tipos de conta e cada uma permite atuar com um perfil de seller:
 
 - **Conta padrão:** dispõe das configurações de todos os módulos da plataforma VTEX e atua como seller do tipo normal, recebendo nome de [seller VTEX](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex).
-- **Conta franquia:** é criada associada a uma conta padrão, de quem ela herda o [catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR), ou seja, categorias, produtos e especificações são importados para o ambiente da [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia), que não cria produtos próprios. No entanto, ela pode configurar logística, pagamento e preços próprios. A conta franquia dispõe parcialmente dos módulos da plataforma VTEX e atua como [seller white label](/pt/docs/tutorials/seller-white-label) da conta padrão.
+- **Conta franquia:** é criada associada a uma conta padrão, de quem ela herda o [catálogo](/pt/docs/tracks/arquitetura-do-catalogo), ou seja, categorias, produtos e especificações são importados para o ambiente da [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia), que não cria produtos próprios. No entanto, ela pode configurar logística, pagamento e preços próprios. A conta franquia dispõe parcialmente dos módulos da plataforma VTEX e atua como [seller white label](/pt/docs/tutorials/seller-white-label) da conta padrão.
 - **Seller Portal:** o [Seller Portal](/pt/docs/tutorials/seller-portal-primeiros-passos) é uma edição da plataforma VTEX que permite a sellers se conectarem e venderem produtos em marketplaces do ecossistema VTEX, independente do seller já ter ou não uma conta na VTEX. O Seller Portal permite acesso parcial aos módulos da plataforma e o seller pode ser do tipo normal ou [seller white label](/pt/docs/tutorials/seller-white-label).
 
   > ⚠️ O limite para cada conta do Seller Portal é de 100 mil produtos. Para mais informações, entre em contato com nosso [Suporte](https://support.vtex.com/hc/pt-br/requests).
@@ -39,8 +39,8 @@ A seguir, há uma série de comparativos de como Seller Portal, conta padrão e 
 
 | **Aspecto** | **Seller Portal** | **Conta padrão** | **Conta franquia** |
 | ---------- | ---------- | ---------- | ---------- |
-| Criar conta | A [criação de uma conta no Seller Portal](/pt/docs/tutorials/seller-portal-primeiros-passos-para-o-marketplace) pode ser feita tanto pelo Admin VTEX, quanto por [API](/pt/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#acoes-por-api-rest). Primeiro, o marketplace VTEX solicita acesso ao Seller Portal junto ao seu Customer Success Manager (CSM). Após isso, o marketplace [convida](/pt/docs/tutorials/marketplace-convite-de-sellers) o seller e, depois do convite aceito, [ativa](/pt/docs/tutorials/marketplace-convite-de-sellers) o seller. | A VTEX e o cliente firmam um contrato e, após assinatura e aprovação interna, um novo ambiente é criado para o cliente na plataforma VTEX. | O cliente solicita a [criação da conta franquia](/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl#solicitar-criacao-de-conta-franquia) pelo [suporte](https://supporticket.vtex.com/support). É necessário ter o email do [usuário titular](/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA) (Admin Master). |
-| [Usuário titular](/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA) (Admin Master) | Há somente um usuário titular. Por padrão, o email do usuário titular é aquele que recebe o convite para o Seller Portal, mas esse email pode ser alterado. Somente o usuário titular pode [criar appKeys e appTokens](https://developers.vtex.com/vtex-rest-api/docs/getting-started-authentication). | Há um único usuário titular e, por padrão, ele é designado pelo email da pessoa que assinou o contrato com a VTEX. O usuário titular pode ser alterado e somente ele pode criar appKeys e appTokens. | Há um único usuário titular e, por padrão, ele é o mesmo da conta principal. O usuário titular pode ser alterado e somente ele pode criar appKeys e appTokens. |
+| Criar conta | A [criação de uma conta no Seller Portal](/pt/docs/tutorials/seller-portal-primeiros-passos-para-o-marketplace) pode ser feita tanto pelo Admin VTEX, quanto por [API](/pt/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#acoes-por-api-rest). Primeiro, o marketplace VTEX solicita acesso ao Seller Portal junto ao seu Customer Success Manager (CSM). Após isso, o marketplace [convida](/pt/docs/tutorials/marketplace-convite-de-sellers) o seller e, depois do convite aceito, [ativa](/pt/docs/tutorials/marketplace-convite-de-sellers) o seller. | A VTEX e o cliente firmam um contrato e, após assinatura e aprovação interna, um novo ambiente é criado para o cliente na plataforma VTEX. | O cliente solicita a [criação da conta franquia](/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl#solicitar-criacao-de-conta-franquia) pelo [suporte](https://supporticket.vtex.com/support). É necessário ter o email do [usuário titular](/pt/docs/tracks/o-que-e-o-usuario-master) (Admin Master). |
+| [Usuário titular](/pt/docs/tracks/o-que-e-o-usuario-master) (Admin Master) | Há somente um usuário titular. Por padrão, o email do usuário titular é aquele que recebe o convite para o Seller Portal, mas esse email pode ser alterado. Somente o usuário titular pode [criar appKeys e appTokens](https://developers.vtex.com/vtex-rest-api/docs/getting-started-authentication). | Há um único usuário titular e, por padrão, ele é designado pelo email da pessoa que assinou o contrato com a VTEX. O usuário titular pode ser alterado e somente ele pode criar appKeys e appTokens. | Há um único usuário titular e, por padrão, ele é o mesmo da conta principal. O usuário titular pode ser alterado e somente ele pode criar appKeys e appTokens. |
 | Gerenciar acesso de usuários com [perfis de acesso](/pt/tutorial/como-criar-perfil-de-acesso/) | Sim. | Sim. | Sim. |
 
 ## Catálogo
@@ -68,7 +68,7 @@ A seguir, há uma série de comparativos de como Seller Portal, conta padrão e 
 
 | **Aspecto** | **Seller Portal** | **Conta padrão** | **Conta franquia** |
 | ---------- | ---------- | ---------- | ---------- |
-| Seller poder criar [promoções](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N) | O seller cria e configura promoções diretamente no Seller Portal. Para mais detalhes sobre o processo de criação, acesse [Seller Portal: Criar uma promoção](/pt/docs/tutorials/seller-portal-criar-uma-promocao). | Pode criar e configurar promoções, além de realizar simulações de promoções. |
+| Seller poder criar [promoções](/pt/docs/tracks/como-funcionam-as-promocoes) | O seller cria e configura promoções diretamente no Seller Portal. Para mais detalhes sobre o processo de criação, acesse [Seller Portal: Criar uma promoção](/pt/docs/tutorials/seller-portal-criar-uma-promocao). | Pode criar e configurar promoções, além de realizar simulações de promoções. |
 | Determinar canal para promoção | O seller pode criar promoções. | Sim. | Sim. |
 | Marketplace VTEX poder criar promoções para produtos do seller | Sim. | Sim. | Sim. |
 
@@ -76,7 +76,7 @@ A seguir, há uma série de comparativos de como Seller Portal, conta padrão e 
 
 | **Aspecto** | **Seller Portal** | **Conta padrão** | **Conta franquia** |
 | ---------- | ---------- | ---------- | ---------- |
-| Refletir todos os meios de [pagamento](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/7pAEMAo4iqNHwYOarZ3zgm) no Marketplace VTEX | Sim. | Sim. | Sim. |
+| Refletir todos os meios de [pagamento](/pt/docs/tracks/configurar-um-conector-de-pagamentos) no Marketplace VTEX | Sim. | Sim. | Sim. |
 | Configurar pagamento para que pedidos com produtos de mais de um seller ofereçam somente meios de pagamento comuns aos sellers (Mínimo Múltiplo Comum) | Sim. | Sim. | Sim. |
 | Transacionar pagamento pelo seller | Sim. | Sim. | Sim. |
 | Possuir provedor de vale compra | Não. | Sim. | Sim. |
@@ -111,7 +111,7 @@ A seguir, há uma série de comparativos de como Seller Portal, conta padrão e 
 
 | **Aspecto** | **Seller Portal** | **Conta padrão** | **Conta franquia** |
 | ---------- | ---------- | ---------- | ---------- |
-| Ordenar busca com [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) no marketplace VTEX para apresentar resultados de 1P (first-party) antes de 3P (third-party) | Não. | Não. | Não. |
+| Ordenar busca com [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) no marketplace VTEX para apresentar resultados de 1P (first-party) antes de 3P (third-party) | Não. | Não. | Não. |
 
 ## Seller
 

@@ -16,14 +16,14 @@ subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 order: 1
 ---
 
-O __store name__ é a identificação de uma loja na plataforma VTEX. Ele funciona como um subaccount da conta principal (também chamada de [__account name__](/pt/tutorial/o-que-e-account-name)), estando subordinado a ela. 
+O __store name__ é a identificação de uma loja na plataforma VTEX. Ele funciona como um subaccount da conta principal (também chamada de [__account name__](/pt/docs/tutorials/o-que-e-account-name)), estando subordinado a ela. 
 
 Veja este guia para saber como [criar um nome de loja](/pt/tutorial/como-criar-um-store-name).
 
 Outro detalhe importante é que um __store name__ só pode estar vinculado a um __account name__, enquanto este último pode ter vários subaccounts.
 
 ### Artigos relacionados
-- [O que é account name?](/pt/tutorial/o-que-e-account-name)
+- [O que é account name?](/pt/docs/tutorials/o-que-e-account-name)
 - [License Manager - Visão geral](/pt/tutorial/visao-geral-do-modulo-license-manager)
 - [Como criar um store name?](/pt/tutorial/como-criar-um-store-name) 
 

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3PQwnyOcNyYgawy06oe6gE
 ---
 
-At VTEX, [warehouse](/en/docs/tutorials/warehouse) is the physical location where the store products are stored, and inventory is the relationship between the warehouses and the SKUs available for sale. To view the SKUs registered in your [catalog](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR) and respective warehouses, in your VTEX Admin, access **Catalog > Inventory > Inventory Management**.
+At VTEX, [warehouse](/en/docs/tutorials/warehouse) is the physical location where the store products are stored, and inventory is the relationship between the warehouses and the SKUs available for sale. To view the SKUs registered in your [catalog](/en/docs/tracks/catalog-concept-definition) and respective warehouses, in your VTEX Admin, access **Catalog > Inventory > Inventory Management**.
 
 This article contains information about the **Inventory Management** page. Learn how:
 

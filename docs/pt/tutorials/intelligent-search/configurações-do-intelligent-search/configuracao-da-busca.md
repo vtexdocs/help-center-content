@@ -19,7 +19,7 @@ A página **Configuração da busca** compreende os ajustes globais do VTEX Inte
 
 ## Configurações gerais
 
-As configurações gerais apresentam as opções a seguir, relacionadas a [especificações de produtos e de SKUs](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP):
+As configurações gerais apresentam as opções a seguir, relacionadas a [especificações de produtos e de SKUs](/pt/docs/tracks/especificacoes-definicao-de-conceito):
 
 * **Use as especificações de SKU para exibir produtos individuais nos resultados da pesquisa**: define quais especificações vão separar os SKUs no resultado de busca.
 

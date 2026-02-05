@@ -16,5 +16,5 @@ legacySlug: i-registered-a-similar-category-but-the-products-are-not-displayed-w
 
 There are two types of registration for similar categories, and each one has a different result in the store. The first type, which is more usual, consists of including the similar category in the product register. In this case, the products included in one category will also be shown in the other category. The second type consists on adding the similar category directly to the registration of the principal category. This type of setup will not display the products, but a link to the similar category on the pages of the category in which it was registered.
 
-For a better understanding of similar categories and their particular settings, read the article [Setting up similar categories](/en/tutorial/setting-up-similar-categories).
+For a better understanding of similar categories and their particular settings, read the article [Setting up similar categories](/en/docs/tutorials/setting-up-similar-categories).
 

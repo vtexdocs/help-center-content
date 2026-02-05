@@ -82,7 +82,7 @@ Este bloque muestra el status actual del pedido en el [flujo de pedidos](/es/doc
 
 ![Itens faturarES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/visión-de-conjunto-de-pedidos/pagina-de-detalles-del-pedido_3.png)
 
-El bloque **Ítems a facturar** contiene paquetes con ítems cuyo pago ha sido aprobado pero que aún no han sido [facturados](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT), es decir, sus facturas no se no se emitieron a la plataforma.
+El bloque **Ítems a facturar** contiene paquetes con ítems cuyo pago ha sido aprobado pero que aún no han sido [facturados](/es/docs/tracks/facturar-un-pedido), es decir, sus facturas no se no se emitieron a la plataforma.
 
 Un paquete es un envoltorio o una caja que contiene los ítems de una entrega. Un pedido puede tener más de un paquete porque puede estar compuesto de ítems de sellers o stocks distintos. En el artículo [División de pedidos y división de entregas](/es/docs/tutorials/division-de-pedidos-y-division-de-entregas), puedes obtener más información sobre la división de paquetes.
 

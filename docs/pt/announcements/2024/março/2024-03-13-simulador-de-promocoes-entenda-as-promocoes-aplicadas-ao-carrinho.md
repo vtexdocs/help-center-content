@@ -18,7 +18,7 @@ announcementSynopsisPT: 'Visualize e gerencie as promoções aplicadas no carrin
 
 Lançamos globalmente para todas as lojas VTEX o **Simulador de promoções**, nova ferramenta que permite visualizar as promoções aplicadas ao carrinho de compras na sua loja, juntamente com os motivos para sua ativação. 
 
-Diante das várias opções de configuração de [promoções](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N), esse recurso é importante para ter uma visão clara das promoções concorrentes, do acúmulo de descontos durante a compra e das razões para a ativação dessas promoções.
+Diante das várias opções de configuração de [promoções](/pt/docs/tracks/como-funcionam-as-promocoes), esse recurso é importante para ter uma visão clara das promoções concorrentes, do acúmulo de descontos durante a compra e das razões para a ativação dessas promoções.
 
 Criamos o **Simulador de promoções** para fornecer aos lojistas mais autonomia para gerenciar e conduzir as promoções de acordo com suas estratégias de negócios. Com a nova ferramenta, você poderá explorar e otimizar o desempenho das suas promoções, garantindo mais eficiência na sua operação e uma experiência de compra aprimorada para seus clientes.
 

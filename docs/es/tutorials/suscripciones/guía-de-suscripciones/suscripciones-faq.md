@@ -42,7 +42,7 @@ La cantidad de ítems en la suscripción dependerá del stock disponible en el m
 También puedes comunicar al cliente a través del módulo [Centro de mensajes](/es/docs/tutorials/correos-electronicos-transaccionales-para-pedidos-de-suscripciones) que el pedido de suscripción se generó de manera parcial. La clave de esta plantilla de mensaje es `vtexcommerce-subscriptions-partialorder`.
 
 ### ¿Puedo otorgar un descuento en los productos de un plan de suscripción?
-Sí, siempre y cuando crees una promoción regular y marques la casilla `Pedido de suscripción`. Para más información sobre cómo crear promociones, consulta la serie de artículos [Crear promoción Regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+Sí, siempre y cuando crees una promoción regular y marques la casilla `Pedido de suscripción`. Para más información sobre cómo crear promociones, consulta la serie de artículos [Crear promoción Regular](/es/docs/tracks/crear-promocion-regular).
 
 ### ¿Cuál es el plazo de entrega y la regla de flete?
 El plazo de entrega y la regla de flete se basan en las políticas de entrega vigentes en la tienda en el momento del ciclo del pedido.

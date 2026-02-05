@@ -23,7 +23,7 @@ Este escenario se puede cumplir mediante el uso de Master Data v1 y la política
 
 ## Crear cluster de clientes
 
-El primer paso es crear un clúster que la identificación de los clientes que pueden acceder a la tienda. [Para aprender cómo crear un grupo de clientes, visite nuestro manual.](/es/faq/como-crear-un-cluster-de-cliente/)
+El primer paso es crear un clúster que la identificación de los clientes que pueden acceder a la tienda. [Para aprender cómo crear un grupo de clientes, visite nuestro manual.](/es/docs/tutorials/como-crear-un-cluster-de-cliente/)
 
 ## Cambiar Política Comercial
 
@@ -42,7 +42,7 @@ Sin embargo, hay otras opciones de configuración. Se puede configurar, por ejem
 
 ## Registrar los clientes que pueden acceder
 
-Para el caso de B2B, donde la tienda no sabe qué clientes pueden acceder, se debe crear una forma en que las empresas registren sus datos. A través del Master Data se comprobará la verificación de datos y se dará acceso o no a la tienda. [Para realizar este ajuste, visite nuestro manual para las tiendas B2B.](/es/tutorial/configurando-b2b-na-vtex/)
+Para el caso de B2B, donde la tienda no sabe qué clientes pueden acceder, se debe crear una forma en que las empresas registren sus datos. A través del Master Data se comprobará la verificación de datos y se dará acceso o no a la tienda. [Para realizar este ajuste, visite nuestro manual para las tiendas B2B.](/es/docs/tutorials/configurando-b2b-na-vtex/)
 
 ## Learn more
 

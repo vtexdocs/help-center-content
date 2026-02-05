@@ -26,7 +26,7 @@ order: 5
    * **Ambiente*:** escolha a opção _Produção_ para utilizar o ambiente real de vendas da Netshoes. Esta é a configuração sugerida. Caso você queira realizar algum teste na integração, marque _QA_.
 <br/>
 > ⚠️ **Se você optou pelo ambiente QA**, para que a integração funcione será necessário utilizar um token de teste no campo **Chave de acesso à API da Netshoes** (descrito adiante).
-   * **Id do afiliado*:** código identificador para criação de um [afiliado](/pt/tutorial/o-que-e-afiliado) que ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não, vogais não são aceitas. Sugestão: NTS. A configuração do conector cria automaticamente o afiliado.
+   * **Id do afiliado*:** código identificador para criação de um [afiliado](/pt/docs/tutorials/o-que-e-afiliado) que ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não, vogais não são aceitas. Sugestão: NTS. A configuração do conector cria automaticamente o afiliado.
 
    * **Email do afiliado*:** preencha com um email para o afiliado que está sendo criado.
 

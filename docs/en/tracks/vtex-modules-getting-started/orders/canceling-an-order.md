@@ -22,7 +22,7 @@ You can cancel an order with VTEX in three different ways:
 
 > ⚠️ Once an order is canceled, you cannot change its status. Orders that have **invoiced** status can not be canceled.
 
-> ℹ️ Orders with [partial invoices](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](/en/docs/tutorials/canceling-orders). If the customer wants to replace or remove items from the order, it is possible to [change the order](/en/docs/tutorials/changing-items-from-a-complete-order).
+> ℹ️ Orders with [partial invoices](/en/docs/tracks/partial-invoices) cannot be [canceled](/en/docs/tutorials/canceling-orders). If the customer wants to replace or remove items from the order, it is possible to [change the order](/en/docs/tutorials/changing-items-from-a-complete-order).
 
 ## Cancellation through Orders module
 
@@ -45,7 +45,7 @@ Check out our [ERP integration guide](https://developers.vtex.com/docs/erp-integ
 
 The customer can request the cancellation of the order through the **My orders** screen.
 
-If the customer requests cancellation within the grace period of the order, which is [configurable](/en/tutorial/setting-the-grace-period-for-order-cancellation), the store does not need to approve cancellation. It is considered that the picking, packing and delivery flow has not yet started, so the cancellation would not bring any burden to the store.
+If the customer requests cancellation within the grace period of the order, which is [configurable](/en/docs/tutorials/setting-the-grace-period-for-order-cancellation), the store does not need to approve cancellation. It is considered that the picking, packing and delivery flow has not yet started, so the cancellation would not bring any burden to the store.
 
 After the grace period, it is understood that the store is already acting on the order. In such case, the store must confirm the cancellation request.
 

@@ -28,7 +28,7 @@ Terminadas as etapas de conﬁguração da sua conta na Livelo e da sua conta na
 | **Campo** | **Descrição** | **Exemplo** |
 |---|---|---|
 | **Status da integração** | Botão que define se a integração estará ligada ou desligada. | <i class="fas fa-toggle-on"></i>  ou <i class="fas fa-toggle-off"></i> |
-| **ID do Afiliado** | Código identificador para criação de um [afiliado](/pt/tutorial/o-que-e-afiliado) que ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não. Vogais não são aceitas.  A configuração do conector cria automaticamente o afiliado. | LVL |
+| **ID do Afiliado** | Código identificador para criação de um [afiliado](/pt/docs/tutorials/o-que-e-afiliado) que ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não. Vogais não são aceitas.  A configuração do conector cria automaticamente o afiliado. | LVL |
 | **Email** | Email do responsável pela loja. | email@integracao.com |
 | **Canal de vendas** | Identificador da [política comercial](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace) que definirá o sortimento de catálogo e os valores dos itens que serão enviados para a Livelo. | 1 |
 | **Client Id** | Identificador fornecido pela Livelo. | lvlteste |

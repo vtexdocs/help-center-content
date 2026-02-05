@@ -17,8 +17,8 @@ subcategoryId: 4id9W3RDyw02CasOm2C2iy
 
 A atualização de preços em marketplaces depende de dois fatores:
 
-- Cadastro de preços para os produtos na [tabela de preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) associada à política comercial usada na integração com o marketplace.
+- Cadastro de preços para os produtos na [tabela de preços](/pt/docs/tracks/tabelas-de-preco-definicao-de-conceito) associada à política comercial usada na integração com o marketplace.
 - [Indexação do produto](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao) após cadastro do novo preço.
 - Para que um preço fixo agendado seja aplicado no marketplace, é necessário que haja uma alteração de preço na lista de preços correspondente. Essa alteração serve como um gatilho para notificar o marketplace sobre a nova precificação.
 
-> ⚠️ Apenas [preços fixos](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj) são utilizados nas nossas integrações nativas com marketplaces. Outros cenários previstos na [arquitetura do sistema de preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx) estão disponíveis apenas para marketplace VTEX-VTEX.
+> ⚠️ Apenas [preços fixos](/pt/docs/tracks/cadastrar-preco-fixo) são utilizados nas nossas integrações nativas com marketplaces. Outros cenários previstos na [arquitetura do sistema de preços](/pt/docs/tracks/arquitetura-do-sistema-de-precos) estão disponíveis apenas para marketplace VTEX-VTEX.

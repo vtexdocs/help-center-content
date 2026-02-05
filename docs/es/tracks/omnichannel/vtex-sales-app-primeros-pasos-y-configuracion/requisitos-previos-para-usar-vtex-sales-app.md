@@ -44,7 +44,7 @@ VTEX Sales App también funciona en computadores con sistema operativo **Windows
 * 4 GB de memoria RAM (o superior)
 * 120GB de HD/SSD (o superior)
 
-Para saber cómo instalar la aplicación VTEX Sales App, accede a nuestra guía de [instalación](/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/2rPSJ8519UCCZo5uEBkqxh).
+Para saber cómo instalar la aplicación VTEX Sales App, accede a nuestra guía de [instalación](/es/docs/tracks/instalacion).
 
 ### Internet
 
@@ -64,7 +64,7 @@ Recomendaciones adicionales:
 
 Con VTEX Sales App, puedes escanear el código de barras de tus productos utilizando la cámara de tu _tablet _o _smartphone_, aunque no funcionen tan bien como los dispositivos especializados en esta función.
 
-Es esencial que registres el código de barras de cada ítem en su Catálogo, siguiendo los pasos de la guía [Registro de códigos de barras de los SKU para VTEX Sales App](/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/4eooWH0d8Aiwzparyi4Hg).
+Es esencial que registres el código de barras de cada ítem en su Catálogo, siguiendo los pasos de la guía [Registro de códigos de barras de los SKU para VTEX Sales App](/es/docs/tracks/registrar-el-codigo-de-barras-de-los-skus-para-vtex-sales-app).
 
 Te recomendamos que utilices un lector de código de barras específico si tu tienda suele recibir pedidos de varios ítems y si es importante tener más velocidad y precisión en el momento de finalización de la compra. Puedes elegir cualquier lector de código de barras para escanear los productos en VTEX Sales App. Un ejemplo de lector de código de barras es el Honeywell Solaris MK7820.
 
@@ -104,21 +104,21 @@ Puedes ponerte en contacto con el [equipo de soporte de VTEX](https://support.vt
 
 ## Casos de uso
 
-A continuación se describen los requisitos previos y las recomendaciones para los principales casos de uso de VTEX Sales App en tu estrategia de [comercio unificado](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3).
+A continuación se describen los requisitos previos y las recomendaciones para los principales casos de uso de VTEX Sales App en tu estrategia de [comercio unificado](/es/docs/tracks/comercio-unificado-101).
 
 ### Pasillo infinito
 
-El [pasillo infinito](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) es el recurso que permite a tus clientes acceder a todo tu inventario, integrado en todos los canales. Así, si un cliente está en una tienda física, puede comprar un producto del _stock_ de otras tiendas o incluso de tu ecommerce.
+El [pasillo infinito](/es/docs/tracks/pasillo-infinito) es el recurso que permite a tus clientes acceder a todo tu inventario, integrado en todos los canales. Así, si un cliente está en una tienda física, puede comprar un producto del _stock_ de otras tiendas o incluso de tu ecommerce.
 
-Para más información, consulta nuestra guía sobre el [Pasillo infinito](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn).
+Para más información, consulta nuestra guía sobre el [Pasillo infinito](/es/docs/tracks/pasillo-infinito).
 
 Los requisitos previos para implementar el pasillo infinito en tu tienda son todos los elementos descritos anteriormente.
 
 ### Envío desde la tienda y Puntos de recogida
 
-El [Envío desde la tienda](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/50GAmxxFsJoLWqcnMysWdl) transforma tus tiendas físicas en pequeños centros de distribución. Con este recurso, puedes enviar productos desde el _stock_ de una tienda aunque no se hayan comprado allí.
+El [Envío desde la tienda](/es/docs/tracks/configurar-ship-from-store) transforma tus tiendas físicas en pequeños centros de distribución. Con este recurso, puedes enviar productos desde el _stock_ de una tienda aunque no se hayan comprado allí.
 
-Los [Puntos de recogida](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/4hXfgqXxS1lwAfnxgja3xW) son lugares donde los clientes tienen la opción de recoger ellos mismos sus pedidos. Las tiendas físicas de tu cadena, por ejemplo, pueden funcionar como puntos de recogida.
+Los [Puntos de recogida](/es/docs/tracks/configurar-tiendas-fisicas-como-puntos-de-recogida) son lugares donde los clientes tienen la opción de recoger ellos mismos sus pedidos. Las tiendas físicas de tu cadena, por ejemplo, pueden funcionar como puntos de recogida.
 
 Los requisitos previos para implementar estas estrategias son todos los elementos descritos anteriormente.
 

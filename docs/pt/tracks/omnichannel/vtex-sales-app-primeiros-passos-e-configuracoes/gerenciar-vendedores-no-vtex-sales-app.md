@@ -15,7 +15,7 @@ trackSlugEN: vtex-sales-app-getting-started-and-setting-up
 order: 6
 ---
 
-Após realizar as [configurações básicas do VTEX Sales App no Admin](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), é possível adicionar novos vendedores ao sistema ou gerenciar os vendedores já cadastrados.
+Após realizar as [configurações básicas do VTEX Sales App no Admin](/pt/docs/tracks/vtex-sales-app-configuracoes-basicas), é possível adicionar novos vendedores ao sistema ou gerenciar os vendedores já cadastrados.
 
 A categoria Vendedores representa uma seção dentro das Configurações da loja do Admin VTEX, exibindo a lista completa dos vendedores registrados no aplicativo **VTEX Sales App** da loja. Dentro dessa página, é possível administrar as informações dos vendedores em todas as [contas franquias](/pt/docs/tutorials/o-que-e-conta-franquia) da sua loja, realizando operações de [cadastrar](#cadastrar-vendedor), [buscar](#buscar-vendedor), [filtrar](#filtrar-vendedores), [editar](#editar-vendedor) e [inativar](#inativar-vendedor).
 

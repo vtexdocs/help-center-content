@@ -19,7 +19,7 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 
 La gestión de una operación de _ecommerce_ exige que el _retailer_ haga una serie de actualizaciones y cambios en su tienda que, muchas veces, suelen relacionarse entre sí; por ejemplo, una campaña publicitaria en la cual se deben configurar distintos elementos del _storefront_.
 
-Con el módulo **Lanzamientos**, el _retailer_ puede administrar grupos de cambios relacionados a fin de coordinar la planificación, la creación, la programación y la publicación de los cambios en la tienda. En la versión Beta, los cambios que se pueden agrupar deben estar relacionados con el [CMS](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2). Aún no se incluyeron otros módulos de la plataforma VTEX.
+Con el módulo **Lanzamientos**, el _retailer_ puede administrar grupos de cambios relacionados a fin de coordinar la planificación, la creación, la programación y la publicación de los cambios en la tienda. En la versión Beta, los cambios que se pueden agrupar deben estar relacionados con el [CMS](/es/docs/tracks/cms-vtex-io). Aún no se incluyeron otros módulos de la plataforma VTEX.
 
 Los principales beneficios para el módulo son:
 

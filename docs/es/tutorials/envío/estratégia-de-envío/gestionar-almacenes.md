@@ -70,4 +70,4 @@ Este artículo contiene la información necesaria para:
 3. En la tarjeta del almacén que desea eliminar, haga clic en <i class="fas fa-ellipsis-v"></i>
 4. Seleccione la opción `Eliminar`.
 
-> ⚠️ Para añadir ítems al almacén, primero debe registrarlos en el catálogo. Después de registrar los ítems a través del [catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) y tener un almacén registrado, debe asociar los ítems a su respectivo almacén en la página [Gestión del stock](/es/docs/tutorials/gestionar-items-en-inventario).
+> ⚠️ Para añadir ítems al almacén, primero debe registrarlos en el catálogo. Después de registrar los ítems a través del [catálogo](/es/docs/tracks/arquitectura-del-catalogo) y tener un almacén registrado, debe asociar los ítems a su respectivo almacén en la página [Gestión del stock](/es/docs/tutorials/gestionar-items-en-inventario).

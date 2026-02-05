@@ -15,7 +15,7 @@ trackSlugEN: integrating-with-google-shopping
 order: 4
 ---
 
-The [price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) of your product on Google Shopping is determined when you choose the trade policy. It is essential to pay attention to a few things.
+The [price](/en/docs/tracks/prices-module-overview) of your product on Google Shopping is determined when you choose the trade policy. It is essential to pay attention to a few things.
 
 If your trade policy includes [list prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#preco-de-lista) and [computed prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx#preco-computado), the latter will be sent to Google Shopping. For these promotions to be displayed on Google Shopping, the products must meet the following requirements in the Merchant Center:  
 
@@ -28,7 +28,7 @@ Once your products meet all the requirements listed above, the tool applies the 
 
 ## Discount linked to payment method  
 
-You can activate a discount linked to a payment method in two steps: First, [configure the discount](#configuring-discounts) and the payment method. Then, activate the discounts in the [connector configuration](/en/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl). 
+You can activate a discount linked to a payment method in two steps: First, [configure the discount](#configuring-discounts) and the payment method. Then, activate the discounts in the [connector configuration](/en/docs/tracks/configuring-the-connector). 
 
 ### Configuring discounts  
 
@@ -38,7 +38,7 @@ To configure a discount linked to a payment method, see the following documentat
 2. [Configuring a discount for orders paid in full](/en/docs/tutorials/configuring-a-discount-for-orders-prepaid-in-full) to link an SKU to a payment method.  
 3. [Configuring discounts for orders paid in full on Google Shopping](/en/docs/tutorials/configuring-discounts-for-orders-prepaid-in-full-on-google-shopping).  
 
-After following these instructions, you should activate the connector by [configuring the connector](/en/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl).
+After following these instructions, you should activate the connector by [configuring the connector](/en/docs/tracks/configuring-the-connector).
 
 > ⚠️ When multiple sellers are linked to a product in your store, the rule for Google Shopping is to offer the best discount available.
 

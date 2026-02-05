@@ -26,7 +26,7 @@ O benefício para o marketplace ao ter pedidos enviados por sellers white label 
 
 ## Relação entre seller white label e conta franquia
 
-A [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) é um tipo de conta criada associada a uma conta padrão, sendo a sua principal característica herdar o [catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) da conta padrão. Ou seja, categorias, produtos e especificações são importados para o ambiente da conta franquia, que não cria produtos próprios.
+A [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) é um tipo de conta criada associada a uma conta padrão, sendo a sua principal característica herdar o [catálogo](/pt/docs/tracks/arquitetura-do-catalogo) da conta padrão. Ou seja, categorias, produtos e especificações são importados para o ambiente da conta franquia, que não cria produtos próprios.
 
 Utilizar a conta franquia é estratégico para operações que desejam expandir suas vendas com a integração de lojas físicas, por exemplo, pois existe a facilidade de herdar um catálogo já cadastrado na plataforma VTEX. Saiba mais em [O que é conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia).
 

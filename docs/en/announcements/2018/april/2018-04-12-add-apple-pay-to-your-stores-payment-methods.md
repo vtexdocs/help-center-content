@@ -19,4 +19,4 @@ __Apple Pay__ just arrived in Brazil and is already available for your store. Th
 
 Simple, fast and safe, this payment method brings more convenience to all those who own a device from the California based company. Some of its main benefits include unique codes for each transaction and the fact that neither the user's device nor Apple's servers store card numbers.
 
-[Make Apple Pay's setup on your store](/en/tutorial/setting-up-payments-with-apple-pay) today and add more innovation to your client's shopping experience.
+[Make Apple Pay's setup on your store](/en/docs/tutorials/setting-up-payments-with-apple-pay) today and add more innovation to your client's shopping experience.

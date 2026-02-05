@@ -39,7 +39,7 @@ Para lojas que usam [Store Framework](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdv
 
 ## CMS - Portal Legado
 
-Para lojas que usam o [CMS - Portal Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), é necessário remover o script do **Live Shopping** seguindo os passos abaixo: 
+Para lojas que usam o [CMS - Portal Legado](/pt/docs/tracks/cms-portal-legado), é necessário remover o script do **Live Shopping** seguindo os passos abaixo: 
 
 1. No Admin VTEX, acesse **Storefront > Layout**, ou digite **Layout** na barra de busca no topo da página.
 2. Clique em **CMS > Templates HTML**.

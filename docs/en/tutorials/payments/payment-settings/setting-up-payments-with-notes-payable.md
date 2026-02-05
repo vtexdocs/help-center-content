@@ -53,4 +53,4 @@ After registering the payment provider, follow the steps below:
 
 After completing all the steps, the notes payable payment will be configured and ready to be used in your store.
 
-Learn how to associate it with a payment condition in our article [Configuring payment conditions](/en/tutorial/how-to-configure-payment-conditions).
+Learn how to associate it with a payment condition in our article [Configuring payment conditions](/en/docs/tutorials/how-to-configure-payment-conditions).

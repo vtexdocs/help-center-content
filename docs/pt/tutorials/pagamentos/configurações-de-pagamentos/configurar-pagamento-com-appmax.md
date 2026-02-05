@@ -26,7 +26,7 @@ Para configurar Appmax, siga os passos abaixo:
 5. Após autorizar, você retornará automaticamente para o Admin VTEX, e os campos __Application Key__, __Application Token__, __Application Id__ já estarão preenchidos.
 6. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela Appmax, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento). 
+Para configurar os métodos de pagamento a serem processados pela Appmax, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento). 
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

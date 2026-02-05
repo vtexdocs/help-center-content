@@ -34,7 +34,7 @@ Para entender cómo funciona la selección de promociones, a continuación se de
 
 Los efectos de las promociones están relacionados con el beneficio que cada una ofrece. Hay cuatro tipos:
 
-- **Descuento en el precio:** promociones que aplican un descuento porcentual o de valor fijo sobre el valor del producto. Esto incluye algunos descuentos de la promoción [Regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) y cualquier otra condición que afecte el precio de un ítem.  
+- **Descuento en el precio:** promociones que aplican un descuento porcentual o de valor fijo sobre el valor del producto. Esto incluye algunos descuentos de la promoción [Regular](/es/docs/tracks/crear-promocion-regular) y cualquier otra condición que afecte el precio de un ítem.  
 - **Descuento en el envío**: [promociones que aplican descuento en el envío](/es/docs/tutorials/registrar-promociones-de-flete).  
 - **Regalo**: promociones que otorgan un regalo al cliente.  
 - **Fórmula**: promociones con tipo de descuento de valor fijo basado en [fórmula](/es/docs/tutorials/promocion-regular-con-descuento-nominal-basado-en-la-formula), una de las opciones de la promoción Regular.

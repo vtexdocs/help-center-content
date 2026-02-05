@@ -15,16 +15,16 @@ locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-Placeholders são trechos de código que podem ser usados em qualquer layout e aceitam condições de exibição. Em outras palavras, são elementos predefinidos que precisam ser configurados para que possam ser exibidos para os usuários do seu [web site](/pt/tutorial/o-que-e-um-web-site).
+Placeholders são trechos de código que podem ser usados em qualquer layout e aceitam condições de exibição. Em outras palavras, são elementos predefinidos que precisam ser configurados para que possam ser exibidos para os usuários do seu [web site](/pt/docs/tutorials/o-que-e-um-web-site).
 
-Para isso, você deve usar os [layouts](/pt/tutorial/o-que-sao-layouts). São eles que vão indicar o tipo de placeholder (e o arquivo do qual ele vai puxar o conteúdo), permitindo que o código consiga referenciar essa informação e mostrá-la nas páginas. 
+Para isso, você deve usar os [layouts](/pt/docs/tutorials/o-que-sao-layouts). São eles que vão indicar o tipo de placeholder (e o arquivo do qual ele vai puxar o conteúdo), permitindo que o código consiga referenciar essa informação e mostrá-la nas páginas. 
 
-Temos, assim, uma cadeia que envolve: a configuração do placeholder no layout e a conexão deste último com um [template](/pt/tutorial/o-que-sao-templates) (repositório do código que estrutura determinada página).
+Temos, assim, uma cadeia que envolve: a configuração do placeholder no layout e a conexão deste último com um [template](/pt/docs/tutorials/o-que-sao-templates) (repositório do código que estrutura determinada página).
 
 O tipos de placeholders configuráveis são: Banner, Banner DHTML, Coleção e HTML.
 
 ### Artigos relacionados
-- [O que é o CMS?](/pt/faq/o-que-e-o-cms)
-- [O que é um web site?](/pt/tutorial/o-que-e-um-web-site)
-- [O que são layouts?](/pt/tutorial/o-que-sao-layouts)
-- [O que são templates?](/pt/tutorial/o-que-sao-templates) 
+- [O que é o CMS?](/pt/tracks/o-que-e-o-cms)
+- [O que é um web site?](/pt/docs/tutorials/o-que-e-um-web-site)
+- [O que são layouts?](/pt/docs/tutorials/o-que-sao-layouts)
+- [O que são templates?](/pt/docs/tutorials/o-que-sao-templates) 

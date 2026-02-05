@@ -24,8 +24,8 @@ O cadastro do conector é feito no Admin da VTEX. Para realizá-la, siga as inst
 
 - __Integração Ativada*:__ marque `Sim` para que a integração comece a operar.
 - __E-mail de notificação*:__ preencha com o e-mail do responsável da sua loja VTEX. Caso ocorra algum erro na integração do pedido, será enviada uma mensagem para o e-mail cadastrado.
-- __ShopKey*:__ preencha com Token enviado pelo Carrefour na etapa [Configuração no Carrefour](/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2/4ixukTWxz7PsN2fdNOZUue).
-- __ShopId:__ preencher com ID da sua loja enviado pelo Carrefour na etapa [Configuração no Carrefour](/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2/4ixukTWxz7PsN2fdNOZUue).
+- __ShopKey*:__ preencha com Token enviado pelo Carrefour na etapa [Configuração no Carrefour](/pt/docs/tracks/visao-geral-da-integracao-com-carrefour).
+- __ShopId:__ preencher com ID da sua loja enviado pelo Carrefour na etapa [Configuração no Carrefour](/pt/docs/tracks/visao-geral-da-integracao-com-carrefour).
 - __Título do produto*:__ nesse campo, você deve escolher qual o formato do anúncio que seu produto terá no Carrefour Marketplace. As opções são:
   * Nome do produto - Nome do SKU
   * Marca - Nome do produto - Nome do SKU

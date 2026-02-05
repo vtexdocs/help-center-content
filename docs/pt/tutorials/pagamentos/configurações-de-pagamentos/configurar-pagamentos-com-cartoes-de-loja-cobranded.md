@@ -49,7 +49,7 @@ Após configurar o cartão, será necessária a configuração da condição de 
 6. Em __Processar com a afiliação__, escolha o conector que irá processar os pagamentos com o cartão de loja co-branded. Somente estarão disponíveis para seleção, os conectores que suportam este método de pagamento.
 7. Se houver um antifraude configurado na sua loja, você pode ativá-lo para essa condição de pagamento marcando a caixa __Usar Antifraude__.
 8. Escolha se os pagamentos serão à vista ou parcelados.
-9. Você também pode configurar [condições especiais de pagamento](/pt/tutorial/condicoes-especiais).
+9. Você também pode configurar [condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais).
 10. Clique em __Salvar__.
 
 Depois de seguir os passos indicados, o __cartão de loja (co-branded)__ vai aparecer no checkout da sua loja como uma opção de pagamento.

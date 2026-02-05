@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-PicPay is a [digital wallet](/en/faq/what-is-an-e-wallet) that allows transfers between users, including merchants. Your customer chooses to pay with it and receives a code to scan using the smartphone application.
+PicPay is a [digital wallet](/en/docs/tutorials/what-is-an-e-wallet) that allows transfers between users, including merchants. Your customer chooses to pay with it and receives a code to scan using the smartphone application.
 
 To configure PicPay, follow the steps below:
 
@@ -33,7 +33,7 @@ To configure PicPay, follow the steps below:
 4. Click the __Status__ button to enable this payment condition.
 5. If there's an anti-fraud set up in your store, you can activate it for this payment condition by checking the __Use Anti-Fraud__ box.
 6. Choose whether the payments will be cash or installments.
-7. You can also set up [special payment terms](/en/tutorial/special-conditions).
+7. You can also set up [special payment terms](/en/docs/tutorials/special-conditions).
 8. Click __Save__.
 
 After following the steps indicated above, PicPay will appear at your store checkout as a payment option. After clicking __Finalize Purchase__, a code will be displayed for your customer to scan with the mobile application and make the payment.

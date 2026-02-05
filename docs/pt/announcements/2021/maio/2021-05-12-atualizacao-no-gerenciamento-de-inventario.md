@@ -39,5 +39,5 @@ Nenhuma alteração é necessária para utilização da atualização, e ela est
 
 O processo de atualização está ocorrendo desde outubro de 2020, as contas que já utilizam a novidade, bem como as contas elegíveis à atualização, perderão acesso ao inventário antigo, ficando apenas com o novo. Apenas as contas que não têm o Admin da VTEX atualizado continuarão com acesso ao Inventário antigo.
 
-Confira nossa documentação sobre a nova página [Gerenciar Inventário](/pt/tutorial/gerenciar-itens-em-estoque) para saber mais.
+Confira nossa documentação sobre a nova página [Gerenciar Inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) para saber mais.
 

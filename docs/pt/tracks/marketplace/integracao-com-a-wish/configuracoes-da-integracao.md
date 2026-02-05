@@ -90,7 +90,7 @@ Qualquer pedido que possua uma diferença entre o preço de venda do _marketplac
 
 Neste campo deve ser colocado o valor (em percentual) de até quanto o valor do pedido pode ser divergente do valor original.
 
-_Ex: a taxa definida é de 10%. O valor original do pedido deveria ser de R$ 100,00, mas ele veio da Wish como R$ 109,00, então, considerando a taxa definida, o pedido será integrado. Porém, se o pedido tivesse vindo com R$ 150,00, então ele teria sido barrado e exibido na [aba de pedidos (dentro da seção de integrações no Admin)](/pt/tutorial/verificando-integracao-no-bridge)._
+_Ex: a taxa definida é de 10%. O valor original do pedido deveria ser de R$ 100,00, mas ele veio da Wish como R$ 109,00, então, considerando a taxa definida, o pedido será integrado. Porém, se o pedido tivesse vindo com R$ 150,00, então ele teria sido barrado e exibido na [aba de pedidos (dentro da seção de integrações no Admin)](/pt/docs/tutorials/verificando-integracao-no-bridge)._
 
 ## Conversão de moeda
 

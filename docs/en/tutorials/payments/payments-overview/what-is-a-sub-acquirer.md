@@ -15,10 +15,10 @@ locale: en
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
-A __sub-acquirer__ is a company that processes payments and transmits the generated data to the other players involved in the [payment flow](/en/faq/credit-card-basic-payment-flow). Its role is similar to that of an [acquirer](/en/tutorial/what-is-an-acquirer), but it doesn't completely replace it. Thus, it can be understood as a kind of intermediary player between acquirer and store.
+A __sub-acquirer__ is a company that processes payments and transmits the generated data to the other players involved in the [payment flow](/en/docs/tutorials/credit-card-basic-payment-flow). Its role is similar to that of an [acquirer](/en/docs/tutorials/what-is-an-acquirer), but it doesn't completely replace it. Thus, it can be understood as a kind of intermediary player between acquirer and store.
 
 The main advantages of a __sub-acquirer__ are its low implementation cost and ease of integration, which makes this a very attractive solution for small stores. On the other hand, the cost per operation is higher than those performed directly with the acquirers.
 
 ### Related articles
-- [What is an acquirer?](/en/tutorial/what-is-an-acquirer)
-- [Credit card - Basic payment flow](/en/faq/credit-card-basic-payment-flow)
+- [What is an acquirer?](/en/docs/tutorials/what-is-an-acquirer)
+- [Credit card - Basic payment flow](/en/docs/tutorials/credit-card-basic-payment-flow)

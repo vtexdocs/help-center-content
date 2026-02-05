@@ -21,7 +21,7 @@ En la página __Storefront__ > __Layout__, se establece un layout estándar para
 
 Pero, existe la posibilidad de aplicar diferentes layouts para una misma página a través de algunas condiciones (grupo de productos, categorías, marcas). Serían dos productos con layouts distintos o una categoría específica con layout especial, por ejemplo.
 
-Para eso, basta insertar un nuevo template, ya sea de [página](/es/faq/como-crear-un-template-de-pagina/child) o de [estante](/es/faq/como-crear-un-template-de-estante). Después de crearlo, siga los pasos abajo para seleccionar la carpeta que desea agregar el nuevo layout:
+Para eso, basta insertar un nuevo template, ya sea de [página](/es/faq/como-crear-un-template-de-pagina/child) o de [estante](/es/docs/tutorials/como-crear-un-template-de-estante). Después de crearlo, siga los pasos abajo para seleccionar la carpeta que desea agregar el nuevo layout:
 
 1. En __Storefront__, acceda __Layout__;
 2. Haga clic en la carpeta __CMS__;

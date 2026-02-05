@@ -15,15 +15,15 @@ locale: en
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
-The movement that money makes when exchanged for a product or service is what we call __transaction__. Thus, payment is only one step in a process that involves an intense flow of information exchange between several parties: [gateways](/en/tutorial/what-is-a-payment-gateway), [sub-acquirers](/en/tutorial/what-is-a-sub-acquirer) and/or [acquirers](/en/tutorial/what-is-an-acquirer), [brands](/en/tutorial/what-is-a-credit-card-brand) and [issuing banks](/en/tutorial/what-is-the-issuing-bank).
+The movement that money makes when exchanged for a product or service is what we call __transaction__. Thus, payment is only one step in a process that involves an intense flow of information exchange between several parties: [gateways](/en/docs/tutorials/what-is-a-payment-gateway), [sub-acquirers](/en/docs/tutorials/what-is-a-sub-acquirer) and/or [acquirers](/en/docs/tutorials/what-is-an-acquirer), [brands](/en/docs/tutorials/what-is-a-credit-card-brand) and [issuing banks](/en/docs/tutorials/what-is-the-issuing-bank).
 
-In a VTEX store, a transaction starts every time a user chooses a [payment condition](/en/tutorial/difference-between-payment-methods-and-payment-conditions) and closes their order. From there, the purchase data is sent for the validation of each of the members involved in this process. You can track each step of the [transaction flow](/en/tutorial/transaction-flow-in-payments) on the Payments. With this module, you accurately visualize the status of a payment through each status.
+In a VTEX store, a transaction starts every time a user chooses a [payment condition](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) and closes their order. From there, the purchase data is sent for the validation of each of the members involved in this process. You can track each step of the [transaction flow](/en/docs/tutorials/transaction-flow-in-payments) on the Payments. With this module, you accurately visualize the status of a payment through each status.
 
 ### Related articles
-- [What is a payment gateway?](/en/tutorial/what-is-a-payment-gateway)
-- [What is a sub-acquirer?](/en/tutorial/what-is-a-sub-acquirer)
-- [What is an acquirer?](/en/tutorial/what-is-an-acquirer)
-- [What is a credit card brand?](/en/tutorial/what-is-a-credit-card-brand)
-- [What is the issuing bank?](/en/tutorial/what-is-the-issuing-bank)
-- [Difference between payment methods and payment conditions](/en/tutorial/difference-between-payment-methods-and-payment-conditions)
+- [What is a payment gateway?](/en/docs/tutorials/what-is-a-payment-gateway)
+- [What is a sub-acquirer?](/en/docs/tutorials/what-is-a-sub-acquirer)
+- [What is an acquirer?](/en/docs/tutorials/what-is-an-acquirer)
+- [What is a credit card brand?](/en/docs/tutorials/what-is-a-credit-card-brand)
+- [What is the issuing bank?](/en/docs/tutorials/what-is-the-issuing-bank)
+- [Difference between payment methods and payment conditions](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions)
 - [Transaction flow in Payments](/en/docs/tutorials/transaction-flow-in-payments)

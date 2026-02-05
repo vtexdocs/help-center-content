@@ -24,7 +24,7 @@ Después de definir el árbol de categorías y el registro de [especificaciones 
 
 Si al realizar la importación de SKUs vía plantilla se muestra el mensaje `"An error occurred in the data writing process. Make sure your worksheet data is consistent with the instructions and try again."`, puede ser que durante la importación:
 
-- [No se rellenaron las especificaciones de SKU obligatorias](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP).
+- [No se rellenaron las especificaciones de SKU obligatorias](/es/docs/tracks/especificaciones-definicion-de-concepto).
 - El archivo tiene un formato incorrecto.
 
 ## Solución

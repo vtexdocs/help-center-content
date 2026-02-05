@@ -56,7 +56,7 @@ Os campos desta seção são sobre os dados gerais do produto:
   > ℹ️ Este campo permite adicionar uma imagem à descrição do produto, usando uma tag HTML que contenha a URL da imagem. No entanto, recomendamos que as imagens do seu catálogo sejam gerenciadas como [mídias de SKUs](/pt/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN#imagens).
 
 - **Descrição complementar:** ao ativar o toggle <i class="fas fa-toggle-on" aria-hidden="true"></i> **Descrição complementar**, aparece uma caixa de texto para preencher com conteúdo adicional do produto, como informações resumidas.
-- **Marca*:** digite ou busque o nome da [marca](/pt/docs/tutorials/o-que-e-uma-marca) do produto, e selecione a opção desejada. É necessário [cadastrar a marca](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7lEGOSpAlQJCs5eUc5XFmR) previamente e garantir que ela esteja ativa.
+- **Marca*:** digite ou busque o nome da [marca](/pt/docs/tutorials/o-que-e-uma-marca) do produto, e selecione a opção desejada. É necessário [cadastrar a marca](/pt/docs/tracks/cadastrar-marcas) previamente e garantir que ela esteja ativa.
 - **Categoria*:** digite ou busque o nome da [categoria](/pt/docs/tutorials/o-que-e-uma-categoria) do produto, e selecione a opção desejada, dando preferência ao nível de categoria mais específico. Além de [cadastrar a categoria](/pt/docs/tutorials/cadastrar-uma-categoria) previamente, você deve garantir que ela esteja ativa.
 - **Políticas comerciais:** escolha se o produto deve ser vinculado a “Todas as [políticas comerciais](/pt/docs/tutorials/como-funciona-uma-politica-comercial)” ou a “Políticas comerciais específicas”. A segunda opção vem marcada por padrão, mas você precisa atribuir um ou mais valores para o campo.
 
@@ -84,7 +84,7 @@ Os campos desta seção tratam do produto no contexto de [storefront](/pt/docs/t
 * **Palavras similares:** inclua sinônimos dos nomes do departamento e/ou categoria do produto. Para isso, após digitar o termo desejado, aperte `enter`. Este campo é importante para que as buscas do produto sejam mais abrangentes, você pode incluir diversas palavras, até o limite de 8.000 caracteres.
   > Exemplo: para o produto "Televisão", algumas palavras substitutas seriam "TV", "Tevê" e “televisor”.
 
-* **Categorias similares:** adicione os nomes das [categorias similares](/pt/tutorial/configurando-categoria-similar).
+* **Categorias similares:** adicione os nomes das [categorias similares](/pt/docs/tutorials/configurando-categoria-similar).
 * **Prioridade na ordenação da busca:** clicando nas setas, atribua um nível de prioridade do produto na página de resultados de buscas. Valores negativos não são possíveis. Para mais informações, veja o artigo [Como funciona o campo Score?](/pt/docs/tutorials/como-funciona-o-campo-score).
 
 ## Identificadores

@@ -37,7 +37,7 @@ En dicho documento podrás consultar la siguiente información:
 * Roles del encargado y responsable del tratamiento de los datos.
 * Cumplimiento de los derechos de los titulares de los datos.
 * [Encargados secundarios](https://vtex.com/co-es/privacy-and-agreements/subprocessors/).
-* Nuestras [medidas técnicas y administrativas](/es/tracks/datos-y-privacidad--4Lc0i0an0DgnEtB0AUwlcq/7ANSqBP5DgOrVVyglo3Lbh) de seguridad de los datos.
+* Nuestras [medidas técnicas y administrativas](/es/docs/tracks/medidas-tecnicas-y-administrativas) de seguridad de los datos.
 * Gestión de incidentes de seguridad.
 * Limitaciones de responsabilidad:
     * Solicitudes de auditoría.
@@ -57,7 +57,7 @@ Tanto VTEX como los retailers deben garantizar la seguridad de los datos persona
 
 ## Responsabilidades de VTEX
 
-VTEX, como encargada del tratamiento de los datos, podrá asistir al retailer en el cumplimiento de los derechos de los titulares, en la realización de informes de impacto sobre la privacidad y en la notificación de cualquier incidencia sobre datos personales de la que tenga conocimiento. Además, VTEX se compromete a cumplir las [medidas de seguridad técnicas y administrativas](/es/tracks/datos-y-privacidad--4Lc0i0an0DgnEtB0AUwlcq/7ANSqBP5DgOrVVyglo3Lbh) establecidas en el [DPA](https://vtex.com/co-es/privacy-and-agreements/data-processing-addendum/).
+VTEX, como encargada del tratamiento de los datos, podrá asistir al retailer en el cumplimiento de los derechos de los titulares, en la realización de informes de impacto sobre la privacidad y en la notificación de cualquier incidencia sobre datos personales de la que tenga conocimiento. Además, VTEX se compromete a cumplir las [medidas de seguridad técnicas y administrativas](/es/docs/tracks/medidas-tecnicas-y-administrativas) establecidas en el [DPA](https://vtex.com/co-es/privacy-and-agreements/data-processing-addendum/).
 
 ## Responsabilidades de retailers
 

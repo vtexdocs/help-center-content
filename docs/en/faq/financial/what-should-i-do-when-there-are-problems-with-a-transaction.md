@@ -14,7 +14,7 @@ locale: en
 legacySlug: what-should-i-do-when-there-are-problems-with-a-transaction
 ---
 
-To resolve problems with a transaction quickly, you must first understand the *log* structure detailed in the transactions at VTEX Admin. See [here](/en/tutorial/how-to-view-the-orders-details/) how to view a transaction.
+To resolve problems with a transaction quickly, you must first understand the *log* structure detailed in the transactions at VTEX Admin. See [here](/en/docs/tutorials/how-to-view-the-orders-details/) how to view a transaction.
 
 The *log* records all contacts between VTEX and the partner, whether gateway or antifraud. It goes from the bottom of the page to the top, where the most recent contacts appear.
 

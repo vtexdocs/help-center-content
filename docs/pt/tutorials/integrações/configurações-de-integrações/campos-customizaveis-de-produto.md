@@ -25,7 +25,7 @@ Veja na tabela abaixo quais campos podem ser customizados e qual a descrição d
 | **Nome do campo** | **Descrição** |
 |:---:|:---:|
 | meli_title | Envia o nome cadastrado neste campo ao invés do nome que consta no campo `title`. |
-| meli_shipping_mode | Define o [tipo logístico](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy) utilizado pelo seller: [me1](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy#mercado-envios-1-me1) ou [me2](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy#mercado-envios-2-me2). |
+| meli_shipping_mode | Define o [tipo logístico](/pt/docs/tracks/configurar-logistica-para-o-mercado-livre) utilizado pelo seller: [me1](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy#mercado-envios-1-me1) ou [me2](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy#mercado-envios-2-me2). |
 | officialstoreid_meli | Define qual a loja oficial do seller no Mercado Livre. |
 | plaintext_description_meli | Envia a descrição de produto cadastrada neste campo ao invés da descrição que consta no campo `productDescription`. |
 | free_shipping | Informa ao Mercado Livre se o produto é oferecido com a opção de frete grátis.  |

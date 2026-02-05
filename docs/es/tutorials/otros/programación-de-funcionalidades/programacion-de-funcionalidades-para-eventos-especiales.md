@@ -30,7 +30,7 @@ Para programar los precios fijos de su tienda para un evento específico, siga l
 
 ## Programar promociones
 
-La programación de la promoción se hace durante su creación. Es posible programar todos los tipos de promoción VTEX - [Promoción Regular](/es/tracks/promociones--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Comprar Juntos](/es/docs/tutorials/comprar-juntos-registro-de-promocion), [Más por Menos](/es/docs/tutorials/mas-por-menos), [Descuento Progresivo](/es/docs/tutorials/descuento-progresivo), [Comprar y Obtener](/es/docs/tutorials/como-funciona-la-promocion-compre-y-gane) y [Promoción de Campaña](/es/docs/tutorials/promocion-de-campana). 
+La programación de la promoción se hace durante su creación. Es posible programar todos los tipos de promoción VTEX - [Promoción Regular](/es/docs/tracks/crear-promocion-regular), [Comprar Juntos](/es/docs/tutorials/comprar-juntos-registro-de-promocion), [Más por Menos](/es/docs/tutorials/mas-por-menos), [Descuento Progresivo](/es/docs/tutorials/descuento-progresivo), [Comprar y Obtener](/es/docs/tutorials/como-funciona-la-promocion-compre-y-gane) y [Promoción de Campaña](/es/docs/tutorials/promocion-de-campana). 
 
 Para programar una promoción, siga los pasos a continuación:
 

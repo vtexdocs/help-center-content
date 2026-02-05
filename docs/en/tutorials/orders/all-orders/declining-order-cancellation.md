@@ -25,7 +25,7 @@ For developer’s content, see [Order canceling improvements](https://developers
 
 > ℹ️ In this article, the terms marketplace and seller refer to [VTEX marketplace](/en/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-marketplace) and [VTEX seller](/en/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-marketplace). The decline cancellation request feature is not available for external sellers and marketplaces.
 
-> ⚠️ Orders with [partial invoices](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](/en/docs/tutorials/canceling-orders). If the customer wants to replace or remove items from the order, it is possible to [change the order](/en/docs/tutorials/changing-items-from-a-complete-order).
+> ⚠️ Orders with [partial invoices](/en/docs/tracks/partial-invoices) cannot be [canceled](/en/docs/tutorials/canceling-orders). If the customer wants to replace or remove items from the order, it is possible to [change the order](/en/docs/tutorials/changing-items-from-a-complete-order).
 
 ## Order cancellation declined diagram
 

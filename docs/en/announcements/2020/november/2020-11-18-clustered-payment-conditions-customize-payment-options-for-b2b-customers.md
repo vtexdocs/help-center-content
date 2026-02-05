@@ -33,4 +33,4 @@ To configure Customer Credit as a payment method, the first step is to set rules
 
 Once this is done, you can define whether these rules will be valid for one or more customers. 
 
-For more details on how the app works, check [the Clustered Payment Conditions track](/en/tracks/condicoes-de-pagamento-clusterizadas--1LqUFHQZ3ZQyV5TmugbGNm/4z2upCJ2om27Cs0BVJRA0U).
+For more details on how the app works, check [the Clustered Payment Conditions track](/en/docs/tracks/what-are-clustered-payment-conditions).

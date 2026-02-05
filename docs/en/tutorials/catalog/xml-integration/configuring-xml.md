@@ -53,7 +53,7 @@ Once you have this, follow the steps below to configure your XML:
 7. Choose which collection will have its products listed.
 8. Select the currency symbol in the prices.
 9. Choose the price format, more specifically whether or not to use the thousands separator.
-10. Select whether to use standard separator for categories or the Google Shopping separator (read more about configurations for XML on Google Shopping in the article [Value Standard for Product Specifications Attribute – XML GoogleShopping](/en/tutorial/product-specifications-attribute-googleshopping-xml).
+10. Select whether to use standard separator for categories or the Google Shopping separator (read more about configurations for XML on Google Shopping in the article [Value Standard for Product Specifications Attribute – XML GoogleShopping](/en/docs/tutorials/product-specifications-attribute-googleshopping-xml).
 11. Choose whether or not to display the unavailable SKUs on the marketplace site, in other words, whether the product will be displayed for purchase, even if it is not available for immediate delivery.
 12. Select whether you want the product displayed with the default SKU information.
 13. Thereafter, you have to enter the tags in accordance with the what has been defined by the system you will be sending the XML to. You must check the selection box in the __Show content__ column, for the tags which have a name entered. The tags with this option checked, and which you cannot deselect, are mandatory.

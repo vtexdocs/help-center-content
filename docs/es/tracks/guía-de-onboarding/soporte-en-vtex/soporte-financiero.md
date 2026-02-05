@@ -15,7 +15,7 @@ trackSlugEN: soporte-en-vtex
 order: 5
 ---
 
-Después de que [el cliente llega a VTEX](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4EPwTXx5oFdSG1dA3zIchz), pueden surgir dudas relacionadas con cambios en los datos de registro, información de cobros, facturas y otros aspectos financieros de la cuenta. En este sentido, el soporte financiero está disponible para ayudar en cuestiones contractuales y financieras relacionadas con las tiendas y VTEX.
+Después de que [el cliente llega a VTEX](/es/docs/tracks/configuracion-inicial), pueden surgir dudas relacionadas con cambios en los datos de registro, información de cobros, facturas y otros aspectos financieros de la cuenta. En este sentido, el soporte financiero está disponible para ayudar en cuestiones contractuales y financieras relacionadas con las tiendas y VTEX.
 
 Puedes empezar consultando los artículos del Help Center y las secciones presentadas a continuación:
 

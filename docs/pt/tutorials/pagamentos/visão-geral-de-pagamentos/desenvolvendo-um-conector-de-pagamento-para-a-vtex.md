@@ -188,11 +188,11 @@ O suporte ao Google Pay com [tokenização DPAN](/pt/docs/tutorials/dpan-e-fpan-
 - __Compatibilidade com múltiplos dispositivos:__ permite o uso do mesmo cartão em diferentes dispositivos sem nova autenticação.
 - __Redução de custos com fraudes:__ a tokenização evita o uso indevido de credenciais, o que pode diminuir o número de chargebacks.  
 
-> ⚠️ O suporte ao Google Pay com DPAN só está disponível por meio da [carteira Google Pay nativa da VTEX](/pt/tracks/carteira-digital-e-wallet--6X8YyZBoVJpz5R8oXciTyu/61JMBvM5Vanqj6RaJsP8CT).  
+> ⚠️ O suporte ao Google Pay com DPAN só está disponível por meio da [carteira Google Pay nativa da VTEX](/pt/docs/tracks/google-pay).  
 
 #### Suporte a pagamento via POS (VTEX Sales App) 
 
-Conectores compatíveis com pagamentos via [POS](https://pt.wikipedia.org/wiki/Caixa_(varejo)) no [VTEX Sales App](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes) viabilizam transações [Omnichannel](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) entre o ambiente físico e digital. Entre os benefícios, estão:
+Conectores compatíveis com pagamentos via [POS](https://pt.wikipedia.org/wiki/Caixa_(varejo)) no [VTEX Sales App](https://help.vtex.com/pt/docs/tracks/vtex-sales-app-primeiros-passos-e-configuracoes) viabilizam transações [Omnichannel](/pt/docs/tracks/comercio-unificado-101) entre o ambiente físico e digital. Entre os benefícios, estão:
 
 - __Integração entre canais:__ o cliente pode iniciar uma compra online e finalizá-la na loja física utilizando o mesmo meio de pagamento.
 - __Redução de erros operacionais:__ como o pagamento é integrado ao VTEX Sales App, não é necessário registrar transações manualmente no [ERP](https://pt.wikipedia.org/wiki/Sistema_integrado_de_gest%C3%A3o_empresarial).

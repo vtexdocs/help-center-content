@@ -28,7 +28,7 @@ The articles listed below are intended to explain in detail the process of prici
 
 The new price list consists of: a list of products with their base prices; rules for modifying product prices according to Commercial Policies; rules for rounding up or down price; and a section on general configurations.
 
-- [Adding Price Tables](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/2WQ3pVYfQpXkJnHr7VTFBv)
-- [Price rule](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/2rBirbpB7wLnei4dQ9KGMW)
+- [Adding Price Tables](/en/docs/tracks/cadastrar-tabelas-de-preco)
+- [Price rule](/en/docs/tracks/regra-de-preco-definicao-de-conceito)
 - [Rounding Rules](/en/tutorial/psychological-price-v2/)
 - [Price Configuration](/en/docs/tutorials/prices-settings)

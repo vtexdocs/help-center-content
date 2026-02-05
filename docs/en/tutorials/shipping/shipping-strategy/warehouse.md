@@ -28,7 +28,7 @@ On the VTEX platform, you can add the name of the warehouse, add items to the wa
 
 After adding a warehouse, you can add the products available there. You can have multiple warehouses and add specific items to each of them, and that will be reflected in your logistics configuration. 
 
-> ℹ️ To add products to a warehouse, they must be previously added to your [catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR). This way you can link them to the warehouse via the [Inventory Management](/en/docs/tutorials/managing-stock-items) page in the Admin.
+> ℹ️ To add products to a warehouse, they must be previously added to your [catalog](/en/docs/tracks/catalog-architecture). This way you can link them to the warehouse via the [Inventory Management](/en/docs/tutorials/managing-stock-items) page in the Admin.
 
 The availability of products in your store represents items from different warehouses. This means that for the end customer, the items that are available during navigation in the store refer to all warehouses. Thus, it is possible that a single purchase includes products from different warehouses. For more information about inventory flow control and product availability, read the article on [Inventory Management](/en/docs/tutorials/managing-stock-items).
 

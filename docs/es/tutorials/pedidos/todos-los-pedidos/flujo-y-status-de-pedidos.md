@@ -106,11 +106,11 @@ La cancelación de un pedido se inicia en varios escenarios. Para cada tipo de c
 
 - **[Pedidos incompletos](/es/docs/tutorials/como-encontrar-un-pedido):** cuando el pedido está incompleto no se inicia el flujo de pedidos. Esto es para que el _seller_ no realice la preparación y no haya reserva de _stock_.
 - **[Solicitud de cancelación por parte del cliente](/es/docs/tutorials/cancelacion-de-pedido-solicitada-por-el-cliente):** el cliente realiza la cancelación durante el periodo de cancelación o solicita la cancelación a la tienda. Cuando la cancelación ocurre dentro del periodo de cancelación, los ítems del pedido no se reservan. Pero, si la cancelación se produce después de la preparación del pedido (después del status `Iniciar preparación`), los ítems han sido reservados.
-- **[Cancelación por parte de la tienda](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/4ts2ItvjYo8wm5gg76miS3):** el _seller_ o _marketplace_ renunció a la venta y canceló el pedido.
+- **[Cancelación por parte de la tienda](/es/docs/tracks/cancelar-pedido):** el _seller_ o _marketplace_ renunció a la venta y canceló el pedido.
 
 Cuando se solicita la cancelación de un pedido, la plataforma procesa automáticamente la cancelación del pedido. El reembolso del pago al cliente depende de la etapa en la que se encuentre el pago y del medio de pago utilizado.
 
-No es posible [cancelar](/es/docs/tutorials/como-cancelar-pedido) pedidos [parcialmente facturados](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado).
+No es posible [cancelar](/es/docs/tutorials/como-cancelar-pedido) pedidos [parcialmente facturados](/es/docs/tracks/facturas-parciales). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado).
 
 > ℹ️ Ve más información sobre la cancelación y el reembolso en los artículos [¿Por qué se cobró en la factura del cliente mi pedido cancelado?](/es/faq/por-que-meu-pedido-cancelado-foi-cobrado-na-fatura-do-cliente) y [Reembolso o cancelación](/es/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#reembolsocancelamento).
 

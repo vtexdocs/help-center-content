@@ -20,9 +20,9 @@ Este artigo tem como objetivo explicar como funciona o fluxo básico de um pagam
 ![Credit Card Flow](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/visão-geral-de-pagamentos/cartao-de-credito-fluxo-basico-de-um-pagamento_1.jpg)
 
 1. Na tela de Checkout, o cliente escolhe o __Meio de Pagamento__ cartão de crédito para realizar o pagamento de sua compra.
-2. As informações deste pagamento são passadas para o __Gateway de Pagamentos__. O [gateway](/pt/tutorial/o-que-e-um-gateway-de-pagamentos) é o player responsável por garantir que este pagamento seja realizado com sucesso.
-3. Com as informações em mãos, o gateway de pagamentos repassa as informações necessárias para o __Adquirente__. Os [adquirentes](/pt/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil#adquirente) são responsáveis por liquidações das transações financeiras com os varejistas.
-4. Em posse das informações, o adquirente envia os dados do pagamento para a __Bandeira__. A [bandeira](/pt/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil#bandeira-de-cartao) determina algumas regras de negócio para os pagamentos, como a quantidade de parcelas. Além disso, ela conecta o sistema de adquirentes com os bancos emissores.
+2. As informações deste pagamento são passadas para o __Gateway de Pagamentos__. O [gateway](/pt/docs/tutorials/o-que-e-um-gateway-de-pagamentos) é o player responsável por garantir que este pagamento seja realizado com sucesso.
+3. Com as informações em mãos, o gateway de pagamentos repassa as informações necessárias para o __Adquirente__. Os [adquirentes](/pt/docs/tutorials/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil#adquirente) são responsáveis por liquidações das transações financeiras com os varejistas.
+4. Em posse das informações, o adquirente envia os dados do pagamento para a __Bandeira__. A [bandeira](/pt/docs/tutorials/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil#bandeira-de-cartao) determina algumas regras de negócio para os pagamentos, como a quantidade de parcelas. Além disso, ela conecta o sistema de adquirentes com os bancos emissores.
 5. Por fim, a bandeira envia as informações do pagamento para o __Banco Emissor__. O banco emissor faz a análise de crédito, verifica o limite disponível e então autoriza ou nega o pagamento.
 
 Com a resposta do banco emissor, é realizado o fluxo inverso e o __Gateway de Pagamentos__ recebe a informação se o pagamento foi aprovado ou negado.

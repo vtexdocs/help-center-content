@@ -25,7 +25,7 @@ Veja abaixo os principais recursos da toolbar:
 *   [Entrar como cliente](#entrar-como-cliente)
 *   [Informações do cliente](#informacoes-do-cliente)
 
-Para habilitar a toolbar de televendas, é necessário que o administrador da loja [atribua o perfil Call Center Operator](/pt/faq/como-criar-um-usuario-de-televendas) aos operadores de televendas. No Admin VTEX, acesse **Configurações da conta > Perfis de Acesso**, ou digite **Perfis de Acesso** na barra de busca no topo da página.
+Para habilitar a toolbar de televendas, é necessário que o administrador da loja [atribua o perfil Call Center Operator](/pt/docs/tutorials/como-criar-um-usuario-de-televendas) aos operadores de televendas. No Admin VTEX, acesse **Configurações da conta > Perfis de Acesso**, ou digite **Perfis de Acesso** na barra de busca no topo da página.
 
 Para saber como customizar a aparência da Toolbar no módulo **CMS**, confira o artigo [Customizar a Toolbar de televendas](/pt/docs/tutorials/customizar-a-toolbar-de-televendas).
 

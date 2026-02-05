@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 
-Uma loja virtual deve ter um único endereço principal, que irá [apontar para os servidores da VTEX](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ) antes do lançamento oficial da loja. Veja [Configurar o domínio da loja](/pt/docs/tutorials/configurar-o-dominio-da-loja) para saber as regras que o endereço precisa cumprir e como cadastrá-lo.
+Uma loja virtual deve ter um único endereço principal, que irá [apontar para os servidores da VTEX](/pt/docs/tracks/pre-go-live) antes do lançamento oficial da loja. Veja [Configurar o domínio da loja](/pt/docs/tutorials/configurar-o-dominio-da-loja) para saber as regras que o endereço precisa cumprir e como cadastrá-lo.
 
 Para permitir o acesso à loja por outros endereços e versões sem subdomínio, é necessário configurar o redirecionamento desses endereços para o endereço principal da loja, cadastrado em **Configurações da conta > Conta > Lojas** no Admin VTEX. Veja exemplos abaixo:
 

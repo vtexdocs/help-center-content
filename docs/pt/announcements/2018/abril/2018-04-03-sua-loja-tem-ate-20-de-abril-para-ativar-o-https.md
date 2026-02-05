@@ -21,4 +21,4 @@ Além dos ganhos em segurança da informação, o HTTPS garante um melhor ranque
 
 Habilitar o HTTPS também é requisito fundamental para usar a nova CDN da VTEX, conforme anunciado [aqui](/pt/announcements/lojas-tem-ate-20-de-abril-para-ativar-nova-cdn). Disponível desde outubro de 2017, a nova CDN será obrigatória a partir de __20 de abril__ e vai contribuir para o aumento da performance do seu website.
 
-Para ativar o HTTPS em toda a sua loja, siga os passos [deste artigo do Help](/pt/tutorial/ativar-https-em-todo-o-site).
+Para ativar o HTTPS em toda a sua loja, siga os passos [deste artigo do Help](/pt/docs/tutorials/ativar-https-em-todo-o-site).

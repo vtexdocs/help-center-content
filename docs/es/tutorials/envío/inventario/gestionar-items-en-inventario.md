@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3PQwnyOcNyYgawy06oe6gE
 ---
 
-En VTEX, [almacén](/es/docs/tutorials/almacen) es la identificación de las ubicaciones físicas de almacenamiento de productos de la tienda y _stock_ es la relación entre los almacenes y los SKU disponibles para la venta. Para visualizar los SKU registrados en el [catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR) y los respectivos almacenes, accede al Admin VTEX y haz clic en **Catálogo > Stock > Gestión del stock**.
+En VTEX, [almacén](/es/docs/tutorials/almacen) es la identificación de las ubicaciones físicas de almacenamiento de productos de la tienda y _stock_ es la relación entre los almacenes y los SKU disponibles para la venta. Para visualizar los SKU registrados en el [catálogo](/es/docs/tracks/catalogo-definicion-de-concepto) y los respectivos almacenes, accede al Admin VTEX y haz clic en **Catálogo > Stock > Gestión del stock**.
 
 Este artículo detalla la información de la página **Gestión del stock**. Aprende cómo:
 

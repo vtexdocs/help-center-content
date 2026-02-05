@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 
-An online store must have a single main address [pointing to VTEX's servers](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ) before the store is officially launched. Read the [Configuring the store domain](/en/docs/tutorials/configuring-the-store-domain) article to understand the rules the address must comply with and the process for adding it.
+An online store must have a single main address [pointing to VTEX's servers](/en/docs/tracks/pre-go-live) before the store is officially launched. Read the [Configuring the store domain](/en/docs/tutorials/configuring-the-store-domain) article to understand the rules the address must comply with and the process for adding it.
 
 To allow access to the store through other addresses and versions without a subdomain, you need to configure these addresses to redirect to the store's main address, which is listed in **Account settings > Account > Stores** in the VTEX Admin. See examples below:
 

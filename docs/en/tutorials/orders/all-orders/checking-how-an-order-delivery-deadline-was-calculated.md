@@ -57,4 +57,4 @@ Each of the three cost times corresponds to what was defined for the three steps
 
 ### Related articles
 
-- [How the order delivery deadline is calculated](/en/tutorial/how-is-the-order-delivery-deadline-calculated)
+- [How the order delivery deadline is calculated](/en/docs/tutorials/how-is-the-order-delivery-deadline-calculated)

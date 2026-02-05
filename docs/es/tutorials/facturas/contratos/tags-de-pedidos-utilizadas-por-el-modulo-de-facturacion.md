@@ -53,7 +53,7 @@ Las próximas secciones describen cada uno de estos grupos.
 A continuación se listan las tags de los canales de venta que generan el pedido:
 
 * **IsInStore:** solución [VTEX Sales App](/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc).
-* **IsInfiniteShelf:** funcionalidad [Pasillo infinito](/es/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) de **VTEX Sales App**. Esta tag se aplica cuando el ítem del [stock](/es/docs/tutorials/gestionar-items-en-inventario) que fue vendido no estaba almacenado localmente.
+* **IsInfiniteShelf:** funcionalidad [Pasillo infinito](/es/docs/tracks/pasillo-infinito) de **VTEX Sales App**. Esta tag se aplica cuando el ítem del [stock](/es/docs/tutorials/gestionar-items-en-inventario) que fue vendido no estaba almacenado localmente.
 * **IsSalesAppDeliveredByMainAccount:** solución [VTEX Sales App](/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc). Esta tag se aplica cuando el ítem vendido pertenecía a la [cuenta principal](/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-cuenta-vtex) y la venta se realizó en el entorno de la cuenta principal.
 * **IsSocialSelling:** aplicación [Carrito compartido (Social Selling)](/es/docs/tutorials/como-usar-la-app-carrito-compartido).
 

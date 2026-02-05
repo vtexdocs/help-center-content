@@ -21,56 +21,56 @@ This article aims to illustrate some common promotion scenarios and how to confi
 
 $50 off $400 to $699.
 
-- “$50 off” makes this a [Regular Promotion - Nominal](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “$50 off” makes this a [Regular Promotion - Nominal](/en/docs/tracks/creating-regular-promotions).
 - “$400 to $699” is a restriction that can be included with the minimum and maximum value of the order setting or item price.
 
 ## Scenario 2
 
 Extra savings on in sale goods when spending between $250 and $499
 
-- “An extra discount” is a [Regular Promotion](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) that accumulates with other benefits.
+- “An extra discount” is a [Regular Promotion](/en/docs/tracks/creating-regular-promotions) that accumulates with other benefits.
 - “$250 to $499” is a restriction that can be included with the minimum and maximum value of the order setting.
 
 ## Scenario 3
 
 Get an extra 20% off on all in sale products.
 
-- “An extra 20% discount” is a [Regular Promotion - Percentage](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) that accumulates with other benefits.
+- “An extra 20% discount” is a [Regular Promotion - Percentage](/en/docs/tracks/creating-regular-promotions) that accumulates with other benefits.
 - “All Clearance Merchandise” is a collection this benefit will be applied to.
 
 ## Scenario 4
 
 Limited-time free shipping.
 
-- “Free shipping” makes this a [Regular Promotion - Free Shipping](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “Free shipping” makes this a [Regular Promotion - Free Shipping](/en/docs/tracks/creating-regular-promotions).
 - “Limited time” is a restriction that can be configured on the Expiration date.
 
 ## Scenario 5
 
 Save $100 on all leather jackets.
 
-- “$100” makes this a [Regular Promotion - Nominal](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “$100” makes this a [Regular Promotion - Nominal](/en/docs/tracks/creating-regular-promotions).
 - “All leather jackets” is a collection or category this benefit will be applied to.
 
 ## Scenario 6
 
 Save $75 on all leather jackets and fashion jackets.
 
-- “$75” makes this a [Regular Promotion - Nominal](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “$75” makes this a [Regular Promotion - Nominal](/en/docs/tracks/creating-regular-promotions).
 - “All Leather jackets” and fashion jackets are a collection or category this benefit will be applied to.
 
 ## Scenario 7
 
 Save 30% on all belts.
 
-- “30%” makes this a [Regular Promotion - Percentage](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “30%” makes this a [Regular Promotion - Percentage](/en/docs/tracks/creating-regular-promotions).
 - “All belts” is a category this benefit will be applied to.
 
 ## Scenario 8
 
 Save an extra 20% on all in sale sweaters.
 
-- “20%” makes this a [Regular Promotion - Percentage](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “20%” makes this a [Regular Promotion - Percentage](/en/docs/tracks/creating-regular-promotions).
 - “An extra discount” is a promotion that accumulates with other benefits.
 - “All clearance sweaters” is a category this benefit will be applied to.
 
@@ -78,14 +78,14 @@ Save an extra 20% on all in sale sweaters.
 
 $99 on all in sale shirts.
 
-- “$99” makes this a [Regular Promotion - Nominal](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “$99” makes this a [Regular Promotion - Nominal](/en/docs/tracks/creating-regular-promotions).
 - “All clearance shirts” is a category this benefit will be applied to.
 
 ## Scenario 10
 
 Save 20% on shirts of multiple departments.
 
-- “20% off” makes this a [Regular Promotion - Percentage](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “20% off” makes this a [Regular Promotion - Percentage](/en/docs/tracks/creating-regular-promotions).
 - “Shirts of multiple departments” are categories this benefit will be applied to.
 
 ## Scenario 11
@@ -128,14 +128,14 @@ Purchase two long-sleeve knits and receive 20% off or purchase three short sleev
 
 Save $50 for every $300 spent.
 
-- “$50” makes this a [Regular Promotion - Nominal](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “$50” makes this a [Regular Promotion - Nominal](/en/docs/tracks/creating-regular-promotions).
 - “$300” is a restriction that can be included with the minimum value of the order setting or item price.
 - “On every $300” is multiple promotions ($600, $900) with the minimum order value and that accumulates with other benefits.
 
 ## Scenario 16
 Spend $500 and get an individual coupon code with a 20% off to be used on the next purchase.
 
-- “20% off” makes this a [Regular Promotion - Percentage reward value](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). The reward credit is transferred to a [Gift Card](/en/docs/tutorials/gift-card).
+- “20% off” makes this a [Regular Promotion - Percentage reward value](/en/docs/tracks/creating-regular-promotions). The reward credit is transferred to a [Gift Card](/en/docs/tutorials/gift-card).
 - “Spend $500” is a restriction that can be included with the minimum value of the order setting.
 
 ## Scenario 17
@@ -147,11 +147,11 @@ Buy 3 basic T-shirts and pay for only 1.
 - You can define conditions such as 3 basic T-shirts with a 67% discount or 3 basic T-shirts with 2 free units. Both options can be configured based on the minimum quantity of items and the corresponding discount.
 
 ## Related articles
--   [Creating Regular Promotions](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI)
+-   [Creating Regular Promotions](/en/docs/tracks/creating-regular-promotions)
 
 -   [Regular Promotion fields](/en/docs/tutorials/regular-promotion)
 
--   [Promotions for specific scenarios](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy)
+-   [Promotions for specific scenarios](/en/docs/tracks/promotions-for-specific-scenarios)
 
 -   [Creating a Buy Together promotion](/en/docs/tutorials/buy-together)
 

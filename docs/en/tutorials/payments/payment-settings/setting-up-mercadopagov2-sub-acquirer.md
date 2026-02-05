@@ -45,7 +45,7 @@ To configure MercadoPagoV2, follow the steps below:
 
 ## Setting up payment conditions
 
-To configure the default payment methods to be processed by MercadoPagoV2, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions).
+To configure the default payment methods to be processed by MercadoPagoV2, access [Configuring Payment Conditions](/en/docs/tutorials/how-to-configure-payment-conditions).
 
 To set special conditions on payment methods, go to [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456#).
 

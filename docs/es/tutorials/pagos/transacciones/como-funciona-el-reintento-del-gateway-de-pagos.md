@@ -28,6 +28,6 @@ A continuación, siguen los casos en que el gateway de VTEX realiza los reintent
 
 ## Artículos relacionados
 
-- [¿Qué es un gateway de pagos?](/es/tutorial/que-es-un-gateway-de-pagos)
-- [Diferencia entre medios de pago y condiciones de pago](/es/tutorial/diferencia-entre-medios-de-pago-y-condiciones-de-pago)
-- [¿Qué es un adquirente?](/es/tutorial/que-es-un-adquirente)
+- [¿Qué es un gateway de pagos?](/es/docs/tutorials/que-es-un-gateway-de-pagos)
+- [Diferencia entre medios de pago y condiciones de pago](/es/docs/tutorials/diferencia-entre-medios-de-pago-y-condiciones-de-pago)
+- [¿Qué es un adquirente?](/es/docs/tutorials/que-es-un-adquirente)

@@ -80,7 +80,7 @@ Después de realizar la configuración básica descrita en los pasos anteriores,
 
 ## Vincular el catálogo de productos a una vitrina de tienda
 
-Para que el catálogo de la tienda física se refleje en **VTEX Sales App**, debes configurar el [binding](/es/docs/tutorials/que-es-binding) en el CMS (Layout - [CMS Portal (Legado)](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj)). Esta configuración vincula la [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) al storefront correspondiente, garantizando que los productos se muestren correctamente en la vitrina.
+Para que el catálogo de la tienda física se refleje en **VTEX Sales App**, debes configurar el [binding](/es/docs/tutorials/que-es-binding) en el CMS (Layout - [CMS Portal (Legado)](/es/docs/tracks/cms-portal-legado)). Esta configuración vincula la [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) al storefront correspondiente, garantizando que los productos se muestren correctamente en la vitrina.
 
 Para configurar el binding y garantizar que el catálogo de la tienda se muestre en **VTEX Sales App**, sigue los pasos a continuación:
 

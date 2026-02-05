@@ -21,8 +21,8 @@ To provide a more approachable and simplified [inStore Setup](https://apps.vtex.
 
 Previously, users had to contact VTEX support to activate some inStore settings. In the new version, we improved the following:
 
-* [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) installation is now provided by default, allowing filters and boosting search performance.
-* [Social Selling](/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy) installation is also provided by default, allowing sellers using inStore to sell through the ecommerce store checkout.
+* [Intelligent Search](/en/docs/tracks/overview-intelligent-search) installation is now provided by default, allowing filters and boosting search performance.
+* [Social Selling](/en/docs/tracks/sharing-shopping-cart-using-vtex-sales-app-social-selling) installation is also provided by default, allowing sellers using inStore to sell through the ecommerce store checkout.
 * Payment methods Pix (Brazil) and PagarMe (Brazil) are now automatically configured.
 
 ## Why did we make this change?

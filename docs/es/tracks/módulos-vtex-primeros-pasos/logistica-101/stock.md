@@ -16,7 +16,7 @@ order: 3
 ---
 
 
-_Stock_ es la funcionalidad de gestión de los productos disponibles para la venta. Una vez [registrados los productos](/es/tutorial/campos-de-registro-de-producto--4dYXWIK3zyS8IceKkQseke) en el [catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR), es necesario añadirlos al _stock_ de una tienda para que estén realmente disponibles para la venta. El módulo de [Gestión del stock](/es/docs/tutorials/gestionar-items-en-inventario) es donde los ítems del catálogo se vinculan a un _stock_.
+_Stock_ es la funcionalidad de gestión de los productos disponibles para la venta. Una vez [registrados los productos](/es/tutorial/campos-de-registro-de-producto--4dYXWIK3zyS8IceKkQseke) en el [catálogo](/es/docs/tracks/catalogo-definicion-de-concepto), es necesario añadirlos al _stock_ de una tienda para que estén realmente disponibles para la venta. El módulo de [Gestión del stock](/es/docs/tutorials/gestionar-items-en-inventario) es donde los ítems del catálogo se vinculan a un _stock_.
 
 > ℹ️ Recuerda que debes añadir al menos un [almacén](/es/docs/tutorials/almacen) en tu tienda antes de poder utilizar la funcionalidad de [Stock.](/es/docs/tutorials/gestionar-items-en-inventario)
 

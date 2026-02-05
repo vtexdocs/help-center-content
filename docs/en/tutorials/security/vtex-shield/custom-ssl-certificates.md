@@ -15,7 +15,7 @@ locale: en
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
-> ℹ️ This feature is part of [VTEX Shield](/en/docs/tutorials/vtex-shield). If you are already a VTEX customer and want to adopt VTEX Shield for your business, please contact [Commercial Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you are not yet a customer but are interested in this solution, please complete our [contact form](https://vtex.com/br-pt/contato/).
+> ℹ️ This feature is part of [VTEX Shield](/en/docs/tutorials/vtex-shield). If you are already a VTEX customer and want to adopt VTEX Shield for your business, please contact [Commercial Support](/en/docs/tracks/commercial-support). Additional fees may apply. If you are not yet a customer but are interested in this solution, please complete our [contact form](https://vtex.com/br-pt/contato/).
 
 By default, VTEX uses [SSL certificates](/en/docs/tutorials/security-certificate-ssl) issued by [Let's Encrypt](https://letsencrypt.org/), an open-source solution widely adopted in the market. This approach guarantees security, reliability, and compatibility with most browsers.
 
@@ -67,5 +67,5 @@ The installation may take 7 days to complete, and during this time, the status o
 
 * [VTEX Shield](/en/docs/tutorials/vtex-shield)
 * [Configuring the store domain](/en/docs/tutorials/configuring-the-store-domain)
-* [Go-live](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj)
+* [Go-live](/en/docs/tracks/go-live)
 * [Error installing custom SSL certificate](/en/tutorial/error-installing-custom-ssl-certificate--6hgFzbcc96mcrqXZMmHCTr)

@@ -32,7 +32,7 @@ Con esa integración, será posible __crear nuevas cuentas__ y también __migrar
 
 &bull; __Integración\*:__ marque `Activada` para que la integración comience a operar. Si se marca `Desactivada`, toda la configuración de la integración se va a borrar, incluso el afiliado.
 
-&bull; __Id del afiliado\*:__ ese campo debe rellenarse con un ID de [afiliado](/es/faq/que-es-afiliado) que aún no exista en el registro de afiliados. El ID acepta sólo tres dígitos (todos deben ser consonantes). Sugerencia: `MGZ`.
+&bull; __Id del afiliado\*:__ ese campo debe rellenarse con un ID de [afiliado](/es/docs/tutorials/que-es-afiliado) que aún no exista en el registro de afiliados. El ID acepta sólo tres dígitos (todos deben ser consonantes). Sugerencia: `MGZ`.
 
 Si su tienda tiene configuración de [integración para multidominios](/es/tutorial/como-crear-multiloja-multidominio), preste una atención especial al ID del afiliado, porque este campo debe tener un valor diferente para cada dominio.
 
@@ -40,9 +40,9 @@ Si usted está migrando una cuenta, vamos a aprovechar el afiliado ya usado para
 
 &bull; __Política comercial\*:__ ID de la política comercial que será utilizada para la integración con Magazine Luiza. Son los productos de esa política comercial que serán enviados al marketplace.
 
-&bull; __Percentual de tolerancia en la divergencia del valor del pedido\*:__ es la tasa de aceptación de la diferencia de valor de un pedido. Cualquier pedido que tenga una diferencia entre el precio de venta del marketplace y el precio determinado por el seller [será comparado con ese valor](/es/faq/por-que-el-pedido-fue-cerrado-con-el-precio-incorrecto). Si la divergencia, en porcentual, es menor que el valor definido en ese campo, el pedido se integrará normalmente. En caso contrario, el pedido no se integrará y usted podrá verlo en la [pestaña de pedidos (en la sección de integraciones en el Admin)](/es/tutorial/como-verificar-la-integracion-en-bridge).
+&bull; __Percentual de tolerancia en la divergencia del valor del pedido\*:__ es la tasa de aceptación de la diferencia de valor de un pedido. Cualquier pedido que tenga una diferencia entre el precio de venta del marketplace y el precio determinado por el seller [será comparado con ese valor](/es/faq/por-que-el-pedido-fue-cerrado-con-el-precio-incorrecto). Si la divergencia, en porcentual, es menor que el valor definido en ese campo, el pedido se integrará normalmente. En caso contrario, el pedido no se integrará y usted podrá verlo en la [pestaña de pedidos (en la sección de integraciones en el Admin)](/es/docs/tutorials/como-verificar-la-integracion-en-bridge).
 
-&bull; __Mapeo de SLA Personalizable\*:__ en estos campos se debe hacer un de/para entre los [tipos de transportista](/es/tutorial/como-se-maneja-el-tipo-de-entrega) registrados en IntegraCommerce y los registros en la logística de VTEX. Al hacer el mapeo, haga clic en el botón `+` para guardarlo.
+&bull; __Mapeo de SLA Personalizable\*:__ en estos campos se debe hacer un de/para entre los [tipos de transportista](/es/docs/tutorials/como-se-maneja-el-tipo-de-entrega) registrados en IntegraCommerce y los registros en la logística de VTEX. Al hacer el mapeo, haga clic en el botón `+` para guardarlo.
 
 _`Ejemplo:` imagine que usted utiliza los Correios (PAC) como transportista, su tipo de transportador en IntegraCommerce sea "normal" y en el panel logístico de VTEX se llama "Común". En este escenario, usted debe rellenar el primer campo con "Normal" y el segundo con "Común". Recuerde que las palabras deben ser exactamente iguales a las registradas en la logística.
 

@@ -42,7 +42,7 @@ The number of items in the subscription will match the quantity available when t
 You can also notify customers about the partially generated subscription order using our [Message Center](/en/docs/tutorials/transactional-emails-for-subscriptions-orders) module. The key for this message template is `vtexcommerce-subscriptions-partialorder`.
 
 ### Can I give discounts on the products in a subscription plan?
-Yes, as long as you create a regular promotion and check the `Subscription order` checkbox. Learn how to create promotions in the track [Create Regular Promotion](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+Yes, as long as you create a regular promotion and check the `Subscription order` checkbox. Learn how to create promotions in the track [Create Regular Promotion](/en/docs/tracks/creating-regular-promotions).
 
 ### What is the delivery estimate, and what are the shipping rules?
 The delivery estimate and shipping rules are based on the applicable delivery policies for each cycle.  
@@ -86,7 +86,7 @@ By default, subscription orders are created between 6:00 and 7:00 a.m. UTC-3.
 However, you can set a different time via API using the [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings) request. Send the new time in the `executionHourInUtc` field.
 
 ### Does the functionality Subscriptions work with Seller Portal?
-No, Subscriptions does not work with [Seller Portal](/en/tutorial/how-to-set-up-your-store-on-seller-portal).
+No, Subscriptions does not work with [Seller Portal](/en/docs/tutorials/how-to-set-up-your-store-on-seller-portal).
 
 ### How does it work to create subscriptions from original orders that have SKUs with attachments?
 By default, stores do not create subscription orders associating SKU [attachments](/en/docs/tutorials/what-is-an-attachment) with the original order, i.e., attachments are not considered in recurring orders. However, you can enable this setting for your store, but it can only be done via API using the [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings) endpoint. Learn more in [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).

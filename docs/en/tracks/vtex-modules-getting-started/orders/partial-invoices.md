@@ -51,7 +51,7 @@ To send a partial invoice through the VTEX Admin, follow the steps below:
 
 > After invoicing, proceed to [change the order](/en/docs/tutorials/changing-items-from-a-complete-order). 
 
-Once order changes have been made, you can view all the transaction events by clicking [See transaction details](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy).
+Once order changes have been made, you can view all the transaction events by clicking [See transaction details](/en/docs/tracks/viewing-transaction-details).
 
 > ℹ️ The same actions can also be done using our Orders API. To do so, check out these endpoints: [Register Change on Order](https://developers.vtex.com/vtex-rest-api/reference/registerchange), [Invoice notification](https://developers.vtex.com/vtex-rest-api/reference/invoicenotification), [Retrieve Payment transaction](https://developers.vtex.com/vtex-rest-api/reference/getpaymenttransaction), and [Update order's partial invoice (send tracking number)](https://developers.vtex.com/vtex-rest-api/reference/updatepartialinvoicesendtrackingnumber).
 

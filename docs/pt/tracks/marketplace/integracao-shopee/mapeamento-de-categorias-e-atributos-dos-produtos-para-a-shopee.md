@@ -17,7 +17,7 @@ order: 5
 
 Feitas as configurações iniciais da integração, é possível enviar os produtos para o catálogo da Shopee. Para habilitar o processo de catalogação dos produtos na Shopee, permitindo que eles fiquem disponíveis para venda em menos tempo, o seller precisará realizar o mapeamento entre as características dos produtos na sua loja VTEX e as características dos mesmos produtos na Shopee.  
 
-Para enviar os seus produtos para a Shopee, você deve mapear as [categorias](/pt/docs/tutorials/o-que-e-uma-categoria) e os [atributos dos produtos](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP).  
+Para enviar os seus produtos para a Shopee, você deve mapear as [categorias](/pt/docs/tutorials/o-que-e-uma-categoria) e os [atributos dos produtos](/pt/docs/tracks/especificacoes-definicao-de-conceito).  
 
 > ℹ️ Seus produtos precisam ter o [Estoque](/pt/docs/tutorials/estoque) e [Preço](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de enviá-los à Shopee.  
 

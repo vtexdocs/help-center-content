@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
 
-As [tabelas de preços](/pt/tutorial/criar-tabelas-de-precos) em uma operação B2B da VTEX são fundamentais para personalizar as condições comerciais oferecidas a diferentes organizações. Com elas, você pode:
+As [tabelas de preços](/pt/docs/tutorials/criar-tabelas-de-precos) em uma operação B2B da VTEX são fundamentais para personalizar as condições comerciais oferecidas a diferentes organizações. Com elas, você pode:
 - Definir os preços específicos para os produtos.
 - Criar e gerenciar múltiplas tabelas de preços.
 - Garantir que cada cliente veja o valor correto conforme sua categoria.

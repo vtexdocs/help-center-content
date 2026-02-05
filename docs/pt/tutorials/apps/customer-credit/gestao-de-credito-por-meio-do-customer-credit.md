@@ -25,7 +25,7 @@ Neste artigo abordamos uma sugestão de fluxo de implementação do Customer Cre
 
 ## Selecione seus clientes
 
-Antes de qualquer coisa, é necessário fazer o download do Customer Credit na [VTEX App Store](https://apps.vtex.com/) e [configurá-lo](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/21ok0GBwmcIeaY2IukYMOg) na sua loja.
+Antes de qualquer coisa, é necessário fazer o download do Customer Credit na [VTEX App Store](https://apps.vtex.com/) e [configurá-lo](/pt/docs/tracks/configurando-a-app) na sua loja.
 
 Como o intuito da sua estratégia é conceder crédito a algum parceiro, o próximo passo é selecionar os clientes a quem você deseja oferecer esse crédito. 
 
@@ -52,7 +52,7 @@ Este processo pode ser realizado tanto por um departamento de crédito quanto po
 
 ## Cadastre contas na app
 
-Agora que os clientes foram selecionados, é possível [criar as respectivas contas no Customer Credit](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU).
+Agora que os clientes foram selecionados, é possível [criar as respectivas contas no Customer Credit](/pt/docs/tracks/criando-contas).
 
 Atualmente, contamos com três formas de o lojista realizar essa operação:
 - Cadastro da base por meio da [API do Customer Credit](https://developers.vtex.com/docs/api-reference/customer-credit-api).
@@ -81,6 +81,6 @@ Nos casos em que a loja trabalha com gestão externa de crédito em seu ERP, rec
 
 Outro diferencial da API é que a operação cadastra a conta e ao mesmo tempo concede limite para ela.
 
-Você pode conferir o tutorial de como cadastrar uma conta por cada um desses métodos na [trilha de introdução ao Customer Credit](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU).
+Você pode conferir o tutorial de como cadastrar uma conta por cada um desses métodos na [trilha de introdução ao Customer Credit](/pt/docs/tracks/criando-contas).
 
-Após a configuração inicial, o passo seguinte é o [gerenciamento das contas](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/4eknoeqaj6EGC20amsm6Gc), com o objetivo de garantir um fluxo de crédito saudável.
+Após a configuração inicial, o passo seguinte é o [gerenciamento das contas](/pt/docs/tracks/gerenciando-contas), com o objetivo de garantir um fluxo de crédito saudável.

@@ -70,7 +70,7 @@ O próximo passo é configurar os meios de pagamento que você vai aceitar no in
 Há duas opções disponíveis:
 
 * **Dinheiro:** ative esta opção se você quiser aceitar pagamentos em dinheiro.
-* **Social selling:** ative esta opção para que todos os meios de pagamento configurados no Checkout do seu ecommerce sejam válidos para o **VTEX Sales App** ao utilizar [o carrinho compartilhado (Social Selling)](/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy).
+* **Social selling:** ative esta opção para que todos os meios de pagamento configurados no Checkout do seu ecommerce sejam válidos para o **VTEX Sales App** ao utilizar [o carrinho compartilhado (Social Selling)](/pt/docs/tracks/compartilhar-carrinho-utilizando-o-vtex-sales-app-social-selling).
 
 Após selecionar as opções desejadas, clique em `Continuar`.
 
@@ -80,7 +80,7 @@ Após fazer as configurações básicas descritas, você precisa configurar as c
 
 ## Vincular o catálogo de produtos a uma vitrine de loja
 
-Para que o catálogo da loja física seja refletido no **VTEX Sales App**, é necessário configurar o [binding](/pt/docs/tutorials/o-que-e-binding) no CMS (Layout - [CMS Portal (Legado)](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj)). Essa configuração vincula a [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) ao storefront correspondente, garantindo que os produtos sejam exibidos corretamente na vitrine.
+Para que o catálogo da loja física seja refletido no **VTEX Sales App**, é necessário configurar o [binding](/pt/docs/tutorials/o-que-e-binding) no CMS (Layout - [CMS Portal (Legado)](/pt/docs/tracks/cms-portal-legado)). Essa configuração vincula a [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) ao storefront correspondente, garantindo que os produtos sejam exibidos corretamente na vitrine.
 
 Para configurar o binding e garantir que o catálogo da loja seja exibido no **VTEX Sales App**, siga os passos abaixo:
 

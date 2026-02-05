@@ -39,7 +39,7 @@ For stores using [Store Framework](/en/tracks/vtex-store-overview--eSDNk26pdvemF
 
 ## Legacy CMS Portal
 
-For stores using [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), you need to remove the **Live Shopping** script by following the steps below: 
+For stores using [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal), you need to remove the **Live Shopping** script by following the steps below: 
 
 1. In the VTEX Admin, go to **Storefront > Layout**, or type **Layout** in the search bar at the top of the page.
 2. Click **CMS > HTML Templates**.

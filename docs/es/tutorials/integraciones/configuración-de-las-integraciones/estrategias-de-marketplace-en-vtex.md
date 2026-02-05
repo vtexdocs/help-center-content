@@ -144,7 +144,7 @@ Actualmente, la plataforma VTEX cuenta con los siguientes marketplaces certifica
 - [Google Shopping](/es/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw)  
 - [Google Shopping Ads](/es/tracks/como-fazer-campanhas-atraves-do-google-ads--47kz5PRQPK0IEaqGqiIuA)  
 - [Tik Tok](/es/tracks/integracao-com-o-tiktok--1r0yJSO11nrer1YVu3WTFd)  
-- [Livelo](/es/tracks/integracao-livelo--4ZSHEiuTkh8HR9ubJQj8BP/5rhGcaM0SedoK7lDMBkVFD)  
+- [Livelo](/es/docs/tracks/vision-general-de-la-livelo-integracion)  
 - Kabum  
 - Grupo LTM  
 - TudoAzul  

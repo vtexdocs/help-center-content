@@ -45,7 +45,7 @@ O VTEX Sales App também funciona em computadores que utilizam o sistema operaci
 * 4GB de memória RAM (ou superior)
 * 120GB de HD/SSD (ou superior)
 
-Para saber como instalar o aplicativo do VTEX Sales App, acesse o nosso guia de [Instalação](/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/2rPSJ8519UCCZo5uEBkqxh).
+Para saber como instalar o aplicativo do VTEX Sales App, acesse o nosso guia de [Instalação](/pt/docs/tracks/instalacao).
 
 ### Internet
 
@@ -65,7 +65,7 @@ Recomendações adicionais:
 
 Com o VTEX Sales App, você pode ler o código de barras dos seus produtos usando a câmera do tablet ou smartphone, ainda que eles não funcionem tão bem quanto os dispositivos especializados nessa função.
 
-É fundamental que você cadastre o código de barras de cada item no seu Catálogo, seguindo os passos do guia [Cadastrar o código de barras dos SKUs para o VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/4eooWH0d8Aiwzparyi4Hg).
+É fundamental que você cadastre o código de barras de cada item no seu Catálogo, seguindo os passos do guia [Cadastrar o código de barras dos SKUs para o VTEX Sales App](/pt/docs/tracks/cadastrar-o-codigo-de-barras-dos-skus-para-o-vtex-sales-app).
 
 Recomendamos que você use um leitor de código de barras dedicado se sua loja costuma receber pedidos de vários itens e se for importante ter mais agilidade e precisão durante a finalização da compra. Você pode escolher qualquer leitor de código de barras para "bipar" os produtos pelo VTEX Sales App. Um exemplo de leitor de código de barras é o Honeywell Solaris MK7820.
 
@@ -106,21 +106,21 @@ Você pode entrar em contato com o [suporte da VTEX](https://support.vtex.com/hc
 
 ## Casos de uso
 
-Os pré-requisitos e recomendações para cada um dos principais casos de uso do VTEX Sales App em sua estratégia de [Comércio Unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) estão descritos abaixo.
+Os pré-requisitos e recomendações para cada um dos principais casos de uso do VTEX Sales App em sua estratégia de [Comércio Unificado](/pt/docs/tracks/comercio-unificado-101) estão descritos abaixo.
 
 ### Prateleira Infinita
 
-A [Prateleira Infinita](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) é o recurso que dá aos seus clientes acesso a todo o seu inventário, integrado entre todos os canais. Com isso, se um cliente estiver em uma loja física, ele poderá comprar um produto do estoque de outras lojas ou mesmo do seu ecommerce.
+A [Prateleira Infinita](/pt/docs/tracks/prateleira-infinita) é o recurso que dá aos seus clientes acesso a todo o seu inventário, integrado entre todos os canais. Com isso, se um cliente estiver em uma loja física, ele poderá comprar um produto do estoque de outras lojas ou mesmo do seu ecommerce.
 
-Para mais informações, leia o guia sobre a [Prateleira Infinita](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn).
+Para mais informações, leia o guia sobre a [Prateleira Infinita](/pt/docs/tracks/prateleira-infinita).
 
 Os pré-requisitos para implementar a Prateleira Infinita na sua loja são todos os itens descritos nos tópicos anteriores.
 
 ### Ship from Store e Pontos de retirada
 
-O [Ship from Store](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/50GAmxxFsJoLWqcnMysWdl) transforma suas lojas físicas em pequenos centros de distribuição. Com esse recurso, você pode enviar produtos a partir do estoque de uma loja, mesmo que eles não tenham sido comprados lá.
+O [Ship from Store](/pt/docs/tracks/configurar-ship-from-store) transforma suas lojas físicas em pequenos centros de distribuição. Com esse recurso, você pode enviar produtos a partir do estoque de uma loja, mesmo que eles não tenham sido comprados lá.
 
-Os [Pontos de retirada](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/4hXfgqXxS1lwAfnxgja3xW) ou pickup points são locais onde o cliente tem a opção de retirar por conta própria o seu pedido. As lojas físicas da sua rede, por exemplo, podem funcionar como pontos de retirada.
+Os [Pontos de retirada](/pt/docs/tracks/configurar-lojas-fisicas-como-pontos-de-retirada) ou pickup points são locais onde o cliente tem a opção de retirar por conta própria o seu pedido. As lojas físicas da sua rede, por exemplo, podem funcionar como pontos de retirada.
 
 Os pré-requisitos para implementar essas estratégias são todos os itens descritos nos tópicos anteriores.
 

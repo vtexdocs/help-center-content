@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-**Amazon Listing** allows sellers to add products in the VTEX Admin and list them on Amazon. Once you've completed the [integration with Amazon](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan), you'll need to make your store products available for listing on the marketplace. There are two ways to do this:
+**Amazon Listing** allows sellers to add products in the VTEX Admin and list them on Amazon. Once you've completed the [integration with Amazon](/en/docs/tracks/configuring-the-amazon-integration), you'll need to make your store products available for listing on the marketplace. There are two ways to do this:
 
 - If the product already exists on Amazon, follow the instructions in the [Amazon Offer Matching tutorial](/en/docs/tutorials/amazon-offer-matching) to link your product to an Amazon offer.
 - If the product doesn't exist on Amazon yet, follow the steps in this tutorial to add the product and create a new offer.

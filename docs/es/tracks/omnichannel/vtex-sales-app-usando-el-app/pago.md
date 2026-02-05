@@ -48,7 +48,7 @@ El cliente debe seleccionar la opción **Efectivo** y hacer clic en `Finalizar v
 
 ![instore-dinheiro-es](//images.ctfassets.net/alneenqid6w5/1Tz1XMpd6ObLZbyBcluOti/12ee090451235610a53ec937f8af2b69/Screenshot_2022-10-21_at_15-03-02_VTEX_VTEX Sales App_Checkout.png)
 
-Luego, el cliente debe realizar la transacción con el vendedor. La aprobación de la venta puede ser [manual o automática](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT), dependiendo de la configuración de la tienda.
+Luego, el cliente debe realizar la transacción con el vendedor. La aprobación de la venta puede ser [manual o automática](/es/docs/tracks/facturar-un-pedido), dependiendo de la configuración de la tienda.
 
 ### Pix (Brasil)
 

@@ -181,7 +181,7 @@ Para utilizar estos filtros, haz `Filtros` y selecciona **Otros**. Puedes buscar
 - **Moneda:** muestra las monedas registradas en la [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) y que fueron utilizadas en los pedidos.
 - **Nombre del host:** muestra tu[ nombre de cuenta](/es/docs/tutorials/que-es-account-name), que es la identificación de tu empresa en el sistema VTEX.
 - **B2B:** selecciona `true` para filtrar por pedidos realizados en tiendas[ B2B](/es/docs/tutorials/b2b-vision-general) o `false` para filtrar por pedidos realizados en otro modelo de negocio.
-- **VTEX Sales App:** selecciona `true` para filtrar por pedidos realizados utilizando[ VTEX Sales App](/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) o `false` para filtrar por pedidos que no utilizaron VTEX Sales App.
+- **VTEX Sales App:** selecciona `true` para filtrar por pedidos realizados utilizando[ VTEX Sales App](/es/docs/tracks/que-es-vtex-sales-app) o `false` para filtrar por pedidos que no utilizaron VTEX Sales App.
 - **Canal de entrega:** muestra el tipo de envío del pedido, si es entrega o recogida en un[ punto de recogida](/es/docs/tutorials/puntos-de-recogida). La opción de recogida solo aparece en las tiendas que hayan configurado esta funcionalidad.
 - **País:** muestra el país en que se realizó el pedido.
 - **Tiene factura de devolución:** identifica si los pedidos tienen una factura de devolución mediante los valores `true` (sí) o `false` (no).

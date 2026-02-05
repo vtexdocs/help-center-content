@@ -23,7 +23,7 @@ Besides strengthening the relationship between suppliers and resellers, this sce
 
 ## Configuring rebates on VTEX
 
-The most suitable way to use rebates received from suppliers is through [Regular Promotions](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) with usage restrictions enforcement. Learn more about the Regular Promotions possibilities in our article [Promotion examples](/en/docs/tutorials/promotion-examples).
+The most suitable way to use rebates received from suppliers is through [Regular Promotions](/en/docs/tracks/creating-regular-promotions) with usage restrictions enforcement. Learn more about the Regular Promotions possibilities in our article [Promotion examples](/en/docs/tutorials/promotion-examples).
 
 > ⚠️ The customer can eventually cancel the purchase of an order with a rebate discount. In this case, you have to redirect the discount to another client to reach the total number of credits. To check whether the rebate has been applied to an order, use the [Retrieve User's orders](https://developers.vtex.com/vtex-developer-docs/reference/user-orders#userorderslist) or [Get Order](https://developers.vtex.com/vtex-developer-docs/reference/orders#getorder) endpoints from the Orders API.
 

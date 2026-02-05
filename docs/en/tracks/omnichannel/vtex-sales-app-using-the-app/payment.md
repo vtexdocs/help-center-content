@@ -48,7 +48,7 @@ The customer must select the **Cash** option and click `Complete Sale`.
 
 ![instore-dinheiro-en](//images.ctfassets.net/alneenqid6w5/1Tz1XMpd6ObLZbyBcluOti/868ca0e64245ec78ed6794e0e4e5726f/Screenshot_2022-10-21_at_14-57-55_VTEX_VTEX Sales App_Checkout.png)
 
-Then, you must complete the transaction with the sales associate. Depending on the store's configuration, it can be either [manual or automatic](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT). 
+Then, you must complete the transaction with the sales associate. Depending on the store's configuration, it can be either [manual or automatic](/en/docs/tracks/invoicing-an-order). 
 
 ### Pix (Brazil)
 

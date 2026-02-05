@@ -23,7 +23,7 @@ En Dafiti, hay errores de integración de pedidos que se producen con más frecu
 
 `Não é possível integrar um pedido composto por produtos criados manualmente`
 
-Este error se produce cuando un ítem del pedido se ha registrado directamente en la plataforma de Dafiti. Aunque el ítem también esté registrado en VTEX, este doble registro hace que el sistema VTEX no reconozca el ID del SKU, y el pedido no se integra. La solución es eliminar el registro del ítem en la plataforma Dafiti y, tras asegurarse de que el [SKU está registrado](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) en VTEX, volver a procesar el pedido manualmente. En su Admin, en el módulo **Marketplace > Conexiones > Pedidos**, haga clic en el pedido con error. Luego, el botón **Acciones** se vuelve visible, haga clic en el mismo y elija la opción **Reprocesar**.
+Este error se produce cuando un ítem del pedido se ha registrado directamente en la plataforma de Dafiti. Aunque el ítem también esté registrado en VTEX, este doble registro hace que el sistema VTEX no reconozca el ID del SKU, y el pedido no se integra. La solución es eliminar el registro del ítem en la plataforma Dafiti y, tras asegurarse de que el [SKU está registrado](/es/docs/tracks/registrar-sku) en VTEX, volver a procesar el pedido manualmente. En su Admin, en el módulo **Marketplace > Conexiones > Pedidos**, haga clic en el pedido con error. Luego, el botón **Acciones** se vuelve visible, haga clic en el mismo y elija la opción **Reprocesar**.
 
 ____
 
@@ -56,7 +56,7 @@ ____
 
 `Valor de variação inválido`
 
-El mensaje indica que la plantilla de mapeo de categorías y atributos no se ha rellenado correctamente, es decir, que en uno o varios campos se han insertado valores incorrectos. Por ejemplo, una especificación de tamaño se rellenó con el número cero, que no es un valor válido. Si es necesario, consulte las orientaciones para rellenar la plantilla de mapeo en el artículo [Envío de los productos a Dafiti](/es/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i/3b8BZfB1BC8G8SCe0ao46m).
+El mensaje indica que la plantilla de mapeo de categorías y atributos no se ha rellenado correctamente, es decir, que en uno o varios campos se han insertado valores incorrectos. Por ejemplo, una especificación de tamaño se rellenó con el número cero, que no es un valor válido. Si es necesario, consulte las orientaciones para rellenar la plantilla de mapeo en el artículo [Envío de los productos a Dafiti](/es/docs/tracks/envio-de-los-productos-a-dafiti).
 
 ____
 
@@ -73,7 +73,7 @@ ____
 
 `OMS Api Error Occurred`
 
-En la [configuración de la integración](/es/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i/3PV2OACP2E4O4uOKKW2sMg) con Dafiti, existe la opción de activar el campo FOB (_Free on Board_), un tipo de envío en el que la entrega del producto al cliente la realiza el _marketplace_. El mensaje de error mencionado se produce cuando el usuario ha activado la opción FOB en el conector, pero no tiene registrado este tipo de envío en Dafiti. La solución es desactivar primero el campo FOB en el conector. Para ello, vaya a su Admin VTEX, en el módulo **Marketplace > Conexiones > Integraciones**. En la tarjeta de Dafiti, haga clic en el ícono del engranaje y seleccione la opción **Editar configuración**, que abrirá un modal en el que el campo **FOB** debe estar marcado con la opción **No**. A continuación, haga clic en el botón **Guardar configuración**. Con el campo FOB desactivado en el conector, el siguiente paso es ponerse en contacto con Dafiti y solicitar la habilitación del envío de tipo FOB. Dafiti proporcionará instrucciones sobre cómo debe proceder el usuario.
+En la [configuración de la integración](/es/docs/tracks/configuracion-del-conector-dafiti) con Dafiti, existe la opción de activar el campo FOB (_Free on Board_), un tipo de envío en el que la entrega del producto al cliente la realiza el _marketplace_. El mensaje de error mencionado se produce cuando el usuario ha activado la opción FOB en el conector, pero no tiene registrado este tipo de envío en Dafiti. La solución es desactivar primero el campo FOB en el conector. Para ello, vaya a su Admin VTEX, en el módulo **Marketplace > Conexiones > Integraciones**. En la tarjeta de Dafiti, haga clic en el ícono del engranaje y seleccione la opción **Editar configuración**, que abrirá un modal en el que el campo **FOB** debe estar marcado con la opción **No**. A continuación, haga clic en el botón **Guardar configuración**. Con el campo FOB desactivado en el conector, el siguiente paso es ponerse en contacto con Dafiti y solicitar la habilitación del envío de tipo FOB. Dafiti proporcionará instrucciones sobre cómo debe proceder el usuario.
 
 ### Sepa más
 

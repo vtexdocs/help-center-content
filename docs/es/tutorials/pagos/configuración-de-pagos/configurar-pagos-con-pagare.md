@@ -55,4 +55,4 @@ Los pagarés se facturan en el momento de la autorización del pago. Al configur
 
 Después de completar todos los pasos, el pagaré estará configurado y listo para ser utilizado en su tienda.
 
-Para asociarlo a una condición de pago, siga el artículo [Configurar condiciones de pago](/es/tutorial/condiciones-de-pago).
+Para asociarlo a una condición de pago, siga el artículo [Configurar condiciones de pago](/es/docs/tutorials/condiciones-de-pago).

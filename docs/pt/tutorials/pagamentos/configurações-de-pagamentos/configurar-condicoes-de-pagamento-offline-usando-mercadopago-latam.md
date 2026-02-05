@@ -27,7 +27,7 @@ Depois, basta seguir os passos abaixo:
 4. Clique no botão __Status__ para ativar essa condição de pagamento.
 5. Se houver um antifraude configurado na sua loja, você pode ativá-lo para essa condição de pagamento marcando a caixa __Usar Antifraude__.
 6. Renomeie a condição de pagamento para facilitar sua identificação. Recomendamos que você faça isso, principalmente se sua loja usar mais de uma.
-7. Você também pode configurar [condições especiais de pagamento](/pt/tutorial/condicoes-especiais).
+7. Você também pode configurar [condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais).
 8. Clique em __Salvar__.
 
 Ao completar esses passos, a condição de pagamento offline escolhida vai estar disponível para seus clientes no checkout da sua loja.
@@ -35,4 +35,4 @@ Ao completar esses passos, a condição de pagamento offline escolhida vai estar
 ### Artigos relacionados
 - [Configurar o subadquirente MercadoPagoV1](/pt/tutorial/configurar-o-subadquirente-mercadopagov1)
 - [Que condições de pagamento offline estão disponíveis na América Latina?](/pt/faq/que-condicoes-de-pagamento-offline-estao-disponiveis-na-america-latina)
-- [Configurar condições especiais de pagamento](/pt/tutorial/condicoes-especiais)
+- [Configurar condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais)

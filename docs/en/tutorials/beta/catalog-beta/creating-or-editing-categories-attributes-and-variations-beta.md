@@ -128,7 +128,7 @@ To create a category, follow the steps below:
 6. In the **Storefront** section, you can check any of the following options:
     - <a class="far fa-check-square" aria-hidden="true"></a> **Show on menu:** Makes the category or department visible on the store's top and side menus.
     - <a class="far fa-check-square" aria-hidden="true"></a> **Menu with active link:** Determines whether the category visible in the store is clickable, which redirects to a category page.
-    - <a class="far fa-check-square" aria-hidden="true"></a> **Brand filter:** Defines whether the category or department page should display the option to filter by [brands](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh).
+    - <a class="far fa-check-square" aria-hidden="true"></a> **Brand filter:** Defines whether the category or department page should display the option to filter by [brands](/en/docs/tracks/brands-concept-definition).
 
 7. In **Product display mode**, you determine how the SKUs of the products in the category will be displayed in the store product listing page. You can choose the following options:
     - **SKU list:** Items organized in a list format. If you don’t choose another option, this one will be used by default.

@@ -41,7 +41,7 @@ Follow the steps below to change your domain:
    You must check if the sites configured are associated with the account listed in **Account Settings > Accounts**. See the [Account management](/en/docs/tutorials/account-management) article for more details.  
 3. If your store uses [VTEX IO - Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) or [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), contact [VTEX Support](https://supporticket.vtex.com/support) and request internal pointing, informing them of the new domain. Learn more about [internal pointing](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#requesting-io-pointing).  
    Once the ticket has been opened, the support team has up to three business days to analyze the settings and complete the pointing process.  
-4. Point the DNS to the VTEX CDN. To do this, follow the instructions in the [Go-live](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj) guide.
+4. Point the DNS to the VTEX CDN. To do this, follow the instructions in the [Go-live](/en/docs/tracks/go-live) guide.
 
 ## Deleting the previous domain
 

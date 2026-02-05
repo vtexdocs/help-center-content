@@ -18,7 +18,7 @@ announcementSynopsisEN: 'Stores can now choose between simple or compound intere
 We released a simple way to edit the interest type used on installments. The feature meets the needs of stores operating in countries such as Argentina, where simple interests are the norm (unlike Brazil, where compound interests are the most used).
 
 ## What has changed
-Before, while [setting up installments with interests on a payment condition](/en/tutorial/how-to-configure-payment-conditions#installments-with-interest), there was no easy way of choosing the type of interest used. __Compound interests__ were the default.
+Before, while [setting up installments with interests on a payment condition](/en/docs/tutorials/how-to-configure-payment-conditions#installments-with-interest), there was no easy way of choosing the type of interest used. __Compound interests__ were the default.
 
 Even though the default is still the same, now it's possible to choose __simple interests__ right on the interface.
 
