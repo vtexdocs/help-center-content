@@ -17,7 +17,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 A Cybersource é uma empresa que oferece diversas soluções para auxiliar a gestão de pagamentos da sua loja. Entre elas estão um [gateway](/pt/tutorial/o-que-e-um-gateway-de-pagamentos) e um [antifraude](/pt/tutorial/o-que-e-antifraude), ambos com integrações disponíveis na VTEX.
 
-Caso deseje maiores informações sobre como integrar o antifraude da Cybersource em sua loja, acesse [Configurar antifraude Cybersource](/pt/tutorial/configurar-antifraude-cybersource--2Z88QmpRAsWmI0qaCo4aQg).
+Caso deseje maiores informações sobre como integrar o antifraude da Cybersource em sua loja, acesse [Configurar antifraude Cybersource](/pt/docs/tutorials/configurar-antifraude-cybersource).
 
 Para utilizar o gateway da Cybersource IO em sua loja, as seguintes ações são necessárias:
 
@@ -131,7 +131,7 @@ Para processar pagamentos com cartões de crédito por meio da Cybersource, siga
 5. Ative a condição no campo __Status__.
 6. Em __Processar com o provedor__ selecione a opção __Cybersource - IO__.
 7. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__ e escolha o provedor de sua preferência.
-8. Se desejar, você também poderá configurar [condições especiais de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456).
+8. Se desejar, você também poderá configurar [condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais).
 9. Clique em __Salvar__.
 
 > ⚠️ Se você criou anteriormente condições de pagamento com cartão de crédito para outros gateways (incluindo o provedor Cybersource legado), poderá definir essas condições como **Inativas**. As transações em andamento iniciadas nesse provedor ainda serão processadas por ele, mesmo que esteja inativo. Apenas novas transações serão processadas pelo novo provedor Cybersource IO. Caso você precise reverter para o provedor anterior por qualquer motivo, basta definir as respectivas condições de pagamento como **Ativas** e as condições de pagamento do Cybersource IO como **Inativas**.

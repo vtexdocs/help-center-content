@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-Após você adicionar um [produto ou SKU](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) ao seu catálogo, não é mais possível excluí-lo individualmente, pois a plataforma VTEX só permite a exclusão em massa de produtos e SKUs, pela [Manutenção de Base (Full Cleanup)](/pt/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802). No entanto, você pode tornar um SKU ou produto inativo, de forma que ele não apareça na sua frente de loja. 
+Após você adicionar um [produto ou SKU](/pt/docs/tutorials/produtos-e-skus) ao seu catálogo, não é mais possível excluí-lo individualmente, pois a plataforma VTEX só permite a exclusão em massa de produtos e SKUs, pela [Manutenção de Base (Full Cleanup)](/pt/docs/tutorials/manutencao-de-base-full-cleanup). No entanto, você pode tornar um SKU ou produto inativo, de forma que ele não apareça na sua frente de loja. 
 
 Este artigo orienta como desativar um produto ou SKU e está dividido nas seguintes seções:
 
@@ -55,7 +55,7 @@ Para que o SKU adquira status inativo, siga os passos abaixo:
 
 ## Saiba mais
 
-* [Produtos e SKUs](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By)
-* [Adicionar ou editar produto](/pt/tutorial/adicionar-ou-editar-produto--29IkdEu6GofCFlltsZh2H8)
-* [Adicionar ou editar SKU](/pt/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN)
+* [Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus)
+* [Adicionar ou editar produto](/pt/docs/tutorials/adicionar-ou-editar-produto)
+* [Adicionar ou editar SKU](/pt/docs/tutorials/adicionar-ou-editar-sku)
 

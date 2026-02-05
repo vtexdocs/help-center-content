@@ -17,7 +17,7 @@ order: 2
 
 O caminho que o dinheiro percorre ao ser trocado por um produto ou serviço é o que chamamos de __transação__.
 
-Em uma loja VTEX, uma transação se inicia toda vez que um usuário escolhe uma [condição de pagamento](/pt/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) e fecha seu pedido. A partir daí, os dados da compra são enviados para a validação de cada um dos integrantes do processo.
+Em uma loja VTEX, uma transação se inicia toda vez que um usuário escolhe uma [condição de pagamento](/pt/docs/tutorials/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento) e fecha seu pedido. A partir daí, os dados da compra são enviados para a validação de cada um dos integrantes do processo.
 
 As transações realizadas pelo módulo de pagamentos da VTEX passam por diversos status, desde o início do processo de autorização, passando pela liquidação do valor e chegando até a finalização da transação.
 

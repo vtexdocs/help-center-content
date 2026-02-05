@@ -21,7 +21,7 @@ A funcionalidade **Alocação de estoque** permite sincronizar diferentes pontos
 
 Para utilizar a funcionalidade **Alocação de estoque**, a conta VTEX precisa atender aos três requisitos abaixo:  
 
-- Estar habilitada para [alocação de estoque](/pt/tutorial/alocacao-de-estoque-no-mercado-livre--6BfmmAFctWbi7hxJlxCU1S).  
+- Estar habilitada para [alocação de estoque](/pt/docs/tutorials/alocacao-de-estoque-no-mercado-livre).  
 - Estar habilitada para o novo modelo de [cadastro de produto](/pt/announcements/2025-06-30-novo-modelo-de-anuncios-no-mercado-livre) e ter ao menos um anúncio cadastrado no novo modelo.  
 - Verifique se os estoques estão ativos no módulo de Estratégias de envio da VTEX.  
 
@@ -45,7 +45,7 @@ Essas opções podem ser utilizadas em conjunto para refinar ainda mais a pesqui
 
 A tabela de estoques é composta pelas colunas, **Estoque VTEX, Tipo, Status** e **Estoque do Mercado Livre.**  
 
-- **Estoque VTEX** é a coluna onde aparecem todos os estoques ativos no módulo de [Estratégia de entrega](/pt/tutorial/gerenciar-estoque--tutorials_137).   
+- **Estoque VTEX** é a coluna onde aparecem todos os estoques ativos no módulo de [Estratégia de entrega](/pt/docs/tutorials/gerenciar-estoque).   
 - **Tipo**  
 - **Status** é a coluna que mostra se um estoque VTEX está atribuído a um estoque Mercado Livre ou está pendente.  
 - **Estoque Mercado Livre** é a coluna que apresenta o botão `Alocar` se um estoque VTEX tiver o status **Pendente.** Caso o estoque VTEX tenha o status **Alocado,** essa coluna apresenta o nome e o ID do estoque Mercado Livre.  
@@ -117,8 +117,8 @@ Ao selecionar esta opção, você é redirecionado para a tela de configuração
 
 1. Selecione o estoque desejado.  
 2. No menu de ações <i class="ph ph-dots-three-vertical"></i> , clique em  Gerenciar estoque VTEX.  
-3. Você será direcionado ao cadastro do estoque correspondente no [módulo de Logística](/pt/tutorial/logistica--53udnvI5eBy8DKo8FOjMoP).  
-4. Faça as alterações desejadas seguindo o tutorial[Gerenciar Estoque](/pt/tutorial/gerenciar-estoque--tutorials_137).  
+3. Você será direcionado ao cadastro do estoque correspondente no [módulo de Logística](/pt/docs/tutorials/fulfillment-logistica-vtex).  
+4. Faça as alterações desejadas seguindo o tutorial[Gerenciar Estoque](/pt/docs/tutorials/gerenciar-estoque).  
 
 ### Desalocar estoque
 

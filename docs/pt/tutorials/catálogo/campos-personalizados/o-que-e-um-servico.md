@@ -24,5 +24,5 @@ Se o seu produto comprado for uma Camisa da Seleção Brasileira, o nome do seu 
 
 ### Artigos relacionados
 - [O que é um anexo?](/pt/tutorial/o-que-e-um-anexo)
-- [Cadastrar um anexo](/pt/tutorial/cadastrar-um-anexo--7zHMUpuoQE4cAskqEUWScU)
+- [Cadastrar um anexo](/pt/docs/tutorials/cadastrar-um-anexo)
 - [Criar serviço para um SKU](/pt/tutorial/criando-servico-para-um-sku)

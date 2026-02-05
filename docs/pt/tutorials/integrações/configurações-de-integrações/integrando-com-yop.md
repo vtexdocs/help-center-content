@@ -48,7 +48,7 @@ Alguns passos são essenciais para iniciarmos as configurações da integraçã
 
 ### Crie uma promoção de frete grátis 
 
-[Siga nosso manual de como criar promoção para o marketplace](/pt/tutorial/configurar-promocao-para-marketplace--tutorials_406).
+[Siga nosso manual de como criar promoção para o marketplace](/pt/docs/tutorials/configurar-promocao-para-marketplace).
 
 ## Para saber mais
 

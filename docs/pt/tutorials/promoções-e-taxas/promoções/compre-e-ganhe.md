@@ -133,7 +133,7 @@ A seção Restrições de Uso permite definir limites para o uso da promoção, 
 ### Configurar acúmulo e concorrência
 Nesta seção, você pode definir se a promoção poderá ser combinada com outras promoções. Abaixo estão as opções disponíveis:
 
-- **Permitir acumular com outras promoções:** a promoção poderá ser combinada com outras promoções ativas no momento. Note que, por padrão, a promoção já acumula descontos de frete ou brindes. Para mais informações acesse o artigo [Como funciona a concorrência de promoções](/pt/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270).
+- **Permitir acumular com outras promoções:** a promoção poderá ser combinada com outras promoções ativas no momento. Note que, por padrão, a promoção já acumula descontos de frete ou brindes. Para mais informações acesse o artigo [Como funciona a concorrência de promoções](/pt/docs/tutorials/como-funciona-a-concorrencia-de-promocoes).
 
 - **Permitir acumular com preços manuais:** a promoção será aplicada mesmo quando os preços forem ajustados manualmente, garantindo que a promoção funcione junto com ajustes individuais de preços no carrinho.
 
@@ -142,7 +142,7 @@ Destaque a promoção na página de produtos e adicione dados personalizados par
 
 - **Destacar nos produtos:** marque esta opção para exibir a promoção diretamente nas páginas de produtos. Lembre-se de configurar essa exibição no módulo CMS.
 
-> ℹ️ Lembre-se configurar essa exibição no módulo [CMS.](/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295)
+> ℹ️ Lembre-se configurar essa exibição no módulo [CMS.](/pt/docs/tutorials/configurando-promocao-com-destaque-flag)
 
 - **Informações adicionais:** clique em `Criar` para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.
 

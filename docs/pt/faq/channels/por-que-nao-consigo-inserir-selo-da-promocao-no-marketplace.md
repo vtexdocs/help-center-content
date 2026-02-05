@@ -24,4 +24,4 @@ Portanto, a maneira de configurar é diretamente pelo markpetlace, caso exista a
 
 ### Artigos relacionados
 
-[Configurar promoção para marketplace](/pt/tutorial/configurar-promocao-para-marketplace--tutorials_406)
+[Configurar promoção para marketplace](/pt/docs/tutorials/configurar-promocao-para-marketplace)

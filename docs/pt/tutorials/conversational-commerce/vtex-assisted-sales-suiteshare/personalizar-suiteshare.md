@@ -41,7 +41,7 @@ Selecione o tema desejado.
 
 Pronto!
 
-Essas alterações estarão disponivéis nos [**formulários de captura**](/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo).
+Essas alterações estarão disponivéis nos [**formulários de captura**](/pt/docs/tutorials/formulario-de-captura-suiteshare).
 
 ![Personalizar 6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/personalizar-suiteshare_6.png)
 
@@ -51,4 +51,4 @@ E no [**seletivo**](\"http://help.suiteshare.com/support/solutions/articles/670
 
 Não esqueça de clicar em "_**Salvar"**_.
 
-Atenção! Para configurar os textos você deve acessar o [formulário de captura](/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo) ou [seletivo](/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo).
+Atenção! Para configurar os textos você deve acessar o [formulário de captura](/pt/docs/tutorials/formulario-de-captura-suiteshare) ou [seletivo](/pt/docs/tutorials/formulario-de-captura-suiteshare).

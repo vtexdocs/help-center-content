@@ -24,7 +24,7 @@ Cada projeto tem suas configurações, conteúdo e marca personalizados de acord
 Neste guia, você aprenderá como gerenciar cada projeto de frontend da sua loja.
 
 ## Antes de começar
-Certifique-se de que os [recursos](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `See CMS menu on the top-bar`, `Settings` e `CMS GraphQL API` estão associados ao seu [Perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete). Caso contrário, [crie um perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso) e adicione esses recursos a eles ou adicione esses recursos a um perfil de acesso existente.
+Certifique-se de que os [recursos](/pt/docs/tutorials/recursos-do-license-manager) `See CMS menu on the top-bar`, `Settings` e `CMS GraphQL API` estão associados ao seu [Perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete). Caso contrário, [crie um perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso) e adicione esses recursos a eles ou adicione esses recursos a um perfil de acesso existente.
 
 ## Visão geral
 Para acessar a página de **Projetos**, entre no VTEX Admin e clique em **Storefront > Headless CMS**.
@@ -51,7 +51,7 @@ O webhook é um endpoint HTTP que permite a comunicação automatizada entre o V
 
 Depois de criar um novo projeto, você poderá criar páginas para ele com todas as rotas de URL e modelos de página compatíveis com a sua loja, como páginas iniciais, de produtos e de login.
 
-Para criar uma nova página, siga os passos em [Gerenciando páginas no Headless CMS](/pt/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
+Para criar uma nova página, siga os passos em [Gerenciando páginas no Headless CMS](/pt/docs/tutorials/gerenciando-paginas)
 
 ## Configurações do projeto
 As configurações do projeto permitem que você o configure de acordo com três categorias principais:

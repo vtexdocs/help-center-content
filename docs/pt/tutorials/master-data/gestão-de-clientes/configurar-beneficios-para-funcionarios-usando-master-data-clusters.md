@@ -26,21 +26,21 @@ Como os dados do cliente são armazenados como documentos da entidade de dados C
 ## O que é um cluster?
 No Master Data, um cluster é um campo com um valor determinado para uma entidade de dados. Um ou mais clusters definem esse grupo de clientes com propriedades comuns na entidade de dados CL.
 
-Aqui, a propriedade comum dos clientes é que eles também são funcionários da loja. Mais informações sobre clusters de clientes podem ser encontradas no artigo [Criar um cluster de clientes](/pt/tutorial/como-criar-um-cluster-de-clientes--frequentlyAskedQuestions_1724).
+Aqui, a propriedade comum dos clientes é que eles também são funcionários da loja. Mais informações sobre clusters de clientes podem ser encontradas no artigo [Criar um cluster de clientes](/pt/docs/tutorials/como-criar-um-cluster-de-clientes).
 
 Este artigo assume que os colaboradores estão devidamente registrados com um campo booleano `é funcionário` definido como verdadeiro em seus respectivos documentos para a entidade de dados CL, como demonstrado na figura abaixo. 
 
-Caso contrário, verifique o artigo [Criando um campo no Master Data](/pt/tutorial/como-crio-um-campo-no-master-data--frequentlyAskedQuestions_1829) para criar um campo que identifique os funcionários e configure-o adequadamente para cada documento correspondente aos funcionários.
+Caso contrário, verifique o artigo [Criando um campo no Master Data](/pt/docs/tutorials/como-crio-um-campo-no-master-data) para criar um campo que identifique os funcionários e configure-o adequadamente para cada documento correspondente aos funcionários.
 ![Campo do colaborador](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/gestão-de-clientes/configurar-beneficios-para-funcionarios-usando-master-data-clusters_1.png)
 
-> ℹ️ São muitos os detalhes para configurar uma promoção. Se você precisar de informações adicionais sobre este assunto, consulte o artigo [Criar promoções](/pt/tutorial/como-criar-promocoes--tutorials_320).
+> ℹ️ São muitos os detalhes para configurar uma promoção. Se você precisar de informações adicionais sobre este assunto, consulte o artigo [Criar promoções](/pt/docs/tutorials/criar-promocoes).
 
 Com o campo configurado, a promoção pode ser criada seguindo os passos abaixo:
 
 1. No painel esquerdo do Admin, acesse **Promoções** > **Promoções**.
 2. Com o menu **Promoções** aberto, clique no botão **Nova promoção** no canto superior direito.
 3. Escolha o tipo de promoção desejado a partir das opções disponíveis
-4. Preencha os campos necessários para estabelecer a promoção. Há muitos campos (por exemplo: Nome, data de vencimento, tipo e valor do desconto, etc.) e alguns deles são específicos para o tipo de promoção selecionado. Mais informações sobre a configuração das promoções podem ser encontradas no artigo [Criar promoções](/pt/tutorial/como-criar-promocoes--tutorials_320).
+4. Preencha os campos necessários para estabelecer a promoção. Há muitos campos (por exemplo: Nome, data de vencimento, tipo e valor do desconto, etc.) e alguns deles são específicos para o tipo de promoção selecionado. Mais informações sobre a configuração das promoções podem ser encontradas no artigo [Criar promoções](/pt/docs/tutorials/criar-promocoes).
 5. Para aplicar a promoção somente aos funcionários, dentro da seção 3 (Quais são as **condições** para a promoção ser válida?), selecione a opção **Cluster de clientes**.
 6. No campo vazio abaixo da opção **Cluster de clientes**, escreva o cluster que identifica os clientes que são empregados (um par `{campo}={valor}`). Neste caso, é utilizado `isEmployee=true`.
 7. No final da página, clique no botão **Salvar***.

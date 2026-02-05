@@ -28,7 +28,7 @@ A partir da lista de produtos, você pode realizar uma variedade de ações:
 
 ## Criar novo produto
 
-Ao clicar no botão `CRIAR PRODUTO`, você abrirá a página para cadastro de um novo produto no catálogo. Acesse o artigo [Como criar um produto](/pt/tutorial/como-criar-um-produto-beta--671zAWe0B9eCikzDu7kB1G) para saber como realizar esse procedimento.
+Ao clicar no botão `CRIAR PRODUTO`, você abrirá a página para cadastro de um novo produto no catálogo. Acesse o artigo [Como criar um produto](/pt/docs/tutorials/como-criar-um-produto) para saber como realizar esse procedimento.
 
 > ⚠️ O limite para cada conta do Seller Portal é de 100 mil produtos. Para mais informações, entre em contato com nosso [Suporte](https://support.vtex.com/hc/pt-br/requests).
 

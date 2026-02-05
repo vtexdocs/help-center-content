@@ -25,7 +25,7 @@ Quando uma nova página é criada, ela recebe o status de **Rascunho**, indicand
 
 O status **Publicando** era usado anteriormente para descrever o processo de deploy de uma página CMS no FastStore. No entanto, ele não dava muitos detalhes do processo.
 
-Agora, ao integrar a ferramenta Build Status a outros sistemas, como [Lançamentos](/pt/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xHfIx9C), WebOps e [FastStore](https://www.faststore.dev/), o Headless CMS fornece informações mais completas sobre o status desses sistemas.
+Agora, ao integrar a ferramenta Build Status a outros sistemas, como [Lançamentos](/pt/docs/tutorials/planner-pagina-calendario-beta), WebOps e [FastStore](https://www.faststore.dev/), o Headless CMS fornece informações mais completas sobre o status desses sistemas.
 
 ## Por que fizemos essa mudança?
 A ferramenta Build Status foi implementada para melhorar a clareza e garantir a transparência do processo de deploy.

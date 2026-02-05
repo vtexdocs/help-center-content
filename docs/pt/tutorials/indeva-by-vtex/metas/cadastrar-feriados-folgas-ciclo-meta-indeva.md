@@ -19,5 +19,5 @@ Para que as metas sejam calculadas corretamente, o ciclo considera apenas os dia
 
 Por isso, é necessário indicar no calendário os dias não úteis — como feriados ou folgas — que afetam um vendedor específico ou toda a equipe.
 
-Para instruções completas, consulte o artigo [Como cadastrar folgas e feriados](/pt/tutorial/folgas-e-feriados-indeva--1EowcHY0U9nP2oov3mN26S).
+Para instruções completas, consulte o artigo [Como cadastrar folgas e feriados](/pt/docs/tutorials/cadastrar-folgas-feriados-ciclo-meta-indeva).
 

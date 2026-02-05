@@ -85,10 +85,10 @@ Dimensões são as opções disponíveis para filtrar, agrupar e comparar dados 
 | 1P / 3P | 1P, ou first-party, determina as métricas da própria loja. 3P, ou third-party, determina as métricas de terceiros. Por exemplo, ao selecionar a métrica Pedidos e filtrar por 3P, você verá os pedidos de terceiros, seus sellers, na lista e no gráfico. |
 | Campanha | Nome das campanhas criadas no Admin VTEX. |
 | Cupom | Nome dos cupons criados no Admin VTEX. |
-| Política comercial | Nome das [políticas comerciais](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) cadastradas na sua loja para filtrar pelas suas diferentes estratégias e canais de vendas. |
-| Promoções | Nome das [promoções](/pt/tutorial/exemplos-de-promocao--5A8UTc7knvAscxo7e7rMFD) criadas no Admin VTEX. |
-| UTM Campaign | Nome das [UTM](/pt/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium--2wTz7QJ8KUG6skGAoAQuii) Campaigns cadastradas para suas campanhas. |
-| UTM Source | Nome das [UTM](/pt/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium--2wTz7QJ8KUG6skGAoAQuii) Sources cadastradas para identificar a origem do tráfego em seu ecommerce. |
+| Política comercial | Nome das [políticas comerciais](/pt/docs/tutorials/como-funciona-uma-politica-comercial) cadastradas na sua loja para filtrar pelas suas diferentes estratégias e canais de vendas. |
+| Promoções | Nome das [promoções](/pt/docs/tutorials/exemplos-de-promocao) criadas no Admin VTEX. |
+| UTM Campaign | Nome das [UTM](/pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium) Campaigns cadastradas para suas campanhas. |
+| UTM Source | Nome das [UTM](/pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium) Sources cadastradas para identificar a origem do tráfego em seu ecommerce. |
 
 ## Métricas
 Tanto o gráfico quanto a lista apresentam as métricas da sua loja, a partir dos dados do módulo de Gerenciamento de Pedidos (OMS). As métricas são divididas em:

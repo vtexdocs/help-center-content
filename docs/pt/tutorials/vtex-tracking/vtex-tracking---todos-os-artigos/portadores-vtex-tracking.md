@@ -19,7 +19,7 @@ Portadores são os motoristas que realizam as entregas do VTEX Tracking. Os port
 
 Os portadores devem ser cadastrados no VTEX Tracking para que sua operação de entrega seja integrada ao sistema.  Pela plataforma web é possível adicionar um novo portador, consultar e editar portadores já cadastrados. 
 
-A partir dos dados inseridos pelo portador,o sistema calcula a estimativa de tempo de entrega. O cálculo é feito pela plataforma do VTEX Tracking utilizando as informações de localização do GPS do smartphone do portador. Todo o acompanhamento diário do portador pode ser visto pela plataforma web e o portador deve utilizar o aplicativo[ móvel do VTEX Tracking](/pt/tutorial/tutorial-aplicativo-movel-vtex-tracking--5qYuqbMVlQBfpdCzC0X6jv).  
+A partir dos dados inseridos pelo portador,o sistema calcula a estimativa de tempo de entrega. O cálculo é feito pela plataforma do VTEX Tracking utilizando as informações de localização do GPS do smartphone do portador. Todo o acompanhamento diário do portador pode ser visto pela plataforma web e o portador deve utilizar o aplicativo[ móvel do VTEX Tracking](/pt/docs/tutorials/tutorial-aplicativo-movel-vtex-tracking).  
 
 Esse artigo tem as informações necessárias para:
 

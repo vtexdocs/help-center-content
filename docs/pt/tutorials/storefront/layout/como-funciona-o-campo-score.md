@@ -27,14 +27,14 @@ Um exemplo para o uso do score pode ser em eventos pontuais, quando sua loja pre
 
 ## Score na busca VTEX
 
-Se a loja utiliza a [busca VTEX](/pt/tutorial/como-funciona-a-busca-da-vtex--tutorials_542), é possível utilizar os parâmetros abaixo para implementar a ordenação por score:
+Se a loja utiliza a [busca VTEX](/pt/docs/tutorials/como-funciona-a-busca-da-vtex), é possível utilizar os parâmetros abaixo para implementar a ordenação por score:
 
 * **Ordem ascendente** (produtos com score mais baixo aparecem primeiro): `?O=OrderByScoreASC`
 * **Ordem descendente** (produtos com score mais alto aparecem primeiro): `?O=OrderByScoreDESC`
 
 ## Score no VTEX Intelligent Search
 
-Os parâmetros `OrderByScoreASC` e `OrderByScoreDESC` não são suportados pelo [VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb), apenas pela [busca VTEX](/pt/tutorial/como-funciona-a-busca-da-vtex--tutorials_542).
+Os parâmetros `OrderByScoreASC` e `OrderByScoreDESC` não são suportados pelo [VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb), apenas pela [busca VTEX](/pt/docs/tutorials/como-funciona-a-busca-da-vtex).
 
 O [VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb) não permite uma ordenação direta dos produtos pela pontuação definida no campo **Score**. Ao utilizar um desses parâmetros no VTEX Intelligent Search, ocorre a ordenação padrão, que é por [relevância](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
 

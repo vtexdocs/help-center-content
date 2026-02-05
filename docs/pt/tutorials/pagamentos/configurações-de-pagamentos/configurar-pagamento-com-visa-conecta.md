@@ -35,7 +35,7 @@ Para configurar o Visa Conecta, siga os passos abaixo:
 3. Clique em **Visa Conecta**.
 4. Ative a condição no campo **Status**.
 5. Se desejar utilizar um sistema antifraude, selecione a opção **Usar solução antifraude**.
-6. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condiciones-especiales--tutorials_456).
+6. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais).
 7. Clique em `Salvar`.
 
 Depois de seguir os passos indicados, o conector Visa Conecta pode demorar até 10 minutos para aparecer no Checkout da sua loja como uma opção de pagamento.

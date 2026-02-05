@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 5AxJjgQO1Uc0kWKMwyi08W
 ---
 
-Na VTEX, [políticas comerciais](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) agrupam as configurações de catálogo, preços, promoções, logística, segmentação de clientes e pagamentos para diferentes estratégias de venda. Lojas que atuam como sellers configuram políticas comerciais para aplicar condições específicas para cada marketplace em que vendem produtos. 
+Na VTEX, [políticas comerciais](/pt/docs/tutorials/como-funciona-uma-politica-comercial) agrupam as configurações de catálogo, preços, promoções, logística, segmentação de clientes e pagamentos para diferentes estratégias de venda. Lojas que atuam como sellers configuram políticas comerciais para aplicar condições específicas para cada marketplace em que vendem produtos. 
 
 Confira como políticas comerciais podem ser configuradas nos seguintes módulos, quando sua loja atua como seller:
 
@@ -28,19 +28,19 @@ Confira como políticas comerciais podem ser configuradas nos seguintes módulos
 - [Estratégia de Envio](#estrategia-de-envio)  
 - [Integrações](#integracoes)  
 
-Para [contratar políticas comerciais adicionais](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta solicitar via ticket em [*Suporte*](https://supporticket.vtex.com/support), selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
+Para [contratar políticas comerciais adicionais](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional), basta solicitar via ticket em [*Suporte*](https://supporticket.vtex.com/support), selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
 
 Para cada política comercial adicional, é cobrado um valor mensal, seja ela utilizada para integração com marketplaces certificados, parceiros, externos ou VTEX.
 
 ## Configurações da Loja 
 Criar uma nova política comercial é o primeiro passo para definir as condições aplicadas a cada marketplace em que um seller atua. Sellers podem criar múltiplas políticas comerciais, ou aplicar a mesma política em mais de um marketplace. 
 
-Essa configuração é feita no módulo Configurações da Loja, na aba Políticas comerciais. É necessário [criar uma nova política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) quando as configurações de catálogo, preços, promoções, logística e pagamentos forem diferentes entre os marketplaces em que os sellers vendem seus produtos. 
+Essa configuração é feita no módulo Configurações da Loja, na aba Políticas comerciais. É necessário [criar uma nova política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) quando as configurações de catálogo, preços, promoções, logística e pagamentos forem diferentes entre os marketplaces em que os sellers vendem seus produtos. 
 
 ![PT Add Politica comercial](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/políticas-comerciais/configurações-de-políticas-comerciais/configurando-a-politica-comercial-para-marketplace_1.jpg)
 
 ## Gerenciamento de Pedidos
-Após a criação de uma política comercial, é preciso associá-la a cada marketplace em que o seller vende produtos ao cadastrar [afiliados](/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0). É assim que sellers identificam qual política comercial está atuando em cada marketplace. Se sua loja vende produtos em três marketplaces diferentes, é necessário criar três afiliados, cada um representando um marketplace. 
+Após a criação de uma política comercial, é preciso associá-la a cada marketplace em que o seller vende produtos ao cadastrar [afiliados](/pt/docs/tutorials/o-que-e-afiliado). É assim que sellers identificam qual política comercial está atuando em cada marketplace. Se sua loja vende produtos em três marketplaces diferentes, é necessário criar três afiliados, cada um representando um marketplace. 
 
 Essa ação é feita na aba *Configurações* do módulo *Gerenciamento de Pedidos* da sua loja ao cadastrar afiliados. Mesmo criando várias, é importante notar que somente uma política comercial atuará no marketplace por vez. 
 
@@ -63,9 +63,9 @@ Se nenhuma política comercial for selecionada, a promoção estará disponível
 *No exemplo acima, a promoção será aplicada somente a pedidos das políticas comerciais "Marketplace-BRL" e "Argentina-ARS", onde a loja atua como seller. A promoção não estará disponível no storefront da loja VTEX.* 
 
 ## Pagamentos
-Sellers que transacionam o pagamento das vendas de seus produtos em um marketplace podem criar [condições especiais](/pt/tutorial/condicoes-especiais--tutorials_456) de pagamento e aplicá-las em marketplaces específicos por meio de políticas comerciais. Se sua loja deseja oferecer mais opções de parcelamento para pedidos em marketplaces parceiros, é necessário criar uma condição especial e associá-la à política comercial vigente nesses marketplaces. 
+Sellers que transacionam o pagamento das vendas de seus produtos em um marketplace podem criar [condições especiais](/pt/docs/tutorials/condicoes-especiais) de pagamento e aplicá-las em marketplaces específicos por meio de políticas comerciais. Se sua loja deseja oferecer mais opções de parcelamento para pedidos em marketplaces parceiros, é necessário criar uma condição especial e associá-la à política comercial vigente nesses marketplaces. 
 
-Essa configuração é feita no módulo de *Pagamentos*, ao [criar uma condição especial](/pt/tutorial/condicoes-especiais--tutorials_456) e ao associá-la às políticas comerciais desejadas. Se nenhuma restrição é feita, a política comercial será aplicada em todos os canais de venda. 
+Essa configuração é feita no módulo de *Pagamentos*, ao [criar uma condição especial](/pt/docs/tutorials/condicoes-especiais) e ao associá-la às políticas comerciais desejadas. Se nenhuma restrição é feita, a política comercial será aplicada em todos os canais de venda. 
 
 ![PT Pagamento Politica comercial](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/políticas-comerciais/configurações-de-políticas-comerciais/configurando-a-politica-comercial-para-marketplace_4.jpg)
 
@@ -87,7 +87,7 @@ Sellers podem definir uma estratégia de precificação diferente para cada mark
 
 Essa configuração é feita no módulo de *Preços* da VTEX, utilizando políticas comerciais. Ao definir preços para seus produtos, sellers devem levar em consideração que cada política comercial é criada com sua própria tabela de preços. Para diferenciar a precificação entre políticas comerciais, é possível usar:
 
-- [Regras de preço](/pt/tutorial/configurar-regra-de-preco-para-politica-comercial--5LQMLwcUcEGCWK6SMI6cEM): para determinar um markup para categorias e marcas específicas
+- [Regras de preço](/pt/docs/tutorials/configurar-regra-de-preco-para-politica-comercial): para determinar um markup para categorias e marcas específicas
 - [Preços fixos](/pt/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy): para diferenciar preços em produtos específicos
 
 ![PT Regra de preço](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/políticas-comerciais/configurações-de-políticas-comerciais/configurando-a-politica-comercial-para-marketplace_6.jpg)
@@ -117,7 +117,7 @@ Essas [integrações](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials
 
 ## Saiba mais
 
-- [Criar uma política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)  
-- [Como funciona uma política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
-- [Estratégias de marketplace na VTEX](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402)
+- [Criar uma política comercial](/pt/docs/tutorials/criar-uma-politica-comercial)  
+- [Como funciona uma política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial)
+- [Estratégias de marketplace na VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex)
 

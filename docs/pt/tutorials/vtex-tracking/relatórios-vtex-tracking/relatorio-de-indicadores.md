@@ -32,7 +32,7 @@ Se quiser realizar uma nova busca, clique na borracha para limpar os filtros e r
 
 Cada aba mostrará gráficos específicos para consulta, além de deixar disponível para download os dados contidos nos gráficos para que você utilize como desejar:
 
-*   [Serviços](/pt/tutorial/indicadores-de-servico--3hJSSqUIIXVtr99GPvEXML)
-*   [Suporte](/pt/tutorial/indicadores-de-suporte--7K5r16D5K7RHhry2SQQlKD)
-*   [Data limite](/pt/tutorial/indicadores-de-data-limite--3HpgTl1TmYSbIFiRlH7qYA)
+*   [Serviços](/pt/docs/tutorials/indicadores-de-servico)
+*   [Suporte](/pt/docs/tutorials/indicadores-de-suporte)
+*   [Data limite](/pt/docs/tutorials/indicadores-de-data-limite)
 

@@ -34,7 +34,7 @@ Antes de começar a implementação do frontend, é recomendado que a loja tenha
 | Etapa | Descrição |
 | ----- | --------- |
 | Definição da arquitetura da loja e sua estratégia de vendas | O time definiu a arquitetura da sua loja VTEX de acordo com as estratégias e necessidades do seu modelo de negócio.<br><br>Mais informações no artigo [Contas e arquitetura](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl). |
-| Configuração dos perfis de acesso | O time configurou os acessos necessários para usar a plataforma VTEX para cada [usuário](/pt/docs/tutorials/gerenciar-usuarios-administrativos).<br><br>Mais informações no artigo [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc). |
+| Configuração dos perfis de acesso | O time configurou os acessos necessários para usar a plataforma VTEX para cada [usuário](/pt/docs/tutorials/gerenciar-usuarios-administrativos).<br><br>Mais informações no artigo [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso). |
 | Configuração do catálogo | O time configurou o [catálogo](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalogo) com os produtos, a árvore de categoria e informações relacionadas, como descrições, imagens e preços, a fim de preencher e testar a loja, incluindo recursos como páginas de listagem de produtos (PLP), funcionalidade de pesquisa, páginas de detalhes de produtos (PDP) e checkout.<br><br>A ausência de um catálogo pode resultar em testes incompletos e problemas de integração de dados, atrasando a implementação.<br><br>Mais informações no artigo [Módulos da VTEX I](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7). |
 | Definição dos aplicativos necessários à operação da loja | O time definiu os aplicativos, nativos ou de terceiros, necessários para a operação da loja.<br><br>Para lojas que serão construídas usando [Store Framework](#store-framework), existe uma lista de apps nativos e de terceiros.<br><br>Mais informações no artigo [VTEX IO apps](https://developers.vtex.com/docs/vtex-io-apps). |
 
@@ -100,12 +100,12 @@ A tabela a seguir apresenta algumas das principais funcionalidades do Store Fram
 | [Componentes pré-construídos](https://developers.vtex.com/docs/vtex-io-apps) | Componentes nativos baseados em *React*. |
 | Arquitetura modular | Personalização e reutilização do código de elementos da interface para lançar e replicar lojas rapidamente. |
 | [Workspaces e ambientes de testes](https://developers.vtex.com/docs/guides/vtex-io-documentation-workspace) | Permite criar diferentes versões da loja e testá-las previamente para realizar alterações com segurança. |
-| [Site Editor](/pt/tutorial/site-editor-visao-geral--299Dbeb9mFczUTyNQ9xPe1) | Sistema de gerenciamento de conteúdo (CMS) para edição de templates e construção de novas páginas no site da loja. |
+| [Site Editor](/pt/docs/tutorials/site-editor-visao-geral) | Sistema de gerenciamento de conteúdo (CMS) para edição de templates e construção de novas páginas no site da loja. |
 | [Testes A/B nativos](https://developers.vtex.com/docs/guides/ab-tests) | Permite testar e validar qual a versão da loja com as maiores taxas de conversão. |
 | Integração com [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) | Funcionalidade de preenchimento automático na barra de pesquisa, juntamente com sugestões de pesquisa e produtos com base em suas preferências. |
-| [Progressive Web App (PWA)](/pt/tutorial/habilitando-notificacoes-pwa-da-loja--1be3ZPhbsgZSbE7h5H46pG) | Permite experiências nativas semelhantes a aplicativos em qualquer dispositivo com tecnologia pronta para PWA. |
+| [Progressive Web App (PWA)](/pt/docs/tutorials/habilitando-notificacoes-pwa-da-loja) | Permite experiências nativas semelhantes a aplicativos em qualquer dispositivo com tecnologia pronta para PWA. |
 | [Cross-border](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/5qgXy9Erm7FDP3UB5Ox8Bs?&utm_source) | Permite que uma loja [multiloja](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multiloja) VTEX opere em diferentes países com uma abordagem própria para cada um deles. |
-| Integração com Checkout, [Minha Conta](/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh) e Login | Integração com outras etapas da jornada de compra do cliente. |
+| Integração com Checkout, [Minha Conta](/pt/docs/tutorials/como-funciona-a-minha-conta) e Login | Integração com outras etapas da jornada de compra do cliente. |
 
 ## Escolhendo a tecnologia de frontend
 
@@ -197,7 +197,7 @@ A tabela abaixo compara as duas tecnologias de acordo com suas principais funcio
     </tr>
     <tr>
         <td>Sistema de Gerenciamento de Conteúdo (CMS)</td>
-        <td>Compatível com o [Site Editor](/pt/tutorial/site-editor-visao-geral--299Dbeb9mFczUTyNQ9xPe1).</td>
+        <td>Compatível com o [Site Editor](/pt/docs/tutorials/site-editor-visao-geral).</td>
         <td>Compatível com o [Headless CMS](https://www.faststore.dev/docs/headless-cms-overview).</td>
     </tr>
 </table>
@@ -228,11 +228,11 @@ São apresentados a seguir os requisitos para cada tema:
 
 - Catálogo
   - [Cadastrar produtos e SKUs](/pt/tutorial/cadastrando-produtos--tutorials_2567)
-  - [Construir a árvore de categorias](/pt/tutorial/cadastrar-uma-categoria--tutorials_206) ([departamentos](/pt/tutorial/o-que-e-um-departamento--22rKjmYWVmmKAK8CWa8yKw), [categorias](/pt/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) e [subcategorias](/pt/tutorial/o-que-e-uma-subcategoria--2cb0aRkG3i6AeiAMM24iwY))
-  - [Definir filtros e tipos de especificações por categoria](/pt/tutorial/criando-grupo-de-especificacoes-em-uma-categoria--tutorials_246)
+  - [Construir a árvore de categorias](/pt/docs/tutorials/cadastrar-uma-categoria) ([departamentos](/pt/docs/tutorials/o-que-e-um-departamento), [categorias](/pt/docs/tutorials/o-que-e-uma-categoria) e [subcategorias](/pt/docs/tutorials/o-que-e-uma-subcategoria))
+  - [Definir filtros e tipos de especificações por categoria](/pt/docs/tutorials/criando-grupo-de-especificacoes-em-uma-categoria)
   - [Cadastrar imagens dos SKUs](/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY#imagens)
   - [Cadastrar preços dos SKUs](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29)
-  - [Gerenciar inventário](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139)
+  - [Gerenciar inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque)
 - VTEX Intelligent Search
   - [Integrar a app de Intelligent Search na conta](https://www.faststore.dev/docs/getting-started-requirements#enable-the-vtex-intelligent-search-app-in-your-account)
 - Integração com Headless CMS
@@ -254,12 +254,12 @@ São apresentados a seguir os requisitos para cada tema:
   - Integrar com o [VTEX Checkout](https://www.faststore.dev/docs/go-live/4-integrating-the-vtex-checkout)
   - Integrar com [VTEX Order Placed e My Account](https://www.faststore.dev/docs/go-live/5-integrating-the-vtex-order-placed-and-my-account)
 - Logística
-  - [Cadastrar doca](/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)
-  - [Cadastrar estratégia de envio](/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)
-  - [Relacionar estratégia de envio e estoque com a doca](/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)
+  - [Cadastrar doca](/pt/docs/tutorials/gerenciar-doca)
+  - [Cadastrar estratégia de envio](/pt/docs/tutorials/estrategia-de-envio)
+  - [Relacionar estratégia de envio e estoque com a doca](/pt/docs/tutorials/gerenciar-doca)
 - Payments
-  - [Configurar o conector Promissórias](/pt/tutorial/configurar-o-conector-promissorias--7Gy0SJRVS0Qi2CuWMAqQc0)
-  - [Cadastrar afiliações de gateway](/pt/tutorial/afiliacoes-de-gateway--tutorials_444)
+  - [Configurar o conector Promissórias](/pt/docs/tutorials/configurar-o-conector-promissorias)
+  - [Cadastrar afiliações de gateway](/pt/docs/tutorials/afiliacoes-de-gateway)
 - Performance e SEO
   - Aumentar o desempenho do site da loja usando ferramentas indicadas [para tecnologia](https://v1.faststore.dev/how-to-guides/performance)
 - Métricas
@@ -281,11 +281,11 @@ São apresentados a seguir os requisitos para cada tema:
 
 - Catálogo
   - [Cadastrar produtos e SKUs](/pt/tutorial/cadastrando-produtos--tutorials_2567)
-  - [Construir a árvore de categorias](/pt/tutorial/cadastrar-uma-categoria--tutorials_206) ([departamentos](/pt/tutorial/o-que-e-um-departamento--22rKjmYWVmmKAK8CWa8yKw), [categorias](/pt/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) e [subcategorias](/pt/tutorial/o-que-e-uma-subcategoria--2cb0aRkG3i6AeiAMM24iwY))
-  - [Definir filtros e tipos de especificações por categoria](/pt/tutorial/criando-grupo-de-especificacoes-em-uma-categoria--tutorials_246)
+  - [Construir a árvore de categorias](/pt/docs/tutorials/cadastrar-uma-categoria) ([departamentos](/pt/docs/tutorials/o-que-e-um-departamento), [categorias](/pt/docs/tutorials/o-que-e-uma-categoria) e [subcategorias](/pt/docs/tutorials/o-que-e-uma-subcategoria))
+  - [Definir filtros e tipos de especificações por categoria](/pt/docs/tutorials/criando-grupo-de-especificacoes-em-uma-categoria)
   - [Cadastrar imagens dos SKUs](/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY#imagens)
   - [Cadastrar preços dos SKUs](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29)
-  - [Gerenciar inventário](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139)
+  - [Gerenciar inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque)
 - VTEX Inteligent Search
   - [Integrar a app de Intelligent Search na conta](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG)
 - Página Home
@@ -300,11 +300,11 @@ São apresentados a seguir os requisitos para cada tema:
 - Minicart configuration
   - Editar os componentes e estilos já apresentados no [Starter](https://storetheme.vtex.com/)
 - Logística
-  - [Cadastrar doca](/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)
-  - [Cadastrar estratégia de envio](/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)
-  - [Relacionar estratégia de envio e estoque com doca](/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)
+  - [Cadastrar doca](/pt/docs/tutorials/gerenciar-doca)
+  - [Cadastrar estratégia de envio](/pt/docs/tutorials/estrategia-de-envio)
+  - [Relacionar estratégia de envio e estoque com doca](/pt/docs/tutorials/gerenciar-doca)
 - Pagamentos
-  - [Configurar o conector Promissórias](/pt/tutorial/configurar-o-conector-promissorias--7Gy0SJRVS0Qi2CuWMAqQc0)
+  - [Configurar o conector Promissórias](/pt/docs/tutorials/configurar-o-conector-promissorias)
   - [Cadastrar afiliações de gateway](/pt/tutorial/registering-gateway-affiliations/)
 - Performance
   - Aumentar o desempenho do site da loja usando ferramentas de [otimização de desempenho](https://developers.vtex.com/docs/guides/vtex-io-documentation-best-practices-for-optimizing-performance)

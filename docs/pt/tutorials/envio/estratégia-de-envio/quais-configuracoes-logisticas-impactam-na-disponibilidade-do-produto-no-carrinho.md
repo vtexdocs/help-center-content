@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-Quando você configura corretamente o produto e ele [aparece como disponível na vitrine](/pt/faq/por-que-o-produto-nao-aparece-no-site), pode ocorrer do item se tornar indisponível quando adicionado no carrinho. Diferentes aspectos da [logística](/pt/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP) podem estar envolvidos na indisponibilidade do produto no carrinho, e os temas a seguir permitem identificar as possíveis causas:
+Quando você configura corretamente o produto e ele [aparece como disponível na vitrine](/pt/faq/por-que-o-produto-nao-aparece-no-site), pode ocorrer do item se tornar indisponível quando adicionado no carrinho. Diferentes aspectos da [logística](/pt/docs/tutorials/fulfillment-logistica-vtex) podem estar envolvidos na indisponibilidade do produto no carrinho, e os temas a seguir permitem identificar as possíveis causas:
 
 * [Simulador de envio](#simulador-de-envio)
 * [Inventário](#inventario)
@@ -25,57 +25,57 @@ Quando você configura corretamente o produto e ele [aparece como disponível na
     * [Dimensões e fator cúbico de peso](#dimensoes-e-fator-cubico-de-peso)
     * [Modal](#modal)
 
-> ⚠️ Se a sua loja utiliza a funcionalidade [Regionalização de sellers](/pt/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw), os sellers capazes de enviar o produto para a localidade do cliente devem ter o produto disponível para vendas. Além disso, o status desses sellers precisa ser ativo, pois produtos de sellers inativos não são considerados como disponíveis.
+> ⚠️ Se a sua loja utiliza a funcionalidade [Regionalização de sellers](/pt/docs/tutorials/configurar-a-regionalizacao-de-sellers), os sellers capazes de enviar o produto para a localidade do cliente devem ter o produto disponível para vendas. Além disso, o status desses sellers precisa ser ativo, pois produtos de sellers inativos não são considerados como disponíveis.
 
 ## Simulador de envio
 
-Um produto pode estar indisponível no carrinho porque a [estratégia de envio](/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) da sua loja não permite a entrega para a localidade do cliente, ou porque não existe quantidade suficiente do produto para vendas no [inventário](/pt/tutorial/gerenciar-inventario--tutorials_139), por exemplo.
+Um produto pode estar indisponível no carrinho porque a [estratégia de envio](/pt/docs/tutorials/estrategia-de-envio) da sua loja não permite a entrega para a localidade do cliente, ou porque não existe quantidade suficiente do produto para vendas no [inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque), por exemplo.
 
 Uma forma de testar a existência de uma rota de entrega viável, validar certas configurações logísticas da sua loja e conferir o inventário é usando o **Simulador de envio**.
 
-> ℹ️ Para conhecer o passo a passo de como simular o envio de um produto, veja o artigo [Simulador de envio](/pt/tutorial/simulador-de-envio--tutorials_144).
+> ℹ️ Para conhecer o passo a passo de como simular o envio de um produto, veja o artigo [Simulador de envio](/pt/docs/tutorials/simulador-de-envio).
 
 ## Inventário
 
 Ao adotar qualquer uma dessas estratégias, você mantém a disponibilidade do produto no carrinho com relação ao inventário:
 
-* Garantir a contagem suficiente de itens para vendas (itens [reservados](/pt/tutorial/como-a-reserva-funciona--tutorials_92) não são considerados disponíveis).
+* Garantir a contagem suficiente de itens para vendas (itens [reservados](/pt/docs/tutorials/como-a-reserva-funciona) não são considerados disponíveis).
     * No Admin VTEX, acesse **Catálogo > Inventário > Gerenciamento de inventário** e altere o valor na coluna `Atualizar contagem` na linha referente ao produto.
-* Habilitar a configuração [estoque infinito](/pt/tutorial/gerenciar-inventario--tutorials_139) para o produto. 
+* Habilitar a configuração [estoque infinito](/pt/docs/tutorials/gerenciar-itens-em-estoque) para o produto. 
     * No Admin VTEX, acesse **Catálogo > Inventário > Gerenciamento de inventário** e habilite o toggle da coluna `Estoque infinito` na linha referente ao produto.
 
 Se o [estoque futuro](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/items/-skuId-/warehouses/-warehouseId-/supplyLots/-supplyLotId-) estiver configurado para o SKU, o abastecimento desse item poderia levar um tempo a mais que o previsto, e nesse período a indisponibilidade poderia ser por falta de estoque do produto.
 
-> ⚠️ Caso a sua loja tenha [contas franquia](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex), para que o inventário dessas contas esteja disponível para vendas, os produtos precisam estar vinculados à mesma [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) usada na sua vitrine.
+> ⚠️ Caso a sua loja tenha [contas franquia](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex), para que o inventário dessas contas esteja disponível para vendas, os produtos precisam estar vinculados à mesma [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) usada na sua vitrine.
 
 ## Estratégia de envio
 
-Na VTEX, [estratégia de envio](/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) é o nome da relação entre política de envio, estoque e doca. Quando a plataforma realiza o [cálculo de envio](/pt/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) do pedido, para que uma rota de envio seja considerada válida, é necessário que exista ao menos uma combinação desses entes logísticos que possibilite o envio do produto.
+Na VTEX, [estratégia de envio](/pt/docs/tutorials/estrategia-de-envio) é o nome da relação entre política de envio, estoque e doca. Quando a plataforma realiza o [cálculo de envio](/pt/docs/tutorials/como-funciona-o-calculo-de-envio) do pedido, para que uma rota de envio seja considerada válida, é necessário que exista ao menos uma combinação desses entes logísticos que possibilite o envio do produto.
 
 Com relação à estratégia de envio, a lista abaixo apresenta as principais situações que causam indisponibilidade do produto no carrinho:
 
-* A [política de envio](/pt/tutorial/politica-de-envio--tutorials_140) está inativa.
-* O [estoque](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) está inativo. 
-* A [doca](/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) está inativa.
+* A [política de envio](/pt/docs/tutorials/politica-de-envio) está inativa.
+* O [estoque](/pt/docs/tutorials/estoque) está inativo. 
+* A [doca](/pt/docs/tutorials/doca) está inativa.
 * Não existe vínculo entre o estoque e a doca. 
 * Não existe vínculo entre a doca e a política de envio.
-* Não existe vínculo entre a doca e a [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que define os produtos exibidos na vitrine.
+* Não existe vínculo entre a doca e a [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) que define os produtos exibidos na vitrine.
 
 > ℹ️ Estas situações devem ser consideradas no contexto da venda. Ter um estoque inativo não causa a indisponibilidade do produto, mas quando somente um estoque atende à rota de envio e ele está inativo, o produto se torna indisponível no carrinho.
 
 ## Configurações da política de envio
 
-[Política de envio](/pt/tutorial/politica-de-envio--tutorials_140) é um conjunto de regras e configurações que definem quais opções de envio serão apresentadas aos clientes na etapa do carrinho. Os principais aspectos de indisponibilidade do produto no carrinho com relação à política de envio são:
+[Política de envio](/pt/docs/tutorials/politica-de-envio) é um conjunto de regras e configurações que definem quais opções de envio serão apresentadas aos clientes na etapa do carrinho. Os principais aspectos de indisponibilidade do produto no carrinho com relação à política de envio são:
 
 * [Transportadora e planilha de frete](#transportadora-e-planilha-de-frete)
 * [Dimensões e fator cúbico de peso](#dimensoes-e-fator-cubico-de-peso)
 * [Modal](#modal)
 
-Pelo Admin VTEX, essas configurações são feitas em **Envio > Estratégia de envio**, na aba `Política de envio`, ou seja, na página de [edição da política de envio](/pt/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT). Para criar ou alterar uma política de envio por API, utilize os endpoints [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) e [Update shipping policy by ID](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/shipping-policies/-id-).
+Pelo Admin VTEX, essas configurações são feitas em **Envio > Estratégia de envio**, na aba `Política de envio`, ou seja, na página de [edição da política de envio](/pt/docs/tutorials/criar-uma-politica-de-envio). Para criar ou alterar uma política de envio por API, utilize os endpoints [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) e [Update shipping policy by ID](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/shipping-policies/-id-).
 
 ### Transportadora e planilha de frete
 
-Cada política de envio está associada a uma [planilha de frete](/pt/tutorial/planilha-de-frete--tutorials_127), que é onde você cadastra a [transportadora](/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) e seus valores de envio. 
+Cada política de envio está associada a uma [planilha de frete](/pt/docs/tutorials/planilha-de-frete), que é onde você cadastra a [transportadora](/pt/docs/tutorials/transportadoras-na-vtex) e seus valores de envio. 
 
 Com relação às configurações da transportadora, a lista a seguir apresenta as principais causas para indisponibilidade do produto no carrinho:
 
@@ -90,7 +90,7 @@ Outras configurações da transportadora que podem impactar na disponibilidade d
 
 ### Dimensões e fator cúbico de peso
 
-Com relação ao [fator cúbico de peso](/pt/tutorial/calcular-o-fator-cubico-de-peso--tutorials_128), é preciso garantir que o produto se enquadre dentro das **Dimensões do pacote** configurados na política de envio. São elas:
+Com relação ao [fator cúbico de peso](/pt/docs/tutorials/como-o-peso-cubado-e-calculado), é preciso garantir que o produto se enquadre dentro das **Dimensões do pacote** configurados na política de envio. São elas:
 
 * Soma das dimensões.
 * Maior aresta.
@@ -99,11 +99,11 @@ Com relação ao [fator cúbico de peso](/pt/tutorial/calcular-o-fator-cubico-de
 
 Caso o produto esteja fora de algum dos limites configurados, ele se tornará indisponível no carrinho.
 
-> ⚠️ Se houver duas políticas de envio válidas para o pedido, sendo uma do tipo entrega e outra do tipo [retirada](/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R), mas o produto não se enquadrar nos limites de dimensões do pacote de uma delas, somente um tipo de envio será apresentado no checkout. Por exemplo, se o peso do produto for menor que o valor de peso mínimo da política de envio para entrega, mas estiver dentro dos limites configurados para a retirada, aparecerá para o cliente somente a opção para retirar o pedido.
+> ⚠️ Se houver duas políticas de envio válidas para o pedido, sendo uma do tipo entrega e outra do tipo [retirada](/pt/docs/tutorials/pontos-de-retirada), mas o produto não se enquadrar nos limites de dimensões do pacote de uma delas, somente um tipo de envio será apresentado no checkout. Por exemplo, se o peso do produto for menor que o valor de peso mínimo da política de envio para entrega, mas estiver dentro dos limites configurados para a retirada, aparecerá para o cliente somente a opção para retirar o pedido.
 
 ### Modal
 
-O [modal](/pt/tutorial/como-funciona-o-modal--tutorials_125) é a configuração da política de envio que faz com que produtos com características especiais sejam entregues por transportadoras especializadas. Por exemplo, apenas um transporte que ofereça refrigeração é capaz de enviar produtos que exigem resfriamento.
+O [modal](/pt/docs/tutorials/como-funciona-o-modal) é a configuração da política de envio que faz com que produtos com características especiais sejam entregues por transportadoras especializadas. Por exemplo, apenas um transporte que ofereça refrigeração é capaz de enviar produtos que exigem resfriamento.
 
 Com relação ao modal, as seguintes situações resultam na indisponibilidade do produto no carrinho:
 

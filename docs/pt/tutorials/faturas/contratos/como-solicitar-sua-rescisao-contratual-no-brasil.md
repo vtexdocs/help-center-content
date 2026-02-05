@@ -17,7 +17,7 @@ subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 
 > ℹ️ Esse procedimento é apenas para clientes faturados no Brasil.
 
-Para efetuar o cancelamento do contrato e deixar de utilizar a plataforma VTEX, é necessário abrir um chamado comunicando sua decisão ao Suporte VTEX Financeiro. Caso tenha dúvidas sobre como abrir um chamado, leia o artigo [Abrir chamados para o suporte VTEX](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+Para efetuar o cancelamento do contrato e deixar de utilizar a plataforma VTEX, é necessário abrir um chamado comunicando sua decisão ao Suporte VTEX Financeiro. Caso tenha dúvidas sobre como abrir um chamado, leia o artigo [Abrir chamados para o suporte VTEX](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex).
 
 Para solicitar a rescisão do contrato, você deverá [autenticar sua conta](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM#1-autenticar-sua-conta) e se [identificar](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM#2-vamos-comecar) para ter acesso ao Suporte VTEX. Após concluir essas etapas, siga os passos abaixo:
 

@@ -95,7 +95,7 @@ Para configurar o adquirente que irá processar os pagamentos de sua loja, acess
 
 ### Faturamento
 
-Para emitir a fatura para o consumidor, a VTEX tem integrações disponíveis com ERPs e outros sistemas responsáveis por essa parte do processo. Você pode entender melhor essa funcionalidade consultando o [Guia de Integração com NFC-e](/pt/tutorial/guia-de-integracao-do-gerenciamento-de-pedidos-com-cf-e-para-o-vtex-instore--51xsyWzGiQ08KMO2EaaGAa).
+Para emitir a fatura para o consumidor, a VTEX tem integrações disponíveis com ERPs e outros sistemas responsáveis por essa parte do processo. Você pode entender melhor essa funcionalidade consultando o [Guia de Integração com NFC-e](/pt/docs/tutorials/guia-de-integracao-do-gerenciamento-de-pedidos-com-cf-e-para-o-vtex-sales-app).
 
 Os parceiros de faturamento que indicamos são:
 
@@ -126,7 +126,7 @@ Os pré-requisitos para implementar essas estratégias são todos os itens descr
 
 Recomendações adicionais:
 
-* Ativar o módulo **Checkout v6**. Leia o artigo [Como ativar o Checkout v6](/pt/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH) para mais informações.
+* Ativar o módulo **Checkout v6**. Leia o artigo [Como ativar o Checkout v6](/pt/docs/tutorials/ativar-o-checkout-v6) para mais informações.
 * Preços: recomendamos que suas lojas físicas herdem os preços do ecommerce. No entanto, se você optar por ter preços diferenciados, considere os requisitos e observações abaixo.
     * É necessário envolver uma agência parceira para regionalizar o catálogo.
     * Isso pode impactar as ferramentas de comparação de preços, pois eles recebem apenas um valor.

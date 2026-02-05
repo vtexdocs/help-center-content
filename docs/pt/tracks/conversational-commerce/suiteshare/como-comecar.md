@@ -23,9 +23,9 @@ Caso você não não saiba em que situação está o seu plano, você pode consu
 
 ![Suitshare-Como começar2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/conversational-commerce/suiteshare/como-comecar_2.png)
 
-O primeiro passo dentro da **VTEX Assisted Sales (SuiteShare)** é [criar os links](/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB) de Whatsapp que serão utilizados. Os links são a maneira mais fácil para que o seu cliente entre em contato com você via Whatsapp em apenas um clique. Para facilitar o processo de criação, você pode [acessar o nosso tutorial](/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB) que irá lhe auxiliar na criação dos links.
+O primeiro passo dentro da **VTEX Assisted Sales (SuiteShare)** é [criar os links](/pt/docs/tutorials/links-suiteshare) de Whatsapp que serão utilizados. Os links são a maneira mais fácil para que o seu cliente entre em contato com você via Whatsapp em apenas um clique. Para facilitar o processo de criação, você pode [acessar o nosso tutorial](/pt/docs/tutorials/links-suiteshare) que irá lhe auxiliar na criação dos links.
 
-Após finalizar a criação dos seus links, você pode gerenciá-los através da aba de links, gerar um [QRCode](/pt/tutorial/qr-code-suiteshare--t7faoKDUUr4ZZlrfS0sXV) para utilizar em materiais impressos, descobrir o número de cliques e data de criação.
+Após finalizar a criação dos seus links, você pode gerenciá-los através da aba de links, gerar um [QRCode](/pt/docs/tutorials/qr-code-suiteshare) para utilizar em materiais impressos, descobrir o número de cliques e data de criação.
 
 ![Suitshare-Como começar3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/conversational-commerce/suiteshare/como-comecar_3.png)
 

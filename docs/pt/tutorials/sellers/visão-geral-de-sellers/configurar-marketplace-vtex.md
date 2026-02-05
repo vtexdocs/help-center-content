@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 5tlIjp0ZkAU4EIk4OgyEmm
 ---
 
-A arquitetura de uma loja VTEX possibilita anunciar e vender produtos em outras lojas, sejam elas VTEX ou não. Ao  vender produtos de outros sellers em seu ambiente, uma loja VTEX  se torna um marketplace VTEX. Um marketplace é um tipo de comércio colaborativo, modelo que oferece vantagens e benefícios para as partes envolvidas. Mais informações sobre parceiros e oportunidades de crescimento no ecossistema VTEX em [Estratégias de marketplace na VTEX](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402). 
+A arquitetura de uma loja VTEX possibilita anunciar e vender produtos em outras lojas, sejam elas VTEX ou não. Ao  vender produtos de outros sellers em seu ambiente, uma loja VTEX  se torna um marketplace VTEX. Um marketplace é um tipo de comércio colaborativo, modelo que oferece vantagens e benefícios para as partes envolvidas. Mais informações sobre parceiros e oportunidades de crescimento no ecossistema VTEX em [Estratégias de marketplace na VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex). 
 
 Para atuar como marketplace, é necessário configurar os seguintes passos na plataforma VTEX:
 
@@ -28,11 +28,11 @@ Para atuar como marketplace, é necessário configurar os seguintes passos na pl
 
 ## Definir política comercial
 
-A [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) é o que determina o sortimento de produtos, os preços, os pagamentos, as promoções, a segmentação de clientes e a estratégia de envio da sua loja VTEX em um canal de venda. É necessário [criar uma nova política comercial](/pt/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) quando uma dessas configurações for diferente para os sellers que atuam na sua vitrine. 
+A [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) é o que determina o sortimento de produtos, os preços, os pagamentos, as promoções, a segmentação de clientes e a estratégia de envio da sua loja VTEX em um canal de venda. É necessário [criar uma nova política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) quando uma dessas configurações for diferente para os sellers que atuam na sua vitrine. 
 
 Se você deseja que as mesmas configurações sejam aplicadas em seus canais de venda, não é necessário criar uma política comercial nova, pois uma mesma política comercial pode ser usada para diferentes canais de venda.
 
-Se deseja criar mais políticas comerciais, é possível [contratar políticas comerciais adicionais](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X). Não há cobrança de taxas para a contratação de políticas comerciais adicionais para integrar lojas VTEX com conectores nativos, conectores certificados ou outras lojas VTEX.
+Se deseja criar mais políticas comerciais, é possível [contratar políticas comerciais adicionais](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional). Não há cobrança de taxas para a contratação de políticas comerciais adicionais para integrar lojas VTEX com conectores nativos, conectores certificados ou outras lojas VTEX.
 
 ## Integrar seller
 
@@ -45,11 +45,11 @@ Para adicionar sellers ao seu marketplace pelo Admin VTEX, siga as instruções 
 
 ### Seller Portal
 
-O [Seller Portal](/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) é uma edição da plataforma VTEX que permite que sellers se conectem e vendam seus produtos em marketplaces. Marketplaces hospedados na VTEX podem convidar sellers que já têm uma conta VTEX para se conectarem por meio do Seller Portal. Também é possível convidar sellers hospedados em outras plataformas ou aqueles que ainda não estão hospedados em nenhuma plataforma para criar uma conta no Seller Portal de forma rápida e sem atritos.
+O [Seller Portal](/pt/docs/tutorials/seller-portal-primeiros-passos) é uma edição da plataforma VTEX que permite que sellers se conectem e vendam seus produtos em marketplaces. Marketplaces hospedados na VTEX podem convidar sellers que já têm uma conta VTEX para se conectarem por meio do Seller Portal. Também é possível convidar sellers hospedados em outras plataformas ou aqueles que ainda não estão hospedados em nenhuma plataforma para criar uma conta no Seller Portal de forma rápida e sem atritos.
 
 > ℹ️ Para ativar o Seller Portal para seus sellers, é necessário que o marketplace solicite essa funcionalidade entrando em contato com o CSM da sua conta na VTEX.
 
-Uma vez contratado o uso do Seller Portal, para adicionar sellers a uma conta de Seller Portal, siga as instruções em [Convite de Sellers](/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A).
+Uma vez contratado o uso do Seller Portal, para adicionar sellers a uma conta de Seller Portal, siga as instruções em [Convite de Sellers](/pt/docs/tutorials/marketplace-convite-de-sellers).
 
 ## Mapear arquitetura do Catálogo
 
@@ -64,7 +64,7 @@ Para realizar esta etapa, siga as instruções em [Mapeamento de categorias, mar
 
 ## Configurar seleção de sellers no storefront e checkout
 
-Sellers diferentes podem ser exibidos durante a experiência de compra no seu marketplace, dependendo da configuração de algumas funcionalidades. Os sellers apresentados no carrinho e no storefront variam de acordo com a [visibilidade](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label) definida para cada um, e a [localização](/pt/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc) do consumidor. Já o [Algoritmo de seleção de sellers](/pt/tutorial/white-label-sellers-selection-algorithm--3MemNQ4pKkWCpMdzI27AHa) define quais sellers são exibidos no checkout como opções de fulfillment.
+Sellers diferentes podem ser exibidos durante a experiência de compra no seu marketplace, dependendo da configuração de algumas funcionalidades. Os sellers apresentados no carrinho e no storefront variam de acordo com a [visibilidade](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label) definida para cada um, e a [localização](/pt/docs/tutorials/configurar-preco-e-disponibilidade-de-skus-por-region) do consumidor. Já o [Algoritmo de seleção de sellers](/pt/docs/tutorials/selecao-de-sellers-white-label) define quais sellers são exibidos no checkout como opções de fulfillment.
 
 ### Visibilidade
 
@@ -73,15 +73,15 @@ Sellers diferentes podem ser exibidos durante a experiência de compra no seu ma
 - **Seller identificável:** o seller é visível no *storefront* do seu marketplace e escolhido pelo consumidor durante a experiência de compra no buy box.  
 - **Seller não identificável (white label):** [sellers white label](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label) são contas franquia na VTEX, ocultos na experiência de compra e selecionados automaticamente pelo sistema do checkout para o fulfillment.  
 
-Para adicionar um seller não identificável (white label), é necessário ter esse modelo previsto no contrato com a VTEX. solicite a adição de uma conta franquia seguindo as instruções em [Solicitar criação de conta franquia](/pt/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl#solicitar-criacao-de-conta-franquia). Toda conta franquia é criada como seller white label e não é possível mudar o tipo de seller após a sua criação. Saiba mais em [Adicionar sellers](/pt/tutorial/adding-a-seller--tutorials_392). 
+Para adicionar um seller não identificável (white label), é necessário ter esse modelo previsto no contrato com a VTEX. solicite a adição de uma conta franquia seguindo as instruções em [Solicitar criação de conta franquia](/pt/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl#solicitar-criacao-de-conta-franquia). Toda conta franquia é criada como seller white label e não é possível mudar o tipo de seller após a sua criação. Saiba mais em [Adicionar sellers](/pt/docs/tutorials/adicionar-seller). 
 
 ### Localização
 
 A localização em que o consumidor se encontra quando acessa o seu marketplace afeta a sua experiência de compra. O sortimento de preços e produtos que aparecem no _storefront_ (frente da loja) depende dos sellers disponíveis para essa região. 
 
-Um marketplace pode obter a informação da localização do usuário na vitrine e durante o checkout capturando coordenadas ou recebendo o CEP informado pelo próprio cliente, por exemplo. Para isso, é necessário utilizar a funcionalidade _Region _do [VTEX Session](/pt/tutorial/vtex-session-visao-geral-do-sistema-de-sessoes--6C4Edou6bYqqEAOCAg2MQQ), o sistema de gerenciamento de sessões do seu ecommerce. A funcionalidade _Region_ permite que uma loja exiba preços e disponibilidades diferentes de acordo com as regiões atendidas pelos seus. Para configurar sellers por localização no _Region_, siga as instruções em [Preço e disponibilidade de SKUs por Region](/pt/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc).
+Um marketplace pode obter a informação da localização do usuário na vitrine e durante o checkout capturando coordenadas ou recebendo o CEP informado pelo próprio cliente, por exemplo. Para isso, é necessário utilizar a funcionalidade _Region _do [VTEX Session](/pt/tutorial/vtex-session-visao-geral-do-sistema-de-sessoes--6C4Edou6bYqqEAOCAg2MQQ), o sistema de gerenciamento de sessões do seu ecommerce. A funcionalidade _Region_ permite que uma loja exiba preços e disponibilidades diferentes de acordo com as regiões atendidas pelos seus. Para configurar sellers por localização no _Region_, siga as instruções em [Preço e disponibilidade de SKUs por Region](/pt/docs/tutorials/configurar-preco-e-disponibilidade-de-skus-por-region).
 
-Quando o VTEX Session não tem acesso à localização do consumidor, ainda é preciso apontar um sortimento de produtos de sellers na experiência de compra. Nesse cenário, o algoritmo de seleção de sellers indica [sellers abrangentes](/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI), que são capazes de entregar pedidos em todas as regiões atendidas pelo seu marketplace.
+Quando o VTEX Session não tem acesso à localização do consumidor, ainda é preciso apontar um sortimento de produtos de sellers na experiência de compra. Nesse cenário, o algoritmo de seleção de sellers indica [sellers abrangentes](/pt/docs/tutorials/seller-abrangente), que são capazes de entregar pedidos em todas as regiões atendidas pelo seu marketplace.
 
 > ℹ️ A funcionalidade Region está adaptada apenas para lojas que utilizam o VTEX IO, e não é válida para o CMS Portal (Legado).
 
@@ -120,17 +120,17 @@ Para lojas que ainda utilizam o CMS Portal (Legado), configure os seguintes [con
 
 Para lojas que utilizam o [VTEX IO](https://vtex.com/us-en/store-framework/), confira o app [Seller Selector](https://github.com/vtex-apps/seller-selector), usado para indicar o número de sellers que seu marketplace tem para cada produto. Dessa forma, compradores podem comparar os preços de cada seller e adicionar o produto desejado ao seu carrinho.
 
-Para lojas que utilizam o [VTEX IO](https://vtex.com/us-en/store-framework/), é possível criar um [anexo](/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) para habilitar a funcionalidade [Assembly Options](/pt/tutorial/assembly-options-en--5x5FhNr4f5RUGDEGWzV1nH). Esta feature é adequada para sellers que gerenciam cenários complexos, como a customização de produtos, em que há diferentes combinações de produtos, quantidade, itens adicionais, custos e estoque. Se a instalação da Assembly Option for feita na conta do seller, sua exibição se dá no checkout. Para aparecer na página do produto, é necessário adicionar a Assembly Option na conta do marketplace.
+Para lojas que utilizam o [VTEX IO](https://vtex.com/us-en/store-framework/), é possível criar um [anexo](/pt/docs/tutorials/o-que-e-um-anexo) para habilitar a funcionalidade [Assembly Options](/pt/docs/tutorials/assembly-options). Esta feature é adequada para sellers que gerenciam cenários complexos, como a customização de produtos, em que há diferentes combinações de produtos, quantidade, itens adicionais, custos e estoque. Se a instalação da Assembly Option for feita na conta do seller, sua exibição se dá no checkout. Para aparecer na página do produto, é necessário adicionar a Assembly Option na conta do marketplace.
 
 ## Configurar pagamentos
 
-Existem diferentes cenários relacionados a pagamentos em marketplaces VTEX, com suas próprias configurações. Saiba mais sobre as opções para Split de pagamentos e as configurações necessárias para que o seller ou o marketplace processem pagamentos em [Pagamentos em marketplace VTEX](/pt/tutorial/pagamentos-em-marketplaces-vtex--2kYOfWCZYweJkYl18bw9yD). 
+Existem diferentes cenários relacionados a pagamentos em marketplaces VTEX, com suas próprias configurações. Saiba mais sobre as opções para Split de pagamentos e as configurações necessárias para que o seller ou o marketplace processem pagamentos em [Pagamentos em marketplace VTEX](/pt/docs/tutorials/pagamentos-em-marketplaces-vtex). 
 
 _____________
 
-Agora que você já configurou a plataforma VTEX para se tornar um marketplace, é preciso realizar as [Ações para a operação de marketplaces VTEX](/pt/tutorial/acoes-para-a-operacao-de-marketplaces-vtex--2SdIflvwywiOqCpczKCfev).
+Agora que você já configurou a plataforma VTEX para se tornar um marketplace, é preciso realizar as [Ações para a operação de marketplaces VTEX](/pt/docs/tutorials/acoes-para-a-operacao-de-marketplaces-vtex).
 
 ## Saiba mais
 
 - [Aprovar anúncios recebidos](/pt/tutorial/sugerindo-e-aprovando-skus/)
-- [Informações compartilhadas entre marketplace e seller na VTEX](/pt/tutorial/informacoes-compartilhadas-entre-marketplace-e-seller-na-vtex--3o7WGiBtfnKKZ3Ddug26k3)
+- [Informações compartilhadas entre marketplace e seller na VTEX](/pt/docs/tutorials/informacoes-compartilhadas-entre-marketplace-e-seller-na-vtex)

@@ -41,5 +41,5 @@ Este erro indica a perda da autorização da sua integração com o Carrefour, o
 ### Saiba mais
 
 - [Integração com o Carrefour](/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2)
-- [Controle de estoque mínimo para integrações](/pt/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D)
-- [Configurar o Alerta de Estoque Crítico](/pt/tutorial/configurar-o-alerta-de-estoque-critico--6FD0GHeQPCsKIMgkQ88SGu)
+- [Controle de estoque mínimo para integrações](/pt/docs/tutorials/controle-de-estoque-minimo-para-integracoes)
+- [Configurar o Alerta de Estoque Crítico](/pt/docs/tutorials/configurar-o-alerta-de-estoque-critico)

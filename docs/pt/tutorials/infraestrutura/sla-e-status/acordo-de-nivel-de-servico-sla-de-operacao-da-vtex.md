@@ -23,5 +23,5 @@ Confira o nosso SLA em [VTEX Commerce - SLA Agreement](https://vtex.com/br-pt/pr
 
 ## Saiba mais
 
-- [Como é apurado o SLA de operação da plataforma?](/pt/tutorial/como-e-apurado-o-sla-de-operacao-da-plataforma--frequentlyAskedQuestions_662)
+- [Como é apurado o SLA de operação da plataforma?](/pt/docs/tutorials/como-e-apurado-o-sla-de-operacao-da-plataforma)
 

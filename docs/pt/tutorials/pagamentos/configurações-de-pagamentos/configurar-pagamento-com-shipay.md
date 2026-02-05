@@ -33,7 +33,7 @@ Para configurar Shipay, siga os passos abaixo:
 3. Em __Pagamento Instantâneo__, selecione a opção __Pix__.
 4. Em __Processar com a afiliação__, selecione o conector __Shipay__.
 5. Ative a condição no campo __Status__.
-6. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condiciones-especiales--tutorials_456).
+6. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais).
 7. Clique em `Salvar`.
 
 Depois de seguir os passos indicados, o conector Shipay pode demorar até 10 minutos para aparecer no Checkout da sua loja como uma opção de pagamento. 

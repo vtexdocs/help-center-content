@@ -36,4 +36,4 @@ Com a interface de **Projetos**, você poderá:
 - Atender de forma eficaz públicos ou objetivos específicos por meio de diferentes projetos.
 
 ## O que precisa ser feito?
-A funcionalidade já está disponível em todas as contas que tenham o Headless CMS instalado. Acesse o guia [Gerenciando projetos](/pt/tutorial/gerenciando-projetos--42IpDFqTVTESH8DCypJMPM) para saber mais sobre como usá-lo.
+A funcionalidade já está disponível em todas as contas que tenham o Headless CMS instalado. Acesse o guia [Gerenciando projetos](/pt/docs/tutorials/gerenciando-projetos) para saber mais sobre como usá-lo.

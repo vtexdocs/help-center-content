@@ -15,7 +15,7 @@ trackSlugEN: catalogo-101
 order: 13
 ---
 
-> ⚠️ Antes de criar uma coleção, é preciso ter configurado a autorização. Para isso, é preciso ter um perfil de acesso com o recurso **Write Collections**, na seção **Collections** dos perfis do Catalog. Veja aqui [como configurar um recurso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+> ⚠️ Antes de criar uma coleção, é preciso ter configurado a autorização. Para isso, é preciso ter um perfil de acesso com o recurso **Write Collections**, na seção **Collections** dos perfis do Catalog. Veja aqui [como configurar um recurso](/pt/docs/tutorials/perfis-de-acesso).
 
 Siga o passo a passo abaixo para cadastrar uma nova coleção:
 

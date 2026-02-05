@@ -32,4 +32,4 @@ A nova lista de preços é composta de: uma lista com os produtos e seus preços
 - [Cadastrar Tabelas de Preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/2WQ3pVYfQpXkJnHr7VTFBv)
 - [Regras de preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/2rBirbpB7wLnei4dQ9KGMW)
 - [Arredondamento de Preços](/pt/tutorial/preco-psicologico-v2/)
-- [Configurações de preços](/pt/tutorial/configuracao-de-precos--3hbBtCzNUBrj8GaWgCtSWN)
+- [Configurações de preços](/pt/docs/tutorials/configuracoes-de-precos)

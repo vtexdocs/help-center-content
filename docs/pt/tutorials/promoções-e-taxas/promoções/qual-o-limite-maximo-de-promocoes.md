@@ -17,7 +17,7 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 
 Existe um limite na quantidade de promoções, taxas e cupons ativos:
 
-- [Promoções](/pt/tutorial/como-criar-promocoes--tutorials_320): 100
+- [Promoções](/pt/docs/tutorials/criar-promocoes): 100
 - [Taxas](/pt/tutorial/como-criar-taxaimposto/): 100
 - [Cupons](/pt/tutorial/como-criar-cupom/): 50.000
 

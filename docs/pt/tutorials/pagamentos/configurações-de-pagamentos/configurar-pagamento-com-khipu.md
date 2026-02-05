@@ -35,7 +35,7 @@ Para configurar Khipu, siga os passos abaixo:
 
 ## Configurar Promissória
 
-Caso ainda não tenha configurado a promissória como método de pagamento em outros conectores de sua loja, acesse [Configurar pagamentos com Promissória](/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ).
+Caso ainda não tenha configurado a promissória como método de pagamento em outros conectores de sua loja, acesse [Configurar pagamentos com Promissória](/pt/docs/tutorials/configurar-pagamentos-com-promissoria).
 
 ## Configurar condição de pagamento
 

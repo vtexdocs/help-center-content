@@ -35,4 +35,4 @@ Uma aplicação que utiliza um appKey deveria receber acesso apenas às funciona
 
 Com a mudança, o perfil de acesso deverá ser determinado manualmente conforme a necessidade e as permissões são delimitadas de acordo com o perfil selecionado.
 
-Mais informações podem ser encontradas no artigo [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+Mais informações podem ser encontradas no artigo [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso).

@@ -54,7 +54,7 @@ Confira exemplos de host abaixo e observe quais podem ser utilizados como host p
 | Exemplo de host | Pode ser utilizado como host (✔️) ou não (❌) | Explicação |
 |---|---|---|
 | `www.minhaloja.com` | ✔️ | Contém o subdomínio `www`. |
-| `minhaloja.com` | ❌ | Não contém subdomínio. Para configurar o acesso por esse endereço, é necessário configurar um host com subdomínio como `www.minhaloja.com` e, em seguida, criar um redirecionamento. Leia [Melhores práticas para acessar a loja sem www](/pt/tutorial/configuring-access-without-www--tutorials_4278) para mais detalhes. |
+| `minhaloja.com` | ❌ | Não contém subdomínio. Para configurar o acesso por esse endereço, é necessário configurar um host com subdomínio como `www.minhaloja.com` e, em seguida, criar um redirecionamento. Leia [Melhores práticas para acessar a loja sem www](/pt/docs/tutorials/melhores-praticas-para-acessar-a-loja-sem-www) para mais detalhes. |
 | `loja.minhamarca.com` | ✔️ | Contém o subdomínio `loja`. |
 | `www.loja.minhamarca.com` | ✔️ | Contém dois subdomínios: `www` e `loja`. |
 
@@ -62,8 +62,8 @@ Confira exemplos de host abaixo e observe quais podem ser utilizados como host p
 
 Para garantir que sua loja seja acessível por meio de diferentes URLs, tais como `www.minhaloja.com` e `minhaloja.com`, deve-se [configurar um único host principal](#cadastrar-um-novo-host) e redirecionar os endereços adicionais para o endereço principal. Saiba mais sobre redirecionamentos:
 
-* [Redirecionamento de outros endereços](/pt/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ)
-* [Melhores práticas para acessar a loja sem www](/pt/tutorial/configurando-acesso-sem-www--tutorials_4278)
+* [Redirecionamento de outros endereços](/pt/docs/tutorials/redirecionamento-de-outros-enderecos)
+* [Melhores práticas para acessar a loja sem www](/pt/docs/tutorials/melhores-praticas-para-acessar-a-loja-sem-www)
 
 Note que é recomendável implementar um único host na sua loja.
 

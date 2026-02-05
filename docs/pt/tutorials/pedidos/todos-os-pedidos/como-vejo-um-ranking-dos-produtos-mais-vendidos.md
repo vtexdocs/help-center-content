@@ -22,8 +22,8 @@ Embora o objetivo principal do módulo **Pedidos** seja gerenciar o fluxo de ped
 Para obter uma lista de SKUs vendidos em determinado período por ordem de mais vendidos, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Pedidos > Todos os pedidos**, ou digite **Todos os pedidos** na barra de busca no topo da página.
-2. Utilizando os [filtros](/pt/tutorial/filtrar-todos-pedidos--tutorials_192), escolha o período de pedidos que deseja considerar.
-3. Clique no botão `Exportar` para realizar a [exportação de pedidos](/pt/tutorial/exportacao-de-pedidos-gerenciamento-de-pedidos--tutorials_6417).
+2. Utilizando os [filtros](/pt/docs/tutorials/filtrar-todos-pedidos), escolha o período de pedidos que deseja considerar.
+3. Clique no botão `Exportar` para realizar a [exportação de pedidos](/pt/docs/tutorials/exportacao-de-pedidos-no-modulo-pedidos).
 4. Abra o seu email e faça o download do link em até 72h, que é o prazo de validade do link. 
 
 Cada linha do arquivo corresponde a um SKU comprado em determinado pedido. Na coluna `Quantity_SKU`, você tem a quantidade do SKU para aquele pedido. E na coluna `ID_SKU`, você tem o ID do SKU.

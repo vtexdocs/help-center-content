@@ -17,7 +17,7 @@ subcategoryId: 3xpuy7xGlzKKg6vxqiExZ2
 
 > ⚠️ Este aplicativo está disponível apenas para lojas que utilizam [VTEX IO](https://vtex.com/br-pt/store-framework/). Antes de prosseguir, você deve [instalar e configurar o Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) na sua loja.
 
-Na VTEX, é possível disponibilizar opções de customização de produtos utilizando [Assembly Options](/pt/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH). Essa solução consiste em criar [anexos](/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) para cenários complexos, em que é necessário gerenciar diferentes combinações de produtos, quantidades, itens adicionais e custos.
+Na VTEX, é possível disponibilizar opções de customização de produtos utilizando [Assembly Options](/pt/docs/tutorials/assembly-options). Essa solução consiste em criar [anexos](/pt/docs/tutorials/o-que-e-um-anexo) para cenários complexos, em que é necessário gerenciar diferentes combinações de produtos, quantidades, itens adicionais e custos.
 
 O [app Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p) disponibiliza uma interface para configurar e gerenciar as opções de customização em lojas que utilizam [VTEX IO](https://vtex.com/br-pt/store-framework/), como alternativa à implementação de Assembly Options pelos anexos do Catálogo.
 
@@ -25,7 +25,7 @@ O [app Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p) di
 
 Você pode instalar o aplicativo gratuitamente pela [VTEX App Store](https://apps.vtex.com/vtex-admin-assembly-options/p) ou pelo [VTEX IO CLI](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference), seguindo os passos do [guia para desenvolvedores Assembly Options](https://developers.vtex.com/vtex-developer-docs/docs/assembly-options-app).
 
-> ⚠️ Quando o aplicativo Assembly Options é instalado em uma [conta de seller](/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w), as opções de customização do produto são exibidas para os clientes da sua loja no checkout. Para que as opções sejam exibidas na página do produto, você precisa instalar o aplicativo em uma [conta de marketplace](/pt/tutorial/o-que-e-um-marketplace--680lLJTnmEAmekcC0MIea8).
+> ⚠️ Quando o aplicativo Assembly Options é instalado em uma [conta de seller](/pt/docs/tutorials/o-que-e-um-seller), as opções de customização do produto são exibidas para os clientes da sua loja no checkout. Para que as opções sejam exibidas na página do produto, você precisa instalar o aplicativo em uma [conta de marketplace](/pt/docs/tutorials/o-que-e-um-marketplace).
 
 Após a instalação, a página **Catálogo > Assembly Options** se torna disponível no Admin VTEX. Veja a seguir as funcionalidades disponíveis uma vez que o aplicativo é instalado.
 
@@ -37,7 +37,7 @@ No Admin VTEX, em **Catálogo > Assembly options**, você tem acesso a uma lista
 
 As informações exibidas na lista são:
 
-* **ID:** exibe o ID da Assembly Option, que equivale ao ID do [anexo](/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) no **Catálogo**.
+* **ID:** exibe o ID da Assembly Option, que equivale ao ID do [anexo](/pt/docs/tutorials/o-que-e-um-anexo) no **Catálogo**.
 * **Nome:** indica o nome do anexo de tipo Assembly Option.
 * **Obrigatório:** quando marcada com um <i class="far fa-check-circle"></i>, esta coluna indica que o anexo de tipo Assembly Option é obrigatório. Se o campo estiver vazio, não é obrigatório.
 * **Status:** indica o status da Assembly Option, que pode ser:
@@ -83,6 +83,6 @@ Ao salvar a Assembly Option, um anexo é criado automaticamente em **Catálogo >
 
 ## Saiba mais
 
-* [Assembly Options](/pt/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH)
-* [O que é um Anexo?](/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm)
+* [Assembly Options](/pt/docs/tutorials/assembly-options)
+* [O que é um Anexo?](/pt/docs/tutorials/o-que-e-um-anexo)
 

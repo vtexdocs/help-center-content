@@ -25,6 +25,6 @@ Entendemos que nossos clientes também precisam atender aos requisitos de audito
 
 Em vez de analisar as solicitações de testes de penetração individuais dos clientes, agora compartilhamos o **Atestado de Teste de Penetração** dos testes de penetração mais recentes realizados em nossa plataforma por uma consultoria de segurança terceirizada independente, respeitável e tecnicamente competente.
 
-Esse documento é fornecido mediante solicitação, sem custo, [abrindo um ticket para o suporte da VTEX](/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
+Esse documento é fornecido mediante solicitação, sem custo, [abrindo um ticket para o suporte da VTEX](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex).
 
 > ⚠️ Nosso [Master Services Agreement (MSA)](https://vtex.com/br-pt/privacy-and-agreements/agreements/) proíbe expressamente a realização de testes de penetração na plataforma VTEX sem nosso consentimento prévio por escrito. Fazer isso sem nossa autorização constituiria uma violação de contrato por parte do cliente.

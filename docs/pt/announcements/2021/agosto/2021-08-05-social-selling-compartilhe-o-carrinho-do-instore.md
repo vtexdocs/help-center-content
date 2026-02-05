@@ -24,7 +24,7 @@ Utilizando o inStore Social Selling, você pode criar ações de ativação de u
 
 ## O que mudou?
 
-Anteriormente, o compartilhamento de carrinho não era possível no inStore, [apenas no ecommerce](/pt/tutorial/how-to-use-the-shareable-cart-app--3ePPpkmeZ96GXbeIoGZbTN).
+Anteriormente, o compartilhamento de carrinho não era possível no inStore, [apenas no ecommerce](/pt/docs/tutorials/como-usar-o-app-carrinho-compartilhavel).
 
 Com o inStore Social Selling, vendedores da sua loja física podem selecionar produtos e gerar um link para compartilhar a __Sugestão de carrinho__ com um ou mais clientes pelo WhatsApp, conforme demonstrado a seguir. Também existe a possibilidade de copiar o link e compartilhar em outras redes sociais.
 

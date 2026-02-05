@@ -17,7 +17,7 @@ subcategoryId: 3PQwnyOcNyYgawy06oe6gE
 
 A reserva é uma solução VTEX que impede que um mesmo item seja vendido mais de uma vez. Após a finalização de uma compra, o item comprado é subtraído do inventário disponível e, internamente, passa para o status **Reservado**.
 
-> ℹ️ Na VTEX, Estoque é o local físico onde os itens são armazenados. Para poder identificar de qual estoque os itens serão retirados pelas transportadoras, é preciso cadastrar os estoques na plataforma. Consulte o artigo [Estoque](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) para saber mais.  O inventário é a relação dos itens que sua loja possui em estoque. Você pode adicionar e acompanhar os itens disponíveis na sua loja pelo Gerenciamento de Inventário. Consulte o artigo [Gerenciar inventário](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) para saber mais.
+> ℹ️ Na VTEX, Estoque é o local físico onde os itens são armazenados. Para poder identificar de qual estoque os itens serão retirados pelas transportadoras, é preciso cadastrar os estoques na plataforma. Consulte o artigo [Estoque](/pt/docs/tutorials/estoque) para saber mais.  O inventário é a relação dos itens que sua loja possui em estoque. Você pode adicionar e acompanhar os itens disponíveis na sua loja pelo Gerenciamento de Inventário. Consulte o artigo [Gerenciar inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) para saber mais.
 
 Após ser vendido, um item passa pelos seguintes status no inventário da sua loja:
 
@@ -62,7 +62,7 @@ A plataforma VTEX não desconta automaticamente os itens do inventário. Os iten
 
 ## Baixa no estoque
 
-A baixa no estoque é a atualização da quantidade de itens disponíveis para venda. Essa ação deve ser realizada exclusivamente pelo lojista ou pelo ERP, por meio do [gerenciamento de inventário](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) ou da [API de atualização do inventário](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
+A baixa no estoque é a atualização da quantidade de itens disponíveis para venda. Essa ação deve ser realizada exclusivamente pelo lojista ou pelo ERP, por meio do [gerenciamento de inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) ou da [API de atualização do inventário](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
 A VTEX não atualiza a quantidade de itens que um SKU possui do histórico de movimentações.
 
@@ -87,7 +87,7 @@ Quando o lojista ou o ERP atualizarem a quantidade desse item no inventário  re
 3. Na coluna `Reservados`, clique no número que aparece em azul. Caso não haja número em azul nesta coluna, isso significa que não há unidades reservadas para este item.
 4. Na nova janela que será aberta, visualize a reserva dos itens de mesmo SKU. Na coluna `Status`, você encontra o status da reserva.
 
-Como descrito acima, a baixa no estoque é uma consequência da atualização do inventário pelo lojista. Portanto, não é possível visualizar esse status na plataforma. É possível apenas conferir a quantidade de itens disponíveis para venda e a movimentação dos itens pelo [Gerenciamento de inventário](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).
+Como descrito acima, a baixa no estoque é uma consequência da atualização do inventário pelo lojista. Portanto, não é possível visualizar esse status na plataforma. É possível apenas conferir a quantidade de itens disponíveis para venda e a movimentação dos itens pelo [Gerenciamento de inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque).
 
 > ℹ️ É importante lembrar que todos os status aqui descritos são internos e exclusivos da VTEX para o controle de venda de itens. O status da reserva é consequência do status do pedido. Algumas mudanças dependem de atitudes do comprador, e outras, de atualização manual ou do ERP.
 

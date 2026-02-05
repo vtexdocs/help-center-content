@@ -17,9 +17,9 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 
 > ℹ️ O **Lançamentos** está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Esta funcionalidade é válida somente para lojas que usam [FastStore](https://www.faststore.dev/).
 
-O módulo **Lançamentos** permite que você [gerencie seus lançamentos](/pt/tutorial/planner-acoes-em-lancamentos-beta--1zsomdifPEQkdV6RW93JyW) de forma a coordenar a criação, planejamento e publicação das modificações na sua loja.
+O módulo **Lançamentos** permite que você [gerencie seus lançamentos](/pt/docs/tutorials/planner-acoes-em-lancamentos-beta) de forma a coordenar a criação, planejamento e publicação das modificações na sua loja.
 
-No Admin VTEX, no menu de navegação **Lançamentos** existem as páginas **Lançamentos** e [Calendário](/pt/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xHfIx9C). Em **Lançamentos**, você pode criar um novo lançamento e realizar uma série de outras [ações](/pt/tutorial/planner-acoes-em-lancamentos-beta--1zsomdifPEQkdV6RW93JyW).
+No Admin VTEX, no menu de navegação **Lançamentos** existem as páginas **Lançamentos** e [Calendário](/pt/docs/tutorials/planner-pagina-calendario-beta). Em **Lançamentos**, você pode criar um novo lançamento e realizar uma série de outras [ações](/pt/docs/tutorials/planner-acoes-em-lancamentos-beta).
 
 Na página **Lançamentos**, todos os lançamentos que existem são apresentados em uma lista, sendo que a ordenação mostra primeiro os lançamentos no [status](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-lancamentos) `Não agendado`, seguidos dos que estão agendados. 
 
@@ -49,14 +49,14 @@ Na página **Lançamentos**, você pode:
 
 **III - Filtrar lançamentos:** para filtrar por [status de lançamentos](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-lancamentos), utilize o botão `Status` <i class="fas fa-angle-down"></i> e selecione a opção desejada. Para filtrar por data de agendamento ou publicação, clique em em `Data` <i class="fas fa-angle-down"></i> e selecione a data desejada.
 
-**IV - Criar um novo lançamento:** para criar um novo lançamento, clique no botão `Criar lançamento` e siga o passo a passo descrito em [Lançamentos: ações em lançamentos](/pt/tutorial/planner-acoes-em-lancamentos-beta--1zsomdifPEQkdV6RW93JyW).
+**IV - Criar um novo lançamento:** para criar um novo lançamento, clique no botão `Criar lançamento` e siga o passo a passo descrito em [Lançamentos: ações em lançamentos](/pt/docs/tutorials/planner-acoes-em-lancamentos-beta).
 
 **VI - Navegar entre páginas:** para ver mais resultados de lançamentos, navegue entre as páginas de resultados utilizando as setas laterais <i class="fas fa-angle-left"></i> <i class="fas fa-angle-right"></i>.
 
-**VII - Realizar ações no lançamento:** dependendo do [status de um lançamento](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-lancamentos), o menu três pontos <i class="fas fa-ellipsis-v"></i> vai apresentar diferentes opções de ações. Para conferir as ações possíveis, confira [Lançamentos: ações em lançamentos](/pt/tutorial/planner-acoes-em-lancamentos-beta--1zsomdifPEQkdV6RW93JyW).
+**VII - Realizar ações no lançamento:** dependendo do [status de um lançamento](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-lancamentos), o menu três pontos <i class="fas fa-ellipsis-v"></i> vai apresentar diferentes opções de ações. Para conferir as ações possíveis, confira [Lançamentos: ações em lançamentos](/pt/docs/tutorials/planner-acoes-em-lancamentos-beta).
 
 ## Saiba mais
 
-* [Lançamentos: conceito de lançamento](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ)
-* [Lançamentos: ações em lançamentos](/pt/tutorial/planner-acoes-em-lancamentos-beta--1zsomdifPEQkdV6RW93JyW)
-* [Lançamentos: página Calendário](/pt/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xHfIx9C)
+* [Lançamentos: conceito de lançamento](/pt/docs/tutorials/planner-conceito-de-lancamento-beta)
+* [Lançamentos: ações em lançamentos](/pt/docs/tutorials/planner-acoes-em-lancamentos-beta)
+* [Lançamentos: página Calendário](/pt/docs/tutorials/planner-pagina-calendario-beta)

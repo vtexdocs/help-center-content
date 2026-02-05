@@ -26,9 +26,9 @@ Em **Pedidos**, você pode visualizar todas as informações relativas ao andame
 
 A seção inclui as seguintes páginas:
 - [Todos os pedidos](/pt/v4/docs/todos-os-pedidos--6JHeydzIft46VY7JTEpbJT)    
-- [Detalhes do pedido](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl)  
-- [Transações](/pt/tutorial/how-to-view-transactions-on-pci-gateway--tutorials_461) 
-- [Conciliação Bancária](/pt/tutorial/bank-reconciliations--tutorials_453) 
+- [Detalhes do pedido](/pt/docs/tutorials/pagina-de-detalhes-do-pedido)  
+- [Transações](/pt/docs/tutorials/transacoes-pci-gateway) 
+- [Conciliação Bancária](/pt/docs/tutorials/conciliacoes-bancarias) 
 
 Além de pesquisar pedidos em **Pedidos > Todos os pedidos**, você pode buscar pedidos a partir de qualquer página no Admin VTEX usando a barra de busca global no topo da página. Por padrão, a busca está configurada para `Páginas`. Para buscar um pedido, clique sobre a barra, selecione a opção `Pedidos` e utilize algum dos seguintes critérios:
 
@@ -37,7 +37,7 @@ Além de pesquisar pedidos em **Pedidos > Todos os pedidos**, você pode buscar 
 - Email do cliente
 - Documento do cliente 
 
-> ℹ️ É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo [Minha Conta](/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+> ℹ️ É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo [Minha Conta](/pt/docs/tutorials/como-funciona-a-minha-conta).
 
 ## Assinaturas
 
@@ -45,6 +45,6 @@ Na plataforma VTEX, você pode criar [assinaturas](/pt/tutorial/how-subscription
 
 Para gerenciar essa funcionalidade na sua loja, esta seção inclui as seguintes páginas:
 
-- [Dashboards](/pt/tutorial/how-to-manage-subscriptions--6Jk50FPbv6iuz1OsFypv8x)  
-- [Planos](/pt/tutorial/subscription-plans-beta--5kczKRqHEsrs1tYtRcY8wR)  
+- [Dashboards](/pt/docs/tutorials/como-gerenciar-assinaturas)  
+- [Planos](/pt/docs/tutorials/planos-de-assinatura)  
 

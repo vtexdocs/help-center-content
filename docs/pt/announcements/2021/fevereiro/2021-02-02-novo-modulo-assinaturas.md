@@ -62,7 +62,7 @@ Até então, para o sistema da VTEX, uma assinatura era composta por um SKU, atr
 ![img6 subscriptions PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/fevereiro/2021-02-02-novo-modulo-assinaturas_6.png)
 ![img7 subscriptions PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/fevereiro/2021-02-02-novo-modulo-assinaturas_7.png)
 
-A assinatura para nós agora consiste em uma lista de SKUs e uma determinada configuração de compra. Isso significa que nós retiramos o conceito de Grupos de Assinatura do nosso sistema. Saiba mais no artigo [Como funciona a assinatura](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453). O diagrama abaixo demonstra o novo conceito de assinatura:
+A assinatura para nós agora consiste em uma lista de SKUs e uma determinada configuração de compra. Isso significa que nós retiramos o conceito de Grupos de Assinatura do nosso sistema. Saiba mais no artigo [Como funciona a assinatura](/pt/docs/tutorials/como-funciona-a-assinatura). O diagrama abaixo demonstra o novo conceito de assinatura:
 
 #### Agora:
 ![img8 subscriptions PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/fevereiro/2021-02-02-novo-modulo-assinaturas_8.png)
@@ -75,4 +75,4 @@ O cálculo da próxima data do ciclo de assinatura mudou. Essa alteração permi
 Lembramos que se sua loja não utiliza as nossas APIs em integrações, não é preciso fazer nenhuma adaptação, a evolução será implementada automaticamente pelo próprio sistema da VTEX. 
 Para lojistas ou parceiros que consumiam a nossa API de Assinaturas, vale destacar que todas as rotas anteriores da API de Assinaturas serão substituídas pelas novas, para refletir a evolução do módulo. Todo o processo de migração será assistido pelo time VTEX, garantindo uma transição suave ao novo módulo. Confira nosso [guia de integração com o novo módulo de Assinaturas](https://developers.vtex.com/vtex-developer-docs/docs/subscriptions-v3-migration-guide). 
 
-> ℹ️ Solicite a nova interface de Assinaturas pelo [suporte](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM). É preciso que a loja esteja de acordo com a instalação do Search of Biggy ([Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG)) para a ativação da nova interface.
+> ℹ️ Solicite a nova interface de Assinaturas pelo [suporte](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex). É preciso que a loja esteja de acordo com a instalação do Search of Biggy ([Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG)) para a ativação da nova interface.

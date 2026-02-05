@@ -34,4 +34,4 @@ No nosso portal, você encontra agora a categoria de tutoriais **Weni by VTEX**,
 - [Weni Agentic AI](/pt/subcategory/weni-agentic-ai--7BtmQ6zk6O7VJ7QumXJEiM): aplicativo de criação e atribuição de agentes para comunicação com o cliente, na App Store da VTEX.
 
 ## O que precisa ser feito
-Para acessar as documentações da Weni, acesse [Weni by VTEX](/pt/tutorial/--531cHtUCUi3puRXNDmKziw) no Help Center VTEX ao invés do portal legado Weni docs.
+Para acessar as documentações da Weni, acesse [Weni by VTEX](/pt/docs/tutorials/admin-vtex-comece-aqui) no Help Center VTEX ao invés do portal legado Weni docs.

@@ -23,13 +23,13 @@ Confira abaixo as opções para Split de pagamentos e as configurações necess�
 
 ## Split de pagamentos
 
-Pedidos realizados em um marketplace podem conter itens de múltiplos sellers, que são pagos numa experiência unificada de checkout no _storefront_ (frente da loja) do marketplace. A VTEX oferece a solução [Split de pagamentos](/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) para que a divisão do valor de um pedido seja feita automaticamente, com base nas comissões configuradas ao [Adicionar seller](/pt/tutorial/adicionar-seller--tutorials_392).
+Pedidos realizados em um marketplace podem conter itens de múltiplos sellers, que são pagos numa experiência unificada de checkout no _storefront_ (frente da loja) do marketplace. A VTEX oferece a solução [Split de pagamentos](/pt/docs/tutorials/split-de-pagamento) para que a divisão do valor de um pedido seja feita automaticamente, com base nas comissões configuradas ao [Adicionar seller](/pt/docs/tutorials/adicionar-seller).
 
 Caso o seller seja o processador de pagamentos, ele deve operar sob as condições determinadas em nosso [Split de transação](/pt/tutorial/split-payment#split-de-transacao). Da mesma forma, se o marketplace VTEX processar pagamentos, deve seguir o fluxo de [Split de recebíveis](/pt/tutorial/split-payment--6k5JidhYRUxileNolY2VLx#split-de-recebiveis), ou realizar as suas transferências fora do ambiente da VTEX.
 
 > ℹ️ Clientes VTEX no Brasil podem utilizar tanto o split de transação quanto o split de recebíveis. Já clientes VTEX em outros países devem utilizar somente o split de transação. Note que alguns países impõem restrições sobre o repasse de valores entre sellers e marketplaces. Informe-se sobre as restrições com as autoridades financeiras do seu país antes de construir sua arquitetura de pagamentos.
 
-Para definir os valores para repasse externo ao ambiente da VTEX, utilize os [relatórios do OMS](/pt/tutorial/planilha-de-pedidos--31m1ewsmsEe0WS4So2aGMY) para calcular comissões. No Brasil, a movimentação ou repasse de valores em ambiente externo, sem a participação da plataforma VTEX, somente poderá ser realizada por instituições financeiras.
+Para definir os valores para repasse externo ao ambiente da VTEX, utilize os [relatórios do OMS](/pt/docs/tutorials/planilha-de-pedidos) para calcular comissões. No Brasil, a movimentação ou repasse de valores em ambiente externo, sem a participação da plataforma VTEX, somente poderá ser realizada por instituições financeiras.
 
 ## Configurações de pagamentos
 
@@ -39,7 +39,7 @@ Confira abaixo as configurações necessárias no seu Admin VTEX para criar comi
 
 ### Configurar comissões para seller
 
-Ao [Adicionar seller](/pt/tutorial/adicionar-seller--tutorials_392), o marketplace configura as comissões por produto, frete ou categoria para os pedidos daquele seller. Para configurar as comissões para seus sellers, no Admin VTEX:
+Ao [Adicionar seller](/pt/docs/tutorials/adicionar-seller), o marketplace configura as comissões por produto, frete ou categoria para os pedidos daquele seller. Para configurar as comissões para seus sellers, no Admin VTEX:
 
 1. No Admin VTEX, acesse __Marketplace > Gerenciamento__, ou digite __Gerenciamento__ na barra de busca no topo da página.
 2. Escolha um seller da lista e clique em `Alterar/Visualizar`. Se você utiliza outra versão da página Gerenciamento, basta clicar no nome do seller desejado.
@@ -52,21 +52,21 @@ Para que o sistema do marketplace processe pagamentos, é preciso acessar a seç
 
 - [Provedor de pagamentos](https://help.vtex.com/pt/docs/tracks/configurar-um-conector-de-pagamentos)
 - [Condições de pagamento](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3)
-- [Antifraude](/pt/tutorial/como-configurar-antifraude--tutorials_446)
+- [Antifraude](/pt/docs/tutorials/como-configurar-antifraude)
 
-Para finalizar a configuração que torna o marketplace o processador de pagamentos, ao [Configurar afiliado](/pt/tutorial/como-configurar-afiliado--tutorials_187), o seller precisa deixar a opção __Usar meu meio de pagamento__ desmarcada.
+Para finalizar a configuração que torna o marketplace o processador de pagamentos, ao [Configurar afiliado](/pt/docs/tutorials/como-configurar-afiliado), o seller precisa deixar a opção __Usar meu meio de pagamento__ desmarcada.
 
 ### Seller VTEX processando pagamentos
 
 Para que o sistema do seller processe pagamentos, o seller precisa acessar a seção de [Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) no ambiente VTEX e configurar as etapas descritas abaixo. Esta opção também vale para lojas físicas cadastradas como sellers white label.
 
-- [Política comercial para marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)
+- [Política comercial para marketplace](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace)
 - [Provedor de pagamentos](https://help.vtex.com/pt/docs/tracks/configurar-um-conector-de-pagamentos)
 - [Condições de pagamento](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3)
-- [Antifraude](/pt/tutorial/como-configurar-antifraude--tutorials_446)
+- [Antifraude](/pt/docs/tutorials/como-configurar-antifraude)
 
-Uma vez configurado o sistema de Pagamentos, ao [Configurar afiliado](/pt/tutorial/como-configurar-afiliado--tutorials_187) para o marketplace em questão, o seller precisa marcar a opção __Usar meu meio de pagamento__.
+Uma vez configurado o sistema de Pagamentos, ao [Configurar afiliado](/pt/docs/tutorials/como-configurar-afiliado) para o marketplace em questão, o seller precisa marcar a opção __Usar meu meio de pagamento__.
 
 ## Saiba mais
 
-- [Configurar marketplace VTEX](/pt/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb)
+- [Configurar marketplace VTEX](/pt/docs/tutorials/configurar-marketplace-vtex)

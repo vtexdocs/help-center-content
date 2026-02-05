@@ -23,18 +23,18 @@ Para identificar a natureza do problema, realize uma [simulação de envio](/pt/
 
 Os problemas mais comuns que ocasionam erros de SLA são:
 
-- **Falta de estoque**: indisponibilidade de um ou mais SKUs do pedido. Para mais informações, veja [Erros de falta de estoque na integração de pedidos de marketplace](/pt/tutorial/erros-de-falta-de-estoque-em-pedidos-de-integracao-com-marketplace--s1i5OCcPFslrMkZJLDnfP).
-- **Item não consta na coleção ou política comercial:** verifique se o SKU está marcado corretamente na coleção ou política comercial definida para o marketplace. Saiba mais em [Associação de SKU à Política Comercial](/pt/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb).
-- **CEP de entrega não atendido pela estratégia de envio:** a entrega do pedido para o endereço pretendido não está configurada na sua [política de envio](/pt/tutorial/politica-de-envio--tutorials_140).
-- **Doca não associada à política comercial:** é preciso que, ao [cadastrar a doca](/pt/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW), ela tenha sido vinculada à política comercial definida para o marketplace
+- **Falta de estoque**: indisponibilidade de um ou mais SKUs do pedido. Para mais informações, veja [Erros de falta de estoque na integração de pedidos de marketplace](/pt/docs/tutorials/erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace).
+- **Item não consta na coleção ou política comercial:** verifique se o SKU está marcado corretamente na coleção ou política comercial definida para o marketplace. Saiba mais em [Associação de SKU à Política Comercial](/pt/docs/tutorials/associacao-de-sku-a-politica-comercial).
+- **CEP de entrega não atendido pela estratégia de envio:** a entrega do pedido para o endereço pretendido não está configurada na sua [política de envio](/pt/docs/tutorials/politica-de-envio).
+- **Doca não associada à política comercial:** é preciso que, ao [cadastrar a doca](/pt/docs/tutorials/gerenciar-doca), ela tenha sido vinculada à política comercial definida para o marketplace
 - **SKU inativo:** o SKU não está ativo, e somente SKUs ativos são integrados. Verifique o _status_ do item no seu Admin, no módulo _Catálogo > Produtos e SKUs_.
 
 Após solucionar o erro, o pedido deve ser reprocessado manualmente. No seu Admin, no módulo **Marketplace > Conexões > Pedidos**, clique sobre o pedido com erro. Feito isso, o botão **Ações** se torna visível, clique sobre ele e escolha a opção **Reprocessar**.
 
-> ℹ️ Caso o erro persista, abra um [chamado para suporte VTEX](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+> ℹ️ Caso o erro persista, abra um [chamado para suporte VTEX](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex).
 
 ### Saiba mais
 
-- [Erros de falta de estoque na integração de pedidos de marketplace](/pt/tutorial/erros-de-falta-de-estoque-em-pedidos-de-integracao-com-marketplace--s1i5OCcPFslrMkZJLDnfP)
+- [Erros de falta de estoque na integração de pedidos de marketplace](/pt/docs/tutorials/erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace)
 - [Simulador de envio](/pt/tutorial/simulacao-de-frete)
-- [Resolução de erros de divergência de preço em pedidos de marketplace](/pt/tutorial/resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace--6MbmPX4SKyRkcTJxVhRna8)
+- [Resolução de erros de divergência de preço em pedidos de marketplace](/pt/docs/tutorials/resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace)

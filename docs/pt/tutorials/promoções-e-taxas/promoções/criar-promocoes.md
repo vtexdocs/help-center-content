@@ -16,7 +16,7 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
 
-Uma promoção é um desconto concedido sobre o valor da compra do cliente. Este desconto pode estar associado a um ou mais produtos, ao frete, ou a um brinde, por exemplo. Existem os seguintes tipos de promoção na VTEX: [Regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Compre Junto](/pt/tutorial/compre-junto--tutorials_323), [Leve Mais por Menos](/pt/tutorial/leve-mais-por-menos--tutorials_325), [Desconto Progressivo](/pt/tutorial/desconto-progressivo--tutorials_324), [Compre e Ganhe](/pt/tutorial/compre-e-ganhe--tutorials_322) e [Promoção de Campanha](/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume). 
+Uma promoção é um desconto concedido sobre o valor da compra do cliente. Este desconto pode estar associado a um ou mais produtos, ao frete, ou a um brinde, por exemplo. Existem os seguintes tipos de promoção na VTEX: [Regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Compre Junto](/pt/docs/tutorials/compre-junto), [Leve Mais por Menos](/pt/docs/tutorials/leve-mais-por-menos), [Desconto Progressivo](/pt/docs/tutorials/desconto-progressivo), [Compre e Ganhe](/pt/docs/tutorials/compre-e-ganhe) e [Promoção de Campanha](/pt/docs/tutorials/promocao-de-campanha). 
 
 Neste artigo, você encontrará o passo a passo para:
 
@@ -36,7 +36,7 @@ O tutorial abaixo indicará como criar uma [promoção regular](/pt/tracks/promo
  2. Clique em Promoções
  3. Clique no botão `Criar Promoção`.
  4. Selecione a opção `Regular`.
- 5. Preencha os [campos desta promoção](/pt/tutorial/promocao-regular--tutorials_327).
+ 5. Preencha os [campos desta promoção](/pt/docs/tutorials/promocao-regular-pt).
  6. Clique em `Salvar`.
 
 ## Filtrar ou buscar promoção
@@ -87,7 +87,7 @@ O agendamento de uma promoção ocorre quando esta é criada (ou alterada) com d
 
 Essas promoções podem ser facilmente identificadas na página principal de Promoções, visto que possuem uma tarja laranja no canto superior direito da ficha, com a palavra agendada, como mostra o exemplo a seguir:![agendada](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/criar-promocoes_1.png)
 
-Para agendar uma promoção, siga os passos da seção [Agendar promoções](/pt/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI?&utm_source=autocomplete#agendar-promocoes) do artigo [Agendamento para eventos especiais](/pt/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI)
+Para agendar uma promoção, siga os passos da seção [Agendar promoções](/pt/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI?&utm_source=autocomplete#agendar-promocoes) do artigo [Agendamento para eventos especiais](/pt/docs/tutorials/agendamento-para-eventos-especiais)
 
 ## Arquivar promoção
 

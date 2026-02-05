@@ -22,7 +22,7 @@ order: 9
 
 > ⚠️ Uma vez que o pedido seja cancelado, não é possível alterar o seu status. Pedidos com status **Faturado** não podem ser cancelados.
 
-> ℹ️ Não é possível [cancelar pedidos](/pt/tutorial/como-cancelar-pedido--tutorials_186) que já tenham sido [faturados parcialmente](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
+> ℹ️ Não é possível [cancelar pedidos](/pt/docs/tutorials/como-cancelar-pedido) que já tenham sido [faturados parcialmente](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado).
 
 ## Cancelamento pelo módulo Pedidos
 

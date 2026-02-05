@@ -15,7 +15,7 @@ trackSlugEN: catalogo-101
 order: 1
 ---
 
-O menu [Catálogo](/pt/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe) contém as funcionalidades referentes ao sortimento de produtos do seu ecommerce. Para que o seu cliente veja os produtos no site, você precisa cadastrá-los antes na plataforma.
+O menu [Catálogo](/pt/docs/tutorials/catalogo-visao-geral) contém as funcionalidades referentes ao sortimento de produtos do seu ecommerce. Para que o seu cliente veja os produtos no site, você precisa cadastrá-los antes na plataforma.
 
 O **Catálogo** reúne as páginas onde você gerencia catálogo, preços e inventário do seu ecommerce.
 
@@ -23,12 +23,12 @@ A área **Catálogo** possibilita a configuração das funcionalidades referente
 
 A seção inclui as seguintes páginas:
 
-- [Produtos e SKUs](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By)  
-- [Categorias](/pt/tutorial/cadastrando-categoria--tutorials_206)
-- [Marcas](/pt/tutorial/cadastrando-marcas--tutorials_1414)  
-- [Coleções](/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye)  
-- [Tipos de lista](/pt/tutorial/criando-tipo-de-lista--tutorials_254)  
-- [Campos personalizados](/pt/tutorial/cadastrar-um-anexo--7zHMUpuoQE4cAskqEUWScU)  
-- [Importação e exportação](/pt/tutorial/preencher-campos-da-planilha-de-importacao--4nYhx63Q5yokQWaMguaIgI)  
-- [Relatórios](/pt/tutorial/utilizar-o-relatorio-de-indexa%C3%A7%C3%A3o--4ikVpMhwByyS8sysaeOIm4)
+- [Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus)  
+- [Categorias](/pt/docs/tutorials/cadastrar-uma-categoria)
+- [Marcas](/pt/docs/tutorials/cadastrando-marcas)  
+- [Coleções](/pt/docs/tutorials/cadastrar-colecoes-beta)  
+- [Tipos de lista](/pt/docs/tutorials/criando-tipo-de-lista)  
+- [Campos personalizados](/pt/docs/tutorials/cadastrar-um-anexo)  
+- [Importação e exportação](/pt/docs/tutorials/preencher-campos-da-planilha-de-importacao)  
+- [Relatórios](/pt/docs/tutorials/utilizar-o-relatorio-de-indexacao)
 - [Fornecedores](/pt/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe#fornecedores)

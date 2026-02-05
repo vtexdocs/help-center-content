@@ -83,7 +83,7 @@ Essas *labels* são úteis para:
 
 ### Como configurar 
 
-É necessário criar as *custom labels* no Google Merchant Center. Após criar as *custom labels* no Google Merchant Center, siga o tutorial [Cadastrar especificações ou campos de produto](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) para associá-las a uma oferta específica utilizando **especificações de produtos.**
+É necessário criar as *custom labels* no Google Merchant Center. Após criar as *custom labels* no Google Merchant Center, siga o tutorial [Cadastrar especificações ou campos de produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto) para associá-las a uma oferta específica utilizando **especificações de produtos.**
 
 Ao criar o novo campo de especificação de produto preencha-os com os seguintes valores:
 

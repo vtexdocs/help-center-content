@@ -24,7 +24,7 @@ Criamos o **Simulador de promoções** para fornecer aos lojistas mais autonomia
 
 ## O que há de novo?
 
-A partir de agora, o **Simulador de promoções** está disponível para todas as lojas VTEX pelo [Cartman](/pt/tutorial/configurar-o-cartman--1ACMTStZYkMqB0lTgwg451), ferramenta auxiliar para lojistas na etapa do checkout. Com o simulador, você pode:
+A partir de agora, o **Simulador de promoções** está disponível para todas as lojas VTEX pelo [Cartman](/pt/docs/tutorials/configurar-o-cartman), ferramenta auxiliar para lojistas na etapa do checkout. Com o simulador, você pode:
 
 * **Visualizar as promoções** aplicáveis ou aplicadas a cada item no carrinho e a condição para ativá-las.
 * **Gerenciar as promoções** existentes a partir do carrinho de compras.
@@ -36,9 +36,9 @@ A partir de agora, o **Simulador de promoções** está disponível para todas a
 
 ## O que precisa ser feito?
 
-Nenhuma ação é necessária, pois o **Simulador de promoções** já está disponível em todas as lojas VTEX pelo [Cartman](/pt/tutorial/configurar-o-cartman--1ACMTStZYkMqB0lTgwg451).
+Nenhuma ação é necessária, pois o **Simulador de promoções** já está disponível em todas as lojas VTEX pelo [Cartman](/pt/docs/tutorials/configurar-o-cartman).
 
-Os usuários devem possuir um [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) com autorização para acessar o módulo **Promoções** no Admin VTEX para conseguir utilizar o **Simulador de promoções**.
+Os usuários devem possuir um [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) com autorização para acessar o módulo **Promoções** no Admin VTEX para conseguir utilizar o **Simulador de promoções**.
 
 Para começar a utilizar o simulador, siga os passos abaixo:
 
@@ -52,4 +52,4 @@ Para começar a utilizar o simulador, siga os passos abaixo:
 
    Na nova janela, você verá os detalhes das promoções aplicadas e não aplicadas ao carrinho.
 
-Confira o guia [Simulador de promoções](/pt/tutorial/simulador-de-promocoes-beta--4zc8SNqjqeIJ0ZRMhjlnvy) para mais detalhes sobre como usar a nova ferramenta.
+Confira o guia [Simulador de promoções](/pt/docs/tutorials/simulador-de-promocoes-beta) para mais detalhes sobre como usar a nova ferramenta.

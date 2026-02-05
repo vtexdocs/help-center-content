@@ -27,7 +27,7 @@ Há diferentes formas de cadastrar um produto:
 
 ## Admin VTEX
 
-Para saber como cadastrar novos produtos ao seu catálogo pelo Admin VTEX, confira o artigo [Adicionar ou editar produto](/pt/tutorial/adicionar-ou-editar-produto--29IkdEu6GofCFlltsZh2H8).
+Para saber como cadastrar novos produtos ao seu catálogo pelo Admin VTEX, confira o artigo [Adicionar ou editar produto](/pt/docs/tutorials/adicionar-ou-editar-produto).
 
 ## Planilha
 

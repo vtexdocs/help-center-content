@@ -17,7 +17,7 @@ subcategoryId: 1O8AEORWOcgIiMosGoousQ
 
 O **Simulador de envio** está disponível no Admin VTEX para simular e analisar as opções de entrega disponíveis. A simulação verifica as condições de entrega dando ao lojista a capacidade de verificar disponibilidade de itens, formas de entrega, custos e prazos. 
 
-O simulador pode ser utilizado também para validar as configurações das  **[Estratégia de Envio](/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)** antes de se habilitar o processo logístico (Estoque, Doca e [Política de Envio](/pt/tutorial/politica-de-envio--tutorials_140)) considerando:
+O simulador pode ser utilizado também para validar as configurações das  **[Estratégia de Envio](/pt/docs/tutorials/estrategia-de-envio)** antes de se habilitar o processo logístico (Estoque, Doca e [Política de Envio](/pt/docs/tutorials/politica-de-envio)) considerando:
 
 * **Disponibilidade de um item:** o simulador verifica se o item existe em estoque e se sua entrega é possível (se há transportadoras cadastradas para aquela região, por exemplo). Se pelo menos um dos critérios não for atendido, o simulador entende que o item está indisponível.
 
@@ -57,11 +57,11 @@ Se desejar, pode preencher o box `Simular itens individualmente`.
 
 ## Detalhes da Simulação
 
-A simulação de frete indica todas as possibilidades de envio e disponibilidade dos itens incluídos na simulação e descreve os [detalhes de entrega de um pedido](/pt/tutorial/pagina-de-detalles-del-pedido--2Y75n54Cc9VizrlG1N6ZNl), o custo de frete e o tempo de entrega considerando as particularidades abaixo.
+A simulação de frete indica todas as possibilidades de envio e disponibilidade dos itens incluídos na simulação e descreve os [detalhes de entrega de um pedido](/pt/docs/tutorials/pagina-de-detalhes-do-pedido), o custo de frete e o tempo de entrega considerando as particularidades abaixo.
 
-* **Transportadoras desconsideradas:** ao realizar a simulação, algumas transportadoras podem estar indisponíveis por não atenderem os critérios da [ Política de Envio](/pt/tutorial/politica-de-envio--tutorials_140) (veja [transportadoras desconsideradas](#transportadoras-desconsideradas) para mais informações).
+* **Transportadoras desconsideradas:** ao realizar a simulação, algumas transportadoras podem estar indisponíveis por não atenderem os critérios da [ Política de Envio](/pt/docs/tutorials/politica-de-envio) (veja [transportadoras desconsideradas](#transportadoras-desconsideradas) para mais informações).
 * **Compartilhamento de simulação**: é possível o compartilhamento da simulação clicando em `compartilhar a simulação` no canto superior direito da página em. Ao clicar, um link de compartilhamento é copiado para a sua área de transferência. Essa funcionalidade facilita o acionamento da equipe VTEX, ou da sua loja, para resolver problemas em pedidos específicos. Somente quem tem acesso ao ambiente VTEX consegue visualizar o link gerado pelo compartilhamento.
-* **Valor do frete**: para simulações feitas com mais de um SKU, o `valor do frete` é dividido proporcionalmente ao peso de cada SKU no pacote. Por exemplo, considere uma simulação feita com 2 SKUs (um pesando 2kg, e o outro pesando 3kg). Vamos supor que o frete com a transportadora A custa 10 reais ao total. Nesse cenário, o SKU mais leve custará 4 reais, e o mais pesado 6 reais. Para saber mais, confira [Como é feito o rateio de frete](/pt/tutorial/como-e-feito-o-rateio-de-frete--frequentlyAskedQuestions_155).
+* **Valor do frete**: para simulações feitas com mais de um SKU, o `valor do frete` é dividido proporcionalmente ao peso de cada SKU no pacote. Por exemplo, considere uma simulação feita com 2 SKUs (um pesando 2kg, e o outro pesando 3kg). Vamos supor que o frete com a transportadora A custa 10 reais ao total. Nesse cenário, o SKU mais leve custará 4 reais, e o mais pesado 6 reais. Para saber mais, confira [Como é feito o rateio de frete](/pt/docs/tutorials/como-e-feito-o-rateio-de-frete).
 * **Dimensões do pacote**: para simulações com SKUs contendo mais de 1 unidade, as `dimensões` descritas ao lado do SKU na página de simulação não mudarão. O sistema levará em consideração que aumentou a dimensão total do pacote.
 
 ### Transportadoras Desconsideradas
@@ -81,13 +81,13 @@ A simulação de frete indica todas as possibilidades de envio e disponibilidade
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">Peso total do carrinho excedeu o limite da transportadora
    </td>
-    <td class="t-body pa5" style="min-width: 15rem;">É possível atender ao limite através da divisão de carga. Veja a [ divisão de carga](/pt/tutorial/como-funciona-a-divisao-de-carga--tutorials_109) para maiores informações. Confira também se há erro nas [configurações do produto no catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
+    <td class="t-body pa5" style="min-width: 15rem;">É possível atender ao limite através da divisão de carga. Veja a [ divisão de carga](/pt/docs/tutorials/como-funciona-a-divisao-de-carga) para maiores informações. Confira também se há erro nas [configurações do produto no catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
    </td>
   </tr>
  <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">O peso ou dimensão do item não é suportado pela transportadora.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Confira as configurações da [planilha de frete](/pt/tutorial/como-montar-a-planilha-de-frete--tutorials_127)  através dos campos ***WeightStart, WeightEnd ***e*** MaxVolume. *** Confira também se há erro nas [configurações do produto no catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
+   <td class="t-body pa5" style="min-width: 15rem;">Confira as configurações da [planilha de frete](/pt/docs/tutorials/planilha-de-frete)  através dos campos ***WeightStart, WeightEnd ***e*** MaxVolume. *** Confira também se há erro nas [configurações do produto no catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
    </td>
   </tr>
   <tr class="bb b--muted-3">
@@ -95,19 +95,19 @@ A simulação de frete indica todas as possibilidades de envio e disponibilidade
        
        *Obs.: itens que compõem um kit ou promoção não podem ser separados em pacotes diferentes.*
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Confira as configurações da [planilha de frete](/pt/tutorial/como-montar-a-planilha-de-frete--tutorials_127) através dos campos ***WeightStart ***e ***WeightEnd. ***Confira também se há erro nas [configurações do produto no catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
+   <td class="t-body pa5" style="min-width: 15rem;">Confira as configurações da [planilha de frete](/pt/docs/tutorials/planilha-de-frete) através dos campos ***WeightStart ***e ***WeightEnd. ***Confira também se há erro nas [configurações do produto no catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">Opções de agendamento de entrega não disponíveis.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Confira as configurações das janelas de [entrega agendadas](/pt/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi) e o horário de funcionamento da [política de envio](https://docs.google.com/document/u/0/d/1xr-jEYEB-0_pYTJ_SZEx38fKvC0jEUrY_MbMyPnVpws/edit). É possível que janelas de entrega agendadas estejam bloqueadas, verifique se as janelas corretas estão ativas.
+   <td class="t-body pa5" style="min-width: 15rem;">Confira as configurações das janelas de [entrega agendadas](/pt/docs/tutorials/entrega-agendada) e o horário de funcionamento da [política de envio](https://docs.google.com/document/u/0/d/1xr-jEYEB-0_pYTJ_SZEx38fKvC0jEUrY_MbMyPnVpws/edit). É possível que janelas de entrega agendadas estejam bloqueadas, verifique se as janelas corretas estão ativas.
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">O CEP não é atendido pela transportadora.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Confira as configurações da [planilha](/pt/tutorial/planilha-de-frete--tutorials_127) de frete através dos campos ***ZipCodeStart*** e ***ZipCodeEnd. ***Confira também as [Tarifas de Envio](/pt/tutorial/gerenciar-valores-de-frete--tutorials_141) no menu de **Envio**.
+   <td class="t-body pa5" style="min-width: 15rem;">Confira as configurações da [planilha](/pt/docs/tutorials/planilha-de-frete) de frete através dos campos ***ZipCodeStart*** e ***ZipCodeEnd. ***Confira também as [Tarifas de Envio](/pt/docs/tutorials/gerenciar-tarifas-de-envio) no menu de **Envio**.
    </td>
   </tr>
   <tr class="bb b--muted-3">
@@ -125,19 +125,19 @@ A simulação de frete indica todas as possibilidades de envio e disponibilidade
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">Transportadora está como **Inativa**
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Confira o cadastro da [política de envio](/pt/tutorial/politica-de-envio--tutorials_140) para verificar se a transportadora está ativa.
+   <td class="t-body pa5" style="min-width: 15rem;">Confira o cadastro da [política de envio](/pt/docs/tutorials/politica-de-envio) para verificar se a transportadora está ativa.
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">O preço dos itens não atende às especificações da transportadora.
    </td>
-  <td class="t-body pa5" style="min-width: 15rem;">Veja as configurações na [política de envio](/pt/tutorial/politica-de-envio--tutorials_140) para  o preço limite  aceitado.
+  <td class="t-body pa5" style="min-width: 15rem;">Veja as configurações na [política de envio](/pt/docs/tutorials/politica-de-envio) para  o preço limite  aceitado.
    </td>
   </tr>
    <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">O horário de funcionamento da transportadora não atende o horário de entrega.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Confira as configurações do [ horário de funcionamento ](/pt/tutorial/horario-de-funcionamento-das-transportadoras--2oGpbInIgdxSWUi3TZjdCS?&utm_source=autocomplete) da [política de envio](/pt/tutorial/politica-de-envio--tutorials_140).
+   <td class="t-body pa5" style="min-width: 15rem;">Confira as configurações do [ horário de funcionamento ](/pt/tutorial/horario-de-funcionamento-das-transportadoras--2oGpbInIgdxSWUi3TZjdCS?&utm_source=autocomplete) da [política de envio](/pt/docs/tutorials/politica-de-envio).
    </td>
   </tr>
 </table>

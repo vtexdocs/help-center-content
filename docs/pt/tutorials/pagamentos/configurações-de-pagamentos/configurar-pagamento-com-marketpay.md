@@ -26,7 +26,7 @@ Para configurar MarketPay, siga os passos abaixo:
 3. Digite o nome **MarketPay** na barra de busca e clique sobre o nome do provedor.
 4. Em **Autorização do provedor**, preencha os campos **Chave de aplicação** e **Token de aplicação** com as informações da sua conta MarketPay.
 5. Caso deseje modificar o nome de identificação a ser exibido para o provedor MarketPay na tela do Admin VTEX, insira a informação no campo **Nome** em **Informações básicas**.
-6. Caso deseje utilizar o [split de pagamento](/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) em sua loja, selecione a opção **Ativar split de recebíveis e enviar recebedores de pagamento** e indique o **Responsável pelas tarifas de processamento de pagamentos** e **Responsável pelos estornos (marketplace, sellers ou marketplaces e sellers)**.
+6. Caso deseje utilizar o [split de pagamento](/pt/docs/tutorials/split-de-pagamento) em sua loja, selecione a opção **Ativar split de recebíveis e enviar recebedores de pagamento** e indique o **Responsável pelas tarifas de processamento de pagamentos** e **Responsável pelos estornos (marketplace, sellers ou marketplaces e sellers)**.
 7. Em **Campos do provedor**, selecione ou preencha os campos N/A conforme orientações do provedor.
 8. Clique em `Salvar`.
 

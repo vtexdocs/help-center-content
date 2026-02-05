@@ -17,7 +17,7 @@ announcementSynopsisPT: 'O Campo calculado e a ação de trigger “Alterar valo
 
 No dia 17 de junho de 2024, vamos desabilitar as seguintes configurações no Master Data v1: **Campo calculado** e ação de ativação (trigger) **Alterar valor do campo**.
 
-Essas opções permitiam alterar valores de documentos no [Master Data](/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) de forma dinâmica, executando código a partir de um trigger ou da atualização/criação de um documento.
+Essas opções permitiam alterar valores de documentos no [Master Data](/pt/docs/tutorials/master-data) de forma dinâmica, executando código a partir de um trigger ou da atualização/criação de um documento.
 
 Para substituir essas configurações, caso seja necessário atualizar valores de campos de forma dinâmica, recomendamos [criar um app para se comunicar com o Master Data](https://developers.vtex.com/docs/guides/create-master-data-crud-app).
 
@@ -29,7 +29,7 @@ Note que **Campos calculados** e triggers já existentes que utilizam a função
 
 ### Campo calculado
 
-O **Campo calculado** era uma configuração dentro dos campos de [entidade de dados](/pt/tutorial/entidade-de-dados--tutorials_1265) que permitia a execução de código C# para recalcular o valor do campo sempre que um novo documento fosse inserido ou atualizado.
+O **Campo calculado** era uma configuração dentro dos campos de [entidade de dados](/pt/docs/tutorials/entidade-de-dados) que permitia a execução de código C# para recalcular o valor do campo sempre que um novo documento fosse inserido ou atualizado.
 
 Esse tipo de campo, ilustrado abaixo, não estará mais disponível a partir de 17 de junho de 2024. Os campos calculados criados previamente deixarão de funcionar na mesma data.
 

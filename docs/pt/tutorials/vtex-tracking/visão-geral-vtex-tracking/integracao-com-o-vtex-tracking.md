@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: t5ai1r0dN7J4U1IYLbHmG
 ---
 
-O [VTEX Tracking ](/pt/tutorial/vtex-tracking-overview--1uDRquVudbPuoK05MtbZGh) é uma solução para rastreio de entregas. A plataforma permite acompanhar e gerenciar cada entrega da sua loja. Para que as informações necessárias para realização das entregas dos pedidos estejam disponíveis na plataforma VTEX Tracking é preciso realizar uma integração de pedidos. Dessa forma, os pedidos e serviços ficam disponíveis para criação de rotas no VTEX Tracking.
+O [VTEX Tracking ](/pt/docs/tutorials/visao-geral-vtex-tracking) é uma solução para rastreio de entregas. A plataforma permite acompanhar e gerenciar cada entrega da sua loja. Para que as informações necessárias para realização das entregas dos pedidos estejam disponíveis na plataforma VTEX Tracking é preciso realizar uma integração de pedidos. Dessa forma, os pedidos e serviços ficam disponíveis para criação de rotas no VTEX Tracking.
 
 > ⚠️ Para importar pedidos, é necessário cumprir os requisitos abaixo: <body> <ol> <li>Os pedidos precisam estar faturados.</li> <li>Nos casos em que o pedido é roteirizado externamente (fora do VTEX Tracking), a roteirização precisa ser feita antes da importação.</i> </ol> </body>
 
@@ -33,7 +33,7 @@ A instalação do aplicativo VTEX Tracking  é o primeiro passo para a integraç
 1. A instalação é feita no ambiente Admin na App Store da VTEX.
 2. A configuração permite selecionar se deseja integrar apenas pedidos com o arquivo da nota fiscal e se deseja habilitar as atualizações de status. Para que as configurações ocorram, é preciso validar o Token, que deve ser solicitado pelo [suporte](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9). 
 
-Os passos para a instalação e configuração do aplicativo estão detalhados no artigo[ Como instalar e configurar a app VTEX Tracking](/pt/tutorial/como-instalar-e-configurar-a-app-vtex-tracking-no-seu-admin-vtex--3ejuFsJ1m0r08cT6afpIPf).
+Os passos para a instalação e configuração do aplicativo estão detalhados no artigo[ Como instalar e configurar a app VTEX Tracking](/pt/docs/tutorials/como-instalar-e-configurar-a-app-vtex-tracking-no-seu-admin-vtex).
 
 Depois da instalação, os pedidos que já estão disponíveis no Admin VTEX serão integrados automaticamente e ficarão disponíveis no VTEX Tracking. Os pedidos que são externos ao Admin VTEX precisam ser adicionados pela integração não nativa.
 
@@ -46,5 +46,5 @@ Há duas formas de integrar os pedidos que estão externos a VTEX:
 * **Integração via API:** a utilização da API tem o objetivo de incluir os pedidos ao VTEX Tracking pelo ERP. Assim, os dados dos pedidos são enviados do ERP para o OMS VTEX de forma automática.  Siga os passos descritos em [Integrating external orders via API to be used with VTEX Tracking](https://developers.vtex.com/vtex-rest-api/docs/integrating-external-orders-via-api-to-be-used-with-vtex-tracking).
 * **Integração manual via Televendas:** a utilização da funcionalidade televendas permite adicionar pedidos individualmente e de forma manual, seguindo todos os passos de um pedido. 
 Para a integração:
-1. Crie um [usuário de televendas](/pt/tutorial/how-can-i-create-callcenter-user--frequentlyAskedQuestions_4227).
+1. Crie um [usuário de televendas](/pt/docs/tutorials/como-criar-um-usuario-de-televendas).
 2. Utilize as [funcionalidades](/pt/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS#gerenciamento-de-pedidos) disponíveis para a conta de televendas para adicionar o pedido ao Gerenciamento de Pedidos VTEX.

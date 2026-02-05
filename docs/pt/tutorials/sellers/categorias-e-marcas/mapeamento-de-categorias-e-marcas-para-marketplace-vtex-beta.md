@@ -17,7 +17,7 @@ subcategoryId: 24EN0qRBg4yK0uusGUGosu
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
-A arquitetura de uma loja VTEX possibilita [anunciar e vender produtos](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) em outras lojas, sejam elas VTEX ou não. Ao vender produtos de outros sellers em seu ambiente, a loja VTEX se torna um [marketplace VTEX](/pt/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb). 
+A arquitetura de uma loja VTEX possibilita [anunciar e vender produtos](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex) em outras lojas, sejam elas VTEX ou não. Ao vender produtos de outros sellers em seu ambiente, a loja VTEX se torna um [marketplace VTEX](/pt/docs/tutorials/configurar-marketplace-vtex). 
 
 Para que um seller possa vender em um marketplace VTEX, é necessário que seja feita uma correspondência entre o [catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) do seller e o catálogo do marketplace VTEX, de forma que os produtos do seller tenham informações equivalentes ao catálogo do marketplace. 
 
@@ -36,7 +36,7 @@ Para facilitar a conexão entre sellers e marketplaces VTEX, existe a página **
 
 ## Mapear novo seller
 
-Uma vez que o marketplace VTEX esteja [conectado ao seller](/pt/tutorial/adicionar-seller--tutorials_392), é preciso realizar o mapeamento do seller. Para isso, siga os passos abaixo:
+Uma vez que o marketplace VTEX esteja [conectado ao seller](/pt/docs/tutorials/adicionar-seller), é preciso realizar o mapeamento do seller. Para isso, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **MARKETPLACE > Sellers**.
 2. Clique em `Categorias e marcas Beta`.
@@ -93,5 +93,5 @@ O status do mapeamento de marcas no marketplace VTEX é indicado por ícones na 
 ## Saiba mais
 
 - [Aprovar anúncios recebidos](/pt/tutorial/sugerindo-e-aprovando-skus/)
-- [Política comercial para marketplaces](/pt/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)
-- [Informações compartilhadas entre marketplace e seller na VTEX](/pt/tutorial/informacoes-compartilhadas-entre-marketplace-e-seller-na-vtex--3o7WGiBtfnKKZ3Ddug26k3)
+- [Política comercial para marketplaces](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace)
+- [Informações compartilhadas entre marketplace e seller na VTEX](/pt/docs/tutorials/informacoes-compartilhadas-entre-marketplace-e-seller-na-vtex)

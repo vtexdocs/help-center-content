@@ -15,13 +15,13 @@ locale: pt
 subcategoryId: FTLNAWyLmuaIiAq4CQKS6
 ---
 
-Como parte do [comércio colaborativo](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) promovido pela VTEX, a arquitetura de uma loja VTEX possibilita a ela tanto atuar como [seller](/pt/tutorial/configurar-seller-para-vender-em-marketplace-vtex--6g045OkRSjNpqhkExbQRlP) quanto como [marketplace](/pt/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb). 
+Como parte do [comércio colaborativo](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex) promovido pela VTEX, a arquitetura de uma loja VTEX possibilita a ela tanto atuar como [seller](/pt/docs/tutorials/configurar-seller-para-vender-em-marketplace-vtex) quanto como [marketplace](/pt/docs/tutorials/configurar-marketplace-vtex). 
 
-Quando o seller envia seus produtos para o marketplace VTEX, o marketplace [cataloga os SKUs recebidos](/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396), criando um vínculo entre os SKUs do seller e os SKUs do marketplace. Ou seja, passa a existir uma correspondência entre o catálogo do seller e o catálogo do marketplace. 
+Quando o seller envia seus produtos para o marketplace VTEX, o marketplace [cataloga os SKUs recebidos](/pt/docs/tutorials/sugerindo-e-aprovando-skus), criando um vínculo entre os SKUs do seller e os SKUs do marketplace. Ou seja, passa a existir uma correspondência entre o catálogo do seller e o catálogo do marketplace. 
 
-Após a catalogação, que o marketplace pode realizar pela página **SKUs Recebidos** ou utilizando o [VTEX Matcher](/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424), os vínculos entre os SKUs do seller e os SKUs do marketplace aparecem na página **Vínculos de SKU**. De forma automática, os vínculos possuem o status _Vinculado_.
+Após a catalogação, que o marketplace pode realizar pela página **SKUs Recebidos** ou utilizando o [VTEX Matcher](/pt/docs/tutorials/entendendo-a-pontuacao-do-vtex-matcher), os vínculos entre os SKUs do seller e os SKUs do marketplace aparecem na página **Vínculos de SKU**. De forma automática, os vínculos possuem o status _Vinculado_.
 
-> ℹ️ Por padrão, para [sellers white label](/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) não existe essa relação de vínculo entre os seus SKUs e os SKUs do marketplace.
+> ℹ️ Por padrão, para [sellers white label](/pt/docs/tutorials/seller-white-label) não existe essa relação de vínculo entre os seus SKUs e os SKUs do marketplace.
 
 A página **Vínculos de SKU** permite ao marketplace acompanhar e gerenciar a relação de vínculo entre os SKUs do seller e do marketplace. Para acessar a página, no Admin VTEX vá em **Marketplace > Sellers > Vínculos de SKU**. A seguinte interface vai aparecer:
 
@@ -32,7 +32,7 @@ A tabela a seguir apresenta a descrição das colunas da listagem de vínculos d
 | **Coluna** | **Descrição** |
 | ---------- | ---------- |
 | SKU | Código numérico que identifica o [SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) do catálogo do marketplace. |
-| Seller | Nome e ID do [seller cadastrado](/pt/tutorial/adicionar-seller--tutorials_392) no marketplace. |
+| Seller | Nome e ID do [seller cadastrado](/pt/docs/tutorials/adicionar-seller) no marketplace. |
 | SKU de seller | Código alfanumérico que identifica o SKU do catálogo do seller com o qual o SKU do marketplace tem um vínculo. |
 | Status | Situação do vínculo entre o SKU do seller e o SKU do marketplace, podendo ser de dois tipos: <ul><li>**Vinculado:** existe uma correspondência entre o SKU do seller e o SKU do marketplace.</li><li>**Desvinculado:** não existe uma correspondência entre o SKU do seller e o SKU do marketplace.</li></ul> Se um vínculo de SKU é alterado de **Vinculado** para **Desvinculado**, o SKU do seller se torna indisponível no catálogo do marketplace. |
 
@@ -91,7 +91,7 @@ Para remover o vínculo entre o SKU do seller e o SKU do marketplace, realize os
 2. Na linha do item desejado, clique sobre o ícone menu <i class="fas fa-ellipsis-v"></i>.
 3. Clique em <i class="far fa-trash-alt"></i> `Remover`.
 
-> ⚠️ Remover um vínculo faz com que o SKU do seller deixe de fazer parte do catálogo do Marketplace, desaparecendo da listagem da página **Vínculos de SKU**. Não é possível recuperar um vínculo removido, mas o seller pode reenviar o SKU para o marketplace, que [cataloga](/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396) o SKU novamente e torna-o disponível.
+> ⚠️ Remover um vínculo faz com que o SKU do seller deixe de fazer parte do catálogo do Marketplace, desaparecendo da listagem da página **Vínculos de SKU**. Não é possível recuperar um vínculo removido, mas o seller pode reenviar o SKU para o marketplace, que [cataloga](/pt/docs/tutorials/sugerindo-e-aprovando-skus) o SKU novamente e torna-o disponível.
 
 ## Exportar
 
@@ -107,7 +107,7 @@ A planilha gerada será enviada para o email do usuário logado. O tempo da expo
 
 ## Saiba mais
 
-- [Configurar marketplace VTEX](/pt/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb)
-- [Configurar seller para vender em marketplace VTEX](/pt/tutorial/configurar-seller-para-vender-em-marketplace-vtex--6g045OkRSjNpqhkExbQRlP)
-- [Catalogação de SKUs recebidos](/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396)
-- [Como funciona a pontuação do VTEX Matcher](/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424)
+- [Configurar marketplace VTEX](/pt/docs/tutorials/configurar-marketplace-vtex)
+- [Configurar seller para vender em marketplace VTEX](/pt/docs/tutorials/configurar-seller-para-vender-em-marketplace-vtex)
+- [Catalogação de SKUs recebidos](/pt/docs/tutorials/sugerindo-e-aprovando-skus)
+- [Como funciona a pontuação do VTEX Matcher](/pt/docs/tutorials/entendendo-a-pontuacao-do-vtex-matcher)

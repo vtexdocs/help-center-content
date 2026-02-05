@@ -58,7 +58,7 @@ Enquanto disponibilizamos o beta, nossa equipe de desenvolvimento está trabalha
 
 No longo prazo, vamos olhar para o outro lado de uma operação de marketplace: o __seller__. Para os próximos meses, vamos iniciar o processo de redesign da forma como os sellers enviam novos SKUs e gerenciam suas interações com os marketplaces. Isso abre a possibilidade para novas funcionalidades, como atualizações mais completas de logs e status, mapeamento de categorias e atributos e muito mais.
 
-Quer saber como usar o novo admin de SKUs Recebidos? Leia mais nos [Artigos do Help](/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396).
+Quer saber como usar o novo admin de SKUs Recebidos? Leia mais nos [Artigos do Help](/pt/docs/tutorials/sugerindo-e-aprovando-skus).
 
 Boas vendas!
 

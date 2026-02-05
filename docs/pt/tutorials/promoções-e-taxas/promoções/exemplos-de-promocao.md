@@ -92,7 +92,7 @@ R$ 99,00 em todas as camisas em liquidação.
 
 Compre um suéter e ganhe 50% de desconto em uma camisa clássica ou contemporânea de manga comprida.
 
-- “Compre um suéter e ganhe 50% de desconto” em outro item faz com que esta seja uma [Promoção Compre Junto](/pt/tutorial/buy-together--tutorials_323).
+- “Compre um suéter e ganhe 50% de desconto” em outro item faz com que esta seja uma [Promoção Compre Junto](/pt/docs/tutorials/compre-junto).
 - “Suéter e camisa clássica ou contemporânea de manga comprida” são os itens aos quais este benefício será aplicado.
 
 > ⚠️ A Promoção Compre Junto funciona apenas com descontos percentuais.
@@ -101,7 +101,7 @@ Compre um suéter e ganhe 50% de desconto em uma camisa clássica ou contemporâ
 
 Compre qualquer suéter e receba um par específico de meias e compre dois suéteres e receba dois pares específicos de meias.
 
-- “Compre um suéter e receba um par específico de meias” faz com que esta seja uma promoção do tipo [Compre e Ganhe - Brinde](/pt/tutorial/buy-one-get-one--tutorials_322).
+- “Compre um suéter e receba um par específico de meias” faz com que esta seja uma promoção do tipo [Compre e Ganhe - Brinde](/pt/docs/tutorials/compre-e-ganhe).
 - “Suéter” é a coleção ou os itens aos quais este benefício será aplicado.
 - “Par de meias” é o brinde da promoção.
 - “Ganhar um par de meias para cada suéter comprado” é uma restrição que pode ser incluída com a quantidade mínima de suéteres.
@@ -110,7 +110,7 @@ Compre qualquer suéter e receba um par específico de meias e compre dois suét
 
 Compre seis pares específicos de meias e ganhe um.
 
-- “Compre seis pares específicos de meias e ganhe um” faz com que esta seja uma promoção do tipo [Compre e Ganhe - Brinde](/pt/tutorial/buy-one-get-one--tutorials_322).
+- “Compre seis pares específicos de meias e ganhe um” faz com que esta seja uma promoção do tipo [Compre e Ganhe - Brinde](/pt/docs/tutorials/compre-e-ganhe).
 - “Par de meias” é o produto específico e o brinde da promoção.
 - “Ganhar um par de meias a cada seis comprados” é uma restrição que pode ser incluída com a quantidade mínima de pares de meias.
 
@@ -118,7 +118,7 @@ Compre seis pares específicos de meias e ganhe um.
 
 Compre duas camisas de malha de manga comprida e ganhe 20% de desconto ou compre três camisas de malha de manga curta e ganhe 30% de desconto.
 
-- “Compre duas camisas de malha de manga comprida e ganhe 20% de desconto” ou “compre três camisas de malha de manga curta e ganhe 30% de desconto” faz com que esta seja uma promoção do tipo [Desconto Progressivo](/pt/tutorial/progressive-discount--tutorials_324).
+- “Compre duas camisas de malha de manga comprida e ganhe 20% de desconto” ou “compre três camisas de malha de manga curta e ganhe 30% de desconto” faz com que esta seja uma promoção do tipo [Desconto Progressivo](/pt/docs/tutorials/desconto-progressivo).
 - “Duas camisas de malha de manga comprida com 20% de desconto" ou "três camisas de malha de manga curta com 30% de desconto” são restrições que podem ser configuradas com as quantidades mínimas de SKUs e os descontos relacionados que serão aplicados.
 
 ## Cenário 15
@@ -133,13 +133,13 @@ Ganhe R$ 50,00 de desconto a cada R$ 300,00 gastos.
 
 A cada R$ 500,00 em compras, receba um cupom com desconto de 20% a ser usado na próxima compra. 
 
-- “20% de desconto” faz com que seja uma [Promoção Regular - Valor Fidelidade Percentual](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). O crédito adquirido é transferido para um [Gift Card](/pt/tutorial/gift-card--tutorials_995).
+- “20% de desconto” faz com que seja uma [Promoção Regular - Valor Fidelidade Percentual](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). O crédito adquirido é transferido para um [Gift Card](/pt/docs/tutorials/gift-card).
 - “A cada R$ 500,00 em compras” é uma restrição que pode ser incluída com o valor mínimo da configuração do pedido. 
 
 ## Cenário 17
 Compre 3 camisetas básicas e pague apenas 1.
 
-- A promoção Compre 3 camisetas básicas e pague apenas 1 é um exemplo do tipo [Leve Mais por Menos](/pt/tutorial/leve-mais-por-menos--tutorials_325).
+- A promoção Compre 3 camisetas básicas e pague apenas 1 é um exemplo do tipo [Leve Mais por Menos](/pt/docs/tutorials/leve-mais-por-menos).
 - Para configurar essa promoção, defina que, ao comprar 3 camisetas básicas, o cliente recebe 2 delas com 100% de desconto.
 - Como alternativa, é possível aplicar um desconto de 67% sobre as três unidades, simulando o mesmo benefício final.
 - Você pode definir condições como 3 camisetas básicas com 67% de desconto ou 3 camisetas básicas com 2 unidades gratuitas. Ambas as opções podem ser configuradas com base na quantidade mínima de itens e no desconto correspondente.
@@ -147,18 +147,18 @@ Compre 3 camisetas básicas e pague apenas 1.
 ## Artigos relacionados
 -   [Criar Promoção Regular](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI)
 
--   [Campos de Promoção Regular](/pt/tutorial/regular-promotion--tutorials_327)
+-   [Campos de Promoção Regular](/pt/docs/tutorials/promocao-regular-pt)
 
 -   [Promoções para cenários específicos](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy)
 
--   [Criar Promoção Compre Junto](/pt/tutorial/buy-together--tutorials_323)
+-   [Criar Promoção Compre Junto](/pt/docs/tutorials/compre-junto)
 
--   [Criar Promoção Leve Mais por Menos](/pt/tutorial/creating-more-for-less-promotion--tutorials_325)
+-   [Criar Promoção Leve Mais por Menos](/pt/docs/tutorials/leve-mais-por-menos)
 
--   [Como funciona o desconto progressivo](/pt/tutorial/progressive-discount--tutorials_324)
+-   [Como funciona o desconto progressivo](/pt/docs/tutorials/desconto-progressivo)
 
--   [Como funciona a promoção Compre e Ganhe](/pt/tutorial/buy-one-get-one--tutorials_322)
+-   [Como funciona a promoção Compre e Ganhe](/pt/docs/tutorials/compre-e-ganhe)
 
 -   [Limite de itens com promoção no carrinho](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy)
 
--   [Configurar Vale-Compra](/pt/tutorial/how-to-configure-gift-cards--tutorials_995)
+-   [Configurar Vale-Compra](/pt/docs/tutorials/gift-card)

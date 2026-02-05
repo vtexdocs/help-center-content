@@ -19,7 +19,7 @@ O Número de Identificação Bancária (BIN) é composto pelos primeiros seis ou
 
 ![BIN_image_digits_PT_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/visão-geral-de-pagamentos/cadastrar-informacoes-de-bins_1.png)
 
-Quando a instituição bancária deseja criar novos perfis de cartões ou emitir novos cartões para um modelo já existente, é necessário criar novos BINs. Isso também se aplica quando uma [bandeira](/pt/tutorial/o-que-e-uma-bandeira-de-cartao-de-credito--4bNba5QYuIwKEmac88KwyI) é comprada por outra.
+Quando a instituição bancária deseja criar novos perfis de cartões ou emitir novos cartões para um modelo já existente, é necessário criar novos BINs. Isso também se aplica quando uma [bandeira](/pt/docs/tutorials/o-que-e-uma-bandeira-de-cartao-de-credito) é comprada por outra.
 
 Nestas situações, a VTEX precisa ser notificada para permitir que os novos cartões possam ser validados de forma correta no processo de pagamento em uma compra realizada na plataforma.
 

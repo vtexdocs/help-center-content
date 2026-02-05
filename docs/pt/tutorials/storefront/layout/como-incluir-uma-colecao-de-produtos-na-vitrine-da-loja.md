@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ **Atenção:** existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à [configuração de coleções por meio do CMS](/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L).
+> ⚠️ **Atenção:** existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à [configuração de coleções por meio do CMS](/pt/docs/tutorials/cadastro-de-colecoes-cms).
 
 As vitrines são utilizadas no destaque de produtos em diversas páginas, elas também podem ser utilizadas para recomendações, na página do produto.
 
@@ -51,7 +51,7 @@ Lembre-se de salvar as alterações antes de efetuar uma busca ou mudar de pági
 O próximo passo é adicionar o conteúdo, selecionando **Add Content**.
 ![coleção8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja_7.png)
 
-É possível definir cada conteúdo utilizando coleções ou resultados de busca, utilizando parâmetros de busca (mais detalhes [aqui](/pt/tutorial/como-funciona-a-busca-da-vtex--tutorials_542)).
+É possível definir cada conteúdo utilizando coleções ou resultados de busca, utilizando parâmetros de busca (mais detalhes [aqui](/pt/docs/tutorials/como-funciona-a-busca-da-vtex)).
 
 Os conteúdos a serem preenchidos na parte **Content**:
 _Content_: Nome que identificará cada conjunto de itens

@@ -33,7 +33,7 @@ Ao contratar o VTEX Shield, é possível optar pelas funcionalidades a seguir:
 
 O Security Monitor é um dashboard no Admin VTEX que detecta ameaças à segurança relacionadas ao comportamento de usuários administrativos e a configurações inadequadas. Os riscos potenciais incluem [chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) antigas ou expostas na web, usuários ou credenciais com permissões excessivas e usuários inativos. A ferramenta apresenta uma visão geral das ameaças e das soluções, com a opção de notificar lojistas por email a cada descoberta.
 
-O Security Monitor está disponível no Admin VTEX somente para lojas com VTEX Shield que optarem por esse recurso. Para mais informações, confira o guia [Security Monitor](/pt/tutorial/security-monitor--5LOVNLrrtmgSj99pM1NS4x).
+O Security Monitor está disponível no Admin VTEX somente para lojas com VTEX Shield que optarem por esse recurso. Para mais informações, confira o guia [Security Monitor](/pt/docs/tutorials/security-monitor).
 
 ## Web Application Firewall (WAF)
 
@@ -41,7 +41,7 @@ O Web Application Firewall (WAF) é uma ferramenta para proteger aplicações we
 
 Esse recurso de segurança desempenha um papel fundamental na proteção de sites, serviços on-line e aplicativos da Web contra vários ataques, como injeção de SQL, XSS (cross-site scripting) e outras vulnerabilidades comuns da web.
 
-Somente lojas com VTEX Shield que optarem por esse recurso podem solicitar a ativação do WAF. Saiba mais sobre o funcionamento e os tipos de ameaças protegidas em [Web Application Firewall (WAF)](/pt/tutorial/web-application-firewall-waf--6BZYLlU03ws72iqIFF6jdn).
+Somente lojas com VTEX Shield que optarem por esse recurso podem solicitar a ativação do WAF. Saiba mais sobre o funcionamento e os tipos de ameaças protegidas em [Web Application Firewall (WAF)](/pt/docs/tutorials/web-application-firewall-waf).
 
 ## Data Protection Plus
 
@@ -55,12 +55,12 @@ Leia o conjunto de guias da categoria [Data Protection Plus](https://developers.
 
 ## Certificados SSL customizados
 
-A VTEX utiliza, por padrão, [certificados SSL](/pt/tutorial/certificado-de-seguranca-ssl--tutorials_1308) emitidos pelo [Let’s Encrypt](https://letsencrypt.org/) para garantir segurança e compatibilidade. No entanto, algumas lojas podem precisar de certificados customizados por requisitos de compliance ou segurança.
+A VTEX utiliza, por padrão, [certificados SSL](/pt/docs/tutorials/certificado-de-seguranca-ssl) emitidos pelo [Let’s Encrypt](https://letsencrypt.org/) para garantir segurança e compatibilidade. No entanto, algumas lojas podem precisar de certificados customizados por requisitos de compliance ou segurança.
 
-Para isso, a página **Certificados SSL** permite instalar e gerenciar certificados personalizados. Ela está disponível no Admin VTEX somente para lojas com VTEX Shield que optarem por esse recurso. Para mais informações, confira o guia [Certificados SSL customizados](/pt/tutorial/certificados-ssl-customizados--1hoaDEbU50PDZSe6AYep9q).
+Para isso, a página **Certificados SSL** permite instalar e gerenciar certificados personalizados. Ela está disponível no Admin VTEX somente para lojas com VTEX Shield que optarem por esse recurso. Para mais informações, confira o guia [Certificados SSL customizados](/pt/docs/tutorials/certificados-ssl-customizados).
 
 ## Mutual Transport Layer Security (mTLS)
 
 O Mutual Transport Layer Security (mTLS) é uma solução de segurança avançada oferecida pelo VTEX Shield, que reforça a proteção das integrações entre sistemas externos e a VTEX. Essa camada extra de proteção é aplicável a cenários de integração via APIs, como lojas headless ou conexões com ERPs e WMS.
 
-Diferente do TLS tradicional, em que apenas o servidor precisa comprovar sua identidade, o mTLS exige autenticação mútua: tanto o cliente quanto o servidor apresentam certificados digitais válidos, assegurando que ambos os lados da comunicação sejam confiáveis antes da troca de dados. Saiba mais em [Mutual Transport Layer Security (mTLS)](/pt/tutorial/mutual-transport-layer-security-mtls--6YR3SoynJMfeEKGlY1Cqlo).
+Diferente do TLS tradicional, em que apenas o servidor precisa comprovar sua identidade, o mTLS exige autenticação mútua: tanto o cliente quanto o servidor apresentam certificados digitais válidos, assegurando que ambos os lados da comunicação sejam confiáveis antes da troca de dados. Saiba mais em [Mutual Transport Layer Security (mTLS)](/pt/docs/tutorials/mutual-transport-layer-security-mtls).

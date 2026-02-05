@@ -35,7 +35,7 @@ Saiba mais sobre [sistemas antifraude](/pt/tutorial/what-is-anti-fraud) e como u
 
 ## Proteção contra ataques de transações
 
-Para acessar a documentação sobre este assunto, insira abaixo seu [nome de conta](/pt/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC) VTEX, clique no botão e faça login no Admin.
+Para acessar a documentação sobre este assunto, insira abaixo seu [nome de conta](/pt/docs/tutorials/o-que-e-account-name) VTEX, clique no botão e faça login no Admin.
 
 <iframe src="https://vtexhelp.myvtex.com/insertaccountname?id=62oQBmi7UZlYlgb0Ha1hZ3" title="Insira seu nome de conta e clique no botão." frameBorder="0" width="400" height="50"></iframe>
 
@@ -47,11 +47,11 @@ Recomendamos o uso do [reCAPTCHA v3](/pt/tutorial/using-recaptcha-at-checkout--1
 
 Saiba mais sobre como configurar esta validação no Checkout da sua loja em [reCAPTCHA no Checkout](/pt/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP#). Para a implementação do reCAPTCHA V3 em uma loja VTEX, consulte o guia para desenvolvedores [reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha#recaptcha-v3-score).
 
-> ℹ️ No fluxo de [cadastro de cartões](/pt/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#cartoes) dos clientes da loja na página [Minha Conta](/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh), a validação por reCAPTCHA está ativa por padrão, sem a necessidade de configuração por parte dos lojistas.
+> ℹ️ No fluxo de [cadastro de cartões](/pt/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#cartoes) dos clientes da loja na página [Minha Conta](/pt/docs/tutorials/como-funciona-a-minha-conta), a validação por reCAPTCHA está ativa por padrão, sem a necessidade de configuração por parte dos lojistas.
 
 ## Configurações do orderForm
 
-Para acessar a documentação sobre este assunto, insira abaixo seu [nome de conta](/pt/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC) VTEX, clique no botão e faça login no Admin.
+Para acessar a documentação sobre este assunto, insira abaixo seu [nome de conta](/pt/docs/tutorials/o-que-e-account-name) VTEX, clique no botão e faça login no Admin.
 
 <iframe src="https://vtexhelp.myvtex.com/insertaccountname?id=7EAqNk48KP2QHnCxu856jT" title="Insira seu nome de conta e clique no botão." frameBorder="0" width="400" height="50"></iframe>
 

@@ -20,7 +20,7 @@ tags:
   - Master Data
 ---
 
-Uma [promoção personalizada](/pt/tutorial/criando-promocao-para-um-cluster-de-clientes) pode ser configurada para atender a um grupo específico de usuários em sua loja, ou seja, um [cluster de clientes](/pt/tutorial/como-criar-um-cluster-de-clientes--frequentlyAskedQuestions_1724). No entanto, podem ocorrer situações em que a promoção não é exibida corretamente para este público segmentado. As principais causas são:
+Uma [promoção personalizada](/pt/tutorial/criando-promocao-para-um-cluster-de-clientes) pode ser configurada para atender a um grupo específico de usuários em sua loja, ou seja, um [cluster de clientes](/pt/docs/tutorials/como-criar-um-cluster-de-clientes). No entanto, podem ocorrer situações em que a promoção não é exibida corretamente para este público segmentado. As principais causas são:
 
 - Ausência ou cadastro incorreto do valor do cluster durante a configuração da promoção.
 - Inconsistência entre os valores cadastrados na promoção e os valores atribuídos nos perfis dos clientes.
@@ -59,6 +59,6 @@ Para resolver este caso, você poderia realizar uma das seguintes ações:
 
 - Alterar a opção __Cluster de clientes__ para a condição __Pelo menos um dos seguintes__, permitindo que clientes identificados como __funcionário__ ou com código __platinum__ possam acessar a promoção.
 
-- Manter a opção __Cluster de clientes__ com a condição __Todos os seguintes__ e atualizar os cadastros dos clientes desejados por meio do [Master Data](/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) para incluir ambos os critérios: ser __funcionário__ e estar classificado na categoria __platinum__.
+- Manter a opção __Cluster de clientes__ com a condição __Todos os seguintes__ e atualizar os cadastros dos clientes desejados por meio do [Master Data](/pt/docs/tutorials/master-data) para incluir ambos os critérios: ser __funcionário__ e estar classificado na categoria __platinum__.
 
 - Manter a opção __Cluster de clientes__ com a condição __Todos os seguintes__ e declarar outros valores que estejam atualmente presentes nos clientes aos quais deseja exibir a promoção.

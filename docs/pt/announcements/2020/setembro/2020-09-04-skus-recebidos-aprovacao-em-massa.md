@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Agora é possível selecionar até 25 SKUs em massa no painel SKUs Recebidos. Também criamos uma API nova para isso.'
 ---
 
-Marketplaces gerenciam os produtos de seus sellers a partir do painel [SKUs Recebidos](/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396). É por lá que podem revisar e aprovar os produtos enviados por sellers. No painel é possível selecionar SKUs de forma massiva, aprovando ou rejeitando itens de uma só vez. 
+Marketplaces gerenciam os produtos de seus sellers a partir do painel [SKUs Recebidos](/pt/docs/tutorials/sugerindo-e-aprovando-skus). É por lá que podem revisar e aprovar os produtos enviados por sellers. No painel é possível selecionar SKUs de forma massiva, aprovando ou rejeitando itens de uma só vez. 
 
 ## O que mudou?
 

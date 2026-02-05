@@ -31,7 +31,7 @@ pagamentos.
 
 ## Criar conta no Seller Portal
 
-O processo de criação de conta no Seller Portal começa com o [convite enviado pelo  marketplace](/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A). Uma vez recebido o convite por email, existem dois fluxos possíveis para a criação de conta, que dependem da sua loja já ser hospedada na VTEX ou não. Siga os passos da opção que se aplica ao seu contexto:
+O processo de criação de conta no Seller Portal começa com o [convite enviado pelo  marketplace](/pt/docs/tutorials/marketplace-convite-de-sellers). Uma vez recebido o convite por email, existem dois fluxos possíveis para a criação de conta, que dependem da sua loja já ser hospedada na VTEX ou não. Siga os passos da opção que se aplica ao seu contexto:
 
 - [Criar conta para seller VTEX](#conectar-conta-vtex-no-marketplace): loja hospedada na plataforma VTEX.    
 - [Criar conta para seller externo](#criar-conta-para-seller-externo): loja hospedada em outra plataforma de ecommerce, ou que ainda não está hospedada em nenhuma plataforma.    
@@ -72,5 +72,5 @@ A **URL do Seller Portal** indicada é o link que você usará para acessar sua 
 
 ___________________
 
-Uma vez concluídos esses passos, é necessário [configurar seu Seller Portal,](/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) e aguardar até que o [marketplace ative sua loja](/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#conectar-seller).
+Uma vez concluídos esses passos, é necessário [configurar seu Seller Portal,](/pt/docs/tutorials/seller-portal-primeiros-passos) e aguardar até que o [marketplace ative sua loja](/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#conectar-seller).
 

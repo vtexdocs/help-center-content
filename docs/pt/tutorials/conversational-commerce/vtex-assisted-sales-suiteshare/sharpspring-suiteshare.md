@@ -47,4 +47,4 @@ Agora que você tem acesso às chaves da API, basta selecionar o link que deseja
 
 Pronto! Você acabou de integrar a VTEX Assisted Sales (SuiteShare) com o seu CRM. 
 
-Quer saber como analisar os dados e de onde estão vindo os seus leads? Acesse nosso artigo sobre [analisar](/pt/tutorial/analisar--2CXK5aUzKMpaV3RAVSYj1).
+Quer saber como analisar os dados e de onde estão vindo os seus leads? Acesse nosso artigo sobre [analisar](/pt/docs/tutorials/analisar-suiteshare).

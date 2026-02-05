@@ -22,33 +22,33 @@ Há duas formas de realizar a alteração de um pedido:
 * [Admin VTEX:](#como-alterar) é possível se o status do pedido estiver como `Preparando entrega`.
 * [API de alteração de pedidos:](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/changes) é possível, além de alterar itens, criar descontos e mudar o preço do pedido. A alteração só é possível se o status do pedido na API de pedidos for `handling` ou `waiting-for-fulfillment`.
 
-> ⚠️ Após a alteração, o cliente recebe uma notificação por email caso o template `Change of information` ([ template de emails transacionais referentes ao pedido](/pt/tutorial/templates-de-emails-transacionais--3g2S2kqBOoSGcCaqMYK2my)) esteja habilitado na Central de Mensagens. O cliente recebe as mensagens com as informações que foram preenchidas no formulário de alteração de itens.
+> ⚠️ Após a alteração, o cliente recebe uma notificação por email caso o template `Change of information` ([ template de emails transacionais referentes ao pedido](/pt/docs/tutorials/templates-de-emails-transacionais)) esteja habilitado na Central de Mensagens. O cliente recebe as mensagens com as informações que foram preenchidas no formulário de alteração de itens.
 
 ## Cuidados e limitações
 
 Antes de realizar as alterações no pedido, fique atento às restrições da funcionalidade:
 
-* Só é possível alterar pedidos de [Multilevel Omnichannel Inventory](/pt/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4) quando são feitos em [marketplaces externos](https://developers.vtex.com/docs/guides/change-orders-multilevel-omnichannel-inventory-external-marketplaces).
-* Não é possível alterar [pedidos incompletos](/pt/tutorial/entendendo-os-pedidos-incompletos--tutorials_294).
+* Só é possível alterar pedidos de [Multilevel Omnichannel Inventory](/pt/docs/tutorials/multilevel-omnichannel-inventory) quando são feitos em [marketplaces externos](https://developers.vtex.com/docs/guides/change-orders-multilevel-omnichannel-inventory-external-marketplaces).
+* Não é possível alterar [pedidos incompletos](/pt/docs/tutorials/entendendo-os-pedidos-incompletos).
 * Um pedido pode ser alterado até 50 vezes.
 * Não é possível aplicar descontos que sejam iguais ou maiores que o valor do pedido. 
 * A solicitação de alteração só ocorre se houver mudanças na quantidade de itens ou substituição de pelo menos um SKU do pedido.
 * Não é permitido alterar itens que não são do próprio marketplace ou de uma conta franquia.
-* É preciso que o [adquirente](/pt/tutorial/o-que-e-um-adquirente--7N1oRTG8dGmOiIugC0cs4E) aceite o novo valor da operação para que a alteração ocorra.
-* O acréscimo de valores só é permitido se pedido foi pago pelas condições de pagamento **Promissory** ou **CardPromissory** (disponíveis no Admin em **Configurações da loja > Pagamentos > Configurações > Condições de pagamento**), [dinheiro](/pt/tutorial/como-configurar-pagamento-customizado--tutorials_451) ou [controle de crédito](/pt/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0). Além disso, o [adquirente ](/pt/tutorial/o-que-e-um-adquirente--7N1oRTG8dGmOiIugC0cs4E)deve permitir a operação sem o uso de CVV e duas operações de cobrança em um mesmo pedido.
-* A [reserva](/pt/tutorial/como-a-reserva-funciona--tutorials_92)dos itens no inventário não é automática. É preciso atualizar manualmente a quantidade de itens que ainda estão disponíveis no [inventário](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).
-* Não é possível [cancelar pedidos](/pt/tutorial/como-cancelar-pedido--tutorials_186) que já tenham sido [faturados parcialmente](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível alterar o pedido.
+* É preciso que o [adquirente](/pt/docs/tutorials/o-que-e-um-adquirente) aceite o novo valor da operação para que a alteração ocorra.
+* O acréscimo de valores só é permitido se pedido foi pago pelas condições de pagamento **Promissory** ou **CardPromissory** (disponíveis no Admin em **Configurações da loja > Pagamentos > Configurações > Condições de pagamento**), [dinheiro](/pt/docs/tutorials/como-configurar-pagamento-customizado) ou [controle de crédito](/pt/docs/tutorials/customer-credit-visao-geral). Além disso, o [adquirente ](/pt/docs/tutorials/o-que-e-um-adquirente)deve permitir a operação sem o uso de CVV e duas operações de cobrança em um mesmo pedido.
+* A [reserva](/pt/docs/tutorials/como-a-reserva-funciona)dos itens no inventário não é automática. É preciso atualizar manualmente a quantidade de itens que ainda estão disponíveis no [inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque).
+* Não é possível [cancelar pedidos](/pt/docs/tutorials/como-cancelar-pedido) que já tenham sido [faturados parcialmente](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível alterar o pedido.
 * Não é possível alterar um pedido com a transação finalizada. Para alterações no valor do pedido com desconto, por exemplo, o OMS leva em considera que ainda é possível alterar o valor da transação se o status mostrado em Detalhes da transação é diferente de `Finished`, mesmo se o valor já tenha sido liquidado.  
-* Não é possível fazer alterações em pedidos vindos de [marketplaces integrados com a VTEX](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) (tanto conectores nativos ou conectores de parceiros).
+* Não é possível fazer alterações em pedidos vindos de [marketplaces integrados com a VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex) (tanto conectores nativos ou conectores de parceiros).
 * É possível alterar apenas pedidos que foram para manuseio, no status *Preparando entrega*.
 * Para alterações em que há mudança para um valor superior em relação ao valor inicial do pedido:
-    * Caso o [conector](/pt/tutorial/o-que-e-conector--3lze0Cu0bmyC6u2o2iaeEA) não permita alterações no valor do pedido (para valores maiores), uma nova transação será realizada com o valor excedente. Desta forma, a transação não terá vínculo com o pedido original. Se uma consulta for necessária, faça uma busca das transações com base no valor, data da alteração e nome do cliente.
+    * Caso o [conector](/pt/docs/tutorials/o-que-e-conector) não permita alterações no valor do pedido (para valores maiores), uma nova transação será realizada com o valor excedente. Desta forma, a transação não terá vínculo com o pedido original. Se uma consulta for necessária, faça uma busca das transações com base no valor, data da alteração e nome do cliente.
     * A liquidação dos valores adicionais ocorre somente após  o faturamento do pedido. Portanto, tenha cuidado com esse tipo de operação, pois esta está suscetível a fraudes e golpes, visto que os valores adicionais só serão liquidados posteriormente.
 
 ## Como alterar
 
 1. No Admin VTEX, acesse **Pedidos > Todos os pedidos**, ou digite **Todos os pedidos** na barra de busca no topo da página.      
-2. Busque o pedido pela barra de busca ou [utilizando os filtros](/pt/tutorial/como-filtrar-pedidos--tutorials_192) e selecione o pedido desejado.      
+2. Busque o pedido pela barra de busca ou [utilizando os filtros](/pt/docs/tutorials/filtrar-todos-pedidos) e selecione o pedido desejado.      
 3. Clique no pedido para acessar a página de **Detalhes do pedido**.  
 
     > Apenas pedidos no status Preparando entrega podem ser alterados. Somente altere o status do pedido após obter a sua confirmação da operação do seu ecommerce. Caso seu pedido não esteja no status Preparando entrega, na seção Status do pedido, clique em **Iniciar manuseio** > marque as caixas de seleção > clique **Avançar com status**. 
@@ -71,4 +71,4 @@ Ao alterar ou remover itens de um pedido, o valor total do pedido é alterado. N
 
 O valor total do pedido será atualizado após a inserção da nota fiscal, e corresponde ao que é captado pelo gateway de pagamentos da VTEX. Caso um item seja devolvido, o sistema de Pagamentos da VTEX fará o estorno automaticamente ao cliente.
 
-> ℹ️ A funcionalidade faturas parciais está disponível para toda a base de clientes VTEX, mas a liquidação parcial no gateway está em fase Beta. Além disso, para que as faturas parciais inseridas nos pedidos disparem liquidações parciais na transação, é necessário usar um conector que utiliza o [Payment Provider Protocol](/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). Conectores legados não possuem suporte à funcionalidade.
+> ℹ️ A funcionalidade faturas parciais está disponível para toda a base de clientes VTEX, mas a liquidação parcial no gateway está em fase Beta. Além disso, para que as faturas parciais inseridas nos pedidos disparem liquidações parciais na transação, é necessário usar um conector que utiliza o [Payment Provider Protocol](/pt/docs/tutorials/payment-provider-protocol). Conectores legados não possuem suporte à funcionalidade.

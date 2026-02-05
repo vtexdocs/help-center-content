@@ -19,7 +19,7 @@ Este artigo descreve os agentes colaboradores oficiais da Weni by VTEX e informa
 
 | Agentes oficiais | Descrição | Credenciais necessárias |
 | :-------------: | :------------- | :------------- |
-| Order Status (Pick and Pack) | Fornece detalhes sobre pedidos processados pelo [VTEX Pick and Pack](/pt/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU), como informações sobre pagamento e rastreio. | `Pick and Pack API Key`: Token da API do [Pick and Pack](https://help.vtex.com/pt/docs/tutorials/vtex-pick-and-pack-configuracoes#chave-de-api). |
+| Order Status (Pick and Pack) | Fornece detalhes sobre pedidos processados pelo [VTEX Pick and Pack](/pt/docs/tutorials/vtex-pick-and-pack), como informações sobre pagamento e rastreio. | `Pick and Pack API Key`: Token da API do [Pick and Pack](https://help.vtex.com/pt/docs/tutorials/vtex-pick-and-pack-configuracoes#chave-de-api). |
 | Reverse Agent (Aftersale) | Retorna informações sobre trocas e devoluções a partir do número do pedido. | `Token Aftersale API`: token da API do Aftersale. |
 | Order Cancellation (VTEX) | Responsável exclusivamente pelo cancelamento de pedidos. Ao adicioná-lo, o cancelamento de pedidos é habilitado; ao removê-lo, essa opção é desativada.  | -- |
 | Utility Agent | Fornece diversas informações com base nas conversas com clientes, como previsão do tempo, conversão entre moedas e identificação do endereço a partir do CEP.  | -- |

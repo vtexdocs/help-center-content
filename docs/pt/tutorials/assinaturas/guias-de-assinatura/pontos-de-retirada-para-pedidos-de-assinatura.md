@@ -17,22 +17,22 @@ subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 
 Um ponto de retirada é um local físico onde o cliente tem a opção de retirar o seu pedido, em vez de recebê-lo em casa. Um cenário para essa funcionalidade é a retirada em loja física, por exemplo.
 
-Além dos pedidos comuns, você pode disponibilizar pontos de retirada para pedidos de assinaturas, caso utilize o [módulo de Assinaturas](/pt/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj).
+Além dos pedidos comuns, você pode disponibilizar pontos de retirada para pedidos de assinaturas, caso utilize o [módulo de Assinaturas](/pt/docs/tutorials/como-configurar-assinaturas).
 
 Veja abaixo o que é necessário para habilitar essa funcionalidade.
 
 - [Requisitos](#requisitos)
 - [Escolher pontos de retirada](#escolher-pontos-de-retirada)
 
-> ℹ️ A funcionalidade de pontos de retirada está disponível apenas para as contas que já têm acesso ao [Checkout V6](/pt/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH).
+> ℹ️ A funcionalidade de pontos de retirada está disponível apenas para as contas que já têm acesso ao [Checkout V6](/pt/docs/tutorials/ativar-o-checkout-v6).
 
 ## Requisitos
 
 Para disponibilizar pontos de retirada para pedidos de assinatura, é necessário cumprir os requisitos logísticos listados abaixo.
 
-*   Você precisa ter o [módulo de Assinaturas](/pt/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj) instalado e a opção de pontos de retirada habilitada. Para isso, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
-*   É necessário configurar pontos de retirada na sua loja. Apenas pontos de retirada da loja principal ou de franquias (Sellers White Label) podem ser utilizados em pedidos de assinaturas. Para saber como fazer a configuração, leia o artigo [Configurar Pontos de Retirada (Pickup Points)](/pt/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).
-*   As transportadoras associadas aos pontos de retirada de pedidos de assinatura **não** podem ter [janelas de entrega](/pt/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi) configuradas.
+*   Você precisa ter o [módulo de Assinaturas](/pt/docs/tutorials/como-configurar-assinaturas) instalado e a opção de pontos de retirada habilitada. Para isso, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
+*   É necessário configurar pontos de retirada na sua loja. Apenas pontos de retirada da loja principal ou de franquias (Sellers White Label) podem ser utilizados em pedidos de assinaturas. Para saber como fazer a configuração, leia o artigo [Configurar Pontos de Retirada (Pickup Points)](/pt/docs/tutorials/cadastro-de-pontos-de-retirada).
+*   As transportadoras associadas aos pontos de retirada de pedidos de assinatura **não** podem ter [janelas de entrega](/pt/docs/tutorials/entrega-agendada) configuradas.
 *   Os itens precisam ter estoque na data do ciclo de assinatura, ou seja, no momento em que os pedidos recorrentes são criados.
 
 ## Escolher pontos de retirada
@@ -47,6 +47,6 @@ Para descobrir os pontos de retirada disponíveis perto de um CEP ou de determin
 
 ## Artigos relacionados
 
-*   [Como configurar Assinaturas na sua loja](/pt/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj)
-*   [Configurar Pontos de Retirada (Pickup Points)](/pt/tutorial/configurar-pontos-de-retirada-pickup-points--2R5ClQiwe4KoSQgsuiOw4E)
+*   [Como configurar Assinaturas na sua loja](/pt/docs/tutorials/como-configurar-assinaturas)
+*   [Configurar Pontos de Retirada (Pickup Points)](/pt/docs/tutorials/cadastro-de-pontos-de-retirada)
 *   [Configurar Seller White Label como Ponto de Retirada (Pickup Point)](/pt/tutorial/setting-up-seller-white-label-as-a-pickup-point--6fSUE2O0taaoKieAaiuc4e)

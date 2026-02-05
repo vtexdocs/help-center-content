@@ -21,15 +21,15 @@ No Admin VTEX, acesse **Pedidos > Todos os pedidos**, ou digite **Todos os pedid
 
 ## Página Todos os pedidos
 
-Na página [Todos os pedidos](/pt/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi), a coluna **ID do pedido** apresenta a identificação do pedido. Pedidos feitos em marketplace tem o sufixo `-01`, por exemplo. 
+Na página [Todos os pedidos](/pt/docs/tutorials/todos-os-pedidos), a coluna **ID do pedido** apresenta a identificação do pedido. Pedidos feitos em marketplace tem o sufixo `-01`, por exemplo. 
 
 Na coluna **Origem**, também existe a identificação `Marketplace` quando se trata de um pedido feito em marketplace.
 
 ## Página de detalhes do pedido
 
-Na [página de detalhes do pedido](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), na seção **Pagamento**, é possível identificar o nome do vendedor do pedido.
+Na [página de detalhes do pedido](/pt/docs/tutorials/pagina-de-detalhes-do-pedido), na seção **Pagamento**, é possível identificar o nome do vendedor do pedido.
 
 ### Artigos relacionados
 
-- [Fluxo e status de pedidos](/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196)
+- [Fluxo e status de pedidos](/pt/docs/tutorials/fluxo-e-status-de-pedidos)
 - [Por que o pedido foi fechado com um preço errado?](/pt/faq/por-que-o-pedido-foi-fechado-com-um-preco-errado--frequentlyAskedQuestions_708)

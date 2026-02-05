@@ -81,7 +81,7 @@ Para solucionar esse erro, veja as instruções a seguir:
 
 ### Verificar se o perfil de acesso do usuário tem as permissões necessárias
 
-Um possível motivo para esse problema pode estar relacionado à falta do [recurso](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `CMS GraphQL API` do License Manager em um [perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) para gerenciamento de conteúdo. 
+Um possível motivo para esse problema pode estar relacionado à falta do [recurso](/pt/docs/tutorials/recursos-do-license-manager) `CMS GraphQL API` do License Manager em um [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) para gerenciamento de conteúdo. 
 
 Certifique-se de que os usuários tenham o recurso `CMS GraphQL API` associado a seus perfis de acesso, seja [criando um novo perfil](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) ou editando um existente.
 

@@ -44,7 +44,7 @@ Na seção Templates de Email, você pode personalizar modelos de email e defini
 Na seção Envio, você pode definir as configurações gerais de envio, geolocalização e feriados. Essa seção inclui as páginas abaixo, que em breve serão incluídas no Admin v4.
 
 -	[Configurações](/pt/subcategory/inventory-and-shipping-settings--1UL6Q7nUN6SkA2g2SUsECi#)  
--	[Envio por Geolocalização](/pt/tutorial/registering-geolocation--tutorials_138)  
+-	[Envio por Geolocalização](/pt/docs/tutorials/gerenciar-geolocalizacao)  
 -	[Feriados](/pt/tutorial/registering-holidays--2ItOthSEAoyAmcwsuiO6Yk#)  
 
 ## Produtos
@@ -66,8 +66,8 @@ Na seção Storefront, você pode ajustar as configurações gerais da interface
 ## Canais
 A seção Canais inclui a página Canais de Vendas, onde você pode definir configurações de catálogo, preços, promoções, logística, segmentação de clientes e condições de pagamento para diferentes estratégias de vendas. Aqui, você também pode configurar as suas integrações XML. Essa seção inclui as páginas abaixo, que em breve serão incluídas no Admin v4.
 
-- [Canais de Vendas](/pt/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) (chamadas anteriormente de "políticas comerciais" na VTEX)  
-- [Integração XML](/pt/tutorial/configurando-xml--tutorials_242)
+- [Canais de Vendas](/pt/docs/tutorials/como-funciona-uma-politica-comercial) (chamadas anteriormente de "políticas comerciais" na VTEX)  
+- [Integração XML](/pt/docs/tutorials/configurando-xml)
 
 ## Intelligent Search
 Na seção Intelligent Search, você pode definir as configurações gerais da busca inteligente e suas integrações. Essa seção inclui as páginas abaixo, que em breve serão incluídas no Admin v4.

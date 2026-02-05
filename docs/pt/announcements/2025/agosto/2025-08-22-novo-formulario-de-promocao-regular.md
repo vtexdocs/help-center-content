@@ -35,4 +35,4 @@ A atualização do formulário tem como objetivo tornar a criação e o gerencia
 ## O que precisa ser feito?
 Nenhuma ação por parte das lojas é necessária. O novo formulário estará disponível a partir de 22/08/2025 em todas as contas VTEX.
 
-Para mais informações, acesse a [Promoção Regular](/pt/tutorial/promocao-regular-pt--tutorials_327).
+Para mais informações, acesse a [Promoção Regular](/pt/docs/tutorials/promocao-regular-pt).

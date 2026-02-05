@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 4HBbKdnwneGew2qGGykSM8
 ---
 
-A página **SKUs recebidos** permite que o [marketplace](/pt/tutorial/visao-geral-marketplace--40Zd0z9h2RXsM9uMUp3kEb) visualize, priorize e catalogue os itens enviados pelos seus sellers. Dessa maneira, é possível criar novos produtos e também associá-los a SKUs ou a produtos já existentes para disponibilizá-los para venda. Acesse a página no Admin VTEX em **Marketplace > SKUs recebidos**  ou digite **SKUs recebidos** na barra de busca do Admin.  
+A página **SKUs recebidos** permite que o [marketplace](/pt/docs/tutorials/visao-geral-marketplace) visualize, priorize e catalogue os itens enviados pelos seus sellers. Dessa maneira, é possível criar novos produtos e também associá-los a SKUs ou a produtos já existentes para disponibilizá-los para venda. Acesse a página no Admin VTEX em **Marketplace > SKUs recebidos**  ou digite **SKUs recebidos** na barra de busca do Admin.  
 
 A catalogação pode ser feita manualmente ou automaticamente, [por meio de um ou mais matchers](/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher), e também pelo [autoApprove](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions/#put-/suggestions/configuration/autoapproval/toggle). Além disso, também existe a possibilidade de usar ferramentas externas para realizar essa operação.  
 
@@ -121,7 +121,7 @@ Nesse caso, os itens serão ordenados de forma crescente ou decrescente ao clica
 
 ## Catalogação de itens
 
-Todos os SKUs exibidos na lista já estão disponíveis para catalogação. Entretanto, recomenda-se realizar o [mapeamento de categorias e marcas](/pt/tutorial/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta--6NU8LwR6i0tTb8nk30bnbE) antes desse passo para que o processo de catalogação seja mais rápido.  
+Todos os SKUs exibidos na lista já estão disponíveis para catalogação. Entretanto, recomenda-se realizar o [mapeamento de categorias e marcas](/pt/docs/tutorials/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta) antes desse passo para que o processo de catalogação seja mais rápido.  
 
 > ⚠️ Os anúncios presentes na seção Pendentes permanecem disponíveis por apenas 30 dias. Depois desse período, elas expiram automaticamente e o Seller precisará enviar novamente.  
 

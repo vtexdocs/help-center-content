@@ -46,7 +46,7 @@ Siga as instruções abaixo para criar uma nova chave de API:
 2. Certifique-se de que você está na aba **Geradas**.  
 3. Clique em `+ Gerar chave`.  
 4. Preencha o campo **Identificação da chave** com o nome para identificar a chave de API. Este campo é obrigatório.  
-5. Selecione os [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) que serão associados à chave. Por padrão, nenhum perfil de acesso é pré-selecionado.
+5. Selecione os [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) que serão associados à chave. Por padrão, nenhum perfil de acesso é pré-selecionado.
 
    > ℹ️ Marque apenas os perfis de acesso necessários para a integração que utilizará a chave de API. O uso irrestrito de perfis de acesso muito permissivos aumenta o risco de ataques nas lojas por vazamento de credenciais de login.
 
@@ -93,7 +93,7 @@ Siga o passo a passo abaixo para inativar ou ativar uma chave de API:
 
 ## Renovar token
 
-Renovar o token de API com frequência é crucial para manter a segurança da sua loja. Para garantir a proteção contínua, faça a renovação antes mesmo de receber o [alerta](/pt/tutorial/configurar-alerta-para-renovar-tokens-de-api) para isso. Siga as instruções descritas em [Renovar token de API](/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3).
+Renovar o token de API com frequência é crucial para manter a segurança da sua loja. Para garantir a proteção contínua, faça a renovação antes mesmo de receber o [alerta](/pt/tutorial/configurar-alerta-para-renovar-tokens-de-api) para isso. Siga as instruções descritas em [Renovar token de API](/pt/docs/tutorials/renovar-token-de-api).
 
 ## Excluir chave
 
@@ -111,7 +111,7 @@ Para excluir uma chave de API de forma definitiva, siga os passos abaixo:
 
 ## Saiba mais
 
-* [Chaves de API](/pt/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6)  
-* [Renovar token de API](/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3)
+* [Chaves de API](/pt/docs/tutorials/chaves-de-api)  
+* [Renovar token de API](/pt/docs/tutorials/renovar-token-de-api)
 * [Configurar alerta para renovar tokens de API](/pt/tutorial/configurar-alerta-para-renovar-tokens-de-api)  
-* [Chaves externas](/pt/tutorial/chaves-externas--1isU0HfKkeg0atlxRha14Q)
+* [Chaves externas](/pt/docs/tutorials/chaves-externas)

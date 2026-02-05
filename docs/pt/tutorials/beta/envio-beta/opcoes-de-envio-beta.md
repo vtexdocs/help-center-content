@@ -21,7 +21,7 @@ A **Opções de envio** é uma página do Admin VTEX que permite configurar ofer
 
 Assim, os lojistas ganham autonomia para criar, configurar e gerenciar opções de entrega como um conteúdo estratégico dentro da plataforma VTEX. Essa abordagem oferece mais flexibilidade para alinhar as capacidades logísticas com os objetivos comerciais, aprimorando a experiência de compra dos clientes.
 
-As opções de envio consomem as informações já cadastradas nas [políticas de envio](/pt/tutorial/politica-de-envio--tutorials_140) da loja. Caso não tenha essas configurações definidas ou nenhuma atende às metas de prazos das opções de envio, leia o artigo [Criar uma política de envio](/pt/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT).
+As opções de envio consomem as informações já cadastradas nas [políticas de envio](/pt/docs/tutorials/politica-de-envio) da loja. Caso não tenha essas configurações definidas ou nenhuma atende às metas de prazos das opções de envio, leia o artigo [Criar uma política de envio](/pt/docs/tutorials/criar-uma-politica-de-envio).
 
 Esta página permite que você realize as seguintes ações:
 
@@ -55,7 +55,7 @@ Para criar uma nova opção de envio, siga os passos abaixo.
   ![delivery-options-form-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_2.png)
    - **Método de envio:** selecione o tipo de método de envio (**Entrega**, **Entrega agendada**, **Retirada**, **Retirada agendada**).
    - **Nome da opção:** digite o nome da opção que será visualizada pelo cliente durante a compra.
-   - **Usar opção como filtro na vitrine da loja**: ative para permitir que os clientes filtrem os produtos por esta opção de envio por meio dos [filtros do Intelligent Search](/pt/tutorial/filtros--k24mQQa9SjmhNWSwdqIMB).
+   - **Usar opção como filtro na vitrine da loja**: ative para permitir que os clientes filtrem os produtos por esta opção de envio por meio dos [filtros do Intelligent Search](/pt/docs/tutorials/filtros).
 
    > ⚠️ Os filtros de métodos de envio somente serão exibidos na listagem de produtos ao cliente se esta opção estiver ativada. Caso desativada, os filtros não serão exibidos.
 

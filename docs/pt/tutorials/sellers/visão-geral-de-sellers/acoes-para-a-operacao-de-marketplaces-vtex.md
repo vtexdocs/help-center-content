@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 5tlIjp0ZkAU4EIk4OgyEmm
 ---
 
-A arquitetura da VTEX permite que as lojas hospedadas na sua plataforma anunciem produtos de outras lojas, sejam elas VTEX ou não. Quando uma loja VTEX passa a vender produtos de outros sellers, ela se torna um marketplace VTEX. Saiba mais sobre as possibilidades desse modelo de negócio em [Estratégias de marketplace na VTEX](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402).
+A arquitetura da VTEX permite que as lojas hospedadas na sua plataforma anunciem produtos de outras lojas, sejam elas VTEX ou não. Quando uma loja VTEX passa a vender produtos de outros sellers, ela se torna um marketplace VTEX. Saiba mais sobre as possibilidades desse modelo de negócio em [Estratégias de marketplace na VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex).
 
-Após [configurar seu ambiente VTEX](/pt/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb) para se tornar um marketplace, é preciso realizar as operações de rotina necessárias para a operação de um marketplace. Sugerimos incluir as ferramentas abaixo, desenvolvidas pela VTEX, na rotina do seu time. Para cada uma das ações na sua operação, indicaremos quais funcionalidades da VTEX você utilizará:
+Após [configurar seu ambiente VTEX](/pt/docs/tutorials/configurar-marketplace-vtex) para se tornar um marketplace, é preciso realizar as operações de rotina necessárias para a operação de um marketplace. Sugerimos incluir as ferramentas abaixo, desenvolvidas pela VTEX, na rotina do seu time. Para cada uma das ações na sua operação, indicaremos quais funcionalidades da VTEX você utilizará:
 
 - [Realizar o ‘Hunting’ de sellers](#realizar-o-hunting-de-sellers)  
 - [Analisar resultados de sellers](#analisar-resultados-de-sellers)  
@@ -28,7 +28,7 @@ Após [configurar seu ambiente VTEX](/pt/tutorial/configurar-marketplace-vtex--7
 - [Gerenciar pedidos](#gerenciar-pedidos)  
 
 ## Realizar o ‘Hunting’ de sellers
-Ao planejar a sua operação enquanto marketplace VTEX, inclua um período no seu planejamento para identificar e recrutar um número determinado de [sellers](/pt/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv) que cubram a variedade de produtos, disponibilidade de estoque e área de cobertura logística desejadas. Além disso, é importante evoluir e expandir a sua carteira de sellers de forma contínua, para garantir que haja sempre um fluxo saudável de novos sellers que complementem o seu sortimento de produtos e serviços.
+Ao planejar a sua operação enquanto marketplace VTEX, inclua um período no seu planejamento para identificar e recrutar um número determinado de [sellers](/pt/docs/tutorials/gerenciamento-de-sellers) que cubram a variedade de produtos, disponibilidade de estoque e área de cobertura logística desejadas. Além disso, é importante evoluir e expandir a sua carteira de sellers de forma contínua, para garantir que haja sempre um fluxo saudável de novos sellers que complementem o seu sortimento de produtos e serviços.
 
 Se quiser encontrar novos sellers para venderem em seu marketplace, utilize o __Encontrar sellers__, que facilita a identificação e o contato entre marketplaces e sellers que operam no ecossistema VTEX. Para acessar essa página, em seu Admin VTEX, vá para **Markeplace > Sellers > Encontrar sellers.**
 
@@ -36,13 +36,13 @@ Para acrescentar novos sellers ao seu marketplace pelo Admin VTEX, siga as instr
 
 ## Analisar resultados de sellers
 
-A página [Performance de Vendas](/pt/tutorial/sales-performance--3DMube0sEsK9vPcRYGas72) no seu Admin VTEX é um painel de controle para o comércio unificado que ajuda as lojas a ampliarem seu negócio e tomarem decisões com mais precisão. O painel facilita o processo de “farming” de sellers, ou seja, permite que marketplaces analisem dados dos pedidos da sua loja e de seus sellers para que monitorem a saúde do seu negócio, entendam motivos de variações no volume de vendas ou na taxa de conversão, e encontrem oportunidades de melhoria nos resultados de sellers específicos. 
+A página [Performance de Vendas](/pt/docs/tutorials/performance-de-vendas) no seu Admin VTEX é um painel de controle para o comércio unificado que ajuda as lojas a ampliarem seu negócio e tomarem decisões com mais precisão. O painel facilita o processo de “farming” de sellers, ou seja, permite que marketplaces analisem dados dos pedidos da sua loja e de seus sellers para que monitorem a saúde do seu negócio, entendam motivos de variações no volume de vendas ou na taxa de conversão, e encontrem oportunidades de melhoria nos resultados de sellers específicos. 
 
 Para acessar a página, em seu Admin VTEX, vá para **Dashboards > Performance de Vendas**.  
 
 ## Definir curadoria de anúncios 
 
-O [Seller Portal (Beta)](/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) é uma edição da plataforma VTEX que permite que sellers se conectem e vendam seus produtos em marketplaces. A funcionalidade [Produtos compartilhados](/pt/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu) do Seller Portal permite que marketplaces exportem sua própria arquitetura de catálogo para que sellers possam enviar ofertas para os produtos já presentes no marketplace.
+O [Seller Portal (Beta)](/pt/docs/tutorials/seller-portal-primeiros-passos) é uma edição da plataforma VTEX que permite que sellers se conectem e vendam seus produtos em marketplaces. A funcionalidade [Produtos compartilhados](/pt/docs/tutorials/seller-portal-produtos-compartilhados) do Seller Portal permite que marketplaces exportem sua própria arquitetura de catálogo para que sellers possam enviar ofertas para os produtos já presentes no marketplace.
 
 Essa ferramenta é uma opção recomendada para marketplaces que desejam ter mais controle sobre a curadoria de produtos que ofertam. 
 
@@ -56,11 +56,11 @@ O processo de catalogação é realizado na página [SKUs Recebidos](/pt/tutoria
 
 > ℹ️ Antes de aprovar um anúncio, é importante garantir que as informações de produtos enviadas pelo seller correspondam à estratégia do seu negócio. Ao catalogar anúncios, considere a qualidade das informações enviadas pelo seller, como preço, descrição do produto e imagem.
 
-O [VTEX Matcher](/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424) é a ferramenta usada por marketplaces para avaliar anúncios enviados por sellers e acelerar o processo de catalogação. É possível configurar o VTEX Matcher para que opere sobre regras diferentes da configuração _default_, por meio da [API de Aprovação automática](https://developers.vtex.com/vtex-rest-api/reference/saveaccountconfig).
+O [VTEX Matcher](/pt/docs/tutorials/entendendo-a-pontuacao-do-vtex-matcher) é a ferramenta usada por marketplaces para avaliar anúncios enviados por sellers e acelerar o processo de catalogação. É possível configurar o VTEX Matcher para que opere sobre regras diferentes da configuração _default_, por meio da [API de Aprovação automática](https://developers.vtex.com/vtex-rest-api/reference/saveaccountconfig).
 
 ## Criar promoções
 
-Marketplaces VTEX podem criar uma série de regras para promoções e determinar, de acordo com o contexto da compra, se e como um desconto será aplicado. É possível criar promoções de frete grátis, preço nominal e preço percentual. As promoções podem ser criadas para produtos, coleções ou categorias. Saiba mais em [Configurar promoção para marketplaces](/pt/tutorial/configurar-promocao-para-marketplace--tutorials_406).
+Marketplaces VTEX podem criar uma série de regras para promoções e determinar, de acordo com o contexto da compra, se e como um desconto será aplicado. É possível criar promoções de frete grátis, preço nominal e preço percentual. As promoções podem ser criadas para produtos, coleções ou categorias. Saiba mais em [Configurar promoção para marketplaces](/pt/docs/tutorials/configurar-promocao-para-marketplace).
 
 ## Gerenciar *storefront*
 
@@ -73,5 +73,5 @@ O gerenciamento de pedidos do marketplace está diretamente ligado à satisfaç�
 
 Na plataforma VTEX, a seção **Gerenciamento de Pedidos** permite que sellers e marketplaces acompanhem o [Fluxo de pedidos](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/4811ExCe3WrEiRMV3sy9n8). Durante a consulta de pedidos, é possível diferenciar [pedidos do marketplace e de seus sellers](/pt/tutorial/o-que-sao-pedidos-com-origem-marketplace-e-origem-fulfillment--6eVYrmUAwMOeKICU2KuG06). 
 
-Para [marketplaces que processam pagamentos](/pt/tutorial/pagamentos-em-marketplaces-vtex--2kYOfWCZYweJkYl18bw9yD), é necessário acompanhar o [Fluxo da transação no Pagamentos](/pt/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ). Já os sellers são responsáveis por realizar o [fulfillment](/pt/tutorial/o-que-sao-pedidos-com-origem-marketplace-e-origem-fulfillment--6eVYrmUAwMOeKICU2KuG06#fulfillment) do pedido, portanto, devem [inserir a nota fiscal](/pt/tutorial/como-inserir-a-nota-fiscal) para faturá-lo. 
+Para [marketplaces que processam pagamentos](/pt/docs/tutorials/pagamentos-em-marketplaces-vtex), é necessário acompanhar o [Fluxo da transação no Pagamentos](/pt/docs/tutorials/fluxo-da-transacao-no-pagamentos). Já os sellers são responsáveis por realizar o [fulfillment](/pt/tutorial/o-que-sao-pedidos-com-origem-marketplace-e-origem-fulfillment--6eVYrmUAwMOeKICU2KuG06#fulfillment) do pedido, portanto, devem [inserir a nota fiscal](/pt/tutorial/como-inserir-a-nota-fiscal) para faturá-lo. 
 

@@ -24,7 +24,7 @@ Para configurar uma [regra de merchandising](/pt/tracks/vtex-intelligent-search-
     * **Nome da regra**: nome da regra de merchandising. Exemplo: promover o produto A quando a pesquisa for Biscoito de chocolate.
     * **Data de início (opcional)**: agendamento da data a partir da qual a regra de merchandising será aplicada. A data segue o fuso horário UTC-0.
     * **Data de término (opcional)**: agendamento da data em que a regra de merchandising não será mais aplicada às buscas na loja. A data segue o fuso horário UTC-0.
-    * **Aplicar aos idiomas:** idiomas aos quais a regra de merchandising será aplicada. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma (Beta)](/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+    * **Aplicar aos idiomas:** idiomas aos quais a regra de merchandising será aplicada. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta).
 5. Clique em **Editor visual**. Para mais informações sobre cada editor, confira [Tipos de edição](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao).
 6. Clique em `Próximo`.
 7. Defina ao menos um termo de busca ou um filtro para a aplicação da regra de merchandising:
@@ -36,7 +36,7 @@ Para configurar uma [regra de merchandising](/pt/tracks/vtex-intelligent-search-
     * Ocultar produto nos resultados de busca.
     * Pinar produto, ou seja, fixá-lo nas primeiras posições dos resultados de busca.
     * Arrastar produto pinado para a posição desejada nos resultados de busca.
-    * Editar configurações iniciais da regra de merchandising, que incluem o nome da regra, as datas de início e de término e, caso a loja utilize o [Configurações Multi-idioma (Beta)](/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO), os idiomas aos quais ela será aplicada.
+    * Editar configurações iniciais da regra de merchandising, que incluem o nome da regra, as datas de início e de término e, caso a loja utilize o [Configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta), os idiomas aos quais ela será aplicada.
 
     Saiba mais sobre essas ações nos itens **IV, V, VI, VIII, IX** e **XI** da seção [Ações disponíveis no Editor visual](#acoes-disponiveis-no-editor-visual]).
 9. Clique em `Salvar`.
@@ -72,7 +72,7 @@ O Editor visual de regras de merchandising do VTEX Intelligent Search permite re
     <li class="t-body c-on-base mb5 lh-copy">Arrastar produto pinado para a posição desejada nos resultados de busca. É possível apenas arrastar produtos que foram pinados (ação **IX** nesta lista).</li>
     <li class="t-body c-on-base mb5 lh-copy">Pinar produto, ou seja, fixá-lo nas primeiras posições dos resultados de busca. Ao fixar o produto A e, em seguida, fixar o produto B, eles aparecerão nesta ordem nos resultados de busca, antes dos demais. Para despinar um produto, passe o cursor sobre ele e clique no ícone de alfinete riscado <i class="fas fa-thumbtack"></i>.</li>
     <li class="t-body c-on-base mb5 lh-copy">Navegar entre páginas de resultados de busca.</li>
-    <li class="t-body c-on-base mb5 lh-copy">Editar configurações iniciais da regra de merchandising, que incluem o nome da regra, as datas de início e de término e, caso a loja utilize o [Configurações Multi-idioma (Beta)](/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO), os idiomas aos quais ela será aplicada.</li>
+    <li class="t-body c-on-base mb5 lh-copy">Editar configurações iniciais da regra de merchandising, que incluem o nome da regra, as datas de início e de término e, caso a loja utilize o [Configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta), os idiomas aos quais ela será aplicada.</li>
      <li class="t-body c-on-base mb5 lh-copy">Cancelar edição.</li>
     <li class="t-body c-on-base mb5 lh-copy">Salvar configurações.</li>
 </ol>

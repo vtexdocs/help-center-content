@@ -19,12 +19,12 @@ tags:
   - Fatura
 ---
 
-Ao acompanhar o [fluxo dos pedidos](/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196) da sua loja, você pode se deparar com um pedido que permanece no status `Verificando nota fiscal` por mais tempo do que o esperado. Nesse status, a plataforma checa se o pagamento foi liquidado e se a nota fiscal do pedido foi incluída corretamente, sendo estas condições necessárias para que o pedido avance no fluxo.
+Ao acompanhar o [fluxo dos pedidos](/pt/docs/tutorials/fluxo-e-status-de-pedidos) da sua loja, você pode se deparar com um pedido que permanece no status `Verificando nota fiscal` por mais tempo do que o esperado. Nesse status, a plataforma checa se o pagamento foi liquidado e se a nota fiscal do pedido foi incluída corretamente, sendo estas condições necessárias para que o pedido avance no fluxo.
 
 Quando o pedido permanece no status `Verificando nota fiscal`, isso em geral ocorre pelos seguintes motivos:
 
-* Houve um problema com a [liquidação do pagamento](/pt/tutorial/configurar-tempo-maximo-para-captura-automatica--7dwcaxrcgcFJUk7umqPBw2).
-* A nota fiscal não foi corretamente incluída no pedido ou a [fatura](/pt/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v) foi feita apenas parcialmente. 
+* Houve um problema com a [liquidação do pagamento](/pt/docs/tutorials/configurar-tempo-maximo-para-liquidacao-automatica).
+* A nota fiscal não foi corretamente incluída no pedido ou a [fatura](/pt/docs/tutorials/faturar-um-pedido-manualmente) foi feita apenas parcialmente. 
 
 ## Solução
 
@@ -43,13 +43,13 @@ Confira a seguir casos comuns de erros de fatura de pedidos e conheça as formas
 Para faturar o pedido (total ou parcialmente) ou ajustar os dados da nota fiscal pelo Admin VTEX, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Pedidos > Todos os pedidos**, ou digite **Todos os pedidos** na barra de busca no topo da página.
-2. Clique no pedido desejado. Você pode buscá-lo [utilizando os filtros](/pt/tutorial/como-filtrar-pedidos--tutorials_192).
+2. Clique no pedido desejado. Você pode buscá-lo [utilizando os filtros](/pt/docs/tutorials/filtrar-todos-pedidos).
 3. Na seção **A faturar**, clique em `Faturar`.
 4. Clique na opção desejada, seja ela enviar a nota fiscal avulsa ou referenciando os itens.
 5. Preencha os campos da tela.
 6. Clique em `Salvar nota fiscal`.
 
-> ℹ️ Você encontra o passo a passo detalhado sobre o envio de nota fiscal pelo Admin VTEX no artigo [Como faturar um pedido](/pt/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v). Caso deseje faturar o pedido via API, use o endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
+> ℹ️ Você encontra o passo a passo detalhado sobre o envio de nota fiscal pelo Admin VTEX no artigo [Como faturar um pedido](/pt/docs/tutorials/faturar-um-pedido-manualmente). Caso deseje faturar o pedido via API, use o endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
 
-> ℹ️ Se for necessário realizar ajustes no pedido, é possível [alterar o pedido pelo Admin VTEX](/pt/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw).
+> ℹ️ Se for necessário realizar ajustes no pedido, é possível [alterar o pedido pelo Admin VTEX](/pt/docs/tutorials/como-alterar-pedidos).
 

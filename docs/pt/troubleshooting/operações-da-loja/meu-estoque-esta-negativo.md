@@ -21,7 +21,7 @@ tags:
   - Inventário
 ---
 
-Quando a quantidade disponível de um produto é exibida como negativa, pode ser uma indicação de que há mais itens [reservados](/pt/tutorial/como-a-reserva-funciona--tutorials_92) do que a quantidade total inserida em estoque. Este problema geralmente ocorre ao registrar (dar baixa) em um item de pedido que ainda está reservado pelo sistema.
+Quando a quantidade disponível de um produto é exibida como negativa, pode ser uma indicação de que há mais itens [reservados](/pt/docs/tutorials/como-a-reserva-funciona) do que a quantidade total inserida em estoque. Este problema geralmente ocorre ao registrar (dar baixa) em um item de pedido que ainda está reservado pelo sistema.
 
 ## Solução
 
@@ -35,4 +35,4 @@ Para atualizar a quantidade correta em estoque, realize os seguintes passos abai
 4. Na coluna **Atualizar contagem**, insira a quantidade correta de itens físicos no estoque, considerando a soma dos itens disponíveis mais os itens reservados.
 5. Clique em **Salvar**.
 
-Quando dois ou mais estoques utilizam a mesma [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) e há uma quantidade negativa de unidades em um desses estoques, o SKU será indisponibilizado para venda, mesmo que exista uma quantidade disponível em um dos estoques no [inventário](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).
+Quando dois ou mais estoques utilizam a mesma [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) e há uma quantidade negativa de unidades em um desses estoques, o SKU será indisponibilizado para venda, mesmo que exista uma quantidade disponível em um dos estoques no [inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque).

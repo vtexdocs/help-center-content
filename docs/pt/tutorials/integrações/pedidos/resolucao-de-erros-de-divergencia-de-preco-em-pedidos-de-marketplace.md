@@ -19,11 +19,11 @@ No Admin VTEX, em **Marketplace > Conexões > Pedidos**, a mensagem de erro de d
 
 > `O preço do pedido no marketplace é diferente do seu valor determinado na VTEX. Para integrar automaticamente pedidos com divergência de valores no OMS, acesse Pedidos > Gerenciamento de pedidos > Autorização de pedidos, e configure uma regra de Divergência de valores.`
 
-Quando o preço definido por um seller é diferente do preço oferecido pelo marketplace, pedidos realizados em marketplaces podem não ser processados corretamente. Na VTEX, o fluxo de Autorização de pedidos permite o controle e a aprovação automática desses pedidos, a partir da configuração que o seller faz de uma [regra de Divergência de valores](/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW).
+Quando o preço definido por um seller é diferente do preço oferecido pelo marketplace, pedidos realizados em marketplaces podem não ser processados corretamente. Na VTEX, o fluxo de Autorização de pedidos permite o controle e a aprovação automática desses pedidos, a partir da configuração que o seller faz de uma [regra de Divergência de valores](/pt/docs/tutorials/regra-de-divergencia-de-valores).
 
-Para aderir ao fluxo de Autorização de pedidos, você precisa [configurar uma regra de Divergência de valores](/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe). Somente usuários com [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) Admin Super (_Owner_) ou OMS Full podem fazer isso.
+Para aderir ao fluxo de Autorização de pedidos, você precisa [configurar uma regra de Divergência de valores](/pt/docs/tutorials/configuracao-da-regra-de-divergencia-de-valores). Somente usuários com [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) Admin Super (_Owner_) ou OMS Full podem fazer isso.
 
-> ℹ️ Uma vez que você [configure a regra de Divergência de valores](/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe), ela passa a valer para todos os marketplaces nos quais você seja um seller.
+> ℹ️ Uma vez que você [configure a regra de Divergência de valores](/pt/docs/tutorials/configuracao-da-regra-de-divergencia-de-valores), ela passa a valer para todos os marketplaces nos quais você seja um seller.
 
 Para marketplaces VTEX, marketplaces externos e conectores certificados (parceiros), enquanto a regra de Divergência de valores não for criada, pedidos com erro de divergência de preço são aprovados automaticamente.
 
@@ -32,5 +32,5 @@ Para [conectores nativo](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutori
 ### Saiba mais
 
 - [Por que o pedido foi fechado com um preço errado?](/pt/faq/por-que-o-pedido-foi-fechado-com-um-preco-errado--frequentlyAskedQuestions_708)
-- [Erros de falta de estoque na integração de pedidos de marketplace](/pt/tutorial/erros-de-falta-de-estoque-em-pedidos-de-integracao-com-marketplace--s1i5OCcPFslrMkZJLDnfP)
-- [Erros de SLA na integração de pedidos de marketplace](/pt/tutorial/erros-de-sla-na-integracao-de-pedidos-de-marketplace--X8lSfxT44OyxkxwvnRk1X)
+- [Erros de falta de estoque na integração de pedidos de marketplace](/pt/docs/tutorials/erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace)
+- [Erros de SLA na integração de pedidos de marketplace](/pt/docs/tutorials/erros-de-sla-na-integracao-de-pedidos-de-marketplace)

@@ -15,9 +15,9 @@ trackSlugEN: integracao-com-a-amazon
 order: 7
 ---
 
-Feitas as configurações iniciais da integração, é necessário enviar os produtos para o catálogo da Amazon. Para habilitar o processo de catalogação dos produtos na Amazon, permitindo que os mesmos fiquem disponíveis para venda, o seller precisará cadastrar  os produtos da sua loja VTEX utilizando o [Amazon Listing](/pt/tutorial/amazon-listing--5HIhbnYzJWkl2yM0o72WrL).
+Feitas as configurações iniciais da integração, é necessário enviar os produtos para o catálogo da Amazon. Para habilitar o processo de catalogação dos produtos na Amazon, permitindo que os mesmos fiquem disponíveis para venda, o seller precisará cadastrar  os produtos da sua loja VTEX utilizando o [Amazon Listing](/pt/docs/tutorials/amazon-listing).
 
-> ℹ️ Todos os produtos precisam ter [Estoque](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e [Preço](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de serem enviados ao marketplace.
+> ℹ️ Todos os produtos precisam ter [Estoque](/pt/docs/tutorials/estoque) e [Preço](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de serem enviados ao marketplace.
 
 Para cadastrar os produtos da sua loja, é necessário configurar o [campo](/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) EAN dos produtos que você deseja enviar para a Amazon.  
 

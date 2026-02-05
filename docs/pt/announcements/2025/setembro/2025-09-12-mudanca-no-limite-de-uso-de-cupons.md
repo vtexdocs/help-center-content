@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Atualizamos o limite de uso de cupons, agora ele considera usos totais na loja, não por produto.'
 ---
 
-Atualizamos a forma de aplicar a limitação de uso de [cupons](/pt/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU) em promoções. A partir de 12/09/2025, o campo de restrição que define o número máximo de usos permitidos para um cupom passa a considerar a quantidade total de utilizações do cupom na loja, e não mais a quantidade de produtos beneficiados em diferentes compras.
+Atualizamos a forma de aplicar a limitação de uso de [cupons](/pt/docs/tutorials/criar-cupom-beta) em promoções. A partir de 12/09/2025, o campo de restrição que define o número máximo de usos permitidos para um cupom passa a considerar a quantidade total de utilizações do cupom na loja, e não mais a quantidade de produtos beneficiados em diferentes compras.
 
 ## O que mudou?
 Antes, definir a quantidade máxima de uso do cupom significava vinculá-la à quantidade de produtos que utilizavam o cupom, permitindo que o cliente comprasse mais de um item de produtos com esse cupom em uma ou mais compras.
@@ -23,5 +23,5 @@ Antes, definir a quantidade máxima de uso do cupom significava vinculá-la à q
 Agora, definir o limite de uso do cupom na loja significa determinar o número total de vezes que esse cupom pode ser utilizado em toda a loja.
 
 ## O que precisa ser feito?
-Nenhuma ação é necessária. A nova forma de [configurar a restrição que limita o uso de cupons](/pt/tutorial/lista-de-cupons-beta--5z5ya3IonsC2W4B5h4JrsZ) será disponibilizada automaticamente para todos os cupons criados a partir de 12/09/2025.
+Nenhuma ação é necessária. A nova forma de [configurar a restrição que limita o uso de cupons](/pt/docs/tutorials/lista-de-cupons-beta) será disponibilizada automaticamente para todos os cupons criados a partir de 12/09/2025.
 

@@ -25,7 +25,7 @@ Após clicar em integrações, localize o RD Station CRM e Clique em Habilitar.
 
 ![RdStation CRM 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/rdstation-crm-suiteshare_2.png)
 
-Após clicar em Habilitar, selecione o link de [Captura](/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo) que irá integrar os dados para dentro do RD Station CRM.
+Após clicar em Habilitar, selecione o link de [Captura](/pt/docs/tutorials/formulario-de-captura-suiteshare) que irá integrar os dados para dentro do RD Station CRM.
 
 ![RdStation CRM 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/rdstation-crm-suiteshare_3.png)
 

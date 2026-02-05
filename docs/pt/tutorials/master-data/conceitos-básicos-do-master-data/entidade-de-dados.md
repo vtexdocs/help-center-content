@@ -100,4 +100,4 @@ Siga o passo a passo abaixo para configurar uma nova entidade de dados.
 21. Clique na aba __Aplicações__ para voltar à página inicial do Master Data.
 22. Clique em `Recarregar aplicações`.
 
-> ℹ️ Após a criação da entidade de dados, é necessário [criar o formulário para a inserção, alteração e exibição de dados no Master Data](/pt/tutorial/criando-formulario-no-master-data--tutorials_1047).
+> ℹ️ Após a criação da entidade de dados, é necessário [criar o formulário para a inserção, alteração e exibição de dados no Master Data](/pt/docs/tutorials/criando-formulario-no-master-data).

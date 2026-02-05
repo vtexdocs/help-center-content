@@ -51,13 +51,13 @@ Atualmente, os seguintes meios de pagamento estão habilitados para pedidos de a
 
 > ℹ️ Para disponibilizar a opção de pagamento **Cartão de Crédito**, entre em contato com o adquirente da sua loja e certifique-se que ele aceita transações de compras recorrentes oriundas de cartões tokenizados (sem CVV). O sistema de **Assinaturas** utilizará os mesmos dados do cartão da primeira compra para realizar os pedidos seguintes da assinatura, garantindo a segurança de todo o processo.
 
-Para habilitar esse tipo de transação no conector, o gestor da loja deverá solicitar ao adquirente a liberação para transacionar pagamentos recorrentes. Confira o nosso artigo sobre [Cadastrar afiliações de gateway](/pt/tutorial/afiliacoes-de-gateway--tutorials_444).
+Para habilitar esse tipo de transação no conector, o gestor da loja deverá solicitar ao adquirente a liberação para transacionar pagamentos recorrentes. Confira o nosso artigo sobre [Cadastrar afiliações de gateway](/pt/docs/tutorials/afiliacoes-de-gateway).
 
 ## 3. Criar um plano de assinatura
 
-No módulo de **Assinaturas**, você precisa criar planos de assinatura para disponibilizar para seus clientes e associar produtos a esses planos. Os planos servem para indicar que a funcionalidade de Assinaturas está ativa para determinados produtos e apresentar as frequências de assinaturas disponíveis. Confira o artigo [Como criar um plano de assinatura](/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) para saber mais sobre esse processo.
+No módulo de **Assinaturas**, você precisa criar planos de assinatura para disponibilizar para seus clientes e associar produtos a esses planos. Os planos servem para indicar que a funcionalidade de Assinaturas está ativa para determinados produtos e apresentar as frequências de assinaturas disponíveis. Confira o artigo [Como criar um plano de assinatura](/pt/docs/tutorials/como-criar-um-plano-de-assinatura) para saber mais sobre esse processo.
 
-Existe uma outra opção para criar um plano de assinatura, que consiste em criar manualmente um anexo de SKU no **Catálogo**. O **Anexo de SKU** é responsável por indicar que a funcionalidade de Assinatura está ativa para esse SKU, e também quais são as frequências disponíveis. Confira o artigo [Como criar um anexo de assinatura](/pt/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK) para saber mais sobre esse processo.
+Existe uma outra opção para criar um plano de assinatura, que consiste em criar manualmente um anexo de SKU no **Catálogo**. O **Anexo de SKU** é responsável por indicar que a funcionalidade de Assinatura está ativa para esse SKU, e também quais são as frequências disponíveis. Confira o artigo [Como criar um anexo de assinatura](/pt/docs/tutorials/como-criar-um-anexo-de-assinatura-pelo-modulo-catalogo) para saber mais sobre esse processo.
 
 ## 4. Configurar Perfis de acesso para Assinaturas
 
@@ -83,6 +83,6 @@ Para configurar os Perfis de acesso de Assinatura, siga as instruções abaixo.
 5. Marque as caixas dos recursos que deseja adicionar.
 6. Clique em `Salvar`.
 
-Agora que as Assinaturas já estão configuradas em sua loja, acesse nosso artigo para conferir como [gerenciar assinaturas](/pt/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x).
+Agora que as Assinaturas já estão configuradas em sua loja, acesse nosso artigo para conferir como [gerenciar assinaturas](/pt/docs/tutorials/como-gerenciar-assinaturas).
 
-É possível testar o fluxo de compra de uma Assinatura na perspectiva do seu cliente. Para checar como o cliente da sua loja gera um pedido com Assinatura, confira nosso artigo sobre [Como funciona a Assinatura](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453).
+É possível testar o fluxo de compra de uma Assinatura na perspectiva do seu cliente. Para checar como o cliente da sua loja gera um pedido com Assinatura, confira nosso artigo sobre [Como funciona a Assinatura](/pt/docs/tutorials/como-funciona-a-assinatura).

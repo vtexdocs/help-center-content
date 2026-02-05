@@ -24,7 +24,7 @@ Para configurar a CieloEcommerce, siga os passos abaixo:
 4. Em **Autorização do provedor**, preencha os campos **Chave de aplicação** e **Token de aplicação** com o **MerchantID** e **MerchantKey** fornecidos pela CieloEcommerce.
 5. Caso deseje modificar o nome de identificação a ser exibido para o provedor CieloEcommerce na tela do Admin VTEX, insira a informação no campo **Nome** em **Informações básicas**.
 6. Em **Controle de pagamento**, selecione se deseja ativar o provedor em ambiente de teste clicando em **Ativar modo de teste**.
-7. Caso deseje utilizar o [Split de pagamento](/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) em sua loja, selecione a opção **Ativar split de recebíveis e enviar recebedores de pagamento** e indique o **Responsável pelas tarifas de processamento de pagamentos** e **Responsável pelos estornos** (marketplace, sellers ou marketplaces e sellers).
+7. Caso deseje utilizar o [Split de pagamento](/pt/docs/tutorials/split-de-pagamento) em sua loja, selecione a opção **Ativar split de recebíveis e enviar recebedores de pagamento** e indique o **Responsável pelas tarifas de processamento de pagamentos** e **Responsável pelos estornos** (marketplace, sellers ou marketplaces e sellers).
 8. Em **Integration**, selecione se o conector será utilizado como **Adquirencia** ou **Gateway**.
 9. Em **Provider**, selecione o adquirente a ser utilizado com o provedor CieloEcommerce.
 10. Em **DaysToInvoiceCancel**, selecione a quantidade de dias desejada para cancelar a fatura.

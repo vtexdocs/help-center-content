@@ -27,7 +27,7 @@ Verifique os requisitos que sua loja precisa garantir para iniciar a implementa�
 
 ## Configurar lojas físicas como pontos de retirada
 
-Na plataforma VTEX, as lojas físicas são configuradas como contas franquia, que, por sua vez, funcionam como Sellers White Label da conta principal da marca. Leia o artigo [O que é conta franquia?](/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) para mais informações sobre esse tipo de conta.
+Na plataforma VTEX, as lojas físicas são configuradas como contas franquia, que, por sua vez, funcionam como Sellers White Label da conta principal da marca. Leia o artigo [O que é conta franquia?](/pt/docs/tutorials/o-que-e-conta-franquia) para mais informações sobre esse tipo de conta.
 
 Portanto, em cada conta franquia que servirá como ponto de retirada, é necessário configurar um ponto de retirada e relacioná-lo às demais configurações de logística da conta. Veja o passo a passo completo a seguir.
 
@@ -41,12 +41,12 @@ Para que seu cliente possa comprar (seja na própria loja ou por outro canal) e 
 
 1. No Admin VTEX da conta franquia, acesse **Envio** > __Pontos de retirada__, ou digite __Pontos de retirada__ na barra de busca no topo da página.
 2. Clique no botão `Adicionar`.
-3. Prencha as informações solicitadas. Para saber mais sobre cada campo, consulte o artigo [Configurar Pontos de Retirada (Pickup Points)](/pt/tutorial/configurar-pontos-de-retirada-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).
+3. Prencha as informações solicitadas. Para saber mais sobre cada campo, consulte o artigo [Configurar Pontos de Retirada (Pickup Points)](/pt/docs/tutorials/cadastro-de-pontos-de-retirada).
 4. Clique em `Salvar`.
 
 ### Associar pontos de retirada a uma política de envio
 
-Em seguida, você precisa associar os novos pontos de retirada a uma política de envio para que eles funcionem corretamente. Consulte a seção [Associar Ponto de Retirada a uma Política de envio](/pt/tutorial/configurar-pontos-de-retirada-pickup-points--2R5ClQiwe4KoSQgsuiOw4E#2-associar-ponto-de-retirada-a-uma-politica-de-envio) do artigo [Configurar Pontos de Retirada (Pickup Points)](/pt/tutorial/configurar-pontos-de-retirada-pickup-points--2R5ClQiwe4KoSQgsuiOw4E) para mais informações sobre esse processo.
+Em seguida, você precisa associar os novos pontos de retirada a uma política de envio para que eles funcionem corretamente. Consulte a seção [Associar Ponto de Retirada a uma Política de envio](/pt/tutorial/configurar-pontos-de-retirada-pickup-points--2R5ClQiwe4KoSQgsuiOw4E#2-associar-ponto-de-retirada-a-uma-politica-de-envio) do artigo [Configurar Pontos de Retirada (Pickup Points)](/pt/docs/tutorials/cadastro-de-pontos-de-retirada) para mais informações sobre esse processo.
 
 ### Associar os pontos de retirada aos estoques das lojas físicas
 

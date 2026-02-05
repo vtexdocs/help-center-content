@@ -21,29 +21,29 @@ Em prosseguimento ao processo de [descontinuidade dos conectores legados de paga
 | :---: | :---: |
 | Adyen | [AdyenV3](/pt/tutorial/configurar-pagamento-com-adyenv3--7xAz67E2Eg63LWCQNjVdwv) |
 | AuthorizeNet/AuthorizeDotNet | - |
-| BankInvoiceItau/BankIssuedInvoiceItau | [MaxiPagoV4](/pt/tutorial/configurar-pagamento-com-maxipagov4--4pWPhTago6uDxjFMB6kln3) |
-| BankInvoiceSantander/BankIssuedInvoiceSantander | [Egetnet](/pt/tutorial/configurar-adquirente-getnet-com-o-conector-egetnet--75kwGKPKnK8mwiEmQGYiWq) |
-| Bradesco/RegisteredBankInvoiceBradesco | [ShopfacilPayment](/pt/tutorial/configurar-pagamento-com-shopfacil--4v3z3CLrgZ2bByMx7uoMeG) |
-| Braspag/BraspagV2 | [CieloEcommerce](/pt/tutorial/configurar-pagamento-com-cieloecommerce--6zuELBqEo0QzApbU4l7L4) |
-| Cielo/CieloV3 | [CieloEcommerce](/pt/tutorial/configurar-pagamento-com-cieloecommerce--6zuELBqEo0QzApbU4l7L4) |
+| BankInvoiceItau/BankIssuedInvoiceItau | [MaxiPagoV4](/pt/docs/tutorials/configurar-pagamento-com-maxipagov4) |
+| BankInvoiceSantander/BankIssuedInvoiceSantander | [Egetnet](/pt/docs/tutorials/configurar-adquirente-getnet-com-o-conector-egetnet) |
+| Bradesco/RegisteredBankInvoiceBradesco | [ShopfacilPayment](/pt/docs/tutorials/configurar-pagamento-com-shopfacil) |
+| Braspag/BraspagV2 | [CieloEcommerce](/pt/docs/tutorials/configurar-pagamento-com-cieloecommerce) |
+| Cielo/CieloV3 | [CieloEcommerce](/pt/docs/tutorials/configurar-pagamento-com-cieloecommerce) |
 | Credomatic | - |
-| CyberSource | [Cybersource IO](/pt/tutorial/configurar-gateway-cybersource--6nhvUTrLxeacsoYG6GkGM) |
-| Decidir/DecidirV1 | [Payway](/pt/tutorial/configurar-pagamento-com-payway--wHkvX7olfPPsAdeFq7obp) |
-| ERede/E-Rede V2/ERedeRest | [Itaú Rede](/pt/tutorial/configurar-pagamento-com-itau-rede--77BYOKxVzONWulAf8dTVSX) |
-| Firstdata | [Fiserv AR](/pt/tutorial/configurar-pagamento-com-fiserv-ar--1qF6HiMShBpMCyzz53edlx) ou [Fiserv MX](/pt/tutorial/configurar-pagamento-com-fiserv-mx--3vcYUO1y0Zp9DWVI1AcvfK) |
-| ItauShopline | [MaxiPagoV4](/pt/tutorial/configurar-pagamento-com-maxipagov4--4pWPhTago6uDxjFMB6kln3) |
-| MaxiPago | [MaxiPagoV4](/pt/tutorial/configurar-pagamento-com-maxipagov4--4pWPhTago6uDxjFMB6kln3) |
-| MercadoPagoV1 | [MercadoPagoV2](/pt/tutorial/configurar-o-subadquirente-mercadopagov2--1y6k8lCSzJYfPs2yObNFo4) |
-| PagHiper | [PagHiperV2](/pt/tutorial/configurar-pagamento-com-paghiperv2--131E6zBcTTkzZtL82cZh1x) ou [PagHiperV3](/pt/tutorial/configurar-pagamento-com-paghiperv3--1dYVbSK0yHNY5vp0gJj4fC) |
-| PagoEfectivo | [PagoEfectivoV2](/pt/tutorial/configurar-pagamento-com-pagoefectivov2--63Raoh7hlWoWbMJOAacfMV)  |
+| CyberSource | [Cybersource IO](/pt/docs/tutorials/configurar-gateway-cybersource) |
+| Decidir/DecidirV1 | [Payway](/pt/docs/tutorials/configurar-pagamento-com-payway) |
+| ERede/E-Rede V2/ERedeRest | [Itaú Rede](/pt/docs/tutorials/configurar-pagamento-com-itau-rede) |
+| Firstdata | [Fiserv AR](/pt/docs/tutorials/configurar-pagamento-com-fiserv-ar) ou [Fiserv MX](/pt/docs/tutorials/configurar-pagamento-com-fiserv-mx) |
+| ItauShopline | [MaxiPagoV4](/pt/docs/tutorials/configurar-pagamento-com-maxipagov4) |
+| MaxiPago | [MaxiPagoV4](/pt/docs/tutorials/configurar-pagamento-com-maxipagov4) |
+| MercadoPagoV1 | [MercadoPagoV2](/pt/docs/tutorials/configurar-o-subadquirente-mercadopagov2) |
+| PagHiper | [PagHiperV2](/pt/docs/tutorials/configurar-pagamento-com-paghiperv2) ou [PagHiperV3](/pt/docs/tutorials/configurar-pagamento-com-paghiperv3) |
+| PagoEfectivo | [PagoEfectivoV2](/pt/docs/tutorials/configurar-pagamento-com-pagoefectivov2)  |
 | PagosNet | - |
-| PagosWeb | [Bamboo-Payments](/pt/tutorial/configurar-pagamento-com-bamboo-payments--33TDZBp1wmgzJdiZtvu1xY) |
-| PagSeguro/PagSeguroDirect | [PagBankV3](/pt/tutorial/configurar-o-pagseguro-v3--5Noi1mUbBQ6CyqdeDQtWfw) |
-| PayPal/PayPalPlus | [PayPalV2](/pt/tutorial/configurar-pagamento-com-paypalv2--2nGiQVk3YKvOAu8Zg4RKFr) |
-| PayU/PayUGlobal | [PayUv2](/pt/tutorial/configurar-pagamento-com-payuv2--7twMgKUZZtJGmR72wS1k3n) |
-| Redsys/RedsysV2 | [RedsysEXP](/pt/tutorial/configurar-pagamento-com-redsysexp--7DSQeUbDEgH6yUvtXg4wly) |
-| Sitef/SitefDirectSale/SitefPreauth | [ESITEF](/pt/tutorial/configurar-pagamento-com-e-sitef--6UEi0QAlU6BXz5RgWj34Ac) |
-| WebPay/WebPay2P | [Transbank Webpay](/pt/tutorial/configurar-pagamento-com-transbank-webpay--3uVwZ1gUx2g5TXGt0CHb44) |
+| PagosWeb | [Bamboo-Payments](/pt/docs/tutorials/configurar-pagamento-com-bamboo-payments) |
+| PagSeguro/PagSeguroDirect | [PagBankV3](/pt/docs/tutorials/configurar-o-pagseguro-v3) |
+| PayPal/PayPalPlus | [PayPalV2](/pt/docs/tutorials/configurar-pagamento-com-paypalv2) |
+| PayU/PayUGlobal | [PayUv2](/pt/docs/tutorials/configurar-pagamento-com-payuv2) |
+| Redsys/RedsysV2 | [RedsysEXP](/pt/docs/tutorials/configurar-pagamento-com-redsysexp) |
+| Sitef/SitefDirectSale/SitefPreauth | [ESITEF](/pt/docs/tutorials/configurar-pagamento-com-e-sitef) |
+| WebPay/WebPay2P | [Transbank Webpay](/pt/docs/tutorials/configurar-pagamento-com-transbank-webpay) |
 
 ## O que precisa ser feito?
 

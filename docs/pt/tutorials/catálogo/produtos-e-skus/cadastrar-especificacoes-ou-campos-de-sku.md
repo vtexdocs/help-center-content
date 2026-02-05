@@ -86,7 +86,7 @@ Para criar um campo de SKU, siga as instruções abaixo:
 
 #### Tipos de campo de SKU
 
-Existem dois tipos de campo de SKU – **Combo** e **Radio**. As especificações de SKU têm como objetivo diferenciar as variações do mesmo produto a partir de características objetivas e pré-definidas para seleção, como tamanho, cor, entre outras. Para apresentar campos de texto e estruturas HTML mais complexas, como descrições ou tabelas de medidas, é necessário utilizar a funcionalidade de [campo de produto](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106)
+Existem dois tipos de campo de SKU – **Combo** e **Radio**. As especificações de SKU têm como objetivo diferenciar as variações do mesmo produto a partir de características objetivas e pré-definidas para seleção, como tamanho, cor, entre outras. Para apresentar campos de texto e estruturas HTML mais complexas, como descrições ou tabelas de medidas, é necessário utilizar a funcionalidade de [campo de produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto)
 
 Confira a tabela a seguir para obter detalhes sobre os tipos de campo de SKU que você pode selecionar na opção **Tipo** ao [criar um campo de SKU](#criar-um-campo-de-sku):
 
@@ -202,6 +202,6 @@ Para preencher especificações de SKUs em massa por planilha, você precisa exp
 ![sku-spec-4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/produtos-e-skus/cadastrar-especificacoes-ou-campos-de-sku_6.gif)
 
 ## Saiba mais
-- [Cadastrar especificações ou campos de produto](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106)
+- [Cadastrar especificações ou campos de produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto)
 - [Especificações de produto e de SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
 

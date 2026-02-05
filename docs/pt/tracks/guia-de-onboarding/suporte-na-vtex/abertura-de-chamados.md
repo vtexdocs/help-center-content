@@ -25,9 +25,9 @@ Os chamados para o suporte VTEX são:
 - [Suporte técnico](/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#suporte-tecnico): solução de problemas ou perguntas técnicas em relação a produtos VTEX.
   - [Copilot](/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#suporte-tecnico): obtenha sugestões automáticas e resolva problemas comuns ou esclareça dúvidas técnicas sobre a plataforma VTEX.
 - [Suporte financeiro](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3g2mhmPDx5GszNgLDICzsl): contrato ou questões financeiras relativas à loja e à VTEX.
-- [Suporte comercial](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ): contratação de [política comercial](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#contratar-politica-comercial-adicional) adicional, de [ambiente adicional](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#contratar-politica-comercial-adicional#contratar-novo-ambiente), conta franquia ou alteração de [usuário titular](/pt/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy).
+- [Suporte comercial](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ): contratação de [política comercial](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#contratar-politica-comercial-adicional) adicional, de [ambiente adicional](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#contratar-politica-comercial-adicional#contratar-novo-ambiente), conta franquia ou alteração de [usuário titular](/pt/docs/tutorials/o-que-e-o-usuario-titular).
 
-> ℹ️ Para obter mais informações sobre como abrir um chamado, basta acessar o artigo [Abrir chamados para o suporte VTEX.](/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM)
+> ℹ️ Para obter mais informações sobre como abrir um chamado, basta acessar o artigo [Abrir chamados para o suporte VTEX.](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex)
 
 ## Acesso ao Copilot
 

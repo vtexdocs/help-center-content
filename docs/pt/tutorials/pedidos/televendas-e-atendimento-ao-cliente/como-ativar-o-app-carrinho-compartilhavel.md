@@ -19,7 +19,7 @@ O app [Carrinho Compartilhável](https://apps.vtex.com/vtex-social-selling/p) pe
 
 ![Shareable Cart Demo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/televendas-e-atendimento-ao-cliente/como-ativar-o-app-carrinho-compartilhavel_1.gif)
 
-Este artigo explica como instalar o app e configurar a funcionalidade na sua loja. Ao concluir os passos de ativação, seus vendedores poderão seguir as [instruções de uso](/pt/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN) para iniciar suas estratégias de Social Selling.
+Este artigo explica como instalar o app e configurar a funcionalidade na sua loja. Ao concluir os passos de ativação, seus vendedores poderão seguir as [instruções de uso](/pt/docs/tutorials/como-usar-o-app-carrinho-compartilhavel) para iniciar suas estratégias de Social Selling.
 
 ## Instalação
 
@@ -182,7 +182,7 @@ Em seguida, basta alterar as propriedades no código CSS conforme a necessidade.
 
 ### Como essa funcionalidade é possível tecnicamente?
 
-O app utiliza a funcionalidade de [carrinho compartilhado](/pt/tutorial/o-que-e-o-carrinho-compartilhado--3oKJZfoAoUm8g0ukCIGsUu) da VTEX, que permite que mais de um cliente adicione, retire ou atualize itens e informações de um mesmo carrinho.
+O app utiliza a funcionalidade de [carrinho compartilhado](/pt/docs/tutorials/o-que-e-o-carrinho-compartilhado) da VTEX, que permite que mais de um cliente adicione, retire ou atualize itens e informações de um mesmo carrinho.
 
 ### De que forma identificar vendedor e promoção?
 

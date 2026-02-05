@@ -21,7 +21,7 @@ De acordo com regulações de proteção de dados, como a [LGPD e a GDPR](https:
 
 Antes de [solicitar a exclusão de dados de clientes via Copilot](#solicitar-exclusao-de-dados-do-cliente-via-copilot), siga estas etapas:
 
-1. **Identifique onde os dados estão armazenados:** Verifique quais entidades de dados do [Master Data](/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) armazenam dados de clientes na sua operação.
+1. **Identifique onde os dados estão armazenados:** Verifique quais entidades de dados do [Master Data](/pt/docs/tutorials/master-data) armazenam dados de clientes na sua operação.
 2. **Exclua entidades personalizadas manualmente:** Se sua loja armazena dados de clientes em entidades personalizadas, você deverá excluí-las manualmente antes de solicitar a remoção via Copilot. Para instruções, consulte a seção [Entidades de dados personalizadas](#entidades-de-dados-personalizadas). Siga este processo apenas para entidades personalizadas. Não exclua as [entidades nativas](#entidades-nativas-do-master-data) CL e AD do Master Data.
 
 ### Entidades nativas do Master Data

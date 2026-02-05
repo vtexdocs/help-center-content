@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-A Kushki é um [gateway](/pt/tutorial/o-que-e-um-gateway-de-pagamentos--2KH9Wdi7F6swOU4amECSOk) com certificação [PCI](/pt/tutorial/what-is-the-pci-ssc--4jo3Vkox3amSO2w4qIWa0E) e atuação focada na América Latina.
+A Kushki é um [gateway](/pt/docs/tutorials/o-que-e-um-gateway-de-pagamentos) com certificação [PCI](/pt/docs/tutorials/o-que-e-o-pci-ssc) e atuação focada na América Latina.
 
 Para configurar a Kushki, siga os passos abaixo:
 

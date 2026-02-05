@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
-Nesse artigo, você encontrará explicações sobre possíveis motivos sobre a não confirmação do pagamento da sua fatura de acordo com a [filial VTEX](/pt/tutorial/nomes-das-filiais-vtex-pelo-mundo--zg05n6OIOZOEmLW7dcq9z) que o cliente está faturado. 
+Nesse artigo, você encontrará explicações sobre possíveis motivos sobre a não confirmação do pagamento da sua fatura de acordo com a [filial VTEX](/pt/docs/tutorials/nomes-das-filiais-vtex-pelo-mundo) que o cliente está faturado. 
 
 O pagamento deve ser identificado em até 48h úteis, e caso o seu pagamento não tenha sido identificado, você deverá abrir um [ticket](https://support.vtex.com/hc/pt-br/requests) com os comprovantes necessários e selecionar a opção **Envio de comprovante de pagamento**. 
 

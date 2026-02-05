@@ -46,22 +46,22 @@ Para os que já têm parceria firmada com a VTEX, o MSA pode ser encontrado no t
 
 ## Receber acesso ao Admin VTEX
 
-Após a assinatura do acordo comercial, em até 10 dias úteis o [usuário titular](/pt/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy) recebe por email o acesso ao Admin VTEX.  O usuário titular é o principal responsável pela loja e o único a quem é dado acesso total a todas as seções do Admin VTEX, incluindo ações importantes de manutenção e autorização.
+Após a assinatura do acordo comercial, em até 10 dias úteis o [usuário titular](/pt/docs/tutorials/o-que-e-o-usuario-titular) recebe por email o acesso ao Admin VTEX.  O usuário titular é o principal responsável pela loja e o único a quem é dado acesso total a todas as seções do Admin VTEX, incluindo ações importantes de manutenção e autorização.
 
 Inicialmente, as principais ações que somente o usuário titular pode realizar são:
 
 * Solicitar um ambiente de teste para o gerente da conta.
-* Incluir novos usuários no ambiente VTEX. Para isso, é necessário entender os [perfis de acesso](/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy) existentes.
-* [Habilitar login por autenticação de dois fatores](/pt/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ) para operadores.
+* Incluir novos usuários no ambiente VTEX. Para isso, é necessário entender os [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso-predefinidos) existentes.
+* [Habilitar login por autenticação de dois fatores](/pt/docs/tutorials/habilitar-login-por-autenticacao-de-2-fatores) para operadores.
 * Definir [formas de login](/pt/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs#formas-de-login) para os clientes da loja.
 
 Outras ações podem ser necessárias por este usuário e estão listadas no artigo [Usuário titular](/pt/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy#acoes-restritas-ao-usuario-titular).
 
-> ⚠️ **Usuário titular** não é o mesmo que **Owner (Admin Super)**. O **Owner (Admin Super)** é um [perfil de acesso](/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy) do [License Manager](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) que define permissões concedidas a um usuário e pode ser atribuído a múltiplos usuários. No entanto, existe apenas um **Usuário titular** por [conta](/pt/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC).
+> ⚠️ **Usuário titular** não é o mesmo que **Owner (Admin Super)**. O **Owner (Admin Super)** é um [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso-predefinidos) do [License Manager](/pt/docs/tutorials/recursos-do-license-manager) que define permissões concedidas a um usuário e pode ser atribuído a múltiplos usuários. No entanto, existe apenas um **Usuário titular** por [conta](/pt/docs/tutorials/o-que-e-account-name).
 
 ## Usuários e permissões
 
-Todos os usuários administrativos cadastrados em uma conta VTEX podem executar ações a depender do [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) cadastrado e de suas respectivas permissões para acessar [recursos da plataforma](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3). Por exemplo, para realizar a ação de recuperar uma transação, o usuário precisa ter um perfil de acesso com permissão para utilizar o recurso `View Payment Data`.
+Todos os usuários administrativos cadastrados em uma conta VTEX podem executar ações a depender do [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) cadastrado e de suas respectivas permissões para acessar [recursos da plataforma](/pt/docs/tutorials/recursos-do-license-manager). Por exemplo, para realizar a ação de recuperar uma transação, o usuário precisa ter um perfil de acesso com permissão para utilizar o recurso `View Payment Data`.
 
 ### Adicionar usuários administrativos
 
@@ -69,13 +69,13 @@ Novos usuários devem ser cadastrados no Admin VTEX pela página **Gerenciamento
 
 ### Definir perfis de acesso e permissões para usuários
 
-Para definir as ações que um usuário pode realizar no Admin VTEX, basta seguir as instruções no artigo [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc). É possível associar usuários a [perfis de acesso predefinidos](/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy) ou, caso exista a necessidade de perfis que agrupem permissões diferentes das predefinidas, criar [perfis de acesso customizados](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso).
+Para definir as ações que um usuário pode realizar no Admin VTEX, basta seguir as instruções no artigo [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso). É possível associar usuários a [perfis de acesso predefinidos](/pt/docs/tutorials/perfis-de-acesso-predefinidos) ou, caso exista a necessidade de perfis que agrupem permissões diferentes das predefinidas, criar [perfis de acesso customizados](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso).
 
 ## Autenticação para plataforma e frente de loja
 
-É necessário configurar qual método de [autenticação](/pt/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs) será ofertado aos clientes para login na loja e aos usuários administrativos para login no Admin VTEX. A autenticação no ambiente VTEX pode ser realizada através de algumas opções: código de acesso e senha, que estão sempre disponíveis, e Google como opcional. 
+É necessário configurar qual método de [autenticação](/pt/docs/tutorials/autenticacao) será ofertado aos clientes para login na loja e aos usuários administrativos para login no Admin VTEX. A autenticação no ambiente VTEX pode ser realizada através de algumas opções: código de acesso e senha, que estão sempre disponíveis, e Google como opcional. 
 
-Para realizar o login na loja, a VTEX disponibiliza autenticação por código de acesso, senha, [Facebook](/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook) e [Google](/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google), sendo possível habilitar um ou mais métodos de autenticação. O passo a passo para habilitar as soluções pode ser encontrado no artigo [Autenticação](/pt/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs).
+Para realizar o login na loja, a VTEX disponibiliza autenticação por código de acesso, senha, [Facebook](/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook) e [Google](/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google), sendo possível habilitar um ou mais métodos de autenticação. O passo a passo para habilitar as soluções pode ser encontrado no artigo [Autenticação](/pt/docs/tutorials/autenticacao).
 
 ## Autenticação para integrações e desenvolvimento de apps
 
@@ -91,7 +91,7 @@ A tabela abaixo apresenta quais são os três tipos de autenticação disponíve
 
 ## Política comercial
 
-Um conceito importante na VTEX é [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV), que significa um conjunto de configurações, incluindo:
+Um conceito importante na VTEX é [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial), que significa um conjunto de configurações, incluindo:
 
 * [Catálogo](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#catalogo)
 * [Preços](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#precos)
@@ -103,11 +103,11 @@ Em toda integração com um canal de venda, é necessário atrelar uma política
 
 A depender de sua arquitetura na VTEX, a loja pode se beneficiar com mais de uma política comercial, ou associar estratégias de várias políticas comerciais a [multilojas](http://link-warm-up-heading-multiloja) e [ambientes adicionais](http://link-warm-up-heading-ambiente-adicional). O artigo [Contas e arquitetura](http://link-warm-up) apresenta em detalhes a relação entre estes conceitos.
 
-> ℹ️ Para [criar uma política comercial](/pt/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) e para [contratar políticas comerciais adicionais](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), é necessário entrar em contato com o [Suporte VTEX](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8).
+> ℹ️ Para [criar uma política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) e para [contratar políticas comerciais adicionais](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional), é necessário entrar em contato com o [Suporte VTEX](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8).
 
 ## Edition Apps
 
-[Edition Apps](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app) são pacotes que reúnem configurações e aplicativos em um único conjunto. Eles são criados por [Sponsor Accounts](https://developers.vtex.com/docs/guides/vtex-io-documentation-sponsor-account) para facilitar a configuração de [contas franquia](/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl). Alguns exemplos são **Edition Store** e **Edition Business**, oferecidos nativamente. Qualquer Edition App depende de `vtex.edition-business` ou `vtex.edition-store`. 
+[Edition Apps](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app) são pacotes que reúnem configurações e aplicativos em um único conjunto. Eles são criados por [Sponsor Accounts](https://developers.vtex.com/docs/guides/vtex-io-documentation-sponsor-account) para facilitar a configuração de [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia). Alguns exemplos são **Edition Store** e **Edition Business**, oferecidos nativamente. Qualquer Edition App depende de `vtex.edition-business` ou `vtex.edition-store`. 
 
 Para alterar um Edition App, é necessário entrar em contato com o nosso [suporte](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8), e somente o _Sponsor Account_ pode fazer modificações. Para criar um Edition App, é preciso atender aos requisitos presentes em [Developing an Edition App](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app#developing-an-edition-app).
 

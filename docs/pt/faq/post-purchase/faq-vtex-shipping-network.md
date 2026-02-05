@@ -33,9 +33,9 @@ Alguns fatores de negócio podem afetar os resultados do VTEX Shipping Network. 
 ## 2) Tive um problema com o funcionamento do VTEX Shipping Network. Como posso identificar aonde está o problema?  
  
 Primeiro, identifique se o comportamento foi em uma loja específica ou em todas as cadastradas na sua conta. Se for em todas as suas lojas, entre em contato com o suporte da VTEX. Se for em alguma especifica, o erro provavelmente estará na configuração logística da própria loja. Confira o funcionamento dos seguintes módulos:
-- [Docas](/pt/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW) 
-- [Estoques](/pt/tutorial/gerenciar-estoque--tutorials_137)
-- [Transportadoras](/pt/tutorial/cadastrar-transportadora--tutorials_140)
+- [Docas](/pt/docs/tutorials/gerenciar-doca) 
+- [Estoques](/pt/docs/tutorials/gerenciar-estoque)
+- [Transportadoras](/pt/docs/tutorials/politica-de-envio)
 
 
 ## 3) Encontrei valores inesperados na simulação do VTEX Shipping Network.  

@@ -113,7 +113,7 @@ To help you decide which products and settings to consider when planning your st
 
 ## Implementation partners
 
-When building a store, it is common for agencies and [implementation partners](https://vtex.com/us-en/partners/) (System Integration partners) to be involved. VTEX is associated with a wide ecosystem of partners known for their excellence and reliability in developing VTEX store projects. Provided the [user](/en/tutorial/gerenciando-usuarios--tutorials_512) has permission to access the store's VTEX Admin, they can view the partner list on the [Partner Portal](https://vtex.com/pt-br/parceiros/) (available only in Portuguese).
+When building a store, it is common for agencies and [implementation partners](https://vtex.com/us-en/partners/) (System Integration partners) to be involved. VTEX is associated with a wide ecosystem of partners known for their excellence and reliability in developing VTEX store projects. Provided the [user](/en/tutorial/gerenciando-usuarios--tutorials_512) has permission to access the store's VTEX Admin, they can view the partner list on the [Partner Portal](https://vtex.com/en-us/partners/) (available only in Portuguese).
 
 The [VTEX Quadrant](https://vtex.com/pt-br/blog/parceiros/quadrante_vtex_2023/) is a program in which VTEX internally evaluates the performance and successful results of its partners' operations. This annual acknowledgment and reward is for those with the highest commitment and excellence. See the results of the 2022 Quadrant [here](https://vtex.com/pt-br/blog/parceiros/quadrante_vtex_2023/). The VTEX Quadrant is an exclusive program for implementation partners in Brazil.
 

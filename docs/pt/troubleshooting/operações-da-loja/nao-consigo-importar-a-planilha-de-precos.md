@@ -46,8 +46,8 @@ Planilhas preenchidas com informações incorretas, por exemplo, inserindo o ID 
 
 Confira se os campos de sua planilha estão devidamente preenchidos conforme as orientações dos artigos abaixo:
 
-- [Planilha de preço-base](/pt/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-base--4Jox8TeQ5feqAn78TZ0DNA)
-- [Planilha de preço fixo](/pt/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-fixo--50RFoH3ruV97FJgeBUCURh)
+- [Planilha de preço-base](/pt/docs/tutorials/tabela-de-precos-base)
+- [Planilha de preço fixo](/pt/docs/tutorials/preencher-campos-da-planilha-de-importacao-de-precos-fixos)
 
 > ⚠️ Antes de importar a planilha no Admin VTEX, certifique-se de que a mesma não contenha colunas com informações de erro (**Error Code** e **Error Message**) ou que exista algum tipo de filtro aplicado nas células. Caso você tente importar a planilha nestas condições, podem ocorrer erros no processo de importação dos dados.
 

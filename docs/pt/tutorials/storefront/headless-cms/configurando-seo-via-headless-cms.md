@@ -17,9 +17,9 @@ subcategoryId: 27t6x0lngvjI3bnUg5AgEO
 
 O SEO (Search Engine Optimization) é uma das estratégias mais importantes para que seu site alcance bons posicionamentos orgânicos nas páginas de resultados dos motores de busca.
 
-Em lojas desenvolvidas com [FastStore](https://developers.vtex.com/docs/guides/faststore), você pode gerenciar as configurações de SEO pelo [Headless CMS](/pt/tutorial/headless-cms-visao-geral--3U5gvhHdQL0jczYH8gjX09).
+Em lojas desenvolvidas com [FastStore](https://developers.vtex.com/docs/guides/faststore), você pode gerenciar as configurações de SEO pelo [Headless CMS](/pt/docs/tutorials/headless-cms-visao-geral).
 
-> ℹ️ Para lojas desenvolvidas com Store Framework, veja [Configurando SEO em sua loja Store Framework](/pt/tutorial/configurando-seo-em-sua-loja--1sKskEsjUSvgHyqM8oknVR).
+> ℹ️ Para lojas desenvolvidas com Store Framework, veja [Configurando SEO em sua loja Store Framework](/pt/docs/tutorials/configurando-seo-em-sua-loja).
 
 ## Instruções
 

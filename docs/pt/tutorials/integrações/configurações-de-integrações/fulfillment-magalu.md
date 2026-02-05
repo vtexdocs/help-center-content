@@ -21,7 +21,7 @@ Além da integração básica, lojistas VTEX podem integrar com o [**Fulfillment
 
 > ⚠️ Somente os produtos mais vendidos de uma loja, podem ser configurados com a opção de venda pelo Fulfillment Magalu.
 
-Todos os pedidos do tipo __Fulfillment Magalu__ podem ser acompanhados na tela de [Pedidos](/pt/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi) do Admin VTEX. O status desses pedidos são atualizados pelo Magalu Marketplace.
+Todos os pedidos do tipo __Fulfillment Magalu__ podem ser acompanhados na tela de [Pedidos](/pt/docs/tutorials/todos-os-pedidos) do Admin VTEX. O status desses pedidos são atualizados pelo Magalu Marketplace.
 
 A integração do __Fulfillment Magalu__ é realizada em duas etapas. A primeira no [Portal do Magalu Marketplace](https://id-b2b.magazineluiza.com.br/auth/realms/B2B/protocol/openid-connect/auth?client_id=IntegraCommerceSellerAdmin&redirect_uri=https%3A%2F%2Fmarketplace.integracommerce.com.br%2Fsignin-oidc&response_type=code&scope=openid%20profile&code_challenge=LErEEj7Fo5Co8kOL4VDcRAeUVe2_hBSAf6XWp8Yi73Q&code_challenge_method=S256&response_mode=form_post&nonce=638370459880846758.NmY3MDExZTktZjNkYS00MzdkLWJhYTgtYzQ5NTkwODFmMWMzZTQwYTkzZmEtNmIwYS00YzY0LWI3OGUtMjU0N2UwZjY1ZjBm&state=CfDJ8DRkmEyrufZLvRHl0B2Huu7ARClKg-kKgAsabRC2I3CtY-Lj13FW-3H6S_acQCTyqkPti4gubm7t1KrgKRP1sXinoXungxBiDW13Zm6pVwAy4omo7a4HHmnptzufXd1mfk5_Srcu7MuRUNCjWBFuHadXUitLTldPanEbhMIHXgOBVjVdlvaZx8e7z2nomNUOGYLwbkNrLA2LeVDyvuEA9_8bGoMBgyyom4758NUzlG6Mx2CuQA3ZXnu83jDjikNyJXcGWHCLG6K8xqfptz9mIjoQeDzCDNxLolol3H0CikIh1O1rPxVHRNxL8-xT_3GhGtpL8w2ZjhwiPbn8frTZgaGvgyzGJq-dI9u49Uksbye6QLvesWt_uBXy9b-77BHbf7wlEDkG8dwtkkE3mzV_Ubc&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=6.8.0.0) e a segunda no Admin VTEX. Veja abaixo as etapas.
 
@@ -47,7 +47,7 @@ Com a funcionalidade Fulfillment Magalu configurada no Portal do Magalu Marketpl
 
 Configure a loja conforme os passos abaixo:
 
-__1. Cadastre Política de Envio:__ a nova [Política de Envio](/pt/tutorial/politica-de-envio--tutorials_140) deve cumprir os seguintes requisitos:
+__1. Cadastre Política de Envio:__ a nova [Política de Envio](/pt/docs/tutorials/politica-de-envio) deve cumprir os seguintes requisitos:
 
 - Ser exclusiva para o Fulfillment Magalu.  
 - Abranger todos os CEPs do país.  

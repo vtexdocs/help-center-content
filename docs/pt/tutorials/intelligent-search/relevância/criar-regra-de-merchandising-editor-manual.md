@@ -24,7 +24,7 @@ Para configurar uma [regra de merchandising](/pt/tracks/vtex-intelligent-search-
     * **Nome**: nome da regra de merchandising. Exemplo: promover o produto A quando a pesquisa for Biscoito de chocolate.
     * **Data de início (opcional)**: agendamento da data a partir da qual a regra de merchandising será aplicada. A data segue o fuso horário UTC-0.
     * **Data de término (opcional)**: agendamento da data em que a regra de merchandising não será mais aplicada às buscas na loja. A data segue o fuso horário UTC-0.
-    * **Aplicar aos idiomas:** idiomas aos quais a regra de merchandising será aplicada. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma (Beta)](/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+    * **Aplicar aos idiomas:** idiomas aos quais a regra de merchandising será aplicada. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta).
 5. Clique em **Editor manual**. Para mais informações sobre cada editor, confira [Tipos de edição](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao).
 6. Clique em `Próximo`.
 7. Se necessário, altere as informações básicas já definidas sobre a nova regra de merchandising na seção [Informação Geral](#informacao-geral).

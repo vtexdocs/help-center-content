@@ -60,7 +60,7 @@ O usuário Titular é responsável por ações importantes de manutenção e aut
 
 Todos os eventos relacionados à transferência de propriedade da conta são registrados no histórico de atividades com a data em que ocorreram e o usuário associado ao evento.
 
-> ℹ️ Você também pode auditar diversas ações dos usuários da sua conta com o módulo [Audit](/pt/tutorial/como-encontrar-eventos-no-audit--5RXf9WJ5YLFBcS8q8KcxTA).
+> ℹ️ Você também pode auditar diversas ações dos usuários da sua conta com o módulo [Audit](/pt/docs/tutorials/audit).
 
 ## Circunstâncias excepcionais
 

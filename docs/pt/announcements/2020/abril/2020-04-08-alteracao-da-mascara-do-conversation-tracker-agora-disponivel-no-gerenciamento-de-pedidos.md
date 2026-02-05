@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Agora é possível alterar a máscara do Conversation Tracker (modo Soft e Hard) pelo módulo de Gerenciamento de Pedidos.'
 ---
 
-O [Conversation Tracker](/pt/tutorial/conversation-tracker--tutorials_195) é utilizado para unificar toda a comunicação feita com um cliente durante o fluxo de um pedido. Estes e-mails, que também incluem as mensagens enviadas para o e-mail do cliente por qualquer outro sistema integrado, são registrados na linha do tempo do pedido em questão. O Conversation Tracker pode ter duas configurações de máscara:
+O [Conversation Tracker](/pt/docs/tutorials/conversation-tracker) é utilizado para unificar toda a comunicação feita com um cliente durante o fluxo de um pedido. Estes e-mails, que também incluem as mensagens enviadas para o e-mail do cliente por qualquer outro sistema integrado, são registrados na linha do tempo do pedido em questão. O Conversation Tracker pode ter duas configurações de máscara:
 
 **Hard** - cria um alias (e-mail alternativo) não legível para evitar a identificação do endereço de e-mail do seu cliente por sistemas externos.
 
@@ -43,4 +43,4 @@ A alteração pode ser feita acessando o menu *Pedidos > Gerenciamento de Pedido
 
 É possível verificar o funcionamento da configuração criando um pedido teste. Acessando os detalhes do pedido em *Pedidos > Gerenciamento de Pedidos*, você poderá passar o mouse em cima de um endereço de e-mail registrado na *Linha do tempo* para ver qual alias foi aplicado (Soft ou Hard).
 
-Para saber mais, confira nossa documentação sobre o [Conversation Tracker](/pt/tutorial/conversation-tracker--tutorials_195).
+Para saber mais, confira nossa documentação sobre o [Conversation Tracker](/pt/docs/tutorials/conversation-tracker).

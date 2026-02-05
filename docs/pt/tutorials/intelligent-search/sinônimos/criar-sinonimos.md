@@ -33,7 +33,7 @@ Siga o passo a passo para configurar sinônimos individualmente no Admin VTEX:
 4. Preencha os campos referentes ao sinônimo:
    - __Tipo:__ define o tipo de sinônimo. Confira [Tipos de sinônimos](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#tipos-de-sinonimos) para mais informações.
    - __Termos:__ palavras ou expressões a serem definidas como sinônimos. É necessário teclar `Enter` após cada termo para inserir um outro termo.
-   - **Idiomas:** idiomas aos quais o sinônimo será aplicado. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma (Beta)](/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+   - **Idiomas:** idiomas aos quais o sinônimo será aplicado. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta).
    - __Status:__ define se o sinônimo estará ativo ou inativo.
 5. Para finalizar, clique em `Salvar`.
 
@@ -91,7 +91,7 @@ Resultado no Admin VTEX:
 
 #### Lojas Multi-idioma (Beta)
 
-Lojas que utilizam [Configurações Multi-idioma (Beta)](/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO) devem seguir o template abaixo para fazer a importação de Sinônimos para idiomas específicos.
+Lojas que utilizam [Configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta) devem seguir o template abaixo para fazer a importação de Sinônimos para idiomas específicos.
 
 - __Unidirecional__: `{termos separados por vírgula};{termo equivalente};{status};{locales separados por vírgula}`
 

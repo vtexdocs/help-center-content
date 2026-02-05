@@ -101,7 +101,7 @@ Para configurar uma condição de pagamento para o StripeV2 na VTEX, siga os pas
 4. Na tela de configuração, ative a condição clicando em __Status__.
 5. Em __Processar com o provedor__, selecione a opção __StripeV2NativeCheckout__.
 6. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
-7. Caso necessário, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456).
+7. Caso necessário, você também pode [configurar condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais).
 8. Clique em `Salvar`.
 
 Caso deseje mais informações sobre os procedimentos de instalação do __VTEX Native Checkout Experience__, acesse a [documentação pública da Stripe na Vinneren](https://sites.google.com/vinneren.com.mx/documentacion-publica#h.nmryiar6zrqq).
@@ -163,7 +163,7 @@ Para configurar uma condição de pagamento para o StripeV2 na VTEX, siga os pas
 4. Na tela de configuração, ative a condição clicando em __Status__.
 5. Em __Processar com o provedor__, selecione a opção __StripeV2Elements__.
 6. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
-7. Caso necessário, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condiciones-especiales--tutorials_456).
+7. Caso necessário, você também pode [configurar condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais).
 8. Clique em `Salvar`.
 
 Caso deseje mais informações sobre os procedimentos de instalação do __VTEX with Stripe Payment Element Experience__, acesse a [documentação pública da Stripe na Vinneren](https://sites.google.com/vinneren.com.mx/documentacion-publica#h.nmryiar6zrqq).
@@ -245,7 +245,7 @@ Com o provedor StripeV2 você pode processar pagamentos com a Apple Pay em sua l
 27. Em __Processar com o provedor__, selecione a opção __StripeV2__.
 28. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
 29. Indique se deseja processar pagamentos com ou sem parcelamentos.
-30. Caso necessário, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condiciones-especiales--tutorials_456).
+30. Caso necessário, você também pode [configurar condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais).
 31. Clique em `Salvar`.
 
 Depois de concluir essas etapas, o Apple Pay aparecerá na finalização da compra da loja como um dos métodos de pagamento disponíveis.

@@ -23,7 +23,7 @@ O termo *Headless* refere-se à independência entre a interface que exibe o con
 Para acessar o Headless CMS, entre no Admin VTEX e acesse **Storefront > Headless CMS**.
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-  Para o gerenciamento do Headless CMS, certifique-se de que os [recursos](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) *See CMS menu on the top-bar*, *Settings* e *CMS GraphQL API* estão associados ao seu [Perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete). Do contrário, [ crie um perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso) e adicione esses recursos a eles ou adicione esses recursos a um perfil de acesso existente.
+  Para o gerenciamento do Headless CMS, certifique-se de que os [recursos](/pt/docs/tutorials/recursos-do-license-manager) *See CMS menu on the top-bar*, *Settings* e *CMS GraphQL API* estão associados ao seu [Perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete). Do contrário, [ crie um perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso) e adicione esses recursos a eles ou adicione esses recursos a um perfil de acesso existente.
 </div>
 
 Com o Headless CMS, você pode:
@@ -34,21 +34,21 @@ Com o Headless CMS, você pode:
 
 ## Gerenciar projetos
 
-[Projetos](/pt/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM) é uma funcionalidade do Headless CMS que permite criar e gerenciar vários projetos de frontend, como aplicativos móveis, sites e email marketing em um único painel de controle.
+[Projetos](/pt/docs/tutorials/gerenciando-projetos) é uma funcionalidade do Headless CMS que permite criar e gerenciar vários projetos de frontend, como aplicativos móveis, sites e email marketing em um único painel de controle.
 
 ![Projects pages](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/headless-cms/headless-cms-visao-geral_1.gif)
 
-Para mais informações, acesse o artigo [Gerenciando Projetos](/pt/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM).
+Para mais informações, acesse o artigo [Gerenciando Projetos](/pt/docs/tutorials/gerenciando-projetos).
 
 ## Gerenciar páginas
-Em cada projeto, você também pode gerenciar todas as rotas de URL e modelos de página para o site de sua loja, incluindo a página inicial, a página de produto (PDP) e outras. Para obter mais informações, consulte [Gerenciando Páginas no Headless CMS](/pt/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt).
+Em cada projeto, você também pode gerenciar todas as rotas de URL e modelos de página para o site de sua loja, incluindo a página inicial, a página de produto (PDP) e outras. Para obter mais informações, consulte [Gerenciando Páginas no Headless CMS](/pt/docs/tutorials/gerenciando-paginas).
 
 ## Gerenciar content types do tipo Singleton
-Singleton é um tipo de conteúdo que simplifica o gerenciamento de conteúdo através da criação e do gerenciamento de uma única página, garantindo a existência de apenas uma versão desse tipo de conteúdo no Headless CMS. Essa abordagem aumenta a confiança no conteúdo e simplifica a criação e a manutenção do conteúdo em um ambiente Headless CMS.  Para obter mais informações, consulte [Gerenciando content types do tipo Singleton](/pt/tutorial/managing-singleton-content-types--VBibMN1BqV2OFmavUFCdo).
+Singleton é um tipo de conteúdo que simplifica o gerenciamento de conteúdo através da criação e do gerenciamento de uma única página, garantindo a existência de apenas uma versão desse tipo de conteúdo no Headless CMS. Essa abordagem aumenta a confiança no conteúdo e simplifica a criação e a manutenção do conteúdo em um ambiente Headless CMS.  Para obter mais informações, consulte [Gerenciando content types do tipo Singleton](/pt/docs/tutorials/gerenciando-content-types-do-tipo-singleton).
 
 ## Próximos passos
 Confira os tutoriais a seguir para começar a gerenciar o conteúdo do seu storefront:
 
-- [Gerenciando Projetos](/pt/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM)
-- [Gerenciando Páginas no Headless CMS](/pt/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
-- [Gerenciando content types do tipo Singleton](/pt/tutorial/managing-singleton-content-types--VBibMN1BqV2OFmavUFCdo)
+- [Gerenciando Projetos](/pt/docs/tutorials/gerenciando-projetos)
+- [Gerenciando Páginas no Headless CMS](/pt/docs/tutorials/gerenciando-paginas)
+- [Gerenciando content types do tipo Singleton](/pt/docs/tutorials/gerenciando-content-types-do-tipo-singleton)

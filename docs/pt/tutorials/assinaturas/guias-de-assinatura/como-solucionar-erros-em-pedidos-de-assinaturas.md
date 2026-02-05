@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-> ℹ️ É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo [Minha Conta](/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+> ℹ️ É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo [Minha Conta](/pt/docs/tutorials/como-funciona-a-minha-conta).
 
 É possível identificar e gerenciar erros em pedidos de assinaturas através do módulo de **Assinaturas** > **Dashboards** > **Pedidos de Assinatura** no Admin.
 
@@ -81,8 +81,8 @@ Para analisar erros de pagamento, confira o passo a passo a seguir.
 
 Os pedidos com erros de pagamento passam por 5 novas tentativas automáticas, em um período de até 12 horas, de acordo com o fluxo do gateway de pagamentos. Não é possível fazer tentativas manuais para corrigir erros de pagamento no Admin.
 
-Os clientes da sua loja podem editar suas assinaturas e realizar outras ações através da página [__Minha Conta__](/pt/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh). Isso permite que alguns erros de pagamento sejam resolvidos pelos próprios clientes, mesmo após o período de novas tentativas automáticas, alterando a forma de pagamento.
+Os clientes da sua loja podem editar suas assinaturas e realizar outras ações através da página [__Minha Conta__](/pt/docs/tutorials/como-funciona-a-minha-conta). Isso permite que alguns erros de pagamento sejam resolvidos pelos próprios clientes, mesmo após o período de novas tentativas automáticas, alterando a forma de pagamento.
 
 #### **Saiba mais**
 
- * [Como gerenciar Assinaturas](/pt/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x)
+ * [Como gerenciar Assinaturas](/pt/docs/tutorials/como-gerenciar-assinaturas)

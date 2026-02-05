@@ -71,4 +71,4 @@ O custo de um app pode ser uma das seguintes formas:
 - Custo fixo mensal.
 - Condições especiais. Podem incluir número de mensagens SMS enviadas, tempo de transmissão ao vivo, entre outros.
 
-Os custos serão adicionados automaticamente à sua [fatura VTEX](/pt/tutorial/visao-geral-faturas--6UxfCl4fw4GmyQwoUuIcQs) logo após a aquisição do app.
+Os custos serão adicionados automaticamente à sua [fatura VTEX](/pt/docs/tutorials/visao-geral-faturas) logo após a aquisição do app.

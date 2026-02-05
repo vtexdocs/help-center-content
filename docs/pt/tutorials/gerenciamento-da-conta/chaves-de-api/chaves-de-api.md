@@ -19,7 +19,7 @@ Para cada integração via API utilizada para conectar sua conta VTEX com sistem
 
 Estas credenciais de [autenticação](https://developers.vtex.com/docs/guides/authentication) são usadas para garantir o acesso seguro aos dados que você deseja compartilhar com as integrações, sem expor sua conta a aplicações ou usuários não autorizados.
 
-Para que uma chave de API faça solicitações de API à sua conta com sucesso, ela precisa estar ativa e ter [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) especificando os recursos da conta que tem permissão para acessar.
+Para que uma chave de API faça solicitações de API à sua conta com sucesso, ela precisa estar ativa e ter [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) especificando os recursos da conta que tem permissão para acessar.
 
 ## Tipos de chaves de API
 
@@ -27,17 +27,17 @@ Existem dois tipos de chaves de API: [internas](#chaves-internas) ou [externas](
 
 ### Chaves internas
 
-As [chaves de API internas](/pt/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc) são credenciais geradas e administradas por sua conta VTEX. Isso significa que você deve ter acesso a todos os pares de chaves e tokens de API — o equivalente a nomes de usuário e senhas para integrações de API.
+As [chaves de API internas](/pt/docs/tutorials/chaves-geradas) são credenciais geradas e administradas por sua conta VTEX. Isso significa que você deve ter acesso a todos os pares de chaves e tokens de API — o equivalente a nomes de usuário e senhas para integrações de API.
 
 ### Chaves externas
 
-As [chaves de API externas](/pt/tutorial/chaves-externas--1isU0HfKkeg0atlxRha14Q) são credenciais geradas e administradas por outras contas VTEX. Ao adicionar [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) às chaves de API — o equivalente a nomes de usuário — fornecidas por terceiros, você pode permitir que eles acessem recursos específicos na sua conta.
+As [chaves de API externas](/pt/docs/tutorials/chaves-externas) são credenciais geradas e administradas por outras contas VTEX. Ao adicionar [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) às chaves de API — o equivalente a nomes de usuário — fornecidas por terceiros, você pode permitir que eles acessem recursos específicos na sua conta.
 
 ## Gerenciar chaves de API
 
 A página **Chaves de API** no Admin VTEX permite gerenciar as chaves de API com acesso à sua loja. Confira nos guias a seguir mais detalhes sobre as informações e ações disponíveis a partir desta página:
 
-* [Exportar chaves de API](/pt/tutorial/exportar-chaves-de-api--1p4eYJWD26gOdicUdiiGC5): fazer download de uma planilha com informações sobre as chaves de API geradas e externas.
+* [Exportar chaves de API](/pt/docs/tutorials/exportar-chaves-de-api): fazer download de uma planilha com informações sobre as chaves de API geradas e externas.
 
 * [Configurações](/pt/tutorial/configurar-alerta-para-renovar-tokens-de-api): definir o período para recomendação de renovação dos tokens. Quando um token atingir o limite estabelecido, a interface alertará sobre a necessidade de renovação. Essa configuração se aplica a todos os tokens de chave.
 
@@ -45,11 +45,11 @@ A página **Chaves de API** no Admin VTEX permite gerenciar as chaves de API com
 
    ![token-renewal-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/chaves-de-api/chaves-de-api_1.png)
 
-* [Chaves geradas](/pt/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc): permite gerenciar chaves de API criadas e administradas por sua conta VTEX.
+* [Chaves geradas](/pt/docs/tutorials/chaves-geradas): permite gerenciar chaves de API criadas e administradas por sua conta VTEX.
 
    ![generated-keys-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/chaves-de-api/chaves-de-api_2.png)
 
-* [Chaves externas](/pt/tutorial/chaves-externas--1isU0HfKkeg0atlxRha14Q): permite gerenciar chaves de API criadas e administradas por outras contas VTEX, com acesso a recursos específicos na sua conta.
+* [Chaves externas](/pt/docs/tutorials/chaves-externas): permite gerenciar chaves de API criadas e administradas por outras contas VTEX, com acesso a recursos específicos na sua conta.
 
    ![apikeys-external-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/chaves-de-api/chaves-de-api_3.png)
 
@@ -62,7 +62,7 @@ Para gerenciar chaves de API, é obrigatório ter o perfil de acesso  [User Admi
 * *Renew API Token* (visualizar e renovar tokens de chaves geradas)  
 * *Edit API Keys settings* (editar configuração da duração de tokens de chaves geradas)
 
-Saiba mais sobre cada recurso em [Recursos do License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3).
+Saiba mais sobre cada recurso em [Recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager).
 
 ## Saiba mais
 

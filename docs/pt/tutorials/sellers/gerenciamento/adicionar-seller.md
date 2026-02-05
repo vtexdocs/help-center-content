@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 2xWRgEIlR2ookieEmm4KQu
 ---
 
-[Gerenciamento de Sellers](/pt/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv) é a página onde operadores de marketplace adicionam sellers, registram suas informações e administram seus status. Este artigo orienta sobre os passos necessários para se adicionar um novo seller. As informações inseridas na criação de um seller não ficam visíveis no storefront do marketplace, e são visualizadas apenas por usuários do marketplace, em seu Admin VTEX em **Marketplace > Gerenciamento.** 
+[Gerenciamento de Sellers](/pt/docs/tutorials/gerenciamento-de-sellers) é a página onde operadores de marketplace adicionam sellers, registram suas informações e administram seus status. Este artigo orienta sobre os passos necessários para se adicionar um novo seller. As informações inseridas na criação de um seller não ficam visíveis no storefront do marketplace, e são visualizadas apenas por usuários do marketplace, em seu Admin VTEX em **Marketplace > Gerenciamento.** 
 
-Para adicionar um seller não identificável, também chamado de [seller white label](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa), é necessário ter esse modelo previsto no contrato com a VTEX. Uma vez ajustado o contrato com o representante comercial da VTEX responsável por seu marketplace, solicite a [adição de uma conta franquia](/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) por meio do nosso Suporte. Toda conta franquia é criada como seller white label e não é possível mudar o tipo de seller após a sua criação. 
+Para adicionar um seller não identificável, também chamado de [seller white label](/pt/docs/tutorials/seller-white-label), é necessário ter esse modelo previsto no contrato com a VTEX. Uma vez ajustado o contrato com o representante comercial da VTEX responsável por seu marketplace, solicite a [adição de uma conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) por meio do nosso Suporte. Toda conta franquia é criada como seller white label e não é possível mudar o tipo de seller após a sua criação. 
 
 > ℹ️ Se quiser encontrar novos parceiros para venderem em seu marketplace, utilize o **Encontrar sellers,** que facilita a identificação e contato entre marketplaces e sellers que operam no ecossistema VTEX, além de conectores certificados (parceiros).
 
@@ -28,8 +28,8 @@ Para adicionar um seller não identificável, também chamado de [seller white l
 5. Clique em `Salvar`.   
 
 **Integração**
-- **Conta VTEX do seller:** preencha com a [account name](/pt/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) do seller.    
-- **ID do afiliado:** código identificador do [afiliado](/pt/tutorial/como-configurar-afiliado--tutorials_187), definido pelo seller ao cadastrar seu marketplace. Este código deve ser informado pelo seller e sempre é composto por três consoantes, sejam elas repetidas ou não. Vogais não são aceitas.    
+- **Conta VTEX do seller:** preencha com a [account name](/pt/docs/tutorials/o-que-e-account-name) do seller.    
+- **ID do afiliado:** código identificador do [afiliado](/pt/docs/tutorials/como-configurar-afiliado), definido pelo seller ao cadastrar seu marketplace. Este código deve ser informado pelo seller e sempre é composto por três consoantes, sejam elas repetidas ou não. Vogais não são aceitas.    
 - **Pausar o seller após a criação:** marque a caixa de seleção para que o seller seja criado com o status `Pausado`. Marcando esse campo, é possível adicionar o seller, catalogar seus anúncios e fazer todos os testes necessários antes de disponibilizá-lo no seu storefront, para que receba pedidos.  
 
 **Campos exclusivos para integração de seller externo**
@@ -44,11 +44,11 @@ Para adicionar um seller não identificável, também chamado de [seller white l
     - Preferencialmente usar somente letras minúsculas, pois o campo é “_case sensitive_”.  
     - Utilizar até 50 caracteres.    
     - Evitar utilizar somente a palavra "list" como ID.    
-    - Para sellers whitelabel, o ID precisa começar com o [account name](/pt/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) do marketplace, seguido da identificação da sua escolha. Ex. marketplaceseller1
-- **Grupos do seller:** palavra-chave que identifica o grupo a que este seller pertence, para ser filtrado na lista de sellers. Defina uma palavra-chave nova para criar um grupo novo, ou repita uma já usada para vincular o seller a um ou mais grupos existentes. Você pode criar grupos para sellers abrangentes, contas franquia, sellers third party, parceiros premium, ou qualquer outra categoria que se aplique ao seu negócio. Saiba mais em [Gerenciamento de Sellers](/pt/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv).  
+    - Para sellers whitelabel, o ID precisa começar com o [account name](/pt/docs/tutorials/o-que-e-account-name) do marketplace, seguido da identificação da sua escolha. Ex. marketplaceseller1
+- **Grupos do seller:** palavra-chave que identifica o grupo a que este seller pertence, para ser filtrado na lista de sellers. Defina uma palavra-chave nova para criar um grupo novo, ou repita uma já usada para vincular o seller a um ou mais grupos existentes. Você pode criar grupos para sellers abrangentes, contas franquia, sellers third party, parceiros premium, ou qualquer outra categoria que se aplique ao seu negócio. Saiba mais em [Gerenciamento de Sellers](/pt/docs/tutorials/gerenciamento-de-sellers).  
 
 **Acordos comerciais**
-- **Políticas comerciais do marketplace:** selecione as [políticas comerciais](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) válidas para o seller, para associar seus produtos e condições de venda a contextos diferentes. Por exemplo, política comercial usada no site e política comercial usada em um app.  
+- **Políticas comerciais do marketplace:** selecione as [políticas comerciais](/pt/docs/tutorials/como-funciona-uma-politica-comercial) válidas para o seller, para associar seus produtos e condições de venda a contextos diferentes. Por exemplo, política comercial usada no site e política comercial usada em um app.  
 - **Comissão em produto:** defina a porcentagem de comissão aplicada aos produtos do seller.
 - **Comissão em frete:** defina a porcentagem de comissão aplicada ao frete dos pedidos do seller.  
 - **Adicionar comissões por categoria:** ao marcar essa opção, selecione categorias do seu catálogo que terão comissões específicas associadas ao seller. É possível definir a porcentagem de comissão por produtos e/ou frete para a categoria selecionada.   
@@ -69,7 +69,7 @@ Uma vez preenchido o formulário e clicado em **Salvar**, seu seller será adici
 
 ## Saiba mais
 
-- [Criar política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)  
-- [Gerenciamento de sellers](/pt/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv)
-- [Configurar marketplace VTEX](/pt/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb)  
-- [Ações para a operação de marketplaces VTEX](/pt/tutorial/acoes-para-a-operacao-de-marketplaces-vtex--2SdIflvwywiOqCpczKCfev)  
+- [Criar política comercial](/pt/docs/tutorials/criar-uma-politica-comercial)  
+- [Gerenciamento de sellers](/pt/docs/tutorials/gerenciamento-de-sellers)
+- [Configurar marketplace VTEX](/pt/docs/tutorials/configurar-marketplace-vtex)  
+- [Ações para a operação de marketplaces VTEX](/pt/docs/tutorials/acoes-para-a-operacao-de-marketplaces-vtex)  

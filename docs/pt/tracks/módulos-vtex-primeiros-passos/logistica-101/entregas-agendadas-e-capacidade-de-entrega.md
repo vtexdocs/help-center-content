@@ -17,13 +17,13 @@ order: 5
 
 Uma loja VTEX pode oferecer entregas agendadas para seus clientes. Dessa forma, o cliente escolhe um dia de entrega específico para que a loja e a transportadora realizem a entrega do pedido no seu endereço. 
 
-Para disponibilizar a [entrega agendada](/pt/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi) para os clientes, é preciso incluir janelas de entrega na [política de envio](/pt/tutorial/politica-de-envio--tutorials_140) da [transportadora ](/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE)relacionada. Feito isso, os períodos e dias para entrega agendada ficarão disponíveis no checkout da sua loja.
+Para disponibilizar a [entrega agendada](/pt/docs/tutorials/entrega-agendada) para os clientes, é preciso incluir janelas de entrega na [política de envio](/pt/docs/tutorials/politica-de-envio) da [transportadora ](/pt/docs/tutorials/transportadoras-na-vtex)relacionada. Feito isso, os períodos e dias para entrega agendada ficarão disponíveis no checkout da sua loja.
 
-> ⚠️ Para que a [Entrega agendada](/pt/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi) e a [Capacidade de entrega](/pt/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz) funcionem corretamente, você deve observar que:<ul><li>A soma {[account name](/pt/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC)} + {ID da política de envio} não pode exceder 60 caracteres.</li><li>Não se deve utilizar espaçamento no ID de [políticas de envio](/pt/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT).</li></ul>
+> ⚠️ Para que a [Entrega agendada](/pt/docs/tutorials/entrega-agendada) e a [Capacidade de entrega](/pt/docs/tutorials/gerenciar-capacidade-de-entrega) funcionem corretamente, você deve observar que:<ul><li>A soma {[account name](/pt/docs/tutorials/o-que-e-account-name)} + {ID da política de envio} não pode exceder 60 caracteres.</li><li>Não se deve utilizar espaçamento no ID de [políticas de envio](/pt/docs/tutorials/criar-uma-politica-de-envio).</li></ul>
 
-É importante ressaltar que a disponibilidade das entregas agendadas está de acordo com o serviço que a transportadora contratada (cadastrada pela política de envio) oferece para sua loja. Para acompanhar a disponibilidade de janelas de entrega (ou períodos de envio) e a quantidade de itens/pedidos que ainda pode ser realizada em cada janela de entrega, confira a página de [Capacidade de entrega](/pt/tutorial/gerenciar-capacidade-de-entrega--2y217FQZCjD0I1n62yxVcz).
+É importante ressaltar que a disponibilidade das entregas agendadas está de acordo com o serviço que a transportadora contratada (cadastrada pela política de envio) oferece para sua loja. Para acompanhar a disponibilidade de janelas de entrega (ou períodos de envio) e a quantidade de itens/pedidos que ainda pode ser realizada em cada janela de entrega, confira a página de [Capacidade de entrega](/pt/docs/tutorials/gerenciar-capacidade-de-entrega).
 
 ### Como configurar
 
-As entregas agendadas são configuradas no momento de criação ou atualização de uma [política de envio](/pt/tutorial/politica-de-envio--tutorials_140). 
+As entregas agendadas são configuradas no momento de criação ou atualização de uma [política de envio](/pt/docs/tutorials/politica-de-envio). 
 

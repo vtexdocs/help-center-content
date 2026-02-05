@@ -21,17 +21,17 @@ Muitas vezes a mensagem de erro se refere à falta de estoque. Uma das formas ma
 
 Erros de falta de estoque podem ocorrer por diferentes motivos, os mais comuns são:
 
-- **Indisponibilidade de estoque:** um ou mais SKUs do pedido estão indisponíveis, é necessário [atualizar a quantidade de SKUs em estoque](/pt/tutorial/como-atualizar-estoque--2MDwYV1COA6YuoiY22AyGo).
+- **Indisponibilidade de estoque:** um ou mais SKUs do pedido estão indisponíveis, é necessário [atualizar a quantidade de SKUs em estoque](/pt/docs/tutorials/atualizacao-da-quantidade-de-itens-em-estoque).
 - **SKU inativo:** o SKU não está ativo, e somente SKUs ativos são integrados. Verifique o _status_ do item no seu Admin, em _Catálogo > Produtos e SKUs._
 - **Estoque negativo:** é possível que o [estoque esteja negativo](/pt/tutorial/atualizar-quantidade-de-skus-em-estoque--IKMWjOjMcMqKusSGko8c0#por-que-meu-estoque-esta-negativo). Isso ocorre quando existem mais itens reservados do que a quantidade total disponível em estoque.
-- **Item não consta na coleção ou política comercial**: verifique se o SKU está marcado corretamente na coleção ou política comercial definidos para o marketplace. Saiba mais em [Associação de SKU à Política Comercial](/pt/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb).
+- **Item não consta na coleção ou política comercial**: verifique se o SKU está marcado corretamente na coleção ou política comercial definidos para o marketplace. Saiba mais em [Associação de SKU à Política Comercial](/pt/docs/tutorials/associacao-de-sku-a-politica-comercial).
 
 Após solucionar o erro, o pedido deve ser reprocessado manualmente. No seu Admin, no módulo **MARKETPLACE > Conexões > Pedidos**, clique sobre o pedido com erro. Feito isso, o botão **Ações** se torna visível, clique sobre ele e escolha a opção **Reprocessar**.
 
-> ℹ️ Caso o erro persista, abra um [chamado para suporte VTEX.](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM)
+> ℹ️ Caso o erro persista, abra um [chamado para suporte VTEX.](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex)
 
 ### Saiba mais
 
-- [Controle de estoque mínimo para integrações](/pt/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D)
-- [Configurar o Alerta de Estoque Crítico](/pt/tutorial/configurar-o-alerta-de-estoque-critico--6FD0GHeQPCsKIMgkQ88SGu)
+- [Controle de estoque mínimo para integrações](/pt/docs/tutorials/controle-de-estoque-minimo-para-integracoes)
+- [Configurar o Alerta de Estoque Crítico](/pt/docs/tutorials/configurar-o-alerta-de-estoque-critico)
 - [Configurar Estoque Futuro](/pt/tutorial/configurar-estoque-futuro--UMSGjooqRfkRbeoh94kS4)

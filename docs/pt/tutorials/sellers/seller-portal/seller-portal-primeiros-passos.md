@@ -58,13 +58,13 @@ Para gerenciar o Catálogo do Seller Portal por API REST, confira a documentaç�
 
 Para saber mais, confira os seguintes artigos:
 
-- [Seller Portal: Como Funciona o Catálogo](/pt/tutorial/seller-portal-como-funciona-o-catalogo--7pMB6YOt6YQDQQbzFB4Pxp)  
-- [Lista de Produtos](/pt/tutorial/lista-de-produtos-beta--49vxWqoaWRZC4atwLz6cMg)  
-- [Como Criar um Produto](/pt/tutorial/como-criar-um-produto-beta--671zAWe0B9eCikzDu7kB1G)    
-- [Categorias](/pt/tutorial/categories-beta--798zOqqqbeec776xhcXSuV)  
-- [Marcas](/pt/tutorial/marcas-beta--3QvNtxO57U0QPNOGutv7Sy)
-- [Seller Portal: Produtos Compartilhados](/pt/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu)  
-- [Seller Portal: Detalhes do produto](/pt/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP)    
+- [Seller Portal: Como Funciona o Catálogo](/pt/docs/tutorials/seller-portal-como-funciona-o-catalogo)  
+- [Lista de Produtos](/pt/docs/tutorials/lista-de-produtos)  
+- [Como Criar um Produto](/pt/docs/tutorials/como-criar-um-produto)    
+- [Categorias](/pt/docs/tutorials/seller-portal-categorias)  
+- [Marcas](/pt/docs/tutorials/seller-portal-marcas)
+- [Seller Portal: Produtos Compartilhados](/pt/docs/tutorials/seller-portal-produtos-compartilhados)  
+- [Seller Portal: Detalhes do produto](/pt/docs/tutorials/seller-portal-detalhes-do-produto)    
 
 ### 2. Preços
 
@@ -85,10 +85,10 @@ A rota logística que compõe uma entrega começa no estoque, passa pelas docas 
 
 O Seller Portal já traz algumas funcionalidades pré-configuradas para facilitar a sua interação com a plataforma. Para acessar os módulos de logística, navegue na barra lateral clicando em Envio > Tarifas de Envio / Simulador de Envio / Pontos de Retirada / Estratégia de Envio. Sua conta já possui um estoque e uma doca padrão cadastrados, e não é preciso alterar essa configuração para que sua loja venda no marketplace. Porém, é necessário finalizar a configuração logística cadastrando as seguintes funcionalidades:
 
-- [Transportadora](/pt/tutorial/politica-de-envio--tutorials_140)  
-- [Tarifas de Envio](/pt/tutorial/gerenciar-valores-de-frete--tutorials_141)  
-- [Geolocalização](/pt/tutorial/gerenciar-geolocalizacao--tutorials_138)  
-- [Planilha de frete](/pt/tutorial/planilha-de-frete--tutorials_127)  
+- [Transportadora](/pt/docs/tutorials/politica-de-envio)  
+- [Tarifas de Envio](/pt/docs/tutorials/gerenciar-tarifas-de-envio)  
+- [Geolocalização](/pt/docs/tutorials/gerenciar-geolocalizacao)  
+- [Planilha de frete](/pt/docs/tutorials/planilha-de-frete)  
 
 ### 4. Inventário
 
@@ -98,7 +98,7 @@ Para acessar o Inventário, navegue na barra lateral clicando em Produtos > Gere
 
 Para saber mais, confira os seguintes artigos:  
 
-- [Gerenciar inventário](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139)
+- [Gerenciar inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque)
 
 ### 5. Pagamento
 
@@ -114,10 +114,10 @@ Para saber mais, confira os seguintes artigos:
 
 - [Como funciona o módulo de Pagamentos](/pt/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG)  
 - [Como funciona split de pagamento entre seller e marketplace](/pt/tracks/split-de-pagamentos--1ouDg8q56Kuz1AgtJUY9nv/ctgx6ulwy40P0BV07LW9y)  
-- [Cadastrar afiliado](/pt/tutorial/como-configurar-afiliado--tutorials_187)  
+- [Cadastrar afiliado](/pt/docs/tutorials/como-configurar-afiliado)  
 - [Configurar um conector de pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/7pAEMAo4iqNHwYOarZ3zgm)   
 - [Configurar uma condição de pagamento](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3)  
-- [Como configurar o antifraude](/pt/tutorial/como-configurar-antifraude--tutorials_446)   
+- [Como configurar o antifraude](/pt/docs/tutorials/como-configurar-antifraude)   
 
 ### 6. Vender produtos
 
@@ -125,7 +125,7 @@ Sempre que um produto ou uma variação são criados no Seller Portal, eles são
 
 Anúncio é o nome que damos para um produto ou variação de um seller enviado para o marketplace e que recebeu configurações de preço e estoque. Quando você configura condições de preço e estoque, você está preparando seu produto ou variação para que vire um anúncio. Uma vez configuradas as condições de preço e estoque, o produto da sua loja se torna de fato um anúncio na vitrine do marketplace. Para saber mais, confira o artigo abaixo:  
 
-- [Seller Portal: Anúncios e o Envio de Produtos para o Marketplace](/pt/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu)  
+- [Seller Portal: Anúncios e o Envio de Produtos para o Marketplace](/pt/docs/tutorials/seller-portal-anuncios-e-o-envio-de-produtos-para-o-marketplace)  
 
 ### 7. Pedidos
 
@@ -143,8 +143,8 @@ A página **Promoções** no Seller Portal permite que sellers e marketplaaces, 
 
 Para saber mais, confira os seguintes artigos:
 
- - [Seller Portal: Promoções](/pt/tutorial/seller-portal-promocoes--73LL7Ja0P4JbD77AH0jHwu)  
-  - [Seller Portal: Criar uma promoção](/pt/tutorial/seller-portal-criar-uma-promocao--kzNPEaiJE8EWkDzO9dbBI)  
+ - [Seller Portal: Promoções](/pt/docs/tutorials/seller-portal-promocoes)  
+  - [Seller Portal: Criar uma promoção](/pt/docs/tutorials/seller-portal-criar-uma-promocao)  
 
 ### 9. Acompanhar Gestão de anúncios
 
@@ -178,7 +178,7 @@ Se mais pessoas da sua operação precisarem acessar o Seller Portal, é possív
 
 - [Gerenciamento da conta](/pt/tutorial/visao-geral-do-modulo-license-manager/)    
 - [Gerenciar usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos)    
-- [Perfis de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
+- [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso)
 
 **Configurações do Usuário**
 Estas configurações se aplicam ao seu perfil de usuário individual. Inclui dados pessoais e autenticação. Para acessar essa funcionalidade, clique no avatar do seu perfil no canto superior direito > Configurações de Usuário.

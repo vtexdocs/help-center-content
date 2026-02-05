@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Redesenhamos a página Vínculos de SKU para facilitar o gerenciamento da relação entre os SKUs de sellers e marketplaces.'
 ---
 
-A VTEX possibilita que a sua loja atue tanto como [seller](/pt/tutorial/configurar-seller-para-vender-em-marketplace-vtex--6g045OkRSjNpqhkExbQRlP) quanto como [marketplace](/pt/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb), o que permite reduzir custos, alcançar mais clientes e aumentar a variedade de produtos oferecidos. Nesse contexto, cada marketplace precisa estabelecer e manter uma relação direta entre o seu catálogo e os [SKUs](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) oferecidos por sellers.
+A VTEX possibilita que a sua loja atue tanto como [seller](/pt/docs/tutorials/configurar-seller-para-vender-em-marketplace-vtex) quanto como [marketplace](/pt/docs/tutorials/configurar-marketplace-vtex), o que permite reduzir custos, alcançar mais clientes e aumentar a variedade de produtos oferecidos. Nesse contexto, cada marketplace precisa estabelecer e manter uma relação direta entre o seu catálogo e os [SKUs](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) oferecidos por sellers.
 
 Para aprimorar essa experiência, redesenhamos a página de **Vínculos de SKU** no Admin VTEX. A nova interface permite acompanhar e gerenciar a relação de vínculo entre os SKUs do seller e do marketplace de forma mais simples e ágil.
 
@@ -39,6 +39,6 @@ Atualizamos a página para simplificar a experiência de gerenciar vínculos de 
 
 Nenhuma ação é necessária, a atualização será automática para todas as lojas. É possível voltar à versão anterior da experiência a qualquer momento, clicando no aviso no topo da nova página.
 
-Para mais informações sobre como aproveitar a interface, confira o artigo [Vínculos de SKU](/pt/tutorial/vinculos-de-sku--1SmrVgNwjJX17hdqwLa0TX).
+Para mais informações sobre como aproveitar a interface, confira o artigo [Vínculos de SKU](/pt/docs/tutorials/vinculos-de-sku).
 
 Esta página segue o design do [Novo Admin VTEX](/pt/announcements/2022-06-13-bem-vindo-ao-novo-admin-vtex), com um visual mais simples, moderno e fácil de usar. Para acessar mais páginas com essa experiência, além de um Admin aprimorado com dados acionáveis, [faça parte](https://content.vtex.com/join-new-admin-beta-program-pt/?utm_source=announcement&utm_medium=help_center&utm_campaign=sku_bindings) do programa Beta do Novo Admin VTEX.

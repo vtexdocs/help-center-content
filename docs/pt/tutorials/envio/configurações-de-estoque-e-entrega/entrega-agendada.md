@@ -21,11 +21,11 @@ Os períodos de entrega que ficam disponíveis para os consumidores são chamado
 
 Caso a política de envio ofereça o serviço, você pode habilitar a entrega agendada configurando as janelas de entrega e definindo a capacidade de realização das entregas para cada janela de entrega, caso desejar.A habilitação da entrega agendada é feita através do campo __Entrega Agendada__ presente na tela de criação ou edição de Política de Envio. 
 
-> ⚠️ Para que a [Entrega agendada](/pt/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi) e a [Capacidade de entrega](/pt/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz) funcionem corretamente, você deve observar que:<ul><li>A soma {[account name](/pt/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC)} + {ID da política de envio} não pode exceder 60 caracteres.</li><li>Não se deve utilizar espaçamento no ID de [políticas de envio](/pt/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT).</li></ul>
+> ⚠️ Para que a [Entrega agendada](/pt/docs/tutorials/entrega-agendada) e a [Capacidade de entrega](/pt/docs/tutorials/gerenciar-capacidade-de-entrega) funcionem corretamente, você deve observar que:<ul><li>A soma {[account name](/pt/docs/tutorials/o-que-e-account-name)} + {ID da política de envio} não pode exceder 60 caracteres.</li><li>Não se deve utilizar espaçamento no ID de [políticas de envio](/pt/docs/tutorials/criar-uma-politica-de-envio).</li></ul>
 
 Uma vez habilitada a Entrega Agendada, você pode configurar os campos que determinarão como ela funcionará. Tais campos definem o [tempo máximo de entrega](#tempo-maximo-de-entrega), o [período de entrega](#periodo-de-entrega) e o [limite da capacidade de entrega](#capacidade-de-entrega).
 
-Leia o artigo [Política de Envio](/pt/tutorial/politica-de-envio--tutorials_140) para saber como criar uma nova política.
+Leia o artigo [Política de Envio](/pt/docs/tutorials/politica-de-envio) para saber como criar uma nova política.
 
 ## Tempo máximo de entrega
 
@@ -43,7 +43,7 @@ Definir capacidade de entrega é a forma que você tem em limitar a quantidade d
 
 Quando o cliente finaliza a compra e seleciona a entrega agendada, as opções de data e hora apresentadas levam em consideração a capacidade de entrega. Invariavelmente, o cliente só conseguirá agendar entregas nas janelas que ainda tiverem disponibilidade de 1 item/pedido. 
 
-> ℹ️ Se a janela já tiver a capacidade total de itens/pedidos, ela deixa de estar disponível para escolha. Para deixar novamente a janela disponível você deve aumentar os itens/pedidos da capacidade de entrega. Isso pode ser feito editando uma [Política de envio](/pt/tutorial/politica-de-envio--tutorials_140).
+> ℹ️ Se a janela já tiver a capacidade total de itens/pedidos, ela deixa de estar disponível para escolha. Para deixar novamente a janela disponível você deve aumentar os itens/pedidos da capacidade de entrega. Isso pode ser feito editando uma [Política de envio](/pt/docs/tutorials/politica-de-envio).
 
-Leia o artigo [Gerenciar capacidade de entrega](/pt/tutorial/gerenciar-capacidade-de-entrega--2y217FQZCjD0I1n62yxVcz) para saber mais.
+Leia o artigo [Gerenciar capacidade de entrega](/pt/docs/tutorials/gerenciar-capacidade-de-entrega) para saber mais.
 

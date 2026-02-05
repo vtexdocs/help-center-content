@@ -93,5 +93,5 @@ A Netshoes não aceita integração de itens com atributos obrigatórios não ma
 ### Saiba mais
 
 - [Integração com a Netshoes](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm)
-- [Controle de estoque mínimo para integrações](/pt/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D)
-- [Configurar o Alerta de Estoque Crítico](/pt/tutorial/configurar-o-alerta-de-estoque-critico--6FD0GHeQPCsKIMgkQ88SGu)
+- [Controle de estoque mínimo para integrações](/pt/docs/tutorials/controle-de-estoque-minimo-para-integracoes)
+- [Configurar o Alerta de Estoque Crítico](/pt/docs/tutorials/configurar-o-alerta-de-estoque-critico)

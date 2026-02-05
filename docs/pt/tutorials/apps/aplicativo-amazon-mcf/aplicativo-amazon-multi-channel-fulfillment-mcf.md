@@ -77,7 +77,7 @@ Para realizar essa configuração, acesse o Admin e siga os passos abaixo.
 
 Nos passos 8 e 10, a chave que deve ser preenchida é a chave de geolocalização Google. Confira [como gerar uma chave no guia de desenvolvedores do Google.](https://developers.google.com/maps/documentation/geocoding/overview) 
 
-> ℹ️ Se tiver dúvidas sobre a chave de geolocalização Google, confira detalhadamente como essa configuração é utilizada pela plataforma VTEX nos artigos [Configurar geolocalização no checkout](/pt/tutorial/geolocalizacao-no-checkout--tutorials_4345) e [Cadastrar geolocalização](/pt/tutorial/gerenciar-geolocalizacao--tutorials_138).
+> ℹ️ Se tiver dúvidas sobre a chave de geolocalização Google, confira detalhadamente como essa configuração é utilizada pela plataforma VTEX nos artigos [Configurar geolocalização no checkout](/pt/docs/tutorials/geolocalizacao-no-checkout) e [Cadastrar geolocalização](/pt/docs/tutorials/gerenciar-geolocalizacao).
 
 ### Instalação do aplicativo
 

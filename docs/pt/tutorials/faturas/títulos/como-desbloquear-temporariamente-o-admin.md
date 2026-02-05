@@ -21,7 +21,7 @@ O bloqueio do Admin ocorre quando há atraso no pagamento das faturas. Enquanto 
 Para realizar esse procedimento, é necessário ter uma das seguintes permissões:
 
 - Admin Super
-- Perfil de [Acesso Financeiro](/pt/tutorial/como-criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv)
+- Perfil de [Acesso Financeiro](/pt/docs/tutorials/criar-um-perfil-de-acesso-financeiro)
 
 ## Solicitação de desbloqueio
 1. No Admin VTEX, acesse **Faturas.**

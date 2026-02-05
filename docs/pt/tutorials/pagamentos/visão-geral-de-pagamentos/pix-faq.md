@@ -70,7 +70,7 @@ Quando o usuário clicar no Pix, um QR Code que comporta as informações da com
 
 ### É possível dividir um pagamento entre Pix e outra forma de pagamento?
 
-Atualmente, na VTEX, é possível dividir um pagamento somente entre Pix e [Giftcard](/pt/tutorial/gift-card--tutorials_995).
+Atualmente, na VTEX, é possível dividir um pagamento somente entre Pix e [Giftcard](/pt/docs/tutorials/gift-card).
 
 ### Como a plataforma irá subir o nosso QR Code para o consumidor? Como funciona essa integração?
 

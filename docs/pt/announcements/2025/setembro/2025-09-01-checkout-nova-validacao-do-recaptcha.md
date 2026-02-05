@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Nova camada de segurança no Checkout valida hosts via License Manager ao usar o reCAPTCHA.'
 ---
 
-Para reforçar a segurança durante a finalização de compras, adicionamos uma nova camada de proteção na validação do [reCAPTCHA](/pt/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP) da loja. A partir de agora, os [hosts](/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450#estrutura-do-endereco-da-loja) da loja são validados pelo [License Manager](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc), sistema responsável por verificar se um usuário possui as permissões adequadas para realizar ações na plataforma.
+Para reforçar a segurança durante a finalização de compras, adicionamos uma nova camada de proteção na validação do [reCAPTCHA](/pt/docs/tutorials/recaptcha-no-checkout) da loja. A partir de agora, os [hosts](/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450#estrutura-do-endereco-da-loja) da loja são validados pelo [License Manager](/pt/docs/tutorials/perfis-de-acesso), sistema responsável por verificar se um usuário possui as permissões adequadas para realizar ações na plataforma.
 
 ## O que mudou?
 

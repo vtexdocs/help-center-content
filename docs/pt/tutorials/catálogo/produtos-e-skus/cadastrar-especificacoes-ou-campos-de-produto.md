@@ -118,7 +118,7 @@ Confira a tabela a seguir para obter detalhes sobre os tipos de campo de produto
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">**Texto Indexado<br> <br>Texto Grande Indexado**</td>
-    <td class="t-body pa5" style="min-width: 15rem;">Seguem tecnicamente a mesma regra dos campos de Texto, com uma diferença: seus valores serão interpretados pelo [indexador](/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) do Catálogo e influenciam nos resultados de busca dos clientes na loja. Veja mais detalhes em [Como funciona a busca da VTEX?](/pt/tutorial/como-funciona-a-busca-da-vtex/).</td>
+    <td class="t-body pa5" style="min-width: 15rem;">Seguem tecnicamente a mesma regra dos campos de Texto, com uma diferença: seus valores serão interpretados pelo [indexador](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao) do Catálogo e influenciam nos resultados de busca dos clientes na loja. Veja mais detalhes em [Como funciona a busca da VTEX?](/pt/tutorial/como-funciona-a-busca-da-vtex/).</td>
   </tr>
 </tbody>
 </table>
@@ -210,5 +210,5 @@ Para preencher especificações de produtos em massa por planilha, é necessári
 ![product-spec-4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/produtos-e-skus/cadastrar-especificacoes-ou-campos-de-produto_5.gif)
 
 ## Saiba mais
-- [Cadastrar especificações ou campos de SKU](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119)
+- [Cadastrar especificações ou campos de SKU](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-sku)
 - [Especificações de produto e de SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)

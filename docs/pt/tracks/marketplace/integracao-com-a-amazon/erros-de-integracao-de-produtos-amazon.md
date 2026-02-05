@@ -145,12 +145,12 @@ Esse erro ocorre quando um SKU em seu feed não corresponde a nenhum ASIN no cat
 
 - **A categoria global VTEX (X) desse SKU não está configurada corretamente na integração**
 
-  O erro ocorre quando a [categoria global](/pt/tutorial/configurando-a-categoria-global--tutorials_188) selecionada no mapeamento não existe na Amazon. Confira o [mapeamento da Categoria Global](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#categoria-global) do produto, garantindo que a categoria selecionada está vinculada com a Amazon.
+  O erro ocorre quando a [categoria global](/pt/docs/tutorials/configurando-a-categoria-global) selecionada no mapeamento não existe na Amazon. Confira o [mapeamento da Categoria Global](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#categoria-global) do produto, garantindo que a categoria selecionada está vinculada com a Amazon.
 
 ## Aviso de SKU Inativo
 
 - **O SKU que você tentou enviar se encontra inativo na VTEX**
 
-O [SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) não está ativo na VTEX, e somente SKUs ativos são integrados. Em alguns casos, este erro é gerado por [coleções](/pt/tutorial/como-deletar-colecao--6C620yHzwsGoS8iaCocAM2) antigas vinculadas à política comercial da Amazon que contém SKUs inativos.
+O [SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) não está ativo na VTEX, e somente SKUs ativos são integrados. Em alguns casos, este erro é gerado por [coleções](/pt/docs/tutorials/como-deletar-colecao) antigas vinculadas à política comercial da Amazon que contém SKUs inativos.
 
-Verifique o status do SKU no seu Admin, no módulo _PRODUTOS > Catálogo > Produtos e SKUs_ e, se necessário, [ative o SKU](/pt/tutorial/ativar-skus-em-massa--4uMZATlSc0kEYiewWKSwEY).
+Verifique o status do SKU no seu Admin, no módulo _PRODUTOS > Catálogo > Produtos e SKUs_ e, se necessário, [ative o SKU](/pt/docs/tutorials/ativar-skus-em-massa).

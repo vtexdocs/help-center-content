@@ -23,7 +23,7 @@ Lembrando que, os produtos já mapeados e enviados ao marketplace, não serão a
 
 ## O que você precisa fazer?
 
-A partir de hoje 17 de março de 2025, o módulo **[Amazon Listing](/pt/tutorial/amazon-listing--5HIhbnYzJWkl2yM0o72WrL)** está disponível em todas as contas VTEX. Sugerimos a utilização do período de testes para conhecer o novo formato, veja abaixo algumas sugestões:
+A partir de hoje 17 de março de 2025, o módulo **[Amazon Listing](/pt/docs/tutorials/amazon-listing)** está disponível em todas as contas VTEX. Sugerimos a utilização do período de testes para conhecer o novo formato, veja abaixo algumas sugestões:
 
 Explore a interface e familiarize-se com os filtros, busca e listagem de SKUs.
 
@@ -33,4 +33,4 @@ Explore a interface e familiarize-se com os filtros, busca e listagem de SKUs.
 - Acompanhe a sincronização de dados e verifique os status dos SKUs enviados.  
 - Crie templates de produtos já enviados.  
 
-Caso tenha dúvidas ou feedbacks sobre o **Amazon Listing,** entre em contato com o nosso time de [suporte](https://supporticket.vtex.com/support). Para saber mais sobre o módulo, acesse a documentação [Amazon Listing](/pt/tutorial/amazon-listing--5HIhbnYzJWkl2yM0o72WrL).
+Caso tenha dúvidas ou feedbacks sobre o **Amazon Listing,** entre em contato com o nosso time de [suporte](https://supporticket.vtex.com/support). Para saber mais sobre o módulo, acesse a documentação [Amazon Listing](/pt/docs/tutorials/amazon-listing).

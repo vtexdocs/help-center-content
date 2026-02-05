@@ -33,7 +33,7 @@ On VTEX, storefronts can be built using the Legacy CMS, which manages all the co
 The Admin is also critical for a store, and the VTEX Admin is where you can manage all the information you need to enhance business performance and make better decisions. 
 
 ## VTEX IO
-Still focusing on performance and providing the best experience possible, VTEX introduced the VTEX IO concept to the market. VTEX IO is a low-code, cloud-based development platform that allows [developers](https://vtex.com/pt-br/parceiros/) to create ecommerce solutions. Its goal is to provide a cheaper and more efficient way to develop custom solutions and integrations within the VTEX ecosystem.  
+Still focusing on performance and providing the best experience possible, VTEX introduced the VTEX IO concept to the market. VTEX IO is a low-code, cloud-based development platform that allows [developers](https://vtex.com/en-us/partners/) to create ecommerce solutions. Its goal is to provide a cheaper and more efficient way to develop custom solutions and integrations within the VTEX ecosystem.  
 
 The platform provides your store's development team with all the tools they need to focus on implementing the business problem without worrying about software compatibility and infrastructure issues. VTEX IO enables both frontend and backend development. 
 

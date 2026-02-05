@@ -24,6 +24,6 @@ Se precisar acompanhar ou revisar solicitações anteriores, acesse o [Painel de
 > ⚠️ Para visualizar o painel de solicitações, é necessário ter um **perfil de acesso** no ambiente web da Indeva.
 
 O painel exibe apenas solicitações já registradas e permite acompanhar o status de cada uma.  
-Para abrir um novo chamado, utilize a Eva a assistente virtual da Indeva. Para mais informações acesse o artigo [Registrar chamado com o suporte por meio da assistente virtual Eva](/pt/tutorial/abrir-chamado-via-assistente-eva-indeva--7jL5JrDaKVnXcxIB9x4klr).
+Para abrir um novo chamado, utilize a Eva a assistente virtual da Indeva. Para mais informações acesse o artigo [Registrar chamado com o suporte por meio da assistente virtual Eva](/pt/docs/tutorials/registrar-chamado-com-o-suporte-por-meio-da-assistente-virtual-eva).
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usuário/painel-de-solicitacoes-indeva_2.gif)

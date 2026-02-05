@@ -27,7 +27,7 @@ Agora, integramos novos recursos e melhorias, tais como:
 * **Personalização e anexos:** permite personalizar produtos e adicionar anexos relevantes diretamente na PDP.
 * **Compre junto:** exibe combinações de ofertas mais relevantes para incentivar compras adicionais aos clientes.
 * **Outras ofertas:** melhora a exibição de alternativas disponíveis ao produto principal.
-* **Entrega e retirada:** exibe detalhes claros de envio e retirada com base no CEP do cliente, permitindo ordenar os [pontos de retirada](/pt/tutorial/como-funcionam-pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) pelo mais próximo, mais barato ou mais rápido.
+* **Entrega e retirada:** exibe detalhes claros de envio e retirada com base no CEP do cliente, permitindo ordenar os [pontos de retirada](/pt/docs/tutorials/pontos-de-retirada) pelo mais próximo, mais barato ou mais rápido.
 * **Performance e interface:** reduz o tempo de carregamento e renova o design para uma navegação mais fluida.
 * **Ajustes na exibição de estoque:** corrige informações de estoque para produtos disponíveis para entrega ou retirada, incluindo retirada imediata (*On Hands*).
 

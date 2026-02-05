@@ -18,7 +18,7 @@ subcategoryId: 78bsG4YLzz1TR7eUzFSf4F
 Totens são suportes físicos utilizados com tablets nas lojas para facilitar o uso dos aplicativos da Indeva, como o **Lista da Vez**.
 
 Para adquirir um modelo compatível com os requisitos da plataforma, consulte o artigo  
-[Modelos de tablets e totens compatíveis com a Indeva](/pt/tutorial/escolher-tablets-e-totens-compativeis-com-a-indeva--1FpN7tgpmg2kIg35DsiA7A)
+[Modelos de tablets e totens compatíveis com a Indeva](/pt/docs/tutorials/consultar-modelos-de-tablets-e-totens-compativeis-com-a-plataforma-indeva)
 
 > ⚠️ A Indeva é responsável apenas pelos aplicativos da plataforma, como o Lista da Vez, Indeva Web e inStore. Para troca, manutenção ou aquisição de totens (suportes físicos), recomendamos procurar um técnico autorizado ou a loja onde o equipamento foi adquirido.
 

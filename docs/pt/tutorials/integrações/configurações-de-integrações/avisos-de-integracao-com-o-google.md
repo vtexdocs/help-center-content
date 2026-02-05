@@ -39,15 +39,15 @@ A seguir saiba em que situação ele é obrigatório e como preencher cada campo
 
 - **Price:** é um campo obrigatório e deve ser preenchido informando com qual tipo de preço deseja apresentar no Google shopping.
 - Para identificar o erro de integração do preço do SKU com o Google, leia a documentação [Verificando integrações](/pt/tutorial/verificando-integracao-no-bridge/#preco).   
-- **Availability ou Disponibilidade:** é um campo obrigatório. Caso a integração de um SKU apresente erro, confira as documentações de [Gerenciamento de inventário](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) e [Estoque](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).  
-- **EAN/UPC:** é um campo obrigatório, existente no [módulo de Catálogo](/pt/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe) e deve ser preenchido com o código de identificação único do SKU (código de barras), aceita até 13 caracteres numéricos.  
-- **Manufacturer code ou Código do fabricante:** é um campo obrigatório, existente no [módulo de Catálogo](/pt/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe) e deve ser preenchido com o código fornecido pelo fabricante para identificar seu produto. Caso algum produto tenha um código específico, esse campo deve se preenchido.  
+- **Availability ou Disponibilidade:** é um campo obrigatório. Caso a integração de um SKU apresente erro, confira as documentações de [Gerenciamento de inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) e [Estoque](/pt/docs/tutorials/estoque).  
+- **EAN/UPC:** é um campo obrigatório, existente no [módulo de Catálogo](/pt/docs/tutorials/catalogo-visao-geral) e deve ser preenchido com o código de identificação único do SKU (código de barras), aceita até 13 caracteres numéricos.  
+- **Manufacturer code ou Código do fabricante:** é um campo obrigatório, existente no [módulo de Catálogo](/pt/docs/tutorials/catalogo-visao-geral) e deve ser preenchido com o código fornecido pelo fabricante para identificar seu produto. Caso algum produto tenha um código específico, esse campo deve se preenchido.  
 
 > ℹ️ Os códigos EAN/UPC e Código do fabricante são obrigatórios em venda de produtos manufaturados. Saiba quando aplicar o [EAN/UPC](https://support.google.com/merchants/answer/6324461?hl=pt-BR&ref_topic=6324338&sjid=10867212756007821438-SA) ou o [Código do fabricante](https://support.google.com/merchants/answer/6324482?hl=pt-BR&ref_topic=6324338&sjid=10867212756007821438-SA) a um produto.  
 
 - **Size:** é um campo obrigatório apenas para todos os produtos de vestuário que corresponde à categoria [ID1604](https://support.google.com/merchants/answer/6324492?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) e calçados que correspondem à categoria [ID187](https://support.google.com/merchants/answer/6324492?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) no Google. Se aplicável ao seu produto preencha com o tamanho referente ao SKU.  
 
-O campo Size ou Tamanho, é um [campo customizado](/pt/tutorial/criando-um-campo-de-produto--tutorials_106) que precisa ser criado pelo seller. Veja abaixo qual o nome e tipo do campo.  
+O campo Size ou Tamanho, é um [campo customizado](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto) que precisa ser criado pelo seller. Veja abaixo qual o nome e tipo do campo.  
 
 | **Nome do campo** | **Tipo do campo** |
 |:---:|:---:|
@@ -57,7 +57,7 @@ Campo desse tipo suporta o preenchimento de valores alfanuméricos como, **P,M,G
 
 - **Color:** é um campo obrigatório apenas para todos os itens de vestuário e acessórios que corresponde à [categoria ID166](https://support.google.com/merchants/answer/6324487?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) no Google. Se aplicável ao seu produto preencha com a cor referente ao SKU.  
 
-O campo Color ou cor, é um [campo customizado](/pt/tutorial/criando-um-campo-de-produto--tutorials_106) e deve ser criado pelo seller. Veja abaixo qual o nome e tipo do campo.  
+O campo Color ou cor, é um [campo customizado](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto) e deve ser criado pelo seller. Veja abaixo qual o nome e tipo do campo.  
 
 | **Nome do campo** | **Tipo do campo** |
 |:---:|:---:|
@@ -69,7 +69,7 @@ Campo desse tipo suporta o preenchimento de valores alfanuméricos como, **Verde
 
 - **Gender:** é um campo obrigatório apenas para todos os itens de vestuário e acessórios que corresponde à [categoria ID166](https://support.google.com/merchants/answer/6324479?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) no Google. Se aplicável ao seu produto preencha com a cor referente ao SKU.  
 
-O campo Gender ou gênero, é um [campo customizado](/pt/tutorial/criando-um-campo-de-produto--tutorials_106) e deve ser criado pelo seller. Veja abaixo qual o nome e tipo do campo.  
+O campo Gender ou gênero, é um [campo customizado](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto) e deve ser criado pelo seller. Veja abaixo qual o nome e tipo do campo.  
 
 | **Nome do campo** | **Tipo do campo** | **Valor do campo** |
 |:---:|:---:|:---:|
@@ -79,7 +79,7 @@ Campo desse tipo requer preenchimento de valores pré-definidos. Somente os valo
 
 - **Age Group:**  é um campo obrigatório para todos os itens de vestuário e acessórios que corresponde à [categoria ID166](https://support.google.com/merchants/answer/6324463?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1#:~:text=Veja%20a%20seguir%20os%20valores%20aceitos%20para%20este%20atributo%3A) no Google. Se aplicável ao seu produto preencha com a cor referente ao SKU.  
 
-O campo Age Group ou Faixa etária, é um [campo customizado](/pt/tutorial/criando-um-campo-de-produto--tutorials_106) e deve ser criado pelo seller. Veja abaixo qual o nome e tipo do campo.  
+O campo Age Group ou Faixa etária, é um [campo customizado](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto) e deve ser criado pelo seller. Veja abaixo qual o nome e tipo do campo.  
 
 | **Nome do campo** | **Tipo do campo** | **Valor do campo** |
 |:---:|:---:|:---:|

@@ -152,7 +152,7 @@ Ao detectar qualquer inconsistência ou erro durante a transação de pagamento 
 
 No caso das soluções de CMS nativas, é comum que o lojista conte com a parceria de uma agência implementadora para customizar a aparência e a experiência do cliente na frente de loja.
 
-A VTEX possui as seguintes possibilidades de CMS nativas: o [Layout](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj#layout) para lojas [CMS Portal (Legado)](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), o [Site Editor](/pt/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) para lojas usando o [Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework) e o [Headless CMS](/pt/tutorial/headless-cms-visao-geral--3U5gvhHdQL0jczYH8gjX09) para lojas usando a [FastStore](https://www.faststore.dev/). Além disso, também é possível integrar o seu CMS externo com as APIs da VTEX de forma [headless](https://developers.vtex.com/docs/guides/headless-commerce).
+A VTEX possui as seguintes possibilidades de CMS nativas: o [Layout](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj#layout) para lojas [CMS Portal (Legado)](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), o [Site Editor](/pt/docs/tutorials/site-editor-visao-geral) para lojas usando o [Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework) e o [Headless CMS](/pt/docs/tutorials/headless-cms-visao-geral) para lojas usando a [FastStore](https://www.faststore.dev/). Além disso, também é possível integrar o seu CMS externo com as APIs da VTEX de forma [headless](https://developers.vtex.com/docs/guides/headless-commerce).
 
 Problemas relacionados a como o conteúdo está aparecendo para o usuário final devem sempre ser tratados inicialmente com o suporte da agência. Alguns exemplos desses problemas são:
 
@@ -168,7 +168,7 @@ Se a agência verificar que o problema está em controles, apps ou componentes n
 
 ## Integrações com marketplaces externos
 
-A VTEX possui uma arquitetura multi-seller nativa que permite que lojas VTEX se tornem marketplaces ou sellers em outras lojas VTEX. Além disso, a plataforma também possui integrações nativas com marketplaces externos para ofertar seus produtos sem necessidade de desenvolvimento. Os marketplaces com integrações nativas podem ser encontrados no guia [Marketplaces e Integrações](/pt/tutorial/marketplaces-e-integracoes--5AcBO1t29nhq7rBHas9b6V).
+A VTEX possui uma arquitetura multi-seller nativa que permite que lojas VTEX se tornem marketplaces ou sellers em outras lojas VTEX. Além disso, a plataforma também possui integrações nativas com marketplaces externos para ofertar seus produtos sem necessidade de desenvolvimento. Os marketplaces com integrações nativas podem ser encontrados no guia [Marketplaces e Integrações](/pt/docs/tutorials/marketplaces-e-integracoes).
 
 Ainda assim, podem existir lojas parceiras estratégicas para o seu negócio que operem fora dessa rede colaborativa nativa. Para casos como esse, a VTEX permite o desenvolvimento de [integrações com marketplaces externos](https://developers.vtex.com/docs/guides/external-marketplace-integration-guide), com conectores externos (hubs) responsáveis por fazer a comunicação entre uma loja VTEX e um marketplace externo não-nativo.
 
@@ -205,7 +205,7 @@ Para mais informações sobre quem é responsável por cada etapa do fluxo de um
 Para entender qual suporte deve ser acionado caso haja algum problema na atualização do status do pedido, é preciso seguir o passo a passo:
 
 1. No Admin VTEX, acesse **Pedidos > Todos os Pedidos**.
-2. Clique no pedido desejado para acessar a [página de detalhes do pedido](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
+2. Clique no pedido desejado para acessar a [página de detalhes do pedido](/pt/docs/tutorials/pagina-de-detalhes-do-pedido).
 3. Na seção **Histórico do pedido**, clique em `Ver interações` (botão ilustrado a seguir), e verifique se há alguma mensagem de erro. 
 
 ![ver-interacoes-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/operacional/responsabilidades-no-ecossistema-vtex_2.png)

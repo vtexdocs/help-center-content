@@ -32,7 +32,7 @@ Além de pesquisar pedidos em **Pedidos > Todos os pedidos**, você pode buscar 
 
 ## Vendo os detalhes de um pedido
 
-Ao clicar em um pedido, você é direcionado para a tela de [detalhes do pedido](/pt/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl), onde é possível consultar uma série de informações sobre o pedido e ainda executar algumas ações, tais como:
+Ao clicar em um pedido, você é direcionado para a tela de [detalhes do pedido](/pt/docs/tutorials/pagina-de-detalhes-do-pedido), onde é possível consultar uma série de informações sobre o pedido e ainda executar algumas ações, tais como:
 - Reenviar o último e-mail para o cliente.
 - Cancelar manualmente o pedido.
 - Faturar os itens do pedido.

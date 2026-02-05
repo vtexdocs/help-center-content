@@ -15,12 +15,12 @@ locale: pt
 subcategoryId: 3PQwnyOcNyYgawy06oe6gE
 ---
 
-A atualização de itens em [estoque](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) ocorre quando a loja altera, para mais ou para menos, a  quantidade de unidades de um SKU. Essa atualização ocorre por meio do **[Inventário ](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139)** na plataforma VTEX.
+A atualização de itens em [estoque](/pt/docs/tutorials/estoque) ocorre quando a loja altera, para mais ou para menos, a  quantidade de unidades de um SKU. Essa atualização ocorre por meio do **[Inventário ](/pt/docs/tutorials/gerenciar-itens-em-estoque)** na plataforma VTEX.
 
 Há três formas de realizar a atualização de itens em estoque:
 
 * **Via API:** utilizando o endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
-* **Via Admin, por planilha:** utilizando a planilha de estoque gerada pela plataforma VTEX, através da exportação e importação da planilha atualizada. Essa opção possibilita a atualização massiva de dados. Saiba mais em [Importar e exportar planilha de estoque](/pt/tutorial/importando-e-exportando-planilha-de-estoque--tutorials_2034).
+* **Via Admin, por planilha:** utilizando a planilha de estoque gerada pela plataforma VTEX, através da exportação e importação da planilha atualizada. Essa opção possibilita a atualização massiva de dados. Saiba mais em [Importar e exportar planilha de estoque](/pt/docs/tutorials/importando-e-exportando-planilha-de-estoque).
 * **Via Admin, manualmente:** atualizando de forma manual um SKU por vez, conforme as orientações a seguir.
 
 É importante ressaltar que a atualização do estoque ocorre caso exista alguma diferença na nova quantidade de itens. Para que haja uma alteração do estoque, tanto via Admin VTEX ou via API, a quantidade de itens após a modificação deve ser diferente da quantidade de itens disponíveis no momento. A plataforma também aceita a atualização quando o inventário tem uma [reserva reconhecida,](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-reconhecida) mesmo quando a quantidade de itens disponíveis é igual à da atualização.
@@ -49,5 +49,5 @@ O estoque negativo normalmente ocorre quando há atualização na quantidade de 
 
 ## Artigos relacionados
 
-* [Gerenciar inventário](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139)
-* [Como a reserva funciona](/pt/tutorial/como-a-reserva-funciona--tutorials_92)
+* [Gerenciar inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque)
+* [Como a reserva funciona](/pt/docs/tutorials/como-a-reserva-funciona)

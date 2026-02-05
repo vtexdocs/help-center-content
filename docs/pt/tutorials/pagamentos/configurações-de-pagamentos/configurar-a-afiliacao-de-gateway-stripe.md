@@ -60,7 +60,7 @@ Após a configuração no ambiente VTEX, você também precisa configurar o Webh
 
 Ao concluir as etapas indicadas, a Stripe estará configurada na sua loja. Assim, ao cadastrar uma condição de pagamento, ela vai estar disponível no campo __Processar com a afiliação__ (desde que o meio de pagamento seja compatível com a Stripe). 
 
-Para definir condições de pagamento, acesse o artigo [Configurar condições de pagamento](/pt/tutorial/condicoes-de-pagamento--tutorials_455).
+Para definir condições de pagamento, acesse o artigo [Configurar condições de pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 ## Configurar Google Pay
 

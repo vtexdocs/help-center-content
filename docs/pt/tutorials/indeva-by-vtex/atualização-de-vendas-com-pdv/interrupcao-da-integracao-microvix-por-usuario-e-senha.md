@@ -27,5 +27,5 @@ Essa é a forma mais recomendada para manter a atualização automática. Verifi
 
 ## Validação manual
 
-A validação manual permite manter a loja atualizada sem utilizar uma integração.Para mais detalhes sobre como realizar o processo, acesse [Como validar vendas na plataforma](/pt/tutorial/como-validar-vendas-na-plataforma-indeva--5GRLWlRabZKTm3Ina5PpI7) .  
+A validação manual permite manter a loja atualizada sem utilizar uma integração.Para mais detalhes sobre como realizar o processo, acesse [Como validar vendas na plataforma](/pt/docs/tutorials/validar-valores-de-pdv-na-plataforma-indeva) .  
 

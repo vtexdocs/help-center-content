@@ -16,7 +16,7 @@ subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 order: 1
 ---
 
-Associar uma [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) à organização é essencial para uma operação B2B. Isso permite a aplicação de regras específicas de preços, descontos e condições de pagamento, proporcionando um gerenciamento personalizado das relações comerciais.
+Associar uma [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) à organização é essencial para uma operação B2B. Isso permite a aplicação de regras específicas de preços, descontos e condições de pagamento, proporcionando um gerenciamento personalizado das relações comerciais.
 
 O principal objetivo das políticas comerciais no B2B é garantir que todas as transações sigam as condições comerciais definidas pela empresa, proporcionando uma experiência de compra consistente e alinhada com as estratégias de negócios. Isso inclui:
 - Estabelecer preços específicos para produtos ou grupos de produtos, ajustando conforme necessário para diferentes clientes ou segmentos de mercado.

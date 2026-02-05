@@ -24,7 +24,7 @@ O número de assinaturas é ilimitado, tanto para sua loja quanto para seu clien
 Sim, o cliente consegue fazer quantas assinaturas quiser.
 
 ### O meu cliente pode comprar pela Assinatura e retirar nas lojas ou em outros pontos de retirada?
-Sim, leia o artigo [Pontos de retirada para pedidos de assinatura (Beta)](/pt/tutorial/pontos-de-retirada-para-pedidos-de-assinatura-beta--csIqB6iBh4QNIFdEj0nVv) para mais informações.
+Sim, leia o artigo [Pontos de retirada para pedidos de assinatura (Beta)](/pt/docs/tutorials/pontos-de-retirada-para-pedidos-de-assinatura) para mais informações.
 
 ### O meu cliente pode cadastrar mais de um endereço na sua assinatura?
 Não é possível cadastrar mais de um endereço na mesma assinatura.
@@ -39,7 +39,7 @@ Sim, é possível criar uma assinatura com vários SKUs.
 
 A quantidade de itens na assinatura vai ser a quantidade de itens disponíveis no momento em que o pedido de recorrência foi gerado, ou seja, se o cliente tem 4 SKUs na assinatura e apenas 3 estão disponíveis no momento da recorrência, a assinatura é criada com 3 SKUs. Nesses casos, o item faltante não é cobrado e a assinatura é marcada como Parcial no **Minha conta**.
 
-Você também pode comunicar o cliente sobre a assinatura parcialmente gerada através do nosso módulo [Central de mensagens](/pt/tutorial/emails-transacionais-para-pedidos-de-assinaturas--2NYHqHMRqZ43Cn6s84ZCB5). A chave desse template de mensagem é `vtexcommerce-subscriptions-partialorder`.
+Você também pode comunicar o cliente sobre a assinatura parcialmente gerada através do nosso módulo [Central de mensagens](/pt/docs/tutorials/emails-transacionais-para-pedidos-de-assinaturas). A chave desse template de mensagem é `vtexcommerce-subscriptions-partialorder`.
 
 ### Posso dar um desconto sobre os produtos em um plano de assinatura?
 Sim, desde que você crie uma promoção regular e marque o checkbox `Pedido de assinatura`. Para entender como criar promoções, leia a trilha (Criar Promoção Regular)[https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI].
@@ -57,7 +57,7 @@ Se o cartão do cliente foi cancelado e ele não percebeu antes da execução da
 
 Além disso, ele pode alterar o cartão cadastrado na assinatura a qualquer momento. Se o cartão dele foi cancelado e ele inseriu um cartão novo depois do dia de geração da assinatura, essa assinatura não vai ser gerada, mas a próxima recorrência vai ser tentada no novo cartão.
 
-Usando o nosso módulo [Central de mensagens](/pt/tutorial/emails-transacionais-para-pedidos-de-assinaturas--2NYHqHMRqZ43Cn6s84ZCB5), você pode ativar o envio de email comunicando que o pagamento da assinatura não foi aprovado. A chave desse template de mensagem é `vtexcommerce-subscriptions-payment-not-approved`.
+Usando o nosso módulo [Central de mensagens](/pt/docs/tutorials/emails-transacionais-para-pedidos-de-assinaturas), você pode ativar o envio de email comunicando que o pagamento da assinatura não foi aprovado. A chave desse template de mensagem é `vtexcommerce-subscriptions-payment-not-approved`.
 
 ### Meu cliente pode solicitar uma entrega agendada para pedido de assinatura?
 Hoje não é possível solicitar uma entrega agendada para pedidos de assinatura. Esse cenário não é atendido para que o seu cliente não seja afetado negativamente, caso a configuração logística de sua loja mude. Contudo, seu cliente pode criar uma nova assinatura marcando a data futura que desejar para a primeira entrega.
@@ -88,4 +88,4 @@ No entanto, você pode estabelecer outro horário via API, com a requisição [E
 Não, Assinaturas não funciona com o [Seller Portal](/pt/tutorial/how-to-set-up-your-store-on-seller-portal).
 
 ### Como funciona a criação de assinaturas a partir de pedidos originais que possuem SKUs com anexos? 
-Por padrão, as lojas não criam pedidos de assinatura incorporando [anexos](/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) de SKUs do pedido original, ou seja, os anexos são desconsiderados nos pedidos recorrentes. No entanto, é possível habilitar essa configuração para a loja, o que só pode ser feito via API usando o endpoint [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings). Saiba mais em [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).
+Por padrão, as lojas não criam pedidos de assinatura incorporando [anexos](/pt/docs/tutorials/o-que-e-um-anexo) de SKUs do pedido original, ou seja, os anexos são desconsiderados nos pedidos recorrentes. No entanto, é possível habilitar essa configuração para a loja, o que só pode ser feito via API usando o endpoint [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings). Saiba mais em [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).

@@ -27,9 +27,9 @@ As funcionalidades de televendas disponíveis na VTEX são:
 - [Inserir preço manual](#inserir-preco-manual)
 - [Gerenciamento de pedidos](#gerenciamento-de-pedidos)
 
-> ⚠️ Para ter acesso à toolbar de televendas, à inserção de preço manual e à página [**Todos os pedidos**](/pt/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi), o usuário precisa ser cadastrado na loja com o [perfil de acesso Call Center operator](/pt/tutorial/como-criar-um-usuario-de-televendas--frequentlyAskedQuestions_4227).
+> ⚠️ Para ter acesso à toolbar de televendas, à inserção de preço manual e à página [**Todos os pedidos**](/pt/docs/tutorials/todos-os-pedidos), o usuário precisa ser cadastrado na loja com o [perfil de acesso Call Center operator](/pt/docs/tutorials/como-criar-um-usuario-de-televendas).
 
-É necessário configurar as funcionalidades listadas acima previamente, seguindo os passos do tutorial [Como configurar as funcionalidades de televendas](/pt/tutorial/como-configurar-as-funcionalidades-de-televendas--76FNgQP2Glc4umMJ5Yr50R).
+É necessário configurar as funcionalidades listadas acima previamente, seguindo os passos do tutorial [Como configurar as funcionalidades de televendas](/pt/docs/tutorials/como-configurar-as-funcionalidades-de-televendas).
 
 Assim que fizer login com o email cadastrado nesse perfil, o operador de televendas será redirecionado para a página inicial da loja.
 
@@ -37,15 +37,15 @@ Assim que fizer login com o email cadastrado nesse perfil, o operador de televen
 
 A Toolbar de televendas é uma barra superior exibida no site da loja para usuários com o perfil Call Center operator. Por meio dela, operadores de televendas podem navegar na loja, realizar compras e gerir pedidos em nome dos clientes.
 
-Para saber como utilizar esse recurso, confira o tutorial [Toolbar de Televendas](/pt/tutorial/usando-e-customizando-toolbar-de-televendas--tutorials_5500).
+Para saber como utilizar esse recurso, confira o tutorial [Toolbar de Televendas](/pt/docs/tutorials/toolbar-de-televendas).
 
-> ℹ️ Um caso de uso do televendas é  importar pedidos de outras plataformas para o módulo Pedidos da VTEX. Para isso, você pode associar uma [política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) específica com o pagamento por [promissória](/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ) (método de pagamento aprovado imediatamente e manualmente pelo próprio operador). 
+> ℹ️ Um caso de uso do televendas é  importar pedidos de outras plataformas para o módulo Pedidos da VTEX. Para isso, você pode associar uma [política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) específica com o pagamento por [promissória](/pt/docs/tutorials/configurar-pagamentos-com-promissoria) (método de pagamento aprovado imediatamente e manualmente pelo próprio operador). 
 
 ### Minha Conta
 
 Ao navegar na loja em nome do cliente por meio da toolbar, o operador de televendas pode acessar a página **Minha Conta** para realizar a gestão de dados pessoais, endereços, pedidos, cartões e assinaturas de forma simplificada em uma única página.
 
-Para saber mais, leia o tutorial [Como funciona a página Minha Conta](/pt/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh).
+Para saber mais, leia o tutorial [Como funciona a página Minha Conta](/pt/docs/tutorials/como-funciona-a-minha-conta).
 
 ### Comprar em nome do cliente
 
@@ -70,7 +70,7 @@ Para entrar no menu de assinaturas, siga os passos abaixo:
 - `Nova assinatura` para criar uma assinatura.
 - `Ver detalhes` para editar uma assinatura existente.
 
-> ℹ️ Para saber mais sobre assinaturas, leia o artigo [Como funciona a assinatura](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453).
+> ℹ️ Para saber mais sobre assinaturas, leia o artigo [Como funciona a assinatura](/pt/docs/tutorials/como-funciona-a-assinatura).
 
 ## Carrinho Compartilhável
 
@@ -78,9 +78,9 @@ Com o Carrinho Compartilhável, o operador de televendas pode incluir os produto
 
 Nesse caso, o email do operador não é registrado nas informações do pedido.
 
-Para utilizar esse recurso, é necessário que a loja possua o aplicativo [Carrinho Compartilhável (Social Selling)](/pt/tutorial/como-ativar-o-app-carrinho-compartilhavel--1lS3fQdXpOoC0BTeVhydfg) instalado e ativado.
+Para utilizar esse recurso, é necessário que a loja possua o aplicativo [Carrinho Compartilhável (Social Selling)](/pt/docs/tutorials/como-ativar-o-app-carrinho-compartilhavel) instalado e ativado.
 
-Leia o artigo [Como usar o app Carrinho Compartilhável](/pt/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN) para saber mais.
+Leia o artigo [Como usar o app Carrinho Compartilhável](/pt/docs/tutorials/como-usar-o-app-carrinho-compartilhavel) para saber mais.
 
 ## Inserir preço manual
 
@@ -90,7 +90,7 @@ Para isso, é necessário que a funcionalidade de preço manual tenha sido habil
 
 Para modificar o preço, o operador deve clicar duas vezes no preço exibido no carrinho e inserir qualquer outro valor. Não há restrições sobre aumento e redução de preço.
 
-Após fechar o pedido, o preço manual precisa ser aprovado pelo administrador da loja ou por um usuário com permissão no sistema de [Autorização de Pedidos](/pt/tutorial/how-order-authorization-works--3MBK6CmKHAuUjMBieDU0pn). Uma vez validado o preço manual inserido, o pedido segue o fluxo de faturamento.
+Após fechar o pedido, o preço manual precisa ser aprovado pelo administrador da loja ou por um usuário com permissão no sistema de [Autorização de Pedidos](/pt/docs/tutorials/como-funciona-a-autorizacao-de-pedidos). Uma vez validado o preço manual inserido, o pedido segue o fluxo de faturamento.
 
 ## Gerenciamento de pedidos
 
@@ -100,7 +100,7 @@ Leia o tutorial sobre a [Estrutura do Gerenciamento de pedidos](/pt/tutorial/est
 
 Para entender as principais funcionalidades da página **Todos os pedidos**, confira os artigos:
 
-* [Alterar itens do pedido](/pt/tutorial/como-fazer-a-alteracao-de-itens--tutorials_190).
-* [Cancelar pedido](/pt/tutorial/como-cancelar-pedido--tutorials_186).
+* [Alterar itens do pedido](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado).
+* [Cancelar pedido](/pt/docs/tutorials/como-cancelar-pedido).
 * [Devolução de itens do pedido](/pt/tutorial/como-fazer-a-devolucao-de-itens--tutorials_191).
-* [Verificar detalhes de erros nos pedidos](/pt/tutorial/como-verificar-detalhes-de-erros-nos-pedidos--frequentlyAskedQuestions_6718).
+* [Verificar detalhes de erros nos pedidos](/pt/docs/tutorials/como-verificar-detalhes-de-erros-nos-pedidos).

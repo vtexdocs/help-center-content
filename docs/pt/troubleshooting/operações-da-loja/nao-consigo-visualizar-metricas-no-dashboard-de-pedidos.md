@@ -43,4 +43,4 @@ Ajustar o período de comparação pode resolver o problema ao exibir métricas 
 Considere o tempo de espera de 10 a 80 minutos para a atualização das informações no painel. Este período é necessário para que os dados sejam processados e exibidos corretamente. Para mais informações sobre o tempo de espera, acesse [Comparação de períodos](/pt/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ?&utm_source=autocomplete#comparacao-de-periodos).
 
 ### Verifique as permissões de acesso
-Para visualizar as informações no dashboard, certifique de que você possui um perfil de acesso que contenha o [recurso](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) Insights Metrics. Para mais informações sobre os perfis de acesso e como configurá-los, acesse o artigo [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+Para visualizar as informações no dashboard, certifique de que você possui um perfil de acesso que contenha o [recurso](/pt/docs/tutorials/recursos-do-license-manager) Insights Metrics. Para mais informações sobre os perfis de acesso e como configurá-los, acesse o artigo [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso).

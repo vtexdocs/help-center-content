@@ -23,7 +23,7 @@ Por exemplo, sua loja tem uma entidade **Cliente** e outra **Lista de Compras**,
 
 ## Criar um relacionamento entre entidades de dados
 
-Para criar um relacionamento, é necessário ter duas entidades de dados. Se só tiver uma, você poderá criar outra durante o passo a passo a seguir. Para mais informações sobre entidades de dados, consulte o guia [Entidade de dados](/pt/tutorial/entidade-de-dados--tutorials_1265).
+Para criar um relacionamento, é necessário ter duas entidades de dados. Se só tiver uma, você poderá criar outra durante o passo a passo a seguir. Para mais informações sobre entidades de dados, consulte o guia [Entidade de dados](/pt/docs/tutorials/entidade-de-dados).
 
 No exemplo citado na introdução, é necessário criar uma entidade de dados chamada **Lista de Compras** que se relacionará com a entidade **Cliente**. Esse relacionamento permitirá que um cliente possa ter várias listas de compras, porém uma lista de compras só pode pertencer a um único cliente.
 
@@ -36,11 +36,11 @@ Confira o passo a passo a seguir, ilustrado com esse exemplo:
 5. Se deseja criar um relacionamento em uma nova entidade, clique no botão `Adicionar` para criar uma nova entidade de dados.
 
    Caso queira criar um relacionamento em uma entidade existente, localize-a e clique no botão de edição <i class="fas fa-edit"></i>, depois siga para o passo 7.
-6. Configure a entidade que será criada preenchendo os campos **Acrônimo** e **Nome** e adicionando os campos desejados. Saiba mais sobre campos no guia [Criar um campo no Master Data](/pt/tutorial/como-crio-um-campo-no-master-data--frequentlyAskedQuestions_1829).
+6. Configure a entidade que será criada preenchendo os campos **Acrônimo** e **Nome** e adicionando os campos desejados. Saiba mais sobre campos no guia [Criar um campo no Master Data](/pt/docs/tutorials/como-crio-um-campo-no-master-data).
 
    Neste exemplo, a entidade utilizará o nome `Lista de compras`, o acrônimo `LC` e, inicialmente, o campo `compras` de tipo `Varchar 750`.
 
-   Para mais detalhes sobre o preenchimento, consulte o guia [Entidade de dados](/pt/tutorial/entidade-de-dados--tutorials_1265). 
+   Para mais detalhes sobre o preenchimento, consulte o guia [Entidade de dados](/pt/docs/tutorials/entidade-de-dados). 
 7. Adicione um campo de tipo **Relacionamento** e defina seu nome. Neste exemplo, ele será chamado de `Cliente`.
 8. Clique no ícone de engrenagem <i class="fas fa-cog"></i> ao lado do campo de **Relacionamento** para configurá-lo.
 9. Em **Configurações de campo personalizado**, selecione a entidade à qual deseja fazer referência e o campo que será mostrado no relacionamento. Neste exemplo, o relacionamento será feito com a entidade **Cliente** e será exibido o campo **email**.
@@ -53,7 +53,7 @@ Confira o passo a passo a seguir, ilustrado com esse exemplo:
 
 ## Criar um relacionamento entre documentos
 
-Os relacionamentos também podem ser aplicados a documentos, uma vez que houver um [relacionamento entre entidades de dados](#criar-um-relacionamento-entre-entidades-de-dados). Para isso, será necessário modificar o [formulário](/pt/tutorial/criando-formulario-no-master-data--tutorials_1047) de uma entidade de dados.
+Os relacionamentos também podem ser aplicados a documentos, uma vez que houver um [relacionamento entre entidades de dados](#criar-um-relacionamento-entre-entidades-de-dados). Para isso, será necessário modificar o [formulário](/pt/docs/tutorials/criando-formulario-no-master-data) de uma entidade de dados.
 
 Confira o passo a passo a seguir:
 
@@ -89,7 +89,7 @@ Para isso, você precisa adicionar ao formulário da entidade o valor `{acronimo
 
 ## Adicionar filtros aos campos de relacionamento
 
-Os relacionamentos são mantidos através dos IDs dos documentos. Então, ao tentar inserir o valor do campo de relacionamento como filtro no formulário, obteremos apenas os valores dos IDs dos documentos referidos, e não os valores do campo escolhido para cada documento. As imagem abaixo mostra esse resultado. Veja mais informações no artigo [Filtrar dados no Master Data](/pt/tutorial/filtrando-dados-no-master-data--tutorials_778).
+Os relacionamentos são mantidos através dos IDs dos documentos. Então, ao tentar inserir o valor do campo de relacionamento como filtro no formulário, obteremos apenas os valores dos IDs dos documentos referidos, e não os valores do campo escolhido para cada documento. As imagem abaixo mostra esse resultado. Veja mais informações no artigo [Filtrar dados no Master Data](/pt/docs/tutorials/filtrando-dados-no-master-data).
 
 ![Filtro relacionamento ID](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/aplicações-no-master-data-v1/criar-relacionamentos-entre-entidades-do-master-data-usando-o-admin_2.png)
 

@@ -48,8 +48,8 @@ No Admin VTEX, é necessário realizar as seguintes etapas:
 
 ### Definir política comercial  
 
-A [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) é o que determina o sortimento de produtos, preços e estratégia de envio da sua loja VTEX em um canal de venda. Para vender na AMARO, o seller deverá [configurar uma política comercial](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/) para marketplace com um sortimento inicial de produtos, contendo o mínimo de cinco itens com fotografia, preços e estoque disponíveis. 
-Não existe cobrança para a contratação de [políticas comerciais adicionais](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X) para integrar sua loja VTEX com conectores nativos, conectores certificados, tais como a AMARO, ou outras lojas VTEX.  
+A [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) é o que determina o sortimento de produtos, preços e estratégia de envio da sua loja VTEX em um canal de venda. Para vender na AMARO, o seller deverá [configurar uma política comercial](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/) para marketplace com um sortimento inicial de produtos, contendo o mínimo de cinco itens com fotografia, preços e estoque disponíveis. 
+Não existe cobrança para a contratação de [políticas comerciais adicionais](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional) para integrar sua loja VTEX com conectores nativos, conectores certificados, tais como a AMARO, ou outras lojas VTEX.  
 
 ### Criar novo AppKey e AppToken  
 
@@ -68,7 +68,7 @@ Para configurar uma nova chave, siga os passos abaixo:
 
 ### Criar ID do afiliado  
 
-O [afiliado](/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) é o identificador de um seller VTEX em um marketplace, sendo necessário que o seller tenha um ID do afiliado diferente para cada marketplace onde venda seus produtos. Isso significa que, para integrar com a AMARO, é preciso [configurar um afiliado](/pt/tutorial/como-configurar-afiliado--tutorials_187) exclusivo.   
+O [afiliado](/pt/docs/tutorials/o-que-e-afiliado) é o identificador de um seller VTEX em um marketplace, sendo necessário que o seller tenha um ID do afiliado diferente para cada marketplace onde venda seus produtos. Isso significa que, para integrar com a AMARO, é preciso [configurar um afiliado](/pt/docs/tutorials/como-configurar-afiliado) exclusivo.   
 
 Para criar um novo ID do afiliado, siga os passos abaixo:  
 

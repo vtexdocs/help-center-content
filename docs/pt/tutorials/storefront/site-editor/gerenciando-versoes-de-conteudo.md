@@ -55,7 +55,7 @@ Depois de [criar uma nova versão de conteúdo](#criando-uma-nova-versão-de-con
 
 Depois de [criar uma nova versão de conteúdo](#criando-uma-nova-versão-de-conteúdo), você pode agendar a publicação da nova versão em sua loja por meio do recurso **Visibilidade**.
 
-Veja a documentação [Agendando atualizações de conteúdo](/pt/tutorial/agendando-atualizacoes-de-conteudo--5L93gED3wgSRoWpFJlJ2ns) e aprenda a usar o recurso **Visibilidade**.
+Veja a documentação [Agendando atualizações de conteúdo](/pt/docs/tutorials/agendando-atualizacoes-de-conteudo) e aprenda a usar o recurso **Visibilidade**.
 
 ## Excluindo versões
 

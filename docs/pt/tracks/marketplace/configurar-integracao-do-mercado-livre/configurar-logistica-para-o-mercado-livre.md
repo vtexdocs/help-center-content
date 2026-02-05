@@ -42,11 +42,11 @@ No ME1, a cotação do frete pode ser feita de duas formas:
 
 ### Planilha de frete
 
-O seller é responsável por enviar uma [planilha de frete](/pt/tutorial/planilha-de-frete--tutorials_127) no formato de excel para o seu consultor comercial do Mercado Livre. 
+O seller é responsável por enviar uma [planilha de frete](/pt/docs/tutorials/planilha-de-frete) no formato de excel para o seu consultor comercial do Mercado Livre. 
 
 ### Frete dinâmico
 
-Na VTEX, sellers configuram as opções e valores de frete por meio de [políticas de envio](/pt/tutorial/politica-de-envio--tutorials_140). O frete dinâmico é uma configuração do Mercado Envios 1 (ME1) que tem a função de verificar em tempo real os melhores preços e condições de frete para os usuários, calculando a partir das informações cadastradas nas políticas de envio na VTEX. 
+Na VTEX, sellers configuram as opções e valores de frete por meio de [políticas de envio](/pt/docs/tutorials/politica-de-envio). O frete dinâmico é uma configuração do Mercado Envios 1 (ME1) que tem a função de verificar em tempo real os melhores preços e condições de frete para os usuários, calculando a partir das informações cadastradas nas políticas de envio na VTEX. 
 
 O Mercado Livre realiza simulações de frete em tempo real no momento do fechamento da compra, e quase que simultaneamente, a VTEX disponibiliza uma URL no qual o Mercado Livre fará a requisição para obter as informações de frete que serão exibidas na plataforma no momento da compra. 
 
@@ -70,7 +70,7 @@ Alguns tipos logísticos possuem a obrigatoriedade de envio de nota fiscal ou co
 - [Flex](#flex)
 - [Mercado Envios Full](#mercado-envios-full)
 
-> ℹ️ Para Segmentar qual tipo de frete utilizado pela loja, é necessário criar um [*atributo de produto*](/pt/tutorial/campos-customizaveis-de-produto--6tJOSJ2o9phVIb8XXG6QSk) com o nome `meli_shipping_mode`, onde estará preenchido se é ME1 ou ME2.
+> ℹ️ Para Segmentar qual tipo de frete utilizado pela loja, é necessário criar um [*atributo de produto*](/pt/docs/tutorials/campos-customizaveis-de-produto) com o nome `meli_shipping_mode`, onde estará preenchido se é ME1 ou ME2.
 
 ### Drop Off
 
@@ -136,7 +136,7 @@ Para configurar, siga os passos a seguir:
 
 Após definir qual modelo de envio será utilizado para a integração da sua loja com o Mercado Livre, é necessário configurar na integração se será utilizado o ME1 ou ME2. Para isso, você deve seguir os seguintes passos, **criar um campo customizável de produto** e **preenchê-lo**.
 
-Para criar um campo de produto, siga as instruções do tutorial [Cadastrar especificações ou campos de produto](/pt/tutorial/criando-um-campo-de-produto--tutorials_106). 
+Para criar um campo de produto, siga as instruções do tutorial [Cadastrar especificações ou campos de produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto). 
 
 > ⚠️ O nome do campo criado deve ser "meli_shipping_mode" e o valor do campo deve ser preenchido como "me1" ou "me2". Caso o nome do campo ou o preenchimento seja diferente, a integração não reconhecerá o atributo.
 

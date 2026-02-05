@@ -27,7 +27,7 @@ Para verificar se sua conta está habilitada, acesse o **Admin VTEX > Marketplac
 
 ![Multi origem ativado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/alocacao-de-estoque-no-mercado-livre_1.jpg)
 
-Caso o valor do campo seja `Sim`, você deve configurar a integração dos seus estoques VTEX com os estoques do Mercado Livre. Leia o tutorial [Configurar Alocação de estoque](/pt/tutorial/configurar-alocacao-de-estoque--1yCEr7xQ0gVsTBB0ktMYVX), para realizar as ações necessárias.  
+Caso o valor do campo seja `Sim`, você deve configurar a integração dos seus estoques VTEX com os estoques do Mercado Livre. Leia o tutorial [Configurar Alocação de estoque](/pt/docs/tutorials/configurar-alocacao-de-estoque), para realizar as ações necessárias.  
 
 ## Outros requisitos
 
@@ -35,7 +35,7 @@ Outros requisitos para utilizar a funcionalidade **Alocação de estoque** são:
 
 - Ter a conta habilitada para o novo modelo de [cadastro de produto](/pt/announcements/2025-06-30-novo-modelo-de-anuncios-no-mercado-livre).   
 - Ter ao menos um anúncio cadastrado no novo modelo.  
-- Ter os estoques ativos no módulo de [Estratégias de envio da VTEX](/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3).  
+- Ter os estoques ativos no módulo de [Estratégias de envio da VTEX](/pt/docs/tutorials/estrategia-de-envio).  
 
 Caso sua conta não atenda aos requisitos de habilitação para **Alocação de estoque** ou habilitação para **Novo modelo de cadastro de produtos,** entre em contato com o suporte do Mercado Livre.  
 

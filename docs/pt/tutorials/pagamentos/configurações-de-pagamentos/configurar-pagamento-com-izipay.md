@@ -33,7 +33,7 @@ Para configurar Izipay, siga os passos abaixo:
     	<li>**Desativado**: a captura acontece somente quando o pedido for faturado. Caso escolha esse comportamento de captura, é importante atentar-se quanto ao tempo do faturamento. Isso porque o faturamento pode ultrapassar o tempo de captura acordado com o provedor de pagamentos e levar à perda da transação.</li>
 </ul>
 
-8. Caso deseje utilizar o [split de pagamento](/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) em sua loja, selecione a opção __Ativar split de recebíveis e enviar recebedores de pagamento__ e indique o __Responsável pelas tarifas de processamento de pagamentos__ e __Responsável pelos estornos__ (marketplace, sellers ou marketplaces e sellers).
+8. Caso deseje utilizar o [split de pagamento](/pt/docs/tutorials/split-de-pagamento) em sua loja, selecione a opção __Ativar split de recebíveis e enviar recebedores de pagamento__ e indique o __Responsável pelas tarifas de processamento de pagamentos__ e __Responsável pelos estornos__ (marketplace, sellers ou marketplaces e sellers).
 9. Em __Campos do provedor__, selecione ou preencha os campos __pay.method__, __url.notification__, __language__, __appearance.logo__, __appearance.customTheme.colors.backgroundColor__, __appearance.customTheme.colors.textColor__ e __modalidad__ conforme as instruções do provedor.
 10. Clique em `Salvar`.
 
@@ -44,7 +44,7 @@ Para configurar Izipay, siga os passos abaixo:
 3. Clique em __izipay__.
 4. Ative a condição no campo __Status__.
 5. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
-6. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condiciones-especiales--tutorials_456).
+6. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais).
 7. Clique em `Salvar`.
 
 Depois de seguir os passos indicados, Izipay pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

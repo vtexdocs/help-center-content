@@ -41,9 +41,9 @@ Feito isso, o Google Pay estará disponível no checkout da sua loja VTEX como n
 É necessário ter os seguintes requisitos para utilizar o Google Pay:
 
 * Ter pelo menos uma [condição de pagamento](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) ativa configurada para cartões de crédito ou débito com um [adquirente](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#adquirente), definindo qual adquirente irá processar o pagamento da carteira.
-* Utilizar o [Checkout VTEX](/pt/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) na sua loja.
+* Utilizar o [Checkout VTEX](/pt/docs/tutorials/checkout-vtex-visao-geral) na sua loja.
 
-> ⚠️ Nas lojas que têm o fluxo de autenticação [3DS](/pt/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) configurado e suportado pelo adquirente, o pagamento com o Google Pay seguirá o fluxo nativo de cartão, sendo submetido também ao 3DS. Para mais informações sobre como configurar o fluxo de autenticação, consulte [Configurar fluxo de autenticação 3DS 2](/pt/tutorial/configurar-fluxo-de-autenticacao-3ds-2--58XMn5LOA6fwrSkoDoAsg2).
+> ⚠️ Nas lojas que têm o fluxo de autenticação [3DS](/pt/docs/tutorials/o-que-e-3d-secure) configurado e suportado pelo adquirente, o pagamento com o Google Pay seguirá o fluxo nativo de cartão, sendo submetido também ao 3DS. Para mais informações sobre como configurar o fluxo de autenticação, consulte [Configurar fluxo de autenticação 3DS 2](/pt/docs/tutorials/configurar-fluxo-de-autenticacao-3ds-2).
 
 > ℹ️ Você também pode configurar o Google Pay para ser processado com a Adyen ou Stripe. Para isso, acesse a tela **Condições de Pagamento** no Admin, clique em **Google Pay** e selecione a opção desejada.
 
@@ -97,4 +97,4 @@ Caso o lojista não tenha configurado regras de pagamento para cartão, o usuár
 
 ### Saiba mais
 
-* [DPAN e FPAN: entendendo a segurança no fluxo de pagamentos tokenizados online](/pt/tutorial/dpan-e-fpan-entendendo-a-seguranca-no-fluxo-de-pagamentos-tokenizados-online--3RM7RvhKZ057wja5xVEOqb)
+* [DPAN e FPAN: entendendo a segurança no fluxo de pagamentos tokenizados online](/pt/docs/tutorials/dpan-e-fpan-entendendo-a-seguranca-no-fluxo-de-pagamentos-tokenizados-online)

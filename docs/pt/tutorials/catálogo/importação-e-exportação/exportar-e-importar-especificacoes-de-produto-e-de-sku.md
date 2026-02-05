@@ -59,5 +59,5 @@ Siga os passos abaixo para importar a planilha:
 
 ## Saiba mais
 - [Especificações de produto e de SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
-- [Cadastrar especificações ou campos de produto](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106)
-- [Cadastrar especificações ou campos de SKU](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119)
+- [Cadastrar especificações ou campos de produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto)
+- [Cadastrar especificações ou campos de SKU](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-sku)

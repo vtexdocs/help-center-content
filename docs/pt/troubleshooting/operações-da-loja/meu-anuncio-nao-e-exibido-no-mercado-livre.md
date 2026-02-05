@@ -23,7 +23,7 @@ tags:
 
 Quando um produto é removido ou desativado da política comercial utilizada na integração do Mercado Livre, a atualização dessa informação é enviada automaticamente para o marketplace, que, por sua vez, para de exibir o anúncio do produto.
 
-Outra possibilidade é quando um produto atinge o [estoque mínimo](/pt/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D) estabelecido na configuração da integração com o marketplace. Se o estoque de um produto estiver abaixo do valor atribuído, o anúncio será pausado para evitar vendas de produtos sem estoque.
+Outra possibilidade é quando um produto atinge o [estoque mínimo](/pt/docs/tutorials/controle-de-estoque-minimo-para-integracoes) estabelecido na configuração da integração com o marketplace. Se o estoque de um produto estiver abaixo do valor atribuído, o anúncio será pausado para evitar vendas de produtos sem estoque.
 
 ## Solução
 
@@ -45,7 +45,7 @@ Para validar se a política comercial está configurada corretamente no cadastro
  5. Clique no botão `Salvar`.
 
 <div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Se sua loja está operando com o [Novo Admin VTEX](/pt/announcements/2022-06-13-bem-vindo-ao-novo-admin-vtex), consulte o artigo [Produtos e SKUs](/pt/tutorial/produtos-e-skus-beta--2ig7TmROlirWirZjFWZ3By) para aprender como visualizar e gerenciar seu catálogo, incluindo a configuração de políticas comerciais.
+Se sua loja está operando com o [Novo Admin VTEX](/pt/announcements/2022-06-13-bem-vindo-ao-novo-admin-vtex), consulte o artigo [Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus) para aprender como visualizar e gerenciar seu catálogo, incluindo a configuração de políticas comerciais.
 </div>
 
 ### Verificando o estoque limite
@@ -58,6 +58,6 @@ Para validar a configuração do estoque limite, acesse Marketplace > Conexões 
 
   ![estoque-limite-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/operações-da-loja/meu-anuncio-nao-e-exibido-no-mercado-livre_2.png)
 
- 4. Certifique-se de que a configuração deste campo está correta, de acordo com o artigo [Controle de estoque mínimo para integrações](/pt/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D). 
+ 4. Certifique-se de que a configuração deste campo está correta, de acordo com o artigo [Controle de estoque mínimo para integrações](/pt/docs/tutorials/controle-de-estoque-minimo-para-integracoes). 
 
 >ℹ️ Caso seu problema não seja resolvido por uma das soluções propostas, abra um ticket para o [suporte VTEX](https://supporticket.vtex.com/support).

@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Novo módulo Capacidade Operacional (Beta) da VTEX otimiza logística e distribui pedidos entre sellers.'
 ---
 
-A VTEX apresenta o novo módulo [Capacidade operacional (Beta)](/pt/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy), projetado para ajudar lojistas a gerenciar a capacidade dos [sellers](/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w) de receberem e prepararem pedidos. Com essa ferramenta, é possível monitorar a distribuição de pedidos entre os sellers e realizar ajustes para otimizar o fluxo operacional, promovendo uma malha logística mais eficiente.
+A VTEX apresenta o novo módulo [Capacidade operacional (Beta)](/pt/docs/tutorials/capacidade-operacional-beta), projetado para ajudar lojistas a gerenciar a capacidade dos [sellers](/pt/docs/tutorials/o-que-e-um-seller) de receberem e prepararem pedidos. Com essa ferramenta, é possível monitorar a distribuição de pedidos entre os sellers e realizar ajustes para otimizar o fluxo operacional, promovendo uma malha logística mais eficiente.
 
 ![operational_capacity_image_1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2025/janeiro/2025-01-21-otimize-logistica-com-capacidade-operacional-beta_1.png)
 
@@ -31,5 +31,5 @@ O módulo Capacidade Operacional (Beta) foi desenvolvido para aprimorar o gerenc
 
 Nenhuma ação é necessária para começar a usar o módulo **Capacidade Operacional (Beta)**. A atualização será implementada automaticamente em todas as lojas VTEX.
 
-Para mais detalhes sobre essa funcionalidade, confira o artigo [Capacidade operacional (Beta)](/pt/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy). 
+Para mais detalhes sobre essa funcionalidade, confira o artigo [Capacidade operacional (Beta)](/pt/docs/tutorials/capacidade-operacional-beta). 
 

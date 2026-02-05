@@ -79,6 +79,6 @@ O lojista desempenha um papel crucial na segurança dos dados, pois suas decisõ
 
 Para entender como gerenciar adequadamente credenciais de acesso e garantir a integridade dos dados, consulte os artigos a seguir:
 
-* [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
-* [Recursos do License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3)
+* [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso)
+* [Recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager)
 * [Chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet)

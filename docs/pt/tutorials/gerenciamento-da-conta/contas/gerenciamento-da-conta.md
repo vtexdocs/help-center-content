@@ -41,7 +41,7 @@ Nesta seção você pode consultar as informações básicas da sua conta VTEX.
 
 ![Página de detalhes da conta - detalhes](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/contas/gerenciamento-da-conta_3.png)
 
-- **Nome da conta principal:** [nome de conta VTEX](/pt/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC).
+- **Nome da conta principal:** [nome de conta VTEX](/pt/docs/tutorials/o-que-e-account-name).
 - **Data de criação:** data em que sua conta foi criada.
 - **ID da conta:** código único que identifica sua conta.
 - **Data de ativação:** data em que sua conta foi ativada, ou seja, se tornou disponível para que fossem realizadas configurações e implementação de loja.
@@ -78,7 +78,7 @@ Você pode editar as informações de cadastro da empresa seguindo os passos aba
 
 Esta seção apresenta detalhes do usuário titular da conta. Cada conta VTEX tem apenas um titular, a quem é dado acesso total a todas as seções do Admin, incluindo ações importantes de manutenção e autorização.
 
-> ℹ️ Saiba mais sobre o [usuário titular](/pt/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy).
+> ℹ️ Saiba mais sobre o [usuário titular](/pt/docs/tutorials/o-que-e-o-usuario-titular).
 
 ![Página de detalhes da conta - Titular](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/contas/gerenciamento-da-conta_5.png)
 
@@ -122,7 +122,7 @@ Para criar uma nova loja, siga os passos:
 5. Se deseja iniciar o processo de [go-live](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM) da sua loja, preencha o campo **Hosts** com o [domínio da sua loja](/pt/tutorial/configurando-dominios-no-license-manager). Caso contrário, deixe este campo em branco.
 6. Clique no botão `Criar`.
 
-> ℹ️ Para saber mais sobre a configuração de **Hosts** da sua loja, confira o artigo  [Configurando o domínio da sua loja](/pt/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
+> ℹ️ Para saber mais sobre a configuração de **Hosts** da sua loja, confira o artigo  [Configurando o domínio da sua loja](/pt/docs/tutorials/configurar-o-dominio-da-loja).
 
 > ⚠️ Não utilize um domínio do tipo ".com" no campo Nome da Loja. Esse tipo de entrada só pode existir nos campos Hosts.
 
@@ -153,9 +153,9 @@ O nome da loja removida não poderá ser utilizado novamente.
 
 ## Saiba mais
 
-- [O que é nome de conta?](/pt/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC)
-- [Usuário titular](/pt/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy)
+- [O que é nome de conta?](/pt/docs/tutorials/o-que-e-account-name)
+- [Usuário titular](/pt/docs/tutorials/o-que-e-o-usuario-titular)
 - [Transferir a propriedade da loja](/pt/tutorial/transferencia-de-propriedade-da-loja)
-- [Configurando o domínio da sua loja](/pt/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450)
+- [Configurando o domínio da sua loja](/pt/docs/tutorials/configurar-o-dominio-da-loja)
 - [Go-live](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM)
 
