@@ -55,4 +55,4 @@ In addition, Checkout v6 has a **shipping simulator** in the shopping cart stage
 
 <br>
 
-For more on the topic, access our article about how to [activate Checkout v6](/tutorial/enable-checkout-v6--7qVqv3ptRvpVVplrvg8ruH) in your store.
+For more on the topic, access our article about how to [activate Checkout v6](/en/tutorial/enable-checkout-v6--7qVqv3ptRvpVVplrvg8ruH) in your store.

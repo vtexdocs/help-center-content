@@ -34,7 +34,7 @@ A página apresenta métricas gerais dos sellers:
 - **Status:** se o seller está ativo ou pausado.     
 - **Integração:** o tipo de integração feita para cada seller, entre seller VTEX e integradores externos, outras plataformas ou não configurado (quando nem todos os campos foram preenchidos ao Adicionar Seller).  
 - **Visibilidade:** se a loja do seller está _visível_ no storefront do seu marketplace, ou se é um _[seller white label](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#o-que-e-um-seller-white-label)_, cuja loja não aparece na experiência de compra.    
-- **Grupo:** permite agrupar sellers com características semelhantes. As opções desse filtro incluem os grupos criados ao [Adicionar um seller](/pt/tutorial/adicionar-seller--tutorials_392) ou em [Gerenciar grupos](gerenciar-grupos).  
+- **Grupo:** permite agrupar sellers com características semelhantes. As opções desse filtro incluem os grupos criados ao [Adicionar um seller](/pt/tutorial/adicionar-seller--tutorials_392) ou em [Gerenciar grupos](#gerenciar-grupos).  
 
 ## Grupos
 Grupos ajudam sua operação a gerenciar múltiplos sellers de uma forma mais eficiente e escalável. Sellers podem ser agrupados em um ou mais grupos de acordo com a sua necessidade, utilizando um nome de sua escolha. Grupos são criados manualmente ao Adicionar Seller. 

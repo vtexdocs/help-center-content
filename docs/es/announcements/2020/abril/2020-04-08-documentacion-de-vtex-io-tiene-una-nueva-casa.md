@@ -31,7 +31,7 @@ La decisión de eliminar la documentación de VTEX IO y VTEX IO Store Framework 
 
 ## Developer Portal - La unificación de la experiencia de desarrollo en VTEX
 
-Con nuestra [documentación de la API](https://developers.vtex.com/docs/api-reference), [guías](https://developers.vtex.com/docs/guides) dirigidas a los desarrolladores que trabajan con integraciones, personalizaciones y  [Release Notes](https://developers.vtex.com/changelog)  sincronizadas con todo lo nuevo de nuestro producto, el [**Developer Portal**](https://developers.vtex.com) - antiguo Developer Docs del Help Center - ofrece en un solo lugar todos los recursos necesarios para los usuarios más técnicos de VTEX. 
+Con nuestra [documentación de la API](https://developers.vtex.com/docs/api-reference), [guías](https://developers.vtex.com/docs/guides) dirigidas a los desarrolladores que trabajan con integraciones, personalizaciones y  [Release Notes](https://developers.vtex.com/updates/release-notes)  sincronizadas con todo lo nuevo de nuestro producto, el [**Developer Portal**](https://developers.vtex.com) - antiguo Developer Docs del Help Center - ofrece en un solo lugar todos los recursos necesarios para los usuarios más técnicos de VTEX. 
 
 ![developer-portal](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2020/abril/2020-04-08-documentacion-de-vtex-io-tiene-una-nueva-casa_2.png)
 

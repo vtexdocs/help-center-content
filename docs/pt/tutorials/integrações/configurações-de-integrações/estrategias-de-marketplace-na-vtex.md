@@ -34,7 +34,7 @@ O sortimento de produtos enviados para um marketplace é definido na escolha da 
 
 A [contratação de políticas comerciais](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X) adicionais é realizada via ticket em nosso [suporte](https://supporticket.vtex.com/support), selecionando a opção **Comercial** e o tipo de solicitação Criação de Política Comercial. Para cada política comercial adicional, é cobrado um valor mensal, seja ela utilizada para integração com marketplaces certificados, parceiros, externos ou VTEX.
 
-> ℹ️ Pedidos aprovados em marketplaces estão sujeitos às mesmas [regras contratuais](/pt/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq) de pedidos efetuados por outros canais.
+> ℹ️ Pedidos aprovados em marketplaces estão sujeitos às mesmas [regras contratuais](/pt/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq?locale=pt) de pedidos efetuados por outros canais.
 
 Os próximos cenários abordados neste artigo são:  
 
@@ -95,7 +95,7 @@ Para realizar a integração com um marketplace você encontra apoio nos conteú
 Na VTEX, você pode vender em outros canais nas seguintes situações:  
 
 - [Integrado a marketplaces externos](#integrado-a-marketplace-externo)    
-- [Integrado a marketplaces](integrado-a-marketplaces)  
+- [Integrado a marketplaces](#integrando-a-marketplaces)  
 - [Ser um seller VTEX](#ser-um-seller-vtex)  
 
 ### Integrado a marketplace externo
