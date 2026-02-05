@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Usuários agora precisam do recurso CMS GraphQL API para gerenciar conteúdo. Atualize os perfis de acesso de acordo.'
 ---
 
-A partir de 15 de Fevereiro, todos os [usuários](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) e [chaves de aplicação](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) que precisarem acessar o Headless CMS deverão ter os [recursos](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `See CMS menu on the top-bar` e `Settings` do License Manager adicionados aos seus [perfis de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). Para o gerenciamento de conteúdo no Headless CMS, também é necessário ter o [recurso](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `CMS GraphQL API`. Esse requisito se aplica à API do Headless CMS e ao Admin VTEX.
+A partir de 15 de Fevereiro, todos os [usuários](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) e [chaves de aplicação](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) que precisarem acessar o Headless CMS deverão ter os [recursos](/pt/docs/tutorials/recursos-do-license-manager) `See CMS menu on the top-bar` e `Settings` do License Manager adicionados aos seus [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso). Para o gerenciamento de conteúdo no Headless CMS, também é necessário ter o [recurso](/pt/docs/tutorials/recursos-do-license-manager) `CMS GraphQL API`. Esse requisito se aplica à API do Headless CMS e ao Admin VTEX.
 
 ## O que mudou?
 Antes, o gerenciamento de conteúdo da loja no Headless CMS podia ser feito por usuários e chaves de aplicação

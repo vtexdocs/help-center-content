@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1wvyJwJhKgewxGeAGCVmM6
 ---
 
-A funcionalidade de redirecionamentos do [Intelligent Search](/pt/tutorial/intelligent-search-visao-geral--5o8ixTpYIxx3uJD0B1xp3z) permite direcionar o cliente para qualquer outra página, seja interna ou externa à loja. Esse redirecionamento é feito na área de busca do seu storefront, utilizando termos ou filtros selecionados pelo cliente.
+A funcionalidade de redirecionamentos do [Intelligent Search](/pt/docs/tutorials/intelligent-search-visao-geral) permite direcionar o cliente para qualquer outra página, seja interna ou externa à loja. Esse redirecionamento é feito na área de busca do seu storefront, utilizando termos ou filtros selecionados pelo cliente.
 
 Com a ferramenta, é viável criar regras que contemplam os interesses do gestor e do cliente final simultaneamente. Confira a seguir algumas vantagens dos redirecionamentos:
 
@@ -25,7 +25,7 @@ Com a ferramenta, é viável criar regras que contemplam os interesses do gestor
 
 ## Como funciona
 
-Ao criar um redirecionamento, é necessário também criar condições - chamadas regras. Elas devem conter um conjunto tanto de termos quanto de filtros cadastrados. A quantidade de regras é ilimitada por redirecionamento. Saiba mais em [Configurar redirecionamentos](/pt/tutorial/configurar-redirecionamentos--35JPufOvunMHnAAVJA6azu).
+Ao criar um redirecionamento, é necessário também criar condições - chamadas regras. Elas devem conter um conjunto tanto de termos quanto de filtros cadastrados. A quantidade de regras é ilimitada por redirecionamento. Saiba mais em [Configurar redirecionamentos](/pt/docs/tutorials/configurar-redirecionamentos).
 
 Após o cliente ter efetuado a busca, o VTEX Intelligent Search captura o termo pesquisado e verifica se existe alguma regra de redirecionamento cadastrada relacionada a essa busca.
 

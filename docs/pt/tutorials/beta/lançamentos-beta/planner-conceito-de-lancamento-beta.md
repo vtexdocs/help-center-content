@@ -19,7 +19,7 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 
 O gerenciamento de uma operação de ecommerce requer que o lojista faça uma série de atualizações na loja e muitas vezes elas estão relacionadas entre si. Um exemplo é a realização de uma campanha publicitária, em que diferentes elementos do storefront precisam ser configurados.
 
-O **Lançamentos** é o módulo da VTEX que permite ao lojista [gerenciar seus lançamentos](/pt/tutorial/planner-acoes-em-lancamentos-beta--1zsomdifPEQkdV6RW93JyW), de forma a coordenar o planejamento, criação, agendamento e publicação das alterações na loja. 
+O **Lançamentos** é o módulo da VTEX que permite ao lojista [gerenciar seus lançamentos](/pt/docs/tutorials/planner-acoes-em-lancamentos-beta), de forma a coordenar o planejamento, criação, agendamento e publicação das alterações na loja. 
 
 Um lançamento significa uma modificação ou um agrupamento de modificações que podem ser publicadas de forma conjunta. Os principais benefícios em utilizar lançamentos são:
 
@@ -32,12 +32,12 @@ Um lançamento significa uma modificação ou um agrupamento de modificações q
 
 A funcionalidade pode ser acessada pelo menu de navegação do Admin VTEX **Lançamentos**, no qual existem as seguintes páginas:
 
-* [Calendário](/pt/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xHfIx9C): permite gerenciar lançamentos agendados, com visualização por semana ou mês.
-* [Lançamentos](/pt/tutorial/planner-pagina-lancamentos-beta--2p7IiVD6K8i1iRiwHph5sw): permite gerenciar todos os lançamentos, com visualização em lista.
+* [Calendário](/pt/docs/tutorials/planner-pagina-calendario-beta): permite gerenciar lançamentos agendados, com visualização por semana ou mês.
+* [Lançamentos](/pt/docs/tutorials/planner-pagina-lancamentos-beta): permite gerenciar todos os lançamentos, com visualização em lista.
 
 ## Status de lançamentos
 
-Um lançamento pode ter diferentes status desde a sua criação até a sua publicação ou exclusão, por exemplo. Nas páginas [Calendário](/pt/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xHfIx9C) e [Lançamentos](/pt/tutorial/planner-pagina-lancamentos-beta--2p7IiVD6K8i1iRiwHph5sw), o status de cada lançamento é apresentado associado a uma cor, conforme apresentado na tabela abaixo:
+Um lançamento pode ter diferentes status desde a sua criação até a sua publicação ou exclusão, por exemplo. Nas páginas [Calendário](/pt/docs/tutorials/planner-pagina-calendario-beta) e [Lançamentos](/pt/docs/tutorials/planner-pagina-lancamentos-beta), o status de cada lançamento é apresentado associado a uma cor, conforme apresentado na tabela abaixo:
 
 | **Status** | **Cor** | **Definição** |
 |:---:|:---:|:---:|
@@ -51,6 +51,6 @@ Um lançamento pode ter diferentes status desde a sua criação até a sua publi
 
 ## Saiba mais
 
-* [Lançamentos: ações em lançamentos](/pt/tutorial/planner-acoes-em-lancamentos-beta--1zsomdifPEQkdV6RW93JyW)
-* [Lançamentos: página Calendário](/pt/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xHfIx9C)
-* [Lançamentos: página Lançamentos](/pt/tutorial/planner-pagina-lancamentos-beta--2p7IiVD6K8i1iRiwHph5sw)
+* [Lançamentos: ações em lançamentos](/pt/docs/tutorials/planner-acoes-em-lancamentos-beta)
+* [Lançamentos: página Calendário](/pt/docs/tutorials/planner-pagina-calendario-beta)
+* [Lançamentos: página Lançamentos](/pt/docs/tutorials/planner-pagina-lancamentos-beta)

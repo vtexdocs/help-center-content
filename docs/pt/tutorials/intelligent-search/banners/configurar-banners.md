@@ -50,7 +50,7 @@ Para cadastrar o banner, é necessário preencher os seguintes campos:
 * **Horário de início**: horário que define o início da disponibilidade do banner.
 * **Data de término**: data que define o término da disponibilidade do banner - o que permite o gestor agendar campanhas futuras, facilitando o seu controle.
 * **Horário de término**: horário que define o término da disponibilidade do banner.
-* **Idiomas:** idiomas aos quais o banner será aplicado. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma (Beta)](/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+* **Idiomas:** idiomas aos quais o banner será aplicado. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta).
 
 ### Regras de ativação 
 

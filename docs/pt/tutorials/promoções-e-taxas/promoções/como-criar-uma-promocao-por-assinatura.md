@@ -43,6 +43,6 @@ Configure corretamente a frequência e o ciclo para garantir que a promoção se
 > ℹ️ Não é possível configurar promoções por UTM e promoções de assinatura usando cupom em pedidos recorrentes, o cupom será aplicado apenas a pedidos originais.
 
 <ol start="6">
-<li>Preencha [os campos restantes da promoção](/pt/tutorial/promocao-regular--tutorials_327).</li><br>
+<li>Preencha [os campos restantes da promoção](/pt/docs/tutorials/promocao-regular-pt).</li><br>
 <li>Clique em <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Salvar</span> para finalizar.</li>
 </ol>

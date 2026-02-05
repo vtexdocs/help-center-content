@@ -142,7 +142,7 @@ Nesta seção, defina se a promoção poderá ser combinada com outras promoçõ
 
 Destaque a promoção na página de produto e adicione dados personalizados para customizações da loja nesta seção.
 
-- **Destacar nos produtos:** marque esta opção para exibir a promoção diretamente nas páginas de produtos. Lembre-se de [configurar essa exibição no módulo CMS](/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
+- **Destacar nos produtos:** marque esta opção para exibir a promoção diretamente nas páginas de produtos. Lembre-se de [configurar essa exibição no módulo CMS](/pt/docs/tutorials/configurando-promocao-com-destaque-flag).
 - **Informações adicionais:** clique em **Criar** para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.
 
 Veja abaixo o formulário de criar promoções Compre Junto:

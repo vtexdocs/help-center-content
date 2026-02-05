@@ -23,7 +23,7 @@ Na Netshoes, há erros de integração de pedidos que ocorrem com mais frequênc
 
 `Pedido não importado pois o SLA de entrega selecionado para o mesmo não está disponível`
 
-Erros de SLA significam que um fator está inviabilizando a entrega do pedido ao consumidor final. Para identificar a origem do erro e corrigi-lo, confira [Erros de SLA na integração de pedidos de marketplace](/pt/tutorial/erros-de-sla-na-integracao-de-pedidos-de-marketplace--X8lSfxT44OyxkxwvnRk1X).
+Erros de SLA significam que um fator está inviabilizando a entrega do pedido ao consumidor final. Para identificar a origem do erro e corrigi-lo, confira [Erros de SLA na integração de pedidos de marketplace](/pt/docs/tutorials/erros-de-sla-na-integracao-de-pedidos-de-marketplace).
 
 ____
 
@@ -39,10 +39,10 @@ ____
 
 `O pedido não pode ser criado. Por favor, tente novamente`
 
-Isso ocorre quando um pedido não recebeu todas as informações necessárias para ser finalizado, o que configura um pedido incompleto. Apesar de, em geral, não ser possível recuperar pedidos incompletos, existe a possibilidade de resolver o erro com um reprocessamento manual. No seu Admin VTEX, no módulo **Marketplace > Conexões > Pedidos**, clique sobre o pedido com erro. Feito isso, o botão **Ações** se torna visível, clique sobre ele e escolha a opção **Reprocessar**. Para entender possíveis causas para este tipo de erro, veja [Como funcionam os pedidos incompletos](/pt/tutorial/entendendo-os-pedidos-incompletos--tutorials_294).
+Isso ocorre quando um pedido não recebeu todas as informações necessárias para ser finalizado, o que configura um pedido incompleto. Apesar de, em geral, não ser possível recuperar pedidos incompletos, existe a possibilidade de resolver o erro com um reprocessamento manual. No seu Admin VTEX, no módulo **Marketplace > Conexões > Pedidos**, clique sobre o pedido com erro. Feito isso, o botão **Ações** se torna visível, clique sobre ele e escolha a opção **Reprocessar**. Para entender possíveis causas para este tipo de erro, veja [Como funcionam os pedidos incompletos](/pt/docs/tutorials/entendendo-os-pedidos-incompletos).
 
 ### Saiba mais
 
-- [Erros de falta de estoque na integração de pedidos de marketplace](/pt/tutorial/erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace--s1i5OCcPFslrMkZJLDnfP)
-- [Erros de SLA na integração de pedidos de marketplace](/pt/tutorial/erros-de-sla-na-integracao-de-pedidos-de-marketplace--X8lSfxT44OyxkxwvnRk1X)
-- [Resolução de erros de divergência de preço em pedidos de marketplace](/pt/tutorial/resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace--6MbmPX4SKyRkcTJxVhRna8)
+- [Erros de falta de estoque na integração de pedidos de marketplace](/pt/docs/tutorials/erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace)
+- [Erros de SLA na integração de pedidos de marketplace](/pt/docs/tutorials/erros-de-sla-na-integracao-de-pedidos-de-marketplace)
+- [Resolução de erros de divergência de preço em pedidos de marketplace](/pt/docs/tutorials/resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace)

@@ -25,7 +25,7 @@ Quando um cliente tenta realizar uma compra e ocorre um erro na criação do ped
 
 Antes de considerar motivos complexos para erros com pedidos não criados, aplique os processos de resolução de problemas (troubleshooting) apresentados neste artigo. Alguns dos cenários de erro mais comuns são:
 
-* O item não tinha [estoque](/pt/tutorial/inventory-management--tutorials_139) disponível e a loja não estava configurada para vender produtos sem estoque. 
+* O item não tinha [estoque](/pt/docs/tutorials/gerenciar-itens-em-estoque) disponível e a loja não estava configurada para vender produtos sem estoque. 
 * A integração XML não foi configurada para enviar informações sobre produtos sem estoque.
 
 ## Soluções
@@ -51,7 +51,7 @@ As soluções abaixo são voltadas para o gerenciamento de inventário via Admin
 
 ### Revisar integração XML
 
-O XML é uma linguagem de marcação que define e armazena dados de forma partilhável. Se a [integração XML da sua loja](/pt/tutorial/configurando-xml--tutorials_242) não estiver definida para determinadas configurações, pode ser que não seja possível exportar as informações do produto. 
+O XML é uma linguagem de marcação que define e armazena dados de forma partilhável. Se a [integração XML da sua loja](/pt/docs/tutorials/configurando-xml) não estiver definida para determinadas configurações, pode ser que não seja possível exportar as informações do produto. 
 
 Quando o produto não tem estoque e a integração não está configurada para enviar produtos sem estoque, pode ocorrer um erro com a falta de informações do produto. Para ativar a configuração, siga os passos abaixo:
 

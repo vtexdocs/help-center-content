@@ -75,7 +75,7 @@ Tabela de recursos:
 
 ## Call center operator
 
-Este é um perfil dedicado a operadores de televendas, pois concede acesso às [funcionalidades de televendas](/pt/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS) da VTEX e permite visualizar pedidos.
+Este é um perfil dedicado a operadores de televendas, pois concede acesso às [funcionalidades de televendas](/pt/docs/tutorials/funcionalidades-de-televendas) da VTEX e permite visualizar pedidos.
 
 O recurso **Assisted Sales** causa o redirecionamento automático do usuário para a página de televendas da loja, o que deixará o usuário que fizer login numa conta com esse perfil sem acesso a recursos importantes do menu administrativo.
 

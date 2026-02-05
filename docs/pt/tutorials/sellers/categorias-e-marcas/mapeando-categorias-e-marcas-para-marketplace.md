@@ -119,7 +119,7 @@ Note que nem todas as marcas do marketplace tiveram uma correspondência nesse c
 
 Especificações são propriedades adicionais que podem ser cadastradas nos produtos ou SKUs da sua loja. Depois que o seller completar o [envio de produtos](/pt/tutorial/entendendo-a-catalogacao-de-produtos-para-o-marketplace), é necessário que o marketplace faça o mapeamento de especificações de produtos e SKUs. O mapeamento é feito manualmente, por meio da página de Categorias e Marcas, para apontar as equivalências entre os campos no marketplace e no seller. 
 
-Quando um seller envia um produto com uma especificação que não foi mapeada pelo marketplace, e o marketplace [aprova](/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396) esse produto, um novo SKU é criado, apesar de já existir um SKU no catálogo do marketplace ao qual associá-lo. A especificação não mapeada (ex. cor) ou seu valor (ex. amarelo) será registrada como um **Atributo não estruturado** no catálogo do marketplace, mas **não aparecerá no storefront do marketplace**. Portanto, é necessário mapear todas as especificações e seus valores, para que elas sejam visíveis para os compradores. Você pode visualizar os Atributos não estruturados em seu Admin. Acesse *Catálogo > Produtos e SKUs > escolha um item da lista > clique na aba de Especificações*.
+Quando um seller envia um produto com uma especificação que não foi mapeada pelo marketplace, e o marketplace [aprova](/pt/docs/tutorials/sugerindo-e-aprovando-skus) esse produto, um novo SKU é criado, apesar de já existir um SKU no catálogo do marketplace ao qual associá-lo. A especificação não mapeada (ex. cor) ou seu valor (ex. amarelo) será registrada como um **Atributo não estruturado** no catálogo do marketplace, mas **não aparecerá no storefront do marketplace**. Portanto, é necessário mapear todas as especificações e seus valores, para que elas sejam visíveis para os compradores. Você pode visualizar os Atributos não estruturados em seu Admin. Acesse *Catálogo > Produtos e SKUs > escolha um item da lista > clique na aba de Especificações*.
 
 Para realizar o mapeamento de especificações de produtos e SKUs, siga o passo a passo abaixo:
 
@@ -152,6 +152,6 @@ O mapeamento de especificações é aplicado no site do marketplace de formas di
 ## Saiba Mais
 
 - [Aprovar produtos](/pt/tutorial/sugerindo-e-aprovando-skus/)    
-- [Criar política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)    
-- [Política comercial para marketplaces](/pt/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)    
+- [Criar política comercial](/pt/docs/tutorials/criar-uma-politica-comercial)    
+- [Política comercial para marketplaces](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace)    
 

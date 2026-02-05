@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-Toda a comunicação com o cliente da sua loja sobre [Assinaturas](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453) ocorrerá através do módulo **Templates de email**. Os emails transacionais relacionados a assinaturas vem instalados no Admin VTEX e são customizáveis.
+Toda a comunicação com o cliente da sua loja sobre [Assinaturas](/pt/docs/tutorials/como-funciona-a-assinatura) ocorrerá através do módulo **Templates de email**. Os emails transacionais relacionados a assinaturas vem instalados no Admin VTEX e são customizáveis.
 
 Para acessar os emails transacionais para pedidos de assinaturas, confira o passo a passo a seguir:
 
@@ -29,7 +29,7 @@ Também é possível [criar seu próprio template de email](/pt/tutorial/conhece
 
 ## Como seu cliente acompanha seus pedidos de assinatura
 
-> ℹ️ Em [Minha Conta](/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
+> ℹ️ Em [Minha Conta](/pt/docs/tutorials/como-funciona-a-minha-conta), os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
 
 Cada ação ocorrida dentro do fluxo de pedidos de **Assinaturas** contém um gatilho que dispara um email notificando o seu cliente. Após a ativação da assinatura, o cliente receberá emails com detalhes do estado de cada pedido da assinatura toda vez que realizar uma ação. 
 

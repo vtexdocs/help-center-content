@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'A página Produtos e SKUs e as páginas para adicionar ou editar um produto ou um SKU agora estão em GA.'
 ---
 
-As páginas para criação ou edição de [produtos e SKUs](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) que estavam em sua versão beta agora estão em General Availability (GA), e isso vale para as lojas VTEX de todas as regiões. 
+As páginas para criação ou edição de [produtos e SKUs](/pt/docs/tutorials/produtos-e-skus) que estavam em sua versão beta agora estão em General Availability (GA), e isso vale para as lojas VTEX de todas as regiões. 
 
 Veja a seguir quais foram as melhorias realizadas desde a [novidade do beta](/pt/announcements/2024-09-25-nova-pagina-de-cadastro-de-produtos-e-skus).
 
@@ -25,7 +25,7 @@ As mudanças são apresentadas abaixo, divididas de acordo com a página à qual
 
 ### Produto
 
-Veja na tabela a seguir as novidades na página de [adicionar ou editar produto](/pt/tutorial/adicionar-ou-editar-produto--29IkdEu6GofCFlltsZh2H8):
+Veja na tabela a seguir as novidades na página de [adicionar ou editar produto](/pt/docs/tutorials/adicionar-ou-editar-produto):
 
 | **Melhoria** | **Descrição** |
 | :--- | :--- |
@@ -37,12 +37,12 @@ Veja na tabela a seguir as novidades na página de [adicionar ou editar produto]
 
 ### SKU
 
-A tabela a seguir apresenta as novidades na página de [adicionar ou editar SKU](/pt/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN):
+A tabela a seguir apresenta as novidades na página de [adicionar ou editar SKU](/pt/docs/tutorials/adicionar-ou-editar-sku):
 
 | **Melhoria** | **Descrição** |
 | :--- | :--- |
 | Novas ações para **Trazer SKUs existentes** ou **Mover para outro produto** | Importe ou envie um SKU de um produto para o outro. |
-| Nova ação **Formar kit** | Transforme o SKU em um [kit](/pt/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28).  |
+| Nova ação **Formar kit** | Transforme o SKU em um [kit](/pt/docs/tutorials/o-que-e-um-kit).  |
 | Nova ação **Duplicar** (SKU existente) | Crie um SKU a partir de um SKU já existente. Esta ação cria o novo SKU com as mesmas configurações. |
 | Novo campo **Valor fidelidade** | Configure um valor para o cliente da loja receber como benefício em compras futuras. |
 | Novo campo **Data de pré-venda** | Defina a previsão da chegada do SKU na loja e sua disponibilização para venda. |
@@ -55,5 +55,5 @@ A tabela a seguir apresenta as novidades na página de [adicionar ou editar SKU]
 
 Nenhuma ação é necessária, pois as lojas VTEX de todas as regiões já foram migradas para a versão GA.
 
-> ℹ️ Para mais informações, veja os seguintes artigos:<ul><li>[Produtos e SKUs](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By)</li><li>[Adicionar ou editar produto](/pt/tutorial/adicionar-ou-editar-produto--29IkdEu6GofCFlltsZh2H8)</li><li>[Adicionar ou editar SKU](/pt/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN)</li></ul>
+> ℹ️ Para mais informações, veja os seguintes artigos:<ul><li>[Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus)</li><li>[Adicionar ou editar produto](/pt/docs/tutorials/adicionar-ou-editar-produto)</li><li>[Adicionar ou editar SKU](/pt/docs/tutorials/adicionar-ou-editar-sku)</li></ul>
 

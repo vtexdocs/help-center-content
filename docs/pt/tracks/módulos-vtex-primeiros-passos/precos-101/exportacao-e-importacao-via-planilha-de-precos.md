@@ -39,7 +39,7 @@ Para exportar a planilha de preços, siga os passos a seguir:
    - **Tabela de preços calculados:** o preço final que será exibido na loja, esse preço não reflete promoções.
 4. Clique no botão `Exportar tabela`.
 > Em seguida, a tabela de preço selecionada abrirá na interface.
-5. No arquivo que se abriu, preencha as linhas com os dados de preço dos SKUs. A Tabela de Preço exportada possui apenas produtos com preços cadastrados, produtos que não possuem preço não aparecem na planilha. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [preencher campos da planilha de importação de preços base](/pt/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-base--4Jox8TeQ5feqAn78TZ0DNA) ou [preencher campos da planilha de importação de preços fixos](/pt/tutorial/preencher-campos-da-planilha-de-importacao-de-precos-fixo--50RFoH3ruV97FJgeBUCURh).
+5. No arquivo que se abriu, preencha as linhas com os dados de preço dos SKUs. A Tabela de Preço exportada possui apenas produtos com preços cadastrados, produtos que não possuem preço não aparecem na planilha. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [preencher campos da planilha de importação de preços base](/pt/docs/tutorials/tabela-de-precos-base) ou [preencher campos da planilha de importação de preços fixos](/pt/docs/tutorials/preencher-campos-da-planilha-de-importacao-de-precos-fixos).
 
 > ⚠️ A exportação de tabelas de preços no formato **XLSX** está limitada a 1.048.576 linhas devido a uma limitação do Excel, exportações que excedam esse limite geram erro.
 

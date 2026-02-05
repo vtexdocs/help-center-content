@@ -37,7 +37,7 @@ O destaque de promoção pode ser aplicado em diferentes tipos de promoções e 
 
 Os seguintes tipos de descontos são elegíveis para a aplicação de um destaque:
 
-- [Desconto percentual](/pt/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): oferece uma redução percentual no valor do produto.
+- [Desconto percentual](/pt/docs/tutorials/configurar-promocao-de-desconto-percentual-para-um-sku-especifico): oferece uma redução percentual no valor do produto.
 - **Brinde**: oferece um produto extra sem custo ao cliente, ao comprar um determinado item ou atingir um valor mínimo de compra.
 
 Para mais informações, acesse os artigos da seção [Promoções](/pt/subcategory/promocoes--1yTYB5p4b6iwMsUg8uieyq).

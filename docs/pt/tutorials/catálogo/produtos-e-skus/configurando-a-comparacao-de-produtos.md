@@ -52,7 +52,7 @@ onde `ShelfLayoutId` é `Id` do template de prateleira criado na etapa anterior.
 4. Crie um layout padrão:
   - Abra a pasta criada no item anterior.
   - Clique em **new layout**.
-  - No campo `Template`, vincule o template de página criado no passo 2 à pasta. Saiba mais em [Associando um template a um layout](/pt/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK).
+  - No campo `Template`, vincule o template de página criado no passo 2 à pasta. Saiba mais em [Associando um template a um layout](/pt/docs/tutorials/associando-um-template-a-um-layout).
   - Clique em `Save Layout` e, em seguida, em `OK`.
 
        ![new-layout-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/produtos-e-skus/configurando-a-comparacao-de-produtos_2.gif)

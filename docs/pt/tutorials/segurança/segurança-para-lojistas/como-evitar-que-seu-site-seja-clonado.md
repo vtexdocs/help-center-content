@@ -45,7 +45,7 @@ Esse tipo de solicitação extrajudicial pode ser feito diretamente aos provedor
 
 Certifique-se de que todas as páginas da sua loja utilizem HTTPS, garantindo que os dados trafeguem por uma conexão segura. Sites clonados muitas vezes usam HTTP ou certificados inválidos, o que pode ser um indicativo de que não se trata de uma página legítima.
 
-Saiba mais sobre como ativar HTTPS na sua loja VTEX em [Alterar as páginas do site para o protocolo HTTPS](/pt/tutorial/como-ter-o-protocolo-https-nas-paginas-da-minha-loja--frequentlyAskedQuestions_4378).
+Saiba mais sobre como ativar HTTPS na sua loja VTEX em [Alterar as páginas do site para o protocolo HTTPS](/pt/docs/tutorials/como-ter-o-protocolo-https-nas-paginas-da-minha-loja).
 
 ## Acompanhe a presença online da sua marca
 

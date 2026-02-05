@@ -39,15 +39,15 @@ Para integrar com a Riachuelo, é necessário realizar as seguintes etapas no se
 
 ### Definir política comercial
 
-A [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) é o que determina o sortimento de produtos, preços e estratégia de envio da sua loja VTEX em um canal de venda. Se você deseja que as mesmas configurações da sua loja sejam utilizadas para seus produtos no Riachuelo Marketplace, não é necessário [criar uma política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) nova, pois uma mesma política comercial pode ser usada para diferentes canais de venda.
+A [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) é o que determina o sortimento de produtos, preços e estratégia de envio da sua loja VTEX em um canal de venda. Se você deseja que as mesmas configurações da sua loja sejam utilizadas para seus produtos no Riachuelo Marketplace, não é necessário [criar uma política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) nova, pois uma mesma política comercial pode ser usada para diferentes canais de venda.
 
-Caso seja do seu interesse ter configurações específicas para vender na Riachuelo, você pode [configurar uma política comercial para marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/). Não existe cobrança para a contratação de políticas comerciais adicionais para integrar lojas VTEX com conectores nativos, conectores certificados ou outras lojas VTEX. Saiba mais em [Estratégias de marketplace na VTEX](/pt/tutorial/integrando-com-marketplace--tutorials_402).
+Caso seja do seu interesse ter configurações específicas para vender na Riachuelo, você pode [configurar uma política comercial para marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/). Não existe cobrança para a contratação de políticas comerciais adicionais para integrar lojas VTEX com conectores nativos, conectores certificados ou outras lojas VTEX. Saiba mais em [Estratégias de marketplace na VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex).
 
-> ⚠️ Os produtos que você deseja enviar para o Riachuelo Marketplace devem estar [associados à política comercial](/pt/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb) definida. Caso contrário, eles não serão integrados.
+> ⚠️ Os produtos que você deseja enviar para o Riachuelo Marketplace devem estar [associados à política comercial](/pt/docs/tutorials/associacao-de-sku-a-politica-comercial) definida. Caso contrário, eles não serão integrados.
 
 ### Criar afiliado
 
-O [afiliado](/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) é o identificador de uma loja VTEX em um marketplace, sendo necessário que o seller tenha um ID do afiliado diferente para cada marketplace onde venda seus produtos. Ou seja, para a integração com a Riachuelo é preciso [configurar um afiliado](/pt/tutorial/como-configurar-afiliado--tutorials_187) exclusivo. Para criar um novo ID do afiliado, siga os passos abaixo:
+O [afiliado](/pt/docs/tutorials/o-que-e-afiliado) é o identificador de uma loja VTEX em um marketplace, sendo necessário que o seller tenha um ID do afiliado diferente para cada marketplace onde venda seus produtos. Ou seja, para a integração com a Riachuelo é preciso [configurar um afiliado](/pt/docs/tutorials/como-configurar-afiliado) exclusivo. Para criar um novo ID do afiliado, siga os passos abaixo:
 
 1. No Admin, no menu `Configurações da loja > Pedidos`.
 2. Clique em `Configurações`.
@@ -68,17 +68,17 @@ O [afiliado](/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) é o identif
 
 ### Definir Estratégia de Envio
 
-Para vender seus produtos no Riachuelo Marketplace é preciso determinar uma [Estratégia de Envio](/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3), ou seja, informar qual será a logística de entrega dos seus produtos. A Estratégia de Envio é composta de três etapas logísticas: [Política de Envio](/pt/tutorial/politica-de-envio--tutorials_140), [Estoque ](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)e [Doca](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj?&utm_source=autocomplete).
+Para vender seus produtos no Riachuelo Marketplace é preciso determinar uma [Estratégia de Envio](/pt/docs/tutorials/estrategia-de-envio), ou seja, informar qual será a logística de entrega dos seus produtos. A Estratégia de Envio é composta de três etapas logísticas: [Política de Envio](/pt/docs/tutorials/politica-de-envio), [Estoque ](/pt/docs/tutorials/estoque)e [Doca](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj?&utm_source=autocomplete).
 
 A Política de Envio estabelece o conjunto de regras das condições de frete, ou seja, informações de custo, transporte e tempo de entrega. Além disso, é também por meio Política de Envio que é feita a associação de qual será o local de armazenamento dos seus produtos (Estoque), e qual será o espaço de escoamento desses produtos (Doca).
 
 Se for do seu interesse utilizar a mesma Estratégia de Envio definida para sua loja VTEX na integração com a Riachuelo, não é necessário criar novas configurações de logística. Se, no entanto, você deseja criar uma Estratégia de Envio específica para o marketplace, é necessário realizar os seguintes passos:
 
 1. [Cadastrar Política de envio](/pt/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio), associada à política comercial usada na integração.
-2. [Cadastrar Doca](/pt/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW), associada à política comercial usada na integração.
-3. [Cadastrar Estoque](/pt/tutorial/gerenciar-estoque--tutorials_137), associado à Doca criada no passo anterior.
+2. [Cadastrar Doca](/pt/docs/tutorials/gerenciar-doca), associada à política comercial usada na integração.
+3. [Cadastrar Estoque](/pt/docs/tutorials/gerenciar-estoque), associado à Doca criada no passo anterior.
 
-Caso você queira conferir se as configurações foram realizadas corretamente, você pode fazer uma [simulação de envio](/pt/tutorial/simulacao-de-frete--tutorials_144). O Simulador de envio é uma ferramenta que possibilita checar as condições de entrega do produto sem de fato abrir um pedido.
+Caso você queira conferir se as configurações foram realizadas corretamente, você pode fazer uma [simulação de envio](/pt/docs/tutorials/simulador-de-envio). O Simulador de envio é uma ferramenta que possibilita checar as condições de entrega do produto sem de fato abrir um pedido.
 
 ### Criar novo access key e secret
 

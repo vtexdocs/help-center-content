@@ -26,7 +26,7 @@ Com os requisitos cumpridos, basta seguir os passos abaixo para oferecer essa co
 
 ## Configurar provedor de pagamento
 
-Primeiramente é necessário configurar no Admin de sua loja um provedor que processe transações com o Apple Pay, tais como, [Adyen](/pt/tutorial/configurar-pagamento-com-adyenv3) e [Stripe](/pt/tutorial/configurar-a-afiliacao-de-gateway-stripe--fwF2wk2FQKrODrWWkvSLO).
+Primeiramente é necessário configurar no Admin de sua loja um provedor que processe transações com o Apple Pay, tais como, [Adyen](/pt/tutorial/configurar-pagamento-com-adyenv3) e [Stripe](/pt/docs/tutorials/configurar-a-afiliacao-de-gateway-stripe).
 
 Para conferir todas as opções de provedores disponíveis para este meio de pagamento, acesse a lista conforme descrito no Passo 5 da seção [Configurar pagamento com Apple Pay](#configurar-pagamento-com-apple-pay).
 
@@ -41,7 +41,7 @@ Para conferir todas as opções de provedores disponíveis para este meio de pag
 5. No campo __Processar com o provedor__, selecione o provedor que será utilizado para processar os pagamentos.
 6. Se houver um antifraude configurado na sua loja, você pode ativá-lo para essa condição de pagamento marcando a caixa __Usar solução antifraude___.
 7. Escolha se deseja que os pagamentos sejam feitos à vista ou parcelados.
-8. Se quiser, você também pode optar por uma [condição especial de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456).
+8. Se quiser, você também pode optar por uma [condição especial de pagamento](/pt/docs/tutorials/condicoes-especiais).
 9. Clique em `Salvar`.
 
 Depois de seguir os passos indicados, Apple Pay pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento.
@@ -49,5 +49,5 @@ Depois de seguir os passos indicados, Apple Pay pode demorar até 10 minutos par
 ### Artigos relacionados
 
 - [Configurando Merchant ID no Apple Pay](https://developers.vtex.com/vtex-rest-api/docs/setting-up-merchant-id-in-apple-pay)
-- [Configurar condições especiais de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456)
-- [O que é um carteira digital (ewallet)?](/pt/tutorial/o-que-e-uma-carteira-digital-e-wallet--4v5wcOe4A0SiaimWM2cU60)
+- [Configurar condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais)
+- [O que é um carteira digital (ewallet)?](/pt/docs/tutorials/o-que-e-uma-carteira-digital-e-wallet)

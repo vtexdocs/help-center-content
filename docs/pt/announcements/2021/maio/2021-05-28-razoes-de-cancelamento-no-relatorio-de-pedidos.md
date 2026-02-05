@@ -35,5 +35,5 @@ Incluímos as razões para cancelamento no relatório de pedidos para facilitar 
 
 Nenhuma ação é necessária, a alteração é automática para todas as lojas VTEX. Todos os relatórios de pedidos gerados a partir de hoje já correspondem a essa modificação.
 
-Para entender como realizar a exportação de pedidos, leia o tutorial [Exportação de pedidos no Gerenciamento de pedidos](/pt/tutorial/exportando-pedidos-no-gerenciamento-de-pedidos--tutorials_6417). Para saber mais sobre a estrutura do relatório de pedidos, confira o artigo [Relatório de pedidos](/pt/tutorial/planilha-de-pedidos--31m1ewsmsEe0WS4So2aGMY).
+Para entender como realizar a exportação de pedidos, leia o tutorial [Exportação de pedidos no Gerenciamento de pedidos](/pt/docs/tutorials/exportacao-de-pedidos-no-modulo-pedidos). Para saber mais sobre a estrutura do relatório de pedidos, confira o artigo [Relatório de pedidos](/pt/docs/tutorials/planilha-de-pedidos).
 

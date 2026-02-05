@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu
 ---
 
-Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/tutorial/searching-for-events-on-audit--5RXf9WJ5YLFBcS8q8KcxTA) por aplicação.
+Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs/tutorials/audit) por aplicação.
 
 * [OMS](#oms)
 * [Pedidos](#pedidos)

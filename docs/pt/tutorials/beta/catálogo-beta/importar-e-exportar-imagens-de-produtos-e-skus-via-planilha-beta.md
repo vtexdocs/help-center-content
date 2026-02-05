@@ -27,7 +27,7 @@ No Admin VTEX, você pode gerenciar a importação e a exportação de informaç
 
 Para importações de imagens de produtos e SKUs por planilha, realize os seguintes passos:
 
-1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) na barra de busca no topo da página.
+1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus) na barra de busca no topo da página.
 2. No topo da página, clique em `Importar`.
 3. Clique em `Imagens`.
 4. Na janela aberta, clique em **Baixe o modelo de planilha de importação aqui** para obter o arquivo.
@@ -37,7 +37,7 @@ Para importações de imagens de produtos e SKUs por planilha, realize os seguin
 
 Enquanto a importação estiver em andamento, aparecerá a mensagem de que o arquivo está sendo processado. A operação não será afetada, caso você saia da página. Após a conclusão da operação, você receberá um email de confirmação.
 
-> ⚠️ Os produtos com imagens importadas com sucesso são automaticamente colocados na fila de [indexação](/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256). Caso isso não aconteça, veja o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site).
+> ⚠️ Os produtos com imagens importadas com sucesso são automaticamente colocados na fila de [indexação](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao). Caso isso não aconteça, veja o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site).
 
 ## Exportar imagens de produtos e SKUs via planilha
 
@@ -45,7 +45,7 @@ Para exportar um arquivo `.xlsx` com as imagens do seu catálogo, realize os seg
 
 > ℹ️ As informações exportadas correspondem aos campos apresentados na seção [Ver campos da planilha de imagens de produtos e SKUs](#ver-campos-da-planilha-de-imagens-de-produtos-e-skus).
 
-1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) na barra de busca no topo da página.
+1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus) na barra de busca no topo da página.
 2. (Opcional) Caso queira exportar as imagens de determinados produtos e SKUs, [busque](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#buscar-produtos) ou [filtre](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#filtrar-produtos) os itens desejados. Este passo não é necessário para exportar as imagens de todos os itens do seu catálogo.
 3. No topo da página, clique em `Exportar`. 
 4. Clique em `Imagens`.
@@ -58,7 +58,7 @@ Após a finalização da exportação de imagens de produtos e SKUs, você receb
 
 A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campos da planilha de importação de imagens do seu catálogo. Campos obrigatórios estão marcados com um asterisco (*).
 
-> ℹ️ Para importar uma nova imagem, os únicos campos obrigatórios são **ID SKU** e **URL de importação Imagem**. Saiba quais são as [Boas práticas para o uso de imagens no Catálogo](/pt/tutorial/boas-praticas-para-o-uso-de-imagens-no-catalogo--738K2yfq5U86kUI2k4AQIk).
+> ℹ️ Para importar uma nova imagem, os únicos campos obrigatórios são **ID SKU** e **URL de importação Imagem**. Saiba quais são as [Boas práticas para o uso de imagens no Catálogo](/pt/docs/tutorials/boas-praticas-para-o-uso-de-imagens-no-catalogo).
 
 | Campo | Descrição | Exemplo |
 | :--- | :--- | :--- |
@@ -73,10 +73,10 @@ A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campo
 | Label Imagem | Nome que identifica a "etiqueta" da imagem, utilizado internamente pelo lojista para referenciar valores comuns às imagens. | Vista lateral |
 | Texto Imagem | Texto que será associado à imagem, usado internamente na loja. Não utilize caracteres especiais ou acentos, e não repita valores dos campos **Nome Imagem** e **Label Imagem**. | lateral camiseta verao26 |
 | Caminho Imagem | Nome que compõem parte da URL da imagem que está hospedada na plataforma VTEX. Ele aparece após a última barra `/`, incluindo a extensão do arquivo. Caso o campo não esteja preenchido, deixe-o em branco. | camiseta_azul_gola_redonda.jpg |
-| URL de importação Imagem | Imagem a ser associada ao SKU. Para importar uma nova imagem, este campo é obrigatório e deve ser [preenchido com a URL](/pt/tutorial/como-definir-a-url-de-um-produto--frequentlyAskedQuestions_368) do arquivo hospedado. Ela deve começar com o identificador de protocolo HTTP (`http://`) e terminar com uma das seguintes extensões:<ul><li>jpg</li><li>png</li><li>gif</li><li>ico</li><li>svg</li><li>webp</li></ul>Para atualizar uma imagem existente, deixe o campo em branco. Caso contrário, a imagem será criada novamente, gerando uma duplicação. | `http://arquivos.com/ids/image/camiseta_azul_gola_redonda.jpg` |
+| URL de importação Imagem | Imagem a ser associada ao SKU. Para importar uma nova imagem, este campo é obrigatório e deve ser [preenchido com a URL](/pt/docs/tutorials/como-definir-a-url-de-um-produto) do arquivo hospedado. Ela deve começar com o identificador de protocolo HTTP (`http://`) e terminar com uma das seguintes extensões:<ul><li>jpg</li><li>png</li><li>gif</li><li>ico</li><li>svg</li><li>webp</li></ul>Para atualizar uma imagem existente, deixe o campo em branco. Caso contrário, a imagem será criada novamente, gerando uma duplicação. | `http://arquivos.com/ids/image/camiseta_azul_gola_redonda.jpg` |
 
 ## Saiba mais
 
-* [Importar e exportar produtos e SKUs via planilha (Beta)](/pt/tutorial/importar-e-exportar-produtos-e-skus-via-planilha-beta--5udKxWP1ZeBD7QB7Fy2BNl)
-* [Importar e exportar especificações de produtos via planilha (Beta)](/pt/tutorial/importar-e-exportar-especificacoes-de-produtos-via-planilha-beta--jQcmbocCb7kjHOr1JSWIL)
-* [Importar e exportar especificações de SKUs via planilha (Beta)](/pt/tutorial/importar-e-exportar-especificacoes-de-skus-via-planilha-beta--5EAioeC33wHpIxKHaGQzbV)
+* [Importar e exportar produtos e SKUs via planilha (Beta)](/pt/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha-beta)
+* [Importar e exportar especificações de produtos via planilha (Beta)](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-produtos-via-planilha-beta)
+* [Importar e exportar especificações de SKUs via planilha (Beta)](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-skus-via-planilha-beta)

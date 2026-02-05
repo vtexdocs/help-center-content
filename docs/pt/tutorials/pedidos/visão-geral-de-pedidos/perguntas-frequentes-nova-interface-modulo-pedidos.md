@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-O módulo **Todos os pedidos** do Admin VTEX foi transformado para oferecer uma experiência mais intuitiva e completa. Entre as últimas melhorias, agora você pode [buscar pedidos sem limite de data](/pt/tutorial/como-filtrar-pedidos--tutorials_192), não mais existindo a restrição de buscar somente nos últimos seis meses.
+O módulo **Todos os pedidos** do Admin VTEX foi transformado para oferecer uma experiência mais intuitiva e completa. Entre as últimas melhorias, agora você pode [buscar pedidos sem limite de data](/pt/docs/tutorials/filtrar-todos-pedidos), não mais existindo a restrição de buscar somente nos últimos seis meses.
 
 A partir de 1 de fevereiro de 2023, a nova interface será o padrão de todas as lojas VTEX e não será possível retornar à versão anterior. Para auxiliar na transição, criamos este documento, que responde às seguintes perguntas:
 
@@ -30,7 +30,7 @@ Você pode visualizar a correspondência de seções e campos entre a versão an
 
 ## O que aconteceu com o filtro de busca de seis meses?
 
-O filtro de seis meses foi substituído pela busca sem limite de data, que retorna todos os pedidos relacionados ao critério utilizado, independente da data de criação do pedido. É possível, por exemplo, acessar o histórico completo de compras de um cliente, utilizando o nome, email ou documento do cliente. Saiba mais no artigo [Filtrar pedidos em Todos os pedidos](/pt/tutorial/como-filtrar-pedidos--tutorials_192).
+O filtro de seis meses foi substituído pela busca sem limite de data, que retorna todos os pedidos relacionados ao critério utilizado, independente da data de criação do pedido. É possível, por exemplo, acessar o histórico completo de compras de um cliente, utilizando o nome, email ou documento do cliente. Saiba mais no artigo [Filtrar pedidos em Todos os pedidos](/pt/docs/tutorials/filtrar-todos-pedidos).
 
 > ℹ️ A busca em todos os pedidos não pode ser associada a outros filtros, portanto, ao remover o limite de datas da busca, outros filtros se tornam inativos. Você pode, no entanto, combinar filtros e selecionar o período personalizado de seis meses, por exemplo.
 

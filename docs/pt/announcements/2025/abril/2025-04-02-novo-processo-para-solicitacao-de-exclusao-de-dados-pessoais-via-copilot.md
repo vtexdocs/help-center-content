@@ -31,4 +31,4 @@ Somente lojistas autorizados poderão solicitar a exclusão de dados de clientes
 
 Em seguida, atribua este perfil de acesso aos lojistas que serão responsáveis pela solicitação de exclusão de dados de clientes.
 
-Mais detalhes estarão disponíveis na documentação atualizada [Exclusão de dados de clientes](/pt/tutorial/erasing-customer-data--1R9Fn7A06Ifj4R9YD4JTKU) em 09 de abril.
+Mais detalhes estarão disponíveis na documentação atualizada [Exclusão de dados de clientes](/pt/docs/tutorials/exclusao-de-dados-de-clientes) em 09 de abril.

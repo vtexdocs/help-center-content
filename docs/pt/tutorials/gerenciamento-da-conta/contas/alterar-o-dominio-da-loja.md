@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 ---
 
-Mudar o [domínio](/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450) de uma loja após o go-live exige atenção cuidadosa para minimizar problemas de SEO e garantir uma transição transparente, sem impacto na experiência dos clientes.
+Mudar o [domínio](/pt/docs/tutorials/configurar-o-dominio-da-loja) de uma loja após o go-live exige atenção cuidadosa para minimizar problemas de SEO e garantir uma transição transparente, sem impacto na experiência dos clientes.
 
 Saiba mais sobre o processo completo para mudar o domínio na VTEX nas seções a seguir:
 
@@ -41,7 +41,7 @@ Siga as etapas abaixo para realizar a mudança de domínio:
 
    Esse passo é fundamental para que o Checkout continue funcionando após a mudança.
 
-   É necessário conferir se os sites configurados estão relacionados à conta cadastrada em **Configurações da conta > Contas**. Confira [Gerenciamento da conta](/pt/tutorial/gerenciamento-da-conta--2vhUVOKfCaswqLguT2F9xq) para mais detalhes.
+   É necessário conferir se os sites configurados estão relacionados à conta cadastrada em **Configurações da conta > Contas**. Confira [Gerenciamento da conta](/pt/docs/tutorials/gerenciamento-da-conta) para mais detalhes.
 
 3. Se a sua loja utiliza [VTEX IO \- Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) ou [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), entre em contato com o [suporte VTEX](https://supporticket.vtex.com/support) e solicite apontamento interno, informando o novo domínio. Saiba mais sobre [apontamento interno](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-io).
 

@@ -37,7 +37,7 @@ Para integrar com o Zoom, é necessário realizar as seguintes etapas:
 
 ### Configurar perfil de acesso
 
-Uma account VTEX utiliza [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) para facilitar o gerenciamento de acesso e permissões de usuários em uma conta. Um perfil de acesso é um conjunto de recursos definidos para atender determinado tipo de usuário.
+Uma account VTEX utiliza [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) para facilitar o gerenciamento de acesso e permissões de usuários em uma conta. Um perfil de acesso é um conjunto de recursos definidos para atender determinado tipo de usuário.
 
 Para a integração com o Zoom, é necessário [criar um perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso). Para realizar essa configuração, siga os passos abaixo:
 
@@ -53,15 +53,15 @@ Para a integração com o Zoom, é necessário [criar um perfil de acesso](/pt/t
 
 ### Criar coleção
 
-A Coleção é um recurso de agrupamento de produtos e existem diferentes [Tipos de Coleção](/pt/tutorial/tipos-de-colecao--5tKnhh8tMGIrVL7Fqirq7n). É comum utilizá-la para realizar ações comerciais temáticas ou selecionar produtos com critérios semelhantes. Se você já possui uma coleção configurada, você pode utilizá-la na integração com o Zoom, não é necessário criar outra.
+A Coleção é um recurso de agrupamento de produtos e existem diferentes [Tipos de Coleção](/pt/docs/tutorials/tipos-de-colecao). É comum utilizá-la para realizar ações comerciais temáticas ou selecionar produtos com critérios semelhantes. Se você já possui uma coleção configurada, você pode utilizá-la na integração com o Zoom, não é necessário criar outra.
 
-Se você ainda não possui uma coleção, há duas formas de configurar uma. É possível [criar uma coleção pelo módulo Coleções Beta](/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye) (disponível somente a partir do Admin v3), ou fazer o [Cadastro de Coleções CMS](/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L).
+Se você ainda não possui uma coleção, há duas formas de configurar uma. É possível [criar uma coleção pelo módulo Coleções Beta](/pt/docs/tutorials/cadastrar-colecoes-beta) (disponível somente a partir do Admin v3), ou fazer o [Cadastro de Coleções CMS](/pt/docs/tutorials/cadastro-de-colecoes-cms).
 
 ### Definir política comercial
 
-Ao [criar uma política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE), você determina o sortimento de produtos, preços e estratégias de envio em um canal de venda. Ou seja, é preciso [configurar uma política comercial para marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/) para definir quais informações dos seus produtos serão enviadas para o Zoom.
+Ao [criar uma política comercial](/pt/docs/tutorials/criar-uma-politica-comercial), você determina o sortimento de produtos, preços e estratégias de envio em um canal de venda. Ou seja, é preciso [configurar uma política comercial para marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/) para definir quais informações dos seus produtos serão enviadas para o Zoom.
 
-Só será necessário ter uma política comercial diferente daquela utilizada na sua loja VTEX se você quiser oferecer uma seleção diferente de produtos ou enviar preços diferentes para o Zoom. Para [contratar políticas comerciais adicionais](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta solicitar via ticket em nosso [Suporte](https://supporticket.vtex.com/support) selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
+Só será necessário ter uma política comercial diferente daquela utilizada na sua loja VTEX se você quiser oferecer uma seleção diferente de produtos ou enviar preços diferentes para o Zoom. Para [contratar políticas comerciais adicionais](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional), basta solicitar via ticket em nosso [Suporte](https://supporticket.vtex.com/support) selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
 
 A contratação de política comercial adicional para integrar com [conector nativo](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), [conector certificado (parceiro)](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro) ou outras lojas VTEX é isenta de taxas.
 
@@ -69,7 +69,7 @@ A contratação de política comercial adicional para integrar com [conector nat
 
 ### Criar ID do afiliado
 
-O [afiliado](/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) é o identificador de uma loja VTEX em um marketplace, sendo necessário que o seller tenha um ID do afiliado diferente para cada marketplace onde venda seus produtos. Para integrar com o Zoom, será preciso [configurar um afiliado](/pt/tutorial/como-configurar-afiliado--tutorials_187), conforme os passos a seguir:
+O [afiliado](/pt/docs/tutorials/o-que-e-afiliado) é o identificador de uma loja VTEX em um marketplace, sendo necessário que o seller tenha um ID do afiliado diferente para cada marketplace onde venda seus produtos. Para integrar com o Zoom, será preciso [configurar um afiliado](/pt/docs/tutorials/como-configurar-afiliado), conforme os passos a seguir:
 
 1. Acesse o Admin.
 2. Na página _Configurações da loja > Pedidos_, clique em `Configurações`.
@@ -110,7 +110,7 @@ A indexação é um processo que prepara os dados do SKU e atualiza as informaç
 1. Acesse a página _{nomedaloja}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx_, substituindo `{nomedaloja}` pelo nome da sua loja/ambiente.
 2. Clique no botão `Reindexar Base`.
 
-Feito isso, o processo é iniciado automaticamente e pode ser acompanhado pelo Admin, no módulo _PRODUTOS > Catálogo > Relatórios._ Para mais informações, veja o artigo [Limpar base de dados da loja](/pt/tutorial/entendendo-a-manutencao-da-base-de-dados--34P9LGs7BCIQK6acQom802).
+Feito isso, o processo é iniciado automaticamente e pode ser acompanhado pelo Admin, no módulo _PRODUTOS > Catálogo > Relatórios._ Para mais informações, veja o artigo [Limpar base de dados da loja](/pt/docs/tutorials/manutencao-de-base-full-cleanup).
 
 ## Envio de informações para o Zoom
 

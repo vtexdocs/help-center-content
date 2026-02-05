@@ -35,7 +35,7 @@ Com a Piperun podemos ter duas integrações diferentes: **Integração estáti
 
 ![Piperun - Suiteshare_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/piperun-suiteshare_3.png)
 
-Selecione o [link de captura](/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo) que deseje integrar. 
+Selecione o [link de captura](/pt/docs/tutorials/formulario-de-captura-suiteshare) que deseje integrar. 
 
 ![Piperun - Suiteshare_3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/piperun-suiteshare_4.png)
 

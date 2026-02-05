@@ -38,8 +38,8 @@ A ativação de desconto atrelado a um método de pagamento é realizada em duas
 Para configurar um desconto vinculado a um método de pagamento, é necessário seguir as seguintes documentações:  
 
 1. [Set a discount using the checkout API](https://developers.vtex.com/docs/guides/set-a-discount-using-the-checkout-api) para inserir qual o método de pagamento desejado na variável `paymentSystemToCheckFirstInstallment` e simular uma carrinho de comprar para verificar se a forma de pagamento foi atualizada.  
-2.  [Configurar desconto de preço à vista](/pt/tutorial/configurar-desconto-de-preco-a-vista--7Lfcj9Wb5dpYfA2gKkACIt) para atrelar o SKU ao meio de pagamento.  
-3. [Configurar desconto de preço à vista para Google Shooping](/pt/tutorial/configurar-desconto-de-preco-a-vista-para-google-shopping--40K3R5d4NogMvCzIWdWt3e).  
+2.  [Configurar desconto de preço à vista](/pt/docs/tutorials/configurar-desconto-de-preco-a-vista) para atrelar o SKU ao meio de pagamento.  
+3. [Configurar desconto de preço à vista para Google Shooping](/pt/docs/tutorials/configurar-desconto-de-preco-a-vista-para-google-shopping).  
 
 Após seguir essas documentações, a ativação deverá ser realizada através da [Configuração do conector](/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl).
 

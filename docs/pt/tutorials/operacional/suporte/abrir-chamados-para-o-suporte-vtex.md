@@ -17,9 +17,9 @@ subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 
 Todos os clientes têm acesso a atendimento fornecido pelo time de especialistas do [Suporte VTEX](/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). Os especialistas estão preparados para proporcionar a melhor experiência possível para a solução dos chamados. Para contatá-los, é necessário abrir um chamado por meio do sistema de tickets.
 
-É necessário [habilitar a autorização de suporte](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) no [License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) para que o usuário tenha acesso ao suporte da VTEX. Esta configuração é válida apenas para contas no Brasil.
+É necessário [habilitar a autorização de suporte](/pt/docs/tutorials/perfis-de-acesso) no [License Manager](/pt/docs/tutorials/recursos-do-license-manager) para que o usuário tenha acesso ao suporte da VTEX. Esta configuração é válida apenas para contas no Brasil.
 
-Este artigo explica como clientes devem abrir chamados no Suporte VTEX e acompanhar o status dos chamados. Para saber mais sobre disponibilidade, tempo estimado de resposta (SLA)acesse o artigo [Recursos de Suporte Global da VTEX](/pt/tutorial/recursos-de-suporte-global-da-vtex--5maoEWCrTKFAEMXRsfcklV).
+Este artigo explica como clientes devem abrir chamados no Suporte VTEX e acompanhar o status dos chamados. Para saber mais sobre disponibilidade, tempo estimado de resposta (SLA)acesse o artigo [Recursos de Suporte Global da VTEX](/pt/docs/tutorials/recursos-de-suporte-global-da-vtex).
 
 Confira a seguir as etapas descritas neste artigo:
 
@@ -46,7 +46,7 @@ O suporte técnico oferece orientações para solucionar problemas ou esclarecer
 Para solicitar suporte técnico, siga os passos abaixo e preencha as informações necessárias:
 
 ### 1. Realizar login na sua conta
-Na etapa inicial, autentique seu acesso ao [Admin VTEX](/pt/tutorial/admin-vtex-comece-aqui--531cHtUCUi3puRXNDmKziw) para gerenciar as operações de comércio digital da sua loja.
+Na etapa inicial, autentique seu acesso ao [Admin VTEX](/pt/docs/tutorials/admin-vtex-comece-aqui) para gerenciar as operações de comércio digital da sua loja.
 
 ### 2. Acessar o Copilot
 O Copilot é uma ferramenta integrada à plataforma que facilita o suporte técnico. Por meio dela, você pode tirar dúvidas e solucionar problemas. Para acessar o Copilot e iniciar a interação com o suporte, siga os passos abaixo:
@@ -162,7 +162,7 @@ Para solicitar esse tipo de suporte, siga os passos abaixo:
 4. Clique em `Enviar`.
 
 #### Comercial
-O suporte comercial auxilia o usuário em solicitações relacionadas à [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV),  [ambientes adicionais](/pt/tutorial/contratar-novo-ambiente--tutorials_2542), [sellers white label](/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) ou à [alteração de usuário](/pt/docs/tutorials/gerenciar-usuarios-administrativos) com o perfil Sponsor user (Master Admin user).
+O suporte comercial auxilia o usuário em solicitações relacionadas à [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial),  [ambientes adicionais](/pt/docs/tutorials/contratar-novo-ambiente), [sellers white label](/pt/docs/tutorials/seller-white-label) ou à [alteração de usuário](/pt/docs/tutorials/gerenciar-usuarios-administrativos) com o perfil Sponsor user (Master Admin user).
 
 Para solicitar esse tipo de suporte, siga os passos abaixo:
 

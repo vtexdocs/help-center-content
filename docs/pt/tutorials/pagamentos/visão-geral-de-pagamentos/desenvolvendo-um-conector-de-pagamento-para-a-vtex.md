@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
-Este artigo oferece um guia completo para parceiros que desejam desenvolver [conectores de pagamentos](/pt/tutorial/o-que-e-conector--3lze0Cu0bmyC6u2o2iaeEA) compatíveis com a plataforma VTEX. O foco é garantir uma integração eficiente e padronizada, permitindo que os conectores sejam usados em todas as lojas da plataforma.
+Este artigo oferece um guia completo para parceiros que desejam desenvolver [conectores de pagamentos](/pt/docs/tutorials/o-que-e-conector) compatíveis com a plataforma VTEX. O foco é garantir uma integração eficiente e padronizada, permitindo que os conectores sejam usados em todas as lojas da plataforma.
 
 Ao adotar as diretrizes apresentadas, os parceiros garantem que sua integração atenda aos mais altos padrões de qualidade, agregando valor tanto para os lojistas quanto para seus clientes, e promovem a inovação e a competitividade no comércio digital.
 
@@ -73,7 +73,7 @@ O processo de desenvolvimento de um conector VTEX pode ser dividido em quatro fa
 
 <blockquote>> ⚠️ Para iniciar o processo de [homologação de um conector de pagamento](https://developers.vtex.com/docs/guides/integrating-a-new-payment-provider-on-vtex#7-homologation-and-go-live) na plataforma é necessário ter um contrato ativo e não possuir pendências financeiras com a VTEX.</blockquote>
 
-<blockquote><ui>4. **Ativação do conector:** uma vez homologado e publicado, os lojistas poderão configurar os [meios de pagamento](/pt/tutorial/afiliacoes-de-gateway--tutorials_444) em suas lojas por meio do [Admin VTEX](/pt/tutorial/admin-vtex-comece-aqui--531cHtUCUi3puRXNDmKziw).</ui></blockquote>
+<blockquote><ui>4. **Ativação do conector:** uma vez homologado e publicado, os lojistas poderão configurar os [meios de pagamento](/pt/docs/tutorials/afiliacoes-de-gateway) em suas lojas por meio do [Admin VTEX](/pt/docs/tutorials/admin-vtex-comece-aqui).</ui></blockquote>
 
 Para mais detalhes sobre o fluxo de criação de um conector, acesse [Integrating a new payment provider on VTEX](https://developers.vtex.com/docs/guides/integrating-a-new-payment-provider-on-vtex). 
 
@@ -111,7 +111,7 @@ Veja abaixo as características de cada uma das opções de infraestrutura dispo
 
 - __Acesso a eventos em tempo real:__ utiliza o [Event Bus](https://medium.com/dev-axe/aws-amazon-eventbridge-event-bus-explained-ad52ec36d185) para acompanhar ações realizadas na plataforma.
 
-- __Integração simplificada com Banco de Dados como Serviço:__ conecta-se facilmente a bancos de dados como VBase e [Master data](/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) para gerenciar dados de maneira eficiente na sua aplicação.
+- __Integração simplificada com Banco de Dados como Serviço:__ conecta-se facilmente a bancos de dados como VBase e [Master data](/pt/docs/tutorials/master-data) para gerenciar dados de maneira eficiente na sua aplicação.
 
 - __Dispensa a necessidade de desenvolvedores PCI-DSS:__ conectores criados no VTEX IO utilizam o [Secure Proxy](https://developers.vtex.com/docs/guides/payments-integration-secure-proxy) para o tratamento de dados de cartão, garantindo que o conector não tenha acesso direto aos dados sensíveis, embora o parceiro ainda precise ser [PCI-DSS](https://developers.vtex.com/docs/guides/payments-integration-pci-dss-compliance).
 
@@ -181,7 +181,7 @@ O uso crescente de carteiras digitais (wallets) traz mais segurança e conveniê
 
 #### Suporte ao Google Pay com tokenização DPAN (Device Primary Account Number)
 
-O suporte ao Google Pay com [tokenização DPAN](/pt/tutorial/dpan-e-fpan-entendendo-a-seguranca-no-fluxo-de-pagamentos-tokenizados-online--3RM7RvhKZ057wja5xVEOqb) proporciona vantagens importantes para a segurança e a experiência do usuário:  
+O suporte ao Google Pay com [tokenização DPAN](/pt/docs/tutorials/dpan-e-fpan-entendendo-a-seguranca-no-fluxo-de-pagamentos-tokenizados-online) proporciona vantagens importantes para a segurança e a experiência do usuário:  
 
 - __Maior segurança:__ os dados reais do cartão não são compartilhados, reduzindo riscos de fraude.
 - __Menor fricção em compras recorrentes:__ DPANs podem ser reutilizados (pagamentos recorrentes) sem necessidade de solicitar novamente os dados do usuário.
@@ -209,9 +209,9 @@ Conectores com funcionalidade de [split de recebíveis](/pt/tutorial/split-de-pa
 
 ## Saiba mais
 
-- [VTEX Payment Provider Protocol - Help Center](/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m)
+- [VTEX Payment Provider Protocol - Help Center](/pt/docs/tutorials/payment-provider-protocol)
 - [Secure Proxy - Help Center](https://developers.vtex.com/docs/guides/payments-integration-secure-proxy#custom-supported-operators)
-- [VTEX Master Data - Help Center](/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw)
+- [VTEX Master Data - Help Center](/pt/docs/tutorials/master-data)
 - [Implementing a Payment Provider - Dev. Portal](https://developers.vtex.com/docs/guides/payments-integration-implementing-a-payment-provider)
 - [Payment Provider Framework - Dev. Portal](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework)
 - [Split Payouts on Payment Provider Protocol - Dev. Portal](https://developers.vtex.com/docs/guides/split-payouts-on-payment-provider-protocol)

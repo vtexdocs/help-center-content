@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Desenvolvemos o aplicativo Assembly Options para simplificar a customização de produtos durante a compra.'
 ---
 
-A customização de produtos é uma necessidade comum durante a experiência de compra online. Na VTEX, esse tipo de customização é possível utilizando [Assembly Options](/pt/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH), que são [anexos](/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) para cenários complexos, em que é necessário gerenciar diferentes combinações de produtos, quantidades, itens adicionais e custos.
+A customização de produtos é uma necessidade comum durante a experiência de compra online. Na VTEX, esse tipo de customização é possível utilizando [Assembly Options](/pt/docs/tutorials/assembly-options), que são [anexos](/pt/docs/tutorials/o-que-e-um-anexo) para cenários complexos, em que é necessário gerenciar diferentes combinações de produtos, quantidades, itens adicionais e custos.
 
 Uma situação comum em restaurantes que aceitam pedidos online, por exemplo, é permitir que os clientes possam escolher ingredientes e adicionar extras a um pedido.
 
@@ -39,4 +39,4 @@ O app Assembly Options está disponível apenas para lojas desenvolvidas usando 
 
 Você pode instalar o aplicativo gratuitamente pela [VTEX App Store](https://apps.vtex.com/vtex-admin-assembly-options/p) ou pelo [VTEX IO CLI](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference), seguindo os passos do guia para desenvolvedores [Assembly Options app](https://developers.vtex.com/vtex-developer-docs/docs/assembly-options-app). Após a instalação, a página **Produtos > Assembly Options** se torna disponível no Admin VTEX.
 
-Para mais detalhes sobre o uso desse aplicativo no Admin VTEX, confira o artigo [App Assembly Options](/pt/tutorial/app-assembly-options--54mWg37mojrqOgCA79iqqk).
+Para mais detalhes sobre o uso desse aplicativo no Admin VTEX, confira o artigo [App Assembly Options](/pt/docs/tutorials/app-assembly-options).

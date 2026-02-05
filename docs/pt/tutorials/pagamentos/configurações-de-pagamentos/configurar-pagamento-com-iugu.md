@@ -52,7 +52,7 @@ Depois de seguir os passos indicados, o provedor iugu pode demorar até 10 minut
 
 Para processar pagamentos em [marketplace com split de pagamento](https://help.vtex.com/pt/docs/tutorials/pagamentos-em-marketplaces-vtex#split-de-pagamentos) na iugu é necessário cadastrar os sellers de sua loja com o mesmo CNPJ no Admin VTEX e na sua área do cliente no portal da iugu. 
 
-Saiba mais sobre criar sellers na VTEX em [Adicionar seller](/pt/tutorial/adicionar-seller--tutorials_392) e acesse as documentações da iugu para criar subcontas (sellers) via [área do cliente](https://support.iugu.com/hc/pt-br/articles/4411276874779-Como-criar-uma-subconta-pelo-painel-iugu-) ou [API](https://dev.iugu.com/docs/configurar-subconta-por-api).
+Saiba mais sobre criar sellers na VTEX em [Adicionar seller](/pt/docs/tutorials/adicionar-seller) e acesse as documentações da iugu para criar subcontas (sellers) via [área do cliente](https://support.iugu.com/hc/pt-br/articles/4411276874779-Como-criar-uma-subconta-pelo-painel-iugu-) ou [API](https://dev.iugu.com/docs/configurar-subconta-por-api).
 
 ### Habilitar split de recebíveis com iugu
 
@@ -76,4 +76,4 @@ Para disponibilizar a [recorrência](https://help.vtex.com/pt/docs/tutorials/con
 
 - Habilitar o modo recorrência no Admin VTEX.
 - Configurar os meios de pagamento cartão de crédito ou boleto bancário no Admin VTEX e na iugu.
-- Configurar a funcionalidade [assinaturas](/pt/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj) em sua loja.
+- Configurar a funcionalidade [assinaturas](/pt/docs/tutorials/como-configurar-assinaturas) em sua loja.

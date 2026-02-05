@@ -94,9 +94,9 @@ Veja abaixo as configurações que não estão disponíveis para marketplaces:
 
 | Nome | Descrição|
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Cluster de clientes                                                | Desconto concedido caso o cliente esteja cadastrado no [cluster](/pt/tutorial/como-criar-um-cluster-de-clientes--frequentlyAskedQuestions_1724) selecionado.                                        |
+| Cluster de clientes                                                | Desconto concedido caso o cliente esteja cadastrado no [cluster](/pt/docs/tutorials/como-criar-um-cluster-de-clientes) selecionado.                                        |
 | Marketing tag                                                      | Utilizado para restringir a ativação da promoção caso a compra seja realizada pelo [módulo de Assinaturas da VTEX](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453#).        |
-| UTMs                                                               | Desconto concedido a depender do valor de um dado [parâmetro UTM](/pt/tutorial/o-que-sao-utm-source-utm-campaign-e-utm-medium--2wTz7QJ8KUG6skGAoAQuii).                                             |
+| UTMs                                                               | Desconto concedido a depender do valor de um dado [parâmetro UTM](/pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium).                                             |
 | Audiência de campanha                                              | Permite segmentar as promoções da sua loja a partir da definição de [públicos-alvo](/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m#publico-alvo) que atendem a critérios específicos. |
 | Cupons                                                             | Código que permite aplicar promoções sobre o valor do carrinho.                                                                                                                                                          |
 | Valor mínimo ou máximo do carrinho                                 | Aplicada levando em conta o valor do carrinho sem considerar demais promoções ou frete.                                                                                                                                  |
@@ -116,8 +116,8 @@ Veja abaixo as configurações que não estão disponíveis para marketplaces:
 
 Se necessário, é possível segmentar promoções para marketplaces específicos. Existem dois seletores que podem ser usados para obter este resultado:
 
-- [Política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE): utilizado quando todos os marketplaces-alvo compartilham as mesmas configurações de canal de vendas (catálogo, preço e logística).
-- [Afiliado](/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0): utilizado para selecionar um ou mais marketplaces específicos, mesmo que não compartilhem as mesmas configurações de canal de vendas.
+- [Política comercial](/pt/docs/tutorials/criar-uma-politica-comercial): utilizado quando todos os marketplaces-alvo compartilham as mesmas configurações de canal de vendas (catálogo, preço e logística).
+- [Afiliado](/pt/docs/tutorials/o-que-e-afiliado): utilizado para selecionar um ou mais marketplaces específicos, mesmo que não compartilhem as mesmas configurações de canal de vendas.
 
 ### Seleção por política comercial
 
@@ -133,4 +133,4 @@ Se necessário, é possível segmentar promoções para marketplaces específico
 3. Na seção **Política Comercial**, selecione as opções **Iguais a** e **Entregue por mim (Lojas de terceiros)**.
 4. Clique em `Salvar`.
 
-> ⚠️ Uma vez que você crie a promoção, lembre-se de [reindexar os produtos afetados](/pt/tutorial/entendendo-a-manutencao-da-base-de-dados--34P9LGs7BCIQK6acQom802) no inicio e fim das promoções. Dessa forma, os seus produtos terão os preços atualizados.
+> ⚠️ Uma vez que você crie a promoção, lembre-se de [reindexar os produtos afetados](/pt/docs/tutorials/manutencao-de-base-full-cleanup) no inicio e fim das promoções. Dessa forma, os seus produtos terão os preços atualizados.

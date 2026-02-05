@@ -17,9 +17,9 @@ announcementSynopsisPT: 'Agora, os pedidos cancelados da Amazon são cancelados 
 
 Desenvolvemos um novo fluxo de cancelamento para os pedidos na integração entre VTEX e [Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP), automatizando o processo e eliminando a necessidade de cancelamentos manuais.  
 
-Anteriormente, a integração não contava com um fluxo automatizado, e os cancelamentos precisavam ser feitos manualmente pelos sellers pelo Admin VTEX. Quando o pedido ainda não havia sido integrado à VTEX, os SKUs permaneciam reservados, comprometendo o [inventário](/pt/tutorial/gerenciar-inventario--tutorials_139) da loja.  
+Anteriormente, a integração não contava com um fluxo automatizado, e os cancelamentos precisavam ser feitos manualmente pelos sellers pelo Admin VTEX. Quando o pedido ainda não havia sido integrado à VTEX, os SKUs permaneciam reservados, comprometendo o [inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) da loja.  
 
-Agora, os [pedidos cancelados](/pt/tutorial/declining-order-cancellation--F2n0h1TeQ5td540Gjyff4) na Amazon são automaticamente cancelados na VTEX, e os SKUs reservados são liberados, ficando disponíveis para novas vendas. O novo fluxo de cancelamento é válido para cancelamentos realizados pelo seller, pela Amazon ou pelo cliente.  
+Agora, os [pedidos cancelados](/pt/docs/tutorials/recusar-solicitacao-de-cancelamento-do-pedido) na Amazon são automaticamente cancelados na VTEX, e os SKUs reservados são liberados, ficando disponíveis para novas vendas. O novo fluxo de cancelamento é válido para cancelamentos realizados pelo seller, pela Amazon ou pelo cliente.  
 
 ## Por que fizemos essa mudança?
 A VTEX implementou este fluxo para tornar mais eficiente o processo de cancelamento de pedidos da integração. Com essa mudança, os sellers obtêm os seguintes benefícios:  

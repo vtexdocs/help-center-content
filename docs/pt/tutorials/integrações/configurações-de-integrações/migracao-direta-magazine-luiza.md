@@ -31,12 +31,12 @@ Veja abaixo quais são os passos a serem seguidos nesta etapa:
 
 1. O seller deve abrir um ticket pelo [Portal do seller do Magazine Luiza](https://id-b2b.magazineluiza.com.br/auth/realms/B2B/protocol/openid-connect/auth?client_id=platform-seller-shell&redirect_uri=https%3A%2F%2Fseller.magalu.com%2F&state=1985744a-615b-428f-8d32-d9d2b03edf30&response_mode=fragment&response_type=code&scope=openid&nonce=5e1f25ae-d3b3-4cdf-85fd-d18183d99334) informando que deseja migrar da integração **A** para a VTEX.  
 2. O seller deve abrir um ticket com o time [suporte da VTEX](https://supporticket.vtex.com/support) informando o interesse em realizar a **Migração Direta.**  
-3. Realizar o mapeamento dos [produtos e SKUs](/pt/tutorial/qual-a-diferenca-entre-produto-e-sku--5yhABFDOpyiUcicce2W4CM) no seu catálogo VTEX.  
+3. Realizar o mapeamento dos [produtos e SKUs](/pt/docs/tutorials/qual-a-diferenca-entre-produto-e-sku) no seu catálogo VTEX.  
 Para realizar o mapeamento acesse no Admin VTEX **Catálogo > Todos os produtos.**  
 
 > ❗️ O código de referência do SKU na VTEX deve ser igual ao ID do SKU no Magazine Luiza e o código de referência do produto na VTEX também deve ser igual ao ID do produto no Magazine Luiza. Sem esse mapeamento de equivalência, a migração não funcionará.
 
-4. [Criar uma política comercial](/pt/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) para utilizar na integração com o Magazine Luiza. Essa política não deve ter produtos associados.  
+4. [Criar uma política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) para utilizar na integração com o Magazine Luiza. Essa política não deve ter produtos associados.  
 5. Ativar o conector do Magazine Luiza conforme a [documentação de integração](/pt/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y/3tZ4qVuMDDsC2jx2DCmjdA) e autenticar a conta.  
 6. No seller center do Magazine Luiza, o seller deve zerar o estoque de todos os produtos.  
 7. Ao finalizar os passos anteriores, o seller deve informar nos tickets com a VTEX e com o Magazine Luiza qual a data e horário que deseja realizar a migração.   
@@ -65,7 +65,7 @@ Quando o seller receber a confirmação de que a migração foi finalizada, é n
 
 - **Teste 3**
 
-1. [Atualize o estoque](/pt/tutorial/atualizacao-da-quantidade-de-itens-em-estoque--2MDwYV1COA6YuoiY22AyGo) dos produtos adicionados à política comercial.  
+1. [Atualize o estoque](/pt/docs/tutorials/atualizacao-da-quantidade-de-itens-em-estoque) dos produtos adicionados à política comercial.  
 2. Verifique se as informações foram alteradas também no marketplace.  
 
 - **Teste 4**
@@ -75,7 +75,7 @@ Quando o seller receber a confirmação de que a migração foi finalizada, é n
 
 - **Teste 5**
 
-1. Faça a [Simulação de envio](/pt/tutorial/simulador-de-envio--tutorials_144) para os produtos adicionados à política comercial.  
+1. Faça a [Simulação de envio](/pt/docs/tutorials/simulador-de-envio) para os produtos adicionados à política comercial.  
 
 Caso todos os testes sejam executados com sucesso, o seller deve adicionar os demais produtos à política comercial utilizada na integração para finalizar o processo.
 

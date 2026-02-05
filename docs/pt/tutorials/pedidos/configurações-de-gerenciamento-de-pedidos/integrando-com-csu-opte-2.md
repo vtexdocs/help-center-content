@@ -52,7 +52,7 @@ Uma vez criado o afiliado, é preciso criar e dar permissão para a chave da CSU
 3. Selecione o usuário encontrado e associe a ele o perfil de acesso `IntegrationProfile-Fulfillment_Gateway_GetOrder`.
 4. Clique em `Salvar`.
 
-Após esse procedimento, a integração com a CSU está configurada, e o [usuário titular](/pt/tutorial/what-is-the-sponsor-user--3oPr7YuIkEYqUGmEqIMSEy) do Seller deve solicitar uma reindexação do seu cátalogo para agilizar o envio dos SKUs para a CSU.
+Após esse procedimento, a integração com a CSU está configurada, e o [usuário titular](/pt/docs/tutorials/o-que-e-o-usuario-titular) do Seller deve solicitar uma reindexação do seu cátalogo para agilizar o envio dos SKUs para a CSU.
 
 É necessário ter permissão de usuário titular para realizar este passo: acesse seu admin (http://_nomedaloja_/admin/site/fullcleanup.aspx) e clique no botão **Reindexar Base** (este procedimento deve ser feito com muito cuidado e não deve ser repetido sempre, pois pode afetar a performance do site).
 
@@ -60,4 +60,4 @@ Pronto, agora você está prestes a ser um parceiro Opte+. Entre em contato com
 
 ### Saiba mais
 
-- [Estratégias de marketplace na VTEX](/pt/tutorial/marketplace-strategies-at-vtex--tutorials_402).
+- [Estratégias de marketplace na VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex).

@@ -36,8 +36,8 @@ A página apresenta as seguintes informações:
 | Telefone comercial | Número de telefone comercial da loja física.                                                                                                                                               |
 | Cidade             | Cidade onde a loja física está localizada.                                                                                                                                                 |
 | Estado             | Estado onde a loja física está localizada.                                                                                                                                                 |
-| Conta franquia     | [Conta fraquia](/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) onde a loja física está cadastrada.                                                       |
-| Política comercial | [Política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) aplicada na loja física.                                              |
+| Conta franquia     | [Conta fraquia](/pt/docs/tutorials/o-que-e-conta-franquia) onde a loja física está cadastrada.                                                       |
+| Política comercial | [Política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) aplicada na loja física.                                              |
 
 ## Cadastrar loja física
 
@@ -72,9 +72,9 @@ Você pode cadastrar uma loja física seguindo os passos a seguir:
 
 #### Informações técnicas
 
-* **Conta franquia:** nome da [conta franquia](/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) em que a loja física deve ser cadastrada.
-* **Política comercial:** [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que será aplicada na loja física. Campo obrigatório.
-* **Ponto de retirada:** [ponto de retirada](/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) cadastrado para essa loja física, onde clientes retiram seus pedidos. 
+* **Conta franquia:** nome da [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) em que a loja física deve ser cadastrada.
+* **Política comercial:** [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) que será aplicada na loja física. Campo obrigatório.
+* **Ponto de retirada:** [ponto de retirada](/pt/docs/tutorials/pontos-de-retirada) cadastrado para essa loja física, onde clientes retiram seus pedidos. 
 
 > ℹ️ As alterações podem levar até 15 minutos para serem processadas e aplicadas no VTEX Sales App.
 

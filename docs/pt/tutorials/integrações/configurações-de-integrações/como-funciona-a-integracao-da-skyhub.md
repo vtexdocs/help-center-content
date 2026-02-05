@@ -27,7 +27,7 @@ A SkyHub é a integradora que gerencia a comunicação entre VTEX e a B2W/Americ
 
 ## Produtos
 
-Após configurar a integração com a B2W, o envio de produtos para o marketplace é feito de forma automática. A [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) utilizada na etapa [configurar conector](/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk/40eYElt1qwIqGeIeum2W4M) é o que determina quais dos seus produtos serão enviados para o marketplace. 
+Após configurar a integração com a B2W, o envio de produtos para o marketplace é feito de forma automática. A [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) utilizada na etapa [configurar conector](/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk/40eYElt1qwIqGeIeum2W4M) é o que determina quais dos seus produtos serão enviados para o marketplace. 
 
 ### Campos enviados
 
@@ -143,7 +143,7 @@ Os pedidos na SkyHub possuem status próprios, conforme a tabela a seguir. Para 
 
 A VTEX recebe um _feed_ de pedidos da SkyHub e integra apenas aqueles que estão no status `New` ou `Approved`. Nenhum outro status além desses dois será aceito para integrar um pedido. Os pedidos são integrados na VTEX com os mesmos IDs usados pela SkyHub.
 
-Caso um pedido não integre na primeira tentativa, existe uma retentativa automática programada para erros não mapeados pela integração. Em casos de erros conhecidos, é necessário resolvê-los com ações manuais. Para mais informações, veja [Erros de integração de pedidos da B2W](/pt/tutorial/erros-de-integracao-de-pedidos-da-b2w--2iQqCJIfySN0JsCJkOG2h8).
+Caso um pedido não integre na primeira tentativa, existe uma retentativa automática programada para erros não mapeados pela integração. Em casos de erros conhecidos, é necessário resolvê-los com ações manuais. Para mais informações, veja [Erros de integração de pedidos da B2W](/pt/docs/tutorials/erros-de-integracao-de-pedidos-da-b2w).
 
 ### Interagir com pedido
 
@@ -174,11 +174,11 @@ Apesar de a SkyHub consultar o frete na VTEX, a integração permite usar uma so
 
 No caso de uma solução de terceiros fazer o cálculo de frete ou no caso de utilizar uma tabela de contingência, a integração faz um _match_ do frete calculado com a transportadora que mais se adequa na VTEX. O parâmetro utilizado é o nome da transportadora escolhida. Caso a integração não consiga encontrar uma transportadora idêntica, a VTEX integra o pedido com a transportadora mais barata disponível.
 
-> ℹ️ Para o seller que utiliza o serviço [B2W Entregas ou B2W Entregas Direct](/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk/5hHCiAMHih2lc5xb3A5Ohp#b2w-entregas-e-b2w-entregas-direct), a SkyHub não consulta a VTEX sobre frete, pois o envio é responsabilidade do marketplace. É possível também [Configurar integração de lojas físicas com a B2W](/pt/tutorial/configurar-integracao-de-lojas-fisicas-com-a-b2w--1yv2BSquNmdp8M6vJvaLwm) e oferecer ao consumidor a opção de pontos de retirada do pedido.
+> ℹ️ Para o seller que utiliza o serviço [B2W Entregas ou B2W Entregas Direct](/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk/5hHCiAMHih2lc5xb3A5Ohp#b2w-entregas-e-b2w-entregas-direct), a SkyHub não consulta a VTEX sobre frete, pois o envio é responsabilidade do marketplace. É possível também [Configurar integração de lojas físicas com a B2W](/pt/docs/tutorials/configurar-integracao-de-lojas-fisicas-com-a-b2w) e oferecer ao consumidor a opção de pontos de retirada do pedido.
 
 <br></br>
 ### Saiba mais
 
 - [Integração com SkyHub/B2W](/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk)
-- [Configurar integração de lojas físicas com a B2W](/pt/tutorial/configurar-integracao-de-lojas-fisicas-com-a-b2w--1yv2BSquNmdp8M6vJvaLwm)
-- [Erros de integração de pedidos da B2W](/pt/tutorial/erros-de-integracao-de-pedidos-da-b2w--2iQqCJIfySN0JsCJkOG2h8)
+- [Configurar integração de lojas físicas com a B2W](/pt/docs/tutorials/configurar-integracao-de-lojas-fisicas-com-a-b2w)
+- [Erros de integração de pedidos da B2W](/pt/docs/tutorials/erros-de-integracao-de-pedidos-da-b2w)

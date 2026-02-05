@@ -39,7 +39,7 @@ ____
 
 **Mensagem traduzida:** Este SKU não está no catálogo da Amazon. Se você carregou um arquivo de inventário para vários marketplaces e agora está recebendo esta mensagem em um marketplace diferente daquele em que você carregou o arquivo, este erro indica que a página de detalhes desse item não existe no marketplace em que a mensagem está sendo exibida. A Amazon está tentando criar a página de detalhes desse item em seu nome. Se tiver êxito, seu anúncio estará disponível no marketplace designado em até 48 horas.
 
-Esta mensagem indica uma falha ao exportar o SKU para o catálogo da Amazon, provavelmente porque a planilha de mapeamento não foi preenchida corretamente para aquele SKU. Isso impossibilita a integração de estoque com a Amazon. Primeiro é necessário exportar novamente a categoria à qual pertence o SKU, o que pode ser feito consultando [Envio de produtos para a Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD). Em seguida, [atualize seu estoque](/pt/tutorial/como-atualizar-estoque--2MDwYV1COA6YuoiY22AyGo). Isso automaticamente será refletido na Amazon, e, portanto, não é necessário fazer um reprocessamento manual do erro.
+Esta mensagem indica uma falha ao exportar o SKU para o catálogo da Amazon, provavelmente porque a planilha de mapeamento não foi preenchida corretamente para aquele SKU. Isso impossibilita a integração de estoque com a Amazon. Primeiro é necessário exportar novamente a categoria à qual pertence o SKU, o que pode ser feito consultando [Envio de produtos para a Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD). Em seguida, [atualize seu estoque](/pt/docs/tutorials/atualizacao-da-quantidade-de-itens-em-estoque). Isso automaticamente será refletido na Amazon, e, portanto, não é necessário fazer um reprocessamento manual do erro.
 
 ____
 
@@ -97,5 +97,5 @@ Estes erros ocorrem devido a problemas com _token_. Para a Amazon, um _token_ po
 ### Saiba mais
 
 - [Integração com a Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)
-- [Controle de estoque mínimo para integrações](/pt/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D)
-- [Configurar o Alerta de Estoque Crítico](/pt/tutorial/configurar-o-alerta-de-estoque-critico--6FD0GHeQPCsKIMgkQ88SGu)
+- [Controle de estoque mínimo para integrações](/pt/docs/tutorials/controle-de-estoque-minimo-para-integracoes)
+- [Configurar o Alerta de Estoque Crítico](/pt/docs/tutorials/configurar-o-alerta-de-estoque-critico)

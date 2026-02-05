@@ -17,10 +17,10 @@ subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 
 Na VTEX, compartilhamos a responsabilidade pelo sucesso dos nossos clientes. Nossos planos de suporte permitem que você receba o nível adequado de atenção e expertise para fazer o melhor uso da plataforma e desenvolver o seu negócio. Com isso, você pode mitigar os riscos da sua operação digital e manter seus custos operacionais sob controle. 
 
-> ℹ️ É necessário [habilitar a autorização de suporte](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) no [License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) para que o usuário tenha acesso ao Suporte da VTEX. Esta configuração é válida apenas para contas no Brasil.
+> ℹ️ É necessário [habilitar a autorização de suporte](/pt/docs/tutorials/perfis-de-acesso) no [License Manager](/pt/docs/tutorials/recursos-do-license-manager) para que o usuário tenha acesso ao Suporte da VTEX. Esta configuração é válida apenas para contas no Brasil.
 
 ## Suporte
-Todos os clientes têm acesso ao atendimento do nosso time de especialistas do Suporte, que estão preparados para solucionar os chamados de forma eficiente. Além disso, o [Copilot](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) é uma ferramenta integrada que permite esclarecer dúvidas e resolver problemas técnicos. Você pode acessar o suporte [abrindo um ticket](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) pelo Help Center ou interagindo diretamente com o [Copilot](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) no Admin VTEX.
+Todos os clientes têm acesso ao atendimento do nosso time de especialistas do Suporte, que estão preparados para solucionar os chamados de forma eficiente. Além disso, o [Copilot](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex) é uma ferramenta integrada que permite esclarecer dúvidas e resolver problemas técnicos. Você pode acessar o suporte [abrindo um ticket](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex) pelo Help Center ou interagindo diretamente com o [Copilot](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex) no Admin VTEX.
 
 ### Sistema de Tickets
 A comunicação oficial com a equipe de Suporte é realizada por meio do sistema de tickets. Para abrir um ticket, basta clicar na opção **Suporte**, localizada no lado direito da barra superior da página principal do [Help Center](/pt/faq/planos-de-suporte--3kACEfni4m8Yxa1vnf2ebe#help-center).
@@ -34,7 +34,7 @@ O Suporte VTEX é global e oferece uma experiência padronizada de atendimento p
 
 Nossos times seguem os mesmos critérios globais de disponibilidade e níveis de serviço (SLA), assegurando consistência e previsibilidade no atendimento em todas as regiões.
 
-Para mais informações, acesse [Recursos de Suporte Global da VTEX](/pt/tutorial/recursos-de-suporte-global-da-vtex--5maoEWCrTKFAEMXRsfcklV).
+Para mais informações, acesse [Recursos de Suporte Global da VTEX](/pt/docs/tutorials/recursos-de-suporte-global-da-vtex).
 
 ### Pesquisa de satisfação
 A página *Pesquisa de Satisfação* no seu Admin VTEX disponibiliza os tickets que foram abertos por você em nome da sua loja e já foram resolvidos. Ela permite avaliar o atendimento do suporte da VTEX por meio de nossa pesquisa de satisfação, após a resolução de cada chamado.
@@ -48,7 +48,7 @@ Prezamos pela transparência quanto à integridade dos nossos sistemas. Por isso
 
 - A página de [Status](https://status.vtex.com/) exibe uma linha do tempo com o histórico recente de incidentes do sistema. Nesse histórico, detalhamos as informações de cada incidente: o que aconteceu, quais módulos foram afetados, a sequência de ações até sua resolução e um resumo do ocorrido ao final.
 
-Tomaremos todas as providências cabíveis para resolver a situação o quanto antes e garantir o cumprimento do nosso [SLA](/pt/tutorial/o-que-e-o-sla-de-operacao-da-plataforma--2cIFrsY5S8usk84OU4QOKm) previsto em contrato.
+Tomaremos todas as providências cabíveis para resolver a situação o quanto antes e garantir o cumprimento do nosso [SLA](/pt/docs/tutorials/acordo-de-nivel-de-servico-sla-de-operacao-da-vtex) previsto em contrato.
 
 ### Help Center
 Neste [portal de documentação para usuários](https://help.vtex.com), você encontra tutoriais para iniciantes, guias de referência e artigos para solução de problemas. Esta base de conhecimento contém todas as informações que você precisa para usar o painel administrativo da VTEX.

@@ -26,7 +26,7 @@ Promissória é uma promessa de pagamento que precisa de aprovação manual do 
 Permite que utilize um cartão de crédito com bandeira própria da Loja. Para configurar esta forma de pagamento, acesse a documentação [Configurar pagamentos com Cartões de Loja (bandeira própria)](/pt/tutorial/configurar-pagamentos-com-cartoes-de-loja-bandeira-propria).
 
 ## Cartões da Loja (Co-Branded)
-Permite que você utilize um cartão de crédito da Loja com uma das seguintes bandeiras: Mastercard, Visa, Amex e Diners. Para configurar esta forma de pagamento, acesse a documentação [Configurar pagamentos com Cartões de Loja (co-branded)](/pt/tutorial/configurar-pagamentos-com-cartoes-de-loja-cobranded--jrkLK41IjuquUmyKUi86Q).
+Permite que você utilize um cartão de crédito da Loja com uma das seguintes bandeiras: Mastercard, Visa, Amex e Diners. Para configurar esta forma de pagamento, acesse a documentação [Configurar pagamentos com Cartões de Loja (co-branded)](/pt/docs/tutorials/configurar-pagamentos-com-cartoes-de-loja-cobranded).
 
 Após essa configuração, será necessária a criação da [Condição de Pagamento](/pt/tutorial/condicoes-de-pagamento).
 

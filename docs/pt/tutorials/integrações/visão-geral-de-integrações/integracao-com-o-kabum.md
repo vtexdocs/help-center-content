@@ -43,7 +43,7 @@ Para integrar a sua loja VTEX com o KaBuM!, é necessário realizar as seguintes
 
 ### Definir política comercial (opcional)
 
-A [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) é o que determina o sortimento de produtos, preços e estratégia de envio da sua loja VTEX em um canal de venda. Se você deseja que as mesmas configurações da sua loja sejam utilizadas para seus produtos no KaBuM!, não é necessário [criar uma política comercial nova](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE), pois uma mesma política comercial pode ser usada para diferentes canais de venda.
+A [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) é o que determina o sortimento de produtos, preços e estratégia de envio da sua loja VTEX em um canal de venda. Se você deseja que as mesmas configurações da sua loja sejam utilizadas para seus produtos no KaBuM!, não é necessário [criar uma política comercial nova](/pt/docs/tutorials/criar-uma-politica-comercial), pois uma mesma política comercial pode ser usada para diferentes canais de venda.
 
 Caso seja do seu interesse ter configurações específicas para vender no KaBuM!, você pode [configurar uma política comercial para marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace). Não existe cobrança para a contratação de políticas comerciais adicionais para integrar sua loja VTEX com [conectores nativos ou conectores certificados](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex).
 
@@ -65,7 +65,7 @@ Aguarde a chave porque ela será utilizada na etapa [Envio de informações para
 
 ### Criar afiliado
 
-O [afiliado](/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) é o identificador de uma loja VTEX em um marketplace, sendo necessário que o seller tenha um ID do afiliado diferente para cada marketplace onde venda seus produtos. Isso significa que, para integrar com o KaBuM!, é preciso [configurar um afiliado](/pt/tutorial/como-configurar-afiliado--tutorials_187) exclusivo. Para criar um novo afiliado, siga os passos abaixo:
+O [afiliado](/pt/docs/tutorials/o-que-e-afiliado) é o identificador de uma loja VTEX em um marketplace, sendo necessário que o seller tenha um ID do afiliado diferente para cada marketplace onde venda seus produtos. Isso significa que, para integrar com o KaBuM!, é preciso [configurar um afiliado](/pt/docs/tutorials/como-configurar-afiliado) exclusivo. Para criar um novo afiliado, siga os passos abaixo:
 
 1. No Admin VTEX, no módulo *PEDIDOS*, clique em **Gerenciamento de pedidos**.
 2. Clique em **Configurações**.

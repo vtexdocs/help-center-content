@@ -18,7 +18,7 @@ order: 7
 Ao faturar um pedido, nem sempre o valor registrado na nota fiscal corresponde ao valor inicial do pedido. Isso ocorre nos seguintes cenários: 
 
 * Quando um pedido sofre alteração em seu valor, por descontos ou acréscimos.  
-* Quando há [alteração de itens de um pedido](/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).  
+* Quando há [alteração de itens de um pedido](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado).  
 * Quando há a devolução de itens de um pedido.  
 * Quando é necessário faturar itens individualmente.
 
@@ -32,25 +32,25 @@ As faturas parciais causam as seguintes ações no OMS, e demais sistemas da VTE
 * É feito o reembolso automático ao consumidor, caso haja estorno de valores.  
 * Se eventualmente o lojista identificar que um item precisa ser removido juntamente com seu valor, a alteração do pedido com o valor descontado poderá ser feita, dado que as notas fiscais anteriores só liquidam seus valores correspondentes e mantiveram o resto do valor liquidado em aberto.  
 * Como a fatura parcial só liquida o valor correspondente à fatura, é possível solicitar alterações de valores no pedido. Com a fatura parcial, a transação ainda fica em aberto.
-* Não é possível [cancelar pedidos](/pt/tutorial/como-cancelar-pedido--tutorials_186) que já tenham sido faturados parcialmente. Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
+* Não é possível [cancelar pedidos](/pt/docs/tutorials/como-cancelar-pedido) que já tenham sido faturados parcialmente. Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado).
 * Valores maiores ou iguais ao total do pedido seguem o fluxo para faturado. Qualquer nota inserida além desses valores entrará como Nota Fiscal Avulsa que não receberá atualização de tracking.  
 
-> ℹ️ A funcionalidade faturas parciais está disponível para toda a base de clientes VTEX, mas a liquidação parcial no gateway está em fase Beta. Além disso, para que as faturas parciais inseridas nos pedidos disparem liquidações parciais na transação, é necessário usar um conector que utiliza o [Payment Provider Protocol](/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). Conectores legados não possuem suporte à funcionalidade.
+> ℹ️ A funcionalidade faturas parciais está disponível para toda a base de clientes VTEX, mas a liquidação parcial no gateway está em fase Beta. Além disso, para que as faturas parciais inseridas nos pedidos disparem liquidações parciais na transação, é necessário usar um conector que utiliza o [Payment Provider Protocol](/pt/docs/tutorials/payment-provider-protocol). Conectores legados não possuem suporte à funcionalidade.
 
 ## Enviar fatura parcial
 
 Para enviar uma fatura parcial, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Pedidos > Todos os pedidos**, ou digite **Todos os pedidos** na barra de busca no topo da página.
-2. Busque o pedido pela barra de busca ou utilizando os [filtros](/pt/tutorial/como-filtrar-pedidos--tutorials_192).  
-3. Clique no pedido para acessar a página de [Detalhes do pedido](/pt/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl). 
+2. Busque o pedido pela barra de busca ou utilizando os [filtros](/pt/docs/tutorials/filtrar-todos-pedidos).  
+3. Clique no pedido para acessar a página de [Detalhes do pedido](/pt/docs/tutorials/pagina-de-detalhes-do-pedido). 
 4. Clique no botão `Faturar`.  
 5. Clique em `Enviar nota fiscal avulsa`.  
 6. No campo **Valor**, selecione a opção `Valor`.
 7. Digite o valor desejado.
 8. Clique em `Salvar nota fiscal`.
 
-> Após o faturamento, faça uma [alteração no pedido](/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
+> Após o faturamento, faça uma [alteração no pedido](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado).
 
 É possível acompanhar todos os eventos da transação, após as mudanças ocorridas ao pedido, ao clicar em [Ver detalhes da transação](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy).
 
@@ -58,7 +58,7 @@ Para enviar uma fatura parcial, siga os passos abaixo:
 
 ## Saiba mais
 
-- [Página de detalhes do pedido](/pt/tutorial/pagina-de-detalhes-do-pedido-beta--2Y75n54Cc9VizrlG1N6ZNl)   
-- [Alteração de itens de um pedido finalizado](/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190)  
-- [Alterar valor total do pedido](/pt/tutorial/alterar-valor-final-do-pedido--2asq4BmxvSD8Tw9xpfZuMo)  
-- [Faturar um pedido](/pt/tutorial/how-to-manually-invoice-an-order--7p1h852V5t54KyscpgxE2v)
+- [Página de detalhes do pedido](/pt/docs/tutorials/pagina-de-detalhes-do-pedido)   
+- [Alteração de itens de um pedido finalizado](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado)  
+- [Alterar valor total do pedido](/pt/docs/tutorials/alterar-valor-total-do-pedido)  
+- [Faturar um pedido](/pt/docs/tutorials/faturar-um-pedido-manualmente)

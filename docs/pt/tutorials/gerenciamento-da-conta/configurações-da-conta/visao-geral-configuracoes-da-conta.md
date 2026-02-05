@@ -31,11 +31,11 @@ Esta página define quais funcionalidades o usuário poderá visualizar e/ou alt
 
 ## Conta
 
-Nesta página você encontra dados básicos sobre a loja virtual, configurações de domínio e multidomínio, chaves de acesso para APIs, logotipo da empresa e informações de contato. Saiba mais sobre a [página de detalhes da conta](/pt/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq).
+Nesta página você encontra dados básicos sobre a loja virtual, configurações de domínio e multidomínio, chaves de acesso para APIs, logotipo da empresa e informações de contato. Saiba mais sobre a [página de detalhes da conta](/pt/docs/tutorials/gerenciamento-da-conta).
 
 ## Autenticação
 
-Nesta página, é possível escolher opções de login para os clientes da loja acessaram a sua conta na loja, e também  opções de login para os usuários administradores acessarem o painel administrativo. Saiba mais sobre a página no artigo [Autenticação](/pt/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs).
+Nesta página, é possível escolher opções de login para os clientes da loja acessaram a sua conta na loja, e também  opções de login para os usuários administradores acessarem o painel administrativo. Saiba mais sobre a página no artigo [Autenticação](/pt/docs/tutorials/autenticacao).
 
 ## Usuários
 

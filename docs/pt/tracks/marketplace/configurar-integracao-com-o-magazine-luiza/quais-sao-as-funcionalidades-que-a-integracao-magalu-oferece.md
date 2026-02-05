@@ -21,9 +21,9 @@ Além da integração básica, veja a seguir quais são as funcionalidades dispo
 
 | **Funcionalidade** | **Descrição**|
 |:------------------:|:------------:|
-| [Migração Direta Magazine Luiza](/pt/tutorial/migracao-direta-magazine-luiza--6QRyRfi16YMVdPesThw3AA) | Para os sellers que estão migrando a integração da sua loja com o Magazine Luiza vindo de uma plataforma terceira. Você aprenderá como realizar a migração dos seus anúncios sem perder a relevância. |
-| [Fulfillment Magalu](/pt/tutorial/fulfillment-magalu--7ckyEv4Z8HmiCRydo0a9P6)  | O Magalu Fulfillment é um serviço que disponibiliza a operação de armazenamento e entrega do Magalu para seus produtos mais vendidos no marketplace. |
-| [Controle de estoque mínimo](/pt/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D) | O controle de estoque mínimo é uma medida de segurança criada para impedir a venda de produtos com estoque menor ou igual ao definido pelo lojista na configuração da integração. |  
+| [Migração Direta Magazine Luiza](/pt/docs/tutorials/migracao-direta-magazine-luiza) | Para os sellers que estão migrando a integração da sua loja com o Magazine Luiza vindo de uma plataforma terceira. Você aprenderá como realizar a migração dos seus anúncios sem perder a relevância. |
+| [Fulfillment Magalu](/pt/docs/tutorials/fulfillment-magalu)  | O Magalu Fulfillment é um serviço que disponibiliza a operação de armazenamento e entrega do Magalu para seus produtos mais vendidos no marketplace. |
+| [Controle de estoque mínimo](/pt/docs/tutorials/controle-de-estoque-minimo-para-integracoes) | O controle de estoque mínimo é uma medida de segurança criada para impedir a venda de produtos com estoque menor ou igual ao definido pelo lojista na configuração da integração. |  
 
 Para se manter informado sobre as atuallizações de integrações, acompanhe a página de [Novidades](/pt/announcements) da VTEX.
 

@@ -19,13 +19,13 @@ Nos marketplaces para os quais a VTEX desenvolveu um [conector nativo](/pt/tutor
 
 Para consultar os erros de integração de estoque mais comuns em determinado marketplace, e saber como solucioná-los, basta clicar sobre o nome do marketplace:
 
-- [Mercado Livre](/pt/tutorial/erros-de-integracao-de-estoque-com-o-mercado-livre--3pWA3vRePuGmJ5tquY4fva)
-- [Amazon](/pt/tutorial/erros-de-integracao-de-estoque-com-a-amazon--3t05cXK2vDbKCA6rifMMWj)
-- [Via](/pt/tutorial/erros-de-integracao-de-estoque-com-a-via--2jzz4Ip0M2BDzwslEtCzPc)
-- [Magazine Luiza](/pt/tutorial/erros-de-integracao-de-estoque-com-o-magazine-luiza--2MDUBnEp0AJ7YHppzatW9L)
-- [Carrefour](/pt/tutorial/erros-de-integracao-de-estoque-com-o-carrefour--4oDrYCkrIvWETCW34I2CKF)
-- [Netshoes](/pt/tutorial/erros-de-integracao-de-estoque-com-a-netshoes--2solm6TXBNVHboVEduYN5g)
+- [Mercado Livre](/pt/docs/tutorials/erros-de-integracao-de-estoque-com-o-mercado-livre)
+- [Amazon](/pt/docs/tutorials/erros-de-integracao-de-estoque-com-a-amazon)
+- [Via](/pt/docs/tutorials/erros-de-integracao-de-estoque-com-a-via)
+- [Magazine Luiza](/pt/docs/tutorials/erros-de-integracao-de-estoque-com-o-magazine-luiza)
+- [Carrefour](/pt/docs/tutorials/erros-de-integracao-de-estoque-com-o-carrefour)
+- [Netshoes](/pt/docs/tutorials/erros-de-integracao-de-estoque-com-a-netshoes)
 
 | **SAIBA MAIS** |
 | ---------- |
-|Para mais informações sobre marketplace e oportunidades de crescimento, confira o artigo [Estratégias de marketplace na VTEX](/pt/tutorial/integrando-com-marketplace--tutorials_402).|
+|Para mais informações sobre marketplace e oportunidades de crescimento, confira o artigo [Estratégias de marketplace na VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex).|

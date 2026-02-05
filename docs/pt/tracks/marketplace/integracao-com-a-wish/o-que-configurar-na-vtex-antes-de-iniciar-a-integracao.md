@@ -30,7 +30,7 @@ Para garantir o correto funcionamento da integração, é necessário previament
 Uma vez que a política comercial está criada, será necessário associar a nova política aos produtos de seu catálogo para definir quais serão enviados à Wish. Segue um passo-a-passo de como definir o sortimento **massivamente via planilha** ([veja outros métodos aqui](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#Planilha)).
 
   1. Faça a exportação dos produtos do seu catálogo ([veja como na seção "Planilha" deste artigo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#object-object));
-  2. Adicione ao campo **"CodigoLojas"** ([mais detalhes aqui](/pt/tutorial/preencher-campos-da-planilha-de-importacao--4nYhx63Q5yokQWaMguaIgI)) o **ID** da política comercial definida no passo anterior;
+  2. Adicione ao campo **"CodigoLojas"** ([mais detalhes aqui](/pt/docs/tutorials/preencher-campos-da-planilha-de-importacao)) o **ID** da política comercial definida no passo anterior;
   3. Importe de volta a planilha no catálogo.
 
 ## Definindo logística

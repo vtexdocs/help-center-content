@@ -67,11 +67,11 @@ Siga o passo a passo para encontrar o orderForm e identificar as promoções apl
 
 ## Simulador de promoções (Beta)
 
-O Simulador de Promoções é uma ferramenta que permite visualizar as promoções criadas na plataforma VTEX que foram aplicadas no carrinho de compras e suas condições de ativação. Com múltiplas possibilidades de configuração de promoções, é importante ter visibilidade da [concorrência](/pt/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270), do acúmulo de promoções durante a compra e das causas de ativação dessas promoções.
+O Simulador de Promoções é uma ferramenta que permite visualizar as promoções criadas na plataforma VTEX que foram aplicadas no carrinho de compras e suas condições de ativação. Com múltiplas possibilidades de configuração de promoções, é importante ter visibilidade da [concorrência](/pt/docs/tutorials/como-funciona-a-concorrencia-de-promocoes), do acúmulo de promoções durante a compra e das causas de ativação dessas promoções.
 
-Para mais informações, leia o artigo [Simulador de promoções (Beta)](/pt/tutorial/simulador-de-promocoes-beta--4zc8SNqjqeIJ0ZRMhjlnvy).
+Para mais informações, leia o artigo [Simulador de promoções (Beta)](/pt/docs/tutorials/simulador-de-promocoes-beta).
 
 ## Saiba mais
 
 * [Como funcionam as promoções](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N)
-* [Como identificar promoções atribuídas a um SKU?](/pt/tutorial/como-identificar-promocoes-atribuidas-a-um-sku--frequentlyAskedQuestions_4813)
+* [Como identificar promoções atribuídas a um SKU?](/pt/docs/tutorials/como-identificar-promocoes-atribuidas-a-um-sku)

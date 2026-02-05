@@ -17,13 +17,13 @@ subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 
 > ⚠️ Esta funcionalidade está disponível apenas para lojas desenvolvidas usando [VTEX IO](https://vtex.com/br-pt/store-framework/). Antes de prosseguir, você deve [instalar e configurar o Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) na sua loja.
 
-Uma Assembly Option é um [anexo](/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) para cenários complexos, como a customização de produtos, em que é necessário gerenciar diferentes combinações de produtos, quantidade, itens adicionais, custos e estoque.
+Uma Assembly Option é um [anexo](/pt/docs/tutorials/o-que-e-um-anexo) para cenários complexos, como a customização de produtos, em que é necessário gerenciar diferentes combinações de produtos, quantidade, itens adicionais, custos e estoque.
 
 No exemplo abaixo, uma loja oferece várias Assembly Options para o produto _Custom Bell_. Essas opções são mostradas na página do produto, onde o cliente pode selecionar as opções desejadas. Dependendo das escolhas, pode haver um custo adicional.
 
 ![assembly-option-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/campos-personalizados/assembly-options_1.png)
 
-Você pode combinar [SKUs](/pt/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u) para oferecer Assembly Options, como o _Bells add-ons Roman_ ou o _Bells add-ons 1-3 lines_ no exemplo acima. Se um item estiver esgotado, ele será exibido como indisponível.
+Você pode combinar [SKUs](/pt/docs/tutorials/o-que-e-um-sku) para oferecer Assembly Options, como o _Bells add-ons Roman_ ou o _Bells add-ons 1-3 lines_ no exemplo acima. Se um item estiver esgotado, ele será exibido como indisponível.
 
 Neste artigo, explicamos como começar a utilizar Assembly Options na sua loja.
 
@@ -31,11 +31,11 @@ Neste artigo, explicamos como começar a utilizar Assembly Options na sua loja.
 
 Existem duas formas de implementar Assembly Options: utilizando o [app Assembly Options](#app-assembly-options) ou utilizando a interface nativa de [Campos personalizados](#campos-personalizados) do Catálogo.
 
-> ⚠️ Ao implementar Assembly Options em uma [conta de seller](/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w), as opções de customização do produto são exibidas para os clientes da sua loja no checkout. Para que as opções sejam exibidas na página do produto, você precisa implementar a funcionalidade em uma [conta de marketplace](/pt/tutorial/o-que-e-um-marketplace--680lLJTnmEAmekcC0MIea8).
+> ⚠️ Ao implementar Assembly Options em uma [conta de seller](/pt/docs/tutorials/o-que-e-um-seller), as opções de customização do produto são exibidas para os clientes da sua loja no checkout. Para que as opções sejam exibidas na página do produto, você precisa implementar a funcionalidade em uma [conta de marketplace](/pt/docs/tutorials/o-que-e-um-marketplace).
 
 ### App Assembly Options
 
-O app [Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p), disponível para lojas desenvolvidas usando [VTEX IO](https://vtex.com/br-pt/store-framework/), oferece uma interface para configuração e gerenciamento das opções de customização. Nesse caso, a sintaxe da Assembly Option e o anexo são gerados automaticamente. Para saber mais sobre esse aplicativo, leia a documentação [App Assembly Options](/pt/tutorial/app-assembly-options--54mWg37mojrqOgCA79iqqk).
+O app [Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p), disponível para lojas desenvolvidas usando [VTEX IO](https://vtex.com/br-pt/store-framework/), oferece uma interface para configuração e gerenciamento das opções de customização. Nesse caso, a sintaxe da Assembly Option e o anexo são gerados automaticamente. Para saber mais sobre esse aplicativo, leia a documentação [App Assembly Options](/pt/docs/tutorials/app-assembly-options).
 
 ### Campos personalizados
 
@@ -61,7 +61,7 @@ O primeiro trecho`[x-y]` se refere às regras aplicadas ao grupo, e entre cada `
 
 #### Configuração do Anexo
 
-Para adicionar uma Assembly Option, é necessário ter um anexo já cadastrado. Consulte o artigo [Cadastrar um anexo](/pt/tutorial/cadastrar-um-anexo--7zHMUpuoQE4cAskqEUWScU) para saber mais.
+Para adicionar uma Assembly Option, é necessário ter um anexo já cadastrado. Consulte o artigo [Cadastrar um anexo](/pt/docs/tutorials/cadastrar-um-anexo) para saber mais.
 
 Após criar um anexo e [associá-lo a um SKU](/pt/tutorial/cadastrar-um-anexo--7zHMUpuoQE4cAskqEUWScU#associar-o-anexo-a-um-sku), siga os passos abaixo para configurar a Assembly Option.
 

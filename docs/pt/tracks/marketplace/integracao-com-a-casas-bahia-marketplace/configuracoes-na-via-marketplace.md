@@ -44,7 +44,7 @@ Existem três fluxos diferentes para configurar sua conta na Casas Bahia Marketp
 
 A Casas Bahia Marketplace exige que você informe uma rota de API para a consulta de valores de frete, preço e prazo em tempo real, de acordo com o CEP. Você precisa cadastrar essa URL pelo [Portal do lojista da Casas Bahia Marketplace](https://plataformamarketplaceprd.b2clogin.com/plataformamarketplaceprd.onmicrosoft.com/b2c_1a_signup_signin_pas/oauth2/v2.0/authorize?client_id=07d16b2e-55be-4c02-93c3-6d859ed6ff12&scope=openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fpas.viavarejo.com.br&client-request-id=bc66a8e0-a543-478b-bd97-3b6d0373156f&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.30.0&client_info=1&code_challenge=DxEQ1KVtlEA0IVlteU9fNjmV9GdMHXB_aSIDJq-bLKk&code_challenge_method=S256&nonce=fe1482bd-316e-4973-844c-7992ef741abc&state=eyJpZCI6IjlmMDQ1ZTIyLWY2ZDgtNGY3MS1iNzU3LWQ0OWVlN2NkZWY3OSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D&_ga=2.230922463.1371461897.1701380473-1690674604.1698180870), na seção **Configurações > Integradora de frete**.
 
-No campo Endereço URL, informe a seguinte rota de API, substituindo `{AccountName}` pelo [nome da sua loja](/pt/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) na plataforma VTEX:
+No campo Endereço URL, informe a seguinte rota de API, substituindo `{AccountName}` pelo [nome da sua loja](/pt/docs/tutorials/o-que-e-account-name) na plataforma VTEX:
 
 `http://cnovaintegration.vtexcommercestable.com.br/api/viavarejointegration/pub/{{AccountName}}/freight?skuId={{skuId}},{{quantidade}}&zipcode={{cep}}`
 

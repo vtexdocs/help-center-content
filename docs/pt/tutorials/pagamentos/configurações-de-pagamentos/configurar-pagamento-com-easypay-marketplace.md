@@ -24,7 +24,7 @@ Para utilizar a afiliação easypay no seu marketplace, é necessário:
 - [Configurar Webhook easypay](#configurar-webhook-easypay)
 - [Configurar afiliação easypay](#configurar-afiliacao-easypay)
 
-> ⚠️ Caso sua loja não seja um marketplace, acesse os artigos [Configurar pagamento com easypay](/pt/tutorial/configurar-pagamento-com-easypay--3xJQqjMIn0ARDI1HcwK88J) ou [Configurar pagamento com easypay seller](/pt/tutorial/configurar-pagamento-com-easypay-seller--5mYMCM1tiRiZO6PozuUncE).
+> ⚠️ Caso sua loja não seja um marketplace, acesse os artigos [Configurar pagamento com easypay](/pt/docs/tutorials/configurar-pagamento-com-easypay) ou [Configurar pagamento com easypay seller](/pt/docs/tutorials/configurar-pagamento-com-easypay-seller).
 
 ## Instalar o app easypay
 
@@ -224,7 +224,7 @@ Para configurar a afiliação easypay, siga os passos abaixo:
 4. Preencha os campos __Chave de aplicação__ e __Token de aplicação__ com as informações da sua conta easypay.
 5. Caso deseje modificar o nome de identificação a ser exibido para o provedor easypay na tela do Admin VTEX, insira a informação no campo __Nome__ em __Informações básicas__.
 6. Em __Controle de pagamento__, selecione se deseja ativar o provedor em ambiente de teste clicando em __Ativar modo de teste__.
-7. Caso deseje utilizar o [split de pagamento](/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) em sua loja, selecione a opção __Ativar split de recebíveis e enviar recebedores de pagamento__ e indique o __Responsável pelas tarifas de processamento de pagamentos__ e __Responsável pelos estornos__ (marketplace, sellers ou marketplaces e sellers).
+7. Caso deseje utilizar o [split de pagamento](/pt/docs/tutorials/split-de-pagamento) em sua loja, selecione a opção __Ativar split de recebíveis e enviar recebedores de pagamento__ e indique o __Responsável pelas tarifas de processamento de pagamentos__ e __Responsável pelos estornos__ (marketplace, sellers ou marketplaces e sellers).
 8. Clique em `Salvar`.
 
 Para configurar os métodos de pagamento a serem processados pela easypay, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).

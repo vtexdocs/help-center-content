@@ -22,4 +22,4 @@ O grande problema é que nesse processo, 85% das pessoas interessadas no seu pro
 
 Tudo seria muito mais fácil se você criasse um **link**, onde o cliente em apenas um clique, vai direto para uma conversa com você no WhatsApp.
 
-Para criar um link personalizado, [acesse o nosso artigo sobre links](/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB).
+Para criar um link personalizado, [acesse o nosso artigo sobre links](/pt/docs/tutorials/links-suiteshare).

@@ -86,12 +86,12 @@ Para gerenciar os arquivos do seu Web Site, você pode acessar este diretório. 
 - [Vincular um account name a um web site (binding)](/pt/tutorial/vincular-um-account-name-a-um-website-binding)
 - [Lista de controles para templates](/pt/tutorial/lista-de-controles-para-templates)
 
-- [Criar e editar um template de página](/pt/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850)
+- [Criar e editar um template de página](/pt/docs/tutorials/como-criar-um-template-de-pagina)
 
 - [Associar um template a um layout](/pt/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK?&utm_source=autocomplete)
 
-- [Gerenciando placeholders](/pt/tutorial/gerenciandoplaceholders--29Y7r9JqcWIqmGipReGLQI)
+- [Gerenciando placeholders](/pt/docs/tutorials/gerenciandoplaceholders)
 
 - [Usando controles nativos da VTEX](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/7mGkGmo8l6wf4fXJCkWwPi?&utm_source=autocomplete)
 
-- [Para que serve o Controle Customizado?](/pt/tutorial/what-is-the-purpose-of-the-customized-control--frequentlyAskedQuestions_627)
+- [Para que serve o Controle Customizado?](/pt/docs/tutorials/para-que-serve-o-controle-customizado)

@@ -33,7 +33,7 @@ A seção [Layout](/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) permite que v
 
 - **Product Cluster (Collections):** criar grupos de produtos. Você pode usar esse recurso para criar páginas de Campanhas ou de Coleções de Produtos com clusters de produtos específicos.
 
-- **Sites and Channels:** configurar [o binding da sua loja](/pt/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) e outras configurações do Gerenciador de Licenças. Para saber mais, consulte o artigo [estrutura das pastas do CMS](/pt/tutorial/cms-folder-structure--2RdMaJSv4AK4EyscmQuocu).
+- **Sites and Channels:** configurar [o binding da sua loja](/pt/docs/tutorials/o-que-e-binding) e outras configurações do Gerenciador de Licenças. Para saber mais, consulte o artigo [estrutura das pastas do CMS](/pt/docs/tutorials/estrutura-de-pastas-do-cms).
 
 ## Configurações
 
@@ -127,15 +127,15 @@ Você pode conferir todos os controles nativos disponíveis e seus respectivos u
 - [O que é binding?](/pt/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete)
 
 ## Guides
-- **[Criar e editar um template de página](/pt/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850):** Aprenda a criar template de página. O template de página é um modelo criado para definir uma estrutura HTML para apresentação do conteúdo das páginas.
+- **[Criar e editar um template de página](/pt/docs/tutorials/como-criar-um-template-de-pagina):** Aprenda a criar template de página. O template de página é um modelo criado para definir uma estrutura HTML para apresentação do conteúdo das páginas.
 
 - **[Associar um template a um layout](/pt/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK?&utm_source=autocomplete):** Associe um template a um layout usando a pasta Sites e canais.
 
-- **[Gerenciando placeholders](/pt/tutorial/gerenciandoplaceholders--29Y7r9JqcWIqmGipReGLQI):** Um placeholder é um trecho de código configurável que atende a condições definidas pela loja. Insira e configure um placeholder, por exemplo, um banner na sua loja.
+- **[Gerenciando placeholders](/pt/docs/tutorials/gerenciandoplaceholders):** Um placeholder é um trecho de código configurável que atende a condições definidas pela loja. Insira e configure um placeholder, por exemplo, um banner na sua loja.
 
 - **[Usando controles nativos da VTEX](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/7mGkGmo8l6wf4fXJCkWwPi?&utm_source=autocomplete):** Controles são trechos de código que você pode utilizar nos templates do seu site para realizar ações específicas, por exemplo, um controle em uma página de produto para exibir o nome do produto na tela.
 
-- **[Para que serve o Controle Customizado?](/pt/tutorial/what-is-the-purpose-of-the-customized-control--frequentlyAskedQuestions_627):** Além dos controles nativos da VTEX, você pode criar seus próprios controles.
+- **[Para que serve o Controle Customizado?](/pt/docs/tutorials/para-que-serve-o-controle-customizado):** Além dos controles nativos da VTEX, você pode criar seus próprios controles.
 
 ## Controles
 - [Lista de controles para templates](/pt/tutorial/list-of-controls-for-templates--tutorials_563)

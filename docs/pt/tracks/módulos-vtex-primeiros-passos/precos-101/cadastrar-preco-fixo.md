@@ -70,4 +70,4 @@ Para cadastrar um preço fixo por API, use o endpoint [Create or update base or 
 
 ### Saiba mais
 
-* [Agendar preço](/pt/tutorial/agendar-preco--4vVha6TGzYkguWuMOqCcCk)
+* [Agendar preço](/pt/docs/tutorials/agendar-preco)

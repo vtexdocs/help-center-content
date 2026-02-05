@@ -32,7 +32,7 @@ ____
 `Não foi possível integrar o pedido, pois um ou mais itens não possuem estoque suficiente para o canal de vendas do Marketplace`<br>
 </br>`Não foi possível integrar o pedido, pois um ou mais itens não estão disponíveis`
 
-Há diversas causas para erros relacionados à falta ou insuficiência de estoque. Para identificar a origem do erro e corrigi-lo, confira [Erros de falta de estoque na integração de pedidos de marketplace](/pt/tutorial/erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace--s1i5OCcPFslrMkZJLDnfP).
+Há diversas causas para erros relacionados à falta ou insuficiência de estoque. Para identificar a origem do erro e corrigi-lo, confira [Erros de falta de estoque na integração de pedidos de marketplace](/pt/docs/tutorials/erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace).
 
 ____
 
@@ -40,7 +40,7 @@ ____
 
 `Não foi possível integrar o pedido, pois um ou mais itens não possui preço vigente para o canal de vendas configurado`
 
-Este erro indica inconsistência no preço do SKU, que pode estar com data de vigência expirada, ou ter algum erro de cadastro. Confira se é necessário [alterar o preço do SKU](/pt/tutorial/alteracao-de-preco-de-sku--tutorials_95) e, em seguida, reprocesse manualmente o pedido. No seu Admin VTEX, no módulo **Marketplace > Conexões > Pedidos**, clique sobre o pedido com erro, e depois clique em **Ações**. Selecione a opção **Reprocessar**.
+Este erro indica inconsistência no preço do SKU, que pode estar com data de vigência expirada, ou ter algum erro de cadastro. Confira se é necessário [alterar o preço do SKU](/pt/docs/tutorials/alteracao-de-preco-de-sku) e, em seguida, reprocesse manualmente o pedido. No seu Admin VTEX, no módulo **Marketplace > Conexões > Pedidos**, clique sobre o pedido com erro, e depois clique em **Ações**. Selecione a opção **Reprocessar**.
 
 ____
 
@@ -77,6 +77,6 @@ Na [configuração da integração com a Dafiti](/pt/tracks/configurar-integraca
 
 ### Saiba mais
 
-- [Erros de falta de estoque na integração de pedidos de marketplace](/pt/tutorial/erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace--s1i5OCcPFslrMkZJLDnfP)
-- [Erros de SLA na integração de pedidos de marketplace](/pt/tutorial/erros-de-sla-na-integracao-de-pedidos-de-marketplace--X8lSfxT44OyxkxwvnRk1X)
-- [Resolução de erros de divergência de preço em pedidos de marketplace](/pt/tutorial/resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace--6MbmPX4SKyRkcTJxVhRna8)
+- [Erros de falta de estoque na integração de pedidos de marketplace](/pt/docs/tutorials/erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace)
+- [Erros de SLA na integração de pedidos de marketplace](/pt/docs/tutorials/erros-de-sla-na-integracao-de-pedidos-de-marketplace)
+- [Resolução de erros de divergência de preço em pedidos de marketplace](/pt/docs/tutorials/resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace)

@@ -17,7 +17,7 @@ subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://supporticket.vtex.com/support).
 
-> ⚠️ O requisito para usar a funcionalidade é ter [contas franquia](/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) associadas à [conta principal](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex).
+> ⚠️ O requisito para usar a funcionalidade é ter [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia) associadas à [conta principal](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex).
 
 O módulo **Capacidade operacional (Beta)** permite que você gerencie a capacidade dos sellers de receberem e prepararem os pedidos da loja, de forma a otimizar sua malha logística. Você acompanha a distribuição de pedidos entre os sellers e pode realizar [ações](#acoes-na-pagina-de-detalhes-da-capacidade-do-seller) para melhorar a distribuição dos pedidos entre eles. 
 
@@ -37,7 +37,7 @@ Este artigo orienta como utilizar o **Capacidade operacional (Beta)** e está or
 * [Escolher entre editar capacidade operacional do seller, torná-la ilimitada ou pausar seller ou desabilitar módulo](#escolher-entre-editar-capacidade-operacional-do-seller-torna-la-ilimitada-ou-pausar-seller-ou-desabilitar-modulo)
 * [Desabilitar módulo Capacidade operacional (Beta)](#desabilitar-modulo-capacidade-operacional-beta)
 
-> ℹ️ Para ser capaz de habilitar e gerenciar o **Capacidade operacional (Beta)**, o seu [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) no Admin VTEX deve estar associado ao [recurso do License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) chamado *Logistics full access*.
+> ℹ️ Para ser capaz de habilitar e gerenciar o **Capacidade operacional (Beta)**, o seu [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) no Admin VTEX deve estar associado ao [recurso do License Manager](/pt/docs/tutorials/recursos-do-license-manager) chamado *Logistics full access*.
 
 ## Habilitar módulo Capacidade operacional (Beta)
 Para começar a usar a funcionalidade, é preciso habilitar o Capacidade operacional (Beta) pelo Admin VTEX. Quando não habilitado, o módulo não gera efeitos e não permite realizar o gerenciamento da capacidade dos sellers.
@@ -71,7 +71,7 @@ A página **Capacidade operacional (Beta)** apresenta as seguintes informações
 
 | **Coluna** | **Descrição** |
 |:---:|:---|
-| Seller | Identificação do [seller](/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w) a que se refere a capacidade operacional. |
+| Seller | Identificação do [seller](/pt/docs/tutorials/o-que-e-um-seller) a que se refere a capacidade operacional. |
 | Capacidade utilizada | Porcentagem da capacidade operacional do seller que foi utilizada no dia.**Exemplo:** um seller com capacidade para preparar 100 pedidos diários está com 80% de sua capacidade do dia utilizada. Portanto, ele só pode receber 20 novos pedidos naquele dia.Nesta coluna, aparece um ícone de alerta quando 100% da capacidade do seller é atingida e ele não pode receber novos pedidos no dia.Você pode [editar a capacidade operacional dos sellers](#editar-capacidade-operacional-do-seller) de forma individual ou massiva. |
 | Status | Status da capacidade operacional do seller, que pode ser de dois tipos:<ul><li><i class="fas fa-toggle-on" aria-hidden="true"></i> **Ativo:** o toggle está acionado e o seller pode receber novos pedidos, seja por estar dentro do limite da capacidade que foi configurado, seja por ser um seller de capacidade ilimitada.</li><li><i class="fas fa-toggle-off"></i> **Pausado:** o toggle está desativado e o seller não pode receber novos pedidos.</li>Para escolher quando pausar um seller, veja a seção [Escolher entre editar capacidade operacional do seller, torná-la ilimitada ou pausar seller](#escolher-entre-editar-capacidade-operacional-do-seller-torna-la-ilimitada-ou-pausar-seller-ou-desabilitar-modulo). |
 
@@ -122,7 +122,7 @@ A capacidade operacional do seller pode ser contabilizada em número de pedidos 
     * **Quantidade de itens:** a capacidade operacional do seller será contada por número de itens do pedido.
 5. Clique em `Salvar alterações`.
 
-> ⚠️ A plataforma tem algumas restrições com relação a [sellers abrangentes](/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI), saiba mais na seção [Comportamento de sellers abrangentes](/pt/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#capacidade-operacional-de-seller-abrangente).
+> ⚠️ A plataforma tem algumas restrições com relação a [sellers abrangentes](/pt/docs/tutorials/seller-abrangente), saiba mais na seção [Comportamento de sellers abrangentes](/pt/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#capacidade-operacional-de-seller-abrangente).
 
 ## Ações na página de detalhes da capacidade do seller
 
@@ -141,7 +141,7 @@ No topo direito da página de detalhes do seller, existe um toggle para ativar o
 * **Ativar:** habilite o toggle para `Ativo` e clique em `Ativar`.
 * **Desativar:** desabilite o toggle para `Pausado` e clique em `Pausar`.
 
-> ⚠️ A plataforma tem algumas restrições com relação a [sellers abrangentes](/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI), saiba mais na seção [Comportamento de sellers abrangentes](#comportamento-de-sellers-abrangentes).
+> ⚠️ A plataforma tem algumas restrições com relação a [sellers abrangentes](/pt/docs/tutorials/seller-abrangente), saiba mais na seção [Comportamento de sellers abrangentes](#comportamento-de-sellers-abrangentes).
 
 ### Acompanhar capacidade utilizada
 
@@ -209,7 +209,7 @@ Para editar o endereço ou o nome de identificação do seller na **Capacidade o
 
 ## Comportamento de sellers abrangentes
 
-No site da sua loja, quando o cliente não informa sua localização, ele visualiza os produtos da sua loja (seller 1) e dos [sellers abrangentes](/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI).
+No site da sua loja, quando o cliente não informa sua localização, ele visualiza os produtos da sua loja (seller 1) e dos [sellers abrangentes](/pt/docs/tutorials/seller-abrangente).
 
 Devido a uma limitação da plataforma, quando você desativa a capacidade operacional de um seller abrangente, os produtos desse seller continuam aparecendo como disponíveis na vitrine, mas o cliente não consegue comprá-los. Desta forma, recomendamos que a capacidade operacional de sellers abrangentes seja sempre mantida ativada.
 

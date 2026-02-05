@@ -25,7 +25,7 @@ Há diferentes formas de cadastrar SKUs:
 
 ## Admin VTEX
 
-Para saber como cadastrar novos SKUs ao seu catálogo pelo Admin VTEX, confira o artigo [Adicionar ou editar SKU](/pt/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN).
+Para saber como cadastrar novos SKUs ao seu catálogo pelo Admin VTEX, confira o artigo [Adicionar ou editar SKU](/pt/docs/tutorials/adicionar-ou-editar-sku).
 
 ## Planilha
 
@@ -39,7 +39,7 @@ Para fazer isso, siga o passo a passo abaixo:
 2. Clique em **Importação e exportação**.
 3. Na aba __Todos os produtos__, clique em **Exportação / Importação**.
 4. Em __Exportar__, na caixa verde, adicione o email desejado para o envio da planilha. Em seguida, clique em `Exportar para Excel`.
-5. Ao receber a planilha, preencha as linhas com os dados do SKU. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [preencher campos da planilha de importação de produtos e SKUs](/pt/tutorial/preencher-campos-da-planilha-de-importacao--4nYhx63Q5yokQWaMguaIgI).
+5. Ao receber a planilha, preencha as linhas com os dados do SKU. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [preencher campos da planilha de importação de produtos e SKUs](/pt/docs/tutorials/preencher-campos-da-planilha-de-importacao).
 
 ### Importar planilha
 
@@ -60,7 +60,7 @@ Após o cadastro dos SKUs é necessário adicionar as imagens para torná-los at
 2. Clique em **Importação e exportação**.
 3. Clique na aba **Importar imagens**.
 4. Clique na palavra **aqui** para baixar a planilha modelo. A planilha estará no formato que o sistema aceita, evitando problemas na importação.
-5. Ao receber a planilha por email, preencha os campos. Para entender melhor o significado de cada campo, acesse nosso artigo [sobre importar imagens por planilha](/pt/tutorial/importando-imagens-por-planilha--tutorials_262).
+5. Ao receber a planilha por email, preencha os campos. Para entender melhor o significado de cada campo, acesse nosso artigo [sobre importar imagens por planilha](/pt/docs/tutorials/importando-imagens-por-planilha).
 6. Após preencher a planilha, clique em **Selecionar arquivo**.
 7. Selecione o arquivo desejado e clique em **Abrir**.
 8. Clique em **Importar**.

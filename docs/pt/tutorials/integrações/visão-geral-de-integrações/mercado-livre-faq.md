@@ -66,7 +66,7 @@ Ou você pode utilizar a rota [POST Create Specification](https://developers.vte
 
 #### Criar template na Central de Mensagens (opcional)
 
-A [Central de Mensagens](/pt/tutorial/conhecendo-o-message-center--tutorials_84) é um módulo responsável por configurar e enviar e-mails na VTEX através de um template de mensagens. A vantagem de criar um template para descrição dos seus produtos, é que se sua loja anunciar muitos produtos no Mercado Livre, eles terão uma descrição padrão e personalizada para todos eles.
+A [Central de Mensagens](/pt/docs/tutorials/conhecendo-o-message-center) é um módulo responsável por configurar e enviar e-mails na VTEX através de um template de mensagens. A vantagem de criar um template para descrição dos seus produtos, é que se sua loja anunciar muitos produtos no Mercado Livre, eles terão uma descrição padrão e personalizada para todos eles.
 
 Antes de criar o template, é necessário [preencher o campo Descrição do anúncio](#preencher-o-campo-descrição-do-produto). Ele será importante para criar uma descrição exclusiva para o seu produto. Depois de preencher o campo, acesse o Admin VTEX em *CLIENTE > Central de mensagens > Templates* e busque pelo card **Bridge - Integração Mercado Livre**.
 

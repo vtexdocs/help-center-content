@@ -33,9 +33,9 @@ Para disponibilizar um produto para pré-venda, siga os passos abaixo:
 2. Clique em `+ Adicionar produto`.
 3. Na seção **Frente de loja**, no campo **Data de lançamento**, selecione a data em que lançará o produto. 
 
-  > ℹ️ Este campo é utilizado para auxiliar na ordenação do resultado de busca do site. Por meio da querystring `O=OrderByReleaseDateDESC`, é possível puxar esse valor e mostrar a ordem de exibição por data de lançamento. Além disso, o valor deste campo influencia a criação de [coleções automáticas](/pt/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye) e determina a data de [indexação](/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) do produto.
+  > ℹ️ Este campo é utilizado para auxiliar na ordenação do resultado de busca do site. Por meio da querystring `O=OrderByReleaseDateDESC`, é possível puxar esse valor e mostrar a ordem de exibição por data de lançamento. Além disso, o valor deste campo influencia a criação de [coleções automáticas](/pt/docs/tutorials/cadastrar-colecoes-beta) e determina a data de [indexação](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao) do produto.
 
-4. Preencha os demais campos para a criação do produto. Saiba mais em [Adicionar ou editar produto](/pt/tutorial/adicionar-ou-editar-produto--29IkdEu6GofCFlltsZh2H8).
+4. Preencha os demais campos para a criação do produto. Saiba mais em [Adicionar ou editar produto](/pt/docs/tutorials/adicionar-ou-editar-produto).
 5. Clique em `Salvar`.
 6. Clique na aba `SKUs`.
 7. Clique no sinal `+` **> Adicionar novo SKU**.
@@ -43,14 +43,14 @@ Para disponibilizar um produto para pré-venda, siga os passos abaixo:
 
   > ℹ️ Para realizar essa configuração, é preciso considerar tanto a data de lançamento do item quanto o cálculo do envio do item para os clientes: `tempo final de entrega = SLA de entrega + prazo de recebimento do lote de abastecimento`.
 
-9. Preencha os demais campos para a criação do SKU. Saiba mais em [Adicionar ou editar SKU](/pt/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN).
+9. Preencha os demais campos para a criação do SKU. Saiba mais em [Adicionar ou editar SKU](/pt/docs/tutorials/adicionar-ou-editar-sku).
 10. Clique em `Salvar`.
 
 > ⚠️ O pedido do item em pré-venda só deverá ser faturado a partir da data de lançamento, isto é, quando houver sua disponibilidade para vendas.
 
 ## Agendar preços
 
-Para agendar os preços fixos da sua loja para a pré-venda de um produto, siga os passos descritos em [Agendar preços](/pt/tutorial/agendar-preco--4vVha6TGzYkguWuMOqCcCk). 
+Para agendar os preços fixos da sua loja para a pré-venda de um produto, siga os passos descritos em [Agendar preços](/pt/docs/tutorials/agendar-preco). 
 
 ## Agendar conteúdo
 

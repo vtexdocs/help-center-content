@@ -39,4 +39,4 @@ A nova página *Pesquisa de Satisfação* já está instalada no seu Admin VTEX 
 
 Nós também enviamos um convite por email para que você acesse a página e faça a sua avaliação.  
 
-Saiba mais sobre [Como funciona o suporte da VTEX](/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) e como [Abrir chamados para o suporte VTEX](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+Saiba mais sobre [Como funciona o suporte da VTEX](/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) e como [Abrir chamados para o suporte VTEX](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex).

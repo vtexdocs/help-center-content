@@ -87,13 +87,13 @@ Confira mais detalhes sobre o Gerenciamento de pedidos em nosso [FAQ sobre o mó
 
 ### Pedir novamente
 
-Todas as lojas VTEX contam com o [My account](/pt/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh). 
+Todas as lojas VTEX contam com o [My account](/pt/docs/tutorials/como-funciona-a-minha-conta). 
 
 Essa ferramenta permite que o cliente acompanhe o status do seu pedido no fluxo do pós-venda, bem como faça algumas operações. Uma delas é a de “Pedir novamente”, na qual é possível repetir um pedido feito previamente.  
 
 ![Pedir novamente reorder](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/guias-práticos/facilitar-a-operacao-da-loja-b2b_1.png)
 
-Para saber mais detalhes sobre o My Account, confira o tutorial sobre [como configurar esta funcionalidade](/pt/tutorial/configurar-o-my-account--23Ayv5D6b86UBnYfoXqZL1).
+Para saber mais detalhes sobre o My Account, confira o tutorial sobre [como configurar esta funcionalidade](/pt/docs/tutorials/configurar-o-my-account).
 
 ### Substituição de pedidos
 

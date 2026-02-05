@@ -19,7 +19,7 @@ A **Substituição de pedidos** permite aos clientes da sua loja alterar dados d
 
 O objetivo é ajudá-los a corrigir erros sem a necessidade de realizar um novo pedido manualmente ou de entrar em contato com seu suporte, o que facilita a operação da sua loja e reduz custos.
 
-> ⚠️ Não é possível [cancelar pedidos](/pt/tutorial/como-cancelar-pedido--tutorials_186) que já tenham sido [faturados parcialmente](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
+> ⚠️ Não é possível [cancelar pedidos](/pt/docs/tutorials/como-cancelar-pedido) que já tenham sido [faturados parcialmente](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado).
 
 ## Como ativar a Substituição de pedidos
 
@@ -31,5 +31,5 @@ A funcionalidade está disponível para todos as lojas. Para ativá-la, siga os 
 
 Em 15 minutos, após a atualização automática do cache, a funcionalidade estará disponível.
 
-> ℹ️ Para mais informações sobre a funcionalidade e casos que não permitem substituição, veja o artigo [Substituição de pedidos](/pt/tutorial/substituicao-de-pedidos--2IK9mwQjBKseQmE8K8saO8).
+> ℹ️ Para mais informações sobre a funcionalidade e casos que não permitem substituição, veja o artigo [Substituição de pedidos](/pt/docs/tutorials/substituicao-de-pedidos).
 

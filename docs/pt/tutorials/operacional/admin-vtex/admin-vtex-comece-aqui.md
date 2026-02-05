@@ -47,7 +47,7 @@ Confira nossos artigos sobre a visão geral de cada menu do seu Admin VTEX, para
 - [Envio](/pt/v4/docs/visao-geral-envio--1hw1otLpTkIjQh4WiBTFYv)
 - [Marketplace](/pt/v4/docs/visao-geral-marketplace--1MwABSIGjYSrFPUXhnUXiV)
 - [Apps](/pt/v4/docs/apps-overview--Abz99oney4PUmrf7QcHc9)
-- [Configurações da Loja](/pt/tutorial/visao-geral-configuracoes-da-loja--6VtlMoid6iM9dP14X1CopT)
+- [Configurações da Loja](/pt/docs/tutorials/visao-geral-configuracoes-da-loja)
 - [Configurações da conta](/pt/v4/docs/account-settings-overview--159BmXTQhaP44wLxtPff6r)
 - [Configurações de usuário](/pt/v4/docs/visao-geral-configuracoes-usuario--1qYAvOTZBVYMosJ7tQm3Ry)
 - [Faturas](/pt/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC)
@@ -99,7 +99,7 @@ Tipo de feedback (selecione um ou mais campos):
 
 Seu avatar de perfil, reúne todas as configurações relacionadas ao seu usuário e à sua conta. Através do avatar, você pode acessar as [Configurações do usuário](/pt/v4/docs/user-settings-overview--1qYAvOTZBVYMosJ7tQm3Ry), [Configurações da conta](/pt/v4/docs/account-settings-overview--159BmXTQhaP44wLxtPff6r), e [Faturas](/pt/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC), alterar o idioma do seu Admin e encerrar a sessão. 
 
-Separamos as configurações do seu perfil das configurações que afetam a sua loja em si. Dessa forma, você tem mais controle e visibilidade sobre as ações que afetam o seu negócio e as que afetam o perfil de um usuário, como seus [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+Separamos as configurações do seu perfil das configurações que afetam a sua loja em si. Dessa forma, você tem mais controle e visibilidade sobre as ações que afetam o seu negócio e as que afetam o perfil de um usuário, como seus [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso).
 
 O Admin VTEX traz uma experiência localizada, incluindo as seguintes opções de idioma:
 

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
-Marketplaces precisam revisar e aprovar anúncios enviados por sellers para que os produtos sejam adicionados ao catálogo. No Admin VTEX esse [processo de catalogação](/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396) é feito por meio da página SKUs Recebidos. 
+Marketplaces precisam revisar e aprovar anúncios enviados por sellers para que os produtos sejam adicionados ao catálogo. No Admin VTEX esse [processo de catalogação](/pt/docs/tutorials/sugerindo-e-aprovando-skus) é feito por meio da página SKUs Recebidos. 
 
 É importante para a operação do marketplace que existam critérios de qualidade para que os anúncios que chegam até a página já estejam de acordo com os requisitos que importam na curadoria de seu catálogo. 
 
@@ -49,7 +49,7 @@ A funcionalidade permite ao operador de marketplace realizar uma série de açõ
 
 ![PT Default requirements](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/gerenciamento-de-anúncios/filtros-de-qualidade-dos-anuncios_2.png)
 
-A página já vem por padrão com alguns requisitos pré-cadastrados que serão aplicados a todas as categorias, sellers e marcas, chamados de "Default requirements", ou Regras padrão. Alguns desses critérios são configurados nativamente no [VTEX Matcher](/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424), a ferramenta aplicada aos marketplaces VTEX para auxiliar no processo de catalogação de anúncios recebidos. 
+A página já vem por padrão com alguns requisitos pré-cadastrados que serão aplicados a todas as categorias, sellers e marcas, chamados de "Default requirements", ou Regras padrão. Alguns desses critérios são configurados nativamente no [VTEX Matcher](/pt/docs/tutorials/entendendo-a-pontuacao-do-vtex-matcher), a ferramenta aplicada aos marketplaces VTEX para auxiliar no processo de catalogação de anúncios recebidos. 
 
 Não é possível desativar as "Default requirements", e estão à mostra na página para dar visibilidade a quais regras já se aplicam a todos os anúncios recebidos. Para visualizar as regras já ativas por padrão, na página _Filtros de qualidade dos anúncios_, selecione o grupo de requisitos `Default requirements` e visualize as opções:
 
@@ -222,7 +222,7 @@ Para que os grupos de requisitos sejam aplicados nos SKUs Recebidos, é necessá
 
 #### Marca 
 
-Esse campo é preenchido pelo [VTEX Matcher](/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424) quando a marca enviada pelo seller já foi mapeada anteriormente. É uma regra válida para que sellers só enviem marcas que já foram previamente mapeadas, ou bloquear alguma marca específica que foi mapeada no passado.
+Esse campo é preenchido pelo [VTEX Matcher](/pt/docs/tutorials/entendendo-a-pontuacao-do-vtex-matcher) quando a marca enviada pelo seller já foi mapeada anteriormente. É uma regra válida para que sellers só enviem marcas que já foram previamente mapeadas, ou bloquear alguma marca específica que foi mapeada no passado.
 
 * **Está mapeado:** define a obrigatoriedade da marca enviada pelo seller estar mapeada no VTEX Matcher.
 * **É:** define a obrigatoriedade do campo marca do anúncio corresponder a um valor específico.
@@ -289,7 +289,7 @@ Para excluir grupos de requisitos, **selecione o grupo desejado > clique no menu
 
 ## Catalogar anúncios com requisitos
 
-Uma vez que os grupos de requisitos foram criados e ativados, eles passam a valer seguindo as regras configuradas. Isso significa que todos os anúncios enviados por sellers serão filtrados de acordo com os critérios definidos para sellers, marcas ou categorias cheguem até a página SKU Recebidos, onde o [processo de catalogação](/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396) acontece. 
+Uma vez que os grupos de requisitos foram criados e ativados, eles passam a valer seguindo as regras configuradas. Isso significa que todos os anúncios enviados por sellers serão filtrados de acordo com os critérios definidos para sellers, marcas ou categorias cheguem até a página SKU Recebidos, onde o [processo de catalogação](/pt/docs/tutorials/sugerindo-e-aprovando-skus) acontece. 
 
 A tabela a seguir descreve o que cada tipo de requisito aciona para anúncios que se encaixam ou não nos critérios estabelecidos.
 

@@ -15,11 +15,11 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'O Audit está disponibilizando novos eventos relacionados aos módulos VTEX ID, License manager e Pricing.'
 ---
 
-O [Audit](/pt/tutorial/searching-for-events-on-audit--5RXf9WJ5YLFBcS8q8KcxTA) é um módulo que registra eventos que acontecem na sua loja VTEX, possibilitando auditoria futura. A VTEX realizou uma melhoria no Audit, que agora registra uma gama maior de eventos.
+O [Audit](/pt/docs/tutorials/audit) é um módulo que registra eventos que acontecem na sua loja VTEX, possibilitando auditoria futura. A VTEX realizou uma melhoria no Audit, que agora registra uma gama maior de eventos.
 
 ## O que mudou?
 
-A VTEX adicionou os seguintes eventos à [lista de eventos registrados pelo Audit](/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ):
+A VTEX adicionou os seguintes eventos à [lista de eventos registrados pelo Audit](/pt/docs/tutorials/eventos-disponiveis-no-audit):
 
 ### VTEX ID
 
@@ -228,7 +228,7 @@ A VTEX adicionou os seguintes eventos à [lista de eventos registrados pelo Audi
   </tr>
 </table>
 
-> ℹ️ Confira a [lista completa de eventos disponíveis no Audit](/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
+> ℹ️ Confira a [lista completa de eventos disponíveis no Audit](/pt/docs/tutorials/eventos-disponiveis-no-audit).
 
 ## O que precisa ser feito?
 

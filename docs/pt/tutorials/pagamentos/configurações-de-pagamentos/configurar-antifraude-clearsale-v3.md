@@ -74,7 +74,7 @@ A configuração do antifraude ClearSale v3 exige a criação de uma tag no Goog
 
 O valor definido no campo **Custom SLA em minutos** da configuração do antifraude é um dos três possíveis para  o campo `customSLA` da transação. Caso o carrinho esteja vazio, o valor de `customSLA` será o valor de `shippingEstimate` do carrinho da transação. Se o carrinho possuir pelo menos um item, o valor de `customSLA` será o menor entre o valor de `deliverySlaInMinutes` do primeiro item do carrinho e o valor de **Custom SLA em minutos** usado na configuração de antifraude.
 
-Os valores de `shippingEstimate` e `deliverySlaInMinutes` correspondem ao tempo de entrega e são gerados no Checkout a partir de informações do módulo de Logística. O cálculo do tempo de entrega é explicado no artigo [Como é calculado o prazo de entrega do pedido](/pt/tutorial/como-e-calculado-o-prazo-de-entrega-do-pedido--1TOuKCIjGQmqOqQkEqCg82).
+Os valores de `shippingEstimate` e `deliverySlaInMinutes` correspondem ao tempo de entrega e são gerados no Checkout a partir de informações do módulo de Logística. O cálculo do tempo de entrega é explicado no artigo [Como é calculado o prazo de entrega do pedido](/pt/docs/tutorials/como-e-calculado-o-prazo-de-entrega-do-pedido).
 
 O valor de `shippingEstimate` é obtido a partir de um cálculo feito pelo módulo de Logística. O valor é acompanhado de uma letra, que representa a unidade de tempo utilizada. As letras de unidade de tempo são:
 

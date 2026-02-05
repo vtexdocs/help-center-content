@@ -16,7 +16,7 @@ subcategoryId: 31ICVopiWZfSTdr9jZMShb
 order: 1
 ---
 
-**Faturas** é a página onde você administra todos os aspectos financeiros da sua conta VTEX. Ela só está disponível para usuários com um [perfil de acesso Financeiro](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc). Para visualizar, editar ou executar qualquer ação nessa página, solicite a permissão do proprietário da sua loja.
+**Faturas** é a página onde você administra todos os aspectos financeiros da sua conta VTEX. Ela só está disponível para usuários com um [perfil de acesso Financeiro](/pt/docs/tutorials/perfis-de-acesso). Para visualizar, editar ou executar qualquer ação nessa página, solicite a permissão do proprietário da sua loja.
 
 Para acessar essa página, clique no seu **avatar**, que pode ser identificado pela inicial do seu email, e clique no botão **Faturas**. Selecione a aba que você deseja visitar, como **Contratos, Títulos, Dados de registro e Contatos de faturamento**.
 

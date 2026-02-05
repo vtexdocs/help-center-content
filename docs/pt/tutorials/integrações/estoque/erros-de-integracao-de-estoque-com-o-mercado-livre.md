@@ -27,7 +27,7 @@ Seguem abaixo as mensagens mais comuns de erros de integração de estoque com o
 
 `Mensagem de erro não mapeada pela integração. Entre em contato com a VTEX informando o ocorrido para que o mapeamento seja realizado. Mensagem no Mercado Livre: Validation error. Is not possible to activate an item without stock.`
 
-A causa mais comum para o erro é que não há estoque para o item, e não é possível no Mercado Livre ativar um item sem estoque. Portanto, é necessário [atualizar a quantidade de SKUs em estoque](/pt/tutorial/como-atualizar-estoque--2MDwYV1COA6YuoiY22AyGo) e reprocessar o erro. Se após o reprocessamento manual o erro persistir, outra causa possível é que o SKU esteja inativo. Verifique o _status_ do SKU no seu Admin VTEX, em **Catálogo > Produtos e SKU**. Uma terceira possibilidade é que o item não esteja marcado corretamente na coleção ou política comercial definidos para o Mercado Livre. Se necessário, consulte o artigo [Associação de SKU à Política Comercial](/pt/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb).
+A causa mais comum para o erro é que não há estoque para o item, e não é possível no Mercado Livre ativar um item sem estoque. Portanto, é necessário [atualizar a quantidade de SKUs em estoque](/pt/docs/tutorials/atualizacao-da-quantidade-de-itens-em-estoque) e reprocessar o erro. Se após o reprocessamento manual o erro persistir, outra causa possível é que o SKU esteja inativo. Verifique o _status_ do SKU no seu Admin VTEX, em **Catálogo > Produtos e SKU**. Uma terceira possibilidade é que o item não esteja marcado corretamente na coleção ou política comercial definidos para o Mercado Livre. Se necessário, consulte o artigo [Associação de SKU à Política Comercial](/pt/docs/tutorials/associacao-de-sku-a-politica-comercial).
 
 ____
 
@@ -108,5 +108,5 @@ Um usuário pode ser desativado no Mercado Livre por diversas razões, desde o p
 ### Saiba mais
 
 - [Integração com o Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)
-- [Controle de estoque mínimo para integrações](/pt/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D)
-- [Configurar o Alerta de Estoque Crítico](/pt/tutorial/configurar-o-alerta-de-estoque-critico--6FD0GHeQPCsKIMgkQ88SGu)
+- [Controle de estoque mínimo para integrações](/pt/docs/tutorials/controle-de-estoque-minimo-para-integracoes)
+- [Configurar o Alerta de Estoque Crítico](/pt/docs/tutorials/configurar-o-alerta-de-estoque-critico)

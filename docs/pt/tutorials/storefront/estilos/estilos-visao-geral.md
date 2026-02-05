@@ -33,4 +33,4 @@ Para acessar a seção Estilos, entre no Admin VTEX, acesse **Storefront > Estil
 | New (Novo)       | Crie um novo modelo de estilo para o site da sua loja.|
 
 ## Próximos passos
-- [Personalizando a tipografia da sua loja](/pt/tutorial/personalizar-la-tipografia-de-tu-tienda--2R0ByIjvJtuz99RK3OL5WP)
+- [Personalizando a tipografia da sua loja](/pt/docs/tutorials/personalizando-a-tipografia-da-sua-loja)

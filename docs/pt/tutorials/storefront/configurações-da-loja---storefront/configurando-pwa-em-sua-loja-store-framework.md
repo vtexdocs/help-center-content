@@ -18,7 +18,7 @@ subcategoryId: 7ogirQ8NClawO2X6xdgCKc
 Lojas desenvolvidas com o VTEX IO Store Framework possuem nativamente um *Progressive Web App* (PWA), que é um tipo de aplicativo web que oferece uma experiência de usuário semelhante a de um aplicativo nativo, mas executada diretamente em um navegador da web.
 
 <div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Para lojas CMS Portal (Legado), consulte o guia [Como transformar o site da minha loja em um PWA](/pt/tutorial/how-to-turn-my-store-website-into-a-pwa--3i8VmYeToAUGKgo2kKK6I2).
+Para lojas CMS Portal (Legado), consulte o guia [Como transformar o site da minha loja em um PWA](/pt/docs/tutorials/como-transformar-o-site-da-minha-loja-em-um-pwa).
 </div>
 
 Para configurar um PWA em sua loja, acesse Configurações da Loja > Storefront > Loja no Admin VTEX, e siga as etapas abaixo:
@@ -68,6 +68,6 @@ Para configurar um PWA em sua loja, acesse Configurações da Loja > Storefront 
 
 Nosso service worker suporta os push nativos para instalar o app na primeira visita, no primeiro item adicionado ao carrinho ou na primeira compra. Você pode personalizar as notificações no PWA de sua loja usando um service worker próprio que funcionará junto ao nosso.
 
-Para saber como criar um Service Worker próprio, confira a documentação [Como instalar um Service Worker](/pt/tutorial/como-instalar-um-service-worker--2H057iW0mQGguKAciwAuMe).
+Para saber como criar um Service Worker próprio, confira a documentação [Como instalar um Service Worker](/pt/docs/tutorials/como-instalar-um-service-worker).
 
 Para aprender como aproveitar o Service Worker builder para agrupar vários services workers em sua loja, confira a documentação [Using several service workers in your store](https://developers.vtex.com/docs/guides/vtex-io-documentation-using-several-service-workers-in-your-store).

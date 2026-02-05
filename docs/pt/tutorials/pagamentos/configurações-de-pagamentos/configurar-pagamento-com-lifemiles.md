@@ -30,7 +30,7 @@ Para configurar Lifemiles, siga os passos abaixo:
 
 ## Configurar condição de pagamento Promissória
 
-Caso ainda não tenha configurado a promissória como método de pagamento em outros conectores de sua loja, acesse [Configurar pagamentos com Promissória](/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ).
+Caso ainda não tenha configurado a promissória como método de pagamento em outros conectores de sua loja, acesse [Configurar pagamentos com Promissória](/pt/docs/tutorials/configurar-pagamentos-com-promissoria).
 
 Depois, siga os passos abaixo:
 

@@ -21,7 +21,7 @@ O cadastro da garantia é feito através de uma [especificação de produto](/pt
 
 Para cadastrar a garantia, siga os passos a seguir:
 
-1. [Criar um grupo de categoria](/pt/tutorial/criando-grupo-de-categoria--tutorials_246) na categoria principal. 
+1. [Criar um grupo de categoria](/pt/docs/tutorials/criando-grupo-de-especificacoes-em-uma-categoria) na categoria principal. 
     - Dessa forma, suas subcategorias poderão herdá-lo. Orientamos que preencha com o nome `Via Marketplace`.
 
 2. [Cadastrar uma especificação de produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin). 

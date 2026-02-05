@@ -33,4 +33,4 @@ A configuração do tempo máximo para a captura é feita no momento de cadastra
 
 No Admin, o lojista deve preencher o formulário de cadastro que agora conta com dois novos campos: “Captura antecipada” e “Alterar tempo máximo de captura”. 
 
-Para saber mais detalhes, confira o[ tutorial sobre como preencher os campos de cadastro de afiliação e ativar a captura automática](/pt/tutorial/configurar-tempo-maximo-para-captura-automatica--7dwcaxrcgcFJUk7umqPBw2). 
+Para saber mais detalhes, confira o[ tutorial sobre como preencher os campos de cadastro de afiliação e ativar a captura automática](/pt/docs/tutorials/configurar-tempo-maximo-para-liquidacao-automatica). 

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
-Este artigo explica como cadastrar um usuário com o [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) de televendas. Para mais informações sobre perfis de acessos e como configurá-los, veja o artigo [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+Este artigo explica como cadastrar um usuário com o [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) de televendas. Para mais informações sobre perfis de acessos e como configurá-los, veja o artigo [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso).
 
 ## Os perfis de televendas
 

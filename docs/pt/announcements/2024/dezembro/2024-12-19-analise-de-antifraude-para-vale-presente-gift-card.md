@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Habilite a análise de antifraude em transações com vale-presente em sua loja'
 ---
 
-Visando aprimorar as operações de pagamento realizadas na plataforma, a VTEX implementou a funcionalidade de análise de fraude em compras realizadas por meio de [vale-presente](/pt/tutorial/gift-card--tutorials_995) (gift card).
+Visando aprimorar as operações de pagamento realizadas na plataforma, a VTEX implementou a funcionalidade de análise de fraude em compras realizadas por meio de [vale-presente](/pt/docs/tutorials/gift-card) (gift card).
 
 ## O que mudou?
 
@@ -25,7 +25,7 @@ A partir de agora, além de realizar análises em transações de pagamento por 
 
 A opção de análise de antifraude para vale-presente já está disponível em todas as contas VTEX. Para habilitá-la em sua loja, é necessário realizar as seguintes ações:
 
-1. Associar o provedor de antifraude ao meio de pagamento vale-presente no Admin VTEX. Saiba mais em [Configurar o antifraude](/pt/tutorial/como-configurar-antifraude--tutorials_446).
+1. Associar o provedor de antifraude ao meio de pagamento vale-presente no Admin VTEX. Saiba mais em [Configurar o antifraude](/pt/docs/tutorials/como-configurar-antifraude).
 2. Entrar em contato com o provedor de antifraude com o qual possui contrato para verificar se este serviço de análise de antifraude já está disponível. Saiba mais sobre as configurações necessárias para o provedor de antifraude em [New feature available for anti-fraud providers: Gift card transaction analysis](https://developers.vtex.com/updates/release-notes/2024-12-19-new-feature-available-for-anti-fraud-providers-gift-card-transaction-analysis).
 
 > ℹ️ As informações analisadas pelo provedor de antifraude em cada transação podem ser verificadas na página de [Transações](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy) do Admin VTEX.

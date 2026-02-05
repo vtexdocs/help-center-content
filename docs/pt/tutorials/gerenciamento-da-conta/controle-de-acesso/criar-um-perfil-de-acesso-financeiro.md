@@ -17,7 +17,7 @@ subcategoryId: 1HSqkejwuYcQSMC400uY84
 
 Para [acessar as faturas](/pt/tutorial/como-acessar-o-valor-da-receita-aprovada--tutorials_4322#relatorio-financeiro) e outras informações financeiras da sua conta, é preciso associar um perfil de acesso financeiro a todos usuários autorizados a visualizar essas informações.
 
-Existem dois [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) financeiro predefinidos: [Finance](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance) e [Finance Full Access](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance-full-access). Utilizaremos o Finance como referência para este artigo, mas os passos abaixo são os mesmos para ambos perfis.
+Existem dois [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) financeiro predefinidos: [Finance](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance) e [Finance Full Access](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance-full-access). Utilizaremos o Finance como referência para este artigo, mas os passos abaixo são os mesmos para ambos perfis.
 
 ## Como criar um perfil de acesso financeiro
 

@@ -30,5 +30,5 @@ Para agilizar a rotina dos sellers e centralizar a gestão de documentos fiscais
 
 ## O que precisa fazer?
 
-A funcionalidade está disponível para todas as contas VTEX integradas à Amazon. Para utilizar, acesse o tutorial [Notas Fiscais de pedidos FBA](/pt/tutorial/notas-fiscais-de-pedidos-fba--5ok71vWueJ22JhXo1egx2y) e acompanhe as instruções.
+A funcionalidade está disponível para todas as contas VTEX integradas à Amazon. Para utilizar, acesse o tutorial [Notas Fiscais de pedidos FBA](/pt/docs/tutorials/notas-fiscais-de-pedidos-fba) e acompanhe as instruções.
 

@@ -27,7 +27,7 @@ O alerta de estoque crítico é uma funcionalidade de logística que tem o objet
 
 ## Como funciona o Alerta
 
-Quando o estoque do item atingir a quantidade mínima configurada, será criada uma tarefa no [VTEX DO](/pt/tutorial/vtex-do-interface--7KMbRL4OslN8DTX9oiuCiu). Ela será disparada sempre no momento em que a reserva do pedido for feita, ou seja, no fechamento do pedido, e pode demorar de 1 a 5 minutos para aparecer no VTEX DO.
+Quando o estoque do item atingir a quantidade mínima configurada, será criada uma tarefa no [VTEX DO](/pt/docs/tutorials/vtex-do-interface). Ela será disparada sempre no momento em que a reserva do pedido for feita, ou seja, no fechamento do pedido, e pode demorar de 1 a 5 minutos para aparecer no VTEX DO.
 
 Caso a reserva seja cancelada, por exemplo por conta de um cancelamento de pedido por parte do cliente, a tarefa será fechada automaticamente.
 
@@ -45,4 +45,4 @@ Não, o Logistics verifica apenas os estoques disponíveis da loja.
 
 ### Onde vejo esses alertas? Como posso acessar o VTEX DO?
 
-Os alertas ficam registrados no [VTEX DO](/pt/tutorial/vtex-do-interface--7KMbRL4OslN8DTX9oiuCiu) e, por enquanto, só podem ser acessados em **Gerenciamento de pedidos**. No entanto, também disponibilizamos uma [API](https://developers.vtex.com/docs/api-reference/vtex-do-api) para o caso de você querer buscar ou atribuir uma tarefa a alguma pessoa, por exemplo.
+Os alertas ficam registrados no [VTEX DO](/pt/docs/tutorials/vtex-do-interface) e, por enquanto, só podem ser acessados em **Gerenciamento de pedidos**. No entanto, também disponibilizamos uma [API](https://developers.vtex.com/docs/api-reference/vtex-do-api) para o caso de você querer buscar ou atribuir uma tarefa a alguma pessoa, por exemplo.

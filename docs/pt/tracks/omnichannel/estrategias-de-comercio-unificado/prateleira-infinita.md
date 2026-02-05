@@ -29,7 +29,7 @@ Para implementar uma estratégia de Prateleira Infinita, você deve cadastrar su
 
 Para isso, siga os passos do artigo [Adicionar novos vendedores e lojas ao VTEX Sales App](/pt/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN).
 
-Um ponto de atenção importante no cadastro de uma nova loja é a [Política Comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) aplicada a essa loja. É ela que define qual sortimento de produtos serão válidos para a loja.
+Um ponto de atenção importante no cadastro de uma nova loja é a [Política Comercial](/pt/docs/tutorials/criar-uma-politica-comercial) aplicada a essa loja. É ela que define qual sortimento de produtos serão válidos para a loja.
 
 Se a Política Comercial principal da loja também é usada para vender em marketplaces, você deve usar uma Política Comercial diferente para o VTEX Sales App. Se não fizer isso, os métodos de pagamento `Direct Selling Debit` e `Direct Selling Credit`, configurados para o VTEX Sales App, também serão exibidos no checkout dos marketplaces.
 

@@ -58,7 +58,7 @@ Exemplo:
 
 Pronto, agora é só usar esse mesmo ID para preencher a coluna **PolygonName** da [planilha de frete](/pt/tutorial/como-montar-a-planilha-de-frete/).
 
-> ⚠️ É importante atentar para o fato de que, no caso de você usar geolocalização, preenchendo portanto a coluna **PolygonName** da [planilha de frete](/pt/tutorial/planilha-de-frete--tutorials_127), a transportadora em questão não usará as colunas **ZipCodeStart** e **ZipCodeEnd**, que deverão ser preenchidas com `0`.
+> ⚠️ É importante atentar para o fato de que, no caso de você usar geolocalização, preenchendo portanto a coluna **PolygonName** da [planilha de frete](/pt/docs/tutorials/planilha-de-frete), a transportadora em questão não usará as colunas **ZipCodeStart** e **ZipCodeEnd**, que deverão ser preenchidas com `0`.
 
    Lembre-se também que para que a geolocalização funcione, deve estar preenchido o campo API Key em **Configurações da loja > Storefront > Checkout**, [na aba Checkout](/pt/tutorial/geolocalizacao-no-checkout/), com a mesma chave que utilizou para habilitar a geolocalização.
 

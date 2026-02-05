@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Lançamento do beta da nova experiência das interfaces da Estratégia de envio.'
 ---
 
-A partir de 31 de maio, estamos lançando para todas as lojas VTEX a versão beta das novas interfaces da **Estratégia de envio**, que é composta pelas páginas [Políticas de envio](/pt/tutorial/politica-de-envio--tutorials_140), [Docas](/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) e [Estoques](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).
+A partir de 31 de maio, estamos lançando para todas as lojas VTEX a versão beta das novas interfaces da **Estratégia de envio**, que é composta pelas páginas [Políticas de envio](/pt/docs/tutorials/politica-de-envio), [Docas](/pt/docs/tutorials/doca) e [Estoques](/pt/docs/tutorials/estoque).
 
 As páginas da **Estratégia de envio** foram atualizadas para o novo design system da VTEX, como pode ser visto a seguir:
 
@@ -25,7 +25,7 @@ As páginas da **Estratégia de envio** foram atualizadas para o novo design sys
 
 As novas interfaces oferecem um visual mais intuitivo e foram atualizadas para o Admin VTEX. Além disso, em **Políticas de envio**, foram feitas as seguintes melhorias:
 
-* **Novo fluxo de ativação:** você pode ativar ou desativar suas [políticas de envio](/pt/tutorial/politica-de-envio--tutorials_140) de forma simples e prática, escolhendo a opção desejada no menu <i class="fas fa-ellipsis-v"></i> na linha referente à política que deseja alterar.
+* **Novo fluxo de ativação:** você pode ativar ou desativar suas [políticas de envio](/pt/docs/tutorials/politica-de-envio) de forma simples e prática, escolhendo a opção desejada no menu <i class="fas fa-ellipsis-v"></i> na linha referente à política que deseja alterar.
 * **Fácil acompanhamento de informações:** agora é possível facilmente acompanhar a relação entre suas políticas de envio e docas, ganhando mais visibilidade da sua operação.
 
 ## Por que fizemos essa mudança?

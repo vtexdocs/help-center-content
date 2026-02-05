@@ -26,7 +26,7 @@ Existem quatro departamentos dentro do módulo que são responsáveis pela confi
 
 Audiência de campanha é uma forma de definir o público alvo ao qual uma promoção poderá ser aplicada. Ou seja criar segmentos de clientes com base na definição de alguns critérios que serão elegíveis a uma determinada audiência de campanha e consequentemente a uma ou mais promoções. Uma audiências de campanhas pode ser associada a uma ou mais promoções de audiência de campanha.
 
-[Aprenda como criar uma audiência de campanha.](/pt/tutorial/como-criar-campanhas--6cnuDZJzIkIeocewAQQK4K) 
+[Aprenda como criar uma audiência de campanha.](/pt/docs/tutorials/criar-audiencia-de-campanha) 
 
 ## Promoções
 

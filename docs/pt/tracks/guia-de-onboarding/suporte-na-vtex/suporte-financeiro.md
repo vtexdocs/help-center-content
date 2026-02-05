@@ -23,18 +23,18 @@ O primeiro contato pode ser feito através dos artigos do [Help Center](/pt/) e 
 
 A VTEX busca garantir a conformidade com os procedimentos e políticas de pagamentos a fornecedores das filiais e, para isso, implementou práticas específicas que os fornecedores precisam seguir, dependendo da localização:
 
-- [Contas a Pagar - Brasil](/pt/tutorial/contas-a-pagar-brasil--tutorials_660): práticas a serem seguidas em todos os pagamentos a fornecedores relacionados aos procedimentos de contas a pagar das filiais VTEX no Brasil.
-- [Contas a pagar - Internacional](/pt/tutorial/contas-a-pagar-internacional--3yea9sIlsA0KgUC28ASCGs): práticas a serem seguidas em todos os pagamentos a fornecedores relacionados aos procedimentos de contas a pagar das filiais VTEX fora do Brasil.
+- [Contas a Pagar - Brasil](/pt/docs/tutorials/contas-a-pagar-brasil): práticas a serem seguidas em todos os pagamentos a fornecedores relacionados aos procedimentos de contas a pagar das filiais VTEX no Brasil.
+- [Contas a pagar - Internacional](/pt/docs/tutorials/contas-a-pagar-internacional): práticas a serem seguidas em todos os pagamentos a fornecedores relacionados aos procedimentos de contas a pagar das filiais VTEX fora do Brasil.
 
-> ℹ️ Para conferir a lista de filiais VTEX pelo mundo e saber em qual país é emitida a fatura, basta consultar o artigo [País de faturamento da loja](/pt/tutorial/nomes-das-filiais-vtex-pelo-mundo--zg05n6OIOZOEmLW7dcq9z).
+> ℹ️ Para conferir a lista de filiais VTEX pelo mundo e saber em qual país é emitida a fatura, basta consultar o artigo [País de faturamento da loja](/pt/docs/tutorials/nomes-das-filiais-vtex-pelo-mundo).
 
 ## Cálculo da receita da fatura pela VTEX
 
-A receita refere-se a pedidos marcados como `Pedidos aprovados` na [página de detalhes do pedido](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl). Uma vez que um pedido seja aprovado financeiramente, o valor total do pedido, incluindo frete e impostos finais, é considerado na fatura. Isso ocorre independentemente de cancelamentos posteriores, devido à utilização da infraestrutura da plataforma.
+A receita refere-se a pedidos marcados como `Pedidos aprovados` na [página de detalhes do pedido](/pt/docs/tutorials/pagina-de-detalhes-do-pedido). Uma vez que um pedido seja aprovado financeiramente, o valor total do pedido, incluindo frete e impostos finais, é considerado na fatura. Isso ocorre independentemente de cancelamentos posteriores, devido à utilização da infraestrutura da plataforma.
 
 Através do módulo **Pedidos**, também é possível baixar o relatório financeiro, visualizar o detalhamento de faturas e o que são os valores da receita aprovada.
 
-Para mais informações, basta consultar os artigos [O que a VTEX considera como receita no cálculo da fatura?](/pt/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq) e [Compreendendo o valor da receita](/pt/tutorial/compreenda-o-valor-da-receita-aprovada--tutorials_4322).
+Para mais informações, basta consultar os artigos [O que a VTEX considera como receita no cálculo da fatura?](/pt/docs/tutorials/o-que-a-vtex-considera-como-receita-para-apuracao) e [Compreendendo o valor da receita](/pt/docs/tutorials/compreenda-o-valor-da-receita-aprovada).
 
 ## Alteração dos dados cadastrais da loja
 

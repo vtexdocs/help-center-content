@@ -80,7 +80,7 @@ Após fazer as configurações básicas descritas, você precisa configurar as c
 
 ## Vincular o catálogo de produtos a uma vitrine de loja
 
-Para que o catálogo da loja física seja refletido no **VTEX Sales App**, é necessário configurar o [binding](/pt/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W) no CMS (Layout - [CMS Portal (Legado)](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj)). Essa configuração vincula a [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) ao storefront correspondente, garantindo que os produtos sejam exibidos corretamente na vitrine.
+Para que o catálogo da loja física seja refletido no **VTEX Sales App**, é necessário configurar o [binding](/pt/docs/tutorials/o-que-e-binding) no CMS (Layout - [CMS Portal (Legado)](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj)). Essa configuração vincula a [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) ao storefront correspondente, garantindo que os produtos sejam exibidos corretamente na vitrine.
 
 Para configurar o binding e garantir que o catálogo da loja seja exibido no **VTEX Sales App**, siga os passos abaixo:
 

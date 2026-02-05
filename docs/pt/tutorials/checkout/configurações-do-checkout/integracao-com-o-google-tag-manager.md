@@ -39,7 +39,7 @@ Por meio das tags, o Google Analytics permite que você acesse dados importantes
 
 ## Editar configurações de Checkout
 
-> ⚠️ Para realizar as configurações do Checkout, os usuários precisam ter um perfil de acesso com o [recurso do License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) **Manage portal**. É necessário que o usuário que for criar o novo perfil de acesso tenha o perfil **Owner (Admin Super)**.
+> ⚠️ Para realizar as configurações do Checkout, os usuários precisam ter um perfil de acesso com o [recurso do License Manager](/pt/docs/tutorials/recursos-do-license-manager) **Manage portal**. É necessário que o usuário que for criar o novo perfil de acesso tenha o perfil **Owner (Admin Super)**.
 
 Depois, você deve configurar o código de identificação da loja no Tag Manager na VTEX seguindo os passos abaixo: 
 

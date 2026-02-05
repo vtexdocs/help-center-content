@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2xWRgEIlR2ookieEmm4KQu
 ---
 
-Toda loja VTEX já vem preparada para ser [tanto marketplace quanto seller](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) de outras lojas VTEX, assim como de nossos marketplaces integrados. 
+Toda loja VTEX já vem preparada para ser [tanto marketplace quanto seller](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex) de outras lojas VTEX, assim como de nossos marketplaces integrados. 
 
 A integração entre lojas VTEX dispensa alguns passos necessários nas demais integrações. Abaixo estão as instruções para cada configuração.
 

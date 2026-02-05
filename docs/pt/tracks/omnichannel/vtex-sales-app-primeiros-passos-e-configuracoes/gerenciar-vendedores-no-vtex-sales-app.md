@@ -17,7 +17,7 @@ order: 6
 
 Após realizar as [configurações básicas do VTEX Sales App no Admin](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), é possível adicionar novos vendedores ao sistema ou gerenciar os vendedores já cadastrados.
 
-A categoria Vendedores representa uma seção dentro das Configurações da loja do Admin VTEX, exibindo a lista completa dos vendedores registrados no aplicativo **VTEX Sales App** da loja. Dentro dessa página, é possível administrar as informações dos vendedores em todas as [contas franquias](/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) da sua loja, realizando operações de [cadastrar](#cadastrar-vendedor), [buscar](#buscar-vendedor), [filtrar](#filtrar-vendedores), [editar](#editar-vendedor) e [inativar](#inativar-vendedor).
+A categoria Vendedores representa uma seção dentro das Configurações da loja do Admin VTEX, exibindo a lista completa dos vendedores registrados no aplicativo **VTEX Sales App** da loja. Dentro dessa página, é possível administrar as informações dos vendedores em todas as [contas franquias](/pt/docs/tutorials/o-que-e-conta-franquia) da sua loja, realizando operações de [cadastrar](#cadastrar-vendedor), [buscar](#buscar-vendedor), [filtrar](#filtrar-vendedores), [editar](#editar-vendedor) e [inativar](#inativar-vendedor).
 
 A página apresenta as seguintes informações:
 
@@ -25,7 +25,7 @@ A página apresenta as seguintes informações:
 | --- | --- |
 | Nome | Nome que identifica o vendedor, definido na etapa [Cadastrar vendedor](#cadastrar-vendedor). |
 | Código | Código identificador de cada vendedor, o mesmo cadastrado no sistema da loja física. |
-| Loja | Nome identificador da [conta franquia](/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) em que o vendedor está cadastrado. |
+| Loja | Nome identificador da [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) em que o vendedor está cadastrado. |
 | Email | Email de acesso referente a cada vendedor. |
 
 ## Cadastrar vendedor
@@ -51,7 +51,7 @@ Após o cadastro feito pelo lojista, o vendedor poderá criar uma senha de acess
 
 #### Loja física
 
-* **Loja:** [conta franquia](/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) em que o vendedor será cadastrado. Campo obrigatório.
+* **Loja:** [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) em que o vendedor será cadastrado. Campo obrigatório.
 
 > ℹ️ As alterações podem levar até 15 minutos para serem processadas e aplicadas no **Sales App**.
 

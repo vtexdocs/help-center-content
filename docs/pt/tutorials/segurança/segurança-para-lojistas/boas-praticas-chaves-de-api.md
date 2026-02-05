@@ -31,7 +31,7 @@ Essa prática se assemelha a definição de uma política de senha com configura
 
 Renove os tokens de API com frequência para reduzir riscos de exposição e manter suas integrações seguras. Configure alertas em **Chaves de API > Configurações** para receber lembretes periódicos (3 ou 6 meses) e salve com segurança o novo token via link de acesso único, excluindo o antigo após a migração.
 
-Saiba mais em [Renovar token de API](/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3).
+Saiba mais em [Renovar token de API](/pt/docs/tutorials/renovar-token-de-api).
 
 ## Reavalie chaves e acessos periodicamente
 
@@ -43,7 +43,7 @@ Se a recomendação anterior é semelhante a definição de trocas de senha peri
 
 Restrinja o acesso de cada chave a recursos e informações pela respectiva função e necessidade. Ao reduzir a quantidade de informações compartilhadas entre usuários ou integrações, você reduz o risco de vazamento por ameaças internas.
 
-Note que o gerenciamento de permissões para chaves de API é realizado com [perfis de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) e [recursos do License Manager](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
+Note que o gerenciamento de permissões para chaves de API é realizado com [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) e [recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager).
 
 ## Mantenha um programa de conscientização
 

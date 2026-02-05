@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: WpbGhubuRZaNZilJSXnqu
 ---
 
-Os campos são atributos de um documento. Para criá-los, é necessário acessar uma [entidade de dados](/pt/tutorial/criando-entidade-de-dados--tutorials_1265) específica e editá-la.
+Os campos são atributos de um documento. Para criá-los, é necessário acessar uma [entidade de dados](/pt/docs/tutorials/entidade-de-dados) específica e editá-la.
 
 Esse processo é feito em duas áreas do módulo. O Dynamic Storage é o ambiente em que se criam os campos. Já o CRM, em que se visualizam essas informações.
 

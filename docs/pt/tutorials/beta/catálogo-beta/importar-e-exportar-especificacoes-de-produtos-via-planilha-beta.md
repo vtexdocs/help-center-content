@@ -27,7 +27,7 @@ No Admin VTEX, você pode gerenciar a importação e a exportação de especific
 
 Para importações de especificações de produtos por planilha, realize os seguintes passos:
 
-1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) na barra de busca no topo da página.
+1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus) na barra de busca no topo da página.
 2. No topo da página, clique em `Importar`.
 3. Clique em `Especificações de produto`.
 4. Adicione a planilha com extensão `.xls` ou `.xlsx`. Você pode arrastar o arquivo e soltá-lo sobre a área indicada, ou clicar sobre a janela e selecionar o arquivo localmente.
@@ -46,7 +46,7 @@ Para exportar um arquivo `.xlsx` com informações sobre especificações de pro
 
 > ℹ️ As informações exportadas correspondem aos campos apresentados na seção [Ver campos da planilha de especificações de produtos](#ver-campos-da-planilha-de-especificacoes-de-produtos).
 
-1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) na barra de busca no topo da página.
+1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus) na barra de busca no topo da página.
 2. (Opcional) Caso queira exportar as especificações de produtos de determinados produtos, [busque](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#buscar-produtos) ou [filtre](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#filtrar-produtos) os itens desejados. Este passo não é necessário para exportar as especificações de todos os produtos do seu catálogo.
 3. No topo da página, clique em `Exportar`.
 4. Clique em `Especificações de produto`.
@@ -64,8 +64,8 @@ A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campo
 | ID Produto* | Código numérico único identificador do produto. | 310117603 |
 | Nome Produto | Nome do produto apresentado para os clientes na experiência de navegação. | Corebiz camiseta |
 | Código de referência Produto | Código de referência único do produto, utilizado internamente pela loja. Para preencher este campo, use uma combinação de letras e/ou números. | camisaCor |
-| ID Marca | Código numérico que identifica a [marca](/pt/tutorial/o-que-e-uma-marca--QU07yhHoaWcEYseEucOQW) do produto. Esta informação pode ser encontrada no Admin VTEX, em **Catálogo > Marcas**, ou usando o endpoint [Get brand list](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/brand/list). | 2000003 |
-| Marca | Nome da [marca](/pt/tutorial/o-que-e-uma-marca--QU07yhHoaWcEYseEucOQW) do produto. Uma vez preenchido, este campo não pode ser editado. | AOC |
+| ID Marca | Código numérico que identifica a [marca](/pt/docs/tutorials/o-que-e-uma-marca) do produto. Esta informação pode ser encontrada no Admin VTEX, em **Catálogo > Marcas**, ou usando o endpoint [Get brand list](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/brand/list). | 2000003 |
+| Marca | Nome da [marca](/pt/docs/tutorials/o-que-e-uma-marca) do produto. Uma vez preenchido, este campo não pode ser editado. | AOC |
 | ID Departamento | Código numérico que identifica a categoria de maior nível hierárquico do produto. | 1000014 |
 | Departamento | Nome da categoria de maior nível hierárquico do produto. | Roupas |
 | ID Categoria | Número identificador único da categoria de menor nível hierárquico do produto. Essa informação pode ser encontrada no Admin VTEX, em **Catálogo > Categorias**, ou usando o endpoint [Get category tree](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pub/category/tree/-categoryLevels-). | 1000014 |
@@ -80,6 +80,6 @@ A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campo
 
 ## Saiba mais
 
-* [Importar e exportar produtos e SKUs via planilha (Beta)](/pt/tutorial/importar-e-exportar-produtos-e-skus-via-planilha-beta--5udKxWP1ZeBD7QB7Fy2BNl)
-* [Importar e exportar especificações de SKUs via planilha (Beta)](/pt/tutorial/importar-e-exportar-especificacoes-de-skus-via-planilha-beta--5EAioeC33wHpIxKHaGQzbV)
-* [Importar e exportar imagens de produtos e SKUs via planilha (Beta)](/pt/tutorial/importar-e-exportar-imagens-de-produtos-e-skus-via-planilha-beta--6zBisMdxDYeBF49LPzvfqt)
+* [Importar e exportar produtos e SKUs via planilha (Beta)](/pt/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha-beta)
+* [Importar e exportar especificações de SKUs via planilha (Beta)](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-skus-via-planilha-beta)
+* [Importar e exportar imagens de produtos e SKUs via planilha (Beta)](/pt/docs/tutorials/importar-e-exportar-imagens-de-produtos-e-skus-via-planilha-beta)

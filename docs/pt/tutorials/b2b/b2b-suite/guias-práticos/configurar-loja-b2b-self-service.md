@@ -72,7 +72,7 @@ No cenário B2B, é comum o uso de informações básicas como nome, e-mail e te
 
 > ❗ O campo utilizado como regra condicional na política comercial **nunca poderá fazer parte desse formulário**, uma vez que o próprio usuário não pode realizar sua própria aprovação, cabendo à loja essa responsabilidade.
 
-Na VTEX, formulários são criados através do [Master Data](/pt/tutorial/o-que-e-o-master-data--4otjBnR27u4WUIciQsmkAw), o banco de dados da loja, que guarda as informações da base de clientes da loja e organiza os dados recebidos através de formulários.
+Na VTEX, formulários são criados através do [Master Data](/pt/docs/tutorials/master-data), o banco de dados da loja, que guarda as informações da base de clientes da loja e organiza os dados recebidos através de formulários.
 
 Para criar um formulário:
 
@@ -85,7 +85,7 @@ Assim, quando um cliente preencher o formulário, seus dados serão incluídos n
 > ℹ️ Você pode optar por criar um formulário com mais recursos, tais como o preenchimento automático do CEP, múltiplas abas ou validação do CNAE (Classificação Nacional de Atividades Econômicas). Caso opte por esse tipo de formulário, confira a documentação técnica do [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-new-custom-page).
 
 ### Aprovação de usuários
-A aprovação dos usuários, assim como o cadastro, é feita no [Master Data](/pt/tutorial/o-que-e-o-master-data--4otjBnR27u4WUIciQsmkAw). Cabe aos responsáveis pela gestão do ecommerce aprovar o acesso dos clientes ao conteúdo da loja. 
+A aprovação dos usuários, assim como o cadastro, é feita no [Master Data](/pt/docs/tutorials/master-data). Cabe aos responsáveis pela gestão do ecommerce aprovar o acesso dos clientes ao conteúdo da loja. 
 
 Para aprovar o acesso dos clientes à loja, é necessário aprovar cada um dos clientes que se cadastraram ao preencher o formulário. A aprovação pode ser realizada via Admin ou via API.
 
@@ -121,7 +121,7 @@ Já a associação do estoque à doca é feita por meio do parâmetro `warehouse
 
 A configuração de preços é feita por meio de [tabelas de preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8), um conjunto de preços aplicados a determinados SKUs em um determinado contexto. Para configurar, você deverá:
 
-1. [Criar uma nova tabela de preços](/pt/tutorial/creating-price-tables--58YmY2Iwggyw4WeSCGg24S).
+1. [Criar uma nova tabela de preços](/pt/docs/tutorials/criar-tabelas-de-precos).
 2. Editar as configurações da planilha de preços.
 3. Importar a planilha de preços configurada.
 
@@ -131,9 +131,9 @@ Você pode também criar e editar tabelas de preços por meio do endpoint `[POST
 
 No modelo de negócios B2B, uma prática comum é a concessão de crédito a alguns dos seus clientes de confiança, geralmente revendedores, para que eles usem esse crédito para comprar itens do próprio lojista.
 
-A gestão de crédito é um recurso versátil e, por conta disso, é utilizada em diferentes cenários de negócio no modelo B2B. Explicamos algumas das situações em que lojas com diferentes contextos de negócio podem empregar essa estratégia no artigo [Gestão de Crédito por meio do Customer Credit](/pt/tutorial/gestao-de-credito-por-meio-do-customer-credit--5lihi3WBsV5mSIDqNvnoK0).
+A gestão de crédito é um recurso versátil e, por conta disso, é utilizada em diferentes cenários de negócio no modelo B2B. Explicamos algumas das situações em que lojas com diferentes contextos de negócio podem empregar essa estratégia no artigo [Gestão de Crédito por meio do Customer Credit](/pt/docs/tutorials/gestao-de-credito-por-meio-do-customer-credit).
 
-Na VTEX, os lojistas podem utilizar o [Customer Credit](/pt/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0), aplicativo no qual o usuário pode oferecer e administrar os créditos cedidos aos seus clientes. Para instalar o aplicativo, confira o passo a passo completo no artigo [Instalar Customer Credit](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
+Na VTEX, os lojistas podem utilizar o [Customer Credit](/pt/docs/tutorials/customer-credit-visao-geral), aplicativo no qual o usuário pode oferecer e administrar os créditos cedidos aos seus clientes. Para instalar o aplicativo, confira o passo a passo completo no artigo [Instalar Customer Credit](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
 
 > ℹ️ Meios de pagamento convencionais, como cartão de crédito, cartão de débito e boleto bancário, também podem ser configurados para o contexto B2B. A gestão de crédito é apenas o método utilizado com mais frequência pelos clientes.
 

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ Este tutorial é para lojas no CMS Portal legado. Para outras lojas, você faz essa configuração através de [Páginas](/pt/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc). Acesse a documentação [Gerenciando redirecionamentos de URL](/pt/tutorial/gerenciando-redirecionamentos-de-url--3UJuFrU8imSVWg134mkvJV) para mais informações.
+> ⚠️ Este tutorial é para lojas no CMS Portal legado. Para outras lojas, você faz essa configuração através de [Páginas](/pt/docs/tutorials/paginas-visao-geral). Acesse a documentação [Gerenciando redirecionamentos de URL](/pt/docs/tutorials/gerenciando-redirecionamentos-de-url) para mais informações.
 
 Os mapeamentos de URLs são utilizados para redirecionar URLs específicas para outras. Esse recurso é muito útil quando a loja já possui URLs indexadas em buscadores e pretende redirecioná-las para outras mais atrativas, mantendo o SEO e evitando erros de indexação.
 

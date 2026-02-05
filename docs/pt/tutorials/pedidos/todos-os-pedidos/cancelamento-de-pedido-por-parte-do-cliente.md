@@ -19,15 +19,15 @@ Existem cenários em que os clientes podem solicitar o cancelamento de um pedido
 
 > ❗ Uma vez que o pedido é cancelado, não é mais possível alterar o status do pedido.
 
-> ⚠️ Não é possível [cancelar pedidos](/pt/tutorial/como-cancelar-pedido--tutorials_186) que já tenham sido [faturados parcialmente](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
+> ⚠️ Não é possível [cancelar pedidos](/pt/docs/tutorials/como-cancelar-pedido) que já tenham sido [faturados parcialmente](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado).
 
 ## Cancelamento no prazo de carência
 
-Ocorre quando o cliente solicita cancelamento no [tempo carência](/pt/tutorial/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido--jYFdnPDtNm4WCEkYWqqC). O pedido é cancelado automaticamente, sem a necessidade de autorização da loja. Até esse momento, seguindo o [fluxo do pedido](/pt/tutorial/fluxo-de-pedido--tutorials_196), o lojista ainda não tomou nenhuma ação em relação àquele pedido.
+Ocorre quando o cliente solicita cancelamento no [tempo carência](/pt/docs/tutorials/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido). O pedido é cancelado automaticamente, sem a necessidade de autorização da loja. Até esse momento, seguindo o [fluxo do pedido](/pt/docs/tutorials/fluxo-e-status-de-pedidos), o lojista ainda não tomou nenhuma ação em relação àquele pedido.
 
 * Essa ação é feita pelo cliente em __Meus pedidos__, ao clicar em `Solicitar cancelamento do pedido`.
 
-> ℹ️ Quando o cliente solicita o cancelamento do pedido durante o prazo de carência, a notificação desta ação é enviada somente para o usuário com [perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) de Titular da conta (usuário master).
+> ℹ️ Quando o cliente solicita o cancelamento do pedido durante o prazo de carência, a notificação desta ação é enviada somente para o usuário com [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) de Titular da conta (usuário master).
 
 ## Cancelamento aprovado pelo lojista
 
@@ -38,7 +38,7 @@ Ocorre quando o cliente solicita o cancelamento depois do período de carência,
 
 O lojista deve aprovar ou rejeitar o pedido de cancelamento. Se o lojista não aprovar o cancelamento, recomendamos informar ao cliente sobre a impossibilidade do cancelamento do pedido.
 
-Mesmo se o cancelamento solicitado pelo cliente for negado pelo lojista utilizando o [VTEX DO](/pt/tutorial/vtex-do--7KMbRL4OslN8DTX9oiuCiu), é necessário que o lojista prossiga com o [faturamento](/pt/tutorial/faturar-um-pedido--7p1h852V5t54KyscpgxE2v) do pedido, sendo isso que realmente faz o pedido seguir o seu fluxo.
+Mesmo se o cancelamento solicitado pelo cliente for negado pelo lojista utilizando o [VTEX DO](/pt/docs/tutorials/vtex-do-interface), é necessário que o lojista prossiga com o [faturamento](/pt/docs/tutorials/faturar-um-pedido-manualmente) do pedido, sendo isso que realmente faz o pedido seguir o seu fluxo.
 
 > ⚠️ Se a funcionalidade [Substituição de Pedidos](/pt/tutorial/substituicao-de-pedidos--2IK9mwQjBKseQmE8K8saO8#ativacao-da-funcionalidade) estiver ativada, os pedidos poderão ser alterados ou cancelados a qualquer momento, inclusive após o período de carência para cancelamento.
 
@@ -58,7 +58,7 @@ Para alterar as opções, realize os passos abaixo:
 ## Artigos relacionados
 
 - [Por que meu pedido foi cancelado?](/pt/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493)
-- [Configurar o tempo de carência para cancelamento do pedido](/pt/tutorial/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido--jYFdnPDtNm4WCEkYWqqC)
+- [Configurar o tempo de carência para cancelamento do pedido](/pt/docs/tutorials/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido)
 - [Por que meu pedido foi cancelado na VTEX e não no marketplace?](/pt/faq/por-que-meu-pedido-foi-cancelado-na-vtex-e-nao-no-marketplace--frequentlyAskedQuestions_678)
-- [Substituição de pedidos](/pt/tutorial/substituicao-de-pedidos--2IK9mwQjBKseQmE8K8saO8)
+- [Substituição de pedidos](/pt/docs/tutorials/substituicao-de-pedidos)
 

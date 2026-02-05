@@ -25,4 +25,4 @@ Disponível para clientes e parceiros VTEX, o guia pode ser acessado diretamente
 https://{accountName}.myvtex.com/admin/shopping-season
 ```
 
-Basta substituir `{accountName}` pelo [account name](/pt/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) da sua loja.
+Basta substituir `{accountName}` pelo [account name](/pt/docs/tutorials/o-que-e-account-name) da sua loja.

@@ -19,7 +19,7 @@ A solução **Live Shopping** é compatível com as seguintes tecnologias fronte
 
 * [Store Framework (VTEX IO)](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework)
 * [CMS - Portal Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj)
-* [Headless CMS](/pt/tutorial/headless-cms-overview--3U5gvhHdQL0jczYH8gjX09)
+* [Headless CMS](/pt/docs/tutorials/headless-cms-visao-geral)
 * [FastStore](https://developers.vtex.com/docs/guides/faststore/storefront-features-implementing-live-shopping-for-faststore)
 * Lojas externas
 

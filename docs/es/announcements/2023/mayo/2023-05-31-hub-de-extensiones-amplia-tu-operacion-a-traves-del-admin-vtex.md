@@ -35,9 +35,9 @@ Los precios en la **App Store** se mostrarán en dólares estadounidenses (USD),
 
 ### Partners
 
-Hemos implementado toda la experiencia del [sitio web Partner portal](https://vtex.com/pt-br/parceiros/) en la nueva página Hub de extensiones. Con este cambio, facilitamos el descubrimiento de partners para tu negocio y unificamos la experiencia con las extensiones de la plataforma. A través del nuevo **Partners** puedes buscar aliados para tu negocio, obtener información sobre ellos y establecer el contacto inicial dentro del Admin VTEX.
+Hemos implementado toda la experiencia del [sitio web Partner portal](https://vtex.com/es-mx/partners//) en la nueva página Hub de extensiones. Con este cambio, facilitamos el descubrimiento de partners para tu negocio y unificamos la experiencia con las extensiones de la plataforma. A través del nuevo **Partners** puedes buscar aliados para tu negocio, obtener información sobre ellos y establecer el contacto inicial dentro del Admin VTEX.
 
-El [sitio web Partner portal](https://vtex.com/pt-br/parceiros/) continuará existiendo sin alteraciones.
+El [sitio web Partner portal](https://vtex.com/es-mx/partners//) continuará existiendo sin alteraciones.
 
 ### Gestión de aplicaciones
 

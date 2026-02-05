@@ -32,7 +32,7 @@ Para entender melhor o significado dos campos de cadastro de Marca, veja abaixo 
 
 - __Lomadee Campaing Code__: código usado para campanhas do Buscapé. O preenchimento desse campo com o código permite o acompanhamento de métricas de remarketing associados a essa marca.
 
-- __Score (usado para ordenação da busca)__: valor usado para definir a prioridade da marca na página de resultado de busca. Para entender mais sobre o campo e a ordenação da busca, acesse o nosso artigo sobre [como funciona o campo Score](/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae)
+- __Score (usado para ordenação da busca)__: valor usado para definir a prioridade da marca na página de resultado de busca. Para entender mais sobre o campo e a ordenação da busca, acesse o nosso artigo sobre [como funciona o campo Score](/pt/docs/tutorials/como-funciona-o-campo-score)
 
 - __Exibir no menu da Home__: ao selecionar essa caixa, a marca aparecerá no menu da sua loja por meio do controle *Menu de Departamentos* (<vtex.cmc:departmentNavigator/>). Para entender mais sobre o uso de controles, acesse nosso artigo com a [lista de controles](/pt/tutorial/lista-de-controles-para-templates--tutorials_563) para as páginas da sua loja. 
 

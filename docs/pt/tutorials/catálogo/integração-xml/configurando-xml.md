@@ -58,7 +58,7 @@ Com isso em mãos, siga os passos abaixo para configurar o seu XML:
 11. Escolha se exibirá no site do marketplace os SKUs indisponíveis ou não, ou seja, se o produto será exibido para compra, ainda que não esteja disponível para pronta entrega.
 12. Selecione se quer que o produto seja exibido com as informações do SKU padrão.
 13. A partir daqui, preencha as *tags* conforme definido pelo sistema para o qual enviará o XML. Marque a caixa de seleção da coluna __Mostrar conteúdo__, nas tags que tiver preenchido o nome. As tags que já estiverem com essa opção marcada e cuja seleção não for possível desfazer são de preenchimento obrigatório.
-14. A URL usada para acessar o XML é gerada automaticamente, conforme o [domínio cadastrado no dicionário do Web Site](/pt/tutorial/configurar-dominio-do-xml--2RkGK4vHS0c6sYuUw0cUWC), no __CMS__.
+14. A URL usada para acessar o XML é gerada automaticamente, conforme o [domínio cadastrado no dicionário do Web Site](/pt/docs/tutorials/configurar-dominio-do-xml), no __CMS__.
 
 > ⚠️ Se a política comercial possuir restrição de acesso, o XML não será gerado.
 

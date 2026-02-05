@@ -31,4 +31,4 @@ Esta substituição reflete as alterações já feitas no Developer Portal. Para
 
 Não há nada que precise ser feito. A mudança ocorre apenas na documentação. Nada foi alterado no funcionamento da plataforma e pode ser utilizada normalmente.
 
-Mais informações sobre o funcionamento da liquidação no contexto de Pagamentos podem ser encontradas no artigo [Fluxo da transação no Pagamentos](/pt/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ).
+Mais informações sobre o funcionamento da liquidação no contexto de Pagamentos podem ser encontradas no artigo [Fluxo da transação no Pagamentos](/pt/docs/tutorials/fluxo-da-transacao-no-pagamentos).

@@ -25,10 +25,10 @@ Na plataforma web do VTEX Tracking é possível gerar planilhas e visualizar gr�
 
 Os relatórios disponíveis, são:
 
-*   [Relatório de Agendamentos](/pt/tutorial/relatorio-de-agendamentos--5D3rqzAfBnORWxN7h4SK4v)
-*   [Relatório de Indicadores](/pt/tutorial/relatorio-de-indicadores--7lbICsrCArXDxUYeeHJ2c5)
+*   [Relatório de Agendamentos](/pt/docs/tutorials/relatorio-de-agendamentos)
+*   [Relatório de Indicadores](/pt/docs/tutorials/relatorio-de-indicadores)
 *   Relatório de Ranking
-*   [Relatório de SMS e Email](/pt/tutorial/relatorio-de-sms-e-email--7AZmTlojzg1hDmwhDOxCNO)
-*   [Relatório de Serviços](/pt/tutorial/relatorio-de-servicos--7djPWfxtf9qb6hFTOgKDE8)
+*   [Relatório de SMS e Email](/pt/docs/tutorials/relatorio-de-sms-e-email)
+*   [Relatório de Serviços](/pt/docs/tutorials/relatorio-de-servicos)
 
 ![relatorio](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/relatórios/relatorios_1.png)

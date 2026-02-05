@@ -27,7 +27,7 @@ Antes, o gerenciamento de [Chaves de Aplicação](/pt/tutorial/chaves-de-aplicac
 
 ### Permissões para criar Chaves de Aplicativo agora são baseadas em recursos
 
-Antes, apenas o [usuário Titular](/pt/tutorial/o-que-e-o-usuario-master--3oPr7YuIkEYqUGmEqIMSEy) podia criar e gerenciar Chaves de Aplicativo. Agora, qualquer usuário com o recurso `License Manager / Services access control / Save user` configurado nos seus [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) pode criar essas credenciais e compartilhar as mesmas permissões com outros usuários, permitindo que o usuário Titular delegue essa responsabilidade conforme necessário.
+Antes, apenas o [usuário Titular](/pt/docs/tutorials/o-que-e-o-usuario-titular) podia criar e gerenciar Chaves de Aplicativo. Agora, qualquer usuário com o recurso `License Manager / Services access control / Save user` configurado nos seus [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) pode criar essas credenciais e compartilhar as mesmas permissões com outros usuários, permitindo que o usuário Titular delegue essa responsabilidade conforme necessário.
 
 ## Por que fizemos essas mudanças?
 

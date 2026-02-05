@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
 
-Quando o preço definido por um seller é diferente do preço oferecido pelo marketplace, pedidos realizados em marketplaces podem não ser processados corretamente. Na VTEX, o fluxo de Autorização de pedidos permite o controle e a aprovação automática desses pedidos, a partir da configuração de uma [regra de Divergência de valores](/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW). Este artigo explica como o seller pode criar e editar uma regra de Divergência de valores, e autorizar pedidos manualmente.
+Quando o preço definido por um seller é diferente do preço oferecido pelo marketplace, pedidos realizados em marketplaces podem não ser processados corretamente. Na VTEX, o fluxo de Autorização de pedidos permite o controle e a aprovação automática desses pedidos, a partir da configuração de uma [regra de Divergência de valores](/pt/docs/tutorials/regra-de-divergencia-de-valores). Este artigo explica como o seller pode criar e editar uma regra de Divergência de valores, e autorizar pedidos manualmente.
 
 Quando nenhuma regra de Divergência de preços for criada, a plataforma VTEX terá um comportamento específico para cada uma das situações abaixo:
 
@@ -31,9 +31,9 @@ Quando um seller está integrado a um conector nativo, como o Mercado Livre ou a
 
 ## Criar regra de Divergência de valores
 
-A [regra de Divergência de valores](/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW) é composta de uma ou múltiplas regras de autorização de pedidos, que correspondem a intervalos entre 0% a 100% do preço do pedido. A configuração é feita de forma que cada intervalo é associado a uma ação automática de processamento.
+A [regra de Divergência de valores](/pt/docs/tutorials/regra-de-divergencia-de-valores) é composta de uma ou múltiplas regras de autorização de pedidos, que correspondem a intervalos entre 0% a 100% do preço do pedido. A configuração é feita de forma que cada intervalo é associado a uma ação automática de processamento.
 
-> ℹ️ Para criar uma regra de Divergência de valores, o usuário precisa ter o [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) de Admin Super (Owner) ou OMS Full. Garanta a segurança na gestão das suas operações e confira as [melhores práticas de segurança para gestão de usuários](/pt/faq/metodos-de-seguranca-para-criacao-de-perfis-de-usuarios-em-uma-loja--15YDwC9jGgqWi3rvcDaiGM).
+> ℹ️ Para criar uma regra de Divergência de valores, o usuário precisa ter o [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) de Admin Super (Owner) ou OMS Full. Garanta a segurança na gestão das suas operações e confira as [melhores práticas de segurança para gestão de usuários](/pt/faq/metodos-de-seguranca-para-criacao-de-perfis-de-usuarios-em-uma-loja--15YDwC9jGgqWi3rvcDaiGM).
 
 Para criar uma regra de Divergência de valores, siga os passos abaixo:
 
@@ -61,7 +61,7 @@ Uma vez definido o intervalo da regra de autorização, selecione uma das seguin
 - **Negar automaticamente:** pedidos com diferença de preço até a porcentagem definida são automaticamente recusados, e não são integrados.
 - **Criar uma tarefa no VTEX DO para aprovação:** para o intervalo configurado, o pedido é integrado, mas fica pendente, aguardando a autorização de um usuário habilitado. No campo **Pessoas autorizadas**, é necessário inserir o(s) email(s) de usuários que podem [autorizar manualmente esses pedidos](/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe#autorizar-pedidos-manualmente).
 
-Para configurar uma hierarquia de usuários responsáveis por aprovações de pedidos, é preciso inserir mais de um email e escolher a ordenação dos usuários cadastrados. É possível alterar esses usuários a qualquer momento, ao editar a regra de autorização de pedidos. Vale ressaltar que somente um usuário com [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) Admin Super (_Owner_) ou OMS Full pode editar a regra.
+Para configurar uma hierarquia de usuários responsáveis por aprovações de pedidos, é preciso inserir mais de um email e escolher a ordenação dos usuários cadastrados. É possível alterar esses usuários a qualquer momento, ao editar a regra de autorização de pedidos. Vale ressaltar que somente um usuário com [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) Admin Super (_Owner_) ou OMS Full pode editar a regra.
 
 Para criar a **2ª regra**, clique no <i class="fas fa-plus" aria-hidden="true"></i> sinal de adição. Esse mesmo procedimento vale para criar uma terceira ou quarta regra, e assim por diante. Após clicar no ícone, aparece a seguinte interface:
 
@@ -98,7 +98,7 @@ Existem duas maneiras de um usuário habilitado autorizar manualmente um pedido 
 
 ### Autorizar pedido pelo módulo Pedidos
 
-Esta forma de aprovação é feita na página [Todos os pedidos](/pt/tutorial/lista-de-pedidos-interface--2QTduKHAJMFIZ3BAsi6Pi). Para realizá-la, siga os passos abaixo:
+Esta forma de aprovação é feita na página [Todos os pedidos](/pt/docs/tutorials/todos-os-pedidos). Para realizá-la, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Pedidos > Todos os pedidos**, ou digite **Todos os pedidos** na barra de busca no topo da página.
 2. Clique no pedido com status `Aguardando autorização manual`.
@@ -118,7 +118,7 @@ Para autorizar um pedido com Divergência de valores pelo VTEX DO, realize os se
 
 ### Saiba mais
 
-- [Regra de Divergência de valores](/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW)
-- [Todos os pedidos](/pt/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi)
-- [Estratégias de marketplace na VTEX](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402)
+- [Regra de Divergência de valores](/pt/docs/tutorials/regra-de-divergencia-de-valores)
+- [Todos os pedidos](/pt/docs/tutorials/todos-os-pedidos)
+- [Estratégias de marketplace na VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex)
 

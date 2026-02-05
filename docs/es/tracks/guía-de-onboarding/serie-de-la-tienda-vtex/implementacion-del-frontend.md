@@ -25,7 +25,7 @@ El propósito de este artículo es brindar orientación en la elección de la te
 
 La implementación del frontend es una etapa centrada en la definición de las tecnologías a implementar, en función de las necesidades del negocio relacionadas con el storefront.
 
-> ℹ️ El frontend puede ser implementado tanto por el equipo de desarrollo interno de la empresa como por nuestros [partners de implementación](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#partners-de-implementacion). [Los usuarios](/es/docs/tutorials/gestionar-usuarios-administrativos) con acceso al Admin VTEX pueden consultar la lista de nuestros partners a través del [Partner Portal](https://vtex.com/pt-br/parceiros/) (exclusivo Brasil).
+> ℹ️ El frontend puede ser implementado tanto por el equipo de desarrollo interno de la empresa como por nuestros [partners de implementación](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#partners-de-implementacion). [Los usuarios](/es/docs/tutorials/gestionar-usuarios-administrativos) con acceso al Admin VTEX pueden consultar la lista de nuestros partners a través del [Partner Portal](https://vtex.com/es-mx/partners//) (exclusivo Brasil).
 
 ## Antes de empezar
 

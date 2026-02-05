@@ -66,7 +66,7 @@ A seguir, vamos aprofundar o passo a passo da configuração das oções de menu
 
 ## Configurar Checkout
 
-> ⚠️ Para realizar as configurações do Checkout, os usuários precisam ter um perfil de acesso com o [recurso do License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) **Manage portal**. É necessário que o usuário que for criar o novo perfil de acesso tenha o perfil **Owner (Admin Super)**.
+> ⚠️ Para realizar as configurações do Checkout, os usuários precisam ter um perfil de acesso com o [recurso do License Manager](/pt/docs/tutorials/recursos-do-license-manager) **Manage portal**. É necessário que o usuário que for criar o novo perfil de acesso tenha o perfil **Owner (Admin Super)**.
 
 1. No Admin VTEX, acesse __Configurações da loja > Storefront > Checkout__, ou digite __Checkout__ na barra de busca no topo da página.
 2. Clique no ícone <i class="fas fa-cog" alt="engrenagem azul"></i> do site desejado.

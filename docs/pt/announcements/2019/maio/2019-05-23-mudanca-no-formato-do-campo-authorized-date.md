@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Novo formato do campo `Authorized Date` garante um entendimento mais claro da data em que o pedido foi autorizado'
 ---
 
-A partir de 12 de junho de 2019, faremos uma alteração no formato do campo `Authorized Date`, que pode ser encontrado no [relatório de pedidos](/pt/tutorial/exportando-pedidos-no-gerenciamento-de-pedidos--tutorials_6417) exportado do módulo de Gerenciamento de Pedidos.
+A partir de 12 de junho de 2019, faremos uma alteração no formato do campo `Authorized Date`, que pode ser encontrado no [relatório de pedidos](/pt/docs/tutorials/exportacao-de-pedidos-no-modulo-pedidos) exportado do módulo de Gerenciamento de Pedidos.
 
 ## Principais Vantagens
 

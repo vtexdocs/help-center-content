@@ -44,7 +44,7 @@ Para obter acesso a informações de identificação de carrinhos, confira a [Ch
 
 Todas as informações (pessoais, entrega e pagamento) estão protegidas, sendo somente visualizadas pelo usuário cadastrado na plataforma (após realizar o login). Os dados aparecem mascarados para as demais pessoas que acessam o carrinho.
 
-Para saber mais sobre proteção de dados, acesse [Segurança do SmartCheckout](/pt/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB).
+Para saber mais sobre proteção de dados, acesse [Segurança do SmartCheckout](/pt/docs/tutorials/seguranca-do-smartcheckout).
 
 ## Rastreamento de páginas
 

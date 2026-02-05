@@ -37,7 +37,7 @@ Para adicionar um novo usuário à organização, siga estas etapas:
             <li>**Email:** email do usuário.</li>
             <li>**Organização:** nome da organização.</li>
             <li>**Centro de custo:** centro de custo ao qual o usuário estará associado.</li>
-            <li>**Perfil de acesso:** papel que o usuário terá na loja virtual. Veja mais detalhes sobre as funções disponíveis na documentação de [Gerenciamento de permissões no B2B Suite](/pt/tutorial/gerenciamento-de-permissoes-no-b2b-suite--2PLR7mIFxgbmsGq84paLeA).</li>
+            <li>**Perfil de acesso:** papel que o usuário terá na loja virtual. Veja mais detalhes sobre as funções disponíveis na documentação de [Gerenciamento de permissões no B2B Suite](/pt/docs/tutorials/gerenciamento-de-permissoes-no-b2b-suite).</li>
         </ul>
     </li>
     <li>Clique em `Salvar`.</li>

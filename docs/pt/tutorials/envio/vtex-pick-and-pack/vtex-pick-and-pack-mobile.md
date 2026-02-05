@@ -17,7 +17,7 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 
 > ℹ️ Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
 
-O aplicativo móvel do [VTEX Pick and Pack](/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA) auxilia o separador - profissional responsável por selecionar e empacotar itens na instalação - no manuseio de pedidos, abrangendo desde a separação dos itens até o envio. Assim, o fluxo de separação e entrega dos pedidos da loja torna-se mais organizado e fluido.
+O aplicativo móvel do [VTEX Pick and Pack](/pt/docs/tutorials/vtex-pick-and-pack-fulfillment) auxilia o separador - profissional responsável por selecionar e empacotar itens na instalação - no manuseio de pedidos, abrangendo desde a separação dos itens até o envio. Assim, o fluxo de separação e entrega dos pedidos da loja torna-se mais organizado e fluido.
 
 ![pickpack-mobile-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-mobile_1.png)
 
@@ -89,9 +89,9 @@ Para criar uma ordem de serviço, siga os passos abaixo:
 Para pesquisar por um pedido, digite o ID do pedido na barra de busca. Para filtrar a lista de pedidos, clique em <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-mobile_14.png" alt="pickpack-filter" width="30" height="30"> e selecione uma ou mais das seguintes opções:
 
 * Data de entrega
-* [Categorias de produto](/pt/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg)
-* [Meios de pagamento](/pt/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q)
-* [Estratégia de envio](/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)
+* [Categorias de produto](/pt/docs/tutorials/o-que-e-uma-categoria)
+* [Meios de pagamento](/pt/docs/tutorials/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento)
+* [Estratégia de envio](/pt/docs/tutorials/estrategia-de-envio)
 * Tipo de envio (retirada ou entrega)
 
 ## Separar itens
@@ -233,7 +233,7 @@ Para substituir itens da ordem de serviço, siga os passos abaixo:
 3. Escaneie o código de barras do produto ou procure-o manualmente usando a barra de busca.
 4. Selecione a quantidade desejada em unidades ou informe o peso.
 5. Clique em `Continuar`.
-6. Selecione o motivo da substituição do item. Os motivos listados podem ser configurados na página [Configurações](/pt/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9).
+6. Selecione o motivo da substituição do item. Os motivos listados podem ser configurados na página [Configurações](/pt/docs/tutorials/vtex-pick-and-pack-configuracoes).
 7. Clique em `Confirmar e separar substituto`.
 
 ## Concluir separação
@@ -307,7 +307,7 @@ Para finalizar o empacotamento, clique em `Confirmar empacotamento`.
 
 #### Saiba mais
 
-* [VTEX Pick and Pack](/pt/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU)
-* [VTEX Pick and Pack: FAQ](/pt/tutorial/vtex-pick-and-pack-faq--2Rvf9vTS35vmOhkE2i0xcs)
-* [VTEX Pick and Pack: Configurações](/pt/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9)
+* [VTEX Pick and Pack](/pt/docs/tutorials/vtex-pick-and-pack)
+* [VTEX Pick and Pack: FAQ](/pt/docs/tutorials/vtex-pick-and-pack-faq)
+* [VTEX Pick and Pack: Configurações](/pt/docs/tutorials/vtex-pick-and-pack-configuracoes)
 

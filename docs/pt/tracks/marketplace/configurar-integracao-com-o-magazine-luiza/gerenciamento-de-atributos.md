@@ -17,13 +17,13 @@ order: 5
 
 Após realizar as configurações iniciais da integração, é possível enviar os produtos para o catálogo do Magazine Luiza, além de definir quais atributos de cada categoria serão exibidos nos anúncios no marketplace.  
 
-> ⚠️ Para enviar produtos ao marketplace, o seller deve mapear as [categorias](/pt/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) e [atributos dos produtos](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP), além de configurar [estoque](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e [preço](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/) de cada produto.  
+> ⚠️ Para enviar produtos ao marketplace, o seller deve mapear as [categorias](/pt/docs/tutorials/o-que-e-uma-categoria) e [atributos dos produtos](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP), além de configurar [estoque](/pt/docs/tutorials/estoque) e [preço](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/) de cada produto.  
 
 ![Gerenciamento de atributos Magalu](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/configurar-integracao-com-o-magazine-luiza/gerenciamento-de-atributos_1.gif)
 
 A página de **Gerenciamento de Atributos,** pode ser acessada no Admin VTEX em **Marketplace > Magazine Luiza > Gerenciamento de Atributos.**   
 Ao acessar a página, é exibida uma lista com as categorias previamente mapeadas pelo seller em sua loja VTEX. No topo da página, há uma barra de busca que pode ser utilizada para pesquisar categorias pelo nome.  
-Em cada categoria listada, é possível habilitar <i class="fas fa-toggle-on" aria-hidden="true"></i> ou desabilitar <i class="fas fa-toggle-off" aria-hidden="true"></i> os atributos de [produtos](/pt/tutorial/o-que-e-um-produto--2zrB2gFCHyQokCKKE8kuAw) e [SKUs](/pt/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u)  que serão enviados ao Magazine Luiza.  
+Em cada categoria listada, é possível habilitar <i class="fas fa-toggle-on" aria-hidden="true"></i> ou desabilitar <i class="fas fa-toggle-off" aria-hidden="true"></i> os atributos de [produtos](/pt/docs/tutorials/o-que-e-um-produto) e [SKUs](/pt/docs/tutorials/o-que-e-um-sku)  que serão enviados ao Magazine Luiza.  
 
 Um produto pode ser integrado no Magazine Luiza mesmo que seus atributos não sejam enviados ao marketplace. Entretanto, a quantidade de atributos cadastrados contribui para o melhor posicionamento do produto no _ranking_ do marketplace. 
 

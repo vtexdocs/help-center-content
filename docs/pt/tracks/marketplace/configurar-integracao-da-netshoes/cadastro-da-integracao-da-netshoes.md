@@ -44,12 +44,12 @@ order: 5
 
    * **Estoque mínimo (se o saldo do SKU estiver igual ou abaixo do valor configurado, será enviado saldo 0 para o marketplace)*:** determina o valor mínimo de estoque de segurança. Se a quantidade de itens de um produto em estoque estiver abaixo do valor escolhido, seu anúncio é pausado para evitar que sejam feitas vendas sem estoque durante o tempo de atualização da Netshoes pela VTEX. O valor de estoque mínimo é aplicado a todos os produtos, portanto verifique se algum produto deixaria de ser anunciado devido ao seu estoque inicial.
 
-   * **Enviar Kit*:** ao escolher _Não_, SKUs [cadastrados como kit](/pt/tutorial/cadastrando-kit--tutorials_215) não são enviados para a Netshoes. Ao habilitar _Sim_, todos os itens da sua política comercial são enviados para o marketplace, sem filtrar SKUs cadastrados como kit. Mudanças na configuração do conector podem ser feitas a qualquer momento, sendo que isso não afeta SKUs que já tenham sido enviados. Por exemplo, se você mudasse sua configuração de _Sim_ para _Não_, SKUs enviados anteriormente para a Netshoes não seriam removidos ou sofreriam qualquer alteração.
+   * **Enviar Kit*:** ao escolher _Não_, SKUs [cadastrados como kit](/pt/docs/tutorials/cadastrar-kit) não são enviados para a Netshoes. Ao habilitar _Sim_, todos os itens da sua política comercial são enviados para o marketplace, sem filtrar SKUs cadastrados como kit. Mudanças na configuração do conector podem ser feitas a qualquer momento, sendo que isso não afeta SKUs que já tenham sido enviados. Por exemplo, se você mudasse sua configuração de _Sim_ para _Não_, SKUs enviados anteriormente para a Netshoes não seriam removidos ou sofreriam qualquer alteração.
 
   > ℹ️ Com a opção *Não* ativada, tentativas de envio para a Netshoes de SKUs cadastrados como kit resultarão no seguinte aviso: *O conector está configurado para não enviar SKUs do tipo Kit*. Esta mensagem pode ser visualizada no Admin, no módulo **MARKETPLACE > Integrações > Produtos,** ao se clicar sobre o SKU. 
 
    * **Emails de notificação de erro de pedido:** adicione os endereços eletrônicos por meio dos quais você gostaria de ser notificado em caso de erro de integração de um pedido. Não há um número limite para esses emails.
-   * **Mapeamento de Campos Customizados (Nome e descrição):**  Para utilizar esse mapeamento é necessário criar um campo customizado. Para saber como criar campos customizados, acesse a documentação [Cadastrar especificações ou campos de produto](/pt/tutorial/criando-um-campo-de-produto--tutorials_106).  
+   * **Mapeamento de Campos Customizados (Nome e descrição):**  Para utilizar esse mapeamento é necessário criar um campo customizado. Para saber como criar campos customizados, acesse a documentação [Cadastrar especificações ou campos de produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto).  
 
 Para o mapeamento funcionar, é necessário o seller seguir os seguintes passos:  
 

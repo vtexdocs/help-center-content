@@ -26,11 +26,11 @@ Neste artigo iremos abordar os seguintes tipos de agendamentos:
 
 ## Agendar preços
 
-Para agendar os preços fixos da sua loja para um evento específico, siga os passos descritos no artigo [Agendar preços](/pt/tutorial/agendar-preco-no-pricing-v2--4vVha6TGzYkguWuMOqCcCk). 
+Para agendar os preços fixos da sua loja para um evento específico, siga os passos descritos no artigo [Agendar preços](/pt/docs/tutorials/agendar-preco). 
 
 ## Agendar promoções
 
-O agendamento de promoção é feito durante a sua criação. É possível agendar todos os tipos de promoção da VTEX - [Regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#), [Compre Junto](/pt/tutorial/compre-junto--tutorials_323), [Leve Mais por Menos](/pt/tutorial/leve-mais-por-menos--tutorials_325), [Desconto Progressivo](/pt/tutorial/desconto-progressivo--tutorials_324), [Compre e Ganhe](/pt/tutorial/compre-e-ganhe--tutorials_322) e [Promoção de Campanha](/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume). 
+O agendamento de promoção é feito durante a sua criação. É possível agendar todos os tipos de promoção da VTEX - [Regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#), [Compre Junto](/pt/docs/tutorials/compre-junto), [Leve Mais por Menos](/pt/docs/tutorials/leve-mais-por-menos), [Desconto Progressivo](/pt/docs/tutorials/desconto-progressivo), [Compre e Ganhe](/pt/docs/tutorials/compre-e-ganhe) e [Promoção de Campanha](/pt/docs/tutorials/promocao-de-campanha). 
 
 Para agendar uma promoção, siga os passos abaixo:
 
@@ -39,10 +39,10 @@ Para agendar uma promoção, siga os passos abaixo:
 3. Clique no botão `Nova Promoção`.
 4. Clique na opção do tipo de promoção que deseja criar.
 5. Preencha o campo **Validade**, na seção **Quais os dados gerais desta promoção?**, com as datas e horas desejadas para o agendamento da promoção. Lembrando que para realizar o agendamento a data e hora devem ser futuras às data e hora de criação da promoção.
-6. Preencha os [restantes campos da promoção](/pt/tutorial/promocao-regular--tutorials_327) segundo sua estratégia.
+6. Preencha os [restantes campos da promoção](/pt/docs/tutorials/promocao-regular-pt) segundo sua estratégia.
 7. Clique em `Salvar` para finalizar.
 
-Veja o artigo [Exemplos de promoção](/pt/tutorial/exemplos-de-promocao--5A8UTc7knvAscxo7e7rMFD) com alguns exemplos de promoções que podem ser configuradas na VTEX.
+Veja o artigo [Exemplos de promoção](/pt/docs/tutorials/exemplos-de-promocao) com alguns exemplos de promoções que podem ser configuradas na VTEX.
 
 ## Agendar taxas
 

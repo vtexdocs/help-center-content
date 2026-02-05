@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'VTEX Shield agora oferece Certificados SSL customizados e mTLS, ampliando o conjunto de recursos avançados de segurança.'
 ---
 
-O [VTEX Shield](/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh) é um produto adicional que oferece camadas personalizáveis de segurança para a sua loja, além dos padrões de segurança garantidos pelas [certificações e práticas de segurança](https://vtex.com/br-pt/security/security-practices/) existentes na VTEX.
+O [VTEX Shield](/pt/docs/tutorials/vtex-shield) é um produto adicional que oferece camadas personalizáveis de segurança para a sua loja, além dos padrões de segurança garantidos pelas [certificações e práticas de segurança](https://vtex.com/br-pt/security/security-practices/) existentes na VTEX.
 
 Ampliamos os recursos avançados de segurança oferecidos pelo VTEX Shield. Agora oferecemos a possibilidade de contratar duas novas funcionalidades:
 
@@ -27,15 +27,15 @@ Essas novidades aumentam o controle sobre a comunicação entre sistemas, atende
 
 ## O que mudou?
 
-O VTEX Shield já oferecia a possibilidade de contratar o [Web Application Firewall (WAF)](/pt/tutorial/web-application-firewall-waf--6BZYLlU03ws72iqIFF6jdn), o [Security Monitor](/pt/tutorial/security-monitor--5LOVNLrrtmgSj99pM1NS4x) e o [Data Protection Plus](/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh#data-protection-plus) como camadas adicionais de segurança. Agora, é possível selecionar também Certificados SSL customizados e Mutual Transport Layer Security (mTLS), descritos a seguir.
+O VTEX Shield já oferecia a possibilidade de contratar o [Web Application Firewall (WAF)](/pt/docs/tutorials/web-application-firewall-waf), o [Security Monitor](/pt/docs/tutorials/security-monitor) e o [Data Protection Plus](/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh#data-protection-plus) como camadas adicionais de segurança. Agora, é possível selecionar também Certificados SSL customizados e Mutual Transport Layer Security (mTLS), descritos a seguir.
 
 ### Certificados SSL customizados
 
-Por padrão, a VTEX utiliza [certificados SSL](/pt/tutorial/certificado-de-seguranca-ssl--tutorials_1308) da autoridade [Let's Encrypt](https://letsencrypt.org/). Porém, algumas lojas precisam manter um controle direto sobre certificados digitais para atender requisitos específicos de compliance ou segurança.
+Por padrão, a VTEX utiliza [certificados SSL](/pt/docs/tutorials/certificado-de-seguranca-ssl) da autoridade [Let's Encrypt](https://letsencrypt.org/). Porém, algumas lojas precisam manter um controle direto sobre certificados digitais para atender requisitos específicos de compliance ou segurança.
 
 Com os certificados SSL customizados, lojas com requisitos específicos de segurança ou compliance podem instalar e gerenciar seus próprios certificados personalizados diretamente pelo Admin VTEX.
 
-Saiba mais em [Certificados SSL customizados](/pt/tutorial/certificados-ssl-customizados--1hoaDEbU50PDZSe6AYep9q).
+Saiba mais em [Certificados SSL customizados](/pt/docs/tutorials/certificados-ssl-customizados).
 
 ### Mutual Transport Layer Security (mTLS)
 
@@ -43,7 +43,7 @@ O mTLS oferece proteção reforçada nas integrações entre a VTEX e sistemas e
 
 Diferente do protocolo TLS tradicional, em que apenas o servidor comprova sua identidade, o mTLS garante autenticação bilateral, pois exige que [tanto o cliente quanto o servidor apresentem certificados válidos](/pt/tutorial/mutual-transport-layer-security-mtls--6YR3SoynJMfeEKGlY1Cqlo#arquitetura-cliente-servidor) antes da troca de dados. Essa prática reduz o risco de conexões maliciosas ou não autorizadas.
 
-Saiba mais em [Mutual Transport Layer Security (mTLS)](/pt/tutorial/mutual-transport-layer-security-mtls--6YR3SoynJMfeEKGlY1Cqlo).
+Saiba mais em [Mutual Transport Layer Security (mTLS)](/pt/docs/tutorials/mutual-transport-layer-security-mtls).
 
 ## Por que fizemos essa mudança?
 

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-O módulo de Promoções define qual promoção será aplicada em uma compra. Da mesma forma, o [Checkout](/pt/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) seleciona qual seller irá realizar o fulfillment do pedido. Essa lógica é chamada de concorrência de promoções.
+O módulo de Promoções define qual promoção será aplicada em uma compra. Da mesma forma, o [Checkout](/pt/docs/tutorials/checkout-vtex-visao-geral) seleciona qual seller irá realizar o fulfillment do pedido. Essa lógica é chamada de concorrência de promoções.
 
 A concorrência de promoções ocorre quando:
 
@@ -35,9 +35,9 @@ Para que você entenda como funciona a seleção da promoção que será aplicad
 Os efeitos de promoções são relacionados ao benefício que a promoção oferece. Existem quatro tipos:
 
 - **Desconto no preço**: são as promoções que aplicam um desconto percentual ou nominal sobre o valor do produto. Aqui, estão incluídos alguns descontos da [promoção regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) e qualquer outra mecânica que incida sobre o preço de um item.  
-- **Desconto no frete**: são as [promoções com desconto no frete](/pt/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW).  
+- **Desconto no frete**: são as [promoções com desconto no frete](/pt/docs/tutorials/configurar-promocoes-de-frete).  
 - **Brinde**: são as promoções que concedem um brinde ao cliente.  
-- **Fórmula**: são as promoções com tipo de desconto nominal baseado em [fórmula](/pt/tutorial/promocao-regular-com-desconto-nominal-baseado-em-formula--2Pwrq6THyGViNedQG381jV), que é uma das opções da promoção regular.
+- **Fórmula**: são as promoções com tipo de desconto nominal baseado em [fórmula](/pt/docs/tutorials/promocao-regular-com-desconto-nominal-baseado-em-formula), que é uma das opções da promoção regular.
 
 ## Ordenação de aplicação das promoções
 
@@ -99,7 +99,7 @@ A sequência de aplicação é:
 ![promocao3 PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/como-funciona-a-concorrencia-de-promocoes_1.png)
 
 <div style="background-color: #FFF8E1; border-left: 4px solid #FFC107; padding: 12px;">
-  Pedidos de origem [**Marketplace**](/pt/tutorial/configurar-promocao-para-marketplace--tutorials_406) e **Fulfillment** não reconhecem acúmulo de promoção, 
+  Pedidos de origem [**Marketplace**](/pt/docs/tutorials/configurar-promocao-para-marketplace) e **Fulfillment** não reconhecem acúmulo de promoção, 
   pois o uso de promoções em Marketplaces VTEX ou externos é restrito a alguns tipos específicos.
 </div>
 
@@ -116,7 +116,7 @@ Existem duas estratégias de concorrência:
 - [Concorrência por cenário](#concorrencia-por-cenario)  
 - [Concorrência por item](#concorrencia-por-item)
 
-> ℹ️ Por padrão, todas as contas seguem a estratégia de concorrência por cenário. Caso a estratégia de concorrência por item atenda melhor suas necessidades de negócio, [abra um chamado com nosso time de suporte](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) e solicite a mudança.
+> ℹ️ Por padrão, todas as contas seguem a estratégia de concorrência por cenário. Caso a estratégia de concorrência por item atenda melhor suas necessidades de negócio, [abra um chamado com nosso time de suporte](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex) e solicite a mudança.
 
 ### Concorrência por cenário
 
@@ -274,7 +274,7 @@ A VTEX aplica a estratégia que oferece o maior desconto. Como no cenário 1 o v
 
 ### Concorrência por item
 
-O módulo de Promoções pode ser configurado para aplicar o maior desconto em cada item individual do carrinho, em vez de combinar promoções no nível do carrinho. A loja define essa configuração com base em sua estratégia de negócio. Caso deseje usar esse modelo e ele ainda não estiver habilitado, [abra um chamado](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) com o time de suporte para solicitar a mudança.
+O módulo de Promoções pode ser configurado para aplicar o maior desconto em cada item individual do carrinho, em vez de combinar promoções no nível do carrinho. A loja define essa configuração com base em sua estratégia de negócio. Caso deseje usar esse modelo e ele ainda não estiver habilitado, [abra um chamado](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex) com o time de suporte para solicitar a mudança.
 
 A concorrência por item funcionaria assim:
 

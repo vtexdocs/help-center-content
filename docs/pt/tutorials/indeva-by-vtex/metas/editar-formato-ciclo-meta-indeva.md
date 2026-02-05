@@ -17,7 +17,7 @@ subcategoryId: 2qRY1ABm4FFJywlXZeCFa7
 
 
 No cadastro de metas, existem dois formatos de distribuição: **Meta por mês** e **Meta por período**.  
-Para entender a diferença entre os formatos, consulte o artigo [Controle do ciclo de meta](/pt/tutorial/controle-do-ciclo-de-meta-indeva--7ybvRb3wRKbuo8WRZp8XKU).
+Para entender a diferença entre os formatos, consulte o artigo [Controle do ciclo de meta](/pt/docs/tutorials/controle-do-ciclo-de-meta-indeva).
 
 
 Para alterar o formato da meta após o cadastro, siga as etapas abaixo:

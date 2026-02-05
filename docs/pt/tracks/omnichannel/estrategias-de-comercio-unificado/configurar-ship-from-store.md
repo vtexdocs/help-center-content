@@ -50,11 +50,11 @@ Vamos configurar uma transportadora para fazer entregas a partir do estoque loca
 
 1. No Admin VTEX da conta franquia, acesse **Envio** > **Estratégia de envio**, ou digite **Estratégia de envio** na barra de busca no topo da página.
 2. Clique no botão `Criar política de envio`.
-3. Preencha os dados da transportadora, conforme descrito no artigo [Cadastrar transportadora](/pt/tutorial/cadastrar-transportadora--tutorials_140).
+3. Preencha os dados da transportadora, conforme descrito no artigo [Cadastrar transportadora](/pt/docs/tutorials/politica-de-envio).
 
 #### Conectar transportadoras ao estoque das lojas físicas
 
 Agora você precisa informar ao sistema da VTEX qual é o estoque do qual os produtos sairão para serem entregues pela transportadora cadastrada no passo anterior.
 
-1. Crie uma doca, conforme descrito [neste artigo](/pt/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW). No campo __Políticas de envio associadas__, adicione a transportadora que você criou na seção anterior deste guia.
-2. Crie um estoque, seguindo os passos do artigo [Cadastrar estoque](/pt/tutorial/gerenciar-estoque--tutorials_137). No campo __Origem__, adicione a doca criada no passo anterior.
+1. Crie uma doca, conforme descrito [neste artigo](/pt/docs/tutorials/gerenciar-doca). No campo __Políticas de envio associadas__, adicione a transportadora que você criou na seção anterior deste guia.
+2. Crie um estoque, seguindo os passos do artigo [Cadastrar estoque](/pt/docs/tutorials/gerenciar-estoque). No campo __Origem__, adicione a doca criada no passo anterior.

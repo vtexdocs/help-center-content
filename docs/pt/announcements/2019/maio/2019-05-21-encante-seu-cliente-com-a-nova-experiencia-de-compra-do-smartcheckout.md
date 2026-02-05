@@ -55,4 +55,4 @@ Além disso, o Checkout v6 também conta com um **simulador de frete** na etapa 
 
 <br>
 
-Para saber mais, acesse nosso artigo sobre como [ativar o Checkout v6](/pt/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH) na sua loja.
+Para saber mais, acesse nosso artigo sobre como [ativar o Checkout v6](/pt/docs/tutorials/ativar-o-checkout-v6) na sua loja.

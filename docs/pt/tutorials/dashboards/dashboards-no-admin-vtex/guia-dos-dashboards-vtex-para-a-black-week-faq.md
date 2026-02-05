@@ -74,7 +74,7 @@ Para visualizar os produtos mais vendidos, no quadro de **Métricas,** clique no
 
 ## Como acompanhar meus dados de ecommerce além do dia de hoje?
 
-Para um acompanhamento diário da operação do seu ecommerce, o [dashboard de Performance de vendas da VTEX](/pt/tutorial/performance-de-vendas--3DMube0sEsK9vPcRYGas72) é a ferramenta indicada. Sua taxa de atualização é de cerca de 90 minutos e ele fornece um histórico de dados mais extenso. Veja nos pontos abaixo como maximizar seu uso.  
+Para um acompanhamento diário da operação do seu ecommerce, o [dashboard de Performance de vendas da VTEX](/pt/docs/tutorials/performance-de-vendas) é a ferramenta indicada. Sua taxa de atualização é de cerca de 90 minutos e ele fornece um histórico de dados mais extenso. Veja nos pontos abaixo como maximizar seu uso.  
 
 ### Filtros
 - **Data**  

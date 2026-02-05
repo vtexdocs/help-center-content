@@ -27,8 +27,8 @@ A partir de 15 de outubro de 2023, não será mais possível acessar o [painel I
 ## Por que estamos fazendo esta mudança?
 
 As informações disponibilizadas no painel **Insights** também estão disponíveis em outros painéis:
-- [Visão geral da loja](/pt/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ)
-- [Visão geral da loja (Beta)](/pt/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46)
+- [Visão geral da loja](/pt/docs/tutorials/visao-geral-da-loja)
+- [Visão geral da loja (Beta)](/pt/docs/tutorials/visao-geral-da-loja-beta)
 
 Portanto, esta descontinuação visa diminuir a redundância na plataforma e que, futuramente, possamos focar em manter e aprimorar uma única experiência. Atualmente, os painéis **Visão geral da loja** já contam as mesmas informações que o painel **Insights**, mas com dados mais precisos e melhor visualização.
 
@@ -36,4 +36,4 @@ Portanto, esta descontinuação visa diminuir a redundância na plataforma e que
 
 A partir de 15 de outubro de 2023, a mudança acontecerá de forma automática para todas as lojas VTEX sem nenhuma ação necessária da sua parte.
 
-Caso deseje acompanhar as métricas de vendas da sua loja, confira a [visão geral da loja](/pt/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ) ou a [nova versão da visão geral](/pt/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) (Beta), que contam com as mesmas informações do painel **Insights**, mas com dados mais precisos e melhor visualização.
+Caso deseje acompanhar as métricas de vendas da sua loja, confira a [visão geral da loja](/pt/docs/tutorials/visao-geral-da-loja) ou a [nova versão da visão geral](/pt/docs/tutorials/visao-geral-da-loja-beta) (Beta), que contam com as mesmas informações do painel **Insights**, mas com dados mais precisos e melhor visualização.

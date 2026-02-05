@@ -31,7 +31,7 @@ Você pode atualizar os dados de rastreamento ativamente utilizando o endpoint [
 
 O envio destes dados pode ser feito por qualquer sistema externo que esteja acompanhando o status da entrega do pacote, seja um ERP, um middleware ou a própria transportadora.
 
-Também é possível [inserir a variável](/pt/tutorial/incluir-variaveis-do-pedido-no-template-de-e-mail-transacional--694Bn8eOeAWYQeaWGaOISe#outras-variaveis-de-e-mails-de-pedido) `trackingURL` em alguns [templates do Message Center](/pt/tutorial/lista-de-templates-de-e-mail-no-message-center--3g2S2kqBOoSGcCaqMYK2my), como **Order invoiced** e **Order shipped**, e o cliente será capaz de acompanhar o rastreamento pelo link.
+Também é possível [inserir a variável](/pt/tutorial/incluir-variaveis-do-pedido-no-template-de-e-mail-transacional--694Bn8eOeAWYQeaWGaOISe#outras-variaveis-de-e-mails-de-pedido) `trackingURL` em alguns [templates do Message Center](/pt/docs/tutorials/templates-de-emails-transacionais), como **Order invoiced** e **Order shipped**, e o cliente será capaz de acompanhar o rastreamento pelo link.
 
 ## Integração com os Correios
 

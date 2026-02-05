@@ -17,7 +17,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 Disponibilizar aos consumidores pontos de retirada fazem parte do escopo de [estratégias de comércio unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) de uma loja e se apresenta como uma importante evolução na logística de entregas e gestão de estoque. 
 
-Neste artigo explicamos como criar [pontos de retirada](/pt/tutorial/configurar-pontos-de-retirada-pickup-points--2R5ClQiwe4KoSQgsuiOw4E) na [B2W](/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk) a partir dos que já estão cadastrados nas [contas-franquias](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#o-que-e-uma-conta-franquia).
+Neste artigo explicamos como criar [pontos de retirada](/pt/docs/tutorials/cadastro-de-pontos-de-retirada) na [B2W](/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk) a partir dos que já estão cadastrados nas [contas-franquias](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#o-que-e-uma-conta-franquia).
 
 Existem duas modalidades de retirada em loja: **Pickup** e **Ship Store**. Nessa documentação, vamos focar somente na modalidade Pickup, conhecida na B2W como [Pegue na loja](https://blog.b2wmarketplace.com.br/2019/07/18/pegue-na-loja/). Nessa modalidade o cliente retira o pedido da loja no ponto de retirada pessoalmente ou com um representante devidamente identificado.
 
@@ -41,7 +41,7 @@ No cadastro do endereço, você deve inserir o CEP corretamente para que o clien
 
 ## Configuração do ponto de retirada
 
-Com o ponto de retirada castrado, é preciso configurá-lo. Leia o artigo “[Configurar pontos de retirada](/pt/tutorial/configurar-pontos-de-retirada-pickup-points)” para mais informações. O ponto de retirada deve estar associado a uma [política de envio](/pt/tutorial/o-que-e-uma-transportadora--7u9duMD5UQa2QQwukAWMcE?&utm_source=autocomplete), que esteja vinculada à [doca](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj) que faça parte da [política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) utilizada na integração da B2W. 
+Com o ponto de retirada castrado, é preciso configurá-lo. Leia o artigo “[Configurar pontos de retirada](/pt/tutorial/configurar-pontos-de-retirada-pickup-points)” para mais informações. O ponto de retirada deve estar associado a uma [política de envio](/pt/tutorial/o-que-e-uma-transportadora--7u9duMD5UQa2QQwukAWMcE?&utm_source=autocomplete), que esteja vinculada à [doca](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj) que faça parte da [política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) utilizada na integração da B2W. 
 
 Quando as configurações forem ativadas, os pontos de retirada cadastrados e que pertencem à política comercial configurada serão automaticamente enviados para B2W.
 

@@ -43,7 +43,7 @@ Uma conta franquia não possui um site próprio: os consumidores navegam diretam
 
 ## Relação entre conta franquia e Seller White Label
 
-Toda conta franquia atua automaticamente como um Seller White Label da conta principal. Isso significa que, quando o consumidor adiciona produtos no carrinho e simula o frete na loja da conta principal, o sistema seleciona automaticamente o Seller White Label que possui aquele produto em estoque e apresenta as formas de entrega dos sellers que oferecem as melhores condições. Para saber mais sobre o algoritmo de seleção de Sellers White Label, leia o nosso [artigo](/pt/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa) sobre esse assunto.
+Toda conta franquia atua automaticamente como um Seller White Label da conta principal. Isso significa que, quando o consumidor adiciona produtos no carrinho e simula o frete na loja da conta principal, o sistema seleciona automaticamente o Seller White Label que possui aquele produto em estoque e apresenta as formas de entrega dos sellers que oferecem as melhores condições. Para saber mais sobre o algoritmo de seleção de Sellers White Label, leia o nosso [artigo](/pt/docs/tutorials/selecao-de-sellers-white-label) sobre esse assunto.
 
 Os clientes finais não escolhem e não têm visibilidade da existência dos Sellers White Label em nenhum momento do processo. Nessa lógica, a relação dos consumidores é com a marca (conta principal) e não com cada loja física (conta franquia).
 
@@ -88,7 +88,7 @@ Uma vez que você tenha [alterado essa configuração](#configurar-meios-de-paga
 
 #### Configurar meios de pagamentos próprios da conta franquia
 
-A VTEX oferece soluções de split de pagamentos que podem tornar automática a distribuição de recebíveis para sellers. Recomendamos a leitura do artigo [Split de pagamento](/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) para mais informações.
+A VTEX oferece soluções de split de pagamentos que podem tornar automática a distribuição de recebíveis para sellers. Recomendamos a leitura do artigo [Split de pagamento](/pt/docs/tutorials/split-de-pagamento) para mais informações.
 
 > ⚠️ Caso você deseje implementar o VTEX Sales App,é necessario que as lojas físicas utilizem os meios de pagamento da conta principal.
 
@@ -107,5 +107,5 @@ Caso a quantidade de contas seja superior a dez contas, favor incluí-las em for
 
 ## Saiba mais
 
-* [Multilevel Omnichannel Inventory](/pt/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4)
-* [Escolher entre conta padrão, conta franquia ou Seller Portal](/pt/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78)
+* [Multilevel Omnichannel Inventory](/pt/docs/tutorials/multilevel-omnichannel-inventory)
+* [Escolher entre conta padrão, conta franquia ou Seller Portal](/pt/docs/tutorials/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal)

@@ -29,7 +29,7 @@ Depois de concluir a [integração](/pt/tracks/configurar-integracao-do-mercado-
 
 ## 1. Pedidos
 
-Todos os [pedidos](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE) realizados no Mercado Livre serão enviados para a plataforma VTEX, cada pedido com um status próprio conforme tabela abaixo. Para saber mais sobre os status dos pedidos na VTEX, leia o artigo [Fluxo e status de pedido](/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
+Todos os [pedidos](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE) realizados no Mercado Livre serão enviados para a plataforma VTEX, cada pedido com um status próprio conforme tabela abaixo. Para saber mais sobre os status dos pedidos na VTEX, leia o artigo [Fluxo e status de pedido](/pt/docs/tutorials/fluxo-e-status-de-pedidos).
 
 | Status na plataforma VTEX | Resposta do Mercado Livre | Descrição da resposta do Mercado Livre |
 | ---------- | ---------- | ---------- |
@@ -41,7 +41,7 @@ Todos os [pedidos](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6
 | Cancelado | Cancelled | Pedidos que foram cancelados |
 | Carência para cancelamento | Window-to-cancel | Status do tempo de cancelamento do cliente. Após a aprovação do pagamento, o cliente tem 30 minutos (definido como padrão nas [Configurações Gerais](/pt/tutorial/configuracoes-gerais/) do módulo de Gerenciamento de Pedidos) para realizar seu cancelamento. Nesse período, o estorno do pedido é realizado automaticamente |
 
-Você deve possuir um [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) *OMS - Full Access* para poder realizar ações no fluxo dos pedidos. Em cada status do fluxo de pedidos na VTEX, você receberá uma resposta diferente do Mercado Livre. Só quando os pedidos com o status `Paid` são identificados no Mercado Livre, eles são integrados na VTEX.
+Você deve possuir um [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) *OMS - Full Access* para poder realizar ações no fluxo dos pedidos. Em cada status do fluxo de pedidos na VTEX, você receberá uma resposta diferente do Mercado Livre. Só quando os pedidos com o status `Paid` são identificados no Mercado Livre, eles são integrados na VTEX.
 
 O ID do pedido usado no Mercado Livre é diferente do que você vai encontrar na VTEX. Para entender a lógica por trás da correspondência desses IDs, leia o artigo [Como funciona o carrinho com múltiplos itens no Mercado Livre](/pt/tutorial/como-funciona-o-carrinho-com-multiplos-itens-no-mercado-livre).
 
@@ -118,7 +118,7 @@ O nível de  estoque de um produto é enviado pela primeira vez junto com o prim
 
 Para visualizar o estoque dos produtos enviados, acesse no Admin *MARKETPLACE > Integrações > Estoque*. Utilize o campo de busca e procure pelo código do SKU, caso queira encontrar por um produto específico. 
 
-Em caso de dúvida, veja nossa documentação sobre [Erros de falta de estoque na integração com o Mercado Livre](/pt/tutorial/erros-de-integracao-de-estoque-com-o-mercado-livre--3pWA3vRePuGmJ5tquY4fva) caso tenha alguma dúvida.
+Em caso de dúvida, veja nossa documentação sobre [Erros de falta de estoque na integração com o Mercado Livre](/pt/docs/tutorials/erros-de-integracao-de-estoque-com-o-mercado-livre) caso tenha alguma dúvida.
 
 ## 5. Pontos de Retirada
 

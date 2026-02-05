@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Usuários verão apenas os itens do menu lateral que têm permissão para acessar, de acordo com seus perfis de acesso.'
 ---
 
-Os [perfis de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) permitem que as lojas concedam aos usuários acesso apenas a uma seleção de recursos em nossa plataforma. Embora esse recurso fosse suficiente para proteger a integridade e a segurança dos dados da sua conta, qualquer usuário podia ver os itens do menu lateral para seções restritas do Admin. Essas seções não estão mais visíveis. Agora, os usuários conseguem ver apenas os itens liberados para seu perfil de acesso.
+Os [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) permitem que as lojas concedam aos usuários acesso apenas a uma seleção de recursos em nossa plataforma. Embora esse recurso fosse suficiente para proteger a integridade e a segurança dos dados da sua conta, qualquer usuário podia ver os itens do menu lateral para seções restritas do Admin. Essas seções não estão mais visíveis. Agora, os usuários conseguem ver apenas os itens liberados para seu perfil de acesso.
 
 > ℹ️ Essa modificação tem baixo impacto nas operações da loja, uma vez que se trata de uma reorganização do menu de navegação à esquerda, e não de alterações nos perfis de acesso individuais.  Além disso, nenhuma configuração anterior será perdida; se seus usuários já tiverem perfis de acesso e permissões predefinidas, estes serão mantidos.
 
@@ -34,4 +34,4 @@ O objetivo dessa mudança é limitar a visualização de módulos importantes de
 ## O que precisa ser feito?
 Nenhuma ação é necessária. Todos os itens permitidos para o perfil de acesso do usuário serão exibidos automaticamente no menu lateral do Admin.
 
-Caso algum usuário da sua conta não consiga mais ver seções do menu que deveriam estar liberadas para ele, verifique novamente as suas permissões. Saiba mais sobre os [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)  e a [criação de perfis de acesso personalizados](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) nos artigos do nosso Help Center. 
+Caso algum usuário da sua conta não consiga mais ver seções do menu que deveriam estar liberadas para ele, verifique novamente as suas permissões. Saiba mais sobre os [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso)  e a [criação de perfis de acesso personalizados](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) nos artigos do nosso Help Center. 

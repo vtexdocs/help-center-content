@@ -17,14 +17,14 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 
 > ℹ️ O **Lançamentos** está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Esta funcionalidade é válida somente para lojas que usam [FastStore](https://www.faststore.dev/).
 
-O módulo **Lançamentos** permite que você gerencie [lançamentos](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ) de forma a coordenar a criação, planejamento e publicação de alterações na sua loja. Um lançamento significa uma modificação ou um agrupamento de modificações que podem ser publicadas de forma conjunta.
+O módulo **Lançamentos** permite que você gerencie [lançamentos](/pt/docs/tutorials/planner-conceito-de-lancamento-beta) de forma a coordenar a criação, planejamento e publicação de alterações na sua loja. Um lançamento significa uma modificação ou um agrupamento de modificações que podem ser publicadas de forma conjunta.
 
 Pelo **Lançamentos**, você pode visualizar as informações sobre lançamentos, acompanhar os [status de lançamentos](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-lancamentos) e realizar uma série de ações. Este artigo apresenta quais são essas ações e como executá-las.
 
 A funcionalidade pode ser acessada pelo menu de navegação do Admin VTEX **Lançamentos**, no qual existem as seguintes páginas:
 
-* [Calendário](/pt/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xHfIx9C)
-* [Lançamentos](/pt/tutorial/planner-pagina-lancamentos-beta--2p7IiVD6K8i1iRiwHph5sw)
+* [Calendário](/pt/docs/tutorials/planner-pagina-calendario-beta)
+* [Lançamentos](/pt/docs/tutorials/planner-pagina-lancamentos-beta)
 
 Cada página apresenta uma visualização dos lançamentos e permite realizar ações distintas, que vão depender do [status do lançamento](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-lancamentos). As principais ações são:
 
@@ -40,7 +40,7 @@ Cada página apresenta uma visualização dos lançamentos e permite realizar a�
 
 Para criar um lançamento pelo **Lançamentos**, siga os passos abaixo:
 
-1. Na página [Calendário](/pt/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xHfIx9C) ou [Lançamentos](/pt/tutorial/planner-pagina-lancamentos-beta--2p7IiVD6K8i1iRiwHph5sw), clique no botão `Criar lançamento`.
+1. Na página [Calendário](/pt/docs/tutorials/planner-pagina-calendario-beta) ou [Lançamentos](/pt/docs/tutorials/planner-pagina-lancamentos-beta), clique no botão `Criar lançamento`.
 2. Preencha o campo **Nome** com um nome para o lançamento.
 3. Em **Data da publicação**, selecione uma data para publicação do lançamento (opcional).
 4. Em **Horário**, selecione um horário para a publicação (opcional).
@@ -69,7 +69,7 @@ Com relação a definição de datas para publicação, existem três ações po
 
 Para agendar um lançamento no status `Não agendado`, siga os passos abaixo:
 
-1. Em [Lançamentos](/pt/tutorial/planner-pagina-lancamentos-beta--2p7IiVD6K8i1iRiwHph5sw), clique no ícone menu três pontos <i class="fas fa-ellipsis-v"></i> do lançamento desejado.
+1. Em [Lançamentos](/pt/docs/tutorials/planner-pagina-lancamentos-beta), clique no ícone menu três pontos <i class="fas fa-ellipsis-v"></i> do lançamento desejado.
 2. Selecione a opção <i class="fal fa-calendar"></i> `Agendar`.
 3. Em **Data da publicação**, selecione uma data para publicação do lançamento.
 4. Em **Horário**, selecione um horário para a publicação.
@@ -87,7 +87,7 @@ Quando o status do lançamento é `Agendado`, você pode reagendar o lançamento
 
 Para desagendar um lançamento e fazer com que ele passe para o status `Não agendado`, siga os passos abaixo:
 
-1. Em [Lançamentos](/pt/tutorial/planner-pagina-lancamentos-beta--2p7IiVD6K8i1iRiwHph5sw), clique no ícone menu três pontos <i class="fas fa-ellipsis-v"></i> do lançamento desejado.
+1. Em [Lançamentos](/pt/docs/tutorials/planner-pagina-lancamentos-beta), clique no ícone menu três pontos <i class="fas fa-ellipsis-v"></i> do lançamento desejado.
 2. Selecione a opção <i class="fal fa-calendar"></i> `Desagendar`.
 3. Clique no botão `Desagendar`.
 
@@ -101,7 +101,7 @@ Para publicar um lançamento, é preciso que ele esteja em um dos seguintes [sta
 
 Para publicar o lançamento e tornar as modificações visíveis no storefront da sua loja, siga o passo a passo abaixo:
 
-1. Em [Lançamentos](/pt/tutorial/planner-pagina-lancamentos-beta--2p7IiVD6K8i1iRiwHph5sw), clique no ícone menu três pontos <i class="fas fa-ellipsis-v"></i> do lançamento desejado.
+1. Em [Lançamentos](/pt/docs/tutorials/planner-pagina-lancamentos-beta), clique no ícone menu três pontos <i class="fas fa-ellipsis-v"></i> do lançamento desejado.
 2. Clique em <i class="far fa-cloud-upload"></i> `Publicar agora`.
 3. Clique em `Publicar`.
 
@@ -115,7 +115,7 @@ Quando um lançamento no status `Publicado` é excluído, as modificações que 
 
 Para excluir um lançamento, siga o passo a passo abaixo:
 
-1. Em [Lançamentos](/pt/tutorial/planner-pagina-lancamentos-beta--2p7IiVD6K8i1iRiwHph5sw), clique no ícone menu três pontos <i class="fas fa-ellipsis-v"></i> do lançamento desejado.
+1. Em [Lançamentos](/pt/docs/tutorials/planner-pagina-lancamentos-beta), clique no ícone menu três pontos <i class="fas fa-ellipsis-v"></i> do lançamento desejado.
 2. Clique em <i class="far fa-trash-alt"></i> `Excluir`.
 3. Clique novamente em `Excluir`.
 
@@ -123,6 +123,6 @@ Para excluir um lançamento, siga o passo a passo abaixo:
 
 ## Saiba mais
 
-* [Lançamentos: conceito de lançamento](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ)
-* [Lançamentos: página Calendário](/pt/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xHfIx9C)
-* [Lançamentos: página Lançamentos](/pt/tutorial/planner-pagina-lancamentos-beta--2p7IiVD6K8i1iRiwHph5sw)
+* [Lançamentos: conceito de lançamento](/pt/docs/tutorials/planner-conceito-de-lancamento-beta)
+* [Lançamentos: página Calendário](/pt/docs/tutorials/planner-pagina-calendario-beta)
+* [Lançamentos: página Lançamentos](/pt/docs/tutorials/planner-pagina-lancamentos-beta)

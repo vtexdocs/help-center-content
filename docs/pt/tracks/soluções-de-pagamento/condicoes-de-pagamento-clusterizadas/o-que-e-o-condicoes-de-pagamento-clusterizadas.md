@@ -19,4 +19,4 @@ A Clustered Payments Conditions é uma nova funcionalidade do [Customer Credit](
 
 > ⚠️ Atualmente, esta funcionalidade encontra-se em Closed Beta (estágio de testes) e não está disponível para instalação em novas lojas.            
 
-A personalização das regras de prazo e parcelamento acontece por meio de nosso banco de dados - o [Master Data](/pt/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw). 
+A personalização das regras de prazo e parcelamento acontece por meio de nosso banco de dados - o [Master Data](/pt/docs/tutorials/master-data). 

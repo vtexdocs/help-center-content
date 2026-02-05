@@ -30,7 +30,7 @@ This article presents key practices to help you manage your VTEX store efficient
     * [Join the VTEX Community](#join-the-vtex-community)
     * [Learn best practices for VTEX Support requests](#learn-best-practices-for-vtex-support-requests)
 
-> ℹ️ **Partner agencies**Several agencies and implementation partners have been certified by VTEX for demonstrating excellence and reliability in platform projects. Whether you need efficient implementation, customized store architecture, or ongoing infrastructure support, we recommend working with our partner agencies. To explore our partners, visit [vtex.com](http://vtex.com) or the [Partner Portal](https://vtex.com/pt-br/parceiros/parceiros) (available in Portuguese only).
+> ℹ️ **Partner agencies**Several agencies and implementation partners have been certified by VTEX for demonstrating excellence and reliability in platform projects. Whether you need efficient implementation, customized store architecture, or ongoing infrastructure support, we recommend working with our partner agencies. To explore our partners, visit [vtex.com](http://vtex.com) or the [Partner Portal](https://vtex.com/en-us/partners) (available in Portuguese only).
 
 ## Performance and security
 

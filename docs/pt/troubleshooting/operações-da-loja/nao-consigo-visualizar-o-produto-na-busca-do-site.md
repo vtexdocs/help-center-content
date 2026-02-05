@@ -51,7 +51,7 @@ A ausência do produto em um resultado de busca pode ser atribuída ao preenchim
 
 1. No Admin VTEX, acesse **Catálogo > Todos os produtos**.  
 
-   > ⚠️ Lojas que utilizam a página **Produtos e SKUS (Beta)**, devem verificar os campos de cadastro do produto acessando **Catálogo > Produtos e SKUS** no Admin VTEX. Saiba mais em [Produtos e SKUS (Beta)](/pt/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).
+   > ⚠️ Lojas que utilizam a página **Produtos e SKUS (Beta)**, devem verificar os campos de cadastro do produto acessando **Catálogo > Produtos e SKUS** no Admin VTEX. Saiba mais em [Produtos e SKUS (Beta)](/pt/docs/tutorials/produtos-e-skus).
 
 2. Localize o produto desejado e clique em **EDITAR**.  
 

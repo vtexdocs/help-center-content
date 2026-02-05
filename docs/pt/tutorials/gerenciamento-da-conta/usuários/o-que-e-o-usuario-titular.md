@@ -26,7 +26,7 @@ A página de gerenciamento do Titular permite identificar o usuário Titular atu
 Somente o usuário Titular pode realizar as seguintes ações essenciais de manutenção e autorização:
 
 * [Transferir a propriedade da loja](/pt/tutorial/transferencia-de-propriedade-da-loja) para um novo usuário Titular
-* Operações de [manutenção de base (full cleanup)](/pt/tutorial/database-maintenance-full-cleanup--34P9LGs7BCIQK6acQom802), incluindo:
+* Operações de [manutenção de base (full cleanup)](/pt/docs/tutorials/manutencao-de-base-full-cleanup), incluindo:
     * Recadastrar preços no SmartCheckout
     * Apagar produtos do indexador
     * Apagar produtos/SKUs e itens relacionados
@@ -37,7 +37,7 @@ Somente o usuário Titular pode realizar as seguintes ações essenciais de manu
     * [Facebook](/pt/tracks/facebook-integration--7h8KvIC4DbRRc8VlyJ8PFc/5OP69kHWKca01wLH0w10jX)
     * [Google Shopping](/pt/tracks/integrating-with-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/44hAYlKYSRZMTNY3ELxeQ2)
     * [Mercado Livre](/pt/tracks/mercado-libre-integration-set-up--2YfvI3Jxe0CGIKoWIGQEIq/4leBEAd22Icm46kGeiGgak)
-* [Aprovar solicitações de cancelamento de pedidos](/pt/tutorial/how-does-cancellation-work-when-requested-by-the-customer--3wEI6DUNtecooG2Ki4Akqo)
+* [Aprovar solicitações de cancelamento de pedidos](/pt/docs/tutorials/cancelamento-de-pedido-por-parte-do-cliente)
 
 Além disso, quando a VTEX precisa comunicar informações sensíveis à loja, como mudanças em perfis de acesso, tal comunicação é feita direta e exclusivamente com o usuário Titular.
 

@@ -16,12 +16,12 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
 O **Amazon Listing** é a funcionalidade utilizada pelo seller para cadastrar produtos através da interface do Admin VTEX e disponibilizá-los em um anúncio na Amazon. Ao finalizar a [integração com a Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan), é necessário disponibilizar os produtos de sua loja, para serem anunciados no marketplace. Para disponibilizar os produtos, existem duas possibilidades:
-- Se o produto já existe na Amazon, o seller deve seguir as instruções do [Tutorial Match de anúncios Amazon](/pt/tutorial/match-de-anuncios-amazon--7fRfoP69kYgg8znImMhyQ0) para vincular seu produto a um anúncio na Amazon.  
+- Se o produto já existe na Amazon, o seller deve seguir as instruções do [Tutorial Match de anúncios Amazon](/pt/docs/tutorials/match-de-anuncios-amazon) para vincular seu produto a um anúncio na Amazon.  
 - Se o produto ainda não existe na Amazon, o seller deve seguir as instruções deste tutorial para cadastrar seu produto e criar um novo anúncio na Amazon. 
 
 ![overview amazon listing](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/amazon-listing_1.gif)
 
-> ℹ️ Todos os produtos precisam ter [Estoque](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e [Preço](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de serem enviados ao marketplace.  
+> ℹ️ Todos os produtos precisam ter [Estoque](/pt/docs/tutorials/estoque) e [Preço](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de serem enviados ao marketplace.  
 
 ## Conhecendo a página
 

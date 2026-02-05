@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Ao criar uma [promoção regular](/pt/tutorial/promocao-regular--tutorials_327) em **Promoções** > **Promoções** > **Criar Promoção** > **Promoção Regular**, uma das opções disponíveis no momento de escolher o tipo e o valor do desconto é o __Desconto nominal baseado em fórmula__.
+Ao criar uma [promoção regular](/pt/docs/tutorials/promocao-regular-pt) em **Promoções** > **Promoções** > **Criar Promoção** > **Promoção Regular**, uma das opções disponíveis no momento de escolher o tipo e o valor do desconto é o __Desconto nominal baseado em fórmula__.
 
 Selecionando esse tipo de desconto, você precisa criar uma fórmula para definir qual será o cálculo do desconto aplicado. Neste artigo, explicamos como construir uma fórmula para atender aos objetivos da sua promoção.
 

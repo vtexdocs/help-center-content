@@ -42,8 +42,8 @@ O convite é feito por meio de um link enviado por email ao seller, que contém 
 5. Selecione o tipo de seller entre `Comum` e `Whitelabel`.  
 6. Marque a flag **Compartilhar catálogo do marketplace**, se quiser que o seller importe seus produtos e árvore de categorias.   
 7. Se você marcou a flag do passo anterior, determine como vai compartilhar seu catálogo com o seller:
-    - **Política comercial:** definindo uma [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) associada aos produtos e árvore de categorias que deseja compartilhar com o seller.
-    - **Coleção:** definindo uma [coleção](/pt/tutorial/tipos-de-colecao--5tKnhh8tMGIrVL7Fqirq7n) com os produtos e árvore de categorias a serem compartilhados com o seller.
+    - **Política comercial:** definindo uma [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) associada aos produtos e árvore de categorias que deseja compartilhar com o seller.
+    - **Coleção:** definindo uma [coleção](/pt/docs/tutorials/tipos-de-colecao) com os produtos e árvore de categorias a serem compartilhados com o seller.
 8. Clique em `Enviar Convite`.   
 
 O seller receberá por email o convite para vender em seu marketplace. 

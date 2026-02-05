@@ -97,5 +97,5 @@ Se deseja adicionar um novo endereço de entrega relacionado a esse centro de cu
 </ol>
 
 #### Campos personalizados
-Os campos personalizados permitem que os usuários adicionem informações relevantes para a empresa. Para mais informações, acesse [Campos personalizados no cadastro de organização](/pt/tutorial/campos-personalizados-no-cadastro-de-organizacao--2MqEVusOvcbqagNwOuHA7f).
+Os campos personalizados permitem que os usuários adicionem informações relevantes para a empresa. Para mais informações, acesse [Campos personalizados no cadastro de organização](/pt/docs/tutorials/campos-personalizados-no-cadastro-de-organizacao).
 
