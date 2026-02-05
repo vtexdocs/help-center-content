@@ -35,15 +35,15 @@ La plataforma VTEX tiene un gateway propio con certificación [PCI](/es/tutorial
 
 Un adquirente (también llamado de acreditador) __es una empresa especializada en procesar pagos__. A través de su red de socios acreditados (o red de adquirencia), permite que una tienda ofrezca diversas condiciones de pago a sus clientes.
 
-El adquirente recibe la información del pago, la procesa y la transmite a la [bandera](/es/tutorial/que-es-una-bandera-de-tarjeta-de-credito?locale=es) (cuando el medio de pago es tarjeta de crédito) y al [banco emisor](/es/tutorial/que-es-el-banco-emisor?locale=es). Son ejemplos de adquirente empresas como: Rede, Cielo, Elavon, GetNet y Stone. 
+El adquirente recibe la información del pago, la procesa y la transmite a la [bandera](/es/tutorial/que-es-una-bandera-de-tarjeta-de-credito) (cuando el medio de pago es tarjeta de crédito) y al [banco emisor](/es/tutorial/que-es-el-banco-emisor). Son ejemplos de adquirente empresas como: Rede, Cielo, Elavon, GetNet y Stone. 
 
-Para que su tienda VTEX pueda recibir pagos, usted necesita habilitar su comunicación con un adquirente. Esto se realiza a través de un [gateway](/es/tutorial/que-es-un-gateway-de-pagos?locale=es), que debe configurarse para procesar las [condiciones de pago deseadas](/es/tutorial/condiciones-de-pago?locale=es). Así, las compras pueden seguir el flujo de aprobación normalmente.
+Para que su tienda VTEX pueda recibir pagos, usted necesita habilitar su comunicación con un adquirente. Esto se realiza a través de un [gateway](/es/tutorial/que-es-un-gateway-de-pagos), que debe configurarse para procesar las [condiciones de pago deseadas](/es/tutorial/condiciones-de-pago). Así, las compras pueden seguir el flujo de aprobación normalmente.
 
 Cuando todo está en orden y una compra es autorizada por los otros players, el adquirente es responsable de transferir los valores (cobrados del cliente por el banco emisor) a la cuenta de su tienda.
 
 ## Subadquirente
 
-Un subadquirente es una empresa que procesa pagos y transmite los datos generados a los otros players del [flujo de pago](/es/tutorial/tarjeta-de-credito-flujo-basico-de-un-pago). Su papel es similar al de un [adquirente](/es/tutorial/que-es-un-adquirente?locale=es), pero no lo sustituye por completo por su falta de autonomía para desempeñar todas las funcionalidades de un adquirente.
+Un subadquirente es una empresa que procesa pagos y transmite los datos generados a los otros players del [flujo de pago](/es/tutorial/tarjeta-de-credito-flujo-basico-de-un-pago). Su papel es similar al de un [adquirente](/es/tutorial/que-es-un-adquirente), pero no lo sustituye por completo por su falta de autonomía para desempeñar todas las funcionalidades de un adquirente.
 
 Así, puede ser entendido como una especie de intermediario entre adquirente y tienda. Son ejemplos de subadquirente empresas como: PagSeguro y Paypal.
 
@@ -51,17 +51,17 @@ Las principales ventajas del subadquirente son su bajo costo de implementación,
 
 ## Bandera de Tarjeta de Crédito
 
-Banderas son empresas responsables de definir las reglas de negocio para compras realizadas con tarjeta de crédito. Son estas las que definen los estándares por los que los [adquirentes](/es/tutorial/que-es-un-adquirente?locale=es) deben procesar las transacciones realizadas por ese medio de pago (cada bandera tiene sus propias reglas).Son ejemplos de banderas empresas como: Mastercard, American Express y Visa. 
+Banderas son empresas responsables de definir las reglas de negocio para compras realizadas con tarjeta de crédito. Son estas las que definen los estándares por los que los [adquirentes](/es/tutorial/que-es-un-adquirente) deben procesar las transacciones realizadas por ese medio de pago (cada bandera tiene sus propias reglas).Son ejemplos de banderas empresas como: Mastercard, American Express y Visa. 
 
 Las banderas mantienen una relación cercana con los adquirentes para garantizar la aceptación de sus tarjetas de crédito en los establecimientos. Así, estas promueven su uso y amplían la base de usuarios.
 
-En el [flujo de pago por tarjeta de crédito](/es/tutorial/tarjeta-de-credito-flujo-basico-de-un-pago), la bandera recibe del adquirente la información de la compra realizada en su tienda. Entonces, valida las condiciones (como el número de cuotas) y envía los datos al [banco emisor](/es/tutorial/que-es-el-banco-emisor?locale=es), que comprueba si el comprador tiene límite disponible. De esta forma, la bandera sirve tanto para regular el uso de la tarjeta como para servir de puente entre la adquirente y el banco del consumidor. 
+En el [flujo de pago por tarjeta de crédito](/es/tutorial/tarjeta-de-credito-flujo-basico-de-un-pago), la bandera recibe del adquirente la información de la compra realizada en su tienda. Entonces, valida las condiciones (como el número de cuotas) y envía los datos al [banco emisor](/es/tutorial/que-es-el-banco-emisor), que comprueba si el comprador tiene límite disponible. De esta forma, la bandera sirve tanto para regular el uso de la tarjeta como para servir de puente entre la adquirente y el banco del consumidor. 
 
 ## Banco Emisor
 
 El Banco Emisor es la institución financiera responsable de los medios de pago, ya sean boletos bancarios, tarjetas de débito o de crédito. Es este quien, al recibir los datos de una compra hecha en su tienda, va a autorizar o no la venta (dependiendo del límite de crédito o del dinero disponible en la cuenta del usuario). Con todo correcto, el banco efectúa el cobro del valor
 
-Este concepto es importante porque le permite configurar [condiciones especiales](/es/tutorial/condiciones-especiales?locale=es) para pagos realizados a través de bancos específicos. Además, en el caso de los boletos registrados, cada banco tiene su propia forma de emisión.
+Este concepto es importante porque le permite configurar [condiciones especiales](/es/tutorial/condiciones-especiales) para pagos realizados a través de bancos específicos. Además, en el caso de los boletos registrados, cada banco tiene su propia forma de emisión.
 
 ## Antifraude
 

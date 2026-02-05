@@ -20,7 +20,7 @@ Gift card, tarjeta de regalo o vale de compra es uno de los recursos del Módulo
 - Medio de pago para compras.
 - Programa de fidelidad que el administrador de la tienda puede conectar con el sistema VTEX.
 
-Para conocer más detalles sobre la segunda opción de uso, consulte nuestra documentación técnica sobre [cómo integrar con gift card](/es/tutorial/integrando-com-gift-card?locale=pt).
+Para conocer más detalles sobre la segunda opción de uso, consulte nuestra documentación técnica sobre [cómo integrar con gift card](/es/tutorial/integrando-com-gift-card).
 
 ## Cómo crear el vale de compra por el Admin
 

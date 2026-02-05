@@ -56,5 +56,5 @@ Contudo, existem vários tipos diferentes de micro-ondas. Desse modo, você pode
 - [Seller Portal: Produtos Compartilhados](/pt/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu)      
 - [Seller Portal: Detalhes do produto](/pt/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP)      
 - [Seller Portal: Primeiros Passos](/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK)    
-[Seller Portal: Anúncios e o Envio de Produtos para o Marketplace](/admin/app/docs/seller-portal/tutorials/3RwSj7AyBoPtFbXkS7REiu)    
+[Seller Portal: Anúncios e o Envio de Produtos para o Marketplace](/pt/docs/tutorials/seller-portal-produtos-compartilhados)    
 

@@ -29,7 +29,7 @@ Através da plataforma web, os clientes VTEX Tracking realizam toda a gestão e 
 
 - **Configuração de conta:** é na plataforma web onde toda a configuração da sua operação é realizada. Para que seu negócio opere com a solução VTEX Tracking, é preciso configurar:
 
-  - [Agências](/pt/tutorial/agencias-vtex-tracking--2PMohRiNdNpHPA2g2HyYH7?locale=pt)  
+  - [Agências](/pt/tutorial/agencias-vtex-tracking--2PMohRiNdNpHPA2g2HyYH7)  
   - [Clientes](/pt/tutorial/clientes-vtex-tracking--277Z0epDNArIGJIbqtPMA9)  
   - [Feriados](/pt/tutorial/feriados-vtex-tracking--4cj0oJNmF89e0pAJMBj1sP)  
   - [Filiais](/pt/tutorial/filial-vtex-tracking--6mD8L390WPORidxGp9TKfp)  
@@ -37,7 +37,7 @@ Através da plataforma web, os clientes VTEX Tracking realizam toda a gestão e 
   - [Ocorrências de Chat](/pt/tutorial/ocorrencias-de-chat-vtex-tracking--2YY7ixoHRmHOt3Fd3LzdPe)  
   - [Parceiros](/pt/tutorial/parceiros-vtex-tracking--2xEHQ98hoMzgkrdhkpOedQ)  
   - [Portadores](/pt/tutorial/portadores-vtex-tracking--5tVSpunaXVT6gQDSl9jTow)  
-  - [Transportadoras](/pt/tutorial/transportadoras-vtex-tracking--2HVE5D2fheT4cDPjiApL1Y?locale=pt)  
+  - [Transportadoras](/pt/tutorial/transportadoras-vtex-tracking--2HVE5D2fheT4cDPjiApL1Y)  
   - [Usuários](/pt/tutorial/usuarios-vtex-tracking--1zn5nrvkoWtx0pcabbRhSZ)
   - [Veículos](/pt/tutorial/veiculos-vtex-tracking--47OD2KOOMcHghBTJK0Vlwc)  
 

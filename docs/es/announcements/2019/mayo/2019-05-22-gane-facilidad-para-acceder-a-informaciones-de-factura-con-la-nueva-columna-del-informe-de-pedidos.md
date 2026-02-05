@@ -19,7 +19,7 @@ Para facilitar el acceso a informaciones importantes sobre su operación, el inf
 
 ## ¿Qué cambió?
 
-La nueva columna en el informe permite la visualización de las facturas de sus pedidos a través de la interfaz del [módulo de Gestión de Pedidos](/es/tutorial/estructura-de-la-pagina-del-oms--2dDZmUUFXWeyQ4s2gqiY0A), antes solo visualizadas a través de la [API de Get Order](https://developers.vtex.com/reference/orders#getorder).
+La nueva columna en el informe permite la visualización de las facturas de sus pedidos a través de la interfaz del [módulo de Gestión de Pedidos](/es/tutorial/estructura-de-la-pagina-del-oms--2dDZmUUFXWeyQ4s2gqiY0A), antes solo visualizadas a través de la [API de Get Order](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-).
 
 ## Principales ventajas
 

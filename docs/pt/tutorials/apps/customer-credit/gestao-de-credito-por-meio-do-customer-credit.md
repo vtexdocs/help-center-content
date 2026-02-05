@@ -55,7 +55,7 @@ Este processo pode ser realizado tanto por um departamento de crédito quanto po
 Agora que os clientes foram selecionados, é possível [criar as respectivas contas no Customer Credit](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU).
 
 Atualmente, contamos com três formas de o lojista realizar essa operação:
-- Cadastro da base por meio da [API do Customer Credit](https://developers.vtex.com/reference/customer-credit-api-overview).
+- Cadastro da base por meio da [API do Customer Credit](https://developers.vtex.com/docs/api-reference/customer-credit-api).
 - Cadastro individual pelo painel administrativo da VTEX.
 - Cadastro em massa por importação de planilha, com os dados de várias contas, também via painel administrativo. 
 
@@ -77,7 +77,7 @@ Se, por outro lado, a base tem um número grande de contas, o mais indicado é i
 
 ### Grandes bases
 
-Nos casos em que a loja trabalha com gestão externa de crédito em seu ERP, recomendamos que a operação seja realizada por meio da [API do Customer Credit](https://developers.vtex.com/reference/account-1#openanaccount). Neste caso, use o endpoint __Open an Account__.
+Nos casos em que a loja trabalha com gestão externa de crédito em seu ERP, recomendamos que a operação seja realizada por meio da [API do Customer Credit](https://developers.vtex.com/docs/api-reference/account-1#openanaccount). Neste caso, use o endpoint __Open an Account__.
 
 Outro diferencial da API é que a operação cadastra a conta e ao mesmo tempo concede limite para ela.
 

@@ -28,7 +28,7 @@ In this step, you must define which store will use the app and which URL Google 
 1. In the `Store` option select the sub-account that should be used for the app;
 2. In the `URL` option select the URL corresponding to the account's website chosen in the previous step.
 
-> ⚠️ **NOTE:** Make sure the chosen URL is the correct one, as the options will show any URL that is registered on [your domains](/en/tutorial/configurando-dominios-no-license-manager?locale=en). **Usually, the URL is the one that has WWW**.
+> ⚠️ **NOTE:** Make sure the chosen URL is the correct one, as the options will show any URL that is registered on [your domains](/en/tutorial/configurando-dominios-no-license-manager). **Usually, the URL is the one that has WWW**.
 
 ## Setting up an account at the Google Merchant Center
 

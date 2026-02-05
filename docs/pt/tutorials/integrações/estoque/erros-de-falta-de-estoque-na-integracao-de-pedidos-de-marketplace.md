@@ -28,7 +28,7 @@ Erros de falta de estoque podem ocorrer por diferentes motivos, os mais comuns s
 
 Após solucionar o erro, o pedido deve ser reprocessado manualmente. No seu Admin, no módulo **MARKETPLACE > Conexões > Pedidos**, clique sobre o pedido com erro. Feito isso, o botão **Ações** se torna visível, clique sobre ele e escolha a opção **Reprocessar**.
 
-> ℹ️ Caso o erro persista, abra um [chamado para suporte VTEX.](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM?locale=pt)
+> ℹ️ Caso o erro persista, abra um [chamado para suporte VTEX.](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM)
 
 ### Saiba mais
 

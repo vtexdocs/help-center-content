@@ -35,7 +35,7 @@ Ser um seller significa que sua loja vai enviar e vender produtos por meio de ou
 
 Depois de realizar as configurações, é necessário fazer a indexação de todos os produtos da base, para que a integração ocorra.
 
-1. Com o [usuário titular](/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA?locale=pt), acesse o link `{nomedaloja}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`.
+1. Com o [usuário titular](/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA), acesse o link `{nomedaloja}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`.
 2. Clique no botão __Reindexar Base__.
 
 ![ReindexarBase](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/sellers/gerenciamento/configurando-marketplace-entre-lojas-vtex_1.png)

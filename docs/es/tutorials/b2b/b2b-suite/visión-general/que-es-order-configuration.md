@@ -29,7 +29,7 @@ Si aún no sabe qué criterios configurar, le recomendamos que use el predetermi
 
 Para instalar la aplicación de Order Configuration en su Admin, acceda a [nuestra documentación de VTEX IO](https://vtex.io/docs/components/content-blocks/vtex.order-configuration/readme/).
 
-Una vez instalada, la configuración de uso de Order Configuration se establece en la [API Price Simulations](https://developers.vtex.com/reference/price-simulations-api-overview).
+Una vez instalada, la configuración de uso de Order Configuration se establece en la [API Price Simulations](https://developers.vtex.com/docs/guides/price-simulations-api-overview).
 
 Por API, usted debe asociar una [tabla de precios](/es/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) con cada escenario, creando una correlación entre ambos. De esta manera, cuando el usuario configure sus condiciones de compra, recibirá los precios que se refieren a esa regla.
 

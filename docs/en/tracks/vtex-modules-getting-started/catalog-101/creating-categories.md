@@ -31,4 +31,4 @@ The step-by-step below will show you how to create departments, categories and s
 
 ## API
 
-Use the [Create Category](https://developers.vtex.com/reference/catalog-api-category#catalog-api-post-category) request to create a new Category using the API Catalog.
+Use the [Create Category](https://developers.vtex.com/docs/api-reference/catalog-api?endpoint=post-/api/catalog/pvt/category) request to create a new Category using the Catalog API.

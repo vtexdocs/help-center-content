@@ -19,7 +19,7 @@ In order to facilitate your access to important information related to your oper
 
  ## What has changed
 
-The new report column let’s you view order invoices through the [order management module](/en/tutorial/oms-page-structure--2dDZmUUFXWeyQ4s2gqiY0A) interface, which was previously only possible through the [Get Order API](https://developers.vtex.com/reference/orders#getorder).
+The new report column let’s you view order invoices through the [order management module](/en/tutorial/oms-page-structure--2dDZmUUFXWeyQ4s2gqiY0A) interface, which was previously only possible through the [Get Order API](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-).
 
  ## Main advantages 
 

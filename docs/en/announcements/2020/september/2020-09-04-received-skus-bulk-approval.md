@@ -21,11 +21,11 @@ Marketplaces manage their sellers' products from the [Received SKUs](/en/tutoria
 
 You can now bulk select up to **25** items per page, while previously, you could only select up to 15 SKUs. This improvement provides faster operations that count on manual offer approval.     
 
-In addition to the change in the Received SKUs dashboard, we have created a new API that follows the improvement. The previous [Match Suggestions](https://developers.vtex.com/reference/match-received-skus#match) API used to be responsible for the individual approval of SKUs, but we have now developed a [new API](https://developers.vtex.com/vtex-developer-docs/reference/match-received-skus-1#match-multiple-received-skus), which approves up to 25 SKUs per call. Both APIs will be available for use, and maintained. 
+In addition to the change in the Received SKUs dashboard, we have created a new API that follows the improvement. The previous [Match Suggestions](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions#put-/suggestions/-sellerId-/-sellerskuid-/versions/-version-/matches/-matchid-) API used to be responsible for the individual approval of SKUs, but we have now developed a [new API](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions#put-/suggestions/matches/action/-actionName-), which approves up to 25 SKUs per call. Both APIs will be available for use, and maintained. 
 
 ## What do I need to do?
 
-If your store has some integration that uses our Suggestions API, you will be able to use our new endpoint to make your operation more efficient. For more information, check our [Developer Portal documentation](https://developers.vtex.com/vtex-developer-docs/reference/match-received-skus-1#match-multiple-received-skus).
+If your store has some integration that uses our Suggestions API, you will be able to use our new endpoint to make your operation more efficient. For more information, check our [Developer Portal documentation](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions#put-/suggestions/matches/action/-actionName-).
 This Received SKUs dashboard feature is already available in your VTEX Admin and does not change any configuration or data of your store. It is an improvement in the interface which makes the use of the dashboard easier in your team's daily routine.
 
 To use it, follow the steps below: 

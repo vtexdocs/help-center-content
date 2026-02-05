@@ -50,7 +50,7 @@ ____
 
 `Pedido não encontrado`
 
-Quando um pedido da B2W é dado como não encontrado, é necessário abrir um [chamado para suporte VTEX](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM?locale=pt).
+Quando um pedido da B2W é dado como não encontrado, é necessário abrir um [chamado para suporte VTEX](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
 
 ____
 

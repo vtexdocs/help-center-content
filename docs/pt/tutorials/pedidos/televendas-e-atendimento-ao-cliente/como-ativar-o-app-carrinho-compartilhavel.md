@@ -62,7 +62,7 @@ A escolha do campo em que o código do vendedor será inserido depende das neces
 
 Se ambas opções estiverem selecionadas, o vendedor precisará indicar qual campo está preenchendo na interface de compartilhamento de carrinho.
 
-> ℹ️ As informações registradas poderão ser encontradas no card **Promoções e Parcerias** nos [detalhes do pedido](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/204AjAQseJe8RLUi8GAhiC?locale=pt) ou dentro do objeto `marketingData` retornado ao obter as informações do pedido usando a [Orders API](https://developers.vtex.com/reference/orders#getorder).
+> ℹ️ As informações registradas poderão ser encontradas no card **Promoções e Parcerias** nos [detalhes do pedido](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/204AjAQseJe8RLUi8GAhiC) ou dentro do objeto `marketingData` retornado ao obter as informações do pedido usando a [Orders API](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-).
 
 ### Canais 
 
@@ -182,7 +182,7 @@ Em seguida, basta alterar as propriedades no código CSS conforme a necessidade.
 
 ### Como essa funcionalidade é possível tecnicamente?
 
-O app utiliza a funcionalidade de [carrinho compartilhado](/pt/tutorial/o-que-e-o-carrinho-compartilhado--3oKJZfoAoUm8g0ukCIGsUu?locale=pt) da VTEX, que permite que mais de um cliente adicione, retire ou atualize itens e informações de um mesmo carrinho.
+O app utiliza a funcionalidade de [carrinho compartilhado](/pt/tutorial/o-que-e-o-carrinho-compartilhado--3oKJZfoAoUm8g0ukCIGsUu) da VTEX, que permite que mais de um cliente adicione, retire ou atualize itens e informações de um mesmo carrinho.
 
 ### De que forma identificar vendedor e promoção?
 
@@ -229,7 +229,7 @@ Apresentamos algumas possibilidades na tabela abaixo. Recomendamos que o time t�
   </tbody>
 </table>
 
-> ℹ️ No Cenário 4 é necessário [gerar cupons em massa](/pt/tutorial/consigo-gerar-um-cupom-em-massa--frequentlyAskedQuestions_348?locale=pt), para que cada vendedor tenha seu próprio cupom para identificação e ativação de desconto.
+> ℹ️ No Cenário 4 é necessário [gerar cupons em massa](/pt/tutorial/consigo-gerar-um-cupom-em-massa--frequentlyAskedQuestions_348), para que cada vendedor tenha seu próprio cupom para identificação e ativação de desconto.
 
 ### Quem preenche os dados pessoais e o endereço: vendedor ou cliente?
 

@@ -38,5 +38,5 @@ While the tab design has been improved, the configuration fields have not change
 Our Help Center articles will be updated gradually, and a reminder of the change will be displayed for a while to smooth the transition. However, from now on, in your Admin you will find only the term "shipping policies".
 
 If you want to know more about this module, see our [documentation](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/55MezrFTw2limlgT7KUg6l).
-The corresponding Shipping Policies APIs have already been documented in our [Developer Portal](https://developers.vtex.com/reference/shipping-policies)
+The corresponding Shipping Policies APIs have already been documented in our [Developer Portal](https://developers.vtex.com/docs/api-reference/logistics-api)
 

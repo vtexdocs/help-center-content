@@ -110,7 +110,7 @@ O cliente também pode [Pedir novamente](#pedir-novamente) a partir desta págin
 
 Se o pedido estiver no status `Preparando entrega`, é possível escolher `Alterar pedido` ao clicar em `Mais opções` na página de detalhes do pedido.
 
-Para disponibilizar essa opção, o lojista precisa [permitir que clientes façam alterações em pedidos](/pt/tutorial/como-funciona-a-substituicao-de-pedidos?locale=pt#como-ativar-a-substituicao-de-pedidos) nas configurações do módulo **Pedidos**.
+Para disponibilizar essa opção, o lojista precisa [permitir que clientes façam alterações em pedidos](/pt/tutorial/como-funciona-a-substituicao-de-pedidos#como-ativar-a-substituicao-de-pedidos) nas configurações do módulo **Pedidos**.
 
 Esse botão permite ao cliente mudar informações do pedido, como endereço, forma de pagamento e itens do carrinho, sem a necessidade de realizar um novo pedido ou de entrar em contato com a equipe de atendimento da loja. Leia o artigo [Como funciona a Substituição de Pedidos](/pt/tutorial/como-funciona-a-substituicao-de-pedidos) para saber mais.
 

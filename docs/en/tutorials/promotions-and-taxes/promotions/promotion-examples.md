@@ -135,7 +135,7 @@ Save $50 for every $300 spent.
 ## Scenario 16
 Spend $500 and get an individual coupon code with a 20% off to be used on the next purchase.
 
-- “20% off” makes this a [Regular Promotion - Percentage reward value](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). The reward credit is transferred to a [Gift Card](/en/tutorial/gift-card--tutorials_995?locale=pt).
+- “20% off” makes this a [Regular Promotion - Percentage reward value](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). The reward credit is transferred to a [Gift Card](/en/tutorial/gift-card--tutorials_995).
 - “Spend $500” is a restriction that can be included with the minimum value of the order setting.
 
 ## Scenario 17

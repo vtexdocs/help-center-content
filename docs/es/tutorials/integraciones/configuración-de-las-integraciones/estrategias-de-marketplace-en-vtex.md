@@ -34,7 +34,7 @@ La selección de productos enviados a un marketplace se define al elegir [la pol
 
 La [contratación de políticas comerciales adicionales](/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X) se realiza a través de la apertura de un ticket en nuestro servicio de soporte, seleccionando la opción __Comercial__ y el tipo de solicitud “Creación de política comercial”. Se cobra una tarifa mensual por cada política comercial adicional, independientemente de si se utiliza para la integración con marketplaces certificados, partners, externos o VTEX.  
 
-> ℹ️ Los pedidos aprobados en los marketplaces están sujetos a las mismas [normas contractuales](/es/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq?locale=pt) de pedidos realizados a través de otros canales.
+> ℹ️ Los pedidos aprobados en los marketplaces están sujetos a las mismas [normas contractuales](/es/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq) de pedidos realizados a través de otros canales.
 
 A continuación, abordaremos los siguientes escenarios:  
 

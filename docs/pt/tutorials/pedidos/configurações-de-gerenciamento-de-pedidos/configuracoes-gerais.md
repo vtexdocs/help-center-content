@@ -58,5 +58,5 @@ Essa configuração é uma flag que ativa ou inativa a possibilidade dos cliente
 
 Essa configuração permite definir a configuração do Conversation Tracker. Ela altera a visualização dos emails dos seus clientes entre os modos **Complexa** ou **Simples**. Os modos alteram a forma como o email é entregue no fluxo do pedido, adicionando uma máscara.
 - **Complexa:** cria um alias (e-mail alternativo) de forma não legível evitando assim a identificação do e-mail por sistemas externos.
-- **Simples:** cria um alias de menor complexidade para o e-mail do usuário comprador, fazendo com que o e-mail continue legível na UI do OMS e quando visto no JSON do pedido. Se quiser saber mais, acesse nosso artigo sobre [como é feita a comunicação com o cliente durante o fluxo pedido](/pt/tutorial/conversation-tracker--tutorials_195?locale=pt).
+- **Simples:** cria um alias de menor complexidade para o e-mail do usuário comprador, fazendo com que o e-mail continue legível na UI do OMS e quando visto no JSON do pedido. Se quiser saber mais, acesse nosso artigo sobre [como é feita a comunicação com o cliente durante o fluxo pedido](/pt/tutorial/conversation-tracker--tutorials_195).
 

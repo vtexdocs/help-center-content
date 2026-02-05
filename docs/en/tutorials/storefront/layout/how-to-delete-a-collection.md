@@ -28,4 +28,4 @@ __Simply set a past date to ensure the collection will not be activated.__
 
 ## Via API
 
-You can delete a collection created in the CMS through the route [Delete Collection](https://developers.vtex.com/reference/catalog-api-collection#catalog-api-delete-collection).
+You can delete a collection created in the CMS through the route [Delete Collection](https://developers.vtex.com/docs/api-reference/catalog-api?endpoint=delete-/api/catalog/pvt/collection/-collectionId-).

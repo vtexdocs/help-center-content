@@ -23,6 +23,6 @@ Para fazer isso, entre na Central de Mensagens e busque o template **Order Refun
 
 ## Evento de disparo do e-mail
 
-O e-mail de pedido estornado é disparado quando a loja envia uma notificação de Nota Fiscal de devolução. Esse envio acontece por meio da chamada de API [Order Invoice Notification](https://developers.vtex.com/reference/invoice#invoicenotification), com o campo `type` contendo o valor `input`.
+O e-mail de pedido estornado é disparado quando a loja envia uma notificação de Nota Fiscal de devolução. Esse envio acontece por meio da chamada de API [Order Invoice Notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice), com o campo `type` contendo o valor `input`.
 
 No Admin, esse evento é disparado quando se clica no botão **Fazer devolução de itens**, na tela de detalhes do pedido.

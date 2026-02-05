@@ -64,7 +64,7 @@ Lá eles ficam agrupados por um produto que possui diversas variações/skus.
 
 _`Ex:` Camisa Azul (produto) | P, M, G (variações/skus)_
 
-A categoria é enviada de acordo com o Departamento preenchido na [planilha de mapeamento](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc?locale=pt#preenchendo-a-planilha-de-mapeamento).
+A categoria é enviada de acordo com o Departamento preenchido na [planilha de mapeamento](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc#preenchendo-a-planilha-de-mapeamento).
 
 ## Estoque
 

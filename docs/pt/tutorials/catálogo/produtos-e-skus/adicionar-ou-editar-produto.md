@@ -96,7 +96,7 @@ Esta seção apresenta os campos de códigos que identificam o produto:
 
 ## Atributos da categoria
 
-Dependendo da categoria do produto criado, abaixo da etapa Padrão, podem surgir **Atributos da categoria**. Esta etapa inclui campos informativos que atribuem características ao produto, chamados de [especificações de produto](/pt/tutorial/criando-um-campo-de-produto?locale=pt).
+Dependendo da categoria do produto criado, abaixo da etapa Padrão, podem surgir **Atributos da categoria**. Esta etapa inclui campos informativos que atribuem características ao produto, chamados de [especificações de produto](/pt/tutorial/criando-um-campo-de-produto).
 
 A tabela abaixo apresenta exemplos de especificações de produto para produtos de diferentes categorias:
 

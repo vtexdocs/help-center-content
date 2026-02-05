@@ -22,7 +22,7 @@ The Received SKUs page features a list of all SKUs sent by sellers to the market
 ## What has changed?
 Previously, to check a received SKU's information, you had to leave the main list and access its details page. Now, by clicking on any SKU in the list, you will view a summary of that SKU's main information within a sidebar.  
 
-The sidebar contains the SKU's images, price, inventory levels, and product attributes such as a description, specifications, codes and IDs. It also includes the matching percentage that the SKU received from the [matcher](/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher?locale=pt) set up in your store. You can still access the SKU’s full details by clicking on the button *View details page*.
+The sidebar contains the SKU's images, price, inventory levels, and product attributes such as a description, specifications, codes and IDs. It also includes the matching percentage that the SKU received from the [matcher](/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher) set up in your store. You can still access the SKU’s full details by clicking on the button *View details page*.
 
 ![EN Sidebar received](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/may/2021-05-03-marketplace-new-sidebar-with-received-sku-details_1.gif)
 

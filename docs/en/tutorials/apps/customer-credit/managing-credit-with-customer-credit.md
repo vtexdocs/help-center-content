@@ -61,7 +61,7 @@ This process can be performed either by a credit department or by software compa
 Now that your customers have been selected, it is possible to [create their Customer Credit accounts](/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU).
 
 Currently, stores can carry out this operation in three different ways:
-- Base registration through the [Customer Credit API](https://developers.vtex.com/reference/customer-credit-api-overview).
+- Base registration through the [Customer Credit API](https://developers.vtex.com/docs/api-reference/customer-credit-api).
 - Individual registration through VTEX’s administrative dashboard.
 - Bulk registration through spreadsheet import, with data from several accounts, also via our administrative dashboard.
 
@@ -83,7 +83,7 @@ If the database has a large number of accounts, it is best to import a spreadshe
 
 ### Large databases
 
-If a store works with external credit management in its ERP system, we recommend that the operation is performed through the [Customer Credit API](https://developers.vtex.com/reference/account-1#openanaccount). In this case, use the Open an Account endpoint.
+If a store works with external credit management in its ERP system, we recommend that the operation is performed through the [Customer Credit API](https://developers.vtex.com/docs/api-reference/account-1#openanaccount). In this case, use the Open an Account endpoint.
 
 Another differential of the API is that the operation adds the account and at the same time grants a limit to it.
 

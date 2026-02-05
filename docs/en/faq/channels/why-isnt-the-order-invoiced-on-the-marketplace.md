@@ -34,4 +34,4 @@ The Tax Invoice Access Key is an auxiliary instrument for querying the electroni
 
 __Remember!__ This information item is created when the Tax Invoice is generated and works on ERP. If you have one, request it.
 
-This value can be entered manually by the admin or by the [invoice notification API](https://developers.vtex.com/reference/invoice#invoicenotification), in the **invoiceKey** field.
+This value can be entered manually by the admin or by the [invoice notification API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice), in the **invoiceKey** field.

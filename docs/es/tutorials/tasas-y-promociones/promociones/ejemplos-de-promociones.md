@@ -133,7 +133,7 @@ Ahorre $50 por cada $300 gastados.
 
 Gaste $500 y obtenga un código de cupón individual con 20% de descuento para utilizarlo en la próxima compra.
 
-- “20% de descuento” hace que sea una [Promoción Regular - Valor de fidelidad porcentual](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).  El crédito de recompensa se transfiere a una [Tarjeta de Regalo](/es/tutorial/gift-card--tutorials_995?locale=pt).
+- “20% de descuento” hace que sea una [Promoción Regular - Valor de fidelidad porcentual](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).  El crédito de recompensa se transfiere a una [Tarjeta de Regalo](/es/tutorial/gift-card--tutorials_995).
 - “Gaste $500” es una restricción que puede ser incluida con el valor mínimo de la configuración del pedido.
 
 ## Escenario 17

@@ -133,7 +133,7 @@ Ganhe R$ 50,00 de desconto a cada R$ 300,00 gastos.
 
 A cada R$ 500,00 em compras, receba um cupom com desconto de 20% a ser usado na próxima compra. 
 
-- “20% de desconto” faz com que seja uma [Promoção Regular - Valor Fidelidade Percentual](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). O crédito adquirido é transferido para um [Gift Card](/pt/tutorial/gift-card--tutorials_995?locale=pt).
+- “20% de desconto” faz com que seja uma [Promoção Regular - Valor Fidelidade Percentual](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). O crédito adquirido é transferido para um [Gift Card](/pt/tutorial/gift-card--tutorials_995).
 - “A cada R$ 500,00 em compras” é uma restrição que pode ser incluída com o valor mínimo da configuração do pedido. 
 
 ## Cenário 17

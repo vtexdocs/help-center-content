@@ -14,7 +14,7 @@ locale: pt
 legacySlug: por-que-nao-recebo-email-de-carrinho-abandonado
 ---
 
-Em alguns casos, a configuração da [Trigger](/pt/tutorial/criando-trigger-no-master-data?locale=pt) para o [Carrinho Abandonado](/pt/tutorial/setting-up-abandoned-carts--tutorials_740#) poderá não funcionar corretamente. Esse comportamento acontece por conta de algumas configurações indevidas. Porém, esses erros podem ser corrigidos facilmente pelo [Master Data](/pt/tutorial/o-que-e-o-master-data?locale=pt).
+Em alguns casos, a configuração da [Trigger](/pt/tutorial/criando-trigger-no-master-data) para o [Carrinho Abandonado](/pt/tutorial/setting-up-abandoned-carts--tutorials_740#) poderá não funcionar corretamente. Esse comportamento acontece por conta de algumas configurações indevidas. Porém, esses erros podem ser corrigidos facilmente pelo [Master Data](/pt/tutorial/o-que-e-o-master-data).
 
 Siga o passo a passo a seguir para acessar a página de configurações:
 

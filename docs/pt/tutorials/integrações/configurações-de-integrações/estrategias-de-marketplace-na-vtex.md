@@ -95,7 +95,7 @@ Para realizar a integração com um marketplace você encontra apoio nos conteú
 Na VTEX, você pode vender em outros canais nas seguintes situações:  
 
 - [Integrado a marketplaces externos](#integrado-a-marketplace-externo)    
-- [Integrado a marketplaces](integrado-a-marketplaces)  
+- [Integrado a marketplaces](#integrando-a-marketplaces)  
 - [Ser um seller VTEX](#ser-um-seller-vtex)  
 
 ### Integrado a marketplace externo

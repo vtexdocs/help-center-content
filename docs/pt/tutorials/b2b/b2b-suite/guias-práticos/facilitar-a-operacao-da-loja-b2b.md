@@ -55,7 +55,7 @@ Esse é um recurso que se adequa às necessidades de negócios atacadistas e hoj
 
 ### Kit de produtos
 
-Na VTEX, todas as lojas contam com o recurso de [kit de produtos](/pt/tutorial/kit-registration?locale=en), no qual um conjunto de itens pode ser vendido por um determinado preço. 
+Na VTEX, todas as lojas contam com o recurso de [kit de produtos](/pt/tutorial/kit-registration), no qual um conjunto de itens pode ser vendido por um determinado preço. 
 
 > ℹ️ No contexto B2B, o kit de produtos geralmente é citado como “bundle”. Ou seja, os termos “kit de produtos” e “bundle” referem-se à mesma ferramenta.
 

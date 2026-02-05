@@ -96,7 +96,7 @@ Los campos de esta sección son los códigos que identifican el producto:
 
 ## Atributos de categoría
 
-Para ciertas categorías asignadas a un producto creado, debajo de Predeterminado, se mostrará la sección **Atributos de categoría**. Esta sección incluye campos de información para asignarle características al producto, también conocidas como [especificaciones de producto](/es/tutorial/criando-um-campo-de-produto?locale=pt).
+Para ciertas categorías asignadas a un producto creado, debajo de Predeterminado, se mostrará la sección **Atributos de categoría**. Esta sección incluye campos de información para asignarle características al producto, también conocidas como [especificaciones de producto](/es/tutorial/criando-um-campo-de-produto).
 
 La siguiente tabla muestra ejemplos de especificaciones para productos de diferentes categorías:
 

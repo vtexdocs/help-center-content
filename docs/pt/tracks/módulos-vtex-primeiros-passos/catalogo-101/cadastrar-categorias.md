@@ -31,4 +31,4 @@ Siga o passo a passo abaixo para cadastrar seus departamentos, categorias e subc
 
 ## API
 
-Utilize a chamada [Create Category](https://developers.vtex.com/reference/catalog-api-category#catalog-api-post-category) para criar uma nova Categoria por meio da API do Catálogo.
+Utilize a chamada [Create Category](https://developers.vtex.com/docs/api-reference/catalog-api?endpoint=post-/api/catalog/pvt/category) para criar uma nova Categoria por meio da API do Catálogo.

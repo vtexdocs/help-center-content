@@ -110,9 +110,9 @@ El cliente también puede [Hacer pedido de nuevo](#hacer-pedido-de-nuevo) desde 
 
 Si el _status_ del pedido es `Preparando el pedido`, se puede elegir **Modificar pedido** haciendo clic en `Más opciones` en la página de detalles del pedido.
 
-Para habilitar esta opción, el administrador de la tienda debe [permitir que los clientes realicen modificaciones en los pedidos](/es/tutorial/como-funciona-a-substituicao-de-pedidos?locale=pt#como-ativar-a-substituicao-de-pedidos) en la configuración del módulo **Pedidos**.
+Para habilitar esta opción, el administrador de la tienda debe [permitir que los clientes realicen modificaciones en los pedidos](/es/tutorial/como-funciona-a-substituicao-de-pedidos#como-ativar-a-substituicao-de-pedidos) en la configuración del módulo **Pedidos**.
 
-Este botón permite que el cliente modifique la información del pedido, como dirección, forma de pago e ítems del carrito, sin necesidad de realizar un nuevo pedido o contactar al equipo de servicio al cliente de la tienda. Lea el artículo [Cómo funciona la substitución de pedidos](/es/tutorial/como-funciona-a-substituicao-de-pedidos?locale=pt) para saber más.
+Este botón permite que el cliente modifique la información del pedido, como dirección, forma de pago e ítems del carrito, sin necesidad de realizar un nuevo pedido o contactar al equipo de servicio al cliente de la tienda. Lea el artículo [Cómo funciona la substitución de pedidos](/es/tutorial/como-funciona-a-substituicao-de-pedidos) para saber más.
 
 ## Tarjetas de crédito
 

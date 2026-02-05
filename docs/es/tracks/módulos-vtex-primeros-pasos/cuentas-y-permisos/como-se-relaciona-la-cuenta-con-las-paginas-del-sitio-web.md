@@ -27,4 +27,4 @@ La configuración anterior se realiza cuando una cuenta quiere tener más de una
 
 Se suele utilizar ese recurso cuando la tienda tiene otras marcas pero existe una similitud de logística y métodos de pago o cuando la tienda necesita otro ambiente, por ejemplo, para ventas B2B.
 
-Para cada una de las tiendas en la opción **Multiendas**, se hace un **binding**. Consulte nuestro [artículo sobre multitienda y multidominio](/es/tutorial/como-crear-multitienda-multidominio?locale=es)para configurar esta opción.
+Para cada una de las tiendas en la opción **Multiendas**, se hace un **binding**. Consulte nuestro [artículo sobre multitienda y multidominio](/es/tutorial/como-crear-multitienda-multidominio)para configurar esta opción.

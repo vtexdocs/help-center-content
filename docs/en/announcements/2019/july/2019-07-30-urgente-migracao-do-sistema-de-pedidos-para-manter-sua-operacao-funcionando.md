@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'In order to maintain the functioning of your operation, ensure that your integration is up-to-date'
 ---
 
-On 13/06/19, [Feed V1 and V2 API discontinuation was announced](/announcements/orders-management-module-feed-v1-and-v2--4zoxe3FihrNs0yQ1g1JyG4) along with the mandatory migration to V3 of this service. This API is responsible for the orders integration process between VTEX and external systems, such as ERPs.
+On 13/06/19, [Feed V1 and V2 API discontinuation was announced](/en/announcements/orders-management-module-feed-v1-and-v2--4zoxe3FihrNs0yQ1g1JyG4) along with the mandatory migration to V3 of this service. This API is responsible for the orders integration process between VTEX and external systems, such as ERPs.
 
 __The migration due date has been changed and stores that have not yet adapted to the new version have until August 12th to implement the integration__. After this date, it will no longer be possible to consume orders data using previous versions of this API, thus impacting your order delivery process.
 
@@ -27,6 +27,6 @@ It's very important to implement this integration sooner rather than later to mi
 
 ## What do you need to do?
 
-First and foremost, you'll need to configure Feed V3 to consume data from the orders queue. Read our article on [how to configure Feed](/tutorial/feed-v3-orders-management--5qDml3cQypWDRTgw69s4C1).
+First and foremost, you'll need to configure Feed V3 to consume data from the orders queue. Read our article on [how to configure Feed](/en/tutorial/feed-v3-orders-management--5qDml3cQypWDRTgw69s4C1).
 
-For more on how the Feed works, read our article on [how the Orders Management Feed works](/tutorial/how-orders-management-module-feed-v3--5SzSKee2f666YCoWkm0eQC).
+For more on how the Feed works, read our article on [how the Orders Management Feed works](/en/tutorial/how-orders-management-module-feed-v3--5SzSKee2f666YCoWkm0eQC).

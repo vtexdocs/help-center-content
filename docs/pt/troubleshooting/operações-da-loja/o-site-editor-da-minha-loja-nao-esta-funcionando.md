@@ -76,7 +76,7 @@ Algo deu errado. Por favor, tente novamente.
 Para solucionar esse erro, veja as instruções a seguir:
 
 1. [Verifique se o perfil de acesso do usuário tem as permissões necessárias](#verificar-se-o-perfil-de-acesso-do-usuario-tem-as-permissoes-necessarias).
-2. [Verifique se a política comercial está configurada no catálogo](verifique-se-a-politica-comercial-esta-configurada-no-catalogo)
+2. [Verifique se a política comercial está configurada no catálogo](#verifique-se-a-politica-comercial-esta-configurada-no-catalogo)
 3. [Verifique o locale principal do domínio](#verificar-o-locale-principal-do-dominio)
 
 ### Verificar se o perfil de acesso do usuário tem as permissões necessárias
