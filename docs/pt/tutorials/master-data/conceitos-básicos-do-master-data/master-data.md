@@ -1,7 +1,7 @@
 ---
 title: 'Master Data'
 id: 4otjBnR27u4WUIciQsmkAw
-status: CHANGED
+status: PUBLISHED
 createdAt: 2018-04-02T19:01:38.026Z
 updatedAt: 2025-09-02T23:26:45.478Z
 publishedAt: 2025-08-29T14:19:54.707Z
