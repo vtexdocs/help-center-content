@@ -45,11 +45,11 @@ O lojista precisa garantir a correta configuração dos seguintes aspectos do pr
 * Contagem do produto no [inventário](/pt/tutorial/gerenciar-inventario--tutorials_139) disponível para vendas, ou estoque infinito configurado ou opção habilitada para exibir o produto quando esgotado.
 * Templates de [CMS](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) do frontend da loja configurados.
 
-> ℹ️ Para mais informações, veja o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
+> ℹ️ Para mais informações, veja o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site).
 
 ### 2. A Delivery Promise (Beta) garante a exibição de todos os meus produtos na vitrine?
 
-Quando as configurações necessárias para a exibição do produto na vitrine são feitas corretamente, a **Delivery Promise (Beta)** exibe na vitrine da loja todo o sortimento dos seus produtos e dos seus sellers. Se a indisponibilidade de um produto for causada por configurações incorretas ou pela falta de estoque desse produto, ele não será exibido na vitrine, mesmo com a nova funcionalidade. Para saber mais, veja o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382). 
+Quando as configurações necessárias para a exibição do produto na vitrine são feitas corretamente, a **Delivery Promise (Beta)** exibe na vitrine da loja todo o sortimento dos seus produtos e dos seus sellers. Se a indisponibilidade de um produto for causada por configurações incorretas ou pela falta de estoque desse produto, ele não será exibido na vitrine, mesmo com a nova funcionalidade. Para saber mais, veja o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site). 
 
 ### 3. Com relação ao estoque do produto, como posso garantir que ele vai aparecer na vitrine?
 

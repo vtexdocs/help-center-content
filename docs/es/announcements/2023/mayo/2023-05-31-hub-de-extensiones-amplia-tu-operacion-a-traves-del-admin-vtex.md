@@ -35,13 +35,13 @@ Los precios en la **App Store** se mostrarán en dólares estadounidenses (USD),
 
 ### Partners
 
-Hemos implementado toda la experiencia del [sitio web Partner portal](https://partnerportal.vtex.com/) en la nueva página Hub de extensiones. Con este cambio, facilitamos el descubrimiento de partners para tu negocio y unificamos la experiencia con las extensiones de la plataforma. A través del nuevo **Partners** puedes buscar aliados para tu negocio, obtener información sobre ellos y establecer el contacto inicial dentro del Admin VTEX.
+Hemos implementado toda la experiencia del [sitio web Partner portal](https://vtex.com/pt-br/parceiros/) en la nueva página Hub de extensiones. Con este cambio, facilitamos el descubrimiento de partners para tu negocio y unificamos la experiencia con las extensiones de la plataforma. A través del nuevo **Partners** puedes buscar aliados para tu negocio, obtener información sobre ellos y establecer el contacto inicial dentro del Admin VTEX.
 
-El [sitio web Partner portal](https://partnerportal.vtex.com/) continuará existiendo sin alteraciones.
+El [sitio web Partner portal](https://vtex.com/pt-br/parceiros/) continuará existiendo sin alteraciones.
 
 ### Gestión de aplicaciones
 
-**Gestión de aplicaciones** es el nuevo nombre para la página **Mis apps**, que continúa teniendo las mismas funciones: instalar, desinstalar, eliminar y configurar aplicaciones. La página se ha trasladado al Hub de extensiones para unificar las experiencias de compra y gestión de aplicaciones. Además, hemos actualizado la interfaz de la página para que esté alineada con el patrón de diseño del [nuevo Admin VTEX](/es/announcements/bienvenido-al-nuevo-admin-vtex--428AanFpOiQgRkaLvDHVO9).
+**Gestión de aplicaciones** es el nuevo nombre para la página **Mis apps**, que continúa teniendo las mismas funciones: instalar, desinstalar, eliminar y configurar aplicaciones. La página se ha trasladado al Hub de extensiones para unificar las experiencias de compra y gestión de aplicaciones. Además, hemos actualizado la interfaz de la página para que esté alineada con el patrón de diseño del [nuevo Admin VTEX](/es/announcements/2023-04-20-bienvenido-al-nuevo-admin-vtex-new).
 
 ## ¿Qué se necesita hacer?
 

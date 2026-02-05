@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Estado de publicación en Headless CMS se descontinuará a favor del Build Status para seguimiento detallado del deploy.'
 ---
 
-A partir del 1 de noviembre de 2023, se descontinuará el estado **Publicando** en las páginas de Headless CMS. En su lugar, puedes realizar un seguimiento del status del deploy de las páginas a través de la herramienta **Build Status**, como [ya habíamos anunciado](/es/announcements/headless-cms-stay-informed-on-your-publication-progress--3ajb4FgE6nmqjblpSEg3SP). Esta herramienta ofrece una vista más detallada del proceso de deploy de tus páginas, manteniendo a los usuarios informados acerca de las fases de compilación (build).
+A partir del 1 de noviembre de 2023, se descontinuará el estado **Publicando** en las páginas de Headless CMS. En su lugar, puedes realizar un seguimiento del status del deploy de las páginas a través de la herramienta **Build Status**, como [ya habíamos anunciado](/es/announcements/2023-08-21-headless-cms-mantente-informado-sobre-el-progreso-de-tus-publicaciones). Esta herramienta ofrece una vista más detallada del proceso de deploy de tus páginas, manteniendo a los usuarios informados acerca de las fases de compilación (build).
 
 Cuando se crea una nueva página, inicialmente se muestra como **Borrador** en la columna Versiones, lo que indica que aún no se hizo deploy de la página. Una vez que el deploy se ha realizado, el status se actualiza a **Publicado**, lo que significa que el proceso de compilación está listo para comenzar. Una vez completado este proceso, la página pasa a estar disponible para los usuarios finales.
 

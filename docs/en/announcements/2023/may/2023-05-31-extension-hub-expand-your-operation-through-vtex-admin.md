@@ -35,13 +35,13 @@ The **App Store** displays prices in US dollars (USD) for stores all over the wo
 
 ### Partners
 
-We have integrated the whole experience of the [Partner Portal website](https://partnerportal.vtex.com/) into the new Extensions Hub page, which makes it easier to find partners for your business and unify the experience with platform extensions. You can search for partners through the new **Partners** page, get details about them, and make initial contact directly from the VTEX Admin.
+We have integrated the whole experience of the [Partner Portal website](https://vtex.com/pt-br/parceiros/) into the new Extensions Hub page, which makes it easier to find partners for your business and unify the experience with platform extensions. You can search for partners through the new **Partners** page, get details about them, and make initial contact directly from the VTEX Admin.
 
-The [Partner Portal website](https://partnerportal.vtex.com/) will remain unchanged.
+The [Partner Portal website](https://vtex.com/pt-br/parceiros/) will remain unchanged.
 
 ### App Management
 
-**App Management** is the new name for the **My Apps** page. It still provides the same functionalities: install, uninstall, remove, and configure apps. The page has been moved to the Extensions Hub to unify the experiences of buying and managing apps. We have also updated the interface of the page following the design pattern of the [new VTEX Admin](/en/announcements/welcome-to-the-redisigned-vtex-admin--428AanFpOiQgRkaLvDHVO9).
+**App Management** is the new name for the **My Apps** page. It still provides the same functionalities: install, uninstall, remove, and configure apps. The page has been moved to the Extensions Hub to unify the experiences of buying and managing apps. We have also updated the interface of the page following the design pattern of the [new VTEX Admin](/en/announcements/2023-04-20-welcome-to-the-redesigned-vtex-admin-new).
 
 ## What needs to be done?
 

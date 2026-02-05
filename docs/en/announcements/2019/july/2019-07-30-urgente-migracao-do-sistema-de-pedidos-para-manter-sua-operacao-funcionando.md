@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'In order to maintain the functioning of your operation, ensure that your integration is up-to-date'
 ---
 
-On 13/06/19, [Feed V1 and V2 API discontinuation was announced](/en/announcements/orders-management-module-feed-v1-and-v2--4zoxe3FihrNs0yQ1g1JyG4) along with the mandatory migration to V3 of this service. This API is responsible for the orders integration process between VTEX and external systems, such as ERPs.
+On 13/06/19, [Feed V1 and V2 API discontinuation was announced](/en/announcements/2019-06-12-order-management-module-feed-v1-and-v2-discontinuation) along with the mandatory migration to V3 of this service. This API is responsible for the orders integration process between VTEX and external systems, such as ERPs.
 
 __The migration due date has been changed and stores that have not yet adapted to the new version have until August 12th to implement the integration__. After this date, it will no longer be possible to consume orders data using previous versions of this API, thus impacting your order delivery process.
 

@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Publishing status on Headless CMS Pages will be discontinued in favor of Build Status for detailed deployment tracking.'
 ---
 
-Starting November 1st, 2023, the **Publishing** status on Pages in the Headless CMS will be discontinued. Instead, you can track the deployment status of pages through the **Build Status** tool, as [previously announced](/en/announcements/headless-cms-stay-informed-on-your-publication-progress--3ajb4FgE6nmqjblpSEg3SP). This tool offers a more detailed view of the deployment process of your pages.
+Starting November 1st, 2023, the **Publishing** status on Pages in the Headless CMS will be discontinued. Instead, you can track the deployment status of pages through the **Build Status** tool, as [previously announced](/en/announcements/2023-08-21-headless-cms-stay-informed-on-your-publication-progress). This tool offers a more detailed view of the deployment process of your pages.
 
 When a new page is created, it is initially set to **Draft**, indicating that the page has not yet been deployed. Once the page is successfully deployed, its status is updated to **Published**, meaning that the build process is ready to commence. Upon completion of the build, the page becomes accessible to end users.
 

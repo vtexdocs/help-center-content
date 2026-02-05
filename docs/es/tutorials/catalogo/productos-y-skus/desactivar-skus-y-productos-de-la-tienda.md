@@ -29,7 +29,7 @@ Un producto o SKU puede tener status activo o inactivo, según se detalla en la 
 
 | **Status del producto o SKU** | **Descripción** |
 | :---: | :--- |
-| Activo | Se activó el producto o SKU para indicar que el retailer desea venderlo en el storefront.La venta del producto o SKU depende de su status activo y su disponibilidad. Para más información sobre la disponibilidad de un producto, consulta los artículos [Productos y SKUs](/es/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#acompanhar-disponibilidade-de-produtos) y [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382). |
+| Activo | Se activó el producto o SKU para indicar que el retailer desea venderlo en el storefront.La venta del producto o SKU depende de su status activo y su disponibilidad. Para más información sobre la disponibilidad de un producto, consulta los artículos [Productos y SKUs](/es/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#acompanhar-disponibilidade-de-produtos) y [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web). |
 | Inactivo | Se desactivó el producto o SKU porque el retailer no desea que se muestre en el storefront como disponible para la venta. |
 
 ## Desactivar un producto

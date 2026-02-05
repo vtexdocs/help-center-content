@@ -34,7 +34,7 @@ Antes de abrir un ticket, verifica si el problema está relacionado con las pers
 
 ### Carrito y Checkout y Tiendas en CMS
 
-Es importante comprobar que el problema se produce sin personalizaciones activas en la tienda. Para realizar esta prueba, desactiva las personalizaciones (JS y CSS) e intenta reproducir el error según se explica en el artículo [Cómo bloquear personalizaciones para investigar problemas en el frontend de la tienda](/es/faq/como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja--5c1a4bvVK8rAvKLczhkCnY). 
+Es importante comprobar que el problema se produce sin personalizaciones activas en la tienda. Para realizar esta prueba, desactiva las personalizaciones (JS y CSS) e intenta reproducir el error según se explica en el artículo [Cómo bloquear personalizaciones para investigar problemas en el frontend de la tienda](/es/faq/como-bloquear-personalizaciones-para-investigar-problemas-en-el-front-end-de-la-tienda). 
 
 ### Store Framework
 Para comprobar si el problema está asociado a IO, sigue los pasos a a continuación:

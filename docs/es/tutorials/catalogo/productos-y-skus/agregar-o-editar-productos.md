@@ -37,7 +37,7 @@ Para agregar un nuevo producto al catálogo de la tienda, sigue los pasos a cont
 
 > ❗ Después de crear un producto puedes inactivarlo. Sin embargo, no es posible eliminar un solo producto. La plataforma solo permite eliminar productos y SKUs en masa mediante [Mantenimiento de base de datos (Full Cleanup)](/es/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802).
 
-> ℹ️ Si un producto no se muestra en la vitrina de la tienda después de crearlo, consulta el artículo [¿Por qué el producto no aparece en el sitio web? para saber cómo resolver el problema](/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
+> ℹ️ Si un producto no se muestra en la vitrina de la tienda después de crearlo, consulta el artículo [¿Por qué el producto no aparece en el sitio web? para saber cómo resolver el problema](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web).
 
 Las próximas secciones describen cómo rellenar los campos de creación de productos.
 

@@ -33,7 +33,7 @@ The VTEX platform is structured in modules for each part of the store's operatio
 There are no prior settings to make before configuring the Catalog, but the following should be noted:
 
 - __Customer navigation on the site__: You need to plan how you want to arrange your [category tree](#category-tree) and know in advance what browsing experience you want to offer to customers in the category hierarchy.
-- __Making products available to customers__: To [make a product available in the store](/en/faq/why-is-the-product-not-visible-on-the-website--frequentlyAskedQuestions_382), after the Catalog settings, you must add a [price](#prices) and shipping [logistics](#logistics) to the SKU. Also, the store's CMS must be correctly configured.
+- __Making products available to customers__: To [make a product available in the store](/en/faq/why-is-the-product-not-visible-on-the-website), after the Catalog settings, you must add a [price](#prices) and shipping [logistics](#logistics) to the SKU. Also, the store's CMS must be correctly configured.
 
 ### Catalog architecture
 

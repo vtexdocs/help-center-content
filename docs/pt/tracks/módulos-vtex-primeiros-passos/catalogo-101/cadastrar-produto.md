@@ -23,7 +23,7 @@ Há diferentes formas de cadastrar um produto:
 
 > ℹ️ Antes de criar um produto, é necessário que você tenha criado e ativado sua marca e categoria.
 
-> ⚠️ Se o seu produto não aparecer no site da sua loja após o cadastro, confira o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) para entender como resolver esse problema.
+> ⚠️ Se o seu produto não aparecer no site da sua loja após o cadastro, confira o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site) para entender como resolver esse problema.
 
 ## Admin VTEX
 

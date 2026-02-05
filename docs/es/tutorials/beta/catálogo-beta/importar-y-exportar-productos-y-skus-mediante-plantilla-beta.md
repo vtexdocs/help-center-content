@@ -118,7 +118,7 @@ La siguiente tabla presenta la descripción y el ejemplo de valor de los campos 
 | Código fiscal | Secuencia numérica que identifica el producto. | 84509010 |
 | ID SKU | Código numérico único que identifica el SKU. Si este campo ya está completado no se puede modificar. Para agregar un nuevo producto deja el campo vacío. | 310119261 |
 | Nombre SKU* | Nombre del SKU, es decir, lo que identifica la variación del producto. | M |
-| Activar SKU si es posible* | Si deseas la activación automática del SKU después de verificar los [requisitos de disponibilidad](/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382), llena con `sí`. Si no deseas que se active, llena con `no`. | sí |
+| Activar SKU si es posible* | Si deseas la activación automática del SKU después de verificar los [requisitos de disponibilidad](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web), llena con `sí`. Si no deseas que se active, llena con `no`. | sí |
 | SKU Activo | Este campo define si el SKU está activo (`sí`) o inactivo (`no`). El campo no permite modificación y solo se utiliza para consulta. | no |
 | Kit | Este campo define si el SKU es un [kit](/es/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). La acción de convertir un SKU en kit es irreversible. Si vas a crear un nuevo SKU, deja el campo vacío. | |
 | Código Referencia SKU | Código de referencia único del SKU, creado para ayudar en la gestión del catálogo. Una vez creado, no se puede modificar desde la plantilla.Este campo es obligatorio a menos que se haya llenado el campo **EAN/UPC**. | |

@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'A nova interface para mapear categorias e atributos chega para substituir a planilha de mapeamento'
 ---
 
-Dando continuidade às melhorias feitas para a [certificação do Mercado Livre](/pt/announcements/vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil--34D14K2Y6ogJs3OxKpQUrJ), estamos liberando oficialmente para todos os clientes VTEX que operam como sellers no Mercado Livre a nova interface de mapeamento de categorias e atributos.
+Dando continuidade às melhorias feitas para a [certificação do Mercado Livre](/pt/announcements/2021-08-23-vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil), estamos liberando oficialmente para todos os clientes VTEX que operam como sellers no Mercado Livre a nova interface de mapeamento de categorias e atributos.
 
 Antes da certificação, os sellers precisavam preencher a [planilha de mapeamento](/pt/tutorial/mapeamento-de-categorias-variacoes-e-atributos-do-mercado-libre--4xNFUZZmboCSUVdLCFo6eA) com as categorias e atributos dos produtos que desejavam anunciar no Mercado Livre. A nova interface para mapear categorias e atributos chega para substituir a planilha de mapeamento.
 

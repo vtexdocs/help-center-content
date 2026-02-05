@@ -17,7 +17,7 @@ announcementSynopsisEN: 'Managing pages in Store Framework CMS requires a role w
 
 [Pages](/en/tutorial/pages-overview--5iBUUJbK5NqG6OxlDrGNzc) is a Store Framework CMS feature that manages all URL routes and corresponding page templates of your store’s website, such as home, product, and login page. For security purposes, we now require Admin users to have specific permission to manage the routes and page templates with this feature.
 
-> ⚠️ As [announced before](/en/announcements/new-permission-required-to-manage-redirects-in-store-framework-cms--1GcT48ML2w6TZQxQyGbD6W), the `CMS Settings` role was already required to manage redirects with Store Framework CMS.
+> ⚠️ As [announced before](/en/announcements/2023-08-31-new-permission-required-to-manage-redirects-in-store-framework-cms), the `CMS Settings` role was already required to manage redirects with Store Framework CMS.
 
 ## What has changed?
 

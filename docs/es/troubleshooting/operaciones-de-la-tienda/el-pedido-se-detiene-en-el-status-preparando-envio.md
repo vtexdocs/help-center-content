@@ -41,7 +41,7 @@ Después de esta confirmación, sigue los pasos a continuación para verificar s
 2. Accede al pedido deseado.
 3. En la [página de detalles del pedido](/es/tutorial/pagina-de-detalles-del-pedido--2Y75n54Cc9VizrlG1N6ZNl), comprueba que el status se haya actualizado a `Facturado`.
 
-> ⚠️ Si el pedido aún permanece con el status `Preparando envío`, comprueba que no haya ninguna inconsistencia en la comunicación con el marketplace. Para saber más, consulta [El pedido fue facturado en el ERP pero continúa con el status "Preparando Envío". ¿Qué hacer?](/es/faq/el-pedido-fue-facturado-en-el-erp-pero-continua-en-el-statu-preparando-entrega--4szpXviNMAkwOe2cCiMiMe).
+> ⚠️ Si el pedido aún permanece con el status `Preparando envío`, comprueba que no haya ninguna inconsistencia en la comunicación con el marketplace. Para saber más, consulta [El pedido fue facturado en el ERP pero continúa con el status "Preparando Envío". ¿Qué hacer?](/es/faq/el-pedido-fue-facturado-en-el-erp-pero-continua-en-el-statu-preparando-entrega).
 
 ### Registro manual de facturas (opcional)
 

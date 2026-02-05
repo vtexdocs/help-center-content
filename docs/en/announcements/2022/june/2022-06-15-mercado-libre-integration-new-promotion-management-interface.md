@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Launching new Mercado Libre promotion management interface'
 ---
 
-Continuing with the improvements implemented for the [Mercado Libre certification](/en/announcements/vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil--34D14K2Y6ogJs3OxKpQUrJ), we are officially launching the new interface for managing Mercado Libre promotions for all VTEX customers who operate as sellers on the marketplace.
+Continuing with the improvements implemented for the [Mercado Libre certification](/en/announcements/2021-08-23-vtex-is-now-officially-a-certified-mercado-libre-partner-in-brazil), we are officially launching the new interface for managing Mercado Libre promotions for all VTEX customers who operate as sellers on the marketplace.
 
 On the new Mercado Libre **Promotions** page, you can manage a list of different promotional campaigns on the platform available for your store.
 

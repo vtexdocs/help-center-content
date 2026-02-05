@@ -17,7 +17,7 @@ announcementSynopsisPT: 'Em 2024, a VTEX descontinuará os conectores legados de
 
 Para integrar meios de pagamentos à plataforma VTEX, provedores de pagamentos podem criar conectores de pagamentos utilizando o [Payment Provider Protocol](/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m) (PPP). Entretanto, há diversos conectores legados utilizando versões anteriores da nossa arquitetura de integração de pagamentos, que são menos estáveis e menos performáticas.
 
-> ⚠️ **Atualização (15/03/2024): **[Lista de conectores disponíveis para migração](/pt/announcements/descontinuidade-de-conectores-legados-de-pagamento--11SHyRwcAr4fs46K7PccOr).
+> ⚠️ **Atualização (15/03/2024): **[Lista de conectores disponíveis para migração](/pt/announcements/2024-03-15-descontinuidade-de-conectores-legados-de-pagamento).
 
 ## O que está mudando?
 

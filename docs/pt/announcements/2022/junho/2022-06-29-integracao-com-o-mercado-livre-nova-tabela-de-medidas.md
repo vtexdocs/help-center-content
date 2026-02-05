@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Lançamos a nova tabela de medidas do Mercado Livre para lojas que atuam como sellers no marketplace.'
 ---
 
-Dando continuidade às melhorias feitas para a [certificação do Mercado Livre](/pt/announcements/vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil--34D14K2Y6ogJs3OxKpQUrJ), estamos lançando a nova tabela de medidas do Mercado Livre para todos as lojas VTEX que operam como sellers no marketplace.
+Dando continuidade às melhorias feitas para a [certificação do Mercado Livre](/pt/announcements/2021-08-23-vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil), estamos lançando a nova tabela de medidas do Mercado Livre para todos as lojas VTEX que operam como sellers no marketplace.
 
 A tabela de medidas permite que os clientes saibam o tamanho aproximado do produto que estão adquirindo, proporcionando uma melhor experiência no momento de selecionar o tamanho do produto.
 

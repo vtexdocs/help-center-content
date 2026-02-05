@@ -22,7 +22,7 @@ The **Warehouse assignment** feature allows you to sync different logistics poin
 To use the **Warehouse assignment** feature, your VTEX account must meet the three requirements below:  
 
 - Have your account enabled for [warehouse assignment](/en/tutorial/alocacao-de-estoque-no-mercado-livre--6BfmmAFctWbi7hxJlxCU1S).  
-- Have your account enabled for the new model for [adding products](/en/announcements/novo-modelo-de-anuncios-no-mercado-livre--3g7c72gcJk6WvKXNGfPTkb) and have at least one offer using the new model.  
+- Have your account enabled for the new model for [adding products](/en/announcements/2025-06-30-new-offer-model-on-mercado-libre) and have at least one offer using the new model.  
 - Have active warehouses in the VTEX Shipping Strategy module.  
 
 ## Page structure

@@ -38,6 +38,6 @@ La actualización de la Lista de promociones forma parte del [Nuevo Admin VTEX](
 
 ## ¿Qué se necesita hacer?
 
-La nueva Lista de promociones solo está disponible para las tiendas que operan con el [Nuevo Admin VTEX](/es/announcements/bienvenido-al-nuevo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). Para ser parte de la nueva experiencia, participa del [programa Beta](https://content.vtex.com/join-new-admin-beta-program-es/?utm_source=announcement&utm_medium=help_center&utm_campaign=promotions_list) del Nuevo Admin VTEX.
+La nueva Lista de promociones solo está disponible para las tiendas que operan con el [Nuevo Admin VTEX](/es/announcements/2022-06-13-bienvenido-al-nuevo-admin-vtex). Para ser parte de la nueva experiencia, participa del [programa Beta](https://content.vtex.com/join-new-admin-beta-program-es/?utm_source=announcement&utm_medium=help_center&utm_campaign=promotions_list) del Nuevo Admin VTEX.
 
 Para obtener más información sobre cómo aprovechar al máximo la nueva página, consulta [Lista de promociones (Beta)](/es/tutorial/lista-de-promociones-beta--4yB7nNdliiFxBTXE19GCIi).

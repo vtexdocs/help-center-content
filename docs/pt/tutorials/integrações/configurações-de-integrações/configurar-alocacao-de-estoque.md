@@ -22,7 +22,7 @@ A funcionalidade **Alocação de estoque** permite sincronizar diferentes pontos
 Para utilizar a funcionalidade **Alocação de estoque**, a conta VTEX precisa atender aos três requisitos abaixo:  
 
 - Estar habilitada para [alocação de estoque](/pt/tutorial/alocacao-de-estoque-no-mercado-livre--6BfmmAFctWbi7hxJlxCU1S).  
-- Estar habilitada para o novo modelo de [cadastro de produto](/pt/announcements/novo-modelo-de-anuncios-no-mercado-livre--3g7c72gcJk6WvKXNGfPTkb) e ter ao menos um anúncio cadastrado no novo modelo.  
+- Estar habilitada para o novo modelo de [cadastro de produto](/pt/announcements/2025-06-30-novo-modelo-de-anuncios-no-mercado-livre) e ter ao menos um anúncio cadastrado no novo modelo.  
 - Verifique se os estoques estão ativos no módulo de Estratégias de envio da VTEX.  
 
 ## Estrutura da página  

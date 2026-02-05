@@ -76,7 +76,7 @@ A lista de produtos pode ser filtrada pelas opções da lista abaixo. Para isso,
 
 | **Tipo de status** | **Descrição** |
 | :----------: | :---------- |
-| Ativo | O produto se torna ativo quando o lojista habilita essa configuração no produto, demonstrando querer vendê-lo.Para ser vendido, o produto precisa estar ativo, mas essa ativação não garante sua disponibilidade, pois o produto disponível precisa atender a outros fatores, como preço, inventário, entre outros. Saiba mais em [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382). |
+| Ativo | O produto se torna ativo quando o lojista habilita essa configuração no produto, demonstrando querer vendê-lo.Para ser vendido, o produto precisa estar ativo, mas essa ativação não garante sua disponibilidade, pois o produto disponível precisa atender a outros fatores, como preço, inventário, entre outros. Saiba mais em [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site). |
 | Inativo | O produto se torna inativo quando o lojista desabilita essa configuração, indicando não querer vendê-lo no momento.Todo produto inativo se encontra indisponível para vendas. |
 
 ## Acompanhar disponibilidade de produtos
@@ -86,7 +86,7 @@ Na página **Produtos e SKUs**, cada produto tem um ícone colorido que sinaliza
 | **Cor de ícone** | **Nome** | **Significado** |
 | :---: | :---: | :--- |
 | Verde | `Disponível para venda` | O produto está habilitado para o status ativo e se encontra disponível para vendas na loja, associado a pelo menos uma [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV). |
-| Laranja | `Produto indisponível` | O produto está indisponível para venda, apesar de estar ativo. Ou seja, o lojista habilitou o status que demonstra querer vender o produto, mas no momento isso não é possível.Diferentes motivos podem causar a indisponibilidade do produto, tais como preço, inventário, logística ou outro. Para mais informações, confira o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382). |
+| Laranja | `Produto indisponível` | O produto está indisponível para venda, apesar de estar ativo. Ou seja, o lojista habilitou o status que demonstra querer vender o produto, mas no momento isso não é possível.Diferentes motivos podem causar a indisponibilidade do produto, tais como preço, inventário, logística ou outro. Para mais informações, confira o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site). |
 | Branco | `Inativo no catálogo` | O produto está desabilitado e tem status inativo.Quando o lojista desativa o produto, é porque não deseja vendê-lo e, neste caso, o acompanhamento de sua disponibilidade não se aplica. |
 
 Os ícones de disponibilidade do produto são igualmente aplicáveis para o SKU, conforme apresentado na seção a seguir.
@@ -144,5 +144,5 @@ No canto superior direito do modal, você tem a opção de copiar o conteúdo pa
 * [Adicionar ou editar produto](/pt/tutorial/adicionar-ou-editar-produto--29IkdEu6GofCFlltsZh2H8)
 * [Adicionar ou editar SKU](/pt/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN)
 * [Preencher campos de cadastro de produto](/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke)
-* [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382)
+* [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site)
 * [Quais configurações logísticas impactam na disponibilidade do produto no carrinho?](/pt/tutorial/quais-configuracoes-logisticas-impactam-na-disponibilidade-do-produto-no-carrinho--NAyBFToRdvlDyOzeeAeNw)

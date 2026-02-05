@@ -41,7 +41,7 @@ After this confirmation, follow the steps below to check if the status has chang
 2. Go to the desired order.
 3. On the [order details page](/en/tutorial/order-details-page--2Y75n54Cc9VizrlG1N6ZNl), check if the order status changed to `Invoiced`.
 
-> ⚠️ If the order still has the status `Handling shipping`, check if there's any inconsistency in the communication with the marketplace. Learn more in [The order was billed in the ERP but remains in the "Handling shipping" status. What to do?](/en/faq/the-order-was-billed-in-the-erp-but-remains-in-the-preparing-delivery-status--4szpXviNMAkwOe2cCiMiMe).
+> ⚠️ If the order still has the status `Handling shipping`, check if there's any inconsistency in the communication with the marketplace. Learn more in [The order was billed in the ERP but remains in the "Handling shipping" status. What to do?](/en/faq/the-order-was-billed-in-the-erp-but-remains-in-the-preparing-delivery-status).
 
 ### Adding invoices manually (optional)
 

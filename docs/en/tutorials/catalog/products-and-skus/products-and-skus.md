@@ -78,7 +78,7 @@ The table below explains the filtering options for `Status`:
 
 | **Status type** | **Description** |
 | :---: | :--- |
-| Active | The product becomes active when the merchant enables this setting, meaning they want to sell it.Activation alone doesn't guarantee availability — the product also needs to meet other conditions, like price and inventory. Learn more in [Why is the product not visible on the website?](/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382). |
+| Active | The product becomes active when the merchant enables this setting, meaning they want to sell it.Activation alone doesn't guarantee availability — the product also needs to meet other conditions, like price and inventory. Learn more in [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website). |
 | Inactive | The product becomes inactive when the merchant disables this setting, meaning they don't want to sell it at the moment. All inactive products are unavailable for sale. |
 
 The same availability icons also apply to SKUs, as explained in the next section.
@@ -90,7 +90,7 @@ On the **Products and SKUs** page, each product has a colored icon that indicate
 | **Icon color** | **Name** | **Meaning** |
 | :---: | :--- | :--- |
 | Green | `Available for sale` | The product is enabled with an active status and is available for sale in the store, associated with at least one [trade policy](/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV). |
-| Orange | `Unavailable product` | The product is unavailable for sale, even though it is active. This means the seller marked the product as available for sale, but it is currently not sellable.Several reasons may cause a product to be unavailable, such as pricing, inventory, logistics, or others. For more information, check the article [Why is the product not showing on the website?](/en/faq/why-is-the-product-not-visible-on-the-website--frequentlyAskedQuestions_382) |
+| Orange | `Unavailable product` | The product is unavailable for sale, even though it is active. This means the seller marked the product as available for sale, but it is currently not sellable.Several reasons may cause a product to be unavailable, such as pricing, inventory, logistics, or others. For more information, check the article [Why is the product not showing on the website?](/en/faq/why-is-the-product-not-visible-on-the-website) |
 | White | `Inactive in the catalog` | The product is disabled and has an inactive status.When a seller disables a product, it means they do not intend to sell it. In this case, availability tracking does not apply. |
 
 The availability icons for the product also apply to SKUs, as shown in the following section.
@@ -147,6 +147,6 @@ In the top right corner of the modal, you can copy the content to the clipboard 
 * [Adding or editing products](/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8)
 * [Adding or editing SKUs](/en/tutorial/adding-or-editing-skus--4ryZ6J45kwn3jDiQBxGiiN)
 * [Filling in product registration fields](/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke)
-* [Why is the product not visible on the website?](/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382)
+* [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website)
 * [Which logistics settings can impact the product availability in the cart?](/en/tutorial/quais-configuracoes-logisticas-impactam-na-disponibilidade-do-produto-no-carrinho--NAyBFToRdvlDyOzeeAeNw)
 

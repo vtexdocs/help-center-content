@@ -186,5 +186,5 @@ Possible ticket statuses are:
   - **Solved:** The ticket has been solved by the support agent or the user. The user has 27 working hours to reopen the ticket by replying to the support email or accessing the **Request History**. Otherwise, the ticket will be closed.
   - **Closed:** The ticket has been solved and marked as closed automatically after 27 working hours without further interaction. Closed tickets cannot be reopened.
 
-Once the ticket is solved, the support team will email you a link to a [satisfaction survey](/en/announcements/avalie-o-atendimento-da-vtex-pelo-seu-admin--7rSJLgGbtRw2GhjTJezkJf). This survey allows you to evaluate the service without leaving the VTEX environment and contribute to continuous support improvement.
+Once the ticket is solved, the support team will email you a link to a [satisfaction survey](/en/announcements/2022-01-13-rate-vtexs-service-in-your-admin). This survey allows you to evaluate the service without leaving the VTEX environment and contribute to continuous support improvement.
 

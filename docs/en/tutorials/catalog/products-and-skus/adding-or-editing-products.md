@@ -37,7 +37,7 @@ To add a new product to the store catalog, follow these steps:
 
 > ❗ You can deactivate a product after creating it, but you can't delete a single product. The platform only allows bulk deleting products and SKUs in bulk via [Full Cleanup](/en/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802).
 
-> ℹ️ If the product you created doesn't show in the storefront, check the article [Why is the product not visible on the website?](/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) to learn how to solve the problem.
+> ℹ️ If the product you created doesn't show in the storefront, check the article [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website) to learn how to solve the problem.
 
 See the following sections to learn how to complete the product creation fields.
 

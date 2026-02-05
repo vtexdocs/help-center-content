@@ -60,7 +60,7 @@ Veja nas seções a seguir os campos do formulário e as orientações sobre com
 A parte inicial do formulário é sobre a nomeação e ativação do SKU:
 
 * **Nome*:** insira o nome do SKU, ou seja, a identificação da variação do produto. O nome é limitado a 200 caracteres. Exemplo: para o produto "Geladeira", o nome do SKU pode ser "110 volts".
-* **Ativo:** para ativar o SKU sendo criado, habilite o <i class="fas fa-toggle-on" aria-hidden="true"></i>. Para mantê-lo inativo, deixe o toggle desabilitado <i class="fas fa-toggle-off" aria-hidden="true"></i>. Se após ativar o SKU ele estiver indisponível para venda, consulte o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
+* **Ativo:** para ativar o SKU sendo criado, habilite o <i class="fas fa-toggle-on" aria-hidden="true"></i>. Para mantê-lo inativo, deixe o toggle desabilitado <i class="fas fa-toggle-off" aria-hidden="true"></i>. Se após ativar o SKU ele estiver indisponível para venda, consulte o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site).
 
 ## Especificações
 
@@ -109,7 +109,7 @@ Além de adicionar novas imagens a um SKU, é possível replicar as imagens de u
 2. No modal **Escolha os SKUs em que deseja replicar as mídias**, clique nos SKUs para os quais deseja copiar as imagens.
 3. Clique em `Aplicar`.
 
-> ⚠️ Para ativar um SKU, um dos requisitos é ele ter pelo menos uma imagem. Para saber mais sobre as condições para apresentar um item no storefront, consulte o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
+> ⚠️ Para ativar um SKU, um dos requisitos é ele ter pelo menos uma imagem. Para saber mais sobre as condições para apresentar um item no storefront, consulte o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site).
 
 ### Vídeos
 

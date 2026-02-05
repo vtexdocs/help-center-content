@@ -121,7 +121,7 @@ Para um serviço especializado no gerenciamento de metas dos vendedores, recomen
 
 Sim, para isso basta que o vendedor utilize a funcionalidade **Forçar estoque**. Saiba mais na nossa documentação para desenvolvedores [Force stock availability](https://developers.vtex.com/docs/guides/force-stock-availability). 
 
-> ℹ️ Para entender os motivos para um produto disponível no estoque local aparecer como indisponível no sistema, confira os artigos:<ul><li>[Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382)</li><li>[Quais configurações logísticas impactam na disponibilidade do produto no carrinho?](/pt/tutorial/quais-configuracoes-logisticas-impactam-na-disponibilidade-do-produto-no-carrinho--NAyBFToRdvlDyOzeeAeNw)</li></ul>
+> ℹ️ Para entender os motivos para um produto disponível no estoque local aparecer como indisponível no sistema, confira os artigos:<ul><li>[Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site)</li><li>[Quais configurações logísticas impactam na disponibilidade do produto no carrinho?](/pt/tutorial/quais-configuracoes-logisticas-impactam-na-disponibilidade-do-produto-no-carrinho--NAyBFToRdvlDyOzeeAeNw)</li></ul>
 
 ### 9. O VTEX Sales App tem alguma limitação de funcionamento em dispositivos, como somente versão mobile?
 

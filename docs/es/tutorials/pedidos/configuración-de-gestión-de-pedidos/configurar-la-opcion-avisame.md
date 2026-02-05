@@ -70,4 +70,4 @@ Para configurar la plantilla del email de **Avísame** que recibirá el cliente,
 
 * [Exportar los clientes registrados en la notificación de disponibilidad (Avísame)](/es/tutorial/exportar-los-clientes-registrados-en-la-notificacion-de-disponibilidad--3Yr19DMQukGeIImUeCwIao)
 * [Insertar imágenes en el email de Avísame](/es/tutorial/insertar-imagenes-en-el-email-de-avisame--3soCXGcE3XBPsnPhxJh2DY)
-* [Qué hacer cuando no aparece la opción Avísame](/es/faq/que-hacer-cuando-no-aparece-la-opcion-avisame--oNb6JK1LPMOQwYsecKKCs)
+* [Qué hacer cuando no aparece la opción Avísame](/es/faq/que-hacer-cuando-no-aparece-la-opcion-avisame)

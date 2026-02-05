@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'We launched the new Mercado Libre size chart for stores that operate as sellers on the marketplace.'
 ---
 
-Continuing with the improvements that were completed for the [Mercado Libre certification](/en/announcements/vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil--34D14K2Y6ogJs3OxKpQUrJ), we are launching the new Mercado Libre size chart for all VTEX stores that operate as sellers on the marketplace.
+Continuing with the improvements that were completed for the [Mercado Libre certification](/en/announcements/2021-08-23-vtex-is-now-officially-a-certified-mercado-libre-partner-in-brazil), we are launching the new Mercado Libre size chart for all VTEX stores that operate as sellers on the marketplace.
 
 The size chart allows customers to find out the approximate measurement of the product they're buying, which provides a better experience when selecting product size.
 

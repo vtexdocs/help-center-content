@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Lançamento da nova interface de gerenciamento de promoções do Mercado Livre'
 ---
 
-Dando continuidade às melhorias feitas para a [certificação do Mercado Livre](/pt/announcements/vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil--34D14K2Y6ogJs3OxKpQUrJ), estamos lançando oficialmente a nova interface para gerenciamento de promoções no Mercado Livre para todos os clientes VTEX que operam como sellers no marketplace.
+Dando continuidade às melhorias feitas para a [certificação do Mercado Livre](/pt/announcements/2021-08-23-vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil), estamos lançando oficialmente a nova interface para gerenciamento de promoções no Mercado Livre para todos os clientes VTEX que operam como sellers no marketplace.
 
 Na nova página de **Promoções** do Mercado Livre, é possível gerenciar uma lista com diferentes campanhas promocionais na plataforma disponíveis para a sua loja.
 

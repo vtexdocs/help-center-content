@@ -23,7 +23,7 @@ Hay diferentes formas de registrar un producto:
 
 > ℹ️ Antes de crear un producto, debe haber creado y activado su marca y su categoría. 
 
-> ⚠️ Si su producto no aparece en el sitio web de su tienda después del registro, consulte el artículo [¿Por qué el producto no aparece en el sitio?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio--frequentlyAskedQuestions_382) para entender cómo resolver este problema.
+> ⚠️ Si su producto no aparece en el sitio web de su tienda después del registro, consulte el artículo [¿Por qué el producto no aparece en el sitio?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web) para entender cómo resolver este problema.
 
 ## Admin VTEX
 

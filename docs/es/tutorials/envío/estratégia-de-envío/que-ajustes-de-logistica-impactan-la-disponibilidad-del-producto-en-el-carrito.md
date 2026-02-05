@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-En algunas ocasiones, un producto correctamente configurado y que [se muestra como disponible en la vitrina](/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) puede mostrarse indisponible al agregarlo al carrito. Varios aspectos de [logística](/es/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP) pueden afectar la disponibilidad del producto en el carrito. Los siguientes temas permiten identificar las posibles causas:
+En algunas ocasiones, un producto correctamente configurado y que [se muestra como disponible en la vitrina](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web) puede mostrarse indisponible al agregarlo al carrito. Varios aspectos de [logística](/es/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP) pueden afectar la disponibilidad del producto en el carrito. Los siguientes temas permiten identificar las posibles causas:
 
 * [Simulador de envío](#simulador-de-envio)
 * [Stock](#stock)

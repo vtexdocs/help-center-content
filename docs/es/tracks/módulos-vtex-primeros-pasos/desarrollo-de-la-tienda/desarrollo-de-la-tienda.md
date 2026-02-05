@@ -33,7 +33,7 @@ En VTEX, los storefronts pueden ser construidos a través del CMS Portal (Legado
 Otro elemento esencial de una tienda es el admin o, en el caso de VTEX, el Admin VTEX. El Admin permite gestionar toda la información necesaria para mejorar el rendimiento del negocio y tomar decisiones mejor fundamentadas. 
 
 ## VTEX IO
-Manteniendo el enfoque en el rendimiento y en ofrecer la mejor experiencia posible, VTEX introdujo en el mercado el concepto de VTEX IO. VTEX IO es una plataforma de desarrollo con poco código y basado en la nube que les permite a [los desarrolladores](https://partnerportal.vtex.com/) crear soluciones de ecommerce. El objetivo es ofrecer una forma más económica y eficiente de desarrollar soluciones e integraciones personalizadas dentro del ecosistema VTEX. 
+Manteniendo el enfoque en el rendimiento y en ofrecer la mejor experiencia posible, VTEX introdujo en el mercado el concepto de VTEX IO. VTEX IO es una plataforma de desarrollo con poco código y basado en la nube que les permite a [los desarrolladores](https://vtex.com/pt-br/parceiros/) crear soluciones de ecommerce. El objetivo es ofrecer una forma más económica y eficiente de desarrollar soluciones e integraciones personalizadas dentro del ecosistema VTEX. 
 
 Con este fin, la plataforma ofrece al equipo de desarrollo de tu tienda todas las herramientas necesarias para que se centren en la implementación del problema de negocio sin tener que preocuparse por la compatibilidad y la infraestructura de software. VTEX IO permite el desarrollo tanto frontend como backend. 
 

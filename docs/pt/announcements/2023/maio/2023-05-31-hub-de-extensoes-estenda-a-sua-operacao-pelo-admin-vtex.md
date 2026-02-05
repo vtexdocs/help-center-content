@@ -35,13 +35,13 @@ Os preços na **App Store** aparecem em reais (BRL) para lojas no Brasil e em d�
 
 ### Parceiros
 
-Trouxemos toda a experiência do [site Portal de Parceiros](https://partnerportal.vtex.com/) para a nova página do Hub de Extensões. Com isso facilitamos a descoberta de parceiros para o seu negócio e deixamos a experiência unificada com as extensões da plataforma. Através do novo ** Parceiros**, você pode procurar por parceiros, obter detalhes sobre eles e fazer o contato inicial dentro do Admin VTEX.
+Trouxemos toda a experiência do [site Portal de Parceiros](https://vtex.com/pt-br/parceiros/) para a nova página do Hub de Extensões. Com isso facilitamos a descoberta de parceiros para o seu negócio e deixamos a experiência unificada com as extensões da plataforma. Através do novo ** Parceiros**, você pode procurar por parceiros, obter detalhes sobre eles e fazer o contato inicial dentro do Admin VTEX.
 
-O [site Portal de Parceiros](https://partnerportal.vtex.com/) continuará existindo sem nenhuma alteração.
+O [site Portal de Parceiros](https://vtex.com/pt-br/parceiros/) continuará existindo sem nenhuma alteração.
 
 ### Gerenciamento de Aplicativos
 
-**Gerenciamento de Aplicativos** é o novo nome para a página **Meus Aplicativos**. Ele continua com as mesmas funcionalidades: instalar, desinstalar, remover e configurar apps. A página foi movida para o Hub de Extensões para unificar as experiências de compra e de gerenciamento dos aplicativos. Além disso, atualizamos a interface da página seguindo o padrão de design do [novo Admin VTEX](/pt/announcements/de-as-boas-vindas-ao-novo-admin-vtex--428AanFpOiQgRkaLvDHVO9).
+**Gerenciamento de Aplicativos** é o novo nome para a página **Meus Aplicativos**. Ele continua com as mesmas funcionalidades: instalar, desinstalar, remover e configurar apps. A página foi movida para o Hub de Extensões para unificar as experiências de compra e de gerenciamento dos aplicativos. Além disso, atualizamos a interface da página seguindo o padrão de design do [novo Admin VTEX](/pt/announcements/2023-04-20-de-as-boas-vindas-ao-novo-admin-vtex).
 
 ## O que precisa ser feito?
 

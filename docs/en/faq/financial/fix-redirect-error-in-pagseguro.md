@@ -14,7 +14,7 @@ locale: en
 legacySlug: fix-redirect-error-in-pagseguro
 ---
 
-> ❗ This payment integration can no longer be configured on the platform due to the [legacy provider removal process](/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14) and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.
+> ❗ This payment integration can no longer be configured on the platform due to the [legacy provider removal process](/en/announcements/2023-10-13-legacy-payment-connectors-will-be-discontinued-in-2024) and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.
 
 If you are having "redirect problems" using PagSeguro, it's likely that PagSeguro's *redirect* is configured incorrectly.
 

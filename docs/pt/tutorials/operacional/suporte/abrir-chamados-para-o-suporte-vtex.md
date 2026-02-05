@@ -188,5 +188,5 @@ Os status possíveis são:
 - **Resolvido:** chamado solucionado pelo agente do suporte ou pelo cliente. O cliente tem 27 horas úteis para reabrir o chamado respondendo ao email do suporte ou acessando o **Histórico de solicitações**. Caso contrário, o chamado será fechado.
 - **Fechado:** chamado marcado como resolvido e fechado automaticamente após 27 horas úteis sem nova interação. Não pode ser reaberto.
 
-Após a resolução do chamado, a equipe de suporte enviará um email com um link para a [Pesquisa de Satisfação](/pt/announcements/avalie-o-atendimento-da-vtex-pelo-seu-admin--7rSJLgGbtRw2GhjTJezkJf). Por meio dessa pesquisa, você pode avaliar o atendimento sem sair do ambiente VTEX e contribuir para a melhoria contínua do suporte.
+Após a resolução do chamado, a equipe de suporte enviará um email com um link para a [Pesquisa de Satisfação](/pt/announcements/2022-01-13-avalie-o-atendimento-da-vtex-pelo-seu-admin). Por meio dessa pesquisa, você pode avaliar o atendimento sem sair do ambiente VTEX e contribuir para a melhoria contínua do suporte.
 

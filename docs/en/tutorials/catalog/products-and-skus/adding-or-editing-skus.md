@@ -60,7 +60,7 @@ See the following sections for details about the form fields and instructions on
 The first section of the form includes the name and status of the SKU:
 
 * **Name*:** Enter the SKU name, which identifies the product variation. The name is limited to 200 characters. Example: For the product "Refrigerator", the SKU name could be "28.6-Cu".
-* **Active:** To activate the SKU, enable the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i>. To keep it inactive, leave the toggle switch <i class="fas fa-toggle-off" aria-hidden="true"></i> disabled. If the SKU remains unavailable for sale after activation, check the article [Why is the product not visible on the website?](/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
+* **Active:** To activate the SKU, enable the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i>. To keep it inactive, leave the toggle switch <i class="fas fa-toggle-off" aria-hidden="true"></i> disabled. If the SKU remains unavailable for sale after activation, check the article [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website).
 
 ## Specifications
 
@@ -109,7 +109,7 @@ In addition to adding new images to an SKU, you can replicate images from one SK
 2. In the **Select the SKUs where you want to replicate the media** modal, click the SKUs to which you want to copy the images.
 3. Click `Apply`.
 
-> ⚠️ A SKU must have at least one image to be activated. For more information on the conditions for displaying an item on the storefront, see the article [Why is the product not visible on the website?](/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
+> ⚠️ A SKU must have at least one image to be activated. For more information on the conditions for displaying an item on the storefront, see the article [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website).
 
 ### Videos
 

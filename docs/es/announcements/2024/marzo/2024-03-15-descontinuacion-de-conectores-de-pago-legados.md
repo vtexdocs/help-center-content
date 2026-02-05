@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Los conectores de pago legados serán eliminados de la plataforma VTEX'
 ---
 
-Como parte del proceso en curso para descontinuar [conectores de pago legados](/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14), la siguiente tabla presenta los conectores legados que serán eliminados de la plataforma VTEX y los nuevos conectores (integrados vía Payment Provider Protocol) ya disponibles para reemplazarlos:
+Como parte del proceso en curso para descontinuar [conectores de pago legados](/es/announcements/2023-10-13-descontinuacion-de-conectores-de-pago-legados-en-2024), la siguiente tabla presenta los conectores legados que serán eliminados de la plataforma VTEX y los nuevos conectores (integrados vía Payment Provider Protocol) ya disponibles para reemplazarlos:
 
 | **Conector legado** | **Nueva versión (Conector PPP)** |
 | :---: | :---: |

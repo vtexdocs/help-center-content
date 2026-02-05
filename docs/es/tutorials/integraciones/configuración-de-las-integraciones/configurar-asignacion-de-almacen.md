@@ -22,7 +22,7 @@ La funcionalidad **Asignación de almacén** permite sincronizar los diferentes 
 Para utilizar la funcionalidad **Asignación de almacén** la cuenta VTEX debe cumplir con los siguientes tres requisitos:  
 
 - La [asignación de almacén](/es/tutorial/alocacao-de-estoque-no-mercado-livre--6BfmmAFctWbi7hxJlxCU1S) debe estar activa.  
-- Debe operar con el nuevo modelo de [registro de producto](/es/announcements/novo-modelo-de-anuncios-no-mercado-livre--3g7c72gcJk6WvKXNGfPTkb) y contar con al menos un anuncio registrado en este nuevo modelo.  
+- Debe operar con el nuevo modelo de [registro de producto](/es/announcements/2025-06-30-nuevo-modelo-de-anuncios-en-mercado-libre) y contar con al menos un anuncio registrado en este nuevo modelo.  
 - Los almacenes deben estar activos en el módulo Estrategias de envío de VTEX.  
 
 ## Estructura de la página
