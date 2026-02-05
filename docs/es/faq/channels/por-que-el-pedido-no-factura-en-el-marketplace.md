@@ -34,5 +34,5 @@ La clave de acceso de la factura es un instrumento auxiliar para la consulta de 
 
 __ ¡Recuerde! __ Este elemento de información se crea cuando se genera la factura fiscal y funciona en ERP. Si tiene uno, solicítelo.
 
-Este valor puede ser ingresado manualmente por el administrador o por el [API de notificación de factura](https://developers.vtex.com/reference/invoice#invoicenotification), en el campo **invoiceKey**.
+Este valor puede ser ingresado manualmente por el administrador o por el [API de notificación de factura](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice), en el campo **invoiceKey**.
 

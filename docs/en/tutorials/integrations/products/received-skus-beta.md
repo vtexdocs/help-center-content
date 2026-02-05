@@ -17,7 +17,7 @@ subcategoryId: 4HBbKdnwneGew2qGGykSM8
 
 The Received SKUs page provides a way for [marketplaces](/en/tutorial/visao-geral-marketplace--40Zd0z9h2RXsM9uMUp3kEb) to view, prioritize, and catalog items sent by the sellers. This way, they can create new products and link them to existing SKUs or products to make them available for sale. You can access this page on the VTEX Admin by going to Marketplace > Received SKUs or typing Received SKUs in the Admin search bar.  
 
-Cataloging can be done manually or automatically [using one or more matchers](/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher?locale=pt) or [autoApprove](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions/#put-/suggestions/configuration/autoapproval/toggle). You can also use third-party tools to do this.  
+Cataloging can be done manually or automatically [using one or more matchers](/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher) or [autoApprove](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions/#put-/suggestions/configuration/autoapproval/toggle). You can also use third-party tools to do this.  
 
 This article provides an overview in the sections [Page structure](#page-structure), [Cataloging priority](#cataloging-priority), and [Cataloging items](#cataloging-items).  
 

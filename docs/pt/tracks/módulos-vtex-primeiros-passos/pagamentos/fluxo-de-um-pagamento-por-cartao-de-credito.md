@@ -17,12 +17,12 @@ order: 3
 
 O Fluxo básico de um pagamento por cartão de crédito é realizado pelos seguintes players:   
 
-- **Gateway de Pagamentos**: O [gateway de pagamentos](/pt/tutorial/o-que-e-um-gateway-de-pagamentos?locale=pt) é um sistema que efetua a transmissão dos dados das compras realizadas na sua loja. O gateway envia dados e recebe respostas para que você saiba se uma determinada compra deve ou não ser confirmada. 
-- **Adquirente**: O [adquirente](/pt/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil?locale=pt#adquirente), também chamado de credenciador, é uma empresa especializada em processar pagamentos, isso é, fazer a liquidação financeira das transações de uma loja por meio de cartões de crédito e débito.
+- **Gateway de Pagamentos**: O [gateway de pagamentos](/pt/tutorial/o-que-e-um-gateway-de-pagamentos) é um sistema que efetua a transmissão dos dados das compras realizadas na sua loja. O gateway envia dados e recebe respostas para que você saiba se uma determinada compra deve ou não ser confirmada. 
+- **Adquirente**: O [adquirente](/pt/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil#adquirente), também chamado de credenciador, é uma empresa especializada em processar pagamentos, isso é, fazer a liquidação financeira das transações de uma loja por meio de cartões de crédito e débito.
 - **Bandeira**: As [bandeiras](/pt/tutorial/o-que-e-uma-bandeira-de-cartao-de-credito--4bNba5QYuIwKEmac88KwyI) são empresas responsáveis por definir as regras de negócio para compras realizadas com cartão de crédito. São elas que definem os padrões pelos quais os adquirentes devem processar as transações realizadas por esse meio de pagamento (cada bandeira tem suas próprias regras).
-- **Banco Emissor**: O [banco emissor](/pt/tutorial/o-que-e-banco-emissor?locale=pt) é a instituição financeira responsável pelos meios de pagamento, sejam eles boletos bancários, cartões de débito ou de crédito. É ele que, ao receber os dados de uma compra feita na sua loja, vai autorizar ou não a venda (dependendo do limite de crédito ou do dinheiro disponível na conta do usuário). 
+- **Banco Emissor**: O [banco emissor](/pt/tutorial/o-que-e-banco-emissor) é a instituição financeira responsável pelos meios de pagamento, sejam eles boletos bancários, cartões de débito ou de crédito. É ele que, ao receber os dados de uma compra feita na sua loja, vai autorizar ou não a venda (dependendo do limite de crédito ou do dinheiro disponível na conta do usuário). 
 <br/>
-Para saber mais sobre os agentes financeiros envolvidos no fluxo de pagamento de um pedido no Brasil, confira [nosso artigo](/pt/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil?locale=pt#adquirente). <br/>
+Para saber mais sobre os agentes financeiros envolvidos no fluxo de pagamento de um pedido no Brasil, confira [nosso artigo](/pt/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil#adquirente). <br/>
 <br/>
 
 ## Fluxo de Pagamento

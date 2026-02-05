@@ -55,7 +55,7 @@ This is a resource that meets the needs of wholesale businesses. Currently, ther
 
 ### Product kits
 
-In VTEX, all stores have the [product kit](/en/tutorial/kit-registration?locale=en) feature, which allows you to sell a set of items for a specific price. 
+In VTEX, all stores have the [product kit](/en/tutorial/kit-registration) feature, which allows you to sell a set of items for a specific price. 
 
 > ℹ️ In B2B, the product kit is often referred to as "bundle." The terms "product kit" and "bundle" refer to the same tool.
 

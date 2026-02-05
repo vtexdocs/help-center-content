@@ -29,7 +29,7 @@ If you don't know which criteria to configure, we recommend using the default:
 
 To install the Order Configuration application in your Admin, see [our VTEX IO documentation](https://vtex.io/docs/components/content-blocks/vtex.order-configuration/readme/).
 
-Once the application has been installed, usage configurations are defined in [Price Simulations API](https://developers.vtex.com/reference/price-simulations-api-overview).
+Once the application has been installed, usage configurations are defined in [Price Simulations API](https://developers.vtex.com/docs/guides/price-simulations-api-overview).
 
 You must associate a [price table](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) with each scenario via API. This way, when users configure their purchase conditions, they will receive the prices referring to that rule.
 

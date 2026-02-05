@@ -59,6 +59,6 @@ To change the options, follow the steps below:
 
 - [Why was my order canceled?](/en/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493)
 - [Setting the grace period for order cancellation](/en/tutorial/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido)
-- [Why was my order canceled on the VTEX platform, and not in the marketplace?](/en/faq/por-que-meu-pedido-foi-cancelado?locale=pt)
+- [Why was my order canceled on the VTEX platform, and not in the marketplace?](/en/faq/por-que-meu-pedido-foi-cancelado)
 - [Order replacement](/en/tutorial/order-replacement--2IK9mwQjBKseQmE8K8saO8)
 

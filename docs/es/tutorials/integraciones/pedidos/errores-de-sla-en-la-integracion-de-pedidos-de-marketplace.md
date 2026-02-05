@@ -31,7 +31,7 @@ Los problemas más comunes que causan errores de SLA son:
 
 Después de solucionar el error, el pedido se debe reprocesar manualmente. En su Admin, en el módulo **MARKETPLACE > Integraciones > Pedidos**, haga clic en el pedido con error. Después de eso, el botón **Acciones** se vuelve visible, haga clic en el mismo y elija la opción **Reprocesar**.
 
-> ℹ️ Si el error persiste, abra un [ticket para el soporte VTEX](/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM?locale=pt).
+> ℹ️ Si el error persiste, abra un [ticket para el soporte VTEX](/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
 
 ### Sepa más
 

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2u48reCb68K48EAcm86ccM
 ---
 
-En la plataforma VTEX, es posible exportar una planilla con los [productos registrados](/tutorial/registrando-producto?locale=es) en la tienda.
+En la plataforma VTEX, es posible exportar una planilla con los [productos registrados](/tutorial/registrando-producto) en la tienda.
 
 A continuación, compruebe el paso a paso para realizar esta operación:
 

@@ -17,7 +17,7 @@ subcategoryId: 2P4LrAbvyEiCaekmaWaEOk
 
 Algunas tiendas recurren a aliados para integración de los SKUs de los sellers, en integraciones VTEX-VTEX, utilizando APIs. El objetivo de este artículo es ayudarlo a lidiar con los errores que pueden ser retornados durante esa operación.
 
-Las APIs utilizadas para la integración de los SKUs de los sellers están disponibles en la siguiente documentación: [https://developers.vtex.com/reference/marketplace-api-overview](https://developers.vtex.com/reference/marketplace-api-overview)
+Las APIs utilizadas para la integración de los SKUs de los sellers están disponibles en la siguiente documentación: [https://developers.vtex.com/docs/api-reference/marketplace-apis](https://developers.vtex.com/docs/api-reference/marketplace-apis)
 
 En el momento de la inserción de los SKUs vía API, ésta puede retornar algunos errores en sus llamadas, además de los retornos de éxito conocidos. Estos errores están relacionados en la tabla a continuación. Cada uno de ellos se identifica por un número de 0 a 23 (además de los errores 99 y 999, que son desconocidos). En la columna de la izquierda, están los nombres que describen cada uno de los errores.
 

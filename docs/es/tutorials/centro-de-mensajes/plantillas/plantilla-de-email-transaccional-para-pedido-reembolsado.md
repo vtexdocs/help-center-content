@@ -23,6 +23,6 @@ Para hacer esto, ingrese al Centro de Mensajes y busque la plantilla **Order Ref
 
 ## Evento de activación del email
 
-El correo electrónico de pedido reembolsado se activa cuando la tienda envía una notificación de factura de devolución. Este envío se realiza a través de la llamada de API [Order Invoice Notification](https://developers.vtex.com/reference/invoice#invoicenotification), con el campo `type` conteniendo el valor `input`.
+El correo electrónico de pedido reembolsado se activa cuando la tienda envía una notificación de factura de devolución. Este envío se realiza a través de la llamada de API [Order Invoice Notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice), con el campo `type` conteniendo el valor `input`.
 
 En el Admin, este evento se activa cuando se hace clic en el botón **Hacer devolución de ítems** en la pantalla de detalles del pedido.

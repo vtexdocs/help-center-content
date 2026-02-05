@@ -31,7 +31,7 @@ This article explains how to:
 
 ## Prerequisite
 
-To create a collection, you must have the _Owner (Admin Super)_ [role](/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=en) or create another role with the **Write Collections** feature enabled in the **Collections** section of the **Catalog** profiles. Find out more on our documentation about [Creating a role](/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=pt#creating-a-role).
+To create a collection, you must have the _Owner (Admin Super)_ [role](/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc) or create another role with the **Write Collections** feature enabled in the **Collections** section of the **Catalog** profiles. Find out more on our documentation about [Creating a role](/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role).
 
 ## Create a collection
 

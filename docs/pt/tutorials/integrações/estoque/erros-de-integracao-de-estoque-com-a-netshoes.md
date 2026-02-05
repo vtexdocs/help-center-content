@@ -61,7 +61,7 @@ ____
 
 `Este Sku não possui peso cadastrado ou é inferior a 1 grama, que é um campo obrigatório para integrar produtos neste marketplace`
 
-Este erro ocorre porque o campo _Peso real_ do cadastro do SKU não foi preenchido ou isso não foi feito de forma correta, sendo que se trata de uma informação obrigatória para a Netshoes. A solução é acessar seu Admin VTEX, em **Catálogo > Produtos e SKUs**, e identificar o SKU da mensagem. Você pode **Filtrar resultados ou fazer uma busca**, clicando sobre essa opção. Uma vez na página do cadastro do SKU, [preencha o campo](/pt/tutorial/campos-de-cadastro-de-sku?locale=pt) _Peso real_ com um valor acima de 1g, e clique **Salvar**.
+Este erro ocorre porque o campo _Peso real_ do cadastro do SKU não foi preenchido ou isso não foi feito de forma correta, sendo que se trata de uma informação obrigatória para a Netshoes. A solução é acessar seu Admin VTEX, em **Catálogo > Produtos e SKUs**, e identificar o SKU da mensagem. Você pode **Filtrar resultados ou fazer uma busca**, clicando sobre essa opção. Uma vez na página do cadastro do SKU, [preencha o campo](/pt/tutorial/campos-de-cadastro-de-sku) _Peso real_ com um valor acima de 1g, e clique **Salvar**.
 
 ____
 

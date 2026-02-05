@@ -19,11 +19,11 @@ Para garantizar el correcto funcionamiento de la integración, es necesario real
 
 ## Definiendo la política comercial
 
-Es necesario definir qué política comercial se utilizará para integrar sus productos con Wish. Esta definición implicará cuatro aspectos principales: surtido de productos, stock, precio y moneda. Es decir, la disponibilidad y los precios de sus productos en un canal de venta determinado se basarán completamente en la política comercial que usted elija. [Haga clic aquí para entender con más detalle cómo funciona la política comercial](/es/tutorial/configurando-a-politica-comercial-para-marketplace?locale=pt).
+Es necesario definir qué política comercial se utilizará para integrar sus productos con Wish. Esta definición implicará cuatro aspectos principales: surtido de productos, stock, precio y moneda. Es decir, la disponibilidad y los precios de sus productos en un canal de venta determinado se basarán completamente en la política comercial que usted elija. [Haga clic aquí para entender con más detalle cómo funciona la política comercial](/es/tutorial/configurando-a-politica-comercial-para-marketplace).
 
 > ℹ️ OBS: Wish exige que los precios del producto y flete se envíen en dólares (USD). Sin embargo, crea los pedidos con el valor ya convertido en reales (R$) para facilitar la emisión de la factura. Esto significa que la integración debe enviar precios en dólares y aceptar pedidos en reales. De esta manera, la arquitectura utiliza apenas Real (R$) y hace la conversión en la integración. Por lo tanto, **la política comercial para Wish debe ser en reales (R$)** y todo el flujo de conversión se detallará mejor en el [paso 5](/es/tracks/integracion-con-wish--50hbG4bzhSIhjz1lzqI1g4/6EYEy1jRiAj465WOnhiczD).
 
-[Haga clic aquí](/es/faq/por-que-nao-consigo-criar-uma-nova-politica-comercial?locale=pt) para saber cómo contratar una nueva política si fuera necesario.
+[Haga clic aquí](/es/faq/por-que-nao-consigo-criar-uma-nova-politica-comercial) para saber cómo contratar una nueva política si fuera necesario.
 
 ## Definiendo el surtido de productos
 

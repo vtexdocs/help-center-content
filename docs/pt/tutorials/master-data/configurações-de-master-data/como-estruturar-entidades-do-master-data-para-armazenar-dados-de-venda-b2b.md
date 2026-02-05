@@ -17,7 +17,7 @@ subcategoryId: 5tSNDlvmik8gGuKw2goW4q
 
 Por meio do [Master Data](/pt/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw) - o módulo da VTEX que permite a criação de arquiteturas de bancos de dados - é possível colher, armazenar e disponibilizar dados nos mais diversos formatos para os clientes e usuários administrativos de uma loja. Trata-se de um módulo da plataforma VTEX que pode ser configurado de duas maneiras:
 - Utilizando-se um Sistema de Gestão de Conteúdo (CMS) interno ao painel administrativo da loja.
-- Por meio do envio de requisições à [API do Master Data](https://developers.vtex.com/reference/master-data-api-v2-overview).
+- Por meio do envio de requisições à [API do Master Data](https://developers.vtex.com/docs/api-reference/master-data-api-v2-overview).
 
 Os dados armazenados são descritos por [Entidades de Dados](/pt/tutorial/creating-data-entities--tutorials_1265), que são modelos representativos que permitem ao Master Data validar as informações recebidas e criar formulários. O sistema permite que se criem [conexões entre os dados](/pt/tutorial/creating-relationships-between-data-entities--6TdIa6Q2IgWYUu2wsYIG48) de diferentes entidades, além de fornecer uma série de possibilidades de automação. 
 
@@ -92,7 +92,7 @@ Você pode aprender a configurar estes formulários acessando o artigo [Criar fo
 
 ### Front-end ou API
 
-Formulários também podem ser apresentados via front-end para o preenchimento dos clientes, como descrito no artigo [Criar formulário de Fale Conosco usando o Master Data](/pt/tutorial/criar-formulario-de-fale-conosco-usando-master-data--frequentlyAskedQuestions_614). Outra forma de acessar os dados no front-end ou em integrações diversas é por meio da [API do Master Data](https://developers.vtex.com/reference/master-data-api-v1-overview). 
+Formulários também podem ser apresentados via front-end para o preenchimento dos clientes, como descrito no artigo [Criar formulário de Fale Conosco usando o Master Data](/pt/tutorial/criar-formulario-de-fale-conosco-usando-master-data--frequentlyAskedQuestions_614). Outra forma de acessar os dados no front-end ou em integrações diversas é por meio da [API do Master Data](https://developers.vtex.com/docs/api-reference/master-data-api-v1-overview). 
 
 ### Triggers
 
@@ -105,7 +105,7 @@ Também é possível preencher tabelas de forma massiva enviando planilhas, como
 ## Saiba mais
 
 - [O que é o Master Data](/pt/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw)
-- [API do Master Data](https://developers.vtex.com/reference/master-data-api-v2-overview)
+- [API do Master Data](https://developers.vtex.com/docs/api-reference/master-data-api-v2-overview)
 - [Criar entidades de dados](/pt/tutorial/creating-data-entities--tutorials_1265)
 - [Criar relacionamentos entre entidades de dados](/pt/tutorial/creating-relationships-between-data-entities--6TdIa6Q2IgWYUu2wsYIG48)
 - [Como criar um trigger no Master Data](/pt/tutorial/criando-trigger-no-master-data--tutorials_1270)

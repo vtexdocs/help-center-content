@@ -63,7 +63,7 @@ The field in which the salesperson code will be inserted depends on the store ne
 
 If both options are selected, the sales assistant needs to indicate which field he is filling in the cart sharing interface.
 
-> ℹ️ The added information can be found on the **Promotions and Partnerships card** in the [orders details](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/204AjAQseJe8RLUi8GAhiC?locale=pt) or within the `marketingData` object returned when obtaining the order information using the [Orders API](https://developers.vtex.com/reference/orders#getorder).
+> ℹ️ The added information can be found on the **Promotions and Partnerships card** in the [orders details](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/204AjAQseJe8RLUi8GAhiC) or within the `marketingData` object returned when obtaining the order information using the [Orders API](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-).
 
 ### Channels
 
@@ -183,7 +183,7 @@ Then change the properties in the CSS code according to your needs.
 
 ### How is this functionality technically possible?
 
-The app uses VTEX's [shared cart](/en/tutorial/o-que-e-o-carrinho-compartilhado--3oKJZfoAoUm8g0ukCIGsUu?locale=pt) functionality, which allows more than one customer to add, remove or update items and information from the same cart.
+The app uses VTEX's [shared cart](/en/tutorial/o-que-e-o-carrinho-compartilhado--3oKJZfoAoUm8g0ukCIGsUu) functionality, which allows more than one customer to add, remove or update items and information from the same cart.
 
 ### How to identify sales assistants and promotions?
 

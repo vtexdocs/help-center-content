@@ -55,7 +55,7 @@ Este proceso puede ser realizado por un departamento de crédito o por empresas 
 Ahora que los clientes han sido seleccionados, es posible [crear las cuentas respectivas en Customer Credit](/es/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU).
 
 Actualmente, tenemos tres formas de que el administrador de la tienda realice esta operación:
-- Registro de la base a través de la [API de Customer Credit](https://developers.vtex.com/reference/customer-credit-api-overview).
+- Registro de la base a través de la [API de Customer Credit](https://developers.vtex.com/docs/api-reference/customer-credit-api).
 - Registro individual por el panel administrativo de VTEX.
 - Registro masivo por importación de plantilla, con los datos de varias cuentas, también a través del panel administrativo. 
 
@@ -77,7 +77,7 @@ Si, por otro lado, la base tiene un gran número de cuentas, lo más indicado es
 
 ### Bases grandes
 
-Cuando la tienda trabaja con gestión externa de crédito en su ERP, recomendamos que la operación se realice a través de la [API de Customer Credit](https://developers.vtex.com/reference/account-1#openanaccount). En este caso, utilice el endpoint __Open an Account__.
+Cuando la tienda trabaja con gestión externa de crédito en su ERP, recomendamos que la operación se realice a través de la [API de Customer Credit](https://developers.vtex.com/docs/api-reference/account-1#openanaccount). En este caso, utilice el endpoint __Open an Account__.
 
 Otro diferencial de la API es que la operación registra la cuenta y al mismo tiempo le otorga un límite.
 

@@ -19,11 +19,11 @@ Para garantir o correto funcionamento da integração, é necessário previament
 
 ## Definindo política comercial
 
-É necessário definir qual política comercial será usada para integrar seus produtos com a Wish. Esta definição implicará em quatro aspectos principais: sortimento de produtos, estoque, preço e moeda. Ou seja, a disponibilidade e os preços dos seus produtos em determinado canal de vendas estarão completamente baseados na política comercial que você escolher. [Clique aqui para entender com mais detalhes como funciona a política comercial](/pt/tutorial/configurando-a-politica-comercial-para-marketplace?locale=pt).
+É necessário definir qual política comercial será usada para integrar seus produtos com a Wish. Esta definição implicará em quatro aspectos principais: sortimento de produtos, estoque, preço e moeda. Ou seja, a disponibilidade e os preços dos seus produtos em determinado canal de vendas estarão completamente baseados na política comercial que você escolher. [Clique aqui para entender com mais detalhes como funciona a política comercial](/pt/tutorial/configurando-a-politica-comercial-para-marketplace).
 
 > ℹ️ OBS: a Wish exige que os preços do produto e de frete sejam enviados em dólar (USD). No entanto, ela cria os pedidos com o valor já convertido em reais (R$) para facilitar a emissão da nota fiscal. Isto significa que a integração deve enviar preços em dólar e aceitar pedidos em reais. Dessa maneira, a arquitetura usa apenas Real (R$) e faz a conversão na integração. Portanto, **a política comercial para Wish deve ser em reais (R$)** e todo fluxo de conversão será melhor detalhado no [passo 5](/pt/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4/6EYEy1jRiAj465WOnhiczD).
 
-[Clique aqui](/pt/faq/por-que-nao-consigo-criar-uma-nova-politica-comercial?locale=pt) para saber como contratar uma nova política caso necessário.
+[Clique aqui](/pt/faq/por-que-nao-consigo-criar-uma-nova-politica-comercial) para saber como contratar uma nova política caso necessário.
 
 ## Definindo sortimento de produtos
 

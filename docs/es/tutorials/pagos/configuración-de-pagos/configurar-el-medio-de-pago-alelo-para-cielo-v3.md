@@ -19,13 +19,13 @@ En este artículo, explicaremos cómo habilitar el vale de alimentación Alelo c
 
 > ℹ️ **Atención**: el vale de alimentación Alelo es un medio de pago aceptado apenas entre clientes brasileños.
 
-Actualmente, en VTEX, Cielo es el adquirente que acepta a Alelo como medio de pago. Por lo tanto, el primer paso es habilitar este adquirente como afiliación de gateway en su tienda. Puede consultar el tutorial completo sobre cómo hacer esta configuración [aquí](/es/tutorial/configurar-adquirente-cielo--3avjZ7q65WcM02K8K0eeWu?locale=es). 
+Actualmente, en VTEX, Cielo es el adquirente que acepta a Alelo como medio de pago. Por lo tanto, el primer paso es habilitar este adquirente como afiliación de gateway en su tienda. Puede consultar el tutorial completo sobre cómo hacer esta configuración [aquí](/es/tutorial/configurar-adquirente-cielo--3avjZ7q65WcM02K8K0eeWu). 
 
 Luego, puede configurar la condición de pago de Alelo.
 
 Como toda condición de pago, la configuración de Alelo también permite incluir condiciones especiales. Sin embargo, estos criterios son opcionales y su ausencia no impide el buen funcionamiento del vale de alimentación. 
 
-Para más detalles, puede consultar el tutorial sobre [cómo configurar cada una de las condiciones especiales de pago](/es/tutorial/condicoes-especiais--tutorials_456?locale=es). 
+Para más detalles, puede consultar el tutorial sobre [cómo configurar cada una de las condiciones especiales de pago](/es/tutorial/condicoes-especiais--tutorials_456). 
 
 Ahora, siga las instrucciones:
 

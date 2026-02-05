@@ -34,4 +34,4 @@ A Chave de Acesso da Nota Fiscal é um instrumento auxiliar para consulta da NF-
 
 **Lembre-se!** Este dado é criado na geração da Nota Fiscal e comporta ao ERP. Caso tenha um, solicite-o.
 
-Esse valor pode ser inserido manualmente pelo admin ou pela [API de notificação da fatura](https://developers.vtex.com/reference/invoice#invoicenotification), pelo campo **invoiceKey**.
+Esse valor pode ser inserido manualmente pelo admin ou pela [API de notificação da fatura](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice), pelo campo **invoiceKey**.

@@ -19,7 +19,7 @@ Para facilitar o acesso a informações importantes da sua operação, o relató
 
  ## O que mudou
 
-A nova coluna no relatório permite a visualização das faturas dos seus pedidos pela interface do [módulo de Gerenciamento de pedidos](/pt/tutorial/estrutura-da-pagina-do-oms--2dDZmUUFXWeyQ4s2gqiY0A), antes só visualizadas através da [API de Get Order](https://developers.vtex.com/reference/orders#getorder).
+A nova coluna no relatório permite a visualização das faturas dos seus pedidos pela interface do [módulo de Gerenciamento de pedidos](/pt/tutorial/estrutura-da-pagina-do-oms--2dDZmUUFXWeyQ4s2gqiY0A), antes só visualizadas através da [API de Get Order](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-).
 
  ## Principais vantagens 
 

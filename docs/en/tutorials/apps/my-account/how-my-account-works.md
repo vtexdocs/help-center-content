@@ -109,7 +109,7 @@ Customers can also use the option [Order again](#order-again) in this page. By c
 
 If the order is in the `Handling shipping` status, they can `Change order` by clicking on `More options` on the order details page.
 
-To provide this option, the retailer must [allow customers to change orders](/en/tutorial/como-funciona-a-substituicao-de-pedidos?locale=pt#como-ativar-a-substituicao-de-pedidos) in the **Orders** module.
+To provide this option, the retailer must [allow customers to change orders](/en/tutorial/como-funciona-a-substituicao-de-pedidos#como-ativar-a-substituicao-de-pedidos) in the **Orders** module.
 
 The `More options` button allows customers to change their order information, such as address, payment method and items, without the need to place a new order or contact the store's customer service team. Read the article [How Order replacement works](/en/tutorial/como-funciona-a-substituicao-de-pedidos) to learn more.
 

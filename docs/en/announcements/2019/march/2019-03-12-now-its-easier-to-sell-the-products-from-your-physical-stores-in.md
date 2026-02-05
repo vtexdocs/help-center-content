@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'When integrating the main account with a marketplace, franchise accounts inventories are now automatically considered.'
 ---
 
-You can now easily sell products from your entire network of physical stores in __external marketplaces__. Through the __Multilevel Omnichannel Inventory__, the [franchise accounts](/tutorial/what-are-franchise-account-and-seller-white-label?locale=en) are fully integrated with the main account immediately after being created. This means that when the main account sets up an integration with an external marketplace, the franchise accounts' inventory will also be considered in the process, ie, it will no longer be necessary to manage each franchise account individually in order to integrate it into the marketplace.
+You can now easily sell products from your entire network of physical stores in __external marketplaces__. Through the __Multilevel Omnichannel Inventory__, the [franchise accounts](/en/tutorial/what-are-franchise-account-and-seller-white-label) are fully integrated with the main account immediately after being created. This means that when the main account sets up an integration with an external marketplace, the franchise accounts' inventory will also be considered in the process, ie, it will no longer be necessary to manage each franchise account individually in order to integrate it into the marketplace.
 
 ## Main benefits
 

@@ -20,7 +20,7 @@ O gift card ou vale-presente é um dos recursos do módulo de Pagamentos que pod
 - Meio de pagamento para compras;
 - Programa de fidelidade que o lojista pode conectar com o sistema VTEX.
 
-Para saber mais detalhes sobre a segunda opção de uso, verifique nossa documentação técnica sobre [como integrar com o gift card](/pt/tutorial/integrando-com-gift-card?locale=pt).
+Para saber mais detalhes sobre a segunda opção de uso, verifique nossa documentação técnica sobre [como integrar com o gift card](/pt/tutorial/integrando-com-gift-card).
 
 ## Como criar o Vale-presente pelo Admin
 

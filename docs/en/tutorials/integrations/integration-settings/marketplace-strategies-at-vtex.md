@@ -34,7 +34,7 @@ The product assortment sent to a marketplace is defined when you choose the [tra
 
 [Additional trade policies can be requested](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X) via a ticket to our [Support](https://supporticket.vtex.com/support) team by selecting the Commercial option and the New Trade Policy request type. A monthly fee is charged for each additional trade policy, whether used for integration with certified, partner, external, or VTEX marketplaces.  
 
-> ℹ️ Orders placed through marketplaces are subject to the same [contractual rules](/en/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq?locale=pt) as the ones placed through other channels.  
+> ℹ️ Orders placed through marketplaces are subject to the same [contractual rules](/en/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq) as the ones placed through other channels.  
 
 Here are the scenarios we will address next:  
 

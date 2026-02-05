@@ -26,7 +26,7 @@ Para conocer las ventajas y los beneficios de aceptar el Pix como medio de pago 
 ## ¿Cómo parceros pueden integrarse a VTEX?
 __A partir del dia 19 de octubre de 2020__, parceros pueron empiezar sus integraciones con el [Payment Provider Protocol](/es/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m) para ofrecer el Pix como medio de pago para sus clientes.
 
-__Entidades de pago socias de VTEX __poden ponerse en contacto con la área de Asociaciónes y solicitar la integración hablando directamente con su Partner Manager. Además, tambien és possible hacer la integración abriendo un ticket para el time de [Soporte VTEX](/es/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM?locale=en).
+__Entidades de pago socias de VTEX __poden ponerse en contacto con la área de Asociaciónes y solicitar la integración hablando directamente con su Partner Manager. Además, tambien és possible hacer la integración abriendo un ticket para el time de [Soporte VTEX](/es/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
 
 __Entidades de pago que aún no son socias de VTEX__ deben [rellenar un formulario de registro](https://vtex.com/es-es/partner) para empiezar la asociación.
 

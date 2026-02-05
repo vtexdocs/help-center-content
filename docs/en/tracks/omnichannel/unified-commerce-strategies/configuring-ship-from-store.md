@@ -56,5 +56,5 @@ Let's set up a carrier to deliver from the local warehouse of one of your physic
 
 Now you need to inform the VTEX system which is the warehouse from which products will leave to be delivered by the carrier added in the previous step.
 
-1. Add a loading dock, as described in [this article](/en/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW?locale=en). In the __Associated shipping policies__ field, add the carrier that you created in the previous section of this guide.
+1. Add a loading dock, as described in [this article](/en/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW). In the __Associated shipping policies__ field, add the carrier that you created in the previous section of this guide.
 2. Create a warehouse following the steps in the article [Adding a warehouse](/en/tutorial/geristar-estoque--tutorials_137). In the __Origin__ section, link the loading dock you created in the previous step.

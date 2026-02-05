@@ -31,7 +31,7 @@ Este artículo explica cómo:
 
 ## Requisito previo
 
-Para crear una colección, debe tener el [perfil de acceso](/es/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=es) _Owner (Admin Super)_ o crear otro perfil con el recurso **Write Collections**, en la sección **Collection** de los perfiles de **Catalog**. Vea aquí [cómo crear un perfil de acceso](/es/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-perfil-de-acceso).
+Para crear una colección, debe tener el [perfil de acceso](/es/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc) _Owner (Admin Super)_ o crear otro perfil con el recurso **Write Collections**, en la sección **Collection** de los perfiles de **Catalog**. Vea aquí [cómo crear un perfil de acceso](/es/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-perfil-de-acceso).
 
 > ℹ️ Es importante destacar que las colecciones creadas en este módulo no se alteran automáticamente. Las colecciones automáticas — realizadas mediante la selección de filtros — no se pueden configurar en el módulo.
 

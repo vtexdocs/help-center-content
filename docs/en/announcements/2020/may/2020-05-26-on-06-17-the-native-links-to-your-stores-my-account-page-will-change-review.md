@@ -44,4 +44,4 @@ In most cases, when stores do have a lot of front-end customizations running, th
 
 In other cases, if no steps are taken to review and possibly adapt to the change, user experience can be negatively affected, leading to unexpected behaviors, or in extreme cases, even preventing users from accessing their order information or other type of information.
 
-For more information, check out our [My Account](/en/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh?locale=pt) documentation. If you have questions or are unsure which of the above is valid for you, please contact us.
+For more information, check out our [My Account](/en/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh) documentation. If you have questions or are unsure which of the above is valid for you, please contact us.

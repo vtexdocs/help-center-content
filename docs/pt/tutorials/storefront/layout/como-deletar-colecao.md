@@ -28,5 +28,5 @@ __Basta estipular uma data do passado para garantir que a coleção não será a
 
 ## Por API
 
-Você pode deletar uma coleção criada no CMS por meio da rota [Delete Collection](https://developers.vtex.com/reference/catalog-api-collection#catalog-api-delete-collection).
+Você pode deletar uma coleção criada no CMS por meio da rota [Delete Collection](https://developers.vtex.com/docs/api-reference/catalog-api?endpoint=delete-/api/catalog/pvt/collection/-collectionId-).
 

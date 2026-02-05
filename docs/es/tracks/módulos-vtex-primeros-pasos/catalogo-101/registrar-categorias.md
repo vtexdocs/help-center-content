@@ -31,4 +31,4 @@ Realice el siguiente procedimiento para registrar sus departamentos, categorías
 
 ## API
 
-Utilice la llamada [Create Category](https://developers.vtex.com/reference/catalog-api-category#catalog-api-post-category) para crear una nueva Categoría por medio de la API del Catálogo.
+Utilice la llamada [Create Category](https://developers.vtex.com/docs/api-reference/catalog-api?endpoint=post-/api/catalog/pvt/category) para crear una nueva Categoría por medio de la API del Catálogo.

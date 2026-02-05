@@ -20,7 +20,7 @@ A segmentação de preços e taxas de acordo com o perfil da empresa compradora 
 Para tornar essa experiência melhor para a empresa compradora e simplificar a configuração dessas regras para você, comerciante B2B, estamos lançando a aplicação de __Configuração de Pedidos B2B__.
 
 ### Como funciona?
-De agora em diante, você poderá combinar as regras e [tabelas de preços](/pt/tutorial/criar-tabelas-de-precos--58YmY2Iwggyw4WeSCGg24S?locale=pt) já criadas no nosso sistema com novos critérios de segmentação baseados no tipo de pedido, para refletir instantaneamente novos preços para o comprador durante a experiência de compra. 
+De agora em diante, você poderá combinar as regras e [tabelas de preços](/pt/tutorial/criar-tabelas-de-precos--58YmY2Iwggyw4WeSCGg24S) já criadas no nosso sistema com novos critérios de segmentação baseados no tipo de pedido, para refletir instantaneamente novos preços para o comprador durante a experiência de compra. 
 
 Em outras palavras, estamos disponibilizando ferramentas para criar novas segmentações de preços, além de um novo componente no layout da sua loja. Para tornar tudo isso possível, a solução foi dividida em duas partes:
 

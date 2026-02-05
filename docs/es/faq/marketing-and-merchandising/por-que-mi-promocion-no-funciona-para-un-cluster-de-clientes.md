@@ -14,7 +14,7 @@ locale: es
 legacySlug: 
 ---
 
-En la plataforma VTEX, existe la posibilidad de aplicar una [promoción](/tutorial/creando-promociones-cluster-clientes?locale=es) a sólo un determinado [clúster](/tutorial/como-crear-un-cluster-de-cliente?locale=es). Es decir, para sólo un grupo específico de clientes.
+En la plataforma VTEX, existe la posibilidad de aplicar una [promoción](/tutorial/creando-promociones-cluster-clientes) a sólo un determinado [clúster](/tutorial/como-crear-un-cluster-de-cliente). Es decir, para sólo un grupo específico de clientes.
 
 Sin embargo, hay casos en que esta promoción no es visualizada por algunos compradores.
 

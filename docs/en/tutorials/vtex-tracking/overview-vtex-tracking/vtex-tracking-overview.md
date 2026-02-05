@@ -28,7 +28,7 @@ Through the web platform, VTEX Tracking clients can manage and track their deliv
 
 - **Account Settings:** your operation is fully configured through the web platform. For your business to operate with the VTEX Tracking solution, you need to configure:  
 - [Users](/en/tutorial/usuarios-vtex-tracking--1zn5nrvkoWtx0pcabbRhSZ)    
-- [Agencies](/en/tutorial/agencias-vtex-tracking--2PMohRiNdNpHPA2g2HyYH7?locale=pt)    
+- [Agencies](/en/docs/tutorials/vtex-tracking-agencies)    
 - [Customers](/en/tutorial/clientes-vtex-tracking--277Z0epDNArIGJIbqtPMA9)  
 - [Holidays](/en/tutorial/feriados-vtex-tracking--4cj0oJNmF89e0pAJMBj1sP)  
 - [Branches](/en/tutorial/filial-vtex-tracking--6mD8L390WPORidxGp9TKfp)  
@@ -36,7 +36,7 @@ Through the web platform, VTEX Tracking clients can manage and track their deliv
 - [Chat tickets](/en/tutorial/ocorrencias-de-chat-vtex-tracking--2YY7ixoHRmHOt3Fd3LzdPe)  
 - [Partners](/en/tutorial/parceiros-vtex-tracking--2xEHQ98hoMzgkrdhkpOedQ)  
 - [Delivery drivers or delivery services partners](/en/tutorial/portadores-vtex-tracking--5tVSpunaXVT6gQDSl9jTow)    
-- [Carriers](/en/tutorial/transportadoras-vtex-tracking--2HVE5D2fheT4cDPjiApL1Y?locale=pt)  
+- [Carriers](/en/tutorial/transportadoras-vtex-tracking--2HVE5D2fheT4cDPjiApL1Y)  
 - [Vehicles](/en/tutorial/veiculos-vtex-tracking--47OD2KOOMcHghBTJK0Vlwc)  
 
 - **Services:** in the VTEX Tracking context, Services are your business' pick ups, collections, or deliveries. In the web platform, you can add and manage all your operation's services.  

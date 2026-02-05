@@ -50,4 +50,4 @@ Además, el cliente debe [abrir un ticket para el soporte](/es/tutorial/abrir-ch
 
 En el mismo ticket, también es necessario decir cuales los conectores y las cuentas que deben ser habilitadas para el flujo 3DS2.
 
-Para saber cómo habilitar el flujo con Adyen, lea este [artículo](/es/tutorial/adicionando-suporte-a-3ds-na-integracao-com-a-adyen--3DNZeC9qJaC2GMIw4mawYk?locale=es). Para hacer el mismo proceso con CieloV3, consulte este [tutorial](/es/tutorial/configurar-adquirente-cielo--3avjZ7q65WcM02K8K0eeWu).
+Para saber cómo habilitar el flujo con Adyen, lea este [artículo](/es/tutorial/adicionando-suporte-a-3ds-na-integracao-com-a-adyen--3DNZeC9qJaC2GMIw4mawYk). Para hacer el mismo proceso con CieloV3, consulte este [tutorial](/es/tutorial/configurar-adquirente-cielo--3avjZ7q65WcM02K8K0eeWu).

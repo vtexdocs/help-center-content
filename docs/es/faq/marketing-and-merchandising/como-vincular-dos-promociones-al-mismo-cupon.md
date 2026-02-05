@@ -14,11 +14,11 @@ locale: es
 legacySlug: como-sincronizar-dos-promociones-al-mismo-cupon
 ---
 
-Si es necesario, es posible crear un [cupón](tutorial/crear-cupon-de-descuento?locale=es) de descuento con el valor igual al total de una compra. Así, el cliente puede realizar un nuevo pedido sin pagar nada más por ello.
+Si es necesario, es posible crear un [cupón](tutorial/crear-cupon-de-descuento) de descuento con el valor igual al total de una compra. Así, el cliente puede realizar un nuevo pedido sin pagar nada más por ello.
 
 El más común es que ese valor sea relativo a dos cantidades: el precio nominal del producto y el envío.
 
-Por eso, es necesario crear dos [promociones regulares](/tutorial/registro-promocion-regular?locale=es) relacionadas con el mismo cupón:
+Por eso, es necesario crear dos [promociones regulares](/tutorial/registro-promocion-regular) relacionadas con el mismo cupón:
 
 - Una promoción de envío gratis.
 - Una promoción de descuento de valor nominal.

@@ -26,4 +26,4 @@ This is a valid practice, for example, in the case of carriers such as Correios 
 > ⚠️ Shipping groups are created by summing the cost of the inventory and warehouse costs.
 
 ### Related articles
-- [How to set up shipment](/en/tutorial/como-funciona-a-remessa?locale=en)
+- [How to set up shipment](/en/tutorials/setting-up-shipment)

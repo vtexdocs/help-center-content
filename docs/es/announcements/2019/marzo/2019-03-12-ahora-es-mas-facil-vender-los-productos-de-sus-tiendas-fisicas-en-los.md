@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Al integrar la cuenta principal a un marketplace, los inventarios de cuentas franquicia se consideran automáticamente.'
 ---
 
-Usted ya puede ofrecer los productos de toda su red de tiendas físicas en __marketplaces externos__, sin esfuerzo. A través del __Multilevel Omnichannel Inventory__, las [cuentas franquicia](/tutorial/que-son-cuenta-franquicia-y-seller-white-label?locale=es), cuando se crean, ya están completamente integradas a la cuenta principal. Esto significa que cuando la cuenta principal configura una integración con un marketplace externo, el inventario de las cuentas franquicia también se considerará en el proceso, es decir, ya no será necesario administrar cada cuenta franquicia individualmente para integrarla al marketplace.
+Usted ya puede ofrecer los productos de toda su red de tiendas físicas en __marketplaces externos__, sin esfuerzo. A través del __Multilevel Omnichannel Inventory__, las [cuentas franquicia](/es/tutorial/que-son-cuenta-franquicia-y-seller-white-label), cuando se crean, ya están completamente integradas a la cuenta principal. Esto significa que cuando la cuenta principal configura una integración con un marketplace externo, el inventario de las cuentas franquicia también se considerará en el proceso, es decir, ya no será necesario administrar cada cuenta franquicia individualmente para integrarla al marketplace.
 
 ## Principales ventajas
 

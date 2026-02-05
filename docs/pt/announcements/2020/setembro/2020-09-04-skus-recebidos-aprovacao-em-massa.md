@@ -21,11 +21,11 @@ Marketplaces gerenciam os produtos de seus sellers a partir do painel [SKUs Rece
 
 Agora é possível fazer uma seleção em massa de até **25** itens por página. Até então só era possível selecionar até 15 SKUs por página. Essa melhoria traz mais agilidade para operações que contam com a aprovação manual de ofertas.  
 
-Além da mudança no painel SKUs Recebidos, criamos uma nova API que acompanha a melhoria. A API [Match Received SKUs Individually](https://developers.vtex.com/vtex-developer-docs/reference/match-received-skus-1) era até então a responsável pela aprovação individual de SKUs. Desenvolvemos uma [nova API](https://developers.vtex.com/vtex-developer-docs/reference/match-received-skus-1#match-multiple-received-skus), que aprova até 25 SKUs por chamada. Ambas APIs estarão disponíveis para o uso. 
+Além da mudança no painel SKUs Recebidos, criamos uma nova API que acompanha a melhoria. A API [Match Received SKUs Individually](https://developers.vtex.com/vtex-developer-docs/reference/match-received-skus-1) era até então a responsável pela aprovação individual de SKUs. Desenvolvemos uma [nova API](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions#put-/suggestions/matches/action/-actionName-), que aprova até 25 SKUs por chamada. Ambas APIs estarão disponíveis para o uso. 
 
 ## O que preciso fazer?
 
-Se sua loja possui alguma integração que utiliza nossa API de Suggestions, poderá utilizar nosso novo endpoint para trazer mais eficiência para a sua operação. Confira nossa [documentação no Developer Portal](https://developers.vtex.com/vtex-developer-docs/reference/match-received-skus-1#match-multiple-received-skus) para saber mais. 
+Se sua loja possui alguma integração que utiliza nossa API de Suggestions, poderá utilizar nosso novo endpoint para trazer mais eficiência para a sua operação. Confira nossa [documentação no Developer Portal](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions#put-/suggestions/matches/action/-actionName-) para saber mais. 
 
 Essa funcionalidade do painel SKUs Recebidos já está disponível no seu Admin VTEX, e não altera nenhuma configuração ou dado da sua loja. É uma melhoria na interface, que facilita o uso do painel no dia a dia da sua equipe. 
 

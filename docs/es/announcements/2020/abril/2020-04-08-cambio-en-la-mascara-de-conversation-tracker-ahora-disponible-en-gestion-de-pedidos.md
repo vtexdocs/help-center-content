@@ -46,4 +46,4 @@ Si el cambio de configuración es realmente necesario, ahora es posible hacerlo 
 
 El cambio puede hacerse a través de la pestaña **Configuración** en el módulo *Gestión de pedidos*. En la pestaña Configuración **General**, cambie a la opción deseada en la sección **Tipo de máscara de conversación**.
 Una vez que haya cambiado al modo Soft, puede probar cómo funciona la configuración. Basta con crear un pedido de prueba, y en el OMS pasar el mouse sobre el correo electrónico enviado, para comprobar qué alias se aplicó (Soft o Hard).
-Para saber más, consulte nuestra documentación sobre [Conversation Tracker](/es/tutorial/conversation-tracker--tutorials_195?locale=pt).
+Para saber más, consulte nuestra documentación sobre [Conversation Tracker](/es/tutorial/conversation-tracker--tutorials_195).

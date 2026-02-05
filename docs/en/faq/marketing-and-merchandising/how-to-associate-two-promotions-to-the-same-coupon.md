@@ -14,11 +14,11 @@ locale: en
 legacySlug: how-to-sync-two-benefits-to-the-same-coupon
 ---
 
-When necessary, you can create a discount [coupon](/tutorial/creating-a-coupon?locale=en) with the same amount of the total purchase. With this, the customer can make a new order without paying anything more for it.
+When necessary, you can create a discount [coupon](/en/tutorial/creating-a-coupon) with the same amount of the total purchase. With this, the customer can make a new order without paying anything more for it.
 
 The most common is that this value is relative to two amounts: the product's nominal price and the shipping.
 
-Because of this, you need to create two [regular promotions](/tutorial/regular-promotion?locale=en) related to the same coupon:
+Because of this, you need to create two [regular promotions](/en/tutorial/regular-promotion) related to the same coupon:
 
 - A free shipping benefit.
 - A nominal value discount benefit.

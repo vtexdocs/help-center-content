@@ -23,6 +23,6 @@ To do this, enter the Message Center and search for the **Order Refund Customer*
 
 ## Email trigger event
 
-The refunded order email is triggered when the store sends a return invoice notification. This sending takes place through the API call [Order Invoice Notification](https://developers.vtex.com/reference/invoice#invoicenotification), with the `type` field containing the value `input`.
+The refunded order email is triggered when the store sends a return invoice notification. This sending takes place through the API call [Order Invoice Notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice), with the `type` field containing the value `input`.
 
 In the Admin, this event is triggered when the **Return items** button is clicked on the order details screen.

@@ -17,7 +17,7 @@ subcategoryId: 5tSNDlvmik8gGuKw2goW4q
 
 Through [Master Data](/en/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw) - the VTEX platform’s module that allows the creation of database architectures - it is possible to collect, store and make available data in various formats for the customers and administrative users of a store. There are two ways to configure it:
 - By using a Content Management System (CMS) internal to the store's administrative dashboard.
-- By sending requests to [Master Data’s API](https://developers.vtex.com/reference/master-data-api-v2-overview).
+- By sending requests to [Master Data’s API](https://developers.vtex.com/docs/api-reference/master-data-api-v2-overview).
 
 The stored data is described by [Data Entities](/en/tutorial/creating-data-entities--tutorials_1265), which are representative models that allow Master Data to validate the information received and create forms. The system allows the creation of [connections between the data](/en/tutorial/creating-relationships-between-data-entities--6TdIa6Q2IgWYUu2wsYIG48) of different entities, in addition to providing a series of automation possibilities.
 
@@ -92,7 +92,7 @@ To learn how to configure these forms, check out the article [Creating forms in 
 
 ### Front-end or API
 
-Forms can also be submitted via front-end for customers to fill them, as described in the article [Creating Contact Us forms using Master Data](/en/tutorial/criar-formulario-de-fale-conosco-usando-master-data--frequentlyAskedQuestions_614). Another way to access data on the front-end or in different integrations is through [Master Data’s API](https://developers.vtex.com/reference/master-data-api-v1-overview).
+Forms can also be submitted via front-end for customers to fill them, as described in the article [Creating Contact Us forms using Master Data](/en/tutorial/criar-formulario-de-fale-conosco-usando-master-data--frequentlyAskedQuestions_614). Another way to access data on the front-end or in different integrations is through [Master Data’s API](https://developers.vtex.com/docs/api-reference/master-data-api-v1-overview).
 
 ### Triggers
 
@@ -105,7 +105,7 @@ It is also possible to fill tables in bulk by uploading spreadsheets, as explain
 ## Learn more
 
 - [What is Master Data](/en/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw)
-- [Master Data API](https://developers.vtex.com/reference/master-data-api-v2-overview)
+- [Master Data API](https://developers.vtex.com/docs/api-reference/master-data-api-v2-overview)
 - [Creating data entities](/en/tutorial/creating-data-entities--tutorials_1265)
 - [Creating relationships between data entities](/en/tutorial/creating-relationships-between-data-entities--6TdIa6Q2IgWYUu2wsYIG48)
 - [How to create a trigger in Master Data v1](/en/tutorial/criando-trigger-no-master-data--tutorials_1270)
