@@ -34,8 +34,8 @@ Para exportar la plantilla de precios, sigue estos pasos:
 2. En la parte superior de la pantalla, haz clic en el ícono de exportación <i class="fas fa-download"></i>.
 > Aparecerá una barra lateral.
 3. En la sección Selecciona las tablas que deseas exportar, debes escoger una de las siguientes opciones:
-   - **Tabla de precios base (estándar):** el [precio base](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) es el precio de referencia de un SKU para todas las tablas de precios.
-   - **Tabla de precios fijos:** el [precio fijo](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy) sobrescribe el precio base con la regla de precio configurada.
+   - **Tabla de precios base (estándar):** el [precio base](/es/docs/tracks/preco-base-definicao-de-conceito) es el precio de referencia de un SKU para todas las tablas de precios.
+   - **Tabla de precios fijos:** el [precio fijo](/es/docs/tracks/precio-fijo-definicion-de-concepto) sobrescribe el precio base con la regla de precio configurada.
    - **Tabla de precios calculados:** es el precio final que se mostrará en la tienda. Este precio no refleja las promociones.
 4. Haz clic en `Exportar tabla`.
 > Se abrirá la tabla de precios en la interfaz.

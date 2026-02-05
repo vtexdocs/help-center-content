@@ -29,7 +29,7 @@ Once your account authentication is complete, sending products to Facebook will 
 
 The update is automatic and will be performed whenever changes are made to any of details. It's important to note that the value for “currency” is defined in the trade policy, and that “availability” refers only to whether there are products available or not, because there is no inventory control. For more information, see [How inventory availability works on the product page](/en/docs/tutorials/how-inventory-availability-works-on-the-product-page).
 
-If you want to send product attributes to Facebook, you need to complete an additional step. Attributes are product [specifications](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP), i.e., properties that can be added either for products or SKUs.
+If you want to send product attributes to Facebook, you need to complete an additional step. Attributes are product [specifications](/en/docs/tracks/specifications-concept-definition), i.e., properties that can be added either for products or SKUs.
 
 The additional step is mapping product specifications. Mapping allows matching the attributes from your VTEX store with the standards adopted by Facebook.
 

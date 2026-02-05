@@ -39,8 +39,8 @@ See below for comparisons explaining how the Seller Portal, standard accounts an
 
 | **Aspect** | **Seller Portal** | **Standard account** | **Franchise account** |
 |---------- | ---------- | ---------- | ---------- |
-| Creating an account | You can [create an account in the Seller Portal](/en/docs/tutorials/seller-portal-getting-started-for-the-marketplace) both in the VTEX Admin and via [API](/en/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#actions-through-rest-apis). First, the VTEX marketplace requests the Customer Success Manager (CSM) for access to the Seller Portal. Then, the marketplace sends an [invitation](/en/docs/tutorials/marketplace-invited-sellers) to the seller. After the invite has been accepted, the marketplace [activates](/en/docs/tutorials/marketplace-invited-sellers) the seller. | A contract must be signed between VTEX and the client. After the contract has been approved internally, a new environment is created for the client on the VTEX platform. | The client contacts the [support](https://supporticket.vtex.com/support) team to [request a franchise account](/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl#request-the-creation-of-a-franchise-account). To do that, it is required to have the email address of the [Sponsor user](/en/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA) (Admin Master). |
-| [Sponsor user](/en/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA) (Admin Master) | There is only one Sponsor user. The invitation to the Seller Portal is sent by default to the email address of the Sponsor user, but this email can be changed. Only the Sponsor user can [create appKeys and appTokens](https://developers.vtex.com/vtex-rest-api/docs/getting-started-authentication). | There can be just one Sponsor user, access granted by default to the email of the person who signed the contract with VTEX. The Sponsor user can be changed and is the only one who can create appKeys and appTokens. | There can be just one Sponsor user and it is by default the same as the main account user. The Sponsor user can be changed and is the only one who can create appKeys and appTokens. |
+| Creating an account | You can [create an account in the Seller Portal](/en/docs/tutorials/seller-portal-getting-started-for-the-marketplace) both in the VTEX Admin and via [API](/en/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#actions-through-rest-apis). First, the VTEX marketplace requests the Customer Success Manager (CSM) for access to the Seller Portal. Then, the marketplace sends an [invitation](/en/docs/tutorials/marketplace-invited-sellers) to the seller. After the invite has been accepted, the marketplace [activates](/en/docs/tutorials/marketplace-invited-sellers) the seller. | A contract must be signed between VTEX and the client. After the contract has been approved internally, a new environment is created for the client on the VTEX platform. | The client contacts the [support](https://supporticket.vtex.com/support) team to [request a franchise account](/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl#request-the-creation-of-a-franchise-account). To do that, it is required to have the email address of the [Sponsor user](/en/docs/tracks/what-is-the-master-user) (Admin Master). |
+| [Sponsor user](/en/docs/tracks/what-is-the-master-user) (Admin Master) | There is only one Sponsor user. The invitation to the Seller Portal is sent by default to the email address of the Sponsor user, but this email can be changed. Only the Sponsor user can [create appKeys and appTokens](https://developers.vtex.com/vtex-rest-api/docs/getting-started-authentication). | There can be just one Sponsor user, access granted by default to the email of the person who signed the contract with VTEX. The Sponsor user can be changed and is the only one who can create appKeys and appTokens. | There can be just one Sponsor user and it is by default the same as the main account user. The Sponsor user can be changed and is the only one who can create appKeys and appTokens. |
 | Managing user [access with roles](/en/docs/tutorials/roles) | Yes. | Yes. | Yes. |
 
 ## Catalog
@@ -68,7 +68,7 @@ See below for comparisons explaining how the Seller Portal, standard accounts an
 
 | **Aspect** | **Seller Portal** | **Standard account** | **Franchise account** |
 |---------- | ---------- | ---------- | ---------- |
-| Sellers can create [promotions](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N) | The seller creates and configures promotions directly in the Seller Portal. For more details about the creation process, refer to the document [Seller Portal: Create a promotion](/en/docs/tutorials/seller-portal-creating-a-promotion). | Can create and configure promotions, and run promotion simulations. | Can create and configure promotions, and run promotion simulations. |
+| Sellers can create [promotions](/en/docs/tracks/how-promotions-work) | The seller creates and configures promotions directly in the Seller Portal. For more details about the creation process, refer to the document [Seller Portal: Create a promotion](/en/docs/tutorials/seller-portal-creating-a-promotion). | Can create and configure promotions, and run promotion simulations. | Can create and configure promotions, and run promotion simulations. |
 | Determining the channel for promotions | Sellers create promotions. | Yes. | Yes. |
 | The VTEX marketplace can create promotions for sellers’ products | Yes. | Yes. | Yes. |
 
@@ -76,7 +76,7 @@ See below for comparisons explaining how the Seller Portal, standard accounts an
 
 | **Aspect** | **Seller Portal** | **Standard account** | **Franchise account** |
 |---------- | ---------- | ---------- | ---------- |
-| Reflecting all [payment](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/7pAEMAo4iqNHwYOarZ3zgm) methods in the VTEX Marketplace | Yes. | Yes. | Yes. |
+| Reflecting all [payment](/en/docs/tracks/configuring-payment-connectors) methods in the VTEX Marketplace | Yes. | Yes. | Yes. |
 | Configuring payments so that orders with products sold by more than one seller make available only payment methods common to all sellers (lowest common multiple) | Yes. | Yes. | Yes. |
 | The seller handles the payment transaction | Yes. | Yes. | Yes. |
 | Gift card provider available | No. | Yes. | Yes. |
@@ -111,7 +111,7 @@ See below for comparisons explaining how the Seller Portal, standard accounts an
 
 | **Aspect** | **Seller Portal** | **Standard account** | **Franchise account** |
 |---------- | ---------- | ---------- | ---------- |
-| Ranking search results in the VTEX marketplace using [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) so that it displays 1P (first-party) results before 3P (third party) results. | No. | No. | No. |
+| Ranking search results in the VTEX marketplace using [Intelligent Search](/en/docs/tracks/overview-intelligent-search) so that it displays 1P (first-party) results before 3P (third party) results. | No. | No. | No. |
 
 ## Seller
 

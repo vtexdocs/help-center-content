@@ -62,7 +62,7 @@ A escolha do campo em que o código do vendedor será inserido depende das neces
 
 Se ambas opções estiverem selecionadas, o vendedor precisará indicar qual campo está preenchendo na interface de compartilhamento de carrinho.
 
-> ℹ️ As informações registradas poderão ser encontradas no card **Promoções e Parcerias** nos [detalhes do pedido](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/204AjAQseJe8RLUi8GAhiC) ou dentro do objeto `marketingData` retornado ao obter as informações do pedido usando a [Orders API](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-).
+> ℹ️ As informações registradas poderão ser encontradas no card **Promoções e Parcerias** nos [detalhes do pedido](/pt/docs/tracks/ver-detalhes-do-pedido) ou dentro do objeto `marketingData` retornado ao obter as informações do pedido usando a [Orders API](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-).
 
 ### Canais 
 

@@ -19,7 +19,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 
 Window displays are used to highlight products on different pages, or for recommendations on a product page.
 
-First, before defining a window display, you must create a collection (see instructions [here](/en/tutorial/creating-a-product-collection)) of the products to be displayed. The pages also have to be properly structured, with the required controls included in their templates.
+First, before defining a window display, you must create a collection (see instructions [here](/en/docs/tutorials/creating-a-product-collection)) of the products to be displayed. The pages also have to be properly structured, with the required controls included in their templates.
 
 After defining this, link the collection to the window display in **Storefront > Layout**.
 

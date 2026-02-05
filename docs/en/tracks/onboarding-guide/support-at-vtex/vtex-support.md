@@ -26,9 +26,9 @@ When clients and partners need support, they can count on VTEX assistance, which
 
 This track is dedicated to describing the virtual support provided by VTEX and is structured as follows:
 
-- [How VTEX Support works](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/2Ik9CGbPeZIHHaYFsuyId3)
-- [Opening tickets](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/6EboD7Y1BOLlWdT8JM15EE)
-- [Technical support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3thRAdTB3gGwTB0e1fVL3T)
-- [Billing support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3g2mhmPDx5GszNgLDICzsl)
-- [Commercial support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ)
-- [Contract termination](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3TUpFItxp8L1WZAD1JuYfF)
+- [How VTEX Support works](/en/docs/tracks/how-vtex-support-works)
+- [Opening tickets](/en/docs/tracks/opening-tickets)
+- [Technical support](/en/docs/tracks/technical-support)
+- [Billing support](/en/docs/tracks/billing-support)
+- [Commercial support](/en/docs/tracks/commercial-support)
+- [Contract termination](/en/docs/tracks/contract-termination)

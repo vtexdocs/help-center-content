@@ -51,7 +51,7 @@ This error occurs when the [global category](/en/tracks/configurar-integracao-co
 
   **The "Material" or "Department" specification value from the spreadsheet is not an attribute/specification supported by Amazon**
 
-For both of these errors, the [VTEX global category](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) of the product selected by the seller requires the **Department** or **Material** attributes as mandatory in the product, and completing the [mapping spreadsheet](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#4-planilha-de-mapeamento). [Add](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) the attribute to the product and complete it in the spreadsheet as shown in the example below:
+For both of these errors, the [VTEX global category](/en/docs/tracks/sending-products-to-amazon) of the product selected by the seller requires the **Department** or **Material** attributes as mandatory in the product, and completing the [mapping spreadsheet](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#4-planilha-de-mapeamento). [Add](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) the attribute to the product and complete it in the spreadsheet as shown in the example below:
 
 |**CategoryID**|**VariationTheme**|**Type**|**VTEXSpecification**|**AmazonSpecification**|**VTEXValue**|**AmazonValue**|
 | :- | :- | :- | :- | :- | :- | :- |
@@ -63,11 +63,11 @@ For both of these errors, the [VTEX global category](/en/tracks/configurar-integ
 
 - **The value of specification (X) from the spreadsheet does not exist in the VTEX product specification**
 
-  In this error, the attribute in question has not been added to the SKU in the VTEX catalog. You need to [add the attribute](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) and redo the [mapping](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) of the submitted product.
+  In this error, the attribute in question has not been added to the SKU in the VTEX catalog. You need to [add the attribute](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) and redo the [mapping](/en/docs/tracks/sending-products-to-amazon) of the submitted product.
 
 - **The minimum age unit from the mapping spreadsheet is different from the value expected by Amazon.**
 
-  The minimum age unit is different from the value requested by Amazon. Amazon supports years or months as units. Resubmit the [mapping](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) using the values accepted by Amazon.
+  The minimum age unit is different from the value requested by Amazon. Amazon supports years or months as units. Resubmit the [mapping](/en/docs/tracks/sending-products-to-amazon) using the values accepted by Amazon.
 
 - **Amazon does not accept the SKU variation from the mapping spreadsheet**
 
@@ -102,12 +102,12 @@ For both of these errors, the [VTEX global category](/en/tracks/configurar-integ
 - **The SKU does not have a value for the "Color" attribute or the mapping spreadsheet does not contain a value for it**
 
   The Color attribute is required for the category of the product you are submitting to Amazon and the SKU does not have it, or it was not added to the mapping spreadsheet.
-You need to [add a SKU specification](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/6UjLHdAT5YLuflki10SXLr) for the Color attribute and/or redo the[mapping](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) for the submitted product.
+You need to [add a SKU specification](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/6UjLHdAT5YLuflki10SXLr) for the Color attribute and/or redo the[mapping](/en/docs/tracks/sending-products-to-amazon) for the submitted product.
 
 - **The "TargetGender" product specification is mandatory for integrating this product with Amazon**
 
   The TargetGender product specification is mandatory for the category of the product you are submitting. Amazon may call it Department or TargetGender depending on the category.
-Add the TargetGender [product specification](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) and redo the [mapping](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD).
+Add the TargetGender [product specification](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) and redo the [mapping](/en/docs/tracks/sending-products-to-amazon).
 
 ## Errors related to divergence between VTEX and Amazon catalogs (offer matching)
 
@@ -125,7 +125,7 @@ This error occurs when a SKU in your feed does not match any ASIN in Amazon's ca
 
 - **The token entered in the Amazon configuration form on VTEX expired or does not have permission to access the flow**
 
-  This error occurred because the serial number of the **MWS authorization token** expired. Contact Amazon to fix this problem, and [reconfigure the Amazon integration](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan).
+  This error occurred because the serial number of the **MWS authorization token** expired. Contact Amazon to fix this problem, and [reconfigure the Amazon integration](/en/docs/tracks/configuring-the-amazon-integration).
 
 - **Your account does not have permission on Amazon MWS**
 
@@ -135,11 +135,11 @@ This error occurs when a SKU in your feed does not match any ASIN in Amazon's ca
 
 - **The value of the "Shipping type name" field in the configuration of the Amazon integration on VTEX is different from the value it has on Amazon Seller Central**
 
-  This error occurs when there is no equivalence between the value entered for the **Shipping type name** field in the [Configuring the Amazon integration](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan) step on VTEX and the value it has on Amazon Seller Central. Check the Amazon Seller Central documentation to clarify questions and fix the problem.
+  This error occurs when there is no equivalence between the value entered for the **Shipping type name** field in the [Configuring the Amazon integration](/en/docs/tracks/configuring-the-amazon-integration) step on VTEX and the value it has on Amazon Seller Central. Check the Amazon Seller Central documentation to clarify questions and fix the problem.
 
 - **The value of the "SELLER ID" field in the configuration of the Amazon integration on VTEX is different from the value it has on Amazon Seller Central**
 
-  This error occurs when there is no equivalence between the value entered for the **Seller ID** field in the [Configuring the Amazon integration](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan) step on VTEX and the value it has on Amazon Seller Central. Keep in mind that during the integration configuration, the **Seller ID** value you are asked to enter is the one from Amazon.
+  This error occurs when there is no equivalence between the value entered for the **Seller ID** field in the [Configuring the Amazon integration](/en/docs/tracks/configuring-the-amazon-integration) step on VTEX and the value it has on Amazon Seller Central. Keep in mind that during the integration configuration, the **Seller ID** value you are asked to enter is the one from Amazon.
 [Check the Amazon Seller Central documentation](https://sellercentral.amazon.com/ap/signin?clientContext=135-8176388-1570853&openid.return_to=https%3A%2F%2Fsellercentral.amazon.com%2Fgp%2Fhomepage.html&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=sc_na_amazon_v2&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&mons_redirect=sign_in&ssoResponse=eyJ6aXAiOiJERUYiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiQTI1NktXIn0.btqAgOsEYCzMdO5m9YBtHULpOJ9zDulpquLZakKdx_i4EiYLCA8JRA.6JVG2JtMpz5o1_pj.esabEhqgD_QW-8Kuy32N5O363NO0Mu3-uF-ckJjSyajtUVJ5VIboj4u66Zz8JvOZOXqv8hbNo_8I_xCDO5-gyD_OmF5M674zXjsnuuA4thqW0LsQnN1FJJsomwlM0188J3j15mfmZi2VRscda1HEsvhWR3EI2wG_XRLGmBEnBJ0Q7A3_QCkdkDUwSE6V2u0kW3OqT_HNLw.DzX-HENfRu35E7yMNMkS7g) to clarify questions and fix the problem.
 
 ## Errors when submitting the VTEX global category
@@ -152,6 +152,6 @@ This error occurs when a SKU in your feed does not match any ASIN in Amazon's ca
 
 - **The SKU you tried to submit is inactive on VTEX**
 
-  The [SKU](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) is not active on VTEX. Only active SKUs can be integrated. Sometimes this error is generated by old [collections](/en/docs/tutorials/how-to-delete-a-collection) linked to the Amazon trade policy that contain inactive SKUs.
+  The [SKU](/en/docs/tracks/sku-concept-definition) is not active on VTEX. Only active SKUs can be integrated. Sometimes this error is generated by old [collections](/en/docs/tutorials/how-to-delete-a-collection) linked to the Amazon trade policy that contain inactive SKUs.
 Check the SKU status on the Admin through the *PRODUCTS > Catalog > Products and SKUs* module and [activate the SKU](/en/docs/tutorials/activating-skus-in-bulk) if needed.
 

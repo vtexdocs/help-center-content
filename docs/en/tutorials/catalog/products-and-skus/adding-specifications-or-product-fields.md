@@ -15,9 +15,9 @@ locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-When adding a product, you can use the [specification](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) field to include characteristics applicable to all its variations (SKUs).
+When adding a product, you can use the [specification](/en/docs/tracks/specifications-concept-definition) field to include characteristics applicable to all its variations (SKUs).
 
-At VTEX, a specification is always included in a [specification group](/en/docs/tutorials/creating-a-specification-group-in-a-category), associated with a [category](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf). Therefore, to create a product specification (field), you must first create at least one category and one specification group.
+At VTEX, a specification is always included in a [specification group](/en/docs/tutorials/creating-a-specification-group-in-a-category), associated with a [category](/en/docs/tracks/categories-concept-definition). Therefore, to create a product specification (field), you must first create at least one category and one specification group.
 
 Example: Consider a fashion store. In the **T-shirts** category, the specification group can be named **Characteristics** and include the **Fabric** field and its values, **Cotton **and **Polyester**.
 
@@ -47,7 +47,7 @@ Since this is a product specification, the information selected on that page wil
 
 ## Step-by-step instructions on VTEX Admin
 
-To see product specifications while creating or editing products, besides having previously created a [specification group](/en/docs/tutorials/creating-a-specification-group-in-a-category) associated with a [category](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), you must also create the fields and fill in their values. Next, you will be able to fill in your product specifications.
+To see product specifications while creating or editing products, besides having previously created a [specification group](/en/docs/tutorials/creating-a-specification-group-in-a-category) associated with a [category](/en/docs/tracks/categories-concept-definition), you must also create the fields and fill in their values. Next, you will be able to fill in your product specifications.
 
 See the step-by-step instructions below.
 
@@ -211,4 +211,4 @@ To fill in product specifications in bulk by spreadsheet, you need to export the
 
 ## Learn more
 - [Adding SKU specifications or fields](/en/docs/tutorials/adding-sku-specifications-or-fields)
-- [Product and SKU Specifications](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
+- [Product and SKU Specifications](/en/docs/tracks/specifications-concept-definition)

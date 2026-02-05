@@ -39,7 +39,7 @@ Having done this, wait for 15 more minutes. The most important step of this proc
 
 11. Access the Mercado Livre __panel__
 12. __Login__ with the account you wish to integrate
-13. Redo the __[authorization process](/en/tracks/--2YfvI3Jxe0CGIKoWIGQEIq/4leBEAd22Icm46kGeiGgak)__
+13. Redo the __[authorization process](/en/docs/tracks/authorizing-mercado-livre-integration-in-vtex-panel)__
 14. __Save__ the configurations.
 
 Done! By doing this, your integration will go back to working normally after a few minutes.

@@ -64,7 +64,7 @@ Allí ellos se agrupan por un producto que tiene diversas variaciones/SKUs.
 
 _`Ej:` Camisa Azul (producto) | P, M, G (variaciones/SKUs)_
 
-La categoría se envía de acuerdo con el Departamento rellenado en la [planilla de mapeo](/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc).
+La categoría se envía de acuerdo con el Departamento rellenado en la [planilla de mapeo](/es/docs/tracks/mapeo-de-categorias-variaciones-y-atributos-de-netshoes).
 
 ## 2 - Inventario
 

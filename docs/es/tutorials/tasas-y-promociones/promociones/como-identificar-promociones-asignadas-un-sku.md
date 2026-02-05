@@ -31,6 +31,6 @@ Para descubrir qué promociones están siendo asignadas a un SKU, hay que anal
 
 ## Más información
 
-- [Cómo funcionan las promociones](/es/tracks/promociones--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N)
+- [Cómo funcionan las promociones](/es/docs/tracks/como-funcionan-las-promociones)
 - [Identificar las promociones aplicadas en el carrito](/es/docs/tutorials/como-identificar-las-promociones-aplicadas-en-el-carrito)
 

@@ -17,7 +17,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 An SKU specification is a mandatory field in the SKU form where you can insert specific characteristics for every product variation.
 
-At VTEX, a specification is always included in a [specification group](/en/docs/tutorials/creating-a-specification-group-in-a-category), associated with a [category](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf). Therefore, to create an SKU specification (field), you must first create at least one category and one specification group.
+At VTEX, a specification is always included in a [specification group](/en/docs/tutorials/creating-a-specification-group-in-a-category), associated with a [category](/en/docs/tracks/categories-concept-definition). Therefore, to create an SKU specification (field), you must first create at least one category and one specification group.
 
 Example: A fashion store which intends to sell a **Polo shirt** product in the S, M or L sizes. In the **T-shirts** category, the specification group can be named **Characteristics**. In this case, size is the characteristic which will distinguish one SKU from another. Therefore, the retailer must create an SKU field called **Size**, having **S**, **M** and **L** as value options.
 
@@ -47,7 +47,7 @@ Since this is an SKU specification, the information selected on that page will a
 
 ## Step-by-step instructions in the VTEX Admin
 
-To see the SKU specifications in the SKU registration page, besides having previously created a [specification group](/en/docs/tutorials/creating-a-specification-group-in-a-category) associated with a [category](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), you must also create the SKU fields and fill in their values. Then, you will be able to fill in the SKU specifications.
+To see the SKU specifications in the SKU registration page, besides having previously created a [specification group](/en/docs/tutorials/creating-a-specification-group-in-a-category) associated with a [category](/en/docs/tracks/categories-concept-definition), you must also create the SKU fields and fill in their values. Then, you will be able to fill in the SKU specifications.
 
 See the step-by-step instructions below.
 
@@ -202,4 +202,4 @@ To fill in SKU specifications in bulk using a spreadsheet, first you must export
 
 ## Learn more
 - [Adding product specifications or fields](/en/docs/tutorials/adding-specifications-or-product-fields)
-- [Product and SKU Specifications](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
+- [Product and SKU Specifications](/en/docs/tracks/specifications-concept-definition)

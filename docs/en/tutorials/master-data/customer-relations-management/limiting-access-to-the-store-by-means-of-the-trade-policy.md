@@ -23,7 +23,7 @@ This can be achieved by using Master Data v1 and the store’s sales policy.
 
 ## Creating a cluster of customers
 
-The first step is to create a cluster which will identify those customers that can access the store. [To learn how to create a cluster of customers, read our manual](/en/faq/how-can-i-create-cluster-of-customers/).
+The first step is to create a cluster which will identify those customers that can access the store. [To learn how to create a cluster of customers, read our manual](/en/docs/tutorials/how-can-i-create-cluster-of-customers/).
 
 ## Changing a trade policy
 
@@ -42,7 +42,7 @@ However there are other possibilities for configuration. For instance, you can c
 
 ## Registering customers with access
 
-In the case of B2B, where the store does not know which customers may have access, a form will have to be created for them to register their details. The store will then use Master Data to verify the details and decide whether or not to grant access. [For this configuration, see our manual for B2B stores](/en/tutorial/setting-up-b2b-on-vtex/).
+In the case of B2B, where the store does not know which customers may have access, a form will have to be created for them to register their details. The store will then use Master Data to verify the details and decide whether or not to grant access. [For this configuration, see our manual for B2B stores](/en/docs/tutorials/setting-up-b2b-on-vtex/).
 
 ## Learn more
 

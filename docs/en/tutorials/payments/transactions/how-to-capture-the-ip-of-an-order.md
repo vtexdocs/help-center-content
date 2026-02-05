@@ -27,7 +27,7 @@ Finally, the IP is visualized on the top right corner:
 
 ![ip pedido2 EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/how-to-capture-the-ip-of-an-order_2.png)
 
-See more details on [How to visualize the order detail](/en/tutorial/how-to-view-the-orders-details)
+See more details on [How to visualize the order detail](/en/docs/tutorials/how-to-view-the-orders-details)
 
 ## Get the IP by API
 

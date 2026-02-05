@@ -33,4 +33,4 @@ Redirects work in stages:
 
 These settings ensure the resolved IP address is dynamic and can change anytime. This is because this IP address adapts to match the CDN (Content Delivery Network) server closest to the visitor's location. This adaptation improves the site's performance, as files are delivered from servers geographically closer to the visitor.
 
-Learn more about DNS configuration on VTEX by reading the [Go-live](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj) article.
+Learn more about DNS configuration on VTEX by reading the [Go-live](/en/docs/tracks/go-live) article.

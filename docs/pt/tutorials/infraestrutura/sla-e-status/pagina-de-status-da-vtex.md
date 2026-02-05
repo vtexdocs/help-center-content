@@ -81,7 +81,7 @@ A seguir, detalhamos os componentes exibidos na página.
 
 Problemas na navegação na frente de loja.
 
-* **Portal/CMS:** instabilidades observadas em lojas desenvolvidas com a tecnologia de storefront [CMS Portal (Legado)](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
+* **Portal/CMS:** instabilidades observadas em lojas desenvolvidas com a tecnologia de storefront [CMS Portal (Legado)](/pt/docs/tracks/cms-portal-legado).
 * **Store Framework:** instabilidades observadas em lojas desenvolvidas com a tecnologia de storefront [Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework).
 * **FastStore:** instabilidades observadas em lojas desenvolvidas com a tecnologia de storefront [FastStore](https://www.faststore.dev/).
 * **Sales App:** instabilidades observadas no [Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc), a solução da VTEX para vendas assistidas em lojas físicas.

@@ -40,6 +40,6 @@ Another option is to [empty the catalog](/en/docs/tutorials/database-maintenance
 > ⚠️ For security reasons, only the [Sponsor user](/en/docs/tutorials/what-is-the-sponsor-user) of the account has access to the database cleaning feature. If another user tries to access this page, all buttons will be disabled.
 
 ### Related articles
-- [Adding a category](/en/tutorial/registering-a-category)
+- [Adding a category](/en/docs/tutorials/registering-a-category)
 - [Adding a product](/en/tutorial/registering-a-product)
 - [Adding a SKU](/en/tutorial/registering-sku)

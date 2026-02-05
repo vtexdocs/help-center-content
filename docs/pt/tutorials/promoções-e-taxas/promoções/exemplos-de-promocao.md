@@ -21,56 +21,56 @@ Este artigo busca ilustrar alguns cenários comuns de promoções e como configu
 
 Desconto de R$ 50,00 para compras de R$ 400,00 a R$ 699,00.
 
-- “Desconto de R$ 50,00” faz com que esta seja uma [Promoção Regular - Nominal](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “Desconto de R$ 50,00” faz com que esta seja uma [Promoção Regular - Nominal](/pt/docs/tracks/criar-promocao-regular).
 - “R$ 400,00 a R$ 699,00” é uma restrição que pode ser incluída com os valores mínimo e máximo de configuração do pedido ou preço do item.
 
 ## Cenário 2
 
 Desconto extra em mercadorias em liquidação ao gastar entre R$ 250,00 e R$ 499,00.
 
-- “Desconto extra” faz com que esta seja uma [Promoção Regular](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) que se acumula com outros benefícios.
+- “Desconto extra” faz com que esta seja uma [Promoção Regular](/pt/docs/tracks/criar-promocao-regular) que se acumula com outros benefícios.
 - “R$ 250,00 a R$ 499,00” é uma restrição que pode ser incluída com os valores mínimo e máximo de configuração do pedido.
 
 ## Cenário 3
 
 Desconto extra de 20% em todas as mercadorias em liquidação.
 
-- “Desconto extra de 20%” faz com que esta seja uma [Promoção Regular - Porcentagem](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) que se acumula com outros benefícios.
+- “Desconto extra de 20%” faz com que esta seja uma [Promoção Regular - Porcentagem](/pt/docs/tracks/criar-promocao-regular) que se acumula com outros benefícios.
 - “Todas as mercadorias em liquidação” é a coleção à qual este benefício será aplicado.
 
 ## Cenário 4
 
 Frete grátis por tempo limitado.
 
-- “Frete grátis” faz com que esta seja uma [Promoção Regular - Frete Grátis](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “Frete grátis” faz com que esta seja uma [Promoção Regular - Frete Grátis](/pt/docs/tracks/criar-promocao-regular).
 - “Tempo limitado” é uma restrição que pode ser configurada na data de expiração.
 
 ## Cenário 5
 
 Economize R$ 100,00 em todas as jaquetas de couro.
 
-- “R$ 100,00” faz com que esta seja uma [Promoção Regular - Nominal](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “R$ 100,00” faz com que esta seja uma [Promoção Regular - Nominal](/pt/docs/tracks/criar-promocao-regular).
 - “Todas as jaquetas de couro” é a coleção ou categoria à qual este benefício será aplicado.
 
 ## Cenário 6
 
 Economize R$ 75,00 em todas as jaquetas de couro e jaquetas de marca.
 
-- “R$ 75,00” faz com que esta seja uma [Promoção Regular - Nominal](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “R$ 75,00” faz com que esta seja uma [Promoção Regular - Nominal](/pt/docs/tracks/criar-promocao-regular).
 - “Todas as jaquetas de couro e jaquetas de marca" são as coleções ou categorias às quais este benefício será aplicado.
 
 ## Cenário 7
 
 Economize 30% em todos os cintos.
 
-- “30%” faz com que esta seja uma [Promoção Regular - Porcentagem](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “30%” faz com que esta seja uma [Promoção Regular - Porcentagem](/pt/docs/tracks/criar-promocao-regular).
 - “Todos os cintos” é a categoria à qual este benefício será aplicado.
 
 ## Cenário 8
 
 20% de desconto extra em todos os suéteres em liquidação.
 
-- “20%” faz com que esta seja uma [Promoção Regular - Porcentagem](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “20%” faz com que esta seja uma [Promoção Regular - Porcentagem](/pt/docs/tracks/criar-promocao-regular).
 - “Desconto extra” é uma promoção que se acumula com outros benefícios.
 - “Todos os suéteres em liquidação” é a categoria à qual este benefício será aplicado.
 
@@ -78,14 +78,14 @@ Economize 30% em todos os cintos.
 
 R$ 99,00 em todas as camisas em liquidação.
 
-- “R$ 99,00” faz com que esta seja uma [Promoção Regular - Nominal](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “R$ 99,00” faz com que esta seja uma [Promoção Regular - Nominal](/pt/docs/tracks/criar-promocao-regular).
 - “Todas as camisas em liquidação” é a categoria à qual este benefício será aplicado.
 
 ## Cenário 10
 
 20% de desconto em camisas de vários departamentos.
 
-- “20% de desconto” faz com que esta seja uma [Promoção Regular - Porcentagem](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “20% de desconto” faz com que esta seja uma [Promoção Regular - Porcentagem](/pt/docs/tracks/criar-promocao-regular).
 - “Camisas de vários departamentos” são categorias às quais este benefício será aplicado.
 
 ## Cenário 11
@@ -125,7 +125,7 @@ Compre duas camisas de malha de manga comprida e ganhe 20% de desconto ou compre
 
 Ganhe R$ 50,00 de desconto a cada R$ 300,00 gastos.
 
-- “R$ 50,00” faz com que esta seja uma [Promoção Regular - Nominal](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “R$ 50,00” faz com que esta seja uma [Promoção Regular - Nominal](/pt/docs/tracks/criar-promocao-regular).
 - “R$ 300,00” é uma restrição que pode ser incluída com o valor mínimo da configuração do pedido ou do preço do item. 
 - "A cada R$ 300,00" implica promoções múltiplas e cumulativas (R$ 600,00; R$ 900,00) a partir de um valor mínimo do pedido.
 
@@ -133,7 +133,7 @@ Ganhe R$ 50,00 de desconto a cada R$ 300,00 gastos.
 
 A cada R$ 500,00 em compras, receba um cupom com desconto de 20% a ser usado na próxima compra. 
 
-- “20% de desconto” faz com que seja uma [Promoção Regular - Valor Fidelidade Percentual](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). O crédito adquirido é transferido para um [Gift Card](/pt/docs/tutorials/gift-card).
+- “20% de desconto” faz com que seja uma [Promoção Regular - Valor Fidelidade Percentual](/pt/docs/tracks/criar-promocao-regular). O crédito adquirido é transferido para um [Gift Card](/pt/docs/tutorials/gift-card).
 - “A cada R$ 500,00 em compras” é uma restrição que pode ser incluída com o valor mínimo da configuração do pedido. 
 
 ## Cenário 17
@@ -145,11 +145,11 @@ Compre 3 camisetas básicas e pague apenas 1.
 - Você pode definir condições como 3 camisetas básicas com 67% de desconto ou 3 camisetas básicas com 2 unidades gratuitas. Ambas as opções podem ser configuradas com base na quantidade mínima de itens e no desconto correspondente.
 
 ## Artigos relacionados
--   [Criar Promoção Regular](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI)
+-   [Criar Promoção Regular](/pt/docs/tracks/criar-promocao-regular)
 
 -   [Campos de Promoção Regular](/pt/docs/tutorials/promocao-regular-pt)
 
--   [Promoções para cenários específicos](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy)
+-   [Promoções para cenários específicos](/pt/docs/tracks/promocoes-para-cenarios-especificos)
 
 -   [Criar Promoção Compre Junto](/pt/docs/tutorials/compre-junto)
 
@@ -159,6 +159,6 @@ Compre 3 camisetas básicas e pague apenas 1.
 
 -   [Como funciona a promoção Compre e Ganhe](/pt/docs/tutorials/compre-e-ganhe)
 
--   [Limite de itens com promoção no carrinho](/pt/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy)
+-   [Limite de itens com promoção no carrinho](/pt/docs/tracks/promocoes-para-cenarios-especificos)
 
 -   [Configurar Vale-Compra](/pt/docs/tutorials/gift-card)

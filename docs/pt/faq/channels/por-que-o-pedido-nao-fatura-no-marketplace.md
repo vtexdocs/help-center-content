@@ -20,7 +20,7 @@ Este cenário é caracterizado pela inserção da nota fiscal e a fatura do pedi
 
 Como em qualquer passo da compra, algo pode ocorrer com a integração. Porém, isso sempre estará logado no bridge, para ajudar a entender e saber como corrigir.
 
-[Saiba como analisar erros de integração no Bridge.](/pt/tutorial/verificando-integracao-no-bridge)
+[Saiba como analisar erros de integração no Bridge.](/pt/docs/tutorials/verificando-integracao-no-bridge)
 
 ## Insira a chave de acesso com a nota fiscal
 

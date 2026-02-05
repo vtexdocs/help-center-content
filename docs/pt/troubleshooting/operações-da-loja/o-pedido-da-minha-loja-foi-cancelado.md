@@ -36,7 +36,7 @@ Para identificar o motivo do cancelamento:
 
 No Admin VTEX, em **Pedidos > Transações**, é onde ficam registradas todas as interações do pagamento, tanto com a operadora/gateway de pagamento quanto com o anti fraude. Esses agentes são responsáveis pela maioria dos cancelamentos realizados.
 
-Quando ocorre um cancelamento, o agente responsável registra nos eventos da transação do pedido uma mensagem identificando o motivo da ação. Para saber como consultar esses eventos, veja [Visualizar detalhes da transação em Pedidos](/pt/tutorial/como-visualizar-detalhes-do-pedido/).
+Quando ocorre um cancelamento, o agente responsável registra nos eventos da transação do pedido uma mensagem identificando o motivo da ação. Para saber como consultar esses eventos, veja [Visualizar detalhes da transação em Pedidos](/pt/docs/tutorials/como-visualizar-detalhes-do-pedido/).
 
 ### Verifique as interações do pedido
 

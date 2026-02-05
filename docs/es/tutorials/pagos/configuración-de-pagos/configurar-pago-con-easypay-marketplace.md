@@ -227,7 +227,7 @@ Para configurar la afiliación easypay, sigue los pasos a continuación:
 7. Si desea utilizar [Split de pagos](/es/docs/tutorials/split-de-pagos) en su tienda, seleccione la opción __Activar split de cobros y enviar destinatarios de pago__ e indique el __Responsable de cargos de procesamiento de pagos__ y el __Responsable de contracargos__ (marketplace, sellers o marketplace y sellers).
 8. Haz clic en `Guardar`.
 
-Para configurar los medios de pago que easypay procesará, accede a [Configurar condiciones de pago](/es/tutorial/condiciones-de-pago).
+Para configurar los medios de pago que easypay procesará, accede a [Configurar condiciones de pago](/es/docs/tutorials/condiciones-de-pago).
 
 Para establecer condiciones especiales en los medios de pago, accede a [Configurar condiciones especiales de pago](/es/docs/tutorials/condiciones-especiales).
 

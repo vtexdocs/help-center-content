@@ -23,4 +23,4 @@ If you need to use in your products words that perhaps are not important for the
 - Use collection, redirecting the search term to a landing-page.
 - Redirect the search term to a search context that makes sense (Category, brand or the product itself).
 
-Learn how to set up redirection on the [URL Mapping (301 Redirect)](/en/faq/url-mapping-301-redirect/) guide.
+Learn how to set up redirection on the [URL Mapping (301 Redirect)](/en/docs/tutorials/url-mapping-301-redirect/) guide.

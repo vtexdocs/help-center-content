@@ -105,7 +105,7 @@ La funcionalidad _Manual price_ no se aplica al _Multilevel omnichannel inventor
 
 - [Integración con el ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide)  
 - [Pricing API REST](https://developers.vtex.com/vtex-rest-api/reference/createupdatepriceorfixedprice)  
-- [Página de precios en el Admin VTEX](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)
+- [Página de precios en el Admin VTEX](/es/docs/tracks/modulo-de-precios-vision-general)
 
 ### Información de usuario
 

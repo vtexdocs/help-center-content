@@ -116,7 +116,7 @@ Todas as configurações são feitas dentro da plataforma do Mercado Livre.
 
 [Mercado Envios Full](https://envios.mercadolivre.com.br/mercado-envios-full) é um serviço oferecido pelo Mercado Livre no qual o estoque e o envio de produtos ao consumidor final fica sob responsabilidade do Mercado Livre. Cada vez que uma venda é completada, os produtos comprados são separados, empacotados e enviados dentro de 24hs.
 
-É possível configurar esse serviço na sua loja através do [cadastro de um estoque](/pt/tutorial/gerenciar-estoque) exclusivo para o  Mercado Envios Full. Essa configuração permite acompanhar o nível do estoque uma vez que a quantidade dos produtos dos pedidos feitos através do Mercado Envios Full é atualizada automaticamente conforme a venda é realizada.
+É possível configurar esse serviço na sua loja através do [cadastro de um estoque](/pt/docs/tutorials/gerenciar-estoque) exclusivo para o  Mercado Envios Full. Essa configuração permite acompanhar o nível do estoque uma vez que a quantidade dos produtos dos pedidos feitos através do Mercado Envios Full é atualizada automaticamente conforme a venda é realizada.
 
 > ❗ Caso o seller escolha o modelo logístico **Mercado Envios Full**, é necessário seguir a seguinte ordem de configuração: <ol>[Configurar modelo de envio](#configurando-modelo-de-envio) <br>[Configurar o Mercado Envios Full](#configurar-o-mercado-envios-full)</br></ol>
 
@@ -125,7 +125,7 @@ Todas as configurações são feitas dentro da plataforma do Mercado Livre.
 Para configurar, siga os passos a seguir: 
 
 1. No Admin VTEX, acesse **Envio > Estratégia de Envio > Estoques**, ou digite *Estratégia de Envio* na barra de busca no topo da página e selecione a aba *Estoques*.     
-2. [Cadastre](/pt/tutorial/gerenciar-estoque) um estoque.    
+2. [Cadastre](/pt/docs/tutorials/gerenciar-estoque) um estoque.    
 3. Na aba **Estoques**, copie o ID do estoque que você criou.    
 4. Acesse **Marketplace > Marketplaces e Integrações**, ou digite *Marketplaces e Integrações* na barra de busca no topo da página.      
 5. Clique na integração do Mercado Livre e selecione a opção `Editar configuração`.    

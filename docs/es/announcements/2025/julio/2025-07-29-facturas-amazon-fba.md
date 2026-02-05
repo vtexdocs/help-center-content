@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Exportación de facturas de pedidos FBA ahora disponible en el Admin VTEX.'
 ---
 
-Creamos esta funcionalidad para facilitar el acceso y la exportación de facturas de pedidos FBA y permitir una personalización más precisa de las búsquedas. La funcionalidad está disponible para todos los clientes VTEX que operan como sellers a través de la [integración con Amazon](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5sYA9MlRo92jJIxKF1MTXb) y tienen pedidos FBA.  
+Creamos esta funcionalidad para facilitar el acceso y la exportación de facturas de pedidos FBA y permitir una personalización más precisa de las búsquedas. La funcionalidad está disponible para todos los clientes VTEX que operan como sellers a través de la [integración con Amazon](/es/docs/tracks/amazon) y tienen pedidos FBA.  
 
 ## ¿Qué cambió?
 

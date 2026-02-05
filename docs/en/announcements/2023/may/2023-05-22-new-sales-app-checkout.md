@@ -34,8 +34,8 @@ We made this change to the Sales App with the aim of better meeting your needs a
 No action is required, as the update will be automatically applied to all VTEX stores using Sales App. 
 
 For more information about Sales App, see the following documentation:
-- [Sales App - First steps and setting up](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf)
-- [Sales App - Payments](/en/tracks/instore-payments--43B4Nr7uZva5UdwWEt3PEy/2liigRors32hzqBNs2M1Oa)
-- [Sales App - Using the app](/en/tracks/instore-using-the-app--4BYzQIwyOHvnmnCYQgLzdr/6cq4E1JCmA6vCvBCCtAgIM)
-- [Unified commerce strategies](/en/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3)
+- [Sales App - First steps and setting up](/en/docs/tracks/what-is-vtex-sales-app)
+- [Sales App - Payments](/en/docs/tracks/setting-up-payment-methods-for-vtex-sales-app)
+- [Sales App - Using the app](/en/docs/tracks/vtex-sales-app-using-the-app)
+- [Unified commerce strategies](/en/docs/tracks/unified-commerce-101)
 

@@ -26,6 +26,6 @@ Após seu cadastro, analise os itens abaixo, que são os principais motivos para
 - Verifique se a URL de rastreio está errada
 - Verifique se a transportadora está errada
 - Acesse a URL de rastreio passando o número no navegador e verifique se acessa a página de acompanhamento de rastreio
-- Verifique se a transportadora está na [lista de transportadoras cadastradas para o rastreio](/pt/faq/quais-transportadoras-disponibilizam-o-rastreio-de-frete).
+- Verifique se a transportadora está na [lista de transportadoras cadastradas para o rastreio](/pt/docs/tutorials/quais-transportadoras-disponibilizam-o-rastreio-de-frete).
 
 _Ajuste esses itens e acompanhe o disparo dos e-mails pela linha do tempo no pedido._

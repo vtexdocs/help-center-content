@@ -36,4 +36,4 @@ Listo! Ahora es sólo comparar los valores y comprobar si los datos son coincide
 
 En VTEX, es posible registrar los productos en categorías similares. Así, productos que tengan categorías similares registradas serán exhibidos en las vitrinas de las páginas de esas categorías.
 
-Esto puede causar la impresión de que el producto se muestra en la categoría incorrecta. Para comprobar si su producto tiene una categoría similar registrada, acceda a nuestro artículo sobre [cómo configurar categorías similares](/es/tutorial/configurando-categoria-similar).
+Esto puede causar la impresión de que el producto se muestra en la categoría incorrecta. Para comprobar si su producto tiene una categoría similar registrada, acceda a nuestro artículo sobre [cómo configurar categorías similares](/es/docs/tutorials/configurando-categoria-similar).

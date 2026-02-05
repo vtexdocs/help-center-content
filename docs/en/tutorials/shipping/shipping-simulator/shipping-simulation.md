@@ -75,19 +75,19 @@ The shipping simulation shows all the shipping possibilities and availability fo
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">The total weight of the cart exceeds the carrier limit.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">You can meet the limit by using cargo splitting. See cargo splitting for more information. Also, check if there are any errors in the [product settings in the catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
+   <td class="t-body pa5" style="min-width: 15rem;">You can meet the limit by using cargo splitting. See cargo splitting for more information. Also, check if there are any errors in the [product settings in the catalog](/en/docs/tracks/products-concept-definition).
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">The weight or size of the item is not supported by the carrier.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Check the settings in the s [hipping rate template](/en/docs/tutorials/shipping-rate-template) for the ***WeightStart***,***WeightEnd***, and ***MaxVolume*** fields. Also, check if there are any errors in the [ product settings in the catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
+   <td class="t-body pa5" style="min-width: 15rem;">Check the settings in the s [hipping rate template](/en/docs/tutorials/shipping-rate-template) for the ***WeightStart***,***WeightEnd***, and ***MaxVolume*** fields. Also, check if there are any errors in the [ product settings in the catalog](/en/docs/tracks/products-concept-definition).
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">The weight of the kit exceeds the weight accepted by the carrier. Note: items that make up a kit or promotion cannot be separated into different packages.
    </td>
-  <td class="t-body pa5" style="min-width: 15rem;">Check the settings in the shipping rate template for the ***WeightStart*** and ***WeightEnd*** fields. Also, check if there are any errors in the [ product settings in the catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru)
+  <td class="t-body pa5" style="min-width: 15rem;">Check the settings in the shipping rate template for the ***WeightStart*** and ***WeightEnd*** fields. Also, check if there are any errors in the [ product settings in the catalog](/en/docs/tracks/products-concept-definition)
    </td>
   </tr>
   <tr class="bb b--muted-3">

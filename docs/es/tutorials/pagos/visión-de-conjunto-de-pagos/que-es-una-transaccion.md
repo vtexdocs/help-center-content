@@ -15,15 +15,15 @@ locale: es
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
-El movimiento que el dinero hace al ser cambiado por un producto o servicio es lo que llamamos __transación__. Así, el pago es sólo una etapa de un proceso que implica un intenso flujo de intercambio de información entre varias partes: [gateways](/es/tutorial/que-es-un-gateway-de-pagos), [subadquirentes](/es/tutorial/que-es-un-subadquirente) y/o [adquirentes](/es/tutorial/que-es-un-adquirente), [banderas](/es/tutorial/que-es-una-bandera-de-tarjeta-de-credito) y [bancos emisores](/es/tutorial/que-es-el-banco-emisor).
+El movimiento que el dinero hace al ser cambiado por un producto o servicio es lo que llamamos __transación__. Así, el pago es sólo una etapa de un proceso que implica un intenso flujo de intercambio de información entre varias partes: [gateways](/es/docs/tutorials/que-es-un-gateway-de-pagos), [subadquirentes](/es/docs/tutorials/que-es-un-subadquirente) y/o [adquirentes](/es/docs/tutorials/que-es-un-adquirente), [banderas](/es/docs/tutorials/que-es-una-bandera-de-tarjeta-de-credito) y [bancos emisores](/es/docs/tutorials/que-es-el-banco-emisor).
 
-En una tienda VTEX, una transacción se inicia cada vez que un usuario elige una [condición de pago](/es/tutorial/diferencia-entre-medios-de-pago-y-condiciones-de-pago) y cierra su pedido. A partir de ahí, los datos de la compra se envían para validación de cada uno de los integrantes del proceso. Usted puede realizar un seguimiento de cada paso del [flujo de la transacción](/es/tutorial/flujo-de-la-transaccion-en-pagos) en Pagos. En él, usted visualiza exactamente la situación de un pago a través del status mostrado.
+En una tienda VTEX, una transacción se inicia cada vez que un usuario elige una [condición de pago](/es/docs/tutorials/diferencia-entre-medios-de-pago-y-condiciones-de-pago) y cierra su pedido. A partir de ahí, los datos de la compra se envían para validación de cada uno de los integrantes del proceso. Usted puede realizar un seguimiento de cada paso del [flujo de la transacción](/es/docs/tutorials/flujo-de-la-transaccion-en-pagos) en Pagos. En él, usted visualiza exactamente la situación de un pago a través del status mostrado.
 
 ### Artículos relacionados
-- [¿Qué es un gateway de pagos?](/es/tutorial/que-es-un-gateway-de-pagos)
-- [¿Qué es un subadquirente?](/es/tutorial/que-es-un-subadquirente)
-- [¿Qué es un adquirente?](/es/tutorial/que-es-un-adquirente)
-- [¿Qué es una bandera de tarjeta de crédito?](/es/tutorial/que-es-una-bandera-de-tarjeta-de-credito)
-- [¿Qué es el banco emisor?](/es/tutorial/que-es-el-banco-emisor)
-- [Diferencia entre medios de pago y condiciones de pago](/es/tutorial/diferencia-entre-medios-de-pago-y-condiciones-de-pago)
+- [¿Qué es un gateway de pagos?](/es/docs/tutorials/que-es-un-gateway-de-pagos)
+- [¿Qué es un subadquirente?](/es/docs/tutorials/que-es-un-subadquirente)
+- [¿Qué es un adquirente?](/es/docs/tutorials/que-es-un-adquirente)
+- [¿Qué es una bandera de tarjeta de crédito?](/es/docs/tutorials/que-es-una-bandera-de-tarjeta-de-credito)
+- [¿Qué es el banco emisor?](/es/docs/tutorials/que-es-el-banco-emisor)
+- [Diferencia entre medios de pago y condiciones de pago](/es/docs/tutorials/diferencia-entre-medios-de-pago-y-condiciones-de-pago)
 - [Flujo de transacción en Pagos](/es/docs/tutorials/flujo-de-la-transaccion-en-pagos)

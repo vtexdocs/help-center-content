@@ -27,7 +27,7 @@ Na plataforma VTEX, é possível cadastrar o nome do estoque, adicionar itens ao
 
 Com um estoque cadastrado os produtos que estão disponíveis naquele estoque podem ser inseridos. É possível ter vários estoques, e para cada um adicionar os seus itens específicos, para refletir na sua configuração logística. 
 
-> ℹ️ Para adicionar itens ao seu estoque, os produtos precisam ser previamente cadastrados no [catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR). Com isso, é possível associá-los ao estoque pelo [gerenciamento de inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque).
+> ℹ️ Para adicionar itens ao seu estoque, os produtos precisam ser previamente cadastrados no [catálogo](/pt/docs/tracks/arquitetura-do-catalogo). Com isso, é possível associá-los ao estoque pelo [gerenciamento de inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque).
 
 A disponibilidade dos produtos da sua loja é dada por produtos cadastrados em diferentes estoques. O que significa que para o cliente final os itens que ficam disponíveis durante a navegação na loja são itens referentes a todos os estoques. Assim, existe a possibilidade de em uma única compra ter produtos de diferentes estoques da sua loja. Para o controle de movimentações dos estoques e  disponibilidade de itens da sua loja acesse o [Gerenciamento de Inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque).
 

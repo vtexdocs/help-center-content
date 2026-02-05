@@ -22,7 +22,7 @@ Ao configurar uma nova promoção, é possível cometer erros ao preencher as in
 ## O que mudou?
 Antes, uma promoção era ativada automaticamente quando salva com o status **Ativa**. Com o novo recurso, você pode visualizar um resumo das configurações definidas antes de ativar uma nova promoção. Assim, é possível verificar se os dados da promoção estão corretos, evitando erros de implementação.
 
-Para que o resumo seja exibido, é preciso que a promoção seja configurada com o status **Ativa** e seja dos tipos [Regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) ou [Leve Mais por Menos](/pt/docs/tutorials/leve-mais-por-menos).
+Para que o resumo seja exibido, é preciso que a promoção seja configurada com o status **Ativa** e seja dos tipos [Regular](/pt/docs/tracks/criar-promocao-regular) ou [Leve Mais por Menos](/pt/docs/tutorials/leve-mais-por-menos).
 
 O resumo da promoção exibe alertas com pontos de atenção para garantir o comportamento esperado de uma promoção antes de ativá-la.
 

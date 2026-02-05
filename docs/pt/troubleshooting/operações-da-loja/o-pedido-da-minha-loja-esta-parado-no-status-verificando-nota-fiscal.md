@@ -28,7 +28,7 @@ Quando o pedido permanece no status `Verificando nota fiscal`, isso em geral oco
 
 ## Solução
 
-Com relação à liquidação do pagamento, o pedido permanece em `Verificando nota fiscal` até que o [gateway](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#gateway) confirme a liquidação do pagamento, o que é sinalizado pelo status `Settled` do [fluxo de transação](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/1xjzgJZvqwaI1rfxLMCC3Y). Transcorrido algum tempo, caso a liquidação não ocorra, será necessário criar outro pedido, pois se trata de um problema do gateway e não da plataforma.
+Com relação à liquidação do pagamento, o pedido permanece em `Verificando nota fiscal` até que o [gateway](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#gateway) confirme a liquidação do pagamento, o que é sinalizado pelo status `Settled` do [fluxo de transação](/pt/docs/tracks/fluxo-de-uma-transacao). Transcorrido algum tempo, caso a liquidação não ocorra, será necessário criar outro pedido, pois se trata de um problema do gateway e não da plataforma.
 
 Com relação à nota fiscal, é necessário garantir que o valor total do pedido foi faturado e que as informações enviadas estavam corretas, conforme apresentado na seção abaixo.
 

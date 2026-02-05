@@ -26,5 +26,5 @@ The CMS provides a set of tools that vary depending on the technology used in th
 The following articles contain more details about the CMS in each technology:
 
 - [FastStore CMS](/en/docs/tutorials/managing-pages)
-- [Store Framework CMS](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2)
+- [Store Framework CMS](/en/docs/tracks/cms-vtex-io)
 - [Legacy CMS Portal](/en/docs/tutorials/what-is-cms-layout)

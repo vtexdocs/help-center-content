@@ -19,7 +19,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 Essa funcionalidade está disponível para lojas usando a tecnologia Portal Legada.
 </div>
 
-Templates são os arquivos que contêm o código das páginas do seu web site. Eles são responsáveis, dentre outras coisas, por determinar como as informações vão aparecer na tela (inclusive a posição dos [placeholders](/pt/tutorial/o-que-sao-placeholders)).
+Templates são os arquivos que contêm o código das páginas do seu web site. Eles são responsáveis, dentre outras coisas, por determinar como as informações vão aparecer na tela (inclusive a posição dos [placeholders](/pt/docs/tutorials/o-que-sao-placeholders)).
 
 Na plataforma VTEX, os templates são divididos em dois tipos:
 
@@ -35,9 +35,9 @@ E falando em organização, você encontra todos os templates no módulo **Store
 ![cms](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/o-que-sao-templates_1.png)
 
 ### Artigos relacionados
-- [O que é o CMS?](/pt/tutorial/o-que-e-o-cms)
-- [O que é um web site?](/pt/tutorial/o-que-e-um-web-site)  
-- [O que são placeholders?](/pt/tutorial/o-que-sao-placeholders)
-- [O que são layouts?](/pt/tutorial/o-que-sao-layouts)
-- [O que são prateleiras?](/pt/tutorial/o-que-sao-prateleiras)
-- [Criar um template de página](/pt/tutorial/como-criar-um-template-de-pagina)
+- [O que é o CMS?](/pt/tracks/o-que-e-o-cms)
+- [O que é um web site?](/pt/docs/tutorials/o-que-e-um-web-site)  
+- [O que são placeholders?](/pt/docs/tutorials/o-que-sao-placeholders)
+- [O que são layouts?](/pt/docs/tutorials/o-que-sao-layouts)
+- [O que são prateleiras?](/pt/docs/tutorials/o-que-sao-prateleiras)
+- [Criar um template de página](/pt/docs/tutorials/como-criar-um-template-de-pagina)

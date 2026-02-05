@@ -25,7 +25,7 @@ To access this feature, click __Store Settings__ on the left navigation menu, an
 Check out more details about the different sections and pages of this menu below. 
 
 ## Payment
-The Payment Settings Page is where you can set up payment conditions, custom payments, gateway affiliations and notifications. Know more about the actions you can take in this [page](/en/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG/7pAEMAo4iqNHwYOarZ3zgm), that is coming soon in the Admin v4 design.
+The Payment Settings Page is where you can set up payment conditions, custom payments, gateway affiliations and notifications. Know more about the actions you can take in this [page](/en/docs/tracks/configuring-payment-connectors), that is coming soon in the Admin v4 design.
 
 ## Orders
 The Order Settings section is where you can set up general orders settings, manage affiliates, orders authorization and payment methods for subscriptions settings. It includes the following pages, that are coming soon in the Admin v4 design:
@@ -37,8 +37,8 @@ The Order Settings section is where you can set up general orders settings, mana
 ## Email Templates
 The Email Templates section is where you customize the templates and define senders for emails triggered to your customers. This section includes the following pages, that are coming soon in the Admin v4 design:
 
-- [Templates](/en/tracks/transactional-emails--6IkJwttMw5T84mlY9RifRP/335JZKUYgvYlGOJgvJYxRO)  
-- [Senders](/en/tracks/transactional-emails--6IkJwttMw5T84mlY9RifRP/42LVaxtFb2VHX9xTZU58qC)  
+- [Templates](/en/docs/tracks/how-to-create-and-edit-transactional-email-templates)  
+- [Senders](/en/docs/tracks/adding-a-sender)  
 
 ## Shipping
 The Shipping section is where you set up general shipping settings, geolocation on your store, and define holidays when your store is closed. This section includes the following pages, that are coming soon in the Admin v4 design:

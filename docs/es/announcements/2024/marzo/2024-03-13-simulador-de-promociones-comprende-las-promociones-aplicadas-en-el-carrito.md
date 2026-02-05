@@ -17,7 +17,7 @@ announcementSynopsisES: 'Visualiza y gestiona las promociones aplicadas al carri
 
 Hemos lanzado globalmente y para todas las tiendas VTEX el **Simulador de promociones**: una nueva herramienta que permite visualizar las promociones aplicadas en el carrito de compras en tu tienda, junto con sus condiciones de activación. 
 
-Dadas las diversas opciones de configuración de [promociones](/es/tracks/promociones--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N), este recurso es importante para tener una visión clara de la competencia, la acumulación de descuentos durante la compra y las causas de activación de dichas promociones.
+Dadas las diversas opciones de configuración de [promociones](/es/docs/tracks/como-funcionan-las-promociones), este recurso es importante para tener una visión clara de la competencia, la acumulación de descuentos durante la compra y las causas de activación de dichas promociones.
 
 Hemos creado el **Simulador de promociones** con el objetivo de proporcionar a los administradores de tiendas más autonomía para gestionar y dirigir las promociones de acuerdo con sus estrategias de negocio. Con la nueva herramienta, podrás explorar y optimizar el desempeño de tus promociones, garantizando una mayor eficiencia en tu operación y una experiencia de compra mejorada para tus clientes.
 

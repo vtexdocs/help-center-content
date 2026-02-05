@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 
-Una tienda online debe tener una única dirección principal, que [apuntará a los servidores de VTEX](/es/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ) antes del lanzamiento oficial de la tienda. Consulta [Configuración del dominio de tu tienda](/es/docs/tutorials/configurar-dominio-de-la-tienda) para conocer las reglas que debe cumplir la dirección y obtener instrucciones sobre cómo registrarla.
+Una tienda online debe tener una única dirección principal, que [apuntará a los servidores de VTEX](/es/docs/tracks/antes-del-go-live) antes del lanzamiento oficial de la tienda. Consulta [Configuración del dominio de tu tienda](/es/docs/tutorials/configurar-dominio-de-la-tienda) para conocer las reglas que debe cumplir la dirección y obtener instrucciones sobre cómo registrarla.
 
 Para posibilitar el acceso a la tienda desde otras direcciones y versiones sin subdominio, es necesario configurar la redirección de estas direcciones a la dirección principal de la tienda registrada en **Configuración de la cuenta > Cuenta > Tiendas** en el Admin VTEX. Observa los ejemplos a continuación:
 

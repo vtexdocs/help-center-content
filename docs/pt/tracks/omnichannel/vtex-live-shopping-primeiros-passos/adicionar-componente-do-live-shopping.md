@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-primeiros-passos
 order: 4
 ---
 
-Depois que seu evento estiver [configurado no Bundle](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX) ou em um estúdio externo e antes de transmiti-lo, adicione o componente **Live Shopping** ao seu site, seja na página inicial da loja ou em uma [landing page](/pt/docs/tutorials/live-shopping-configurar-landing-page-para-transmissoes-ao-vivo). As etapas de configuração variam de acordo com a solução de frontend da sua loja:
+Depois que seu evento estiver [configurado no Bundle](/pt/docs/tracks/usar-studio-bundle) ou em um estúdio externo e antes de transmiti-lo, adicione o componente **Live Shopping** ao seu site, seja na página inicial da loja ou em uma [landing page](/pt/docs/tutorials/live-shopping-configurar-landing-page-para-transmissoes-ao-vivo). As etapas de configuração variam de acordo com a solução de frontend da sua loja:
 
 * [Store Framework (VTEX IO)](#store-framework-vtex-io)
 * [CMS - Portal Legado](#cms-portal-legado)
@@ -36,10 +36,10 @@ Para lojas que usam [Store Framework](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdv
 
 ## CMS - Portal Legado
 
-Para lojas que usam [CMS - Portal Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), siga as etapas abaixo para adicionar o componente **Live Shopping**:
+Para lojas que usam [CMS - Portal Legado](/pt/docs/tracks/cms-portal-legado), siga as etapas abaixo para adicionar o componente **Live Shopping**:
 
-1. Na página **Informações do evento** do [evento criado](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv), clique no ícone de seta.
-2. Após [ativar o evento](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq), acesse a seção **Configuração do CMS**.
+1. Na página **Informações do evento** do [evento criado](/pt/docs/tracks/criar-evento), clique no ícone de seta.
+2. Após [ativar o evento](/pt/docs/tracks/iniciar-evento), acesse a seção **Configuração do CMS**.
 3. Em **Script para o template**, selecione `Template CMS`.
 4. Copie o código em **Script para o template**.
 
@@ -53,7 +53,7 @@ Para lojas que usam [CMS - Portal Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z
 
 Para lojas que usam [Headless CMS](/pt/docs/tutorials/headless-cms-visao-geral), siga as etapas abaixo para adicionar o componente **Live Shopping**: 
 
-1. Na página **Informações do evento** do [evento criado](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv), clique no ícone de seta.
+1. Na página **Informações do evento** do [evento criado](/pt/docs/tracks/criar-evento), clique no ícone de seta.
 2. Acesse a sessão de **Configuração do CMS**.
 3. Em **Script para o template**, selecione `Template externo`.
 4. Copie o código em **Script para o template**.

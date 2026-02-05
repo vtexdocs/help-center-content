@@ -23,27 +23,27 @@ In this article, we will clarify the concepts of acquirer, sub-aquirer, gateway,
 
 A gateway (also called payment gateway) is a __system that transmits data from purchases made in your store at checkout__.
 
-As the first player in the flow, it's responsible for sending this information to acquirers, card brands and [issuing banks](/en/tutorial/what-is-the-issuing-bank) then obtain a response about the continuation of the process or its cancellation. In other words, the gateway sends data and receives responses so that you know whether or not a particular purchase should be confirmed, showing whether the payment was approved or not. 
+As the first player in the flow, it's responsible for sending this information to acquirers, card brands and [issuing banks](/en/docs/tutorials/what-is-the-issuing-bank) then obtain a response about the continuation of the process or its cancellation. In other words, the gateway sends data and receives responses so that you know whether or not a particular purchase should be confirmed, showing whether the payment was approved or not. 
 
 As an intermediary between an e-commerce and its payment method used, the gateway acts as a terminal, integrating in all the transactions carried out between the players of the payment flow in a single place.
 
-By activating the [connectors](/en/tutorial/what-is-the-connector) and registering [payment and anti-fraud providers](https://help.vtex.com/docs/tutorials/registering-gateway-affiliations), your client's shopping data can be sent to acquirers or other gateways and thus move on through the approval flow in financial institutions. 
+By activating the [connectors](/en/docs/tutorials/what-is-the-connector) and registering [payment and anti-fraud providers](https://help.vtex.com/docs/tutorials/registering-gateway-affiliations), your client's shopping data can be sent to acquirers or other gateways and thus move on through the approval flow in financial institutions. 
 
-VTEX platform has its own [PCI](/en/tutorial/what-is-the-pci-ssc) certified gateway, which means that data from any payment made in your store is protected according to the highest security standards.
+VTEX platform has its own [PCI](/en/docs/tutorials/what-is-the-pci-ssc) certified gateway, which means that data from any payment made in your store is protected according to the highest security standards.
 
 ## Acquirer
 
 An acquirer (also called a creditor) is a __company that specializes in processing payments__, meaning that it processes credit or debit card payments on behalf of a merchant.  Through its network of accredited partners (or acquiring network), it enables a store to offer various payment conditions to its customers.
 
-The acquirer receives the payment information, processes it and passes it to the [card brand](/en/tutorial/what-is-a-credit-card-brand) (when the payment method is credit card) and the [issuing bank](/en/tutorial/what-is-the-issuing-bank). Some examples of acquirers are: Rede, Cielo, GetNet and Stone.
+The acquirer receives the payment information, processes it and passes it to the [card brand](/en/docs/tutorials/what-is-a-credit-card-brand) (when the payment method is credit card) and the [issuing bank](/en/docs/tutorials/what-is-the-issuing-bank). Some examples of acquirers are: Rede, Cielo, GetNet and Stone.
 
-For your store to be able to receive payments, you must enable its communication with an acquirer. This is done through a [gateway](/en/tutorial/what-is-a-payment-gateway), which must be configured to process the [payment conditions](/en/tutorial/how-to-configure-payment-conditions). With that, purchases can follow the approval flow.
+For your store to be able to receive payments, you must enable its communication with an acquirer. This is done through a [gateway](/en/docs/tutorials/what-is-a-payment-gateway), which must be configured to process the [payment conditions](/en/docs/tutorials/how-to-configure-payment-conditions). With that, purchases can follow the approval flow.
 
 When everything is in order and a purchase is authorized by the other players within the purchase flow, the acquirer is responsible for transferring the values (which the issuing bank receives from the customer) to the account of your store.
 
 ## Sub-acquirer
 
-A sub-acquirer is a company that processes payments and transmits the generated data to the other players involved in the [payment flow](/en/tutorial/credit-card-basic-payment-flow). Its role is similar to that of an acquirer, but it doesn't completely replace it due to the lack of autonomy to perform all the funcilnatilies of an acquirer. 
+A sub-acquirer is a company that processes payments and transmits the generated data to the other players involved in the [payment flow](/en/docs/tutorials/credit-card-basic-payment-flow). Its role is similar to that of an acquirer, but it doesn't completely replace it due to the lack of autonomy to perform all the funcilnatilies of an acquirer. 
 
 A sub-acquirer can therefore __be understood as a kind of intermediary player between acquirer and store__. Some examples of sub-acquirers are: PagSeguro e Paypal.
 
@@ -53,17 +53,17 @@ Another negative factor for retailers is the redirection of the customer to the 
 
 ## Credit Card Brand
 
-Card brands are companies responsible for defining the business rules for purchases made using a credit card, such as installments or which national and international stores accept that particular card. They are the ones who define the standards by which the [acquirer](/en/tutorial/what-is-an-acquirer) must process the transactions carried out by this payment method (each brand has its own rules). Some examples of card brands are: Mastercard, American Express and Visa. 
+Card brands are companies responsible for defining the business rules for purchases made using a credit card, such as installments or which national and international stores accept that particular card. They are the ones who define the standards by which the [acquirer](/en/docs/tutorials/what-is-an-acquirer) must process the transactions carried out by this payment method (each brand has its own rules). Some examples of card brands are: Mastercard, American Express and Visa. 
 
 These brands keep a close relationship with the acquirers to guarantee the acceptance of their credit cards in establishments. They therefore promote the use of credit cards and broaden the user base.
 
-In the [credit card payment flow](/en/tutorial/credit-card-basic-payment-flow), the brand receives the information of the purchase made in your store from the acquirer. It then validates the conditions (such as the number of installments) and sends the data to the issuing bank, which verifies that the buyer has sufficient limit available. Hence, the card brand serves  to both regulate the use of the card and as a bridge between the acquirer and the consumer's bank.
+In the [credit card payment flow](/en/docs/tutorials/credit-card-basic-payment-flow), the brand receives the information of the purchase made in your store from the acquirer. It then validates the conditions (such as the number of installments) and sends the data to the issuing bank, which verifies that the buyer has sufficient limit available. Hence, the card brand serves  to both regulate the use of the card and as a bridge between the acquirer and the consumer's bank.
 
 ## Issuing Bank
 
 The issuing bank is the financial institution responsible for the payment method, be it by bank slip, debit or credit card. It is the one who, when receiving the data of a purchase made in your store, will either authorize the sale or not (depending on the  available credit limit or available monetary resources in the user's account). If everything is OK, the bank collects the value.
 
-This concept is important because it allows you to set up [special conditions](/en/tutorial/special-conditions) for payments made through specific banks. In addition, for registered payment tickets, each bank has its own form of issuance.
+This concept is important because it allows you to set up [special conditions](/en/docs/tutorials/special-conditions) for payments made through specific banks. In addition, for registered payment tickets, each bank has its own form of issuance.
 
 ## Anti-fraud
 

@@ -36,7 +36,7 @@ Com uma das afiliações de gateway acima cadastrada com sucesso, você deverá 
 12. No campo __Máscara de Cartão__, escolha os símbolos que vão representar os 16 dígitos do cartão no momento da compra. Essa é uma configuração para proteger o número do cartão do seu cliente. Você pode escolher os caracteres que preferir, separando-os em quatro grupos de quatro e usando espaços.
 13. Em __Validade do pagamento__, informe o período máximo (quantidade de dias) que o pagamento pode ser efetuado. Após este tempo, em caso de não pagamento, o pedido será cancelado.
 14. No campo __Autorizar automaticamente (somente aplica se o Integrador é Default)__, diga se deseja autorizar os pagamentos de forma automática.
-15. No campo __Ativar split de pagamento (caso o provider de processamento do pagamento suporte esta função)__, informe se deseja ativar a solução de split de recebíveis. Em caso positivo, quando a venda envolver pedidos com múltiplos merchants, os recebíveis da promissória serão divididos entre os sellers e o marketplace. Para maiores informações, veja [Split de Pagamento](/pt/tutorial/split-de-pagamento).
+15. No campo __Ativar split de pagamento (caso o provider de processamento do pagamento suporte esta função)__, informe se deseja ativar a solução de split de recebíveis. Em caso positivo, quando a venda envolver pedidos com múltiplos merchants, os recebíveis da promissória serão divididos entre os sellers e o marketplace. Para maiores informações, veja [Split de Pagamento](/pt/docs/tutorials/split-de-pagamento).
 16. Clique em __Salvar__.
 
 ## Configurar condição de pagamento
@@ -46,7 +46,7 @@ Depois de clicar no botão __Salvar__, você será redirecionado para a página 
 2. Em __Processar com a afiliação__, escolha o conector que vai processar os pagamentos com cartão de loja de bandeira própria (uma das afiliações de gateway cadastradas na primeira etapa deste passo a passo).
 3. Se houver um antifraude configurado na sua loja, você pode ativá-lo para essa condição de pagamento marcando a caixa Usar Antifraude.
 4. Escolha se os pagamentos vão ser à vista ou parcelados.
-5. Você também pode configurar [condições especiais de pagamento](/pt/tutorial/condicoes-especiais).
+5. Você também pode configurar [condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais).
 5. Clique em __Salvar__.
 
 Depois de seguir os passos indicados, o __cartão de loja (bandeira própria)__ vai aparecer no checkout da sua loja como uma opção de pagamento.

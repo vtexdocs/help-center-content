@@ -45,7 +45,7 @@ Para solucionarlo, consulta las instrucciones a continuación:
 
 ### Comprueba la integración de la búsqueda
 
-El error puede deberse a que [Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) no está integrado con el catálogo de tu tienda. Sigue los pasos a continuación para integrarlo correctamente:
+El error puede deberse a que [Intelligent Search](/es/docs/tracks/vision-general-intelligent-search) no está integrado con el catálogo de tu tienda. Sigue los pasos a continuación para integrarlo correctamente:
 
 1. En el Admin VTEX, accede a **Configuración de la tienda > Intelligent Search > Integraciones**.
 2. En la página **Integraciones**, comprueba que todos los status estén verificados, como en la imagen a continuación. 

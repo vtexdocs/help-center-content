@@ -44,7 +44,7 @@ To activate this shipping option, follow the steps below:
 
 For the **Envios Flex** option to work correctly, you must follow these steps after [activation](#activating-envios-flex):  
 
-1. Create a [custom field](/en/docs/tutorials/adding-specifications-or-product-fields) in the [Categories](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf) module for each category where you want to apply **Envios Flex**.  The field must be created with the following specifications:
+1. Create a [custom field](/en/docs/tutorials/adding-specifications-or-product-fields) in the [Categories](/en/docs/tracks/categories-concept-definition) module for each category where you want to apply **Envios Flex**.  The field must be created with the following specifications:
 
 | **Field type** | **Field name** |**Field value**|
 |:---:|:---:|:---:|

@@ -25,8 +25,8 @@ Este feature permite que las compras realizadas en un e-commerce sean hechas con
 
 1. En el menú del admin de la Cuenta Franquicia, que actúa como Seller White Label, haga clic en __Pagos__.
 2. Haga clic en __Configuración__.
-3. [Registre la afiliación de gateway](/es/tutorial/afiliaciones-de-gateway) que utilizará el Seller White Label para procesar los pagos.
-4. [Configure los medios de pago](/es/tutorial/condiciones-de-pago) que se enviarán para el Marketplace.
+3. [Registre la afiliación de gateway](/es/docs/tutorials/afiliaciones-de-gateway) que utilizará el Seller White Label para procesar los pagos.
+4. [Configure los medios de pago](/es/docs/tutorials/condiciones-de-pago) que se enviarán para el Marketplace.
 
 ## Registrar afiliado para enviar los medios de pago
 

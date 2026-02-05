@@ -27,7 +27,7 @@ A integração com a Magazine Luiza acontece através da IntegraCommerce, uma in
 
 &bull; __Integração*:__ marque `Ativada` para que a integração comece a operar. Se você marcar `Desativada`, toda a configuração da integração será apagada, incluindo o afiliado.
 
-&bull; __Id do afiliado*:__ esse campo deve ser preenchido com um ID de [afiliado](/pt/faq/o-que-e-afiliado) que ainda não exista no cadastro de afiliados. O ID aceita apenas três dígitos (todos devem ser consoantes). Sugestão: `MGZ`.
+&bull; __Id do afiliado*:__ esse campo deve ser preenchido com um ID de [afiliado](/pt/docs/tutorials/o-que-e-afiliado) que ainda não exista no cadastro de afiliados. O ID aceita apenas três dígitos (todos devem ser consoantes). Sugestão: `MGZ`.
 
 Caso você tenha configurações de [integração para multidomínios](/pt/tutorial/como-criar-multiloja-multidominio), dê uma atenção especial ao ID do afiliado, porque esse campo deve ter um valor diferente para cada domínio.
 
@@ -35,7 +35,7 @@ Caso você esteja migrando uma conta, nós aproveitaremos o afiliado já usado p
 
 &bull; __Política comercial*:__ ID da política comercial que será utilizada para a integração com a Magazine Luiza. São os produtos dessa política comercial que serão enviados para o marketplace.
 
-&bull; __Percentual de tolerância na divergência do valor do pedido*:__ é a taxa de aceitação da diferença de valor de um pedido. Qualquer pedido que possua uma diferença entre o preço de venda do marketplace e o preço determinado pelo seller [será comparado com esse valor](/pt/faq/por-que-o-pedido-foi-fechado-com-um-preco-errado). Se a divergência, em percentual, for menor que o valor definido nesse campo, o pedido será integrado normalmente. Caso contrário, o pedido não será integrado e você poderá visualizá-lo na [aba de pedidos (dentro da seção de integrações no Admin)](/pt/tutorial/verificando-integracao-no-bridge).
+&bull; __Percentual de tolerância na divergência do valor do pedido*:__ é a taxa de aceitação da diferença de valor de um pedido. Qualquer pedido que possua uma diferença entre o preço de venda do marketplace e o preço determinado pelo seller [será comparado com esse valor](/pt/faq/por-que-o-pedido-foi-fechado-com-um-preco-errado). Se a divergência, em percentual, for menor que o valor definido nesse campo, o pedido será integrado normalmente. Caso contrário, o pedido não será integrado e você poderá visualizá-lo na [aba de pedidos (dentro da seção de integrações no Admin)](/pt/docs/tutorials/verificando-integracao-no-bridge).
 
 &bull; __Mapeamento de SLA Customizável*:__ nesses campos deverá ser feito um de/para entre os [tipos de transportadora](/pt/tutorial/como-funciona-o-tipo-de-entrega) cadastradas na IntegraCommerce e os cadastrados na logística da VTEX.  Os valores aceitos são **Normal**, **Expressa** e **Convencional.** Ao fazer o mapeamento, clique no botão `+` para salvá-lo.
 

@@ -51,7 +51,7 @@ Essa ação é feita na aba *Configurações* do módulo *Gerenciamento de Pedid
 ## Promoções
 Sellers podem criar promoções com condições diferentes para os marketplaces em que vendem produtos. Ao criar uma promoção, as políticas comerciais indicam em que marketplaces serão aplicadas. Se sua loja deseja criar uma promoção para um marketplace que oferece uma menor comissão sobre seus produtos, é necessário indicar em qual política comercial a promoção atuará.
 
-Essa configuração é feita no módulo de *Promoções* em todas as [promoções](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/4W2AA8MWwIy80z5UCYw0f9) que sua loja oferece como seller. Para isso:
+Essa configuração é feita no módulo de *Promoções* em todas as [promoções](/pt/docs/tracks/campanhas-o-que-sao-e-como-criar) que sua loja oferece como seller. Para isso:
 
 1. Selecione a política comercial no campo **Restringir políticas comerciais**. 
 2. Configure a origem das promoções como `fulfillment / Entregue por mim`. 
@@ -88,7 +88,7 @@ Sellers podem definir uma estratégia de precificação diferente para cada mark
 Essa configuração é feita no módulo de *Preços* da VTEX, utilizando políticas comerciais. Ao definir preços para seus produtos, sellers devem levar em consideração que cada política comercial é criada com sua própria tabela de preços. Para diferenciar a precificação entre políticas comerciais, é possível usar:
 
 - [Regras de preço](/pt/docs/tutorials/configurar-regra-de-preco-para-politica-comercial): para determinar um markup para categorias e marcas específicas
-- [Preços fixos](/pt/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy): para diferenciar preços em produtos específicos
+- [Preços fixos](/pt/docs/tracks/preco-fixo-definicao-de-conceito): para diferenciar preços em produtos específicos
 
 ![PT Regra de preço](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/políticas-comerciais/configurações-de-políticas-comerciais/configurando-a-politica-comercial-para-marketplace_6.jpg)
 
@@ -98,7 +98,7 @@ Essa configuração é feita no módulo de *Preços* da VTEX, utilizando políti
 
 Sellers podem configurar [rotas logísticas](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/1xo0jmMDcnAUU5ZOavdQ7M) específicas para cada marketplace em que vendem seus produtos. Isso significa vincular uma combinação de estoque, inventário, política de envio (transportadora) e até pontos de retirada a diferentes políticas comerciais. Se sua loja fornece produtos do *Estoque 1* para o *Marketplace A*, é preciso realizar esse vínculo ao configurar docas e estoques.
 
-Ambas configurações são realizadas no módulo *Estratégia de Envio*. Ao criar uma [doca](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj), é preciso indicar quais políticas comerciais ela atenderá. Isso torna as políticas de envio associadas a essa doca disponíveis para as políticas comerciais vinculadas. Em seguida, é necessário relacionar o [estoque](/pt/tutorial/gerenciar-estoque) desejado a uma doca, para tornar seu inventário disponível para todas as políticas comerciais associadas à doca. 
+Ambas configurações são realizadas no módulo *Estratégia de Envio*. Ao criar uma [doca](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj), é preciso indicar quais políticas comerciais ela atenderá. Isso torna as políticas de envio associadas a essa doca disponíveis para as políticas comerciais vinculadas. Em seguida, é necessário relacionar o [estoque](/pt/docs/tutorials/gerenciar-estoque) desejado a uma doca, para tornar seu inventário disponível para todas as políticas comerciais associadas à doca. 
 
 ![PT Doca Politica](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/políticas-comerciais/configurações-de-políticas-comerciais/configurando-a-politica-comercial-para-marketplace_7.jpg)
 *No exemplo acima, a doca está associada à política comercial "Marketplace", que serão atendidas pela transportadora "Transportadora A".*

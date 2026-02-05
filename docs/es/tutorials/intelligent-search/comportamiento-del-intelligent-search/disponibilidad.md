@@ -17,7 +17,7 @@ subcategoryId: 30Kdgc6wJkMWgcXLB8mGr7
 
 Al elaborar un resultado de búsqueda, VTEX Intelligent Search tiene en cuenta la disponibilidad de cada producto encontrado en la búsqueda. Los productos disponibles siempre tendrán prioridad sobre los no disponibles en los resultados de búsqueda. 
 
-Al verificar la disponibilidad del producto, VTEX Intelligent Search utiliza el campo **Mostrar cuando no tenga stock** registrado en el [Catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR) para saber qué productos se mostrarán aunque no estén disponibles. Si la configuración del producto determina que no debe mostrarse cuando esté fuera de stock, la plataforma no presentará el producto. Sin embargo, si la configuración indica que el producto debe mostrarse incluso cuando esté sin stock, la plataforma lo colocará al final de los resultados de búsqueda.
+Al verificar la disponibilidad del producto, VTEX Intelligent Search utiliza el campo **Mostrar cuando no tenga stock** registrado en el [Catálogo](/es/docs/tracks/catalogo-definicion-de-concepto) para saber qué productos se mostrarán aunque no estén disponibles. Si la configuración del producto determina que no debe mostrarse cuando esté fuera de stock, la plataforma no presentará el producto. Sin embargo, si la configuración indica que el producto debe mostrarse incluso cuando esté sin stock, la plataforma lo colocará al final de los resultados de búsqueda.
 
 VTEX Intelligent Search también verifica si:
 

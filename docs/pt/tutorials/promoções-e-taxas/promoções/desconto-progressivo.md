@@ -64,7 +64,7 @@ Para mais informações, acesse o artigo [Seller opt-in promotions](https://deve
 
 ### Selecionar políticas comerciais
 
-No canto direito da página, na seção **Políticas Comerciais**, selecione as políticas comerciais válidas para o desconto. Você pode oferecer descontos para políticas comerciais onde [sua loja atua como marketplace](/pt/faq/o-que-e-um-marketplace) (**Minha loja**) ou como seller (**Lojas de terceiros - Fulfillment**).
+No canto direito da página, na seção **Políticas Comerciais**, selecione as políticas comerciais válidas para o desconto. Você pode oferecer descontos para políticas comerciais onde [sua loja atua como marketplace](/pt/docs/tutorials/o-que-e-um-marketplace) (**Minha loja**) ou como seller (**Lojas de terceiros - Fulfillment**).
 
 Você pode escolher entre as seguintes opções:
 

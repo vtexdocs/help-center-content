@@ -17,7 +17,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 La especificación de SKU es un campo obligatorio en el registro del SKU en el cual se ingresan las características específicas para cada variación de un producto.
 
-En VTEX, una especificación siempre forma parte de un [grupo de especificaciones](/es/docs/tutorials/crear-grupo-de-especificaciones-en-una-categoria) que está asociado a una [categoría](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf). Es precisamente por esto que, para crear una especificación (campo) del SKU, debe existir, al menos, el registro de una categoría y de un grupo de especificaciones.
+En VTEX, una especificación siempre forma parte de un [grupo de especificaciones](/es/docs/tutorials/crear-grupo-de-especificaciones-en-una-categoria) que está asociado a una [categoría](/es/docs/tracks/categorias-definicion-de-concepto). Es precisamente por esto que, para crear una especificación (campo) del SKU, debe existir, al menos, el registro de una categoría y de un grupo de especificaciones.
 
 Por ejemplo: una tienda del sector de la moda quiere vender el producto **Camisa polo** en los tamaños P, M o G. En la categoría **Camisetas**, el grupo de especificaciones puede denominarse **Características**. En ese caso, el tamaño es la característica que diferenciará a cada SKU. Por consiguiente, el administrador de la tienda debe crear un campo de SKU llamado **Tamaño** con **P**, **M** y **G** como opciones de valor.
 
@@ -47,7 +47,7 @@ Como se trata de una especificación del SKU, la información seleccionada en es
 
 ## Paso a paso en el Admin de VTEX
 
-Para que las especificaciones aparezcan en el registro del SKU, además de haber creado previamente un [grupo de especificaciones](/es/docs/tutorials/crear-grupo-de-especificaciones-en-una-categoria) asociado a una [categoría](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), también se deben crear los campos del SKU y registrar sus valores. Luego, podrás completar esas especificaciones en el registro del SKU.
+Para que las especificaciones aparezcan en el registro del SKU, además de haber creado previamente un [grupo de especificaciones](/es/docs/tutorials/crear-grupo-de-especificaciones-en-una-categoria) asociado a una [categoría](/es/docs/tracks/categorias-definicion-de-concepto), también se deben crear los campos del SKU y registrar sus valores. Luego, podrás completar esas especificaciones en el registro del SKU.
 
 En las secciones a continuación, podrás ver el paso a paso completo.
 
@@ -203,4 +203,4 @@ Para rellenar las especificaciones del SKU de forma masiva por plantilla, debes 
 
 ## Más información
 - [Registrar especificaciones o campos de producto](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto)
-- [Especificaciones de producto e de SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
+- [Especificaciones de producto e de SKU](/es/docs/tracks/especificaciones-definicion-de-concepto)

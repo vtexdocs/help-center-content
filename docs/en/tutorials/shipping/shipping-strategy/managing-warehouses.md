@@ -51,7 +51,7 @@ This article describes how to:
     * Once loading docks are selected, fill in the **Processing days and hours** field. Configure the time (in days and hours) for handling and transporting orders from the warehouse to the loading dock. Select the number of days by clicking <i class="fas fa-minus"></i> and <i class="fas fa-plus"></i> and the minutes or hours in the <i class="far fa-clock"></i> field.
     * Fill in the **Extra fee** field if you want to charge any additional costs of handling orders from the warehouse to the loading dock.
     * Click on `Save changes`.
-* **VTEX Sales App warehouse**: toggle the <i class="fas fa-toggle-on"></i> button to `Active` to associate a warehouse with a VTEX Sales App physical store. To associate [pickup points](/en/docs/tutorials/creating-pickup-points), they already must be listed in your store. Learn more about how to use this feature in the article [Physical stores as pickup points](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/4hXfgqXxS1lwAfnxgja3xW). To learn more about how to use this feature, check out the article [Unified commerce strategies](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/4hXfgqXxS1lwAfnxgja3xW).  
+* **VTEX Sales App warehouse**: toggle the <i class="fas fa-toggle-on"></i> button to `Active` to associate a warehouse with a VTEX Sales App physical store. To associate [pickup points](/en/docs/tutorials/creating-pickup-points), they already must be listed in your store. Learn more about how to use this feature in the article [Physical stores as pickup points](/en/docs/tracks/configuring-physical-stores-as-pickup-points). To learn more about how to use this feature, check out the article [Unified commerce strategies](/en/docs/tracks/configuring-physical-stores-as-pickup-points).  
 
 ## Editing a warehouse
 
@@ -70,4 +70,4 @@ This article describes how to:
 3. On the card of the warehouse you want to delete, select <i class="fas fa-ellipsis-v"></i>.
 4. Click on `Delete`.
 
-> ⚠️ To add items to a warehouse, first, they must be listed in your catalog. Once you have listed them in your [catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) and added a warehouse, you must associate items with the warehouse on the [Inventory management page](/en/docs/tutorials/managing-stock-items).
+> ⚠️ To add items to a warehouse, first, they must be listed in your catalog. Once you have listed them in your [catalog](/en/docs/tracks/catalog-architecture) and added a warehouse, you must associate items with the warehouse on the [Inventory management page](/en/docs/tutorials/managing-stock-items).

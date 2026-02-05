@@ -118,10 +118,10 @@ No action is needed. This update will be automatically applied to all accounts.
 
 See the updated documentation to explore all features:
 
-* [API keys](/en/tutorial/api-keys)  
-* [External keys](/en/tutorial/external-keys)  
-* [Generated keys](/en/tutorial/generated-keys)  
-* [Configuring alerts to renew API tokens](/en/tutorial/configuring-alerts-to-renew-api-tokens)  
-* [Exporting API keys](/en/tutorial/exporting-api-keys)  
-* [Renewing API tokens](/en/tutorial/renewing-api-tokens)  
+* [API keys](/en/docs/tutorials/api-keys)  
+* [External keys](/en/docs/tutorials/external-keys)  
+* [Generated keys](/en/docs/tutorials/generated-keys)  
+* [Configuring alerts to renew API tokens](/en/docs/tutorials/configuring-alerts-to-renew-api-tokens)  
+* [Exporting API keys](/en/docs/tutorials/exporting-api-keys)  
+* [Renewing API tokens](/en/docs/tutorials/renewing-api-tokens)  
 

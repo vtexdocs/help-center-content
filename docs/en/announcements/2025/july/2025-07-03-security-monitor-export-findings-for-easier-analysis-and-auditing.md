@@ -33,4 +33,4 @@ This improvement helps track security findings more effectively and supports int
 
 The update is available for all accounts using Security Monitor. No action is required.  
 
-> ℹ️ Security Monitor is part of [VTEX Shield](/en/docs/tutorials/vtex-shield). If you&#39;re a VTEX client and would like to adopt VTEX Shield for your business, please contact [Commercial Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you&#39;re not a VTEX client yet but are interested in this solution, please complete our [contact form](https://vtex.com/us-en/contact/).
+> ℹ️ Security Monitor is part of [VTEX Shield](/en/docs/tutorials/vtex-shield). If you&#39;re a VTEX client and would like to adopt VTEX Shield for your business, please contact [Commercial Support](/en/docs/tracks/commercial-support). Additional fees may apply. If you&#39;re not a VTEX client yet but are interested in this solution, please complete our [contact form](https://vtex.com/us-en/contact/).

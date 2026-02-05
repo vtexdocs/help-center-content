@@ -18,11 +18,11 @@ tags:
   - Importación de plantillas
 ---
 
-Las [tablas o plantillas de precio](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) almacenan información de SKU que tras aplicarse en determinados contextos, como políticas comerciales, promociones o clústeres de clientes, permiten calcular los valores de venta de los productos en una tienda VTEX. Para más información, consulta [Precio base](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) y [Precio fijo](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy).
+Las [tablas o plantillas de precio](/es/docs/tracks/tablas-de-precio-definicion-de-concepto) almacenan información de SKU que tras aplicarse en determinados contextos, como políticas comerciales, promociones o clústeres de clientes, permiten calcular los valores de venta de los productos en una tienda VTEX. Para más información, consulta [Precio base](/es/docs/tracks/preco-base-definicao-de-conceito) y [Precio fijo](/es/docs/tracks/precio-fijo-definicion-de-concepto).
 
 > ⚠️ No se puede importar una plantilla de **precio calculado** en el Admin VTEX. Solo se permite **exportar** esta plantilla para que el retailer pueda consultar los valores de precio final de cada producto.
 
-Tras [importar una plantilla de precios](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D) pueden aparecer algunos mensajes de error en algunos SKU según los ejemplos a continuación:
+Tras [importar una plantilla de precios](/es/docs/tracks/exportacion-e-importacion-mediante-la-plantilla-de-precios) pueden aparecer algunos mensajes de error en algunos SKU según los ejemplos a continuación:
 
 - `"The resource you are looking for cannot be found: Price not found"`
 - `"Error occurred while converting spreadsheet: Object reference not set to an instance of an object."`

@@ -40,7 +40,7 @@ Una vez hecho esto, Google Pay estará disponible en el checkout de tu tienda VT
 
 Para utilizar Google Pay deben cumplirse los siguientes requisitos:
 
-* Tener al menos una [condición de pago](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) activa configurada para tarjetas de crédito o débito con un adquirente, definiendo qué [adquirente](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#adquirente) procesará el pago.
+* Tener al menos una [condición de pago](/es/docs/tracks/configurar-una-condicion-de-pago) activa configurada para tarjetas de crédito o débito con un adquirente, definiendo qué [adquirente](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#adquirente) procesará el pago.
 * Utilizar el [Checkout VTEX](/es/docs/tutorials/checkout-vtex-vista-general) en tu tienda.
 
 > ⚠️ En las tiendas que tengan el flujo de autenticación [3DS](/es/docs/tutorials/que-es-3d-secure) configurado y admitido por el adquirente, el pago con Google Pay seguirá el flujo nativo de la tarjeta y también utilizará 3DS. Para más información sobre este tema, accede a [Configurar flujo de autenticación 3DS 2](/es/docs/tutorials/configurar-flujo-de-autenticacion-3ds-2).
@@ -49,7 +49,7 @@ Para utilizar Google Pay deben cumplirse los siguientes requisitos:
 
 ## Consultar transacciones finalizadas con Google Pay
 
-Para consultar y verificar las transacciones finalizadas con Google Pay, sigue los pasos indicados en el artículo [Ver detalles de la transacción](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy). En la barra de búsqueda de la página de transacciones, escriba **Google Pay** para filtrar las transacciones realizadas con este tipo de pago.
+Para consultar y verificar las transacciones finalizadas con Google Pay, sigue los pasos indicados en el artículo [Ver detalles de la transacción](/es/docs/tracks/ver-detalles-de-la-transaccion). En la barra de búsqueda de la página de transacciones, escriba **Google Pay** para filtrar las transacciones realizadas con este tipo de pago.
 
 ![Google Pay Transaction_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/soluciones-de-pago/cartera-digital-e-wallet/google-pay_2.png)
 
@@ -57,7 +57,7 @@ Después de acceder a la transacción deseada, haga clic en "+ Información" par
 
 ![Google Pay Transaction_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/soluciones-de-pago/cartera-digital-e-wallet/google-pay_3.png)
 
-> ⚠️ También es posible identificar las transacciones realizadas con Google Pay a través de la página **Todos los pedidos** en Admin. Sólo necesitas seleccionar el periodo de búsqueda deseado, [exportar los pedidos](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/6rVCf9KLn1jgTaxS0xuByu) en un informe en formato . csv y localizar la información de Google Pay en el campo "payment origin".
+> ⚠️ También es posible identificar las transacciones realizadas con Google Pay a través de la página **Todos los pedidos** en Admin. Sólo necesitas seleccionar el periodo de búsqueda deseado, [exportar los pedidos](/es/docs/tracks/exportar-un-pedido) en un informe en formato . csv y localizar la información de Google Pay en el campo "payment origin".
 
 ## Agregar información de Google Pay en la plantilla de compra
 

@@ -188,11 +188,11 @@ El soporte para Google Pay con [tokenización DPAN](/es/docs/tutorials/dpan-y-fp
 - __Compatibilidad con múltiples dispositivos:__ permite utilizar la misma tarjeta en diferentes dispositivos sin necesidad de una nueva autenticación.
 - __Reducción de costos por fraudes:__ la tokenización evita el uso indebido de credenciales, lo que puede disminuir el número de contracargos. 
 
-> ⚠️ El soporte para Google Pay con DPAN solo está disponible a través de la [cartera Google Pay nativa de VTEX](/es/tracks/cartera-digital-e-wallet--6X8YyZBoVJpz5R8oXciTyu/61JMBvM5Vanqj6RaJsP8CT).  
+> ⚠️ El soporte para Google Pay con DPAN solo está disponible a través de la [cartera Google Pay nativa de VTEX](/es/docs/tracks/google-pay).  
 
 #### Soporte de pago vía PDV (VTEX Sales App)
 
-Los conectores compatibles con pagos vía [Punto de venta (PDV)](https://es.wikipedia.org/wiki/Terminal_punto_de_venta) en [VTEX Sales App](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) hacen posibles transacciones [Omnichannel](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) entre el entorno físico y digital. Los beneficios incluyen:
+Los conectores compatibles con pagos vía [Punto de venta (PDV)](https://es.wikipedia.org/wiki/Terminal_punto_de_venta) en [VTEX Sales App](/es/docs/tracks/que-es-vtex-sales-app) hacen posibles transacciones [Omnichannel](/es/docs/tracks/comercio-unificado-101) entre el entorno físico y digital. Los beneficios incluyen:
 
 - __Integración entre canales:__ el cliente puede iniciar una compra online y finalizarla en la tienda física utilizando el mismo medio de pago.
 - __Reducción de errores operativos:__ dado que el pago está integrado con VTEX Sales App, no es necesario registrar manualmente las transacciones en el [ERP](https://es.wikipedia.org/wiki/Sistema_de_planificaci%C3%B3n_de_recursos_empresariales).

@@ -17,7 +17,7 @@ order: 4
 
 Una vez realizada la configuración en la plataforma de Amazon, iniciaremos la configuración en la plataforma VTEX.
 
-Durante todo el proceso de configuración en la plataforma VTEX, tenga siempre a mano las credenciales e identificadores proporcionados. El [ID del vendedor y el token de autorización MWS](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/43L0dpbjLBz6tcim1BbTzf), por ejemplo, son necesarios para configurar la integración dentro de la plataforma VTEX.
+Durante todo el proceso de configuración en la plataforma VTEX, tenga siempre a mano las credenciales e identificadores proporcionados. El [ID del vendedor y el token de autorización MWS](/es/docs/tracks/configuracion-de-la-cuenta-amazon), por ejemplo, son necesarios para configurar la integración dentro de la plataforma VTEX.
 
 ## Definir la política comercial en Amazon
 

@@ -53,14 +53,14 @@ Uma vez contratado o uso do Seller Portal, para adicionar sellers a uma conta de
 
 ## Mapear arquitetura do Catálogo
 
-O [catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) dos sellers que vendem produtos no seu marketplace tem uma estrutura diferente da sua, sejam eles sellers VTEX ou externos. Existem dois momentos em que é necessário compatibilizar os catálogos: 
+O [catálogo](/pt/docs/tracks/arquitetura-do-catalogo) dos sellers que vendem produtos no seu marketplace tem uma estrutura diferente da sua, sejam eles sellers VTEX ou externos. Existem dois momentos em que é necessário compatibilizar os catálogos: 
 
 - Quando o seller envia seus produtos pela primeira vez para um marketplace VTEX.
 - Quando há produtos de sellers com informações não mapeadas.
 
 Isso permite que os produtos enviados pelo seller sejam inseridos com as informações equivalentes no catálogo do marketplace VTEX. 
 
-Para realizar esta etapa, siga as instruções em [Mapeamento de categorias, marcas e especificações para marketplace](/pt/tutorial/mapeando-categorias-e-marcas-para-marketplace/). 
+Para realizar esta etapa, siga as instruções em [Mapeamento de categorias, marcas e especificações para marketplace](/pt/docs/tutorials/mapeando-categorias-e-marcas-para-marketplace/). 
 
 ## Configurar seleção de sellers no storefront e checkout
 
@@ -132,5 +132,5 @@ Agora que você já configurou a plataforma VTEX para se tornar um marketplace, 
 
 ## Saiba mais
 
-- [Aprovar anúncios recebidos](/pt/tutorial/sugerindo-e-aprovando-skus/)
+- [Aprovar anúncios recebidos](/pt/docs/tutorials/sugerindo-e-aprovando-skus/)
 - [Informações compartilhadas entre marketplace e seller na VTEX](/pt/docs/tutorials/informacoes-compartilhadas-entre-marketplace-e-seller-na-vtex)

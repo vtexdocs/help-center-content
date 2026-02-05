@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Redesenhamos a página Vínculos de SKU para facilitar o gerenciamento da relação entre os SKUs de sellers e marketplaces.'
 ---
 
-A VTEX possibilita que a sua loja atue tanto como [seller](/pt/docs/tutorials/configurar-seller-para-vender-em-marketplace-vtex) quanto como [marketplace](/pt/docs/tutorials/configurar-marketplace-vtex), o que permite reduzir custos, alcançar mais clientes e aumentar a variedade de produtos oferecidos. Nesse contexto, cada marketplace precisa estabelecer e manter uma relação direta entre o seu catálogo e os [SKUs](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) oferecidos por sellers.
+A VTEX possibilita que a sua loja atue tanto como [seller](/pt/docs/tutorials/configurar-seller-para-vender-em-marketplace-vtex) quanto como [marketplace](/pt/docs/tutorials/configurar-marketplace-vtex), o que permite reduzir custos, alcançar mais clientes e aumentar a variedade de produtos oferecidos. Nesse contexto, cada marketplace precisa estabelecer e manter uma relação direta entre o seu catálogo e os [SKUs](/pt/docs/tracks/sku-definicao-de-conceito) oferecidos por sellers.
 
 Para aprimorar essa experiência, redesenhamos a página de **Vínculos de SKU** no Admin VTEX. A nova interface permite acompanhar e gerenciar a relação de vínculo entre os SKUs do seller e do marketplace de forma mais simples e ágil.
 

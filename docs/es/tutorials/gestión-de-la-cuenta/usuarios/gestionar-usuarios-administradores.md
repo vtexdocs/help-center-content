@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
-La gestión de los usuarios con acceso al entorno administrativo de la tienda VTEX se realiza a través de [Configuración de la cuenta](/es/tutorial/vision-general-configuraciones-de-la-cuenta), en la página de **Usuarios**. Para acceder a esta sección, en la barra superior del Admin VTEX, haz clic en el avatar de tu perfil, marcado por la inicial de tu email, y luego en **Configuración de la cuenta > Usuarios**.
+La gestión de los usuarios con acceso al entorno administrativo de la tienda VTEX se realiza a través de [Configuración de la cuenta](/es/docs/tutorials/vision-general-configuraciones-de-la-cuenta), en la página de **Usuarios**. Para acceder a esta sección, en la barra superior del Admin VTEX, haz clic en el avatar de tu perfil, marcado por la inicial de tu email, y luego en **Configuración de la cuenta > Usuarios**.
 
 En esta página puedes realizar las siguientes acciones: 
 
@@ -94,7 +94,7 @@ La descarga del archivo CSV se iniciará automáticamente. El archivo contiene e
 
 ## Más información
 
-* [Configuración de la cuenta](/es/tutorial/vision-general-configuraciones-de-la-cuenta)
+* [Configuración de la cuenta](/es/docs/tutorials/vision-general-configuraciones-de-la-cuenta)
 * [Roles](/es/docs/tutorials/roles)
 * [Recursos del License Manager](/es/docs/tutorials/recursos-del-license-manager)
 * [Habilitar inicio de sesión por autenticación de dos factores](/es/docs/tutorials/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores)

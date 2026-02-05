@@ -19,7 +19,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 Opera en los siguientes países: Argentina, Brasil, Chile, Colombia, México, Uruguay y Venezuela.
 
-Una vez finalizada la [integración](/es/tracks/configurar-integracion-con-mercado-libre--2YfvI3Jxe0CGIKoWIGQEIq/51oWBHvVxSs8eAwLQhSbSd) de tu tienda VTEX con Mercado Libre, te explicaremos cómo funciona el flujo de ese proceso para que puedas mantener la información actualizada en Mercado Libre. Este artículo se divide en las siguientes secciones:
+Una vez finalizada la [integración](/es/docs/tracks/mercado-libre-marketplace) de tu tienda VTEX con Mercado Libre, te explicaremos cómo funciona el flujo de ese proceso para que puedas mantener la información actualizada en Mercado Libre. Este artículo se divide en las siguientes secciones:
 
 1. [Pedidos](#1-pedidos)
 2. [Productos](#2-productos)
@@ -29,7 +29,7 @@ Una vez finalizada la [integración](/es/tracks/configurar-integracion-con-merca
 
 ## 1. Pedidos 
 
-Todos los [pedidos](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE) que se hacen en Mercado Libre se enviarán a la plataforma VTEX. Cada pedido tendrá un status según la tabla a continuación. Para más información sobre los status de los pedidos en VTEX, consulta el artículo [Flujo y status de pedidos](/es/docs/tutorials/flujo-y-status-de-pedidos).
+Todos los [pedidos](/es/docs/tracks/o-que-e-um-pedido-na-vtex) que se hacen en Mercado Libre se enviarán a la plataforma VTEX. Cada pedido tendrá un status según la tabla a continuación. Para más información sobre los status de los pedidos en VTEX, consulta el artículo [Flujo y status de pedidos](/es/docs/tutorials/flujo-y-status-de-pedidos).
 
 | Status en la plataforma VTEX | Respuesta de Mercado Libre | Descripción de la respuesta de Mercado Libre |
 | ---------- | ---------- | ---------- |
@@ -47,7 +47,7 @@ El ID del pedido en Mercado Libre será distinto al que verás en VTEX. Para com
 
 ### Facturación del pedido
 
-Según la [configuración de la logística](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy) que hayas establecido, podrás emitir la factura directamente desde el marketplace o a través de tu ERP integrado con VTEX. Existen dos tipos de configuraciones de la logística:
+Según la [configuración de la logística](/es/docs/tracks/configurar-la-logistica-para-mercado-libre) que hayas establecido, podrás emitir la factura directamente desde el marketplace o a través de tu ERP integrado con VTEX. Existen dos tipos de configuraciones de la logística:
 
 - [Pedidos ME1](#pedidos-me1)
 - [Pedidos ME2](#pedidos-me2)
@@ -82,7 +82,7 @@ En los pedidos con logística tipo Colecta y Places, debes completar los campos 
 
 ## 2. Productos
 
-Los [productos](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru) son los ítems que se venden en la tienda y que forman parte de una [categoría](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf) registrada en tu [Catálogo VTEX](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR). Para enviar los productos registrados en tu catálogo a la plataforma de Mercado Libre, deberás hacer el [mapeo de categorías, atributos y variaciones](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).
+Los [productos](/es/docs/tracks/productos-definicion-de-concepto) son los ítems que se venden en la tienda y que forman parte de una [categoría](/es/docs/tracks/categorias-definicion-de-concepto) registrada en tu [Catálogo VTEX](/es/docs/tracks/catalogo-definicion-de-concepto). Para enviar los productos registrados en tu catálogo a la plataforma de Mercado Libre, deberás hacer el [mapeo de categorías, atributos y variaciones](/es/docs/tracks/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper).
 
 Cualquier cambio que el Admin VTEX realice en los productos desde *PRODUCTO > Catálogo > Productos y SKU*, o cualquier cambio que se realice en el [ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-import-products) de tu tienda durante la integración, se actualizará automáticamente en Mercado Libre.
 
@@ -94,7 +94,7 @@ Para poder integrarse, los campos de la plataforma VTEX a continuación deben es
 - **Mostrar producto agotado**
 - **Política comercial**
 
-En el campo **Política comercial**, debes marcar la opción correspondiente a [política comercial](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/15NZiQstCET8zyQUIa7nhw) vinculada a Mercado Libre.
+En el campo **Política comercial**, debes marcar la opción correspondiente a [política comercial](/es/docs/tracks/configurar-politica-comercial-para-mercado-libre) vinculada a Mercado Libre.
 
 > ℹ️ Para agregar imágenes nuevas en un anuncio que ya existe en Mercado Libre, deberás hacer todos los cambios directamente en el panel del marketplace. Mercado Libre solo acepta 12 imágenes por producto sin variación, y hasta 10 imágenes por producto con variación.
 
@@ -102,7 +102,7 @@ En el campo **Política comercial**, debes marcar la opción correspondiente a [
 
 Durante la integración, los precios se envían por primera vez junto con el primer envío de productos. Luego, los precios de los anuncios en Mercado Libre se actualizan automáticamente siempre que haya algún cambio en el precio en la plataforma VTEX.
 
-Durante la integración, se envía el [precio fijo](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy) correspondiente a cada SKU, el cual se configuró en la política comercial [asociada a la integración](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/15NZiQstCET8zyQUIa7nhw).
+Durante la integración, se envía el [precio fijo](/es/docs/tracks/precio-fijo-definicion-de-concepto) correspondiente a cada SKU, el cual se configuró en la política comercial [asociada a la integración](/es/docs/tracks/configurar-politica-comercial-para-mercado-libre).
 
 ### Promociones
 

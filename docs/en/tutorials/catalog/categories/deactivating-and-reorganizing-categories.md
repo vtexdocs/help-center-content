@@ -70,5 +70,5 @@ To move a category without causing errors or losing information, follow the step
 
 ## Learn more
 
-- [Categories - Concept definition](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
+- [Categories - Concept definition](/en/docs/tracks/categories-concept-definition)
 - [Adding a category](/en/docs/tutorials/registering-a-category)

@@ -23,7 +23,7 @@ Iniciamos este artículo advirtiendo que la tendencia y las buenas prácticas in
 
 Crear una versión mobile aparte era una práctica adoptada cuando los recursos de CSS dificultaban la adaptación de una versión desktop para mobile. Hoy en día, con los recursos que ofrece el CSS, se ha hecho estándar crear una versión responsiva. 
 
-Lea más sobre este asunto en el artículo [Responsivo x Versión Mobile](/es/tutorial/responsivo-x-version-mobile).
+Lea más sobre este asunto en el artículo [Responsivo x Versión Mobile](/es/docs/tutorials/responsivo-x-version-mobile).
 
 Este artículo tiene el objeto de ilustrar cómo preparar un ambiente de desarrollo para versión mobile sin impactar la versión de producción.
 

@@ -37,7 +37,7 @@ Para configurar CieloEcommerce, siga los siguientes pasos:
 17. En **UseAntifraudSolution**, seleccione la opción deseada.
 18. En **AntifraudProvider**, seleccione el proveedor antifraude que desea utilizar con CieloEcommerce.
 
-> ⚠️ Consulte con Cielo si las opciones antifraude en CieloEcommerce ya están disponibles para su uso. Si aún está en desarrollo, ambos campos descritos en el paso 15 deben dejarse en blanco. Para obtener más información sobre el uso de opciones antifraude en su tienda, visite [Configurar el antifraude](/es/tutorial/como-configurar-antifraude).
+> ⚠️ Consulte con Cielo si las opciones antifraude en CieloEcommerce ya están disponibles para su uso. Si aún está en desarrollo, ambos campos descritos en el paso 15 deben dejarse en blanco. Para obtener más información sobre el uso de opciones antifraude en su tienda, visite [Configurar el antifraude](/es/docs/tutorials/como-configurar-antifraude).
 
 19. En **Antifraud** y **AntifraudSequenceCriteria**, seleccione las opciones según información de CieloEcommerce antifraude. Consulta con CieloEcommerce si el antifraude ya está disponible para su uso, si aún está en desarrollo debes dejar ambos campos en blanco.
 20. En **CaptureOnLowRisk** y **VoidOnHighRisk**, seleccione las opciones configuradas en el proveedor CieloEcommerce.

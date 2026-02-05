@@ -48,7 +48,7 @@ All the features available on the page will be described in the following sectio
 
 To add a new promotion, click the `Create Promotion` button. Then, you can select the following types of promotions: 
 
-- [Regular](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI)
+- [Regular](/en/docs/tracks/creating-regular-promotions)
 - [Buy Together - Bundle](/en/docs/tutorials/buy-together)
 - [More for Less](/en/docs/tutorials/creating-a-more-for-less-promotion)
 - [Progressive Discount](/en/docs/tutorials/progressive-discount)
@@ -94,7 +94,7 @@ By default, the maximum number of active promotions is 100. If you need to incre
 
 The promotion list can be filtered according to your needs by using the following filters:
 
-- **Discount type:** The type of discount that will be applied to the promotion. The options are: [Regular](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Buy Together - Bundle](/en/docs/tutorials/buy-together), [More for Less](/en/docs/tutorials/creating-a-more-for-less-promotion), [Progressive Discount](/en/docs/tutorials/progressive-discount), [Buy One Get One](/en/docs/tutorials/buy-one-get-one), and [Campaign Promotion](/en/docs/tutorials/campaign-promotion).
+- **Discount type:** The type of discount that will be applied to the promotion. The options are: [Regular](/en/docs/tracks/creating-regular-promotions), [Buy Together - Bundle](/en/docs/tutorials/buy-together), [More for Less](/en/docs/tutorials/creating-a-more-for-less-promotion), [Progressive Discount](/en/docs/tutorials/progressive-discount), [Buy One Get One](/en/docs/tutorials/buy-one-get-one), and [Campaign Promotion](/en/docs/tutorials/campaign-promotion).
 - **Status:** The status of the promotion. The options are: `Active`, `Scheduled`, `Paused`, and `Completed`.
 - **Last modified:** Last update history for the last 12 months, 3 months, 30 days, 7 days, or the day before the query.
 - **Trade policy:** Trade policy under which the promotion will be applied.

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En la plataforma VTEX, usted puede configurar el [gateway](/es/tutorial/que-es-un-gateway-de-pagos) VC+ para recibir pagos por medio de pagarés.
+En la plataforma VTEX, usted puede configurar el [gateway](/es/docs/tutorials/que-es-un-gateway-de-pagos) VC+ para recibir pagos por medio de pagarés.
 
 Para configurar VC+, siga estos pasos:
 
@@ -28,4 +28,4 @@ Para configurar VC+, siga estos pasos:
 6. Haga clic en __Guardar__.
 
 ## Configurar la condición de pago
-Después de seguir los pasos indicados, VC+ va a estar configurada en su tienda. Por lo tanto, cuando se registre el medio de pago pagaré, usted verá VC+ disponible en el campo __Procesar con la afiliación__. Para saber cómo configurar pagos personalizados (como pagarés), acceda a [este artículo del Help](/es/tutorial/como-configurar-pagamento-personalizado).
+Después de seguir los pasos indicados, VC+ va a estar configurada en su tienda. Por lo tanto, cuando se registre el medio de pago pagaré, usted verá VC+ disponible en el campo __Procesar con la afiliación__. Para saber cómo configurar pagos personalizados (como pagarés), acceda a [este artículo del Help](/es/docs/tutorials/como-configurar-pagamento-personalizado).

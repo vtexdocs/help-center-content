@@ -42,7 +42,7 @@ Our goal is to allow you to create campaigns in TikTok Ads Manager with your VTE
 
 ##  How to start using it?
 
-The app is fully compatible with [VTEX IO](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) stores and partially compatible with [Legacy](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) or [Headless CMS](https://faststore.dev/tutorials/cms/0#vtex-headless-cms) stores.
+The app is fully compatible with [VTEX IO](/en/docs/tracks/cms-vtex-io) stores and partially compatible with [Legacy](/en/docs/tracks/legacy-cms-portal) or [Headless CMS](https://faststore.dev/tutorials/cms/0#vtex-headless-cms) stores.
 
 To install the app and integrate your VTEX store with TikTok, follow the instructions in the [TikTok integration guide](/en/tracks/tiktok-integration--1r0yJSO11nrer1YVu3WTFd).
 

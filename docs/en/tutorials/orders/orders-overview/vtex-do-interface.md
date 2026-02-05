@@ -105,7 +105,7 @@ Tasks managed through VTEX DO can include messages from all VTEX systems. Some e
   <tr>
    <td>Price lower than minimum markup
    </td>
-   <td>The purchase amount is lower than the markup, or the minimum markup on the [SKU base price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29).
+   <td>The purchase amount is lower than the markup, or the minimum markup on the [SKU base price](/en/docs/tracks/cadastrar-preco-base).
    </td>
    <td>Go to **Task details** and click **View details** > authorize or cancel the order on the **Order details** page.
    </td>

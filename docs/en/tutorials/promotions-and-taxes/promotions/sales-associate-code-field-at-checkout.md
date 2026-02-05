@@ -51,7 +51,7 @@ The **sales associate code** field must be added to [Master Data](/en/docs/tutor
 After creating the salesassociatecode entity, you need to link it to a promotion. To create a new promotion, follow the steps below:
 
 1. In the VTEX Admin, go to **Promotions > Promotions**, or type **Promotions** in the search bar at the top of the page.
-2. Create a new [regular promotion](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N). Complete the **Promotion overview** and the **To which items will this promotion apply?** fields.
+2. Create a new [regular promotion](/en/docs/tracks/how-promotions-work). Complete the **Promotion overview** and the **To which items will this promotion apply?** fields.
 
 > ℹ️ Callout Information: If you want to use the sales associate code field to give a discount on the purchase amount, complete the information in the **What is the type and amount of discount?**.
 

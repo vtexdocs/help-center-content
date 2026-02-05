@@ -19,7 +19,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 Some steps are essential for us to start configuring integration with the YOP marketplace.
 1. Configure the [sales policy](/en/tutorial/configuring-a-marketplace-sales-policy/);
-2. Configure the [logistics](/en/tutorial/configuring-logistics-for-a-marketplace/) for this sales policy;
+2. Configure the [logistics](/en/docs/tutorials/configuring-logistics-for-a-marketplace/) for this sales policy;
 3. Contact YOP;
 
 ## How to configure it
@@ -36,7 +36,7 @@ Some steps are essential for us to start configuring integration with the YOP ma
 
 ### Configure the affiliate
 
-[Follow the instructions in our manual and complete the fields as indicated below](/en/tutorial/configuring-affiliates/).
+[Follow the instructions in our manual and complete the fields as indicated below](/en/docs/tutorials/configuring-affiliates/).
 
 - **Name** YOP
 - **ID:** YPP

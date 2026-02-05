@@ -19,7 +19,7 @@ The **Search Settings** page comprises the VTEX Intelligent Search general setti
 
 ## General settings
 
-The general settings display the following options related to[ product and SKU specifications](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP):
+The general settings display the following options related to[ product and SKU specifications](/en/docs/tracks/specifications-concept-definition):
 
 * **Use SKU specifications to display individual products in search results**: Defines which specifications will sort the SKUs in the search results.
 

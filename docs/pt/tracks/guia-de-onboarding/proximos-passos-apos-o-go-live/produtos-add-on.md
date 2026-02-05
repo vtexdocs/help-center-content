@@ -17,11 +17,11 @@ order: 4
 
 Produtos Add-on são soluções oferecidas pela VTEX para atender demandas específicas de um negócio e que podem ser adquiridas separadamente por meio de um contrato de assinatura.
 
-> ⚠️ Para implementar as soluções abaixo, é necessário entrar em contato com o nosso [Suporte Comercial VTEX](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
+> ⚠️ Para implementar as soluções abaixo, é necessário entrar em contato com o nosso [Suporte Comercial VTEX](/pt/docs/tracks/suporte-comercial).
 
 ## VTEX Assisted Sales
 
-[Assisted Sales (SuiteShare)](/pt/tracks/suiteshare--khP0p8mjIYRIpvM7Cb4Zr/onWmyS8j4Thhde67UBBsB) é a solução criada pela VTEX para impulsionamento de vendas no WhatsApp. Por meio dela, é possível atrair novos clientes, integrar ferramentas de vendas, gerenciar dados de atendimento do usuário e métricas de resultados.
+[Assisted Sales (SuiteShare)](/pt/docs/tracks/o-que-e-suiteshare) é a solução criada pela VTEX para impulsionamento de vendas no WhatsApp. Por meio dela, é possível atrair novos clientes, integrar ferramentas de vendas, gerenciar dados de atendimento do usuário e métricas de resultados.
 
 ![suitshare-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_1.JPG)
 
@@ -53,9 +53,9 @@ Para assistir uma demonstração do aplicativo ou agendar o atendimento personal
 
 ## VTEX Sales App
 
-Com o [VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), os vendedores de lojas físicas podem expandir suas possibilidades de vendas por meio da integração de dados de estoque entre lojas físicas e virtuais, enquanto oferecem um acompanhamento completo presencial do processo de compra ao cliente. Por meio deste app, é possível:
+Com o [VTEX Sales App](/pt/docs/tracks/vtex-sales-app-configuracoes-basicas), os vendedores de lojas físicas podem expandir suas possibilidades de vendas por meio da integração de dados de estoque entre lojas físicas e virtuais, enquanto oferecem um acompanhamento completo presencial do processo de compra ao cliente. Por meio deste app, é possível:
 
-- Acessar informações e realizar vendas de produtos que estejam presentes em sua própria loja e em diferentes locais, tais como, lojas filiais, parceiras ou centros de distribuição ([prateleira infinita](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn)).
+- Acessar informações e realizar vendas de produtos que estejam presentes em sua própria loja e em diferentes locais, tais como, lojas filiais, parceiras ou centros de distribuição ([prateleira infinita](/pt/docs/tracks/prateleira-infinita)).
 - Sugerir produtos de acordo com o perfil do cliente.
 - Oferecer opções de entrega instantânea, retirada agendada ou no local do cliente.
 - Gerenciar métricas de performance para cada vendedor.

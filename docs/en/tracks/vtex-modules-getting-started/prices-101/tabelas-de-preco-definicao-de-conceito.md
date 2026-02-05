@@ -19,7 +19,7 @@ order: 3
 
 A price list is a set of SKU prices for a specific context. This table stores the price information that will be visible in the store.
 
-A price table can be considered an entity that calculates and provides the [computed prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx) for its SKUs.
+A price table can be considered an entity that calculates and provides the [computed prices](/en/docs/tracks/pricing-system-architecture) for its SKUs.
 
 ## Relationship between price tables and trade policies
 

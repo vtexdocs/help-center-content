@@ -165,9 +165,9 @@ To connect different VTEX accounts for the same event transmission, each account
 
 **Account A:**
 
-1. [Create](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) an event.
+1. [Create](/en/docs/tracks/creating-event) an event.
 2. On the **Events** page, click the event arrow button to go to the **Event Information** page.
-3. [Turn on](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) the event.
+3. [Turn on](/en/docs/tracks/turning-on-event) the event.
 4. In the [Streaming Studio](#streaming-studio) section, click `Access`.
 5. Log in to Bundle studio.
 6. Click `Enter the studio`.
@@ -182,9 +182,9 @@ The following confirmation message will be displayed, *"A new destination has be
 
 **Account B:**
 
-1. [Create](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) the event.
+1. [Create](/en/docs/tracks/creating-event) the event.
 2. On the **Events** page, click the event arrow button to go to the **Event Information** page.
-3. [Turn on](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) the event.
+3. [Turn on](/en/docs/tracks/turning-on-event) the event.
 4. In the [Details](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq#event-details) section, copy the **Inbound server** and **Server key** information and give them to the account you want to connect to, which is Account A in this case.
 
 ### Connecting to YouTube

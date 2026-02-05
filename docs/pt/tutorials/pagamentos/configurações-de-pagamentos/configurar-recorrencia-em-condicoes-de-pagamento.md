@@ -19,7 +19,7 @@ A “Recorrência” de uma Condição de Pagamento é uma condição especial q
 
 ## Como configurar
 
-Para configurar a recorrência é necessário configurar, em primeiro lugar, uma [Condição de pagamento](/pt/tutorial/condicoes-de-pagamento). 
+Para configurar a recorrência é necessário configurar, em primeiro lugar, uma [Condição de pagamento](/pt/docs/tutorials/condicoes-de-pagamento). 
 Depois de realizar esta configuração podemos marcar as condições especiais e, consequentemente, a recorrência de tal condição. 
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.

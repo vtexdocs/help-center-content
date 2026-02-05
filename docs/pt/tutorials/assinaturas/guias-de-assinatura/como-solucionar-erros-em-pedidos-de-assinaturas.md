@@ -77,7 +77,7 @@ Para analisar erros de pagamento, confira o passo a passo a seguir.
 4. Identifique o pedido desejado e clique na ID do pedido, conforme ilustrado na imagem abaixo. Você será redirecionado à página de detalhes do pedido, no módulo de **Todos os pedidos**.
   ![PT Log Erro de pagamento](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/assinaturas/guias-de-assinatura/como-solucionar-erros-em-pedidos-de-assinaturas_3.png)
 5. Uma vez na página de detalhes do pedido, clique em `Ver detalhes da transação`, no card de **Pagamento**. Você será redirecionado à página de **Transações**, no módulo de **Pagamentos**.
-6. Na página de **Transações**, você poderá visualizar e analisar os eventos de transação do pedido. Leia o artigo [Visualizar detalhes da transação no Pagamentos](/pt/tutorial/como-visualizar-detalhes-do-pedido) para mais informações.
+6. Na página de **Transações**, você poderá visualizar e analisar os eventos de transação do pedido. Leia o artigo [Visualizar detalhes da transação no Pagamentos](/pt/docs/tutorials/como-visualizar-detalhes-do-pedido) para mais informações.
 
 Os pedidos com erros de pagamento passam por 5 novas tentativas automáticas, em um período de até 12 horas, de acordo com o fluxo do gateway de pagamentos. Não é possível fazer tentativas manuais para corrigir erros de pagamento no Admin.
 

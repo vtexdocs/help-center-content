@@ -35,7 +35,7 @@ Para configurar a Pay-me, siga os passos abaixo:
 9. Em **Campos do provedor**, selecione ou preencha os campos **Merchant Code**, **Aceptar pagos con Tarjetas**, **Aceptar pagos con Billeteras Móviles (QR)**, **Aceptar pagos con Yape** , **Aceptar pagos con Cuotéalo**, **Aceptar pagos con Transferencia Bancaria** e **Aceptar pagos con PagoEfectivo** conforme as instruções do provedor.
 10. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela Pay-me, acesse [Configurar condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela Pay-me, acesse [Configurar condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

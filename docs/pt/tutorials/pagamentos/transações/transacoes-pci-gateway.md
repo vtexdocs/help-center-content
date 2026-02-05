@@ -22,9 +22,9 @@ Na listagem já é indicado o status atual, o início (data e hora) da transa�
 
 ![payment_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transações/transacoes-pci-gateway_1.jpg)
 
-Cada registro de pedido terá seus dados restritos às condições de pagamento utilizadas para o seu fechamento. Isto é, códigos de autorização, transação, NSU, entre outros, [estão disponibilizados dentro de cada registro](/pt/tutorial/como-visualizar-detalhes-do-pedido/).
+Cada registro de pedido terá seus dados restritos às condições de pagamento utilizadas para o seu fechamento. Isto é, códigos de autorização, transação, NSU, entre outros, [estão disponibilizados dentro de cada registro](/pt/docs/tutorials/como-visualizar-detalhes-do-pedido/).
 
 Além destes dados, essa interface é dinâmica em relação aos filtros que podem ser feitos e às buscas que podem realizadas. Para melhor estender seu uso, acesse:
 
-- [Como buscar transações](/pt/tutorial/transacoes-como-buscar)
-- [Como filtrar transações](/pt/faq/filtrar-transacoes-no-pci-gateway)
+- [Como buscar transações](/pt/docs/tutorials/transacoes-como-buscar)
+- [Como filtrar transações](/pt/docs/tutorials/filtrar-transacoes-no-pci-gateway)

@@ -25,7 +25,7 @@ Para acceder a los emails transaccionales de los pedidos de suscripciones, verif
 4. Haga las modificaciones deseadas.
 5. Haga click en `Guardar`.
 
-También puede crear [su propia plantilla de correo electrónico](/es/tutorial/como-funciona-el-message-center/).
+También puede crear [su propia plantilla de correo electrónico](/es/tracks/como-funciona-el-message-center/).
 
 ## Cómo su cliente acompaña sus pedidos de suscripción
 

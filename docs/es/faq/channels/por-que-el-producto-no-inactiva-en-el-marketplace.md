@@ -14,7 +14,7 @@ locale: es
 legacySlug: por-que-el-producto-no-inactiva-en-el-marketplace
 ---
 
-Conforme se puede visualizar en nuestra [documentación más completa](/es/tutorial/catalogacion-de-productos-para-marketplace), después de la activación de un SKU en el marketplace, el ítem pasa a ser del catálogo del marketplace.
+Conforme se puede visualizar en nuestra [documentación más completa](/es/docs/tutorials/catalogacion-de-productos-para-marketplace), después de la activación de un SKU en el marketplace, el ítem pasa a ser del catálogo del marketplace.
 
 Con eso, es posible que se esté referenciando el SKU en diversas áreas del marketplace y la inactivación del ítem podría causar inconsistencias.
 

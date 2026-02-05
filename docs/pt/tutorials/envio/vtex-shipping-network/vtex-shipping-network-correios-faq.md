@@ -187,7 +187,7 @@ A URL do pedido pode ser encontrada no Admin VTEX, em **Pedidos**, na [página d
 
 Vale ressaltar que as informações sobre situação do envio não são atualizadas no Admin VTEX, e sim no link disponibilizado pela [transportadora](/pt/docs/tutorials/transportadoras-na-vtex).
 
-Para configurar disparos de [emails transacionais](/pt/docs/tutorials/templates-de-emails-transacionais) para informar o consumidor sobre o andamento do seu pedido, acesse o [Message Center](/pt/tracks/e-mails-transacionais--6IkJwttMw5T84mlY9RifRP/5uvq01BDu6nnDEJpseR1aH).
+Para configurar disparos de [emails transacionais](/pt/docs/tutorials/templates-de-emails-transacionais) para informar o consumidor sobre o andamento do seu pedido, acesse o [Message Center](/pt/docs/tracks/como-funciona-o-message-center).
 
 ## 17. Quais são as restrições de envio pelos Correios?
 

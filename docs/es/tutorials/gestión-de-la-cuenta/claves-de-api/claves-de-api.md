@@ -19,7 +19,7 @@ Cada integración por API utilizada para conectar tu cuenta VTEX con sistemas ex
 
 Estas credenciales de [autenticación](https://developers.vtex.com/docs/guides/authentication) se utilizan para garantizar acceso seguro a los datos que deseas compartir con las integraciones, sin exponer tu cuenta a aplicaciones o usuarios no autorizados.
 
-Para que una clave de API pueda realizar con éxito requests de API a tu cuenta, debe estar activa y tener [roles](/es/tutorial/roles) que especifiquen los recursos de la cuenta a los que tiene permiso para acceder.
+Para que una clave de API pueda realizar con éxito requests de API a tu cuenta, debe estar activa y tener [roles](/es/docs/tutorials/roles) que especifiquen los recursos de la cuenta a los que tiene permiso para acceder.
 
 ## Tipos de claves de API
 
@@ -27,46 +27,46 @@ Existen dos tipos de claves de aplicación: [internas](#claves-internas) o [exte
 
 ### Claves internas
 
-Las [claves de API internas](/es/tutorial/claves-generadas) son credenciales generadas y gestionadas en tu cuenta VTEX. Esto significa que debes tener acceso a todos los pares de claves y tokens de API (el equivalente a los nombres de usuario y las contraseñas para las integraciones de API).
+Las [claves de API internas](/es/docs/tutorials/claves-generadas) son credenciales generadas y gestionadas en tu cuenta VTEX. Esto significa que debes tener acceso a todos los pares de claves y tokens de API (el equivalente a los nombres de usuario y las contraseñas para las integraciones de API).
 
 ### Claves externas
 
-Las [claves de API externas](/es/tutorial/claves-externas) son credenciales generadas y administradas por otras cuentas VTEX. Al agregar [roles](/es/tutorial/roles) a las claves de API (el equivalente a los nombres de usuario) proporcionadas por terceros, tienes la opción de permitir que accedan a recursos específicos de tu cuenta.
+Las [claves de API externas](/es/docs/tutorials/claves-externas) son credenciales generadas y administradas por otras cuentas VTEX. Al agregar [roles](/es/docs/tutorials/roles) a las claves de API (el equivalente a los nombres de usuario) proporcionadas por terceros, tienes la opción de permitir que accedan a recursos específicos de tu cuenta.
 
 ## Gestionar claves de API
 
 La página **Claves de API** del Admin VTEX te permite gestionar las claves de API con acceso a tu tienda. Consulta las guías a continuación para más detalles sobre la información y las acciones disponibles en esta página:
 
-* [Exportar claves de API](/es/tutorial/exportar-claves-de-api): permite descargar una plantilla con los datos de las claves de API generadas y externas.
+* [Exportar claves de API](/es/docs/tutorials/exportar-claves-de-api): permite descargar una plantilla con los datos de las claves de API generadas y externas.
 
-* [Configuración](/es/tutorial/configurar-alerta-para-renovar-tokens-de-api): permite definir el periodo recomendado de renovación de tokens. Cuando se cumple el límite establecido para el token, la interfaz muestra una alerta de renovación. Esta configuración se aplica a todos los tokens de clave.
+* [Configuración](/es/docs/tutorials/configurar-alerta-para-renovar-tokens-de-api): permite definir el periodo recomendado de renovación de tokens. Cuando se cumple el límite establecido para el token, la interfaz muestra una alerta de renovación. Esta configuración se aplica a todos los tokens de clave.
 
    > ℹ️ El token no vence después del plazo definido. La configuración solamente determina cuándo la interfaz recomendará la renovación.
 
    ![token-renewal-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gestión-de-la-cuenta/claves-de-api/claves-de-api_1.png)
 
-* [Claves generadas](/es/tutorial/claves-generadas): permite gestionar las claves de API creadas y administradas por tu cuenta VTEX.
+* [Claves generadas](/es/docs/tutorials/claves-generadas): permite gestionar las claves de API creadas y administradas por tu cuenta VTEX.
 
    ![generated-keys-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gestión-de-la-cuenta/claves-de-api/claves-de-api_2.png)
 
-* [Claves externas](/es/tutorial/claves-externas): permite gestionar claves de API creadas y administradas por otras cuentas VTEX, con acceso a recursos específicos de tu cuenta.
+* [Claves externas](/es/docs/tutorials/claves-externas): permite gestionar claves de API creadas y administradas por otras cuentas VTEX, con acceso a recursos específicos de tu cuenta.
 
    ![apikeys-external-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gestión-de-la-cuenta/claves-de-api/claves-de-api_3.png)
 
 ## Requisitos para gestionar claves de API
 
-Para gestionar claves de API, es obligatorio tener el rol [User Administrator - RESTRICTED](/es/tutorial/roles-predefinidos#user-administrator-restricted) o un rol [personalizado](/es/tutorial/roles#crear-roles) con los siguientes recursos:
+Para gestionar claves de API, es obligatorio tener el rol [User Administrator - RESTRICTED](/es/tutorial/roles-predefinidos#user-administrator-restricted) o un rol [personalizado](/es/docs/tutorials/roles#crear-roles) con los siguientes recursos:
 
 * *View API Keys* (ver, filtrar, buscar, ordenar y exportar claves de API generadas y externas)
 * *Edit API Keys* (crear, eliminar, cambiar el status y agregar o remover permisos)
 * *Renew API Token* (ver y renovar tokens de claves generadas)
 * *Edit API Keys settings* (editar configuración de la duración de tokens de claves generadas)
 
-Aprende más sobre cada recurso en [Recursos de License Manager](/es/tutorial/recursos-del-license-manager).
+Aprende más sobre cada recurso en [Recursos de License Manager](/es/docs/tutorials/recursos-del-license-manager).
 
 ## Más información
 
-* [Configurar alerta para renovar tokens de API](/es/tutorial/configurar-alerta-para-renovar-tokens-de-api)  
+* [Configurar alerta para renovar tokens de API](/es/docs/tutorials/configurar-alerta-para-renovar-tokens-de-api)  
 * [Claves externas](/es/tutorial/chaves-externas)  
 * [Claves generadas](/es/tutorial/chaves-geradas)  
-* [Renovar token de API](/es/tutorial/renovar-token-de-api)
+* [Renovar token de API](/es/docs/tutorials/renovar-token-de-api)

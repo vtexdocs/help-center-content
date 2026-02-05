@@ -37,7 +37,7 @@ Essa mudança faz parte do escopo de melhorias feitas na integração com o Merc
 
 A nova interface já está disponível no Admin VTEX para toda nossa base de clientes que utilizam o conector do Mercado Livre para anunciar seus produtos. Para acessá-la, clique em **MARKETPLACE > Integrações > Configurações** e, no box do Mercado Livre, clique em `Realizar mapeamento`.
 
-Para saber mais sobre como utilizar a nova interface, leia o artigo [Enviar produtos para o Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).
+Para saber mais sobre como utilizar a nova interface, leia o artigo [Enviar produtos para o Mercado Livre](/pt/docs/tracks/mapear-categorias-e-atributos-dos-produtos-para-o-mercado-livre-mapper).
 
 Esta página segue o novo Design System da VTEX, com um visual mais clean, moderno e fácil de usar. Para acessar mais páginas com essa experiência, além de um Admin aprimorado com dados acionáveis, [faça parte](https://content.vtex.com/join-new-admin-beta-program-pt/?utm_source=announcement&utm_medium=display&utm_campaign=meli_tabelamedidas) do programa Beta do [Novo Admin VTEX](/pt/v4).
 

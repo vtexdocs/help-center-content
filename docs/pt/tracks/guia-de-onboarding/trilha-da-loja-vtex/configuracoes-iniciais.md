@@ -75,7 +75,7 @@ Para definir as ações que um usuário pode realizar no Admin VTEX, basta segui
 
 É necessário configurar qual método de [autenticação](/pt/docs/tutorials/autenticacao) será ofertado aos clientes para login na loja e aos usuários administrativos para login no Admin VTEX. A autenticação no ambiente VTEX pode ser realizada através de algumas opções: código de acesso e senha, que estão sempre disponíveis, e Google como opcional. 
 
-Para realizar o login na loja, a VTEX disponibiliza autenticação por código de acesso, senha, [Facebook](/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook) e [Google](/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google), sendo possível habilitar um ou mais métodos de autenticação. O passo a passo para habilitar as soluções pode ser encontrado no artigo [Autenticação](/pt/docs/tutorials/autenticacao).
+Para realizar o login na loja, a VTEX disponibiliza autenticação por código de acesso, senha, [Facebook](/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook) e [Google](/pt/docs/tutorials/cadastrar-client-id-e-client-secret-para-login-com-google), sendo possível habilitar um ou mais métodos de autenticação. O passo a passo para habilitar as soluções pode ser encontrado no artigo [Autenticação](/pt/docs/tutorials/autenticacao).
 
 ## Autenticação para integrações e desenvolvimento de apps
 
@@ -86,7 +86,7 @@ A tabela abaixo apresenta quais são os três tipos de autenticação disponíve
 | **Tipo de autenticação** | **Descrição** |
 | :---: | :--- |
 | Autenticação de requisições a APIs usando [chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) (appKeys) | As chaves de aplicação (appKeys) são utilizadas para autenticar requisições a APIs da VTEX. Os administradores da loja podem criar essas chaves para diferentes integrações.Mais informações em [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). |
-| Autenticação de requisições a APIs usando tokens de usuário | Os tokens de usuário são usados para autenticar requisições a APIs, especialmente para aplicativos [frontend](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) desenvolvidos com VTEX IO.Mais informações em [API authentication using user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens). |
+| Autenticação de requisições a APIs usando tokens de usuário | Os tokens de usuário são usados para autenticar requisições a APIs, especialmente para aplicativos [frontend](/pt/docs/tracks/implementacao-de-frontend) desenvolvidos com VTEX IO.Mais informações em [API authentication using user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens). |
 | Autenticação de apps usando tokens de autenticação | O uso de tokens de autenticação (auth tokens) é necessário para autenticação no desenvolvimento de apps com VTEX IO.Mais informações em [App authentication using auth tokens](https://developers.vtex.com/docs/guides/app-authentication-using-auth-tokens). |
 
 ## Política comercial
@@ -103,13 +103,13 @@ Em toda integração com um canal de venda, é necessário atrelar uma política
 
 A depender de sua arquitetura na VTEX, a loja pode se beneficiar com mais de uma política comercial, ou associar estratégias de várias políticas comerciais a [multilojas](http://link-warm-up-heading-multiloja) e [ambientes adicionais](http://link-warm-up-heading-ambiente-adicional). O artigo [Contas e arquitetura](http://link-warm-up) apresenta em detalhes a relação entre estes conceitos.
 
-> ℹ️ Para [criar uma política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) e para [contratar políticas comerciais adicionais](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional), é necessário entrar em contato com o [Suporte VTEX](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8).
+> ℹ️ Para [criar uma política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) e para [contratar políticas comerciais adicionais](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional), é necessário entrar em contato com o [Suporte VTEX](/pt/docs/tracks/suporte-na-vtex).
 
 ## Edition Apps
 
 [Edition Apps](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app) são pacotes que reúnem configurações e aplicativos em um único conjunto. Eles são criados por [Sponsor Accounts](https://developers.vtex.com/docs/guides/vtex-io-documentation-sponsor-account) para facilitar a configuração de [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia). Alguns exemplos são **Edition Store** e **Edition Business**, oferecidos nativamente. Qualquer Edition App depende de `vtex.edition-business` ou `vtex.edition-store`. 
 
-Para alterar um Edition App, é necessário entrar em contato com o nosso [suporte](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8), e somente o _Sponsor Account_ pode fazer modificações. Para criar um Edition App, é preciso atender aos requisitos presentes em [Developing an Edition App](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app#developing-an-edition-app).
+Para alterar um Edition App, é necessário entrar em contato com o nosso [suporte](/pt/docs/tracks/suporte-na-vtex), e somente o _Sponsor Account_ pode fazer modificações. Para criar um Edition App, é preciso atender aos requisitos presentes em [Developing an Edition App](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app#developing-an-edition-app).
 
 ## VTEX IO CLI
 

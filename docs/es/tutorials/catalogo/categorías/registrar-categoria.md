@@ -65,4 +65,4 @@ Para entender mejor el significado de cada campo del registro de categoría, vea
 - [¿Qué es una Subcategoría?](/es/docs/tutorials/que-es-una-subcategoria)
 - [Limpiar base de datos de la tienda](/es/tutorial/limpiar-base-de-datos-de-la-tienda)
 - [Registrar un producto](/es/tutorial/cadastrando-produtos--tutorials_2567)
-- [Registrar un SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ)
+- [Registrar un SKU](/es/docs/tracks/registrar-sku)

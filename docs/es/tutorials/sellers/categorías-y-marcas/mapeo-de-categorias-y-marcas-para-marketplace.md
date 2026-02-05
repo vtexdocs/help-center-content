@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 24EN0qRBg4yK0uusGUGosu
 ---
 
-Cuando una tienda funciona como un marketplace, usted debe tener en cuenta que el catálogo de sus sellers tiene una estructura completamente independiente de la suya. Para que las definiciones de ambos catálogos sean compatibles, es necesario mapear las [categorías](/es/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), [marcas](/es/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh) y [especificaciones](/es/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP):
+Cuando una tienda funciona como un marketplace, usted debe tener en cuenta que el catálogo de sus sellers tiene una estructura completamente independiente de la suya. Para que las definiciones de ambos catálogos sean compatibles, es necesario mapear las [categorías](/es/docs/tracks/categorias-definicion-de-concepto), [marcas](/es/docs/tracks/marcas-definicion-de-concepto) y [especificaciones](/es/docs/tracks/especificaciones-definicion-de-concepto):
 
 - Envía sus productos por primera vez.  
 - Envía productos con información que aún no ha sido mapeada.  

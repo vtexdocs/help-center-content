@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Agora, faturas parciais inseridas nos pedidos disparam liquidações parciais na transação.'
 ---
 
-Ao gerenciar pedidos no OMS, o sistema gerenciador de pedidos da VTEX, inserir a nota fiscal no pedido é um passo obrigatório para que seu status passe para Faturado - sinal de que o pedido foi finalizado com sucesso. É possível inserir uma [nota fiscal completa](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT), ou uma [fatura parcial](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), em cenários onde há alterações nos itens ou valor do pedido. 
+Ao gerenciar pedidos no OMS, o sistema gerenciador de pedidos da VTEX, inserir a nota fiscal no pedido é um passo obrigatório para que seu status passe para Faturado - sinal de que o pedido foi finalizado com sucesso. É possível inserir uma [nota fiscal completa](/pt/docs/tracks/faturar-um-pedido), ou uma [fatura parcial](/pt/docs/tracks/faturas-parciais), em cenários onde há alterações nos itens ou valor do pedido. 
 
 Desenvolvemos uma melhoria no OMS que fará com que as faturas parciais inseridas nos pedidos também disparem liquidações parciais na transação. O valor total do pedido será atualizado após a inserção da nota fiscal, e corresponde ao que é captado pelo gateway de pagamentos da VTEX. 
 
@@ -33,7 +33,7 @@ Agora, o gateway liquida o valor correspondente à fatura inserida. Essa mudanç
 * É feito o reembolso automático ao consumidor, caso haja estorno de valores. Não é mais preciso enviar a diferença de valor por fora da VTEX.  
 * É possível ir faturando os itens conforme a sua disponibilidade. Se eventualmente o operador identificar que um item precisa ser removido juntamente com seu valor, a alteração do pedido, com o valor descontado, poderá ser feita - dado que as notas fiscais anteriores só capturaram seus valores correspondentes e mantiveram o resto do valor liquidado em aberto.  
 
-Saiba mais detalhes em [Faturas parciais](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe).
+Saiba mais detalhes em [Faturas parciais](/pt/docs/tracks/faturas-parciais).
 
 ## Por que fizemos essa mudança?
 
@@ -43,7 +43,7 @@ Com isso, desbloqueamos novas ações e comportamentos no dia a dia de operadore
 
 ## O que precisa ser feito?
 
-Não é preciso realizar nenhuma ação ou configuração, o OMS já foi atualizado automaticamente para operar da nova forma. Saiba mais em [Faturas parciais](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe).
+Não é preciso realizar nenhuma ação ou configuração, o OMS já foi atualizado automaticamente para operar da nova forma. Saiba mais em [Faturas parciais](/pt/docs/tracks/faturas-parciais).
 
 Para reproduzir o comportamento:
 
@@ -55,7 +55,7 @@ Para reproduzir o comportamento:
 
     > Se você utiliza a nova interface de Detalhes do pedido (Beta), acesse [Como alterar itens do pedido (Beta)](/pt/tutorial/how-to-change-order-items-beta--7jekq618QxgbsOxKkXBjE8).
 
-3. Acompanhe todos os eventos da transação, após as mudanças ocorridas ao pedido, ao clicar em [Ver detalhes da transação](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy). 
+3. Acompanhe todos os eventos da transação, após as mudanças ocorridas ao pedido, ao clicar em [Ver detalhes da transação](/pt/docs/tracks/ver-detalhes-da-transacao). 
 
 Também é possível realizar as mesmas ações por meio da nossa API de Orders. Para isso, confira os endpoints:
 

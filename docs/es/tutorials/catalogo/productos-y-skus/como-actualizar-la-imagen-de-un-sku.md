@@ -45,7 +45,7 @@ Como este procedimiento implica la exclusión de todas las imágenes de un SKU y
 1. En la pestaña __SKU__, marque la opción __Activar SKU si es posible__.
 2. Haga clic en __Guardar__.
 
-¡Listo! Ahora su producto entrará en la [fila de indexación](/es/tutorial/entendiendo-el-funcionamento-de-la-indexacion). Después de ser indexado, el SKU se mostrará con las nuevas imágenes.
+¡Listo! Ahora su producto entrará en la [fila de indexación](/es/docs/tutorials/entendiendo-el-funcionamento-de-la-indexacion). Después de ser indexado, el SKU se mostrará con las nuevas imágenes.
 
 ## Por API
 

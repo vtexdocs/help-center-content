@@ -20,17 +20,17 @@ To ensure that the integration functions properly, some initial VTEX platform co
 
 ## Defining the trade policy
 
-You'll need to define which trade policy will be used to integrate your products with Wish. This will be applied to main aspects: product assortment, inventory, price and currency. This implies that product price and availability on specific sales channel is wholly based on the trade policy you choose. [Click here for more info on how the trade policy works](/en/tutorial/configuring-a-marketplace-trade-policy).
+You'll need to define which trade policy will be used to integrate your products with Wish. This will be applied to main aspects: product assortment, inventory, price and currency. This implies that product price and availability on specific sales channel is wholly based on the trade policy you choose. [Click here for more info on how the trade policy works](/en/docs/tutorials/configuring-a-marketplace-trade-policy).
 
-> ℹ️ NOTE: Wish demands that product prices and shipping be sent in USD. However, it does convert order values into BRL directly, making issuing invoices much easier. This means that the integration should send prices in USD and accept orders in BRL. Thus, the architecture uses only BRL and converts within the integration. However, **the Wish trade policy must be in BRL**, while the entire conversion flow will be more detailed in [step 5](/en/tracks/wish-integration--50hbG4bzhSIhjz1lzqI1g4/6EYEy1jRiAj465WOnhiczD).
+> ℹ️ NOTE: Wish demands that product prices and shipping be sent in USD. However, it does convert order values into BRL directly, making issuing invoices much easier. This means that the integration should send prices in USD and accept orders in BRL. Thus, the architecture uses only BRL and converts within the integration. However, **the Wish trade policy must be in BRL**, while the entire conversion flow will be more detailed in [step 5](/en/docs/tracks/integration-configurations).
 
 [Click here](/en/faq/adding-new-trade-policies--frequentlyAskedQuestions_700) to find out how to add a new trade policy when needed.
 
 ## Defining product assortment
 
-Once the trade policy is created, you'll need to link the new trade policy to products from your catalog that you want to send to Wish. The following step-by-step will show you how to define the assortment **in bulk using a spreadsheet** (for other methods, [click here](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ).
+Once the trade policy is created, you'll need to link the new trade policy to products from your catalog that you want to send to Wish. The following step-by-step will show you how to define the assortment **in bulk using a spreadsheet** (for other methods, [click here](/en/docs/tracks/adding-skus).
 
-  1. Export your catalog products ([see how in the "by spreadsheet" section of this article](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ));
+  1. Export your catalog products ([see how in the "by spreadsheet" section of this article](/en/docs/tracks/adding-skus));
   2. Add the **ID** of the trade policy set in the previous step to the **"Stores"** field ([mais detalhes aqui](/en/docs/tutorials/filling-in-fields-in-the-import-spreadsheet));
   3. Import the spreadsheet back into the catalog.
 
@@ -49,5 +49,5 @@ To ensure that order integrate successfully, you'll need to link, on the VTEX pl
 
 In order to sell your products on Wish, it's important to set a pricing strategy. For more on the overall pricing context at VTEX, read [this article](/en/tracks/precing-101--6f8pwCns3PJHqMvQSugNfP). Follow the step-by-step below to configure prices:
 
-  1. Create a [price table](/en/tracks/pricing-101--6f8pwCns3PJHqMvQSugNfP/2WQ3pVYfQpXkJnHr7VTFBv) for the trade policy linked to Wish;
-  2. Set the [base prices](/en/tracks/pricing-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) based on the new table
+  1. Create a [price table](/en/docs/tracks/cadastrar-tabelas-de-preco) for the trade policy linked to Wish;
+  2. Set the [base prices](/en/docs/tracks/preco-base-definicao-de-conceito) based on the new table

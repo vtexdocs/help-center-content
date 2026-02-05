@@ -20,7 +20,7 @@ order: 1
 
 O menu **Lançamentos** permite que você gerencie grupos de modificações relacionadas, de forma a coordenar o planejamento, criação, agendamento e publicação de alterações na sua loja. Uma modificação ou um agrupamento de modificações que podem ser publicadas de forma conjunta pelo **Lançamentos** são chamadas de [lançamento](/pt/docs/tutorials/planner-conceito-de-lancamento-beta).
 
-> ⚠️ Na fase beta, os lançamentos precisam estar relacionados ao [CMS](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), pois outros módulos da plataforma VTEX ainda não estão inclusos. Para utilizar o **Lançamentos**, é necessário configurar o CMS conforme descrito em [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
+> ⚠️ Na fase beta, os lançamentos precisam estar relacionados ao [CMS](/pt/docs/tracks/cms-vtex-io), pois outros módulos da plataforma VTEX ainda não estão inclusos. Para utilizar o **Lançamentos**, é necessário configurar o CMS conforme descrito em [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 Confira a seguir quais são as páginas contidas no menu **Lançamentos**.
 

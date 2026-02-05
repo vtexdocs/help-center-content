@@ -30,4 +30,4 @@ E com o suporte a HTTP/2 você tem acesso a uma série de outras melhorias. Para
 
 Não há riscos ou contraindicações para aderir ao novo modelo.
 
-E o principal requisito para fazer a migração é que o seu site seja disponibilizado totalmente em HTTPS, o que contribui para o tráfego seguro na sua loja e para o melhor rankeamento do seu site em buscas orgânicas. Para fazer essa configuração, siga os passos indicados no artigo [Ativar HTTPS em todo o site](/pt/tutorial/ativar-https-em-todo-o-site).
+E o principal requisito para fazer a migração é que o seu site seja disponibilizado totalmente em HTTPS, o que contribui para o tráfego seguro na sua loja e para o melhor rankeamento do seu site em buscas orgânicas. Para fazer essa configuração, siga os passos indicados no artigo [Ativar HTTPS em todo o site](/pt/docs/tutorials/ativar-https-em-todo-o-site).

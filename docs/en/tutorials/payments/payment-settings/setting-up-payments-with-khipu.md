@@ -35,7 +35,7 @@ To configure Khipu, follow the steps below:
 
 ## Setting up Notes Payable
 
-If you have not yet configured the Notes Payable as a payment method in other connectors in your store, go to [Setting up payments with Notes Payable](/en/tutorial/setting-up-payments-with-notes-payable).
+If you have not yet configured the Notes Payable as a payment method in other connectors in your store, go to [Setting up payments with Notes Payable](/en/docs/tutorials/setting-up-payments-with-notes-payable).
 
 ## Setting up payment condition 
 

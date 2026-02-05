@@ -19,7 +19,7 @@ tags:
   - Precios
 ---
 
-El precio de un producto se envía al marketplace tras dos procesos: [la configuración del precio en la tienda del seller](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) y la catalogación de productos. Si uno de estos procesos no se lleva a cabo, el precio del producto del seller no estará disponible en el marketplace.  
+El precio de un producto se envía al marketplace tras dos procesos: [la configuración del precio en la tienda del seller](/es/docs/tracks/modulo-de-precios-vision-general) y la catalogación de productos. Si uno de estos procesos no se lleva a cabo, el precio del producto del seller no estará disponible en el marketplace.  
 
 ## Solución
 
@@ -27,7 +27,7 @@ Para resolver el problema, primero hay que identificar cuál de los procesos pre
 
 ### Configuración del módulo Precios
 
-La [configuración del módulo Precio](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) es donde el seller crea, edita y almacena los datos de precios de los SKUs vendidos en su tienda.  
+La [configuración del módulo Precio](/es/docs/tracks/modulo-de-precios-vision-general) es donde el seller crea, edita y almacena los datos de precios de los SKUs vendidos en su tienda.  
 
 Los mensajes de error de integración están disponibles en el menú Precio del Admin. Para acceder, ve a **Marketplace > Conexiones > Precio.**  
 
@@ -35,7 +35,7 @@ Consulta en la tabla siguiente los posibles mensajes de error relativos a la con
 
 |**Mensaje de error**|**Significado**|**Acción requerida**|
 |:--:|:--:|:--:|
-|Sale price cannot be updated to 29,99. Can not offer more then 70% off.| El seller no puede ofrecer más del 70 % de descuento sobre el [precio base](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) de un producto.| Cambia el precio del descuento a un valor que esté dentro del porcentaje exigido por el marketplace.|
+|Sale price cannot be updated to 29,99. Can not offer more then 70% off.| El seller no puede ofrecer más del 70 % de descuento sobre el [precio base](/es/docs/tracks/preco-base-definicao-de-conceito) de un producto.| Cambia el precio del descuento a un valor que esté dentro del porcentaje exigido por el marketplace.|
 |Comprueba que este SKU tiene un precio registrado para esta política o que el precio no venció.| El precio del SKU no se ha registrado en la [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) utilizada en la integración con el marketplace o ha vencido.| Registra el precio del SKU en la política comercial utilizada para integrar la tienda con el marketplace.|
 
 ### Catalogación de productos

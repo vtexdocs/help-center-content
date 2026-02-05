@@ -15,7 +15,7 @@ trackSlugEN: configurar-integracao-com-o-magazine-luiza
 order: 7
 ---
 
-Ao finalizar a [integração](/pt/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y/5CEVGKgtrMuifbjNoo8jKX) da sua loja VTEX com o Magazine Luiza, você estará compartilhando seus produtos, e gerenciando em um só lugar os pedidos realizados no marketplace, as atualizações de preços e produtos, pontos de retirada e também o estoque dos produtos.  
+Ao finalizar a [integração](/pt/docs/tracks/magazine-luiza-marketplace) da sua loja VTEX com o Magazine Luiza, você estará compartilhando seus produtos, e gerenciando em um só lugar os pedidos realizados no marketplace, as atualizações de preços e produtos, pontos de retirada e também o estoque dos produtos.  
 
 Além da integração básica, veja a seguir quais são as funcionalidades disponíveis, para que serve cada uma e aproveite ao máximo a integração.  
 

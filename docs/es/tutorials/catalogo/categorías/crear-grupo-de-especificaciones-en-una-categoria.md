@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
-«Grupo» es el nombre que se le da a un conjunto de [especificaciones (campos)](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) relacionadas con los productos o SKU de determinada [categoría](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf).
+«Grupo» es el nombre que se le da a un conjunto de [especificaciones (campos)](/es/docs/tracks/especificaciones-definicion-de-concepto) relacionadas con los productos o SKU de determinada [categoría](/es/docs/tracks/categorias-definicion-de-concepto).
 
 En VTEX, una especificación siempre forma parte de un grupo de especificaciones que está asociado a una categoría. Es precisamente por esto que, para crear una [especificación de producto](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto) o una [especificación de SKU](/es/docs/tutorials/registrar-especificaciones-o-campos-de-sku), debe existir, al menos, el registro de una categoría y de un grupo de especificaciones.
 
@@ -52,7 +52,7 @@ Puedes crear los campos que consideres necesarios dentro de un grupo. Los campos
 
 ## Más información
 
-* [Categorías - Definición de concepto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
-* [Especificaciones de producto y de SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
+* [Categorías - Definición de concepto](/es/docs/tracks/categorias-definicion-de-concepto)
+* [Especificaciones de producto y de SKU](/es/docs/tracks/especificaciones-definicion-de-concepto)
 * [Registrar especificaciones o campos de producto](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto)
 * [Registrar especificaciones o campos de SKU](/es/docs/tutorials/registrar-especificaciones-o-campos-de-sku)

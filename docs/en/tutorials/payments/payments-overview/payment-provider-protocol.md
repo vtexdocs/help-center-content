@@ -27,7 +27,7 @@ The protocol has the following features:
 - Payment redirection flow support (3P).
 - OAuth protocol support for authentication.
 
-More information about the payment protocol flow can be found in the [Payment Protocol flow section](/en/tutorial/payment-provider-protocol#payment-protocol-flow).
+More information about the payment protocol flow can be found in the [Payment Protocol flow section](/en/docs/tutorials/payment-provider-protocol#payment-protocol-flow).
 You can find references to the protocol API [here](https://developers.vtex.com/docs/guides/payment-provider-protocol-api-overview).
 
 ## Concepts
@@ -84,7 +84,7 @@ For these types of providers, VTEX does not require evidence of PCI DSS certific
 Next, we will present step-by-step information on integrating payments with VTEX.
 
 ### 1. Implementing the protocol
-Before setting up the VTEX environment, the provider must implement the back-end service required to receive and process payments (APIs). More information about the protocol payment flow can be found in the [Payment Protocol flow section](/en/tutorial/payment-provider-protocol#payment-protocol-flow). You can find references to the protocol API [here](https://developers.vtex.com/docs/guides/payment-provider-protocol-api-overview).
+Before setting up the VTEX environment, the provider must implement the back-end service required to receive and process payments (APIs). More information about the protocol payment flow can be found in the [Payment Protocol flow section](/en/docs/tutorials/payment-provider-protocol#payment-protocol-flow). You can find references to the protocol API [here](https://developers.vtex.com/docs/guides/payment-provider-protocol-api-overview).
 
 ### 2. Specific use cases
 In some cases, connectors can be built for a specific solution. The references below will help you identify such cases:
@@ -223,7 +223,7 @@ See below an example of a payload forwarded along with the callback URL:
 
 When making the callback request, we recommend that payment providers use the callback URL exactly as received, which guarantees that all the parameters are included.
 
-When calling Callback URL, your provider should send in the request the *X-VTEX-API-AppKey* and *X-VTEX-API-AppToken* headers. Check more information about this in the [VTEX credentials section](/en/tutorial/payment-provider-protocol#vtex-credentials).
+When calling Callback URL, your provider should send in the request the *X-VTEX-API-AppKey* and *X-VTEX-API-AppToken* headers. Check more information about this in the [VTEX credentials section](/en/docs/tutorials/payment-provider-protocol#vtex-credentials).
 
 > ❗ In addition to the Callback URL, if the status is **undefined**, VTEX will try again to call the payment authorization endpoint. If the status returned on these calls remains **undefined**, calls will continue for up to 7 days. That's why **it's important that your provider be ready to receive the same payment authorization several times**.
 

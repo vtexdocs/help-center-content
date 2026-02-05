@@ -24,7 +24,7 @@ Sales policies can be created to be used in marketplaces.
 
 To configure the product assortment, you will need to [associate the sales policy](/en/product-registration-fields) to the desired products.
 
-To configure logistics, follow the step-by-step described [in this article](/en/tutorial/configuring-logistics-for-a-marketplace).
+To configure logistics, follow the step-by-step described [in this article](/en/docs/tutorials/configuring-logistics-for-a-marketplace).
 
 To learn more, see our tutorial with more details on [how to set up a sales policy for a marketplace](/en/docs/tutorials/configuring-a-marketplace-trade-policy).
 
@@ -44,7 +44,7 @@ Affiliate registration will only be required in __the scenario where your store 
 
 Each marketplace must have a __unique affiliate identifier__.
 
-After creating an [affiliate](/en/tutorial/configuring-affiliates/), you must associate a sales policy with it. The sales policy contains the product assortment, logistics and price information that will be sent to the affiliate.
+After creating an [affiliate](/en/docs/tutorials/configuring-affiliates/), you must associate a sales policy with it. The sales policy contains the product assortment, logistics and price information that will be sent to the affiliate.
 
 > ℹ️ If the marketplace configuration is made through the [Bridge](/en/tutorial/configuring-a-marketplace-sales-policy/) module, the affiliate will be automatically created in the OMS.
 

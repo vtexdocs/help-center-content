@@ -29,7 +29,7 @@ A practical example: to hide the 'Pay with different cards' option, use the elem
 
 By using this feature, you may define delivery regions based on a geographical point (latitude and longitude) instead of a postal code.
 
-In case you wish to understand that feature in further details, read the article [Geolocation at Checkout](/en/tutorial/geolocation-at-checkout).
+In case you wish to understand that feature in further details, read the article [Geolocation at Checkout](/en/docs/tutorials/geolocation-at-checkout).
 
 __Attention:__ Once the API Key has been included in the Checkout configuration, the geolocation will be visible in your store checkout, even if you are not migrated to the new version of Smart Checkout._
 

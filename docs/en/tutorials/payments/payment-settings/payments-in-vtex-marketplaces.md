@@ -25,7 +25,7 @@ Learn more about the payment split and the settings required to configure the se
 
 Orders placed in a marketplace may contain items from multiple sellers, which are paid for in a unified checkout experience at the marketplace's storefront. VTEX offers the Payment split solution so that the total amount of the order is automatically divided according to the commissions configured when adding a seller.
 
-If the seller is the payment processor, they must operate under the conditions determined in our [Transaction split](/en/tutorial/split-payment#transaction-split). Similarly, if the VTEX marketplace is the payment processor, it must follow the [Payout split](/en/tutorial/split-payment#payout-split) flow or perform its transactions outside the VTEX environment.
+If the seller is the payment processor, they must operate under the conditions determined in our [Transaction split](/en/docs/tutorials/split-payment#transaction-split). Similarly, if the VTEX marketplace is the payment processor, it must follow the [Payout split](/en/docs/tutorials/split-payment#payout-split) flow or perform its transactions outside the VTEX environment.
 
 > ℹ️ VTEX clients in Brazil can use both transaction splits and payout splits. However, VTEX clients in other countries must only use transaction splits. Please note that some countries impose restrictions on transfers between sellers and marketplaces. Get in touch with your country's financial authorities to learn more about these restrictions before building your payment architecture.
 
@@ -51,7 +51,7 @@ When you [Add a seller](/en/docs/tutorials/adding-a-seller), the marketplace con
 For the marketplace system to process payments, you need to access the [Payments](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) section in the VTEX environment and configure the following:
 
 - [Payment providers](https://help.vtex.com/docs/tracks/configuring-payment-connectors)
-- [Payment conditions](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3)
+- [Payment conditions](/en/docs/tracks/configuring-a-payment-condition)
 - [Anti-fraud solution](/en/docs/tutorials/how-to-configure-the-anti-fraud)
 
 To finish configuring a marketplace as the payment processor, when [Configuring an affiliate](/en/docs/tutorials/configuring-affiliates), the __Use my payment method__ option must be unchecked.
@@ -62,7 +62,7 @@ For the seller's system to process payments, the seller needs to access the [Pay
 
 - [Trade policies for marketplaces](/en/docs/tutorials/configuring-a-marketplace-trade-policy)
 - [Payment providers](https://help.vtex.com/docs/tracks/configuring-payment-connectors)
-- [Payment conditions](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3)
+- [Payment conditions](/en/docs/tracks/configuring-a-payment-condition)
 - [Anti-fraud solution](/en/docs/tutorials/how-to-configure-the-anti-fraud)
 
 Once the Payments system is configured, when [Configuring an affiliate](/en/docs/tutorials/configuring-affiliates) for the marketplace in question, the seller needs to select the __Use my payment method__ option.

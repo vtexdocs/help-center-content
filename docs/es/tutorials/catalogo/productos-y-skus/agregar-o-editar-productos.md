@@ -55,7 +55,7 @@ Los campos de esta sección incluyen datos generales sobre el producto:
   > ℹ️ Este campo te permite añadir una imagen a la descripción del producto usando una etiqueta HTML que contenga la URL de la imagen. Sin embargo, te recomendamos gestionar las imágenes de tu catálogo como [contenidos multimedia de los SKUs](/es/tutorial/agregar-o-editar-skus--4ryZ6J45kwn3jDiQBxGiiN#contenido-multimedia).
 
 * **Descripción adicional:** al activar el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i> **Descripción adicional**, se muestra un cuadro de texto en el que puedes ingresar información adicional del producto, como un resumen.
-* **Marca*:** ingresa o busca el nombre de la [marca](/es/docs/tutorials/que-es-una-marca) del producto y selecciona la opción deseada. Debes asegurarte de [registrar la marca](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7lEGOSpAlQJCs5eUc5XFmR) con anterioridad y confirmar que esté activa.
+* **Marca*:** ingresa o busca el nombre de la [marca](/es/docs/tutorials/que-es-una-marca) del producto y selecciona la opción deseada. Debes asegurarte de [registrar la marca](/es/docs/tracks/registrar-marcas) con anterioridad y confirmar que esté activa.
 * **Categoría*:** ingresa o busca el nombre de la [categoría](/es/docs/tutorials/que-es-una-categoria) del producto y selecciona la opción deseada utilizando el nivel de categoría más específico. Debes asegurarte de [registrar la categoría](/es/docs/tutorials/registrar-categoria) con anterioridad y confirmar que esté activa.
 * **Políticas comerciales:** selecciona si el producto debe estar vinculado a "Todas las [políticas comerciales](/es/docs/tutorials/como-funciona-una-politica-comercial)" o a "Políticas comerciales específicas". La segunda opción es la que está marcada de forma predeterminada, pero debes asignarle uno o más valores al campo.
 
@@ -84,7 +84,7 @@ Los campos de esta sección definen ajustes del producto en el contexto del [sto
 
   > Ejemplo: para el producto "Televisión", algunas palabras sustitutas podrían ser "TV", "Tele" y "televisor".
 
-* **Categorías similares:** agrega los nombres de las [categorías similares](/es/tutorial/configurando-categoria-similar).
+* **Categorías similares:** agrega los nombres de las [categorías similares](/es/docs/tutorials/configurando-categoria-similar).
 * **Prioridad en el orden de búsqueda:** haz clic en las flechas para definir la prioridad en la página de resultados de búsqueda. No se pueden agregar valores negativos. Para más información, consulta [¿Cómo funciona el campo Puntuación?](/es/docs/tutorials/como-funciona-el-campo-puntuacion).
 
 ## Identificadores

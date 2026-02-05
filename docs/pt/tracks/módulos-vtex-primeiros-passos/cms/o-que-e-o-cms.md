@@ -26,6 +26,6 @@ O CMS oferece um conjunto de ferramentas que variam de acordo com a tecnologia q
 Confira nossos artigos sobre as funcionalidades relacionadas ao CMS para cada tecnologia:
 
 - [FastStore CMS](/pt/docs/tutorials/gerenciando-paginas)
-- [Store Framework CMS](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2)
+- [Store Framework CMS](/pt/docs/tracks/cms-vtex-io)
 - [CMS Portal (Legado)](/pt/docs/tutorials/o-que-e-o-cms-layout)
 

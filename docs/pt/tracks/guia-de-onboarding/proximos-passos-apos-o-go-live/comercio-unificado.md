@@ -19,11 +19,11 @@ order: 2
 
 ## Contas franquia e seller white label
 
-[Contas franquias](/pt/docs/tutorials/o-que-e-conta-franquia) são contas associadas a uma [conta principal](/pt/tracks/trilha-geral-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl). Para empresas que possuam múltiplas lojas físicas, franqueados ou multimarcas, é possível criar contas-franquia vinculadas à conta principal da marca.
+[Contas franquias](/pt/docs/tutorials/o-que-e-conta-franquia) são contas associadas a uma [conta principal](/pt/docs/tracks/contas-e-arquitetura). Para empresas que possuam múltiplas lojas físicas, franqueados ou multimarcas, é possível criar contas-franquia vinculadas à conta principal da marca.
 
 ![Conta principal](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/comercio-unificado_1.png)
 
-Esse modelo compartilha as informações do Catálogo e [frente de loja](/pt/tracks/trilha-geral-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ), permitindo que o inventário das contas franquia seja disponibilizado para venda na loja principal e que diversas estratégias de comércio unificado possam ser utilizadas, tais como, [Ship from store](#ship-from-store), [lojas físicas como pontos de retirada](#pontos-de-retirada) e [prateleira infinita](/pt/tracks/proximos-passos-apos-o-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm).
+Esse modelo compartilha as informações do Catálogo e [frente de loja](/pt/docs/tracks/implementacao-de-frontend), permitindo que o inventário das contas franquia seja disponibilizado para venda na loja principal e que diversas estratégias de comércio unificado possam ser utilizadas, tais como, [Ship from store](#ship-from-store), [lojas físicas como pontos de retirada](#pontos-de-retirada) e [prateleira infinita](/pt/docs/tracks/produtos-add-on).
 
 Outras vantagens em operar com contas franquia estão listadas a seguir:
 
@@ -38,11 +38,11 @@ Outras vantagens em operar com contas franquia estão listadas a seguir:
 
 ## Ship from store
 
-Lojas físicas podem funcionar como mini centros de distribuição, possibilitando o envio de produtos direto do seu estoque para o endereço do cliente. Este tipo de operação reduz custos e tempo de envio, melhorando o planejamento logístico da empresa. Saiba mais em [Ship From Store](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/50GAmxxFsJoLWqcnMysWdl).
+Lojas físicas podem funcionar como mini centros de distribuição, possibilitando o envio de produtos direto do seu estoque para o endereço do cliente. Este tipo de operação reduz custos e tempo de envio, melhorando o planejamento logístico da empresa. Saiba mais em [Ship From Store](/pt/docs/tracks/configurar-ship-from-store).
 
 ## Pontos de retirada
 
-Configurar [pontos de retirada](/pt/docs/tutorials/pontos-de-retirada) física de produtos contribui para operações que aplicam [estratégias de comércio unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3), onde a experiência de compra do cliente é otimizada por meio da venda e gerenciamento de pedidos centralizados e disponibilidade de múltiplas opções de entrega. Na VTEX, os seguintes pontos de retirada podem ser cadastrados:
+Configurar [pontos de retirada](/pt/docs/tutorials/pontos-de-retirada) física de produtos contribui para operações que aplicam [estratégias de comércio unificado](/pt/docs/tracks/comercio-unificado-101), onde a experiência de compra do cliente é otimizada por meio da venda e gerenciamento de pedidos centralizados e disponibilidade de múltiplas opções de entrega. Na VTEX, os seguintes pontos de retirada podem ser cadastrados:
 
 - Centro de distribuição (CD).
 - Loja física própria.

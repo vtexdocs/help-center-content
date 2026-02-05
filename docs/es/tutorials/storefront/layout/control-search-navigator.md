@@ -21,7 +21,7 @@ El control `<vtex.cmc:searchNavigator/>` renderiza un menú de filtros relaciona
 
 > ℹ️ Este control funciona **apenas en páginas con contexto de búsqueda**; es decir, páginas donde los resultados mostrados fueron traídos por una búsqueda de usuario.
 
-Cuando el usuario realiza una búsqueda en la tienda, el sistema de VTEX intenta traer resultados de acuerdo con un orden de prioridad de filtros. [Entienda cómo funciona la búsqueda aquí.](/es/tutorial/como-funciona-la-busqueda-de-vtex)
+Cuando el usuario realiza una búsqueda en la tienda, el sistema de VTEX intenta traer resultados de acuerdo con un orden de prioridad de filtros. [Entienda cómo funciona la búsqueda aquí.](/es/docs/tutorials/como-funciona-la-busqueda-de-vtex)
 
 Digamos, por ejemplo, que el resultado sea un contexto de categoría. Es decir, el usuario buscó, por ejemplo, por el término "Camisas", el sistema identificó que existe una categoría con el nombre "Camisas" y cargó la página de esa categoría - usando, por lo tanto, el template de categoría. Si el control Search Navigator está en el código de ese template, va a renderizar un menú con filtros en la página.
 
@@ -50,7 +50,7 @@ Este flag está en la pantalla de registro de la categoría.
 
 ![Cómo funciona el control Search Navigator ES 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/control-search-navigator_2.png)
 
-> ℹ️ **Importante**: El control  `&lt;vtex.cmc:searchNavigator/&gt;` exhibe, por estándar, apenas la categoría base (primer nivel) y la subcategoría más específica (último nivel) dentro del contexto actual. Se omiten las divisiones intermedias en el árbol de categorías. Además, el control solo funciona en los primeros tres niveles, que son tradicionalmente Departamento, Categoría y Subcategoría. Si su  [arquitectura de catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) contiene subdivisiones más allá del tercer nivel, no se mostrarán con el control nativo.
+> ℹ️ **Importante**: El control  `&lt;vtex.cmc:searchNavigator/&gt;` exhibe, por estándar, apenas la categoría base (primer nivel) y la subcategoría más específica (último nivel) dentro del contexto actual. Se omiten las divisiones intermedias en el árbol de categorías. Además, el control solo funciona en los primeros tres niveles, que son tradicionalmente Departamento, Categoría y Subcategoría. Si su  [arquitectura de catálogo](/es/docs/tracks/arquitectura-del-catalogo) contiene subdivisiones más allá del tercer nivel, no se mostrarán con el control nativo.
 
 ## Marcas
 
@@ -81,7 +81,7 @@ Ambos se encuentran en la pantalla de registro del campo.
 
 ## Rangos de precio
 
-Si usted tiene algún [rango de precio](/es/tutorial/configurando-filtro-de-faixa-de-preco) configurado en la tienda, este también funciona como filtro y, por defecto, se muestra en el menú por el control Search Navigator.
+Si usted tiene algún [rango de precio](/es/docs/tutorials/configurando-filtro-de-faixa-de-preco) configurado en la tienda, este también funciona como filtro y, por defecto, se muestra en el menú por el control Search Navigator.
 
 Por ser filtros registrados en las categorías, los rangos de precio solo se visualizan en páginas de departamento o categoría.
 

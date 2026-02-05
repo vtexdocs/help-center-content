@@ -41,4 +41,4 @@ A nova interface já está disponível para toda nossa base de clientes que util
 
 Todos os clientes que utilizavam a planilha de mapeamento para enviar seus produtos não precisarão utilizá-la mais, e a planilha será descontinuada até o fim de novembro de 2021. Os produtos que já foram mapeados pela planilha continuam sendo anunciados pelo Mercado Livre. Apenas os novos produtos que serão enviados terão que ser mapeados utilizando a nova interface. 
 
-Para saber mais sobre como utilizar a nova interface, leia o artigo [Enviar produtos para o Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).
+Para saber mais sobre como utilizar a nova interface, leia o artigo [Enviar produtos para o Mercado Livre](/pt/docs/tracks/mapear-categorias-e-atributos-dos-produtos-para-o-mercado-livre-mapper).

@@ -53,7 +53,7 @@ Para agregar sellers a una cuenta del Seller Portal, sigue las instrucciones en 
 
 ## Mapear la arquitectura del Catálogo
 
-El [catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) de los _sellers_ que venden productos en tu _marketplace_ tiene una estructura diferente a la tuya, ya sean _sellers_ VTEX o externos. Hay dos momentos en los que es necesario compatibilizar los catálogos: 
+El [catálogo](/es/docs/tracks/arquitectura-del-catalogo) de los _sellers_ que venden productos en tu _marketplace_ tiene una estructura diferente a la tuya, ya sean _sellers_ VTEX o externos. Hay dos momentos en los que es necesario compatibilizar los catálogos: 
 
 - Cuando el _seller_ envía sus productos por primera vez a un _marketplace_ VTEX.  
 - Cuando hay productos de los _sellers_ con información no mapeada.  

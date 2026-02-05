@@ -188,7 +188,7 @@ Esta seção inclui os campos relacionados às estratégias de venda da loja:
 
 ## Customizações
 
-Os SKUs podem ser configurados para oferecer opções customizadas aos clientes. Por exemplo, o cliente pode escolher adicionar um nome em uma camiseta. Estas customizações podem ser de dois tipos: [anexos](/pt/docs/tutorials/o-que-e-um-anexo) e [serviços](/pt/tutorial/o-que-e-um-servico).
+Os SKUs podem ser configurados para oferecer opções customizadas aos clientes. Por exemplo, o cliente pode escolher adicionar um nome em uma camiseta. Estas customizações podem ser de dois tipos: [anexos](/pt/docs/tutorials/o-que-e-um-anexo) e [serviços](/pt/docs/tutorials/o-que-e-um-servico).
 
 Para vincular uma customização ao SKU, clique no ícone adicionar +, selecione a opção desejada e realize os respectivos passos:
 

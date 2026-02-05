@@ -28,7 +28,7 @@ To solve the problem of promotions not being applied to marketplaces, review the
 ### Selecting trade policies
 [Trade policies](/en/docs/tutorials/creating-a-trade-policy) define rules and conditions for applying promotions in marketplaces. You should select the right trade policy to ensure the promotion will apply as expected. Below are the steps for configuring a trade policy promotion.
 
-1. Create a [regular promotion](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+1. Create a [regular promotion](/en/docs/tracks/creating-regular-promotions).
 2. In the **Trade policy** section, select the `Equal to` and **Delivered by me (other stores)** options.
 3. Choose the desired trade policies associated with the marketplaces.
 4. Click `Save`.
@@ -38,7 +38,7 @@ To solve the problem of promotions not being applied to marketplaces, review the
 ### Selecting affiliates
 To ensure a promotion is applied correctly in a marketplace, select the desired affiliat The affiliate is the partner associated with the marketplace that makes the promotional products available. Below are the steps for correctly selecting an affiliate when configuring a promotion.
 
-1. Create a [regular promotion](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).  
+1. Create a [regular promotion](/en/docs/tracks/creating-regular-promotions).  
 2. Complete the **Affiliates** field with the name of the affiliate associated with the desired marketplace.  
 
    ![condições para promoção - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/promotion-not-applied-to-the-marketplace_2.png)

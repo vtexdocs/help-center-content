@@ -27,7 +27,7 @@ O protocolo conta com os seguintes recursos:
 - Suporte a fluxo de redirecionamento de pagamento (3P).
 - Suporte ao protocolo OAuth para autenticação.
 
-Mais informações sobre o fluxo de pagamento do protocolo podem ser encontradas na seção [Fluxo do protocolo de pagamento](/pt/tutorial/payment-provider-protocol#fluxo-do-protocolo-de-pagamento).
+Mais informações sobre o fluxo de pagamento do protocolo podem ser encontradas na seção [Fluxo do protocolo de pagamento](/pt/docs/tutorials/payment-provider-protocol#fluxo-do-protocolo-de-pagamento).
 Você pode encontrar referências à API do protocolo [aqui](https://developers.vtex.com/docs/guides/payment-provider-protocol-api-overview).
 
 ## Conceitos
@@ -80,13 +80,13 @@ Para estes tipos de provedores, a VTEX não solicita a comprovação de certific
 Em seguida, vamos apresentar passo a passo as informações referentes à integração de pagamentos com a VTEX.
 
 ### 1. Implementando o protocolo
-Antes de configurar o ambiente VTEX, o provedor deve implementar o serviço back-end necessário para receber e processar os pagamentos (API). Mais informações sobre o fluxo de pagamento do protocolo podem ser encontradas na seção [Fluxo do protocolo de pagamento](/pt/tutorial/payment-provider-protocol#fluxo-do-protocolo-de-pagamento). Você pode encontrar referências à API do protocolo [aqui](https://developers.vtex.com/docs/guides/payment-provider-protocol-api-overview).  
+Antes de configurar o ambiente VTEX, o provedor deve implementar o serviço back-end necessário para receber e processar os pagamentos (API). Mais informações sobre o fluxo de pagamento do protocolo podem ser encontradas na seção [Fluxo do protocolo de pagamento](/pt/docs/tutorials/payment-provider-protocol#fluxo-do-protocolo-de-pagamento). Você pode encontrar referências à API do protocolo [aqui](https://developers.vtex.com/docs/guides/payment-provider-protocol-api-overview).  
 
 ### 2. Casos de uso específicos
 Há casos em que conectores podem ser construídos para atender alguma solução específica. Abaixo se encontram referências na nossa documentação para instruir sobre esses casos:
 
 - [Payment Provider Framework (PPF)](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework): Solução para implementação de conectores através do VTEX IO a partir de um boilerplate. O boilerplate já vem com grande parte do trabalho feito, incluindo os endpoints do protocolo. A utilização do VTEX IO também acelera o processo de desenvolvimento e testes na loja.
-- [Payment Provider Protocol aplicado a pagamentos com POS - VTEX Sales App](https://developers.vtex.com/docs/guides/payments-integration-ppp-applied-to-pos): Aplicação do PPP para pagamentos em lojas físicas utilizando um terminal de pagamento (POS). Pode ser utilizado com cartões de crédito e débito. O fluxo do pagamento se inicia com uma compra feita no [VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) e então será feita a comunicação com o POS, onde o cliente irá inserir o cartão.
+- [Payment Provider Protocol aplicado a pagamentos com POS - VTEX Sales App](https://developers.vtex.com/docs/guides/payments-integration-ppp-applied-to-pos): Aplicação do PPP para pagamentos em lojas físicas utilizando um terminal de pagamento (POS). Pode ser utilizado com cartões de crédito e débito. O fluxo do pagamento se inicia com uma compra feita no [VTEX Sales App](/pt/docs/tracks/o-que-e-o-vtex-sales-app) e então será feita a comunicação com o POS, onde o cliente irá inserir o cartão.
 
 ### 3. Homologação do Payment Provider
 Depois de receber os dados de acesso e implementar o back-end, o provedor deve instalar a app Payment Provider Test Suite para acessar a ferramenta de testes. A instalação é feita por meio de [VTEX App Store](https://apps.vtex.com/vtex-payment-provider-test-suite/p). 
@@ -214,7 +214,7 @@ Veja abaixo, um exemplo de payload encaminhado junto ao callback URL:
 
 Ao fazer a solicitação de callback, recomendamos que os provedores de pagamento utilizem a callback URL exatamente como recebida, o que garante que todos os parâmetros estejam incluídos.
 
-Ao chamar a CallbackURL, seu provedor deve enviar no request os headers *X-VTEX-API-AppKey* e *X-VTEX-API-AppToken*. Mais informações sobre isso na [seção de credenciais VTEX](/pt/tutorial/payment-provider-protocol#credenciais-vtex).
+Ao chamar a CallbackURL, seu provedor deve enviar no request os headers *X-VTEX-API-AppKey* e *X-VTEX-API-AppToken*. Mais informações sobre isso na [seção de credenciais VTEX](/pt/docs/tutorials/payment-provider-protocol#credenciais-vtex).
 
 > ❗ Além da CallbackURL, se o status for **undefined**, a VTEX tentará novamente chamar o endpoint da autorização de pagamento. Se o status retornado nessas chamadas permanecer como **undefined**, as chamadas continuarão por até 7 dias. Por isso, **é importante que seu provedor esteja pronto para receber a mesma autorização de pagamento várias vezes**.
 

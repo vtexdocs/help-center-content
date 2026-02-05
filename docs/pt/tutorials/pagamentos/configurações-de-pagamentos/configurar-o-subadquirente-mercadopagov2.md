@@ -45,12 +45,12 @@ Para configurar o MercadoPagoV2, siga os passos abaixo:
 
 ## Configurar condições de pagamento
 
-Para configurar os métodos de pagamento padrões a serem processados pelo MercadoPagoV2, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento padrões a serem processados pelo MercadoPagoV2, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 
 ## Configurar métodos exclusivos de pagamento
 
-Para configurar métodos exclusivos de pagamento do Mercado Pago, acesse [configurar Mercado Pago Offline e Wallet como métodos de pagamento](/pt/tutorial/configurar-mercado-pago-offline-e-wallet-como-metodos-de-pagamentos).
+Para configurar métodos exclusivos de pagamento do Mercado Pago, acesse [configurar Mercado Pago Offline e Wallet como métodos de pagamento](/pt/docs/tutorials/configurar-mercado-pago-offline-e-wallet-como-metodos-de-pagamentos).
 
 Para maiores informações sobre a integração com o Mercado Pago, acesse o [DevSite Mercado Pago](https://www.mercadopago.com.br/developers/pt/docs/vtex/introduction).

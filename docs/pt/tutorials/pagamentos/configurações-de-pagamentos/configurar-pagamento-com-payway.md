@@ -34,7 +34,7 @@ Para configurar o Payway, siga os passos abaixo:
 8 Em **Campos do provedor**, selecione ou preencha os campos **Site ID**, **Api Key Public**, **Api Key Private**, **Payment type**, **Do you use Cybersource?**, **Cuotas MiPyme**, **Plan Z**, **Límite Superior de Captura Permitido (%)** e **Límite Inferior de Captura Permitido (%)** conforme as instruções do provedor.
 9. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela Payway, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela Payway, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

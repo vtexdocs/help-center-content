@@ -76,13 +76,13 @@ Esta funcionalidad solo admite una [política comercial](/es/docs/tutorials/como
 Algunas funcionalidades de **VTEX Sales App** se activan con determinadas características de arquitectura:
 
 * **Vender stock local (On Hands):** es recomendable que la tienda tenga [cuenta franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia), pues esto permite una estructura más organizada y facilita la gestión de la operación. Puedes, por ejemplo, tener stock y precios diferenciados para las cuentas franquicia.
-* **Vender stock remoto (pasillo infinito):** existen diferentes modelos de arquitectura para usar el [pasillo infinito](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn):
+* **Vender stock remoto (pasillo infinito):** existen diferentes modelos de arquitectura para usar el [pasillo infinito](/es/docs/tracks/pasillo-infinito):
     * La tienda puede tener cuentas franquicia o [sellers white label](/es/docs/tutorials/seller-white-label).
     * La tienda puede operar con [arquitectura multitienda](/es/docs/tutorials/elegir-entre-arquitectura-multitienda-o-entorno-adicional) para disponer de múltiples stocks.
 
 Si deseas poner a disposición de los clientes un gran volumen de ítems y tener una logística de envío optimizada, puedes usar en **VTEX Sales App** la misma política comercial del centro de distribución.
 
-> ℹ️ Para saber más, consulta [Requisitos previos para usar VTEX Sales App](/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u).
+> ℹ️ Para saber más, consulta [Requisitos previos para usar VTEX Sales App](/es/docs/tracks/requisitos-previos-para-usar-vtex-sales-app).
 
 ### 3. ¿Qué se necesita para que la tienda active la disponibilidad del stock local vía VTEX Sales App?
 
@@ -131,7 +131,7 @@ No existe tal limitación, **VTEX Sales App** puede utilizarse en diversos dispo
 
 Sí, el uso de la solución requiere conexión a internet, y la calidad de la señal impacta directamente la experiencia del cliente. Una conexión más rápida ofrece una mejor experiencia.
 
-> ℹ️ Si deseas saber más sobre las condiciones para usar la solución, consulta [Requisitos previos para usar VTEX Sales App](/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u).
+> ℹ️ Si deseas saber más sobre las condiciones para usar la solución, consulta [Requisitos previos para usar VTEX Sales App](/es/docs/tracks/requisitos-previos-para-usar-vtex-sales-app).
 
 ### 11. ¿Hay que ser cliente de VTEX para usar VTEX Sales App?
 
@@ -145,7 +145,7 @@ Para activar la **Vitrina de productos**, debes seguir las instrucciones descrit
 
 ### 13. ¿Es posible incluir banners y personalizaciones en la sección Anuncios de VTEX Sales App?
 
-No, no se pueden personalizar los [Anuncios de VTEX Sales App](/es/docs/tutorials/anuncios-de-vtex-sales-app), ya que siguen layouts predeterminados. Para conocer las modificaciones de experiencia posibles, consulta el artículo [Personalizar VTEX Sales App](/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/Rby973h1l9tEM4C1YrzwZ).
+No, no se pueden personalizar los [Anuncios de VTEX Sales App](/es/docs/tutorials/anuncios-de-vtex-sales-app), ya que siguen layouts predeterminados. Para conocer las modificaciones de experiencia posibles, consulta el artículo [Personalizar VTEX Sales App](/es/docs/tracks/personalizacion-de-vtex-sales-app).
 
 ## Pagos
 
@@ -159,9 +159,9 @@ La solución permite utilizar los siguientes [medios de pago](/es/docs/tutorials
 * [Pagaré](/es/docs/tutorials/configurar-pagos-con-pagare)
 * [Tarjeta de regalo](/es/docs/tutorials/gift-card) (el cliente puede utilizar el valor parcial o integral)
 
-Para finalizar una venta en **VTEX Sales App** con un medio de pago de tu tienda de ecommerce que no aparece en la lista anterior, los vendedores pueden usar el [carrito compartido (social selling)](/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy) y enviar el link de pago a los clientes. En estos casos, el pedido se procesa en el checkout de la tienda de ecommerce, no en el de **VTEX Sales App**, lo que permite que la tienda física utilice todos los medios de pago configurados en la tienda online.
+Para finalizar una venta en **VTEX Sales App** con un medio de pago de tu tienda de ecommerce que no aparece en la lista anterior, los vendedores pueden usar el [carrito compartido (social selling)](/es/docs/tracks/compartir-el-carrito-utilizando-vtex-sales-app-social-selling) y enviar el link de pago a los clientes. En estos casos, el pedido se procesa en el checkout de la tienda de ecommerce, no en el de **VTEX Sales App**, lo que permite que la tienda física utilice todos los medios de pago configurados en la tienda online.
 
-> ℹ️ VTEX Sales App no admite pagos en efectivo realizados en la caja de la tienda física. Para saber más, consulta [VTEX Sales App - Pagos](/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/2liigRors32hzqBNs2M1Oa).
+> ℹ️ VTEX Sales App no admite pagos en efectivo realizados en la caja de la tienda física. Para saber más, consulta [VTEX Sales App - Pagos](/es/docs/tracks/configuracion-de-metodos-de-pago-vtex-sales-app).
 
 ### 15. ¿Qué conectores de pago actúan como adquirentes para compras con tarjetas en VTEX Sales App?
 

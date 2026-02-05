@@ -17,7 +17,7 @@ order: 2
 
 The path that money travels when it is exchanged for a product or service is what we call a __transaction__.
 
-In a VTEX store, a transaction begins every time a user chooses a [payment condition](/en/tutorial/difference-between-payment-methods-and-payment-conditions) and completes the order. From there, the purchase data is sent to be validated by each member of the process.
+In a VTEX store, a transaction begins every time a user chooses a [payment condition](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) and completes the order. From there, the purchase data is sent to be validated by each member of the process.
 
 Transactions performed by VTEX payments module go through various statuses, from the beginning of the authorization process through the settlement of the value and the conclusion of the transaction.
 

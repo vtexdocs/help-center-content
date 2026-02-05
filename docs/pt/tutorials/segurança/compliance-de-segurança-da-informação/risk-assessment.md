@@ -157,7 +157,7 @@ Como operadora de dados, a VTEX trata dados pessoais de compradores somente quan
 * Número de identidade (quando exigido pelo país em que a loja opera)
 * Histórico do cartão-presente
 * Carrinho não utilizado
-* Conversas do [Conversation Tracker](/pt/tutorial/conversation-tracker)
+* Conversas do [Conversation Tracker](/pt/docs/tutorials/conversation-tracker)
 * Senhas de sessões (criptografadas)
 * Tokens gerados
 

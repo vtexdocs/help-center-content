@@ -53,7 +53,7 @@ Esto se hace en la página *Configuración* del módulo *Gestión de pedidos* de
 ## Promociones
 Los sellers pueden crear promociones con diferentes condiciones para los *marketplaces* en los que venden productos. Al crear una promoción, las políticas comerciales indican en qué *marketplaces* se aplicarán. Si desea crear una promoción para su tienda en un *marketplace* que ofrece una comisión más baja para sus productos, debe indicar la política comercial en la que se aplicará la promoción.
 
-La configuración se realiza en el módulo *Promociones* en todas las [promociones](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/4W2AA8MWwIy80z5UCYw0f9) que su tienda ofrece como *seller*. Para realizar la configuración:
+La configuración se realiza en el módulo *Promociones* en todas las [promociones](/es/docs/tracks/campanas-que-son-y-como-crearlas) que su tienda ofrece como *seller*. Para realizar la configuración:
 
 1. Seleccione la política comercial en el campo **Restringir políticas comerciales**. 
 2. Configure el origen de las promociones como `Entregado por mí`. 
@@ -90,7 +90,7 @@ Los *sellers* pueden definir una estrategia de precios diferente para cada *mark
 Esta configuración se realiza en el módulo *Precios* mediante políticas comerciales. Al definir los precios de los productos, los *sellers* deben tomar en cuenta que cada política comercial se crea con su propia tabla de precios. Para diferenciar los precios de las políticas comerciales, puede utilizar:
 
 - [Reglas de precio](/es/docs/tutorials/configurar-regla-de-precio-para-politica-comercial): para determinar un *markup* para categorías y marcas específicas;
-- [Precios fijos](/es/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy): para diferenciar precios en productos específicos.
+- [Precios fijos](/es/docs/tracks/precio-fijo-definicion-de-concepto): para diferenciar precios en productos específicos.
 
 ![ES Regra de preço](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/políticas-comerciales/configuración-de-políticas-comerciales/configurar-politica-comercial-para-marketplace_6.jpg)
 

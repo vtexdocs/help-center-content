@@ -38,13 +38,13 @@ O item permanece nesse status por um determinado tempo, e caso o pagamento não 
 
 _Tempo de expiração do pagamento + tempo de reserva no estoque_
 
-* **Tempo de expiração do pagamento:** tempo (em dias) definido para a realização do pagamento. No caso do pagamento por [boleto](/pt/tutorial/em-quanto-tempo-um-pedido-de-boleto-sem-pagamento-e-cancelado--frequentlyAskedQuestions_300#prazo-de-validade-do-boleto) ou [promissória](/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ#configurar-promissoria), esse prazo pode ser configurado no módulo **[Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB)**. Para os demais meios de pagamento, como cartão de crédito e wallet, não é possível configurar um prazo para a expiração do pagamento. O fluxo de pagamento é iniciado logo após o checkout, e a aprovação ou negação dele ocorrerá em diferentes períodos de tempo, conforme o meio de pagamento selecionado.
+* **Tempo de expiração do pagamento:** tempo (em dias) definido para a realização do pagamento. No caso do pagamento por [boleto](/pt/tutorial/em-quanto-tempo-um-pedido-de-boleto-sem-pagamento-e-cancelado--frequentlyAskedQuestions_300#prazo-de-validade-do-boleto) ou [promissória](/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ#configurar-promissoria), esse prazo pode ser configurado no módulo **[Pagamentos](/pt/docs/tracks/como-funciona-o-modulo-de-pagamentos)**. Para os demais meios de pagamento, como cartão de crédito e wallet, não é possível configurar um prazo para a expiração do pagamento. O fluxo de pagamento é iniciado logo após o checkout, e a aprovação ou negação dele ocorrerá em diferentes períodos de tempo, conforme o meio de pagamento selecionado.
 * **Tempo de reserva no estoque:** é definido automaticamente, seguindo as regras abaixo.
     * **quatro dias corridos:** quando o dia de expiração do pagamento for domingo, segunda ou terça.
     * **cinco dias corridos:** quando o dia de expiração do pagamento for quarta, quinta ou sexta.
     * **seis dias corridos:** quando o dia de expiração do pagamento for sábado.
 
-> ❗ Pedidos incompletos podem ter o tempo de reserva de 11 dias corridos. Para saber mais, confira o artigo [Como funcionam os pedidos incompletos](/pt/tutorial/entendendo-os-pedidos-incompletos).
+> ❗ Pedidos incompletos podem ter o tempo de reserva de 11 dias corridos. Para saber mais, confira o artigo [Como funcionam os pedidos incompletos](/pt/docs/tutorials/entendendo-os-pedidos-incompletos).
 
 Para marketplace externo, se a informação do tempo da reserva for enviada pelo campo `lockTTL`, o tempo de reserva não será calculado pela plataforma VTEX, e sim determinado pelo prazo no campo. Isso é feito pela chamada [Place order](https://developers.vtex.com/docs/api-reference/checkout-api#put-/api/checkout/pub/orders).
 

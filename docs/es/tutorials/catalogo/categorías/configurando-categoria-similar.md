@@ -36,7 +36,7 @@ Para configurar la categoría similar a nivel de producto, sigue los pasos a con
 
 ## Configurar categoría similar en otra categoría
 
-> ⚠️ Esta configuración sólo es compatible con las tiendas que utilizan el [CMS - Portal Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
+> ⚠️ Esta configuración sólo es compatible con las tiendas que utilizan el [CMS - Portal Legado](/es/docs/tracks/cms-portal-legado).
 
 Al editar una categoría, puede configurar su categoría similar. Cuando complete este tipo de configuración a nivel de categoría, el menú de navegación mostrará un enlace a la categoría similar en el nivel de categoría original.
 

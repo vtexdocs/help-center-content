@@ -35,7 +35,7 @@ Para realizar a atualização de itens em estoque de forma manual pelo Admin, si
 
 Para que os SKUs fiquem disponíveis, inclua as unidades disponíveis de cada SKU para cada estoque correspondente. Além disso, a atualização deve corresponder à quantidade de itens disponíveis no seu estoque. Assim você garante que os SKUs disponíveis na sua loja estão realmente disponíveis para envio. 
 
-Um pedido pode ter uma reserva ativa de SKU. Caso o produto não tenha sido despachado, será considerado apenas como **item reservado**. [Entenda mais sobre pedidos faturados e reservas](/pt/faq/por-que-meu-pedido-foi-faturado-e-o-produto-continua-reservado). Os pedidos com SKUs reservados continuarão listados como reservados e a sua venda continuará indisponível. [Entenda como funcionam as reservas](/pt/tutorial/como-a-reserva-funciona/).
+Um pedido pode ter uma reserva ativa de SKU. Caso o produto não tenha sido despachado, será considerado apenas como **item reservado**. [Entenda mais sobre pedidos faturados e reservas](/pt/faq/por-que-meu-pedido-foi-faturado-e-o-produto-continua-reservado). Os pedidos com SKUs reservados continuarão listados como reservados e a sua venda continuará indisponível. [Entenda como funcionam as reservas](/pt/docs/tutorials/como-a-reserva-funciona/).
 
 ## Estoque negativo
 
@@ -43,7 +43,7 @@ Pode ser que exista um número negativo de unidades de SKUs no inventário. Se h
 
 _Unidades disponíveis = unidades da última atualização - unidades reservadas_
 
-O estoque negativo normalmente ocorre quando há atualização na quantidade de itens de um SKU de um pedido em que os produtos já estavam reservados no inventário. Para evitar essa situação, é importante que a atualização da quantidade de SKUs ocorra com pedidos com status posterior a `Preparando entrega`. Dessa forma, a [reserva já terá sido reconhecida](/pt/tutorial/como-a-reserva-funciona/#reserva-reconhecida) e não haverá conflito entre os itens do inventário com os itens que de fato estão disponíveis para venda.
+O estoque negativo normalmente ocorre quando há atualização na quantidade de itens de um SKU de um pedido em que os produtos já estavam reservados no inventário. Para evitar essa situação, é importante que a atualização da quantidade de SKUs ocorra com pedidos com status posterior a `Preparando entrega`. Dessa forma, a [reserva já terá sido reconhecida](/pt/docs/tutorials/como-a-reserva-funciona/#reserva-reconhecida) e não haverá conflito entre os itens do inventário com os itens que de fato estão disponíveis para venda.
 
 ![gerenciar inventario](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/inventário/atualizacao-da-quantidade-de-itens-em-estoque_1.gif)
 

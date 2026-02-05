@@ -28,7 +28,7 @@ Para solucionar el problema de promociones que no se aplican en los marketplaces
 ### Seleccionar política comercial
 La [política comercial](/es/docs/tutorials/crear-una-politica-comercial) define las reglas y condiciones de aplicación de las promociones en marketplaces. Es importante seleccionar la política comercial correcta para garantizar que la promoción se aplique según lo esperado. A continuación se indican los pasos a seguir para crear una promoción que contemple correctamente la política comercial.
 
-1. Crea una [promoción regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+1. Crea una [promoción regular](/es/docs/tracks/crear-promocion-regular).
 2. En la sección __Política comercial__, selecciona las opciones `igual a` y __Entregado por mí (Otras tiendas)__.
 3. Selecciona las políticas comerciales que deseas asociar a los marketplaces.
 4. Haz clic en `Guardar`.

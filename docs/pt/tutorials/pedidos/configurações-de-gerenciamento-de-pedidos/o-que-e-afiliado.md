@@ -18,8 +18,8 @@ order: 1
 
 > ℹ️ O conceito de afiliado da VTEX é diferente da [definição usual](https://pt.wikipedia.org/wiki/Programa_de_afiliados). Leia abaixo para saber mais.
 
-[Configurar afiliado](/pt/tutorial/como-configurar-afiliado) será necessário apenas quando a loja atuar como seller de um marketplace.
+[Configurar afiliado](/pt/docs/tutorials/como-configurar-afiliado) será necessário apenas quando a loja atuar como seller de um marketplace.
 
-O afiliado funciona de uma maneira diferente das [políticas comerciais](/pt/docs/tutorials/como-funciona-uma-politica-comercial), pois todo marketplace deve corresponder a um código de afiliado único para o seller. Ou seja, o seller cria um afiliado para identificar o marketplace, e ainda que se utilize a mesma política comercial em marketplaces, os afiliados devem ser diferentes. Caso o seller integre com um [conector nativo](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), o [afiliado](/pt/tutorial/como-configurar-afiliado) será criado automaticamente.
+O afiliado funciona de uma maneira diferente das [políticas comerciais](/pt/docs/tutorials/como-funciona-uma-politica-comercial), pois todo marketplace deve corresponder a um código de afiliado único para o seller. Ou seja, o seller cria um afiliado para identificar o marketplace, e ainda que se utilize a mesma política comercial em marketplaces, os afiliados devem ser diferentes. Caso o seller integre com um [conector nativo](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), o [afiliado](/pt/docs/tutorials/como-configurar-afiliado) será criado automaticamente.
 
-Além da identificação de pedidos, os afiliados também funcionam como um webhook que notifica o serviço externo sobre mudanças em informações de um SKU, estoque ou preço. Saiba mais em [Guia de Integração - Consumir as informações do catálogo para utilizar em um Serviço Externo](/pt/tutorial/guia-de-integracao-consumir-as-informacoes-do-catalogo).
+Além da identificação de pedidos, os afiliados também funcionam como um webhook que notifica o serviço externo sobre mudanças em informações de um SKU, estoque ou preço. Saiba mais em [Guia de Integração - Consumir as informações do catálogo para utilizar em um Serviço Externo](/pt/docs/tutorials/guia-de-integracao-consumir-as-informacoes-do-catalogo).

@@ -23,7 +23,7 @@ We start this article with a reminder of the fact that the tendency and good pra
 
 The creation of a separate mobile version was a practice adopted when the CSS resources made it hard to adapt a desktop version for mobile use. Today, with the resources that the CSS offers, it has become standard practice to create a responsive version. 
 
-To read more about this, check the article [Responsive vs. Mobile Version](/en/tutorial/responsive-vs-mobile-version).
+To read more about this, check the article [Responsive vs. Mobile Version](/en/docs/tutorials/responsive-vs-mobile-version).
 
 The purpose of this article is to illustrate how to prepare a development environment for a mobile version, without affecting the production version.
 

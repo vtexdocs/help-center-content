@@ -30,7 +30,7 @@ Whenever there is a change in product status or information, a reindexing flow i
 - Creation or removal of a collection
 - Changes in price or stock quantity
 
-> ℹ️ For more details about indexing a product in [legacy](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) stores, see [How indexing works (Legacy CMS Portal)](/en/docs/tutorials/understanding-how-indexation-works). If your store uses [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), see [Indexing History (Intelligent Search)](/en/docs/tutorials/indexing-history).
+> ℹ️ For more details about indexing a product in [legacy](/en/docs/tracks/legacy-cms-portal) stores, see [How indexing works (Legacy CMS Portal)](/en/docs/tutorials/understanding-how-indexation-works). If your store uses [Intelligent Search](/en/docs/tracks/overview-intelligent-search), see [Indexing History (Intelligent Search)](/en/docs/tutorials/indexing-history).
 
 In some cases, the indexing process may be interrupted, resulting in the latest updated product information not being displayed on the store's website. Here are a few scenarios where such interruption can occur:
 
@@ -95,9 +95,9 @@ After adjusting the number of SKUs per product, check the indexing report, as de
 
 ### Remove SKUs from collections 
 
-> ℹ️ There are two ways to remove a SKU from a collection: via the [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) or using the **Collections (Beta)** module. This section shows how to remove a SKU from a collection in the **Legacy CMS Portal**. For more information about the process in the **Collections (Beta)** module, see [Product removal](/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#product-removal).  
+> ℹ️ There are two ways to remove a SKU from a collection: via the [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal) or using the **Collections (Beta)** module. This section shows how to remove a SKU from a collection in the **Legacy CMS Portal**. For more information about the process in the **Collections (Beta)** module, see [Product removal](/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#product-removal).  
 
-If any of the product's SKUs are included in a [collection](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/4hN41yU8IPeb8HKmmaXoca), this might also cause an indexing timeout. Follow the steps below to check if the SKU is included in one or more collections:  
+If any of the product's SKUs are included in a [collection](/en/docs/tracks/collections-concept-definition), this might also cause an indexing timeout. Follow the steps below to check if the SKU is included in one or more collections:  
 
 1. In the Admin, go to __Storefront > Layout__.
 2. Click the __CMS__ folder and __Product Cluster (Collections)__.

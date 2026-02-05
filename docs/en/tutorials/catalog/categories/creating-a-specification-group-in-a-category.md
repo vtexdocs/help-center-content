@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
-A group is defined by a set of [specifications](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) (fields) related to products or SKUs of a certain [category](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf).
+A group is defined by a set of [specifications](/en/docs/tracks/specifications-concept-definition) (fields) related to products or SKUs of a certain [category](/en/docs/tracks/categories-concept-definition).
 
 At VTEX, a specification is always included in a specification group associated with a category. Therefore, to create [a product specification](/en/docs/tutorials/adding-specifications-or-product-fields) or a [SKU specification](/en/docs/tutorials/adding-sku-specifications-or-fields), you must first have at least one category and one specification group already created.
 
@@ -52,7 +52,7 @@ You can create as many fields as you consider necessary in the group. The create
 
 ## Learn more
 
-* [Categories](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
-* [Product and SKU specifications](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
+* [Categories](/en/docs/tracks/categories-concept-definition)
+* [Product and SKU specifications](/en/docs/tracks/specifications-concept-definition)
 * [Adding specifications or product fields](/en/docs/tutorials/adding-specifications-or-product-fields)
 * [Adding SKU specifications or fields](/en/docs/tutorials/adding-sku-specifications-or-fields)

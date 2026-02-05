@@ -16,7 +16,7 @@ order: 2
 ---
 
 
-Before installing the VTEX Sales App application on the devices intended for use by your store's sales associates, make sure that you [have the necessary equipment and meet all the prerequisites](/en/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u).
+Before installing the VTEX Sales App application on the devices intended for use by your store's sales associates, make sure that you [have the necessary equipment and meet all the prerequisites](/en/docs/tracks/prerequisites-for-using-vtex-sales-app).
 
 It is also crucial to [set up VTEX Sales App in the Admin](/en/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc) before you start using it on these devices.
 

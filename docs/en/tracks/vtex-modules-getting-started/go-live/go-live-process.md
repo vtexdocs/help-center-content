@@ -15,7 +15,7 @@ trackSlugEN: go-live
 order: 1
 ---
 
-If you have [configured your store's operation](/en/tracks) and [built your storefront](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z), it is time to go live. This process puts your new VTEX store into production, making it available for customers to access it and make purchases.
+If you have [configured your store's operation](/en/tracks) and [built your storefront](/en/docs/tracks/what-is-the-cms), it is time to go live. This process puts your new VTEX store into production, making it available for customers to access it and make purchases.
 
 Here you will find detailed step-by-step instructions on how to go live with your store.
 
@@ -35,12 +35,12 @@ Copy this [Store configuration checklist](https://cdn.statically.io/gh/vtexdocs/
 
 Your store's go-live process may vary depending on some aspects of your operation. As some steps are time-sensitive, we recommend you plan your go-live process at least 15 days in advance.
 
-> ℹ️ If you use the Legacy CMS Portal and want to migrate to a storefront built using [CMS IO](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), follow the instructions in the [Migrating your storefront from Legacy CMS Portal to Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io) guide.
+> ℹ️ If you use the Legacy CMS Portal and want to migrate to a storefront built using [CMS IO](/en/docs/tracks/cms-vtex-io), follow the instructions in the [Migrating your storefront from Legacy CMS Portal to Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io) guide.
 
 For organization and convenience, this guide divides the steps involved in the go-live into four stages:
 
-1. [Settings](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7wFsbWgN4rnZsbjhv8IItX)
-2. [Pre-go-live](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ)
-3. [Go-live](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj)
-4. [Post-go-live](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/K8UQ6W7MhH1ovp91kJxBJ)
+1. [Settings](/en/docs/tracks/settings)
+2. [Pre-go-live](/en/docs/tracks/pre-go-live)
+3. [Go-live](/en/docs/tracks/go-live)
+4. [Post-go-live](/en/docs/tracks/post-go-live)
 

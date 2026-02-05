@@ -19,7 +19,7 @@ A logística ou fulfillment é o processo de planejamento, transporte e armazena
 
 A VTEX possibilita o cadastro e controle dos estoques, o gerenciamento das tarifas de envio, o controle da disponibilidade dos itens e o acompanhamento das entregas. 
 
-> ℹ️ Se a sua loja não trilhou os primeiros passos do módulo **Envio**, confira o artigo [Primeiros passos da Logística](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/6Y8C1JuPtO5E61Ew91tq1a).</b> Confira o artigo [Glossário de logística](/pt/docs/tutorials/glossario-de-logistica), para conhecer os significados de termos logísticos utilizados na VTEX. Há também as configurações de logística disponíveis via [API](https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview).
+> ℹ️ Se a sua loja não trilhou os primeiros passos do módulo **Envio**, confira o artigo [Primeiros passos da Logística](/pt/docs/tracks/primeiros-passos-da-logistica).</b> Confira o artigo [Glossário de logística](/pt/docs/tutorials/glossario-de-logistica), para conhecer os significados de termos logísticos utilizados na VTEX. Há também as configurações de logística disponíveis via [API](https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview).
 
 Para saber quais configurações logísticas são necessárias e como são realizadas, primeiro é preciso entender as etapas do fluxo de compra de um produto:
 
@@ -32,9 +32,9 @@ Para saber quais configurações logísticas são necessárias e como são reali
 
     Após a finalização do pedido, os produtos têm sua [reserva autorizada](/pt/tutorial/como-a-reserva-funciona--tutorials_92?&utm_source=autocomplete#reserva-autorizada). Assim, a plataforma garante que os itens não podem ser vendidos novamente. 
 
-4. Quando o [pagamento ](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB)é confirmado, a[ reserva também é confirmada](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada).
+4. Quando o [pagamento ](/pt/docs/tracks/como-funciona-o-modulo-de-pagamentos)é confirmado, a[ reserva também é confirmada](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada).
 5. Depois da confirmação do pagamento e da expiração do [tempo de carência para cancelamento](/pt/docs/tutorials/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido), a plataforma espera o lojista realizar o manuseio dos itens. Quando o lojista[ inicia o manuseio,](/pt/docs/tutorials/passar-pedido-para-o-status-preparando-entrega) ele sinaliza para a plataforma que os itens do pedido e suas notas fiscais estão sendo preparados. A partir desse estágio a [reserva passa a ser reconhecida](/pt/tutorial/como-a-reserva-funciona--tutorials_92?&utm_source=autocomplete#reserva-reconhecida).
-6. A loja inclui a [nota fiscal](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT) do pedido na plataforma.  
+6. A loja inclui a [nota fiscal](/pt/docs/tracks/faturar-um-pedido) do pedido na plataforma.  
 7. É iniciado o processo de envio:
     * Para os pedidos que são enviados para o endereço do cliente (entrega), a loja encaminha os pacotes à [doca ](/pt/docs/tutorials/doca)onde a [transportadora ](/pt/docs/tutorials/transportadoras-na-vtex)deve retirá-los. A transportadora (escolhida através das [políticas de envio](/pt/docs/tutorials/politica-de-envio)) realiza a entrega do pedido.
     * Para os pedidos que são enviados para os [pontos de retirada](/pt/docs/tutorials/pontos-de-retirada) (retirada), a loja deve deixar os pacotes disponíveis para o cliente retirar. Para isso, os pacotes são retirados do [estoque](/pt/docs/tutorials/estoque) e transportados até o ponto de retirada. O transporte da doca até o ponto de retirada é definido por uma[ política de envio](/pt/docs/tutorials/politica-de-envio).
@@ -120,7 +120,7 @@ Normalmente essa funcionalidade é utilizada em endereços de zonas rurais e ind
    <td class="t-body pa5" style="min-width: 15rem;">Cadastro de dias que não devem ser considerados úteis para a sua loja. Os dias cadastrados como feriados não são contabilizados no prazo de entrega dos pedidos.
 <body>
 <ul>
-<li>[Cadastrar feriado.](/pt/tutorial/cadastrar-feriados)</li>  
+<li>[Cadastrar feriado.](/pt/docs/tutorials/cadastrar-feriados)</li>  
 </ul>
 </body>
    </td>
@@ -132,10 +132,10 @@ Normalmente essa funcionalidade é utilizada em endereços de zonas rurais e ind
 <body>
  <ul>
 <li>[Adicional de frete](/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV?&utm_source=autocomplete#adicional-de-frete): custo extra sobre o valor da [tarifa de envio](/pt/docs/tutorials/tarifas-de-envio);</li>
-<li>[Remessa](/pt/tutorial/como-funciona-a-remessa): envio de um grupo de pacotes reunidos;</li>
-<li>[Modal](/pt/tutorial/como-funciona-o-modal): modalidade de itens aceitos para entrega. </li>
-<li>[Divisão de carga](/pt/tutorial/como-funciona-a-divisao-de-carga): como os produtos devem ser divididos para a entrega do pedido.</li>
-<li>[Alerta de estoque crítico](/pt/tutorial/configurar-o-alerta-de-estoque-critico): alerta para quando a quantidade de itens está abaixo do previsto. </li>
+<li>[Remessa](/pt/docs/tutorials/como-funciona-a-remessa): envio de um grupo de pacotes reunidos;</li>
+<li>[Modal](/pt/docs/tutorials/como-funciona-o-modal): modalidade de itens aceitos para entrega. </li>
+<li>[Divisão de carga](/pt/docs/tutorials/como-funciona-a-divisao-de-carga): como os produtos devem ser divididos para a entrega do pedido.</li>
+<li>[Alerta de estoque crítico](/pt/docs/tutorials/configurar-o-alerta-de-estoque-critico): alerta para quando a quantidade de itens está abaixo do previsto. </li>
 </ul>
 </body>
    </td>

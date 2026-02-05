@@ -17,7 +17,7 @@ announcementSynopsisEN: "Credit Control will be replaced by VTEX's new credit so
 
 __Customer Credit__ is VTEX's new solution for your store to offer credit to its best customers. Launched today, it brings several features that didn't exist within Credit Control: More deadline and installments options, authentication and credit available right on your store's checkout, and a pre-authorization and capture system more like the ones used by credit card payments.
 
-Get an overview of everything __Customer Credit__ has to offer on [this VTEX Help article](/en/tutorial/customer-credit-overview).
+Get an overview of everything __Customer Credit__ has to offer on [this VTEX Help article](/en/docs/tutorials/customer-credit-overview).
 
 
 ## What has changed

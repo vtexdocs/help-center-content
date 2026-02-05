@@ -21,7 +21,7 @@ O Checkout é a etapa final no processo de compras online e também considerada 
 - Adicionar itens e processar o carrinho de compras.
 - Reunir os dados da compra e finalizá-la.
 
-Para realizar estas ações, são utlizadas uma série de dados compartilhados com outros módulos da plataforma VTEX, como o [Catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR), [Estoque & entrega](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx#), [Preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP#), [Promoções](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N#), [Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#) e [Gerenciamento de pedidos](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/3cjk655ZzDGICH4rVfgu7O#). Este compartilhamento permite que sejam processadas informações de disponibilidade, preços, promoções aplicáveis, métodos de envio e de pagamento.
+Para realizar estas ações, são utlizadas uma série de dados compartilhados com outros módulos da plataforma VTEX, como o [Catálogo](/pt/docs/tracks/catalogo-definicao-de-conceito), [Estoque & entrega](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx#), [Preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP#), [Promoções](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N#), [Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#) e [Gerenciamento de pedidos](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/3cjk655ZzDGICH4rVfgu7O#). Este compartilhamento permite que sejam processadas informações de disponibilidade, preços, promoções aplicáveis, métodos de envio e de pagamento.
 
 ## Operação do Checkout VTEX
 

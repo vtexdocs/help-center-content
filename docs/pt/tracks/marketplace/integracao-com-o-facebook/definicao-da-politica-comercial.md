@@ -15,7 +15,7 @@ trackSlugEN: integracao-com-o-facebook
 order: 3
 ---
 
-Após a criação da sua conta no Gerenciador de Negócios, o próximo passo para integrar com o Facebook é definir qual [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) será usada. Ao [configurar uma política comercial para marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/), você determina quais produtos serão enviados para o Facebook e qual será o preço deles na plataforma.
+Após a criação da sua conta no Gerenciador de Negócios, o próximo passo para integrar com o Facebook é definir qual [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) será usada. Ao [configurar uma política comercial para marketplace](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace/), você determina quais produtos serão enviados para o Facebook e qual será o preço deles na plataforma.
 
 Uma mesma política comercial pode ser compartilhada entre sua loja VTEX e um ou vários marketplaces. Só será necessário contratar uma nova política comercial para um marketplace se você quiser:
 

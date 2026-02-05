@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-Al integrar una tienda VTEX con Google Shopping, el seller debe completar el proceso de [Envío de productos a Google Shopping](/es/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/5L5LnccDCj5lJk8H95GQ82) y estos productos pueden o no ser aprobados por Google. 
+Al integrar una tienda VTEX con Google Shopping, el seller debe completar el proceso de [Envío de productos a Google Shopping](/es/docs/tracks/enviar-productos-a-google-shopping) y estos productos pueden o no ser aprobados por Google. 
 
 ## Status de integración del producto
 

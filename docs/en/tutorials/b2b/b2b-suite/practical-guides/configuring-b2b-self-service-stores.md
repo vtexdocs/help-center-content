@@ -121,7 +121,7 @@ To associate a warehouse with a loading dock, fill in the `warehouseDock` parame
 
 ### Configuring prices
 
-You can configure prices through [price tables](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8), a set of prices applied to certain SKUs in a given context. To configure prices, follow the steps below:
+You can configure prices through [price tables](/en/docs/tracks/tabelas-de-preco-definicao-de-conceito), a set of prices applied to certain SKUs in a given context. To configure prices, follow the steps below:
 
 1. [Create a new price table](/en/docs/tutorials/creating-price-tables).
 2. Edit the pricing spreadsheet settings.
@@ -135,7 +135,7 @@ In the B2B business model, a common practice is to grant credit to some of your 
 
 Credit management is a versatile resource and, as a result, you can use it in different B2B scenarios. Check out some business contexts in which you can employ this strategy in the article [Credit management through Customer Credit](/en/docs/tutorials/managing-credit-with-customer-credit).
 
-On VTEX, retailers can use [Customer Credit](/en/docs/tutorials/customer-credit-overview), an app in which they can offer and manage the credits granted to their customers. To install the app, check out the complete step-by-step guide in [Installing Customer Credit ](/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
+On VTEX, retailers can use [Customer Credit](/en/docs/tutorials/customer-credit-overview), an app in which they can offer and manage the credits granted to their customers. To install the app, check out the complete step-by-step guide in [Installing Customer Credit ](/en/docs/tracks/installing-customer-credit).
 
 > ℹ️ Standard payment methods, such as credit card and debit card, can also be configured for the B2B context. Credit management is the method most frequently used by customers.
 
@@ -145,13 +145,13 @@ After installing the app in your store, you must configure Customer Credit as an
 
 In Brazil, one of the particularities of B2B businesses is that it is common to have different taxes applied to the total price of each item.
 
-For more information, check out the article [Surcharges](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/3DcO1XrLqlbZsq80zxSgZS).
+For more information, check out the article [Surcharges](/en/docs/tracks/surcharges-what-they-are-and-how-to-create-them).
 
 ### Simple tax system
 
 For stores with a simple tax system — in which only one type of tax is applied to the SKU price — there are two recommended methods for configuring the pricing model:
 
-- Configuring [price tables](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8). For tax purposes, you must create price tables with full prices since promotional price tables are not applicable in this context.
+- Configuring [price tables](/en/docs/tracks/tabelas-de-preco-definicao-de-conceito). For tax purposes, you must create price tables with full prices since promotional price tables are not applicable in this context.
 
 - Applying [taxes](/en/tutorial/como-criar-taxaimposto/) to SKU prices to prevent them from being displayed in the store window.
 

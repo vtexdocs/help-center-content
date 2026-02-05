@@ -39,8 +39,8 @@ A continuación, hay una serie de comparaciones sobre cómo el Seller Portal, la
 
 | **Aspecto** | **Seller Portal** | **Cuenta estándar** | **Cuenta franquicia** |
 |---------- | ---------- | ---------- | ---------- |
-| Crear cuenta | En el Seller Portal, la [creación de una cuenta](/es/docs/tutorials/seller-portal-primeros-pasos-para-el-marketplace) puede realizarse tanto a través del Admin VTEX como por la [API](/es/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#acciones-por-api-rest). Primero, el _marketplace_ VTEX solicita acceso al Seller Portal mediante el Customer Success Manager (CSM). Luego, el marketplace [invita](/es/docs/tutorials/marketplace-sellers-invitados) al _seller_ y, después de que se acepta la invitación, [activa](/es/docs/tutorials/marketplace-sellers-invitados) al _seller_. | VTEX y el cliente firman un contrato y, después de la firma y aprobación internas, se crea un nuevo entorno para el cliente dentro de la plataforma VTEX. | El cliente [solicita la creación de la cuenta franquicia](/es/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl#solicitar-la-creacion-de-una-cuenta-franquicia) a través del equipo de [soporte](https://supporticket.vtex.com/support). Es necesario contar con el email del [usuario titular](/es/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA) (Admin Master). |
-| [Usuario titular](/es/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA) (Admin Master) | Hay solo un usuario titular. Por defecto, el email del usuario titular es el que recibe la invitación al Seller Portal, pero ese email se puede cambiar. Solo el usuario titular puede [crear appKeys y appTokens](https://developers.vtex.com/vtex-rest-api/docs/getting-started-authentication). | Hay un solo usuario titular y, por defecto, está vinculado al email de la persona que firmó el contrato con VTEX. Se puede cambiar el usuario titular, pero es el único que puede crear appKeys y appTokens. | Hay un solo usuario titular y, por defecto, es el mismo de la cuenta principal. Se puede cambiar el usuario titular, pero es el único que puede crear appKeys y appTokens. |
+| Crear cuenta | En el Seller Portal, la [creación de una cuenta](/es/docs/tutorials/seller-portal-primeros-pasos-para-el-marketplace) puede realizarse tanto a través del Admin VTEX como por la [API](/es/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#acciones-por-api-rest). Primero, el _marketplace_ VTEX solicita acceso al Seller Portal mediante el Customer Success Manager (CSM). Luego, el marketplace [invita](/es/docs/tutorials/marketplace-sellers-invitados) al _seller_ y, después de que se acepta la invitación, [activa](/es/docs/tutorials/marketplace-sellers-invitados) al _seller_. | VTEX y el cliente firman un contrato y, después de la firma y aprobación internas, se crea un nuevo entorno para el cliente dentro de la plataforma VTEX. | El cliente [solicita la creación de la cuenta franquicia](/es/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl#solicitar-la-creacion-de-una-cuenta-franquicia) a través del equipo de [soporte](https://supporticket.vtex.com/support). Es necesario contar con el email del [usuario titular](/es/docs/tracks/que-es-el-usuario-master) (Admin Master). |
+| [Usuario titular](/es/docs/tracks/que-es-el-usuario-master) (Admin Master) | Hay solo un usuario titular. Por defecto, el email del usuario titular es el que recibe la invitación al Seller Portal, pero ese email se puede cambiar. Solo el usuario titular puede [crear appKeys y appTokens](https://developers.vtex.com/vtex-rest-api/docs/getting-started-authentication). | Hay un solo usuario titular y, por defecto, está vinculado al email de la persona que firmó el contrato con VTEX. Se puede cambiar el usuario titular, pero es el único que puede crear appKeys y appTokens. | Hay un solo usuario titular y, por defecto, es el mismo de la cuenta principal. Se puede cambiar el usuario titular, pero es el único que puede crear appKeys y appTokens. |
 | Gestionar el acceso de usuarios con [perfiles de acceso](/es/tutorial/como-criar-perfil-de-acesso/) | Sí. | Sí. | Sí. |
 
 ## Catálogo
@@ -68,7 +68,7 @@ A continuación, hay una serie de comparaciones sobre cómo el Seller Portal, la
 
 | **Aspecto** | **Seller Portal** | **Cuenta estándar** | **Cuenta franquicia** |
 |---------- | ---------- | ---------- | ---------- |
-| El _seller_ puede crear [promociones](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N) | El seller crea y configura promociones directamente en el Seller Portal. Para más detalles sobre el proceso de creación, consulte el documento [Seller Portal: Crear una promoción](/es/docs/tutorials/seller-portal-crear-una-promocion). | Puede crear y configurar promociones, además de simular promociones. | Puede crear y configurar promociones, además de simular promociones. |
+| El _seller_ puede crear [promociones](/es/docs/tracks/como-funcionan-las-promociones) | El seller crea y configura promociones directamente en el Seller Portal. Para más detalles sobre el proceso de creación, consulte el documento [Seller Portal: Crear una promoción](/es/docs/tutorials/seller-portal-crear-una-promocion). | Puede crear y configurar promociones, además de simular promociones. | Puede crear y configurar promociones, además de simular promociones. |
 | Determinar canal para promoción | El _seller_ puede crear promociones. | Sí. | Sí. |
 | El _marketplace_ VTEX puede crear promociones para los productos del _seller_ | Sí. | Sí. | Sí. |
 
@@ -76,7 +76,7 @@ A continuación, hay una serie de comparaciones sobre cómo el Seller Portal, la
 
 | **Aspecto** | **Seller Portal** | **Cuenta estándar** | **Cuenta franquicia** |
 |---------- | ---------- | ---------- | ---------- |
-| Reflejar todos los medios de [pago](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/7pAEMAo4iqNHwYOarZ3zgm) en el _marketplace_ VTEX | Sí. | Sí. | Sí. |
+| Reflejar todos los medios de [pago](/es/docs/tracks/configurar-un-conector-de-pagos) en el _marketplace_ VTEX | Sí. | Sí. | Sí. |
 | Configurar pagos para que los pedidos con productos de más de un _seller_ solo ofrezcan medios de pago que los sellers tengan en común (mínimo múltiplo común) | Sí. | Sí. | Sí. |
 | Realizar pago a través del _seller_ | Sí. | Sí. | Sí. |
 | Tener un proveedor de tarjeta de regalo | No. | Sí. | Sí. |
@@ -111,7 +111,7 @@ A continuación, hay una serie de comparaciones sobre cómo el Seller Portal, la
 
 | **Aspecto** | **Seller Portal** | **Cuenta estándar** | **Cuenta franquicia** |
 |---------- | ---------- | ---------- | ---------- |
-| Realizar búsqueda con [Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) en el _marketplace_ VTEX para presentar resultados del 1P (_first-party_) antes del 3P (_third-party_) | No. | No. | No. |
+| Realizar búsqueda con [Intelligent Search](/es/docs/tracks/vision-general-intelligent-search) en el _marketplace_ VTEX para presentar resultados del 1P (_first-party_) antes del 3P (_third-party_) | No. | No. | No. |
 
 ## Seller
 

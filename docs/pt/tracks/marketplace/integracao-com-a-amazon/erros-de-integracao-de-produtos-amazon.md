@@ -50,7 +50,7 @@ Para resolver esse erro, [configure a Categoria global](/pt/tracks/configurar-in
 
 - **O valor preenchido na planilha de mapeamento para a especificação "Material" ou “Departament” não é um valor de atributo/especificação aceito pela Amazon**
 
-  Em ambos os erros, a [Categoria Global VTEX](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) do produto selecionado pelo seller exige o cadastro obrigatório dos atributos Department ou Material no produto, e o  preenchimento da [planilha de mapeamento](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#4-planilha-de-mapeamento). [Cadastre](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) o atributo no produto e preencha a planilha conforme o exemplo abaixo:  
+  Em ambos os erros, a [Categoria Global VTEX](/pt/docs/tracks/envio-de-produtos-para-amazon) do produto selecionado pelo seller exige o cadastro obrigatório dos atributos Department ou Material no produto, e o  preenchimento da [planilha de mapeamento](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#4-planilha-de-mapeamento). [Cadastre](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) o atributo no produto e preencha a planilha conforme o exemplo abaixo:  
 
 | **CategoryID** | **VariationTheme** | **Type** | **VTEXSpecification** | **AmazonSpecification** | **VTEXValue** | **AmazonValue** |
 |-----|-----|-----|-----|-----|-----|-----|
@@ -62,11 +62,11 @@ Para resolver esse erro, [configure a Categoria global](/pt/tracks/configurar-in
 
 - **O valor da especificação (X) preenchido na planilha não existe na especificação desse produto na VTEX**
 
-  No erro acima, o atributo citado não está cadastrado no SKU do catálogo VTEX. Você deverá [cadastrar o atributo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) e refazer o [mapeamento](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) do produto enviado.
+  No erro acima, o atributo citado não está cadastrado no SKU do catálogo VTEX. Você deverá [cadastrar o atributo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) e refazer o [mapeamento](/pt/docs/tracks/envio-de-produtos-para-amazon) do produto enviado.
 
 - **A unidade da idade mínima preenchida na planilha de mapeamento não está de acordo com o que a Amazon espera receber**
 
-- A unidade da idade mínima não está de acordo com o que a Amazon solicita. A Amazon aceita valores em anos ou meses, refaça o [mapeament](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD)o com valores aceitos pelo marketplace.
+- A unidade da idade mínima não está de acordo com o que a Amazon solicita. A Amazon aceita valores em anos ou meses, refaça o [mapeament](/pt/docs/tracks/envio-de-produtos-para-amazon)o com valores aceitos pelo marketplace.
 
 - **A Amazon não aceita a(s) variação do SKU preenchida na planilha de mapeamento**
 
@@ -101,12 +101,12 @@ Você não preencheu o valor da especificação `Size` de maneira correta. Para 
 - **O atributo Cor não está cadastrado no SKU ou não consta na planilha de mapeamento**
 
   O atributo `Cor` é obrigatório para a categoria do produto que você está enviando para a Amazon e não está cadastrado no SKU ou não foi mapeado na planilha de mapeamento. 
-Você deverá cadastrar uma [especificação de SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/6UjLHdAT5YLuflki10SXLr) para o atributo `Cor` e/ou refazer o [mapeamento](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) do produto enviado.
+Você deverá cadastrar uma [especificação de SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/6UjLHdAT5YLuflki10SXLr) para o atributo `Cor` e/ou refazer o [mapeamento](/pt/docs/tracks/envio-de-produtos-para-amazon) do produto enviado.
 
 - **A especificação do produto TargetGender é obrigatória para integrar esse produto com a Amazon**
 
   A especificação do produto `TargetGender` é obrigatória para a categoria do produto que você está enviando. Dependendo da categoria, a Amazon pode chamar de Departamento ou TargetGender.
-Faça o [cadastro da especificação do produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) `TargetGender` e refaça o [mapeamento](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD).
+Faça o [cadastro da especificação do produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) `TargetGender` e refaça o [mapeamento](/pt/docs/tracks/envio-de-produtos-para-amazon).
 
 ## Erros de divergência entre catálogos VTEX e Amazon (Match de anúncios)
 
@@ -124,7 +124,7 @@ Esse erro ocorre quando um SKU em seu feed não corresponde a nenhum ASIN no cat
 
 - **O token preenchido no formulário de configuração da Amazon na VTEX está expirado ou não tem permissão para acessar esse fluxo**
 
-  Esse erro ocorreu porque o número de série do **Token de autorização do MWS** expirou. Entre em contato com a Amazon para resolver esse problema, e depois refaça a [configuração da integração da Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan).
+  Esse erro ocorreu porque o número de série do **Token de autorização do MWS** expirou. Entre em contato com a Amazon para resolver esse problema, e depois refaça a [configuração da integração da Amazon](/pt/docs/tracks/configurar-a-integracao-da-amazon).
 
 - **Sua conta não possui permissão na Amazon MWS**  
 
@@ -134,11 +134,11 @@ Esse erro ocorre quando um SKU em seu feed não corresponde a nenhum ASIN no cat
 
 - **O valor que consta no campo "Nome para o tipo de frete" na configuração da integração da Amazon na VTEX não é igual ao que consta no Seller Central da Amazon**
 
-  Esse erro ocorre quando não há equivalência no valor cadastrado no campo **Nome para o tipo de frete** na etapa [Configurar a integração da Amazo](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan)n na VTEX e o valor cadastrado no Seller Central da Amazon. Acesse a documentação do Seller Central da Amazon para tirar suas dúvidas e corrigir o problema.
+  Esse erro ocorre quando não há equivalência no valor cadastrado no campo **Nome para o tipo de frete** na etapa [Configurar a integração da Amazo](/pt/docs/tracks/configurar-a-integracao-da-amazon)n na VTEX e o valor cadastrado no Seller Central da Amazon. Acesse a documentação do Seller Central da Amazon para tirar suas dúvidas e corrigir o problema.
 
 - **O valor que consta no campo "SELLER ID" na configuração da integração da Amazon na VTEX não é igual ao que consta no Seller Central da Amazon**  
 
-  Esse erro ocorre quando não há equivalência no valor cadastrado no campo **Seller ID** na etapa [Configurar a integração da Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan) na VTEX e o valor cadastrado no Seller Central da Amazon, lembrando que na configuração da integração, o valor de **Seller ID** solicitado é o que consta na Amazon.
+  Esse erro ocorre quando não há equivalência no valor cadastrado no campo **Seller ID** na etapa [Configurar a integração da Amazon](/pt/docs/tracks/configurar-a-integracao-da-amazon) na VTEX e o valor cadastrado no Seller Central da Amazon, lembrando que na configuração da integração, o valor de **Seller ID** solicitado é o que consta na Amazon.
 [Acesse a documentação do Seller Central da Amazon](https://sellercentral.amazon.com.br/sw/AccountInfo/MerchantToken/step/MerchantToken?ref_=macs_aimertok_cont_acinfohm&) para tirar suas dúvidas e corrigir o problema.  
 
 ## Erro no envio da categoria global VTEX na Amazon
@@ -151,6 +151,6 @@ Esse erro ocorre quando um SKU em seu feed não corresponde a nenhum ASIN no cat
 
 - **O SKU que você tentou enviar se encontra inativo na VTEX**
 
-O [SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) não está ativo na VTEX, e somente SKUs ativos são integrados. Em alguns casos, este erro é gerado por [coleções](/pt/docs/tutorials/como-deletar-colecao) antigas vinculadas à política comercial da Amazon que contém SKUs inativos.
+O [SKU](/pt/docs/tracks/sku-definicao-de-conceito) não está ativo na VTEX, e somente SKUs ativos são integrados. Em alguns casos, este erro é gerado por [coleções](/pt/docs/tutorials/como-deletar-colecao) antigas vinculadas à política comercial da Amazon que contém SKUs inativos.
 
 Verifique o status do SKU no seu Admin, no módulo _PRODUTOS > Catálogo > Produtos e SKUs_ e, se necessário, [ative o SKU](/pt/docs/tutorials/ativar-skus-em-massa).

@@ -25,7 +25,7 @@ tags:
 
 El status `Preparando envío` se produce en el [flujo de pedidos](/es/tutorial/order-flow-on-the-oms--tutorials_196#flujo-de-seller) justo después de que el seller confirma el inicio de la preparación de los ítems. En este punto, VTEX debe recibir los detalles de la factura del pedido, permitiendo que el flujo se actualice al status `Facturado` o `Cancelado`.
 
-> ℹ️ No se puede [cancelar pedidos](/es/docs/tutorials/como-cancelar-pedido) que ya han sido [facturados parcialmente](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado).
+> ℹ️ No se puede [cancelar pedidos](/es/docs/tutorials/como-cancelar-pedido) que ya han sido [facturados parcialmente](/es/docs/tracks/facturas-parciales). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado).
 
 La permanencia de un pedido en el status `Preparando envío` por un periodo superior al previsto puede deberse a la falta de registro de las facturas en VTEX.
 
@@ -33,7 +33,7 @@ La permanencia de un pedido en el status `Preparando envío` por un periodo supe
 
 ### Comprobar las facturas en integraciones ERP
 
-La primera acción necesaria es ponerse en contacto con el responsable de tu [integración ERP](https://developers.vtex.com/docs/guides/erp-integration-guide) y comprobar si la factura única o todas las [facturas parciales](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) ya se registraron a través del endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice). 
+La primera acción necesaria es ponerse en contacto con el responsable de tu [integración ERP](https://developers.vtex.com/docs/guides/erp-integration-guide) y comprobar si la factura única o todas las [facturas parciales](/es/docs/tracks/facturas-parciales) ya se registraron a través del endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice). 
 
 Después de esta confirmación, sigue los pasos a continuación para verificar si cambió el status:
 
@@ -49,7 +49,7 @@ Puedes registrar facturas en el Admin VTEX por medio de la [facturación manual 
 
 Para garantir que o pedido seja faturado corretamente, é necessário observar os seguintes requisitos:
 
-- El valor total de una factura debe ser igual a la suma de los valores de los ítems del pedido y sus respectivos valores de envío. Si se ingresa una factura con un valor menor que el total, será necesario ingresar una [factura parcial](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) con el valor restante.
+- El valor total de una factura debe ser igual a la suma de los valores de los ítems del pedido y sus respectivos valores de envío. Si se ingresa una factura con un valor menor que el total, será necesario ingresar una [factura parcial](/es/docs/tracks/facturas-parciales) con el valor restante.
 - Cada factura emitida, sea total o parcial, debe tener un número único.
 - Cuando sea necesario emitir más de una factura para un pedido, la suma del valor total de las facturas registradas debe ser igual al valor total del pedido.
 - El valor total del pedido se actualizará en caso de que se [modifiquen o remuevan ítems](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado).

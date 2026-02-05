@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 5yDQmr18K4GgQAeGwq8USa
 ---
 
-> ⚠️ Este articulo se aplica a la opción **Avísame** en las tiendas que usan [CMS Portal (Legado)](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). En las tiendas que usan [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), hay que seguir las instrucciones de la guía [Availability Notify](https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify).
+> ⚠️ Este articulo se aplica a la opción **Avísame** en las tiendas que usan [CMS Portal (Legado)](/es/docs/tracks/cms-portal-legado). En las tiendas que usan [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), hay que seguir las instrucciones de la guía [Availability Notify](https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify).
 
 Para exportar los datos de los clientes que se han registrado en la base de [Avisame](/es/docs/tutorials/configurar-la-opcion-avisame), siga los pasos abajo:
 

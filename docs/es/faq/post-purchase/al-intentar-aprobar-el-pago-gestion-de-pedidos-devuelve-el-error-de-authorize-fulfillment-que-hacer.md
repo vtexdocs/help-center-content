@@ -24,4 +24,4 @@ Para confirmar que el problema es este, en la [página de detalles del pedido](/
 
 Si hay un error como "La reserva solicitada *00-abc* no pudo ser garantizada para el pedido *00-xyz*", es porque algun de los SKUs incluidos en el carrito no tiene stock disponible, lo que inviabiliza que la compra sea aprobada. En este caso, corregir el inventario debe permitir que el pedido siga su flujo.
 
-Sepa más en [Verificar detalles de errores en los pedidos](/es/faq/como-verificar-detalles-de-errores-en-los-pedidos).
+Sepa más en [Verificar detalles de errores en los pedidos](/es/docs/tutorials/como-verificar-detalles-de-errores-en-los-pedidos).

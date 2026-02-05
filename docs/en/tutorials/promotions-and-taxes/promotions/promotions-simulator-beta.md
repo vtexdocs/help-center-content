@@ -53,7 +53,7 @@ If you need to add or remove items from your cart, you can keep the simulator wi
 
 ### Searching and filtering promotions
 
-The tool provides a search bar for finding promotions by product or promotion name. Additionally, you can filter promotions by **Promotion type** ([Regular](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Buy Together](/en/docs/tutorials/buy-together), [Get More for Less](/en/docs/tutorials/creating-a-more-for-less-promotion), [Progressive Discount](/en/docs/tutorials/progressive-discount), [Buy One, Get One](/en/docs/tutorials/buy-one-get-one), or [Campaign Promotion](/en/docs/tutorials/campaign-promotion)) and **Discount** (Applied or Not Applied).
+The tool provides a search bar for finding promotions by product or promotion name. Additionally, you can filter promotions by **Promotion type** ([Regular](/en/docs/tracks/creating-regular-promotions), [Buy Together](/en/docs/tutorials/buy-together), [Get More for Less](/en/docs/tutorials/creating-a-more-for-less-promotion), [Progressive Discount](/en/docs/tutorials/progressive-discount), [Buy One, Get One](/en/docs/tutorials/buy-one-get-one), or [Campaign Promotion](/en/docs/tutorials/campaign-promotion)) and **Discount** (Applied or Not Applied).
 
 ### Viewing applied promotions details
 
@@ -93,5 +93,5 @@ To run a simulation, follow the instructions below:
 ### Learn more
 
 * [How promotions work](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR)
-* [Promotions for specific scenarios](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy)
+* [Promotions for specific scenarios](/en/docs/tracks/promotions-for-specific-scenarios)
 * [Configuring Cartman](/en/docs/tutorials/configure-cartman)

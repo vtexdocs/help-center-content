@@ -24,9 +24,9 @@ After configuring the basic settings and installing VTEX Sales App on a device, 
 
 Before introducing VTEX Sales App in one of your physical stores, your brand infrastructure team must perform technical testing, i.e., functional testing conducted outside of the store setting.
 
-First, we recommend testing the entire process of creating orders in VTEX Sales App with each of the payment terms configured in the account. For more information about this process, read the following articles from the track [VTEX Sales App - Using the app](/en/tracks/instore-using-the-app--4BYzQIwyOHvnmnCYQgLzdr/2l56Bc2V1Xjv93JddsdEMi).
+First, we recommend testing the entire process of creating orders in VTEX Sales App with each of the payment terms configured in the account. For more information about this process, read the following articles from the track [VTEX Sales App - Using the app](/en/docs/tracks/customer-identification).
 
-Next, it is important to perform order cancellation tests using the payment terms configured. For more information about canceling orders in VTEX Sales App, read the article [Cancel and refund an order in VTEX Sales App](/en/tracks/instore-using-the-app--4BYzQIwyOHvnmnCYQgLzdr/UAahHrTwypk1HhoyyMd2W).
+Next, it is important to perform order cancellation tests using the payment terms configured. For more information about canceling orders in VTEX Sales App, read the article [Cancel and refund an order in VTEX Sales App](/en/docs/tracks/cancel-and-refund-an-order-on-vtex-sales-app).
 
 ## In-store testing
 

@@ -15,9 +15,9 @@ locale: es
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-La [especificación](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) de producto es un campo en el registro de un producto donde se incluyen las características válidas de todas sus variaciones (SKU).
+La [especificación](/es/docs/tracks/especificaciones-definicion-de-concepto) de producto es un campo en el registro de un producto donde se incluyen las características válidas de todas sus variaciones (SKU).
 
-En VTEX, una especificación siempre forma parte de un [grupo de especificaciones](/es/docs/tutorials/crear-grupo-de-especificaciones-en-una-categoria) que está asociado a una [categoría](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf). Es precisamente por esto que, para crear una especificación (campo) de producto, se debe tener registrada al menos una categoría y un grupo de especificaciones.
+En VTEX, una especificación siempre forma parte de un [grupo de especificaciones](/es/docs/tutorials/crear-grupo-de-especificaciones-en-una-categoria) que está asociado a una [categoría](/es/docs/tracks/categorias-definicion-de-concepto). Es precisamente por esto que, para crear una especificación (campo) de producto, se debe tener registrada al menos una categoría y un grupo de especificaciones.
 
 Ejemplo: una tienda del sector de la moda. En la categoría **Camisetas**, el grupo de especificaciones puede tener el nombre **Características**, el campo **Composición** y sus valores **Algodón** y **Poliéster**.
 
@@ -47,7 +47,7 @@ Como se trata de una especificación de producto, la información seleccionada e
 
 ## Paso a paso en el Admin VTEX
 
-Para que las especificaciones aparezcan en el registro de los productos, además de haber creado previamente un [grupo de especificaciones](/es/docs/tutorials/crear-grupo-de-especificaciones-en-una-categoria) asociado a una [categoría](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), también se deben crear los campos y registrar sus valores. Luego, podrás rellenar esas especificaciones en tus productos.
+Para que las especificaciones aparezcan en el registro de los productos, además de haber creado previamente un [grupo de especificaciones](/es/docs/tutorials/crear-grupo-de-especificaciones-en-una-categoria) asociado a una [categoría](/es/docs/tracks/categorias-definicion-de-concepto), también se deben crear los campos y registrar sus valores. Luego, podrás rellenar esas especificaciones en tus productos.
 
 En las secciones a continuación, podrás ver el paso a paso completo.
 
@@ -211,4 +211,4 @@ Para rellenar las especificaciones de los productos de forma masiva mediante una
 
 ## Más información
 - [Registrar especificaciones o campos de SKU](/es/docs/tutorials/registrar-especificaciones-o-campos-de-sku)
-- [Especificaciones de producto e de SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
+- [Especificaciones de producto e de SKU](/es/docs/tracks/especificaciones-definicion-de-concepto)

@@ -47,7 +47,7 @@ Siga as etapas abaixo para realizar a mudança de domínio:
 
    Uma vez aberto o chamado, o time de suporte tem até três dias úteis para analisar as configurações e realizar o apontamento. 
 
-4. Realize o apontamento de DNS para a CDN da VTEX. Para isso, siga as instruções do guia [Go-live](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj). 
+4. Realize o apontamento de DNS para a CDN da VTEX. Para isso, siga as instruções do guia [Go-live](/pt/docs/tracks/go-live). 
 
 ## Excluir o domínio antigo
 

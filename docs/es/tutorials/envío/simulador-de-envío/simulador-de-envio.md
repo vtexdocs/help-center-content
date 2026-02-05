@@ -76,13 +76,13 @@ A continuación, se enumeran los motivos más comunes por los que una transporta
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">El peso total del carrito excedió el límite permitido por la transportadora. 
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Puede cumplir con el límite dividiendo la carga.  Para más información lea nuestro artículo sobre [reparto de carga](/es/docs/tutorials/como-se-maneja-el-reparto-de-carga). También puede verificar si hay un error en la [configuración del producto en el catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
+   <td class="t-body pa5" style="min-width: 15rem;">Puede cumplir con el límite dividiendo la carga.  Para más información lea nuestro artículo sobre [reparto de carga](/es/docs/tutorials/como-se-maneja-el-reparto-de-carga). También puede verificar si hay un error en la [configuración del producto en el catálogo](/es/docs/tracks/productos-definicion-de-concepto).
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">El peso o la dimensión del ítem no es permitido por la transportadora.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración de la [plantilla de flete](/es/docs/tutorials/plantilla-de-flete) a través de los campos ***WeightStart, WeightEnd y MaxVolume***.*** *** También revise si hay un error en la [configuración del producto en el catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
+   <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración de la [plantilla de flete](/es/docs/tutorials/plantilla-de-flete) a través de los campos ***WeightStart, WeightEnd y MaxVolume***.*** *** También revise si hay un error en la [configuración del producto en el catálogo](/es/docs/tracks/productos-definicion-de-concepto).
    </td>
   </tr>
   <tr class="bb b--muted-3">
@@ -90,7 +90,7 @@ A continuación, se enumeran los motivos más comunes por los que una transporta
       
       *Nota: los ítems que componen un kit o promoción no se pueden separar en diferentes paquetes.*
    </td>
-  <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración de la [plantilla de flete ](/es/docs/tutorials/plantilla-de-flete)a través de los campos ***WeightStart ***y ***WeightEnd. ***También puede comprobar si hay un error en la [configuración del producto en el catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
+  <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración de la [plantilla de flete ](/es/docs/tutorials/plantilla-de-flete)a través de los campos ***WeightStart ***y ***WeightEnd. ***También puede comprobar si hay un error en la [configuración del producto en el catálogo](/es/docs/tracks/productos-definicion-de-concepto).
    </td>
   </tr>
   <tr class="bb b--muted-3">

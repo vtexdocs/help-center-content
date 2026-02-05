@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
-Each VTEX account has a single [Sponsor user](/en/tutorial/what-is-the-sponsor-user) – the only one who is granted full access to every section in the Admin, including critical maintenance and authorization actions. By default, this role is assigned to a user specified in your contract, usually the person overseeing digital commerce operations on a daily basis.
+Each VTEX account has a single [Sponsor user](/en/docs/tutorials/what-is-the-sponsor-user) – the only one who is granted full access to every section in the Admin, including critical maintenance and authorization actions. By default, this role is assigned to a user specified in your contract, usually the person overseeing digital commerce operations on a daily basis.
 
 The current Sponsor user may transfer this responsibility to anyone they desire through the [Sponsor Management](#sponsor-management) page, by following the [steps in the ownership transfer flow](#transferring-account-ownership).
 

@@ -43,7 +43,7 @@ Another option is to make promotions for batches of products. It is a way to gua
 
 First, you need to determine what the aging limits are, considering your product and segment features. Sometimes products whose maintenance has been causing loss need to be sold at cost or even below cost.
 
-In this scenario, a comprehensive [Regular Promotion](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) should help the operation to burn inventory. You can select specific products or categories with surplus stock and apply percentage (e.g.: 20%) or nominal (e.g.: $ 100) discounts in bulk. The goal here is to recover credit to put it back into the operation.
+In this scenario, a comprehensive [Regular Promotion](/en/docs/tracks/creating-regular-promotions) should help the operation to burn inventory. You can select specific products or categories with surplus stock and apply percentage (e.g.: 20%) or nominal (e.g.: $ 100) discounts in bulk. The goal here is to recover credit to put it back into the operation.
 
 To calibrate the extension of the promotion, you can use the restrictions and usage limitations area to define, for example, if the promotion will be applied unlimited times or if there will be a maximum number of uses.
 
@@ -80,4 +80,4 @@ Another way to attract customer interest is with a promotion that offers free sh
 
 This strategy can be combined with other previously mentioned ones. You can offer free shipping when the customer buys a large volume of a product that has been in your inventory for a long time, for example. It is also possible to use free shipping as a discount for prepayment in full.
 
-For more information on how to make a free shipping percentage promotion, see the article [Creating a Regular Promotion](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+For more information on how to make a free shipping percentage promotion, see the article [Creating a Regular Promotion](/en/docs/tracks/creating-regular-promotions).

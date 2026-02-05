@@ -18,11 +18,11 @@ tags:
   - Importação de planilhas
 ---
 
-As [tabelas ou planilhas de preço](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) armazenam informações de SKUs que após serem aplicadas em determinados contextos, tais como políticas comerciais, promoções ou cluster de clientes, permitem calcular os valores de venda dos produtos em uma loja VTEX. Para mais informações, acesse [Preço base](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) e [Preço fixo](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy). 
+As [tabelas ou planilhas de preço](/pt/docs/tracks/tabelas-de-preco-definicao-de-conceito) armazenam informações de SKUs que após serem aplicadas em determinados contextos, tais como políticas comerciais, promoções ou cluster de clientes, permitem calcular os valores de venda dos produtos em uma loja VTEX. Para mais informações, acesse [Preço base](/pt/docs/tracks/preco-base-definicao-de-conceito) e [Preço fixo](/pt/docs/tracks/preco-fixo-definicao-de-conceito). 
 
 > ⚠️ Não é possível importar uma planilha de **Preço calculado** no Admin VTEX. A função **Exportar** está disponível para esta planilha apenas para que o lojista possa conferir os valores de preço final de cada produto.
 
-Após [importar uma planilha de preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D), algumas mensagens de erro podem surgir em determinados SKUs, como nos exemplos abaixos: 
+Após [importar uma planilha de preços](/pt/docs/tracks/exportacao-e-importacao-via-planilha-de-precos), algumas mensagens de erro podem surgir em determinados SKUs, como nos exemplos abaixos: 
 
 - `"The resource you are looking for cannot be found: Price not found"`
 - `"Error occurred while converting spreadsheet: Object reference not set to an instance of an object."`

@@ -21,13 +21,13 @@ Este es un concepto básico de las estrategias omnichannel, y es esencial para u
 
 ## Prerrequisitos
 
-En primer lugar, consideremos los requisitos previos que su tienda necesita para asegurarse de comenzar a implementar una estrategia de Pasillo Infinito. Consulte nuestro artículo sobre [Requisitos previos para utilizar VTEX Sales App](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u).
+En primer lugar, consideremos los requisitos previos que su tienda necesita para asegurarse de comenzar a implementar una estrategia de Pasillo Infinito. Consulte nuestro artículo sobre [Requisitos previos para utilizar VTEX Sales App](/es/docs/tracks/requisitos-previos-para-usar-vtex-sales-app).
 
 ## Agregar tiendas físicas al VTEX Sales App
 
 Para implementar una estrategia de Pasillo Infinito, usted debe agregar sus tiendas físicas en la plataforma VTEX.
 
-Para hacer esto, siga los pasos en el artículo [Agregar nuevos vendedores y tiendas al VTEX Sales App](/es/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN).
+Para hacer esto, siga los pasos en el artículo [Agregar nuevos vendedores y tiendas al VTEX Sales App](/es/docs/tracks/gestionar-tiendas-fisicas-en-vtex-sales-app).
 
 Un punto importante de atención al registrar una nueva tienda es la [Política Comercial](/es/docs/tutorials/crear-una-politica-comercial) aplicada a esa tienda. Ella define qué variedad de productos será válida para la tienda.
 

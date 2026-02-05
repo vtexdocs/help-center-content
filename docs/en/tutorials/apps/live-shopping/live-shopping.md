@@ -34,4 +34,4 @@ Access the Admin and navigate to **Apps > Live Shopping > Events**. Upon reachin
 
 > ⚠️ The usage details depend on your chosen plan: **Lite**, **Standard** or **Pro**. All payment details are provided at the moment of installation.
 
-You can also navigate to **Apps > Live Shopping > Global Page** to [configure a Global Page of live events](/en/tutorial/live-shopping-configuring-a-landing-page-for-live-shopping-events). This feature provides a comprehensive view of past, present, and upcoming events associated with your account, enabling enhanced engagement and sales opportunities even after the events have concluded or before they occur.
+You can also navigate to **Apps > Live Shopping > Global Page** to [configure a Global Page of live events](/en/docs/tutorials/live-shopping-configuring-a-landing-page-for-live-shopping-events). This feature provides a comprehensive view of past, present, and upcoming events associated with your account, enabling enhanced engagement and sales opportunities even after the events have concluded or before they occur.

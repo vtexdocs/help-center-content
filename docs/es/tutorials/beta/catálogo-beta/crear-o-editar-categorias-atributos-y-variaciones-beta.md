@@ -126,7 +126,7 @@ Para crear una categoría sigue los pasos a continuación:
 6. En la sección **Storefront**, puedes marcar las siguientes opciones si lo deseas:
     * <a class="far fa-check-square" aria-hidden="true"></a> **Mostrar en el menú:** hace que la categoría o departamento sea visible en el menú superior y en el menú lateral de la tienda.
     * <a class="far fa-check-square" aria-hidden="true"></a> **Menú con link activo:** determina si se puede hacer clic en la categoría visible en la tienda para redirigir a la página de la categoría.
-    * <a class="far fa-check-square" aria-hidden="true"></a> **Filtro de marca:** define si la página de la categoría o departamento debe mostrar la opción de filtrar por [marcas](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh).
+    * <a class="far fa-check-square" aria-hidden="true"></a> **Filtro de marca:** define si la página de la categoría o departamento debe mostrar la opción de filtrar por [marcas](/es/docs/tracks/marcas-definicion-de-concepto).
 7. En **Modo de visualización de productos**, determinas cómo se mostrarán los SKUs de los productos de la categoría en la vitrina de la tienda mediante las siguientes opciones:
     * **Lista de SKUs:** ítems organizados en formato de lista. Esta es la visualización predeterminada si no cambias la selección.
     * **Cuadros de selección (combo box):** los ítems se seleccionan mediante casillas.

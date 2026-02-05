@@ -29,7 +29,7 @@ Para saber quais dados precisam ser trocados entre sellers e marketplaces, veja 
 
 ## Definir política comercial
 
-Na VTEX, a [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) agrupa configurações de catálogo, preços, promoções, logística, segmentação de clientes e pagamentos em um canal de venda. O seller pode integrar com o marketplace utilizando a política comercial padrão da sua loja ou definir configurações específicas para a integração, configurando uma [política comercial para marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/).
+Na VTEX, a [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) agrupa configurações de catálogo, preços, promoções, logística, segmentação de clientes e pagamentos em um canal de venda. O seller pode integrar com o marketplace utilizando a política comercial padrão da sua loja ou definir configurações específicas para a integração, configurando uma [política comercial para marketplace](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace/).
 
 > ℹ️ Uma mesma política comercial pode ser usada para integrar com múltiplos marketplaces. No entanto, a [contratação de política comercial adicional](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional) para integrar com [conector nativo](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), conector certificado (parceiro) ou outras lojas VTEX é isenta de taxas.
 
@@ -47,9 +47,9 @@ O seller deve seguir os passos do artigo [Configurar afiliado](/pt/docs/tutorial
 
 ## Reindexar base
 
-Após seller e marketplace estarem integrados, o envio de produtos para o marketplace não é automático, é necessário ao seller [reindexar a base](/pt/tutorial/entendendo-o-funcionamento-da-indexacao). Esse processo prepara os dados dos SKUs e produtos e envia para o marketplace informações gerais sobre catálogo, preço e estoque. 
+Após seller e marketplace estarem integrados, o envio de produtos para o marketplace não é automático, é necessário ao seller [reindexar a base](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao). Esse processo prepara os dados dos SKUs e produtos e envia para o marketplace informações gerais sobre catálogo, preço e estoque. 
 
-> ℹ️ Somente o [usuário Titular (owner)](/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA) tem permissão para reindexar a base de uma loja VTEX. Durante o período de reindexação, que é variável, os produtos entram numa fila para atualização de dados, mas seguem disponíveis para venda no site da loja.
+> ℹ️ Somente o [usuário Titular (owner)](/pt/docs/tracks/o-que-e-o-usuario-master) tem permissão para reindexar a base de uma loja VTEX. Durante o período de reindexação, que é variável, os produtos entram numa fila para atualização de dados, mas seguem disponíveis para venda no site da loja.
 
 Para reindexar a base, copie o endereço abaixo no seu navegador, substituindo `{nomedaloja}` pelo nome da sua loja:
 
@@ -70,7 +70,7 @@ Ao acessar o endereço, clique no botão `Reindexar Base`. O processo pode ser a
 
 Depois que o seller envia seus produtos, o marketplace precisa [mapear categorias, marcas e especificações](/pt/docs/tutorials/mapeando-categorias-e-marcas-para-marketplace) dos produtos do seller, de forma a fazer uma correspondência entre a sua própria estrutura de catálogo e o catálogo do seller.
 
-Após o mapeamento, o marketplace precisa [catalogar SKUs](/pt/tutorial/sugerindo-e-aprovando-skus/) do seller. Esta é a última etapa para que os produtos do seller sejam disponibilizados para os consumidores no marketplace.
+Após o mapeamento, o marketplace precisa [catalogar SKUs](/pt/docs/tutorials/sugerindo-e-aprovando-skus/) do seller. Esta é a última etapa para que os produtos do seller sejam disponibilizados para os consumidores no marketplace.
 
 ## Saiba mais
 

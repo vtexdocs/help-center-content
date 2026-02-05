@@ -38,5 +38,5 @@ Depois de cadastrar uma dessas afiliações de gateway, você deverá configurar
 2. Na aba __Condições de Pagamento__, clique no botão __+__.
 3. Na seção __Boleto__, selecione a opção __Boleto Bancário__.
 4. Preencha o nome da condição de pagamento, selecione a afiliação de gateway configurada acima (__ItauShopline__).
-5. Caso deseje, você pode configurar uma [condição especial](/pt/tutorial/condicoes-especiais/) para essa condição de pagamento.
+5. Caso deseje, você pode configurar uma [condição especial](/pt/docs/tutorials/condicoes-especiais/) para essa condição de pagamento.
 6. Clique no botão __Salvar__.

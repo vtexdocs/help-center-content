@@ -28,5 +28,5 @@ El análisis antifraude para tarjetas de regalo ya está disponible en todas las
 1. Ponerte en contacto con el proveedor de servicios antifraude con el que tienes contrato para verificar si este servicio de análisis antifraude ya está disponible. Más información sobre la configuración necesaria para el proveedor antifraude en [New feature available for anti-fraud providers: Gift card transaction analysis](https://developers.vtex.com/updates/release-notes/2024-12-19-new-feature-available-for-anti-fraud-providers-gift-card-transaction-analysis).
 2. Asociar el proveedor antifraude con el medio de pago tarjeta de regalo en el Admin VTEX. Más información en [Configurar antifraude](/es/docs/tutorials/como-configurar-antifraude).
 
-> ℹ️ La información analizada por el proveedor antifraude para cada transacción puede consultarse en la página [Transacciones](/es/tracks/pagos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy) del Admin VTEX.
+> ℹ️ La información analizada por el proveedor antifraude para cada transacción puede consultarse en la página [Transacciones](/es/docs/tracks/ver-detalles-de-la-transaccion) del Admin VTEX.
 

@@ -42,8 +42,8 @@ VTEX platform is integrated with the following anti-fraud systems:
 - Signifyd
 - VestGuarantee
 
-To set them up, you need to hire a plan in one of these companies and follow the steps listed in [this article](/en/tutorial/how-to-configure-the-anti-fraud).
+To set them up, you need to hire a plan in one of these companies and follow the steps listed in [this article](/en/docs/tutorials/how-to-configure-the-anti-fraud).
 
 ### Related articles
-- [Configuring the anti-fraud](/en/tutorial/how-to-configure-the-anti-fraud)
+- [Configuring the anti-fraud](/en/docs/tutorials/how-to-configure-the-anti-fraud)
 - [Payments Overview](/en/tutorial/pci-gateway-overview)

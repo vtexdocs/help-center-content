@@ -50,7 +50,7 @@ Com a API Key em mãos, siga os passos abaixo:
 
 Para que essa funcionalidade trabalhe corretamente, é necessário cadastrar os polígonos correspondentes às áreas de entrega desejadas no mapa. 
 
-Em seguida, deve-se associá-los às transportadoras que farão as entregas, por meio da inclusão dos IDs desses polígonos na tabela de frete. Saiba como fazer isso no artigo [Cadastrando geolocalização](/pt/tutorial/gerenciar-geolocalizacao/).
+Em seguida, deve-se associá-los às transportadoras que farão as entregas, por meio da inclusão dos IDs desses polígonos na tabela de frete. Saiba como fazer isso no artigo [Cadastrando geolocalização](/pt/docs/tutorials/gerenciar-geolocalizacao/).
 
 ### Configurando o Checkout
 

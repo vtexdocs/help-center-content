@@ -29,7 +29,7 @@ Para configurar Netopia Marketplace, siga os passos abaixo:
 8. Em __Campos do provedor__, selecione ou preencha os campos __POS ID__, __Environment__, __Delay to auto cancel (hours)__, e __Delay to auto capture (minutes)__ conforme orientações do provedor.
 9. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela Netopia Marketplace, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela Netopia Marketplace, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

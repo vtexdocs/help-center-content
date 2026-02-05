@@ -41,5 +41,5 @@ The new interface is already available for all our clients who use the Mercado L
 
 All clients who were using the mapping template to submit their products will no longer need to use it, and the template will be discontinued at the end of November 2021. The products that have already been mapped using the template will continue to be displayed on Mercado Libre. To submit new products, you will have to use the new mapping interface. 
 
-To learn more about how to use the new interface, please refer to our article [Sending products to Mercado Libre](/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).
+To learn more about how to use the new interface, please refer to our article [Sending products to Mercado Libre](/en/docs/tracks/mapping-product-categories-and-attributes-to-mercado-libre).
 

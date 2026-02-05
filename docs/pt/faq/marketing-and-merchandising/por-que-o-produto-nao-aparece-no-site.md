@@ -16,14 +16,14 @@ legacySlug: por-que-o-produto-nao-aparece-no-site
 
 Para que um produto apareça na vitrine da loja, ele precisa estar disponível para vendas, o que ocorre quando as seguintes configurações são feitas corretamente:
 
-* O [produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) e seus [SKUs](/pt/docs/tutorials/o-que-e-um-sku) estão cadastrados no Catálogo.
-* O produto tem [preço](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu).
+* O [produto](/pt/docs/tracks/cadastrar-produto) e seus [SKUs](/pt/docs/tutorials/o-que-e-um-sku) estão cadastrados no Catálogo.
+* O produto tem [preço](/pt/docs/tracks/modulo-de-precos-visao-geral).
 * As configurações de [logística](#logistica) possibilitam o envio do produto para o cliente. Estas configurações incluem [estoque](/pt/docs/tutorials/estoque), [doca](/pt/docs/tutorials/doca), [política de envio](/pt/docs/tutorials/politica-de-envio), entre outras.
 * Com relação ao [inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque), o produto se enquadra em uma das seguintes situações:
     * Existe contagem do produto disponível para vendas (itens [reservados](/pt/docs/tutorials/como-a-reserva-funciona) não contam como disponíveis).
     * O estoque infinito está configurado para o produto.
     * A opção para exibir o produto quando esgotado está habilitada.
-* Os templates de *[Content Management System (CMS)](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC)* da loja estão configurados.
+* Os templates de *[Content Management System (CMS)](/pt/docs/tracks/o-que-e-o-cms)* da loja estão configurados.
 
 Quando um produto não aparece na vitrine, é necessário ajustar uma ou mais destas configurações. 
 
@@ -34,7 +34,7 @@ O artigo atual explica como investigar erros de indisponibilidade do produto na 
 * [Logística](#logistica)
 * [CMS](#cms)
 
-> ⚠️ Após ajustar as informações de produto e SKU, ou alterar configurações de logística, é necessário aguardar a indexação do produto. Você pode acompanhar o status por meio da [fila de indexação](/pt/tutorial/entendendo-o-funcionamento-da-indexacao) do Admin VTEX, em **Catálogo > Relatórios > Produtos indexados**. Após a conclusão da indexação, recomendamos acessar a página do produto no site da loja usando uma aba anônima do navegador, para visualizar a versão atualizada e sem cache.
+> ⚠️ Após ajustar as informações de produto e SKU, ou alterar configurações de logística, é necessário aguardar a indexação do produto. Você pode acompanhar o status por meio da [fila de indexação](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao) do Admin VTEX, em **Catálogo > Relatórios > Produtos indexados**. Após a conclusão da indexação, recomendamos acessar a página do produto no site da loja usando uma aba anônima do navegador, para visualizar a versão atualizada e sem cache.
 
 Existem situações nas quais o produto aparece na vitrine, mas se torna indisponível quando adicionado ao carrinho. Diversas configurações da sua logística podem estar envolvidas, saiba mais no artigo [Quais configurações logísticas impactam na disponibilidade do produto no carrinho?](/pt/docs/tutorials/quais-configuracoes-logisticas-impactam-na-disponibilidade-do-produto-no-carrinho).
 
@@ -119,7 +119,7 @@ Na página de SKUs, em **Produtos > Catálogo > Produtos e SKUs**, siga as instr
 
 ### Indexed Info
 
-Para um produto aparecer no site, ele precisa estar [indexado](/pt/tutorial/entendendo-o-funcionamento-da-indexacao/). O indexador do **Catálogo** permite visualizar informações detalhadas sobre a indexação de cada produto e SKU, seguindo os passos abaixo:
+Para um produto aparecer no site, ele precisa estar [indexado](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao/). O indexador do **Catálogo** permite visualizar informações detalhadas sobre a indexação de cada produto e SKU, seguindo os passos abaixo:
 
 1. Em **Produtos > Catálogo > Produtos e SKUs**, encontre o produto que você deseja investigar na lista.
 2. Na linha do produto a ser verificado, clique na seta para baixo <i class="fa-solid fa-sort-down"></i> ao lado do botão `Alterar`.
@@ -141,7 +141,7 @@ Um SKU ativo e sem erros terá o registro no indexador similar ao ilustrado a se
 
 ## Preços
 
-No módulo de **Preços**, é importante verificar se os SKUs do seu produto contêm [preços base](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) cadastrados:
+No módulo de **Preços**, é importante verificar se os SKUs do seu produto contêm [preços base](/pt/docs/tracks/preco-base-definicao-de-conceito) cadastrados:
 
 1. Acesse **Produtos > Preços > Lista de preços**.
 2. Verifique a linha de cada SKU e a coluna correspondente ao preço na política comercial desejada.
@@ -164,7 +164,7 @@ Para criar um preço base no Admin VTEX, siga os passos abaixo:
 
 4. Clique em `X` ou na área fora da barra lateral para salvar o preço.
 
-Também é possível criar preços base por planilha ou pela Pricing API. Para mais informações, confira os passos descritos no artigo [Cadastrar preço base](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29).
+Também é possível criar preços base por planilha ou pela Pricing API. Para mais informações, confira os passos descritos no artigo [Cadastrar preço base](/pt/docs/tracks/cadastrar-preco-base).
 
 ## Logística
 
@@ -199,7 +199,7 @@ Se o [estoque futuro](https://developers.vtex.com/docs/api-reference/logistics-a
 
 ## CMS
 
-Se o seu produto não aparecer no site mesmo após verificar todas as configurações de **Catálogo**, **Preços **e **Logística**, é importante conferir o [CMS](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) da sua loja. A seguir, veja como investigar se o [binding](/pt/docs/tutorials/o-que-e-binding) da sua loja está correto e verifique as configurações específicas para [CMS - Portal Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) e [VTEX IO](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2).
+Se o seu produto não aparecer no site mesmo após verificar todas as configurações de **Catálogo**, **Preços **e **Logística**, é importante conferir o [CMS](/pt/docs/tracks/o-que-e-o-cms) da sua loja. A seguir, veja como investigar se o [binding](/pt/docs/tutorials/o-que-e-binding) da sua loja está correto e verifique as configurações específicas para [CMS - Portal Legado](/pt/docs/tracks/cms-portal-legado) e [VTEX IO](/pt/docs/tracks/cms-vtex-io).
 
 > ⚠️ Para realizar a investigação no CMS descrita a seguir, é necessário solicitar apoio da equipe de desenvolvedores responsável pela sua loja.
 
@@ -218,11 +218,11 @@ Independentemente de qual CMS a sua loja utiliza, seja Portal Legado ou VTEX IO,
 
 ### CMS - Portal Legado
 
-Caso a sua loja utilize o [CMS - Portal Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), é recomendado que os desenvolvedores da sua loja verifiquem se o [controle](/pt/tutorial/lista-de-controles-para-templates--tutorials_563#controles-para-paginas-de-departamento-categoria-e-busca) de resultado da busca de produtos (`<vtex.cmc:searchResult/>`) está sendo utilizado nos [templates](/pt/docs/tutorials/como-criar-um-template-de-pagina) das páginas de Departamento, Categoria e Busca em **CMS > Layout**, pois a sua ausência faz com que os produtos não sejam exibidos. 
+Caso a sua loja utilize o [CMS - Portal Legado](/pt/docs/tracks/cms-portal-legado), é recomendado que os desenvolvedores da sua loja verifiquem se o [controle](/pt/tutorial/lista-de-controles-para-templates--tutorials_563#controles-para-paginas-de-departamento-categoria-e-busca) de resultado da busca de produtos (`<vtex.cmc:searchResult/>`) está sendo utilizado nos [templates](/pt/docs/tutorials/como-criar-um-template-de-pagina) das páginas de Departamento, Categoria e Busca em **CMS > Layout**, pois a sua ausência faz com que os produtos não sejam exibidos. 
 
 ### CMS - VTEX IO
 
-Se a sua loja for desenvolvida no [VTEX IO](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), os desenvolvedores da sua loja precisam verificar as configurações de **Páginas** e os blocos declarados nos templates da loja.
+Se a sua loja for desenvolvida no [VTEX IO](/pt/docs/tracks/cms-vtex-io), os desenvolvedores da sua loja precisam verificar as configurações de **Páginas** e os blocos declarados nos templates da loja.
 
 #### Páginas
 
@@ -252,8 +252,8 @@ Nos arquivos do [tema da sua loja](https://developers.vtex.com/vtex-developer-do
 * [Por que o produto não aparece no site? Como analisar: passo a passo e indexed info - VTEX Community](https://community.vtex.com/t/por-que-o-produto-nao-aparece-no-site-como-analisar-passo-a-passo-e-indexed-info/26610)
 * [Quais configurações logísticas impactam na disponibilidade do produto no carrinho?](/pt/docs/tutorials/quais-configuracoes-logisticas-impactam-na-disponibilidade-do-produto-no-carrinho)
 * [Catálogo - Definição de conceito](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ)
-* [Como funciona a indexação](/pt/tutorial/entendendo-o-funcionamento-da-indexacao)
+* [Como funciona a indexação](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao)
 * [Módulo de Preços - Visão geral](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP)
 * [Gerenciar inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque)
 * [Simulador de envio](/pt/docs/tutorials/simulador-de-envio)
-* [CMS - Visão geral](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC)
+* [CMS - Visão geral](/pt/docs/tracks/o-que-e-o-cms)

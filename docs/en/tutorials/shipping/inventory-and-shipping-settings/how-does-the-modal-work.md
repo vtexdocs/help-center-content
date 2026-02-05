@@ -23,4 +23,4 @@ When registering an SKU, you can inform that it must be delivered through a spec
 
 ### Related articles
 
-- [Setting up modal for carriers](/en/tutorial/configure-modal)
+- [Setting up modal for carriers](/en/docs/tutorials/configure-modal)

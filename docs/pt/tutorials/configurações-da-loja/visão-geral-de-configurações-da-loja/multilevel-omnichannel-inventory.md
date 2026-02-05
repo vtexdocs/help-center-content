@@ -107,7 +107,7 @@ A feature de Manual Price não se aplica ao Multilevel Omnichannel Inventory. N�
 
 - [Integração com o ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide)  
 - [Pricing API REST](https://developers.vtex.com/vtex-rest-api/reference/createupdatepriceorfixedprice)  
-- [Página de preços no Admin VTEX](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)  
+- [Página de preços no Admin VTEX](/pt/docs/tracks/modulo-de-precos-visao-geral)  
 
 ### Informação de usuário
 

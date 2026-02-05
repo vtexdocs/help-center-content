@@ -30,7 +30,7 @@ Store Framework is a solution for building storefronts that leverages VTEX IO. U
 ![vtex io](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/store-development/frontend_1.png)
 
 Stores created with Store Framework also include: 
-- **[Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG)**: Search tool that corrects spelling errors and enables conditional rules for displaying the search result.
+- **[Intelligent Search](/en/docs/tracks/overview-intelligent-search)**: Search tool that corrects spelling errors and enables conditional rules for displaying the search result.
 - **[Multi-language](/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO?&utm_source=autocomplete)**: VTEX IO enables the configuration of automatic translation into other languages in the store.
 - **[Cross-border](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-cross-border-stores)**: Allows a [VTEX multi-store](/en/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.139338803.1060780652.1642427010-1001456323.1619912759) to operate in different countries with an approach specific to each of them.
 

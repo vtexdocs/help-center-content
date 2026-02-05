@@ -16,14 +16,14 @@ legacySlug: por-que-o-produto-nao-aparece-no-site
 
 Para que un producto se muestre en la vitrina de la tienda es necesario que esté disponible para la venta mediante las siguientes configuraciones:
 
-* El [producto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) y sus [SKUs](/es/docs/tutorials/que-es-un-sku) están registrados en el catálogo.
-* El producto tiene [precio](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu).
+* El [producto](/es/docs/tracks/registrar-producto) y sus [SKUs](/es/docs/tutorials/que-es-un-sku) están registrados en el catálogo.
+* El producto tiene [precio](/es/docs/tracks/modulo-de-precios-vision-general).
 * La configuración de [logística](#logistica) permite el envío del producto al cliente, incluyendo [almacén](/es/docs/tutorials/almacen), [muelle](/es/docs/tutorials/muelles), [política de envío](/es/docs/tutorials/politica-de-envio), entre otros ajustes.
 * La configuración de [stock](/es/docs/tutorials/gestionar-items-en-inventario) es una de las siguientes:
     * El producto tiene stock disponible para la venta (los ítems [reservados](/es/docs/tutorials/como-se-maneja-la-reserva) no cuentan como disponibles).
     * El producto tiene stock ilimitado configurado.
     * La opción de mostrar el producto sin stock (agotado) está activada.
-* Las plantillas del [Content Management System (CMS)](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) de la tienda están configuradas.
+* Las plantillas del [Content Management System (CMS)](/es/docs/tracks/o-que-e-o-cms) de la tienda están configuradas.
 
 Cuando un producto no se muestra en la vitrina, deben ajustarse una o más de estas configuraciones.
 
@@ -141,7 +141,7 @@ Un SKU activo y sin errores tendrá el registro en el indexador parecido al que 
 
 ## Precios
 
-En el módulo de **Precios**, es importante verificar que los SKU del producto tengan [precios base](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) registrados.
+En el módulo de **Precios**, es importante verificar que los SKU del producto tengan [precios base](/es/docs/tracks/preco-base-definicao-de-conceito) registrados.
 
 1. Accede a **Productos > Precios > Lista de precios**.
 2. Verifica la línea de cada SKU y la columna correspondiente al precio en la política comercial deseada.
@@ -164,7 +164,7 @@ Para crear un precio base en el Admin VTEX, sigue los pasos a continuación:
 
 4. Haz clic en la `X` o en el área fuera de la barra lateral para guardar el precio.
 
-También puedes crear precios base por plantilla o por la API Pricing. Para más información, sigue los pasos que se describen en el artículo [Registrar precio base](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29).
+También puedes crear precios base por plantilla o por la API Pricing. Para más información, sigue los pasos que se describen en el artículo [Registrar precio base](/es/docs/tracks/registrar-precio-base).
 
 ## Logística
 
@@ -199,7 +199,7 @@ Si el SKU tiene el [stock futuro](https://developers.vtex.com/docs/api-reference
 
 ## CMS
 
-Si tu producto no aparece en el sitio web incluso después de verificar todas las configuraciones en **Catálogo**, **Precios** y **Logística**, es importante revisar el [CMS](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) de tu tienda. Luego, revisa si el _[binding](/es/docs/tutorials/que-es-binding)_ de tu tienda es el correcto y también revisa la configuración específica de [CMS - Portal Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) y [VTEX IO](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2).
+Si tu producto no aparece en el sitio web incluso después de verificar todas las configuraciones en **Catálogo**, **Precios** y **Logística**, es importante revisar el [CMS](/es/docs/tracks/o-que-e-o-cms) de tu tienda. Luego, revisa si el _[binding](/es/docs/tutorials/que-es-binding)_ de tu tienda es el correcto y también revisa la configuración específica de [CMS - Portal Legado](/es/docs/tracks/cms-portal-legado) y [VTEX IO](/es/docs/tracks/cms-vtex-io).
 
 > ⚠️ Para realizar la revisión que se describe a continuación en el CMS, debes pedirle ayuda al equipo de desarrolladores encargado de tu tienda.
 
@@ -218,11 +218,11 @@ Independientemente de qué CMS usa tu tienda, ya sea el Portal Legado o VTEX IO,
 
 ### CMS - Portal Legado
 
-Si tu tienda utiliza el [CMS - Portal Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), se recomienda que los desarrolladores de tu tienda verifiquen si el [control](/es/tutorial/lista-de-controles-para-templates--tutorials_563#controles-para-paginas-de-departamento-categoria-y-busqueda) del resultado de la búsqueda de productos (`<vtex.cmc:searchResult/>`) se está usando en las [plantillas](/es/docs/tutorials/como-crear-un-template-de-pagina) de las páginas Departamento, Categoría y Búsqueda en **CMS > Layout**,  porque, de no ser así, los productos no se mostrarán.
+Si tu tienda utiliza el [CMS - Portal Legado](/es/docs/tracks/cms-portal-legado), se recomienda que los desarrolladores de tu tienda verifiquen si el [control](/es/tutorial/lista-de-controles-para-templates--tutorials_563#controles-para-paginas-de-departamento-categoria-y-busqueda) del resultado de la búsqueda de productos (`<vtex.cmc:searchResult/>`) se está usando en las [plantillas](/es/docs/tutorials/como-crear-un-template-de-pagina) de las páginas Departamento, Categoría y Búsqueda en **CMS > Layout**,  porque, de no ser así, los productos no se mostrarán.
 
 ### CMS - VTEX IO
 
-Si tu tienda se desarrolla en [VTEX IO](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), los desarrolladores deben verificar la configuración de las **Páginas** y de los bloques incluidos en las plantillas de la tienda.
+Si tu tienda se desarrolla en [VTEX IO](/es/docs/tracks/cms-vtex-io), los desarrolladores deben verificar la configuración de las **Páginas** y de los bloques incluidos en las plantillas de la tienda.
 
 #### Páginas
 
@@ -249,10 +249,10 @@ En los archivos del [tema de tu tienda](https://developers.vtex.com/vtex-develop
 
 ## Más información
 
-* [Catálogo - Definición de concepto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR)
+* [Catálogo - Definición de concepto](/es/docs/tracks/catalogo-definicion-de-concepto)
 * [¿Qué ajustes de logística impactan la disponibilidad del producto en el carrito?](/es/docs/tutorials/que-ajustes-de-logistica-impactan-la-disponibilidad-del-producto-en-el-carrito)
 * [Cómo funciona la indexación](/es/docs/tutorials/entendiendo-el-funcionamento-de-la-indexacion)
-* [Módulo de precios - Información general](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)
+* [Módulo de precios - Información general](/es/docs/tracks/modulo-de-precios-vision-general)
 * [Gestión del stock](/es/docs/tutorials/gestionar-items-en-inventario)
 * [Simulador de envío](/es/docs/tutorials/simulador-de-envio)
-* [CMS - Información general](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC)
+* [CMS - Información general](/es/docs/tracks/o-que-e-o-cms)

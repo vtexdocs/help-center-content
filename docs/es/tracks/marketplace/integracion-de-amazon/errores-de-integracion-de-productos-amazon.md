@@ -51,7 +51,7 @@ En este artículo, describimos los siguientes errores:
 
 - **El valor en la plantilla de mapeo para la especificación "Material" o "Department" no es un valor de atributo/especificación aceptado por Amazon**
 
-  En ambos errores, la [categoría global VTEX](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) del producto seleccionado por el seller requiere el registro obligatorio de los atributos **Department** o **Material** en el producto y que se rellenen en la [plantilla de mapeo](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#4-planilha-de-mapeamento). [Registra](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) el atributo en el producto y rellena la plantilla según el ejemplo a continuación:
+  En ambos errores, la [categoría global VTEX](/es/docs/tracks/envio-de-productos-a-amazon) del producto seleccionado por el seller requiere el registro obligatorio de los atributos **Department** o **Material** en el producto y que se rellenen en la [plantilla de mapeo](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#4-planilha-de-mapeamento). [Registra](/es/docs/tracks/especificaciones-definicion-de-concepto) el atributo en el producto y rellena la plantilla según el ejemplo a continuación:
 
 |**CategoryID**|**VariationTheme**|**Type**|**VTEXSpecification**|**AmazonSpecification**|**VTEXValue**|**AmazonValue**|
 | :- | :- | :- | :- | :- | :- | :- |
@@ -63,11 +63,11 @@ En este artículo, describimos los siguientes errores:
 
 - **El valor de la especificación (X) en la plantilla no existe en la especificación del producto en VTEX**
 
-  En el error anterior, el atributo mencionado no está registrado en el SKU del catálogo VTEX. Debes [registrar el atributo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) y volver a realizar el [mapeo](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) del producto enviado.
+  En el error anterior, el atributo mencionado no está registrado en el SKU del catálogo VTEX. Debes [registrar el atributo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) y volver a realizar el [mapeo](/es/docs/tracks/envio-de-productos-a-amazon) del producto enviado.
 
 - **La unidad de edad mínima en la plantilla de mapeo no concuerda con la esperada por Amazon**
 
-  La unidad de edad mínima no concuerda con la solicitada por Amazon. Amazon acepta valores en años o meses. Vuelve a realizar el [mapeo](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) con los valores aceptados por el marketplace.
+  La unidad de edad mínima no concuerda con la solicitada por Amazon. Amazon acepta valores en años o meses. Vuelve a realizar el [mapeo](/es/docs/tracks/envio-de-productos-a-amazon) con los valores aceptados por el marketplace.
 
 - **Amazon no acepta las variaciones de SKU de la plantilla de mapeo**
 
@@ -102,11 +102,11 @@ En este artículo, describimos los siguientes errores:
 - **El atributo Color no está registrado en el SKU o no consta en la plantilla de mapeo**
 
   El atributo Color es obligatorio para la categoría del producto que estás enviando a Amazon y no está registrado en el SKU o no fue mapeado en la plantilla de mapeo.
-Debes registrar una [especificación de SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/6UjLHdAT5YLuflki10SXLr) para el atributo Color y/o volver a realizar el [mapeo](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) del producto enviado.
+Debes registrar una [especificación de SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/6UjLHdAT5YLuflki10SXLr) para el atributo Color y/o volver a realizar el [mapeo](/es/docs/tracks/envio-de-productos-a-amazon) del producto enviado.
 
 - **La especificación de producto "TargetGender" es obligatoria para integrar el producto con Amazon**
 
-  La especificación de producto TargetGender es obligatoria para la categoría del producto que estás enviando. Dependiendo de la categoría, Amazon puede llamarla Department o TargetGender. [Registra la especificación de producto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) TargetGender y vuelve a realizar el [mapeo](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD).
+  La especificación de producto TargetGender es obligatoria para la categoría del producto que estás enviando. Dependiendo de la categoría, Amazon puede llamarla Department o TargetGender. [Registra la especificación de producto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) TargetGender y vuelve a realizar el [mapeo](/es/docs/tracks/envio-de-productos-a-amazon).
 
 ## Errores de divergencia entre los catálogos de VTEX y Amazon (match de anuncios)
 
@@ -118,7 +118,7 @@ Debes registrar una [especificación de SKU](/es/tracks/catalogo-101--5AF0XfnjfW
 
 - **El token rellenado en el formulario de configuración de Amazon en VTEX está expirado o no tiene permiso de acceso en este flujo**
 
-  Este error se produce porque el número de serie del **token de autorización de MWS** expiró. Ponte en contacto con Amazon para resolver este problema y vuelve a realizar la [configuración de la integración de Amazon](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan).
+  Este error se produce porque el número de serie del **token de autorización de MWS** expiró. Ponte en contacto con Amazon para resolver este problema y vuelve a realizar la [configuración de la integración de Amazon](/es/docs/tracks/configurar-la-integracion-de-amazon).
 
 - **Tu cuenta no tiene permiso de Amazon MWS**
 
@@ -128,11 +128,11 @@ Debes registrar una [especificación de SKU](/es/tracks/catalogo-101--5AF0XfnjfW
 
 - **El valor que aparece en el campo "Nombre para el tipo de envío" en la configuración de la integración de Amazon en VTEX no es igual al que aparece en Amazon Seller Central**
 
-  Este error se produce cuando el valor registrado en el campo **Nombre para el tipo de envío** en la etapa [Configurar la integración de Amazon](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan) en VTEX difiere del valor registrado en Amazon Seller Central. Consulta la documentación de Amazon Seller Central para aclarar dudas y corregir el problema.
+  Este error se produce cuando el valor registrado en el campo **Nombre para el tipo de envío** en la etapa [Configurar la integración de Amazon](/es/docs/tracks/configurar-la-integracion-de-amazon) en VTEX difiere del valor registrado en Amazon Seller Central. Consulta la documentación de Amazon Seller Central para aclarar dudas y corregir el problema.
 
 - **El valor que aparece en el campo "SELLER ID" en la configuración de la integración de Amazon en VTEX no es el mismo que aparece en Amazon Seller Central**
 
-  Este error se produce cuando el valor registrado en el campo **Seller ID** en la etapa[ Configurar la integración de Amazon](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan) en VTEX difiere del valor registrado en Amazon Seller Central. En efecto, el valor de **Seller ID** que se solicita en la configuración de la integración es el que aparece en Amazon. [Consulta la documentación de Amazon Seller Portal](https://sellercentral.amazon.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fsellercentral.amazon.com%2Fhome&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=sc_na_amazon_v2&openid.mode=checkid_setup&language=en_US&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=sc_na_amazon_v2&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&ssoResponse=eyJ6aXAiOiJERUYiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiQTI1NktXIn0.jk7RCgyM4a8-ticE3kjb7XXngMJKpyjxxbhlZjiNAG7CbVI5ei2sIQ.IEq--_YXM1lwf15N.c4ZcixdNfbrDYajjTiYzTsIanK5hS2nSY8tVRiAbP9S7o6nmfzHm6QDkOlQ0JVbRMf3qohVVI7tmQWoIwyegOGADsdg5TQbHeAbrhP4mQ3mTofsFSqmf63LwJ4tYq4g_Fu86FOGH-zZAcsDTqZIE8wgQwXfua3zwGvVFFCN_Z_ME1JWimOiwGDqd_ZjKbVICSkhufmAq.kKdpxcDBuoYRqKymaONbwA) para aclarar dudas y corregir el problema.
+  Este error se produce cuando el valor registrado en el campo **Seller ID** en la etapa[ Configurar la integración de Amazon](/es/docs/tracks/configurar-la-integracion-de-amazon) en VTEX difiere del valor registrado en Amazon Seller Central. En efecto, el valor de **Seller ID** que se solicita en la configuración de la integración es el que aparece en Amazon. [Consulta la documentación de Amazon Seller Portal](https://sellercentral.amazon.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fsellercentral.amazon.com%2Fhome&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=sc_na_amazon_v2&openid.mode=checkid_setup&language=en_US&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=sc_na_amazon_v2&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&ssoResponse=eyJ6aXAiOiJERUYiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiQTI1NktXIn0.jk7RCgyM4a8-ticE3kjb7XXngMJKpyjxxbhlZjiNAG7CbVI5ei2sIQ.IEq--_YXM1lwf15N.c4ZcixdNfbrDYajjTiYzTsIanK5hS2nSY8tVRiAbP9S7o6nmfzHm6QDkOlQ0JVbRMf3qohVVI7tmQWoIwyegOGADsdg5TQbHeAbrhP4mQ3mTofsFSqmf63LwJ4tYq4g_Fu86FOGH-zZAcsDTqZIE8wgQwXfua3zwGvVFFCN_Z_ME1JWimOiwGDqd_ZjKbVICSkhufmAq.kKdpxcDBuoYRqKymaONbwA) para aclarar dudas y corregir el problema.
 
 ## Errores de envío de la categoría global VTEX
 
@@ -144,6 +144,6 @@ Debes registrar una [especificación de SKU](/es/tracks/catalogo-101--5AF0XfnjfW
 
 - **El SKU que intentaste enviar está inactivo en VTEX**
 
-El [SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) no está activo en VTEX. Solo se pueden integrar SKU activos. En algunos caos, este error se genera por [colecciones](/es/docs/tutorials/como-eliminar-una-coleccion) antiguas asociadas a la política comercial de Amazon que contiene SKU inactivos.
+El [SKU](/es/docs/tracks/sku-definicion-de-concepto) no está activo en VTEX. Solo se pueden integrar SKU activos. En algunos caos, este error se genera por [colecciones](/es/docs/tutorials/como-eliminar-una-coleccion) antiguas asociadas a la política comercial de Amazon que contiene SKU inactivos.
 Verifica el status del SKU en el Admin desde el módulo *PRODUCTOS > Catálogo > Productos y SKUs* y, de ser necesario, [activa el SKU](/es/docs/tutorials/activar-skus-en-massa).
 

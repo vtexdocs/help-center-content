@@ -52,7 +52,7 @@ Essa ferramenta é uma opção recomendada para marketplaces que desejam ter mai
 
 Um produto de um seller que foi enviado para o marketplace com informações de preço e estoque configuradas se torna um anúncio. Porém, antes de o anúncio estar disponível para venda, o marketplace precisa revisar e aprová-lo em um processo chamado catalogação de anúncios. A catalogação permite criar novos produtos e associar anúncios a SKUs ou produtos já existentes para disponibilizá-los para venda.
 
-O processo de catalogação é realizado na página [SKUs Recebidos](/pt/tutorial/sugerindo-e-aprovando-skus/), no menu **MARKETPLACE > Sellers** do seu Admin VTEX, ou através de chamadas de API de [Match Received SKUs](https://developers.vtex.com/vtex-rest-api/reference/match). 
+O processo de catalogação é realizado na página [SKUs Recebidos](/pt/docs/tutorials/sugerindo-e-aprovando-skus/), no menu **MARKETPLACE > Sellers** do seu Admin VTEX, ou através de chamadas de API de [Match Received SKUs](https://developers.vtex.com/vtex-rest-api/reference/match). 
 
 > ℹ️ Antes de aprovar um anúncio, é importante garantir que as informações de produtos enviadas pelo seller correspondam à estratégia do seu negócio. Ao catalogar anúncios, considere a qualidade das informações enviadas pelo seller, como preço, descrição do produto e imagem.
 
@@ -71,7 +71,7 @@ Você pode configurar o [CMS](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z) do seu mar
 ## Gerenciar pedidos
 O gerenciamento de pedidos do marketplace está diretamente ligado à satisfação dos consumidores com o seu marketplace. Um fator-chave para uma avaliação positiva do seu marketplace é a definição e o acompanhamento do SLA (_Service Level Agreement_, em inglês) entre sellers e marketplaces. O SLA é o acordo de serviço firmado entre o seller e o marketplace, e inclui detalhes sobre políticas de entrega, atendimento ao cliente e trocas e devoluções, por exemplo. 
 
-Na plataforma VTEX, a seção **Gerenciamento de Pedidos** permite que sellers e marketplaces acompanhem o [Fluxo de pedidos](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/4811ExCe3WrEiRMV3sy9n8). Durante a consulta de pedidos, é possível diferenciar [pedidos do marketplace e de seus sellers](/pt/tutorial/o-que-sao-pedidos-com-origem-marketplace-e-origem-fulfillment--6eVYrmUAwMOeKICU2KuG06). 
+Na plataforma VTEX, a seção **Gerenciamento de Pedidos** permite que sellers e marketplaces acompanhem o [Fluxo de pedidos](/pt/docs/tracks/fluxo-do-pedido). Durante a consulta de pedidos, é possível diferenciar [pedidos do marketplace e de seus sellers](/pt/tutorial/o-que-sao-pedidos-com-origem-marketplace-e-origem-fulfillment--6eVYrmUAwMOeKICU2KuG06). 
 
 Para [marketplaces que processam pagamentos](/pt/docs/tutorials/pagamentos-em-marketplaces-vtex), é necessário acompanhar o [Fluxo da transação no Pagamentos](/pt/docs/tutorials/fluxo-da-transacao-no-pagamentos). Já os sellers são responsáveis por realizar o [fulfillment](/pt/tutorial/o-que-sao-pedidos-com-origem-marketplace-e-origem-fulfillment--6eVYrmUAwMOeKICU2KuG06#fulfillment) do pedido, portanto, devem [inserir a nota fiscal](/pt/tutorial/como-inserir-a-nota-fiscal) para faturá-lo. 
 

@@ -108,7 +108,7 @@ A pausa no anúncio do Mercado Livre pode ter ocorrido por dois motivos:
 
 #### 1. Quando o produto é removido da política comercial vinculada ao Mercado Livre ou inativado, o anúncio será pausado.
 
-Para realizar a integração com o Mercado Livre é definir uma política comercial, ou seja, estabelecer uma diferenciação de catálogo e/ou logística entre os diferentes canais de venda de uma loja. [Leia mais](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/15NZiQstCET8zyQUIa7nhw)
+Para realizar a integração com o Mercado Livre é definir uma política comercial, ou seja, estabelecer uma diferenciação de catálogo e/ou logística entre os diferentes canais de venda de uma loja. [Leia mais](/pt/docs/tracks/configurar-politica-comercial-para-o-mercado-livre)
 
 #### 2. Quando o produto atinge o estoque mínimo cadastrado, o anúncio será pausado. O valor desse estoque mínimo é definido no painel de configuração do Mercado Livre no Bridge da VTEX.
 
@@ -138,7 +138,7 @@ O Mercado Livre possui uma limitação de 60 caracteres no nome do anúncio. Por
 
 Pela regra do Mercado Livre, não é possível reenviar informações dos produtos depois que eles foram anunciados e vendidos. Será necessário excluir o anúncio do produto e alterar as informações desejadas.
 
-Caso o produto não tenha sido vendido ainda, será possível fazer alterações. Se a alteração for no valor da variação/atributo, essa mudança deve ser realizada na [página de mapeamento](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA). Se a alteração for no valor da especificação do produto, leia nosso artigo [Cadastrar especificações de produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin).
+Caso o produto não tenha sido vendido ainda, será possível fazer alterações. Se a alteração for no valor da variação/atributo, essa mudança deve ser realizada na [página de mapeamento](/pt/docs/tracks/mapear-categorias-e-atributos-dos-produtos-para-o-mercado-livre-mapper). Se a alteração for no valor da especificação do produto, leia nosso artigo [Cadastrar especificações de produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin).
 
 > ⚠️ Após excluir um produto, não é possível recuperar a relevância do seu anúncio.
 
@@ -185,7 +185,7 @@ Com exceção dos produtos de roupa, calçados e bolsas, a integração cria som
 
 ### Por que as especificações/atributos dos meus SKUs não são enviadas para o Mercado Livre?
 
-Com exceção dos SKUs de roupa, para enviar as variações e atributos dos SKUs de qualquer categoria é necessário montar a planilha de mapeamento. Para mais informações, leia o artigo [Mapeamento de categorias, variações e atributos do Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).
+Com exceção dos SKUs de roupa, para enviar as variações e atributos dos SKUs de qualquer categoria é necessário montar a planilha de mapeamento. Para mais informações, leia o artigo [Mapeamento de categorias, variações e atributos do Mercado Livre](/pt/docs/tracks/mapear-categorias-e-atributos-dos-produtos-para-o-mercado-livre-mapper).
 
 ### Como apagar um anúncio no Mercado Livre?
 
@@ -263,7 +263,7 @@ Feito isso, aguarde mais 15 minutos. Agora começa a etapa mais importante do pr
 
 11. Acesse o __painel__ do Mercado Livre
 12. Faça o __login__ com a conta que deseja integrar
-13. Refaça o __[processo de autorizaçao](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4leBEAd22Icm46kGeiGgak)__
+13. Refaça o __[processo de autorizaçao](/pt/docs/tracks/autorizar-integracao-do-mercado-livre-no-painel-da-vtex)__
 15. __Salve__ as configurações.
 
 Pronto! Desse modo, sua integração voltará a funcionar normalmente dentro de alguns minutos.

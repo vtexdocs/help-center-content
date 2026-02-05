@@ -25,4 +25,4 @@ Es decir, es lo que define que un __account name__ (configurado en el License Ma
 Esta es la configuración realizada cuando una cuenta desea tener más de una tienda. Para cada una de esas tiendas (que llamamos [multitiendas](/es/tutorial/como-crear-multiloja-multidominio)), se hace un binding.
 
 ### Artículos relacionados
-- [Vincular un account name a un Website (binding)](/es/tutorial/vincular-un-account-name-a-un-website-binding) 
+- [Vincular un account name a un Website (binding)](/es/docs/tutorials/vincular-un-account-name-a-un-website-binding) 

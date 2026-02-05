@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: "The SKU Bindings page has been redesigned to simplify managing the relationship between sellers' and marketplaces' SKUs."
 ---
 
-VTEX allows your store to act both as a [seller](/en/docs/tutorials/configuring-a-seller-on-vtex-marketplace) and as a [marketplace](/en/docs/tutorials/configuring-vtex-marketplace), which allows you to reduce costs, reach more customers, and increase the variety of products you offer. In this context, each marketplace must establish and maintain a direct relationship between its catalog and the[ SKUs](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) offered by sellers.
+VTEX allows your store to act both as a [seller](/en/docs/tutorials/configuring-a-seller-on-vtex-marketplace) and as a [marketplace](/en/docs/tutorials/configuring-vtex-marketplace), which allows you to reduce costs, reach more customers, and increase the variety of products you offer. In this context, each marketplace must establish and maintain a direct relationship between its catalog and the[ SKUs](/en/docs/tracks/sku-concept-definition) offered by sellers.
 
 To improve this experience, we redesigned the **SKU Bindings** page in the VTEX Admin. The new interface allows you to track and manage the binding relationship between seller and marketplace SKUs in a simpler and more agile way.
 

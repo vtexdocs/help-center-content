@@ -30,7 +30,7 @@ Para configurar o PagBrasilV2, siga os passos abaixo:
 9. Em __Captura antecipada__, escolha em quanto tempo você deseja que a captura seja realizada (depois da aprovação da transação e da análise do antifraude). Esta função também pode ser desativada.
 10. Clique em __Salvar__.
 
-Para configurar os métodos de pagamento a serem processados pela PagBrasilV2, acesse [Configurar condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela PagBrasilV2, acesse [Configurar condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

@@ -18,7 +18,7 @@ order: 10
 Há três formas de cadastrar um preço fixo:
 
 - [Pelo módulo de Preços no Admin](#admin)
-- [Pela planilha de preços fixos](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D)
+- [Pela planilha de preços fixos](/pt/docs/tracks/exportacao-e-importacao-via-planilha-de-precos)
 - [Pela Pricing API](#pricing-api)
 
 ## Admin

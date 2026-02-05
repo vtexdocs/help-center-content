@@ -15,16 +15,16 @@ locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-Los placeholders son fragmentos de código que se pueden utilizar en cualquier layout y aceptan condiciones de visualización. En otras palabras, son elementos predefinidos que deben configurarse para que puedan ser visualizados por los usuarios de su [web site](/es/tutorial/que-es-un-web-site).
+Los placeholders son fragmentos de código que se pueden utilizar en cualquier layout y aceptan condiciones de visualización. En otras palabras, son elementos predefinidos que deben configurarse para que puedan ser visualizados por los usuarios de su [web site](/es/docs/tutorials/que-es-un-web-site).
 
-Para ello, usted debe utilizar los [layouts](/es/tutorial/que-son-layouts). Son ellos quienes van a indicar el tipo de placeholder (y el archivo del que va a tirar el contenido), permitiendo que el código consiga referenciar esa información y mostrarla en las páginas. 
+Para ello, usted debe utilizar los [layouts](/es/docs/tutorials/que-son-layouts). Son ellos quienes van a indicar el tipo de placeholder (y el archivo del que va a tirar el contenido), permitiendo que el código consiga referenciar esa información y mostrarla en las páginas. 
 
-Por lo tanto, tenemos una cadena que implica: la configuración del placeholder en el layout y la conexión de este último con un [template](/es/tutorial/que-son-templates) (repositorio del código que estructura determinada página).
+Por lo tanto, tenemos una cadena que implica: la configuración del placeholder en el layout y la conexión de este último con un [template](/es/docs/tutorials/que-son-templates) (repositorio del código que estructura determinada página).
 
 Los tipos de placeholders configurables son: Banner, Banner DHTML, Colección y HTML.
 
 ### Artículos relacionados
 - [¿Qué es el CMS?](/es/faq/que-es-el-cms)
-- [¿Qué es un web site?](/es/tutorial/que-es-un-web-site)
-- [¿Qué son layouts?](/es/tutorial/que-son-layouts)
-- [¿Qué son templates?](/es/tutorial/que-son-templates)
+- [¿Qué es un web site?](/es/docs/tutorials/que-es-un-web-site)
+- [¿Qué son layouts?](/es/docs/tutorials/que-son-layouts)
+- [¿Qué son templates?](/es/docs/tutorials/que-son-templates)

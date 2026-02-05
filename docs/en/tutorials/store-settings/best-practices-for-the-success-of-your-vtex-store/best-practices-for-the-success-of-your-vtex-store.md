@@ -54,7 +54,7 @@ The main benefits of creating and maintaining updated documentation of the opera
 
 There are strategies to prevent and reduce store exposure to the risk of malicious attacks. Some of the main ones are:
 
-* **Anti-fraud systems:** Configure an [anti-fraud system](/en/tutorial/what-is-anti-fraud) for all store payment methods.
+* **Anti-fraud systems:** Configure an [anti-fraud system](/en/docs/tutorials/what-is-anti-fraud) for all store payment methods.
 * **reCAPTCHA:** Use [reCAPTCHA](/en/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP#) to prevent fraud involving fake user accounts created by malicious software.
 * **Authentication:** If your store has been experiencing recurrent attacks, consider disabling password login and opting for alternative [authentication](/en/docs/tutorials/authentication) methods for your customers.
 
@@ -120,7 +120,7 @@ For this reason, we provide different types of onboarding material about the pla
 
 | **Format** | **Location** | **Language** |
 | :---: | :--- | :--- |
-| Documentation | Help Center: [Onboarding guide](/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/3QfoDZWg9YWl8lwS9MVrnU) | English, Spanish, and Portuguese. |
+| Documentation | Help Center: [Onboarding guide](/en/docs/tracks/introduction-to-vtex) | English, Spanish, and Portuguese. |
 | Videos | Site: [Onboarding VTEX](https://sites.google.com/vtex.com.br/onboardingvtex/trilha) | Portuguese only. |
 | Demos and ebooks | Site: [vtex.com](http://vtex.com) | Each piece of content is available in English, Spanish, or Portuguese, depending on your location. |
 
@@ -155,5 +155,5 @@ These are the [best practices for opening a ticket with VTEX Support](/en/docs/t
 
 These are some of the most important recommendations. For more information, see the article [Best practices for opening a ticket with VTEX Support](/en/docs/tutorials/writing-an-effective-ticket-to-vtex-support).
 
-> ℹ️ For an overview of our ticket support system, check the [VTEX Support](/en/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) track in the **Onboarding guide**.
+> ℹ️ For an overview of our ticket support system, check the [VTEX Support](/en/docs/tracks/vtex-support) track in the **Onboarding guide**.
 

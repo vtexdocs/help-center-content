@@ -61,7 +61,7 @@ _Ex: The set rate is 10%. The original order value should be U$ 100, but it came
 
 **Wish requires product prices and shipping rates to be sent in USD.** Both the shipping table as well as the VTEX pricing module infer the currency from the trade policy being used. 
 
-As previously indicated in step [passo 2.1](/en/tracks/integrating-with-wish--50hbG4bzhSIhjz1lzqI1g4/3OHGQIQmt1dKw9RwKruE7H), our trade policy uses BRL (R$). Therefore, the following steps must be followed in order to convert to USD:
+As previously indicated in step [passo 2.1](/en/docs/tracks/what-to-configure-with-vtex-before-starting-the-integration), our trade policy uses BRL (R$). Therefore, the following steps must be followed in order to convert to USD:
 
 In the `"Dollar quotation (USD)"`, fill in the exchange from (R$) to dollar (US$).
 

@@ -37,7 +37,7 @@ Para realizar o mapeamento acesse no Admin VTEX **Catálogo > Todos os produtos.
 > ❗️ O código de referência do SKU na VTEX deve ser igual ao ID do SKU no Magazine Luiza e o código de referência do produto na VTEX também deve ser igual ao ID do produto no Magazine Luiza. Sem esse mapeamento de equivalência, a migração não funcionará.
 
 4. [Criar uma política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) para utilizar na integração com o Magazine Luiza. Essa política não deve ter produtos associados.  
-5. Ativar o conector do Magazine Luiza conforme a [documentação de integração](/pt/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y/3tZ4qVuMDDsC2jx2DCmjdA) e autenticar a conta.  
+5. Ativar o conector do Magazine Luiza conforme a [documentação de integração](/pt/docs/tracks/configurar-integracao) e autenticar a conta.  
 6. No seller center do Magazine Luiza, o seller deve zerar o estoque de todos os produtos.  
 7. Ao finalizar os passos anteriores, o seller deve informar nos tickets com a VTEX e com o Magazine Luiza qual a data e horário que deseja realizar a migração.   
 

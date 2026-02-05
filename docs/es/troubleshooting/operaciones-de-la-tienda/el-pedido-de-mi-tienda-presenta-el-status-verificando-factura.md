@@ -28,7 +28,7 @@ Cuando el pedido permanece con el status `Verificando factura`, suele ser por lo
 
 ## Solución
 
-En cuanto a la liquidación del pago, el pedido permanece en `Verificando factura` hasta que el [gateway](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#gateway) confirma la liquidación del mismo, lo que se señala mediante el status `Settled` del [flujo de transacciones](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/1xjzgJZvqwaI1rfxLMCC3Y). Pasado un tiempo, si la liquidación no se produce tendrás que crear otro pedido, ya que se trata de un problema de gateway y no de la plataforma.
+En cuanto a la liquidación del pago, el pedido permanece en `Verificando factura` hasta que el [gateway](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#gateway) confirma la liquidación del mismo, lo que se señala mediante el status `Settled` del [flujo de transacciones](/es/docs/tracks/flujo-de-una-transaccion). Pasado un tiempo, si la liquidación no se produce tendrás que crear otro pedido, ya que se trata de un problema de gateway y no de la plataforma.
 
 En cuanto a la factura, es necesario verificar que se ha facturado el importe total del pedido y que los datos enviados son correctos, como se indica en el apartado siguiente.
 

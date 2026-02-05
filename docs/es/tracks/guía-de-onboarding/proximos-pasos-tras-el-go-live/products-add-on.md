@@ -17,11 +17,11 @@ order: 4
 
 Los productos add-on son soluciones que VTEX ofrece para satisfacer demandas específicas de los negocios y que pueden adquirirse por separado mediante un contrato de suscripción.
 
-> ⚠️ Para implementar las soluciones a continuación, debes ponerte en contacto con el equipo de [soporte comercial de VTEX](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
+> ⚠️ Para implementar las soluciones a continuación, debes ponerte en contacto con el equipo de [soporte comercial de VTEX](/es/docs/tracks/soporte-comercial).
 
 ## VTEX Assisted Sales
 
-[Assisted Sales (SuiteShare)](/es/tracks/suiteshare--khP0p8mjIYRIpvM7Cb4Zr/onWmyS8j4Thhde67UBBsB) es una solución creada por VTEX para potenciar las ventas en WhatsApp que ayuda a atraer nuevos clientes, integrar herramientas de ventas, gestionar datos de atención al usuario y métricas de resultados.
+[Assisted Sales (SuiteShare)](/es/docs/tracks/que-es-suiteshare) es una solución creada por VTEX para potenciar las ventas en WhatsApp que ayuda a atraer nuevos clientes, integrar herramientas de ventas, gestionar datos de atención al usuario y métricas de resultados.
 
 ![suiteshare-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/guía-de-onboarding/proximos-pasos-tras-el-go-live/products-add-on_1.JPG)
 
@@ -55,9 +55,9 @@ Para ver una demostración de la aplicación o programar una sesión personaliza
 
 ## VTEX Sales App
 
-Con [VTEX Sales App](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO) los vendedores de las tiendas físicas pueden aumentar su potencial de ventas mediante la integración de datos de stock entre tiendas físicas y online a la vez que ofrecen al cliente un seguimiento completo presencial sobre el proceso de compra. La aplicación puede utilizarse para:
+Con [VTEX Sales App](/es/docs/tracks/vtex-sales-app-configuracion-basica) los vendedores de las tiendas físicas pueden aumentar su potencial de ventas mediante la integración de datos de stock entre tiendas físicas y online a la vez que ofrecen al cliente un seguimiento completo presencial sobre el proceso de compra. La aplicación puede utilizarse para:
 
-- Acceder a la información y vender productos que estén en la propia tienda o en otras ubicaciones, tales como sucursales, socios o centros de distribución ([pasillo infinito](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn)).
+- Acceder a la información y vender productos que estén en la propia tienda o en otras ubicaciones, tales como sucursales, socios o centros de distribución ([pasillo infinito](/es/docs/tracks/pasillo-infinito)).
 - Sugerir productos según el perfil del cliente.
 
 - Ofrecer opciones de entrega instantánea, recogida programada o entrega a domicilio del cliente.

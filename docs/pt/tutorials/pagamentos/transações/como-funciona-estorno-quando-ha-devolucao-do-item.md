@@ -19,7 +19,7 @@ Quando é solicitada a [devolução parcial ou total dos itens](/pt/tutorial/com
 
 Nesse caso, a VTEX realiza sim o estorno no adquirente quando o valor já foi capturado (status `Faturado`). Funciona da seguinte forma: a VTEX entra em contato com o adquirente e tenta realizar o estorno online o quanto antes. 
 
-Contudo, caso essa operação não seja bem sucedida, será enviado [uma notificação via e-mail](/pt/tutorial/como-configurar-notificacoes) informando ao lojista que será preciso contatar o adquirente para efetivar o estorno automático. 
+Contudo, caso essa operação não seja bem sucedida, será enviado [uma notificação via e-mail](/pt/docs/tutorials/como-configurar-notificacoes) informando ao lojista que será preciso contatar o adquirente para efetivar o estorno automático. 
 
 Para saber mais, [clique aqui](/pt/faq/por-que-meu-pedido-cancelado-foi-cobrado-na-fatura-do-cliente).
 
@@ -29,4 +29,4 @@ Quando o pagamento for feito por boleto, se faz necessário gerar um vale manual
 
 O ideal é entrar em contato com o consumidor para alinhar a melhor forma de operar a devolução do valor pago.
 
-_Quando a devolução é feita antes do [reconhecimento da reserva](/pt/tutorial/como-a-reserva-funciona), o item volta para seu estoque de origem ficando disponível para uma nova venda, sem a necessidade do lojista inserir essa unidade manualmente, por planilha ou através de API. Caso a devolução for feita após a reserva ser reconhecida, é necessário retornar a unidade para o estoque, atualizando essa informação manualmente, por planilha ou através de API._
+_Quando a devolução é feita antes do [reconhecimento da reserva](/pt/docs/tutorials/como-a-reserva-funciona), o item volta para seu estoque de origem ficando disponível para uma nova venda, sem a necessidade do lojista inserir essa unidade manualmente, por planilha ou através de API. Caso a devolução for feita após a reserva ser reconhecida, é necessário retornar a unidade para o estoque, atualizando essa informação manualmente, por planilha ou através de API._

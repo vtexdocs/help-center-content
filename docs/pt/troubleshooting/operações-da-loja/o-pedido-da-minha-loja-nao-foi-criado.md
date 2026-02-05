@@ -21,7 +21,7 @@ tags:
   - Estoque
 ---
 
-Quando um cliente tenta realizar uma compra e ocorre um erro na criação do pedido, isso pode acontecer por diferentes razões, como problemas de pagamento, de logística ou de [integração do backend](/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) com ERPs (Enterprise Resource Planning). 
+Quando um cliente tenta realizar uma compra e ocorre um erro na criação do pedido, isso pode acontecer por diferentes razões, como problemas de pagamento, de logística ou de [integração do backend](/pt/docs/tracks/integracoes-de-backend) com ERPs (Enterprise Resource Planning). 
 
 Antes de considerar motivos complexos para erros com pedidos não criados, aplique os processos de resolução de problemas (troubleshooting) apresentados neste artigo. Alguns dos cenários de erro mais comuns são:
 

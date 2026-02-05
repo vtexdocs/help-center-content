@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-A promotion is a discount granted on the amount of the customer's purchase. This discount can be associated to one or several products, to the shipping cost or to a gift, for example.  VTEX offers the following types of promotions: [Regular](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Buy Together](/en/docs/tutorials/buy-together), [More for Less](/en/docs/tutorials/creating-a-more-for-less-promotion), [Progressive Discount](/en/docs/tutorials/progressive-discount), [Buy One Get One](/en/docs/tutorials/buy-one-get-one), and [Campaign Promotion](/en/docs/tutorials/campaign-promotion). 
+A promotion is a discount granted on the amount of the customer's purchase. This discount can be associated to one or several products, to the shipping cost or to a gift, for example.  VTEX offers the following types of promotions: [Regular](/en/docs/tracks/creating-regular-promotions), [Buy Together](/en/docs/tutorials/buy-together), [More for Less](/en/docs/tutorials/creating-a-more-for-less-promotion), [Progressive Discount](/en/docs/tutorials/progressive-discount), [Buy One Get One](/en/docs/tutorials/buy-one-get-one), and [Campaign Promotion](/en/docs/tutorials/campaign-promotion). 
 
 In this article, you will find step-by-step instructions on how to:
 

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-La funcionalidad **Asignación de almacén**permite que los sellers de VTEX que utilizan la [integración**Premium**](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/51oWBHvVxSs8eAwLQhSbSd) con Mercado Libre vinculen sus múltiples almacenes con diferentes almacenes de Mercado Libre.  
+La funcionalidad **Asignación de almacén**permite que los sellers de VTEX que utilizan la [integración**Premium**](/es/docs/tracks/mercado-libre-marketplace) con Mercado Libre vinculen sus múltiples almacenes con diferentes almacenes de Mercado Libre.  
 
 > ℹ️ Únicamente sellers con cuentas habilitadas por Mercado Libre pueden utilizar esta funcionalidad.  
 

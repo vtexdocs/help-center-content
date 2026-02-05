@@ -52,7 +52,7 @@ Para enviar uma fatura parcial, siga os passos abaixo:
 
 > Após o faturamento, faça uma [alteração no pedido](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado).
 
-É possível acompanhar todos os eventos da transação, após as mudanças ocorridas ao pedido, ao clicar em [Ver detalhes da transação](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy).
+É possível acompanhar todos os eventos da transação, após as mudanças ocorridas ao pedido, ao clicar em [Ver detalhes da transação](/pt/docs/tracks/ver-detalhes-da-transacao).
 
 > ℹ️ Também é possível realizar as mesmas ações por meio da nossa API de Orders. Para isso, confira os endpoints: [Register Change on Order](https://developers.vtex.com/vtex-rest-api/reference/registerchange), [Invoice notification](https://developers.vtex.com/vtex-rest-api/reference/invoicenotification), [Retrieve Payment transaction](https://developers.vtex.com/vtex-rest-api/reference/getpaymenttransaction), e [Update order's partial invoice (send tracking number)](https://developers.vtex.com/vtex-rest-api/reference/updatepartialinvoicesendtrackingnumber).
 

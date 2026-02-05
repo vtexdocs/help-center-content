@@ -28,4 +28,4 @@ Each order registration will its data restricted to the payment conditions used
 In addition to these data, this interface is also dynamic in terms of the filters that can be created and the searches that can be performed. To further extend its use, visit:
 
 - [How to search for transactions](/en/tutorial/searching-for-transactions-on-pci-gateway)
-- [How to filter transaction](/en/faq/filtering-transactions-on-pci-gateway)
+- [How to filter transaction](/en/docs/tutorials/filtering-transactions-on-pci-gateway)

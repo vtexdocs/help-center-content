@@ -17,14 +17,14 @@ subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 
 Un __gateway__ (también llamado gateway de pago) es un sistema que efectúa la transmisión de los datos de las compras realizadas en su tienda. 
 
-Es responsable de enviar esta información a los adquirentes, banderas y [bancos emisores](/es/tutorial/que-es-el-banco-emisor) para obtener un retorno sobre la continuación del proceso o su cancelación. En otras palabras, el gateway envía datos y recibe respuestas para que usted sepa si una determinada compra debe o no ser confirmada.
+Es responsable de enviar esta información a los adquirentes, banderas y [bancos emisores](/es/docs/tutorials/que-es-el-banco-emisor) para obtener un retorno sobre la continuación del proceso o su cancelación. En otras palabras, el gateway envía datos y recibe respuestas para que usted sepa si una determinada compra debe o no ser confirmada.
 
 La plataforma VTEX tiene un gateway propio con certificación [PCI](https://help.vtex.com/es/docs/tutorials/que-es-el-pci-ssc), lo que significa que los datos de todos los pagos realizados en su tienda están protegidos de acuerdo con los más altos estándares de seguridad. 
 
-Activando los [conectores](/es/tutorial/que-es-el-conector) y registrando [proveedores de pagos y antifraude](https://help.vtex.com/es/docs/tutorials/afiliaciones-de-gateway), los datos de las compras de sus clientes pueden ser enviados a los adquirentes u otros gateways y, por lo tanto, seguir el flujo de aprobación en las instituciones financieras.
+Activando los [conectores](/es/docs/tutorials/que-es-el-conector) y registrando [proveedores de pagos y antifraude](https://help.vtex.com/es/docs/tutorials/afiliaciones-de-gateway), los datos de las compras de sus clientes pueden ser enviados a los adquirentes u otros gateways y, por lo tanto, seguir el flujo de aprobación en las instituciones financieras.
 
 ### Artículos relacionados
-- [¿Qué es el banco emisor?](/es/tutorial/que-es-el-banco-emisor)
-- [¿Qué es un conector?](/es/tutorial/que-es-el-conector)
+- [¿Qué es el banco emisor?](/es/docs/tutorials/que-es-el-banco-emisor)
+- [¿Qué es un conector?](/es/docs/tutorials/que-es-el-conector)
 - [Registrar proveedores de pagos y antifraude](https://help.vtex.com/es/docs/tutorials/afiliaciones-de-gateway)
 - [¿Qué es el PCI SSC?](https://help.vtex.com/es/docs/tutorials/que-es-el-pci-ssc)

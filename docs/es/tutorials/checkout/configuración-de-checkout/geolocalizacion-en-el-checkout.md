@@ -48,7 +48,7 @@ Cuando tengas la API, siga los pasos adelante:
 
 ### Configurando el poligono
 
-Para que esta configuración este correcta, es necesario registrar los poligonos correspondientes a cada una de las áreas de entrega en el mapa. Después, se debe asociarlas a las transportadoras que van hacer las entregas por medio de la inclusión de los IDs de estes poligonos en la tabla de flete. Vea como hacer esto en el artículo [Gestionar Geolocalización](/es/tutorial/gestionar-geolocalizacion/).
+Para que esta configuración este correcta, es necesario registrar los poligonos correspondientes a cada una de las áreas de entrega en el mapa. Después, se debe asociarlas a las transportadoras que van hacer las entregas por medio de la inclusión de los IDs de estes poligonos en la tabla de flete. Vea como hacer esto en el artículo [Gestionar Geolocalización](/es/docs/tutorials/gestionar-geolocalizacion/).
 
 ### Configurando el Checkout
 

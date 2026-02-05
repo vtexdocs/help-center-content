@@ -19,9 +19,9 @@ subcategoryId: 24EN0qRBg4yK0uusGUGosu
 
 A arquitetura de uma loja VTEX possibilita [anunciar e vender produtos](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex) em outras lojas, sejam elas VTEX ou não. Ao vender produtos de outros sellers em seu ambiente, a loja VTEX se torna um [marketplace VTEX](/pt/docs/tutorials/configurar-marketplace-vtex). 
 
-Para que um seller possa vender em um marketplace VTEX, é necessário que seja feita uma correspondência entre o [catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) do seller e o catálogo do marketplace VTEX, de forma que os produtos do seller tenham informações equivalentes ao catálogo do marketplace. 
+Para que um seller possa vender em um marketplace VTEX, é necessário que seja feita uma correspondência entre o [catálogo](/pt/docs/tracks/arquitetura-do-catalogo) do seller e o catálogo do marketplace VTEX, de forma que os produtos do seller tenham informações equivalentes ao catálogo do marketplace. 
 
-O marketplace VTEX realiza a correspondência de valores dos catálogos por meio do mapeamento de [categorias](/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), [marcas](/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh) e [especificações](/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP). O mapeamento é necessário quando o seller:
+O marketplace VTEX realiza a correspondência de valores dos catálogos por meio do mapeamento de [categorias](/pt/docs/tracks/categorias-definicao-de-conceito), [marcas](/pt/docs/tracks/marcas-definicao-de-conceito) e [especificações](/pt/docs/tracks/especificacoes-definicao-de-conceito). O mapeamento é necessário quando o seller:
 
 - Envia produtos pela primeira vez para o marketplace VTEX.
 - Envia novas informações de categorias, marcas ou especificações, ainda não mapeadas no marketplace VTEX.
@@ -92,6 +92,6 @@ O status do mapeamento de marcas no marketplace VTEX é indicado por ícones na 
 
 ## Saiba mais
 
-- [Aprovar anúncios recebidos](/pt/tutorial/sugerindo-e-aprovando-skus/)
+- [Aprovar anúncios recebidos](/pt/docs/tutorials/sugerindo-e-aprovando-skus/)
 - [Política comercial para marketplaces](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace)
 - [Informações compartilhadas entre marketplace e seller na VTEX](/pt/docs/tutorials/informacoes-compartilhadas-entre-marketplace-e-seller-na-vtex)

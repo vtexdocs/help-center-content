@@ -31,7 +31,7 @@ ____
 
 `Este pedido possui Produto(s) que não existe(m) na VTEX. Os produtos devem ser integrados pela VTEX para que os pedidos possam ser integrados com sucesso`
 
-Este erro acontece quando um item do pedido foi cadastrado diretamente na plataforma da Netshoes. Mesmo que o item esteja também cadastrado na VTEX, essa duplicação de cadastro faz com que o ID do SKU não seja reconhecido pelo sistema VTEX, e o pedido não é integrado. A solução é deletar o cadastro do item na plataforma Netshoes, e, após se certificar de que o [SKU está cadastrado](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) no seu ambiente VTEX, reprocessar o pedido manualmente. No seu Admin, no módulo **Marketplace > Conexões > Pedidos**, clique sobre o pedido com erro. Feito isso, o botão **Ações** se torna visível, clique sobre ele e escolha a opção **Reprocessar**.
+Este erro acontece quando um item do pedido foi cadastrado diretamente na plataforma da Netshoes. Mesmo que o item esteja também cadastrado na VTEX, essa duplicação de cadastro faz com que o ID do SKU não seja reconhecido pelo sistema VTEX, e o pedido não é integrado. A solução é deletar o cadastro do item na plataforma Netshoes, e, após se certificar de que o [SKU está cadastrado](/pt/docs/tracks/cadastrar-sku) no seu ambiente VTEX, reprocessar o pedido manualmente. No seu Admin, no módulo **Marketplace > Conexões > Pedidos**, clique sobre o pedido com erro. Feito isso, o botão **Ações** se torna visível, clique sobre ele e escolha a opção **Reprocessar**.
 
 ____
 

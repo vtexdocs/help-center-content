@@ -27,14 +27,14 @@ Being a marketplace means that your website will receive (and sell) another stor
 Being a seller means that your store will send and sell products through another website (that will work as a marketplace). To do that, you need to set up that store as a marketplace in your admin. Follow the steps below:
 
 1. Set up the [trade policy](/en/tutorial/configuring-a-marketplace-sales-policy/).
-2. Set up the [logistics](/en/tutorial/configuring-logistics-for-a-marketplace/) regarding this trade policy.
-3. Set up the [affiliate](/en/tutorial/configuring-affiliates/).
+2. Set up the [logistics](/en/docs/tutorials/configuring-logistics-for-a-marketplace/) regarding this trade policy.
+3. Set up the [affiliate](/en/docs/tutorials/configuring-affiliates/).
 
 ##### About the integration
 
 After defining the settings, you must index all products of the base in order to make the integration.
 
-1. Using the [sponsor user](/en/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA), access the link `{accountname}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`.
+1. Using the [sponsor user](/en/docs/tracks/what-is-the-master-user), access the link `{accountname}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`.
 2. Click on the __Reindex Base__ button.
 
 Please note that in the URL you must change the term `{accountname}` to the name of your store.

@@ -34,10 +34,10 @@ A campaign audience is a way of defining the target audience to which a benefit 
 
 Here, the discounts that your store will offer are created. You can also view, filter, search and file all promotions. According to each store configuration, there is a limit of promotions that can be enabled at the same time. To find out how many, read the message that appears on the upper right corner, below the paging. The types of promotions that can be created are:
 
-- [Regular Promotion](/en/tutorial/regular-promotion/)
-- [Buy Together](/en/tutorial/buy-together)
+- [Regular Promotion](/en/docs/tutorials/regular-promotion/)
+- [Buy Together](/en/docs/tutorials/buy-together)
 - [Take More For Less](/en/tutorial/take-more-for-less)
-- [Progressive Discount](/en/tutorial/progressive-discount)
+- [Progressive Discount](/en/docs/tutorials/progressive-discount)
 - [Buy & Win](/en/tutorial/buy-win)
 - [Maximum price per item](/en/tutorial/maximum-price-per-item)
 
@@ -51,4 +51,4 @@ It's in this department that the coupons are created, but you can also search an
 
 ![taxas.en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/rates-and-benefits-overview/overview-pricing-module_4.png)
 
-Here, you can define the incidence of taxes on your products. You can also filter, search and file fees. [To better understand the characteristics of this configuration, check out our article about fees.](/en/tutorial/creating-surchargestaxes)
+Here, you can define the incidence of taxes on your products. You can also filter, search and file fees. [To better understand the characteristics of this configuration, check out our article about fees.](/en/docs/tutorials/creating-surchargestaxes)

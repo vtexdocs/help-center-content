@@ -51,7 +51,7 @@ Ao [Adicionar seller](/pt/docs/tutorials/adicionar-seller), o marketplace config
 Para que o sistema do marketplace processe pagamentos, é preciso acessar a seção de [Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) no ambiente VTEX e configurar:
 
 - [Provedor de pagamentos](https://help.vtex.com/pt/docs/tracks/configurar-um-conector-de-pagamentos)
-- [Condições de pagamento](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3)
+- [Condições de pagamento](/pt/docs/tracks/configurar-uma-condicao-de-pagamento)
 - [Antifraude](/pt/docs/tutorials/como-configurar-antifraude)
 
 Para finalizar a configuração que torna o marketplace o processador de pagamentos, ao [Configurar afiliado](/pt/docs/tutorials/como-configurar-afiliado), o seller precisa deixar a opção __Usar meu meio de pagamento__ desmarcada.
@@ -62,7 +62,7 @@ Para que o sistema do seller processe pagamentos, o seller precisa acessar a se�
 
 - [Política comercial para marketplace](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace)
 - [Provedor de pagamentos](https://help.vtex.com/pt/docs/tracks/configurar-um-conector-de-pagamentos)
-- [Condições de pagamento](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3)
+- [Condições de pagamento](/pt/docs/tracks/configurar-uma-condicao-de-pagamento)
 - [Antifraude](/pt/docs/tutorials/como-configurar-antifraude)
 
 Uma vez configurado o sistema de Pagamentos, ao [Configurar afiliado](/pt/docs/tutorials/como-configurar-afiliado) para o marketplace em questão, o seller precisa marcar a opção __Usar meu meio de pagamento__.

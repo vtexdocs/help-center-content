@@ -15,7 +15,7 @@ trackSlugEN: vtex-intelligent-search
 order: 5
 ---
 
-After configuring the [initial settings](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2wBsO1AKTQZ04idbTKszI4) and [completing the frontend implementation](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/9BRHYNfuS6bP4WG4pOmgb), you gain access to several features developed to enhance the search experience and monitor Intelligent Search results. Check out the following guides for more details.
+After configuring the [initial settings](/en/docs/tracks/starting-the-integration-with-catalog) and [completing the frontend implementation](/en/docs/tracks/implementing-the-search-in-your-store-frontend), you gain access to several features developed to enhance the search experience and monitor Intelligent Search results. Check out the following guides for more details.
 
 ## Improving search results
 

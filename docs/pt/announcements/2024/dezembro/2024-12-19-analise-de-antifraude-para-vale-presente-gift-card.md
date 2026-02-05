@@ -19,7 +19,7 @@ Visando aprimorar as operações de pagamento realizadas na plataforma, a VTEX i
 
 ## O que mudou?
 
-A partir de agora, além de realizar análises em transações de pagamento por cartão de crédito e débito, o [Anti-fraud Provider Protocol](https://developers.vtex.com/docs/guides/how-the-integration-protocol-between-vtex-and-antifraud-companies-works) permite que [provedores de antifraude](/pt/tutorial/como-configurar-antifraude) ofereçam o serviço de análise de fraudes para vales-presente, aumentando o nível de segurança nas transações da sua loja realizadas por este meio de pagamento.
+A partir de agora, além de realizar análises em transações de pagamento por cartão de crédito e débito, o [Anti-fraud Provider Protocol](https://developers.vtex.com/docs/guides/how-the-integration-protocol-between-vtex-and-antifraud-companies-works) permite que [provedores de antifraude](/pt/docs/tutorials/como-configurar-antifraude) ofereçam o serviço de análise de fraudes para vales-presente, aumentando o nível de segurança nas transações da sua loja realizadas por este meio de pagamento.
 
 ## O que precisa ser feito?
 
@@ -28,4 +28,4 @@ A opção de análise de antifraude para vale-presente já está disponível em 
 1. Associar o provedor de antifraude ao meio de pagamento vale-presente no Admin VTEX. Saiba mais em [Configurar o antifraude](/pt/docs/tutorials/como-configurar-antifraude).
 2. Entrar em contato com o provedor de antifraude com o qual possui contrato para verificar se este serviço de análise de antifraude já está disponível. Saiba mais sobre as configurações necessárias para o provedor de antifraude em [New feature available for anti-fraud providers: Gift card transaction analysis](https://developers.vtex.com/updates/release-notes/2024-12-19-new-feature-available-for-anti-fraud-providers-gift-card-transaction-analysis).
 
-> ℹ️ As informações analisadas pelo provedor de antifraude em cada transação podem ser verificadas na página de [Transações](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy) do Admin VTEX.
+> ℹ️ As informações analisadas pelo provedor de antifraude em cada transação podem ser verificadas na página de [Transações](/pt/docs/tracks/ver-detalhes-da-transacao) do Admin VTEX.

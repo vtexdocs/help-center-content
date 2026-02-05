@@ -21,5 +21,5 @@ Para utilizar o conector da Plataforma VTEX e começar a vender no Magalu, prime
 <br/>
 Para dar seguimento à integração, os próximos passos são:
 
-1. [Definir política comercial.](/pt/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y/5NcpxEUrgW1fgVI8iUKk3Z)
-2. [Configurar integração.](/pt/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y/3tZ4qVuMDDsC2jx2DCmjdA)
+1. [Definir política comercial.](/pt/docs/tracks/definicao-da-politica-comercial-para-magazine-luiza)
+2. [Configurar integração.](/pt/docs/tracks/configurar-integracao)

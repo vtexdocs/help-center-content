@@ -19,7 +19,7 @@ No menu lateral do Admin da VTEX, dentro da área de Pedidos, fica a seção __T
 
 Na visualização padrão dessa tela são listados todos os pedidos da loja a partir do mais recente. É possível alterar a ordenação clicando no nome das colunas, assim como buscar os pedidos por meio de dados específicos, e também exportar esses dados.
 
-Além disso, a busca oferece um filtro bastante flexível, que explicaremos em detalhes no [próximo artigo](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/3cjk655ZzDGICH4rVfgu7O).
+Além disso, a busca oferece um filtro bastante flexível, que explicaremos em detalhes no [próximo artigo](/pt/docs/tracks/como-funcionam-os-filtros-do-modulo-pedidos).
 
 Para entender a lista de pedidos em detalhes, consulte o artigo [Lista de pedidos - Visão geral](/pt/tutorial/lista-de-pedidos--tutorials_200)
 
@@ -62,7 +62,7 @@ Nesse card são exibidas as promoções que foram aplicadas em cima do valor do 
 
 ### Status do pedido
 
-É o status atual do pedido, de acordo com o momento em que o pedido se encontra dentro do [fluxo do pedido](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/4811ExCe3WrEiRMV3sy9n8).
+É o status atual do pedido, de acordo com o momento em que o pedido se encontra dentro do [fluxo do pedido](/pt/docs/tracks/fluxo-do-pedido).
 
 ### Fluxo
 

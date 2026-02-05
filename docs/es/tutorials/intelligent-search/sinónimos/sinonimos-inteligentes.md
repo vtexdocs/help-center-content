@@ -17,7 +17,7 @@ subcategoryId: BBzMtJan1UTxC9QZODnlN
 
 > ℹ️ Esta funcionalidad solo para cuentas que registren al menos 100 mil búsquedas mensuales, ya que dichas búsquedas se utilizan para entrenar el modelo de inteligencia artificial. Puedes comprobar la cantidad de búsquedas mensuales de tu tienda en *Storefront > Intelligent Search > Analytics* del Admin VTEX. Si te interesa implementar Sinónimos inteligentes, ponte en contacto con [nuestro Soporte](https://supporticket.vtex.com/support). Es posible que se apliquen tarifas adicionales en el futuro.
 
-La funcionalidad [Sinónimos](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) de [VTEX Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) te permite registrar palabras o expresiones con el mismo significado para los términos de búsqueda utilizados por los clientes al realizar búsquedas en tu tienda, lo que aumenta las posibilidades de que obtengan resultados de búsqueda relevantes.
+La funcionalidad [Sinónimos](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) de [VTEX Intelligent Search](/es/docs/tracks/vision-general-intelligent-search) te permite registrar palabras o expresiones con el mismo significado para los términos de búsqueda utilizados por los clientes al realizar búsquedas en tu tienda, lo que aumenta las posibilidades de que obtengan resultados de búsqueda relevantes.
 
 Con la funcionalidad Sinónimos Inteligentes, la página **Sinónimos** en el Admin VTEX, además de permitir la configuración manual de sinónimos, te ofrece sugerencias inteligentes de términos para que los registres. La plataforma sugiere sinónimos a partir de inteligencia artificial, basándose en el comportamiento de búsqueda de los clientes en tu tienda.
 
@@ -61,4 +61,4 @@ Sigue las instrucciones para visualizar las sugerencias de sinónimos y definir 
 
 * [Sinónimos](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV)
 * [Configurar sinónimos](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL)
-* [VTEX Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG)
+* [VTEX Intelligent Search](/es/docs/tracks/vision-general-intelligent-search)

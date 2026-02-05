@@ -18,7 +18,7 @@ announcementSynopsisEN: "VTEX Intelligent Search filters are now available in in
 
 inStore is one of VTEX's main products for unified commerce operations. It’s an app that allows your store to provide a true omnichannel experience, integrating your online and physical channels and placing your customers at the core of the business.
 
-Now, your physical store’s sales associates can use filters when searching for products on inStore if they have [VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) enabled. With this feature, searching inStore's endless aisle will become a more dynamic and precise process, speeding up sales.
+Now, your physical store’s sales associates can use filters when searching for products on inStore if they have [VTEX Intelligent Search](/en/docs/tracks/overview-intelligent-search) enabled. With this feature, searching inStore's endless aisle will become a more dynamic and precise process, speeding up sales.
 
 ## What has changed?
 
@@ -34,7 +34,7 @@ This feature is intended to improve the inStore endless aisle search experience,
 
 ## What needs to be done?
 
-To use the search filters on inStore's endless aisle, you must install and configure [VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG). In this context, please note that:
+To use the search filters on inStore's endless aisle, you must install and configure [VTEX Intelligent Search](/en/docs/tracks/overview-intelligent-search). In this context, please note that:
 
 * It is essential to configure the filters that will be displayed, as indicated in the article [Search configuration](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx). Otherwise, all product information will be considered as filterable attributes in inStore.
 * The **Autocomplete** option does not apply to the inStore search, so it can be left blank.
@@ -42,5 +42,5 @@ To use the search filters on inStore's endless aisle, you must install and confi
 
 In addition to configuring VTEX Intelligent Search, it is necessary to [contact VTEX support](https://support.vtex.com/hc/en-us/requests) to enable the filter feature in inStore.
 
-For more information about inStore search, please read the article [Unified Search](/en/tracks/instore-using-the-app--4BYzQIwyOHvnmnCYQgLzdr/9sXeVwoD60qYYgRJ11r5F).
+For more information about inStore search, please read the article [Unified Search](/en/docs/tracks/unified-search-in-vtex-sales-app).
 

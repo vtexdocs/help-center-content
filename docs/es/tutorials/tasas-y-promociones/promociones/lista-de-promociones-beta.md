@@ -48,7 +48,7 @@ Todas las funcionalidades de la página se detallarán en las siguientes seccion
 
 Para registrar una nueva promoción, haz clic en el botón Crear promoción. Luego, puedes seleccionar los siguientes tipos de promociones:
 
-- [Regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI)
+- [Regular](/es/docs/tracks/crear-promocion-regular)
 - [Comprar juntos](/es/docs/tutorials/comprar-juntos-registro-de-promocion)
 - [Más por menos](/es/docs/tutorials/mas-por-menos)
 - [Descuento progresivo](/es/docs/tutorials/descuento-progresivo)
@@ -94,7 +94,7 @@ El número máximo de promociones activas por defecto es de 100. Si necesitas au
 
 La lista de promociones se puede filtrar según tus necesidades, utilizando los siguientes filtros:  
 
-- **Tipo de descuento:** tipo de descuento que se aplicará a la promoción. Las opciones son [Regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Comprar Juntos](/es/docs/tutorials/comprar-juntos-registro-de-promocion), [Más por Menos](/es/docs/tutorials/mas-por-menos), [Descuento Progresivo](/es/docs/tutorials/descuento-progresivo), [Comprar y Obtener](/es/docs/tutorials/como-funciona-la-promocion-compre-y-gane) y [Promoción de Campaña](/es/docs/tutorials/promocion-de-campana).
+- **Tipo de descuento:** tipo de descuento que se aplicará a la promoción. Las opciones son [Regular](/es/docs/tracks/crear-promocion-regular), [Comprar Juntos](/es/docs/tutorials/comprar-juntos-registro-de-promocion), [Más por Menos](/es/docs/tutorials/mas-por-menos), [Descuento Progresivo](/es/docs/tutorials/descuento-progresivo), [Comprar y Obtener](/es/docs/tutorials/como-funciona-la-promocion-compre-y-gane) y [Promoción de Campaña](/es/docs/tutorials/promocion-de-campana).
 - **Status:** status de la promoción. Las opciones son `Ejecutando`, `Programada`, `Pausada` y `Realizada`.
 - **Última edición:** historial de las últimas ediciones en los últimos 12 meses, 3 meses, 30 días, 7 días o el día anterior a la consulta.
 - **Política comercial:** la política comercial a la que se aplicará la promoción.

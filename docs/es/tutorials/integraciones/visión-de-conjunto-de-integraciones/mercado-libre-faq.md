@@ -84,7 +84,7 @@ Sí, todos nuestros productos son nuevos.
 La pausa en el anuncio del Mercado Libre ocurre básicamente por dos motivos:
 
 1. Cuando el producto es removido de la política comercial vinculada a Mercado Libre o desactivado, el anuncio será pausado.
-Para realizar la integración con Mercado Libre, es necesario definir una política comercial; es decir, establecer una diferenciación de catálogo y/o logística entre los diferentes canales de venta en una tienda. [Lea más](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/15NZiQstCET8zyQUIa7nhw).
+Para realizar la integración con Mercado Libre, es necesario definir una política comercial; es decir, establecer una diferenciación de catálogo y/o logística entre los diferentes canales de venta en una tienda. [Lea más](/es/docs/tracks/configurar-politica-comercial-para-mercado-libre).
 2. Cuando el producto alcanza el stock mínimo registrado, el anuncio será pausado. El valor del stock mínimo es definido en el panel de configuración de Mercado Libre en el Bridge de VTEX.
 
 Al registrar un producto, es necesario establecer una cantidad mínima de stock de ese ítem. Cuando el número de productos alcanza el límite establecido, el anuncio es pausado en Mercado Libre. El valor mínimo de stock es definido en el panel de configuración de Mercado Libre de VTEX.
@@ -113,7 +113,7 @@ Mercado Libre tiene una limitación de 60 caracteres para el nombre del anuncio.
 
 Por regla de Mercado Libre, no se puede reenviar información de los productos luego de que ya se anunciaron y vendieron. Deberás eliminar el anuncio del producto y modificar la información que deseas.
 
-Si el producto aún no se vendió, podrás hacer modificaciones. Si la modificación es en el valor de la variación/atributo, el cambio se debe hacer en la [página de mapeo](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA). Si la modificación es en el valor de la especificación del producto, consulta el artículo [Registrar especificaciones de producto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin).
+Si el producto aún no se vendió, podrás hacer modificaciones. Si la modificación es en el valor de la variación/atributo, el cambio se debe hacer en la [página de mapeo](/es/docs/tracks/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper). Si la modificación es en el valor de la especificación del producto, consulta el artículo [Registrar especificaciones de producto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin).
 
 > ⚠️ Luego de eliminar un producto, no es posible recuperar la relevancia del anuncio.
 
@@ -159,7 +159,7 @@ Con excepción de los productos de ropa, calzado y bolsas, la integración crea 
 
 ## ¿Por qué las especificaciones/atributos de mis SKU no se envían al Mercado Libre?
 
-Con excepción de los SKUs de ropa, para enviar las variaciones y los atributos de los SKUs de cualquier categoría es necesario crear la plantilla de mapeo. Para más información, lea el artículo [Mapeo de categorías, variaciones y atributos de Mercado Libre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).
+Con excepción de los SKUs de ropa, para enviar las variaciones y los atributos de los SKUs de cualquier categoría es necesario crear la plantilla de mapeo. Para más información, lea el artículo [Mapeo de categorías, variaciones y atributos de Mercado Libre](/es/docs/tracks/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper).
 
 ## ¿Cómo borrar un anuncio en Mercado Libre?
 
@@ -235,7 +235,7 @@ Hecho esto, espere otros 15 minutos. Ahora comienza la etapa más importante del
 
 11. Acceda al __panel__ de Mercado Libre 
 12. Haga el __login__ con la cuenta que desea integrar
-13. Rehaga el __[proceso de autorización](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4leBEAd22Icm46kGeiGgak)__
+13. Rehaga el __[proceso de autorización](/es/docs/tracks/autorizar-la-integracion-de-mercado-libre-en-el-panel-de-vtex)__
 14. __Guarde__ las configuraciones.
 
 ¡Listo! De este modo, su integración volverá a funcionar con normalidad dentro de unos pocos minutos.

@@ -21,7 +21,7 @@ O primeiro passo para integrar sua loja VTEX à Livelo é ter as credenciais **A
 
 > ❗ Para obter as suas credenciais e iniciar a integração, entre em contato através com o time de [suporte da VTEX](https://supporticket.vtex.com/support).
 
-Após solicitar as credenciais, o seller pode seguir com as [Configurações da plataforma VTEX](/pt/tracks/integracao-livelo--4ZSHEiuTkh8HR9ubJQj8BP/HgIbZEzbPr8FQid5MXURQ#conguracoes-na-plataforma-vtex) e configuração da [Regra de divergência.](/pt/tracks/integracao-livelo--4ZSHEiuTkh8HR9ubJQj8BP/4kocvdsHiLcLLcX6eQIVmD)
+Após solicitar as credenciais, o seller pode seguir com as [Configurações da plataforma VTEX](/pt/tracks/integracao-livelo--4ZSHEiuTkh8HR9ubJQj8BP/HgIbZEzbPr8FQid5MXURQ#conguracoes-na-plataforma-vtex) e configuração da [Regra de divergência.](/pt/docs/tracks/con-gurar-regra-de-divergencia-de-valores-livelo)
 
 ## Conﬁgurações na plataforma VTEX  
 Durante o processo de conﬁguração na plataforma VTEX, tenha sempre em mãos as credenciais fornecidas pela Livelo. O [*AppKey* e *AppToken*](https://developers.vtex.com/docs/guides/authentication), são imprescindíveis para a integração.

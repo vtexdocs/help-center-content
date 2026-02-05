@@ -23,6 +23,6 @@ A service is an item that may come with a product, optionally and with cost. It 
 If your purchased product is a Brazilian National Team Shirt, the name of your service might be __Gift Packaging___, and it might be displayed during the order flow on the screen that you choose: product, cart or service.
 
 ### Related articles
-- [What is an attachment?](/en/tutorial/what-is-an-attachment)
+- [What is an attachment?](/en/docs/tutorials/what-is-an-attachment)
 - [Registering an attachment](/en/docs/tutorials/adding-an-attachment)
 - [How to create a service for a SKU](/en/tutorial/creating-a-service-for-a-sku)

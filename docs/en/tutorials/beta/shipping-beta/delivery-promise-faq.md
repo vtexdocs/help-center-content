@@ -43,7 +43,7 @@ The merchant must ensure that the following product aspects are correctly config
 * Pricing.
 * [Shipping strategy](/en/docs/tutorials/shipping-strategy) for shipping the order to the customer address.
 * Product count in the [inventory](/en/docs/tutorials/managing-stock-items) for sales, unlimited inventory, or the option to display the product when sold out is activated.
-* [CMS](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) templates for the store frontend.
+* [CMS](/en/docs/tracks/what-is-the-cms) templates for the store frontend.
 
 > ℹ️ For more information, see the article [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website).
 

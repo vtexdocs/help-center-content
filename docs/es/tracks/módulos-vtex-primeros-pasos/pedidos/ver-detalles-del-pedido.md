@@ -19,7 +19,7 @@ En el menú lateral del Admin de VTEX, dentro del área de pedidos, se encuentra
 
 En la vista predeterminada de esta pantalla, se enumeran todos los pedidos de la tienda, de los más recientes. Puede cambiar la clasificación haciendo clic en los nombres de las columnas, así como obtener órdenes utilizando datos específicos y también exportando estos datos.
 
-Además, la búsqueda ofrece un filtro muy flexible, que explicaremos en detalle en el [proximo artículo](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/3cjk655ZzDGICH4rVfgu7O).
+Además, la búsqueda ofrece un filtro muy flexible, que explicaremos en detalle en el [proximo artículo](/es/docs/tracks/como-funcionan-los-filtros-del-modulo-pedidos).
 
 Para comprender la lista de pedidos en detalle, consulte el artículo [Lista de pedidos - Información general](/es/tutorial/listado-de-pedidos--tutorials_200)
 
@@ -62,7 +62,7 @@ Este card muestra las promociones que se aplicaron sobre el monto del pedido, as
 
 ### Estado del pedido
 
-Este es el status actual del pedido de acuerdo con el momento en que el pedido se encuentra dentro del [flujo del pedido](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/4811ExCe3WrEiRMV3sy9n8).
+Este es el status actual del pedido de acuerdo con el momento en que el pedido se encuentra dentro del [flujo del pedido](/es/docs/tracks/flujo-del-pedido).
 
 ### Flujo
 

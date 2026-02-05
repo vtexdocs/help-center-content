@@ -15,7 +15,7 @@ trackSlugEN: next-steps-after-the-go-live
 order: 3
 ---
 
-In the **VTEX Store Overview Track**, the [VTEX modules I](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7) and [VTEX modules II](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ) articles cover the main configurations for each topic. The current article presents other module settings that are not required for the [go-live](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/6xYnNxDHUcY6FyChgziCoH).
+In the **VTEX Store Overview Track**, the [VTEX modules I](/en/docs/tracks/vtex-modules-i) and [VTEX modules II](/en/docs/tracks/vtex-modules-ii) articles cover the main configurations for each topic. The current article presents other module settings that are not required for the [go-live](/en/docs/tracks/planning-the-go-live).
 
 ## Promotions
 
@@ -33,7 +33,7 @@ Learn more in the [How promotion competition works](/en/docs/tutorials/how-promo
 
 ### Marketplace promotions
 
-Stores operating as a VTEX marketplace can only configure [regular promotions](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) for their products, such as:
+Stores operating as a VTEX marketplace can only configure [regular promotions](/en/docs/tracks/creating-regular-promotions) for their products, such as:
 
 - Free shipping
 - Percentage shipping
@@ -44,7 +44,7 @@ Learn more in the [Configuring promotions for marketplaces](/en/docs/tutorials/c
 
 ## Logistics
 
-After completing the required [logistics](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistc) settings, VTEX accounts with [multistore or multidomain](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multiloja) architecture can launch a sales strategy to other countries and become [cross-border stores](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/5qgXy9Erm7FDP3UB5Ox8Bs). The main advantages of this type of operation include:
+After completing the required [logistics](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistc) settings, VTEX accounts with [multistore or multidomain](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multiloja) architecture can launch a sales strategy to other countries and become [cross-border stores](/en/docs/tracks/cross-border-stores). The main advantages of this type of operation include:
 
 - **Improved total logistics capacity:** The accumulated experience gained in complex logistics processes (import and export) means that the entire logistics chain (national and international) can be managed more efficiently.
 - **Business expansion:** Reaching new customers and increasing the stores' sales potential.
@@ -65,7 +65,7 @@ Cross-border operations must be planned considering the following aspects:
 
 - **Competitive advantages:** Defining how the business can offer advantages to customers in the new market compared to current competitors.
 
-For more information on how to start a cross-border operation, contact your CX manager or [VTEX Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8).
+For more information on how to start a cross-border operation, contact your CX manager or [VTEX Support](/en/docs/tracks/vtex-support).
 
  ## Orders
 

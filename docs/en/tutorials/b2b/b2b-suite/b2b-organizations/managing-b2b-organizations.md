@@ -96,5 +96,5 @@ To view or customize any of these templates, follow the steps below:
 
 5. Click `Save`.
 
-To learn more about editing email templates, see [How to create and edit transactional email templates](/en/tracks/transactional-emails--6IkJwttMw5T84mlY9RifRP/335JZKUYgvYlGOJgvJYxRO).
+To learn more about editing email templates, see [How to create and edit transactional email templates](/en/docs/tracks/how-to-create-and-edit-transactional-email-templates).
 

@@ -17,7 +17,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 A especificação de SKU é um campo obrigatório no cadastro de SKU onde se inserem as características específicas de cada variação do produto.
 
-Na VTEX, uma especificação sempre faz parte de um [grupo de especificações](/pt/tutorial/criando-grupo-de-categoria), que é associado a uma [categoria](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf). Por isso, para criar uma especificação (campo) de SKU, é necessário ter cadastrado previamente pelo menos uma categoria e um grupo de especificações.
+Na VTEX, uma especificação sempre faz parte de um [grupo de especificações](/pt/tutorial/criando-grupo-de-categoria), que é associado a uma [categoria](/pt/docs/tracks/categorias-definicao-de-conceito). Por isso, para criar uma especificação (campo) de SKU, é necessário ter cadastrado previamente pelo menos uma categoria e um grupo de especificações.
 
 Exemplo: uma loja no setor de moda pretende vender o produto **Camisa Polo** nos tamanhos P, M ou G. Na categoria **Camisetas**, o grupo de especificações pode receber o nome de **Características**. Nesse caso, o tamanho é a característica que vai diferenciar cada SKU. Portanto, o lojista deve criar um campo de SKU chamado **Tamanho**, com **P**, **M** e **G** como opções de valor.
 
@@ -47,7 +47,7 @@ Por se tratar de uma especificação de SKU, as informações selecionadas nessa
 
 ## Passo a passo no Admin VTEX
 
-Para que as especificações apareçam no cadastro de SKUs, além de ter criado anteriormente um [grupo de especificações](/pt/tutorial/criando-grupo-de-categoria) associado a uma [categoria](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), é preciso criar os campos de SKU e cadastrar seus valores. Em seguida, você poderá preencher essas especificações no cadastro dos SKUs.
+Para que as especificações apareçam no cadastro de SKUs, além de ter criado anteriormente um [grupo de especificações](/pt/tutorial/criando-grupo-de-categoria) associado a uma [categoria](/pt/docs/tracks/categorias-definicao-de-conceito), é preciso criar os campos de SKU e cadastrar seus valores. Em seguida, você poderá preencher essas especificações no cadastro dos SKUs.
 
 Veja o passo a passo completo nas seções a seguir.
 
@@ -203,5 +203,5 @@ Para preencher especificações de SKUs em massa por planilha, você precisa exp
 
 ## Saiba mais
 - [Cadastrar especificações ou campos de produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto)
-- [Especificações de produto e de SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
+- [Especificações de produto e de SKU](/pt/docs/tracks/especificacoes-definicao-de-conceito)
 

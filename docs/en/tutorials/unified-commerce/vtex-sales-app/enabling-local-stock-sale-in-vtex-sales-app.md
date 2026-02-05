@@ -29,7 +29,7 @@ Local stock sale allows the sales associate in a physical store to complete sale
 
 ## Creating a franchise account
 
-The first step is to [request the creation of a franchise account](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/eujH0id9Y4WJjjmdazUKd) for your physical store. The [franchise account](/en/docs/tutorials/what-is-a-franchise-account) will be linked to the main account of your store and will inherit its catalog. If you already have a franchise account, go to the next step.
+The first step is to [request the creation of a franchise account](/en/docs/tracks/creating-franchise-accounts) for your physical store. The [franchise account](/en/docs/tutorials/what-is-a-franchise-account) will be linked to the main account of your store and will inherit its catalog. If you already have a franchise account, go to the next step.
 
 ## Creating a seller
 

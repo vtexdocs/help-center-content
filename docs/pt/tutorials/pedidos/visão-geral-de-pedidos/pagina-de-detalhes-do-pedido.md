@@ -76,7 +76,7 @@ Este bloco apresenta o status atual do pedido no [fluxo de pedidos](/pt/docs/tut
 
 ## Itens a faturar
 
-O bloco **Itens a faturar** contém pacotes cujos itens estão com o pagamento aprovado, mas ainda não foram [faturados](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT), ou seja, suas notas fiscais não foram emitidas na plataforma.
+O bloco **Itens a faturar** contém pacotes cujos itens estão com o pagamento aprovado, mas ainda não foram [faturados](/pt/docs/tracks/faturar-um-pedido), ou seja, suas notas fiscais não foram emitidas na plataforma.
 
 Um pacote é o embrulho ou a caixa que contém os itens de uma entrega. Note que um único pedido pode ter mais de um pacote, por ser composto por itens de sellers ou estoques diferentes. Saiba mais sobre a divisão de pacotes no artigo [Divisão de pedidos e divisão de entregas](/pt/docs/tutorials/divisao-de-pedidos-e-divisao-de-entregas).
 

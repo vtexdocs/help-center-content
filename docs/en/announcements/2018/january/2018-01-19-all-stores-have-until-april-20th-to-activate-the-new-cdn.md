@@ -19,7 +19,7 @@ VTEX's new CDN is a solution wich delivers content in an even safer and faster w
 
 Available for everyone since October 2017 the new CDN will be mandatory __starting in April 20th__. If you want to activate it, just follow the steps described in this [VTEX Help article](/en/tutorial/activating-new-vtex-cdn).
 
-__Important:__ The main requirement to use the new CDN is __enabling HTTPS in your whole website__. You must pay special attention to HTTP requests, that should turn into the HTTPS protocol in order to work under the new CDN. See how to [enable HTTPS throughout your website](/en/tutorial/enable-https-throughout-the-site) and pay attention to the requirements for this migration.
+__Important:__ The main requirement to use the new CDN is __enabling HTTPS in your whole website__. You must pay special attention to HTTP requests, that should turn into the HTTPS protocol in order to work under the new CDN. See how to [enable HTTPS throughout your website](/en/docs/tutorials/enable-https-throughout-the-site) and pay attention to the requirements for this migration.
 
 So, remember:
 > ⚠️ You have until **april 20th** to:<br> - Enable HTTPS in your whole website.<br> - Activate VTEX's new CDN.

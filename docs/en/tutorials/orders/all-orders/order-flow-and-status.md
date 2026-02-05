@@ -106,11 +106,11 @@ Orders can be canceled for several reasons. Each type of cancellation is indicat
 
 - **[Incomplete orders](/en/docs/tutorials/understanding-incomplete-orders):** When the order is incomplete, the order flow cannot start. This prevents the seller from handling items and, consequently, no reservation of the inventory is made.
 - **[Customer cancellation request](/en/docs/tutorials/order-cancellation-requested-by-the-customer):** The customer cancels the order within the grace period or requests the order cancellation to the store. The order items are not reserved when the cancellation occurs within the grace period. However, the items will be reserved if the cancellation occurs after the order has been handled (after the `Start handling` status).
-- **[Order cancellation by the store](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/4ts2ItvjYo8wm5gg76miS3):** When the seller or marketplace cancels the order.
+- **[Order cancellation by the store](/en/docs/tracks/canceling-an-order):** When the seller or marketplace cancels the order.
 
 Once there is a request to cancel an order, the platform processes the order cancellation automatically. The payment refund to the customer depends on the stage the payment is at and the payment method used.
 
-Orders with [partial invoices](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](/en/docs/tutorials/canceling-orders). If the customer wants to replace or remove items from the order, it is possible to [change the order](/en/docs/tutorials/changing-items-from-a-complete-order).
+Orders with [partial invoices](/en/docs/tracks/partial-invoices) cannot be [canceled](/en/docs/tutorials/canceling-orders). If the customer wants to replace or remove items from the order, it is possible to [change the order](/en/docs/tutorials/changing-items-from-a-complete-order).
 
 > ℹ️ Learn more about cancellation and refunds in the articles [Why was my cancelled order charged in the customer's invoice?](/en/faq/por-que-meu-pedido-cancelado-foi-cobrado-na-fatura-do-cliente), and [Refund or cancellation](/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#reembolsocancelamento).
 

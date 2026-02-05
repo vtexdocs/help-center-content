@@ -18,7 +18,7 @@ O envio de produtos para o marketplace passa por dois grandes processos: o proce
 
 ## Verifique o menu Integrações
 
-O item Integrações é o primeiro local que deve ser considerado para entender o cenário. [Acesse e verifique o status de integração de cada produto](/pt/tutorial/verificando-integracao-no-bridge).
+O item Integrações é o primeiro local que deve ser considerado para entender o cenário. [Acesse e verifique o status de integração de cada produto](/pt/docs/tutorials/verificando-integracao-no-bridge).
 
 Caso não tenha nenhum registro, pode significar que as configurações não foram realizadas corretamente, portanto [revalide as configurações de marketplace](/pt/tutorial/integrando-com-marketplace/).
 
@@ -40,4 +40,4 @@ Normalmente, este processo é manual e varia de marketplace para marketplace. Pa
 
 ## Como resolver
 
-Para todos os cenários, a solução recomendada é a de [reprocessar o produto no menu Integrações](/pt/tutorial/verificando-integracao-no-bridge).
+Para todos os cenários, a solução recomendada é a de [reprocessar o produto no menu Integrações](/pt/docs/tutorials/verificando-integracao-no-bridge).

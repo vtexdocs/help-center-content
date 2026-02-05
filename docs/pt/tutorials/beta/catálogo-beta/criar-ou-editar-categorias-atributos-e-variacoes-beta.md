@@ -49,8 +49,8 @@ Na fase beta, utilizaremos uma nova nomenclatura para os seguintes termos:
 
 | **Nome atual** | **Nome no beta** |
 | :---: | :---: |
-| [Especificações de produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-produto) | Atributos |
-| [Especificações de SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-sku) | Variações |
+| [Especificações de produto](/pt/docs/tracks/especificacoes-definicao-de-conceito#especificacao-de-produto) | Atributos |
+| [Especificações de SKU](/pt/docs/tracks/especificacoes-definicao-de-conceito#especificacao-de-sku) | Variações |
 | [Grupos (de especificações de produtos ou de SKUs)](/pt/docs/tutorials/criando-grupo-de-especificacoes-em-uma-categoria) | Grupos (de atributos ou de variações) |
 
 ## Apresentação da interface de categorias, atributos e variações
@@ -126,7 +126,7 @@ Para criar uma categoria, siga os passos abaixo:
 6. Na seção **Frente de loja**, se desejar, você pode marcar as seguintes opções:
     * <a class="far fa-check-square" aria-hidden="true"></a> **Mostrar no menu:** torna a categoria ou departamento visível no menu superior e no menu lateral da loja.
     * <a class="far fa-check-square" aria-hidden="true"></a> **Menu com link ativo:** determina se a categoria visível na loja é do tipo clicável, que redireciona para uma página da categoria.
-    * <a class="far fa-check-square" aria-hidden="true"></a> **Filtro de marca:** define se a página da categoria ou departamento deve apresentar a opção filtrar por [marcas](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh).
+    * <a class="far fa-check-square" aria-hidden="true"></a> **Filtro de marca:** define se a página da categoria ou departamento deve apresentar a opção filtrar por [marcas](/pt/docs/tracks/marcas-definicao-de-conceito).
 7. Em **Modo de exibição dos produtos**, você determina como os SKUs dos produtos da categoria serão apresentados na vitrine da loja, sendo que existem as seguintes opções:
     * **Lista de SKUs:** itens organizados no formato de lista. Esta é a escolha padrão, caso você não selecione outra.
     * **Caixas de seleção (combo box):** itens selecionados a partir de caixas de seleção.
@@ -208,7 +208,7 @@ Na interface de **Atributos**, é possível identificar grupos e atributos herda
 
 ## Ações em atributos
 
-Na fase Beta, *atributos* é a terminologia para o que era chamado de [especificações de produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-produto), ou seja, as propriedades informativas que podem ser cadastradas em produtos. Em **Catálogo > Categorias**, a página **Atributos** permite realizar as seguintes ações:
+Na fase Beta, *atributos* é a terminologia para o que era chamado de [especificações de produto](/pt/docs/tracks/especificacoes-definicao-de-conceito#especificacao-de-produto), ou seja, as propriedades informativas que podem ser cadastradas em produtos. Em **Catálogo > Categorias**, a página **Atributos** permite realizar as seguintes ações:
 
 * [Adicionar atributo](#adicionar-atributo)
 * [Editar atributo](#editar-atributo)
@@ -284,7 +284,7 @@ Para isso, no topo direito da página **Atributos**, clique no ícone olho <i cl
 
 ## Ações em variações
 
-Na fase Beta, *variações* é a terminologia para o que era chamado de [especificações de SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-sku), ou seja, as opções de SKUs nas quais os produtos podem ser comprados. Em **Catálogo > Categorias**, a página **Variações** permite realizar as seguintes ações:
+Na fase Beta, *variações* é a terminologia para o que era chamado de [especificações de SKU](/pt/docs/tracks/especificacoes-definicao-de-conceito#especificacao-de-sku), ou seja, as opções de SKUs nas quais os produtos podem ser comprados. Em **Catálogo > Categorias**, a página **Variações** permite realizar as seguintes ações:
 
 * [Adicionar variação](#adicionar-variacao)
 * [Editar variação](#editar-variacao)

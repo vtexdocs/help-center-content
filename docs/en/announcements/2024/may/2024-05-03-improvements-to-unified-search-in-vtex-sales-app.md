@@ -39,5 +39,5 @@ This change is meant to improve the browsing and product search experience of sa
 
 ## What needs to be done?
 
-No action is required. The feature will be automatically applied to all VTEX stores using VTEX Sales App. For more information, see the article [Unified search in VTEX Sales App](/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/9sXeVwoD60qYYgRJ11r5F). 
+No action is required. The feature will be automatically applied to all VTEX stores using VTEX Sales App. For more information, see the article [Unified search in VTEX Sales App](/en/docs/tracks/unified-search-in-vtex-sales-app). 
 

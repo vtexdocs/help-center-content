@@ -38,7 +38,7 @@ Después de configurar el antifraude de Clearsale, estará disponible para uso e
 
 1. En el Admin de VTEX, acceda a __Configuración de la Tienda > Pago > Configuración__, o escriba __Configuración__ en la barra de búsqueda en la parte superior de la página.
 2. En la pestaña __Condiciones de Pago__, haga clic en el botón `+`.
-3. Haga clic en la condición deseada o [cree una nueva condición de pago](/es/tutorial/condiciones-de-pago).
+3. Haga clic en la condición deseada o [cree una nueva condición de pago](/es/docs/tutorials/condiciones-de-pago).
 5. Marque la opción __Utilizar antifraude__.
 6. Seleccione __ClearsaleV4__.
 7. Haga clic en `Guardar`.

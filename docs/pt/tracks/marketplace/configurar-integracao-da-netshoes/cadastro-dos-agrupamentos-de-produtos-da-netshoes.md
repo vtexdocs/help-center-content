@@ -15,7 +15,7 @@ trackSlugEN: configurar-integracao-da-netshoes
 order: 3
 ---
 
-Caso a [arquitetura do seu catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) separe variações de um mesmo modelo em produtos diferentes na VTEX, você precisará criar agrupamentos de produtos para que elas sejam exibidas corretamente na Netshoes.
+Caso a [arquitetura do seu catálogo](/pt/docs/tracks/arquitetura-do-catalogo) separe variações de um mesmo modelo em produtos diferentes na VTEX, você precisará criar agrupamentos de produtos para que elas sejam exibidas corretamente na Netshoes.
 
 <table width="100%">
   <tr>

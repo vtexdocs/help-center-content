@@ -17,15 +17,15 @@ order: 2
 
 # Comercio unificado
 
-El [comercio unificado](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) es una evolución del omnichannel. Además de compartir datos, en esta estrategia también se unifica el sistema de procesamiento y gestión de pedidos. Esto significa que los canales de la tienda no solo pueden ver cualquier pedido realizado en otro canal de ventas, sino también procesarlo. A medida que la interconectividad aumenta, puede ser muy estratégico para el negocio operar con cuentas franquicia y [sellers white label](/es/docs/tutorials/seller-white-label).
+El [comercio unificado](/es/docs/tracks/comercio-unificado-101) es una evolución del omnichannel. Además de compartir datos, en esta estrategia también se unifica el sistema de procesamiento y gestión de pedidos. Esto significa que los canales de la tienda no solo pueden ver cualquier pedido realizado en otro canal de ventas, sino también procesarlo. A medida que la interconectividad aumenta, puede ser muy estratégico para el negocio operar con cuentas franquicia y [sellers white label](/es/docs/tutorials/seller-white-label).
 
 ## Cuentas franquicia y sellers white label
 
-Las [cuentas franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia) son cuentas asociadas a una [cuenta principal](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl). Las empresas que tienen varias tiendas físicas, franquicia o multimarca pueden crear cuentas franquicia vinculadas a la cuenta principal de la marca.
+Las [cuentas franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia) son cuentas asociadas a una [cuenta principal](/es/docs/tracks/cuentas-y-arquitectura). Las empresas que tienen varias tiendas físicas, franquicia o multimarca pueden crear cuentas franquicia vinculadas a la cuenta principal de la marca.
 
 ![cuenta principal](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/guía-de-onboarding/proximos-pasos-tras-el-go-live/comercio-unificado_1.png)
 
-Este modelo comparte la información del catálogo y [storefront](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ), permitiendo que el stock de las cuentas franquicia esté disponible para la venta en la cuenta principal y que se puedan utilizar varias estrategias de comercio unificado, tales como [envío desde la tienda](#envio-desde-la-tienda), [tiendas físicas como puntos de recogida](#punto-de-recogida) y [pasillo infinito](/es/tracks/serie-de-la-tienda-vtex--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm).
+Este modelo comparte la información del catálogo y [storefront](/es/docs/tracks/implementacion-del-frontend), permitiendo que el stock de las cuentas franquicia esté disponible para la venta en la cuenta principal y que se puedan utilizar varias estrategias de comercio unificado, tales como [envío desde la tienda](#envio-desde-la-tienda), [tiendas físicas como puntos de recogida](#punto-de-recogida) y [pasillo infinito](/es/docs/tracks/products-add-on).
 
 Otras ventajas de operar utilizando cuentas franquicia son:
 - Cuentas exclusivas para cada tienda para una mejor gestión del acceso de los colaboradores.
@@ -44,11 +44,11 @@ Otras ventajas de operar utilizando cuentas franquicia son:
 
 ## Envío desde la tienda
 
-Las tiendas físicas pueden funcionar como minicentros de distribución para permitir el envío directo del stock a la dirección del cliente. Este tipo de operación reduce el costo y tiempo de envío y optimiza la planificación logística de la empresa. Para más información, consulta [Ship From Store](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/50GAmxxFsJoLWqcnMysWdl).
+Las tiendas físicas pueden funcionar como minicentros de distribución para permitir el envío directo del stock a la dirección del cliente. Este tipo de operación reduce el costo y tiempo de envío y optimiza la planificación logística de la empresa. Para más información, consulta [Ship From Store](/es/docs/tracks/configurar-ship-from-store).
 
  ## Punto de recogida
 
-Configurar [puntos de recogida](/es/docs/tutorials/puntos-de-recogida) en persona es beneficioso para las operaciones que implementan [estrategias de comercio unificado](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3), donde se optimiza la experiencia de compra del cliente mediante la venta y gestión de pedidos centralizados y la disponibilidad de varias opciones de envío. En VTEX, pueden registrarse los siguientes puntos de recogida:
+Configurar [puntos de recogida](/es/docs/tutorials/puntos-de-recogida) en persona es beneficioso para las operaciones que implementan [estrategias de comercio unificado](/es/docs/tracks/comercio-unificado-101), donde se optimiza la experiencia de compra del cliente mediante la venta y gestión de pedidos centralizados y la disponibilidad de varias opciones de envío. En VTEX, pueden registrarse los siguientes puntos de recogida:
 
 - Centro de distribución (CD).
 - Tienda física propia.

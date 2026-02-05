@@ -107,7 +107,7 @@ ____
 
 **Mensaje traducido:** Error al convertir el _token_ de acceso.
 
-Los mensajes indican que hay un problema con tu _token_. Mercado Libre puede considerar que un _token_ no es válido por diferentes razones, como un periodo de caducidad expirado o una sospecha de amenaza a la seguridad, por ejemplo. Los asuntos relacionados con _tokens_ deben tratarse directamente con Mercado Libre. Una vez resuelto el error, es necesario [volver a autorizar la integración](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4leBEAd22Icm46kGeiGgak) con Mercado Libre en el Admin VTEX. Si el error persiste, puede que sea necesario volver a [configurar el registro del conector](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4YvYdgICMosaEgISOYogsi) en el Admin VTEX y luego autorizar la integración otra vez.
+Los mensajes indican que hay un problema con tu _token_. Mercado Libre puede considerar que un _token_ no es válido por diferentes razones, como un periodo de caducidad expirado o una sospecha de amenaza a la seguridad, por ejemplo. Los asuntos relacionados con _tokens_ deben tratarse directamente con Mercado Libre. Una vez resuelto el error, es necesario [volver a autorizar la integración](/es/docs/tracks/autorizar-la-integracion-de-mercado-libre-en-el-panel-de-vtex) con Mercado Libre en el Admin VTEX. Si el error persiste, puede que sea necesario volver a [configurar el registro del conector](/es/docs/tracks/registro-de-la-integracion-de-mercado-libre) en el Admin VTEX y luego autorizar la integración otra vez.
 
 ____
 

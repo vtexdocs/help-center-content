@@ -19,4 +19,4 @@ O Pagamentos possui uma nova feature para você configurar seus meios de pagamen
 
 Clicando no botão __Configurações__ na página principal do módulo Pagamentos, você será direcionado para a lista de métodos de pagamento cadastrados na sua loja. Ao clicar em um que permita parcelamento, você vai ter na área de configuração das parcelas um botão para ativar/desativar a funcionalidade __Juros externos__. 
 
-Para saber mais sobre a configuração desta feature [acesse a nossa documentação](/pt/tutorial/condicoes-de-pagamento#juros-externos).
+Para saber mais sobre a configuração desta feature [acesse a nossa documentação](/pt/docs/tutorials/condicoes-de-pagamento#juros-externos).

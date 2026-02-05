@@ -27,7 +27,7 @@ La facturación de un pedido puede hacerse de dos formas:
 Solo después de alcanzar el valor total del pedido, el estado cambiará a `Facturado`, es decir, cuando el valor del pedido coincide con el valor facturado. Existen trés escenarios posibles para facturación, dependendo de la situación del pedido:
 
 - __Pedido sin cambios:__ deberás ingresar una factura con un valor equivalente al total del pedido.    
-- __Pedido modificado > descontando el importe > seguido de una factura aparte__: deberás ingresar una factura con el importe restante tras el cambio. La nota puede ser [parcial](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) o completa, si contiene todo el valor restante, después del cambio.    
+- __Pedido modificado > descontando el importe > seguido de una factura aparte__: deberás ingresar una factura con el importe restante tras el cambio. La nota puede ser [parcial](/es/docs/tracks/facturas-parciales) o completa, si contiene todo el valor restante, después del cambio.    
 - __Pedido con factura parcial > seguido de cambio con descuento__: deberás realizar un [cambio](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado), descontando el importe restante. Para ello, calcule el importe total menos el importe parcial de la factura.  
 
 ## Factura

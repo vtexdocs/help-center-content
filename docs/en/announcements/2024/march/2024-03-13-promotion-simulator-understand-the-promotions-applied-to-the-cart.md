@@ -18,7 +18,7 @@ announcementSynopsisEN: 'View and manage the promotions applied to the cart with
 
 We have launched the **Promotion Simulator** for all VTEX stores globally. It is a new tool that allows you to see the promotions applied to the cart in your store, along with their activation conditions. 
 
-Given the multiple options for configuring [promotions](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N), this feature provides a clear view of competing and accumulated promotions and conditions to activate them.
+Given the multiple options for configuring [promotions](/en/docs/tracks/how-promotions-work), this feature provides a clear view of competing and accumulated promotions and conditions to activate them.
 
 We created the **Promotion Simulator** to give merchants more autonomy to manage and run promotions based on their business strategies. With the new tool, you can explore and streamline the performance of your promotions while ensuring a more efficient operation and an enhanced shopping experience for your customers.
 

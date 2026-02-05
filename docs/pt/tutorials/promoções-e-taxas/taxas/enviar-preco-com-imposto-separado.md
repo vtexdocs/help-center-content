@@ -17,7 +17,7 @@ subcategoryId: 18Gsips3u48UYCu0Ku2sWm
 
 Muitas vezes é necessário enviar ao Gateway ou ao seu ERP o preço do item já com o imposto discriminado, ou seja, separado do preço do item.
 
-Para isso, você pode utilizar a configuração de impostos em [__Pricing__](/pt/tutorial/como-criar-taxaimposto).
+Para isso, você pode utilizar a configuração de impostos em [__Pricing__](/pt/docs/tutorials/como-criar-taxaimposto).
 
 Neste artigo, mostraremos como funciona o sistema para estes casos.
 **Cenário 1**: Meu ERP envia o preço já com o IVA para a VTEX, portanto, não preciso fazer o cálculo.

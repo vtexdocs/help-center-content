@@ -25,7 +25,7 @@ To connect the domain to the store, you must [register the domain in Account Man
 
 ## Requesting IO pointing
 
-If your storefront is powered by [CMS IO](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), please submit a ticket to [VTEX Support](https://supporticket.vtex.com/support) requesting internal DNS pointing to CMS IO and provide the URL you want to be pointed. This process can take up to 3 business days.
+If your storefront is powered by [CMS IO](/en/docs/tracks/cms-vtex-io), please submit a ticket to [VTEX Support](https://supporticket.vtex.com/support) requesting internal DNS pointing to CMS IO and provide the URL you want to be pointed. This process can take up to 3 business days.
 
 After you receive the internal pointing confirmation, you must do the [common DNS pointing](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#setting-up-dns-pointing) within 5 days. Otherwise the internal pointing will be deleted and you will need to redo the request.
 
@@ -33,7 +33,7 @@ After you receive the internal pointing confirmation, you must do the [common DN
 
 ## Requesting special pointing
 
-If your store access is limited by a [trade policy](/en/docs/tutorials/creating-a-trade-policy) with a conditional rule and your storefront was built with the [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), you will need to request a special internal pointing.
+If your store access is limited by a [trade policy](/en/docs/tutorials/creating-a-trade-policy) with a conditional rule and your storefront was built with the [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal), you will need to request a special internal pointing.
 
 An example is [B2B stores](/en/docs/tutorials/b2b-overview), which [restrict access](/en/docs/tutorials/setting-up-b2b-on-vtex) to pre-approved companies.
 

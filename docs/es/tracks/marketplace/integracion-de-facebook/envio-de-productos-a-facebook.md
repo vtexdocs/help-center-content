@@ -29,7 +29,7 @@ Después de completar la autenticación de tu cuenta, los productos se envían a
 
 La actualización es automática y se realiza cada vez que se modifica uno de los datos. Es importante destacar que el valor _moneda_ se define en la política comercial, y que la _disponibilidad_ no refleja el stock real: solo determina si los productos están disponibles para la venta. Para más información, consulta [Cómo funciona la disponibilidad de inventario en la página de producto](/es/docs/tutorials/como-funciona-la-disponibilidad-de-inventario-en-la-pagina-de-producto).
 
-Si deseas enviar los atributos de tus productos a Facebook, debes completar un paso adicional. Los atributos son [especificaciones](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) de los productos, es decir, son propiedades que se pueden registrar en los productos o los SKUs.
+Si deseas enviar los atributos de tus productos a Facebook, debes completar un paso adicional. Los atributos son [especificaciones](/es/docs/tracks/especificaciones-definicion-de-concepto) de los productos, es decir, son propiedades que se pueden registrar en los productos o los SKUs.
 
 El paso adicional es mapear las especificaciones de los productos. El mapeo permite la correspondencia entre los atributos registrados en tu tienda VTEX y los estándares de Facebook.
 

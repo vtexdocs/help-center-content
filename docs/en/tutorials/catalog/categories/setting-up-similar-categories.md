@@ -36,7 +36,7 @@ To configure a similar category at product level, follow the steps below:
 
 ## Configuring similar category within a category
 
-> ⚠️ This setting is only compatible with stores using [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
+> ⚠️ This setting is only compatible with stores using [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal).
 
 When editing a category, you can set up its like category. When you complete this kind of configuration at category level, the navigation menu will display a link to the similar category at the original category level.
 

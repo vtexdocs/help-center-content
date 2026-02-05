@@ -226,7 +226,7 @@ To configure the easypay affiliation, follow the steps below:
 7. If you want to use [payment split](/en/docs/tutorials/split-payment) in your store, select the option __Enable payout split and send payment recipients__ and indicate the __Accountable for payment processing charges__ and __Accountable for chargebacks__ (marketplace, sellers or marketplaces and sellers).
 8. Click `Save`.
 
-To configure the payment methods that easypay will process, read the [Configuring payment conditions](/en/tutorial/how-to-configure-payment-conditions) article.
+To configure the payment methods that easypay will process, read the [Configuring payment conditions](/en/docs/tutorials/how-to-configure-payment-conditions) article.
 
 To set special conditions for payment methods, read [Configuring payment special conditions](/en/docs/tutorials/special-conditions).
 

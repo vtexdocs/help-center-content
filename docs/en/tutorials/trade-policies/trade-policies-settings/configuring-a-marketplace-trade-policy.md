@@ -52,7 +52,7 @@ This can be configured in the *Settings* page of the *Order management* module, 
 ## Promotions
 Sellers can create promotions with different conditions for the marketplaces in which they sell products. When creating a promotion, the trade policies indicate to which marketplaces they will be applied. If you would like to create a promotion for your store in a marketplace that offers a lower commission on your products, you must indicate to which trade policy the promotion will be applied.
 
-This configuration can be done in the *Promotions* module in all [promotions](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/4W2AA8MWwIy80z5UCYw0f9) your store offers as a seller. To do this:
+This configuration can be done in the *Promotions* module in all [promotions](/en/docs/tracks/campaigns-what-are-they-and-how-to-create-them) your store offers as a seller. To do this:
 
 1. Select the trade policy in the **Restrict trade policies **field. 
 2. Configure the origin of the promotions to `fulfillment / Delivered by me`. 
@@ -89,7 +89,7 @@ Sellers can define a different pricing strategy for each marketplace in which th
 This configuration can be done in the *Prices* module by means of trade policies. When entering prices for their products, sellers must take into account that each trade policy is created with its own price table. To differentiate prices between trade policies, you can use:
 
 - [Price rules](/en/docs/tutorials/configuring-a-pricing-rule-for-a-sales-policy): to determine a markup for specific categories and brands.
-- [Fixed prices](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy): to differentiate prices for specific products.
+- [Fixed prices](/en/docs/tracks/preco-fixo-definicao-de-conceito): to differentiate prices for specific products.
 
 ![EN Regra de preço](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/trade-policies/trade-policies-settings/configuring-a-marketplace-trade-policy_6.jpg)
 

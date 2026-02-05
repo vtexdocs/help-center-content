@@ -31,4 +31,4 @@ Antes de empezar a utilizar Intelligent Search, comprueba si tu tienda cumple lo
 
   > ℹ️ Este requisito no aplica a escenarios de implementación headless, donde la tecnología frontend no es proporcionada por VTEX. En estos casos, es necesario implementar el envío de los eventos de búsqueda. Para más información, consulta [VTEX Intelligent Search Events API - Headless](https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless).
 
-* La tienda debe tener [productos y SKUs registrados en el catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) y activos.
+* La tienda debe tener [productos y SKUs registrados en el catálogo](/es/docs/tracks/registrar-producto) y activos.

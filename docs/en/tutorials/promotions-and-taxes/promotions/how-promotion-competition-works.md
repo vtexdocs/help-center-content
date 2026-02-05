@@ -33,7 +33,7 @@ Learn more about some concepts of the Promotions module to understand how the pr
 ## Promotion effects
 
 Promotion effects are related to the benefits the promotion offers, which can be of four types:  
-   - **Price discount**: Promotions that apply a percentage or nominal discount to the product price. This includes multiple discounts, such as [regular promotions](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) and other mechanisms affecting the item price.  
+   - **Price discount**: Promotions that apply a percentage or nominal discount to the product price. This includes multiple discounts, such as [regular promotions](/en/docs/tracks/creating-regular-promotions) and other mechanisms affecting the item price.  
 - **Shipping discount**: [Promotions with a discount applied to the shipping cost](/en/docs/tutorials/configuring-shipping-promotions).  
 - **Gift**: Promotions that offer customers one or more gifts.  
 - **Formula**: Promotions with nominal discount based on [formula](/en/docs/tutorials/regular-promotion-with-nominal-discount-based-on-formula), which is one of the options of a regular promotion.

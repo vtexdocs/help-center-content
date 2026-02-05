@@ -31,7 +31,7 @@ La tabla a continuación contiene la descripción de las columnas de la lista de
 
 | **Columna** | **Descripción** |
 | ---------- | ---------- |
-| SKU | Código numérico que identifica el [SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) del catálogo del marketplace. |
+| SKU | Código numérico que identifica el [SKU](/es/docs/tracks/registrar-sku) del catálogo del marketplace. |
 | Seller | Nombre y ID del [_seller_ registrado](/es/docs/tutorials/agregar-seller) en el marketplace. |
 | SKU de seller | Código alfanumérico que identifica el SKU del catálogo del _seller_ con el cual el SKU del _marketplace_ está vinculado. |
 | Status | Estado del vínculo entre el SKU del _seller_ y el SKU del _marketplace_. Hay dos tipos de estados: <ul><li>**Vinculado:** existe una correspondencia entre el SKU del *seller* y el SKU del *marketplace*.</li><li>**Desvinculado:** no existe una correspondencia entre el SKU del *seller* y el SKU del *marketplace*.</li></ul> Si un vínculo de SKU pasa de **Vinculado** a **Desvinculado**, el SKU del *seller* no estará disponible en el catálogo del *marketplace*. |

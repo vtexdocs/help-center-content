@@ -51,7 +51,7 @@ Algunos campos importantes en las tablas con este objetivo son:
 
 ### Clientes
 
-Toda tienda tiene una Entidad de Datos que configura la tabla de clientes. Es posible añadir campos a esta entidad siguiendo los pasos del artículo [Crear un campo en el Master Data](/es/docs/tutorials/como-crear-un-campo-en-master-data). De esta manera, cuando un cliente visita una tienda, el front-end tiene acceso a información relevante sobre su posición en la estructura de ventas y puede presentar una experiencia personalizada. Además, se puede limitar el acceso a la tienda apenas para los clientes aprobados, como se explica en el artículo [Configurar B2B en VTEX](/es/tutorial/configurando-b2b-na-vtex).
+Toda tienda tiene una Entidad de Datos que configura la tabla de clientes. Es posible añadir campos a esta entidad siguiendo los pasos del artículo [Crear un campo en el Master Data](/es/docs/tutorials/como-crear-un-campo-en-master-data). De esta manera, cuando un cliente visita una tienda, el front-end tiene acceso a información relevante sobre su posición en la estructura de ventas y puede presentar una experiencia personalizada. Además, se puede limitar el acceso a la tienda apenas para los clientes aprobados, como se explica en el artículo [Configurar B2B en VTEX](/es/docs/tutorials/configurando-b2b-na-vtex).
 
 Algunos campos importantes que pueden ser añadidos a la tabla de Clientes son:
 - ID del representante/RCA
@@ -110,7 +110,7 @@ También es posible rellenar tablas de forma masiva enviando plantillas, como se
 - [Crear relacionamentos entre entidades de datos](/es/tutorial/creating-relationships-between-data-entities--6TdIa6Q2IgWYUu2wsYIG48)
 - [Como crear un trigger en el Master Data](/es/docs/tutorials/creando-trigger-en-el-master-data)
 - [Crear un campo en el Master Data](/es/docs/tutorials/como-crear-un-campo-en-master-data)
-- [Configurar B2B en VTEX](/es/tutorial/configurando-b2b-na-vtex)
+- [Configurar B2B en VTEX](/es/docs/tutorials/configurando-b2b-na-vtex)
 - [Crear formulario en el Master Data](/es/docs/tutorials/creando-formulario-en-master-data)
 - [Crear aplicación en el Master Data](/es/docs/tutorials/creando-una-aplicacion-en-el-vtex-master-data)
 - [Crear formulario de Contáctenos utilizando el Master Data](/es/tutorial/criar-formulario-de-fale-conosco-usando-master-data--frequentlyAskedQuestions_614)

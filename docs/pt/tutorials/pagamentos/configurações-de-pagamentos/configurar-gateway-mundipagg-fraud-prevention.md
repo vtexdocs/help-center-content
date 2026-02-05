@@ -17,7 +17,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 > ❗ Essa integração de pagamento não pode ser mais configurada na plataforma devido ao [processo de remoção de provedores legados](/pt/announcements/2023-10-13-conectores-legados-de-pagamentos-serao-descontinuados-em-2024) e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.
 
-A Mundipagg oferece uma versão do seu [gateway](/pt/tutorial/o-que-e-um-gateway-de-pagamentos) com a funcionalidade de antifraude. O Mundipagg Fraud Prevention traz ainda mais segurança para o processamento de compras feitas com boletos, transferências bancárias e as principais bandeiras de cartão de crédito.
+A Mundipagg oferece uma versão do seu [gateway](/pt/docs/tutorials/o-que-e-um-gateway-de-pagamentos) com a funcionalidade de antifraude. O Mundipagg Fraud Prevention traz ainda mais segurança para o processamento de compras feitas com boletos, transferências bancárias e as principais bandeiras de cartão de crédito.
 
 Para configurar o Mundipagg Fraud Prevention, siga os passos abaixo:
 
@@ -39,4 +39,4 @@ Para configurar o Mundipagg Fraud Prevention, siga os passos abaixo:
 > ℹ️ Os passos indicados nos itens **8**, **9**, **11** e **12** devem ser preenchidos se você quiser oferecer boletos bancários como condição de pagamento na sua loja.
 
 ## Configurar condição de pagamento
-Depois de seguir os passos indicados, o Mundipagg Fraud Prevention vai estar configurado na sua loja. Assim, quando você for cadastrar uma condição de pagamento, ele vai estar disponível no campo __Processar com a afiliação__ (desde que o meio de pagamento seja compatível com o Mundipagg Fraud Prevention). Para saber como definir condições de pagamento, acesse [este artigo do Help](/pt/tutorial/condicoes-de-pagamento).
+Depois de seguir os passos indicados, o Mundipagg Fraud Prevention vai estar configurado na sua loja. Assim, quando você for cadastrar uma condição de pagamento, ele vai estar disponível no campo __Processar com a afiliação__ (desde que o meio de pagamento seja compatível com o Mundipagg Fraud Prevention). Para saber como definir condições de pagamento, acesse [este artigo do Help](/pt/docs/tutorials/condicoes-de-pagamento).

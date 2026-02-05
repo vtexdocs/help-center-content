@@ -18,7 +18,7 @@ order: 10
 There are three ways to create a fixed price:
 
 - [Via the Pricing module in the Admin](#admin)
-- [Via the fixed price template](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D)
+- [Via the fixed price template](/en/docs/tracks/exporting-and-importing-via-a-price-spreadsheet)
 - [Via Pricing API](#pricing-api)
 
 ## Admin

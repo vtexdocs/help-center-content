@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Ahora las facturas parciales emitidas en los pedidos también generan liquidaciones parciales en la transacción.'
 ---
 
-Si gestionas pedidos en el OMS, el sistema de gestión de pedidos de VTEX, debes emitir una factura en el pedido para que su status pase a Facturado; esto indica que el pedido concluyó con éxito. Se puede emitir una [factura completa](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT) o una [fatura parcial](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cuando los ítems o el valor del pedido sufren cambios. 
+Si gestionas pedidos en el OMS, el sistema de gestión de pedidos de VTEX, debes emitir una factura en el pedido para que su status pase a Facturado; esto indica que el pedido concluyó con éxito. Se puede emitir una [factura completa](/es/docs/tracks/facturar-un-pedido) o una [fatura parcial](/es/docs/tracks/facturas-parciales) cuando los ítems o el valor del pedido sufren cambios. 
 
 Desarrollamos una mejora en el OMS que hará que las facturas parciales emitidas en los pedidos también disparen liquidaciones parciales en la transacción. El valor total del pedido se actualizará luego de emitir la factura y se corresponderá con la información obtenida a través del _gateway_ de pagos de VTEX. 
 
@@ -33,7 +33,7 @@ Ahora, el _gateway_ liquida el valor correspondiente a la factura emitida. Este 
 * Si hay una diferencia en los valores, el consumidor recibe un reembolso de modo automático. Ya no es necesario informar la diferencia en el valor por fuera de VTEX.  
 * Se pueden ir facturando los ítems a medida que están disponibles. Si, luego, el operador identifica que se deben eliminar un ítem y su valor, se podrá modificar el pedido y descontar ese importe, ya que las facturas anteriores solo incluían los valores correspondientes y el saldo del valor facturado estaba pendiente.  
 
-Obtén más información en [Facturas parciales](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe).
+Obtén más información en [Facturas parciales](/es/docs/tracks/facturas-parciales).
 
 ## ¿Por qué realizamos este cambio?
 
@@ -55,7 +55,7 @@ Para reproducir este comportamiento:
 
     > Si usas la nueva interfaz de Detalles del pedido (Beta), accede a [Cómo cambiar ítems del pedido (Beta).](/es/tutorial/how-to-change-order-items-beta--7jekq618QxgbsOxKkXBjE8)
 
-3. Luego de realizar todos los cambios en el pedido, puedes seguir todos los eventos de la transacción haciendo clic en [Ver detalles de la transacción](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy). 
+3. Luego de realizar todos los cambios en el pedido, puedes seguir todos los eventos de la transacción haciendo clic en [Ver detalles de la transacción](/es/docs/tracks/ver-detalles-de-la-transaccion). 
 
 También puedes realizar las mismas acciones a través de nuestra API de Pedidos. Para hacerlo, revisa los _endpoints_:
 

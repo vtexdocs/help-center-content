@@ -17,7 +17,7 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 
 Orders on VTEX can be canceled at practically any status during their evolution. It must be stressed that once canceled, the order status cannot be altered.
 
-> ⚠️ Orders with [partial invoices](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be canceled. If the customer wants to replace or remove items from the order, it is possible to [change the order](/en/docs/tutorials/changing-items-from-a-complete-order).
+> ⚠️ Orders with [partial invoices](/en/docs/tracks/partial-invoices) cannot be canceled. If the customer wants to replace or remove items from the order, it is possible to [change the order](/en/docs/tutorials/changing-items-from-a-complete-order).
 
 There are two ways of doing this, through the VTEX Admin or API.
 

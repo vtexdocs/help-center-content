@@ -63,7 +63,7 @@ La elección del campo en el que se ingresará el código del vendedor depende d
 
 Si se seleccionan ambas alternativas, el vendedor debe indicar qué campo está rellenando en la interfaz de carrito compartible.
 
-> ℹ️ La información registrada puede encontrarse en el card **Promociones y Marketing** en los [detalles del pedido](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/204AjAQseJe8RLUi8GAhiC) o en el objeto `marketingData` devuelto al obtener la información del pedido mediante [Orders API](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-).
+> ℹ️ La información registrada puede encontrarse en el card **Promociones y Marketing** en los [detalles del pedido](/es/docs/tracks/ver-detalles-del-pedido) o en el objeto `marketingData` devuelto al obtener la información del pedido mediante [Orders API](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-).
 
 ### Canales
 

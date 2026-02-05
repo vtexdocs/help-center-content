@@ -76,13 +76,13 @@ This article answers frequently asked questions about **VTEX Sales App**, divide
 Some **VTEX Sales App** features require specific architectural configurations:
 
 * **Selling local inventory (*on hands*):** We recommend that the store have a [franchise account](/en/docs/tutorials/what-is-a-franchise-account) for better organization and operational management.  This allows merchants to manage different warehouses and prices for franchise accounts.
-* **Selling remote inventory (endless aisle):** There are multiple architectural models to support [endless aisle](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn):
+* **Selling remote inventory (endless aisle):** There are multiple architectural models to support [endless aisle](/en/docs/tracks/endless-aisle):
     * The store can use franchise accounts or [white label sellers](/en/docs/tutorials/white-label-seller).
     * The store can operate with a [multi-store architecture](/en/docs/tutorials/choosing-between-a-multistore-architecture-or-an-additional-environment) to manage multiple warehouses.
 
 Merchants looking to offer a large inventory and optimize delivery logistics can use the same trade policy as the distribution center in **VTEX Sales App**.
 
-> ℹ️ Learn more in the article [Prerequisites for using VTEX Sales App](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u).
+> ℹ️ Learn more in the article [Prerequisites for using VTEX Sales App](/en/docs/tracks/prerequisites-for-using-vtex-sales-app).
 
 ### 3. What is needed to make local inventory available via VTEX Sales App?
 
@@ -131,7 +131,7 @@ No, **VTEX Sales App** can be used on various devices, such as tablets, computer
 
 Yes, internet connection is required to use the solution, and the signal quality directly impacts the customer experience. A faster connection speed provides a better experience.
 
-> ℹ️ To learn about the conditions for using the solution, see the article [Prerequisites for using VTEX Sales App](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u).
+> ℹ️ To learn about the conditions for using the solution, see the article [Prerequisites for using VTEX Sales App](/en/docs/tracks/prerequisites-for-using-vtex-sales-app).
 
 ### 11. Can non-VTEX clients use VTEX Sales App?
 
@@ -145,7 +145,7 @@ Merchants need to follow a few steps to activate the **custom display**. The ins
 
 ### 13. Can banners and customizations be included in the Offers section of VTEX Sales App?
 
-No, [VTEX Sales App Offers](/en/docs/tutorials/ads-from-vtex-sales-app) can't be customized as it follows standardized layouts. To learn about possible changes to the experience, see the article [How to customize VTEX Sales App](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/Rby973h1l9tEM4C1YrzwZ).
+No, [VTEX Sales App Offers](/en/docs/tutorials/ads-from-vtex-sales-app) can't be customized as it follows standardized layouts. To learn about possible changes to the experience, see the article [How to customize VTEX Sales App](/en/docs/tracks/customizing-vtex-sales-app).
 
 ## Payments
 
@@ -159,9 +159,9 @@ The solution supports the following [payment methods](/en/docs/tutorials/differe
 * [Note payable](/en/docs/tutorials/setting-up-payments-with-notes-payable)
 * [Gift card](/en/docs/tutorials/gift-card) (customers can use a partial or full amount)
 
-If you want to use a payment method configured in your ecommerce website that isn't listed in **VTEX Sales App**, there's a workaround. Sales associates can complete the sale using the [shared cart (social selling)](/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy) to send a payment link to customers. Orders paid via links aren't processed by the **VTEX Sales App** checkout; they're processed by the ecommerce website checkout, allowing the store to use all the payment methods configured for the ecommerce website.
+If you want to use a payment method configured in your ecommerce website that isn't listed in **VTEX Sales App**, there's a workaround. Sales associates can complete the sale using the [shared cart (social selling)](/en/docs/tracks/sharing-shopping-cart-using-vtex-sales-app-social-selling) to send a payment link to customers. Orders paid via links aren't processed by the **VTEX Sales App** checkout; they're processed by the ecommerce website checkout, allowing the store to use all the payment methods configured for the ecommerce website.
 
-> ❗ The **VTEX Sales App** doesn't support cash payments in the physical store. Learn more in the article [VTEX Sales App - Payments](/en/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/2liigRors32hzqBNs2M1Oa).
+> ❗ The **VTEX Sales App** doesn't support cash payments in the physical store. Learn more in the article [VTEX Sales App - Payments](/en/docs/tracks/setting-up-payment-methods-for-vtex-sales-app).
 
 ### 15. What payment connectors act as acquirers for card purchases in VTEX Sales App?
 

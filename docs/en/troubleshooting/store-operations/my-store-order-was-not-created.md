@@ -21,7 +21,7 @@ tags:
   - Stock
 ---
 
-When a customer tries to buy a product and an error occurs in creating the order, it can be due to different reasons, such as payment problems, logistics issues, or [backend integrations](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) with ERPs (Enterprise Resource Planning).
+When a customer tries to buy a product and an error occurs in creating the order, it can be due to different reasons, such as payment problems, logistics issues, or [backend integrations](/en/docs/tracks/backend-integrations) with ERPs (Enterprise Resource Planning).
 
 Before considering complex causes for errors with orders that were not created, try the troubleshooting processes presented in this article. Some of the most common error scenarios are:
 

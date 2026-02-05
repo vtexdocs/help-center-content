@@ -20,9 +20,9 @@ This article aims to explain how the basic flow of a __credit card__ payment wor
 ![EN Credit Card Flow](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/credit-card-basic-payment-flow_1.svg)
 
 1. On the Checkout screen, the customer chooses the credit card __Payment Method__ to pay for their purchase.
-2. Payment information is passed to the __Payment Gateway__. The [gateway](/en/tutorial/what-is-a-payment-gateway) is the player responsible for ensuring that this payment is successful.
-3. With the information in hand, the payment gateway passes on the required information to the __Acquirer__. The [acquirers](/en/tutorial/what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil#acquirer) are responsible for settlements of financial transactions with retailers.
-4. In the possession of this information, the acquirer sends the payment data to the __Card Brand__. The [card brand](/en/tutorial/what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil#card-brand) determines some business rules for payments, such as the number of installments. In addition, it connects the acquirer system with the issuing banks.
+2. Payment information is passed to the __Payment Gateway__. The [gateway](/en/docs/tutorials/what-is-a-payment-gateway) is the player responsible for ensuring that this payment is successful.
+3. With the information in hand, the payment gateway passes on the required information to the __Acquirer__. The [acquirers](/en/docs/tutorials/what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil#acquirer) are responsible for settlements of financial transactions with retailers.
+4. In the possession of this information, the acquirer sends the payment data to the __Card Brand__. The [card brand](/en/docs/tutorials/what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil#card-brand) determines some business rules for payments, such as the number of installments. In addition, it connects the acquirer system with the issuing banks.
 5. Finally, the brand sends the payment information to the __Issuing Bank__. The issuing bank performs the credit analysis, checks the available limit and then authorizes or denies payment.
 
 With the response from the issuing bank, the reverse flow is performed and the __Payment Gateway__ receives the information if the payment has been approved or denied.

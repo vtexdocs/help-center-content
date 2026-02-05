@@ -37,7 +37,7 @@ Before making changes to the order, be aware of the restrictions of this feature
 * The [acquirer](/en/docs/tutorials/what-is-an-acquirer) must accept the new transaction value for the change to occur.
 * Additional amounts are only allowed if the order was paid using the **Promissory** or **CardPromissory** payment conditions (available in the Admin in **Store Settings > Payment > Settings > Payment Conditions**), [cash](/en/docs/tutorials/how-to-configure-a-custom-payment) or [credit control](/en/docs/tutorials/customer-credit-overview). In addition, the [acquirer](/en/docs/tutorials/what-is-an-acquirer) must allow transactions without the CVV code and two charging transactions in the same order.
 * The [reservation](/en/docs/tutorials/how-does-reservation-work) of the items in the inventory is not automatic. You must manually update the number of items that are still available in the [inventory](/en/docs/tutorials/managing-stock-items).
-* Orders with [partial invoices](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](/en/docs/tutorials/canceling-orders). If the customer wants to replace or remove items from the order, it is possible to change the order.
+* Orders with [partial invoices](/en/docs/tracks/partial-invoices) cannot be [canceled](/en/docs/tutorials/canceling-orders). If the customer wants to replace or remove items from the order, it is possible to change the order.
 * It is not possible to change an order when its transaction is finalized. For changes to the discounted order value, for example, the OMS considers that you can still change the transaction value if the status in Transaction Details is other than `Finished`, even if the value has already been settled.  
 * You cannot make changes to orders coming from [marketplaces integrated with VTEX](/en/docs/tutorials/marketplace-strategies-at-vtex) (either by native connectors or partner connectors).
 * You can only change orders that are being prepared for delivery.
@@ -69,7 +69,7 @@ Changes to the order will be updated in the *Items to invoice* and *History of c
 
 ### Partial invoices
 
-When changing or removing items from an order, the order total changes. In this case, you have to [invoice the order](/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT) by sending the [partial invoice](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) corresponding to the amount that will be settled for the order after the change. 
+When changing or removing items from an order, the order total changes. In this case, you have to [invoice the order](/en/docs/tracks/invoicing-an-order) by sending the [partial invoice](/en/docs/tracks/partial-invoices) corresponding to the amount that will be settled for the order after the change. 
 
 The order total will be updated once the invoice is added, corresponding to what is settled by the VTEX payment gateway. The VTEX Payments system will automatically refund the customer if an item is returned.
 

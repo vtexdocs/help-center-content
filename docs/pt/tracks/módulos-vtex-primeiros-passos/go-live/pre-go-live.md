@@ -25,7 +25,7 @@ Você deve [cadastrar o domínio no Gerenciamento da conta](/pt/tutorial/configu
 
 ## Solicitar apontamento IO
 
-Se sua frente de loja é feita com [CMS IO](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), solicite o apontamento interno de DNS para CMS IO por meio de um ticket no [suporte VTEX](https://supporticket.vtex.com/support), informando a URL você deseja que seja apontada. Este processo pode levar até três dias úteis.
+Se sua frente de loja é feita com [CMS IO](/pt/docs/tracks/cms-vtex-io), solicite o apontamento interno de DNS para CMS IO por meio de um ticket no [suporte VTEX](https://supporticket.vtex.com/support), informando a URL você deseja que seja apontada. Este processo pode levar até três dias úteis.
 
 Após receber a confirmação do apontamento interno, você deverá realizar o [apontamento comum de DNS](/pt/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#realizar-apontamento-de-dns) em até cinco dias. Do contrário o apontamento interno será excluído e você precisará refazer esta solicitação.
 
@@ -33,7 +33,7 @@ Após receber a confirmação do apontamento interno, você deverá realizar o [
 
 ## Solicitar apontamento especial
 
-Se o acesso à sua loja é restrito por [política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) com regra condicional e sua frente de loja foi construída com [CMS Portal (Legado)](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), você deverá solicitar um apontamento interno especial.
+Se o acesso à sua loja é restrito por [política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) com regra condicional e sua frente de loja foi construída com [CMS Portal (Legado)](/pt/docs/tracks/cms-portal-legado), você deverá solicitar um apontamento interno especial.
 
 Um exemplo comum são [lojas B2B](/pt/docs/tutorials/b2b-visao-geral), que [restringem o acesso](/pt/tutorial/configurando-b2b-na-vtex--tutorials_238#1-incluir-regra-condicional-na-politica-comercial-do-b2b) a empresas pré-aprovadas.
 

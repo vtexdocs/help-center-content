@@ -23,7 +23,7 @@ Além dos módulos abordados no artigo anterior, como [Catálogo](/pt/tracks/tri
 
 ## Pagamentos
 
-O módulo de [Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB) na VTEX é responsável por coordenar todas as operações financeiras realizadas em uma loja. Por meio dele, é possível determinar quais provedores, meios e condições de pagamento serão oferecidos aos clientes no checkout, bem como verificar informações a respeito das transações de pagamento efetuadas em cada pedido.
+O módulo de [Pagamentos](/pt/docs/tracks/como-funciona-o-modulo-de-pagamentos) na VTEX é responsável por coordenar todas as operações financeiras realizadas em uma loja. Por meio dele, é possível determinar quais provedores, meios e condições de pagamento serão oferecidos aos clientes no checkout, bem como verificar informações a respeito das transações de pagamento efetuadas em cada pedido.
 
 ### Antes de começar em Pagamentos
 
@@ -61,7 +61,7 @@ Conforme as informações vão sendo transmitidas entre os agentes responsáveis
 
 ![payments-flow-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-ii_2.JPG)
 
-Mais informações sobre cada etapa podem ser encontradas no artigo [Fluxo da transação no Pagamentos](/pt/docs/tutorials/fluxo-da-transacao-no-pagamentos). Para saber como acessar mais informações sobre as transações no Admin VTEX, bas conferir o artigo [Ver detalhes da transação](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy).
+Mais informações sobre cada etapa podem ser encontradas no artigo [Fluxo da transação no Pagamentos](/pt/docs/tutorials/fluxo-da-transacao-no-pagamentos). Para saber como acessar mais informações sobre as transações no Admin VTEX, bas conferir o artigo [Ver detalhes da transação](/pt/docs/tracks/ver-detalhes-da-transacao).
 
 ### Configurando pagamentos na loja
 
@@ -137,13 +137,13 @@ Além disso, também é possível oferecer gift cards de provedores externos por
 
 Carteiras digitais são ambientes seguros onde dados bancários e de cartão de crédito podem ser armazenados de forma criptografada e que podem ser acessadas pelo cliente no momento de realizar uma compra. A segurança deste meio de pagamento consiste em não ser necessário preencher todos os dados no checkout a cada compra, sendo somente solicitado ao realizar a autenticação dentro do próprio ambiente de carteira digital.
 
-Na VTEX, é possível oferecer carteiras digitais nativas, como o [Google Pay](/pt/tracks/carteira-digital-e-wallet--6X8YyZBoVJpz5R8oXciTyu/61JMBvM5Vanqj6RaJsP8CT), ou carteiras digitais integradas, tais como [Apple Pay](/pt/tracks/digital-wallet-e-wallet--6X8YyZBoVJpz5R8oXciTyu/STKWiXJSR9ImPt5EEC2aL), [Samsung Pay](/pt/docs/tutorials/configurar-samsung-pay-como-meio-de-pagamento) e [PayPal](/pt/tutorial/configurar-paypal--4p3sD9u1moq2Aya2oc684w). Mais informações em [Carteira digital (ewallet)](/pt/tracks/digital-wallet-e-wallet--6X8YyZBoVJpz5R8oXciTyu/7jLbdfch9Oe2yYbQa9zwE1).
+Na VTEX, é possível oferecer carteiras digitais nativas, como o [Google Pay](/pt/docs/tracks/google-pay), ou carteiras digitais integradas, tais como [Apple Pay](/pt/docs/tracks/apple-pay), [Samsung Pay](/pt/docs/tutorials/configurar-samsung-pay-como-meio-de-pagamento) e [PayPal](/pt/tutorial/configurar-paypal--4p3sD9u1moq2Aya2oc684w). Mais informações em [Carteira digital (ewallet)](/pt/docs/tracks/carteira-digital-e-wallet).
 
 #### Customer Credit
 
 Customer credit é a solução da VTEX para permitir que crédito seja oferecido a clientes específicos, possibilitando um prazo maior para o pagamento de suas compras. Por meio deste app, é possível ter acesso a gerenciamento de clientes, configuração de prazos e parcelamentos, definição de crédito e acompanhamento de status de títulos de cobrança emitidos, entre outras funcionalidades.
 
-Para mais informações, acesse [Customer Credit - Visão geral](/pt/docs/tutorials/customer-credit-visao-geral) e [Customer Credit - Como Começar](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
+Para mais informações, acesse [Customer Credit - Visão geral](/pt/docs/tutorials/customer-credit-visao-geral) e [Customer Credit - Como Começar](/pt/docs/tracks/instalar-customer-credit).
 
 ## Pedidos
 
@@ -162,14 +162,14 @@ No entanto, para o cliente ser capaz de realizar a compra e gerar um pedido, a l
 
 ### Integração de pedidos
 
-Com grande frequência, as lojas desejam [integrar seus pedidos](https://developers.vtex.com/docs/guides/erp-integration-guide) a sistemas como ERP (_Enterprise Resource Planning_) e WMS (_Warehouse Management System_). A [implementação de backend](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) permite à loja automatizar algumas ações no processamento do pedido, tais como:
+Com grande frequência, as lojas desejam [integrar seus pedidos](https://developers.vtex.com/docs/guides/erp-integration-guide) a sistemas como ERP (_Enterprise Resource Planning_) e WMS (_Warehouse Management System_). A [implementação de backend](/pt/docs/tracks/integracoes-de-backend) permite à loja automatizar algumas ações no processamento do pedido, tais como:
 
 - Receber notificações do andamento de pedidos e do seu status no [fluxo do pedido](/pt/docs/tutorials/fluxo-e-status-de-pedidos).
 - Obter informações de pedidos que precisam ser separados e embalados.
 - Enviar a [fatura](/pt/docs/tutorials/faturar-um-pedido-manualmente) para a plataforma VTEX, que vai encaminhá-la ao cliente.
 - Realizar a [alteração de itens](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado) do pedido.
 
-Existem duas maneiras diferentes de acompanhar a mudança de status de pedido, o [Feed](https://developers.vtex.com/docs/guides/orders-feed) ou [Hook](https://developers.vtex.com/docs/guides/orders-feed#hook). Mais informações sobre integração de pedidos podem ser encontradas no artigo [Integrações de backend](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu).
+Existem duas maneiras diferentes de acompanhar a mudança de status de pedido, o [Feed](https://developers.vtex.com/docs/guides/orders-feed) ou [Hook](https://developers.vtex.com/docs/guides/orders-feed#hook). Mais informações sobre integração de pedidos podem ser encontradas no artigo [Integrações de backend](/pt/docs/tracks/integracoes-de-backend).
 
 ### Gerenciar pedidos
 
@@ -228,7 +228,7 @@ O checkout é a etapa final no processo de compras online e contribui de maneira
 
 ### Antes de começar no Checkout
 
-Para assegurar o correto funcionamento do checkout, é necessário que os seguintes módulos estejam devidamente configurados pela loja: [Catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR), [Logística](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx), [Preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP#), [Promoções](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N#), [Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#) e [Pedidos](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE).
+Para assegurar o correto funcionamento do checkout, é necessário que os seguintes módulos estejam devidamente configurados pela loja: [Catálogo](/pt/docs/tracks/catalogo-definicao-de-conceito), [Logística](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx), [Preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP#), [Promoções](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N#), [Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#) e [Pedidos](/pt/docs/tracks/o-que-e-um-pedido-na-vtex).
 
 ![checkout-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-ii_4.jpg)
 

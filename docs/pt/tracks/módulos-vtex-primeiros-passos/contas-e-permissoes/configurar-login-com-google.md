@@ -21,7 +21,7 @@ Da mesma forma como o cliente pode fazer seu login via Facebook, ele pode també
 
 ## Cadastrar Client Id e Client Secret para login com Google
 
-Antes da configuração na VTEX, é preciso configurar o registro no Google. Para isso, siga as instruções do [artigo sobre cadastro de Client Id e Client Secret para login no Google](/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google).
+Antes da configuração na VTEX, é preciso configurar o registro no Google. Para isso, siga as instruções do [artigo sobre cadastro de Client Id e Client Secret para login no Google](/pt/docs/tutorials/cadastrar-client-id-e-client-secret-para-login-com-google).
 
 ## Configurar login na VTEX
 

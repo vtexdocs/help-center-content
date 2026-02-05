@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-Ao realizar a integração de uma loja VTEX com o Google shopping, o seller precisa cumprir o processo de [Envio de produtos para o Google Shopping](/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/5L5LnccDCj5lJk8H95GQ82) e esses produtos podem ou não ser aprovados pelo Google. 
+Ao realizar a integração de uma loja VTEX com o Google shopping, o seller precisa cumprir o processo de [Envio de produtos para o Google Shopping](/pt/docs/tracks/envio-de-produtos-para-o-google-shopping) e esses produtos podem ou não ser aprovados pelo Google. 
 
 ## Status de integração do produto
 
@@ -38,7 +38,7 @@ Quando um produto apresenta o status **Processado com erro ou Processado com avi
 A seguir saiba em que situação ele é obrigatório e como preencher cada campo:  
 
 - **Price:** é um campo obrigatório e deve ser preenchido informando com qual tipo de preço deseja apresentar no Google shopping.
-- Para identificar o erro de integração do preço do SKU com o Google, leia a documentação [Verificando integrações](/pt/tutorial/verificando-integracao-no-bridge/#preco).   
+- Para identificar o erro de integração do preço do SKU com o Google, leia a documentação [Verificando integrações](/pt/docs/tutorials/verificando-integracao-no-bridge/#preco).   
 - **Availability ou Disponibilidade:** é um campo obrigatório. Caso a integração de um SKU apresente erro, confira as documentações de [Gerenciamento de inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) e [Estoque](/pt/docs/tutorials/estoque).  
 - **EAN/UPC:** é um campo obrigatório, existente no [módulo de Catálogo](/pt/docs/tutorials/catalogo-visao-geral) e deve ser preenchido com o código de identificação único do SKU (código de barras), aceita até 13 caracteres numéricos.  
 - **Manufacturer code ou Código do fabricante:** é um campo obrigatório, existente no [módulo de Catálogo](/pt/docs/tutorials/catalogo-visao-geral) e deve ser preenchido com o código fornecido pelo fabricante para identificar seu produto. Caso algum produto tenha um código específico, esse campo deve se preenchido.  

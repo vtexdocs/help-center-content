@@ -82,7 +82,7 @@ Para que se venda un producto, su cliente necesita saber cuánto cuesta cada ít
  Para aprender más, lea los siguientes artículos:
 
 - [Precios - Información general](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP)  
-- [Registro de precios](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29)  
+- [Registro de precios](/es/docs/tracks/registrar-precio-base)  
 
 ### 3. Logística
 
@@ -118,8 +118,8 @@ Aprenda más leyendo los siguientes artículos:
 - [Cómo funciona el módulo de Pagos](/es/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG)    
 - [Cómo funciona el split de pagos entre los sellers y el marketplace](/es/tracks/split-de-pagamentos--1ouDg8q56Kuz1AgtJUY9nv/ctgx6ulwy40P0BV07LW9y)     
 - [Configurar afiliados](/es/docs/tutorials/como-configurar-afiliado)    
-- [Configurar un conector de pagos](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/7pAEMAo4iqNHwYOarZ3zgm)     
-- [ Configurar una condición de pago](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3)    
+- [Configurar un conector de pagos](/es/docs/tracks/configurar-un-conector-de-pagos)     
+- [ Configurar una condición de pago](/es/docs/tracks/configurar-una-condicion-de-pago)    
 - [Cómo configurar el antifraude](/es/docs/tutorials/como-configurar-antifraude)  
 
 ### 6. Vender productos
@@ -133,7 +133,7 @@ Anuncio es el nombre que le damos a un producto o variación de un seller, que h
 ### 7. Pedidos
 En el momento en que el cliente final de la tienda presiona el botón *Pagar*, se genera un pedido en VTEX. Esto significa que ahora usted podrá realizar el seguimiento del flujo del pedido en el módulo de Gestión de pedidos dentro del panel de administración de su tienda. Es decir, puede conocer los detalles de cada paso del progreso del pedido. Para acceder al módulo de pedidos, navegue por la barra lateral haciendo clic en  Pedidos > Todos los pedidos / Transacciones. Conozca más leyendo nuestro artículo:
 
-- [Como funcionan pedidos en VTEX](/es/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE)  
+- [Como funcionan pedidos en VTEX](/es/docs/tracks/o-que-e-um-pedido-na-vtex)  
 
 ### 8. Crear y gestionar promociones.
 

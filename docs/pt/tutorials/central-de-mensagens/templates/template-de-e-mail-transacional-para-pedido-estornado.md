@@ -15,11 +15,11 @@ locale: pt
 subcategoryId: 4D5LrWwlHGmOWMomOaaGee
 ---
 
-Quando o estorno do valor de um pedido é processado com sucesso, a VTEX envia automaticamente um e-mail para esse cliente, notificando-o de que o pedido de  estorno foi bem-sucedido. Você pode desativar ou customizar o template desse e-mail na [Central de Mensagens da sua loja](/pt/tracks/transactional-emails--6IkJwttMw5T84mlY9RifRP/5uvq01BDu6nnDEJpseR1aH).
+Quando o estorno do valor de um pedido é processado com sucesso, a VTEX envia automaticamente um e-mail para esse cliente, notificando-o de que o pedido de  estorno foi bem-sucedido. Você pode desativar ou customizar o template desse e-mail na [Central de Mensagens da sua loja](/pt/docs/tracks/como-funciona-o-message-center).
 
 ## Customização do template
 
-Para fazer isso, entre na Central de Mensagens e busque o template **Order Refund Customer**. Ou então busque-o pela chave do template: `vtexcommerce-order-refunded`. Leia nosso [guia sobre a Central de Mensagens](/pt/tracks/transactional-emails--6IkJwttMw5T84mlY9RifRP/335JZKUYgvYlGOJgvJYxRO) para aprender a customizar templates de e-mails transacionais.
+Para fazer isso, entre na Central de Mensagens e busque o template **Order Refund Customer**. Ou então busque-o pela chave do template: `vtexcommerce-order-refunded`. Leia nosso [guia sobre a Central de Mensagens](/pt/docs/tracks/criar-ou-editar-template-de-e-mail-transacional) para aprender a customizar templates de e-mails transacionais.
 
 ## Evento de disparo do e-mail
 

@@ -54,7 +54,7 @@ Com isso em mãos, siga os passos abaixo para configurar o seu XML:
 7. Defina qual coleção terá seus produtos listados.
 8. Selecione o símbolo de moeda nos preços.
 9. Escolha a formatação dos preços (com ou sem separador de milhar).
-10. Selecione entre usar o separador de categorias padrão ou do Google Shopping (leia mais sobre configurações para XML do Google Shopping no artigo [Padrão de valor para Atributo de Especificações de Produto - GoogleShopping](/pt/tutorial/atributo-de-especificacoes-de-produto-xml-googleshopping/)).
+10. Selecione entre usar o separador de categorias padrão ou do Google Shopping (leia mais sobre configurações para XML do Google Shopping no artigo [Padrão de valor para Atributo de Especificações de Produto - GoogleShopping](/pt/docs/tutorials/atributo-de-especificacoes-de-produto-xml-googleshopping/)).
 11. Escolha se exibirá no site do marketplace os SKUs indisponíveis ou não, ou seja, se o produto será exibido para compra, ainda que não esteja disponível para pronta entrega.
 12. Selecione se quer que o produto seja exibido com as informações do SKU padrão.
 13. A partir daqui, preencha as *tags* conforme definido pelo sistema para o qual enviará o XML. Marque a caixa de seleção da coluna __Mostrar conteúdo__, nas tags que tiver preenchido o nome. As tags que já estiverem com essa opção marcada e cuja seleção não for possível desfazer são de preenchimento obrigatório.

@@ -24,7 +24,7 @@ That required configuration follows the same logistics standards of the store. H
 
 After these steps, you must wait for the update, which can take a few minutes.
 
-If the commercial policy chosen already has its own logistics set, the steps above are not required. You just need to [index the products](/en/tutorial/sending-products-to-the-marketplace).
+If the commercial policy chosen already has its own logistics set, the steps above are not required. You just need to [index the products](/en/docs/tutorials/sending-products-to-the-marketplace).
 
 ## How not to use your store's freight
 

@@ -24,7 +24,7 @@ In the VTEX Admin, you can manage SKU specification import and export using a sp
 - [Track export process](#tracking-export-process)
 - [Product specification spreadsheet fields](#product-specification-spreadsheet-fields)
 
-> ℹ️ To learn how to manage your products and SKUs manually in the VTEX Admin, see the following articles: [Adding or editing products](/en/docs/tutorials/adding-or-editing-products) and [Adding or editing SKUs](/en/docs/tutorials/adding-or-editing-skus). For information about [backend integrations with ERP](/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu), see the [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).
+> ℹ️ To learn how to manage your products and SKUs manually in the VTEX Admin, see the following articles: [Adding or editing products](/en/docs/tutorials/adding-or-editing-products) and [Adding or editing SKUs](/en/docs/tutorials/adding-or-editing-skus). For information about [backend integrations with ERP](/en/docs/tracks/backend-integrations), see the [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).
 
 ## Importing products and SKUs using a spreadsheet
 

@@ -24,4 +24,4 @@ If you wish to receive your payments in debit mode on VTEX Sales App, follow the
 5. Optionally, you can set up special payment conditions by clicking on `Add special condition`. Read the article [Configuring payment special conditions](/en/docs/tutorials/special-conditions) for more information.
 6. Click `Save`.
 
-> ℹ️ In addition to the settings above, you must follow the **[Define payment methods displayed in VTEX Sales App](/en/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1)** guide so that the payment options are displayed correctly in the app.
+> ℹ️ In addition to the settings above, you must follow the **[Define payment methods displayed in VTEX Sales App](/en/docs/tracks/define-payment-methods-displayed-on-vtex-sales-app)** guide so that the payment options are displayed correctly in the app.

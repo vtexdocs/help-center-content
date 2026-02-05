@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Reformulamos o matcher da VTEX para aprimorar a catalogação de SKUs do seller, no marketplace'
 ---
 
-O [VTEX Matcher](/pt/docs/tutorials/entendendo-a-pontuacao-do-vtex-matcher) é uma ferramenta presente em marketplaces que avalia produtos e SKUs enviados por sellers para acelerar sua [catalogação](/pt/tutorial/sugerindo-e-aprovando-skus/). O VTEX Matcher avalia os itens recebidos e busca correspondências no catálogo do marketplace, podendo associar esse item a um SKU, ou a um produto existente, e até, caso não houver correspondência, criar um produto novo.
+O [VTEX Matcher](/pt/docs/tutorials/entendendo-a-pontuacao-do-vtex-matcher) é uma ferramenta presente em marketplaces que avalia produtos e SKUs enviados por sellers para acelerar sua [catalogação](/pt/docs/tutorials/sugerindo-e-aprovando-skus/). O VTEX Matcher avalia os itens recebidos e busca correspondências no catálogo do marketplace, podendo associar esse item a um SKU, ou a um produto existente, e até, caso não houver correspondência, criar um produto novo.
 
 Até então, o sistema do matcher tinha algumas limitações para fazer essa associação de produtos, levando em consideração critérios que não otimizavam o processo. Alteramos a sua configuração, aprimorando as regras aplicadas à avaliação e catalogação de SKUs recebidos.
 
@@ -37,5 +37,5 @@ Essa melhoria faz com que a correspondência feita pelo VTEX Matcher ocorra com 
 ## O que precisa ser feito?
 Nenhuma ação é necessária, a melhoria é automática para todos os marketplaces que utilizam o VTEX Matcher.
 
-Para saber mais, confira nossa documentação sobre o [VTEX matcher](/pt/docs/tutorials/entendendo-a-pontuacao-do-vtex-matcher), configuração de [autoapprove](https://developers.vtex.com/vtex-rest-api/reference/sku-approval-settings#activate-autoapprove-for-account) e a [catalogação de SKUs Recebidos](/pt/tutorial/sugerindo-e-aprovando-skus/).
+Para saber mais, confira nossa documentação sobre o [VTEX matcher](/pt/docs/tutorials/entendendo-a-pontuacao-do-vtex-matcher), configuração de [autoapprove](https://developers.vtex.com/vtex-rest-api/reference/sku-approval-settings#activate-autoapprove-for-account) e a [catalogação de SKUs Recebidos](/pt/docs/tutorials/sugerindo-e-aprovando-skus/).
 

@@ -25,7 +25,7 @@ Para conferir nosso conteúdo para desenvolvedores, veja [Order canceling improv
 
 > ℹ️ Neste artigo, os termos marketplace e seller se referem ao [marketplace VTEX](/pt/tutorial/marketplace-strategies-at-vtex--tutorials_402#ser-um-marketplace-vtex) e ao [seller VTEX](/pt/tutorial/marketplace-strategies-at-vtex--tutorials_402#sendo-seller-vtex). A funcionalidade de recusar solicitação de cancelamento não está disponível para sellers e marketplaces externos.
 
-> ⚠️ Não é possível [cancelar pedidos](/pt/docs/tutorials/como-cancelar-pedido) que já tenham sido [faturados parcialmente](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado).
+> ⚠️ Não é possível [cancelar pedidos](/pt/docs/tutorials/como-cancelar-pedido) que já tenham sido [faturados parcialmente](/pt/docs/tracks/faturas-parciais). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado).
 
 ## Diagrama de cancelamento de pedido recusado
 A imagem a seguir mostra o fluxo de recusa da solicitação de cancelamento de um pedido após a janela para cancelamento:

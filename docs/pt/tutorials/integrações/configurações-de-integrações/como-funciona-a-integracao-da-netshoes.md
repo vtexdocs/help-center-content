@@ -181,4 +181,4 @@ Ao faturar o pedido na VTEX, a integração atualiza o status na Netshoes para _
   - `trackingNumber`, `trackingUrl` e `courier`
 
 - Para alterar o status para __delivered__ será necessário:
-  - `courierStatus`: este é um campo que pode ser populado automaticamente [via atualizações de rastreio das próprias transportadoras](/pt/tutorial/quais-transportadoras-disponibilizam-o-rastreio-de-frete) ou manualmente (via API ou interface do OMS).
+  - `courierStatus`: este é um campo que pode ser populado automaticamente [via atualizações de rastreio das próprias transportadoras](/pt/docs/tutorials/quais-transportadoras-disponibilizam-o-rastreio-de-frete) ou manualmente (via API ou interface do OMS).

@@ -43,7 +43,7 @@ El retailer debe verificar que los siguientes aspectos del producto estén corre
 * Registro de precio.
 * [Estrategia de envío](/es/docs/tutorials/estrategia-de-envio) que permite enviar el pedido a la dirección facilitada por el cliente.
 * Recuento del [stock](/es/docs/tutorials/gestionar-items-en-inventario) del producto para ventas, o stock ilimitado configurado o posibilidad de activar la opción para mostrar el producto cuando esté agotado.
-* Plantillas de [CMS](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) configuradas para el frontend de la tienda.
+* Plantillas de [CMS](/es/docs/tracks/o-que-e-o-cms) configuradas para el frontend de la tienda.
 
 > ℹ️ Para más información, consulta [¿Por qué el producto no se muestra en el sitio web?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web).
 

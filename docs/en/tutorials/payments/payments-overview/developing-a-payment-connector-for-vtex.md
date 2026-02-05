@@ -188,11 +188,11 @@ Supporting Google Pay with [DPAN tokenization](/en/docs/tutorials/dpan-and-fpan-
 - __Compatibility with multiple devices:__ Allows the same card to be used across different devices without requiring re-authentication.
 - __Reduced fraud costs:__ Tokenization prevents credential misuse, helping reduce the number of chargebacks.
 
-> ⚠️ Support for Google Pay with DPAN is only available through the [VTEX native Google Pay Wallet](/en/tracks/digital-wallet-e-wallet--6X8YyZBoVJpz5R8oXciTyu/61JMBvM5Vanqj6RaJsP8CT).  
+> ⚠️ Support for Google Pay with DPAN is only available through the [VTEX native Google Pay Wallet](/en/docs/tracks/google-pay).  
 
 #### Support for payments via POS (VTEX Sales App)
 
-Payment connectors compatible with [POS](https://en.wikipedia.org/wiki/Point_of_sale) in [VTEX Sales App](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc) enable [Omnichannel](/en/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) transactions between physical and digital environments. Key benefits include:
+Payment connectors compatible with [POS](https://en.wikipedia.org/wiki/Point_of_sale) in [VTEX Sales App](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc) enable [Omnichannel](/en/docs/tracks/unified-commerce-101) transactions between physical and digital environments. Key benefits include:
 
 - __Integration between channels:__ Customers can start a purchase online and complete it in the physical store using the same payment method.
 - __Reduction of operational errors:__Since payment is integrated with VTEX Sales App, there's no need to manually record transactions in the [ERP](https://en.wikipedia.org/wiki/Enterprise_resource_planning).

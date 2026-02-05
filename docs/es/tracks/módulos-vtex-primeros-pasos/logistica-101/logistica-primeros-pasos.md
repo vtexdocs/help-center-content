@@ -20,15 +20,15 @@ El módulo **Inventario y envío** es responsable de la configuración logístic
 
 Este artículo es el primero de una serie de primeros pasos para las configuraciones logísticas. La pista contiene información básica para ayudar a entender la logística en las tiendas VTEX y cómo se estructuran las configuraciones en la plataforma.
 
-> ❗ Antes de configurar la logística de tu tienda, configura lo siguiente: <body> <ol> <li>[Política comercial</li>](/es/docs/tutorials/crear-una-politica-comercial) <li>[Catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR)</li> <li>[Precios](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)</li> </ol> </body>
+> ❗ Antes de configurar la logística de tu tienda, configura lo siguiente: <body> <ol> <li>[Política comercial</li>](/es/docs/tutorials/crear-una-politica-comercial) <li>[Catálogo](/es/docs/tracks/catalogo-definicion-de-concepto)</li> <li>[Precios](/es/docs/tracks/modulo-de-precios-vision-general)</li> </ol> </body>
 
 La pista reúne los artículos:
 
-* [Logística: primeros pasos](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/6Y8C1JuPtO5E61Ew91tq1a): un resumen de cómo está organizado el módulo Inventario y envío.
-* [Estrategias de envío](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4IPeNztIXsZI4oA5TyES9N): contiene la configuración básica necesaria para que tu tienda VTEX ofrezca opciones de envío a los clientes. En este artículo, puedes consultar un resumen de cómo la plataforma procesa los muelles, el _stock_ y las políticas de envío, así como el orden sugerido de registro de estos puntos.
-* _[Stock](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/2XyUVa0UKMyHTmwqyA5Bx6)_: contiene información sobre la gestión de los ítems en _stock_ y explica las funcionalidades de la sección.
-* [Costos y simulación de envío](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/3by48jFhzpZEseYFpH9uVt): explica cómo registrar los costos de envío y cómo utilizar la herramienta de simulación de envío de la tienda.
-* [Entregas programadas y capacidad de entrega](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/5TuyqHRCCwYMaDv4r8rZdo): explica cómo la tienda debe ofrecer a los clientes las entregas programadas, así como gestionar la capacidad de entrega. 
+* [Logística: primeros pasos](/es/docs/tracks/logistica-primeros-pasos): un resumen de cómo está organizado el módulo Inventario y envío.
+* [Estrategias de envío](/es/docs/tracks/estrategias-de-envio): contiene la configuración básica necesaria para que tu tienda VTEX ofrezca opciones de envío a los clientes. En este artículo, puedes consultar un resumen de cómo la plataforma procesa los muelles, el _stock_ y las políticas de envío, así como el orden sugerido de registro de estos puntos.
+* _[Stock](/es/docs/tracks/stock)_: contiene información sobre la gestión de los ítems en _stock_ y explica las funcionalidades de la sección.
+* [Costos y simulación de envío](/es/docs/tracks/costos-y-simulacion-de-envio): explica cómo registrar los costos de envío y cómo utilizar la herramienta de simulación de envío de la tienda.
+* [Entregas programadas y capacidad de entrega](/es/docs/tracks/entregas-programadas-y-capacidad-de-entrega): explica cómo la tienda debe ofrecer a los clientes las entregas programadas, así como gestionar la capacidad de entrega. 
 
 > ℹ️ Si tu tienda ya ha dado los primeros pasos en el módulo de **Inventario y envío**, consulta el artículo [Logística](/es/docs/tutorials/fulfillment-logistica-vtex), para acceder rápidamente a la información de las secciones del módulo **Inventario y envío**. Consulta el artículo [Glosario de logística](/es/docs/tutorials/glosario-de-logistica) para consultar el significado de los términos logísticos utilizados en VTEX. Las configuraciones logísticas disponibles mediante [API](https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview).
 

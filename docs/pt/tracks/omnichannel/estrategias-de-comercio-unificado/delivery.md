@@ -20,13 +20,13 @@ O Delivery — a entrega de um pedido — se dá quando o cliente deseja receber
 Veja dois exemplos desse cenário:
 
 * O cliente faz uma compra no ecommerce e opta por receber o pedido em casa.
-* O cliente faz uma compra na loja física, por meio da [Prateleira Infinita](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) (sem o item estar no estoque daquela loja), e opta por receber o pedido em casa.
+* O cliente faz uma compra na loja física, por meio da [Prateleira Infinita](/pt/docs/tracks/prateleira-infinita) (sem o item estar no estoque daquela loja), e opta por receber o pedido em casa.
 
 Nesse caso, é comum que os itens partam do estoque de um Centro de Distribuição, conforme ilustrado abaixo.
 
 ![PT Conceitos Logística](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/estrategias-de-comercio-unificado/delivery_1.png)
 
-Outra possibilidade de entrega que pode otimizar a operação e reduzir custos é implementar a estratégia [Ship From Store](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/50GAmxxFsJoLWqcnMysWdl), para que os itens também possam ser enviados a partir do estoque das lojas físicas.
+Outra possibilidade de entrega que pode otimizar a operação e reduzir custos é implementar a estratégia [Ship From Store](/pt/docs/tracks/configurar-ship-from-store), para que os itens também possam ser enviados a partir do estoque das lojas físicas.
 
 Para configurar a estratégia de envio, consulte a [trilha sobre o módulo Estoque & Entrega](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/7k4SWtm3EIvLQ3aGXWC07).
 

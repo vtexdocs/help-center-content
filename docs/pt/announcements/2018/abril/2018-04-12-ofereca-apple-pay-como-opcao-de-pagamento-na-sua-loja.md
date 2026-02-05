@@ -19,5 +19,5 @@ Recém-chegado ao Brasil, o __Apple Pay__ já está disponível para ser integra
 
 Simples, rápido e seguro, esse meio de pagamento traz ainda mais praticidade para os usuários dos produtos da empresa californiana. Entre os principais diferenciais oferecidos estão os códigos únicos gerados para cada transação e o fato de não haver armazenamento dos dados do cartão do usuário.  
 
-[Configure o Apple Pay](/pt/tutorial/configurar-pagamentos-com-apple-pay) na sua loja hoje mesmo e adicione mais inovação na experiência de compra dos seus clientes.
+[Configure o Apple Pay](/pt/docs/tutorials/configurar-pagamentos-com-apple-pay) na sua loja hoje mesmo e adicione mais inovação na experiência de compra dos seus clientes.
 

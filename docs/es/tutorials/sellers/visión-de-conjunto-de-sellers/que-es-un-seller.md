@@ -36,6 +36,6 @@ En VTEX, hay dos tipos de sellers:
 
 ## Artículos relacionados
 
-- [¿Qué es un marketplace?](/es/faq/que-es-un-marketplace)  
+- [¿Qué es un marketplace?](/es/docs/tutorials/que-es-un-marketplace)  
 - [Configurar seller](/es/tutorial/configuracion-de-seller)  
 - [Estrategias de marketplace en VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex)  

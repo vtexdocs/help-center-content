@@ -39,7 +39,7 @@ If your store keeps customer data in custom data entities (CL and AD), you must 
 
 ## 2. Configuring the GDPR role
 
-To request data deletion, create a [custom role](/en/tutorial/criar-perfil-de-acesso) named **General Data Protection Law** with the following resources from [License Manager](/en/tutorial/license-manager-resources):
+To request data deletion, create a [custom role](/en/tutorial/criar-perfil-de-acesso) named **General Data Protection Law** with the following resources from [License Manager](/en/docs/tutorials/license-manager-resources):
 
 - **Write user rights requests** (from the **User Rights** product)
 - **Open Support Ticket** (from the **VTEX Support** product)

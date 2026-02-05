@@ -63,7 +63,7 @@ The field in which the salesperson code will be inserted depends on the store ne
 
 If both options are selected, the sales assistant needs to indicate which field he is filling in the cart sharing interface.
 
-> ℹ️ The added information can be found on the **Promotions and Partnerships card** in the [orders details](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/204AjAQseJe8RLUi8GAhiC) or within the `marketingData` object returned when obtaining the order information using the [Orders API](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-).
+> ℹ️ The added information can be found on the **Promotions and Partnerships card** in the [orders details](/en/docs/tracks/seeing-order-details) or within the `marketingData` object returned when obtaining the order information using the [Orders API](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-).
 
 ### Channels
 

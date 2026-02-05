@@ -21,7 +21,7 @@ tags:
   - Stock
 ---
 
-Cuando un cliente intenta realizar una compra y se produce un error al crear el pedido, esto puede deberse a varias razones, como problemas relacionados con el pago, logística o [integración del backend](/es/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) con sistemas ERP (sistemas de planificación de recursos empresariales).
+Cuando un cliente intenta realizar una compra y se produce un error al crear el pedido, esto puede deberse a varias razones, como problemas relacionados con el pago, logística o [integración del backend](/es/docs/tracks/integraciones-de-backend) con sistemas ERP (sistemas de planificación de recursos empresariales).
 
 Antes de considerar razones complejas para errores en pedidos no creados, aplica los procesos de resolución de problemas (troubleshooting) presentados en este artículo. Algunos de los escenarios de error más comunes son:
 

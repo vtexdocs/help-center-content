@@ -21,7 +21,7 @@ Trade policies define what content can be rendered on a website. Below we will e
 
 How do I know which trade policies are eligible for a website?
 
-This eligibility is determined in the __binding__ configuration of the website. [In this article](/en/tutorial/linking-an-account-name-to-a-website-binding), in __step 8__, we have an explanation of how a trade policy is linked to a website.
+This eligibility is determined in the __binding__ configuration of the website. [In this article](/en/docs/tutorials/linking-an-account-name-to-a-website-binding), in __step 8__, we have an explanation of how a trade policy is linked to a website.
 
 Here are the rules for defining eligibility:
 

@@ -45,4 +45,4 @@ El objetivo de esta funcionalidad es empoderar a los vendedores de las tiendas f
 
 Para utilizar inStore Social Selling, es necesario [contactar al equipo de soporte de VTEX](https://support.vtex.com/hc/pt-br/requests) y solicitar la instalación.
 
-Para más información, consulte el artículo [Compartir el carrito utilizando inStore Social Selling](/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy).
+Para más información, consulte el artículo [Compartir el carrito utilizando inStore Social Selling](/es/docs/tracks/compartir-el-carrito-utilizando-vtex-sales-app-social-selling).

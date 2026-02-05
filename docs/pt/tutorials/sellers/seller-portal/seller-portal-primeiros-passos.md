@@ -75,7 +75,7 @@ Para acessar o módulo de Preços, navegue na barra lateral clicando em Produtos
 Para saber mais, confira os seguintes artigos:
 
 - [Preços - Visão geral](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP)
-- [Cadastro de preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29)
+- [Cadastro de preços](/pt/docs/tracks/cadastrar-preco-base)
 
 ### 3. Envio
 
@@ -115,8 +115,8 @@ Para saber mais, confira os seguintes artigos:
 - [Como funciona o módulo de Pagamentos](/pt/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG)  
 - [Como funciona split de pagamento entre seller e marketplace](/pt/tracks/split-de-pagamentos--1ouDg8q56Kuz1AgtJUY9nv/ctgx6ulwy40P0BV07LW9y)  
 - [Cadastrar afiliado](/pt/docs/tutorials/como-configurar-afiliado)  
-- [Configurar um conector de pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/7pAEMAo4iqNHwYOarZ3zgm)   
-- [Configurar uma condição de pagamento](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3)  
+- [Configurar um conector de pagamentos](/pt/docs/tracks/configurar-um-conector-de-pagamentos)   
+- [Configurar uma condição de pagamento](/pt/docs/tracks/configurar-uma-condicao-de-pagamento)  
 - [Como configurar o antifraude](/pt/docs/tutorials/como-configurar-antifraude)   
 
 ### 6. Vender produtos

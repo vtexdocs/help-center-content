@@ -17,7 +17,7 @@ legacySlug: por-que-um-termo-buscado-nao-retorna-produtos-que-existem
 > ⚠️ **Atenção**: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse [nossa track](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 
-O artigo [Como funciona a busca da VTEX?](/pt/tutorial/como-funciona-a-busca-da-vtex/) demonstra as principais regras que o algoritmo do buscador utiliza para exibir e priorizar os produtos a partir de um termo buscado.
+O artigo [Como funciona a busca da VTEX?](/pt/docs/tutorials/como-funciona-a-busca-da-vtex/) demonstra as principais regras que o algoritmo do buscador utiliza para exibir e priorizar os produtos a partir de um termo buscado.
 
 Se o seu caso não se enquadra nos cenários descritos nesse artigo, provavelmente é porque o termo buscado que trouxe você até aqui está na lista de palavras bloqueadas do buscador da VTEX.
 
@@ -34,4 +34,4 @@ Se você precisa utilizar, em seus produtos, palavras que para o buscador talvez
 - Utilizar coleção, redirecionando o termo buscado para uma landing-page.
 - Redirecionar o termo buscado para um contexto de busca que faça sentido (Categoria, marca ou mesmo  produto).
 
-O artigo a seguir ensina como realizar configuração de redirecionamento: [Mapeamento de URLs (Redirecionamento 301)](/pt/faq/mapeamento-de-urls-redirecionamento-301/)
+O artigo a seguir ensina como realizar configuração de redirecionamento: [Mapeamento de URLs (Redirecionamento 301)](/pt/docs/tutorials/mapeamento-de-urls-redirecionamento-301/)

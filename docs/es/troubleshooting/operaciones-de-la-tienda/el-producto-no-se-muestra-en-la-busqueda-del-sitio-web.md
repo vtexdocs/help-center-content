@@ -21,7 +21,7 @@ tags:
   - Rewriter
 ---
 
-Cuando el usuario realiza una búsqueda en una tienda VTEX utilizando [Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), es posible que no se muestre el producto deseado, aunque el término utilizado en la búsqueda esté presente en la información registrada del ítem.
+Cuando el usuario realiza una búsqueda en una tienda VTEX utilizando [Intelligent Search](/es/docs/tracks/vision-general-intelligent-search), es posible que no se muestre el producto deseado, aunque el término utilizado en la búsqueda esté presente en la información registrada del ítem.
 
 Ejemplo: al buscar en el sitio web de la tienda productos que contengan el término "Pendleton", los resultados de la búsqueda muestran 6 productos. Sin embargo, cuando accedemos al Admin VTEX (__Storefront > Intelligent Search > Explicación de la búsqueda__) e ingresamos el mismo término, se muestran 9 productos.
 
@@ -55,7 +55,7 @@ La ausencia del producto en un resultado de búsqueda puede atribuirse a que alg
 
 2. Haz clic en sobre el producto que deseas **EDITAR**.
 
-3. Comprueba que la información contenida en el campo **Marca** es correcta. Si es necesario, agrega la marca del producto. Solo se pueden agregar marcas que hayan sido previamente [registradas en la tienda](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7lEGOSpAlQJCs5eUc5XFmR).
+3. Comprueba que la información contenida en el campo **Marca** es correcta. Si es necesario, agrega la marca del producto. Solo se pueden agregar marcas que hayan sido previamente [registradas en la tienda](/es/docs/tracks/registrar-marcas).
 
 4. Confirma que la casilla correspondiente a la opción **Mostrar en el sitio web** está seleccionada.
 
@@ -77,7 +77,7 @@ Para remover la restricción de búsqueda por marca (brand) y permitir que los p
 
 1. En el Admin VTEX, accede a **Storefront > Intelligent Search > Explicación de la búsqueda** e ingresa el término deseado para comprobar cuántos productos esta búsqueda devuelve.
 
-2. Configure la aplicación [Rewriter](https://developers.vtex.com/docs/apps/vtex.rewriter). Si la aplicación aún no está instalada en tu tienda, accede a [App Store](/es/tracks/hub-de-extensiones--AW7klkYMh557y5IUOgzco/2LDRvGujYsumxi7IlE7CEJ) para instalarla.
+2. Configure la aplicación [Rewriter](https://developers.vtex.com/docs/apps/vtex.rewriter). Si la aplicación aún no está instalada en tu tienda, accede a [App Store](/es/docs/tracks/hub-de-extensiones-app-store) para instalarla.
 
 3. En **Configuración de la tienda > Storefront**, accede a [GraphQL IDE](https://developers.vtex.com/docs/guides/graphql-ide#graphql-basics).
 

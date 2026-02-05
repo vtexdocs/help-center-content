@@ -24,13 +24,13 @@ Esse dado, quando adquirido, é muito válido para o marketing e a publicidade d
 Esse artigo tem como finalidade mostrar, tecnicamente, como configurar seu CRM para a criação de um cluster.
 
 <ol start="1">
-    <li>O primeiro passo é criar um campo no MasterData com o nome do cluster que deseja. Ex.: Revendedores. Assim, serão destacados os clientes que são revendedores, recebendo uma promoção exclusiva, por exemplo. [Acesse nosso manual de como criar um campo.](/pt/tutorial/como-crio-um-campo-no-master-data)</li>
+    <li>O primeiro passo é criar um campo no MasterData com o nome do cluster que deseja. Ex.: Revendedores. Assim, serão destacados os clientes que são revendedores, recebendo uma promoção exclusiva, por exemplo. [Acesse nosso manual de como criar um campo.](/pt/docs/tutorials/como-crio-um-campo-no-master-data)</li>
 </ol>
 
 > ℹ️ Para que um cluster funcione corretamente em uma promoção, defina o novo campo personalizado criado como **pesquisável** e **filtrável** no MasterData.
 
 <ol start="2">
-    <li>O segundo é criar esse campo no formulário, para que seja possível ver os dados. [Para isso, veja nosso manual.](/pt/tutorial/como-crio-um-campo-no-master-data)</li>
+    <li>O segundo é criar esse campo no formulário, para que seja possível ver os dados. [Para isso, veja nosso manual.](/pt/docs/tutorials/como-crio-um-campo-no-master-data)</li>
 </ol>
 
 Ou seja, tecnicamente, um cluster no CRM nada mais é do que um campo.
@@ -39,4 +39,4 @@ Para popular esse campo, você pode usar [planilha de importação](/pt/tutorial
 
 ## Saiba mais
 
-- [Saiba como criar uma promoção para um cluster](/pt/tutorial/criando-promocao-para-um-cluster-de-clientes)
+- [Saiba como criar uma promoção para um cluster](/pt/docs/tutorials/criando-promocao-para-um-cluster-de-clientes)

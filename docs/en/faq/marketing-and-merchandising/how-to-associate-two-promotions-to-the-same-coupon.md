@@ -18,7 +18,7 @@ When necessary, you can create a discount [coupon](/en/tutorial/creating-a-coupo
 
 The most common is that this value is relative to two amounts: the product's nominal price and the shipping.
 
-Because of this, you need to create two [regular promotions](/en/tutorial/regular-promotion) related to the same coupon:
+Because of this, you need to create two [regular promotions](/en/docs/tutorials/regular-promotion) related to the same coupon:
 
 - A free shipping benefit.
 - A nominal value discount benefit.

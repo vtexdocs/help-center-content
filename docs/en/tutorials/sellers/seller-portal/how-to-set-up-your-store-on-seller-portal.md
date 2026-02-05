@@ -82,7 +82,7 @@ For a product to be sold, your customer needs to know how much each item display
  To learn more, check out the following articles:  
 
 - [Pricing Module Overview](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP)  
-- [Adding a base price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29)  
+- [Adding a base price](/en/docs/tracks/cadastrar-preco-base)  
 
 ### 3. Logistics
 
@@ -118,8 +118,8 @@ To learn more, check out the following articles:
 - [How the Payments module works](/en/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG)    
 - [How payment split between the seller and the marketplace works](/en/tracks/split-de-pagamentos--1ouDg8q56Kuz1AgtJUY9nv/ctgx6ulwy40P0BV07LW9y)    
 - [Configuring affiliates](/en/docs/tutorials/configuring-affiliates)    
-- [Configuring payment connectors](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/7pAEMAo4iqNHwYOarZ3zgm)     
-- [Configuring a payment condition](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3)    
+- [Configuring payment connectors](/en/docs/tracks/configuring-payment-connectors)     
+- [Configuring a payment condition](/en/docs/tracks/configuring-a-payment-condition)    
 - [Configuring anti-fraud](/en/docs/tutorials/how-to-configure-the-anti-fraud)     
 
 ### 6. Selling products
@@ -133,7 +133,7 @@ Whenever a product or variation is created on the Seller Portal, they are automa
 ### 7. Orders
 The moment the end customer pushes the Checkout button, an order is generated inside VTEX. This means that you will now be able to track the order flow through the Order Management module within your store's admin panel. That is, you can now know the details of each step throughout the order progress. To access the Orders module, go to the sidebar and click on Orders > All Orders / Transactions.
  To learn more, check out our article:  
- - [How Orders work in VTEX](/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE)  
+ - [How Orders work in VTEX](/en/docs/tracks/o-que-e-um-pedido-na-vtex)  
 
 ### 8. Creating and managing promotions
 

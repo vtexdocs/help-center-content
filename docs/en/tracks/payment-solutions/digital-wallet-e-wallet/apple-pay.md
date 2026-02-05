@@ -15,7 +15,7 @@ trackSlugEN: digital-wallet-e-wallet
 order: 3
 ---
 
-Your customers can shop using Apple Pay, the [digital wallet](/en/tracks/digital-wallet-e-wallet--6X8YyZBoVJpz5R8oXciTyu/7jLbdfch9Oe2yYbQa9zwE1) from Apple. For this, you need to fulfill some requirements:
+Your customers can shop using Apple Pay, the [digital wallet](/en/docs/tracks/digital-wallet-e-wallet) from Apple. For this, you need to fulfill some requirements:
 
 - Have an account in `developer.apple.com`.
 - Hire a provider that processes payments with Apple Pay.

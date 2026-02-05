@@ -41,7 +41,7 @@ The solution is a combination of:
 - **Last Mile:** Store operators can manage and instruct delivery drivers about collecting and delivering orders. It includes route optimization and proof of collecting/delivering. Besides, your store can easily integrate with external carriers or a TMS. It also includes a URL where shoppers can track their orders' status in real time.   
 - **Mobile apps:** Apps for mobile devices meant exclusively for pickers and drivers, so that they accomplish their tasks with no access to the store’s Admin. Currently, the apps are available only for Android devices.
 
-> ❗ **VTEX Pick and Pack** is not an invoicing system and orders should be invoiced orders through VTEX's OMS, learn more in [Invoicing an order](/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT).
+> ❗ **VTEX Pick and Pack** is not an invoicing system and orders should be invoiced orders through VTEX's OMS, learn more in [Invoicing an order](/en/docs/tracks/invoicing-an-order).
 
 ## Why did we make this change?
 

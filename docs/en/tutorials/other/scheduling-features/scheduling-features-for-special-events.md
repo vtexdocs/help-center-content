@@ -30,7 +30,7 @@ To schedule your store's fixed prices for a specific event, follow the steps des
 
 ## Scheduling promotions
 
-You can schedule a promotion while you are creating it. You can schedule all types of VTEX promotions: [Regular](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Buy Together - Bundle](/en/docs/tutorials/buy-together), [More for Less](/en/docs/tutorials/creating-a-more-for-less-promotion), [Progressive Discount](/en/docs/tutorials/progressive-discount), [Buy One Get One](/en/docs/tutorials/buy-one-get-one) and [Campaign Promotion](/en/docs/tutorials/campaign-promotion). 
+You can schedule a promotion while you are creating it. You can schedule all types of VTEX promotions: [Regular](/en/docs/tracks/creating-regular-promotions), [Buy Together - Bundle](/en/docs/tutorials/buy-together), [More for Less](/en/docs/tutorials/creating-a-more-for-less-promotion), [Progressive Discount](/en/docs/tutorials/progressive-discount), [Buy One Get One](/en/docs/tutorials/buy-one-get-one) and [Campaign Promotion](/en/docs/tutorials/campaign-promotion). 
 
 To schedule a promotion, follow the steps below:
 

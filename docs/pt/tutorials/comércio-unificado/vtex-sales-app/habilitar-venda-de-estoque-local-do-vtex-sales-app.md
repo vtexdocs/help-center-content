@@ -29,7 +29,7 @@ A Venda de estoque local permite o vendedor de uma loja física realizar vendas 
 
 ## Criar uma conta franquia
 
-O primeiro passo é [solicitar a criação de uma conta franquia](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/eujH0id9Y4WJjjmdazUKd) para a sua loja física. A [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) será associada à conta principal da sua loja e herdará o catálogo dela. Caso você já tenha uma conta franquia, passe para a próxima etapa.
+O primeiro passo é [solicitar a criação de uma conta franquia](/pt/docs/tracks/criar-contas-franquias) para a sua loja física. A [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia) será associada à conta principal da sua loja e herdará o catálogo dela. Caso você já tenha uma conta franquia, passe para a próxima etapa.
 
 ## Criar um seller
 

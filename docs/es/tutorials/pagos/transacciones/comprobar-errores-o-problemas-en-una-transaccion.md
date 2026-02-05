@@ -15,13 +15,13 @@ locale: es
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
-Para poder resolver un posible problema que involucra transacciones en Pagos, el primer paso es __verificar el log de esta transacción__. Los logs son los registros de las interacciones entre el módulo de Pagos de VTEX y los sistemas de nuestros socios (otros gateways, adquirentes, antifraudes etc). [Haga clic aquí](/es/tutorial/como-visualizar-detalle-del-pedido/) para saber cómo buscar una transacción en Pagos. A continuación, veremos cómo analizar los detalles de la transacción para verificar si algún error está ocurriendo.
+Para poder resolver un posible problema que involucra transacciones en Pagos, el primer paso es __verificar el log de esta transacción__. Los logs son los registros de las interacciones entre el módulo de Pagos de VTEX y los sistemas de nuestros socios (otros gateways, adquirentes, antifraudes etc). [Haga clic aquí](/es/docs/tutorials/como-visualizar-detalle-del-pedido/) para saber cómo buscar una transacción en Pagos. A continuación, veremos cómo analizar los detalles de la transacción para verificar si algún error está ocurriendo.
 
 Los logs de una transacción se registran en una línea de tiempo, con las interacciones más recientes mostradas en la parte superior de la pantalla y las interacciones más antiguas en la parte inferior.
 
 El gateway de VTEX puede comunicarse con adquirentes, subadquirentes, antifraudes y otros gateways. Los __cambios de status en la transacción__ y los __mensajes de respuesta de los socios__ se muestran en cuadros en la pantalla de detalles de transacción.
 
-> ℹ️ [Haga clic aquí](/es/faq/tarjeta-de-credito-flujo-basico-de-un-pago) para saber cómo funciona el flujo básico de una transacción de tarjeta de crédito. Usted puede también acceder a [nuestro artículo](/es/faq/boleto-bancario-registrado-flujo) con el esquema básico de una transacción con boleto bancario.
+> ℹ️ [Haga clic aquí](/es/docs/tutorials/tarjeta-de-credito-flujo-basico-de-un-pago) para saber cómo funciona el flujo básico de una transacción de tarjeta de crédito. Usted puede también acceder a [nuestro artículo](/es/docs/tutorials/boleto-bancario-registrado-flujo) con el esquema básico de una transacción con boleto bancario.
 
 ## Comprobar el status de la transacción
 
@@ -39,4 +39,4 @@ Estas situaciones generalmente se indican con un `.` en la respuesta del socio. 
 
 ## Entrar en contacto con el socio
 
-Si usted encuentra en los logs de Pagos un error en la respuesta de algún socio, nuestra recomendación es entrar en contacto con él para que el problema sea solucionado. [Busque el TID](/es/faq/como-encontrar-nsu-y-tid-del-pedido) de la transacción. Este es el número que se debe utilizar para identificar la transacción en el sistema del socio.
+Si usted encuentra en los logs de Pagos un error en la respuesta de algún socio, nuestra recomendación es entrar en contacto con él para que el problema sea solucionado. [Busque el TID](/es/docs/tutorials/como-encontrar-nsu-y-tid-del-pedido) de la transacción. Este es el número que se debe utilizar para identificar la transacción en el sistema del socio.

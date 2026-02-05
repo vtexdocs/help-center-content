@@ -29,7 +29,7 @@ Os artigos listados abaixo têm como objetivo esclarecer e detalhar o processo d
 
 A nova lista de preços é composta de: uma lista com os produtos e seus preços-base; regras que alteram os preços dos produtos de acordo com as Políticas Comerciais; regras de arredondamento de preços; e uma seção de configurações gerais.
 
-- [Cadastrar Tabelas de Preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/2WQ3pVYfQpXkJnHr7VTFBv)
-- [Regras de preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/2rBirbpB7wLnei4dQ9KGMW)
+- [Cadastrar Tabelas de Preços](/pt/docs/tracks/cadastrar-tabelas-de-precos)
+- [Regras de preços](/pt/docs/tracks/regra-de-preco-definicao-de-conceito)
 - [Arredondamento de Preços](/pt/tutorial/preco-psicologico-v2/)
 - [Configurações de preços](/pt/docs/tutorials/configuracoes-de-precos)

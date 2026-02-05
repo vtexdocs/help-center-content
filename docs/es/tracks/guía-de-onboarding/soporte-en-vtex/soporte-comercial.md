@@ -19,7 +19,7 @@ Además de los recursos ya previstos en el contrato inicial con VTEX, es posible
 
 - Contratar [política comercial adicional](#contratacion-de-políticas-comerciales-adicionales), [entorno adicional](#contratacion-de nuevo entorno) y cuenta franquicia.
 - Modificar [usuario titular](/es/docs/tutorials/que-es-el-usuario-titular).
-- Adquirir [productos add-on](/es/tracks/proximos-pasos-tras-el-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm).
+- Adquirir [productos add-on](/es/docs/tracks/products-add-on).
 
 Puedes [abrir un ticket con el soporte comercial](/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex) si necesitas ayuda con otros temas o para adquirir un producto add-on. Para un primer contacto, consulta los artículos del [Help Center](/es/) y las secciones presentadas a continuación.
 
@@ -27,10 +27,10 @@ Puedes [abrir un ticket con el soporte comercial](/es/docs/tutorials/abrir-ticke
 
 La [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) es un recurso de las tiendas VTEX que define las condiciones y estrategias de venta en un canal de ventas, ya sea en la propia tienda, marketplaces, tiendas físicas o modelos B2B. Una operación puede tener una sola política comercial y ser suficiente; es el modelo de negocio el que definirá cuántas políticas comerciales se asociarán a la cuenta.
 
-Para decidir si [contratar políticas comerciales adicionales](/es/docs/tutorials/contratacion-de-politicas-comerciales-adicionales), hay que entender si la cuenta necesita un entorno adicional o multitienda. El artículo [Cuentas y arquitectura](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) presenta estos conceptos en detalle.
+Para decidir si [contratar políticas comerciales adicionales](/es/docs/tutorials/contratacion-de-politicas-comerciales-adicionales), hay que entender si la cuenta necesita un entorno adicional o multitienda. El artículo [Cuentas y arquitectura](/es/docs/tracks/cuentas-y-arquitectura) presenta estos conceptos en detalle.
 
 ## Contratación de nuevo entorno
 
 Solamente la cuenta principal puede contratar nuevos entornos, que pueden utilizarse para pruebas (QA), B2C, B2B, etc. Esta contratación se solicita a través del [soporte VTEX](https://supporticket.vtex.com/support).
 
-Dependiendo del modelo de negocio y de la estrategia empresarial, puede ser recomendable contratar un nuevo entorno. Para ello, es necesario tener nociones sobre multitienda y entorno adicional, tal como se explica en el artículo [Cuentas y arquitectura](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl).
+Dependiendo del modelo de negocio y de la estrategia empresarial, puede ser recomendable contratar un nuevo entorno. Para ello, es necesario tener nociones sobre multitienda y entorno adicional, tal como se explica en el artículo [Cuentas y arquitectura](/es/docs/tracks/cuentas-y-arquitectura).

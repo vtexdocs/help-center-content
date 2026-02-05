@@ -18,7 +18,7 @@ Para que no se ponga a disposición para otro cliente un producto ya vendido par
 
 Esas reservas respetan tres etapas, sin embargo, con dos status. Y lo que causa mucha confusión en la mayoría de los tenderos es porque esa reserva todavía existe si se ya entregó el pedido.
 
-[Entienda como funciona la reserva.](/es/tutorial/como-se-maneja-la-reserva)
+[Entienda como funciona la reserva.](/es/docs/tutorials/como-se-maneja-la-reserva)
 
 Sin embargo, un artículo reservado no sale automáticamente del status reservado.
 

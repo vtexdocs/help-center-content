@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-Ao finalizar a [integração](/pt/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y/3tZ4qVuMDDsC2jx2DCmjdA) de uma loja VTEX com o Magalu, um seller poderá compartilhar produtos, gerenciar os pedidos realizados no marketplace, as atualizações de preços e produtos, pontos de retirada e o inventário dos produtos em um só lugar.
+Ao finalizar a [integração](/pt/docs/tracks/configurar-integracao) de uma loja VTEX com o Magalu, um seller poderá compartilhar produtos, gerenciar os pedidos realizados no marketplace, as atualizações de preços e produtos, pontos de retirada e o inventário dos produtos em um só lugar.
 
 Além da integração básica, lojistas VTEX podem integrar com o [**Fulfillment Magalu**](https://unimagalu.com.br/full/), que é um serviço disponível a lojistas que já vendem no Magalu Marketplace. Este serviço disponibiliza a operação de armazenamento e entrega do Magalu para seus produtos mais vendidos no marketplace.  
 

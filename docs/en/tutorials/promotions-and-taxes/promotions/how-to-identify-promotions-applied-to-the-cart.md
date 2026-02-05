@@ -75,5 +75,5 @@ For more information, read the [Promotions Simulator (Beta)](/en/docs/tutorials/
 
 ## Learn more
 
-* [How promotions work](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N)
+* [How promotions work](/en/docs/tracks/how-promotions-work)
 * [How to identify promotions attributed to an SKU?](/en/docs/tutorials/how-to-identify-promotions-attributed-to-an-sku)

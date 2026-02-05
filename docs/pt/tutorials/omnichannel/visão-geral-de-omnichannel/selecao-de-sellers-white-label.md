@@ -68,7 +68,7 @@ Os primeiros critérios para a seleção de sellers white label são:
 
 - Menor custo na [planilha de frete](/pt/docs/tutorials/planilha-de-frete) da [política de envio](/pt/docs/tutorials/politica-de-envio) do seller.
 - Menor tempo na planilha de frete da política de envio do seller.
-- Ter [inventário](/pt/tutorial/gerenciar-itens-em-estoque) disponível.
+- Ter [inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) disponível.
 
 Após filtrar todos os sellers com base nos critérios apresentados, é feita uma seleção de até seis sellers para cada tipo de envio:
 

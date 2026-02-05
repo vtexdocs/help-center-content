@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
-Grupo é o nome dado a um conjunto de [especificações (campos)](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) relacionados aos produtos ou SKUs de determinada [categoria](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf).
+Grupo é o nome dado a um conjunto de [especificações (campos)](/pt/docs/tracks/especificacoes-definicao-de-conceito) relacionados aos produtos ou SKUs de determinada [categoria](/pt/docs/tracks/categorias-definicao-de-conceito).
 
 Na VTEX, uma especificação sempre faz parte de um grupo de especificações, que é associado a uma categoria. Por isso, para criar uma [especificação de produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto) ou uma [especificação de SKU](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-sku), é necessário ter cadastrado previamente pelo menos uma categoria e um grupo de especificações.
 
@@ -50,7 +50,7 @@ Siga as instruções abaixo para criar um grupo de especificações:
 Você pode criar quantos campos achar necessário dentro de um grupo. Os campos criados podem ser definidos como filtros em todos os níveis de navegação na sua loja.
 
 ## Saiba mais
-- [Categorias](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
-- [Especificações de produto e de SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
+- [Categorias](/pt/docs/tracks/categorias-definicao-de-conceito)
+- [Especificações de produto e de SKU](/pt/docs/tracks/especificacoes-definicao-de-conceito)
 - [Cadastrar especificações ou campos de produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto)
 - [Cadastrar especificações ou campos de SKU](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-sku)

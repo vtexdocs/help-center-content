@@ -33,4 +33,4 @@ As configurações de política de envio, estoque e doca podem ser feitas pelo s
 ### Saiba mais
 
 - [Simulador de envio](/pt/docs/tutorials/simulador-de-envio)
-- [Verificar como o prazo de entrega de um pedido foi calculado](/pt/tutorial/verificar-como-o-prazo-de-entrega-de-um-pedido-foi-calculado).
+- [Verificar como o prazo de entrega de um pedido foi calculado](/pt/docs/tutorials/verificar-como-o-prazo-de-entrega-de-um-pedido-foi-calculado).

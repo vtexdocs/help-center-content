@@ -21,13 +21,13 @@ This is a basic concept of Omnichannel strategies, and essential for a real Unif
 
 ## Prerequisites
 
-First of all, you must consider the prerequisites that your store needs to ensure in order to start implementing an Endless Aisle strategy. Check our article on [Prerequisites for using VTEX Sales App](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u).
+First of all, you must consider the prerequisites that your store needs to ensure in order to start implementing an Endless Aisle strategy. Check our article on [Prerequisites for using VTEX Sales App](/en/docs/tracks/prerequisites-for-using-vtex-sales-app).
 
 ## Adding physical stores to VTEX Sales App
 
 To implement an Endless Aisle strategy, you must add your physical stores to the VTEX platform.
 
-To do this, follow the steps in the article [Managing physical stores and sales associates in VTEX Sales App](/en/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN).
+To do this, follow the steps in the article [Managing physical stores and sales associates in VTEX Sales App](/en/docs/tracks/managing-physical-stores-in-vtex-sales-app).
 
 An important point of attention when registering a new store is the [Trade Policy](/en/docs/tutorials/creating-a-trade-policy) applied to it. It defines which assortment of products will be valid for the store.
 

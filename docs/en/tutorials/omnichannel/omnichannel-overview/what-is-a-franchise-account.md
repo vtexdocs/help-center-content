@@ -16,7 +16,7 @@ subcategoryId: 3vhg10rO4MSmy06KeIYMIa
 order: 1
 ---
 
-On the VTEX platform, you have the option to register physical stores, franchisees and representatives of your network as franchise accounts. This is one way to expand your [Unified Commerce](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) or Omnichannel strategy.
+On the VTEX platform, you have the option to register physical stores, franchisees and representatives of your network as franchise accounts. This is one way to expand your [Unified Commerce](/en/docs/tracks/unified-commerce-101) or Omnichannel strategy.
 
 The franchise account is associated with a main account. In the case of a brand that has several physical stores, franchisees or representatives, each of them can have a franchise account linked to the brand's main account. This allows them to deliver the products sold by the brand's ecommerce.
 

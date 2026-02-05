@@ -19,7 +19,7 @@ Uma das primeiras ações que você precisa realizar em seu website é _vinculá
 
 O **website binding** é o que faz a ponte entre o CMS e as informações definidas no módulo de contas e permissões. Ou seja, é ele que define que um **account name** (configurado no módulo de contas) está atrelado à estrutura de pastas e arquivos de determinado **Website** (construída no CMS).
 
-Para vinculá-lo, basta conferir nosso [artigo sobre vincular um account name a um website.](/pt/tutorial/vincular-um-account-name-a-um-website-binding)  
+Para vinculá-lo, basta conferir nosso [artigo sobre vincular um account name a um website.](/pt/docs/tutorials/vincular-um-account-name-a-um-website-binding)  
 
 ![Binding](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/contas-e-permissoes/como-a-conta-se-relaciona-as-paginas-do-site_1.png)
 

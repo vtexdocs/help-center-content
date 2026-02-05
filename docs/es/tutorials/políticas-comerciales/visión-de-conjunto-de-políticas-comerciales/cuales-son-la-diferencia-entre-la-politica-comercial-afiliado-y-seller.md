@@ -23,7 +23,7 @@ Las políticas comerciales se pueden crear para utilizarse en marketplaces.
 
 Para configurar el surtido de productos, será necesario [asociar la política comercial](/es/tutorial/campos-de-registro-de-producto) en cuestión a los productos deseados.
 
-Para configurar la logística, siga el paso a paso descrito en [este artículo](/es/tutorial/como-configurar-logistica-para-politica-comercial).
+Para configurar la logística, siga el paso a paso descrito en [este artículo](/es/docs/tutorials/como-configurar-logistica-para-politica-comercial).
 
 Para saber más, consulte nuestro tutorial con más detalles sobre [cómo configurar una política comercial para marketplace](/es/docs/tutorials/configurar-politica-comercial-para-marketplace).
 
@@ -43,9 +43,9 @@ El registro del afiliado será necesario sólo en el __escenario en que su tiend
 
 Cada marketplace debe tener un __identificador único de afiliado__.
 
-Después de crear un [afiliado](/es/tutorial/como-configurar-afiliado/), usted debe asociar una política comercial a él. La política comercial contiene la información de los surtidos de producto, logística y precio que se enviará al afiliado en cuestión.
+Después de crear un [afiliado](/es/docs/tutorials/como-configurar-afiliado/), usted debe asociar una política comercial a él. La política comercial contiene la información de los surtidos de producto, logística y precio que se enviará al afiliado en cuestión.
 
-> ℹ️ Si la configuración del marketplace es hecha por el módulo [Bridge](/es/tutorial/configurar-politica-comercial-para-marketplace/), el afiliado se creará automáticamente en el OMS.
+> ℹ️ Si la configuración del marketplace es hecha por el módulo [Bridge](/es/docs/tutorials/configurar-politica-comercial-para-marketplace/), el afiliado se creará automáticamente en el OMS.
 
 #### **SEPA MÁS**
 

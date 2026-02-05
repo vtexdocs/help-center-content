@@ -66,7 +66,7 @@ Com relação à [segurança de lojas VTEX](/pt/subcategory/seguranca-para-lojis
 
 Algumas das mais importantes recomendações sobre [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) na VTEX são:
 
-* **Conceda o mínimo nível de permissão necessário:** crie os perfis de forma que o nível de acesso a informações e configurações seja somente o necessário para a realização da atividade prevista. Além dos [perfis de acesso predefinidos](/pt/tutorial/perfis-de-acesso), você pode criar [perfis de acesso customizados](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso). Diminuir o nível de permissão de terceiros a conteúdos críticos é diminuir sua exposição ao risco de acessos indesejados, vazamento de dados ou outros cenários danosos. 
+* **Conceda o mínimo nível de permissão necessário:** crie os perfis de forma que o nível de acesso a informações e configurações seja somente o necessário para a realização da atividade prevista. Além dos [perfis de acesso predefinidos](/pt/docs/tutorials/perfis-de-acesso), você pode criar [perfis de acesso customizados](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso). Diminuir o nível de permissão de terceiros a conteúdos críticos é diminuir sua exposição ao risco de acessos indesejados, vazamento de dados ou outros cenários danosos. 
 * **Reavalie perfis de acesso:** [gerencie usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos) periodicamente e mantenha atualizado o nível adequado de permissão de cada usuário. É fundamental excluir o perfil de acesso de funcionários ou fornecedores que deixaram de participar do seu negócio. A revisão proativa e periódica de usuários evita violações de segurança por acesso indevido.
 * **Controle a permissão de chaves de aplicação:** além de pessoas, o acesso à sua loja VTEX pode ser feito pelas [chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) utilizadas em integrações. É importante seguir nossas recomendações de [boas práticas na utilização de chaves de aplicação](/pt/docs/tutorials/boas-praticas-chaves-de-api).
 * **Restrinja o acesso ao Admin VTEX a domínios corporativos:** utilizar um domínio corporativo cria uma barreira adicional para que pessoas e sistemas indesejados não acessem sua loja. Limitar o acesso somente a emails corporativos ajuda a mitigar riscos de vazamento de dados (intencionais ou acidentais), aumenta a proteção contra phishing e facilita a rastreabilidade de atividades de auditoria.
@@ -120,7 +120,7 @@ Para isso, disponibilizamos uma série de conteúdos de onboarding sobre a plata
 
 | **Formato** | **Onde encontrar** | **Língua** |
 | :---: | :--- | :--- |
-| Documentação | Help Center: [Guia de onboarding](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/3QfoDZWg9YWl8lwS9MVrnU) | Português, inglês e espanhol. |
+| Documentação | Help Center: [Guia de onboarding](/pt/docs/tracks/introducao-a-vtex) | Português, inglês e espanhol. |
 | Vídeos | Site: [Onboarding VTEX](https://sites.google.com/vtex.com.br/onboardingvtex/trilha) | Somente português. |
 | Demos e ebooks | Site: [VTEX.com](https://vtex.com/br-pt/resources) | Cada conteúdo é disponibilizado somente em português, inglês ou espanhol. |
 
@@ -155,5 +155,5 @@ Existem [boas práticas para abrir um ticket para o Suporte VTEX](/pt/docs/tutor
 
 Estas recomendações são algumas das mais importantes. Para mais informações, veja o artigo [Boas práticas para a abertura de um Ticket para o Suporte VTEX](/pt/docs/tutorials/boas-praticas-para-a-abertura-de-um-ticket-para-o-suporte-vtex).
 
-> ℹ️ Para obter uma visão geral do nosso suporte via ticket, veja a trilha [Suporte na VTEX](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8), que compõe o **Guia de onboarding**.
+> ℹ️ Para obter uma visão geral do nosso suporte via ticket, veja a trilha [Suporte na VTEX](/pt/docs/tracks/suporte-na-vtex), que compõe o **Guia de onboarding**.
 

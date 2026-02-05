@@ -25,7 +25,7 @@ tags:
 
 O status `Preparando entrega` ocorre no [fluxo do pedido](/pt/tutorial/order-flow-on-the-oms--tutorials_196#fluxo-do-seller) logo após o seller confirmar o início do manuseio dos itens. Neste momento, é necessário que a VTEX receba a informação das notas fiscais do pedido, permitindo que o fluxo seja atualizado para o status `Faturado` ou que ele seja `Cancelado`.
 
-> ℹ️ Não é possível [cancelar pedidos](/pt/docs/tutorials/como-cancelar-pedido) que já tenham sido [faturados parcialmente](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado).
+> ℹ️ Não é possível [cancelar pedidos](/pt/docs/tutorials/como-cancelar-pedido) que já tenham sido [faturados parcialmente](/pt/docs/tracks/faturas-parciais). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado).
 
 A permanência de um pedido no status `Preparando entrega` por um período superior ao previsto pode ser atribuída à falta de cadastro das notas fiscais na VTEX.
 
@@ -33,7 +33,7 @@ A permanência de um pedido no status `Preparando entrega` por um período super
 
 ### Verificar nota fiscal em integrações com ERP
 
-A primeira ação necessária é entrar em contato com o responsável pela sua [integração ERP](https://developers.vtex.com/docs/guides/erp-integration-guide) e verificar se a nota fiscal única ou todas as [notas fiscais parciais](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) já foram cadastradas via o endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice). 
+A primeira ação necessária é entrar em contato com o responsável pela sua [integração ERP](https://developers.vtex.com/docs/guides/erp-integration-guide) e verificar se a nota fiscal única ou todas as [notas fiscais parciais](/pt/docs/tracks/faturas-parciais) já foram cadastradas via o endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice). 
 
 Após esta confirmação, siga os passos abaixo para verificar se houve mudança no status:
 
@@ -49,7 +49,7 @@ O lojista pode cadastrar notas fiscais no Admin VTEX por meio do [faturamento ma
 
 Para garantir que o pedido seja faturado corretamente, é necessário observar os seguintes requisitos:
 
-- O valor total de uma nota fiscal deve ser igual à soma dos valores dos itens do pedido e dos respectivos fretes. Se a nota fiscal for inserida com um valor menor que o total, será necessário inserir uma [nota fiscal parcial](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) com o valor restante.
+- O valor total de uma nota fiscal deve ser igual à soma dos valores dos itens do pedido e dos respectivos fretes. Se a nota fiscal for inserida com um valor menor que o total, será necessário inserir uma [nota fiscal parcial](/pt/docs/tracks/faturas-parciais) com o valor restante.
 - Cada nota fiscal emitida, seja total ou parcial, deve ter um número único.
 - Quando for necessário emitir mais de uma nota fiscal para um pedido, a soma do valor total das notas fiscais registradas deve ser igual ao valor total do pedido.
 - O valor total do pedido será atualizado em caso de [alteração ou remoção de itens](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado).

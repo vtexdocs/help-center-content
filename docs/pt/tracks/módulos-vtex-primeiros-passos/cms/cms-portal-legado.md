@@ -99,7 +99,7 @@ Há pastas que, embora não sejam tão importantes quanto as anteriores, costuma
 São elas:
 - `/sistema/buscavazia`: pasta para onde o usuário é direcionado caso a busca não encontre resultados.
 - `/sistema/{codigoHTTP}`: pasta que renderiza páginas de erros de acordo com os códigos de status HTTP, tais como 404 (página não encontrada), 401 (não autorizado) e 500 (erro de servidor).
-- `/marcas`: pasta que contém layouts de páginas de marca, que podem ser customizadas com um layout exclusivo. Se não houver layout específico para marcas, estas páginas serão renderizadas iguais à pasta busca. Para entender como funcionam páginas de marca, veja o artigo [Como funciona a busca da VTEX](/pt/tutorial/como-funciona-a-busca-da-vtex).
+- `/marcas`: pasta que contém layouts de páginas de marca, que podem ser customizadas com um layout exclusivo. Se não houver layout específico para marcas, estas páginas serão renderizadas iguais à pasta busca. Para entender como funcionam páginas de marca, veja o artigo [Como funciona a busca da VTEX](/pt/docs/tutorials/como-funciona-a-busca-da-vtex).
 
 ## Controles nativos da VTEX
 

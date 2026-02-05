@@ -15,7 +15,7 @@ trackSlugEN: configurar-integracao-com-o-google-shopping
 order: 4
 ---
 
-O [preço](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) do seu produto no Google Shopping é determinado na escolha da política comercial. É importante ter atenção a alguns pontos.
+O [preço](/pt/docs/tracks/modulo-de-precos-visao-geral) do seu produto no Google Shopping é determinado na escolha da política comercial. É importante ter atenção a alguns pontos.
 
 Se na sua política comercial existirem preços de/por (que na VTEX chamamos de [preço de lista](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#preco-de-lista) e [preço computado](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx#preco-computado)), o preço computado só será enviado para o Google Shopping caso seja habilitado no campo `Enviar preços com e sem desconto (De/Por)`.    
 Para que essas promoções apareçam no Google Shopping, é preciso que os produtos atendam aos seguintes requisitos no Merchant Center:  
@@ -31,7 +31,7 @@ Com seus produtos seguindo todos os requisitos acima, a ferramenta aplica o valo
 
 ## Desconto vinculado ao método de pagamento  
 
-A ativação de desconto atrelado a um método de pagamento é realizada em duas etapas: a [configuração do desconto](#configurar-desconto), do método de pagamento e, posteriormente, a ativação dos descontos na [configuração do conector](/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl). 
+A ativação de desconto atrelado a um método de pagamento é realizada em duas etapas: a [configuração do desconto](#configurar-desconto), do método de pagamento e, posteriormente, a ativação dos descontos na [configuração do conector](/pt/docs/tracks/configuracao-do-conector). 
 
 ### Configurar desconto
 
@@ -41,7 +41,7 @@ Para configurar um desconto vinculado a um método de pagamento, é necessário 
 2.  [Configurar desconto de preço à vista](/pt/docs/tutorials/configurar-desconto-de-preco-a-vista) para atrelar o SKU ao meio de pagamento.  
 3. [Configurar desconto de preço à vista para Google Shooping](/pt/docs/tutorials/configurar-desconto-de-preco-a-vista-para-google-shopping).  
 
-Após seguir essas documentações, a ativação deverá ser realizada através da [Configuração do conector](/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl).
+Após seguir essas documentações, a ativação deverá ser realizada através da [Configuração do conector](/pt/docs/tracks/configuracao-do-conector).
 
 > ⚠️ Quando há vários sellers vinculados a um produto na sua loja, para o Google Shopping a regra é anunciar a melhor oferta disponível.
 

@@ -43,4 +43,4 @@ El carro compartido sólo es posible debido a la inclusión de un nuevo parámet
 
 > ⚠️ Recordamos que el carrito compartido es opcional y los cambios citados aquí deben hacerse **sólo por las tiendas que desean usar la funcionalidad**.
 
-Lea el [artículo sobre el carrito compartido](/es/tutorial/que-es-el-carrito-compartido) y conozca mejor la nueva funcionalidad.
+Lea el [artículo sobre el carrito compartido](/es/docs/tutorials/que-es-el-carrito-compartido) y conozca mejor la nueva funcionalidad.

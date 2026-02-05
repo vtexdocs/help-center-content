@@ -14,7 +14,7 @@ locale: pt
 legacySlug: por-que-meu-produto-nao-inativa-no-marketplace
 ---
 
-Conforme detalhado no artigo [Catalogação de Produtos para Marketplace](/pt/tutorial/entendendo-a-catalogacao-de-produtos-para-o-marketplace), após a ativação de um SKU no marketplace, o SKU passa a ser do catálogo do marketplace. 
+Conforme detalhado no artigo [Catalogação de Produtos para Marketplace](/pt/docs/tutorials/entendendo-a-catalogacao-de-produtos-para-o-marketplace), após a ativação de um SKU no marketplace, o SKU passa a ser do catálogo do marketplace. 
 
 Com isso, o SKU poderá ser referenciado em diversas áreas do marketplace e a inativação do item poderia causar inconsistências na base.
 

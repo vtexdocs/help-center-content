@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-A [especificação](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) de produto é um campo no cadastro de um produto onde se incluem características que são válidas para todas as suas variações (SKUs).
+A [especificação](/pt/docs/tracks/especificacoes-definicao-de-conceito) de produto é um campo no cadastro de um produto onde se incluem características que são válidas para todas as suas variações (SKUs).
 
-Na VTEX, uma especificação sempre faz parte de um [grupo de especificações](/pt/tutorial/criando-grupo-de-categoria), que é associado a uma [categoria](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf). Por isso, para criar uma especificação (campo) de produto, é necessário ter cadastrado previamente pelo menos uma categoria e um grupo de especificações.
+Na VTEX, uma especificação sempre faz parte de um [grupo de especificações](/pt/tutorial/criando-grupo-de-categoria), que é associado a uma [categoria](/pt/docs/tracks/categorias-definicao-de-conceito). Por isso, para criar uma especificação (campo) de produto, é necessário ter cadastrado previamente pelo menos uma categoria e um grupo de especificações.
 
 Exemplo: considere uma loja no setor de moda. Na categoria **Camisetas**, o grupo de especificações pode receber o nome de **Informações**, o campo de produto pode se chamar **Composição** e seus valores podem ser **Algodão** e **Poliéster**.
 
@@ -47,7 +47,7 @@ Por se tratar de uma especificação de produto, as informações selecionadas n
 
 ## Passo a passo no Admin VTEX
 
-Para que as especificações apareçam no cadastro de produtos, além de ter criado anteriormente um [grupo de especificações](/pt/tutorial/criando-grupo-de-categoria) associado a uma [categoria](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), é preciso criar os campos de produto e cadastrar seus valores. Em seguida, você poderá preencher essas especificações nos seus produtos.
+Para que as especificações apareçam no cadastro de produtos, além de ter criado anteriormente um [grupo de especificações](/pt/tutorial/criando-grupo-de-categoria) associado a uma [categoria](/pt/docs/tracks/categorias-definicao-de-conceito), é preciso criar os campos de produto e cadastrar seus valores. Em seguida, você poderá preencher essas especificações nos seus produtos.
 
 Veja o passo a passo completo nas seções a seguir.
 
@@ -118,7 +118,7 @@ Confira a tabela a seguir para obter detalhes sobre os tipos de campo de produto
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">**Texto Indexado<br> <br>Texto Grande Indexado**</td>
-    <td class="t-body pa5" style="min-width: 15rem;">Seguem tecnicamente a mesma regra dos campos de Texto, com uma diferença: seus valores serão interpretados pelo [indexador](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao) do Catálogo e influenciam nos resultados de busca dos clientes na loja. Veja mais detalhes em [Como funciona a busca da VTEX?](/pt/tutorial/como-funciona-a-busca-da-vtex/).</td>
+    <td class="t-body pa5" style="min-width: 15rem;">Seguem tecnicamente a mesma regra dos campos de Texto, com uma diferença: seus valores serão interpretados pelo [indexador](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao) do Catálogo e influenciam nos resultados de busca dos clientes na loja. Veja mais detalhes em [Como funciona a busca da VTEX?](/pt/docs/tutorials/como-funciona-a-busca-da-vtex/).</td>
   </tr>
 </tbody>
 </table>
@@ -211,4 +211,4 @@ Para preencher especificações de produtos em massa por planilha, é necessári
 
 ## Saiba mais
 - [Cadastrar especificações ou campos de SKU](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-sku)
-- [Especificações de produto e de SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
+- [Especificações de produto e de SKU](/pt/docs/tracks/especificacoes-definicao-de-conceito)

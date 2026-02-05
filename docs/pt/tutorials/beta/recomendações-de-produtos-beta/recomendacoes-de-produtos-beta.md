@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6WyZwZfn89IsnNFNkTAi8d
 ---
 
-> ℹ️ Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
+> ℹ️ Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](/pt/docs/tracks/suporte-comercial). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
 
 A funcionalidade de Recomendações de produtos permite que sua loja ofereça experiências personalizadas aos consumidores, sugerindo itens com base em diferentes estratégias de recomendação. Com ela, é possível exibir produtos relevantes ou complementares, impulsionar a taxa de conversão e elevar o ticket médio da sua operação.
 
@@ -43,6 +43,6 @@ Confira a seguir as estratégias de recomendação disponíveis, implementadas d
 
 ## Implementação
 
-Para solicitar a ativação da funcionalidade de recomendações de produtos na sua loja, abra um ticket com o [Suporte Comercial](/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ), indicando quais estratégias deseja ativar. A equipe da VTEX vai analisar a solicitação e entrar em contato.
+Para solicitar a ativação da funcionalidade de recomendações de produtos na sua loja, abra um ticket com o [Suporte Comercial](/pt/docs/tracks/suporte-comercial), indicando quais estratégias deseja ativar. A equipe da VTEX vai analisar a solicitação e entrar em contato.
 
 Saiba mais sobre a implementação no Store Framework na documentação do componente [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf).

@@ -27,7 +27,7 @@ Para regionalizar os preços e disponibilidades dos SKUs, é necessário:
 
 > ⚠️ Em casos de [Multilevel Omnichannel Inventory](/pt/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4#), um marketplace (nível 1) não pode configurar exibição de preços e disponibilidade de produtos de Sellers White Label (nível 3) com a funcionalidade de regionalização.
 
-> ℹ️ A feature **Region** funciona tanto para lojas CMS Portal (Legado) quanto lojas desenvolvidas utilizando [VTEX IO](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC), mas a funcionalidade [VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) é válida somente para lojas VTEX IO. Disso resulta que lojas com CMS Portal (Legado) possuem uma limitação na indexação de dados regionalizados e não é possível ordenar corretamente os sellers que atendem a vitrine de uma RegionId tomando por base a disponibilidade dos itens.
+> ℹ️ A feature **Region** funciona tanto para lojas CMS Portal (Legado) quanto lojas desenvolvidas utilizando [VTEX IO](/pt/docs/tracks/o-que-e-o-cms), mas a funcionalidade [VTEX Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) é válida somente para lojas VTEX IO. Disso resulta que lojas com CMS Portal (Legado) possuem uma limitação na indexação de dados regionalizados e não é possível ordenar corretamente os sellers que atendem a vitrine de uma RegionId tomando por base a disponibilidade dos itens.
 
 ## Configurar a entrega na Conta Franquia/Seller White Label
 

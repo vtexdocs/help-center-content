@@ -46,7 +46,7 @@ Después de completar las instrucciones, tu anuncio estará listo para enviarlo 
 
 ### Artículos relacionados:  
 
-- [Mapear categorías y atributos de los productos para Mercado Libre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA)  
+- [Mapear categorías y atributos de los productos para Mercado Libre](/es/docs/tracks/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper)  
 - [Gestión de anuncios: detalles del anuncio](/es/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P)  
 - [Gestión de anuncios: detalles de la interacción](/es/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf)  
 - [Guía de integración de Gestión de anuncios](https://developers.vtex.com/docs/guides/sent-offers-integration-guide-connectors)  

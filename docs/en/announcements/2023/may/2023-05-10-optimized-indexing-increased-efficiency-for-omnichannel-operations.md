@@ -17,7 +17,7 @@ announcementSynopsisEN: 'Optimized indexing enables complex omnichannel operatio
 
 [Indexing](/en/docs/tutorials/understanding-how-indexation-works) is an automatic process that runs every time a product is created or updated on a VTEX store. This process ensures that the products displayed to the store customers are always up to date with the latest version.
 
-To improve this flow, we redesigned indexing to process the minimum necessary information, significantly reducing time and processing costs. This allows VTEX stores to build complex [omnichannel](/en/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) operations with greater reliability and competitiveness.
+To improve this flow, we redesigned indexing to process the minimum necessary information, significantly reducing time and processing costs. This allows VTEX stores to build complex [omnichannel](/en/docs/tracks/unified-commerce-101) operations with greater reliability and competitiveness.
 
 ## What has changed?
 

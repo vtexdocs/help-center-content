@@ -30,7 +30,7 @@ Na Amazon, há erros de integração de produtos que ocorrem com mais frequênci
 
 `Sku is inactive`
 
-O [SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) não está ativo na VTEX, e somente SKUs ativos são integrados. Em alguns casos, este erro é gerado por [coleções](/pt/docs/tutorials/como-deletar-colecao) antigas vinculadas à política comercial da Amazon que contém SKUs inativos. 
+O [SKU](/pt/docs/tracks/sku-definicao-de-conceito) não está ativo na VTEX, e somente SKUs ativos são integrados. Em alguns casos, este erro é gerado por [coleções](/pt/docs/tutorials/como-deletar-colecao) antigas vinculadas à política comercial da Amazon que contém SKUs inativos. 
 
 Verifique o status do SKU no seu Admin, no módulo PRODUTOS > Catálogo > Produtos e SKU e, se necessário, [ative o SKU](/pt/docs/tutorials/ativar-skus-em-massa).
 
@@ -38,12 +38,12 @@ Verifique o status do SKU no seu Admin, no módulo PRODUTOS > Catálogo > Produt
 
 `Requested value 'Information' was not found`
 
-**Information** é um dos tipos de especificação que pode ser indicado na coluna Type da [planilha de mapeamento da Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD). Os tipos de especificações aceitos pela Amazon são:
+**Information** é um dos tipos de especificação que pode ser indicado na coluna Type da [planilha de mapeamento da Amazon](/pt/docs/tracks/envio-de-produtos-para-amazon). Os tipos de especificações aceitos pela Amazon são:
 
 - **Variation:** Preencha com especificações do SKUs. Exemplo: Cor, Tamanho.
 - **Information:** Preencha com especificações do produto. Exemplo: Gênero, Departamento, Idade Mínima.
 
-Esse erro ocorre quando a [especificação do produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-produto) informada não existe ou não foi preenchida. Para resolver esse erro, [cadastre](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) uma especificação válida e refaça o mapeamento.
+Esse erro ocorre quando a [especificação do produto](/pt/docs/tracks/especificacoes-definicao-de-conceito#especificacao-de-produto) informada não existe ou não foi preenchida. Para resolver esse erro, [cadastre](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) uma especificação válida e refaça o mapeamento.
 
 ### Mensagem de erro
 
@@ -55,7 +55,7 @@ O erro ocorre quando a [categoria global](/pt/docs/tutorials/configurando-a-cate
 
 `SKU XXX, Missing Attributes color. Código SKU XXX não coincide com nenhum ASIN. A criação de um novo ASIN requer os seguintes atributos ausentes: color. Feed ID: 0. Para saber mais detalhes acesse http://sellercentral.amazon.com.br/gp/errorcode/200692370`
 
-Esse erro ocorre quando a [especificação](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) **Cor** não foi mapeada na [planilha de mapeamento](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#4-planilha-de-mapeamento). Você deverá revisar o cadastro desta especificação no [produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru) e no [SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) para solucioná-lo. Para revisar o cadastro da especificação no Produto, acesse o Admin VTEX, clique em *Produtos > Catálogo > Produtos e SKUs*, selecione o produto e clique em `Alterar`. Clique na aba `Especificações` e identifique o campo **Cor** com a informação já preenchida.
+Esse erro ocorre quando a [especificação](/pt/docs/tracks/especificacoes-definicao-de-conceito) **Cor** não foi mapeada na [planilha de mapeamento](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#4-planilha-de-mapeamento). Você deverá revisar o cadastro desta especificação no [produto](/pt/docs/tracks/produtos-definicao-de-conceito) e no [SKU](/pt/docs/tracks/sku-definicao-de-conceito) para solucioná-lo. Para revisar o cadastro da especificação no Produto, acesse o Admin VTEX, clique em *Produtos > Catálogo > Produtos e SKUs*, selecione o produto e clique em `Alterar`. Clique na aba `Especificações` e identifique o campo **Cor** com a informação já preenchida.
 
 Para revisar o cadastro da especificação no SKU, acesse o Admin VTEX, clique em *Produtos > Catálogo > Produtos e SKUs*, selecione o produto, clique na seta <img class="shadow-4" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/produtos/erros-de-integracao-de-produtos-com-a-amazon_1.JPG" /> e selecione a opção SKU. Na aba `Especificações`, identifique o campo que utiliza Cor como atributo. Depois, preencha a planilha de mapeamento com as especificações de cor que precisam ser mapeadas.
 
@@ -65,7 +65,7 @@ Para revisar o cadastro da especificação no SKU, acesse o Admin VTEX, clique e
 
 `Specification Tamanho mapped not found neither in product or sku specification`
 
-Nos erros acima, o atributo citado não está cadastrado no produto do catálogo VTEX. Você deverá [cadastrar o atributo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) **Cor** ou **Tamanho** e refazer o [mapeamento](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) do produto enviado, seguindo o exemplo abaixo.
+Nos erros acima, o atributo citado não está cadastrado no produto do catálogo VTEX. Você deverá [cadastrar o atributo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) **Cor** ou **Tamanho** e refazer o [mapeamento](/pt/docs/tracks/envio-de-produtos-para-amazon) do produto enviado, seguindo o exemplo abaixo.
 
 Exemplo de preenchimento para o atributo **Cor**:
 
@@ -85,7 +85,7 @@ Exemplo de preenchimento para o atributo **Tamanho**:
 
 `Specification Departament mapped not found neither in product or sku specifications`
 
-Nos erros acima, o atributo citado não está cadastrado no SKU do catálogo VTEX. Você deverá [cadastrar o atributo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) e refazer o [mapeamento](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) do produto enviado, seguindo o exemplo abaixo.
+Nos erros acima, o atributo citado não está cadastrado no SKU do catálogo VTEX. Você deverá [cadastrar o atributo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) e refazer o [mapeamento](/pt/docs/tracks/envio-de-produtos-para-amazon) do produto enviado, seguindo o exemplo abaixo.
 
 Exemplo de preenchimento para o atributo **Gênero**:
 
@@ -109,7 +109,7 @@ O erro ocorre quando a especificação X não é aceita pela Amazon. Você dever
 
 `XML Parsing Error at Line 49, Column 72: cvc-complex-type.2.2: Element &apos;MinimumManufacturerAgeRecommended&apos; must have no element [children], and the value must be valid`
 
-Esse erro ocorre quando a [planilha de mapeamento](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#4-planilha-de-mapeamento) dos produtos não tem a especificação da idade recomendada pelo fabricante mapeada. Você deverá revisar o cadastro desta especificação no [produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru) para solucionar o erro. Para revisar o cadastro da especificação, acesse o Admin VTEX, clique em *Produtos > Catálogo > Produtos e SKUs*, selecione o produto e clique em `Alterar`. Clique na aba **Especificações** e identifique o campo `Idade` com a informação já preenchida. Depois, preencha a [planilha de mapeamento](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) com as especificações de idade que precisam ser mapeadas.
+Esse erro ocorre quando a [planilha de mapeamento](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#4-planilha-de-mapeamento) dos produtos não tem a especificação da idade recomendada pelo fabricante mapeada. Você deverá revisar o cadastro desta especificação no [produto](/pt/docs/tracks/produtos-definicao-de-conceito) para solucionar o erro. Para revisar o cadastro da especificação, acesse o Admin VTEX, clique em *Produtos > Catálogo > Produtos e SKUs*, selecione o produto e clique em `Alterar`. Clique na aba **Especificações** e identifique o campo `Idade` com a informação já preenchida. Depois, preencha a [planilha de mapeamento](/pt/docs/tracks/envio-de-produtos-para-amazon) com as especificações de idade que precisam ser mapeadas.
 
 ### Mensagem de erro
 
@@ -129,7 +129,7 @@ O erro ocorre quando a coluna **VariationTheme** da planilha de mapeamento da Am
 
 `Entry Material dont have a espec mapped correctly in the file`
 
-Em ambos os erros, a [Categoria Global VTEX](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD) do produto selecionado pelo seller exige o cadastro obrigatório dos atributos **Department** ou **Material** no produto, e o  preenchimento da planilha de mapeamento. Cadastre o atributo no produto e preencha a planilha conforme o exemplo abaixo:
+Em ambos os erros, a [Categoria Global VTEX](/pt/docs/tracks/envio-de-produtos-para-amazon) do produto selecionado pelo seller exige o cadastro obrigatório dos atributos **Department** ou **Material** no produto, e o  preenchimento da planilha de mapeamento. Cadastre o atributo no produto e preencha a planilha conforme o exemplo abaixo:
 
 | VTEX Category Id | VariationTheme | Type | VTEXSpecification | AmazonSpecification | VTEXValue | AmazonValue |
 | ---------- | ---------- | ---------- | ----------| ----------| ---------- | ---------- |

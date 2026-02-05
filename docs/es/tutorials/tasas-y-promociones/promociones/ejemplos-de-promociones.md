@@ -21,56 +21,56 @@ Este artículo está dedicado a ilustrar algunos escenarios de promoción comune
 
 $50 de descuento para compras de $400 a $699.
 
-- "$50 de descuento" hace que sea una [Promoción Regular - Nominal](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- "$50 de descuento" hace que sea una [Promoción Regular - Nominal](/es/docs/tracks/crear-promocion-regular).
 - "$400 a $699" es una restricción que puede ser incluida indicando el valor mínimo y máximo de la configuración del pedido o del precio del ítem.
 
 ## Escenario 2
 
 Ahorro extra en mercancía de liquidación cuando se gasta entre $250 y $499.
 
-- “Descuento extra” es una [Promoción Regular](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) que se acumula con otros beneficios.
+- “Descuento extra” es una [Promoción Regular](/es/docs/tracks/crear-promocion-regular) que se acumula con otros beneficios.
 - “$250 a $499” es una restricción que se puede incluir indicando el valor mínimo y máximo de la configuración del pedido.
 
 ## Escenario 3
 
 20% de descuento extra en toda la Mercancía de Liquidación.
 
-- "Un 20% de descuento extra" es una [Promoción regular - Porcentual](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) acumulable con otros beneficios.
+- "Un 20% de descuento extra" es una [Promoción regular - Porcentual](/es/docs/tracks/crear-promocion-regular) acumulable con otros beneficios.
 - "Toda la Mercancía de Liquidación" es una colección a la que se aplicará este beneficio.
 
 ## Escenario 4
 
 Flete gratis por tiempo limitado.
 
-- “Flete gratis” hace que sea una [Promoción Regular - Flete Gratis](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “Flete gratis” hace que sea una [Promoción Regular - Flete Gratis](/es/docs/tracks/crear-promocion-regular).
 - “Tiempo limitado” es una restricción que puede ser configurada en la fecha de validez.
 
 ## Escenario 5
 
 Ahorre $100 en todos los abrigos de cuero.
 
-- “$100” hace que sea una [Promoción Regular - Nominal](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “$100” hace que sea una [Promoción Regular - Nominal](/es/docs/tracks/crear-promocion-regular).
 - “Todos los abrigos de cuero” es una colección o categoría a la cual se le aplicará este beneficio.
 
 ## Escenario 6
 
 Ahorre $75 en todos los abrigos de cuero y los abrigos de marca.
 
-- “$75" hace que sea una [Promoción regular - Nominal](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “$75" hace que sea una [Promoción regular - Nominal](/es/docs/tracks/crear-promocion-regular).
 - “Todos los abrigos de cuero y abrigos de marca" son colecciones o categorías a las cuales se aplicará este beneficio.
 
 ## Escenario 7
 
 Ahorre 30% en todos los cinturones.
 
-- “30%” hace que sea una [Promoción regular - Porcentual](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “30%” hace que sea una [Promoción regular - Porcentual](/es/docs/tracks/crear-promocion-regular).
 - "Todos los cinturones" es una categoría a la que se aplicará este beneficio.
 
 ## Escenario 8
 
 Ahorre con 20% de descuento extra en todos los suéteres de liquidación.
 
-- “20%” hace que sea una [Promoción regular - Porcentual](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “20%” hace que sea una [Promoción regular - Porcentual](/es/docs/tracks/crear-promocion-regular).
 - "Descuento extra" es una promoción que se acumula con otros beneficios.
 - "Todos los suéteres de liquidación" es una categoría a la que se aplicará este beneficio.
 
@@ -78,14 +78,14 @@ Ahorre con 20% de descuento extra en todos los suéteres de liquidación.
 
 $99 en todas las camisas de liquidación.
 
-- “$99” hace que sea una [Promoción regular - Nominal](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “$99” hace que sea una [Promoción regular - Nominal](/es/docs/tracks/crear-promocion-regular).
 - "Todas las camisas de liquidación" es una categoría a la que se aplicará este beneficio.
 
 ## Escenario 10
 
 Ahorre con 20% de descuento en camisas de múltiples departamentos.
 
-- “20% de descuento” hace que sea una [Promoción regular - Porcentual](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “20% de descuento” hace que sea una [Promoción regular - Porcentual](/es/docs/tracks/crear-promocion-regular).
 - "Camisas de múltiples departamentos" son categorías a las que se aplicará este beneficio.
 
 ## Escenario 11
@@ -125,7 +125,7 @@ Compre dos prendas tejidas de manga larga y reciba 20% de descuento sobre el pre
 
 Ahorre $50 por cada $300 gastados.
 
-- “$50” hace que sea una [Promoción Regular - Nominal](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+- “$50” hace que sea una [Promoción Regular - Nominal](/es/docs/tracks/crear-promocion-regular).
 - “$300” es la restricción que puede ser incluida con el valor mínimo de la configuración del pedido o precio del ítem.
 - "Por cada $300" significa promociones múltiples ($600, $900) con el valor mínimo del pedido que se acumula con otros beneficios.
 
@@ -133,7 +133,7 @@ Ahorre $50 por cada $300 gastados.
 
 Gaste $500 y obtenga un código de cupón individual con 20% de descuento para utilizarlo en la próxima compra.
 
-- “20% de descuento” hace que sea una [Promoción Regular - Valor de fidelidad porcentual](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).  El crédito de recompensa se transfiere a una [Tarjeta de Regalo](/es/docs/tutorials/gift-card).
+- “20% de descuento” hace que sea una [Promoción Regular - Valor de fidelidad porcentual](/es/docs/tracks/crear-promocion-regular).  El crédito de recompensa se transfiere a una [Tarjeta de Regalo](/es/docs/tutorials/gift-card).
 - “Gaste $500” es una restricción que puede ser incluida con el valor mínimo de la configuración del pedido.
 
 ## Escenario 17
@@ -146,11 +146,11 @@ Compra 3 camisetas básicas y paga solo 1.
 
 ## Artículos relacionados
 
--  [Crear Promoción Regular](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI)
+-  [Crear Promoción Regular](/es/docs/tracks/crear-promocion-regular)
 
 -   [Campos de la Promoción Regular](/es/docs/tutorials/registro-promocion-regular)
 
--   [Promociones para escenarios específicos](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy)
+-   [Promociones para escenarios específicos](/es/docs/tracks/promociones-para-escenarios-especificos)
 
 -   [Crear promoción Comprar Juntos](/es/docs/tutorials/comprar-juntos-registro-de-promocion)
 
@@ -160,6 +160,6 @@ Compra 3 camisetas básicas y paga solo 1.
 
 -   [Cómo funciona la promoción Compre y Gane](/es/docs/tutorials/como-funciona-la-promocion-compre-y-gane)
 
--   [Límite de ítems con promoción en el carrito](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy)
+-   [Límite de ítems con promoción en el carrito](/es/docs/tracks/promociones-para-escenarios-especificos)
 
 -   [Configurar Tarjeta de Regalo](/es/docs/tutorials/gift-card)

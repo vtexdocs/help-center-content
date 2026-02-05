@@ -19,7 +19,7 @@ La **Sustitución de pedidos** permite a los clientes de su tienda cambiar los d
 
 El objetivo es ayudarlos a corregir errores sin tener que realizar manualmente un nuevo pedido o contactar a su soporte, lo que facilita el funcionamiento de su tienda y reduce costos.
 
-> ⚠️ No es posible [cancelar](/es/docs/tutorials/como-cancelar-pedido) pedidos [parcialmente facturados](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado).
+> ⚠️ No es posible [cancelar](/es/docs/tutorials/como-cancelar-pedido) pedidos [parcialmente facturados](/es/docs/tracks/facturas-parciales). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado).
 
 ## Habilitación de la sustitución de pedidos
 

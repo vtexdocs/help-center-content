@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Sus clientes pueden comprar con Apple Pay, la [cartera digital](/es/faq/que-es-una-cartera-digital) de Apple. Para ello, usted necesita cumplir algunos requisitos:
+Sus clientes pueden comprar con Apple Pay, la [cartera digital](/es/docs/tutorials/que-es-una-cartera-digital) de Apple. Para ello, usted necesita cumplir algunos requisitos:
 
 - Tener cuenta en `developer.apple.com`.
 - Tener contrato con un gateway que procese pagos con Apple Pay.
@@ -39,7 +39,7 @@ Para consultar todas las opciones de proveedores disponibles para este método d
 5. En el campo __Procesar con proveedor__, seleccione el proveedor que se va a utilizar para procesar los pagos.
 6. Si hay un antifraude configurado en su tienda, usted puede activarlo para esta condición de pago marcando la casilla __Utilizar antifraude__.
 7. Elija si desea que los pagos se realicen en efectivo o parcelados.
-8. Si lo desea, también puede optar por una [condición especial de pago](/es/tutorial/condiciones-especiales).
+8. Si lo desea, también puede optar por una [condición especial de pago](/es/docs/tutorials/condiciones-especiales).
 9. Haga clic en `Guardar`.
 
 Después de seguir los pasos indicados, Apple Pay puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

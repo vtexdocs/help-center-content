@@ -15,7 +15,7 @@ trackSlugEN: suporte-na-vtex
 order: 5
 ---
 
-Após o [cliente chegar à VTEX](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4EPwTXx5oFdSG1dA3zIchz), podem surgir dúvidas relacionadas a alterações de dados cadastrais, informações de cobrança, faturas e outros aspectos financeiros da conta. Nesse sentido, o suporte financeiro está disponível para ajudar com questões contratuais e financeiras relacionadas às lojas e à VTEX.
+Após o [cliente chegar à VTEX](/pt/docs/tracks/configuracoes-iniciais), podem surgir dúvidas relacionadas a alterações de dados cadastrais, informações de cobrança, faturas e outros aspectos financeiros da conta. Nesse sentido, o suporte financeiro está disponível para ajudar com questões contratuais e financeiras relacionadas às lojas e à VTEX.
 
 O primeiro contato pode ser feito através dos artigos do [Help Center](/pt/) e conferindo os tópicos apresentados a seguir.
 
@@ -38,7 +38,7 @@ Para mais informações, basta consultar os artigos [O que a VTEX considera como
 
 ## Alteração dos dados cadastrais da loja
 
-Após o [primeiro acesso](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4EPwTXx5oFdSG1dA3zIchz), é possível alterar os dados cadastrais da loja como:
+Após o [primeiro acesso](/pt/docs/tracks/configuracoes-iniciais), é possível alterar os dados cadastrais da loja como:
 
 - Correções e inclusão de contatos.
 - Transferência de responsabilidade.

@@ -28,7 +28,7 @@ Somente após atingir o valor total do pedido o status será alterado para `fatu
 Existem três cenários para o faturamento, dependendo da situação do pedido:
 
 - __Pedido sem alteração:__ é preciso inserir uma nota fiscal com valor equivalente ao total do pedido.
-- __Pedido com alteração > descontando o valor > seguido de fatura avulsa:__ é preciso inserir uma nota fiscal com o valor que resta depois da alteração. A nota pode ser [parcial](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), ou completa, se nela constar todo o valor restante após a alteração.
+- __Pedido com alteração > descontando o valor > seguido de fatura avulsa:__ é preciso inserir uma nota fiscal com o valor que resta depois da alteração. A nota pode ser [parcial](/pt/docs/tracks/faturas-parciais), ou completa, se nela constar todo o valor restante após a alteração.
 - __Pedido com fatura parcial > seguido de alteração com desconto:__ é preciso realizar uma [alteração](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado), descontando o valor restante. Para isso, calcule o valor total, menos o valor da fatura parcial.
 
 ## Nota Fiscal

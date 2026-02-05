@@ -31,8 +31,8 @@ Após finalizar a criação dos seus links, você pode gerenciá-los através da
 
 Com os links criados, podemos passar para os próximos passos da nossa jornada. Defina o maior desafio da sua empresa para começar: 
 
-* [Levar os visitantes do meu site e redes sociais para o WhatsApp](/pt/tracks/suitshare--khP0p8mjIYRIpvM7Cb4Zr/5dA25l9g68S9RzXrq1rEsq)
-* [Capturar dados do lead antes de iniciar uma conversa no WhatsApp](/pt/tracks/suitshare--khP0p8mjIYRIpvM7Cb4Zr/5dcakrZEc8aOTG7OshTPWp)
-* [Distribuir o atendimento no WhatsApp para mais de um número](/pt/tracks/suitshare--khP0p8mjIYRIpvM7Cb4Zr/4Xgqw105OM7zRdKmdY6avV)
-* [Levar os contato do WhatsApp para um CRM](/pt/tracks/suitshare--khP0p8mjIYRIpvM7Cb4Zr/5d9MKRl47mVpMZVedhltwC)
+* [Levar os visitantes do meu site e redes sociais para o WhatsApp](/pt/docs/tracks/levar-os-visitantes-do-meu-site-e-redes-sociais-para-o-whatsapp)
+* [Capturar dados do lead antes de iniciar uma conversa no WhatsApp](/pt/docs/tracks/capturar-dados-do-lead-antes-de-iniciar-uma-conversa-no-whatsapp)
+* [Distribuir o atendimento no WhatsApp para mais de um número](/pt/docs/tracks/como-distribuir-o-atendimento-no-whatsapp-para-mais-de-um-numero)
+* [Levar os contato do WhatsApp para um CRM](/pt/docs/tracks/levar-os-contatos-do-whatsapp-para-um-crm)
 * [Entender como os clientes chegam até o meu WhatsApp](/pt/tracks/suitshare--khP0p8mjIYRIpvM7Cb4Zr/5eLRT51rPMy0zwDVAAJLWH)

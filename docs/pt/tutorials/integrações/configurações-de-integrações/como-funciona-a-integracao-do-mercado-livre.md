@@ -19,7 +19,7 @@ O [Mercado Livre](https://www.mercadolivre.com.br/) é um dos líderes do e-comm
 
 Sua operação está presente nos seguintes países: Argentina, Brasil, Chile, Colômbia, México, Uruguai e Venezuela.
 
-Depois de concluir a [integração](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/51oWBHvVxSs8eAwLQhSbSd) da sua loja VTEX com o Mercado Livre, explicaremos como funciona o fluxo da integração para manter as informações atualizadas no Mercado Livre. O artigo foi dividido em:
+Depois de concluir a [integração](/pt/docs/tracks/mercado-livre-marketplace) da sua loja VTEX com o Mercado Livre, explicaremos como funciona o fluxo da integração para manter as informações atualizadas no Mercado Livre. O artigo foi dividido em:
 
 1. [Pedidos](#1-pedidos)
 2. [Produtos](#2-produtos)
@@ -29,7 +29,7 @@ Depois de concluir a [integração](/pt/tracks/configurar-integracao-do-mercado-
 
 ## 1. Pedidos
 
-Todos os [pedidos](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE) realizados no Mercado Livre serão enviados para a plataforma VTEX, cada pedido com um status próprio conforme tabela abaixo. Para saber mais sobre os status dos pedidos na VTEX, leia o artigo [Fluxo e status de pedido](/pt/docs/tutorials/fluxo-e-status-de-pedidos).
+Todos os [pedidos](/pt/docs/tracks/o-que-e-um-pedido-na-vtex) realizados no Mercado Livre serão enviados para a plataforma VTEX, cada pedido com um status próprio conforme tabela abaixo. Para saber mais sobre os status dos pedidos na VTEX, leia o artigo [Fluxo e status de pedido](/pt/docs/tutorials/fluxo-e-status-de-pedidos).
 
 | Status na plataforma VTEX | Resposta do Mercado Livre | Descrição da resposta do Mercado Livre |
 | ---------- | ---------- | ---------- |
@@ -39,15 +39,15 @@ Todos os [pedidos](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6
 | Enviado | Shipped | Pedidos que já foram despachados para entrega |
 | Entregue | Delivered | Pedidos entregues ao seu destinatário final |
 | Cancelado | Cancelled | Pedidos que foram cancelados |
-| Carência para cancelamento | Window-to-cancel | Status do tempo de cancelamento do cliente. Após a aprovação do pagamento, o cliente tem 30 minutos (definido como padrão nas [Configurações Gerais](/pt/tutorial/configuracoes-gerais/) do módulo de Gerenciamento de Pedidos) para realizar seu cancelamento. Nesse período, o estorno do pedido é realizado automaticamente |
+| Carência para cancelamento | Window-to-cancel | Status do tempo de cancelamento do cliente. Após a aprovação do pagamento, o cliente tem 30 minutos (definido como padrão nas [Configurações Gerais](/pt/docs/tutorials/configuracoes-gerais/) do módulo de Gerenciamento de Pedidos) para realizar seu cancelamento. Nesse período, o estorno do pedido é realizado automaticamente |
 
 Você deve possuir um [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) *OMS - Full Access* para poder realizar ações no fluxo dos pedidos. Em cada status do fluxo de pedidos na VTEX, você receberá uma resposta diferente do Mercado Livre. Só quando os pedidos com o status `Paid` são identificados no Mercado Livre, eles são integrados na VTEX.
 
-O ID do pedido usado no Mercado Livre é diferente do que você vai encontrar na VTEX. Para entender a lógica por trás da correspondência desses IDs, leia o artigo [Como funciona o carrinho com múltiplos itens no Mercado Livre](/pt/tutorial/como-funciona-o-carrinho-com-multiplos-itens-no-mercado-livre).
+O ID do pedido usado no Mercado Livre é diferente do que você vai encontrar na VTEX. Para entender a lógica por trás da correspondência desses IDs, leia o artigo [Como funciona o carrinho com múltiplos itens no Mercado Livre](/pt/docs/tutorials/como-funciona-o-carrinho-com-multiplos-itens-no-mercado-livre).
 
 ### Faturando o pedido
 
-De acordo com a  [configuração logística](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy), você poderá emitir a nota diretamente no marketplace, ou através do seu [ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) integrado com a VTEX. Existem dois tipos de configurações logísticas:
+De acordo com a  [configuração logística](/pt/docs/tracks/configurar-logistica-para-o-mercado-livre), você poderá emitir a nota diretamente no marketplace, ou através do seu [ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) integrado com a VTEX. Existem dois tipos de configurações logísticas:
 
 - [Pedidos ME1](#pedidos-me1)
 - [Pedidos ME2](#pedidos-me2)
@@ -84,7 +84,7 @@ Em pedidos com o tipo logístico Coleta e Places, você deve preencher os campos
 
 ## 2. Produtos
 
-Os [produtos](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru) são os itens vendidos na sua loja, que fazem parte de uma [categoria](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf) cadastrada no seu [Catálogo VTEX](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR). Para enviar os produtos cadastrados no seu catálogo para o Mercado Livre, você precisará fazer o [mapeamento de categorias, atributos e variações](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).
+Os [produtos](/pt/docs/tracks/produtos-definicao-de-conceito) são os itens vendidos na sua loja, que fazem parte de uma [categoria](/pt/docs/tracks/categorias-definicao-de-conceito) cadastrada no seu [Catálogo VTEX](/pt/docs/tracks/catalogo-definicao-de-conceito). Para enviar os produtos cadastrados no seu catálogo para o Mercado Livre, você precisará fazer o [mapeamento de categorias, atributos e variações](/pt/docs/tracks/mapear-categorias-e-atributos-dos-produtos-para-o-mercado-livre-mapper).
 
 Qualquer mudança feita em seus produtos pelo admin VTEX em *PRODUTO > Catálogo > Produtos e SKUs* ou pela integração com o [ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-import-products) da sua loja será atualizada automaticamente no Mercado Livre.
 
@@ -96,7 +96,7 @@ Os produtos precisam ter os seguintes campos na plataforma VTEX marcados para se
 - **Mostrar produto esgotado**
 - **Política comercial**
 
-No campo **Política comercial**, você deverá marcar a opção correspondente à [política comercial](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/15NZiQstCET8zyQUIa7nhw) vinculada ao Mercado Livre.
+No campo **Política comercial**, você deverá marcar a opção correspondente à [política comercial](/pt/docs/tracks/configurar-politica-comercial-para-o-mercado-livre) vinculada ao Mercado Livre.
 
 > ℹ️ Para acrescentar novas imagens em um anúncio que já existe no Mercado Livre, você precisará fazer todas as mudanças direto no painel do próprio marketplace. O Mercado Livre só aceita 12 imagens por produto sem variação, e até 10 imagens por variação.
 
@@ -104,7 +104,7 @@ No campo **Política comercial**, você deverá marcar a opção correspondente 
 
 Os preços são enviados pela primeira vez junto com o primeiro envio de produtos durante a integração. A partir disso, os preços dos anúncios no Mercado Livre são atualizados automaticamente, sempre que há alguma alteração de preço na plataforma VTEX.
 
-Para cada SKU, a integração envia o [preço fixo](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy) que foi configurado na [política comercial](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/15NZiQstCET8zyQUIa7nhw) associada à integração. 
+Para cada SKU, a integração envia o [preço fixo](/pt/docs/tracks/preco-fixo-definicao-de-conceito) que foi configurado na [política comercial](/pt/docs/tracks/configurar-politica-comercial-para-o-mercado-livre) associada à integração. 
 
 ### Promoções
 

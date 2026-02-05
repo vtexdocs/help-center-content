@@ -52,11 +52,11 @@ La tabla a continuación presenta las principales ventajas del **Pago con tarjet
 | **Experiencia integrada y sin fricciones** | La realización de la compra y la confirmación del pago tienen lugar en **VTEX Sales App**, lo que elimina la necesidad de múltiples entornos para completar la venta y promueve una experiencia continua. |
 | **Compras seguras** | Durante la compra, el cliente sigue el escaneo de la tarjeta y el llenado (automático o manual) de los datos, que permanecen enmascarados y no se almacenan una vez finalizada la compra. |
 | **Soporte para tarjetas virtuales** | El **Pago con tarjeta vía VTEX Sales App** acepta tanto tarjetas físicas con número de identificación ([código BIN](/es/docs/tutorials/registrar-informacion-de-bin)) como tarjetas virtuales, lo que amplía las opciones de pago disponibles para los clientes. |
-| **Kit de inicio de pago** | Además de la opción [carrito compartido (social selling)](/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy), con el **Pago con tarjeta vía Sales App** los retailers que están comenzando a utilizar **VTEX Sales App** pueden integrar la solución sin necesidad de contratar un adquirente adicional. |
+| **Kit de inicio de pago** | Además de la opción [carrito compartido (social selling)](/es/docs/tracks/compartir-el-carrito-utilizando-vtex-sales-app-social-selling), con el **Pago con tarjeta vía Sales App** los retailers que están comenzando a utilizar **VTEX Sales App** pueden integrar la solución sin necesidad de contratar un adquirente adicional. |
 
 ## Casos de uso
 
-Al utilizar el **Pago con tarjeta vía VTEX Sales App** en ventas de [pasillo infinito](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) con envío predeterminado (más de 24 horas), la compra se procesa a través del mismo flujo de checkout de la tienda de ecommerce y se clasifica como un caso de tarjeta no presente, un término técnico que indica que el pago no se realizó con una tarjeta física.
+Al utilizar el **Pago con tarjeta vía VTEX Sales App** en ventas de [pasillo infinito](/es/docs/tracks/pasillo-infinito) con envío predeterminado (más de 24 horas), la compra se procesa a través del mismo flujo de checkout de la tienda de ecommerce y se clasifica como un caso de tarjeta no presente, un término técnico que indica que el pago no se realizó con una tarjeta física.
 
 > ❗ Las transacciones realizadas con esta funcionalidad están sujetas a las reglas de antifraude. Cuando la autorización de compra pasa por el flujo antifraude, su aprobación puede demorar hasta 24 horas. Por este motivo, no se recomienda utilizar el **Pago con tarjeta vía VTEX Sales App** en los siguientes escenarios:<ul><li>Ventas con envío express</li><li>Ventas de stock local (On Hands)</li></ul>
 
@@ -72,7 +72,7 @@ La configuración necesaria para activar la funcionalidad es distinta para tiend
 
 ### Tiendas que comienzan a utilizar VTEX Sales App
 
-Al [configurar VTEX Sales App](/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), en la etapa de habilitar medios de pago, mantén activa la opción <i class="fas fa-toggle-on" aria-hidden="true"></i> **Pago con tarjeta vía Sales App.**
+Al [configurar VTEX Sales App](/es/docs/tracks/vtex-sales-app-configuracion-basica), en la etapa de habilitar medios de pago, mantén activa la opción <i class="fas fa-toggle-on" aria-hidden="true"></i> **Pago con tarjeta vía Sales App.**
 
 ### Tiendas que utilizan VTEX Sales App
 
@@ -118,5 +118,5 @@ Sigue los pasos a continuación para finalizar pedidos utilizando **Pago con tar
 ## Más información
 
 - [VTEX Sales App: preguntas frecuentes](/es/docs/tutorials/vtex-sales-app-preguntas-frecuentes)
-- [Compartir el carrito utilizando VTEX Sales App Social Selling](/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy)
-- [Prerrequisitos para utilizar VTEX Sales App](/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u)
+- [Compartir el carrito utilizando VTEX Sales App Social Selling](/es/docs/tracks/compartir-el-carrito-utilizando-vtex-sales-app-social-selling)
+- [Prerrequisitos para utilizar VTEX Sales App](/es/docs/tracks/requisitos-previos-para-usar-vtex-sales-app)

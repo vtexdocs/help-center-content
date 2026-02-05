@@ -15,7 +15,7 @@ trackSlugEN: vtex-sales-app-using-the-app
 order: 7
 ---
 
-VTEX Sales App's [endless aisle](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) feature allows sales associates to search for products beyond the inventory of the current store and add them to the cart. To search for a product, click the magnifying glass icon <i class="fas fa-search"></i>, and a search bar will be displayed at the top of the store's homepage. Enter the product name, reference code, SKU ID, or EAN.
+VTEX Sales App's [endless aisle](/en/docs/tracks/endless-aisle) feature allows sales associates to search for products beyond the inventory of the current store and add them to the cart. To search for a product, click the magnifying glass icon <i class="fas fa-search"></i>, and a search bar will be displayed at the top of the store's homepage. Enter the product name, reference code, SKU ID, or EAN.
 
 > ℹ️ This feature uses the browser's cache to optimize searches in scenarios with slow internet connections.
 
@@ -40,7 +40,7 @@ To add a product to the cart, select the desired variation, shipping option, and
 
 Filters allow the search to be refined based on customer preferences. You can refine your search by applying multiple filters and easily remove them if needed.
 
-To use search filters in VTEX Sales App, you must first install and configure [VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG). Please keep in mind that:
+To use search filters in VTEX Sales App, you must first install and configure [VTEX Intelligent Search](/en/docs/tracks/overview-intelligent-search). Please keep in mind that:
 - It is essential to configure the filters that will be displayed, as indicated in the article [Search configuration](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx). Otherwise, all product information will be considered as filterable attributes in VTEX Sales App.
 - Any changes made to the search settings will also apply to the ecommerce operation if it uses VTEX Intelligent Search.
 

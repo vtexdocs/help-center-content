@@ -17,11 +17,11 @@ order: 4
 
 Add-on products are solutions offered by VTEX to meet the specific business needs. They can be purchased separately through a subscription agreement.
 
-> ⚠️ To implement the solutions below, contact our[ VTEX Sales Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
+> ⚠️ To implement the solutions below, contact our[ VTEX Sales Support](/en/docs/tracks/commercial-support).
 
 ## VTEX Assisted Sales
 
-[Assisted Sales (SuiteShare)](/en/tracks/suiteshare--khP0p8mjIYRIpvM7Cb4Zr/onWmyS8j4Thhde67UBBsB) is the solution created by VTEX to boost sales through WhatsApp. It allows you to attract new customers, integrate sales tools, and manage user service data and result metrics.
+[Assisted Sales (SuiteShare)](/en/docs/tracks/what-is-suiteshare) is the solution created by VTEX to boost sales through WhatsApp. It allows you to attract new customers, integrate sales tools, and manage user service data and result metrics.
 
 ![suitshare-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_1.JPG)
 
@@ -56,9 +56,9 @@ To watch an app demo or schedule a custom service with an expert, go to the[ VTE
 
 ## VTEX Sales App
 
-With [VTEX Sales App](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), sales associates from physical stores can expand their sales possibilities by integrating inventory data between physical and online stores while offering complete face-to-face monitoring of the customer's purchasing process. The app allows you to:
+With [VTEX Sales App](/en/docs/tracks/vtex-sales-app-basic-settings), sales associates from physical stores can expand their sales possibilities by integrating inventory data between physical and online stores while offering complete face-to-face monitoring of the customer's purchasing process. The app allows you to:
 
- - Access information and sell products from your store and different locations, such as branch stores, partner stores, or distribution centers ([endless aisle](/en/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn)).
+ - Access information and sell products from your store and different locations, such as branch stores, partner stores, or distribution centers ([endless aisle](/en/docs/tracks/endless-aisle)).
  - Suggest products based on the customer profile.
 
 - Offer instant delivery options, scheduled pickup, or delivery at the customer's location.

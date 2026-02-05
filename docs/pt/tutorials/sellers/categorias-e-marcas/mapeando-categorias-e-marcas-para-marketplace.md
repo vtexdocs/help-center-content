@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 24EN0qRBg4yK0uusGUGosu
 ---
 
-Quando uma loja atua como marketplace, é preciso ter em mente que o catálogo dos seus sellers tem uma estrutura totalmente independente da sua. Para compatibilizar as definições entre ambos catálogos, é necessário que seja feito o mapeamento de [categorias](/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), [marcas](/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh) e [especificações](/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) quando um seller:
+Quando uma loja atua como marketplace, é preciso ter em mente que o catálogo dos seus sellers tem uma estrutura totalmente independente da sua. Para compatibilizar as definições entre ambos catálogos, é necessário que seja feito o mapeamento de [categorias](/pt/docs/tracks/categorias-definicao-de-conceito), [marcas](/pt/docs/tracks/marcas-definicao-de-conceito) e [especificações](/pt/docs/tracks/especificacoes-definicao-de-conceito) quando um seller:
 
 - Envia seus produtos pela primeira vez  
 - Envia produtos com informações que ainda não foram mapeadas  
@@ -75,7 +75,7 @@ Faremos o mapeamento das categorias do seller, buscando a melhor correspondênci
 > ℹ️ Note que mais de uma categoria no catálogo do seller se encaixou na mesma categoria do marketplace (Feminino / Jeans). Nesse caso, duplique a linha correspondente em **Marketplace categories**, e cole os valores de *Unmapped categories* sent by seller em cada linha duplicada.
 
 ## Mapeamento de marcas
-Depois que o seller completar o [envio de produtos para o Marketplace](/pt/tutorial/entendendo-a-catalogacao-de-produtos-para-o-marketplace), é necessário que o marketplace faça o mapeamento de marcas. A correspondência entre marcas do marketplace e as marcas do seller é feita através de uma planilha.
+Depois que o seller completar o [envio de produtos para o Marketplace](/pt/docs/tutorials/entendendo-a-catalogacao-de-produtos-para-o-marketplace), é necessário que o marketplace faça o mapeamento de marcas. A correspondência entre marcas do marketplace e as marcas do seller é feita através de uma planilha.
 
 ### Preenchendo a planilha
 Você pode baixar o modelo atualizado da planilha no botão **Baixar tabela atual**, no seller adicionado, na página de Categorias e Marcas. A planilha contém as seguintes colunas: 
@@ -117,7 +117,7 @@ Note que nem todas as marcas do marketplace tiveram uma correspondência nesse c
 
 ## Mapeamento de Especificações
 
-Especificações são propriedades adicionais que podem ser cadastradas nos produtos ou SKUs da sua loja. Depois que o seller completar o [envio de produtos](/pt/tutorial/entendendo-a-catalogacao-de-produtos-para-o-marketplace), é necessário que o marketplace faça o mapeamento de especificações de produtos e SKUs. O mapeamento é feito manualmente, por meio da página de Categorias e Marcas, para apontar as equivalências entre os campos no marketplace e no seller. 
+Especificações são propriedades adicionais que podem ser cadastradas nos produtos ou SKUs da sua loja. Depois que o seller completar o [envio de produtos](/pt/docs/tutorials/entendendo-a-catalogacao-de-produtos-para-o-marketplace), é necessário que o marketplace faça o mapeamento de especificações de produtos e SKUs. O mapeamento é feito manualmente, por meio da página de Categorias e Marcas, para apontar as equivalências entre os campos no marketplace e no seller. 
 
 Quando um seller envia um produto com uma especificação que não foi mapeada pelo marketplace, e o marketplace [aprova](/pt/docs/tutorials/sugerindo-e-aprovando-skus) esse produto, um novo SKU é criado, apesar de já existir um SKU no catálogo do marketplace ao qual associá-lo. A especificação não mapeada (ex. cor) ou seu valor (ex. amarelo) será registrada como um **Atributo não estruturado** no catálogo do marketplace, mas **não aparecerá no storefront do marketplace**. Portanto, é necessário mapear todas as especificações e seus valores, para que elas sejam visíveis para os compradores. Você pode visualizar os Atributos não estruturados em seu Admin. Acesse *Catálogo > Produtos e SKUs > escolha um item da lista > clique na aba de Especificações*.
 
@@ -143,7 +143,7 @@ Faremos o mapeamento das especificações do seller, associando as especificaç�
 
 ### Especificações e aprovação de SKUs Recebidos
 
-O mapeamento de especificações é aplicado no site do marketplace de formas diferentes, dependendo da ação tomada no módulo [SKUs Recebidos](/pt/tutorial/sugerindo-e-aprovando-skus/), ao aprovar SKUs do seller:
+O mapeamento de especificações é aplicado no site do marketplace de formas diferentes, dependendo da ação tomada no módulo [SKUs Recebidos](/pt/docs/tutorials/sugerindo-e-aprovando-skus/), ao aprovar SKUs do seller:
 
 - __Associar a um SKU existente__: o mapeamento de especificações é desconsiderado pelo sistema do marketplace, pois o SKU já existe no marketplace com as mesmas especificações.   
 - __Associar a um produto existente:__ o mapeamento só é considerado para as especificações de SKU. Isso ocorre dado que as especificações de produto já estão presentes no marketplace.  
@@ -151,7 +151,7 @@ O mapeamento de especificações é aplicado no site do marketplace de formas di
 
 ## Saiba Mais
 
-- [Aprovar produtos](/pt/tutorial/sugerindo-e-aprovando-skus/)    
+- [Aprovar produtos](/pt/docs/tutorials/sugerindo-e-aprovando-skus/)    
 - [Criar política comercial](/pt/docs/tutorials/criar-uma-politica-comercial)    
 - [Política comercial para marketplaces](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace)    
 

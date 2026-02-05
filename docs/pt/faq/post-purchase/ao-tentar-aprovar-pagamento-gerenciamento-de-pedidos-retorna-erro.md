@@ -24,4 +24,4 @@ Para confirmar se o problema é este, na página de [detalhes do pedido](/pt/doc
 
 Caso haja um erro como "A reserva solicitada *00-abc* não pôde ser garantida para o pedido *00-xyz*", é porque algum dos SKUs incluídos no carrinho não tem estoque disponível, o que inviabiliza que a compra seja aprovada. Neste caso, corrigir o estoque deve permitir que o pedido siga seu fluxo.
 
-Saiba mais no artigo [Verificar detalhes de erros nos pedidos](/pt/faq/como-verificar-detalhes-de-erros-nos-pedidos).
+Saiba mais no artigo [Verificar detalhes de erros nos pedidos](/pt/docs/tutorials/como-verificar-detalhes-de-erros-nos-pedidos).

@@ -30,7 +30,7 @@ Cualquier cambio de status o modificación de información de un producto inicia
 - Creación o remoción del producto de una colección
 - Modificación del precio o cantidad de stock
 
-> ℹ️ Para más información sobre la indexación de un producto en tiendas de [CMS - Portal legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), consulta [Cómo funciona la indexación (CMS - Portal Legado)](/es/docs/tutorials/entendiendo-el-funcionamento-de-la-indexacion). Si tu tienda utiliza [Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), verifica el [Historial de indexación (Intelligent Search)](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH).
+> ℹ️ Para más información sobre la indexación de un producto en tiendas de [CMS - Portal legado](/es/docs/tracks/cms-portal-legado), consulta [Cómo funciona la indexación (CMS - Portal Legado)](/es/docs/tutorials/entendiendo-el-funcionamento-de-la-indexacion). Si tu tienda utiliza [Intelligent Search](/es/docs/tracks/vision-general-intelligent-search), verifica el [Historial de indexación (Intelligent Search)](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH).
 
 En ciertas situaciones, la indexación es interrumpida y no se muestra la información más actualizada del producto en la tienda. A continuación se mencionan algunos escenarios en los que se produce la interrupción:
 
@@ -95,9 +95,9 @@ Después de reorganizar la cantidad de SKUs por productos, verifica el informe d
 
 ### Remover SKUs de colecciones 
 
-> ℹ️ Hay dos maneras de remover un SKU de una colección: a través de [CMS - Portal Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) o en el módulo **Colecciones (Beta)**. Esta sección describe cómo remover un SKU de una colección mediante **CMS - Portal Legado**. Para más información sobre el procedimiento en el módulo **Colecciones (beta)**, consulta [Eliminación de productos](/es/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#remocao-de-produtos).  
+> ℹ️ Hay dos maneras de remover un SKU de una colección: a través de [CMS - Portal Legado](/es/docs/tracks/cms-portal-legado) o en el módulo **Colecciones (Beta)**. Esta sección describe cómo remover un SKU de una colección mediante **CMS - Portal Legado**. Para más información sobre el procedimiento en el módulo **Colecciones (beta)**, consulta [Eliminación de productos](/es/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#remocao-de-produtos).  
 
-Si alguno de los SKUs del producto forma parte de una [colección](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4hN41yU8IPeb8HKmmaXoca), también puede agotarse el tiempo límite de espera de la indexación. Para comprobar si el SKU forma parte de una o más colecciones, sigue los pasos a continuación:
+Si alguno de los SKUs del producto forma parte de una [colección](/es/docs/tracks/colecciones-definicion-del-concepto), también puede agotarse el tiempo límite de espera de la indexación. Para comprobar si el SKU forma parte de una o más colecciones, sigue los pasos a continuación:
 
 1. En el Admin VTEX, accede a __Storefront > Layout__.
 2. Haz clic en la carpeta __CMS__ y en __Product Cluster (Collections)__.

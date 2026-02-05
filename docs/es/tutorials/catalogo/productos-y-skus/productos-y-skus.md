@@ -62,8 +62,8 @@ Después de escribir la información en la barra de búsqueda, la barra se expan
 Puedes filtrar la lista de productos por los criterios que se listan a continuación, seleccionando los filtros y haciendo clic en `Aplicar`. Para cancelar la selección, haz clic en el filtro seleccionado y luego en `Limpiar`.
 
 * [Status](#filtrar-por-status)
-* [Marca](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh)
-* [Categoría](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
+* [Marca](/es/docs/tracks/marcas-definicion-de-concepto)
+* [Categoría](/es/docs/tracks/categorias-definicion-de-concepto)
 * [Seller](/es/docs/tutorials/que-es-un-seller)
 * [Kit](/es/docs/tutorials/que-es-un-kit)
 * [Visibilidad de la tienda](/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke?&utm_source=autocomplete)

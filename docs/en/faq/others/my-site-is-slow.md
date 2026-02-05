@@ -48,7 +48,7 @@ As a result, the page takes longer to load than it would need.
 
 Images larger than necessary are a usual cause of slowness.
 
-Understand this subject in depth by reading the article [Improving the performance of product images](/en/tutorial/improving-the-performance-of-product-images).
+Understand this subject in depth by reading the article [Improving the performance of product images](/en/docs/tutorials/improving-the-performance-of-product-images).
 
 ### Marketing tags, scripts, and extensions
 

@@ -30,7 +30,7 @@ O primeiro passo para configurar sua loja é [criar uma conta de seller na Casas
 
 Depois que receber o contato da Casas Bahia Marketplace, você deverá solicitar ao marketplace a chave de acesso (token) para começar a configurar a integração VTEX. Essa chave dá permissão para a VTEX alterar ou atualizar informações relacionadas à sua loja diretamente no marketplace.
 
-A chave de acesso será utilizada na etapa de [Cadastro do conector da Casas Bahia Marketplace](/pt/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY/1okse2MybWk04AQoueu88O). Sem esse token não será possível concluir a integração com a Casas Bahia Marketplace.
+A chave de acesso será utilizada na etapa de [Cadastro do conector da Casas Bahia Marketplace](/pt/docs/tracks/cadastro-da-integracao-da-via-varejo). Sem esse token não será possível concluir a integração com a Casas Bahia Marketplace.
 
 Existem três fluxos diferentes para configurar sua conta na Casas Bahia Marketplace. Veja abaixo em qual deles você se encaixa e faça download da documentação da Casas Bahia Marketplace:
 

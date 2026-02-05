@@ -181,7 +181,7 @@ Para utilizar esses filtros, clique em `Filtros` e selecione **Outros**. Você p
 - **Moeda:** exibe as moedas cadastradas na [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) e que foram utilizadas em pedidos.
 - **Nome do host:** exibe o seu [account name](/pt/docs/tutorials/o-que-e-account-name) (nome da conta), que é a identificação da sua empresa no sistema da VTEX.
 - **B2B:** selecione `true` para filtrar por pedidos feitos em lojas [B2B](/pt/docs/tutorials/b2b-visao-geral) ou `false` para pedidos feitos em outro modelo de negócio.
-- **inStore:** selecione `true` para filtrar por pedidos feitos utilizando [inStore](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) ou `false` para pedidos que não utilizaram inStore.
+- **inStore:** selecione `true` para filtrar por pedidos feitos utilizando [inStore](/pt/docs/tracks/o-que-e-o-vtex-sales-app) ou `false` para pedidos que não utilizaram inStore.
 - **Canal de entrega:** exibe qual o tipo de envio do pedido, se é uma entrega (delivery) ou uma retirada em [ponto de retirada](/pt/docs/tutorials/pontos-de-retirada) (pick-up-point). A opção de retirada aparece somente para lojas que configuraram esta funcionalidade.
 - **País:** exibe o país no qual o pedido foi realizado.
 - **Tem nota de devolução:** identifica se os pedidos apresentam nota de devolução - `true` - ou não - `false`.

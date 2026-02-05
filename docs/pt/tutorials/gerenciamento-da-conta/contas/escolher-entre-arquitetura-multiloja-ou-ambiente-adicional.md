@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 ---
 
-A plataforma VTEX permite a criação de arquiteturas diferentes para a sua loja, começando com a criação de uma conta principal, ou [account name](/pt/tutorial/o-que-e-account-name). É possível evoluir sua conta principal com outras opções de conta.
+A plataforma VTEX permite a criação de arquiteturas diferentes para a sua loja, começando com a criação de uma conta principal, ou [account name](/pt/docs/tutorials/o-que-e-account-name). É possível evoluir sua conta principal com outras opções de conta.
 
 Este artigo apresenta as diferenças entre arquitetura multiloja e ambiente adicional para que você identifique qual a mais adequada para diferentes cenários. 
 
@@ -23,13 +23,13 @@ Este artigo apresenta as diferenças entre arquitetura multiloja e ambiente adic
 
 ## Arquitetura multiloja (subconta / store)
 
-* O Admin VTEX será o mesmo, mas com [stores](/pt/tutorial/o-que-e-store-name) diferentes, e portanto com frentes de loja distintas na visão do comprador final.  
+* O Admin VTEX será o mesmo, mas com [stores](/pt/docs/tutorials/o-que-e-store-name) diferentes, e portanto com frentes de loja distintas na visão do comprador final.  
 * Esse recurso geralmente é utilizado quando a loja tem outras marcas mas existe uma similaridade de logística e métodos de pagamento ou quando a loja precisa de outro ambiente, por exemplo para diferentes públicos. 
 * Todos os módulos são compartilhados entre as stores, desde catálogo, promoções, sitemap, preços, configurações de pagamento e outros módulos, porém podem ser segmentados para condições de venda diferentes usando [políticas comerciais](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV?) e [bindings](/pt/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W#).
 
 ## Ambiente adicional (account)
 
-* Dois ambientes VTEX com [accounts](/pt/tutorial/o-que-e-account-name), ou contas principais, totalmente separadas entre si, onde cada um deles terá todos os seus módulos configurados de forma independente, expandindo as possibilidades de configuração e segmentação de condições de venda e experiência de compra. 
+* Dois ambientes VTEX com [accounts](/pt/docs/tutorials/o-que-e-account-name), ou contas principais, totalmente separadas entre si, onde cada um deles terá todos os seus módulos configurados de forma independente, expandindo as possibilidades de configuração e segmentação de condições de venda e experiência de compra. 
 * Note que o ambiente adicional mencionado neste artigo não é o mesmo que [conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia), que possui catálogo compartilhado com a conta principal mas não tem storefront próprio, por mais que a conta franquia também opere como um Admin VTEX à parte.
 
 ## Comparação entre arquitetura multiloja e ambiente adicional
@@ -38,7 +38,7 @@ A tabela abaixo apresenta como as diferentes arquiteturas se relacionam com mód
 
 | Aspecto | Arquitetura multiloja (store) | Arquitetura de ambientes adicionais |
 | - | - | - |
-| Arquitetura | Um único Admin VTEX ([account](/pt/tutorial/o-que-e-account-name)), com múltiplas subcontas ([stores](/pt/docs/tutorials/o-que-e-store-name)). | Dois ambientes ([accounts](/pt/tutorial/o-que-e-account-name)) separados do Admin VTEX. |
+| Arquitetura | Um único Admin VTEX ([account](/pt/docs/tutorials/o-que-e-account-name)), com múltiplas subcontas ([stores](/pt/docs/tutorials/o-que-e-store-name)). | Dois ambientes ([accounts](/pt/docs/tutorials/o-que-e-account-name)) separados do Admin VTEX. |
 | Segmentação de condições de venda | É possível segmentar as aplicações de catálogo, preços, pagamentos, promoções, entre outros módulos, usando [políticas comerciais](/pt/docs/tutorials/como-funciona-uma-politica-comercial) e [bindings](/pt/docs/tutorials/o-que-e-binding). | Pelo fato de serem dois ambientes separados, com configurações independentes, o lojista tem muito mais controle sobre as possibilidades de segmentação de condições de venda em diferentes cenários. |
 | Tipo de equipe | Recomendado quando uma mesma empresa e mesma equipe gerencia dois ou mais ecommerces com catálogos similares e itens em comum, mas que desejam oferecer storefronts diferentes para seus compradores acessarem experiências com marcas diferentes. | Recomendado quando equipes distintas da mesma empresa lidam com ecommerces diferentes. |
 | Storefront | Storefronts são diferentes para cada store, mas gerenciado por um mesmo Admin VTEX.Caso a intenção seja somente mudar o idioma do site, mas a operação da loja for a mesma, é possível utilizar o [multibinding](/pt/docs/tutorials/gerenciando-conteudo-por-binding) e [internacionalização do catálogo](https://developers.vtex.com/docs/guides/catalog-internationalization) para configuração em um mesmo ambiente VTEX.<br>Note que essa arquitetura é diferente de uma [conta-franquia](/pt/docs/tutorials/o-que-e-conta-franquia), pois essa conta não possui um site próprio. Os consumidores navegam diretamente no site da conta principal, que atua como marketplace nessa situação. | Cada account gerencia seus próprios storefronts em Admins VTEX separados, podendo utilizar todas as opções disponíveis de segmentação de storefronts. |

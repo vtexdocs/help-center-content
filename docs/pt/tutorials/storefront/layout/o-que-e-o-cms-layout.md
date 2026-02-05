@@ -24,7 +24,7 @@ A seção [Layout](/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) permite que v
 
 ## Sites and channels
 
-Se você ainda não criou um Web Site (ou deseja [criar um novo](/pt/tutorial/como-criar-um-web-site)), é nesse diretório que você deve ir primeiro. Se você já tem um Web Site, é aqui que você vai acessar e gerenciar toda a sua estrutura de pastas.
+Se você ainda não criou um Web Site (ou deseja [criar um novo](/pt/docs/tutorials/como-criar-um-web-site)), é nesse diretório que você deve ir primeiro. Se você já tem um Web Site, é aqui que você vai acessar e gerenciar toda a sua estrutura de pastas.
 
 **Sites and channels** é também o lugar onde você vai poder criar e organizar os layouts do seu site, como veremos mais à frente.
 
@@ -36,7 +36,7 @@ Se você ainda não criou um Web Site (ou deseja [criar um novo](/pt/tutorial/co
 
 Antes de começar a organizar o conteúdo do seu Web Site, ele precisa estar vinculado a um account name. Dessa forma, o sistema entende onde vão ser aplicadas todas as informações adicionadas ou modificadas nas pastas, arquivos ou código do Web Site.
 
-Esse é um processo fundamental para o perfeito funcionamento da sua loja, mas também é muito simples. Basta seguir os passos [deste artigo](/pt/tutorial/vincular-um-account-name-a-um-website-binding).
+Esse é um processo fundamental para o perfeito funcionamento da sua loja, mas também é muito simples. Basta seguir os passos [deste artigo](/pt/docs/tutorials/vincular-um-account-name-a-um-website-binding).
 
 ![Binding](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/o-que-e-o-cms-layout_1.png)
 
@@ -82,8 +82,8 @@ Para gerenciar os arquivos do seu Web Site, você pode acessar este diretório. 
 - [O que é binding?](/pt/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete)
 
 ### Artigos relacionados
-- [Como criar um web site](/pt/tutorial/como-criar-um-web-site)
-- [Vincular um account name a um web site (binding)](/pt/tutorial/vincular-um-account-name-a-um-website-binding)
+- [Como criar um web site](/pt/docs/tutorials/como-criar-um-web-site)
+- [Vincular um account name a um web site (binding)](/pt/docs/tutorials/vincular-um-account-name-a-um-website-binding)
 - [Lista de controles para templates](/pt/tutorial/lista-de-controles-para-templates)
 
 - [Criar e editar um template de página](/pt/docs/tutorials/como-criar-um-template-de-pagina)

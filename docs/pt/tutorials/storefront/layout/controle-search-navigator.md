@@ -21,7 +21,7 @@ O controle `<vtex.cmc:searchNavigator/>` renderiza um menu de filtros relacionad
 
 > ℹ️ Esse controle funciona **apenas em páginas com contexto de busca**, ou seja, páginas onde os resultados exibidos foram trazidos por uma busca do usuário.
 
-Quando o usuário faz uma busca na loja, o sistema da VTEX tenta trazer resultados de acordo com uma ordem de prioridade de filtros. [Entenda como funciona a busca aqui.](/pt/tutorial/como-funciona-a-busca-da-vtex)
+Quando o usuário faz uma busca na loja, o sistema da VTEX tenta trazer resultados de acordo com uma ordem de prioridade de filtros. [Entenda como funciona a busca aqui.](/pt/docs/tutorials/como-funciona-a-busca-da-vtex)
 
 Digamos, por exemplo que o resultado seja um contexto de categoria. Ou seja, o usuário buscou, por exemplo, pelo termo "Camisas", o sistema identificou que existe uma categoria com o nome "Camisas" e carregou a página dessa categoria - usando, portanto, o template de categoria. Se o controle Search Navigator está no código desse template, ele vai renderizar um menu com filtros na página.
 
@@ -50,7 +50,7 @@ Essa flag fica na tela de cadastro da categoria.
 
 ![searchNavigator1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/controle-search-navigator_2.jpg)
 
-> ℹ️ **Importante**: O controle `&lt;vtex.cmc:searchNavigator/&gt;` exibe, por padrão, apenas a categoria raiz (primeiro nível) e a subcategoria mais específica (último nível) dentro do contexto atual. Desdobramentos intermediários da árvore de categorias são omitidos. Além disso, o controle só funciona nos três primeiros níveis, que são tradicionalmente Departamento, Categoria e Subcategoria. Caso sua [arquitetura de catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) contenha subdivisões além do 3º nível, estas não serão exibidas usando o controle nativo.
+> ℹ️ **Importante**: O controle `&lt;vtex.cmc:searchNavigator/&gt;` exibe, por padrão, apenas a categoria raiz (primeiro nível) e a subcategoria mais específica (último nível) dentro do contexto atual. Desdobramentos intermediários da árvore de categorias são omitidos. Além disso, o controle só funciona nos três primeiros níveis, que são tradicionalmente Departamento, Categoria e Subcategoria. Caso sua [arquitetura de catálogo](/pt/docs/tracks/arquitetura-do-catalogo) contenha subdivisões além do 3º nível, estas não serão exibidas usando o controle nativo.
 
 ## Marcas
 
@@ -80,7 +80,7 @@ Ambas se encontram na tela de cadastro do campo.
 
 ## Faixas de preço
 
-Se você tem alguma [faixa de preço](/pt/tutorial/configurando-filtro-de-faixa-de-preco) configurada na loja, ela também funciona como filtro e, por padrão, é exibida no menu pelo controle Search Navigator.
+Se você tem alguma [faixa de preço](/pt/docs/tutorials/configurando-filtro-de-faixa-de-preco) configurada na loja, ela também funciona como filtro e, por padrão, é exibida no menu pelo controle Search Navigator.
 
 Por serem filtros cadastrados nas categorias, as faixas de preço somente são exibidas em páginas de departamento ou categoria.
 

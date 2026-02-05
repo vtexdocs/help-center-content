@@ -143,7 +143,7 @@ Atualmente, na plataforma VTEX você encontra os seguintes marketplaces:
 - [Google Shopping](/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw)  
 - [Google Shopping Ads](/pt/tracks/como-fazer-campanhas-atraves-do-google-ads--47kz5PRQPK0IEaqGqiIuA)  
 - [Tik Tok](/pt/tracks/integracao-com-o-tiktok--1r0yJSO11nrer1YVu3WTFd)  
-- [Livelo](/pt/tracks/integracao-livelo--4ZSHEiuTkh8HR9ubJQj8BP/5rhGcaM0SedoK7lDMBkVFD)  
+- [Livelo](/pt/docs/tracks/visao-geral-da-integracao-com-a-livelo)  
 - Kabum  
 - Grupo LTM  
 - TudoAzul  

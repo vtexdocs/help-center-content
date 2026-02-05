@@ -19,7 +19,7 @@ tags:
   - Pricing
 ---
 
-A product price is sent to the marketplace after two steps: [pricing configuration in the seller's store](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) and product cataloging. If one of these processes is not performed, the seller's product price will not be available on the marketplace.  
+A product price is sent to the marketplace after two steps: [pricing configuration in the seller's store](/en/docs/tracks/prices-module-overview) and product cataloging. If one of these processes is not performed, the seller's product price will not be available on the marketplace.  
 
 ## Solution
 
@@ -27,13 +27,13 @@ To solve the problem, you must first identify which of the processes contains th
 
 ### Price module configuration
 
-The [Price module configuration](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) is where the seller creates, edits, and stores the price data for the SKUs sold in their store.  
+The [Price module configuration](/en/docs/tracks/prices-module-overview) is where the seller creates, edits, and stores the price data for the SKUs sold in their store.  
 
 See the table below for possible error messages related to price settings and the actions required to fix them.  
 
 |**Error message**|**Meaning**|**Required action**|
 |:--:|:--:|:--:|
-|Sale price cannot be updated to 29,99. Can not offer more then 70% off.| The seller cannot give more than 70% off the [base price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) of a product.| Change the discount price to a value within the percentage required by the marketplace.| 
+|Sale price cannot be updated to 29,99. Can not offer more then 70% off.| The seller cannot give more than 70% off the [base price](/en/docs/tracks/preco-base-definicao-de-conceito) of a product.| Change the discount price to a value within the percentage required by the marketplace.| 
 |Check if the SKU has a price set for this policy or if the price has expired.|The SKU price has not been added to the [trade policy](/en/docs/tutorials/how-trade-policies-work) used in the integration with the marketplace, or it has expired.| Add the SKU price to the trade policy used to integrate the store with the marketplace.|
 
 ### Product cataloging

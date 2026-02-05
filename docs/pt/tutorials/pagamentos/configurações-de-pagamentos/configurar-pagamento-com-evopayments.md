@@ -30,7 +30,7 @@ Para configurar a EVO Payments, siga os passos abaixo:
 9. Em **Habilitar plan Iphone For Life**, selecione se deseja ativar esta opção.
 10. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela EVO Payments, acesse [Configurar condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela EVO Payments, acesse [Configurar condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

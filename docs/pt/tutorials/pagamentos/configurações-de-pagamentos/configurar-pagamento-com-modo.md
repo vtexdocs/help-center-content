@@ -28,7 +28,7 @@ Para configurar MODO, siga os passos abaixo:
 7. Em __Campos do provedor__, selecione ou preencha os campos __User__ e __Store ID__ conforme orientações do provedor.
 8. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela MODO, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela MODO, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

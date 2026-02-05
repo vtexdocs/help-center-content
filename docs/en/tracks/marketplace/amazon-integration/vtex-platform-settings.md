@@ -17,7 +17,7 @@ order: 4
 
 Once you have completed all the configurations on the Amazon platform, we will start the configurations on the VTEX platform.
 
-During the entire configuration process on the VTEX platform, always have the provided credentials and identifiers at hand. The [Seller ID and the MWS authorization token](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/43L0dpbjLBz6tcim1BbTzf), for example, are essential for configuring the integration on the VTEX platform.
+During the entire configuration process on the VTEX platform, always have the provided credentials and identifiers at hand. The [Seller ID and the MWS authorization token](/en/docs/tracks/amazon-account-settings), for example, are essential for configuring the integration on the VTEX platform.
 
 ## Defining the trade policy in Amazon
 

@@ -36,7 +36,7 @@ Next, you must configure a printer connected to VTEX Sales App to print order su
 To pair VTEX Sales App with a printer, the following prerequisites must be met:
 
 * Using computer with Windows 7 or higher operating system.
-* Having VTEX Sales App installed on your computer. If you do not have it, you must install the app by following our [Installation](/en/tracks/instore-using-the-app--4BYzQIwyOHvnmnCYQgLzdr/2rPSJ8519UCCZo5uEBkqxh) guide.
+* Having VTEX Sales App installed on your computer. If you do not have it, you must install the app by following our [Installation](/en/docs/tracks/installation) guide.
 * Obtaining a pair of credentials (AppKey and AppToken) with the corresponding access permissions. For more information, please refer to the article [Application keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet).
 
 > ℹ️ We recommend that the access profile associated with these credentials be the **VTEX Sales App Sales Person**. However, you can also use a profile with access to other Admin modules, such as **Super Admin**.

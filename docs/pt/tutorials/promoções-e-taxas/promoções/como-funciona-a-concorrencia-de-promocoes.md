@@ -34,7 +34,7 @@ Para que você entenda como funciona a seleção da promoção que será aplicad
 
 Os efeitos de promoções são relacionados ao benefício que a promoção oferece. Existem quatro tipos:
 
-- **Desconto no preço**: são as promoções que aplicam um desconto percentual ou nominal sobre o valor do produto. Aqui, estão incluídos alguns descontos da [promoção regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) e qualquer outra mecânica que incida sobre o preço de um item.  
+- **Desconto no preço**: são as promoções que aplicam um desconto percentual ou nominal sobre o valor do produto. Aqui, estão incluídos alguns descontos da [promoção regular](/pt/docs/tracks/criar-promocao-regular) e qualquer outra mecânica que incida sobre o preço de um item.  
 - **Desconto no frete**: são as [promoções com desconto no frete](/pt/docs/tutorials/configurar-promocoes-de-frete).  
 - **Brinde**: são as promoções que concedem um brinde ao cliente.  
 - **Fórmula**: são as promoções com tipo de desconto nominal baseado em [fórmula](/pt/docs/tutorials/promocao-regular-com-desconto-nominal-baseado-em-formula), que é uma das opções da promoção regular.

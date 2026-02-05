@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-The Warehouse assignment feature allows VTEX sellers using the [**Premium** integration](/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/51oWBHvVxSs8eAwLQhSbSd) with Mercado Libre to associate multiple VTEX warehouses with different Mercado Libre warehouses.  
+The Warehouse assignment feature allows VTEX sellers using the [**Premium** integration](/en/docs/tracks/mercado-libre-marketplace) with Mercado Libre to associate multiple VTEX warehouses with different Mercado Libre warehouses.  
 
 > ℹ️ Only sellers with accounts enabled by Mercado Libre can use this feature.  
 

@@ -38,7 +38,7 @@ En este momento, el boleto aún no ha sido pagado por el cliente.
 ![Frame 2.1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visión-de-conjunto-de-pagos/boleto-bancario-registrado-flujo_2.png)
 
 1. El __Cliente__ paga el boleto directamente al __Banco__.
-2. El banco envía al __Gateway__ los archivos de [conciliación bancaria](/es/tutorial/conciliaciones-bancarias) con la información sobre el estado de pago de los boletos.
+2. El banco envía al __Gateway__ los archivos de [conciliación bancaria](/es/docs/tutorials/conciliaciones-bancarias) con la información sobre el estado de pago de los boletos.
 3. El gateway notifica su __e-Commerce__ sobre los boletos pagados.
 
 En esta etapa, la entrega del pedido ya puede proseguir normalmente.

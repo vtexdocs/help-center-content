@@ -45,7 +45,7 @@ Para solucionar esse erro, veja as instruções a seguir:
 
 ### Verificar a integração de busca
 
-Esse problema pode estar relacionado ao fato de a busca do [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) não estar integrada ao catálogo de sua loja. Siga os passos abaixo para integrá-la à sua loja:
+Esse problema pode estar relacionado ao fato de a busca do [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) não estar integrada ao catálogo de sua loja. Siga os passos abaixo para integrá-la à sua loja:
 
 1. No VTEX Admin, acesse **Configurações da loja > Intelligent Search > Integrações**.
 2. Na página **Integrações**, todos os status devem estar ticados, como na imagem a seguir. 

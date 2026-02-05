@@ -23,9 +23,9 @@ Por estándar, las tiendas VTEX vienen con HTTPS activado solamente en las pági
 
 Para ello, debemos:
 
-1. Cumplir los [requisitos](/es/tutorial/activar-https-en-todo-el-sitio#requisitos);
-2. [Verificar si el sitio funciona en HTTPS](/es/tutorial/activar-https-en-todo-el-sitio#verificar-si-el-sitio-funciona-em-https);
-3. [Activar el HTTPS en las páginas](/es/tutorial/activar-https-en-todo-el-sitio#activar-el-https-en-las-paginas).
+1. Cumplir los [requisitos](/es/docs/tutorials/activar-https-en-todo-el-sitio#requisitos);
+2. [Verificar si el sitio funciona en HTTPS](/es/docs/tutorials/activar-https-en-todo-el-sitio#verificar-si-el-sitio-funciona-em-https);
+3. [Activar el HTTPS en las páginas](/es/docs/tutorials/activar-https-en-todo-el-sitio#activar-el-https-en-las-paginas).
 
 ## Requisitos 
 
@@ -54,7 +54,7 @@ Cualquier caso de contenido mixto lo reportará el navegador. Las requisiciones 
 
 Luego de cotejar y adecuar (de ser necesario) todo el layout, páginas y recursos del sitio, ya podemos habilitar el HTTPS sin tener problemas. 
 
-Todas las páginas del sitio deben modificarse individualmente conforme al artículo [Cómo modificar el protocolo HTTP o HTTPS de las páginas de mi sitio](/es/tutorial/como-usar-el-protocolo-https-en-la-tienda). Notar que todas las páginas del checkout ya vienen con HTTPS activo por estándar. 
+Todas las páginas del sitio deben modificarse individualmente conforme al artículo [Cómo modificar el protocolo HTTP o HTTPS de las páginas de mi sitio](/es/docs/tutorials/como-usar-el-protocolo-https-en-la-tienda). Notar que todas las páginas del checkout ya vienen con HTTPS activo por estándar. 
 
 Es posible cambiar el protocolo en todas las carpetas de una sola vez con el uso de nuestra API, documentada [en esta colección de Postman](https://developers.vtex.com/docs/api-reference/legacy-cms-portal-api).
 

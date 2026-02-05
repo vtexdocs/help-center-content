@@ -25,7 +25,7 @@ With that, you’ll be able to implement an Endless Aisle strategy, which helps 
 
 - Avoid stockout and never miss a sale.
 - Have real-time visibility of your inventory.
-- Benefit from an intelligent search and items lookup, when [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) is installed on the website. .
+- Benefit from an intelligent search and items lookup, when [Intelligent Search](/en/docs/tracks/overview-intelligent-search) is installed on the website. .
 - Build mixed cart transactions.
 
 Finally, with VTEX Sales App, the purchasing process becomes faster, both while adding products to the cart and during payment and confirmation.

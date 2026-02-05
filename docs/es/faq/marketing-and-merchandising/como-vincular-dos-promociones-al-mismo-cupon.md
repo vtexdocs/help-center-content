@@ -18,7 +18,7 @@ Si es necesario, es posible crear un [cupón](tutorial/crear-cupon-de-descuento)
 
 El más común es que ese valor sea relativo a dos cantidades: el precio nominal del producto y el envío.
 
-Por eso, es necesario crear dos [promociones regulares](/es/tutorial/registro-promocion-regular) relacionadas con el mismo cupón:
+Por eso, es necesario crear dos [promociones regulares](/es/docs/tutorials/registro-promocion-regular) relacionadas con el mismo cupón:
 
 - Una promoción de envío gratis.
 - Una promoción de descuento de valor nominal.

@@ -19,7 +19,7 @@ The VTEX promotion module allows you to create different promotions, from the mo
 
 ## Promotions available on marketplaces
 
-Only the following [regular promotions](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) work on marketplaces:
+Only the following [regular promotions](/en/docs/tracks/creating-regular-promotions) work on marketplaces:
 
 - Free shipping
 - Percentage shipping
@@ -122,14 +122,14 @@ If necessary, you can segment promotions for specific marketplaces. You can obta
 
 ### Selection by trade policy
 
-1. Create a [regular promotion](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+1. Create a [regular promotion](/en/docs/tracks/creating-regular-promotions).
 2. In the **Sales Policy** section, select the **Equal to** and **Delivered by me (Other stores)** options.
 3. Select the trade policies. 
 4. Click on `Save`.
 
 ### Selection by affiliates
 
-1. Create a [regular promotion](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+1. Create a [regular promotion](/en/docs/tracks/creating-regular-promotions).
 2. Fill in the **Affiliates** field with the name of the affiliate related to the marketplace in question.
 3. In the **Sales Policy** section, select the **Equal to** and **Delivered by me (Other stores)** options.
 4. Click on `Save`.

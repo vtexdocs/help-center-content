@@ -27,7 +27,7 @@ Go-live é o momento a partir do qual a loja encontra-se disponível para que cl
 
 ## Antes de começar
 
-Para preparar uma loja para o go-live, é importante já ter definido a equipe ou [agência parceira](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao) responsável pela implementação, ter escolhido os [tipos de conta VTEX](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex) de acordo com o tipo de operação e ter planejado a arquitetura da loja. Mais informações sobre essas etapas podem ser encontradas no artigo [Contas e arquitetura](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl).
+Para preparar uma loja para o go-live, é importante já ter definido a equipe ou [agência parceira](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao) responsável pela implementação, ter escolhido os [tipos de conta VTEX](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex) de acordo com o tipo de operação e ter planejado a arquitetura da loja. Mais informações sobre essas etapas podem ser encontradas no artigo [Contas e arquitetura](/pt/docs/tracks/contas-e-arquitetura).
 
 ## 1. Preparação para o go-live
 
@@ -73,7 +73,7 @@ Assim que as configurações internas da lojas forem concluídas, será preciso 
 
 > ⚠️ A partir do momento em que a conta entra em produção, todos os pedidos serão cobrados automaticamente e o [Take Rate](/pt/tutorial/compreenda-o-valor-da-receita-aprovada--tutorials_4322#valores-da-receita-aprovada) será aplicado de acordo com o plano contratado com a VTEX. Isso inclui pedidos realizados no domínio `{nomedaloja}.myvtex.com`, mesmo que tenham sido realizados para testes.
 
-Para obter mais informações, basta consultar o artigo [Configurações](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7wFsbWgN4rnZsbjhv8IItX), parte da trilha detalhada sobre [Go-live](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/1iP90RcJvlrfQhnlxM54wo).
+Para obter mais informações, basta consultar o artigo [Configurações](/pt/docs/tracks/configuracoes), parte da trilha detalhada sobre [Go-live](/pt/docs/tracks/processo-de-go-live).
 
 ## 4. Testes antes do go-live
 
@@ -123,7 +123,7 @@ Após a conclusão dos testes e ajustes necessários, é preciso preparar a loja
     </tr>
     <tr class="bb b--muted-3">
       <td class="t-body pa5" style="min-width: 10rem;">CMS Portal (Legado)</td>
-      <td class="t-body pa5" style="min-width: 10rem;">Se o acesso à loja é restrito por [política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) com regra condicional e sua frente de loja foi construída com [CMS Portal (Legado)](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), é preciso solicitar um [apontamento interno especial](/pt/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-especial). Um exemplo comum são as lojas B2B, que restringem o acesso a empresas pré-aprovadas. A solicitação de apontamento especial é feita pelo [Suporte VTEX](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ/), indicando a política comercial e a regra condicional configurada.</td>
+      <td class="t-body pa5" style="min-width: 10rem;">Se o acesso à loja é restrito por [política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) com regra condicional e sua frente de loja foi construída com [CMS Portal (Legado)](/pt/docs/tracks/cms-portal-legado), é preciso solicitar um [apontamento interno especial](/pt/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-especial). Um exemplo comum são as lojas B2B, que restringem o acesso a empresas pré-aprovadas. A solicitação de apontamento especial é feita pelo [Suporte VTEX](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ/), indicando a política comercial e a regra condicional configurada.</td>
     </tr>
   </tbody>
   </table>
@@ -131,7 +131,7 @@ Após a conclusão dos testes e ajustes necessários, é preciso preparar a loja
 Independente do tipo de solicitação a ser encaminhada, o ticket para o Suporte VTEX deve conter as seguintes informações:
 
 - Título informando a intenção de realizar o go-live.
-- Se a [tecnologia de frente de loja](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) foi desenvolvida em VTEX IO ou CMS Portal (Legado).
+- Se a [tecnologia de frente de loja](/pt/docs/tracks/implementacao-de-frontend) foi desenvolvida em VTEX IO ou CMS Portal (Legado).
 - URL a ser apontada.
 - Horário para o apontamento interno ocorrer, entre 9 e 17 BRT (UTC-3).
 - Informar se a loja tem regras condicionais de [políticas comerciais](/pt/docs/tutorials/criar-uma-politica-comercial).

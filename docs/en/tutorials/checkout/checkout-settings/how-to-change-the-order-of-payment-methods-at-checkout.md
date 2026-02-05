@@ -23,7 +23,7 @@ There are to ways to change the display order of your store’s payment methods 
 
 ## How Sorting Works
 
-In general, the display of [payment conditions](/en/tutorial/how-to-configure-payment-conditions) at checkout is defined by the order in which they were registered in the Admin's Payments section. In other words, the payment option that has been active the longest in your store will be the first one displayed to your customer. 
+In general, the display of [payment conditions](/en/docs/tutorials/how-to-configure-payment-conditions) at checkout is defined by the order in which they were registered in the Admin's Payments section. In other words, the payment option that has been active the longest in your store will be the first one displayed to your customer. 
 
 But changing this ordering is simple. First, deactivate the pre-established payment conditions. You can then arrange the payment methods the way you prefer, and then the conditions again.
 

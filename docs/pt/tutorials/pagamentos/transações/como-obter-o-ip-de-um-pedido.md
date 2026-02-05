@@ -27,7 +27,7 @@ O IP pode ser visualizado na parte superior direita:
 
 ![ip pedido2 PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transações/como-obter-o-ip-de-um-pedido_2.png)
 
-Veja mais detalhes em: [Como visualizar detalhe do pedido](/pt/tutorial/como-visualizar-detalhes-do-pedido)
+Veja mais detalhes em: [Como visualizar detalhe do pedido](/pt/docs/tutorials/como-visualizar-detalhes-do-pedido)
 
 ## Obter o IP por API
 

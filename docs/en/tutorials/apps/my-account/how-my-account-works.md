@@ -142,7 +142,7 @@ However, there are limitations for stores using [3DS](/en/docs/tutorials/what-is
 
 * For marketplaces, the `Save card` option in the **Credit cards** section will not be available if the payment condition for that credit card is associated only with the [white label seller](/en/docs/tutorials/white-label-seller). This is because the credit card validation occurs directly on the main account, through a test transaction that charges an amount of 1.50 USD on the given card. This amount is refunded after the card is verified.
 
-    So, to save a credit card, the credit card [payment condition](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) also needs to be associated with the main account, in this case, the Marketplace.
+    So, to save a credit card, the credit card [payment condition](/en/docs/tracks/configuring-a-payment-condition) also needs to be associated with the main account, in this case, the Marketplace.
 
 ## Subscriptions
 

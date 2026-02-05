@@ -15,7 +15,7 @@ trackSlugEN: configurar-integracion-con-mercado-libre
 order: 3
 ---
 
-En VTEX, la [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) es lo que determina el surtido de productos, los precios y la estrategia de envío en un canal de venta. Es decir, a través de la política comercial se puede definir la configuración que se aplicará a sus productos en Mercado Libre. En la integración con Mercado Libre, es necesario tener una política comercial diferente para cada [tipo de anuncio](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/2MR2USqcvDGaoAkGNdCfGi).
+En VTEX, la [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) es lo que determina el surtido de productos, los precios y la estrategia de envío en un canal de venta. Es decir, a través de la política comercial se puede definir la configuración que se aplicará a sus productos en Mercado Libre. En la integración con Mercado Libre, es necesario tener una política comercial diferente para cada [tipo de anuncio](/es/docs/tracks/tipos-de-anuncios-clasico-y-premium).
 
 Si se utiliza la misma configuración de catálogo, precio y estrategia de envío de su tienda VTEX en Mercado Libre, no es necesario [crear una nueva política comercial](/es/docs/tutorials/crear-una-politica-comercial). Se puede utilizar la misma política comercial para diferentes canales de venta.
 

@@ -15,16 +15,16 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-Placeholders are snippets of code that can be used in any layout and accept display conditions. In other words, they are predefined elements that need to be configured so that they can be displayed to the users of your [web site](/en/tutorial/what-is-a-web-site).
+Placeholders are snippets of code that can be used in any layout and accept display conditions. In other words, they are predefined elements that need to be configured so that they can be displayed to the users of your [web site](/en/docs/tutorials/what-is-a-web-site).
 
-To do this, you need to use the [layouts](/en/tutorial/what-are-layouts). These are the ones that will indicate the type of placeholder (and the file from which it will pull the content), allowing the code to reference this information and display it on the pages. 
+To do this, you need to use the [layouts](/en/docs/tutorials/what-are-layouts). These are the ones that will indicate the type of placeholder (and the file from which it will pull the content), allowing the code to reference this information and display it on the pages. 
 
-We have, therefore, a chain that involves: the configuration of the placeholder in the layout and the connection of the latter with a [template](/en/tutorial/what-are-templates) (repository of the code that structures a certain page).
+We have, therefore, a chain that involves: the configuration of the placeholder in the layout and the connection of the latter with a [template](/en/docs/tutorials/what-are-templates) (repository of the code that structures a certain page).
 
 The types of configurable placeholders are: Banner, DHTML Banner, Collection and HTML.
 
 ### Related articles
 - [What is CMS?](/en/faq/what-is-cms)
-- [What is a web site?](/en/tutorial/what-is-a-web-site)
-- [What are layouts?](/en/tutorial/what-are-layouts)
-- [What are templates?](/en/tutorial/what-are-templates)
+- [What is a web site?](/en/docs/tutorials/what-is-a-web-site)
+- [What are layouts?](/en/docs/tutorials/what-are-layouts)
+- [What are templates?](/en/docs/tutorials/what-are-templates)

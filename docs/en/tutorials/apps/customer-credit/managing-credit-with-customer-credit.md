@@ -25,7 +25,7 @@ In this article, we’ll suggest an implementation flow for Customer Credit in B
 
 ## Selecting your customers
 
-First of all, you must download Customer Credit at [VTEX App Store](https://apps.vtex.com/) and [configure it](/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/21ok0GBwmcIeaY2IukYMOg) in your store.
+First of all, you must download Customer Credit at [VTEX App Store](https://apps.vtex.com/) and [configure it](/en/docs/tracks/setting-up-the-app) in your store.
 
 The next step is to select the customers to whom you want to offer credit.
 
@@ -58,7 +58,7 @@ This process can be performed either by a credit department or by software compa
 
 ## Adding accounts through the app
 
-Now that your customers have been selected, it is possible to [create their Customer Credit accounts](/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU).
+Now that your customers have been selected, it is possible to [create their Customer Credit accounts](/en/docs/tracks/creating-accounts).
 
 Currently, stores can carry out this operation in three different ways:
 - Base registration through the [Customer Credit API](https://developers.vtex.com/docs/api-reference/customer-credit-api).
@@ -87,6 +87,6 @@ If a store works with external credit management in its ERP system, we recommend
 
 Another differential of the API is that the operation adds the account and at the same time grants a limit to it.
 
-On our [Introduction to Customer Credit track](/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU), you can check out a tutorial on how to add an account through each of these methods.
+On our [Introduction to Customer Credit track](/en/docs/tracks/creating-accounts), you can check out a tutorial on how to add an account through each of these methods.
 
-The next step after the initial configuration is [managing the accounts](/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/4eknoeqaj6EGC20amsm6Gc), with the aim of ensuring a healthy credit flow.
+The next step after the initial configuration is [managing the accounts](/en/docs/tracks/managing-accounts), with the aim of ensuring a healthy credit flow.

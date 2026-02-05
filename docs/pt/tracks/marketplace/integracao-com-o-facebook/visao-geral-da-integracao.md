@@ -28,12 +28,12 @@ O Gerenciador de Negócios, também conhecido como Business Manager, é uma ferr
 
 Os próximos passos para integrar sua loja VTEX ao Facebook são:
 
-1. [Definir política comercial](/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/747gwmk5oMkyb6FtwLo17B).
-2. [Configurar conector](/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/5OP69kHWKca01wLH0w10jX).
-3. [Autenticar conta](/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/41qzoa7TWIYTyIhABHdgzI).
+1. [Definir política comercial](/pt/docs/tracks/definicao-da-politica-comercial).
+2. [Configurar conector](/pt/docs/tracks/configuracao-do-conector-facebook).
+3. [Autenticar conta](/pt/docs/tracks/envio-de-produtos-para-o-facebook).
 
 Após a realização dessas etapas, a integração terá sido concluída. Entretanto, atributos de produtos não terão sido enviados.
 
 > ℹ️ Se for do seu interesse enviar os atributos dos seus produtos para o Facebook, é necessário fazer um mapeamento por planilha das categorias e atributos. Este mapeamento é opcional, mas se realizado deve seguir todas as etapas descritas. Caso contrário, podem ocorrer erros na integração.
 
-Os passos necessários para efetuar o mapeamento de categorias e atributos estão descritos adiante no artigo [Envio de produtos para o Facebook](/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/41qzoa7TWIYTyIhABHdgzI).
+Os passos necessários para efetuar o mapeamento de categorias e atributos estão descritos adiante no artigo [Envio de produtos para o Facebook](/pt/docs/tracks/envio-de-produtos-para-o-facebook).

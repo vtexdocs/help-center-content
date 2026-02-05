@@ -21,7 +21,7 @@ Políticas comerciais informam quais conteúdos podem ser renderizados em um web
 
 Como saber quais políticas comerciais estão elegíveis para um website? 
 
-Esta elegibilidade é determinada na configuração do __binding__ do website. [Neste artigo](/pt/tutorial/vincular-um-account-name-a-um-website-binding), no __passo 8__, temos a explicação de como se vincula uma política comercial a um website. 
+Esta elegibilidade é determinada na configuração do __binding__ do website. [Neste artigo](/pt/docs/tutorials/vincular-um-account-name-a-um-website-binding), no __passo 8__, temos a explicação de como se vincula uma política comercial a um website. 
 
 A seguir, vamos ver as regras de marcação de elegibilidade:
 

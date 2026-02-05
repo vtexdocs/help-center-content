@@ -57,5 +57,5 @@ Las colecciones híbridas poseen características manuales y automáticas. Su ve
 
 Se pueden agregar ítems de forma manual y configurar filtros automáticos en la colección. Esta puede ser creada y editada en el CMS, así como en el módulo de Colecciones Beta. 
 
-Para configurar las colecciones híbridas, acceda a los artículos [Registrar Colecciones por el CMS](/es/docs/tutorials/registrar-una-coleccion-cms) y [Crear Colecciones Beta](/es/tutorial/registrar-colecciones-beta).
+Para configurar las colecciones híbridas, acceda a los artículos [Registrar Colecciones por el CMS](/es/docs/tutorials/registrar-una-coleccion-cms) y [Crear Colecciones Beta](/es/docs/tutorials/registrar-colecciones-beta).
 

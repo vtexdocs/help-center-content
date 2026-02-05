@@ -29,7 +29,7 @@ Concluída a etapa de autenticação da sua conta, o envio de produtos para o Fa
 
 A atualização é automática, realizada sempre que há modificação em algum dos dados. Vale ressaltar que o valor _moeda_ é definido na política comercial, e que _disponibilidade_ se refere apenas se há produtos disponíveis ou não, pois não há controle de estoque. Para mais informações, veja [Como funciona a disponibilidade de estoque na página de produto](/pt/docs/tutorials/como-funciona-a-disponibilidade-de-estoque-na-pagina-de-produto).
 
-Caso você queira enviar atributos de produtos para o Facebook, existe uma etapa adicional a ser realizada. Atributos são [especificações](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) de produto, ou seja, propriedades que podem tanto estar cadastradas para produto, quanto para SKU.
+Caso você queira enviar atributos de produtos para o Facebook, existe uma etapa adicional a ser realizada. Atributos são [especificações](/pt/docs/tracks/especificacoes-definicao-de-conceito) de produto, ou seja, propriedades que podem tanto estar cadastradas para produto, quanto para SKU.
 
 A etapa adicional é a realização de um mapeamento das especificações dos produtos. O mapeamento é o que faz a correspondência entre os atributos cadastrados na sua loja VTEX e os padrões adotados pelo Facebook.
 

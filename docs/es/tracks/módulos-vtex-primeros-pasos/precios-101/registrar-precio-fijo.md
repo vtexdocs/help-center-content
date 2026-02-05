@@ -18,7 +18,7 @@ order: 10
 Hay tres maneras de registrar un precio fijo:
 
 - [A través del módulo de Precios en el Admin](#admin)
-- [Mediante una plantilla de precios fijos](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D)
+- [Mediante una plantilla de precios fijos](/es/docs/tracks/exportacion-e-importacion-mediante-la-plantilla-de-precios)
 - [Mediante la Pricing API](#pricing-api)
 
 ## Admin 

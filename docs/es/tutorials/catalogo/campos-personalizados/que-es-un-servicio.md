@@ -23,6 +23,6 @@ Un servicio es un ítem, opcional y con coste, que puede venir acompañando un p
 Si su producto comprado es una Camisa de la Selección Brasileña, el nombre de su Servicio puede ser __Embalaje de Regalo__, y ser exhibido durante el flujo de pedido en la pantalla que usted elija: producto, carrito o servicio.
 
 ### Artículos relacionados
-- [¿Qué es un anexo?](/es/tutorial/que-es-un-anexo)
+- [¿Qué es un anexo?](/es/docs/tutorials/que-es-un-anexo)
 - [Registrar un anexo](/es/docs/tutorials/registrar-un-anexo)
 - [Crear servicio para un SKU](/es/tutorial/criando-servico-para-um-sku)

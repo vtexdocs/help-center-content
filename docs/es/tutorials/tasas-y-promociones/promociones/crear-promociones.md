@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Una promoción es un descuento concedido sobre el valor de la compra del cliente. Este descuento puede estar asociado a uno o varios productos, al costo de envío o a un regalo, por ejemplo. Existen los siguientes tipos de promoción en VTEX: [Regular](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Comprar Juntos](/es/docs/tutorials/comprar-juntos-registro-de-promocion), [Más por Menos](/es/docs/tutorials/mas-por-menos), [Descuento Progresivo](/es/docs/tutorials/descuento-progresivo), [Comprar y Obtener](/es/docs/tutorials/como-funciona-la-promocion-compre-y-gane)y [Promoción de Campaña](/es/docs/tutorials/promocion-de-campana). 
+Una promoción es un descuento concedido sobre el valor de la compra del cliente. Este descuento puede estar asociado a uno o varios productos, al costo de envío o a un regalo, por ejemplo. Existen los siguientes tipos de promoción en VTEX: [Regular](/es/docs/tracks/crear-promocion-regular), [Comprar Juntos](/es/docs/tutorials/comprar-juntos-registro-de-promocion), [Más por Menos](/es/docs/tutorials/mas-por-menos), [Descuento Progresivo](/es/docs/tutorials/descuento-progresivo), [Comprar y Obtener](/es/docs/tutorials/como-funciona-la-promocion-compre-y-gane)y [Promoción de Campaña](/es/docs/tutorials/promocion-de-campana). 
 
 En este artículo, encontrarás el paso a paso para realizar las siguientes acciones:
 
@@ -28,7 +28,7 @@ En este artículo, encontrarás el paso a paso para realizar las siguientes acci
   - [Archivar promoción](#archivar-promocion)
 
 ## Registrar promoción 
-Sigue el tutorial a continuación para crear una [promoción regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+Sigue el tutorial a continuación para crear una [promoción regular](/es/docs/tracks/crear-promocion-regular).
 
  1. Ve al módulo __Promociones__.
  2. Haz clic en __Promociones__.

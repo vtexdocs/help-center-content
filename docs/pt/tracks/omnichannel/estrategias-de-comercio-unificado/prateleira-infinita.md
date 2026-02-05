@@ -21,13 +21,13 @@ Esse é um conceito básico de estratégias Omnichannel, e essencial para a real
 
 ## Pré-requisitos
 
-Antes de mais nada, verifique os pré-requisitos que sua loja precisa garantir para iniciar a implementação de uma estratégia de Prateleira Infinita. Para isso, confira o artigo [Pré-requisitos para usar o VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u).
+Antes de mais nada, verifique os pré-requisitos que sua loja precisa garantir para iniciar a implementação de uma estratégia de Prateleira Infinita. Para isso, confira o artigo [Pré-requisitos para usar o VTEX Sales App](/pt/docs/tracks/pre-requisitos-para-usar-o-vtex-sales-app).
 
 ## Cadastrar lojas físicas no VTEX Sales App
 
 Para implementar uma estratégia de Prateleira Infinita, você deve cadastrar suas lojas físicas na plataforma da VTEX.
 
-Para isso, siga os passos do artigo [Adicionar novos vendedores e lojas ao VTEX Sales App](/pt/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN).
+Para isso, siga os passos do artigo [Adicionar novos vendedores e lojas ao VTEX Sales App](/pt/docs/tracks/gerenciar-lojas-fisicas-no-vtex-sales-app).
 
 Um ponto de atenção importante no cadastro de uma nova loja é a [Política Comercial](/pt/docs/tutorials/criar-uma-politica-comercial) aplicada a essa loja. É ela que define qual sortimento de produtos serão válidos para a loja.
 

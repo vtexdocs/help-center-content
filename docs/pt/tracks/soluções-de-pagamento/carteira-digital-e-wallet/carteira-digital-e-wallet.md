@@ -21,5 +21,5 @@ Comprar com uma carteira digital oferece mais segurança para o usuário, uma ve
 
 Com identidade confirmada e meio de pagamento escolhido, a compra volta ao fluxo normal e o pedido é concluído. Algumas carteiras digitais funcionam ainda como subadquirentes, permitindo que mesmo uma pessoa que não tenha cadastro seja capaz de realizar a compra por meio do seu ambiente.
 
-São exemplos de carteiras digitais que podem ser configuradas para a realização de pagamentos na sua loja VTEX: [Google Pay](/pt/tracks/carteira-digital-e-wallet--6X8YyZBoVJpz5R8oXciTyu/61JMBvM5Vanqj6RaJsP8CT), [Apple Pay](/pt/tracks/carteira-digital-e-wallet--6X8YyZBoVJpz5R8oXciTyu/STKWiXJSR9ImPt5EEC2aL), [Samsung Pay](/pt/docs/tutorials/configurar-samsung-pay-como-meio-de-pagamento), [Paypal](/pt/docs/tutorials/configurar-pagamento-com-paypalv2), entre outras.
+São exemplos de carteiras digitais que podem ser configuradas para a realização de pagamentos na sua loja VTEX: [Google Pay](/pt/docs/tracks/google-pay), [Apple Pay](/pt/docs/tracks/apple-pay), [Samsung Pay](/pt/docs/tutorials/configurar-samsung-pay-como-meio-de-pagamento), [Paypal](/pt/docs/tutorials/configurar-pagamento-com-paypalv2), entre outras.
 

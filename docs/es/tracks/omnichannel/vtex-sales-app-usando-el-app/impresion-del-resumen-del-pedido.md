@@ -36,7 +36,7 @@ A continuación, debes configurar una impresora conectada a VTEX Sales App para 
 Para emparejar VTEX Sales App con una impresora, deben cumplirse los siguientes requisitos previos:
 
 * Utilizar un computador con sistema operativo Windows 7 o superior.
-* Si no tienes VTEX Sales App en tu computador, instala la aplicación siguiendo nuestra guía de [Instalación](/es/tracks/instore-usando-el-app--4BYzQIwyOHvnmnCYQgLzdr/2rPSJ8519UCCZo5uEBkqxh).
+* Si no tienes VTEX Sales App en tu computador, instala la aplicación siguiendo nuestra guía de [Instalación](/es/docs/tracks/instalacion).
 * Obtener un par de credenciales (AppKey y AppToken) con los permisos de acceso correspondientes. Lee el artículo [Claves de aplicación](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet) para obtener más información.
 
 > ℹ️ Recomendamos que el perfil de acceso relacionado con estas credenciales sea el **VTEX Sales App Sales Person**. Sin embargo, también se puede utilizar un perfil con acceso a otros módulos del Admin, como **Admin Super**.

@@ -25,7 +25,7 @@ Para contenido para desarrolladores, consulte [Order canceling improvements](htt
 
 > ℹ️ En este artículo, los términos marketplace y seller se refieren a [marketplace VTEX](/es/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-marketplace) y [seller VTEX](/es/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-seller). La funcionalidad de denegar solicitudes de cancelación de pedidos no está disponible para sellers o marketplaces externos.
 
-> ⚠️ No es posible [cancelar](/es/docs/tutorials/como-cancelar-pedido) pedidos [parcialmente facturados](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado).
+> ⚠️ No es posible [cancelar](/es/docs/tutorials/como-cancelar-pedido) pedidos [parcialmente facturados](/es/docs/tracks/facturas-parciales). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado).
 
 ## Diagrama de denegación de cancelación de pedidos
 
