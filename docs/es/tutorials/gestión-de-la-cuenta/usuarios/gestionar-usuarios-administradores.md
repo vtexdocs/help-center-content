@@ -70,7 +70,7 @@ Aplica el principio de acceso mínimo, es decir, solo concede a los usuarios los
 3. En la pantalla de edición puedes agregar y remover [roles](/es/docs/tutorials/roles) del usuario.
 4. Después de realizar los cambios deseados, haz clic en `Guardar`.
 
-> ℹ️ Se mostrará una alerta al editar un usuario que no utilice autenticación multifactor (MFA). El artículo [Habilitar login por autenticación de dos factores](/es/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ) describe cómo habilitar esta configuración.
+> ℹ️ Se mostrará una alerta al editar un usuario que no utilice autenticación multifactor (MFA). El artículo [Habilitar login por autenticación de dos factores](/es/docs/tutorials/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores) describe cómo habilitar esta configuración.
 
 > ⚠️ Si remueves todos sus roles, el usuario no podrá acceder al Admin VTEX.
 

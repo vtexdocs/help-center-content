@@ -39,4 +39,4 @@ Esta funcionalidad está en fase de pruebas (Beta Cerrada), disponible solo para
 
 Para participar en esta fase de pruebas y validar la funcionalidad, comunícate con el equipo de [Soporte de VTEX](https://vtexhelp.zendesk.com/auth/v2/login/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests&theme=hc&locale=pt-br&brand_id=144968&auth_origin=144968%2Ctrue%2Ctrue).
 
-Para más información, consulta [Configurar presupuestos para promociones](/es/tutorial/configurando-orcamentos-para-promocoes--3ZCbnELZdMNykXhqBYdFOa).
+Para más información, consulta [Configurar presupuestos para promociones](/es/docs/tutorials/configurar-presupuesto-para-promociones).

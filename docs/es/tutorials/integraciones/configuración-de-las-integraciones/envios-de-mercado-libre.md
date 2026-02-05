@@ -44,7 +44,7 @@ Para activar esta modalidad de envío sigue los pasos a continuación:
 
 Para que la modalidad **Envíos Flex** funcione correctamente, debes seguir los siguientes pasos después de la [activación](#activar-envios-flex):  
 
-1. Crear un [campo personalizado](/es/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) en el módulo [Categorías](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf) para cada categoría en la que deseas aplicar **Envío Flex**.  El campo debe tener las siguientes especificaciones:  
+1. Crear un [campo personalizado](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto) en el módulo [Categorías](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf) para cada categoría en la que deseas aplicar **Envío Flex**.  El campo debe tener las siguientes especificaciones:  
 
 | **Tipo de campo** | **Nombre del campo** |**Valor del campo**|
 |:---:|:---:|:---:|

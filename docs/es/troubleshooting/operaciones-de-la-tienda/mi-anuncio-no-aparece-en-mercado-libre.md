@@ -23,7 +23,7 @@ tags:
 
 Cuando se remueve o desactiva un producto de la política comercial utilizada en la integración de Mercado Libre, la actualización de esos detalles se envía automáticamente al marketplace, que a su vez deja de mostrar el producto.
 
-Otro caso es cuando la cantidad del producto cae por debajo del [stock mínimo](/es/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D) establecido en la configuración de la integración con el marketplace. Si el stock de un producto es menor que el valor configurado, se pausa el anuncio para evitar la venta de productos sin stock.
+Otro caso es cuando la cantidad del producto cae por debajo del [stock mínimo](/es/docs/tutorials/control-de-stock-minimo-para-integraciones) establecido en la configuración de la integración con el marketplace. Si el stock de un producto es menor que el valor configurado, se pausa el anuncio para evitar la venta de productos sin stock.
 
 ## Solución
 
@@ -44,7 +44,7 @@ Para comprobar que la política comercial esté configurada correctamente en el 
  5. Haz clic en el botón `Guardar`.
 
 <div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Si tu tienda utiliza el [nuevo Admin VTEX](/es/announcements/2022-06-13-bienvenido-al-nuevo-admin-vtex), consulta el artículo [Productos y SKUs](/es/tutorial/produtos-e-skus-beta--2ig7TmROlirWirZjFWZ3By) para más información sobre cómo ver y gestionar el catálogo, incluyendo la configuración de las políticas comerciales.
+Si tu tienda utiliza el [nuevo Admin VTEX](/es/announcements/2022-06-13-bienvenido-al-nuevo-admin-vtex), consulta el artículo [Productos y SKUs](/es/docs/tutorials/productos-y-skus) para más información sobre cómo ver y gestionar el catálogo, incluyendo la configuración de las políticas comerciales.
 </div>
 
 ### Verificar stock mínimo
@@ -57,7 +57,7 @@ Para comprobar la configuración del stock mínimo, accede a Marketplace > Conex
 
   ![inventario-minimo-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/mi-anuncio-no-aparece-en-mercado-libre_2.png)
 
- 4. Asegúrate de que este campo esté configurado correctamente según se explica en el artículo [Control de stock mínimo para integraciones](/es/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D).
+ 4. Asegúrate de que este campo esté configurado correctamente según se explica en el artículo [Control de stock mínimo para integraciones](/es/docs/tutorials/control-de-stock-minimo-para-integraciones).
 
 <div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
 Si las soluciones propuestas no resuelven el problema, abre un ticket con el [soporte VTEX](https://supporticket.vtex.com/support).

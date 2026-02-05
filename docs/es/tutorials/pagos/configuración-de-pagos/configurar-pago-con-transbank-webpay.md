@@ -42,7 +42,7 @@ Para configurar Transbank Webpay, siga los pasos a continuación:
 3. Haga clic en __Webpay__.
 4. Active la condición en el campo __Status__.
 5. En __Procesar con proveedor__, seleccione la opción __transbank__.
-6. Si desea, puede [configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456).
+6. Si desea, puede [configurar condiciones especiales de pago](/es/docs/tutorials/condiciones-especiales).
 7. Haga clic en `Guardar`.
 
 Después de seguir los pasos indicados, Transbank Webpay puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

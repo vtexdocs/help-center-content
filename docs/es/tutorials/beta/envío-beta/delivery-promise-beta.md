@@ -41,7 +41,7 @@ Además de poder comprar todos los productos vistos, los clientes tienen la opci
 * Fecha límite para recibir el producto.
 * Productos disponibles en tiendas cercanas al cliente.
 * Tipo de envío más rápido para el pedido.
-* [Punto de recogida](/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) donde el cliente desea retirar el pedido.
+* [Punto de recogida](/es/docs/tutorials/puntos-de-recogida) donde el cliente desea retirar el pedido.
 
 En esta etapa, **Delivery Promise (Beta)** permite a los clientes de tu tienda aplicar los siguientes filtros a los productos mostrados en la navegación:
 
@@ -56,12 +56,12 @@ En esta etapa, **Delivery Promise (Beta)** permite a los clientes de tu tienda a
 
 **Delivery Promise (Beta)** está recomendada para todo tipo de operaciones, ya que la solución garantiza diversos beneficios para cualquier modelo de negocio. Consulta las condiciones de arquitectura de tienda para participar de la fase beta (en curso) en la sección [Requisitos y restricciones](#requisitos-y-restricciones).
 
-Para operaciones [omnichannel](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv), cuanto mayor sea la cobertura de la red logística y el número de sellers y [cuentas franquicia](/es/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) asociados a la operación, mayores serán los beneficios obtenidos. Consultas los principales beneficios en la tabla a continuación:
+Para operaciones [omnichannel](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv), cuanto mayor sea la cobertura de la red logística y el número de sellers y [cuentas franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia) asociados a la operación, mayores serán los beneficios obtenidos. Consultas los principales beneficios en la tabla a continuación:
 
 | **Beneficio** | **Detalles** |
 | :---: | :--- |
 | Menor abandono de carritos | Es común que los clientes abandonen la compra después de ingresar su ubicación en la etapa del carrito, tras descubrir que no es posible realizar el envío a su región o que el plazo de entrega no cumple con sus expectativas.Con **Delivery Promise (Beta)**, para cada producto que el cliente ve en la vitrina, se considera tanto la disponibilidad de stock como la viabilidad del envío a la ubicación del cliente. Además de esto, la información de envío se muestra desde el inicio de la jornada de compra del cliente. |
-| Mayor surtido de productos en la vitrina | Debido a limitaciones en funcionalidades como la [regionalización de sellers](/es/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw), [sellers de extensa cobertura](/es/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI) y el [algoritmo de selección de sellers](/es/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa), sin **Delivery Promise (Beta)**, el surtido de productos que se muestra al cliente en la vitrina no refleja la totalidad de productos de los sellers.Con **Delivery Promise (Beta)**, el cliente puede ver el surtido completo de productos de todos los sellers, siempre que dichos productos:<ul><li>Estén correctamente configurados.</li><li>Tengan disponibilidad de stock.</li><li>Dispongan de un tipo de envío válido a la dirección ingresada por el cliente.</li></ul> |
+| Mayor surtido de productos en la vitrina | Debido a limitaciones en funcionalidades como la [regionalización de sellers](/es/docs/tutorials/configurar-la-regionalizacion-del-seller), [sellers de extensa cobertura](/es/docs/tutorials/seller-de-extensa-cobertura) y el [algoritmo de selección de sellers](/es/docs/tutorials/seleccion-de-sellers-white-label), sin **Delivery Promise (Beta)**, el surtido de productos que se muestra al cliente en la vitrina no refleja la totalidad de productos de los sellers.Con **Delivery Promise (Beta)**, el cliente puede ver el surtido completo de productos de todos los sellers, siempre que dichos productos:<ul><li>Estén correctamente configurados.</li><li>Tengan disponibilidad de stock.</li><li>Dispongan de un tipo de envío válido a la dirección ingresada por el cliente.</li></ul> |
 | Mejor experiencia de compra | **Delivery Promise (Beta)** promueve una mejor experiencia de compra para el cliente como un todo:<ul><li>Elimina la frustración de descubrir en el checkout que no se puede realizar la compra.</li><li>Permite al cliente visualizar un mayor número de productos.</li><li>Permite que el cliente navegue por la vitrina según sus objetivos, como priorizar el tipo de envío o comprar en una tienda física.</li></ul> |
 | Fomentar ventas en tiendas físicas | **Delivery Promise (Beta)** garantiza que el cliente encuentre determinados productos en las tiendas físicas, lo que estimula la visita a dichas tiendas y aumenta las oportunidades de venta. |
 
@@ -76,7 +76,7 @@ Para participar en la fase beta actual de **Delivery Promise (Beta)**, deben cum
 
 ## Conoce más
 
-* [Delivery Promise: FAQ](/es/tutorial/delivery-promise-faq--2frHHK5uPsQrLK5XbYHALN)
+* [Delivery Promise: FAQ](/es/docs/tutorials/delivery-promise-faq)
 * [Setting up Delivery Promise components (Beta)](https://developers.vtex.com/docs/guides/setting-up-delivery-promise-components)
 * [Delivery promise for headless stores (Beta)](https://developers.vtex.com/docs/guides/delivery-promise-for-headless-stores)
 * [Delivery Promise for FastStore](https://developers.vtex.com/docs/guides/faststore/features-delivery-promise)

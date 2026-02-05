@@ -22,7 +22,7 @@ Para enviar tus productos a Mercado Libre, debes:
 1. [Mapear las categorías de los productos.](#mapear-categorias)
 2. [Mapear los atributos de los productos.](#mapear-atributos)
 
-> ℹ️ Tus productos deben tener el [Stock](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e [Precio](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de enviarlos a Mercado Libre.
+> ℹ️ Tus productos deben tener el [Stock](/es/docs/tutorials/almacen) e [Precio](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de enviarlos a Mercado Libre.
 
 ## Mapear categorías
 
@@ -73,4 +73,4 @@ Para mapear los atributos, sigue los pasos a continuación:
 
 Al finalizar el mapeo de categorías y atributos correctamente, el status de la categoría cambiará a **Mapeado** <img class="shadow-4" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-integracion-con-mercado-libre/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper_6.JPG" /> y tus productos se anunciarán en el sitio web de Mercado Libre.  
 
-Después del mapeo de productos de moda, como ropa y calzado, es necesario enviar la tabla de medidas del producto a Mercado Livre. Para saber cómo llenar y enviar la tabla de medidas, sigue el tutorial [Tabla de medidas de Mercado Livre](/es/tutorial/tabela-de-medidas-do-mercado-livre--5dCc9IJ83SjllG75BVCWnr)
+Después del mapeo de productos de moda, como ropa y calzado, es necesario enviar la tabla de medidas del producto a Mercado Livre. Para saber cómo llenar y enviar la tabla de medidas, sigue el tutorial [Tabla de medidas de Mercado Livre](/es/docs/tutorials/tabla-de-tallas-de-mercado-libre)

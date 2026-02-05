@@ -21,7 +21,7 @@ De manera simple e intuitiva, presenta resultados relevantes desde la primera in
 
 En esta serie de artículos, presentamos los pasos necesarios para configurar y comenzar a utilizar Intelligent Search en tu tienda VTEX.
 
-> ℹ️ Descubre todas las funcionalidades disponibles y aprende más sobre el comportamiento de la herramienta en [Intelligent Search - Información general](/es/tutorial/intelligent-search-vision-geral--5o8ixTpYIxx3uJD0B1xp3z).
+> ℹ️ Descubre todas las funcionalidades disponibles y aprende más sobre el comportamiento de la herramienta en [Intelligent Search - Información general](/es/docs/tutorials/intelligent-search-vision-general).
 
 ## Requisitos
 

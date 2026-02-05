@@ -42,4 +42,4 @@ Se quedan dentro del nodo `marketingData`.
 ### Artículos relacionados
 
 - [Qué son utm_source, utm_campaign y utm_medium](/es/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium)
-- [Crear cupón](/es/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU)
+- [Crear cupón](/es/docs/tutorials/crear-cupon-beta)

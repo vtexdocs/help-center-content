@@ -25,11 +25,11 @@ Para configurar Cielo orquestador, siga los pasos a continuación:
 4. En **Autorización del proveedor**, rellene los campos de registro **Clave de aplicación** y **Token de aplicación** con los datos proporcionados por su cuenta Cielo orquestador.
 5. Si desea modificar el nombre de identificación que se mostrará para el proveedor Cielo orquestador en la pantalla VTEX Admin, ingrese la información en el campo **Nombre** en **Información general**.
 6. En **Control de pago**, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en **Activar modo de prueba**.
-7. Si desea utilizar [split de pagos](/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx)  en su tienda, seleccione la opción **Activar split de cobros y enviar destinatarios de pago** e indique el **Responsable de cargos de procesamiento de pagos** y el **Responsable de contracargos** (marketplace, sellers o marketplace y sellers).
+7. Si desea utilizar [split de pagos](/es/docs/tutorials/split-de-pagos)  en su tienda, seleccione la opción **Activar split de cobros y enviar destinatarios de pago** e indique el **Responsable de cargos de procesamiento de pagos** y el **Responsable de contracargos** (marketplace, sellers o marketplace y sellers).
 8. Haga clic en `Guardar`.
 
-Para configurar los métodos de pago a procesar por Cielo orquestador, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455).
+Para configurar los métodos de pago a procesar por Cielo orquestador, acceda al [Configurar Condiciones de Pago](/es/docs/tutorials/condiciones-de-pago).
 
-Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/docs/tutorials/condiciones-especiales).
 
 Después de seguir los pasos indicados, Cielo orquestador puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

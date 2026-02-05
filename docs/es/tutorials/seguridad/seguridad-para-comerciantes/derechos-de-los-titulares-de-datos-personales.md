@@ -25,7 +25,7 @@ En este artículo, aprenderás cómo cumplir con los siguientes derechos de los 
 - [Consentimiento](#consentimiento).
 - [Eliminación](#eliminacion).
 
-> ❗ VTEX no es responsable por datos personales que los sistemas integrados con tu tienda almacenen, tales como: ERP, marketplaces externos, sellers externos, aplicaciones de terceros disponibles en la [VTEX App Store](/es/tutorial/visao-geral-apps--4xfsHXyAQTjbZNuiKl6Y0e) o personalizaciones implementadas por tu equipo de desarrollo. Debes dar seguimiento a estos datos y garantizar que se apliquen los derechos de los titulares de datos personales en dichas instancias, además de aplicar los procesos descritos aquí.
+> ❗ VTEX no es responsable por datos personales que los sistemas integrados con tu tienda almacenen, tales como: ERP, marketplaces externos, sellers externos, aplicaciones de terceros disponibles en la [VTEX App Store](/es/docs/tutorials/vision-general-apps) o personalizaciones implementadas por tu equipo de desarrollo. Debes dar seguimiento a estos datos y garantizar que se apliquen los derechos de los titulares de datos personales en dichas instancias, además de aplicar los procesos descritos aquí.
 
 ## Acceso y portabilidad
 
@@ -39,7 +39,7 @@ Al procesar una solicitud de acceso o portabilidad, es importante que garantices
 
 #### Master Data v1
 
-Puedes utilizar la [API de Master Data v1](https://developers.vtex.com/docs/api-reference/masterdata-api#get-/api/dataentities/-acronym-/search) o el Admin VTEX para acceder a y exportar los datos de clientes almacenados en [Master Data v1](/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw).
+Puedes utilizar la [API de Master Data v1](https://developers.vtex.com/docs/api-reference/masterdata-api#get-/api/dataentities/-acronym-/search) o el Admin VTEX para acceder a y exportar los datos de clientes almacenados en [Master Data v1](/es/docs/tutorials/master-data).
 
 Si deseas utilizar la API, tu equipo de desarrollo debe usar el [endpoint de búsqueda de Master Data v1](https://developers.vtex.com/docs/api-reference/masterdata-api#get-/api/dataentities/-acronym-/search) y buscar en las entidades de datos de clientes (**CL**), direcciones (**AD**) y cualquier otra que hayas configurado para recibir datos personales de tus clientes. Filtra y busca por email del cliente.
 
@@ -49,7 +49,7 @@ Para exportar datos de Master Data v1 a través del dashboard del Admin, sigue l
 2. Haz clic en la pestaña **Applications**.
 3. Haz clic en el ícono de visualizar (derecha) de la entidad de datos deseada.
 ![Master Data botón](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/seguridad-para-comerciantes/derechos-de-los-titulares-de-datos-personales_1.png)
-4. Utiliza el [filtro de Master Data v1](/es/tutorial/filtering-data-on-master-data--tutorials_778) para obtener solo los datos del usuario deseado. Utiliza `email` o `User ID` como campo del filtro.
+4. Utiliza el [filtro de Master Data v1](/es/docs/tutorials/filtrar-datos-en-el-master-data) para obtener solo los datos del usuario deseado. Utiliza `email` o `User ID` como campo del filtro.
 5. Haz clic en el botón `Export XLS`.
 6. Selecciona la opción `Select all fields`.
 7. Si lo deseas, cambia el email donde quieres recibir el informe.
@@ -57,7 +57,7 @@ Para exportar datos de Master Data v1 a través del dashboard del Admin, sigue l
 
 Repite estos pasos para las entidades de datos de clientes (**CL**), direcciones (**AD**) y cualquier otra que hayas configurado para recibir datos personales de los clientes.
 
-> ℹ️ Aprende más sobre cómo [filtrar datos](/es/tutorial/filtering-data-on-master-data--tutorials_778#how-to-use-filters) y [exportar datos](/es/tutorial/exporting-data--tutorials_1125) en la interfaz de Master Data v1.
+> ℹ️ Aprende más sobre cómo [filtrar datos](/es/tutorial/filtering-data-on-master-data--tutorials_778#how-to-use-filters) y [exportar datos](/es/docs/tutorials/exportacion-de-datos) en la interfaz de Master Data v1.
 
 #### Master Data v2
 
@@ -85,7 +85,7 @@ Tus clientes pueden ejercer su derecho de consentimiento y rectificación de dat
 - Ver y editar sus direcciones registradas.
 - Ver y editar sus medios de pago registrados.
 
-> ℹ️ Aprende más sobre la [página Mi Cuenta](/es/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh).
+> ℹ️ Aprende más sobre la [página Mi Cuenta](/es/docs/tutorials/como-funciona-mi-cuenta).
 
 ## Consentimiento
 
@@ -95,7 +95,7 @@ No siempre se requiere consentimiento. Si utilizas información mínima para fin
 
 ### Inscripción en el newsletter
 
-Al finalizar una compra en el checkout VTEX, tus clientes pueden elegir suscribirse al newsletter de tu tienda. Si después desean cambiar su elección, pueden gestionar la inscripción en la sección [Mi cuenta](/es/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh) de tu tienda en la pestaña **Perfil**. Esta es una opción nativa de las tiendas VTEX.
+Al finalizar una compra en el checkout VTEX, tus clientes pueden elegir suscribirse al newsletter de tu tienda. Si después desean cambiar su elección, pueden gestionar la inscripción en la sección [Mi cuenta](/es/docs/tutorials/como-funciona-mi-cuenta) de tu tienda en la pestaña **Perfil**. Esta es una opción nativa de las tiendas VTEX.
 
 De ser necesario, tu equipo de desarrollo puede [ajustar directamente la opción de inscripción de un cliente específico](https://developers.vtex.com/docs/guides/newsletter-inclusion-master-data-v1) mediante la API de Master Data v1.
 
@@ -103,15 +103,15 @@ De ser necesario, tu equipo de desarrollo puede [ajustar directamente la opción
 
 ### Carrito abandonado
 
-La plataforma VTEX permite [configurar una automatización de carrito abandonado](/es/tutorial/configurar-carrinho-abandonado--tutorials_740). En otras palabras, se puede configurar el envío automático de emails a los clientes que hayan accedido a tu tienda y hayan agregado productos al carrito y terminado la sesión sin comprar.
+La plataforma VTEX permite [configurar una automatización de carrito abandonado](/es/docs/tutorials/configurar-carrito-abandonado). En otras palabras, se puede configurar el envío automático de emails a los clientes que hayan accedido a tu tienda y hayan agregado productos al carrito y terminado la sesión sin comprar.
 
-Para garantizar el derecho de consentimiento con este fin específico, debes [configurar tu automatización de carrito abandonado](/es/tutorial/configurar-carrinho-abandonado--tutorials_740) para habilitar el envío de emails solo a clientes [inscritos en el newsletter de la tienda](#inscripcion-en-el-newsletter). Los clientes que estén inscritos en el newsletter tienen el campo `isNewsletterOptIn` configurado como `true` en la entidad **CL** de [Master Data v1](/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw).
+Para garantizar el derecho de consentimiento con este fin específico, debes [configurar tu automatización de carrito abandonado](/es/docs/tutorials/configurar-carrito-abandonado) para habilitar el envío de emails solo a clientes [inscritos en el newsletter de la tienda](#inscripcion-en-el-newsletter). Los clientes que estén inscritos en el newsletter tienen el campo `isNewsletterOptIn` configurado como `true` en la entidad **CL** de [Master Data v1](/es/docs/tutorials/master-data).
 
 ### Avísame
 
-La función [Avísame](/es/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e) permite que las personas se inscriban para recibir una notificación por email cuando un ítem de su interés vuelva a estar en stock.
+La función [Avísame](/es/docs/tutorials/configurar-la-opcion-avisame) permite que las personas se inscriban para recibir una notificación por email cuando un ítem de su interés vuelva a estar en stock.
 
-Cualquier persona puede gestionar el consentimiento de [Avísame](/es/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e) en la propia página del producto de interés.
+Cualquier persona puede gestionar el consentimiento de [Avísame](/es/docs/tutorials/configurar-la-opcion-avisame) en la propia página del producto de interés.
 
 ### Guardar datos de perfil o pago al momento de una compra
 
@@ -119,11 +119,11 @@ El derecho de consentimiento permite que las personas realicen compras en tu tie
 
 Ponte en contacto con tu equipo de desarrollo para proporcionar esta opción según la guía [Activar la opción de guardar datos del usuario](https://developers.vtex.com/docs/guides/enable-the-save-user-data-opt-in).
 
-> ℹ️ Aprende más sobre la [automatización de carritos abandonados](/es/tutorial/configurar-carrinho-abandonado--tutorials_740).
+> ℹ️ Aprende más sobre la [automatización de carritos abandonados](/es/docs/tutorials/configurar-carrito-abandonado).
 
 ## Eliminación
 
 El derecho de eliminación permite que los clientes soliciten la eliminación de sus datos personales de la plataforma.
 
-Si un cliente solicita la eliminación de sus datos de tu tienda, puedes cumplir con este derecho siguiendo la guía [Eliminación de los datos de clientes](/es/tutorial/exclusao-de-dados-de-clientes--1R9Fn7A06Ifj4R9YD4JTKU).
+Si un cliente solicita la eliminación de sus datos de tu tienda, puedes cumplir con este derecho siguiendo la guía [Eliminación de los datos de clientes](/es/docs/tutorials/eliminacion-de-los-datos-de-clientes).
 

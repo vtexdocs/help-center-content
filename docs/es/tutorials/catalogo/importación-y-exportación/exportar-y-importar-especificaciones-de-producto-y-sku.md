@@ -59,5 +59,5 @@ Siga los pasos a continuación para importar la plantilla:
 
 ## Más información
 - [Especificaciones de producto e de SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
-- [Registrar especificaciones o campos de producto](/es/tutorial/registrar-especificaciones-o-campos-de-producto--tutorials_106)
-- [Registrar especificaciones o campos de SKU](/es/tutorial/registrar-especificaciones-o-campos-de-sku--tutorials_119)
+- [Registrar especificaciones o campos de producto](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto)
+- [Registrar especificaciones o campos de SKU](/es/docs/tutorials/registrar-especificaciones-o-campos-de-sku)

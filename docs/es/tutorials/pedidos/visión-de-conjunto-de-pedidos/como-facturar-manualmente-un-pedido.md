@@ -15,21 +15,21 @@ locale: es
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-La página de [Detalles del pedido](/es/tutorial/pagina-de-detalles-del-pedido-interface--2Y75n54Cc9VizrlG1N6ZNl) permite que los administradores de tienda sigan el flujo detallado de los pedidos. 
+La página de [Detalles del pedido](/es/docs/tutorials/pagina-de-detalles-del-pedido) permite que los administradores de tienda sigan el flujo detallado de los pedidos. 
 
 La página recoge los datos de un determinado pedido y permite que los administradores de tienda incluyan y consulten manualmente la [factura](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT) de dicho pedido. También puedes enviar una [factura parcial](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cuando el pedido sufre cambios en su valor, en los ítems, o en casos de devolución de ítems.
 
-Facturar un pedido en la plataforma VTEX significa ingresar la factura de los ítems en el módulo **Pedidos**. Es necesario facturar el pedido para que la factura esté a disposición del cliente y el [flujo del pedido](/es/tutorial/flujo-de-pedido-en-el-oms--tutorials_196) llegue a su fin. El envío de facturas puede realizarse:
+Facturar un pedido en la plataforma VTEX significa ingresar la factura de los ítems en el módulo **Pedidos**. Es necesario facturar el pedido para que la factura esté a disposición del cliente y el [flujo del pedido](/es/docs/tutorials/flujo-y-status-de-pedidos) llegue a su fin. El envío de facturas puede realizarse:
 
 * A través de la [API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice) de envío de facturas.
 * A través del Admin VTEX.
 
-> ℹ️ Al facturar un pedido, es posible cambiar la [transportadora](/es/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) asociada al pedido. Para hacer esto, en la sección **Seguimiento del pedido**, haga clic en *Transportadora* y seleccione la opción deseada.
+> ℹ️ Al facturar un pedido, es posible cambiar la [transportadora](/es/docs/tutorials/transportadoras-en-vtex) asociada al pedido. Para hacer esto, en la sección **Seguimiento del pedido**, haga clic en *Transportadora* y seleccione la opción deseada.
 
 Para enviar una factura a través del Admin VTEX, siga los pasos a continuación:
 
 1. En el Admin VTEX, accede a **Pedidos > Todos los pedidos**, o escribe **Todos los pedidos** en la barra de búsqueda en la parte superior de la página.  
-2. Busca el pedido en la barra de búsqueda o [usa los filtros](/es/tutorial/como-filtrar-pedidos--tutorials_192).  
+2. Busca el pedido en la barra de búsqueda o [usa los filtros](/es/docs/tutorials/filtrar-todos-los-pedidos).  
 3. Haz clic en el pedido deseado.
 4. Desplázate hacia abajo hasta la sección **Ítems a facturar** y haz clic en<i class = "fas fa-chevron-right"> </i> para ampliar.   
 ![FaturaES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/visión-de-conjunto-de-pedidos/como-facturar-manualmente-un-pedido_1.png)  
@@ -64,6 +64,6 @@ Una vez `facturado` el pedido, comprueba las facturas introducidas en la secció
 
 ![Itens faturarES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/visión-de-conjunto-de-pedidos/como-facturar-manualmente-un-pedido_2.png)
 
-En los casos de envío de [facturas parciales](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), al [modificar o eliminar ítems de un pedido](/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190), el valor total del pedido se actualizará después de la facturación, y corresponderá al valor capturado por el _gateway_ de pagos de VTEX.
+En los casos de envío de [facturas parciales](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), al [modificar o eliminar ítems de un pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado), el valor total del pedido se actualizará después de la facturación, y corresponderá al valor capturado por el _gateway_ de pagos de VTEX.
 
-No es posible [cancelar](/es/tutorial/como-cancelar-pedido--tutorials_186) pedidos [parcialmente facturados](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
+No es posible [cancelar](/es/docs/tutorials/como-cancelar-pedido) pedidos [parcialmente facturados](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado).

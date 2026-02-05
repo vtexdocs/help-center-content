@@ -15,7 +15,7 @@ locale: es
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-Después de agregar un [producto o SKU](/es/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) a tu catálogo, no puedes eliminarlo individualmente porque la plataforma VTEX solo permite la eliminación en masa de productos y SKUs mediante [Mantenimiento de base de datos (full cleanup)](/es/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802). Sin embargo, puedes desactivar un producto o SKU para evitar que se muestre en el storefront. 
+Después de agregar un [producto o SKU](/es/docs/tutorials/productos-y-skus) a tu catálogo, no puedes eliminarlo individualmente porque la plataforma VTEX solo permite la eliminación en masa de productos y SKUs mediante [Mantenimiento de base de datos (full cleanup)](/es/docs/tutorials/mantenimiento-de-base-de-datos-full-cleanup). Sin embargo, puedes desactivar un producto o SKU para evitar que se muestre en el storefront. 
 
 Este artículo describe cómo desactivar un producto o SKU y se divide en las siguientes secciones:
 
@@ -55,6 +55,6 @@ Para desactivar un SKU sigue los pasos a continuación:
 
 ## Más información
 
-* [Productos y SKUs](/es/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By)
-* [Agregar o editar productos](/es/tutorial/adicionar-ou-editar-produto--29IkdEu6GofCFlltsZh2H8)
-* [Agregar o editar SKUs](/es/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN)
+* [Productos y SKUs](/es/docs/tutorials/productos-y-skus)
+* [Agregar o editar productos](/es/docs/tutorials/agregar-o-editar-productos)
+* [Agregar o editar SKUs](/es/docs/tutorials/agregar-o-editar-skus)

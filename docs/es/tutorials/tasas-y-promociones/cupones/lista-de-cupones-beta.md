@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1TXh7VjDSIGA2eSI0CmUsi
 ---
 
-La página __Cupones__ te permite visualizar todos los [cupones](/es/tutorial/cupones-beta--1aAEN3ADpz19ss5JCIEBdL)  registrados en tu tienda, gestionar los datos de cada uno y analizar cuántas veces y en qué pedidos se usaron.
+La página __Cupones__ te permite visualizar todos los [cupones](/es/docs/tutorials/cupones-beta)  registrados en tu tienda, gestionar los datos de cada uno y analizar cuántas veces y en qué pedidos se usaron.
 
 Desde esta página puedes:
 
@@ -41,7 +41,7 @@ La barra superior de la página **Cupones** presenta una barra de búsqueda, fil
 
 ### Buscar cupones
 
-Puedes encontrar cupones específicos usando la barra de búsqueda. Te permite buscar por código de cupón, por [UTM source](/es/tutorial/que-son-utm-source-utm-campaign-y-utm-medium--2wTz7QJ8KUG6skGAoAQuii) o por [UTM campaign](/es/tutorial/que-son-utm-source-utm-campaign-y-utm-medium--2wTz7QJ8KUG6skGAoAQuii).
+Puedes encontrar cupones específicos usando la barra de búsqueda. Te permite buscar por código de cupón, por [UTM source](/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium) o por [UTM campaign](/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium).
 
 ### Filtrar cupones
 
@@ -50,7 +50,7 @@ Puedes usar los filtros para visualizar solo los cupones que cumplen con criteri
 1. En el Admin VTEX, accede a *Promociones > Cupones*, o escribe *Cupones* en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en el filtro que desees usar:
    * **Última modificación:** indica la fecha de la última vez en que se modificó el cupón.
-   * **Tipo de cupón:** indica si el cupón es sencillo o un lote. Para conocer los distintos tipos de cupones, consulta [Cupones](/es/tutorial/cupones-beta--1aAEN3ADpz19ss5JCIEBdL).
+   * **Tipo de cupón:** indica si el cupón es sencillo o un lote. Para conocer los distintos tipos de cupones, consulta [Cupones](/es/docs/tutorials/cupones-beta).
 3. Marca la opción deseada.
 4. Haz clic en `Aplicar`.
 5. Repite el proceso si quieres aplicar otro filtro.
@@ -71,7 +71,7 @@ El archivo que se genera contiene la siguiente información:
 | Columna | Descripción |
 |---|---|
 | `code` | Código de cupón. En los lotes de cupones, indica el prefijo de los códigos generados. |
-| `type` | Indica si el cupón es sencillo (single) o lote (multiple). Para más detalles sobre cada tipo de cupón, consulta [Cupones](/es/tutorial/cupones-beta--1aAEN3ADpz19ss5JCIEBdL). Para saber cómo exportar los códigos que se generaron con un lote de cupones, consulta [Exportar códigos del lote de cupones](#exportar-codigos-del-lote-de-cupones). |
+| `type` | Indica si el cupón es sencillo (single) o lote (multiple). Para más detalles sobre cada tipo de cupón, consulta [Cupones](/es/docs/tutorials/cupones-beta). Para saber cómo exportar los códigos que se generaron con un lote de cupones, consulta [Exportar códigos del lote de cupones](#exportar-codigos-del-lote-de-cupones). |
 | `quantity` | Número de códigos del cupón. Para los cupones sencillos, el valor siempre es `1`. Para los lotes de cupones, indica el número de códigos para ese lote. |
 | `archived` | Indica si el cupón está archivado (`true`) o activo (`false`). |
 | `utmSource` | Indica la UTM source asociada al cupón, en caso de que haya. |
@@ -119,26 +119,26 @@ Para acceder a la lista de cupones archivados, sigue los pasos a continuación.
 
 La lista de cupones archivados presenta la misma información descrita en la sección [Lista de cupones](#lista-de-cupones), excepto por las opciones disponibles en el menú <i class="fas fa-ellipsis-v"></i> en la línea de cada cupón. Las opciones disponibles para los cupones archivados son:
 
-* <i class="fas fa-search"></i> **Visualizar:** permite ver los detalles del cupón archivado en una versión no editable del [formulario de creación y edición del cupón](/es/tutorial/crear-cupon-beta--7lMk3MmhNp2IEccyGApxU).
+* <i class="fas fa-search"></i> **Visualizar:** permite ver los detalles del cupón archivado en una versión no editable del [formulario de creación y edición del cupón](/es/docs/tutorials/crear-cupon-beta).
 * <i class="fas fa-archive"></i> **Desarchivar:** permite disponer del cupón para su uso y edición.
 
 ## Crear cupón
 
-El botón `Crear cupón`, en la esquina superior derecha de la página, permite acceder al formulario de creación del nuevo cupón. Para obtener más información sobre este proceso, consulta [Crear cupón](/es/tutorial/crear-cupon-beta--7lMk3MmhNp2IEccyGApxU).
+El botón `Crear cupón`, en la esquina superior derecha de la página, permite acceder al formulario de creación del nuevo cupón. Para obtener más información sobre este proceso, consulta [Crear cupón](/es/docs/tutorials/crear-cupon-beta).
 
 ## Lista de cupones
 
-La lista de cupones presenta todos los cupones activos en tu tienda, ordenados desde el más reciente. Al hacer clic en un cupón de la lista, serás redireccionado a la página de [edición del cupón](/es/tutorial/crear-cupon-beta--7lMk3MmhNp2IEccyGApxU).
+La lista de cupones presenta todos los cupones activos en tu tienda, ordenados desde el más reciente. Al hacer clic en un cupón de la lista, serás redireccionado a la página de [edición del cupón](/es/docs/tutorials/crear-cupon-beta).
 
 A continuación, encontrarás más detalles sobre cada columna de la lista:
 
 * **Código:** muestra el código del cupón.
 * **Tipo de cupón:** indica si el cupón es [sencillo o un lote](/es/tutorial/cupones-beta--1aAEN3ADpz19ss5JCIEBdL#tipos-de-cupones).
-* **UTM source:** indica la [UTM source](/es/tutorial/que-son-utm-source-utm-campaign-y-utm-medium--2wTz7QJ8KUG6skGAoAQuii) asociada al cupón, en caso de que haya alguna.
-* **UTM campaign:** indica la [UTM campaign](/es/tutorial/que-son-utm-source-utm-campaign-y-utm-medium--2wTz7QJ8KUG6skGAoAQuii) asociada al cupón, en caso de que haya alguna.
+* **UTM source:** indica la [UTM source](/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium) asociada al cupón, en caso de que haya alguna.
+* **UTM campaign:** indica la [UTM campaign](/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium) asociada al cupón, en caso de que haya alguna.
 * **Última edición:** muestra la fecha en que el cupón se modificó por última vez.
    * **Menú** <i class="fas fa-ellipsis-v"></i>: muestra un menú con más opciones, las cuales se describen a continuación.
-   * <i class="fas fa-pencil"></i> **Editar:** permite acceder al formulario de edición del cupón para visualizar o modificar la información registrada. Consulta [Crear cupón](/es/tutorial/crear-cupon-beta--7lMk3MmhNp2IEccyGApxU) para más información sobre el formulario. Opción disponible solo para cupones activos.
+   * <i class="fas fa-pencil"></i> **Editar:** permite acceder al formulario de edición del cupón para visualizar o modificar la información registrada. Consulta [Crear cupón](/es/docs/tutorials/crear-cupon-beta) para más información sobre el formulario. Opción disponible solo para cupones activos.
    * <i class="fas fa-archive"></i> **Archivar:** permite archivar el cupón, es decir, desactivar su uso en la tienda. Opción disponible solo para cupones activos.
    * <i class="fas fa-download"></i> **Exportar:** abre una ventana modal con los códigos del lote de cupones desde donde se puede copiar los códigos o exportarlos a un archivo CSV. Opción disponible solo para lotes de cupones.
    * <i class="far fa-signal-alt-3"></i> **Ver detalles de uso:** abre una ventana modal con información sobre el uso del cupón. Para más información, consulta la sección [Ver detalles de uso](#ver-detalles-de-uso). Opción disponible solo para cupones activos.
@@ -149,7 +149,7 @@ La ventana **Ver detalles de uso** muestra los datos de uso de cada cupón, que 
 
 * **Promociones asociadas:** muestra el nombre de las promociones vinculadas al cupón, en caso de que haya alguna. Al hacer clic sobre el nombre de una promoción, serás redireccionado a la página de edición de la promoción.
 
-    El cupón solo estará disponible cuando esté vinculado a, por lo menos, una promoción. Para establecer dicho vínculo, debes usar la misma [utm_source o utm_campaign](/es/tutorial/que-son-utm-source-utm-campaign-y-utm-medium--2wTz7QJ8KUG6skGAoAQuii) que utilizaste en el registro tanto del cupón como de la promoción. Consulta la sección [Asociar el cupón con una promoción](/es/tutorial/crear-cupon-beta--7lMk3MmhNp2IEccyGApxU#asociar-el-cupon-con-una-promocion) para saber cómo realizar esta configuración.
+    El cupón solo estará disponible cuando esté vinculado a, por lo menos, una promoción. Para establecer dicho vínculo, debes usar la misma [utm_source o utm_campaign](/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium) que utilizaste en el registro tanto del cupón como de la promoción. Consulta la sección [Asociar el cupón con una promoción](/es/tutorial/crear-cupon-beta--7lMk3MmhNp2IEccyGApxU#asociar-el-cupon-con-una-promocion) para saber cómo realizar esta configuración.
 
 * **Uso** (cupones sencillos): muestra el número de usos del cupón y el número de usos restantes, en caso de que hayas limitado la cantidad de usos.
 
@@ -165,5 +165,5 @@ La ventana **Ver detalles de uso** muestra los datos de uso de cada cupón, que 
 
 ## Más información
 
-* [Cupones](/es/tutorial/cupones-beta--1aAEN3ADpz19ss5JCIEBdL)
-* [Crear cupón](/es/tutorial/crear-cupon-beta--7lMk3MmhNp2IEccyGApxU)
+* [Cupones](/es/docs/tutorials/cupones-beta)
+* [Crear cupón](/es/docs/tutorials/crear-cupon-beta)

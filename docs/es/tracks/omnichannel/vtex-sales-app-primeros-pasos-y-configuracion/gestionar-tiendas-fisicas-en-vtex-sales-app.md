@@ -36,8 +36,8 @@ La página contiene la siguiente información:
 | Teléfono comercial | Número de teléfono comercial de la tienda física.                                                                                                                                               |
 | Ciudad             | Ciudad donde se encuentra la tienda física.                                                                                                                                                 |
 | Estado             | Estado donde se encuentra la tienda física.                                                                                                                                                 |
-| Cuenta franquicia     | [Cuenta franquicia](/es/tutorial/que-es-una-cuenta-franquicia--kWQC6RkFSCUFGgY5gSjdl) onde a loja física está cadastrada.                                                       |
-| Política comercial | [Política comercial](/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que se aplica a la tienda física.                                              |
+| Cuenta franquicia     | [Cuenta franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia) onde a loja física está cadastrada.                                                       |
+| Política comercial | [Política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) que se aplica a la tienda física.                                              |
 
 ## Crear tienda física
 
@@ -71,9 +71,9 @@ Puedes crear una tienda física siguiendo los pasos a continuación:
 
 #### Información técnica
 
-* **Cuenta de franquicia:** nombre de la [cuenta franquicia](/es/tutorial/que-es-una-cuenta-franquicia--kWQC6RkFSCUFGgY5gSjdl) en la que se debe registrar la tienda física.
-* **Política comercial:** [política comercial](/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que será aplicada na loja física. Campo obrigatório.
-* **Punto de recogida:** [punto de recogida](/es/tutorial/puntos-de-recogida--2fljn6wLjn8M4lJHA6HP3R) registrado para esta tienda física, donde los clientes recogen sus pedidos.
+* **Cuenta de franquicia:** nombre de la [cuenta franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia) en la que se debe registrar la tienda física.
+* **Política comercial:** [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) que será aplicada na loja física. Campo obrigatório.
+* **Punto de recogida:** [punto de recogida](/es/docs/tutorials/puntos-de-recogida) registrado para esta tienda física, donde los clientes recogen sus pedidos.
 
 > ℹ️ Los cambios pueden tardar hasta 15 minutos en procesarse y aplicarse en inStore.
 

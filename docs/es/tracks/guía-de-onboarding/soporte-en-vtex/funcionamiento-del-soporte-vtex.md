@@ -21,11 +21,11 @@ El soporte VTEX se presta online y permite abrir tickets con distintos niveles d
 - Inicio de sesión usando la cuenta de Google.
 - Email y contraseña con autenticación de dos factores mediante aplicación o SMS.
 
-> ⚠️ Para obtener la autorización de autenticación, el [usuario](/es/docs/tutorials/gestionar-usuarios-administrativos) [rol](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) asociado con [recursos de License Manager.](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)
+> ⚠️ Para obtener la autorización de autenticación, el [usuario](/es/docs/tutorials/gestionar-usuarios-administrativos) [rol](/es/docs/tutorials/roles) asociado con [recursos de License Manager.](/es/docs/tutorials/recursos-del-license-manager)
 
 El Soporte de VTEX es global y sigue un modelo estandarizado de atención, con criterios unificados de disponibilidad, prioridad y nivel de servicio (SLA) aplicables a todos los clientes atendidos por VTEX.  
 
-Para más información, consultá el artículo [Recursos de Soporte Global de VTEX](/es/tutorial/vtex-global-support-resources--5maoEWCrTKFAEMXRsfcklV).
+Para más información, consultá el artículo [Recursos de Soporte Global de VTEX](/es/docs/tutorials/recursos-de-soporte-global-de-vtex).
 
 La tabla a continuación ofrece una visión general de los principales artículos del Help Center por región:
 

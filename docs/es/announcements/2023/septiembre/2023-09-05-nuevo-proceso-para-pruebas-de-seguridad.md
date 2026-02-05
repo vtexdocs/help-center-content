@@ -27,7 +27,7 @@ De manera resumida, el nuevo proceso para realizar pruebas de penetración consi
 2. Revisar y firmar el [acuerdo de confidencialidad](https://assets.ctfassets.net/alneenqid6w5/5iw8rN7CdSn7PHKvMMcO19/ab46ae4025d506e052dcef5974f9007f/Pentest_NDA_.zip) antes de ejecutar cualquier prueba.
 3. Compartir los resultados con el equipo de seguridad de VTEX una vez finalizada la prueba.
 
-Para más información sobre este procedimiento, consulta la guía [Pruebas de penetración y avisos de vulnerabilidad](/es/tutorial/pruebas-de-penetracion-y-advertencia-de-vulnerabilidad--6jodF6s1I50Fg84ZwutOCb).
+Para más información sobre este procedimiento, consulta la guía [Pruebas de penetración y avisos de vulnerabilidad](/es/docs/tutorials/pruebas-de-penetracion).
 
 ## ¿Por qué realizamos este cambio?
 

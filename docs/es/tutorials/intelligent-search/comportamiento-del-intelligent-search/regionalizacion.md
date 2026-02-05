@@ -36,19 +36,19 @@ Para empezar a utilizar la Regionalización, sigue los pasos a continuación.
 
 ## 1. Configuración de sellers 
 
-En primer lugar, debes comprender qué escenario de [seller](/es/tutorial/que-es-un-seller--5FkLvhZ3Few4CWWIuYOK2w) se aplica a tu tienda. Mira a continuación los posibles escenarios.
+En primer lugar, debes comprender qué escenario de [seller](/es/docs/tutorials/que-es-un-seller) se aplica a tu tienda. Mira a continuación los posibles escenarios.
 
 ### Seller 1
 
-Por estándar, cada tienda VTEX se crea con la arquitectura para actuar como seller e [marketplace](/es/tutorial/estrategias-de-marketplace-en-vtex--tutorials_402) simultáneamente. Esto significa que tu tienda VTEX es el seller con ID igual a 1, ya que puede funcionar como seller en su propio ambiente.
+Por estándar, cada tienda VTEX se crea con la arquitectura para actuar como seller e [marketplace](/es/docs/tutorials/estrategias-de-marketplace-en-vtex) simultáneamente. Esto significa que tu tienda VTEX es el seller con ID igual a 1, ya que puede funcionar como seller en su propio ambiente.
 
 Este seller se crea automáticamente en la cuenta de la tienda, representando su propio stock. Esto es válido tanto para los marketplaces que venden sus propios productos como para las tiendas que no son marketplaces, pero que combinan el checkout y el proceso de [fulfillment](/es/tutorial/que-son-pedidos-con-origen-marketplace-y-origen-fulfillment--6eVYrmUAwMOeKICU2KuG06#fulfillment) en su ecommerce.
 
 ### Seller white label
 
-El [seller white label](/es/tutorial/que-son-cuenta-franquicia-y-seller-white-label--5orlGHyDHGAYciQ64oEgKa) es un seller que los clientes finales no eligen, es decir, los clientes no tienen visibilidad de su existencia en ningún momento del proceso de compra.
+El [seller white label](/es/docs/tutorials/seller-white-label) es un seller que los clientes finales no eligen, es decir, los clientes no tienen visibilidad de su existencia en ningún momento del proceso de compra.
 
-Cuando el consumidor añade productos al carrito y simula el costo de envío en la tienda, el sistema selecciona automáticamente el seller white label que tiene ese producto en stock y muestra las formas de entrega de los sellers que ofrecen las mejores condiciones. Para saber más sobre el algoritmo de selección de sellers white label, lee nuestro [artículo](/es/tutorial/algoritmo-de-seleccion-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa) sobre el tema.
+Cuando el consumidor añade productos al carrito y simula el costo de envío en la tienda, el sistema selecciona automáticamente el seller white label que tiene ese producto en stock y muestra las formas de entrega de los sellers que ofrecen las mejores condiciones. Para saber más sobre el algoritmo de selección de sellers white label, lee nuestro [artículo](/es/docs/tutorials/seleccion-de-sellers-white-label) sobre el tema.
 
 Debes configurar uno o más sellers white label en tu tienda, porque Intelligent Search verifica la disponibilidad de stock de los productos en los sellers white label de cada región para definir qué productos se mostrarán al cliente.
 

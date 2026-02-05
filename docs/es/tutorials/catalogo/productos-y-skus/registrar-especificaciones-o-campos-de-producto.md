@@ -17,7 +17,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 La [especificación](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) de producto es un campo en el registro de un producto donde se incluyen las características válidas de todas sus variaciones (SKU).
 
-En VTEX, una especificación siempre forma parte de un [grupo de especificaciones](/es/tutorial/criando-grupo-de-categoria--tutorials_246) que está asociado a una [categoría](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf). Es precisamente por esto que, para crear una especificación (campo) de producto, se debe tener registrada al menos una categoría y un grupo de especificaciones.
+En VTEX, una especificación siempre forma parte de un [grupo de especificaciones](/es/docs/tutorials/crear-grupo-de-especificaciones-en-una-categoria) que está asociado a una [categoría](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf). Es precisamente por esto que, para crear una especificación (campo) de producto, se debe tener registrada al menos una categoría y un grupo de especificaciones.
 
 Ejemplo: una tienda del sector de la moda. En la categoría **Camisetas**, el grupo de especificaciones puede tener el nombre **Características**, el campo **Composición** y sus valores **Algodón** y **Poliéster**.
 
@@ -47,7 +47,7 @@ Como se trata de una especificación de producto, la información seleccionada e
 
 ## Paso a paso en el Admin VTEX
 
-Para que las especificaciones aparezcan en el registro de los productos, además de haber creado previamente un [grupo de especificaciones](/es/tutorial/criando-grupo-de-categoria--tutorials_246) asociado a una [categoría](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), también se deben crear los campos y registrar sus valores. Luego, podrás rellenar esas especificaciones en tus productos.
+Para que las especificaciones aparezcan en el registro de los productos, además de haber creado previamente un [grupo de especificaciones](/es/docs/tutorials/crear-grupo-de-especificaciones-en-una-categoria) asociado a una [categoría](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), también se deben crear los campos y registrar sus valores. Luego, podrás rellenar esas especificaciones en tus productos.
 
 En las secciones a continuación, podrás ver el paso a paso completo.
 
@@ -118,7 +118,7 @@ Consulta la tabla a continuación para obtener información detallada sobre los 
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">**Texto Indexado<br> <br>Texto Grande Indexado**</td>
-    <td class="t-body pa5" style="min-width: 15rem;">Técnicamente, siguen la misma regla que los campos de **texto**, pero con una diferencia: el [indexador](/es/tutorial/entendiendo-el-funcionamento-de-la-indexacion--tutorials_256) del **Catálogo** interpretará sus valores e influirá en los resultados de búsqueda de los clientes de la tienda. Puedes ver más detalles en [Cómo funciona la búsqueda de VTEX](/es/tutorial/como-funciona-la-busqueda-de-vtex--tutorials_542).</td>
+    <td class="t-body pa5" style="min-width: 15rem;">Técnicamente, siguen la misma regla que los campos de **texto**, pero con una diferencia: el [indexador](/es/docs/tutorials/entendiendo-el-funcionamento-de-la-indexacion) del **Catálogo** interpretará sus valores e influirá en los resultados de búsqueda de los clientes de la tienda. Puedes ver más detalles en [Cómo funciona la búsqueda de VTEX](/es/docs/tutorials/como-funciona-la-busqueda-de-vtex).</td>
   </tr>
 </tbody>
 </table>
@@ -210,5 +210,5 @@ Para rellenar las especificaciones de los productos de forma masiva mediante una
 ![product-spec-4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/registrar-especificaciones-o-campos-de-producto_5.gif)
 
 ## Más información
-- [Registrar especificaciones o campos de SKU](/es/tutorial/registrar-especificaciones-o-campos-de-sku--tutorials_119)
+- [Registrar especificaciones o campos de SKU](/es/docs/tutorials/registrar-especificaciones-o-campos-de-sku)
 - [Especificaciones de producto e de SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)

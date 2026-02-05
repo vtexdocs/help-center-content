@@ -29,4 +29,4 @@ Solamente los usuarios de Samsung Pay podrán efectuar compras con este método 
 
 Al acceder a SmartCheckout y seleccionar Samsung Pay como medio de pago, el cliente simplemente autoriza la compra por identificación biométrica o por contraseña en la aplicación.
 
-Para más detalles, vea el artículo sobre [cómo configurar Samsung Pay como medio de pago para su tienda](/es/tutorial/configurar-samsung-pay-como-meio-de-pagamento--5Yj9rgzOCVYuGmAumQlfpP).
+Para más detalles, vea el artículo sobre [cómo configurar Samsung Pay como medio de pago para su tienda](/es/docs/tutorials/configurar-samsung-pay-como-medio-de-pago).

@@ -45,6 +45,6 @@ Configure correctamente la frecuencia y el ciclo para garantizar que la promoci�
 > ℹ️  No es posible configurar promociones por UTM y promociones por suscripción utilizando cupones en pedidos recurrentes. Los cupones se aplicarán solo a pedidos originales.
 
 <ol start="6">
-<li>Rellene los[ demás campos de la promoción](/es/tutorial/registro-promocion-regular--tutorials_327).</li><br>
+<li>Rellene los[ demás campos de la promoción](/es/docs/tutorials/registro-promocion-regular).</li><br>
 <li>Haga Clic en <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Guardar</span>.</li>
 </ol>

@@ -44,7 +44,7 @@ La sección Plantillas de email es donde se personalizan las plantillas y se def
 La sección Envío es donde puedes configurar los ajustes generales de envío, geolocalización y feriados en los que tu tienda está cerrada. Esta sección incluye las siguientes páginas, que pronto se incluirán en el diseño del Admin v4:
 
 - [Configuración](/es/subcategory/inventory-and-shipping-settings--1UL6Q7nUN6SkA2g2SUsECi#)    
-- [Envío por geolocalización](/es/tutorial/registering-geolocation--tutorials_138)  
+- [Envío por geolocalización](/es/docs/tutorials/gestionar-geolocalizacion)  
 - [Feriados](/es/tutorial/registering-holidays--2ItOthSEAoyAmcwsuiO6Yk#)  
 
 ## Producto
@@ -66,8 +66,8 @@ En la sección Storefront puedes configurar la interfaz de tu tienda, que incluy
 ## Canales
 La sección Canales incluye la página Canales de ventas, donde puedes configurar el catálogo, los precios, las promociones, la logística, la segmentación de clientes y las condiciones de pago para diferentes estrategias de venta. También es donde puedes configurar tus integraciones XML. Esta sección incluye las siguientes páginas, que pronto se incluirán en el diseño del Admin v4:
 
-- [Canales de ventas](/es/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) (llamados anteriormente de “políticas comerciales” en VTEX)    
-- [Integración XML](/es/tutorial/como-configurar-xml--tutorials_242)
+- [Canales de ventas](/es/docs/tutorials/como-funciona-una-politica-comercial) (llamados anteriormente de “políticas comerciales” en VTEX)    
+- [Integración XML](/es/docs/tutorials/como-configurar-xml)
 
 ## Intelligent Search
 La sección Intelligent Search es donde realizas la configuración general de la búsqueda inteligente y sus integraciones. Esta sección incluye las siguientes páginas, que pronto se incluirán en el diseño del Admin v4:

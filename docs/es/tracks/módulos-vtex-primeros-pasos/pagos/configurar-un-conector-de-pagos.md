@@ -19,7 +19,7 @@ El módulo __Pagos__ permite configurar varios proveedores de pagos (pasarelas, 
 
 Cuando se realiza una compra en su tienda y el cliente realiza el pago, la transmisión de datos entre VTEX y el proveedor elegido se produce a través de protocolos de comunicación configurados en el VTEX Admin.
 
-> ℹ️ Para comprobar qué proveedores de pago están disponibles en su región y los respectivos artículos de configuración, visite [Lista de proveedores de pago por país](/es/tutorial/lista-de-proveedores-de-pago-por-pais--2im3BEGXxSAcRuxEaIHPvp).
+> ℹ️ Para comprobar qué proveedores de pago están disponibles en su región y los respectivos artículos de configuración, visite [Lista de proveedores de pago por país](/es/docs/tutorials/lista-de-proveedores-de-pago-por-pais).
 
 A continuación se muestra un ejemplo de cómo configurar un proveedor de pagos:
 

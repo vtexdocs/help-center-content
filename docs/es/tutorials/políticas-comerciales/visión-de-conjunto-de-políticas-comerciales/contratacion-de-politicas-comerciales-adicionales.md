@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 6J3wx7KM4oysymsWuUACyY
 ---
 
-En VTEX, el concepto de [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) existe para definir las condiciones y estrategias de venta en un canal de venta, ya sea el un _ecommerce_ propio, un _marketplace_, una tienda física o una tienda B2B, por ejemplo.
+En VTEX, el concepto de [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) existe para definir las condiciones y estrategias de venta en un canal de venta, ya sea el un _ecommerce_ propio, un _marketplace_, una tienda física o una tienda B2B, por ejemplo.
 
-Mediante las políticas comerciales se determinan las configuraciones de catálogo, precios, promociones, pagos, _stock_, logística y segmentación del público en los canales de venta. Sin embargo, no es necesario [crear una política comercial](/es/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) diferente para cada canal. La misma política comercial puede utilizarse en múltiples canales de venta.
+Mediante las políticas comerciales se determinan las configuraciones de catálogo, precios, promociones, pagos, _stock_, logística y segmentación del público en los canales de venta. Sin embargo, no es necesario [crear una política comercial](/es/docs/tutorials/crear-una-politica-comercial) diferente para cada canal. La misma política comercial puede utilizarse en múltiples canales de venta.
 
 Para adquirir una política comercial destinada a un canal de ventas externo al ecosistema VTEX, como un _marketplace_ para el que no existe un [conector nativo](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex), siga el flujo [Contratar una política comercial](#contratar-una-politica-comercial).
 
@@ -33,7 +33,7 @@ Se cobra una tarifa mensual por cada política comercial adicional, independient
 
 ## Más información
 
-- [Como funciona una Política Comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
-- [Crear una política comercial](/es/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)
-- [Configurar política comercial para marketplace](/es/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)
-- [Estrategias de marketplace en VTEX](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402)
+- [Como funciona una Política Comercial](/es/docs/tutorials/como-funciona-una-politica-comercial)
+- [Crear una política comercial](/es/docs/tutorials/crear-una-politica-comercial)
+- [Configurar política comercial para marketplace](/es/docs/tutorials/configurar-politica-comercial-para-marketplace)
+- [Estrategias de marketplace en VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex)

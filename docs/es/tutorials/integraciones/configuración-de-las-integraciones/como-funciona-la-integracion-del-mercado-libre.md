@@ -29,11 +29,11 @@ Una vez finalizada la [integración](/es/tracks/configurar-integracion-con-merca
 
 ## 1. Pedidos 
 
-Todos los [pedidos](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE) que se hacen en Mercado Libre se enviarán a la plataforma VTEX. Cada pedido tendrá un status según la tabla a continuación. Para más información sobre los status de los pedidos en VTEX, consulta el artículo [Flujo y status de pedidos](/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
+Todos los [pedidos](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE) que se hacen en Mercado Libre se enviarán a la plataforma VTEX. Cada pedido tendrá un status según la tabla a continuación. Para más información sobre los status de los pedidos en VTEX, consulta el artículo [Flujo y status de pedidos](/es/docs/tutorials/flujo-y-status-de-pedidos).
 
 | Status en la plataforma VTEX | Respuesta de Mercado Libre | Descripción de la respuesta de Mercado Libre |
 | ---------- | ---------- | ---------- |
-| Listo para preparación | Ready-for-handing | Status que indica que se debe iniciar la preparación del envío, emitir la factura y hacer el seguimiento del pedido. En este status, se espera que haya una confirmación de la reducción en la [reserva](/es/tutorial/como-a-reserva-funciona--tutorials_92) del ítem. En general, es en este momento cuando tiene lugar la integración con el ERP. Sin embargo, la integración también se puede completar de forma manual a través del módulo de Gestión de pedidos |
+| Listo para preparación | Ready-for-handing | Status que indica que se debe iniciar la preparación del envío, emitir la factura y hacer el seguimiento del pedido. En este status, se espera que haya una confirmación de la reducción en la [reserva](/es/docs/tutorials/como-se-maneja-la-reserva) del ítem. En general, es en este momento cuando tiene lugar la integración con el ERP. Sin embargo, la integración también se puede completar de forma manual a través del módulo de Gestión de pedidos |
 | Preparando envío | Handling | Se reservan los ítems para evitar las ventas de ítems no disponibles. El pedido queda en preparación, a la espera de la factura (o nota fiscal) que, por lo general, envía el ERP |
 | Facturado | Invoiced | El flujo se completó con éxito y se envió el pedido |
 | Enviado | Shipped | Pedidos que ya se despacharon para la entrega |
@@ -41,7 +41,7 @@ Todos los [pedidos](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF
 | Cancelado | Cancelled | Pedidos que se cancelaron |
 | Ventana de cancelación | Window-to-cancel | Status del plazo de cancelación del cliente. Después de la aprobación del pago, el cliente tiene 30 minutos (estándar en la [Configuración general](/es/tutorial/configuracoes-gerais/) del módulo de Gestión de pedidos) para cancelar el pedido. En este periodo, el reembolso del pedido se realiza de modo automático |
 
-Debes contar con un [perfil de acceso](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) *OMS - Full Acess* para realizar acciones en el flujo de pedidos. Recibirás una respuesta distinta de Mercado Libre en cada status del flujo de pedidos en VTEX. Los pedidos se integran en VTEX solo cuando Mercado Libre los identifica con el status `Paid`.
+Debes contar con un [perfil de acceso](/es/docs/tutorials/roles) *OMS - Full Acess* para realizar acciones en el flujo de pedidos. Recibirás una respuesta distinta de Mercado Libre en cada status del flujo de pedidos en VTEX. Los pedidos se integran en VTEX solo cuando Mercado Libre los identifica con el status `Paid`.
 
 El ID del pedido en Mercado Libre será distinto al que verás en VTEX. Para comprender la lógica que se aplica a la correspondencia de estos ID, consulta el artículo [Cómo funciona el carrito con múltiples artículos en Mercado Libre](/es/tutorial/como-funciona-o-carrinho-com-multiplos-itens-no-mercado-livre).
 
@@ -116,7 +116,7 @@ Durante la integración, el nivel de [stock](/es/tracks/logistica-101--13TFDwDtt
 
 Para ver el stock de los productos enviados, en el Admin, ingresa a *MARKETPLACE > Integraciones > Stock*. Si quieres encontrar un producto específico, usa el campo de búsqueda e ingresa el código del SKU.
 
-Si tienes alguna duda, consulta nuestra documentación sobre [Errores de integración de stock con Mercado Libre](/es/tutorial/erros-de-integracao-de-estoque-com-o-mercado-livre--3pWA3vRePuGmJ5tquY4fva).
+Si tienes alguna duda, consulta nuestra documentación sobre [Errores de integración de stock con Mercado Libre](/es/docs/tutorials/errores-de-integracion-de-stock-con-mercado-libre).
 
 ## 5. Puntos de recogida
 

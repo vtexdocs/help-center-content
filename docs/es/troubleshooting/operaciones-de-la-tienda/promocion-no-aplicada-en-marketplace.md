@@ -26,7 +26,7 @@ Al configurar promociones para marketplaces los usuarios pueden experimentar dif
 Para solucionar el problema de promociones que no se aplican en los marketplaces, es importante consultar la casilla de selección de la [política comercial](#seleccionar-política-comercial) y la de [afiliados](#seleccionar-afiliados). 
 
 ### Seleccionar política comercial
-La [política comercial](/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) define las reglas y condiciones de aplicación de las promociones en marketplaces. Es importante seleccionar la política comercial correcta para garantizar que la promoción se aplique según lo esperado. A continuación se indican los pasos a seguir para crear una promoción que contemple correctamente la política comercial.
+La [política comercial](/es/docs/tutorials/crear-una-politica-comercial) define las reglas y condiciones de aplicación de las promociones en marketplaces. Es importante seleccionar la política comercial correcta para garantizar que la promoción se aplique según lo esperado. A continuación se indican los pasos a seguir para crear una promoción que contemple correctamente la política comercial.
 
 1. Crea una [promoción regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
 2. En la sección __Política comercial__, selecciona las opciones `igual a` y __Entregado por mí (Otras tiendas)__.

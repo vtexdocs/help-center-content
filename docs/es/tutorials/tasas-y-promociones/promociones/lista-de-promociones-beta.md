@@ -49,11 +49,11 @@ Todas las funcionalidades de la página se detallarán en las siguientes seccion
 Para registrar una nueva promoción, haz clic en el botón Crear promoción. Luego, puedes seleccionar los siguientes tipos de promociones:
 
 - [Regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI)
-- [Comprar juntos](/es/tutorial/compre-junto--tutorials_323)
-- [Más por menos](/es/tutorial/leve-mais-por-menos--tutorials_325)
-- [Descuento progresivo](/es/tutorial/desconto-progressivo--tutorials_324)
-- [Compra uno y lleva uno gratis](/es/tutorial/compre-e-ganhe--tutorials_322)
-- [Promoción de campaña](/es/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume)
+- [Comprar juntos](/es/docs/tutorials/comprar-juntos-registro-de-promocion)
+- [Más por menos](/es/docs/tutorials/mas-por-menos)
+- [Descuento progresivo](/es/docs/tutorials/descuento-progresivo)
+- [Compra uno y lleva uno gratis](/es/docs/tutorials/como-funciona-la-promocion-compre-y-gane)
+- [Promoción de campaña](/es/docs/tutorials/promocion-de-campana)
 
 ## Promociones archivadas
 
@@ -94,7 +94,7 @@ El número máximo de promociones activas por defecto es de 100. Si necesitas au
 
 La lista de promociones se puede filtrar según tus necesidades, utilizando los siguientes filtros:  
 
-- **Tipo de descuento:** tipo de descuento que se aplicará a la promoción. Las opciones son [Regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Comprar Juntos](/es/tutorial/compre-junto--tutorials_323), [Más por Menos](/es/tutorial/leve-mais-por-menos--tutorials_325), [Descuento Progresivo](/es/tutorial/desconto-progressivo--tutorials_324), [Comprar y Obtener](/es/tutorial/compre-e-ganhe--tutorials_322) y [Promoción de Campaña](/es/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume).
+- **Tipo de descuento:** tipo de descuento que se aplicará a la promoción. Las opciones son [Regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Comprar Juntos](/es/docs/tutorials/comprar-juntos-registro-de-promocion), [Más por Menos](/es/docs/tutorials/mas-por-menos), [Descuento Progresivo](/es/docs/tutorials/descuento-progresivo), [Comprar y Obtener](/es/docs/tutorials/como-funciona-la-promocion-compre-y-gane) y [Promoción de Campaña](/es/docs/tutorials/promocion-de-campana).
 - **Status:** status de la promoción. Las opciones son `Ejecutando`, `Programada`, `Pausada` y `Realizada`.
 - **Última edición:** historial de las últimas ediciones en los últimos 12 meses, 3 meses, 30 días, 7 días o el día anterior a la consulta.
 - **Política comercial:** la política comercial a la que se aplicará la promoción.
@@ -112,4 +112,4 @@ Al hacer clic en el ícono <i class="fas fa-ellipsis-v"></i> de una promoción, 
 - <i class="fas fa-archive"></i> __Archivar:__ archivar la promoción. La promoción se trasladará automáticamente a la página __Promociones archivadas__.
 
 #### Más información
-- [Qué son utm_source, utm_campaign y utm_medium](/es/tutorial/o-que-sao-utm-source-utm-campaign-e-utm-medium--2wTz7QJ8KUG6skGAoAQuii)
+- [Qué son utm_source, utm_campaign y utm_medium](/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium)

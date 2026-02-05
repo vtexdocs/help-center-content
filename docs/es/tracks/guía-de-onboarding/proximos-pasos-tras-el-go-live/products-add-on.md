@@ -45,9 +45,9 @@ VTEX Pick and Pack es una solución de gestión del proceso de fulfillment que p
 
 La solución se compone de:
 
-- [Aplicación Pick and Pack](/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA): gestiona pedidos en la tienda o almacén, permitiendo personalizar el método de alistamiento de pedidos, seleccionar tipo de empaque por producto y remover o agregar productos según el stock de la tienda.
+- [Aplicación Pick and Pack](/es/docs/tutorials/vtex-pick-and-pack-fulfillment): gestiona pedidos en la tienda o almacén, permitiendo personalizar el método de alistamiento de pedidos, seleccionar tipo de empaque por producto y remover o agregar productos según el stock de la tienda.
 
-- [Aplicación Last Mile](/es/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr): coordina el envío de paquetes desde los almacenes o tiendas a las direcciones de los clientes mediante la creación de rutas inteligentes de entrega, selección de conductores disponibles y seguimiento de la ubicación exacta del pedido.
+- [Aplicación Last Mile](/es/docs/tutorials/vtex-pick-and-pack-last-mile): coordina el envío de paquetes desde los almacenes o tiendas a las direcciones de los clientes mediante la creación de rutas inteligentes de entrega, selección de conductores disponibles y seguimiento de la ubicación exacta del pedido.
 
 ![pick-and-pack-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/guía-de-onboarding/proximos-pasos-tras-el-go-live/products-add-on_4.JPG)
 
@@ -70,7 +70,7 @@ Para ver una demostración de la aplicación o programar una sesión personaliza
 
 ## VTEX Shipping Network
 
-Explora las opciones de envío de productos a todas las regiones de Brasil con [VTEX Shipping Network](/es/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) y **VTEX Shipping Network Correios**.
+Explora las opciones de envío de productos a todas las regiones de Brasil con [VTEX Shipping Network](/es/docs/tutorials/listos-para-despacho) y **VTEX Shipping Network Correios**.
 
 **VTEX Shipping Network** permite conectar transportadoras para crear una red de entrega integrada, que actualmente cuenta con más de 20 socios, para ofrecer a los clientes mejores opciones de costo y plazo.
 
@@ -82,17 +82,17 @@ Para más información, debes acceder a la página de VTEX Shipping Network.
 
 ## VTEX Shipping Network Correios (solo Brasil)
 
-[VTEX Shipping Network Correios](/es/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC) es una asociación entre VTEX y Correios en la que la tienda puede contratar servicios de envío de productos a través de PAC y SEDEX directamente en el Admin VTEX, con tarifas especiales que reducen los costos operativos del envío.
+[VTEX Shipping Network Correios](/es/docs/tutorials/vtex-shipping-network-correios-faq) es una asociación entre VTEX y Correios en la que la tienda puede contratar servicios de envío de productos a través de PAC y SEDEX directamente en el Admin VTEX, con tarifas especiales que reducen los costos operativos del envío.
 
 ![image6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/guía-de-onboarding/proximos-pasos-tras-el-go-live/products-add-on_7.png)
 
-Contratar la solución es simple y solo toma unos pocos minutos: basta con aceptar los Términos y condiciones y la [activación](/es/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) directamente en el Admin de la tienda. Algunas de las funcionalidades de VTEX Shipping Network Correios son:
+Contratar la solución es simple y solo toma unos pocos minutos: basta con aceptar los Términos y condiciones y la [activación](/es/docs/tutorials/vtex-shipping-network-correios-activacion) directamente en el Admin de la tienda. Algunas de las funcionalidades de VTEX Shipping Network Correios son:
 
 - Sincronización de las tablas de envío entre Correios y VTEX. Las actualizaciones de datos realizadas por Correios se muestran automáticamente en el entorno VTEX.
 
 - El seguimiento de envío se añade y actualiza automáticamente en los pedidos.
 
-- Las etiquetas de envío se pueden imprimir desde el Admin VTEX (en la página [Pronto para Envio](/es/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs)) o por [API](https://developers.vtex.com/docs/guides/vtex-shipping-network-labels-integration) para las integraciones con sistemas externos (como ERP o WMS).
+- Las etiquetas de envío se pueden imprimir desde el Admin VTEX (en la página [Pronto para Envio](/es/docs/tutorials/listos-para-despacho)) o por [API](https://developers.vtex.com/docs/guides/vtex-shipping-network-labels-integration) para las integraciones con sistemas externos (como ERP o WMS).
 
 - Canal de comunicación directa con Correios dentro del Admin a través de [Pedido de informações](/es/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq#solicitar-informacoes-do-pedido-aos-correios).
 
@@ -100,7 +100,7 @@ Para más información, debes acceder a la página de [VTEX Shipping Network Cor
 
 ## VTEX Shield
 
-[VTEX Shield](/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh) ofrece capas de protección adicionales y personalizables para tiendas que priorizan la resiliencia de la plataforma, además de los estándares de seguridad garantizados por las certificaciones y [prácticas de seguridad](https://vtex.com/mx-es/security/security-practices/) existentes en VTEX.
+[VTEX Shield](/es/docs/tutorials/vtex-shield) ofrece capas de protección adicionales y personalizables para tiendas que priorizan la resiliencia de la plataforma, además de los estándares de seguridad garantizados por las certificaciones y [prácticas de seguridad](https://vtex.com/mx-es/security/security-practices/) existentes en VTEX.
 
 Al contratar VTEX Shield tienes la opción de elegir entre las siguientes funcionalidades:
 

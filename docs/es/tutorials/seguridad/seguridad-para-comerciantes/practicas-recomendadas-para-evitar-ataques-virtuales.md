@@ -44,13 +44,13 @@ reCAPTCHA es una solución utilizada para la validación de usuarios reales en p
 
 Recomendamos utilizar [reCAPTCHA v3](/es/tutorial/using-recaptcha-at-checkout--18Te3oDd7f4qcjKu9jhNzP#recaptcha-v3), ya que emplea una puntuación de calidad en vez de una validación por medio de una ventana emergente, lo que hace que sea más difícil de evadir en estos casos.
 
-Aprende a configurar esta validación en el checkout de tu tienda en [reCAPTCHA en el checkout](/es/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP). Para implementar reCAPTCHA v3 en una tienda VTEX, consulta la guía de desarrolladores [reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha#recaptcha-v3-score).
+Aprende a configurar esta validación en el checkout de tu tienda en [reCAPTCHA en el checkout](/es/docs/tutorials/recaptcha-en-el-checkout). Para implementar reCAPTCHA v3 en una tienda VTEX, consulta la guía de desarrolladores [reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha#recaptcha-v3-score).
 
 > ℹ️ La validación por reCAPTCHA también está activada de forma predeterminada en el flujo de [registro de tarjetas](/es/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#cartoes) de los clientes de la tienda; por lo tanto, no es necesario que la tienda la configure.
 
 ## Configuración de orderForm
 
-Para acceder a la documentación, ingrese su [nombre de cuenta](/es/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC) VTEX a continuación, haz clic en el botón e inicia sesión en el Admin.
+Para acceder a la documentación, ingrese su [nombre de cuenta](/es/docs/tutorials/que-es-account-name) VTEX a continuación, haz clic en el botón e inicia sesión en el Admin.
 
 <iframe src="https://vtexhelp.myvtex.com/insertaccountname?id=7EAqNk48KP2QHnCxu856jT" title="Ingrese su nombre de cuenta y haga click en el botón." frameBorder="0" width="400" height="50"></iframe>
 
@@ -63,4 +63,4 @@ Para realizar esta configuración:
 1. Accede a **Configuración de la cuenta** > **Autenticación**.
 2. En la pestaña __Tienda virtual__, desactiva el campo **Contraseña**.
 
-Aprende más sobre cómo [gestionar los métodos de autenticación](/es/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs) de tu tienda.
+Aprende más sobre cómo [gestionar los métodos de autenticación](/es/docs/tutorials/autenticacion) de tu tienda.

@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-Cuando, durante una experiencia de compra, el consumidor ingresa su ubicación en el _checkout_, la plataforma VTEX analiza cuáles son las [estrategias de envío](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) que mejor se adaptan al pedido y ofrece al consumidor las opciones disponibles.
+Cuando, durante una experiencia de compra, el consumidor ingresa su ubicación en el _checkout_, la plataforma VTEX analiza cuáles son las [estrategias de envío](/es/docs/tutorials/estrategia-de-envio) que mejor se adaptan al pedido y ofrece al consumidor las opciones disponibles.
 
-> ℹ️ En la etapa de la vitrina del flujo de compra, y cuando el consumidor aún no ingresó su domicilio, los productos que aparecen son los de *sellers* con la funcionalidad [Región](/es/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc) configurada o los [sellers de extensa cobertura](/es/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI), es decir, *sellers* que pueden enviar pedidos a todas las regiones cubiertas por la operación del *marketplace*.
+> ℹ️ En la etapa de la vitrina del flujo de compra, y cuando el consumidor aún no ingresó su domicilio, los productos que aparecen son los de *sellers* con la funcionalidad [Región](/es/docs/tutorials/configurar-el-precio-y-la-disponibilidad-de-skus-por-region) configurada o los [sellers de extensa cobertura](/es/docs/tutorials/seller-de-extensa-cobertura), es decir, *sellers* que pueden enviar pedidos a todas las regiones cubiertas por la operación del *marketplace*.
 
 Este artículo brinda un panorama general sobre cómo se calcula el envío y se divide en tres secciones:
 
@@ -30,23 +30,23 @@ Este artículo brinda un panorama general sobre cómo se calcula el envío y se 
 Para completar el pedido, la tienda configura combinaciones de logística y, para determinar cuál es la más ventajosa, la plataforma VTEX selecciona diferentes combinaciones para cada tipo de envío:
 
 - **Entrega:** el consumidor recibe el pedido en el domicilio informado.
-- **Recogida:** el consumidor retira el pedido en un [punto de recogida](/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R).
+- **Recogida:** el consumidor retira el pedido en un [punto de recogida](/es/docs/tutorials/puntos-de-recogida).
 
 > ℹ️ Los tipos de envío «entrega» y «recogida» siguen los mismos criterios de selección. El envío tipo «recogida» tiene un criterio adicional que mencionaremos más adelante.
 
 Para su selección, las combinaciones de logística siguen los criterios y el orden de aplicación que se indica a continuación:
 
-1. **Validación de la ruta de logística:** la ruta de logística es el conjunto de la [política de envío](/es/tutorial/politica-de-envio--tutorials_140), el [muelle de carga](/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) y el [almacén](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) que cumple con los criterios de un pedido, y tiene en cuenta la disponibilidad de ítems y la ubicación del consumidor. En esta primera etapa de validación, la plataforma VTEX analiza cuáles son las rutas de logística que cubren el envío. Se tienen en cuenta los aspectos a continuación:
+1. **Validación de la ruta de logística:** la ruta de logística es el conjunto de la [política de envío](/es/docs/tutorials/politica-de-envio), el [muelle de carga](/es/docs/tutorials/muelles) y el [almacén](/es/docs/tutorials/almacen) que cumple con los criterios de un pedido, y tiene en cuenta la disponibilidad de ítems y la ubicación del consumidor. En esta primera etapa de validación, la plataforma VTEX analiza cuáles son las rutas de logística que cubren el envío. Se tienen en cuenta los aspectos a continuación:
 <ul>
-  <li>**Características de la plantilla de flete:**por ejemplo, las dimensiones, el peso, los rangos de código postal y las modalidades. La [plantilla de flete](/es/tutorial/planilha-de-frete--tutorials_127) se rellena con la información del contrato de servicio que proporcionan las [transportadoras](/es/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE). Cada transportadora debe ser capaz de cumplir con el pedido en cuanto a las características de los ítems y al área de cobertura de la ubicación del consumidor.</li>
-  <li>**Disponibilidad de stock:** el almacén es el lugar físico donde se guardan los ítems, mientras que el [stock](/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) es la relación de los SKU de los ítems disponibles para la venta. Este criterio determina si los ítems del pedido están disponibles en un almacén y de si ese almacén tiene, al menos, un muelle de carga disponible.
+  <li>**Características de la plantilla de flete:**por ejemplo, las dimensiones, el peso, los rangos de código postal y las modalidades. La [plantilla de flete](/es/docs/tutorials/plantilla-de-flete) se rellena con la información del contrato de servicio que proporcionan las [transportadoras](/es/docs/tutorials/transportadoras-en-vtex). Cada transportadora debe ser capaz de cumplir con el pedido en cuanto a las características de los ítems y al área de cobertura de la ubicación del consumidor.</li>
+  <li>**Disponibilidad de stock:** el almacén es el lugar físico donde se guardan los ítems, mientras que el [stock](/es/docs/tutorials/gestionar-items-en-inventario) es la relación de los SKU de los ítems disponibles para la venta. Este criterio determina si los ítems del pedido están disponibles en un almacén y de si ese almacén tiene, al menos, un muelle de carga disponible.
 </li>
 </ul>
 <br>
-  > ⚠️ Si se debe enviar un [kit](/es/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28), hay dos condiciones: <ul> <li>Los componentes del kit deben tener el mismo[muelle de carga](/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj).</li> <li>Los componentes del kit deben estar disponibles en el [stock](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/2XyUVa0UKMyHTmwqyA5Bx6).</li> </ul> Para más información, consulta el artículo [Cómo se calcula el envío de un kit](/es/tutorial/como-e-calculado-o-frete-do-kit--frequentlyAskedQuestions_154).
+  > ⚠️ Si se debe enviar un [kit](/es/docs/tutorials/que-es-un-kit), hay dos condiciones: <ul> <li>Los componentes del kit deben tener el mismo[muelle de carga](/es/docs/tutorials/muelles).</li> <li>Los componentes del kit deben estar disponibles en el [stock](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/2XyUVa0UKMyHTmwqyA5Bx6).</li> </ul> Para más información, consulta el artículo [Cómo se calcula el envío de un kit](/es/docs/tutorials/como-se-calcula-el-envio-de-un-kit).
 
-2. **Prioridad del stock:** las rutas de logística seleccionadas anteriormente se organizan considerando al [stock](/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) como criterio de prioridad. Cuantos menos SKU del pedido haya en stock, más prioridad tendrá la ruta de logística en la selección para evitar que se retenga stock con pocos ítems. A partir de esto, se crea una lista de rutas de logística ordenadas de mayor a menor prioridad, es decir, el ítem con más prioridad ocupa el primer lugar y el ítem con menos prioridad ocupa el último lugar.
-3. **Agrupamiento de paquetes:** la plataforma VTEX calcula la separación de los ítems del pedido en paquetes con el fin de estimar las divisiones de paquetes y [grupos de envíos](/es/tutorial/como-funciona-a-remessa--tutorials_118).
+2. **Prioridad del stock:** las rutas de logística seleccionadas anteriormente se organizan considerando al [stock](/es/docs/tutorials/gestionar-items-en-inventario) como criterio de prioridad. Cuantos menos SKU del pedido haya en stock, más prioridad tendrá la ruta de logística en la selección para evitar que se retenga stock con pocos ítems. A partir de esto, se crea una lista de rutas de logística ordenadas de mayor a menor prioridad, es decir, el ítem con más prioridad ocupa el primer lugar y el ítem con menos prioridad ocupa el último lugar.
+3. **Agrupamiento de paquetes:** la plataforma VTEX calcula la separación de los ítems del pedido en paquetes con el fin de estimar las divisiones de paquetes y [grupos de envíos](/es/docs/tutorials/configurar-grupos-de-envio).
 4. **Cálculo del precio y plazo de envío:** la plataforma VTEX calcula los plazos y los precios de los paquetes para reordenar la lista de prioridad de las rutas de logística según los criterios y el orden de aplicación a continuación:
 <ul>
   <li>Menor costo</li>
@@ -55,9 +55,9 @@ Para su selección, las combinaciones de logística siguen los criterios y el or
   <li>[Muelles de carga prioritarios](/es/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW#campos-de-cadastro)</li>
 </ul>
 <br>
-  > ℹ️ Cuando hay un empate entre dos muelles de carga, el criterio de desempate es el *[overhead](/es/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)* o sobrecarga, es decir, el valor en días para elegir el muelle que es más beneficioso para un determinado envío. Cuanto menor sea el overhead o sobrecarga, más posibilidades habrá de que se elija ese muelle. Cabe mencionar que el overhead o sobrecarga no se tiene en cuenta al momento de calcular el tiempo de envío.
+  > ℹ️ Cuando hay un empate entre dos muelles de carga, el criterio de desempate es el *[overhead](/es/docs/tutorials/gestionar-el-muelle)* o sobrecarga, es decir, el valor en días para elegir el muelle que es más beneficioso para un determinado envío. Cuanto menor sea el overhead o sobrecarga, más posibilidades habrá de que se elija ese muelle. Cabe mencionar que el overhead o sobrecarga no se tiene en cuenta al momento de calcular el tiempo de envío.
 
-5. **Etapa exclusiva para el envío del tipo «recogida»:** existe un paso adicional en la selección para analizar los [puntos de recogida](/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R). La plataforma VTEX crea una lista con los puntos de recogida posibles utilizando el criterio de menor distancia entre el punto de recogida y la ubicación del consumidor.
+5. **Etapa exclusiva para el envío del tipo «recogida»:** existe un paso adicional en la selección para analizar los [puntos de recogida](/es/docs/tutorials/puntos-de-recogida). La plataforma VTEX crea una lista con los puntos de recogida posibles utilizando el criterio de menor distancia entre el punto de recogida y la ubicación del consumidor.
 
 El resultado final de la selección de las configuraciones de logística es una lista ordenada con las posibles rutas de logística. Sin embargo, en el _checkout_ de la experiencia de compra del consumidor solo se presentan hasta dos opciones de transportadoras para cada tipo de envío:
 
@@ -66,30 +66,30 @@ El resultado final de la selección de las configuraciones de logística es una 
 
 ## Configuraciones de prioridades en la logística
 
-En el Admin VTEX, se pueden configurar criterios y prioridades distintas para las etapas relacionadas con la [logística](/es/tutorial/logistica--53udnvI5eBy8DKo8FOjMoP):
+En el Admin VTEX, se pueden configurar criterios y prioridades distintas para las etapas relacionadas con la [logística](/es/docs/tutorials/fulfillment-logistica-vtex):
 
 - **Muelles de carga:** las prioridades se configuran en los [campos de registro del muelle de carga](/es/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW#campos-de-cadastro).
-- **Flete:** los precios del flete se configuran en las [tarifas de envío](/es/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM), excepto la [tarifa del muelle de carga](/es/tutorial/custo-final-do-envio--5bwhIO108VA5Y2YOpef9lV), que es un valor adicional opcional que se configura al agregar el muelle de carga a un almacén.
+- **Flete:** los precios del flete se configuran en las [tarifas de envío](/es/docs/tutorials/tarifas-de-envio), excepto la [tarifa del muelle de carga](/es/docs/tutorials/costo-final-del-envio), que es un valor adicional opcional que se configura al agregar el muelle de carga a un almacén.
 - **Plazo:** el tiempo para el envío se configura en la [estimación del SLA](#estimacion-del-tiempo-de-envio).
-- **División de paquetes:** los criterios adoptados se configuran en el módulo _Checkout_. Obtén más información en [División de pedidos y división de entregas](/es/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV).
+- **División de paquetes:** los criterios adoptados se configuran en el módulo _Checkout_. Obtén más información en [División de pedidos y división de entregas](/es/docs/tutorials/division-de-pedidos-y-division-de-entregas).
 
 ## Estimación del tiempo de envío
 
-La sigla SLA proviene de _Service Level Agreement_ (Acuerdo del nivel de servicio) y, en [logística](/es/tutorial/logistica--53udnvI5eBy8DKo8FOjMoP), hace referencia a la estimación del tiempo de envío de un pedido al consumidor, el cual debe corresponderse con las condiciones firmadas en la compra.
+La sigla SLA proviene de _Service Level Agreement_ (Acuerdo del nivel de servicio) y, en [logística](/es/docs/tutorials/fulfillment-logistica-vtex), hace referencia a la estimación del tiempo de envío de un pedido al consumidor, el cual debe corresponderse con las condiciones firmadas en la compra.
 
 Se utilizan los siguientes campos y parámetros para calcular el SLA:
 
-- [Política de envío](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3): `Horario laboral`, `Fines de semana y feriados`, `Entrega programada` y `TimeCost` ([plantilla de flete](/es/tutorial/planilha-de-frete--tutorials_127)).
-- [Muelle de carga](/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj): `Tiempo de costo`.
+- [Política de envío](/es/docs/tutorials/estrategia-de-envio): `Horario laboral`, `Fines de semana y feriados`, `Entrega programada` y `TimeCost` ([plantilla de flete](/es/docs/tutorials/plantilla-de-flete)).
+- [Muelle de carga](/es/docs/tutorials/muelles): `Tiempo de costo`.
 
-Se puede obtener una estimación del tiempo de envío a través del [Simulador de envío](/es/tutorial/simulador-de-envio--tutorials_144), ya que la simulación tiene en cuenta las configuraciones de las [estrategias de envío](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) de la tienda VTEX.
+Se puede obtener una estimación del tiempo de envío a través del [Simulador de envío](/es/docs/tutorials/simulador-de-envio), ya que la simulación tiene en cuenta las configuraciones de las [estrategias de envío](/es/docs/tutorials/estrategia-de-envio) de la tienda VTEX.
 
-> ℹ️ El resultado obtenido con el [Simulador de envío](/es/tutorial/simulador-de-envio--tutorials_144) es solo un aproximado, ya que recién en el checkout se conocen los factores determinantes, por ejemplo, la disponibilidad de la transportadora en el horario de la compra, el tiempo de confirmación del pago y el resultado de la [selección de sellers white label](/es/tutorial/selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa).
+> ℹ️ El resultado obtenido con el [Simulador de envío](/es/docs/tutorials/simulador-de-envio) es solo un aproximado, ya que recién en el checkout se conocen los factores determinantes, por ejemplo, la disponibilidad de la transportadora en el horario de la compra, el tiempo de confirmación del pago y el resultado de la [selección de sellers white label](/es/docs/tutorials/seleccion-de-sellers-white-label).
 
 ## Más información	
 
-- [Estrategia de envío](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)
-- [Transportadoras en VTEX](/es/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE)
-- [Cómo se maneja la reserva](/es/tutorial/como-a-reserva-funciona--tutorials_92)
-- [Logística](/es/tutorial/logistica--53udnvI5eBy8DKo8FOjMoP)
-- [Gestionar almacenes](/es/tutorial/gerenciar-estoque--tutorials_137)
+- [Estrategia de envío](/es/docs/tutorials/estrategia-de-envio)
+- [Transportadoras en VTEX](/es/docs/tutorials/transportadoras-en-vtex)
+- [Cómo se maneja la reserva](/es/docs/tutorials/como-se-maneja-la-reserva)
+- [Logística](/es/docs/tutorials/fulfillment-logistica-vtex)
+- [Gestionar almacenes](/es/docs/tutorials/gestionar-almacenes)

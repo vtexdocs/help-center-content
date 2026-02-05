@@ -46,8 +46,8 @@ Las plantillas rellenadas con datos incorrectos pueden generar errores durante l
 
 Comprueba que los campos de tu plantilla estén rellenados según las guías de los siguientes artículos:
 
-- [Plantilla de precios base](/es/tutorial/tabla-de-precios-base--4Jox8TeQ5feqAn78TZ0DNA)
-- [Plantilla de precios fijos](/es/tutorial/rellenar-campos-de-la-plantilla-de-importacion-de-precios-fijos--50RFoH3ruV97FJgeBUCURh)
+- [Plantilla de precios base](/es/docs/tutorials/tabla-de-precios-base)
+- [Plantilla de precios fijos](/es/docs/tutorials/rellenar-campos-de-la-plantilla-de-importacion-de-precios-fijos)
 
 > ⚠️ Antes de importar la plantilla en el Admin VTEX, comprueba que no contenga columnas con información de errores (**Error Code** y **Error Message**) ni que tenga algún tipo de filtro aplicado en las celdas. Si intentas importar una plantilla así, pueden generarse errores en el proceso de importación de datos.
 

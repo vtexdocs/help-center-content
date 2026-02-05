@@ -48,7 +48,7 @@ La siguiente tabla proporciona la descripción de las columnas de la lista de pr
 
 ## Crear alerta
 
-Para crear una alerta de promoción, haz clic en el botón `Crear alerta`.  Para más detalles, consulta el artículo [Alertas de promoción: cómo crear una alerta de promoción](/es/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR).
+Para crear una alerta de promoción, haz clic en el botón `Crear alerta`.  Para más detalles, consulta el artículo [Alertas de promoción: cómo crear una alerta de promoción](/es/docs/tutorials/alerta-de-promociones-como-crear-una-alerta-beta).
 
 ## Buscar alerta
 
@@ -93,5 +93,5 @@ Se completará la duplicación de la alerta con éxito.
 
 ## Más información
 
-- [Alertas de promociones: cómo crear una alerta de promoción](/es/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR)
+- [Alertas de promociones: cómo crear una alerta de promoción](/es/docs/tutorials/alerta-de-promociones-como-crear-una-alerta-beta)
 - [Cómo funcionan las promociones](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)

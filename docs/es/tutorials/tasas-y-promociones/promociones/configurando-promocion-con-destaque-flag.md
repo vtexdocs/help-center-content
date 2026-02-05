@@ -34,7 +34,7 @@ El destaque de promoción puede aplicarse a diferentes tipos de promociones y de
 
 Los siguientes tipos de descuentos son elegibles para la aplicación de un destaque:
 
-- [Descuento porcentual](/es/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): ofrece una reducción porcentual en el valor del producto.
+- [Descuento porcentual](/es/docs/tutorials/configurar-promocion-de-descuento-porcentual-para-un-sku-especifico): ofrece una reducción porcentual en el valor del producto.
 
 - **Regalo**: ofrece un producto adicional sin costo al cliente al comprar un determinado artículo o alcanzar un valor mínimo de compra.
 

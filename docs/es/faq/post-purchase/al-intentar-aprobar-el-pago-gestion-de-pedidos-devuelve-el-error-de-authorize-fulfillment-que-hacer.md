@@ -20,7 +20,7 @@ En este caso, al intentar aprobar el pago en **Pedidos**, usted verá el siguien
 
 ![error authorize fulfillment](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/post-purchase/al-intentar-aprobar-el-pago-gestion-de-pedidos-devuelve-el-error-de-authorize-fulfillment-que-hacer_1.png)
 
-Para confirmar que el problema es este, en la [página de detalles del pedido](/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), haga clic en `Ver interacciones` para ver los detalles del pedido.
+Para confirmar que el problema es este, en la [página de detalles del pedido](/es/docs/tutorials/pagina-de-detalles-del-pedido), haga clic en `Ver interacciones` para ver los detalles del pedido.
 
 Si hay un error como "La reserva solicitada *00-abc* no pudo ser garantizada para el pedido *00-xyz*", es porque algun de los SKUs incluidos en el carrito no tiene stock disponible, lo que inviabiliza que la compra sea aprobada. En este caso, corregir el inventario debe permitir que el pedido siga su flujo.
 

@@ -17,7 +17,7 @@ tags:
   - Redirecciones
 ---
 
-Cuando hay un número excesivo de redirecciones, la página Redirecciones del Admin no puede procesar la búsqueda. Por lo tanto, al intentar realizarla, no se obtiene ningún resultado. Para más información sobre la página Redirecciones, consulta el artículo [Gestionar redirecciones según el binding](/es/tutorial/administrando-redireccionamientos-de-url-por-binding--67GAK2TCQgjvmtPXxAqREb).
+Cuando hay un número excesivo de redirecciones, la página Redirecciones del Admin no puede procesar la búsqueda. Por lo tanto, al intentar realizarla, no se obtiene ningún resultado. Para más información sobre la página Redirecciones, consulta el artículo [Gestionar redirecciones según el binding](/es/docs/tutorials/administrando-redireccionamientos-de-url-por-binding).
 
 ## Solución
 

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
-Este artículo explica cómo registrar un usuario con el [rol](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) de televentas. Para más información sobre los roles de usuario y cómo configurarlos, consulta [este](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) artículo.
+Este artículo explica cómo registrar un usuario con el [rol](/es/docs/tutorials/roles) de televentas. Para más información sobre los roles de usuario y cómo configurarlos, consulta [este](/es/docs/tutorials/roles) artículo.
 
 ## Roles de televentas
 

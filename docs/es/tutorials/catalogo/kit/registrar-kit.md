@@ -23,17 +23,17 @@ La siguiente tabla presenta las características y contextos para el uso de kit 
 
 | **Tipo** | **Definición** | **Ejemplo** |
 | :---: | :--- | :--- |
-| [Kit](/es/tutorial/que-es-un-kit--5ov5s3eHM4AqAAgqWwoc28) | <ul><li>Los componentes forman un conjunto que no se puede dividir, de modo que el cliente no puede comprar los ítems por separado.</li><li>La tienda puede decidir si ofrece los componentes para compra individual o no.</li></ul> | Una tienda de moda masculina ofrece el kit "Día del Padre", compuesto por un par de zapatos, medias y un llavero. Al cliente no le interesa el llavero, pero le gustaron los zapatos y las medias, por lo que acepta llevarse el kit completo, ya que no es posible comprar ítems individuales. |
-| [Kit de look](/es/tutorial/como-montar-un-kit-look--tutorials_266) | <ul><li>Los componentes funcionan como una sugerencia de compra conjunta, y el cliente puede elegir los ítems del kit de look que desea adquirir.</li><li>La tienda ofrece todos los componentes para compra individual.</li></ul>| Una tienda de moda femenina ofrece la venta del kit de look "Verano", formado por un bikini, una salida de playa y unas sandalias. A la cliente no le gustaron las sandalias y compra solo el bikini y la salida de playa. |
+| [Kit](/es/docs/tutorials/que-es-un-kit) | <ul><li>Los componentes forman un conjunto que no se puede dividir, de modo que el cliente no puede comprar los ítems por separado.</li><li>La tienda puede decidir si ofrece los componentes para compra individual o no.</li></ul> | Una tienda de moda masculina ofrece el kit "Día del Padre", compuesto por un par de zapatos, medias y un llavero. Al cliente no le interesa el llavero, pero le gustaron los zapatos y las medias, por lo que acepta llevarse el kit completo, ya que no es posible comprar ítems individuales. |
+| [Kit de look](/es/docs/tutorials/como-montar-un-kit-de-look) | <ul><li>Los componentes funcionan como una sugerencia de compra conjunta, y el cliente puede elegir los ítems del kit de look que desea adquirir.</li><li>La tienda ofrece todos los componentes para compra individual.</li></ul>| Una tienda de moda femenina ofrece la venta del kit de look "Verano", formado por un bikini, una salida de playa y unas sandalias. A la cliente no le gustaron las sandalias y compra solo el bikini y la salida de playa. |
 
 ## Crear kit
 
 Sigue las instrucciones a continuación para crear un kit:
 
-> ℹ️ También puedes consultar cómo [Crear un kit de look](/es/tutorial/como-montar-un-kit-look--tutorials_266).
+> ℹ️ También puedes consultar cómo [Crear un kit de look](/es/docs/tutorials/como-montar-un-kit-de-look).
 
 1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa **Productos y SKUs** en la barra de búsqueda en la parte superior de la página.
-2. Accede a la página de edición del SKU que será uno de los componentes. Si aún no hay un SKU creado, consulta [Agregar o editar SKUs](/es/tutorial/agregar-o-editar-skus--4ryZ6J45kwn3jDiQBxGiiN).
+2. Accede a la página de edición del SKU que será uno de los componentes. Si aún no hay un SKU creado, consulta [Agregar o editar SKUs](/es/docs/tutorials/agregar-o-editar-skus).
 3. En la pestaña **SKUs**, haz clic en la <i class="fas fa-ellipsis-v" aria-hidden="true"></i> fila del SKU deseado.
 
   ![bundle_registration_image_1_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/kit/registrar-kit_1.png)
@@ -55,7 +55,7 @@ El peso del Kit estará conformado por la suma del peso de sus componentes.
 
 ## Stock
 
-El [stock](/es/tutorial/inventory-management--tutorials_139) del Kit siempre será el inventario de sus componentes. Es decir, no es posible ingresar stock apenas en el Kit, es necesario que se ingrese stock en cada uno de sus componentes independientes, a fin de actualizar el stock del Kit. Esa información es visualizada en tu Admin VTEX en **Catálogo > Stock > Gestión del stock**.
+El [stock](/es/docs/tutorials/gestionar-items-en-inventario) del Kit siempre será el inventario de sus componentes. Es decir, no es posible ingresar stock apenas en el Kit, es necesario que se ingrese stock en cada uno de sus componentes independientes, a fin de actualizar el stock del Kit. Esa información es visualizada en tu Admin VTEX en **Catálogo > Stock > Gestión del stock**.
 
 Como todos los SKUs componentes del Kit solo pueden venderse juntos, el stock será igual al SKU con menos ítems en stock. Esto porque no puede comprarse el Kit cuando uno de los componentes ya no tiene stock.  
 

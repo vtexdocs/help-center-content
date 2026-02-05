@@ -32,11 +32,11 @@ Esta página define las funcionalidades que el usuario podrá ver y/o modificar 
 
 ## Cuenta
 
-En esta página encontrarás los datos básicos de la tienda virtual, la configuración de dominio y multidominio, las claves de acceso de API, el logotipo de la empresa y la información de contacto. Para más información sobre la página, consulta el artículo [Página de detalles de la cuenta](/es/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq).
+En esta página encontrarás los datos básicos de la tienda virtual, la configuración de dominio y multidominio, las claves de acceso de API, el logotipo de la empresa y la información de contacto. Para más información sobre la página, consulta el artículo [Página de detalles de la cuenta](/es/docs/tutorials/gestion-de-la-cuenta).
 
 ## Autenticación
 
-En esta página, puedes elegir las opciones de inicio de sesión para que los clientes de la tienda accedan a su cuenta y para que los usuarios administrativos accedan al panel administrativo. Obtén más información sobre la página en el artículo [Autenticación](/es/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs).
+En esta página, puedes elegir las opciones de inicio de sesión para que los clientes de la tienda accedan a su cuenta y para que los usuarios administrativos accedan al panel administrativo. Obtén más información sobre la página en el artículo [Autenticación](/es/docs/tutorials/autenticacion).
 
 ## Usuarios
 

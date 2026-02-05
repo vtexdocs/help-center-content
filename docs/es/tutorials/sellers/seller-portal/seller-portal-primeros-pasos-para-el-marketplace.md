@@ -15,11 +15,11 @@ locale: es
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
-El *[marketplace](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402)* es un modelo de negocio colaborativo que requiere sus propias estrategias para tener éxito. La incorporación de nuevos *sellers*, por ejemplo, plantea desafíos como la sincronización de catálogos y el envío y la recepción de pedidos.
+El *[marketplace](/es/docs/tutorials/estrategias-de-marketplace-en-vtex)* es un modelo de negocio colaborativo que requiere sus propias estrategias para tener éxito. La incorporación de nuevos *sellers*, por ejemplo, plantea desafíos como la sincronización de catálogos y el envío y la recepción de pedidos.
 
 Para aportar más rapidez y sencillez a la colaboración entre el *marketplace* y el *seller*, VTEX desarrolló el *Seller Portal*, una edición de la plataforma VTEX destinada a que los *marketplaces* y los *sellers* se conecten y vendan sus productos.
 
-Cuando contratas el *Seller Portal*, no hay una cuota mensual fija para el *marketplace*, ni un costo por adquirir este producto. El modelo de cobro se basa en la participación en los ingresos, cobrándose al *marketplace* la tasa de aceptación B2C establecida en el contrato, realizada sobre los [ingresos aprobados](/es/tutorial/compreenda-o-valor-da-receita-aprovada--tutorials_4322) en el *marketplace* VTEX por cada *seller* externo. En el caso de los *sellers* externos a VTEX, la tasa de captación se cobra solo al *marketplace*, y en el caso de los *sellers* VTEX, la tasa de aceptación se cobra tanto al *seller* como al *marketplace*.
+Cuando contratas el *Seller Portal*, no hay una cuota mensual fija para el *marketplace*, ni un costo por adquirir este producto. El modelo de cobro se basa en la participación en los ingresos, cobrándose al *marketplace* la tasa de aceptación B2C establecida en el contrato, realizada sobre los [ingresos aprobados](/es/docs/tutorials/comprenda-el-valor-de-los-ingresos-aprobados) en el *marketplace* VTEX por cada *seller* externo. En el caso de los *sellers* externos a VTEX, la tasa de captación se cobra solo al *marketplace*, y en el caso de los *sellers* VTEX, la tasa de aceptación se cobra tanto al *seller* como al *marketplace*.
 
 A través del *Seller Portal*, los *marketplaces* pueden:
 
@@ -45,7 +45,7 @@ Los pasos representados en la imagen anterior son los siguientes:
 6. **_Marketplace_:** aprueba el anuncio.
 7. **_Seller_:** gestiona los pedidos.
 
-El _marketplace_ es responsable de la incorporación de nuevos _sellers_. En otras palabras, es función del _marketplace_ proporcionar el soporte necesario a la experiencia del _seller_ en el Seller Portal. Para obtener información sobre las acciones del _seller_, consulta el artículo [Seller Portal: primeros pasos del seller](/es/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK). 
+El _marketplace_ es responsable de la incorporación de nuevos _sellers_. En otras palabras, es función del _marketplace_ proporcionar el soporte necesario a la experiencia del _seller_ en el Seller Portal. Para obtener información sobre las acciones del _seller_, consulta el artículo [Seller Portal: primeros pasos del seller](/es/docs/tutorials/como-configurar-su-tienda-en-seller-portal). 
 
 En las siguientes secciones, las etapas asignadas al _marketplace_ se han organizado en:
 
@@ -56,7 +56,7 @@ En las siguientes secciones, las etapas asignadas al _marketplace_ se han organi
 
 ### Invitar seller
 
-La página de **Invitación de Sellers** es donde los operadores del _marketplace_ [invitan a los sellers](/es/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A) a crear una cuenta en el Seller Portal. Puedes acceder a la página desde el Admin VTEX, en **MARKETPLACE > Sellers > Invitación de Sellers**. 
+La página de **Invitación de Sellers** es donde los operadores del _marketplace_ [invitan a los sellers](/es/docs/tutorials/marketplace-sellers-invitados) a crear una cuenta en el Seller Portal. Puedes acceder a la página desde el Admin VTEX, en **MARKETPLACE > Sellers > Invitación de Sellers**. 
 
 A través del Seller Portal, los _marketplaces_ hospedados en VTEX pueden conectarse con _sellers_ que tienen una cuenta VTEX, _sellers_ hospedados en otras plataformas o _sellers_ que no están alojados en ninguna plataforma. Al aceptar la invitación, el _seller_ elige si desea integrar su cuenta VTEX existente o crear una nueva cuenta para vender en el _marketplace_. 
 
@@ -68,7 +68,7 @@ Es también en la etapa de invitar al _seller_ que el _marketplace_ define si qu
 
 Para saber más, consulta los siguientes artículos:
 
-- [Marketplace: invitación de sellers](/es/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A)
+- [Marketplace: invitación de sellers](/es/docs/tutorials/marketplace-sellers-invitados)
 - [Sellers: crear una cuenta en el Seller Portal](/es/tutorial/seller-criar-conta-no-seller-portal-beta--3gn2Q5rMhgu0jjX7AiiHcs#crear-una-cuenta-en-el-seller-portal)
 
 ### Activar seller
@@ -96,15 +96,15 @@ Además de invitar y activar a los _sellers_ a través del Admin VTEX, el _marke
 
 Este paso es opcional para el _marketplace_ y dependerá del objetivo de tu modelo de negocio. La compartición del catálogo se definió en el paso [Invitar seller](/es/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#invitar-seller) a través de la opción **Compartir catálogo del marketplace**.
 
-Cuando el _marketplace_ opta por compartir el catálogo, lo hace a través de una [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV). El _seller_ recibe la lista de productos ya registrados en el _marketplace_ para importar y configurar el _stock_ y el precio en el Seller Portal, en **Precios > Catálogo > Productos compartidos**.
+Cuando el _marketplace_ opta por compartir el catálogo, lo hace a través de una [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial). El _seller_ recibe la lista de productos ya registrados en el _marketplace_ para importar y configurar el _stock_ y el precio en el Seller Portal, en **Precios > Catálogo > Productos compartidos**.
 
-> ℹ️ La creación de una política comercial adicional por parte del operador del marketplace para definir el surtido del catálogo de sellers en el Seller Portal se cobra como un [contratación de política comercial adicional](/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X).
+> ℹ️ La creación de una política comercial adicional por parte del operador del marketplace para definir el surtido del catálogo de sellers en el Seller Portal se cobra como un [contratación de política comercial adicional](/es/docs/tutorials/contratacion-de-politicas-comerciales-adicionales).
 
 #### Compartir productos
 
 En el Seller Portal, el _seller_ dispone de una interfaz para gestionar los productos comunes entre su catálogo y el catálogo del _marketplace_, en **Precios > Catálogo > Productos compartidos**. Esta funcionalidad reduce la complejidad para que el _seller_ venda los productos que ya tiene el _marketplace_ y le permite empezar a vender más rápido y con menos fricción.
 
-El panel **Productos compartidos** informa al _seller_ todos los productos que el _marketplace_ ha puesto a la venta. Estos productos están sincronizados con el catálogo del _marketplace_. Para más información, consulta el artículo [Seller Portal: productos compartidos](/es/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu).
+El panel **Productos compartidos** informa al _seller_ todos los productos que el _marketplace_ ha puesto a la venta. Estos productos están sincronizados con el catálogo del _marketplace_. Para más información, consulta el artículo [Seller Portal: productos compartidos](/es/docs/tutorials/seller-portal-productos-compartidos).
 
 Además de compartir productos, el _seller_ puede crear sus propios productos en el Seller Portal para complementar el surtido que ofrece el _marketplace_. Esto se hace en **Precios > Catálogo > Productos**.
 
@@ -112,11 +112,11 @@ Tanto los productos compartidos como los creados por el _seller_ entran automát
 
 ### Catalogar anuncios
 
-En VTEX, un [anuncio](/es/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu) es un producto o variación de un _seller_ que recibió la configuración de precio y _stock_ y fue enviado al _marketplace_. Para que el producto del _seller_ resulte en la creación de un anuncio, este [producto debe estar activo](/es/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP#activar-productos-compartidos-en-el-marketplace).
+En VTEX, un [anuncio](/es/docs/tutorials/anuncios-y-envio-de-productos-al-marketplace) es un producto o variación de un _seller_ que recibió la configuración de precio y _stock_ y fue enviado al _marketplace_. Para que el producto del _seller_ resulte en la creación de un anuncio, este [producto debe estar activo](/es/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP#activar-productos-compartidos-en-el-marketplace).
 
-Cuando el _seller_ crea un nuevo producto, el _marketplace_ debe revisarlo y aprobar el anuncio del producto siguiendo un proceso llamado [catalogación de anuncios](/es/tutorial/sugerindo-e-aprovando-skus--tutorials_396). La catalogación permite crear nuevos productos y asociar anuncios a SKU o productos ya existentes para ponerlos a la venta.
+Cuando el _seller_ crea un nuevo producto, el _marketplace_ debe revisarlo y aprobar el anuncio del producto siguiendo un proceso llamado [catalogación de anuncios](/es/docs/tutorials/catalogacion-manual-de-skus). La catalogación permite crear nuevos productos y asociar anuncios a SKU o productos ya existentes para ponerlos a la venta.
 
-> ℹ️ Los anuncios de [productos compartidos](/es/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu) entre el marketplace y el seller se aprueban automáticamente sin necesidad de ninguna acción manual.
+> ℹ️ Los anuncios de [productos compartidos](/es/docs/tutorials/seller-portal-productos-compartidos) entre el marketplace y el seller se aprueban automáticamente sin necesidad de ninguna acción manual.
 
 El proceso de catalogación puede ser realizado en el Admin VTEX, en **MARKETPLACE > Sellers > SKU recibidos**, o mediante la API [Match Received SKUs](https://developers.vtex.com/vtex-rest-api/reference/match).
 
@@ -124,8 +124,8 @@ Al catalogar anuncios, el _marketplace_ debe considerar la calidad de la informa
 
 Para más información, consulta los siguientes artículos:
 
-- [Seller Portal: Anuncios y envío de productos al marketplace](/es/tutorial/seller-portal-anuncios-e-o-envio-de-produtos-para-o-marketplace--3RwSj7AyBoPtFbXkS7REiu)
-- [Catalogación de los SKU recibidos](/es/tutorial/sugerindo-e-aprovando-skus--tutorials_396)
+- [Seller Portal: Anuncios y envío de productos al marketplace](/es/docs/tutorials/anuncios-y-envio-de-productos-al-marketplace)
+- [Catalogación de los SKU recibidos](/es/docs/tutorials/catalogacion-manual-de-skus)
 
 ## Otra información
 
@@ -135,4 +135,4 @@ Para más información, consulta los siguientes artículos:
 
 ## Sepa más
 
-- [Elegir entre cuenta estándar, cuenta franquicia o Seller Portal](/es/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78)
+- [Elegir entre cuenta estándar, cuenta franquicia o Seller Portal](/es/docs/tutorials/elegir-entre-cuenta-estandar-cuenta-franquicia-o-seller-portal)

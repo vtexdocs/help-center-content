@@ -23,7 +23,7 @@ Para obtener más información sobre la instalación de [VTEX Sales App, accede 
 
 ## Instalar Assembly Options
 
-Para utilizar Assembly Options es necesario tener instaladas en tu tienda las aplicaciones [VTEX Sales App](https://apps.vtex.com/vtex-assisted-sales-admin/p) y Assembly Options. La aplicación [Assembly Options](/es/tutorial/assembly-options-app--54mWg37mojrqOgCA79iqqk) está disponible solamente para tiendas [VTEX IO](https://developers.vtex.com/docs/guides/welcome).
+Para utilizar Assembly Options es necesario tener instaladas en tu tienda las aplicaciones [VTEX Sales App](https://apps.vtex.com/vtex-assisted-sales-admin/p) y Assembly Options. La aplicación [Assembly Options](/es/docs/tutorials/aplicacion-assembly-options) está disponible solamente para tiendas [VTEX IO](https://developers.vtex.com/docs/guides/welcome).
 
 ## Escenarios de aplicación de Assembly Options en VTEX Sales App
 

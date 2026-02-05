@@ -24,7 +24,7 @@ El número de suscripciones es ilimitado, tanto para su tienda como para su clie
 Sí, el cliente puede crear todas las suscripciones que desee.
 
 ### ¿Puede mi cliente comprar por suscripción y retirar en las tiendas o en puntos de recogida?
-Sí, lea el artículo [Puntos de recogida para pedidos de suscripción (Beta)](/es/tutorial/puntos-de-recogida-para-pedidos-de-suscripcion-beta--csIqB6iBh4QNIFdEj0nVv) para más información.
+Sí, lea el artículo [Puntos de recogida para pedidos de suscripción (Beta)](/es/docs/tutorials/puntos-de-recogida-para-pedidos-de-suscripcion) para más información.
 
 ### ¿Puede mi cliente registrar más de una dirección en su suscripción?
 No es posible registrar más de una dirección en la misma suscripción.
@@ -39,7 +39,7 @@ Sí, pueden crearse suscripciones con varios SKUs.
 
 La cantidad de ítems en la suscripción dependerá del stock disponible en el momento en que se genera el pedido de recurrencia. Por ejemplo, si el cliente tiene 4 SKUs en la suscripción y solo hay 3 disponibles, la suscripción se generará con esos 3 SKUs. En estos casos, el ítem faltante no se cobra y la suscripción se marca como Parcial en **Mi cuenta**.
 
-También puedes comunicar al cliente a través del módulo [Centro de mensajes](/es/tutorial/emails-transacionais-para-pedidos-de-assinaturas--2NYHqHMRqZ43Cn6s84ZCB5) que el pedido de suscripción se generó de manera parcial. La clave de esta plantilla de mensaje es `vtexcommerce-subscriptions-partialorder`.
+También puedes comunicar al cliente a través del módulo [Centro de mensajes](/es/docs/tutorials/correos-electronicos-transaccionales-para-pedidos-de-suscripciones) que el pedido de suscripción se generó de manera parcial. La clave de esta plantilla de mensaje es `vtexcommerce-subscriptions-partialorder`.
 
 ### ¿Puedo otorgar un descuento en los productos de un plan de suscripción?
 Sí, siempre y cuando crees una promoción regular y marques la casilla `Pedido de suscripción`. Para más información sobre cómo crear promociones, consulta la serie de artículos [Crear promoción Regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
@@ -57,7 +57,7 @@ Si la tarjeta del cliente fue cancelada y este no se dio cuenta antes de que se 
 
 Además, el cliente puede cambiar la tarjeta registrada en la suscripción en cualquier momento. Si la tarjeta del cliente fue cancelada y este ingresó una nueva tarjeta después de la fecha de recurrencia, el pedido de suscripción no se genera y el próximo cobro se intentará en la nueva tarjeta.
 
-Nuestro módulo [Centro de mensajes](/es/tutorial/emails-transacionais-para-pedidos-de-assinaturas--2NYHqHMRqZ43Cn6s84ZCB5) permite activar el envío de un email para comunicar que no se aprobó el pago de la suscripción. La clave de esta plantilla de mensaje es `vtexcommerce-subscriptions-payment-not-approved`.
+Nuestro módulo [Centro de mensajes](/es/docs/tutorials/correos-electronicos-transaccionales-para-pedidos-de-suscripciones) permite activar el envío de un email para comunicar que no se aprobó el pago de la suscripción. La clave de esta plantilla de mensaje es `vtexcommerce-subscriptions-payment-not-approved`.
 
 ### ¿Puede mi cliente solicitar una entrega programada para pedidos de Suscripción?
 Todavía no es posible solicitar entregas programadas para pedidos de Suscripción. Ese escenario no se atiende para que su cliente no se vea afectado negativamente si la configuración logística de su tienda cambia. Sin embargo, su cliente puede crear una nueva suscripción con la fecha futura de la primera entrega en el día que desee.   
@@ -88,4 +88,4 @@ Sin embargo, puedes establecer otra hora mediante API utilizando el request [Edi
 No, Suscripciones no funciona con el [Seller Portal](/es/tutorial/how-to-set-up-your-store-on-seller-portal).
 
 ### ¿Cómo crear suscripciones a partir de pedidos originales que tienen SKUs con anexos?
-De forma predeterminada, las tiendas no crean pedidos de suscripción incorporando [anexos](/es/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) de SKUs del pedido original, es decir, los anexos no se consideran en pedidos recurrentes. Esta configuración se puede cambiar, pero solo a través de API utilizando el endpoint [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings). Más información en [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).
+De forma predeterminada, las tiendas no crean pedidos de suscripción incorporando [anexos](/es/docs/tutorials/que-es-un-anexo) de SKUs del pedido original, es decir, los anexos no se consideran en pedidos recurrentes. Esta configuración se puede cambiar, pero solo a través de API utilizando el endpoint [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings). Más información en [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).

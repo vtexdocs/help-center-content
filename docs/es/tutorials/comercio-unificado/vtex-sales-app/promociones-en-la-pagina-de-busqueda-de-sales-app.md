@@ -23,7 +23,7 @@ Para que una promoción se refleje correctamente en Sales App es necesario:
 - Insertar un campo llamado `salesAppHighlight` con el valor `true` en la sección de **información adicional** para destacar la promoción en la imagen del producto.
 - Insertar un campo en la sección de **información adicional** con el nombre `salesAppDisplayName` y como valor, agrega el texto que sobrescribirá el nombre predeterminado de la promoción mostrada en la página de búsqueda. Por ejemplo, "Envío gratis".
 
-> ℹ️ Si deseas que la promoción sea exclusiva para la aplicación Sales App, es necesario configurar la [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) específica para Sales App.
+> ℹ️ Si deseas que la promoción sea exclusiva para la aplicación Sales App, es necesario configurar la [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) específica para Sales App.
 
 Cuando un producto tiene múltiples promociones asociadas, el vendedor de una tienda física puede ver todas las opciones haciendo clic en la tag de la promoción mostrada en los resultados de búsqueda.
 

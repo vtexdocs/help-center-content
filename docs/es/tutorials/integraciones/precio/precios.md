@@ -32,4 +32,4 @@ la nueva lista de precios está compuesta por: una lista con los productos e su
 - [Registrar Tabla de Precio](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/2WQ3pVYfQpXkJnHr7VTFBv)
 - [Regla de Precio](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/2rBirbpB7wLnei4dQ9KGMW)
 - [Redondeo de Precios](/es/tutorial/precio-psicologico-v2/)
-- [Configuración de precios](/es/tutorial/configuracion-de-precios--3hbBtCzNUBrj8GaWgCtSWN)
+- [Configuración de precios](/es/docs/tutorials/configuracion-de-precios)

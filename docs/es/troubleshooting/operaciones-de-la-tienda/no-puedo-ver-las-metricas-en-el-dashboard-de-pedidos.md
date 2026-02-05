@@ -43,4 +43,4 @@ Ajustar correctamente el periodo de comparación puede resolver el problema, ya 
 El tiempo de espera para la actualización de la información del dashboard puede variar entre 10 y 80 minutos. Este periodo es necesario para que los datos se procesen y se muestren correctamente. Para más información sobre el tiempo de espera, accede a [Comparar periodos](/es/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ?&utm_source=autocomplete#comparacao-de-periodos).
 
 ### Comprobar permisos de acceso
-Para ver la información en el dashboard, asegúrate de tener un rol que incluya el [recurso](/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) **Insights metrics**. Para más información sobre roles y cómo configurarlos, consulta el artículo [Roles](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+Para ver la información en el dashboard, asegúrate de tener un rol que incluya el [recurso](/es/docs/tutorials/recursos-del-license-manager) **Insights metrics**. Para más información sobre roles y cómo configurarlos, consulta el artículo [Roles](/es/docs/tutorials/roles).

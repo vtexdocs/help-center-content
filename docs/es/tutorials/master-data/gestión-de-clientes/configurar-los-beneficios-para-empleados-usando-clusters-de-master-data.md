@@ -26,7 +26,7 @@ Dado que los datos de los clientes se almacenan como documentos de la entidad de
 ## ¿Qué es un clúster?
 
 En Master Data, un clúster es un campo con un valor determinado para una entidad de datos. Uno o más clústeres definen este grupo de clientes con propiedades comunes en la entidad de datos CL.
-Aquí, la propiedad común de los clientes será que también son empleados de la tienda. Se puede encontrar más información sobre los clústeres de clientes en el artículo [Crear clúster de clientes](/es/tutorial/how-can-i-create-cluster-of-customers--frequentlyAskedQuestions_1724).
+Aquí, la propiedad común de los clientes será que también son empleados de la tienda. Se puede encontrar más información sobre los clústeres de clientes en el artículo [Crear clúster de clientes](/es/docs/tutorials/como-crear-un-cluster-de-cliente).
 
 En este artículo se asume que los empleados están debidamente registrados con un campo booleano `isEmployee` establecido como true en sus respectivos documentos para la entidad de datos CL, como se muestra en la siguiente imagen.
 

@@ -22,7 +22,7 @@ En las secciones a continuación, describimos algunos ajustes de seguridad dispo
 
 Al declarar el campo `requiresLoginToPlaceOrder` como `true` se determina que solamente aquellos clientes que hayan pasado por el proceso de autenticación puedan realizar compras. El cliente debe tener una sesión iniciada con el email que proporcionó cuando agregó los productos al carrito.
 
-Cuando activas este campo, [SmartCheckout](/es/tutorial/smartcheckout-security--3SrJuuhrqwePUg1rp1exfB) será desactivado para todos los clientes de la tienda.
+Cuando activas este campo, [SmartCheckout](/es/docs/tutorials/seguridad-de-smartcheckout) será desactivado para todos los clientes de la tienda.
 
 ## Tiempo mínimo entre pedidos
 

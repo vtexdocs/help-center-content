@@ -17,7 +17,7 @@ subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 
 **Cambio de pedidos** es la funcionalidad que permite a un cliente cambiar los datos de un pedido sin tener que ponerse en contacto con el equipo de soporte o realizar un nuevo pedido.
 
-[Sustituir ítems](/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190) es diferente a cambio de pedidos. Al cambiar un pedido, el cliente solicita cambios en el pedido, y al sustituir ítems, la tienda modifica el pedido.
+[Sustituir ítems](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado) es diferente a cambio de pedidos. Al cambiar un pedido, el cliente solicita cambios en el pedido, y al sustituir ítems, la tienda modifica el pedido.
 
 > ❗ Esta funcionalidad está disponible para todas las tiendas, sin embargo, debes activarla para que tus clientes puedan utilizarla.
 
@@ -29,7 +29,7 @@ En este artículo puedes consultar:
 
 ## Cómo activar la funcionalidad
 
-> ❗ Si el Cambio de pedidos se activa en tiendas cuya página Mis pedidos tiene personalización, debes volver a crear la personalización. La funcionalidad sustituye la versión antigua de la página (que está personalizada) por una nueva página no personalizada. Para estos casos, recomendamos que antes de activar la funcionalidad en tu tienda, utilices un  [ entorno beta](/es/tutorial/acceder-al-ambiente-beta--3BHM289568gcSwk2O80Asu) y valides la activación con personalización.
+> ❗ Si el Cambio de pedidos se activa en tiendas cuya página Mis pedidos tiene personalización, debes volver a crear la personalización. La funcionalidad sustituye la versión antigua de la página (que está personalizada) por una nueva página no personalizada. Para estos casos, recomendamos que antes de activar la funcionalidad en tu tienda, utilices un  [ entorno beta](/es/docs/tutorials/acceder-al-ambiente-beta) y valides la activación con personalización.
 
 Para activar la funcionalidad, siga los pasos a continuación:
 
@@ -48,15 +48,15 @@ Los clientes pueden modificar un pedido hasta que se facture, a diferencia de lo
 Los datos que se pueden modificar con el cambio de pedidos son:
 
 * Dirección de entrega
-* [Tipo de entrega](/es/tutorial/como-se-maneja-el-tipo-de-entrega--tutorials_126)
+* [Tipo de entrega](/es/docs/tutorials/como-se-maneja-el-tipo-de-entrega)
 * Forma de pago
-* [SKU](/es/tutorial/que-es-un-sku--1K75s4RXAQyOuGUYKMM68u)
+* [SKU](/es/docs/tutorials/que-es-un-sku)
 
 ### Restricciones
 
 El cambio de pedidos no es posible en los casos de:
 
-* [Pedidos incompletos](/es/tutorial/entendendo-os-pedidos-incompletos--tutorials_294): cuando el pedido no contiene toda la información necesaria para ser finalizado en la plataforma.
+* [Pedidos incompletos](/es/docs/tutorials/como-encontrar-un-pedido): cuando el pedido no contiene toda la información necesaria para ser finalizado en la plataforma.
 * Transacción compartida: pedidos con un o más _sellers_ y pago realizado al _marketplace_.
 * Pedidos ya modificados por la tienda.
 * Pedidos con los siguientes status:

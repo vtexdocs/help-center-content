@@ -31,5 +31,5 @@ Principales beneficios:
 
 La funcionalidad está disponible para las cuentas elegibles seleccionadas por Mercado Libre a partir del 06 octubre de 2025.
 
-Para verificar si tu cuenta es elegible y saber cómo funciona y cómo activar estas modalidades de envío, consulta el tutorial [Envíos de Mercado Libre](/es/tutorial/mercado-livre-envios--4fbF0Glf0R2YUCxYof4aIL).
+Para verificar si tu cuenta es elegible y saber cómo funciona y cómo activar estas modalidades de envío, consulta el tutorial [Envíos de Mercado Libre](/es/docs/tutorials/envios-de-mercado-libre).
 

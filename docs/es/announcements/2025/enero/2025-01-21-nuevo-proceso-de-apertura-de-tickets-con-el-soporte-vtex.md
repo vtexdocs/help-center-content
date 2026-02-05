@@ -32,4 +32,4 @@ Este cambio ofrece:
 ## ¿Qué se necesita hacer?
 No se requiere ninguna acción. La funcionalidad ya está disponible para usuarios que deseen abrir tickets en el Admin VTEX.
 
-Para más información sobre cómo abrir un ticket, consulta [Abrir tickets con el Soporte VTEX](/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+Para más información sobre cómo abrir un ticket, consulta [Abrir tickets con el Soporte VTEX](/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex).

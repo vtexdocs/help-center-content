@@ -27,7 +27,7 @@ En el Admin VTEX puedes gestionar la importación y exportación de información
 
 Para importar imágenes de productos y SKUs a partir de una plantilla sigue los pasos a continuación:
 
-1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa [Productos y SKUs](/es/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) en la barra de búsqueda en la parte superior de la página.
+1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa [Productos y SKUs](/es/docs/tutorials/productos-y-skus) en la barra de búsqueda en la parte superior de la página.
 2. En la parte superior de la página, haz clic en `Importar`.
 3. Haz clic en `Imágenes`.
 4. En la ventana modal haz clic en **Descargar modelo de plantilla** para obtener el archivo.
@@ -37,7 +37,7 @@ Para importar imágenes de productos y SKUs a partir de una plantilla sigue los 
 
 Durante la importación, aparecerá un mensaje que indica que el archivo se está procesando. La operación seguirá en curso aunque navegues a otra página. Después de que la operación termine recibirás un email de confirmación.
 
-> ⚠️ Los productos con imágenes importadas con éxito se agregan automáticamente a la cola de [indexación](/es/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256). Si esto no sucede, consulta el artículo [¿Por qué no se muestra el producto en el sitio web?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web).
+> ⚠️ Los productos con imágenes importadas con éxito se agregan automáticamente a la cola de [indexación](/es/docs/tutorials/entendiendo-el-funcionamento-de-la-indexacion). Si esto no sucede, consulta el artículo [¿Por qué no se muestra el producto en el sitio web?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web).
 
 ## Exportar imágenes de productos y SKUs mediante plantilla
 
@@ -45,7 +45,7 @@ Para exportar un archivo `.xlsx` con las imágenes de tu catálogo sigue los pas
 
 > ℹ️ La información exportada corresponde a los campos presentados en la sección Campos de la plantilla de imágenes de productos y SKUs.
 
-1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa [Productos y SKUs](/es/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) en la barra de búsqueda en la parte superior de la página.
+1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa [Productos y SKUs](/es/docs/tutorials/productos-y-skus) en la barra de búsqueda en la parte superior de la página.
 2. (Opcional) Si deseas exportar las imágenes de determinados productos y SKUs, [busca](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By#buscar-productos) o [filtra](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By#filtrar-productos) los ítems deseados. Este paso no es necesario para exportar las imágenes de todos los ítems de tu catálogo.
 3. En la parte superior de la página, haz clic en `Exportar`.
 4. Haz clic en `Imágenes`.
@@ -58,7 +58,7 @@ Tras finalizar la exportación de imágenes de productos y SKUs recibirás un em
 
 La siguiente tabla muestra la descripción y un ejemplo de valor de los campos de la plantilla de importación de imágenes del catálogo. Los campos obligatorios están marcados con un asterisco (*).
 
-> ℹ️ Para importar una nueva imagen, los únicos campos obligatorios son **ID SKU** y **URL de importación de imagen**. Consulta las [Buenas prácticas de uso de imágenes en el módulo Catálogo](/es/tutorial/boas-praticas-para-o-uso-de-imagens-no-catalogo--738K2yfq5U86kUI2k4AQIk).
+> ℹ️ Para importar una nueva imagen, los únicos campos obligatorios son **ID SKU** y **URL de importación de imagen**. Consulta las [Buenas prácticas de uso de imágenes en el módulo Catálogo](/es/docs/tutorials/buenas-practicas-para-el-uso-de-imagenes-en-el-catalogo).
 
 | Campo | Descripción | Ejemplo |
 | :--- | :--- | :--- |
@@ -73,11 +73,11 @@ La siguiente tabla muestra la descripción y un ejemplo de valor de los campos d
 | Etiqueta | Nombre que identifica la etiqueta de la imagen y que se utiliza internamente para relacionar valores comunes entre imágenes. | Vista lateral |
 | Texto de imagen | Texto que se asociará a la imagen, utilizado internamente en la tienda. No utilices caracteres especiales ni acentos, y no repitas valores de los campos **Nombre de imagen** y **Etiqueta**. | lateral camiseta verano26 |
 | URL de imagen | Nombre que compone parte de la URL de la imagen que está alojada en la plataforma VTEX. Se muestra después de la última barra `/`, incluyendo la extensión del archivo. Si el campo no tiene valor, déjalo en blanco. | camiseta_azul_cuello_redondo.jpg |
-| URL de importación Imagen | Imagen que se asociará al SKU. Para importar una nueva imagen, este campo es obligatorio y debe [completarse con la URL](/es/tutorial/como-definir-a-url-de-um-produto--frequentlyAskedQuestions_368) del archivo alojado. Debe comenzar con el identificador de protocolo HTTP (`http://`) y terminar con una de las siguientes extensiones:<ul><li>jpg</li><li>png</li><li>gif</li><li>ico</li><li>svg</li><li>webp</li></ul>Para actualizar una imagen existente, deja el campo en blanco. De lo contrario, la imagen se creará nuevamente, generando una duplicación. | `http://archivos.com/ids/image/camiseta_azul_cuello_redondo.jpg` |
+| URL de importación Imagen | Imagen que se asociará al SKU. Para importar una nueva imagen, este campo es obligatorio y debe [completarse con la URL](/es/docs/tutorials/como-definir-la-url-de-un-producto) del archivo alojado. Debe comenzar con el identificador de protocolo HTTP (`http://`) y terminar con una de las siguientes extensiones:<ul><li>jpg</li><li>png</li><li>gif</li><li>ico</li><li>svg</li><li>webp</li></ul>Para actualizar una imagen existente, deja el campo en blanco. De lo contrario, la imagen se creará nuevamente, generando una duplicación. | `http://archivos.com/ids/image/camiseta_azul_cuello_redondo.jpg` |
 
 ## Más información
 
-* [Importar y exportar productos y SKUs mediante plantilla (Beta)](/es/tutorial/importar-y-exportar-productos-y-skus-mediante-plantilla-beta--5udKxWP1ZeBD7QB7Fy2BNl) 
-* [Importar y exportar especificaciones de productos mediante plantilla (Beta)](/es/tutorial/importar-y-exportar-especificaciones-de-productos-mediante-plantilla-beta--jQcmbocCb7kjHOr1JSWIL)
-* [Importar y exportar especificaciones de SKUs mediante plantilla (Beta)](/es/tutorial/importar-y-exportar-especificaciones-de-skus-mediante-plantilla-beta--5EAioeC33wHpIxKHaGQzbV)
+* [Importar y exportar productos y SKUs mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-productos-y-skus-mediante-plantilla-beta) 
+* [Importar y exportar especificaciones de productos mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-especificaciones-de-productos-mediante-plantilla-beta)
+* [Importar y exportar especificaciones de SKUs mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-especificaciones-de-skus-mediante-plantilla-beta)
 

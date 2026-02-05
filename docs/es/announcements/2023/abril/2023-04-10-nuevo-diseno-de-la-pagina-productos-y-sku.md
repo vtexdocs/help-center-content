@@ -36,4 +36,4 @@ Optimizamos la página **Productos y SKUs** para garantizar una experiencia más
 
 ## ¿Cómo obtener acceso?
 
-La actualización se aplicará automáticamente en todas las tiendas. Para obtener acceso anticipado al nuevo diseño de la página **Productos y SKUs**, debe comunicarse con [nuestro Soporte](https://support.vtex.com/hc/pt-br/requests). Puedes ver más detalles sobre cómo aprovechar la página optimizada en el artículo [Productos y SKUs (Beta)](/es/tutorial/produtos-y-skus-beta--2ig7TmROlirWirZjFWZ3By).
+La actualización se aplicará automáticamente en todas las tiendas. Para obtener acceso anticipado al nuevo diseño de la página **Productos y SKUs**, debe comunicarse con [nuestro Soporte](https://support.vtex.com/hc/pt-br/requests). Puedes ver más detalles sobre cómo aprovechar la página optimizada en el artículo [Productos y SKUs (Beta)](/es/docs/tutorials/productos-y-skus).

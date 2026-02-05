@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 6sgdAY3pCuZ7qNws6gnzDX
 ---
 
-La aplicación **B2B Checkout Settings** forma parte de la solución [B2B Suite](/es/tutorial/b2b-suite-visao-geral--5eG6UfveWrai7looK0kVG3) de VTEX, una colección de aplicaciones que permiten a las tiendas gestionar organizaciones, roles y permisos de storefront, así como la configuración del checkout para relaciones comerciales B2B.
+La aplicación **B2B Checkout Settings** forma parte de la solución [B2B Suite](/es/docs/tutorials/b2b-suite-vision-general) de VTEX, una colección de aplicaciones que permiten a las tiendas gestionar organizaciones, roles y permisos de storefront, así como la configuración del checkout para relaciones comerciales B2B.
 
 Las transacciones B2B (business-to-business) son más complejas que las B2C (business-to-consumer). Las empresas B2B suelen tratar con:
 
@@ -34,7 +34,7 @@ En el comercio B2B es necesario ofrecer opciones personalizadas durante el check
 La aplicación **B2B Checkout Settings** complementa otras aplicaciones de [B2B Suite](/es/tutorial/b2b-suite-visao-geral--5eG6UfveWrai7looK0kVG3#aplicativo-configuracoes-de-checkout-b2b) para ampliar la experiencia de checkout a usuarios que son miembros de una organización.
 
 ## Roles de Checkout
-Esta aplicación verifica automáticamente los roles de los usuarios que forman parte de la organización y se comunica con la aplicación [B2B Organizations](/es/tutorial/b2b-suite-overview--5eG6UfveWrai7looK0kVG3#aplicativo-organizacoes-b2b). También confirma que los usuarios disponen de los [permisos](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) necesarios para acceder al checkout al interactuar con la aplicación [*Storefront Permissions*](/es/tutorial/gerenciamento-de-permissoes-no-b2b-suite--2PLR7mIFxgbmsGq84paLeA).
+Esta aplicación verifica automáticamente los roles de los usuarios que forman parte de la organización y se comunica con la aplicación [B2B Organizations](/es/tutorial/b2b-suite-overview--5eG6UfveWrai7looK0kVG3#aplicativo-organizacoes-b2b). También confirma que los usuarios disponen de los [permisos](/es/docs/tutorials/recursos-del-license-manager) necesarios para acceder al checkout al interactuar con la aplicación [*Storefront Permissions*](/es/docs/tutorials/gestionar-permisos-en-b2b-suite).
 
 De forma predeterminada, cualquier usuario con un rol que permita el acceso al storefront puede acceder al checkout, excepto aquellos con el rol Organization Buyer. Si un usuario intenta proseguir al checkout sin contar con el permiso necesario, recibirá una notificación con el mensaje: No tienes acceso al checkout.
 

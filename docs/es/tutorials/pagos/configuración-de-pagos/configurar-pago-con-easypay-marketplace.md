@@ -24,7 +24,7 @@ Para utilizar la afiliación easypay, debes:
 - [Configurar el webhook de easypay](#configurar-el-webhook-de-easypay)
 - [Configurar la afiliación de easypay](#configurar-la-afiliacion-de-easypay) 
 
-> ⚠️ Si tu tienda no es un marketplace, consulta los artículos [Configurar pago con easypay ](/es/tutorial/configurar-pago-con-easypay--3xJQqjMIn0ARDI1HcwK88J) o [Configurar pago con easypay seller account](/es/tutorial/configurar-pago-con-easypay-seller--5mYMCM1tiRiZO6PozuUncE).
+> ⚠️ Si tu tienda no es un marketplace, consulta los artículos [Configurar pago con easypay ](/es/docs/tutorials/configurar-pago-con-easypay) o [Configurar pago con easypay seller account](/es/docs/tutorials/configurar-pago-con-easypay-seller).
 
 ## Instalar la aplicación easypay
 
@@ -224,11 +224,11 @@ Para configurar la afiliación easypay, sigue los pasos a continuación:
 4. Rellena los campos __Clave de aplicación__ y __Token de aplicación__ con los datos de tu cuenta easypay.
 5. Si desea modificar el nombre de identificación que se mostrará para el proveedor easypay en la pantalla VTEX Admin, ingrese la información en el campo __Nombre__ en __Información general__.
 6. En __Control de pago__, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en __Activar modo de prueba__.
-7. Si desea utilizar [Split de pagos](/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx) en su tienda, seleccione la opción __Activar split de cobros y enviar destinatarios de pago__ e indique el __Responsable de cargos de procesamiento de pagos__ y el __Responsable de contracargos__ (marketplace, sellers o marketplace y sellers).
+7. Si desea utilizar [Split de pagos](/es/docs/tutorials/split-de-pagos) en su tienda, seleccione la opción __Activar split de cobros y enviar destinatarios de pago__ e indique el __Responsable de cargos de procesamiento de pagos__ y el __Responsable de contracargos__ (marketplace, sellers o marketplace y sellers).
 8. Haz clic en `Guardar`.
 
 Para configurar los medios de pago que easypay procesará, accede a [Configurar condiciones de pago](/es/tutorial/condiciones-de-pago).
 
-Para establecer condiciones especiales en los medios de pago, accede a [Configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456).
+Para establecer condiciones especiales en los medios de pago, accede a [Configurar condiciones especiales de pago](/es/docs/tutorials/condiciones-especiales).
 
 as seguir los pasos indicados, el conector easypay puede demorar hasta 10 minutos en aparecer en el checkout de tu tienda como medio de pago.

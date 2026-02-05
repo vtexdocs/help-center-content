@@ -17,7 +17,7 @@ subcategoryId: 6GWaAkVqXQYN79ilMgUsPr
 
 > ℹ️ **Affiliates program** es una aplicación solo compatible con las tiendas [VTEX IO](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), y no está disponible para las tiendas que utilizan [CMS - Portal Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) o [Headless CMS](https://faststore.dev/tutorials/cms/0#vtex-headless-cms). Para instalar y configurar la app en tu tienda VTEX, consulta la guía del desarrollador [Affiliates Program app](https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app).
 
-En la aplicación **Affiliates Program**, un afiliado es alguien que se asocia con tu tienda VTEX para promover las ventas a cambio de una comisión. El término es, por tanto, diferente del [concepto habitual de afiliado en VTEX](/es/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0).
+En la aplicación **Affiliates Program**, un afiliado es alguien que se asocia con tu tienda VTEX para promover las ventas a cambio de una comisión. El término es, por tanto, diferente del [concepto habitual de afiliado en VTEX](/es/docs/tutorials/que-es-afiliado).
 
 La aplicación **Affiliates Program** crea una URL específica de tu tienda VTEX para tus [afiliados registrados](#agregar-afiliado). Cuando el afiliado comparte su URL con un cliente y este realiza una compra a través del link, el afiliado recibe una comisión por la venta.
 
@@ -80,7 +80,7 @@ Para crear un nuevo afiliado, haz clic en el botón "Agregar afiliado", rellena 
 
 Para buscar un afiliado, escribe en la barra de búsqueda cualquiera de los siguientes datos: _ID de afiliado, nombre, nombre de la tienda, email_ o _teléfono._
 
-> ⚠️ En la aplicación **Affiliates Program**, además de que el término afiliado es diferente al [concepto habitual de afiliado en VTEX](/es/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0), el `ID de afiliado` tampoco coincide con el código por defecto. En la aplicación, el `ID de afiliado` es un código alfanumérico que se genera automáticamente cuando creas un nuevo afiliado.
+> ⚠️ En la aplicación **Affiliates Program**, además de que el término afiliado es diferente al [concepto habitual de afiliado en VTEX](/es/docs/tutorials/que-es-afiliado), el `ID de afiliado` tampoco coincide con el código por defecto. En la aplicación, el `ID de afiliado` es un código alfanumérico que se genera automáticamente cuando creas un nuevo afiliado.
 
 ### Filtrar afiliados
 
@@ -133,7 +133,7 @@ Para buscar un pedido, introduce en la barra de búsqueda el `ID de afiliado` re
 
 Puedes filtrar la búsqueda de pedidos por los siguientes criterios:
 
-- **Status del pedido:** la opción por defecto es mostrar todos los pedidos. Para seleccionar un status de pedido, haz clic en **Todos los pedidos** <i class="fas fa-angle-down"></i> y selecciona una de las opciones: _creado, pago aprobado, pago pendiente, facturado_ o _cancelado_. Más información en [Flujo y status de pedidos](/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
+- **Status del pedido:** la opción por defecto es mostrar todos los pedidos. Para seleccionar un status de pedido, haz clic en **Todos los pedidos** <i class="fas fa-angle-down"></i> y selecciona una de las opciones: _creado, pago aprobado, pago pendiente, facturado_ o _cancelado_. Más información en [Flujo y status de pedidos](/es/docs/tutorials/flujo-y-status-de-pedidos).
 - **Periodo de creación del pedido:** filtra a partir de un rango de días y horas durante los cuales se crearon los pedidos. Para ello, determina una fecha de inicio en el campo `De` y una fecha de fin en el campo `Hasta`.
 
 ### Exportar lista de pedidos
@@ -146,7 +146,7 @@ Tras la configuración, para exportar la lista basta con hacer clic en **Exporta
 
 > _El informe se está generando y se enviará a tu email._
 
-El archivo generado se enviará al email del [usuario](/es/tutorial/gerenciando-usuarios--tutorials_512) conectado. El contenido exportado se refiere al número total de pedidos de la lista en el momento de la exportación. Si algún filtro está activo, solo se exportarán los anuncios seleccionados.
+El archivo generado se enviará al email del [usuario](/es/docs/tutorials/gestionar-usuarios-administradores) conectado. El contenido exportado se refiere al número total de pedidos de la lista en el momento de la exportación. Si algún filtro está activo, solo se exportarán los anuncios seleccionados.
 
 ### Ver detalles del pedido
 
@@ -166,7 +166,7 @@ La página de **Gestión de comisiones** permite realizar las siguientes accione
 
 ### Buscar comisiones
 
-Para buscar entre las comisiones de los pedidos, en la barra de búsqueda de la pestaña **Comisiones registradas**, escribe el `ID de SKU` del pedido, es decir, el número que [identifica el SKU](/es/tutorial/descobrir-o-id-de-um-sku--4VQZsYeb3igGK2YowuEYWW).
+Para buscar entre las comisiones de los pedidos, en la barra de búsqueda de la pestaña **Comisiones registradas**, escribe el `ID de SKU` del pedido, es decir, el número que [identifica el SKU](/es/docs/tutorials/identificar-el-id-de-un-sku).
 
 ### Editar comisiones
 
@@ -187,7 +187,7 @@ Para exportar una plantilla de comisiones por SKU con extensión .CSV, en la par
 
 > _El informe se está generando y se enviará a tu email._
 
-El archivo se enviará al email del [usuario](/es/tutorial/gerenciando-usuarios--tutorials_512) conectado.
+El archivo se enviará al email del [usuario](/es/docs/tutorials/gestionar-usuarios-administradores) conectado.
 
 > ℹ️ El contenido exportado se refiere a las comisiones de los SKU de la lista en el momento de la exportación. Si algún filtro está activo, solo se exportarán las comisiones de SKU seleccionadas.
 

@@ -84,7 +84,7 @@ Las *etiquetas* son útiles para:
 
 ### Configurar etiquetas personalizadas 
 
-Debes crear las *etiquetas personalizadas* en Google Merchant Center. Después de crearlas, sigue el tutorial [Registrar especificaciones o campos de producto](/es/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) para asociarlas a una oferta específica utilizando **especificaciones de productos.**  
+Debes crear las *etiquetas personalizadas* en Google Merchant Center. Después de crearlas, sigue el tutorial [Registrar especificaciones o campos de producto](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto) para asociarlas a una oferta específica utilizando **especificaciones de productos.**  
 
 Al crear un nuevo campo de especificación, completa los valores de la siguiente manera:  
 

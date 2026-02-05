@@ -33,9 +33,9 @@ Para que un producto esté disponible en preventa, sigue los pasos a continuaci�
 2. Haz clic en `+ Agregar producto`.
 3. En la sección **Storefront**, en el campo **Fecha de release**, asigna una fecha para lanzar el producto.
 
-  > ℹ️ Este campo se utiliza para ayudar en la ordenación de los resultados de búsqueda en el sitio web. Puedes utilizar una query string `O=OrderByReleaseDateDESC` para obtener este valor y mostrar el orden de visualización por fecha de release. Además, el valor de este campo influye en la creación de [colecciones automáticas](/es/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye) y determina la fecha de [indexación](/es/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) del producto.
+  > ℹ️ Este campo se utiliza para ayudar en la ordenación de los resultados de búsqueda en el sitio web. Puedes utilizar una query string `O=OrderByReleaseDateDESC` para obtener este valor y mostrar el orden de visualización por fecha de release. Además, el valor de este campo influye en la creación de [colecciones automáticas](/es/docs/tutorials/registrar-colecciones-beta) y determina la fecha de [indexación](/es/docs/tutorials/entendiendo-el-funcionamento-de-la-indexacion) del producto.
 
-4. Rellena los campos del formulario de registro de producto, según se describe en [Agregar o editar productos](/es/tutorial/agregar-o-editar-productos--29IkdEu6GofCFlltsZh2H8).
+4. Rellena los campos del formulario de registro de producto, según se describe en [Agregar o editar productos](/es/docs/tutorials/agregar-o-editar-productos).
 5. Haz clic en `Guardar`.
 6. Haz clic en la pestaña `SKUs`.
 7. Haz clic en `+` **> Agregar nuevo SKU**.
@@ -43,14 +43,14 @@ Para que un producto esté disponible en preventa, sigue los pasos a continuaci�
 
   > ℹ️ Para configurarla, debes tomar en cuenta la fecha de release del ítem y el cálculo de envío a los clientes: `tiempo de entrega final = SLA de entrega + plazo para recibir el lote de suministro`.
 
-9. Rellena los campos del formulario de registro de SKU, según se describe en [Agregar o editar SKUs](/es/tutorial/agregar-o-editar-skus--4ryZ6J45kwn3jDiQBxGiiN).
+9. Rellena los campos del formulario de registro de SKU, según se describe en [Agregar o editar SKUs](/es/docs/tutorials/agregar-o-editar-skus).
 10. Haz clic en `Guardar`.
 
 > ⚠️ El pedido del ítem en preventa solo debe facturarse a partir de la fecha de lanzamiento, es decir, cuando haya disponibilidad real de *stock* del producto.
 
 ## Programar precios
 
-Para programar los precios fijos de tu tienda para la preventa de un producto, sigue los pasos descritos en el artículo [Programar precios](/es/tutorial/programar-precio--4vVha6TGzYkguWuMOqCcCk). 
+Para programar los precios fijos de tu tienda para la preventa de un producto, sigue los pasos descritos en el artículo [Programar precios](/es/docs/tutorials/programar-precio). 
 
 ## Programar contenido
 

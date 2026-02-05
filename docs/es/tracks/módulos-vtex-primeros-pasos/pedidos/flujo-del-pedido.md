@@ -15,13 +15,13 @@ trackSlugEN: pedidos
 order: 2
 ---
 
-El [flujo del pedido](/es/tutorial/order-flow-and-status--tutorials_196) es la ruta que sigue un pedido en la plataforma VTEX, desde el momento en que el cliente hace clic en el botón Pagar hasta que se factura o cancela el pedido.
+El [flujo del pedido](/es/docs/tutorials/flujo-y-status-de-pedidos) es la ruta que sigue un pedido en la plataforma VTEX, desde el momento en que el cliente hace clic en el botón Pagar hasta que se factura o cancela el pedido.
 
 Los cambios en el pedido - ya sean causados por el cliente, la tienda o los sistemas externos - generan cambios en el __status del pedido__. Y con eso, el pedido se mueve dentro del flujo.
 
 ## Marketplaces y Sellers
 
-Los conceptos de [marketplace y seller](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) son fundamentales para comprender el flujo de un pedido en VTEX. Vamos a entender por qué:
+Los conceptos de [marketplace y seller](/es/docs/tutorials/estrategias-de-marketplace-en-vtex) son fundamentales para comprender el flujo de un pedido en VTEX. Vamos a entender por qué:
 
 - __Marketplace__ es el ambiente donde se cierra el pedido, es decir, donde el cliente realiza el proceso de pago.
 - __Seller__ es el propietario del SKU. Por lo tanto, es responsable del fulfillment, es decir, de entregar el producto al cliente.

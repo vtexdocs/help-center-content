@@ -60,7 +60,7 @@ El usuario titular es responsable de importantes acciones de mantenimiento y aut
 
 Todos los eventos relacionados con la transferencia de propiedad de la cuenta se registran en el registro de actividades con la fecha en que se produjeron y el usuario asociado al evento.
 
-> ℹ️ También puedes auditar diversas acciones de los usuarios en tu cuenta con el módulo [Audit](/es/tutorial/how-to-find-events-in-audit--5RXf9WJ5YLFBcS8q8KcxTA).
+> ℹ️ También puedes auditar diversas acciones de los usuarios en tu cuenta con el módulo [Audit](/es/docs/tutorials/audit).
 
 ## Circunstancias excepcionales
 

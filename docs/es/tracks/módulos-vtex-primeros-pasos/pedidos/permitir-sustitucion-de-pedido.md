@@ -19,7 +19,7 @@ La **Sustitución de pedidos** permite a los clientes de su tienda cambiar los d
 
 El objetivo es ayudarlos a corregir errores sin tener que realizar manualmente un nuevo pedido o contactar a su soporte, lo que facilita el funcionamiento de su tienda y reduce costos.
 
-> ⚠️ No es posible [cancelar](/es/tutorial/como-cancelar-pedido--tutorials_186) pedidos [parcialmente facturados](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
+> ⚠️ No es posible [cancelar](/es/docs/tutorials/como-cancelar-pedido) pedidos [parcialmente facturados](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado).
 
 ## Habilitación de la sustitución de pedidos
 
@@ -31,5 +31,5 @@ La funcionalidad está disponible para todas las tiendas. Para habilitarla, sigu
 
 Dentro de 15 minutos, después de la actualización automática de caché, la funcionalidad estará disponible.
 
-> ℹ️ Para más información sobre la funcionalidad y asos que no permiten la sustitución, vea el artículo [Cambio de pedido](/es/tutorial/substituicao-de-pedidos--2IK9mwQjBKseQmE8K8saO8).
+> ℹ️ Para más información sobre la funcionalidad y asos que no permiten la sustitución, vea el artículo [Cambio de pedido](/es/docs/tutorials/cambio-de-pedido).
 

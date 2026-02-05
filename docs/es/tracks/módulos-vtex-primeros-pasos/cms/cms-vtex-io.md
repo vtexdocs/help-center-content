@@ -28,7 +28,7 @@ Para construir y configurar el sitio web de tu tienda Store Framework mediante e
 
 ## Site Editor
 
-**[Site Editor](/es/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1)** es una interfaz gráfica para gestionar el contenido del storefront. Te permite crear, editar, publicar y programar cambios en los componentes y el comportamiento de tu storefront.
+**[Site Editor](/es/docs/tutorials/site-editor-vision-general)** es una interfaz gráfica para gestionar el contenido del storefront. Te permite crear, editar, publicar y programar cambios en los componentes y el comportamiento de tu storefront.
 
 En el Admin VTEX, Site Editor cuenta con una interfaz intuitiva que muestra los bloques definidos en el [Store Theme](https://developers.vtex.com/docs/guides/vtex-io-documentation-store-theme). Esto permite que cualquier persona pueda modificar el contenido y layout de la tienda fácilmente, sin necesidad de editar el código.
 
@@ -60,7 +60,7 @@ Esta sección también contiene la página **Redirecciones**, que permite config
 
 ![cms-store-framework-redirecionamentos-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/cms/cms-vtex-io_4.png)
 
-Para más información sobre este módulo, consulta el tutorial [Páginas](/es/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc).
+Para más información sobre este módulo, consulta el tutorial [Páginas](/es/docs/tutorials/paginas-vision-general).
 
 ## Estilos
 
@@ -68,7 +68,7 @@ Esta funcionalidad te permite definir la tipografía y la paleta de colores del 
 
 > ⚠️ Este recurso solo funciona en [workspaces de producción](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-production-workspace).
 
-Para saber más sobre este módulo, consulta el tutorial [Estilos](/es/tutorial/estilos-visao-geral--v0Db5ohEKSFIkTzSwCjVi).
+Para saber más sobre este módulo, consulta el tutorial [Estilos](/es/docs/tutorials/estilos-vision-general).
 
 ## Multimedia
 
@@ -76,10 +76,10 @@ En el módulo Multimedia puedes gestionar los archivos multimedia de tu tienda, 
 
 ![cms-store-framework-media-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/cms/cms-vtex-io_5.png)
 
-Para saber más sobre este módulo, consulta el tutorial [Multimedia - Información general](/es/tutorial/midia-visao-geral--31fhjHTt4TBoo50AmGQ9b2).
+Para saber más sobre este módulo, consulta el tutorial [Multimedia - Información general](/es/docs/tutorials/multimedia-vision-general).
 
 ## Más información
 
-- **[Gestionar contenido de páginas y templates](/es/tutorial/gerenciando-conteudo-de-pagina-e-template--3tMbx6HXy4Fy5r9EhboG37):** construye el storefront de tu tienda de acuerdo con las necesidades de tu negocio, utilizando una interfaz amigable.
+- **[Gestionar contenido de páginas y templates](/es/docs/tutorials/gestionar-contenido-de-paginas-y-templates):** construye el storefront de tu tienda de acuerdo con las necesidades de tu negocio, utilizando una interfaz amigable.
 
-- **[Gestión de contenidos por binding](/es/tutorial/gerenciando-conteudo-por-binding--5CZjZPMqi0ZNpuqzF6AUOn):** personaliza estratégicamente la apariencia de tu tienda de acuerdo con la región de los usuarios para aumentar el acceso y las tasas de venta.
+- **[Gestión de contenidos por binding](/es/docs/tutorials/gestionar-el-contenido-segun-el-binding):** personaliza estratégicamente la apariencia de tu tienda de acuerdo con la región de los usuarios para aumentar el acceso y las tasas de venta.

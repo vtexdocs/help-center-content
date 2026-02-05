@@ -19,5 +19,5 @@ VTEX lamenta la marcha de un cliente y comprende que las necesidades y circunsta
 
 Para rescindir tu contrato con VTEX debes ponerte en contacto con el [soporte financiero](/es/tutorial/abrir-tickets-para-el-soporte-vtex--16yOEqpO32UQYygSmMSSAM#financiero). Para Brasil, Argentina y Colombia, sigue las directrices de los artículos a continuación:
 
-- [Solicitar rescisión contractual en Brasil](/es/tutorial/como-solicitar-sua-rescisao-contratual-no-brasil--frequentlyAskedQuestions_1834)
-- [Solicitar rescisión contractual en Argentina y Colombia](/es/tutorial/solicitar-rescisao-contratual-na-argentina-e-colombia--33g6mUoYB9Mf04C06gSU0a)
+- [Solicitar rescisión contractual en Brasil](/es/docs/tutorials/como-solicitar-su-rescision-contractual-en-brasil)
+- [Solicitar rescisión contractual en Argentina y Colombia](/es/docs/tutorials/solicitar-la-rescision-contractual-en-argentina-y-colombia)

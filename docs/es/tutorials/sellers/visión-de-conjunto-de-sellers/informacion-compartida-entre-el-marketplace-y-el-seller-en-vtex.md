@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 5tlIjp0ZkAU4EIk4OgyEmm
 ---
 
-La venta en _marketplaces_ es un modelo de comercio colaborativo que brinda ventajas mutuas tanto a _sellers_ como a _marketplaces_. La arquitectura de las tiendas VTEX les permite actuar indistintamente como _sellers_ o _marketplaces_. Obtén más información en [Estrategias de marketplace en VTEX](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402).
+La venta en _marketplaces_ es un modelo de comercio colaborativo que brinda ventajas mutuas tanto a _sellers_ como a _marketplaces_. La arquitectura de las tiendas VTEX les permite actuar indistintamente como _sellers_ o _marketplaces_. Obtén más información en [Estrategias de marketplace en VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex).
 
 Un _marketplace_ hospedado en la plataforma VTEX y un _seller_, ya sea un _seller_ VTEX o externo, deben compartir información para colaborar entre sí. En este artículo, verás cuáles son los principales datos que comparten. El artículo se divide en:
 
@@ -47,11 +47,11 @@ El _marketplace_ VTEX se puede integrar tanto con un _seller_ VTEX como con un _
 
 Para que un _marketplace_ VTEX se conecte con un _seller_ VTEX, es necesario acceder a la siguiente información:
 
-- **ID del _seller_ (Account Name):** el [account name (nombre de cuenta)](/es/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) es el código de identificación del _seller_ en VTEX.
+- **ID del _seller_ (Account Name):** el [account name (nombre de cuenta)](/es/docs/tutorials/que-es-account-name) es el código de identificación del _seller_ en VTEX.
 - **Email del administrador:** dirección electrónica del administrador responsable del _seller_.
-- **Mi ID de afiliado en el _seller_:** código con tres consonantes que identifica al [afiliado](/es/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) creado por el _seller_ en su propio Admin VTEX. 
+- **Mi ID de afiliado en el _seller_:** código con tres consonantes que identifica al [afiliado](/es/docs/tutorials/que-es-afiliado) creado por el _seller_ en su propio Admin VTEX. 
 - **Descripción:** texto de tono comercial que caracteriza al _seller_. El texto puede aparecer en la vitrina del _marketplace_ cuando se [personaliza el CMS](/es/tutorial/list-of-controls-for-templates--tutorials_563).
-- **Política comercial:** código de identificación de la [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que el _seller_ desea usar en la venta que se realiza en el _marketplace_.
+- **Política comercial:** código de identificación de la [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) que el _seller_ desea usar en la venta que se realiza en el _marketplace_.
 - **Fulfillment SellerId:** código de identificación del _seller_ responsable del _fullfilment_ del pedido. Este es un dato opcional pero necesario cuando el _seller_ vende SKU de otro _seller_. No se debe completar cuando el _seller_ vende sus propios SKU.
 - **Catalog EndPoint:** URL del _endpoint_ del catálogo del _seller_.
 - **TaxCode:** número de registro de persona jurídica del _seller_ (CNPJ en Brasil o su equivalente en otros países).
@@ -84,6 +84,6 @@ El _marketplace_ puede otorgar al _seller_ un acceso parcial a los emails de su 
 
 ### Más información
 
-- [Estrategias de marketplace en VTEX](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402)
-- [Acciones para la operación de marketplaces VTEX](/es/tutorial/acoes-para-a-operacao-de-marketplaces-vtex--2SdIflvwywiOqCpczKCfev)
+- [Estrategias de marketplace en VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex)
+- [Acciones para la operación de marketplaces VTEX](/es/docs/tutorials/acciones-para-la-operacion-de-marketplaces-vtex)
 - [Agregar seller](/es/tutorial/configurando-seller/)

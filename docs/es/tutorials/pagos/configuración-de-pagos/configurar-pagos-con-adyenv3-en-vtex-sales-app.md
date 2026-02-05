@@ -120,7 +120,7 @@ Configura el webhook según los pasos a continuación:
 4. En **Procesar con proveedor**, seleccione el conector previamente configurado.
 5. Active la condición en el campo **Status**.
 6. Si desea utilizar un sistema antifraude, seleccione la opción **Utilizar antifraude**.
-7. Si desea, puede [configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456).
+7. Si desea, puede [configurar condiciones especiales de pago](/es/docs/tutorials/condiciones-especiales).
 8. Haga clic en `Guardar`.
 
 Tras seguir los pasos indicados, el conector AdyenV3 puede tardar hasta 10 minutos para aparecer como opción de pago en la App Ventas VTEX de su tienda.

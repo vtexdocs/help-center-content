@@ -14,7 +14,7 @@ locale: es
 legacySlug: nao-encontro-uma-colecao-o-que-fazer
 ---
 
-> ⚠️ **Atención:** existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a [la configuración de colecciones mediante el CMS](/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L).
+> ⚠️ **Atención:** existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a [la configuración de colecciones mediante el CMS](/es/docs/tutorials/registrar-una-coleccion-cms).
 
 De forma predeterminada, el CMS sólo muestra las __últimas 20 colecciones__ actualizadas.
 

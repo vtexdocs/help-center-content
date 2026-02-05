@@ -19,7 +19,7 @@ Si gestionas pedidos en el OMS, el sistema de gestión de pedidos de VTEX, debes
 
 Desarrollamos una mejora en el OMS que hará que las facturas parciales emitidas en los pedidos también disparen liquidaciones parciales en la transacción. El valor total del pedido se actualizará luego de emitir la factura y se corresponderá con la información obtenida a través del _gateway_ de pagos de VTEX. 
 
-> ℹ️ La funcionalidad de facturas parciales está disponible para toda la base de clientes VTEX, pero la liquidación parcial en el gateway se encuentra en la versión Beta. Además, para que las facturas parciales disparen liquidaciones parciales en la transacció, es necesario utilizar un conector que utilice el [Payment Provider Protocol](/es/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). Los conectores legados no admiten la funcionalidad.
+> ℹ️ La funcionalidad de facturas parciales está disponible para toda la base de clientes VTEX, pero la liquidación parcial en el gateway se encuentra en la versión Beta. Además, para que las facturas parciales disparen liquidaciones parciales en la transacció, es necesario utilizar un conector que utilice el [Payment Provider Protocol](/es/docs/tutorials/payment-provider-protocol). Los conectores legados no admiten la funcionalidad.
 
 ## ¿Qué cambió?
 
@@ -49,9 +49,9 @@ Para reproducir este comportamiento:
 
 1. Emite una [factura parcial del pedido](/es/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe#envio-de-la-factura-parcial-via-admin).
 
-    > Si utilizas la nueva [Página de detalles del pedido (Beta)](/es/tutorial/pagina-de-detalhes-do-pedido-beta--2Y75n54Cc9VizrlG1N6ZNl), accede a [Facturar un pedido manualmente (Beta)](/es/tutorial/how-to-manually-invoice-an-order-beta--7p1h852V5t54KyscpgxE2v).
+    > Si utilizas la nueva [Página de detalles del pedido (Beta)](/es/docs/tutorials/pagina-de-detalles-del-pedido), accede a [Facturar un pedido manualmente (Beta)](/es/docs/tutorials/como-facturar-manualmente-un-pedido).
 
-2. Realiza un [cambio en el pedido](/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190). 
+2. Realiza un [cambio en el pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado). 
 
     > Si usas la nueva interfaz de Detalles del pedido (Beta), accede a [Cómo cambiar ítems del pedido (Beta).](/es/tutorial/how-to-change-order-items-beta--7jekq618QxgbsOxKkXBjE8)
 

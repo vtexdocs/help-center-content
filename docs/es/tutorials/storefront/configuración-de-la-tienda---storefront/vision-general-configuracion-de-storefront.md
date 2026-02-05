@@ -25,6 +25,6 @@ En la sección Storefront puedes configurar la interfaz de tu tienda, que incluy
 - Configuración - Proximamente
 - Master Data - Proximamente
 - Checkout - Proximamente
-- [Tienda](/es/tutorial/cms-store-overview--3Eat287G6wUi6Mly5rW5Fs)
+- [Tienda](/es/docs/tutorials/cms-tienda-vision-general)
 - [IDE de GraphQL](https://developers.vtex.com/vtex-developer-docs/docs/graphql-ide)
 - Interfaz personalizada del checkout - Proximamente

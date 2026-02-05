@@ -47,7 +47,7 @@ Consulta nuestros artículos sobre la vista general de cada menú del Admin VTEX
 - [Envío](/es/v4/docs/visao-geral-envio--1hw1otLpTkIjQh4WiBTFYv)  
 - [Marketplace](/es/v4/docs/visao-geral-marketplace--1MwABSIGjYSrFPUXhnUXiV)  
 - [Apps](/es/v4/docs/apps-overview--Abz99oney4PUmrf7QcHc9)  
-- [Configuración de la tienda](/es/tutorial/visao-geral-configuracoes-da-loja--6VtlMoid6iM9dP14X1CopT)  
+- [Configuración de la tienda](/es/docs/tutorials/vision-general-configuraciones-de-la-tienda)  
 - [Configuración de la cuenta](/es/v4/docs/account-settings-overview--159BmXTQhaP44wLxtPff6r)  
 - [Configuración del usuario](/es/v4/docs/visao-geral-configuracoes-usuario--1qYAvOTZBVYMosJ7tQm3Ry)  
 - [Facturas](/es/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC)  

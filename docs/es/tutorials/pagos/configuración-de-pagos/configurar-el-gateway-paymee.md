@@ -24,7 +24,7 @@ Para configurar PayMee, siga los pasos a continuación:
 3. Escriba el nombre __PayMee__ en la barra de búsqueda y haga clic en el nombre del proveedor.
 4. En __Autorización del proveedor__, rellene los campos de registro __Clave de aplicación__ y __Token de aplicación__ con los datos proporcionados por su cuenta PayMee.
 5. Si desea modificar el nombre de identificación que se mostrará para el proveedor PayMee en la pantalla VTEX Admin, ingrese la información en el campo __Nombre__ en __Información general__.
-6. Si desea utilizar [Split de pagos](/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx) en su tienda, seleccione la opción __Activar split de cobros y enviar destinatarios de pago__ e indique el __Responsable de cargos de procesamiento de pagos__ y el __Responsable de contracargos__ (marketplace, sellers o marketplace y sellers).
+6. Si desea utilizar [Split de pagos](/es/docs/tutorials/split-de-pagos) en su tienda, seleccione la opción __Activar split de cobros y enviar destinatarios de pago__ e indique el __Responsable de cargos de procesamiento de pagos__ y el __Responsable de contracargos__ (marketplace, sellers o marketplace y sellers).
 7. Haga clic en `Guardar`.
 
 Para configurar los métodos de pago a procesar por PayMee, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455#).

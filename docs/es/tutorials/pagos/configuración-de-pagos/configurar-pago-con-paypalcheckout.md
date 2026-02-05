@@ -28,9 +28,9 @@ Para configurar PayPalCheckout, siga los pasos a continuación:
 7. En **Campos del Proveedor**, seleccione o complete los campos **FraudNet - Source Web Id**, **Enable STC**, **High Risk Transaction**, **STC Merchant Id**, **Vertical**, **Locale**, **Sandbox**, **Force login (ACDC)**, **Display Powered by PayPal Logo (ACDC)**, **Language**, **AutoClick (Checkout & BCDC)**, **Installments rules**, **T&C Checkbox identifier**, **Invoice ID**, **Account type**, y **Groceries or Subscriptions** según las instrucciones del proveedor.
 8. Haga clic en `Guardar`.
 
-Para configurar los métodos de pago a procesar por PayPalCheckout, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455).
+Para configurar los métodos de pago a procesar por PayPalCheckout, acceda al [Configurar Condiciones de Pago](/es/docs/tutorials/condiciones-de-pago).
 
-Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/docs/tutorials/condiciones-especiales).
 
 Después de seguir los pasos indicados, PayPalCheckout puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.
 

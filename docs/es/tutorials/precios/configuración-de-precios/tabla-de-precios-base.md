@@ -17,7 +17,7 @@ subcategoryId: 3O1NvPgBPqE0qU88MSQaie
 
 Para comprender mejor el significado de cada campo de la [plantilla de registro de precio base](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29#plantilla), vea la descripción completa de los ítems abajo.
 
-- **SKU ID**: El ID del SKU es el número que identifica un determinado SKU. Acceda a nuestro artículo para saber cómo [encontrar el id de un SKU](/es/tutorial/descubrir-el-id-de-un-sku--4VQZsYeb3igGK2YowuEYWW)
+- **SKU ID**: El ID del SKU es el número que identifica un determinado SKU. Acceda a nuestro artículo para saber cómo [encontrar el id de un SKU](/es/docs/tutorials/identificar-el-id-de-un-sku)
 
 - **Cost Price**: Considere aquí el costo de producción de su SKU. Si no posee la información de costo, puede incluir en este campo un valor igual al **Base Price**.
 

@@ -19,7 +19,7 @@ La app [Carrito Compartible](https://apps.vtex.com/vtex-social-selling/p) permit
 
 ![Shareable Cart Demo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/omnichannel/configuración-de-omnichannel/como-usar-la-app-carrito-compartido_1.gif)
 
-Este artículo explica todos los pasos para utilizar esta funcionalidad: activar app, elegir los productos, agregar el código del vendedor, compartir y crear un nuevo carrito. Antes de comenzar, tienes que [activar esta funcionalidad en su tienda](/es/tutorial/como-ativar-o-app-carrinho-compartilhavel--1lS3fQdXpOoC0BTeVhydfg).
+Este artículo explica todos los pasos para utilizar esta funcionalidad: activar app, elegir los productos, agregar el código del vendedor, compartir y crear un nuevo carrito. Antes de comenzar, tienes que [activar esta funcionalidad en su tienda](/es/docs/tutorials/como-activar-la-app-carrito-compartido).
 
 ## Activar app
 

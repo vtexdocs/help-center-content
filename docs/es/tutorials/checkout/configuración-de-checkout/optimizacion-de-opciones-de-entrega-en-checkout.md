@@ -17,7 +17,7 @@ subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 
 Cuando el cliente realiza un pedido, el carrito puede contener productos que se encuentran en una de las siguientes configuraciones:
 - Almacenamiento en múltiples locales ([almacén](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb#) o [muelles](/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj#)).
-- Vendedores específicos para cada producto seleccionado, incluidos [sellers white label](/es/tutorial/white-label-seller--5orlGHyDHGAYciQ64oEgKa).
+- Vendedores específicos para cada producto seleccionado, incluidos [sellers white label](/es/docs/tutorials/seller-white-label).
 - Envíos realizados por diferentes [transportadoras](/es/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE#).
 
 En este contexto, Checkout v6 de VTEX le permite procesar diferentes opciones de entrega y combinar productos seleccionados en paquetes. Esta optimización de opciones de entrega (también conocida como **Lean Shipping**) mejora la experiencia de compra del cliente a través de las siguientes acciones:

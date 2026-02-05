@@ -22,21 +22,21 @@ Estrategia de envío es la relación entre stock, muelle y política de envío; 
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
    <tr class="bb b--muted-3">
             <td class="t-body pa5" style="min-width: 15rem;">
-                **[Stock**](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)
+                **[Stock**](/es/docs/tutorials/almacen)
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">Conjunto de mercancías almacenadas en un depósito o una tienda. Funciona como una herramienta para controlar la disponibilidad de los productos.
             </td>
     </tr>
     <tr class="bb b--muted-3">
             <td class="t-body pa5" style="min-width: 15rem;">
-                **[Muelle](/es/tutorial/muelles--5DY8xHEjOLYDVL41Urd5qj)**
+                **[Muelle](/es/docs/tutorials/muelles)**
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">Lugar de distribución del stock. Funciona como área de almacenamiento para los productos que se van a entregar.
             </td>
     </tr>
     <tr class="bb b--muted-3">
             <td class="t-body pa5" style="min-width: 15rem;">
-                **[Política de envío**](/es/tutorial/politica-de-envio--tutorials_140)
+                **[Política de envío**](/es/docs/tutorials/politica-de-envio)
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">Conjunto de reglas que definen las opciones y condiciones de envío que se presentarán al consumidor en el momento de la compra. 
             </td>
@@ -49,6 +49,6 @@ Las configuraciones se pueden realizar a través del Admin VTEX o API. Si estás
 
 | **Tema** | **Configuración en el Admin VTEX** | **Configuración por API** |
 | :--- | :--- | :--- |
-| 1. [Política de envío](/es/tutorial/politica-de-envio--tutorials_140) | [Crear una política de envío](/es/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
-| 2. [Muelle](/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) | [Gestionar muelle](/es/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
-| 3. [Almacén](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) | [Gestionar almacenes](/es/tutorial/gerenciar-estoque--tutorials_137) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
+| 1. [Política de envío](/es/docs/tutorials/politica-de-envio) | [Crear una política de envío](/es/docs/tutorials/crear-una-politica-de-envio) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
+| 2. [Muelle](/es/docs/tutorials/muelles) | [Gestionar muelle](/es/docs/tutorials/gestionar-el-muelle) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
+| 3. [Almacén](/es/docs/tutorials/almacen) | [Gestionar almacenes](/es/docs/tutorials/gestionar-almacenes) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |

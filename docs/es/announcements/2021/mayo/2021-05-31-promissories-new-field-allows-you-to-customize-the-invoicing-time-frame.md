@@ -23,7 +23,7 @@ En VTEX, entre las diversas opciones de pago disponibles, también es posible of
 
 En la configuración actual, por defecto, los pagarés se facturan automáticamente en el momento en que el pago es autorizado. Esto no necesariamente responde a las necesidades más específicas de su negocio. 
 
-Para algunos clientes, puede ser importante autorizar cambios en los pedidos ([change order](/es/tutorial/como-fazer-a-alteracao-de-itens--tutorials_190)). En dicho caso, el campo *Change Margin* se debe completar cuando se realiza la configuración de los pagarés.
+Para algunos clientes, puede ser importante autorizar cambios en los pedidos ([change order](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado)). En dicho caso, el campo *Change Margin* se debe completar cuando se realiza la configuración de los pagarés.
 
 Cuando el campo *Change Margin* se completa con un valor superior a cero, la facturación se realiza 30 días después de la autorización. 
 

@@ -21,7 +21,7 @@ De acuerdo con normativas de protección de datos como [RGPD (Reglamento General
 
 Antes de [solicitar la eliminación de datos de clientes vía Copilot](#solicitar-eliminacion-de-dados-del-cliente-via-copilot), sigue los pasos a continuación:
 
-1. **Identifica dónde están almacenados los datos:** verifica las entidades de datos de [Master Data](/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) que almacenan datos de clientes en tu operación.
+1. **Identifica dónde están almacenados los datos:** verifica las entidades de datos de [Master Data](/es/docs/tutorials/master-data) que almacenan datos de clientes en tu operación.
 2. **Elimina las entidades personalizadas manualmente:** si tu tienda almacena datos de clientes en entidades personalizadas, elimínalos manualmente antes de abrir un ticket para solicitar la eliminación mediante Copilot. Para más información, consulta la sección [Entidades de datos personalizadas](#entidades-de-datos-personalizadas). Sigue este proceso solo para entidades personalizadas. No elimines las [entidades nativas](#entidades-nativas-de-master-data) CL y AD de Master Data.
 
 ### Entidades nativas de Master Data

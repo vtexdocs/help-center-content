@@ -75,7 +75,7 @@ El botón `Añadir dirección` permite incluir direcciones diferentes a las que 
 
 ## Pedidos
 
-> ℹ️ En [Mi Cuenta](/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), los clientes solo pueden acceder a los pedidos de los últimos dos años.
+> ℹ️ En [Mi Cuenta](/es/docs/tutorials/como-funciona-mi-cuenta), los clientes solo pueden acceder a los pedidos de los últimos dos años.
 
 Esta pestaña proporciona una lista completa de los pedidos realizados por un cliente en su tienda. La lista se ordena por fecha de creación y muestra detalles como la fecha del pedido, el valor total de la compra, el ID del pedido, el _status_ y los ítems comprados.
 
@@ -100,7 +100,7 @@ Obtén más información en el artículo sobre [cómo funciona la cancelación d
 
 ### Ver detalles del pedido
 
-Al hacer clic en un pedido del listado, el cliente podrá visualizar todos los detalles de su pedido, como la dirección de entrega, la forma de pago utilizada y el total pagado. Además, puede ver la información de rastreo por ítems del pedido y una línea de tiempo con todos los _status_ del [flujo del pedido](/es/tutorial/fluxo-de-pedido--tutorials_196).
+Al hacer clic en un pedido del listado, el cliente podrá visualizar todos los detalles de su pedido, como la dirección de entrega, la forma de pago utilizada y el total pagado. Además, puede ver la información de rastreo por ítems del pedido y una línea de tiempo con todos los _status_ del [flujo del pedido](/es/docs/tutorials/flujo-y-status-de-pedidos).
 
 El cliente también puede [Hacer pedido de nuevo](#hacer-pedido-de-nuevo) desde esta página. Al hacer clic en `Más opciones`, se muestran las funcionalidades de [Modificar pedido](#modificar-pedido) (en caso de que esté habilitada y el _status_ del pedido sea `Preparando el pedido`) y [Solicitar cancelación](#solicitar-cancelacion).
 
@@ -133,7 +133,7 @@ Para agregar nuevas tarjetas, sigue los pasos a continuación:
 
 ![Card ReCaptcha](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/my-account/como-funciona-mi-cuenta_4.gif)
 
-Sin embargo, hay **limitaciones** que las tiendas que utilizan la autenticación [3DS](/es/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) (V1 o V2) en sus adquirentes deben considerar:
+Sin embargo, hay **limitaciones** que las tiendas que utilizan la autenticación [3DS](/es/docs/tutorials/que-es-3d-secure) (V1 o V2) en sus adquirentes deben considerar:
 
 * Si el comprador intenta registrar una nueva tarjeta sin haberla usado previamente en su tienda, aparecerá el mensaje_ _«_Se produjo_ _un error al intentar registrar la tarjeta_». Para saber más detalles, acceda a nuestra documentación [‘Guardar tarjeta’ no funciona al usar la autenticación 3DS](/es/known-issues/the-save-new-card-option-does-not-work-when-using-3-d-secure-3ds--20INELA5LVhY1XqFWG7047).
 
@@ -141,7 +141,7 @@ Sin embargo, hay **limitaciones** que las tiendas que utilizan la autenticación
 
 * Si la tarjeta de crédito guardada en la pestaña **Tarjetas de crédito** está vencida, se deberá eliminar y realizar una nueva compra para guardarla, ya que, debido a la autenticación **3DS**, no es posible actualizar y confirmar los datos de la tarjeta sin haber realizado una transacción en la tienda.
 
-* En tiendas que actúan como _marketplace_, la opción `Guardar tarjeta` de la pestaña **Tarjetas de crédito** no estará disponible para los casos en que la condición de pago de la tarjeta de crédito solo esté asociada al [seller white label](/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa). Esto se debe a que la validación de la tarjeta se realiza directamente en la cuenta principal, a través de una transacción de prueba por el valor de USD 1,50, que se reembolsa inmediatamente.
+* En tiendas que actúan como _marketplace_, la opción `Guardar tarjeta` de la pestaña **Tarjetas de crédito** no estará disponible para los casos en que la condición de pago de la tarjeta de crédito solo esté asociada al [seller white label](/es/docs/tutorials/seller-white-label). Esto se debe a que la validación de la tarjeta se realiza directamente en la cuenta principal, a través de una transacción de prueba por el valor de USD 1,50, que se reembolsa inmediatamente.
 
     En otras palabras, para guardar la tarjeta, la [condición de pago](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) de tarjeta de crédito también debe estar en la cuenta principal, en este caso, en Marketplace.
 

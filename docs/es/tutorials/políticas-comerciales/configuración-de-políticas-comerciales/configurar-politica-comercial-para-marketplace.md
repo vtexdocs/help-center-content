@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 5AxJjgQO1Uc0kWKMwyi08W
 ---
 
-En VTEX, las [políticas comerciales](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) agrupan la configuración del catálogo, los precios, las promociones, la logística, la segmentación de clientes y los pagos para diferentes estrategias de venta. Las tiendas que operan como *sellers* establecen políticas comerciales para aplicar condiciones específicas para cada *marketplace* en el que venden productos. 
+En VTEX, las [políticas comerciales](/es/docs/tutorials/como-funciona-una-politica-comercial) agrupan la configuración del catálogo, los precios, las promociones, la logística, la segmentación de clientes y los pagos para diferentes estrategias de venta. Las tiendas que operan como *sellers* establecen políticas comerciales para aplicar condiciones específicas para cada *marketplace* en el que venden productos. 
 
 Vea cómo se pueden configurar las políticas comerciales en los siguientes módulos cuando su tienda opera como *seller*.
 
@@ -28,7 +28,7 @@ Vea cómo se pueden configurar las políticas comerciales en los siguientes mód
 - [Estrategia de envío](#estrategia-de-envio)  
 - [Integraciones](#integraciones)  
 
-Para [contratar políticas comerciales adicionales](/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), póngase en contacto con nuestro equipo de Growth Operations en *[Soporte](https://supporticket.vtex.com/support)* seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Política Comercial`.
+Para [contratar políticas comerciales adicionales](/es/docs/tutorials/contratacion-de-politicas-comerciales-adicionales), póngase en contacto con nuestro equipo de Growth Operations en *[Soporte](https://supporticket.vtex.com/support)* seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Política Comercial`.
 
 Por cada política comercial adicional se cobra un valor mensual, independientemente de si se utiliza para la integración con marketplaces certificados, partners, externos o VTEX.
 
@@ -37,12 +37,12 @@ Por cada política comercial adicional se cobra un valor mensual, independientem
 ## Configuración de la tienda 
 La creación de una nueva política comercial es el primer paso para definir las condiciones aplicadas a cada *marketplace* en el que opera un *seller*. Los *sellers* pueden crear múltiples políticas comerciales o pueden aplicar la misma política en más de un *marketplace*. 
 
-Esta configuración se realiza en el módulo «Configuración de la tienda», en la página «Políticas comerciales». Debe crear [una nueva política comercial](/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) cuando la configuración de catálogo, precios, promociones, logística y pagos sean diferentes entre los *marketplaces* en que los *sellers* venden sus productos. 
+Esta configuración se realiza en el módulo «Configuración de la tienda», en la página «Políticas comerciales». Debe crear [una nueva política comercial](/es/docs/tutorials/crear-una-politica-comercial) cuando la configuración de catálogo, precios, promociones, logística y pagos sean diferentes entre los *marketplaces* en que los *sellers* venden sus productos. 
 
 ![ES Add Politica comercial](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/políticas-comerciales/configuración-de-políticas-comerciales/configurar-politica-comercial-para-marketplace_1.jpg)
 
 ## Gestión de pedidos
-Después de crear una política comercial, debe asociarla a cada *marketplace* en que el *seller* venda productos al registrar [afiliados](/es/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0). Así es como los *sellers* identifican la política comercial que opera en cada *marketplace*. Si su tienda vende productos en tres *marketplaces* diferentes, deberá crear tres afiliados, cada uno de los cuales representará un *marketplace*. 
+Después de crear una política comercial, debe asociarla a cada *marketplace* en que el *seller* venda productos al registrar [afiliados](/es/docs/tutorials/que-es-afiliado). Así es como los *sellers* identifican la política comercial que opera en cada *marketplace*. Si su tienda vende productos en tres *marketplaces* diferentes, deberá crear tres afiliados, cada uno de los cuales representará un *marketplace*. 
 
 Esto se hace en la página *Configuración* del módulo *Gestión de pedidos* de su tienda al registrar afiliados. Incluso si crea varias, es importante tener en cuenta que solamente se aplicará una política comercial a la vez en el *marketplace*. 
 
@@ -65,9 +65,9 @@ Si no selecciona ninguna política comercial, la promoción estará disponible e
 *En el ejemplo anterior, la promoción solo se aplicará a los pedidos de las políticas comerciales «Marketplace-BRL» y «Argentina-ARS», donde la tienda opera como seller. La promoción no estará disponible en el storefront de VTEX.* 
 
 ## Pagos
-Los *sellers* que tramitan el pago de las ventas de sus productos en un *marketplace* pueden crear [condiciones especiales](/es/tutorial/condicoes-especiais--tutorials_456) de pago y aplicarlas en *marketplaces* específicos mediante políticas comerciales. Si desea que su tienda ofrezca más opciones de plazos para los pedidos en *marketplaces* asociados, debe crear una condición especial y asociarla a la política comercial vigente en esos *marketplaces*. 
+Los *sellers* que tramitan el pago de las ventas de sus productos en un *marketplace* pueden crear [condiciones especiales](/es/docs/tutorials/condiciones-especiales) de pago y aplicarlas en *marketplaces* específicos mediante políticas comerciales. Si desea que su tienda ofrezca más opciones de plazos para los pedidos en *marketplaces* asociados, debe crear una condición especial y asociarla a la política comercial vigente en esos *marketplaces*. 
 
-La configuración se realiza en el módulo *Pagos* al [crear una condición especial](/es/tutorial/condicoes-especiais--tutorials_456) y asociarla a las políticas comerciales deseadas. Si no establece ninguna restricción, la política comercial se aplicará a todos los canales de venta. 
+La configuración se realiza en el módulo *Pagos* al [crear una condición especial](/es/docs/tutorials/condiciones-especiales) y asociarla a las políticas comerciales deseadas. Si no establece ninguna restricción, la política comercial se aplicará a todos los canales de venta. 
 
 ![ES Pagamento Politica comercial](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/políticas-comerciales/configuración-de-políticas-comerciales/configurar-politica-comercial-para-marketplace_4.jpg)
 
@@ -89,7 +89,7 @@ Los *sellers* pueden definir una estrategia de precios diferente para cada *mark
 
 Esta configuración se realiza en el módulo *Precios* mediante políticas comerciales. Al definir los precios de los productos, los *sellers* deben tomar en cuenta que cada política comercial se crea con su propia tabla de precios. Para diferenciar los precios de las políticas comerciales, puede utilizar:
 
-- [Reglas de precio](/es/tutorial/configurar-regra-de-preco-para-politica-comercial--5LQMLwcUcEGCWK6SMI6cEM): para determinar un *markup* para categorías y marcas específicas;
+- [Reglas de precio](/es/docs/tutorials/configurar-regla-de-precio-para-politica-comercial): para determinar un *markup* para categorías y marcas específicas;
 - [Precios fijos](/es/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy): para diferenciar precios en productos específicos.
 
 ![ES Regra de preço](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/políticas-comerciales/configuración-de-políticas-comerciales/configurar-politica-comercial-para-marketplace_6.jpg)
@@ -118,6 +118,6 @@ Las [integraciones](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_4
 
 ## Sepa más
 
-- [Crear una política comercial](/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)  
-- [Como funciona una política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)  
-- [Estratégias de marketplace en VTEX](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402)
+- [Crear una política comercial](/es/docs/tutorials/crear-una-politica-comercial)  
+- [Como funciona una política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial)  
+- [Estratégias de marketplace en VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex)

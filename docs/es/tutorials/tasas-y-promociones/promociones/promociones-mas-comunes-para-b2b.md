@@ -37,7 +37,7 @@ Para esto, el administrador de la tienda debe tener cuidado de no hacer promocio
 
 Hacer promociones es una buena manera de rotar el inventario almacenado. Mantener un inventario antiguo durante mucho tiempo es suficiente para perder ventas con nuevos productos.
 
-El administrador de la tienda puede aplicar descuentos por cantidad de productos dentro de una compra, fomentando así un mayor consumo de ese ítem. Un ejemplo de promoción en este contexto es el [Descuento Progresivo](/es/tutorial/desconto-progressivo--tutorials_324).
+El administrador de la tienda puede aplicar descuentos por cantidad de productos dentro de una compra, fomentando así un mayor consumo de ese ítem. Un ejemplo de promoción en este contexto es el [Descuento Progresivo](/es/docs/tutorials/descuento-progresivo).
 
 Otra opción es llevar a cabo promociones en la venta de lotes. De esta manera, es una garantía de que el inventario antiguo de un determinado producto se venderá.
 
@@ -65,14 +65,14 @@ A partir de esto, imagine un notebook que tiene un alto volumen de ventas y un b
 
 Aquí, el objetivo es ofrecer los ítems juntos de forma promocional. De esta manera, se garantiza que el cliente compre productos relacionados que aporten un margen agregado superior al administrador de la tienda. Esto se hace mediante promociones de venta cruzada.
 
-Promociones [Compre y Gane](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#compre-e-ganhe) y organización de [Kits](/es/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28) son las principales estrategias para este escenario.
+Promociones [Compre y Gane](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#compre-e-ganhe) y organización de [Kits](/es/docs/tutorials/que-es-un-kit) son las principales estrategias para este escenario.
 
 ## Segmentación de clientes
 Pensar en los perfiles de los clientes es una forma importante de aplicar promociones de manera eficiente. Es esencial agrupar a los clientes por segmento y región, considerando los impuestos e intereses como el núcleo de atractivos descuentos y promociones.
 
 En caso de que el administrador de la tienda tenga un rebate de algún fabricante, es interesante centrarse en la segmentación que consume este producto. De este modo, es otra forma de delimitar las categorías que recibirán descuentos previstos.
 
-Consulte el artículo de [promoción para un clúster de clientes](/es/tutorial/criando-promocao-para-um-cluster-de-clientes--tutorials_342) para saber cómo implementar este método.
+Consulte el artículo de [promoción para un clúster de clientes](/es/docs/tutorials/creando-promociones-cluster-clientes) para saber cómo implementar este método.
 
 ## Flete gratis
 

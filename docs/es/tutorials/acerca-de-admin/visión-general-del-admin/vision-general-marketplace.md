@@ -18,7 +18,7 @@ order: 1
 
 Un _marketplace_ es una plataforma virtual a través de la cual diferentes vendedores anuncian sus productos. El _marketplace_ es la vitrina donde se mostrarán los productos y también el lugar donde se hará el pedido. A los vendedores que anuncian allí se les llama _sellers_. Además de ser propietarios de los productos, también son responsables de entregar los productos a los clientes. El conjunto de operaciones y actividades realizadas por el _seller_, desde que recibe el pedido hasta la entrega del producto, se denomina _fulfillment_.
 
-[VTEX promueve la colaboración digital](https://vtex.com/br-pt/marketplace/) en diferentes escenarios. Puedes vender tus productos en _marketplaces_ y también vender productos de otros _sellers_ en tu ambiente, operando como _marketplace_. Aprende más sobre las diferentes [estrategias de marketplace en VTEX](/es/tutorial/marketplace-strategies-at-vtex--tutorials_402).
+[VTEX promueve la colaboración digital](https://vtex.com/br-pt/marketplace/) en diferentes escenarios. Puedes vender tus productos en _marketplaces_ y también vender productos de otros _sellers_ en tu ambiente, operando como _marketplace_. Aprende más sobre las diferentes [estrategias de marketplace en VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex).
 
 Hemos agrupado todas las funcionalidades relacionadas con estas operaciones en el menú __Marketplace__ del Admin v4. 
 

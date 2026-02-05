@@ -15,14 +15,14 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Implementación de control de acceso (ACL) en B2B Suite incluye nuevos permisos para gestionar usuarios y organizaciones.'
 ---
 
-A partir de 4 de noviembre de 2025, **B2B Suite** contará con un nuevo control de acceso basado en permisos (ACL o Access Control List). Esta actualización optimiza la seguridad y la gestión de usuarios y organizaciones compradoras y garantiza que solo los [roles](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) autorizados puedan ver o editar información de la tienda.
+A partir de 4 de noviembre de 2025, **B2B Suite** contará con un nuevo control de acceso basado en permisos (ACL o Access Control List). Esta actualización optimiza la seguridad y la gestión de usuarios y organizaciones compradoras y garantiza que solo los [roles](/es/docs/tutorials/roles) autorizados puedan ver o editar información de la tienda.
 
 Con el nuevo modelo, el acceso a **organizaciones compradoras**, **centros de costo** y **usuarios** en el Admin VTEX depende de permisos específicos. 
 
 ## ¿Qué cambió?
 Antes, cualquier usuario con acceso al Admin VTEX podía ver y editar datos de organizaciones compradoras.
 
-Con la nueva **lista de control de acceso**, solo los usuarios con los permisos correspondientes en [License Manager](/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) pueden ejecutar esas acciones.
+Con la nueva **lista de control de acceso**, solo los usuarios con los permisos correspondientes en [License Manager](/es/docs/tutorials/recursos-del-license-manager) pueden ejecutar esas acciones.
 
 Los permisos disponibles son:
 

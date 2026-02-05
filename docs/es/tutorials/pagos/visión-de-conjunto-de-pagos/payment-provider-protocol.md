@@ -225,7 +225,7 @@ Esta URL tiene algunos parámetros de consulta, incluyendo `X-VTEX signature`. E
 https://gatewayqa.vtexpayments.com.br/api/pvt/payment-provider/transactions/8FB0F111111122222333344449984ACB/payments/A2A9A25B11111111222222333327883C/callback?accountName=teampaymentsintegrations&X-VTEX-signature=R123456789aBcDeFGHij1234567890tk
 ```
 
-En la [página de Transacciones del Admin](/es/tutorial/como-visualizar-detalle-del-pedido--tutorials_452), el token de firma se muestra enmascarado por razones de seguridad, como en este ejemplo: `X-VTEX-signature=Rj******tk`.
+En la [página de Transacciones del Admin](/es/docs/tutorials/como-visualizar-detalle-del-pedido), el token de firma se muestra enmascarado por razones de seguridad, como en este ejemplo: `X-VTEX-signature=Rj******tk`.
 
 Vea a continuación, um ejemplo de payload enviada junto con la callback URL:
 

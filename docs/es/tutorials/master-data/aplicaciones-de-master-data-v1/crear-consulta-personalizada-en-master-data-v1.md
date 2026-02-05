@@ -19,7 +19,7 @@ Una consulta personalizada en Master Data es un filtro o combinación de filtros
 
 ## Prerrequisitos
 
-Antes de crear una consulta es necesario seguir los pasos descritos en [Filtrar datos en Master Data](/es/tutorial/filtrando-dados-no-master-data--tutorials_778) para configurar un filtro tanto en la entidad de datos como en el formulario.
+Antes de crear una consulta es necesario seguir los pasos descritos en [Filtrar datos en Master Data](/es/docs/tutorials/filtrar-datos-en-el-master-data) para configurar un filtro tanto en la entidad de datos como en el formulario.
 
 ## Guardar una consulta
 

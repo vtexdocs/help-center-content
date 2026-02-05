@@ -26,7 +26,7 @@ El diseño del panel de gestión de usuarios se actualizó con los mismos están
 
 Además, el panel tiene algunos cambios:
 
-- La edición de los nombres de usuario ahora solo puede ser efectuada por cada usuario a través de la Configuración de Usuario de su cuenta. Lea el artículo [Configurar datos personales en la pantalla de usuario](/es/tutorial/configurar-dados-pessoais-na-tela-de-usuario--3S32bI9Qb6Ecec66SckYK6).
+- La edición de los nombres de usuario ahora solo puede ser efectuada por cada usuario a través de la Configuración de Usuario de su cuenta. Lea el artículo [Configurar datos personales en la pantalla de usuario](/es/docs/tutorials/configurar-datos-personales-en-la-pantalla-de-usuario).
 - Por estándar, la exclusión de usuarios elimina el acceso del usuario a la tienda sin eliminarlo de la base de datos. El mensaje de confirmación de esta acción ahora destaca ese hecho. 
 
-La documentación completa sobre la utilización del panel de gestión de usuarios está disponible en el artículo [Administrar usuarios](/es/tutorial/gerenciando-usuarios--tutorials_512).
+La documentación completa sobre la utilización del panel de gestión de usuarios está disponible en el artículo [Administrar usuarios](/es/docs/tutorials/gestionar-usuarios-administradores).

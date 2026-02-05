@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-Al introducir los datos de seguimiento en la plataforma, los administradores de tiendas y los clientes pueden seguir las entregas de los pedidos. Para insertar o modificar los datos de seguimiento, los pedidos deben [haber sido ya facturados](/es/tutorial/como-faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v).  
+Al introducir los datos de seguimiento en la plataforma, los administradores de tiendas y los clientes pueden seguir las entregas de los pedidos. Para insertar o modificar los datos de seguimiento, los pedidos deben [haber sido ya facturados](/es/docs/tutorials/como-facturar-manualmente-un-pedido).  
 
 Hay dos maneras de introducir los datos de seguimiento del pedido:
 

@@ -22,7 +22,7 @@ Para utilizar la afiliación easypay en tu marketplace, es necesario:
 - [Instalar la aplicación easypay seller account](#instalar-la-aplicacion-easypay-seller-account)
 - [Configurar la aplicación easypay seller account](#configurar-la-aplicacion-easypay-seller-account)
 
-> ⚠️ Si deseas configurar easypay para un contexto distinto al de seller, consulta los artículos [Configurar pago con easypay](/es/tutorial/configurar-pago-con-easypay--3xJQqjMIn0ARDI1HcwK88J) o [Configurar pago con easypay marketplace](/es/tutorial/configurar-pago-con-easypay-marketplace--3YllWiITcPEOpteuToEdO7).
+> ⚠️ Si deseas configurar easypay para un contexto distinto al de seller, consulta los artículos [Configurar pago con easypay](/es/docs/tutorials/configurar-pago-con-easypay) o [Configurar pago con easypay marketplace](/es/docs/tutorials/configurar-pago-con-easypay-marketplace).
 
 ## Instalar la aplicación easypay seller account
 

@@ -27,7 +27,7 @@ Después de completar la autenticación de tu cuenta, los productos se envían a
 - Status del producto
 - Disponibilidad
 
-La actualización es automática y se realiza cada vez que se modifica uno de los datos. Es importante destacar que el valor _moneda_ se define en la política comercial, y que la _disponibilidad_ no refleja el stock real: solo determina si los productos están disponibles para la venta. Para más información, consulta [Cómo funciona la disponibilidad de inventario en la página de producto](/es/tutorial/como-funciona-a-disponibilidade-de-estoque-na-pagina-de-produto--gyVfuG5dTyUyGA02iiU0y).
+La actualización es automática y se realiza cada vez que se modifica uno de los datos. Es importante destacar que el valor _moneda_ se define en la política comercial, y que la _disponibilidad_ no refleja el stock real: solo determina si los productos están disponibles para la venta. Para más información, consulta [Cómo funciona la disponibilidad de inventario en la página de producto](/es/docs/tutorials/como-funciona-la-disponibilidad-de-inventario-en-la-pagina-de-producto).
 
 Si deseas enviar los atributos de tus productos a Facebook, debes completar un paso adicional. Los atributos son [especificaciones](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) de los productos, es decir, son propiedades que se pueden registrar en los productos o los SKUs.
 
@@ -100,7 +100,7 @@ Agrupar productos por campaña específica (ejemplo: Black Friday, Envío gratis
 Crear informes por grupos de productos con comportamientos similares.
 
 ### Configuración
-Debes crear las etiquetas personalizadas en Facebook Business Manager. Después de crearlas, sigue el tutorial [Registrar especificaciones o campos de producto](/es/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) para asociarlas a un anuncio específico mediante **especificaciones de productos**.
+Debes crear las etiquetas personalizadas en Facebook Business Manager. Después de crearlas, sigue el tutorial [Registrar especificaciones o campos de producto](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto) para asociarlas a un anuncio específico mediante **especificaciones de productos**.
 
 Cuando crees el nuevo campo de especificación de producto, úsalo para ingresar los siguientes valores:
 

@@ -45,9 +45,9 @@ Entre las principales funcionalidades disponibles en el módulo Checkout de VTEX
 
 - [SmartCheckout](/es/tutorial/smartcheckout-customer-information-automatic-fill-in--2Nuu3xAFzdhIzJIldAdtan#): solución de VTEX que elimina la utilización del proceso de autenticación del cliente (usuario y contraseña) para completar los datos de manera automática en la pantalla del checkout. El cliente solo debe informar el email que registró en la tienda.
 - [Optimización de las opciones de entrega](/es/tutorial/otimizacao-das-opcoes-de-entrega-no-checkout--6DeGO9eBSFWe4XkoS0SxAB#) (lean shipping): combina información de los clientes y de los ítems para crear opciones de entrega más económicas y rápidas.
-- [Puntos de recogida](/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#): permite verificar información sobre los puntos de recogida disponibles para cada ítem, por ejemplo, domicilios y mapas de localización. Obtén más información en [Gestionar geolocalización](/es/tutorial/gerenciar-geolocalizacao--tutorials_138).
+- [Puntos de recogida](/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#): permite verificar información sobre los puntos de recogida disponibles para cada ítem, por ejemplo, domicilios y mapas de localización. Obtén más información en [Gestionar geolocalización](/es/docs/tutorials/gestionar-geolocalizacion).
 - [Manual Price](/es/tutorial/modificar-o-preco-de-um-item-no-carrinho-de-compras--7Cd37aCAmtL1qmoZJJvjNf#): le permite al retailer modificar el precio de un ítem disponible en el carrito.
-- [reCAPTCHA](/es/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP): herramienta usada para validar al usuario real en pedidos que se pagarán con tarjeta de crédito o débito con el fin de evitar accesos de usuarios falsos que pueden simularse a través de programas maliciosos.
+- [reCAPTCHA](/es/docs/tutorials/recaptcha-en-el-checkout): herramienta usada para validar al usuario real en pedidos que se pagarán con tarjeta de crédito o débito con el fin de evitar accesos de usuarios falsos que pueden simularse a través de programas maliciosos.
 
 ## Versiones del módulo Checkout de VTEX
 

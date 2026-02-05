@@ -33,10 +33,10 @@ Si uno o más productos reciben más del descuento máximo permitido, todo el pe
 
 ## Divergencia de precios
 
-Cuando el precio definido por el _seller_ es diferente del precio ofrecido por el _marketplace_, es posible que los pedidos no se procesen correctamente. En VTEX, el flujo de Autorización de pedidos permite controlar y aprobar automáticamente estos pedidos, a partir de la configuración de una [regla de Divergencia de precios](/es/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW). 
+Cuando el precio definido por el _seller_ es diferente del precio ofrecido por el _marketplace_, es posible que los pedidos no se procesen correctamente. En VTEX, el flujo de Autorización de pedidos permite controlar y aprobar automáticamente estos pedidos, a partir de la configuración de una [regla de Divergencia de precios](/es/docs/tutorials/regla-de-divergencia-de-precios). 
 
 ### Más información
 
-- [Regla de Divergencia de precios](/es/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW)
-- [Configuración de regla de Divergencia de precios](/es/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe)
-- [Estrategias de marketplace en VTEX](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402)
+- [Regla de Divergencia de precios](/es/docs/tutorials/regla-de-divergencia-de-precios)
+- [Configuración de regla de Divergencia de precios](/es/docs/tutorials/configuracion-de-regla-de-divergencia-de-valores)
+- [Estrategias de marketplace en VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex)

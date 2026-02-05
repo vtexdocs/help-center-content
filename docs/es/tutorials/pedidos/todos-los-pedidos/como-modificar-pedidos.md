@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-La funcionalidad [Modificar pedido](/es/tutorial/como-funciona-modificar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ) brinda la posibilidad de editar un pedido de múltiples maneras, ya sea para atender las preferencias del cliente, abordar la falta de disponibilidad de productos u otras razones. 
+La funcionalidad [Modificar pedido](/es/docs/tutorials/como-funciona-modificar-pedido) brinda la posibilidad de editar un pedido de múltiples maneras, ya sea para atender las preferencias del cliente, abordar la falta de disponibilidad de productos u otras razones. 
 
 Este artículo muestra las formas en que se puede modificar un pedido y describe cómo llevar a cabo estas acciones. Se estructura en las siguientes secciones:
 
@@ -24,7 +24,7 @@ Este artículo muestra las formas en que se puede modificar un pedido y describe
 * [Acciones comunes](#acciones-comunes)
 * [Errores de procesamiento](#errores-de-procesamiento)
 
-> ⚠️ Para conocer las [características generales](/es/tutorial/como-funciona-modificar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ#caracteristicas-generales) en escenarios de modificación de pedido, incluyendo reserva, actualización de stock y cuentas franquicia, o para comprender cuestiones de [precio, pago y factura](/es/tutorial/como-funciona-modificar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ#cambios-de-precio), consulta el artículo [Cómo funciona Modificar pedido](/es/tutorial/como-funciona-modificar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ).
+> ⚠️ Para conocer las [características generales](/es/tutorial/como-funciona-modificar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ#caracteristicas-generales) en escenarios de modificación de pedido, incluyendo reserva, actualización de stock y cuentas franquicia, o para comprender cuestiones de [precio, pago y factura](/es/tutorial/como-funciona-modificar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ#cambios-de-precio), consulta el artículo [Cómo funciona Modificar pedido](/es/docs/tutorials/como-funciona-modificar-pedido).
 
 ## Requisitos
 
@@ -32,11 +32,11 @@ Existen algunas condiciones para la modificación de pedidos relacionadas con el
 
 ### Status del pedido a modificar
 
-Durante el [flujo del pedido](/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196), el único status en el que **Modificar pedido** puede realizarse en el Admin VTEX es `preparando envío`. Para obtener información sobre modificaciones a través de API, consulta el artículo [Cómo funciona Modificar pedido](/es/tutorial/como-funciona-modificar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ).
+Durante el [flujo del pedido](/es/docs/tutorials/flujo-y-status-de-pedidos), el único status en el que **Modificar pedido** puede realizarse en el Admin VTEX es `preparando envío`. Para obtener información sobre modificaciones a través de API, consulta el artículo [Cómo funciona Modificar pedido](/es/docs/tutorials/como-funciona-modificar-pedido).
 
 ### Permiso en License Manager
 
-Para que un usuario pueda modificar pedidos, su [rol](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) debe estar asociado con al menos uno de los siguientes [recursos de License Manager](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3):
+Para que un usuario pueda modificar pedidos, su [rol](/es/docs/tutorials/roles) debe estar asociado con al menos uno de los siguientes [recursos de License Manager](/es/docs/tutorials/recursos-del-license-manager):
 
 * `Orders Full Access`
 * `Change order`
@@ -49,13 +49,13 @@ Las principales modificaciones en los pedidos que se pueden realizar a través d
 * **Remover:** una cantidad parcial o total de ítems.
 * **Modificar peso:** posibilidad de modificar el peso de los ítems, aumentándolo o disminuyéndolo según necesidad.
 * **Sustituir ítems:** permite reemplazar unos ítems por otros, incluyendo aquellos con precios basados en peso.
-* **Modificar precio:** [modificar el valor total del pedido](/es/tutorial/alterar-valor-total-do-pedido--2asq4BmxvSD8Tw9xpfZuMo).
+* **Modificar precio:** [modificar el valor total del pedido](/es/docs/tutorials/cambiar-el-valor-total-del-pedido).
 
-Todas estas acciones se realizan a través de la [página de detalles del pedido](/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), a la que se puede acceder de dos formas, descritas a continuación.
+Todas estas acciones se realizan a través de la [página de detalles del pedido](/es/docs/tutorials/pagina-de-detalles-del-pedido), a la que se puede acceder de dos formas, descritas a continuación.
 
 ### Acceder al pedido desde la página Todos los pedidos
 
-En el Admin VTEX, ve a **Pedidos >** [Todos los pedidos](/es/tutorial/lista-de-pedidos-interface--2QTduKHAJMFIZ3BAsi6Pi), y haz clic en el pedido deseado, o ingresa **Todos los pedidos** en la barra de búsqueda de la parte superior de la página. A continuación, haz clic en el pedido deseado. Utiliza los filtros para refinar la búsqueda si es necesario.
+En el Admin VTEX, ve a **Pedidos >** [Todos los pedidos](/es/docs/tutorials/todos-los-pedidos), y haz clic en el pedido deseado, o ingresa **Todos los pedidos** en la barra de búsqueda de la parte superior de la página. A continuación, haz clic en el pedido deseado. Utiliza los filtros para refinar la búsqueda si es necesario.
 
 ### Acceder al pedido mediante la barra de búsqueda global
 
@@ -75,7 +75,7 @@ Una vez en la página de detalles del pedido, puedes realizar las siguientes mod
 * [Sustituir ítems](#sustituir-items)
 * [Modificar peso](#modificar-peso)
 
-> ℹ️ Se puede realizar una sola modificación en el pedido o combinar varias a la vez. No hay un límite específico respecto a la cantidad de veces que el pedido puede modificarse. Para obtener más información, consulta el artículo [Cómo funciona Modificar pedido](/es/tutorial/como-funciona-modificar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ).
+> ℹ️ Se puede realizar una sola modificación en el pedido o combinar varias a la vez. No hay un límite específico respecto a la cantidad de veces que el pedido puede modificarse. Para obtener más información, consulta el artículo [Cómo funciona Modificar pedido](/es/docs/tutorials/como-funciona-modificar-pedido).
 
 ### Agregar ítems
 
@@ -203,7 +203,7 @@ En la página **Gestionar ítems del pedido**, puedes deshacer las modificacione
 En cualquier tipo de [modificación de pedido](#tipos-de-modificaciones-en-los-pedidos), en la página **Gestionar ítems del pedido**, al hacer clic en `Revisar y aplicar`, es posible que la modificación no se apruebe. En este caso, serás redirigido nuevamente a la página de detalles del pedido. Algunos de los motivos por los que se deniegan los cambios son:
 
 * **Ítem no disponible:** el SKU puede [no aparecer en el sitio web de la tienda](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web) o no estar disponible por un error o falta de configuración de catálogo, precio o logística. 
-* **Stock insuficiente:** la cantidad de ítems agregados o sustituidos en la modificación puede ser superior a la cantidad de ítems disponibles para la venta en tu [stock](/es/tutorial/gerenciar-inventario--tutorials_139).
+* **Stock insuficiente:** la cantidad de ítems agregados o sustituidos en la modificación puede ser superior a la cantidad de ítems disponibles para la venta en tu [stock](/es/docs/tutorials/gestionar-items-en-inventario).
 
 Si la configuración del catálogo y del stock es correcta y los intentos de modificar los pedidos siguen dando error, podría tratarse de un problema de procesamiento de la plataforma. En este caso, ponte en contacto con [nuestro equipo de soporte](https://supporticket.vtex.com/support).
 

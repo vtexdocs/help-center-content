@@ -14,7 +14,7 @@ locale: es
 legacySlug: el-sku-tiene-unidades-positivas-en-el-stock-pero-no-esta-disponible-para-la
 ---
 
-Cuando dos o más _stocks_ utilizan la misma [política comercial](/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV) y uno de estos _stocks_ tiene una cantidad negativa de unidades, el SKU pasa a no estar disponible para la venta, aunque haya una cantidad disponible en uno de los _[stocks](/es/tutorial/gestionar-items-en-inventario--tutorials_139)._
+Cuando dos o más _stocks_ utilizan la misma [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) y uno de estos _stocks_ tiene una cantidad negativa de unidades, el SKU pasa a no estar disponible para la venta, aunque haya una cantidad disponible en uno de los _[stocks](/es/docs/tutorials/gestionar-items-en-inventario)._
 
 Esto se debe a que la plataforma VTEX suma las unidades negativas de los SKU de un determinado _stock_ a las unidades positivas de otro _stock_. Si la suma de estas cantidades es cero, el SKU pasa a no estar disponible para la venta en la tienda.
 

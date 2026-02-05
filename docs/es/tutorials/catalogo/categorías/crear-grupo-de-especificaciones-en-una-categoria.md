@@ -17,7 +17,7 @@ subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 
 «Grupo» es el nombre que se le da a un conjunto de [especificaciones (campos)](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) relacionadas con los productos o SKU de determinada [categoría](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf).
 
-En VTEX, una especificación siempre forma parte de un grupo de especificaciones que está asociado a una categoría. Es precisamente por esto que, para crear una [especificación de producto](/es/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) o una [especificación de SKU](/es/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119), debe existir, al menos, el registro de una categoría y de un grupo de especificaciones.
+En VTEX, una especificación siempre forma parte de un grupo de especificaciones que está asociado a una categoría. Es precisamente por esto que, para crear una [especificación de producto](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto) o una [especificación de SKU](/es/docs/tutorials/registrar-especificaciones-o-campos-de-sku), debe existir, al menos, el registro de una categoría y de un grupo de especificaciones.
 
 En este artículo, te explicamos cómo funciona la herencia de especificaciones y el registro de grupos de especificaciones en el Admin VTEX. Revisa las secciones a continuación:
 
@@ -54,5 +54,5 @@ Puedes crear los campos que consideres necesarios dentro de un grupo. Los campos
 
 * [Categorías - Definición de concepto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
 * [Especificaciones de producto y de SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
-* [Registrar especificaciones o campos de producto](/es/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106)
-* [Registrar especificaciones o campos de SKU](/es/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119)
+* [Registrar especificaciones o campos de producto](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto)
+* [Registrar especificaciones o campos de SKU](/es/docs/tutorials/registrar-especificaciones-o-campos-de-sku)

@@ -21,11 +21,11 @@ Durante todo el proceso de configuración en la plataforma VTEX, tenga siempre a
 
 ## Definir la política comercial en Amazon
 
-En VTEX, la [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) es lo que determina el surtido de productos, los precios y la estrategia de envío en un canal de venta. Es decir, a través de la política comercial se puede definir la configuración que se aplicará a sus productos en Amazon.
+En VTEX, la [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) es lo que determina el surtido de productos, los precios y la estrategia de envío en un canal de venta. Es decir, a través de la política comercial se puede definir la configuración que se aplicará a sus productos en Amazon.
 
-Si se utiliza la misma configuración de catálogo, precio y estrategia de envío de su tienda VTEX en Amazon, no es necesario [crear una nueva política comercial](/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE). Se puede utilizar la misma política comercial para diferentes canales de venta.
+Si se utiliza la misma configuración de catálogo, precio y estrategia de envío de su tienda VTEX en Amazon, no es necesario [crear una nueva política comercial](/es/docs/tutorials/crear-una-politica-comercial). Se puede utilizar la misma política comercial para diferentes canales de venta.
 
-Solo tendrá que [configurar una política comercial](/es/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404) de marketplace específica si tiene alguno de los siguientes objetivos:
+Solo tendrá que [configurar una política comercial](/es/docs/tutorials/configurar-politica-comercial-para-marketplace) de marketplace específica si tiene alguno de los siguientes objetivos:
 
 - Ofrecer una selección diferente de productos en Amazon.
 - Proporcionar una cantidad de stock diferente.
@@ -34,25 +34,25 @@ Solo tendrá que [configurar una política comercial](/es/tutorial/configurando-
 - Configurar otras condiciones de pago.
 - Definir una estrategia de envío diferente.
 
-Para [contratar políticas comerciales adicionales](/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), solo tiene que rellenar el [formulario de política comercial adicional](https://docs.google.com/forms/d/e/1FAIpQLSe9qCGB_KM_xsV5e9uNe06JE8tMZrWcv6EuHUOmqTiM8oRW7w/viewform). Si tiene alguna duda, póngase en contacto con nuestro equipo de Growth Operations en *[Soporte](https://supporticket.vtex.com/support)* seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Política Comercial`.
+Para [contratar políticas comerciales adicionales](/es/docs/tutorials/contratacion-de-politicas-comerciales-adicionales), solo tiene que rellenar el [formulario de política comercial adicional](https://docs.google.com/forms/d/e/1FAIpQLSe9qCGB_KM_xsV5e9uNe06JE8tMZrWcv6EuHUOmqTiM8oRW7w/viewform). Si tiene alguna duda, póngase en contacto con nuestro equipo de Growth Operations en *[Soporte](https://supporticket.vtex.com/support)* seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Política Comercial`.
 
 Por cada política comercial adicional se cobra una tarifa mensual, ya sea que se utilice para integración con marketplaces certificados, socios, externos o VTEX.
 
 ## Definir la Estrategia de Envío
 
-Para vender sus productos en Amazon necesita determinar una [Estrategia de Envío](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3?&utm_source=autocomplete), es decir, informar cuál será la logística de entrega de sus productos. La Estrategia de Envío se compone de tres etapas logísticas: [Política de Envío](/es/tutorial/politica-de-envio--tutorials_140), [Almacén](/es/tutorial/o-que-e-um-estoque--23kq5gUdY0QOymOu8QSGcA) y [Muelle](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj?&utm_source=autocomplete). 
+Para vender sus productos en Amazon necesita determinar una [Estrategia de Envío](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3?&utm_source=autocomplete), es decir, informar cuál será la logística de entrega de sus productos. La Estrategia de Envío se compone de tres etapas logísticas: [Política de Envío](/es/docs/tutorials/politica-de-envio), [Almacén](/es/tutorial/o-que-e-um-estoque--23kq5gUdY0QOymOu8QSGcA) y [Muelle](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj?&utm_source=autocomplete). 
 
 La Política de Envío (transportadora) se asocia al Almacén de su tienda a través del Muelle. El muelle es el punto intermedio y donde se establecen las condiciones entre la transportadora y el almacenaje de su tienda.
 
 Si desea utilizar la misma Estrategia de Envío definida para su tienda VTEX en la integración con Amazon, no es necesario crear nuevas configuraciones logísticas. Sin embargo, si desea crear una Estrategia de Envío específica para el marketplace, deberá realizar los siguientes pasos:
 
 1. [Registrar la Política de envío](/es/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio) asociada a la política comercial utilizada en la integración.
-2. [Registrar el Muelle](/es/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW) asociado a la política comercial utilizada en la integración.
-3. [Registrar el Almacén](/es/tutorial/gerenciar-estoque--tutorials_137) asociado al Muelle creado en el paso anterior.
+2. [Registrar el Muelle](/es/docs/tutorials/gestionar-el-muelle) asociado a la política comercial utilizada en la integración.
+3. [Registrar el Almacén](/es/docs/tutorials/gestionar-almacenes) asociado al Muelle creado en el paso anterior.
 
-Si desea comprobar si la configuración se ha realizado correctamente, puede realizar una [simulación de envío](/es/tutorial/simulacao-de-frete--tutorials_144). El simulador de envío es una herramienta que permite consultar las condiciones de entrega del producto sin necesidad de crear un pedido.
+Si desea comprobar si la configuración se ha realizado correctamente, puede realizar una [simulación de envío](/es/docs/tutorials/simulador-de-envio). El simulador de envío es una herramienta que permite consultar las condiciones de entrega del producto sin necesidad de crear un pedido.
 
-> ℹ️ Amazon selecciona el tipo de envío a partir de la [plantilla](/es/tutorial/como-montar-a-planilha-de-frete--tutorials_127) que el administrador de la tienda [exporta](/es/tutorial/importando-e-exportando-planilha-de-estoque--tutorials_2034). Por lo tanto, es importante que la plantilla que el administrador de la tienda exporta esté alineada con la plantilla registrada en VTEX, de modo que se reduzca la posibilidad de divergencias.
+> ℹ️ Amazon selecciona el tipo de envío a partir de la [plantilla](/es/docs/tutorials/plantilla-de-flete) que el administrador de la tienda [exporta](/es/docs/tutorials/importando-y-exportando-plantilla-de-stock). Por lo tanto, es importante que la plantilla que el administrador de la tienda exporta esté alineada con la plantilla registrada en VTEX, de modo que se reduzca la posibilidad de divergencias.
 
 ### Tiempo de procesamiento
 

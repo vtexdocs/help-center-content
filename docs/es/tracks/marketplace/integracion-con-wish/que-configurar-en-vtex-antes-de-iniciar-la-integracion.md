@@ -30,7 +30,7 @@ Es necesario definir qué política comercial se utilizará para integrar sus pr
 Una vez creada la política comercial, será necesario asociar la nueva política con los productos de su catálogo para definir cuáles serán enviados a Wish. A continuación, un paso a paso de cómo definir el surtido **masivamente por plantilla** ([vea otros métodos aquí](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#Planilha)).
 
   1. Haga la exportación de los productos de su catálogo ([vea cómo en la sección "Plantilla" de este artículo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#object-object)).
-  2. Agregue al campo **"CodigoTiendas"** ([más detalle aquí](/es/tutorial/preencher-campos-da-planilha-de-importacao--4nYhx63Q5yokQWaMguaIgI)) el **ID** de la política comercial definida en el paso anterior.
+  2. Agregue al campo **"CodigoTiendas"** ([más detalle aquí](/es/docs/tutorials/rellenar-campos-de-la-planilla-de-importacion)) el **ID** de la política comercial definida en el paso anterior.
   3. Importe la plantilla de nuevo en el catálogo.
 
 ## Definiendo la logística

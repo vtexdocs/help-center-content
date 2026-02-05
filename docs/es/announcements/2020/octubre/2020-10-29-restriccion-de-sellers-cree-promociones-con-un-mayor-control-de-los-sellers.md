@@ -59,4 +59,4 @@ Configuración después de la actualización:
 
 Su tienda no necesita efectuar ninguna acción para adecuarse a este cambio. Esta nueva funcionalidad solamente ofrece una nueva alternativa de configuración para sus promociones.
 
-Lea más sobre esta funcionalidad en nuestro artículo [Campos de la Promoción Regular](/es/tutorial/promocao-regular--tutorials_327). 
+Lea más sobre esta funcionalidad en nuestro artículo [Campos de la Promoción Regular](/es/docs/tutorials/registro-promocion-regular). 

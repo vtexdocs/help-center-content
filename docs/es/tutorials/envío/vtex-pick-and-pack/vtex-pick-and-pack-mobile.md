@@ -17,7 +17,7 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 
 > ℹ️ Si ya es cliente de VTEX y desea adoptar esta funcionalidad para su negocio, por favor, póngase en contacto con el [Soporte Comercial](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Pueden aplicarse tarifas adicionales. Si aún no es cliente pero está interesado en esta solución, por favor, complete el [formulario de contacto](https://vtex.com/co-es/contacto/).
 
-La aplicación móvil de [VTEX Pick and Pack](/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA) ayuda al alistador (profesional responsable de seleccionar y empacar los ítems en la instalación) en la preparación de los pedidos, desde el alistamiento de los ítems hasta el envío. Esto hace que el flujo de alistamiento y envío de los pedidos de la tienda sea más organizado y fluido.
+La aplicación móvil de [VTEX Pick and Pack](/es/docs/tutorials/vtex-pick-and-pack-fulfillment) ayuda al alistador (profesional responsable de seleccionar y empacar los ítems en la instalación) en la preparación de los pedidos, desde el alistamiento de los ítems hasta el envío. Esto hace que el flujo de alistamiento y envío de los pedidos de la tienda sea más organizado y fluido.
 
 ![pickpack-mobile-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-mobile_1.png)
 
@@ -89,9 +89,9 @@ Para agregar una hoja de trabajo sigue los pasos a continuación:
 Para buscar un pedido, escribe el ID del pedido en la barra de búsqueda. Para filtrar la lista de pedidos, haz clic en <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-mobile_14.png" alt="pickpack-filter" width="30" height="30"> y selecciona una o más de las siguientes opciones:
 
 * Fecha de entrega
-* [Categorías](/es/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg)
-* [Medios de pago](/es/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q)
-* [Estrategia de envío](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)
+* [Categorías](/es/docs/tutorials/que-es-una-categoria)
+* [Medios de pago](/es/docs/tutorials/diferencia-entre-medios-de-pago-y-condiciones-de-pago)
+* [Estrategia de envío](/es/docs/tutorials/estrategia-de-envio)
 * Tipo de envío
 
 ## Alistar ítems
@@ -303,6 +303,6 @@ Para finalizar el empaque, haz clic en `Confirmar empaque`.
 
 #### Más información
 
-* [VTEX Pick and Pack](/es/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU)
-* [Preguntas frecuentes sobre VTEX Pick and Pack](/es/tutorial/vtex-pick-and-pack-faq--2Rvf9vTS35vmOhkE2i0xcs)
-* [VTEX Pick and Pack: Configuración](/es/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9)
+* [VTEX Pick and Pack](/es/docs/tutorials/vtex-pick-and-pack)
+* [Preguntas frecuentes sobre VTEX Pick and Pack](/es/docs/tutorials/preguntas-frecuentes-sobre-vtex-pick-and-pack)
+* [VTEX Pick and Pack: Configuración](/es/docs/tutorials/vtex-pick-and-pack-configuracion)

@@ -21,6 +21,6 @@ Este recurso es útil para acompañar toda la comunicación por correo electrón
 
 Para ver el historial de correos electrónicos, vaya al módulo **Pedidos**, entre al pedido deseado y desplácese hacia abajo hasta la línea de tiempo. Allí encontrará los registros de los correos electrónicos enviados.
 
-El sistema que hace este registro se llama __Conversation Tracker__. Para entender más a fondo cómo funciona, consulte el artículo [Cómo se realiza la comunicación con el cliente durante el flujo del pedido](/es/tutorial/comprendiendo-el-conversation-tracker--tutorials_195).
+El sistema que hace este registro se llama __Conversation Tracker__. Para entender más a fondo cómo funciona, consulte el artículo [Cómo se realiza la comunicación con el cliente durante el flujo del pedido](/es/docs/tutorials/comprendiendo-el-conversation-tracker).
 
 > ℹ️ Como la comunicación con el cliente es responsabilidad del marketplace, solamente los pedidos con origen marketplace tienen un historial de emails transaccionales. Los pedidos con origen fulfillment no mantienen tal historial.

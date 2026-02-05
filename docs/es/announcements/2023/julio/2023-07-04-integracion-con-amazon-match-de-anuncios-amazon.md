@@ -31,5 +31,5 @@ El proceso será ahora completamente manual. Este cambio tiene como objetivo red
 
 Puedes encontrar la página __Match de anuncios Amazon__ en *Marketplace* > __Match de anuncios Amazon__ o a través de la barra de búsqueda. La página estará disponible para todas las cuentas VTEX a partir del 03 de Julio de 2023. No se requiere ninguna acción para activarla.
 
-Para más información sobre el funcionamiento de la página, consulta la [documentación Match de anuncios Amazon](/es/tutorial/match-de-anuncios-amazon--7fRfoP69kYgg8znImMhyQ0).
+Para más información sobre el funcionamiento de la página, consulta la [documentación Match de anuncios Amazon](/es/docs/tutorials/match-de-anuncios-amazon).
 

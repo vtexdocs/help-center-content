@@ -26,7 +26,7 @@ En la zona de DNS de tu dominio, debes crear una entrada de tipo CNAME en el sub
 
 Ten en cuenta que el `{dominio}` indicado anteriormente debe ser el mismo que [registraste en VTEX](/es/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#registrar-el-dominio-en-vtex).
 
-> ⚠️ Si utilizas Cloudflare como zona de DNS, puede que tengas que desactivar el proxy de DNS y, por lo tanto, desactivar los servicios de CDN y WAF de Cloudflare. Puedes ver más información en el artículo [Cómo desactivar el proxy de Cloudflare](/es/tutorial/disable-cloudflare-proxy--75QqsXAqR7NdkRc1GZPiXb).
+> ⚠️ Si utilizas Cloudflare como zona de DNS, puede que tengas que desactivar el proxy de DNS y, por lo tanto, desactivar los servicios de CDN y WAF de Cloudflare. Puedes ver más información en el artículo [Cómo desactivar el proxy de Cloudflare](/es/docs/tutorials/deshabilitar-proxy-cloudflare).
 
 Ejemplos:
 

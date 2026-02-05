@@ -16,7 +16,7 @@ announcementSynopsisES: 'Desarrollamos la aplicación Assembly Options para simp
 ---
 
 
-La personalización de los productos es una necesidad común durante la experiencia de compra online. En VTEX, este tipo de personalización es posible mediante las [Assembly Options](/es/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH) (opciones de ensamblaje), que son [anexos](/es/tutorial/que-es-un-anexo--aGICk0RVbqKg6GYmQcWUm) para escenarios complejos en los que es necesario gestionar diferentes combinaciones de productos, cantidades, ítems adicionales y costos.
+La personalización de los productos es una necesidad común durante la experiencia de compra online. En VTEX, este tipo de personalización es posible mediante las [Assembly Options](/es/docs/tutorials/assembly-options) (opciones de ensamblaje), que son [anexos](/es/docs/tutorials/que-es-un-anexo) para escenarios complejos en los que es necesario gestionar diferentes combinaciones de productos, cantidades, ítems adicionales y costos.
 
 Una situación común en los restaurantes que aceptan pedidos online, por ejemplo, es permitir a los clientes elegir los ingredientes y añadir extras a un pedido.
 
@@ -40,5 +40,5 @@ La aplicación Assembly Options solo está disponible para las tiendas desarroll
 
 Puedes instalar la aplicación de forma gratuita desde la [VTEX App Store](https://apps.vtex.com/vtex-admin-assembly-options/p) o [VTEX IO CLI](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference), siguiendo los pasos de la guía para desarrolladores [Assembly Options app](https://developers.vtex.com/vtex-developer-docs/docs/assembly-options-app). Tras la instalación, la página **Productos > Opciones de ensamblaje** estará disponible en el Admin VTEX.
 
-Para más detalles sobre el uso de esta función en VTEX Admin, consulta el artículo [Aplicación Assembly Options](/es/tutorial/aplicacion-assembly-options--54mWg37mojrqOgCA79iqqk).
+Para más detalles sobre el uso de esta función en VTEX Admin, consulta el artículo [Aplicación Assembly Options](/es/docs/tutorials/aplicacion-assembly-options).
 

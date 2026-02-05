@@ -27,7 +27,7 @@ En el Admin VTEX puedes gestionar la importación y exportación de especificaci
 
 Para importar especificaciones de SKUs a partir de una plantilla sigue los pasos a continuación:
 
-1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa [Productos y SKUs](/es/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) en la barra de búsqueda en la parte superior de la página.
+1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa [Productos y SKUs](/es/docs/tutorials/productos-y-skus) en la barra de búsqueda en la parte superior de la página.
 2. En la parte superior de la página, haz clic en `Importar`.
 3. Haz clic en `Especificaciones de SKU`.
 4. Agrega una plantilla con extensión `.xls` o `.xlsx`. Puedes arrastrar el archivo y soltarlo en el área indicada, o hacer clic en la ventana modal y seleccionar el archivo.
@@ -46,7 +46,7 @@ Para exportar un archivo `.xlsx` con información sobre especificaciones de SKUs
 
 > ℹ️ La información exportada corresponde a los campos presentados en la sección [Campos de la plantilla de especificaciones de SKUs](#campos-de-la-plantilla-de-especificaciones-de-skus).
 
-1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa [Productos y SKUs](/es/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) en la barra de búsqueda en la parte superior de la página.
+1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa [Productos y SKUs](/es/docs/tutorials/productos-y-skus) en la barra de búsqueda en la parte superior de la página.
 2. (Opcional) Si deseas exportar especificaciones de SKUs de determinados ítems, [busca](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By#buscar-productos) o [filtra](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By#filtrar-productos) según tus preferencias. Este paso no es necesario para exportar las especificaciones de SKUs de todo tu catálogo.
 3. En la parte superior de la página, haz clic en `Exportar`.
 4. Haz clic en `Especificaciones de SKU`.
@@ -64,8 +64,8 @@ La siguiente tabla muestra la descripción y el ejemplo de valor de los campos d
 | ID SKU* | Código numérico único que identifica el SKU. | 310119261 |
 | Nombre SKU | Nombre del SKU, que identifica la variación del producto. | M |
 | Código referencia SKU | Código de referencia único del SKU, creado para ayudar en la gestión del catálogo. Una vez creado, no se puede modificar desde la plantilla.Este campo es obligatorio a menos que se haya llenado el campo **EAN/UPC**. | camisa-color |
-| ID Marca | Código numérico que identifica la [marca](/es/tutorial/o-que-e-uma-marca--QU07yhHoaWcEYseEucOQW) del SKU. Esta información se puede encontrar en el Admin VTEX, en **Catálogo > Marcas**, o usando el endpoint [Get brand list](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/brand/list). | 2000003 |
-| Marca | Nombre de la [marca](/es/tutorial/o-que-e-uma-marca--QU07yhHoaWcEYseEucOQW) del SKU. Una vez llenado, este campo no puede editarse. | AOC |
+| ID Marca | Código numérico que identifica la [marca](/es/docs/tutorials/que-es-una-marca) del SKU. Esta información se puede encontrar en el Admin VTEX, en **Catálogo > Marcas**, o usando el endpoint [Get brand list](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/brand/list). | 2000003 |
+| Marca | Nombre de la [marca](/es/docs/tutorials/que-es-una-marca) del SKU. Una vez llenado, este campo no puede editarse. | AOC |
 | ID Departamento | Código numérico que identifica la categoría de mayor nivel jerárquico del producto. | 1000014 |
 | Departamento | Nombre de la categoría de mayor nivel jerárquico del producto. | Ropa |
 | ID Categoría | Número identificador único de la categoría de menor nivel jerárquico del SKU. Esta información se puede encontrar en el Admin VTEX, en **Catálogo > Categorías**, o usando el endpoint [Get category tree](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pub/category/tree/-categoryLevels-). | 1000014 |
@@ -80,7 +80,7 @@ La siguiente tabla muestra la descripción y el ejemplo de valor de los campos d
 
 ## Más información
 
-* [Importar y exportar productos y SKUs mediante plantilla (Beta)](/es/tutorial/importar-y-exportar-productos-y-skus-mediante-plantilla-beta--5udKxWP1ZeBD7QB7Fy2BNl) 
-* [Importar y exportar especificaciones de productos mediante plantilla (Beta)](/es/tutorial/importar-y-exportar-especificaciones-de-productos-mediante-plantilla-beta--jQcmbocCb7kjHOr1JSWIL)
-* [Importar y exportar imágenes de productos y SKUs mediante plantilla (Beta)](/es/tutorial/importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla-beta--6zBisMdxDYeBF49LPzvfqt)
+* [Importar y exportar productos y SKUs mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-productos-y-skus-mediante-plantilla-beta) 
+* [Importar y exportar especificaciones de productos mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-especificaciones-de-productos-mediante-plantilla-beta)
+* [Importar y exportar imágenes de productos y SKUs mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla-beta)
 

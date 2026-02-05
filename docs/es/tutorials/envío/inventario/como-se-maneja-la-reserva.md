@@ -17,7 +17,7 @@ subcategoryId: 3PQwnyOcNyYgawy06oe6gE
 
 La reserva es una solución VTEX que impide que el mismo ítem se venda más de una vez. Una vez finalizada la compra, el ítem comprado se resta del _stock_ disponible y pasa internamente al status **Reservado**.
 
-> ℹ️ En VTEX, Almacén es el lugar físico donde se almacenan los ítems. Para que se pueda identificar de qué almacén recogerán los ítems las transportadoras, los almacenes deben estar registrados en la plataforma. Consulta el artículo [Almacén](/es/tutorial/almacen--6oIxvsVDTtGpO7y6zwhGpb) para obtener más información. El stock es una lista de los ítems que tu tienda tiene en stock. Puedes añadir y hacer un seguimiento de los ítems disponibles en tu tienda a través de la Gestión del stock. Consulta el artículo [Gestión del stock](/es/tutorial/gestionar-items-en-inventario--tutorials_139) para obtener más información.
+> ℹ️ En VTEX, Almacén es el lugar físico donde se almacenan los ítems. Para que se pueda identificar de qué almacén recogerán los ítems las transportadoras, los almacenes deben estar registrados en la plataforma. Consulta el artículo [Almacén](/es/docs/tutorials/almacen) para obtener más información. El stock es una lista de los ítems que tu tienda tiene en stock. Puedes añadir y hacer un seguimiento de los ítems disponibles en tu tienda a través de la Gestión del stock. Consulta el artículo [Gestión del stock](/es/docs/tutorials/gestionar-items-en-inventario) para obtener más información.
 
 Después de ser vendido, un ítem pasa por los siguientes status en el_ stock _de tu tienda:
 
@@ -44,7 +44,7 @@ _plazo de vencimiento del pago + plazo de reserva en el stock_
     * **cinco días consecutivos:** cuando el día de vencimiento del pago sea miércoles, jueves o viernes.
     * **seis días consecutivos:** cuando el día de vencimiento del pago sea sábado.
 
-> ❗ Los pedidos incompletos pueden tener un plazo de reserva de 11 días consecutivos. Para saber más, consulta el artículo [Cómo funcionan los pedidos incompletos.](/es/tutorial/como-encontrar-un-pedido--tutorials_294)
+> ❗ Los pedidos incompletos pueden tener un plazo de reserva de 11 días consecutivos. Para saber más, consulta el artículo [Cómo funcionan los pedidos incompletos.](/es/docs/tutorials/como-encontrar-un-pedido)
 
 Para el markeplace externo, si la información del tiempo de reserva se envía por el campo `lockTTL`, el tiempo de reserva no será calculado por la plataforma VTEX, es si determinado por la fecha límite en el campo. Esto se hace mediante el llamado [Place order](https://developers.vtex.com/docs/api-reference/checkout-api#put-/api/checkout/pub/orders).
 
@@ -63,7 +63,7 @@ La plataforma VTEX no resta automáticamente los ítems del _stock_. Los ítems 
 
 ## Reducción del stock
 
-Al dar de baja un ítem del _stock_ se actualiza la cantidad de ítems disponibles para la venta. Esta acción la debe realizar exclusivamente el administrador de la tienda o el ERP a través de la [gestión del inventario](/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) o de la [API de actualización de inventario](https://developers.vtex.com/vtex-rest-api/reference/updateinventorybyskuandwarehouse).
+Al dar de baja un ítem del _stock_ se actualiza la cantidad de ítems disponibles para la venta. Esta acción la debe realizar exclusivamente el administrador de la tienda o el ERP a través de la [gestión del inventario](/es/docs/tutorials/gestionar-items-en-inventario) o de la [API de actualización de inventario](https://developers.vtex.com/vtex-rest-api/reference/updateinventorybyskuandwarehouse).
 
 VTEX no actualiza la cantidad de ítems que un SKU tiene a partir del historial de sus movimientos.
 
@@ -88,7 +88,7 @@ Cuando el administrador de la tienda o el ERP actualice la cantidad de ese ítem
 3. En la columna `Reservado`, haz clic en el número de color azul. Si no hay ningún número azul en esta columna, significa que este ítem no tiene unidades reservadas.
 4. Se abrirá una nueva ventana con el seguimiento de la reserva de los ítems del mismo SKU. En la columna `Status` puedes ver el status de la reserva.
 
-Como se ha descrito anteriormente, el status dado de baja en el stock resulta de la actualización del stock por parte del administrador de la tienda. Por lo tanto, no es posible ver este status en la plataforma. Solo puedes consultar la cantidad de ítems disponibles para la venta y el movimiento de los ítems a través de la [Gestión del stock](/es/tutorial/gestionar-items-en-inventario--tutorials_139).
+Como se ha descrito anteriormente, el status dado de baja en el stock resulta de la actualización del stock por parte del administrador de la tienda. Por lo tanto, no es posible ver este status en la plataforma. Solo puedes consultar la cantidad de ítems disponibles para la venta y el movimiento de los ítems a través de la [Gestión del stock](/es/docs/tutorials/gestionar-items-en-inventario).
 
 > ℹ️ Todos los status aquí descritos son internos y exclusivos de VTEX para el control de la venta de los ítems. El status de la reserva es una consecuencia del status del pedido. Algunos cambios dependen de acciones de los compradores, y otros de actualizaciones manuales o del ERP.
 

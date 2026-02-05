@@ -17,7 +17,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 > ℹ️ En caso de que tenga tiendas oficiales en Mercado Libre, esta documentación puede ser relevante. Mercado Libre tiene sus propios parámetros de certificación para que los sellers sean tiendas oficiales. Si desea obtener más información, contacte a su asesor de Mercado Libre.
 
-El [seller](/es/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w) integra sus [subaccounts](/es/tutorial/o-que-e-store-name--3gh9mTNeMgs6Qe44e8IqQK?&utm_source=autocomplete) con las [tiendas oficiales](https://www.mercadolibre.com.ar/tiendas-oficiales) del usuario de [Mercado Libre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/51oWBHvVxSs8eAwLQhSbSd), esto puede producir un error en la importación de productos desde la integración con dicha plataforma.
+El [seller](/es/docs/tutorials/que-es-un-seller) integra sus [subaccounts](/es/tutorial/o-que-e-store-name--3gh9mTNeMgs6Qe44e8IqQK?&utm_source=autocomplete) con las [tiendas oficiales](https://www.mercadolibre.com.ar/tiendas-oficiales) del usuario de [Mercado Libre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/51oWBHvVxSs8eAwLQhSbSd), esto puede producir un error en la importación de productos desde la integración con dicha plataforma.
 
 Este artículo tiene el objetivo de ayudar a los usuarios a solucionar este problema.
 

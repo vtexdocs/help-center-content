@@ -101,7 +101,7 @@ Para configurar una condición de pago para StripeV2 en VTEX sigue los pasos a c
 4. En la pantalla de configuración, activa la condición haciendo clic en __Status__.
 5. En __Procesar con el proveedor__, selecciona la opción __StripeV2NativeCheckout__.
 6. Si deseas utilizar un sistema antifraude, selecciona la opción __Utilizar antifraude__.
-7. Si lo deseas, también puedes [configurar condiciones de pago especiales](/es/tutorial/condiciones-especiales--tutorials_456).
+7. Si lo deseas, también puedes [configurar condiciones de pago especiales](/es/docs/tutorials/condiciones-especiales).
 8. Haz clic en `Guardar`.
 
 Para más información sobre los procedimientos de instalación de __VTEX Native Checkout Experience__, accede a la [documentación pública de Stripe en Vinneren](https://sites.google.com/vinneren.com.mx/documentacion-publica#h.nmryiar6zrqq).
@@ -163,7 +163,7 @@ Para configurar una condición de pago para StripeV2 en VTEX sigue los pasos a c
 4. En la pantalla de configuración, activa la condición haciendo clic en __Status__.
 5. En __Procesar con proveedor__, selecciona la opción __StripeV2Elements__.
 6. Si deseas utilizar un sistema antifraude, selecciona la opción __Utilizar antifraude__.
-7. Si lo deseas, también puedes [configurar condiciones de pago especiales](/es/tutorial/condiciones-especiales--tutorials_456).
+7. Si lo deseas, también puedes [configurar condiciones de pago especiales](/es/docs/tutorials/condiciones-especiales).
 8. Haz clic en `Guardar`.
 
 Para más información sobre los procedimientos de instalación de __VTEX with Stripe Payment Element Experience__, accede a la [documentación pública de Stripe en Vinneren](https://sites.google.com/vinneren.com.mx/documentacion-publica#h.nmryiar6zrqq).
@@ -245,7 +245,7 @@ Con el proveedor StripeV2 puedes procesar pagos con Apple Pay en tu tienda. Para
 27. En __Procesar con proveedor__, selecciona la opción __StripeV2__.
 28. Si deseas utilizar un sistema antifraude, selecciona la opción __Utilizar antifraude__.
 29. Indique si desea procesar pagos con o sin cuotas.
-30. Si lo deseas, también puedes [configurar condiciones de pago especiales](/es/tutorial/condiciones-especiales--tutorials_456).
+30. Si lo deseas, también puedes [configurar condiciones de pago especiales](/es/docs/tutorials/condiciones-especiales).
 31. Haz clic en `Guardar`.
 
 Cuando hayas realizado estos pasos, Apple Pay figurará en el checkout de la tienda como uno de los medios de pago disponibles.

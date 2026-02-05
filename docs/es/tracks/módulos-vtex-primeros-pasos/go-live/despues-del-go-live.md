@@ -23,6 +23,6 @@ Si lo deseas, puedes hacer que tu tienda esté disponible en otras direcciones m
 
 Para que tu tienda esté disponible en diferentes direcciones, hay dos tipos posibles de redirecciones:
 
-- [Configurar el acceso sin www](/es/tutorial/configurando-acesso-sem-www--tutorials_4278)
- - [Redirección desde otras direcciones](/es/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ)
+- [Configurar el acceso sin www](/es/docs/tutorials/mejores-practicas-para-acceder-a-tienda-sin-www)
+ - [Redirección desde otras direcciones](/es/docs/tutorials/redireccion-de-otras-direcciones)
 

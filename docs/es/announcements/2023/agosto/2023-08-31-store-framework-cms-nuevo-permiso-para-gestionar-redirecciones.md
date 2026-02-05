@@ -19,7 +19,7 @@ announcementSynopsisES: 'Para realizar redirecciones en Store Framework CMS es n
 
 ## ¿Qué cambió?
 
-Para que los usuarios del Admin puedan crear, editar y eliminar redirecciones en el CMS, ahora es necesario que tengan un rol de acceso con el [recurso del License Manager](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) **CMS Settings**.
+Para que los usuarios del Admin puedan crear, editar y eliminar redirecciones en el CMS, ahora es necesario que tengan un rol de acceso con el [recurso del License Manager](/es/docs/tutorials/recursos-del-license-manager) **CMS Settings**.
 
 ## ¿Por qué realizamos este cambio?
 
@@ -31,4 +31,4 @@ Para que un usuario del Admin pueda gestionar redirecciones en Store Framework C
 
 Si deseas utilizar un rol de acceso personalizado, puedes crear un nuevo rol de acceso o editar uno existente para incluir el recurso **CMS Settings**. Consulta las instrucciones para crear y editar roles de acceso en el artículo [Roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol).
 
-Para más información sobre redirecciones, consulta el artículo [Gestión de redirecciones de URL](/es/tutorial/gestion-de-redirecciones-de-url--3UJuFrU8imSVWg134mkvJV).
+Para más información sobre redirecciones, consulta el artículo [Gestión de redirecciones de URL](/es/docs/tutorials/gestion-de-redirecciones-de-url).

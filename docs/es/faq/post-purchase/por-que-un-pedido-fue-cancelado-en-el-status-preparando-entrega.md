@@ -16,7 +16,7 @@ legacySlug: por-que-un-pedido-fue-cancelado-en-el-status-preparando-entrega
 
 Cualquier pedido puede ser cancelado antes que su status sea `Facturado`.
 
-Cuando sucede la cancelación, el comerciante es notificado a través de [VTEX DO](/es/tutorial/vtex-do-interface--7KMbRL4OslN8DTX9oiuCiu). Así, dependiendo del estadio de preparación de la entrega, el comerciante puede confirmar o no la cancelación: 
+Cuando sucede la cancelación, el comerciante es notificado a través de [VTEX DO](/es/docs/tutorials/vtex-do-interface). Así, dependiendo del estadio de preparación de la entrega, el comerciante puede confirmar o no la cancelación: 
 
 1) En el caso de que desee confirmar la cancelación, acceda a **Pedidos > Todos los pedidos**, haga click en el pedido deseado y haga clic en **Cancelar pedido**.
 

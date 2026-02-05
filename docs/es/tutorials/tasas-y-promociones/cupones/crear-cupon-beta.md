@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1TXh7VjDSIGA2eSI0CmUsi
 ---
 
-Un [cupón](/es/tutorial/cupones-beta--1aAEN3ADpz19ss5JCIEBdL) es un código promocional formado por una secuencia de letras y números. Puedes usar cupones para aplicar promociones sobre el valor del carrito: al informar el código de un cupón válido al momento de la compra, tus clientes pueden obtener descuentos sobre el valor del pedido.
+Un [cupón](/es/docs/tutorials/cupones-beta) es un código promocional formado por una secuencia de letras y números. Puedes usar cupones para aplicar promociones sobre el valor del carrito: al informar el código de un cupón válido al momento de la compra, tus clientes pueden obtener descuentos sobre el valor del pedido.
 
 Para crear un cupón en el Admin VTEX, sigue las instrucciones a continuación:
 
@@ -26,7 +26,7 @@ Para crear un cupón en el Admin VTEX, sigue las instrucciones a continuación:
 
 Para ser utilizado, el cupón debe estar asociado con al menos una promoción. Consulta la sección [Asociar el cupón con una promoción](#asociar-el-cupon-con-una-promocion) para saber cómo realizar esta configuración.
 
-Si creaste un [lote de cupones](/es/tutorial/cupones-beta--1aAEN3ADpz19ss5JCIEBdL#lotes-de-cupones), luego de guardarlo, verás una pantalla con los cupones que se generaron. Para más información, consulta la sección [Cupones existentes](#cupones-existentes). Si creaste un [cupón sencillo](/es/tutorial/cupones-beta--1aAEN3ADpz19ss5JCIEBdL#cupones-sencillos), serás redirigido directamente a la [lista de cupones](/es/tutorial/lista-de-cupones-beta--5z5ya3IonsC2W4B5h4JrsZ).
+Si creaste un [lote de cupones](/es/tutorial/cupones-beta--1aAEN3ADpz19ss5JCIEBdL#lotes-de-cupones), luego de guardarlo, verás una pantalla con los cupones que se generaron. Para más información, consulta la sección [Cupones existentes](#cupones-existentes). Si creaste un [cupón sencillo](/es/tutorial/cupones-beta--1aAEN3ADpz19ss5JCIEBdL#cupones-sencillos), serás redirigido directamente a la [lista de cupones](/es/docs/tutorials/lista-de-cupones-beta).
 
 ## Información del cupón
 
@@ -46,7 +46,7 @@ Al hacer clic sobre cualquier información del panel, tendrás acceso a la venta
 
 * **Promociones asociadas:** muestra los nombres de las promociones asociadas al cupón, en caso de que haya alguna. Al hacer clic en el nombre de una promoción, serás redireccionado a la página de edición de la promoción.
 
-    El cupón solo estará disponible cuando esté asociado con, por lo menos, una promoción. Para establecer dicho vínculo, es necesario usar la misma [utm_source o utm_campaign](/es/tutorial/que-son-utm-source-utm-campaign-y-utm-medium--2wTz7QJ8KUG6skGAoAQuii) que se usó en el registro del cupón y en el registro de la promoción. Consulta la sección [Asociar el cupón con una promoción](#asociar-el-cupon-con-una-promocion) para saber cómo realizar esta configuración.
+    El cupón solo estará disponible cuando esté asociado con, por lo menos, una promoción. Para establecer dicho vínculo, es necesario usar la misma [utm_source o utm_campaign](/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium) que se usó en el registro del cupón y en el registro de la promoción. Consulta la sección [Asociar el cupón con una promoción](#asociar-el-cupon-con-una-promocion) para saber cómo realizar esta configuración.
 
 * **Uso**: muestra el número de usos del cupón y el número de usos restantes, en caso de que hayas limitado la cantidad de usos.
 
@@ -63,8 +63,8 @@ Al hacer clic sobre cualquier información del panel, tendrás acceso a la venta
 La sección **General** muestra los campos que debes completar con la información general de tu cupón:
 
 * **Código del cupón:** código que deberán ingresar los clientes de tu tienda durante el _checkout_ para aplicar el descuento del cupón. No podrás usar el código de un cupón ya existente. Solo están permitidos letras, números y guiones, y el código puede tener hasta 300 caracteres. Este campo es obligatorio.
-* **Fuente UTM:** permite vincular el cupón a una determinada `utm_source`. La `utm_source` representa el origen del tráfico, es decir, de qué sitio, anunciante o publicación vino el usuario. Ejemplo: puedes definir que siempre que un usuario llegue a tu tienda por hacer clic en un anuncio de Facebook, la URL incluirá el parámetro `utm_source=fb` y se aplicará el cupón. Para más información, consulta [Qué son utm_source, utm_campaign y utm_medium](/es/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium--2wTz7QJ8KUG6skGAoAQuii).
-* **Campaña UTM:** permite vincular el cupón a determinada `utm_campaign`, es decir, una campaña que define un contexto de marketing. Ejemplos: `navidad`, `díadelpadre`.  Para más información, consulta [Qué son utm_source, utm_campaign y utm_medium](/es/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium--2wTz7QJ8KUG6skGAoAQuii).
+* **Fuente UTM:** permite vincular el cupón a una determinada `utm_source`. La `utm_source` representa el origen del tráfico, es decir, de qué sitio, anunciante o publicación vino el usuario. Ejemplo: puedes definir que siempre que un usuario llegue a tu tienda por hacer clic en un anuncio de Facebook, la URL incluirá el parámetro `utm_source=fb` y se aplicará el cupón. Para más información, consulta [Qué son utm_source, utm_campaign y utm_medium](/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium).
+* **Campaña UTM:** permite vincular el cupón a determinada `utm_campaign`, es decir, una campaña que define un contexto de marketing. Ejemplos: `navidad`, `díadelpadre`.  Para más información, consulta [Qué son utm_source, utm_campaign y utm_medium](/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium).
 * <i class="fas fa-toggle-on"></i> **Generando cupones en lote:** al mantener desactivada esta opción, optas por crear un cupón único. Al activarla, creas un [lote de cupones](/es/tutorial/cupones-beta--1aAEN3ADpz19ss5JCIEBdL#lotes-de-cupones) y podrás ver los siguientes recursos. 
     * **Número de cupones:** permite definir la cantidad de códigos que se generarán a partir del prefijo definido en **Código del cupón**. La cantidad máxima es de 1000.
     * **Exportar cupones:** botón que permite exportar los códigos del cupón múltiple. Esta opción está disponible solo cuando se editan cupones ya existentes.
@@ -97,7 +97,7 @@ La creación masiva de cupones no se puede realizar por el Admin VTEX, solo por 
 
 ## Asociar el cupón con una promoción
 
-Se debe asociar un cupón con una promoción para activarlo. Para hacerlo, sigue los pasos a continuación. Un cupón se puede asociar a cualquier tipo de promoción, excepto a una [Promoción de campaña](/es/tutorial/promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume).
+Se debe asociar un cupón con una promoción para activarlo. Para hacerlo, sigue los pasos a continuación. Un cupón se puede asociar a cualquier tipo de promoción, excepto a una [Promoción de campaña](/es/docs/tutorials/promocion-de-campana).
 
 1. En el Admin VTEX, accede a *Promociones > Promociones*, o escribe *Promociones* en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en la promoción existente en la que quieras insertar el cupón o crea una promoción haciendo clic en el botón `Nueva promoción`.
@@ -119,11 +119,11 @@ Ambos endpoints rellenan el campo `marketingData` del cuerpo de la respuesta y n
 2. [Personaliza](https://developers.vtex.com/docs/guides/checkout-customization-guide#customizing-checkout-ui-admin-vtex) el storefront de tu tienda par permitir múltiples cupones.
    - Si tu tienda utiliza Checkout v5, usa `checkout5-custom.js checkout5-custom.css`.
    - Si tu tienda utiliza Checkout v6, usa `checkout6-custom.js checkout6-custom.css`.
-3. Después de la personalización, debes solicitar la liberación de la funcionalidad mediante un [ticket con el soporte VTEX](/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+3. Después de la personalización, debes solicitar la liberación de la funcionalidad mediante un [ticket con el soporte VTEX](/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex).
 4. Marca la opción <i class="fas fa-check-square"></i> Aplicar con otras promociones en la [configuración de promociones](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricciones-y-limitaciones-de-uso) asociada a los cupones para permitir que los cupones activen más de una promoción en la misma compra. Así, se [acumularán](/es/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270#acumulacion) los descuentos concedidos por las diferentes promociones.
 
 ## Más información
 
-* [Cupones](/es/tutorial/cupones-beta--1aAEN3ADpz19ss5JCIEBdL)
-* [Lísta de Cupones](/es/tutorial/lista-de-cupones-beta--5z5ya3IonsC2W4B5h4JrsZ)
+* [Cupones](/es/docs/tutorials/cupones-beta)
+* [Lísta de Cupones](/es/docs/tutorials/lista-de-cupones-beta)
 

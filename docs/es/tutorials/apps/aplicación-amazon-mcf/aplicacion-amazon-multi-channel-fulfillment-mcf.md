@@ -77,7 +77,7 @@ Para realizar esta configuración, accede al Admin y sigue los pasos a continuac
 
 En los pasos 8 y 10, la clave que hay que rellenar es la clave de geolocalización de Google. Consulta [cómo generar una clave en la guía para desarrolladores de Google.](https://developers.google.com/maps/documentation/geocoding/overview) 
 
-> ℹ️ Si tienes dudas sobre la clave de geolocalización de Google, consulta en detalle cómo utiliza esta configuración la plataforma VTEX en los artículos [ Configurar la geolocalización en el checkout](/es/tutorial/geolocalizacion-en-el-checkout--tutorials_4345) y [Registrar la geolocalización](/es/tutorial/gestionar-geolocalizacion--tutorials_138).
+> ℹ️ Si tienes dudas sobre la clave de geolocalización de Google, consulta en detalle cómo utiliza esta configuración la plataforma VTEX en los artículos [ Configurar la geolocalización en el checkout](/es/docs/tutorials/geolocalizacion-en-el-checkout) y [Registrar la geolocalización](/es/docs/tutorials/gestionar-geolocalizacion).
 
 ### Instalación de la aplicación
 

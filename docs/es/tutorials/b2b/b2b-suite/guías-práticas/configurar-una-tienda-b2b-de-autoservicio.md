@@ -72,7 +72,7 @@ En el escenario B2B, normalmente se utiliza información básica como nombre, *e
 
 > ❗ El campo utilizado como regla condicional en la política comercial **nunca podrá formar parte del formulario**, ya que el usuario no puede realizar su propia aprobación, esa es una responsabilidad de la tienda.
 
-En VTEX, los formularios se crean a través de [Master Data](/es/tutorial/o-que-e-o-master-data--4otjBnR27u4WUIciQsmkAw) —base de datos de la tienda— que almacena la información de la base de clientes de la tienda organizando los datos recibidos a través de los formularios en campos agrupados en diferentes entidades. 
+En VTEX, los formularios se crean a través de [Master Data](/es/docs/tutorials/master-data) —base de datos de la tienda— que almacena la información de la base de clientes de la tienda organizando los datos recibidos a través de los formularios en campos agrupados en diferentes entidades. 
 
 Para crear un formulario:
 
@@ -85,7 +85,7 @@ De esta forma, cuando un cliente complete el formulario, sus datos se incluirán
 > ℹ️ Puede optar por crear un formulario con más recursos, tales como introducción automática del código postal, pestañas múltiples o la validación de la CNAE (Clasificación Nacional de Actividades Económicas). Si opta por este tipo de formulario, revise la documentación técnica de [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-new-custom-page).
 
 ### Aprobación de usuarios
-La aprobación de los usuarios, así como el registro, se realiza en [Master Data](/es/tutorial/o-que-e-o-master-data--4otjBnR27u4WUIciQsmkAw). Corresponde a los responsables de la gestión del *ecommerce* aprobar el acceso de los clientes al contenido de la tienda. 
+La aprobación de los usuarios, así como el registro, se realiza en [Master Data](/es/docs/tutorials/master-data). Corresponde a los responsables de la gestión del *ecommerce* aprobar el acceso de los clientes al contenido de la tienda. 
 
 Para aprobar el acceso de los clientes a la tienda, es necesario que apruebe cada uno de los clientes que se registraron al completar el formulario. La aprobación se puede realizar a través del Admin o vía API.
 
@@ -121,7 +121,7 @@ La asociación del *stock* al muelle, por su parte, se realiza a través del par
 
 La configuración de precios se realiza a través de [tablas de precios](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8), estas son un conjunto de precios aplicados a determinados SKUs en un contexto específico. Para realizar la configuración deberá:
 
-1. [Crear una nueva tabla de precios](/es/tutorial/creating-price-tables--58YmY2Iwggyw4WeSCGg24S).
+1. [Crear una nueva tabla de precios](/es/docs/tutorials/creacion-de-tablas-de-precios).
 2. Editar la configuración de la plantilla de precios.
 3. Importar la plantilla de precios configurada.
 
@@ -131,9 +131,9 @@ También puede crear y editar tablas de precios a través del endpoint `[POST Cr
 
 En el modelo de negocios B2B, una práctica común es la concesión de crédito a algunos de los clientes de confianza, generalmente revendedores, para que ellos puedan usar el crédito para comprar ítems del propio administrador de la tienda.
 
-La gestión de crédito es un recurso versátil y, por eso, se utiliza en diferentes escenarios de negocio en el modelo B2B. Explicamos algunas de las situaciones en que las tiendas con diferentes contextos de negocio pueden emplear esta estrategia en el artículo [Gestión de créditos por medio de Customer Credit](/es/tutorial/gestao-de-credito-por-meio-do-customer-credit--5lihi3WBsV5mSIDqNvnoK0).
+La gestión de crédito es un recurso versátil y, por eso, se utiliza en diferentes escenarios de negocio en el modelo B2B. Explicamos algunas de las situaciones en que las tiendas con diferentes contextos de negocio pueden emplear esta estrategia en el artículo [Gestión de créditos por medio de Customer Credit](/es/docs/tutorials/gestion-crediticia-a-traves-del-customer-credit).
 
-En VTEX, los administradores de tiendas pueden utilizar [Customer Credit](/es/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0), una aplicación en la que pueden ofrecer y administrar los créditos que conceden a sus clientes. Para instalar la aplicación, consulte el paso a paso completo en el artículo [Instalar Customer Credit](/es/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
+En VTEX, los administradores de tiendas pueden utilizar [Customer Credit](/es/docs/tutorials/customer-credit-vision-general), una aplicación en la que pueden ofrecer y administrar los créditos que conceden a sus clientes. Para instalar la aplicación, consulte el paso a paso completo en el artículo [Instalar Customer Credit](/es/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
 
 > ℹ️ Los medios de pago convencionales, como tarjeta de crédito, tarjeta de débito y boleto bancario (disponible en Brasil), también se pueden configurar para el contexto B2B. La gestión de crédito es el método más utilizado por los clientes.
 

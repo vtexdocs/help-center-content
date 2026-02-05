@@ -40,7 +40,7 @@ Comprueba a continuación los campos obligatorios y cómo rellenarlos:
 **Price (precio):** campo obligatorio; debe rellenarse especificando el tipo de precio que se desea mostrar en Google shopping.
 Para identificar el error de integración del precio del SKU con Google, lee el artículo [Verificar integraciones](/es/tutorial/verificando-integracao-no-bridge/#preco).   
 
-**Availability (disponibilidad):** campo obligatorio. Si la integración de un SKU presenta error, consulta los artículos [Gestión del stock](/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) y [Almacén](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).   
+**Availability (disponibilidad):** campo obligatorio. Si la integración de un SKU presenta error, consulta los artículos [Gestión del stock](/es/docs/tutorials/gestionar-items-en-inventario) y [Almacén](/es/docs/tutorials/almacen).   
 
 **Description (descripción):** campo obligatorio; debe rellenarse con la información principal del producto. Constituye un resumen sencillo y fácil de entender para el cliente. Para incluir saltos de línea y otros recursos de formato en la descripción del producto se debe utilizar HTML.  
 
@@ -48,15 +48,15 @@ Para identificar el error de integración del precio del SKU con Google, lee el 
 
 **Image (imagen):** campo obligatorio. Para agregar correctamente una imagen a un producto o SKU, consulta el tutorial [Rellenar campos de registro de SKU](/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY#imagens).  
 
-**EAN/UPC:** campo obligatorio en el [módulo Catálogo](/es/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe) y debe rellenarse con el código de identificación único del SKU (código de barras), aceptando hasta 13 caracteres numéricos.  
+**EAN/UPC:** campo obligatorio en el [módulo Catálogo](/es/docs/tutorials/catalogo-vision-general) y debe rellenarse con el código de identificación único del SKU (código de barras), aceptando hasta 13 caracteres numéricos.  
 
-**Manufacturer code o Código del fabricante:** campo obligatorio del [módulo Catálogo](/es/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe) y debe rellenarse con el código proporcionado por el fabricante para identificar el producto. Si un producto tiene un código específico, este campo debe rellenarse.  
+**Manufacturer code o Código del fabricante:** campo obligatorio del [módulo Catálogo](/es/docs/tutorials/catalogo-vision-general) y debe rellenarse con el código proporcionado por el fabricante para identificar el producto. Si un producto tiene un código específico, este campo debe rellenarse.  
 
 > ℹ️ Los códigos EAN/UPC y Código del fabricante son obligatorios cuando se venden productos manufacturados. Consulta a continuación cuándo aplicar el [EAN/UPC](https://support.google.com/merchants/answer/6324461?hl=pt-BR&ref_topic=6324338&sjid=10867212756007821438-SA) o el [Código del fabricante](https://support.google.com/merchants/answer/6324482?hl=pt-BR&ref_topic=6324338&sjid=10867212756007821438-SA) a un producto.  
 
 **Size:** campo obligatorio exclusivo para productos de ropa que corresponden a la categoría [ID1604](https://support.google.com/merchants/answer/6324492?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) y calzado que corresponden a la categoría [ID187](https://support.google.com/merchants/answer/6324492?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) en Google. Si se aplica a tu producto, rellena la talla del SKU.  
 
-El campo Size (talla) es un [campo personalizado](/es/tutorial/criando-um-campo-de-produto--tutorials_106) que debe ser creado por el seller. Consulta a continuación el nombre y tipo de campo.  
+El campo Size (talla) es un [campo personalizado](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto) que debe ser creado por el seller. Consulta a continuación el nombre y tipo de campo.  
 
 |**Nombre del campo**|**Tipo de campo**|
 |:---:|:---:|
@@ -66,7 +66,7 @@ Este tipo de campo admite la introducción de valores alfanuméricos como **P,M,
 
 **Color:** campo obligatorio exclusivo para ítems de ropa y accesorios que corresponden a la [categoría ID166](https://support.google.com/merchants/answer/6324487?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) en Google. Si se aplica a tu producto, rellena el color del SKU.
 
-El campo Color es un [campo personalizado](/es/tutorial/criando-um-campo-de-produto--tutorials_106) que debe ser creado por el seller. Consulta a continuación el nombre y tipo de campo.
+El campo Color es un [campo personalizado](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto) que debe ser creado por el seller. Consulta a continuación el nombre y tipo de campo.
 
 |**Nombre del campo**|**Tipo de campo**|
 |:---:|:---:|
@@ -78,7 +78,7 @@ Este tipo de campo admite la introducción de valores alfanuméricos como ** Ver
 
 **Gender:** campo obligatorio exclusivo para todos los ítems de ropa y accesorios que corresponden a la [categoría ID166](https://support.google.com/merchants/answer/6324487?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) en Google. Si se aplica a tu producto, rellena el género del SKU.
 
-El campo Gender es un [campo personalizado](/es/tutorial/criando-um-campo-de-produto--tutorials_106) que debe ser creado por el seller. Consulta a continuación el nombre y tipo de campo.
+El campo Gender es un [campo personalizado](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto) que debe ser creado por el seller. Consulta a continuación el nombre y tipo de campo.
 
 |**Nombre del campo**|**Tipo de campo**|**Valor del campo**|
 |:---:|:---:|:---:|
@@ -88,7 +88,7 @@ Este tipo de campo requiere que se rellenen valores predeterminados. Para la int
 
 **Age Group (grupo de edad):**  campo obligatorio para todos ítems de ropa y accesorios que corresponden a la [categoría ID166](https://support.google.com/merchants/answer/6324463?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1#:~:text=Veja%20a%20seguir%20os%20valores%20aceitos%20para%20este%20atributo%3A) en Google. Si se aplica a tu producto, rellena el grupo de edad del SKU.  
 
-El campo Age Group es un [campo personalizado](/es/tutorial/criando-um-campo-de-produto--tutorials_106) que debe ser creado por el seller. Consulta a continuación el nombre y tipo de campo.  
+El campo Age Group es un [campo personalizado](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto) que debe ser creado por el seller. Consulta a continuación el nombre y tipo de campo.  
 
 |**Nombre del campo**|**Tipo de campo**|**Valor del campo**|
 |:---:|:---:|:---:|

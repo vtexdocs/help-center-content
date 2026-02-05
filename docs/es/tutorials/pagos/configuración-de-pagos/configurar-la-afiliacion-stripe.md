@@ -60,7 +60,7 @@ Después de realizar la configuración en el ambiente VTEX, también debes confi
 
 Cuando hayas completado los pasos indicados, Stripe estará configurado en tu tienda. Así que cuando registres una condición de pago, esta estará disponible en el campo __Proceso con la afiliación__ (siempre y cuando el método de pago sea compatible con Stripe).
 
-Para configurar condiciones de pago, accede al artículo [Configurar condiciones de pago](/es/tutorial/condiciones-de-pago--tutorials_455).
+Para configurar condiciones de pago, accede al artículo [Configurar condiciones de pago](/es/docs/tutorials/condiciones-de-pago).
 
 ## Configurar Google Pay
 

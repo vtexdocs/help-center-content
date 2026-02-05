@@ -30,7 +30,7 @@ Para crear el campo y agregarlo a la pantalla del Checkout de tu tienda, debes c
 
 ## Crear una nueva entidad de datos
 
-El campo **Código de Vendedor** se debe registrar en [Master Data](/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) como una nueva entidad. Para crear la entidad de datos, sigue los pasos a continuación:
+El campo **Código de Vendedor** se debe registrar en [Master Data](/es/docs/tutorials/master-data) como una nueva entidad. Para crear la entidad de datos, sigue los pasos a continuación:
 
 1. En el Admin VTEX, accede a **Configuración de la tienda > Storefront > Master Data** o escribe **Master Data** en la barra de búsqueda en la parte superior de la página.
 2. Crea una nueva [entidad de datos](/es/tutorial/criando-entidade-de-dados--tutorials_1265#como-configurar) con el nombre *codigovendedor*.
@@ -44,7 +44,7 @@ El campo **Código de Vendedor** se debe registrar en [Master Data](/es/tutorial
 
 <blockquote><ui>4. Registra la información de cada vendedor en los campos creados en el paso anterior.</ui>
 
-<blockquote><ui>5. Crea un [formulario](/es/tutorial/creando-formulario-en-master-data--tutorials_1047) para acceder a la información de la nueva entidad *codigovendedor* a través de la interfaz de Master Data.</ui>
+<blockquote><ui>5. Crea un [formulario](/es/docs/tutorials/creando-formulario-en-master-data) para acceder a la información de la nueva entidad *codigovendedor* a través de la interfaz de Master Data.</ui>
 
 ## Crear una promoción Código de vendedor
 

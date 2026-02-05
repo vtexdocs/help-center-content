@@ -27,7 +27,7 @@ Este tipo de promoción incluye todas las opciones de la promoción regular y of
 
 * Regalo ofrecido por el seller
 
-Antes de crear una promoción de campaña, primero debes crear la [audiencia de campaña](/es/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K), que define el público objetivo al que se dirigirá. Puedes seleccionar segmentos de clientes elegibles y configurar los criterios que activarán la promoción.
+Antes de crear una promoción de campaña, primero debes crear la [audiencia de campaña](/es/docs/tutorials/crear-audiencias-de-campana), que define el público objetivo al que se dirigirá. Puedes seleccionar segmentos de clientes elegibles y configurar los criterios que activarán la promoción.
 
 **Ejemplo:** si creas una audiencia de campaña cuyo público objetivo son clientes que agregan el producto A al carrito, puedes configurar la promoción de campaña para que ese público reciba un descuento en el producto B.
 
@@ -149,5 +149,5 @@ Define el número máximo de veces que la promoción se puede aplicar en la tien
 
 Esta sección te permite definir el destaque visual de la promoción de campaña en los productos mostrados en la tienda.
 
-* **Destacar promociones en los productos:** activa esta opción para mostrar una insignia promocional en los productos elegibles para la promoción. Para que el destaque funcione correctamente, debes [configurar la visualización en el módulo CMS de la tienda](/es/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).   
+* **Destacar promociones en los productos:** activa esta opción para mostrar una insignia promocional en los productos elegibles para la promoción. Para que el destaque funcione correctamente, debes [configurar la visualización en el módulo CMS de la tienda](/es/docs/tutorials/configurando-promocion-con-destaque-flag).   
 * **Información adicional:** haz clic en `Crear`para agregar campos personalizados con nombre y valor, que puedes utilizar para personalizaciones en la tienda.

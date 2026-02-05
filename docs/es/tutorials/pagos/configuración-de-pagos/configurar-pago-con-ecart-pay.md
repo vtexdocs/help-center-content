@@ -33,7 +33,7 @@ Para configurar Ecart Pay, siga los pasos a continuación:
     	<li>**Desactivado**: la captura se realiza solo cuando se factura el pedido. Si se opta por este comportamiento de captura, es importante estar atento al tiempo de facturación, ya que puede exceder el tiempo de captura acordado con el proveedor de pagos y provocar la cancelación de la transacción.</li>
 </ul>
 
-8. Si desea utilizar [split de pagos](/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx)  en su tienda, seleccione la opción **Activar split de cobros y enviar destinatarios de pago** e indique el **Responsable de cargos de procesamiento de pagos** y el **Responsable de contracargos** (marketplace, sellers o marketplace y sellers).
+8. Si desea utilizar [split de pagos](/es/docs/tutorials/split-de-pagos)  en su tienda, seleccione la opción **Activar split de cobros y enviar destinatarios de pago** e indique el **Responsable de cargos de procesamiento de pagos** y el **Responsable de contracargos** (marketplace, sellers o marketplace y sellers).
 9. Haga clic en `Guardar`.
 
 ## Configurar la condición de pago
@@ -43,7 +43,7 @@ Para configurar Ecart Pay, siga los pasos a continuación:
 3. Haga clic en **Ecart Pay**.
 4. Active la condición en el campo **Status**.
 5. Si desea utilizar un sistema antifraude, seleccione la opción **Utilizar antifraude**.
-6. Si lo desea, también puede configurar [condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456).
+6. Si lo desea, también puede configurar [condiciones especiales de pago](/es/docs/tutorials/condiciones-especiales).
 7. Haga clic en `Guardar`.
 
 Después de seguir los pasos indicados, Ecart Pay puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

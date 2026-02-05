@@ -34,9 +34,9 @@ Para configurar Tupay, siga los pasos a continuación:
 8. En **Campos del Proveedor**, seleccione o complete los campos **APIPassphrase**, **Expiration**, y **PaymentMethod** según las instrucciones del proveedor.
 9. Haga clic en `Guardar`.
 
-Para configurar los métodos de pago a procesar por Tupay, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455).
+Para configurar los métodos de pago a procesar por Tupay, acceda al [Configurar Condiciones de Pago](/es/docs/tutorials/condiciones-de-pago).
 
-Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/docs/tutorials/condiciones-especiales).
 
 Después de seguir los pasos indicados, Tupay puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.
 

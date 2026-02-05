@@ -74,7 +74,7 @@ Para consultar los productos más vendidos, en la sección **Métricas**  haz cl
 
 ## ¿Cómo puedo monitorear los datos de mi tienda online más allá del día de hoy?  
 
-Para un seguimiento efectivo de tu tienda online más allá del día actual, el [dashboard Desempeño de ventas de VTEX](/es/tutorial/performance-de-vendas--3DMube0sEsK9vPcRYGas72) es la herramienta ideal. Su tasa de actualización es de, aproximadamente, 90 minutos, y ofrece un historial de datos más extenso. Aquí te explicamos cómo aprovecharlo al máximo:  
+Para un seguimiento efectivo de tu tienda online más allá del día actual, el [dashboard Desempeño de ventas de VTEX](/es/docs/tutorials/desempeno-de-ventas) es la herramienta ideal. Su tasa de actualización es de, aproximadamente, 90 minutos, y ofrece un historial de datos más extenso. Aquí te explicamos cómo aprovecharlo al máximo:  
 
 ### Filtros  
 

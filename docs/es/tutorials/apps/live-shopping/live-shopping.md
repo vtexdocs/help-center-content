@@ -27,7 +27,7 @@ Una vez [instalada la aplicación VTEX Live Shopping](https://developers.vtex.co
 
 En el Admin accede a **Apps** > **Live Shopping** > **Eventos**. En la página **Eventos**, tendrás acceso a las siguientes secciones:
 
-* **Eventos**: esta sección permite crear, gestionar y acceder a información detallada sobre eventos. Aquí puedes configurar nuevos eventos, acceder al estudio de streaming y consultar todos los detalles del evento. Para más información, consulta la sección [Crear y gestionar eventos](/es/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch).
+* **Eventos**: esta sección permite crear, gestionar y acceder a información detallada sobre eventos. Aquí puedes configurar nuevos eventos, acceder al estudio de streaming y consultar todos los detalles del evento. Para más información, consulta la sección [Crear y gestionar eventos](/es/docs/tutorials/live-shopping-eventos).
   ![ls-event](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/live-shopping/live-shopping_3.png)
 * **Uso**: esta sección permite consultar los detalles de uso de tu plan. Puedes monitorear el número de minutos utilizados, las grabaciones descargadas y los eventos que excedieron el máximo de espectadores.
   ![ls-usage](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/live-shopping/live-shopping_4.png)

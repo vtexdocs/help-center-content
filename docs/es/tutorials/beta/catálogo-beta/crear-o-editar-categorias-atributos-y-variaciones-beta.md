@@ -51,7 +51,7 @@ En la fase beta utilizaremos una nueva nomenclatura para los siguientes término
 | --- | --- |
 | [Especificaciones de producto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacion-de-producto) | Atributos |
 | [Especificaciones de SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-sku) | Variaciones |
-| [Grupos de especificaciones de productos o de SKUs](/es/tutorial/criando-grupo-de-especificacoes-em-uma-categoria--tutorials_246) | Grupos de atributos o de variaciones |
+| [Grupos de especificaciones de productos o de SKUs](/es/docs/tutorials/crear-grupo-de-especificaciones-en-una-categoria) | Grupos de atributos o de variaciones |
 
 ## Interfaz de categorías, atributos y variaciones
 
@@ -112,17 +112,17 @@ Para crear una categoría sigue los pasos a continuación:
 1. En la esquina izquierda de la página, junto a la barra de búsqueda, haz clic en el ícono + o coloca el mouse en **Todos los productos** y haz clic en el + que se muestra. También puedes hacer clic en el ícono + junto al nombre de una categoría.
 2. Ingresa el nombre de la categoría en la ventana modal que se abre. Este es el único campo obligatorio.
 
-  > ⚠️ El nombre de la categoría es importante para [SEO](/es/tutorial/melhorando-o-seo-das-paginas-de-lista-de-produtos--UrQtlKAMuSaLBP5wG9ftG) (optimización para buscadores) y recomendamos:<ul><li>Utilizar palabras simples.</li><li>Evitar otros idiomas.</li><li>Evitar ortografía compleja.</li><li>Utilizar un máximo de 150 caracteres.</li></ul>
+  > ⚠️ El nombre de la categoría es importante para [SEO](/es/docs/tutorials/mejorar-el-seo-de-las-paginas-de-lista-de-productos) (optimización para buscadores) y recomendamos:<ul><li>Utilizar palabras simples.</li><li>Evitar otros idiomas.</li><li>Evitar ortografía compleja.</li><li>Utilizar un máximo de 150 caracteres.</li></ul>
 
 3. Si deseas activar la categoría que estás creando en la tienda, marca la casilla **Activar**. Para mantenerla desactivada, deja la casilla sin marcar.
 4. En la sección **Información general**, puedes llenar los siguientes campos:
     * **Categoría principal:** si la categoría que estás creando es una subcategoría (está anidada dentro de otra), ingresa el código numérico de la categoría principal en este campo.
-    * **Categoría global VTEX:** la [categoría global](/es/tutorial/configurando-a-categoria-global--tutorials_188) es una taxonomía creada por Google para [Merchant Center](https://support.google.com/merchants/answer/6324436?hl=es-419&sjid=16171769990677583671-NA), predefinida como un árbol único en la plataforma VTEX.
+    * **Categoría global VTEX:** la [categoría global](/es/docs/tutorials/configurando-a-categoria-global) es una taxonomía creada por Google para [Merchant Center](https://support.google.com/merchants/answer/6324436?hl=es-419&sjid=16171769990677583671-NA), predefinida como un árbol único en la plataforma VTEX.
 5. En la sección **Storefront y SEO** puedes llenar los siguientes campos:
     * **Palabras sustitutas:** sinónimos de los nombres de la categoría. Este campo es importante para que las búsquedas sean más amplias. Puedes incluir varias palabras, separadas por coma, hasta un límite de 200 caracteres.
     * **Título de la página:** texto que se muestra en la pestaña del navegador y que se corresponde con el título de la página de la categoría en el sitio web. Este campo es muy importante para SEO. No admite el uso de etiquetas HTML y debe contener 150 caracteres o menos.
     * **Descripción:** breve resumen de la categoría. Recomendamos utilizar 200 caracteres o menos para que los mecanismos de búsqueda muestren la descripción correctamente en las páginas de resultados. El campo solo admite texto simple. No se pueden utilizar tags de HTML.
-    * **Prioridad en la búsqueda de la tienda:** números enteros utilizados para definir la prioridad de la categoría en los resultados de búsqueda en el sitio web. Un valor más alto significa mayor prioridad en los resultados y 0 o dejar el campo en blanco significa ninguna prioridad. Para más información, consulta el artículo [¿Cómo funciona el campo Puntuación?](/es/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
+    * **Prioridad en la búsqueda de la tienda:** números enteros utilizados para definir la prioridad de la categoría en los resultados de búsqueda en el sitio web. Un valor más alto significa mayor prioridad en los resultados y 0 o dejar el campo en blanco significa ninguna prioridad. Para más información, consulta el artículo [¿Cómo funciona el campo Puntuación?](/es/docs/tutorials/como-funciona-el-campo-puntuacion).
 6. En la sección **Storefront**, puedes marcar las siguientes opciones si lo deseas:
     * <a class="far fa-check-square" aria-hidden="true"></a> **Mostrar en el menú:** hace que la categoría o departamento sea visible en el menú superior y en el menú lateral de la tienda.
     * <a class="far fa-check-square" aria-hidden="true"></a> **Menú con link activo:** determina si se puede hacer clic en la categoría visible en la tienda para redirigir a la página de la categoría.

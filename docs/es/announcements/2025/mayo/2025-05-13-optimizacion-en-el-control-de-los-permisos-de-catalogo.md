@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Nuevos recursos del License Manager de Catálogo, más intuitivas y con acceso unificado por Admin VTEX o API.'
 ---
 
-Actualizamos los [recursos de License Manager](/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) relacionados con el módulo Catálogo para mejorar la gestión de permisos. Estos son los principales cambios: 
+Actualizamos los [recursos de License Manager](/es/docs/tutorials/recursos-del-license-manager) relacionados con el módulo Catálogo para mejorar la gestión de permisos. Estos son los principales cambios: 
 
 - Funciones más simples e intuitivas relacionadas con las acciones en Catálogo.
 - Control de acceso unificado para tareas realizadas en el Admin VTEX o vía API.
@@ -48,13 +48,13 @@ Estos recursos dan acceso a determinadas tareas de la plataforma, independientem
 
 ## ¿Qué se necesita hacer?
 
-Los nuevos recursos ya están activos, fueron documentados en este artículo del [License Manager](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) y se asignaron automáticamente a todos los perfiles de acceso que utilizaban el producto **Catálogo**. Sin embargo, es necesario que las tiendas revisen sus permisos de acceso antes del 1 de julio de 2025. A partir de esa fecha, cualquier intento de acceso sin los recursos mencionados será bloqueado.
+Los nuevos recursos ya están activos, fueron documentados en este artículo del [License Manager](/es/docs/tutorials/recursos-del-license-manager) y se asignaron automáticamente a todos los perfiles de acceso que utilizaban el producto **Catálogo**. Sin embargo, es necesario que las tiendas revisen sus permisos de acceso antes del 1 de julio de 2025. A partir de esa fecha, cualquier intento de acceso sin los recursos mencionados será bloqueado.
 
 Te recomendamos aprovechar esta oportunidad para revisar los permisos de tu tienda, manteniendo solo los permisos necesarios para cada usuario.
 
 Para más información sobre la gestión de permisos de usuario y claves de aplicación consulta los siguientes artículos:
 
-- [Roles](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
-- [Gestionar usuarios](/es/tutorial/gerenciando-usuarios--tutorials_512)
+- [Roles](/es/docs/tutorials/roles)
+- [Gestionar usuarios](/es/docs/tutorials/gestionar-usuarios-administradores)
 - [Gestionar claves de aplicación](/es/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet#gerenciar-chaves-de-aplicacao)
-- [Recursos de License Manager](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)
+- [Recursos de License Manager](/es/docs/tutorials/recursos-del-license-manager)

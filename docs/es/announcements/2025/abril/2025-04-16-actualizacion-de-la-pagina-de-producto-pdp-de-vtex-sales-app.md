@@ -27,7 +27,7 @@ Ahora, hemos integrado nuevos recursos y optimizaciones, como:
 * **Personalización y anexos:** permite personalizar productos y agregar anexos relevantes directamente en la PDP.
 * **Comprar juntos:** muestra combinaciones de las ofertas más relevantes para fomentar compras adicionales de los clientes.
 * **Otras ofertas:** mejora la visualización de las alternativas disponibles al producto principal.
-* **Envío y recogida:** presenta información clara sobre las opciones de envío y recogida según el código postal del cliente, con la posibilidad de ordenar los [puntos de recogida](/es/tutorial/como-funcionam-pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) por proximidad, costo o rapidez.
+* **Envío y recogida:** presenta información clara sobre las opciones de envío y recogida según el código postal del cliente, con la posibilidad de ordenar los [puntos de recogida](/es/docs/tutorials/puntos-de-recogida) por proximidad, costo o rapidez.
 * **Desempeño e interfaz:** reduce los tiempos de carga y renueva el diseño para una navegación más fluida.
 * **Ajustes en la visualización del stock:** corrige la información del stock de los productos disponibles para envío o recogida, incluida la recogida inmediata (On Hands).
 

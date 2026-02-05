@@ -22,7 +22,7 @@ Es posible que se cometan errores al rellenar la información en el momento de c
 ## ¿Qué cambió?
 Anteriormente, una promoción se activaba automáticamente cuando se guardaba con el status **Activa**. Con el nuevo recurso, puedes ver un resumen de las configuraciones definidas antes de activar una nueva promoción. De este modo, es posible revisar si todos los datos de la promoción son correctos, evitando errores de implementación.
 
-Para que se muestre el resumen, la promoción debe estar configurada con el status **Activa** y ser del tipo [Regular](/es/tracks/promociones--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) o [Más por menos](/es/tutorial/mas-por-menos--tutorials_325).
+Para que se muestre el resumen, la promoción debe estar configurada con el status **Activa** y ser del tipo [Regular](/es/tracks/promociones--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) o [Más por menos](/es/docs/tutorials/mas-por-menos).
 
 El resumen de la promoción muestra alertas con puntos de atención para asegurar el comportamiento esperado de una promoción antes de activarla.
 
@@ -42,4 +42,4 @@ Esta es la información que se muestra en el resumen:
 Hemos creado esta funcionalidad para evitar posibles errores al rellenar los campos de la promoción. El resumen de la promoción tiene como objetivo evitar que se perjudique el margen de beneficio de los productos incluidos en la promoción. De este modo, las promociones creadas en tu tienda se aplicarán con mayor seguridad.
 
 ## ¿Qué se necesita hacer?
-El resumen de la promoción ya está disponible en el Admin VTEX automáticamente. Para saber más sobre esta etapa y la descripción de sus campos, lee nuestro artículo [Resumen de la promoción](/es/tutorial/resumen-de-la-promocion--7aSxktBrFi4sUSmuSafZ4h).
+El resumen de la promoción ya está disponible en el Admin VTEX automáticamente. Para saber más sobre esta etapa y la descripción de sus campos, lee nuestro artículo [Resumen de la promoción](/es/docs/tutorials/resumen-de-la-promocion).

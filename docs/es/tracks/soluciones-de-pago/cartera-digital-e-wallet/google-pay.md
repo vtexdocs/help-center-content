@@ -41,9 +41,9 @@ Una vez hecho esto, Google Pay estará disponible en el checkout de tu tienda VT
 Para utilizar Google Pay deben cumplirse los siguientes requisitos:
 
 * Tener al menos una [condición de pago](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) activa configurada para tarjetas de crédito o débito con un adquirente, definiendo qué [adquirente](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#adquirente) procesará el pago.
-* Utilizar el [Checkout VTEX](/es/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) en tu tienda.
+* Utilizar el [Checkout VTEX](/es/docs/tutorials/checkout-vtex-vista-general) en tu tienda.
 
-> ⚠️ En las tiendas que tengan el flujo de autenticación [3DS](/es/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) configurado y admitido por el adquirente, el pago con Google Pay seguirá el flujo nativo de la tarjeta y también utilizará 3DS. Para más información sobre este tema, accede a [Configurar flujo de autenticación 3DS 2](/es/tutorial/configurar-fluxo-de-autenticacao-3ds-2--58XMn5LOA6fwrSkoDoAsg2).
+> ⚠️ En las tiendas que tengan el flujo de autenticación [3DS](/es/docs/tutorials/que-es-3d-secure) configurado y admitido por el adquirente, el pago con Google Pay seguirá el flujo nativo de la tarjeta y también utilizará 3DS. Para más información sobre este tema, accede a [Configurar flujo de autenticación 3DS 2](/es/docs/tutorials/configurar-flujo-de-autenticacion-3ds-2).
 
 > ℹ️ También puedes configurar Google Pay para que se procese con Adyen o Stripe. Para hacer esto, acceda a la pantalla **Condiciones de pago** en Admin, haga clic en **Google Pay** y seleccione la opción deseada.
 
@@ -96,5 +96,5 @@ Si el administrador de la tienda no ha configurado reglas de pago con tarjeta, e
 
 ### Más información 
 
-* [DPAN y FPAN: comprender la seguridad en el flujo de pagos tokenizados online](/es/tutorial/dpan-e-fpan-entendendo-a-seguranca-no-fluxo-de-pagamentos-tokenizados-online--3RM7RvhKZ057wja5xVEOqb)
+* [DPAN y FPAN: comprender la seguridad en el flujo de pagos tokenizados online](/es/docs/tutorials/dpan-y-fpan-comprender-la-seguridad-en-el-flujo-de-pagos-tokenizados-online)
 

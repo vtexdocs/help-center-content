@@ -15,11 +15,11 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Simplificamos la gestión de usuarios con nuevos recursos en License Manager.'
 ---
 
-Creamos dos nuevos [recursos de License Manager](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) para simplificar y estandarizar el control de acceso y agrupar acciones relacionadas con la gestión de usuarios administrativos en el Admin VTEX de forma más intuitiva.
+Creamos dos nuevos [recursos de License Manager](/es/docs/tutorials/recursos-del-license-manager) para simplificar y estandarizar el control de acceso y agrupar acciones relacionadas con la gestión de usuarios administrativos en el Admin VTEX de forma más intuitiva.
 
 ## ¿Qué cambió?
 
-Consolidamos los recursos heredados de lectura y escritura de información de [usuarios](/es/docs/tutorials/gestionar-usuarios-administrativos) y los [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) en dos nuevos recursos del producto License Manager:
+Consolidamos los recursos heredados de lectura y escritura de información de [usuarios](/es/docs/tutorials/gestionar-usuarios-administrativos) y los [roles](/es/docs/tutorials/roles) en dos nuevos recursos del producto License Manager:
 
 | Nombre del nuevo recurso | Clave del nuevo recurso (`resource_key`) | Descripción |
 | ----- | ----- | ----- |
@@ -48,4 +48,4 @@ No es necesaria ninguna acción. Analizamos los roles existentes y actualizamos 
 * No se eliminó ningun permiso anterior.  
 * Los recursos heredados no se han descontinuado.
 
-Recomendamos revisar los roles existentes en la cuenta para saber cómo se aplicaron los nuevos recursos. En caso de dudas, consulta la [documentación de License Manager](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3).
+Recomendamos revisar los roles existentes en la cuenta para saber cómo se aplicaron los nuevos recursos. En caso de dudas, consulta la [documentación de License Manager](/es/docs/tutorials/recursos-del-license-manager).
