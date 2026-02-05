@@ -29,7 +29,7 @@ To configure Flywire, follow the steps below:
 
 ## Setting up payment condition Notes Payable
 
-If you want to use Flywire with a note payable and you have not yet configured the note payable as a payment method in other connectors in your store, go to [Setting up payments with Notes Payable](/en/tutorial/setting-up-payments-with-notes-payable--5pW7avTwtyQcMu4uiW8quQ).
+If you want to use Flywire with a note payable and you have not yet configured the note payable as a payment method in other connectors in your store, go to [Setting up payments with Notes Payable](/en/docs/tutorials/setting-up-payments-with-notes-payable).
 
 Then, follow the steps below:
 
@@ -38,7 +38,7 @@ Then, follow the steps below:
 3. On __Custom Payment__, click the button corresponding to the name used for the note payable payment method (configured in the previous section).
 4. Activate the condition in the __Status__ field.
 5. On __Process with affiliation__, select __flywirepartnermx-payment-provider-config-v0__.
-6. If you wish, you can also configure [payment special conditionso](/en/tutorial/special-conditions--tutorials_456).
+6. If you wish, you can also configure [payment special conditionso](/en/docs/tutorials/special-conditions).
 7. Click `Save`.
 
 ## Setting up payment condition Flywire
@@ -48,7 +48,7 @@ Then, follow the steps below:
 3. Click __Flywire__.
 4. Activate the condition in the __Status__ field.
 5. If you want to use an anti-fraud system, select the option __Use anti-fraud solution__.
-6. If you wish, you can also configure [payment special conditions](/en/tutorial/special-conditions--tutorials_456).
+6. If you wish, you can also configure [payment special conditions](/en/docs/tutorials/special-conditions).
 7. Click `Save`.
 
 After following the indicated steps, Flywire may take up to 10 minutes to appear at your store's checkout as a payment option.

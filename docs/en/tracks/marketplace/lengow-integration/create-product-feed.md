@@ -25,7 +25,7 @@ To choose which products should become available to Lengow, you must [create a c
 
 ## Configure XML feed for Lengow
 
-To make product updates available to Lengow, you must [configure an XML feed](/en/tutorial/configuring-xml--tutorials_242) in *Products > Catalog > XML integration*. Since we are configuring a simple feed, most settings can be kept in their default values. These are the settings that need to be filled in or changed:
+To make product updates available to Lengow, you must [configure an XML feed](/en/docs/tutorials/configuring-xml) in *Products > Catalog > XML integration*. Since we are configuring a simple feed, most settings can be kept in their default values. These are the settings that need to be filled in or changed:
 
 - **File Name:** `lengow.xml`
 - **Collection:** `Lengow` (or another name you chose)

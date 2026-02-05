@@ -15,11 +15,11 @@ locale: en
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
-A [marketplace](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) is a collaborative business model that needs to define strategies to be successful. Onboarding new sellers, for example, poses challenges such as synchronizing catalogs and sending and receiving orders. 
+A [marketplace](/en/docs/tutorials/marketplace-strategies-at-vtex) is a collaborative business model that needs to define strategies to be successful. Onboarding new sellers, for example, poses challenges such as synchronizing catalogs and sending and receiving orders. 
 
 VTEX has developed the Seller Portal, an edition of the VTEX platform designed for marketplaces and sellers to connect and sell their products to add speed and simplicity to the collaboration between marketplace and seller.
 
-When you add on the Seller Portal, there is no fixed monthly fee for the marketplace or acquisition cost. The billing model is based on revenue share, and the marketplace is charged the B2C take rate described in the contract based on the [approved revenue](/en/tutorial/compreenda-o-valor-da-receita-aprovada--tutorials_4322) in the VTEX marketplace for each third-party seller. For non-VTEX sellers, the take rate is charged only to the marketplace, and for VTEX sellers, the take rate is charged to both the seller and the marketplace. 
+When you add on the Seller Portal, there is no fixed monthly fee for the marketplace or acquisition cost. The billing model is based on revenue share, and the marketplace is charged the B2C take rate described in the contract based on the [approved revenue](/en/docs/tutorials/understanding-the-value-of-approved-revenues) in the VTEX marketplace for each third-party seller. For non-VTEX sellers, the take rate is charged only to the marketplace, and for VTEX sellers, the take rate is charged to both the seller and the marketplace. 
 
 The Seller Portal enables marketplaces to:
 
@@ -45,7 +45,7 @@ The steps shown in the image above are:
 6. **Marketplace:** approves the offer.
 7. **Seller:** manages the orders.
 
-The marketplace is responsible for onboarding new sellers. In other words, it is the role of the marketplace to support the seller's experience in the Seller Portal. For information about seller actions, see [Seller Portal: First Steps for the Seller](/en/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK).
+The marketplace is responsible for onboarding new sellers. In other words, it is the role of the marketplace to support the seller's experience in the Seller Portal. For information about seller actions, see [Seller Portal: First Steps for the Seller](/en/docs/tutorials/how-to-set-up-your-store-on-seller-portal).
 
 In the following sections, the marketplace steps have been organized into:
 
@@ -56,7 +56,7 @@ In the following sections, the marketplace steps have been organized into:
 
 ### Inviting sellers
 
-The **Invited Sellers** page is where marketplace operators [invite sellers](/en/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A) to create an account on the Seller Portal. To access the page via the VTEX Admin, go to **MARKETPLACE > Sellers > Seller Invite**. 
+The **Invited Sellers** page is where marketplace operators [invite sellers](/en/docs/tutorials/marketplace-invited-sellers) to create an account on the Seller Portal. To access the page via the VTEX Admin, go to **MARKETPLACE > Sellers > Seller Invite**. 
 
 Through the Seller Portal, marketplaces hosted on VTEX can connect with sellers who have a VTEX account, sellers hosted on other platforms, or sellers who are not hosted on any platform. Upon accepting the invitation, the seller chooses whether to integrate their existing VTEX account or create a new account to sell on the marketplace. 
 
@@ -68,7 +68,7 @@ In the invitation step, the marketplace also decides whether it wants the seller
 
 To learn more, check the following articles:
 
-- [Marketplace: Seller Invite](/en/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A)
+- [Marketplace: Seller Invite](/en/docs/tutorials/marketplace-invited-sellers)
 - [Seller: Creating an account in the Seller Portal](/en/tutorial/seller-criar-conta-no-seller-portal-beta--3gn2Q5rMhgu0jjX7AiiHcs#creating-an-account-in-the-seller-portal)
 
 ### Activating a seller
@@ -96,15 +96,15 @@ In addition to inviting and activating sellers through the VTEX Admin, the marke
 
 This step is optional for the marketplace and will depend on the goal of your business model. Sharing the catalog was set in the [Inviting the seller](/en/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#inviting-sellers) step through the **Share marketplace catalog** flag.
 
-When the marketplace decides to allow sharing, this is done through a [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV). Then, the seller receives the list of products that are already available in the marketplace, which allows them to import and configure inventory and pricing in the Seller Portal, under **Products > Shared Products**.
+When the marketplace decides to allow sharing, this is done through a [trade policy](/en/docs/tutorials/how-trade-policies-work). Then, the seller receives the list of products that are already available in the marketplace, which allows them to import and configure inventory and pricing in the Seller Portal, under **Products > Shared Products**.
 
-> ℹ️ If the marketplace operator creates an additional trade policy to define the seller catalog assortment on the Seller Portal, the policy is charged as [requesting an additional trade policy](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X).
+> ℹ️ If the marketplace operator creates an additional trade policy to define the seller catalog assortment on the Seller Portal, the policy is charged as [requesting an additional trade policy](/en/docs/tutorials/requesting-an-additional-trade-policy).
 
 #### Sharing products
 
 On the Seller Portal, the seller will find an interface that allows them to manage common products between their catalog and the marketplace catalog under **Prices > Catalog > Shared Products**. This feature makes it easier for the seller to sell products that the marketplace already has and allows them to start selling faster and seamlessly.
 
-The **Shared Products** dashboard shows the seller which products the marketplace has made available for sale. These products are synced with the marketplace catalog. To learn more, check [Seller Portal: Shared Products](/en/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu).
+The **Shared Products** dashboard shows the seller which products the marketplace has made available for sale. These products are synced with the marketplace catalog. To learn more, check [Seller Portal: Shared Products](/en/docs/tutorials/seller-portal-shared-products).
 
 In addition to sharing products, the seller can also create their own products on the Seller Portal in order to complement the assortment offered by the marketplace. This is done in **Prices > Catalog > Products**.
 
@@ -112,11 +112,11 @@ Both shared products and products created by the seller are automatically sent t
 
 ### Cataloging offers
 
-On VTEX, an [offer](/en/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu) is a product or seller variation that has been assigned price and stock settings and has been sent to the marketplace. To be able to create an offer from the seller product, the [product needs to be active](/en/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP#activating-shared-products-in-the-marketplace).
+On VTEX, an [offer](/en/docs/tutorials/offers-and-sending-products-to-the-marketplace) is a product or seller variation that has been assigned price and stock settings and has been sent to the marketplace. To be able to create an offer from the seller product, the [product needs to be active](/en/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP#activating-shared-products-in-the-marketplace).
 
-When the seller creates a new product, the marketplace needs to review and approve the offer in a process called [cataloging offers](/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396). Cataloging allows you to create new products and associate offers with SKUs or existing products to make them available for sale.
+When the seller creates a new product, the marketplace needs to review and approve the offer in a process called [cataloging offers](/en/docs/tutorials/manual-sku-cataloging). Cataloging allows you to create new products and associate offers with SKUs or existing products to make them available for sale.
 
-> ℹ️ Offers for [products that are shared](/en/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu) between the marketplace and the seller are approved automatically, without requiring any manual action.
+> ℹ️ Offers for [products that are shared](/en/docs/tutorials/seller-portal-shared-products) between the marketplace and the seller are approved automatically, without requiring any manual action.
 
 The cataloging process can be completed through the VTEX Admin, under **MARKETPLACE > Sellers > Received SKUs** or through the [Match Received SKUs](https://developers.vtex.com/vtex-rest-api/reference/match) API.
 
@@ -124,8 +124,8 @@ When approving an offer, the marketplace has to consider the quality of the info
 
 To learn more, check the following articles:
 
-- [Seller Portal: Offers and Sending Products to the Marketplace](/en/tutorial/seller-portal-anuncios-e-o-envio-de-produtos-para-o-marketplace--3RwSj7AyBoPtFbXkS7REiu)
-- [Cataloging received SKUs](/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396)
+- [Seller Portal: Offers and Sending Products to the Marketplace](/en/docs/tutorials/offers-and-sending-products-to-the-marketplace)
+- [Cataloging received SKUs](/en/docs/tutorials/manual-sku-cataloging)
 
 ## Additional information
 
@@ -133,4 +133,4 @@ To learn more, check the following articles:
 
 **Payments:** when the marketplace is responsible for processing [payments](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG), the commissioning and transfer of seller billing are done outside the VTEX environment.
 
--	[Choosing between standard account, franchise account or Seller Portal](/en/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78)
+-	[Choosing between standard account, franchise account or Seller Portal](/en/docs/tutorials/choosing-between-standard-account-franchise-account-or-seller-portal)

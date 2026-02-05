@@ -26,7 +26,7 @@ Since customer data is stored as documents of the CL (Client or Cliente) data en
 ## What is a cluster?
 In Master Data, a cluster is a field with a determined value for a data entity. One or more clusters define this group of customers with common properties in the CL data entity.
 
-Here, the common property of the clients will be that they are also employees of the store. More information about clusters of customers can be found in the article [Create a cluster of customers](/en/tutorial/how-can-i-create-cluster-of-customers--frequentlyAskedQuestions_1724).
+Here, the common property of the clients will be that they are also employees of the store. More information about clusters of customers can be found in the article [Create a cluster of customers](/en/docs/tutorials/how-can-i-create-cluster-of-customers).
 
 This article assumes that the employees are properly registered with a boolean field `isEmployee` set to true in their respective documents for the CL data entity, as shown in the figure below. 
 

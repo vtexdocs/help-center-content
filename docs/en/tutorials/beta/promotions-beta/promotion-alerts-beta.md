@@ -48,7 +48,7 @@ The Promotion Alerts page allows you to:
 
 ## Creating an alert
 
-To create a promotion alert, click the `Create Alert` button. Please read the article [Promotion Alerts: How to create a promotion alert](/en/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR) to learn more.
+To create a promotion alert, click the `Create Alert` button. Please read the article [Promotion Alerts: How to create a promotion alert](/en/docs/tutorials/promotion-alerts-how-to-create-an-alert-beta) to learn more.
 
 ## Searching for an alert
 
@@ -93,5 +93,5 @@ Then, the alert will have been successfully duplicated.
 
 ## Learn more
 
-- [Promotion Alert: How to create a promotion alert](/en/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR)
+- [Promotion Alert: How to create a promotion alert](/en/docs/tutorials/promotion-alerts-how-to-create-an-alert-beta)
 - [How promotions work](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)

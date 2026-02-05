@@ -60,7 +60,7 @@ The Sponsor user is responsible for critical maintenance and authorization actio
 
 All events related to the transfer of account ownership are logged in the activity log with the date they occurred and the user associated with the event.
 
-> ℹ️ You can also audit various actions of users in your account with the [Audit](/en/tutorial/how-to-find-events-in-audit--5RXf9WJ5YLFBcS8q8KcxTA) module.
+> ℹ️ You can also audit various actions of users in your account with the [Audit](/en/docs/tutorials/audit) module.
 
 ## Exceptional circumstances
 

@@ -22,7 +22,7 @@ You can cancel an order with VTEX in three different ways:
 
 > ⚠️ Once an order is canceled, you cannot change its status. Orders that have **invoiced** status can not be canceled.
 
-> ℹ️ Orders with [partial invoices](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](/en/tutorial/como-cancelar-pedido--tutorials_186). If the customer wants to replace or remove items from the order, it is possible to [change the order](/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
+> ℹ️ Orders with [partial invoices](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](/en/docs/tutorials/canceling-orders). If the customer wants to replace or remove items from the order, it is possible to [change the order](/en/docs/tutorials/changing-items-from-a-complete-order).
 
 ## Cancellation through Orders module
 

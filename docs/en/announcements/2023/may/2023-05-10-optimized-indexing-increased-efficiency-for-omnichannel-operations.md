@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Optimized indexing enables complex omnichannel operations and reduces time and processing costs.'
 ---
 
-[Indexing](/en/tutorial/understanding-how-indexation-works--tutorials_256) is an automatic process that runs every time a product is created or updated on a VTEX store. This process ensures that the products displayed to the store customers are always up to date with the latest version.
+[Indexing](/en/docs/tutorials/understanding-how-indexation-works) is an automatic process that runs every time a product is created or updated on a VTEX store. This process ensures that the products displayed to the store customers are always up to date with the latest version.
 
 To improve this flow, we redesigned indexing to process the minimum necessary information, significantly reducing time and processing costs. This allows VTEX stores to build complex [omnichannel](/en/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) operations with greater reliability and competitiveness.
 
@@ -39,13 +39,13 @@ During the month of May, we will apply optimized indexing to all accounts.
 
 We have already made another adjustment in all stores, including those using the previous indexing: we have removed the **Indexing Pending** status from the **Catalog > Products & SKUs** page in the VTEX Admin. The date of the last indexing and the `View on website` button are still displayed to allow users to access the product even while updating information. 
 
-In stores that already use the [new design of the Products & SKUs page (Beta)](/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By), the **Indexing Pending** status does not exist because the product remains **Published** even after changes.
+In stores that already use the [new design of the Products & SKUs page (Beta)](/en/docs/tutorials/products-and-skus), the **Indexing Pending** status does not exist because the product remains **Published** even after changes.
 
 ## Why did we make this change?
 
 The aim of the new indexing architecture is to increase conversion and prevent items from being unavailable for an invalid reason. Through this change, we are providing a more efficient and consistent solution, which improves the customer experience in your store.
 
-This improvement allows VTEX stores to build and expand complex omnichannel operations at large scale, including [franchise](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) models, [marketplaces](/en/tutorial/marketplace-strategies-at-vtex--tutorials_402) with a large number of sellers, and regionalized experiences.
+This improvement allows VTEX stores to build and expand complex omnichannel operations at large scale, including [franchise](/en/docs/tutorials/what-is-a-franchise-account) models, [marketplaces](/en/docs/tutorials/marketplace-strategies-at-vtex) with a large number of sellers, and regionalized experiences.
 
 ## What needs to be done?
 

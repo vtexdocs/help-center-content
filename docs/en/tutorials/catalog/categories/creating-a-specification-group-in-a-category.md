@@ -17,7 +17,7 @@ subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 
 A group is defined by a set of [specifications](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) (fields) related to products or SKUs of a certain [category](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf).
 
-At VTEX, a specification is always included in a specification group associated with a category. Therefore, to create [a product specification](/en/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) or a [SKU specification](/en/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119), you must first have at least one category and one specification group already created.
+At VTEX, a specification is always included in a specification group associated with a category. Therefore, to create [a product specification](/en/docs/tutorials/adding-specifications-or-product-fields) or a [SKU specification](/en/docs/tutorials/adding-sku-specifications-or-fields), you must first have at least one category and one specification group already created.
 
 In this article, we explain how the specification inheritance works and how to create specification groups in the VTEX Admin. Check out the following sections:
 
@@ -54,5 +54,5 @@ You can create as many fields as you consider necessary in the group. The create
 
 * [Categories](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
 * [Product and SKU specifications](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
-* [Adding specifications or product fields](/en/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106)
-* [Adding SKU specifications or fields](/en/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119)
+* [Adding specifications or product fields](/en/docs/tutorials/adding-specifications-or-product-fields)
+* [Adding SKU specifications or fields](/en/docs/tutorials/adding-sku-specifications-or-fields)

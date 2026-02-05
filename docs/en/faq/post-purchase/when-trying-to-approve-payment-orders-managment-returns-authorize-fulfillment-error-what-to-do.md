@@ -20,7 +20,7 @@ In such case, when you try to approve the payment in **Orders**, you will see th
 
 ![error authorize fulfillment](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/post-purchase/when-trying-to-approve-payment-orders-managment-returns-authorize-fulfillment-error-what-to-do_1.png)
 
-To confirm that this is the problem, in the [order details page](/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), click `View Interactions` to see the order details.
+To confirm that this is the problem, in the [order details page](/en/docs/tutorials/order-details-page), click `View Interactions` to see the order details.
 
 If there is an error such as "The requested reservation *00-abc* could not be guaranteed for the *00-xyz* order", it is because one or many of the SKUs included in the cart doesn't have available inventory, which prevents the purchase from being approved. In this case, correcting the inventory should allow the order to move on.
 

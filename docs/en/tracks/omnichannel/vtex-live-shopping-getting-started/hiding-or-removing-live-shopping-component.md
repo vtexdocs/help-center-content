@@ -28,7 +28,7 @@ Check the instructions that correspond to your frontend solution:
 
 ## Store Framework (VTEX IO)
 
-For stores using [Store Framework](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework), you can hide the **Live Shopping** component in [Site Editor](/en/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37) by following the steps below:
+For stores using [Store Framework](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework), you can hide the **Live Shopping** component in [Site Editor](/en/docs/tutorials/managing-page-and-template-content) by following the steps below:
 
 1. In the VTEX Admin, go to **Storefront > Site Editor**, or type **Site Editor** in the search bar at the top of the page.
 2. On the **Blocks** list on the right side of the page, select the **Live Shopping** block.
@@ -48,7 +48,7 @@ For stores using [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN4
 
 ## Headless CMS
 
-For stores using [Headless CMS](/en/tutorial/headless-cms-overview--3U5gvhHdQL0jczYH8gjX09), you need to remove the **Live Shopping** script from the HTML file where [you added it](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#headless-cms).
+For stores using [Headless CMS](/en/docs/tutorials/headless-cms-overview), you need to remove the **Live Shopping** script from the HTML file where [you added it](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#headless-cms).
 
 ## FastStore
 

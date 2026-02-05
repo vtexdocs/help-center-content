@@ -73,7 +73,7 @@ In the B2B scenario, it is common to use basic information such as name, email, 
 
 > ❗ The field used as a conditional rule in the trade policy **cannot be in this form** because user approval is the store's responsibility.
 
-On VTEX, you can create forms through [Master Data](/en/tutorial/o-que-e-o-master-data--4otjBnR27u4WUIciQsmkAw) — the store's database —, which stores information of the store's customer database and organizes the data received through forms.
+On VTEX, you can create forms through [Master Data](/en/docs/tutorials/master-data) — the store's database —, which stores information of the store's customer database and organizes the data received through forms.
 
 To create a form, please follow the instructions below:
 
@@ -87,7 +87,7 @@ So when a customer fills out the form, their data will be included in the Master
 
 ### Approving users
 
-You can approve or add users in the [Master Data](/en/tutorial/o-que-e-o-master-data--4otjBnR27u4WUIciQsmkAw). Ecommerce managers are the ones responsible for approving customer access to store content.
+You can approve or add users in the [Master Data](/en/docs/tutorials/master-data). Ecommerce managers are the ones responsible for approving customer access to store content.
 
 To approve customer access to the store, it is necessary to approve each of the customers who filled out the form. Customer approvals can be done in the Admin or via API.
 
@@ -123,7 +123,7 @@ To associate a warehouse with a loading dock, fill in the `warehouseDock` parame
 
 You can configure prices through [price tables](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8), a set of prices applied to certain SKUs in a given context. To configure prices, follow the steps below:
 
-1. [Create a new price table](/en/tutorial/creating-price-tables--58YmY2Iwggyw4WeSCGg24S).
+1. [Create a new price table](/en/docs/tutorials/creating-price-tables).
 2. Edit the pricing spreadsheet settings.
 3. Import the pricing spreadsheet you have configured.
 
@@ -133,9 +133,9 @@ You can also create and edit price tables via the `[POST Create/Edit Fixed Price
 
 In the B2B business model, a common practice is to grant credit to some of your trusted customers, usually resellers, so that they use that credit to buy items from the retailer.
 
-Credit management is a versatile resource and, as a result, you can use it in different B2B scenarios. Check out some business contexts in which you can employ this strategy in the article [Credit management through Customer Credit](/en/tutorial/gestao-de-credito-por-meio-do-customer-credit--5lihi3WBsV5mSIDqNvnoK0).
+Credit management is a versatile resource and, as a result, you can use it in different B2B scenarios. Check out some business contexts in which you can employ this strategy in the article [Credit management through Customer Credit](/en/docs/tutorials/managing-credit-with-customer-credit).
 
-On VTEX, retailers can use [Customer Credit](/en/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0), an app in which they can offer and manage the credits granted to their customers. To install the app, check out the complete step-by-step guide in [Installing Customer Credit ](/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
+On VTEX, retailers can use [Customer Credit](/en/docs/tutorials/customer-credit-overview), an app in which they can offer and manage the credits granted to their customers. To install the app, check out the complete step-by-step guide in [Installing Customer Credit ](/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
 
 > ℹ️ Standard payment methods, such as credit card and debit card, can also be configured for the B2B context. Credit management is the method most frequently used by customers.
 

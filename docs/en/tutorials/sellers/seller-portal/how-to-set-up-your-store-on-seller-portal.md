@@ -67,13 +67,13 @@ To manage the Seller Portal Catalog using REST API, check out the [Catalog API -
 
 To learn more, check out the following articles: 
 
-- [Seller Portal: How Catalog works](/en/tutorial/seller-portal-como-funciona-o-catalogo--7pMB6YOt6YQDQQbzFB4Pxp)           
-- [All Products](/en/tutorial/lista-de-produtos-beta--49vxWqoaWRZC4atwLz6cMg)    
-- [How to create a product](/en/tutorial/como-criar-um-produto-beta--671zAWe0B9eCikzDu7kB1G)  
-- [Categories](/en/tutorial/categories-beta--798zOqqqbeec776xhcXSuV)    
+- [Seller Portal: How Catalog works](/en/docs/tutorials/how-the-seller-portal-catalog-works)           
+- [All Products](/en/docs/tutorials/product-list)    
+- [How to create a product](/en/docs/tutorials/how-to-create-a-product)  
+- [Categories](/en/docs/tutorials/seller-portal-categories)    
 - [Brands](/en/entutorial/brands-beta--3QvNtxO57U0QPNOGutv7Sy)
-- [Seller Portal: Shared Products](/en/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu)    
-- [Seller Portal: Product details](/en/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP)     
+- [Seller Portal: Shared Products](/en/docs/tutorials/seller-portal-shared-products)    
+- [Seller Portal: Product details](/en/docs/tutorials/seller-portal-product-details)     
 
 ### 2. Prices
 
@@ -92,16 +92,16 @@ A delivery’s logistics route starts in the inventory, continues to the loading
 
 The Seller Portal has some pre-configured features to facilitate your interaction with the platform. To access the logistics modules, go to the sidebar and click on Shipping > Shipping Rates / Shipping Simulator / Pickup Points / Shipping Strategy. Your account has a standard inventory and loading dock, and it is not necessary to change this configuration for your store to sell in the marketplace. However, you need to conclude the logistical configuration by adding the following features:    
 
-- [Carrier](/en/tutorial/politica-de-envio--tutorials_140)    
-- [Shipping rates](/en/tutorial/gerenciar-valores-de-frete--tutorials_141)    
-- [Geolocation](/en/tutorial/gerenciar-geolocalizacao--tutorials_138)    
-- [Shipping spreadsheet](/en/tutorial/planilha-de-frete--tutorials_127)    
+- [Carrier](/en/docs/tutorials/shipping-policy)    
+- [Shipping rates](/en/docs/tutorials/managing-shipping-rates)    
+- [Geolocation](/en/docs/tutorials/registering-geolocation)    
+- [Shipping spreadsheet](/en/docs/tutorials/shipping-rate-template)    
 
 ### 4. Inventory
 
 To sell your products on the marketplace, you need to update the number of items available in your inventory. The Seller Portal has the Manage Items in Stock tool, with which you can update the number of items available in a given inventory whenever necessary. To access the Inventory, go to the sidebar and click on Products > Inventory Management. To learn more, check out the following article:  
 
-- [Inventory Management](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139)
+- [Inventory Management](/en/docs/tutorials/managing-stock-items)
 
 ### 5. Payment 
 
@@ -117,10 +117,10 @@ To learn more, check out the following articles:
 
 - [How the Payments module works](/en/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG)    
 - [How payment split between the seller and the marketplace works](/en/tracks/split-de-pagamentos--1ouDg8q56Kuz1AgtJUY9nv/ctgx6ulwy40P0BV07LW9y)    
-- [Configuring affiliates](/en/tutorial/como-configurar-afiliado--tutorials_187)    
+- [Configuring affiliates](/en/docs/tutorials/configuring-affiliates)    
 - [Configuring payment connectors](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/7pAEMAo4iqNHwYOarZ3zgm)     
 - [Configuring a payment condition](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3)    
-- [Configuring anti-fraud](/en/tutorial/como-configurar-antifraude--tutorials_446)     
+- [Configuring anti-fraud](/en/docs/tutorials/how-to-configure-the-anti-fraud)     
 
 ### 6. Selling products
 
@@ -128,7 +128,7 @@ Whenever a product or variation is created on the Seller Portal, they are automa
 
 “Offer” is how we call a product or variation from a seller that was sent to the marketplace and whose price and inventory have been configured. When you set up price and inventory conditions, you are preparing your product or variation for it to become an offer. Once the price and inventory conditions are configured, the product becomes an offer in the marketplace’s window display. To learn more, check out our article:  
 
-- [Seller Portal: Offers and Sending Products to the Marketplace](/en/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu)  
+- [Seller Portal: Offers and Sending Products to the Marketplace](/en/docs/tutorials/offers-and-sending-products-to-the-marketplace)  
 
 ### 7. Orders
 The moment the end customer pushes the Checkout button, an order is generated inside VTEX. This means that you will now be able to track the order flow through the Order Management module within your store's admin panel. That is, you can now know the details of each step throughout the order progress. To access the Orders module, go to the sidebar and click on Orders > All Orders / Transactions.
@@ -141,8 +141,8 @@ The **Promotions** page on the Seller Portal allows sellers and marketplaces to 
 
 To learn more, check out the following articles:
 
-- [Seller Portal: Promotions](/en/tutorial/seller-portal-promocoes--73LL7Ja0P4JbD77AH0jHwu)  
-- [Seller Portal: Creating a promotion](/en/tutorial/seller-portal-criar-uma-promocao--kzNPEaiJE8EWkDzO9dbBI)  
+- [Seller Portal: Promotions](/en/docs/tutorials/seller-portal-promotions)  
+- [Seller Portal: Creating a promotion](/en/docs/tutorials/seller-portal-creating-a-promotion)  
 
 ### 9. Supervising Offer Management
 
@@ -178,8 +178,8 @@ These are settings that apply to your store's account in VTEX. They include User
 If more people in your operation need to access the Seller Portal, account Owners can add new users. To learn more, check out the following articles:  
 
 - [Account management](/en/tutorial/visao-geral-do-modulo-license-manager/)      
-- [How to manage users](/en/tutorial/gerenciando-usuarios--tutorials_512)     
-- [User Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
+- [How to manage users](/en/docs/tutorials/managing-admin-users)     
+- [User Roles](/en/docs/tutorials/roles)
 
 **Profile Settings**
 These settings apply to your individual user profile. They include Personal Data and Authentication. To access this feature, click on your profile avatar in the upper right corner > User settings.

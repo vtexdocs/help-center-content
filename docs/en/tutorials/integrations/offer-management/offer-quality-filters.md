@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
-[Marketplaces](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#being-a-vtex-marketplace) need to review and approve offers submitted by sellers to add products to the catalog. In the VTEX Admin, this [cataloging process](/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396) is done through the Received SKUs page.
+[Marketplaces](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#being-a-vtex-marketplace) need to review and approve offers submitted by sellers to add products to the catalog. In the VTEX Admin, this [cataloging process](/en/docs/tutorials/manual-sku-cataloging) is done through the Received SKUs page.
 
 Quality criteria are important for the marketplace's operation so that the offers submitted to the page meet the requirements relevant to the curation of your catalog.
 
@@ -48,7 +48,7 @@ The feature allows the marketplace operator to perform many actions, each offeri
 ## Viewing Default requirements
 ![EN Default requirements](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/offer-management/offer-quality-filters_2.png)
 
-The page, by default, has some pre-configured requirements that will apply to all categories, sellers, and brands, called _Default requirements_. Some of these criteria are natively configured in [VTEX Matcher](/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424), the tool applied to VTEX marketplaces to support the cataloging process of submitted offers.
+The page, by default, has some pre-configured requirements that will apply to all categories, sellers, and brands, called _Default requirements_. Some of these criteria are natively configured in [VTEX Matcher](/en/docs/tutorials/understanding-vtex-matcher-scoring), the tool applied to VTEX marketplaces to support the cataloging process of submitted offers.
 
 You cannot disable the _Default requirements_. They are visible on the Offer quality filters page to show you which rules already applies to all submitted offers.
 
@@ -224,7 +224,7 @@ You can create groups of rules for different business applications. Each require
 
 #### Brand
 
-This field is populated by [VTEX Matcher](/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424) when the brand submitted by the seller has been mapped. This rule allows you to validate that sellers only send previously mapped brands or block a specific brand that has been mapped in the past.
+This field is populated by [VTEX Matcher](/en/docs/tutorials/understanding-vtex-matcher-scoring) when the brand submitted by the seller has been mapped. This rule allows you to validate that sellers only send previously mapped brands or block a specific brand that has been mapped in the past.
 
 -	**Is mapped**: Defines that the brand submitted by the seller must be mapped in the VTEX Matcher.
 -	**Is**: Defines that the offer brand field must correspond to a specific value.
@@ -291,7 +291,7 @@ You can move a requirement created as optional to mandatory and vice versa. To d
 
 ## Cataloging offers with requirements
 
-Once the requirement groups have been created and activated, they take effect following the set rules. This means that all offers submitted by sellers will be filtered according to the criteria defined for sellers, brands, or categories to get to the Received SKUs page, where the [cataloging process](/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396) happens.
+Once the requirement groups have been created and activated, they take effect following the set rules. This means that all offers submitted by sellers will be filtered according to the criteria defined for sellers, brands, or categories to get to the Received SKUs page, where the [cataloging process](/en/docs/tutorials/manual-sku-cataloging) happens.
 
 The following table describes what each requirement type triggers for offers that do or do not meet the set criteria.
 

@@ -22,7 +22,7 @@ For stores using [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN4
 ## What has changed?
 Universal Analytics will stop processing events on July 1, 2023. Therefore, the only functional version of the tool will be Google Analytics 4.
 
-To ensure VTEX stores are compatible with the new version of Google Analytics, you need to create a Google Analytics 4 property and adjust your Google Tag Manager account settings, as described in [Configuring Google Analytics 4 in VTEX stores](/en/tutorial/how-to-setup-google-analytics-in-vtex-store--G2P0rmSrEiqCcmUMyUUwG).
+To ensure VTEX stores are compatible with the new version of Google Analytics, you need to create a Google Analytics 4 property and adjust your Google Tag Manager account settings, as described in [Configuring Google Analytics 4 in VTEX stores](/en/docs/tutorials/how-to-setup-google-analytics-in-vtex-store).
 
 Stores using VTEX IO - Store Framework also need to configure [the Google Tag Manager app](https://developers.vtex.com/docs/guides/google-tag-manager) to integrate with Google Analytics 4.
 
@@ -32,6 +32,6 @@ This change is necessary to ensure that VTEX stores using [Legacy CMS Portal](/e
 
 ## What needs to be done?
 
-To make your store compatible with the new version of Google's data analytics tool, please follow the instructions in the [Configuring Google Analytics 4 in VTEX stores](/en/tutorial/how-to-setup-google-analytics-in-vtex-store--G2P0rmSrEiqCcmUMyUUwG) guide.
+To make your store compatible with the new version of Google's data analytics tool, please follow the instructions in the [Configuring Google Analytics 4 in VTEX stores](/en/docs/tutorials/how-to-setup-google-analytics-in-vtex-store) guide.
 
 If your store uses [VTEX IO - Store Framework](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), you must enable the `Send events in GA4 format` setting in the VTEX Admin and configure the app to receive all Google Analytics 4 updates. For more information, see the [Installing Google Tag Manager](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-google-tag-manager) guide.

@@ -50,7 +50,7 @@ To add a banner, the following fields need to be completed:
 * **Start time**: Time when the banner will start being available.
 * **End date**: Date when the banner will stop being available. This allows the administrator to schedule future campaigns, which makes them easier to control.
 * **End time**: Time when the banner will stop being available.
-* **Locales:** Languages to which the banner will apply. The field is only available for stores using [Multilanguage settings (Beta)](/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+* **Locales:** Languages to which the banner will apply. The field is only available for stores using [Multilanguage settings (Beta)](/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings-beta).
 
 ### Trigger Rules
 

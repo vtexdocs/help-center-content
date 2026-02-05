@@ -36,4 +36,4 @@ We have streamlined the **Products and SKUs** page to ensure a more consistent, 
 
 ## How to get access?
 
-The update will be applied automatically in all stores. To get early access to the redesigned **Product & SKUs** page, contact [our Support](https://support.vtex.com/hc/pt-br/requests). Read the [Products & SKUs (Beta)](/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By) article for more details on leveraging the optimized page.
+The update will be applied automatically in all stores. To get early access to the redesigned **Product & SKUs** page, contact [our Support](https://support.vtex.com/hc/pt-br/requests). Read the [Products & SKUs (Beta)](/en/docs/tutorials/products-and-skus) article for more details on leveraging the optimized page.

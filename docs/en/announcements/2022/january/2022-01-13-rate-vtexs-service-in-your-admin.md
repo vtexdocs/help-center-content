@@ -39,4 +39,4 @@ The new *Satisfaction Survey* page is already installed in your VTEX Admin by de
 
 We have also sent you an email invitation to visit the page and give your rating.
 
-For more information, read the articles [How does VTEX support work?](/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) and [Opening tickets to VTEX support](/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+For more information, read the articles [How does VTEX support work?](/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) and [Opening tickets to VTEX support](/en/docs/tutorials/opening-tickets-to-vtex-support).

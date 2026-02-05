@@ -19,7 +19,7 @@ Granting credit to third parties is a strategy used in several business models. 
 
 Before we look more deeply at how to apply this strategy, let's define “credit”. Every company that accepts installment payments needs to establish a maximum amount per month to cover these small “debts”. This amount is the credit limit.
 
-At VTEX, stores count on [Customer Credit](/en/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0) to assist them in the management of this topic. It is an app that allows users to grant credit to customers - whether they are individuals or partner stores -, and they can use this credit as a payment method.
+At VTEX, stores count on [Customer Credit](/en/docs/tutorials/customer-credit-overview) to assist them in the management of this topic. It is an app that allows users to grant credit to customers - whether they are individuals or partner stores -, and they can use this credit as a payment method.
 
 In this article, we’ll suggest an implementation flow for Customer Credit in B2B strategies.
 

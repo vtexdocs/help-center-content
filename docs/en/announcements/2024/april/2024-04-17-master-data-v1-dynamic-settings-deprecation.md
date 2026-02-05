@@ -17,7 +17,7 @@ announcementSynopsisEN: 'The Calculated field and the "Change field value" trigg
 
 On June 17, 2024, we will disable the following settings in Master Data v1: **Calculated field** and **Change field value** trigger.
 
-These options allowed you to dynamically change document values in[ Master Data](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) by running code from a trigger or updating/creating a document.
+These options allowed you to dynamically change document values in[ Master Data](/en/docs/tutorials/master-data) by running code from a trigger or updating/creating a document.
 
 We recommend [creating an app to communicate with Master Data](https://developers.vtex.com/docs/guides/create-master-data-crud-app) to replace these settings if you need to update field values dynamically.
 
@@ -29,7 +29,7 @@ Note that **Calculated fields** and existing triggers using the **Change field v
 
 ### Calculated field
 
-The **Calculated field** was a setting within the [data entity](/en/tutorial/data-entity--tutorials_1265) fields that allowed running C# code to recalculate the field's value whenever a new document was added or updated. 
+The **Calculated field** was a setting within the [data entity](/en/docs/tutorials/data-entity) fields that allowed running C# code to recalculate the field's value whenever a new document was added or updated. 
 
 This field type and the calculated fields created will no longer be available from June 17, 2024, as illustrated below. 
 

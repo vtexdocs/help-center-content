@@ -21,11 +21,11 @@ In this guide, you will learn how to create, configure, and delete a multistore.
 
 ## Creating a multistore
 
-Creating a multistore is free of charge for merchants. However, if you need to [request an additional trade policy](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), additional costs will apply.
+Creating a multistore is free of charge for merchants. However, if you need to [request an additional trade policy](/en/docs/tutorials/requesting-an-additional-trade-policy), additional costs will apply.
 
 To create a new store, follow the instructions in the section **Creating a store** in the guide [Account management](/en/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq#criar-loja).
 
-You need to specify the domain of your new store. Learn more in the guide [Configuring the store domain](/en/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
+You need to specify the domain of your new store. Learn more in the guide [Configuring the store domain](/en/docs/tutorials/configuring-the-store-domain).
 
 Once the multistore has been created, set the layout for each store based on the frontend technology used. For more information, see [Setting layouts for each store](#setting-layouts-for-each-store).
 
@@ -34,11 +34,11 @@ Once the multistore has been created, set the layout for each store based on the
 In a multidomain environment, you can set different layouts for each store, depending on the domain accessed.
 
 - For Legacy CMS Portal stores, see [Layout](/en/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW).
-- For stores developed using Store Framework, see [Managing page and template content](/en/tutorial/gerenciando-conteudo-de-pagina-e-template--3tMbx6HXy4Fy5r9EhboG37).
+- For stores developed using Store Framework, see [Managing page and template content](/en/docs/tutorials/managing-page-and-template-content).
 
 ### Defining trade policies
 
-Trade policies are required to differentiate products and/or prices in each store. To learn more, see [How trade policies work](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) and [Creating a trade policy](/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE).
+Trade policies are required to differentiate products and/or prices in each store. To learn more, see [How trade policies work](/en/docs/tutorials/how-trade-policies-work) and [Creating a trade policy](/en/docs/tutorials/creating-a-trade-policy).
 
 ## Configuring a website
 
@@ -60,13 +60,13 @@ To allow customers to access the new store, follow the instructions below to cre
 9. Complete the **Store name from License Manager** field with the value of the subaccount previously created in the [Account Management] module (#creating-a-store).
 10. Complete the **Available sales channel** field by selecting the trade policies that will be associated with this store.
 
-    > ⚠️ If your store uses more than one trade policy, check the sorting of these policies in **Store Settings > Channels > Trade Policies**. To learn more, see [How the relationship between websites and sales policies works](/en/tutorial/managing-a-multistore--4S0lFVBPylRS5KpVgdyDhJ).
+    > ⚠️ If your store uses more than one trade policy, check the sorting of these policies in **Store Settings > Channels > Trade Policies**. To learn more, see [How the relationship between websites and sales policies works](/en/docs/tutorials/managing-a-multistore).
 
 11. Click `Save Binding` and then `Save Website`.
 
 ### Configuring the XML domain
 
-To automatically generate the XML file for the new store, follow the instructions in the guide [Configure an XML domain](/en/tutorial/configurar-dominio-do-xml--2RkGK4vHS0c6sYuUw0cUWC).
+To automatically generate the XML file for the new store, follow the instructions in the guide [Configure an XML domain](/en/docs/tutorials/configuring-an-xml-domain).
 
 ## Deleting a multistore
 
@@ -76,5 +76,5 @@ To delete an existing multistore, follow the instructions in the **Deleting a st
 
 ## Learn more
 
-- [Choosing between a multistore architecture or an additional environment](/en/tutorial/escolhendo-entre-arquitetura-multi-loja-ou-ambiente-adicional--4HRNpa1OCKZ5YzP8yiilBL)
+- [Choosing between a multistore architecture or an additional environment](/en/docs/tutorials/choosing-between-a-multistore-architecture-or-an-additional-environment)
 

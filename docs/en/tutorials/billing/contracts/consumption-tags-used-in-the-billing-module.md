@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-VTEX considers the total amount of orders approved in the [payment transaction flow](/en/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ) as the [store revenue](/en/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq) and calculates the invoice accordingly. However, different rates may apply to orders of the same value because the billing module operates based on tags.
+VTEX considers the total amount of orders approved in the [payment transaction flow](/en/docs/tutorials/transaction-flow-in-payments) as the [store revenue](/en/docs/tutorials/what-does-vtex-consider-as-revenue-in-the-billing-calculation) and calculates the invoice accordingly. However, different rates may apply to orders of the same value because the billing module operates based on tags.
 
 Consumption tags are categories that define the characteristics of an order and indicate the business rules applied to the sale. The order is analyzed based on specific criteria and is assigned tags that determine the take rate to be charged.
 
@@ -27,10 +27,10 @@ This article presents the existing tags in the billing module. By providing this
 
 For an order to be tagged, it must meet the following conditions:
 
-* Have all [order details](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa) ([incomplete](/en/tutorial/entendendo-os-pedidos-incompletos--tutorials_294) orders do not receive tags).
+* Have all [order details](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa) ([incomplete](/en/docs/tutorials/understanding-incomplete-orders) orders do not receive tags).
 * Have payment information, including the authorization date of the financial transaction.
 
-> ℹ️ Orders placed through [Multilevel Omnichannel Inventory (MOI)](/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4), known as chain orders, do not include payment information. Therefore, they cannot be tagged or charged.
+> ℹ️ Orders placed through [Multilevel Omnichannel Inventory (MOI)](/en/docs/tutorials/multilevel-omnichannel-inventory), known as chain orders, do not include payment information. Therefore, they cannot be tagged or charged.
 
 ## Changing orders and tags
 
@@ -43,7 +43,7 @@ The order is only tagged once it is completed. However, if the order is [changed
 On VTEX, tags are categorized into three main groups: 
 
 * [Tags by sales channel:](#tags-by-sales-channel) Refers to the channel where the order is placed.
-* [Tags by order origin:](#tags-by-order-origin) Refers to the [marketplace and seller](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) context.
+* [Tags by order origin:](#tags-by-order-origin) Refers to the [marketplace and seller](/en/docs/tutorials/marketplace-strategies-at-vtex) context.
 * [Tags by customer type:](#tags-by-customer-type) Refers to the legal status of the customer, whether an individual or a company.
 
 The following sections provide details about each of these groups.
@@ -53,13 +53,13 @@ The following sections provide details about each of these groups.
 Below are the tags related to the channel through which the order is placed:
 
 * **IsInStore:** For orders placed through [VTEX Sales App](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc).
-* **IsInfiniteShelf:** For orders placed through **VTEX Sales App** [endless aisle](/en/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) feature; used when the [inventory](/en/tutorial/gerenciar-inventario--tutorials_139) item is not stored locally.
+* **IsInfiniteShelf:** For orders placed through **VTEX Sales App** [endless aisle](/en/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) feature; used when the [inventory](/en/docs/tutorials/managing-stock-items) item is not stored locally.
 * **IsSalesAppDeliveredByMainAccount:** For orders placed through [VTEX Sales App](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc); used when the item sold belongs to the [main account](/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#vtex-account-types) and the sale is made within the main account environment.
-* **IsSocialSelling:** For orders placed through [Social Selling](/en/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN).
+* **IsSocialSelling:** For orders placed through [Social Selling](/en/docs/tutorials/how-to-use-the-shareable-cart-app).
 
-  > ℹ️ The `IsSocialSelling` tag is only valid for [Social Selling](/en/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN) orders placed through **VTEX Sales App**.
+  > ℹ️ The `IsSocialSelling` tag is only valid for [Social Selling](/en/docs/tutorials/how-to-use-the-shareable-cart-app) orders placed through **VTEX Sales App**.
 
-* **IsCallCenter:** For orders placed through **VTEX Sales App**; used when the sale was promoted by a sales associate, attendant, or consultant, as in [telesales](/en/tutorial/como-configurar-as-funcionalidades-de-televendas--76FNgQP2Glc4umMJ5Yr50R).
+* **IsCallCenter:** For orders placed through **VTEX Sales App**; used when the sale was promoted by a sales associate, attendant, or consultant, as in [telesales](/en/docs/tutorials/configuring-telesales-features).
 * **IsOnHands:** For orders placed through **VTEX Sales App**; used when the order was placed in the physical store and the inventory item was stored locally. This tag is applied in the marketplace environment.
 * **IsOnHandsFulfillment:** For orders placed through **VTEX Sales App**; used when the item sold belongs to the seller. This tag is applied in the seller environment.
 
@@ -79,7 +79,7 @@ The flow from `IsMarketplace` tags orders in the seller environment, while the f
 
 See below the tags available for orders in the seller environment, depending on the marketplace where the order was placed:
 
-* **IsMarketplace:** The order was created in a [marketplace](/en/tutorial/o-que-e-um-marketplace--680lLJTnmEAmekcC0MIea8) — this could be a [certified marketplace](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-certified-marketplaces), [partner marketplace](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-partner-marketplaces), [VTEX marketplace](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#operating-as-a-vtex-marketplace) (store acting as the marketplace), or an [external marketplace](https://developers.vtex.com/docs/guides/external-marketplace-integration-guide). Every `IsMarketplace` order will be tagged as either `IsCertifiedMarketplace` or will be an external marketplace. This initial tag is only for system purposes.
+* **IsMarketplace:** The order was created in a [marketplace](/en/docs/tutorials/what-is-a-marketplace) — this could be a [certified marketplace](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-certified-marketplaces), [partner marketplace](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-partner-marketplaces), [VTEX marketplace](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#operating-as-a-vtex-marketplace) (store acting as the marketplace), or an [external marketplace](https://developers.vtex.com/docs/guides/external-marketplace-integration-guide). Every `IsMarketplace` order will be tagged as either `IsCertifiedMarketplace` or will be an external marketplace. This initial tag is only for system purposes.
 * **IsCertifiedMarketplace:** The order was placed in a [certified marketplace](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-certified-marketplaces), [partner marketplace](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-partner-marketplaces), or [VTEX marketplace](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-um-marketplace-vtex) (store acting as a marketplace). Once the order is assigned this tag, it receives either the `IsInternalCertifiedMarketplace` or `IsExternalCertifiedMarketplace` tag.
     * **IsExternalCertifiedMarketplace:** The order was placed in a [certified marketplace](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-certified-marketplaces) (Amazon, Mercado Libre, etc.) or a [partner marketplace](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-partner-marketplaces) (Shopee, Facebook, etc.).
     * **IsInternalCertifiedMarketplace:** The order was placed in a [VTEX marketplace](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#operating-as-a-vtex-marketplace), so the store acted as a marketplace for a seller. This tag may include another tagging level.
@@ -100,6 +100,6 @@ See below the consumption tags available in the marketplace environment, dependi
 
 Below are the tags related to the order customer type:
 
-* **IsB2B:** The customer is a legal entity, and the order was placed in the [B2B](/en/tutorial/configurando-b2b-na-vtex--tutorials_238) (Business to Business) context.
+* **IsB2B:** The customer is a legal entity, and the order was placed in the [B2B](/en/docs/tutorials/setting-up-b2b-on-vtex) (Business to Business) context.
 * **IsB2C:** The customer is an individual, and the order was placed in the B2C (Business to Customer) context.
 

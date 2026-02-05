@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 74CLq9axeDw1YPzAtCpktn
 ---
 
-The **B2B Quotes** app allows customers using the [B2B Organizations](/en/tutorial/gerenciamento-de-organizacoes-b2b--1UwNCWhML3BsV6anpoUvVZ) app to request quotes for their shopping carts and save them for future use, including items, quantities, and prices. This facilitates price negotiations with the store's sales associates and order approval flows within the organization.
+The **B2B Quotes** app allows customers using the [B2B Organizations](/en/docs/tutorials/managing-b2b-organizations) app to request quotes for their shopping carts and save them for future use, including items, quantities, and prices. This facilitates price negotiations with the store's sales associates and order approval flows within the organization.
 
 In this article, you'll find:
 
@@ -181,6 +181,6 @@ Users with the [permission](#access-permissions) to **Reject** Quotes and Carts 
 
 To use the quote, click `Use Quote` on the quote details page. You will be redirected to checkout, with the content of the quote or saved cart added to your current cart. All items that were previously in your cart will be removed.
 
-> ⚠️ If the [ Checkout Settings](/en/tutorial/b2b-checkout-settings--u7wG1SjmeCqXCSF2UsVok) app is installed, the checkout will be blocked until you place the order. This means that you won't be able to edit product quantities or add or remove new products. If there are not enough items in stock to meet the quantity specified in the quote or saved cart, the system will automatically adjust the quantity. If a product is not available, the checkout will allow you to remove it from the cart.
+> ⚠️ If the [ Checkout Settings](/en/docs/tutorials/b2b-checkout-settings) app is installed, the checkout will be blocked until you place the order. This means that you won't be able to edit product quantities or add or remove new products. If there are not enough items in stock to meet the quantity specified in the quote or saved cart, the system will automatically adjust the quantity. If a product is not available, the checkout will allow you to remove it from the cart.
 
 After placing the order, the status of the quote or saved cart will automatically change to **Placed**, preventing its further use.

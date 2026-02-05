@@ -27,8 +27,8 @@ However, you may prefer this store to work as a pickup point __even in a stockou
 
 To implement a contingency pickup point, you need to configure the following steps:
 
-1. In the VTEX Admin, [add a new pickup point](/en/tutorial/cadastro-de-pontos-de-retirada--2R5ClQiwe4KoSQgsuiOw4E) in the store with available inventory to serve this pickup point.
-2. [Create a new shipping policy](/en/tutorial/politica-de-envio--tutorials_140) with the same name as the shipping method already configured in the policy used in the physical store, where the products will be picked up.
+1. In the VTEX Admin, [add a new pickup point](/en/docs/tutorials/creating-pickup-points) in the store with available inventory to serve this pickup point.
+2. [Create a new shipping policy](/en/docs/tutorials/shipping-policy) with the same name as the shipping method already configured in the policy used in the physical store, where the products will be picked up.
 3. Link this new policy with the new pickup point you created.
 
 Thus, you will have two logistic routes: one using the physical store inventory and the other using the inventory of a different store.

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1c5Btie9ou2Gg2iUo0ggqM
 ---
 
-Pickup points are physical locations where customers can pick up orders placed on ecommerce platforms. Configuring pickup points is an optional step in your store's [shipping strategy](/en/tutorial/shipping-strategy--58vLBDbjYVQzJ6rRc5QNz3). 
+Pickup points are physical locations where customers can pick up orders placed on ecommerce platforms. Configuring pickup points is an optional step in your store's [shipping strategy](/en/docs/tutorials/shipping-strategy). 
 
 You can create pickup points using the [Create/update pickup point API](https://developers.vtex.com/vtex-rest-api/reference/pickup-points-1#createupdate) or via VTEX Admin. This article explains how to perform the second process.
 
@@ -24,7 +24,7 @@ There are two ways to create a pickup point in the Admin:
 * [Creating pickup points individually](#creating-pickup-points-individually)
 * [Creating pickup points using the template](#reating-pickup-points-using-the-template)
 
-> ⚠️ Creating pickup points is one of the steps required for the feature to work properly. Please refer to the article [pickup points](/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R) to see the other [settings necessary](/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R#setup) to make pickup points available to your customers.
+> ⚠️ Creating pickup points is one of the steps required for the feature to work properly. Please refer to the article [pickup points](/en/docs/tutorials/pickup-points) to see the other [settings necessary](/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R#setup) to make pickup points available to your customers.
 
 ## Creating pickup points individually
 
@@ -55,7 +55,7 @@ Select <i class="fas fa-toggle-on"></i> to activate the pickup point.
 #### Additional information
 
 * **Pickup instructions:** enter information that will help your customer pick up the packages at the pickup point. For example, at which door the items can be picked up or which documents the customer must present when picking up their order. These instructions will be displayed at checkout, when the customer chooses the pickup point. 
-* **Tags:** add tags to group pickup points. These tags are used to link [shipping policies](/en/tutorial/shipping-policy--tutorials_140) to pickup points.  
+* **Tags:** add tags to group pickup points. These tags are used to link [shipping policies](/en/docs/tutorials/shipping-policy) to pickup points.  
 
 #### Business Hours
 
@@ -68,7 +68,7 @@ Select <i class="fas fa-toggle-on"></i> to activate the pickup point.
     4. Fill in the day and time;
     5. Click on `Add`.
 
-> ⚠️ The business hours defined for a pickup point are for informative purposes only and are not used for SLA calculation. To change the settings that influence the delivery time frame, please specify the business hours in the [shipping policy](/en/tutorial/shipping-policy--tutorials_140) related to the pickup point. Holidays must be configured on the [Holidays page](/en/tutorial/registering-holidays--2ItOthSEAoyAmcwsuiO6Yk), so that they can be considered in the delivery time calculation.
+> ⚠️ The business hours defined for a pickup point are for informative purposes only and are not used for SLA calculation. To change the settings that influence the delivery time frame, please specify the business hours in the [shipping policy](/en/docs/tutorials/shipping-policy) related to the pickup point. Holidays must be configured on the [Holidays page](/en/docs/tutorials/registering-holidays), so that they can be considered in the delivery time calculation.
 
 ## Creating pickup points using the template
 
@@ -277,7 +277,7 @@ Fill in the template according to the information in the table below.
 <li>Add one weekday at a time, with its respective opening hours, separated by semicolons (;). </li>
 <li>The days of the week must be filled in according to the following codes: 0 = Sunday, 1 = Monday, 2 = Tuesday, 3 = Wednesday, 4 = Thursday, 5 = Friday, 6 = Saturday.</li>
 <li>Times must follow the 24-hour standard and the hh:mm format, where hh represents the hour and mm represents the minutes.</li>
-This field is not considered for SLA calculation.  To change the settings that influence the delivery time frame, please specify the hours of operation in the [shipping policy](/en/tutorial/shipping-policy--tutorials_140) related to the pickup point. Holidays must be configured on the [Holidays](/en/tutorial/registering-holidays--2ItOthSEAoyAmcwsuiO6Yk) page, so that they can be considered in the delivery time calculation.
+This field is not considered for SLA calculation.  To change the settings that influence the delivery time frame, please specify the hours of operation in the [shipping policy](/en/docs/tutorials/shipping-policy) related to the pickup point. Holidays must be configured on the [Holidays](/en/docs/tutorials/registering-holidays) page, so that they can be considered in the delivery time calculation.
 </ul>
 </body>
    </td>

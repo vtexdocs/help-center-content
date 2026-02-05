@@ -43,7 +43,7 @@ A franchise account does not have its own website. Consumers browse directly on 
 
 ## Relationship between franchise account and White Label Seller
 
-Each franchise account automatically operates as a White Label Seller of the main account. This means that when the consumer adds a product to the cart and simulates the shipping cost in the main account store, the system automatically selects the White Label Seller that has that product in stock and displays the delivery methods of the sellers that offer the best conditions. To learn more about the White Label Sellers selection algorithm, read our [article](/en/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa) on the subject.
+Each franchise account automatically operates as a White Label Seller of the main account. This means that when the consumer adds a product to the cart and simulates the shipping cost in the main account store, the system automatically selects the White Label Seller that has that product in stock and displays the delivery methods of the sellers that offer the best conditions. To learn more about the White Label Sellers selection algorithm, read our [article](/en/docs/tutorials/white-label-sellers-selection) on the subject.
 
 End customers do not choose or acknowledge the existence of White Label Sellers at any point in the process. In this logic, the consumers have a relationship with the brand (main account) and not with the physical stores (franchise accounts).
 
@@ -61,7 +61,7 @@ There are several possible configurations for pricing and payment methods relate
 
 #### Using the prices of the main account
 
-In order for the franchise account to use the prices configured in the main account, it is necessary to select the option **Inherit prices from parent account** in the Settings of the **Prices** module of the franchise account, as described in [this article](/en/tutorial/price-configuration--3hbBtCzNUBrj8GaWgCtSWN).
+In order for the franchise account to use the prices configured in the main account, it is necessary to select the option **Inherit prices from parent account** in the Settings of the **Prices** module of the franchise account, as described in [this article](/en/docs/tutorials/prices-settings).
 
 #### Configuring prices specific to the franchise account
 
@@ -88,7 +88,7 @@ Once you have [changed this configuration](#configuring-payment-methods-specific
 
 #### Configuring payment methods specific to the franchise account
 
-VTEX offers split payment solutions that can make the distribution of receivables to sellers automatic. For more information, please refer to the article about [Split payment](/en/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx).
+VTEX offers split payment solutions that can make the distribution of receivables to sellers automatic. For more information, please refer to the article about [Split payment](/en/docs/tutorials/split-payment).
 
 > ⚠️ If you wish to implement the VTEX Sales App, it is necessary for physical stores to use the payment methods from the main account.
 
@@ -107,6 +107,6 @@ If the number of accounts is greater than 10, please include them in an attached
 
 ## Learn more
 
-- [Multilevel Omnichannel Inventory](/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4)
-- [Choosing between standard account, franchise account or Seller Portal](/en/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78)
+- [Multilevel Omnichannel Inventory](/en/docs/tutorials/multilevel-omnichannel-inventory)
+- [Choosing between standard account, franchise account or Seller Portal](/en/docs/tutorials/choosing-between-standard-account-franchise-account-or-seller-portal)
 

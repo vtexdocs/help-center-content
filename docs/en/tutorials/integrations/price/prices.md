@@ -31,4 +31,4 @@ The new price list consists of: a list of products with their base prices; rules
 - [Adding Price Tables](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/2WQ3pVYfQpXkJnHr7VTFBv)
 - [Price rule](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/2rBirbpB7wLnei4dQ9KGMW)
 - [Rounding Rules](/en/tutorial/psychological-price-v2/)
-- [Price Configuration](/en/tutorial/price-configuration--3hbBtCzNUBrj8GaWgCtSWN)
+- [Price Configuration](/en/docs/tutorials/prices-settings)

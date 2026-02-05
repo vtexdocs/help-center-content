@@ -118,7 +118,7 @@ Note that not all marketplace brands had a match in this case. This varies depen
 
 Specifications are additional properties that can be added to your store's products or SKUs. After the seller sends the products, the marketplace has to map the product and SKU specifications. Mapping is done manually through the Categories and brands page to match the fields between the marketplace and the seller. 
 
-When a seller submits a product with a specification that has not been mapped by the marketplace and the marketplace [approves](/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396) this product, a new SKU is created, even though there is already a SKU in the marketplace catalog to associate it with. The unmapped specification (for example, color) or its value (for example, yellow) will be registered as an **unstructured attribute** in the marketplace catalog, but **will not be displayed in the marketplace storefront**. Therefore, it is necessary to map all the specifications and their values so that they are visible to buyers. You can view the unstructured attributes in your Admin. Go to *Catalog > Products and SKUs > choose an item from the list > click the Specifications tab*.
+When a seller submits a product with a specification that has not been mapped by the marketplace and the marketplace [approves](/en/docs/tutorials/manual-sku-cataloging) this product, a new SKU is created, even though there is already a SKU in the marketplace catalog to associate it with. The unmapped specification (for example, color) or its value (for example, yellow) will be registered as an **unstructured attribute** in the marketplace catalog, but **will not be displayed in the marketplace storefront**. Therefore, it is necessary to map all the specifications and their values so that they are visible to buyers. You can view the unstructured attributes in your Admin. Go to *Catalog > Products and SKUs > choose an item from the list > click the Specifications tab*.
 
 To map product and SKUs’ specifications, follow the steps below:
 
@@ -151,6 +151,6 @@ Specification mapping is applied on the marketplace website in different ways, d
 ## Learn more
 
 - [Approving products](/en/tutorial/sugerindo-e-aprovando-skus/)  
-- [Creating a trade policy](/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)    
-- [Trade policy for marketplaces](/en/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)  
+- [Creating a trade policy](/en/docs/tutorials/creating-a-trade-policy)    
+- [Trade policy for marketplaces](/en/docs/tutorials/configuring-a-marketplace-trade-policy)  
 

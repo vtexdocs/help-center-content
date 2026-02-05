@@ -27,17 +27,17 @@ VTEX Tracking is a VTEX solution focused on delivery tracking. It has three main
 Through the web platform, VTEX Tracking clients can manage and track their deliveries. It includes the following features:    
 
 - **Account Settings:** your operation is fully configured through the web platform. For your business to operate with the VTEX Tracking solution, you need to configure:  
-- [Users](/en/tutorial/usuarios-vtex-tracking--1zn5nrvkoWtx0pcabbRhSZ)    
+- [Users](/en/docs/tutorials/usuarios-vtex-tracking)    
 - [Agencies](/en/docs/tutorials/vtex-tracking-agencies)    
-- [Customers](/en/tutorial/clientes-vtex-tracking--277Z0epDNArIGJIbqtPMA9)  
-- [Holidays](/en/tutorial/feriados-vtex-tracking--4cj0oJNmF89e0pAJMBj1sP)  
-- [Branches](/en/tutorial/filial-vtex-tracking--6mD8L390WPORidxGp9TKfp)  
-- [Reason for status change](/en/tutorial/justificativa-de-status-vtex-tracking--4shboc7h5XPUpA8TQzXPRG)  
-- [Chat tickets](/en/tutorial/ocorrencias-de-chat-vtex-tracking--2YY7ixoHRmHOt3Fd3LzdPe)  
-- [Partners](/en/tutorial/parceiros-vtex-tracking--2xEHQ98hoMzgkrdhkpOedQ)  
-- [Delivery drivers or delivery services partners](/en/tutorial/portadores-vtex-tracking--5tVSpunaXVT6gQDSl9jTow)    
-- [Carriers](/en/tutorial/transportadoras-vtex-tracking--2HVE5D2fheT4cDPjiApL1Y)  
-- [Vehicles](/en/tutorial/veiculos-vtex-tracking--47OD2KOOMcHghBTJK0Vlwc)  
+- [Customers](/en/docs/tutorials/clientes-vtex-tracking)  
+- [Holidays](/en/docs/tutorials/vtex-tracking-holidays)  
+- [Branches](/en/docs/tutorials/vtex-tracking-branch)  
+- [Reason for status change](/en/docs/tutorials/vtex-tracking-status-change)  
+- [Chat tickets](/en/docs/tutorials/vtex-tracking-chat-incidences)  
+- [Partners](/en/docs/tutorials/vtex-tracking-partners)  
+- [Delivery drivers or delivery services partners](/en/docs/tutorials/portadores-vtex-tracking)    
+- [Carriers](/en/docs/tutorials/vtex-tracking-carriers)  
+- [Vehicles](/en/docs/tutorials/veiculos-vtex-tracking)  
 
 - **Services:** in the VTEX Tracking context, Services are your business' pick ups, collections, or deliveries. In the web platform, you can add and manage all your operation's services.  
 

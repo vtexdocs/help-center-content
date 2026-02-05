@@ -26,4 +26,4 @@ In a VTEX store, a transaction starts every time a user chooses a [payment condi
 - [What is a credit card brand?](/en/tutorial/what-is-a-credit-card-brand)
 - [What is the issuing bank?](/en/tutorial/what-is-the-issuing-bank)
 - [Difference between payment methods and payment conditions](/en/tutorial/difference-between-payment-methods-and-payment-conditions)
-- [Transaction flow in Payments](/en/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ)
+- [Transaction flow in Payments](/en/docs/tutorials/transaction-flow-in-payments)

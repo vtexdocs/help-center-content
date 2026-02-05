@@ -48,7 +48,7 @@ Some steps are essential for us to start configuring integration with the YOP ma
 
 ### Create a free freight promotion 
 
-[See our manual on how to create a promotion for the marketplace](/en/tutorial/configurar-promocao-para-marketplace--tutorials_406).
+[See our manual on how to create a promotion for the marketplace](/en/docs/tutorials/configuring-promotions-for-marketplaces).
 
 ## Go further
 

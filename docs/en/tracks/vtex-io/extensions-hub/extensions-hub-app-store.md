@@ -71,4 +71,4 @@ The app pricing can be as follows:
 - Flat monthly fee.
 - Special conditions. These may include the number of SMS sent, the live-streaming duration, among others.
 
-The costs will be automatically added to your [VTEX invoice](/en/tutorial/billing-overview--6UxfCl4fw4GmyQwoUuIcQs) immediately after you buy the app.
+The costs will be automatically added to your [VTEX invoice](/en/docs/tutorials/billing-module-overview) immediately after you buy the app.

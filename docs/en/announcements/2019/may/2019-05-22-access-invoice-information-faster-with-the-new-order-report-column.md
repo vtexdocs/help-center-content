@@ -29,5 +29,5 @@ This means that the `Invoice Number` field will always display all existing invo
 
  ## What I need to do
 
-The new report column is already enabled in all VTEX accounts, no further action being warranted. For more on how the orders report works, access our article on [exporting orders in the Order Management module](/en/tutorial/exporting-orders-in-orders-managment--tutorials_6417).
+The new report column is already enabled in all VTEX accounts, no further action being warranted. For more on how the orders report works, access our article on [exporting orders in the Order Management module](/en/docs/tutorials/exporting-orders-in-orders-module).
 

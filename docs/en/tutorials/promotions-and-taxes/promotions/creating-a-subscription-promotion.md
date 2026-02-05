@@ -45,6 +45,6 @@ Configure the frequency and cycle correctly to ensure that the promotion is appl
 > ℹ️  You cannot configure UTM promotions and subscription promotions using coupons on recurring orders. Coupons can only be applied to first orders.
 
 <ol start="6">
-<li> Fill in the [fields of this promotion](/en/tutorial/regular-promotion--tutorials_327).</li><br>
+<li> Fill in the [fields of this promotion](/en/docs/tutorials/regular-promotion).</li><br>
 <li>Click on <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Save</span> to finish.</li>
 </ol>

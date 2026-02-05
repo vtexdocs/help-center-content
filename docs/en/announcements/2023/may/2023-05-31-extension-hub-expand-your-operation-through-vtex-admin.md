@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'The new VTEX Admin section to find partners, add features and manage extensions'
 ---
 
-Extensions Hub is a new section of VTEX Admin that gathers partner developers and merchants who want to expand their operation capabilities. Through Extensions Hub, partners can publish extensions, and merchants can view, purchase, install, and manage them. Extensions Hub will be available globally in all VTEX stores during the third quarter (Q3) of 2023. If you want to enable Extensions Hub in your store immediately, you can request it by [opening a ticket to our support](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
+Extensions Hub is a new section of VTEX Admin that gathers partner developers and merchants who want to expand their operation capabilities. Through Extensions Hub, partners can publish extensions, and merchants can view, purchase, install, and manage them. Extensions Hub will be available globally in all VTEX stores during the third quarter (Q3) of 2023. If you want to enable Extensions Hub in your store immediately, you can request it by [opening a ticket to our support](/en/docs/tutorials/opening-tickets-to-vtex-support).
 
 ![Extensions Hub GIF](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/may/2023-05-31-extension-hub-expand-your-operation-through-vtex-admin_1.gif)
 
@@ -29,7 +29,7 @@ The Extensions Hub is a new VTEX Admin section composed of three pages: **App St
 
 With Extensions Hub, the entire navigation and app purchasing experience happens seamlessly inside the VTEX Admin. You can easily find, buy and install apps with a few clicks without leaving the Admin.
 
-The **App Store** displays prices in US dollars (USD) for stores all over the world, and in Brazilian reais (BRL) for stores in Brazil. Payments for app purchases, subscriptions, and usage are processed automatically, and the corresponding amounts are added to your [VTEX invoice](/en/tutorial/billing-overview--6UxfCl4fw4GmyQwoUuIcQs) in your local currency, eliminating the need for credit card payment. If your operation is located outside Brazil and your invoice is in a currency other than USD, we will convert the USD amount to your local currency.
+The **App Store** displays prices in US dollars (USD) for stores all over the world, and in Brazilian reais (BRL) for stores in Brazil. Payments for app purchases, subscriptions, and usage are processed automatically, and the corresponding amounts are added to your [VTEX invoice](/en/docs/tutorials/billing-module-overview) in your local currency, eliminating the need for credit card payment. If your operation is located outside Brazil and your invoice is in a currency other than USD, we will convert the USD amount to your local currency.
 
 > ℹ️ The [App Store website](http://apps.vtex.com/) will still exist for viewing apps in a public way, but it will no longer support app purchases. Purchases can only be made through the VTEX Admin.
 
@@ -45,7 +45,7 @@ The [Partner Portal website](https://vtex.com/en-us/partners/) will remain uncha
 
 ## What needs to be done?
 
-Extensions Hub will be available for all stores in the third quarter (Q3) of 2023. If you want to enable Extensions Hub in your store immediately, you can request it by [opening a ticket to our support](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM). Then, to start using the Extensions Hub, access it in your Admin. On the VTEX Admin left side menu, click the **Extensions** icon, and the Extensions Hub will be visible at the top of the menu.
+Extensions Hub will be available for all stores in the third quarter (Q3) of 2023. If you want to enable Extensions Hub in your store immediately, you can request it by [opening a ticket to our support](/en/docs/tutorials/opening-tickets-to-vtex-support). Then, to start using the Extensions Hub, access it in your Admin. On the VTEX Admin left side menu, click the **Extensions** icon, and the Extensions Hub will be visible at the top of the menu.
 
 ![Extensions Hub panel](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/may/2023-05-31-extension-hub-expand-your-operation-through-vtex-admin_2.png)
 

@@ -33,7 +33,7 @@ In addition, it's now easier to select categories and brands.
 
 ![New page for adding products and SKUs 4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/september/2024-09-25-new-page-for-adding-products-and-skus_4.gif)
 
-> ℹ️ Learn more about the new [product](/en/tutorial/adding-products-beta--29IkdEu6GofCFlltsZh2H8) and [SKU](/en/tutorial/cadastro-de-skus-beta--4ryZ6J45kwn3jDiQBxGiiN) pages, respectively.
+> ℹ️ Learn more about the new [product](/en/docs/tutorials/adding-or-editing-products) and [SKU](/en/docs/tutorials/adding-or-editing-skus) pages, respectively.
 
 ## What needs to be done?
 

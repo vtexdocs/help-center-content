@@ -73,7 +73,7 @@ The single-access link can be copied for later access or shared with the person 
   </tr>
 </table>
 
-* **Pending token deletion**: We've added alerts to notify you when the deletion of an old token is pending after [renewal](/en/tutorial/renewing-api-tokens--7r4AzptYjXErGHadg9LnJ3).
+* **Pending token deletion**: We've added alerts to notify you when the deletion of an old token is pending after [renewal](/en/docs/tutorials/renewing-api-tokens).
 
 <table style="border-collapse:collapse;border:none;margin:auto;">
   <tr>

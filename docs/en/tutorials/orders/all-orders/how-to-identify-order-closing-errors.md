@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-Whenever a user clicks on Complete Order, the checkout immediately creates an order on the VTEX platform. At first this order’s status is **incomplete** and it can be found using [filters](/en/tutorial/filtrar-todos-pedidos--tutorials_192). In the VTEX Admin, go to **Orders > All Orders**, or type **All Orders** in the search bar at the top of the page.
+Whenever a user clicks on Complete Order, the checkout immediately creates an order on the VTEX platform. At first this order’s status is **incomplete** and it can be found using [filters](/en/docs/tutorials/filtering-all-orders). In the VTEX Admin, go to **Orders > All Orders**, or type **All Orders** in the search bar at the top of the page.
 
 And since every order has at least one transaction, it is also possible to find this transaction in **Orders > Transactions**. Since this is an error situation, the transaction will probably have been cancelled.
 

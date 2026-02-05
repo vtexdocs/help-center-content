@@ -41,9 +41,9 @@ Google Pay will then be available in your VTEX store's checkout as a new payment
 To use Google Pay, you must meet the following requirements:
 
 * Having at least one active [payment condition](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) configured for credit or debit cards with an [acquirer](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#adquirente), establishing which acquirer will process the wallet payment.
-* Using [VTEX Checkout](/en/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) in your store.
+* Using [VTEX Checkout](/en/docs/tutorials/checkout-vtex-overview) in your store.
 
-> ⚠️ For stores that have the [3DS](/en/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) authentication flow configured and supported by the acquirer, payment with Google Pay will follow the card native flow and will use 3DS as well. For more information on how to configure the authentication flow, please refer to [Setting up 3DS 2 authentication flow](/en/tutorial/configurar-fluxo-de-autenticacao-3ds-2--58XMn5LOA6fwrSkoDoAsg2).
+> ⚠️ For stores that have the [3DS](/en/docs/tutorials/what-is-3d-secure) authentication flow configured and supported by the acquirer, payment with Google Pay will follow the card native flow and will use 3DS as well. For more information on how to configure the authentication flow, please refer to [Setting up 3DS 2 authentication flow](/en/docs/tutorials/setting-up-3ds-2-authentication-flow).
 
 > ℹ️ You can also set up Google Pay to be processed with Adyen or Stripe. To do this, access the **Payment Conditions** screen in Admin, click on **Google Pay** and select the desired option.
 
@@ -96,5 +96,5 @@ If a store has no card payment rules configured, the user will see an error mess
 
 ### Learn more
 
-* [DPAN and FPAN: Understanding security in the online tokenized payment flow](/en/tutorial/dpan-e-fpan-entendendo-a-seguranca-no-fluxo-de-pagamentos-tokenizados-online--3RM7RvhKZ057wja5xVEOqb)
+* [DPAN and FPAN: Understanding security in the online tokenized payment flow](/en/docs/tutorials/dpan-and-fpan-understanding-security-in-the-online-tokenized-payment-flow)
 

@@ -26,7 +26,7 @@ To update your store's checkout to the latest version (Checkout v6), you must en
 3. In the blue options menu located at the top of the page, click on __Checkout__.
 4. Under __Smart Checkout Update (V6)__, enable the __Test Environment (Beta)__ option by clicking the <i class="fas fa-toggle-on"></i> button.
 5. Click `Save`.
-6. [Access your store in beta/test environment](/en/tutorial/access-beta-environment-through-myvtex-com-domain--3BHM289568gcSwk2O80Asu) and implement the necessary style adjustments. Checkout v6 has new _CSS_ classes that you need to be mindful of when performing style customizations.
+6. [Access your store in beta/test environment](/en/docs/tutorials/accessing-the-beta-environment) and implement the necessary style adjustments. Checkout v6 has new _CSS_ classes that you need to be mindful of when performing style customizations.
 
 ![Checkoutv6_box](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/checkout-settings/enable-checkout-v6_1.png)
 

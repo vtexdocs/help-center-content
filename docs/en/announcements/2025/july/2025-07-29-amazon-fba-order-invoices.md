@@ -30,5 +30,5 @@ We've developed this new feature to streamline seller processes and centralize t
 
 ## What needs to be done?
 
-This feature is available to all VTEX accounts integrated with Amazon. To start using it, see the instructions in the tutorial [FBA order invoices](/en/tutorial/notas-fiscais-de-pedidos-fba--5ok71vWueJ22JhXo1egx2y).
+This feature is available to all VTEX accounts integrated with Amazon. To start using it, see the instructions in the tutorial [FBA order invoices](/en/docs/tutorials/fba-order-invoices).
 

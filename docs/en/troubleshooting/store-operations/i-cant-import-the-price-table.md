@@ -46,8 +46,8 @@ Errors may occur while completing the table, such as entering the product ID whe
 
 Make sure that all fields in your table are properly populated based on the guidelines in the following articles:
 
-- [Planilha de preço-base](/en/tutorial/table-of-base-prices--4Jox8TeQ5feqAn78TZ0DNA)
-- [Planilha de preço fixo](/en/tutorial/filling-out-an-import-spreadsheets-fixed-price-fields--50RFoH3ruV97FJgeBUCURh)
+- [Planilha de preço-base](/en/docs/tutorials/table-of-base-prices)
+- [Planilha de preço fixo](/en/docs/tutorials/filling-out-an-import-spreadsheets-fixed-price-fields)
 
 > ⚠️ Before importing the table into the VTEX Admin, make sure that it does not contain columns with error information (**Error Code** and **Error Message**) or any filters applied to the cells. Importing a table under these conditions may cause errors in the data import process.
 

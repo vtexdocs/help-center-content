@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the CMS](/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L).
+> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the CMS](/en/docs/tutorials/adding-collections-cms).
 
 Shop windows are used to feature products on several pages; they can also be used for recommendations on the product page.
 
@@ -50,7 +50,7 @@ Remember to save your changes before you search or change pages.
 The next step is to add the content by selecting **Add Content**.
 ![coleção8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-to-include-a-collection-of-products-in-the-shop-window_7.png)
 
-It is possible to define each content by using collections or search results, by using search parameters (further details [here](/en/tutorial/como-funciona-a-busca-da-vtex--tutorials_542)).
+It is possible to define each content by using collections or search results, by using search parameters (further details [here](/en/docs/tutorials/how-does-vtex-search-work)).
 
 The contents to be filled in **Content** are:
 _Content_: Name that will identify each set of items

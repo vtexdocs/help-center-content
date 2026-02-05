@@ -22,7 +22,7 @@ tags:
 
 When using the Admin, some users may experience *Error 403 - We're sorry, but you do not have access to this page* or a page loading continuously.  
 
-These issues usually occur due to conflicts between admin user [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) or specific browser settings.
+These issues usually occur due to conflicts between admin user [roles](/en/docs/tutorials/roles) or specific browser settings.
 
 ## Solution
 

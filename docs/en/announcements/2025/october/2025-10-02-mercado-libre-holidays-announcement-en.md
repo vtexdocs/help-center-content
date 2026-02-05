@@ -29,5 +29,5 @@ By configuring non-business days in the integration, sellers can avoid penalties
 
 ## What needs to be done?
 
-The feature has been available for all VTEX accounts using the Mercado Libre integration since September 30, 2025. To learn how to use it, see the tutorial [Mercado Libre Holidays](/en/tutorial/mercado-livre-feriados--4dFhFvy6QBPexqSd8u0vIR).
+The feature has been available for all VTEX accounts using the Mercado Libre integration since September 30, 2025. To learn how to use it, see the tutorial [Mercado Libre Holidays](/en/docs/tutorials/mercado-libre-holidays).
 

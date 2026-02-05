@@ -18,7 +18,7 @@ order: 1
 
 **Personal Shopper** is an app that allows businesses to host live shopping sessions in the store, enabling real-time interaction with customers. During these sessions, a personal shopper can showcase products, answer questions, and add products to the customer's cart. This interactive shopping experience is designed to engage customers, increase sales, and build brand loyalty.
 
-> ⚠️ Personal Shopper is designed for sellers who want to show new collections to high-value customers or B2B clients. These customized live sessions are intended to provide a more personalized shopping experience than public [Live Shopping](/en/tutorial/live-shopping--1cYWPIbjNMyr072sksHSVL).
+> ⚠️ Personal Shopper is designed for sellers who want to show new collections to high-value customers or B2B clients. These customized live sessions are intended to provide a more personalized shopping experience than public [Live Shopping](/en/docs/tutorials/live-shopping).
 
 The Personal Shopper app is compatible with desktop and mobile devices.
 

@@ -25,7 +25,7 @@ When a new page is created, it is initially set to **Draft**, indicating that th
 
 The **Publishing** status was previously used to describe the deployment process of a CMS page to FastStore. However, it did not provide further details on the process.
 
-Now, by integrating the Build Status tool with other systems like [Releases](/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw), WebOps, and [FastStore](https://www.faststore.dev/), the Headless CMS provides more comprehensive insights into the status of these systems.
+Now, by integrating the Build Status tool with other systems like [Releases](/en/docs/tutorials/planner-releases-page-beta), WebOps, and [FastStore](https://www.faststore.dev/), the Headless CMS provides more comprehensive insights into the status of these systems.
 
 ## Why are we making this change?
 The introduction of the Build Status tool aims to improve clarity and transparency in the deployment workflow.

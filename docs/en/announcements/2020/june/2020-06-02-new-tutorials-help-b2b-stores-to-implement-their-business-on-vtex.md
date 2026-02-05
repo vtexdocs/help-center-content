@@ -23,12 +23,12 @@ VTEX is a platform increasingly prepared to meet scenarios like these. And, to h
 
 - [How to add customized information to the order and manipulate it](/en/tutorial/como-adicionar-e-manipular-informacoes-customizadas-no-pedido--7tDi1jQQ51ufARcRm8NUnC)
 - [How to add a second address to the order for invoicing purposes](/en/tutorial/como-adicionar-um-segundo-endereco-ao-pedido-destinado-a-faturacao--6Mow9ibQPDOcEggNnujuA)
-- [How to structure Master Data entities to store B2B sales data](/en/tutorial/como-estruturar-entidades-do-master-data-para-armazenar-dados-de-venda-b2b--7vHtMxXLc9oYnEfajjtTqL)
-- [Credit management through Customer Credit](/en/tutorial/gestao-de-credito-por-meio-do-customer-credit--5lihi3WBsV5mSIDqNvnoK0)
+- [How to structure Master Data entities to store B2B sales data](/en/docs/tutorials/how-to-structure-master-data-entities-to-store-b2b-sales-data)
+- [Credit management through Customer Credit](/en/docs/tutorials/managing-credit-with-customer-credit)
 - [How to add a telesales impersonated email using the Session Manager
 ](/en/tutorial/como-adicionar-e-mail-de-televendas-personificado-via-session-manager--4tT90hWRChUy84UClF8pC)
-- [Inserting taxes in the cart](/en/tutorial/inserir-taxas-no-carrinho--2wY5ePTTRz17EBhO3F7XBQ)
-- [The most common promotions in B2B](/en/tutorial/as-promocoes-mais-comuns-em-b2b--XoM951AzUIvfaH71UdANf)
-- [How to configure minimum order value and maximum quantity of items per SKU](/en/tutorial/como-configurar-valor-minimo-de-pedido-e-quantidade-maxima-de-itens-por-sku--7JqipPUBxtKz0m4OlAyKs9)
+- [Inserting taxes in the cart](/en/docs/tutorials/inserting-taxes-in-the-cart)
+- [The most common promotions in B2B](/en/docs/tutorials/the-most-common-promotions-in-b2b)
+- [How to configure minimum order value and maximum quantity of items per SKU](/en/docs/tutorials/how-to-configure-minimum-order-value-and-maximum-quantity-of-items-per-sku)
 
 Bring your B2B store to VTEX! For more information, contact your Customer Success Manager.

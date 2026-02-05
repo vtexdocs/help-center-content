@@ -33,7 +33,7 @@ Follow the step-by-step procedure to configure synonyms individually in the VTEX
 4. Fill in the fields that correspond to the synonym:
    - __Type:__ defines the type of synonym. Check [Types of synonyms](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#types-of-synonyms) for more information.
    - __Terms:__ words or expressions to be defined as synonyms. You must press `Enter` after each term to insert another term.
-   - **Locales:** Languages to which the synonym will apply. The field is only available for stores using [Multilanguage settings (Beta)](/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+   - **Locales:** Languages to which the synonym will apply. The field is only available for stores using [Multilanguage settings (Beta)](/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings-beta).
    - __Status:__ defines whether the synonym will be active or inactive.
 5. To finish, click on `Save`.
 
@@ -91,7 +91,7 @@ Result in the VTEX Admin:
 
 #### Multilanguage stores (Beta)
 
-Stores using  [Multilanguage settings (Beta)](/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO) must follow the template below to import synonyms for specific locales.
+Stores using  [Multilanguage settings (Beta)](/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings-beta) must follow the template below to import synonyms for specific locales.
 
 - __Unidirectional__: `{terms separated by comma};{equivalent term};{status};{locales separated by comma}`
 

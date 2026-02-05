@@ -27,9 +27,9 @@ In the **Orders** section, you can view all information regarding the status of 
 This section includes the following pages:
 
 - [All Orders](/en/v4/docs/all-orders--6JHeydzIft46VY7JTEpbJT)  
-- [Order Details](/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl)   
-- [Transactions](/en/tutorial/how-to-view-transactions-on-pci-gateway--tutorials_461) 
-- [Bank reconciliation](/en/tutorial/bank-reconciliations--tutorials_453) 
+- [Order Details](/en/docs/tutorials/order-details-page)   
+- [Transactions](/en/docs/tutorials/how-to-view-transactions-on-pci-gateway) 
+- [Bank reconciliation](/en/docs/tutorials/bank-reconciliations) 
 
 Besides searching for orders in **Orders > All Orders**, you can search for orders from any page in the VTEX Admin using the global search bar at the top bar. By default, the search is configured as `Pages`. To search for an order, click on the bar, select `Orders`, and use one of the following criteria:
 
@@ -38,13 +38,13 @@ Besides searching for orders in **Orders > All Orders**, you can search for orde
 - Customer email
 - Customer document
 
-> ℹ️ You can only access information from orders created in the last two years, and that same period is valid for customers through [My Account](/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+> ℹ️ You can only access information from orders created in the last two years, and that same period is valid for customers through [My Account](/en/docs/tutorials/how-my-account-works).
 
 ## Subscriptions
 
-On the VTEX platform, you can create [subscriptions](/en/tutorial/how-subscriptions-work--frequentlyAskedQuestions_4453), which means that you can offer your customers the possibility to automatically place recurring orders at a set frequency.
+On the VTEX platform, you can create [subscriptions](/en/docs/tutorials/how-subscriptions-work), which means that you can offer your customers the possibility to automatically place recurring orders at a set frequency.
 
 To manage this feature in your store, this section includes the following pages:  
-- [Dashboards](/en/tutorial/how-to-manage-subscriptions--6Jk50FPbv6iuz1OsFypv8x)  
-- [Subscription plans](/en/tutorial/subscription-plans-beta--5kczKRqHEsrs1tYtRcY8wR)  
+- [Dashboards](/en/docs/tutorials/how-to-manage-subscriptions)  
+- [Subscription plans](/en/docs/tutorials/subscription-plans)  
 

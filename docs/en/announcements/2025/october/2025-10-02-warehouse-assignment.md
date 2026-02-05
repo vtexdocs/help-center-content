@@ -32,5 +32,5 @@ With this update, you can:
 
 ## What needs to be done?  
 
-This feature is only available to sellers using the new offer model and who have enabled multi-origin stock on Mercado Libre. To learn more and complete the configuration, see [Warehouse assignment on Mercado Libre](/en/tutorial/alocacao-de-estoque-no-mercado-livre--6BfmmAFctWbi7hxJlxCU1S) and [Configure warehouse assignment](/en/tutorial/configurar-alocacao-de-estoque--1yCEr7xQ0gVsTBB0ktMYVX).
+This feature is only available to sellers using the new offer model and who have enabled multi-origin stock on Mercado Libre. To learn more and complete the configuration, see [Warehouse assignment on Mercado Libre](/en/docs/tutorials/warehouse-assignment-on-mercado-libre) and [Configure warehouse assignment](/en/docs/tutorials/configuring-warehouse-assignment).
 

@@ -34,7 +34,7 @@ Before implementing the frontend, you should configure the following steps in yo
 | Step | Description |
 |---|---|
 | Defining the store's architecture and sales strategy | The team defines your VTEX store's architecture based on your business model's strategies and needs.<br><br>Learn more in the [Accounts and architecture](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) article. |
-| Configuring roles | The team configures the roles needed for each [user](/en/docs/tutorials/managing-admin-users) to use the VTEX platform.<br><br>Learn more in the [Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) article. |
+| Configuring roles | The team configures the roles needed for each [user](/en/docs/tutorials/managing-admin-users) to use the VTEX platform.<br><br>Learn more in the [Roles](/en/docs/tutorials/roles) article. |
 | Configuring catalog | The team configures the product[ catalog](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalog), category tree, and related information, such as descriptions, images, and prices, to populate and test the store, including features such as product listing pages (PLP), search features, product details pages (PDP), and checkout.<br><br>Not having a catalog can result in incomplete testing and data integration problems, which delays implementation.<br><br>Learn more in the [VTEX modules I](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7) article. |
 | Defining the apps needed to operate the store | The team defines the native and third-party apps needed to operate the store.<br><br>For stores that will be built using [Store Framework](#store-framework), there is a list of native and third-party apps.<br><br>Learn more in the [VTEX IO apps](https://developers.vtex.com/docs/vtex-io-apps) article. |
 
@@ -100,13 +100,13 @@ The following table shows some of Store Framework's main features:
 | [Pre-built components](https://developers.vtex.com/docs/vtex-io-apps) | *React-based* native components. |
 | Modular architecture | Customization and code reuse of interface elements to quickly launch and replicate stores. |
 | [Workspaces and test environments](https://developers.vtex.com/docs/guides/vtex-io-documentation-workspace) | It allows you to create different store versions and test them beforehand to make changes safely. |
-| [Site Editor](/en/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) | Content management system (CMS) for editing templates and building new pages on the store's website. |
+| [Site Editor](/en/docs/tutorials/site-editor-overview) | Content management system (CMS) for editing templates and building new pages on the store's website. |
 | [Native A/B testing](https://developers.vtex.com/docs/guides/ab-tests) | It allows you to test and validate the store version with the highest conversion rates. |
 | [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) integration | Autocomplete feature in the search bar, which also offers search suggestions and products based on configurable preferences. |
-| [Progressive Web App (PWA)](/en/tutorial/enabling-pwa-push-notifications-in-your-store--1be3ZPhbsgZSbE7h5H46pG) | 
+| [Progressive Web App (PWA)](/en/docs/tutorials/enabling-pwa-push-notifications-in-your-store) | 
 Enables native app-like experiences on any device with PWA-ready technology.|
 | [Cross-border](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/5qgXy9Erm7FDP3UB5Ox8Bs) | It allows a VTEX [multistore](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multistore) to operate in different countries with a specific approach for each one. |
-| Checkout, [My Account](/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), and Login integrations | Integration with other stages of the customer buying journey. |
+| Checkout, [My Account](/en/docs/tutorials/how-my-account-works), and Login integrations | Integration with other stages of the customer buying journey. |
 
 ## Choosing the frontend technology
 
@@ -198,7 +198,7 @@ The table below compares the two technologies based on their main features:
     </tr>
     <tr>
         <td>Content Management Systems (CMS)</td>
-        <td>Compatible with [Site Editor](/en/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1).</td>
+        <td>Compatible with [Site Editor](/en/docs/tutorials/site-editor-overview).</td>
         <td>Compatible with [Headless CMS](https://www.faststore.dev/docs/headless-cms-overview).</td>
     </tr>
 </table>
@@ -229,11 +229,11 @@ Below are the requirements for each topic:
 
 - Catalog
   - [Adding products and SKUs](/en/tutorial/adding-products--tutorials_2567)
-  - [Creating a category tree](/en/tutorial/registering-a-category--tutorials_206) ([departments](/en/tutorial/what-is-a-department--22rKjmYWVmmKAK8CWa8yKw), [categories](/en/tutorial/what-is-a-category--6HV4Q3E2FauUoOQoiCCgCg) and [subcategories](/en/tutorial/what-is-a-subcategory--2cb0aRkG3i6AeiAMM24iwY))
-  - [Defining filters and types of specifications per category](/en/tutorial/creating-a-specification-group-in-a-category--tutorials_246)
+  - [Creating a category tree](/en/docs/tutorials/registering-a-category) ([departments](/en/docs/tutorials/what-is-a-department), [categories](/en/docs/tutorials/what-is-a-category) and [subcategories](/en/docs/tutorials/what-is-a-subcategory))
+  - [Defining filters and types of specifications per category](/en/docs/tutorials/creating-a-specification-group-in-a-category)
   - [Adding SKU images](/en/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY#images)
   - [Adding SKU prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29)
-  - [Inventory management](/en/tutorial/managing-stock-items--tutorials_139)
+  - [Inventory management](/en/docs/tutorials/managing-stock-items)
 - VTEX Intelligent Search
   - [Integrating the Intelligent Search app with the account](https://www.faststore.dev/docs/getting-started-requirements#enable-the-vtex-intelligent-search-app-in-your-account)
 - Headless CMS integration
@@ -255,11 +255,11 @@ Below are the requirements for each topic:
   - [VTEX Checkout](https://www.faststore.dev/docs/go-live/4-integrating-the-vtex-checkout) integration
   - [VTEX Order Placed e My Account](https://www.faststore.dev/docs/go-live/5-integrating-the-vtex-order-placed-and-my-account) integration
 - Logistics
-  - [Adding loading docks](/en/tutorial/managing-loading-docks--7K3FultD8I2cuuA6iyGEiW)
-  - [Adding shipping strategies](/en/tutorial/shipping-strategy--58vLBDbjYVQzJ6rRc5QNz3)
-  - [Associating a shipping strategy and warehouse with a loading dock](/en/tutorial/managing-loading-docks--7K3FultD8I2cuuA6iyGEiW)
+  - [Adding loading docks](/en/docs/tutorials/managing-loading-docks)
+  - [Adding shipping strategies](/en/docs/tutorials/shipping-strategy)
+  - [Associating a shipping strategy and warehouse with a loading dock](/en/docs/tutorials/managing-loading-docks)
 - Payments
-  - [Configuring the Notes Payable provider](/en/tutorial/setting-up-the-notes-payable-conector--7Gy0SJRVS0Qi2CuWMAqQc0)
+  - [Configuring the Notes Payable provider](/en/docs/tutorials/setting-up-the-notes-payable-conector)
   - [Adding gateway providers](/en/tutorial/registering-gateway-affiliations/)
 - Performance and SEO
   - Improving the store performance using the right[ technology](https://v1.faststore.dev/how-to-guides/performance) tools
@@ -282,11 +282,11 @@ Below are the requirements for each topic:
 
 - Catalog
   - [Adding products and SKUs](/en/tutorial/adding-products--tutorials_2567)
-  - [Creating a category tree](/en/tutorial/registering-a-category--tutorials_206) ([departments](/en/tutorial/what-is-a-department--22rKjmYWVmmKAK8CWa8yKw), [categories](/en/tutorial/what-is-a-category--6HV4Q3E2FauUoOQoiCCgCg) and [subcategories](/en/tutorial/what-is-a-subcategory--2cb0aRkG3i6AeiAMM24iwY))
-  - [Defining filters and types of specifications per category](/en/tutorial/creating-a-specification-group-in-a-category--tutorials_246)
+  - [Creating a category tree](/en/docs/tutorials/registering-a-category) ([departments](/en/docs/tutorials/what-is-a-department), [categories](/en/docs/tutorials/what-is-a-category) and [subcategories](/en/docs/tutorials/what-is-a-subcategory))
+  - [Defining filters and types of specifications per category](/en/docs/tutorials/creating-a-specification-group-in-a-category)
   - [Adding SKU images](/en/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY#images)
   - [Adding SKU prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29)
-  - [Inventory management](/en/tutorial/managing-stock-items--tutorials_139)
+  - [Inventory management](/en/docs/tutorials/managing-stock-items)
 - VTEX Intelligent Search
   - [Integrating the Intelligent Search app with the account](https://www.faststore.dev/docs/getting-started-requirements#enable-the-vtex-intelligent-search-app-in-your-account)
 - Homepage
@@ -301,11 +301,11 @@ Below are the requirements for each topic:
 - Minicart configuration
   - Editing the components and layouts already listed in [Starter](https://storetheme.vtex.com/)
 - Logistics
-  - [Adding loading docks](/en/tutorial/managing-loading-docks--7K3FultD8I2cuuA6iyGEiW)
-  - [Adding shipping strategies](/en/tutorial/shipping-strategy--58vLBDbjYVQzJ6rRc5QNz3)
-  - [Associating a shipping strategy and warehouse with a loading dock](/en/tutorial/managing-loading-docks--7K3FultD8I2cuuA6iyGEiW)
+  - [Adding loading docks](/en/docs/tutorials/managing-loading-docks)
+  - [Adding shipping strategies](/en/docs/tutorials/shipping-strategy)
+  - [Associating a shipping strategy and warehouse with a loading dock](/en/docs/tutorials/managing-loading-docks)
 - Payments
-  - [Configuring the Notes Payable provider](/en/tutorial/setting-up-the-notes-payable-conector--7Gy0SJRVS0Qi2CuWMAqQc0)
+  - [Configuring the Notes Payable provider](/en/docs/tutorials/setting-up-the-notes-payable-conector)
   - [Adding gateway providers](/en/tutorial/registering-gateway-affiliations/)
 - Performance
   - Improving the store performance using performance [optimization tools](https://developers.vtex.com/docs/guides/vtex-io-documentation-best-practices-for-optimizing-performance)

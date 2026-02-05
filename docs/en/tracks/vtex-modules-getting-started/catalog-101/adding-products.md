@@ -27,7 +27,7 @@ There are different ways to add a product:
 
 ## VTEX Admin
 
-To add a new product to the store catalog, check the article [Adding or editing products](/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8).
+To add a new product to the store catalog, check the article [Adding or editing products](/en/docs/tutorials/adding-or-editing-products).
 
 ## Spreadsheet
 

@@ -15,7 +15,7 @@ trackSlugEN: catalog-101
 order: 13
 ---
 
-> ⚠️ Before creating a collection, you must configure the authorization by having a role with the **Write Collections** feature enabled in the **Collections** section of the Catalog profiles. Find out more [here](/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc).
+> ⚠️ Before creating a collection, you must configure the authorization by having a role with the **Write Collections** feature enabled in the **Collections** section of the Catalog profiles. Find out more [here](/en/docs/tutorials/roles).
 
 Follow the step by step below to add a new collection:
 

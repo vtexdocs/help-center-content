@@ -77,5 +77,5 @@ If you enable this option and do not select any promotions, the alert will not b
 
 ## Learn more
 
-- [Promotion alerts](/en/tutorial/alerta-de-promocoes-beta--3vDTjwoNtaxA1PUrkpEQLW)
+- [Promotion alerts](/en/docs/tutorials/promotion-alerts-beta)
 - [How promotions work](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)

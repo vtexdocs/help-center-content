@@ -34,7 +34,7 @@ See the table below for possible error messages related to price settings and th
 |**Error message**|**Meaning**|**Required action**|
 |:--:|:--:|:--:|
 |Sale price cannot be updated to 29,99. Can not offer more then 70% off.| The seller cannot give more than 70% off the [base price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) of a product.| Change the discount price to a value within the percentage required by the marketplace.| 
-|Check if the SKU has a price set for this policy or if the price has expired.|The SKU price has not been added to the [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) used in the integration with the marketplace, or it has expired.| Add the SKU price to the trade policy used to integrate the store with the marketplace.|
+|Check if the SKU has a price set for this policy or if the price has expired.|The SKU price has not been added to the [trade policy](/en/docs/tutorials/how-trade-policies-work) used in the integration with the marketplace, or it has expired.| Add the SKU price to the trade policy used to integrate the store with the marketplace.|
 
 ### Product cataloging
 

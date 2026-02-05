@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'This user validation solution to prevent fake users can be used in native mobile apps and other similar integrations'
 ---
 
-[reCAPTCHA](/en/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP) is a user validation solution that VTEX provides for all stores. It foresees scenarios where malware is used for fraud and prevents access by fake users.
+[reCAPTCHA](/en/docs/tutorials/using-recaptcha-at-checkout) is a user validation solution that VTEX provides for all stores. It foresees scenarios where malware is used for fraud and prevents access by fake users.
 
 Besides the native storefront functionality of the VTEX platform, stores implementing their own storefronts can [integrate reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha) via the Checkout API to improve security.
 

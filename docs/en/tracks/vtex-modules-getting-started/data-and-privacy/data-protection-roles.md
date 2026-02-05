@@ -79,6 +79,6 @@ Merchants play a crucial role in data security, as their decisions directly impa
 
 To understand how to manage access credentials and ensure data integrity properly, see the following articles:
 
-- [Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
--	[License Manager resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)
+- [Roles](/en/docs/tutorials/roles)
+-	[License Manager resources](/en/docs/tutorials/license-manager-resources)
 - [Application keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet)

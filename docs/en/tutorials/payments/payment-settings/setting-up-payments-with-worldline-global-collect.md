@@ -28,8 +28,8 @@ To configure Worldline Global Collect, follow the steps below:
 7. In **Provider Fields**, select or complete the fields **Environment**, **Merchant ID**, **Webhook Key ID**, **Webhook Secret Key**, **Capture type**, **Payment Sub-domain**, **3DS mode**, and **Soft Descriptor** according to the provider's  instructions.
 8. Click `Save`.
 
-To configure the payment methods to be processed by Worldline Global Collect, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455).
+To configure the payment methods to be processed by Worldline Global Collect, access [Configuring Payment Conditions](/en/docs/tutorials/how-to-configure-payment-conditions).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456).
+To set special conditions on payment methods, go to [Configuring payment special conditions](/en/docs/tutorials/special-conditions).
 
 After following the indicated steps, Worldline Global Collect may take up to 10 minutes to appear at your store's  checkout as a payment option.

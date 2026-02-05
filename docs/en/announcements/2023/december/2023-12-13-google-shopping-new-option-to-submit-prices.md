@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Update your integration: New ways to apply discounts on Google Shopping.'
 ---
 
-We have updated the way you can submit product prices via the [Google Shopping integration](/en/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/2kGKxwD9HKJvTLDTikQ4zG), enabling merchants to offer more attractive offers and discounts using [payment methods](/en/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) that best meet their customer needs.
+We have updated the way you can submit product prices via the [Google Shopping integration](/en/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/2kGKxwD9HKJvTLDTikQ4zG), enabling merchants to offer more attractive offers and discounts using [payment methods](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) that best meet their customer needs.
 
 ## What has changed?
 

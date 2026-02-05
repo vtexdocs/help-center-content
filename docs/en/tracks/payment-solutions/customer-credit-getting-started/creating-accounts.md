@@ -33,7 +33,7 @@ To register a new customer in Customer Credit, follow the steps below:
 4. In __Credit__, enter the __Credit Limit (BRL)__ and __Tolerance__ values that you want to make available to the customer.
 5. Click `Confirm`.
 
-> ⚠️ Filling in the **Email** field is mandatory, as the VTEX platform uses this information to authenticate the customer's access to the credit limits of their account. For more information about data protection, visit [SmartCheckout Security](/en/tutorial/smartcheckout-security--3SrJuuhrqwePUg1rp1exfB).
+> ⚠️ Filling in the **Email** field is mandatory, as the VTEX platform uses this information to authenticate the customer's access to the credit limits of their account. For more information about data protection, visit [SmartCheckout Security](/en/docs/tutorials/smartcheckout-security).
 
 From this moment on, the new account created will be displayed on the __Accounts__ screen.
 

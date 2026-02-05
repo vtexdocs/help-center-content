@@ -18,7 +18,7 @@ subcategoryId: 4id9W3RDyw02CasOm2C2iy
 Marketplace price updates depend on two factors:
 
 - Editing product prices in the [price table](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) linked to the trade policy used by the marketplace integration.
-- [Product indexing](/en/tutorial/understanding-how-indexation-works--tutorials_256) after new prices are added. 
+- [Product indexing](/en/docs/tutorials/understanding-how-indexation-works) after new prices are added. 
 - For a scheduled fixed price to be applied in the marketplace, a price change must be made in the corresponding price list. This change acts as a trigger to notify the marketplace of the new price.
 
 > ⚠️ Only [fixed prices](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj) are used by our native marketplace integrations. Other scenarios seen in our [price system architecture](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx) are available only in VTEX marketplaces.

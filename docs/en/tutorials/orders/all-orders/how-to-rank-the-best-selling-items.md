@@ -22,8 +22,8 @@ While the **Orders** module primary goal is to manage the order flow, it is poss
 To get a list of SKUs sold in a certain period by order of top sellers, follow the steps below:
 
 1. In the VTEX Admin, go to **Orders > All Orders**, or type **All Orders** in the search bar at the top of the page.
-2. Using the [filters](/en/tutorial/filtrar-todos-pedidos--tutorials_192), choose the period you want information about. 
-3. Click the `Export` button in order to [export orders](/en/tutorial/exportacao-de-pedidos-gerenciamento-de-pedidos--tutorials_6417).
+2. Using the [filters](/en/docs/tutorials/filtering-all-orders), choose the period you want information about. 
+3. Click the `Export` button in order to [export orders](/en/docs/tutorials/exporting-orders-in-orders-module).
 4. Open your email and download the link within 72 hours; the link will expire after that period.
 
 Each line corresponds to an SKU purchased in a particular order. In the `Quantity_SKU` column, you have the SKU quantity for that order. And in the `ID_SKU` column, you have the SKU ID.

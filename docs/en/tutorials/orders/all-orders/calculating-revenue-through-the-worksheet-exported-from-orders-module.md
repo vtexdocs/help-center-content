@@ -15,20 +15,20 @@ locale: en
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-The **Orders** module displays the total revenue earned by your store according to the criteria set in the search [filters](/en/tutorial/filtrar-todos-pedidos--tutorials_192).
+The **Orders** module displays the total revenue earned by your store according to the criteria set in the search [filters](/en/docs/tutorials/filtering-all-orders).
 
-However, you may want to calculate the revenue in a given period from the [exported order worksheet](/en/tutorial/exportacao-de-pedidos-no-modulo-pedidos--tutorials_6417) from **Orders** module.
+However, you may want to calculate the revenue in a given period from the [exported order worksheet](/en/docs/tutorials/exporting-orders-in-orders-module) from **Orders** module.
 
 Since this worksheet lists dozens of order attributes, while using it you gain flexibility to filter them according to more criteria.
 
 To calculate the total revenue from the worksheet, follow the steps below:
 
 1. In the VTEX Admin, go to **Orders > All Orders**, or type **All Orders** in the search bar at the top of the page.
-2. [Export the orders](/en/tutorial/exportacao-de-pedidos-no-modulo-pedidos--tutorials_6417), choosing the desired time interval.
+2. [Export the orders](/en/docs/tutorials/exporting-orders-in-orders-module), choosing the desired time interval.
 3. Open your email and download the link within 72 hours; the link will expire after that period.
 4. Remove all duplicate values from the second column (__Order__). This must be done because in the case of carts with more than one SKU, several lines are generated for the same order - one for each SKU.
 5. Add the values in column __Total Value__. In this column you find the total value of the order (that is, already considering all SKUs in the cart).
 
 > ℹ️ The sum of values in the Total Value column (after the removal of duplicate orders) is the total revenue obtained from the selected orders in the worksheet.
 
-To understand all the columns, see the article [Order report](/en/tutorial/planilha-de-pedidos--31m1ewsmsEe0WS4So2aGMY).
+To understand all the columns, see the article [Order report](/en/docs/tutorials/order-report).

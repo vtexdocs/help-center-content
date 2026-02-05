@@ -26,7 +26,7 @@ To configure Stark Bank, follow the steps below:
 5. In the Stark Bank environment, enter your Stark Bank account login and password. Follow the indicated instructions to complete the Stark Bank account linking with VTEX.
 6. After returning to Admin VTEX, if you wish to modify the identification name to be displayed for the Stark Bank provider on the VTEX Admin screen, enter the information in the __Name__ field in __Basic Information__.
 7. In __Payment Control__, select whether you want to activate the provider in a test environment by clicking __Enable test mode__.
-8. If you want to use [payment split](/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx) in your store, select the option __Enable payout split and send payment recipients__ and indicate the __Accountable for payment processing charges__ and __Accountable for chargebacks__ (marketplace, sellers or marketplaces and sellers).
+8. If you want to use [payment split](/en/docs/tutorials/split-payment) in your store, select the option __Enable payout split and send payment recipients__ and indicate the __Accountable for payment processing charges__ and __Accountable for chargebacks__ (marketplace, sellers or marketplaces and sellers).
 9. In **Provider Fields**, select the desired option in __Habilitar consulta de boleto 1 hora após a emissão?__.
 10. If necessary, fill in the last field of the form with the identification tags for the receipt operations.
 11. Click `Save`.

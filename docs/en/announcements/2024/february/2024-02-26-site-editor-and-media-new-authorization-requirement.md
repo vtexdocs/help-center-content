@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Users now require CMS GraphQL API resource for content management. Update user roles accordingly.'
 ---
 
-As of Monday, March 18th, 2024, all [users](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) and [application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) that need access to [Site Editor](/en/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) and [Media](/en/tutorial/media-overview--31fhjHTt4TBoo50AmGQ9b2) will be required to have the `CMS GraphQL API` License Manager [resource](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) added to their [user roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) for content management. 
+As of Monday, March 18th, 2024, all [users](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) and [application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) that need access to [Site Editor](/en/docs/tutorials/site-editor-overview) and [Media](/en/docs/tutorials/media-overview) will be required to have the `CMS GraphQL API` License Manager [resource](/en/docs/tutorials/license-manager-resources) added to their [user roles](/en/docs/tutorials/roles) for content management. 
 
 ## What has changed?
 

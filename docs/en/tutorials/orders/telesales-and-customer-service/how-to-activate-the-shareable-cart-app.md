@@ -19,7 +19,7 @@ The [Shareable Cart](https://apps.vtex.com/vtex-social-selling/p) app allows sal
 
 ![Shareable Cart Demo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/telesales-and-customer-service/how-to-activate-the-shareable-cart-app_1.gif)
 
-This article explains how to install the app and configure this functionality in your store. After completing the activation steps, your sales assistants will be able to [follow the instructions](/en/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN) to start your Social Selling strategies.
+This article explains how to install the app and configure this functionality in your store. After completing the activation steps, your sales assistants will be able to [follow the instructions](/en/docs/tutorials/how-to-use-the-shareable-cart-app) to start your Social Selling strategies.
 
 ## Installation 
 
@@ -183,7 +183,7 @@ Then change the properties in the CSS code according to your needs.
 
 ### How is this functionality technically possible?
 
-The app uses VTEX's [shared cart](/en/tutorial/o-que-e-o-carrinho-compartilhado--3oKJZfoAoUm8g0ukCIGsUu) functionality, which allows more than one customer to add, remove or update items and information from the same cart.
+The app uses VTEX's [shared cart](/en/docs/tutorials/what-is-the-shared-cart) functionality, which allows more than one customer to add, remove or update items and information from the same cart.
 
 ### How to identify sales assistants and promotions?
 

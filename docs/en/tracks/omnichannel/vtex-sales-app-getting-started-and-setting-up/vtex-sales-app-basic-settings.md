@@ -80,7 +80,7 @@ After basic settings, configure your payment options in the **Payments** module.
 
 ## Linking the store product catalog to the storefront
 
-For the physical store catalog to be reflected in **VTEX Sales App**, you need to configure the [binding](/en/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W) in the CMS (Layout - [Legacy CMS](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj)). This configuration links the [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) to the storefront, ensuring that products will be displayed correctly.
+For the physical store catalog to be reflected in **VTEX Sales App**, you need to configure the [binding](/en/docs/tutorials/what-is-binding) in the CMS (Layout - [Legacy CMS](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj)). This configuration links the [trade policy](/en/docs/tutorials/how-trade-policies-work) to the storefront, ensuring that products will be displayed correctly.
 
 To configure the binding and ensure the store catalog is displayed in **VTEX Sales App**, follow the steps below:
 

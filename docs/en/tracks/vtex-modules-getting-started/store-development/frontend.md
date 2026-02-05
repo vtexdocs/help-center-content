@@ -25,7 +25,7 @@ Store Framework is based on composability, which allows the combination of diffe
 
 The way this feature extension happens is through VTEX apps that are available globally.
 
-Store Framework is a solution for building storefronts that leverages VTEX IO. Using it, you can rely on the user-friendly interface of [Site Editor](/en/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) and easily manage store content.
+Store Framework is a solution for building storefronts that leverages VTEX IO. Using it, you can rely on the user-friendly interface of [Site Editor](/en/docs/tutorials/site-editor-overview) and easily manage store content.
 
 ![vtex io](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/store-development/frontend_1.png)
 

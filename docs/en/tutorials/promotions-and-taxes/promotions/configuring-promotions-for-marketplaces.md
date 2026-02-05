@@ -95,9 +95,9 @@ See below the settings that are not available for marketplaces:
 
 | Name                                                                      | Description                                                                                                                                                                                               |
 | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Customer cluster                                                          | Discount given if the customer is part of the selected [cluster](/en/tutorial/como-criar-um-cluster-de-clientes--frequentlyAskedQuestions_1724).                                     |
-| Marketing tags                                                            | Used to limit the promotion's activation if the order is placed through [the VTEX Subscriptions module](/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453).     |
-| UTMs                                                                      | Discount given depending on the value of a given [UTM parameter](/en/tutorial/o-que-sao-utm-source-utm-campaign-e-utm-medium--2wTz7QJ8KUG6skGAoAQuii).                               |
+| Customer cluster                                                          | Discount given if the customer is part of the selected [cluster](/en/docs/tutorials/how-can-i-create-cluster-of-customers).                                     |
+| Marketing tags                                                            | Used to limit the promotion's activation if the order is placed through [the VTEX Subscriptions module](/en/docs/tutorials/how-subscriptions-work).     |
+| UTMs                                                                      | Discount given depending on the value of a given [UTM parameter](/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium).                               |
 | Campaign audience                                                         | Allows you to segment your store's promotions by defining [target audiences](/en/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m#publico-alvo) that meet specific criteria. |
 | Coupons                                                                   | Code that allows promotions to be applied to the total cart amount.                                                                                                                                       |
 | Cart maximum or minimum total amount                                      | Applied based on the total cart amount, regardless of other promotions or shipping.                                                                                                                       |
@@ -117,8 +117,8 @@ See below the settings that are not available for marketplaces:
 
 If necessary, you can segment promotions for specific marketplaces. You can obtain these results by using two selectors:
 
-- [Trade policy](/en/tutorial/what-is-a-sales-policy--563tbcL0TYKEKeOY4IAgAE): used when all target marketplaces share the same sales channel settings (catalog, price, and logistics).
-- [Affiliate](/en/tutorial/what-is-an-affiliate--4bN3e1YarSEammk2yOeMc0): used to select one or more specific marketplaces, even if they do not share the same sales channel settings.
+- [Trade policy](/en/docs/tutorials/creating-a-trade-policy): used when all target marketplaces share the same sales channel settings (catalog, price, and logistics).
+- [Affiliate](/en/docs/tutorials/what-is-an-affiliate): used to select one or more specific marketplaces, even if they do not share the same sales channel settings.
 
 ### Selection by trade policy
 
@@ -134,4 +134,4 @@ If necessary, you can segment promotions for specific marketplaces. You can obta
 3. In the **Sales Policy** section, select the **Equal to** and **Delivered by me (Other stores)** options.
 4. Click on `Save`.
 
-> ⚠️  Please remember to [reindex all products included in the promotion](/en/tutorial/entendendo-a-manutencao-da-base-de-dados--34P9LGs7BCIQK6acQom802) after you’ve created it and at the beginning and end of the promotions. This will ensure that the prices of your products are up to date.
+> ⚠️  Please remember to [reindex all products included in the promotion](/en/docs/tutorials/database-maintenance-full-cleanup) after you’ve created it and at the beginning and end of the promotions. This will ensure that the prices of your products are up to date.

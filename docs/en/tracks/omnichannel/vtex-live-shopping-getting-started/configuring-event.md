@@ -24,7 +24,7 @@ In the VTEX Admin, when you go to **Apps > Live Shopping**, or type **Live Shopp
 * [Product Highlight - Configuring collection display](#product-highlight-configuring-collection-display)
 * [CMS Configuration - Configuring content presentation](#cms-configuration-configuring-content-presentation)
 
-> ⚠️ This article describes the main settings for an event. It doesn't cover all sections of the **Event Information** page. For more information, see [Live Shopping: Events article](/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
+> ⚠️ This article describes the main settings for an event. It doesn't cover all sections of the **Event Information** page. For more information, see [Live Shopping: Events article](/en/docs/tutorials/live-shopping-events).
 
 ## Layout type - Configuring the style
 
@@ -59,7 +59,7 @@ By default, an event has a neutral visual style that is suitable for stores and 
 * Chat title
 * Send message button
 
-> ℹ️ The customizations above are made by clicking the **Customize the look and feel** button and completing the Look and Feel page to align with your preferences. For complete instructions, check [Live Shopping: Events](/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
+> ℹ️ The customizations above are made by clicking the **Customize the look and feel** button and completing the Look and Feel page to align with your preferences. For complete instructions, check [Live Shopping: Events](/en/docs/tutorials/live-shopping-events).
 
 ## Chat - Configuring the administrator name
 
@@ -69,7 +69,7 @@ The **Chat** section is where you manage the live chat during your event. If you
 2. In the **Store Information** window, enter the desired administrator name in the box.
 3. Click `Confirm`.
 
-> ℹ️ To learn how to pin messages, block users, delete messages, and perform other actions in the event chat, check [Live Shopping: Events](/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
+> ℹ️ To learn how to pin messages, block users, delete messages, and perform other actions in the event chat, check [Live Shopping: Events](/en/docs/tutorials/live-shopping-events).
 
 ## Promotions - Configuring coupons and promotions
 

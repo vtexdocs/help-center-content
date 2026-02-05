@@ -41,7 +41,7 @@ In this section, you can check the basic information of your VTEX account.
 
 ![Account details page - details](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/accounts/account-management_3.png)
 
-- **Main account name:** [VTEX account name](/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC).
+- **Main account name:** [VTEX account name](/en/docs/tutorials/what-is-an-account-name).
 - **Creation date:** The date your account was created.
 - **Account ID:** The unique code that identifies your account.
 - **Go-live date:** The date your account was activated and available for configuration and store implementation.
@@ -78,7 +78,7 @@ You can edit the company information by following the steps below:
 
 This section displays the account sponsor details. Each VTEX account has only one sponsor account, which has full access to all Admin sections, including important maintenance and authorization actions.
 
-> ℹ️ Learn more about the [sponsor user](/en/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy).
+> ℹ️ Learn more about the [sponsor user](/en/docs/tutorials/what-is-the-sponsor-user).
 
 ![Account details page - Sponsor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/accounts/account-management_5.png)
 
@@ -122,7 +122,7 @@ Follow the steps below to create a store:
 5. If you wish to start the [go-live](/en/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM) process for your store, fill in the **Hosts** field with [your store's domain](/en/tutorial/configurando-dominios-no-license-manager). Otherwise, leave it blank.
 6. Click the `Create` button.
 
-> ℹ️ To learn more about configuring your store's **Hosts**, read the article [Configure your store domain](/en/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
+> ℹ️ To learn more about configuring your store's **Hosts**, read the article [Configure your store domain](/en/docs/tutorials/configuring-the-store-domain).
 
 > ⚠️ Do not use a ".com" domain in the Store Name field. This type of entry can only exist in the Hosts field.
 
@@ -153,9 +153,9 @@ The name of the removed store cannot be used again.
 
 ## Learn more
 
-- [What is an account name?](/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC)
-- [Sponsor user](/en/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy)
+- [What is an account name?](/en/docs/tutorials/what-is-an-account-name)
+- [Sponsor user](/en/docs/tutorials/what-is-the-sponsor-user)
 - [Transferring store ownership](/en/tutorial/transferencia-de-propriedade-da-loja)
-- [Configure your store's domain](/en/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450)
+- [Configure your store's domain](/en/docs/tutorials/configuring-the-store-domain)
 - [Go-live](/en/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM)
 

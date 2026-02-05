@@ -19,15 +19,15 @@ Customers may request to cancel their order for various reasons. They can [cance
 
 > ❗ Once an order is canceled, it is no longer possible to change its status.
 
-> ⚠️ Orders with [partial invoices](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](/en/tutorial/como-cancelar-pedido--tutorials_186). If the customer wants to replace or remove items from the order, it is possible to [change the order](/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
+> ⚠️ Orders with [partial invoices](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](/en/docs/tutorials/canceling-orders). If the customer wants to replace or remove items from the order, it is possible to [change the order](/en/docs/tutorials/changing-items-from-a-complete-order).
 
 ## Cancellation within the grace period
 
-When the customer requests to cancel an order during the [grace period](/en/tutorial/setting-the-grace-period-for-order-cancellation--jYFdnPDtNm4WCEkYWqqC), the order is automatically canceled without needing the store's authorization. Until that moment, following the [order flow](/en/tutorial/order-flow-on-the-oms--tutorials_196), the retailer did not have to take any action regarding that order.
+When the customer requests to cancel an order during the [grace period](/en/docs/tutorials/setting-the-grace-period-for-order-cancellation), the order is automatically canceled without needing the store's authorization. Until that moment, following the [order flow](/en/docs/tutorials/order-flow-and-status), the retailer did not have to take any action regarding that order.
 
 * Customers must request the cancellation in __My Orders__, by clicking `Request order cancellation`.
 
-> ℹ️ When the customer requests the order's cancellation within the grace period, the notification of this action is sent only to the [Sponsor user](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) (admin master) of the account.
+> ℹ️ When the customer requests the order's cancellation within the grace period, the notification of this action is sent only to the [Sponsor user](/en/docs/tutorials/roles) (admin master) of the account.
 
 ## Cancellation approved by the retailer
 
@@ -38,7 +38,7 @@ When the customer requests to cancel an order outside the grace period, the reta
 
 The retailer must approve or reject the cancellation request. If the retailer does not approve it, we recommend telling the customer about the impossibility of canceling the order.
 
-Even if the retailer uses the [VTEX DO](/en/tutorial/vtex-do--7KMbRL4OslN8DTX9oiuCiu) to deny the cancellation requested by the customer, the retailer must proceed with the order's [billing](/en/tutorial/faturar-um-pedido--7p1h852V5t54KyscpgxE2v), which is what makes the order follow its flow.
+Even if the retailer uses the [VTEX DO](/en/docs/tutorials/vtex-do-interface) to deny the cancellation requested by the customer, the retailer must proceed with the order's [billing](/en/docs/tutorials/how-to-manually-invoice-an-order), which is what makes the order follow its flow.
 
 > ⚠️ If the [Order replacement](/en/tutorial/order-replacement--2IK9mwQjBKseQmE8K8saO8#enabling-the-feature) feature is enabled, customers will be able to change or cancel orders at any time, including after the grace period for cancellation.
 
@@ -60,5 +60,5 @@ To change the options, follow the steps below:
 - [Why was my order canceled?](/en/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493)
 - [Setting the grace period for order cancellation](/en/tutorial/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido)
 - [Why was my order canceled on the VTEX platform, and not in the marketplace?](/en/faq/por-que-meu-pedido-foi-cancelado)
-- [Order replacement](/en/tutorial/order-replacement--2IK9mwQjBKseQmE8K8saO8)
+- [Order replacement](/en/docs/tutorials/order-replacement)
 

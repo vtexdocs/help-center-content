@@ -28,9 +28,9 @@ To configure PayJoy, follow the steps below:
 7. In **Provider Fields**, complete the fields **Partner**, **Country**, **Device Model Id**, **Memory Id**, **Capacity Id**, **Color Id**, **Os Id**, **Imei**, and **Test Mode** according to the provider's  instructions.
 8. Click `Save`.
 
-To configure the payment methods to be processed by PayJoy, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455).
+To configure the payment methods to be processed by PayJoy, access [Configuring Payment Conditions](/en/docs/tutorials/how-to-configure-payment-conditions).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456).
+To set special conditions on payment methods, go to [Configuring payment special conditions](/en/docs/tutorials/special-conditions).
 
 After following the indicated steps, PayJoy may take up to 10 minutes to appear at your store's  checkout as a payment option.
 

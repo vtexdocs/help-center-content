@@ -17,9 +17,9 @@ announcementSynopsisEN: 'Now, canceled Amazon orders are automatically canceled 
 
 We have developed a new cancellation flow for orders in the integration between VTEX and [Amazon](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP), automating the process and eliminating the need for manual cancellations.  
 
-Previously, the integration didn't have an automated flow, and sellers had to cancel orders manually in the VTEX Admin. When an order had not yet been integrated with VTEX, the SKUs remained reserved, compromising the store [inventory](/en/tutorial/gerenciar-inventario--tutorials_139).  
+Previously, the integration didn't have an automated flow, and sellers had to cancel orders manually in the VTEX Admin. When an order had not yet been integrated with VTEX, the SKUs remained reserved, compromising the store [inventory](/en/docs/tutorials/managing-stock-items).  
 
-Now, [canceled orders](/en/tutorial/declining-order-cancellation--F2n0h1TeQ5td540Gjyff4) on Amazon are automatically canceled on VTEX, and the reserved SKUs become available for sale. The new cancellation flow is valid for cancellations made by the seller, Amazon, or the customer.  
+Now, [canceled orders](/en/docs/tutorials/declining-order-cancellation) on Amazon are automatically canceled on VTEX, and the reserved SKUs become available for sale. The new cancellation flow is valid for cancellations made by the seller, Amazon, or the customer.  
 
 ## Why did we make this change?
 VTEX has implemented this flow to make this order cancellation process more efficient. This change gives sellers the following benefits:  

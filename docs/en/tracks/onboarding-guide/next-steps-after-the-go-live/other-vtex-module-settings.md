@@ -23,13 +23,13 @@ Once you have configured the required [Promotions](/en/tracks/vtex-store-overvie
 
 ### Customer clusters
 
-To provide exclusive purchasing advantages for a specific group of people or companies, you can [create custom promotions](/en/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342) for a customer cluster in your store. In this context, promotion details will only be displayed in the shopping cart after the selected customers log in to the site. 
+To provide exclusive purchasing advantages for a specific group of people or companies, you can [create custom promotions](/en/docs/tutorials/creating-promotion-for-a-customer-cluster) for a customer cluster in your store. In this context, promotion details will only be displayed in the shopping cart after the selected customers log in to the site. 
 
 ### Promotion competition
 
 When the store has multiple active promotions with similar characteristics that could be applied to the same product simultaneously, we have a scenario of promotion competition. In this situation, you should understand the priority in which the promotions will be applied to the product to ensure that the sales strategy is being used correctly.
 
-Learn more in the [How promotion competition works](/en/tutorial/how-promotion-competition-works--tutorials_2270) article.
+Learn more in the [How promotion competition works](/en/docs/tutorials/how-promotion-competition-works) article.
 
 ### Marketplace promotions
 
@@ -40,7 +40,7 @@ Stores operating as a VTEX marketplace can only configure [regular promotions](/
 - Percentage price
 - Price tables
 
-Learn more in the [Configuring promotions for marketplaces](/en/tutorial/configuring-promotions-for-marketplaces--tutorials_406) article.
+Learn more in the [Configuring promotions for marketplaces](/en/docs/tutorials/configuring-promotions-for-marketplaces) article.
 
 ## Logistics
 
@@ -73,11 +73,11 @@ After configuring the required [Order](/en/tracks/vtex-store-overview-eSDNk26pdv
 
 ### Subscriptions
 
-To allow customers to make recurring purchases of their favorite products at their desired frequency automatically, you can set up a repurchase schedule in the platform's [Subscription System](/en/tutorial/how-subscriptions-work--frequentlyAskedQuestions_4453).
+To allow customers to make recurring purchases of their favorite products at their desired frequency automatically, you can set up a repurchase schedule in the platform's [Subscription System](/en/docs/tutorials/how-subscriptions-work).
 
 ### VTEX DO
 
-[VTEX DO](/en/tutorial/vtex-do-interface--7KMbRL4OslN8DTX9oiuCiu) is the management system for tasks related to order processing in the store. It allows store operators to manually process tasks that are automatically created by the VTEX Admin. VTEX DO offers the following features:
+[VTEX DO](/en/docs/tutorials/vtex-do-interface) is the management system for tasks related to order processing in the store. It allows store operators to manually process tasks that are automatically created by the VTEX Admin. VTEX DO offers the following features:
 
 - Search and filter by status (open, not assigned) or subject (catalog, commercial, infrastructure).
 - Access details and information for completing each task.
@@ -87,7 +87,7 @@ To allow customers to make recurring purchases of their favorite products at the
 
 ### VTEX Social Selling
 
-[VTEX Social Selling](/en/tutorial/como-ativar-o-app-carrinho-compartilhavel--1lS3fQdXpOoC0BTeVhydfg) allows sales associates to select products and share them with customers via communication channels such as WhatsApp, Facebook Messenger, and email. This feature can be used in online and physical store operations ([VTEX Sales App](/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm#vtex-sales-app)).
+[VTEX Social Selling](/en/docs/tutorials/how-to-activate-the-shareable-cart-app) allows sales associates to select products and share them with customers via communication channels such as WhatsApp, Facebook Messenger, and email. This feature can be used in online and physical store operations ([VTEX Sales App](/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm#vtex-sales-app)).
 
 ## B2B Suite
 [B2B Suite](/en/tutorial/b2b-suite-overview--5eG6UfveWrai7looK0kVG3#b2b-suite-apps) is a collection of [VTEX IO apps](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-io) that helps stores manage organizations, permissions, and checkout settings in B2B scenarios, among other benefits. This is very important for streamlining the purchase flow, reducing costs, and providing a personalized shopping experience.

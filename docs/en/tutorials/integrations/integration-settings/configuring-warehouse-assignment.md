@@ -21,7 +21,7 @@ The **Warehouse assignment** feature allows you to sync different logistics poin
 
 To use the **Warehouse assignment** feature, your VTEX account must meet the three requirements below:  
 
-- Have your account enabled for [warehouse assignment](/en/tutorial/alocacao-de-estoque-no-mercado-livre--6BfmmAFctWbi7hxJlxCU1S).  
+- Have your account enabled for [warehouse assignment](/en/docs/tutorials/warehouse-assignment-on-mercado-libre).  
 - Have your account enabled for the new model for [adding products](/en/announcements/2025-06-30-new-offer-model-on-mercado-libre) and have at least one offer using the new model.  
 - Have active warehouses in the VTEX Shipping Strategy module.  
 
@@ -44,7 +44,7 @@ These options can be combined to further refine the seller's search.
 
 The warehouse table consists of the columns: **VTEX warehouse, Type, Status** and **Mercado Libre warehouse.**  
 
-- **VTEX warehouse** lists all active warehouses in the [Shipping strategy](/en/tutorial/gerenciar-estoque--tutorials_137) module.  
+- **VTEX warehouse** lists all active warehouses in the [Shipping strategy](/en/docs/tutorials/managing-warehouses) module.  
 - **Type**  
 - **Status** shows whether a VTEX warehouse is assigned to a Mercado Libre warehouse or is still pending.  
 - **Mercado Libre warehouse** displays the `Assign` button if a VTEX warehouse has the **Pending** status. If the VTEX warehouse has the status **Assigned,** it shows the name and ID of the Mercado Libre warehouse.  
@@ -118,8 +118,8 @@ When you select this option, you'll be redirected to the warehouse configuration
 
 1. Select the desired warehouse.  
 2. In the actions menu <i class="ph ph-dots-three-vertical"></i>, click `Manage VTEX warehouse`.  
-3. You'll be taken to the corresponding warehouse record in the [Logistics module](/en/tutorial/logistica--53udnvI5eBy8DKo8FOjMoP).  
-4. Make the desired changes following the [Managing warehouses](/en/tutorial/gerenciar-estoque--tutorials_137) tutorial.  
+3. You'll be taken to the corresponding warehouse record in the [Logistics module](/en/docs/tutorials/fulfillment-logistics-vtex).  
+4. Make the desired changes following the [Managing warehouses](/en/docs/tutorials/managing-warehouses) tutorial.  
 
 ### Unassigning warehouses
 

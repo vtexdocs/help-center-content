@@ -29,7 +29,7 @@ VTEX offers different protections against possible attacks on stores. Still, the
 
 Anti-fraud systems specialize in analyzing ecommerce purchases to identify fraudulent transactions. They analyze customers' behavioral data and prevent suspicious purchases from being made.
 
-Learn more about [anti-fraud systems](/en/tutorial/what-is-anti-fraud--69SjFCc4rC6Ii0OMAeYAsG) and how to use them on VTEX.
+Learn more about [anti-fraud systems](/en/docs/tutorials/what-is-anti-fraud) and how to use them on VTEX.
 
 > ⚠️ To increase security, set up your anti-fraud solution for all the payment methods available in your store.
 
@@ -50,7 +50,7 @@ Learn more about how to set up this verification at your store's checkout in the
 
 ## orderForm settings
 
-To access the documentation on this topic, insert your VTEX [account name](/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC) below, click the button and login into the Admin panel.
+To access the documentation on this topic, insert your VTEX [account name](/en/docs/tutorials/what-is-an-account-name) below, click the button and login into the Admin panel.
 
 <iframe src="https://vtexhelp.myvtex.com/insertaccountname?id=7EAqNk48KP2QHnCxu856jT" title="Insert your account name and click the button." frameBorder="0" width="400" height="50"></iframe>
 
@@ -63,5 +63,5 @@ To perform this configuration:
 1. Go to **Account settings** > **Authentication**.
 2. Disable the **password** field.
 
-Learn more about how to [manage authentication methods](/en/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs) for your store.
+Learn more about how to [manage authentication methods](/en/docs/tutorials/authentication) for your store.
 

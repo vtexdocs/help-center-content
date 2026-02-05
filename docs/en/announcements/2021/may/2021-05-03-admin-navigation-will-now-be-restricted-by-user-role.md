@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Users will only see the sidebar menu items they’re allowed to access, according to their user roles and permissions.'
 ---
 
-[Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) allow stores to grant users access only to a selection of resources on our platform. While this was enough to protect your account's data integrity and security, users could still see the sidebar menu items for restricted sections of the admin. These sections are no longer visible, so that users will only be able to see the items they are allowed to access. 
+[Roles](/en/docs/tutorials/roles) allow stores to grant users access only to a selection of resources on our platform. While this was enough to protect your account's data integrity and security, users could still see the sidebar menu items for restricted sections of the admin. These sections are no longer visible, so that users will only be able to see the items they are allowed to access. 
 
 > ℹ️ This action has a low impact on store’s operations, since it involves a reorganization of the left navigation, and not changes in individual user roles.  Also, no predefined settings will be lost: if your users already had pre-defined roles and permissions, they will remain the same.
 
@@ -37,5 +37,5 @@ The goal of this housekeeping procedure is to limit visualization of critical mo
 
 No action is needed! All users should automatically see only the sidebar menu items they are allowed to access.
 
-If a user in your account can no longer see a sidebar menu item they should be able to see, double check their permissions. You can learn more about [user roles](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) and [creating custom roles](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) through our Help Center articles.
+If a user in your account can no longer see a sidebar menu item they should be able to see, double check their permissions. You can learn more about [user roles](/en/docs/tutorials/roles) and [creating custom roles](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) through our Help Center articles.
 

@@ -35,10 +35,10 @@ To configure the favicon in Legacy Portal CMS stores, follow the instructions be
 
 3. Click `Browse for file` to add the image file in the `.ico` format.
 
-    > ⚠️ The file name should follow the pattern ***{storeName}**-favicon.ico*. Replace the variable **{storeName}** with the store name in [Account management](/en/tutorial/account-management--2vhUVOKfCaswqLguT2F9xq).
+    > ⚠️ The file name should follow the pattern ***{storeName}**-favicon.ico*. Replace the variable **{storeName}** with the store name in [Account management](/en/docs/tutorials/account-management).
 
     ![store-name-favicon](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/configuring-favicon-in-your-store_4.png)
 
-4. Configure the [templates](/en/tutorial/what-are-templates--4l7BQBYO9ycumsqua2CU88) with the element `<link>` inside `<head>`, as follows: `<link rel="shortcut icon" href="/arquivos/**{storeName}**-favicon.ico" />`. The variable `{storeName}` should be replaced with the store name.
+4. Configure the [templates](/en/docs/tutorials/what-are-templates) with the element `<link>` inside `<head>`, as follows: `<link rel="shortcut icon" href="/arquivos/**{storeName}**-favicon.ico" />`. The variable `{storeName}` should be replaced with the store name.
 
     > ℹ️ You can configure the favicon using another file name, which will create a URL different from the default. However, as Checkout and OrderPlaced load the URL following this pattern, we recommend following the format above.

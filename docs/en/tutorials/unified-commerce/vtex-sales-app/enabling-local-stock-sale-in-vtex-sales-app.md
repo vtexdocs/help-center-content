@@ -29,21 +29,21 @@ Local stock sale allows the sales associate in a physical store to complete sale
 
 ## Creating a franchise account
 
-The first step is to [request the creation of a franchise account](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/eujH0id9Y4WJjjmdazUKd) for your physical store. The [franchise account](/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) will be linked to the main account of your store and will inherit its catalog. If you already have a franchise account, go to the next step.
+The first step is to [request the creation of a franchise account](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/eujH0id9Y4WJjjmdazUKd) for your physical store. The [franchise account](/en/docs/tutorials/what-is-a-franchise-account) will be linked to the main account of your store and will inherit its catalog. If you already have a franchise account, go to the next step.
 
 ## Creating a seller
 
-After creating a franchise account, you need to [create a seller](/en/tutorial/adicionar-seller--tutorials_392) to represent the physical store in the main account linked to the franchise account. To check whether your store uses store pickup or sellers to represent physical stores, go to the **[Seller Management](/en/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv)** page of your Admin and search for the physical store's name.
+After creating a franchise account, you need to [create a seller](/en/docs/tutorials/adding-a-seller) to represent the physical store in the main account linked to the franchise account. To check whether your store uses store pickup or sellers to represent physical stores, go to the **[Seller Management](/en/docs/tutorials/seller-management)** page of your Admin and search for the physical store's name.
 
 ## Setting up a pickup point
 
-After creating the franchise account, you need to add the address of the physical store as an available [pickup point](/en/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R). To do this, follow the instructions in [How to set up pickup points](/en/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#como-configurar-pontos-de-retirada).
+After creating the franchise account, you need to add the address of the physical store as an available [pickup point](/en/docs/tutorials/pickup-points). To do this, follow the instructions in [How to set up pickup points](/en/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#como-configurar-pontos-de-retirada).
 
 The created pickup point will be assigned an ID that you will need when [Creating a warehouse](#creating-a-warehouse). If you lose the ID, you can view it in the **Pickup Points** screen of the VTEX Admin, under the **ID** column.
 
 ## Creating a warehouse
 
-After you have the pickup point, you need to indicate which [warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) is available for your physical store in each seller. You can share an available warehouse between the ecommerce website and the physical operation, or you can create a separate warehouse for physical store sales. To enable a warehouse for Sales App, follow the steps below:
+After you have the pickup point, you need to indicate which [warehouse](/en/docs/tutorials/warehouse) is available for your physical store in each seller. You can share an available warehouse between the ecommerce website and the physical operation, or you can create a separate warehouse for physical store sales. To enable a warehouse for Sales App, follow the steps below:
 
 1. In the VTEX Admin, go to **Shipping > Shipping Strategy > Warehouses**, or type **Shipping Strategy** in the search bar at the top of the page.
 2. Click `+ Create Warehouse`.
@@ -53,9 +53,9 @@ After you have the pickup point, you need to indicate which [warehouse](/en/tuto
 
 ## Updating the inventory
 
-It is a good practice to check the items available in the [inventory](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) and update it after activating the warehouse and pickup point. You can check the store inventory in two ways:
+It is a good practice to check the items available in the [inventory](/en/docs/tutorials/managing-stock-items) and update it after activating the warehouse and pickup point. You can check the store inventory in two ways:
 
-- **Manually**: Through the **[Inventory management](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139)** page in the VTEX Admin of the franchise account.
+- **Manually**: Through the **[Inventory management](/en/docs/tutorials/managing-stock-items)** page in the VTEX Admin of the franchise account.
 - **ERP integration**: Through the [ERP integration](https://developers.vtex.com/docs/guides/erp-integration-guide) by adding the franchise accounts to your integration so the [warehouse is automatically updated](https://developers.vtex.com/docs/guides/erp-integration-import-inventory#update-sku-inventory) by the ERP.
 
 If all your products are listed without quantity, you will need to add the quantities of this store manually or via API.
@@ -95,7 +95,7 @@ You can also enable On Hands to ignore stock quantity and force item availabilit
 
 ## Enabling mixed cart sales (optional)
 
-A mixed cart sale is a sale that contains items that the customer is going to pick up at the store when shopping and items that will be delivered to their home. This functionality is configured by default in VTEX stores. To learn more about this feature, read [Order split and delivery split](/en/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV).
+A mixed cart sale is a sale that contains items that the customer is going to pick up at the store when shopping and items that will be delivered to their home. This functionality is configured by default in VTEX stores. To learn more about this feature, read [Order split and delivery split](/en/docs/tutorials/order-split-and-delivery-split).
 
 ## Integrating the point of sale
 

@@ -94,7 +94,7 @@ To configure the acquirer that will process your store payments, go to [Configur
 
 ### Invoicing
 
-To issue the invoice to the consumer, VTEX has integrations with ERP and other systems responsible for this part of the process. You can learn more about this functionality by referring to the [Electronic invoice integration guide](/en/tutorial/guia-de-integracao-do-gerenciamento-de-pedidos-com-cf-e-para-o-vtex-instore--51xsyWzGiQ08KMO2EaaGAa).
+To issue the invoice to the consumer, VTEX has integrations with ERP and other systems responsible for this part of the process. You can learn more about this functionality by referring to the [Electronic invoice integration guide](/en/docs/tutorials/guide-to-integration-of-orders-managment-with-electronic-tax-coupon-for-vtex-sales-app).
 
 The invoicing partners we recommend are:
 
@@ -125,7 +125,7 @@ The prerequisites for implementing these strategies are all the items described 
 
 Additional recommendations:
 
-- Activating the **Checkout v6** module. Please refer to the article[ Activating Checkout v6](/en/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH) for more information.
+- Activating the **Checkout v6** module. Please refer to the article[ Activating Checkout v6](/en/docs/tutorials/enable-checkout-v6) for more information.
 - Pricing: we recommend that your physical stores inherit the prices from your ecommerce. However, if you decide to have different prices, please consider the requirements and remarks below.
     - It is necessary to involve a partner agency to regionalize the catalog.
     - This may affect price comparison tools, as they only receive one price.

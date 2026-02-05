@@ -39,7 +39,7 @@ First, you must fill in the TikTok integration configuration form with the reque
 
 In this part of the form, you need to fill in information that will be used to integrate your product catalog with TikTok.
 
-* **Affiliate ID:** the identifier of the [new affiliate](/en/tutorial/what-is-an-affiliate--4bN3e1YarSEammk2yOeMc0) you want to create for the integration. The affiliate ID must contain only 3 consonants and cannot be associated with an existing affiliate. We suggest using `TKT` to easily identify TikTok. It is important to check if the ID is not in use in **Orders management > Settings > Affiliates**. The affiliate will be created automatically when you complete the configuration. 
+* **Affiliate ID:** the identifier of the [new affiliate](/en/docs/tutorials/what-is-an-affiliate) you want to create for the integration. The affiliate ID must contain only 3 consonants and cannot be associated with an existing affiliate. We suggest using `TKT` to easily identify TikTok. It is important to check if the ID is not in use in **Orders management > Settings > Affiliates**. The affiliate will be created automatically when you complete the configuration. 
 
 * **Trade policy:** a field to select the trade policy to be associated with a catalog integrated with TikTok. Currently, the integration only accepts trade policies with BRL as currency. See the [Sending product data to TikTok](#sending-product-data-to-tiktok) section for more information.
 

@@ -15,21 +15,21 @@ locale: en
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-The [Order Details](/en/tutorial/pagina-de-detalhes-do-pedido-interface--2Y75n54Cc9VizrlG1N6ZNl) page gathers the data of a particular order and allows the retailer to follow the detailed order flow. 
+The [Order Details](/en/docs/tutorials/order-details-page) page gathers the data of a particular order and allows the retailer to follow the detailed order flow. 
 
 It is also on this page that the store can manually add and check the [order invoice](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT). You can also send a [partial invoice](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) when there is a change in the order's cost, items, or when items are returned.
 
-To invoice the order on the VTEX platform, you need to add the items' invoice to the **Orders** module. You must invoice the order so that the invoice is available to the customer and the [order flow](/en/tutorial/order-flow-on-the-oms--tutorials_196) is complete. The invoice can be sent:
+To invoice the order on the VTEX platform, you need to add the items' invoice to the **Orders** module. You must invoice the order so that the invoice is available to the customer and the [order flow](/en/docs/tutorials/order-flow-and-status) is complete. The invoice can be sent:
 
 * Via [API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
 * Via VTEX Admin.
 
-> ℹ️ You can change the [carrier](/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) associated with the order when invoicing it. To do so, in the **Order Tracking** section, click *Carrier* and select the desired option.
+> ℹ️ You can change the [carrier](/en/docs/tutorials/carriers-on-vtex) associated with the order when invoicing it. To do so, in the **Order Tracking** section, click *Carrier* and select the desired option.
 
 To send the invoice via VTEX Admin, follow the steps below:
 
 1. In the VTEX Admin, go to **Orders > All orders**, or type **All orders** in the search bar at the top of the page.  
-2. Search for the order by using the search bar [or the filters](/en/tutorial/como-filtrar-pedidos--tutorials_192).  
+2. Search for the order by using the search bar [or the filters](/en/docs/tutorials/filtering-all-orders).  
 3. Click the desired order.     
 4. Scroll down to the Invoice to items section, and click on the arrow icon <i class="fas fa-chevron-right"></i> to expand.  
 ![Itens faturarEN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/how-to-manually-invoice-an-order_1.png)
@@ -66,4 +66,4 @@ After the order is `Invoiced`, go to the **Invoice** section to check the invoic
 
 For [partial invoices](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), when [changing or removing items from an order](/en/tutorial/how-to-change-order-items--7jekq618QxgbsOxKkXBjE8), the order total will be updated after invoicing and will correspond to what is settled by the VTEX payment gateway.
 
-Orders with [partial invoices](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](/en/tutorial/como-cancelar-pedido--tutorials_186). If the customer wants to replace or remove items from the order, it is possible to [change the order](/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
+Orders with [partial invoices](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](/en/docs/tutorials/canceling-orders). If the customer wants to replace or remove items from the order, it is possible to [change the order](/en/docs/tutorials/changing-items-from-a-complete-order).

@@ -101,7 +101,7 @@ During UAT, testers explore the site, make test purchases, and evaluate the over
 
 Once the necessary tests and fixes have been completed, you must prepare the store for the go-live. Between three and seven days before the official launch date, you should do the following:
 
-1. [Register the domain on VTEX](/en/tutorial/configuring-domains-in-account-management--tutorials_2450): Go to **Account settings** in the VTEX Admin to connect the address to the store.
+1. [Register the domain on VTEX](/en/docs/tutorials/configuring-the-store-domain): Go to **Account settings** in the VTEX Admin to connect the address to the store.
 
    > ⚠️ Once you have registered the domain, you have seven days to complete the go-live. If the store does not complete the necessary go-live procedures within this period, you will need to go back to the registration and save it again.
 
@@ -123,7 +123,7 @@ Once the necessary tests and fixes have been completed, you must prepare the sto
     </tr>
     <tr class="bb b--muted-3">
       <td class="t-body pa5" style="min-width: 10rem;">Legacy CMS Portal</td>
-      <td class="t-body pa5" style="min-width: 10rem;">If access to the store is restricted by a [trade policy](/en/tutorial/creating-a-trade-policy--563tbcL0TYKEKeOY4IAgAE) with a conditional rule, and your storefront was built using [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), you need to request a [special internal pointing](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#requesting-special-pointing). A typical example is B2B stores, which restrict access to pre-approved companies. The special pointing request is made by [VTEX Support](https://supporticket.vtex.com/support), indicating the trade policy and the configured conditional rule.</td>
+      <td class="t-body pa5" style="min-width: 10rem;">If access to the store is restricted by a [trade policy](/en/docs/tutorials/creating-a-trade-policy) with a conditional rule, and your storefront was built using [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), you need to request a [special internal pointing](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#requesting-special-pointing). A typical example is B2B stores, which restrict access to pre-approved companies. The special pointing request is made by [VTEX Support](https://supporticket.vtex.com/support), indicating the trade policy and the configured conditional rule.</td>
     </tr>
   </tbody>
   </table>
@@ -134,7 +134,7 @@ Regardless of the request type, the ticket to VTEX Support must have the followi
 - If the [storefront technology](http://link-implement-frontend) was developed on VTEX IO or Legacy CMS Portal.
 - URL to be pointed to.
 - Time for internal pointing to be carried out, between 9 a.m. and 5 p.m. UTC-3.
-- Indicate if the store has conditional rules for [trade policies](/en/tutorial/creating-a-trade-policy--563tbcL0TYKEKeOY4IAgAE).
+- Indicate if the store has conditional rules for [trade policies](/en/docs/tutorials/creating-a-trade-policy).
 - If you are migrating a live site to VTEX, indicate whether it uses Cloudfront.
 
 > ⚠️ After receiving confirmation of the internal pointing, you are required to complete the standard DNS pointing within five days. Otherwise, the internal pointing will be deleted, and you must submit a new request.
@@ -161,14 +161,14 @@ After the store's official launch, you should ensure that customers have access 
 
 After the go-live, you can access the store on the [registered domain](/en/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#registering-the-domain-on-vtex). However, you may need to redirect old addresses or addresses without the `www` subdomain to ensure access to the new store address. To do this, we recommend checking the tutorials from the following articles:
 
-- [Redirection from other addresses](/en/tutorial/redirection-from-other-addresses--3Xi2AeLUx2QpJQu8DTX8KQ)
-- [Configuring access without www](/en/tutorial/configuring-access-without-www--tutorials_4278)
+- [Redirection from other addresses](/en/docs/tutorials/redirect-from-other-addresses)
+- [Configuring access without www](/en/docs/tutorials/best-practices-for-accessing-the-store-without-www)
 
 ### Monitoring store performance
 
-We recommend monitoring the store's performance after launch using the [Dashboards](/en/tutorial/dashboards-overview--1yn2nZUoXtDO3teTEJsCNl) menu in the VTEX Admin, which includes the following pages:
+We recommend monitoring the store's performance after launch using the [Dashboards](/en/docs/tutorials/dashboards-overview) menu in the VTEX Admin, which includes the following pages:
 
-- [Overview](/en/tutorial/store-overview--P8ahguoRs0U3PzmXg2wuQ): The main metrics that impact store revenue. In this dashboard, you can monitor the main sales evolution metrics by analyzing order trends, conversion rates, and sales funnel charts.
-- [Sales Performance](/en/tutorial/sales-performance--3DMube0sEsK9vPcRYGas72): Dashboard for unified commerce, which helps stores grow their business and make more accurate decisions.
+- [Overview](/en/docs/tutorials/store-overview): The main metrics that impact store revenue. In this dashboard, you can monitor the main sales evolution metrics by analyzing order trends, conversion rates, and sales funnel charts.
+- [Sales Performance](/en/docs/tutorials/sales-performance): Dashboard for unified commerce, which helps stores grow their business and make more accurate decisions.
 
-Besides the tools available in the VTEX Admin, you can also monitor your store's performance through [Google Analytics](https://analytics.google.com/analytics/web/), provided it has been previously set up. For more information, see the [Configuring Google Analytics 4 in VTEX stores](/en/tutorial/how-to-setup-google-analytics-in-vtex-store--G2P0rmSrEiqCcmUMyUUwG) guide.
+Besides the tools available in the VTEX Admin, you can also monitor your store's performance through [Google Analytics](https://analytics.google.com/analytics/web/), provided it has been previously set up. For more information, see the [Configuring Google Analytics 4 in VTEX stores](/en/docs/tutorials/how-to-setup-google-analytics-in-vtex-store) guide.

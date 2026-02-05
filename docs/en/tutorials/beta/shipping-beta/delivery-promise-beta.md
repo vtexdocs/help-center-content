@@ -41,7 +41,7 @@ Besides being able to buy all the products viewed, customers can filter the prod
 * Product delivery deadline.
 * Products available in stores near the customer's location.
 * Faster shipping method to deliver the order.
-* [Pickup point](/en/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) where you want to pick up the order.
+* [Pickup point](/en/docs/tutorials/pickup-points) where you want to pick up the order.
 
 At this stage, **Delivery Promise (Beta)** allows your store's customers to filter the products displayed in the navigation by using these filters:
 
@@ -56,12 +56,12 @@ At this stage, **Delivery Promise (Beta)** allows your store's customers to filt
 
 **Delivery Promise (Beta)** is suitable for all types of operations, as the solution provides many advantages for any business model. Learn about the store architecture requirements for participating in the current beta phase in the [Requirements and restrictions](#requirements-and-restrictions) section.
 
-For [omnichannel](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) operations, the greater the coverage of the logistics network and the number of sellers and [franchise accounts](/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) associated with the operation, the greater the benefits gained. The table below shows the main advantages:
+For [omnichannel](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) operations, the greater the coverage of the logistics network and the number of sellers and [franchise accounts](/en/docs/tutorials/what-is-a-franchise-account) associated with the operation, the greater the benefits gained. The table below shows the main advantages:
 
 | **Advantage** | **Details** |
 | :---: | :--- |
 | Fewer abandoned carts | Customers often abandon an order after entering their location in the cart step when they find out it can't be shipped to their location or that the shipping time doesn't meet their expectations.With **Delivery Promise (Beta)**, the availability and delivery feasibility of each product the customer sees on the product listing page are considered based on the customer's location. Besides this, shipping information is displayed from the beginning of the customer's buying journey. |
-| Increased product assortment on the product listing page | Without **Delivery Promise (Beta)**, the product assortment displayed on the product listing page may not reflect all available products from sellers due to limitations in features such as [seller regionalization](/en/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw), [comprehensive seller](/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI) and the [seller selection algorithm](/en/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa).With the **Delivery Promise (Beta)**, the customer can view the complete product assortment of all sellers, provided that:<ul><li>They are correctly configured.</li><li>They are available in stock.</li><li>Have a valid shipping method to the address entered by the customer.</li></ul> |
+| Increased product assortment on the product listing page | Without **Delivery Promise (Beta)**, the product assortment displayed on the product listing page may not reflect all available products from sellers due to limitations in features such as [seller regionalization](/en/docs/tutorials/configure-seller-regionalization), [comprehensive seller](/en/docs/tutorials/comprehensive-seller) and the [seller selection algorithm](/en/docs/tutorials/white-label-sellers-selection).With the **Delivery Promise (Beta)**, the customer can view the complete product assortment of all sellers, provided that:<ul><li>They are correctly configured.</li><li>They are available in stock.</li><li>Have a valid shipping method to the address entered by the customer.</li></ul> |
 | Improved shopping experience | **Delivery Promise (Beta)** promotes a better shopping experience for the customer as a whole:<ul><li>It eliminates any frustration at checkout when they find it impossible to place an order.</li><li>It allows customers to view more products.</li><li>It allows customers to browse the storefront in a way that meets their needs, whether they prioritize the type of shipment or choose to place an order in a physical store.</li></ul> |
 | Promotion of physical stores sales | **Delivery Promise (Beta)** gives customers confidence in finding certain products in physical stores, which encourages them to go to the stores and increases sales opportunities. |
 
@@ -76,7 +76,7 @@ To join the current phase of **Delivery Promise (Beta)**, you must meet the foll
 
 ### Learn more
 
-* [Delivery Promise: FAQ](/en/tutorial/delivery-promise-faq--2frHHK5uPsQrLK5XbYHALN)
+* [Delivery Promise: FAQ](/en/docs/tutorials/delivery-promise-faq)
 * [Setting up Delivery Promise components (Beta)](https://developers.vtex.com/docs/guides/setting-up-delivery-promise-components)
 * [Delivery promise for headless stores (Beta)](https://developers.vtex.com/docs/guides/delivery-promise-for-headless-stores)
 * [Delivery Promise for FastStore](https://developers.vtex.com/docs/guides/faststore/features-delivery-promise)

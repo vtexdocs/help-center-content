@@ -32,11 +32,11 @@ This page defines which features can be viewed and/or edited by the user within 
 
 ## Account
 
-On this page, you can access basic data about the online store, domain and multidomain settings, access keys for APIs, company logo, and contact information. For more information, see the article [Account details page](/en/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq).
+On this page, you can access basic data about the online store, domain and multidomain settings, access keys for APIs, company logo, and contact information. For more information, see the article [Account details page](/en/docs/tutorials/account-management).
 
 ## Authentication
 
-On this page, you can choose login options for store customers to access their account, and for admin users to access the admin panel. For more information, see the article [Authentication](/en/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs).
+On this page, you can choose login options for store customers to access their account, and for admin users to access the admin panel. For more information, see the article [Authentication](/en/docs/tutorials/authentication).
 
 ## Users
 

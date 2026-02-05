@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6SEjoixhY5LlA7G15W6oZS
 ---
 
-The telesales toolbar is displayed at the top of your store's website for users with the [Call Center Operator user role](/en/tutorial/como-criar-um-usuario-de-televendas--frequentlyAskedQuestions_4227), in charge of customer service. This tool allows telesales operators to browse the store on behalf of customers, "impersonating" end-users.
+The telesales toolbar is displayed at the top of your store's website for users with the [Call Center Operator user role](/en/docs/tutorials/how-can-i-create-callcenter-user), in charge of customer service. This tool allows telesales operators to browse the store on behalf of customers, "impersonating" end-users.
 
 Once the registered operator logs into the store environment, the toolbar will be displayed at the top of all sections of the website.
 
@@ -27,7 +27,7 @@ See below the main features of the telesales toolbar:
 
 To enable this toolbar, the store administrator must [assign the Call Center Operator role](/en/faq/como-criar-um-usuario-de-televendas) to telesales operators. In the VTEX Admin, go to **Account settings > User roles**, or type **User roles** in the search bar at the top of the page.
 
-To learn how to customize the toolbar in the **CMS** module, check out the article [Customizing the telesales toolbar](/en/tutorial/customizar-a-toolbar-de-televendas--1XEz1zqO3KyIuwC4asUsOg).
+To learn how to customize the toolbar in the **CMS** module, check out the article [Customizing the telesales toolbar](/en/docs/tutorials/customizar-a-toolbar-de-televendas).
 
 > ⚠️ For stores developed with [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), you must configure the **VTEX Telemarketing** app to enable and customize the telesales toolbar. Learn more about this process in our [VTEX Telemarketing](https://developers.vtex.com/vtex-developer-docs/docs/vtex-telemarketing) guide. 
 
@@ -56,8 +56,8 @@ By clicking on the customer's name, the operator will view the following informa
 ## Related articles
 
 * [Predefined roles - Call center operator](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#call-center-operator)
-* [Creating a call center user](/en/tutorial/how-can-i-create-callcenter-user--frequentlyAskedQuestions_4227)
-* [Customizing the telesales toolbar](/en/tutorial/customizar-a-toolbar-de-televendas--1XEz1zqO3KyIuwC4asUsOg)
+* [Creating a call center user](/en/docs/tutorials/how-can-i-create-callcenter-user)
+* [Customizing the telesales toolbar](/en/docs/tutorials/customizar-a-toolbar-de-televendas)
 * [My orders](/en/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#pedidos)
-* [How to use telesales features](/en/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS)
-* [How to configure telesales features](/en/tutorial/como-configurar-as-funcionalidades-de-televendas--76FNgQP2Glc4umMJ5Yr50R)
+* [How to use telesales features](/en/docs/tutorials/telesales-features)
+* [How to configure telesales features](/en/docs/tutorials/configuring-telesales-features)

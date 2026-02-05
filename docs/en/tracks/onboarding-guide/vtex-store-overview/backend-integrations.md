@@ -137,7 +137,7 @@ After understanding and planning the store's [catalog architecture](/en/tracks/v
 There are some limitations to be aware of when managing categories:
 
 - **Moving categories:** Although it is possible to move categories to different levels (higher/lower) and/or different departments, this is very risky due to the specifications attached to the category. This action can negatively affect product information since products inherit both previous and new specifications.
-- **Deleting categories:** Deleting a category requires a [complete clean-up](/en/tutorial/database-maintenance-full-cleanup--34P9LGs7BCIQK6acQom802) of the store's catalog.
+- **Deleting categories:** Deleting a category requires a [complete clean-up](/en/docs/tutorials/database-maintenance-full-cleanup) of the store's catalog.
 
 For more information about importing categories into the back office, check the [Categories](https://developers.vtex.com/docs/guides/categories) article.
 
@@ -190,11 +190,11 @@ You should import products in the order shown in the table below:
 | **Action** | **Description** | **Methods** |
 | :--- | :--- | :--- |
 | [1. Import products](https://developers.vtex.com/docs/guides/products) | Add products to the catalog. | <ul><li>Integration via the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product).</li><li>Import from spreadsheets [(classic method](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#spreadsheet) and [Google Drive-import app)](https://developers.vtex.com/docs/apps/vtex.google-drive-import@0.x).</li><li>Manual input in the [VTEX Admin](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL).</li></ul> |
-| [2. Import product specifications](https://developers.vtex.com/docs/guides/product-specifications) | Complete the product specifications in the catalog. | <ul><li>Integration via the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/specification).</li><li>Manual input in the [VTEX Admin](/en/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106).</li></ul> |
-| [3. Add the products to the trade policy](https://developers.vtex.com/docs/guides/erp-integration-import-products#add-product-to-trade-policy) | Associate products with their respective [trade policies](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) by defining specific rules (pricing, payments, shipping strategy, etc.) based on the sales channel or audience. Ensure that all products are at least added to the main trade policy. | <ul><li>Integration via the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/salespolicy/-tradepolicyId-).</li><li>Manual input in the [VTEX Admin when adding a product](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL).</li></ul> |
+| [2. Import product specifications](https://developers.vtex.com/docs/guides/product-specifications) | Complete the product specifications in the catalog. | <ul><li>Integration via the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/specification).</li><li>Manual input in the [VTEX Admin](/en/docs/tutorials/adding-specifications-or-product-fields).</li></ul> |
+| [3. Add the products to the trade policy](https://developers.vtex.com/docs/guides/erp-integration-import-products#add-product-to-trade-policy) | Associate products with their respective [trade policies](/en/docs/tutorials/how-trade-policies-work) by defining specific rules (pricing, payments, shipping strategy, etc.) based on the sales channel or audience. Ensure that all products are at least added to the main trade policy. | <ul><li>Integration via the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/salespolicy/-tradepolicyId-).</li><li>Manual input in the [VTEX Admin when adding a product](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL).</li></ul> |
 | [4. Import SKUs](https://developers.vtex.com/docs/guides/skus) | Add SKUs to the products in the catalog. | <ul><li>Integration via the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunit).</li><li>Manual input in the [VTEX Admin](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ).</li></ul> |
-| [5. Import SKU specifications](https://developers.vtex.com/docs/guides/sku-specifications) | Complete the SKU specifications in the catalog. | <ul><li>Integration via the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunit/-skuId-/specification).</li><li>Manual input in the [VTEX Admin](/en/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119).</li></ul> |
-| [6. Import SKU images](https://developers.vtex.com/docs/guides/images) | Add images to the SKUs. | <ul><li>Integration via the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunit/-skuId-/file).</li><li>Manual input in the [VTEX Admin](/en/tutorial/como-atualizar-a-imagem-de-um-sku--5PMb54FnvUuWOq2qGyAosu).</li></ul> |
+| [5. Import SKU specifications](https://developers.vtex.com/docs/guides/sku-specifications) | Complete the SKU specifications in the catalog. | <ul><li>Integration via the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunit/-skuId-/specification).</li><li>Manual input in the [VTEX Admin](/en/docs/tutorials/adding-sku-specifications-or-fields).</li></ul> |
+| [6. Import SKU images](https://developers.vtex.com/docs/guides/images) | Add images to the SKUs. | <ul><li>Integration via the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunit/-skuId-/file).</li><li>Manual input in the [VTEX Admin](/en/docs/tutorials/how-to-update-the-image-of-an-sku).</li></ul> |
 
 <br>
 
@@ -211,7 +211,7 @@ For more information about importing products into the back office, check the [I
 In sales operations, it is common to delegate price calculation to the ERP, from which this data can be imported. Prices have a base value defined for each SKU and can vary depending on the context. The steps for importing prices are as follows:
 
 1. **Define the base price:** The base price is used as a reference for determining the price of a product in the VTEX pricing system. The base price of a SKU can be imported via integration using the [Pricing API](https://developers.vtex.com/docs/api-reference/pricing-api#put-/pricing/prices/-itemId-) or [created through the VTEX Admin](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29).
-2. **Define fixed prices for specific contexts:** The base price can be adjusted or modified based on specific rules, calculations, or fixed prices to arrive at the SKU's final retail price in different contexts. These contexts include the [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV), [customer group](/en/tutorial/como-criar-um-cluster-de-clientes--frequentlyAskedQuestions_1724), [promotion](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR), among other factors. Fixed prices for specific contexts can be imported by integration using the [Pricing API](https://developers.vtex.com/docs/api-reference/pricing-api#put-/pricing/prices/-itemId-), [imported via spreadsheet](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D#importing-prices), or [created through the VTEX Admin](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj#admin).
+2. **Define fixed prices for specific contexts:** The base price can be adjusted or modified based on specific rules, calculations, or fixed prices to arrive at the SKU's final retail price in different contexts. These contexts include the [trade policy](/en/docs/tutorials/how-trade-policies-work), [customer group](/en/docs/tutorials/how-can-i-create-cluster-of-customers), [promotion](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR), among other factors. Fixed prices for specific contexts can be imported by integration using the [Pricing API](https://developers.vtex.com/docs/api-reference/pricing-api#put-/pricing/prices/-itemId-), [imported via spreadsheet](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D#importing-prices), or [created through the VTEX Admin](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj#admin).
 
 After importing, it's also important to ensure that the pricing information is kept up to date. You can check the instructions in the [Update or delete information](https://developers.vtex.com/docs/guides/erp-integration-updating-and-deleting-information#pricing-updates) article.
 
@@ -219,12 +219,12 @@ For more information about importing prices into the back office, check the [Imp
 
 ### Inventory
 
-In the VTEX [Logistics](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistics) module, [inventory](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) consists of the relationship between a store's sales items (SKUs) and the locations where these items are stored, known as [warehouses](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb). Efficient management of this inventory when importing data into VTEX is crucial to provide customers with accurate product availability, thereby enhancing the [logistics and shipping](/en/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP) process.
+In the VTEX [Logistics](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistics) module, [inventory](/en/docs/tutorials/managing-stock-items) consists of the relationship between a store's sales items (SKUs) and the locations where these items are stored, known as [warehouses](/en/docs/tutorials/warehouse). Efficient management of this inventory when importing data into VTEX is crucial to provide customers with accurate product availability, thereby enhancing the [logistics and shipping](/en/docs/tutorials/fulfillment-logistics-vtex) process.
 
 These are the steps for importing inventory:
 
-1. **Create warehouses:** Define the physical or virtual locations where the SKUs will be stored. Warehouses can be imported via integration using the [Logistics API](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) or [created through the VTEX Admin](/en/tutorial/gerenciar-estoque--tutorials_137).
-2. **Update SKU inventory:** Enter the available quantity of each item in the warehouses. Warehouses can be imported via integration using the [Logistics API](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-), via [spreadsheet](/en/tutorial/importando-e-exportando-planilha-de-estoque--tutorials_2034), or [updated through the VTEX Admin](/en/tutorial/como-atualizar-estoque--2MDwYV1COA6YuoiY22AyGo).
+1. **Create warehouses:** Define the physical or virtual locations where the SKUs will be stored. Warehouses can be imported via integration using the [Logistics API](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) or [created through the VTEX Admin](/en/docs/tutorials/managing-warehouses).
+2. **Update SKU inventory:** Enter the available quantity of each item in the warehouses. Warehouses can be imported via integration using the [Logistics API](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-), via [spreadsheet](/en/docs/tutorials/importing-and-exporting-an-inventory-spreadsheet), or [updated through the VTEX Admin](/en/docs/tutorials/updating-the-quantity-of-items-in-inventory).
 
 After importing, it is also important to ensure that the price information is kept up to date. You can check the instructions in the [Update or delete information](https://developers.vtex.com/docs/guides/erp-integration-updating-and-deleting-information#pricing-updates) article.
 
@@ -232,7 +232,7 @@ For more information about importing inventory into the back office, check the [
 
 ### Customer data
 
-Importing customer data into VTEX facilitates the integration of information from external systems, such as CRM applications. By default, VTEX stores customer data in [Master Data V1](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw). 
+Importing customer data into VTEX facilitates the integration of information from external systems, such as CRM applications. By default, VTEX stores customer data in [Master Data V1](/en/docs/tutorials/master-data). 
 
 Within Master Data, the information is structured into [data entities](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#data-entities), akin to tables in database systems, containing [documents](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#documents) that are similar to rows or records. Customer profile data is stored in the `CL` entity, while customer addresses are stored in the `AD` entity.
 
@@ -249,8 +249,8 @@ On the VTEX platform, [orders](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM
 
 Order integration enables communication between the back-office application, ERP, or WMS, and VTEX's OMS (Order Management System). This integration plays a key role in:
 
-- Handling events related to [order status](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196) changes.
-- Obtaining [order details](/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
+- Handling events related to [order status](/en/docs/tutorials/order-flow-and-status) changes.
+- Obtaining [order details](/en/docs/tutorials/order-details-page).
 - Transmitting information related to [order processing](#order-processing).
 
 #### Receiving order updates
@@ -293,13 +293,13 @@ For more information about configuring order processing for the back office, che
 
 ### Single Sign-On (SSO)
 
-Single sign-on is a method that allows users to authenticate on the platform using a single set of login credentials, eliminating the need to log in separately to each application. VTEX supports integration with external identity providers. Besides native integrations with services like [Google](/en/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google--1lBgDmetUM4goie6mYEOK6), it also allows you to create new integrations with other providers.
+Single sign-on is a method that allows users to authenticate on the platform using a single set of login credentials, eliminating the need to log in separately to each application. VTEX supports integration with external identity providers. Besides native integrations with services like [Google](/en/docs/tutorials/adding-a-client-id-and-a-client-secret-to-log-in-with-google), it also allows you to create new integrations with other providers.
 
 **VTEX ID** is the service that identifies users on the platform. This service operates based on the audience, the business rules, and the type of persona that can interact with each VTEX module. The available audiences are:
 
 | **Audience** | **Context** | **Technology** |
 | :---: | :--- | :--- |
-| [VTEX Admin](https://developers.vtex.com/docs/guides/login-integration-guide-admin-saml2) | Identification in the [VTEX Admin](/en/tutorial/vtex-admin-start-here--531cHtUCUi3puRXNDmKziw) for store administrators and operators. | SAML 2.0 (Security Assertion Markup Language). |
+| [VTEX Admin](https://developers.vtex.com/docs/guides/login-integration-guide-admin-saml2) | Identification in the [VTEX Admin](/en/docs/tutorials/vtex-admin-start-here) for store administrators and operators. | SAML 2.0 (Security Assertion Markup Language). |
 | [Webstore](https://developers.vtex.com/docs/guides/login-integration-guide-webstore-oauth2) | Identification in the VTEX storefront, intended for store customers. | OAuth 2.0 (Open Authorization). |
 
 Learn more in the [Login (SSO)](https://developers.vtex.com/docs/guides/login-integration-guide) article.
@@ -314,8 +314,8 @@ VTEX [Payment](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5H
 
 You have the following options to add payment options to a VTEX store:
 
-- **Natively supported payment provider:** If VTEX offers integration with the desired payment provider, you must have a contract with the provider and configure the payment options through the VTEX Admin. You can find more details in the [Payments](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#payments) article and the payment providers supported by VTEX in the [List of Payment Providers by Country](/en/tutorial/lista-de-provedores-de-pagamento-por-pais--2im3BEGXxSAcRuxEaIHPvp).
-- **Custom payment provider:** If the desired payment provider does not have an integration with VTEX, you will need to implement your own payment connector using the [Payment Provider Protocol](/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). This protocol includes the [API endpoints](https://developers.vtex.com/docs/api-reference/payment-provider-protocol) to connect to VTEX's [payment gateway](/en/tutorial/o-que-e-um-gateway-de-pagamentos--2KH9Wdi7F6swOU4amECSOk). The connector can be implemented by a [VTEX partner agency](https://vtex.com/en-us/partners/). Once developed, the connector must be tested and go through the [homologation process](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-homologation) before it can be made available on VTEX. 
+- **Natively supported payment provider:** If VTEX offers integration with the desired payment provider, you must have a contract with the provider and configure the payment options through the VTEX Admin. You can find more details in the [Payments](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#payments) article and the payment providers supported by VTEX in the [List of Payment Providers by Country](/en/docs/tutorials/list-of-payment-providers-by-country).
+- **Custom payment provider:** If the desired payment provider does not have an integration with VTEX, you will need to implement your own payment connector using the [Payment Provider Protocol](/en/docs/tutorials/payment-provider-protocol). This protocol includes the [API endpoints](https://developers.vtex.com/docs/api-reference/payment-provider-protocol) to connect to VTEX's [payment gateway](/en/docs/tutorials/what-is-a-payment-gateway). The connector can be implemented by a [VTEX partner agency](https://vtex.com/en-us/partners/). Once developed, the connector must be tested and go through the [homologation process](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-homologation) before it can be made available on VTEX. 
 
 For more information about integrating a new payment provider, see [Integrating a new payment provider on VTEX](https://developers.vtex.com/docs/guides/integrating-a-new-payment-provider-on-vtex).
 
@@ -324,7 +324,7 @@ For more information about integrating a new payment provider, see [Integrating 
 On VTEX, gift cards can be used as a payment option at **Checkout**, and as part of loyalty programs. VTEX provides a native gift card solution and also supports integrations with external gift card providers.
 To add gift cards to a VTEX store, you have the following options:
 
-- **Native gift card solution:** If you want to use VTEX's native gift card solution or an existing integration, you must configure the gift cards via the VTEX Admin by following the steps in the article [Setting up Gift cards](/en/tutorial/gift-card--tutorials_995).
+- **Native gift card solution:** If you want to use VTEX's native gift card solution or an existing integration, you must configure the gift cards via the VTEX Admin by following the steps in the article [Setting up Gift cards](/en/docs/tutorials/gift-card).
 - **Custom gift card provider:** If the desired gift card provider does not have an integration with VTEX, you must implement your own integration using the [Gift Card Provider Protocol](/en/tutorial/integrando-com-gift-card). Through this protocol, providers can develop an integration containing the endpoints described in our [Gift Card Provider Protocol API](https://developers.vtex.com/docs/api-reference/giftcard-provider-protocol#overview) and connect to our [Gift Card Hub](https://developers.vtex.com/docs/api-reference/giftcard-hub-api#overview).
 
 ### Anti-fraud solution
@@ -333,7 +333,7 @@ The anti-fraud solution is a system specialized in analyzing purchases made on w
 
 To add an anti-fraud system to the payments of a VTEX store, you have the following options:
 
-- **Natively supported anti-fraud system:** If there is already an integration with the desired anti-fraud system in VTEX, you must have a contract with one of the partner companies and configure it in the VTEX Admin. You can learn more in the [Configuring the anti-fraud](/en/tutorial/como-configurar-antifraude--tutorials_446) and [What is anti-fraud?](/en/tutorial/o-que-e-antifraude--69SjFCc4rC6Ii0OMAeYAsG) articles.
+- **Natively supported anti-fraud system:** If there is already an integration with the desired anti-fraud system in VTEX, you must have a contract with one of the partner companies and configure it in the VTEX Admin. You can learn more in the [Configuring the anti-fraud](/en/docs/tutorials/how-to-configure-the-anti-fraud) and [What is anti-fraud?](/en/docs/tutorials/what-is-anti-fraud) articles.
 - **Custom anti-fraud system:** If the desired anti-fraud system does not have an integration with VTEX, you will need to implement your own anti-fraud integration using the [Anti-fraud Provider Protocol](https://developers.vtex.com/docs/guides/how-the-integration-protocol-between-vtex-and-antifraud-companies-works) containing the [Anti-fraud Provider API](https://developers.vtex.com/docs/api-reference/antifraud-provider-protocol) endpoints.
 
 ## Extensions and apps
@@ -350,7 +350,7 @@ These are the types of apps available on VTEX:
 
 - [Storefront](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ): Store themes developed with [Store Framework](/en/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework).
 - [Frontend](https://developers.vtex.com/docs/guides/vtex-io-documentation-1-developing-storefront-apps-using-react-and-vtex-io): [React](https://react.dev/) components that compose store themes developed with Store Framework.
-- [Admin VTEX](https://learn.vtex.com/docs/course-admin-lang-en): Modules and features for the [VTEX Admin](/en/tutorial/vtex-admin-start-here--531cHtUCUi3puRXNDmKziw).
+- [Admin VTEX](https://learn.vtex.com/docs/course-admin-lang-en): Modules and features for the [VTEX Admin](/en/docs/tutorials/vtex-admin-start-here).
 - [Services (backend)](https://developers.vtex.com/docs/guides/vtex-io-documentation-service): [Node](https://nodejs.org/en) or [.NET Core](https://dotnet.microsoft.com/en-us/) services capable of handling events and triggers, exporting HTTP routes, and exposing GraphQL resolvers.
 - [Pixel](https://developers.vtex.com/docs/guides/vtex-io-documentation-1-developnativeintegrationswithpixelapps): Scripts from third-party services that run on the frontend, providing solutions such as sales monitoring, user support, data collection, and marketing services.
 - [Edition](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app): Set of settings, policies, backend, and frontend apps encapsulated and exported by a [Sponsor Account](https://developers.vtex.com/docs/guides/vtex-io-documentation-sponsor-account).
@@ -368,7 +368,7 @@ Before starting the process of developing a new app, we recommend exploring solu
 
 Here are some examples of solutions available on the App Store:
 
-- [Assembly Options](https://developers.vtex.com/docs/guides/assembly-options-app): Adds [attachment](/en/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) options for customizing SKUs. For example, adding a phrase to a T-shirt or ingredients to a sandwich.
+- [Assembly Options](https://developers.vtex.com/docs/guides/assembly-options-app): Adds [attachment](/en/docs/tutorials/what-is-an-attachment) options for customizing SKUs. For example, adding a phrase to a T-shirt or ingredients to a sandwich.
 - [Gift List](https://developers.vtex.com/docs/apps/vtex.list): Allows you to create gift lists, which can be shared so that others can purchase items for gifting. It is useful for events such as birthdays, weddings, and baby showers. The purchased items are converted into store credits, which can be used to buy any available items in the store.
 - [Live Shopping](https://developers.vtex.com/docs/apps/vtexventures.livestreaming): Enables live streaming on the store's website to engage customers in real time. It creates opportunities to promote products and includes several components besides the video player, such as the number of viewers, a like button, live chat, and a sidebar for presenting products.
 - **Customer chat apps:** Add a chat component to interact with customers. They can have a chatbot for automatic interaction, as well as providing human support. Some examples of apps are [JivoChat](https://developers.vtex.com/docs/apps/vtex.jivochat), [Tawk.to](https://developers.vtex.com/docs/apps/vtex.tawk-to), and [Zendesk Chat](https://developers.vtex.com/docs/apps/vtex.zendesk-chat).

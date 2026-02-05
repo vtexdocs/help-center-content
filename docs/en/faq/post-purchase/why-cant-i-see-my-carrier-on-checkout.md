@@ -18,7 +18,7 @@ Selecting a carrier for delivery is a mandatory step during checkout when placin
 
 However, sometimes a carrier might not be displayed at checkout. We have separated six scenarios in which this situation can occur, along with their respective solutions.
 
-It's worth pointing out that before reading this article, you must ensure that all [carriers are registered](/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) on the platform. In addition, all solutions are performed in the [Shipping](/en/tutorial/visao-geral-logistics--tutorials_143) module.
+It's worth pointing out that before reading this article, you must ensure that all [carriers are registered](/en/docs/tutorials/carriers-on-vtex) on the platform. In addition, all solutions are performed in the [Shipping](/en/tutorial/visao-geral-logistics--tutorials_143) module.
 
 ## Carrier type conflict 
 
@@ -68,7 +68,7 @@ An order may be split into two shipments, for example: if the order has 40kg, bu
 
 #### Solution
 
-To do this, enable the [split my shipment](/en/tutorial/--tutorials_109) option, located in **Store Settings > Shipping > Settings**.
+To do this, enable the [split my shipment](/en/docs/tutorials/configuring-cargo-splitting) option, located in **Store Settings > Shipping > Settings**.
 
 ## Optimization of shipping options at Checkout
 
@@ -76,6 +76,6 @@ To improve the customer's shopping experience, the**Optimization of shipping opt
 
 #### Solution
 
-Disable the function [Optimization of delivery options at Checkout](/en/tutorial/optimization-of-shipping-options-at-checkout--6DeGO9eBSFWe4XkoS0SxAB) in your store.
+Disable the function [Optimization of delivery options at Checkout](/en/docs/tutorials/optimization-of-shipping-options-at-checkout) in your store.
 
 > ⚠️ By disabling this function in Admin VTEX, all available shipping options will be displayed in the Checkout process. However, if the [Multiple Deliveries](/en/tutorial/order-split-and-delivery-split--jQvzA6QgSd51e2p6bthoV#) functionality is enabled in the store and there are different delivery options between the selected items in the cart, the **Optimized Delivery Options** will continue to be displayed. That is, delivery optimization will be needed to handle multiple packages (items with different delivery options).

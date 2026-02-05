@@ -52,7 +52,7 @@ After configuring organization approval, customize the topbar shown to buyers.
 After making changes in the above sections, click Save in the top right corner of the page to apply them correctly.
 
 ## Linking trade policies to the store
-This section allows linking the store to specific [trade policies](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV).
+This section allows linking the store to specific [trade policies](/en/docs/tutorials/how-trade-policies-work).
 
 To link a trade policy, follow the steps below:
 

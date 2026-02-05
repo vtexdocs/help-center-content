@@ -17,7 +17,7 @@ announcementSynopsisEN: 'Possibility to limit user access to order authorization
 
 > ⚠️ From June 25<sup>th</sup>, 2019, users without access to `Order Authorization` will not be allowed to neither view nor edit the Order Authorization screen.
 
-Seeking to ensure greater safety, we created the possibility to limit user access to order authorizations, allowing information to be edited or viewed by selected users. For more on Order Authorization, have a look at our [feature launch announcement](/en/announcements/2019-03-26-increase-your-sales-with-a-new-order-authorization-screen) or read [this tutorial explaining how it works](/en/tutorial/how-order-authorization-works--3MBK6CmKHAuUjMBieDU0pn).
+Seeking to ensure greater safety, we created the possibility to limit user access to order authorizations, allowing information to be edited or viewed by selected users. For more on Order Authorization, have a look at our [feature launch announcement](/en/announcements/2019-03-26-increase-your-sales-with-a-new-order-authorization-screen) or read [this tutorial explaining how it works](/en/docs/tutorials/how-order-authorization-works).
 
 ## Main Advantages 
 

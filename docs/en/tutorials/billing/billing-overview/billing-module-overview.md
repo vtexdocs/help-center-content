@@ -16,7 +16,7 @@ subcategoryId: 31ICVopiWZfSTdr9jZMShb
 order: 1
 ---
 
-**Billing** is the page where you manage all financial aspects of your VTEX account. It is only available for users with a [Financial role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). To view, edit, or perform any action on this page, please request permission from your store owner. 
+**Billing** is the page where you manage all financial aspects of your VTEX account. It is only available for users with a [Financial role](/en/docs/tutorials/roles). To view, edit, or perform any action on this page, please request permission from your store owner. 
 
 To access this section, click on your **profile avatar**, which can be identified by the first letter of your email address, then click on **Billing**. Select the tab you wish to visit, such as __Contracts__, __Invoices__, __Registration Data__ and __Billing Contracts__.
 

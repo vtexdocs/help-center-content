@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 ---
 
-> ⚠️ The [List](/en/tutorial/what-is-a-list--4b4NsVFwA8kwqS8S82w4Go) feature is exclusive to stores that use Legacy CMS Portal.
+> ⚠️ The [List](/en/docs/tutorials/what-is-a-list) feature is exclusive to stores that use Legacy CMS Portal.
 
 This article will discuss the details for creation of a type of Voucher List, which is a special type of List. [See our List Type documentation by clicking here.](/en/tutorial/creating-a-type-of-list/)
 

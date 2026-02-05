@@ -17,9 +17,9 @@ subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 
 All clients have access to [VTEX Support's](/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) team of experts, who are prepared to provide the best possible experience for resolving your tickets. To contact them, you need to open a ticket via the ticketing system.
 
-You must [enable support permission](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) in [License Manager](/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) for the user to access VTEX Support. This setting is only valid for accounts in Brazil.
+You must [enable support permission](/en/docs/tutorials/roles) in [License Manager](/en/docs/tutorials/license-manager-resources) for the user to access VTEX Support. This setting is only valid for accounts in Brazil.
 
-This article explains how customers should open tickets with VTEX Support and track their status. To learn more about availability and estimated response time (SLA), see the article [VTEX Global Support Resources](/en/tutorial/recursos-de-suporte-global-da-vtex--5maoEWCrTKFAEMXRsfcklV).
+This article explains how customers should open tickets with VTEX Support and track their status. To learn more about availability and estimated response time (SLA), see the article [VTEX Global Support Resources](/en/docs/tutorials/vtex-global-support-resources).
 
 Check out the steps described in this article:
 
@@ -46,7 +46,7 @@ Technical support offers guidance for resolving issues or clarifying questions a
 To request technical support, follow the steps below and provide the required information:
 
 ### 1. Log in to your account 
-In the initial step, authenticate your access to the [VTEX Admin](/en/tutorial/admin-vtex-comece-aqui--531cHtUCUi3puRXNDmKziw) to manage your store's digital commerce operations.
+In the initial step, authenticate your access to the [VTEX Admin](/en/docs/tutorials/vtex-admin-start-here) to manage your store's digital commerce operations.
 
 ### 2. Access Copilot
 Copilot is a tool integrated into the platform that enables technical support.  You can use it to ask questions and solve problems. To access Copilot and start interacting with support, follow the steps below:
@@ -161,7 +161,7 @@ To request financial support, follow these steps:
 4. Click `Send`.
 
 #### Commercial support
-Commercial support assists the user with requests related to [trade policies](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV),  [additional environments](/en/tutorial/contratar-novo-ambiente--tutorials_2542), [white-label sellers](/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) or [user changes](/en/tutorial/gerenciando-usuarios--tutorials_512) with the Sponsor user profile (Master Admin user).
+Commercial support assists the user with requests related to [trade policies](/en/docs/tutorials/how-trade-policies-work),  [additional environments](/en/docs/tutorials/requesting-a-new-environment), [white-label sellers](/en/docs/tutorials/white-label-seller) or [user changes](/en/docs/tutorials/managing-admin-users) with the Sponsor user profile (Master Admin user).
 
 To request this type of support, follow the steps below:
 

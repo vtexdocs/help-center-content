@@ -17,7 +17,7 @@ subcategoryId: 3PQwnyOcNyYgawy06oe6gE
 
 Reservation is a VTEX solution that prevents the same item from being sold more than once. After a purchase is completed, the purchased item is subtracted from the available inventory and its status is changed to **Reserved**.
 
-> ℹ️ On the VTEX platform, warehouse refers to the physical location where items are stored. To identify at which warehouse items will be picked up by the carriers, you must add the warehouses to the platform. To learn more, please refer to the article [Warehouses.](/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb) Inventory is a list of the items your store has in stock. You can add and track the available items in your store on the Inventory management page. To learn more, please refer to the article [Inventory management](/en/tutorial/managing-stock-items--tutorials_139).
+> ℹ️ On the VTEX platform, warehouse refers to the physical location where items are stored. To identify at which warehouse items will be picked up by the carriers, you must add the warehouses to the platform. To learn more, please refer to the article [Warehouses.](/en/docs/tutorials/warehouse) Inventory is a list of the items your store has in stock. You can add and track the available items in your store on the Inventory management page. To learn more, please refer to the article [Inventory management](/en/docs/tutorials/managing-stock-items).
 
 After an item is sold, it goes through the following statuses in your store's inventory:
 
@@ -44,7 +44,7 @@ _Payment expiration period + inventory reservation period_
     - **five calendar days:** when the payment is due on a Wednesday, Thursday or Friday.
     - **six calendar days:** when the payment is due on a Saturday.
 
-> ❗ Incomplete orders can have a reservation period of 11 calendar days. To learn more, please refer to the article [How incomplete orders work.](/en/tutorial/understanding-incomplete-orders--tutorials_294)
+> ❗ Incomplete orders can have a reservation period of 11 calendar days. To learn more, please refer to the article [How incomplete orders work.](/en/docs/tutorials/understanding-incomplete-orders)
 
 For an external marketplace, if the reservation period is sent by the `lockTTL` field, the reservation will not be calculated by VTEX platform but determined by the period in the field. This can be done using the [Place order](https://developers.vtex.com/docs/api-reference/checkout-api#put-/api/checkout/pub/orders) endpoint.
 
@@ -62,7 +62,7 @@ The VTEX platform does not subtract items from the inventory automatically. Sold
 
 ## Removal from inventory
 
-Removing a unit from inventory updates the quantity of items available for sale. Only the retailer or the ERP can do this, in the [Inventory management](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) module or via the [inventory update API](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
+Removing a unit from inventory updates the quantity of items available for sale. Only the retailer or the ERP can do this, in the [Inventory management](/en/docs/tutorials/managing-stock-items) module or via the [inventory update API](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
 VTEX does not update the quantity of items that a SKU has from the inventory update history.
 
@@ -87,7 +87,7 @@ When the retailer or the ERP updates the quantity of that item in the inventory,
 3. In the `Reserved` column, click the blue number. If there is no number in blue in this column, it means there are no reserved units for this item.
 4. A new screen will show the reserved items of the same SKU. In the `Status` column, check the status of the reservation.
 
-As explained above, removal from inventory is a consequence of the retailer updating the inventory. Therefore, it is not possible to view this status on the platform. It is only possible to view the number of items available for sale and the movement of items in the [Inventory Management](/en/tutorial/managing-stock-items--tutorials_139) page.
+As explained above, removal from inventory is a consequence of the retailer updating the inventory. Therefore, it is not possible to view this status on the platform. It is only possible to view the number of items available for sale and the movement of items in the [Inventory Management](/en/docs/tutorials/managing-stock-items) page.
 
 > ℹ️ All the statuses described here are internal and exclusive to VTEX for item sales control. The reservation status is a consequence of the order status. Some changes depend on buyers' actions, and others depend on manual or ERP updates.
 

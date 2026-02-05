@@ -17,7 +17,7 @@ tags:
   - Redirects
 ---
 
-When the number of redirects is too high, the Redirects page in the Admin can't process the search. This results in no returned results when the search is run. For more details on the Redirects page, see [Managing URL redirects by binding](/en/tutorial/managing-redirects-per-binding--67GAK2TCQgjvmtPXxAqREb).
+When the number of redirects is too high, the Redirects page in the Admin can't process the search. This results in no returned results when the search is run. For more details on the Redirects page, see [Managing URL redirects by binding](/en/docs/tutorials/managing-redirects-per-binding).
 
 ## Solution
 

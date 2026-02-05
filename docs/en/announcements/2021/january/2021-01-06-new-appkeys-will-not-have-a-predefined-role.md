@@ -35,5 +35,5 @@ An application that uses an appKey should be given access only to the features f
 
 With this change, the role must be defined manually as the need arises, and permissions will be limited according to the selected profile.
 
-For more information, please see the article [Roles](/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc).
+For more information, please see the article [Roles](/en/docs/tutorials/roles).
 

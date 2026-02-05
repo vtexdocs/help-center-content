@@ -19,5 +19,5 @@ VTEX regrets a client's decision to withdraw and understands that the needs and 
 
 To terminate a contract with VTEX, you must contact [billing support](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#financial). As for Brazil, Argentina, and Colombia, you must follow the guidelines in the following articles:
 
-- [Requesting contract termination in Brazil](/en/tutorial/como-solicitar-sua-rescisao-contratual-no-brasil--frequentlyAskedQuestions_1834)
-- [Requesting contract termination in Argentina and Colombia](/en/tutorial/solicitar-la-rescision-contractual-en-argentina-y-colombia--33g6mUoYB9Mf04C06gSU0a)
+- [Requesting contract termination in Brazil](/en/docs/tutorials/how-to-request-your-contract-termination-in-brazil)
+- [Requesting contract termination in Argentina and Colombia](/en/docs/tutorials/requesting-a-contract-termination-in-argentina-and-colombia)

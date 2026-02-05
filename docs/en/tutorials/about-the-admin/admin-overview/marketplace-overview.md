@@ -18,7 +18,7 @@ order: 1
 
 A marketplace is a virtual platform where different sellers offer their products. It is where products are displayed and where orders are placed. Sellers who list their products in a marketplace are also responsible for delivering them to customers. The set of operations and activities performed by the seller, from receiving the order to delivering the product, is called fulfillment.
 
-[VTEX promotes digital collaboration](https://vtex.com/br-pt/marketplace/) in different scenarios. In addition to selling your products on other marketplaces, you can also act as a marketplace and sell products from other sellers on your website. Learn more about the different [marketplace strategies at VTEX](/en/tutorial/marketplace-strategies-at-vtex--tutorials_402).
+[VTEX promotes digital collaboration](https://vtex.com/br-pt/marketplace/) in different scenarios. In addition to selling your products on other marketplaces, you can also act as a marketplace and sell products from other sellers on your website. Learn more about the different [marketplace strategies at VTEX](/en/docs/tutorials/marketplace-strategies-at-vtex).
 
 We have grouped all the features related to these operations in the __Marketplace__ menu of your redesigned Admin. 
 

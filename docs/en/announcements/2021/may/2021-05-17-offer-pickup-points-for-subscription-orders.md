@@ -34,4 +34,4 @@ By offering more delivery options for subscription orders, you give more freedom
 
 ## What needs to be done?
 
-To offer pickup points for subscription orders, you must fulfill the logistical requirements listed in the article [Pickup points for Subscriptions (Beta)](/en/tutorial/pickup-points-for-subscription-orders-beta--csIqB6iBh4QNIFdEj0nVv).
+To offer pickup points for subscription orders, you must fulfill the logistical requirements listed in the article [Pickup points for Subscriptions (Beta)](/en/docs/tutorials/pickup-points-for-subscription-orders).

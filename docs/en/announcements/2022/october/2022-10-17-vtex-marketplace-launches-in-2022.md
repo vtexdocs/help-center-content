@@ -17,9 +17,9 @@ announcementSynopsisEN: "We've launched four new features to boost your marketpl
 
 In 2022, VTEX has been investing in solutions to help our customers maximize their ecommerce profit and meet consumer needs in the post-pandemic scenario. 
 
-By adopting a [marketplace architecture](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402), retailers can adapt their business to the latest consumer trends, lowering costs by expanding product assortment, and driving incremental revenue growth. 
+By adopting a [marketplace architecture](/en/docs/tutorials/marketplace-strategies-at-vtex), retailers can adapt their business to the latest consumer trends, lowering costs by expanding product assortment, and driving incremental revenue growth. 
 
-We are providing new features to make this strategy possible, allowing retailers to launch and manage marketplace operations in a scalable way with: [Seller Portal](/en/subcategory/seller-portal--4hisB47iAVZk4r3SEmMoG), [Seller Management](/en/tutorial/gerenciamento-de-sellers-beta--6eEiOISwxuAWJ8w6MtK7iv), [Seller Invite](/en/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A), and [Offer Management](/en/tutorial/gestao-de-anuncios--7MRb9S78aBdZjFGpbuffpE). 
+We are providing new features to make this strategy possible, allowing retailers to launch and manage marketplace operations in a scalable way with: [Seller Portal](/en/subcategory/seller-portal--4hisB47iAVZk4r3SEmMoG), [Seller Management](/en/docs/tutorials/seller-management), [Seller Invite](/en/docs/tutorials/marketplace-invited-sellers), and [Offer Management](/en/tutorial/gestao-de-anuncios--7MRb9S78aBdZjFGpbuffpE). 
 
 The new features allow marketplaces to:
 
@@ -80,7 +80,7 @@ Learn more about each one below.
 
 ![Seller Portal gif 2022 launch](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022/october/2022-10-17-vtex-marketplace-launches-in-2022_2.gif)
 
-The Seller Portal is a VTEX platform edition for [sellers](/en/tutorial/marketplace-strategies-at-vtex--tutorials_402) to connect and sell their products on VTEX marketplaces. The portal allows sellers to access all the key features necessary to operate ecommerce on big storefronts, increasing visibility and sales conversion. 
+The Seller Portal is a VTEX platform edition for [sellers](/en/docs/tutorials/marketplace-strategies-at-vtex) to connect and sell their products on VTEX marketplaces. The portal allows sellers to access all the key features necessary to operate ecommerce on big storefronts, increasing visibility and sales conversion. 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
@@ -102,8 +102,8 @@ The Seller Portal is a VTEX platform edition for [sellers](/en/tutorial/marketpl
 </thead>
 <tbody>
   <tr>
-    <td> <ul> <li>Connect fast and frictionlessly to the marketplace that invited them.</li> <li> Access the redesigned [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller Portal Catalog</span>](/en/tutorial/seller-portal-como-funciona-o-catalogo--7pMB6YOt6YQDQQbzFB4Pxp) interface to activate and sell products immediately.</li> <li>Add, query, and edit Catalog information using the [<span style="font-weight:400;color:#F71963;background-color:transparent">Catalog API - Seller Portal</span>](https://developers.vtex.com/vtex-rest-api/reference/catalog-api-seller-portal).</li> <li> Manage [<span style="font-weight:400;color:#F71963;background-color:transparent">shared products</span>](/en/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu) already in the marketplace catalog, reducing the complexity of selling the marketplace's available products.</li> <li> Update inventory and product prices.</li> <li> Manage and invoice all your orders on the marketplace and process payments</li> <li> Build your shipping strategy for your customers, adding delivery options and pickup points</li> </ul></td>
-    <td> <ul> <li>Easily expand the seller portfolio.</li> <li> Decrease sales conversion time, with now faster self-service new seller onboarding.</li> <li>Share the product assortment with the seller to manage shared product offerings easily and quickly.</li> <li> Have the flexibility to build and provide specific features based on different use cases.</li> <li>[<span style="font-weight:400;color:#F71963;background-color:transparent">Bulk add VTEX apps</span>](https://developers.vtex.com/vtex-developer-docs/docs/seller-portal-edition-app) that meet your operation's needs for all your sellers.</li> <li>Evaluate seller metrics filtering by "3P Sellers" on the [<span style="font-weight:400;color:#F71963;background-color:transparent">Sales Performance</span>](/en/tutorial/performance-de-vendas--3DMube0sEsK9vPcRYGas72) page</li>.</ul></td>
+    <td> <ul> <li>Connect fast and frictionlessly to the marketplace that invited them.</li> <li> Access the redesigned [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller Portal Catalog</span>](/en/docs/tutorials/how-the-seller-portal-catalog-works) interface to activate and sell products immediately.</li> <li>Add, query, and edit Catalog information using the [<span style="font-weight:400;color:#F71963;background-color:transparent">Catalog API - Seller Portal</span>](https://developers.vtex.com/vtex-rest-api/reference/catalog-api-seller-portal).</li> <li> Manage [<span style="font-weight:400;color:#F71963;background-color:transparent">shared products</span>](/en/docs/tutorials/seller-portal-shared-products) already in the marketplace catalog, reducing the complexity of selling the marketplace's available products.</li> <li> Update inventory and product prices.</li> <li> Manage and invoice all your orders on the marketplace and process payments</li> <li> Build your shipping strategy for your customers, adding delivery options and pickup points</li> </ul></td>
+    <td> <ul> <li>Easily expand the seller portfolio.</li> <li> Decrease sales conversion time, with now faster self-service new seller onboarding.</li> <li>Share the product assortment with the seller to manage shared product offerings easily and quickly.</li> <li> Have the flexibility to build and provide specific features based on different use cases.</li> <li>[<span style="font-weight:400;color:#F71963;background-color:transparent">Bulk add VTEX apps</span>](https://developers.vtex.com/vtex-developer-docs/docs/seller-portal-edition-app) that meet your operation's needs for all your sellers.</li> <li>Evaluate seller metrics filtering by "3P Sellers" on the [<span style="font-weight:400;color:#F71963;background-color:transparent">Sales Performance</span>](/en/docs/tutorials/sales-performance) page</li>.</ul></td>
   </tr>
 </tbody>
 </table>
@@ -119,7 +119,7 @@ We provided [Catalog API - Seller Portal](https://developers.vtex.com/vtex-rest-
 
 #### Seller Invite 
 
-To facilitate new sellers joining the Seller Portal, we have also launched the [Seller Invite](/en/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A) page, where marketplace operators invite sellers to join their marketplace. The page allows you to invite two types of sellers: 
+To facilitate new sellers joining the Seller Portal, we have also launched the [Seller Invite](/en/docs/tutorials/marketplace-invited-sellers) page, where marketplace operators invite sellers to join their marketplace. The page allows you to invite two types of sellers: 
 
 * **VTEX hosted stores:** can connect their VTEX account as a new marketplace seller.
 * **Stores that do not have a VTEX account:** sellers hosted on other platforms or not yet subscribed to any digital commerce platform can create an account on the VTEX Seller Portal.
@@ -128,7 +128,7 @@ To facilitate new sellers joining the Seller Portal, we have also launched the [
 
 ![Seller management gif 2022 launch](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022/october/2022-10-17-vtex-marketplace-launches-in-2022_3.gif)
 
-We launched the redesigned experience of the [Seller Management](/en/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv) page, where marketplace operators can [add sellers](/en/tutorial/adicionar-seller-beta--6q4G4RNqVENr5YMJyindwL) and their respective information and manage their status. 
+We launched the redesigned experience of the [Seller Management](/en/docs/tutorials/seller-management) page, where marketplace operators can [add sellers](/en/tutorial/adicionar-seller-beta--6q4G4RNqVENr5YMJyindwL) and their respective information and manage their status. 
 
 The page includes:
 
@@ -188,11 +188,11 @@ Check the tables below to see what needs to be done for marketplaces and sellers
   </tr>
   <tr>
     <td>Seller Portal</td>
-    <td>To enable sellers to access the portal, follow these steps: <ol> <li>Send an invite to each seller you wish to add to the Seller Portal via the [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller Invite</span>](/en/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A) page.</li> <li> Share the article "[<span style="font-weight:400;color:#F71963;background-color:transparent">Seller: creating an account in the Seller Portal </span>](/en/tutorial/seller-criar-conta-no-seller-portal-beta--3gn2Q5rMhgu0jjX7AiiHcs)" with your sellers to help them learn how to set up their accounts.</li> <li>[<span style="font-weight:400;color:#F71963;background-color:transparent">Activate the seller</span>](/en/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167) so that they can submit products to your marketplace.</li> <br>Learn more about the complete process in the article [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller Portal: Getting started for the marketplace</span>](/en/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167). </br></td>
+    <td>To enable sellers to access the portal, follow these steps: <ol> <li>Send an invite to each seller you wish to add to the Seller Portal via the [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller Invite</span>](/en/docs/tutorials/marketplace-invited-sellers) page.</li> <li> Share the article "[<span style="font-weight:400;color:#F71963;background-color:transparent">Seller: creating an account in the Seller Portal </span>](/en/docs/tutorials/seller-creating-an-account-in-the-seller-portal)" with your sellers to help them learn how to set up their accounts.</li> <li>[<span style="font-weight:400;color:#F71963;background-color:transparent">Activate the seller</span>](/en/docs/tutorials/seller-portal-getting-started-for-the-marketplace) so that they can submit products to your marketplace.</li> <br>Learn more about the complete process in the article [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller Portal: Getting started for the marketplace</span>](/en/docs/tutorials/seller-portal-getting-started-for-the-marketplace). </br></td>
   </tr>
   <tr>
     <td>Seller Management</td>
-    <td>The page is now available in your Admin under Marketplace > Sellers > Seller Management in the side menu. After the launch, the previous page will be replaced by the new experience, and you will not be able to go back to the previous one. <br>In the article [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller Management</span>](/en/tutorial/gerenciamento-de-sellers-beta--6eEiOISwxuAWJ8w6MtK7iv), learn how to operate the page and improve your seller monitoring. </td>
+    <td>The page is now available in your Admin under Marketplace > Sellers > Seller Management in the side menu. After the launch, the previous page will be replaced by the new experience, and you will not be able to go back to the previous one. <br>In the article [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller Management</span>](/en/docs/tutorials/seller-management), learn how to operate the page and improve your seller monitoring. </td>
   </tr>
 </tbody>
 </table>
@@ -224,7 +224,7 @@ Check the tables below to see what needs to be done for marketplaces and sellers
   </tr>
   <tr>
     <td>Seller Portal</td>
-    <td>After the marketplace sends the invitation, the seller will receive the link to create their Seller Portal account by email. <ol> <li>[<span style="font-weight:400;color:#F71963;background-color:transparent">Create an account in the Seller Portal</span>](/en/tutorial/seller-criar-conta-no-seller-portal-beta--3gn2Q5rMhgu0jjX7AiiHcs).</li><li>Configure your store by following the instructions in the article [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller Portal: First Steps for the Seller</span>](/en/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK).</li></ol></td>
+    <td>After the marketplace sends the invitation, the seller will receive the link to create their Seller Portal account by email. <ol> <li>[<span style="font-weight:400;color:#F71963;background-color:transparent">Create an account in the Seller Portal</span>](/en/docs/tutorials/seller-creating-an-account-in-the-seller-portal).</li><li>Configure your store by following the instructions in the article [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller Portal: First Steps for the Seller</span>](/en/docs/tutorials/how-to-set-up-your-store-on-seller-portal).</li></ol></td>
   </tr>
   <tr>
     <td>Catalog API</td>
@@ -236,4 +236,4 @@ Check the tables below to see what needs to be done for marketplaces and sellers
 ## Learn more
 - [Seller Portal](/en/subcategory/seller-portal--4hisB47iAVZk4r3SEmMoG)
 - [Offer Management](/en/subcategory/gerenciamento-de-anuncios--2zVauFUkYn8vgS0y0MfWeK)
-- [Seller Management](/en/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv)
+- [Seller Management](/en/docs/tutorials/seller-management)

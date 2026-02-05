@@ -30,7 +30,7 @@ The Seller Portal allows sellers to:
 
 ## Creating an account in the Seller Portal
 
-The process of creating an account in the Seller Portal begins with an [invitation sent by the marketplace](/en/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A). Once you receive the email invitation, there are two possible ways to create an account, which depend on whether your store is already hosted on VTEX or not. Follow the steps for the option that applies to your context:
+The process of creating an account in the Seller Portal begins with an [invitation sent by the marketplace](/en/docs/tutorials/marketplace-invited-sellers). Once you receive the email invitation, there are two possible ways to create an account, which depend on whether your store is already hosted on VTEX or not. Follow the steps for the option that applies to your context:
 
 - [Creating an account for VTEX sellers](#connecting-the-vtex-account-with-the-marketplace): store hosted on the VTEX platform.    
 - [Creating an account for external sellers](#creating-an-account-for-external-sellers): store hosted on another ecommerce platform, or not yet hosted on any platform.    
@@ -71,5 +71,5 @@ The **Seller Portal URL** provided is the link you will use to access your Selle
 
 ___________________
 
-Once you have completed these steps, you must [configure the Seller Portal](/en/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) and wait for the[ marketplace to activate your store](/en/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#conectar-seller).
+Once you have completed these steps, you must [configure the Seller Portal](/en/docs/tutorials/how-to-set-up-your-store-on-seller-portal) and wait for the[ marketplace to activate your store](/en/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#conectar-seller).
 

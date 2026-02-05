@@ -51,7 +51,7 @@ In the beta phase, we'll use a new name for the following terms:
 | --- | --- |
 | [Product specifications](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#product-specification) | Attributes |
 | [SKU specifications](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#sku-specifications) | Variations |
-| [Groups (of product specifications or SKUs)](/en/tutorial/criando-grupo-de-especificacoes-em-uma-categoria--tutorials_246) | Groups (of attributes or variations) |
+| [Groups (of product specifications or SKUs)](/en/docs/tutorials/creating-a-specification-group-in-a-category) | Groups (of attributes or variations) |
 
 ## Interface overview of categories, attributes, and variations
 
@@ -112,18 +112,18 @@ To create a category, follow the steps below:
 1. In the left corner of the page, next to the search bar, click the + icon, or hover over **All products** and click the + displayed. You can also click the + icon next to the category name.
 2. In the modal displayed, enter the category name. This is the only required field.
 
-  > ⚠️ The category name is crucial for [SEO](/en/tutorial/melhorando-o-seo-das-paginas-de-lista-de-produtos--UrQtlKAMuSaLBP5wG9ftG) (Search Engine Optimization), so we recommend the following:<ul><li>Use simple words.</li><li>Avoid using other languages.</li><li>Avoid complex spelling.</li><li>Use up to 150 characters.</li></ul>
+  > ⚠️ The category name is crucial for [SEO](/en/docs/tutorials/improving-the-seo-of-product-listing-pages) (Search Engine Optimization), so we recommend the following:<ul><li>Use simple words.</li><li>Avoid using other languages.</li><li>Avoid complex spelling.</li><li>Use up to 150 characters.</li></ul>
 
 3. If you want to activate the category you're creating, select the checkbox **Active.** To keep it deactivated, leave the option unchecked.
 4. In the **Basic information** section, complete the following fields:
     - **Parent category:** If the category you’re creating is a subcategory (for example, nested under another category), enter the numerical code of the parent category it belongs to.
-    - **VTEX global category:** The [global category](/en/tutorial/configurando-a-categoria-global--tutorials_188) is a taxonomy created by Google for the [Merchant Center](https://support.google.com/merchants/answer/6324436?hl=pt-BR), predefined as a single tree on the VTEX platform.
+    - **VTEX global category:** The [global category](/en/docs/tutorials/setting-up-the-global-category) is a taxonomy created by Google for the [Merchant Center](https://support.google.com/merchants/answer/6324436?hl=pt-BR), predefined as a single tree on the VTEX platform.
 
 5. In the **Storefront and SEO** section, complete the following fields:
     - **Similar words:** Synonyms of the category names. Use this field to improve the coverage of search results. You can add multiple words, separated by commas, up to 200 characters.
     - **Page title:** Text displayed in the browser tab that corresponds to the title of the category page on the site. This field is crucial for SEO, as it doesn't allow HTML tags and must contain up to 150 characters.
     - **Description:** Brief summary of the category. We recommend using up to 200 characters, so that search engines display the description correctly on the results pages. The field only supports plain text and doesn't allow HTML tags.
-    - **Store search priority:** Integers used to define the category's priority in search results. The highest value means the highest priority in the results, and the value zero or the field left blank means no priority. Learn more in the article [How the score field works](/en/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
+    - **Store search priority:** Integers used to define the category's priority in search results. The highest value means the highest priority in the results, and the value zero or the field left blank means no priority. Learn more in the article [How the score field works](/en/docs/tutorials/how-does-the-score-field-work).
 
 6. In the **Storefront** section, you can check any of the following options:
     - <a class="far fa-check-square" aria-hidden="true"></a> **Show on menu:** Makes the category or department visible on the store's top and side menus.

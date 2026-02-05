@@ -140,7 +140,7 @@ If inconsistencies or errors are detected during the order payment transaction, 
 
 With native CMS solutions, merchants often rely on an implementation agency to customize the storefront's layout and customer experience.
 
-VTEX offers the following native CMS options: [Layout](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj#layout) for [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) stores, [Site Editor](/en/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) for stores using the [Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework), and [Headless CMS](/en/tutorial/headless-cms-visao-geral--3U5gvhHdQL0jczYH8gjX09) for stores using [FastStore](https://www.faststore.dev/). You can also integrate your external CMS with the VTEX APIs using a [headless](https://developers.vtex.com/docs/guides/headless-commerce) approach.
+VTEX offers the following native CMS options: [Layout](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj#layout) for [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) stores, [Site Editor](/en/docs/tutorials/site-editor-overview) for stores using the [Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework), and [Headless CMS](/en/docs/tutorials/headless-cms-overview) for stores using [FastStore](https://www.faststore.dev/). You can also integrate your external CMS with the VTEX APIs using a [headless](https://developers.vtex.com/docs/guides/headless-commerce) approach.
 
 Issues related to how the content is being displayed to the end user should always be addressed initially with the agency's support. Some examples of these issues are:
 
@@ -156,7 +156,7 @@ If the agency identifies that the problem is with VTEX controls, apps, or native
 
 ## External marketplace integrations
 
-VTEX has a native multi-seller architecture that allows VTEX stores to become marketplaces or sellers in other VTEX stores. The platform has native integrations with external marketplaces, allowing you to sell your products without having to write a single line of code. The marketplaces with native integrations can be found in the [Marketplaces and Integrations](/en/tutorial/marketplaces-e-integracoes--5AcBO1t29nhq7rBHas9b6V) tab.
+VTEX has a native multi-seller architecture that allows VTEX stores to become marketplaces or sellers in other VTEX stores. The platform has native integrations with external marketplaces, allowing you to sell your products without having to write a single line of code. The marketplaces with native integrations can be found in the [Marketplaces and Integrations](/en/docs/tutorials/marketplaces-and-integrations) tab.
 
 Even so, there may be strategic partner stores for your business that operate outside this native collaborative network. In such cases, VTEX allows developing[ integrations with external marketplaces](https://developers.vtex.com/docs/guides/external-marketplace-integration-guide), where external connectors (hubs) establish the communication between a VTEX store and a non-native external marketplace.
 
@@ -191,7 +191,7 @@ For more information on who is responsible for each step of the order flow in an
 To understand the right support to request in case of issues with updating the order status, follow the steps below:
 
 1. In the VTEX Admin, go to **Orders > All Orders**.
-2. Click the desired order to go to the [order details page](/en/tutorial/order-details-page--2Y75n54Cc9VizrlG1N6ZNl).
+2. Click the desired order to go to the [order details page](/en/docs/tutorials/order-details-page).
 3. In the **Order History** section, click `View Interactions` (button illustrated below) and check for any error messages.
 
 ![view-interactions-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/support/operational/responsibilities-in-the-vtex-ecosystem_2.png)

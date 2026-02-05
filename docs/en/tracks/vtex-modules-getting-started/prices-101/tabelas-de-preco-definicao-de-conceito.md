@@ -23,9 +23,9 @@ A price table can be considered an entity that calculates and provides the [comp
 
 ## Relationship between price tables and trade policies
 
-Price tables and [trade policies](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) serve distinct purposes. Price tables contain the SKU prices, determining how much each item costs in a particular context. Trade policies define the sales context, specifying who will see the price and where it will be displayed.
+Price tables and [trade policies](/en/docs/tutorials/how-trade-policies-work) serve distinct purposes. Price tables contain the SKU prices, determining how much each item costs in a particular context. Trade policies define the sales context, specifying who will see the price and where it will be displayed.
 
-When not linked to trade policies, price tables can be applied in contexts such as [promotions](/en/tutorial/lista-de-promocoes-beta--4yB7nNdliiFxBTXE19GCIi) and [customer clusters](/en/tutorial/criando-promocao-para-um-cluster-de-clientes--tutorials_342). However, if a table is created to support a trade policy, it must be exclusively associated with that policy. 
+When not linked to trade policies, price tables can be applied in contexts such as [promotions](/en/docs/tutorials/promotion-list-beta) and [customer clusters](/en/docs/tutorials/creating-promotion-for-a-customer-cluster). However, if a table is created to support a trade policy, it must be exclusively associated with that policy. 
 
 > ℹ️ A table linked to a trade policy defines the SKU prices for that specific sales context and cannot be used in other contexts.
 

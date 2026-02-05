@@ -45,34 +45,34 @@ If you already have a partnership with VTEX, the MSA can be found at the top of 
 
 ## Gaining access to the VTEX Admin
 
-After signing the commercial agreement, the [sponsor user](/en/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy) receives access to the VTEX Admin by email within 10 working days.  The sponsor user is the store's main administrator and the only one with full access to all VTEX Admin sections, including important maintenance and authorization actions.
+After signing the commercial agreement, the [sponsor user](/en/docs/tutorials/what-is-the-sponsor-user) receives access to the VTEX Admin by email within 10 working days.  The sponsor user is the store's main administrator and the only one with full access to all VTEX Admin sections, including important maintenance and authorization actions.
 
 Initially, the main actions only the sponsor user can perform are:
 
 * Request a test environment for the account manager.
-* Add new users to the VTEX environment. To do so, you need to understand the existing [roles](/en/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy).
-* [Enable two-factor authentication login](/en/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ) for operators.
+* Add new users to the VTEX environment. To do so, you need to understand the existing [roles](/en/docs/tutorials/predefined-roles).
+* [Enable two-factor authentication login](/en/docs/tutorials/enabling-2-factor-authentication-login) for operators.
 * Set [login options](/en/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs#formas-de-login) for store customers.
 
 Other actions may be restricted to this user, which are listed in the [Sponsor user](/en/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy#acoes-restritas-ao-usuario-titular) article.
 
-> ⚠️ **Sponsor user** is not the same as **Owner (Admin Super)**. **Owner(Admin Super)** is a [License Manager role](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) that gives permissions to a user and can be assigned to multiple users. However, there is only one **Sponsor user** per [account](/en/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC).
+> ⚠️ **Sponsor user** is not the same as **Owner (Admin Super)**. **Owner(Admin Super)** is a [License Manager role](/en/docs/tutorials/license-manager-resources) that gives permissions to a user and can be assigned to multiple users. However, there is only one **Sponsor user** per [account](/en/docs/tutorials/what-is-an-account-name).
 
 ## Users and permissions
 
-All admin users listed on a VTEX account can perform actions depending on their [role](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) and permissions to access the [platform's resources](/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3). For example, to restore a transaction, the user must have a role with permission to use the `View Payment Data` resource.
+All admin users listed on a VTEX account can perform actions depending on their [role](/en/docs/tutorials/roles) and permissions to access the [platform's resources](/en/docs/tutorials/license-manager-resources). For example, to restore a transaction, the user must have a role with permission to use the `View Payment Data` resource.
 
 ### Adding admin users
 
-New users must be added to the VTEX Admin via the **Account Management** page, following the steps in the [How to manage users](/en/tutorial/gerenciando-usuarios--tutorials_512) article. On this page, you can also edit, delete, or export users.
+New users must be added to the VTEX Admin via the **Account Management** page, following the steps in the [How to manage users](/en/docs/tutorials/managing-admin-users) article. On this page, you can also edit, delete, or export users.
 
 ### Setting roles and permissions for users
 
-To define the actions a user can perform in the VTEX Admin, follow the instructions in the [Roles](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) article. You can assign [predefined roles](/en/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy) to users, or if you need roles that include different permissions from the predefined ones, you can create [custom roles](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role).
+To define the actions a user can perform in the VTEX Admin, follow the instructions in the [Roles](/en/docs/tutorials/roles) article. You can assign [predefined roles](/en/docs/tutorials/predefined-roles) to users, or if you need roles that include different permissions from the predefined ones, you can create [custom roles](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role).
 
 ## Platform and storefront authentication
 
-You need to configure the [authentication](/en/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs) method that will be available to customers when logging in to the store and admin users when logging in to the VTEX Admin. Authentication in the VTEX environment can be done in several ways. For example, access code and password are always available, while Google is optional.
+You need to configure the [authentication](/en/docs/tutorials/authentication) method that will be available to customers when logging in to the store and admin users when logging in to the VTEX Admin. Authentication in the VTEX environment can be done in several ways. For example, access code and password are always available, while Google is optional.
 
 To log in to the store, VTEX provides authentication by access code, password, [Facebook](/en/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook), and [Google](/en/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google) so that you can enable one or more authentication methods. The instructions for enabling these solutions can be found in the [Authentication](/en/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs#login) article.
 
@@ -90,7 +90,7 @@ The table below shows the three authentication types available:
 
 ## Trade policy
 
-An important concept on VTEX is [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV), which is a group of settings that includes:
+An important concept on VTEX is [trade policy](/en/docs/tutorials/how-trade-policies-work), which is a group of settings that includes:
 
 * [Catalog](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#catalog)
 * [Prices](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#prices)
@@ -102,11 +102,11 @@ In every integration with a sales channel, a trade policy must be linked, and wh
 
 Depending on its architecture on VTEX, the store can benefit from more than one trade policy or associate strategies from several trade policies with [multistores](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multistore) and [additional environments](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#additional-environment). The [Accounts and architecture](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) article explains the relationship between these concepts.
 
-> ℹ️ To [create a trade policy](/en/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) and to [request additional trade policies](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), contact [VTEX Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#requesting-an-additional-trade-policy).
+> ℹ️ To [create a trade policy](/en/docs/tutorials/creating-a-trade-policy) and to [request additional trade policies](/en/docs/tutorials/requesting-an-additional-trade-policy), contact [VTEX Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#requesting-an-additional-trade-policy).
 
 ## Edition Apps
 
-[Edition Apps](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app) are bundles that combine configurations and apps in a single set. They are created by [Sponsor accounts](https://developers.vtex.com/docs/guides/vtex-io-documentation-sponsor-account) to facilitate [franchise account](/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) configuration. Some examples are **Edition Store** and **Edition Business**, which are provided natively. Any Edition App depends on `vtex.edition-business` or `vtex.edition-store`.
+[Edition Apps](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app) are bundles that combine configurations and apps in a single set. They are created by [Sponsor accounts](https://developers.vtex.com/docs/guides/vtex-io-documentation-sponsor-account) to facilitate [franchise account](/en/docs/tutorials/what-is-a-franchise-account) configuration. Some examples are **Edition Store** and **Edition Business**, which are provided natively. Any Edition App depends on `vtex.edition-business` or `vtex.edition-store`.
 
 Contact our [support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) team to change an Edition App, keeping in mind that only the _Sponsor account_ can make changes. To create an Edition App, you must meet the requirements for [Developing an Edition App](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app#developing-an-edition-app).
 

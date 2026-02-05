@@ -15,18 +15,18 @@ trackSlugEN: catalog-101
 order: 1
 ---
 
-The [Catalog](/en/tutorial/catalog-overview--77M8ItLhDXs6aBdQTqToVe) menu contains the features related to the product assortment of your ecommerce store. In order for your customer to see the products on the website, you need to add them to this VTEX Admin menu first.
+The [Catalog](/en/docs/tutorials/catalog-overview) menu contains the features related to the product assortment of your ecommerce store. In order for your customer to see the products on the website, you need to add them to this VTEX Admin menu first.
 
 The **Catalog** section enables the setup of capabilities related to the assortment of ecommerce products, such as their categories, brands, and collections, for example. To sell your products, you must add them in this section.
 
 This section includes the following pages:
 
-- [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By)
-- [Categories](/en/tutorial/registering-a-category--tutorials_206)  
-- [Brands](/en/tutorial/registering-brands--tutorials_1414) 
-- [Collections](/en/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye)    
-- [List Types](/en/tutorial/creating-a-type-of-list--tutorials_254)    
-- [Custom Product Attributes](/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU)    
-- [Import and Export](/en/tutorial/filling-in-fields-in-the-import-spreadsheet--4nYhx63Q5yokQWaMguaIgI)    
-- [Reports](/en/tutorial/how-to-use-the-index-report--4ikVpMhwByyS8sysaeOIm4)
+- [Products and SKUs](/en/docs/tutorials/products-and-skus)
+- [Categories](/en/docs/tutorials/registering-a-category)  
+- [Brands](/en/docs/tutorials/registering-brands) 
+- [Collections](/en/docs/tutorials/creating-collections-beta)    
+- [List Types](/en/docs/tutorials/creating-a-type-of-list)    
+- [Custom Product Attributes](/en/docs/tutorials/adding-an-attachment)    
+- [Import and Export](/en/docs/tutorials/filling-in-fields-in-the-import-spreadsheet)    
+- [Reports](/en/docs/tutorials/how-to-use-the-index-report)
 - [Suppliers](/en/tutorial/catalog-overview--77M8ItLhDXs6aBdQTqToVe#suppliers)  

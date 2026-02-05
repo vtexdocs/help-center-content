@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-The Promotions module defines which promotion will be applied to a purchase. Similarly, the [Checkout](/en/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) module selects which seller will fulfill an order. This logic is called promotion competition.  
+The Promotions module defines which promotion will be applied to a purchase. Similarly, the [Checkout](/en/docs/tutorials/checkout-vtex-overview) module selects which seller will fulfill an order. This logic is called promotion competition.  
 
 Promotion competition occurs when:  
 
@@ -34,9 +34,9 @@ Learn more about some concepts of the Promotions module to understand how the pr
 
 Promotion effects are related to the benefits the promotion offers, which can be of four types:  
    - **Price discount**: Promotions that apply a percentage or nominal discount to the product price. This includes multiple discounts, such as [regular promotions](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) and other mechanisms affecting the item price.  
-- **Shipping discount**: [Promotions with a discount applied to the shipping cost](/en/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW).  
+- **Shipping discount**: [Promotions with a discount applied to the shipping cost](/en/docs/tutorials/configuring-shipping-promotions).  
 - **Gift**: Promotions that offer customers one or more gifts.  
-- **Formula**: Promotions with nominal discount based on [formula](/en/tutorial/promocao-regular-com-desconto-nominal-baseado-em-formula--2Pwrq6THyGViNedQG381jV), which is one of the options of a regular promotion.
+- **Formula**: Promotions with nominal discount based on [formula](/en/docs/tutorials/regular-promotion-with-nominal-discount-based-on-formula), which is one of the options of a regular promotion.
 
 ## Promotion sorting rule
 
@@ -97,7 +97,7 @@ The application sequence is:
 
 ![promoção](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/how-promotion-competition-works_1.png)
 
-> ⚠️ Orders originating from [Marketplace](/en/tutorial/configurar-promocao-para-marketplace--tutorials_406) or Fulfillment don't support combined promotions, as the use of promotions on VTEX or external marketplaces is restricted to specific types.
+> ⚠️ Orders originating from [Marketplace](/en/docs/tutorials/configuring-promotions-for-marketplaces) or Fulfillment don't support combined promotions, as the use of promotions on VTEX or external marketplaces is restricted to specific types.
 
 ## Promotion competition strategies
 
@@ -112,7 +112,7 @@ There are two competition strategies:
 - [Competition by scenario](#competition-by-scenario)
 - [Competition by item](#competition-by-item)
 
-> ℹ️ By default, all accounts follow the competition by scenario strategy. If the item-based competition strategy better suits your business needs, [please open a ticket with our Support team](/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) and request the change.
+> ℹ️ By default, all accounts follow the competition by scenario strategy. If the item-based competition strategy better suits your business needs, [please open a ticket with our Support team](/en/docs/tutorials/opening-tickets-to-vtex-support) and request the change.
 
 ### Competition by scenario
 
@@ -271,7 +271,7 @@ VTEX applies the strategy that gives the greatest discount. Since the final orde
 
 ### Competition by item
 
-The Promotions module can be configured to apply the greatest discount on each item in the cart, rather than combining promotions at the cart level. Stores can choose this configuration based on their business strategy. If you want to use this model and it's not enabled yet, [open a ticket](/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) with the Support team to request the change.  
+The Promotions module can be configured to apply the greatest discount on each item in the cart, rather than combining promotions at the cart level. Stores can choose this configuration based on their business strategy. If you want to use this model and it's not enabled yet, [open a ticket](/en/docs/tutorials/opening-tickets-to-vtex-support) with the Support team to request the change.  
 
 Competition by item works like this:  
 

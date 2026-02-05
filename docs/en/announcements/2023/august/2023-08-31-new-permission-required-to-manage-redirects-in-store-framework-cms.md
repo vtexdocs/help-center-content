@@ -19,7 +19,7 @@ announcementSynopsisEN: 'Creating redirects in the Store Framework CMS requires 
 
 ## What has changed?
 
-To allow Admin users to create, edit, and remove redirects in the CMS, they must have a role with the [License Manager](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **CMS Settings** resource.
+To allow Admin users to create, edit, and remove redirects in the CMS, they must have a role with the [License Manager](/en/docs/tutorials/license-manager-resources) **CMS Settings** resource.
 
 ## Why did we make this change?
 
@@ -31,4 +31,4 @@ For an existing Admin user to be able to manage redirects in the Store Framework
 
 If you want to use a customized role, you can create a new role or edit an existing one to include the **CMS Settings** resource. Check the instructions for creating and editing roles in the [Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) article.
 
-Learn more about redirects in the [Managing URL redirects](/en/tutorial/managing-url-redirects--3UJuFrU8imSVWg134mkvJV) article.
+Learn more about redirects in the [Managing URL redirects](/en/docs/tutorials/managing-url-redirects) article.

@@ -19,7 +19,7 @@ One of the first things you need to do on your website is to _link it to an acco
 
 **Website binding** bridges the gap between CMS and the information defined in the accounts and permissions module. It states that an **account name** (configured in the accounts module) is linked to the folder and file structure of a particular **Website** (built in CMS).
 
-To link it, check out our [article about linking an account name to a website.](/en/tutorial/linking-an-account-name-to-a-website-binding--PxjfleOw6suCSO2uGWMMs)
+To link it, check out our [article about linking an account name to a website.](/en/docs/tutorials/linking-an-account-name-to-a-website-binding)
 
 
 ![Binding](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/contas-e-permissoes/como-a-conta-se-relaciona-as-paginas-do-site_1.png)

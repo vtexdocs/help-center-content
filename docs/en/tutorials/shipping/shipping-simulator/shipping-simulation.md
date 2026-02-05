@@ -17,7 +17,7 @@ subcategoryId: 1O8AEORWOcgIiMosGoousQ
 
 The **Shipping Simulator** in the Admin simulates and analyzes available shipping options. The simulation checks the shipping conditions which enables the retailer to check availability of items, delivery methods, costs, and deadlines. 
 
-The simulator can also be used to validate the **[Shipping Strategy](/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)** settings before enabling the logistics process (Inventory, Dock, and [Shipping Policy](/en/tutorial/politica-de-envio--tutorials_140)) considering:
+The simulator can also be used to validate the **[Shipping Strategy](/en/docs/tutorials/shipping-strategy)** settings before enabling the logistics process (Inventory, Dock, and [Shipping Policy](/en/docs/tutorials/shipping-policy)) considering:
 
 * **Item Availability**: the simulator checks if the item is in stock and whether it is possible to ship it (checks if there are carriers for that region, for example). If one of the criteria is not met, the simulator assumes that the item is unavailable.
 * **White Label Sellers Availability:** the simulator selects the white label seller that is closest to the shipping address (the logistics settings are calculated in the _White Label Seller’s_ environment, not in the main account). 
@@ -51,9 +51,9 @@ If you want, you can check the `Simulate items individually` box.
 
 ## Simulation details
 
-The shipping simulation shows all the shipping possibilities and availability for the items included in the simulation and describes [delivery details for an order](/en/tutorial/pagina-de-detalles-del-pedido--2Y75n54Cc9VizrlG1N6ZNl) or shipping cost and delivery time taking into account the factors below.
+The shipping simulation shows all the shipping possibilities and availability for the items included in the simulation and describes [delivery details for an order](/en/docs/tutorials/order-details-page) or shipping cost and delivery time taking into account the factors below.
 
-* **Excluded carriers**: when running the simulation, some carriers may be unavailable because they do not meet the [Shipping Policy’s](/en/tutorial/politica-de-envio--tutorials_140) criteria  (see[excluded carriers](#excluded-carrier) for more information).
+* **Excluded carriers**: when running the simulation, some carriers may be unavailable because they do not meet the [Shipping Policy’s](/en/docs/tutorials/shipping-policy) criteria  (see[excluded carriers](#excluded-carrier) for more information).
 * **Simulation sharing**: the simulation can be shared by clicking `share shipping simulation` in the upper right corner of the page. When you click, a share link is copied to your clipboard. This feature makes it easy to get the VTEX team, or your store’s team, to resolve issues on specific orders. Only users who have access to the VTEX environment can view the share link.
 * **Shipping rate:** in simulations that have more than one SKU, the `shipping rate` is proportionally divided according to the weight of each SKU in the package. For example, consider a simulation with 2 SKUs (one weighs 2kg, and the other one weighs 3kg). Let us assume that the shipping rate with Carrier A is US 10 in total. In this case, the cost for the lighter SKU is US 4, and the cost for the heavier one is US 6. To learn more, check [How proportional shipping costs are calculated](/en/tutorial/como-e-feito-o-rateio-de-frete--frequentlyAskedQuestions_155?&utm_source=autocomplete).
 * **Package dimensions**: in simulations where the SKUs have more than 1 unit, the `dimensions` described next to the SKU on the simulation page do not change. The system will take into account that the total package dimensions increased.
@@ -81,7 +81,7 @@ The shipping simulation shows all the shipping possibilities and availability fo
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">The weight or size of the item is not supported by the carrier.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Check the settings in the s [hipping rate template](/en/tutorial/como-montar-a-planilha-de-frete--tutorials_127) for the ***WeightStart***,***WeightEnd***, and ***MaxVolume*** fields. Also, check if there are any errors in the [ product settings in the catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
+   <td class="t-body pa5" style="min-width: 15rem;">Check the settings in the s [hipping rate template](/en/docs/tutorials/shipping-rate-template) for the ***WeightStart***,***WeightEnd***, and ***MaxVolume*** fields. Also, check if there are any errors in the [ product settings in the catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
    </td>
   </tr>
   <tr class="bb b--muted-3">
@@ -93,13 +93,13 @@ The shipping simulation shows all the shipping possibilities and availability fo
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">Delivery scheduling options are not available.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Check the [ scheduled delivery](/en/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi)window settings and the hours of operation for the [shipping policy](/en/tutorial/politica-de-envio--tutorials_140).The delivery windows may be blocked. Make sure that the correct windows are active.
+   <td class="t-body pa5" style="min-width: 15rem;">Check the [ scheduled delivery](/en/docs/tutorials/scheduled-delivery)window settings and the hours of operation for the [shipping policy](/en/docs/tutorials/shipping-policy).The delivery windows may be blocked. Make sure that the correct windows are active.
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">The carrier does not offer service in that zip code.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Check the settings in the [shipping rate template](/en/tutorial/como-montar-a-planilha-de-frete--tutorials_127) for the ***ZipCodeStart*** and ***ZipCodeEnd*** fields.You should also check the [shipping rates](/en/tutorial/editing-freight-values--tutorials_141) in the **Shipping** module.
+   <td class="t-body pa5" style="min-width: 15rem;">Check the settings in the [shipping rate template](/en/docs/tutorials/shipping-rate-template) for the ***ZipCodeStart*** and ***ZipCodeEnd*** fields.You should also check the [shipping rates](/en/docs/tutorials/managing-shipping-rates) in the **Shipping** module.
    </td>
   </tr>
   <tr class="bb b--muted-3">
@@ -116,19 +116,19 @@ The shipping simulation shows all the shipping possibilities and availability fo
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">The carrier is **inactive**.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Check the [shipping policy](/en/tutorial/politica-de-envio--tutorials_140) in the system to make sure the carrier is active.
+   <td class="t-body pa5" style="min-width: 15rem;">Check the [shipping policy](/en/docs/tutorials/shipping-policy) in the system to make sure the carrier is active.
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">The price of the items does not meet carrier specifications.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Check the settings in the [shipping policy](/en/tutorial/politica-de-envio--tutorials_140) to see the price limit that is accepted.
+   <td class="t-body pa5" style="min-width: 15rem;">Check the settings in the [shipping policy](/en/docs/tutorials/shipping-policy) to see the price limit that is accepted.
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">The carrier’s hours of operation do not meet the shipping schedule.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Check the hours of operation in the [shipping policy](/en/tutorial/politica-de-envio--tutorials_140).
+   <td class="t-body pa5" style="min-width: 15rem;">Check the hours of operation in the [shipping policy](/en/docs/tutorials/shipping-policy).
  </td>
   </tr>
 </table>

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-The [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By) page allows merchants to manage existing products and variations or add new ones. This article describes how to add or edit SKUs. For information on products, see [Adding or editing products](/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8).
+The [Products and SKUs](/en/docs/tutorials/products-and-skus) page allows merchants to manage existing products and variations or add new ones. This article describes how to add or edit SKUs. For information on products, see [Adding or editing products](/en/docs/tutorials/adding-or-editing-products).
 
 Every new SKU must be linked to a product. Once the product is created, follow the steps below to add a new SKU:
 
@@ -43,13 +43,13 @@ Every new SKU must be linked to a product. Once the product is created, follow t
 
 7. Click `Save`.
 
-> ❗ You can deactivate a SKU after creating it, but you can't delete a single SKU. The platform only allows bulk deletion of products and SKUs via [Database Maintenance (Full Cleanup)](/en/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802).
+> ❗ You can deactivate a SKU after creating it, but you can't delete a single SKU. The platform only allows bulk deletion of products and SKUs via [Database Maintenance (Full Cleanup)](/en/docs/tutorials/database-maintenance-full-cleanup).
 
-After creating the SKU, you can track its availability for sale through the colored icon. Hovering over the icon displays a tooltip with the meaning of the color, as in the image below. Learn more in [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By).
+After creating the SKU, you can track its availability for sale through the colored icon. Hovering over the icon displays a tooltip with the meaning of the color, as in the image below. Learn more in [Products and SKUs](/en/docs/tutorials/products-and-skus).
 
 ![adding_or_editting_sku_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-or-editing-skus_1.png)
 
-Additionally, once the SKU is created, you can include it in a [bundle](/en/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). To do so, in the row of the desired SKU, click the menu icon and select the `Create bundle` option. Note that converting a SKU into a bundle can't be undone.
+Additionally, once the SKU is created, you can include it in a [bundle](/en/docs/tutorials/what-is-a-bundle). To do so, in the row of the desired SKU, click the menu icon and select the `Create bundle` option. Note that converting a SKU into a bundle can't be undone.
 
 See the following sections for details about the form fields and instructions on how to complete them.
 
@@ -68,7 +68,7 @@ Specifications are properties configured in the SKU that customers can select be
 
 The **Specifications** section may display different fields depending on the product associated with the SKU.
 
-> ⚠️ If a SKU has specifications, they must be completed. For more information, see the article [Adding SKU specifications or fields](/en/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119).
+> ⚠️ If a SKU has specifications, they must be completed. For more information, see the article [Adding SKU specifications or fields](/en/docs/tutorials/adding-sku-specifications-or-fields).
 
 > ❗ It's not possible to create a SKU with the same values combination​ as another SKU. For example, if the combination of SKU A is color black and size S, it would not be possible to create SKU B with the color black and size S, as this would generate a conflict. However, if the SKU A was black and the SKU B color was blue, even if you kept the size S for both, there would be no conflict as the combinations would differ. It is worth mentioning that you can deactivate but not delete a single SKU.
 
@@ -93,7 +93,7 @@ The table below shows the size limits and formats accepted for each image:
 | Minimum size in KB | 300 KB |
 | Allowed file extensions | <ul><li>JPG</li><li>PNG</li><li>GIF</li><li>ICO</li><li>SVG</li><li>WEBP</li></ul> |
 
-> ℹ️ For more recommendations, check the article [Best practices for using images in the Catalog](/en/tutorial/best-practices-for-using-images-in-the-catalog--738K2yfq5U86kUI2k4AQIk).
+> ℹ️ For more recommendations, check the article [Best practices for using images in the Catalog](/en/docs/tutorials/best-practices-for-using-images-in-the-catalog).
 
 After uploading an image, you can edit its metadata by following the steps below:
 
@@ -140,17 +140,17 @@ The fields in this section refer to the codes that identify the SKU:
 
 ## Logistics
 
-These are the SKU fields related to [logistics](/en/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP):
+These are the SKU fields related to [logistics](/en/docs/tutorials/fulfillment-logistics-vtex):
 
 ## Modal (optional)
 
-[Modal](/en/tutorial/como-funciona-o-modal--tutorials_125) is a carrier configuration for specialized deliveries, as some products require special transport conditions, such as refrigeration or the ability to carry chemical cargo.
+[Modal](/en/docs/tutorials/how-does-the-modal-work) is a carrier configuration for specialized deliveries, as some products require special transport conditions, such as refrigeration or the ability to carry chemical cargo.
 
-When previously created, modal options for the SKU will be displayed in a list, allowing you to select a single option. To learn more, see the article [Setting up modal for carriers](/en/tutorial/configurar-modal-para-transportadoras--3jhLqxuPhuiq24UoykCcqy).
+When previously created, modal options for the SKU will be displayed in a list, allowing you to select a single option. To learn more, see the article [Setting up modal for carriers](/en/docs/tutorials/configure-modal).
 
 ### Shipping weight and dimensions
 
-The following fields are used to [calculate the cubic weight factor](/en/tutorial/como-o-peso-cubado-e-calculado--tutorials_128) of the SKU and refer to the package used for its transportation:
+The following fields are used to [calculate the cubic weight factor](/en/docs/tutorials/understanding-the-cubic-weight-factor) of the SKU and refer to the package used for its transportation:
 
 * **Package weight:** Absolute weight value.
 * **Package width:** Absolute width value.
@@ -181,21 +181,21 @@ Define inventory aspects in the Catalog context:
 
 This section includes fields related to the store's sales strategies:
 
-* **Commercial condition:** Defines the promotions or [payment conditions](/en/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) that are valid for the SKU. If no commercial condition is needed, select the `Default` option. Learn more in [Registering a commercial condition](/en/tutorial/como-cadastrar-condicao-comercial--tutorials_445#).
-* **Presale date:** Sets a presale date for the SKU, indicating when the item is expected to arrive in stores and be available for sale. To configure this setting, you need to consider both the item release date and the [estimated shipping](/en/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) to customers.
-* **Generate credit with gift card:** When enabled, specifies that the sale of the SKU will generate a [gift card](/en/tutorial/gift-card--tutorials_995) credit to the customer.
+* **Commercial condition:** Defines the promotions or [payment conditions](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) that are valid for the SKU. If no commercial condition is needed, select the `Default` option. Learn more in [Registering a commercial condition](/en/tutorial/como-cadastrar-condicao-comercial--tutorials_445#).
+* **Presale date:** Sets a presale date for the SKU, indicating when the item is expected to arrive in stores and be available for sale. To configure this setting, you need to consider both the item release date and the [estimated shipping](/en/docs/tutorials/how-shipping-calculation-works) to customers.
+* **Generate credit with gift card:** When enabled, specifies that the sale of the SKU will generate a [gift card](/en/docs/tutorials/gift-card) credit to the customer.
 * **Loyalty amount**: Determines the credit the customer receives when purchasing 1 unit of a given SKU. For example, if this field is set to $1.00, the customer who buys the SKU will receive a $1.00 store credit for future purchases.
 
 ## Customizations
 
-SKUs can be configured to offer customization options to customers. For example, a customer can add a name to a t-shirt. There are two types of customizations: [attachments](/en/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) and [services](/en/tutorial/o-que-e-um-servico).
+SKUs can be configured to offer customization options to customers. For example, a customer can add a name to a t-shirt. There are two types of customizations: [attachments](/en/docs/tutorials/what-is-an-attachment) and [services](/en/tutorial/o-que-e-um-servico).
 
 To link a customization to a SKU, click the add + icon, select the desired option, and follow these steps:
 
 * `Attachments`: Clicking this option opens the **Choose the attachments you want to link** modal. Select the desired attachments and click `Apply`.
 * `Services`: Clicking this option opens the **New service** modal. Complete the fields and set the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i> to **Active**. Click `Apply` to save the information.
 
-> ⚠️ The attachment and service options for the SKU must be configured in advance. For more information, see the articles [Adding an attachment](/en/tutorial/cadastrar-um-anexo--7zHMUpuoQE4cAskqEUWScU) and [Creating a service for a SKU](/en/tutorial/criar-servico-para-um-sku--tutorials_252).
+> ⚠️ The attachment and service options for the SKU must be configured in advance. For more information, see the articles [Adding an attachment](/en/docs/tutorials/adding-an-attachment) and [Creating a service for a SKU](/en/docs/tutorials/creating-service-for-a-sku).
 
 ## Cross-sell and up-sell recommendations
 
@@ -215,7 +215,7 @@ To configure cross-sell and up-sell options, follow the steps below:
 4. Select the SKUs you want to add. You can use the search bar if you wish.
 5. Click `Apply`.
 
-> ℹ️ For more information, see the article [How to set up similar product, suggestions, accessories and generics](/en/tutorial/configurar-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280).
+> ℹ️ For more information, see the article [How to set up similar product, suggestions, accessories and generics](/en/docs/tutorials/setting-up-a-similar-product-suggestions-accessories-and-generics).
 
 ## Attributes
 
@@ -232,7 +232,7 @@ To configure an attribute for the SKU, follow the steps below:
 
 ## Learn more
 
-* [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By)
-* [Adding or editing products](/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8)
-* [Catalog: Overview](/en/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe)
+* [Products and SKUs](/en/docs/tutorials/products-and-skus)
+* [Adding or editing products](/en/docs/tutorials/adding-or-editing-products)
+* [Catalog: Overview](/en/docs/tutorials/catalog-overview)
 * [Catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ) (track)

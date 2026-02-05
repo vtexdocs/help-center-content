@@ -209,7 +209,7 @@ This URL has some query parameters, including the `X-VTEX-signature`. This param
 https://gatewayqa.vtexpayments.com.br/api/pvt/payment-provider/transactions/8FB0F111111122222333344449984ACB/payments/A2A9A25B11111111222222333327883C/callback?accountName=teampaymentsintegrations&X-VTEX-signature=R123456789aBcDeFGHij1234567890tk
 ```
 
-In the [Transactions page of the Admin](/en/tutorial/how-to-view-the-orders-details--tutorials_452), the signature token appears masked for security reasons, as in this example: `X-VTEX-signature=Rj******tk`.
+In the [Transactions page of the Admin](/en/docs/tutorials/how-to-view-the-orders-details), the signature token appears masked for security reasons, as in this example: `X-VTEX-signature=Rj******tk`.
 
 See below an example of a payload forwarded along with the callback URL:
 

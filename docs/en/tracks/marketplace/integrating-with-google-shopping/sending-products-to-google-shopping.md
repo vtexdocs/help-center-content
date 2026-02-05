@@ -85,7 +85,7 @@ In addition to basic product information, you can upload custom labels to Google
 
 ### How to configure it
 
-You need to create *custom labels* in the Google Merchant Center. After creating the *custom labels* in the Google Merchant Center, follow the tutorial [Adding product specifications or fields](/en/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) to associate them with a specific offer using **product specifications.**  
+You need to create *custom labels* in the Google Merchant Center. After creating the *custom labels* in the Google Merchant Center, follow the tutorial [Adding product specifications or fields](/en/docs/tutorials/adding-specifications-or-product-fields) to associate them with a specific offer using **product specifications.**  
 
 When creating the new product specification field, complete it with the following values:  
 

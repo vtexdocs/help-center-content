@@ -19,12 +19,12 @@ tags:
   - Invoice
 ---
 
-When following your store [order flow](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196), you may come across an order that has the status `Verifying invoice` for longer than expected. This status means the platform is verifying that the payment has been settled and the order's invoice has been correctly added, which are required conditions for the order to move forward in the flow.
+When following your store [order flow](/en/docs/tutorials/order-flow-and-status), you may come across an order that has the status `Verifying invoice` for longer than expected. This status means the platform is verifying that the payment has been settled and the order's invoice has been correctly added, which are required conditions for the order to move forward in the flow.
 
 The status `Verifying invoice` usually indicates the following reasons:
 
-* There was a problem with the [payment settlement](/en/tutorial/configurar-tempo-maximo-para-captura-automatica--7dwcaxrcgcFJUk7umqPBw2).
-* The invoice was not correctly added to the order, or the [invoice](/en/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v) was only partially processed.
+* There was a problem with the [payment settlement](/en/docs/tutorials/configuring-maximum-automatic-payment-settlement-time-frame).
+* The invoice was not correctly added to the order, or the [invoice](/en/docs/tutorials/how-to-manually-invoice-an-order) was only partially processed.
 
 ## Solution
 
@@ -43,13 +43,13 @@ Here are some common order invoicing errors and how to fix them:
 To invoice the order (fully or partially) or edit the invoice data via the VTEX Admin, follow the steps below:
 
 1. In the VTEX Admin, go to **Orders > All Orders**, or type **All Orders** in the search bar at the top of the page.
-2. Click the desired order. You can find it [using the filters](/en/tutorial/como-filtrar-pedidos--tutorials_192).
+2. Click the desired order. You can find it [using the filters](/en/docs/tutorials/filtering-all-orders).
 3. In the **Pending invoicing** section, click `Invoice`.
 4. Click the desired option, either sending the invoice as a single invoice or referencing the items.
 5. Complete the fields.
 6. Click `Save Invoice`.
 
-> ℹ️ You can find detailed instructions on how to submit an invoice via the VTEX Admin in [How to invoice an order](/en/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v). If you want to invoice the order via API, use the [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice) endpoint.
+> ℹ️ You can find detailed instructions on how to submit an invoice via the VTEX Admin in [How to invoice an order](/en/docs/tutorials/how-to-manually-invoice-an-order). If you want to invoice the order via API, use the [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice) endpoint.
 
-> ℹ️ If the order needs to be adjusted, you can [change the order via the VTEX Admin](/en/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw).
+> ℹ️ If the order needs to be adjusted, you can [change the order via the VTEX Admin](/en/docs/tutorials/how-to-modify-orders).
 

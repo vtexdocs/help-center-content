@@ -20,7 +20,7 @@ tags:
   - Master Data
 ---
 
-A [custom promotion](/en/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342) can be configured for a specific group of users in your store, such as a [customer cluster](/en/tutorial/how-can-i-create-cluster-of-customers--frequentlyAskedQuestions_1724). However, there may be situations where the promotion is not displayed correctly for this targeted audience. The main reasons are:
+A [custom promotion](/en/docs/tutorials/creating-promotion-for-a-customer-cluster) can be configured for a specific group of users in your store, such as a [customer cluster](/en/docs/tutorials/how-can-i-create-cluster-of-customers). However, there may be situations where the promotion is not displayed correctly for this targeted audience. The main reasons are:
 
 - The cluster value is missing or incorrectly configured in the promotion.
 - Inconsistency between the values added to the promotion and those in the customer profiles.
@@ -59,6 +59,6 @@ To solve it, you can do one of the following:
 
 - Change the __Customer cluster__ condition to __At least one of the following__, allowing customers identified as __employee__ or with the __platinum__ code to access the promotion.
 
-- Keep the __Customer cluster__ condition as __All the following__ and update the records of the desired customers in [Master Data](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) to include both criteria: being an __employee__ and classified in the __platinum__ category.
+- Keep the __Customer cluster__ condition as __All the following__ and update the records of the desired customers in [Master Data](/en/docs/tutorials/master-data) to include both criteria: being an __employee__ and classified in the __platinum__ category.
 
 - Keep the __Customer cluster__ condition as __All the following__ and declare other values currently assigned to the customers you want to display the promotion to.

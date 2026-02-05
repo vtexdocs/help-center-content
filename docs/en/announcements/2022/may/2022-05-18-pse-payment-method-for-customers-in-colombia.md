@@ -26,7 +26,7 @@ PSE is available as a payment method in VTEX stores for transactions in Colombia
 ##  What needs to be done?
 
 To enable PSE in your store, perform the steps below:
-- Check with your chosen payment provider if it already has PSE integrated into the PPP ([Payment Provider Protocol](/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m)) connector. If it is not available yet, ask the provider to perform the connector configuration to [set up the connector](https://developers.vtex.com/docs/guides/pse-payment-method).
-- Open a request in the [VTEX Support Portal](/en/tutorials/how-does-vtex-support-work) (via ticket) to enable the PSE payment method and inform which payment provider will use this method.
-- Install and configure the Banks for PSE application, and set up the PSE in your store. Learn more in the article [Setting up the PSE payment method](/en/tutorial/setting-up-payments-with-pse--7dRChubn7TqdEyWrHQEQp6).
+- Check with your chosen payment provider if it already has PSE integrated into the PPP ([Payment Provider Protocol](/en/docs/tutorials/payment-provider-protocol)) connector. If it is not available yet, ask the provider to perform the connector configuration to [set up the connector](https://developers.vtex.com/docs/guides/pse-payment-method).
+- Open a request in the [VTEX Support Portal](/en/docs/tutorials/how-does-vtex-support-work) (via ticket) to enable the PSE payment method and inform which payment provider will use this method.
+- Install and configure the Banks for PSE application, and set up the PSE in your store. Learn more in the article [Setting up the PSE payment method](/en/docs/tutorials/setting-up-payments-with-pse).
 

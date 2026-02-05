@@ -15,11 +15,11 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'New permissions required to access order configurations in the VTEX Admin'
 ---
 
-To provide more secure and controlled authentication, we have updated how [License Manager](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) validates access to store order configurations. New features are now required for users to access specific pages in the VTEX Admin. 
+To provide more secure and controlled authentication, we have updated how [License Manager](/en/docs/tutorials/roles) validates access to store order configurations. New features are now required for users to access specific pages in the VTEX Admin. 
 
 ## What has changed?
 
-We updated which features of License Manager will be used to validate a user's authentication to access specific pages in the VTEX Admin. Now, the `Save Order Configuration` and `Save OrderForm Configuration` resources are required for the user to access the [general order configuration](/en/tutorial/general-configurations-on-the-oms--tutorials_194) and [affiliate management](/en/tutorial/configuring-affiliates--tutorials_187) pages.
+We updated which features of License Manager will be used to validate a user's authentication to access specific pages in the VTEX Admin. Now, the `Save Order Configuration` and `Save OrderForm Configuration` resources are required for the user to access the [general order configuration](/en/docs/tutorials/general-configurations-on-the-oms) and [affiliate management](/en/docs/tutorials/configuring-affiliates) pages.
 
 ## What needs to be done?
 

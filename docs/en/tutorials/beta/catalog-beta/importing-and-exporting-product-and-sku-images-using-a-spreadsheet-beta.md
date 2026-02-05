@@ -27,7 +27,7 @@ In VTEX Admin, you can manage the import and export of image information using a
 
 To import product and SKU images using a spreadsheet, follow these steps:
 
-1. In the VTEX Admin, go to **Catalog > Product and SKUs**, or type [Product and SKUs](/en/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) in the search bar at the top of the page.
+1. In the VTEX Admin, go to **Catalog > Product and SKUs**, or type [Product and SKUs](/en/docs/tutorials/products-and-skus) in the search bar at the top of the page.
 2. At the top of the page, click `Import`.
 3. Click `Images`.
 4. In the window that opens, click **Download template** to get the file.
@@ -37,7 +37,7 @@ To import product and SKU images using a spreadsheet, follow these steps:
 
 While the import is in progress, a message will be displayed indicating that the file is being processed. Leaving the page won't interrupt the operation. After the operation is complete, you will receive a confirmation email.
 
-> ⚠️ Products with images successfully imported are automatically queued for [indexing](/en/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256). If this doesn't happen, see the article [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website).
+> ⚠️ Products with images successfully imported are automatically queued for [indexing](/en/docs/tutorials/understanding-how-indexation-works). If this doesn't happen, see the article [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website).
 
 ## Exporting product and SKU images using a spreadsheet
 
@@ -45,7 +45,7 @@ To export a `.xlsx` file with the images from your catalog, follow these steps:
 
 > ℹ️ The exported information corresponds to the fields detailed in the section [Product and SKU image spreadsheet fields](#product-and-sku-image-spreadsheet-fields).
 
-1. In the VTEX Admin, go to **Catalog > Product and SKUs**, or type [Product and SKUs](/en/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) in the search bar at the top of the page.
+1. In the VTEX Admin, go to **Catalog > Product and SKUs**, or type [Product and SKUs](/en/docs/tutorials/products-and-skus) in the search bar at the top of the page.
 2. (Optional) If you want to export the images of certain products and SKUs, [search](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#searching-for-a-product) or a [filter](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#filtering-products) the desired items. This step isn't required when exporting the images of all the items in your catalog.
 3. At the top of the page, click `Export`.
 4. Click `Images`.
@@ -58,7 +58,7 @@ After the export of product and SKU images is completed, you will receive an ema
 
 The following table describes and includes an example of each field in the import spreadsheet for images in your catalog. Required fields are marked with an asterisk (*).
 
-> ℹ️ To import a new image, the only required fields are **SKU ID** and **Image import URL**. Learn more in [Best practices for using images in the Catalog](/en/tutorial/boas-praticas-para-o-uso-de-imagens-no-catalogo--738K2yfq5U86kUI2k4AQIk).
+> ℹ️ To import a new image, the only required fields are **SKU ID** and **Image import URL**. Learn more in [Best practices for using images in the Catalog](/en/docs/tutorials/best-practices-for-using-images-in-the-catalog).
 
 | Field | Description | Example |
 | :--- | :--- | :--- |
@@ -73,10 +73,10 @@ The following table describes and includes an example of each field in the impor
 | Image label | Image label name, for internal merchant use to reference values common to images. | Side view |
 | Image text | Text that will be associated with the image, for internal store use. Don't use special characters or diacritical marks, and don't repeat values from the **Image name** and **Image label** fields. | side summer26 tshirt |
 | Image path | Name that is part of the image URL hosted on the VTEX platform. It displays after the last slash `/`, including the file extension. If the field isn't completed, leave it blank. | blue_tshirt_round_collar.jpg |
-| Image import URL | Image that will be associated with the SKU. To import a new image, this field must be [completed with the URL](/en/tutorial/como-definir-a-url-de-um-produto--frequentlyAskedQuestions_368) of the hosted file. It must start with the HTTP protocol identifier (`http://`) and end with one of the following extensions:<ul><li>jpg</li><li>png</li><li>gif</li><li>ico</li><li>svg</li><li>webp</li></ul>To update an existing image, leave the field blank. Otherwise, the image will be created again, which duplicates it. | `http://files.com/ids/image/blue_tshirt_round_collar.jpg` |
+| Image import URL | Image that will be associated with the SKU. To import a new image, this field must be [completed with the URL](/en/docs/tutorials/how-to-define-the-url-for-a-product-page) of the hosted file. It must start with the HTTP protocol identifier (`http://`) and end with one of the following extensions:<ul><li>jpg</li><li>png</li><li>gif</li><li>ico</li><li>svg</li><li>webp</li></ul>To update an existing image, leave the field blank. Otherwise, the image will be created again, which duplicates it. | `http://files.com/ids/image/blue_tshirt_round_collar.jpg` |
 
 ## Learn more
 
-* [Importing and exporting products and SKUs using a spreadsheet (Beta)](/en/tutorial/importing-and-exporting-products-and-skus-using-a-spreadsheet-beta--5udKxWP1ZeBD7QB7Fy2BNl)
-* [Importing and exporting product specifications using a spreadsheet (Beta)](/en/tutorial/importing-and-exporting-product-specifications-using-a-spreadsheet-beta--jQcmbocCb7kjHOr1JSWIL)
-* [Importing and exporting SKU specifications using a spreadsheet (Beta)](/en/tutorial/importing-and-exporting-sku-specifications-using-a-spreadsheet-beta--5EAioeC33wHpIxKHaGQzbV)
+* [Importing and exporting products and SKUs using a spreadsheet (Beta)](/en/docs/tutorials/importing-and-exporting-products-and-skus-using-a-spreadsheet-beta)
+* [Importing and exporting product specifications using a spreadsheet (Beta)](/en/docs/tutorials/importing-and-exporting-product-specifications-using-a-spreadsheet-beta)
+* [Importing and exporting SKU specifications using a spreadsheet (Beta)](/en/docs/tutorials/importing-and-exporting-sku-specifications-using-a-spreadsheet-beta)

@@ -100,4 +100,4 @@ Follow the steps below to configure a new data entity.
 21. Click the **Applications** tab to return to the Master Data homepage.  
 22. Click the `Reload Applications` button.
 
-> ℹ️ After creating the data entity, [create the form for adding, changing, and displaying data in Master Data](/en/tutorial/creating-form-in-master-data--tutorials_1047).
+> ℹ️ After creating the data entity, [create the form for adding, changing, and displaying data in Master Data](/en/docs/tutorials/creating-form-in-master-data).

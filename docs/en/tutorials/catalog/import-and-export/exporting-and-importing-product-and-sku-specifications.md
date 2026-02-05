@@ -57,5 +57,5 @@ Follow the steps below to import the spreadsheet:
 
 ## Learn more
 - [Product and SKU Specifications](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
-- [Adding product specifications or fields](/en/tutorial/adding-specifications-or-product-fields--tutorials_106)
-- [Adding SKU specifications or fields](/en/tutorial/adding-sku-specifications-or-fields--tutorials_119)
+- [Adding product specifications or fields](/en/docs/tutorials/adding-specifications-or-product-fields)
+- [Adding SKU specifications or fields](/en/docs/tutorials/adding-sku-specifications-or-fields)

@@ -22,4 +22,4 @@ You can share your experience on our platform through this button, which can be 
 The Give Feedback button allows the VTEX development team to receive feedback more efficiently, improving communication with our users and allowing us to improve our products and services to meet client needs.
 
 ## What needs to be done?
-No action is required. The feature is available automatically in all stores. For more information, go to [Admin VTEX: Start Here](/en/tutorial/admin-vtex-comece-aqui--531cHtUCUi3puRXNDmKziw).
+No action is required. The feature is available automatically in all stores. For more information, go to [Admin VTEX: Start Here](/en/docs/tutorials/vtex-admin-start-here).
