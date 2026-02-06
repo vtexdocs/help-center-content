@@ -31,7 +31,7 @@ Este artigo orienta os usuários no gerenciamento das políticas da organizaçã
         * **Description:** explicação breve do funcionamento da buying policy, limitado a X caracteres. Ao criar uma boa descrição, os usuários que interagirem com essa política de compra têm maiores chances de entender os motivos pelo qual um pedido foi negado ou precisou de aprovação manual.
     * Em **Criteria**, defina os critérios que resultam na aplicação da buying policy. Para isso, preencha o campo com uma expressão no formato [JSONata](https://jsonata.org/), tal como `score ≥ 10`. É possível selecionar pela interface o critério desejado e apenas editar para os valores desejados (destacados em roxo):
         * **Set spending limit criteria (definir critério com base no preço):** opções de aprovação ou negação de pedidos com base no preço do pedido. Por exemplo, se o pedido é maior, menor ou igual a determinado valor.
-        * **Set order field criteria (definir critério a partir de aspectos do pedido):** opções de aprovação ou negação de pedidos a partir de condições e características do pedido. Por exemplo, se ele tem itens restritos, ou se possue um centro de custo (cost center) específico.
+        * **Set order field criteria (definir critério a partir de aspectos do pedido):** opções de aprovação ou negação de pedidos a partir de condições e características do pedido. Por exemplo, se ele tem itens restritos, ou se possui um centro de custo (cost center) específico.
 
     > ℹ️ Os valores usados nos critérios de autorização de pedidos são centesimais e a moeda é a mesma configurada para a organização.
 
