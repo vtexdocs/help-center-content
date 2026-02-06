@@ -23,7 +23,7 @@ O termo *Headless* refere-se à independência entre a interface que exibe o con
 Para acessar o Headless CMS, entre no Admin VTEX e acesse **Storefront > Headless CMS**.
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-  Para o gerenciamento do Headless CMS, certifique-se de que os [recursos](/pt/docs/tutorials/recursos-do-license-manager) *See CMS menu on the top-bar*, *Settings* e *CMS GraphQL API* estão associados ao seu [Perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete). Do contrário, [ crie um perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso) e adicione esses recursos a eles ou adicione esses recursos a um perfil de acesso existente.
+  Para o gerenciamento do Headless CMS, certifique-se de que os [recursos](/pt/docs/tutorials/recursos-do-license-manager) *See CMS menu on the top-bar*, *Settings* e *CMS GraphQL API* estão associados ao seu [Perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete). Do contrário, [ crie um perfil de acesso](/pt/docs/tutorials/perfis-de-acesso#criando-um-perfil-de-acesso) e adicione esses recursos a eles ou adicione esses recursos a um perfil de acesso existente.
 </div>
 
 Com o Headless CMS, você pode:

@@ -54,4 +54,4 @@ To schedule your store's fixed prices for the presale of a product, follow the s
 
 ## Scheduling content
 
-To increase success in the pre-sales stage and achieve greater customer reach, it is important to enhance the promotion of the product that will be launched. For this purpose, it’s worth to schedule content about the release date, as explained in the article [Scheduling features for special events](/en/tutorial/scheduling-features-for-special-events--2nd50tPWdKK4waXRZLg0JI#scheduling-content).
+To increase success in the pre-sales stage and achieve greater customer reach, it is important to enhance the promotion of the product that will be launched. For this purpose, it’s worth to schedule content about the release date, as explained in the article [Scheduling features for special events](/en/docs/tutorials/scheduling-features-for-special-events#scheduling-content).

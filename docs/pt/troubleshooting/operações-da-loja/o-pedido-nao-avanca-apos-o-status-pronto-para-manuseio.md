@@ -22,7 +22,7 @@ tags:
   - OMS
 ---
 
-O status `Pronto para manuseio` ocorre no [fluxo do pedido](/pt/tutorial/order-flow-on-the-oms--tutorials_196#fluxo-do-seller) logo após a janela de cancelamento ser encerrada. Neste momento, a VTEX deve receber a informação do [sistema ERP](https://developers.vtex.com/docs/guides/erp-integration-guide) de que o pedido foi integrado e o estoque de itens foi atualizado, permitindo desta forma que o fluxo possa prosseguir até o status `Preparando entrega`.
+O status `Pronto para manuseio` ocorre no [fluxo do pedido](/pt/docs/tutorials/fluxo-e-status-de-pedidos#fluxo-do-seller) logo após a janela de cancelamento ser encerrada. Neste momento, a VTEX deve receber a informação do [sistema ERP](https://developers.vtex.com/docs/guides/erp-integration-guide) de que o pedido foi integrado e o estoque de itens foi atualizado, permitindo desta forma que o fluxo possa prosseguir até o status `Preparando entrega`.
 
 Enquanto a VTEX não recebe esta confirmação, o pedido permanece no status `Pronto para manuseio`.
 
@@ -38,7 +38,7 @@ A primeira ação necessária é entrar em contato com o responsável pela sua [
 
 ### Atualização manual do pedido (opcional)
 
-O lojista pode [atualizar manualmente](/pt/tutorial/passar-pedido-para-o-status-preparando-entrega--tutorials_198#pelo-admin-vtex) o status do pedido para `Preparando entrega` via Admin VTEX, caso desejar. Entretanto, para realizar este tipo de ação, é necessário ter um [perfil de acesso com permissão OMS - Full access](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#perfis-de-acesso). 
+O lojista pode [atualizar manualmente](/pt/docs/tutorials/passar-pedido-para-o-status-preparando-entrega#pelo-admin-vtex) o status do pedido para `Preparando entrega` via Admin VTEX, caso desejar. Entretanto, para realizar este tipo de ação, é necessário ter um [perfil de acesso com permissão OMS - Full access](/pt/docs/tutorials/perfis-de-acesso#perfis-de-acesso). 
 
 > ❗ Ao atualizar manualmente o status e confirmar o início do manuseio, o seller assume a responsabilidade pela [reserva dos itens](/pt/docs/tutorials/como-a-reserva-funciona), garantindo que haja estoque suficiente e seja dada a baixa dos itens vendidos. Pedidos atualizados manualmente não podem ser integrados posteriormente no sistema do ERP.
 

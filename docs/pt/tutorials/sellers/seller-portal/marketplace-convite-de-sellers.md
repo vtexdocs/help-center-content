@@ -37,7 +37,7 @@ O convite é feito por meio de um link enviado por email ao seller, que contém 
 1. No Admin VTEX clique em **Marketplace > Convite de sellers.** 
 3. Clique em `Convidar Seller`.    
 4. Preencha os **Dados Gerais** do Seller:
-    - **Nome do Seller:** nome do representante comercial do seller, que vai orquestrar a conexão ao lado do seller. Essa pessoa precisa [ter perfil de acesso para o OMS](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access).
+    - **Nome do Seller:** nome do representante comercial do seller, que vai orquestrar a conexão ao lado do seller. Essa pessoa precisa [ter perfil de acesso para o OMS](/pt/docs/tutorials/perfis-de-acesso#oms-full-access).
     - **Email:** email do representante comercial do seller, que receberá o convite para criação de conta, ou conexão de conta existente.      
 5. Selecione o tipo de seller entre `Comum` e `Whitelabel`.  
 6. Marque a flag **Compartilhar catálogo do marketplace**, se quiser que o seller importe seus produtos e árvore de categorias.   

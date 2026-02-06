@@ -93,7 +93,7 @@ To approve customer access to the store, it is necessary to approve each of the 
 
 ### Configuring the product catalog
 
-To determine which products each group of users will be able to view, you must configure your store’s trade policies. Each trade policy has its own catalog and pricing and logistics specifications. You can [create a new trade policy](/en/faq/como-contratar-nova-politica-comercial--frequentlyAskedQuestions_700) specifically for this purpose or configure an existing one.
+To determine which products each group of users will be able to view, you must configure your store’s trade policies. Each trade policy has its own catalog and pricing and logistics specifications. You can [create a new trade policy](/en/docs/tutorials/creating-a-trade-policy) specifically for this purpose or configure an existing one.
 
 When creating or configuring a trade policy for the B2B context, you’ll need to select the products that will be associated with it. On VTEX, you can associate SKUs individually through the Admin or in bulk using the [Catalog API](https://developers.vtex.com/vtex-developer-docs/reference/catalog-api-overview).
 

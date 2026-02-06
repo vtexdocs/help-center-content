@@ -16,15 +16,15 @@ subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn
 ---
 
 
-VTEX dispone de varias API para que los clientes y partners puedan desarrollar integraciones altamente personalizables con la plataforma.  Las [claves de API](/es/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) se utilizan para proporcionar acceso seguro a los datos consumidos por las integraciones, sin exponer la cuenta a usuarios o aplicaciones no autorizados.
+VTEX dispone de varias API para que los clientes y partners puedan desarrollar integraciones altamente personalizables con la plataforma.  Las [claves de API](/es/docs/tutorials/claves-de-api) se utilizan para proporcionar acceso seguro a los datos consumidos por las integraciones, sin exponer la cuenta a usuarios o aplicaciones no autorizados.
 
 > ℹ️ Este tipo de credencial se utiliza para la autenticación de la identidad a través de la API.
 
-El manejo inadecuado de las [claves de API](/es/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) puede generar fugas y, en consecuencia, situaciones de acceso indebido. A continuación, puedes ver las buenas prácticas que recomendamos para la gestión de estas credenciales que puedes implementar para aumentar la seguridad de tu tienda.
+El manejo inadecuado de las [claves de API](/es/docs/tutorials/claves-de-api) puede generar fugas y, en consecuencia, situaciones de acceso indebido. A continuación, puedes ver las buenas prácticas que recomendamos para la gestión de estas credenciales que puedes implementar para aumentar la seguridad de tu tienda.
 
 ## Rotar las claves periódicamente
 
-Es aconsejable que desactives las claves antiguas y crees claves nuevas a lo largo del tiempo. De esta forma te aseguras de que tus [claves de API](/es/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) tengan una duración determinada.
+Es aconsejable que desactives las claves antiguas y crees claves nuevas a lo largo del tiempo. De esta forma te aseguras de que tus [claves de API](/es/docs/tutorials/claves-de-api) tengan una duración determinada.
 
 Esta práctica se asemeja a la definición de una política de contraseñas con ajustes para los cambios periódicos de contraseñas.
 
@@ -36,7 +36,7 @@ Consulta [Renovar token de API](/es/docs/tutorials/renovar-token-de-api) para sa
 
 ## Reevaluar las claves y los accesos periódicamente
 
-Revisa las [claves de API](/es/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) existentes periódicamente. Comprueba que las integraciones relativas a cada clave están activas y si siguen siendo necesarias. Un proceso proactivo de revisión de accesos permite que cada usuario o integración acceda solo a los recursos que realmente necesita, lo que disminuye las posibilidades de que se produzca cualquier tipo de acceso indebido.
+Revisa las [claves de API](/es/docs/tutorials/claves-de-api) existentes periódicamente. Comprueba que las integraciones relativas a cada clave están activas y si siguen siendo necesarias. Un proceso proactivo de revisión de accesos permite que cada usuario o integración acceda solo a los recursos que realmente necesita, lo que disminuye las posibilidades de que se produzca cualquier tipo de acceso indebido.
 
 Si la recomendación anterior es similar a la definición de cambios de contraseña periódicos, esta recomendación puede compararse con el proceso de revisión de acceso con periodicidad definida.
 
@@ -54,7 +54,7 @@ Las campañas de concienciación sobre la seguridad de la información son una p
 
 Ten en cuenta que parte del código que compone tu tienda, se ejecuta en el cliente, es decir, en el navegador del usuario. Por lo tanto, es normal que esta parte del código esté expuesta a personas ajenas a tu operación.
 
-Luego, es esencial instruir a tu equipo de desarrollo para que no utilice este código al realizar integraciones, ya que este uso suele incluir en el código las [claves de API](/es/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet).
+Luego, es esencial instruir a tu equipo de desarrollo para que no utilice este código al realizar integraciones, ya que este uso suele incluir en el código las [claves de API](/es/docs/tutorials/claves-de-api).
 
 ## No compartas los tokens de API
 

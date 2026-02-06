@@ -237,5 +237,5 @@ Para desactivar el módulo **Capacidad operativa (beta)** sigue los pasos a cont
 2. En el menú de la parte superior derecha de la página, haz clic en `Desactivar módulo`. 
 3. En la ventana modal, haz clic en `Desactivar`.
 
-> ⚠️ Puedes [activar el módulo Capacidad operativa (beta)](/es/tutorial/capacidad-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#activar-el-modulo-capacidad-operativa-beta) para gestionar la capacidad de tus sellers en cualquier momento.
+> ⚠️ Puedes [activar el módulo Capacidad operativa (beta)](/es/docs/tutorials/capacidad-operacional-beta#activar-el-modulo-capacidad-operativa-beta) para gestionar la capacidad de tus sellers en cualquier momento.
 

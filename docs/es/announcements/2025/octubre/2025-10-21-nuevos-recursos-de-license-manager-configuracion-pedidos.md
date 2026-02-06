@@ -23,7 +23,7 @@ Actualizamos los [recursos de License Manager](/es/docs/tutorials/recursos-del-l
 
 ## ¿Qué se necesita hacer?
 
-Para que los usuarios puedan acceder a las páginas mencionadas anteriormente, debes [crear un rol personalizado](/es/tutorial/crear-nuevo-rol--qGtNQpKSSAduX94l2WZBW#rol-personalizado) o [editar el rol existente](/es/tracks/cuentas-y-permisos--5PxyAgZrtiYlaYZBTlhJ2A/6Ymo5bNMyEYBGsTmbTC3H9#editar-perfil-de-acceso) para agregarle los recursos `Save Order Configuration` y `Save OrderForm Configuration`.
+Para que los usuarios puedan acceder a las páginas mencionadas anteriormente, debes [crear un rol personalizado](/es/docs/tutorials/crear-nuevo-rol#rol-personalizado) o [editar el rol existente](/es/tracks/cuentas-y-permisos--5PxyAgZrtiYlaYZBTlhJ2A/6Ymo5bNMyEYBGsTmbTC3H9#editar-perfil-de-acceso) para agregarle los recursos `Save Order Configuration` y `Save OrderForm Configuration`.
 
 Después de agregar los recursos, los usuarios podrán acceder a las páginas del Admin VTEX indicadas.
 

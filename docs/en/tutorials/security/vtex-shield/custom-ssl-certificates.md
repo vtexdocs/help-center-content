@@ -27,7 +27,7 @@ The page displays the following information in a table:
 
 | Columns | Description |
 | :---- | :---- |
-| **Domain** | Host address, consisting of subdomain, domain and top-level domain. For example: www.mystore.com. Learn more about the structure of this address in [Configuring the store domain](/en/tutorial/configuring-the-store-domain--tutorials_2450#store-address-structure). |
+| **Domain** | Host address, consisting of subdomain, domain and top-level domain. For example: www.mystore.com. Learn more about the structure of this address in [Configuring the store domain](/en/docs/tutorials/configuring-the-store-domain#store-address-structure). |
 | **CA** | Certificate Authority. |
 | **Installed on** | Date the certificate was installed. |
 | **Expires on** | Date the certificate expires. |
@@ -61,11 +61,11 @@ If the configuration is successful, you will be redirected to the certificate li
 
 The installation may take 7 days to complete, and during this time, the status of the hosts will be **Installing**. After the installation is complete, the status of the hosts will change to **Active**.
 
-> ℹ️ To learn how to resolve installation errors, see the troubleshooting guide [Error installing custom SSL certificate](/en/tutorial/error-installing-custom-ssl-certificate--6hgFzbcc96mcrqXZMmHCTr).
+> ℹ️ To learn how to resolve installation errors, see the troubleshooting guide [Error installing custom SSL certificate](/en/troubleshooting/error-installing-custom-ssl-certificates).
 
 ## Learn more
 
 * [VTEX Shield](/en/docs/tutorials/vtex-shield)
 * [Configuring the store domain](/en/docs/tutorials/configuring-the-store-domain)
 * [Go-live](/en/docs/tracks/go-live)
-* [Error installing custom SSL certificate](/en/tutorial/error-installing-custom-ssl-certificate--6hgFzbcc96mcrqXZMmHCTr)
+* [Error installing custom SSL certificate](/en/troubleshooting/error-installing-custom-ssl-certificates)

@@ -27,10 +27,10 @@ Para activar el flujo de autorización de pedidos para conectores nativos, debe 
 
 Para los VTEX marketplaces, los marketplaces externos y los conectores certificados (partners), siempre que no se haya creado la regla de Divergencia de precios, los pedidos con error de divergencia de valores se aprueban automáticamente.
 
-Para los [conectores nativos](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex), aunque el seller no configura la regla de Divergencia de precios, se retienen los pedidos con divergencia de valores. Puede consultarlos en su VTEX Admin, en **Marketplace > Conexiones > Pedidos**.
+Para los [conectores nativos](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-conector-nativo-vtex), aunque el seller no configura la regla de Divergencia de precios, se retienen los pedidos con divergencia de valores. Puede consultarlos en su VTEX Admin, en **Marketplace > Conexiones > Pedidos**.
 
 ### Sepa más
 
-- [¿Por qué el pedido fue cerrado con el precio incorrecto?](/es/faq/por-que-o-pedido-foi-fechado-com-um-preco-errado--frequentlyAskedQuestions_708)
+- [¿Por qué el pedido fue cerrado con el precio incorrecto?](/es/troubleshooting/pedido-finalizado-con-precio-incorrecto)
 - [Errores de falta de stock en la integración de pedidos de marketplace](/es/docs/tutorials/errores-de-falta-de-stock-en-la-integracion-de-pedidos-de-marketplace)
 - [Errores de SLA en la integración de pedidos de marketplace](/es/docs/tutorials/errores-de-sla-en-la-integracion-de-pedidos-de-marketplace)

@@ -29,5 +29,5 @@ A interface do formulário de Promoção de Campanha foi otimizada para facilita
 ## O que precisa ser feito?
 Nenhuma ação por parte das lojas é necessária. O novo formulário será disponibilizado em todas as contas VTEX a partir de 08/09/2025.
 
-Para mais informações, acesse [Criar promoção de campanha](/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume#campos-da-promocao-de-campanha).
+Para mais informações, acesse [Criar promoção de campanha](/pt/docs/tutorials/promocao-de-campanha#campos-da-promocao-de-campanha).
 

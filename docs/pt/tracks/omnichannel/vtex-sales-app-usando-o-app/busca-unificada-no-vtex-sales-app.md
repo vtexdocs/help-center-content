@@ -41,7 +41,7 @@ Para adicionar o produto ao carrinho, selecione a variação, entrega e quantida
 
 Os filtros permitem que a busca seja refinada de acordo com as preferências do cliente. Com a possibilidade de associar diferentes filtros, é possível realizar uma combinação precisa de critérios de pesquisa e, se necessário, remover qualquer filtro de forma simples.
 Para utilizar os filtros de busca no VTEX Sales App, é necessário antes instalar e configurar o [VTEX Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search). Nesse contexto, observe alguns pontos de atenção:
-- É fundamental configurar os filtros que serão exibidos, conforme o artigo [Configuração da busca](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx), caso contrário todas as informações do produto serão atributos filtráveis no VTEX Sales App.
+- É fundamental configurar os filtros que serão exibidos, conforme o artigo [Configuração da busca](/pt/docs/tutorials/configuracao-da-busca), caso contrário todas as informações do produto serão atributos filtráveis no VTEX Sales App.
 - Qualquer alteração realizada na configuração de busca também será aplicada ao ecommerce caso a ferramenta de busca utilizada seja o VTEX Intelligent Search.
 
 Além das configurações do VTEX Intelligent Search, é preciso [entrar em contato com o time de suporte da VTEX](https://support.vtex.com/hc/pt-br/requests) para habilitar a funcionalidade de filtros no VTEX Sales App.

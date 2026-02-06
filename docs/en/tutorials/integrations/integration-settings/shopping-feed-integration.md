@@ -54,7 +54,7 @@ Each sales channel on Shopping Feed that the seller wants to integrate needs to 
 
 ## Configure Affiliate for ShoppingFeed  
 
-The affiliate ID will be used in the **Prefix for Imported Orders - Affiliate ID** field. To create a new affiliate, follow the tutorial [Configure Affiliate](/en/tutorial/configuring-affiliates--tutorials_187#how-to-set-it-up).
+The affiliate ID will be used in the **Prefix for Imported Orders - Affiliate ID** field. To create a new affiliate, follow the tutorial [Configure Affiliate](/en/docs/tutorials/configuring-affiliates#how-to-set-it-up).
 
 > ⚠️ For each sales channel on Shopping Feed that the seller wants to integrate, the processes for **Configure Affiliate for Shopping Feed** and **Product Feed Creation** must be repeated.  
 

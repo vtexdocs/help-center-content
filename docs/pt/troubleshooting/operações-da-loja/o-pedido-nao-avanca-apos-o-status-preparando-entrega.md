@@ -23,7 +23,7 @@ tags:
   - Preparando entrega
 ---
 
-O status `Preparando entrega` ocorre no [fluxo do pedido](/pt/tutorial/order-flow-on-the-oms--tutorials_196#fluxo-do-seller) logo após o seller confirmar o início do manuseio dos itens. Neste momento, é necessário que a VTEX receba a informação das notas fiscais do pedido, permitindo que o fluxo seja atualizado para o status `Faturado` ou que ele seja `Cancelado`.
+O status `Preparando entrega` ocorre no [fluxo do pedido](/pt/docs/tutorials/fluxo-e-status-de-pedidos#fluxo-do-seller) logo após o seller confirmar o início do manuseio dos itens. Neste momento, é necessário que a VTEX receba a informação das notas fiscais do pedido, permitindo que o fluxo seja atualizado para o status `Faturado` ou que ele seja `Cancelado`.
 
 > ℹ️ Não é possível [cancelar pedidos](/pt/docs/tutorials/como-cancelar-pedido) que já tenham sido [faturados parcialmente](/pt/docs/tracks/faturas-parciais). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado).
 

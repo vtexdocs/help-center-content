@@ -108,7 +108,7 @@ Para cada SKU, a integração envia o [preço fixo](/pt/docs/tracks/preco-fixo-d
 
 ### Promoções
 
-O Mercado Livre não permite promoções customizadas e a VTEX não repassa promoções customizadas. Para acessar uma promoção disponível, acessar a [Promoções do Mercado Livre](/pt/tutorial/promocoes-do-mercado-livre-beta--3pEqEnru6H2JcZzYVioT5f).
+O Mercado Livre não permite promoções customizadas e a VTEX não repassa promoções customizadas. Para acessar uma promoção disponível, acessar a [Promoções do Mercado Livre](/pt/docs/tutorials/central-de-promocoes-mercado-livre).
 
 Diminuir o preço não vai aparecer como promoção no Mercado Livre e não vai trazer o valor de uma promoção.
 

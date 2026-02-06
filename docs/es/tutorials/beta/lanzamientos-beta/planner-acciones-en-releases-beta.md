@@ -19,14 +19,14 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 
 El módulo **Releases** te permite gestionar [releases](/es/docs/tutorials/planner-concepto-de-release-beta) para que puedas coordinar la creación, programación y publicación de los cambios en tu tienda. Un release es un cambio o un grupo de cambios que pueden publicarse en conjunto.
 
-En el **Releases**, puedes ver la información de los releases, seguir los [status de los releases](/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-los-releases) y llevar a cabo una serie de acciones. En este artículo, te mostraremos cuáles son esas acciones y cómo realizarlas.
+En el **Releases**, puedes ver la información de los releases, seguir los [status de los releases](/es/docs/tutorials/planner-concepto-de-release-beta#status-de-los-releases) y llevar a cabo una serie de acciones. En este artículo, te mostraremos cuáles son esas acciones y cómo realizarlas.
 
 Se puede acceder a esta funcionalidad a través del menú de navegación del **Releases** en el Admin VTEX, donde encontrarás las siguientes páginas:
 
 * [Calendario](/es/docs/tutorials/planner-pagina-calendario-beta)
 * [Releases](/es/docs/tutorials/planner-pagina-de-releases-beta)
 
-Cada página muestra una vista de los releases y te permite realizar distintas acciones que dependerán del [status del release](/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-los-releases). Las principales acciones son:
+Cada página muestra una vista de los releases y te permite realizar distintas acciones que dependerán del [status del release](/es/docs/tutorials/planner-concepto-de-release-beta#status-de-los-releases). Las principales acciones son:
 
 * [Crear un release](#crear-un-release)
 * [Buscar un release](#buscar-un-release)
@@ -48,21 +48,21 @@ Para crear un release a través del **Releases**, sigue estos pasos:
 
   > Debe aparecer el siguiente mensaje de confirmación: _El release se creó y programó_.
 
-Al crear el release, no es necesario que definas un **Fecha de publicación** y la **Hora**, ya que el release se puede crear con el [status](/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-los-releases) `No programado` y dejarlo [programado](#programar) más adelante.
+Al crear el release, no es necesario que definas un **Fecha de publicación** y la **Hora**, ya que el release se puede crear con el [status](/es/docs/tutorials/planner-concepto-de-release-beta#status-de-los-releases) `No programado` y dejarlo [programado](#programar) más adelante.
 
 ## Buscar releases
 
 En la página **Releases**, se pueden buscar releases usando distintos componentes:
 
 * **Barra de búsqueda:** ingresa el nombre del release que quieres encontrar. 
-* **Filtros:** para filtrar por [status de releases](/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-los-releases), usa el botón `Status` <i class="fas fa-angle-down"></i> y selecciona la opción deseada. Para filtrar por fecha de programación, haz clic en `Fecha` <i class="fas fa-angle-down"></i> y selecciona la fecha deseada.
+* **Filtros:** para filtrar por [status de releases](/es/docs/tutorials/planner-concepto-de-release-beta#status-de-los-releases), usa el botón `Status` <i class="fas fa-angle-down"></i> y selecciona la opción deseada. Para filtrar por fecha de programación, haz clic en `Fecha` <i class="fas fa-angle-down"></i> y selecciona la fecha deseada.
 
 ## Programar, reprogramar o anular programación
 
 En cuanto a la definición de las fechas de publicación, existen tres acciones posibles:
 
 * [Programar](#programar): definir una fecha de publicación para el release cuando no existe ninguna.
-* [Desprogramar](#desprogramar): cancelar la fecha de publicación, lo cual hace que el release pase al [status](/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-los-releases) `No programado`.
+* [Desprogramar](#desprogramar): cancelar la fecha de publicación, lo cual hace que el release pase al [status](/es/docs/tutorials/planner-concepto-de-release-beta#status-de-los-releases) `No programado`.
 * [Anular programación](#anular-programacion): definir una fecha nueva para un release que ya tenía una fecha determinada.
 
 ### Programar
@@ -93,7 +93,7 @@ Para desprogramar un release y hacer que pase al status `No programado`, sigue e
 
 ## Publicar releases
 
-Para publicar un release, este debe estar en uno de los siguientes [status](/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-los-releases):
+Para publicar un release, este debe estar en uno de los siguientes [status](/es/docs/tutorials/planner-concepto-de-release-beta#status-de-los-releases):
 
 * `No programado`
 * `Programado`
@@ -107,7 +107,7 @@ Para publicar un release y hacer visibles los cambios en el _storefront_ de la t
 
 ## Eliminar releases
 
-Todos los [status de releases](/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-los-releases) permiten eliminar un release, es decir, que el release se elimine permanentemente.
+Todos los [status de releases](/es/docs/tutorials/planner-concepto-de-release-beta#status-de-los-releases) permiten eliminar un release, es decir, que el release se elimine permanentemente.
 
 > ℹ️ Si en lugar de eliminar un release quieres archivarlo, debes quitar el release de la publicación. De esta manera, no se eliminará y podrás volver a publicarlo en cualquier momento.
 

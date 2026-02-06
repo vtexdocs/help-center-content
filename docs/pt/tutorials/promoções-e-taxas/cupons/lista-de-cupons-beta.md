@@ -149,7 +149,7 @@ O modal **Ver detalhes de uso** apresenta os dados de utilização de cada cupom
 
 * **Promoções vinculadas:** exibe o nome das promoções vinculadas ao cupom, se houver alguma. Ao clicar no nome de uma promoção, você será direcionado para a página de edição da promoção.
 
-    O cupom só se torna disponível para uso quando está vinculado a pelo menos uma promoção. Para estabelecer esse vínculo, é necessário usar a mesma [utm_source ou utm_campaign](/pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium) no cadastro do cupom e no cadastro da promoção. Leia [Vincular o cupom a uma promoção](/pt/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU#vincular-o-cupom-a-uma-promocao) para saber mais sobre essa configuração.
+    O cupom só se torna disponível para uso quando está vinculado a pelo menos uma promoção. Para estabelecer esse vínculo, é necessário usar a mesma [utm_source ou utm_campaign](/pt/docs/tutorials/o-que-sao-utm-source-utm-campaign-e-utm-medium) no cadastro do cupom e no cadastro da promoção. Leia [Vincular o cupom a uma promoção](/pt/docs/tutorials/criar-cupom-beta#vincular-o-cupom-a-uma-promocao) para saber mais sobre essa configuração.
 
 * **Uso** (cupons únicos): exibe a quantidade de usos do cupom e a quantidade de usos restantes, caso você tenha limitado a quantidade de usos.
 

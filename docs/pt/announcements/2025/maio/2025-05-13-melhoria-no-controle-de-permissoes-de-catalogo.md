@@ -56,5 +56,5 @@ Para saber mais sobre como gerenciar permissões de usuários e chaves de aplica
 
 - [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso)
 - [Gerenciar usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos)
-- [Gerenciar chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet#gerenciar-chaves-de-aplicacao)
+- [Gerenciar chaves de aplicação](/pt/docs/tutorials/chaves-de-api#gerenciar-chaves-de-aplicacao)
 - [Recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager)

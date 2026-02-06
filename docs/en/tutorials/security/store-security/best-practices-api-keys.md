@@ -16,15 +16,15 @@ subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn
 ---
 
 
-VTEX has several APIs available for customers and partners to develop highly customizable integrations with the platform. [API keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) are used to provide secure access to data consumed by integrations without exposing your account to unauthorized users or apps.
+VTEX has several APIs available for customers and partners to develop highly customizable integrations with the platform. [API keys](/en/docs/tutorials/api-keys) are used to provide secure access to data consumed by integrations without exposing your account to unauthorized users or apps.
 
 > ℹ️ This type of credential is used to authenticate identities via API.
 
-Improper handling of [API keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) can generate leaks, consequently leading to improper access scenarios. Below, you can see the best practices we recommend to manage the credentials you can implement to increase the security of your store.
+Improper handling of [API keys](/en/docs/tutorials/api-keys) can generate leaks, consequently leading to improper access scenarios. Below, you can see the best practices we recommend to manage the credentials you can implement to increase the security of your store.
 
 ## Rotate keys periodically
 
-It is recommended that you disable old keys and create new ones over time. By doing so, you make sure your [API keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) will have a certain duration.
+It is recommended that you disable old keys and create new ones over time. By doing so, you make sure your [API keys](/en/docs/tutorials/api-keys) will have a certain duration.
 
 This practice is similar to defining a password policy with settings for periodic password changes.
 
@@ -36,7 +36,7 @@ Learn more in [Renewing API tokens](/en/docs/tutorials/renewing-api-tokens).
 
 ## Reassess keys and access periodically
 
-Review the existing [API keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) periodically. Check whether the integrations for each key are active and still needed. A proactive access review process allows each user or integration to access only the resources that are needed, decreasing the chances of improper access. 
+Review the existing [API keys](/en/docs/tutorials/api-keys) periodically. Check whether the integrations for each key are active and still needed. A proactive access review process allows each user or integration to access only the resources that are needed, decreasing the chances of improper access. 
 If the previous recommendation is similar to changing the passwords periodically, you can compare this recommendation to reviewing access regularly.
 
 ## Create individual keys for each function and integration
@@ -53,7 +53,7 @@ Conducting information security awareness campaigns is a sustainable and efficie
 
 Note that part of the code that makes up your store is executed on the customer side, i.e., on the user's browser. So it's normal that this part of the code is exposed to people outside your operation.
 
-Therefore, it's essential to instruct your development team not to use this code when doing integrations, as it often involves having [API keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) in the code.
+Therefore, it's essential to instruct your development team not to use this code when doing integrations, as it often involves having [API keys](/en/docs/tutorials/api-keys) in the code.
 
 ## Don't share API tokens
 

@@ -46,11 +46,11 @@ To export a `.xlsx` file with the images from your catalog, follow these steps:
 > ℹ️ The exported information corresponds to the fields detailed in the section [Product and SKU image spreadsheet fields](#product-and-sku-image-spreadsheet-fields).
 
 1. In the VTEX Admin, go to **Catalog > Product and SKUs**, or type [Product and SKUs](/en/docs/tutorials/products-and-skus) in the search bar at the top of the page.
-2. (Optional) If you want to export the images of certain products and SKUs, [search](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#searching-for-a-product) or a [filter](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#filtering-products) the desired items. This step isn't required when exporting the images of all the items in your catalog.
+2. (Optional) If you want to export the images of certain products and SKUs, [search](/en/docs/tutorials/products-and-skus#searching-for-a-product) or a [filter](/en/docs/tutorials/products-and-skus#filtering-products) the desired items. This step isn't required when exporting the images of all the items in your catalog.
 3. At the top of the page, click `Export`.
 4. Click `Images`.
 
-While the export is in progress, a message will be displayed indicating that the file is being processed. Leaving the page won't interrupt the operation. You can [track the export progress in the window](/en/tutorial/importing-and-exporting-products-and-skus-using-a-spreadsheet-beta--5udKxWP1ZeBD7QB7Fy2BNl#tracking-export-process) displayed on the page.
+While the export is in progress, a message will be displayed indicating that the file is being processed. Leaving the page won't interrupt the operation. You can [track the export progress in the window](/en/docs/tutorials/importing-and-exporting-products-and-skus-using-a-spreadsheet-beta#tracking-export-process) displayed on the page.
 
 After the export of product and SKU images is completed, you will receive an email with a link to download the file. The download link is valid for 24 hours. After that, the link expires. You can also download the file from the window that opens on the page.
 

@@ -28,13 +28,13 @@ Confira a seguir quais são as páginas contidas no menu **Lançamentos**.
 
 Na página [Calendário](/pt/docs/tutorials/planner-pagina-calendario-beta), você pode criar um novo lançamento e realizar uma série de outras [ações em lançamentos](/pt/docs/tutorials/planner-acoes-em-lancamentos-beta). O **Calendário** pode ser visualizado de três formas:
 
-* [Visualização por mês](/pt/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xHfIx9C#visualizacao-por-mes): apresenta os lançamentos agendados para todos os dias do mês selecionado.
-* [Visualização por semana](/pt/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xHfIx9C#visualizacao-por-semana): apresenta os lançamentos agendados para determinada semana.
-* [Visualização por dia](/pt/tutorial/planner-pagina-calendario-beta--46wSZ7Z5xoXQPP0xHfIx9C#visualizacao-por-dia): apresenta os lançamentos agendados para o dia selecionado e as modificações referentes ao lançamento selecionado.
+* [Visualização por mês](/pt/docs/tutorials/planner-pagina-calendario-beta#visualizacao-por-mes): apresenta os lançamentos agendados para todos os dias do mês selecionado.
+* [Visualização por semana](/pt/docs/tutorials/planner-pagina-calendario-beta#visualizacao-por-semana): apresenta os lançamentos agendados para determinada semana.
+* [Visualização por dia](/pt/docs/tutorials/planner-pagina-calendario-beta#visualizacao-por-dia): apresenta os lançamentos agendados para o dia selecionado e as modificações referentes ao lançamento selecionado.
 
 ## Lançamentos
 
-Em [Lançamentos](/pt/docs/tutorials/planner-pagina-lancamentos-beta), você pode criar um novo lançamento e realizar uma série de outras [ações em lançamentos](/pt/docs/tutorials/planner-acoes-em-lancamentos-beta). Nesta página, todos os lançamentos que existem são apresentados em uma lista, sendo que a ordenação mostra primeiro os lançamentos no [status](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-lancamentos) `Não agendado`, seguidos dos que estão agendados. 
+Em [Lançamentos](/pt/docs/tutorials/planner-pagina-lancamentos-beta), você pode criar um novo lançamento e realizar uma série de outras [ações em lançamentos](/pt/docs/tutorials/planner-acoes-em-lancamentos-beta). Nesta página, todos os lançamentos que existem são apresentados em uma lista, sendo que a ordenação mostra primeiro os lançamentos no [status](/pt/docs/tutorials/planner-conceito-de-lancamento-beta#status-de-lancamentos) `Não agendado`, seguidos dos que estão agendados. 
 
 A ordenação dos lançamentos agendados é feita com base na data de publicação: quanto mais longínquo no futuro é um lançamento primeiro ele aparece na listagem, e quanto mais distante no passado por último ele aparece.
 

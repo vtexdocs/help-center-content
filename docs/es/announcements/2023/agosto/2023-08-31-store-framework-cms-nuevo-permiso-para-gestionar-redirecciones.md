@@ -29,6 +29,6 @@ Agregamos este requisito de permiso por motivos de seguridad. Así, solo los usu
 
 Para que un usuario del Admin pueda gestionar redirecciones en Store Framework CMS, se le debe asignar un rol de acceso específico que incluya el recurso **CMS Settings**. Consulta las instrucciones para editar los roles de acceso de un usuario en el artículo [Gestionar usuarios](/es/docs/tutorials/gestionar-usuarios-administrativos#editando-usuarios).
 
-Si deseas utilizar un rol de acceso personalizado, puedes crear un nuevo rol de acceso o editar uno existente para incluir el recurso **CMS Settings**. Consulta las instrucciones para crear y editar roles de acceso en el artículo [Roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol).
+Si deseas utilizar un rol de acceso personalizado, puedes crear un nuevo rol de acceso o editar uno existente para incluir el recurso **CMS Settings**. Consulta las instrucciones para crear y editar roles de acceso en el artículo [Roles](/es/docs/tutorials/roles#creando-un-rol).
 
 Para más información sobre redirecciones, consulta el artículo [Gestión de redirecciones de URL](/es/docs/tutorials/gestion-de-redirecciones-de-url).

@@ -24,7 +24,7 @@ Há duas formas de cadastrar pontos de retirada pelo Admin:
 * [Cadastro individual](#cadastro-individual).
 * [Cadastro por planilha](#cadastro-por-planilha).
 
-> ⚠️ O cadastro dos pontos de retirada é um dos passos para o funcionamento correto da funcionalidade. Confira o artigo [Pontos de retirada](/pt/docs/tutorials/pontos-de-retirada) e veja as demais [configurações necessárias](/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#como-configurar) para disponibilizar os pontos de retirada para os seus clientes.
+> ⚠️ O cadastro dos pontos de retirada é um dos passos para o funcionamento correto da funcionalidade. Confira o artigo [Pontos de retirada](/pt/docs/tutorials/pontos-de-retirada) e veja as demais [configurações necessárias](/pt/docs/tutorials/pontos-de-retirada#como-configurar) para disponibilizar os pontos de retirada para os seus clientes.
 
 ## Cadastro individual
 

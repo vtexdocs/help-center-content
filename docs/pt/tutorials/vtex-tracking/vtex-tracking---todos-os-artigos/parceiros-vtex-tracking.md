@@ -45,7 +45,7 @@ Uma vez no painel, é possível:
 4. Preencha os campos de cadastro de parceiro.   
 5. Clique em **Criar**.  
 
-Após o cadastro do parceiro, cadastre seu usuário correspondente, para que tenha um login e senha de acesso ao sistema. Confira nossa documentação sobre criação de [usuários VTEX Tracking](/pt/tutorial/usuarios-vtex-trackin--1zn5nrvkoWtx0pcabbRhSZ#consultar-usuario) para saber mais. 
+Após o cadastro do parceiro, cadastre seu usuário correspondente, para que tenha um login e senha de acesso ao sistema. Confira nossa documentação sobre criação de [usuários VTEX Tracking](/pt/docs/tutorials/usuarios-vtex-tracking#consultar-usuario) para saber mais. 
 
 1. Acesse o módulo **Configurações da Conta**.  
 2. Acesse a aba **Usuários**.  

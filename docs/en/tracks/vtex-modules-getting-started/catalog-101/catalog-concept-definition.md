@@ -29,4 +29,4 @@ This section includes the following pages:
 - [Custom Product Attributes](/en/docs/tutorials/adding-an-attachment)    
 - [Import and Export](/en/docs/tutorials/filling-in-fields-in-the-import-spreadsheet)    
 - [Reports](/en/docs/tutorials/how-to-use-the-index-report)
-- [Suppliers](/en/tutorial/catalog-overview--77M8ItLhDXs6aBdQTqToVe#suppliers)  
+- [Suppliers](/en/docs/tutorials/catalog-overview#suppliers)  

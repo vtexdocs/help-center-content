@@ -34,7 +34,7 @@ Para activar la funcionalidad, será necesario:
 
 Para instalar el módulo Suscripciones, abre un ticket con [nuestro Soporte](https://support.vtex.com/hc/es-419). Debes indicar la cuenta VTEX y seleccionar la opción **Técnico**.
 
-El tiempo estimado de respuesta es de hasta 24 horas, de acuerdo con [nuestro SLA](/es/faq/como-funciona-el-soporte-de-vtex--3kACEfni4m8Yxa1vnf2ebe#support-plans).
+El tiempo estimado de respuesta es de hasta 24 horas, de acuerdo con [nuestro SLA](/es/docs/tutorials/como-funciona-el-soporte-de-vtex#support-plans).
 
 ## 2. Configurar medios de pago
 
@@ -61,7 +61,7 @@ Existe otra opción para crear un plan de suscripción, que consiste en crear ma
 
 ## 4. Configurar perfiles de acceso para Suscripciones
 
-Hay una serie de recursos relacionados con Suscripciones que están disponibles en el módulo **Perfiles de acceso** de su tienda. Estos recursos permiten el acceso de los usuarios de su Admin VTEX a determinadas funcionalidades, para operar el módulo de Suscripciones. Para saber más sobre los perfiles de acceso, consulte nuestro [artículo](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso).
+Hay una serie de recursos relacionados con Suscripciones que están disponibles en el módulo **Perfiles de acceso** de su tienda. Estos recursos permiten el acceso de los usuarios de su Admin VTEX a determinadas funcionalidades, para operar el módulo de Suscripciones. Para saber más sobre los perfiles de acceso, consulte nuestro [artículo](/es/docs/tutorials/roles#criando-um-perfil-de-acesso).
 
 > ⚠️ Si el usuario no tiene los permisos necesarios para acceder a los datos en las pantallas de **Suscripciones**, el sistema mostrará una alerta indicando que no tiene estos permisos, y el usuario no podrá ver los datos.
 

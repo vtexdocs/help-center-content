@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Para permitir uma análise mais completa do comportamento de busca, incluímos as métricas do Autocomplete neste relatório'
 ---
 
-Para analisar e monitorar o desempenho do [VTEX lntelligent Search](/pt/docs/tracks/visao-geral-intelligent-search), é possível visualizar e exportar [relatórios](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m#) com dados relacionados às pesquisas realizadas na loja. Para permitir uma análise mais completa do comportamento de busca, incluímos as métricas do [Autocomplete](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4gXFsEWjF7QF7UtI2GAvhL#) nestes relatórios.
+Para analisar e monitorar o desempenho do [VTEX lntelligent Search](/pt/docs/tracks/visao-geral-intelligent-search), é possível visualizar e exportar [relatórios](/pt/docs/tutorials/analytics) com dados relacionados às pesquisas realizadas na loja. Para permitir uma análise mais completa do comportamento de busca, incluímos as métricas do [Autocomplete](/pt/docs/tutorials/autocomplete) nestes relatórios.
 
 ## O que mudou?
 Antes só era possível visualizar e exportar relatórios sobre os resultados de busca e os termos utilizados na pesquisa. Agora é possível também analisar o desempenho das sugestões de busca feitas pelo Autocomplete.

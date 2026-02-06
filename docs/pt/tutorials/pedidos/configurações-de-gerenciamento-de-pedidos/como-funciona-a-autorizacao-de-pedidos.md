@@ -21,8 +21,8 @@ No Admin VTEX, em **Configurações da loja > Pedidos > Autorização de pedidos
 
 A divergência de preços de pedidos podem ser encontradas em dois principais cenários:
 
-- [Descontos manuais](/pt/tutorial/como-funciona-a-autorizacao-de-pedidos--3MBK6CmKHAuUjMBieDU0pn#descontos-manuais)
-- [Divergência de valores](/pt/tutorial/como-funciona-a-autorizacao-de-pedidos--3MBK6CmKHAuUjMBieDU0pn#divergencia-de-valores)
+- [Descontos manuais](/pt/docs/tutorials/como-funciona-a-autorizacao-de-pedidos#descontos-manuais)
+- [Divergência de valores](/pt/docs/tutorials/como-funciona-a-autorizacao-de-pedidos#divergencia-de-valores)
 
 ## Descontos manuais
 

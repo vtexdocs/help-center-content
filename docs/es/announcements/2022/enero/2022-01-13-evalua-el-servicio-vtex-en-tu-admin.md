@@ -39,5 +39,5 @@ La nueva página *Encuesta de Satisfacción* ya está instalada en tu VTEX Admin
 
 También hemos enviado una invitación por email para que visites la página y hagas tu evaluación.
 
-Obtén más información en los artículos [¿Cómo funciona el soporte de VTEX](/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) y [Abrir tickets para el soporte VTEX](/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex).
+Obtén más información en los artículos [¿Cómo funciona el soporte de VTEX](/es/docs/tutorials/como-funciona-el-soporte-de-vtex) y [Abrir tickets para el soporte VTEX](/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex).
 

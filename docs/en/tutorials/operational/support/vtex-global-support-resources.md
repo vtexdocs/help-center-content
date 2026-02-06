@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 
-This document presents the availability, service SLAs, and additional support resources offered by VTEX. Learn more about VTEX Support in [How does VTEX Support work?](/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). 
+This document presents the availability, service SLAs, and additional support resources offered by VTEX. Learn more about VTEX Support in [How does VTEX Support work?](/en/docs/tutorials/how-does-vtex-support-work). 
 
 ## First response time for all tickets
 

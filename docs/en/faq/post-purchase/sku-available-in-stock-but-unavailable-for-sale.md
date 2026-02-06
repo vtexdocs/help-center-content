@@ -20,5 +20,5 @@ When two or more warehouses use the same [trade policy](/en/docs/tutorials/how-t
 
 This occurs because the VTEX platform sums the negative number of items for that SKU in a warehouse to the positive number of items in other warehouses. If the result of the sum equals zero, the SKU will be unavailable for sale.
 
-Learn more about negative inventory in the article [Inventory management](/en/tutorial/managing-stock-items--tutorials_139#updating-inventory).
+Learn more about negative inventory in the article [Inventory management](/en/docs/tutorials/managing-stock-items#updating-inventory).
 

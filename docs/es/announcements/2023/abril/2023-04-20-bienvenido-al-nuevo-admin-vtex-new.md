@@ -34,7 +34,7 @@ Aunque hemos rediseñado el Admin VTEX, la configuración y los datos de tu tien
 
 ### Cambios en el menú de navegación
 
-No se ha eliminado ninguna página del Admin VTEX, pero organizamos el menú de navegación para que se ajuste mejor a las páginas más visitadas y refleje las prioridades de tu operación. Aprende más sobre nuestra [navegación mejorada](/es/tutorial/vtex-admin-start-here--5bBA7QgKuU2wL2Aq11pqAA).
+No se ha eliminado ninguna página del Admin VTEX, pero organizamos el menú de navegación para que se ajuste mejor a las páginas más visitadas y refleje las prioridades de tu operación. Aprende más sobre nuestra [navegación mejorada](/es/docs/tutorials/admin-vtex-comience-aqui).
 
 Puedes utilizar la barra de búsqueda en la parte superior del Admin VTEX para buscar páginas específicas. Las páginas que no son parte de la estructura principal del Admin VTEX se pueden encontrar al acceder a **Apps > Apps instaladas**.
 

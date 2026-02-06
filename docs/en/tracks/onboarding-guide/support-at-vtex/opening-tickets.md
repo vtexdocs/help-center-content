@@ -23,14 +23,14 @@ Tickets to VTEX Support are divided into three types, each with its specific pro
 You can open tickets with VTEX Support related to:
 
 - [Technical support](/en/docs/tracks/technical-support): Receive assistance with troubleshooting or technical questions about VTEX products.
-  - [Copilot](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#2-access-copilot): Get automatic suggestions and solve common issues or address technical questions about the VTEX platform.
+  - [Copilot](/en/docs/tutorials/opening-tickets-to-vtex-support#2-access-copilot): Get automatic suggestions and solve common issues or address technical questions about the VTEX platform.
 - [Financial support](/en/docs/tracks/billing-support): Get help with agreement or billing issues regarding the store and VTEX.
 - [Commercial support](/en/docs/tracks/commercial-support): Request additional [trade policies](/en/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#requesting-an-additional-trade-policy), [environments](/en/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#requesting-a-new-environment), franchise accounts, or changes to the [main user](/en/docs/tutorials/what-is-the-sponsor-user).
 
 > ℹ️ Learn more about how to open a ticket in the article [Opening tickets with VTEX Support.](/en/docs/tutorials/opening-tickets-to-vtex-support)
 
 ## Accessing Copilot
-[Copilot](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#2-acessar-o-copilot) is a tool integrated into the platform that streamlines technical support. It allows you to solve questions and identify problems by providing automatic guidance.
+[Copilot](/en/docs/tutorials/opening-tickets-to-vtex-support#2-acessar-o-copilot) is a tool integrated into the platform that streamlines technical support. It allows you to solve questions and identify problems by providing automatic guidance.
 
 To access Copilot and start interacting with support, follow the steps below:
 

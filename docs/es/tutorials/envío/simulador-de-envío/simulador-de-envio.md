@@ -22,7 +22,7 @@ El simulador también se puede utilizar para validar la configuración de la  **
 * **Disponibilidad de un ítem:** el simulador verifica si el ítem cuenta con _stock_ y si se puede realizar su entrega (si hay transportadoras registradas para esa región, por ejemplo). Si uno de los dos criterios no se cumple, el simulador entiende que el ítem no está disponible.
 * **Disponibilidad de Sellers White Label:** el simulador selecciona al franquiciado más cercano a la dirección de entrega (la configuración logística es calculada a través del ambiente del _Seller White Label_, y no por la Main Account).
 
-> ⚠️ Puede haber una divergencia entre el precio final indicado por el simulador y el precio real en su tienda, ya que la simulación no considera: <ul> <li>Promociones aplicadas a esos ítems.</li> <li>Descuentos de flete configurados a través de promociones.</li> <li>El plazo de entrega total que se muestra en el resultado de la simulación no contempla el campo **Fecha de previsión de llegada (Preventa)**  [del registro del ítem.</li>](/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) </ul>
+> ⚠️ Puede haber una divergencia entre el precio final indicado por el simulador y el precio real en su tienda, ya que la simulación no considera: <ul> <li>Promociones aplicadas a esos ítems.</li> <li>Descuentos de flete configurados a través de promociones.</li> <li>El plazo de entrega total que se muestra en el resultado de la simulación no contempla el campo **Fecha de previsión de llegada (Preventa)**  [del registro del ítem.</li>](/es/docs/tutorials/agregar-o-editar-skus) </ul>
 
 ## Simular el envío
 
@@ -47,7 +47,7 @@ Si lo desea, puede seleccionar la casilla `Simular ítems individualmente`.
 
  10. Haga clic en el botón `Simular Envío`.  
 
-> ℹ️ En el resultado de la simulación, las medidas del ítem aparecen en centímetros y gramos, pero el valor real considerado en el Checkout son las unidades de medida registradas en los [campos de registro del producto](/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) y SKU.
+> ℹ️ En el resultado de la simulación, las medidas del ítem aparecen en centímetros y gramos, pero el valor real considerado en el Checkout son las unidades de medida registradas en los [campos de registro del producto](/es/docs/tutorials/agregar-o-editar-productos) y SKU.
 
 ## Detalles de la simulación
 

@@ -21,12 +21,12 @@ A reserva é uma solução VTEX que impede que um mesmo item seja vendido mais d
 
 Após ser vendido, um item passa pelos seguintes status no inventário da sua loja:
 
-1. **[Reserva autorizada:](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-autorizada)** após a finalização da compra.
-2. **[Reserva confirmada:](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada)** após a aprovação do pagamento.
-3. **[Reserva reconhecida:](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-reconhecida)** quando o status do pedido muda para **Preparando entrega** no módulo **Pedidos**.
-4. **[Baixa no estoque:](/pt/tutorial/como-a-reserva-funciona--tutorials_92#baixa-no-estoque)** pedido em transporte para entrega.
+1. **[Reserva autorizada:](/pt/docs/tutorials/como-a-reserva-funciona#reserva-autorizada)** após a finalização da compra.
+2. **[Reserva confirmada:](/pt/docs/tutorials/como-a-reserva-funciona#reserva-confirmada)** após a aprovação do pagamento.
+3. **[Reserva reconhecida:](/pt/docs/tutorials/como-a-reserva-funciona#reserva-reconhecida)** quando o status do pedido muda para **Preparando entrega** no módulo **Pedidos**.
+4. **[Baixa no estoque:](/pt/docs/tutorials/como-a-reserva-funciona#baixa-no-estoque)** pedido em transporte para entrega.
 
-É possível acompanhar o status da reserva dos itens pelo Admin VTEX, [como descrito ao final deste artigo.](/pt/tutorial/como-a-reserva-funciona--tutorials_92#como-acompanhar-o-status-da-reserva)
+É possível acompanhar o status da reserva dos itens pelo Admin VTEX, [como descrito ao final deste artigo.](/pt/docs/tutorials/como-a-reserva-funciona#como-acompanhar-o-status-da-reserva)
 
 > ⚠️ Produtos inseridos no carrinho não geram reserva ou prioridade. Um item só passa para o status de Reserva autorizada após o cliente finalizar o pedido.
 
@@ -38,7 +38,7 @@ O item permanece nesse status por um determinado tempo, e caso o pagamento não 
 
 _Tempo de expiração do pagamento + tempo de reserva no estoque_
 
-* **Tempo de expiração do pagamento:** tempo (em dias) definido para a realização do pagamento. No caso do pagamento por [boleto](/pt/tutorial/em-quanto-tempo-um-pedido-de-boleto-sem-pagamento-e-cancelado--frequentlyAskedQuestions_300#prazo-de-validade-do-boleto) ou [promissória](/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ#configurar-promissoria), esse prazo pode ser configurado no módulo **[Pagamentos](/pt/docs/tracks/como-funciona-o-modulo-de-pagamentos)**. Para os demais meios de pagamento, como cartão de crédito e wallet, não é possível configurar um prazo para a expiração do pagamento. O fluxo de pagamento é iniciado logo após o checkout, e a aprovação ou negação dele ocorrerá em diferentes períodos de tempo, conforme o meio de pagamento selecionado.
+* **Tempo de expiração do pagamento:** tempo (em dias) definido para a realização do pagamento. No caso do pagamento por [boleto](/pt/docs/tutorials/em-quanto-tempo-um-pedido-de-boleto-sem-pagamento-e-cancelado#prazo-de-validade-do-boleto) ou [promissória](/pt/docs/tutorials/configurar-pagamentos-com-promissoria#configurar-promissoria), esse prazo pode ser configurado no módulo **[Pagamentos](/pt/docs/tracks/como-funciona-o-modulo-de-pagamentos)**. Para os demais meios de pagamento, como cartão de crédito e wallet, não é possível configurar um prazo para a expiração do pagamento. O fluxo de pagamento é iniciado logo após o checkout, e a aprovação ou negação dele ocorrerá em diferentes períodos de tempo, conforme o meio de pagamento selecionado.
 * **Tempo de reserva no estoque:** é definido automaticamente, seguindo as regras abaixo.
     * **quatro dias corridos:** quando o dia de expiração do pagamento for domingo, segunda ou terça.
     * **cinco dias corridos:** quando o dia de expiração do pagamento for quarta, quinta ou sexta.

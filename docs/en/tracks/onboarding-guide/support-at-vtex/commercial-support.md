@@ -21,7 +21,7 @@ Besides the resources provided in the initial agreement with VTEX, you can purch
 - Changing the [Sponsor user](/en/docs/tutorials/what-is-the-sponsor-user).
 - Requesting [add-on solutions](/en/docs/tracks/add-on-products).
 
-You can [open a commercial support ticket](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#financial) if you need support with other topics or buy an add-on solution. Start by exploring the [Help Center](/en/) articles and checking the sections below.
+You can [open a commercial support ticket](/en/docs/tutorials/opening-tickets-to-vtex-support#financial) if you need support with other topics or buy an add-on solution. Start by exploring the [Help Center](/en/) articles and checking the sections below.
 
 ## Requesting an additional trade policy
 

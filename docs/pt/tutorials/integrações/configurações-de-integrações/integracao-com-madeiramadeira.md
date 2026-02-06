@@ -47,13 +47,13 @@ A [contratação de políticas comerciais adicionais](/pt/docs/tutorials/contrat
 
 ### Definir a Estratégia de Envio
 
-Para vender seus produtos na MadeiraMadeira é preciso determinar uma Estratégia de Envio, ou seja, informar qual será a logística de entrega dos seus produtos. A Estratégia de Envio é composta de três etapas logísticas: [Política de Envio](/pt/docs/tutorials/politica-de-envio), [Estoque](/pt/tutorial/o-que-e-um-estoque--23kq5gUdY0QOymOu8QSGcA) e [Doca](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj?&utm_source=autocomplete).
+Para vender seus produtos na MadeiraMadeira é preciso determinar uma Estratégia de Envio, ou seja, informar qual será a logística de entrega dos seus produtos. A Estratégia de Envio é composta de três etapas logísticas: [Política de Envio](/pt/docs/tutorials/politica-de-envio), [Estoque](/pt/docs/tutorials/estoque) e [Doca](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj?&utm_source=autocomplete).
 
 É por meio da Doca que a Política de envio ([transportadora](/pt/docs/tutorials/transportadoras-na-vtex)) é associada ao Estoque da sua loja. A doca é o ponto intermediário entre a transportadora e o armazenamento da sua loja, e por meio  dela, as condições entre envio e armazenagem são feitas.
 
 Se for do seu interesse utilizar a mesma Estratégia de Envio definida para sua loja VTEX na integração com a MadeiraMadeira, não é necessário criar novas configurações de logística. Se, no entanto, você deseja criar uma Estratégia de Envio específica para o marketplace, é necessário realizar os seguintes passos:
 
-1. [Cadastrar Política de envio](/pt/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio), associada à política comercial usada na integração.
+1. [Cadastrar Política de envio](/pt/docs/tutorials/politica-de-envio#cadastrar-uma-politica-de-envio), associada à política comercial usada na integração.
 2. [Cadastrar Doca](/pt/docs/tutorials/gerenciar-doca), associada à política comercial usada na integração.
 3. [Cadastrar Estoque](/pt/docs/tutorials/gerenciar-estoque), associado à Doca criada no passo anterior.
 
@@ -63,11 +63,11 @@ A Coleção é um recurso de agrupamento de produtos e existem diferentes [tipos
 
 Se você ainda não possui uma coleção, há duas formas de configurar uma. É possível [criar uma coleção pelo módulo Coleções Beta](/pt/docs/tutorials/cadastrar-colecoes-beta) ou fazer o [Cadastro de Coleções CMS](/pt/docs/tutorials/cadastro-de-colecoes-cms).
 
-Com a coleção feita, você deverá [adicionar os produtos](/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#selecao-de-produtos) que farão parte dela.
+Com a coleção feita, você deverá [adicionar os produtos](/pt/docs/tutorials/cadastrar-colecoes-beta#selecao-de-produtos) que farão parte dela.
 
 ### Criar permissão para Access key e secret
 
-A chave de integração, chamada de access key, é o que possibilita o fluxo de envio e atualização de informações entre sua loja VTEX e MadeiraMadeira. Somente o [usuário Master da conta (owner)](/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA?&utm_source=autocomplete) tem permissão para criar um [_access key e secret_](/pt/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet), e a opção só é visível no Admin para este usuário. 
+A chave de integração, chamada de access key, é o que possibilita o fluxo de envio e atualização de informações entre sua loja VTEX e MadeiraMadeira. Somente o [usuário Master da conta (owner)](/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA?&utm_source=autocomplete) tem permissão para criar um [_access key e secret_](/pt/docs/tutorials/chaves-de-api), e a opção só é visível no Admin para este usuário. 
 
 Para configurar uma nova chave, siga os passos abaixo:
 
@@ -91,7 +91,7 @@ O próximo é criar um [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Ua
 6. Clique em `Adicionar perfil de acesso`.
 7. Clique em `Salvar`.
 
-> Se você não possui o perfil de acesso [IntegrationProfile-Fulfillment_Oms](/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#integrationprofile-fulfillment-oms), será necessário [Criar o Perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso) manualmente.
+> Se você não possui o perfil de acesso [IntegrationProfile-Fulfillment_Oms](/pt/docs/tutorials/perfis-de-acesso-predefinidos#integrationprofile-fulfillment-oms), será necessário [Criar o Perfil de acesso](/pt/docs/tutorials/perfis-de-acesso#criando-um-perfil-de-acesso) manualmente.
 
 ### Criar afiliado
 

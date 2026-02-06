@@ -234,7 +234,7 @@ For more information about importing inventory into the back office, check the [
 
 Importing customer data into VTEX facilitates the integration of information from external systems, such as CRM applications. By default, VTEX stores customer data in [Master Data V1](/en/docs/tutorials/master-data). 
 
-Within Master Data, the information is structured into [data entities](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#data-entities), akin to tables in database systems, containing [documents](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#documents) that are similar to rows or records. Customer profile data is stored in the `CL` entity, while customer addresses are stored in the `AD` entity.
+Within Master Data, the information is structured into [data entities](/en/docs/tutorials/master-data#data-entities), akin to tables in database systems, containing [documents](/en/docs/tutorials/master-data#documents) that are similar to rows or records. Customer profile data is stored in the `CL` entity, while customer addresses are stored in the `AD` entity.
 
 These are the steps for importing customer data:
 

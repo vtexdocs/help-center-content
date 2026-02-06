@@ -30,7 +30,7 @@ Sempre que um produto tem mudança de status ou alteração de informações, é
 - Criação ou remoção de coleção
 - Mudança de preço ou na quantidade de estoque
 
-> ℹ️ Para mais detalhes sobre a indexação de um produto em lojas [legado](/pt/docs/tracks/cms-portal-legado), acesse [Como funciona a indexação - CMS Portal (Legado)](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao). Se a sua loja utiliza o [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search), verifique o [Histórico da indexação - Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH).
+> ℹ️ Para mais detalhes sobre a indexação de um produto em lojas [legado](/pt/docs/tracks/cms-portal-legado), acesse [Como funciona a indexação - CMS Portal (Legado)](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao). Se a sua loja utiliza o [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search), verifique o [Histórico da indexação - Intelligent Search](/pt/docs/tutorials/historico-da-indexacao).
 
 Em determinadas situações, a indexação é interrompida durante o processo e as informações mais atualizadas do produto não são exibidas no site da loja. Veja abaixo alguns cenários em que esta interrupção pode acontecer:
 
@@ -65,7 +65,7 @@ Erros no cadastro de um produto podem gerar inconsistências no momento de reali
 
 2. Localize o produto desejado e clique em **EDITAR**.  
 
-3. Verifique se as informações de todos os [campos de cadastro](/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) estão corretas. Se necessário, atualize as informações e clique em Salvar.  
+3. Verifique se as informações de todos os [campos de cadastro](/pt/docs/tutorials/adicionar-ou-editar-produto) estão corretas. Se necessário, atualize as informações e clique em Salvar.  
 
 4. Acesse o relatório de indexação em **Catálogo > Relatórios** e verifique se o produto está na fila de indexação ou já foi indexado.
 
@@ -95,7 +95,7 @@ Após reorganizar a quantidade de SKUs por produto, verifique o relatório de in
 
 ### Remoção do SKU de coleções  
 
-> ℹ️ Existem duas formas de remover o SKU de uma coleção: por meio do [CMS Portal (Legado)](/pt/docs/tracks/cms-portal-legado) ou utilizando o módulo **Coleções (Beta)**. Esta seção demonstra como remover o SKU de uma coleção no **CMS Portal (Legado)**. Para mais informações sobre o procedimento no módulo **Coleções (Beta)**, acesse [Remoção de produtos](/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#remocao-de-produtos).  
+> ℹ️ Existem duas formas de remover o SKU de uma coleção: por meio do [CMS Portal (Legado)](/pt/docs/tracks/cms-portal-legado) ou utilizando o módulo **Coleções (Beta)**. Esta seção demonstra como remover o SKU de uma coleção no **CMS Portal (Legado)**. Para mais informações sobre o procedimento no módulo **Coleções (Beta)**, acesse [Remoção de produtos](/pt/docs/tutorials/cadastrar-colecoes-beta#remocao-de-produtos).  
 
 Caso algum dos SKUs do produto faça parte de uma [coleção](/pt/docs/tracks/colecoes-definicao-de-conceito), também é possível que ocorra o tempo limite de espera para indexação. Para verificar se o SKU faz parte de uma ou mais coleções, siga os passos abaixo:  
 
@@ -112,7 +112,7 @@ A reindexação completa da base de produtos pode ser realizada para atualizar a
 
 Para lojas com menos de 100 mil produtos cadastrados no catálogo, o [usuário titular](/pt/docs/tutorials/o-que-e-o-usuario-titular) da conta pode utilizar a função __Agendar reindexação completa__ no Admin VTEX.
 
-Contas com 100 mil produtos ou mais cadastrados devem entrar em contato com o [Suporte da VTEX](/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) para realizar este tipo de operação.
+Contas com 100 mil produtos ou mais cadastrados devem entrar em contato com o [Suporte da VTEX](/pt/docs/tutorials/como-funciona-o-suporte-da-vtex) para realizar este tipo de operação.
 
 Saiba mais em [Manutenção de base (full cleanup)](/pt/docs/tutorials/manutencao-de-base-full-cleanup).
 

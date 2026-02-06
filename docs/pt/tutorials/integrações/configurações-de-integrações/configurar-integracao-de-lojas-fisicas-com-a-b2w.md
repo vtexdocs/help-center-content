@@ -17,7 +17,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 Disponibilizar aos consumidores pontos de retirada fazem parte do escopo de [estratégias de comércio unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) de uma loja e se apresenta como uma importante evolução na logística de entregas e gestão de estoque. 
 
-Neste artigo explicamos como criar [pontos de retirada](/pt/docs/tutorials/cadastro-de-pontos-de-retirada) na [B2W](/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk) a partir dos que já estão cadastrados nas [contas-franquias](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#o-que-e-uma-conta-franquia).
+Neste artigo explicamos como criar [pontos de retirada](/pt/docs/tutorials/cadastro-de-pontos-de-retirada) na [B2W](/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk) a partir dos que já estão cadastrados nas [contas-franquias](/pt/docs/tutorials/seller-white-label#o-que-e-uma-conta-franquia).
 
 Existem duas modalidades de retirada em loja: **Pickup** e **Ship Store**. Nessa documentação, vamos focar somente na modalidade Pickup, conhecida na B2W como [Pegue na loja](https://blog.b2wmarketplace.com.br/2019/07/18/pegue-na-loja/). Nessa modalidade o cliente retira o pedido da loja no ponto de retirada pessoalmente ou com um representante devidamente identificado.
 

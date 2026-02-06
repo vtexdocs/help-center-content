@@ -31,4 +31,4 @@ A seção inclui as seguintes páginas:
 - [Campos personalizados](/pt/docs/tutorials/cadastrar-um-anexo)  
 - [Importação e exportação](/pt/docs/tutorials/preencher-campos-da-planilha-de-importacao)  
 - [Relatórios](/pt/docs/tutorials/utilizar-o-relatorio-de-indexacao)
-- [Fornecedores](/pt/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe#fornecedores)
+- [Fornecedores](/pt/docs/tutorials/catalogo-visao-geral#fornecedores)

@@ -53,14 +53,14 @@ __1. Cadastre Política de Envio:__ a nova [Política de Envio](/pt/docs/tutoria
 - Abranger todos os CEPs do país.  
 - Ser aplicável a todos os dias da semana.  
 
-Siga o tutorial para [Cadastrar uma Política de Envio](/pt/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio).  
+Siga o tutorial para [Cadastrar uma Política de Envio](/pt/docs/tutorials/politica-de-envio#cadastrar-uma-politica-de-envio).  
 
-__2. Cadastre uma Doca:__ para cadastrar nova Doca, siga o tutorial [Gerenciar Doca](/pt/tutorial/managing-loading-docks--7K3FultD8I2cuuA6iyGEiW#cadastrar).  
-__3. Cadastre um Estoque:__ o estoque dos produtos disponibilizados com a opção Fulfillment Magalu é gerenciado pela Magalu, mas o gerenciamento de inventário é realizado pelo seller. Siga o tutorial [Gerenciar Estoque](/pt/tutorial/gerenciar-estoque--tutorials_137#cadastrar-estoque) para cadastrar um novo.  
+__2. Cadastre uma Doca:__ para cadastrar nova Doca, siga o tutorial [Gerenciar Doca](/pt/docs/tutorials/gerenciar-doca#cadastrar).  
+__3. Cadastre um Estoque:__ o estoque dos produtos disponibilizados com a opção Fulfillment Magalu é gerenciado pela Magalu, mas o gerenciamento de inventário é realizado pelo seller. Siga o tutorial [Gerenciar Estoque](/pt/docs/tutorials/gerenciar-estoque#cadastrar-estoque) para cadastrar um novo.  
 
 ### Configuração dos SKUs
 
-Para disponibilizar produtos com Fulfillment Magalu, você deve aplicar uma especificação de produto. Siga o tutorial [Cadastrar especificações ou campos de produto](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106#tipos-de-campo-de-produto) e preencha as informações conforme a tabela abaixo.
+Para disponibilizar produtos com Fulfillment Magalu, você deve aplicar uma especificação de produto. Siga o tutorial [Cadastrar especificações ou campos de produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto#tipos-de-campo-de-produto) e preencha as informações conforme a tabela abaixo.
 
 | **Campo** | **Como preencher** |
 |:---:|:---:|

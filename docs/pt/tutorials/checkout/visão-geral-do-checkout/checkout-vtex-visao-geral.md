@@ -38,7 +38,7 @@ Sempre que o cliente realiza uma modificação no carrinho (adição ou remoçã
 
 ![Checkout overview](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/visão-geral-do-checkout/checkout-vtex-visao-geral_1.png)
 
-> ℹ️ Caso um ou mais itens escolhidos pelo cliente sejam elegíveis para entrega por um [Seller white label](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#o-que-e-um-seller-white-label), serão realizadas simulações (conforme exibido no lado direito da figura), de modo a determinar quais sellers serão responsáveis pela entrega dos itens. Saiba mais em [Seleção de sellers white label](/pt/tutorial/white-label-sellers-selection--3MemNQ4pKkWCpMdzI27AHa#).
+> ℹ️ Caso um ou mais itens escolhidos pelo cliente sejam elegíveis para entrega por um [Seller white label](/pt/docs/tutorials/seller-white-label#o-que-e-um-seller-white-label), serão realizadas simulações (conforme exibido no lado direito da figura), de modo a determinar quais sellers serão responsáveis pela entrega dos itens. Saiba mais em [Seleção de sellers white label](/pt/tutorial/white-label-sellers-selection--3MemNQ4pKkWCpMdzI27AHa#).
 
 ## Funcionalidades do Checkout VTEX
 

@@ -43,7 +43,7 @@ Confira o passo a passo:
 12. Clique no botão vermelho __Ok.__
 13. Clique no botão cinza __Ok.__
 
-> ℹ️ Mais informações sobre **Configurações gerais** e **Configurações de busca e de filtro** podem ser encontradas na sessão **Como configurar** do artigo [Criar entidade de dados](/pt/tutorial/criando-entidade-de-dados--tutorials_1265#como-configurar).
+> ℹ️ Mais informações sobre **Configurações gerais** e **Configurações de busca e de filtro** podem ser encontradas na sessão **Como configurar** do artigo [Criar entidade de dados](/pt/docs/tutorials/entidade-de-dados#como-configurar).
 
 ![criar campo master data ds](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configurações-do-master-data-v1/como-crio-um-campo-no-master-data_1.gif)
 

@@ -37,7 +37,7 @@ After creating a franchise account, you need to [create a seller](/en/docs/tutor
 
 ## Setting up a pickup point
 
-After creating the franchise account, you need to add the address of the physical store as an available [pickup point](/en/docs/tutorials/pickup-points). To do this, follow the instructions in [How to set up pickup points](/en/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#como-configurar-pontos-de-retirada).
+After creating the franchise account, you need to add the address of the physical store as an available [pickup point](/en/docs/tutorials/pickup-points). To do this, follow the instructions in [How to set up pickup points](/en/docs/tutorials/pickup-points#como-configurar-pontos-de-retirada).
 
 The created pickup point will be assigned an ID that you will need when [Creating a warehouse](#creating-a-warehouse). If you lose the ID, you can view it in the **Pickup Points** screen of the VTEX Admin, under the **ID** column.
 
@@ -47,7 +47,7 @@ After you have the pickup point, you need to indicate which [warehouse](/en/docs
 
 1. In the VTEX Admin, go to **Shipping > Shipping Strategy > Warehouses**, or type **Shipping Strategy** in the search bar at the top of the page.
 2. Click `+ Create Warehouse`.
-3. Complete the [form fields](/en/tutorial/gerenciar-estoque--tutorials_137#filling-in-warehouse-fields) and select the pickup point configured in the previous step.
+3. Complete the [form fields](/en/docs/tutorials/managing-warehouses#filling-in-warehouse-fields) and select the pickup point configured in the previous step.
 4. Toggle the switch <i class="fas fa-toggle-on"></i> to `Active` to link the warehouse of the physical store to Sales App.
 5. Click `Save`.
 

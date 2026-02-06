@@ -80,7 +80,7 @@ Obtén más información sobre cada característica a continuación.
 
 ![Seller Portal gif 2022 launch](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2022/octubre/2022-10-17-releases-de-marketplace-vtex-en-2022_2.gif)
 
-Seller Portal es una edición de la plataforma VTEX destinada a que los [sellers](/es/tutorial/marketplace-strategies-at-vtex--tutorials_402#vender-em-marketplace) se conecten y vendan sus productos en los _marketplaces_ hospedados en VTEX. Con el portal, los _sellers_ acceden a todas las funcionalidades esenciales para la operación del ecommerce en grandes vitrinas, aportando visibilidad y conversión de ventas.
+Seller Portal es una edición de la plataforma VTEX destinada a que los [sellers](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#vender-em-marketplace) se conecten y vendan sus productos en los _marketplaces_ hospedados en VTEX. Con el portal, los _sellers_ acceden a todas las funcionalidades esenciales para la operación del ecommerce en grandes vitrinas, aportando visibilidad y conversión de ventas.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
@@ -128,7 +128,7 @@ Para facilitar que los nuevos _sellers_ se unan al Seller Portal, también hemos
 
 ![Seller management gif 2022 launch](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2022/octubre/2022-10-17-releases-de-marketplace-vtex-en-2022_3.gif)
 
-Hemos lanzado la experiencia renovada de la página [Gestión de sellers](/es/docs/tutorials/gestion-de-sellers), donde los operadores de los _marketplaces_ [agregan sellers](/es/tutorial/adicionar-seller-beta--6q4G4RNqVENr5YMJyindwL), registran su información respectiva y gestionan el status de cada _seller_.
+Hemos lanzado la experiencia renovada de la página [Gestión de sellers](/es/docs/tutorials/gestion-de-sellers), donde los operadores de los _marketplaces_ [agregan sellers](/es/docs/tutorials/agregar-seller), registran su información respectiva y gestionan el status de cada _seller_.
 
 La página incluye:
 
@@ -188,7 +188,7 @@ Consulta las tablas siguientes para ver qué se debe hacer para que los _marketp
   </tr>
   <tr>
     <td>Seller Portal</td>
-    <td>Para que los sellers puedan acceder al portal, sigue el paso a paso: <br> <ol> <li>Envía una invitación a cada seller que quieras agregar al Seller Portal a través de la página [<span style="font-weight:400;color:#F71963;background-color:transparent">Invitación de sellers</span>](/es/docs/tutorials/marketplace-sellers-invitados).</li><li>Envía el artículo de ayuda [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller: crear una cuenta en el Seller Portal</span>](/es/docs/tutorials/sellers-crear-una-cuenta-en-el-seller-portal) para que tus sellers aprendan a configurar sus cuentas.</li><li> [<span style="font-weight:400;color:#F71963;background-color:transparent">Activa el seller</span>](/es/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#ativar-seller) para que pueda enviar productos a tu marketplace.</li></ol><br>Obtén más información sobre el proceso completo en el artículo [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller Portal: primeros pasos para el marketplace</span>](/es/docs/tutorials/seller-portal-primeros-pasos-para-el-marketplace).</td>
+    <td>Para que los sellers puedan acceder al portal, sigue el paso a paso: <br> <ol> <li>Envía una invitación a cada seller que quieras agregar al Seller Portal a través de la página [<span style="font-weight:400;color:#F71963;background-color:transparent">Invitación de sellers</span>](/es/docs/tutorials/marketplace-sellers-invitados).</li><li>Envía el artículo de ayuda [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller: crear una cuenta en el Seller Portal</span>](/es/docs/tutorials/sellers-crear-una-cuenta-en-el-seller-portal) para que tus sellers aprendan a configurar sus cuentas.</li><li> [<span style="font-weight:400;color:#F71963;background-color:transparent">Activa el seller</span>](/es/docs/tutorials/seller-portal-primeros-pasos-para-el-marketplace#ativar-seller) para que pueda enviar productos a tu marketplace.</li></ol><br>Obtén más información sobre el proceso completo en el artículo [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller Portal: primeros pasos para el marketplace</span>](/es/docs/tutorials/seller-portal-primeros-pasos-para-el-marketplace).</td>
   </tr>
   <tr>
     <td>Gestión de sellers</td>

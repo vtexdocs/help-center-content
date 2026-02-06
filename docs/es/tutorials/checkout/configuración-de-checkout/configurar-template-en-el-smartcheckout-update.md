@@ -19,7 +19,7 @@ El __portal__ es usado para renderizar las pantallas de __Checkout__ (carrito, d
 
 El módulo __Checkout__ en Admin, muestra los sitios que están registrados para su cuenta. A través de él, también es posible crear un nuevo sitio, editar y configurar información sobre sitios existentes.
 
-> ℹ️ Cada sitio registrado corresponde a un multidominio (si la cuenta tiene multidominios contratados). Para cuentas que no utilizan multidominios, no es necesario registrar más de un sitio en este módulo. Obtenga más información en [Crear multitienda/multidominio](/es/tutorial/como-criar-multiloja-multidominio--tutorials_510#).
+> ℹ️ Cada sitio registrado corresponde a un multidominio (si la cuenta tiene multidominios contratados). Para cuentas que no utilizan multidominios, no es necesario registrar más de un sitio en este módulo. Obtenga más información en [Crear multitienda/multidominio](/es/docs/tutorials/gestionar-multitienda).
 
 ## Crear un nuevo sitio web
 

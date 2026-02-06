@@ -23,7 +23,7 @@ Before you start using VTEX Sales App, make sure your store already has franchis
 
 When you create a franchise account, each one of your physical stores will have a separate VTEX Admin with its own logistics, but will inherit the catalog of the main account.
 
-Your franchise accounts will function as [White Label Sellers](/en/tutorial/what-are-franchise-account-and-seller-white-label--5orlGHyDHGAYciQ64oEgKa#what-is-a-seller-white-label). This means that whenever an order is placed through any channel, be it VTEX Sales App or ecommerce, the system will search for the store with the best [SLA](/en/docs/tutorials/vtex-operation-service-level-agreement-sla) delivery.
+Your franchise accounts will function as [White Label Sellers](/en/docs/tutorials/white-label-seller#what-is-a-seller-white-label). This means that whenever an order is placed through any channel, be it VTEX Sales App or ecommerce, the system will search for the store with the best [SLA](/en/docs/tutorials/vtex-operation-service-level-agreement-sla) delivery.
 
 > ⚠️ Each seller must have a different company registration number for order payments to work correctly.
 

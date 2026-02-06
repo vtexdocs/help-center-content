@@ -34,12 +34,12 @@ No comércio B2B, é necessário fornecer opções personalizadas durante o chec
 O aplicativo Configurações de Checkout no B2B funciona em conjunto com outros aplicativos da [B2B Suite](/pt/docs/tutorials/b2b-suite-visao-geral) para estender a experiência de checkout para usuários que são membros de uma organização.
 
 ## Perfis de acesso ao Checkout
-Este aplicativo verifica automaticamente os perfis dos usuários que fazem parte da organização e se comunica com o aplicativo [Organizações B2B](/pt/tutorial/b2b-suite-overview--5eG6UfveWrai7looK0kVG3#aplicativo-organizacoes-b2b). Ele também confirma se os usuários possuem as [permissões](/pt/docs/tutorials/recursos-do-license-manager) necessárias para acessar o checkout ao interagir com o aplicativo [*Storefront Permissions*](/pt/docs/tutorials/gerenciamento-de-permissoes-no-b2b-suite).
+Este aplicativo verifica automaticamente os perfis dos usuários que fazem parte da organização e se comunica com o aplicativo [Organizações B2B](/pt/docs/tutorials/b2b-suite-visao-geral#aplicativo-organizacoes-b2b). Ele também confirma se os usuários possuem as [permissões](/pt/docs/tutorials/recursos-do-license-manager) necessárias para acessar o checkout ao interagir com o aplicativo [*Storefront Permissions*](/pt/docs/tutorials/gerenciamento-de-permissoes-no-b2b-suite).
 
 Por padrão, qualquer usuário com perfil que permite acesso ao storefront pode acessar o checkout, exceto aqueles com o perfil de Comprador da Organização. Se um usuário tentar prosseguir para o checkout sem a permissão necessária, ele receberá uma notificação com a mensagem: *Você não tem acesso ao checkout*.
 
 ## Endereços do centro de custos
-O aplicativo Configurações de Checkout no B2B se comunica com o aplicativo [Organizações B2B](/pt/tutorial/b2b-suite-visao-geral--5eG6UfveWrai7looK0kVG3#aplicativo-organizacoes-b2b) e lista automaticamente os endereços do centro de custos associados ao usuário durante a etapa do checkout.
+O aplicativo Configurações de Checkout no B2B se comunica com o aplicativo [Organizações B2B](/pt/docs/tutorials/b2b-suite-visao-geral#aplicativo-organizacoes-b2b) e lista automaticamente os endereços do centro de custos associados ao usuário durante a etapa do checkout.
 
 ## Campo de número de ordem de compra
 Uma ordem de compra (PO) é um acordo comercial entre uma empresa compradora e uma loja B2B autorizando o pagamento por produtos ou serviços a serem entregues no futuro, dentro de um prazo específico.

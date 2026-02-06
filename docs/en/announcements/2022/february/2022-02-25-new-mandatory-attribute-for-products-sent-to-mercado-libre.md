@@ -31,6 +31,6 @@ This change was made due to [Anatel's new resolution](https://www.gov.br/anatel/
 
 ## What needs to be done?
 
-First, follow the steps in the article [Adding product specifications](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) to create, on the VTEX platform, the product specification `ANATEL_HOMOLOGATION_NUMBER` for products in the Cell phones category.
+First, follow the steps in the article [Adding product specifications](/en/docs/tracks/specifications-concept-definition) to create, on the VTEX platform, the product specification `ANATEL_HOMOLOGATION_NUMBER` for products in the Cell phones category.
 
 After adding the new attribute, map the category and the attribute to send the product to Mercado Libre. For more information about this process, read the article [Sending products to Mercado Libre](/en/docs/tracks/mapping-product-categories-and-attributes-to-mercado-libre).

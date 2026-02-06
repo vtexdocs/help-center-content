@@ -23,7 +23,7 @@ Out-of-stock errors can occur for different reasons. Here are the most common:
 
 - **Items unavailable**: one or more SKUs in the order are unavailable, you must [update the number of SKUs in stock](/en/docs/tutorials/updating-the-quantity-of-items-in-inventory).
 - **Inactive SKU:** the SKU is not active, which prevents it from being integrated. Check the status of the item in your Admin, in _Catalog > Products and SKUs._
-- **Negative inventory:** a [negative inventory balance](/en/tutorial/atualizar-quantidade-de-skus-em-estoque--IKMWjOjMcMqKusSGko8c0#why-is-my-inventory-negative) occurs when there are more reserved items than the total quantity in stock.
+- **Negative inventory:** a [negative inventory balance](/en/docs/tutorials/updating-the-quantity-of-items-in-inventory#why-is-my-inventory-negative) occurs when there are more reserved items than the total quantity in stock.
 - **Item not in collection or trade policy:** check if the SKU is marked correctly in the collection or trade policy defined for the marketplace. Learn more in the article [Associating SKUs with a trade policy](/en/docs/tutorials/associate-a-sku-to-a-trade-policy).
 
 After resolving the error, the order must be manually reprocessed. In your Admin, go to **MARKETPLACE > Connections > Orders** and click on the order with the error. Click on the **Actions** button and choose the **Reprocess** option.

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 
-All clients and partners have access to support provided by the [VTEX support](/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe)  team of experts. To contact them, you need to open a ticket.
+All clients and partners have access to support provided by the [VTEX support](/en/docs/tutorials/how-does-vtex-support-work)  team of experts. To contact them, you need to open a ticket.
 
 Our specialists are qualified to provide the best possible Our experts are trained to provide the best experience possible to solve tickets. However, there are some guidelines you should follow when opening a ticket to ensure a faster and more streamlined process.
 
@@ -99,4 +99,4 @@ You can adapt this information to your specific scenario and use it to guide you
 #### Learn more
 
 - [Opening tickets to VTEX support](/en/docs/tutorials/opening-tickets-to-vtex-support)
-- [How does VTEX support work?](/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe)
+- [How does VTEX support work?](/en/docs/tutorials/how-does-vtex-support-work)

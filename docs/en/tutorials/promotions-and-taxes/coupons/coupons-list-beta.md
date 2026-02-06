@@ -149,7 +149,7 @@ The **View usage details** modal presents information on how each coupon was use
 
 * **Linked promotions:** Displays the name of the promotion associated with the coupon, if any. By clicking on the promotion name, you will be redirected to the promotion editing page.
 
-    The coupon becomes valid when associated with at least one promotion. To associate it, you must use the same [utm_source or utm_campaign](/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium) both in the coupon and the promotion fields. Please read [Associating a coupon with a promotion](/en/tutorial/creating-a-coupon-beta--7lMk3MmhNp2IEccyGApxU#associating-a-coupon-with-a-promotion) to learn more about this configuration.
+    The coupon becomes valid when associated with at least one promotion. To associate it, you must use the same [utm_source or utm_campaign](/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium) both in the coupon and the promotion fields. Please read [Associating a coupon with a promotion](/en/docs/tutorials/creating-a-coupon-beta#associating-a-coupon-with-a-promotion) to learn more about this configuration.
 
 * **Usage** (single coupons): Displays the number of times the coupon can be used and the number of remaining uses, if you have set a usage limit.
 

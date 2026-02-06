@@ -17,7 +17,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 A URL de um produto é o endereço eletrônico que permite acessar a página do produto na internet. É importante criar uma URL amigável e otimizada para que ela seja facilmente encontrável por ferramentas de busca e facilite a experiência do seu cliente no site do seu ecommerce. 
 
-Na VTEX, a URL de um produto é composta pelo domínio da loja somado ao valor do campo obrigatório **textLink** durante o [cadastro do produto](/pt/tutorial/cadastrando-produtos--tutorials_2567), mais `/p`, que representa “produto”.  Exemplo: em uma loja cujo domínio é `nomedaloja.com`, ao preencher o campo **textLink** de um produto com `camisa-polo`, a estrutura final da URL do produto será `nomedaloja.com/camisa-polo/p`.
+Na VTEX, a URL de um produto é composta pelo domínio da loja somado ao valor do campo obrigatório **textLink** durante o [cadastro do produto](/pt/docs/tutorials/adicionar-ou-editar-produto), mais `/p`, que representa “produto”.  Exemplo: em uma loja cujo domínio é `nomedaloja.com`, ao preencher o campo **textLink** de um produto com `camisa-polo`, a estrutura final da URL do produto será `nomedaloja.com/camisa-polo/p`.
 
 Você pode alterar o **textLink** de um produto existente a qualquer momento pelo Admin VTEX, em **Catálogo > Todos os produtos > Alterar**. Recomendamos preencher o **textLink** com o nome do seu produto, utilizando apenas as principais palavras-chave relacionadas a ele.
 
@@ -42,5 +42,5 @@ Ao preencher o campo **textLink**, é necessário respeitar as seguintes regras:
 
 ## Saiba mais
 
-* [Cadastrar produtos](/pt/tutorial/cadastrando-produtos--tutorials_2567)
-* [Preencher campos de cadastro de produto](/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke)
+* [Cadastrar produtos](/pt/docs/tutorials/adicionar-ou-editar-produto)
+* [Preencher campos de cadastro de produto](/pt/docs/tutorials/adicionar-ou-editar-produto)

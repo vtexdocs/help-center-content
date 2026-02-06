@@ -19,7 +19,7 @@ VTEX's subscription system is designed to facilitate recurring sales. It functio
 
 The customer indicates how often they want to repeat the purchase of a particular SKU and the system automatically reorders the SKU according to the scheduled period, which we call a subscription cycle.
 
-In the VTEX Admin, in **Orders > Subscriptions**, there are two pages —  [Dashboards](/en/docs/tutorials/how-to-manage-subscriptions), where you can track and supervise existing subscriptions, and [Settings](/en/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x#settings), for configuring your subscriptions. A subscription will only appear in the list after the first payment has been approved.
+In the VTEX Admin, in **Orders > Subscriptions**, there are two pages —  [Dashboards](/en/docs/tutorials/how-to-manage-subscriptions), where you can track and supervise existing subscriptions, and [Settings](/en/docs/tutorials/how-to-manage-subscriptions#settings), for configuring your subscriptions. A subscription will only appear in the list after the first payment has been approved.
 
 > ⚠️ Currently, only purchases made with **credit cards** are eligible for subscriptions. Please enable all credit card conditions already set for [recurring purchases](/en/docs/tutorials/how-to-set-up-recurrence-in-payment-conditions) in your payment settings. In addition, it is required that your payment connector accepts recurring payments. Contact your store's acquirer and make sure they support tokenized credit card payments (without the CVV) for recurring purchases.
 

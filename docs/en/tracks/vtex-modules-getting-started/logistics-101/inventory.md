@@ -15,7 +15,7 @@ trackSlugEN: logistics-101
 order: 3
 ---
 
-Inventory is the feature for managing products available for sale. Once [products have been added](/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke) to the [catalog](/en/docs/tracks/catalog-concept-definition), they must be listed in a warehouse to become available for sale. The [Inventory management](/en/docs/tutorials/managing-stock-items) module is where catalog items are associated with a warehouse.
+Inventory is the feature for managing products available for sale. Once [products have been added](/en/docs/tutorials/adding-or-editing-products) to the [catalog](/en/docs/tracks/catalog-concept-definition), they must be listed in a warehouse to become available for sale. The [Inventory management](/en/docs/tutorials/managing-stock-items) module is where catalog items are associated with a warehouse.
 
 > ℹ️ Remember to add at least one [warehouse](/en/docs/tutorials/warehouse) in your store before using the [Inventory](/en/docs/tutorials/managing-stock-items).
 

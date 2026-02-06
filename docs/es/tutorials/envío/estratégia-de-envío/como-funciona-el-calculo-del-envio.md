@@ -52,7 +52,7 @@ Para su selección, las combinaciones de logística siguen los criterios y el or
   <li>Menor costo</li>
   <li>Menor plazo</li>
   <li>Menor división de paquetes</li>
-  <li>[Muelles de carga prioritarios](/es/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW#campos-de-cadastro)</li>
+  <li>[Muelles de carga prioritarios](/es/docs/tutorials/gestionar-el-muelle#campos-de-cadastro)</li>
 </ul>
 <br>
   > ℹ️ Cuando hay un empate entre dos muelles de carga, el criterio de desempate es el *[overhead](/es/docs/tutorials/gestionar-el-muelle)* o sobrecarga, es decir, el valor en días para elegir el muelle que es más beneficioso para un determinado envío. Cuanto menor sea el overhead o sobrecarga, más posibilidades habrá de que se elija ese muelle. Cabe mencionar que el overhead o sobrecarga no se tiene en cuenta al momento de calcular el tiempo de envío.
@@ -68,7 +68,7 @@ El resultado final de la selección de las configuraciones de logística es una 
 
 En el Admin VTEX, se pueden configurar criterios y prioridades distintas para las etapas relacionadas con la [logística](/es/docs/tutorials/fulfillment-logistica-vtex):
 
-- **Muelles de carga:** las prioridades se configuran en los [campos de registro del muelle de carga](/es/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW#campos-de-cadastro).
+- **Muelles de carga:** las prioridades se configuran en los [campos de registro del muelle de carga](/es/docs/tutorials/gestionar-el-muelle#campos-de-cadastro).
 - **Flete:** los precios del flete se configuran en las [tarifas de envío](/es/docs/tutorials/tarifas-de-envio), excepto la [tarifa del muelle de carga](/es/docs/tutorials/costo-final-del-envio), que es un valor adicional opcional que se configura al agregar el muelle de carga a un almacén.
 - **Plazo:** el tiempo para el envío se configura en la [estimación del SLA](#estimacion-del-tiempo-de-envio).
 - **División de paquetes:** los criterios adoptados se configuran en el módulo _Checkout_. Obtén más información en [División de pedidos y división de entregas](/es/docs/tutorials/division-de-pedidos-y-division-de-entregas).

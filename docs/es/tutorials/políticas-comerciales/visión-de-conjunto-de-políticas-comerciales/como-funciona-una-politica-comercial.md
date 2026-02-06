@@ -33,12 +33,12 @@ Vea cómo se relacionan las diferentes configuraciones de VTEX con las política
 
 Para [contratar políticas comerciales adicionales](/es/docs/tutorials/contratacion-de-politicas-comerciales-adicionales), póngase en contacto con nuestro equipo de Growth Operations en Soporte, seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Política Comercial`.
 
-La contratación de políticas comerciales adicionales para integración con un [conector certificado](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-certificado-partner) u otras tiendas VTEX está exenta de la cuota mensual.
+La contratación de políticas comerciales adicionales para integración con un [conector certificado](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-conector-certificado-partner) u otras tiendas VTEX está exenta de la cuota mensual.
 
 > ⚠️ Si se aplica la misma política comercial a un conector certificado y a un conector asociado, no hay exención de tarifas.
 
 ## Catálogo
-Al [registrar productos](/es/tutorial/cadastrando-produtos--tutorials_2567) en el catálogo, puede restringir su disponibilidad para determinadas políticas comerciales. De este modo, el catálogo se segmenta en función de las diferentes estrategias de negocio. Las estrategias pueden incluir la segmentación de productos por región, para un marketplace o para tipos específicos de clientes, como los empleados. Vea más información sobre la configuración del [catálogo](/es/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ).
+Al [registrar productos](/es/docs/tutorials/agregar-o-editar-productos) en el catálogo, puede restringir su disponibilidad para determinadas políticas comerciales. De este modo, el catálogo se segmenta en función de las diferentes estrategias de negocio. Las estrategias pueden incluir la segmentación de productos por región, para un marketplace o para tipos específicos de clientes, como los empleados. Vea más información sobre la configuración del [catálogo](/es/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ).
 
 ## Precios
 Puede establecer diferentes precios para el mismo SKU desde la política comercial. Esta aplicación de la política comercial no equivale a crear una promoción, ya que depende de la estrategia de precios de su empresa. Puede utilizarla para diferenciar los precios entre clientes B2C y B2B, o entre tiendas físicas y ventas en un marketplace. Puede aplicar [reglas de precios](/es/docs/tutorials/configurar-regla-de-precio-para-politica-comercial) y [precios fijos](/es/docs/tracks/precio-fijo-definicion-de-concepto) para diferenciar los precios y los markups entre productos, categorías o marcas específicas. Para más información sobre la configuración de [precios](/es/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP).

@@ -56,5 +56,5 @@ Para más información sobre la gestión de permisos de usuario y claves de apli
 
 - [Roles](/es/docs/tutorials/roles)
 - [Gestionar usuarios](/es/docs/tutorials/gestionar-usuarios-administradores)
-- [Gestionar claves de aplicación](/es/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet#gerenciar-chaves-de-aplicacao)
+- [Gestionar claves de aplicación](/es/docs/tutorials/claves-de-api#gerenciar-chaves-de-aplicacao)
 - [Recursos de License Manager](/es/docs/tutorials/recursos-del-license-manager)

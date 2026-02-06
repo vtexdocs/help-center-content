@@ -40,7 +40,7 @@ To customize an email template in the VTEX Admin, copy and paste the link below 
 
 ### Managing order modifications through the VTEX Admin
 
-For stores using the current version to modify orders through the VTEX Admin, the updated interfaces will be immediately available for you to use **Order modifications** once the VTEX team has installed the new solution. This includes new management features and communication tools for [My Account](/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#pedidos) and [transactional email templates](/en/docs/tutorials/order-transactional-email-templates).
+For stores using the current version to modify orders through the VTEX Admin, the updated interfaces will be immediately available for you to use **Order modifications** once the VTEX team has installed the new solution. This includes new management features and communication tools for [My Account](/en/docs/tutorials/how-my-account-works#pedidos) and [transactional email templates](/en/docs/tutorials/order-transactional-email-templates).
 
 ### Managing order modifications via API
 

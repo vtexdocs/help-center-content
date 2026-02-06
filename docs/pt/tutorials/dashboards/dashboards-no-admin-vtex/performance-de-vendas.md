@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1TIJqw8kV2Yok4iQe4SAkq
 ---
 
-A página Performance de Vendas é um painel de controle para comércio unificado, ajudando lojas a ampliarem seu negócio e tomarem decisões com mais precisão. O painel permite que usuários analisem dados dos pedidos da sua loja e de seus sellers, no caso de [lojas que atuam como marketplaces](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#atuar-como-marketplace). Com a página, usuários podem:
+A página Performance de Vendas é um painel de controle para comércio unificado, ajudando lojas a ampliarem seu negócio e tomarem decisões com mais precisão. O painel permite que usuários analisem dados dos pedidos da sua loja e de seus sellers, no caso de [lojas que atuam como marketplaces](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#atuar-como-marketplace). Com a página, usuários podem:
 
 - Monitorar a saúde do seu negócio
 - Avaliar o impacto nas vendas dos eventos de alta demanda (Black Friday, Cyber Monday)

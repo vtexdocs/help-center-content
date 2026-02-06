@@ -26,7 +26,7 @@ Existen tres maneras de ver la página **Calendario**:
 * [Vista por mes](#vista-por-mes): muestra los releases programados para todos los días del mes seleccionado.
 * [Vista por semana](#vista-por-semana): muestra los releases programados para determinada semana.
 
-El **Calendario** muestra solamente [releases programados](/es/tutorial/planner-acciones-en-los-releases-beta--1zsomdifPEQkdV6RW93JyW#programar). Para ver todos tus releases, ingresa a la página [Releases](/es/v4/docs/planner-pagina-de-releases--1tQNCNwoMvxV4EoizajqJw).
+El **Calendario** muestra solamente [releases programados](/es/docs/tutorials/planner-acciones-en-releases-beta#programar). Para ver todos tus releases, ingresa a la página [Releases](/es/v4/docs/planner-pagina-de-releases--1tQNCNwoMvxV4EoizajqJw).
 
 > ⚠️ En la etapa Beta, los releases deben estar relacionados al [CMS](/es/docs/tracks/cms-vtex-io) porque hay otros módulos de la plataforma VTEX que aún no están incluidos. Para usar el **Releases**, se debe configurar el CMS tal como se describe en [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
@@ -82,7 +82,7 @@ Además de ver información sobre el release, en esta pantalla, puedes:
 
 **IV - Crear nuevo release:** para crear un nuevo release, haz clic en el botón `Crear release` y sigue los pasos descriptos en [Releases: acciones en los releases](/es/docs/tutorials/planner-acciones-en-releases-beta).
 
-**V - Realizar acciones en el release:** según el [status de un release](/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-los-releases), el menú de tres puntos <i class="fas fa-ellipsis-v"></i> mostrará distintas opciones de acciones. Para ver las posibles acciones, consulta [Releases: acciones en los releases](/es/docs/tutorials/planner-acciones-en-releases-beta).
+**V - Realizar acciones en el release:** según el [status de un release](/es/docs/tutorials/planner-concepto-de-release-beta#status-de-los-releases), el menú de tres puntos <i class="fas fa-ellipsis-v"></i> mostrará distintas opciones de acciones. Para ver las posibles acciones, consulta [Releases: acciones en los releases](/es/docs/tutorials/planner-acciones-en-releases-beta).
 
 ## Más información
 

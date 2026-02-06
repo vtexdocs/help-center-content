@@ -52,12 +52,12 @@ Al igual que la promoción, la programación de las tasas se realiza durante su 
 2. Haga clic en la página **Tasas**.
 3. Haga clic en el botón `Nueva Tasa`.
 4. En la sección **¿Cuáles son los datos generales de la tasa?**, rellene el campo **Validez** con las fechas y horas de inicio y término del periodo de validez de la tasa. Para programar la tasa, debe introducir una fecha y una hora posteriores a las de su creación.
-5. Rellene [los demás campos de la tasa](/es/tutorial/creating-surchargestaxes--tutorials_321#campos).
+5. Rellene [los demás campos de la tasa](/es/docs/tutorials/creando-la-tasaimpuesto#campos).
 6. Haga clic en `Guardar`.
 
 ## Programar contenido
 
-La programación de contenidos a través de Site Editor se puede hacer tanto al [crear](/es/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37#crear-contenido) como al [editar](/es/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37#editar-contenido) un bloque.  
+La programación de contenidos a través de Site Editor se puede hacer tanto al [crear](/es/docs/tutorials/gestionar-contenido-de-paginas-y-templates#crear-contenido) como al [editar](/es/docs/tutorials/gestionar-contenido-de-paginas-y-templates#editar-contenido) un bloque.  
 
 > ⚠️ La programación de contenidos solo está disponible para las tiendas desarrolladas en [VTEX IO](https://vtex.com/es-es/store-framework/). 
 

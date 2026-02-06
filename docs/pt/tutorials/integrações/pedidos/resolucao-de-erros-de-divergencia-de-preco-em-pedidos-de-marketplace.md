@@ -27,10 +27,10 @@ Para aderir ao fluxo de Autorização de pedidos, você precisa [configurar uma 
 
 Para marketplaces VTEX, marketplaces externos e conectores certificados (parceiros), enquanto a regra de Divergência de valores não for criada, pedidos com erro de divergência de preço são aprovados automaticamente.
 
-Para [conectores nativo](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), enquanto o seller não configura a regra de Divergência de valores, pedidos com divergência de preço ficam retidos. É possível acompanhá-los no Admin VTEX, em **Marketplace > Conexões > Pedidos**.
+Para [conectores nativo](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-nativo-vtex), enquanto o seller não configura a regra de Divergência de valores, pedidos com divergência de preço ficam retidos. É possível acompanhá-los no Admin VTEX, em **Marketplace > Conexões > Pedidos**.
 
 ### Saiba mais
 
-- [Por que o pedido foi fechado com um preço errado?](/pt/faq/por-que-o-pedido-foi-fechado-com-um-preco-errado--frequentlyAskedQuestions_708)
+- [Por que o pedido foi fechado com um preço errado?](/pt/troubleshooting/meu-pedido-foi-fechado-com-o-preco-errado)
 - [Erros de falta de estoque na integração de pedidos de marketplace](/pt/docs/tutorials/erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace)
 - [Erros de SLA na integração de pedidos de marketplace](/pt/docs/tutorials/erros-de-sla-na-integracao-de-pedidos-de-marketplace)

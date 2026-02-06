@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 32zXHBMygA2dB6TbCjQJej
 ---
 
-Para configurar uma [regra de merchandising](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0) do VTEX Intelligent Search utilizando o [Editor visual](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao), siga os passos abaixo.
+Para configurar uma [regra de merchandising](/pt/docs/tutorials/regras-de-merchandising) do VTEX Intelligent Search utilizando o [Editor visual](/pt/docs/tutorials/regras-de-merchandising#tipos-de-edicao), siga os passos abaixo.
 
 1. No Admin VTEX, acesse **Storefront**, ou digite **Storefront** na barra de busca.
 2. Em **Intelligent Search**, clique em **Regras de merchandising**.
@@ -25,7 +25,7 @@ Para configurar uma [regra de merchandising](/pt/tracks/vtex-intelligent-search-
     * **Data de início (opcional)**: agendamento da data a partir da qual a regra de merchandising será aplicada. A data segue o fuso horário UTC-0.
     * **Data de término (opcional)**: agendamento da data em que a regra de merchandising não será mais aplicada às buscas na loja. A data segue o fuso horário UTC-0.
     * **Aplicar aos idiomas:** idiomas aos quais a regra de merchandising será aplicada. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta).
-5. Clique em **Editor visual**. Para mais informações sobre cada editor, confira [Tipos de edição](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao).
+5. Clique em **Editor visual**. Para mais informações sobre cada editor, confira [Tipos de edição](/pt/docs/tutorials/regras-de-merchandising#tipos-de-edicao).
 6. Clique em `Próximo`.
 7. Defina ao menos um termo de busca ou um filtro para a aplicação da regra de merchandising:
     * Para definir um termo de busca, digite o termo na barra de busca (item **II** na seção [Ações disponíveis no Editor visual](#acoes-disponiveis-no-editor-visual])).
@@ -87,7 +87,7 @@ Para adicionar uma condição no Editor visual, siga o passo a passo abaixo.
 
 1. Clique em `Filtro`.
 2. Clique em `Adicionar condição`.
-3. Preencha as condições desejadas. As opções disponíveis estão descritas em [Condições de Regras de merchandising](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3Dvava8LSVcFKeS2S6J7XW).
+3. Preencha as condições desejadas. As opções disponíveis estão descritas em [Condições de Regras de merchandising](/pt/docs/tutorials/condicoes-de-regras-de-merchandising).
 4. Clique em `Salvar`.
 
 As condições definidas podem funcionar de forma conjunta (`e`) ou de forma alternativa (`ou`).

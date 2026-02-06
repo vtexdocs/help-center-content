@@ -29,6 +29,6 @@ Adicionamos esse requisito de permissão por motivos de segurança. Dessa forma,
 
 Para que um usuário existente do Admin possa gerenciar redirecionamentos no Store Framework CMS, é necessário atribuir ao usuário um perfil de acesso que inclua o recurso **CMS Settings**. Verifique as instruções para editar os perfis de acesso de um usuário no artigo [Gerenciando Usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos#editar-usuarios).
 
-Caso você queira utilizar um perfil de acesso personalizado, você pode criar um novo perfil de acesso ou editar um já existente para incluir o recurso **CMS Settings**. Verifique as instruções para criar e editar perfis de acesso no artigo [Perfis de Acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso).
+Caso você queira utilizar um perfil de acesso personalizado, você pode criar um novo perfil de acesso ou editar um já existente para incluir o recurso **CMS Settings**. Verifique as instruções para criar e editar perfis de acesso no artigo [Perfis de Acesso](/pt/docs/tutorials/perfis-de-acesso#criando-um-perfil-de-acesso).
 
 Mais informações sobre redirecionamentos podem ser vistas no artigo [Gerenciando redirecionamentos de URL](/pt/docs/tutorials/gerenciando-redirecionamentos-de-url).

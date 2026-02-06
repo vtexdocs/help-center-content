@@ -31,15 +31,15 @@ In B2B commerce, you need to provide custom options at checkout, which may inclu
 - A field for entering the purchase order number.
 - Option for creating an order quote before actually completing the purchase.
 
-The **B2B Checkout Settings** app works together with other [B2B Suite](/en/tutorial/b2b-suite-visao-geral--5eG6UfveWrai7looK0kVG3#aplicativo-configuracoes-de-checkout-b2b) apps to extend the checkout experience for users that belong to an organization.
+The **B2B Checkout Settings** app works together with other [B2B Suite](/en/docs/tutorials/b2b-suite-overview#aplicativo-configuracoes-de-checkout-b2b) apps to extend the checkout experience for users that belong to an organization.
 
 ## Checkout user roles
-This app automatically checks the role of users that belong to an organization and communicates with the [B2B Organizations](/en/tutorial/b2b-suite-overview--5eG6UfveWrai7looK0kVG3#aplicativo-organizacoes-b2b) app. It also confirms if the user has the required [permissions](/en/docs/tutorials/license-manager-resources) to access the checkout by interacting with the [*Storefront Permissions*](/en/docs/tutorials/permissions-management-in-b2b-suite) app.
+This app automatically checks the role of users that belong to an organization and communicates with the [B2B Organizations](/en/docs/tutorials/b2b-suite-overview#aplicativo-organizacoes-b2b) app. It also confirms if the user has the required [permissions](/en/docs/tutorials/license-manager-resources) to access the checkout by interacting with the [*Storefront Permissions*](/en/docs/tutorials/permissions-management-in-b2b-suite) app.
 
 By default, any user with a role that allows storefront access can access the checkout, except those who have an organization buyer role. If a user tries to go to checkout without the required permission, they will see a "You don't have access to the checkout" notification message.
 
 ## Cost center addresses
-The **B2B Checkout Settings** app communicates with the [B2B Organizations](/en/tutorial/b2b-suite-visao-geral--5eG6UfveWrai7looK0kVG3#aplicativo-organizacoes-b2b) app and automatically lists the cost center addresses that are linked to the user at checkout.
+The **B2B Checkout Settings** app communicates with the [B2B Organizations](/en/docs/tutorials/b2b-suite-overview#aplicativo-organizacoes-b2b) app and automatically lists the cost center addresses that are linked to the user at checkout.
 
 ## Purchase order number field
 A purchase order (PO) is a business agreement between a buyer company and a B2B store that authorizes payment for products or services that will be delivered in the future within a specific period.

@@ -49,7 +49,7 @@ Para realizar una búsqueda en la barra de búsqueda, ingresa el término desead
 
 El [sequence](/es/docs/tutorials/cuidados-al-definir-la-numeracion-de-pedido) es una secuencia de seis dígitos que aparece en el Admin VTEX justo después del ID del pedido. Por ejemplo, en el pedido `1268540501456-01 (501456)`, el ID del pedido es `1268540501456`, el `-01` indica que el cumplimiento será realizado por un seller y el sequence es `501456`.
 
-> ℹ️ Además de los criterios enumerados anteriormente, es posible activar otros criterios de búsqueda, como se verá en la sección [Otros](/es/tutorial/filtrar-todos-pedidos--tutorials_192#filtros-otros).
+> ℹ️ Además de los criterios enumerados anteriormente, es posible activar otros criterios de búsqueda, como se verá en la sección [Otros](/es/docs/tutorials/filtrar-todos-los-pedidos#filtros-otros).
 
 De forma predeterminada, la página **Todos los pedidos** se muestra con el filtro de pedidos creados **Hoy** activado. Para buscar otras fechas, utiliza los filtros descritos en [Filtros: Fechas](#filtros-fechas) y [Creado](#creado).
 
@@ -195,7 +195,7 @@ La página **Pedidos > Todos los pedidos** tiene la opción `Filtrar por status`
 
 Al hacer clic en `Filtrar por status` <i class="fas fa-angle-down"></i>, se muestran las opciones de [status de pedidos](/es/docs/tutorials/flujo-y-status-de-pedidos) de tu tienda. Por ejemplo, si no hay pedidos cancelados entre todos tus pedidos, esta opción no estará visible.
 
-> ℹ️ Para más opciones de filtros de status, consulta la sección [Filtros: Status](/es/tutorial/filtrar-todos-pedidos--tutorials_192#filtros-status). Si deseas ver todos los status de pedidos que hay, consulta el artículo [Flujo y status de pedidos](/es/docs/tutorials/flujo-y-status-de-pedidos).
+> ℹ️ Para más opciones de filtros de status, consulta la sección [Filtros: Status](/es/docs/tutorials/filtrar-todos-los-pedidos#filtros-status). Si deseas ver todos los status de pedidos que hay, consulta el artículo [Flujo y status de pedidos](/es/docs/tutorials/flujo-y-status-de-pedidos).
 
 ## Creado
 

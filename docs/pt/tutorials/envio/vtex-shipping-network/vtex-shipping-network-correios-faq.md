@@ -84,7 +84,7 @@ As principais vantagens da solução são as seguintes:
 Além disso, você dispõe das seguintes funcionalidades no seu Admin VTEX:
 
 * [Acompanhar as entregas](/pt/docs/tutorials/entregas-correios-vtex-shipping-network) feitas pelos Correios.
-* [Solicitar Pedidos de Informação](/pt/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq#solicitar-informacoes-do-pedido-aos-correios) aos Correios.
+* [Solicitar Pedidos de Informação](/pt/docs/tutorials/entregas-correios-vtex-shipping-network#solicitar-informacoes-do-pedido-aos-correios) aos Correios.
 * [Imprimir etiquetas de envio](/pt/docs/tutorials/pronto-para-envio) pela página _Pronto para envio_ ou [por API](https://developers.vtex.com/docs/guides/vtex-shipping-network-labels-integration).
 * [Acompanhar com painel](/pt/docs/tutorials/painel-vtex-shipping-network) o resumo financeiro e a performance da sua loja.
 
@@ -135,7 +135,7 @@ As etiquetas de envio podem ser emitidas de duas formas:
 * **Pelo Admin VTEX:** na página [Pronto para Envio](/pt/docs/tutorials/pronto-para-envio), as etiquetas ficam disponíveis para impressão quando os itens foram referenciados na Nota Fiscal e o pedido está no status `faturado`. 
 * **Por API:** na nossa documentação para desenvolvedores _[VTEX Shipping Network Labels Integration](https://developers.vtex.com/docs/guides/vtex-shipping-network-labels-integration)_ você encontra os detalhes.
 
-Você pode [escolher o tipo de formato das etiquetas de envio](/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs#alterar-o-tipo-do-tamanho-das-etiquetas) pelo Admin VTEX, existem as seguintes opções:
+Você pode [escolher o tipo de formato das etiquetas de envio](/pt/docs/tutorials/pronto-para-envio#alterar-o-tipo-do-tamanho-das-etiquetas) pelo Admin VTEX, existem as seguintes opções:
 
 * **A4** (297x210mm)
 * **ZPL** (_Zebra Programming Language_)

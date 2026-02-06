@@ -15,13 +15,13 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Explore the visual editor for Merchandising Rules in VTEX Intelligent Search.'
 ---
 
-[Merchandising Rules](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0) is a feature that handles search results in stores using [VTEX Intelligent Search](/en/docs/tracks/overview-intelligent-search). This feature allows you to display products that are more relevant to the customer and to add or hide pre-selected products from the search results.
+[Merchandising Rules](/en/docs/tutorials/merchandising-rules) is a feature that handles search results in stores using [VTEX Intelligent Search](/en/docs/tracks/overview-intelligent-search). This feature allows you to display products that are more relevant to the customer and to add or hide pre-selected products from the search results.
 
 To provide a more visual, complete, and intuitive experience, we have launched a new editor option for creating merchandising rules.
 
 ## What has changed?
 
-Previously, stores using [VTEX Intelligent Search](/en/docs/tracks/overview-intelligent-search) relied exclusively on the [manual editor](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8) for Merchandising Rules. Now, you can also choose the [new visual editor](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2ejly01m1w28RsZlCKowEr), which allows you to:
+Previously, stores using [VTEX Intelligent Search](/en/docs/tracks/overview-intelligent-search) relied exclusively on the [manual editor](/en/docs/tutorials/creating-merchandising-rules-manual-editor) for Merchandising Rules. Now, you can also choose the [new visual editor](/en/docs/tutorials/creating-merchandising-rules-visual-editor), which allows you to:
 
 * Preview the search results customers will see while navigating the store.
 * Reorder search results.
@@ -30,8 +30,8 @@ Previously, stores using [VTEX Intelligent Search](/en/docs/tracks/overview-inte
 
 ![visual-merch-rules-EN-announcement](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/january/2024-01-30-vtex-intelligent-search-new-visual-editor-for-merchandising-rules_1.png)
 
-When creating a merchandising rule in the VTEX Admin under **Storefront > Intelligent Search > Merchandising Rules > New**, you can choose the type of editor you want to use. Read the [Merchandising Rules](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#types-of-editing) guide for more information on the differences between the manual and the visual editor.
+When creating a merchandising rule in the VTEX Admin under **Storefront > Intelligent Search > Merchandising Rules > New**, you can choose the type of editor you want to use. Read the [Merchandising Rules](/en/docs/tutorials/merchandising-rules#types-of-editing) guide for more information on the differences between the manual and the visual editor.
 
 ## What needs to be done?
 
-No action is required. The new editor is available for all stores using[ VTEX Intelligent Search](/en/docs/tracks/overview-intelligent-search). Read the [Creating merchandising rules - Visual Editor](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2ejly01m1w28RsZlCKowEr) guide for more information.
+No action is required. The new editor is available for all stores using[ VTEX Intelligent Search](/en/docs/tracks/overview-intelligent-search). Read the [Creating merchandising rules - Visual Editor](/en/docs/tutorials/creating-merchandising-rules-visual-editor) guide for more information.

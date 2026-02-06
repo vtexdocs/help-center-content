@@ -22,7 +22,7 @@ tags:
   - OMS
 ---
 
-The `Ready for handling` status occurs in the [order flow](/en/tutorial/order-flow-and-status--tutorials_196#seller-flow) right after the cancellation window is closed. At this point, VTEX should receive information from the [ERP system](https://developers.vtex.com/docs/guides/erp-integration-guide) indicating that the order has been integrated and the item stock has been updated, allowing the flow to proceed to the `Handling shipment` status.
+The `Ready for handling` status occurs in the [order flow](/en/docs/tutorials/order-flow-and-status#seller-flow) right after the cancellation window is closed. At this point, VTEX should receive information from the [ERP system](https://developers.vtex.com/docs/guides/erp-integration-guide) indicating that the order has been integrated and the item stock has been updated, allowing the flow to proceed to the `Handling shipment` status.
 
 Until VTEX receives this confirmation, the order remains in the `Ready for handling` status.
 
@@ -38,7 +38,7 @@ The first required action is to contact the person in charge of your [ERP integr
 
 ### Updating the order manually (optional)
 
-The merchant can [manually update](/en/tutorial/moving-order-to-start-handling-shipping--tutorials_198#through-vtex-admin) the order status to `Handling shipment` via Admin VTEX, if desired. However, to perform this action, they must have a [role with OMS - Full access permission](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#roles). 
+The merchant can [manually update](/en/docs/tutorials/moving-order-to-start-handling-shipping#through-vtex-admin) the order status to `Handling shipment` via Admin VTEX, if desired. However, to perform this action, they must have a [role with OMS - Full access permission](/en/docs/tutorials/roles#roles). 
 
 > ❗ By manually updating the status and confirming the start of handling, the seller assumes responsibility for [reserving items](/en/docs/tutorials/how-does-reservation-work), gensuring there is sufficient stock, and that the sold items are deducted from the inventory. Manually updated orders can't be integrated into the ERP system later.
 

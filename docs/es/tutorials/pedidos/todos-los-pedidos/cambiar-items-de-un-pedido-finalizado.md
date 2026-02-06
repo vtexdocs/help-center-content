@@ -28,7 +28,7 @@ Hay dos formas de modificar un pedido:
 
 Antes de realizar cambios en el pedido, ten en cuenta las restricciones de la funcionalidad:
 
-* Solo es posible modificar pedidos de [Multilevel Omnichannel Inventory](/es/business-guides/offer-the-products-from-your-physical-stores-in-external-marketplaces--6s64bV8Dqb5QN6sqIfPzcA) cuando hechos en un [marketplace externo](https://developers.vtex.com/docs/guides/change-orders-multilevel-omnichannel-inventory-external-marketplaces).
+* Solo es posible modificar pedidos de [Multilevel Omnichannel Inventory](/es/docs/tutorials/multilevel-omnichannel-inventory) cuando hechos en un [marketplace externo](https://developers.vtex.com/docs/guides/change-orders-multilevel-omnichannel-inventory-external-marketplaces).
 * No es posible modificar [pedidos incompletos](/es/docs/tutorials/como-encontrar-un-pedido).
 * Un pedido puede modificarse hasta 50 veces.
 * No es posible aplicar descuentos iguales o superiores al valor del pedido. 

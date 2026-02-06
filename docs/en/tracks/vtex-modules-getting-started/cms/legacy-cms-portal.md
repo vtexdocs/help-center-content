@@ -110,13 +110,13 @@ To add a control, just paste it into the code. The result will be rendered at th
 
 ### List of Native VTEX Controls
 
-You can check out all available native controls and their respective uses in our [List of controls for templates](/en/tutorial/list-of-controls-for-templates--tutorials_563).
+You can check out all available native controls and their respective uses in our [List of controls for templates](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).
 
 ## References
 - [Layout](/en/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW)
 - [Settings](/en/subcategory/cms-settings--6kovkwzMRyeOOc2iEC4suM)
 - [Layout folder structure](/en/tutorial/cms-folder-structure--2RdMaJSv4AK4EyscmQuocu?&utm_source=autocomplete)
-- [List of template controls](/en/tutorial/list-of-controls-for-templates--tutorials_563)
+- [List of template controls](https://developers.vtex.com/docs/guides/list-of-controls-for-templates)
 - [What are templates?](/en/tutorial/o-que-sao-templates--4l7BQBYO9ycumsqua2CU88?&utm_source=autocomplete)
 - [What is a website?](/en/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
 - [What are controls?](/en/tutorial/o-que-sao-controles--6e2qsk9zu8IQuyEysKweag?&utm_source=autocomplete)
@@ -136,7 +136,7 @@ You can check out all available native controls and their respective uses in our
 - [What is the purpose of the Customized Control?](/en/docs/tutorials/what-is-the-purpose-of-the-customized-control): In addition to VTEX's native controls, you can create your own controls.
 
 ## Controls
-- [List of controls for templates](/en/tutorial/list-of-controls-for-templates--tutorials_563)
+- [List of controls for templates](https://developers.vtex.com/docs/guides/list-of-controls-for-templates)
 - [Search control – fulltextSearchBox](/en/tutorial/controle-de-busca-fulltextsearchbox--tutorials_549?&utm_source=autocomplete)
 - [Collection highlight control](/en/tutorial/controle-de-destaque-de-colecao--1tGdb2ndjqy6yWsk2YwKMu?&utm_source=autocomplete)
 - [Breadcrumb control](/en/tutorial/controle-de-breadcrumb--3qQS5O9XpusAC6oUqSIQMM?&utm_source=autocomplete)

@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-To [access invoices](/en/tutorial/como-acessar-o-valor-da-receita-aprovada--tutorials_4322#relatorio-financeiro) and other financial information in your account, you need to associate a financial role with all users authorized to view this information.
+To [access invoices](/en/docs/tutorials/understanding-the-value-of-approved-revenues#relatorio-financeiro) and other financial information in your account, you need to associate a financial role with all users authorized to view this information.
 
-There are two predefined financial [roles](/en/docs/tutorials/roles): [Finance](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance) and [Finance Full Access](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance-full-access). We will use the Finance role as a reference for this article, but the steps detailed below are the same for both roles.
+There are two predefined financial [roles](/en/docs/tutorials/roles): [Finance](/en/docs/tutorials/roles#finance) and [Finance Full Access](/en/docs/tutorials/roles#finance-full-access). We will use the Finance role as a reference for this article, but the steps detailed below are the same for both roles.
 
 ## How to associate users with the financial access profile
 

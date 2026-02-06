@@ -17,7 +17,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 A [Renner](https://www.lojasrenner.com.br/) é uma marca do segmento fashion, e a [Camicado](https://www.camicado.com.br/) uma empresa do segmento de casa e decoração. Ambas fazem parte da corporação brasileira Lojas Renner S.A., um ecossistema de moda e lifestyle.
 
-Tanto a Renner quanto a Camicado firmaram uma parceria com a VTEX e se tornaram [conectores certificados](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro), também chamados de parceiros. Este artigo orienta como configurar a integração com a Renner ou a Camicado.
+Tanto a Renner quanto a Camicado firmaram uma parceria com a VTEX e se tornaram [conectores certificados](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-certificado-parceiro), também chamados de parceiros. Este artigo orienta como configurar a integração com a Renner ou a Camicado.
 
 > ℹ️ Caso seja do seu interesse integrar sua loja VTEX tanto com a Renner quanto com a Camicado, você deverá realizar uma integração para cada um dos parceiros.
 

@@ -67,7 +67,7 @@ O processo de desenvolvimento de um conector VTEX pode ser dividido em quatro fa
 
 <blockquote><ui>2. **Realização de testes:** o conector é validado por meio de testes pré-definidos que asseguram seu funcionamento adequado. Esta etapa é crucial, pois erros identificados podem impactar o SLA de entrega originalmente previsto.</ui>
 
-<blockquote>> ℹ️ Após a conclusão dos [testes iniciais](/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#4-testes) e o envio do conector para homologação, recomendamos iniciar os [testes de compra](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework#placing-an-order-with-your-new-connector) em ambiente de teste. Essa ação é fundamental para identificar inconsistências que possam interferir no progresso da homologação.</blockquote>
+<blockquote>> ℹ️ Após a conclusão dos [testes iniciais](/pt/docs/tutorials/payment-provider-protocol#4-testes) e o envio do conector para homologação, recomendamos iniciar os [testes de compra](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework#placing-an-order-with-your-new-connector) em ambiente de teste. Essa ação é fundamental para identificar inconsistências que possam interferir no progresso da homologação.</blockquote>
 
 <blockquote><ui>3. **Homologação:** o parceiro desenvolvedor do conector abre uma solicitação, que será tratada pela equipe de Partner Support da VTEX. A partir dessa etapa, inicia-se o processo de validação interna e a publicação do conector no ambiente VTEX.</ui>
 
@@ -201,7 +201,7 @@ Conectores compatíveis com pagamentos via [POS](https://pt.wikipedia.org/wiki/C
 
 #### Suporte ao split de recebíveis
 
-Conectores com funcionalidade de [split de recebíveis](/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx#split-de-recebiveis) permitem dividir automaticamente o valor de uma transação entre diferentes destinatários no momento da autorização ou da captura, dependendo da configuração do provedor. Essa funcionalidade é essencial para marketplaces e operações omnichannel.
+Conectores com funcionalidade de [split de recebíveis](/pt/docs/tutorials/split-de-pagamento#split-de-recebiveis) permitem dividir automaticamente o valor de uma transação entre diferentes destinatários no momento da autorização ou da captura, dependendo da configuração do provedor. Essa funcionalidade é essencial para marketplaces e operações omnichannel.
 
 - __Distribuição automatizada de pagamentos__: o valor da transação é dividido de forma automática, garantindo eficiência e menor risco operacional.
 - __Redução de custos e complexidade__: elimina repasses manuais, reduz custos administrativos e acelera a conciliação financeira.

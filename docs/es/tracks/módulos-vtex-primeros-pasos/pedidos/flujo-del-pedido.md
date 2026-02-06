@@ -72,4 +72,4 @@ Es decir, en este caso, los pasos de pago y entrega son responsabilidad de la ti
 
 > ℹ️ Cada pedido se completa solo en uno de dos estados posibles:<br> <ul> <li>Facturado</li> <li>Cancelado</li> </ul>
 
-> ℹ️ Para comprender el status de cada pedido con más detalle, consulte nuestra tabla con todos los status en [Entendiendo los status](/es/tutorial/fluxo-de-pedido--tutorials_196#entiendo-los-estados).
+> ℹ️ Para comprender el status de cada pedido con más detalle, consulte nuestra tabla con todos los status en [Entendiendo los status](/es/docs/tutorials/flujo-y-status-de-pedidos#entiendo-los-estados).

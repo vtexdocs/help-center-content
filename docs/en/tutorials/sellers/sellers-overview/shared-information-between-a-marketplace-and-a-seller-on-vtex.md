@@ -23,7 +23,7 @@ In order to collaborate, a marketplace hosted on the VTEX platform and a seller,
 - [Connected marketplace and seller](#connected-marketplace-and-seller)
 - [Sharing customer emails](#sharing-customer-emails)
 
-> ℹ️ If you want to start selling your products on other marketplaces, use [Marketplaces and Integrations](/en/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM). This feature allows marketplaces and sellers operating in the VTEX ecosystem to identify and contact each another.
+> ℹ️ If you want to start selling your products on other marketplaces, use [Marketplaces and Integrations](/en/docs/tutorials/marketplaces-and-integrations). This feature allows marketplaces and sellers operating in the VTEX ecosystem to identify and contact each another.
 
 ## Connecting a marketplace and a seller 
 
@@ -50,7 +50,7 @@ In order for a VTEX marketplace to connect to a VTEX seller, it will need access
 - **Seller ID (Account Name):** [account name](/en/docs/tutorials/what-is-an-account-name) is the seller identification code on VTEX.
 - **Admin email:** email of the admin responsible for the seller.
 - **Seller affiliate ID:** three digit identification code which identifies the [affiliate](/en/docs/tutorials/what-is-an-affiliate) created by the seller in their own VTEX Admin.
-- **Description:** text describing the seller with a business tone. You can display this text in the marketplace window display when [customizing the CMS](/en/tutorial/list-of-controls-for-templates--tutorials_563).
+- **Description:** text describing the seller with a business tone. You can display this text in the marketplace window display when [customizing the CMS](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).
 - **Trade policy:** identification code of the [trade policy](/en/docs/tutorials/how-trade-policies-work) the seller wants to use when selling on the marketplace.
 - **Fulfillment SellerId:** identification code of the seller responsible for fulfilling the order. This information is optional, only required when the seller sells SKUs from another seller. It must not be filled in when the seller sells their own SKUs.
 - **Catalog EndPoint:** endpoint URLfor the seller's catalog.
@@ -60,7 +60,7 @@ In order for a VTEX marketplace to connect to a VTEX seller, it will need access
 
 An external seller not hosted on the VTEX environment will have to provide the VTEX marketplace with the following information:
 
-- **Description**: text describing the seller with a business tone. You can display this text in the marketplace window display when [customizing the CMS](/en/tutorial/list-of-controls-for-templates--tutorials_563).
+- **Description**: text describing the seller with a business tone. You can display this text in the marketplace window display when [customizing the CMS](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).
 - **Admin email:** email of the admin responsible for the seller.
 - **Fulfillment EndPoint:** Endpoint URL for the seller's order fulfillment that the marketplace will use to communicate with the seller.
 - **TaxCode:** seller's company registration number (CNPJ in Brazil) or corresponding code for other countries.

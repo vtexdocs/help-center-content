@@ -49,7 +49,7 @@ Para exportar um arquivo `.xlsx` com informações sobre o seu sortimento de pro
 > ℹ️ As informações exportadas correspondem aos campos apresentados na seção [Ver campos da planilha de produtos e SKUs](#ver-campos-da-planilha-de-produtos-e-skus).
 
 1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus) na barra de busca no topo da página.
-2. (Opcional) Caso queira exportar uma seleção de produtos e SKUs, [busque](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#buscar-produtos) ou [filtre](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#filtrar-produtos) os itens desejados. Este passo não é necessário para exportar todos os produtos e/ou SKUs.
+2. (Opcional) Caso queira exportar uma seleção de produtos e SKUs, [busque](/pt/docs/tutorials/produtos-e-skus#buscar-produtos) ou [filtre](/pt/docs/tutorials/produtos-e-skus#filtrar-produtos) os itens desejados. Este passo não é necessário para exportar todos os produtos e/ou SKUs.
 3. No topo da página, clique em `Exportar`.
 
   > ⚠️ O limite de exportação é de 100.000 produtos.
@@ -96,7 +96,7 @@ A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campo
 | :--- | :--- | :--- |
 | ID Produto | Número único identificador do produto. Caso esse campo já esteja preenchido, não é possível alterá-lo. Para adicionar um novo produto, deixe o campo vazio. | 310117603 |
 | Nome Produto* | Nome do produto apresentado para os clientes na experiência de navegação, podendo ter até 150 caracteres. Por questões de [SEO](/pt/docs/tutorials/melhorando-o-seo-das-paginas-de-lista-de-produtos), recomendamos:<ul><li>✅ Usar palavras simples</li><li>❌ Evitar outros idiomas</li><li>❌ Evitar escrita complexa</li></ul> | Corebiz camiseta |
-| Produto ativo | Informa se o [status do produto](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#filtrar-por-status) será ativo ou inativo. Este campo não editável pela planilha, deve ser deixado vazio. | |
+| Produto ativo | Informa se o [status do produto](/pt/docs/tutorials/produtos-e-skus#filtrar-por-status) será ativo ou inativo. Este campo não editável pela planilha, deve ser deixado vazio. | |
 | Descrição | Texto com informações gerais sobre o produto. Este conteúdo é apresentado aos clientes na vitrine da loja, portanto recomendamos criar um resumo de fácil entendimento. | O modelo tem gola redonda e as mangas são curtas. |
 | Descrição adicional | Conteúdo adicional do produto, como informações resumidas. Recomendamos não ultrapassar 150 caracteres, de forma que os mecanismos de busca mostrem o texto completo nas páginas de resultado. | Material 70% reciclado |
 | ID Marca* | Código numérico que identifica a [marca](/pt/docs/tutorials/o-que-e-uma-marca) do produto. Esta informação pode ser encontrada no Admin VTEX, em **Catálogo > Marcas**, ou usando o endpoint [Get brand list](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/brand/list). | 2000003 |

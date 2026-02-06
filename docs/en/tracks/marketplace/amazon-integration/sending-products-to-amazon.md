@@ -19,7 +19,7 @@ Once the initial integration settings have been configured, you must send your p
 
 > ℹ️ All products must have a [Warehouse](/en/docs/tutorials/warehouse) and a [Price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configured before being sent to the marketplace.
 
-To add your store products, you must configure the [EAN field](/en/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) for the products you want to send to Amazon.  
+To add your store products, you must configure the [EAN field](/en/docs/tutorials/adding-or-editing-products) for the products you want to send to Amazon.  
 
 ## EAN
 

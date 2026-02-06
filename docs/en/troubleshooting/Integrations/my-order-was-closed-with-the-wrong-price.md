@@ -28,7 +28,7 @@ There are three possible causes for an order to be closed with the wrong price:
 - [Shipping calculated by the marketplace](#shipping-calculated-by-the-marketplace)
 - [SKU price changed before order integration](#SKU-price-changed-before-order-integration)
 
-> ℹ️ See other marketplace order integration errors [in this article](/en/tutorial/porque-os-pedidos-do-marketplace-nao-integram-com-minha-loja--275YvF8dyry5KmfY9epoET).
+> ℹ️ See other marketplace order integration errors [in this article](/en/troubleshooting/why-dont-marketplace-orders-integrate-with-my-store).
 
 ## Product price assumed by the marketplace
 

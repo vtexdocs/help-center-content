@@ -32,7 +32,7 @@ Follow the instructions below to create and update brands for products available
   - __AdWords remarketing code__: Also known as Google Remarketing Tag, it's the code used in Google Adwords campaigns. Filling out this field with the code will allow you to follow the remarketing metrics linked to that brand.
   - __Lomadee campaign code__: Code used by Buscapé campaigns.
   - __Score (used for sorting the search)__: A value used to set brand priority on the search results page. For more on this field and search result prioritization, read our article on [how the Score field works](/en/docs/tutorials/how-does-the-score-field-work).
-  - __Display on home menu__: When ticking this box, the brand appears in the _Department Menu_ control (<vtex.cmc:departmentNavigator/>). For more on the use of controls and their application for your store pages, read our article on [controls list](/en/tutorial/list-of-controls-for-templates--tutorials_563).
+  - __Display on home menu__: When ticking this box, the brand appears in the _Department Menu_ control (<vtex.cmc:departmentNavigator/>). For more on the use of controls and their application for your store pages, read our article on [controls list](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).
   - __Activate Brand__: When selecting this box, the brand is visible and ready for use with the created products.
 5. Click on `Save`.
 

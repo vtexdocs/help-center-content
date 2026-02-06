@@ -187,7 +187,7 @@ Consulta las responsabilidades que conlleva la actualización o creación de ped
 * Si el status del pedido es Preparando envío o Facturado, por ejemplo, es responsabilidad del **ERP **notificarlo a VTEX.
 * Si el pedido fue cancelado en el marketplace, la responsabilidad recae en el **conector**.
 
-Para más información sobre quién es responsable de cada fase del flujo de pedidos en un escenario de marketplace externo, consulta [Flujo y status de pedidos - Flujo de sellers](/es/tutorial/flujo-y-status-de-pedidos--tutorials_196#flujo-de-seller).
+Para más información sobre quién es responsable de cada fase del flujo de pedidos en un escenario de marketplace externo, consulta [Flujo y status de pedidos - Flujo de sellers](/es/docs/tutorials/flujo-y-status-de-pedidos#flujo-de-seller).
 
 Sigue los pasos que se indican a continuación para identificar al soporte con el que debes ponerte en contacto si hay un problema en la actualización del status del pedido:
 

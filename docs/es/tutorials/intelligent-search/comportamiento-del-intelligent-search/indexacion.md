@@ -23,4 +23,4 @@ En este proceso de sincronía, el sistema forma una fila con la información que
 
 El proceso de indexación es seguro y cuenta con reglas de recuperación: si un ítem no se indexa en el primer intento, el sistema realiza más intentos. La indexación también es muy importante para analizar, tratar y organizar los datos de la mejor manera para que se muestren en los resultados.
 
-Consulta [Historial de indexación](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH) para ver más información sobre cómo monitorear el proceso de indexación.
+Consulta [Historial de indexación](/es/docs/tutorials/historial-de-indexacion) para ver más información sobre cómo monitorear el proceso de indexación.

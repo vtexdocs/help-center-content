@@ -49,19 +49,19 @@ A [contratação de políticas comerciais adicionais](/pt/docs/tutorials/contrat
 
 ### Definir a Estratégia de Envio
 
-Para vender seus produtos no Enjoei é preciso determinar uma Estratégia de Envio, ou seja, informar qual será a logística de entrega dos seus produtos. A Estratégia de Envio é composta de três etapas logísticas: [Política de Envio](/pt/docs/tutorials/politica-de-envio), [Estoque](/pt/tutorial/o-que-e-um-estoque--23kq5gUdY0QOymOu8QSGcA) e [Doca](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj?&utm_source=autocomplete).
+Para vender seus produtos no Enjoei é preciso determinar uma Estratégia de Envio, ou seja, informar qual será a logística de entrega dos seus produtos. A Estratégia de Envio é composta de três etapas logísticas: [Política de Envio](/pt/docs/tutorials/politica-de-envio), [Estoque](/pt/docs/tutorials/estoque) e [Doca](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj?&utm_source=autocomplete).
 
 É por meio da Doca que a Política de envio ([transportadora](/pt/docs/tutorials/transportadoras-na-vtex)) é associada ao Estoque da sua loja. A doca é o ponto intermediário entre a transportadora e o armazenamento da sua loja, e por meio  dela, as condições entre envio e armazenagem são feitas.
 
 Se for do seu interesse utilizar a mesma Estratégia de Envio definida para sua loja VTEX na integração com o Enjoei, não é necessário criar novas configurações de logística. Se, no entanto, você deseja criar uma Estratégia de Envio específica para o marketplace, é necessário realizar os seguintes passos:
 
-1. [Cadastrar Política de envio](/pt/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio), associada à política comercial usada na integração.
+1. [Cadastrar Política de envio](/pt/docs/tutorials/politica-de-envio#cadastrar-uma-politica-de-envio), associada à política comercial usada na integração.
 2. [Cadastrar Doca](/pt/docs/tutorials/gerenciar-doca), associada à política comercial usada na integração.
 3. [Cadastrar Estoque](/pt/docs/tutorials/gerenciar-estoque), associado à Doca criada no passo anterior.
 
 ### Criar permissão para Access key e secret
 
-A chave de integração, chamada de access key, é o que possibilita o fluxo de envio e atualização de informações entre sua loja VTEX e o Enjoei. Somente o [usuário Master da conta (owner)](/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA?&utm_source=autocomplete) tem permissão para criar um [_access key e secret_](/pt/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet), e a opção só é visível no Admin para este usuário.
+A chave de integração, chamada de access key, é o que possibilita o fluxo de envio e atualização de informações entre sua loja VTEX e o Enjoei. Somente o [usuário Master da conta (owner)](/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA?&utm_source=autocomplete) tem permissão para criar um [_access key e secret_](/pt/docs/tutorials/chaves-de-api), e a opção só é visível no Admin para este usuário.
 
 Para configurar uma nova chave, siga os passos abaixo:
 

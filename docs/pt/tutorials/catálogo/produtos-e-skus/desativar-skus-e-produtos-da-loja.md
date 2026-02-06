@@ -29,7 +29,7 @@ Tanto o produto quanto o SKU podem ter status ativo ou inativo, conforme apresen
 
 | **Status do produto ou SKU** | **Descrição** |
 | :---: | :--- |
-| Ativo | O produto ou SKU foi habilitado como ativo, demonstrando que o lojista deseja vendê-lo na frente de loja.A venda do produto ou SKU depende da sua ativação e disponibilidade. Para mais informações sobre a disponibilidade de produto, veja os artigos [Produtos e SKUs](/pt/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#acompanhar-disponibilidade-de-produtos) e [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site). |
+| Ativo | O produto ou SKU foi habilitado como ativo, demonstrando que o lojista deseja vendê-lo na frente de loja.A venda do produto ou SKU depende da sua ativação e disponibilidade. Para mais informações sobre a disponibilidade de produto, veja os artigos [Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus#acompanhar-disponibilidade-de-produtos) e [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site). |
 | Inativo | O produto ou SKU foi desativado, demonstrando que no momento o lojista não deseja apresentá-lo na frente de loja para vendas. |
 
 ## Desativar produto
@@ -37,7 +37,7 @@ Tanto o produto quanto o SKU podem ter status ativo ou inativo, conforme apresen
 Para que o produto adquira status inativo, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite **Produtos e SKUs** na barra de busca no topo da página.
-2. Clique na linha correspondente ao produto desejado. Se desejar, utilize a [barra de busca](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#buscar-produtos).
+2. Clique na linha correspondente ao produto desejado. Se desejar, utilize a [barra de busca](/pt/docs/tutorials/produtos-e-skus#buscar-produtos).
 3. Na página de edição do produto, desabilite o toggle <i class="fas fa-toggle-off" aria-hidden="true"></i> Ativo.
 4. Clique em `Salvar`.
 
@@ -48,7 +48,7 @@ Para que o produto adquira status inativo, siga os passos abaixo:
 Para que o SKU adquira status inativo, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite **Produtos e SKUs** na barra de busca no topo da página.
-2. Clique na seta para baixo ao lado do nome do produto para exibir os SKUs vinculados. Se desejar, utilize a [barra de busca](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#buscar-produtos).
+2. Clique na seta para baixo ao lado do nome do produto para exibir os SKUs vinculados. Se desejar, utilize a [barra de busca](/pt/docs/tutorials/produtos-e-skus#buscar-produtos).
 3. Escolha uma das seguintes formas de desativação:
     * Na linha do SKU, clique no ícone <i class="fas fa-eye" aria-hidden="true"></i> `Desativar` e confirme clicando em `Desativar`. 
     * Ou clique na linha do SKU para acessar sua página de edição, desabilite o toggle <i class="fas fa-toggle-off" aria-hidden="true"></i> **Ativar** e clique em `Salvar.`

@@ -37,7 +37,7 @@ Tras crear una cuenta franquicia, debes [crear un seller](/es/docs/tutorials/agr
 
 ## Configurar un punto de recogida
 
-Tras crear la cuenta franquicia, debes insertar tanto la dirección de la tienda física como un [punto de recogida](/es/docs/tutorials/puntos-de-recogida) disponible. Para ello, sigue las instrucciones en el artículo [Cómo configurar puntos de recogida](/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#como-configurar-pontos-de-retirada).
+Tras crear la cuenta franquicia, debes insertar tanto la dirección de la tienda física como un [punto de recogida](/es/docs/tutorials/puntos-de-recogida) disponible. Para ello, sigue las instrucciones en el artículo [Cómo configurar puntos de recogida](/es/docs/tutorials/puntos-de-recogida#como-configurar-pontos-de-retirada).
 
 Al punto de recogida creado se le asignará un ID que necesitarás al [Crear un almacén](crear-un-almacen). Si pierdes el ID, puedes verlo en la pantalla **Puntos de recogida** del Admin VTEX, en la columna **ID**.
 
@@ -47,7 +47,7 @@ Con el punto de recogida registrado, debes introducir el [almacén](/es/docs/tut
 
 1. En el Admin VTEX, ve a **Envío > Estrategia de envío** > **Almacenes**, o escribe **Estrategia de envío** en la barra de búsqueda de la parte superior de la página.
 2. Haz clic en `+ Crear almacén`.
-3. Rellena los [campos del formulario](/es/tutorial/gerenciar-estoque--tutorials_137#campos-de-cadastro) y selecciona el punto de recogida configurado en el paso anterior.
+3. Rellena los [campos del formulario](/es/docs/tutorials/gestionar-almacenes#campos-de-cadastro) y selecciona el punto de recogida configurado en el paso anterior.
 4. Cambia <i class="fas fa-toggle-on"></i> a `Activo` para vincular el almacén de la tienda física con Sales App.
 5. Haz clic en `Guardar`.
 

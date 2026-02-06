@@ -35,4 +35,4 @@ Essa mudança faz parte das melhorias aplicadas para a certificação do Mercado
 
 A nova interface já está disponível para toda nossa base de clientes que utilizam o conector do Mercado Livre para anunciar seus produtos. Para acessá-la, clique em **MARKETPLACE > Mercado Livre > Promoções**.
 
-Para saber mais sobre como utilizar a nova funcionalidade, leia o artigo [Promoções do Mercado Livre](/pt/tutorial/promocoes-do-mercado-livre-beta--3pEqEnru6H2JcZzYVioT5f).
+Para saber mais sobre como utilizar a nova funcionalidade, leia o artigo [Promoções do Mercado Livre](/pt/docs/tutorials/central-de-promocoes-mercado-livre).

@@ -75,10 +75,10 @@ A VTEX prestará assistência ao lojista em algumas dessas obrigações, tais co
 
 ### Acesso à plataforma
 
-O lojista desempenha um papel crucial na segurança dos dados, pois suas decisões têm um impacto direto na proteção das informações. Por exemplo, ao conceder acesso à plataforma a determinados usuários ou equipes, ou compartilhar [chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) (appKeys), o lojista influencia a segurança dos dados armazenados nesse ambiente.
+O lojista desempenha um papel crucial na segurança dos dados, pois suas decisões têm um impacto direto na proteção das informações. Por exemplo, ao conceder acesso à plataforma a determinados usuários ou equipes, ou compartilhar [chaves de aplicação](/pt/docs/tutorials/chaves-de-api) (appKeys), o lojista influencia a segurança dos dados armazenados nesse ambiente.
 
 Para entender como gerenciar adequadamente credenciais de acesso e garantir a integridade dos dados, consulte os artigos a seguir:
 
 * [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso)
 * [Recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager)
-* [Chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet)
+* [Chaves de aplicação](/pt/docs/tutorials/chaves-de-api)

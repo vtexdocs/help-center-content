@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
-A veces se producen errores de integración de _stock_ en los _marketplaces_ para los que VTEX ha desarrollado un [conector nativo](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex). Este artículo reúne los errores más frecuentes de integración de _stock_ con Mercado Libre y explica cómo resolverlos.
+A veces se producen errores de integración de _stock_ en los _marketplaces_ para los que VTEX ha desarrollado un [conector nativo](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-conector-nativo-vtex). Este artículo reúne los errores más frecuentes de integración de _stock_ con Mercado Libre y explica cómo resolverlos.
 
 Hay mensajes que identifican cuáles son los errores. Puedes verlos en el Admin VTEX, en **MARKETPLACE > Conexiones > Stock**, haciendo clic en el mensaje de proceso con error.
 
@@ -39,7 +39,7 @@ ___
 
 **Mensaje traducido:** Mensaje de error no mapeado por la integración. Ponte en contacto con VTEX informando de lo sucedido para que se pueda realizar el mapeo. Mensaje en Mercado Libre: ProductId no encontrado.
 
-Para que un ítem se integre a Mercado Libre, al [rellenar los campos de registro de este producto](/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) es necesario que las opciones **Mostrar en la tienda** y **Mostrar producto agotado** estén activadas. De lo contrario, los SKU de este producto no se integrarán a Mercado Libre.
+Para que un ítem se integre a Mercado Libre, al [rellenar los campos de registro de este producto](/es/docs/tutorials/agregar-o-editar-productos) es necesario que las opciones **Mostrar en la tienda** y **Mostrar producto agotado** estén activadas. De lo contrario, los SKU de este producto no se integrarán a Mercado Libre.
 
 ____
 
@@ -93,7 +93,7 @@ ____
 
 **Mensaje traducido:** Los atributos GTIN son obligatorios para la categoría. Verifica si el atributo está presente en la lista de atributos o en todas las variaciones attributes_combination o attributes.
 
-También llamado EAN en VTEX, el GTIN es el código de identificación único de un SKU. Se trata del código de barras [rellenado en el registro de SKU](/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY), y el mensaje indica que el GTIN es obligatorio para la categoría a la que pertenece el SKU. Si el código se ha rellenado incorrectamente o no es válido, el SKU no se integrará a Mercado Libre. Proporcionar el GTIN correcto de un producto es responsabilidad de los proveedores y fabricantes. VTEX no genera códigos de barras para suplir este escenario.
+También llamado EAN en VTEX, el GTIN es el código de identificación único de un SKU. Se trata del código de barras [rellenado en el registro de SKU](/es/docs/tutorials/agregar-o-editar-skus), y el mensaje indica que el GTIN es obligatorio para la categoría a la que pertenece el SKU. Si el código se ha rellenado incorrectamente o no es válido, el SKU no se integrará a Mercado Libre. Proporcionar el GTIN correcto de un producto es responsabilidad de los proveedores y fabricantes. VTEX no genera códigos de barras para suplir este escenario.
 
 ____
 

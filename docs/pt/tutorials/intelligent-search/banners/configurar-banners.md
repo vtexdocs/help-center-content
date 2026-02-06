@@ -25,7 +25,7 @@ Para configurar um banner, siga os seguintes passos:
 
 Depois de realizar as configurações do banner, você deve adicioná-lo a uma página da sua loja. Para isso, siga os passos do guia [Banner](https://developers.vtex.com/vtex-developer-docs/docs/vtex-search-banner).
 
-> ℹ️ Essa funcionalidade está disponível no VTEX Intelligent Search Multi-idioma. Leia o nosso artigo [VTEX Intelligent Search: configurações Multi-idioma (Beta)](/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO#banners) para saber mais.
+> ℹ️ Essa funcionalidade está disponível no VTEX Intelligent Search Multi-idioma. Leia o nosso artigo [VTEX Intelligent Search: configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta#banners) para saber mais.
 
 ![banner-form-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/banners/configurar-banners_1.png)
 

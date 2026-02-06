@@ -24,7 +24,7 @@ This article explains how an order can be modified and how to do so. It comprise
 - [Common aspects](#common-aspects)
 - [Processing errors](#processing-errors)
 
-> ⚠️ To learn about the [general characteristics](/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#general-characteristics) of order modifications scenarios, including aspects like reservation, inventory update, and franchise accounts, or to understand details related to [pricing, payment, and invoicing](/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#price-changes), read the [How Order modifications works](/en/docs/tutorials/how-order-modification-works) article.
+> ⚠️ To learn about the [general characteristics](/en/docs/tutorials/how-order-modification-works#general-characteristics) of order modifications scenarios, including aspects like reservation, inventory update, and franchise accounts, or to understand details related to [pricing, payment, and invoicing](/en/docs/tutorials/how-order-modification-works#price-changes), read the [How Order modifications works](/en/docs/tutorials/how-order-modification-works) article.
 
 ## Conditions
 

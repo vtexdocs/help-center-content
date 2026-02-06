@@ -19,7 +19,7 @@ The **Find Sellers** page enables contact with sellers operating in the VTEXecos
 
 To leverage the page,you need to create a **Store Profile**. Learn how by reading the documentation.
 
-> ℹ️ Note that **Find Sellers** is a tool that fosters contact between potential partners,but it is not a mandatory step to be a marketplace and seller on VTEX. If you want to be both,a marketplace and seller,please read the [Marketplace Strategies at VTEX](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#atuar-como-marketplace) documentation.  
+> ℹ️ Note that **Find Sellers** is a tool that fosters contact between potential partners,but it is not a mandatory step to be a marketplace and seller on VTEX. If you want to be both,a marketplace and seller,please read the [Marketplace Strategies at VTEX](/en/docs/tutorials/marketplace-strategies-at-vtex#atuar-como-marketplace) documentation.  
 
 To access the list of sellers, go to **Marketplace > Find Sellers** or type **Find Sellers** in the search bar.
 

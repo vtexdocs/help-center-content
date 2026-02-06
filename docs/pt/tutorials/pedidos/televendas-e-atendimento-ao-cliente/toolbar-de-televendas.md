@@ -50,14 +50,14 @@ Ao clicar no nome do cliente, o operador pode visualizar as informações abaixo
 *   **Email**: email cadastrado pelo cliente na loja.
 *   **Documento**: número do documento cadastrado pelo cliente.
 *   **Telefone**: número de telefone cadastrado pelo cliente. 
-*   **Pedidos**: botão para abrir a [página Pedidos](/pt/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#pedidos), onde é possível gerir os pedidos realizados pelo cliente.
+*   **Pedidos**: botão para abrir a [página Pedidos](/pt/docs/tutorials/como-funciona-a-minha-conta#pedidos), onde é possível gerir os pedidos realizados pelo cliente.
 *   **Sair**: botão para encerrar a sessão do cliente.
 
 ## Artigos relacionados
 
-* [Perfis de acesso predefinidos - Call center operator](/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#call-center-operator)
+* [Perfis de acesso predefinidos - Call center operator](/pt/docs/tutorials/perfis-de-acesso-predefinidos#call-center-operator)
 * [Como criar um usuário televendas](/pt/docs/tutorials/como-criar-um-usuario-de-televendas)
 * [Customizar a Toolbar de televendas](/pt/docs/tutorials/customizar-a-toolbar-de-televendas)
-* [Pedidos](/pt/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#pedidos)
+* [Pedidos](/pt/docs/tutorials/como-funciona-a-minha-conta#pedidos)
 * [Como utilizar as funcionalidades de televendas](/pt/docs/tutorials/funcionalidades-de-televendas)
 * [Como configurar as funcionalidades de televendas](/pt/docs/tutorials/como-configurar-as-funcionalidades-de-televendas)

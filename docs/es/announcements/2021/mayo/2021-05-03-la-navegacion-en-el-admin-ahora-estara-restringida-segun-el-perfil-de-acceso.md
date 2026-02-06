@@ -21,7 +21,7 @@ Los [perfiles de acceso](/es/docs/tutorials/roles) permiten a las tiendas conced
 
 ## ¿Qué cambió?
 
-Antes, los usuarios podían ver los ítems del menú de la barra lateral del Admin, incluso las secciones a las que no tenían acceso. Por ejemplo, un usuario con el [perfil Call center operator](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#call-center-operator) no tiene acceso a «Master Data», pero la opción estaría visible en el menú de la barra lateral.
+Antes, los usuarios podían ver los ítems del menú de la barra lateral del Admin, incluso las secciones a las que no tenían acceso. Por ejemplo, un usuario con el [perfil Call center operator](/es/docs/tutorials/roles#call-center-operator) no tiene acceso a «Master Data», pero la opción estaría visible en el menú de la barra lateral.
 
 Ahora, los usuarios sólo verán los ítems del menú de la barra lateral a los que tengan acceso, según su perfil. En el ejemplo anterior, el usuario con el perfil de acceso «Call center operator» ya no verá «Master Data» en el menú de la barra lateral. 
 
@@ -37,4 +37,4 @@ El objetivo de esta modificación de mantenimiento es limitar la visualización 
 
 No necesita tomar ninguna acción. Todos los usuarios automáticamente verán solo los ítems del menú de la barra lateral a los que tengan acceso.
 
-Si un usuario de su cuenta deja de ver algún ítem del menú de la barra lateral que debiera poder ver, revise los permisos del usuario. Puede saber más sobre [perfiles de acceso](/es/docs/tutorials/roles) y [cómo crear un perfil de acceso](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#creando-un-perfil-de-acceso) en los artículos de nuestro Centro de Ayuda.
+Si un usuario de su cuenta deja de ver algún ítem del menú de la barra lateral que debiera poder ver, revise los permisos del usuario. Puede saber más sobre [perfiles de acceso](/es/docs/tutorials/roles) y [cómo crear un perfil de acceso](/es/docs/tutorials/roles#creando-un-perfil-de-acceso) en los artículos de nuestro Centro de Ayuda.

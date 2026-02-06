@@ -32,7 +32,7 @@ En la sección Configuración de pedidos puedes configurar los ajustes generales
 
 - [Configuración](/es/subcategory/orders-management-settings--1qvm3kIrt6KA6IeGc4EQ6k#)  
 - [Autorización de pedidos](/es/tutorial/how-order-authorization-works--3MBK6CmKHAuUjMBieDU0pn#)  
-- [Pago de suscripciones](/es/tutorial/how-to-configure-subscriptions--1FA9dfE7vJqxBna9Nft5Sj#2-configure-payment-methods)  
+- [Pago de suscripciones](/es/docs/tutorials/como-configurar-suscripciones#2-configure-payment-methods)  
 
 ## Plantillas de email
 La sección Plantillas de email es donde se personalizan las plantillas y se definen los remitentes de los emails enviados a los clientes. Esta sección incluye las siguientes páginas, que pronto se incluirán en el diseño del Admin v4:
@@ -72,11 +72,11 @@ La sección Canales incluye la página Canales de ventas, donde puedes configura
 ## Intelligent Search
 La sección Intelligent Search es donde realizas la configuración general de la búsqueda inteligente y sus integraciones. Esta sección incluye las siguientes páginas, que pronto se incluirán en el diseño del Admin v4:
 
-- [Explicación de la Búsqueda](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4uSFqyJVCMVMIvVrtz3lxZ)
-- [Reglas de Merchandising](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8)
-- [Sinónimos](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL)
-- [Status de Indexación](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH)
+- [Explicación de la Búsqueda](/es/docs/tutorials/explicacion-de-busqueda)
+- [Reglas de Merchandising](/es/docs/tutorials/crear-regla-de-merchandising-editor-manual)
+- [Sinónimos](/es/docs/tutorials/crear-sinonimos)
+- [Status de Indexación](/es/docs/tutorials/historial-de-indexacion)
 - [Reglas de Relevance](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3nVgV8UuUJYXwV0o2tgZ9g)
-- [Analytics](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m)
-- [Redireccionamientos](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4Gd2wLQFbCwTsh8RUDwSoL)
+- [Analytics](/es/docs/tutorials/analytics)
+- [Redireccionamientos](/es/docs/tutorials/configurar-redirecciones)
 

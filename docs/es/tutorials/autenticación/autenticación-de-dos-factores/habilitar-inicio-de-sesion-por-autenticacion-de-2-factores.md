@@ -23,7 +23,7 @@ Esta clave se genera cuando inicias sesión y tiene un corto período de validez
 
 > ❗ La autenticación de dos factores es **obligatoria** en el Admin VTEX.<br><br>Sin esta verificación, no es posible iniciar sesión utilizando email y contraseña.<br><br> La 2FA no es obligatoria para otros métodos de inicio de sesión (Google, Facebook o código de acceso).
 
-> ℹ️ En algunas empresas, los operadores de televentas no pueden utilizar teléfonos celulares. Por lo tanto, los usuarios que tienen únicamente el [rol de televentas (call center operator)](/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#call-center-operator) no están obligados a activar la autenticación de dos factores.
+> ℹ️ En algunas empresas, los operadores de televentas no pueden utilizar teléfonos celulares. Por lo tanto, los usuarios que tienen únicamente el [rol de televentas (call center operator)](/es/docs/tutorials/roles-de-usuario-predefinidos#call-center-operator) no están obligados a activar la autenticación de dos factores.
 
 ## Activar 2FA
 

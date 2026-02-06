@@ -37,6 +37,6 @@ El Multilevel Omnichannel Inventory fue lanzado trayendo un nuevo aliado para op
 - Nueva ruta para el progreso del pedido tras la aprobación del marketplace (Marketplace Order Authorization).
 - El Marketplace necesita soportar la nueva ruta para ser notificado de una cancelación del seller (o del agente intermediario) y para recibir la factura del seller (o del agente intermediario).
 
-Para obtener más información acerca del Multilevel Omnichannel Inventory y los cambios en las APIs del Checkout, acceda a [este artículo del Help](/es/business-guides/ofrezca-los-productos-de-sus-tiendas-fisicas-en-marketplaces-externos--6s64bV8Dqb5QN6sqIfPzcA).
+Para obtener más información acerca del Multilevel Omnichannel Inventory y los cambios en las APIs del Checkout, acceda a [este artículo del Help](/es/docs/tutorials/multilevel-omnichannel-inventory).
 
 > ❗ <body> <li>El término Marketplace Recursivo fue sustituido por **Multilevel Omnichannel Inventory.**</li> <li>Esta funcionalidad no permite [cambiar de seller.](/es/docs/tutorials/change-seller)</li> <li>Esta solución se destina a la integración con marketplaces externos, no con marketplaces que ya tienen una [integración nativa VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex).</li> <li>Lee el artículo [Multilevel Omnichannel Inventory](/es/docs/tutorials/multilevel-omnichannel-inventory) para conocer en detalle las restricciones de uso.</li> </body>

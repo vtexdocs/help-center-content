@@ -90,7 +90,7 @@ To allow customers to make recurring purchases of their favorite products at the
 [VTEX Social Selling](/en/docs/tutorials/how-to-activate-the-shareable-cart-app) allows sales associates to select products and share them with customers via communication channels such as WhatsApp, Facebook Messenger, and email. This feature can be used in online and physical store operations ([VTEX Sales App](/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm#vtex-sales-app)).
 
 ## B2B Suite
-[B2B Suite](/en/tutorial/b2b-suite-overview--5eG6UfveWrai7looK0kVG3#b2b-suite-apps) is a collection of [VTEX IO apps](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-io) that helps stores manage organizations, permissions, and checkout settings in B2B scenarios, among other benefits. This is very important for streamlining the purchase flow, reducing costs, and providing a personalized shopping experience.
+[B2B Suite](/en/docs/tutorials/b2b-suite-overview#b2b-suite-apps) is a collection of [VTEX IO apps](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-io) that helps stores manage organizations, permissions, and checkout settings in B2B scenarios, among other benefits. This is very important for streamlining the purchase flow, reducing costs, and providing a personalized shopping experience.
 
 ### B2B Suite apps
 B2B Suite apps were developed to drive B2B operations. The main apps are described below.
@@ -103,4 +103,4 @@ B2B Suite apps were developed to drive B2B operations. The main apps are describ
 - **B2B Orders History:** allows B2B users to view all previous orders placed by their organization or cost center.
 - **B2B Admin Customers:** manages information and relationships with B2B customers.
 
-For more information about the applications, access [B2B Suite Application Set](/en/tutorial/b2b-suite-overview--5eG6UfveWrai7looK0kVG3#b2b-suite-apps).
+For more information about the applications, access [B2B Suite Application Set](/en/docs/tutorials/b2b-suite-overview#b2b-suite-apps).

@@ -33,7 +33,7 @@ Este comportamiento puede ocurrir debido a los siguientes escenarios:
 
 1. Registro incorrecto del producto en el catálogo.
 
-2. El término utilizado no está presente en uno de los campos buscables del producto. Más información en [Configuración del comportamiento de la búsqueda](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/23mytRDsEduqLO0Lo7yufy#configuracion-del-comportamiento-de-la-busqueda) y [Configuración de la búsqueda](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx).
+2. El término utilizado no está presente en uno de los campos buscables del producto. Más información en [Configuración del comportamiento de la búsqueda](/es/docs/tutorials/comportamiento-de-busqueda#configuracion-del-comportamiento-de-la-busqueda) y [Configuración de la búsqueda](/es/docs/tutorials/configuracion-de-la-busqueda).
 
 3. Rota interna redirecionando o resultado da pesquisa para uma página de marca (brand).
 
@@ -47,7 +47,7 @@ Para que los productos buscados se muestren correctamente en los resultados de b
 
 ### Verificar campos de registro del producto
 
-La ausencia del producto en un resultado de búsqueda puede atribuirse a que algunos campos se rellenaron incorrectamente durante el proceso de [registro del producto](/es/tutorial/campos-de-registro-de-producto--4dYXWIK3zyS8IceKkQseke). Sigue los pasos a continuación para comprobar los campos __Marca__, __Mostrar en el sitio web__ y __Mostrar cuando no tenga stock__:
+La ausencia del producto en un resultado de búsqueda puede atribuirse a que algunos campos se rellenaron incorrectamente durante el proceso de [registro del producto](/es/docs/tutorials/agregar-o-editar-productos). Sigue los pasos a continuación para comprobar los campos __Marca__, __Mostrar en el sitio web__ y __Mostrar cuando no tenga stock__:
 
 1. En el Admin VTEX, accede a **Catálogo > Todos los productos**.
 
@@ -71,7 +71,7 @@ La ausencia del producto en un resultado de búsqueda puede atribuirse a que alg
 
 Otro factor que puede contribuir a que un producto no se muestre en un resultado de búsqueda es el comportamiento predeterminado que la aplicación [Rewriter](https://developers.vtex.com/docs/apps/vtex.rewriter) presenta al mostrar productos.
 
-Si un término está registrado en Rewriter como marca, [Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4uSFqyJVCMVMIvVrtz3lxZ) recibirá la información de que dicho término solo debe mostrarse cuando esté asociado a una marca específica.
+Si un término está registrado en Rewriter como marca, [Intelligent Search](/es/docs/tutorials/explicacion-de-busqueda) recibirá la información de que dicho término solo debe mostrarse cuando esté asociado a una marca específica.
 
 Para remover la restricción de búsqueda por marca (brand) y permitir que los productos también se muestren en los resultados de la búsqueda si contienen términos presentes en el nombre o la descripción (full text), sigue los pasos que se indican a continuación:
 

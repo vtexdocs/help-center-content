@@ -44,7 +44,7 @@ As audiências de campanhas são apresentadas em _cards_ com as seguintes inform
 * **Status:** estado atual de disponibilidade da audiência de campanha.
     * **Ativa:** a audiência de campanha está disponível para uso nas promoções de campanha da sua loja, ou seja, não está arquivada.
     * **Inativa:** a audiência de campanha não está disponível para uso em promoções de campanha na sua loja. Esse status não é definitivo – é possível reativar a audiência de campanha a qualquer momento.
-* **Público-alvo:** nome do [público-alvo](/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m#publico-alvo) associado à audiência de campanha.
+* **Público-alvo:** nome do [público-alvo](/pt/docs/tutorials/audiencias-de-campanhas#publico-alvo) associado à audiência de campanha.
 
 Para visualizar as Audiências de campanhas que estão [arquivadas](#arquivar-audiencia-de-campanha), na opção **Exibir**, clique em **Arquivados**, conforme ilustrado a seguir:
 

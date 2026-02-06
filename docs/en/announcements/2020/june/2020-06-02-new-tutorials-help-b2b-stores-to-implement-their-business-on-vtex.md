@@ -21,12 +21,11 @@ In B2B, shopping carts are often larger, with higher values and more complex tax
 
 VTEX is a platform increasingly prepared to meet scenarios like these. And, to help our stores to navigate more easily through the configurations that meet these scenarios, we prepared a series of articles with documentation focused on the B2B model.
 
-- [How to add customized information to the order and manipulate it](/en/tutorial/como-adicionar-e-manipular-informacoes-customizadas-no-pedido--7tDi1jQQ51ufARcRm8NUnC)
-- [How to add a second address to the order for invoicing purposes](/en/tutorial/como-adicionar-um-segundo-endereco-ao-pedido-destinado-a-faturacao--6Mow9ibQPDOcEggNnujuA)
+- [How to add customized information to the order and manipulate it](https://developers.vtex.com/vtex-rest-api/docs/how-to-add-and-handle-custom-information-in-the-order)
+- [How to add a second address to the order for invoicing purposes](https://developers.vtex.com/vtex-rest-api/docs/adding-a-second-address-to-the-order)
 - [How to structure Master Data entities to store B2B sales data](/en/docs/tutorials/how-to-structure-master-data-entities-to-store-b2b-sales-data)
 - [Credit management through Customer Credit](/en/docs/tutorials/managing-credit-with-customer-credit)
-- [How to add a telesales impersonated email using the Session Manager
-](/en/tutorial/como-adicionar-e-mail-de-televendas-personificado-via-session-manager--4tT90hWRChUy84UClF8pC)
+- [How to add a telesales impersonated email using the Session Manager](https://developers.vtex.com/vtex-rest-api/docs/adding-telesales-impersonated-email-using-the-session-manager)
 - [Inserting taxes in the cart](/en/docs/tutorials/inserting-taxes-in-the-cart)
 - [The most common promotions in B2B](/en/docs/tutorials/the-most-common-promotions-in-b2b)
 - [How to configure minimum order value and maximum quantity of items per SKU](/en/docs/tutorials/how-to-configure-minimum-order-value-and-maximum-quantity-of-items-per-sku)

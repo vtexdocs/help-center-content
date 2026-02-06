@@ -45,7 +45,7 @@ Para integrar a sua loja VTEX com o KaBuM!, é necessário realizar as seguintes
 
 A [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) é o que determina o sortimento de produtos, preços e estratégia de envio da sua loja VTEX em um canal de venda. Se você deseja que as mesmas configurações da sua loja sejam utilizadas para seus produtos no KaBuM!, não é necessário [criar uma política comercial nova](/pt/docs/tutorials/criar-uma-politica-comercial), pois uma mesma política comercial pode ser usada para diferentes canais de venda.
 
-Caso seja do seu interesse ter configurações específicas para vender no KaBuM!, você pode [configurar uma política comercial para marketplace](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace). Não existe cobrança para a contratação de políticas comerciais adicionais para integrar sua loja VTEX com [conectores nativos ou conectores certificados](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex).
+Caso seja do seu interesse ter configurações específicas para vender no KaBuM!, você pode [configurar uma política comercial para marketplace](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace). Não existe cobrança para a contratação de políticas comerciais adicionais para integrar sua loja VTEX com [conectores nativos ou conectores certificados](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-nativo-vtex).
 
 ### Criar nova chave de acesso e segredo
 

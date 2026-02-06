@@ -72,4 +72,4 @@ That is, in this case both payment and delivery steps are the store's responsibi
 
 > ℹ️ There are only two possible final statuses for every order:<br> <ul> <li>Invoiced</li> <li>Canceled</li> </ul>
 
-> ℹ️ To understand each order status in more detail, see a table with all statuses at [Understanding the Status](/en/tutorial/fluxo-de-pedido--tutorials_196#understanding-the-status).
+> ℹ️ To understand each order status in more detail, see a table with all statuses at [Understanding the Status](/en/docs/tutorials/order-flow-and-status#understanding-the-status).

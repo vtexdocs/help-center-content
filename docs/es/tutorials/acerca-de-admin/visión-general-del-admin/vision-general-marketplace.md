@@ -26,7 +26,7 @@ A continuación, encontrarás más detalles sobre las diferentes secciones y pá
 
 ## Sellers
 
-La arquitectura de VTEX permite a las tiendas alojadas en tu plataforma anunciar productos de otras tiendas, sean o no tiendas VTEX. Cuando una tienda VTEX comienza a vender productos de _sellers_, se convierte en un _[marketplace VTEX](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#atuar-como-marketplace)_. La sección _Sellers _del Admin v4 reúne las funcionalidades necesarias para que esto ocurra.
+La arquitectura de VTEX permite a las tiendas alojadas en tu plataforma anunciar productos de otras tiendas, sean o no tiendas VTEX. Cuando una tienda VTEX comienza a vender productos de _sellers_, se convierte en un _[marketplace VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#atuar-como-marketplace)_. La sección _Sellers _del Admin v4 reúne las funcionalidades necesarias para que esto ocurra.
 
 Esta sección incluye las siguientes páginas, que pronto se incluirán en el diseño del Admin v4:
 
@@ -37,7 +37,7 @@ Esta sección incluye las siguientes páginas, que pronto se incluirán en el di
 
 ## Conexiones 
 
-Esta sección incluye las integraciones que tu tienda realiza con _marketplaces_ externos a VTEX. Allí puedes configurar las integraciones con [conectores nativos](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex) y gestionar los detalles de las ventas en estos canales externos. 
+Esta sección incluye las integraciones que tu tienda realiza con _marketplaces_ externos a VTEX. Allí puedes configurar las integraciones con [conectores nativos](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-a-conector-nativo-vtex) y gestionar los detalles de las ventas en estos canales externos. 
 
 La sección incluye las siguientes páginas, que pronto se incluirán en el diseño del Admin v4:
 
@@ -50,7 +50,7 @@ La sección incluye las siguientes páginas, que pronto se incluirán en el dise
 
 ## Marketplace Network
 
-El [Marketplace Network](/es/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM) facilita el encuentro y la comunicación entre _marketplaces_ y _sellers_ que operan en el ecosistema VTEX, abriendo la posibilidad de nuevos negocios y de crecimiento mutuo para todos los implicados. La página funciona como un catálogo de _partners_ interesados, y permite el registro, la consulta y el contacto entre _marketplaces_ y _sellers_ para que firmen acuerdos comerciales.
+El [Marketplace Network](/es/docs/tutorials/marketplaces-e-integraciones) facilita el encuentro y la comunicación entre _marketplaces_ y _sellers_ que operan en el ecosistema VTEX, abriendo la posibilidad de nuevos negocios y de crecimiento mutuo para todos los implicados. La página funciona como un catálogo de _partners_ interesados, y permite el registro, la consulta y el contacto entre _marketplaces_ y _sellers_ para que firmen acuerdos comerciales.
 
 La sección incluye las siguientes páginas, que pronto se incluirán en el diseño del Admin v4:
 

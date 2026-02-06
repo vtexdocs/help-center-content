@@ -74,7 +74,7 @@ To manage the files of your Web Site, you may access this directory. In it, you 
 - [Layout](/en/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW)
 - [Settings](/en/subcategory/cms-settings--6kovkwzMRyeOOc2iEC4suM)
 - [Layout folder structure](/en/tutorial/cms-folder-structure--2RdMaJSv4AK4EyscmQuocu?&utm_source=autocomplete)
-- [List of template controls](/en/tutorial/list-of-controls-for-templates--tutorials_563)
+- [List of template controls](https://developers.vtex.com/docs/guides/list-of-controls-for-templates)
 - [What are templates?](/en/tutorial/o-que-sao-templates--4l7BQBYO9ycumsqua2CU88?&utm_source=autocomplete)
 - [What is a website?](/en/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
 - [What are controls?](/en/tutorial/o-que-sao-controles--6e2qsk9zu8IQuyEysKweag?&utm_source=autocomplete)

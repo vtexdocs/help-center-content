@@ -62,4 +62,4 @@ To use this feature, the store's developers must first enable manual pricing usi
 
 Prices changed manually in the shopping cart need to be approved by the store administrator or an authorized user in the [Orders authorization](/en/docs/tutorials/how-order-authorization-works) system. Only after that can you proceed to the billing process.
 
-> ℹ️ It is not possible to change prices by accessing the store through its final URL (*www.storedomain.com.br*). The manual price functionality in telesales only works if the operator accesses the store through the *www.storedomain.myvtex.com* domain and has the [Call Center operator](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#call-center-operator) in their [Access profile](/en/docs/tutorials/roles).
+> ℹ️ It is not possible to change prices by accessing the store through its final URL (*www.storedomain.com.br*). The manual price functionality in telesales only works if the operator accesses the store through the *www.storedomain.myvtex.com* domain and has the [Call Center operator](/en/docs/tutorials/predefined-roles#call-center-operator) in their [Access profile](/en/docs/tutorials/roles).

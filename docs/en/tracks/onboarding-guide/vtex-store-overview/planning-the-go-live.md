@@ -71,7 +71,7 @@ Once the store's internal settings have been completed, you'll need to configure
 2. [Configure CAA records](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7wFsbWgN4rnZsbjhv8IItX#configuring-caa-records): Indicate that the **Let's Encrypt** certificate authority (CA) is authorized to generate and renew certificates attesting to the domain's identity. This step is only necessary if there is a CAA record on the DNS server.
 3. [Put your account in production](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7wFsbWgN4rnZsbjhv8IItX#putting-your-account-into-production): Activate the VTEX account in production. Even after this activation, the store remains unavailable for access by external customers. Viewing and purchasing products in the store will only be possible after the go-live has been completed, according to the steps described in the following sections of this article.
 
-> ⚠️ Once the account is active in production, all orders will be automatically charged, and the [take rate](/en/tutorial/understanding-the-value-of-approved-revenues--tutorials_4322#understanding-the-values-of-approved-revenues) will be applied based on the plan agreed upon with VTEX. This includes orders placed on the `{accountname}.myvtex.com` domain, even if they were placed for testing purposes.
+> ⚠️ Once the account is active in production, all orders will be automatically charged, and the [take rate](/en/docs/tutorials/understanding-the-value-of-approved-revenues#understanding-the-values-of-approved-revenues) will be applied based on the plan agreed upon with VTEX. This includes orders placed on the `{accountname}.myvtex.com` domain, even if they were placed for testing purposes.
 
 For more information, see the [Settings](/en/docs/tracks/settings) article, which is part of the detailed [Go-live](/en/docs/tracks/go-live-process) track article.
 
@@ -81,7 +81,7 @@ We recommend running tests before the go-live to check the store's behavior and 
 
 On VTEX, you can create separate environments to run these tests. In this case, you need to replicate the settings of the main environment that will be tested. For example, to test how a promotion works, you must configure all the necessary settings to simulate a scenario in which it would be applied, including products, prices, logistics, checkout, payment methods, etc.
 
-To plan the testing step, contact [our support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy) team, so you can [request a test environment](/en/tutorial/requesting-a-test-environment--2nmZAHlfQoGsCWmEWGIoGy).
+To plan the testing step, contact [our support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy) team, so you can [request a test environment](/en/docs/tutorials/requesting-a-new-environment).
 
 > ⚠️ If the store is[ built using VTEX IO](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#development-environment), you can run A/B tests between workspaces, i.e., compare the performance of storefront development environments. For more details, see the[ Running A/B tests](https://developers.vtex.com/docs/guides/vtex-io-documentation-running-native-ab-testing) developer guide.
 

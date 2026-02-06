@@ -23,7 +23,7 @@ Since this key is generated at login and expires quickly, it is almost impossibl
 
 > ❗ Two-factor authentication (2FA) is **mandatory** in the VTEX Admin.<br><br>Without 2FA, you won't be able to log in using your email and password.<br><br>2FA is not mandatory for other login methods (Google, Facebook, or access code).
 
-> ℹ️ In some companies, call center operators are not allowed to use mobile phones. Therefore, users who only have the [call center role](/en/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#call-center-operator) are not required to enable two-factor authentication.
+> ℹ️ In some companies, call center operators are not allowed to use mobile phones. Therefore, users who only have the [call center role](/en/docs/tutorials/predefined-roles#call-center-operator) are not required to enable two-factor authentication.
 
 ## Enabling 2FA
 

@@ -19,7 +19,7 @@ VTEX DO es un gestor de tareas creadas automáticamente por el Admin VTEX para q
 
 ![VTEX Do overview ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/visión-de-conjunto-de-pedidos/vtex-do-interface_1.gif)
 
-> ℹ️ Solo los usuarios con el perfil de acceso [OMS - Full Access](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access) pueden realizar tareas a través de VTEX DO.
+> ℹ️ Solo los usuarios con el perfil de acceso [OMS - Full Access](/es/docs/tutorials/roles#oms-full-access) pueden realizar tareas a través de VTEX DO.
 
 Las tareas aparecen en dos pestañas:
 - **Todas:** todas las tareas vinculadas a los pedidos de la cuenta de la tienda.

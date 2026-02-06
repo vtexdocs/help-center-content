@@ -36,7 +36,7 @@ A integração das funcionalidades do VTEX Pick and Pack com os pedidos da loja 
 
 1. No Admin VTEX, acesse **Envio > Pick and Pack > Configurações** ou digite **Configurações** na barra de busca no topo da página.
 2. Clique em `Geral` na aba **Pedidos**.
-3. Preencha os [filtros](/pt/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9#pedidos) da página **Geral**.
+3. Preencha os [filtros](/pt/docs/tutorials/vtex-pick-and-pack-configuracoes#pedidos) da página **Geral**.
 4. Clique em `Salvar`.
 
 ## Os separadores irão lidar com um pedido por vez ou com vários pedidos simultaneamente?
@@ -58,7 +58,7 @@ O separador pode adicionar, substituir e rejeitar itens no pedido, além de pode
 
 1. No Admin VTEX, acesse **Envio > Pick and Pack > Configurações** ou digite **Configurações** na barra de busca no topo da página.
 2. Clique em `Separação` na aba **Ordens de Serviço**.
-3. Na aba **[Separação](/pt/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9#separacao)**, selecione as ações que o separador poderá executar:
+3. Na aba **[Separação](/pt/docs/tutorials/vtex-pick-and-pack-configuracoes#separacao)**, selecione as ações que o separador poderá executar:
    * Permitir observações nos itens
    * Solicitar confirmação para separar itens
    * Permitir adicionar itens
@@ -74,7 +74,7 @@ A aprovação de um administrador não é obrigatória durante a alteração de 
 
 1. No Admin VTEX, acesse **Envio > Pick and Pack > Configurações** ou digite **Configurações** na barra de busca no topo da página.
 2. Clique em `Separação` na aba **Ordens de Serviço**.
-3. Na aba **[Separação](/pt/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9#separacao)**, habilite a opção **Ativar fluxo de aprovações**.
+3. Na aba **[Separação](/pt/docs/tutorials/vtex-pick-and-pack-configuracoes#separacao)**, habilite a opção **Ativar fluxo de aprovações**.
 4. Clique em `Salvar`.
 
 ### Se forem permitidas alterações nos pedidos, haverá um limite para o número de alterações que podem ser feitas?
@@ -83,7 +83,7 @@ A aprovação de um administrador não é obrigatória durante a alteração de 
 
 1. No Admin VTEX, acesse **Envio > Pick and Pack > Configurações** ou digite **Configurações** na barra de busca no topo da página.
 2. Clique em `Separação` na aba **Ordens de Serviço**.
-3. Na aba **[Separação](/pt/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9#separacao)**, defina o limite de alterações na opção **Número máximo de alterações no pedido**.
+3. Na aba **[Separação](/pt/docs/tutorials/vtex-pick-and-pack-configuracoes#separacao)**, defina o limite de alterações na opção **Número máximo de alterações no pedido**.
 4. Clique em `Salvar`.
 
 ### Como o separador localiza os itens para a separação?
@@ -103,6 +103,6 @@ Os tipos e tamanhos de embalagens utilizados pela loja devem ser cadastrados no 
 
 1. No Admin VTEX, acesse **Envio > Pick and Pack > Configurações** ou digite **Configurações** na barra de busca no topo da página.
 2. Clique em `Empacotamento` na aba **Ordens de Serviço**.
-3. Na aba **[Empacotamento](/pt/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9#empacotamento)**, clique na aba **Envelopes**.
+3. Na aba **[Empacotamento](/pt/docs/tutorials/vtex-pick-and-pack-configuracoes#empacotamento)**, clique na aba **Envelopes**.
 4. Clique no botão `Criar` e preencha o formulário com as informações da embalagem.
 5. Clique em `Salvar`.

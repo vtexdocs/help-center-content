@@ -73,7 +73,7 @@ Sellers diferentes podem ser exibidos durante a experiência de compra no seu ma
 - **Seller identificável:** o seller é visível no *storefront* do seu marketplace e escolhido pelo consumidor durante a experiência de compra no buy box.  
 - **Seller não identificável (white label):** [sellers white label](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label) são contas franquia na VTEX, ocultos na experiência de compra e selecionados automaticamente pelo sistema do checkout para o fulfillment.  
 
-Para adicionar um seller não identificável (white label), é necessário ter esse modelo previsto no contrato com a VTEX. solicite a adição de uma conta franquia seguindo as instruções em [Solicitar criação de conta franquia](/pt/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl#solicitar-criacao-de-conta-franquia). Toda conta franquia é criada como seller white label e não é possível mudar o tipo de seller após a sua criação. Saiba mais em [Adicionar sellers](/pt/docs/tutorials/adicionar-seller). 
+Para adicionar um seller não identificável (white label), é necessário ter esse modelo previsto no contrato com a VTEX. solicite a adição de uma conta franquia seguindo as instruções em [Solicitar criação de conta franquia](/pt/docs/tutorials/o-que-e-conta-franquia#solicitar-criacao-de-conta-franquia). Toda conta franquia é criada como seller white label e não é possível mudar o tipo de seller após a sua criação. Saiba mais em [Adicionar sellers](/pt/docs/tutorials/adicionar-seller). 
 
 ### Localização
 

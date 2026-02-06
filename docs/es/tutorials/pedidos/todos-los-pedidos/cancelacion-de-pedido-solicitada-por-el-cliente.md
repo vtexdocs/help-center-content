@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-Hay situaciones en las que los clientes pueden solicitar la cancelación de un pedido. Puede ser la [cancelación automática dentro de la ventana](/es/tutorial/cancelacion-de-pedido-solicitada-por-el-cliente--3wEI6DUNtecooG2Ki4Akqo#cancelacion-en-la-ventana-de-cancelacion) de **cancelación** o, después de ese periodo, la cancelación [aprobada por el administrador de la tienda](/es/tutorial/cancelacion-de-pedido-solicitada-por-el-cliente--3wEI6DUNtecooG2Ki4Akqo#cancelacion-aprobada-por-el-administrador-de-la-tienda). 
+Hay situaciones en las que los clientes pueden solicitar la cancelación de un pedido. Puede ser la [cancelación automática dentro de la ventana](/es/docs/tutorials/cancelacion-de-pedido-solicitada-por-el-cliente#cancelacion-en-la-ventana-de-cancelacion) de **cancelación** o, después de ese periodo, la cancelación [aprobada por el administrador de la tienda](/es/docs/tutorials/cancelacion-de-pedido-solicitada-por-el-cliente#cancelacion-aprobada-por-el-administrador-de-la-tienda). 
 
 > ❗ Después que se cancela el pedido, no se le puede cambiar el status.
 
@@ -34,13 +34,13 @@ Cuando el cliente solicita la cancelación durante la [ventana de cancelación](
 Este es el caso cuando el cliente solicita la cancelación fuera de la ventana de cancelación presentando una justificación a la tienda. Esto requiere que el administrador de la tienda apruebe la cancelación. Para que el administrador de la tienda realice la aprobación, la plataforma presenta la solicitud de cancelación a la tienda de las siguientes maneras:
 
 * En la pantalla de flujo de pedidos, la tienda recibe la solicitud de cancelación con el motivo indicado por el cliente y el status el pedido cambia a «Cancelación solicitada». 
-* La plataforma envía un _email_ para informar a la tienda sobre la solicitud de cancelación. Esta es una tarea de [VTEX DO](/es/tutorial/vtex-do--tutorials_203) que se llama `Cancelación solicitada`. Con VTEX DO, el administrador de la tienda gestiona las solicitudes de cancelación que están pendientes. 
+* La plataforma envía un _email_ para informar a la tienda sobre la solicitud de cancelación. Esta es una tarea de [VTEX DO](/es/docs/tutorials/vtex-do-interface) que se llama `Cancelación solicitada`. Con VTEX DO, el administrador de la tienda gestiona las solicitudes de cancelación que están pendientes. 
 
 El administrador de la tienda debe aprobar o denegar la cancelación. Si el administrador de la tienda no aprueba la cancelación, recomendamos informar al cliente que no se puede cancelar el pedido.
 
 Incluso si el cancelamiento solicitado por el cliente es negado por el administrador de la tienda utilizando [VTEX DO](/es/docs/tutorials/vtex-do-interface), es necesario que el administrador proceda con la [facturación](/es/docs/tutorials/como-facturar-manualmente-un-pedido) del pedido, ya que esto es lo que hace que el pedido siga su curso.
 
-> ⚠️ Si la funcionalidad [Cambio de pedido](/es/tutorial/cambio-de-pedido--2IK9mwQjBKseQmE8K8saO8#como-activar-la-funcionalidad) está activada, los pedidos pueden ser modificados o cancelados en cualquier momento, incluso después de la ventana de cancelación.
+> ⚠️ Si la funcionalidad [Cambio de pedido](/es/docs/tutorials/cambio-de-pedido#como-activar-la-funcionalidad) está activada, los pedidos pueden ser modificados o cancelados en cualquier momento, incluso después de la ventana de cancelación.
 
 ## Motivo de la cancelación
 
@@ -57,8 +57,8 @@ Para cambiar las opciones, siga los pasos a continuación:
 
 ## Artículos relacionados
 
-- [¿Por qué un pedido fue cancelado?](/es/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493)
+- [¿Por qué un pedido fue cancelado?](/es/troubleshooting/el-pedido-de-mi-tienda-se-cancelo)
 - [Configurar el tiempo de espera para cancelar el pedido](/es/tutorial/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido)
-- [¿Por qué el pedido fue cancelado en VTEX y no en el marketplace?](/es/faq/por-que-el-pedido-fue-cancelado-en-la-vtex-e-no-en-el-marketplace--frequentlyAskedQuestions_678)
+- [¿Por qué el pedido fue cancelado en VTEX y no en el marketplace?](/es/troubleshooting/el-pedido-de-mi-tienda-se-cancelo)
 - [Cambio de pedido](/es/docs/tutorials/cambio-de-pedido)
 

@@ -126,7 +126,7 @@ Nesta seção você encontra as seguintes informações:
 | min\_installment | integer | Valor mínimo da parcela. |
 | max\_installment | integer | Valor máximo da parcela. |
 | merchants | super | Lista de lojistas. |
-| cluster\_expressions | super | Critérios para selecionar um cluster de clientes. Cada item neste array deve seguir o formato de uma função de igualdade ({propertyname}={value}) ou de uma função contains ({propertyname} contains {value}). Em ambas as opções, {propertyname} deve ser substituído pelo nome do campo na entidade de dados, e {value} deve ser substituído pelo valor definido no Master Data.  Saiba mais sobre esses critérios em [Como preencher o campo Cluster de clientes](/pt/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342#filling-in-the-customer-cluster-field). |
+| cluster\_expressions | super | Critérios para selecionar um cluster de clientes. Cada item neste array deve seguir o formato de uma função de igualdade ({propertyname}={value}) ou de uma função contains ({propertyname} contains {value}). Em ambas as opções, {propertyname} deve ser substituído pelo nome do campo na entidade de dados, e {value} deve ser substituído pelo valor definido no Master Data.  Saiba mais sobre esses critérios em [Como preencher o campo Cluster de clientes](/pt/docs/tutorials/criando-promocao-para-um-cluster-de-clientes#filling-in-the-customer-cluster-field). |
 | pii\_cluster\_expressions | super | Expressões de cluster relacionadas às informações de identificação pessoal (PII) dos clientes. |
 | payments\_rules | super | Lista de regras de pagamento. |
 | gift\_list\_types | super | Tipo de brindes da lista. |
@@ -236,7 +236,7 @@ Nesta seção você encontra as seguintes informações:
 | min\_installment | integer | Valor mínimo da parcela. |
 | max\_installment | integer | Valor máximo da parcela. |
 | merchants | super | Lista de lojistas. |
-| cluster\_expressions | super | Critérios para selecionar um cluster de clientes. Cada item neste array deve seguir o formato de uma função de igualdade ({propertyname}={value}) ou de uma função contains ({propertyname} contains {value}). Em ambas as opções, {propertyname} deve ser substituído pelo nome do campo na entidade de dados, e {value} deve ser substituído pelo valor definido no Master Data.  Saiba mais sobre esses critérios em [Como preencher o campo Cluster de clientes](/pt/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342#filling-in-the-customer-cluster-field).  |
+| cluster\_expressions | super | Critérios para selecionar um cluster de clientes. Cada item neste array deve seguir o formato de uma função de igualdade ({propertyname}={value}) ou de uma função contains ({propertyname} contains {value}). Em ambas as opções, {propertyname} deve ser substituído pelo nome do campo na entidade de dados, e {value} deve ser substituído pelo valor definido no Master Data.  Saiba mais sobre esses critérios em [Como preencher o campo Cluster de clientes](/pt/docs/tutorials/criando-promocao-para-um-cluster-de-clientes#filling-in-the-customer-cluster-field).  |
 | pii\_cluster\_expressions | super | Expressões de cluster relacionadas às informações de identificação pessoal (PII) dos clientes. |
 | payments\_rules | super | Lista de regras de pagamento. |
 | gift\_list\_types | super | Tipo de brindes da lista. |

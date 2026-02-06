@@ -68,7 +68,7 @@ The members you add will receive an invitation email to join the organization. S
 
 ![Invitation Email](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/create-project_8.png)
 
-> **Note:** To learn more about the permissions' system, click [here](https://help.vtex.com/en/docs/tutorials/weni-permission-system).
+> **Note:** To learn more about the permissions' system, click [here](/en/docs/tutorials/weni-permission-system).
 
 After creating your organization, project, and adding your team members, you'll be ready to fully leverage the potential of the Weni Platform.
 

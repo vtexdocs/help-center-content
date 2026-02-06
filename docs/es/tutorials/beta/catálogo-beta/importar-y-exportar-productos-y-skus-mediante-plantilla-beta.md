@@ -49,7 +49,7 @@ Para exportar un archivo `.xlsx` con información sobre tus productos y SKUs sig
 > ℹ️ La información exportada corresponde a los campos presentados en la sección [Campos de la plantilla de productos y SKUs](#campos-de-la-plantilla-de-productos-y-skus).
 
 1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa [Productos y SKUs](/es/docs/tutorials/productos-y-skus) en la barra de búsqueda en la parte superior de la página.
-2. (Opcional) Si deseas exportar determinados productos y SKUs, [busca](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By#buscar-productos) o [filtra](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By#filtrar-productos) los ítems deseados. Este paso no es necesario para exportar todos los productos y/o SKUs.
+2. (Opcional) Si deseas exportar determinados productos y SKUs, [busca](/es/docs/tutorials/productos-y-skus#buscar-productos) o [filtra](/es/docs/tutorials/productos-y-skus#filtrar-productos) los ítems deseados. Este paso no es necesario para exportar todos los productos y/o SKUs.
 3. En la parte superior de la página, haz clic en `Exportar`.
 
   > ⚠️ El límite de exportación es de 100.000 productos.
@@ -96,7 +96,7 @@ La siguiente tabla presenta la descripción y el ejemplo de valor de los campos 
 | :--- | :--- | :--- |
 | ID Producto | Número único de identificación del producto. Si este campo ya está completado no se puede modificar. Para agregar un nuevo producto deja el campo vacío. | 310117603 |
 | Nombre Producto* | Nombre del producto presentado a los clientes en la experiencia de navegación, puede tener hasta 150 caracteres. Por cuestiones de [SEO](/es/docs/tutorials/mejorar-el-seo-de-las-paginas-de-lista-de-productos), recomendamos:<ul><li>✅ Utilizar palabras simples</li><li>❌ Evitar otros idiomas</li><li>❌ Evitar ortografía compleja</li></ul> | Camiseta de algodón |
-| Producto activo | Indica si el [status del producto](/es/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#filtrar-por-status) será activo o inactivo. Este campo no se puede editar desde la plantilla, debe dejarse vacío. | (Deja el campo vacío) |
+| Producto activo | Indica si el [status del producto](/es/docs/tutorials/productos-y-skus#filtrar-por-status) será activo o inactivo. Este campo no se puede editar desde la plantilla, debe dejarse vacío. | (Deja el campo vacío) |
 | Descripción | Texto con información general sobre el producto. Ya que este contenido se muestra a los clientes en la vitrina de la tienda, recomendamos crear un resumen simple y fácil de entender. | Modelo con cuello redondo y manga corta. |
 | Descripción adicional | Contenido adicional del producto, como información resumida. Recomendamos no superar los 150 caracteres, para que los buscadores muestren el texto completo en las páginas de resultados. | Material 70% reciclado |
 | ID Marca* | Código numérico que identifica la [marca](/es/docs/tutorials/que-es-una-marca) del producto. Esta información se puede encontrar en el Admin VTEX, en **Catálogo > Marcas**, o usando el endpoint [Get brand list](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/brand/list). | 2000003 |

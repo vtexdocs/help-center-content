@@ -49,7 +49,7 @@ To search using the search bar, type in the desired term and press the `enter` k
 
 [Sequence](/en/docs/tutorials/precautions-when-setting-the-order-numbering) is a six-digit string displayed in your VTEX Admin right after the order ID. For example, in order `1268540501456-01 (501456)`, the order ID is `1268540501456`, the `-01` indicates that a seller will handle fulfillment, and the sequence is `501456`. 
 
-> ℹ️ In addition to the list above, it is possible to activate other search criteria, as you will see in the [Other](/en/tutorial/filtrar-todos-pedidos--tutorials_192#filters-other) section.
+> ℹ️ In addition to the list above, it is possible to activate other search criteria, as you will see in the [Other](/en/docs/tutorials/filtering-all-orders#filters-other) section.
 
 By default, the **All orders** page has the orders created **Today** filter activated. To search by other dates, use the filters available under [Filters: Date](#filters-date) or [Created](#created).
 
@@ -195,7 +195,7 @@ On the **Orders > All Orders** page, there is the `Filter by Status` <i class="f
 
 When clicking `Filter by Status` <i class="fas fa-angle-down"></i>, your store's [order status](/en/docs/tutorials/order-flow-and-status) options are displayed. For example, if among all your orders, there are no canceled ones, this option will not be visible. 
 
-> ℹ️ For more status filter options, go to the section [Filters: Status](/en/tutorial/filtrar-todos-pedidos--tutorials_192#filters-status). If you want to check all existing order status, read the article [Order flow and status](/en/docs/tutorials/order-flow-and-status).
+> ℹ️ For more status filter options, go to the section [Filters: Status](/en/docs/tutorials/filtering-all-orders#filters-status). If you want to check all existing order status, read the article [Order flow and status](/en/docs/tutorials/order-flow-and-status).
 
 ## Created
 

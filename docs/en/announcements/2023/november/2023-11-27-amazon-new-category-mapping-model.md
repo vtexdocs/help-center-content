@@ -32,5 +32,5 @@ Here are some of the advantages of mapping categories and attributes using the V
 
 ## What needs to be done?
 
-The feature will be available to all [VTEX accounts that act as sellers](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) from **December 18, 2023.** To use it, you need to have your VTEX account [integrated](/en/docs/tracks/amazon) with Amazon and send the products by following the [Mapping and sending product categories to Amazon](/en/docs/tracks/sending-products-to-amazon) tutorial.
+The feature will be available to all [VTEX accounts that act as sellers](/en/docs/tutorials/marketplace-strategies-at-vtex#sendo-seller-vtex) from **December 18, 2023.** To use it, you need to have your VTEX account [integrated](/en/docs/tracks/amazon) with Amazon and send the products by following the [Mapping and sending product categories to Amazon](/en/docs/tracks/sending-products-to-amazon) tutorial.
 

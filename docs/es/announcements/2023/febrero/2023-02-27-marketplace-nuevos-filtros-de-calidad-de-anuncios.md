@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Lanzamos una nueva página de configuración para que los marketplaces creen requisitos para la aprobación de anuncios.'
 ---
 
-Una de las responsabilidades de un [marketplace](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-un-marketplace-vtex) es recibir anuncios de sus _sellers_, revisarlos y aprobarlos para incluirlos en su catálogo.
+Una de las responsabilidades de un [marketplace](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#ser-un-marketplace-vtex) es recibir anuncios de sus _sellers_, revisarlos y aprobarlos para incluirlos en su catálogo.
 
 Para que los _marketplaces_ tengan más control sobre los criterios de aprobación de un anuncio, hemos creado la configuración **[Filtros de calidad de anuncios](/es/docs/tutorials/calidad-de-anuncios)**, que permite a los _marketplaces_ crear los requisitos obligatorios y opcionales para su aprobación. 
 
@@ -43,7 +43,7 @@ La página de configuración proporciona una serie de herramientas para la opera
 * Permitir que el equipo de catálogo del _marketplace_ analice los anuncios caso por caso y sepa las razones por las que no cumplieron los requisitos.
 * Permitir identificar los _sellers_ y los tipos de anuncios que no cumplen los requisitos, lo que acelera la corrección de problemas.
 
-Sepa más acerca de los [beneficios](/es/tutorial/filtros-de-qualidade-dos-anuncios--4xm0gi8leCyxHj8YdgHSJH#por-que-usar-esta-funcionalidad) de utilizar esta funcionalidad.
+Sepa más acerca de los [beneficios](/es/docs/tutorials/calidad-de-anuncios#por-que-usar-esta-funcionalidad) de utilizar esta funcionalidad.
 
 ## ¿Qué se necesita hacer?
 

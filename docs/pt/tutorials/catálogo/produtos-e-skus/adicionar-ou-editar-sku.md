@@ -45,7 +45,7 @@ Todo novo SKU criado precisa estar vinculado a um produto. Assim, uma vez que vo
 
 > ❗ Uma vez criado, o SKU pode ser inativado, mas a ação de excluir um único SKU não é possível. A plataforma só permite excluir SKUs e produtos em massa por meio da [Manutenção de Base (Full Cleanup)](/pt/docs/tutorials/manutencao-de-base-full-cleanup).
 
-Após a criação do SKU, é possível acompanhar sua disponibilidade para venda por meio do ícone colorido. Ao passar o mouse sobre o ícone, aparece um texto com o significado da cor, como na imagem abaixo. Saiba mais em [Produtos e SKUs](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#acompanhar-disponibilidade-de-produtos).
+Após a criação do SKU, é possível acompanhar sua disponibilidade para venda por meio do ícone colorido. Ao passar o mouse sobre o ícone, aparece um texto com o significado da cor, como na imagem abaixo. Saiba mais em [Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus#acompanhar-disponibilidade-de-produtos).
 
 ![adding_or_editting_sku_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/produtos-e-skus/adicionar-ou-editar-sku_1.png)
 
@@ -199,7 +199,7 @@ Para vincular uma customização ao SKU, clique no ícone adicionar +, selecione
 
 ## Recomendações de cross-sell e up-sell
 
-Esta seção permite à loja configurar para o novo SKU opções de [cross selling](/pt/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280#o-que-e-cross-selling) e/ou [up selling](/pt/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280#o-que-e-up-selling), que serão refletidas na vitrine da loja e na experiência de navegação dos clientes.
+Esta seção permite à loja configurar para o novo SKU opções de [cross selling](/pt/docs/tutorials/configurando-produto-similar-sugestoes-acessorios-e-genericos#o-que-e-cross-selling) e/ou [up selling](/pt/docs/tutorials/configurando-produto-similar-sugestoes-acessorios-e-genericos#o-que-e-up-selling), que serão refletidas na vitrine da loja e na experiência de navegação dos clientes.
 
 Para configurar um opção de cross-sell ou up-sell, siga os passos abaixo:
 

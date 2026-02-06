@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-In this article, we will cover the different scenarios related to payments in[ VTEX marketplaces](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-um-marketplace-vtex) and the configurations involved.
+In this article, we will cover the different scenarios related to payments in[ VTEX marketplaces](/en/docs/tutorials/marketplace-strategies-at-vtex#ser-um-marketplace-vtex) and the configurations involved.
 
 For VTEX clients in Brazil, both the seller and the marketplace can process payments, depending on the commercial conditions negotiated between them and the payment provider.
 

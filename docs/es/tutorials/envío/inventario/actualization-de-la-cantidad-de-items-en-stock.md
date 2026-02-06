@@ -23,7 +23,7 @@ Existen tres formas de realizar la actualización de los ítems en _stock_:
 * **En el Admin, mediante una plantilla:** utilizando la plantilla de _stock_ generada pela plataforma VTEX. Debes exportar la plantilla y luego importarla cuando esté completada. Esta opción permite actualizar los datos de forma masiva. Obtén más información en el artículo [Importar y exportar plantilla de stock](/es/docs/tutorials/importando-y-exportando-plantilla-de-stock).
 * **En el Admin, manualmente:** actualizando manualmente un SKU a la vez, según las instrucciones a continuación.
 
-Es importante señalar que la actualización del _stock_ se produce si hay alguna diferencia en la nueva cantidad de ítems. Para que se actualice el _stock_, en el Admin o a través de la API, la cantidad de ítems después del cambio debe ser diferente de la cantidad de ítems disponibles en el momento. La plataforma también acepta la actualización cuando el _stock_ tiene una [reserva reconocida](/es/tutorial/como-se-maneja-la-reserva--tutorials_92#reserva-reconocida), incluso cuando la cantidad de ítems disponibles es la misma que la actualización.
+Es importante señalar que la actualización del _stock_ se produce si hay alguna diferencia en la nueva cantidad de ítems. Para que se actualice el _stock_, en el Admin o a través de la API, la cantidad de ítems después del cambio debe ser diferente de la cantidad de ítems disponibles en el momento. La plataforma también acepta la actualización cuando el _stock_ tiene una [reserva reconocida](/es/docs/tutorials/como-se-maneja-la-reserva#reserva-reconocida), incluso cuando la cantidad de ítems disponibles es la misma que la actualización.
 
 Para actualizar los ítems del _stock_ en el Admin de forma manual, sigue los pasos a continuación.
 
@@ -43,7 +43,7 @@ Puede haber un número negativo de SKU en el _stock_. Si hay un número negativo
 
 _Unidades disponibles = unidades de la última actualización - unidades reservadas_
 
-El stock negativo suele producirse cuando se cancela el SKU de un pedido que ya tiene una reserva.  Para evitar esta situación, es importante que la actualización de la cantidad de SKU se realice en pedidos con _status_ posterior a `Preparando entrega`. De este modo, la [reserva ya habrá sido reconocida](/es/tutorial/como-se-maneja-la-reserva--tutorials_92#reserva-reconocida) y no habrá conflicto entre los ítems en stock y los ítems que realmente están disponibles para la venta.
+El stock negativo suele producirse cuando se cancela el SKU de un pedido que ya tiene una reserva.  Para evitar esta situación, es importante que la actualización de la cantidad de SKU se realice en pedidos con _status_ posterior a `Preparando entrega`. De este modo, la [reserva ya habrá sido reconocida](/es/docs/tutorials/como-se-maneja-la-reserva#reserva-reconocida) y no habrá conflicto entre los ítems en stock y los ítems que realmente están disponibles para la venta.
 
 ![gerenciar inventarioES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/inventario/actualization-de-la-cantidad-de-items-en-stock_1.gif)
 

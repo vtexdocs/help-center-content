@@ -24,10 +24,10 @@ Além disso, é possível cadastrar o estoque, as docas que escoarão os produto
 
 Este artigo contém as informações necessárias para:
 
-* [Cadastrar um novo estoque](/pt/tutorial/gerenciar-estoque--tutorials_137#cadastrar-estoque).  
-* [Preencher os campos de cadastro no estoque](/pt/tutorial/gerenciar-estoque--tutorials_137#campos-de-cadastro).  
-* [Editar um estoque existente](/pt/tutorial/gerenciar-estoque--tutorials_137#editar-estoque).  
-* [Excluir um estoque](/pt/tutorial/gerenciar-estoque--tutorials_137#excluir-estoque).  
+* [Cadastrar um novo estoque](/pt/docs/tutorials/gerenciar-estoque#cadastrar-estoque).  
+* [Preencher os campos de cadastro no estoque](/pt/docs/tutorials/gerenciar-estoque#campos-de-cadastro).  
+* [Editar um estoque existente](/pt/docs/tutorials/gerenciar-estoque#editar-estoque).  
+* [Excluir um estoque](/pt/docs/tutorials/gerenciar-estoque#excluir-estoque).  
 
 > ⚠️ A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é: <body> <ol> <li>[Política de Envio](/pt/docs/tutorials/politica-de-envio)</li> <li>[Doca](/pt/docs/tutorials/gerenciar-doca)</li> <li>[Estoque](/pt/docs/tutorials/estoque)</li> </ol> </body>
 

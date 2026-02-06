@@ -19,7 +19,7 @@ The **Account** page allows you to view and manage your VTEX account details. To
 
 ![Admin v4 account settings menu EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/accounts/account-management_1.jpg)
 
-> ⚠️ This screen has no application key details. Learn where to find and manage this information in the article [Application Keys](/en/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet).
+> ⚠️ This screen has no application key details. Learn where to find and manage this information in the article [Application Keys](/en/docs/tutorials/api-keys).
 
 The **Account** page is divided into two tabs: [General](#general) and [Stores](#stores). Learn more about each tab below.
 

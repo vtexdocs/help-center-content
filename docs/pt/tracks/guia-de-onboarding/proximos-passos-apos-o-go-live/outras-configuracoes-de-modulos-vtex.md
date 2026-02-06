@@ -99,5 +99,5 @@ Os aplicativos essenciais do B2B Suite impulsionam as operações de negócios B
 - **Histórico de Pedidos B2B:** permite que usuários B2B visualizem todos os pedidos anteriores feitos por sua organização ou centro de custos.
 - **B2B Clientes:** gerencia as informações e as relações com os clientes B2B.
 
-Para mais informações sobre os aplicativos, acesse [Conjunto de aplicativos do B2B Suite](/pt/tutorial/b2b-suite-overview--5eG6UfveWrai7looK0kVG3#conjunto-de-aplicativos-do-b2b-suite).
+Para mais informações sobre os aplicativos, acesse [Conjunto de aplicativos do B2B Suite](/pt/docs/tutorials/b2b-suite-visao-geral#conjunto-de-aplicativos-do-b2b-suite).
 

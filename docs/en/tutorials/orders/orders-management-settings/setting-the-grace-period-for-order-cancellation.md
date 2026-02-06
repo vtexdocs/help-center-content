@@ -34,4 +34,4 @@ To configure this time window, follow the steps below:
 ### Related articles
 
 - [Setting the grace period for order cancellation](/en/docs/tutorials/order-cancellation-requested-by-the-customer)
-- [Why was my order cancelled?](/en/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493)
+- [Why was my order cancelled?](/en/troubleshooting/my-store-order-was-canceled)

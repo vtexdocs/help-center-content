@@ -147,7 +147,7 @@ Sin embargo, hay **limitaciones** que las tiendas que utilizan la autenticación
 
 ## Suscripciones
 
-En esta pestaña, el cliente puede gestionar todas sus suscripciones registradas, así como modificar los datos relacionados con las mismas. Lea el artículo [Cómo funciona Suscripciones](/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453#como-o-cliente-da-sua-loja-visualiza-suas-assinaturas) para saber más.
+En esta pestaña, el cliente puede gestionar todas sus suscripciones registradas, así como modificar los datos relacionados con las mismas. Lea el artículo [Cómo funciona Suscripciones](/es/docs/tutorials/como-funciona-suscripciones#como-o-cliente-da-sua-loja-visualiza-suas-assinaturas) para saber más.
 
 ## Autenticación 
 

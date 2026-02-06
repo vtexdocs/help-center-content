@@ -76,7 +76,7 @@ La configuración se realiza en el módulo *Pagos* al [crear una condición espe
 ## Catálogo 
 Los *sellers* pueden restringir la disponibilidad de los productos en su catálogo mediante diferentes políticas comerciales. Así, los *sellers* determinan los productos que venderán en los diferentes *marketplaces* en que operan. Si su tienda vende productos electrónicos y ropa, para vender en un *marketplace* que solo ofrece productos electrónicos, debe segmentar el surtido de productos y excluir la ropa. 
 
-Esta configuración se realiza en el módulo *Catálogo*, al [registrar productos](/es/tutorial/cadastrando-produtos--tutorials_2567) e indicar a qué políticas comerciales estarán vinculados. Si no se establecen restricciones al crear el producto, estará disponible en todas las políticas comerciales. 
+Esta configuración se realiza en el módulo *Catálogo*, al [registrar productos](/es/docs/tutorials/agregar-o-editar-productos) e indicar a qué políticas comerciales estarán vinculados. Si no se establecen restricciones al crear el producto, estará disponible en todas las políticas comerciales. 
 
 > ⚠️ No recomendamos vincular políticas comerciales a colecciones para determinar el surtido de productos, especialmente para los marketplaces fuera de VTEX. Cuando se elimina un producto de la colección de políticas comerciales, el sistema VTEX no notifica al marketplace de esta actualización, lo que hace que el producto continúe disponible en el marketplace.
 

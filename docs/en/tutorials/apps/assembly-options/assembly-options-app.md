@@ -41,7 +41,7 @@ Below, you will find the information displayed in the list:
 * **Name:** Indicates the name of the assembly option's attachment.
 * **Required:** If it is marked with a <i class="far fa-check-circle"></i>, this column indicates that the assembly option attachment is required. If this field is empty, no action is needed.
 * **Status:** It indicates the assembly option status, which can be either:
-    * **Active**: It means that the customization options are active; therefore, they’ll appear in your store if they’re [associated with a SKU](/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU#associating-the-attachment-with-a-sku).
+    * **Active**: It means that the customization options are active; therefore, they’ll appear in your store if they’re [associated with a SKU](/en/docs/tutorials/adding-an-attachment#associating-the-attachment-with-a-sku).
     * **Inactive**: The customization options are inactive; therefore, they cannot be chosen.
 * **Menu** <i class="fas fa-ellipsis-v"></i>: It shows the options available:
     * <i class="far fa-pencil"></i> **Edit**: Provides access to the edit page of the assembly option.
@@ -79,7 +79,7 @@ The **Products > Assembly Options > New Assembly Options** page contains a form 
 
 When you save an assembly option, an attachment is automatically created in **Catalog > Attachments** with the prefix `vtex.assembly-option.` added to the name of the assembly option created. For example: `vtex.assembly-option.Ingredients`.
 
-> ⚠️ For the customization options created in **Assembly Options** to appear in the storefront, you will need to associate the attachment created with a SKU in **Catalog > Products and SKUs > Advanced settings > Attachments**. To do so, follow the steps described in [Associating the attachment with a SKU](/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU#associating-the-attachment-with-a-sku).
+> ⚠️ For the customization options created in **Assembly Options** to appear in the storefront, you will need to associate the attachment created with a SKU in **Catalog > Products and SKUs > Advanced settings > Attachments**. To do so, follow the steps described in [Associating the attachment with a SKU](/en/docs/tutorials/adding-an-attachment#associating-the-attachment-with-a-sku).
 
 ## Learn more
 

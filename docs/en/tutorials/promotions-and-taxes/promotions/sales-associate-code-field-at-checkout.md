@@ -33,7 +33,7 @@ To create the field and add it to the Checkout page of your store, you need to c
 The **sales associate code** field must be added to [Master Data](/en/docs/tutorials/master-data) as a new entity. To create the data entity, follow the steps below:
 
 1. In VTEX Admin, go to **Store Settings > Storefront > Master Data**, or type **Master Data** in the search bar at the top of the page.
-2. Create a new [data entity](/en/tutorial/creating-data-entity--tutorials_1265#how-to-set-up) called *salesassociatecode*.
+2. Create a new [data entity](/en/docs/tutorials/data-entity#how-to-set-up) called *salesassociatecode*.
 3. In the new data entity, create the following fields:
     - **Sales associate code**: with a maximum of 10 characters (Varchar10 type).
     - **Email**: sales associate email address (Email type).

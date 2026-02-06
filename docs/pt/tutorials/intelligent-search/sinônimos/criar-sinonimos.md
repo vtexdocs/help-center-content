@@ -31,7 +31,7 @@ Siga o passo a passo para configurar sinônimos individualmente no Admin VTEX:
 2. Em **Intelligent Search**, clique em **Sinônimos**.
 3. Clique em `Novo`.
 4. Preencha os campos referentes ao sinônimo:
-   - __Tipo:__ define o tipo de sinônimo. Confira [Tipos de sinônimos](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#tipos-de-sinonimos) para mais informações.
+   - __Tipo:__ define o tipo de sinônimo. Confira [Tipos de sinônimos](/pt/docs/tutorials/sinonimos#tipos-de-sinonimos) para mais informações.
    - __Termos:__ palavras ou expressões a serem definidas como sinônimos. É necessário teclar `Enter` após cada termo para inserir um outro termo.
    - **Idiomas:** idiomas aos quais o sinônimo será aplicado. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta).
    - __Status:__ define se o sinônimo estará ativo ou inativo.
@@ -39,7 +39,7 @@ Siga o passo a passo para configurar sinônimos individualmente no Admin VTEX:
 
 A alteração pode demorar até duas horas para ser aplicada.
 
-> ℹ️ Essa funcionalidade está disponível no VTEX Intelligent Search Multi-idioma. Leia o nosso artigo [VTEX Intelligent Search: configurações Multi-idioma (Beta)](/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO#sinonimos) para saber mais.
+> ℹ️ Essa funcionalidade está disponível no VTEX Intelligent Search Multi-idioma. Leia o nosso artigo [VTEX Intelligent Search: configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta#sinonimos) para saber mais.
 
 ## Importar CSV
 
@@ -58,7 +58,7 @@ Para importar sinônimos por planilha, siga os passos abaixo:
 
 ### Template da planilha de sinônimos
 
-Cada linha na planilha corresponde a um sinônimo. A linha deve conter o seguinte formato, de acordo com o [tipo de sinônimo](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#tipos-de-sinonimos) escolhido:
+Cada linha na planilha corresponde a um sinônimo. A linha deve conter o seguinte formato, de acordo com o [tipo de sinônimo](/pt/docs/tutorials/sinonimos#tipos-de-sinonimos) escolhido:
 
  - **Unidirecional**: `{termos separados por vírgula};{termo equivalente};{status}`
 

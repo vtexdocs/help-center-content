@@ -27,10 +27,10 @@ To activate the Orders Authorization flow for native connectors, you need to [co
 
 For VTEX marketplaces, external marketplaces and certified connectors (partners), as long as the Price Divergence rule has not been created, orders with price divergence error are automatically approved.
 
-For [native connectors](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex), while the seller does not configure the Price Divergence rule, orders with price divergence are retained. You can track them in your VTEX Admin by clicking on **Marketplace > Connections > Orders**.
+For [native connectors](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-a-native-connector-vtex), while the seller does not configure the Price Divergence rule, orders with price divergence are retained. You can track them in your VTEX Admin by clicking on **Marketplace > Connections > Orders**.
 
 ### Learn more
 
-- [Why was the order closed with the wrong price?](/en/faq/por-que-o-pedido-foi-fechado-com-um-preco-errado--frequentlyAskedQuestions_708)
+- [Why was the order closed with the wrong price?](/en/troubleshooting/my-order-was-closed-with-the-wrong-price)
 - [Out-of-stock errors in marketplace integration orders](/en/docs/tutorials/out-of-stock-errors-in-marketplace-integration-orders)
 - [SLA errors in marketplace integration orders](/en/docs/tutorials/sla-errors-in-marketplace-integration-orders)

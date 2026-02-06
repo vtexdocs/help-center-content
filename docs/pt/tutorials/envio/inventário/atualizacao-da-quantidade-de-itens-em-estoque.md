@@ -23,12 +23,12 @@ Há três formas de realizar a atualização de itens em estoque:
 * **Via Admin, por planilha:** utilizando a planilha de estoque gerada pela plataforma VTEX, através da exportação e importação da planilha atualizada. Essa opção possibilita a atualização massiva de dados. Saiba mais em [Importar e exportar planilha de estoque](/pt/docs/tutorials/importando-e-exportando-planilha-de-estoque).
 * **Via Admin, manualmente:** atualizando de forma manual um SKU por vez, conforme as orientações a seguir.
 
-É importante ressaltar que a atualização do estoque ocorre caso exista alguma diferença na nova quantidade de itens. Para que haja uma alteração do estoque, tanto via Admin VTEX ou via API, a quantidade de itens após a modificação deve ser diferente da quantidade de itens disponíveis no momento. A plataforma também aceita a atualização quando o inventário tem uma [reserva reconhecida,](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-reconhecida) mesmo quando a quantidade de itens disponíveis é igual à da atualização.
+É importante ressaltar que a atualização do estoque ocorre caso exista alguma diferença na nova quantidade de itens. Para que haja uma alteração do estoque, tanto via Admin VTEX ou via API, a quantidade de itens após a modificação deve ser diferente da quantidade de itens disponíveis no momento. A plataforma também aceita a atualização quando o inventário tem uma [reserva reconhecida,](/pt/docs/tutorials/como-a-reserva-funciona#reserva-reconhecida) mesmo quando a quantidade de itens disponíveis é igual à da atualização.
 
 Para realizar a atualização de itens em estoque de forma manual pelo Admin, siga os passos abaixo.
 
 1. No Admin VTEX, acesse **Catálogo > Inventário > Gerenciamento de inventário**, ou digite *Gerenciamento de inventário* na barra de busca no topo da página.  
-2. Busque por um produto na barra de busca ou combine filtros para encontrar os itens desejados. Saiba mais sobre como utilizar os filtros em [Gerenciar inventário](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139#filtros).  
+2. Busque por um produto na barra de busca ou combine filtros para encontrar os itens desejados. Saiba mais sobre como utilizar os filtros em [Gerenciar inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque#filtros).  
 3. Insira a quantidade atualizada no campo `Atualizar contagem`.   
 4. Uma prévia da atualização ficará disponível. Confira a contagem.   
 5. Clique no botão `Salvar`.

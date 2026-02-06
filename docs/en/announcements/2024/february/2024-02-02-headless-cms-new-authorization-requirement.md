@@ -30,7 +30,7 @@ This change aims to enhance security and simplify user access to the Headless CM
 ## What needs to be done?
 Ensure that Headless CMS users are associated with the `CMS GraphQL API`, `See CMS menu on the top-bar` and `Settings` resources within their user roles by either [creating a new role](#creating-a-new-role) or [editing an existing one](#editing-a-role).
 
-> ⚠️ To manage users and their roles, you need the `Save access profile` resource from the **License Manager** product associated with your user role. For example, the [User Administrator - RESTRICTED](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) is a predefined role that has the `Save access profile` resource associated with it.
+> ⚠️ To manage users and their roles, you need the `Save access profile` resource from the **License Manager** product associated with your user role. For example, the [User Administrator - RESTRICTED](/en/docs/tutorials/predefined-roles#user-administrator-restricted) is a predefined role that has the `Save access profile` resource associated with it.
 
 </div>
 

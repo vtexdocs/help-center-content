@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 
-All clients have access to [VTEX Support's](/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) team of experts, who are prepared to provide the best possible experience for resolving your tickets. To contact them, you need to open a ticket via the ticketing system.
+All clients have access to [VTEX Support's](/en/docs/tutorials/how-does-vtex-support-work) team of experts, who are prepared to provide the best possible experience for resolving your tickets. To contact them, you need to open a ticket via the ticketing system.
 
 You must [enable support permission](/en/docs/tutorials/roles) in [License Manager](/en/docs/tutorials/license-manager-resources) for the user to access VTEX Support. This setting is only valid for accounts in Brazil.
 

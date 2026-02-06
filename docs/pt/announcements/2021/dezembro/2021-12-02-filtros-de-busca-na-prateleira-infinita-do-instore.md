@@ -35,7 +35,7 @@ O objetivo dessa funcionalidade é aprimorar a experiência de busca na Pratelei
 
 Para utilizar os filtros de busca na Prateleira Infinita do inStore, é necessário instalar e configurar o [VTEX Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search), o aplicativo de busca inteligente da VTEX. Nesse contexto, observe alguns pontos de atenção:
 
-* É fundamental configurar os filtros que serão exibidos, conforme o artigo [Configuração da busca](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx), caso contrário todas as informações do produto serão atributos filtráveis no inStore.
+* É fundamental configurar os filtros que serão exibidos, conforme o artigo [Configuração da busca](/pt/docs/tutorials/configuracao-da-busca), caso contrário todas as informações do produto serão atributos filtráveis no inStore.
 * A opção **Autocomplete** não se aplica à busca no inStore, portanto pode ser deixada em branco.
 * Qualquer alteração realizada na configuração de busca também vai se aplicar ao ecommerce caso a ferramenta utilizada seja o VTEX Intelligent Search.
 

@@ -17,12 +17,12 @@ announcementSynopsisPT: 'A partir de 15 de outubro de 2023, não será mais poss
 
 O **Insights** é um painel que permite que você acompanhe a evolução das suas vendas, com uma visão detalhada do funil de conversão e das principais métricas que impactam a receita da sua loja.
 
-Atualmente, o [painel Insights](/pt/tutorial/acompanhando-a-evolucao-das-suas-vendas--5QtyTR0jFy9gDnr4EYCjdq) é acessível somente pelo endereço:
+Atualmente, o [painel Insights](/pt/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46#) é acessível somente pelo endereço:
 ```
 https://{nomeDeConta}.myvtex.com/admin/insights
 ```
 
-A partir de 15 de outubro de 2023, não será mais possível acessar o [painel Insights](/pt/tutorial/acompanhando-a-evolucao-das-suas-vendas--5QtyTR0jFy9gDnr4EYCjdq), que será descontinuado.
+A partir de 15 de outubro de 2023, não será mais possível acessar o [painel Insights](/pt/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46#), que será descontinuado.
 
 ## Por que estamos fazendo esta mudança?
 

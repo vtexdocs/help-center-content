@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
-Nos marketplaces para os quais a VTEX desenvolveu um [conector nativo](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), por vezes ocorrem erros de integração de estoque. A consequência disso é que os itens com erro não ficam disponíveis nos marketplaces. Nestes casos, é possível visualizar uma mensagem que identifica qual é o erro específico. Você encontra a mensagem no Admin VTEX, em **MARKETPLACE > Conexões > Estoque,** clicando sobre a mensagem de processo com erro.
+Nos marketplaces para os quais a VTEX desenvolveu um [conector nativo](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-nativo-vtex), por vezes ocorrem erros de integração de estoque. A consequência disso é que os itens com erro não ficam disponíveis nos marketplaces. Nestes casos, é possível visualizar uma mensagem que identifica qual é o erro específico. Você encontra a mensagem no Admin VTEX, em **MARKETPLACE > Conexões > Estoque,** clicando sobre a mensagem de processo com erro.
 
 Para consultar os erros de integração de estoque mais comuns em determinado marketplace, e saber como solucioná-los, basta clicar sobre o nome do marketplace:
 

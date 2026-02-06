@@ -46,14 +46,14 @@ You must configure the physical stores as pickup points so that your customers c
 
 ### Associating a pickup point with a shipping policy
 
-Next, you must associate the new pickup points with a shipping policy for them to work properly. For more information about this process, please refer to the section [Link a pickup point with a shipping policy](/en/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E#2-link-a-pickup-point-to-a-shipping-policy) of the article [Configuring pickup points](/en/docs/tutorials/creating-pickup-points).
+Next, you must associate the new pickup points with a shipping policy for them to work properly. For more information about this process, please refer to the section [Link a pickup point with a shipping policy](/en/docs/tutorials/creating-pickup-points#2-link-a-pickup-point-to-a-shipping-policy) of the article [Configuring pickup points](/en/docs/tutorials/creating-pickup-points).
 
 ### Associating a pickup point with the warehouse of a physical store
 
 Now, you must connect the pickup point with the warehouse of the physical store. This means that you need to inform the system that the products collected by customers at this pickup point (the physical store) will leave the local warehouse of the store. To do this, follow the steps below.
 
 1. In the VTEX Admin of the desired franchise account, go to **Shipping** > __Shipping Strategy__ > __Warehouses__, or type __Shipping Strategy__ in the search bar at the top of the page.
-2. Select a warehouse or create a new one. To learn how to create a new warehouse, read the article [Managing warehouses](/en/tutorial/managing-warehouses--tutorials_137#adding-a-warehouse).
+2. Select a warehouse or create a new one. To learn how to create a new warehouse, read the article [Managing warehouses](/en/docs/tutorials/managing-warehouses#adding-a-warehouse).
 3. Enable the __VTEX Sales App warehouse__ option by toggling the <i class="fas fa-toggle-on"></i> button.
 4. Select the pickup points that will use the warehouse of the physical store.
 

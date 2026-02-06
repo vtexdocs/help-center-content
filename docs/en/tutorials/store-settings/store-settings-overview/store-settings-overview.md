@@ -32,7 +32,7 @@ The Order Settings section is where you can set up general orders settings, mana
 
 - [Settings](/en/subcategory/orders-management-settings--1qvm3kIrt6KA6IeGc4EQ6k)  
 - [Orders Authorization](/en/docs/tutorials/how-order-authorization-works)  
-- [Subscription Payments](/en/tutorial/how-to-configure-subscriptions--1FA9dfE7vJqxBna9Nft5Sj#2-configure-payment-methods)  
+- [Subscription Payments](/en/docs/tutorials/how-to-configure-subscriptions#2-configure-payment-methods)  
 
 ## Email Templates
 The Email Templates section is where you customize the templates and define senders for emails triggered to your customers. This section includes the following pages, that are coming soon in the Admin v4 design:
@@ -72,11 +72,11 @@ The Channels section includes the Sales Channels page, where you set up catalog,
 ## Intelligent Search
 The Intelligent Search section is where you define general settings for intelligent search, and its integrations. This section includes the following pages, that are coming soon in the Admin v4 design:
 
-- [Explained Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4uSFqyJVCMVMIvVrtz3lxZ)
-- [Merchandising Rules](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8)
-- [Synonyms](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL)
-- [Indexing Status](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH)
+- [Explained Search](/en/docs/tutorials/explained-search)
+- [Merchandising Rules](/en/docs/tutorials/creating-merchandising-rules-manual-editor)
+- [Synonyms](/en/docs/tutorials/creating-synonyms)
+- [Indexing Status](/en/docs/tutorials/indexing-history)
 - [Relevance Rules](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3nVgV8UuUJYXwV0o2tgZ9g)
-- [Analytics](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m)
-- [Redirects](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4Gd2wLQFbCwTsh8RUDwSoL)
+- [Analytics](/en/docs/tutorials/analytics)
+- [Redirects](/en/docs/tutorials/configuring-redirects)
 

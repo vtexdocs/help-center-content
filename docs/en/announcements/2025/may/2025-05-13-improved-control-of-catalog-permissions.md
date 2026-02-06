@@ -56,6 +56,6 @@ To learn more about managing user permissions and application keys, check out th
 
 - [Roles](/en/docs/tutorials/roles)
 - [How to manage users](/en/docs/tutorials/managing-admin-users)
-- [Create application keys](/en/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet)
+- [Create application keys](/en/docs/tutorials/api-keys)
 - [License Manager resources](/en/docs/tutorials/license-manager-resources)
 

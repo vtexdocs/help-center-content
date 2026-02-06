@@ -84,7 +84,7 @@ Después de estos pasos, puedes [configurar el apuntamiento de DNS a VTEX](/es/t
 
 > ⚠️ Para las tiendas[ FastStore](https://www.faststore.dev/), también es necesario configurar una dirección con el subdominio `secure`. Para más información, consulta la guía [Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns).
 
-> ❗ Si tu operación tiene más de una cuenta VTEX o [subcuentas](/es/tutorial/crear-subconta-multitienda-multidominio--tutorials_510), no cambies el host de una cuenta a otra. Esto causará fallas en varias partes de tu tienda.
+> ❗ Si tu operación tiene más de una cuenta VTEX o [subcuentas](/es/docs/tutorials/gestionar-multitienda), no cambies el host de una cuenta a otra. Esto causará fallas en varias partes de tu tienda.
 
 ## Cambiar host
 

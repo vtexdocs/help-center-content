@@ -23,7 +23,7 @@ Un _marketplace_ hospedado en la plataforma VTEX y un _seller_, ya sea un _selle
 - [Marketplace y seller conectados](#marketplace-y-seller-conectados)
 - [Intercambio de emails de clientes](#intercambio-de-emails-de-clientes)
 
-> ℹ️ Si quieres empezar a vender tus productos en otros *marketplaces*, usa [Marketplaces e integraciones](/es/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM). Esta funcionalidad facilita la identificación y el contacto entre *marketplaces* y *sellers* que operan en el ecosistema VTEX.
+> ℹ️ Si quieres empezar a vender tus productos en otros *marketplaces*, usa [Marketplaces e integraciones](/es/docs/tutorials/marketplaces-e-integraciones). Esta funcionalidad facilita la identificación y el contacto entre *marketplaces* y *sellers* que operan en el ecosistema VTEX.
 
 ## Conectar marketplace y seller
 
@@ -50,7 +50,7 @@ Para que un _marketplace_ VTEX se conecte con un _seller_ VTEX, es necesario acc
 - **ID del _seller_ (Account Name):** el [account name (nombre de cuenta)](/es/docs/tutorials/que-es-account-name) es el código de identificación del _seller_ en VTEX.
 - **Email del administrador:** dirección electrónica del administrador responsable del _seller_.
 - **Mi ID de afiliado en el _seller_:** código con tres consonantes que identifica al [afiliado](/es/docs/tutorials/que-es-afiliado) creado por el _seller_ en su propio Admin VTEX. 
-- **Descripción:** texto de tono comercial que caracteriza al _seller_. El texto puede aparecer en la vitrina del _marketplace_ cuando se [personaliza el CMS](/es/tutorial/list-of-controls-for-templates--tutorials_563).
+- **Descripción:** texto de tono comercial que caracteriza al _seller_. El texto puede aparecer en la vitrina del _marketplace_ cuando se [personaliza el CMS](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).
 - **Política comercial:** código de identificación de la [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) que el _seller_ desea usar en la venta que se realiza en el _marketplace_.
 - **Fulfillment SellerId:** código de identificación del _seller_ responsable del _fullfilment_ del pedido. Este es un dato opcional pero necesario cuando el _seller_ vende SKU de otro _seller_. No se debe completar cuando el _seller_ vende sus propios SKU.
 - **Catalog EndPoint:** URL del _endpoint_ del catálogo del _seller_.
@@ -60,7 +60,7 @@ Para que un _marketplace_ VTEX se conecte con un _seller_ VTEX, es necesario acc
 
 Si el _seller_ es externo, es decir, no está hospedado en el entorno VTEX, se debe informar al _marketplace_ VTEX.
 
-- **Descripción:** texto de tono comercial que caracteriza al _seller_. El texto puede aparecer en la vitrina del _marketplace_ cuando se [personaliza el CMS](/es/tutorial/list-of-controls-for-templates--tutorials_563).
+- **Descripción:** texto de tono comercial que caracteriza al _seller_. El texto puede aparecer en la vitrina del _marketplace_ cuando se [personaliza el CMS](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).
 - **Email del administrador:** dirección electrónica del administrador responsable de la operación del _seller_.
 - **Fulfillment EndPoint:** URL del _endpoint_ para el _fullfilment_ de los pedidos del _seller_, a través de la cual el _marketplace_ se comunicará con el _seller_.
 - **TaxCode:** número de registro de persona jurídica del _seller_ (CNPJ en Brasil o su equivalente en otros países).

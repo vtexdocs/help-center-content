@@ -35,7 +35,7 @@ Após receber a confirmação do apontamento interno, você deverá realizar o [
 
 Se o acesso à sua loja é restrito por [política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) com regra condicional e sua frente de loja foi construída com [CMS Portal (Legado)](/pt/docs/tracks/cms-portal-legado), você deverá solicitar um apontamento interno especial.
 
-Um exemplo comum são [lojas B2B](/pt/docs/tutorials/b2b-visao-geral), que [restringem o acesso](/pt/tutorial/configurando-b2b-na-vtex--tutorials_238#1-incluir-regra-condicional-na-politica-comercial-do-b2b) a empresas pré-aprovadas.
+Um exemplo comum são [lojas B2B](/pt/docs/tutorials/b2b-visao-geral), que [restringem o acesso](/pt/docs/tutorials/configurando-b2b-na-vtex#1-incluir-regra-condicional-na-politica-comercial-do-b2b) a empresas pré-aprovadas.
 
 Para solicitar um apontamento especial, abra um ticket no [suporte VTEX](https://supporticket.vtex.com/support), indicando qua é a política comercial e regra condicional configurada. Este processo pode levar até três dias úteis.
 

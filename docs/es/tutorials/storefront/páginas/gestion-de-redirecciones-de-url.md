@@ -23,7 +23,7 @@ subcategoryId: 1znnjA17XqaUNdNFr42PW5
 
 Para crear, editar o eliminar redirecciones, el usuario del Admin VTEX debe tener un rol de acceso con el [recurso de License Manager](/es/docs/tutorials/recursos-del-license-manager) **CMS Settings**.  
 
-Puedes asignar al usuario un rol de acceso con el recurso siguiendo las instrucciones del artículo [Gestionar usuarios](/es/docs/tutorials/gestionar-usuarios-administrativos#editando-usuarios), o crear un nuevo rol de acceso que incluya dicho recurso consultando las instrucciones del artículo [Roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol).
+Puedes asignar al usuario un rol de acceso con el recurso siguiendo las instrucciones del artículo [Gestionar usuarios](/es/docs/tutorials/gestionar-usuarios-administrativos#editando-usuarios), o crear un nuevo rol de acceso que incluya dicho recurso consultando las instrucciones del artículo [Roles](/es/docs/tutorials/roles#creando-un-rol).
 
 ## Crear redirección
 

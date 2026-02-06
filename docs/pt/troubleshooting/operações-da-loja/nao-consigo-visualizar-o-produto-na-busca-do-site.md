@@ -33,7 +33,7 @@ Este comportamento pode ocorrer devido aos seguintes cenários:
 
 1. Cadastro incorreto do produto no Catálogo.
 
-2. O termo utilizado não está presente em um dos campos pesquisáveis do produto. Saiba mais em [Configurações para o comportamento da busca](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/23mytRDsEduqLO0Lo7yufy#configuracoes-para-o-comportamento-da-busca) e [Configuração da busca](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx).
+2. O termo utilizado não está presente em um dos campos pesquisáveis do produto. Saiba mais em [Configurações para o comportamento da busca](/pt/docs/tutorials/comportamento-da-busca#configuracoes-para-o-comportamento-da-busca) e [Configuração da busca](/pt/docs/tutorials/configuracao-da-busca).
 
 3. Rota interna redirecionando o resultado da pesquisa para uma página de marca (brand).
 
@@ -47,7 +47,7 @@ Para permitir que os produtos pesquisados sejam exibidos corretamente no resulta
 
 ### Verificação dos campos de cadastro do produto
 
-A ausência do produto em um resultado de busca pode ser atribuída ao preenchimento incorreto de alguns campos durante o processo de [cadastro do produto](/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke). Siga os passos abaixo para verificar os campos __Marca__, __Mostrar no site__ e __Mostrar quando estiver fora de estoque__:
+A ausência do produto em um resultado de busca pode ser atribuída ao preenchimento incorreto de alguns campos durante o processo de [cadastro do produto](/pt/docs/tutorials/adicionar-ou-editar-produto). Siga os passos abaixo para verificar os campos __Marca__, __Mostrar no site__ e __Mostrar quando estiver fora de estoque__:
 
 1. No Admin VTEX, acesse **Catálogo > Todos os produtos**.  
 
@@ -71,7 +71,7 @@ A ausência do produto em um resultado de busca pode ser atribuída ao preenchim
 
 Outro fator que pode contribuir para um produto não ser exibido em um resultado de busca é o comportamento padrão que o app [Rewriter](https://developers.vtex.com/docs/apps/vtex.rewriter) apresenta ao exibir produtos.
 
-Se um termo for registrado no Rewriter como marca, o [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4uSFqyJVCMVMIvVrtz3lxZ) receberá a informação de que ele deverá ser exibido apenas quando estiver presente em uma marca.
+Se um termo for registrado no Rewriter como marca, o [Intelligent Search](/pt/docs/tutorials/explicacao-da-busca) receberá a informação de que ele deverá ser exibido apenas quando estiver presente em uma marca.
 
 Para remover a restrição de busca por marca (*brand*) e permitir os produtos sejam localizados também por termos presentes no nome ou descrição (*full text*), siga os passos abaixo:
 

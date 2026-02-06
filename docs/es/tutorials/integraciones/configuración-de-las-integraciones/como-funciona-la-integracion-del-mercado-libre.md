@@ -106,7 +106,7 @@ Durante la integración, se envía el [precio fijo](/es/docs/tracks/precio-fijo-
 
 ### Promociones
 
-Mercado Libre no permite y VTEX no envía promociones personalizadas. Para poder acceder a una promoción disponible, debes ingresar a [Promociones de Mercado Libre](/es/tutorial/promocoes-do-mercado-livre-beta--3pEqEnru6H2JcZzYVioT5f).
+Mercado Libre no permite y VTEX no envía promociones personalizadas. Para poder acceder a una promoción disponible, debes ingresar a [Promociones de Mercado Libre](/es/docs/tutorials/central-de-promociones-mercado-libre).
 
 Mercado Libre no mostrará un descuento en el precio de un producto como promoción ni el valor de una promoción.
 

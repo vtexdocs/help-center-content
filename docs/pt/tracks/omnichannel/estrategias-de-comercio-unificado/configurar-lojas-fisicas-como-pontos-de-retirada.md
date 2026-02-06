@@ -46,14 +46,14 @@ Para que seu cliente possa comprar (seja na própria loja ou por outro canal) e 
 
 ### Associar pontos de retirada a uma política de envio
 
-Em seguida, você precisa associar os novos pontos de retirada a uma política de envio para que eles funcionem corretamente. Consulte a seção [Associar Ponto de Retirada a uma Política de envio](/pt/tutorial/configurar-pontos-de-retirada-pickup-points--2R5ClQiwe4KoSQgsuiOw4E#2-associar-ponto-de-retirada-a-uma-politica-de-envio) do artigo [Configurar Pontos de Retirada (Pickup Points)](/pt/docs/tutorials/cadastro-de-pontos-de-retirada) para mais informações sobre esse processo.
+Em seguida, você precisa associar os novos pontos de retirada a uma política de envio para que eles funcionem corretamente. Consulte a seção [Associar Ponto de Retirada a uma Política de envio](/pt/docs/tutorials/cadastro-de-pontos-de-retirada#2-associar-ponto-de-retirada-a-uma-politica-de-envio) do artigo [Configurar Pontos de Retirada (Pickup Points)](/pt/docs/tutorials/cadastro-de-pontos-de-retirada) para mais informações sobre esse processo.
 
 ### Associar os pontos de retirada aos estoques das lojas físicas
 
 Agora, você precisa conectar o ponto de retirada ao estoque local da loja física. Ou seja, precisa informar ao sistema que os produtos que serão retirados nesse ponto de retirada (a loja física) sairão do estoque local, ou seja, o estoque da loja. Para fazer isso, siga os passos abaixo.
 
 1. No Admin VTEX da conta franquia, acesse **Envio** > **Estratégia de envio** > __Estoques__, ou digite **Estratégia de envio** na barra de busca no topo da página. No menu lateral do Admin, clique em __Estoque & Entrega__, se já não estiver lá. 
-2. Selecione o estoque local da loja física ou crie um, se ainda não tiver feito isso. Consulte o artigo [Gerenciar Estoque](/pt/tutorial/gerenciar-estoque--tutorials_137#cadastrar-estoque) para saber como cadastrar um novo estoque, se necessário.
+2. Selecione o estoque local da loja física ou crie um, se ainda não tiver feito isso. Consulte o artigo [Gerenciar Estoque](/pt/docs/tutorials/gerenciar-estoque#cadastrar-estoque) para saber como cadastrar um novo estoque, se necessário.
 3. Ative a opção __Estoque inStore__ a partir do botão <i class="fas fa-toggle-on"></i>.
 4. Selecione no menu os pontos de retirada que forem utilizar o estoque da loja física.
 

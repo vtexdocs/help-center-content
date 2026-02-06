@@ -27,7 +27,7 @@ Existem três formas de visualização da página **Calendário**:
 * [Visualização por semana](#visualizacao-por-semana): apresenta os lançamentos agendados para determinada semana.
 * [Visualização por dia](#visualizacao-por-dia): apresenta os lançamentos agendados para o dia selecionado e as modificações referentes ao lançamento selecionado.
 
-O **Calendário** apresenta somente [lançamentos agendados](/pt/tutorial/planner-acoes-em-lancamentos-beta--1zsomdifPEQkdV6RW93JyW#agendar). Para visualizar todos os seus lançamentos, acesse a página [Lançamentos](/pt/docs/tutorials/planner-pagina-lancamentos-beta).
+O **Calendário** apresenta somente [lançamentos agendados](/pt/docs/tutorials/planner-acoes-em-lancamentos-beta#agendar). Para visualizar todos os seus lançamentos, acesse a página [Lançamentos](/pt/docs/tutorials/planner-pagina-lancamentos-beta).
 
 > ⚠️ Na fase beta, os lançamentos precisam estar relacionados ao [CMS](/pt/docs/tracks/cms-vtex-io), pois outros módulos da plataforma VTEX ainda não estão inclusos. Para utilizar **Lançamentos**, é necessário configurar o CMS conforme descrito em [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
@@ -83,7 +83,7 @@ Além de visualizar informações sobre o lançamento, nesta tela, é possível:
 
 **IV - Criar um novo lançamento:** para criar um novo lançamento, clique no botão `Criar lançamento` e siga o passo a passo descrito em [Lançamentos: ações em lançamentos](/pt/docs/tutorials/planner-acoes-em-lancamentos-beta)).
 
-**V - Realizar ações no lançamento:** dependendo do [status de um lançamento](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-lancamentos), o menu três pontos <i class="fas fa-ellipsis-v"></i> vai apresentar diferentes opções de de ações. Para conferir as ações possíveis, veja [Lançamentos: ações em lançamentos](/pt/docs/tutorials/planner-acoes-em-lancamentos-beta)).
+**V - Realizar ações no lançamento:** dependendo do [status de um lançamento](/pt/docs/tutorials/planner-conceito-de-lancamento-beta#status-de-lancamentos), o menu três pontos <i class="fas fa-ellipsis-v"></i> vai apresentar diferentes opções de de ações. Para conferir as ações possíveis, veja [Lançamentos: ações em lançamentos](/pt/docs/tutorials/planner-acoes-em-lancamentos-beta)).
 
 ## Saiba mais
 

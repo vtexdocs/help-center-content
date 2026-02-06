@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 
-Todos os clientes e parceiros têm acesso a atendimento fornecido pelo time de especialistas do [Suporte VTEX](/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). Para contatá-los, é necessário abrir um chamado por meio do sistema de tickets. 
+Todos os clientes e parceiros têm acesso a atendimento fornecido pelo time de especialistas do [Suporte VTEX](/pt/docs/tutorials/como-funciona-o-suporte-da-vtex). Para contatá-los, é necessário abrir um chamado por meio do sistema de tickets. 
 
 Os especialistas estão preparados para proporcionar a melhor experiência possível para a solução dos chamados. Porém, para garantir um atendimento mais rápido e objetivo, existem algumas orientações que devem ser seguidas durante a abertura do ticket. 
 
@@ -76,7 +76,7 @@ Se, após seguir todas as etapas indicadas anteriormente, o problema persistir, 
 | Cenário esperado | Forneça detalhes do cenário que era esperado, em comparação ao que está acontecendo. |
 | Testes e validações | Se você já tentou solucionar o problema, detalhe as ações já executadas, quais documentações foram consultadas e seus resultados. |
 | Escopo do ticket |  - Não enderece mais de um problema no mesmo ticket.   - Não crie mais de um ticket para o mesmo problema.  |
-| Prioridade | Verifique a [prioridade](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9#prioridade-de-chamados) correta de acordo com  a natureza do problema, para que o [SLA](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9#disponibilidade-e-sla-de-atendimento) correto seja aplicado. |
+| Prioridade | Verifique a [prioridade](/pt/docs/tutorials/recursos-de-suporte-global-da-vtex#prioridade-de-chamados) correta de acordo com  a natureza do problema, para que o [SLA](/pt/docs/tutorials/recursos-de-suporte-global-da-vtex#disponibilidade-e-sla-de-atendimento) correto seja aplicado. |
 
 ### Informações relevantes por cenário
 
@@ -97,5 +97,5 @@ Você pode adaptar essas informações ao seu cenário específico e também us�
 #### Saiba mais
 
 - [Abrir chamado no suporte VTEX](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex)
-- [Como funciona o suporte da VTEX?](/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe)
-- [Suporte VTEX - Brasil](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9)
+- [Como funciona o suporte da VTEX?](/pt/docs/tutorials/como-funciona-o-suporte-da-vtex)
+- [Suporte VTEX - Brasil](/pt/docs/tutorials/recursos-de-suporte-global-da-vtex)

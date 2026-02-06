@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 ---
 
-A funcionalidade de [promoção](/pt/tutorial/lista-de-promocoes-beta--4yB7nNdliiFxBTXE19GCIi#criar-promocoes) na página de busca do [Sales App](/pt/docs/tracks/vtex-sales-app-usando-o-app) foi criada para lojistas que desejam destacar ofertas especiais diretamente nos resultados de busca da Página de Listagem de Produtos (PLP). Isso proporciona uma melhor experiência de compra, promove a interação com os clientes e aumenta a visibilidade de produtos com múltiplas promoções.
+A funcionalidade de [promoção](/pt/docs/tutorials/lista-de-promocoes-beta#criar-promocoes) na página de busca do [Sales App](/pt/docs/tracks/vtex-sales-app-usando-o-app) foi criada para lojistas que desejam destacar ofertas especiais diretamente nos resultados de busca da Página de Listagem de Produtos (PLP). Isso proporciona uma melhor experiência de compra, promove a interação com os clientes e aumenta a visibilidade de produtos com múltiplas promoções.
 
 Para refletir uma promoção corretamente no Sales App:
 

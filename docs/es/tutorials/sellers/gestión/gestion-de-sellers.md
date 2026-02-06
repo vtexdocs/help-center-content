@@ -33,7 +33,7 @@ Puedes buscar un _seller_ utilizando la barra de búsqueda, escribiendo su nombr
 
 - **Status:** si el _seller_ está activo o *detenido*.   
 - **Integraciones:** el tipo de integración realizada para cada _seller_.  
-- **Visibilidad:** si la tienda del _seller_ es visible en el _storefront_ de tu _marketplace_, o si es un [seller white label](/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#o-que-e-um-seller-white-label), cuya tienda no aparece en la experiencia de compra.      
+- **Visibilidad:** si la tienda del _seller_ es visible en el _storefront_ de tu _marketplace_, o si es un [seller white label](/es/docs/tutorials/seller-white-label#o-que-e-um-seller-white-label), cuya tienda no aparece en la experiencia de compra.      
 - **Grupos:** permite agrupar a los sellers con características similares. Las opciones de este filtro incluyen los grupos creados al [agregar un seller](/es/docs/tutorials/agregar-seller) o en [Gestionar grupos](https://docs.google.com/document/d/1D5BcikSA6yJTioZXS8pKFZKfhmjks8QL31d1hWd1nec/edit#heading=h.kc7jlls22q4g).  
 
 ## Grupos

@@ -15,13 +15,13 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Nova camada de segurança no Checkout valida hosts via License Manager ao usar o reCAPTCHA.'
 ---
 
-Para reforçar a segurança durante a finalização de compras, adicionamos uma nova camada de proteção na validação do [reCAPTCHA](/pt/docs/tutorials/recaptcha-no-checkout) da loja. A partir de agora, os [hosts](/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450#estrutura-do-endereco-da-loja) da loja são validados pelo [License Manager](/pt/docs/tutorials/perfis-de-acesso), sistema responsável por verificar se um usuário possui as permissões adequadas para realizar ações na plataforma.
+Para reforçar a segurança durante a finalização de compras, adicionamos uma nova camada de proteção na validação do [reCAPTCHA](/pt/docs/tutorials/recaptcha-no-checkout) da loja. A partir de agora, os [hosts](/pt/docs/tutorials/configurar-o-dominio-da-loja#estrutura-do-endereco-da-loja) da loja são validados pelo [License Manager](/pt/docs/tutorials/perfis-de-acesso), sistema responsável por verificar se um usuário possui as permissões adequadas para realizar ações na plataforma.
 
 ## O que mudou?
 
 O sistema do Checkout agora verifica se o host no qual o desafio de validação do reCAPTCHA foi resolvido, como `www.mystore.com`, está cadastrado no License Manager daquela conta. Essa verificação ajuda a evitar acessos maliciosos e tentativas de fraude. 
 
-Para consultar os hosts configurados na sua conta, use o endpoint [Get stores](https://developers.vtex.com/docs/api-reference/license-manager-api#get-/api/vlm/account/stores). Caso deseje cadastrar um novo host na sua loja, leia o artigo [Configurar o domínio da loja](/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450#cadastrar-um-novo-host).
+Para consultar os hosts configurados na sua conta, use o endpoint [Get stores](https://developers.vtex.com/docs/api-reference/license-manager-api#get-/api/vlm/account/stores). Caso deseje cadastrar um novo host na sua loja, leia o artigo [Configurar o domínio da loja](/pt/docs/tutorials/configurar-o-dominio-da-loja#cadastrar-um-novo-host).
 
 ## O que precisa ser feito?
 

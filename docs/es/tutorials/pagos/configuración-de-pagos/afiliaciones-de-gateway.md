@@ -37,7 +37,7 @@ Para agregar un nuevo proveedor de pago o antifraude a tu tienda, sigue los paso
 
 > ℹ️ Si hay otros campos que rellenar además de Clave de aplicación y Token de aplicación (paso 6), la configuración del proveedor de gateway se debe llevar a cabo siguiendo el tutorial correspondiente. Para más información, consulta la subsección [Configuración de Pagos](/es/subcategory/configuracion-de-pagos--3tDGibM2tqMyqIyukqmmMw).
 
-> ❗ Las credenciales utilizadas para rellenar los campos Clave de aplicación y Token de aplicación las debe informar el proveedor de pago para identificar la tienda. No se deben utilizar las credenciales [generadas en el Admin](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet), que empiezan por `vtexappkey-`.
+> ❗ Las credenciales utilizadas para rellenar los campos Clave de aplicación y Token de aplicación las debe informar el proveedor de pago para identificar la tienda. No se deben utilizar las credenciales [generadas en el Admin](/es/docs/tutorials/claves-de-api), que empiezan por `vtexappkey-`.
 
 Para configurar los medios de pago que el proveedor escogido procesará, accede a [Configurar condiciones de pago](/es/docs/tutorials/condiciones-de-pago). 
 

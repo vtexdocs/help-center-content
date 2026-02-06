@@ -22,13 +22,13 @@ Reservations are an essential feature that ensures the product sold is not made 
 
 After a product is sold, it undergoes the following statuses in the store inventory, reflecting the order's progress:
 
-1. [Authorized reservation](/en/tutorial/como-a-reserva-funciona--tutorials_92#reserva-autorizada): Occurs immediately after the order is completed and created.
+1. [Authorized reservation](/en/docs/tutorials/how-does-reservation-work#reserva-autorizada): Occurs immediately after the order is completed and created.
 
-2. [Confirmed reservation](/en/tutorial/como-a-reserva-funciona--tutorials_92#confirmed-reservation): Status reached once the order payment has been approved.
+2. [Confirmed reservation](/en/docs/tutorials/how-does-reservation-work#confirmed-reservation): Status reached once the order payment has been approved.
 
 3. [Acknowledged reservation](/en/docs/tutorials/how-does-reservation-work): The order goes into the "Awaiting fulfillment" status, indicating that the product is about to be shipped.
 
-Products are only withdrawn from inventory when the order reaches the **Awaiting fulfillment** status. The [removal from inventory](/en/tutorial/como-a-reserva-funciona--tutorials_92#removal-from-inventory), which updates the number of available items, can be done manually by the merchant or automatically through the ERP. This process is carried out via [inventory management](/en/docs/tutorials/managing-stock-items) or the endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
+Products are only withdrawn from inventory when the order reaches the **Awaiting fulfillment** status. The [removal from inventory](/en/docs/tutorials/how-does-reservation-work#removal-from-inventory), which updates the number of available items, can be done manually by the merchant or automatically through the ERP. This process is carried out via [inventory management](/en/docs/tutorials/managing-stock-items) or the endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
 ## Solutions
 

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 63f22GypJIBLnMGh1QZUi0
 ---
 
-Logistics or fulfillment is the process of planning and executing the transportation and storage of merchandise; and shipping orders to customers. It is directly related to the customer experience and to the store's business strategy, therefore, your [logistics configuration](/en/tutorial/logistics--53udnvI5eBy8DKo8FOjMoP#configuring-the-logistics-process) is critical to your business. 
+Logistics or fulfillment is the process of planning and executing the transportation and storage of merchandise; and shipping orders to customers. It is directly related to the customer experience and to the store's business strategy, therefore, your [logistics configuration](/en/docs/tutorials/fulfillment-logistics-vtex#configuring-the-logistics-process) is critical to your business. 
 
 The VTEX platform allows you to register and control your inventory, manage shipping rates, control item availability, and track deliveries. 
 
@@ -29,10 +29,10 @@ To find out which logistics configurations are necessary and how to perform them
     * Selects the [loading dock](/en/docs/tutorials/loading-dock) and the time when the carrier must collect the items;
     * Analyzes the [shipping policies](/en/docs/tutorials/shipping-policy) that meet the customer's shipping conditions. Through the shipping policies, the platform analyzes the carriers that can deliver the order and the available [pickup points](/en/docs/tutorials/pickup-points). 
 3. After the calculation, the platform displays the delivery methods available to the customer (with their respective delivery times and prices). The customer chooses between pickup and delivery and places the order. 
-Once the order is placed, the [reservation of the products is authorized](/en/tutorial/how-does-reservation-work--tutorials_92#authorized-reservation). With this, the platform ensures that the items cannot be sold again. 
+Once the order is placed, the [reservation of the products is authorized](/en/docs/tutorials/how-does-reservation-work#authorized-reservation). With this, the platform ensures that the items cannot be sold again. 
 
-4. Once the [payment](/en/docs/tracks/how-the-payments-module-works) is confirmed, the [reservation is also confirmed](/en/tutorial/how-does-reservation-work--tutorials_92#confirmed-reservation).
-5. After the payment is confirmed and the [grace period for order cancellation](/en/docs/tutorials/setting-the-grace-period-for-order-cancellation) expires, the platform waits for the retailer to handle the items. When the retailer [starts handling the order](/en/docs/tutorials/moving-order-to-start-handling-shipping), they indicate to the platform that the order items and their invoices are being prepared. From this stage, the [reservation is acknowledged](/en/tutorial/how-does-reservation-work--tutorials_92#acknowledged-reservation).
+4. Once the [payment](/en/docs/tracks/how-the-payments-module-works) is confirmed, the [reservation is also confirmed](/en/docs/tutorials/how-does-reservation-work#confirmed-reservation).
+5. After the payment is confirmed and the [grace period for order cancellation](/en/docs/tutorials/setting-the-grace-period-for-order-cancellation) expires, the platform waits for the retailer to handle the items. When the retailer [starts handling the order](/en/docs/tutorials/moving-order-to-start-handling-shipping), they indicate to the platform that the order items and their invoices are being prepared. From this stage, the [reservation is acknowledged](/en/docs/tutorials/how-does-reservation-work#acknowledged-reservation).
 6. The store uploads the order [invoice](/en/docs/tracks/invoicing-an-order) on the platform.  
 7. The shipping process begins:
     * For orders that are shipped to the customer's address (delivery), the store sends the packages to the [loading dock](/en/docs/tutorials/loading-dock) where they will be collected by the [carrier](/en/docs/tutorials/carriers-on-vtex). The carrier (chosen through the [shipping policies](/en/docs/tutorials/shipping-policy)) delivers the order.
@@ -92,7 +92,7 @@ The logistics process must be configured according to your store needs. These co
    <td class="t-body pa5" style="min-width: 15rem;">Manage the availability of the items in the inventory. You can track item activity and reservations.
 <body>
 <ul>
-<li>[Product reservations](/en/tutorial/how-does-reservation-work--tutorials_92#how-to-track-reservation-status);</li>
+<li>[Product reservations](/en/docs/tutorials/how-does-reservation-work#how-to-track-reservation-status);</li>
 <li>[How reservations work](/en/docs/tutorials/how-does-reservation-work)<span style="text-decoration:underline;">.</span>
 </li>
 </body>

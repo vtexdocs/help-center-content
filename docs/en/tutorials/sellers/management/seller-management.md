@@ -34,7 +34,7 @@ You can use the search bar to search for a seller by name, ID, company registrat
 
 - **Status:** Whether the seller is active or paused.    
 - **Integration:** The type of integration used for each seller.    
- - **Visibility:** Whether the seller's store is visible in your marketplace storefront or whether the seller is a [white label seller](/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#o-que-e-um-seller-white-label), whose store is not displayed to the customer.     
+ - **Visibility:** Whether the seller's store is visible in your marketplace storefront or whether the seller is a [white label seller](/en/docs/tutorials/white-label-seller#o-que-e-um-seller-white-label), whose store is not displayed to the customer.     
 - **Groups:** Allows you to group sellers with similar characteristics. This filter includes the groups created when [Adding a seller](/en/docs/tutorials/adding-a-seller) or Managing groups.  
 
 ## Groups

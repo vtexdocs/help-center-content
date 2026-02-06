@@ -33,7 +33,7 @@ This behavior can occur due to the following reasons:
 
 1. Incorrect product registration in the Catalog.
 
-2. The term used is not in one of the product's searchable fields. Learn more about [Search behavior configuration](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/23mytRDsEduqLO0Lo7yufy#standard-search-behavior) and [Search configuration](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx).
+2. The term used is not in one of the product's searchable fields. Learn more about [Search behavior configuration](/en/docs/tutorials/search-behavior#standard-search-behavior) and [Search configuration](/en/docs/tutorials/search-configuration).
 
 3. Internal route redirecting the search result to a brand page.
 
@@ -47,7 +47,7 @@ To enable the searched products to be displayed correctly in the site's search r
 
 ### Verifying product registration fields
 
-A missing product in a search result may come from incomplete fields during the [product registration](/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke). Follow the steps below to check the __Brand, Show on site__, and __Show when out of stock__ fields:
+A missing product in a search result may come from incomplete fields during the [product registration](/en/docs/tutorials/adding-or-editing-products). Follow the steps below to check the __Brand, Show on site__, and __Show when out of stock__ fields:
 
 1. In the Admin VTEX, go to **Catalog > All Products**.
 
@@ -71,7 +71,7 @@ A missing product in a search result may come from incomplete fields during the 
 
 Another reason a product may not be displayed in search results is the [Rewriter](https://developers.vtex.com/docs/apps/vtex.rewriter) app's default behavior when displaying products.
 
-If a term is listed in Rewriter as a brand, [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4uSFqyJVCMVMIvVrtz3lxZ) will understand that it should only be displayed when it is included in a brand name.
+If a term is listed in Rewriter as a brand, [Intelligent Search](/en/docs/tutorials/explained-search) will understand that it should only be displayed when it is included in a brand name.
 
 To remove the restriction on searching by *brand* and allow products to be found also by terms in the name or description (*full text*), follow the steps below:
 

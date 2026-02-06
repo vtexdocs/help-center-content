@@ -21,7 +21,7 @@ Na visualização padrão dessa tela são listados todos os pedidos da loja a pa
 
 Além disso, a busca oferece um filtro bastante flexível, que explicaremos em detalhes no [próximo artigo](/pt/docs/tracks/como-funcionam-os-filtros-do-modulo-pedidos).
 
-Para entender a lista de pedidos em detalhes, consulte o artigo [Lista de pedidos - Visão geral](/pt/tutorial/lista-de-pedidos--tutorials_200)
+Para entender a lista de pedidos em detalhes, consulte o artigo [Lista de pedidos - Visão geral](/pt/docs/tutorials/todos-os-pedidos)
 
 Além de pesquisar pedidos em **Pedidos > Todos os pedidos**, você pode buscar pedidos a partir de qualquer página no Admin VTEX usando a barra de busca global no topo da página. Por padrão, a busca está configurada para `Páginas`. Para buscar um pedido, clique sobre a barra, selecione a opção `Pedidos` e utilize algum dos seguintes critérios:
 

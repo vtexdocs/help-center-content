@@ -52,7 +52,7 @@ The fields in this section provide general product details:
 * **Active:** To activate the product, enable the toggle <i class="fas fa-toggle-on" aria-hidden="true"></i> **Active**. To keep it inactive, leave the toggle switch <i class="fas fa-toggle-off" aria-hidden="true"></i> disabled. Learn more about product statuses in the article [Products and SKUs](/en/docs/tutorials/products-and-skus).
 * **Description:** Enter general product information in the text box. This content is displayed to customers in the storefront, so we recommend creating a simple and clear summary.
 
-  > ℹ️ This field allows you to add an image to the product description using an HTML tag that contains the image URL. However, we recommend managing your catalog images through [SKU media](/en/tutorial/adding-or-editing-skus--4ryZ6J45kwn3jDiQBxGiiN#media).
+  > ℹ️ This field allows you to add an image to the product description using an HTML tag that contains the image URL. However, we recommend managing your catalog images through [SKU media](/en/docs/tutorials/adding-or-editing-skus#media).
 
 * **Additional description:** When you activate the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i> **Additional description**, a text box displays for including additional product information, such as a summary.
 * **Brand*:** Type or search for the product [brand](/en/docs/tutorials/what-is-a-brand) name and select the desired option. Make sure the [brand exists](/en/docs/tracks/create-brands) and is active.

@@ -96,11 +96,11 @@ Após fechar o pedido, o preço manual precisa ser aprovado pelo administrador d
 
 Usuários com o perfil de Call Center operator podem visualizar, acompanhar e realizar alterações nos pedidos realizados na loja a partir da visão do Admin, na página **Pedidos > Todos os pedidos**.
 
-Leia o tutorial sobre a [Estrutura do Gerenciamento de pedidos](/pt/tutorial/estrutura-da-pagina-do-oms--2dDZmUUFXWeyQ4s2gqiY0A#todos-os-pedidos) para saber mais.
+Leia o tutorial sobre a [Estrutura do Gerenciamento de pedidos](/pt/docs/tutorials/todos-os-pedidos#todos-os-pedidos) para saber mais.
 
 Para entender as principais funcionalidades da página **Todos os pedidos**, confira os artigos:
 
 * [Alterar itens do pedido](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado).
 * [Cancelar pedido](/pt/docs/tutorials/como-cancelar-pedido).
-* [Devolução de itens do pedido](/pt/tutorial/como-fazer-a-devolucao-de-itens--tutorials_191).
+* [Devolução de itens do pedido](/pt/docs/tutorials/como-devolver-itens-do-pedido).
 * [Verificar detalhes de erros nos pedidos](/pt/docs/tutorials/como-verificar-detalhes-de-erros-nos-pedidos).

@@ -28,7 +28,7 @@ This article covers the following information about the feature:
 
 ## Account Architecture
 
-The [marketplace](/en/docs/tutorials/marketplace-strategies-at-vtex) is the environment where the product is sold, also called storefront, whereas the [seller](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#selling-on-marketplaces) owns the inventory and ships the orders.  
+The [marketplace](/en/docs/tutorials/marketplace-strategies-at-vtex) is the environment where the product is sold, also called storefront, whereas the [seller](/en/docs/tutorials/marketplace-strategies-at-vtex#selling-on-marketplaces) owns the inventory and ships the orders.  
 
 When stores sell their products in a marketplace, we have a two-level relationship between seller and marketplace. But VTEX's architecture allows stores to operate both as marketplaces and sellers, expanding the range of possible combinations. 
 
@@ -69,7 +69,7 @@ Some of the features available in the traditional marketplace model are not avai
 
 ### Availability
 
-This Multilevel Omnichannel Inventory feature is only available for [VTEX marketplaces](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#being-a-vtex-marketplace). To use it, the marketplace (level 1) must configure it for each direct seller (level 2) they want to include. You can do this by adding new sellers or editing the configuration of existing sellers in your store. Learn more in the [How to configure it](#how-to-configure-it) section, or in our [article on the Developer Portal](https://developers.vtex.com/vtex-rest-api/docs/multilevel-omnichannel-inventory).
+This Multilevel Omnichannel Inventory feature is only available for [VTEX marketplaces](/en/docs/tutorials/marketplace-strategies-at-vtex#being-a-vtex-marketplace). To use it, the marketplace (level 1) must configure it for each direct seller (level 2) they want to include. You can do this by adding new sellers or editing the configuration of existing sellers in your store. Learn more in the [How to configure it](#how-to-configure-it) section, or in our [article on the Developer Portal](https://developers.vtex.com/vtex-rest-api/docs/multilevel-omnichannel-inventory).
 
 ### Splitting payouts
 
@@ -150,7 +150,7 @@ The marketplace should follow the steps below to configure it on already integra
 
 ### Newly integrated sellers
 
-If the marketplace wants to [add a new seller](/en/docs/tutorials/adding-a-seller) configuring a Multilevel Omnichannel Inventory from scratch, please follow the instructions in [Add seller](/en/docs/tutorials/adding-a-seller), and fill in the `Fulfillment Endpoint` field following steps 4 and 5 of the tutorial in the [Integrated sellers section](/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4#integrated-sellers). 
+If the marketplace wants to [add a new seller](/en/docs/tutorials/adding-a-seller) configuring a Multilevel Omnichannel Inventory from scratch, please follow the instructions in [Add seller](/en/docs/tutorials/adding-a-seller), and fill in the `Fulfillment Endpoint` field following steps 4 and 5 of the tutorial in the [Integrated sellers section](/en/docs/tutorials/multilevel-omnichannel-inventory#integrated-sellers). 
 
 ### Example
 

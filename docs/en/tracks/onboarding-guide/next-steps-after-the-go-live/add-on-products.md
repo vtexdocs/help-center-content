@@ -92,7 +92,7 @@ Requesting this solution is simple and can be done in a few minutes. To do so, a
 - Synchronization of shipping tables between Correios and VTEX. Every update made by Correios is automatically displayed in the VTEX environment.
 - Shipping tracking automatically updated and added to orders.
 - Shipping labels available to be printed via the VTEX Admin ([Ready to Dispatch](/en/docs/tutorials/ready-to-dispatch) module) or via [API](https://developers.vtex.com/docs/guides/vtex-shipping-network-labels-integration) for integration with external systems (e.g., ERP, WMS).
-- Direct communication channel with Correios in the Admin through the [Information request](/en/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq#solicitar-informacoes-do-pedido-aos-correios).
+- Direct communication channel with Correios in the Admin through the [Information request](/en/docs/tutorials/deliveries-progress-vtex-shipping-network#solicitar-informacoes-do-pedido-aos-correios).
 
 Learn more on the [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/) page.
 
@@ -102,6 +102,6 @@ Learn more on the [VTEX Shipping Network Correios](https://vtex.com/br-pt/shippi
 
 When requesting VTEX Shield, you can choose from the following features:
 
-* [Security Monitor](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh#security-monitor)
-* [Web Application Firewall (WAF)](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh#web-application-firewall-waf)
+* [Security Monitor](/en/docs/tutorials/vtex-shield#security-monitor)
+* [Web Application Firewall (WAF)](/en/docs/tutorials/vtex-shield#web-application-firewall-waf)
 

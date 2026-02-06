@@ -27,7 +27,7 @@ Estas nuevas funcionalidades aumentan el control sobre la comunicación entre si
 
 ## ¿Qué cambió?
 
-VTEX Shield ya permitía contratar [Web Application Firewall (WAF)](/es/docs/tutorials/web-application-firewall-waf), [Security Monitor](/es/docs/tutorials/security-monitor) y [Data Protection Plus](/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh#data-protection-plus) como capas de seguridad adicionales. Ahora también puedes optar por los certificados SSL personalizados y el protocolo mTLS.
+VTEX Shield ya permitía contratar [Web Application Firewall (WAF)](/es/docs/tutorials/web-application-firewall-waf), [Security Monitor](/es/docs/tutorials/security-monitor) y [Data Protection Plus](/es/docs/tutorials/vtex-shield#data-protection-plus) como capas de seguridad adicionales. Ahora también puedes optar por los certificados SSL personalizados y el protocolo mTLS.
 
 ### Certificados SSL personalizados
 
@@ -41,7 +41,7 @@ Consulta más información en [Certificados SSL personalizados](/es/docs/tutoria
 
 El protocolo mTLS proporciona mayor protección en las integraciones entre VTEX y sistemas externos como ERP, WMS o tienda headless.
 
-A diferencia del protocolo TLS tradicional, que solo requiere que el servidor compruebe su identidad, el protocolo mTLS garantiza la autenticación bidireccional exigiendo que [tanto el cliente como el servidor presenten certificados válidos](/es/tutorial/mutual-transport-layer-security-mtls--6YR3SoynJMfeEKGlY1Cqlo#arquitetura-cliente-servidor) antes de intercambiar datos. Esta práctica reduce el riesgo de conexiones maliciosas o no autorizadas.
+A diferencia del protocolo TLS tradicional, que solo requiere que el servidor compruebe su identidad, el protocolo mTLS garantiza la autenticación bidireccional exigiendo que [tanto el cliente como el servidor presenten certificados válidos](/es/docs/tutorials/mutual-transport-layer-security-mtls#arquitetura-cliente-servidor) antes de intercambiar datos. Esta práctica reduce el riesgo de conexiones maliciosas o no autorizadas.
 
 Consulta más información en [Mutual Transport Layer Security (mTLS)](/es/docs/tutorials/mutual-transport-layer-security-mtls).
 

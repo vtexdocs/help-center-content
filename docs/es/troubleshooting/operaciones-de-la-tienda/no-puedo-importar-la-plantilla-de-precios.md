@@ -42,7 +42,7 @@ Para evitar este escenario, utiliza únicamente las plantillas modelo disponible
 
 ### Datos rellenados
 
-Las plantillas rellenadas con datos incorrectos pueden generar errores durante la importación. Esto puede suceder si, por ejemplo, el ID del producto está ingresado donde correspondería tener el ID del SKU o si [hay una modificación de precio para un SKU](/es/tutorial/alteracion-de-precio-de-sku--tutorials_95#regla-para-alteracion-de-precio) registrado que lo aumente en más de un 70 % o lo disminuya en más de un 30 % en relación con el valor actual.
+Las plantillas rellenadas con datos incorrectos pueden generar errores durante la importación. Esto puede suceder si, por ejemplo, el ID del producto está ingresado donde correspondería tener el ID del SKU o si [hay una modificación de precio para un SKU](/es/docs/tutorials/alteracion-de-precio-de-sku#regla-para-alteracion-de-precio) registrado que lo aumente en más de un 70 % o lo disminuya en más de un 30 % en relación con el valor actual.
 
 Comprueba que los campos de tu plantilla estén rellenados según las guías de los siguientes artículos:
 

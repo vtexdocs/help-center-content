@@ -52,12 +52,12 @@ Assim como na promoção, o agendamento de taxas é feito durante a sua criaçã
 2. Clique na aba **Taxas**.
 3. Clique no botão `Nova Taxa`.
 4. Preencha o campo **Validade**, na seção **Quais os dados gerais desta taxa?**, com as datas e horas desejadas para o agendamento da taxa. Lembrando que para realizar o agendamento a data e hora devem ser futuras às data e hora de criação da taxa.
-5. Preencha [os restantes campos da taxa](/pt/tutorial/creating-surchargestaxes--tutorials_321#campos) segundo desejado.
+5. Preencha [os restantes campos da taxa](/pt/docs/tutorials/como-criar-taxaimposto#campos) segundo desejado.
 6. Clique em `Salvar` para finalizar.
 
 ## Agendar conteúdo
 
-O agendamento de conteúdo pelo Site Editor pode ser feito tanto pela [criação](/pt/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37#criando-conteudo) quanto pela [edição](/pt/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37#editando-conteudo) de bloco. 
+O agendamento de conteúdo pelo Site Editor pode ser feito tanto pela [criação](/pt/docs/tutorials/gerenciando-conteudo-de-pagina-e-template#criando-conteudo) quanto pela [edição](/pt/docs/tutorials/gerenciando-conteudo-de-pagina-e-template#editando-conteudo) de bloco. 
 
 > ⚠️ O agendamento de conteúdo está disponível apenas para lojas desenvolvidas usando [VTEX IO](https://vtex.com/br-pt/store-framework/).
 

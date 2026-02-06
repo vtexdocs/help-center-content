@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
-[Marketplaces](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#being-a-vtex-marketplace) need to review and approve offers submitted by sellers to add products to the catalog. In the VTEX Admin, this [cataloging process](/en/docs/tutorials/manual-sku-cataloging) is done through the Received SKUs page.
+[Marketplaces](/en/docs/tutorials/marketplace-strategies-at-vtex#being-a-vtex-marketplace) need to review and approve offers submitted by sellers to add products to the catalog. In the VTEX Admin, this [cataloging process](/en/docs/tutorials/manual-sku-cataloging) is done through the Received SKUs page.
 
 Quality criteria are important for the marketplace's operation so that the offers submitted to the page meet the requirements relevant to the curation of your catalog.
 

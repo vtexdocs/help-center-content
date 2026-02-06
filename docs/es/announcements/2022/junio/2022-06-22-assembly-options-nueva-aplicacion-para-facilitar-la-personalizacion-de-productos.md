@@ -26,7 +26,7 @@ Para simplificar el uso de esta funcionalidad, hemos desarrollado la aplicación
 
 ## ¿Qué cambió?
 
-Antes, las opciones de ensamblaje se creaban manualmente en **Productos > Catálogo > Anexos**, como se describe en el artículo [Implementación de Assembly Options](/es/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH#implementacion-de-assembly-options).
+Antes, las opciones de ensamblaje se creaban manualmente en **Productos > Catálogo > Anexos**, como se describe en el artículo [Implementación de Assembly Options](/es/docs/tutorials/assembly-options#implementacion-de-assembly-options).
 
 Ahora, con la aplicación, puedes realizar esta configuración en la nueva página **Productos > Opciones de ensamblaje** en el Admin VTEX, utilizando una interfaz más sencilla y específica para cada escenario.
 

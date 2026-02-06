@@ -49,7 +49,7 @@ To export data from the Master Data v1 through the Admin dashboard, follow these
 2. Click the **Applications** tab.
 3. Click the view icon (on the right) of the desired data entity.
 ![Master Data view button](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/security/store-security/data-subject-rights_1.png)
-4. Use the [Master Data v1 filter](/en/tutorial/filtering-data-on-master-data--tutorials_778#how-to-use-filters) to filter only the data for the desired user. Use the `email` or `user ID` as the filter field.
+4. Use the [Master Data v1 filter](/en/docs/tutorials/filtering-data-on-master-data#how-to-use-filters) to filter only the data for the desired user. Use the `email` or `user ID` as the filter field.
 5. Click `Export XLS`.
 6. Select the `Select all fields` option.
 7. If you want, change the email address to which you want to send the report.
@@ -57,7 +57,7 @@ To export data from the Master Data v1 through the Admin dashboard, follow these
 
 Repeat this step for customer data (**CL**) and address (**AD**) entities and any other entity you have configured to get personal information from your customers.
 
-> ℹ️ Learn more about [filtering data](/en/tutorial/filtering-data-on-master-data--tutorials_778#how-to-use-filters) and [exporting data](/en/docs/tutorials/exporting-data) in the Master Data v1 interface.
+> ℹ️ Learn more about [filtering data](/en/docs/tutorials/filtering-data-on-master-data#how-to-use-filters) and [exporting data](/en/docs/tutorials/exporting-data) in the Master Data v1 interface.
 
 #### Master Data v2
 

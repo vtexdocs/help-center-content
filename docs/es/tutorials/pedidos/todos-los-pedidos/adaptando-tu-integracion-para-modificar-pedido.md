@@ -40,7 +40,7 @@ Para personalizar una plantilla de email en el Admin VTEX, copia y pega el sigui
 
 ### Gestión de la modificación de pedidos en el Admin VTEX
 
-Las tiendas que utilizan la versión actual de la funcionalidad de modificación de pedidos tendrán acceso inmediato a las interfaces actualizadas de **Modificar pedido** en el Admin VTEX una vez que el equipo de VTEX instale la nueva solución. Esto incluye una nueva gestión y comunicación de [Mi cuenta](/es/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#pedidos) y de [plantillas de emails transaccionales](/es/docs/tutorials/plantillas-de-emails-transaccionales-del-pedido).
+Las tiendas que utilizan la versión actual de la funcionalidad de modificación de pedidos tendrán acceso inmediato a las interfaces actualizadas de **Modificar pedido** en el Admin VTEX una vez que el equipo de VTEX instale la nueva solución. Esto incluye una nueva gestión y comunicación de [Mi cuenta](/es/docs/tutorials/como-funciona-mi-cuenta#pedidos) y de [plantillas de emails transaccionales](/es/docs/tutorials/plantillas-de-emails-transaccionales-del-pedido).
 
 ### Gestión de la modificación de pedidos vía API
 

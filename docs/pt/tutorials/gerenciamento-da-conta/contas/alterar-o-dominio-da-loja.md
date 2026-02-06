@@ -35,7 +35,7 @@ Antes de começar, certifique-se de:
 
 Siga as etapas abaixo para realizar a mudança de domínio:
 
-1. Crie o novo host no Admin VTEX, seguindo o passo a passo descrito em [Cadastrar um novo host](/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450#cadastrar-um-novo-host). Nesse momento, o DNS do novo domínio ainda não deve estar apontado para a VTEX.
+1. Crie o novo host no Admin VTEX, seguindo o passo a passo descrito em [Cadastrar um novo host](/pt/docs/tutorials/configurar-o-dominio-da-loja#cadastrar-um-novo-host). Nesse momento, o DNS do novo domínio ainda não deve estar apontado para a VTEX.
 
 2. No Admin VTEX, verifique as configurações do Checkout em **Configurações da Loja > Storefront > Checkout**, conforme descrito em [Configurar template no SmartCheckout](/pt/faq/configurar-template-no-smartcheckout/). 
 

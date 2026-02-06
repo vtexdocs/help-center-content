@@ -25,7 +25,7 @@ En la sección **Pedidos**, puedes ver toda la información relativa al progreso
 
 Esta sección incluye las siguientes páginas:
 
-- [Todos los pedidos](/es/v4/docs/todos-los-pedidos--6JHeydzIft46VY7JTEpbJT) 
+- [Todos los pedidos](/es/docs/tutorials/todos-los-pedidos) 
 - [Detalles del pedido](/es/docs/tutorials/pagina-de-detalles-del-pedido)   
 - [Transacciones](/es/docs/tutorials/transacciones-pci-gateway) 
 - [Conciliación bancaria](/es/docs/tutorials/conciliaciones-bancarias) 

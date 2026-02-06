@@ -62,7 +62,7 @@ Para crear un lanzamiento, sigue las instrucciones paso a paso a continuación:
 6. Haz clic en `Crear lanzamiento`.
 7. Rellena el campo _Nombre_ con un nombre para el lanzamiento.
 
-  > ℹ️ En esta etapa, no es obligatorio rellenar los campos **Día de publicación** y **Hora**. Esto puede determinarse más adelante, tal como veremos en [Programar lanzamientos](/es/tutorial/modulo-lancamentos-beta--n2tN0WX5I6MJMbrJrS0Kb#programar-lanzamientos).
+  > ℹ️ En esta etapa, no es obligatorio rellenar los campos **Día de publicación** y **Hora**. Esto puede determinarse más adelante, tal como veremos en [Programar lanzamientos](/es/docs/tutorials/modulo-de-lanzamientos-beta#programar-lanzamientos).
 
 8. Haz clic en `Crear`.
 
@@ -119,7 +119,7 @@ Al crear un lanzamiento, se puede definir o no la fecha de publicación. Existen
 - **Desprogramar:** cancelar la fecha de publicación, lo cual hace que el lanzamiento pase al status `No programado`.
 - **Reprogramar:** definir una fecha nueva para un lanzamiento que ya tenía una fecha determinada.
 
-> ℹ️ Al programar o reprogramar la publicación de un lanzamiento es posible seleccionar la opción **Agregar fecha de finalización** para definir un plazo en el que se quitará la publicación del lanzamiento. La fecha de finalización no significa que se [eliminará el lanzamiento](/es/tutorial/modulo-lancamentos-beta--n2tN0WX5I6MJMbrJrS0Kb#e#eliminar-lanzamientos), sino que se archivará y podrá publicarse nuevamente en cualquier momento.
+> ℹ️ Al programar o reprogramar la publicación de un lanzamiento es posible seleccionar la opción **Agregar fecha de finalización** para definir un plazo en el que se quitará la publicación del lanzamiento. La fecha de finalización no significa que se [eliminará el lanzamiento](/es/docs/tutorials/modulo-de-lanzamientos-beta#e), sino que se archivará y podrá publicarse nuevamente en cualquier momento.
 
 ### Programar
 

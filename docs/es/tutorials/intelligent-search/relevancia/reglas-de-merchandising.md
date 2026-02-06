@@ -32,7 +32,7 @@ Las reglas de merchandising pueden configurarse para diferentes casos de uso. Se
 
 ## Cómo funciona
 
-Las reglas de merchandising son una configuración de prioridad. Esto significa que si creas una regla para promover un producto específico dada una determinada búsqueda, dicho producto se mostrará al principio de los resultados, independientemente de las demás[ configuraciones de relevancia](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
+Las reglas de merchandising son una configuración de prioridad. Esto significa que si creas una regla para promover un producto específico dada una determinada búsqueda, dicho producto se mostrará al principio de los resultados, independientemente de las demás[ configuraciones de relevancia](/es/docs/tutorials/reglas-de-relevancia).
 
 Las reglas de activación definen cómo se aplican las reglas de merchandising. En otras palabras, las reglas de activación son [condiciones](/es/docs/tutorials/condiciones-de-las-reglas-de-merchandising) que identifican los escenarios en que debe activarse el efecto.
 
@@ -49,7 +49,7 @@ Toma en cuenta las siguientes recomendaciones al utilizar reglas de merchandisin
 * Gestiona las reglas de merchandising considerando las [reglas de relevancia](/es/docs/tutorials/reglas-de-relevancia) y los [sinónimos](/es/subcategory/sinonimos--BBzMtJan1UTxC9QZODnlN) de Intelligent Search. Asegúrate de que estos tres elementos estén alineados para evitar conflictos y proporcionar una experiencia de búsqueda coherente y eficaz.
 * No utilices reglas de merchandising con efectos opuestos para los mismos ítems, ya que pueden producirse comportamientos inesperados en los resultados de búsqueda.
 * La creación de muchas reglas de merchandising puede tener un impacto considerable en las búsquedas orgánicas.
-* Ten cuidado al utilizar [reglas de activación](/es/tutorial/criar-regra-de-merchandising-editor-manual--3jrXB1MSvi14ezvKancorc#regras-de-ativacao) globales, ya que impactarán todas las búsquedas.
+* Ten cuidado al utilizar [reglas de activación](/es/docs/tutorials/crear-regla-de-merchandising-editor-manual#regras-de-ativacao) globales, ya que impactarán todas las búsquedas.
 
 > ⚠️ Si los resultados de búsqueda no son adecuados, no recomendamos crear reglas de merchandising para corregirlos. Esto podría deberse a otro tipo de problema de configuración. En ese caso, ponte en contacto con nuestro [soporte](https://support.vtex.com/hc/es-419).
 

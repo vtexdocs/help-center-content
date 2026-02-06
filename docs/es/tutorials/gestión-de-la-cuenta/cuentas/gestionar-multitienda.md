@@ -23,7 +23,7 @@ Esta guía describe cómo crear, configurar y eliminar una multitienda.
 
 La creación de una multitienda no conlleva costos para el retailer. Sin embargo, [contratar una política adicional](/es/docs/tutorials/contratacion-de-politicas-comerciales-adicionales), de ser necesario, sí tiene costos adicionales.
 
-Para crear una nueva tienda, sigue las instrucciones de la sección **Crear tienda** de la guía [Gestión de la cuenta](/es/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq#crear-tienda).
+Para crear una nueva tienda, sigue las instrucciones de la sección **Crear tienda** de la guía [Gestión de la cuenta](/es/docs/tutorials/gestion-de-la-cuenta#crear-tienda).
 
 Debes especificar el dominio de tu nueva tienda. Más información en la guía [Configurar el dominio de la tienda](/es/docs/tutorials/configurar-dominio-de-la-tienda).
 
@@ -70,7 +70,7 @@ Para generar el archivo XML de la nueva tienda automáticamente, sigue las instr
 
 ## Eliminar multitienda
 
-Para eliminar una multitienda existente, sigue las instrucciones de la sección **Eliminar tienda** de la guía [Gestión de la cuenta](/es/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq#eliminar-tienda).
+Para eliminar una multitienda existente, sigue las instrucciones de la sección **Eliminar tienda** de la guía [Gestión de la cuenta](/es/docs/tutorials/gestion-de-la-cuenta#eliminar-tienda).
 
 > ⚠️ El nombre de la subcuenta eliminada no puede volver a utilizarse.
 

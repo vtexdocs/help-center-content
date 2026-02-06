@@ -16,7 +16,7 @@ announcementSynopsisEN: 'To allow a more comprehensive analysis of the search pe
 ---
 
 
-To analyze and monitor the performance of [VTEX lntelligent Search](/en/docs/tracks/overview-intelligent-search), you can see and export [reports](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m#) with data related to searches made in the store. To allow a more comprehensive analysis of the search performance, we include the metrics of [Autocomplete](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4gXFsEWjF7QF7UtI2GAvhL#) in these reports.
+To analyze and monitor the performance of [VTEX lntelligent Search](/en/docs/tracks/overview-intelligent-search), you can see and export [reports](/en/docs/tutorials/analytics) with data related to searches made in the store. To allow a more comprehensive analysis of the search performance, we include the metrics of [Autocomplete](/en/docs/tutorials/autocomplete) in these reports.
 
 ## What changed?
 Previously it was only possible to see, and export reports on search results and terms used in the search. Now it is also possible to analyze the performance of search suggestions made by Autocomplete.

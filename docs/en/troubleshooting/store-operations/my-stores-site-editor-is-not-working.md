@@ -83,7 +83,7 @@ To solve this error, see the following instructions:
 
 One possible reason for this issue might be related to the lack of the `CMS GraphQL API` License Manager [resource](/en/docs/tutorials/license-manager-resources) in a [user role](/en/docs/tutorials/roles) for content management.
 
-Ensure that users are associated with the `CMS GraphQL API` resource within their user roles by either [creating a new role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) or editing an existing one.
+Ensure that users are associated with the `CMS GraphQL API` resource within their user roles by either [creating a new role](/en/docs/tutorials/roles#creating-a-role) or editing an existing one.
 
 If you still can't manage the content even after adding the `CMS GraphQL API` resource to the user role, see the next section: [Check the domain's main locale](#checking-the-domain's-main-locale).
 

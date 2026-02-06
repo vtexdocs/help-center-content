@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
-Seller Portal é uma edição da plataforma VTEX voltada para [sellers](/pt/tutorial/marketplace-strategies-at-vtex--tutorials_402#vender-em-marketplace) se conectarem e venderem seus produtos em marketplaces. Com o portal, sellers possuem todas as
+Seller Portal é uma edição da plataforma VTEX voltada para [sellers](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#vender-em-marketplace) se conectarem e venderem seus produtos em marketplaces. Com o portal, sellers possuem todas as
 funcionalidades essenciais para a operação de ecommerce em grandes vitrines, trazendo visibilidade e conversão de venda.
 
 Por meio do Seller Portal, sellers conseguem:
@@ -72,5 +72,5 @@ A **URL do Seller Portal** indicada é o link que você usará para acessar sua 
 
 ___________________
 
-Uma vez concluídos esses passos, é necessário [configurar seu Seller Portal,](/pt/docs/tutorials/seller-portal-primeiros-passos) e aguardar até que o [marketplace ative sua loja](/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#conectar-seller).
+Uma vez concluídos esses passos, é necessário [configurar seu Seller Portal,](/pt/docs/tutorials/seller-portal-primeiros-passos) e aguardar até que o [marketplace ative sua loja](/pt/docs/tutorials/marketplace-convite-de-sellers#conectar-seller).
 

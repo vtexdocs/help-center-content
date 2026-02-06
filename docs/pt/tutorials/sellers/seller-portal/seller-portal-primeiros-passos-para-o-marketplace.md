@@ -49,10 +49,10 @@ Ao marketplace, cabe a responsabilidade do onboarding de novos sellers. Ou seja,
 
 Nas próximas seções, as etapas atribuídas ao marketplace foram organizadas em:
 
-- [Convidar seller](/pt/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#convidar-seller)
-- [Ativar seller](/pt/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#ativar-seller)
-- [Compartilhar catálogo (opcional)](/pt/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#compartilhar-catalogo-opcional)
-- [Catalogar anúncios](/pt/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#catalogar-anuncios)
+- [Convidar seller](/pt/docs/tutorials/seller-portal-primeiros-passos-para-o-marketplace#convidar-seller)
+- [Ativar seller](/pt/docs/tutorials/seller-portal-primeiros-passos-para-o-marketplace#ativar-seller)
+- [Compartilhar catálogo (opcional)](/pt/docs/tutorials/seller-portal-primeiros-passos-para-o-marketplace#compartilhar-catalogo-opcional)
+- [Catalogar anúncios](/pt/docs/tutorials/seller-portal-primeiros-passos-para-o-marketplace#catalogar-anuncios)
 
 ### Convidar seller
 
@@ -60,7 +60,7 @@ A página **Convite de Sellers** é onde operadores de marketplace [convidam sel
 
 Por meio do Seller Portal, marketplaces hospedados na VTEX podem se conectar com sellers que têm conta VTEX, sellers hospedados em outras plataformas ou sellers que não estão hospedados em nenhuma plataforma. Ao aceitar o convite, o seller escolhe se deseja integrar sua conta VTEX existente ou criar uma conta nova para vender no marketplace.
 
-> ℹ️ Uma vez que o [marketplace convida o seller](/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#convidar-seller), um email é enviado ao seller com um link para criação de conta no Seller Portal. O link é válido por sete dias e, após acessá-lo, o seller tem seis horas para completar o formulário de cadastro, sem interrupções.
+> ℹ️ Uma vez que o [marketplace convida o seller](/pt/docs/tutorials/marketplace-convite-de-sellers#convidar-seller), um email é enviado ao seller com um link para criação de conta no Seller Portal. O link é válido por sete dias e, após acessá-lo, o seller tem seis horas para completar o formulário de cadastro, sem interrupções.
 
 Caso o seller não conclua o cadastro no período previsto, o marketplace precisa enviar o convite novamente. Isso pode ser feito pelo Admin VTEX, em **Marketplace > Convite de Sellers**. É preciso selecionar o seller na lista e clicar no botão **Reenviar convite**.
 
@@ -69,11 +69,11 @@ Caso o seller não conclua o cadastro no período previsto, o marketplace precis
 Para saber mais, confira os seguintes artigos:
 
 - [Marketplace: Convite de Sellers](/pt/docs/tutorials/marketplace-convite-de-sellers)
-- [Seller: criar conta no Seller Portal](/pt/tutorial/seller-criar-conta-no-seller-portal-beta--3gn2Q5rMhgu0jjX7AiiHcs#criar-conta-no-seller-portal)
+- [Seller: criar conta no Seller Portal](/pt/docs/tutorials/seller-criar-conta-no-seller-portal#criar-conta-no-seller-portal)
 
 ### Ativar seller
 
-Uma vez que o seller aceite o convite do marketplace e finalize o registro da sua conta no Seller Portal, o passo seguinte é a ativação para conectá-lo ao marketplace. Isso faz com que o seller passe do status _Convidado_ para o status _Ativo_, e que ele seja incluído no **Gerenciamento de Sellers**. Confira o passo a passo para ativar o seller em [Conectar seller](/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#conectar-seller).
+Uma vez que o seller aceite o convite do marketplace e finalize o registro da sua conta no Seller Portal, o passo seguinte é a ativação para conectá-lo ao marketplace. Isso faz com que o seller passe do status _Convidado_ para o status _Ativo_, e que ele seja incluído no **Gerenciamento de Sellers**. Confira o passo a passo para ativar o seller em [Conectar seller](/pt/docs/tutorials/marketplace-convite-de-sellers#conectar-seller).
 
 > ℹ️ A etapa de ativação do seller visa garantir mais segurança ao marketplace, caso seja necessário algum alinhamento com o seller antes que ele comece a vender no marketplace.
 
@@ -94,7 +94,7 @@ Além de convidar e ativar sellers pelo Admin VTEX, também é possível que o m
 
 ### Compartilhar catálogo (opcional)
 
-Esta etapa é opcional para o marketplace e vai depender do objetivo do seu modelo de negócio. O compartilhamento do catálogo foi definido na etapa de [Convidar seller](/pt/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#convidar-seller), por meio da flag **Compartilhar catálogo do marketplace**.
+Esta etapa é opcional para o marketplace e vai depender do objetivo do seu modelo de negócio. O compartilhamento do catálogo foi definido na etapa de [Convidar seller](/pt/docs/tutorials/seller-portal-primeiros-passos-para-o-marketplace#convidar-seller), por meio da flag **Compartilhar catálogo do marketplace**.
 
 Quando o marketplace opta pelo compartilhamento, isso é feito por meio de uma [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial). O seller então recebe a lista de produtos já cadastrados no marketplace para importar e configurar estoque e preço no Seller Portal, em **Preços > Produtos Compartilhados**.
 
@@ -112,7 +112,7 @@ Tanto os produtos compartilhados quanto os produtos criados pelo seller entram d
 
 ### Catalogar anúncios
 
-Na VTEX, [anúncio](/pt/docs/tutorials/seller-portal-anuncios-e-o-envio-de-produtos-para-o-marketplace) é o nome dado a um produto ou variação do seller que recebeu configurações de preço e estoque e foi enviado para o marketplace. Para que o produto do seller resulte na criação de um anúncio, é necessário que este [produto esteja ativo](/pt/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP#ativar-produtos-compartilhados-no-marketplace).
+Na VTEX, [anúncio](/pt/docs/tutorials/seller-portal-anuncios-e-o-envio-de-produtos-para-o-marketplace) é o nome dado a um produto ou variação do seller que recebeu configurações de preço e estoque e foi enviado para o marketplace. Para que o produto do seller resulte na criação de um anúncio, é necessário que este [produto esteja ativo](/pt/docs/tutorials/seller-portal-detalhes-do-produto#ativar-produtos-compartilhados-no-marketplace).
 
 Quando o seller cria um novo produto, o marketplace precisa revisar e aprovar o anúncio do produto em um processo chamado [catalogação de anúncios](/pt/docs/tutorials/sugerindo-e-aprovando-skus). A catalogação permite criar novos produtos e associar anúncios a SKUs ou produtos já existentes para disponibilizá-los para venda.
 

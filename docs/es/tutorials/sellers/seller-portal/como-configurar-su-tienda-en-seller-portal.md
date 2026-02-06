@@ -116,7 +116,7 @@ __Seller procesando el pago:__ si se designa al seller como procesador de pagos,
 Aprenda más leyendo los siguientes artículos:  
 
 - [Cómo funciona el módulo de Pagos](/es/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG)    
-- [Cómo funciona el split de pagos entre los sellers y el marketplace](/es/tracks/split-de-pagamentos--1ouDg8q56Kuz1AgtJUY9nv/ctgx6ulwy40P0BV07LW9y)     
+- [Cómo funciona el split de pagos entre los sellers y el marketplace](/es/docs/tutorials/split-de-pagos)     
 - [Configurar afiliados](/es/docs/tutorials/como-configurar-afiliado)    
 - [Configurar un conector de pagos](/es/docs/tracks/configurar-un-conector-de-pagos)     
 - [ Configurar una condición de pago](/es/docs/tracks/configurar-una-condicion-de-pago)    

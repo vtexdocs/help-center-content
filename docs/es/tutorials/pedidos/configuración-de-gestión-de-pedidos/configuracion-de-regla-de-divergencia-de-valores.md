@@ -23,7 +23,7 @@ Cuando no se crea ninguna regla de divergencia de precios, la plataforma VTEX te
 - **Pedidos creados a través de la API:** se denegarán automáticamente si no se envía el campo `isCreatedAsync`.
 - **Pedidos con divergencia de precios relacionados con descuentos manuales:** se aprobarán automáticamente.
 
-Para utilizar el flujo de autorización de pedidos en casos de divergencia de precios es necesario enviar el campo `isCreatedAsync` en la [API de Place Fulfillment order](https://developers.vtex.com/docs/api-reference/marketplace-protocol-external-marketplace-orders#post-/api/fulfillment/pvt/orders), independientemente del tipo de conector utilizado. Este escenario es válido para marketplaces VTEX, marketplaces externos, [conectores certificados (partners)](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro) o [conectores nativos.](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex)
+Para utilizar el flujo de autorización de pedidos en casos de divergencia de precios es necesario enviar el campo `isCreatedAsync` en la [API de Place Fulfillment order](https://developers.vtex.com/docs/api-reference/marketplace-protocol-external-marketplace-orders#post-/api/fulfillment/pvt/orders), independientemente del tipo de conector utilizado. Este escenario es válido para marketplaces VTEX, marketplaces externos, [conectores certificados (partners)](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-a-conector-certificado-parceiro) o [conectores nativos.](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-a-conector-nativo-vtex)
 
 Cuando un _seller_ está integrado a un conector nativo, como Mercado Libre, pero no ha configurado una regla de divergencia de precios, los pedidos con error por diferencia de valores quedan pendientes hasta que se cree la regla. Puedes seguirlos en tu Admin VTEX, en **MARKETPLACE > Conexiones > Pedidos**.
 
@@ -33,7 +33,7 @@ Recomendamos que el _seller_ cree la regla de Divergencia de precios antes de co
 
 La [regla de divergencia de precios](/es/docs/tutorials/regla-de-divergencia-de-precios) se compone de una o varias reglas de autorización de pedidos, que corresponden a intervalos entre el 0% y el 100% del precio del pedido. La configuración se realiza de forma que cada intervalo esté asociado a una acción automática de procesamiento.
 
-> ℹ️ Para crear una regla de divergencia de precios, el usuario debe tener el [rol](/es/docs/tutorials/roles) Admin Super (Owner) o OMS Full. Garantiza la seguridad en la gestión de tus operaciones y consulta las [buenas prácticas de seguridad para la gestión de usuarios](/es/faq/metodos-de-seguranca-para-criacao-de-perfis-de-usuarios-em-uma-loja--15YDwC9jGgqWi3rvcDaiGM).
+> ℹ️ Para crear una regla de divergencia de precios, el usuario debe tener el [rol](/es/docs/tutorials/roles) Admin Super (Owner) o OMS Full. Garantiza la seguridad en la gestión de tus operaciones y consulta las [buenas prácticas de seguridad para la gestión de usuarios](/es/docs/tutorials/buenas-practicas-de-gestion-de-acceso-para-tiendas).
 
 Para crear una regla de divergencia de precios, sigue los pasos a continuación:
 
@@ -59,7 +59,7 @@ Una vez definido el intervalo de la regla de autorización, selecciona una de la
 
 - **Autorizar automáticamente:** los pedidos con una diferencia de precio dentro del rango definido se integran automáticamente.
 - **Negar automáticamente:** los pedidos con una diferencia de precio dentro del rango definido se rechazan automáticamente y no se integran.
-- **Crear una tarea en VTEX DO para aprobación:** para diferencias de precio dentro del rango configurado, el pedido se integra pero queda pendiente de autorización por parte de un usuario habilitado. En el campo **Personas autorizadas**, debes introducir el email de los usuarios que pueden [autorizar manualmente estos pedidos](/es/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe#autorizar-pedidos-manualmente).
+- **Crear una tarea en VTEX DO para aprobación:** para diferencias de precio dentro del rango configurado, el pedido se integra pero queda pendiente de autorización por parte de un usuario habilitado. En el campo **Personas autorizadas**, debes introducir el email de los usuarios que pueden [autorizar manualmente estos pedidos](/es/docs/tutorials/configuracion-de-regla-de-divergencia-de-valores#autorizar-pedidos-manualmente).
 
 Para configurar una jerarquía de usuarios responsables de aprobar los pedidos, debes introducir más de un email y ordenar los usuarios registrados. Puedes cambiar estos usuarios en cualquier momento editando la regla de autorización de pedidos. Ten en cuenta que solo usuarios con los [roles](/es/docs/tutorials/roles) Admin Super (Owner) o OMS Full pueden editar la regla.
 
@@ -81,20 +81,20 @@ En la página de edición de reglas, puedes eliminar la regla de divergencia de 
 
 En la misma página, en la pestaña **Todas**, puedes ver la lista de todas las reglas de autorización de pedidos creadas. Para eliminar una regla de autorización, haz clic en el botón **ELIMINAR REGLA** junto a la regla que deseas eliminar.
 
-Si quieres editar una regla de autorización, haz clic en la pestaña correspondiente a la regla que quieres modificar. El proceso de edición de reglas es el mismo que el que se describe en la etapa de [creación de la regla de divergencia de precios](/es/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe#crear-una-regla-de-divergencia-de-precios).
+Si quieres editar una regla de autorización, haz clic en la pestaña correspondiente a la regla que quieres modificar. El proceso de edición de reglas es el mismo que el que se describe en la etapa de [creación de la regla de divergencia de precios](/es/docs/tutorials/configuracion-de-regla-de-divergencia-de-valores#crear-una-regla-de-divergencia-de-precios).
 
 Una vez que hayas hecho los cambios deseados, haz clic en el botón **GUARDAR REGLAS** y luego en **OK**.
 
 ## Autorizar pedidos manualmente
 
-Cuando una regla de autorización se configura con la opción _Crear una tarea en VTEX DO para aprobación_, esto significa que se ha asignado al menos un usuario para autorizar manualmente el pedido. La [gestión de pedidos con divergencia de precios](/es/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW#gestion-de-pedidos-con-divergencia-de-precios) es similar a la de otros canales de venta, como la tienda física o el ecommerce.
+Cuando una regla de autorización se configura con la opción _Crear una tarea en VTEX DO para aprobación_, esto significa que se ha asignado al menos un usuario para autorizar manualmente el pedido. La [gestión de pedidos con divergencia de precios](/es/docs/tutorials/regla-de-divergencia-de-precios#gestion-de-pedidos-con-divergencia-de-precios) es similar a la de otros canales de venta, como la tienda física o el ecommerce.
 
 > ⚠️ Es importante hacer un seguimiento regular de los pedidos en **Pedidos > Todos los pedidos**. Si requieren aprobación manual, los pedidos con errores de divergencia de precios quedan pendientes de autorización por parte de un usuario habilitado, definido al crear la regla de autorización. Una buena práctica es tener al menos dos usuarios con autorización para realizar el procesamiento manual.
 
 Hay dos maneras de autorizar manualmente un pedido con divergencia de precios:
 
-- [Autorizar pedidos por el OMS](/es/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe#autorizar-un-pedido-por-la-gestion-de-pedidos)
-- [Autorizar pedidos por VTEX DO](/es/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe#autorizar-pedidos-por-vtex-do)
+- [Autorizar pedidos por el OMS](/es/docs/tutorials/configuracion-de-regla-de-divergencia-de-valores#autorizar-un-pedido-por-la-gestion-de-pedidos)
+- [Autorizar pedidos por VTEX DO](/es/docs/tutorials/configuracion-de-regla-de-divergencia-de-valores#autorizar-pedidos-por-vtex-do)
 
 ### Autorizar un pedido por el módulo Pedidos
 

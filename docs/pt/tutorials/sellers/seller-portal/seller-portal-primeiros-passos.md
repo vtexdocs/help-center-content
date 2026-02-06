@@ -113,7 +113,7 @@ Tanto o seller quanto o marketplace podem ser responsáveis por processar o paga
 Para saber mais, confira os seguintes artigos:  
 
 - [Como funciona o módulo de Pagamentos](/pt/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG)  
-- [Como funciona split de pagamento entre seller e marketplace](/pt/tracks/split-de-pagamentos--1ouDg8q56Kuz1AgtJUY9nv/ctgx6ulwy40P0BV07LW9y)  
+- [Como funciona split de pagamento entre seller e marketplace](/pt/docs/tutorials/split-de-pagamento)  
 - [Cadastrar afiliado](/pt/docs/tutorials/como-configurar-afiliado)  
 - [Configurar um conector de pagamentos](/pt/docs/tracks/configurar-um-conector-de-pagamentos)   
 - [Configurar uma condição de pagamento](/pt/docs/tracks/configurar-uma-condicao-de-pagamento)  

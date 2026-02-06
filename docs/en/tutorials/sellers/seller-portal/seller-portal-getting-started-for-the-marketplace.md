@@ -49,10 +49,10 @@ The marketplace is responsible for onboarding new sellers. In other words, it is
 
 In the following sections, the marketplace steps have been organized into:
 
-- [Inviting sellers](/en/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#inviting-sellers)
-- [Activating a seller](/en/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#activating-a-seller)
-- [Sharing the catalog (optional)](/en/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#sharing-the-catalog-optional)
-- [Cataloging offers](/en/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#cataloging-offers)
+- [Inviting sellers](/en/docs/tutorials/seller-portal-getting-started-for-the-marketplace#inviting-sellers)
+- [Activating a seller](/en/docs/tutorials/seller-portal-getting-started-for-the-marketplace#activating-a-seller)
+- [Sharing the catalog (optional)](/en/docs/tutorials/seller-portal-getting-started-for-the-marketplace#sharing-the-catalog-optional)
+- [Cataloging offers](/en/docs/tutorials/seller-portal-getting-started-for-the-marketplace#cataloging-offers)
 
 ### Inviting sellers
 
@@ -60,7 +60,7 @@ The **Invited Sellers** page is where marketplace operators [invite sellers](/en
 
 Through the Seller Portal, marketplaces hosted on VTEX can connect with sellers who have a VTEX account, sellers hosted on other platforms, or sellers who are not hosted on any platform. Upon accepting the invitation, the seller chooses whether to integrate their existing VTEX account or create a new account to sell on the marketplace. 
 
-> ℹ️ Once the [marketplace invites the seller](/en/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#convidar-seller), an email is sent to the seller containing a link to create an account on the Seller Portal. The link is valid for seven days. After opening it, the seller has six hours to complete the registration form, without interruption.
+> ℹ️ Once the [marketplace invites the seller](/en/docs/tutorials/marketplace-invited-sellers#convidar-seller), an email is sent to the seller containing a link to create an account on the Seller Portal. The link is valid for seven days. After opening it, the seller has six hours to complete the registration form, without interruption.
 
 If the seller does not register within that period, the marketplace will have to resend the invitation. This can be done from the VTEX Admin through **MARKETPLACE > Sellers > Seller Invite**. You need to select the seller from the list and click the **Resend Invitation** button.
 
@@ -69,11 +69,11 @@ In the invitation step, the marketplace also decides whether it wants the seller
 To learn more, check the following articles:
 
 - [Marketplace: Seller Invite](/en/docs/tutorials/marketplace-invited-sellers)
-- [Seller: Creating an account in the Seller Portal](/en/tutorial/seller-criar-conta-no-seller-portal-beta--3gn2Q5rMhgu0jjX7AiiHcs#creating-an-account-in-the-seller-portal)
+- [Seller: Creating an account in the Seller Portal](/en/docs/tutorials/seller-creating-an-account-in-the-seller-portal#creating-an-account-in-the-seller-portal)
 
 ### Activating a seller
 
-Once the seller accepts the marketplace invitation and they register their Seller Portal account, the next step is activating them so they can connect to the marketplace. This changes the seller status from _Invited_ to _Active_ and adds them to **Seller Management**. Follow the instructions to activate the seller in [Connecting sellers](/en/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#connecting-sellers).
+Once the seller accepts the marketplace invitation and they register their Seller Portal account, the next step is activating them so they can connect to the marketplace. This changes the seller status from _Invited_ to _Active_ and adds them to **Seller Management**. Follow the instructions to activate the seller in [Connecting sellers](/en/docs/tutorials/marketplace-invited-sellers#connecting-sellers).
 
 > ℹ️ The seller activation step is intended to provide more security for the marketplace, in case some alignment with the seller is required before they start selling on the marketplace.
 
@@ -94,7 +94,7 @@ In addition to inviting and activating sellers through the VTEX Admin, the marke
 
 ### Sharing the catalog (optional)
 
-This step is optional for the marketplace and will depend on the goal of your business model. Sharing the catalog was set in the [Inviting the seller](/en/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#inviting-sellers) step through the **Share marketplace catalog** flag.
+This step is optional for the marketplace and will depend on the goal of your business model. Sharing the catalog was set in the [Inviting the seller](/en/docs/tutorials/seller-portal-getting-started-for-the-marketplace#inviting-sellers) step through the **Share marketplace catalog** flag.
 
 When the marketplace decides to allow sharing, this is done through a [trade policy](/en/docs/tutorials/how-trade-policies-work). Then, the seller receives the list of products that are already available in the marketplace, which allows them to import and configure inventory and pricing in the Seller Portal, under **Products > Shared Products**.
 
@@ -112,7 +112,7 @@ Both shared products and products created by the seller are automatically sent t
 
 ### Cataloging offers
 
-On VTEX, an [offer](/en/docs/tutorials/offers-and-sending-products-to-the-marketplace) is a product or seller variation that has been assigned price and stock settings and has been sent to the marketplace. To be able to create an offer from the seller product, the [product needs to be active](/en/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP#activating-shared-products-in-the-marketplace).
+On VTEX, an [offer](/en/docs/tutorials/offers-and-sending-products-to-the-marketplace) is a product or seller variation that has been assigned price and stock settings and has been sent to the marketplace. To be able to create an offer from the seller product, the [product needs to be active](/en/docs/tutorials/seller-portal-product-details#activating-shared-products-in-the-marketplace).
 
 When the seller creates a new product, the marketplace needs to review and approve the offer in a process called [cataloging offers](/en/docs/tutorials/manual-sku-cataloging). Cataloging allows you to create new products and associate offers with SKUs or existing products to make them available for sale.
 

@@ -55,7 +55,7 @@ A página **Chaves de API** no Admin VTEX permite gerenciar as chaves de API com
 
 ## Requisitos para gerenciar chaves de API
 
-Para gerenciar chaves de API, é obrigatório ter o perfil de acesso  [User Administrator - RESTRICTED](/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) ou um perfil [customizado](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso) com os recursos a seguir:
+Para gerenciar chaves de API, é obrigatório ter o perfil de acesso  [User Administrator - RESTRICTED](/pt/docs/tutorials/perfis-de-acesso-predefinidos#user-administrator-restricted) ou um perfil [customizado](/pt/docs/tutorials/perfis-de-acesso#criando-um-perfil-de-acesso) com os recursos a seguir:
 
 * *View API Keys* (visualizar, filtrar, buscar, ordenar e exportar chaves de API geradas e externas)  
 * *Edit API Keys* (criar, excluir, mudar o status e adicionar ou remover permissões de chaves de API)  

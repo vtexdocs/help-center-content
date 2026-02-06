@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-A VTEX permite a [criação de diferentes tipos de promoção](/pt/tutorial/como-criar-promocoes--tutorials_320#como-criar-promocoes) para atender a variados cenários comerciais, sendo a **Promoção Regular** a mais comum. Esse tipo de promoção oferece uma forma estruturada de conceder descontos, permitindo a combinação de múltiplas condições, restrições de uso e benefícios.
+A VTEX permite a [criação de diferentes tipos de promoção](/pt/docs/tutorials/criar-promocoes#como-criar-promocoes) para atender a variados cenários comerciais, sendo a **Promoção Regular** a mais comum. Esse tipo de promoção oferece uma forma estruturada de conceder descontos, permitindo a combinação de múltiplas condições, restrições de uso e benefícios.
 
 Para configurar a Promoção Regular, siga os passos abaixo:
 

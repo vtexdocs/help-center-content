@@ -18,5 +18,5 @@ Cuando dos o más _stocks_ utilizan la misma [política comercial](/es/docs/tuto
 
 Esto se debe a que la plataforma VTEX suma las unidades negativas de los SKU de un determinado _stock_ a las unidades positivas de otro _stock_. Si la suma de estas cantidades es cero, el SKU pasa a no estar disponible para la venta en la tienda.
 
-Obtén más información sobre el _stock_ negativo en el artículo [Gestión del stock](/es/tutorial/gestionar-items-en-inventario--tutorials_139#actualizar-stock).
+Obtén más información sobre el _stock_ negativo en el artículo [Gestión del stock](/es/docs/tutorials/gestionar-items-en-inventario#actualizar-stock).
 

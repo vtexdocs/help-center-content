@@ -23,7 +23,7 @@ Um marketplace hospedado na plataforma VTEX e um seller, seja um seller VTEX ou 
 - [Marketplace e seller conectados](#marketplace-e-seller-conectados)
 - [Compartilhamento de emails de clientes](#compartilhamento-de-emails-de-clientes)
 
-> ℹ️ Se quiser começar a vender seus produtos em outros marketplaces, utilize o [Marketplaces e integrações](/pt/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM). Essa funcionalidade facilita a identificação e o contato entre marketplaces e sellers que operam no ecossistema VTEX.
+> ℹ️ Se quiser começar a vender seus produtos em outros marketplaces, utilize o [Marketplaces e integrações](/pt/docs/tutorials/marketplaces-e-integracoes). Essa funcionalidade facilita a identificação e o contato entre marketplaces e sellers que operam no ecossistema VTEX.
 
 ## Conectar marketplace e seller
 
@@ -50,7 +50,7 @@ Para que o marketplace VTEX possa se conectar ao seller VTEX, é necessário ace
 - **ID do Seller (Account Name):** [account name](/pt/docs/tutorials/o-que-e-account-name) é o código de identificação do seller na VTEX.
 - **Email do administrador:** endereço eletrônico do administrador responsável pelo seller.
 - **Meu ID de afiliado no seller:** código com três consoantes que identifica o [afiliado](/pt/docs/tutorials/o-que-e-afiliado), criado pelo seller no seu próprio Admin VTEX.
-- **Descrição:** texto em tom comercial que caracteriza o seller. O texto pode aparecer na vitrine do marketplace ao [customizar o CMS](/pt/tutorial/list-of-controls-for-templates--tutorials_563).
+- **Descrição:** texto em tom comercial que caracteriza o seller. O texto pode aparecer na vitrine do marketplace ao [customizar o CMS](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).
 - **Política comercial:** código identificador da [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) que o seller deseja utilizar na venda no marketplace.
 - **Fulfillment SellerId:** código identificador do seller responsável pelo fulfillment do pedido. Este é um dado opcional, necessário quando o seller vende SKUs de outro seller, e não deve ser preenchido quando o seller vende seus próprios SKUs.
 - **Catalog EndPoint:** URL do endpoint do catálogo do seller.
@@ -60,7 +60,7 @@ Para que o marketplace VTEX possa se conectar ao seller VTEX, é necessário ace
 
 Quando o seller é do tipo externo, não hospedado no ambiente VTEX, ele precisa informar ao marketplace VTEX:
 
-- **Descrição:** texto em tom comercial que caracteriza o seller. O texto pode aparecer na vitrine do marketplace ao [customizar o CMS](/pt/tutorial/list-of-controls-for-templates--tutorials_563).
+- **Descrição:** texto em tom comercial que caracteriza o seller. O texto pode aparecer na vitrine do marketplace ao [customizar o CMS](https://developers.vtex.com/docs/guides/list-of-controls-for-templates).
 - **Email do administrador:** endereço eletrônico do administrador responsável pela operação do seller.
 - **Fulfillment EndPoint:** URL do endpoint para fulfillment de pedidos do seller, por meio do qual o marketplace vai se comunicar com o seller.
 - **TaxCode:** número do Cadastro Nacional da Pessoa Jurídica (CNPJ) ou o código correspondente em outros países.
