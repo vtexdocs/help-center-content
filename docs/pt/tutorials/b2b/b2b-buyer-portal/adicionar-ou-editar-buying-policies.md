@@ -40,7 +40,7 @@ Este artigo orienta os usuários no gerenciamento das políticas da organizaçã
         * **Bypass all buying policies:** o pedido será automaticamente aprovado, independentemente dos critérios definidos.
         * **Sequential workflow:** o pedido será aprovado ou negado manualmente por um usuário autorizado. Para esta opção, é necessário informar o nome de uma unit organization para que o usuário dessa unidade revise o pedido.
 
-        > ⚠️ É possível definir uma hieraquia de até cinco organizações, sendo o maior nível é o último a revisar o pedido. Qualquer nível pode negar o pedido, mas a autorização dele depende da aprovação de todos.
+        > ⚠️ É possível definir uma hierarquia de até cinco organizações, sendo o maior nível o último a revisar o pedido. Qualquer nível pode negar o pedido, mas a autorização dele depende da aprovação de todos.
 
 4. Para salvar as configurações, clique em **Add** (adicionar).
 
