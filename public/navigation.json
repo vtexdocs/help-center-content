@@ -17003,6 +17003,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Buyer organization members",
+                    "es": "Buyer organization members",
+                    "pt": "Buyer organization members"
+                  },
+                  "slug": {
+                    "en": "buyer-organization-members",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -44962,14 +44977,14 @@
             },
             {
               "name": {
-                "en": "Checkout has no clarity about divergences between the identified and the logged in customer",
-                "es": "El proceso de pago no deja claras las divergencias entre el cliente identificado y el registrado",
-                "pt": "O checkout não tem clareza sobre as divergências entre o cliente identificado e o cliente conectado"
+                "en": "Checkout has no clarity about divergences between the customer identified in the cart and the user logged in to the store",
+                "es": "El proceso de pago no aclara las divergencias entre el cliente identificado en el carrito y el usuario que ha iniciado sesión en la tienda.",
+                "pt": "O checkout não apresenta clareza sobre divergências entre o cliente identificado no carrinho e o usuário conectado à loja."
               },
               "slug": {
-                "en": "checkout-has-no-clarity-about-divergences-between-the-identified-and-the-logged-in-customer",
-                "es": "el-proceso-de-pago-no-deja-claras-las-divergencias-entre-el-cliente-identificado-y-el-registrado",
-                "pt": "o-checkout-nao-tem-clareza-sobre-as-divergencias-entre-o-cliente-identificado-e-o-cliente-conectado"
+                "en": "checkout-has-no-clarity-about-divergences-between-the-customer-identified-in-the-cart-and-the-user-logged-in-to-the-store",
+                "es": "el-proceso-de-pago-no-aclara-las-divergencias-entre-el-cliente-identificado-en-el-carrito-y-el-usuario-que-ha-iniciado-sesion-en-la-tienda",
+                "pt": "o-checkout-nao-apresenta-clareza-sobre-divergencias-entre-o-cliente-identificado-no-carrinho-e-o-usuario-conectado-a-loja"
               },
               "origin": "",
               "type": "markdown",
@@ -49269,6 +49284,21 @@
             },
             {
               "name": {
+                "en": "Amazon Listing Alguns skus não são integrados devido ao erro no atributo \"color#?.value\" field 'standardized_values'",
+                "es": "Amazon Listado Algunos skus no se integran debido al error en el atributo «color#?.value» del campo «standardized_values».",
+                "pt": "Amazon Listing Alguns skus não são integrados devido ao erro no atributo \"color#?.value\" field 'standardized_values'"
+              },
+              "slug": {
+                "en": "amazon-listing-alguns-skus-nao-sao-integrados-devido-ao-erro-no-atributo-colorvalue-field-standardizedvalues",
+                "es": "amazon-listado-algunos-skus-no-se-integran-debido-al-error-en-el-atributo-colorvalue-del-campo-standardizedvalues",
+                "pt": "amazon-listing-alguns-skus-nao-sao-integrados-devido-ao-erro-no-atributo-colorvalue-field-standardizedvalues"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Amazon Listing Required attribute not rendered in Amazon Listing UI prevents product submission",
                 "es": "Amazon Listing Atributo obligatorio no mostrado en la interfaz de usuario de Amazon Listing impide el envío de productos",
                 "pt": "Amazon Listagem Atributo obrigatório não renderizado na interface do usuário da listagem da Amazon impede o envio de produtos"
@@ -49292,6 +49322,21 @@
                 "en": "amazon-listing-returns-code-13013-preventing-sku-creation",
                 "es": "amazon-listado-codigo-de-devolucion-13013-que-impide-la-creacion-de-sku",
                 "pt": "amazon-listagem-codigo-de-devolucao-13013-impedindo-a-criacao-de-sku"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon Listing Some SKUs aren't integrated due to an error in the attribute.\"color#?.value\" field 'standardized_values'",
+                "es": "Amazon Listado Algunos SKU no están integrados debido a un error en el campo «color#?.value» del atributo «standardized_values».",
+                "pt": "Amazon Listagem Alguns SKUs não estão integrados devido a um erro no campo \"color#?.value\" do atributo \"standardized_values\"."
+              },
+              "slug": {
+                "en": "amazon-listing-some-skus-arent-integrated-due-to-an-error-in-the-attributecolorvalue-field-standardizedvalues",
+                "es": "amazon-listado-algunos-sku-no-estan-integrados-debido-a-un-error-en-el-campo-colorvalue-del-atributo-standardizedvalues",
+                "pt": "amazon-listagem-alguns-skus-nao-estao-integrados-devido-a-um-erro-no-campo-colorvalue-do-atributo-standardizedvalues"
               },
               "origin": "",
               "type": "markdown",
@@ -65489,6 +65534,21 @@
           "origin": "",
           "type": "category",
           "children": [
+            {
+              "name": {
+                "en": "Apps using masterdater builder 2.x may fail to identify schemas after a install",
+                "es": "Las aplicaciones que utilizan Masterdater Builder 2.x pueden no identificar los esquemas después de una instalación.",
+                "pt": "Os aplicativos que utilizam o Masterdater Builder 2.x podem não conseguir identificar esquemas após a instalação."
+              },
+              "slug": {
+                "en": "apps-using-masterdater-builder-2x-may-fail-to-identify-schemas-after-a-install",
+                "es": "las-aplicaciones-que-utilizan-masterdater-builder-2x-pueden-no-identificar-los-esquemas-despues-de-una-instalacion",
+                "pt": "os-aplicativos-que-utilizam-o-masterdater-builder-2x-podem-nao-conseguir-identificar-esquemas-apos-a-instalacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
             {
               "name": {
                 "en": "Boolean filter on Form Application does not work properly",
