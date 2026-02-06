@@ -3,9 +3,8 @@ name: Review Documentation with AI
 on:
   pull_request:
     paths:
-      - 'docs/**/*.md'
-      - 'docs/**/*.mdx'
-      - '!docs/localization/**'
+      - 'docs/pt/**/*.md'
+      - 'docs/pt/**/*.mdx'
     types: [opened, synchronize, ready_for_review]
 
 permissions:
