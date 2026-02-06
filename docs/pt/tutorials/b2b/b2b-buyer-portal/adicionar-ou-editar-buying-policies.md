@@ -10,7 +10,7 @@ locale: pt
 
 > ⚠️ A funcionalidade Buying Policies está disponível apenas para o B2B Buyer Portal.
 
-No Buyer Portal, existe a funcionalidade [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies), que permite aos usuários realizarem configurações dinâmicas para a autorização e aprovação de pedidos. Os mecanismos e regras que podem ser configurados contribuem para uma maior governança da organização e promove a conformidade com as políticas de venda vigentes.
+No Buyer Portal, existe a funcionalidade [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies), que permite aos usuários realizarem configurações dinâmicas para a autorização e aprovação de pedidos. Os mecanismos e regras que podem ser configurados contribuem para uma maior governança da organização e promovem a conformidade com as políticas de venda vigentes.
 
 Este artigo orienta os usuários no gerenciamento das políticas da organização para a autorização e aprovação da pedidos, e inclui as seguintes seções:
 
