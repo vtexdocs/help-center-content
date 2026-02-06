@@ -24,7 +24,7 @@ Este artigo apresenta de quais maneiras o pedido pode ser alterado e como realiz
 - [Aspectos comuns](#aspectos-comuns)
 - [Erros de processamento](#erros-de-processamento)
 
-> ⚠️ Para saber sobre as [características gerais](/pt/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#caracteristicas-gerais) em cenários de alteração de pedidos, incluindo reserva, atualização de inventário e contas franquia, ou para entender questões de [preço, pagamento e fatura](/pt/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#mudancas-de-preco), veja o artigo [Como funciona a Alterar pedido](/pt/docs/tutorials/como-funciona-a-alterar-pedido).
+> ⚠️ Para saber sobre as [características gerais](/pt/docs/tutorials/como-funciona-a-alterar-pedido#caracteristicas-gerais) em cenários de alteração de pedidos, incluindo reserva, atualização de inventário e contas franquia, ou para entender questões de [preço, pagamento e fatura](/pt/docs/tutorials/como-funciona-a-alterar-pedido#mudancas-de-preco), veja o artigo [Como funciona a Alterar pedido](/pt/docs/tutorials/como-funciona-a-alterar-pedido).
 
 ## Requisitos
 

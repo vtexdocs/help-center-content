@@ -53,12 +53,12 @@ The following table shows the store's main Catalog settings based on their creat
 
 | **Topic** | **Configuration via VTEX Admin** | **Configuration via API** |
 | :--- | :--- | :--- |
-| 1. [Category tree](/en/tutorial/catalog-overview--77M8ItLhDXs6aBdQTqToVe#categories) | [Add a category](/en/docs/tutorials/registering-a-category) | - [Categories](https://developers.vtex.com/docs/guides/categories) <br> - [Create Category](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/category) |
+| 1. [Category tree](/en/docs/tutorials/catalog-overview#categories) | [Add a category](/en/docs/tutorials/registering-a-category) | - [Categories](https://developers.vtex.com/docs/guides/categories) <br> - [Create Category](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/category) |
 | 2. [Brands](/en/docs/tracks/brands-concept-definition) | [Add brands](/en/docs/tutorials/registering-brands) | - [Brands](https://developers.vtex.com/docs/guides/brands) <br> - [Create Brand](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/brand) |
 | 3.1. [Product specifications](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#product-specification) | [Add product specifications or fields](/en/docs/tutorials/adding-specifications-or-product-fields) | - [Product specifications](https://developers.vtex.com/docs/guides/product-specifications) <br> - [Create Specification](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/specification) |
 | 3.2. [SKU specifications](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#sku-specifications) | [Add SKU specifications or fields](/en/docs/tutorials/adding-sku-specifications-or-fields) | - [SKU specifications](/en/docs/tutorials/adding-sku-specifications-or-fields) <br> - [Create Specification](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/specification) |
-| 4. [Products](/en/docs/tracks/products-concept-definition) | [Add products](/en/tutorial/cadastrando-produtos--tutorials_2567) | - [Products](/en/tutorial/adding-products--tutorials_2567) <br> - [Create Product with Category and Brand](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product) |
-| 5. [SKUs](/en/docs/tracks/sku-concept-definition) | [Complete the SKU fields](/en/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY) | - [SKUs](https://developers.vtex.com/docs/guides/skus) <br> - [Create SKU](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunit) |
+| 4. [Products](/en/docs/tracks/products-concept-definition) | [Add products](/en/docs/tutorials/adding-or-editing-products) | - [Products](/en/docs/tutorials/adding-or-editing-products) <br> - [Create Product with Category and Brand](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product) |
+| 5. [SKUs](/en/docs/tracks/sku-concept-definition) | [Complete the SKU fields](/en/docs/tutorials/adding-or-editing-skus) | - [SKUs](https://developers.vtex.com/docs/guides/skus) <br> - [Create SKU](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunit) |
 
 <br>
 
@@ -66,9 +66,9 @@ The following table shows the store's main Catalog settings based on their creat
 
 #### Category tree
 
-The [category tree](/en/tutorial/catalog-overview--77M8ItLhDXs6aBdQTqToVe#categories) defines the Catalog's basic structure. The categories act as hierarchical levels for classifying products, which simplify the customer's search and keep the store's catalog organized.
+The [category tree](/en/docs/tutorials/catalog-overview#categories) defines the Catalog's basic structure. The categories act as hierarchical levels for classifying products, which simplify the customer's search and keep the store's catalog organized.
 
-We recommend creating a three-level hierarchy, including [Departaments](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf#department), [Categories](/en/tutorial/catalog-overview--77M8ItLhDXs6aBdQTqToVe#categories) and [Subcategorias](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf#subcategory). However, some stores may benefit from a two-level structure with Departments and Categories. This depends on the operation's complexity and the types of products offered.
+We recommend creating a three-level hierarchy, including [Departaments](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf#department), [Categories](/en/docs/tutorials/catalog-overview#categories) and [Subcategorias](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf#subcategory). However, some stores may benefit from a two-level structure with Departments and Categories. This depends on the operation's complexity and the types of products offered.
 
 __Example__: Department `Women`, Category `Shirts and T-shirts`, and Sub-category `T-shirts`.
 
@@ -120,7 +120,7 @@ The following table shows optional Catalog settings on VTEX:
 
 ###  Before you begin with Prices
 
-Before configuring the store's prices, you need to create a [catalog](#catalog) with your products. The store catalog must contain [categories](/en/docs/tutorials/registering-a-category), [brands](/en/docs/tutorials/registering-brands), [products](/en/tutorial/adding-products--tutorials_2567) and [SKUs](/en/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY) already added and active. If the catalog was created via [ntegration with an ERP system](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu#erp-integration), you should check the information before proceeding.
+Before configuring the store's prices, you need to create a [catalog](#catalog) with your products. The store catalog must contain [categories](/en/docs/tutorials/registering-a-category), [brands](/en/docs/tutorials/registering-brands), [products](/en/docs/tutorials/adding-or-editing-products) and [SKUs](/en/docs/tutorials/adding-or-editing-skus) already added and active. If the catalog was created via [ntegration with an ERP system](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu#erp-integration), you should check the information before proceeding.
 
 ### How the Prices module works
 
@@ -189,7 +189,7 @@ In this context, it is important to be familiar with the main terms related to t
 | :---: | :--- |
 | Promotion | Discount given to customers, which can be linked to one or more products in the cart, to shipping or a gift. |
 | Coupon | Promotional code consisting of a sequence of letters and numbers. Coupons are associated with promotions applied to the cart total amount. Thus, by entering a valid coupon at checkout, the customer can get discounts on the order total amount. |
-| Campaign audience | Campaign audience is a feature that allows you to define the [target audience](/en/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m#target-audience) or a promotion. It consists of setting up criteria to segment customers from which the VTEX platform automatically validates whether customers are eligible for a particular campaign audience and, consequently, for the associated [campaign promotions](/en/docs/tutorials/campaign-promotion). |
+| Campaign audience | Campaign audience is a feature that allows you to define the [target audience](/en/docs/tutorials/campaign-audiences#target-audience) or a promotion. It consists of setting up criteria to segment customers from which the VTEX platform automatically validates whether customers are eligible for a particular campaign audience and, consequently, for the associated [campaign promotions](/en/docs/tutorials/campaign-promotion). |
 | Campaign promotion | A campaign promotion is always linked to a campaign audience, i.e., a specific target audience. This type of promotion will only be applied to the target audience of the campaign. |
 
 ### Creating promotions
@@ -212,7 +212,7 @@ There are six types of promotion, each related to a different scenario:
 | [Buy One Get One](/en/docs/tutorials/buy-one-get-one) | Promotion used to provide free shipping or a giveaway when a specific product is purchased. |
 | [Campaign Promotion](/en/docs/tutorials/campaign-promotion) | A campaign promotion is always linked to a campaign audience, i.e., a specific target audience. |
 
-For all promotions, you can define their duration, restrictions, and limitations on usage. Promotions can also be scheduled for special events, as described in the [Scheduling features for special events](/en/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI#scheduling-promotions) article.
+For all promotions, you can define their duration, restrictions, and limitations on usage. Promotions can also be scheduled for special events, as described in the [Scheduling features for special events](/en/docs/tutorials/scheduling-features-for-special-events#scheduling-promotions) article.
 
 For more information on how promotions can be applied, read the [Promotion examples](/en/docs/tutorials/promotion-examples) article.
 
@@ -237,7 +237,7 @@ Once the campaign audience has been created, it needs to be linked to a [Regular
 
 You can highlight a promotion on the product page (PDP). To do so, follow the steps below:
 
-1. [Create a promotion](/en/tutorial/lista-de-promocoes-beta--4yB7nNdliiFxBTXE19GCIi#creating-promotions) of any type, except for the Buy Together promotion.
+1. [Create a promotion](/en/docs/tutorials/promotion-list-beta#creating-promotions) of any type, except for the Buy Together promotion.
 2. Activate the __Promotion is highlighted__ field in the promotion form.
 3. Save the promotion.
 4. In the [Legacy CMS](/en/docs/tracks/legacy-cms-portal), enter the promotion display control in the template: `<vtex.cmc:discountHightLight/>`. 
@@ -312,7 +312,7 @@ Store [inventory](/en/docs/tutorials/managing-stock-items) corresponds to the st
 
 In the VTEX Admin, under __Catalog > Inventory > Inventory Management__, existe you can configure the [Lead time](/en/docs/tutorials/lead-time-shipping-time-at-sku-level), an optional setting that allows you to assign a shipping time at SKU level.  Configuring the lead time means adding a period of time to the order shipping [calculation](#order-shipping-calculation) which is strategic in some contexts.
 
-The [main use cases](/en/tutorial/lead_time-shipping-time-at-sku-level--16yv5Mkj6bTyWR1hCN2f4B#main-use-cases), include products from external suppliers, _dropshipping_ scenarios, and the sale of custom items. Having the option to configure the lead time means having more flexibility to set deadlines for handling and shipping products by third parties.
+The [main use cases](/en/docs/tutorials/lead-time-shipping-time-at-sku-level#main-use-cases), include products from external suppliers, _dropshipping_ scenarios, and the sale of custom items. Having the option to configure the lead time means having more flexibility to set deadlines for handling and shipping products by third parties.
 
 ### Order shipping calculation
 
@@ -336,7 +336,7 @@ To serve different business models, the VTEX platform offers many optional setti
 | Pickup points | [Pickup points](/en/docs/tutorials/pickup-points) are physical locations set up by the store for customers to pick up their orders. Setting up pickup points is interesting for omnichannel operations, especially when there are many physical stores, as each can be used as a pickup option for customers, increasing the flexibility of your logistics network. |
 | Holidays | [Holidays](/en/docs/tutorials/registering-holidays) is a feature that allows the store to set up days that are not valid for shipping, which will be considered when calculating the order's shipping time. |
 | Reservation | [Reservation](/en/docs/tutorials/how-does-reservation-work) is a solution that prevents the same item from being sold more than once. When the customer only adds the product to the cart, this does not generate a reservation; your priority over the item only occurs once the order has been placed. |
-| Delivery capacity | [Delivery capacity](/en/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi#delivery-capacity) is the limit of shipments that can be made by the store in a given period. Being able to delimit the number of items or orders that can be shipped in each shipping window means having more control over order handling and increasing the chances of fulfilling the delivery agreement made with the customer at checkout. |
+| Delivery capacity | [Delivery capacity](/en/docs/tutorials/scheduled-delivery#delivery-capacity) is the limit of shipments that can be made by the store in a given period. Being able to delimit the number of items or orders that can be shipped in each shipping window means having more control over order handling and increasing the chances of fulfilling the delivery agreement made with the customer at checkout. |
 | Geolocation | [Geolocation](/en/docs/tutorials/registering-geolocation) involves adding delivery locations based on the latitude and longitude of addresses. This feature is often used for addresses in rural and industrial areas, which are divided into lots or risk areas, and when it's necessary to remove certain delivery locations within a region. |
 
 For more information on logistics concepts on VTEX, read the [Logistics Glossary](/en/docs/tutorials/logistics-glossary) article. For developer content on the [Logistics API](https://developers.vtex.com/docs/api-reference/logistics-api#overview), read the  [Fulfillment and Logistics](https://developers.vtex.com/docs/guides/fulfillment) article.

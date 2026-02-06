@@ -36,7 +36,7 @@ Para enviar una factura a través del Admin VTEX, siga los pasos a continuación
 5. Haz clic en el botón `Facturar`. 
 6. Haz clic en la opción de facturación deseada:    
     * **Enviar factura con referencia a los ítems:** para facturar el pedido haciendo referencia a los ítems del paquete.
-    * **Enviar factura única:** para facturar ítems específicos del paquete. Si se realizan [cambios en el pedido](/es/tutorial/how-to-change-order-items--7jekq618QxgbsOxKkXBjE8), es necesario introducir facturas parciales.  
+    * **Enviar factura única:** para facturar ítems específicos del paquete. Si se realizan [cambios en el pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado), es necesario introducir facturas parciales.  
     * **Notificar factura:** te permite notificar al ERP de tu tienda para que genere una factura.    
 7. Rellena los campos del formulario correspondiente:
     * Datos del formulario **Enviar factura con referencia a los ítems**

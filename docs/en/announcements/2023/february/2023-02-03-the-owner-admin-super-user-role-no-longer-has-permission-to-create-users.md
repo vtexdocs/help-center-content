@@ -28,8 +28,8 @@ These measures aim to make it easier for merchants to restrict the number of use
 - Assign [user roles](/en/docs/tutorials/roles) to users.
 - Remove [user roles](/en/docs/tutorials/roles) from users.
 - [Edit user data](/en/docs/tutorials/managing-admin-users#editando-usuarios).
-- Create [application keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet).
-- Create [application keys](/en/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet).
+- Create [application keys](/en/docs/tutorials/api-keys).
+- Create [application keys](/en/docs/tutorials/api-keys).
 
 In addition, VTEX is now offering the **User Administrator - RESTRICTED** user role, which includes only the **Save user** resource described above.
 
@@ -53,10 +53,10 @@ However, we recommend that you review your store users and remove the **User Adm
 
 Users who are henceforth given the **Owner (Admin Super)** user role will not have access to the **Save user** feature and will not be able to perform its associated actions, such as creating and changing users and application keys.
 
-If you want any user in your store to be able to perform the actions associated with the **Save user** resource, make sure that this user has the **User Administrator - RESTRICTED** role or create a [custom user role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#tipos-de-perfis) that includes the **Save user** resource.
+If you want any user in your store to be able to perform the actions associated with the **Save user** resource, make sure that this user has the **User Administrator - RESTRICTED** role or create a [custom user role](/en/docs/tutorials/roles#tipos-de-perfis) that includes the **Save user** resource.
 
 ### Application Keys
-Application keys with the **Owner (Admin Super)** role will not automatically be granted the **User Administrator - RESTRICTED** role.  Therefore, if you want any application key to be able to perform the actions associated with the above **Save user** feature, make sure that this key has the **User Administrator - RESTRICTED** role or create a [custom role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#tipos-de-perfis) that includes the **Save user** resource.
+Application keys with the **Owner (Admin Super)** role will not automatically be granted the **User Administrator - RESTRICTED** role.  Therefore, if you want any application key to be able to perform the actions associated with the above **Save user** feature, make sure that this key has the **User Administrator - RESTRICTED** role or create a [custom role](/en/docs/tutorials/roles#tipos-de-perfis) that includes the **Save user** resource.
 
 > ⚠️ Note that with the changes described above, application keys no longer have the **Save user** resource, so a user with access to this feature must grant it, if needed.
 
@@ -81,6 +81,6 @@ Check out the following documentation to learn more about managing users and per
 - [Roles](/en/docs/tutorials/roles)
 - [License Manager resources](/en/docs/tutorials/license-manager-resources)
 - [How to manage users](/en/docs/tutorials/managing-admin-users)
-- [Application Keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet)
+- [Application Keys](/en/docs/tutorials/api-keys)
 - [Best practices for using application keys](/en/docs/tutorials/best-practices-api-keys)
 

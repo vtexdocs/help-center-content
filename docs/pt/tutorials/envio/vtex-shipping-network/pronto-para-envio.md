@@ -34,7 +34,7 @@ Para emitir etiquetas pelo seu Admin VTEX, acesse **Envio > Pronto para envio**,
 * Imprimir uma nova etiqueta de envio, na aba [Pronto para etiquetar](#pronto-para-etiquetar).
 * Acessar etiquetas impressas previamente, na aba [Pacotes enviados](#pacotes-enviados).
 
-> ℹ️ O pedido só aparecerá em **Pronto para envio** após o [status](/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196#tabela-de-status-de-pedidos) *faturado*. Não é possível gerar a etiqueta de um pedido não faturado.
+> ℹ️ O pedido só aparecerá em **Pronto para envio** após o [status](/pt/docs/tutorials/fluxo-e-status-de-pedidos#tabela-de-status-de-pedidos) *faturado*. Não é possível gerar a etiqueta de um pedido não faturado.
 
 ## Aba Pronto para etiquetar 
 

@@ -72,4 +72,4 @@ Ou seja, neste caso tanto as etapas de pagamento quanto de entrega são responsa
 
 > ℹ️ Todo pedido é finalizado em apenas um destes dois status possíveis:<br> <ul> <li>Faturado</li> <li>Cancelado</li> </ul>
 
-> ℹ️ Para entender em mais detalhes cada status dos pedidos, veja uma tabela com todos os status em [Entendendo os status](/pt/tutorial/fluxo-de-pedido--tutorials_196#entendendo-os-status).
+> ℹ️ Para entender em mais detalhes cada status dos pedidos, veja uma tabela com todos os status em [Entendendo os status](/pt/docs/tutorials/fluxo-e-status-de-pedidos#entendendo-os-status).

@@ -21,7 +21,7 @@ VTEX pone a tu disposición una nueva [página de detalles de cuenta](/es/docs/t
 
 La información de tu cuenta se divide en dos pestañas. La pestaña **General** contiene detalles básicos sobre tu cuenta, empresa y usuario titular, así como acciones relacionadas. La información y las acciones relativas a las tiendas asociadas a tu cuenta están disponibles en la pestaña **Tiendas**.
 
-Además, la nueva [página de detalles de la cuenta](/es/docs/tutorials/gestion-de-la-cuenta) no incluye la sección **Seguridad**, presente en la versión anterior. Puedes acceder a la información y acciones que antes componían esta sección en la página [claves de aplicación](/es/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet#generating-app-keys-in-your-account), disponible para todas las cuentas VTEX.
+Además, la nueva [página de detalles de la cuenta](/es/docs/tutorials/gestion-de-la-cuenta) no incluye la sección **Seguridad**, presente en la versión anterior. Puedes acceder a la información y acciones que antes componían esta sección en la página [claves de aplicación](/es/docs/tutorials/claves-de-api#generating-app-keys-in-your-account), disponible para todas las cuentas VTEX.
 
 ## ¿Qué se necesita hacer?
 
@@ -29,5 +29,5 @@ La nueva [página de detalles de la cuenta](/es/docs/tutorials/gestion-de-la-cue
 
 Para saber cómo acceder y utilizar esta nueva página, consulta la documentación [página de detalles de la cuenta](/es/docs/tutorials/gestion-de-la-cuenta).
 
-Si necesitas acceder a la información y las acciones que antes estaban disponibles en la sección **Seguridad** de la página de detalles de la cuenta, ve a la página [claves de aplicación](/es/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet).
+Si necesitas acceder a la información y las acciones que antes estaban disponibles en la sección **Seguridad** de la página de detalles de la cuenta, ve a la página [claves de aplicación](/es/docs/tutorials/claves-de-api).
 

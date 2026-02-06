@@ -14,7 +14,7 @@ locale: es
 subcategoryId: 32zXHBMygA2dB6TbCjQJej
 ---
 
-Las condiciones de las reglas de merchandising del [Editor manual](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8) y el [Editor visual (Beta)](/es/tutorial/crear-regla-de-merchandising-editor-visual-beta--6xteumx9MsDt0uEppbChu3) siguen el formato `{criterio} {operador} {valor}`. Por ejemplo, una condición puede tener la estructura `marca es athletic`, donde `marca` corresponde al criterio, `es` corresponde al operador y `athletic `corresponde al valor.
+Las condiciones de las reglas de merchandising del [Editor manual](/es/docs/tutorials/crear-regla-de-merchandising-editor-manual) y el [Editor visual (Beta)](/es/tutorial/crear-regla-de-merchandising-editor-visual-beta--6xteumx9MsDt0uEppbChu3) siguen el formato `{criterio} {operador} {valor}`. Por ejemplo, una condición puede tener la estructura `marca es athletic`, donde `marca` corresponde al criterio, `es` corresponde al operador y `athletic `corresponde al valor.
 
 Conoce los criterios y los operadores posibles para cada forma de edición en las siguientes tablas:
 

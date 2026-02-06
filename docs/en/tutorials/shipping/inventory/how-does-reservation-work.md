@@ -21,12 +21,12 @@ Reservation is a VTEX solution that prevents the same item from being sold more 
 
 After an item is sold, it goes through the following statuses in your store's inventory:
 
-1. **[Authorized reservation](/en/tutorial/how-does-reservation-work--tutorials_92#authorized-reservation)**: after the order is placed.
-2. **[Confirmed reservation](/en/tutorial/how-does-reservation-work--tutorials_92#confirmed-reservation):** after payment is approved.
-3. **[Acknowledged reservation](/en/tutorial/how-does-reservation-work--tutorials_92#acknowledged-reservation):** when the order status changes to **Handling shipping** in **Orders** module.
-4. **[Removal from inventory](/en/tutorial/how-does-reservation-work--tutorials_92#removal-from-inventoryy):** when the order is in transit.
+1. **[Authorized reservation](/en/docs/tutorials/how-does-reservation-work#authorized-reservation)**: after the order is placed.
+2. **[Confirmed reservation](/en/docs/tutorials/how-does-reservation-work#confirmed-reservation):** after payment is approved.
+3. **[Acknowledged reservation](/en/docs/tutorials/how-does-reservation-work#acknowledged-reservation):** when the order status changes to **Handling shipping** in **Orders** module.
+4. **[Removal from inventory](/en/docs/tutorials/how-does-reservation-work#removal-from-inventoryy):** when the order is in transit.
 
-You can track the reservation status in the VTEX Admin, [as described at the end of this article](/en/tutorial/how-does-reservation-work--tutorials_92#how-to-track-reservation-status).
+You can track the reservation status in the VTEX Admin, [as described at the end of this article](/en/docs/tutorials/how-does-reservation-work#how-to-track-reservation-status).
 
 > ⚠️ Adding products to the cart does not generate a reservation or priority. The Authorized reservation status is only displayed after the order is placed by the customer.
 
@@ -38,7 +38,7 @@ The item remains with this status for a certain time, and if payment is not conf
 
 _Payment expiration period + inventory reservation period_
 
-- **Payment expiration period:** the time period (in days) in which the payment must be made. You can configure this period in the **[Payments](/en/docs/tracks/how-the-payments-module-works)** module for payments with boleto (Brazilian offline payment method) or [notes payable](/en/tutorial/setting-up-payments-with-notes-payable--5pW7avTwtyQcMu4uiW8quQ#notes-payable-setup). For other payment methods, such as credit card and wallet, no time limit for payment expiration can be specified. The payment flow starts right after checkout, and the payment can be approved or denied in different time periods, depending on the selected payment method.
+- **Payment expiration period:** the time period (in days) in which the payment must be made. You can configure this period in the **[Payments](/en/docs/tracks/how-the-payments-module-works)** module for payments with boleto (Brazilian offline payment method) or [notes payable](/en/docs/tutorials/setting-up-payments-with-notes-payable#notes-payable-setup). For other payment methods, such as credit card and wallet, no time limit for payment expiration can be specified. The payment flow starts right after checkout, and the payment can be approved or denied in different time periods, depending on the selected payment method.
 - **Inventory reservation period:** is set automatically, following the rules below.
     - **four calendar days:** when the payment is due on a Sunday, Monday or Tuesday.
     - **five calendar days:** when the payment is due on a Wednesday, Thursday or Friday.

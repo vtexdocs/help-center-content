@@ -30,7 +30,7 @@ Learn how you can configure trade policies in the following modules when your st
 
 To [request additional trade policies](/en/docs/tutorials/requesting-an-additional-trade-policy), contact our Growth Operations team through *[Support](https://supporticket.vtex.com/support)* by selecting **Commercial** and `Create a trade policy`.
 
-Requesting additional trade policies to integrate with [native connectors](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex), [certified connectors](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-certified-connector-partner), or other VTEX stores is free of charge.
+Requesting additional trade policies to integrate with [native connectors](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-a-native-connector-vtex), [certified connectors](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-a-certified-connector-partner), or other VTEX stores is free of charge.
 
 For each additional trade policy, a monthly fee is charged, whether it is used for integration with certified marketplaces, partners, external or VTEX.
 
@@ -75,7 +75,7 @@ This configuration can be done in the *Payments* module by [creating a special c
 ## Catalog 
 Sellers can restrict the availability of products in their catalog by using different trade policies. This is how sellers determine which products will be sold in each marketplace in which they operate. If your store sells electronics and clothing, in order to sell in an electronics-only marketplace, you must segment the product assortment and exclude clothing.
 
-This configuration can be done in the VTEX *Catalog*, when [adding products](/en/tutorial/cadastrando-produtos--tutorials_2567), by indicating which trade policies are associated with it. If no restrictions are set when adding the product, it will be available in all trade policies.
+This configuration can be done in the VTEX *Catalog*, when [adding products](/en/docs/tutorials/adding-or-editing-products), by indicating which trade policies are associated with it. If no restrictions are set when adding the product, it will be available in all trade policies.
 
 > ⚠️ We do not recommend attaching trade policies to collections, when determining the product assortment, especially for external marketplaces. When a product is withdrawn from the collection associated to a trade policy, the VTEX system does not warn the marketplace of that update, making the product still available in the marketplace.
 

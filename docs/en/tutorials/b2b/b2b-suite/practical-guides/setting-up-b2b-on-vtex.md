@@ -25,7 +25,7 @@ See below a description of the settings required for turning an account into B2B
 
 ## Prerequisite
 
-If you already have a B2C (Business to Consumer) store on VTEX, before following the steps described below, you need to create a multistore for your B2B operation. Check out the article [Create multistore / multidomain](/en/tutorial/creating-multi-store-multi-domain--tutorials_510) for more information.
+If you already have a B2C (Business to Consumer) store on VTEX, before following the steps described below, you need to create a multistore for your B2B operation. Check out the article [Create multistore / multidomain](/en/docs/tutorials/managing-a-multistore) for more information.
 
 ## 1. Include a conditional rule in the B2B Commercial Policy
 

@@ -25,7 +25,7 @@ Para simplificar o uso dessa funcionalidade, desenvolvemos o aplicativo **Assemb
 
 ## O que mudou?
 
-Antes, era necessário criar Assembly Options manualmente em **Produtos > Catálogo > Anexos**, conforme descrito em [Implementação das Assembly Options](/pt/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH#implementacao-das-assembly-options).
+Antes, era necessário criar Assembly Options manualmente em **Produtos > Catálogo > Anexos**, conforme descrito em [Implementação das Assembly Options](/pt/docs/tutorials/assembly-options#implementacao-das-assembly-options).
 
 Agora, com o aplicativo, é possível fazer essa configuração na nova página **Produtos > Assembly Options** no Admin VTEX, utilizando uma interface mais simples e específica para esse cenário.
 

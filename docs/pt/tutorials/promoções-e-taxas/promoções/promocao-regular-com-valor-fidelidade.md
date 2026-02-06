@@ -32,7 +32,7 @@ Neste artigo, explicamos:
 
 ### Valor fidelidade nominal
 
-O **Valor fidelidade nominal** adiciona um valor fixo de crédito na conta do usuário na sua loja. Para configurar esse tipo de valor fidelidade, é necessário preencher os seguintes campos do [formulário da promoção regular](/pt/tutorial/promocao-regular--tutorials_327#1-quais-os-dados-gerais-desta-promocao):
+O **Valor fidelidade nominal** adiciona um valor fixo de crédito na conta do usuário na sua loja. Para configurar esse tipo de valor fidelidade, é necessário preencher os seguintes campos do [formulário da promoção regular](/pt/docs/tutorials/promocao-regular-pt#1-quais-os-dados-gerais-desta-promocao):
 
 * **Valor nominal para programa de fidelidade:** quantia do crédito que será adicionado na conta do cliente na sua loja.
 * **Aplicar crédito de fidelidade quando o status do pedido mudar para:** campo para definir a partir de qual status do pedido o crédito será disponibilizado. As opções são **Faturado** ou **Pagamento aprovado**.
@@ -43,7 +43,7 @@ No exemplo ilustrado a seguir, os clientes ganharão um crédito de R$10,00 na l
 
 ### Valor fidelidade percentual
 
-O **Valor fidelidade percentual** adiciona um valor percentual de crédito baseado no preço do produto adquirido. Para configurar esse tipo de valor fidelidade, é necessário preencher os seguintes campos do [formulário da promoção regular](/pt/tutorial/promocao-regular--tutorials_327#1-quais-os-dados-gerais-desta-promocao):
+O **Valor fidelidade percentual** adiciona um valor percentual de crédito baseado no preço do produto adquirido. Para configurar esse tipo de valor fidelidade, é necessário preencher os seguintes campos do [formulário da promoção regular](/pt/docs/tutorials/promocao-regular-pt#1-quais-os-dados-gerais-desta-promocao):
 
 * **Valor percentual para programa de fidelidade:** percentual do valor do pedido que será adicionado como crédito na conta do cliente na sua loja.
 * **Aplicar crédito de fidelidade quando o status do pedido mudar para:** campo para definir a partir de qual status do pedido o crédito será disponibilizado. As opções são **Faturado** ou **Pagamento aprovado**.

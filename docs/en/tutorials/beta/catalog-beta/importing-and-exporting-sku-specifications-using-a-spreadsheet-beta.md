@@ -47,11 +47,11 @@ To export an `.xlsx` file with the SKU specification information, follow these s
 > ℹ️ The exported information corresponds to the fields described in the SKU specification spreadsheet fields section.
 
 1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type [Products and SKUs](/en/docs/tutorials/products-and-skus) in the search bar at the top of the page.
-2. (Optional) If you want to export the SKU specifications of certain items, apply a [search](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#searching-for-a-product) or a [filter](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#filtering-products) as desired. This step isn't required when exporting all the SKU specifications in the catalog.
+2. (Optional) If you want to export the SKU specifications of certain items, apply a [search](/en/docs/tutorials/products-and-skus#searching-for-a-product) or a [filter](/en/docs/tutorials/products-and-skus#filtering-products) as desired. This step isn't required when exporting all the SKU specifications in the catalog.
 3. At the top of the page, click `Export`.
 4. Click `SKU specifications`.
 
-While the operation is running, a message will display indicating that the file is being processed. Leaving the page won't interrupt the operation. You can [track the export progress in the window](/en/tutorial/importing-and-exporting-products-and-skus-using-a-spreadsheet-beta--5udKxWP1ZeBD7QB7Fy2BNl#tracking-export-process) that opens on the page. 
+While the operation is running, a message will display indicating that the file is being processed. Leaving the page won't interrupt the operation. You can [track the export progress in the window](/en/docs/tutorials/importing-and-exporting-products-and-skus-using-a-spreadsheet-beta#tracking-export-process) that opens on the page. 
 
 Once the export is complete, you'll receive an email with a link to download the file. The download link is valid for 24 hours. After that, the link expires. You can also download the file from the window that opens on the page.
 
@@ -72,7 +72,7 @@ The following table describes and includes an example of each field in the SKU s
 | Category | Name related to the SKU's lowest-level category. | Tops |
 | Field ID | Numeric code that identifies the SKU specification field for that SKU. | 892 |
 | Field Name | SKU specification field name. | Color |
-| Field Type Name | [SKU specification field type](/en/tutorial/adding-sku-specifications-or-fields--tutorials_119#sku-field-types):<ul><li>Combo</li><li>Radio</li></ul>If you're using the beta version of categories, check the field types supported for [variations](/en/tutorial/creating-or-editing-categories-attributes-and-variations-beta--1lzs3fHjM9N7CKFOxCCYQi#adding-variations). | Radio |
+| Field Type Name | [SKU specification field type](/en/docs/tutorials/adding-sku-specifications-or-fields#sku-field-types):<ul><li>Combo</li><li>Radio</li></ul>If you're using the beta version of categories, check the field types supported for [variations](/en/docs/tutorials/creating-or-editing-categories-attributes-and-variations-beta#adding-variations). | Radio |
 | Field Value ID | Numeric code that identifies the field value. | 689 |
 | Field Value Name | Field value name. | Color |
 | Specification Code | Numeric code that identifies the relationship between the field and the SKU. | 397 |

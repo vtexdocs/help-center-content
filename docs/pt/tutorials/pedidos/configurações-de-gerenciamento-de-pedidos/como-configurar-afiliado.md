@@ -17,7 +17,7 @@ subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 
 Na VTEX, o [afiliado](/pt/docs/tutorials/o-que-e-afiliado) é um código que identifica o marketplace para o seller. O [seller VTEX](/pt/tutorial/integrating-with-marketplace/#sendo-seller-vtex) precisa configurar um código de afiliado para poder integrar com um [marketplace VTEX](/pt/tutorial/integrating-with-marketplace/#ser-um-marketplace-vtex), e essa configuração só é necessária quando o marketplace e o seller integrados são ambos lojas VTEX. 
 
-Quando o marketplace não é uma loja VTEX (como em [integrações externas](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-marketplace-externo)), ou quando a loja integra com um [marketplace certificado](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-marketplaces-certificados) (como Amazon ou Mercado Livre), o código do afiliado é criado automaticamente pela plataforma.
+Quando o marketplace não é uma loja VTEX (como em [integrações externas](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-marketplace-externo)), ou quando a loja integra com um [marketplace certificado](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-marketplaces-certificados) (como Amazon ou Mercado Livre), o código do afiliado é criado automaticamente pela plataforma.
 
 ## Como configurar
 
@@ -38,7 +38,7 @@ Para criar um novo ID do afiliado, siga os passos abaixo:
 
 > > ❗ O valor **{IdDoSeller}** é *case sensitive*. Dessa forma, ele deverá ser escrito na URL exatamente da mesma maneira que estiver cadastrado no marketplace.
 
-> Para casos de [marketplaces externos à VTEX](/pt/tutorial/marketplace-strategies-at-vtex--tutorials_402#integrado-a-marketplace-externo), preencha com o valor: `https://{endpointDoAfiliado}/api/notification/`.   
+> Para casos de [marketplaces externos à VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-marketplace-externo), preencha com o valor: `https://{endpointDoAfiliado}/api/notification/`.   
 
 > Saiba mais em nosso artigo no Developer Portal [How to confugure the affiliate endpoint](https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-price-update#how-to-configure-the-affiliate-endpoint).
 

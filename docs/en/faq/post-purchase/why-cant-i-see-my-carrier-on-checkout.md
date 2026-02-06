@@ -18,7 +18,7 @@ Selecting a carrier for delivery is a mandatory step during checkout when placin
 
 However, sometimes a carrier might not be displayed at checkout. We have separated six scenarios in which this situation can occur, along with their respective solutions.
 
-It's worth pointing out that before reading this article, you must ensure that all [carriers are registered](/en/docs/tutorials/carriers-on-vtex) on the platform. In addition, all solutions are performed in the [Shipping](/en/tutorial/visao-geral-logistics--tutorials_143) module.
+It's worth pointing out that before reading this article, you must ensure that all [carriers are registered](/en/docs/tutorials/carriers-on-vtex) on the platform. In addition, all solutions are performed in the [Shipping](/en/docs/tutorials/fulfillment-logistics-vtex) module.
 
 ## Carrier type conflict 
 

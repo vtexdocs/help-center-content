@@ -41,7 +41,7 @@ To add a product to the cart, select the desired variation, shipping option, and
 Filters allow the search to be refined based on customer preferences. You can refine your search by applying multiple filters and easily remove them if needed.
 
 To use search filters in VTEX Sales App, you must first install and configure [VTEX Intelligent Search](/en/docs/tracks/overview-intelligent-search). Please keep in mind that:
-- It is essential to configure the filters that will be displayed, as indicated in the article [Search configuration](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx). Otherwise, all product information will be considered as filterable attributes in VTEX Sales App.
+- It is essential to configure the filters that will be displayed, as indicated in the article [Search configuration](/en/docs/tutorials/search-configuration). Otherwise, all product information will be considered as filterable attributes in VTEX Sales App.
 - Any changes made to the search settings will also apply to the ecommerce operation if it uses VTEX Intelligent Search.
 
 In addition to configuring VTEX Intelligent Search, to enable the filter feature in VTEX Sales App, [contact VTEX support](https://support.vtex.com/hc/pt-br/requests).

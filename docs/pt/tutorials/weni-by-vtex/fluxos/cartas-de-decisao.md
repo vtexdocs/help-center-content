@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-As cartas de decisão são parte muito importante para as construções lógicas dos nossos fluxos. Na [introdução a fluxos](https://help.vtex.com/pt/docs/tutorials/introducao-a-fluxos) conversamos um pouco sobre o conceito dessas cartas, e agora vamos entender um pouco mais sobre sua anatomia e os tipos que existem dentro da plataforma.
+As cartas de decisão são parte muito importante para as construções lógicas dos nossos fluxos. Na [introdução a fluxos](/pt/docs/tutorials/introducao-a-fluxos) conversamos um pouco sobre o conceito dessas cartas, e agora vamos entender um pouco mais sobre sua anatomia e os tipos que existem dentro da plataforma.
 
 Para facilitar a navegação por esse artigo, caso queira ir diretamente para algum tópico em especifico, basta clicar no nome dele baixo:
   * Rotas e regras de decisão
@@ -117,7 +117,7 @@ Toda carta de decisão, escolhe uma rota no fim da sua execução, e isso gera p
   * Conteúdos extras e anexos enviados junto com o valor;
   * Entre outros.
 
-Você pode acessar esses valores de fluxo utilizando as variáveis da plataforma (para saber mais acesse o artigo sobre [expressões e variáveis](https://help.vtex.com/pt/docs/tutorials/introducao-a-expressoes-e-variaveis)) e também pode ver esses resultados em forma de gráficos na área de resultados no editor de fluxo. Para saber mais, acesse o artigo sobre o [editor de fluxo e suas ferramentas](https://help.vtex.com/pt/docs/tutorials/editor-de-fluxo-e-suas-ferramentas).
+Você pode acessar esses valores de fluxo utilizando as variáveis da plataforma (para saber mais acesse o artigo sobre [expressões e variáveis](/pt/docs/tutorials/introducao-a-expressoes-e-variaveis)) e também pode ver esses resultados em forma de gráficos na área de resultados no editor de fluxo. Para saber mais, acesse o artigo sobre o [editor de fluxo e suas ferramentas](/pt/docs/tutorials/editor-de-fluxo-e-suas-ferramentas).
 
 Por padrão, os nomes dos resultados serão sempre **_(Result + n)_** onde n é o número de resultados que existem no seu fluxo, porém, isso pode ser facilmente mudado no campo de Result name.
 
@@ -140,7 +140,7 @@ Se estiver usando este card para coletar uma informação obrigatória no fluxo,
 
 ### Dividir por uma expressão customizada
 
-As rotas são decididas a partir de uma expressão customizada criada pelo usuário. Essa expressão customizada pode ser construída a partir do uso de variáveis e funções. Para saber mais, visite o artigo sobre [expressões e funções](https://help.vtex.com/pt/docs/tutorials/introducao-a-expressoes-e-variaveis).
+As rotas são decididas a partir de uma expressão customizada criada pelo usuário. Essa expressão customizada pode ser construída a partir do uso de variáveis e funções. Para saber mais, visite o artigo sobre [expressões e funções](/pt/docs/tutorials/introducao-a-expressoes-e-variaveis).
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_6.png)
 
@@ -192,7 +192,7 @@ Com o cartão **Classificar automaticamente** , você pode utilizar uma express�
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_12.png)
 
-Utilize frases de comando claras e objetivas para ajudar a classificar corretamente. Saiba mais no artigo sobre [Zero Shot](https://help.vtex.com/pt/docs/tutorials/classificacao-e-resposta-inteligente).
+Utilize frases de comando claras e objetivas para ajudar a classificar corretamente. Saiba mais no artigo sobre [Zero Shot](/pt/docs/tutorials/classificacao-e-resposta-inteligente).
 
 ### Aguarde por resposta Inteligente
 
@@ -200,7 +200,7 @@ Com o cartão **Aguarde por resposta inteligente** , você consegue aguardar pel
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_13.png)
 
-Utilize frases de comando claras e objetivas para ajudar a classificar corretamente. Saiba mais no artigo sobre [Zero Shot](https://help.vtex.com/pt/docs/tutorials/classificacao-e-resposta-inteligente).
+Utilize frases de comando claras e objetivas para ajudar a classificar corretamente. Saiba mais no artigo sobre [Zero Shot](/pt/docs/tutorials/classificacao-e-resposta-inteligente).
 
 ### Dividir por intenção
 

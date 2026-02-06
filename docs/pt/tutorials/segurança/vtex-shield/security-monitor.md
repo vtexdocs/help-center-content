@@ -54,7 +54,7 @@ A aba apresenta a listagem completa de descobertas abertas em uma tabela, da mai
 | Colunas | Descrição |
 | --- | --- |
 | Descoberta | Email de usuário ou chave de API relacionada à descoberta. |
-| Tipo | Tipo de descoberta detectada:<br/><ul><li>**Chaves de App antigas:** [chaves de API](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) que foram criadas há mais de 6 meses.</li><li>**Super Admin Excessivos:** usuários ou chaves de API com o [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) **Owner (Admin Super)**.</li><li>**Chaves de App Vazadas:** [chaves de API](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) que foram expostas na web, encontradas pelo time de Segurança da VTEX.</li><li>**Usuários Inativos:** usuário que não acessou o Admin nos últimos 30 dias.</li><li>**Permissões Excessivas:** usuários ou chaves de API com acesso a recursos que não utilizaram nos últimos 30 dias.</li></ul> |
+| Tipo | Tipo de descoberta detectada:<br/><ul><li>**Chaves de App antigas:** [chaves de API](/pt/docs/tutorials/chaves-de-api) que foram criadas há mais de 6 meses.</li><li>**Super Admin Excessivos:** usuários ou chaves de API com o [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) **Owner (Admin Super)**.</li><li>**Chaves de App Vazadas:** [chaves de API](/pt/docs/tutorials/chaves-de-api) que foram expostas na web, encontradas pelo time de Segurança da VTEX.</li><li>**Usuários Inativos:** usuário que não acessou o Admin nos últimos 30 dias.</li><li>**Permissões Excessivas:** usuários ou chaves de API com acesso a recursos que não utilizaram nos últimos 30 dias.</li></ul> |
 | Detectada | Data em que a descoberta foi detectada. |
 | Sensor | Sensor que detectou a ameaça: <br/><ul><li>**VTEX Identity**</li></ul> |
 | Severidade | Nível de severidade da ameaça, determinado pelo impacto ou potencial risco: <br/><ul><li>**Alta**</li> <li>**Média**</li><li>**Baixa**</li></ul> |
@@ -93,7 +93,7 @@ A aba **Fechadas** contém a listagem de descobertas que já foram gerenciadas, 
 | Colunas | Descrição |
 | --- | --- |
 | Descoberta | Email de usuário ou chave de API relacionada à descoberta. |
-| Tipo | Tipo de descoberta detectada:<br/><ul><li>**Chaves de App antigas:** [chaves de API](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) que foram criadas há mais de 6 meses.</li><li>**Super Admin Excessivos:** usuários ou chaves de API com o [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) **Owner (Admin Super)**.</li><li>**Chaves de App Vazadas:** [chaves de API](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) que foram expostas na web, encontradas pelo time de Segurança da VTEX.</li><li>**Usuários Inativos:** usuário que não acessou o Admin nos últimos 30 dias.</li></ul> |
+| Tipo | Tipo de descoberta detectada:<br/><ul><li>**Chaves de App antigas:** [chaves de API](/pt/docs/tutorials/chaves-de-api) que foram criadas há mais de 6 meses.</li><li>**Super Admin Excessivos:** usuários ou chaves de API com o [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) **Owner (Admin Super)**.</li><li>**Chaves de App Vazadas:** [chaves de API](/pt/docs/tutorials/chaves-de-api) que foram expostas na web, encontradas pelo time de Segurança da VTEX.</li><li>**Usuários Inativos:** usuário que não acessou o Admin nos últimos 30 dias.</li></ul> |
 | Detectada | Data em que a descoberta foi detectada. |
 | Fechada | Data em que a descoberta foi fechada. |
 | Fechada por | Indica que a descoberta foi fechada automaticamente, após ser gerenciada por um usuário administrativo. |
@@ -159,4 +159,4 @@ Para editar os usuários administrativos que vão receber notificações em caso
 * [VTEX Shield](/pt/docs/tutorials/vtex-shield)
 * [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso)
 * [Usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos)
-* [Chaves de API](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet)
+* [Chaves de API](/pt/docs/tutorials/chaves-de-api)

@@ -216,7 +216,7 @@ Regardless of which CMS your store uses — Legacy Portal or VTEX IO — you mus
 
 ### Legacy CMS Portal
 
-If your store uses the [CMS Legacy Portal](/en/docs/tracks/legacy-cms-portal), we recommend that your store's developers check if the product search result [control](/en/tutorial/lista-de-controles-para-templates--tutorials_563#controls-for-department-category-and-search-pages) (`<vtex.cmc:searchResult/>`) is being used in the page templates for Department, Category and Search, in **CMS > Layout**. If not, the products will not be displayed.
+If your store uses the [CMS Legacy Portal](/en/docs/tracks/legacy-cms-portal), we recommend that your store's developers check if the product search result [control](https://developers.vtex.com/vtex-developer-docs/docs/list-of-controls-for-templates#controls-for-department-category-and-search-pages) (`<vtex.cmc:searchResult/>`) is being used in the page templates for Department, Category and Search, in **CMS > Layout**. If not, the products will not be displayed.
 
 ### CMS VTEX IO
 

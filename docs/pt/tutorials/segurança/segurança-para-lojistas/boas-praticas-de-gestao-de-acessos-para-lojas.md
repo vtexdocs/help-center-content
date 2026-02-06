@@ -33,7 +33,7 @@ Adote o **princípio do menor privilégio**, que consiste em conceder a cada um 
 
 A segregação de funções contribui para um ambiente mais seguro, permitindo que cada usuário ou chave tenha permissões compatíveis com seu papel na organização.
 
-Para isso, crie diferentes perfis, com acessos compatíveis com as permissões necessárias para cada função. Saiba como criar perfis de acesso customizados em [Criar perfil de acesso](/pt/tutorial/criar-perfil-de-acesso--qGtNQpKSSAduX94l2WZBW#criar-perfil-de-acesso-personalizado).
+Para isso, crie diferentes perfis, com acessos compatíveis com as permissões necessárias para cada função. Saiba como criar perfis de acesso customizados em [Criar perfil de acesso](/pt/docs/tutorials/criar-perfil-de-acesso#criar-perfil-de-acesso-personalizado).
 
 ## Utilize login corporativo (SSO)
 
@@ -60,6 +60,6 @@ Se a loja permitir login via Google, exija a autenticação de dois fatores (2FA
 ## Saiba mais
 
 * [Controle de acesso](/pt/subcategory/controle-de-acesso--1HSqkejwuYcQSMC400uY84)  
-* [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso)  
+* [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso#criando-um-perfil-de-acesso)  
 * [Login (SSO)](https://developers.vtex.com/docs/guides/login-integration-guide)   
 * [Habilitar login por autenticação de dois fatores](/pt/docs/tutorials/habilitar-login-por-autenticacao-de-2-fatores)

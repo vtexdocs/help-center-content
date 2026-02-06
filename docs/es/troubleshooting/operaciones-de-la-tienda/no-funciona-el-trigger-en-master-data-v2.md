@@ -51,7 +51,7 @@ Intenta enviar un request manualmente al endpoint utilizando una herramienta com
 
 ### Comprobar permisos y autenticación
 
-* Asegúrate de que tus [credenciales](/es/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) tienen los [permisos](/es/docs/tutorials/roles) necesarios para enviar requests al endpoint especificado.  
+* Asegúrate de que tus [credenciales](/es/docs/tutorials/claves-de-api) tienen los [permisos](/es/docs/tutorials/roles) necesarios para enviar requests al endpoint especificado.  
 * Si el trigger realiza un request a un endpoint externo, comprueba si se requieren autenticación adicional o encabezados de seguridad que deban configurarse para dicho endpoint.
 
-Si las soluciones anteriores no resuelven el problema, ponte en contacto con nuestro [soporte](/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe).
+Si las soluciones anteriores no resuelven el problema, ponte en contacto con nuestro [soporte](/es/docs/tutorials/como-funciona-el-soporte-de-vtex).

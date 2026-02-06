@@ -41,7 +41,7 @@ For example, suppose your store has a "Red T-shirt" SKU. If you fill in the “U
 
 Therefore, when the customer selects two items at Checkout, they will be purchasing ten "Red T-shirts" instead of two.
 
-For more details, check out the article on [how to fill each of the registration fields for a new SKU](/en/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY).
+For more details, check out the article on [how to fill each of the registration fields for a new SKU](/en/docs/tutorials/adding-or-editing-skus).
 
 ### Price per quantity
 
@@ -97,6 +97,6 @@ For more details on “My Account,” check out the tutorial on [how to configur
 
 ### Order replacement
 
-Order replacement — or [change order](/en/tutorial/change-making-changes-to-an-order--3d1XLIgPQcwaKGyMiWaYog) — is a feature of the Orders management module in the VTEX Admin. This feature allows retailers to edit orders that have already been placed without canceling them or without support assistance.
+Order replacement — or [change order](/en/docs/tutorials/changing-items-from-a-complete-order) — is a feature of the Orders management module in the VTEX Admin. This feature allows retailers to edit orders that have already been placed without canceling them or without support assistance.
 
 To enable order replacement, check out our [article about this feature in the Help Center](/en/tutorial/how-the-order-replacement-works--3aBxdbUPKgweug68YyK8oQ).

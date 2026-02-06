@@ -22,10 +22,10 @@ Os adicionais de frete são valores extras adicionados ao custo de envio pelas [
 
 Os valores adicionais podem ser configurados conforme:
 
-* O peso do produto: [adicional por peso](/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV#adicional-por-peso).
-* O valor do produto: [adicional por preço](/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV#adicional-por-preco).
-* O seguro do produto: [adicional de seguro](/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-seguro).
-* O valor do frete:  [adicional de frete](/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-frete).
+* O peso do produto: [adicional por peso](/pt/docs/tutorials/adicionais-de-frete#adicional-por-peso).
+* O valor do produto: [adicional por preço](/pt/docs/tutorials/adicionais-de-frete#adicional-por-preco).
+* O seguro do produto: [adicional de seguro](/pt/docs/tutorials/adicionais-de-frete#adicional-de-seguro).
+* O valor do frete:  [adicional de frete](/pt/docs/tutorials/adicionais-de-frete#adicional-de-frete).
 
 ![adicionais frete PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/tarifas-de-envio/adicionais-de-frete_2.svg)
 

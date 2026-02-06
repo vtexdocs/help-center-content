@@ -53,7 +53,7 @@ Para reproduzir o comportamento:
 
 2. Faça uma [alteração no pedido](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado). 
 
-    > Se você utiliza a nova interface de Detalhes do pedido (Beta), acesse [Como alterar itens do pedido (Beta)](/pt/tutorial/how-to-change-order-items-beta--7jekq618QxgbsOxKkXBjE8).
+    > Se você utiliza a nova interface de Detalhes do pedido (Beta), acesse [Como alterar itens do pedido (Beta)](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado).
 
 3. Acompanhe todos os eventos da transação, após as mudanças ocorridas ao pedido, ao clicar em [Ver detalhes da transação](/pt/docs/tracks/ver-detalhes-da-transacao). 
 

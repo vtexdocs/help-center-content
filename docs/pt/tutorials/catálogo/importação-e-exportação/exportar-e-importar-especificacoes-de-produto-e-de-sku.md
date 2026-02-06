@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2u48reCb68K48EAcm86ccM
 ---
 
-Após a definição da árvore de categorias e o cadastro de [especificações de produtos e de SKUs](/pt/docs/tracks/especificacoes-definicao-de-conceito) na sua loja, é necessário preencher os valores das especificações criadas. No Admin VTEX, esse processo pode ser realizado através de uma planilha ou de forma manual no cadastro do [produto](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106#cadastro-do-produto) e no cadastro do [SKU](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119#cadastro-do-sku).
+Após a definição da árvore de categorias e o cadastro de [especificações de produtos e de SKUs](/pt/docs/tracks/especificacoes-definicao-de-conceito) na sua loja, é necessário preencher os valores das especificações criadas. No Admin VTEX, esse processo pode ser realizado através de uma planilha ou de forma manual no cadastro do [produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto#cadastro-do-produto) e no cadastro do [SKU](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-sku#cadastro-do-sku).
 
 Neste artigo, explicamos como funciona a exportação e importação de planilhas com as especificações de produto e de SKU no Admin VTEX.
 

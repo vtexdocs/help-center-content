@@ -43,6 +43,6 @@ After the [first access](/en/docs/tracks/initial-setup), you can change the stor
 - Transferring responsibility.
 - Changing the account's ID document.
 
-To make these changes, you need to [open a ticket to billing support](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#financial), indicating the type of change you need.
+To make these changes, you need to [open a ticket to billing support](/en/docs/tutorials/opening-tickets-to-vtex-support#financial), indicating the type of change you need.
 
 > ℹ️ For more information on how to request an SLA verification and the discounts granted for SLA violations, read the [How to request a platform SLA verification? ](/en/docs/tutorials/how-to-request-sla-verification)

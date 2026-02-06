@@ -53,7 +53,7 @@ Os campos desta seção são sobre os dados gerais do produto:
 - **Ativo:** para ativar o produto, habilite o toggle <i class="fas fa-toggle-on" aria-hidden="true"></i> **Ativo**. Para mantê-lo inativo, deixe o toggle desabilitado <i class="fas fa-toggle-off" aria-hidden="true"></i>. Saiba mais sobre status de produto no artigo [Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus).
 - **Descrição:** na caixa de texto, digite as informações gerais sobre o produto. Esse conteúdo é apresentado aos clientes na vitrine da loja, por isso recomendamos criar um resumo simples e de fácil entendimento.
 
-  > ℹ️ Este campo permite adicionar uma imagem à descrição do produto, usando uma tag HTML que contenha a URL da imagem. No entanto, recomendamos que as imagens do seu catálogo sejam gerenciadas como [mídias de SKUs](/pt/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN#imagens).
+  > ℹ️ Este campo permite adicionar uma imagem à descrição do produto, usando uma tag HTML que contenha a URL da imagem. No entanto, recomendamos que as imagens do seu catálogo sejam gerenciadas como [mídias de SKUs](/pt/docs/tutorials/adicionar-ou-editar-sku#imagens).
 
 - **Descrição complementar:** ao ativar o toggle <i class="fas fa-toggle-on" aria-hidden="true"></i> **Descrição complementar**, aparece uma caixa de texto para preencher com conteúdo adicional do produto, como informações resumidas.
 - **Marca*:** digite ou busque o nome da [marca](/pt/docs/tutorials/o-que-e-uma-marca) do produto, e selecione a opção desejada. É necessário [cadastrar a marca](/pt/docs/tracks/cadastrar-marcas) previamente e garantir que ela esteja ativa.

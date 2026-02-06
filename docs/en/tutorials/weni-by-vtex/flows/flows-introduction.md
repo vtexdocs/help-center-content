@@ -62,4 +62,4 @@ To create a note card, simply double-click on an empty space in the flow. After 
 #### What's next?
 Now that we have a better understanding of the concept of a flow and how it is formed, we can delve deeper into each of the existing cards, as well as some other settings within our editor.
 
-If you want to learn more, check out our article on [creating flows](https://help.vtex.com/docs/tutorials/flows-creation).
+If you want to learn more, check out our article on [creating flows](/en/docs/tutorials/flows-creation).

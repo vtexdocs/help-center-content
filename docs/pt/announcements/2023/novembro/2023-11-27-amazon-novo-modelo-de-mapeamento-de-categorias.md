@@ -32,5 +32,5 @@ Veja alguns benefícios do mapeamento de categorias e atributos via Admin VTEX:
 
 ## O que precisa ser feito?  
 
-A funcionalidade estará disponível para todas as [contas VTEX que atuam como seller](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) a partir de **18 de dezembro de 2023.** Para utilizá-la, você precisa ter a sua conta VTEX [integrada](/pt/docs/tracks/amazon) à Amazon e fazer o envio dos produtos utilizando o tutorial de [Envio e mapeamento de categorias dos produtos para a Amazon](/pt/docs/tracks/envio-de-produtos-para-amazon).  
+A funcionalidade estará disponível para todas as [contas VTEX que atuam como seller](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#sendo-seller-vtex) a partir de **18 de dezembro de 2023.** Para utilizá-la, você precisa ter a sua conta VTEX [integrada](/pt/docs/tracks/amazon) à Amazon e fazer o envio dos produtos utilizando o tutorial de [Envio e mapeamento de categorias dos produtos para a Amazon](/pt/docs/tracks/envio-de-produtos-para-amazon).  
 

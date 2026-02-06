@@ -44,7 +44,7 @@ The campaign audiences are displayed in _cards_ containing the following informa
 * **Status:** Current availability status of the campaign audience.
     * **Active:** The campaign audience is available to use in your store's promotion campaigns, i.e. it is not archived.
     * **Inactive:** The campaign audience is not available to use in your store's promotion campaigns. This status is not permanent — you can reactivate a campaign audience at any time.
-* **Target audience:** Name of the [target audience](/en/tutorial/campaign-audiences--3o7lhpNseXY2WmjZO0gQ6m#target-audience) associated to the campaign audience.
+* **Target audience:** Name of the [target audience](/en/docs/tutorials/campaign-audiences#target-audience) associated to the campaign audience.
 
 To view the [archived](#archiving-a-campaign-audience) campaign audiences, next to the **Show** option, click **Archived**, as illustrated below:
 

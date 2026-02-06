@@ -42,7 +42,7 @@ Para evitar este tipo de cenário, utilize somente os modelos de planilha dispon
 
 ### Preenchimento de dados
 
-Planilhas preenchidas com informações incorretas, por exemplo, inserindo o ID do produto onde deveria ser utilizado o ID do SKU, ou [alterando o preço de um SKU](/pt/tutorial/alteracao-de-preco-de-sku--tutorials_95#regra-para-alteracao-de-preco) cadastrado em mais de 70% ou diminuindo mais de 30% em relação ao valor atual, podem gerar inconsistências no momento de importá-las na loja.
+Planilhas preenchidas com informações incorretas, por exemplo, inserindo o ID do produto onde deveria ser utilizado o ID do SKU, ou [alterando o preço de um SKU](/pt/docs/tutorials/alteracao-de-preco-de-sku#regra-para-alteracao-de-preco) cadastrado em mais de 70% ou diminuindo mais de 30% em relação ao valor atual, podem gerar inconsistências no momento de importá-las na loja.
 
 Confira se os campos de sua planilha estão devidamente preenchidos conforme as orientações dos artigos abaixo:
 

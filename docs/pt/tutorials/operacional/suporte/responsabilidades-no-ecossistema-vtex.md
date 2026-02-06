@@ -164,7 +164,7 @@ Problemas relacionados a como o conteúdo está aparecendo para o usuário final
 * Botões de chamada para ação (por exemplo, Comprar, Avise-me, Adicionar ao carrinho) com comportamento não esperado.
 * Preços de produtos ou valores de frete inconsistentes com o que está cadastrado na plataforma.
 
-Se a agência verificar que o problema está em controles, apps ou componentes nativos da VTEX, acione nossos canais de comunicação, conforme a [Política de atendimento do suporte da VTEX](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9), incluindo todas as evidências da investigação já feita pela agência.
+Se a agência verificar que o problema está em controles, apps ou componentes nativos da VTEX, acione nossos canais de comunicação, conforme a [Política de atendimento do suporte da VTEX](/pt/docs/tutorials/recursos-de-suporte-global-da-vtex), incluindo todas as evidências da investigação já feita pela agência.
 
 ## Integrações com marketplaces externos
 
@@ -198,7 +198,7 @@ Confira as responsabilidades envolvidas na atualização ou criação de pedidos
    * Se o pedido está preparando entrega ou faturado, por exemplo, é responsabilidade do **ERP** notificar a VTEX.
    * Se o pedido foi cancelado no marketplace, a responsabilidade é do **conector**.
 
-Para mais informações sobre quem é responsável por cada etapa do fluxo de um pedido num cenário de marketplace externo, veja [Fluxo e status de pedidos - Fluxo do Seller](/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196#fluxo-do-seller).
+Para mais informações sobre quem é responsável por cada etapa do fluxo de um pedido num cenário de marketplace externo, veja [Fluxo e status de pedidos - Fluxo do Seller](/pt/docs/tutorials/fluxo-e-status-de-pedidos#fluxo-do-seller).
 
 #### Status do pedido 
 
@@ -210,4 +210,4 @@ Para entender qual suporte deve ser acionado caso haja algum problema na atualiz
 
 ![ver-interacoes-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/suporte/operacional/responsabilidades-no-ecossistema-vtex_2.png)
 
-Caso a mensagem de erro não seja autossuficiente, o lojista pode acionar nossos canais de comunicação, conforme a [Política de atendimento do suporte da VTEX](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9). Recomendamos incluir a evidência da tela de interações e o ID do pedido, para que o time de especialistas ajude a identificar a origem do problema.
+Caso a mensagem de erro não seja autossuficiente, o lojista pode acionar nossos canais de comunicação, conforme a [Política de atendimento do suporte da VTEX](/pt/docs/tutorials/recursos-de-suporte-global-da-vtex). Recomendamos incluir a evidência da tela de interações e o ID do pedido, para que o time de especialistas ajude a identificar a origem do problema.

@@ -29,6 +29,6 @@ We added this required permission for security purposes. Thus, only Admin users 
 
 For an existing Admin user to be able to manage redirects in the Store Framework CMS, they need to be assigned a user role that includes the **CMS Settings** resource. Check the instructions for editing a user's role in the [How to manage users article](/en/docs/tutorials/managing-admin-users#editing-users).
 
-If you want to use a customized role, you can create a new role or edit an existing one to include the **CMS Settings** resource. Check the instructions for creating and editing roles in the [Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) article.
+If you want to use a customized role, you can create a new role or edit an existing one to include the **CMS Settings** resource. Check the instructions for creating and editing roles in the [Roles](/en/docs/tutorials/roles#creating-a-role) article.
 
 Learn more about redirects in the [Managing URL redirects](/en/docs/tutorials/managing-url-redirects) article.

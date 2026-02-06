@@ -36,7 +36,7 @@ Para enviar a fatura pelo Admin VTEX, realize os seguintes passos:
 5. Clique no botão `Faturar`.   
 6. Clique na opção de faturamento desejada:    
     * **Enviar fatura referenciando itens:** para faturar o pedido referenciando os itens do pacote.    
-    * **Enviar fatura avulsa:** para faturar itens específicos do pacote. Caso sejam feitas [alterações no pedido](/pt/tutorial/how-to-change-order-items--7jekq618QxgbsOxKkXBjE8), é necessário inserir [faturas parciais](/pt/docs/tracks/faturas-parciais).  
+    * **Enviar fatura avulsa:** para faturar itens específicos do pacote. Caso sejam feitas [alterações no pedido](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado), é necessário inserir [faturas parciais](/pt/docs/tracks/faturas-parciais).  
     * **Notificar fatura** permite notificar o ERP da sua loja, para gerar nota fiscal.        
 7. Preencha os campos do formulário correspondente:
     * Dados do formulário **Enviar fatura referenciando itens**
@@ -64,6 +64,6 @@ Depois do pedido `Faturado`, confira as notas fiscais inseridas na seção **Fat
 
 ![Fatura](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/visão-geral-de-pedidos/faturar-um-pedido-manualmente_2.png)
 
-Em casos de envios de [faturas parciais](/pt/docs/tracks/faturas-parciais), ao [alterar ou remover itens](/pt/tutorial/how-to-change-order-items--7jekq618QxgbsOxKkXBjE8) de um pedido, o valor total do pedido será atualizado após o faturamento, e corresponde ao que é captado pelo gateway de pagamentos da VTEX.
+Em casos de envios de [faturas parciais](/pt/docs/tracks/faturas-parciais), ao [alterar ou remover itens](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado) de um pedido, o valor total do pedido será atualizado após o faturamento, e corresponde ao que é captado pelo gateway de pagamentos da VTEX.
 
 Não é possível [cancelar pedidos](/pt/docs/tutorials/como-cancelar-pedido) que já tenham sido [faturados parcialmente](/pt/docs/tracks/faturas-parciais). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado).

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
-A veces se producen errores de integración de stock en los marketplaces para los que VTEX ha desarrollado un [conector nativo](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex). Como consecuencia, los ítems con errores no estarán disponibles en los _marketplaces_.  En estos casos, puedes ver un mensaje que identifica cuál es el error específico. Puedes verlo en el Admin VTEX, en **MARKETPLACE > Conexiones > Stock,** haciendo clic en el mensaje de proceso con error.
+A veces se producen errores de integración de stock en los marketplaces para los que VTEX ha desarrollado un [conector nativo](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-conector-nativo-vtex). Como consecuencia, los ítems con errores no estarán disponibles en los _marketplaces_.  En estos casos, puedes ver un mensaje que identifica cuál es el error específico. Puedes verlo en el Admin VTEX, en **MARKETPLACE > Conexiones > Stock,** haciendo clic en el mensaje de proceso con error.
 
 Para ver qué errores de integración de _stock_ son más frecuentes en un determinado _marketplace_ y cómo resolverlos, haz clic en el nombre del _marketplace_:
 

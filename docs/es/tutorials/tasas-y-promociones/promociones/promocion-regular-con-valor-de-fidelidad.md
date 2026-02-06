@@ -31,7 +31,7 @@ Puedes crear una [promoción regular](/es/docs/tutorials/registro-promocion-regu
 
 ### Valor de fidelidad nominal
 
-El **valor de fidelidad nominal** agrega un valor fijo como crédito a la cuenta que el usuario tiene en tu tienda. Para configurar este tipo de valor de fidelidad, debes rellenar los campos a continuación que corresponden al [formulario de la promoción regular](/es/tutorial/registro-promocion-regular--tutorials_327#1-cuales-son-los-datos-generales-de-la-promocion):
+El **valor de fidelidad nominal** agrega un valor fijo como crédito a la cuenta que el usuario tiene en tu tienda. Para configurar este tipo de valor de fidelidad, debes rellenar los campos a continuación que corresponden al [formulario de la promoción regular](/es/docs/tutorials/registro-promocion-regular#1-cuales-son-los-datos-generales-de-la-promocion):
 
 * **Valor nominal para programa de fidelidad:** monto del crédito que se agregará a la cuenta que el cliente tiene en tu tienda.
 * **Aplicar crédito de fidelidad cuando el status del pedido cambie a:** campo donde se define el status del pedido a partir del cual estará disponible el crédito. Las opciones son **Facturado** o **Pago aprobado**.
@@ -42,7 +42,7 @@ En el ejemplo que se muestra a continuación, los clientes obtendrán un crédit
 
 ### Valor de fidelidad porcentual
 
-El **valor de fidelidad porcentual** agrega un valor porcentual como crédito de acuerdo con el precio del producto adquirido. Para configurar este tipo de valor de fidelidad, debes rellenar los campos a continuación que corresponden al [formulario de la promoción regular](/es/tutorial/registro-promocion-regular--tutorials_327#1-cuales-son-los-datos-generales-de-la-promocion):
+El **valor de fidelidad porcentual** agrega un valor porcentual como crédito de acuerdo con el precio del producto adquirido. Para configurar este tipo de valor de fidelidad, debes rellenar los campos a continuación que corresponden al [formulario de la promoción regular](/es/docs/tutorials/registro-promocion-regular#1-cuales-son-los-datos-generales-de-la-promocion):
 
 * **Valor porcentual para el programa de fidelidad:** porcentaje del valor del pedido que se agregará como crédito a la cuenta que el cliente tiene en tu tienda.
 * **Aplicar crédito de fidelidad cuando el status del pedido cambie a:** campo donde se define el status del pedido a partir del cual estará disponible el crédito. Las opciones son **Facturado** o **Pago aprobado**.

@@ -65,7 +65,7 @@ Errors in product fields can lead to inconsistencies when indexing a product.
 
 2. Find the product you want and click **UPDATE**.  
 
-3. Check if the information in all the [product fields](/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke) is correct. If necessary, update it and click Save.  
+3. Check if the information in all the [product fields](/en/docs/tutorials/adding-or-editing-products) is correct. If necessary, update it and click Save.  
 
 4. Access the indexing report in **Catalog > Reports** and check whether the product is in the indexing queue or has been indexed.
 
@@ -95,7 +95,7 @@ After adjusting the number of SKUs per product, check the indexing report, as de
 
 ### Remove SKUs from collections 
 
-> ℹ️ There are two ways to remove a SKU from a collection: via the [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal) or using the **Collections (Beta)** module. This section shows how to remove a SKU from a collection in the **Legacy CMS Portal**. For more information about the process in the **Collections (Beta)** module, see [Product removal](/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#product-removal).  
+> ℹ️ There are two ways to remove a SKU from a collection: via the [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal) or using the **Collections (Beta)** module. This section shows how to remove a SKU from a collection in the **Legacy CMS Portal**. For more information about the process in the **Collections (Beta)** module, see [Product removal](/en/docs/tutorials/creating-collections-beta#product-removal).  
 
 If any of the product's SKUs are included in a [collection](/en/docs/tracks/collections-concept-definition), this might also cause an indexing timeout. Follow the steps below to check if the SKU is included in one or more collections:  
 
@@ -112,7 +112,7 @@ A complete reindexing of the product base can be conducted to simultaneously upd
 
 For stores with fewer than 100,000 products in the catalog, the [account holder](/en/docs/tutorials/what-is-the-sponsor-user) can use the __Schedule full reindexing__ function in the VTEX Admin.
 
-For accounts with 100,000 or more products, please contact [VTEX Support](/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) to conduct this type of operation.
+For accounts with 100,000 or more products, please contact [VTEX Support](/en/docs/tutorials/how-does-vtex-support-work) to conduct this type of operation.
 
 Learn more in [Database Maintenance (Full Cleanup)](/en/docs/tutorials/database-maintenance-full-cleanup).
 

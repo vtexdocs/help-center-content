@@ -136,7 +136,7 @@ Además, también es posible ofrecer tarjetas de regalo de proveedores externos 
 
 Las carteras digitales proporcionan entornos seguros para almacenar de manera encriptada los datos bancarios y de tarjetas de crédito, a los cuales los clientes pueden acceder al realizar una compra. La seguridad de este medio de pago reside en la eliminación de la necesidad de completar todos los datos en el checkout en cada compra. Solo se requiere la autenticación en el propio entorno de la cartera digital.
 
-En VTEX, se pueden ofrecer carteras digitales nativas, como [Google Pay](/es/docs/tracks/google-pay), o integradas, como [Apple Pay](/es/docs/tracks/apple-pay), [Samsung Pay](/es/docs/tutorials/configurar-samsung-pay-como-medio-de-pago) y [PayPal](/es/tutorial/configurar-paypal--4p3sD9u1moq2Aya2oc684w). Más información en [Cartera digital (ewallet)](/es/docs/tracks/cartera-digital-e-wallet).
+En VTEX, se pueden ofrecer carteras digitales nativas, como [Google Pay](/es/docs/tracks/google-pay), o integradas, como [Apple Pay](/es/docs/tracks/apple-pay), [Samsung Pay](/es/docs/tutorials/configurar-samsung-pay-como-medio-de-pago) y [PayPal](/es/docs/tutorials/configurar-pago-con-paypalv2). Más información en [Cartera digital (ewallet)](/es/docs/tracks/cartera-digital-e-wallet).
 
 #### Customer Credit
 
@@ -198,7 +198,7 @@ VTEX ofrece de forma nativa el envío de [emails transaccionales](/es/docs/tutor
 
 La plataforma ofrece una serie de [plantillas de emails transaccionales](/es/docs/tutorials/plantillas-de-emails-transaccionales-del-pedido), pero también se puede personalizar la comunicación. La siguiente lista ofrece la información principal sobre estas configuraciones opcionales, que son independientes entre sí:
 
-- **Alias:** email alternativo generado automáticamente por la plataforma VTEX para [enmascarar](/es/tutorial/configuracoes-gerais--tutorials_194#tipo-de-mascara-de-conversa) el email del cliente en los emails transaccionales de la tienda. Este [tipo de máscara de la conversación](/es/tutorial/configuracoes-gerais--tutorials_194#tipo-de-mascara-de-conversa) representa una mayor protección para los datos del cliente, ya que el email alternativo se crea de forma que no sea legible por sistemas externos.
+- **Alias:** email alternativo generado automáticamente por la plataforma VTEX para [enmascarar](/es/docs/tutorials/configuraciones-generales#tipo-de-mascara-de-conversa) el email del cliente en los emails transaccionales de la tienda. Este [tipo de máscara de la conversación](/es/docs/tutorials/configuraciones-generales#tipo-de-mascara-de-conversa) representa una mayor protección para los datos del cliente, ya que el email alternativo se crea de forma que no sea legible por sistemas externos.
 - **Availability Notify o Avísame**: configuración del botón [Avísame](/es/docs/tutorials/configurar-la-opcion-avisame) en la página de producto visto por el cliente en el sitio web de la tienda. El botón se hace visible cuando un producto no está disponible, permitiendo al cliente ingresar su email en el campo correspondiente para recibir una notificación cuando el producto vuelva a estar disponible para su compra.
 
 #### Funcionalidad Mi cuenta

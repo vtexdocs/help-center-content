@@ -21,7 +21,7 @@ The next step is to create accounts for the customers you want to offer credit t
 - [Multiple Accounts (Admin VTEX)](#create-multiple-accounts-bulk-import)
 - [Individual account (Customer Credit API)](#create-account-via-api)
 
-> ℹ️ Accounts created in the Customer Credit app have no relationship or share data with the customer base registered in the store's [Master Data entities](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#data-entities). For a customer to be able to use Customer Credit as a payment method, their account must be registered by the merchant in the app even if the customer already has an account in the store.
+> ℹ️ Accounts created in the Customer Credit app have no relationship or share data with the customer base registered in the store's [Master Data entities](/en/docs/tutorials/master-data#data-entities). For a customer to be able to use Customer Credit as a payment method, their account must be registered by the merchant in the app even if the customer already has an account in the store.
 
 ## Create accounts individually
 

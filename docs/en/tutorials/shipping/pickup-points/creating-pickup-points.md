@@ -24,7 +24,7 @@ There are two ways to create a pickup point in the Admin:
 * [Creating pickup points individually](#creating-pickup-points-individually)
 * [Creating pickup points using the template](#reating-pickup-points-using-the-template)
 
-> ⚠️ Creating pickup points is one of the steps required for the feature to work properly. Please refer to the article [pickup points](/en/docs/tutorials/pickup-points) to see the other [settings necessary](/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R#setup) to make pickup points available to your customers.
+> ⚠️ Creating pickup points is one of the steps required for the feature to work properly. Please refer to the article [pickup points](/en/docs/tutorials/pickup-points) to see the other [settings necessary](/en/docs/tutorials/pickup-points#setup) to make pickup points available to your customers.
 
 ## Creating pickup points individually
 

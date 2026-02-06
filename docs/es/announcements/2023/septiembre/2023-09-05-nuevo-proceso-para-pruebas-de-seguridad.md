@@ -31,4 +31,4 @@ Para más información sobre este procedimiento, consulta la guía [Pruebas de p
 
 ## ¿Por qué realizamos este cambio?
 
-Hemos actualizado el procedimiento de pruebas de penetración para garantizar la seguridad de la plataforma y que las evaluaciones se realicen de forma segura, impidiendo [procedimientos no permitidos](/es/tutorial/pruebas-de-penetracion-y-advertencia-de-vulnerabilidad--6jodF6s1I50Fg84ZwutOCb#procedimientos-no-permitidos) y acciones que puedan perjudicar a nuestros clientes.
+Hemos actualizado el procedimiento de pruebas de penetración para garantizar la seguridad de la plataforma y que las evaluaciones se realicen de forma segura, impidiendo [procedimientos no permitidos](/es/docs/tutorials/pruebas-de-penetracion#procedimientos-no-permitidos) y acciones que puedan perjudicar a nuestros clientes.

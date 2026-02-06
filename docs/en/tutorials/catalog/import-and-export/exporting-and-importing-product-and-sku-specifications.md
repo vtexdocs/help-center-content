@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2u48reCb68K48EAcm86ccM
 ---
 
-After defining the category tree and registering [product specifications and SKU specifications](/en/docs/tracks/specifications-concept-definition) in your store, you need to fill in the values for the specifications you have created. In VTEX Admin, this process can be done using a spreadsheet or manually during [product registration](/en/tutorial/adding-specifications-or-product-fields--tutorials_106#product-registration) and [SKU registration](/en/tutorial/adding-sku-specifications-or-fields--tutorials_119#sku-registration).
+After defining the category tree and registering [product specifications and SKU specifications](/en/docs/tracks/specifications-concept-definition) in your store, you need to fill in the values for the specifications you have created. In VTEX Admin, this process can be done using a spreadsheet or manually during [product registration](/en/docs/tutorials/adding-specifications-or-product-fields#product-registration) and [SKU registration](/en/docs/tutorials/adding-sku-specifications-or-fields#sku-registration).
 
 In this article, we explain how to export and import spreadsheets with product and SKU specifications in VTEX Admin.
 

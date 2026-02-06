@@ -24,7 +24,7 @@ Cada projeto tem suas configurações, conteúdo e marca personalizados de acord
 Neste guia, você aprenderá como gerenciar cada projeto de frontend da sua loja.
 
 ## Antes de começar
-Certifique-se de que os [recursos](/pt/docs/tutorials/recursos-do-license-manager) `See CMS menu on the top-bar`, `Settings` e `CMS GraphQL API` estão associados ao seu [Perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete). Caso contrário, [crie um perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso) e adicione esses recursos a eles ou adicione esses recursos a um perfil de acesso existente.
+Certifique-se de que os [recursos](/pt/docs/tutorials/recursos-do-license-manager) `See CMS menu on the top-bar`, `Settings` e `CMS GraphQL API` estão associados ao seu [Perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete). Caso contrário, [crie um perfil de acesso](/pt/docs/tutorials/perfis-de-acesso#criando-um-perfil-de-acesso) e adicione esses recursos a eles ou adicione esses recursos a um perfil de acesso existente.
 
 ## Visão geral
 Para acessar a página de **Projetos**, entre no VTEX Admin e clique em **Storefront > Headless CMS**.

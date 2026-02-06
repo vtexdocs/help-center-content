@@ -28,7 +28,7 @@ You can view the **Calendar** page in three ways:
 * [View per week](#view-per-week): It shows the releases scheduled for a certain week.
 * [View per day](#view-per-day): It shows the releases scheduled for the selected day and the changes related to the selected release.
 
-**Calendar** only shows [scheduled releases](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW#schedule). To view all your releases, access the [Releases](/en/docs/tutorials/planner-releases-page-beta) page.
+**Calendar** only shows [scheduled releases](/en/docs/tutorials/planner-actions-on-releases-beta#schedule). To view all your releases, access the [Releases](/en/docs/tutorials/planner-releases-page-beta) page.
 
 > ⚠️ In the beta version, the releases must be [CMS](/en/docs/tracks/cms-vtex-io)-related, because other VTEX platform modules are not yet included. To use the **Releases**, you must configure the CMS as described in [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
@@ -84,7 +84,7 @@ Apart from viewing information about the release, in this page, you can:
 
 **IV - Create a new release:** To create a new release, click on the `Create release` button and follow the step-by-step instructions in [Releases: Actions on releases](/en/docs/tutorials/planner-actions-on-releases-beta).
 
-**V - Perform actions in release:** Depending on the [release status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases), the three-dots menu <i class="fas fa-ellipsis-v"></i> will show different action options. To check out the possible actions, read [Releases: actions in release](/en/docs/tutorials/planner-actions-on-releases-beta).
+**V - Perform actions in release:** Depending on the [release status](/en/docs/tutorials/planner-release-concept-beta#status-of-releases), the three-dots menu <i class="fas fa-ellipsis-v"></i> will show different action options. To check out the possible actions, read [Releases: actions in release](/en/docs/tutorials/planner-actions-on-releases-beta).
 
 ## Learn more
 

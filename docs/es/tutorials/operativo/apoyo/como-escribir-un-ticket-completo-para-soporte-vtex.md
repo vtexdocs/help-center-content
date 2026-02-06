@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 
-Todos los clientes y partners tienen acceso al servicio prestado por el equipo de especialistas de [soporte VTEX](/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). Para ponerse en contacto con ellos, debes abrir un ticket a través del sistema de tickets.
+Todos los clientes y partners tienen acceso al servicio prestado por el equipo de especialistas de [soporte VTEX](/es/docs/tutorials/como-funciona-el-soporte-de-vtex). Para ponerse en contacto con ellos, debes abrir un ticket a través del sistema de tickets.
 
 Los especialistas están preparados para proporcionar la mejor experiencia posible para solucionar los tickets. Sin embargo, para garantizar un servicio más rápido y objetivo, hay algunas guías que debes seguir al abrir un ticket.
 
@@ -79,7 +79,7 @@ Si, después de seguir todos los pasos de troubleshooting indicados anteriorment
 | Pruebas y validaciones | Si ya intentaste solucionar el problema, detalla las acciones que ya hayas realizado, qué documentación consultaste y los resultados. |
 | Alcance del ticket |  - No abordes más de un problema en un mismo ticket.   - No crees más de un ticket para el mismo problema.  |
 | Prioridad | 
-Comprueba la [prioridad](/es/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9#prioridade-de-chamados) según la naturaleza del problema. Lea mas en [¿Como funciona el soporte de VTEX?](/es/faq/como-funciona-el-soporte-de-vtex--3kACEfni4m8Yxa1vnf2ebe?&utm_source=autocomplete)|
+Comprueba la [prioridad](/es/tutorial/vtex-support-brazil--bxOl9e62rq0ZZMsGodchd#prioridade-de-chamados) según la naturaleza del problema. Lea mas en [¿Como funciona el soporte de VTEX?](/es/faq/como-funciona-el-soporte-de-vtex--3kACEfni4m8Yxa1vnf2ebe?&utm_source=autocomplete)|
  | Información pertinente sobre el producto | 
 Consulta la siguiente tabla para ver la información pertinente dependiendo del producto en el que se produzca el error.
 
@@ -102,4 +102,4 @@ Puedes adaptar esta información a tu escenario específico y también utilizarl
 #### Más información
 
 - [Abrir un ticket para el soporte VTEX](/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex)
-- [¿Cómo funciona el soporte de VTEX?](/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe)
+- [¿Cómo funciona el soporte de VTEX?](/es/docs/tutorials/como-funciona-el-soporte-de-vtex)

@@ -41,7 +41,7 @@ Com o VTEX Intelligent Search Multi-idioma instalado, a página de edição ou c
 
 ![img regrasmerch intelligentsearchmultilanguage PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/intelligent-search-beta/vtex-intelligent-search-configuracoes-multi-idioma-beta_1.png)
 
-Para saber mais sobre os campos, leia nosso artigo sobre [como configurar Regras de merchandising no VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8).
+Para saber mais sobre os campos, leia nosso artigo sobre [como configurar Regras de merchandising no VTEX Intelligent Search](/pt/docs/tutorials/criar-regra-de-merchandising-editor-manual).
 
 ### Sinônimos
 Existem duas formas de configurar Sinônimos em uma loja multi-idioma no Admin: preencher um formulário ou importar um arquivo `.csv`.
@@ -53,11 +53,11 @@ Com o VTEX Intelligent Search Multi-idioma instalado, a página de edição ou c
 
 ![img sinonimos intelligentsearchmultilanguage PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/intelligent-search-beta/vtex-intelligent-search-configuracoes-multi-idioma-beta_2.png)
 
-Para saber mais sobre os campos, leia nosso artigo sobre [como configurar Sinônimos no VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL).
+Para saber mais sobre os campos, leia nosso artigo sobre [como configurar Sinônimos no VTEX Intelligent Search](/pt/docs/tutorials/criar-sinonimos).
 
 #### Importar planilha de Sinônimos
 
-Caso prefira fazer a importação de Sinônimos para idiomas específicos por arquivo `.csv`, você deve criar um arquivo `.csv` no formato __Unidirecional__ ou __Bidirecional__, de acordo com o [efeito desejado para o sinônimo](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL), e inserir o novo campo `<locales separados por vírgula>`:
+Caso prefira fazer a importação de Sinônimos para idiomas específicos por arquivo `.csv`, você deve criar um arquivo `.csv` no formato __Unidirecional__ ou __Bidirecional__, de acordo com o [efeito desejado para o sinônimo](/pt/docs/tutorials/criar-sinonimos), e inserir o novo campo `<locales separados por vírgula>`:
 
 - __Unidirecional__: `<Termos separados por vírgula>;<Termos expandidos separados por vírgula>;<status>;<locales separados por vírgula>`
    - Exemplo: `smartphone;iphone;true;en-GB`: ao pesquisar por `smartphone` na loja no idioma inglês (`locale en-GB`), os resultados para `iphone` irão aparecer. Contudo, ao pesquisar por `iphone`, os resultados para `smartphone` não irão aparecer.
@@ -67,7 +67,7 @@ Caso prefira fazer a importação de Sinônimos para idiomas específicos por ar
 
 > ⚠️  Se o arquivo .csv importado não apresentar a coluna `locale`, o sinônimo será válido para todos os idiomas disponíveis na loja.
 
-Para saber mais sobre a importação de planilha de Sinônimos, leia nosso artigo sobre [como configurar Sinônimos no VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL).
+Para saber mais sobre a importação de planilha de Sinônimos, leia nosso artigo sobre [como configurar Sinônimos no VTEX Intelligent Search](/pt/docs/tutorials/criar-sinonimos).
 
 ### Redirecionamentos
 
@@ -75,7 +75,7 @@ Com o VTEX Intelligent Search Multi-idioma instalado, a página de edição ou c
 
 ![img redirecionamentos intelligentsearchmultilanguage PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/intelligent-search-beta/vtex-intelligent-search-configuracoes-multi-idioma-beta_3.png)
 
-Para saber mais sobre os campos, leia nosso artigo sobre [como configurar Redirecionamentos no VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4Gd2wLQFbCwTsh8RUDwSoL).
+Para saber mais sobre os campos, leia nosso artigo sobre [como configurar Redirecionamentos no VTEX Intelligent Search](/pt/docs/tutorials/configurar-redirecionamentos).
 
 ### Banners
 
@@ -83,4 +83,4 @@ Com o VTEX Intelligent Search Multi-idioma instalado, a página de edição ou c
 
 ![img banner intelligentsearchmultilanguage PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/intelligent-search-beta/vtex-intelligent-search-configuracoes-multi-idioma-beta_4.png)
 
-Para saber mais sobre os campos, leia nosso artigo sobre [como configurar Banners no VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4ViKEivLJtJsvpaW0aqIQ5).
+Para saber mais sobre os campos, leia nosso artigo sobre [como configurar Banners no VTEX Intelligent Search](/pt/docs/tutorials/configurar-banners).

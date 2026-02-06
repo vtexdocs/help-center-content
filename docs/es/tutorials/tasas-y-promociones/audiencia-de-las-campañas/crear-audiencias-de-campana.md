@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
 ---
 
-El recurso «Audiencia de campañas» te permite segmentar las promociones de tu tienda a partir de [públicos objetivos](/es/tutorial/audiencias-de-campanas--3o7lhpNseXY2WmjZO0gQ6m#publico-objetivo) definidos que cumplen con criterios específicos. Para obtener más información sobre esta funcionalidad, consulta [Audiencias de campañas](/es/docs/tutorials/audiencias-de-campanas).
+El recurso «Audiencia de campañas» te permite segmentar las promociones de tu tienda a partir de [públicos objetivos](/es/docs/tutorials/audiencias-de-campanas#publico-objetivo) definidos que cumplen con criterios específicos. Para obtener más información sobre esta funcionalidad, consulta [Audiencias de campañas](/es/docs/tutorials/audiencias-de-campanas).
 
 Para crear una nueva audiencia de campaña, sigue los pasos a continuación:
 

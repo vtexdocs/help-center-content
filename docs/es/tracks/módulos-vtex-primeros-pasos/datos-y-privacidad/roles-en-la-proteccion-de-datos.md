@@ -75,11 +75,11 @@ VTEX prestará asistencia al retailer en algunas de estas obligaciones, como las
 
 ### Acceso a la plataforma
 
-Los retailers desempeñan un papel crucial en la seguridad de los datos, ya que sus decisiones repercuten directamente en la protección de la información. Por ejemplo, al conceder acceso a la plataforma a determinados usuarios o equipos, o al compartir [claves de aplicación](/es/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) (appKeys), el retailer influye en la seguridad de los datos almacenados en ese entorno.
+Los retailers desempeñan un papel crucial en la seguridad de los datos, ya que sus decisiones repercuten directamente en la protección de la información. Por ejemplo, al conceder acceso a la plataforma a determinados usuarios o equipos, o al compartir [claves de aplicación](/es/docs/tutorials/claves-de-api) (appKeys), el retailer influye en la seguridad de los datos almacenados en ese entorno.
 
 Para saber cómo gestionar correctamente las credenciales de acceso y garantizar la integridad de los datos, consulta los siguientes artículos:
 
 * [Roles](/es/docs/tutorials/roles)
 * [Recursos de License Manager](/es/docs/tutorials/recursos-del-license-manager)
-* [Claves de aplicación](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet)
+* [Claves de aplicación](/es/docs/tutorials/claves-de-api)
 

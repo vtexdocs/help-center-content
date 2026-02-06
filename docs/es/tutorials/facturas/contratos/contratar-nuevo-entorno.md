@@ -21,7 +21,7 @@ La creación de un nuevo entorno puede generar costos adicionales, según lo est
 
 VTEX realiza el aprovisionamiento de nuevos entornos sin configuración ni contenido replicado del entorno principal. Después de crear el entorno, debes configurarlo y personalizarlo: agregar productos, políticas comerciales, layout e integraciones que respondan a tus necesidades.
 
-Para registrar una tienda de ecommerce independiente de la existente y asociar el mismo catálogo a un dominio de URL diferente, configura una [multitienda](/es/tutorial/como-criar-multiloja-multidominio--tutorials_510). Esta opción no genera costo adicional.
+Para registrar una tienda de ecommerce independiente de la existente y asociar el mismo catálogo a un dominio de URL diferente, configura una [multitienda](/es/docs/tutorials/gestionar-multitienda). Esta opción no genera costo adicional.
 
 ## Información necesaria para abrir el ticket
 Al solicitar un nuevo entorno, incluye la siguiente información:

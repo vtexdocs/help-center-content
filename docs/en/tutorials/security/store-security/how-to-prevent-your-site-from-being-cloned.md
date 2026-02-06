@@ -55,4 +55,4 @@ Check whether campaigns are displaying as expected and look for any unusual drop
 
 ## Learn more
 
-- [Best practices for the success of your VTEX store](/en/tutorial/best-practices-for-the-success-of-your-vtex-store--ItKyLqcRl9wNADMhYH8O4#performance-and-security)
+- [Best practices for the success of your VTEX store](/en/docs/tutorials/best-practices-for-the-success-of-your-vtex-store#performance-and-security)

@@ -55,7 +55,7 @@ VTEX delivers the image with the smallest file size to the customer, choosing be
 ## Related articles
 
 * [Best practices for using images in the Catalog](/en/docs/tutorials/best-practices-for-using-images-in-the-catalog)
-* [Add image to product description](/en/tutorial/add-image-to-product-description--2hQGTAAiyUSoISGSyOK8Y4)
+* [Add image to product description](/en/docs/tutorials/adding-or-editing-products)
 * [Importing images from a spreadsheet](/en/docs/tutorials/importing-images-from-a-spreadsheet)
 * [Updating the image of an SKU](/en/docs/tutorials/how-to-update-the-image-of-an-sku)
 * [Reusing images with Image Widget](/en/docs/tutorials/image-widget)

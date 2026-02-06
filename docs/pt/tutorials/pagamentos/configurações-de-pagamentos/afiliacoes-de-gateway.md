@@ -38,7 +38,7 @@ Para adicionar um novo provedor de pagamento ou antifraude em sua loja, siga os 
 
 > ℹ️ Caso haja outros campos a serem preenchidos além do **Chave de aplicação** e **Token de aplicação** (Passo 6), o provedor deve ser configurado conforme tutorial específico. Para maiores informações, verifique a subseção [Configurações de Pagamento](/pt/subcategory/configuracoes-de-pagamentos--3tDGibM2tqMyqIyukqmmMw).
 
-> ❗ As credenciais utilizadas para preencher os campos **Chave de aplicação** e **Token de aplicação** devem ser fornecidas pelo provedor de pagamentos para identificar a loja. Não devem ser utilizadas [credenciais geradas no Admin](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet#gerar-chaves-de-aplicacao-na-sua-conta), que se iniciam com `vtexappkey-`.
+> ❗ As credenciais utilizadas para preencher os campos **Chave de aplicação** e **Token de aplicação** devem ser fornecidas pelo provedor de pagamentos para identificar a loja. Não devem ser utilizadas [credenciais geradas no Admin](/pt/docs/tutorials/chaves-de-api#gerar-chaves-de-aplicacao-na-sua-conta), que se iniciam com `vtexappkey-`.
 
 Para configurar os métodos de pagamento a serem processados pelo provedor de pagamento escolhido, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento). 
 

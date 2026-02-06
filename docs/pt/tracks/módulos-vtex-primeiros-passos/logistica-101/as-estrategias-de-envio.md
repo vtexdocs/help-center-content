@@ -27,7 +27,7 @@ A estratégia de envio é definida por três entidades logísticas:
 * [Doca](/pt/docs/tutorials/doca): ponto de retirada do estoque. É pela doca que a loja define a retirada dos pacotes. As transportadoras retiram os pacotes para envio pela doca.
 * [Estoque](/pt/docs/tutorials/estoque): identificação do local de armazenamento dos itens. A política de envio não é a única variável para a escolha da entrega; é preciso considerar, também, em qual estoque estão os produtos do pedido.
 
-> ℹ️ Há outros cenários possíveis para o uso de docas. Consulte o artigo [Doca](/pt/docs/tutorials/doca) e confira os casos de uso. Para saber mais sobre o fluxo das entregas, consulte o artigo [Como funciona o fluxo de entregas](/pt/tutorial/como-funciona-o-fluxo-de-entregas--4ku3QKWfxmUO8UgA0yqgUq).
+> ℹ️ Há outros cenários possíveis para o uso de docas. Consulte o artigo [Doca](/pt/docs/tutorials/doca) e confira os casos de uso. Para saber mais sobre o fluxo das entregas, consulte o artigo [Como funciona o fluxo de entregas](/pt/docs/tutorials/fulfillment-logistica-vtex).
 
 Note que:
 
@@ -66,15 +66,15 @@ Para [estratégias de envio](/pt/docs/tutorials/estrategia-de-envio) que utiliza
 6. [Cadastro de geolocalização](/pt/docs/tutorials/gerenciar-geolocalizacao)
 7. Configuração dos pontos de retirada disponíveis no checkout
 
-> ⚠️ Confira os passos detalhados no artigo [Como configurar um ponto de retirada.](/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#como-configurar)
+> ⚠️ Confira os passos detalhados no artigo [Como configurar um ponto de retirada.](/pt/docs/tutorials/pontos-de-retirada#como-configurar)
 
 ## Tempo de envio e feriados
 
 Quando o cliente tem itens no checkout e adiciona os dados de localização, a plataforma estima o tempo de envio do pedido. Essa estimativa (também chamada SLA) é calculada considerando os seguintes critérios:
 
-* Horários [configurados nos estoques](/pt/tutorial/gerenciar-estoque--tutorials_137#campos-de-cadastro).
-* Horários [configurados na doca](/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW#campos-de-cadastro).
-* Horários [configurados na política de envio](/pt/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio): configurados nos campos **Horário de coleta** e **Horário de funcionamento**. 
+* Horários [configurados nos estoques](/pt/docs/tutorials/gerenciar-estoque#campos-de-cadastro).
+* Horários [configurados na doca](/pt/docs/tutorials/gerenciar-doca#campos-de-cadastro).
+* Horários [configurados na política de envio](/pt/docs/tutorials/politica-de-envio#cadastrar-uma-politica-de-envio): configurados nos campos **Horário de coleta** e **Horário de funcionamento**. 
 * Feriados cadastrados.
 
 Para saber mais detalhes sobre o cálculo de SLA, consulte o artigo [Como é calculado o prazo de entrega do pedido](/pt/docs/tutorials/como-e-calculado-o-prazo-de-entrega-do-pedido).

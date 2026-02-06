@@ -46,14 +46,14 @@ Para que tu cliente pueda comprar (en la tienda o a través de otro canal) y rec
 
 ### Asociar un punto de recogida a una política de envío
 
-A continuación, debes asociar los nuevos puntos de recogida con una política de envío para que funcionen correctamente. Para obtener más información sobre este proceso, consulta la sección [Asociar punto de recogida con una política de envío](/es/tutorial/configurar-puntos-de-recogida-pickup-points--2R5ClQiwe4KoSQgsuiOw4E#2-asociar-punto-de-recogida-con-una-politica-de-envio) del artículo [Configurar puntos de recogida](/es/docs/tutorials/registro-de-puntos-de-recogida).
+A continuación, debes asociar los nuevos puntos de recogida con una política de envío para que funcionen correctamente. Para obtener más información sobre este proceso, consulta la sección [Asociar punto de recogida con una política de envío](/es/docs/tutorials/registro-de-puntos-de-recogida#2-asociar-punto-de-recogida-con-una-politica-de-envio) del artículo [Configurar puntos de recogida](/es/docs/tutorials/registro-de-puntos-de-recogida).
 
 ### Asociar un punto de recogida al almacén de una tienda física
 
 Ahora, debes conectar el punto de recogida con el almacén local de la tienda física. O sea, es necesario informar al sistema de que los productos que se van a recoger en este punto de recogida (la tienda física) saldrán del almacén local, es decir, del almacén de la tienda. Para ello, sigue los pasos a continuación.
 
 1. En el Admin VTEX de la cuenta franquicia deseada, accede a **Envío** > __Estrategia de envío__ > __Almacenes__, o escribe __Puntos de recogida__ en la barra de búsqueda en la parte superior de la página. En el menú lateral del Admin, haz clic en __Inventario y envío__.
-2. Selecciona el almacén local de la tienda física o crea uno, si aún no existe. Si es necesario, consulta el artículo [Gestionar almacenes](/es/tutorial/gestionar-almacenes--tutorials_137#registrar-almacen) para saber cómo registrar un nuevo almacén.
+2. Selecciona el almacén local de la tienda física o crea uno, si aún no existe. Si es necesario, consulta el artículo [Gestionar almacenes](/es/docs/tutorials/gestionar-almacenes#registrar-almacen) para saber cómo registrar un nuevo almacén.
 3. Activa la opción __Almacén VTEX Sales App__ haciendo clic el botón <i class="fas fa-toggle-on"></i>.
 4. En el menú, selecciona los puntos de recogida que utilizarán el almacén de la tienda física.
 

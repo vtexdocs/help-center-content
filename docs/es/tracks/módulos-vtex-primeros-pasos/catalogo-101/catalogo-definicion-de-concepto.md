@@ -31,4 +31,4 @@ La sección incluye las siguientes páginas:
 - [Campos personalizados](/es/docs/tutorials/registrar-un-anexo)  
 - [Importación y exportación](/es/docs/tutorials/rellenar-campos-de-la-planilla-de-importacion)  
 - [Informes](/es/docs/tutorials/utilizando-el-informe-de-indexacion)  
-- [Proveedores](/es/tutorial/catalogo-vision-general--77M8ItLhDXs6aBdQTqToVe#proveedores)
+- [Proveedores](/es/docs/tutorials/catalogo-vision-general#proveedores)

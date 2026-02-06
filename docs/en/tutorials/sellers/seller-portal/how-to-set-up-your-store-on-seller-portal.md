@@ -116,7 +116,7 @@ __Seller processing payment:__ if the seller is allocated as the payment process
 To learn more, check out the following articles:  
 
 - [How the Payments module works](/en/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG)    
-- [How payment split between the seller and the marketplace works](/en/tracks/split-de-pagamentos--1ouDg8q56Kuz1AgtJUY9nv/ctgx6ulwy40P0BV07LW9y)    
+- [How payment split between the seller and the marketplace works](/en/docs/tutorials/split-payment)    
 - [Configuring affiliates](/en/docs/tutorials/configuring-affiliates)    
 - [Configuring payment connectors](/en/docs/tracks/configuring-payment-connectors)     
 - [Configuring a payment condition](/en/docs/tracks/configuring-a-payment-condition)    

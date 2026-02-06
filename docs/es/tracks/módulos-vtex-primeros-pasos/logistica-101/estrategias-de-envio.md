@@ -66,15 +66,15 @@ Para las [estrategias de envío](/es/docs/tutorials/estrategia-de-envio) que uti
 6. [Registro de geolocalización](/es/docs/tutorials/gestionar-geolocalizacion)
 7. Configuración de los puntos de recogida disponibles en el _checkout_
 
-> ⚠️ Consulta los pasos detallados sobre [cómo configurar un punto de recogida.](/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#como-configurar)
+> ⚠️ Consulta los pasos detallados sobre [cómo configurar un punto de recogida.](/es/docs/tutorials/puntos-de-recogida#como-configurar)
 
 ## Tiempo de envío y feriados
 
 Cuando el cliente tiene los ítems en el _checkout_ y añade los datos de ubicación, la plataforma estima el tiempo de envío del pedido. El estimado (también conocido como SLA) se calcula tomando en cuenta los siguientes criterios:
 
-* Horarios [configurados en el almacén](/es/tutorial/gestionar-almacenes--tutorials_137#campos-de-registro).
-* Horarios [configurados en el muelle](/es/tutorial/gestionar-el-muelle--7K3FultD8I2cuuA6iyGEiW#campos-de-registro).
-* Horarios [configurados en la política de envío](/es/tutorial/politica-de-envio--tutorials_140#registrar-politica-de-envio): configurados en los campos **Horario de recolección **y **Horario laboral**. 
+* Horarios [configurados en el almacén](/es/docs/tutorials/gestionar-almacenes#campos-de-registro).
+* Horarios [configurados en el muelle](/es/docs/tutorials/gestionar-el-muelle#campos-de-registro).
+* Horarios [configurados en la política de envío](/es/docs/tutorials/politica-de-envio#registrar-politica-de-envio): configurados en los campos **Horario de recolección **y **Horario laboral**. 
 * Feriados registrados.
 
 Para ver más detalles sobre el cálculo del SLA, consulta el artículo [Cómo se calcula el plazo de entrega del pedido](/es/docs/tutorials/como-se-calcula-el-plazo-de-entrega-del-pedido).

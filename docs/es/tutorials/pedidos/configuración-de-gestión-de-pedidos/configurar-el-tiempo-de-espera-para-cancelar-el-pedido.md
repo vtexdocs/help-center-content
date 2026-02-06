@@ -34,4 +34,4 @@ Para configurar esta ventana de tiempo, sigue los pasos a continuación:
 ### Artículos relacionados
 
 - [Configurar el tiempo de espera para cancelar el pedido](/es/docs/tutorials/cancelacion-de-pedido-solicitada-por-el-cliente)
-- [¿Por qué un pedido fue cancelado?](/es/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493)
+- [¿Por qué un pedido fue cancelado?](/es/troubleshooting/el-pedido-de-mi-tienda-se-cancelo)

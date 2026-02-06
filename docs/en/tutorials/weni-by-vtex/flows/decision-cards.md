@@ -15,7 +15,7 @@ locale: en
 subcategoryId: hXGU8pFfABVFIg724zWBN
 ---
 
-Decision cards are a very important part of the logical constructions of our flows. In the [introduction](https://help.vtex.com/en/docs/tutorials/flows-introduction) of transfers we talked little about the concept of these cards, and now we will understand a little more about their anatomy and the types that exist within the platform.
+Decision cards are a very important part of the logical constructions of our flows. In the [introduction](/en/docs/tutorials/flows-introduction) of transfers we talked little about the concept of these cards, and now we will understand a little more about their anatomy and the types that exist within the platform.
 
 To facilitate navigation through this article, if you want to go directly to a specific topic, just click on the name below:
   * Routes and decision rules
@@ -121,7 +121,7 @@ Every decision card chooses a route at the end of its execution, and this genera
   * Date and time that this result was saved;
   * Extra contents and attachments sent with the value;
 
-You can access these flow values ​​using the platform variables (to learn more visit the article on [expressions and variables](https://help.vtex.com/docs/tutorials/expressions-and-variables-introduction)) and you can also see these results in the form of graphs in the results area in the flow editor (to learn more access the article about the [flow editor and tools](https://help.vtex.com/docs/tutorials/flow-editor-and-tools).)
+You can access these flow values ​​using the platform variables (to learn more visit the article on [expressions and variables](/en/docs/tutorials/expressions-and-variables-introduction)) and you can also see these results in the form of graphs in the results area in the flow editor (to learn more access the article about the [flow editor and tools](/en/docs/tutorials/flow-editor-and-tools).)
 
 By default, the results' name will always be **(Result + n)** where n is the number of results that exist in your stream, however, this can be easily changed in the Result name field.
 
@@ -144,7 +144,7 @@ If you are using this card to collect mandatory information in the flow, be caut
 
 ### Split by custom expression
 
-Here the routes are decided from a custom expression created by the user. This custom expression can be constructed from the use of variables and functions. (To learn more about [expression and functions](https://help.vtex.com/docs/tutorials/expressions-and-variables-introduction) go to the article variables and expression section)
+Here the routes are decided from a custom expression created by the user. This custom expression can be constructed from the use of variables and functions. (To learn more about [expression and functions](/en/docs/tutorials/expressions-and-variables-introduction) go to the article variables and expression section)
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/decision-cards_10.png)
 
@@ -202,7 +202,7 @@ With the **Automatically Classify** card, you can use an expression or variables
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/decision-cards_17.png)
 
-Use clear and objective command phrases to help classify correctly. Learn more in the article about [Zero Shot](https://help.vtex.com/docs/tutorials/zero-shot-learning).
+Use clear and objective command phrases to help classify correctly. Learn more in the article about [Zero Shot](/en/docs/tutorials/zero-shot-learning).
 
 ### Smartly wait for response
 
@@ -210,4 +210,4 @@ With the **Smartly wait for response** card, you can wait for the user's respons
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/decision-cards_18.png)
 
-Use clear and objective command phrases to help classify correctly. Learn more in the article about [Zero Shot](https://help.vtex.com/docs/tutorials/zero-shot-learning).
+Use clear and objective command phrases to help classify correctly. Learn more in the article about [Zero Shot](/en/docs/tutorials/zero-shot-learning).

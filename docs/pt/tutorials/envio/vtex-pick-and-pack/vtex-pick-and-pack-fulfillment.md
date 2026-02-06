@@ -151,7 +151,7 @@ Na página de detalhes, você pode realizar as ações abaixo. As ações dispon
 * [Adicionar serviço de envio](#adicionar-servico-de-envio)
 * [Rastrear pedido](#rastrear-pedido)
 
-> ❗ Embora as ações acima possam ser realizadas por [usuários](/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#usuarios) com acesso ao Admin, geralmente as ações com um ***** (asterisco) devem ser executadas somente por entregadores em seus dispositivos móveis, sem qualquer acesso ao Admin da loja.
+> ❗ Embora as ações acima possam ser realizadas por [usuários](/pt/docs/tutorials/vtex-pick-and-pack-fulfillment#usuarios) com acesso ao Admin, geralmente as ações com um ***** (asterisco) devem ser executadas somente por entregadores em seus dispositivos móveis, sem qualquer acesso ao Admin da loja.
 
 #### Coletar
 
@@ -330,7 +330,7 @@ No **VTEX Pick and Pack**, a página **Insights** apresenta dados e análises so
 * [Coleta e empacotamento](#insights-coleta-e-empacotamento)
 * [Operação](#insights-operacao)
 
-> ⚠️ Para poder acessar a página de **Insights**, você precisa ter um perfil de usuário administrador no VTEX Fulfillment, que é diferente dos [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso). Para mais informações, consulte a seção [Usuários](/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#usuarios).
+> ⚠️ Para poder acessar a página de **Insights**, você precisa ter um perfil de usuário administrador no VTEX Fulfillment, que é diferente dos [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso). Para mais informações, consulte a seção [Usuários](/pt/docs/tutorials/vtex-pick-and-pack-fulfillment#usuarios).
 
 ### Insights: Coleta e empacotamento
 
@@ -396,7 +396,7 @@ Para configurar o **VTEX Pick and Pack** na sua loja, no Admin VTEX, acesse **Ap
 * [Impressão](#configuracoes-de-impressao)
 * [Webhooks](#configuracoes-de-weebhook)
 
-> ⚠️ Para poder acessar as **Configurações**, você precisa ser um [usuário administrador do VTEX Fulfillment](/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#usuarios-e-license-manager-no-vtex-fulfillment) ou um usuário de atendimento ao cliente.
+> ⚠️ Para poder acessar as **Configurações**, você precisa ser um [usuário administrador do VTEX Fulfillment](/pt/docs/tutorials/vtex-pick-and-pack-fulfillment#usuarios-e-license-manager-no-vtex-fulfillment) ou um usuário de atendimento ao cliente.
 
 ### Configurações gerais
 
@@ -456,7 +456,7 @@ Para criar um pacote, faça o seguinte:
 2. Preencha o nome que identificará o pacote.
 3. Preencha as medidas do pacote: altura, largura e comprimento, usando apenas números. 
 
-  > ℹ️ A unidade de medida é aquela configurada na aba [Geral](/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#configuracoes-gerais), em **Unidades de medida**.
+  > ℹ️ A unidade de medida é aquela configurada na aba [Geral](/pt/docs/tutorials/vtex-pick-and-pack-fulfillment#configuracoes-gerais), em **Unidades de medida**.
 
 4. Clique em `Adicionar`.
 

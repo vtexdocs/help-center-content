@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-A [Riachuelo](https://www.riachuelo.com.br), marca brasileira especializada em moda, é uma rede de lojas de departamento que figura entre as maiores varejistas do país. Após firmar uma parceria com a VTEX, a Riachuelo se tornou um [conector certificado](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro), também chamado de parceiro. Isso significa que agora é mais fácil para uma loja VTEX vender seus produtos no Riachuelo Marketplace.
+A [Riachuelo](https://www.riachuelo.com.br), marca brasileira especializada em moda, é uma rede de lojas de departamento que figura entre as maiores varejistas do país. Após firmar uma parceria com a VTEX, a Riachuelo se tornou um [conector certificado](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-certificado-parceiro), também chamado de parceiro. Isso significa que agora é mais fácil para uma loja VTEX vender seus produtos no Riachuelo Marketplace.
 
 Este artigo orienta como configurar a integração com a Riachuelo. O primeiro passo é entrar em contato com o parceiro por meio do [cadastro no Riachuelo Marketplace](https://www.riachuelo.com.br/marketplace). Para saber como prosseguir após o cadastro, você pode acessar a página da Riachuelo [PORTAL DO SELLER - CADASTRO DE SENHA E PRIMEIRO ACESSO](https://riachuelomarketplace.zendesk.com/hc/pt-br/articles/1500010648222-Portal-do-Seller-Cadastro-de-senha-e-primeiro-acesso).
 
@@ -74,7 +74,7 @@ A Política de Envio estabelece o conjunto de regras das condições de frete, o
 
 Se for do seu interesse utilizar a mesma Estratégia de Envio definida para sua loja VTEX na integração com a Riachuelo, não é necessário criar novas configurações de logística. Se, no entanto, você deseja criar uma Estratégia de Envio específica para o marketplace, é necessário realizar os seguintes passos:
 
-1. [Cadastrar Política de envio](/pt/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio), associada à política comercial usada na integração.
+1. [Cadastrar Política de envio](/pt/docs/tutorials/politica-de-envio#cadastrar-uma-politica-de-envio), associada à política comercial usada na integração.
 2. [Cadastrar Doca](/pt/docs/tutorials/gerenciar-doca), associada à política comercial usada na integração.
 3. [Cadastrar Estoque](/pt/docs/tutorials/gerenciar-estoque), associado à Doca criada no passo anterior.
 
@@ -100,7 +100,7 @@ Um usuário é um perfil configurado para poder realizar determinadas ações na
 3. Clique no botão `+ NOVO`.
 4. Preencha o campo do email com a _access key_ criada.
 5. Clique em `+ADICIONAR PERFIS`.
-6. Selecione a flag correspondente a [`IntegrationProfile - Fulfillment Gateway Oms`](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#integrationprofile-fulfillment-gateway-oms).
+6. Selecione a flag correspondente a [`IntegrationProfile - Fulfillment Gateway Oms`](/pt/docs/tutorials/perfis-de-acesso#integrationprofile-fulfillment-gateway-oms).
 7. Clique no botão `ADICIONAR PERFIS`.
 8. Clique em `SALVAR`.
 

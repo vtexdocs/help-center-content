@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
-Whenever a customer adds a new credit card to their [My Account page](/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh#credit-cards), the financial institution or card issuer creates a test transaction to validate the card’s use at that store.
+Whenever a customer adds a new credit card to their [My Account page](/en/docs/tutorials/how-my-account-works#credit-cards), the financial institution or card issuer creates a test transaction to validate the card’s use at that store.
 
 This transaction is for $1.50 and can be identified by the letters __AV__ (Account Verification), followed by a number.
 

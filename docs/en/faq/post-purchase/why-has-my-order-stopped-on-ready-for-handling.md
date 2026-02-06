@@ -14,17 +14,17 @@ locale: en
 legacySlug: why-has-my-order-stopped-on-ready-for-handling
 ---
 
-`Ready for Handling` is an order flow status that awaits the registration of the tax receipt in order to invoice it. The order will remain in this status until it is [invoiced](https://help.vtex.com/docs/tracks/invoicing-an-order), which means the invoice has been added to the order.
+`Ready for Handling` is an order flow status that awaits the registration of the tax receipt in order to invoice it. The order will remain in this status until it is [invoiced](/en/docs/tracks/invoicing-an-order), which means the invoice has been added to the order.
 
 ## Invoicing on Orders module
 
-To change the order status, you need to add the invoice via the [Order Invoice Notification](https://developers.vtex.com/vtex-rest-api/reference/invoicenotification) API or [manually](https://help.vtex.com/en/docs/tracks/partial-invoices) through the VTEX Admin.
+To change the order status, you need to add the invoice via the [Order Invoice Notification](https://developers.vtex.com/vtex-rest-api/reference/invoicenotification) API or [manually](/en/docs/tracks/partial-invoices) through the VTEX Admin.
 
 Pay attention to the following information to ensure that the invoice is generated correctly:
 
 - The invoice must contain the total order amount, including shipping costs.  
 - If the invoice already has the correct total order amount, you must resend the invoice.  
-- If the invoice does not contain the full amount, you must add a new [partial invoice](https://help.vtex.com/en/docs/tracks/partial-invoices) with the missing amount. This new invoice must have a different number from the one already in the purchase order.    
+- If the invoice does not contain the full amount, you must add a new [partial invoice](/en/docs/tracks/partial-invoices) with the missing amount. This new invoice must have a different number from the one already in the purchase order.    
 
 ### Marketplace integration 
 

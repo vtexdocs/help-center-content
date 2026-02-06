@@ -61,11 +61,11 @@ Existem diversos tipos de configuração possíveis para preços e meios de paga
 
 #### Utilizar os preços da conta principal
 
-Para que a conta franquia utilize os preços configurados na conta principal, é necessário selecionar a opção **Herdar preços da conta-pai** nas Configurações do módulo de **Preços** da conta franquia, conforme descrito [neste artigo](/pt/tutorial/price-configuration--3hbBtCzNUBrj8GaWgCtSWN#configuracoes-gerais-de-precos).
+Para que a conta franquia utilize os preços configurados na conta principal, é necessário selecionar a opção **Herdar preços da conta-pai** nas Configurações do módulo de **Preços** da conta franquia, conforme descrito [neste artigo](/pt/docs/tutorials/configuracoes-de-precos#configuracoes-gerais-de-precos).
 
 #### Configurar preços próprios da conta franquia
 
-Para configurar preços próprios da conta franquia, você precisa desmarcar a opção **Herdar preços da conta-pai** nas Configurações do módulo de **Preços** da conta franquia, conforme detalhado [neste artigo](/pt/tutorial/price-configuration--3hbBtCzNUBrj8GaWgCtSWN#configuracoes-gerais-de-precos). Além disso, é necessário configurar os preços desejados no [módulo de **Preços**](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) ou pela [API de Pricing](https://developers.vtex.com/vtex-rest-api/reference/pricing-api-overview).
+Para configurar preços próprios da conta franquia, você precisa desmarcar a opção **Herdar preços da conta-pai** nas Configurações do módulo de **Preços** da conta franquia, conforme detalhado [neste artigo](/pt/docs/tutorials/configuracoes-de-precos#configuracoes-gerais-de-precos). Além disso, é necessário configurar os preços desejados no [módulo de **Preços**](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) ou pela [API de Pricing](https://developers.vtex.com/vtex-rest-api/reference/pricing-api-overview).
 
 Para garantir uma experiência de compra consistente, é importante [configurar a regionalização](/pt/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw?&utm_source=autocomplete) quando existirem preços diferentes para cada conta franquia.
 Ao adotar a regionalização, é possível solicitar o CEP do cliente antes de iniciar a navegação, permitindo assim exibir os produtos e  preços correspondentes à conta franquia antes de prosseguir para o Checkout.

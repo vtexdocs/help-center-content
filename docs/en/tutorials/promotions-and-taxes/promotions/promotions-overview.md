@@ -26,7 +26,7 @@ Check out the menu’s different sections and pages below.
 
 In this section you will be able to create promotions, campaign audience, gift cards, and taxes.  This section includes the following page already in the new design:
 
-- [Promotions](/en/docs/lista-de-promocoes--5LtzPm5kQdRVI06KXHE0Td): discounts offered to customers based on specific criteria.   
+- [Promotions](/en/docs/tutorials/promotion-list-beta): discounts offered to customers based on specific criteria.   
 
 Soon to be included in the redesigned Admin:
 

@@ -46,8 +46,8 @@ Un release puede tener distintos status desde que se crea hasta que se publica o
 | `En fila` | Verde (intermitente) | La publicación del release está en la etapa de implementación. Por lo tanto, el retailer no necesita hacer nada para que el release pase al siguiente status, el cual puede ser `Publicando` o `Error al publicar`. |
 | `Publicando` | Verde (intermitente) | La plataforma VTEX está procesando la solicitud de publicación del release. El retailer no necesita hacer nada para que el release pase al siguiente status, el cual puede ser `Publicado`, `Error al publicar` o `Eliminado`. |
 | `Publicado` | Verde | El release se publicó y los cambios pueden verse en el storefront de la tienda. |
-| `Removido` | Gris | El release ya no está publicado y, en consecuencia, los cambios ya no se ven en el storefront de la tienda. El release removido no está eliminado, sino que se archiva y puede ser [publicado](/es/tutorial/planner-acciones-en-los-releases-beta--1zsomdifPEQkdV6RW93JyW#publicar-releases) de nuevo en cualquier momento.  |
-| `Error al publicar` | Rojo | Ocurrió un error y no se publicó el release. En estos casos, el retailer puede intentar [publicar el release](/es/tutorial/planner-acciones-en-los-releases-beta--1zsomdifPEQkdV6RW93JyW#publicar-releases) de nuevo o [programar una nueva fecha de publicación](/es/tutorial/planner-acciones-en-los-releases-beta--1zsomdifPEQkdV6RW93JyW#reprogramar). |
+| `Removido` | Gris | El release ya no está publicado y, en consecuencia, los cambios ya no se ven en el storefront de la tienda. El release removido no está eliminado, sino que se archiva y puede ser [publicado](/es/docs/tutorials/planner-acciones-en-releases-beta#publicar-releases) de nuevo en cualquier momento.  |
+| `Error al publicar` | Rojo | Ocurrió un error y no se publicó el release. En estos casos, el retailer puede intentar [publicar el release](/es/docs/tutorials/planner-acciones-en-releases-beta#publicar-releases) de nuevo o [programar una nueva fecha de publicación](/es/docs/tutorials/planner-acciones-en-releases-beta#reprogramar). |
 
 ## Más información
 

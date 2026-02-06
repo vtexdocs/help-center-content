@@ -21,7 +21,7 @@ El siguiente paso es crear cuentas para los clientes a los que desea ofrecer cr�
 - [Múltiples cuentas masivas (Admin VTEX)](#crear-varias-cuentas-importacion-masiva)
 - [Cuenta individual (Customer Credit API)](#crear-cuenta-a-traves-de-api)
 
-> ℹ️ Las cuentas creadas en la aplicación Customer Credit no tienen relación ni comparten datos con la base de clientes registrada en [entidades de Master Data](/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#entidades-de-datos) de la tienda. Para que un cliente pueda utilizar Customer Credit como método de pago, el comerciante debe registrar su cuenta en la aplicación, incluso si el cliente ya tiene una cuenta en la tienda.
+> ℹ️ Las cuentas creadas en la aplicación Customer Credit no tienen relación ni comparten datos con la base de clientes registrada en [entidades de Master Data](/es/docs/tutorials/master-data#entidades-de-datos) de la tienda. Para que un cliente pueda utilizar Customer Credit como método de pago, el comerciante debe registrar su cuenta en la aplicación, incluso si el cliente ya tiene una cuenta en la tienda.
 
 ## Crear cuentas individualmente
 

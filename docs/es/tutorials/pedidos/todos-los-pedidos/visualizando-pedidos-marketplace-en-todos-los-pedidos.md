@@ -32,4 +32,4 @@ En la [página de detalles del pedido](/es/docs/tutorials/pagina-de-detalles-del
 ### Artículos relacionados
 
 - [Flujo y status de pedidos](/es/docs/tutorials/flujo-y-status-de-pedidos)
-- [¿Por qué el pedido fue cerrado con el precio incorrecto?](/es/faq/por-que-o-pedido-foi-fechado-com-um-preco-errado--frequentlyAskedQuestions_708)
+- [¿Por qué el pedido fue cerrado con el precio incorrecto?](/es/troubleshooting/pedido-finalizado-con-precio-incorrecto)

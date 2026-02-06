@@ -27,7 +27,7 @@ La página presenta la siguiente información en forma de tabla:
 
 | Columnas | Descripción |
 | :---- | :---- |
-| **Dominio** | Dirección de la tienda (host), compuesto por subdominio, dominio y dominio de nivel superior. Por ejemplo, `www.mystore.com`. Para saber más sobre la estructura de la dirección, consulta [Configurar dominio de la tienda](/es/tutorial/configurar-o-dominio-da-loja--tutorials_2450#estrutura-do-endereco-da-loja). |
+| **Dominio** | Dirección de la tienda (host), compuesto por subdominio, dominio y dominio de nivel superior. Por ejemplo, `www.mystore.com`. Para saber más sobre la estructura de la dirección, consulta [Configurar dominio de la tienda](/es/docs/tutorials/configurar-dominio-de-la-tienda#estrutura-do-endereco-da-loja). |
 | **AC** | Autoridad de certificación. |
 | **Fecha de instalación** | Fecha de instalación del certificado. |
 | **Fecha de vencimiento** | Fecha de vencimiento del certificado. |
@@ -61,11 +61,11 @@ Si la configuración tiene éxito, se te redirigirá a la página de lista de ce
 
 La instalación puede tomar 7 días para completarse y durante este periodo el status de los hosts será **Instalando**. Una vez finalizada la instalación, el status de los hosts cambiará a **Activo**.
 
-> ℹ️ Para saber cómo solucionar errores de instalación, consulta la guía de resolución de problemas [Error al instalar certificado SSL personalizado](/es/tutorial/error-al-instalar-el-certificado-ssl-personalizado--6hgFzbcc96mcrqXZMmHCTr).
+> ℹ️ Para saber cómo solucionar errores de instalación, consulta la guía de resolución de problemas [Error al instalar certificado SSL personalizado](/es/troubleshooting/error-al-instalar-certificado-ssl-personalizado).
 
 Más información
 
 * [VTEX Shield](/es/docs/tutorials/vtex-shield)  
 * [Configurar dominio de la tienda](/es/docs/tutorials/configurar-dominio-de-la-tienda)  
 * [Go-live](/es/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#realizar-apontamento-de-dns)
-* [Error al instalar certificado SSL personalizado](/es/tutorial/error-al-instalar-el-certificado-ssl-personalizado--6hgFzbcc96mcrqXZMmHCTr)
+* [Error al instalar certificado SSL personalizado](/es/troubleshooting/error-al-instalar-certificado-ssl-personalizado)

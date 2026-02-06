@@ -19,7 +19,7 @@ subcategoryId: 6iTRZiMeCGXYiO2ckABFZi
 
 Creating promotions is a great strategy to attract more customers to your ecommerce website. When configuring them, you must ensure that the applied discounts will produce the expected results since mistakes when creating a promotion can lead to revenue losses.
 
-To mitigate unwanted impacts on promotions, the **Promotion Alerts** page allows you to create conditions to check if promotions are correct and to establish [preemptive actions](/en/tutorial/alerta-de-promocoes-como-criar-um-alerta-beta--14nC51OlGoCSBLlBkZhkRR#preventive-actions) to avoid selling at unexpected prices. However, an order is required to activate the first alert.
+To mitigate unwanted impacts on promotions, the **Promotion Alerts** page allows you to create conditions to check if promotions are correct and to establish [preemptive actions](/en/docs/tutorials/promotion-alerts-how-to-create-an-alert-beta#preventive-actions) to avoid selling at unexpected prices. However, an order is required to activate the first alert.
 
 If the defined [conditions](#conditions) are met, the system generates an alert informing you of the product sold at unexpected prices and then applies the configured [preemptive actions](#preventive-actions). If you configure the action of [deactivating promotions](#preventive-actions), the unwanted scenario will not be repeated since the promotion will have been deactivated.
 

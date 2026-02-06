@@ -83,7 +83,7 @@ Para solucionarlo, consulta las instrucciones a continuación:
 
 Una posible causa de este problema podría estar relacionada con la falta del [recurso](/es/docs/tutorials/recursos-del-license-manager) `CMS GraphQL API` de License Manager para el [rol de usuario](/es/docs/tutorials/roles) asignado a la gestión de contenido. 
 
-Asegúrate de que el recurso `CMS GraphQL API` esté asociado con el rol de usuario correspondiente, ya sea [creando un nuevo rol](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) o editando uno existente.
+Asegúrate de que el recurso `CMS GraphQL API` esté asociado con el rol de usuario correspondiente, ya sea [creando un nuevo rol](/es/docs/tutorials/roles#creating-a-role) o editando uno existente.
 
 Si continúas sin poder gestionar el contenido incluso después de agregar el recurso `CMS GraphQL API` a la función del usuario, consulta la siguiente sección: [Comprueba la región principal del dominio](#comprobar-la-region-principal-del-dominio).
 

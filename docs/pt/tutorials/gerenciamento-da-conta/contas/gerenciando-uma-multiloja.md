@@ -23,7 +23,7 @@ Neste guia, confira como criar, configurar e excluir uma multiloja.
 
 A criação de multiloja é sem custos para o lojista. Porém, caso seja necessário [contratar uma política comercial adicional](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional), custos extras serão aplicados.
 
-Para criar uma nova loja, siga as instruções da seção **Criar loja** do guia [Gerenciamento de conta](/pt/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq#criar-loja).
+Para criar uma nova loja, siga as instruções da seção **Criar loja** do guia [Gerenciamento de conta](/pt/docs/tutorials/gerenciamento-da-conta#criar-loja).
 
 É preciso especificar qual é o domínio da sua nova loja. Saiba mais com o guia [Configurando o domínio da sua loja](/pt/docs/tutorials/configurar-o-dominio-da-loja).
 
@@ -70,7 +70,7 @@ Para gerar o arquivo XML da nova loja automaticamente, siga as instruções do g
 
 ## Excluir multiloja
 
-Para excluir uma multiloja existente, siga as instruções da seção **Excluir loja** do guia [Gerenciamento de conta](/pt/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq#excluir-loja).
+Para excluir uma multiloja existente, siga as instruções da seção **Excluir loja** do guia [Gerenciamento de conta](/pt/docs/tutorials/gerenciamento-da-conta#excluir-loja).
 
 > ⚠️ O nome da subconta removida não poderá ser utilizado novamente.
 

@@ -22,8 +22,8 @@ Os chamados para o suporte VTEX são divididos em três tipos, e cada tipo possu
 
 Os chamados para o suporte VTEX são:
 
-- [Suporte técnico](/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#suporte-tecnico): solução de problemas ou perguntas técnicas em relação a produtos VTEX.
-  - [Copilot](/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#suporte-tecnico): obtenha sugestões automáticas e resolva problemas comuns ou esclareça dúvidas técnicas sobre a plataforma VTEX.
+- [Suporte técnico](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex#suporte-tecnico): solução de problemas ou perguntas técnicas em relação a produtos VTEX.
+  - [Copilot](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex#suporte-tecnico): obtenha sugestões automáticas e resolva problemas comuns ou esclareça dúvidas técnicas sobre a plataforma VTEX.
 - [Suporte financeiro](/pt/docs/tracks/suporte-financeiro): contrato ou questões financeiras relativas à loja e à VTEX.
 - [Suporte comercial](/pt/docs/tracks/suporte-comercial): contratação de [política comercial](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#contratar-politica-comercial-adicional) adicional, de [ambiente adicional](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#contratar-politica-comercial-adicional#contratar-novo-ambiente), conta franquia ou alteração de [usuário titular](/pt/docs/tutorials/o-que-e-o-usuario-titular).
 
@@ -31,7 +31,7 @@ Os chamados para o suporte VTEX são:
 
 ## Acesso ao Copilot
 
-O [Copilot](/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#2-acessar-o-copilot) é uma ferramenta integrada à plataforma que facilita o suporte técnico. Ele permite resolver dúvidas e identificar problemas, fornecendo orientações automáticas.
+O [Copilot](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex#2-acessar-o-copilot) é uma ferramenta integrada à plataforma que facilita o suporte técnico. Ele permite resolver dúvidas e identificar problemas, fornecendo orientações automáticas.
 
 Para acessar o **Copilot** e iniciar a interação com o suporte, siga os passos abaixo:
 

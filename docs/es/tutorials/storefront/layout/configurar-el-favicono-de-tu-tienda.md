@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ Este tutorial solo es válido para tiendas CMS Portal (Legado). Para tiendas desarrolladas con Store Framework, sigue las instrucciones de la sección **Faviconos** de la guía [Configurar SEO en la tienda Store Framework](/es/tutorial/configurar-seo-en-la-tienda--1sKskEsjUSvgHyqM8oknVR#faviconos).
+> ⚠️ Este tutorial solo es válido para tiendas CMS Portal (Legado). Para tiendas desarrolladas con Store Framework, sigue las instrucciones de la sección **Faviconos** de la guía [Configurar SEO en la tienda Store Framework](/es/docs/tutorials/configurar-seo-en-la-tienda#faviconos).
 
 Un favicono es el pequeño ícono asociado a un sitio web que se muestra en la pestaña del navegador al lado del título de la página, en favoritos, en el historial de navegación y en otros lugares donde aparece la dirección del sitio web, como las páginas de resultados de búsqueda.
 

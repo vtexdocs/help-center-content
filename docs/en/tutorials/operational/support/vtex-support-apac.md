@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 
-This article presents the availability, SLA, and additional support resources available to customers served by our offices in **Asia-Pacific Region.** For a broader perspective of our global support resources, see: [How does VTEX support work?](/en/faq/how-does-vtex-support-work--3kACEfni4m8Yxa1vnf2ebe)
+This article presents the availability, SLA, and additional support resources available to customers served by our offices in **Asia-Pacific Region.** For a broader perspective of our global support resources, see: [How does VTEX support work?](/en/docs/tutorials/how-does-vtex-support-work)
 
 ## Availability
 Our regular support hours are Monday through Friday, from 9am GMT+8 to 7pm GMT+8. Our average first response time varies according to ticket urgency, as seen in the table below.

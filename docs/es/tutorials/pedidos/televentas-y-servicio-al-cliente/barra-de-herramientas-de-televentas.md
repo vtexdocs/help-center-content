@@ -55,10 +55,10 @@ Al hacer clic en el nombre del cliente, el operador puede ver la siguiente infor
 
 ## Artículos relacionados
 
-*   [Roles de usuario predefinidos - Call center operator](/es/tutorial/roles-de-usuario-predefinidos--jGDurZKJHvHJS13LnO7Dy#call-center-operator)
+*   [Roles de usuario predefinidos - Call center operator](/es/docs/tutorials/roles-de-usuario-predefinidos#call-center-operator)
 *   [Crear usuario de televentas](/es/docs/tutorials/como-creo-un-usuario-de-televentas)
 *   [Personalizar la barra de herramientas de televentas](/es/docs/tutorials/customizar-a-toolbar-de-televendas)
-*   [Pedidos](/es/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#pedidos)
+*   [Pedidos](/es/docs/tutorials/como-funciona-mi-cuenta#pedidos)
 *   [Funcionalidades de televentas](/es/docs/tutorials/funcionalidades-de-televentas)
 *   [Cómo configurar las funcionalidades de televentas](/es/docs/tutorials/como-configurar-las-funcionalidades-de-televentas)
 

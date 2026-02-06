@@ -44,7 +44,7 @@ Hay dos formas de gestionar el [stock](/es/docs/tutorials/gestionar-items-en-inv
 
 Las siguientes soluciones se centran en la gestión del stock a través del Admin VTEX:
 
-* **Actualizar recuento de stock:** en la fila correspondiente al SKU y almacén deseados, en la columna _Actualizar recuento_, ingresa el número de ítems disponibles para la venta y haz clic en `Guardar`. Este número debe ser positivo; lo contrario resultaría en un [stock negativo](/es/faq/why-is-my-stock-negative--frequentlyAskedQuestions_159).
+* **Actualizar recuento de stock:** en la fila correspondiente al SKU y almacén deseados, en la columna _Actualizar recuento_, ingresa el número de ítems disponibles para la venta y haz clic en `Guardar`. Este número debe ser positivo; lo contrario resultaría en un [stock negativo](/es/troubleshooting/mi-stock-esta-negativo).
 * **Configurar stock ilimitado:** en la fila correspondiente al SKU y almacén deseados, en la columna _Stock ilimitado_, haz clic en el botón de activación y después en `Guardar`. Cuando se activa esta configuración, el ítem se considera siempre disponible para la venta y la tienda nunca presentará productos sin stock (agotados).
 
 > ℹ️ Para realizar la configuración y que los productos sin stock (agotados) se muestren en tu storefront, accede al **Admin VTEX > Catálogo > Todos los productos** y en la página de configuración del producto, en la pestaña **Producto**, marca la opción **Sí** en el campo *Mostrar producto sin stock (agotado)*.

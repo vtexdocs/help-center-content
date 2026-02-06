@@ -82,7 +82,7 @@ Um pacote é o embrulho ou a caixa que contém os itens de uma entrega. Note que
 
 O canto superior esquerdo inclui as seguintes ações:
 
-* **Alterar**: altere os itens do pedido. Note que a [alteração de itens](/pt/tutorial/como-alterar-itens-do-pedido--7jekq618QxgbsOxKkXBjE8) é diferente da [substituição de pedidos](/pt/docs/tutorials/substituicao-de-pedidos). Na substituição de pedido o cliente solicita as mudanças no pedido, e na alteração de itens a loja modifica o pedido. 
+* **Alterar**: altere os itens do pedido. Note que a [alteração de itens](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado) é diferente da [substituição de pedidos](/pt/docs/tutorials/substituicao-de-pedidos). Na substituição de pedido o cliente solicita as mudanças no pedido, e na alteração de itens a loja modifica o pedido. 
 * **Faturar:** emita a nota fiscal do pedido. Entenda melhor sobre o envio de faturas no artigo [Como faturar um pedido](/pt/docs/tutorials/faturar-um-pedido-manualmente).
 
 ### Notas fiscais
@@ -155,6 +155,6 @@ Na lateral direita da página, você pode conferir os detalhes financeiros do pe
 
 ## Saiba mais
 
-* [Alterar itens do pedido](/pt/tutorial/como-alterar-itens-do-pedido--7jekq618QxgbsOxKkXBjE8)  
+* [Alterar itens do pedido](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado)  
 * [Devolver itens do pedido](/pt/docs/tutorials/como-devolver-itens-do-pedido)  
 * [Faturar pedido](/pt/docs/tutorials/faturar-um-pedido-manualmente)

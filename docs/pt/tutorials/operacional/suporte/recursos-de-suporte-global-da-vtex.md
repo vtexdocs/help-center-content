@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 
-Este documento apresenta a disponibilidade, o SLA de atendimento e os recursos adicionais de suporte oferecidos pela VTEX para clientes. Para saber mais sobre como funciona o suporte da VTEX, acesse [Como funciona o suporte VTEX?](/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe).
+Este documento apresenta a disponibilidade, o SLA de atendimento e os recursos adicionais de suporte oferecidos pela VTEX para clientes. Para saber mais sobre como funciona o suporte da VTEX, acesse [Como funciona o suporte VTEX?](/pt/docs/tutorials/como-funciona-o-suporte-da-vtex).
 
 ## Tempo de primeira resposta para todos os chamados
 

@@ -21,7 +21,7 @@ Selecionando esse tipo de desconto, você precisa criar uma fórmula para defini
 
 ![tipo-desconto-formula](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/promocao-regular-com-desconto-nominal-baseado-em-formula_1.png)
 
-Para construir sua fórmula, você pode utilizar [variáveis](/pt/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV#variaveis), como total, freight e quantity, realizar [operações](/pt/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV#operacoes) (soma, subtração, multiplicação e divisão) e aplicar [funções](/pt/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV#funcoes), como `min` , `max` e `floor`.
+Para construir sua fórmula, você pode utilizar [variáveis](/pt/docs/tutorials/promocao-regular-com-desconto-nominal-baseado-em-formula#variaveis), como total, freight e quantity, realizar [operações](/pt/docs/tutorials/promocao-regular-com-desconto-nominal-baseado-em-formula#operacoes) (soma, subtração, multiplicação e divisão) e aplicar [funções](/pt/docs/tutorials/promocao-regular-com-desconto-nominal-baseado-em-formula#funcoes), como `min` , `max` e `floor`.
 
 ## Variáveis
 
@@ -52,7 +52,7 @@ Para priorizar um cálculo antes de outro, escreva o cálculo que deve ser reali
 
 ## Funções
 
-Se desejar, você pode usar a função `min` para [limitar o valor do desconto](/pt/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV#limitar-o-valor-do-desconto) ou a função `max` para [priorizar o maior desconto possível](/pt/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV#priorizar-o-maior-desconto-possivel). A função `floor` permite obter a parte inteira de um valor, descartando a parte decimal. Veja mais detalhes sobre como aplicar essas funções a seguir.
+Se desejar, você pode usar a função `min` para [limitar o valor do desconto](/pt/docs/tutorials/promocao-regular-com-desconto-nominal-baseado-em-formula#limitar-o-valor-do-desconto) ou a função `max` para [priorizar o maior desconto possível](/pt/docs/tutorials/promocao-regular-com-desconto-nominal-baseado-em-formula#priorizar-o-maior-desconto-possivel). A função `floor` permite obter a parte inteira de um valor, descartando a parte decimal. Veja mais detalhes sobre como aplicar essas funções a seguir.
 
 > ℹ️ Ao utilizar funções, é necessário incluir um espaço entre a função e os parênteses de abertura. Exemplo: `min (total * 0.2, 10)`.
 

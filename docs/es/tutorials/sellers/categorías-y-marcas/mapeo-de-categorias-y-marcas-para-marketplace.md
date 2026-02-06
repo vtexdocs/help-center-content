@@ -27,9 +27,9 @@ Esto permite que los productos presentados por el seller se introduzcan con la i
  3. Haga clic en__ Nuevo mapeo__.    
  4. Seleccione un seller entre las opciones y haga clic en __Agregar__.  
  5. Para el seller que se agregó al panel:  
-  a. Realice el [mapeo de categorías](/es/tutorial/mapping-categories-and-brands-for-the-marketplace--tutorials_1521#mapeo-de-categorias).    
-  b. Realice el [mapeo de marcas](/es/tutorial/mapping-categories-and-brands-for-the-marketplace--tutorials_1521#mapeo-de-marcas).    
-  c. Realice el [mapeo de especificaciones](/es/tutorial/mapping-categories-and-brands-for-the-marketplace--tutorials_1521#mapeo-de-especificaciones).  
+  a. Realice el [mapeo de categorías](/es/docs/tutorials/mapeo-de-categorias-y-marcas-para-marketplace#mapeo-de-categorias).    
+  b. Realice el [mapeo de marcas](/es/docs/tutorials/mapeo-de-categorias-y-marcas-para-marketplace#mapeo-de-marcas).    
+  c. Realice el [mapeo de especificaciones](/es/docs/tutorials/mapeo-de-categorias-y-marcas-para-marketplace#mapeo-de-especificaciones).  
  6. Haga clic en el botón que empieza con __Actualizar mapeo__.  
 
 ## Mapeo de categorías

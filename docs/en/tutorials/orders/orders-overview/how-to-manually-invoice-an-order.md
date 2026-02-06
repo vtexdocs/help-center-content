@@ -36,7 +36,7 @@ To send the invoice via VTEX Admin, follow the steps below:
 5. Click the `Invoice` button. 
 6. Click the desired billing option:      
     * **Submit invoice referencing items:** to invoice the order referencing the package items.  
-    * **Submit single invoice:** to invoice specific items of the package. If any [changes are made to the order](/en/tutorial/how-to-change-order-items--7jekq618QxgbsOxKkXBjE8), you need to enter partial invoices.  
+    * **Submit single invoice:** to invoice specific items of the package. If any [changes are made to the order](/en/docs/tutorials/changing-items-from-a-complete-order), you need to enter partial invoices.  
     * **Request Invoice:** allows you to notify your store's ERP to generate an invoice.      
 7. Fill in the corresponding form fields:
     * Fields of the **Submit invoice referencing items** form.
@@ -64,6 +64,6 @@ After the order is `Invoiced`, go to the **Invoice** section to check the invoic
 
 ![FaturaEN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/how-to-manually-invoice-an-order_2.png)
 
-For [partial invoices](/en/docs/tracks/partial-invoices), when [changing or removing items from an order](/en/tutorial/how-to-change-order-items--7jekq618QxgbsOxKkXBjE8), the order total will be updated after invoicing and will correspond to what is settled by the VTEX payment gateway.
+For [partial invoices](/en/docs/tracks/partial-invoices), when [changing or removing items from an order](/en/docs/tutorials/changing-items-from-a-complete-order), the order total will be updated after invoicing and will correspond to what is settled by the VTEX payment gateway.
 
 Orders with [partial invoices](/en/docs/tracks/partial-invoices) cannot be [canceled](/en/docs/tutorials/canceling-orders). If the customer wants to replace or remove items from the order, it is possible to [change the order](/en/docs/tutorials/changing-items-from-a-complete-order).

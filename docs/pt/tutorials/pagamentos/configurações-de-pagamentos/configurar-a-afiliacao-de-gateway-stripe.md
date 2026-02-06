@@ -88,7 +88,7 @@ Com o conector Stripe configurado, você pode adicionar o Apple Pay com os segui
 3. Clique em __Apple Pay > Configure__ e depois em __Add to new domain__.
 4. Insira o domínio público do website da sua loja.
 5. Clique em __Baixar arquivo de verificação__ para salvá-lo em seu dispositivo.
-6. Crie as credenciais [appkey e apptoken](/pt/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet#).
+6. Crie as credenciais [appkey e apptoken](/pt/docs/tutorials/chaves-de-api).
 7. Faça uma chamada ao endpoint para enviar o arquivo de verificação baixado anteriormente, adicionando no header as credenciais criadas e o endereço do seu domínio público (https://{{dominioPublicodoSite}}/well-known/raw/apple-developer-merchantid-domain-association).
 8. Clique em __Add__.
 9. Acesse o __Admin VTEX__.

@@ -63,7 +63,7 @@ El primer `[x-y]` corresponde a las reglas que se aplican al grupo, y entre cada
 
 Para agregar una assembly option, es necesario tener un adjunto ya creado. Consulta el artículo [Registrar un anexo](/es/docs/tutorials/registrar-un-anexo) para aprender a crear uno.
 
-Después de añadir un anexo y [asociarlo a un SKU](/es/tutorial/registrar-un-anexo--7zHMUpuoQE4cAskqEUWScU#asociar-el-anexo-a-un-sku), sigue los pasos que se indican a continuación para configurar la assembly option.
+Después de añadir un anexo y [asociarlo a un SKU](/es/docs/tutorials/registrar-un-anexo#asociar-el-anexo-a-un-sku), sigue los pasos que se indican a continuación para configurar la assembly option.
 
 1. En el Admin VTEX, accede a __Catálogo__, o escribe __Catálogo__ en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en **Campos personalizados**.

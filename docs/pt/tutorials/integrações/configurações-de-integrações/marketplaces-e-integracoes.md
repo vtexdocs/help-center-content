@@ -24,7 +24,7 @@ Dos marketplaces disponibilizados, temos a opção de marketplace VTEX e marketp
 | **VTEX** | São os perfis de clientes VTEX que optaram abrir o seu ambiente para que sellers divulguem seus produtos para venda. |
 | **Externo** | São aqueles marketplaces que não são clientes VTEX e desenvolveram a integração, seja ela certificada ou parceira. |
 
-> ℹ️ Note que a **Marketplaces e Integrações** é uma ferramenta que promove o contato entre potenciais parceiros, mas não é uma etapa obrigatória para tornar-se marketplace na VTEX. Se você deseja atuar como um marketplace VTEX, leia a documentação [Estratégias de marketplace na VTEX](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex).  
+> ℹ️ Note que a **Marketplaces e Integrações** é uma ferramenta que promove o contato entre potenciais parceiros, mas não é uma etapa obrigatória para tornar-se marketplace na VTEX. Se você deseja atuar como um marketplace VTEX, leia a documentação [Estratégias de marketplace na VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#sendo-seller-vtex).  
 
 ## Encontrando marketplaces  
 
@@ -64,7 +64,7 @@ Para se conectar a um marketplace externo, o seller precisará seguir os passos 
 
 ### Conectar a marketplace VTEX  
 
-Para se conectar a um dos marketplaces VTEX, é necessário iniciar um contato para negociação da parceria e aguardar o retorno do marketplace, é também mandatório um [Perfil de seller](/pt/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM#perfil-da-loja) ativo.  
+Para se conectar a um dos marketplaces VTEX, é necessário iniciar um contato para negociação da parceria e aguardar o retorno do marketplace, é também mandatório um [Perfil de seller](/pt/docs/tutorials/marketplaces-e-integracoes#perfil-da-loja) ativo.  
 
 Ao enviar uma mensagem, considere todas as informações que aquele marketplace precisa saber para conectar-se ao seu negócio. Sugerimos também já adiantar as dúvidas, ou pontos a serem levantados em uma reunião futura, por exemplo.
 

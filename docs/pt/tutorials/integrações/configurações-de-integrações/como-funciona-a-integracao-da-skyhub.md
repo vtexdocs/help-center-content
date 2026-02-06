@@ -15,15 +15,15 @@ locale: pt
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-A B2W e as Lojas Americanas fizeram uma fusão, dando origem ao [Americanas Marketplace](https://americanasmarketplace.com.br/). Através do [conector nativo](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex) da VTEX, é possível integrar com a B2W e aumentar seus canais de venda.
+A B2W e as Lojas Americanas fizeram uma fusão, dando origem ao [Americanas Marketplace](https://americanasmarketplace.com.br/). Através do [conector nativo](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-nativo-vtex) da VTEX, é possível integrar com a B2W e aumentar seus canais de venda.
 
 A SkyHub é a integradora que gerencia a comunicação entre VTEX e a B2W/Americanas Marketplace. Depois de realizar a [integração com a SkyHub/B2W](/pt/docs/tracks/visao-geral-da-integracao-b2w), é necessário entender como funciona o fluxo da integração, ou seja, como suas informações são atualizadas no marketplace. Este artigo foi dividido em:
 
-- [Produtos](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8#produtos)
-- [Estoque](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8#estoque)
-- [Preços](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8#precos)
-- [Promoções](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8#promocoes)
-- [Pedidos](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8#pedidos)
+- [Produtos](/pt/docs/tutorials/como-funciona-a-integracao-da-skyhub#produtos)
+- [Estoque](/pt/docs/tutorials/como-funciona-a-integracao-da-skyhub#estoque)
+- [Preços](/pt/docs/tutorials/como-funciona-a-integracao-da-skyhub#precos)
+- [Promoções](/pt/docs/tutorials/como-funciona-a-integracao-da-skyhub#promocoes)
+- [Pedidos](/pt/docs/tutorials/como-funciona-a-integracao-da-skyhub#pedidos)
 
 ## Produtos
 
@@ -74,7 +74,7 @@ Na página de detalhes de um produto na [Americanas Marketplace](https://www.ame
 
 ### Atualização de produto
 
-Uma vez realizada a integração com a SkyHub, qualquer alteração nos [campos enviados](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8#campos-enviados) de produtos e SKUs vai automaticamente se refletir na B2W. Por exemplo, se a descrição de um produto for alterada, a nova descrição vai aparecer na B2W sem necessidade de uma atualização manual.
+Uma vez realizada a integração com a SkyHub, qualquer alteração nos [campos enviados](/pt/docs/tutorials/como-funciona-a-integracao-da-skyhub#campos-enviados) de produtos e SKUs vai automaticamente se refletir na B2W. Por exemplo, se a descrição de um produto for alterada, a nova descrição vai aparecer na B2W sem necessidade de uma atualização manual.
 
 ## Estoque
 
@@ -122,10 +122,10 @@ No momento do pedido, a SkyHub não consulta o preço do produto e não verifica
 
 Nesta seção, serão abordados os seguintes tópicos:
 
-- [Integrar pedido](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8#integrar-pedido)
-- [Interagir com pedido](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8#interagir-com-pedido)
-- [Faturar pedido](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8#faturar-pedido)
-- [Enviar pedido](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8#enviar-pedido)
+- [Integrar pedido](/pt/docs/tutorials/como-funciona-a-integracao-da-skyhub#integrar-pedido)
+- [Interagir com pedido](/pt/docs/tutorials/como-funciona-a-integracao-da-skyhub#interagir-com-pedido)
+- [Faturar pedido](/pt/docs/tutorials/como-funciona-a-integracao-da-skyhub#faturar-pedido)
+- [Enviar pedido](/pt/docs/tutorials/como-funciona-a-integracao-da-skyhub#enviar-pedido)
 
 ### Integrar pedido
 

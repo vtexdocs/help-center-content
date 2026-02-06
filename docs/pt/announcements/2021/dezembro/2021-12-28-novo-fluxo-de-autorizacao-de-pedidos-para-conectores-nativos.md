@@ -17,23 +17,23 @@ announcementSynopsisPT: 'Pedidos com erro de divergência de valores de conector
 
 Quando o preço definido por um seller é diferente do preço oferecido pelo marketplace, pedidos realizados em marketplaces podem não ser processados corretamente. Na VTEX, o fluxo de Autorização de pedidos permite o controle e a aprovação automática desses pedidos, a partir da configuração que o seller faz de uma [regra de Divergência de valores](/pt/docs/tutorials/regra-de-divergencia-de-valores).
 
-Essa funcionalidade tinha alcance global para marketplaces VTEX, marketplaces externos e [conectores certificados (parceiros)](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro), mas estava em fase Beta para [conectores nativos](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex). Agora, ela vale para todas as integrações com conectores nativos, com exceção do [Zoom](/pt/docs/tutorials/integrando-com-zoom).
+Essa funcionalidade tinha alcance global para marketplaces VTEX, marketplaces externos e [conectores certificados (parceiros)](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-certificado-parceiro), mas estava em fase Beta para [conectores nativos](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-nativo-vtex). Agora, ela vale para todas as integrações com conectores nativos, com exceção do [Zoom](/pt/docs/tutorials/integrando-com-zoom).
 
 Com a melhoria, o seller [configura a regra de Divergência de valores](/pt/docs/tutorials/configuracao-da-regra-de-divergencia-de-valores) e pedidos com erros de diferença de preço de conectores nativos passam a ser processados pelo fluxo de Autorização de pedidos. Isso permite criar regras de aprovação automática e regras que dependem de aprovação manual. Outro benefício é uma facilidade maior para gerenciar pedidos com erro de divergência de valores, pois esse processo agora é feito no **Gerenciamento de pedidos**.
 
 ## O que mudou?
 
-A [regra de Divergência de valores](/pt/docs/tutorials/regra-de-divergencia-de-valores) valia para marketplaces VTEX, marketplaces externos e conectores certificados (parceiros). Agora ela também vale para integrações com [conectores nativos](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex).
+A [regra de Divergência de valores](/pt/docs/tutorials/regra-de-divergencia-de-valores) valia para marketplaces VTEX, marketplaces externos e conectores certificados (parceiros). Agora ela também vale para integrações com [conectores nativos](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-nativo-vtex).
 
 A tabela a seguir compara o fluxo de processamento de pedidos no caso de conectores nativos _antes_ e _agora_:
 
 | **ANTES** | **AGORA** |
 | ---------- | ---------- |
 | A configuração de uma regra de processamento de pedidos com erro era feita na etapa de configuração da integração, com o preenchimento de um campo obrigatório no cadastro do conector. | O processamento de pedidos com erro é feito a partir da [configuração da regra de Divergência de valores](/pt/docs/tutorials/configuracao-da-regra-de-divergencia-de-valores), pelo fluxo de Autorização de pedidos. |
-| Pedidos com erro de divergência de preço não eram criados automaticamente, só após o reprocessamento manual. | Pedidos com erro de divergência de preço são criados automaticamente. A [autorização manual](/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe#autorizar-pedidos-manualmente) de um pedido é necessária somente quando se configura uma regra de autorização que exija essa ação. |
+| Pedidos com erro de divergência de preço não eram criados automaticamente, só após o reprocessamento manual. | Pedidos com erro de divergência de preço são criados automaticamente. A [autorização manual](/pt/docs/tutorials/configuracao-da-regra-de-divergencia-de-valores#autorizar-pedidos-manualmente) de um pedido é necessária somente quando se configura uma regra de autorização que exija essa ação. |
 | A reserva de estoque do pedido não era realizada. | A reserva de estoque do pedido é realizada automaticamente. |
 | A configuração permitia apenas definir um intervalo percentual do preço do pedido para autorizar e outro intervalo para negar a integração de um pedido com divergência de preço. | A [configuração da regra de Divergência de valores](/pt/docs/tutorials/configuracao-da-regra-de-divergencia-de-valores) permite a criação de diferentes regras automáticas para vários intervalos percentuais do preço do pedido. É possível criar regras que exigem a autorização manual de um usuário habilitado. |
-| Qualquer usuário com permissão de acesso ao Admin VTEX podia reprocessar manualmente pedidos com erro de divergência de preço, em **MARKETPLACE > Integrações > Pedidos**. | Somente usuários habilitados podem [autorizar manualmente](/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe#autorizar-pedidos-manualmente) pedidos com erro de divergência de preço. |
+| Qualquer usuário com permissão de acesso ao Admin VTEX podia reprocessar manualmente pedidos com erro de divergência de preço, em **MARKETPLACE > Integrações > Pedidos**. | Somente usuários habilitados podem [autorizar manualmente](/pt/docs/tutorials/configuracao-da-regra-de-divergencia-de-valores#autorizar-pedidos-manualmente) pedidos com erro de divergência de preço. |
 | O gerenciamento de pedidos era realizado no Admin VTEX, em **MARKETPLACE > Integrações > Pedidos**. | O gerenciamento de pedidos é realizado no Admin VTEX, em **PEDIDOS > Gerenciamento de pedidos > Todos os pedidos**. |
 
 Os campos obrigatórios de configuração do processamento de pedidos com erro de divergência de preço tinham nomes diferentes nos conectores nativos:
@@ -64,7 +64,7 @@ Os principais benefícios do novo fluxo são:
 
 - Opções versáteis de configuração de regras automáticas de processamento, por meio da [configuração da regra de Divergência de valores](/pt/docs/tutorials/configuracao-da-regra-de-divergencia-de-valores). É possível definir diferentes regras de autorização para intervalos percentuais do preço do pedido e criar regras que exigem autorização manual de um usuário habilitado.
 - Maior controle sobre qual percentual do preço do pedido deve depender de autorização manual e quais podem ser aprovados ou negados automaticamente.
-- Mais segurança na sua operação, com o controle de usuários com permissão para [autorizar manualmente pedidos](/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe#autorizar-pedidos-manualmente).
+- Mais segurança na sua operação, com o controle de usuários com permissão para [autorizar manualmente pedidos](/pt/docs/tutorials/configuracao-da-regra-de-divergencia-de-valores#autorizar-pedidos-manualmente).
 - Garantia de que pedidos com erro de divergência de preço são criados automaticamente. O que pode ficar pendente é a autorização manual do pedido, quando uma regra de autorização é configurada para isso.
 - Reserva de estoque do pedido assegurada, pois a criação do pedido não fica mais pendente.
 - Maior facilidade no gerenciamento de pedidos com erro de divergência de preços, que agora é feito em **Gerenciamento de pedidos**.
@@ -77,6 +77,6 @@ Uma vez que você configure a regra de Divergência de valores, ela passa a vale
 
 Para marketplaces VTEX, marketplaces externos e conectores certificados (parceiros), enquanto a regra de Divergência de valores não for criada, pedidos com erro de divergência de preço são aprovados automaticamente.
 
-> ⚠️ Para [conectores nativos](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), enquanto o seller não [configura a regra de Divergência de valores](/pt/docs/tutorials/configuracao-da-regra-de-divergencia-de-valores), pedidos com divergência de preço ficam retidos. É possível acompanhá-los no Admin VTEX, em **MARKETPLACE > Integrações > Pedidos**.
+> ⚠️ Para [conectores nativos](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-nativo-vtex), enquanto o seller não [configura a regra de Divergência de valores](/pt/docs/tutorials/configuracao-da-regra-de-divergencia-de-valores), pedidos com divergência de preço ficam retidos. É possível acompanhá-los no Admin VTEX, em **MARKETPLACE > Integrações > Pedidos**.
 
 Se você não quiser que conectores nativos obedeçam à Regra de Divergência de valores, é possível manter o fluxo anterior. Neste caso, [entre em contato com o time de suporte da VTEX](https://support.vtex.com/hc/pt-br/requests).

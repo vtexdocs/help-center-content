@@ -53,7 +53,7 @@ To replicate this behavior:
 
 2. Make a [change in the order](/en/docs/tutorials/changing-items-from-a-complete-order). 
 
-    > If you use the Order details (Beta) interface, access [How to change items in an order (Beta)](/en/tutorial/how-to-change-order-items-beta--7jekq618QxgbsOxKkXBjE8).
+    > If you use the Order details (Beta) interface, access [How to change items in an order (Beta)](/en/docs/tutorials/changing-items-from-a-complete-order).
 
 3. After the order changes have been made, you can view all the transaction events, by clicking [See transaction details](/en/docs/tracks/viewing-transaction-details). 
 

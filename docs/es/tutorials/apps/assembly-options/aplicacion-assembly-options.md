@@ -79,7 +79,7 @@ La página **Productos > Opciones de ensamblaje > Nuevas opciones de ensamblaje*
 
 Al guardar la opción de ensamblaje, se creará un anexo automáticamente en **Catálogo > Anexos**, con el prefijo `vtex.assembly-option.` en el nombre de la opción de ensamblaje creada. Ejemplo: `vtex.assembly-option.Ingredientes`.
 
-> ⚠️ Para que las opciones de personalización registradas en la opción de ensamblaje aparezcan en el *storefront*, debes asociar el anexo creado a un SKU en **Catálogo > Productos y SKU > Configuraciones avanzadas > Anexos**. Para hacerlo, sigue los pasos descriptos en [Asociar el anexo a un SKU](/es/tutorial/registrar-un-anexo--7zHMUpuoQE4cAskqEUWScU#asociar-el-anexo-a-un-sku).
+> ⚠️ Para que las opciones de personalización registradas en la opción de ensamblaje aparezcan en el *storefront*, debes asociar el anexo creado a un SKU en **Catálogo > Productos y SKU > Configuraciones avanzadas > Anexos**. Para hacerlo, sigue los pasos descriptos en [Asociar el anexo a un SKU](/es/docs/tutorials/registrar-un-anexo#asociar-el-anexo-a-un-sku).
 
 ## Más información
 

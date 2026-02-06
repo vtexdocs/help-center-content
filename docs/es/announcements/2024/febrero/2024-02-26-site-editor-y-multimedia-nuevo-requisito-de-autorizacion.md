@@ -29,5 +29,5 @@ Este cambio tiene como objetivo mejorar la seguridad y simplificar el acceso del
 ## ¿Qué se necesita hacer?
 Asegúrate de que los usuarios de Site Editor y Multimedia tienen sus roles asociados al recurso `CMS GraphQL API`, ya sea [creando un nuevo rol](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete#creating-a-role) o editando uno existente.
 
-> ⚠️ Para gestionar usuarios y roles, tu rol de usuario debe estar asociado al recurso `Save access profile` del producto <bold>License Manager</bold>. Por ejemplo, [User Administrator - RESTRICTED](/es/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) es un rol predefinido que tiene asociado el recurso `Save access profile`.
+> ⚠️ Para gestionar usuarios y roles, tu rol de usuario debe estar asociado al recurso `Save access profile` del producto <bold>License Manager</bold>. Por ejemplo, [User Administrator - RESTRICTED](/es/docs/tutorials/roles-de-usuario-predefinidos#user-administrator-restricted) es un rol predefinido que tiene asociado el recurso `Save access profile`.
 

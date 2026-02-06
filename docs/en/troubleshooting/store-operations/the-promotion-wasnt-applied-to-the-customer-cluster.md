@@ -37,7 +37,7 @@ To identify whether a customer cluster is associated with a promotion, follow th
 
 2. Click the promotion you want to check.
 
-3. In the section **“What are the conditions for the promotion to be valid?”**, check if the option **Customer cluster** is selected and that the field is completed with the correct [value of the respective cluster](/en/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342#filling-in-the-customer-cluster-field).
+3. In the section **“What are the conditions for the promotion to be valid?”**, check if the option **Customer cluster** is selected and that the field is completed with the correct [value of the respective cluster](/en/docs/tutorials/creating-promotion-for-a-customer-cluster#filling-in-the-customer-cluster-field).
 
 ![Cluster_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/the-promotion-wasnt-applied-to-the-customer-cluster_1.png)  
 

@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'We have launched a new configuration page so marketplaces can create requirements for approving offers.'
 ---
 
-A [marketplace](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#being-a-vtex-marketplace) is responsible for receiving offers from its sellers and reviewing and approving them so they can be added to the catalog, which is done through the Received SKUs page in the VTEX Admin. 
+A [marketplace](/en/docs/tutorials/marketplace-strategies-at-vtex#being-a-vtex-marketplace) is responsible for receiving offers from its sellers and reviewing and approving them so they can be added to the catalog, which is done through the Received SKUs page in the VTEX Admin. 
 
 To give marketplaces more control over the approval criteria for an offer, we created the **[Offer Quality Filters](/en/docs/tutorials/offer-quality-filters)** configuration, in which marketplaces create the mandatory and optional requirements for their approval. 
 
@@ -41,7 +41,7 @@ The configuration page provides many tools for operating the marketplace, includ
 * Enables the marketplace catalog team to review each offer individually to see why it did not meet the requirements.
 * Allows you to identify which sellers and offer types do not meet the requirements, speeding up corrections.
 
-Learn more about the [advantages](/en/tutorial/filtros-de-qualidade-dos-anuncios--4xm0gi8leCyxHj8YdgHSJH#advantages-of-using-this-feature) of using this feature.
+Learn more about the [advantages](/en/docs/tutorials/offer-quality-filters#advantages-of-using-this-feature) of using this feature.
 
 ## What needs to be done?
 

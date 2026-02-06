@@ -36,7 +36,7 @@ Por meio de uma interface intuitiva diretamente no Admin VTEX, o Site Editor ref
 
 ## Layout - Sites and Channels
 
-Lojas desenvolvidas com Store Framework também devem configurar o [binding da loja](/pt/tutorial/what-is-cms-layout--EmO8u2WBj2W4MUQCS8262#binding), através da pasta **[Sites and channels](/pt/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262#sites-and-channels)** na seção **Layout** do Admin VTEX.
+Lojas desenvolvidas com Store Framework também devem configurar o [binding da loja](/pt/docs/tutorials/o-que-e-o-cms-layout#binding), através da pasta **[Sites and channels](/pt/docs/tutorials/o-que-e-o-cms-layout#sites-and-channels)** na seção **Layout** do Admin VTEX.
 
 Binding é o processo utilizado para vincular o seu site a uma loja. Para mais detalhes, consulte o artigo [Vincular uma loja a uma estrutura de pastas do CMS (binding)](/pt/docs/tutorials/vincular-um-account-name-a-um-website-binding).
 

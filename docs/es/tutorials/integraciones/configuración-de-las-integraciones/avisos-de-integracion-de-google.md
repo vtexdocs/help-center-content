@@ -46,7 +46,7 @@ Para identificar el error de integración del precio del SKU con Google, lee el 
 
 > ℹ️ La descripción de un producto difiere del título o nombre del producto.
 
-**Image (imagen):** campo obligatorio. Para agregar correctamente una imagen a un producto o SKU, consulta el tutorial [Rellenar campos de registro de SKU](/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY#imagens).  
+**Image (imagen):** campo obligatorio. Para agregar correctamente una imagen a un producto o SKU, consulta el tutorial [Rellenar campos de registro de SKU](/es/docs/tutorials/agregar-o-editar-skus#imagens).  
 
 **EAN/UPC:** campo obligatorio en el [módulo Catálogo](/es/docs/tutorials/catalogo-vision-general) y debe rellenarse con el código de identificación único del SKU (código de barras), aceptando hasta 13 caracteres numéricos.  
 

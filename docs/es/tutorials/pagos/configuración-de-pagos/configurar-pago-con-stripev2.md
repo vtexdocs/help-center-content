@@ -261,7 +261,7 @@ __MSI__ se puede configurar tanto la opción de operación __VTEX Native Checkou
 1. Crea una cuenta [Stripe](https://stripe.com/) en México configurada con la moneda MXN.
 2. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Configuración__, o ingresa __Configuración__ en la barra de búsqueda en la parte superior de la página.
 3. Haz clic en uno de los medios de pago disponibles que procesan pagos con __MSI__ (tarjetas VISA, AMEX y Mastercard).
-4. [Configura las condiciones MSI](/es/tutorial/condiciones-de-pago--tutorials_455#en-cuotas-sin-interes) de la forma deseada en la pantalla del medio de pago.
+4. [Configura las condiciones MSI](/es/docs/tutorials/condiciones-de-pago#en-cuotas-sin-interes) de la forma deseada en la pantalla del medio de pago.
 5. [Configura las condiciones MSI](https://support.stripe.com/questions/c%C3%B3mo-configurar-meses-sin-intereses-%28msi%29-en-tu-cuenta-stripe?locale=es-419) en tu dashboard de Stripe con la misma información utilizada en la configuración de VTEX (paso 4).
 
 > ⚠️ Si la información registrada en los pasos 4 y 5 es diferente, la condición de MSI podría no funcionar correctamente.

@@ -23,7 +23,7 @@ El término *headless* se refiere a la independencia existente entre la interfaz
 Para acceder a Headless CMS, inicia sesión en el Admin VTEX > **Storefront > Headless CMS**. 
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-  Para gestionar el Headless CMS, asegúrese de que los [recursos](/es/docs/tutorials/recursos-del-license-manager) *See CMS menu on the top-bar*, *Settings*, and *CMS GraphQL API* estén asociados con su [rol de usuario ](/es/docs/tutorials/roles). De lo contrario, [cree un rol de usuario](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol) y agregue estos recursos o añádalos a un rol de usuario existente.
+  Para gestionar el Headless CMS, asegúrese de que los [recursos](/es/docs/tutorials/recursos-del-license-manager) *See CMS menu on the top-bar*, *Settings*, and *CMS GraphQL API* estén asociados con su [rol de usuario ](/es/docs/tutorials/roles). De lo contrario, [cree un rol de usuario](/es/docs/tutorials/roles#creando-un-rol) y agregue estos recursos o añádalos a un rol de usuario existente.
 </div>
 
 Con Headless CMS puedes:

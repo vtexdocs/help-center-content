@@ -21,13 +21,13 @@ Los adicionales de flete son importes que se añaden al costo de envío mediante
 
 Los valores adicionales pueden configurarse según:
 
-* El peso del producto: [adicional de peso](/es/tutorial/adicionales-de-flete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-peso).
+* El peso del producto: [adicional de peso](/es/docs/tutorials/adicionales-de-flete#adicional-de-peso).
 * El precio del producto:
-[adicional de precio](/es/tutorial/adicionales-de-flete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-precio).
+[adicional de precio](/es/docs/tutorials/adicionales-de-flete#adicional-de-precio).
 * El seguro del producto: 
-[adicional de seguro](/es/tutorial/adicionales-de-flete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-seguro).
+[adicional de seguro](/es/docs/tutorials/adicionales-de-flete#adicional-de-seguro).
 * El costo de envío: 
-[adicional de flete](/es/tutorial/adicionales-de-flete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-flete).
+[adicional de flete](/es/docs/tutorials/adicionales-de-flete#adicional-de-flete).
 
 ![adicionais frete ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/tarifas-de-envío/adicionales-de-flete_2.svg)
 

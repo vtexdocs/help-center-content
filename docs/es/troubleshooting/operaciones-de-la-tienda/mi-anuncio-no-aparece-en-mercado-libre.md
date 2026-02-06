@@ -34,7 +34,7 @@ La [política comercial](/es/docs/tracks/configurar-politica-comercial-para-merc
 
 Para comprobar que la política comercial esté configurada correctamente en el producto, accede a Catálogo > Todos los productos en el Admin VTEX o escribe Todos los productos en la barra de búsqueda en la parte superior de la página. Luego sigue los pasos a continuación:
 
-1. Haz clic en Filtrar resultados o realizar una búsqueda y [busca el producto](/es/tutorial/produtos-e-skus-beta--2ig7TmROlirWirZjFWZ3By#buscar-productos) cuyo anuncio no está disponible en Mercado Libre.
+1. Haz clic en Filtrar resultados o realizar una búsqueda y [busca el producto](/es/docs/tutorials/productos-y-skus#buscar-productos) cuyo anuncio no está disponible en Mercado Libre.
 2. En la fila del producto deseado, haz clic en `Modificar`.
 3. En la página de registro del producto, comprueba que la política comercial que se utiliza para Mercado Libre esté seleccionada.
 4. Si no lo está, marca la casilla de la política comercial.
@@ -51,7 +51,7 @@ Si tu tienda utiliza el [nuevo Admin VTEX](/es/announcements/2022-06-13-bienveni
 
 Para comprobar la configuración del stock mínimo, accede a Marketplace > Conexiones > Marketplace e integraciones en el Admin VTEX o escribe Marketplaces e integraciones en la barra de búsqueda en el parte superior de la página. Luego sigue los pasos a continuación:
 
-1. [Busca la integración](/es/tutorial/marketplaces-e-integracoes--5AcBO1t29nhq7rBHas9b6V#buscar-e-filtrar) de Mercado Libre.
+1. [Busca la integración](/es/docs/tutorials/marketplaces-e-integraciones#buscar-e-filtrar) de Mercado Libre.
 2. En la fila de la integración deseada, haz clic en `Editar`.
 3. En `Configuración`, comprueba que el campo Stock mínimo tenga un valor.
 

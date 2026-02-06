@@ -39,7 +39,7 @@ ____
 
 `Order with SKU inactive or out of sales channel`
 
-Only orders with active SKUs are integrated, so please check the status of the order items in your VTEX Admin, in the module **Catalog > Products and SKUs**. You can enable the SKU by [filling SKU registration fields](/en/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY), or [activating SKUs in bulk](/en/docs/tutorials/activating-skus-in-bulk).
+Only orders with active SKUs are integrated, so please check the status of the order items in your VTEX Admin, in the module **Catalog > Products and SKUs**. You can enable the SKU by [filling SKU registration fields](/en/docs/tutorials/adding-or-editing-skus), or [activating SKUs in bulk](/en/docs/tutorials/activating-skus-in-bulk).
 
 If the order SKUs are active, the error indicates that one or more SKUs are not associated with the Amazon integration's trade policy. In this case, [you must associate them with the trade policy](/en/docs/tutorials/associate-a-sku-to-a-trade-policy).
 

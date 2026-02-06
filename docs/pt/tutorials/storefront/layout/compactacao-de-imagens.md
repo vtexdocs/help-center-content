@@ -55,6 +55,6 @@ A VTEX entrega ao cliente a imagem com menor tamanho de arquivo, dentre a origin
 ## Artigos relacionados
 
 * [Boas práticas para o uso de imagens no Catálogo](/pt/docs/tutorials/boas-praticas-para-o-uso-de-imagens-no-catalogo)
-* [Adicionar imagem à descrição do produto](/pt/tutorial/adicionar-imagem-a-descricao-do-produto--2hQGTAAiyUSoISGSyOK8Y4)
+* [Adicionar imagem à descrição do produto](/pt/docs/tutorials/adicionar-ou-editar-produto)
 * [Importar imagens por planilha](/pt/docs/tutorials/importando-imagens-por-planilha)
 * [Como atualizar a imagem de um SKU?](/pt/docs/tutorials/como-atualizar-a-imagem-de-um-sku)[Reutilizando imagens com o Image Widget](/pt/docs/tutorials/image-widget)

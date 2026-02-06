@@ -49,7 +49,7 @@ Para realizar a pesquisa na barra de busca, digite o termo desejado e aperte a t
 
 O [sequence](/pt/docs/tutorials/cuidados-ao-definir-a-numeracao-de-pedido) é uma sequência de seis dígitos que aparece no seu Admin VTEX logo após o ID do pedido. Por exemplo, no pedido `1268540501456-01 (501456)`, o ID do pedido é `1268540501456`, o `-01` indica que o fulfillment será realizado por um seller e o sequence é `501456`.
 
-> ℹ️ Além dos critérios listados acima, é possível ativar outros critérios de busca, como será visto na seção [Outros](/pt/tutorial/filtrar-todos-pedidos--tutorials_192#filtros-outros).
+> ℹ️ Além dos critérios listados acima, é possível ativar outros critérios de busca, como será visto na seção [Outros](/pt/docs/tutorials/filtrar-todos-pedidos#filtros-outros).
 
 Por padrão, a página **Todos os pedidos** vem com o filtro de pedidos criados **Hoje** ativado. Para buscar em outras datas, use os filtros descritos em [Filtros: Datas](#filtros-datas) e em [Criado](#criado).
 
@@ -195,7 +195,7 @@ Na página **Pedidos > Todos os pedidos**, existe a opção `Filtrar por status`
 
 Ao clicar em `Filtrar por status` <i class="fas fa-angle-down"></i>, aparecem as opções de [status de pedidos](/pt/docs/tutorials/fluxo-e-status-de-pedidos) da sua loja. Por exemplo, se entre todos os seus pedidos não houver pedidos cancelados, esta opção não estará visível.
 
-> ℹ️ Para mais opções de filtros de status, veja a seção [Filtros: Status](/pt/tutorial/filtrar-todos-pedidos--tutorials_192#filtros-status). Se você quiser conferir todos os status de pedidos existentes, veja o artigo [Fluxo e status de pedidos](/pt/docs/tutorials/fluxo-e-status-de-pedidos).
+> ℹ️ Para mais opções de filtros de status, veja a seção [Filtros: Status](/pt/docs/tutorials/filtrar-todos-pedidos#filtros-status). Se você quiser conferir todos os status de pedidos existentes, veja o artigo [Fluxo e status de pedidos](/pt/docs/tutorials/fluxo-e-status-de-pedidos).
 
 ## Criado
 

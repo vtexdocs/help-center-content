@@ -19,7 +19,7 @@ En VTEX, el concepto de [política comercial](/es/docs/tutorials/como-funciona-u
 
 Mediante las políticas comerciales se determinan las configuraciones de catálogo, precios, promociones, pagos, _stock_, logística y segmentación del público en los canales de venta. Sin embargo, no es necesario [crear una política comercial](/es/docs/tutorials/crear-una-politica-comercial) diferente para cada canal. La misma política comercial puede utilizarse en múltiples canales de venta.
 
-Para adquirir una política comercial destinada a un canal de ventas externo al ecosistema VTEX, como un _marketplace_ para el que no existe un [conector nativo](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex), siga el flujo [Contratar una política comercial](#contratar-una-politica-comercial).
+Para adquirir una política comercial destinada a un canal de ventas externo al ecosistema VTEX, como un _marketplace_ para el que no existe un [conector nativo](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-conector-nativo-vtex), siga el flujo [Contratar una política comercial](#contratar-una-politica-comercial).
 
 ## Contratar una política comercial
 

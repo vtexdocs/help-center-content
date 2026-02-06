@@ -23,7 +23,7 @@ When no Price Divergence rule is created, the VTEX platform will behave differen
 - **Orders created via API:** Will be automatically denied if the `isCreatedAsync` field is not sent.
 - **Orders with Price Divergence related to manual discounts:** Will be automatically authorized.
 
-To use the Order Authorization flow, in cases of price divergence, you need to send the `isCreatedAsync` field in the [Place Fulfillment order](https://developers.vtex.com/docs/api-reference/marketplace-protocol-external-marketplace-orders#post-/api/fulfillment/pvt/orders) API, regardless of the type of connector used. This scenario is valid for VTEX marketplaces, external marketplaces, [certified connectors (partners)](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro), or [native connectors](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex).
+To use the Order Authorization flow, in cases of price divergence, you need to send the `isCreatedAsync` field in the [Place Fulfillment order](https://developers.vtex.com/docs/api-reference/marketplace-protocol-external-marketplace-orders#post-/api/fulfillment/pvt/orders) API, regardless of the type of connector used. This scenario is valid for VTEX marketplaces, external marketplaces, [certified connectors (partners)](/en/docs/tutorials/marketplace-strategies-at-vtex#integrado-a-conector-certificado-parceiro), or [native connectors](/en/docs/tutorials/marketplace-strategies-at-vtex#integrado-a-conector-nativo-vtex).
 
 When a seller is integrated with a native connector, such as Amazon, but has not configured a Price Divergence rule, orders with price difference errors remain pending until the rule is created. You can track them in your VTEX Admin by clicking on **Marketplace > Connections > Orders**.
 
@@ -59,7 +59,7 @@ Once you have defined the authorization rule range, select one of the following 
 
 - **Automatically authorize:** Orders with a price difference within the defined range are automatically integrated.
 - **Automatically deny:** Orders with a price difference within the defined range are automatically rejected and are not integrated.
-- **Create a task in VTEX DO for approval:** For the configured range, the order is integrated, but remains in pending status, awaiting approval from an authorized user. In the **Authorized persons** field, you must enter the email addresses of the users who can [manually approve these orders](/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe#approving-orders-manually).
+- **Create a task in VTEX DO for approval:** For the configured range, the order is integrated, but remains in pending status, awaiting approval from an authorized user. In the **Authorized persons** field, you must enter the email addresses of the users who can [manually approve these orders](/en/docs/tutorials/configuring-price-divergence-rule#approving-orders-manually).
 
 To configure a hierarchy of users responsible for approving orders, you must enter more than one email address and sort the registered users. You can change these users at any time by editing the order authorization rule. Please note that only users with the Super Admin (Owner) or OMS Full [roles](/en/docs/tutorials/roles) can edit the rule.
 
@@ -81,20 +81,20 @@ On this page, you can delete the price divergence rule by clicking on **DELETE R
 
 On the same page, in the **All** tab, you can see the list of all the order authorization rules created. To delete an authorization rule, click on the **DELETE RULE** button next to the rule you want to delete.
 
-If you want to edit an authorization rule, click on the tab corresponding to the rule you want to modify. The process for editing a rule is the same as for [creating a Price Divergence rule](/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe#creating-price-divergence-rule).
+If you want to edit an authorization rule, click on the tab corresponding to the rule you want to modify. The process for editing a rule is the same as for [creating a Price Divergence rule](/en/docs/tutorials/configuring-price-divergence-rule#creating-price-divergence-rule).
 
 Once you have made the desired changes, click on the **SAVE RULES** button, and then on **OK**.
 
 ## Approving orders manually
 
-When an authorization rule is configured with the option _Create a task in VTEX DO for approval_, this means that at least one user has been assigned to manually approve the order. [Managing orders with price divergence](/en/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW#managing-orders-with-price-divergence) is similar to managing orders from any other sales channel, such as a physical store or ecommerce.
+When an authorization rule is configured with the option _Create a task in VTEX DO for approval_, this means that at least one user has been assigned to manually approve the order. [Managing orders with price divergence](/en/docs/tutorials/price-divergence-rule#managing-orders-with-price-divergence) is similar to managing orders from any other sales channel, such as a physical store or ecommerce.
 
 > ⚠️ It is important to regularly track orders in **Orders** module. To do this, go to **Orders > All Orders**. If they require manual approval, orders with price divergence errors remain pending, awaiting approval by an authorized user, defined when the authorization rule was created. Having at least two users authorized to perform manual processing is a good practice.
 
 There are two ways to manually approve an order with price divergence:
 
-- [Approving orders via OMS](/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe#approving-orders-via-order-management)
-- [Approving orders via VTEX DO](/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe#approving-orders-via-vtex-do)
+- [Approving orders via OMS](/en/docs/tutorials/configuring-price-divergence-rule#approving-orders-via-order-management)
+- [Approving orders via VTEX DO](/en/docs/tutorials/configuring-price-divergence-rule#approving-orders-via-vtex-do)
 
 ### Approving orders via Orders module
 
@@ -106,7 +106,7 @@ This is done on the [All Orders page](/en/docs/tutorials/all-orders). To do this
 
 ### Approving orders via VTEX DO
 
-VTEX DO manages tasks created by the modules of the VTEX platform. It allows authorized users to manually perform tasks such as approving or canceling orders, among others. Learn more in the article [VTEX DO](/en/tutorial/vtex-do--tutorials_203).
+VTEX DO manages tasks created by the modules of the VTEX platform. It allows authorized users to manually perform tasks such as approving or canceling orders, among others. Learn more in the article [VTEX DO](/en/docs/tutorials/vtex-do-interface).
 
 To approve an order with price divergence via VTEX DO, follow the steps below.
 

@@ -25,7 +25,7 @@ Confira abaixo mais detalhes sobre as diferentes seções e páginas deste menu.
 Em **Pedidos**, você pode visualizar todas as informações relativas ao andamento dos pedidos feitos na sua loja. Também é possível enviar faturas e alterar produtos, entre outras ações. 
 
 A seção inclui as seguintes páginas:
-- [Todos os pedidos](/pt/v4/docs/todos-os-pedidos--6JHeydzIft46VY7JTEpbJT)    
+- [Todos os pedidos](/pt/docs/tutorials/todos-os-pedidos)    
 - [Detalhes do pedido](/pt/docs/tutorials/pagina-de-detalhes-do-pedido)  
 - [Transações](/pt/docs/tutorials/transacoes-pci-gateway) 
 - [Conciliação Bancária](/pt/docs/tutorials/conciliacoes-bancarias) 

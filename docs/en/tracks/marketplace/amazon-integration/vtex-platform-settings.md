@@ -46,7 +46,7 @@ The shipping policy (carrier) is associated with your store's warehouse through 
 
 If you would like to use the same shipping strategy defined for your VTEX store when integrating with Amazon, you do not need to create new logistics settings. However, if you want to create a specific shipping strategy for the marketplace, you must perform the following steps:
 
-1. [Adding the shipping policy](/en/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio) associated with the trade policy used in the integration.
+1. [Adding the shipping policy](/en/docs/tutorials/shipping-policy#cadastrar-uma-politica-de-envio) associated with the trade policy used in the integration.
 2. [Adding the loading dock](/en/docs/tutorials/managing-loading-docks) associated with the trade policy used in the integration.
 3. [Adding the inventory](/en/docs/tutorials/managing-warehouses) associated with the dock created in the previo us step.
 

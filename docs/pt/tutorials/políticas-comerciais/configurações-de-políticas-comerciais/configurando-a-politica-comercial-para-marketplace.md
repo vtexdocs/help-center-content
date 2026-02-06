@@ -74,7 +74,7 @@ Essa configuração é feita no módulo de *Pagamentos*, ao [criar uma condiçã
 ## Catálogo 
 Sellers podem restringir a disponibilidade dos produtos em seu catálogo por meio de políticas comerciais diferentes. É assim que os sellers determinam quais produtos serão vendidos em cada marketplace em que atuam. Se sua loja vende produtos eletrônicos e roupas, para vender em um marketplace exclusivo de eletrônicos, é necessário segmentar o sortimento de produtos, excluindo as roupas. 
 
-Essa configuração é feita no *Catálogo* da VTEX, ao [cadastrar produtos](/pt/tutorial/cadastrando-produtos--tutorials_2567), indicando para cada produto quais políticas comerciais estão vinculadas a ele. Se nenhuma restrição é feita na criação do produto, o produto estará disponível em todas as políticas comerciais. 
+Essa configuração é feita no *Catálogo* da VTEX, ao [cadastrar produtos](/pt/docs/tutorials/adicionar-ou-editar-produto), indicando para cada produto quais políticas comerciais estão vinculadas a ele. Se nenhuma restrição é feita na criação do produto, o produto estará disponível em todas as políticas comerciais. 
 
 > ⚠️ Não é recomendado vincular políticas comerciais a coleções, para determinar o sortimento de produtos, sobretudo em casos de marketplaces externos à VTEX. Quando um produto é retirado da coleção da política comercial, o sistema VTEX não avisa o marketplace dessa atualização, fazendo com que o produto continue disponível no marketplace.  
 

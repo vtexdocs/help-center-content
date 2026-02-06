@@ -27,8 +27,8 @@ Este artigo contém informações sobre a página **Gerenciamento de inventário
 Outras ações possíveis na página **Gerenciamento de inventário** são:
 
 * [Acompanhar o histórico de movimentações do inventário](/pt/docs/tutorials/historico-de-movimentacoes-do-inventario).
-* Conferir se os SKUs têm [unidades reservadas](/pt/tutorial/como-a-reserva-funciona--tutorials_92#como-acompanhar-o-status-da-reserva).
-* [Atualizar a quantidade de SKUs que estão disponíveis para venda](/pt/tutorial/atualizar-quantidade-de-skus-em-estoque--IKMWjOjMcMqKusSGko8c0). 
+* Conferir se os SKUs têm [unidades reservadas](/pt/docs/tutorials/como-a-reserva-funciona#como-acompanhar-o-status-da-reserva).
+* [Atualizar a quantidade de SKUs que estão disponíveis para venda](/pt/docs/tutorials/atualizacao-da-quantidade-de-itens-em-estoque). 
 
 ## Informações do inventário
 
@@ -41,12 +41,12 @@ No Admin VTEX, acesse **Catálogo > Inventário > Gerenciamento de inventário**
     * **ID do SKU:** código identificador do SKU.
     * **Última atualização**: número de unidades do SKU mais recente registrado na plataforma VTEX.> ℹ️ Ao clicar em qualquer valor da coluna **Última atualização**, a janela [Registro de atualizações](/pt/docs/tutorials/historico-de-movimentacoes-do-inventario) ficará disponível com a tabela das alterações. Cada linha corresponde a um registro de atualização, e as colunas contêm o usuário que realizou a alteração, a data da atualização e a quantidade de itens antes e depois da atualização. Só é possível consultar até as últimas 50 movimentações de um SKU.
     * **Reservados:** unidades de itens do SKU reservados. Os pedidos dessas reservas ainda não estão com o pagamento aprovado. 
-    Ao clicar nos valores dessa coluna para conferir detalhes sobre os dados das reservas do SKU,  você será redirecionado para o gerenciamento de pedidos. Para saber mais sobre como consultar uma reserva, veja [Como acompanhar o status da reserva](/pt/tutorial/how-does-reservation-work--tutorials_92#como-acompanhar-o-status-da-reserva)
+    Ao clicar nos valores dessa coluna para conferir detalhes sobre os dados das reservas do SKU,  você será redirecionado para o gerenciamento de pedidos. Para saber mais sobre como consultar uma reserva, veja [Como acompanhar o status da reserva](/pt/docs/tutorials/como-a-reserva-funciona#como-acompanhar-o-status-da-reserva)
     * **Enviados:** unidades despachadas do SKU. Os itens desta coluna são de pedidos com status `Pagamento aprovado`, `Preparando entrega` ou `Faturado`. Ao clicar nos itens da coluna para conferir detalhes de SKUs enviados, você será redirecionado para o gerenciamento de pedidos.
     * **Disponíveis:** unidades do SKU disponíveis para venda.
-    * **Atualizar contagem:** campo para atualização manual da quantidade disponível de itens do SKU. Para saber mais sobre como atualizar a contagem, confira o artigo [Atualizar quantidade de SKUs em estoque](/pt/tutorial/atualizar-quantidade-de-skus-em-estoque--IKMWjOjMcMqKusSGko8c0)
+    * **Atualizar contagem:** campo para atualização manual da quantidade disponível de itens do SKU. Para saber mais sobre como atualizar a contagem, confira o artigo [Atualizar quantidade de SKUs em estoque](/pt/docs/tutorials/atualizacao-da-quantidade-de-itens-em-estoque)
     * **Estoque infinito:** permite registrar unidades infinitas do SKU, fazendo com que ele esteja sempre disponível para o checkout da sua loja. Isso descarta a necessidade de atualização da contagem desse SKU.
-    * **Lead time (dias):** configuração opcional do tempo de envio a nível de SKU. Defina um tempo para o SKU de um estoque e ele será considerado no [cálculo](/pt/docs/tutorials/como-funciona-o-calculo-de-envio) do tempo de envio do pedido. Por padrão, o [lead time](/pt/docs/tutorials/lead-time-tempo-de-envio-a-nivel-de-sku) vem definido como zero dias e sua contagem é feita em dias úteis. Você pode alterar a [contagem para dias corridos](/pt/tutorial/lead_time-shipping-time-at-sku-level--16yv5Mkj6bTyWR1hCN2f4B#configurar-a-contagem-do-lead-time-em-dias-do-calendario-opcional) e, se desejar configurar horas, minutos e segundos, pode usar o endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
+    * **Lead time (dias):** configuração opcional do tempo de envio a nível de SKU. Defina um tempo para o SKU de um estoque e ele será considerado no [cálculo](/pt/docs/tutorials/como-funciona-o-calculo-de-envio) do tempo de envio do pedido. Por padrão, o [lead time](/pt/docs/tutorials/lead-time-tempo-de-envio-a-nivel-de-sku) vem definido como zero dias e sua contagem é feita em dias úteis. Você pode alterar a [contagem para dias corridos](/pt/docs/tutorials/lead-time-tempo-de-envio-a-nivel-de-sku#configurar-a-contagem-do-lead-time-em-dias-do-calendario-opcional) e, se desejar configurar horas, minutos e segundos, pode usar o endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
 > ⚠️ Para garantir que os itens adicionados ao estoque fiquem disponíveis para venda na loja, o ID dos SKUs não deve conter o número zero à esquerda. O sistema não reconhece, por exemplo, IDs no formato `01, 02, 021,` pois é esperado o formato` 1, 2, 21`.
 
@@ -71,4 +71,4 @@ Na **Gerenciamento de inventário**, para realizar uma busca pela barra, basta d
 * [Atualização da quantidade de itens em estoque](/pt/docs/tutorials/atualizacao-da-quantidade-de-itens-em-estoque)
 * [Como a reserva funciona](/pt/docs/tutorials/como-a-reserva-funciona)
 * [SKU com unidades positivas no inventário, mas indisponível para venda](/pt/faq/sku-com-unidades-positivas-no-inventario-mas-indisponivel-para-venda)
-* [Por que meu estoque está negativo?](/pt/faq/por-que-meu-estoque-esta-negativo--frequentlyAskedQuestions_159)
+* [Por que meu estoque está negativo?](/pt/troubleshooting/meu-estoque-esta-negativo)

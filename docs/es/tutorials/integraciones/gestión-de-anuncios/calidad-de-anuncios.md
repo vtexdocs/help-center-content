@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
-Los [marketplaces](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-un-marketplace-vtex) tienen que revisar y aprobar anuncios enviados por los sellers para agregar los productos al catálogo. En el Admin VTEX, este [proceso de catalogación](/es/docs/tutorials/catalogacion-manual-de-skus) se realiza a través de la página «SKU recibidos».
+Los [marketplaces](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#ser-un-marketplace-vtex) tienen que revisar y aprobar anuncios enviados por los sellers para agregar los productos al catálogo. En el Admin VTEX, este [proceso de catalogación](/es/docs/tutorials/catalogacion-manual-de-skus) se realiza a través de la página «SKU recibidos».
 
 Es importante para la operación del marketplace que haya criterios de calidad para que los anuncios que lleguen a la página ya concuerden con los principales requisitos de presentación del catálogo.
 

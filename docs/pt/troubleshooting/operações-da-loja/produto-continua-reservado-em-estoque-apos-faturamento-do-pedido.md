@@ -22,13 +22,13 @@ A reserva de estoque é uma funcionalidade essencial, que garante que o produto 
 
 Após a venda de um produto, ele passa pelos seguintes status no inventário da loja, que refletem a transição do pedido:
 
-1. [Reserva autorizada](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-autorizada): ocorre imediatamente após a finalização da compra e a criação do pedido.
+1. [Reserva autorizada](/pt/docs/tutorials/como-a-reserva-funciona#reserva-autorizada): ocorre imediatamente após a finalização da compra e a criação do pedido.
 
-2. [Reserva confirmada](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada): este status é alcançado após a aprovação do pagamento do pedido.
+2. [Reserva confirmada](/pt/docs/tutorials/como-a-reserva-funciona#reserva-confirmada): este status é alcançado após a aprovação do pagamento do pedido.
 
-3. [Reserva reconhecida](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-reconhecida): o pedido entra no status **Preparando entrega**, indicando que o produto está prestes a ser enviado.
+3. [Reserva reconhecida](/pt/docs/tutorials/como-a-reserva-funciona#reserva-reconhecida): o pedido entra no status **Preparando entrega**, indicando que o produto está prestes a ser enviado.
 
-Somente quando o pedido está no status **Preparando entrega** que os produtos são retirados do estoque. A [baixa no estoque](/pt/tutorial/como-a-reserva-funciona--tutorials_92#baixa-no-estoque), que corresponde à atualização da quantidade de itens disponíveis para venda, pode ser feita manualmente pelo lojista ou de forma automática por meio do ERP. Esse processo é realizado por meio do [gerenciamento de inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) ou pelo endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
+Somente quando o pedido está no status **Preparando entrega** que os produtos são retirados do estoque. A [baixa no estoque](/pt/docs/tutorials/como-a-reserva-funciona#baixa-no-estoque), que corresponde à atualização da quantidade de itens disponíveis para venda, pode ser feita manualmente pelo lojista ou de forma automática por meio do ERP. Esse processo é realizado por meio do [gerenciamento de inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) ou pelo endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
 ## Soluções
 

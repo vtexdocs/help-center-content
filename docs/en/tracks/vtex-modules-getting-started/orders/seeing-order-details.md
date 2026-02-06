@@ -21,7 +21,7 @@ In the default view of this screen, all store orders are listed starting from th
 
 In addition, the search offers a very flexible filter, which we will explain in detail in the [next article](/en/docs/tracks/how-the-orders-module-filters-work).
 
-To further explore the order list, see the [Order List Overview article](/en/tutorial/orders-list--tutorials_200).
+To further explore the order list, see the [Order List Overview article](/en/docs/tutorials/all-orders).
 
 Besides searching for orders in **Orders > All Orders**, you can search for orders from any page in the VTEX Admin using the global search bar at the top bar. By default, the search is configured as `Pages`. To search for an order, click on the bar, select `Orders`, and use one of the following criteria:
 

@@ -29,7 +29,7 @@ Un producto o SKU puede tener status activo o inactivo, según se detalla en la 
 
 | **Status del producto o SKU** | **Descripción** |
 | :---: | :--- |
-| Activo | Se activó el producto o SKU para indicar que el retailer desea venderlo en el storefront.La venta del producto o SKU depende de su status activo y su disponibilidad. Para más información sobre la disponibilidad de un producto, consulta los artículos [Productos y SKUs](/es/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#acompanhar-disponibilidade-de-produtos) y [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web). |
+| Activo | Se activó el producto o SKU para indicar que el retailer desea venderlo en el storefront.La venta del producto o SKU depende de su status activo y su disponibilidad. Para más información sobre la disponibilidad de un producto, consulta los artículos [Productos y SKUs](/es/docs/tutorials/productos-y-skus#acompanhar-disponibilidade-de-produtos) y [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web). |
 | Inactivo | Se desactivó el producto o SKU porque el retailer no desea que se muestre en el storefront como disponible para la venta. |
 
 ## Desactivar un producto
@@ -37,7 +37,7 @@ Un producto o SKU puede tener status activo o inactivo, según se detalla en la 
 Para desactivar un producto sigue los pasos a continuación:
 
 1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa **Productos y SKUs** en la barra de búsqueda en la parte superior de la página.
-2. Haz clic en la fila del producto deseado. Si lo prefieres, puedes utilizar la [barra de búsqueda](/es/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#buscar-productos).
+2. Haz clic en la fila del producto deseado. Si lo prefieres, puedes utilizar la [barra de búsqueda](/es/docs/tutorials/productos-y-skus#buscar-productos).
 3. En la página de edición del producto, desactiva el botón de alternancia <i class="fas fa-toggle-off" aria-hidden="true"></i> Activo.
 4. Haz clic en `Guardar`.
 
@@ -48,7 +48,7 @@ Para desactivar un producto sigue los pasos a continuación:
 Para desactivar un SKU sigue los pasos a continuación:
 
 1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa **Productos y SKUs** en la barra de búsqueda en la parte superior de la página.
-2. Haz clic en la flecha hacia abajo junto al nombre del producto para mostrar los SKUs vinculados. Puedes utilizar la [barra de búsqueda](/es/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#buscar-productos) si lo deseas.
+2. Haz clic en la flecha hacia abajo junto al nombre del producto para mostrar los SKUs vinculados. Puedes utilizar la [barra de búsqueda](/es/docs/tutorials/productos-y-skus#buscar-productos) si lo deseas.
 3. Utiliza una de las siguientes formas de desactivación:
     * En la fila del SKU, haz clic en el ícono <i class="fas fa-eye" aria-hidden="true"></i> `Desactivar` y confirma haciendo clic en `Desactivar`.
     * Haz clic en la fila del SKU para acceder a la página de edición, desactiva el botón de alternancia <i class="fas fa-toggle-off" aria-hidden="true"></i> **Activo** y haz clic en `Guardar.`

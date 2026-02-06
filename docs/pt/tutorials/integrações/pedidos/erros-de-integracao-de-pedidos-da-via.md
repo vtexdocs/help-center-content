@@ -32,7 +32,7 @@ ____
 
 `Os skus estão inativos ou fora da política comercial`
 
-Somente pedidos de SKUs ativos são integrados, portanto, verifique o _status_ do item no seu Admin VTEX, em **Catálogo > Produtos e SKUs**. É possível ativar o SKU ao [Preencher campos de cadastro de SKU](/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY), ou [Ativar SKUs em massa](/pt/docs/tutorials/ativar-skus-em-massa).
+Somente pedidos de SKUs ativos são integrados, portanto, verifique o _status_ do item no seu Admin VTEX, em **Catálogo > Produtos e SKUs**. É possível ativar o SKU ao [Preencher campos de cadastro de SKU](/pt/docs/tutorials/adicionar-ou-editar-sku), ou [Ativar SKUs em massa](/pt/docs/tutorials/ativar-skus-em-massa).
 
 ____
 
@@ -80,7 +80,7 @@ ____
 
 `O pedido com marketplace id {XXX} para o afiliado {XXX} já está cancelado e não pode ser recriado`
 
-O cancelamento de um pedido na VTEX pode ser feito pelo Admin VTEX ou diretamente pelo consumidor. No entanto, uma vez que um pedido é cancelado, não é mais possível alterar seu _status_, portanto, não há uma solução para este tipo de erro. Caso deseje mais informações sobre o que ocasionou o cancelamento, consulte [Por que meu pedido foi cancelado?](/pt/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493).
+O cancelamento de um pedido na VTEX pode ser feito pelo Admin VTEX ou diretamente pelo consumidor. No entanto, uma vez que um pedido é cancelado, não é mais possível alterar seu _status_, portanto, não há uma solução para este tipo de erro. Caso deseje mais informações sobre o que ocasionou o cancelamento, consulte [Por que meu pedido foi cancelado?](/pt/troubleshooting/o-pedido-da-minha-loja-foi-cancelado).
 
 ### Saiba mais
 

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1TIJqw8kV2Yok4iQe4SAkq
 ---
 
-The Sales Performance page is a dashboard for unified commerce that helps stores grow their business and make decisions more accurately. The dashboard allows users to analyze order data from their stores and sellers, in the case of stores that [operate as marketplaces](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#acting-as-a-marketplace). On this page, users can:
+The Sales Performance page is a dashboard for unified commerce that helps stores grow their business and make decisions more accurately. The dashboard allows users to analyze order data from their stores and sellers, in the case of stores that [operate as marketplaces](/en/docs/tutorials/marketplace-strategies-at-vtex#acting-as-a-marketplace). On this page, users can:
 
 - Monitor the health of their business  
 - Assess the impact of high-demand events, such as Black Friday and Cyber Monday, on their sales  

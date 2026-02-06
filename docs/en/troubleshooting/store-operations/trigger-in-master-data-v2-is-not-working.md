@@ -51,7 +51,7 @@ Manually send a request to the endpoint using a tool like **Postman**. This will
 
 ### Check permissions and authentication
 
-* Make sure your [credentials](/en/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) have the appropriate [permissions](/en/docs/tutorials/roles) to send requests to the specified endpoint.  
+* Make sure your [credentials](/en/docs/tutorials/api-keys) have the appropriate [permissions](/en/docs/tutorials/roles) to send requests to the specified endpoint.  
 * If the trigger makes a request to an external endpoint, check if no additional authentication or security headers are required for the target endpoint.
 
-If none of these solutions resolve the issue, please contact our [Support](/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe).
+If none of these solutions resolve the issue, please contact our [Support](/en/docs/tutorials/how-does-vtex-support-work).

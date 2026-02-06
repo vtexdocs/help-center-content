@@ -71,7 +71,7 @@ Assim que as configurações internas da lojas forem concluídas, será preciso 
 2. [Configurar registro CAA](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7wFsbWgN4rnZsbjhv8IItX#configurar-registro-caa): indicar que a autoridade certificadora (CA) **Let’s Encrypt** está autorizada a gerar e renovar certificados que atestam a identidade do domínio. Passo necessário apenas se há registro de CAA no servidor DNS.
 3. [Colocar conta em produção](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7wFsbWgN4rnZsbjhv8IItX#colocar-conta-em-producao): ativar a conta VTEX em produção. Mesmo após essa ativação, a loja permanece indisponível para acesso de clientes externos. A visualização e compra de produtos na loja só poderão ser efetuadas após a conclusão do go-live, conforme os passos descritos nas próximas seções deste artigo.
 
-> ⚠️ A partir do momento em que a conta entra em produção, todos os pedidos serão cobrados automaticamente e o [Take Rate](/pt/tutorial/compreenda-o-valor-da-receita-aprovada--tutorials_4322#valores-da-receita-aprovada) será aplicado de acordo com o plano contratado com a VTEX. Isso inclui pedidos realizados no domínio `{nomedaloja}.myvtex.com`, mesmo que tenham sido realizados para testes.
+> ⚠️ A partir do momento em que a conta entra em produção, todos os pedidos serão cobrados automaticamente e o [Take Rate](/pt/docs/tutorials/compreenda-o-valor-da-receita-aprovada#valores-da-receita-aprovada) será aplicado de acordo com o plano contratado com a VTEX. Isso inclui pedidos realizados no domínio `{nomedaloja}.myvtex.com`, mesmo que tenham sido realizados para testes.
 
 Para obter mais informações, basta consultar o artigo [Configurações](/pt/docs/tracks/configuracoes), parte da trilha detalhada sobre [Go-live](/pt/docs/tracks/processo-de-go-live).
 
@@ -81,7 +81,7 @@ Recomendamos realizar testes antes do go-live para observar o comportamento da l
 
 Na VTEX, é possível criar ambientes separados para esses testes. Nesse caso, é preciso replicar as configurações do ambiente principal que serão testadas. Por exemplo, se o objetivo é testar o funcionamento de uma promoção, é preciso fazer todas as configurações necessárias para simular um cenário em que ela seria aplicada, incluindo produtos, preços, logística, checkout, meios de pagamento, entre outros.
 
-Para planejar a fase de testes, vale entrar em contato com o [nosso suporte](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy), que é por onde é feita a [contratação de um ambiente de teste](/pt/tutorial/contratar-ambiente-de-testes--2nmZAHlfQoGsCWmEWGIoGy).
+Para planejar a fase de testes, vale entrar em contato com o [nosso suporte](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy), que é por onde é feita a [contratação de um ambiente de teste](/pt/docs/tutorials/contratar-novo-ambiente).
 
 > ℹ️ Se a loja for [construída com VTEX IO](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#ambiente-de-desenvolvimento), é possível realizar testes A/B entre workspaces, ou seja, comparar a performance de ambientes de desenvolvimento de frente de loja. Para mais detalhes, basta acessar o guia para desenvolvedores [Running A/B tests](https://developers.vtex.com/docs/guides/vtex-io-documentation-running-native-ab-testing).
 

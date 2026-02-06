@@ -35,4 +35,4 @@ This change is part of the improvements that were implemented for the Mercado Li
 
 The new interface is already available to our entire customer base that uses the Mercado Libre connector to offer their products. To access it, go to **MARKETPLACE > Mercado Libre > Promotions**.
 
-To learn more about how to use the new feature, check the article [Mercado Libre promotions](/en/tutorial/promocoes-do-mercado-livre-beta--3pEqEnru6H2JcZzYVioT5f).
+To learn more about how to use the new feature, check the article [Mercado Libre promotions](/en/docs/tutorials/mercado-libre-promotions-center).

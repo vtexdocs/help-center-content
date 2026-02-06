@@ -26,7 +26,7 @@ In the **Orders** section, you can view all information regarding the status of 
 
 This section includes the following pages:
 
-- [All Orders](/en/v4/docs/all-orders--6JHeydzIft46VY7JTEpbJT)  
+- [All Orders](/en/docs/tutorials/all-orders)  
 - [Order Details](/en/docs/tutorials/order-details-page)   
 - [Transactions](/en/docs/tutorials/how-to-view-transactions-on-pci-gateway) 
 - [Bank reconciliation](/en/docs/tutorials/bank-reconciliations) 

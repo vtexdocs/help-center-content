@@ -19,14 +19,14 @@ Al realizar la [configuración de las afiliaciones de gateway](/es/docs/tutorial
 
 ## ¿Qué cambió?
 
-Estas credenciales no deben confundirse con las credenciales [clave de aplicación y token de aplicación utilizadas en las API de VTEX para las integraciones](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet). En este caso, las credenciales se generan en el Admin y se utilizan para identificar los sistemas externos que acceden a los servicios de las tiendas VTEX. Una **clave de aplicación** generada en el Admin puede ser identificada si empieza por `vtexappkey-`.
+Estas credenciales no deben confundirse con las credenciales [clave de aplicación y token de aplicación utilizadas en las API de VTEX para las integraciones](/es/docs/tutorials/claves-de-api). En este caso, las credenciales se generan en el Admin y se utilizan para identificar los sistemas externos que acceden a los servicios de las tiendas VTEX. Una **clave de aplicación** generada en el Admin puede ser identificada si empieza por `vtexappkey-`.
 
 Si tu tienda tiene alguna afiliación de gateway configurada con un par de **clave de aplicación** y **token de aplicación** generados en el Admin, deben ser reemplazados antes del 30 de abril de 2023.
 
 ## ¿Por qué realizamos este cambio?
 
-El uso de la **clave de aplicación** y del **token de aplicación** generados en el Admin en las afiliaciones de gateway puede suponer un riesgo de seguridad, ya que se están compartiendo claves para acceder a los servicios de una tienda VTEX. El [rol](/es/docs/tutorials/roles) asignado a una credencial define a qué [recursos de la tienda](/es/docs/tutorials/recursos-del-license-manager) se puede acceder. Dependiendo del rol utilizado, cualquiera que tenga acceso a las credenciales podrá acceder a los recursos indebidamente permitidos. Si es necesario, puedes consultar las instrucciones del artículo [Claves de aplicación](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet) para desactivar una **clave de aplicación**.
+El uso de la **clave de aplicación** y del **token de aplicación** generados en el Admin en las afiliaciones de gateway puede suponer un riesgo de seguridad, ya que se están compartiendo claves para acceder a los servicios de una tienda VTEX. El [rol](/es/docs/tutorials/roles) asignado a una credencial define a qué [recursos de la tienda](/es/docs/tutorials/recursos-del-license-manager) se puede acceder. Dependiendo del rol utilizado, cualquiera que tenga acceso a las credenciales podrá acceder a los recursos indebidamente permitidos. Si es necesario, puedes consultar las instrucciones del artículo [Claves de aplicación](/es/docs/tutorials/claves-de-api) para desactivar una **clave de aplicación**.
 
 ## ¿Qué se necesita hacer?
 
-Las credenciales deben ser proporcionadas por el proveedor de pagos correspondiente a la afiliación que se está configurando. La sustitución debe realizarse antes del 30 de abril de 2023. Las instrucciones para hacer la configuración se encuentran en el artículo [Registrar afiliaciones de gateway](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet).
+Las credenciales deben ser proporcionadas por el proveedor de pagos correspondiente a la afiliación que se está configurando. La sustitución debe realizarse antes del 30 de abril de 2023. Las instrucciones para hacer la configuración se encuentran en el artículo [Registrar afiliaciones de gateway](/es/docs/tutorials/claves-de-api).

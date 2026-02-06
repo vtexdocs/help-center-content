@@ -44,7 +44,7 @@ Las audiencias de campaña se presentan en _tarjetas_ que incluyen la informaci�
 * **Estado:** estado actual de la disponibilidad de la audiencia de campaña.
     * **Activo:** la audiencia de campaña está disponible para ser usada en las promociones de campaña de tu tienda, es decir, no está archivada.
     * **Inactivo:** la audiencia de campaña no está disponible para ser usada en promociones de campaña en tu tienda. Este status no es definitivo; puedes reactivar la audiencia de campaña en cualquier momento.
-* **Público-objetivo:** nombre del [público-objetivo](/es/tutorial/audiencias-de-campanas--3o7lhpNseXY2WmjZO0gQ6m#publico-objetivo) asociado a la audiencia de campaña.
+* **Público-objetivo:** nombre del [público-objetivo](/es/docs/tutorials/audiencias-de-campanas#publico-objetivo) asociado a la audiencia de campaña.
 
 Para ver las audiencias de campaña [archivadas](#archivar-audiencias-de-campana), dirígete a la opción **Presentar** y haz clic en **Archivados**, tal como se muestra a continuación:
 

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 32zXHBMygA2dB6TbCjQJej
 ---
 
-Para configurar uma [regra de merchandising](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0) no Editor manual do VTEX Intelligent Search, você precisa seguir os passos abaixo.
+Para configurar uma [regra de merchandising](/pt/docs/tutorials/regras-de-merchandising) no Editor manual do VTEX Intelligent Search, você precisa seguir os passos abaixo.
 
 1. No Admin VTEX, acesse **Storefront**, ou digite **Storefront** na barra de busca.
 2. Em **Intelligent Search**, clique em **Regras de merchandising**.
@@ -25,12 +25,12 @@ Para configurar uma [regra de merchandising](/pt/tracks/vtex-intelligent-search-
     * **Data de início (opcional)**: agendamento da data a partir da qual a regra de merchandising será aplicada. A data segue o fuso horário UTC-0.
     * **Data de término (opcional)**: agendamento da data em que a regra de merchandising não será mais aplicada às buscas na loja. A data segue o fuso horário UTC-0.
     * **Aplicar aos idiomas:** idiomas aos quais a regra de merchandising será aplicada. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma (Beta)](/pt/docs/tutorials/vtex-intelligent-search-configuracoes-multi-idioma-beta).
-5. Clique em **Editor manual**. Para mais informações sobre cada editor, confira [Tipos de edição](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao).
+5. Clique em **Editor manual**. Para mais informações sobre cada editor, confira [Tipos de edição](/pt/docs/tutorials/regras-de-merchandising#tipos-de-edicao).
 6. Clique em `Próximo`.
 7. Se necessário, altere as informações básicas já definidas sobre a nova regra de merchandising na seção [Informação Geral](#informacao-geral).
 8. Defina as [Regras de ativação](#regras-de-ativacao), ou seja, o conjunto de condições que determinam quando a Regra de merchandising será aplicada.
 9. Defina as [Regras de customização](#regras-de-customizacao), ou seja, o conjunto de condições para controlar o resultado das buscas que se encaixarem nas regras de ativação definidas no passo 8.
-    Para aplicar o efeito de customização desejado, é necessário cadastrar uma ou mais condições nesta etapa. Para entender como funciona o cadastro de uma condição, leia [Condições de Regras de merchandising](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3Dvava8LSVcFKeS2S6J7XW).
+    Para aplicar o efeito de customização desejado, é necessário cadastrar uma ou mais condições nesta etapa. Para entender como funciona o cadastro de uma condição, leia [Condições de Regras de merchandising](/pt/docs/tutorials/condicoes-de-regras-de-merchandising).
 10. Clique em `Salvar`.
 
 > ℹ️ Após salvar, as alterações de regras de merchandising levam em média dois minutos para serem atualizadas.
@@ -63,10 +63,10 @@ Considere o seguinte exemplo: você quer promover produtos da marca Beautyx dura
 
 * **Ativação global**: se você ativar esta opção, a regra de merchandising vai estar sempre ativa e englobar todos os termos e filtros da pesquisa, sem necessidade de configurar condições para regras de ativação. Isso permite adicionar, remover, promover e despromover produtos de todas as buscas da loja.
 
-    Por outro lado, se você optar por manter a ativação global desabilitada, será necessário cadastrar pelo menos uma condição para compor as regras de ativação. Para detalhes sobre o cadastro de uma condição, leia [Condições de Regras de merchandising](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3Dvava8LSVcFKeS2S6J7XW).
+    Por outro lado, se você optar por manter a ativação global desabilitada, será necessário cadastrar pelo menos uma condição para compor as regras de ativação. Para detalhes sobre o cadastro de uma condição, leia [Condições de Regras de merchandising](/pt/docs/tutorials/condicoes-de-regras-de-merchandising).
 
 * `Preencher a partir de uma URL`: adicione a URL da página de busca em que as regras de ativação serão aplicadas. A URL precisa incluir `map` e `query` para funcionar, respeitando o seguinte formato: `https://{accountName}.myvtex.com/busca/{termo}?map=ft&query={termo]`. É necessário substituir `{accountName}` pelo nome da conta VTEX e `{termo}` pelo termo de busca.
-* `Adicionar condição`: ao criar uma condição, a regra de merchandising só se aplicará aos casos que cumprirem com a combinação de condições estabelecidas.  Para entender como criar condições, leia [Condições de Regras de merchandising](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3Dvava8LSVcFKeS2S6J7XW).
+* `Adicionar condição`: ao criar uma condição, a regra de merchandising só se aplicará aos casos que cumprirem com a combinação de condições estabelecidas.  Para entender como criar condições, leia [Condições de Regras de merchandising](/pt/docs/tutorials/condicoes-de-regras-de-merchandising).
 
 ### Regras de customização
 

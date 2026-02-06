@@ -19,7 +19,7 @@ Fundada em 2012, a [AMARO](https://amaro.com/br/pt/) é uma marca brasileira de 
 
 ![Integração AMARO](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/integracao-com-a-amaro_1.png)
 
-A Amaro é agora [conector certificado](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro), disponível para parceria com clientes VTEX. Este guia orienta o seller a configurar a integração, sendo parte do processo no Admin VTEX e parte da AMARO. Para isso, as etapas são as seguintes:
+A Amaro é agora [conector certificado](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-certificado-parceiro), disponível para parceria com clientes VTEX. Este guia orienta o seller a configurar a integração, sendo parte do processo no Admin VTEX e parte da AMARO. Para isso, as etapas são as seguintes:
 
 - Configurações de conta na AMARO  
 - Configurações no Admin VTEX   

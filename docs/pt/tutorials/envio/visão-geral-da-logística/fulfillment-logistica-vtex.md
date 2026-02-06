@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 63f22GypJIBLnMGh1QZUi0
 ---
 
-A logística ou fulfillment é o processo de planejamento, transporte e armazenagem das mercadorias da loja, e envio de pedidos aos clientes. Assim, ela está diretamente ligada à experiência do cliente e à estratégia de negócio da loja. Por isso, as [configurações logísticas](/pt/tutorial/logistica--53udnvI5eBy8DKo8FOjMoP#configuracao-do-processo-logistico) da sua loja são fundamentais. 
+A logística ou fulfillment é o processo de planejamento, transporte e armazenagem das mercadorias da loja, e envio de pedidos aos clientes. Assim, ela está diretamente ligada à experiência do cliente e à estratégia de negócio da loja. Por isso, as [configurações logísticas](/pt/docs/tutorials/fulfillment-logistica-vtex#configuracao-do-processo-logistico) da sua loja são fundamentais. 
 
 A VTEX possibilita o cadastro e controle dos estoques, o gerenciamento das tarifas de envio, o controle da disponibilidade dos itens e o acompanhamento das entregas. 
 
@@ -32,7 +32,7 @@ Para saber quais configurações logísticas são necessárias e como são reali
 
     Após a finalização do pedido, os produtos têm sua [reserva autorizada](/pt/tutorial/como-a-reserva-funciona--tutorials_92?&utm_source=autocomplete#reserva-autorizada). Assim, a plataforma garante que os itens não podem ser vendidos novamente. 
 
-4. Quando o [pagamento ](/pt/docs/tracks/como-funciona-o-modulo-de-pagamentos)é confirmado, a[ reserva também é confirmada](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada).
+4. Quando o [pagamento ](/pt/docs/tracks/como-funciona-o-modulo-de-pagamentos)é confirmado, a[ reserva também é confirmada](/pt/docs/tutorials/como-a-reserva-funciona#reserva-confirmada).
 5. Depois da confirmação do pagamento e da expiração do [tempo de carência para cancelamento](/pt/docs/tutorials/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido), a plataforma espera o lojista realizar o manuseio dos itens. Quando o lojista[ inicia o manuseio,](/pt/docs/tutorials/passar-pedido-para-o-status-preparando-entrega) ele sinaliza para a plataforma que os itens do pedido e suas notas fiscais estão sendo preparados. A partir desse estágio a [reserva passa a ser reconhecida](/pt/tutorial/como-a-reserva-funciona--tutorials_92?&utm_source=autocomplete#reserva-reconhecida).
 6. A loja inclui a [nota fiscal](/pt/docs/tracks/faturar-um-pedido) do pedido na plataforma.  
 7. É iniciado o processo de envio:
@@ -94,7 +94,7 @@ O processo logístico deve ser configurado conforme as necessidades da sua loja.
    <td class="t-body pa5" style="min-width: 15rem;">Gerenciamento da disponibilidade dos itens cadastrados no estoque. É possível acompanhar as movimentações e reservas de itens.
 <body>
 <ul>
-<li>[Acessar as reservas de um produto](/pt/tutorial/como-a-reserva-funciona--tutorials_92#como-acompanhar-o-status-da-reserva);</li>
+<li>[Acessar as reservas de um produto](/pt/docs/tutorials/como-a-reserva-funciona#como-acompanhar-o-status-da-reserva);</li>
 <li>[Como a reserva funciona](/pt/docs/tutorials/como-a-reserva-funciona).</li>
 </ul>
 </body>

@@ -23,7 +23,7 @@ tags:
   - Preparando envío
 ---
 
-El status `Preparando envío` se produce en el [flujo de pedidos](/es/tutorial/order-flow-on-the-oms--tutorials_196#flujo-de-seller) justo después de que el seller confirma el inicio de la preparación de los ítems. En este punto, VTEX debe recibir los detalles de la factura del pedido, permitiendo que el flujo se actualice al status `Facturado` o `Cancelado`.
+El status `Preparando envío` se produce en el [flujo de pedidos](/es/docs/tutorials/flujo-y-status-de-pedidos#flujo-de-seller) justo después de que el seller confirma el inicio de la preparación de los ítems. En este punto, VTEX debe recibir los detalles de la factura del pedido, permitiendo que el flujo se actualice al status `Facturado` o `Cancelado`.
 
 > ℹ️ No se puede [cancelar pedidos](/es/docs/tutorials/como-cancelar-pedido) que ya han sido [facturados parcialmente](/es/docs/tracks/facturas-parciales). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado).
 

@@ -94,7 +94,7 @@ Contratar la solución es simple y solo toma unos pocos minutos: basta con acept
 
 - Las etiquetas de envío se pueden imprimir desde el Admin VTEX (en la página [Pronto para Envio](/es/docs/tutorials/listos-para-despacho)) o por [API](https://developers.vtex.com/docs/guides/vtex-shipping-network-labels-integration) para las integraciones con sistemas externos (como ERP o WMS).
 
-- Canal de comunicación directa con Correios dentro del Admin a través de [Pedido de informações](/es/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq#solicitar-informacoes-do-pedido-aos-correios).
+- Canal de comunicación directa con Correios dentro del Admin a través de [Pedido de informações](/es/docs/tutorials/progreso-de-las-entregas-vtex-shipping-network#solicitar-informacoes-do-pedido-aos-correios).
 
 Para más información, debes acceder a la página de [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/).
 
@@ -104,6 +104,6 @@ Para más información, debes acceder a la página de [VTEX Shipping Network Cor
 
 Al contratar VTEX Shield tienes la opción de elegir entre las siguientes funcionalidades:
 
-* [Security Monitor](/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh#security-monitor)
-* [Web Application Firewall (WAF)](/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh#web-application-firewall-waf)
+* [Security Monitor](/es/docs/tutorials/vtex-shield#security-monitor)
+* [Web Application Firewall (WAF)](/es/docs/tutorials/vtex-shield#web-application-firewall-waf)
 

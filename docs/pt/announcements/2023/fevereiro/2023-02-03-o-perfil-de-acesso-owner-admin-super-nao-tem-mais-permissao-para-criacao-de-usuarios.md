@@ -28,8 +28,8 @@ A partir de hoje, o [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) **Ow
 - Atribuir [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) a usuários.
 - Remover [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) de usuários.
 - [Editar dados de usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos#editando-usuarios).
-- Criar [chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet).
-- Alterar [chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet).
+- Criar [chaves de aplicação](/pt/docs/tutorials/chaves-de-api).
+- Alterar [chaves de aplicação](/pt/docs/tutorials/chaves-de-api).
 
 Além disso, a VTEX disponibiliza a partir de hoje o perfil de acesso **User Administrator - RESTRICTED**, que inclui apenas o recurso **Save user**, descrito acima.
 
@@ -53,11 +53,11 @@ Entretanto, recomendamos que revise os usuários da sua loja e remova o perfil *
 
 Usuários que, a partir de agora, venham a receber o perfil de acesso **Owner (Admin Super)** não terão o recurso **Save user** e não poderão realizar as suas ações associadas, como criação e alteração de usuários e chaves de aplicação.
 
-Caso deseje que algum usuário da sua loja possa realizar as ações associadas ao recurso **Save user** citadas acima, você deverá garantir que este usuário tenha o perfil de acesso **User Administrator - RESTRICTED** ou criar um [perfil de acesso customizado](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#tipos-de-perfis) que inclua o recurso **Save user**.
+Caso deseje que algum usuário da sua loja possa realizar as ações associadas ao recurso **Save user** citadas acima, você deverá garantir que este usuário tenha o perfil de acesso **User Administrator - RESTRICTED** ou criar um [perfil de acesso customizado](/pt/docs/tutorials/perfis-de-acesso#tipos-de-perfis) que inclua o recurso **Save user**.
 
 ### Chaves de aplicação
 
-Chaves de aplicação com o perfil de acesso **Owner (Admin Super)** não receberão o perfil **User Administrator - RESTRICTED** automaticamente. Portanto, caso deseje que alguma chave de aplicação possa realizar as ações associadas ao recurso **Save user** citadas acima, você deverá garantir que esta chave tenha o perfil de acesso **User Administrator - RESTRICTED** ou criar um [perfil de acesso customizado](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#tipos-de-perfis) que inclua o recurso **Save user**.
+Chaves de aplicação com o perfil de acesso **Owner (Admin Super)** não receberão o perfil **User Administrator - RESTRICTED** automaticamente. Portanto, caso deseje que alguma chave de aplicação possa realizar as ações associadas ao recurso **Save user** citadas acima, você deverá garantir que esta chave tenha o perfil de acesso **User Administrator - RESTRICTED** ou criar um [perfil de acesso customizado](/pt/docs/tutorials/perfis-de-acesso#tipos-de-perfis) que inclua o recurso **Save user**.
 
 > ⚠️ Note que, com as mudanças descritas acima, chaves de aplicação não têm mais o recurso **Save user**, então um usuário com este recurso deverá concedê-lo, caso seja necessário.
 
@@ -82,6 +82,6 @@ Confira as seguintes documentações para saber mais sobre a gestão de usuário
 - [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso)
 - [Recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager)
 - [Gerenciar usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos)
-- [Chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet)
+- [Chaves de aplicação](/pt/docs/tutorials/chaves-de-api)
 - [Boas práticas na utilização de chaves de aplicação](/pt/docs/tutorials/boas-praticas-chaves-de-api)
 

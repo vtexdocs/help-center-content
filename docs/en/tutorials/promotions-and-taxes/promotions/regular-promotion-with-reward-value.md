@@ -31,7 +31,7 @@ You can create a [regular promotion](/en/docs/tutorials/regular-promotion) in **
 
 ### Nominal reward value
 
-The **nominal reward value** adds a fixed credit amount to the user's account in your store. To set up this type of reward value, you must fill in the following fields on the [regular promotion form](/en/tutorial/regular-promotion--tutorials_327#1-promotion-overview):
+The **nominal reward value** adds a fixed credit amount to the user's account in your store. To set up this type of reward value, you must fill in the following fields on the [regular promotion form](/en/docs/tutorials/regular-promotion#1-promotion-overview):
 
 * **Nominal value for rewards program:** Credit amount that will be added to the customer's account in your store.
 * **Apply reward credit when the order status changes to:** Field to define from which order status the credit will be made available. The options are **Invoiced** or **Payment Approved**.
@@ -42,7 +42,7 @@ In the following example, the customers will earn R$10,00 in store credit when t
 
 ### Percentage reward value
 
-The **percentage reward value** adds a percentage credit amount based on the price of the product purchased. To set up this type of reward value, you must fill in the following fields on the [regular promotion form](/en/tutorial/regular-promotion--tutorials_327#1-promotion-overview):
+The **percentage reward value** adds a percentage credit amount based on the price of the product purchased. To set up this type of reward value, you must fill in the following fields on the [regular promotion form](/en/docs/tutorials/regular-promotion#1-promotion-overview):
 
 * **Percentage value for rewards program:** Percentage of the value of the order that will be added as credit to the customer's account in your store.
 * **Apply reward credit when the order status changes to:** Field to define from which order status the credit will be made available. The options are **Invoiced** or **Payment Approved**.

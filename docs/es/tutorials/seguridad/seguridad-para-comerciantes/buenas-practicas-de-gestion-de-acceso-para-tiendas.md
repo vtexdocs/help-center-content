@@ -33,7 +33,7 @@ Adopta el **principio de privilegio mínimo**, que consiste en otorgar a cada us
 
 La segregación de funciones contribuye a un entorno más seguro, permitiendo que cada usuario o clave tenga los permisos compatibles con su función en la organización.
 
-Crea diferentes roles, con accesos compatibles con los permisos necesarios para cada función. Para aprender a crear roles personalizados, consulta el artículo [Crear nuevo rol](/es/tutorial/crear-nuevo-rol--qGtNQpKSSAduX94l2WZBW#rol-personalizado).
+Crea diferentes roles, con accesos compatibles con los permisos necesarios para cada función. Para aprender a crear roles personalizados, consulta el artículo [Crear nuevo rol](/es/docs/tutorials/crear-nuevo-rol#rol-personalizado).
 
 ## Utilizar el inicio de sesión único (SSO)
 

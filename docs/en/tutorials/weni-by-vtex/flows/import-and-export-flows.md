@@ -30,7 +30,7 @@ Or also through the Flow module
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/import-and-export-flows_2.png)
 
-You can learn a little more about the [Flow Editor](https://help.vtex.com/docs/tutorials/flow-editor-and-tools) and its tools by clicking on the link.
+You can learn a little more about the [Flow Editor](/en/docs/tutorials/flow-editor-and-tools) and its tools by clicking on the link.
 
   1. **Second Path: Via general organization settings**
 
@@ -38,7 +38,7 @@ To access the export page through the organization's general settings, just go t
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/import-and-export-flows_3.png)
 
-You can learn more about the Organization General Settings by clicking the [link](https://help.vtex.com/docs/tutorials/general-project-settings).
+You can learn more about the Organization General Settings by clicking the [link](/en/docs/tutorials/general-project-settings).
 
 Once on the export page, it will display all the flows and campaigns of that organization, grouped by usage, meaning all flows in the same group interact with each other.
 If you export only one flow from a group, you may experience issues with its functionality.

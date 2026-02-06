@@ -41,7 +41,7 @@ Nessa imagem podemos ver a documentação da API da Weni:
 
 Nesta imagem podemos ver como ficaria o corpo da requisição para criar um contato com nome e número de WhatsApp:
 
-> **Dica:** O card Chamar Webhook permite o uso de variáveis, como, por exemplo, @results @contact e @fields. [Saiba mais sobre variáveis aqui.](https://help.vtex.com/pt/docs/tutorials/introducao-a-expressoes-e-variaveis)
+> **Dica:** O card Chamar Webhook permite o uso de variáveis, como, por exemplo, @results @contact e @fields. [Saiba mais sobre variáveis aqui.](/pt/docs/tutorials/introducao-a-expressoes-e-variaveis)
 
 ### Como saber se a API pode ser integrada nativamente?
 

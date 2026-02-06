@@ -19,7 +19,7 @@ O sistema de assinaturas da VTEX foi criado para facilitar as vendas recorrentes
 
 O cliente indica a periodicidade em que deseja repetir a compra de um determinado SKU e o sistema refaz o pedido de compra automaticamente de acordo com o período agendado, que chamamos de ciclo da assinatura.
 
-No seu Admin VTEX, em **Pedidos > Assinaturas**, você encontra um [dashboard](/pt/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x#dashboard) para o acompanhamento e supervisão das Assinaturas existentes e uma aba para [configurações](/pt/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x#configuracoes) de Assinaturas. A assinatura só aparece na listagem depois que o primeiro pagamento do cliente é aprovado.
+No seu Admin VTEX, em **Pedidos > Assinaturas**, você encontra um [dashboard](/pt/docs/tutorials/como-gerenciar-assinaturas#dashboard) para o acompanhamento e supervisão das Assinaturas existentes e uma aba para [configurações](/pt/docs/tutorials/como-gerenciar-assinaturas#configuracoes) de Assinaturas. A assinatura só aparece na listagem depois que o primeiro pagamento do cliente é aprovado.
 
 > ⚠️ Atualmente, apenas pedidos feitos com **cartão de crédito** permitem assinaturas. Ative todas as condições de cartão de crédito já definidas para [compras recorrentes](/pt/docs/tutorials/configurar-recorrencia-em-condicoes-de-pagamento) nas suas formas de pagamento. Além disso, é necessário que o seu conector de pagamentos aceite pagamento recorrente. Entre em contato com o adquirente da sua loja e certifique-se que ele aceita transações de compras recorrentes oriundas de cartões tokenizados (sem CVV).
 

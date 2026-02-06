@@ -54,7 +54,7 @@ La pestaña muestra la lista completa de hallazgos abiertos en una tabla, del m�
 | Columnas | Descripción |
 | --- | --- |
 | Hallazgo | Email de usuario o clave de API relacionado con el hallazgo. |
-| Tipo | Tipo de hallazgo detectado:<br/><ul><li>**Claves de API antiguas:** [claves de API](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet) que se crearon hace más de 6 meses.</li><li>**Excesivos Admin Super:** usuarios o claves de API con el [rol](/es/docs/tutorials/roles) **Owner (Admin Super)**.</li><li>**Claves de API filtradas:** [claves de API](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet) expuestas en la web, identificadas por el equipo de seguridad de VTEX.</li><li>**Usuarios inactivos:** usuarios que no han accedido al Admin en los últimos 30 días.</li><li>**Permisiones Excesivas:** usuarios o claves de API con acceso a recursos que no han utilizado en los últimos 30 días.</li></ul> |
+| Tipo | Tipo de hallazgo detectado:<br/><ul><li>**Claves de API antiguas:** [claves de API](/es/docs/tutorials/claves-de-api) que se crearon hace más de 6 meses.</li><li>**Excesivos Admin Super:** usuarios o claves de API con el [rol](/es/docs/tutorials/roles) **Owner (Admin Super)**.</li><li>**Claves de API filtradas:** [claves de API](/es/docs/tutorials/claves-de-api) expuestas en la web, identificadas por el equipo de seguridad de VTEX.</li><li>**Usuarios inactivos:** usuarios que no han accedido al Admin en los últimos 30 días.</li><li>**Permisiones Excesivas:** usuarios o claves de API con acceso a recursos que no han utilizado en los últimos 30 días.</li></ul> |
 | Detectado | Fecha en que se detectó el hallazgo. |
 | Sensor | Sensor que detectó la amenaza: <br/><ul><li>**VTEX Identity**</li></ul> |
 | Gravedad | Nivel de gravedad de la amenaza, determinado por el impacto o riesgo potencial: <br /><ul><li>**Alta**</li><li>**Media**</li><li>**Baja**</li></ul> |
@@ -93,7 +93,7 @@ La pestaña **Cerrados** contiene la lista de hallazgos ya gestionados, es decir
 | Columnas | Descripción |
 | --- | --- |
 | Hallazgo | Email de usuario o clave de API relacionado con el hallazgo. |
-| Tipo | Tipo de hallazgo detectado:<br/><ul><li>**Claves de API antiguas:** [claves de API](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet) que se crearon hace más de 6 meses.</li><li>**Excesivos Admin Super:** usuarios o claves de API con el [rol](/es/docs/tutorials/roles) **Owner (Admin Super)**.</li><li>**Claves de API filtradas:** [claves de API](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet) expuestas en la web, identificadas por el equipo de seguridad de VTEX.</li><li>**Usuarios inactivos:** usuarios que no han accedido al Admin en los últimos 30 días.</li></ul> |
+| Tipo | Tipo de hallazgo detectado:<br/><ul><li>**Claves de API antiguas:** [claves de API](/es/docs/tutorials/claves-de-api) que se crearon hace más de 6 meses.</li><li>**Excesivos Admin Super:** usuarios o claves de API con el [rol](/es/docs/tutorials/roles) **Owner (Admin Super)**.</li><li>**Claves de API filtradas:** [claves de API](/es/docs/tutorials/claves-de-api) expuestas en la web, identificadas por el equipo de seguridad de VTEX.</li><li>**Usuarios inactivos:** usuarios que no han accedido al Admin en los últimos 30 días.</li></ul> |
 | Detectado | Fecha en que se detectó el hallazgo. |
 | Cerrado | Fecha en que se cerró el hallazgo. |
 | Cerrado por | Indica que el hallazgo se cerró automáticamente tras ser gestionado por un usuario administrativo. |
@@ -158,5 +158,5 @@ Para editar aquellos usuarios administrativos que recibirán notificaciones en c
 * [VTEX Shield](/es/docs/tutorials/vtex-shield)
 * [Roles](/es/docs/tutorials/roles)
 * [Usuarios](/es/docs/tutorials/gestionar-usuarios-administrativos)
-* [Claves de API](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet)
+* [Claves de API](/es/docs/tutorials/claves-de-api)
 

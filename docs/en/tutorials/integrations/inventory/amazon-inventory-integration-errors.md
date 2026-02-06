@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
-Inventory integration errors may occur in marketplaces for which VTEX has developed a [native connector](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex). This article gathers the most common Amazon inventory integration errors and provides directions on how to fix them.
+Inventory integration errors may occur in marketplaces for which VTEX has developed a [native connector](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-a-native-connector-vtex). This article gathers the most common Amazon inventory integration errors and provides directions on how to fix them.
 
 In the Admin, there are messages identifying the errors. To view them, log in to your VTEX Admin and go to **MARKETPLACE > Connections > Inventory**. Click on "processed with error".
 

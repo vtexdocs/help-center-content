@@ -56,7 +56,7 @@ Além disso, integrações podem ser construídas de modo que acabem não dispar
 
 ### Atribuição de vendas
 
-É normal que existam diferenças entre a atribuição nas visualizações de dados da plataforma VTEX e no Google Analytics, pois são ferramentas diferentes com [modelos de atribuição](/pt/tutorial/google-analytics-faq--2VRtB07muo3vwO6KEmMVn0#o-que-sao-modelos-de-atribuicao) diferentes e que captam informações através de cookies diferentes.
+É normal que existam diferenças entre a atribuição nas visualizações de dados da plataforma VTEX e no Google Analytics, pois são ferramentas diferentes com [modelos de atribuição](/pt/docs/tutorials/google-analytics-faq#o-que-sao-modelos-de-atribuicao) diferentes e que captam informações através de cookies diferentes.
 
 As informações de UTM reconhecidas pela VTEX podem ser verificadas no painel de ferramentas de desenvolvedor do seu navegador, no objeto `marketingData` do [OrderForm](https://developers.vtex.com/docs/guides/orderform-fields). Saiba mais neste artigo sobre [UTMs de marketing no Checkout](https://developers.vtex.com/docs/guides/check-marketing-utms-used-at-checkout).
 

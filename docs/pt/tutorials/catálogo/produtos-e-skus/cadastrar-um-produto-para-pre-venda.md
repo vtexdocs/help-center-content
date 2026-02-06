@@ -54,4 +54,4 @@ Para agendar os preços fixos da sua loja para a pré-venda de um produto, siga 
 
 ## Agendar conteúdo
 
-Para aumentar o sucesso na etapa de pré-venda e obter um maior alcance de clientes, é importante potencializar a divulgação do produto que será lançado. Para isso, vale agendar conteúdo sobre o lançamento, conforme explicado no artigo [Agendamento para eventos especiais](/pt/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI#agendar-conteudo).
+Para aumentar o sucesso na etapa de pré-venda e obter um maior alcance de clientes, é importante potencializar a divulgação do produto que será lançado. Para isso, vale agendar conteúdo sobre o lançamento, conforme explicado no artigo [Agendamento para eventos especiais](/pt/docs/tutorials/agendamento-para-eventos-especiais#agendar-conteudo).

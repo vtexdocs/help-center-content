@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 32zXHBMygA2dB6TbCjQJej
 ---
 
-To configure a VTEX Intelligent Search [merchandising rule](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0) using [Visual Editor](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao), follow the steps below.
+To configure a VTEX Intelligent Search [merchandising rule](/en/docs/tutorials/merchandising-rules) using [Visual Editor](/en/docs/tutorials/merchandising-rules#tipos-de-edicao), follow the steps below.
 
 1.	In the VTEX Admin, go to **Storefront**, or type **Storefront** in the search bar at the top of the page.
 2.	Under **Intelligent Search**, click **Merchandising Rules**.
@@ -26,7 +26,7 @@ To configure a VTEX Intelligent Search [merchandising rule](/en/tracks/vtex-inte
 	* **Start date (optional)**: Set a date from which the merchandising rule will apply. The date follows the UTC-0 time zone.
 	* **End date (optional)**: Set a date when the merchandising rule will no longer apply to store searches. The date follows the UTC-0 time zone.
 	* **Apply to locales:** Languages to which the merchandising rule will apply. The field is only available for stores using [Multilanguage settings (Beta)](/en/docs/tutorials/vtex-intelligent-search-multilanguage-settings-beta).
-5.	Click **Visual Editor**. Read the [Types of editing](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao) section for more information about each editor.
+5.	Click **Visual Editor**. Read the [Types of editing](/en/docs/tutorials/merchandising-rules#tipos-de-edicao) section for more information about each editor.
 6.	Click `Next`.
 7.	Define at least one search term or filter for applying the merchandising rule:
 
@@ -87,7 +87,7 @@ To add a condition using the Visual Editor, follow the steps below.
 
 1. Click `Filter`.
 2. Click `+ Add condition`.
-3. Fill in the desired conditions. The available options are detailed in [Merchandising rule conditions](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3Dvava8LSVcFKeS2S6J7XW).
+3. Fill in the desired conditions. The available options are detailed in [Merchandising rule conditions](/en/docs/tutorials/merchandising-rule-conditions).
 4. Click `Save`.
 
 The defined conditions can work together (`and`) or alternatively (`or`).

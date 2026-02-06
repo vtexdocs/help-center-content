@@ -27,7 +27,7 @@ La configuración general presenta las siguientes opciones relativas a [las espe
 
     Para agregar una especificación, haz clic en la barra del menú desplegable y selecciona la especificación deseada.
 
-    Consulta la guía [Separar SKUs por especificación](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5uVxuWxTA8VvLX3G8UCcUE) para obtener más detalles sobre esta configuración. 
+    Consulta la guía [Separar SKUs por especificación](/es/docs/tutorials/separar-skus-por-especificacion) para obtener más detalles sobre esta configuración. 
 
 * **Especificaciones buscables:** determina las especificaciones de producto que pueden ser buscadas por el motor de búsqueda.
 
@@ -35,7 +35,7 @@ La configuración general presenta las siguientes opciones relativas a [las espe
 
 ## Configuración de filtros
 
-La configuración de facetas presenta ajustes relacionados con las [facetas](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/50Dh4mpv0Sax0XpbvsjAtP) mostradas a los clientes de tu tienda durante la búsqueda:
+La configuración de facetas presenta ajustes relacionados con las [facetas](/es/docs/tutorials/filtros) mostradas a los clientes de tu tienda durante la búsqueda:
 
 ![Configuracion del filtro](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/configuración-del-intelligent-search/configuracion-de-la-busqueda_1.png)
 

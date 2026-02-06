@@ -60,7 +60,7 @@ To proceed with the configuration, it is necessary to determine a [shipping stra
 
 Follow the steps below to create a specific shipping strategy:  
 
-  1.	Create a [shipping policy](/en/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio) associated with the trade policy used in the Amazon integration.  
+  1.	Create a [shipping policy](/en/docs/tutorials/shipping-policy#cadastrar-uma-politica-de-envio) associated with the trade policy used in the Amazon integration.  
   2.	Create a [dock](/en/docs/tutorials/managing-loading-docks) associated with the trade policy used in the Amazon integration.  
   3.	Create a [warehouse](/en/docs/tutorials/managing-warehouses) associated with the loading dock you created in the previous step.  
   4.	Go to the [Inventory Management](/en/docs/tutorials/managing-stock-items) page, find the warehouse created in the previous step, and activate the **Unlimited inventory field**.  

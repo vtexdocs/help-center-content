@@ -64,5 +64,5 @@ Para entender mejor el significado de cada campo del registro de categoría, vea
 - [¿Qué es un Departamento?](/es/docs/tutorials/que-es-un-departamento)
 - [¿Qué es una Subcategoría?](/es/docs/tutorials/que-es-una-subcategoria)
 - [Limpiar base de datos de la tienda](/es/tutorial/limpiar-base-de-datos-de-la-tienda)
-- [Registrar un producto](/es/tutorial/cadastrando-produtos--tutorials_2567)
+- [Registrar un producto](/es/docs/tutorials/agregar-o-editar-productos)
 - [Registrar un SKU](/es/docs/tracks/registrar-sku)

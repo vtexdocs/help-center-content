@@ -35,7 +35,7 @@ Before you begin, make sure that:
 
 Follow the steps below to change your domain:
 
-1. Create a new VTEX Admin host by following the instructions in [Registering a new host](/en/tutorial/configuring-the-store-domain--tutorials_2450#registering-a-new-host). At this stage, the DNS of the new domain must not yet be pointed to VTEX.  
+1. Create a new VTEX Admin host by following the instructions in [Registering a new host](/en/docs/tutorials/configuring-the-store-domain#registering-a-new-host). At this stage, the DNS of the new domain must not yet be pointed to VTEX.  
 2. In the VTEX Admin, check the Checkout settings in **Store Settings > Storefront > Checkout**, as described in the [Configure template in SmartCheckout](/en/docs/tutorials/configure-template-in-smartcheckout-update) article.  
    This step is essential for the Checkout to keep working after the change.  
    You must check if the sites configured are associated with the account listed in **Account Settings > Accounts**. See the [Account management](/en/docs/tutorials/account-management) article for more details.  

@@ -58,7 +58,7 @@ Synonyms are recursive, meaning the results are cumulative. For example, if you 
 
 ### Intelligent Search autocorrect
 
-Synonyms should not be used to address spelling mistakes, singular and plural variations, pronouns, articles, or prepositions in search terms. In these cases, Intelligent Search can interpret, learn, and correct automatically through [Autocorrect](/en/tutorial/search-behavior--B9o3JbV6utAinBJ1ETujs#autocorrect).
+Synonyms should not be used to address spelling mistakes, singular and plural variations, pronouns, articles, or prepositions in search terms. In these cases, Intelligent Search can interpret, learn, and correct automatically through [Autocorrect](/en/docs/tutorials/search-behavior#autocorrect).
 
 Here are some examples of synonym configurations:
 

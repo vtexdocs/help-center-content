@@ -31,7 +31,7 @@ Este cambio tiene como objetivo mejorar la seguridad y simplificar el acceso del
 Asegúrate de que los usuarios de Headless CMS tienen sus roles asociados a los recursos `CMS GraphQL API`, `See CMS menu on the top-bar` y `Settings`, ya sea [creando un nuevo rol](#crear-un-nuevo-rol) o [editando uno existente](#editar-rol).
 
 <div style="background-color:#FFF3CD; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 35px">
-  Para gestionar usuarios y roles, tu rol de usuario debe estar asociado al recurso `Save access profile` del producto **License Manager** Por ejemplo, [User Administrator - RESTRICTED](/es/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) es un rol predefinido que tiene asociado el recurso `Save access profile`.
+  Para gestionar usuarios y roles, tu rol de usuario debe estar asociado al recurso `Save access profile` del producto **License Manager** Por ejemplo, [User Administrator - RESTRICTED](/es/docs/tutorials/roles-de-usuario-predefinidos#user-administrator-restricted) es un rol predefinido que tiene asociado el recurso `Save access profile`.
 
 </div>
 

@@ -151,7 +151,7 @@ In the details page, you can do the actions below. The actions available on the 
 * [Add shipping service](#add-shipping-service)
 * [Track order](#track-order)
 
-> ❗ Although the actions above can be performed by [users](/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#users) with access to the Admin, typically the actions with an ***** (asterisk) should be executed only by pickers using their mobile devices, without any access to the store's Admin.
+> ❗ Although the actions above can be performed by [users](/en/docs/tutorials/vtex-pick-and-pack-fulfillment#users) with access to the Admin, typically the actions with an ***** (asterisk) should be executed only by pickers using their mobile devices, without any access to the store's Admin.
 
 #### Picking
 
@@ -330,7 +330,7 @@ In **VTEX Pick and Pack**, the **Insights** page provides data and analytics abo
 * [Picking and Packing](#insights-picking-and-packing)
 * [Operation](#insights-operation)
 
-> ⚠️ To be able to access **Insights**, you need to have a VTEX Fulfillment Admin user profile, that is different from [roles](/en/docs/tutorials/roles). For more information, see the [Users](/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#users) section.
+> ⚠️ To be able to access **Insights**, you need to have a VTEX Fulfillment Admin user profile, that is different from [roles](/en/docs/tutorials/roles). For more information, see the [Users](/en/docs/tutorials/vtex-pick-and-pack-fulfillment#users) section.
 
 ### Insights: Picking and Packing
 
@@ -396,7 +396,7 @@ In order to configure **VTEX Pick and Pack** for your store, in your Admin, go t
 * [Printing](#printing-settings)
 * [Webhooks](#webhooks-settings)
 
-> ⚠️ To be able to access **Settings**, you need to be a [VTEX Fulfillment admin user](/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#users) or a customer service user.
+> ⚠️ To be able to access **Settings**, you need to be a [VTEX Fulfillment admin user](/en/docs/tutorials/vtex-pick-and-pack-fulfillment#users) or a customer service user.
 
 ### General settings
 

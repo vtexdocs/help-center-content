@@ -49,7 +49,7 @@ To export a `.xlsx` file with product and SKU information, follow these steps:
 > ℹ️ The exported information corresponds to the fields detailed in the section [Product specification spreadsheet fields](#product-specification-spreadsheet-fields).
 
 1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type [Products and SKUs](/en/docs/tutorials/products-and-skus) in the search bar at the top of the page.
-2. (Optional) If you want to export a subset of products and SKUs, [search](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#searching-for-a-product) or a [filter](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#filtering-products) the desired items. This step is not required to export all products and/or SKUs.
+2. (Optional) If you want to export a subset of products and SKUs, [search](/en/docs/tutorials/products-and-skus#searching-for-a-product) or a [filter](/en/docs/tutorials/products-and-skus#filtering-products) the desired items. This step is not required to export all products and/or SKUs.
 3. At the top of the page, click `Export`.
 
   > ⚠️ The export limit is 100,000 products.
@@ -96,7 +96,7 @@ The following table describes and includes an example of each field in the produ
 | :--- | :--- | :--- |
 | Product ID | Product identification number. If this field already has a value, you can't change it. To add a new product, leave the field empty. | 310117603 |
 | Product Name* | Product name shown to customers during navigation (up to 150 characters). For [SEO](/en/docs/tutorials/improving-the-seo-of-product-listing-pages) purposes, we recommend:<ul><li>✅ Use simple words</li><li>❌ Avoid using other languages</li><li>❌ Avoid complex spelling</li></ul> | Corebiz t-shirt |
-| Active product | Informs whether the [product status](/en/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#filtrar-por-status) will be active or inactive. This field is read-only and must be left empty. | (Leave the field empty) |
+| Active product | Informs whether the [product status](/en/docs/tutorials/products-and-skus#filtrar-por-status) will be active or inactive. This field is read-only and must be left empty. | (Leave the field empty) |
 | Description | Text with general product information. This content is displayed to customers in the storefront, so we recommend creating a simple and clear summary. | The model has a round collar and short sleeves. |
 | Additional description | Additional product content, such as summaries. We recommend not exceeding 150 characters so that search engines show the full text on results pages. | 70% recycled material |
 | Brand ID* | Numeric code that identifies the product [brand](/en/docs/tutorials/what-is-a-brand). This information can be found in VTEX Admin, under **Catalog > Brands**, or by using the [Get brand list](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/brand/list) endpoint. | 2000003 |

@@ -54,4 +54,4 @@ Para programar los precios fijos de tu tienda para la preventa de un producto, s
 
 ## Programar contenido
 
-Para aumentar el éxito en la etapa de preventa y lograr un mayor alcance de clientes, es importante potenciar la difusión del producto que será lanzado. Para eso, vale la pena programar contenido sobre el lanzamiento, tal como se explica en el artículo [Programación de funcionalidades para eventos especiales](/es/tutorial/programacion-de-funcionalidades-para-eventos-especiales--2nd50tPWdKK4waXRZLg0JI#programar-contenido).
+Para aumentar el éxito en la etapa de preventa y lograr un mayor alcance de clientes, es importante potenciar la difusión del producto que será lanzado. Para eso, vale la pena programar contenido sobre el lanzamiento, tal como se explica en el artículo [Programación de funcionalidades para eventos especiales](/es/docs/tutorials/programacion-de-funcionalidades-para-eventos-especiales#programar-contenido).

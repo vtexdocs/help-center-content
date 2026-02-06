@@ -50,7 +50,7 @@ Los roles predefinidos son conjuntos de recursos predeterminados por VTEX que cu
 
 #### Personalizados
 
-Además de utilizar roles predefinidos, puedes [crear roles personalizados](/es/tutorial/crear-nuevo-rol--qGtNQpKSSAduX94l2WZBW#rol-personalizado) con los recursos necesarios para un grupo de usuarios administrativos de tu tienda.
+Además de utilizar roles predefinidos, puedes [crear roles personalizados](/es/docs/tutorials/crear-nuevo-rol#rol-personalizado) con los recursos necesarios para un grupo de usuarios administrativos de tu tienda.
 
 Por ejemplo, un equipo encargado de mantener actualizado el catálogo de la tienda generalmente lleva a cabo un conjunto de tareas bien definidas, como registrar y editar productos, categorías y marcas. En este caso, un administrador de cuenta puede crear un rol personalizado con todos los recursos necesarios para estos colaboradores.
 

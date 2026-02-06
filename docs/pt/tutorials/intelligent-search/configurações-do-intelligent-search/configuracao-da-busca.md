@@ -27,7 +27,7 @@ As configurações gerais apresentam as opções a seguir, relacionadas a [espec
 
     Para adicionar uma especificação, clique na barra da funcionalidade e selecione a especificação desejada.
 
-    Confira o guia [Separar SKUs por especificação](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5uVxuWxTA8VvLX3G8UCcUE) para mais detalhes sobre o comportamento dessa configuração. 
+    Confira o guia [Separar SKUs por especificação](/pt/docs/tutorials/separar-skus-por-especificacao) para mais detalhes sobre o comportamento dessa configuração. 
 
 * **Especificações pesquisáveis:** determina quais especificações terão valores pesquisáveis na busca.
 

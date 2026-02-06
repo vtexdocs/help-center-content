@@ -44,7 +44,7 @@ Veja a seguir as etapas necessárias para ativar esse serviço na integração c
 
 O primeiro passo para configurar seus produtos FBA Classic é [Cadastrar uma especificação de produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto) chamada **`AMAZON_CHANNEL`**. Dessa forma, você sinaliza à Amazon o tipo de envio do produto.
 
-Ao cadastrar um [tipo de campo de produto](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106#tipos-de-campo-de-produto), selecionar o tipo __Radio__. Os valores que deverão ser preenchidos vão variar conforme a segmentação dos produtos:
+Ao cadastrar um [tipo de campo de produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto#tipos-de-campo-de-produto), selecionar o tipo __Radio__. Os valores que deverão ser preenchidos vão variar conforme a segmentação dos produtos:
 
 - **MFN:** valor correspondente aos produtos que serão entregues sob a responsabilidade do seller. Válido para o programa Selfship ou DBA.
 
@@ -60,7 +60,7 @@ Para dar continuidade à configuração, é preciso determinar uma [Estratégia 
 
 Para criar uma Estratégia de Envio específica, é necessário realizar os seguintes passos:
 
-1. Crie uma [Política de envio](/pt/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio) associada à política comercial usada na integração da Amazon.
+1. Crie uma [Política de envio](/pt/docs/tutorials/politica-de-envio#cadastrar-uma-politica-de-envio) associada à política comercial usada na integração da Amazon.
 2. Crie uma [Doca](/pt/docs/tutorials/gerenciar-doca) associada à política comercial usada na integração da Amazon.
 3. Crie um [Estoque](/pt/docs/tutorials/gerenciar-estoque) associado à Doca criada no passo anterior.
 4. Acesse a página [Gerenciar Inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque), localize o estoque criado no passo anterior e ative o campo **Estoque Infinito.**

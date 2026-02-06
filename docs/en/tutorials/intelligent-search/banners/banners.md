@@ -47,7 +47,7 @@ The page shows the following information:
 
 ## Creating a banner
 
-To add a new banner, click `New`. Learn more about all the information needed to create a Banner in [Configure Banners](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4ViKEivLJtJsvpaW0aqIQ5).
+To add a new banner, click `New`. Learn more about all the information needed to create a Banner in [Configure Banners](/en/docs/tutorials/configuring-banners).
 
 ## Searching for banners
 

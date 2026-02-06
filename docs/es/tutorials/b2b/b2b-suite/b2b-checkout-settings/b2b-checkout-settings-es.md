@@ -31,15 +31,15 @@ En el comercio B2B es necesario ofrecer opciones personalizadas durante el check
 - Agregar un campo para ingresar número de orden de compra.
 - Ofrecer la opción de crear una cotización de pedido antes de realizar una compra real.
 
-La aplicación **B2B Checkout Settings** complementa otras aplicaciones de [B2B Suite](/es/tutorial/b2b-suite-visao-geral--5eG6UfveWrai7looK0kVG3#aplicativo-configuracoes-de-checkout-b2b) para ampliar la experiencia de checkout a usuarios que son miembros de una organización.
+La aplicación **B2B Checkout Settings** complementa otras aplicaciones de [B2B Suite](/es/docs/tutorials/b2b-suite-vision-general#aplicativo-configuracoes-de-checkout-b2b) para ampliar la experiencia de checkout a usuarios que son miembros de una organización.
 
 ## Roles de Checkout
-Esta aplicación verifica automáticamente los roles de los usuarios que forman parte de la organización y se comunica con la aplicación [B2B Organizations](/es/tutorial/b2b-suite-overview--5eG6UfveWrai7looK0kVG3#aplicativo-organizacoes-b2b). También confirma que los usuarios disponen de los [permisos](/es/docs/tutorials/recursos-del-license-manager) necesarios para acceder al checkout al interactuar con la aplicación [*Storefront Permissions*](/es/docs/tutorials/gestionar-permisos-en-b2b-suite).
+Esta aplicación verifica automáticamente los roles de los usuarios que forman parte de la organización y se comunica con la aplicación [B2B Organizations](/es/docs/tutorials/b2b-suite-vision-general#aplicativo-organizacoes-b2b). También confirma que los usuarios disponen de los [permisos](/es/docs/tutorials/recursos-del-license-manager) necesarios para acceder al checkout al interactuar con la aplicación [*Storefront Permissions*](/es/docs/tutorials/gestionar-permisos-en-b2b-suite).
 
 De forma predeterminada, cualquier usuario con un rol que permita el acceso al storefront puede acceder al checkout, excepto aquellos con el rol Organization Buyer. Si un usuario intenta proseguir al checkout sin contar con el permiso necesario, recibirá una notificación con el mensaje: No tienes acceso al checkout.
 
 ## Direcciones de los centros de costos
-La aplicación **B2B Checkout Settings** se comunica con la aplicación [B2B Organizations](/es/tutorial/b2b-suite-visao-geral--5eG6UfveWrai7looK0kVG3#aplicativo-organizacoes-b2b) y proporciona una lista con las direcciones del centro de costos asociadas al usuario durante la etapa de checkout.
+La aplicación **B2B Checkout Settings** se comunica con la aplicación [B2B Organizations](/es/docs/tutorials/b2b-suite-vision-general#aplicativo-organizacoes-b2b) y proporciona una lista con las direcciones del centro de costos asociadas al usuario durante la etapa de checkout.
 
 ## Campo número de orden de compra
 Una orden de compra (PO) es un acuerdo comercial entre una empresa compradora y una tienda B2B por el que se autoriza el pago de productos o servicios que se entregarán en el futuro, en un plazo determinado.

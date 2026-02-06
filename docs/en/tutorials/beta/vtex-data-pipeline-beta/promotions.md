@@ -126,7 +126,7 @@ This section includes the following information:
 | min\_installment | integer | Minimum value for installment. |
 | max\_installment | integer | Maximum value for installment. |
 | merchants | super | List of merchants. |
-| cluster\_expressions | super | Criteria to select a customer cluster. Each item in this array should follow the format of an equality function {propertyname}={value} or the format of a contains function {propertyname} contains {value}. In both options, {propertyname} must be replaced with the name of the field in the data entity, and {value} must be replaced with the value determined in Master Data. Find more information about these criteria in [Filling in the Customer cluster field](/en/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342#filling-in-the-customer-cluster-field). |
+| cluster\_expressions | super | Criteria to select a customer cluster. Each item in this array should follow the format of an equality function {propertyname}={value} or the format of a contains function {propertyname} contains {value}. In both options, {propertyname} must be replaced with the name of the field in the data entity, and {value} must be replaced with the value determined in Master Data. Find more information about these criteria in [Filling in the Customer cluster field](/en/docs/tutorials/creating-promotion-for-a-customer-cluster#filling-in-the-customer-cluster-field). |
 | pii\_cluster\_expressions | super | Cluster expressions related to customers’ personally identifiable information (PII). |
 | payments\_rules | super | List of payment rules |
 | gift\_list\_types | super | Gifts List Type |
@@ -236,7 +236,7 @@ Column name | Column type | Column description |
 | min\_installment | integer | Minimum value for installment. |
 | max\_installment | integer | Maximum value for installment. |
 | merchants | super | List of merchants. |
-| cluster\_expressions | super | Criteria to select a customer cluster. Each item in this array should follow the format of an equality function {propertyname}={value} or the format of a contains function {propertyname} contains {value}. In both options, {propertyname} must be replaced with the name of the field in the data entity, and {value} must be replaced with the value determined in Master Data. Find more information about these criteria in [Filling in the Customer cluster field](/en/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342#filling-in-the-customer-cluster-field). |
+| cluster\_expressions | super | Criteria to select a customer cluster. Each item in this array should follow the format of an equality function {propertyname}={value} or the format of a contains function {propertyname} contains {value}. In both options, {propertyname} must be replaced with the name of the field in the data entity, and {value} must be replaced with the value determined in Master Data. Find more information about these criteria in [Filling in the Customer cluster field](/en/docs/tutorials/creating-promotion-for-a-customer-cluster#filling-in-the-customer-cluster-field). |
 | pii\_cluster\_expressions | super | Cluster expressions related to customers’ personally identifiable information (PII). |
 | payments\_rules | super | List of payment rules |
 | gift\_list\_types | super | Gifts List Type |

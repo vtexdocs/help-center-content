@@ -14,7 +14,7 @@ locale: en
 subcategoryId: 32zXHBMygA2dB6TbCjQJej
 ---
 
-In the [Manual Editor](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8) and the [Visual Editor (beta)](/en/tutorial/creating-merchandising-rules-visual-editor-beta--6xteumx9MsDt0uEppbChu3), the merchandising rule conditions follow the `{criterion} {operator} {value}` format. For example, a condition may be `brand is athletic`, in which `brand` corresponds to the criterion, `is` to the operator, and `athletic` to the value.
+In the [Manual Editor](/en/docs/tutorials/creating-merchandising-rules-manual-editor) and the [Visual Editor (beta)](/en/tutorial/creating-merchandising-rules-visual-editor-beta--6xteumx9MsDt0uEppbChu3), the merchandising rule conditions follow the `{criterion} {operator} {value}` format. For example, a condition may be `brand is athletic`, in which `brand` corresponds to the criterion, `is` to the operator, and `athletic` to the value.
 
 Learn about the criteria and possible operators for each type of editing in the following tables:
 

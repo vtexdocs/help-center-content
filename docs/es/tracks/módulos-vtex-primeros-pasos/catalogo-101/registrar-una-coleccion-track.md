@@ -22,6 +22,6 @@ Realice el siguiente paso a paso para registrar una nueva colección:
 1. En el Admin, haga clic en el módulo **Catálogo**.
 2. Haga clic en **Colecciones**.
 3. Haga clic en el botón `Crear Colección`.
-4. Complete los [campos del formulario de la nueva colección](/es/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#campos-de-registro-de-la-coleccion).
+4. Complete los [campos del formulario de la nueva colección](/es/docs/tutorials/registrar-colecciones-beta#campos-de-registro-de-la-coleccion).
 5. Haga clic en `Crear` para guardar la información ingresada en el formulario.
-6. Luego, [seleccione los productos](/es/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#seleccion-de-productos) que formarán parte de la colección.
+6. Luego, [seleccione los productos](/es/docs/tutorials/registrar-colecciones-beta#seleccion-de-productos) que formarán parte de la colección.

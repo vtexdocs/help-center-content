@@ -58,7 +58,7 @@ Para dar continuidade à configuração, é preciso determinar uma [Estratégia 
 
 Para criar uma Estratégia de Envio específica, é necessário realizar os seguintes passos:  
 
-1. Crie uma [Política de envio](/pt/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio) associada à política comercial usada na integração da Amazon.  
+1. Crie uma [Política de envio](/pt/docs/tutorials/politica-de-envio#cadastrar-uma-politica-de-envio) associada à política comercial usada na integração da Amazon.  
 2. Crie uma [Doca](/pt/docs/tutorials/gerenciar-doca) associada à política comercial usada na integração da Amazon.  
 3. Crie um [Estoque](/pt/docs/tutorials/gerenciar-estoque) associado à Doca criada no passo anterior.  
 4. Acesse a página [Gerenciar Inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque), localize o estoque criado no passo anterior e ative o campo **Estoque Infinito.**  

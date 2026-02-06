@@ -19,13 +19,13 @@ When configuring [gateway affiliations](/en/docs/tutorials/registering-gateway-a
 
 ## What has changed?
 
-These credentials should not be mistaken for the [Application Key and Application Token credentials used in VTEX APIs for integrations](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet). In this case, credentials are generated in the Admin and used to identify external systems that access VTEX stores' services. You can identify an **Application Key** generated in the Admin by having `vtexappkey-` at its beginning.
+These credentials should not be mistaken for the [Application Key and Application Token credentials used in VTEX APIs for integrations](/en/docs/tutorials/api-keys). In this case, credentials are generated in the Admin and used to identify external systems that access VTEX stores' services. You can identify an **Application Key** generated in the Admin by having `vtexappkey-` at its beginning.
 
 If your store has any gateway affiliations configured with a pair of **Application Key** and **Application Token** generated in the Admin, you must replace them by April 30, 2023.
 
 ## Why did we make this change?
 
-Using the **Application Key** and **Application Token** generated in the Admin in gateway affiliations can pose a security risk, as keys are being shared to access services from a VTEX store. The [role](/en/docs/tutorials/roles) assigned to a credential defines which [store resources](/en/docs/tutorials/license-manager-resources) a given user can access. Depending on the role, anyone with access to the credentials can access the allowed resources improperly. You can check the instructions in the [Application Keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) article to disable an **Application Key** if needed.
+Using the **Application Key** and **Application Token** generated in the Admin in gateway affiliations can pose a security risk, as keys are being shared to access services from a VTEX store. The [role](/en/docs/tutorials/roles) assigned to a credential defines which [store resources](/en/docs/tutorials/license-manager-resources) a given user can access. Depending on the role, anyone with access to the credentials can access the allowed resources improperly. You can check the instructions in the [Application Keys](/en/docs/tutorials/api-keys) article to disable an **Application Key** if needed.
 
 ## What needs to be done?
 

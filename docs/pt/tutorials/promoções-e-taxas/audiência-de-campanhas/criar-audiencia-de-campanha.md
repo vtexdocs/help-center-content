@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
 ---
 
-O recurso de Audiências de campanha permite segmentar as promoções da sua loja a partir da definição de [públicos-alvo](/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m#publico-alvo) que atendem a critérios específicos. Para mais informações sobre essa funcionalidade, confira [Audiências de campanhas](/pt/docs/tutorials/audiencias-de-campanhas).
+O recurso de Audiências de campanha permite segmentar as promoções da sua loja a partir da definição de [públicos-alvo](/pt/docs/tutorials/audiencias-de-campanhas#publico-alvo) que atendem a critérios específicos. Para mais informações sobre essa funcionalidade, confira [Audiências de campanhas](/pt/docs/tutorials/audiencias-de-campanhas).
 
 Siga os passos abaixo para criar uma nova audiência de campanha:
 

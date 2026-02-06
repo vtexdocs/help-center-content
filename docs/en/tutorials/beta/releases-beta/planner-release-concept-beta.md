@@ -46,8 +46,8 @@ A release can have different statuses from its creation to its publication or de
 | `Queued` | Green (flashing) | The publication of the release is in the deployment stage and no action by the retailer is required for the release to get to the next status, which can be `Publishing` or `Publishing failed`. |
 | `Publishing` | Green (flashing) | The VTEX platform is processing the release publication request. No action by the retailer is required for the release to get to the next status, which can be `Published`, `Publication failed` or `Unpublished`. |
 | `Published` | Green | The release has been published and the changes are visible in the storefront. |
-| `Unpublished` | Gray | The release is no longer published and, therefore, the changes are not visible in the storefront. The unpublished release is not deleted, it is archived and can be [published](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW#publish-a-release) again at any time.  |
-| `Publication failed` | Red | An error occurred and the release has not been published. In these cases, the retailer may try [to publish the release](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW#publish-a-release) again or [schedule a new publication date](/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW#reschedule). |
+| `Unpublished` | Gray | The release is no longer published and, therefore, the changes are not visible in the storefront. The unpublished release is not deleted, it is archived and can be [published](/en/docs/tutorials/planner-actions-on-releases-beta#publish-a-release) again at any time.  |
+| `Publication failed` | Red | An error occurred and the release has not been published. In these cases, the retailer may try [to publish the release](/en/docs/tutorials/planner-actions-on-releases-beta#publish-a-release) again or [schedule a new publication date](/en/docs/tutorials/planner-actions-on-releases-beta#reschedule). |
 
 ## Learn more
 

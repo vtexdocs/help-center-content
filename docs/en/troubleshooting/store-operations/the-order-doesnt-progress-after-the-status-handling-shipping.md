@@ -23,7 +23,7 @@ tags:
   - Handling shipping
 ---
 
-The status `Handling shipping` occurs in the [order flow](/en/tutorial/order-flow-on-the-oms--tutorials_196#fluxo-do-seller) shortly after the seller starts handling the items. At this point, VTEX must receive the order's invoice details, updating the flow with the `Invoiced` or `Canceled` status.
+The status `Handling shipping` occurs in the [order flow](/en/docs/tutorials/order-flow-and-status#fluxo-do-seller) shortly after the seller starts handling the items. At this point, VTEX must receive the order's invoice details, updating the flow with the `Invoiced` or `Canceled` status.
 
 > ℹ️ You can't [cancel orders](/en/docs/tutorials/canceling-orders) that have already been [partially invoiced](/en/docs/tracks/partial-invoices). If the customer wants to replace or remove items, they can [change the order](/en/docs/tutorials/changing-items-from-a-complete-order).
 

@@ -18,7 +18,7 @@ Para finalizar um pedido na plataforma VTEX, é necessário selecionar uma forma
 
 Eventualmente, uma transportadora pode não ser exibida no checkout. Separamos seis cenários em que essa situação pode ocorrer e suas respectivas soluções. 
 
-Vale ressaltar que antes de prosseguir a leitura desse artigo, é preciso garantir que todas as [transportadoras estão cadastradas](/pt/docs/tutorials/transportadoras-na-vtex) corretamente na plataforma. Além disso, todas as soluções são feitas no módulo [Envio](/pt/tutorial/visao-geral-logistics--tutorials_143). 
+Vale ressaltar que antes de prosseguir a leitura desse artigo, é preciso garantir que todas as [transportadoras estão cadastradas](/pt/docs/tutorials/transportadoras-na-vtex) corretamente na plataforma. Além disso, todas as soluções são feitas no módulo [Envio](/pt/docs/tutorials/fulfillment-logistica-vtex). 
 
 ## Concorrência entre transportadoras do mesmo tipo
 

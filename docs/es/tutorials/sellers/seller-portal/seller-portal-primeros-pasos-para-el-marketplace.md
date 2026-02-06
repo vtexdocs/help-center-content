@@ -49,10 +49,10 @@ El _marketplace_ es responsable de la incorporación de nuevos _sellers_. En otr
 
 En las siguientes secciones, las etapas asignadas al _marketplace_ se han organizado en:
 
-- [Invitar seller](/es/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#invitar-seller)
-- [Activar seller](/es/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#activar-seller)
-- [Compartir catálogo (opcional)](/es/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#compartir-catalogo-opcional)
-- [Catalogar anuncios](/es/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#catalogar-anuncios)
+- [Invitar seller](/es/docs/tutorials/seller-portal-primeros-pasos-para-el-marketplace#invitar-seller)
+- [Activar seller](/es/docs/tutorials/seller-portal-primeros-pasos-para-el-marketplace#activar-seller)
+- [Compartir catálogo (opcional)](/es/docs/tutorials/seller-portal-primeros-pasos-para-el-marketplace#compartir-catalogo-opcional)
+- [Catalogar anuncios](/es/docs/tutorials/seller-portal-primeros-pasos-para-el-marketplace#catalogar-anuncios)
 
 ### Invitar seller
 
@@ -60,7 +60,7 @@ La página de **Invitación de Sellers** es donde los operadores del _marketplac
 
 A través del Seller Portal, los _marketplaces_ hospedados en VTEX pueden conectarse con _sellers_ que tienen una cuenta VTEX, _sellers_ hospedados en otras plataformas o _sellers_ que no están alojados en ninguna plataforma. Al aceptar la invitación, el _seller_ elige si desea integrar su cuenta VTEX existente o crear una nueva cuenta para vender en el _marketplace_. 
 
-> ℹ️ Una vez que el [marketplace invita al seller](/es/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#convidar-seller), se le envía un email con un link para crear una cuenta en el Seller Portal. El link es válido durante siete días. Después de hacer clic en link, el seller tiene seis horas para completar el formulario de registro.
+> ℹ️ Una vez que el [marketplace invita al seller](/es/docs/tutorials/marketplace-sellers-invitados#convidar-seller), se le envía un email con un link para crear una cuenta en el Seller Portal. El link es válido durante siete días. Después de hacer clic en link, el seller tiene seis horas para completar el formulario de registro.
 
 Si el _seller_ no completa el registro en el plazo previsto, el _marketplace_ debe enviar la invitación de nuevo. Puedes acceder a la página desde el Admin VTEX, en **MARKETPLACE > Sellers > Invitación de sellers**. Debes seleccionar el _seller_ de la lista y hacer clic en el botón **Reenviar invitación**.
 
@@ -69,11 +69,11 @@ Es también en la etapa de invitar al _seller_ que el _marketplace_ define si qu
 Para saber más, consulta los siguientes artículos:
 
 - [Marketplace: invitación de sellers](/es/docs/tutorials/marketplace-sellers-invitados)
-- [Sellers: crear una cuenta en el Seller Portal](/es/tutorial/seller-criar-conta-no-seller-portal-beta--3gn2Q5rMhgu0jjX7AiiHcs#crear-una-cuenta-en-el-seller-portal)
+- [Sellers: crear una cuenta en el Seller Portal](/es/docs/tutorials/sellers-crear-una-cuenta-en-el-seller-portal#crear-una-cuenta-en-el-seller-portal)
 
 ### Activar seller
 
-Una vez que el _seller_ acepta la invitación al _marketplace_ y finaliza el registro de su cuenta en el Seller Portal, el siguiente paso es la activación para conectarlo al _marketplace_. Esto hace que el _seller_ pase del status _Invitado_ al status _Activo_, y se incluya en la **Gestión de sellers**. Consulta el paso a paso de cómo activar el _seller_ en [Conectar seller](/es/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#conectar-seller).
+Una vez que el _seller_ acepta la invitación al _marketplace_ y finaliza el registro de su cuenta en el Seller Portal, el siguiente paso es la activación para conectarlo al _marketplace_. Esto hace que el _seller_ pase del status _Invitado_ al status _Activo_, y se incluya en la **Gestión de sellers**. Consulta el paso a paso de cómo activar el _seller_ en [Conectar seller](/es/docs/tutorials/marketplace-sellers-invitados#conectar-seller).
 
 > ℹ️ La etapa de activación del *seller* pretende dar más seguridad al *marketplace*, en caso de que se requiera alguna alineación con el *seller* antes de que empiece a vender en el *marketplace*.
 
@@ -94,7 +94,7 @@ Además de invitar y activar a los _sellers_ a través del Admin VTEX, el _marke
 
 ### Compartir catálogo (opcional)
 
-Este paso es opcional para el _marketplace_ y dependerá del objetivo de tu modelo de negocio. La compartición del catálogo se definió en el paso [Invitar seller](/es/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#invitar-seller) a través de la opción **Compartir catálogo del marketplace**.
+Este paso es opcional para el _marketplace_ y dependerá del objetivo de tu modelo de negocio. La compartición del catálogo se definió en el paso [Invitar seller](/es/docs/tutorials/seller-portal-primeros-pasos-para-el-marketplace#invitar-seller) a través de la opción **Compartir catálogo del marketplace**.
 
 Cuando el _marketplace_ opta por compartir el catálogo, lo hace a través de una [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial). El _seller_ recibe la lista de productos ya registrados en el _marketplace_ para importar y configurar el _stock_ y el precio en el Seller Portal, en **Precios > Catálogo > Productos compartidos**.
 
@@ -112,7 +112,7 @@ Tanto los productos compartidos como los creados por el _seller_ entran automát
 
 ### Catalogar anuncios
 
-En VTEX, un [anuncio](/es/docs/tutorials/anuncios-y-envio-de-productos-al-marketplace) es un producto o variación de un _seller_ que recibió la configuración de precio y _stock_ y fue enviado al _marketplace_. Para que el producto del _seller_ resulte en la creación de un anuncio, este [producto debe estar activo](/es/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP#activar-productos-compartidos-en-el-marketplace).
+En VTEX, un [anuncio](/es/docs/tutorials/anuncios-y-envio-de-productos-al-marketplace) es un producto o variación de un _seller_ que recibió la configuración de precio y _stock_ y fue enviado al _marketplace_. Para que el producto del _seller_ resulte en la creación de un anuncio, este [producto debe estar activo](/es/docs/tutorials/seller-portal-detalles-del-producto#activar-productos-compartidos-en-el-marketplace).
 
 Cuando el _seller_ crea un nuevo producto, el _marketplace_ debe revisarlo y aprobar el anuncio del producto siguiendo un proceso llamado [catalogación de anuncios](/es/docs/tutorials/catalogacion-manual-de-skus). La catalogación permite crear nuevos productos y asociar anuncios a SKU o productos ya existentes para ponerlos a la venta.
 

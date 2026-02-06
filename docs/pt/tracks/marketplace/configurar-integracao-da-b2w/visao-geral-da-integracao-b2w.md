@@ -15,7 +15,7 @@ trackSlugEN: configurar-integracao-da-b2w
 order: 1
 ---
 
-A B2W e as Lojas Americanas fizeram uma fusão, dando origem ao Americanas Marketplace. Através do [conector nativo](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex) da VTEX, é possível integrar com a B2W e aumentar seus canais de venda. 
+A B2W e as Lojas Americanas fizeram uma fusão, dando origem ao Americanas Marketplace. Através do [conector nativo](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-nativo-vtex) da VTEX, é possível integrar com a B2W e aumentar seus canais de venda. 
 
 Para dar início à integração, o primeiro passo é fazer o [cadastro da sua loja](https://americanasmarketplace.com.br/v3/registre-se/vtex?utm_source=vtex&utm_medium=vtex_homepage&utm_campaign=parceiro_vtex_cadastro) no portal da Americanas. Feito isso, realize seu cadastro na [SkyHub](https://ajuda.skyhub.com.br/hc/pt-br).
 

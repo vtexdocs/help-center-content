@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 
-Todos os clientes têm acesso a atendimento fornecido pelo time de especialistas do [Suporte VTEX](/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). Os especialistas estão preparados para proporcionar a melhor experiência possível para a solução dos chamados. Para contatá-los, é necessário abrir um chamado por meio do sistema de tickets.
+Todos os clientes têm acesso a atendimento fornecido pelo time de especialistas do [Suporte VTEX](/pt/docs/tutorials/como-funciona-o-suporte-da-vtex). Os especialistas estão preparados para proporcionar a melhor experiência possível para a solução dos chamados. Para contatá-los, é necessário abrir um chamado por meio do sistema de tickets.
 
 É necessário [habilitar a autorização de suporte](/pt/docs/tutorials/perfis-de-acesso) no [License Manager](/pt/docs/tutorials/recursos-do-license-manager) para que o usuário tenha acesso ao suporte da VTEX. Esta configuração é válida apenas para contas no Brasil.
 

@@ -42,11 +42,11 @@ Para acceder a la documentación, ingrese su [nombre de cuenta](/es/tutorial/wha
 
 reCAPTCHA es una solución utilizada para la validación de usuarios reales en pedidos que se pagarán con tarjetas de crédito o débito y evita situaciones en que se utilizan programas maliciosos para cometer fraude.
 
-Recomendamos utilizar [reCAPTCHA v3](/es/tutorial/using-recaptcha-at-checkout--18Te3oDd7f4qcjKu9jhNzP#recaptcha-v3), ya que emplea una puntuación de calidad en vez de una validación por medio de una ventana emergente, lo que hace que sea más difícil de evadir en estos casos.
+Recomendamos utilizar [reCAPTCHA v3](/es/docs/tutorials/recaptcha-en-el-checkout#recaptcha-v3), ya que emplea una puntuación de calidad en vez de una validación por medio de una ventana emergente, lo que hace que sea más difícil de evadir en estos casos.
 
 Aprende a configurar esta validación en el checkout de tu tienda en [reCAPTCHA en el checkout](/es/docs/tutorials/recaptcha-en-el-checkout). Para implementar reCAPTCHA v3 en una tienda VTEX, consulta la guía de desarrolladores [reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha#recaptcha-v3-score).
 
-> ℹ️ La validación por reCAPTCHA también está activada de forma predeterminada en el flujo de [registro de tarjetas](/es/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#cartoes) de los clientes de la tienda; por lo tanto, no es necesario que la tienda la configure.
+> ℹ️ La validación por reCAPTCHA también está activada de forma predeterminada en el flujo de [registro de tarjetas](/es/docs/tutorials/como-funciona-mi-cuenta#cartoes) de los clientes de la tienda; por lo tanto, no es necesario que la tienda la configure.
 
 ## Configuración de orderForm
 

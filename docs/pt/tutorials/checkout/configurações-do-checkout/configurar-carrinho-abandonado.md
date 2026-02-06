@@ -86,7 +86,7 @@ Nesta etapa será necessário criar uma [trigger no Master Data](/pt/docs/tutori
 - __Checkout:__ a trigger será acionada se o checkout não for finalizado e for diferente de nulo, ou seja, caso o cliente não conclua a compra.
 - __Carrinho:__ referente aos últimos produtos que o cliente incluiu no carrinho de compras. A trigger será acionada se o valor for diferente de nulo.
 - __Último carrinho:__ registro de data e hora em que o carrinho foi criado. A trigger será acionada se o valor for diferente de nulo.
-- __Recebe newsletter?:__ garante conformidade com os [direitos de titulares de dados](/pt/docs/tutorials/direitos-dos-titulares-de-dados-pessoais), já que somente clientes inscritos na newsletter receberão emails de carrinho abandonado. A inscrição na newsletter da sua loja pode ser gerenciada no momento do checkout ou na seção [Minha Conta](/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#perfil) da sua loja. A trigger será acionada se o valor for verdadeiro.
+- __Recebe newsletter?:__ garante conformidade com os [direitos de titulares de dados](/pt/docs/tutorials/direitos-dos-titulares-de-dados-pessoais), já que somente clientes inscritos na newsletter receberão emails de carrinho abandonado. A inscrição na newsletter da sua loja pode ser gerenciada no momento do checkout ou na seção [Minha Conta](/pt/docs/tutorials/como-funciona-a-minha-conta#perfil) da sua loja. A trigger será acionada se o valor for verdadeiro.
 
 Para que o disparo da trigger seja realizado, os filtros precisam estar obrigatoriamente preenchidos de acordo com as instruções abaixo:
 

@@ -30,5 +30,5 @@ Aunque el proceso sigue siendo manual, la validación de los atributos registrad
 
 ## ¿Qué se necesita hacer?
 
-El nuevo módulo estará disponible para todas [las cuentas VTEX que actúan como seller](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) a partir del 31 de marzo de 2025. Para saber más sobre el módulo y registrar nuevos productos, accede al tutorial [Amazon Listing](/es/docs/tutorials/amazon-listing). 
+El nuevo módulo estará disponible para todas [las cuentas VTEX que actúan como seller](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#sendo-seller-vtex) a partir del 31 de marzo de 2025. Para saber más sobre el módulo y registrar nuevos productos, accede al tutorial [Amazon Listing](/es/docs/tutorials/amazon-listing). 
 

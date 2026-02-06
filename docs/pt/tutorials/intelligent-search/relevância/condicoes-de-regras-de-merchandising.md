@@ -14,7 +14,7 @@ locale: pt
 subcategoryId: 32zXHBMygA2dB6TbCjQJej
 ---
 
-As condições de regras de merchandising no [Editor manual](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8) e no [Editor visual (Beta)](/pt/tutorial/criar-regra-de-merchandising-editor-visual-beta--6xteumx9MsDt0uEppbChu3) seguem o formato `{critério} {operador} {valor}`. Por exemplo, uma condição pode ter a estrutura `marca é athletic`, onde `marca` corresponde ao critério, `é` corresponde ao operador e `athletic `corresponde ao valor.
+As condições de regras de merchandising no [Editor manual](/pt/docs/tutorials/criar-regra-de-merchandising-editor-manual) e no [Editor visual (Beta)](/pt/tutorial/criar-regra-de-merchandising-editor-visual-beta--6xteumx9MsDt0uEppbChu3) seguem o formato `{critério} {operador} {valor}`. Por exemplo, uma condição pode ter a estrutura `marca é athletic`, onde `marca` corresponde ao critério, `é` corresponde ao operador e `athletic `corresponde ao valor.
 
 Entenda os critérios e operadores possíveis para cada forma de edição nas tabelas a seguir:
 

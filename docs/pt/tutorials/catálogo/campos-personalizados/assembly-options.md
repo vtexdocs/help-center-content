@@ -63,7 +63,7 @@ O primeiro trecho`[x-y]` se refere às regras aplicadas ao grupo, e entre cada `
 
 Para adicionar uma Assembly Option, é necessário ter um anexo já cadastrado. Consulte o artigo [Cadastrar um anexo](/pt/docs/tutorials/cadastrar-um-anexo) para saber mais.
 
-Após criar um anexo e [associá-lo a um SKU](/pt/tutorial/cadastrar-um-anexo--7zHMUpuoQE4cAskqEUWScU#associar-o-anexo-a-um-sku), siga os passos abaixo para configurar a Assembly Option.
+Após criar um anexo e [associá-lo a um SKU](/pt/docs/tutorials/cadastrar-um-anexo#associar-o-anexo-a-um-sku), siga os passos abaixo para configurar a Assembly Option.
 
 1. No Admin VTEX, acesse __Catálogo__, ou digite __Catálogo__ na barra de busca no topo da página.
 2. Clique em **Campos personalizados**.

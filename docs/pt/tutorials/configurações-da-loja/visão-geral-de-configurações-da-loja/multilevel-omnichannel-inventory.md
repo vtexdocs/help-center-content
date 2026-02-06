@@ -28,7 +28,7 @@ O artigo a seguir inclui as seguintes informações sobre a funcionalidade:
 
 ## Arquitetura de contas
 
-O [marketplace](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex) é o ambiente onde o produto é vendido, também chamado de vitrine, e o [seller](/pt/tutorial/marketplace-strategies-at-vtex--tutorials_402#sendo-seller-vtex) é o dono do inventário e o responsável pelo envio do produto. 
+O [marketplace](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex) é o ambiente onde o produto é vendido, também chamado de vitrine, e o [seller](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#sendo-seller-vtex) é o dono do inventário e o responsável pelo envio do produto. 
 
 Quando uma loja vende seus produtos em um marketplace, temos uma relação entre seller e marketplace de dois níveis. Porém a arquitetura da VTEX permite que lojas atuem tanto como marketplaces quanto como sellers, expandindo o número de combinações possíveis. 
 
@@ -69,13 +69,13 @@ Algumas das funcionalidades que fazem parte do modelo tradicional de marketplace
 
 ### Disponibilidade
 
-Essa funcionalidade _Multilevel Omnichannel Inventory_ está disponível apenas para [marketplaces VTEX](/pt/tutorial/marketplace-strategies-at-vtex--tutorials_402#ser-um-marketplace-vtex). Para usar a funcionalidade, o marketplace (nível 1) deve realizar a configuração para cada seller direto (nível 2) que desejar. Você pode fazer isso ao cadastrar novos sellers ou editando a configuração de sellers existentes na sua loja. Saiba mais em [Como configurar](#como-configurar) e em nosso [artigo no Developer Portal](https://developers.vtex.com/vtex-rest-api/docs/multilevel-omnichannel-inventory).
+Essa funcionalidade _Multilevel Omnichannel Inventory_ está disponível apenas para [marketplaces VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#ser-um-marketplace-vtex). Para usar a funcionalidade, o marketplace (nível 1) deve realizar a configuração para cada seller direto (nível 2) que desejar. Você pode fazer isso ao cadastrar novos sellers ou editando a configuração de sellers existentes na sua loja. Saiba mais em [Como configurar](#como-configurar) e em nosso [artigo no Developer Portal](https://developers.vtex.com/vtex-rest-api/docs/multilevel-omnichannel-inventory).
 
 ### Distribuição de recebíveis
 
 Não é possível distribuir recebíveis em toda a cadeia (marketplace, seller direto e sellers white label). Os pedidos de Multilevel Omnichannel Inventory estão restritos a ter o pagamento do pedido feito no marketplace. A conciliação e repasse de valores para sellers nível 3 deve ser feito por fora da VTEX, pois não há suporte nativo para essa etapa.
 
-É possível utilizar a solução de [split de pagamentos](/pt/tracks/split-de-pagamentos--1ouDg8q56Kuz1AgtJUY9nv/4EOhp8cdVXaHl68KykPG6) apenas para dividir recebíveis entre os níveis _marketplace_ e _seller direto _(nível 2). Nesse caso o recomendado é utilizar [split de recebíveis](/pt/tutorial/split-payment#split-de-recebiveis). 
+É possível utilizar a solução de [split de pagamentos](/pt/docs/tutorials/split-de-pagamento) apenas para dividir recebíveis entre os níveis _marketplace_ e _seller direto _(nível 2). Nesse caso o recomendado é utilizar [split de recebíveis](/pt/tutorial/split-payment#split-de-recebiveis). 
 
 Nesses casos, o seller direto se torna um recebedor dos itens de seus sellers white label e dos seus próprios itens, retirando as comissões configuradas na relação com o marketplace.
 
@@ -91,7 +91,7 @@ Uma vez que a configuração é feita, somente os meios de pagamento do marketpl
 
 ### Alteração de seller
 
-Caso um seller white Label (nível 3) receba um pedido e o rejeite, este pedido não será atribuído a outro seller white label. Consequentemente um novo pedido deverá ser criado pelo comprador, no storefront do marketplace. Saiba mais em [Change Seller](/pt/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO#limitacoes).
+Caso um seller white Label (nível 3) receba um pedido e o rejeite, este pedido não será atribuído a outro seller white label. Consequentemente um novo pedido deverá ser criado pelo comprador, no storefront do marketplace. Saiba mais em [Change Seller](/pt/docs/tutorials/change-seller#limitacoes).
 
 ### Alteração de pedidos finalizados pela loja
 

@@ -19,14 +19,14 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 
 The **Releases** module allows you to manage [releases](/en/docs/tutorials/planner-release-concept-beta) so that you can coordinate the creation, schedule and publication of the changes in your store. A release is a change or a group of changes that can be published together.
 
-In the **Releases**, you can view all the information about releases, follow the [status of the releases](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases) and perform a series of actions. In this article, we will present you those actions and how to perform them.
+In the **Releases**, you can view all the information about releases, follow the [status of the releases](/en/docs/tutorials/planner-release-concept-beta#status-of-releases) and perform a series of actions. In this article, we will present you those actions and how to perform them.
 
 The feature can be accessed through the VTEX Admin **Releases** navigation menu, where you’ll find the following pages:
 
 * [Calendar](/en/docs/tutorials/planner-calendar-page-beta)
 * [Releases](/en/docs/tutorials/planner-releases-page-beta)
 
-Each page displays a view of the releases and allows you to perform different actions depending on the [release status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases). The main actions are:
+Each page displays a view of the releases and allows you to perform different actions depending on the [release status](/en/docs/tutorials/planner-release-concept-beta#status-of-releases). The main actions are:
 
 * [Create a release](#create-a-release)
 * [Search for a release](#search-for-a-release)
@@ -48,21 +48,21 @@ To create a release through the **Releases**, follow these steps:
 
   > The following confirmation message will appear: _The release was created and scheduled_.
 
-When you create a release, it is not mandatory to define the **Publish date** and **Time** because you can create a release with the `Unscheduled` [status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases) and it can be [Scheduled](#schedule) afterwards.
+When you create a release, it is not mandatory to define the **Publish date** and **Time** because you can create a release with the `Unscheduled` [status](/en/docs/tutorials/planner-release-concept-beta#status-of-releases) and it can be [Scheduled](#schedule) afterwards.
 
 ## Search for release
 
 In the **Releases** page, you can search for releases using different tools:
 
 * **Search bar:** Enter the name of the release you want to find. 
-* **Filters**: To filter by [release status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases), click on `Filters`, then use the `All statuses` <i class="fas fa-angle-down"></i> button and choose the desired option. To filter by scheduled date, click use the `All periods` <i class="fas fa-angle-down"></i> to choose the desired date.
+* **Filters**: To filter by [release status](/en/docs/tutorials/planner-release-concept-beta#status-of-releases), click on `Filters`, then use the `All statuses` <i class="fas fa-angle-down"></i> button and choose the desired option. To filter by scheduled date, click use the `All periods` <i class="fas fa-angle-down"></i> to choose the desired date.
 
 ## Schedule, reschedule or unschedule a release
 
 There are three possible actions you can perform when you set the publication date:
 
 * [Schedule](#schedule): Define a publication date for the release when there is no one.
-* [Unschedule](#unschedule): Cancel a publication date, which will move the release to the `Unscheduled` [status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases).
+* [Unschedule](#unschedule): Cancel a publication date, which will move the release to the `Unscheduled` [status](/en/docs/tutorials/planner-release-concept-beta#status-of-releases).
 * [Reschedule](#reschedule): Define a new date for a release that already had a set date.
 
 ### Schedule
@@ -93,7 +93,7 @@ To unschedule a release and move it to the `Unscheduled` status, follow these st
 
 ## Publish a release
 
-In order to publish a release, it needs to be in one of the following [status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases):
+In order to publish a release, it needs to be in one of the following [status](/en/docs/tutorials/planner-release-concept-beta#status-of-releases):
 
 * `Unscheduled`
 * `Scheduled`
@@ -107,7 +107,7 @@ In order to publish a release and make the changes available in the storefront o
 
 ## Delete a release
 
-A release can be deleted in every [release status](/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases), i.e., it can be deleted permanently.
+A release can be deleted in every [release status](/en/docs/tutorials/planner-release-concept-beta#status-of-releases), i.e., it can be deleted permanently.
 
 > ℹ️ If instead of deleting a release you want to archive it, you should unpublish it so that it is not deleted and you can republish it at any time.
 

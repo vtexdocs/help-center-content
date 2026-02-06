@@ -21,10 +21,10 @@ Additional shipping costs are extra charges added to the shipping rate as establ
 
 You can configure the following additional costs:
 
-* [Weight-based shipping charge](/en/tutorial/additional-shipping-costs--2vqGwMn0LabkOHY6zSHYNV#weight-based-additional-shipping-charge);
-* [Price-based shipping charge](/en/tutorial/additional-shipping-costs--2vqGwMn0LabkOHY6zSHYNV#price-based-additional-charge);
-* [Insurance charge](/en/tutorial/additional-shipping-costs--2vqGwMn0LabkOHY6zSHYNV#additional-insurance-charge);
-* [Extra shipping charge](/en/tutorial/additional-shipping-costs--2vqGwMn0LabkOHY6zSHYNV#additional-shipping-charge).
+* [Weight-based shipping charge](/en/docs/tutorials/additional-shipping-costs#weight-based-additional-shipping-charge);
+* [Price-based shipping charge](/en/docs/tutorials/additional-shipping-costs#price-based-additional-charge);
+* [Insurance charge](/en/docs/tutorials/additional-shipping-costs#additional-insurance-charge);
+* [Extra shipping charge](/en/docs/tutorials/additional-shipping-costs#additional-shipping-charge).
 
 ![adicionais frete EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-rates/additional-shipping-costs_2.svg)
 

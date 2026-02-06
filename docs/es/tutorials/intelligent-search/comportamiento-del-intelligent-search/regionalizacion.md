@@ -17,7 +17,7 @@ subcategoryId: 30Kdgc6wJkMWgcXLB8mGr7
 
 La Regionalización es una funcionalidad de [VTEX Intelligent Search](/es/docs/tracks/vision-general-intelligent-search) que permite optimizar los resultados de búsqueda según la disponibilidad de sellers en la región del cliente. Para instalar y configurar VTEX Intelligent Search en tu tienda, lee nuestro artículo Search.
 
-La Regionalización utiliza un comportamiento de VTEX Intelligent Search llamado [Disponibilidad](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/7LMQbWK5nElIkXo0NK8Kux), que busca los productos disponibles en el stock de los sellers que atienden una región determinada.
+La Regionalización utiliza un comportamiento de VTEX Intelligent Search llamado [Disponibilidad](/es/docs/tutorials/disponibilidad), que busca los productos disponibles en el stock de los sellers que atienden una región determinada.
 
 Las tiendas que tienen más de un seller white label registrado suelen tener un stock específico para cada región. Es el caso de los ecommerces de supermercados, por ejemplo.
 

@@ -271,7 +271,7 @@ Passwords under VTEX ID have the following requirements:
 * Minimum of 1 special character.
 * Must not match the last 4 previous passwords.
 
-Merchants can choose to [enable password expiration](/en/tutorial/autenticacao--21CkKHLKP1o41lUpGhuRUs#aplicar-expiracao-de-senha) after a specific period of time for Admin users, which may be 15, 30, or 90 days.
+Merchants can choose to [enable password expiration](/en/docs/tutorials/authentication#aplicar-expiracao-de-senha) after a specific period of time for Admin users, which may be 15, 30, or 90 days.
 
 Another option for merchants is to integrate an external identity provider, which would allow them to define their own custom password policies. Check[ Login (SSO)](https://developers.vtex.com/docs/guides/login-integration-guide) for more information.
 
@@ -295,7 +295,7 @@ This approach allows a fast implementation of improvements and bug fixes and eff
 
 #### How is user access managed on the platform, including moving, adding, editing, and deleting accounts?
 
-Admin users are managed directly in the VTEX Admin. They are assigned roles that can contain one or more [permissions](/en/docs/tutorials/license-manager-resources), which are established by the account's [sponsor user](/en/docs/tutorials/what-is-the-sponsor-user) or by users that have the [User Administrator - RESTRICTED](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) role or a customized role containing the Save User [resource](/en/docs/tutorials/license-manager-resources). Learn more in the article [How to manage users](/en/docs/tutorials/managing-admin-users).
+Admin users are managed directly in the VTEX Admin. They are assigned roles that can contain one or more [permissions](/en/docs/tutorials/license-manager-resources), which are established by the account's [sponsor user](/en/docs/tutorials/what-is-the-sponsor-user) or by users that have the [User Administrator - RESTRICTED](/en/docs/tutorials/predefined-roles#user-administrator-restricted) role or a customized role containing the Save User [resource](/en/docs/tutorials/license-manager-resources). Learn more in the article [How to manage users](/en/docs/tutorials/managing-admin-users).
 
 #### Does the platform have features for managing, organizing, and customizing store management permissions?
 

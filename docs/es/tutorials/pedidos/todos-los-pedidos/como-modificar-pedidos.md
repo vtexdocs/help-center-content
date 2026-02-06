@@ -24,7 +24,7 @@ Este artículo muestra las formas en que se puede modificar un pedido y describe
 * [Acciones comunes](#acciones-comunes)
 * [Errores de procesamiento](#errores-de-procesamiento)
 
-> ⚠️ Para conocer las [características generales](/es/tutorial/como-funciona-modificar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ#caracteristicas-generales) en escenarios de modificación de pedido, incluyendo reserva, actualización de stock y cuentas franquicia, o para comprender cuestiones de [precio, pago y factura](/es/tutorial/como-funciona-modificar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ#cambios-de-precio), consulta el artículo [Cómo funciona Modificar pedido](/es/docs/tutorials/como-funciona-modificar-pedido).
+> ⚠️ Para conocer las [características generales](/es/docs/tutorials/como-funciona-modificar-pedido#caracteristicas-generales) en escenarios de modificación de pedido, incluyendo reserva, actualización de stock y cuentas franquicia, o para comprender cuestiones de [precio, pago y factura](/es/docs/tutorials/como-funciona-modificar-pedido#cambios-de-precio), consulta el artículo [Cómo funciona Modificar pedido](/es/docs/tutorials/como-funciona-modificar-pedido).
 
 ## Requisitos
 

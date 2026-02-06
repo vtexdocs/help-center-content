@@ -34,7 +34,7 @@ ____
 
 `Não é possível integrar o pedido pois o mesmo se encontra cancelado`
 
-O cancelamento de um pedido na VTEX pode ser feito pelo Admin VTEX ou diretamente pelo consumidor. No entanto, uma vez que um pedido é cancelado, não é mais possível alterar seu _status_, portanto, não há uma solução para este tipo de erro. Caso deseje mais informações sobre o que ocasionou o cancelamento, consulte [Por que meu pedido foi cancelado?](/pt/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493).
+O cancelamento de um pedido na VTEX pode ser feito pelo Admin VTEX ou diretamente pelo consumidor. No entanto, uma vez que um pedido é cancelado, não é mais possível alterar seu _status_, portanto, não há uma solução para este tipo de erro. Caso deseje mais informações sobre o que ocasionou o cancelamento, consulte [Por que meu pedido foi cancelado?](/pt/troubleshooting/o-pedido-da-minha-loja-foi-cancelado).
 
 ____
 
@@ -66,7 +66,7 @@ ____
 
 `Pedido com chave da nota inválida`
 
-Para que um pedido seja integrado na plataforma VTEX, é necessário que ele tenha o valor da chave de acesso da nota fiscal eletrônica preenchido corretamente. Os valores aceitos são sequências numéricas de 44 caracteres. O erro mencionado acontece quando um pedido não possui um valor válido para a chave de acesso da nota fiscal eletrônica. A solução é alterar essa chave para um valor aceito, como pode ser visto em [Inserir nota fiscal no pedido](/pt/tutorial/como-inserir-a-nota-fiscal--tutorials_193). Feita a alteração, reprocesse manualmente o pedido. No Admin VTEX, no módulo **MARKETPLACE > Integrações > Pedidos**, clique sobre o pedido com erro. Isso tornará visível o botão **Ações,** clique sobre ele e escolha a opção **Reprocessar**.
+Para que um pedido seja integrado na plataforma VTEX, é necessário que ele tenha o valor da chave de acesso da nota fiscal eletrônica preenchido corretamente. Os valores aceitos são sequências numéricas de 44 caracteres. O erro mencionado acontece quando um pedido não possui um valor válido para a chave de acesso da nota fiscal eletrônica. A solução é alterar essa chave para um valor aceito, como pode ser visto em [Inserir nota fiscal no pedido](/pt/docs/tutorials/faturar-um-pedido-manualmente). Feita a alteração, reprocesse manualmente o pedido. No Admin VTEX, no módulo **MARKETPLACE > Integrações > Pedidos**, clique sobre o pedido com erro. Isso tornará visível o botão **Ações,** clique sobre ele e escolha a opção **Reprocessar**.
 
 ____
 

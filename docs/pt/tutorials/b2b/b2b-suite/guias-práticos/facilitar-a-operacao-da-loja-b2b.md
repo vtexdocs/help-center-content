@@ -41,7 +41,7 @@ Por exemplo, digamos que você tenha o SKU Camiseta Vermelha. Caso você preench
 
 Logo, quando o cliente selecionar duas unidades no Checkout, ele estará adquirindo dez Camisetas Vermelhas em vez de duas.
 
-Para saber mais detalhes, confira o artigo sobre [como preencher cada um dos campos do cadastro de um novo SKU](/pt/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY).
+Para saber mais detalhes, confira o artigo sobre [como preencher cada um dos campos do cadastro de um novo SKU](/pt/docs/tutorials/adicionar-ou-editar-sku).
 
 ### Preço por quantidade
 
@@ -97,6 +97,6 @@ Para saber mais detalhes sobre o My Account, confira o tutorial sobre [como conf
 
 ### Substituição de pedidos
 
-A substituição de pedidos, ou [change order](/pt/tutorial/change-making-changes-to-an-order--3d1XLIgPQcwaKGyMiWaYog), é uma funcionalidade presente no módulo de Gerenciamento de pedidos do Admin da VTEX. Esse recurso possibilita que o lojista edite pedidos que já foram realizados sem cancelá-los ou sem o auxílio do time de suporte.
+A substituição de pedidos, ou [change order](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado), é uma funcionalidade presente no módulo de Gerenciamento de pedidos do Admin da VTEX. Esse recurso possibilita que o lojista edite pedidos que já foram realizados sem cancelá-los ou sem o auxílio do time de suporte.
 
 Para habilitar a substituição de pedido, consulte o [artigo sobre a funcionalidade no Help Center](/pt/tutorial/how-the-order-replacement-works--3aBxdbUPKgweug68YyK8oQ).

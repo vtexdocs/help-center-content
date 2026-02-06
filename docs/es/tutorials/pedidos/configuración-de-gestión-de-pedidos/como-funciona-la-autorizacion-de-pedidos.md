@@ -20,8 +20,8 @@ En el Admin VTEX, en **Configuración de la tienda > Pedidos > Autorización de 
 ![print_autorizacao_pedidos_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/configuración-de-gestión-de-pedidos/como-funciona-la-autorizacion-de-pedidos_1.png)
 La divergencia de precios en pedidos se pueden encontrar en dos escenarios principales:
 
-- [Descuentos manuales](/es/tutorial/como-funciona-a-autorizacao-de-pedidos--3MBK6CmKHAuUjMBieDU0pn#descuentos-manuales)
-- [Divergencia de precios](/es/tutorial/como-funciona-a-autorizacao-de-pedidos--3MBK6CmKHAuUjMBieDU0pn#divergencia-de-precios)
+- [Descuentos manuales](/es/docs/tutorials/como-funciona-la-autorizacion-de-pedidos#descuentos-manuales)
+- [Divergencia de precios](/es/docs/tutorials/como-funciona-la-autorizacion-de-pedidos#divergencia-de-precios)
 
 ## Descuentos manuales
 

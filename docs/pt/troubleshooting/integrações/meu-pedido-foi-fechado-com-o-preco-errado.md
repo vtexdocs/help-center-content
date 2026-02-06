@@ -28,7 +28,7 @@ Existem três possíveis causas para um pedido ser fechado com o preço errado:
 - [Frete calculado no marketplace](#frete-calculado-no-marketplace)
 - [Preço do SKU alterado antes da integração do pedido](#preço-do-SKU-alterado-antes-da-integração-do-pedido)
 
-> ℹ️ Consulte outros erros de integração de pedidos de marketplace [nesse artigo](/pt/tutorial/porque-os-pedidos-do-marketplace-nao-integram-com-minha-loja--275YvF8dyry5KmfY9epoET).
+> ℹ️ Consulte outros erros de integração de pedidos de marketplace [nesse artigo](/pt/troubleshooting/por-que-os-pedidos-do-marketplace-nao-integram-com-minha-loja).
 
 ## Preço do produto assumido pelo marketplace
 

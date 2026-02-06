@@ -109,7 +109,7 @@ Puedes seleccionar el ID de una hoja de trabajo si deseas ver solo los ítems ya
 Si tienes hojas de trabajo asignadas como alistador, puedes acceder a ellas desde la pantalla de alistamiento siguiendo estos pasos:
 
 1. Haz clic en el menú <i class="fas fa-grip-lines">&</i>.
-2. Haz clic en **Pendientes**. Se mostrará una lista con las [hojas de trabajo](/es/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#ordens-de-servico) asignadas que están en la etapa de alistamiento.
+2. Haz clic en **Pendientes**. Se mostrará una lista con las [hojas de trabajo](/es/docs/tutorials/vtex-pick-and-pack-mobile#ordens-de-servico) asignadas que están en la etapa de alistamiento.
 3. Haz clic en el botón <i class="fas fa-arrow-right"></i> de la hoja de trabajo del pedido que deseas alistar.
 
 Al hacer clic en una hoja de trabajo, se mostrará la siguiente información:
@@ -123,7 +123,7 @@ Al hacer clic en una hoja de trabajo, se mostrará la siguiente información:
 
 Al hacer clic en el menú , se muestran las siguientes acciones:
 
-* **Agregar observación:** [agrega una observación](/es/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9#alteracoes-no-pedido) libre a la hoja de trabajo.
+* **Agregar observación:** [agrega una observación](/es/docs/tutorials/vtex-pick-and-pack-configuracion#alteracoes-no-pedido) libre a la hoja de trabajo.
 * **Agregar ítems al pedido:** inicia el flujo para [agregar nuevos ítems al pedido](#agregar-nuevos-productos-a-un-pedido).
 * **Listo para empacar:** alista o rechaza pedidos en masa.
 * **Pausar alistamiento:** pausa el recuento de tiempo del alistamiento de la hoja de trabajo.
@@ -164,7 +164,7 @@ Durante el proceso de alistamiento puedes actualizar manualmente la cantidad de 
 
 1. En la pantalla de **Alistamiento**, haz clic y mantén presionado el ítem cuya cantidad deseas cambiar.
 2. Haz clic en la opción **Agregar más unidades**.
-3. Selecciona la cantidad correcta. La cantidad de ítems que puedes modificar se define en la página de [Configuración](/es/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9#separacao) del Admin VTEX.
+3. Selecciona la cantidad correcta. La cantidad de ítems que puedes modificar se define en la página de [Configuración](/es/docs/tutorials/vtex-pick-and-pack-configuracion#separacao) del Admin VTEX.
 4. Haz clic en **Confirmar cambios**.
 
 ### Al seleccionar la hoja de trabajo
@@ -172,7 +172,7 @@ Durante el proceso de alistamiento puedes actualizar manualmente la cantidad de 
 1. En la pantalla de **Alistamiento**, haz clic en la pestaña **Info**.
 2. Haz clic en el menú <i class="fas fa-ellipsis-v"></i> del pedido deseado.
 3. Haz clic en la opción **Agregar más unidades**.
-4. Selecciona la cantidad correcta. La cantidad de ítems que puedes modificar se define en la página de [Configuración](/es/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9#separacao) del Admin VTEX.
+4. Selecciona la cantidad correcta. La cantidad de ítems que puedes modificar se define en la página de [Configuración](/es/docs/tutorials/vtex-pick-and-pack-configuracion#separacao) del Admin VTEX.
 5. Haz clic en **Agregar productos**.
 
 ## Agregar nuevos productos a un pedido
@@ -207,7 +207,7 @@ Para rechazar un producto de la hoja de trabajo sigue los pasos que se indican a
 2. Haz clic y desliza hacia la izquierda el producto que deseas descartar.
 3. Describe en el cuadro de texto el motivo de rechazo del ítem.
     ![pickpack-item-recusa-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/vtex-pick-and-pack/vtex-pick-and-pack-mobile_8.png)
-4. Selecciona la cantidad de ítems que deseas rechazar. La cantidad de ítems que los alistadores pueden rechazar se define en la página de [Configuración](/es/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9#separacao) en el Admin VTEX.
+4. Selecciona la cantidad de ítems que deseas rechazar. La cantidad de ítems que los alistadores pueden rechazar se define en la página de [Configuración](/es/docs/tutorials/vtex-pick-and-pack-configuracion#separacao) en el Admin VTEX.
 5. Haz clic en `Descartar unidades` para la cantidad seleccionada o haz clic en `Confirmar y descartar todas las unidades` para rechazar todos los ítems.
 
 Para descartar todos los productos de la hoja de trabajo de una sola vez, sigue estos pasos:
@@ -220,7 +220,7 @@ Para descartar todos los productos de la hoja de trabajo de una sola vez, sigue 
 
 ## Reemplazar ítems
 
-También puedes reemplazar un ítem por otro, dependiendo de la [configuración de la tienda](/es/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#picking) y la disponibilidad del ítem. Esta funcionalidad ayuda a asegurar que los clientes reciban sus pedidos a tiempo, aun cuando ciertos ítems no estén disponibles
+También puedes reemplazar un ítem por otro, dependiendo de la [configuración de la tienda](/es/docs/tutorials/vtex-pick-and-pack-configuracion#picking) y la disponibilidad del ítem. Esta funcionalidad ayuda a asegurar que los clientes reciban sus pedidos a tiempo, aun cuando ciertos ítems no estén disponibles
 
 > ⚠️ La opción Rechazar ítems puede no estar disponible. En caso de duda, ponte en contacto con la gerencia de la tienda.
 
@@ -231,7 +231,7 @@ Para reemplazar ítems de la hoja de trabajo sigue los pasos que se indican a co
 3. Escanea el código de barras del producto o búscalo manualmente utilizando la barra de búsqueda.
 4. Selecciona la cantidad deseada en unidades o agrega el valor del peso.
 5. Haz clic en `Confirmar selección` y luego en `Continuar`.
-6. Selecciona el motivo de la sustitución. Los motivos listados son configurables en la página de [Configuración](/es/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#order-changes).
+6. Selecciona el motivo de la sustitución. Los motivos listados son configurables en la página de [Configuración](/es/docs/tutorials/vtex-pick-and-pack-configuracion#order-changes).
 7. Haz clic en **Confirmar reemplazo y alistar**.
 
 ## Finalizar alistamiento

@@ -60,7 +60,7 @@ The picker can add, replace, and reject items in the order, as well as increase 
 
 1. In the VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or type `Settings` in the search bar at the top of the page.
 2. In the **Worksheets** section, click **Picking**.
-3. In the **[Picking](/en/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#picking)** tab, select the actions the picker can perform:
+3. In the **[Picking](/en/docs/tutorials/vtex-pick-and-pack-settings#picking)** tab, select the actions the picker can perform:
    - Allow item notes  
    - Ask confirmation to pick items  
    - Allow to add items  
@@ -76,7 +76,7 @@ Approval from an administrator isn't required when changing an order, but you ca
 
 1. In the VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or type `Settings` in the search bar at the top of the page.
 2. In the **Worksheets** section, click **Picking**.
-3. In the **[Picking](/en/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#picking)** tab, enable the option **Enable approvals flow**.
+3. In the **[Picking](/en/docs/tutorials/vtex-pick-and-pack-settings#picking)** tab, enable the option **Enable approvals flow**.
 4. Click **Save**.
 
 ### If changes to orders are allowed, is there a limit to how many changes can be made?
@@ -85,7 +85,7 @@ You can limit how many times item prices and quantities can be changed in an ord
 
 1. In the VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or type `Settings` in the search bar at the top of the page.
 2. In the **Worksheets** section, click **Picking**.
-3. In the **[Picking](/en/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#picking)** tab, set the change limit in **Max number of price changes in order items**.
+3. In the **[Picking](/en/docs/tutorials/vtex-pick-and-pack-settings#picking)** tab, set the change limit in **Max number of price changes in order items**.
 4. Click **Save**.
 
 ### How does the picker locate items for picking?
@@ -105,7 +105,7 @@ The types and sizes of packaging used by the store must be added to Pick and Pac
 
 1. In the VTEX Admin, go to **Shipping > Pick and Pack > Settings**, or type `Settings` in the search bar at the top of the page.
 2. In the **Worksheets** section, click **Packing**.
-3. In the **[Packing](/en/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#packing)** tab, click **Packaging types**.
+3. In the **[Packing](/en/docs/tutorials/vtex-pick-and-pack-settings#packing)** tab, click **Packaging types**.
 4. Click the **Create packaging type** button and complete the form with the packaging details.
 5. Click **Save**.
 

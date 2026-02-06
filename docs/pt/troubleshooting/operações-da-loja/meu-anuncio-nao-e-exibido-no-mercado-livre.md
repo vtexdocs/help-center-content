@@ -35,7 +35,7 @@ Para resolver esse problema, existem duas soluções que você pode considerar: 
 
 Para validar se a política comercial está configurada corretamente no cadastro do produto, acesse __Catálogo > Todos os Produtos__ no Admin VTEX ou digite __Todos os Produtos__ na barra de busca no topo da página, e siga as instruções abaixo:
 
-1. Clique em __Buscar ou filtrar resultados__ e [busque pelo produto](/pt/tutorial/produtos-e-skus-beta--2ig7TmROlirWirZjFWZ3By#buscar-produtos) cujo anúncio não está disponível no Mercado Livre.
+1. Clique em __Buscar ou filtrar resultados__ e [busque pelo produto](/pt/docs/tutorials/produtos-e-skus#buscar-produtos) cujo anúncio não está disponível no Mercado Livre.
 2. Na linha do produto desejado, clique em `Editar`.
 3. Na página de cadastro do produto, valide se a política comercial que atende o Mercado Livre está selecionada.
 4. Caso não esteja, marque a flag da política comercial.
@@ -52,7 +52,7 @@ Se sua loja está operando com o [Novo Admin VTEX](/pt/announcements/2022-06-13-
 
 Para validar a configuração do estoque limite, acesse Marketplace > Conexões > Marketplaces e Integrações no Admin VTEX ou digite Marketplaces e integrações na barra de busca no topo da página, e siga as instruções abaixo:
 
-1. [Busque pelo card de integração](/pt/tutorial/marketplaces-e-integracoes--5AcBO1t29nhq7rBHas9b6V#buscar-e-filtrar) do Mercado Livre.
+1. [Busque pelo card de integração](/pt/docs/tutorials/marketplaces-e-integracoes#buscar-e-filtrar) do Mercado Livre.
 2. Na linha do card de integração desejado, clique em `Editar`.
 3. Em `Configurações`, verifique se há algum valor atribuído ao campo Estoque limite para pausa de anúncio.
 

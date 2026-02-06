@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-After [reporting the invoice](/en/tutorial/como-inserir-a-nota-fiscal--tutorials_193), it is possible to obtain the delivery data in the order. This data corresponds to the carrier name, tracking code, and tracking URL, and can be entered either via the interface or via the Order Management module API.
+After [reporting the invoice](/en/docs/tutorials/how-to-manually-invoice-an-order), it is possible to obtain the delivery data in the order. This data corresponds to the carrier name, tracking code, and tracking URL, and can be entered either via the interface or via the Order Management module API.
 
 ## Integration with carriers
 

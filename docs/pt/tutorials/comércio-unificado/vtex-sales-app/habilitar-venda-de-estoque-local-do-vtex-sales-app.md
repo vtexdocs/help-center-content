@@ -37,7 +37,7 @@ Após criar uma conta franquia, é necessário [criar um seller](/pt/docs/tutori
 
 ## Configurar o ponto de retirada
 
-Após a criação da conta franquia, é preciso cadastrar o seu endereço de loja física como um [ponto de retirada](/pt/docs/tutorials/pontos-de-retirada) disponível. Para isso, siga o passo a passo descrito no artigo [Como configurar pontos de retirada](/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#como-configurar-pontos-de-retirada).
+Após a criação da conta franquia, é preciso cadastrar o seu endereço de loja física como um [ponto de retirada](/pt/docs/tutorials/pontos-de-retirada) disponível. Para isso, siga o passo a passo descrito no artigo [Como configurar pontos de retirada](/pt/docs/tutorials/pontos-de-retirada#como-configurar-pontos-de-retirada).
 
 O ponto de retirada criado receberá um ID e ele será necessário na etapa [Criar estoque](#criar-estoque). Caso você perca essa identificação, você pode visualizá-lo na tela **Pontos de retirada** do seu Admin VTEX, na coluna **ID**.
 
@@ -47,7 +47,7 @@ Com o ponto de retirada cadastrado, é preciso informar o [estoque](/pt/docs/tut
 
 1. No Admin VTEX, acesse **Envio > Estratégias de Envio **> **Estoques**, ou digite **Estratégias de Envio** na barra de busca no topo da página.
 2. Clique em `+ Criar Estoque`.
-3. Preencha os [campos do formulário](/pt/tutorial/gerenciar-estoque--tutorials_137#campos-de-cadastro), selecionando o ponto de retirada criado no passo anterior.
+3. Preencha os [campos do formulário](/pt/docs/tutorials/gerenciar-estoque#campos-de-cadastro), selecionando o ponto de retirada criado no passo anterior.
 4. Marque <i class="fas fa-toggle-on"></i> para `Ativo` para vincular o estoque da loja física com o VTEX Sales App.
 5. Clique em `Salvar`.
 

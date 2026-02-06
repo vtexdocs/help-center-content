@@ -57,7 +57,7 @@ Para exportar datos de Master Data v1 a través del dashboard del Admin, sigue l
 
 Repite estos pasos para las entidades de datos de clientes (**CL**), direcciones (**AD**) y cualquier otra que hayas configurado para recibir datos personales de los clientes.
 
-> ℹ️ Aprende más sobre cómo [filtrar datos](/es/tutorial/filtering-data-on-master-data--tutorials_778#how-to-use-filters) y [exportar datos](/es/docs/tutorials/exportacion-de-datos) en la interfaz de Master Data v1.
+> ℹ️ Aprende más sobre cómo [filtrar datos](/es/docs/tutorials/filtrar-datos-en-el-master-data#how-to-use-filters) y [exportar datos](/es/docs/tutorials/exportacion-de-datos) en la interfaz de Master Data v1.
 
 #### Master Data v2
 

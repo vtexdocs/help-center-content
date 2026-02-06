@@ -19,7 +19,7 @@ We encourage our clients to responsibly report any security vulnerabilities they
 
 If you wish to report a vulnerability, you should first work with your security and development teams to conduct a security assessment and eliminate false positives or issues arising from custom configurations. Only cases compatible with the [definition of vulnerability](#vulnerability-definition) will be analyzed.
 
-> ⚠️ Please review the[ VTEX Security Practices](https://vtex.com/us-en/security/security-practices/) document and our[ Security FAQ](/en/tutorial/the-risk-assessment-process--4K97IpqkpCpDYsZOSxtfkX#risk-assessment-at-vtex) before reporting any vulnerabilities. These documents clarify our processes and help eliminate false positives.
+> ⚠️ Please review the[ VTEX Security Practices](https://vtex.com/us-en/security/security-practices/) document and our[ Security FAQ](/en/docs/tutorials/risk-assessment#risk-assessment-at-vtex) before reporting any vulnerabilities. These documents clarify our processes and help eliminate false positives.
 
 After this, follow the steps below to report if there is a vulnerability:
 

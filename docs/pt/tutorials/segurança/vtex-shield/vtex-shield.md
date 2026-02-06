@@ -31,7 +31,7 @@ Ao contratar o VTEX Shield, é possível optar pelas funcionalidades a seguir:
 
 ## Security Monitor
 
-O Security Monitor é um dashboard no Admin VTEX que detecta ameaças à segurança relacionadas ao comportamento de usuários administrativos e a configurações inadequadas. Os riscos potenciais incluem [chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) antigas ou expostas na web, usuários ou credenciais com permissões excessivas e usuários inativos. A ferramenta apresenta uma visão geral das ameaças e das soluções, com a opção de notificar lojistas por email a cada descoberta.
+O Security Monitor é um dashboard no Admin VTEX que detecta ameaças à segurança relacionadas ao comportamento de usuários administrativos e a configurações inadequadas. Os riscos potenciais incluem [chaves de aplicação](/pt/docs/tutorials/chaves-de-api) antigas ou expostas na web, usuários ou credenciais com permissões excessivas e usuários inativos. A ferramenta apresenta uma visão geral das ameaças e das soluções, com a opção de notificar lojistas por email a cada descoberta.
 
 O Security Monitor está disponível no Admin VTEX somente para lojas com VTEX Shield que optarem por esse recurso. Para mais informações, confira o guia [Security Monitor](/pt/docs/tutorials/security-monitor).
 

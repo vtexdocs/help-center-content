@@ -25,13 +25,13 @@ El menú **Releases** te permite gestionar grupos de cambios relacionados para c
 
 En la página [Calendario](/es/docs/tutorials/planner-pagina-calendario-beta), puedes crear un nuevo _release_ y realizar otras [acciones sobre los _releases_](/es/docs/tutorials/planner-acciones-en-releases-beta). La página **Calendario** se puede visualizar de tres formas:
 
-- [Vista por mes](/es/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C#vista-por-mes):presenta los _releases_ programados de todos los días del mes seleccionado.
-- [Vista por semana](/es/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C#vista-por-semana): presenta los _releases_ programados para determinada semana.
-- [Vista por día](/es/tutorial/planner-calendar-page-beta--46wSZ7Z5xoXQPP0xHfIx9C#vista-por-dia): presenta los _releases_ programados para el día seleccionado y las modificaciones referentes el _release_ seleccionado.
+- [Vista por mes](/es/docs/tutorials/planner-pagina-calendario-beta#vista-por-mes):presenta los _releases_ programados de todos los días del mes seleccionado.
+- [Vista por semana](/es/docs/tutorials/planner-pagina-calendario-beta#vista-por-semana): presenta los _releases_ programados para determinada semana.
+- [Vista por día](/es/docs/tutorials/planner-pagina-calendario-beta#vista-por-dia): presenta los _releases_ programados para el día seleccionado y las modificaciones referentes el _release_ seleccionado.
 
 ## Releases
 
-En [Releases](/es/docs/tutorials/planner-pagina-de-releases-beta), puedes crear un nuevo release y realizar otras [acciones en los releases](/es/docs/tutorials/planner-acciones-en-releases-beta). En esta página, se presentan todos los releases existentes en una lista que muestra primero los releases con [status](/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-los-releases) `No programado`, seguidos de los que están programados.
+En [Releases](/es/docs/tutorials/planner-pagina-de-releases-beta), puedes crear un nuevo release y realizar otras [acciones en los releases](/es/docs/tutorials/planner-acciones-en-releases-beta). En esta página, se presentan todos los releases existentes en una lista que muestra primero los releases con [status](/es/docs/tutorials/planner-concepto-de-release-beta#status-de-los-releases) `No programado`, seguidos de los que están programados.
 
 El orden de los releases programados sigue la fecha de publicación: mientras más adelante en el futuro, más cerca del primero aparece en la lista y mientras más anterior en el pasado, más cerca del último.
 

@@ -36,7 +36,7 @@ This feature is intended to improve the inStore endless aisle search experience,
 
 To use the search filters on inStore's endless aisle, you must install and configure [VTEX Intelligent Search](/en/docs/tracks/overview-intelligent-search). In this context, please note that:
 
-* It is essential to configure the filters that will be displayed, as indicated in the article [Search configuration](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx). Otherwise, all product information will be considered as filterable attributes in inStore.
+* It is essential to configure the filters that will be displayed, as indicated in the article [Search configuration](/en/docs/tutorials/search-configuration). Otherwise, all product information will be considered as filterable attributes in inStore.
 * The **Autocomplete** option does not apply to the inStore search, so it can be left blank.
 * Any changes made to the search settings will also apply to the ecommerce if the tool used is VTEX Intelligent Search.
 

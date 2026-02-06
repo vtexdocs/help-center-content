@@ -39,4 +39,4 @@ Só será necessário [conﬁgurar uma política comercial para Marketplace](/pt
 
 Para [contratar políticas comerciais adicionais](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional), basta preencher o [Formulário de liberação de Política Comercial](https://docs.google.com/forms/d/e/1FAIpQLSe9qCGB_KM_xsV5e9uNe06JE8tMZrWcv6EuHUOmqTiM8oRW7w/viewform). Em caso de dúvidas, entre em contato com o nosso time de Growth Operations em [*Suporte*](https://supporticket.vtex.com/support), selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.  
 
-A contratação de política comercial adicional para integrar com [conector nativo, conector certificado(parceiro)](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex) ou outras lojas VTEX é isenta de taxas.  
+A contratação de política comercial adicional para integrar com [conector nativo, conector certificado(parceiro)](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-nativo-vtex) ou outras lojas VTEX é isenta de taxas.  

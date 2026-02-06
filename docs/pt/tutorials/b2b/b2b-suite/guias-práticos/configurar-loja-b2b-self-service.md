@@ -91,7 +91,7 @@ Para aprovar o acesso dos clientes à loja, é necessário aprovar cada um dos c
 
 ### Configuração do catálogo de produtos
 
-A exibição dos produtos da loja para determinados grupos de usuários precisa ser definida por meio da configuração das políticas comerciais da sua loja — você pode [criar uma nova política comercial](/pt/faq/como-contratar-nova-politica-comercial--frequentlyAskedQuestions_700) especificamente para este fim ou configurar uma política já existente—, já que a política comercial tem catálogo próprio e especificações próprias de preços e logística.
+A exibição dos produtos da loja para determinados grupos de usuários precisa ser definida por meio da configuração das políticas comerciais da sua loja — você pode [criar uma nova política comercial](/pt/docs/tutorials/criar-uma-politica-comercial) especificamente para este fim ou configurar uma política já existente—, já que a política comercial tem catálogo próprio e especificações próprias de preços e logística.
 
 Nesta configuração, você precisa selecionar os produtos que vão estar associados à política comercial destinada ao contexto B2B. Na VTEX, você pode associar SKUs individualmente através do Admin ou em massa através da [API do Catálogo](https://developers.vtex.com/vtex-developer-docs/reference/catalog-api-overview).
 

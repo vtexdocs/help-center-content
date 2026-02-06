@@ -24,7 +24,7 @@ Among the marketplaces available, there are VTEX marketplaces and external marke
 | **VTEX** | These are the profiles of VTEX clients that chose to make their environment available for sellers to sell products. |
 | **External** | Marketplaces that are not VTEX clients and did the integration, whether certified or partner. |  
 
-> ℹ️ Note that **Marketplaces and Integrations** is a tool that fosters contact between potential partners, yet it is not a mandatory step in becoming a VTEX marketplace. If you want to act as a VTEX marketplace, read the [Marketplace strategies at VTEX](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex).
+> ℹ️ Note that **Marketplaces and Integrations** is a tool that fosters contact between potential partners, yet it is not a mandatory step in becoming a VTEX marketplace. If you want to act as a VTEX marketplace, read the [Marketplace strategies at VTEX](/en/docs/tutorials/marketplace-strategies-at-vtex#sendo-seller-vtex).
 
 ## Looking for marketplaces  
 
@@ -66,7 +66,7 @@ To connect to an external marketplace, the seller needs to follow the steps belo
 
 ### __Connecting to a VTEX marketplace__  
 
-To connect to one of the VTEX marketplaces, you need to contact VTEX to negotiate a partnership and wait for the marketplace to respond. Additionally, you must have an [active Seller Profile](/en/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM#perfil-da-loja).  
+To connect to one of the VTEX marketplaces, you need to contact VTEX to negotiate a partnership and wait for the marketplace to respond. Additionally, you must have an [active Seller Profile](/en/docs/tutorials/marketplaces-and-integrations#perfil-da-loja).  
 When sending a message, provide all the information the marketplace needs for connecting to your business. We also suggest anticipating the questions or topics that might arise in a future meeting, for example.  
 
 See below how to contact a marketplace:  

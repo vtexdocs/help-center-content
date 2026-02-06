@@ -19,13 +19,13 @@ Ao realizar a [configuração de afiliações de gateway](/pt/docs/tutorials/afi
 
 ## O que mudou?
 
-Essas credenciais não devem ser confundidas com as credenciais [Application Key e Application Token utilizadas nas APIs da VTEX para integrações](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet). Neste caso, as credenciais são geradas no Admin e utilizadas para identificar sistemas externos que acessam os serviços das lojas VTEX. Uma **Application Key** gerada no Admin pode ser identificada se houver em seu início `vtexappkey-`.
+Essas credenciais não devem ser confundidas com as credenciais [Application Key e Application Token utilizadas nas APIs da VTEX para integrações](/pt/docs/tutorials/chaves-de-api). Neste caso, as credenciais são geradas no Admin e utilizadas para identificar sistemas externos que acessam os serviços das lojas VTEX. Uma **Application Key** gerada no Admin pode ser identificada se houver em seu início `vtexappkey-`.
 
 Caso a sua loja possua alguma afiliação de gateway configurada com um par de **Application Key** e **Application Token** gerados no Admin, eles devem ser substituídos até o dia 30 de Abril de 2023.
 
 ## Por que fizemos essa mudança?
 
-A utilização de **Application Key** e **Application Token** gerados no Admin em afiliações de gateway pode representar um risco de segurança, já que estão sendo compartilhadas chaves para acessar serviços de uma loja VTEX. O [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) atribuído a uma credencial define quais [recursos da loja](/pt/docs/tutorials/recursos-do-license-manager) podem ser acessados. Dependendo do perfil de acesso utilizado, qualquer pessoa que tiver acesso às credenciais poderá acessar os recursos permitidos indevidamente. Caso seja necessário, você pode verificar as instruções no artigo [Chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet#ativar-ou-desativar-chaves-de-aplicacao) para desabilitar uma **Application Key**.
+A utilização de **Application Key** e **Application Token** gerados no Admin em afiliações de gateway pode representar um risco de segurança, já que estão sendo compartilhadas chaves para acessar serviços de uma loja VTEX. O [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) atribuído a uma credencial define quais [recursos da loja](/pt/docs/tutorials/recursos-do-license-manager) podem ser acessados. Dependendo do perfil de acesso utilizado, qualquer pessoa que tiver acesso às credenciais poderá acessar os recursos permitidos indevidamente. Caso seja necessário, você pode verificar as instruções no artigo [Chaves de aplicação](/pt/docs/tutorials/chaves-de-api#ativar-ou-desativar-chaves-de-aplicacao) para desabilitar uma **Application Key**.
 
 ## O que precisa ser feito?
 

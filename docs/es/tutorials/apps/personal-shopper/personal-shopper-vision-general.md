@@ -89,7 +89,7 @@ Para configurar tus preferencias sigue los pasos a continuación:
 1.	En el Admin VTEX, accede a **Apps > Personal Shopper > Configuración**.
 2.	Haz clic en la pestaña `Configuración de personal shoppers`.
 3.	En la sección **Cuenta general**, rellena los campos siguiendo los pasos a continuación:
-    * **URL del cliente**: ingresa la URL de la página que creaste en la sección [Personal Shopper: crear landing page](/es/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#personal-shopper-crear-landing-page). Por ejemplo, `https://www.mystore.com/personal-shopper`.
+    * **URL del cliente**: ingresa la URL de la página que creaste en la sección [Personal Shopper: crear landing page](/es/docs/tutorials/personal-shopper-vision-general#personal-shopper-crear-landing-page). Por ejemplo, `https://www.mystore.com/personal-shopper`.
     * **Nombre de la tienda**: ingresa el nombre de tu tienda. Este nombre se utilizará en los emails que se envíen a los clientes y a los personal shoppers.
 4.	En la sección **Política de privacidad & Términos y condiciones**, configura los links y el texto adecuados para solicitar el consentimiento del usuario con relación a la política de privacidad y los términos y condiciones del procesamiento de datos.
 5.	En la sección **Mensajes y notificaciones**, personaliza los siguientes mensajes:
@@ -187,9 +187,9 @@ Si estás registrado como personal shopper puedes crear videollamadas con tus cl
 
 ![calls-personalshopper](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/personal-shopper/personal-shopper-vision-general_3.png)
 
-Si eliges iniciar una videollamada instantánea, haz clic en `Iniciar videollamada` para comenzar la sesión. Esto te permite interactuar con el cliente en tiempo real y ofrecer asistencia personalizada. Para conocer detalles más técnicos sobre funcionalidades de la videollamada, consulta la sección [Realización de videollamada](/es/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#realizacion-de-la-videollamada). En este caso, asegúrate de conceder al navegador los permisos necesarios para el acceso al micrófono y a la cámara y así evitar problemas durante la videollamada.
+Si eliges iniciar una videollamada instantánea, haz clic en `Iniciar videollamada` para comenzar la sesión. Esto te permite interactuar con el cliente en tiempo real y ofrecer asistencia personalizada. Para conocer detalles más técnicos sobre funcionalidades de la videollamada, consulta la sección [Realización de videollamada](/es/docs/tutorials/personal-shopper-vision-general#realizacion-de-la-videollamada). En este caso, asegúrate de conceder al navegador los permisos necesarios para el acceso al micrófono y a la cámara y así evitar problemas durante la videollamada.
 
-Si optas por programar una videollamada para más tarde, recibirás el link para compartirlo con los participantes. Para más información, consulta la sección [Ingresar a un evento programado](/es/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#ingresar-a-un-evento-programado).
+Si optas por programar una videollamada para más tarde, recibirás el link para compartirlo con los participantes. Para más información, consulta la sección [Ingresar a un evento programado](/es/docs/tutorials/personal-shopper-vision-general#ingresar-a-un-evento-programado).
 
 ### Gestionar disponibilidad
 
@@ -211,7 +211,7 @@ Para unirte a un evento solicitado por un cliente o a un evento que hayas creado
 4.	Haz clic en `Ingresar` para unirte a la llamada con el cliente.
 5.	Haz clic en `Iniciar videollamada`.
 
-Para conocer detalles más técnicos sobre la videollamada una vez iniciada, consulta la sección [Realización de la videollamada](/es/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#realizacion-de-la-videollamada).
+Para conocer detalles más técnicos sobre la videollamada una vez iniciada, consulta la sección [Realización de la videollamada](/es/docs/tutorials/personal-shopper-vision-general#realizacion-de-la-videollamada).
 
 Asegúrate de conceder al navegador los permisos necesarios para el acceso al micrófono y a la cámara y así evitar problemas durante la videollamada.
 

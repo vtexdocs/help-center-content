@@ -273,7 +273,7 @@ As senhas sob VTEX ID têm os seguintes requisitos:
 * Mínimo de 1 caractere especial.
 * Não é possível repetir as últimas 4 senhas usadas.
 
-Os lojistas podem optar por [aplicar a expiração de senha](/pt/tutorial/autenticacao--21CkKHLKP1o41lUpGhuRUs#aplicar-expiracao-de-senha) após um período específico para usuários do Admin, que pode ser 15, 30 ou 90 dias.
+Os lojistas podem optar por [aplicar a expiração de senha](/pt/docs/tutorials/autenticacao#aplicar-expiracao-de-senha) após um período específico para usuários do Admin, que pode ser 15, 30 ou 90 dias.
 
 Os lojistas também podem optar por integrar um provedor de identidade externo, permitindo que definam suas próprias políticas de senha de forma personalizada. Confira [Login (SSO)](https://developers.vtex.com/docs/guides/login-integration-guide) para mais informações.
 
@@ -297,7 +297,7 @@ Essa abordagem nos permite agilidade nas melhorias e correções de bugs, ao mes
 
 #### Como o acesso do usuário é administrado na plataforma incluindo mover, adicionar, alterar e excluir contas?
 
-A gestão de usuários administrativos é realizada de forma direta através do Admin VTEX. Os usuários administrativos são designados para perfis de acesso que podem conter uma ou várias [permissões](/pt/docs/tutorials/recursos-do-license-manager), as quais são estabelecidas pelo [usuário titular](/pt/docs/tutorials/o-que-e-o-usuario-titular) da conta ou por usuários com o perfil de acesso [User Administrator - RESTRICTED](/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) ou com um perfil customizado que contenha o [recurso](/pt/docs/tutorials/recursos-do-license-manager) _Save User_. Saiba mais no artigo [Gerenciar usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos).
+A gestão de usuários administrativos é realizada de forma direta através do Admin VTEX. Os usuários administrativos são designados para perfis de acesso que podem conter uma ou várias [permissões](/pt/docs/tutorials/recursos-do-license-manager), as quais são estabelecidas pelo [usuário titular](/pt/docs/tutorials/o-que-e-o-usuario-titular) da conta ou por usuários com o perfil de acesso [User Administrator - RESTRICTED](/pt/docs/tutorials/perfis-de-acesso-predefinidos#user-administrator-restricted) ou com um perfil customizado que contenha o [recurso](/pt/docs/tutorials/recursos-do-license-manager) _Save User_. Saiba mais no artigo [Gerenciar usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos).
 
 #### A plataforma possui funcionalidades para gerenciar, organizar e customizar as permissões de gerenciamento na loja?
 
@@ -428,7 +428,7 @@ As verificações de vulnerabilidade são executadas continuamente. Cada uma del
 
 #### As customizações ou configurações do produto realizadas pelos clientes poderão introduzir vulnerabilidades de segurança na plataforma? Se sim, como a eventualidade será gerenciada?
 
-Os lojistas e quaisquer agências implementadoras contratadas por eles têm a liberdade de realizar personalizações e customizações na plataforma dentro de seus próprios ambientes. No caso de identificação de vulnerabilidades nos sistemas da VTEX, nossa equipe de segurança e desenvolvimento atua de forma ágil para tratar essas questões. Devido à natureza personalizável da plataforma, é de responsabilidade do lojista e da agência implementadora lidar com as vulnerabilidades que possam surgir em decorrência de customizações feitas durante o desenvolvimento. Confira [Responsabilidades no ecossistema VTEX](/pt/tutorial/responsabilidades-no-ecossistema-vtex--3vL9aWICDr3WR64DYi1fJ3#agencias-implementadoras) para mais informações.
+Os lojistas e quaisquer agências implementadoras contratadas por eles têm a liberdade de realizar personalizações e customizações na plataforma dentro de seus próprios ambientes. No caso de identificação de vulnerabilidades nos sistemas da VTEX, nossa equipe de segurança e desenvolvimento atua de forma ágil para tratar essas questões. Devido à natureza personalizável da plataforma, é de responsabilidade do lojista e da agência implementadora lidar com as vulnerabilidades que possam surgir em decorrência de customizações feitas durante o desenvolvimento. Confira [Responsabilidades no ecossistema VTEX](/pt/docs/tutorials/responsabilidades-no-ecossistema-vtex#agencias-implementadoras) para mais informações.
 
 ### Resposta e mitigação a incidentes
 

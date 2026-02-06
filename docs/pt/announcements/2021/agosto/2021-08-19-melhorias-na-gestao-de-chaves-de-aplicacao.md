@@ -23,7 +23,7 @@ Chaves de aplicação (também conhecidas como _app keys_) são o tipo mais comu
 
 ### Nova interface de usuário para gestão de Chaves de Aplicativo
 
-Antes, o gerenciamento de [Chaves de Aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) exigia a navegação por várias telas. Agora você pode gerar, adicionar/remover, ativar/desativar, exportar e editar permissões para seus pares appKey e appToken em um único lugar.
+Antes, o gerenciamento de [Chaves de Aplicação](/pt/docs/tutorials/chaves-de-api) exigia a navegação por várias telas. Agora você pode gerar, adicionar/remover, ativar/desativar, exportar e editar permissões para seus pares appKey e appToken em um único lugar.
 
 ### Permissões para criar Chaves de Aplicativo agora são baseadas em recursos
 
@@ -35,4 +35,4 @@ Ao simplificar o gerenciamento de credenciais de autenticação, ajudamos nossos
 
 ## O que precisa ser feito?
 
-Confira o artigo [Chaves de Aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) para mais informações.
+Confira o artigo [Chaves de Aplicação](/pt/docs/tutorials/chaves-de-api) para mais informações.

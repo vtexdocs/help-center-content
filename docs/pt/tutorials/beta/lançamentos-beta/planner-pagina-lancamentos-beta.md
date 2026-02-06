@@ -21,7 +21,7 @@ O módulo **Lançamentos** permite que você [gerencie seus lançamentos](/pt/do
 
 No Admin VTEX, no menu de navegação **Lançamentos** existem as páginas **Lançamentos** e [Calendário](/pt/docs/tutorials/planner-pagina-calendario-beta). Em **Lançamentos**, você pode criar um novo lançamento e realizar uma série de outras [ações](/pt/docs/tutorials/planner-acoes-em-lancamentos-beta).
 
-Na página **Lançamentos**, todos os lançamentos que existem são apresentados em uma lista, sendo que a ordenação mostra primeiro os lançamentos no [status](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-lancamentos) `Não agendado`, seguidos dos que estão agendados. 
+Na página **Lançamentos**, todos os lançamentos que existem são apresentados em uma lista, sendo que a ordenação mostra primeiro os lançamentos no [status](/pt/docs/tutorials/planner-conceito-de-lancamento-beta#status-de-lancamentos) `Não agendado`, seguidos dos que estão agendados. 
 
 A ordenação dos lançamentos agendados é feita com base na data de publicação: quanto mais longínquo no futuro é um lançamento primeiro ele aparece na listagem, e quanto mais distante no passado, por último ele aparece.
 
@@ -39,7 +39,7 @@ Para acessar a página **Lançamentos** no Admin VTEX, vá no menu de navegaçã
 | **Última modificação** | Tempo decorrido desde a última alteração no lançamento. |
 | **Criado por** | Identificação do usuário que criou o lançamento. |
 | **Data de publicação** | Dia e horário de publicação ou de agendamento de publicação do lançamento. Caso o lançamento não tenha uma data definida, este campo aparece como `Não agendado`. |
-| **Status** | Indicação do [status do lançamento](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-lancamentos). |
+| **Status** | Indicação do [status do lançamento](/pt/docs/tutorials/planner-conceito-de-lancamento-beta#status-de-lancamentos). |
 
 Na página **Lançamentos**, você pode:
 
@@ -47,13 +47,13 @@ Na página **Lançamentos**, você pode:
 
 **II - Buscar lançamentos:** na barra de busca, digite o nome do lançamento que deseja encontrar. A busca considera todos os lançamentos existentes.
 
-**III - Filtrar lançamentos:** para filtrar por [status de lançamentos](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-lancamentos), utilize o botão `Status` <i class="fas fa-angle-down"></i> e selecione a opção desejada. Para filtrar por data de agendamento ou publicação, clique em em `Data` <i class="fas fa-angle-down"></i> e selecione a data desejada.
+**III - Filtrar lançamentos:** para filtrar por [status de lançamentos](/pt/docs/tutorials/planner-conceito-de-lancamento-beta#status-de-lancamentos), utilize o botão `Status` <i class="fas fa-angle-down"></i> e selecione a opção desejada. Para filtrar por data de agendamento ou publicação, clique em em `Data` <i class="fas fa-angle-down"></i> e selecione a data desejada.
 
 **IV - Criar um novo lançamento:** para criar um novo lançamento, clique no botão `Criar lançamento` e siga o passo a passo descrito em [Lançamentos: ações em lançamentos](/pt/docs/tutorials/planner-acoes-em-lancamentos-beta).
 
 **VI - Navegar entre páginas:** para ver mais resultados de lançamentos, navegue entre as páginas de resultados utilizando as setas laterais <i class="fas fa-angle-left"></i> <i class="fas fa-angle-right"></i>.
 
-**VII - Realizar ações no lançamento:** dependendo do [status de um lançamento](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-lancamentos), o menu três pontos <i class="fas fa-ellipsis-v"></i> vai apresentar diferentes opções de ações. Para conferir as ações possíveis, confira [Lançamentos: ações em lançamentos](/pt/docs/tutorials/planner-acoes-em-lancamentos-beta).
+**VII - Realizar ações no lançamento:** dependendo do [status de um lançamento](/pt/docs/tutorials/planner-conceito-de-lancamento-beta#status-de-lancamentos), o menu três pontos <i class="fas fa-ellipsis-v"></i> vai apresentar diferentes opções de ações. Para conferir as ações possíveis, confira [Lançamentos: ações em lançamentos](/pt/docs/tutorials/planner-acoes-em-lancamentos-beta).
 
 ## Saiba mais
 

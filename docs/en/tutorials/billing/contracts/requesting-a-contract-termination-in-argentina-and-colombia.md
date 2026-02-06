@@ -17,7 +17,7 @@ subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 
 > ℹ️ To terminate a contract, your store cannot have any past due debt with VTEX.Should there be any, it must be settled for the process to proceed. See [how to pay your invoice](/en/docs/tutorials/how-to-download-the-vtex-invoices).
 
-To request the contract termination, please contact our financial team through a [ticket](/en/tutorial/opening-tickets-to-vtex-support-finacial--1ad3TguXzCSKq4yuYSK80c). Creating a ticket will generate a response from VTEX. After this contact, you must send the required documents. 
+To request the contract termination, please contact our financial team through a [ticket](/en/docs/tutorials/opening-tickets-to-vtex-support). Creating a ticket will generate a response from VTEX. After this contact, you must send the required documents. 
 
 The required documents are: 
 

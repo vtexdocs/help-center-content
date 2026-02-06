@@ -19,7 +19,7 @@ Uma das funcionalidades do VTEX Intelligent Search é a **separação de SKUs po
 
 Antes, apenas os produtos, sem nenhuma distinção entre SKUs, eram exibidos no resultado de busca. Por conta disso, era necessário cadastrar cada SKU como um produto único para ser exibido separadamente no resultado de busca.
 
-Agora não é preciso fazer nenhuma alteração no Catálogo para que os SKUs sejam exibidos nos resultados de busca. No Admin, basta [configurar as especificações do SKU que deseja exibir na pesquisa](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx#).
+Agora não é preciso fazer nenhuma alteração no Catálogo para que os SKUs sejam exibidos nos resultados de busca. No Admin, basta [configurar as especificações do SKU que deseja exibir na pesquisa](/pt/docs/tutorials/configuracao-da-busca).
 
 Essa ferramenta é indicada, principalmente, para lojas de vestuários, pois é possível exibir os produtos por cor ou material.
 
@@ -30,5 +30,5 @@ A seguir, confira um exemplo de separação de SKUs por cor. Na imagem abaixo, a
 > ℹ️  Caso os resultados de busca sejam ordenados por relevância, os SKUs de um mesmo produto são agrupados, ou seja, aparecem um ao lado do outro.
 
 ## Configuração
-Para configurar quais atributos serão usados para separar os SKUs, acesse nosso artigo de [Configurações da busca](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx#).
+Para configurar quais atributos serão usados para separar os SKUs, acesse nosso artigo de [Configurações da busca](/pt/docs/tutorials/configuracao-da-busca).
 
