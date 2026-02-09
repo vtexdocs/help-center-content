@@ -12,7 +12,7 @@ locale: pt
 
 [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies) é a funcionalidade que permite aos usuários da organização compradora configurarem regras para autorizar ou negar pedidos automaticamente. Os mecanismos dinâmicos desta solução contribuem para uma maior governança da organização e promovem a conformidade com as políticas de venda vigentes.
 
-Este artigo os usuários na criação e gerenciamento das buying policies da organização, e inclui as seguintes seções:
+Este artigo orienta os usuários no gerenciamento de buying policies e está dividido nas seguintes seções:
 
 * Adicionar buying policy
 * Ver página de detalhes
