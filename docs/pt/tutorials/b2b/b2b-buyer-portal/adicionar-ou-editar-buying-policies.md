@@ -10,7 +10,7 @@ locale: pt
 
 > ⚠️ A funcionalidade **Buying Policies** está disponível apenas para o **B2B Buyer Portal**.
 
-[Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies) é a funcionalidade que permite aos usuários da organização compradora configurarem regras para autorizar ou negar pedidos automaticamente. Os mecanismos dinâmicos desta solução contribuem para uma maior governança da organização e promovem a conformidade com as políticas de venda vigentes.
+[Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies) é a funcionalidade que permite aos usuários da organização compradora configurar regras para autorizar ou negar pedidos automaticamente. Os mecanismos dinâmicos desta solução contribuem para uma maior governança da organização e promovem a conformidade com as políticas de compra vigentes.
 
 Este artigo orienta os usuários no gerenciamento de buying policies e está dividido nas seguintes seções:
 
@@ -40,7 +40,7 @@ Este artigo orienta os usuários no gerenciamento de buying policies e está div
         * **Bypass all buying policies:** o pedido será automaticamente aprovado, independentemente dos critérios definidos.
         * **Sequential workflow:** o pedido será aprovado ou negado manualmente por um usuário autorizado. Para esta opção, é necessário informar o nome de uma Organizational Unit para que o usuário dessa unidade revise o pedido.
 
-        > ⚠️ É possível definir uma hierarquia de até cinco organizações, sendo o nível mais alto o último a revisar o pedido. Qualquer nível pode negar o pedido, mas a autorização dele depende da aprovação de todos.
+        > ⚠️ É possível definir uma hierarquia de até cinco unidades organizacionais, sendo o nível mais alto o último a revisar o pedido. Qualquer nível pode negar o pedido, mas a aprovação final depende da autorização de todos os níveis.
 
 4. Para salvar as configurações, clique em `Add` (adicionar).
 
@@ -48,7 +48,7 @@ Feito isso, você verá a mensagem de confirmação _"Buying policy created succ
 
 ## Ver página de detalhes
 
-Para visualizar os detalhes de uma política, na tela **Buying Policies**, clique no nome da buying policy, ou então, na linha correspondente à opção desejada, clique no ícone de menu > `Open` (abrir). Você verá uma imagem como a seguinte:
+Para visualizar os detalhes de uma política, na tela **Buying Policies**, clique no nome da buying policy ou, na linha correspondente à opção desejada, clique no ícone de menu > `Open` (abrir). Você verá uma imagem como a seguinte:
 
 ![buying_policies_image_1](link)
 
@@ -68,6 +68,6 @@ Para visualizar os detalhes de uma política, na tela **Buying Policies**, cliqu
 3. No modal aberto, preencha o nome da buying policy a ser removida.
 4. Para confirmar a exclusão, clique em `Delete`.
 
-Feito isso, você verá a mensagem de confirmação _"Buying policy removed successfully" (Buying policy removida com sucesso)_ e, ao retornar à tela principal, a opção terá sumido.
+Feito isso, você verá a mensagem de confirmação _"Buying policy removed successfully" (Buying policy removida com sucesso)_ e, ao retornar à tela principal, a política não estará mais listada.
 
-> ℹ️ Caso queira gerenciar regras de autorização de pedidos via API, acesse [Buying Policies API](https://developers.vtex.com/docs/api-reference/buying-policies-api), e confira o guia para desenvolvedores [Buying Policies](https://developers.vtex.com/docs/guides/buying-policies).
+> ℹ️ Para gerenciar regras de autorização de pedidos via API, acesse a [Buying Policies API](https://developers.vtex.com/docs/api-reference/buying-policies-api) e confira o guia para desenvolvedores [Buying Policies](https://developers.vtex.com/docs/guides/buying-policies).
