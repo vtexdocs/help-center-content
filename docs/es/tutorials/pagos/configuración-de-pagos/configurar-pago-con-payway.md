@@ -39,3 +39,5 @@ Para configurar los métodos de pago a procesar por Payway, acceda al [Configura
 Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456#).
 
 Después de seguir los pasos indicados, Payway puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.
+
+> ⚠️ Conoce más detalles sobre la integración de Payway con VTEX en la [documentación oficial de Payway](https://payway-vtex-docs.vercel.app/docs/config).
