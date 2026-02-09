@@ -38,7 +38,7 @@ Este artigo orienta os usuários no gerenciamento de buying policies e está div
     * Em **Action**, selecione qual ação será aplicada a pedidos que atenderam aos critérios:
         * **Deny order:** o pedido será negado.
         * **Bypass all buying policies:** o pedido será automaticamente aprovado, independentemente dos critérios definidos.
-        * **Sequential workflow:** o pedido será aprovado ou negado manualmente por um usuário autorizado. Para esta opção, é necessário informar o nome de uma organization unit para que o usuário dessa unidade revise o pedido.
+        * **Sequential workflow:** o pedido será aprovado ou negado manualmente por um usuário autorizado. Para esta opção, é necessário informar o nome de uma Organizational Unit para que o usuário dessa unidade revise o pedido.
 
         > ⚠️ É possível definir uma hierarquia de até cinco organizações, sendo o nível mais alto o último a revisar o pedido. Qualquer nível pode negar o pedido, mas a autorização dele depende da aprovação de todos.
 
