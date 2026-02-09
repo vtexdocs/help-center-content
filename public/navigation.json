@@ -17003,6 +17003,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "pt": "Buying Policies",
+                    "en": "Buying Policies",
+                    "es": "Buying Policies"
+                  },
+                  "slug": {
+                    "pt": "buying-policies",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
