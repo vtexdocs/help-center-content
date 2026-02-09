@@ -17007,13 +17007,13 @@
                 {
                   "name": {
                     "en": "Buyer organization members",
-                    "es": "Buyer organization members",
-                    "pt": "Buyer organization members"
+                    "es": "Miembros de la organización compradora",
+                    "pt": "Membros da organização compradora"
                   },
                   "slug": {
                     "en": "buyer-organization-members",
-                    "es": "",
-                    "pt": ""
+                    "es": "miembros-de-la-organizacion-compradora",
+                    "pt": "membros-da-organizacao-compradora"
                   },
                   "origin": "",
                   "type": "markdown",
