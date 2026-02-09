@@ -8,11 +8,13 @@ slugEN: buying-policies
 locale: pt
 ---
 
-> ⚠️ A funcionalidade Buying Policies está disponível apenas para o B2B Buyer Portal.
+> ⚠️ A funcionalidade **Buying Policies** está disponível apenas para o **B2B Buyer Portal**.
 
 **Buying Policies** é a funcionalidade pela qual os usuários da organização compradora configuram mecanismos e definem critérios para autorizar ou negar pedidos automaticamente. Ela opera como uma camada de controle no processo de compra, permitindo a criação de fluxos personalizados de revisão de pedidos. A solução contribui para uma maior governança da organização e promove maior conformidade com as políticas de compra vigentes.
 
 Além disso, para oferecer mais flexibilidade e englobar diferentes cenários de compra, os usuários podem configurar regras para aprovação manual de pedidos ou definir situações nas quais os pedidos podem ser automaticamente aprovados (bypass), independentemente de haver regras aplicáveis.
+
+## Critérios de aprovação de pedidos
 
 As regras para aprovação ou negação de pedidos podem ser criadas com base em diferentes critérios, tais como:
 
