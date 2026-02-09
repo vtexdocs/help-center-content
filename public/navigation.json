@@ -17003,6 +17003,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Buyer organization members",
+                    "es": "Buyer organization members",
+                    "pt": "Buyer organization members"
+                  },
+                  "slug": {
+                    "en": "buyer-organization-members",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
