@@ -61,7 +61,7 @@ Para visualizar os detalhes de uma política, na tela **Buying Policies**, cliqu
 
 ## Remover buying policy
 
-> ❗ A remoção de uma buying policy é permanente e não pode ser desfeita. As configurações são excluídas, mas seu histórico de aplicação é armazenado.
+> ❗ A remoção de uma buying policy é permanente e não pode ser desfeita. As configurações são excluídas, mas o histórico da buying policy fica armazenado para consultas futuras.
 
 1. Na página da Organizational Unit, na seção **Finance and Compliance**, clique em `Buying Policies` para acessar a tela **Buying Policies**.
 2. Na linha correspondente a buying policy desejada, clique no ícone menu > `Delete` (deletar). Ou então, na [página de detalhes](#ver-pagina-de-detalhes), clique no ícone menu > `Delete`.
