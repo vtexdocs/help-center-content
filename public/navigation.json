@@ -16270,7 +16270,7 @@
                 },
                 {
                   "name": {
-                    "en": "Creating a call center user",
+                    "en": "Creating a telesales user",
                     "es": "Crear usuario de televentas",
                     "pt": "Criar usuário de televendas"
                   },
@@ -53225,6 +53225,21 @@
                 "en": "currency-symbol-on-shelves-differs-from-website",
                 "es": "el-simbolo-de-la-moneda-en-las-estanterias-no-coincide-con-el-del-sitio-web",
                 "pt": "o-simbolo-da-moeda-nas-prateleiras-difere-do-site"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Nizza script affecting pixel apps",
+                "es": "El script Nizza afecta a las aplicaciones de píxeles.",
+                "pt": "Script Nizza afetando aplicativos pixel"
+              },
+              "slug": {
+                "en": "nizza-script-affecting-pixel-apps",
+                "es": "el-script-nizza-afecta-a-las-aplicaciones-de-pixeles",
+                "pt": "script-nizza-afetando-aplicativos-pixel"
               },
               "origin": "",
               "type": "markdown",
