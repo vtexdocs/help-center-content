@@ -42,7 +42,7 @@ Este artigo orienta os usuários no gerenciamento de buying policies e está div
 
         > ⚠️ É possível definir uma hierarquia de até cinco organizações, sendo o nível mais alto o último a revisar o pedido. Qualquer nível pode negar o pedido, mas a autorização dele depende da aprovação de todos.
 
-4. Para salvar as configurações, clique em **Add** (adicionar).
+4. Para salvar as configurações, clique em `Add` (adicionar).
 
 Feito isso, você verá a mensagem de confirmação _"Buying policy created successfully" (Buying policy criada com sucesso)_.
 
