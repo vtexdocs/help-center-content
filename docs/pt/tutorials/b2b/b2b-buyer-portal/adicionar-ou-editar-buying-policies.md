@@ -56,7 +56,7 @@ Para visualizar os detalhes de uma política, na tela **Buying Policies**, cliqu
 
 1. Na página da Organizational Unit, na seção **Finance and Compliance**, clique em `Buying Policies` para acessar a tela **Buying Policies**.
 2. Na linha correspondente a buying policy desejada, clique no ícone menu > `Edit` (editar). Ou então, na [página de detalhes](#ver-pagina-de-detalhes), clique no botão `Edit` (editar).
-3. Faça as alterações desejadas.
+3. Faça as modificações desejadas.
 4. Para salvar as alterações, clique em `Save` (salvar).
 
 ## Remover buying policy
