@@ -19,7 +19,7 @@ Além disso, para oferecer mais flexibilidade e englobar diferentes cenários de
 As regras para aprovação ou negação de pedidos podem ser criadas com base em diferentes critérios, tais como:
 
 * **Limite de gastos:** limites de gastos por pedido, garantindo que pedidos acima, abaixo ou equivalentes a determinados valores exijam aprovação.
-* **Critérios de compra:** regras específicas que determinam quando um pedido deve passar por aprovação, com base em múltiplos fatores (limites, budgets, etc.).
+* **Critérios de compra:** regras específicas que determinam quando um pedido deve passar por aprovação, com base em múltiplos fatores (limites, budgets, entre outros).
 * **Fluxo de aprovação:** processo multinível de aprovação que pode variar conforme a complexidade organizacional.
 * **Gestão de pedidos em aprovação:** acompanhamento de pedidos que estão aguardando aprovação, garantindo que somente após a aprovação eles possam prosseguir.
 
