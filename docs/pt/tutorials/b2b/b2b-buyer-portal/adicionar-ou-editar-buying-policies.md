@@ -23,8 +23,8 @@ Este artigo orienta os usuários no gerenciamento de buying policies e está div
 
 ## Adicionar buying policy
 
-1. Na página da Organizational Unit, na seção **Finance and Compliance**, clique em `Buying Policies` para acessar a tela **Buying Policies**.
-2. Clique no ícone `+` no topo da tela para adicionar uma nova buying policy.
+1. Na página da Organizational Unit, na seção **Finance and Compliance**, clique em `Buying Policies`.
+2. Na tela **Buying Policies**, clique no ícone `+` no topo da tela para adicionar uma nova política de compra.
 3. No modal **Add new buying policy**, preencha os campos, que são todos obrigatórios:
     * Em **Basic information**, defina o nome e a descrição da buying policy que aparecerá no checkout para os compradores:
         * **Name:** nome da buying policy.
@@ -54,8 +54,8 @@ Para visualizar os detalhes de uma política, na tela **Buying Policies**, cliqu
 
 ## Editar buying policy
 
-1. Na página da Organizational Unit, na seção **Finance and Compliance**, clique em `Buying Policies` para acessar a tela **Buying Policies**.
-2. Na linha correspondente a buying policy desejada, clique no ícone menu > `Edit` (editar). Ou então, na [página de detalhes](#ver-pagina-de-detalhes), clique no botão `Edit` (editar).
+1. Na página da Organizational Unit, na seção **Finance and Compliance**, clique em `Buying Policies`.
+2. Na tela **Buying Policies**, na linha correspondente à opção desejada, clique no ícone menu > `Edit` (editar). Ou então, na [página de detalhes](#ver-pagina-de-detalhes) da buying policy, clique em `Edit` (editar).
 3. Faça as modificações desejadas.
 4. Para salvar as alterações, clique em `Save` (salvar).
 
@@ -63,11 +63,11 @@ Para visualizar os detalhes de uma política, na tela **Buying Policies**, cliqu
 
 > ❗ A remoção de uma buying policy é permanente e não pode ser desfeita. As configurações são excluídas, mas o histórico da buying policy fica armazenado para consultas futuras.
 
-1. Na página da Organizational Unit, na seção **Finance and Compliance**, clique em `Buying Policies` para acessar a tela **Buying Policies**.
-2. Na linha correspondente a buying policy desejada, clique no ícone menu > `Delete` (deletar). Ou então, na [página de detalhes](#ver-pagina-de-detalhes), clique no ícone menu > `Delete`.
+1. Na página da Organizational Unit, na seção **Finance and Compliance**, clique em `Buying Policies`.
+2. Na página **Buying Policies**, na linha correspondente à opção desejada, clique no ícone menu > `Delete` (deletar). Ou então, na [página de detalhes](#ver-pagina-de-detalhes) da buying policy, clique em menu > `Delete`.
 3. No modal aberto, preencha o nome da buying policy a ser removida.
 4. Para confirmar a exclusão, clique em `Delete`.
 
-Feito isso, você verá a mensagem de confirmação _"Buying policy removed successfully"_ e, ao retornar à tela principal, a opção terá sumido.
+Feito isso, você verá a mensagem de confirmação _"Buying policy removed successfully" (Buying policy removida com sucesso)_ e, ao retornar à tela principal, a opção terá sumido.
 
 > ℹ️ Caso queira gerenciar regras de autorização de pedidos via API, acesse [Buying Policies API](https://developers.vtex.com/docs/api-reference/buying-policies-api), e confira o guia para desenvolvedores [Buying Policies](https://developers.vtex.com/docs/guides/buying-policies).
