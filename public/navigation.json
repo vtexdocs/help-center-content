@@ -117,13 +117,13 @@
                 {
                   "name": {
                     "en": "Granular permissions for Seller Register and Marketplace Network",
-                    "es": "Permisos granulares para Seller Register y Marketplace Network",
-                    "pt": "Permissões granulares para Seller Register e Marketplace Network"
+                    "es": "Granular permissions for Seller Register and Marketplace Network",
+                    "pt": "Granular permissions for Seller Register and Marketplace Network"
                   },
                   "slug": {
                     "en": "2025-12-23-granular-permissions-seller-marketplace-network",
-                    "es": "2025-12-23-permisos-granulares-seller-marketplace-network",
-                    "pt": "2025-12-23-permissoes-granulares-seller-marketplace-network"
+                    "es": "",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -169,6 +169,37 @@
                     "en": "2025-12-02-breaking-change-livelo-new-mandatory-permission",
                     "es": "2025-12-02-breaking-change-livelo-nuevo-permiso-obligatorio",
                     "pt": "2025-12-02-breaking-change-livelo-nova-permissao-obrigatoria"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Diciembre",
+                "es": "Diciembre",
+                "pt": "Dezembro"
+              },
+              "slug": {
+                "en": "diciembre",
+                "es": "2025-diciembre",
+                "pt": "2025-dezembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "Permisos granulares para Seller Register y Marketplace Network",
+                    "pt": "Permissões granulares para Seller Register e Marketplace Network",
+                    "en": "Permisos granulares para Seller Register y Marketplace Network"
+                  },
+                  "slug": {
+                    "es": "2025-12-23-permisos-granulares-seller-marketplace-network",
+                    "pt": "2025-12-23-permissoes-granulares-seller-marketplace-network",
+                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
