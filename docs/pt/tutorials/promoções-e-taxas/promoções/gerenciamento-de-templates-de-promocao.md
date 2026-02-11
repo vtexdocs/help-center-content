@@ -14,7 +14,7 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 
 Os **templates de promoção** permitem ao lojista salvar configurações recorrentes para reutilização na criação de novas promoções. Essa abordagem reduz o tempo de configuração e garante consistência entre promoções com regras semelhantes.
 
-Um template funciona como um modelo base: ao aplicá-lo, o formulário de criação da promoção é automaticamente preenchido com as configurações previamente salvas.
+Um template funciona como um modelo base ao aplicá-lo, o formulário de criação da promoção é automaticamente preenchido com as configurações previamente salvas.
 
 ## Criar template vazio
 
@@ -41,7 +41,7 @@ Siga as etapas abaixo para acessar a área de templates de promoção no Admin V
 
 Após a criação, o template fica disponível na aba **Templates**, acessível em **Promoções > Promoções > Criar promoção > Templates**.
 
-> O formulário usado no processo permanece sendo um formulário de promoção e não é convertido automaticamente em template. Caso a promoção tenha um orçamento configurado, essa configuração não é salva no template.
+> ℹ️ O formulário usado no processo permanece sendo um formulário de promoção e não é convertido automaticamente em template. Caso a promoção tenha um orçamento configurado, essa configuração não é salva no template.
 
 ## Criar uma promoção a partir de um template
 
