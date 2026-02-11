@@ -28,7 +28,7 @@ Este artigo orienta os usuários no gerenciamento de buying policies e está div
 3. No modal **Add new buying policy**, preencha os campos, que são todos obrigatórios:
     * Em **Basic information**, defina o nome e a descrição da buying policy que aparecerá no checkout para os compradores:
         * **Name:** nome da buying policy.
-        * **Description:** explicação breve do funcionamento da buying policy, limitada a X caracteres. Ao criar uma boa descrição, os usuários que interagirem com essa política de compra têm maiores chances de entender os motivos pelos quais um pedido foi negado ou precisou de aprovação manual.
+        * **Description:** explicação breve do funcionamento da buying policy. Ao criar uma boa descrição, os usuários que interagirem com essa política de compra têm maiores chances de entender os motivos pelos quais um pedido foi negado ou precisou de aprovação manual.
     * Em **Criteria**, defina os critérios que resultam na aplicação da buying policy. Para isso, preencha o campo com uma expressão no formato [JSONata](https://jsonata.org/), tal como `score ≥ 10`. É possível selecionar o critério desejado e apenas editar os valores desejados (destacados em roxo):
         * **Set spending limit criteria (definir critério de preço):** opções de aprovação ou negação de pedidos com base no preço do pedido. Por exemplo, se o pedido é maior, menor ou igual a determinado valor.
         * **Set order field criteria (definir critério de aspectos do pedido):** opções de aprovação ou negação de pedidos a partir de condições e características do pedido. Por exemplo, se ele tem itens restritos, ou se possui um centro de custo (cost center) específico.
