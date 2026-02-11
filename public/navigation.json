@@ -40763,12 +40763,12 @@
               "name": {
                 "en": "Catalog Error exporting the report",
                 "es": "Catálogo Error al exportar el informe",
-                "pt": "Catalog Erro ao exportar o relatório"
+                "pt": "Catálogo Erro ao exportar o relatório"
               },
               "slug": {
                 "en": "catalog-error-exporting-the-report",
                 "es": "catalogo-error-al-exportar-el-informe",
-                "pt": "catalog-erro-ao-exportar-o-relatorio"
+                "pt": "catalogo-erro-ao-exportar-o-relatorio"
               },
               "origin": "",
               "type": "markdown",
@@ -40882,13 +40882,13 @@
             {
               "name": {
                 "en": "catalog Image import spreadsheet does not replace the Label",
-                "es": "catálogo La hoja de cálculo de importación de imágenes no sustituye a la etiqueta",
-                "pt": "catalog A planilha de importação de imagens não substitui o rótulo"
+                "es": "catálogo La hoja de cálculo de importación de imágenes no sustituye a la etiqueta.",
+                "pt": "catálogo A planilha de importação de imagens não substitui a etiqueta"
               },
               "slug": {
                 "en": "catalog-image-import-spreadsheet-does-not-replace-the-label",
                 "es": "catalogo-la-hoja-de-calculo-de-importacion-de-imagenes-no-sustituye-a-la-etiqueta",
-                "pt": "catalog-a-planilha-de-importacao-de-imagens-nao-substitui-o-rotulo"
+                "pt": "catalogo-a-planilha-de-importacao-de-imagens-nao-substitui-a-etiqueta"
               },
               "origin": "",
               "type": "markdown",
@@ -41047,12 +41047,12 @@
             {
               "name": {
                 "en": "Catalog SKU Specification Export will not always export all the data if the selected category is a department",
-                "es": "La exportación de especificaciones de SKU de catálogo no siempre exportará todos los datos si la categoría seleccionada es un departamento.",
-                "pt": "A exportação de especificações de SKU do catálogo nem sempre exportará todos os dados se a categoria selecionada for um departamento"
+                "es": "La exportación de especificaciones de SKU del catálogo no siempre exportará todos los datos si la categoría seleccionada es un departamento.",
+                "pt": "A exportação de especificações de SKU do catálogo nem sempre exportará todos os dados se a categoria selecionada for um departamento."
               },
               "slug": {
                 "en": "catalog-sku-specification-export-will-not-always-export-all-the-data-if-the-selected-category-is-a-department",
-                "es": "la-exportacion-de-especificaciones-de-sku-de-catalogo-no-siempre-exportara-todos-los-datos-si-la-categoria-seleccionada-es-un-departamento",
+                "es": "la-exportacion-de-especificaciones-de-sku-del-catalogo-no-siempre-exportara-todos-los-datos-si-la-categoria-seleccionada-es-un-departamento",
                 "pt": "a-exportacao-de-especificacoes-de-sku-do-catalogo-nem-sempre-exportara-todos-os-dados-se-a-categoria-selecionada-for-um-departamento"
               },
               "origin": "",
@@ -43574,6 +43574,21 @@
                 "en": "specification-value-ordering-is-not-saved",
                 "es": "la-ordenacion-de-los-valores-de-las-especificaciones-no-se-guarda",
                 "pt": "a-ordenacao-de-valores-de-especificacao-nao-e-salva"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "SpecificationCode in the ProductSpecification export only shows code for one value",
+                "es": "El código de especificación en la exportación ProductSpecification solo muestra el código de un valor.",
+                "pt": "O código de especificação na exportação ProductSpecification mostra apenas o código para um valor"
+              },
+              "slug": {
+                "en": "specificationcode-in-the-productspecification-export-only-shows-code-for-one-value",
+                "es": "el-codigo-de-especificacion-en-la-exportacion-productspecification-solo-muestra-el-codigo-de-un-valor",
+                "pt": "o-codigo-de-especificacao-na-exportacao-productspecification-mostra-apenas-o-codigo-para-um-valor"
               },
               "origin": "",
               "type": "markdown",
@@ -50306,12 +50321,12 @@
             {
               "name": {
                 "en": "Mercado Livre Os atributos seller_package_height, seller_package_width, seller_package_length e seller_package_weight são obrigatórios.",
-                "es": "Mercado Libre Los atributos altura_paquete_vendedor, anchura_paquete_vendedor, longitud_paquete_vendedor y peso_paquete_vendedor son obligatorios.",
+                "es": "Mercado Libre Los atributos seller_package_height, seller_package_width, seller_package_length y seller_package_weight son obligatorios.",
                 "pt": "Mercado Livre Os atributos seller_package_height, seller_package_width, seller_package_length e seller_package_weight são obrigatórios."
               },
               "slug": {
                 "en": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios",
-                "es": "mercado-libre-los-atributos-alturapaquetevendedor-anchurapaquetevendedor-longitudpaquetevendedor-y-pesopaquetevendedor-son-obligatorios",
+                "es": "mercado-libre-los-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-y-sellerpackageweight-son-obligatorios",
                 "pt": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios"
               },
               "origin": "",
