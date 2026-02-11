@@ -40054,21 +40054,6 @@
           "children": [
             {
               "name": {
-                "en": "'Large Indexed Text' and 'Indexed Text' not being changed by Specification Import",
-                "es": "'Texto grande indexado' y 'Texto indexado' no se modifican con la importación de la especificación",
-                "pt": "'Texto Grande Indexado' e 'Texto Indexado' não sendo alterados pela Importação de Especificação"
-              },
-              "slug": {
-                "en": "large-indexed-text-and-indexed-text-not-being-changed-by-specification-import",
-                "es": "texto-grande-indexado-y-texto-indexado-no-se-modifican-con-la-importacion-de-la-especificacion",
-                "pt": "texto-grande-indexado-e-texto-indexado-nao-sendo-alterados-pela-importacao-de-especificacao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "'maximum number of eligible items for each cart' + more for less applies incorrect discount when using the same item.",
                 "es": "'número máximo de artículos elegibles para cada cesta' + más por menos aplica un descuento incorrecto al utilizar el mismo artículo.",
                 "pt": "'número máximo de itens qualificados para cada carrinho' + more for less aplica desconto incorreto ao usar o mesmo item."
@@ -40137,6 +40122,21 @@
                 "en": "url-logo-field-in-the-update-seller-request-not-updating",
                 "es": "el-campo-url-logo-en-la-solicitud-de-actualizacion-del-vendedor-no-se-actualiza",
                 "pt": "campo-url-logo-no-campo-update-seller-request-not-updating"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "\"Large Indexed Text\" and \"Indexed Text\" not being changed by Specification Import",
+                "es": "«Texto indexado grande» y «Texto indexado» no se modifican al importar especificaciones.",
+                "pt": "“Texto indexado grande” e “Texto indexado” não são alterados pela importação de especificações"
+              },
+              "slug": {
+                "en": "large-indexed-text-and-indexed-text-not-being-changed-by-specification-import",
+                "es": "texto-indexado-grande-y-texto-indexado-no-se-modifican-al-importar-especificaciones",
+                "pt": "texto-indexado-grande-e-texto-indexado-nao-sao-alterados-pela-importacao-de-especificacoes"
               },
               "origin": "",
               "type": "markdown",
@@ -40656,12 +40656,12 @@
               "name": {
                 "en": "Catalog Error exporting the report",
                 "es": "Catálogo Error al exportar el informe",
-                "pt": "Catalog Erro ao exportar o relatório"
+                "pt": "Catálogo Erro ao exportar o relatório"
               },
               "slug": {
                 "en": "catalog-error-exporting-the-report",
                 "es": "catalogo-error-al-exportar-el-informe",
-                "pt": "catalog-erro-ao-exportar-o-relatorio"
+                "pt": "catalogo-erro-ao-exportar-o-relatorio"
               },
               "origin": "",
               "type": "markdown",
@@ -40775,13 +40775,13 @@
             {
               "name": {
                 "en": "catalog Image import spreadsheet does not replace the Label",
-                "es": "catálogo La hoja de cálculo de importación de imágenes no sustituye a la etiqueta",
-                "pt": "catalog A planilha de importação de imagens não substitui o rótulo"
+                "es": "catálogo La hoja de cálculo de importación de imágenes no sustituye a la etiqueta.",
+                "pt": "catálogo A planilha de importação de imagens não substitui a etiqueta"
               },
               "slug": {
                 "en": "catalog-image-import-spreadsheet-does-not-replace-the-label",
                 "es": "catalogo-la-hoja-de-calculo-de-importacion-de-imagenes-no-sustituye-a-la-etiqueta",
-                "pt": "catalog-a-planilha-de-importacao-de-imagens-nao-substitui-o-rotulo"
+                "pt": "catalogo-a-planilha-de-importacao-de-imagens-nao-substitui-a-etiqueta"
               },
               "origin": "",
               "type": "markdown",
@@ -40940,12 +40940,12 @@
             {
               "name": {
                 "en": "Catalog SKU Specification Export will not always export all the data if the selected category is a department",
-                "es": "La exportación de especificaciones de SKU de catálogo no siempre exportará todos los datos si la categoría seleccionada es un departamento.",
-                "pt": "A exportação de especificações de SKU do catálogo nem sempre exportará todos os dados se a categoria selecionada for um departamento"
+                "es": "La exportación de especificaciones de SKU del catálogo no siempre exportará todos los datos si la categoría seleccionada es un departamento.",
+                "pt": "A exportação de especificações de SKU do catálogo nem sempre exportará todos os dados se a categoria selecionada for um departamento."
               },
               "slug": {
                 "en": "catalog-sku-specification-export-will-not-always-export-all-the-data-if-the-selected-category-is-a-department",
-                "es": "la-exportacion-de-especificaciones-de-sku-de-catalogo-no-siempre-exportara-todos-los-datos-si-la-categoria-seleccionada-es-un-departamento",
+                "es": "la-exportacion-de-especificaciones-de-sku-del-catalogo-no-siempre-exportara-todos-los-datos-si-la-categoria-seleccionada-es-un-departamento",
                 "pt": "a-exportacao-de-especificacoes-de-sku-do-catalogo-nem-sempre-exportara-todos-os-dados-se-a-categoria-selecionada-for-um-departamento"
               },
               "origin": "",
@@ -43474,6 +43474,21 @@
             },
             {
               "name": {
+                "en": "SpecificationCode in the ProductSpecification export only shows code for one value",
+                "es": "El código de especificación en la exportación ProductSpecification solo muestra el código de un valor.",
+                "pt": "O código de especificação na exportação ProductSpecification mostra apenas o código para um valor"
+              },
+              "slug": {
+                "en": "specificationcode-in-the-productspecification-export-only-shows-code-for-one-value",
+                "es": "el-codigo-de-especificacion-en-la-exportacion-productspecification-solo-muestra-el-codigo-de-un-valor",
+                "pt": "o-codigo-de-especificacao-na-exportacao-productspecification-mostra-apenas-o-codigo-para-um-valor"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "stockkeepingunit catalog API allows invalid commercial condition values",
                 "es": "La API del catálogo stockkeepingunit permite valores de condición comercial no válidos",
                 "pt": "A API do catálogo stockkeepingunit permite valores de condição comercial inválidos"
@@ -44901,14 +44916,14 @@
             },
             {
               "name": {
-                "en": "Checkout has no clarity about divergences between the identified and the logged in customer",
-                "es": "El proceso de pago no deja claras las divergencias entre el cliente identificado y el registrado",
-                "pt": "O checkout não tem clareza sobre as divergências entre o cliente identificado e o cliente conectado"
+                "en": "Checkout has no clarity about divergences between the customer identified in the cart and the user logged in to the store",
+                "es": "El proceso de pago no aclara las divergencias entre el cliente identificado en el carrito y el usuario que ha iniciado sesión en la tienda.",
+                "pt": "O checkout não apresenta clareza sobre divergências entre o cliente identificado no carrinho e o usuário conectado à loja."
               },
               "slug": {
-                "en": "checkout-has-no-clarity-about-divergences-between-the-identified-and-the-logged-in-customer",
-                "es": "el-proceso-de-pago-no-deja-claras-las-divergencias-entre-el-cliente-identificado-y-el-registrado",
-                "pt": "o-checkout-nao-tem-clareza-sobre-as-divergencias-entre-o-cliente-identificado-e-o-cliente-conectado"
+                "en": "checkout-has-no-clarity-about-divergences-between-the-customer-identified-in-the-cart-and-the-user-logged-in-to-the-store",
+                "es": "el-proceso-de-pago-no-aclara-las-divergencias-entre-el-cliente-identificado-en-el-carrito-y-el-usuario-que-ha-iniciado-sesion-en-la-tienda",
+                "pt": "o-checkout-nao-apresenta-clareza-sobre-divergencias-entre-o-cliente-identificado-no-carrinho-e-o-usuario-conectado-a-loja"
               },
               "origin": "",
               "type": "markdown",
@@ -49208,6 +49223,21 @@
             },
             {
               "name": {
+                "en": "Amazon Listing Alguns skus não são integrados devido ao erro no atributo \"color#?.value\" field 'standardized_values'",
+                "es": "Amazon Listado Algunos skus no se integran debido al error en el atributo «color#?.value» del campo «standardized_values».",
+                "pt": "Amazon Listing Alguns skus não são integrados devido ao erro no atributo \"color#?.value\" field 'standardized_values'"
+              },
+              "slug": {
+                "en": "amazon-listing-alguns-skus-nao-sao-integrados-devido-ao-erro-no-atributo-colorvalue-field-standardizedvalues",
+                "es": "amazon-listado-algunos-skus-no-se-integran-debido-al-error-en-el-atributo-colorvalue-del-campo-standardizedvalues",
+                "pt": "amazon-listing-alguns-skus-nao-sao-integrados-devido-ao-erro-no-atributo-colorvalue-field-standardizedvalues"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Amazon Listing Required attribute not rendered in Amazon Listing UI prevents product submission",
                 "es": "Amazon Listing Atributo obligatorio no mostrado en la interfaz de usuario de Amazon Listing impide el envío de productos",
                 "pt": "Amazon Listagem Atributo obrigatório não renderizado na interface do usuário da listagem da Amazon impede o envio de produtos"
@@ -49231,6 +49261,21 @@
                 "en": "amazon-listing-returns-code-13013-preventing-sku-creation",
                 "es": "amazon-listado-codigo-de-devolucion-13013-que-impide-la-creacion-de-sku",
                 "pt": "amazon-listagem-codigo-de-devolucao-13013-impedindo-a-criacao-de-sku"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon Listing Some SKUs aren't integrated due to an error in the attribute.\"color#?.value\" field 'standardized_values'",
+                "es": "Amazon Listado Algunos SKU no están integrados debido a un error en el campo «color#?.value» del atributo «standardized_values».",
+                "pt": "Amazon Listagem Alguns SKUs não estão integrados devido a um erro no campo \"color#?.value\" do atributo \"standardized_values\"."
+              },
+              "slug": {
+                "en": "amazon-listing-some-skus-arent-integrated-due-to-an-error-in-the-attributecolorvalue-field-standardizedvalues",
+                "es": "amazon-listado-algunos-sku-no-estan-integrados-debido-a-un-error-en-el-campo-colorvalue-del-atributo-standardizedvalues",
+                "pt": "amazon-listagem-alguns-skus-nao-estao-integrados-devido-a-um-erro-no-campo-colorvalue-do-atributo-standardizedvalues"
               },
               "origin": "",
               "type": "markdown",
@@ -50169,12 +50214,12 @@
             {
               "name": {
                 "en": "Mercado Livre Os atributos seller_package_height, seller_package_width, seller_package_length e seller_package_weight são obrigatórios.",
-                "es": "Mercado Libre Los atributos altura_paquete_vendedor, anchura_paquete_vendedor, longitud_paquete_vendedor y peso_paquete_vendedor son obligatorios.",
+                "es": "Mercado Libre Los atributos seller_package_height, seller_package_width, seller_package_length y seller_package_weight son obligatorios.",
                 "pt": "Mercado Livre Os atributos seller_package_height, seller_package_width, seller_package_length e seller_package_weight são obrigatórios."
               },
               "slug": {
                 "en": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios",
-                "es": "mercado-libre-los-atributos-alturapaquetevendedor-anchurapaquetevendedor-longitudpaquetevendedor-y-pesopaquetevendedor-son-obligatorios",
+                "es": "mercado-libre-los-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-y-sellerpackageweight-son-obligatorios",
                 "pt": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios"
               },
               "origin": "",
@@ -53256,6 +53301,21 @@
                 "en": "currency-symbol-on-shelves-differs-from-website",
                 "es": "el-simbolo-de-la-moneda-en-las-estanterias-no-coincide-con-el-del-sitio-web",
                 "pt": "o-simbolo-da-moeda-nas-prateleiras-difere-do-site"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Nizza script affecting pixel apps",
+                "es": "El script Nizza afecta a las aplicaciones de píxeles.",
+                "pt": "Script Nizza afetando aplicativos pixel"
+              },
+              "slug": {
+                "en": "nizza-script-affecting-pixel-apps",
+                "es": "el-script-nizza-afecta-a-las-aplicaciones-de-pixeles",
+                "pt": "script-nizza-afetando-aplicativos-pixel"
               },
               "origin": "",
               "type": "markdown",
@@ -61687,6 +61747,21 @@
             },
             {
               "name": {
+                "en": "Transaction stuck in \"Cancelling\" when payments are \"Finished\"",
+                "es": "La transacción se queda bloqueada en «Cancelando» cuando los pagos están «Finalizados».",
+                "pt": "Transação presa em “Cancelando” quando os pagamentos estão “Concluídos”"
+              },
+              "slug": {
+                "en": "transaction-stuck-in-cancelling-when-payments-are-finished",
+                "es": "la-transaccion-se-queda-bloqueada-en-cancelando-cuando-los-pagos-estan-finalizados",
+                "pt": "transacao-presa-em-cancelando-quando-os-pagamentos-estao-concluidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction stuck in Approved while payment remains Settling when using partial settlements",
                 "es": "Transacción atascada en Aprobado mientras el pago permanece Liquidando cuando se utilizan liquidaciones parciales.",
                 "pt": "Transação presa em Aprovado enquanto o pagamento permanece Liquidado ao usar liquidações parciais"
@@ -65413,6 +65488,21 @@
           "origin": "",
           "type": "category",
           "children": [
+            {
+              "name": {
+                "en": "Apps using masterdater builder 2.x may fail to identify schemas after a install",
+                "es": "Las aplicaciones que utilizan Masterdater Builder 2.x pueden no identificar los esquemas después de una instalación.",
+                "pt": "Os aplicativos que utilizam o Masterdater Builder 2.x podem não conseguir identificar esquemas após a instalação."
+              },
+              "slug": {
+                "en": "apps-using-masterdater-builder-2x-may-fail-to-identify-schemas-after-a-install",
+                "es": "las-aplicaciones-que-utilizan-masterdater-builder-2x-pueden-no-identificar-los-esquemas-despues-de-una-instalacion",
+                "pt": "os-aplicativos-que-utilizam-o-masterdater-builder-2x-podem-nao-conseguir-identificar-esquemas-apos-a-instalacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
             {
               "name": {
                 "en": "Boolean filter on Form Application does not work properly",
