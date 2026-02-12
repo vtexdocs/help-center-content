@@ -16,16 +16,17 @@ subcategoryId: 3PNmhq67KMmGTBSfIWJdcQ
 order: 1
 ---
 
-Storefront is the graphical interface through which visitors interact with a store website. It defines the user experience and the visual identity of the website through graphic components, typography, and color palette. These elements are customizable and can be managed through the Content Management System (CMS).
+Storefront is the graphical interface through which visitors interact with a store's website. It defines the user experience and the visual identity of the website through graphic components, typography, and color palette. These elements are customizable and can be managed through the Content Management System (CMS).
 
-The storefront also includes VTEX Intelligent Search, a tool that helps customers in their buying journey by delivering search results as soon as they start interacting with the search bar.
+The storefront also includes VTEX Intelligent Search, a tool that helps customers throughout their buying journey by delivering search results as soon as they start typing in the search bar.
 
 These operations are performed in the Storefront menu of your VTEX Admin. 
 
 See below for the different sections and pages in this menu.
 
 ## Content Management
-The Content Management section concentrates the tools you need to create, edit, and publish web content to the storefront. 
+
+The Content Management section provides the tools you need to create, edit, and publish content to your storefront.
 
 The section includes the following pages:
 
