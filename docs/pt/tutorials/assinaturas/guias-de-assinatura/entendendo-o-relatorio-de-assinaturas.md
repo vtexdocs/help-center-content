@@ -17,10 +17,10 @@ subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 
 O relatório de assinaturas é um documento em formato `.csv` com informações sobre as assinaturas, como data da criação, email do cliente, SKUs ativos da assinatura, entre outros dados.
 
-Você pode gerar o relatório utilizando o endpoint [Generate 
-report](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3?endpoint=post-/api/rns/pvt/reports/-reportName-/documents).
+Você pode gerar o relatório utilizando o endpoint [Generate report](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3?endpoint=post-/api/rns/pvt/reports/-reportName-/documents).
 
 Existem os seguintes tipos de relatórios:
+
 - [Assinaturas com status](#assinaturas-com-status)
 - [Assinaturas programadas entre datas](#assinaturas-programadas-entre-datas)
 - [Assinaturas atualizadas entre datas](#assinaturas-atualizadas-entre-datas)
@@ -32,18 +32,19 @@ Existem os seguintes tipos de relatórios:
 Neste artigo, você saberá mais detalhes sobre cada informação que os diferentes tipos de relatório de assinaturas retornam.
 
 ## Assinaturas com status
+
 O relatório `subscriptionsWithStatus` retorna dados de assinaturas com base no status da execução do ciclo.
 
 As colunas correspondem a uma informação específica sobre a assinatura, conforme descrito abaixo.
 
 | **Nome do campo** | **Descrição** |
-| :---:  | :--- |
+| :---: | :--- |
 | ID | ID da assinatura. |
 | Customer Email | Email do cliente. |
 | Customer Id | ID do cliente. |
-| Status |  Status da assinatura no momento de gerar o relatório.   `TRIGGERED`: Uma execução do ciclo de assinatura foi acionada.   `IN_PROCESS`: A assinatura está sendo processada pelo sistema (status temporário).   `FAILURE`: Ocorreu um erro interno na execução da assinatura.   `SUCCESS`: O ciclo de assinatura foi processado com sucesso.   `EXPIRED`: A assinatura não foi renovada e ultrapassou a data limite vigente.   `ORDER_ERROR`: O ciclo de assinatura não foi executado devido a um erro no _place order_ do pedido.   `PAYMENT_ERROR`: O ciclo de assinatura não foi executado devido a um erro no pagamento.   `SKIPED`: Uma execução de ciclo de assinatura foi ignorada e a assinatura será executada no próximo ciclo.   `SUCCESS_WITH_NO_ORDER`: Um ciclo de assinatura foi executado com sucesso e o pedido atrelado não possui itens.   `SUCCESS_WITH_PARTIAL_ORDER`: Um ciclo de assinatura foi executado com sucesso e possui um pedido parcial atrelado.   `RE_TRIGGERED`:  Uma re-execução de ciclo da assinatura foi acionada manualmente.   `SCHEDULE_UPDATED`: A data da próxima execução de ciclo da assinatura foi atualizada.  
-| Has Active Items |  Informa se a assinatura tem itens ativos.   `TRUE`: Tem itens ativos.   `FALSE`: Não tem itens ativos.  
-| Is Skipped |  Informa se o ciclo da assinatura será pulado.   `TRUE`: O ciclo será pulado.   `FALSE`: O ciclo não será pulado.  
+| Status | Status da assinatura no momento de gerar o relatório. <br> `TRIGGERED`: Uma execução do ciclo de assinatura foi acionada. <br> `IN_PROCESS`: A assinatura está sendo processada pelo sistema (status temporário). <br> `FAILURE`: Ocorreu um erro interno na execução da assinatura. <br> `SUCCESS`: O ciclo de assinatura foi processado com sucesso. <br> `EXPIRED`: A assinatura não foi renovada e ultrapassou a data limite vigente. <br> `ORDER_ERROR`: O ciclo de assinatura não foi executado devido a um erro no _place order_ do pedido. <br> `PAYMENT_ERROR`: O ciclo de assinatura não foi executado devido a um erro no pagamento. <br> `SKIPED`: Uma execução de ciclo de assinatura foi ignorada e a assinatura será executada no próximo ciclo. <br> `SUCCESS_WITH_NO_ORDER`: Um ciclo de assinatura foi executado com sucesso e o pedido atrelado não possui itens. <br> `SUCCESS_WITH_PARTIAL_ORDER`: Um ciclo de assinatura foi executado com sucesso e possui um pedido parcial atrelado. <br> `RE_TRIGGERED`: Uma re-execução de ciclo da assinatura foi acionada manualmente. <br> `SCHEDULE_UPDATED`: A data da próxima execução de ciclo da assinatura foi atualizada. |
+| Has Active Items | Informa se a assinatura tem itens ativos. <br> `TRUE`: Tem itens ativos. <br> `FALSE`: Não tem itens ativos. |
+| Is Skipped | Informa se o ciclo da assinatura será pulado. <br> `TRUE`: O ciclo será pulado. <br> `FALSE`: O ciclo não será pulado. |
 | Next Purchase Date | Data da próxima compra. |
 | Last Purchase Date | Data da última compra. |
 | Periodicity | Periodicidade da assinatura. |
@@ -63,23 +64,24 @@ As colunas correspondem a uma informação específica sobre a assinatura, confo
 | Subscriptions Item Sku Id | SKU dos itens da assinatura. |
 | Subscriptions Item PriceAtSubscriptionDate | Valor dos itens no momento da assinatura. |
 | Subscriptions Item Quantity | Quantidade de itens na assinatura. |
-| Subscriptions Item Is Skipped |  Informa se os itens serão pulados.   `TRUE`: Os itens serão pulados.   `FALSE`: Os itens serão ser pulados.  
+| Subscriptions Item Is Skipped | Informa se os itens serão pulados. <br> `TRUE`: Os itens serão pulados. <br> `FALSE`: Os itens serão ser pulados. |
 | Subscriptions Item Cycle | Ciclo dos itens da assinatura. |
-| Subscriptions Item OriginalOrder | Pedido original dos itens da assinatura. | 
+| Subscriptions Item OriginalOrder | Pedido original dos itens da assinatura. |
 
 ## Assinaturas programadas entre datas
+
 O relatório `subscriptionsScheduledBetweenDate` retorna dados de assinaturas programadas entre um período de datas.
 
 As colunas correspondem a uma informação específica sobre a assinatura, conforme descrito abaixo.
 
 | **Nome do campo** | **Descrição** |
-| :---:  | :--- |
+| :---: | :--- |
 | ID | ID da assinatura. |
 | Customer Email | Email do cliente. |
 | Customer Id | ID do cliente. |
-| Status |  Status da assinatura no momento de gerar o relatório.   `TRIGGERED`: Uma execução do ciclo de assinatura foi acionada.   `IN_PROCESS`: A assinatura está sendo processada pelo sistema (status temporário).   `FAILURE`: Ocorreu um erro interno na execução da assinatura.   `SUCCESS`: O ciclo de assinatura foi processado com sucesso.   `EXPIRED`: A assinatura não foi renovada e ultrapassou a data limite vigente.   `ORDER_ERROR`: O ciclo de assinatura não foi executado devido a um erro no _place order_ do pedido.   `PAYMENT_ERROR`: O ciclo de assinatura não foi executado devido a um erro no pagamento.   `SKIPED`: Uma execução de ciclo de assinatura foi ignorada e a assinatura será executada no próximo ciclo.   `SUCCESS_WITH_NO_ORDER`: Um ciclo de assinatura foi executado com sucesso e o pedido atrelado não possui itens.   `SUCCESS_WITH_PARTIAL_ORDER`: Um ciclo de assinatura foi executado com sucesso e possui um pedido parcial atrelado.   `RE_TRIGGERED`:  Uma re-execução de ciclo da assinatura foi acionada manualmente.   `SCHEDULE_UPDATED`: A data da próxima execução de ciclo da assinatura foi atualizada.  
-| Has Active Items |  Informa se a assinatura tem itens ativos.   `TRUE`: Tem itens ativos.   `FALSE`: Não tem itens ativos.  
-| Is Skipped |  Informa se o ciclo da assinatura será pulado.   `TRUE`: O ciclo será pulado.   `FALSE`: O ciclo não será pulado.  
+| Status | Status da assinatura no momento de gerar o relatório. <br> `TRIGGERED`: Uma execução do ciclo de assinatura foi acionada. <br> `IN_PROCESS`: A assinatura está sendo processada pelo sistema (status temporário). <br> `FAILURE`: Ocorreu um erro interno na execução da assinatura. <br> `SUCCESS`: O ciclo de assinatura foi processado com sucesso. <br> `EXPIRED`: A assinatura não foi renovada e ultrapassou a data limite vigente. <br> `ORDER_ERROR`: O ciclo de assinatura não foi executado devido a um erro no _place order_ do pedido. <br> `PAYMENT_ERROR`: O ciclo de assinatura não foi executado devido a um erro no pagamento. <br> `SKIPED`: Uma execução de ciclo de assinatura foi ignorada e a assinatura será executada no próximo ciclo. <br> `SUCCESS_WITH_NO_ORDER`: Um ciclo de assinatura foi executado com sucesso e o pedido atrelado não possui itens. <br> `SUCCESS_WITH_PARTIAL_ORDER`: Um ciclo de assinatura foi executado com sucesso e possui um pedido parcial atrelado. <br> `RE_TRIGGERED`: Uma re-execução de ciclo da assinatura foi acionada manualmente. <br> `SCHEDULE_UPDATED`: A data da próxima execução de ciclo da assinatura foi atualizada. |
+| Has Active Items | Informa se a assinatura tem itens ativos. <br> `TRUE`: Tem itens ativos. <br> `FALSE`: Não tem itens ativos. |
+| Is Skipped | Informa se o ciclo da assinatura será pulado. <br> `TRUE`: O ciclo será pulado. <br> `FALSE`: O ciclo não será pulado. |
 | Next Purchase Date | Data da próxima compra. |
 | Last Purchase Date | Data da última compra. |
 | Periodicity | Periodicidade da assinatura. |
@@ -99,23 +101,24 @@ As colunas correspondem a uma informação específica sobre a assinatura, confo
 | Subscriptions Item Sku Id | SKU dos itens da assinatura. |
 | Subscriptions Item PriceAtSubscriptionDate | Valor dos itens no momento da assinatura. |
 | Subscriptions Item Quantity | Quantidade de itens na assinatura. |
-| Subscriptions Item Is Skipped |  Informa se os itens serão pulados.   `TRUE`: Os itens serão pulados.   `FALSE`: Os itens não serão pulados.  
+| Subscriptions Item Is Skipped | Informa se os itens serão pulados. <br> `TRUE`: Os itens serão pulados. <br> `FALSE`: Os itens não serão pulados. |
 | Subscriptions Item Cycle | Ciclo dos itens da assinatura. |
-| Subscriptions Item OriginalOrder | Pedido original dos itens da assinatura. | 
+| Subscriptions Item OriginalOrder | Pedido original dos itens da assinatura. |
 
 ## Assinaturas atualizadas entre datas
+
 O relatório `subscriptionsUpdatedBetweenDate` retorna dados de assinaturas atualizadas entre um período de datas.
 
 As colunas correspondem a uma informação específica sobre a assinatura, conforme descrito abaixo.
 
 | **Nome do campo** | **Descrição** |
-| :---:  | :--- |
+| :---: | :--- |
 | ID | ID da assinatura. |
 | Customer Email | Email do cliente. |
 | Customer Id | ID do cliente. |
-| Status |  Status da assinatura no momento de gerar o relatório.   `TRIGGERED`: Uma execução do ciclo de assinatura foi acionada.   `IN_PROCESS`: A assinatura está sendo processada pelo sistema (status temporário).   `FAILURE`: Ocorreu um erro interno na execução da assinatura.   `SUCCESS`: O ciclo de assinatura foi processado com sucesso.   `EXPIRED`: A assinatura não foi renovada e ultrapassou a data limite vigente.   `ORDER_ERROR`: O ciclo de assinatura não foi executado devido a um erro no _place order_ do pedido.   `PAYMENT_ERROR`: O ciclo de assinatura não foi executado devido a um erro no pagamento.   `SKIPED`: Uma execução de ciclo de assinatura foi ignorada e a assinatura será executada no próximo ciclo.   `SUCCESS_WITH_NO_ORDER`: Um ciclo de assinatura foi executado com sucesso e o pedido atrelado não possui itens.   `SUCCESS_WITH_PARTIAL_ORDER`: Um ciclo de assinatura foi executado com sucesso e possui um pedido parcial atrelado.   `RE_TRIGGERED`:  Uma re-execução de ciclo da assinatura foi acionada manualmente.   `SCHEDULE_UPDATED`: A data da próxima execução de ciclo da assinatura foi atualizada.  
-| Has Active Items |  Informa se a assinatura tem itens ativos.   `TRUE`: Tem itens ativos.   `FALSE`: Não tem itens ativos.  
-| Is Skipped |  Informa se o ciclo da assinatura será pulado.   `TRUE`: O ciclo será pulado.   `FALSE`: O ciclo não será pulado.  
+| Status | Status da assinatura no momento de gerar o relatório. <br> `TRIGGERED`: Uma execução do ciclo de assinatura foi acionada. <br> `IN_PROCESS`: A assinatura está sendo processada pelo sistema (status temporário). <br> `FAILURE`: Ocorreu um erro interno na execução da assinatura. <br> `SUCCESS`: O ciclo de assinatura foi processado com sucesso. <br> `EXPIRED`: A assinatura não foi renovada e ultrapassou a data limite vigente. <br> `ORDER_ERROR`: O ciclo de assinatura não foi executado devido a um erro no _place order_ do pedido. <br> `PAYMENT_ERROR`: O ciclo de assinatura não foi executado devido a um erro no pagamento. <br> `SKIPED`: Uma execução de ciclo de assinatura foi ignorada e a assinatura será executada no próximo ciclo. <br> `SUCCESS_WITH_NO_ORDER`: Um ciclo de assinatura foi executado com sucesso e o pedido atrelado não possui itens. <br> `SUCCESS_WITH_PARTIAL_ORDER`: Um ciclo de assinatura foi executado com sucesso e possui um pedido parcial atrelado. <br> `RE_TRIGGERED`: Uma re-execução de ciclo da assinatura foi acionada manualmente. <br> `SCHEDULE_UPDATED`: A data da próxima execução de ciclo da assinatura foi atualizada. |
+| Has Active Items | Informa se a assinatura tem itens ativos. <br> `TRUE`: Tem itens ativos. <br> `FALSE`: Não tem itens ativos. |
+| Is Skipped | Informa se o ciclo da assinatura será pulado. <br> `TRUE`: O ciclo será pulado. <br> `FALSE`: O ciclo não será pulado. |
 | Next Purchase Date | Data da próxima compra. |
 | Last Purchase Date | Data da última compra. |
 | Periodicity | Periodicidade da assinatura. |
@@ -135,23 +138,24 @@ As colunas correspondem a uma informação específica sobre a assinatura, confo
 | Subscriptions Item Sku Id | SKU dos itens da assinatura. |
 | Subscriptions Item PriceAtSubscriptionDate | Valor dos itens no momento da assinatura. |
 | Subscriptions Item Quantity | Quantidade de itens na assinatura. |
-| Subscriptions Item Is Skipped |  Informa se os itens serão pulados.   `TRUE`: Os itens serão pulados.   `FALSE`: Os itens não serão pulados.  
+| Subscriptions Item Is Skipped | Informa se os itens serão pulados. <br> `TRUE`: Os itens serão pulados. <br> `FALSE`: Os itens não serão pulados. |
 | Subscriptions Item Cycle | Ciclo dos itens da assinatura. |
-| Subscriptions Item OriginalOrder | Pedido original dos itens da assinatura. | 
+| Subscriptions Item OriginalOrder | Pedido original dos itens da assinatura. |
 
 ## Assinaturas criadas entre datas
+
 O relatório `subscriptionsCreatedBetweenDate` retorna dados de assinaturas criadas entre um período de datas.
 
 As colunas correspondem a uma informação específica sobre a assinatura, conforme descrito abaixo.
 
 | **Nome do campo** | **Descrição** |
-| :---:  | :--- |
+| :---: | :--- |
 | ID | ID da assinatura. |
 | Customer Email | Email do cliente. |
 | Customer Id | ID do cliente. |
-| Status |  Status da assinatura no momento de gerar o relatório.   `TRIGGERED`: Uma execução do ciclo de assinatura foi acionada.   `IN_PROCESS`: A assinatura está sendo processada pelo sistema (status temporário).   `FAILURE`: Ocorreu um erro interno na execução da assinatura.   `SUCCESS`: O ciclo de assinatura foi processado com sucesso.   `EXPIRED`: A assinatura não foi renovada e ultrapassou a data limite vigente.   `ORDER_ERROR`: O ciclo de assinatura não foi executado devido a um erro no _place order_ do pedido.   `PAYMENT_ERROR`: O ciclo de assinatura não foi executado devido a um erro no pagamento.   `SKIPED`: Uma execução de ciclo de assinatura foi ignorada e a assinatura será executada no próximo ciclo.   `SUCCESS_WITH_NO_ORDER`: Um ciclo de assinatura foi executado com sucesso e o pedido atrelado não possui itens.   `SUCCESS_WITH_PARTIAL_ORDER`: Um ciclo de assinatura foi executado com sucesso e possui um pedido parcial atrelado.   `RE_TRIGGERED`:  Uma re-execução de ciclo da assinatura foi acionada manualmente.   `SCHEDULE_UPDATED`: A data da próxima execução de ciclo da assinatura foi atualizada.  
-| Has Active Items |  Informa se a assinatura tem itens ativos.   `TRUE`: Tem itens ativos.   `FALSE`: Não tem itens ativos.  
-| Is Skipped |  Informa se o ciclo da assinatura será pulado.   `TRUE`: O ciclo será pulado.   `FALSE`: O ciclo não será pulado.  
+| Status | Status da assinatura no momento de gerar o relatório. <br> `TRIGGERED`: Uma execução do ciclo de assinatura foi acionada. <br> `IN_PROCESS`: A assinatura está sendo processada pelo sistema (status temporário). <br> `FAILURE`: Ocorreu um erro interno na execução da assinatura. <br> `SUCCESS`: O ciclo de assinatura foi processado com sucesso. <br> `EXPIRED`: A assinatura não foi renovada e ultrapassou a data limite vigente. <br> `ORDER_ERROR`: O ciclo de assinatura não foi executado devido a um erro no _place order_ do pedido. <br> `PAYMENT_ERROR`: O ciclo de assinatura não foi executado devido a um erro no pagamento. <br> `SKIPED`: Uma execução de ciclo de assinatura foi ignorada e a assinatura será executada no próximo ciclo. <br> `SUCCESS_WITH_NO_ORDER`: Um ciclo de assinatura foi executado com sucesso e o pedido atrelado não possui itens. <br> `SUCCESS_WITH_PARTIAL_ORDER`: Um ciclo de assinatura foi executado com sucesso e possui um pedido parcial atrelado. <br> `RE_TRIGGERED`: Uma re-execução de ciclo da assinatura foi acionada manualmente. <br> `SCHEDULE_UPDATED`: A data da próxima execução de ciclo da assinatura foi atualizada. |
+| Has Active Items | Informa se a assinatura tem itens ativos. <br> `TRUE`: Tem itens ativos. <br> `FALSE`: Não tem itens ativos. |
+| Is Skipped | Informa se o ciclo da assinatura será pulado. <br> `TRUE`: O ciclo será pulado. <br> `FALSE`: O ciclo não será pulado. |
 | Next Purchase Date | Data da próxima compra. |
 | Last Purchase Date | Data da última compra. |
 | Periodicity | Periodicidade da assinatura. |
@@ -171,30 +175,30 @@ As colunas correspondem a uma informação específica sobre a assinatura, confo
 | Subscriptions Item Sku Id | SKU dos itens da assinatura. |
 | Subscriptions Item PriceAtSubscriptionDate | Valor dos itens no momento da assinatura. |
 | Subscriptions Item Quantity | Quantidade de itens na assinatura. |
-| Subscriptions Item Is Skipped |  Informa se os itens serão pulados.   `TRUE`: Os itens serão pulados.   `FALSE`: Os itens não serão pulados.  
+| Subscriptions Item Is Skipped | Informa se os itens serão pulados. <br> `TRUE`: Os itens serão pulados. <br> `FALSE`: Os itens não serão pulados. |
 | Subscriptions Item Cycle | Ciclo dos itens da assinatura. |
-| Subscriptions Item OriginalOrder | Pedido original dos itens da assinatura. | 
+| Subscriptions Item OriginalOrder | Pedido original dos itens da assinatura. |
 
 ## Assinaturas executadas entre datas
+
 O relatório `executionsBetweenDate` retorna dados de assinaturas executadas entre um período de datas.
 
 As colunas correspondem a uma informação específica sobre a assinatura, conforme descrito abaixo.
 
 | **Nome do campo** | **Descrição** |
-| :---:  | :--- |
-|  Id | ID da assinatura. |
-| OrderGroup | ID do pedido gerado pela execução do relatório.
+| :---: | :--- |
+| Id | ID da assinatura. |
+| OrderGroup | ID do pedido gerado pela execução do relatório. |
 | E-mail | Email do cliente. |
 | Customer Id | ID do cliente. |
 | Skus | SKUs dos produtos da assinatura. |
 | Order | Número do pedido. |
 | Value | Valor da assinatura. |
 | cycleCount | Número que identifica o ciclo da assinatura. |
-| date | Data de criação da assinatura.
-| IsInRetry |  Informa se a execução foi resultado de uma retry.   `TRUE`: A execução foi resultado de retry.  `FALSE`:  A execução não foi resultado de retry.  
-| Status |  Status da assinatura no momento da execução do relatório.   `TRIGGERED`: Uma execução do ciclo de assinatura foi acionada.   `IN_PROCESS`: A assinatura está sendo processada pelo sistema (status temporário).   `FAILURE`: Ocorreu um erro interno na execução da assinatura.   `SUCCESS`: O ciclo de assinatura foi processado com sucesso.   `EXPIRED`: A assinatura não foi renovada e ultrapassou a data limite vigente.   `ORDER_ERROR`: O ciclo de assinatura não foi executado devido a um erro no _place order_ do pedido.   `PAYMENT_ERROR`: O ciclo de assinatura não foi executado devido a um erro no pagamento.   `SKIPED`: Uma execução de ciclo de assinatura foi ignorada e a assinatura será executada no próximo ciclo.   `SUCCESS_WITH_NO_ORDER`: Um ciclo de assinatura foi executado com sucesso e o pedido atrelado não possui itens.   `SUCCESS_WITH_PARTIAL_ORDER`: Um ciclo de assinatura foi executado com sucesso e possui um pedido parcial atrelado.   `RE_TRIGGERED`:  Uma re-execução de ciclo da assinatura foi acionada manualmente.   `SCHEDULE_UPDATED`: A data da próxima execução de ciclo da assinatura foi atualizada.  
+| date | Data de criação da assinatura. |
+| IsInRetry | Informa se a execução foi resultado de uma retry. <br> `TRUE`: A execução foi resultado de retry. <br> `FALSE`: A execução não foi resultado de retry. |
+| Status | Status da assinatura no momento da execução do relatório. <br> `TRIGGERED`: Uma execução do ciclo de assinatura foi acionada. <br> `IN_PROCESS`: A assinatura está sendo processada pelo sistema (status temporário). <br> `FAILURE`: Ocorreu um erro interno na execução da assinatura. <br> `SUCCESS`: O ciclo de assinatura foi processado com sucesso. <br> `EXPIRED`: A assinatura não foi renovada e ultrapassou a data limite vigente. <br> `ORDER_ERROR`: O ciclo de assinatura não foi executado devido a um erro no _place order_ do pedido. <br> `PAYMENT_ERROR`: O ciclo de assinatura não foi executado devido a um erro no pagamento. <br> `SKIPED`: Uma execução de ciclo de assinatura foi ignorada e a assinatura será executada no próximo ciclo. <br> `SUCCESS_WITH_NO_ORDER`: Um ciclo de assinatura foi executado com sucesso e o pedido atrelado não possui itens. <br> `SUCCESS_WITH_PARTIAL_ORDER`: Um ciclo de assinatura foi executado com sucesso e possui um pedido parcial atrelado. <br> `RE_TRIGGERED`: Uma re-execução de ciclo da assinatura foi acionada manualmente. <br> `SCHEDULE_UPDATED`: A data da próxima execução de ciclo da assinatura foi atualizada. |
 | messageParsed | Mensagem retornada pelo checkout durante a execução da assinatura. |
-| CreatedAt | Data da criação da assinatura.
+| CreatedAt | Data da criação da assinatura. |
 | LastUpdate | Data da última atualização da assinatura. |
 | ActiveSkus | SKUs ativos na assinatura. |
-
