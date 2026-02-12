@@ -36183,37 +36183,6 @@
             },
             {
               "name": {
-                "en": "Storefront - Overview",
-                "es": "Storefront - Información general",
-                "pt": "Storefront - Visão geral"
-              },
-              "slug": {
-                "en": "storefront-overview-subcategory",
-                "es": "vision-general-storefront-subcategoria",
-                "pt": "visão-geral-storefront-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Storefront - Overview",
-                    "es": "Storefront - Información general",
-                    "pt": "Storefront - Visão geral"
-                  },
-                  "slug": {
-                    "en": "storefront-overview",
-                    "es": "vision-general-storefront",
-                    "pt": "visao-geral-storefront"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Styles",
                 "es": "Estilos",
                 "pt": "Estilos"
@@ -40161,21 +40130,6 @@
           "children": [
             {
               "name": {
-                "en": "'Large Indexed Text' and 'Indexed Text' not being changed by Specification Import",
-                "es": "'Texto grande indexado' y 'Texto indexado' no se modifican con la importación de la especificación",
-                "pt": "'Texto Grande Indexado' e 'Texto Indexado' não sendo alterados pela Importação de Especificação"
-              },
-              "slug": {
-                "en": "large-indexed-text-and-indexed-text-not-being-changed-by-specification-import",
-                "es": "texto-grande-indexado-y-texto-indexado-no-se-modifican-con-la-importacion-de-la-especificacion",
-                "pt": "texto-grande-indexado-e-texto-indexado-nao-sendo-alterados-pela-importacao-de-especificacao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "'maximum number of eligible items for each cart' + more for less applies incorrect discount when using the same item.",
                 "es": "'número máximo de artículos elegibles para cada cesta' + más por menos aplica un descuento incorrecto al utilizar el mismo artículo.",
                 "pt": "'número máximo de itens qualificados para cada carrinho' + more for less aplica desconto incorreto ao usar o mesmo item."
@@ -40244,6 +40198,21 @@
                 "en": "url-logo-field-in-the-update-seller-request-not-updating",
                 "es": "el-campo-url-logo-en-la-solicitud-de-actualizacion-del-vendedor-no-se-actualiza",
                 "pt": "campo-url-logo-no-campo-update-seller-request-not-updating"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "\"Large Indexed Text\" and \"Indexed Text\" not being changed by Specification Import",
+                "es": "«Texto indexado grande» y «Texto indexado» no se modifican al importar especificaciones.",
+                "pt": "“Texto indexado grande” e “Texto indexado” não são alterados pela importação de especificações"
+              },
+              "slug": {
+                "en": "large-indexed-text-and-indexed-text-not-being-changed-by-specification-import",
+                "es": "texto-indexado-grande-y-texto-indexado-no-se-modifican-al-importar-especificaciones",
+                "pt": "texto-indexado-grande-e-texto-indexado-nao-sao-alterados-pela-importacao-de-especificacoes"
               },
               "origin": "",
               "type": "markdown",
@@ -58975,12 +58944,12 @@
             {
               "name": {
                 "en": "Affiliation created in subaccount not listed in Admin; ‘Affiliation name is already used’ on retry",
-                "es": "Afiliación creada en subcuenta no listada en Admin",
+                "es": "Afiliación creada en una subcuenta que no aparece en Admin; «El nombre de la afiliación ya está en uso» al volver a intentarlo.",
                 "pt": "Afiliação criada na subconta não listada no Admin"
               },
               "slug": {
                 "en": "affiliation-created-in-subaccount-not-listed-in-admin-affiliation-name-is-already-used-on-retry",
-                "es": "afiliacion-creada-en-subcuenta-no-listada-en-admin",
+                "es": "afiliacion-creada-en-una-subcuenta-que-no-aparece-en-admin-el-nombre-de-la-afiliacion-ya-esta-en-uso-al-volver-a-intentarlo",
                 "pt": "afiliacao-criada-na-subconta-nao-listada-no-admin"
               },
               "origin": "",
@@ -61854,6 +61823,21 @@
             },
             {
               "name": {
+                "en": "Transaction stuck in \"Cancelling\" when payments are \"Finished\"",
+                "es": "La transacción se queda bloqueada en «Cancelando» cuando los pagos están «Finalizados».",
+                "pt": "Transação presa em “Cancelando” quando os pagamentos estão “Concluídos”"
+              },
+              "slug": {
+                "en": "transaction-stuck-in-cancelling-when-payments-are-finished",
+                "es": "la-transaccion-se-queda-bloqueada-en-cancelando-cuando-los-pagos-estan-finalizados",
+                "pt": "transacao-presa-em-cancelando-quando-os-pagamentos-estao-concluidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction stuck in Approved while payment remains Settling when using partial settlements",
                 "es": "Transacción atascada en Aprobado mientras el pago permanece Liquidando cuando se utilizan liquidaciones parciales.",
                 "pt": "Transação presa em Aprovado enquanto o pagamento permanece Liquidado ao usar liquidações parciais"
@@ -62095,12 +62079,12 @@
             {
               "name": {
                 "en": "Transactions stuck in \"Canceling\" and payments remain in \"Authorized\"",
-                "es": "Las transacciones se atascan en \"Cancelando\" y los pagos permanecen en \"Autorizado\".",
+                "es": "Las transacciones se quedan atascadas en «Cancelando» y los pagos permanecen en «Autorizado».",
                 "pt": "As transações ficam presas em \"Cancelando\" e os pagamentos permanecem em \"Autorizados\""
               },
               "slug": {
                 "en": "transactions-stuck-in-canceling-and-payments-remain-in-authorized",
-                "es": "las-transacciones-se-atascan-en-cancelando-y-los-pagos-permanecen-en-autorizado",
+                "es": "las-transacciones-se-quedan-atascadas-en-cancelando-y-los-pagos-permanecen-en-autorizado",
                 "pt": "as-transacoes-ficam-presas-em-cancelando-e-os-pagamentos-permanecem-em-autorizados"
               },
               "origin": "",
