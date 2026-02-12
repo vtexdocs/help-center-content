@@ -64,7 +64,7 @@ As colunas correspondem a uma informação específica sobre a assinatura, confo
 | Subscriptions Item Sku Id | SKU dos itens da assinatura. |
 | Subscriptions Item PriceAtSubscriptionDate | Valor dos itens no momento da assinatura. |
 | Subscriptions Item Quantity | Quantidade de itens na assinatura. |
-| Subscriptions Item Is Skipped | Informa se os itens serão pulados. <br> `TRUE`: Os itens serão pulados. <br> `FALSE`: Os itens serão ser pulados. |
+| Subscriptions Item Is Skipped | Informa se os itens serão pulados. <br> `TRUE`: Os itens serão pulados. <br> `FALSE`: Os itens não serão pulados. |
 | Subscriptions Item Cycle | Ciclo dos itens da assinatura. |
 | Subscriptions Item OriginalOrder | Pedido original dos itens da assinatura. |
 
