@@ -1,14 +1,14 @@
 ﻿---
-title: 'Custom Checkout Fields e Default Values (B2B)'
+title: 'Campos customizáveis no checkout (B2B)'
 createdAt: '2026-02-09T10:00:00.000Z'
 updatedAt: '2026-02-09T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
-slugEN: custom-checkout-fields-e-default-values-b2b
+slugEN: campos-customizaveis-no-checkout-b2b
 locale: pt
 ---
 
-**Custom checkout fields** e **Default Values** são funcionalidades do B2B Buyer Portal que permitem coletar e padronizar informações específicas de negócio durante o checkout. Com elas, é possível capturar dados obrigatórios ou opcionais e pré-preencher essas informações com base na Organizational Unit (OU) do comprador.
+**Campos customizáveis** é uma funcionalidade do B2B Buyer Portal que permite coletar e padronizar informações específicas de negócio durante o checkout. Assim, o checkout de uma loja B2B se adequa às especificidades de seus clientes.
 
 O uso combinado dessas funcionalidades garante um checkout mais rápido, consistente e alinhado às regras de compra da organização.
 
@@ -45,7 +45,7 @@ Valores pré-definidos para custom checkout fields do tipo `option`. Esses valor
 
 Durante o checkout, os valores dos custom checkout fields são aplicados ao orderForm, de acordo com o nível configurado (pedido, item ou endereço), e passam a fazer parte dos dados do carrinho utilizados na criação do pedido.
 
-### Default Values
+### Valores padrão
 
 Documento que define, por Organizational Unit, quais entidades devem ser utilizadas como padrão no checkout. As entidades incluem:
 
@@ -84,7 +84,7 @@ Uma organização utiliza centros de custo para aplicar regras de compra e limit
 
 ### Migração de preferências
 
-Uma empresa migra de outro ERP e precisa preservar preferências por Organizational Unit. Ela importa endereços, cartões e valores de custom checkout fields para o VTEX Dynamic Storage, assegurando continuidade no processo B2B desde o primeiro pedido.
+Uma empresa migra de ERP e deseja preservar preferências por Organizational Unit. Ela importa endereços, cartões e valores de campos customizáveis para o Master Data, assegurando continuidade no processo B2B desde o primeiro pedido.
 
 ### Padronização e governança
 
