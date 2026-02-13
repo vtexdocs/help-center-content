@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Campos customizáveis no checkout (B2B)'
 createdAt: '2026-02-09T10:00:00.000Z'
 updatedAt: '2026-02-09T10:00:00.000Z'
@@ -7,9 +7,9 @@ productTeam: B2B
 slugEN: customizable-fields-in-b2b-checkout
 locale: pt
 ---
-**Campos customizáveis no checkout B2B** permitem que a Organizational Unit capture informações de negócio durante a compra e mantenha esses dados padronizados no B2B Buyer Portal.
+**Campos customizáveis no checkout B2B** permitem que a Organizational Unit capture informações de negócios durante a compra e mantenha esses dados padronizados no B2B Buyer Portal.
 
-Por meio desta funcionalidade, a Organizational Unit cria os campos necessários para o processo de compra, define em que etapa do FastCheckout eles aparecem e coleta as informações de forma estruturada. Além disso, com a configuração de **Valores padrão**, é possível pré-preencher esses campos para agilizar o checkout e reduzir erros de preenchimento.
+Por meio desta funcionalidade, a Organizational Unit cria os campos necessários para o processo de compra, define em que etapa do Fast Checkout eles aparecem e coleta as informações de forma estruturada. Além disso, com a configuração de **Valores padrão**, é possível pré-preencher esses campos para agilizar o checkout e reduzir erros de preenchimento.
 
 
 > ⚠️ A funcionalidade [Campos customizáveis no checkout B2B](https://developers.vtex.com/docs/guides/custom-fields-integration) está disponível apenas para B2B Buyer Portal. É necessária autorização do Commerce Engineer da conta para uso.
@@ -50,7 +50,7 @@ Documento que define, por Organizational Unit, quais entidades devem ser utiliza
 
 Cada entrada referencia a entidade e o ID do valor selecionado.
 
-> ⚠️ Apenas campos customizáveis  do tipo `option` podem ser configurados como default values. Isso garante que a seleção seja feita por ID, e não pelo texto exibido no checkout.
+> ⚠️ Apenas campos customizáveis  do tipo ``option`` podem ser configurados como valores padrão. Isso garante que a seleção seja feita por ID, e não pelo texto exibido no checkout.
 
 ### Aplicação no orderForm
 
@@ -58,13 +58,13 @@ Durante o checkout, os valores dos campos customizáveis são aplicados ao order
 
 ## Casos de uso
 
-### Captura de campos obrigatórios de negócio no checkout
+### Captura de campos obrigatórios de negócios no checkout
 
 Uma indústria precisa registrar centro de custo e número de PO em todos os pedidos. Ela configura campos customizáveis obrigatórios no nível de pedido, garantindo que essas informações sejam preenchidas antes da finalização do pedido.
 
 ### Checkout pré-preenchido por Organizational Unit
 
-Uma rede com múltiplas unidades deseja reduzir erros de endereço e cobrança. Ela configura default values por Organizational Unit para que, após o login, o checkout seja automaticamente preenchido com endereço, cartão e valores de campos customizáveis específicos daquela unidade.
+Uma rede com múltiplas unidades deseja reduzir erros de endereço e cobrança. Ela configura valores padrão por Organizational Unit para que, após o login, o checkout seja automaticamente preenchido com endereço, cartão e valores de campos customizáveis específicos daquela unidade.
 
 ### Integração com budgets e buying policies
 
@@ -76,4 +76,4 @@ Uma empresa migra de ERP e deseja preservar preferências por Organizational Uni
 
 ### Padronização e governança
 
-Um time de governança precisa padronizar escolhas no checkout e evitar variações locais. Ele centraliza Default Values por Organizational Unit, garantindo que as compras sigam regras de dados e conformidade definidas pela organização.
+Um time de governança precisa padronizar escolhas no checkout e evitar variações locais. Ele centraliza Valores padrão por Organizational Unit, garantindo que as compras sigam regras de dados e conformidade definidas pela organização.
