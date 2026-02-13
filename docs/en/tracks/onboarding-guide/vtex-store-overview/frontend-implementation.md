@@ -228,10 +228,10 @@ The development team must start a new project with FastStore through the [Onboar
 Below are the requirements for each topic:
 
 - Catalog
-  - [Adding products and SKUs](/en/tutorial/adding-products--tutorials_2567)
+  - [Adding products and SKUs](/en/docs/tutorials/adding-or-editing-products)
   - [Creating a category tree](/en/docs/tutorials/registering-a-category) ([departments](/en/docs/tutorials/what-is-a-department), [categories](/en/docs/tutorials/what-is-a-category) and [subcategories](/en/docs/tutorials/what-is-a-subcategory))
   - [Defining filters and types of specifications per category](/en/docs/tutorials/creating-a-specification-group-in-a-category)
-  - [Adding SKU images](/en/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY#images)
+  - [Adding SKU images](/en/docs/tutorials/adding-or-editing-skus#images)
   - [Adding SKU prices](/en/docs/tracks/cadastrar-preco-base)
   - [Inventory management](/en/docs/tutorials/managing-stock-items)
 - VTEX Intelligent Search
@@ -281,10 +281,10 @@ The development team must start a new project with Store Framework by cloning an
 Below are the requirements for each topic:
 
 - Catalog
-  - [Adding products and SKUs](/en/tutorial/adding-products--tutorials_2567)
+  - [Adding products and SKUs](/en/docs/tutorials/adding-or-editing-products)
   - [Creating a category tree](/en/docs/tutorials/registering-a-category) ([departments](/en/docs/tutorials/what-is-a-department), [categories](/en/docs/tutorials/what-is-a-category) and [subcategories](/en/docs/tutorials/what-is-a-subcategory))
   - [Defining filters and types of specifications per category](/en/docs/tutorials/creating-a-specification-group-in-a-category)
-  - [Adding SKU images](/en/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY#images)
+  - [Adding SKU images](/en/docs/tutorials/adding-or-editing-skus#images)
   - [Adding SKU prices](/en/docs/tracks/cadastrar-preco-base)
   - [Inventory management](/en/docs/tutorials/managing-stock-items)
 - VTEX Intelligent Search

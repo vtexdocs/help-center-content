@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Token de autenticação para autorizações de pagamento assíncrono'
 ---
 
-Visando aprimorar as operações de pagamento realizadas na plataforma, a VTEX está implementando a utilização do token de autenticação `X-VTEX-signature`.  Este token deve ser utilizado por provedores e parceiros de pagamento no momento de retornar o status de uma transação de pagamento assíncrona via [callback URL](/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#callback-url).  
+Visando aprimorar as operações de pagamento realizadas na plataforma, a VTEX está implementando a utilização do token de autenticação `X-VTEX-signature`.  Este token deve ser utilizado por provedores e parceiros de pagamento no momento de retornar o status de uma transação de pagamento assíncrona via [callback URL](/pt/docs/tutorials/payment-provider-protocol#callback-url).  
 
 A partir do dia 27 de maio de 2024, o gateway da VTEX encaminhará em cada transação de pagamento a informação da callback URL e o respectivo token de autenticação.
 
@@ -29,4 +29,4 @@ A partir do dia 26 de junho de 2024, todos os provedores e parceiros de pagament
 
 Após esta data, informações encaminhadas apenas para a callback URL (sem o token de autenticação), serão bloqueadas e as respectivas transações de pagamento, canceladas.
 
-Para mais informações sobre a callback URL, acesse [Payment Provider Protocol](/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#callback-url) e [Create Payment endpoint](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments).
+Para mais informações sobre a callback URL, acesse [Payment Provider Protocol](/pt/docs/tutorials/payment-provider-protocol#callback-url) e [Create Payment endpoint](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments).

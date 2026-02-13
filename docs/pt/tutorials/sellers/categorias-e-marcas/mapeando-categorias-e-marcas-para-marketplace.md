@@ -27,9 +27,9 @@ Isto permite que os produtos enviados pelo seller sejam inseridos com as informa
 3. Clique em __Novo Mapeamento__.  
 4. Selecione um seller entre as opções e clique em __Adicionar__.  
 5. Para o seller que foi adicionado ao painel:  
-  a. Faça o [mapeamento de categorias](/pt/tutorial/mapping-categories-and-brands-for-the-marketplace--tutorials_1521#mapeamento-de-categorias).    
-  b. Faça o [mapeamento de marcas](/pt/tutorial/mapping-categories-and-brands-for-the-marketplace--tutorials_1521#mapeamento-de-marcas).   
-  c. Faça o [mapeamento de especificações](/pt/tutorial/mapping-categories-and-brands-for-the-marketplace--tutorials_1521#mapeamento-de-especificacoes).  
+  a. Faça o [mapeamento de categorias](/pt/docs/tutorials/mapeando-categorias-e-marcas-para-marketplace#mapeamento-de-categorias).    
+  b. Faça o [mapeamento de marcas](/pt/docs/tutorials/mapeando-categorias-e-marcas-para-marketplace#mapeamento-de-marcas).   
+  c. Faça o [mapeamento de especificações](/pt/docs/tutorials/mapeando-categorias-e-marcas-para-marketplace#mapeamento-de-especificacoes).  
 6. Clique em __Atualizar mapeamento__.  
 
 ## Mapeamento de categorias

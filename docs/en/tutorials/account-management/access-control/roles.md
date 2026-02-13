@@ -49,7 +49,7 @@ Predefined roles are sets of resources predetermined by VTEX that cover the most
 
 #### Custom
 
-Besides using predefined roles, you can [create custom roles](/en/tutorial/creating-roles--qGtNQpKSSAduX94l2WZBW#creating-custom-roles), combining the necessary resources for a group of admin users from your store.
+Besides using predefined roles, you can [create custom roles](/en/docs/tutorials/creating-roles#creating-custom-roles), combining the necessary resources for a group of admin users from your store.
 
 For example, a team responsible for keeping the store catalog up to date usually performs a well-defined set of tasks, such as adding and editing products, categories, and brands. In this case, an admin can create a customized role with all the necessary resources for these employees.
 

@@ -65,7 +65,7 @@ In order for the franchise account to use the prices configured in the main acco
 
 #### Configuring prices specific to the franchise account
 
-To configure specific prices for the franchise account, you must deselect the option **Inherit prices from parent account** in the Settings of the **Prices** module of the franchise account, as described in [this article](/en/tutorial/price-configuration--3hbBtCzNUBrj8GaWgCtSWN#price-general-settings). In addition, it is necessary to configure the desired prices in the [Prices module](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) or via the [Pricing API](https://developers.vtex.com/vtex-rest-api/reference/pricing-api-overview).
+To configure specific prices for the franchise account, you must deselect the option **Inherit prices from parent account** in the Settings of the **Prices** module of the franchise account, as described in [this article](/en/docs/tutorials/prices-settings#price-general-settings). In addition, it is necessary to configure the desired prices in the [Prices module](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) or via the [Pricing API](https://developers.vtex.com/vtex-rest-api/reference/pricing-api-overview).
 
 When prices vary across franchise accounts, you should [configure regionalization](/en/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw?&utm_source=autocomplete) to ensure a consistent shopping experience. 
 By adopting regionalization, you can request the customer postal code before they navigate your store.This will allow you to display the products and prices available to their franchise account before proceeding to checkout.

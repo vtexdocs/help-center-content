@@ -51,7 +51,7 @@ A seleção de combinações logísticas acontece de acordo com os seguintes cri
   <li>Menor custo</li>
   <li>Menor prazo</li>
   <li>Menor divisão de pacotes</li>
-  <li>[Docas prioritárias](/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW#campos-de-cadastro)</li>
+  <li>[Docas prioritárias](/pt/docs/tutorials/gerenciar-doca#campos-de-cadastro)</li>
 </ul>
 <br>
   > ℹ️ Quando existe um empate entre docas, o critério de desempate é o overhead, que é o valor em dias para a escolha da doca mais vantajosa para determinado envio. Quanto menor o overhead, maiores são as chances de seleção da doca. Vale ressaltar que o overhead não é considerado no cálculo do tempo de envio.
@@ -67,7 +67,7 @@ O resultado final da seleção de configurações logísticas é uma lista orden
 
 No Admin VTEX, é possível configurar critérios e prioridades diferentes para etapas relacionadas à [logística](/pt/docs/tutorials/fulfillment-logistica-vtex):
 
-- **Docas:** as prioridades são configuradas nos [campos de cadastro da doca](/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW#campos-de-cadastro).
+- **Docas:** as prioridades são configuradas nos [campos de cadastro da doca](/pt/docs/tutorials/gerenciar-doca#campos-de-cadastro).
 - **Frete:** os preços de frete são configurados nas [tarifas de envio](/pt/docs/tutorials/tarifas-de-envio), com exceção da [tarifa de doca](/pt/docs/tutorials/custo-final-do-envio), que é um valor adicional opcional, configurado ao adicionar a doca a um estoque.
 - **Prazo:** o tempo para envio é configurado na [estimativa de SLA](#estimativa-de-tempo-de-envio).
 - **Divisão de pacotes:** os critérios adotados são configurados no módulo Checkout, saiba mais em [divisões de pacotes](/pt/docs/tutorials/divisao-de-pedidos-e-divisao-de-entregas). 

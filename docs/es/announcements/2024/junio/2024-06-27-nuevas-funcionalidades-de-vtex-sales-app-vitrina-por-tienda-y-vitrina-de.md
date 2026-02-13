@@ -23,4 +23,4 @@ Hemos agregado dos nuevas funcionalidades en VTEX Sales App: vitrinas por tienda
 Desarrollamos estas funcionalidades para que los retailers puedan crear anuncios y organizar vitrinas con colecciones de productos de forma eficiente.
 
 ## ¿Qué se necesita hacer?
-No se requiere ninguna acción. La funcionalidad se aplicará automáticamente en todas las tiendas que utilizan VTEX Sales App. Para más información, accede a [Anuncios de VTEX Sales App](/es/tutorial/anuncios-do-vtex-sales-app--3UtOFwbwD4muz3p72RBPmC#create-an-ad-page).
+No se requiere ninguna acción. La funcionalidad se aplicará automáticamente en todas las tiendas que utilizan VTEX Sales App. Para más información, accede a [Anuncios de VTEX Sales App](/es/docs/tutorials/anuncios-de-vtex-sales-app#create-an-ad-page).

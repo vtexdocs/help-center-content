@@ -60,4 +60,4 @@ Para isso, é necessário que a funcionalidade de preço manual tenha sido habil
 
 Preços manuais cadastrados no carrinho precisam ser aprovados pelo administrador da loja ou por um usuário com permissão no sistema de [Autorização de Pedidos](/pt/docs/tutorials/como-funciona-a-autorizacao-de-pedidos) para que o pedido siga o fluxo de faturamento.
 
-> ℹ️ Não é possível alterar preços acessando a loja pela URL final  (*www.dominioloja.com.br*). A funcionalidade de preço manual no televendas só funciona se o operador acessar a loja pelo dominio *www.dominioloja.myvtex.com* e tiver a permissão de [Call Center operator](/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#call-center-operator) em seu [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso).
+> ℹ️ Não é possível alterar preços acessando a loja pela URL final  (*www.dominioloja.com.br*). A funcionalidade de preço manual no televendas só funciona se o operador acessar a loja pelo dominio *www.dominioloja.myvtex.com* e tiver a permissão de [Call Center operator](/pt/docs/tutorials/perfis-de-acesso-predefinidos#call-center-operator) em seu [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso).

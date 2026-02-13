@@ -238,5 +238,5 @@ To disable the **Operational Capability (Beta)** module, follow the steps below:
 2.	In the menu at the top right of the page, click `Disable Module`.
 3.	In the modal, click `Disable`.
 
-> ⚠️ You can [enable the Operational Capacity (Beta)](/en/tutorial/operational-capacity-beta--2thSYLMAS8KAd8V4XuBLSy#enabling-the-operational-capability-beta-module) module to manage seller capacity at any time.
+> ⚠️ You can [enable the Operational Capacity (Beta)](/en/docs/tutorials/operational-capacity-beta#enabling-the-operational-capability-beta-module) module to manage seller capacity at any time.
 

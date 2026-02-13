@@ -17,7 +17,7 @@ announcementSynopsisPT: 'O VTEX Pick and Pack oferece aos lojistas um único lug
 
 O **[VTEX Pick and Pack](/pt/docs/tutorials/vtex-pick-and-pack)** é a solução que lhe oferece um único lugar para gerenciar a separação, o empacotamento e a entrega last mile a partir de lojas físicas e estoques.
 
-Além disso, o **VTEX Pick and Pack** [coleta dados e análises](/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#insights) da sua loja, gerando informações que lhe ajudam a tomar decisões estratégicas e escalar sua operação omnichannel. 
+Além disso, o **VTEX Pick and Pack** [coleta dados e análises](/pt/docs/tutorials/vtex-pick-and-pack-fulfillment#insights) da sua loja, gerando informações que lhe ajudam a tomar decisões estratégicas e escalar sua operação omnichannel. 
 
 A solução combina duas funcionalidades e aplicativos móveis:
 

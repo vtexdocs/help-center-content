@@ -44,7 +44,7 @@ Tras el primer acceso, es posible modificar los datos registrados de la tienda, 
 - Transferencia de responsabilidad.
 - Modificar el documento de identificación de la cuenta.
 
-Para realizar estas modificaciones es necesario [abrir un ticket de soporte financiero](/es/tutorial/abrir-tickets-para-el-soporte-vtex--16yOEqpO32UQYygSmMSSAM#financiero), especificando el tipo de modificación requerida.
+Para realizar estas modificaciones es necesario [abrir un ticket de soporte financiero](/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex#financiero), especificando el tipo de modificación requerida.
 
 > ℹ️ Para obtener más información sobre cómo solicitar una evaluación de SLA y los descuentos concedidos por infracciones de SLA, consulta el artículo [Cómo solicitar la verificación de SLA de operación de la plataforma.](/es/docs/tutorials/como-solicitar-la-verificacion-de-sla)
 

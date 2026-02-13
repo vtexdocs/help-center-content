@@ -74,7 +74,7 @@ Once the expiration period is reached, users will be required to reset their pas
 
 When developing integrations using VTEX [APIs](https://developers.vtex.com/docs/guides/getting-started), you must provide authentication parameters for the desired operations. See the available methods below:
 
-- **Application keys (appKeys):** [Application keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) authenticate requests made to VTEX APIs. Store admins can create keys and associate them with [roles](/en/docs/tutorials/roles), allowing them to use certain platform[ resources](/en/docs/tutorials/license-manager-resources). Learn more in the [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) developer guide.
+- **Application keys (appKeys):** [Application keys](/en/docs/tutorials/api-keys) authenticate requests made to VTEX APIs. Store admins can create keys and associate them with [roles](/en/docs/tutorials/roles), allowing them to use certain platform[ resources](/en/docs/tutorials/license-manager-resources). Learn more in the [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) developer guide.
 -	**User tokens:** User tokens authenticate API requests, especially for[ frontend](/en/docs/tracks/frontend) applications developed with VTEX IO. Learn how to use them in the [API authentication using user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) developer guide.
 
 ## Developing apps

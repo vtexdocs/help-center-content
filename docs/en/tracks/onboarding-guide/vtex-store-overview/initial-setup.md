@@ -52,9 +52,9 @@ Initially, the main actions only the sponsor user can perform are:
 * Request a test environment for the account manager.
 * Add new users to the VTEX environment. To do so, you need to understand the existing [roles](/en/docs/tutorials/predefined-roles).
 * [Enable two-factor authentication login](/en/docs/tutorials/enabling-2-factor-authentication-login) for operators.
-* Set [login options](/en/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs#formas-de-login) for store customers.
+* Set [login options](/en/docs/tutorials/authentication#formas-de-login) for store customers.
 
-Other actions may be restricted to this user, which are listed in the [Sponsor user](/en/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy#acoes-restritas-ao-usuario-titular) article.
+Other actions may be restricted to this user, which are listed in the [Sponsor user](/en/docs/tutorials/what-is-the-sponsor-user#acoes-restritas-ao-usuario-titular) article.
 
 > ⚠️ **Sponsor user** is not the same as **Owner (Admin Super)**. **Owner(Admin Super)** is a [License Manager role](/en/docs/tutorials/license-manager-resources) that gives permissions to a user and can be assigned to multiple users. However, there is only one **Sponsor user** per [account](/en/docs/tutorials/what-is-an-account-name).
 
@@ -68,13 +68,13 @@ New users must be added to the VTEX Admin via the **Account Management** page, f
 
 ### Setting roles and permissions for users
 
-To define the actions a user can perform in the VTEX Admin, follow the instructions in the [Roles](/en/docs/tutorials/roles) article. You can assign [predefined roles](/en/docs/tutorials/predefined-roles) to users, or if you need roles that include different permissions from the predefined ones, you can create [custom roles](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role).
+To define the actions a user can perform in the VTEX Admin, follow the instructions in the [Roles](/en/docs/tutorials/roles) article. You can assign [predefined roles](/en/docs/tutorials/predefined-roles) to users, or if you need roles that include different permissions from the predefined ones, you can create [custom roles](/en/docs/tutorials/roles#creating-a-role).
 
 ## Platform and storefront authentication
 
 You need to configure the [authentication](/en/docs/tutorials/authentication) method that will be available to customers when logging in to the store and admin users when logging in to the VTEX Admin. Authentication in the VTEX environment can be done in several ways. For example, access code and password are always available, while Google is optional.
 
-To log in to the store, VTEX provides authentication by access code, password, [Facebook](/en/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook), and [Google](/en/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google) so that you can enable one or more authentication methods. The instructions for enabling these solutions can be found in the [Authentication](/en/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs#login) article.
+To log in to the store, VTEX provides authentication by access code, password, [Facebook](/en/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook), and [Google](/en/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google) so that you can enable one or more authentication methods. The instructions for enabling these solutions can be found in the [Authentication](/en/docs/tutorials/authentication#login) article.
 
 ## Integration and app development authentication
 
@@ -84,7 +84,7 @@ The table below shows the three authentication types available:
 
 | **Authentication type** | **Description** |
 | :---: | :--- |
-| Authentication of API requests using [app keys](/en/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) | App keys are used to authenticate VTEX API requests. Store admins can create these keys for different integrations.Learn more in the [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) article. |
+| Authentication of API requests using [app keys](/en/docs/tutorials/api-keys) | App keys are used to authenticate VTEX API requests. Store admins can create these keys for different integrations.Learn more in the [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) article. |
 | Authentication of requests to APIs using user tokens | User tokens are used to authenticate API requests, especially for [frontend](/en/docs/tracks/frontend-implementation) apps developed using VTEX IO.Learn more in the [API authentication using user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) article. |
 | Authentication of apps using authentication tokens | The use of auth tokens is required for authentication when developing apps using VTEX IO.Learn more in the [App authentication using auth tokens](https://developers.vtex.com/docs/guides/app-authentication-using-auth-tokens) article. |
 
@@ -92,11 +92,11 @@ The table below shows the three authentication types available:
 
 An important concept on VTEX is [trade policy](/en/docs/tutorials/how-trade-policies-work), which is a group of settings that includes:
 
-* [Catalog](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#catalog)
-* [Prices](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#prices)
-* [Promotions](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#promotions)
-* [Shipping strategies](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#shipping-strategy)
-* [Payments](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#payments)
+* [Catalog](/en/docs/tutorials/how-trade-policies-work#catalog)
+* [Prices](/en/docs/tutorials/how-trade-policies-work#prices)
+* [Promotions](/en/docs/tutorials/how-trade-policies-work#promotions)
+* [Shipping strategies](/en/docs/tutorials/how-trade-policies-work#shipping-strategy)
+* [Payments](/en/docs/tutorials/how-trade-policies-work#payments)
 
 In every integration with a sales channel, a trade policy must be linked, and when one of the settings mentioned above is different for a new channel, a new trade policy must be created.
 

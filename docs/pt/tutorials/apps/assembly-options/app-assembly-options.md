@@ -41,7 +41,7 @@ As informações exibidas na lista são:
 * **Nome:** indica o nome do anexo de tipo Assembly Option.
 * **Obrigatório:** quando marcada com um <i class="far fa-check-circle"></i>, esta coluna indica que o anexo de tipo Assembly Option é obrigatório. Se o campo estiver vazio, não é obrigatório.
 * **Status:** indica o status da Assembly Option, que pode ser:
-    * **Ativa**: significa que as opções de customização estão ativadas, então elas serão exibidas na sua loja [se forem associadas a um SKU](/pt/tutorial/cadastrar-um-anexo--7zHMUpuoQE4cAskqEUWScU#associar-o-anexo-a-um-sku).
+    * **Ativa**: significa que as opções de customização estão ativadas, então elas serão exibidas na sua loja [se forem associadas a um SKU](/pt/docs/tutorials/cadastrar-um-anexo#associar-o-anexo-a-um-sku).
     * **Inativa**: significa que as opções de customização estão desativadas, portanto não estarão disponíveis para seleção.
 * **Menu** <i class="fas fa-ellipsis-v"></i>: exibe as opções a seguir:
     * <i class="far fa-pencil"></i> **Editar**: permite acessar a página de edição da Assembly Option.
@@ -79,7 +79,7 @@ A página **Produtos > Assembly options > Novas Assembly options** contém um fo
 
 Ao salvar a Assembly Option, um anexo é criado automaticamente em **Catálogo > Anexos**, com o prefixo `vtex.assembly-option.` adicionado ao nome da Assembly Option criada. Exemplo: `vtex.assembly-option.Ingredientes`.
 
-> ⚠️ Para que as opções de customização cadastradas na Assembly Option apareçam no storefront, é necessário associar o anexo criado a um SKU em* **Catálogo > Produtos e SKUs > SKU > Configurações Avançadas > Anexos***. Para isso, siga os passos descritos em [Associar o anexo a um SKU](/pt/tutorial/cadastrar-um-anexo--7zHMUpuoQE4cAskqEUWScU#associar-o-anexo-a-um-sku).
+> ⚠️ Para que as opções de customização cadastradas na Assembly Option apareçam no storefront, é necessário associar o anexo criado a um SKU em* **Catálogo > Produtos e SKUs > SKU > Configurações Avançadas > Anexos***. Para isso, siga os passos descritos em [Associar o anexo a um SKU](/pt/docs/tutorials/cadastrar-um-anexo#associar-o-anexo-a-um-sku).
 
 ## Saiba mais
 

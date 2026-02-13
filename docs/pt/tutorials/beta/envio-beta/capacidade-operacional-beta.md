@@ -90,7 +90,7 @@ No Admin VTEX, na página **Envio > Capacidade operacional**, você pode realiza
 
 Utilizando a barra de busca, você pode usar o nome do seller para encontrá-lo.
 
-> ℹ️ É possível associar a busca de sellers com o [filtro por status](/pt/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#filtrar-sellers). Caso os resultados da sua busca retornem vazios, observe se não há um filtro ativo.
+> ℹ️ É possível associar a busca de sellers com o [filtro por status](/pt/docs/tutorials/capacidade-operacional-beta#filtrar-sellers). Caso os resultados da sua busca retornem vazios, observe se não há um filtro ativo.
 
 ### Filtrar sellers
 
@@ -122,7 +122,7 @@ A capacidade operacional do seller pode ser contabilizada em número de pedidos 
     * **Quantidade de itens:** a capacidade operacional do seller será contada por número de itens do pedido.
 5. Clique em `Salvar alterações`.
 
-> ⚠️ A plataforma tem algumas restrições com relação a [sellers abrangentes](/pt/docs/tutorials/seller-abrangente), saiba mais na seção [Comportamento de sellers abrangentes](/pt/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#capacidade-operacional-de-seller-abrangente).
+> ⚠️ A plataforma tem algumas restrições com relação a [sellers abrangentes](/pt/docs/tutorials/seller-abrangente), saiba mais na seção [Comportamento de sellers abrangentes](/pt/docs/tutorials/capacidade-operacional-beta#capacidade-operacional-de-seller-abrangente).
 
 ## Ações na página de detalhes da capacidade do seller
 
@@ -236,4 +236,4 @@ Para desabilitar o módulo Capacidade operacional (Beta), siga os passos abaixo:
 2. No menu no topo direito da página, clique em `Desabilitar módulo`. 
 3. No modal, clique em `Desabilitar`.
 
-> ⚠️ A qualquer momento, você pode [habilitar o módulo Capacidade operacional (Beta)](/pt/tutorial/operational-capacity-beta--2thSYLMAS8KAd8V4XuBLSy#habilitar-modulo-capacidade-operacional-beta) para gerenciar a capacidade dos seus sellers.
+> ⚠️ A qualquer momento, você pode [habilitar o módulo Capacidade operacional (Beta)](/pt/docs/tutorials/capacidade-operacional-beta#habilitar-modulo-capacidade-operacional-beta) para gerenciar a capacidade dos seus sellers.

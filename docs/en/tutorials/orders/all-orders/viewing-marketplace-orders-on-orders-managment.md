@@ -32,4 +32,4 @@ In the [order details page](/en/docs/tutorials/order-details-page), in the **Pay
 ### Related articles
 
 - [Order flow and status](/en/docs/tutorials/order-flow-and-status)
-- [Why was the order closed with the wrong price?](/en/faq/por-que-o-pedido-foi-fechado-com-um-preco-errado--frequentlyAskedQuestions_708)
+- [Why was the order closed with the wrong price?](/en/troubleshooting/my-order-was-closed-with-the-wrong-price)

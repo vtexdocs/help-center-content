@@ -44,4 +44,4 @@ This page displays a list of users with their name, email, and multifactor authe
 
 ## Application Keys
 
-On this page, you can manage application keys, which are used to connect your VTEX account to external systems via API. These keys are used to grant secure access to the data you want to share with these integrations, without exposing your account to unauthorized users or applications. For more information, see the article [Application Keys](/en/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet).
+On this page, you can manage application keys, which are used to connect your VTEX account to external systems via API. These keys are used to grant secure access to the data you want to share with these integrations, without exposing your account to unauthorized users or applications. For more information, see the article [Application Keys](/en/docs/tutorials/api-keys).

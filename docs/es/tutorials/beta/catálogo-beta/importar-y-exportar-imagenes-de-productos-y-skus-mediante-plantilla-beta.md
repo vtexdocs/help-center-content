@@ -46,11 +46,11 @@ Para exportar un archivo `.xlsx` con las imágenes de tu catálogo sigue los pas
 > ℹ️ La información exportada corresponde a los campos presentados en la sección Campos de la plantilla de imágenes de productos y SKUs.
 
 1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa [Productos y SKUs](/es/docs/tutorials/productos-y-skus) en la barra de búsqueda en la parte superior de la página.
-2. (Opcional) Si deseas exportar las imágenes de determinados productos y SKUs, [busca](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By#buscar-productos) o [filtra](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By#filtrar-productos) los ítems deseados. Este paso no es necesario para exportar las imágenes de todos los ítems de tu catálogo.
+2. (Opcional) Si deseas exportar las imágenes de determinados productos y SKUs, [busca](/es/docs/tutorials/productos-y-skus#buscar-productos) o [filtra](/es/docs/tutorials/productos-y-skus#filtrar-productos) los ítems deseados. Este paso no es necesario para exportar las imágenes de todos los ítems de tu catálogo.
 3. En la parte superior de la página, haz clic en `Exportar`.
 4. Haz clic en `Imágenes`.
 
-Mientras la operación esté en curso, se mostrará un mensaje indicando que el archivo se está procesando. La operación seguirá en curso aunque salgas de la página. Puedes hacer seguimiento del [progreso de la exportación en la ventana modal](/es/tutorial/importar-y-exportar-productos-y-skus-mediante-plantilla-beta--5udKxWP1ZeBD7QB7Fy2BNl#ventana-de-seguimiento-de-la-exportacion) que se abre en la página.
+Mientras la operación esté en curso, se mostrará un mensaje indicando que el archivo se está procesando. La operación seguirá en curso aunque salgas de la página. Puedes hacer seguimiento del [progreso de la exportación en la ventana modal](/es/docs/tutorials/importar-y-exportar-productos-y-skus-mediante-plantilla-beta#ventana-de-seguimiento-de-la-exportacion) que se abre en la página.
 
 Tras finalizar la exportación de imágenes de productos y SKUs recibirás un email con un link para descargar el archivo. El plazo para realizar la descarga mediante el link es de 24 horas; después de este periodo el link expirará. También puedes descargar el archivo desde la ventana modal que se abre en la página.
 

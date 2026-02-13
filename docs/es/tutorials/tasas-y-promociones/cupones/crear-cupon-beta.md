@@ -26,7 +26,7 @@ Para crear un cupón en el Admin VTEX, sigue las instrucciones a continuación:
 
 Para ser utilizado, el cupón debe estar asociado con al menos una promoción. Consulta la sección [Asociar el cupón con una promoción](#asociar-el-cupon-con-una-promocion) para saber cómo realizar esta configuración.
 
-Si creaste un [lote de cupones](/es/tutorial/cupones-beta--1aAEN3ADpz19ss5JCIEBdL#lotes-de-cupones), luego de guardarlo, verás una pantalla con los cupones que se generaron. Para más información, consulta la sección [Cupones existentes](#cupones-existentes). Si creaste un [cupón sencillo](/es/tutorial/cupones-beta--1aAEN3ADpz19ss5JCIEBdL#cupones-sencillos), serás redirigido directamente a la [lista de cupones](/es/docs/tutorials/lista-de-cupones-beta).
+Si creaste un [lote de cupones](/es/docs/tutorials/cupones-beta#lotes-de-cupones), luego de guardarlo, verás una pantalla con los cupones que se generaron. Para más información, consulta la sección [Cupones existentes](#cupones-existentes). Si creaste un [cupón sencillo](/es/docs/tutorials/cupones-beta#cupones-sencillos), serás redirigido directamente a la [lista de cupones](/es/docs/tutorials/lista-de-cupones-beta).
 
 ## Información del cupón
 
@@ -65,7 +65,7 @@ La sección **General** muestra los campos que debes completar con la informaci�
 * **Código del cupón:** código que deberán ingresar los clientes de tu tienda durante el _checkout_ para aplicar el descuento del cupón. No podrás usar el código de un cupón ya existente. Solo están permitidos letras, números y guiones, y el código puede tener hasta 300 caracteres. Este campo es obligatorio.
 * **Fuente UTM:** permite vincular el cupón a una determinada `utm_source`. La `utm_source` representa el origen del tráfico, es decir, de qué sitio, anunciante o publicación vino el usuario. Ejemplo: puedes definir que siempre que un usuario llegue a tu tienda por hacer clic en un anuncio de Facebook, la URL incluirá el parámetro `utm_source=fb` y se aplicará el cupón. Para más información, consulta [Qué son utm_source, utm_campaign y utm_medium](/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium).
 * **Campaña UTM:** permite vincular el cupón a determinada `utm_campaign`, es decir, una campaña que define un contexto de marketing. Ejemplos: `navidad`, `díadelpadre`.  Para más información, consulta [Qué son utm_source, utm_campaign y utm_medium](/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium).
-* <i class="fas fa-toggle-on"></i> **Generando cupones en lote:** al mantener desactivada esta opción, optas por crear un cupón único. Al activarla, creas un [lote de cupones](/es/tutorial/cupones-beta--1aAEN3ADpz19ss5JCIEBdL#lotes-de-cupones) y podrás ver los siguientes recursos. 
+* <i class="fas fa-toggle-on"></i> **Generando cupones en lote:** al mantener desactivada esta opción, optas por crear un cupón único. Al activarla, creas un [lote de cupones](/es/docs/tutorials/cupones-beta#lotes-de-cupones) y podrás ver los siguientes recursos. 
     * **Número de cupones:** permite definir la cantidad de códigos que se generarán a partir del prefijo definido en **Código del cupón**. La cantidad máxima es de 1000.
     * **Exportar cupones:** botón que permite exportar los códigos del cupón múltiple. Esta opción está disponible solo cuando se editan cupones ya existentes.
 
@@ -83,7 +83,7 @@ En esta sección del formulario, puedes configurar las siguientes restricciones 
 
 ## Cupones existentes
 
-Si creaste un [lote de cupones](/es/tutorial/cupones-beta--1aAEN3ADpz19ss5JCIEBdL#lotes-de-cupones), luego de guardarlo, verás una pantalla con los códigos que se generaron. Esa pantalla tiene dos opciones disponibles:
+Si creaste un [lote de cupones](/es/docs/tutorials/cupones-beta#lotes-de-cupones), luego de guardarlo, verás una pantalla con los códigos que se generaron. Esa pantalla tiene dos opciones disponibles:
 
 * <i class="far fa-clone"></i> **Copiar todos:** permite copiar los códigos generados a su área de transferencia. Luego, si lo deseas, puedes pegarlos en un editor de planillas como Excel o Google Sheets. También puedes copiar cada código haciendo clic sobre él.
 * **Exportar:** permite exportar los códigos generados a un archivo CSV. El archivo exportado tiene una columna con un código por línea.
@@ -120,7 +120,7 @@ Ambos endpoints rellenan el campo `marketingData` del cuerpo de la respuesta y n
    - Si tu tienda utiliza Checkout v5, usa `checkout5-custom.js checkout5-custom.css`.
    - Si tu tienda utiliza Checkout v6, usa `checkout6-custom.js checkout6-custom.css`.
 3. Después de la personalización, debes solicitar la liberación de la funcionalidad mediante un [ticket con el soporte VTEX](/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex).
-4. Marca la opción <i class="fas fa-check-square"></i> Aplicar con otras promociones en la [configuración de promociones](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricciones-y-limitaciones-de-uso) asociada a los cupones para permitir que los cupones activen más de una promoción en la misma compra. Así, se [acumularán](/es/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270#acumulacion) los descuentos concedidos por las diferentes promociones.
+4. Marca la opción <i class="fas fa-check-square"></i> Aplicar con otras promociones en la [configuración de promociones](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricciones-y-limitaciones-de-uso) asociada a los cupones para permitir que los cupones activen más de una promoción en la misma compra. Así, se [acumularán](/es/docs/tutorials/como-funciona-la-competencia-de-promociones#acumulacion) los descuentos concedidos por las diferentes promociones.
 
 ## Más información
 

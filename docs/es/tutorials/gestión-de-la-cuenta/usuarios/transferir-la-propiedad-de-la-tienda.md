@@ -29,7 +29,7 @@ La página de __Configuración de la cuenta__ permite identificar al titular act
 
 ## Transferencia de la propiedad de la cuenta
 
-Antes de empezar, asegúrese de que el usuario a quien se le asignará el rol de titular ya tenga acceso a la cuenta. Si no tiene, debe [crear un nuevo usuario](/es/tutorial/managing-admin-users--tutorials_512#creando-un-nuevo-usuario) antes de continuar.
+Antes de empezar, asegúrese de que el usuario a quien se le asignará el rol de titular ya tenga acceso a la cuenta. Si no tiene, debe [crear un nuevo usuario](/es/docs/tutorials/gestionar-usuarios-administradores#creando-un-nuevo-usuario) antes de continuar.
 
 Para transferir la propiedad de la tienda, sigue estos pasos:
 

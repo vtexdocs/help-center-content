@@ -19,7 +19,7 @@ O __Portal__ é usado para renderizar as telas de __Checkout__ (Carrinho, Dados 
 
 O módulo __Checkout__ no Admin, exibe os sites que estão cadastrados para a sua conta. Por meio dele, também é possível criar um novo site, editar e configurar informações sobre os sites já existentes.
 
-> ℹ️ Cada site cadastrado corresponde a um multidomínio (caso a conta possua multidomínios contratados). Para contas que não utilizam multidomínios, não é necessário cadastrar mais de um site neste módulo. Saiba mais em [Criar multiloja/multidomínio](/pt/tutorial/como-criar-multiloja-multidominio--tutorials_510#).
+> ℹ️ Cada site cadastrado corresponde a um multidomínio (caso a conta possua multidomínios contratados). Para contas que não utilizam multidomínios, não é necessário cadastrar mais de um site neste módulo. Saiba mais em [Criar multiloja/multidomínio](/pt/docs/tutorials/gerenciando-uma-multiloja).
 
 ## Criar novo site
 

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2u48reCb68K48EAcm86ccM
 ---
 
-Después de definir el árbol de categorías y registrar las [especificaciones de los productos y de los SKU](/es/docs/tracks/especificaciones-definicion-de-concepto) en su tienda, debe rellenar los valores de las especificaciones que ha creado. En VTEX Admin, este proceso puede realizarse mediante una plantilla o manualmente en el registro de [producto](/es/tutorial/registrar-especificaciones-o-campos-de-producto--tutorials_106#registro-de-producto) y en el [registro del SKU](/es/tutorial/registrar-especificaciones-o-campos-de-sku--tutorials_119#registro-del-sku).
+Después de definir el árbol de categorías y registrar las [especificaciones de los productos y de los SKU](/es/docs/tracks/especificaciones-definicion-de-concepto) en su tienda, debe rellenar los valores de las especificaciones que ha creado. En VTEX Admin, este proceso puede realizarse mediante una plantilla o manualmente en el registro de [producto](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto#registro-de-producto) y en el [registro del SKU](/es/docs/tutorials/registrar-especificaciones-o-campos-de-sku#registro-del-sku).
 
 En este artículo, explicamos cómo funciona la exportación e importación de plantillas con especificaciones de productos y de SKU en VTEX Admin.
 

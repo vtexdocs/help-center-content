@@ -42,7 +42,7 @@ To avoid this scenario, use only the available templates (base price or fixed pr
 
 ### Data input
 
-Errors may occur while completing the table, such as entering the product ID where the SKU ID should be or [adjusting the price of a SKU](/en/tutorial/sku-price-change--tutorials_95#price-change-rule) by more than 70% upward or more than 30% downward relative to its current price. This can cause inconsistencies during import.
+Errors may occur while completing the table, such as entering the product ID where the SKU ID should be or [adjusting the price of a SKU](/en/docs/tutorials/sku-price-change#price-change-rule) by more than 70% upward or more than 30% downward relative to its current price. This can cause inconsistencies during import.
 
 Make sure that all fields in your table are properly populated based on the guidelines in the following articles:
 

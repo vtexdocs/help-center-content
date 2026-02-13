@@ -25,13 +25,13 @@ Este artículo explica cómo configurar tu tienda para convertirse en un _seller
 
 Para saber qué datos deben intercambiar los _sellers_ y los _marketplaces_, consulta el artículo [Información compartida](/es/docs/tutorials/informacion-compartida-entre-el-marketplace-y-el-seller-en-vtex) entre el _marketplace_ y el _seller en VTEX. Si tu tienda quiere operar como _marketplace_, consulta el artículo [Configurar marketplaces VTEX](/es/docs/tutorials/configurar-marketplaces-vtex).
 
-> ℹ️ Para comenzar a vender tus productos en *marketplaces* o para encontrar nuevos *partners* comerciales que vendan en tu *marketplace*, usa [Marketplaces e integraciones](/es/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM), la funcionalidad que facilita la identificación y el contacto entre los *marketplaces* y *sellers* en el ecosistema VTEX.
+> ℹ️ Para comenzar a vender tus productos en *marketplaces* o para encontrar nuevos *partners* comerciales que vendan en tu *marketplace*, usa [Marketplaces e integraciones](/es/docs/tutorials/marketplaces-e-integraciones), la funcionalidad que facilita la identificación y el contacto entre los *marketplaces* y *sellers* en el ecosistema VTEX.
 
 ## Definir la política comercial
 
 En VTEX, la [política comercial](/es/docs/tutorials/como-funciona-una-politica-comercial) agrupa configuraciones de catálogo, precios, promociones, logística, segmentación de clientes y pagos en un canal de venta. El _seller_ puede integrarse al _marketplace_ utilizando la política comercial predefinida de su tienda o también puede definir configuraciones específicas para la integración mediante la configuración de una [política comercial para el marketplace](/es/tutorial/configurando-a-politica-comercial-para-marketplace/).
 
-> ℹ️ Se puede usar una misma política comercial para integrarla con varios *marketplaces*. La [contratación de una política comercial adicional](/es/docs/tutorials/contratacion-de-politicas-comerciales-adicionales) para integrarse con un [conector nativo](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex), un conector certificado (partner) u otras tiendas VTEX es gratuita.
+> ℹ️ Se puede usar una misma política comercial para integrarla con varios *marketplaces*. La [contratación de una política comercial adicional](/es/docs/tutorials/contratacion-de-politicas-comerciales-adicionales) para integrarse con un [conector nativo](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-conector-nativo-vtex), un conector certificado (partner) u otras tiendas VTEX es gratuita.
 
 No es necesario crear una política comercial específica para un _marketplace_ solo para configurar promociones, ya que se pueden segmentar las promociones por [afiliado](/es/docs/tutorials/que-es-afiliado). Obtén más información en [Configurar promoción para marketplace](/es/docs/tutorials/configurar-promocion-para-marketplace).
 
@@ -41,7 +41,7 @@ El surtido de productos enviados al _marketplace_ se debe gestionar a través de
 
 En VTEX, el [afiliado](/es/docs/tutorials/que-es-afiliado) es el código que el _seller_ VTEX crea para identificar al _marketplace_ en el que venderá sus productos. Cada _marketplace_ debe corresponder a un único afiliado. Será a través del afiliado que el _marketplace_ recibirá notificaciones sobre pedidos, cambios en la información de un SKU y modificaciones de precios y _stock_, por ejemplo.
 
-> ℹ️ La integración con [conectores nativos](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex) crea el código del afiliado automáticamente. No obstante, para que el *seller* VTEX se integre con un *marketplace* VTEX o un *marketplace* externo, el *seller* debe crear el ID de afiliado de forma manual.
+> ℹ️ La integración con [conectores nativos](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-conector-nativo-vtex) crea el código del afiliado automáticamente. No obstante, para que el *seller* VTEX se integre con un *marketplace* VTEX o un *marketplace* externo, el *seller* debe crear el ID de afiliado de forma manual.
 
 El _seller_ debe seguir los pasos que se indican en el artículo [Configurar afiliado](/es/docs/tutorials/como-configurar-afiliado) y, una vez que haya creado el código identificador, se lo debe informar al _marketplace_. Luego de esto, el _marketplace_ VTEX [agregará al seller](/es/docs/tutorials/agregar-seller) y lo asociará a una política comercial.
 

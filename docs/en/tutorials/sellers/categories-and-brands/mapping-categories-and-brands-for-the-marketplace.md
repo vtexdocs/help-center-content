@@ -27,9 +27,9 @@ This allows entering the products sent by the seller with equivalent information
  3. Click __New mapping__.  
  4. Select a seller from the dropdown and click __Add__.  
  5. For the seller that was added to the panel:  
-  a. [Map the categories](/en/tutorial/mapping-categories-and-brands-for-the-marketplace--tutorials_1521#mapping-categories).  
-  b. [Map the brands](/en/tutorial/mapping-categories-and-brands-for-the-marketplace--tutorials_1521#mapping-brands).  
-  c. [Map the specifications](/en/tutorial/mapping-categories-and-brands-for-the-marketplace--tutorials_1521#mapping-specifications).  
+  a. [Map the categories](/en/docs/tutorials/mapping-categories-and-brands-for-the-marketplace#mapping-categories).  
+  b. [Map the brands](/en/docs/tutorials/mapping-categories-and-brands-for-the-marketplace#mapping-brands).  
+  c. [Map the specifications](/en/docs/tutorials/mapping-categories-and-brands-for-the-marketplace#mapping-specifications).  
  6. Click __Update mapping__.  
 
 ## Mapping Categories

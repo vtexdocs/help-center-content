@@ -41,7 +41,7 @@ Por ejemplo, supongamos que tiene el SKU «Camiseta roja». Si completa el campo
 
 Por lo tanto, cuando el cliente seleccione dos unidades en el *checkout*, estará comprando 10 camisetas rojas, en lugar de dos.
 
-Para saber más detalles, lea el artículo sobre [cómo completar cada uno de los campos del registro de un nuevo SKU](/es/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY).
+Para saber más detalles, lea el artículo sobre [cómo completar cada uno de los campos del registro de un nuevo SKU](/es/docs/tutorials/agregar-o-editar-skus).
 
 ### Precio por cantidad
 
@@ -97,6 +97,6 @@ Para saber más detalles de My Account, lea el tutorial sobre [cómo configurar 
 
 ### Substitución de pedidos
 
-Substitución de pedidos, o [Change Order](/es/tutorial/change-making-changes-to-an-order--3d1XLIgPQcwaKGyMiWaYog), es una funcionalidad del módulo Gestión de pedidos del Admin de VTEX. Este recurso posibilita que el administrador de la tienda edite pedidos que ya fueron realizados sin tener que cancelarlos y sin ayuda del equipo de soporte. 
+Substitución de pedidos, o [Change Order](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado), es una funcionalidad del módulo Gestión de pedidos del Admin de VTEX. Este recurso posibilita que el administrador de la tienda edite pedidos que ya fueron realizados sin tener que cancelarlos y sin ayuda del equipo de soporte. 
 
 Para habilitar «Substitución de pedidos», consulte el [artículo sobre la funcionalidad en el Centro de Ayuda](/es/tutorial/how-the-order-replacement-works--3aBxdbUPKgweug68YyK8oQ).

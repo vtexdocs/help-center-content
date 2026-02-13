@@ -29,5 +29,5 @@ This change aims to enhance security and simplify user access to the Site Editor
 ## What needs to be done?
 Ensure that users are associated with the `CMS GraphQL API` resource within their user roles by either [creating a new role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete#creating-a-role) or editing an existing one.
 
-> ⚠️ To manage users and their roles, you need the `Save access profile` resource from the <bold>License Manager</bold> product associated with your user role. For example, the [User Administrator - RESTRICTED](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) is a predefined role that has the `Save access profile` resource associated with it.
+> ⚠️ To manage users and their roles, you need the `Save access profile` resource from the <bold>License Manager</bold> product associated with your user role. For example, the [User Administrator - RESTRICTED](/en/docs/tutorials/predefined-roles#user-administrator-restricted) is a predefined role that has the `Save access profile` resource associated with it.
 

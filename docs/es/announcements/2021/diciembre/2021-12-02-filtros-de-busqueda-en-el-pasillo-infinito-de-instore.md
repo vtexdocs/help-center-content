@@ -35,7 +35,7 @@ El objetivo de esta funcionalidad es mejorar la experiencia de búsqueda en el p
 
 Para utilizar los filtros de búsqueda en el pasillo infinito de inStore, debes instalar y configurar [VTEX Intelligent Search](/es/docs/tracks/vision-general-intelligent-search), la aplicación de búsqueda inteligente de VTEX. En este contexto, ten en cuenta algunos puntos de atención:
 
-* Es imprescindible configurar los filtros que se mostrarán, como se indica en el artículo [Configuración de la búsqueda](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx). De lo contrario, toda la información del producto constará como atributos filtrables en inStore.
+* Es imprescindible configurar los filtros que se mostrarán, como se indica en el artículo [Configuración de la búsqueda](/es/docs/tutorials/configuracion-de-la-busqueda). De lo contrario, toda la información del producto constará como atributos filtrables en inStore.
 * La opción **Autocomplete** no se aplica a la búsqueda en inStore, por lo que puede dejarse vacía.
 * Cualquier cambio realizado en la configuración de la búsqueda se aplicará también al ecommerce si la herramienta utilizada es VTEX Intelligent Search.
 

@@ -31,4 +31,4 @@ For more detailed information on this procedure, see the [Penetration tests and 
 
 ## Why did we make this change?
 
-We have updated the penetration testing procedure to ensure the platform is secure and checks are run securely, preventing [unauthorized procedures](/en/tutorial/penetration-testing-and-vulnerability-notice--6jodF6s1I50Fg84ZwutOCb#unauthorized-procedures) and actions that could harm our customers.
+We have updated the penetration testing procedure to ensure the platform is secure and checks are run securely, preventing [unauthorized procedures](/en/docs/tutorials/penetration-tests#unauthorized-procedures) and actions that could harm our customers.

@@ -73,7 +73,7 @@ You can configure your marketplace's [Legacy CMS](/en/docs/tracks/what-is-the-cm
 
 Marketplace order management is directly connected to customer satisfaction with your marketplace. Establishing and following up on the SLA (Service Level Agreement) between sellers and marketplaces is key to a positive rating of your marketplace. The SLA is the service agreement between the seller and the marketplace, and includes details about shipping policies, customer service, and exchanges and returns, for example. 
 
-On the VTEX platform, the **Order management** section allows sellers and marketplaces to track [order flow](/en/docs/tracks/order-flow). You can differentiate between [orders from the marketplace and orders from your sellers](/en/tutorial/o-que-sao-pedidos-com-origem-marketplace-e-origem-fulfillment--6eVYrmUAwMOeKICU2KuG06). 
+On the VTEX platform, the **Order management** section allows sellers and marketplaces to track [order flow](/en/docs/tracks/order-flow). You can differentiate between [orders from the marketplace and orders from your sellers](/en/docs/tutorials/order-flow-and-status). 
 
-[Marketplaces that process payments](/en/docs/tutorials/payments-in-vtex-marketplaces) must follow the [transaction flow in Payments](/en/docs/tutorials/transaction-flow-in-payments). Sellers, on the other hand, are responsible for the [fulfillment](/en/tutorial/o-que-sao-pedidos-com-origem-marketplace-e-origem-fulfillment--6eVYrmUAwMOeKICU2KuG06) of the orders, so they must [add the invoice](/en/tutorial/como-inserir-a-nota-fiscal) to the platform.
+[Marketplaces that process payments](/en/docs/tutorials/payments-in-vtex-marketplaces) must follow the [transaction flow in Payments](/en/docs/tutorials/transaction-flow-in-payments). Sellers, on the other hand, are responsible for the [fulfillment](/en/docs/tutorials/order-flow-and-status) of the orders, so they must [add the invoice](/en/tutorial/como-inserir-a-nota-fiscal) to the platform.
 

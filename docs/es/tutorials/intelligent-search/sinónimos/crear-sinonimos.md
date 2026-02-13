@@ -31,7 +31,7 @@ Siga el proceso paso a paso para configurar sinónimos individualmente en VTEX A
 2. En **Intelligent Search**, haga clic en __Sinónimos__. 
 2. Haga clic en `Crear sinónimo`.
 3. Rellene los campos referentes al sinónimo:
-   - __Tipo:__ define el tipo de sinónimo. Consulte [Tipos de sinónimos](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#tipos-de-sinonimos) para obtener más información.
+   - __Tipo:__ define el tipo de sinónimo. Consulte [Tipos de sinónimos](/es/docs/tutorials/sinonimos#tipos-de-sinonimos) para obtener más información.
    - __Términos:__ palabras o expresiones que se definirán como sinónimos. Debe pulsar `Enter` después de cada término para insertar otro término.
    - **Idiomas:** idiomas en los que se aplicará el sinónimo. Campo solo disponible para tiendas que utilizan [configuración multidioma (beta)](/es/docs/tutorials/vtex-intelligent-search-configuracion-multidioma-beta).
    - __Status:__ define si el sinónimo estará activo o inactivo.
@@ -39,7 +39,7 @@ Siga el proceso paso a paso para configurar sinónimos individualmente en VTEX A
 
 La alteración puede tardar hasta dos horas en aplicarse.
 
-> ℹ️ Esta funcionalidad está disponible en VTEX Intelligent Search Multidioma. Lea nuestro artículo [VTEX Intelligent Search: configuración Multidioma (Beta)](/es/tutorial/vtex-intelligent-search-configuracion-multidioma-beta--2WahlTESLXIJ9XBdQMdTYO#sinonimos) para saber más.
+> ℹ️ Esta funcionalidad está disponible en VTEX Intelligent Search Multidioma. Lea nuestro artículo [VTEX Intelligent Search: configuración Multidioma (Beta)](/es/docs/tutorials/vtex-intelligent-search-configuracion-multidioma-beta#sinonimos) para saber más.
 
 ## Importar CSV
 
@@ -58,7 +58,7 @@ Para importar la hoja de cálculo, siga los pasos que se indican a continuación
 
 ## Plantilla de sinónimos
 
-Cada fila de la plantilla corresponde a un sinónimo. Las filas deben tener el siguiente formato, según el [tipo de sinónimo](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#tipos-de-sinonimos) elegido:
+Cada fila de la plantilla corresponde a un sinónimo. Las filas deben tener el siguiente formato, según el [tipo de sinónimo](/es/docs/tutorials/sinonimos#tipos-de-sinonimos) elegido:
 
 - __Unidireccional:__ `{términos separados por una coma};{término equivalente};{status}`
 

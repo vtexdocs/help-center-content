@@ -58,7 +58,7 @@ Los sinónimos son recursivos, es decir, los resultados son acumulativos. Por ej
 
 ### Autocorrección en Intelligent Search
 
-Los sinónimos no deben utilizarse para resolver errores ortográficos, variaciones de singular y plural, pronombres, artículos o preposiciones en los términos de búsqueda. En estos casos, Intelligent Search es capaz de interpretar, aprender y corregir automáticamente a través de [Autocorrección](/es/tutorial/comportamento-da-busca--B9o3JbV6utAinBJ1ETujs#autocorreccion).
+Los sinónimos no deben utilizarse para resolver errores ortográficos, variaciones de singular y plural, pronombres, artículos o preposiciones en los términos de búsqueda. En estos casos, Intelligent Search es capaz de interpretar, aprender y corregir automáticamente a través de [Autocorrección](/es/docs/tutorials/comportamiento-de-busqueda#autocorreccion).
 
 Consulta a continuación algunos ejemplos de configuración de sinónimos:
 

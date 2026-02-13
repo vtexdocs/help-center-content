@@ -67,7 +67,7 @@ The development process for a VTEX connector can be divided into four phases:
 
   <blockquote><ui>2. **Testing:** Validate the connector through predefined test cases to make sure it works properly. This phase is crucial, as any identified errors may impact the delivery SLA originally planned.</ui>
 
-<blockquote>> ℹ️ After completing the [initial tests](/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#4-testing) and submitting the connector for homologation, we recommend running [purchase flow tests](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework#placing-an-order-with-your-new-connector) in a test environment.  This helps detect inconsistencies that could affect the homologation process.</blockquote>
+<blockquote>> ℹ️ After completing the [initial tests](/en/docs/tutorials/payment-provider-protocol#4-testing) and submitting the connector for homologation, we recommend running [purchase flow tests](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework#placing-an-order-with-your-new-connector) in a test environment.  This helps detect inconsistencies that could affect the homologation process.</blockquote>
 
 <blockquote><ui>3. **Homologation:** The partner developing the connector opens a request, which will be handled by the VTEX Partner Support team. From this stage, the internal validation and publication process of the connector in the VTEX environment begins.</ui>
 
@@ -201,7 +201,7 @@ Payment connectors compatible with [POS](https://en.wikipedia.org/wiki/Point_of_
 
 #### Support for payout split
 
-Connectors with the [payout split](/en/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx#payout-split) feature allow automatic division of a transaction amount among different recipients — either at the time of authorization or settlement — depending on the provider's configuration. This feature is essential for marketplaces and omnichannel operations.
+Connectors with the [payout split](/en/docs/tutorials/split-payment#payout-split) feature allow automatic division of a transaction amount among different recipients — either at the time of authorization or settlement — depending on the provider's configuration. This feature is essential for marketplaces and omnichannel operations.
 
 - __Automated payment distribution__: The transaction amount is automatically split, increasing efficiency and reducing operational risk.
 - __Cost and complexity reduction__: Eliminates manual transfers, lowers administrative costs, and speeds up financial reconciliation.

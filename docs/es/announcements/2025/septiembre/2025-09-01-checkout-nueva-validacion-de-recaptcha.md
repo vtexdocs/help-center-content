@@ -15,13 +15,13 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Nueva capa de seguridad en Checkout valida hosts vía License Manager utilizando reCAPTCHA.'
 ---
 
-Para mejorar la seguridad durante el checkout, agregamos una nueva capa de protección en la validación de [reCAPTCHA](/es/docs/tutorials/recaptcha-en-el-checkout) de la tienda. Ahora, los [hosts](/es/tutorial/configurar-dominio-de-la-tienda--tutorials_2450#estructura-de-la-direccion-de-la-tienda) de la tienda se validan vía [License Manager](/es/docs/tutorials/roles), el sistema encargado de comprobar si un usuario tiene los permisos adecuados para realizar acciones en la plataforma.
+Para mejorar la seguridad durante el checkout, agregamos una nueva capa de protección en la validación de [reCAPTCHA](/es/docs/tutorials/recaptcha-en-el-checkout) de la tienda. Ahora, los [hosts](/es/docs/tutorials/configurar-dominio-de-la-tienda#estructura-de-la-direccion-de-la-tienda) de la tienda se validan vía [License Manager](/es/docs/tutorials/roles), el sistema encargado de comprobar si un usuario tiene los permisos adecuados para realizar acciones en la plataforma.
 
 ## ¿Qué cambió?
 
 El sistema del módulo Checkout ahora verifica si el host en el que se resolvió el desafío de validación del reCAPTCHA, como `www.mystore.com`, está registrado en el License Manager de esa cuenta. Esta verificación ayuda a evitar accesos maliciosos e intentos de fraude. 
 
-Para consultar los hosts configurados en tu cuenta, usa el endpoint [Get stores](https://developers.vtex.com/docs/api-reference/license-manager-api#get-/api/vlm/account/stores). Para registrar un nuevo host en tu tienda, consulta [Configurar dominio de la tienda](/es/tutorial/configurar-dominio-de-la-tienda--tutorials_2450#registrar-nuevo-host).
+Para consultar los hosts configurados en tu cuenta, usa el endpoint [Get stores](https://developers.vtex.com/docs/api-reference/license-manager-api#get-/api/vlm/account/stores). Para registrar un nuevo host en tu tienda, consulta [Configurar dominio de la tienda](/es/docs/tutorials/configurar-dominio-de-la-tienda#registrar-nuevo-host).
 
 ## ¿Qué se necesita hacer?
 

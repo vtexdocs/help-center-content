@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-Existem cenários em que os clientes podem solicitar o cancelamento de um pedido. Pode ser o [cancelamento automático no período](/pt/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo#cancelamento-no-prazo-de-carencia) de **carência para cancelamento,** ou, depois desse período, o [cancelamento aprovado pelo lojista](/pt/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo#cancelamento-aprovado-pelo-lojista).
+Existem cenários em que os clientes podem solicitar o cancelamento de um pedido. Pode ser o [cancelamento automático no período](/pt/docs/tutorials/cancelamento-de-pedido-por-parte-do-cliente#cancelamento-no-prazo-de-carencia) de **carência para cancelamento,** ou, depois desse período, o [cancelamento aprovado pelo lojista](/pt/docs/tutorials/cancelamento-de-pedido-por-parte-do-cliente#cancelamento-aprovado-pelo-lojista).
 
 > ❗ Uma vez que o pedido é cancelado, não é mais possível alterar o status do pedido.
 
@@ -34,13 +34,13 @@ Ocorre quando o cliente solicita cancelamento no [tempo carência](/pt/docs/tuto
 Ocorre quando o cliente solicita o cancelamento depois do período de carência, apresentando uma justificativa à loja. Nesse caso, o lojista precisa aprovar o cancelamento. Para isso, a plataforma apresenta a solicitação de cancelamento para a loja das seguintes formas:
 
 * Na tela de detalhes do pedido, a loja recebe a solicitação de cancelamento com o motivo indicado pelo cliente, e o pedido passa a ter o status `Cancelamento solicitado`. 
-* Por email enviado pela plataforma informando sobre o pedido de cancelamento. Essa é uma tarefa do [VTEX DO](/pt/tutorial/vtex-do--tutorials_203) chamada `Cancelamento requisitado`. Com o VTEX DO, o lojista gerencia as solicitações de cancelamento que estão pendentes. 
+* Por email enviado pela plataforma informando sobre o pedido de cancelamento. Essa é uma tarefa do [VTEX DO](/pt/docs/tutorials/vtex-do-interface) chamada `Cancelamento requisitado`. Com o VTEX DO, o lojista gerencia as solicitações de cancelamento que estão pendentes. 
 
 O lojista deve aprovar ou rejeitar o pedido de cancelamento. Se o lojista não aprovar o cancelamento, recomendamos informar ao cliente sobre a impossibilidade do cancelamento do pedido.
 
 Mesmo se o cancelamento solicitado pelo cliente for negado pelo lojista utilizando o [VTEX DO](/pt/docs/tutorials/vtex-do-interface), é necessário que o lojista prossiga com o [faturamento](/pt/docs/tutorials/faturar-um-pedido-manualmente) do pedido, sendo isso que realmente faz o pedido seguir o seu fluxo.
 
-> ⚠️ Se a funcionalidade [Substituição de Pedidos](/pt/tutorial/substituicao-de-pedidos--2IK9mwQjBKseQmE8K8saO8#ativacao-da-funcionalidade) estiver ativada, os pedidos poderão ser alterados ou cancelados a qualquer momento, inclusive após o período de carência para cancelamento.
+> ⚠️ Se a funcionalidade [Substituição de Pedidos](/pt/docs/tutorials/substituicao-de-pedidos#ativacao-da-funcionalidade) estiver ativada, os pedidos poderão ser alterados ou cancelados a qualquer momento, inclusive após o período de carência para cancelamento.
 
 ## Motivo do cancelamento
 
@@ -57,8 +57,8 @@ Para alterar as opções, realize os passos abaixo:
 
 ## Artigos relacionados
 
-- [Por que meu pedido foi cancelado?](/pt/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493)
+- [Por que meu pedido foi cancelado?](/pt/troubleshooting/o-pedido-da-minha-loja-foi-cancelado)
 - [Configurar o tempo de carência para cancelamento do pedido](/pt/docs/tutorials/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido)
-- [Por que meu pedido foi cancelado na VTEX e não no marketplace?](/pt/faq/por-que-meu-pedido-foi-cancelado-na-vtex-e-nao-no-marketplace--frequentlyAskedQuestions_678)
+- [Por que meu pedido foi cancelado na VTEX e não no marketplace?](/pt/troubleshooting/o-pedido-da-minha-loja-foi-cancelado)
 - [Substituição de pedidos](/pt/docs/tutorials/substituicao-de-pedidos)
 

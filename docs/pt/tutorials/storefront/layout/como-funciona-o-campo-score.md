@@ -36,15 +36,15 @@ Se a loja utiliza a [busca VTEX](/pt/docs/tutorials/como-funciona-a-busca-da-vte
 
 Os parâmetros `OrderByScoreASC` e `OrderByScoreDESC` não são suportados pelo [VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb), apenas pela [busca VTEX](/pt/docs/tutorials/como-funciona-a-busca-da-vtex).
 
-O [VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb) não permite uma ordenação direta dos produtos pela pontuação definida no campo **Score**. Ao utilizar um desses parâmetros no VTEX Intelligent Search, ocorre a ordenação padrão, que é por [relevância](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
+O [VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb) não permite uma ordenação direta dos produtos pela pontuação definida no campo **Score**. Ao utilizar um desses parâmetros no VTEX Intelligent Search, ocorre a ordenação padrão, que é por [relevância](/pt/docs/tutorials/regras-de-relevancia).
 
-Por outro lado, o score do Catálogo consegue compor a [relevância](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS) do Intelligent Search em meio aos outros critérios, sendo possível atribuir um peso maior a ele ou até torná-lo prioritário. Para essa finalidade de compor relevância, quanto maior o score, maior o peso, ou seja, o comportamento é decrescente: produtos com score mais alto são priorizados.
+Por outro lado, o score do Catálogo consegue compor a [relevância](/pt/docs/tutorials/regras-de-relevancia) do Intelligent Search em meio aos outros critérios, sendo possível atribuir um peso maior a ele ou até torná-lo prioritário. Para essa finalidade de compor relevância, quanto maior o score, maior o peso, ou seja, o comportamento é decrescente: produtos com score mais alto são priorizados.
 
 Ignorando a influência de outros critérios, ou mesmo considerando o uso de ordenação prioritária, no VTEX Intelligent Search, os produtos sem nenhum score cadastrado aparecem após os produtos com score cadastrado nos resultados de busca.
 
 É necessário ponderar se essa prática seria adequada ao seu caso de uso em relação a outros critérios calculados automaticamente pelo sistema, como popularidade e vendas. Tornar um critério prioritário sobrepõe todos os outros, inclusive atingindo o mesmo objetivo do `OrderByScore`, ignorando as demais configurações de relevância.
 
-Para realizar a ordenação manual de itens de forma isolada, recomendamos usar [Regras de merchandising](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0), evitando efeitos indesejáveis e respeitando as configurações de relevância.
+Para realizar a ordenação manual de itens de forma isolada, recomendamos usar [Regras de merchandising](/pt/docs/tutorials/regras-de-merchandising), evitando efeitos indesejáveis e respeitando as configurações de relevância.
 
 ## Editar o score de um produto
 

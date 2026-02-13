@@ -27,7 +27,7 @@ The general settings display the following options related to[ product and SKU s
 
     To configure this field, click the dropdown arrow and select the specifications you want to add.
 
-    Check the guide [Detaching SKUs by specification](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5uVxuWxTA8VvLX3G8UCcUE) for more details on this configuration behavior.
+    Check the guide [Detaching SKUs by specification](/en/docs/tutorials/detaching-skus-by-specification) for more details on this configuration behavior.
 
 * **Searchable specifications:** Determines which product specifications can be searched by the search engine.
 
@@ -35,7 +35,7 @@ The general settings display the following options related to[ product and SKU s
 
 ## Facet settings
 
-The facet settings have settings related to the[ filters](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/50Dh4mpv0Sax0XpbvsjAtP) displayed to your customers during the search:
+The facet settings have settings related to the[ filters](/en/docs/tutorials/filters) displayed to your customers during the search:
 
 ![Facet configurations](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/intelligent-search-settings/search-configuration_1.png)
 

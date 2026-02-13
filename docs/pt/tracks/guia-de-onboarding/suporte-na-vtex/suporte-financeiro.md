@@ -44,6 +44,6 @@ Após o [primeiro acesso](/pt/docs/tracks/configuracoes-iniciais), é possível 
 - Transferência de responsabilidade.
 - Alteração de documento de identificação da conta.
 
-Para fazer essas alterações, é necessário [abrir um chamado para o suporte financeiro](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM#financeiro), especificando o tipo de alteração necessária.
+Para fazer essas alterações, é necessário [abrir um chamado para o suporte financeiro](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex#financeiro), especificando o tipo de alteração necessária.
 
 > ℹ️ Para obter mais informações sobre como solicitar a avaliação de SLA e descontos concedidos devido a violações do SLA, basta consultar o artigo [Solicitar apuração de SLA do suporte VTEX](/pt/tutorial/como-solicitar-a-apuracao-de-sla--3L99VeoLhYEwMqqkWKu86i>).

@@ -88,7 +88,7 @@ Un paquete es un envoltorio o una caja que contiene los ítems de una entrega. U
 
 En la esquina superior izquierda aparecen las siguientes acciones:
 
-* **Modificar:** modifica los ítems del pedido. Ten en cuenta que la [modificación de ítems](/es/tutorial/como-alterar-itens-do-pedido--7jekq618QxgbsOxKkXBjE8) es diferente al [cambio de pedido](/es/docs/tutorials/cambio-de-pedido). En el cambio de pedido, el cliente es quien solicita los cambios y, en la modificación de ítems, es la tienda la que cambia el pedido. 
+* **Modificar:** modifica los ítems del pedido. Ten en cuenta que la [modificación de ítems](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado) es diferente al [cambio de pedido](/es/docs/tutorials/cambio-de-pedido). En el cambio de pedido, el cliente es quien solicita los cambios y, en la modificación de ítems, es la tienda la que cambia el pedido. 
 * **Facturar:** emite la factura del pedido. Puedes obtener más información sobre el envío de facturas en el artículo [Cómo facturar un pedido](/es/docs/tutorials/como-facturar-manualmente-un-pedido).
 
 ### Facturas

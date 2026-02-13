@@ -133,7 +133,7 @@ La lista de cupones presenta todos los cupones activos en tu tienda, ordenados d
 A continuación, encontrarás más detalles sobre cada columna de la lista:
 
 * **Código:** muestra el código del cupón.
-* **Tipo de cupón:** indica si el cupón es [sencillo o un lote](/es/tutorial/cupones-beta--1aAEN3ADpz19ss5JCIEBdL#tipos-de-cupones).
+* **Tipo de cupón:** indica si el cupón es [sencillo o un lote](/es/docs/tutorials/cupones-beta#tipos-de-cupones).
 * **UTM source:** indica la [UTM source](/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium) asociada al cupón, en caso de que haya alguna.
 * **UTM campaign:** indica la [UTM campaign](/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium) asociada al cupón, en caso de que haya alguna.
 * **Última edición:** muestra la fecha en que el cupón se modificó por última vez.
@@ -149,7 +149,7 @@ La ventana **Ver detalles de uso** muestra los datos de uso de cada cupón, que 
 
 * **Promociones asociadas:** muestra el nombre de las promociones vinculadas al cupón, en caso de que haya alguna. Al hacer clic sobre el nombre de una promoción, serás redireccionado a la página de edición de la promoción.
 
-    El cupón solo estará disponible cuando esté vinculado a, por lo menos, una promoción. Para establecer dicho vínculo, debes usar la misma [utm_source o utm_campaign](/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium) que utilizaste en el registro tanto del cupón como de la promoción. Consulta la sección [Asociar el cupón con una promoción](/es/tutorial/crear-cupon-beta--7lMk3MmhNp2IEccyGApxU#asociar-el-cupon-con-una-promocion) para saber cómo realizar esta configuración.
+    El cupón solo estará disponible cuando esté vinculado a, por lo menos, una promoción. Para establecer dicho vínculo, debes usar la misma [utm_source o utm_campaign](/es/docs/tutorials/que-son-utm-source-utm-campaign-y-utm-medium) que utilizaste en el registro tanto del cupón como de la promoción. Consulta la sección [Asociar el cupón con una promoción](/es/docs/tutorials/crear-cupon-beta#asociar-el-cupon-con-una-promocion) para saber cómo realizar esta configuración.
 
 * **Uso** (cupones sencillos): muestra el número de usos del cupón y el número de usos restantes, en caso de que hayas limitado la cantidad de usos.
 

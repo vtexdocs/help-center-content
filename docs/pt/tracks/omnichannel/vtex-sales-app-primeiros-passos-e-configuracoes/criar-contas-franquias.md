@@ -23,7 +23,7 @@ Antes de começar a utilizar o VTEX Sales App, é necessário que a loja tenha c
 
 Ao criar contas franquias, cada uma das suas lojas físicas terá um Admin VTEX separado, com logística própria, mas herdando o catálogo da conta principal.
 
-Suas contas franquias funcionarão como [Sellers White Label](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#o-que-e-um-seller-white-label). Isto significa que quando um pedido for realizado em qualquer canal, seja o VTEX Sales App ou o ecommerce, o sistema buscará entre todas elas aquela que consegue fazer a entrega com melhor [SLA](/pt/docs/tutorials/acordo-de-nivel-de-servico-sla-de-operacao-da-vtex).
+Suas contas franquias funcionarão como [Sellers White Label](/pt/docs/tutorials/seller-white-label#o-que-e-um-seller-white-label). Isto significa que quando um pedido for realizado em qualquer canal, seja o VTEX Sales App ou o ecommerce, o sistema buscará entre todas elas aquela que consegue fazer a entrega com melhor [SLA](/pt/docs/tutorials/acordo-de-nivel-de-servico-sla-de-operacao-da-vtex).
 
 > ⚠️ Cada seller deve ter um CNPJ diferente para o funcionamento correto do pagamento dos pedidos.
 

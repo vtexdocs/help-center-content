@@ -32,4 +32,4 @@ Estos son algunos de los beneficios del mapeo de categorías y atributos a trav�
 
 ## ¿Qué se necesita hacer?
 
-La funcionalidad estará disponible para todas las cuentas [VTEX que actúan como seller](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) a partir del **18 de diciembre de 2023.** Para utilizarla, necesitas tener tu cuenta VTEX [integrada](/es/docs/tracks/amazon) con Amazon y enviar los productos utilizando el tutorial [Envío y mapeo de categorías de productos a Amazon](/es/docs/tracks/envio-de-productos-a-amazon).  
+La funcionalidad estará disponible para todas las cuentas [VTEX que actúan como seller](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#sendo-seller-vtex) a partir del **18 de diciembre de 2023.** Para utilizarla, necesitas tener tu cuenta VTEX [integrada](/es/docs/tracks/amazon) con Amazon y enviar los productos utilizando el tutorial [Envío y mapeo de categorías de productos a Amazon](/es/docs/tracks/envio-de-productos-a-amazon).  

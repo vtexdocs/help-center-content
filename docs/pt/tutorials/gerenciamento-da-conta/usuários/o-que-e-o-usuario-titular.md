@@ -41,5 +41,5 @@ Somente o usuário Titular pode realizar as seguintes ações essenciais de manu
 
 Além disso, quando a VTEX precisa comunicar informações sensíveis à loja, como mudanças em perfis de acesso, tal comunicação é feita direta e exclusivamente com o usuário Titular.
 
-> ℹ️ A criação de [credenciais de autenticação](/pt/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) (appKey/appToken) para integrações via API não é mais restrita ao usuário Titular. Veja este [anúncio](/pt/announcements/mudancas-no-nome-e-acoes-restritas-disponiveis-para-o-usuario-master) para mais detalhes sobre esta mudança.
+> ℹ️ A criação de [credenciais de autenticação](/pt/docs/tutorials/chaves-de-api) (appKey/appToken) para integrações via API não é mais restrita ao usuário Titular. Veja este [anúncio](/pt/announcements/mudancas-no-nome-e-acoes-restritas-disponiveis-para-o-usuario-master) para mais detalhes sobre esta mudança.
 

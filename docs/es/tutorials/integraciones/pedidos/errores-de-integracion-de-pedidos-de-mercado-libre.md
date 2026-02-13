@@ -55,7 +55,7 @@ ____
 
 `Order with SKU inactive or out of sales channel`
 
-Solo se integran los pedidos de SKU activos, por lo que debe comprobar el status del ítem en el Admin VTEX, en el módulo **Catálogo > Productos y SKUs**. Puede activar el SKU [rellenando los campos del SKU](/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) o [activar los SKU en masa](/es/docs/tutorials/activar-skus-en-massa).
+Solo se integran los pedidos de SKU activos, por lo que debe comprobar el status del ítem en el Admin VTEX, en el módulo **Catálogo > Productos y SKUs**. Puede activar el SKU [rellenando los campos del SKU](/es/docs/tutorials/agregar-o-editar-skus) o [activar los SKU en masa](/es/docs/tutorials/activar-skus-en-massa).
 
 Si los SKU del pedido están activos, significa que el problema es que los SKU no están vinculados a la política comercial utilizada en Mercado Libre. En este caso, es necesario [asociar el SKU a la política comercial](/es/docs/tutorials/asociacion-de-sku-a-una-politica-comercial).
 

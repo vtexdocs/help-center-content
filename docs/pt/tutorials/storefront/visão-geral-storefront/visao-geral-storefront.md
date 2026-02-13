@@ -49,9 +49,9 @@ A seção inclui as seguintes páginas:
 
 As seguintes páginas estarão em breve na experiência repaginada:
 
-- [Explicação da busca](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4uSFqyJVCMVMIvVrtz3lxZ): interpreta um termo pesquisado e apresenta a lista de produtos como um resultado de pesquisa.  
-- [Regras de merchandising](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8): manipula resultados dentro de uma busca.   
-- [Sinônimos](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL): permite o cadastro de sinônimos – palavras de mesmo sentido – para um termo de busca específico, aumentando a chance de uma busca com sucesso.  
-- [Histórico da indexação](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH): monitora a situação de sincronização de todos os produtos do Catálogo enviados para o Intelligent Search.  
+- [Explicação da busca](/pt/docs/tutorials/explicacao-da-busca): interpreta um termo pesquisado e apresenta a lista de produtos como um resultado de pesquisa.  
+- [Regras de merchandising](/pt/docs/tutorials/criar-regra-de-merchandising-editor-manual): manipula resultados dentro de uma busca.   
+- [Sinônimos](/pt/docs/tutorials/criar-sinonimos): permite o cadastro de sinônimos – palavras de mesmo sentido – para um termo de busca específico, aumentando a chance de uma busca com sucesso.  
+- [Histórico da indexação](/pt/docs/tutorials/historico-da-indexacao): monitora a situação de sincronização de todos os produtos do Catálogo enviados para o Intelligent Search.  
 
-- [Analytics](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m): organiza os dados relacionados às pesquisas realizadas na loja e possibilita exportar esses dados.  
+- [Analytics](/pt/docs/tutorials/analytics): organiza os dados relacionados às pesquisas realizadas na loja e possibilita exportar esses dados.  

@@ -33,7 +33,7 @@ Follow the **principle of least privilege**, granting users only the permissions
 
 Segregating responsibilities also enhances security, ensuring each user or key has permissions aligned with their role in the organization.
 
-To do this, create different roles with access levels tailored to specific job responsibilities. Learn how to create custom roles in [Creating roles](/en/tutorial/creating-roles--qGtNQpKSSAduX94l2WZBW#creating-custom-roles).
+To do this, create different roles with access levels tailored to specific job responsibilities. Learn how to create custom roles in [Creating roles](/en/docs/tutorials/creating-roles#creating-custom-roles).
 
 ## Use single sign-on (SSO)
 

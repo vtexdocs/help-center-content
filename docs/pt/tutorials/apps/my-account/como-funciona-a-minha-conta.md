@@ -147,7 +147,7 @@ Contudo, existem limitações que precisam ser consideradas pelas lojas que util
 
 ## Assinaturas
 
-Nesta aba, o cliente pode gerenciar todas as suas assinaturas cadastradas, assim como modificar seus dados referentes a elas. Leia o artigo [Como funciona a assinatura](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453#como-o-cliente-da-sua-loja-visualiza-suas-assinaturas) para saber mais.
+Nesta aba, o cliente pode gerenciar todas as suas assinaturas cadastradas, assim como modificar seus dados referentes a elas. Leia o artigo [Como funciona a assinatura](/pt/docs/tutorials/como-funciona-a-assinatura#como-o-cliente-da-sua-loja-visualiza-suas-assinaturas) para saber mais.
 
 ## Autenticação
 

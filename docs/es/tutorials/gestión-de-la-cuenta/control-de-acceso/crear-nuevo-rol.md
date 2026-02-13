@@ -17,7 +17,7 @@ subcategoryId: 1HSqkejwuYcQSMC400uY84
 
 Los roles determinan el conjunto de recursos a los que un grupo de usuarios puede acceder en VTEX. Puedes gestionarlos a través del Admin VTEX, donde puedes definir los [recursos](/es/docs/tutorials/recursos-del-license-manager) y usuarios asociados a cada rol.
 
-Al crear un nuevo rol, puedes optar por utilizar uno [predefinido](/es/tutorial/control-de-acceso--4rM3gyiWqtkim4Q8hOvLTC#predefinidos), diseñado por el equipo de VTEX para abordar escenarios operativos comunes, o registrar uno [personalizado](/es/tutorial/control-de-acceso--4rM3gyiWqtkim4Q8hOvLTC#personalizados), definiendo los recursos específicos a los cuales los usuarios con ese rol tendrán acceso.
+Al crear un nuevo rol, puedes optar por utilizar uno [predefinido](/es/docs/tutorials/roles#predefinidos), diseñado por el equipo de VTEX para abordar escenarios operativos comunes, o registrar uno [personalizado](/es/docs/tutorials/roles#personalizados), definiendo los recursos específicos a los cuales los usuarios con ese rol tendrán acceso.
 
 Consulta a continuación los pasos a seguir para cada una de estas opciones:
 

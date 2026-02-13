@@ -52,12 +52,12 @@ As with the promotion, you can schedule a tax while you are creating it. To sche
 2. Click the **Taxes** page.
 3. Click on the `New Tax` button.
 4. In the section **Tax overview**, fill in the **Expiration date** field with the start and end dates and times of the tax validity period. To schedule the tax, you need to set a date and time in the future.
-5. Fill in the [remaining fields of the tax](/en/tutorial/creating-surchargestaxes--tutorials_321#fields).
+5. Fill in the [remaining fields of the tax](/en/docs/tutorials/creating-surchargestaxes#fields).
 6. Click on `Save`.
 
 ## Scheduling content
 
-Content scheduling via Site Editor can be done either while [creating](/en/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37#creating-content) or [editing](/en/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37#editing-content) a block. 
+Content scheduling via Site Editor can be done either while [creating](/en/docs/tutorials/managing-page-and-template-content#creating-content) or [editing](/en/docs/tutorials/managing-page-and-template-content#editing-content) a block. 
 
 > ⚠️ Content scheduling is only available for stores developed with [VTEX IO](https://vtex.com/us-en/store-framework/).
 

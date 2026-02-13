@@ -17,7 +17,7 @@ subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 
 > ℹ️ Para realizar a rescisão de contrato, sua loja não pode ter nenhuma dívida com a VTEX. E, caso haja, a dívida deverá ser quitada para seguir adiante com o processo. Saiba [como pagar sua fatura](/pt/docs/tutorials/como-fazer-download-faturas-da-vtex).
 
-Para solicitar rescisão, por favor entre em contato com nosso time financeiro por meio de um [ticket](/pt/tutorial/opening-tickets-to-vtex-support-finacial--1ad3TguXzCSKq4yuYSK80c). A abertura de um ticket produzirá uma resposta da VTEX. Após esse contato, você deverá enviar os documentos obrigatórios. 
+Para solicitar rescisão, por favor entre em contato com nosso time financeiro por meio de um [ticket](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex). A abertura de um ticket produzirá uma resposta da VTEX. Após esse contato, você deverá enviar os documentos obrigatórios. 
 
 Os documentos obrigatórios são:
 

@@ -53,9 +53,9 @@ Inicialmente, as principais ações que somente o usuário titular pode realizar
 * Solicitar um ambiente de teste para o gerente da conta.
 * Incluir novos usuários no ambiente VTEX. Para isso, é necessário entender os [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso-predefinidos) existentes.
 * [Habilitar login por autenticação de dois fatores](/pt/docs/tutorials/habilitar-login-por-autenticacao-de-2-fatores) para operadores.
-* Definir [formas de login](/pt/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs#formas-de-login) para os clientes da loja.
+* Definir [formas de login](/pt/docs/tutorials/autenticacao#formas-de-login) para os clientes da loja.
 
-Outras ações podem ser necessárias por este usuário e estão listadas no artigo [Usuário titular](/pt/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy#acoes-restritas-ao-usuario-titular).
+Outras ações podem ser necessárias por este usuário e estão listadas no artigo [Usuário titular](/pt/docs/tutorials/o-que-e-o-usuario-titular#acoes-restritas-ao-usuario-titular).
 
 > ⚠️ **Usuário titular** não é o mesmo que **Owner (Admin Super)**. O **Owner (Admin Super)** é um [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso-predefinidos) do [License Manager](/pt/docs/tutorials/recursos-do-license-manager) que define permissões concedidas a um usuário e pode ser atribuído a múltiplos usuários. No entanto, existe apenas um **Usuário titular** por [conta](/pt/docs/tutorials/o-que-e-account-name).
 
@@ -69,7 +69,7 @@ Novos usuários devem ser cadastrados no Admin VTEX pela página **Gerenciamento
 
 ### Definir perfis de acesso e permissões para usuários
 
-Para definir as ações que um usuário pode realizar no Admin VTEX, basta seguir as instruções no artigo [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso). É possível associar usuários a [perfis de acesso predefinidos](/pt/docs/tutorials/perfis-de-acesso-predefinidos) ou, caso exista a necessidade de perfis que agrupem permissões diferentes das predefinidas, criar [perfis de acesso customizados](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso).
+Para definir as ações que um usuário pode realizar no Admin VTEX, basta seguir as instruções no artigo [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso). É possível associar usuários a [perfis de acesso predefinidos](/pt/docs/tutorials/perfis-de-acesso-predefinidos) ou, caso exista a necessidade de perfis que agrupem permissões diferentes das predefinidas, criar [perfis de acesso customizados](/pt/docs/tutorials/perfis-de-acesso#criando-um-perfil-de-acesso).
 
 ## Autenticação para plataforma e frente de loja
 
@@ -85,7 +85,7 @@ A tabela abaixo apresenta quais são os três tipos de autenticação disponíve
 
 | **Tipo de autenticação** | **Descrição** |
 | :---: | :--- |
-| Autenticação de requisições a APIs usando [chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) (appKeys) | As chaves de aplicação (appKeys) são utilizadas para autenticar requisições a APIs da VTEX. Os administradores da loja podem criar essas chaves para diferentes integrações.Mais informações em [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). |
+| Autenticação de requisições a APIs usando [chaves de aplicação](/pt/docs/tutorials/chaves-de-api) (appKeys) | As chaves de aplicação (appKeys) são utilizadas para autenticar requisições a APIs da VTEX. Os administradores da loja podem criar essas chaves para diferentes integrações.Mais informações em [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). |
 | Autenticação de requisições a APIs usando tokens de usuário | Os tokens de usuário são usados para autenticar requisições a APIs, especialmente para aplicativos [frontend](/pt/docs/tracks/implementacao-de-frontend) desenvolvidos com VTEX IO.Mais informações em [API authentication using user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens). |
 | Autenticação de apps usando tokens de autenticação | O uso de tokens de autenticação (auth tokens) é necessário para autenticação no desenvolvimento de apps com VTEX IO.Mais informações em [App authentication using auth tokens](https://developers.vtex.com/docs/guides/app-authentication-using-auth-tokens). |
 
@@ -93,11 +93,11 @@ A tabela abaixo apresenta quais são os três tipos de autenticação disponíve
 
 Um conceito importante na VTEX é [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial), que significa um conjunto de configurações, incluindo:
 
-* [Catálogo](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#catalogo)
-* [Preços](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#precos)
-* [Promoções](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#promocoes)
-* [Estratégias de envio](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#estrategia-de-envio)
-* [Pagamentos](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#pagamentos)
+* [Catálogo](/pt/docs/tutorials/como-funciona-uma-politica-comercial#catalogo)
+* [Preços](/pt/docs/tutorials/como-funciona-uma-politica-comercial#precos)
+* [Promoções](/pt/docs/tutorials/como-funciona-uma-politica-comercial#promocoes)
+* [Estratégias de envio](/pt/docs/tutorials/como-funciona-uma-politica-comercial#estrategia-de-envio)
+* [Pagamentos](/pt/docs/tutorials/como-funciona-uma-politica-comercial#pagamentos)
 
 Em toda integração com um canal de venda, é necessário atrelar uma política comercial e, quando uma das configurações citadas anteriormente diferir para um novo canal, é necessário criar uma nova política comercial.
 

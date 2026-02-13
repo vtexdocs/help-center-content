@@ -121,7 +121,7 @@ Puede consultar todos los controles nativos disponibles y sus respectivos usos e
 - [Layout](/es/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW)
 - [Configuración](/es/subcategory/configuracion-de-cms--6kovkwzMRyeOOc2iEC4suM)
 - [Estructura de las carpetas del Layout](/es/tutorial/cms-folder-structure--2RdMaJSv4AK4EyscmQuocu?&utm_source=autocomplete)
-- [Lista de controles para plantillas](/es/tutorial/list-of-controls-for-templates--tutorials_563)
+- [Lista de controles para plantillas](https://developers.vtex.com/docs/guides/list-of-controls-for-templates)
 - [¿Qué son las plantillas?](/es/tutorial/o-que-sao-templates--4l7BQBYO9ycumsqua2CU88?&utm_source=autocomplete)
 - [¿Qué es un sitio web?](/es/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
 - [¿Qué son los controles?](/es/tutorial/o-que-sao-controles--6e2qsk9zu8IQuyEysKweag?&utm_source=autocomplete)

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 
-Todos los usuarios tienen acceso al servicio prestado por el equipo de especialistas del [Soporte VTEX](/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). Nuestros especialistas están capacitados para brindar la mejor experiencia posible en la resolución de tickets. Para ponerte en contacto con ellos, debes abrir un ticket a través del sistema de tickets.
+Todos los usuarios tienen acceso al servicio prestado por el equipo de especialistas del [Soporte VTEX](/es/docs/tutorials/como-funciona-el-soporte-de-vtex). Nuestros especialistas están capacitados para brindar la mejor experiencia posible en la resolución de tickets. Para ponerte en contacto con ellos, debes abrir un ticket a través del sistema de tickets.
 
 Para que los usuario tengan acceso al Soporte VTEX es necesario [activar la autorización de soporte](/es/docs/tutorials/roles) en [License Manager](/es/docs/tutorials/recursos-del-license-manager). Esta configuración solo es válida para cuentas de Brasil.
 

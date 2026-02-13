@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-Customers may request to cancel their order for various reasons. They can [cancel an order automatically](/en/tutorial/order-cancellation-requested-by-the-customer--3wEI6DUNtecooG2Ki4Akqo#cancellation-within-the-grace-period) within the **grace period for cancellation**, or after that period upon the [retailer cancellation approval](/en/tutorial/order-cancellation-requested-by-the-customer--3wEI6DUNtecooG2Ki4Akqo#cancellation-approved-by-the-retailer). 
+Customers may request to cancel their order for various reasons. They can [cancel an order automatically](/en/docs/tutorials/order-cancellation-requested-by-the-customer#cancellation-within-the-grace-period) within the **grace period for cancellation**, or after that period upon the [retailer cancellation approval](/en/docs/tutorials/order-cancellation-requested-by-the-customer#cancellation-approved-by-the-retailer). 
 
 > ❗ Once an order is canceled, it is no longer possible to change its status.
 
@@ -34,13 +34,13 @@ When the customer requests to cancel an order during the [grace period](/en/docs
 When the customer requests to cancel an order outside the grace period, the retailer must approve the cancellation. To do that, the platform shows the cancellation request to the store's admin in the following ways:
 
 * On the order flow screen, you will find the cancellation request with the reason indicated by the customer, and the order status `Cancellation requested`. 
-* Via an email sent by the platform informing about the cancellation request. This is a [VTEX DO](/en/tutorial/vtex-do--tutorials_203) task called `Cancellation requested`. With VTEX DO, retailers can manage pending cancellation requests. 
+* Via an email sent by the platform informing about the cancellation request. This is a [VTEX DO](/en/docs/tutorials/vtex-do-interface) task called `Cancellation requested`. With VTEX DO, retailers can manage pending cancellation requests. 
 
 The retailer must approve or reject the cancellation request. If the retailer does not approve it, we recommend telling the customer about the impossibility of canceling the order.
 
 Even if the retailer uses the [VTEX DO](/en/docs/tutorials/vtex-do-interface) to deny the cancellation requested by the customer, the retailer must proceed with the order's [billing](/en/docs/tutorials/how-to-manually-invoice-an-order), which is what makes the order follow its flow.
 
-> ⚠️ If the [Order replacement](/en/tutorial/order-replacement--2IK9mwQjBKseQmE8K8saO8#enabling-the-feature) feature is enabled, customers will be able to change or cancel orders at any time, including after the grace period for cancellation.
+> ⚠️ If the [Order replacement](/en/docs/tutorials/order-replacement#enabling-the-feature) feature is enabled, customers will be able to change or cancel orders at any time, including after the grace period for cancellation.
 
 ## Cancellation reason
 
@@ -57,7 +57,7 @@ To change the options, follow the steps below:
 
 ## Related articles
 
-- [Why was my order canceled?](/en/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493)
+- [Why was my order canceled?](/en/troubleshooting/my-store-order-was-canceled)
 - [Setting the grace period for order cancellation](/en/tutorial/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido)
 - [Why was my order canceled on the VTEX platform, and not in the marketplace?](/en/faq/por-que-meu-pedido-foi-cancelado)
 - [Order replacement](/en/docs/tutorials/order-replacement)

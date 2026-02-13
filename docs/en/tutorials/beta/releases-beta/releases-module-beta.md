@@ -62,7 +62,7 @@ To create a release, follow the step-by-step instructions below:
 6. Click `Create a release`.
 7. In the _Name_ field, write a name for the release.
 
-  > ℹ️ In this stage, the fields **Day to publish** and **Time** are not required. This information can be decided upon later, as described in [Scheduling releases](/en/tutorial/modulo-lancamentos-beta--n2tN0WX5I6MJMbrJrS0Kb#scheduling-releases).
+  > ℹ️ In this stage, the fields **Day to publish** and **Time** are not required. This information can be decided upon later, as described in [Scheduling releases](/en/docs/tutorials/releases-module-beta#scheduling-releases).
 
 8. Click `Create`.
 

@@ -17,7 +17,7 @@ announcementSynopsisEN: 'Orders from native connectors that present price diverg
 
 When the price set by a seller is different from the price offered by the marketplace, orders placed on marketplaces may not be processed correctly. In VTEX, the Orders Authorization flow allows the control and automatic approval of these orders, based on the configuration that the seller makes of a [Price Divergence rule](/en/docs/tutorials/price-divergence-rule).
 
-This feature had global reach for VTEX marketplaces, external marketplaces, and [certified connectors (partners)](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-certified-connector-partner), but was in Beta phase for native connectors. It now applies to all integrations with [native connectors](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex), with the exception of Zoom.
+This feature had global reach for VTEX marketplaces, external marketplaces, and [certified connectors (partners)](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-a-certified-connector-partner), but was in Beta phase for native connectors. It now applies to all integrations with [native connectors](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-a-native-connector-vtex), with the exception of Zoom.
 
 With the improvement, the seller [sets the Price Divergence rule](/en/docs/tutorials/configuring-price-divergence-rule), and orders with native connector price difference errors are now processed by the Orders Authorization flow. This allows you to create automatic approval rules and rules that rely on manual approval. Another benefit is that it is easier to manage orders with price divergence, as this process is now done in **Orders management**.
 
@@ -30,10 +30,10 @@ The following table compares the order processing flow for native connectors _be
 | **BEFORE** | **NOW** |
 | ---------- | ---------- | 
 | The configuration of an order processing rule with an error was done in the integration configuration step, by filling in a mandatory field in the connector's registration. | The processing of orders with an error is made in the [configuration of the Price Divergence rule](/en/docs/tutorials/configuring-price-divergence-rule), in the Orders authorization flow. |
-| Orders with price divergence error were not created automatically, only after manual reprocessing. | Orders with price divergence error are created automatically. [Manual approval](/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe#approving-orders-manually) of an order is only necessary when you configure an authorization rule that requires this action. |
+| Orders with price divergence error were not created automatically, only after manual reprocessing. | Orders with price divergence error are created automatically. [Manual approval](/en/docs/tutorials/configuring-price-divergence-rule#approving-orders-manually) of an order is only necessary when you configure an authorization rule that requires this action. |
 | The order's stock reservation was not carried out. | The order's stock reservation is carried out automatically. |
 | The configuration only allowed defining a percentage range of the order price to authorize and another range to deny the integration of an order with price divergence. | [Configuring the Price Divergence rule](/en/docs/tutorials/configuring-price-divergence-rule) allows you to create different automatic rules for various percentage ranges of the order price. You can create rules that require manual approval from an authorized user. |
-| Any user with access permission to VTEX Admin could manually reprocess orders with price divergence error, in **MARKETPLACE > Integrations > Orders**. | Only authorized users can [manually approve](/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe#approving-orders-manually) orders with price divergence error. |
+| Any user with access permission to VTEX Admin could manually reprocess orders with price divergence error, in **MARKETPLACE > Integrations > Orders**. | Only authorized users can [manually approve](/en/docs/tutorials/configuring-price-divergence-rule#approving-orders-manually) orders with price divergence error. |
 | Order management was performed in VTEX Admin, under **MARKETPLACE > Integrations > Orders**. | The management of orders with price divergence is carried out in the VTEX Admin, under **ORDERS > Orders management > All orders**. |
 
 Mandatory fields for setting up order processing with price divergence error had different names in native connectors:
@@ -62,7 +62,7 @@ The main benefits of the new flow are:
 
 - Versatile options for configuring automatic processing rules by [configuring the Price Divergence rule](/en/tutorial/configuracao-da-regra-de-divergenc). You can define different authorization rules for percentage ranges of the order price and create rules that require manual approval from an authorized user.
 - Greater control over what percentage of the order price should rely on manual approval and which can be automatically approved or denied.
-- More security in your operation, with the control of users with permission to [manually approve orders](/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe#approving-orders-manually).
+- More security in your operation, with the control of users with permission to [manually approve orders](/en/docs/tutorials/configuring-price-divergence-rule#approving-orders-manually).
 - Guarantee that orders with price divergence error are created automatically. What may be pending is manual approval of the order, when an authorization rule is configured for this.
 - Order stock reservation is assured, as the order creation is no longer pending.
 - Easier management of orders with price divergence error, which is now made in **Orders management**.
@@ -75,6 +75,6 @@ Once you have configured the Price Divergence rule, it will apply to all marketp
 
 For VTEX marketplaces, external marketplaces and certified connectors (partners), as long as the Price Divergence rule has not been created, orders with price divergence error are automatically approved.
 
-> ⚠️ For [native connectors](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex), while the seller does not [configure the Price Divergence rule](/en/docs/tutorials/configuring-price-divergence-rule), orders with price divergence are retained. You can track them in your VTEX Admin by clicking on MARKETPLACE > Integrations > Orders.
+> ⚠️ For [native connectors](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-a-native-connector-vtex), while the seller does not [configure the Price Divergence rule](/en/docs/tutorials/configuring-price-divergence-rule), orders with price divergence are retained. You can track them in your VTEX Admin by clicking on MARKETPLACE > Integrations > Orders.
 
 If you don't want native connectors to obey the Price Divergence Rule, you can keep the previous flow. In this case, [contact the VTEX support team](https://support.vtex.com/hc/en-us/requests).

@@ -21,7 +21,7 @@ A criação de um novo ambiente pode gerar custos adicionais, conforme estipulad
 
 A VTEX provisiona novos ambientes sem configurações ou conteúdo replicado do ambiente principal. Após a criação, você precisa configurar e personalizar o ambiente, adicionando layout, produtos, políticas comerciais e integrações para atender às suas necessidades.
 
-Para cadastrar um ecommerce independente do existente e associar o mesmo catálogo a um domínio de URL diferente, configure uma [multiloja](/pt/tutorial/como-criar-multiloja-multidominio--tutorials_510). Essa opção não gera custo adicional.
+Para cadastrar um ecommerce independente do existente e associar o mesmo catálogo a um domínio de URL diferente, configure uma [multiloja](/pt/docs/tutorials/gerenciando-uma-multiloja). Essa opção não gera custo adicional.
 
 ## Informações necessárias para a solicitação
 Ao solicitar um novo ambiente, inclua as seguintes informações:

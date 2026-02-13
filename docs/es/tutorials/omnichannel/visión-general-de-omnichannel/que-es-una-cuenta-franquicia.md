@@ -59,7 +59,7 @@ Para acceder al Admin de cada cuenta franquicia, entre en la URL `{{nombredelacu
 
 #### Utilizar los precios de la cuenta principal
 
-Para que la cuenta franquicia utilice los precios configurados en la cuenta principal, es necesario seleccionar la opción **Heredar precios de la cuenta padre** en la Configuración del módulo de **Precios** de la cuenta franquicia, como se describe en [este artículo](/es/tutorial/price-configuration--3hbBtCzNUBrj8GaWgCtSWN#configuracoes-gerais-de-precos).
+Para que la cuenta franquicia utilice los precios configurados en la cuenta principal, es necesario seleccionar la opción **Heredar precios de la cuenta padre** en la Configuración del módulo de **Precios** de la cuenta franquicia, como se describe en [este artículo](/es/docs/tutorials/configuracion-de-precios#configuracoes-gerais-de-precos).
 
 #### Configurar precios propios de la cuenta franquicia
 

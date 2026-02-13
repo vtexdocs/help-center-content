@@ -31,7 +31,7 @@ Essa alteração visa aumentar a segurança e simplificar o acesso do usuário a
 Certifique-se de que os usuários do Headless CMS estejam associados aos recursos `CMS GraphQL API`, `See CMS menu on the top-bar` e `Settings` em seus perfis de acesso, seja [criando um novo perfil de acesso](#criar-um-novo-perfil-de-acesso) ou [editando um existente](#editar-um-perfil-de-acesso).
 
 <div style="background-color:#FFF3CD; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 35px">
-  Para gerenciar usuários e perfis de acesso, é necessário ter o recurso `Save access profile` do produto **License Manager** associado ao perfil de acesso do usuário. Por exemplo, o [User Administrator - RESTRICTED](/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) é um perfil de acesso predefinido que tem o recurso `Save access profile` associado a ele.
+  Para gerenciar usuários e perfis de acesso, é necessário ter o recurso `Save access profile` do produto **License Manager** associado ao perfil de acesso do usuário. Por exemplo, o [User Administrator - RESTRICTED](/pt/docs/tutorials/perfis-de-acesso-predefinidos#user-administrator-restricted) é um perfil de acesso predefinido que tem o recurso `Save access profile` associado a ele.
 
 </div>
 

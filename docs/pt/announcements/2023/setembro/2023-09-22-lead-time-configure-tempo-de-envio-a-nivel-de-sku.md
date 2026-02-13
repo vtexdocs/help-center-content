@@ -33,7 +33,7 @@ Agora, existe também a opção de configurar o tempo de envio a nível de SKU, 
 
 ![lead_time_inventory_management_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/setembro/2023-09-22-lead-time-configure-tempo-de-envio-a-nivel-de-sku_2.png)
 
-> ⚠️ Pelo Admin VTEX, o lead time é configurado em dias, até o limite de 365 dias. Por padrão, os dias são contados em dias úteis, mas você pode configurar sua política de envio para que a [contagem seja feita em dias corridos](/pt/tutorial/lead-time-tempo-de-envio-a-nivel-de-sku--16yv5Mkj6bTyWR1hCN2f4B#configurar-a-contagem-do-lead-time-em-dias-do-calendario-opcional). Para configurar períodos em horas, minutos e segundos, é necessário utilizar o endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
+> ⚠️ Pelo Admin VTEX, o lead time é configurado em dias, até o limite de 365 dias. Por padrão, os dias são contados em dias úteis, mas você pode configurar sua política de envio para que a [contagem seja feita em dias corridos](/pt/docs/tutorials/lead-time-tempo-de-envio-a-nivel-de-sku#configurar-a-contagem-do-lead-time-em-dias-do-calendario-opcional). Para configurar períodos em horas, minutos e segundos, é necessário utilizar o endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
 ## Por que fizemos essa mudança?
 

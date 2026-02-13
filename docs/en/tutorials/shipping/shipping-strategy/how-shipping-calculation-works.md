@@ -51,7 +51,7 @@ The selection of logistics combinations is made according to the criteria below,
   <li>Lowest price</li>
   <li>Shortest time</li>
   <li>Lowest package split</li>
-  <li>[Priority loading docks](/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW#campos-de-cadastro)</li>
+  <li>[Priority loading docks](/en/docs/tutorials/managing-loading-docks#campos-de-cadastro)</li>
 </ul>
 <br>
   > ℹ️ When there is a tie between loading docks, the tiebreak criterion is the [overhead](/en/docs/tutorials/managing-loading-docks), which represents a value in number of days that will determine the most advantageous loading dock for a given shipment. The lower the overhead, the higher the chances for a loading dock to be selected. Please note that the overhead is not considered when calculating the shipping time.
@@ -67,7 +67,7 @@ The final result of the logistics configuration selection is an ordered list of 
 
 You can configure different priorities and criteria for [logistics](/en/docs/tutorials/fulfillment-logistics-vtex)-related steps in the VTEX Admin:
 
-- **Loading docks:** Priorities are configured when [adding a new loading dock](/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW#campos-de-cadastro).
+- **Loading docks:** Priorities are configured when [adding a new loading dock](/en/docs/tutorials/managing-loading-docks#campos-de-cadastro).
 - **Shipping rates:** The shipping rate prices are configured in the [shipping rates](/en/docs/tutorials/shipping-rates), except for the [loading dock rate](/en/docs/tutorials/total-shipping-cost), which is an optional value, configured when adding a new loading dock to a warehouse.
 - **Delivery time:** The shipping time is configured in the [SLA estimate](#shipping-time-estimate).
 - **Package splitting:** The adopted criteria are configured in the Checkout module. Learn more in [package splitting](/en/docs/tutorials/order-split-and-delivery-split).

@@ -98,7 +98,7 @@ If all the steps have been followed correctly, under **Applications > Other Apps
 
 1. Use the ""Open a Ticket"" Card in the Flow
 You can now use the **Open a Ticket** card in your flow on the Weni Platform.
-See: [Creating Custom Fields](https://help.vtex.com/docs/tutorials/adding-ticket-creation-fields-in-zendesk) .
+See: [Creating Custom Fields](/en/docs/tutorials/adding-ticket-creation-fields-in-zendesk) .
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/zendesk-human-support_16.png)
 

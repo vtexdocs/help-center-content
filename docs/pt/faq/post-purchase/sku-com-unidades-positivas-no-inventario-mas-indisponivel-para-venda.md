@@ -18,5 +18,5 @@ Quando dois ou mais estoques utilizam a mesma [política comercial](/pt/docs/tut
 
 Isso ocorre porque a plataforma VTEX soma as unidades negativas de SKU de determinado estoque às unidades positivas de outro estoque. Se a soma dessas quantidades é zero, o SKU fica indisponível para vendas na loja.
 
-Saiba mais sobre estoque negativo no artigo [Como atualizar itens no inventário.](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139#atualizar-estoque)
+Saiba mais sobre estoque negativo no artigo [Como atualizar itens no inventário.](/pt/docs/tutorials/gerenciar-itens-em-estoque#atualizar-estoque)
 

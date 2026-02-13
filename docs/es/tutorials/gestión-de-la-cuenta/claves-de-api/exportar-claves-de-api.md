@@ -19,7 +19,7 @@ La página [Claves de API](/es/docs/tutorials/claves-de-api) permite exportar in
 
 ## Antes de empezar
 
-Para exportar debes tener el rol [User Administrator \- RESTRICTED](/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) o un rol [personalizado](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso) con el recurso *View API Keys*.
+Para exportar debes tener el rol [User Administrator \- RESTRICTED](/es/docs/tutorials/roles-de-usuario-predefinidos#user-administrator-restricted) o un rol [personalizado](/es/docs/tutorials/roles#criando-um-perfil-de-acesso) con el recurso *View API Keys*.
 
 ## Instrucciones
 

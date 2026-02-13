@@ -21,12 +21,12 @@ La reserva es una solución VTEX que impide que el mismo ítem se venda más de 
 
 Después de ser vendido, un ítem pasa por los siguientes status en el_ stock _de tu tienda:
 
-1. **[Reserva autorizada](/es/tutorial/como-se-maneja-la-reserva--tutorials_92#reserva-autorizada)** tras la finalización de la compra.
-2. **[Reserva confirmada](/es/tutorial/como-se-maneja-la-reserva--tutorials_92#reserva-confirmada)**: tras la aprobación del pago.
-3. **[Reserva reconocida](/es/tutorial/como-se-maneja-la-reserva--tutorials_92#reserva-reconocida)**: cuando el status del pedido cambia a **Preparando entrega **en el módulo **Pedidos**.
-4. **[Dado de baja en el stock:](/es/tutorial/como-se-maneja-la-reserva--tutorials_92#dado-de-baja-en-el-stock)** pedido en transporte para entrega.
+1. **[Reserva autorizada](/es/docs/tutorials/como-se-maneja-la-reserva#reserva-autorizada)** tras la finalización de la compra.
+2. **[Reserva confirmada](/es/docs/tutorials/como-se-maneja-la-reserva#reserva-confirmada)**: tras la aprobación del pago.
+3. **[Reserva reconocida](/es/docs/tutorials/como-se-maneja-la-reserva#reserva-reconocida)**: cuando el status del pedido cambia a **Preparando entrega **en el módulo **Pedidos**.
+4. **[Dado de baja en el stock:](/es/docs/tutorials/como-se-maneja-la-reserva#dado-de-baja-en-el-stock)** pedido en transporte para entrega.
 
-Puedes seguir el status de la reserva de los ítems a través del Admin VTEX, [como se describe al final de este artículo. ](/es/tutorial/como-se-maneja-la-reserva--tutorials_92#como-seguir-el-status-de-la-reserva)
+Puedes seguir el status de la reserva de los ítems a través del Admin VTEX, [como se describe al final de este artículo. ](/es/docs/tutorials/como-se-maneja-la-reserva#como-seguir-el-status-de-la-reserva)
 
 > ⚠️ El hecho de añadir productos al carrito no genera reserva ni prioridad. Un ítem solo pasa al status Reserva autorizada tras el cliente finalizar el pedido.
 
@@ -38,7 +38,7 @@ El ítem permanece en este status durante un tiempo determinado, y si no se conf
 
 _plazo de vencimiento del pago + plazo de reserva en el stock_
 
-* **Plazo de vencimiento del pago:** el tiempo (en días) establecido para realizar el pago. Para los pagos con boleto (Brasil) o [pagaré](/es/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ#configurar-pagare), este plazo se puede configurar en el módulo **[Pagos](/es/docs/tracks/como-funciona-el-modulo-de-pagos)**. En cambio, para los demás medios de pago, como tarjeta de crédito y _wallet_, no se puede configurar un plazo de vencimiento de pago. El flujo de pago se inicia justo después del _checkout_ y la aprobación o denegación se realizará en distintos momentos, según el medio de pago seleccionado.
+* **Plazo de vencimiento del pago:** el tiempo (en días) establecido para realizar el pago. Para los pagos con boleto (Brasil) o [pagaré](/es/docs/tutorials/configurar-pagos-con-pagare#configurar-pagare), este plazo se puede configurar en el módulo **[Pagos](/es/docs/tracks/como-funciona-el-modulo-de-pagos)**. En cambio, para los demás medios de pago, como tarjeta de crédito y _wallet_, no se puede configurar un plazo de vencimiento de pago. El flujo de pago se inicia justo después del _checkout_ y la aprobación o denegación se realizará en distintos momentos, según el medio de pago seleccionado.
 * **Plazo de reserva en el stock:** se establece automáticamente, siguiendo las reglas que se indican a continuación.
     * **cuatro días consecutivos**: cuando el día de vencimiento del pago sea domingo, lunes o martes.
     * **cinco días consecutivos:** cuando el día de vencimiento del pago sea miércoles, jueves o viernes.

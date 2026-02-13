@@ -75,10 +75,10 @@ VTEX will support the merchant in some of these obligations under the [DPA](http
 
 ### Platform access
 
-Merchants play a crucial role in data security, as their decisions directly impact data protection. For example, by giving specific users or teams access to the platform or sharing [application keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) (appKeys), the merchant affects the security of the data stored in that environment.
+Merchants play a crucial role in data security, as their decisions directly impact data protection. For example, by giving specific users or teams access to the platform or sharing [application keys](/en/docs/tutorials/api-keys) (appKeys), the merchant affects the security of the data stored in that environment.
 
 To understand how to manage access credentials and ensure data integrity properly, see the following articles:
 
 - [Roles](/en/docs/tutorials/roles)
 -	[License Manager resources](/en/docs/tutorials/license-manager-resources)
-- [Application keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet)
+- [Application keys](/en/docs/tutorials/api-keys)

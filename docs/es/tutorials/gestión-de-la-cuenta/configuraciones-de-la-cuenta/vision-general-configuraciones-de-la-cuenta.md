@@ -44,5 +44,5 @@ Esta página muestra la lista de usuarios con su nombre, email y configuración 
 
 ## Claves de aplicación
 
-En esta página, puedes gestionar las claves de aplicación, que se utilizan para conectar tu cuenta VTEX con sistemas externos mediante API. Estas claves se utilizan para garantizar un acceso seguro a los datos que deseas compartir con las integraciones, sin exponer tu cuenta a aplicaciones o usuarios no autorizados. Para saber más sobre la página, consulta el artículo [Claves de aplicación](/es/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet).
+En esta página, puedes gestionar las claves de aplicación, que se utilizan para conectar tu cuenta VTEX con sistemas externos mediante API. Estas claves se utilizan para garantizar un acceso seguro a los datos que deseas compartir con las integraciones, sin exponer tu cuenta a aplicaciones o usuarios no autorizados. Para saber más sobre la página, consulta el artículo [Claves de aplicación](/es/docs/tutorials/claves-de-api).
 

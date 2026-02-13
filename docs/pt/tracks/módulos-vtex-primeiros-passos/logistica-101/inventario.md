@@ -15,7 +15,7 @@ trackSlugEN: logistica-101
 order: 3
 ---
 
-O inventário é a funcionalidade de gerenciamento dos produtos disponíveis para venda. Depois que os [produtos são cadastrados](/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) no [catálogo](/pt/docs/tracks/catalogo-definicao-de-conceito), é preciso adicioná-los a um estoque da loja para que eles fiquem de fato disponíveis para venda. O módulo [Gerenciar inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) é onde os itens do catálogo são vinculados a um estoque.
+O inventário é a funcionalidade de gerenciamento dos produtos disponíveis para venda. Depois que os [produtos são cadastrados](/pt/docs/tutorials/adicionar-ou-editar-produto) no [catálogo](/pt/docs/tracks/catalogo-definicao-de-conceito), é preciso adicioná-los a um estoque da loja para que eles fiquem de fato disponíveis para venda. O módulo [Gerenciar inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) é onde os itens do catálogo são vinculados a um estoque.
 
 > ℹ️ Lembre-se de adicionar pelo menos um [estoque](/pt/docs/tutorials/estoque) em sua loja antes de usufruir do [Inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque).
 

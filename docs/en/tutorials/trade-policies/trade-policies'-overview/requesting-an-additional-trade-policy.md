@@ -19,7 +19,7 @@ VTEX uses [trade policies](/en/docs/tutorials/how-trade-policies-work) to establ
 
 Using trade policies, you can determine catalog, price, promotion, payment, inventory, logistics, and audience segmentation settings for sales channels. It is not necessary to [create a different trade policy](/en/docs/tutorials/creating-a-trade-policy) for each sales channel, as the same trade policy can be used in multiple channels.
 
-To request a trade policy for a sales channel outside the VTEX ecosystem, such as a marketplace for which there is no [native connector](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex) for example, follow the flow of [Requesting a trade policy](#request-a-trade-policy)
+To request a trade policy for a sales channel outside the VTEX ecosystem, such as a marketplace for which there is no [native connector](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-a-native-connector-vtex) for example, follow the flow of [Requesting a trade policy](#request-a-trade-policy)
 
 ## Requesting a trade policy 
 

@@ -23,10 +23,10 @@ Además, es posible registrar el almacén, los muelles por los que saldrán los 
 
 Este artículo contiene la información necesaria para:
 
-* [Registrar un nuevo almacén](/es/tutorial/gestionar-almacenes--tutorials_137#registrar-almacen).
-* [Rellenar los campos de registro del almacén](/es/tutorial/gestionar-almacenes--tutorials_137#campos-de-registro).
-* [Editar un almacén existente](/es/tutorial/gestionar-almacenes--tutorials_137#editar-almacen).
-* [Eliminar un almacén](/es/tutorial/gestionar-almacenes--tutorials_137#eliminar-almacen).
+* [Registrar un nuevo almacén](/es/docs/tutorials/gestionar-almacenes#registrar-almacen).
+* [Rellenar los campos de registro del almacén](/es/docs/tutorials/gestionar-almacenes#campos-de-registro).
+* [Editar un almacén existente](/es/docs/tutorials/gestionar-almacenes#editar-almacen).
+* [Eliminar un almacén](/es/docs/tutorials/gestionar-almacenes#eliminar-almacen).
 
 > ⚠️ Como el almacén forma parte del sistema logístico de su tienda, le sugerimos que registre los módulos relacionados con la operación logística en el siguiente orden: <body> <ol> <li>[Política de envío](/es/docs/tutorials/politica-de-envio)</li> <li>[Muelle](/es/docs/tutorials/gestionar-el-muelle)</li> <li>[Almacén](/es/docs/tutorials/almacen)</li> </ol> </body>
 

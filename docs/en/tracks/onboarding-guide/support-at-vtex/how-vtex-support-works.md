@@ -30,7 +30,7 @@ The following table shows an overview of the Help Center's main articles by regi
 
 | **Region**        | **Help Center article**     |
 |-------------------|-----------------------------|
-| Global            | **Article:** [How does VTEX support work?](/en/faq/how-does-vtex-support-work--3kACEfni4m8Yxa1vnf2ebe)<br><br>  It explains how support works globally, covering ticket management, regional schedules, satisfaction surveys, and services such as monitoring. It also includes resources such as the Help Center, Developer Portal, and announcements about platform updates. |
-| Brazil only       | **Article:** [VTEX Support - Brazil](/en/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9)<br><br>  It shows the availability, SLA, and resources available to clients in Brazil. |
-| United States only | **Article:** [VTEX Support - United States](/en/faq/vtex-support-united-states--Bm45YFp68QRe1Z5r2oa07)<br><br>  It shows the availability, SLA, and resources available to clients in the United States. Available only in English. |
-| Europe, the Middle East and Africa (EMEA) only | **Article:** [VTEX Support - EMEA](/en/faq/suporte-vtex-emea--5ePu2qkCfmE0IEKDFKg53F)<br><br>  It shows availability, SLA, and resources available to clients in the EMEA region. Available only in English. |
+| Global            | **Article:** [How does VTEX support work?](/en/docs/tutorials/how-does-vtex-support-work)<br><br>  It explains how support works globally, covering ticket management, regional schedules, satisfaction surveys, and services such as monitoring. It also includes resources such as the Help Center, Developer Portal, and announcements about platform updates. |
+| Brazil only       | **Article:** [VTEX Support - Brazil](/en/tutorial/vtex-support-brazil--bxOl9e62rq0ZZMsGodchd)<br><br>  It shows the availability, SLA, and resources available to clients in Brazil. |
+| United States only | **Article:** [VTEX Support - United States](/en/tutorial/suporte-vtex-estados-unidos)<br><br>  It shows the availability, SLA, and resources available to clients in the United States. Available only in English. |
+| Europe, the Middle East and Africa (EMEA) only | **Article:** [VTEX Support - EMEA](/en/tutorial/suporte-vtex-emea--36iE7FTX0AIkfPKLeqr1vN)<br><br>  It shows availability, SLA, and resources available to clients in the EMEA region. Available only in English. |

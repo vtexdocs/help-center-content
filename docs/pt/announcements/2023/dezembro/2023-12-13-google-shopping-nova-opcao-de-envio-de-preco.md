@@ -29,7 +29,7 @@ Anteriormente, no cadastro da [integração com o Google Shopping](/pt/docs/trac
 
 ## O que precisa ser feito?
 
-A atualização estará disponível para todas as [contas VTEX que atuam como seller](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) a partir de 14 de dezembro de 2023. 
+A atualização estará disponível para todas as [contas VTEX que atuam como seller](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#sendo-seller-vtex) a partir de 14 de dezembro de 2023. 
 Para contas que ainda não utilizam a integração com o Google Shopping e desejam ativar as configurações **Enviar preço base (para preços com desconto)** e **Aplicar desconto no preço enviado**, siga [esta trilha](/pt/docs/tracks/google-shopping-marketplace) para começar a utilizar as novas configurações. Para contas já integradas com o Google Shopping e com a configuração **Considerar desconto para pagamento com boleto no preço enviado** ativa, após a atualização a configuração correspondente **Aplicar desconto no preço enviado** já estará ativa conforme imagem abaixo:  
 
 ![fluxo-update-news-google](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/dezembro/2023-12-13-google-shopping-nova-opcao-de-envio-de-preco_2.png)  

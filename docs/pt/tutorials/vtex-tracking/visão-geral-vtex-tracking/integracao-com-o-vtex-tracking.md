@@ -31,7 +31,7 @@ Há dois cenários de integração:
 A instalação do aplicativo VTEX Tracking  é o primeiro passo para a integração, e é comum aos dois tipos de integração.
 
 1. A instalação é feita no ambiente Admin na App Store da VTEX.
-2. A configuração permite selecionar se deseja integrar apenas pedidos com o arquivo da nota fiscal e se deseja habilitar as atualizações de status. Para que as configurações ocorram, é preciso validar o Token, que deve ser solicitado pelo [suporte](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9). 
+2. A configuração permite selecionar se deseja integrar apenas pedidos com o arquivo da nota fiscal e se deseja habilitar as atualizações de status. Para que as configurações ocorram, é preciso validar o Token, que deve ser solicitado pelo [suporte](/pt/docs/tutorials/recursos-de-suporte-global-da-vtex). 
 
 Os passos para a instalação e configuração do aplicativo estão detalhados no artigo[ Como instalar e configurar a app VTEX Tracking](/pt/docs/tutorials/como-instalar-e-configurar-a-app-vtex-tracking-no-seu-admin-vtex).
 
@@ -47,4 +47,4 @@ Há duas formas de integrar os pedidos que estão externos a VTEX:
 * **Integração manual via Televendas:** a utilização da funcionalidade televendas permite adicionar pedidos individualmente e de forma manual, seguindo todos os passos de um pedido. 
 Para a integração:
 1. Crie um [usuário de televendas](/pt/docs/tutorials/como-criar-um-usuario-de-televendas).
-2. Utilize as [funcionalidades](/pt/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS#gerenciamento-de-pedidos) disponíveis para a conta de televendas para adicionar o pedido ao Gerenciamento de Pedidos VTEX.
+2. Utilize as [funcionalidades](/pt/docs/tutorials/funcionalidades-de-televendas#gerenciamento-de-pedidos) disponíveis para a conta de televendas para adicionar o pedido ao Gerenciamento de Pedidos VTEX.

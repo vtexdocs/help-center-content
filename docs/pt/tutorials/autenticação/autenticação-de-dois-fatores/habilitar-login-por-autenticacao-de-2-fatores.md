@@ -23,7 +23,7 @@ Como essa chave é gerada no momento do login e tem prazo de validade curto, tor
 
 > ❗ A autenticação de dois fatores (2FA) é **obrigatória** no Admin da VTEX.<br><br>Sem 2FA, não é possível fazer login usando email e senha.<br><br>O 2FA não é obrigatório para outros métodos de login (Google, Facebook ou código de acesso).
 
-> ℹ️ Em algumas empresas, operadores de televendas não podem usar telefone celular. Por isso, usuários que tiverem apenas o [perfil de acesso de televendas](/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#call-center-operator) não são obrigados a habilitar autenticação de dois fatores.
+> ℹ️ Em algumas empresas, operadores de televendas não podem usar telefone celular. Por isso, usuários que tiverem apenas o [perfil de acesso de televendas](/pt/docs/tutorials/perfis-de-acesso-predefinidos#call-center-operator) não são obrigados a habilitar autenticação de dois fatores.
 
 ## Habilitar o 2FA
 

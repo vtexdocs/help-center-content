@@ -46,8 +46,8 @@ Um lançamento pode ter diferentes status desde a sua criação até a sua publi
 | `Em fila` | Verde  (piscando) | A publicação do lançamento está em etapa de implantação e nenhuma ação por parte do lojista é necessária para que o lançamento passe para o status seguinte, que pode ser `Publicando` ou `Publicação falhou`. |
 | `Publicando` | Verde (piscando) | A plataforma VTEX está processando a solicitação de publicação do lançamento. Nenhuma ação por parte do lojista é necessária para que o lançamento passe para o status seguinte, que pode ser `Publicado` `Publicação falhou` ou `Despublicado`. |
 | `Publicado` | Verde | O lançamento foi publicado e as modificações estão visíveis no storefront da loja. |
-| `Despublicado` | Cinza | O lançamento não está mais publicado e, portanto, as modificações não estão mais visíveis no storefront da loja. O lançamento despublicado não é excluído, ele é arquivado e pode ser [publicado](/pt/tutorial/planner-acoes-em-lancamentos-beta--1zsomdifPEQkdV6RW93JyW#publicar-lancamento) novamente a qualquer momento.  |
-| `Publicação falhou` | Vermelho | Ocorreu um erro e o lançamento não foi publicado. Nestes casos, o lojista pode tentar [publicar o lançamento](/pt/tutorial/planner-acoes-em-lancamentos-beta--1zsomdifPEQkdV6RW93JyW#publicar-lancamento) novamente ou [agendar uma nova data de publicação](/pt/tutorial/planner-acoes-em-lancamentos-beta--1zsomdifPEQkdV6RW93JyW#reagendar). |
+| `Despublicado` | Cinza | O lançamento não está mais publicado e, portanto, as modificações não estão mais visíveis no storefront da loja. O lançamento despublicado não é excluído, ele é arquivado e pode ser [publicado](/pt/docs/tutorials/planner-acoes-em-lancamentos-beta#publicar-lancamento) novamente a qualquer momento.  |
+| `Publicação falhou` | Vermelho | Ocorreu um erro e o lançamento não foi publicado. Nestes casos, o lojista pode tentar [publicar o lançamento](/pt/docs/tutorials/planner-acoes-em-lancamentos-beta#publicar-lancamento) novamente ou [agendar uma nova data de publicação](/pt/docs/tutorials/planner-acoes-em-lancamentos-beta#reagendar). |
 
 ## Saiba mais
 

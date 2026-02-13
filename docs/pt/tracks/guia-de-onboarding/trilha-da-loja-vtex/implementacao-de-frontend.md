@@ -227,10 +227,10 @@ O time de desenvolvimento deve iniciar um novo projeto com a FastStore através 
 São apresentados a seguir os requisitos para cada tema:
 
 - Catálogo
-  - [Cadastrar produtos e SKUs](/pt/tutorial/cadastrando-produtos--tutorials_2567)
+  - [Cadastrar produtos e SKUs](/pt/docs/tutorials/adicionar-ou-editar-produto)
   - [Construir a árvore de categorias](/pt/docs/tutorials/cadastrar-uma-categoria) ([departamentos](/pt/docs/tutorials/o-que-e-um-departamento), [categorias](/pt/docs/tutorials/o-que-e-uma-categoria) e [subcategorias](/pt/docs/tutorials/o-que-e-uma-subcategoria))
   - [Definir filtros e tipos de especificações por categoria](/pt/docs/tutorials/criando-grupo-de-especificacoes-em-uma-categoria)
-  - [Cadastrar imagens dos SKUs](/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY#imagens)
+  - [Cadastrar imagens dos SKUs](/pt/docs/tutorials/adicionar-ou-editar-sku#imagens)
   - [Cadastrar preços dos SKUs](/pt/docs/tracks/cadastrar-preco-base)
   - [Gerenciar inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque)
 - VTEX Intelligent Search
@@ -280,10 +280,10 @@ O time de desenvolvimento deve iniciar um novo projeto com o Store Framework clo
 São apresentados a seguir os requisitos para cada tema:
 
 - Catálogo
-  - [Cadastrar produtos e SKUs](/pt/tutorial/cadastrando-produtos--tutorials_2567)
+  - [Cadastrar produtos e SKUs](/pt/docs/tutorials/adicionar-ou-editar-produto)
   - [Construir a árvore de categorias](/pt/docs/tutorials/cadastrar-uma-categoria) ([departamentos](/pt/docs/tutorials/o-que-e-um-departamento), [categorias](/pt/docs/tutorials/o-que-e-uma-categoria) e [subcategorias](/pt/docs/tutorials/o-que-e-uma-subcategoria))
   - [Definir filtros e tipos de especificações por categoria](/pt/docs/tutorials/criando-grupo-de-especificacoes-em-uma-categoria)
-  - [Cadastrar imagens dos SKUs](/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY#imagens)
+  - [Cadastrar imagens dos SKUs](/pt/docs/tutorials/adicionar-ou-editar-sku#imagens)
   - [Cadastrar preços dos SKUs](/pt/docs/tracks/cadastrar-preco-base)
   - [Gerenciar inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque)
 - VTEX Inteligent Search

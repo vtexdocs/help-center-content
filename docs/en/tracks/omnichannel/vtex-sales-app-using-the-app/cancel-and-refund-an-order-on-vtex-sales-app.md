@@ -19,7 +19,7 @@ When a customer requests the cancellation of an order placed through VTEX Sales 
 
 ## Scenario 1: the customer is no longer in the store
 
-If the order was paid by **Direct Sales - Debit or Credit** and the customer is no longer in the physical store, meaning they cannot use their card in the terminal, the order must be canceled in **Orders** > **All Orders**, in the VTEX Admin. This can only be done by a user with [OMS - Full access profile](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access) by following the guidelines in the tutorial [How to cancel an order](/en/docs/tutorials/canceling-orders).
+If the order was paid by **Direct Sales - Debit or Credit** and the customer is no longer in the physical store, meaning they cannot use their card in the terminal, the order must be canceled in **Orders** > **All Orders**, in the VTEX Admin. This can only be done by a user with [OMS - Full access profile](/en/docs/tutorials/roles#oms-full-access) by following the guidelines in the tutorial [How to cancel an order](/en/docs/tutorials/canceling-orders).
 
 In this case, the order will not be canceled immediately. The time range is determined by the acquirer and can take from 30 minutes to 24 hours.
 

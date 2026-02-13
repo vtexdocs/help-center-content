@@ -57,7 +57,7 @@ Es posible definir si el flujo de la hoja de trabajo se realizará con un pedido
 El alistador puede agregar, sustituir y rechazar ítems del pedido, así como aumentar la cantidad o ajustar el precio de un ítem. Sin embargo, para que el alistador pueda realizar estas acciones, es necesario activar los permisos correspondientes. Para configurar los permisos, sigue los pasos a continuación:
 
 1. En el Admin VTEX, accede a **Envío > Pick and Pack > Configuración** o ingresa `Configuración` en la barra de búsqueda en la parte superior de la página.
-2. Haz clic en [**Alistamiento**](/es/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9#separacao) en la sección **Hojas de trabajo**.
+2. Haz clic en [**Alistamiento**](/es/docs/tutorials/vtex-pick-and-pack-configuracion#separacao) en la sección **Hojas de trabajo**.
 3. En **Alistamiento**, selecciona las acciones que el alistador podrá ejecutar:
    - Permitir observaciones en los ítems
    - Solicitar confirmación para alistar ítems
@@ -74,7 +74,7 @@ El alistador puede modificar un pedido sin necesidad de aprobación por parte de
 
 1. En el Admin VTEX, accede a **Envío > Pick and Pack > Configuración** o ingresa `Configuración` en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en **Alistamiento** en la sección **Hojas de trabajo**.
-3. En [**Alistamiento**](/es/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9#separacao), habilita la opción **Activar flujo de aprobaciones**.
+3. En [**Alistamiento**](/es/docs/tutorials/vtex-pick-and-pack-configuracion#separacao), habilita la opción **Activar flujo de aprobaciones**.
 4. Haz clic en **Guardar**.
 
 ### Si se permiten modificaciones en los pedidos, ¿cuál es el límite de cambios que se pueden realizar?
@@ -83,7 +83,7 @@ Puedes establecer un límite en la cantidad de veces que se pueden modificar el 
 
 1. En el Admin VTEX, accede a **Envío > Pick and Pack > Configuración** o ingresa `Configuración` en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en **Alistamiento** en la sección **Hojas de trabajo**.
-3. En [**Alistamiento**](/es/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9#separacao), establece el límite de cambios en la opción **Número máximo de cambios de precio en ítems del pedido**.
+3. En [**Alistamiento**](/es/docs/tutorials/vtex-pick-and-pack-configuracion#separacao), establece el límite de cambios en la opción **Número máximo de cambios de precio en ítems del pedido**.
 4. Haz clic en **Guardar**.
 
 ### ¿Cómo ubica el alistador los ítems que debe alistar?
@@ -103,7 +103,7 @@ Los tipos y tamaños de empaques utilizados por la tienda deben estar registrado
 
 1. En el Admin VTEX, accede a **Envío > Pick and Pack > Configuración** o ingresa `Configuración` en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en **Empaque** en la sección **Hojas de trabajo**.
-3. En **[Empaque](/es/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9#empacotamento)**, haz clic en la pestaña **Tipos de empaque**.
+3. En **[Empaque](/es/docs/tutorials/vtex-pick-and-pack-configuracion#empacotamento)**, haz clic en la pestaña **Tipos de empaque**.
 4. Haz clic en el botón **Crear tipo de empaque** y llena el formulario con la información solicitada.
 5. Haz clic en **Guardar**.
 

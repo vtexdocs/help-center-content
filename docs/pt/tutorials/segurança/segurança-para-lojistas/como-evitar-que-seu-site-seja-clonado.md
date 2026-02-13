@@ -55,4 +55,4 @@ Verifique se as campanhas estão sendo exibidas conforme o esperado e se há alg
 
 ## Saiba mais
 
-* [Boas práticas para o sucesso da sua loja VTEX](/pt/tutorial/boas-praticas-para-o-sucesso-da-sua-loja-vtex--ItKyLqcRl9wNADMhYH8O4#performance-e-seguranca)
+* [Boas práticas para o sucesso da sua loja VTEX](/pt/docs/tutorials/boas-praticas-para-o-sucesso-da-sua-loja-vtex#performance-e-seguranca)

@@ -46,11 +46,11 @@ Para exportar um arquivo `.xlsx` com as imagens do seu catálogo, realize os seg
 > ℹ️ As informações exportadas correspondem aos campos apresentados na seção [Ver campos da planilha de imagens de produtos e SKUs](#ver-campos-da-planilha-de-imagens-de-produtos-e-skus).
 
 1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus) na barra de busca no topo da página.
-2. (Opcional) Caso queira exportar as imagens de determinados produtos e SKUs, [busque](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#buscar-produtos) ou [filtre](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#filtrar-produtos) os itens desejados. Este passo não é necessário para exportar as imagens de todos os itens do seu catálogo.
+2. (Opcional) Caso queira exportar as imagens de determinados produtos e SKUs, [busque](/pt/docs/tutorials/produtos-e-skus#buscar-produtos) ou [filtre](/pt/docs/tutorials/produtos-e-skus#filtrar-produtos) os itens desejados. Este passo não é necessário para exportar as imagens de todos os itens do seu catálogo.
 3. No topo da página, clique em `Exportar`. 
 4. Clique em `Imagens`.
 
-Enquanto a exportação estiver em andamento, aparecerá a mensagem de que o arquivo está sendo processado. Mesmo que você saia da página, a operação não será afetada. Você pode [acompanhar o andamento da exportação pela janela](/pt/tutorial/importar-e-exportar-produtos-e-skus-via-planilha-beta--5udKxWP1ZeBD7QB7Fy2BNl#acompanhar-janela-do-processo-de-exportacao) que surge na página. 
+Enquanto a exportação estiver em andamento, aparecerá a mensagem de que o arquivo está sendo processado. Mesmo que você saia da página, a operação não será afetada. Você pode [acompanhar o andamento da exportação pela janela](/pt/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha-beta#acompanhar-janela-do-processo-de-exportacao) que surge na página. 
 
 Após a finalização da exportação de imagens de produtos e SKUs, você receberá um email com um link para fazer o download do arquivo. O prazo para o download pelo link é de 24 horas, após este período o link expira. Também é possível baixar o arquivo pela janela que surgiu na página.
 

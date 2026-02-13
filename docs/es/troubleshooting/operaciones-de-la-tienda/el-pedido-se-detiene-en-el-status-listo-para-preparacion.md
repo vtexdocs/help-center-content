@@ -22,7 +22,7 @@ tags:
   - OMS
 ---
 
-El status `Listo para preparación` se produce en el [flujo del pedido](/es/tutorial/flujo-y-status-de-pedidos--tutorials_196#flujo-de-seller) justo después de que se cierre la ventana de cancelación. En este punto, VTEX debe recibir información del [sistema ERP](https://developers.vtex.com/docs/guides/erp-integration-guide) sobre la integración del pedido y la actualización del stock de ítems, lo que permitiría que el flujo pueda proseguir hasta alcanzar el siguiente status `Preparando envío`.
+El status `Listo para preparación` se produce en el [flujo del pedido](/es/docs/tutorials/flujo-y-status-de-pedidos#flujo-de-seller) justo después de que se cierre la ventana de cancelación. En este punto, VTEX debe recibir información del [sistema ERP](https://developers.vtex.com/docs/guides/erp-integration-guide) sobre la integración del pedido y la actualización del stock de ítems, lo que permitiría que el flujo pueda proseguir hasta alcanzar el siguiente status `Preparando envío`.
 
 Enquanto a VTEX não recebe esta confirmação, o pedido permanece no status `Pronto para manuseio`.
 
@@ -38,7 +38,7 @@ La primera acción necesaria es ponerse en contacto con el responsable de tu [in
 
 ### Actualización manual del status del pedido (opcional)
 
-Puedes [actualizar manualmente](/es/tutorial/enviar-pedido-al-status-a-preparar-la-entrega--tutorials_198#por-el-admin-vtex) el status del pedido a `Preparando envío` vía Admin VTEX, si lo deseas. Sin embargo, para realizar este tipo de acción, es necesario tener un [rol con permiso OMS - Full access](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#roles). 
+Puedes [actualizar manualmente](/es/docs/tutorials/enviar-pedido-al-status-a-preparar-la-entrega#por-el-admin-vtex) el status del pedido a `Preparando envío` vía Admin VTEX, si lo deseas. Sin embargo, para realizar este tipo de acción, es necesario tener un [rol con permiso OMS - Full access](/es/docs/tutorials/roles#roles). 
 
 > ❗ Al actualizar manualmente el status y confirmar el inicio de la preparación, el seller asume la responsabilidad por la [reserva de los ítens](/es/docs/tutorials/como-se-maneja-la-reserva), garantizando que haya suficiente stock y que se registre la baja de los ítems vendidos. Los pedidos actualizados de forma manual no pueden integrarse posteriormente en el sistema del ERP.
 

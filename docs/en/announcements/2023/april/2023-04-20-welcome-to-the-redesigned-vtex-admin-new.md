@@ -34,7 +34,7 @@ Although we have redesigned the VTEX Admin, your store settings and data have no
 
 ### Changes in navigation menu
 
-No page has been removed from the VTEX Admin, but we have reorganized the navigation menu to better match the most accessed pages and reflect your operation's priorities. Learn more about our [Enhanced navigation](/en/tutorial/vtex-admin-start-here--5bBA7QgKuU2wL2Aq11pqAA).
+No page has been removed from the VTEX Admin, but we have reorganized the navigation menu to better match the most accessed pages and reflect your operation's priorities. Learn more about our [Enhanced navigation](/en/docs/tutorials/vtex-admin-start-here).
 
 You can use the search bar at the top of your VTEX Admin to search for specific pages. Pages that are not part of our standard edition of the VTEX Admin can also be found by accessing **Apps > Installed Apps.**
 

@@ -15,13 +15,13 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'New security layer in Checkout validates hosts via License Manager when using reCAPTCHA.'
 ---
 
-To improve security during checkout, we added a new layer of protection in the store [reCAPTCHA](/en/docs/tutorials/using-recaptcha-at-checkout) validation. Now, store [hosts](/en/tutorial/configurar-dominio-de-la-tienda--tutorials_2450#store-address-structure) are validated through [License Manager](/en/docs/tutorials/roles), which is the systems that checks user permissions for completing actions in the platform.
+To improve security during checkout, we added a new layer of protection in the store [reCAPTCHA](/en/docs/tutorials/using-recaptcha-at-checkout) validation. Now, store [hosts](/en/docs/tutorials/configuring-the-store-domain#store-address-structure) are validated through [License Manager](/en/docs/tutorials/roles), which is the systems that checks user permissions for completing actions in the platform.
 
 ## What has changed?
 
 The Checkout system now checks if the host where the reCAPTCHA validation challenge is solved, such as `www.mystore.com`, exists in the License Manager module of that account. This helps prevent malicious access and fraud attempts. 
 
-To see the account hosts, use the [Get stores](https://developers.vtex.com/docs/api-reference/license-manager-api#get-/api/vlm/account/stores) endpoint. If you want to add a new host to your store, check [Configuring the store domain](/en/tutorial/configurar-dominio-de-la-tienda--tutorials_2450#registering-a-new-host).
+To see the account hosts, use the [Get stores](https://developers.vtex.com/docs/api-reference/license-manager-api#get-/api/vlm/account/stores) endpoint. If you want to add a new host to your store, check [Configuring the store domain](/en/docs/tutorials/configuring-the-store-domain#registering-a-new-host).
 
 ## What needs to be done?
 

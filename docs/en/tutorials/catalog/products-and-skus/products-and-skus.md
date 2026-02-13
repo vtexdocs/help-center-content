@@ -39,7 +39,7 @@ From the product list, you can find the following information:
 
 ## Creating a product
 
-When you click the `Add Product` button, the page for [adding a new product](/en/docs/tutorials/adding-or-editing-products) to the catalog opens. For details on how to complete each field, see the article [Filling in product registration fields](/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke).
+When you click the `Add Product` button, the page for [adding a new product](/en/docs/tutorials/adding-or-editing-products) to the catalog opens. For details on how to complete each field, see the article [Filling in product registration fields](/en/docs/tutorials/adding-or-editing-products).
 
 ## Searching for a product
 
@@ -66,7 +66,7 @@ You can filter the product list using the options below. Select the desired filt
 * [Category](/en/docs/tracks/categories-concept-definition)
 * [Seller](/en/docs/tutorials/what-is-a-seller)
 * [Kit](/en/docs/tutorials/what-is-a-bundle)
-* [Store Visibility](/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke)
+* [Store Visibility](/en/docs/tutorials/adding-or-editing-products)
 * [Trade policy](/en/docs/tutorials/how-trade-policies-work)
 * Created date
 
@@ -146,7 +146,7 @@ In the top right corner of the modal, you can copy the content to the clipboard 
 
 * [Adding or editing products](/en/docs/tutorials/adding-or-editing-products)
 * [Adding or editing SKUs](/en/docs/tutorials/adding-or-editing-skus)
-* [Filling in product registration fields](/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke)
+* [Filling in product registration fields](/en/docs/tutorials/adding-or-editing-products)
 * [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website)
 * [Which logistics settings can impact the product availability in the cart?](/en/docs/tutorials/which-logistics-settings-can-impact-the-product-availability-in-the-cart)
 

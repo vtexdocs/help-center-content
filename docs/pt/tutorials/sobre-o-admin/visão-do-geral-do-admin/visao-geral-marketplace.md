@@ -25,7 +25,7 @@ Agrupamos todas as funcionalidades relacionadas a essas operações no menu __Ma
 Confira abaixo mais detalhes sobre as diferentes seções e páginas deste menu.
 
 ## Sellers
-A arquitetura da VTEX permite que as lojas hospedadas em sua plataforma possam anunciar produtos de outras lojas, sejam elas VTEX, ou não. Quando uma loja VTEX passa a vender produtos de sellers, ela se torna um [marketplace VTEX](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#atuar-como-marketplace). A seção Sellers do seu Admin reúne as funcionalidades necessárias para que isso aconteça.
+A arquitetura da VTEX permite que as lojas hospedadas em sua plataforma possam anunciar produtos de outras lojas, sejam elas VTEX, ou não. Quando uma loja VTEX passa a vender produtos de sellers, ela se torna um [marketplace VTEX](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#atuar-como-marketplace). A seção Sellers do seu Admin reúne as funcionalidades necessárias para que isso aconteça.
 
 Esta seção inclui as seguintes páginas, em breve no design do Admin atualizado:
 

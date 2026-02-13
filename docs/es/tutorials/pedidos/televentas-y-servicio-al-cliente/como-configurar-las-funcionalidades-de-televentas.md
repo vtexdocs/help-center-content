@@ -62,5 +62,5 @@ Para ello, los desarrolladores de la tienda deben habilitar la funcionalidad de 
 
 Los precios manuales registrados en el carrito deben ser aprobados por el administrador de la tienda o por un usuario con permiso de [Autorización de pedidos](/es/docs/tutorials/como-funciona-la-autorizacion-de-pedidos) en el sistema para que el pedido siga el flujo de facturación.
 
-> ℹ️ No es posible modificar los precios accediendo a la tienda a través de su URL final (*www.dominiotienda.com.br*). La funcionalidad de precio manual en televenta solo funciona si el operador accede a la tienda a través del dominio *www.dominiotienda.myvtex.com* y tiene el permiso de [Call Center operator](/es/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#call-center-operator) en su [Perfil de Acceso](/es/docs/tutorials/roles).
+> ℹ️ No es posible modificar los precios accediendo a la tienda a través de su URL final (*www.dominiotienda.com.br*). La funcionalidad de precio manual en televenta solo funciona si el operador accede a la tienda a través del dominio *www.dominiotienda.myvtex.com* y tiene el permiso de [Call Center operator](/es/docs/tutorials/roles-de-usuario-predefinidos#call-center-operator) en su [Perfil de Acceso](/es/docs/tutorials/roles).
 

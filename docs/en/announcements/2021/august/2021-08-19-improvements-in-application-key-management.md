@@ -23,7 +23,7 @@ Application keys are the most common type of authentication credentials, but the
 
 ### New user interface to manage Application Keys
 
-Before, managing [Application Keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) required navigating through multiple screens. Now you can generate, add/remove, activate/deactivate, export and edit permissions for your app key token pairs in a single place.
+Before, managing [Application Keys](/en/docs/tutorials/api-keys) required navigating through multiple screens. Now you can generate, add/remove, activate/deactivate, export and edit permissions for your app key token pairs in a single place.
 
 ### Permissions to create Application Keys are now resource based
 
@@ -35,4 +35,4 @@ By simplifying the management of authentication credentials, we help our custome
 
 ## What needs to be done?
 
-Check out the documentation on [Application Keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) for more information.
+Check out the documentation on [Application Keys](/en/docs/tutorials/api-keys) for more information.

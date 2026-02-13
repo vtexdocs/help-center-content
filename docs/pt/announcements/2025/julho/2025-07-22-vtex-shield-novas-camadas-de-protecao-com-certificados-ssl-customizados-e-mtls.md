@@ -27,7 +27,7 @@ Essas novidades aumentam o controle sobre a comunicação entre sistemas, atende
 
 ## O que mudou?
 
-O VTEX Shield já oferecia a possibilidade de contratar o [Web Application Firewall (WAF)](/pt/docs/tutorials/web-application-firewall-waf), o [Security Monitor](/pt/docs/tutorials/security-monitor) e o [Data Protection Plus](/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh#data-protection-plus) como camadas adicionais de segurança. Agora, é possível selecionar também Certificados SSL customizados e Mutual Transport Layer Security (mTLS), descritos a seguir.
+O VTEX Shield já oferecia a possibilidade de contratar o [Web Application Firewall (WAF)](/pt/docs/tutorials/web-application-firewall-waf), o [Security Monitor](/pt/docs/tutorials/security-monitor) e o [Data Protection Plus](/pt/docs/tutorials/vtex-shield#data-protection-plus) como camadas adicionais de segurança. Agora, é possível selecionar também Certificados SSL customizados e Mutual Transport Layer Security (mTLS), descritos a seguir.
 
 ### Certificados SSL customizados
 
@@ -41,7 +41,7 @@ Saiba mais em [Certificados SSL customizados](/pt/docs/tutorials/certificados-ss
 
 O mTLS oferece proteção reforçada nas integrações entre a VTEX e sistemas externos como ERPs, WMS ou lojas headless.
 
-Diferente do protocolo TLS tradicional, em que apenas o servidor comprova sua identidade, o mTLS garante autenticação bilateral, pois exige que [tanto o cliente quanto o servidor apresentem certificados válidos](/pt/tutorial/mutual-transport-layer-security-mtls--6YR3SoynJMfeEKGlY1Cqlo#arquitetura-cliente-servidor) antes da troca de dados. Essa prática reduz o risco de conexões maliciosas ou não autorizadas.
+Diferente do protocolo TLS tradicional, em que apenas o servidor comprova sua identidade, o mTLS garante autenticação bilateral, pois exige que [tanto o cliente quanto o servidor apresentem certificados válidos](/pt/docs/tutorials/mutual-transport-layer-security-mtls#arquitetura-cliente-servidor) antes da troca de dados. Essa prática reduz o risco de conexões maliciosas ou não autorizadas.
 
 Saiba mais em [Mutual Transport Layer Security (mTLS)](/pt/docs/tutorials/mutual-transport-layer-security-mtls).
 

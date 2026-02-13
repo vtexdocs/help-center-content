@@ -134,7 +134,7 @@ You can also offer gift cards from external providers via the [GiftCard Hub API]
 
 Digital wallets provide secure environments where customers can store their bank and credit card information in an encrypted form and use it when completing a purchase. This payment method enhances security by eliminating the need to enter sensitive data for each purchase. Instead, users authenticate within the digital wallet environment once.
 
-On VTEX, you can offer native digital wallets, such as [Google Pay](/en/docs/tracks/google-pay), or integrated digital wallets, such as [Apple Pay](/en/docs/tracks/apple-pay), [Samsung Pay](/en/docs/tutorials/configuring-samsung-pay-as-a-payment-method), and [PayPal](/en/tutorial/configurar-paypal--4p3sD9u1moq2Aya2oc684w). Learn more in [Digital wallet (ewallet)](/en/docs/tracks/digital-wallet-e-wallet).
+On VTEX, you can offer native digital wallets, such as [Google Pay](/en/docs/tracks/google-pay), or integrated digital wallets, such as [Apple Pay](/en/docs/tracks/apple-pay), [Samsung Pay](/en/docs/tutorials/configuring-samsung-pay-as-a-payment-method), and [PayPal](/en/docs/tutorials/setting-up-payments-with-paypalv2). Learn more in [Digital wallet (ewallet)](/en/docs/tracks/digital-wallet-e-wallet).
 
 #### Customer Credit
 

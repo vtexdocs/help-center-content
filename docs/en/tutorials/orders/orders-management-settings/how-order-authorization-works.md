@@ -21,8 +21,8 @@ In the VTEX Admin, in **Store Settings > Orders > Order Authorization**, you can
 
 Price divergence errors may occur in two main scenarios:
 
-- [Manual Discounts](/en/tutorial/como-funciona-a-autorizacao-de-pedidos--3MBK6CmKHAuUjMBieDU0pn#manual-discounts)
-- [Price Divergence](/en/tutorial/como-funciona-a-autorizacao-de-pedidos--3MBK6CmKHAuUjMBieDU0pn#price-divergence)
+- [Manual Discounts](/en/docs/tutorials/how-order-authorization-works#manual-discounts)
+- [Price Divergence](/en/docs/tutorials/how-order-authorization-works#price-divergence)
 
 ## Manual Discounts
 

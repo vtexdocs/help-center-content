@@ -33,7 +33,7 @@ Now, you can also configure the shipping time at SKU level with the new lead tim
 
 ![lead_time_inventory_management_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/september/2023-09-22-lead-time-configuring-shipping-time-at-sku-level_2.png) 
 
-> ⚠️ In the VTEX Admin, the lead time is configured in days, with a 365-day limit. By default, the days are calculated in business days, but you can configure your shipping policy to [calculate them in calendar days](/en/tutorial/lead-time-tempo-de-envio-a-nivel-de-sku--16yv5Mkj6bTyWR1hCN2f4B#configuring-lead-time-calculation-in-calendar-days-optional). You need to use the [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-) endpoint to configure periods in hours, minutes, and seconds.
+> ⚠️ In the VTEX Admin, the lead time is configured in days, with a 365-day limit. By default, the days are calculated in business days, but you can configure your shipping policy to [calculate them in calendar days](/en/docs/tutorials/lead-time-shipping-time-at-sku-level#configuring-lead-time-calculation-in-calendar-days-optional). You need to use the [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-) endpoint to configure periods in hours, minutes, and seconds.
 
 ## Why did we make this change?
 

@@ -42,7 +42,7 @@ Follow the step-by-step below:
 11. If required, fill out the __Description__ field.
 12. Click on __Save.__
 
-> ℹ️ More information about **General Settings** and **Search and Filter Configurations** can be found in our article on [Creating a data entity](/en/tutorial/criando-entidade-de-dados--tutorials_1265#como-configurar), subsection **How to set up**.
+> ℹ️ More information about **General Settings** and **Search and Filter Configurations** can be found in our article on [Creating a data entity](/en/docs/tutorials/data-entity#como-configurar), subsection **How to set up**.
 
 ![criar campo master data ds](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/how-can-i-create-a-field-in-master-data_1.gif)
 

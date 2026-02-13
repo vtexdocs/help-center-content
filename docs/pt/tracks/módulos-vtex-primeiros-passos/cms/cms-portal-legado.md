@@ -138,7 +138,7 @@ Você pode conferir todos os controles nativos disponíveis e seus respectivos u
 - **[Para que serve o Controle Customizado?](/pt/docs/tutorials/para-que-serve-o-controle-customizado):** Além dos controles nativos da VTEX, você pode criar seus próprios controles.
 
 ## Controles
-- [Lista de controles para templates](/pt/tutorial/list-of-controls-for-templates--tutorials_563)
+- [Lista de controles para templates](https://developers.vtex.com/docs/guides/list-of-controls-for-templatesor-templates)
 - [Controle de Busca - fulltextSearchBox](/pt/tutorial/controle-de-busca-fulltextsearchbox--tutorials_549?&utm_source=autocomplete)
 - [Controle de destaque de coleção](/pt/tutorial/controle-de-destaque-de-colecao--1tGdb2ndjqy6yWsk2YwKMu?&utm_source=autocomplete)
 - [Controle de breadcrumb](/pt/tutorial/controle-de-breadcrumb--3qQS5O9XpusAC6oUqSIQMM?&utm_source=autocomplete)

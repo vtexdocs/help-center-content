@@ -30,4 +30,4 @@ The configuration shown above is for when you want an account to have more than 
 
 This feature is usually used when a store has more than one brand but they all have similar logistics and payment methods, or when the store needs another environment, for example for B2B sales.
 
-A **binding** is made for each store in the **Multi-store** option. Check out our [article on multi-store and multi-domain](/en/tutorial/creating-multi-store-multi-domain--tutorials_510) to configure this option.
+A **binding** is made for each store in the **Multi-store** option. Check out our [article on multi-store and multi-domain](/en/docs/tutorials/managing-a-multistore) to configure this option.

@@ -20,7 +20,7 @@ tags:
   - Importação
 ---
 
-Após a definição da árvore de categorias e o cadastro de [especificações de produtos e de SKUs](/pt/docs/tracks/especificacoes-definicao-de-conceito) na sua loja, é necessário preencher os valores das especificações criadas. No Admin VTEX, esse processo pode ser realizado através de uma planilha ou de forma manual no cadastro do [produto](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106#cadastro-do-produto) e no cadastro do [SKU](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119#cadastro-do-sku).
+Após a definição da árvore de categorias e o cadastro de [especificações de produtos e de SKUs](/pt/docs/tracks/especificacoes-definicao-de-conceito) na sua loja, é necessário preencher os valores das especificações criadas. No Admin VTEX, esse processo pode ser realizado através de uma planilha ou de forma manual no cadastro do [produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto#cadastro-do-produto) e no cadastro do [SKU](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-sku#cadastro-do-sku).
 
 Se ao realizar a [importação de SKUs por planilha](/pt/tutorial/exportar-e-importar-especificacoes-de-produto-e-de-sku--tutorials_274?&utm_source=autocomplete), aparecer a mensagem 
 `"An error occurred in the data writing process. Make sure your worksheet data is consistent with the instructions and try again."`, pode ser que:

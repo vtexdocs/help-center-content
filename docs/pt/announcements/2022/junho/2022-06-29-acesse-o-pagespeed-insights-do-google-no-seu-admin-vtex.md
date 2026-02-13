@@ -17,7 +17,7 @@ announcementSynopsisPT: 'Analise o desempenho de URLs com a nova página Perform
 
 No mercado de comércio digital, oferecer uma experiência que não consuma muito tempo do comprador para encontrar as informações de que precisa ou para concluir um pedido pode ser a vantagem competitiva entre as marcas que disputam a atenção do mesmo usuário. Por isso, é importante acompanhar o desempenho de seu site para medir e melhorar a experiência do usuário, levando a um possível aumento nas vendas.
 
-Com esse objetivo, nós criamos a nova tela [Performance das páginas web](/pt/v4/docs/performance-de-paginas-web--7DeyhX8cGtG9PtAGkL8zvc) e trouxemos as ferramentas [PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/about) e [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) do Google para seu Admin VTEX.
+Com esse objetivo, nós criamos a nova tela [Performance das páginas web](/pt/tutorial/performance-de-paginas-web--4cRiiTByzNMulixZec5YaG) e trouxemos as ferramentas [PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/about) e [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) do Google para seu Admin VTEX.
 
 O PageSpeed Insights e o Lighthouse são ferramentas desenvolvidas pelo Google para gerar relatórios sobre a experiência do usuário de uma página tanto em dispositivos móveis quanto em computadores, fornecendo sugestões sobre como essa página pode ser aprimorada. Eles usam as [principais métricas da web do Google](https://web.dev/vitals/#core-web-vitals) para avaliar a experiência do usuário online. 
 
@@ -45,4 +45,4 @@ A página “Performance das páginas web” está disponível automaticamente a
 
 Se sua loja ainda estiver usando versões anteriores do Admin, [participe do nosso programa Beta](https://content.vtex.com/join-new-admin-beta-program-pt/?utm_source=announcement&utm_medium=help_center&utm_campaign=webpage_performance) do novo Admin VTEX para acessar a Performance das páginas web.
 
-Descubra como aproveitar ao máximo esse dashboard em nosso artigo sobre a [Performance das páginas web](/pt/v4/docs/performance-de-paginas-web--7DeyhX8cGtG9PtAGkL8zvc).
+Descubra como aproveitar ao máximo esse dashboard em nosso artigo sobre a [Performance das páginas web](/pt/tutorial/performance-de-paginas-web--4cRiiTByzNMulixZec5YaG).

@@ -40,7 +40,7 @@ Para customizar um template de email no Admin VTEX, copie e cole o link abaixo n
 
 ### Gerenciamento da alteração do pedido via Admin VTEX
 
-Para as lojas que utilizam a versão atual para alterar pedidos via Admin VTEX, após a instalação da nova solução pela equipe da VTEX, as interfaces atualizadas estarão imediatamente disponíveis para você usar a **Alterar pedido** via Admin VTEX. Isso inclui novo gerenciamento e comunicação do [Minha conta](/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#pedidos) e de [templates de emails transacionais](/pt/docs/tutorials/templates-de-emails-transacionais).
+Para as lojas que utilizam a versão atual para alterar pedidos via Admin VTEX, após a instalação da nova solução pela equipe da VTEX, as interfaces atualizadas estarão imediatamente disponíveis para você usar a **Alterar pedido** via Admin VTEX. Isso inclui novo gerenciamento e comunicação do [Minha conta](/pt/docs/tutorials/como-funciona-a-minha-conta#pedidos) e de [templates de emails transacionais](/pt/docs/tutorials/templates-de-emails-transacionais).
 
 ### Gerenciamento da alteração do pedido via API
 

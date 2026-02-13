@@ -56,5 +56,5 @@ En esta área puede ver cada cambio de status de la transacción, con el momento
 
 Al leer la descripción de un evento de cancelación, por ejemplo, puede descubrir quién fue el autor de esa cancelación. O puede descubrir, por ejemplo, que fue el conector el que denegó la autorización del pago.
 
-Lea el artículo __Visualizar detalles de la transacción en Pedidos__ para consultar [ejemplos de eventos registrados en esta línea de tiempo](/es/tutorial/como-visualizar-detalhes-do-pedido--tutorials_452#exemplos).
+Lea el artículo __Visualizar detalles de la transacción en Pedidos__ para consultar [ejemplos de eventos registrados en esta línea de tiempo](/es/docs/tutorials/como-visualizar-detalle-del-pedido#exemplos).
 

@@ -48,6 +48,6 @@ The **Change field value** option, illustrated below, will no longer be availabl
 If you need to update Master Data field values based on a trigger, we recommend contacting your development team and following the instructions below:
 
 - Develop an app on VTEX IO that communicates with Master Data, following the instructions in the developer's guide on [Creating a Master Data CRUD app](https://developers.vtex.com/docs/guides/create-master-data-crud-app).
--	Configure a trigger that sends an HTTP request to the app, following the instructions in [How to create a trigger in Master Data v1](/en/tutorial/creating-trigger-in-master-data--tutorials_1270#sending-an-http-request).
+-	Configure a trigger that sends an HTTP request to the app, following the instructions in [How to create a trigger in Master Data v1](/en/docs/tutorials/creating-trigger-in-master-data#sending-an-http-request).
 
 If you use the **Calculated field** or a trigger with the **Change field value**, follow the steps above before June 17, 2024 to dynamically update the values even after these settings have been deprecated in Master Data v1.

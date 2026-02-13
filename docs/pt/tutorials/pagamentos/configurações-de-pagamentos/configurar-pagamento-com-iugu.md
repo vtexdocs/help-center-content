@@ -40,7 +40,7 @@ Para processar os meios de pagamento cartão de crédito, pix e boleto bancário
 4. Preencha o campo __Nome da condição__ com um nome de sua preferência para identificação.
 5. Ative a condição no campo __Status__.
 6. Em __Processar com provedor__ selecione a opção iugu.
-7. Para pagamentos com cartão de crédito, selecione se deseja utilizar um sistema antifraude selecionando a opção __Usar solução antifraude__. Também é possível configurar se os pagamentos com cartão de crédito devem ser realizados [à vista ou parcelados (com e sem juros)](/pt/tutorial/condicoes-de-pagamento--tutorials_455#a-vista).
+7. Para pagamentos com cartão de crédito, selecione se deseja utilizar um sistema antifraude selecionando a opção __Usar solução antifraude__. Também é possível configurar se os pagamentos com cartão de crédito devem ser realizados [à vista ou parcelados (com e sem juros)](/pt/docs/tutorials/condicoes-de-pagamento#a-vista).
 8. Se desejar, você também poderá configurar [condições especiais de pagamento](https://help.vtex.com/pt/docs/tutorials/condicoes-de-pagamento#a-vista).
 9. Clique em `Salvar`.
 

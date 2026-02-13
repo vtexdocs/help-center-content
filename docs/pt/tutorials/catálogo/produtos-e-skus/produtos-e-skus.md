@@ -143,6 +143,6 @@ No canto superior direito do modal, você tem a opção de copiar o conteúdo pa
 
 * [Adicionar ou editar produto](/pt/docs/tutorials/adicionar-ou-editar-produto)
 * [Adicionar ou editar SKU](/pt/docs/tutorials/adicionar-ou-editar-sku)
-* [Preencher campos de cadastro de produto](/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke)
+* [Preencher campos de cadastro de produto](/pt/docs/tutorials/adicionar-ou-editar-produto)
 * [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site)
 * [Quais configurações logísticas impactam na disponibilidade do produto no carrinho?](/pt/docs/tutorials/quais-configuracoes-logisticas-impactam-na-disponibilidade-do-produto-no-carrinho)

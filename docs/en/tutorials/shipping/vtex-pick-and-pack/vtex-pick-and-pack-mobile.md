@@ -120,7 +120,7 @@ When clicking a worksheet, the following information is displayed:
 
 By opening the  menu, the following options will be displayed:
 
-- **Add Note:** [Adds a free note](/en/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9#alteracoes-no-pedido) to the worksheet.
+- **Add Note:** [Adds a free note](/en/docs/tutorials/vtex-pick-and-pack-settings#alteracoes-no-pedido) to the worksheet.
 - **Add items to order:** Starts the flow to [add new items to the order](#add-new-products-to-an-order).
 - **Set as Ready for Packing:** Used to bulk pick or bulk reject orders.
 - **Pause Picking:** Pause the time count for picking the products listed in the worksheet.
@@ -163,7 +163,7 @@ This can be done in two ways:
 
 1. On the **Picking** screen, click and hold the item whose quantity you want to change.
 2. Click the **Add more units** option.
-3. Select the correct quantity. The quantity of items that can be changed by the picker is defined on the [Settings](/en/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9#separacao) page in the VTEX Admin.
+3. Select the correct quantity. The quantity of items that can be changed by the picker is defined on the [Settings](/en/docs/tutorials/vtex-pick-and-pack-settings#separacao) page in the VTEX Admin.
 4. Click **Confirm changes**.
 
 ### By selecting the worksheet
@@ -171,7 +171,7 @@ This can be done in two ways:
 1. On the **Picking** screen, click the **Info** tab.
 2. On the desired order, click the <i class="fas fa-ellipsis-v"></i> menu.
 3. Click the **Add more units** option. 
-4. Select the correct quantity. The quantity of items that can be changed by the picker is defined on the [Settings](/en/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9#separacao) page in the VTEX Admin.
+4. Select the correct quantity. The quantity of items that can be changed by the picker is defined on the [Settings](/en/docs/tutorials/vtex-pick-and-pack-settings#separacao) page in the VTEX Admin.
 5. Click `Confirm action`.
 
 ## Add new products to an order
@@ -206,7 +206,7 @@ To reject a product from the worksheet, follow the steps below:
 2. Select and swipe the product you want to reject to the left.
 3. Enter the reason for item rejection in the textbox.
     ![pickpack-item-recusa-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-mobile_7.png)
-4. Select the quantity of items you want to reject. The quantity of items that can be rejected by the picker is defined on the [Settings](/en/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9#separacao) page in the VTEX Admin.
+4. Select the quantity of items you want to reject. The quantity of items that can be rejected by the picker is defined on the [Settings](/en/docs/tutorials/vtex-pick-and-pack-settings#separacao) page in the VTEX Admin.
 5. Select `Discard units` to reject the selected quantity, or `Confirm and Discard All` to reject all.
 
 To reject all the products from the worksheet at once, follow these steps:
@@ -219,7 +219,7 @@ To reject all the products from the worksheet at once, follow these steps:
 
 ## Replacing items
 
-Pickers can also replace one item with another, depending on the [store settings](/en/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#picking) and item availability. This feature helps ensure that customers receive their orders on time, even if some items are unavailable.
+Pickers can also replace one item with another, depending on the [store settings](/en/docs/tutorials/vtex-pick-and-pack-settings#picking) and item availability. This feature helps ensure that customers receive their orders on time, even if some items are unavailable.
 
 To replace worksheet items, follow the steps below:
 
@@ -228,7 +228,7 @@ To replace worksheet items, follow the steps below:
 3. Scan the product barcode or search for it manually using the search bar.
 4. Select the desired quantity in units or add the weight value.
 5. Click **Continue**.
-6. Select the reason for the item replacement. The reasons listed are configurable in the [Settings](/en/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#order-changes) page.
+6. Select the reason for the item replacement. The reasons listed are configurable in the [Settings](/en/docs/tutorials/vtex-pick-and-pack-settings#order-changes) page.
 7. Click **Confirm and pick replacement**.
 
 ## Completing the picking process

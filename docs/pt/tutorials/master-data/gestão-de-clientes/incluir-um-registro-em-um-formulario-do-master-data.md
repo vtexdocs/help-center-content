@@ -19,7 +19,7 @@ Para incluir um registro em um formulário do Master Data, é necessário acessa
 
 Os campos podem ser configurados como editáveis ou não diretamente na entidade de dados. Saiba mais em [Entidade de dados](/pt/docs/tutorials/entidade-de-dados).
 
-> ⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais: <ul> <li>[Características das versões do Master Data](/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available)</li> <li>[Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics)</li> </ul>
+> ⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais: <ul> <li>[Características das versões do Master Data](/pt/docs/tutorials/master-data#versions-available)</li> <li>[Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics)</li> </ul>
 
 ## Adicionar um registro
 

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: WpbGhubuRZaNZilJSXnqu
 ---
 
-In [Master Data v1](/en/docs/tutorials/master-data), it is possible to [create data entities](/en/tutorial/data-entity--tutorials_1265#creating-data-entities) with different access restrictions for each field:
+In [Master Data v1](/en/docs/tutorials/master-data), it is possible to [create data entities](/en/docs/tutorials/data-entity#creating-data-entities) with different access restrictions for each field:
 
 * Make readable without credentials
 * Allow editing without credentials

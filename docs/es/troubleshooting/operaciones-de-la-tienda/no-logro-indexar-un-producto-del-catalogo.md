@@ -30,7 +30,7 @@ Cualquier cambio de status o modificación de información de un producto inicia
 - Creación o remoción del producto de una colección
 - Modificación del precio o cantidad de stock
 
-> ℹ️ Para más información sobre la indexación de un producto en tiendas de [CMS - Portal legado](/es/docs/tracks/cms-portal-legado), consulta [Cómo funciona la indexación (CMS - Portal Legado)](/es/docs/tutorials/entendiendo-el-funcionamento-de-la-indexacion). Si tu tienda utiliza [Intelligent Search](/es/docs/tracks/vision-general-intelligent-search), verifica el [Historial de indexación (Intelligent Search)](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH).
+> ℹ️ Para más información sobre la indexación de un producto en tiendas de [CMS - Portal legado](/es/docs/tracks/cms-portal-legado), consulta [Cómo funciona la indexación (CMS - Portal Legado)](/es/docs/tutorials/entendiendo-el-funcionamento-de-la-indexacion). Si tu tienda utiliza [Intelligent Search](/es/docs/tracks/vision-general-intelligent-search), verifica el [Historial de indexación (Intelligent Search)](/es/docs/tutorials/historial-de-indexacion).
 
 En ciertas situaciones, la indexación es interrumpida y no se muestra la información más actualizada del producto en la tienda. A continuación se mencionan algunos escenarios en los que se produce la interrupción:
 
@@ -65,7 +65,7 @@ Los errores en el registro de un producto pueden generar inconsistencias al rein
 
 2. Ubica el producto que deseas y haz clic en **Modificar**.  
 
-3. Comprueba que la información de todos los [campos de cadastro](/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) esté correcta. De ser necesario, actualiza la información y haz clic en Guardar.  
+3. Comprueba que la información de todos los [campos de cadastro](/es/docs/tutorials/agregar-o-editar-productos) esté correcta. De ser necesario, actualiza la información y haz clic en Guardar.  
 
 4. Accede al informe de indexación en **Catálogo > Informes** y comprueba que el producto esté en la cola de indexación o que ya haya sido indexado.
 
@@ -95,7 +95,7 @@ Después de reorganizar la cantidad de SKUs por productos, verifica el informe d
 
 ### Remover SKUs de colecciones 
 
-> ℹ️ Hay dos maneras de remover un SKU de una colección: a través de [CMS - Portal Legado](/es/docs/tracks/cms-portal-legado) o en el módulo **Colecciones (Beta)**. Esta sección describe cómo remover un SKU de una colección mediante **CMS - Portal Legado**. Para más información sobre el procedimiento en el módulo **Colecciones (beta)**, consulta [Eliminación de productos](/es/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#remocao-de-produtos).  
+> ℹ️ Hay dos maneras de remover un SKU de una colección: a través de [CMS - Portal Legado](/es/docs/tracks/cms-portal-legado) o en el módulo **Colecciones (Beta)**. Esta sección describe cómo remover un SKU de una colección mediante **CMS - Portal Legado**. Para más información sobre el procedimiento en el módulo **Colecciones (beta)**, consulta [Eliminación de productos](/es/docs/tutorials/registrar-colecciones-beta#remocao-de-produtos).  
 
 Si alguno de los SKUs del producto forma parte de una [colección](/es/docs/tracks/colecciones-definicion-del-concepto), también puede agotarse el tiempo límite de espera de la indexación. Para comprobar si el SKU forma parte de una o más colecciones, sigue los pasos a continuación:
 
@@ -112,7 +112,7 @@ Se puede realizar una reindexación completa de la base de productos para actual
 
 En las tiendas que tienen menos de 100 mil productos registrados en el catálogo, el [usuario titular](/es/docs/tutorials/que-es-el-usuario-titular) de la cuenta puede utilizar la función __Programar reindexación completa__ en el Admin VTEX.
 
-Las cuentas que tienen 100 mil productos o más registrados deben ponerse en contacto con el [soporte VTEX](/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) para realizar esta operación.
+Las cuentas que tienen 100 mil productos o más registrados deben ponerse en contacto con el [soporte VTEX](/es/docs/tutorials/como-funciona-el-soporte-de-vtex) para realizar esta operación.
 
 Más información en [Mantenimiento de base de datos (full cleanup)](/es/docs/tutorials/mantenimiento-de-base-de-datos-full-cleanup).
 

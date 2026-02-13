@@ -19,7 +19,7 @@ The __Portal__ is used to render __Checkout__ (cart, personal data, address, pay
 
 The __Checkout__ module in the Admin, displays the sites that are registered for your account. Through it, it is also possible to create a new website, edit and configure information about existing websites.
 
-> ℹ️ Each registered site corresponds to a multidomain (if the account has contracted multidomains). For accounts that do not use multidomains, it is not necessary to register more than one site in this module. Learn more at [Create a multistore/multidomain](/en/tutorial/como-criar-multiloja-multidominio--tutorials_510#).
+> ℹ️ Each registered site corresponds to a multidomain (if the account has contracted multidomains). For accounts that do not use multidomains, it is not necessary to register more than one site in this module. Learn more at [Create a multistore/multidomain](/en/docs/tutorials/managing-a-multistore).
 
 ## Creating a new website
 

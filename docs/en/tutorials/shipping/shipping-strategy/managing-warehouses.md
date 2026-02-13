@@ -23,10 +23,10 @@ In addition, you can add warehouses, the loading docks where products will be se
 
 This article describes how to:
 
-* [Add a warehouse](/en/tutorial/managing-warehouses--tutorials_137#adding-a-warehouse).  
-* [Fill in warehouse fields](/en/tutorial/managing-warehouses--tutorials_137#filling-in-warehouse-fields).  
-* [Edit a warehouse](/en/tutorial/managing-warehouses--tutorials_137#editing-a-warehouse).  
-* [Delete a warehouse](/en/tutorial/managing-warehouses--tutorials_137#editing-a-warehouse).
+* [Add a warehouse](/en/docs/tutorials/managing-warehouses#adding-a-warehouse).  
+* [Fill in warehouse fields](/en/docs/tutorials/managing-warehouses#filling-in-warehouse-fields).  
+* [Edit a warehouse](/en/docs/tutorials/managing-warehouses#editing-a-warehouse).  
+* [Delete a warehouse](/en/docs/tutorials/managing-warehouses#editing-a-warehouse).
 
 > ⚠️ For the logistics system to work as expected, we suggest that you configure it in the following order: <body> <ol> <li>[Shipping policy](/en/docs/tutorials/shipping-policy)</li> <li>[Loading dock](/en/docs/tutorials/managing-loading-docks)</li> <li>[Warehouse](/en/docs/tutorials/warehouse)</li> </ol> </body>
 

@@ -261,7 +261,7 @@ __MSI__ can be configured for both __VTEX Native Checkout experience__ and __VTE
 1. Create a [Stripe](https://stripe.com/) account based in Mexico configured with the MXN currency.
 2. In the VTEX Admin, go to __Store Settings > Payment > Settings__, or type __Settings__ in the search bar at the top of the page.
 3. Click one of the available payment methods that process payments with __MSI__ (Visa, Amex, and Mastercard cards).
-4. On the payment method page, [configure the MSI conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#installments-without-interest) as desired.
+4. On the payment method page, [configure the MSI conditions](/en/docs/tutorials/how-to-configure-payment-conditions#installments-without-interest) as desired.
 5. In your Stripe dashboard, [configure the MSI conditions](https://support.stripe.com/questions/c%C3%B3mo-configurar-meses-sin-intereses-%28msi%29-en-tu-cuenta-stripe?locale=es-419) using the same information as in the VTEX configuration (Step 4).
 
 > ⚠️ If the information entered in steps 4 and 5 differs, the MSI condition may not work correctly.  

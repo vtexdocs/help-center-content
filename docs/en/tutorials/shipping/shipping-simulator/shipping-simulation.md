@@ -22,7 +22,7 @@ The simulator can also be used to validate the **[Shipping Strategy](/en/docs/tu
 * **Item Availability**: the simulator checks if the item is in stock and whether it is possible to ship it (checks if there are carriers for that region, for example). If one of the criteria is not met, the simulator assumes that the item is unavailable.
 * **White Label Sellers Availability:** the simulator selects the white label seller that is closest to the shipping address (the logistics settings are calculated in the _White Label Seller’s_ environment, not in the main account). 
 
-> ⚠️ There may be a discrepancy between the final price indicated by the simulator and the actual price in your store since the simulation does not take into account the following: <ul> <li>Promotions applied to the items. <li>Shipping discounts configured through promotions. <li>The Total Delivery Time shown in the simulation results does not take into account the field **Expected Delivery Date (pre-sale)**  [in the item’s information in the system.](/en/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) </ul>
+> ⚠️ There may be a discrepancy between the final price indicated by the simulator and the actual price in your store since the simulation does not take into account the following: <ul> <li>Promotions applied to the items. <li>Shipping discounts configured through promotions. <li>The Total Delivery Time shown in the simulation results does not take into account the field **Expected Delivery Date (pre-sale)**  [in the item’s information in the system.](/en/docs/tutorials/adding-or-editing-skus) </ul>
 
 ## Simulating the shipping
 
@@ -47,7 +47,7 @@ If you want, you can check the `Simulate items individually` box.
 
  10. Click on the `Shipping simulation` button.
 
-> ℹ️ The items measurements in the simulation result appear in centimeters and grams; however, the actual values for the Checkout are the measurement units registered in the SKU and [product registration fields](/en/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke).
+> ℹ️ The items measurements in the simulation result appear in centimeters and grams; however, the actual values for the Checkout are the measurement units registered in the SKU and [product registration fields](/en/docs/tutorials/adding-or-editing-products).
 
 ## Simulation details
 

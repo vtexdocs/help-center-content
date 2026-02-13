@@ -34,7 +34,7 @@ Para ativar a funcionalidade será necessário:
 
 Para instalar o módulo de Assinaturas, você precisar abrir uma solicitação com o [nosso suporte](https://support.vtex.com/hc/pt-br/), indicando o nome da conta VTEX e selecionando a opção **Técnico**.
 
-A previsão de resposta da solicitação é de até 24 horas, seguindo [nosso SLA de atendimento](/pt/tutorial/suporte-vtex-brasil--bxOl9e62rq0ZZMsGodchd).
+A previsão de resposta da solicitação é de até 24 horas, seguindo [nosso SLA de atendimento](/pt/docs/tutorials/recursos-de-suporte-global-da-vtex).
 
 ## 2. Configurar meios de pagamento
 
@@ -61,7 +61,7 @@ Existe uma outra opção para criar um plano de assinatura, que consiste em cria
 
 ## 4. Configurar Perfis de acesso para Assinaturas
 
-Existe uma série de recursos relacionados a assinaturas, disponíveis no módulo de **Perfis de Acesso** da sua loja. São esses recursos que permitem o acesso dos usuários do seu Admin VTEX a determinadas funcionalidades, para operarem o módulo de Assinaturas. Para saber mais sobre perfis de acesso, confira o nosso [artigo](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso).
+Existe uma série de recursos relacionados a assinaturas, disponíveis no módulo de **Perfis de Acesso** da sua loja. São esses recursos que permitem o acesso dos usuários do seu Admin VTEX a determinadas funcionalidades, para operarem o módulo de Assinaturas. Para saber mais sobre perfis de acesso, confira o nosso [artigo](/pt/docs/tutorials/perfis-de-acesso#criando-um-perfil-de-acesso).
 
 > ⚠️ Se o usuário não tiver as permissões necessárias para acessar os dados das telas de **Assinaturas**, o sistema exibe um alerta informando que ele não tem essas permissões, e o usuário não consegue ver os dados.
 

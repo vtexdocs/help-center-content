@@ -51,7 +51,7 @@ Perfis de acesso predefinidos são conjuntos de recursos pré-determinados pela 
 
 #### Personalizados
 
-Além de utilizar perfis de acesso predefinidos, você pode [criar perfis de acesso personalizados](/pt/tutorial/criar-perfil-de-acesso--qGtNQpKSSAduX94l2WZBW#criar-perfil-de-acesso-personalizado), reunindo os recursos necessários para um grupo de usuários administrativos da sua loja.
+Além de utilizar perfis de acesso predefinidos, você pode [criar perfis de acesso personalizados](/pt/docs/tutorials/criar-perfil-de-acesso#criar-perfil-de-acesso-personalizado), reunindo os recursos necessários para um grupo de usuários administrativos da sua loja.
 
 Por exemplo, uma equipe responsável por manter o Catálogo da loja atualizado costuma realizar um conjunto bem definido de tarefas, como cadastrar e editar produtos, categorias e marcas. Nesse caso, um administrador da conta pode criar um perfil de acesso personalizado com todos os recursos necessários para esses colaboradores.
 

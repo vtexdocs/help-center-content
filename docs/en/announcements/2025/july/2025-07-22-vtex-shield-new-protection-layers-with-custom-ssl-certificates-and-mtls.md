@@ -27,7 +27,7 @@ These new features increase control over system communication, meeting security 
 
 ## What has changed?
 
-VTEX Shield already offered [Web Application Firewall (WAF)](/en/docs/tutorials/web-application-firewall-waf), [Security Monitor](/en/docs/tutorials/security-monitor), and [Data Protection Plus](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh#data-protection-plus) as additional security layers. Now, you can also select custom SSL certificates and the mTLS protocol, as described below.
+VTEX Shield already offered [Web Application Firewall (WAF)](/en/docs/tutorials/web-application-firewall-waf), [Security Monitor](/en/docs/tutorials/security-monitor), and [Data Protection Plus](/en/docs/tutorials/vtex-shield#data-protection-plus) as additional security layers. Now, you can also select custom SSL certificates and the mTLS protocol, as described below.
 
 ### Custom SSL certificates
 
@@ -41,7 +41,7 @@ Learn more in [Custom SSL certificates](/en/docs/tutorials/custom-ssl-certificat
 
 The mTLS protocol offers enhanced protection in integrations between VTEX and external systems, such as ERPs, WMSs, or headless stores.
 
-Unlike the traditional TLS protocol, where only the server proves its identity, mTLS ensures mutual authentication by requiring [both the client and the server to present valid certificates](/en/tutorial/mutual-transport-layer-security-mtls--6YR3SoynJMfeEKGlY1Cqlo#client-server-architecture) before exchanging information. This practice reduces the risk of malicious or unauthorized connections.
+Unlike the traditional TLS protocol, where only the server proves its identity, mTLS ensures mutual authentication by requiring [both the client and the server to present valid certificates](/en/docs/tutorials/mutual-transport-layer-security-mtls#client-server-architecture) before exchanging information. This practice reduces the risk of malicious or unauthorized connections.
 
 Learn more in [Mutual Transport Layer Security (mTLS)](/en/docs/tutorials/mutual-transport-layer-security-mtls).
 

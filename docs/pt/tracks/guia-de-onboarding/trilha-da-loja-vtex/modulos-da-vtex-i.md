@@ -53,11 +53,11 @@ A tabela a seguir apresenta as principais configurações de Catálogo da loja, 
 
 | **Assunto** | **Configuração via Admin VTEX** | **Configuração via API** |
 | :--- | --- | :--- |
-| 1. [Árvore de categorias](/pt/tutorial/catalog-overview--77M8ItLhDXs6aBdQTqToVe#categorias) | [Cadastrar uma Categoria](/pt/docs/tutorials/cadastrar-uma-categoria) | - [Categories](https://developers.vtex.com/docs/guides/categories) <br> - [Create Category](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/category) |
+| 1. [Árvore de categorias](/pt/docs/tutorials/catalogo-visao-geral#categorias) | [Cadastrar uma Categoria](/pt/docs/tutorials/cadastrar-uma-categoria) | - [Categories](https://developers.vtex.com/docs/guides/categories) <br> - [Create Category](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/category) |
 | 2. [Marcas](/pt/docs/tracks/marcas-definicao-de-conceito) | [Cadastrar marcas](/pt/docs/tutorials/cadastrando-marcas) | - [Brands](https://developers.vtex.com/docs/guides/brands) <br> - [Create Brand](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/brand) |
 | 3.1. [Especificações de produto](/pt/docs/tracks/especificacoes-definicao-de-conceito#especificacao-de-produto) | [Cadastrar especificações ou campos de produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto) | - [Product specifications](https://developers.vtex.com/docs/guides/product-specifications) <br> - [Create Specification](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/specification) |
 | 3.2. [Especificações de SKU](/pt/docs/tracks/especificacoes-definicao-de-conceito#especificacao-de-sku) | [Cadastrar especificações ou campos de SKU](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-sku) | - [SKU specifications](https://developers.vtex.com/docs/guides/sku-specifications) <br> - [Create Specification](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/specification) |
-| 4. [Produtos](/pt/docs/tracks/produtos-definicao-de-conceito) | [Cadastrar produtos](/pt/tutorial/cadastrando-produtos--tutorials_2567) | - [Products](https://developers.vtex.com/docs/guides/products) <br> - [Create Product with Category and Brand](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product) |
+| 4. [Produtos](/pt/docs/tracks/produtos-definicao-de-conceito) | [Cadastrar produtos](/pt/docs/tutorials/adicionar-ou-editar-produto) | - [Products](https://developers.vtex.com/docs/guides/products) <br> - [Create Product with Category and Brand](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product) |
 | 5. [SKUs](/pt/docs/tracks/sku-definicao-de-conceito) | [Preencher campos de cadastro de SKU](/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY?&utm_source=autocomplete) | - [SKUs](https://developers.vtex.com/docs/guides/skus) <br> - [Create SKU](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunit) |
 
 <br>
@@ -66,9 +66,9 @@ A tabela a seguir apresenta as principais configurações de Catálogo da loja, 
 
 #### Árvore de categorias
 
-A [árvore de categorias](/pt/tutorial/catalog-overview--77M8ItLhDXs6aBdQTqToVe#categorias) é a definição da estrutura base do Catálogo. As categorias atuam como níveis hierárquicos de classificação de produtos, simplificando a busca do cliente e mantendo o catálogo da loja organizado. 
+A [árvore de categorias](/pt/docs/tutorials/catalogo-visao-geral#categorias) é a definição da estrutura base do Catálogo. As categorias atuam como níveis hierárquicos de classificação de produtos, simplificando a busca do cliente e mantendo o catálogo da loja organizado. 
 
-Recomendamos a criação de uma hierarquia de até três níveis, incluindo [Departamento](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf#departamento), [Categorias](/pt/tutorial/catalog-overview--77M8ItLhDXs6aBdQTqToVe#categorias) e [Subcategorias](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf#subcategoria). No entanto, algumas lojas podem se beneficiar de uma estrutura mais simples de dois níveis, com Departamentos e Categorias. Isso depende da complexidade da operação e tipos de produtos oferecidos.
+Recomendamos a criação de uma hierarquia de até três níveis, incluindo [Departamento](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf#departamento), [Categorias](/pt/docs/tutorials/catalogo-visao-geral#categorias) e [Subcategorias](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf#subcategoria). No entanto, algumas lojas podem se beneficiar de uma estrutura mais simples de dois níveis, com Departamentos e Categorias. Isso depende da complexidade da operação e tipos de produtos oferecidos.
 
 **Exemplo:** Departamento `Feminino`, Categoria `Blusas e camisas` e Subcategoria `Camisetas`.
 
@@ -120,7 +120,7 @@ A tabela a seguir apresenta outras configurações opcionais de Catálogo na VTE
 
 ### Antes de começar em Preços
 
-Antes de configurar os preços da loja, é necessário cadastrar o [Catálogo](#catalogo) com os produtos que serão vendidos. O catálogo da loja deve conter [categorias](/pt/docs/tutorials/cadastrar-uma-categoria), [marcas](/pt/docs/tutorials/cadastrando-marcas), [produtos](/pt/tutorial/cadastrando-produtos--tutorials_2567) e [SKUs](/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) já cadastrados e ativos. Caso o cadastro do catálogo tenha sido realizado pela [integração com um sistema ERP](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu#integracao-com-erp), é essencial checar se as informações estão corretas antes de prosseguir. 
+Antes de configurar os preços da loja, é necessário cadastrar o [Catálogo](#catalogo) com os produtos que serão vendidos. O catálogo da loja deve conter [categorias](/pt/docs/tutorials/cadastrar-uma-categoria), [marcas](/pt/docs/tutorials/cadastrando-marcas), [produtos](/pt/docs/tutorials/adicionar-ou-editar-produto) e [SKUs](/pt/docs/tutorials/adicionar-ou-editar-sku) já cadastrados e ativos. Caso o cadastro do catálogo tenha sido realizado pela [integração com um sistema ERP](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu#integracao-com-erp), é essencial checar se as informações estão corretas antes de prosseguir. 
 
 ### Como funciona o módulo Preços
 
@@ -189,7 +189,7 @@ Neste contexto, é importante conhecer os principais termos utilizados, conforme
 | :---: | :--- |
 | Promoção | Desconto concedido ao cliente, podendo estar associado a um ou mais produtos do carrinho, ou ainda ao frete ou a um brinde. |
 | Cupom | Código promocional, composto de uma sequência de letras e números. Os cupons são associados a promoções sobre o valor do carrinho. Assim, ao informar o código de um cupom válido no momento da compra, o cliente pode obter descontos sobre o valor do pedido. |
-| Audiência de campanha | Audiência de campanha é uma funcionalidade que permite definir o [público-alvo](/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m#publico-alvo) para uma promoção. A funcionalidade consiste em criar critérios para segmentar clientes. A partir desses critérios, a plataforma VTEX valida automaticamente se os clientes são elegíveis a uma determinada audiência de campanha e, consequentemente, às [promoções de campanha](/pt/docs/tutorials/promocao-de-campanha) associadas. |
+| Audiência de campanha | Audiência de campanha é uma funcionalidade que permite definir o [público-alvo](/pt/docs/tutorials/audiencias-de-campanhas#publico-alvo) para uma promoção. A funcionalidade consiste em criar critérios para segmentar clientes. A partir desses critérios, a plataforma VTEX valida automaticamente se os clientes são elegíveis a uma determinada audiência de campanha e, consequentemente, às [promoções de campanha](/pt/docs/tutorials/promocao-de-campanha) associadas. |
 | Promoção de campanha | A promoção de campanha é sempre atrelada a uma audiência de campanha, ou seja, um público alvo específico. Uma promoção desse tipo será aplicada somente para o público-alvo definido na campanha. |
 
 ### Criar promoções
@@ -212,7 +212,7 @@ Há seis tipos diferentes de promoções, cada uma relacionada a um cenário dif
 | [Compre e Ganhe](/pt/docs/tutorials/compre-e-ganhe) | Promoção utilizada para oferecer frete grátis ou um brinde caso determinado produto seja comprado. |
 | [Promoção de Campanha](/pt/docs/tutorials/promocao-de-campanha) | Promoção que é sempre atrelada a uma audiência de campanha, ou seja, a um público alvo específico. |
 
-Para todas as promoções, é possível definir um período de validade, além de restrições e limitações de uso. Promoções também podem ser agendadas para eventos especiais, como descrito no artigo [Agendamento para eventos especiais](/pt/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI#agendar-promocoes).
+Para todas as promoções, é possível definir um período de validade, além de restrições e limitações de uso. Promoções também podem ser agendadas para eventos especiais, como descrito no artigo [Agendamento para eventos especiais](/pt/docs/tutorials/agendamento-para-eventos-especiais#agendar-promocoes).
 
 Mais informações sobre possibilidades de aplicação de promoções podem ser conferidas no artigo [Exemplos de promoção](/pt/docs/tutorials/exemplos-de-promocao).
 
@@ -311,7 +311,7 @@ O [inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) da loja correspon
 
 No Admin VTEX, em __Catálogo > Estoque > Gerenciamento de inventário__, existe uma configuração opcional chamada [Lead time](/pt/docs/tutorials/lead-time-tempo-de-envio-a-nivel-de-sku), que permite atribuir um tempo de envio a nível de SKU. Configurar o lead time significa adicionar um período de tempo ao [cálculo](#calculo-de-envio-de-pedidos) de envio de pedido, o que é estratégico em alguns contextos.
 
-Dentre os [principais casos de uso](/pt/tutorial/lead_time-shipping-time-at-sku-level--16yv5Mkj6bTyWR1hCN2f4B#principais-casos-de-uso), podemos citar produtos de fornecedores externos, cenários de _dropshipping_ e venda de itens personalizáveis. Poder configurar o lead time significa ter mais flexibilidade para definir prazos de manipulação e envio do produto por terceiros.
+Dentre os [principais casos de uso](/pt/docs/tutorials/lead-time-tempo-de-envio-a-nivel-de-sku#principais-casos-de-uso), podemos citar produtos de fornecedores externos, cenários de _dropshipping_ e venda de itens personalizáveis. Poder configurar o lead time significa ter mais flexibilidade para definir prazos de manipulação e envio do produto por terceiros.
 
 ### Cálculo de envio de pedidos
 
@@ -335,7 +335,7 @@ Para atender a diversos modelos de negócio, a plataforma VTEX disponibiliza uma
 | Pontos de retirada | [Pontos de retirada](/pt/docs/tutorials/pontos-de-retirada) são locais físicos que a loja configura para que os clientes possam retirar seus pedidos. Configurar pontos de retirada é interessante para operações omnichannel, especialmente quando há um grande número de lojas físicas, pois cada loja física pode se tornar uma opção para o cliente retirar seu pedido, aumentando a versatilidade da sua malha logística. |
 | Feriados | A funcionalidade [Feriados](/pt/docs/tutorials/cadastrar-feriados) permite que a loja configure dias que não são válidos para o envio, e isso será considerado ao calcular o prazo de envio do pedido. |
 | Reserva | A [reserva](/pt/docs/tutorials/como-a-reserva-funciona) é uma solução que impede que um mesmo item seja vendido mais de uma vez. Quando o cliente apenas insere o produto no carrinho, isso não gera reserva, sua prioridade sobre o item só ocorre após a finalização do pedido. |
-| Capacidade de entrega | A [Capacidade de entrega](/pt/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi#capacidade-de-entrega) é o limite de envios que podem ser realizados pela loja em determinado período. Poder delimitar uma quantidade de itens ou pedidos que podem ser enviados em cada janela de envio significa ter mais controle sobre o preparo de pedidos e aumentar as chances de cumprir o acordo de entrega feito ao cliente no checkout. |
+| Capacidade de entrega | A [Capacidade de entrega](/pt/docs/tutorials/entrega-agendada#capacidade-de-entrega) é o limite de envios que podem ser realizados pela loja em determinado período. Poder delimitar uma quantidade de itens ou pedidos que podem ser enviados em cada janela de envio significa ter mais controle sobre o preparo de pedidos e aumentar as chances de cumprir o acordo de entrega feito ao cliente no checkout. |
 | Geolocalização | [Geolocalização](/pt/docs/tutorials/gerenciar-geolocalizacao) é o cadastro dos locais de envio a partir da latitude e longitude dos endereços. Essa funcionalidade é muito utilizada em endereços de zonas rurais e industriais, onde há divisão por lotes, ou áreas de risco, quando é preciso excluir determinados locais de entrega dentro de uma região. |
 
 Outras informações sobre conceitos logísticos na VTEX podem ser encontradas no artigo [Glossário de logística](/pt/docs/tutorials/glossario-de-logistica), e conteúdo para desenvolvedores sobre a [Logistics API](https://developers.vtex.com/docs/api-reference/logistics-api#overview), no artigo [Fulfillment and Logistics](https://developers.vtex.com/docs/guides/fulfillment).

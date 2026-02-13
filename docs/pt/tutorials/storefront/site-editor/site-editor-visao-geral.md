@@ -43,7 +43,7 @@ Confira os seguintes tutoriais para começar a gerenciar o conteúdo da sua fren
 - [Melhorando o SEO das Páginas de lista de produtos](/pt/docs/tutorials/melhorando-o-seo-das-paginas-de-lista-de-produtos)
 - [Reutilizando imagens com o Image Widget](/pt/docs/tutorials/image-widget)
 - [Vinculando URLs em banners usando o Site Editor](/pt/docs/tutorials/vinculando-urls-em-banners-usando-o-site-editor)
-- [Criando landing pages por binding](/pt/tutorial/criando-landing-pages-por-binding--3LQAoWx77P3gNoqI2Rtl5A)
+- [Criando landing pages por binding](/pt/docs/tutorials/criando-landing-pages)
 - [Gerenciando conteúdo por binding](/pt/docs/tutorials/gerenciando-conteudo-por-binding)
 - [Gerenciando redirecionamentos de URL por binding](/pt/docs/tutorials/gerenciando-redirecionamentos-de-url-por-binding)
 

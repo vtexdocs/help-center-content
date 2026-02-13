@@ -34,4 +34,4 @@ Para configurar a janela de tempo, siga os passos abaixo:
 ### Artigos relacionados
 
 - [Cancelamento de pedido solicitado pelo cliente](/pt/docs/tutorials/cancelamento-de-pedido-por-parte-do-cliente)
-- [Por que meu pedido foi cancelado?](/pt/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493)
+- [Por que meu pedido foi cancelado?](/pt/troubleshooting/o-pedido-da-minha-loja-foi-cancelado)

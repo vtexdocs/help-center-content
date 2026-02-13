@@ -34,7 +34,7 @@ To activate this feature, you will need to:
 
 To install the Subscriptions module, open a request with [our Support](https://supporticket.vtex.com/support), indicate the name of your VTEX account, and select the **Technical** option.
 
-The request is expected to be answered within 24 hours, following [our service SLA](/en/tutorial/como-funciona-o-suporte-da-vtex--2eAT5EyOvaLoHdIWDVaxC3#support-plans).
+The request is expected to be answered within 24 hours, following [our service SLA](/en/docs/tutorials/how-does-vtex-support-work#support-plans).
 
 ## 2. Configure payment methods
 
@@ -61,7 +61,7 @@ There is another option to create a subscription plan, which involves manually c
 
 ## 4. Configure roles for Subscriptions
 
-There are a number of subscription-related features available in the **Roles** module of your store. These features allow your VTEX Admin users to access certain features in order to operate the Subscriptions module. To learn more about roles, please read this [article](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role).
+There are a number of subscription-related features available in the **Roles** module of your store. These features allow your VTEX Admin users to access certain features in order to operate the Subscriptions module. To learn more about roles, please read this [article](/en/docs/tutorials/roles#creating-a-role).
 
 > ⚠️ If the user does not have the permissions required to access the data on the **Subscriptions** pages, the system will display a warning stating that they do not have those permissions, and the user will be unable to view the data.
 

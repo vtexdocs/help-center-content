@@ -27,7 +27,7 @@ The shipping strategy is defined by three logistics entities:
 * [Loading dock](/en/docs/tutorials/loading-dock): location where items will be picked up. The stores use the loading dock to configure the collection of packages. The carriers pick up the packages from the loading docks.
 * [Warehouse](/en/docs/tutorials/warehouse): location where the items are stored. The shipping policy is not the only variable for choosing the delivery; it is also necessary to consider in which warehouse the products are stored.
 
-> ℹ️ There are other possible scenarios for using loading docks. To learn about use cases, read the article Loading docks. To learn more about the flow of deliveries, see the article [ How does the delivery flow work](/en/tutorial/como-funciona-o-fluxo-de-entregas--4ku3QKWfxmUO8UgA0yqgUq).
+> ℹ️ There are other possible scenarios for using loading docks. To learn about use cases, read the article Loading docks. To learn more about the flow of deliveries, see the article [ How does the delivery flow work](/en/docs/tutorials/fulfillment-logistics-vtex).
 
 Please note that:
 
@@ -66,15 +66,15 @@ When configuring [shipping strategies](/en/docs/tutorials/shipping-strategy) tha
 6. [Geolocation](/en/docs/tutorials/registering-geolocation);
 7. Configuration of the pickup points available at checkout.
 
-> ⚠️ For more information, please refer to the article [Configuring pickup points.](/en/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#setup)
+> ⚠️ For more information, please refer to the article [Configuring pickup points.](/en/docs/tutorials/pickup-points#setup)
 
 ## Shipping time and holidays
 
 When the customer has items in the cart and enters the location data at checkout, the platform estimates the shipping time for the order. This estimate (also called SLA) is calculated considering the following criteria:
 
-* The times [configured for the inventories](/en/tutorial/managing-warehouses--tutorials_137#campos-de-cadastro).
-* The times [configured for the loading dock](/en/tutorial/managing-loading-docks--7K3FultD8I2cuuA6iyGEiW#campos-de-cadastro).
-* The times [configured for the shipping policy](/en/tutorial/shipping-policy--tutorials_140#adding-a-shipping-policy), in the fields **Pickup time** and **Hours of operation**. 
+* The times [configured for the inventories](/en/docs/tutorials/managing-warehouses#campos-de-cadastro).
+* The times [configured for the loading dock](/en/docs/tutorials/managing-loading-docks#campos-de-cadastro).
+* The times [configured for the shipping policy](/en/docs/tutorials/shipping-policy#adding-a-shipping-policy), in the fields **Pickup time** and **Hours of operation**. 
 * The registered holidays.
 
 For more details about the SLA calculation, read the article [How is the delivery time calculated?](/en/docs/tutorials/how-is-the-order-delivery-deadline-calculated).

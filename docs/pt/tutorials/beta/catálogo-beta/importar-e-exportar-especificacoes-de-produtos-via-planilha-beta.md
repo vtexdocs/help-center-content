@@ -47,11 +47,11 @@ Para exportar um arquivo `.xlsx` com informações sobre especificações de pro
 > ℹ️ As informações exportadas correspondem aos campos apresentados na seção [Ver campos da planilha de especificações de produtos](#ver-campos-da-planilha-de-especificacoes-de-produtos).
 
 1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus) na barra de busca no topo da página.
-2. (Opcional) Caso queira exportar as especificações de produtos de determinados produtos, [busque](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#buscar-produtos) ou [filtre](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#filtrar-produtos) os itens desejados. Este passo não é necessário para exportar as especificações de todos os produtos do seu catálogo.
+2. (Opcional) Caso queira exportar as especificações de produtos de determinados produtos, [busque](/pt/docs/tutorials/produtos-e-skus#buscar-produtos) ou [filtre](/pt/docs/tutorials/produtos-e-skus#filtrar-produtos) os itens desejados. Este passo não é necessário para exportar as especificações de todos os produtos do seu catálogo.
 3. No topo da página, clique em `Exportar`.
 4. Clique em `Especificações de produto`.
 
-Enquanto a exportação estiver em andamento, aparecerá a mensagem de que o arquivo está sendo processado. Mesmo que você saia da página, a operação não será interrompida. Você pode [acompanhar o andamento da exportação pela janela](/pt/tutorial/importar-e-exportar-produtos-e-skus-via-planilha-beta--5udKxWP1ZeBD7QB7Fy2BNl#acompanhar-janela-do-processo-de-exportacao) que surge na página. 
+Enquanto a exportação estiver em andamento, aparecerá a mensagem de que o arquivo está sendo processado. Mesmo que você saia da página, a operação não será interrompida. Você pode [acompanhar o andamento da exportação pela janela](/pt/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha-beta#acompanhar-janela-do-processo-de-exportacao) que surge na página. 
 
 Após a finalização da exportação, você receberá um email com um link para fazer o download do arquivo. O prazo para o download pelo link é de 24 horas, após este período o link expira. Também é possível baixar o arquivo pela janela que surgiu na página.
 
@@ -72,7 +72,7 @@ A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campo
 | Categoria | Nome da categoria de menor nível hierárquico do produto. | Blusas |
 | ID Campo | Código numérico que identifica o campo da especificação de produto para aquele produto. | 493 |
 | Nome Campo | Nome do campo da especificação de produto. | Material |
-| Nome Tipo Campo | [Tipo do campo da especificação de produto](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106#tipos-de-campo-de-produto), que pode ser:<ul><li>Texto</li><li>Texto Grande</li><li>Número</li><li>Combo</li><li>Radio</li><li>CheckBox</li><li>Texto Indexado</li><li>Texto Grande Indexado</li></ul>Caso você utilize a versão beta de categorias, confira os tipos de campo aceitos para [atributos](/pt/tutorial/criar-ou-editar-categorias-atributos-e-variacoes-beta--1lzs3fHjM9N7CKFOxCCYQi#adicionar-atributo). | Texto |
+| Nome Tipo Campo | [Tipo do campo da especificação de produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto#tipos-de-campo-de-produto), que pode ser:<ul><li>Texto</li><li>Texto Grande</li><li>Número</li><li>Combo</li><li>Radio</li><li>CheckBox</li><li>Texto Indexado</li><li>Texto Grande Indexado</li></ul>Caso você utilize a versão beta de categorias, confira os tipos de campo aceitos para [atributos](/pt/docs/tutorials/criar-ou-editar-categorias-atributos-e-variacoes-beta#adicionar-atributo). | Texto |
 | ID Valor Campo | Código numérico que identifica o valor do campo. | 290 |
 | Nome Valor Campo | Nome do valor do campo. | Sintético |
 | Código Especificação | Código numérico que identifica a relação entre o campo e aquele produto. | 418  |

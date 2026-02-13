@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
 ---
 
-The campaign audiences resource allows segmenting your store's promotions based on defining [target audiences](/en/tutorial/campaign-audiences--3o7lhpNseXY2WmjZO0gQ6m#target-audience) meeting specific criteria. For more information on this feature, check out [Campaign audiences](/en/docs/tutorials/campaign-audiences).
+The campaign audiences resource allows segmenting your store's promotions based on defining [target audiences](/en/docs/tutorials/campaign-audiences#target-audience) meeting specific criteria. For more information on this feature, check out [Campaign audiences](/en/docs/tutorials/campaign-audiences).
 
 Follow the steps below to create a new campaign audience:
 

@@ -23,7 +23,7 @@ In this guide, you will learn how to create, configure, and delete a multistore.
 
 Creating a multistore is free of charge for merchants. However, if you need to [request an additional trade policy](/en/docs/tutorials/requesting-an-additional-trade-policy), additional costs will apply.
 
-To create a new store, follow the instructions in the section **Creating a store** in the guide [Account management](/en/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq#criar-loja).
+To create a new store, follow the instructions in the section **Creating a store** in the guide [Account management](/en/docs/tutorials/account-management#criar-loja).
 
 You need to specify the domain of your new store. Learn more in the guide [Configuring the store domain](/en/docs/tutorials/configuring-the-store-domain).
 
@@ -70,7 +70,7 @@ To automatically generate the XML file for the new store, follow the instruction
 
 ## Deleting a multistore
 
-To delete an existing multistore, follow the instructions in the **Deleting a store** section of the guide [Account management](/en/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq#excluir-loja).
+To delete an existing multistore, follow the instructions in the **Deleting a store** section of the guide [Account management](/en/docs/tutorials/account-management#excluir-loja).
 
 > ⚠️ The name of the deleted subaccount cannot be used again.
 

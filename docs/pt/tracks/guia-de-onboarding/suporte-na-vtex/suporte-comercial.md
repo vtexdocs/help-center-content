@@ -21,7 +21,7 @@ Além dos recursos já previstos no contrato inicial com a VTEX, é possível ad
 - Alterar [usuário titular](/pt/docs/tutorials/o-que-e-o-usuario-titular).
 - Adquirir [Produtos add-on](/pt/docs/tracks/produtos-add-on).
 
-Caso o usuário precise de suporte além dos tópicos a seguir ou adquirir um Produto Add-on, é possível [abrir chamados para o suporte comercial](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM#financeiro). O primeiro contato pode ser feito através dos artigos do [Help Center](/pt/) e conferindo os as seções apresentadas a seguir.
+Caso o usuário precise de suporte além dos tópicos a seguir ou adquirir um Produto Add-on, é possível [abrir chamados para o suporte comercial](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex#financeiro). O primeiro contato pode ser feito através dos artigos do [Help Center](/pt/) e conferindo os as seções apresentadas a seguir.
 
 ## Contratar política comercial adicional
 

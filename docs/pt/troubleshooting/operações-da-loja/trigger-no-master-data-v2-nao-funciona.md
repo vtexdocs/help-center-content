@@ -51,7 +51,7 @@ Tente enviar uma requisição manualmente para o endpoint utilizando uma ferrame
 
 ### Verifique as permissões e a autenticação
 
-* Certifique-se de que suas [credenciais](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) têm as [permissões](/pt/docs/tutorials/perfis-de-acesso) corretas para enviar requisições ao endpoint especificado.  
+* Certifique-se de que suas [credenciais](/pt/docs/tutorials/chaves-de-api) têm as [permissões](/pt/docs/tutorials/perfis-de-acesso) corretas para enviar requisições ao endpoint especificado.  
 * Se a trigger fizer uma requisição para um endpoint externo, verifique se não há necessidade de autenticação extra ou headers de segurança que precisam ser configurados para o endpoint de destino.
 
-Se as soluções acima não resolverem o problema, entre em contato com o [Suporte](/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe).
+Se as soluções acima não resolverem o problema, entre em contato com o [Suporte](/pt/docs/tutorials/como-funciona-o-suporte-da-vtex).

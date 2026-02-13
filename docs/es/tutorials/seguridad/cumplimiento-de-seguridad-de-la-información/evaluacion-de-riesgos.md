@@ -225,7 +225,7 @@ Las contraseñas en VTEX ID deben cumplir con los siguientes requisitos:
 * Mínimo de 1 carácter especial.
 * No se pueden repetir las últimas 4 contraseñas utilizadas.
 
-Los retailers pueden optar por aplicar la opción [vencimiento de la contraseña](/es/tutorial/autenticacao--21CkKHLKP1o41lUpGhuRUs#aplicar-expiracao-de-senha) a los usuarios del Admin tras un periodo específico, que puede ser de 15, 30 o 90 días.
+Los retailers pueden optar por aplicar la opción [vencimiento de la contraseña](/es/docs/tutorials/autenticacion#aplicar-expiracao-de-senha) a los usuarios del Admin tras un periodo específico, que puede ser de 15, 30 o 90 días.
 
 Además, tienen la opción de integrar un proveedor de identidad externo, lo que les permitiría definir sus propias políticas de contraseña personalizadas. Para más información, consulta [Login (SSO)](https://developers.vtex.com/docs/guides/login-integration-guide).
 
@@ -353,7 +353,7 @@ Principalmente, VTEX utiliza las siguientes regiones de datos de AWS para los pr
 Las evaluaciones de vulnerabilidad se realizan de forma continua. Cada verificación debe ser realizada nuevamente hasta que sea aprobada sin encontrar problemas. Un auditor las aceptará durante los periodos de recertificación.
 
 #### ¿Las personalizaciones o configuraciones del producto realizadas por los clientes podrían introducir vulnerabilidades de seguridad en la plataforma? En caso afirmativo, ¿cómo se gestionan estas eventualidades?
-Los retailers y cualquier agencia implementadora que estos contraten tienen la libertad de realizar personalizaciones y ajustes en la plataforma dentro de sus propios entornos. En caso de que se detecten vulnerabilidades en los sistemas de VTEX, nuestro equipo de seguridad y desarrollo actúa con rapidez para solucionar estos problemas. Debido a la naturaleza personalizable de la plataforma, es responsabilidad del retailer y de la agencia implementadora hacer frente a las vulnerabilidades que puedan surgir como resultado de las personalizaciones realizadas durante el desarrollo. Para más información, consulta[ Responsabilidades en el ecosistema VTEX](/es/tutorial/responsabilidades-en-el-ecosistema-vtex--3vL9aWICDr3WR64DYi1fJ3#agencias-implementadoras).
+Los retailers y cualquier agencia implementadora que estos contraten tienen la libertad de realizar personalizaciones y ajustes en la plataforma dentro de sus propios entornos. En caso de que se detecten vulnerabilidades en los sistemas de VTEX, nuestro equipo de seguridad y desarrollo actúa con rapidez para solucionar estos problemas. Debido a la naturaleza personalizable de la plataforma, es responsabilidad del retailer y de la agencia implementadora hacer frente a las vulnerabilidades que puedan surgir como resultado de las personalizaciones realizadas durante el desarrollo. Para más información, consulta[ Responsabilidades en el ecosistema VTEX](/es/docs/tutorials/responsabilidades-en-el-ecosistema-vtex#agencias-implementadoras).
 
 ### Respuesta y mitigación de incidentes
 

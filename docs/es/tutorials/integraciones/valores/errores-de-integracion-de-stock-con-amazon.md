@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
-A veces se producen errores de integración de _stock_ en los _marketplaces_ para los que VTEX ha desarrollado un [conector nativo](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex). Este artículo reúne los errores más frecuentes de integración de _stock_ con Amazon y explica cómo resolverlos.
+A veces se producen errores de integración de _stock_ en los _marketplaces_ para los que VTEX ha desarrollado un [conector nativo](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#integrado-con-un-conector-nativo-vtex). Este artículo reúne los errores más frecuentes de integración de _stock_ con Amazon y explica cómo resolverlos.
 
 Hay mensajes que identifican cuáles son los errores. Puedes verlos en el Admin VTEX, en **MARKETPLACE > Conexiones > Stock**, haciendo clic en el mensaje de proceso con error.
 

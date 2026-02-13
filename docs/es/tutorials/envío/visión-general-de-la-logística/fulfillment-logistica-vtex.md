@@ -16,7 +16,7 @@ subcategoryId: 63f22GypJIBLnMGh1QZUi0
 ---
 
 La logística o fulfillment es el proceso de planificación y ejecución del transporte y almacenamiento de mercancías en la tienda, y envío de pedidos al cliente. Por lo tanto, está directamente relacionada con la experiencia del cliente y la estrategia de negocio de la tienda. De esta manera, la 
-[configuración logística](/es/tutorial/logistica--53udnvI5eBy8DKo8FOjMoP#configuracion-del-proceso-logistico) de tu tienda es fundamental. 
+[configuración logística](/es/docs/tutorials/fulfillment-logistica-vtex#configuracion-del-proceso-logistico) de tu tienda es fundamental. 
 
 VTEX te permite registrar e controlar el _stock_, gestionar las tarifas de envío, controlar la disponibilidad de los ítems y hacer el seguimiento de las entregas. 
 
@@ -31,10 +31,10 @@ Para saber qué configuraciones logísticas son necesarias y cómo realizarlas, 
     * Analiza las [políticas de envío](/es/docs/tutorials/politica-de-envio) que satisfacen las condiciones de envío del cliente. A través de la política de envío, la plataforma analiza las transportadoras que pueden entregar el pedido y los [puntos de recogida](/es/docs/tutorials/puntos-de-recogida) disponibles. 
 3. Tras el cálculo, la plataforma presenta las formas de entrega disponibles para el cliente (con plazos y valores). El cliente elige un tipo de envío (recogida o entrega) y finaliza el pedido. 
 
-    Una vez finalizado el pedido, se [autoriza la reserva](/es/tutorial/como-se-maneja-la-reserva--tutorials_92#reserva-autorizada) de los productos. Así, la plataforma se asegura de que los ítems no puedan volver a venderse. 
+    Una vez finalizado el pedido, se [autoriza la reserva](/es/docs/tutorials/como-se-maneja-la-reserva#reserva-autorizada) de los productos. Así, la plataforma se asegura de que los ítems no puedan volver a venderse. 
 
-4. Cuando se confirma el [pago](/es/docs/tracks/como-funciona-el-modulo-de-pagos), también [se confirma la reserva](/es/tutorial/como-se-maneja-la-reserva--tutorials_92#reserva-confirmada).
-5. Tras la confirmación del pago y el vencimiento del [periodo de carencia para la cancelación](/es/docs/tutorials/configurar-el-tiempo-de-espera-para-cancelar-el-pedido), la plataforma espera a que el administrador de la tienda prepare los ítems. Cuando el administrador de la tienda[ inicia la preparación del pedido,](/es/docs/tutorials/enviar-pedido-al-status-a-preparar-la-entrega) indica a la plataforma que se están preparando los ítems del pedido y sus facturas. A partir de esta etapa se [reconoce la reserva](/es/tutorial/como-se-maneja-la-reserva--tutorials_92#reserva-reconocida).
+4. Cuando se confirma el [pago](/es/docs/tracks/como-funciona-el-modulo-de-pagos), también [se confirma la reserva](/es/docs/tutorials/como-se-maneja-la-reserva#reserva-confirmada).
+5. Tras la confirmación del pago y el vencimiento del [periodo de carencia para la cancelación](/es/docs/tutorials/configurar-el-tiempo-de-espera-para-cancelar-el-pedido), la plataforma espera a que el administrador de la tienda prepare los ítems. Cuando el administrador de la tienda[ inicia la preparación del pedido,](/es/docs/tutorials/enviar-pedido-al-status-a-preparar-la-entrega) indica a la plataforma que se están preparando los ítems del pedido y sus facturas. A partir de esta etapa se [reconoce la reserva](/es/docs/tutorials/como-se-maneja-la-reserva#reserva-reconocida).
 6. La tienda incluye la [factura](/es/docs/tracks/facturar-un-pedido) del pedido en la plataforma.  
 7. Se inicia el proceso de envío:
     * En el caso de los pedidos que se envían a la dirección del cliente (entrega), la tienda envía los paquetes al [muelle](/es/docs/tutorials/muelles) donde la [transportadora](/es/docs/tutorials/transportadoras-en-vtex) debe recogerlos. La transportadora (elegida mediante las [políticas de envío](/es/docs/tutorials/politica-de-envio)) entrega el pedido.
@@ -96,7 +96,7 @@ El proceso logístico debe configurarse según las necesidades de tu tienda. Est
      Gestión de la disponibilidad de los ítems registrados en el *stock*. Puedes seguir el movimiento y las reservas de ítems.
 <body>
 <ul>
-<li>[Acceder a las reservas de un producto](/es/tutorial/como-se-maneja-la-reserva--tutorials_92#como-seguir-el-status-de-la-reserva);</li>
+<li>[Acceder a las reservas de un producto](/es/docs/tutorials/como-se-maneja-la-reserva#como-seguir-el-status-de-la-reserva);</li>
 <li>[Cómo funciona la reserva](/es/docs/tutorials/como-se-maneja-la-reserva).</li>
 </ul>
 </body>

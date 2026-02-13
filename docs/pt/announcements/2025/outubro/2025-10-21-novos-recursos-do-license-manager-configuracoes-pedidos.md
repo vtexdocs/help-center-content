@@ -23,7 +23,7 @@ Atualizamos quais [recursos do License Manager](/pt/docs/tutorials/recursos-do-l
 
 ## O que precisa ser feito?
 
-Para garantir que seus usuários consigam acessar às páginas citadas acima, é necessário [criar um perfil de acesso personalizado](/pt/tutorial/criar-perfil-de-acesso--qGtNQpKSSAduX94l2WZBW#criar-perfil-de-acesso-personalizado) ou [editar o perfil existente](/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/6Ymo5bNMyEYBGsTmbTC3H9#editar-perfil-de-acesso) adicionando os recursos `Save Order Configuration` e `Save OrderForm Configuration` ao perfil.
+Para garantir que seus usuários consigam acessar às páginas citadas acima, é necessário [criar um perfil de acesso personalizado](/pt/docs/tutorials/criar-perfil-de-acesso#criar-perfil-de-acesso-personalizado) ou [editar o perfil existente](/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/6Ymo5bNMyEYBGsTmbTC3H9#editar-perfil-de-acesso) adicionando os recursos `Save Order Configuration` e `Save OrderForm Configuration` ao perfil.
 
 Uma vez que os recursos foram adicionados, o usuário conseguirá acessar as páginas do Admin VTEX.
 

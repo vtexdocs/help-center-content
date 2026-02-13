@@ -21,8 +21,8 @@ To guarantee that our [marketplace](/en/docs/tutorials/what-is-a-marketplace) cl
 
 Below are two examples of split payment application scenarios where a consumer adds products from different sellers to the same cart:
 
-1. When the marketplace is responsible for processing payment for the purchase, VTEX automatically divides this payment so that each beneficiary receives their share directly into their own bank account, thus carrying out the [Payout Split](/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx#payout-split).
-2. When the cart involves sellers who are responsible for processing their own payment method (without depending on the marketplace), VTEX creates different payment transactions for the Marketplace and the sellers, performing the [Transaction Split](/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx#transaction-split).
+1. When the marketplace is responsible for processing payment for the purchase, VTEX automatically divides this payment so that each beneficiary receives their share directly into their own bank account, thus carrying out the [Payout Split](/en/docs/tutorials/split-payment#payout-split).
+2. When the cart involves sellers who are responsible for processing their own payment method (without depending on the marketplace), VTEX creates different payment transactions for the Marketplace and the sellers, performing the [Transaction Split](/en/docs/tutorials/split-payment#transaction-split).
 
 > ⚠️ The distribution of purchase amounts is always carried out in accordance with pre-defined commission percentage agreements between the marketplace and sellers.
 

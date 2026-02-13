@@ -33,12 +33,12 @@ See how different VTEX configurations relate to trade policies:
 
 To [request additional trade policies](/en/docs/tutorials/requesting-an-additional-trade-policy), contact our Growth Operations team through Support by selecting **Commercial** and `Create a trade policy`.
 
-Additional trade policies to integrate with [certified connectors](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-certified-connector-partner), or other VTEX stores are free of charge.
+Additional trade policies to integrate with [certified connectors](/en/docs/tutorials/marketplace-strategies-at-vtex#integrating-with-a-certified-connector-partner), or other VTEX stores are free of charge.
 
 > ⚠️ If the same trade policy is applied to a certified connector and a partner connector, there is no fee exemption.
 
 ## Catalog
-You can restrict which products are available for certain trade policies when [adding new products](/en/tutorial/cadastrando-produtos--tutorials_2567) to the catalog. In doing so, the catalog will be segmented according to different business strategies. These strategies can have products segmented by region, marketplace, or specific types of customers, such as employees. Learn more about how to configure your [catalog](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ).
+You can restrict which products are available for certain trade policies when [adding new products](/en/docs/tutorials/adding-or-editing-products) to the catalog. In doing so, the catalog will be segmented according to different business strategies. These strategies can have products segmented by region, marketplace, or specific types of customers, such as employees. Learn more about how to configure your [catalog](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ).
 
 ## Prices
 You can set different prices for the same SKU based on the trade policy. This use of the trade policy is not equivalent to creating a promotion, as it depends on your business's pricing strategy. Trade policies can be used to differentiate prices between B2C and B2B customers or between physical stores and marketplaces. There is also the option to apply [pricing rules](/en/docs/tutorials/configuring-a-pricing-rule-for-a-sales-policy) and [fixed prices](/en/docs/tracks/preco-fixo-definicao-de-conceito) to differentiate prices and markups between specific products, categories, or brands. Learn more about how to configure [prices](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP).

@@ -96,11 +96,11 @@ Después de cerrar el pedido, el precio manual debe ser aprobado por el administ
 
 Los usuarios con el rol Call Center operator pueden consultar, dar seguimiento y realizar cambios en los pedidos efectuados en la tienda desde la vista del Admin en la página **Pedidos > Todos los pedidos**.
 
-Para saber más, consulta [Estructura de la página de gestión de pedidos](/es/tutorial/estrutura-da-pagina-do-oms--2dDZmUUFXWeyQ4s2gqiY0A#todos-los-pedidos).
+Para saber más, consulta [Estructura de la página de gestión de pedidos](/es/docs/tutorials/todos-los-pedidos#todos-los-pedidos).
 
 Para entender las principales funcionalidades de la página **Todos los pedidos**, consulta:
 
 * [Cambiar ítems de un pedido finalizado](/es/docs/tutorials/cambiar-items-de-un-pedido-finalizado).
 * [Cómo cancelar pedido](/es/docs/tutorials/como-cancelar-pedido).
-* [Cómo devolver ítems del pedido](/es/tutorial/como-fazer-a-devolucao-de-itens--tutorials_191).
+* [Cómo devolver ítems del pedido](/es/docs/tutorials/como-devolver-items-del-pedido).
 * [Verificar detalles de error en los pedidos](/es/docs/tutorials/como-verificar-detalles-de-errores-en-los-pedidos).

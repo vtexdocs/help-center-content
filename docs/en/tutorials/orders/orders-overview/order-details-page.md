@@ -90,7 +90,7 @@ The package is the wrapping or box that contains the items of a delivery. Please
 
 In the top left corner, the following actions are available:
 
-* **Change:** you can change the items in an order. Please note that [changing items](/en/tutorial/como-alterar-itens-do-pedido--7jekq618QxgbsOxKkXBjE8) is different from [replacing orders](/en/docs/tutorials/order-replacement). When replacing an order, the customer requests changes to the order, and when changing items, the store modifies the order.
+* **Change:** you can change the items in an order. Please note that [changing items](/en/docs/tutorials/changing-items-from-a-complete-order) is different from [replacing orders](/en/docs/tutorials/order-replacement). When replacing an order, the customer requests changes to the order, and when changing items, the store modifies the order.
 * **Invoice:** you can generate the order invoice. Learn more about sending invoices in the article [How invoice an order](/en/docs/tutorials/how-to-manually-invoice-an-order).
 
 ###  Invoices
@@ -172,6 +172,6 @@ On the right side of the page, you can view the financial details of the order. 
 
 ## Learn more
 
-* [How to change items in an order](/en/tutorial/como-alterar-itens-do-pedido--7jekq618QxgbsOxKkXBjE8)  
+* [How to change items in an order](/en/docs/tutorials/changing-items-from-a-complete-order)  
 * [How to return items from an order](/en/docs/tutorials/how-to-return-order-items)  
 * [How to invoice an order](/en/docs/tutorials/how-to-manually-invoice-an-order)  

@@ -31,7 +31,7 @@ When requesting VTEX Shield, you can choose from the following features:
 
 ## Security Monitor
 
-Security Monitor is a VTEX Admin dashboard that detects security threats related to the behavior of admin users and incorrect settings. Potential risks include outdated or compromised [application keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet), users or credentials with excessive permissions, and inactive users. The tool provides an overview of threats and solutions, along with the option to send email notifications to merchants for each finding.
+Security Monitor is a VTEX Admin dashboard that detects security threats related to the behavior of admin users and incorrect settings. Potential risks include outdated or compromised [application keys](/en/docs/tutorials/api-keys), users or credentials with excessive permissions, and inactive users. The tool provides an overview of threats and solutions, along with the option to send email notifications to merchants for each finding.
 
 Security Monitor is available in the VTEX Admin only for stores using VTEX Shield. For more information, check out the [Security Monitor](/en/docs/tutorials/security-monitor) guide.
 

@@ -23,7 +23,7 @@ The order flow has a [cancellation window](/en/docs/tutorials/order-flow-and-sta
 
 For developer’s content, see [Order canceling improvements](https://developers.vtex.com/docs/guides/order-canceling-improvements).
 
-> ℹ️ In this article, the terms marketplace and seller refer to [VTEX marketplace](/en/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-marketplace) and [VTEX seller](/en/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-marketplace). The decline cancellation request feature is not available for external sellers and marketplaces.
+> ℹ️ In this article, the terms marketplace and seller refer to [VTEX marketplace](/en/docs/tutorials/marketplace-strategies-at-vtex#being-a-vtex-marketplace) and [VTEX seller](/en/docs/tutorials/marketplace-strategies-at-vtex#being-a-vtex-marketplace). The decline cancellation request feature is not available for external sellers and marketplaces.
 
 > ⚠️ Orders with [partial invoices](/en/docs/tracks/partial-invoices) cannot be [canceled](/en/docs/tutorials/canceling-orders). If the customer wants to replace or remove items from the order, it is possible to [change the order](/en/docs/tutorials/changing-items-from-a-complete-order).
 

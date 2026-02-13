@@ -146,7 +146,7 @@ However, there are limitations for stores using [3DS](/en/docs/tutorials/what-is
 
 ## Subscriptions
 
-In this section, customers can manage all their subscriptions, as well as modify their subscription data. Read the article [How subscriptions work](/en/tutorial/how-subscriptions-work--frequentlyAskedQuestions_4453#how-your-customers-view-and-manage-their-subscriptions) to learn more.
+In this section, customers can manage all their subscriptions, as well as modify their subscription data. Read the article [How subscriptions work](/en/docs/tutorials/how-subscriptions-work#how-your-customers-view-and-manage-their-subscriptions) to learn more.
 
 ## Authentication
 

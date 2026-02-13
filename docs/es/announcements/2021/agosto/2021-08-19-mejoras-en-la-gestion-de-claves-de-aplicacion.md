@@ -23,7 +23,7 @@ Las claves de aplicación (también conocidas como _app keys_) son el tipo más 
 
 ### Nueva interfaz de usuário para gestión de Claves de Aplicación
 
-Anteriormente, la gestión de las  [Claves de Aplicación](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet) requería la navegación por múltiples pantallas. Ahora puede generar, agregar/eliminar, habilitar/deshabilitar, exportar y editar permisos para sus pares app key y token en un solo lugar.
+Anteriormente, la gestión de las  [Claves de Aplicación](/es/docs/tutorials/claves-de-api) requería la navegación por múltiples pantallas. Ahora puede generar, agregar/eliminar, habilitar/deshabilitar, exportar y editar permisos para sus pares app key y token en un solo lugar.
 
 ### La autorización para crear claves de aplicación ahora se basan en recursos
 
@@ -35,4 +35,4 @@ Al simplificar la administración de credenciales de autenticación, ayudamos a 
 
 ## ¿Qué se necesita hacer?
 
-Consulte el artículo [Claves de aplicación](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet) para obtener más informaciónes.
+Consulte el artículo [Claves de aplicación](/es/docs/tutorials/claves-de-api) para obtener más informaciónes.

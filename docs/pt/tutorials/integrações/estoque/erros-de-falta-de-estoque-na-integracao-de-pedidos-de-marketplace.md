@@ -23,7 +23,7 @@ Erros de falta de estoque podem ocorrer por diferentes motivos, os mais comuns s
 
 - **Indisponibilidade de estoque:** um ou mais SKUs do pedido estão indisponíveis, é necessário [atualizar a quantidade de SKUs em estoque](/pt/docs/tutorials/atualizacao-da-quantidade-de-itens-em-estoque).
 - **SKU inativo:** o SKU não está ativo, e somente SKUs ativos são integrados. Verifique o _status_ do item no seu Admin, em _Catálogo > Produtos e SKUs._
-- **Estoque negativo:** é possível que o [estoque esteja negativo](/pt/tutorial/atualizar-quantidade-de-skus-em-estoque--IKMWjOjMcMqKusSGko8c0#por-que-meu-estoque-esta-negativo). Isso ocorre quando existem mais itens reservados do que a quantidade total disponível em estoque.
+- **Estoque negativo:** é possível que o [estoque esteja negativo](/pt/docs/tutorials/atualizacao-da-quantidade-de-itens-em-estoque#por-que-meu-estoque-esta-negativo). Isso ocorre quando existem mais itens reservados do que a quantidade total disponível em estoque.
 - **Item não consta na coleção ou política comercial**: verifique se o SKU está marcado corretamente na coleção ou política comercial definidos para o marketplace. Saiba mais em [Associação de SKU à Política Comercial](/pt/docs/tutorials/associacao-de-sku-a-politica-comercial).
 
 Após solucionar o erro, o pedido deve ser reprocessado manualmente. No seu Admin, no módulo **MARKETPLACE > Conexões > Pedidos**, clique sobre o pedido com erro. Feito isso, o botão **Ações** se torna visível, clique sobre ele e escolha a opção **Reprocessar**.

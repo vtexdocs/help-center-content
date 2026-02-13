@@ -96,11 +96,11 @@ After the order is placed, the price entered manually must be approved by the st
 
 Users with the Call Center operator role can view, track, and change orders in the VTEX Admin, under **Orders > All Orders**.
 
-Learn more in our tutorial [Orders management page structure](/en/tutorial/estrutura-da-pagina-do-oms--2dDZmUUFXWeyQ4s2gqiY0A#todos-os-pedidos).
+Learn more in our tutorial [Orders management page structure](/en/docs/tutorials/all-orders#todos-os-pedidos).
 
 To understand the main features of the **All Orders** module, check out these articles:
 
 - [Changing items from a completed order](/en/docs/tutorials/changing-items-from-a-complete-order).
 - [How to cancel orders](/en/docs/tutorials/canceling-orders).
-- [How to return items from an order](/en/tutorial/como-fazer-a-devolucao-de-itens--tutorials_191).
+- [How to return items from an order](/en/docs/tutorials/how-to-return-order-items).
 - [Checking error details in the orders](/en/docs/tutorials/how-to-check-error-details-in-the-orders).

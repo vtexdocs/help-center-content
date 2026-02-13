@@ -169,7 +169,7 @@ With [acquirer](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG#adquirente) servic
 
 **VTEX Sales App** supports the following payment connectors:
 
-* [Adyen](/en/tutorial/configurar-pagamento-com-adyenv3--7xAz67E2Eg63LWCQNjVdwv) (doesn't support [payout split](/en/docs/tutorials/split-payment))
+* [Adyen](https://developers.vtex.com/docs/apps/adyen.payment-provider-v3) (doesn't support [payout split](/en/docs/tutorials/split-payment))
 * [Mercado Pago](/en/docs/tutorials/configuring-payment-with-mercado-pago-in-vtex-sales-app) (accepts an exclusive contract for **VTEX Sales App** and doesn't support payout split)
 * [Cielo](/en/docs/tutorials/configuring-payment-with-cielo-in-vtex-sales-app) (accepts an exclusive contract for **VTEX Sales App** and doesn't support payout split)
 * PagarMe (accepts payout split)

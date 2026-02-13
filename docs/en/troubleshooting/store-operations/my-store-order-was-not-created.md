@@ -44,7 +44,7 @@ There are two ways to manage your [inventory](/en/docs/tutorials/managing-stock-
 
 The following solutions focus on inventory management via VTEX Admin:
 
-* **Update inventory count:** In the line that corresponds to the desired SKU and warehouse, on the _Update Count_ column, type the number of items available for sales, and click `Save`. This number cannot be negative, otherwise you will have a [negative inventory](/en/faq/why-is-my-stock-negative--frequentlyAskedQuestions_159).
+* **Update inventory count:** In the line that corresponds to the desired SKU and warehouse, on the _Update Count_ column, type the number of items available for sales, and click `Save`. This number cannot be negative, otherwise you will have a [negative inventory](/en/troubleshooting/my-inventory-is-negative).
 * **Configure unlimited inventory:** In the line that corresponds to the desired SKU and warehouse, on the _Unlimited inventory_ column, turn on the switch, and click `Save`. When this configuration is activated, the item is considered always available for sales and the store never runs _out-of-stock_ for it.
 
 > ℹ️ To configure *out-of-stock* products to be displayed in your storefront, in your VTEX Admin access **Catalog > All Products**, and in the product configuration page, in the **Product** tab, select the checkbox **Yes** for *Show when out of stock*.

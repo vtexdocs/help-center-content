@@ -21,7 +21,7 @@ O próximo passo é criar contas para os clientes que você deseja oferecer cré
 - [Múltiplas contas em massa (Admin VTEX)](#criar-multiplas-contas-importacao-em-massa)
 - [Conta individual (Customer Credit API)](#criar-conta-via-api)
 
-> ℹ️ As contas criadas na app do Customer Credit não tem relação ou compartilham dados com a base de clientes cadastrada nas [entidades do Master Data](/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#entidades-de-dados) da loja. Para que um cliente possa utilizar o Customer Credit como meio de pagamento, a sua conta deve ser cadastrada pelo lojista na app mesmo que o cliente já possua uma conta na loja.
+> ℹ️ As contas criadas na app do Customer Credit não tem relação ou compartilham dados com a base de clientes cadastrada nas [entidades do Master Data](/pt/docs/tutorials/master-data#entidades-de-dados) da loja. Para que um cliente possa utilizar o Customer Credit como meio de pagamento, a sua conta deve ser cadastrada pelo lojista na app mesmo que o cliente já possua uma conta na loja.
 
 ## Criar contas individualmente
 

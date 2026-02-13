@@ -19,7 +19,7 @@ A página de **Conta** permite que você visualize e gerencie detalhes da sua co
 
 ![Admin v4 account settings menu PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/contas/gerenciamento-da-conta_1.jpg)
 
-> ⚠️ Esta tela não tem detalhes de chaves de aplicação. Saiba onde encontrar e gerenciar estas informações no artigo [Chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet).
+> ⚠️ Esta tela não tem detalhes de chaves de aplicação. Saiba onde encontrar e gerenciar estas informações no artigo [Chaves de aplicação](/pt/docs/tutorials/chaves-de-api).
 
 As funções da página de **Conta** dividem-se em duas abas: [Geral](#geral) e [Lojas](#lojas). Confira abaixo mais informações sobre cada uma delas.
 

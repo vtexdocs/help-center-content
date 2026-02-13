@@ -52,7 +52,7 @@ administrator, moderator, and collaborator permissions can create flows.
 
 To send message templates, they must already be registered and approved by
 WhatsApp. See [this
-article](https://help.vtex.com/docs/tutorials/whatsapp-how-to-create-template-messages)
+article](/en/docs/tutorials/whatsapp-how-to-create-template-messages)
 if you have any questions.
 
 Access your project, then go to the **Flows** module:

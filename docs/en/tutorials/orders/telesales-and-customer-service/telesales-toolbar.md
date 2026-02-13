@@ -41,7 +41,7 @@ To browse the store on behalf of a registered customer, the operator needs to fo
 
 The customer's name will appear on the right side of the toolbar.
 
-After logging in as a customer, any action by the telesales operator in the store will be done on the customer's account. The operator can [access the My Account page](/en/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#orders) and make purchases on behalf of the customer.
+After logging in as a customer, any action by the telesales operator in the store will be done on the customer's account. The operator can [access the My Account page](/en/docs/tutorials/how-my-account-works#orders) and make purchases on behalf of the customer.
 
 ## Customer information
 
@@ -50,14 +50,14 @@ By clicking on the customer's name, the operator will view the following informa
 *   **Email**: the email address the customer uses to access the store.
 *   **ID:** the customer's ID number.
 *   **Phone**: the phone number added by the customer.
-*   **Orders**: button to go to the [Orders page](/en/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#pedidos), where you can manage the orders placed by the customer.
+*   **Orders**: button to go to the [Orders page](/en/docs/tutorials/how-my-account-works#pedidos), where you can manage the orders placed by the customer.
 *   **Logout**: button to end the customer's session.
 
 ## Related articles
 
-* [Predefined roles - Call center operator](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#call-center-operator)
+* [Predefined roles - Call center operator](/en/docs/tutorials/predefined-roles#call-center-operator)
 * [Creating a call center user](/en/docs/tutorials/how-can-i-create-callcenter-user)
 * [Customizing the telesales toolbar](/en/docs/tutorials/customizar-a-toolbar-de-televendas)
-* [My orders](/en/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#pedidos)
+* [My orders](/en/docs/tutorials/how-my-account-works#pedidos)
 * [How to use telesales features](/en/docs/tutorials/telesales-features)
 * [How to configure telesales features](/en/docs/tutorials/configuring-telesales-features)

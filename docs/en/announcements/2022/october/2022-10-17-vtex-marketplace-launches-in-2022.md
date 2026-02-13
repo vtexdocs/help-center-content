@@ -128,7 +128,7 @@ To facilitate new sellers joining the Seller Portal, we have also launched the [
 
 ![Seller management gif 2022 launch](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022/october/2022-10-17-vtex-marketplace-launches-in-2022_3.gif)
 
-We launched the redesigned experience of the [Seller Management](/en/docs/tutorials/seller-management) page, where marketplace operators can [add sellers](/en/tutorial/adicionar-seller-beta--6q4G4RNqVENr5YMJyindwL) and their respective information and manage their status. 
+We launched the redesigned experience of the [Seller Management](/en/docs/tutorials/seller-management) page, where marketplace operators can [add sellers](/en/docs/tutorials/adding-a-seller) and their respective information and manage their status. 
 
 The page includes:
 

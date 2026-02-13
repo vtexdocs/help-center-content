@@ -117,13 +117,13 @@
                 {
                   "name": {
                     "en": "Granular permissions for Seller Register and Marketplace Network",
-                    "es": "Permisos granulares para Seller Register y Marketplace Network",
-                    "pt": "Permissões granulares para Seller Register e Marketplace Network"
+                    "es": "Granular permissions for Seller Register and Marketplace Network",
+                    "pt": "Granular permissions for Seller Register and Marketplace Network"
                   },
                   "slug": {
                     "en": "2025-12-23-granular-permissions-seller-marketplace-network",
-                    "es": "2025-12-23-permisos-granulares-seller-marketplace-network",
-                    "pt": "2025-12-23-permissoes-granulares-seller-marketplace-network"
+                    "es": "",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -169,6 +169,37 @@
                     "en": "2025-12-02-breaking-change-livelo-new-mandatory-permission",
                     "es": "2025-12-02-breaking-change-livelo-nuevo-permiso-obligatorio",
                     "pt": "2025-12-02-breaking-change-livelo-nova-permissao-obrigatoria"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Diciembre",
+                "es": "Diciembre",
+                "pt": "Dezembro"
+              },
+              "slug": {
+                "en": "diciembre",
+                "es": "2025-diciembre",
+                "pt": "2025-dezembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "Permisos granulares para Seller Register y Marketplace Network",
+                    "pt": "Permissões granulares para Seller Register e Marketplace Network",
+                    "en": "Permisos granulares para Seller Register y Marketplace Network"
+                  },
+                  "slug": {
+                    "es": "2025-12-23-permisos-granulares-seller-marketplace-network",
+                    "pt": "2025-12-23-permissoes-granulares-seller-marketplace-network",
+                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -16991,14 +17022,14 @@
               "children": [
                 {
                   "name": {
-                    "pt": "Adicionar ou editar Buying Policies",
-                    "en": "Adicionar ou editar Buying Policies",
-                    "es": "Adicionar ou editar Buying Policies"
+                    "en": "B2B Contracts",
+                    "es": "Contratos B2B",
+                    "pt": "Contratos B2B"
                   },
                   "slug": {
-                    "pt": "adicionar-ou-editar-buying-policies",
-                    "en": "",
-                    "es": ""
+                    "en": "b2b-contracts",
+                    "es": "contratos-b2b",
+                    "pt": "contratos-b2b"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17014,6 +17045,21 @@
                     "en": "budgets-overview",
                     "es": "budgets-informacion-general",
                     "pt": "visao-geral-de-budgets"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Buyer organization members",
+                    "es": "Miembros de la organización compradora",
+                    "pt": "Membros da organização compradora"
+                  },
+                  "slug": {
+                    "en": "buyer-organization-members",
+                    "es": "miembros-de-la-organizacion-compradora",
+                    "pt": "membros-da-organizacao-compradora"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -58944,12 +58990,12 @@
             {
               "name": {
                 "en": "Affiliation created in subaccount not listed in Admin; ‘Affiliation name is already used’ on retry",
-                "es": "Afiliación creada en subcuenta no listada en Admin",
+                "es": "Afiliación creada en una subcuenta que no aparece en Admin; «El nombre de la afiliación ya está en uso» al volver a intentarlo.",
                 "pt": "Afiliação criada na subconta não listada no Admin"
               },
               "slug": {
                 "en": "affiliation-created-in-subaccount-not-listed-in-admin-affiliation-name-is-already-used-on-retry",
-                "es": "afiliacion-creada-en-subcuenta-no-listada-en-admin",
+                "es": "afiliacion-creada-en-una-subcuenta-que-no-aparece-en-admin-el-nombre-de-la-afiliacion-ya-esta-en-uso-al-volver-a-intentarlo",
                 "pt": "afiliacao-criada-na-subconta-nao-listada-no-admin"
               },
               "origin": "",
@@ -62079,12 +62125,12 @@
             {
               "name": {
                 "en": "Transactions stuck in \"Canceling\" and payments remain in \"Authorized\"",
-                "es": "Las transacciones se atascan en \"Cancelando\" y los pagos permanecen en \"Autorizado\".",
+                "es": "Las transacciones se quedan atascadas en «Cancelando» y los pagos permanecen en «Autorizado».",
                 "pt": "As transações ficam presas em \"Cancelando\" e os pagamentos permanecem em \"Autorizados\""
               },
               "slug": {
                 "en": "transactions-stuck-in-canceling-and-payments-remain-in-authorized",
-                "es": "las-transacciones-se-atascan-en-cancelando-y-los-pagos-permanecen-en-autorizado",
+                "es": "las-transacciones-se-quedan-atascadas-en-cancelando-y-los-pagos-permanecen-en-autorizado",
                 "pt": "as-transacoes-ficam-presas-em-cancelando-e-os-pagamentos-permanecem-em-autorizados"
               },
               "origin": "",

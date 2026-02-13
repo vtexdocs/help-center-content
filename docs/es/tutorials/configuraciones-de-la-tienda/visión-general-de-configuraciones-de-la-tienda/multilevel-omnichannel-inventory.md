@@ -28,7 +28,7 @@ Este artículo incluye la siguiente información sobre la funcionalidad:
 
 ## Arquitectura de cuentas
 
-El [marketplace](/es/docs/tutorials/estrategias-de-marketplace-en-vtex) es el entorno donde se vende el producto, también llamado vitrina, y el [seller](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#selling-on-marketplaces) es el propietario del envío del producto.
+El [marketplace](/es/docs/tutorials/estrategias-de-marketplace-en-vtex) es el entorno donde se vende el producto, también llamado vitrina, y el [seller](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#selling-on-marketplaces) es el propietario del envío del producto.
 
 Cuando una tienda vende sus productos en un _marketplace_, tenemos una relación de dos niveles. Sin embargo, la arquitectura de VTEX permite que las tiendas actúen tanto como _marketplaces_ como _sellers_, ampliando el número de combinaciones posibles.
 
@@ -67,13 +67,13 @@ Algunas de las funcionalidades que forman parte del modelo tradicional de _marke
 
 ### Disponibilidad
 
-La funcionalidad Multilevel Omnichannel Inventory está disponible únicamente para [marketplaces VTEX](/es/tutorial/marketplace-strategies-at-vtex--tutorials_402#ser-un-marketplace-vtex). Para utilizar la funcionalidad, el marketplace (nivel 1) debe realizar la configuración para cada seller directo (nivel 2) deseado. Puedes hacerlo al registrar nuevos sellers o al editar la configuración de sellers existentes en tu tienda. Consulta más información accediendo a [Configurar](#configuracion) y al [Developer portal](https://developers.vtex.com/vtex-rest-api/docs/multilevel-omnichannel-inventory).
+La funcionalidad Multilevel Omnichannel Inventory está disponible únicamente para [marketplaces VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex#ser-un-marketplace-vtex). Para utilizar la funcionalidad, el marketplace (nivel 1) debe realizar la configuración para cada seller directo (nivel 2) deseado. Puedes hacerlo al registrar nuevos sellers o al editar la configuración de sellers existentes en tu tienda. Consulta más información accediendo a [Configurar](#configuracion) y al [Developer portal](https://developers.vtex.com/vtex-rest-api/docs/multilevel-omnichannel-inventory).
 
 ### Distribución de cuentas por cobrar
 
 No es posible distribuir las cuentas por cobrar en toda la cadena (_marketplace, seller directo y sellers white label_). Los pagos de los pedidos de _Multilevel Omnichannel Inventory_ solo pueden realizarse en el _marketplace._ La conciliación y la transferencia de valores a los _sellers_ de nivel 3 deben realizarse fuera de VTEX, ya que no hay soporte nativo para esta etapa.
 
-Puedes utilizar la solución de [split de pagos](/es/tracks/split-de-pagamentos--1ouDg8q56Kuz1AgtJUY9nv/4EOhp8cdVXaHl68KykPG6) solo para dividir las cuentas por cobrar entre los niveles _marketplace_ y _seller directo_ (nivel 2). En este caso, se recomienda utilizar el [split de cobros](/es/tutorial/split-payment#split-de-recebiveis).
+Puedes utilizar la solución de [split de pagos](/es/docs/tutorials/split-de-pagos) solo para dividir las cuentas por cobrar entre los niveles _marketplace_ y _seller directo_ (nivel 2). En este caso, se recomienda utilizar el [split de cobros](/es/tutorial/split-payment#split-de-recebiveis).
 
 En estos casos, el _seller_ directo se convierte en receptor de los ítems de sus _sellers white label_ y de sus propios ítems, eliminando las comisiones establecidas en la relación con el _marketplace_.
 

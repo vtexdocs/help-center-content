@@ -17,12 +17,12 @@ announcementSynopsisEN: 'As of October 15, 2023, it will no longer be possible t
 
 **Insights** is a dashboard that allows you to monitor your sales with a detailed view of the conversion funnel and the main metrics that impact your store's revenue.
 
-Currently, the [Insights dashboard](/en/tutorial/acompanhando-a-evolucao-das-suas-vendas--5QtyTR0jFy9gDnr4EYCjdq) is only available at:
+Currently, the [Insights dashboard](/en/docs/tutorials/store-overview-beta) is only available at:
 ```
 https://{accountname}.myvtex.com/admin/insights
 ```
 
-As of October 15, 2023, it will no longer be possible to access the [Insights dashboard](/en/tutorial/acompanhando-a-evolucao-das-suas-vendas--5QtyTR0jFy9gDnr4EYCjdq), which will be discontinued.
+As of October 15, 2023, it will no longer be possible to access the [Insights dashboard](/en/docs/tutorials/store-overview-beta), which will be discontinued.
 
 ## Why we are making this change?
 

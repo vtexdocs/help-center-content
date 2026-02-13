@@ -134,7 +134,7 @@ To process payments for orders in a VTEX store, the payment infrastructure respo
 If inconsistencies or errors are detected during the order payment transaction, the merchant must:
 
 1. Contact who is handling the transaction (payment and anti-fraud providers).
-2. If the issue remains unresolved, contact [VTEX Support](/en/faq/how-does-vtex-support-work--3kACEfni4m8Yxa1vnf2ebe) providing details of the incident.
+2. If the issue remains unresolved, contact [VTEX Support](/en/docs/tutorials/how-does-vtex-support-work) providing details of the incident.
 
 ## Implementation agencies
 
@@ -152,7 +152,7 @@ Issues related to how the content is being displayed to the end user should alwa
 * Call-to-action buttons (e.g., Buy, Notify Me, Add to Cart) with unexpected behavior.
 * Product prices or shipping rates inconsistent with the information stored on the platform.
 
-If the agency identifies that the problem is with VTEX controls, apps, or native components, contact [VTEX Support](/en/faq/how-does-vtex-support-work--3kACEfni4m8Yxa1vnf2ebe) including all evidence from the agency's investigation.
+If the agency identifies that the problem is with VTEX controls, apps, or native components, contact [VTEX Support](/en/docs/tutorials/how-does-vtex-support-work) including all evidence from the agency's investigation.
 
 ## External marketplace integrations
 
@@ -186,7 +186,7 @@ See below the responsibilities involved in updating or creating orders based on 
    * If the order is being handled or invoiced, for example, the **ERP** notifies VTEX.
    * If the order was canceled in the marketplace, it is the **connector**'s responsibility to update the status.
 
-For more information on who is responsible for each step of the order flow in an external marketplace scenario, see [Order flow and status - Seller flow](/en/tutorial/order-flow-and-status--tutorials_196#seller-flow).
+For more information on who is responsible for each step of the order flow in an external marketplace scenario, see [Order flow and status - Seller flow](/en/docs/tutorials/order-flow-and-status#seller-flow).
 
 To understand the right support to request in case of issues with updating the order status, follow the steps below:
 
@@ -196,4 +196,4 @@ To understand the right support to request in case of issues with updating the o
 
 ![view-interactions-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/support/operational/responsibilities-in-the-vtex-ecosystem_2.png)
 
-If the error message does not provide sufficient information, the merchant can contact [VTEX Support](/en/faq/how-does-vtex-support-work--3kACEfni4m8Yxa1vnf2ebe), providing the interaction screen and order ID as evidence, and our team of experts will help identify the source of the issue.
+If the error message does not provide sufficient information, the merchant can contact [VTEX Support](/en/docs/tutorials/how-does-vtex-support-work), providing the interaction screen and order ID as evidence, and our team of experts will help identify the source of the issue.

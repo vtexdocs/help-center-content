@@ -44,7 +44,7 @@ Há duas formas de gerenciar seu inventário:
 
 As soluções abaixo são voltadas para o gerenciamento de inventário via Admin VTEX:
 
-* **Atualizar a contagem do inventário:** na linha correspondente ao SKU e estoque desejados, digite o número de itens disponíveis para venda na coluna Atualizar contagem e clique em `Salvar`. Este número não pode ser negativo, caso contrário o [estoque será negativo](/pt/faq/why-is-my-stock-negative--frequentlyAskedQuestions_159).
+* **Atualizar a contagem do inventário:** na linha correspondente ao SKU e estoque desejados, digite o número de itens disponíveis para venda na coluna Atualizar contagem e clique em `Salvar`. Este número não pode ser negativo, caso contrário o [estoque será negativo](/pt/troubleshooting/meu-estoque-esta-negativo).
 * **Configurar o estoque infinito:** na linha correspondente ao SKU e estoque desejados, na coluna Estoque infinito, clique no botão de ativação e depois em `Salvar`. Quando essa configuração é ativada, o item passa a ser considerado sempre disponível para vendas e a loja nunca fica sem estoque dele.
 
 > ℹ️ Para configurar os produtos sem estoque a serem exibidos no seu storefront, acesse **Catálogo > Todos os produtos** no Admin VTEX e, na página de configuração do produto, na aba **Produto**, marque a opção **Sim** no campo *Mostrar produto esgotado*.

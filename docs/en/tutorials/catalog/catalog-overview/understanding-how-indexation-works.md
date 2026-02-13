@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6jaCCq5pVL7VxL0WNWV0cF
 ---
 
-> ⚠️ This tutorial is valid only for stores using [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal) search. If your store uses [Intelligent Search](/en/docs/tracks/overview-intelligent-search), check [Indexing History ](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH) to follow the indexing process.
+> ⚠️ This tutorial is valid only for stores using [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal) search. If your store uses [Intelligent Search](/en/docs/tracks/overview-intelligent-search), check [Indexing History ](/en/docs/tutorials/indexing-history) to follow the indexing process.
 
 Indexing is a process that prepares the general SKU data, such as catalogue data, prices and inventory, and updates the information to serve as a basis for searches and for setting up the site's product display shelves.
 

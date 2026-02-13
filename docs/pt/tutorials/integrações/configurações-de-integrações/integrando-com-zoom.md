@@ -39,7 +39,7 @@ Para integrar com o Zoom, é necessário realizar as seguintes etapas:
 
 Uma account VTEX utiliza [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) para facilitar o gerenciamento de acesso e permissões de usuários em uma conta. Um perfil de acesso é um conjunto de recursos definidos para atender determinado tipo de usuário.
 
-Para a integração com o Zoom, é necessário [criar um perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso). Para realizar essa configuração, siga os passos abaixo:
+Para a integração com o Zoom, é necessário [criar um perfil de acesso](/pt/docs/tutorials/perfis-de-acesso#criando-um-perfil-de-acesso). Para realizar essa configuração, siga os passos abaixo:
 
 1. No avatar do seu perfil acesse _CONFIGURAÇÕES DA CONTA_, clique em `Gerenciamento da Conta`.
 3. Clique em `Perfis de acesso`.
@@ -63,7 +63,7 @@ Ao [criar uma política comercial](/pt/docs/tutorials/criar-uma-politica-comerci
 
 Só será necessário ter uma política comercial diferente daquela utilizada na sua loja VTEX se você quiser oferecer uma seleção diferente de produtos ou enviar preços diferentes para o Zoom. Para [contratar políticas comerciais adicionais](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional), basta solicitar via ticket em nosso [Suporte](https://supporticket.vtex.com/support) selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
 
-A contratação de política comercial adicional para integrar com [conector nativo](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), [conector certificado (parceiro)](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro) ou outras lojas VTEX é isenta de taxas.
+A contratação de política comercial adicional para integrar com [conector nativo](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-nativo-vtex), [conector certificado (parceiro)](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-certificado-parceiro) ou outras lojas VTEX é isenta de taxas.
 
 > ❗ Caso seja feita alguma alteração na sua política comercial, o Zoom deverá ser avisado. Você pode entrar em contato pelo email <i/>integracao@zoom.com.br</i>.
 

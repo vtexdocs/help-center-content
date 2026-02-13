@@ -104,4 +104,4 @@ Las aplicaciones que componen B2B Suite se desarrollaron para impulsar las opera
 - **B2B Orders History:** permite a los usuarios B2B ver todos los pedidos anteriores realizados por su organización o centro de costos.
 - **B2B Admin Customers:** proporciona funciones adicionales de gestión de información de clientes en el Admin VTEX, permitiendo a los administradores de la tienda crear, editar y buscar clientes.
 
-Para más información sobre las aplicaciones, accede a [Conjunto de aplicaciones B2B Suite](/es/tutorial/b2b-suite-overview--5eG6UfveWrai7looK0kVG3#conjunto-de-aplicaciones-b2b-suite).
+Para más información sobre las aplicaciones, accede a [Conjunto de aplicaciones B2B Suite](/es/docs/tutorials/b2b-suite-vision-general#conjunto-de-aplicaciones-b2b-suite).

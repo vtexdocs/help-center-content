@@ -18,11 +18,11 @@ order: 1
 
 The products sent by a seller to the marketplace go through the [Received SKUs](/en/docs/tutorials/manual-sku-cataloging) module. After the seller's SKUs have been approved, they are entered in the marketplace's catalogue and shown in the Admin under **Marketplace > SKU Bindings**. To know more, see the article [SKU Bindings](/en/docs/tutorials/sku-bindings).
 
-If you [unbinde a seller's SKU](/en/tutorial/vinculos-de-sku--1SmrVgNwjJX17hdqwLa0TX#unbinding-a-sku), it will no longer be shown as available in the marketplace. The SKU will be unbinded from the catalogue and will no longer be updated in terms of seller’s price and stocks.
+If you [unbinde a seller's SKU](/en/docs/tutorials/sku-bindings#unbinding-a-sku), it will no longer be shown as available in the marketplace. The SKU will be unbinded from the catalogue and will no longer be updated in terms of seller’s price and stocks.
 
 > ℹ️ An unbinded SKU will not return to the queue for approval in **Received SKUs**, since it still exists in the marketplace's catalogue.
 
-If you want to delete a seller's SKU, you must [remove the seller's SKU](/en/tutorial/vinculos-de-sku--1SmrVgNwjJX17hdqwLa0TX#removing). When you remove an SKU, it is permanently deleted from the marketplace's catalogue. The removed SKU will only appear in the catalogue again if the seller resends it to **Received SKUs**.
+If you want to delete a seller's SKU, you must [remove the seller's SKU](/en/docs/tutorials/sku-bindings#removing). When you remove an SKU, it is permanently deleted from the marketplace's catalogue. The removed SKU will only appear in the catalogue again if the seller resends it to **Received SKUs**.
 
 For more information, see the article [SKU Bindings](/en/docs/tutorials/sku-bindings).
 

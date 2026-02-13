@@ -36,7 +36,7 @@ You can invite sellers by sending them a link by email with all the necessary in
 1. In the _Marketplace_ section, access the **Seller Invite** page.     
 3. Click on `Invite seller`.    
 4. Fill in the seller’s **General data**:
-    - **Seller name:** name of the seller's sales rep, who will orchestrate the connection on the seller’s side. This person must have an [OMS user role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access).     
+    - **Seller name:** name of the seller's sales rep, who will orchestrate the connection on the seller’s side. This person must have an [OMS user role](/en/docs/tutorials/roles#oms-full-access).     
     - **Email:** email of the seller's sales rep, who will receive the invitation for creating the account or connecting an existing one.  
 5. Select the type of seller — `Common` or `White label`.    
 6. Toggle the **Share marketplace catalog** option if you want the seller to import your products and category tree.     

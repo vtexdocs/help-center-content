@@ -91,7 +91,7 @@ Para aprobar el acceso de los clientes a la tienda, es necesario que apruebe cad
 
 ### Configuración del catálogo de productos
 
-La exhibición de los productos de la tienda para determinados grupos de usuarios se debe definir a través de la configuración de las políticas comerciales de su tienda —usted puede [crear una nueva política comercial](/es/faq/como-contratar-nova-politica-comercial--frequentlyAskedQuestions_700) específicamente para este fin o configurar una política existente—, ya que la política comercial posee su propio catálogo y especificaciones de precios y logística.
+La exhibición de los productos de la tienda para determinados grupos de usuarios se debe definir a través de la configuración de las políticas comerciales de su tienda —usted puede [crear una nueva política comercial](/es/docs/tutorials/crear-una-politica-comercial) específicamente para este fin o configurar una política existente—, ya que la política comercial posee su propio catálogo y especificaciones de precios y logística.
 
 En esta configuración, debe seleccionar los productos que se asociarán a la política comercial destinada al contexto B2B. En VTEX, puede asociar SKUs de forma individual por medio del Admin o en masa a través de la [API de Catálogo](https://developers.vtex.com/vtex-developer-docs/reference/catalog-api-overview).
 

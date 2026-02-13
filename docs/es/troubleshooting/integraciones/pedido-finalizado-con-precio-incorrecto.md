@@ -28,7 +28,7 @@ Hay tres posibles causas por las que se finaliza un pedido con precio incorrecto
 - [Envío calculado en el marketplace](#envio-calculado-en-el-marketplace)
 - [Precio del SKU modificado antes de la integración del pedido](#precio-del-SKU-modificado-antes-de-la-integracion-del-pedido)
 
-> ℹ️ Consulta otros errores de integración de pedidos de marketplace en [¿Por qué los pedidos del marketplace no se integran con mi tienda?](/es/tutorial/porque-os-pedidos-do-marketplace-nao-integram-com-minha-loja--275YvF8dyry5KmfY9epoET).
+> ℹ️ Consulta otros errores de integración de pedidos de marketplace en [¿Por qué los pedidos del marketplace no se integran con mi tienda?](/es/troubleshooting/por-que-los-pedidos-del-marketplace-no-se-integran-con-mi-tienda).
 
 ## Precio del producto asumido por el marketplace
 

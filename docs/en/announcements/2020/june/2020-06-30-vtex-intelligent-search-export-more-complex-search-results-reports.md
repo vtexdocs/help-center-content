@@ -27,4 +27,4 @@ VTEX Intelligent Search is a free-of-charge functionality for stores that use VT
 
 If your store doesn't use VTEX IO, visit [our site to learn more about its benefits](https://vtex.com/br-pt/store-framework/).
 
-If you already use VTEX Intelligent Search, simply access the Reports module to use this funtionality. Should you have any questions, access [our article on Reports](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m).  
+If you already use VTEX Intelligent Search, simply access the Reports module to use this funtionality. Should you have any questions, access [our article on Reports](/en/docs/tutorials/analytics).  

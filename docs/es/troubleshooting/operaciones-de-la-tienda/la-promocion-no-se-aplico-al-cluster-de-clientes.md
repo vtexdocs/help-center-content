@@ -37,7 +37,7 @@ Para comprobar si un clúster de clientes está asociado a una promoción, sigue
 
 2. Haz clic en la promoción que deseas verificar.
 
-3. En la sección **“¿Cuáles son las condiciones para que la promoción sea válida?”**, verifica que la opción **Clúster de clientes** esté marcada y si el campo tiene el [valor correcto del clúster deseado](/es/tutorial/creando-promociones-cluster-clientes--tutorials_342#como-completar-el-campo-cluster-de-clientes).
+3. En la sección **“¿Cuáles son las condiciones para que la promoción sea válida?”**, verifica que la opción **Clúster de clientes** esté marcada y si el campo tiene el [valor correcto del clúster deseado](/es/docs/tutorials/creando-promociones-cluster-clientes#como-completar-el-campo-cluster-de-clientes).
 
 ![Cluster_es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/la-promocion-no-se-aplico-al-cluster-de-clientes_1.png)
 

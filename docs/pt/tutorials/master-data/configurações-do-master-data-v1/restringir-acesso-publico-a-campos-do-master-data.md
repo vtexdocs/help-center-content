@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: WpbGhubuRZaNZilJSXnqu
 ---
 
-No [Master Data v1](/pt/docs/tutorials/master-data), é possível [criar entidades de dados](/pt/tutorial/data-entity--tutorials_1265#criar-entidade-de-dados) com diferentes restrições de acesso para cada campo:
+No [Master Data v1](/pt/docs/tutorials/master-data), é possível [criar entidades de dados](/pt/docs/tutorials/entidade-de-dados#criar-entidade-de-dados) com diferentes restrições de acesso para cada campo:
 
 * Permitir a leitura sem credencial
 * Permitir editar sem credencial

@@ -31,4 +31,4 @@ Confira informações detalhadas sobre esse procedimento no guia [Testes de pene
 
 ## Por que fizemos essa mudança?
 
-Atualizamos o procedimento de testes de penetração para garantir a segurança da plataforma e a realização de verificações de forma segura, impedindo [procedimentos não permitidos](/pt/tutorial/testes-de-penetracao-e-aviso-de-vulnerabilidade--6jodF6s1I50Fg84ZwutOCb#procedimentos-nao-permitidos) e ações que possam prejudicar nossos clientes.
+Atualizamos o procedimento de testes de penetração para garantir a segurança da plataforma e a realização de verificações de forma segura, impedindo [procedimentos não permitidos](/pt/docs/tutorials/testes-de-penetracao#procedimentos-nao-permitidos) e ações que possam prejudicar nossos clientes.

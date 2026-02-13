@@ -41,7 +41,7 @@ After installing the VTEX Intelligent Search: Multilanguage, the page for creati
 
 ![img regrasmerch intelligentsearchmultilanguage EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/intelligent-search-beta/vtex-intelligent-search-multilanguage-settings-beta_1.png)
 
-To learn more about this field, read our article on [how to configure Merchandising rules in VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8).
+To learn more about this field, read our article on [how to configure Merchandising rules in VTEX Intelligent Search](/en/docs/tutorials/creating-merchandising-rules-manual-editor).
 
 ### Synonyms
 You can configure Synonyms for a multi-language store in the Admin by filling out a form or importing a .csv file.
@@ -53,11 +53,11 @@ After installing the VTEX Intelligent Search: Multilanguage, the page for creati
 
 ![img sinonimos intelligentsearchmultilanguage EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/intelligent-search-beta/vtex-intelligent-search-multilanguage-settings-beta_2.png)
 
-To learn more about this field, read our article on [how to configure Synonyms in VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL).
+To learn more about this field, read our article on [how to configure Synonyms in VTEX Intelligent Search](/en/docs/tutorials/creating-synonyms).
 
 #### Importing the Synonyms spreadsheet
 
-If you prefer to import Synonyms for specific languages via .csv file, you must create a .csv file in __Unidirectional__ or __Bidirectional__ format, according to the [desired effect for the synonym](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL), and insert the new field `<comma-separated locales>`:
+If you prefer to import Synonyms for specific languages via .csv file, you must create a .csv file in __Unidirectional__ or __Bidirectional__ format, according to the [desired effect for the synonym](/en/docs/tutorials/creating-synonyms), and insert the new field `<comma-separated locales>`:
 
 -	__Unidirectional__: `<comma-separated terms>;<comma-separated expanded terms>;<status>;<comma-separated locales>`
    -  For example: `smartphone;iPhone;true;en-GB`: when searching for smartphone in the English language store (`locale en-GB`), the website will return results for `iphone`. However, when searching for `iphone`, the website will not return results for `smartphone`.
@@ -67,7 +67,7 @@ If you prefer to import Synonyms for specific languages via .csv file, you must 
 
 > ⚠️ If the imported .csv file does not have the column `locale`, the synonym will be valid for all languages available in the store.
 
-To learn more about importing Synonyms spreadsheets, read our article on [how to configure Synonyms in VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL).
+To learn more about importing Synonyms spreadsheets, read our article on [how to configure Synonyms in VTEX Intelligent Search](/en/docs/tutorials/creating-synonyms).
 
 ### Redirects
 
@@ -75,7 +75,7 @@ After installing the VTEX Intelligent Search: Multilanguage, the page for creati
 
 ![img redirecionamentos intelligentsearchmultilanguage EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/intelligent-search-beta/vtex-intelligent-search-multilanguage-settings-beta_3.png)
 
-To learn more about this field, read our article on [how to configure Redirects in VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4Gd2wLQFbCwTsh8RUDwSoL).
+To learn more about this field, read our article on [how to configure Redirects in VTEX Intelligent Search](/en/docs/tutorials/configuring-redirects).
 
 ### Banners
 
@@ -83,4 +83,4 @@ After installing the VTEX Intelligent Search: Multilanguage, the page for creati
 
 ![img banner intelligentsearchmultilanguage EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/intelligent-search-beta/vtex-intelligent-search-multilanguage-settings-beta_4.png)
 
-To learn more about this field, read our article on [how to configure Banners in VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4ViKEivLJtJsvpaW0aqIQ5).
+To learn more about this field, read our article on [how to configure Banners in VTEX Intelligent Search](/en/docs/tutorials/configuring-banners).

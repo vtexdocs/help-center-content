@@ -53,7 +53,7 @@ Além disso, caso o envio seja rejeitado e você decida fazer uma apelação, se
 
 Para incluir um exemplo no envio, primeiro crie o seu modelo, adicionando as variáveis necessárias. Depois, clique no botão Adicionar exemplo. O painel de pré-visualização renderizará os exemplos de ativos de mídia ou valores de texto fornecidos.
 
-Caso aconteça reprovações de mensagens e queira resolver ou mudar as configurações de suas template messages, vá para [Whatsapp Template messages: Impedimentos e configurações](https://help.vtex.com/pt/docs/tutorials/whatsapp-template-messages-impedimentos-e-configuracoes) e saiba mais.
+Caso aconteça reprovações de mensagens e queira resolver ou mudar as configurações de suas template messages, vá para [Whatsapp Template messages: Impedimentos e configurações](/pt/docs/tutorials/whatsapp-template-messages-impedimentos-e-configuracoes) e saiba mais.
 
 #### **Saiba mais**
 

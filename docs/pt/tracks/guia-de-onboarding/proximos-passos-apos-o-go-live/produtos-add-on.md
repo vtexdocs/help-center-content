@@ -87,7 +87,7 @@ A contratação dessa solução pode ser realizada de maneira simples e em pouco
 - Sincronia de Tabelas de fretes entre os Correios e a VTEX. Cada informação atualizada pelos Correios é mostrada automaticamente no ambiente VTEX
 - Rastreios de entregas inseridos e atualizados de forma automática nos pedidos
 - Etiquetas de envio disponíveis para serem impressas direto no Admin VTEX (módulo [Pronto para Envio](/pt/docs/tutorials/pronto-para-envio)) ou via [API](https://developers.vtex.com/docs/guides/vtex-shipping-network-labels-integration), para integração com sistemas externos (ex. ERP, WMS)
-- Canal de comunicação direta com os Correios dentro do Admin por meio do [Pedido de informações](/pt/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq#solicitar-informacoes-do-pedido-aos-correios)
+- Canal de comunicação direta com os Correios dentro do Admin por meio do [Pedido de informações](/pt/docs/tutorials/entregas-correios-vtex-shipping-network#solicitar-informacoes-do-pedido-aos-correios)
 
 Para mais informações, é preciso acessar a página sobre [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/#).
 
@@ -97,6 +97,6 @@ O [VTEX Shield](/pt/docs/tutorials/vtex-shield) oferece camadas adicionais e per
 
 Ao contratar o VTEX Shield, é possível optar pelas funcionalidades a seguir:
 
-* [Security Monitor](/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh#security-monitor)
-* [Web Application Firewall (WAF)](/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh#web-application-firewall-waf)
+* [Security Monitor](/pt/docs/tutorials/vtex-shield#security-monitor)
+* [Web Application Firewall (WAF)](/pt/docs/tutorials/vtex-shield#web-application-firewall-waf)
 

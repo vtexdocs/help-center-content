@@ -40,13 +40,13 @@ Para cada política comercial adicional, é cobrado um valor mensal, seja ela ut
 
 ## Definição da Estratégia de Envio
 
-Para vender seus produtos na Amazon é preciso determinar uma Estratégia de Envio, ou seja, informar qual será a logística de entrega dos seus produtos. A Estratégia de Envio é composta de três etapas logísticas: [Política de Envio](/pt/docs/tutorials/politica-de-envio), [Estoque](/pt/tutorial/o-que-e-um-estoque--23kq5gUdY0QOymOu8QSGcA) e [Doca](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj?&utm_source=autocomplete).
+Para vender seus produtos na Amazon é preciso determinar uma Estratégia de Envio, ou seja, informar qual será a logística de entrega dos seus produtos. A Estratégia de Envio é composta de três etapas logísticas: [Política de Envio](/pt/docs/tutorials/politica-de-envio), [Estoque](/pt/docs/tutorials/estoque) e [Doca](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj?&utm_source=autocomplete).
 
 A Política de Envio estabelece o conjunto de regras das condições de frete, ou seja, informações de custo, transporte e tempo de entrega. Além disso, é também por meio Política de Envio que é feita a associação de qual será o local de armazenamento dos seus produtos (Estoque), e qual será o espaço de escoamento desses produtos (Doca).
 
 Se for do seu interesse utilizar a mesma Estratégia de Envio definida para sua loja VTEX na integração com a Amazon, não é necessário criar novas configurações de logística. Se, no entanto, você deseja criar uma Estratégia de Envio específica para o marketplace, é necessário realizar os seguintes passos:
 
-1. [Cadastrar Política de envio](/pt/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio), associada à política comercial usada na integração.
+1. [Cadastrar Política de envio](/pt/docs/tutorials/politica-de-envio#cadastrar-uma-politica-de-envio), associada à política comercial usada na integração.
 2. [Cadastrar Doca](/pt/docs/tutorials/gerenciar-doca), associada à política comercial usada na integração.
 3. [Cadastrar Estoque](/pt/docs/tutorials/gerenciar-estoque), associado à Doca criada no passo anterior.
 

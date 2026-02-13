@@ -19,7 +19,7 @@ Feitas as configurações iniciais da integração, é necessário enviar os pro
 
 > ℹ️ Todos os produtos precisam ter [Estoque](/pt/docs/tutorials/estoque) e [Preço](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de serem enviados ao marketplace.
 
-Para cadastrar os produtos da sua loja, é necessário configurar o [campo](/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) EAN dos produtos que você deseja enviar para a Amazon.  
+Para cadastrar os produtos da sua loja, é necessário configurar o [campo](/pt/docs/tutorials/adicionar-ou-editar-produto) EAN dos produtos que você deseja enviar para a Amazon.  
 
 ## EAN
 

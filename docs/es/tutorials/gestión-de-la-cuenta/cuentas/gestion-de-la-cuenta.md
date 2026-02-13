@@ -19,7 +19,7 @@ La página **Cuenta** te permite ver y gestionar los detalles de tu cuenta VTEX.
 
 ![Admin v4 account settings menu ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gestión-de-la-cuenta/cuentas/gestion-de-la-cuenta_1.jpg)
 
-> ⚠️ Esta pantalla no tiene detalles de las claves de aplicación. Para saber dónde encontrar y gestionar esta información, consulta el artículo [Claves de aplicación](/es/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet).
+> ⚠️ Esta pantalla no tiene detalles de las claves de aplicación. Para saber dónde encontrar y gestionar esta información, consulta el artículo [Claves de aplicación](/es/docs/tutorials/claves-de-api).
 
 Las funciones de la página **Cuenta** se dividen en dos pestañas: [General](#general) y [Tiendas](#tiendas). Consulta más información sobre cada una de ellas a continuación.
 

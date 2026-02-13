@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
-Nos marketplaces para os quais a VTEX desenvolveu um [conector nativo](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), por vezes ocorrem erros de integração de estoque. Este artigo reúne os erros mais comuns de integração de estoque com o Carrefour e orienta sobre como solucioná-los.
+Nos marketplaces para os quais a VTEX desenvolveu um [conector nativo](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-nativo-vtex), por vezes ocorrem erros de integração de estoque. Este artigo reúne os erros mais comuns de integração de estoque com o Carrefour e orienta sobre como solucioná-los.
 
 Existem mensagens que identificam quais são os erros. Você pode visualizá-las no Admin VTEX, em **MARKETPLACE > Conexões > Estoque**, clicando sobre a mensagem de processo com erro.
 

@@ -41,4 +41,4 @@ Solo el usuario titular puede realizar estas acciones críticas de mantenimiento
 
 Además, cuando VTEX necesita comunicar información importante sobre la tienda, como cambios de roles, dicha comunicación se lleva a cabo directa y exclusivamente con el usuario titular.
 
-> ℹ️ La creación de [credenciales de autenticación](/es/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) (appKey/appToken) para integraciones de API ya no está restringida al usuario titular. Vea este [anuncio](/es/announcements/changes-in-the-name-and-restricted-actions-available-to-the-master-user) para saber más detalles sobre este cambio.
+> ℹ️ La creación de [credenciales de autenticación](/es/docs/tutorials/claves-de-api) (appKey/appToken) para integraciones de API ya no está restringida al usuario titular. Vea este [anuncio](/es/announcements/changes-in-the-name-and-restricted-actions-available-to-the-master-user) para saber más detalles sobre este cambio.

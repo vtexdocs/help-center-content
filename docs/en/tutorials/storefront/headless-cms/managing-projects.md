@@ -24,7 +24,7 @@ Each project is customized with its own settings, content, and branding accordin
 In this guide, you will learn how to manage each frontend project of your store.
 
 ## Before you begin
-For the Headless CMS management, make sure the [resources](/en/docs/tutorials/license-manager-resources) `See CMS menu on the top-bar`, `Settings*`, and `CMS GraphQL API` are associated with your [user role](/en/docs/tutorials/roles). Otherwise, [create a custom user role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) and add these resources to it or add these resources to an existing user role.
+For the Headless CMS management, make sure the [resources](/en/docs/tutorials/license-manager-resources) `See CMS menu on the top-bar`, `Settings*`, and `CMS GraphQL API` are associated with your [user role](/en/docs/tutorials/roles). Otherwise, [create a custom user role](/en/docs/tutorials/roles#creating-a-role) and add these resources to it or add these resources to an existing user role.
 
 ## Overview
 To access **Projects**, go to the VTEX Admin and access **Storefront > Headless CMS**.

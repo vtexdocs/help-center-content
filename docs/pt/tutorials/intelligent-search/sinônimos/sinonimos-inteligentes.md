@@ -17,7 +17,7 @@ subcategoryId: BBzMtJan1UTxC9QZODnlN
 
 > ℹ️ Esta funcionalidade está disponível para contas que tenham pelo menos 100 mil buscas mensais para que o modelo de Inteligência Artificial seja treinado. Você pode verificar a quantidade de buscas mensais na sua loja em *Storefront > Intelligent Search > Analytics* no Admin VTEX e filtrar pelos últimos 30 dias. Caso tenha interesse em implementar Sinônimos Inteligentes, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests). É possível que taxas extras se apliquem futuramente.
 
-A funcionalidade de [Sinônimos](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) do [VTEX Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) permite cadastrar palavras, ou expressões de mesmo sentido, para termos de busca utilizados pelos clientes ao realizar pesquisas na sua loja, aumentando a chance deles obterem resultados relevantes nas buscas.
+A funcionalidade de [Sinônimos](/pt/docs/tutorials/sinonimos) do [VTEX Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) permite cadastrar palavras, ou expressões de mesmo sentido, para termos de busca utilizados pelos clientes ao realizar pesquisas na sua loja, aumentando a chance deles obterem resultados relevantes nas buscas.
 
 Com a funcionalidade de Sinônimos Inteligentes, a página de **Sinônimos** no Admin VTEX apresenta recomendações inteligentes de termos para cadastro, além da configuração manual de sinônimos. A plataforma sugere sinônimos a partir de Inteligência Artificial, com base no comportamento de busca de clientes na sua loja.
 
@@ -52,7 +52,7 @@ Siga as instruções para visualizar as sugestões de sinônimos e definir se el
 
     * <i class="fas fa-bookmark"></i> **Salvar para depois:** remove a sugestão da contagem de **Novas sugestões** e passa a armazená-la na caixa **Sugestões salvas**. Para analisar as sugestões salvas posteriormente, clique em `Revisar`.
     * <i class="fas fa-times-circle"></i> **Recusar**: descarta a sugestão proposta.
-    * <i class="fas fa-pencil-alt"></i> **Editar**: altera campos da configuração dos sinônimos sugeridos. Depois de editar, é preciso clicar em <i class="fas fa-check-circle"></i> para salvar. Para mais informações sobre os campos disponíveis, leia [Configurar Sinônimos](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL).
+    * <i class="fas fa-pencil-alt"></i> **Editar**: altera campos da configuração dos sinônimos sugeridos. Depois de editar, é preciso clicar em <i class="fas fa-check-circle"></i> para salvar. Para mais informações sobre os campos disponíveis, leia [Configurar Sinônimos](/pt/docs/tutorials/criar-sinonimos).
     * <i class="fas fa-check-circle"></i> **Aprovar**: aplica e salva a sugestão proposta.
 6. Após revisar todas as sugestões, feche o modal para acessar a listagem de sinônimos configurados na sua loja.
 
@@ -60,6 +60,6 @@ Siga as instruções para visualizar as sugestões de sinônimos e definir se el
 
 ## Saiba mais
 
-* [Sinônimos](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV)
-* [Configurar Sinônimos](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL)
+* [Sinônimos](/pt/docs/tutorials/sinonimos)
+* [Configurar Sinônimos](/pt/docs/tutorials/criar-sinonimos)
 * [VTEX Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search)

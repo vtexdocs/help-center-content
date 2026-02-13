@@ -40,13 +40,13 @@ Por cada política comercial adicional se cobra una tarifa mensual, ya sea que s
 
 ## Definir la Estrategia de Envío
 
-Para vender sus productos en Amazon necesita determinar una [Estrategia de Envío](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3?&utm_source=autocomplete), es decir, informar cuál será la logística de entrega de sus productos. La Estrategia de Envío se compone de tres etapas logísticas: [Política de Envío](/es/docs/tutorials/politica-de-envio), [Almacén](/es/tutorial/o-que-e-um-estoque--23kq5gUdY0QOymOu8QSGcA) y [Muelle](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj?&utm_source=autocomplete). 
+Para vender sus productos en Amazon necesita determinar una [Estrategia de Envío](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3?&utm_source=autocomplete), es decir, informar cuál será la logística de entrega de sus productos. La Estrategia de Envío se compone de tres etapas logísticas: [Política de Envío](/es/docs/tutorials/politica-de-envio), [Almacén](/es/docs/tutorials/almacen) y [Muelle](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj?&utm_source=autocomplete). 
 
 La Política de Envío (transportadora) se asocia al Almacén de su tienda a través del Muelle. El muelle es el punto intermedio y donde se establecen las condiciones entre la transportadora y el almacenaje de su tienda.
 
 Si desea utilizar la misma Estrategia de Envío definida para su tienda VTEX en la integración con Amazon, no es necesario crear nuevas configuraciones logísticas. Sin embargo, si desea crear una Estrategia de Envío específica para el marketplace, deberá realizar los siguientes pasos:
 
-1. [Registrar la Política de envío](/es/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio) asociada a la política comercial utilizada en la integración.
+1. [Registrar la Política de envío](/es/docs/tutorials/politica-de-envio#cadastrar-uma-politica-de-envio) asociada a la política comercial utilizada en la integración.
 2. [Registrar el Muelle](/es/docs/tutorials/gestionar-el-muelle) asociado a la política comercial utilizada en la integración.
 3. [Registrar el Almacén](/es/docs/tutorials/gestionar-almacenes) asociado al Muelle creado en el paso anterior.
 

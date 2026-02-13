@@ -17,7 +17,7 @@ subcategoryId: 42hDtnYXHw5ExG6l19RP1l
 
 Creating a cluster of customers is the same as segmenting them. These two approaches give the storeowner a better idea of the customer’s profile, and enable you to be more proactive in dealing with this user.
 
-> ⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use. <ul> <li> [ Master Data version characteristics ](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/docs/guides/master-data-v2-basics) </li> </ul>
+> ⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use. <ul> <li> [ Master Data version characteristics ](/en/docs/tutorials/master-data#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/docs/guides/master-data-v2-basics) </li> </ul>
 
 These details, once obtained, are very useful for the company’s marketing and advertising. Each store can define its own clusters and the rules for a customer to be included in each of them.
 

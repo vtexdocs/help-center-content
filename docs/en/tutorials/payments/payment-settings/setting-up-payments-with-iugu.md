@@ -40,7 +40,7 @@ To process credit card, pix and bank slip payment methods with iugu in your stor
 4. Fill the __Condition name__ field with a name of your choice for identification.
 5. Activate the condition in the __Status__ field.
 6. In __Process with provider__ select the iugu option.
-7. For credit card payments, select whether you want to use an anti-fraud system by selecting the __Use anti-fraud solution__ option. It is also possible to configure whether credit card payments should be made [in full or in installments (with and without interest)](/en/tutorial/condicoes-de-pagamento--tutorials_455#payment-in-full).
+7. For credit card payments, select whether you want to use an anti-fraud system by selecting the __Use anti-fraud solution__ option. It is also possible to configure whether credit card payments should be made [in full or in installments (with and without interest)](/en/docs/tutorials/how-to-configure-payment-conditions#payment-in-full).
 8. If you wish, you can also configure [special payment conditions](/en/docs/tutorials/special-conditions).
 9. Click `Save`.
 
@@ -50,7 +50,7 @@ After following the indicated steps, iugu provider may take up to 10 minutes to 
 
 ## Setting up split payment on the marketplace with iugu
 
-To process payments on [marketplace with split payment](/en/tutorial/payments-in-vtex-marketplaces--2kYOfWCZYweJkYl18bw9yD#payment-split) with iugu it is necessary to register sellers of your store with the same CNPJ (seller identification number) in the VTEX Admin and in your customer area on the iugu portal.
+To process payments on [marketplace with split payment](/en/docs/tutorials/payments-in-vtex-marketplaces#payment-split) with iugu it is necessary to register sellers of your store with the same CNPJ (seller identification number) in the VTEX Admin and in your customer area on the iugu portal.
 
 Find out more about creating sellers on VTEX at [Adding a seller](/en/docs/tutorials/adding-a-seller) and access iugu documentation to create subaccounts (sellers) via [area of client](https://support.iugu.com/hc/pt-br/articles/4411276874779-Como-criar-uma-subconta-pelo-painel-iugu-) or [API](https://dev.iugu.com/docs/configurar-subconta-por-api).
 

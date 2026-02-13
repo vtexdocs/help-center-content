@@ -63,7 +63,7 @@ The first elements `[x-y]` are group rules, and between each `#` and `;` are SKU
 
 To add an Assembly Option, you  need to have an attachment already created. Check the article [Adding an attachment](/en/docs/tutorials/adding-an-attachment) to learn how to create one.
 
-After adding an attachment and [associating it with an SKU](/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU#associating-the-attachment-with-a-sku), follow the steps below to configure the Assembly Option.
+After adding an attachment and [associating it with an SKU](/en/docs/tutorials/adding-an-attachment#associating-the-attachment-with-a-sku), follow the steps below to configure the Assembly Option.
 
 1. In the VTEX Admin, go to __Catalog__, or type __Catalog__ in the search bar at the top of the page.
 2. Click **Custom Product Attributes**.

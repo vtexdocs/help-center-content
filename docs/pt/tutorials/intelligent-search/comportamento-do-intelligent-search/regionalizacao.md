@@ -17,7 +17,7 @@ subcategoryId: 30Kdgc6wJkMWgcXLB8mGr7
 
 A Regionalização é uma funcionalidade do [VTEX Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) que permite otimizar os resultados de busca de acordo com a disponibilidade de sellers na região do cliente. Para instalar e configurar o VTEX Intelligent Search na sua loja, leia o nosso artigo [Search](https://developers.vtex.com/vtex-developer-docs/docs/vtex-search).
 
-A Regionalização  utiliza um comportamento do VTEX Intelligent Search — a [Disponibilidade](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/7LMQbWK5nElIkXo0NK8Kux). Ela busca os produtos disponíveis no estoque dos sellers que atendem a uma determinada região.
+A Regionalização  utiliza um comportamento do VTEX Intelligent Search — a [Disponibilidade](/pt/docs/tutorials/disponibilidade). Ela busca os produtos disponíveis no estoque dos sellers que atendem a uma determinada região.
 
 Lojas que possuem mais de um Seller White Label cadastrado costumam ter um estoque específico dependendo de cada região. Esse é o caso de ecommerces que são supermercados, por exemplo.
 
@@ -41,7 +41,7 @@ Primeiro, é preciso entender qual  cenário de [seller](/pt/docs/tutorials/o-qu
 ### Seller 1
 
 Por padrão, toda loja VTEX é criada com arquitetura para atuar como seller e [marketplace](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex) simultaneamente. Isso significa que sua loja VTEX será o seller com ID igual a 1, pois ela pode funcionar como um seller do seu próprio ambiente.
-Esse seller é criado automaticamente na conta da loja, representando o seu estoque próprio. Isso ocorre tanto para marketplaces que vendem produtos próprios quanto para lojas que não são marketplaces, mas reúnem o checkout e [fulfillment](/pt/tutorial/o-que-sao-pedidos-com-origem-marketplace-e-origem-fulfillment--6eVYrmUAwMOeKICU2KuG06#fulfillment) em seu ecommerce.
+Esse seller é criado automaticamente na conta da loja, representando o seu estoque próprio. Isso ocorre tanto para marketplaces que vendem produtos próprios quanto para lojas que não são marketplaces, mas reúnem o checkout e [fulfillment](/pt/docs/tutorials/fluxo-e-status-de-pedidos#fulfillment) em seu ecommerce.
 
 ### Seller White Label
 

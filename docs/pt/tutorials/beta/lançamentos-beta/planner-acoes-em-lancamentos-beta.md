@@ -19,14 +19,14 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 
 O módulo **Lançamentos** permite que você gerencie [lançamentos](/pt/docs/tutorials/planner-conceito-de-lancamento-beta) de forma a coordenar a criação, planejamento e publicação de alterações na sua loja. Um lançamento significa uma modificação ou um agrupamento de modificações que podem ser publicadas de forma conjunta.
 
-Pelo **Lançamentos**, você pode visualizar as informações sobre lançamentos, acompanhar os [status de lançamentos](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-lancamentos) e realizar uma série de ações. Este artigo apresenta quais são essas ações e como executá-las.
+Pelo **Lançamentos**, você pode visualizar as informações sobre lançamentos, acompanhar os [status de lançamentos](/pt/docs/tutorials/planner-conceito-de-lancamento-beta#status-de-lancamentos) e realizar uma série de ações. Este artigo apresenta quais são essas ações e como executá-las.
 
 A funcionalidade pode ser acessada pelo menu de navegação do Admin VTEX **Lançamentos**, no qual existem as seguintes páginas:
 
 * [Calendário](/pt/docs/tutorials/planner-pagina-calendario-beta)
 * [Lançamentos](/pt/docs/tutorials/planner-pagina-lancamentos-beta)
 
-Cada página apresenta uma visualização dos lançamentos e permite realizar ações distintas, que vão depender do [status do lançamento](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-lancamentos). As principais ações são:
+Cada página apresenta uma visualização dos lançamentos e permite realizar ações distintas, que vão depender do [status do lançamento](/pt/docs/tutorials/planner-conceito-de-lancamento-beta#status-de-lancamentos). As principais ações são:
 
 * [Criar lançamento](#criar-lancamento)
 * [Buscar lançamento](#buscar-lancamento)
@@ -48,21 +48,21 @@ Para criar um lançamento pelo **Lançamentos**, siga os passos abaixo:
 
   > A seguinte mensagem de confirmação vai aparecer: _O lançamento foi criado e agendado_.
 
-Ao criar o lançamento, não é obrigatório definir **Data da publicação** e **Horário**, pois um lançamento pode ser criado com [status](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-lancamentos) `Não agendado` e ser [agendado](#agendar) posteriormente.
+Ao criar o lançamento, não é obrigatório definir **Data da publicação** e **Horário**, pois um lançamento pode ser criado com [status](/pt/docs/tutorials/planner-conceito-de-lancamento-beta#status-de-lancamentos) `Não agendado` e ser [agendado](#agendar) posteriormente.
 
 ## Buscar lançamento
 
 Na página **Lançamentos** é possível buscar lançamentos utilizando os seguintes recursos:
 
 * **Barra de busca:** digite o nome do lançamento que deseja encontrar. 
-* **Filtros:** para filtrar por [status de lançamentos](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-lancamentos), clique em `Filtros` e utilize o botão `Todos os status` <i class="fas fa-angle-down"></i> para selecionar a opção desejada. Para filtrar por data de agendamento, use o botão `Todos os períodos` <i class="fas fa-angle-down"></i> para selecionar a data desejada.
+* **Filtros:** para filtrar por [status de lançamentos](/pt/docs/tutorials/planner-conceito-de-lancamento-beta#status-de-lancamentos), clique em `Filtros` e utilize o botão `Todos os status` <i class="fas fa-angle-down"></i> para selecionar a opção desejada. Para filtrar por data de agendamento, use o botão `Todos os períodos` <i class="fas fa-angle-down"></i> para selecionar a data desejada.
 
 ## Agendar, reagendar ou desagendar lançamento
 
 Com relação a definição de datas para publicação, existem três ações possíveis:
 
 * [Agendar](#agendar): definir uma data de publicação para o lançamento quando não existe nenhuma.
-* [Desagendar](#desagendar): cancelar a data de publicação, fazendo com que o lançamento passe para o [status](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-lancamentos) `Não agendado`.
+* [Desagendar](#desagendar): cancelar a data de publicação, fazendo com que o lançamento passe para o [status](/pt/docs/tutorials/planner-conceito-de-lancamento-beta#status-de-lancamentos) `Não agendado`.
 * [Reagendar](#reagendar): definir uma nova data para um lançamento que já tinha uma data determinada.
 
 ### Agendar
@@ -93,7 +93,7 @@ Para desagendar um lançamento e fazer com que ele passe para o status `Não age
 
 ## Publicar lançamento
 
-Para publicar um lançamento, é preciso que ele esteja em um dos seguintes [status](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-lancamentos):
+Para publicar um lançamento, é preciso que ele esteja em um dos seguintes [status](/pt/docs/tutorials/planner-conceito-de-lancamento-beta#status-de-lancamentos):
 
 * `Não agendado`
 * `Agendado`
@@ -107,7 +107,7 @@ Para publicar o lançamento e tornar as modificações visíveis no storefront d
 
 ## Excluir lançamento
 
-Todos os [status de lançamentos](/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-lancamentos) permitem que um lançamento seja excluído, ou seja, que o lançamento seja deletado de forma permanente.
+Todos os [status de lançamentos](/pt/docs/tutorials/planner-conceito-de-lancamento-beta#status-de-lancamentos) permitem que um lançamento seja excluído, ou seja, que o lançamento seja deletado de forma permanente.
 
 > ℹ️ Se em vez de excluir um lançamento você desejar arquivá-lo, você deve despublicar o lançamento. Assim, o lançamento não é deletado e pode ser republicado a qualquer momento.
 

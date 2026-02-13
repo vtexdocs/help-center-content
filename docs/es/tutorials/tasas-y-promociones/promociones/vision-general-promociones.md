@@ -25,7 +25,7 @@ A continuación, encontrarás más detalles sobre las diferentes secciones y pá
 ## Promociones
 En esta sección será posible crear promociones, público de la campaña, tarjetas de regalo y tasas. La sección incluye las siguientes páginas, ya en el nuevo design:
 
-- [Promociones](/es/v4/docs/lista-de-promocoes--5LtzPm5kQdRVI06KXHE0Td): descuentos que se ofrecen a los clientes en función de criterios específicos.  
+- [Promociones](/es/docs/tutorials/lista-de-promociones-beta): descuentos que se ofrecen a los clientes en función de criterios específicos.  
 
 Pronto estarán en el diseño actualizado del Admin:  
 - [Audiencia de campañas](/es/docs/tutorials/crear-audiencias-de-campana): definiciones del público objetivo que pueden utilizarse como criterio de promoción.  

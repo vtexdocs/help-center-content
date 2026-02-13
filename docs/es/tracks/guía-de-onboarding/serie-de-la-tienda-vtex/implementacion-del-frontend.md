@@ -226,10 +226,10 @@ El equipo de desarrollo debe iniciar un nuevo proyecto con FastStore a través d
 A continuación se presentan los requisitos de cada tema:
 
 - Catálogo
-  - [Registrar productos y SKU](/es/tutorial/registrar-productos--tutorials_2567)
+  - [Registrar productos y SKU](/es/docs/tutorials/agregar-o-editar-productos)
   - [Construir un árbol de categorías](/es/docs/tutorials/registrar-categoria) ([departamentos](/es/docs/tutorials/que-es-un-departamento), [categorías](/es/docs/tutorials/que-es-una-categoria) y [subcategorías](/es/docs/tutorials/que-es-una-subcategoria))
   - [Definir filtros y tipos de especificaciones por categoría](/es/docs/tutorials/crear-grupo-de-especificaciones-en-una-categoria)
-  - [Registrar imágenes de los SKU](/es/tutorial/campos-de-registro-de-sku--21DDItuEQc6mseiW8EakcY#imagenes)
+  - [Registrar imágenes de los SKU](/es/docs/tutorials/agregar-o-editar-skus#imagenes)
   - [Registrar precios de los SKU](/es/docs/tracks/registrar-precio-base)
   - [Gestión del stock](/es/docs/tutorials/gestionar-items-en-inventario)
 - VTEX Intelligent Search
@@ -279,10 +279,10 @@ El equipo de desarrollo debe iniciar un nuevo proyecto con Store Framework clona
 A continuación se presentan los requisitos para cada tema:
 
 - Catálogo
-  - [Registrar productos y SKU](/es/tutorial/registrar-productos--tutorials_2567)
+  - [Registrar productos y SKU](/es/docs/tutorials/agregar-o-editar-productos)
   - [Construir un árbol de categorías](/es/docs/tutorials/registrar-categoria) ([departamentos](/es/docs/tutorials/que-es-un-departamento), [categorías](/es/docs/tutorials/que-es-una-categoria) y [subcategorías](/es/docs/tutorials/que-es-una-subcategoria))
   - [Definir filtros y tipos de especificaciones por categoría](/es/docs/tutorials/crear-grupo-de-especificaciones-en-una-categoria)
-  - [Registrar imágenes de los SKU](/es/tutorial/campos-de-registro-de-sku--21DDItuEQc6mseiW8EakcY#imagenes)
+  - [Registrar imágenes de los SKU](/es/docs/tutorials/agregar-o-editar-skus#imagenes)
   - [Registrar precios de los SKU](/es/docs/tracks/registrar-precio-base)
   - [Gestión del stock](/es/docs/tutorials/gestionar-items-en-inventario)
 - VTEX Intelligent Search

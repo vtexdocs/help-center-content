@@ -42,11 +42,11 @@ To access the documentation on this topic, insert your VTEX [account name](/en/t
 
 reCAPTCHA is a user verification solution for orders paid by credit or debit card. It prevents the use of malware for fraudulent purposes.
 
-We recommend using [reCAPTCHA v3](/en/tutorial/using-recaptcha-at-checkout--18Te3oDd7f4qcjKu9jhNzP#recaptcha-v3), which uses a quality score instead of pop-up validation and is, therefore, harder to circumvent in such scenarios.
+We recommend using [reCAPTCHA v3](/en/docs/tutorials/using-recaptcha-at-checkout#recaptcha-v3), which uses a quality score instead of pop-up validation and is, therefore, harder to circumvent in such scenarios.
 
-Learn more about how to set up this verification at your store's checkout in the article [reCAPTCHA at checkout](/en/tutorial/using-recaptcha-at-checkout--18Te3oDd7f4qcjKu9jhNzP#recaptcha-v3). To implement reCAPTCHA V3 in a VTEX store, see the [reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha#recaptcha-v3-score) developer's guide.
+Learn more about how to set up this verification at your store's checkout in the article [reCAPTCHA at checkout](/en/docs/tutorials/using-recaptcha-at-checkout#recaptcha-v3). To implement reCAPTCHA V3 in a VTEX store, see the [reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha#recaptcha-v3-score) developer's guide.
 
-> ℹ️ reCAPTCHA verification is enabled by default when store customers go through the steps of [adding credit cards](/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh#credit-cards), without having to be configured by the store.
+> ℹ️ reCAPTCHA verification is enabled by default when store customers go through the steps of [adding credit cards](/en/docs/tutorials/how-my-account-works#credit-cards), without having to be configured by the store.
 
 ## orderForm settings
 

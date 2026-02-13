@@ -25,7 +25,7 @@ Veja abaixo as configurações necessárias para criar uma loja B2B, na VTEX.
 
 ## Pré-requisito
 
-Se você já possui uma loja B2C (Business to Consumer) na VTEX, antes de seguir os passos descritos abaixo, você precisa criar uma multiloja para a sua operação B2B. Confira o artigo [Criar multiloja / multidomínio](/pt/tutorial/como-criar-multiloja-multidominio--tutorials_510) para mais informações.
+Se você já possui uma loja B2C (Business to Consumer) na VTEX, antes de seguir os passos descritos abaixo, você precisa criar uma multiloja para a sua operação B2B. Confira o artigo [Criar multiloja / multidomínio](/pt/docs/tutorials/gerenciando-uma-multiloja) para mais informações.
 
 ## 1. Incluir regra condicional na Política Comercial do B2B
 

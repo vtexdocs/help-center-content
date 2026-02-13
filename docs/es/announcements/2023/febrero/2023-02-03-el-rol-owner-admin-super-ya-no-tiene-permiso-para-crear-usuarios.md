@@ -28,8 +28,8 @@ A partir de hoy, el [rol](/es/docs/tutorials/roles) **Owner (Admin Super)** deja
 - Asignar [roles](/es/docs/tutorials/roles) a los usuarios.
 - Remover [roles](/es/docs/tutorials/roles) de los usuarios.
 - [Editar datos de usuarios](/es/docs/tutorials/gestionar-usuarios-administrativos#editando-usuarios).
-- Crear [claves de aplicación](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet).
-- Cambiar [claves de aplicación](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet).
+- Crear [claves de aplicación](/es/docs/tutorials/claves-de-api).
+- Cambiar [claves de aplicación](/es/docs/tutorials/claves-de-api).
 
 Además, a partir de hoy, VTEX tiene el rol **User Administrator - RESTRICTED**, que incluye únicamente el recurso **Save user** descrito anteriormente.
 
@@ -53,11 +53,11 @@ Sin embargo, recomendamos que revises los usuarios de tu tienda y remuevas el ro
 
 Los usuarios que, a partir de ahora, reciban el rol de usuario **Owner (Admin Super)**, no tendrán el recurso **Save user** y no podrán realizar las acciones asociadas, como crear y editar usuarios y claves de aplicación.
 
-Si deseas que algún usuario de tu tienda pueda realizar las acciones asociadas al recurso **Save user** antes mencionadas, debes asegurarte de que el usuario tenga el rol **User Administrator - RESTRICTED** o crear un [rol de usuario personalizado](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#tipos-de-perfis) que incluya el recurso **Save user**.
+Si deseas que algún usuario de tu tienda pueda realizar las acciones asociadas al recurso **Save user** antes mencionadas, debes asegurarte de que el usuario tenga el rol **User Administrator - RESTRICTED** o crear un [rol de usuario personalizado](/es/docs/tutorials/roles#tipos-de-perfis) que incluya el recurso **Save user**.
 
 ### Claves de aplicación
 
-Las claves de aplicación con el rol de usuario **Owner (Admin Super)** no recibirán el rol **User Administrator - RESTRICTED** automáticamente. Por lo tanto, si deseas que alguna clave de aplicación pueda realizar las acciones asociadas al recurso **Save user** antes mencionadas, debes asegurarte de que la clave tenga el rol **User Administrator - RESTRICTED** o crear un [rol de usuario personalizado](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#tipos-de-roles) que incluya el recurso **Save user**.
+Las claves de aplicación con el rol de usuario **Owner (Admin Super)** no recibirán el rol **User Administrator - RESTRICTED** automáticamente. Por lo tanto, si deseas que alguna clave de aplicación pueda realizar las acciones asociadas al recurso **Save user** antes mencionadas, debes asegurarte de que la clave tenga el rol **User Administrator - RESTRICTED** o crear un [rol de usuario personalizado](/es/docs/tutorials/roles#tipos-de-roles) que incluya el recurso **Save user**.
 
 > ⚠️ Ten en cuenta que con los cambios descritos anteriormente, las claves de aplicación dejarán de tener el recurso **Save user** y será necesario que un usuario con este recurso se lo asigne, de ser necesario.
 
@@ -82,6 +82,6 @@ Consulta la siguiente documentación para saber más sobre la gestión de usuari
 - [Roles](/es/docs/tutorials/roles)
 - [Recursos de License Manager](/es/docs/tutorials/recursos-del-license-manager)
 - [Gestionar usuarios](/es/docs/tutorials/gestionar-usuarios-administrativos)
-- [Claves de aplicación](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet)
+- [Claves de aplicación](/es/docs/tutorials/claves-de-api)
 - [Buenas prácticas para el uso de claves de aplicación](/es/docs/tutorials/buenas-practicas-claves-de-api)
 

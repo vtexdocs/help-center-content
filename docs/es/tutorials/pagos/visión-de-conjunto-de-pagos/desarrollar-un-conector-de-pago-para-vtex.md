@@ -67,7 +67,7 @@ El proceso de desarrollo de un conector VTEX puede dividirse en cuatro fases:
 
   <blockquote><ui>2. **Realización de pruebas:** el conector se valida mediante pruebas predefinidas que garantizan su correcto funcionamiento. Esta etapa es clave, ya que cualquier error identificado puede impactar el SLA de entrega originalmente previsto.</ui>
 
-<blockquote>> ℹ️ Una vez completadas las [pruebas iniciales](/es/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#4-pruebas) y enviado el conector para homologación, se recomienda iniciar las [pruebas de compra](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework#placing-an-order-with-your-new-connector) en el entorno de pruebas. Esta acción es esencial para detectar posibles incoherencias que puedan interferir en el progreso de la homologación.</blockquote>
+<blockquote>> ℹ️ Una vez completadas las [pruebas iniciales](/es/docs/tutorials/payment-provider-protocol#4-pruebas) y enviado el conector para homologación, se recomienda iniciar las [pruebas de compra](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework#placing-an-order-with-your-new-connector) en el entorno de pruebas. Esta acción es esencial para detectar posibles incoherencias que puedan interferir en el progreso de la homologación.</blockquote>
 
 <blockquote><ui>3. **Homologación:** el partner desarrollador del conector abre un ticket, que será atendido por el equipo de Partner Support de VTEX. A partir de esta etapa, empieza el proceso de validación interna y la publicación del conector en el entorno VTEX.</ui>
 

@@ -17,12 +17,12 @@ announcementSynopsisES: 'A partir del 15 de octubre de 2023, no se podrá accede
 
 **Insights** es un dashboard que permite dar seguimiento a la evolución de las ventas mediante una vista detallada del embudo de conversión y de las principales métricas que impactan los ingresos de tu tienda.
 
-Actualmente, solo se puede acceder al [dashboard Insights](/es/tutorial/acompanhando-a-evolucao-das-suas-vendas--5QtyTR0jFy9gDnr4EYCjdq) a través de la dirección:
+Actualmente, solo se puede acceder al [dashboard Insights](/es/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46#) a través de la dirección:
 ```
 https://{nombreDeLaCuenta}.myvtex.com/admin/insights
 ```
 
-A partir del 15 de octubre de 2023, no se podrá acceder al [dashboard Insights](/es/tutorial/acompanhando-a-evolucao-das-suas-vendas--5QtyTR0jFy9gDnr4EYCjdq) debido a su descontinuación.
+A partir del 15 de octubre de 2023, no se podrá acceder al [dashboard Insights](/es/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46#) debido a su descontinuación.
 
 ## ¿Por qué realizamos este cambio?
 

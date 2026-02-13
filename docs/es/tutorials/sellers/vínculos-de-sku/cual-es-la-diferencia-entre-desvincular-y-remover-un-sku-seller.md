@@ -17,11 +17,11 @@ subcategoryId: FTLNAWyLmuaIiAq4CQKS6
 
 Todos los productos que llegan del seller al marketplace pasan por el módulo [SKUs recibidos](/es/docs/tutorials/catalogacion-manual-de-skus). Tras la aprobación de los SKUs, ellos entran en el catálogo del marketplace y son presentados en el Admin VTEX en **Marketplace > Vínculos de SKU**. Sepa más en [Vínculos de SKU](/es/docs/tutorials/vinculos-de-sku).
 
-Al [desvincular un SKU de seller](/es/tutorial/vinculos-de-sku--1SmrVgNwjJX17hdqwLa0TX#desvincular-sku), éste dejará de exhibirse como disponible en el marketplace. El SKU estará desvinculado del catálogo del marketplace, y así no recibirá más ninguna actualización, como precio y stock del seller.
+Al [desvincular un SKU de seller](/es/docs/tutorials/vinculos-de-sku#desvincular-sku), éste dejará de exhibirse como disponible en el marketplace. El SKU estará desvinculado del catálogo del marketplace, y así no recibirá más ninguna actualización, como precio y stock del seller.
 
 > ℹ️ Un SKU desvinculado no retorna a la hilera de aprobación **SKU recibidos**, pues ya existe en el catálogo del marketplace.
 
-Si lo que usted desea es retirar el SKU, usted debe [remover el SKU de seller](/es/tutorial/vinculos-de-sku--1SmrVgNwjJX17hdqwLa0TX#remover). Al remover el SKU, él deja de formar parte del catálogo del marketplace. El SKU removido sólo volverá a formar parte del catálogo si el seller reenvía el SKU al **SKU recibidos**.
+Si lo que usted desea es retirar el SKU, usted debe [remover el SKU de seller](/es/docs/tutorials/vinculos-de-sku#remover). Al remover el SKU, él deja de formar parte del catálogo del marketplace. El SKU removido sólo volverá a formar parte del catálogo si el seller reenvía el SKU al **SKU recibidos**.
 
 Si desea ver más información, consulte el artículo [Vínculos de SKU](/es/docs/tutorials/vinculos-de-sku).
 
