@@ -17022,6 +17022,21 @@
               "children": [
                 {
                   "name": {
+                    "pt": "Adicionar ou editar Buying Policies",
+                    "en": "Adicionar ou editar Buying Policies",
+                    "es": "Adicionar ou editar Buying Policies"
+                  },
+                  "slug": {
+                    "pt": "adicionar-ou-editar-buying-policies",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "B2B Contracts",
                     "es": "Contratos B2B",
                     "pt": "Contratos B2B"
