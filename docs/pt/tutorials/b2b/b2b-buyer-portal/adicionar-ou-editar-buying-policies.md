@@ -33,7 +33,7 @@ Este artigo orienta os usuários no gerenciamento de buying policies e está div
         * **Set spending limit criteria (definir critério de preço):** opções de aprovação ou negação de pedidos com base no preço do pedido. Por exemplo, se o pedido é maior, menor ou igual a determinado valor.
         * **Set order field criteria (definir critério de aspectos do pedido):** opções de aprovação ou negação de pedidos a partir de condições e características do pedido. Por exemplo, se ele tem itens restritos, ou se possui um centro de custo (cost center) específico.
 
-    > ℹ️ Os valores usados nos critérios de autorização de pedidos são centesimais e a moeda corresponde a mesma usada no orderForm do pedido.
+    > ℹ️ Os valores usados nos critérios de autorização de pedidos são centesimais e a moeda corresponde a mesma usada no carrinho de compras do pedido.
 
     * Em **Action**, selecione qual ação será aplicada a pedidos que atenderam aos critérios:
         * **Deny order:** o pedido será negado.
