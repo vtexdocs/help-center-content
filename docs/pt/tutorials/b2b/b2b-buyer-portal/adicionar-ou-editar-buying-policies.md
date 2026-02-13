@@ -24,6 +24,9 @@ Este artigo orienta os usuários no gerenciamento de buying policies e está div
 ## Adicionar buying policy
 
 1. Na página da Organizational Unit, na seção **Finance and Compliance**, clique em `Buying Policies`.
+
+    ![buying_policies_image_initial_org_account_page](link)
+
 2. Na tela **Buying Policies**, clique no ícone `+` no topo da tela para adicionar uma nova política de compra.
 3. No modal **Add new buying policy**, preencha os campos, que são todos obrigatórios:
     * Em **Basic information**, defina o nome e a descrição da buying policy que aparecerá no checkout para os compradores:
