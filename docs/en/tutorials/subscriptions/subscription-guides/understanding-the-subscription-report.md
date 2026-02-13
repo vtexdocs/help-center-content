@@ -17,10 +17,10 @@ subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 
 The subscription report is a document in `CSV` format that contains information about subscriptions, such as their creation date, customer email, and active SKU.
 
-You can generate the report using the [Generate 
-report](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3?endpoint=post-/api/rns/pvt/reports/-reportName-/documents) endpoint.
+You can generate the report using the [Generate report](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3?endpoint=post-/api/rns/pvt/reports/-reportName-/documents) endpoint.
 
 The following types of reports are available:
+
 - [Subscriptions with status](#subscriptions-with-status)
 - [Subscriptions scheduled between dates](#subscriptions-scheduled-between-dates)
 - [Subscriptions updated between dates](#subscriptions-updated-between-dates)
@@ -32,18 +32,19 @@ The following types of reports are available:
 In this article, you’ll learn more about the data returned by each type of subscription report.
 
 ## Subscriptions with status
+
 The `subscriptionsWithStatus` report returns subscription data based on the status of the cycle run.
 
 The columns correspond to specific information about the subscription, as described below:
 
 | **Field name** | **Description** |
-| :---:  | :--- |
+| :---: | :--- |
 | ID | Subscription ID. |
 | Customer Email | Email address of the customer. |
 | Customer Id | The ID of the customer. |
-| Status |  Status of the subscription when the report was created.   `TRIGGERED`: A subscription cycle run was triggered.   `IN_PROCESS`: The subscription is being processed by the system (temporary status).   `FAILURE`: An internal error occurred while running the subscription.   `SUCCESS`: The subscription cycle was processed successfully.   `EXPIRED`: The subscription wasn't renewed and exceeded the current deadline.   `ORDER_ERROR`: The subscription cycle failed due to a _place order_ error.   `PAYMENT_ERROR`: The subscription cycle failed due to a payment error.   `SKIPPED`: The subscription cycle was skipped; the subscription will run in the next cycle.   `SUCCESS_WITH_NO_ORDER`: A subscription cycle was successfully processed, but the associated order has no items.   `SUCCESS_WITH_PARTIAL_ORDER`: A subscription cycle was successfully processed and has a partial order associated.   `RE_TRIGGERED`: A manual re-run of the subscription cycle was triggered.   `SCHEDULE_UPDATED`: The next subscription cycle date was updated.  
-| Has Active Items |  Indicates whether the subscription has active items.   `TRUE`: Has active items.   `FALSE`: No active items.  
-| Is Skipped |  Indicates the subscription cycle will be skipped.   `TRUE`: The cycle will be skipped.   `FALSE`: The cycle won't be skipped.  
+| Status | Status of the subscription when the report was created. <br> `TRIGGERED`: A subscription cycle run was triggered. <br> `IN_PROCESS`: The subscription is being processed by the system (temporary status). <br> `FAILURE`: An internal error occurred while running the subscription. <br> `SUCCESS`: The subscription cycle was processed successfully. <br> `EXPIRED`: The subscription wasn't renewed and exceeded the current deadline. <br> `ORDER_ERROR`: The subscription cycle failed due to a _place order_ error. <br> `PAYMENT_ERROR`: The subscription cycle failed due to a payment error. <br> `SKIPPED`: The subscription cycle was skipped; the subscription will run in the next cycle. <br> `SUCCESS_WITH_NO_ORDER`: A subscription cycle was successfully processed, but the associated order has no items. <br> `SUCCESS_WITH_PARTIAL_ORDER`: A subscription cycle was successfully processed and has a partial order associated. <br> `RE_TRIGGERED`: A manual re-run of the subscription cycle was triggered. <br> `SCHEDULE_UPDATED`: The next subscription cycle date was updated. |
+| Has Active Items | Indicates whether the subscription has active items. <br> `TRUE`: Has active items. <br> `FALSE`: No active items. |
+| Is Skipped | Indicates the subscription cycle will be skipped. <br> `TRUE`: The cycle will be skipped. <br> `FALSE`: The cycle won't be skipped. |
 | Next Purchase Date | Date of the next scheduled purchase. |
 | Last Purchase Date | Date of the last purchase. |
 | Periodicity | Frequency of the subscription. |
@@ -63,23 +64,24 @@ The columns correspond to specific information about the subscription, as descri
 | Subscriptions Item Sku Id | SKU of the subscription item. |
 | Subscriptions Item PriceAtSubscriptionDate | Item price at subscription time. |
 | Subscriptions Item Quantity | Number of items in the subscription. |
-| Subscriptions Item Is Skipped |  Indicates if the item will be skipped.   `TRUE`: The item will be skipped.   `FALSE`: The item won't be skipped.  
+| Subscriptions Item Is Skipped | Indicates if the item will be skipped. <br> `TRUE`: The item will be skipped. <br> `FALSE`: The item won't be skipped. |
 | Subscriptions Item Cycle | Cycle of the subscription item. |
-| Subscriptions Item OriginalOrder | Original order of the subscription item. | 
+| Subscriptions Item OriginalOrder | Original order of the subscription item. |
 
 ## Subscriptions scheduled between dates
+
 The `subscriptionsScheduledBetweenDate` report returns data on subscriptions scheduled within a date range.
 
 The columns correspond to specific information about the subscription, as described below:
 
 | **Field name** | **Description** |
-| :---:  | :--- |
+| :---: | :--- |
 | ID | Subscription ID. |
 | Customer Email | Email address of the customer. |
 | Customer Id | The ID of the customer. |
-| Status |  Status of the subscription when the report was created.   `TRIGGERED`: A subscription cycle run was triggered.   `IN_PROCESS`: The subscription is being processed by the system (temporary status).   `FAILURE`: An internal error occurred while running the subscription.   `SUCCESS`: The subscription cycle was processed successfully.   `EXPIRED`: The subscription wasn't renewed and exceeded the current deadline.   `ORDER_ERROR`: The subscription cycle failed due to a _place order_ error.   `PAYMENT_ERROR`: The subscription cycle failed due to a payment error.   `SKIPPED`: The subscription cycle was skipped; the subscription will run in the next cycle.   `SUCCESS_WITH_NO_ORDER`: A subscription cycle was successfully processed, but the associated order has no items.   `SUCCESS_WITH_PARTIAL_ORDER`: A subscription cycle was successfully processed and has a partial order associated.   `RE_TRIGGERED`: A manual re-run of the subscription cycle was triggered.   `SCHEDULE_UPDATED`: The next subscription cycle date was updated.  
-| Has Active Items |  Indicates whether the subscription has active items.   `TRUE`: Has active items.   `FALSE`: No active items.  
-| Is Skipped |  Indicates the subscription cycle will be skipped.   `TRUE`: The cycle will be skipped.   `FALSE`: The cycle won't be skipped.  
+| Status | Status of the subscription when the report was created. <br> `TRIGGERED`: A subscription cycle run was triggered. <br> `IN_PROCESS`: The subscription is being processed by the system (temporary status). <br> `FAILURE`: An internal error occurred while running the subscription. <br> `SUCCESS`: The subscription cycle was processed successfully. <br> `EXPIRED`: The subscription wasn't renewed and exceeded the current deadline. <br> `ORDER_ERROR`: The subscription cycle failed due to a _place order_ error. <br> `PAYMENT_ERROR`: The subscription cycle failed due to a payment error. <br> `SKIPPED`: The subscription cycle was skipped; the subscription will run in the next cycle. <br> `SUCCESS_WITH_NO_ORDER`: A subscription cycle was successfully processed, but the associated order has no items. <br> `SUCCESS_WITH_PARTIAL_ORDER`: A subscription cycle was successfully processed and has a partial order associated. <br> `RE_TRIGGERED`: A manual re-run of the subscription cycle was triggered. <br> `SCHEDULE_UPDATED`: The next subscription cycle date was updated. |
+| Has Active Items | Indicates whether the subscription has active items. <br> `TRUE`: Has active items. <br> `FALSE`: No active items. |
+| Is Skipped | Indicates the subscription cycle will be skipped. <br> `TRUE`: The cycle will be skipped. <br> `FALSE`: The cycle won't be skipped. |
 | Next Purchase Date | Date of the next scheduled purchase. |
 | Last Purchase Date | Date of the last purchase. |
 | Periodicity | Frequency of the subscription. |
@@ -99,23 +101,24 @@ The columns correspond to specific information about the subscription, as descri
 | Subscriptions Item Sku Id | SKU of the subscription item. |
 | Subscriptions Item PriceAtSubscriptionDate | Item price at subscription time. |
 | Subscriptions Item Quantity | Number of items in the subscription. |
-| Subscriptions Item Is Skipped |  Indicates if the item will be skipped.   `TRUE`: The item will be skipped.   `FALSE`: The item won't be skipped.  
+| Subscriptions Item Is Skipped | Indicates if the item will be skipped. <br> `TRUE`: The item will be skipped. <br> `FALSE`: The item won't be skipped. |
 | Subscriptions Item Cycle | Cycle of the subscription item. |
-| Subscriptions Item OriginalOrder | Original order of the subscription item. | 
+| Subscriptions Item OriginalOrder | Original order of the subscription item. |
 
 ## Subscriptions updated between dates
+
 The `subscriptionsUpdatedBetweenDate` report returns data on subscriptions updated within a date range.
 
 The columns correspond to specific information about the subscription, as described below:
 
 | **Field name** | **Description** |
-| :---:  | :--- |
+| :---: | :--- |
 | ID | Subscription ID. |
 | Customer Email | Email address of the customer. |
 | Customer Id | The ID of the customer. |
-| Status |  Status of the subscription when the report was created.   `TRIGGERED`: A subscription cycle run was triggered.   `IN_PROCESS`: The subscription is being processed by the system (temporary status).   `FAILURE`: An internal error occurred while running the subscription.   `SUCCESS`: The subscription cycle was processed successfully.   `EXPIRED`: The subscription wasn't renewed and exceeded the current deadline.   `ORDER_ERROR`: The subscription cycle failed due to a _place order_ error.   `PAYMENT_ERROR`: The subscription cycle failed due to a payment error.   `SKIPPED`: The subscription cycle was skipped; the subscription will run in the next cycle.   `SUCCESS_WITH_NO_ORDER`: The subscription cycle was completed successfully, but no items were in the order.   `SUCCESS_WITH_PARTIAL_ORDER`: A subscription cycle was completed successfully with a partial order.   `RE_TRIGGERED`: A manual re-run of the subscription cycle was triggered.   `SCHEDULE_UPDATED`: The next subscription cycle date was updated.  
-| Has Active Items |  Indicates whether the subscription has active items.   `TRUE`: Has active items.   `FALSE`: No active items.  
-| Is Skipped |  Indicates the subscription cycle will be skipped.   `TRUE`: The cycle will be skipped.   `FALSE`: The cycle won't be skipped.  
+| Status | Status of the subscription when the report was created. <br> `TRIGGERED`: A subscription cycle run was triggered. <br> `IN_PROCESS`: The subscription is being processed by the system (temporary status). <br> `FAILURE`: An internal error occurred while running the subscription. <br> `SUCCESS`: The subscription cycle was processed successfully. <br> `EXPIRED`: The subscription wasn't renewed and exceeded the current deadline. <br> `ORDER_ERROR`: The subscription cycle failed due to a _place order_ error. <br> `PAYMENT_ERROR`: The subscription cycle failed due to a payment error. <br> `SKIPPED`: The subscription cycle was skipped; the subscription will run in the next cycle. <br> `SUCCESS_WITH_NO_ORDER`: The subscription cycle was completed successfully, but no items were in the order. <br> `SUCCESS_WITH_PARTIAL_ORDER`: A subscription cycle was completed successfully with a partial order. <br> `RE_TRIGGERED`: A manual re-run of the subscription cycle was triggered. <br> `SCHEDULE_UPDATED`: The next subscription cycle date was updated. |
+| Has Active Items | Indicates whether the subscription has active items. <br> `TRUE`: Has active items. <br> `FALSE`: No active items. |
+| Is Skipped | Indicates the subscription cycle will be skipped. <br> `TRUE`: The cycle will be skipped. <br> `FALSE`: The cycle won't be skipped. |
 | Next Purchase Date | Date of the next scheduled purchase. |
 | Last Purchase Date | Date of the last purchase. |
 | Periodicity | Frequency of the subscription. |
@@ -135,23 +138,24 @@ The columns correspond to specific information about the subscription, as descri
 | Subscriptions Item Sku Id | SKU of the subscription item. |
 | Subscriptions Item PriceAtSubscriptionDate | Item price at subscription time. |
 | Subscriptions Item Quantity | Number of items in the subscription. |
-| Subscriptions Item Is Skipped |  Indicates if the item will be skipped.   `TRUE`: The item will be skipped.   `FALSE`: The item won't be skipped.  
+| Subscriptions Item Is Skipped | Indicates if the item will be skipped. <br> `TRUE`: The item will be skipped. <br> `FALSE`: The item won't be skipped. |
 | Subscriptions Item Cycle | Cycle of the subscription item. |
-| Subscriptions Item OriginalOrder | Original order of the subscription item. | 
+| Subscriptions Item OriginalOrder | Original order of the subscription item. |
 
 ## Subscriptions created between dates
+
 The `subscriptionsCreatedBetweenDate` report returns data on subscriptions created within a date range.
 
 The columns correspond to specific information about the subscription, as described below:
 
 | **Field name** | **Description** |
-| :---:  | :--- |
+| :---: | :--- |
 | ID | Subscription ID. |
 | Customer Email | Email address of the customer. |
 | Customer Id | The ID of the customer. |
-| Status |  Status of the subscription when the report was created.   `TRIGGERED`: A subscription cycle run was triggered.   `IN_PROCESS`: The subscription is being processed by the system (temporary status).   `FAILURE`: An internal error occurred while running the subscription.   `SUCCESS`: The subscription cycle was processed successfully.   `EXPIRED`: The subscription wasn't renewed and exceeded the current deadline.   `ORDER_ERROR`: The subscription cycle failed due to a _place order_ error.   `PAYMENT_ERROR`: The subscription cycle failed due to a payment error.   `SKIPPED`: The subscription cycle was skipped; the subscription will run in the next cycle.   `SUCCESS_WITH_NO_ORDER`: A subscription cycle was successfully processed, but the associated order has no items.   `SUCCESS_WITH_PARTIAL_ORDER`: A subscription cycle was successfully processed and has a partial order associated.   `RE_TRIGGERED`: A manual re-run of the subscription cycle was triggered.   `SCHEDULE_UPDATED`: The next subscription cycle date was updated.  
-| Has Active Items |  Indicates whether the subscription has active items.   `TRUE`: Has active items.   `FALSE`: No active items.  
-| Is Skipped |  Indicates the subscription cycle will be skipped.   `TRUE`: The cycle will be skipped.   `FALSE`: The cycle won't be skipped.  
+| Status | Status of the subscription when the report was created. <br> `TRIGGERED`: A subscription cycle run was triggered. <br> `IN_PROCESS`: The subscription is being processed by the system (temporary status). <br> `FAILURE`: An internal error occurred while running the subscription. <br> `SUCCESS`: The subscription cycle was processed successfully. <br> `EXPIRED`: The subscription wasn't renewed and exceeded the current deadline. <br> `ORDER_ERROR`: The subscription cycle failed due to a _place order_ error. <br> `PAYMENT_ERROR`: The subscription cycle failed due to a payment error. <br> `SKIPPED`: The subscription cycle was skipped; the subscription will run in the next cycle. <br> `SUCCESS_WITH_NO_ORDER`: A subscription cycle was successfully processed, but the associated order has no items. <br> `SUCCESS_WITH_PARTIAL_ORDER`: A subscription cycle was successfully processed and has a partial order associated. <br> `RE_TRIGGERED`: A manual re-run of the subscription cycle was triggered. <br> `SCHEDULE_UPDATED`: The next subscription cycle date was updated. |
+| Has Active Items | Indicates whether the subscription has active items. <br> `TRUE`: Has active items. <br> `FALSE`: No active items. |
+| Is Skipped | Indicates the subscription cycle will be skipped. <br> `TRUE`: The cycle will be skipped. <br> `FALSE`: The cycle won't be skipped. |
 | Next Purchase Date | Date of the next scheduled purchase. |
 | Last Purchase Date | Date of the last purchase. |
 | Periodicity | Frequency of the subscription. |
@@ -171,30 +175,30 @@ The columns correspond to specific information about the subscription, as descri
 | Subscriptions Item Sku Id | SKU of the subscription item. |
 | Subscriptions Item PriceAtSubscriptionDate | Item price at subscription time. |
 | Subscriptions Item Quantity | Number of items in the subscription. |
-| Subscriptions Item Is Skipped |  Indicates if the item will be skipped.   `TRUE`: The item will be skipped.   `FALSE`: The item won't be skipped.  
+| Subscriptions Item Is Skipped | Indicates if the item will be skipped. <br> `TRUE`: The item will be skipped. <br> `FALSE`: The item won't be skipped. |
 | Subscriptions Item Cycle | Cycle of the subscription item. |
-| Subscriptions Item OriginalOrder | Original order of the subscription item. | 
+| Subscriptions Item OriginalOrder | Original order of the subscription item. |
 
 ## Subscriptions triggered between dates
+
 The `executionsBetweenDate` report returns data on subscriptions executed within a date range.
 
 The columns correspond to specific information about the subscription, as described below:
 
 | **Field name** | **Description** |
-| :---:  | :--- |
-|  Id | Subscription ID. |
-| OrderGroup | ID of the order generated by the report.
+| :---: | :--- |
+| Id | Subscription ID. |
+| OrderGroup | ID of the order generated by the report. |
 | E-mail | Email address of the customer. |
 | Customer Id | The ID of the customer. |
 | Skus | SKUs of the subscription products. |
 | Order | Number of the order. |
 | Value | Price of the subscription. |
 | cycleCount | Number that identifies the cycle of the subscription. |
-| date | Date the subscription was created.
-| IsInRetry |  Indicates if the execution was the result of a retry.   `TRUE`: The execution was the result of a retry.  `FALSE`: The execution wasn't the result of a retry.  
-| Status |  Status of the subscription at the time the report was created.   `TRIGGERED`: A subscription cycle run was triggered.   `IN_PROCESS`: The subscription is being processed by the system (temporary status).   `FAILURE`: An internal error occurred while running the subscription.   `SUCCESS`: The subscription cycle was processed successfully.   `EXPIRED`: The subscription wasn't renewed and exceeded the current deadline.   `ORDER_ERROR`: The subscription cycle failed due to a _place order_ error.   `PAYMENT_ERROR`: The subscription cycle failed due to a payment error.   `SKIPPED`: The subscription cycle was skipped; the subscription will run in the next cycle.   `SUCCESS_WITH_NO_ORDER`: A subscription cycle was successfully processed, but the associated order has no items.   `SUCCESS_WITH_PARTIAL_ORDER`: A subscription cycle was successfully processed and has a partial order associated.   `RE_TRIGGERED`: A manual re-run of the subscription cycle was triggered.   `SCHEDULE_UPDATED`: The next subscription cycle date was updated.  
+| date | Date the subscription was created. |
+| IsInRetry | Indicates if the execution was the result of a retry. <br> `TRUE`: The execution was the result of a retry. <br> `FALSE`: The execution wasn't the result of a retry. |
+| Status | Status of the subscription at the time the report was created. <br> `TRIGGERED`: A subscription cycle run was triggered. <br> `IN_PROCESS`: The subscription is being processed by the system (temporary status). <br> `FAILURE`: An internal error occurred while running the subscription. <br> `SUCCESS`: The subscription cycle was processed successfully. <br> `EXPIRED`: The subscription wasn't renewed and exceeded the current deadline. <br> `ORDER_ERROR`: The subscription cycle failed due to a _place order_ error. <br> `PAYMENT_ERROR`: The subscription cycle failed due to a payment error. <br> `SKIPPED`: The subscription cycle was skipped; the subscription will run in the next cycle. <br> `SUCCESS_WITH_NO_ORDER`: A subscription cycle was successfully processed, but the associated order has no items. <br> `SUCCESS_WITH_PARTIAL_ORDER`: A subscription cycle was successfully processed and has a partial order associated. <br> `RE_TRIGGERED`: A manual re-run of the subscription cycle was triggered. <br> `SCHEDULE_UPDATED`: The next subscription cycle date was updated. |
 | messageParsed | Message returned by Checkout during the subscription run. |
-| CreatedAt | Date the subscription was created.
+| CreatedAt | Date the subscription was created. |
 | LastUpdate | Date of the last update. |
 | ActiveSkus | Active SKUs in the subscription. |
-
