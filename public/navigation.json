@@ -58868,12 +58868,12 @@
             {
               "name": {
                 "en": "Affiliation created in subaccount not listed in Admin; ‘Affiliation name is already used’ on retry",
-                "es": "Afiliación creada en subcuenta no listada en Admin",
+                "es": "Afiliación creada en una subcuenta que no aparece en Admin; «El nombre de la afiliación ya está en uso» al volver a intentarlo.",
                 "pt": "Afiliação criada na subconta não listada no Admin"
               },
               "slug": {
                 "en": "affiliation-created-in-subaccount-not-listed-in-admin-affiliation-name-is-already-used-on-retry",
-                "es": "afiliacion-creada-en-subcuenta-no-listada-en-admin",
+                "es": "afiliacion-creada-en-una-subcuenta-que-no-aparece-en-admin-el-nombre-de-la-afiliacion-ya-esta-en-uso-al-volver-a-intentarlo",
                 "pt": "afiliacao-criada-na-subconta-nao-listada-no-admin"
               },
               "origin": "",
@@ -62003,12 +62003,12 @@
             {
               "name": {
                 "en": "Transactions stuck in \"Canceling\" and payments remain in \"Authorized\"",
-                "es": "Las transacciones se atascan en \"Cancelando\" y los pagos permanecen en \"Autorizado\".",
+                "es": "Las transacciones se quedan atascadas en «Cancelando» y los pagos permanecen en «Autorizado».",
                 "pt": "As transações ficam presas em \"Cancelando\" e os pagamentos permanecem em \"Autorizados\""
               },
               "slug": {
                 "en": "transactions-stuck-in-canceling-and-payments-remain-in-authorized",
-                "es": "las-transacciones-se-atascan-en-cancelando-y-los-pagos-permanecen-en-autorizado",
+                "es": "las-transacciones-se-quedan-atascadas-en-cancelando-y-los-pagos-permanecen-en-autorizado",
                 "pt": "as-transacoes-ficam-presas-em-cancelando-e-os-pagamentos-permanecem-em-autorizados"
               },
               "origin": "",
