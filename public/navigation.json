@@ -36198,37 +36198,6 @@
             },
             {
               "name": {
-                "en": "Storefront - Overview",
-                "es": "Storefront - Información general",
-                "pt": "Storefront - Visão geral"
-              },
-              "slug": {
-                "en": "storefront-overview-subcategory",
-                "es": "vision-general-storefront-subcategoria",
-                "pt": "visão-geral-storefront-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Storefront - Overview",
-                    "es": "Storefront - Información general",
-                    "pt": "Storefront - Visão geral"
-                  },
-                  "slug": {
-                    "en": "storefront-overview",
-                    "es": "vision-general-storefront",
-                    "pt": "visao-geral-storefront"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Styles",
                 "es": "Estilos",
                 "pt": "Estilos"
