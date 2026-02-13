@@ -3,7 +3,7 @@ title: 'Marketplace in Data Pipeline'
 id: 4L3hlSqsnxGqVyxmoYvjTV
 status: PUBLISHED
 createdAt: 2024-11-22T18:54:14.211Z
-updatedAt: 2025-03-07T11:30:02.324Z
+updatedAt: 2025-02-11T12:01:02.324Z
 publishedAt: 2025-03-07T11:30:02.324Z
 firstPublishedAt: 2024-11-22T20:13:33.475Z
 contentType: tutorial
@@ -16,6 +16,7 @@ subcategoryId: oMrzcOMVbBpH0reeMFHFg
 ---
 
 El conjunto de datos `marketplace_in` contiene información histórica sobre cada vendedor de un marketplace, incluyendo su información más importante, como pedidos e inventario.
+Solo la tabla `sellers_latest` incluye todos los vendedores (Sellers externos, Seller Portal y VTEX Sellers). Las demás tablas incluyen datos solo de vendedores del Seller Portal.
 
 Esta sección incluye la siguiente información:
 
@@ -23,9 +24,12 @@ Esta sección incluye la siguiente información:
 - [Tabla: sellers_latest](#tabla-sellers-latest)  
 - [Tabla: sellers_inventory](#tabla-sellers-inventory)  
 - [Tabla: sellers_pricing](#tabla-sellers-pricing)  
+- [Tabla: sellers_promotions](#tabla-sellers-promotions)  
 - [Tabla: sellers_orders](#tabla-sellers-orders)  
+- [Tabla: sellers_orders_items](#tabla-sellers-orders-items)  
+- [Tabla: sellers_orders_rateandbenefitsidentifiers](#tabla-sellers-orders-rateandbenefitsidentifiers)  
 - [Análisis con Marketplace in](#analisis-con-marketplace-in)  
-- [Correlaciones con otros datos](#correlacioines-con-otros-datos)  
+- [Correlaciones con otros datos](#correlaciones-con-otros-datos)  
 
 ## Características de los Datos
 
@@ -135,6 +139,7 @@ Los campos de la tabla se describen a continuación:
 |is_completed|boolean|Especifica si el pedido fue completado.|
 |status|character varying(16383)|Estado actual del pedido, como 'pendiente', 'enviado' o 'facturado'.|
 |sales_channel|character varying(16383)|Canal de ventas a través del cual se realizó el pedido (tienda online, tienda física, etc.).|
+|marketplace_name|character varying(16383)|Nombre del marketplace asociado al pedido.|
 |creation_date|timestamp con zona horaria|Fecha y hora de la creación del pedido, incluyendo la zona horaria.|
 |authorized_date|timestamp con zona horaria|Fecha y hora de autorización del pedido.|
 |invoiced_date|timestamp con zona horaria|Fecha y hora de emisión de la factura del pedido.|
@@ -142,6 +147,66 @@ Los campos de la tabla se describen a continuación:
 |shippingdata_address_city|character varying(65535)|Ciudad de envío del pedido.|
 |shippingdata_address_state|character varying(65535)|Estado de envío del pedido.|
 |shippingdata_address_country|character varying(65535)|País de envío del pedido.|
+
+## Tabla: sellers_orders_items
+
+La tabla *sellers_orders_items* almacena detalles de los ítems en pedidos realizados por vendedores del VTEX Seller Portal. Los campos de la tabla se describen a continuación:
+
+|**Nombre de la Columna** | **Tipo de Columna** | **Descripción de la Columna**|
+|:---:|:---:|:---:|
+|item_id | character varying(65535) | Identificador único del ítem dentro del pedido. Puede asociarse con la tabla sellers_inventory para detalles adicionales.|
+|product_id | character varying(65535) | Identificador del producto asociado al ítem.|
+|order_id | character varying(16383) | Identificador único del pedido. Puede asociarse con las tablas de pedidos para detalles adicionales.|
+|seller_id | character varying | Identificador del vendedor en `sellers_latest`.|
+|main_account | character varying | Cuenta principal asociada al vendedor.|
+|hostname | character varying(16383) | Nombre del host asociado al pedido, que indica el servidor o dominio que gestiona el pedido.|
+|marketplace_name | character varying(16383) | Nombre del marketplace donde se realizó el pedido.|
+|seller_integration_type | character varying | Tipo de integración del vendedor. En esta tabla, siempre es 'VTEX Seller Portal'.|
+|seller_is_active | boolean | Indica si el vendedor está activo en este momento.|
+|status | character varying(16383) | Estado actual del pedido.|
+|tax | double precision | Valor de impuestos aplicado al ítem (convertido de centavos a unidades monetarias).|
+|quantity | integer | Cantidad del producto en el pedido.|
+|seller | character varying(65535) | Identificador o nombre del vendedor del producto conforme registrado en el pedido.|
+|sellersku | character varying(65535) | SKU del producto conforme listado por el vendedor.|
+|pricevaliduntil | timestamp with time zone | Fecha y hora hasta cuando el precio del producto es válido.|
+|name | character varying(65535) | Nombre del producto.|
+|additionalinfo_brandname | character varying(65535) | Marca del producto.|
+|additionalinfo_brandid | character varying(65535) | Identificador de la marca del producto.|
+|additionalinfo_categoriesid | character varying(65535) | Identificadores de categorías asociadas al producto.|
+|additionalinfo_dimension_cubicweight | double precision | Peso cúbico del producto para fines de envío.|
+|additionalinfo_dimension_height | double precision | Altura del producto.|
+|additionalinfo_dimension_length | double precision | Longitud del producto.|
+|additionalinfo_dimension_weight | double precision | Peso del producto.|
+|additionalinfo_dimension_width | double precision | Ancho del producto.|
+|price | double precision | Precio del producto (convertido de centavos a unidades monetarias).|
+|pricetags | super | Price tags asociadas al producto, incluyendo descuentos y ofertas.|
+|sellingprice | double precision | Precio de venta del producto (convertido de centavos a unidades monetarias).|
+|listprice | double precision | Precio de lista del producto (convertido de centavos a unidades monetarias).|
+|imageurl | character varying(65535) | URL de la imagen del producto.|
+|measurementunit | character varying(65535) | Unidad de medida del producto.|
+|unitmultiplier | double precision | Multiplicador de unidad del producto, usado en cálculos de precio y cantidad.|
+|creationdate | timestamp with time zone | Fecha y hora de creación del pedido, incluyendo la zona horaria.|
+|lastchange | timestamp with time zone | Fecha y hora de la última modificación al pedido.|
+|batch_id | character varying(13) | Identificador usado cuando los datos se cargan para control de calidad de la ingestión.|
+|uniqueid | character varying(65535) | Identificador único del ítem, que puede usarse para relacionar esta fila con otras tablas.|
+
+## Tabla: sellers_orders_rateandbenefitsidentifiers
+
+La tabla *sellers_orders_rateandbenefitsidentifiers* contiene datos sobre promociones aplicadas a pedidos de vendedores. Los campos de la tabla se describen a continuación:
+
+|**Nombre de la Columna** | **Tipo de Columna** | **Descripción de la Columna**|
+|:---:|:---:|:---:|
+|orderid | character varying(16383) | Identificador único de cada pedido.|
+|hostname | character varying(16383) | Nombre del host asociado al pedido, que indica el servidor o dominio que gestiona el pedido.|
+|marketplace_name | character varying(16383) | Nombre del marketplace asociado al pedido.|
+|creationdate | timestamp with time zone | Fecha y hora de creación del pedido, incluyendo la zona horaria.|
+|lastchange | timestamp with time zone | Fecha y hora de la última modificación al pedido, reflejando el estado o contenido más reciente.|
+|status | character varying(16383) | Estado actual del pedido.|
+|rateandbenefitsidentifiers_id | character varying(65535) | Identificador único de los rate and benefits identifiers asociados al pedido.|
+|rateandbenefitsidentifiers_name | character varying(65535) | Nombre de los rate and benefits identifiers, que identifica la promoción o recargo.|
+|rateandbenefitsidentifiers_featured | boolean | Indica si los rate and benefits identifiers están destacados o tienen alguna característica especial.|
+|rateandbenefitsidentifiers_description | character varying(65535) | Descripción detallada de los rate and benefits identifiers y sus beneficios.|
+|batch_id | character varying(13) | Identificador usado cuando los datos se cargan en la tabla para control de calidad de la ingestión.|
 
 ## Análisis con marketplace_in
 
@@ -165,5 +230,4 @@ Los datos de marketplace in están estrechamente relacionados con los datos de p
 - [Precios](/es/docs/tutorials/precios-data-pipeline-beta)  
 - [Promociones](/es/docs/tutorials/promociones)  
 - [Tarjetas de Regalo](/es/docs/tutorials/tarjeta-de-regalo-data-pipeline)  
-[Registros del Bridge](/es/docs/tutorials/registros-del-bridge-data-pipeline)
-
+- [Registros del Bridge](/es/docs/tutorials/registros-del-bridge-data-pipeline)
