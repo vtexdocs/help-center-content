@@ -83,6 +83,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "February",
+                "es": "Febrero",
+                "pt": "Fevereiro"
+              },
+              "slug": {
+                "en": "february",
+                "es": "febrero",
+                "pt": "fevereiro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Bulk coupon creation",
+                    "es": "Creación de cupones en lote",
+                    "pt": "Criação de cupons em lote"
+                  },
+                  "slug": {
+                    "en": "bulk-coupon-creation",
+                    "es": "creacion-de-cupones-en-lote",
+                    "pt": "criacao-de-cupons-em-lote"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
