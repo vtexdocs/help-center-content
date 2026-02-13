@@ -7,9 +7,9 @@ productTeam: B2B
 slugEN: customizable-fields-in-b2b-checkout
 locale: pt
 ---
-**Campos customizáveis no checkout B2B** permitem que a organization unit capture informações de negócio durante a compra e mantenha esses dados padronizados no B2B Buyer Portal.
+**Campos customizáveis no checkout B2B** permitem que a Organizational Unit capture informações de negócio durante a compra e mantenha esses dados padronizados no B2B Buyer Portal.
 
-Por meio desta funcionalidade, a organization unit cria os campos necessários para o processo de compra, define em que etapa do FastCheckout eles aparecem e coleta as informações de forma estruturada. Além disso, com a configuração de **Valores padrão**, é possível pré-preencher esses campos para agilizar o checkout e reduzir erros de preenchimento.
+Por meio desta funcionalidade, a Organizational Unit cria os campos necessários para o processo de compra, define em que etapa do FastCheckout eles aparecem e coleta as informações de forma estruturada. Além disso, com a configuração de **Valores padrão**, é possível pré-preencher esses campos para agilizar o checkout e reduzir erros de preenchimento.
 
 
 > ⚠️ A funcionalidade [Campos customizáveis no checkout B2B](https://developers.vtex.com/docs/guides/custom-fields-integration) está disponível apenas para B2B Buyer Portal. É necessária autorização do Commerce Engineer da conta para uso.
