@@ -14,7 +14,7 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 
 Os **templates de promoção** permitem ao lojista salvar configurações recorrentes para reutilização na criação de novas promoções. Essa abordagem reduz o tempo de configuração e garante consistência entre promoções com regras semelhantes.
 
-Um template funciona como um modelo base ao aplicá-lo, o formulário de criação da promoção é automaticamente preenchido com as configurações previamente salvas.
+Um template funciona como um modelo base, ao aplicá-lo, o formulário de criação da promoção é automaticamente preenchido com as configurações previamente salvas.
 
 ## Criar template vazio
 
