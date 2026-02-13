@@ -25,7 +25,7 @@ Os passos para a configuração de uma buying policy são:
 
 1. O usuário configura o critério de avaliação de pedidos.
 2. Este critério é associado a uma ação, que pode ser:
-    * Aprovar o pedidos
+    * Aprovar o pedido
     * Negar o pedido
     * Exigir aprovação manual
 3. Para a aprovação manual, o usuário configura de um a cinco níveis de aprovação hierárquica, nos quais cada nível pode negar o pedido, mas sua aprovação depende da avaliação de todos.
