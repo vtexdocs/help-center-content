@@ -20,7 +20,7 @@ O módulo de **Promoções** da VTEX passa a contar com o [gerenciamento de temp
 
 Antes, cada promoção precisava ser criada do zero. Mesmo em cenários recorrentes, como promoções com regras semelhantes, o lojista precisava configurar manualmente todas as condições e benefícios a cada nova promoção.
 
-Agora, o lojista pode criar, editar e excluir templates de promoção diretamente no fluxo de criação de promoções. Um template funciona como um modelo pré-configurado. Ao selecioná-lo, o formulário de **Nova promoção** é automaticamente preenchido com as configurações salvas, reduzindo etapas manuais, retrabalho e variações indesejadas entre promoções.
+Agora, o lojista pode criar, editar e excluir templates de promoção diretamente no fluxo de criação de promoções. Um template funciona como um modelo pré-configurado. Quando selecionado, o formulário de **Nova promoção** é automaticamente preenchido com as configurações salvas, reduzindo para o lojista etapas manuais, retrabalho e variações indesejadas entre promoções.
 
 Para mais informações sobre o funcionamento e as regras dos templates de promoção, veja [Gerenciamento de templates de promoção](link).
 
