@@ -38,7 +38,7 @@ Parâmetros que definem a estrutura de um campo customizável em um contrato B2B
 
 ### Valores de campos customizáveis do checkout
 
-Valores pré-definidos para campos customizáveis do tipo `option`. Esses valores permitem uma seleção controlada no checkout e possuem IDs únicos, utilizados em integrações e regras B2B, como budgets e buying policies.
+Valores pré-definidos para campos customizáveis do tipo `option`. Esses valores permitem uma seleção controlada no checkout e possuem IDs únicos, utilizados em integrações e regras B2B, como Budgets e Buying Policies.
 
 ### Valores padrão
 
@@ -66,7 +66,7 @@ Uma indústria precisa registrar o centro de custo e o número de PO em todos os
 
 Uma rede com múltiplas unidades deseja reduzir erros de endereço e cobrança. Ela configura valores padrão por Organizational Unit para que, após o login, o checkout seja preenchido automaticamente com endereço, cartão e valores dos campos customizáveis específicos daquela unidade.
 
-### Integração com budgets e buying policies
+### Integração com Budgets e Buying Policies
 
 Uma organização utiliza centros de custo para aplicar regras de compra e limites financeiros. Ela define os centros de custo como valores de campos customizáveis e referencia seus IDs em [budgets](https://help.vtex.com/pt/docs/tutorials/visao-geral-de-budgets) e buying policies, garantindo estabilidade das regras mesmo quando os nomes exibidos são alterados.
 
