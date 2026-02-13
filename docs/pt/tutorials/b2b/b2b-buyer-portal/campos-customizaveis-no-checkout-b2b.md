@@ -9,16 +9,16 @@ locale: pt
 ---
 **Campos customizáveis no checkout B2B** permitem que a Organizational Unit capture informações de negócios durante a compra e mantenha esses dados padronizados no B2B Buyer Portal.
 
-Por meio desta funcionalidade, a Organizational Unit cria os campos necessários para o processo de compra, define em que etapa do Fast Checkout eles aparecem e coleta as informações de forma estruturada. Além disso, com a configuração de **Valores padrão**, é possível pré-preencher esses campos para agilizar o checkout e reduzir erros de preenchimento.
+Por meio desta funcionalidade, a Organizational Unit cria os campos necessários ao processo de compra, define em que etapa do Fast Checkout eles aparecem e coleta as informações de forma estruturada. Além disso, com a configuração de **Valores padrão**, é possível pré-preencher esses campos para agilizar o checkout e reduzir erros de preenchimento.
 
 
-> ⚠️ A funcionalidade [Campos customizáveis no checkout B2B](https://developers.vtex.com/docs/guides/custom-fields-integration) está disponível apenas para B2B Buyer Portal. É necessária autorização do Commerce Engineer da conta para uso.
+> ⚠️ A funcionalidade [Campos customizáveis no checkout B2B](https://developers.vtex.com/docs/guides/custom-fields-integration) está disponível apenas para B2B Buyer Portal. É necessária a autorização do Commerce Engineer da conta para uso.
 
 ## Conceitos-chave
 
 ### Campos customizáveis no checkout
 
-Campos configuráveis definidos por Buyer Organizations para coletar informações específicas durante o checkout, como dados contábeis, rastreabilidade interna e requisitos de conformidade.
+Campos configuráveis definidos por Organizational Units para coletar informações específicas durante o checkout, como dados contábeis, rastreabilidade interna e requisitos de conformidade.
 
 Esses campos podem ser aplicados nos níveis de:
 
@@ -50,7 +50,7 @@ Documento que define, por Organizational Unit, quais entidades devem ser utiliza
 
 Cada entrada referencia a entidade e o ID do valor selecionado.
 
-> ⚠️ Apenas campos customizáveis  do tipo ``option`` podem ser configurados como valores padrão. Isso garante que a seleção seja feita por ID, e não pelo texto exibido no checkout.
+> ⚠️ Apenas campos customizáveis  do tipo `option` podem ser configurados como valores padrão. Isso garante que a seleção seja feita com base no ID e não no texto exibido no checkout.
 
 ### Aplicação no orderForm
 
@@ -60,11 +60,11 @@ Durante o checkout, os valores dos campos customizáveis são aplicados ao order
 
 ### Captura de campos obrigatórios de negócios no checkout
 
-Uma indústria precisa registrar centro de custo e número de PO em todos os pedidos. Ela configura campos customizáveis obrigatórios no nível de pedido, garantindo que essas informações sejam preenchidas antes da finalização do pedido.
+Uma indústria precisa registrar o centro de custo e o número de PO em todos os pedidos. Ela configura campos customizáveis obrigatórios no nível de pedido, garantindo que essas informações sejam preenchidas antes da finalização do pedido.
 
 ### Checkout pré-preenchido por Organizational Unit
 
-Uma rede com múltiplas unidades deseja reduzir erros de endereço e cobrança. Ela configura valores padrão por Organizational Unit para que, após o login, o checkout seja automaticamente preenchido com endereço, cartão e valores de campos customizáveis específicos daquela unidade.
+Uma rede com múltiplas unidades deseja reduzir erros de endereço e cobrança. Ela configura valores padrão por Organizational Unit para que, após o login, o checkout seja preenchido automaticamente com endereço, cartão e valores dos campos customizáveis específicos daquela unidade.
 
 ### Integração com budgets e buying policies
 
@@ -72,8 +72,8 @@ Uma organização utiliza centros de custo para aplicar regras de compra e limit
 
 ### Migração de preferências
 
-Uma empresa migra de ERP e deseja preservar preferências por Organizational Unit. Ela importa endereços, cartões e valores de campos customizáveis para o Master Data, assegurando continuidade no processo B2B desde o primeiro pedido.
+Uma empresa migra de um ERP e deseja preservar as preferências de Organizational Unit. Ela importa endereços, cartões e valores de campos customizáveis para o Master Data, assegurando continuidade no processo B2B desde o primeiro pedido.
 
 ### Padronização e governança
 
-Um time de governança precisa padronizar escolhas no checkout e evitar variações locais. Ele centraliza Valores padrão por Organizational Unit, garantindo que as compras sigam regras de dados e conformidade definidas pela organização.
+Um time de governança precisa padronizar as escolhas no checkout e evitar variações locais. Ele centraliza Valores padrão por Organizational Unit, garantindo que as compras sigam regras de dados e conformidade definidas pela organização.
