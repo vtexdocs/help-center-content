@@ -10,18 +10,25 @@ locale: pt
 
 > ⚠️ A funcionalidade **Buying Policies** está disponível apenas para o **B2B Buyer Portal**.
 
-**Buying Policies** é a funcionalidade pela qual os usuários da organização compradora configuram mecanismos e definem critérios para autorizar ou negar pedidos automaticamente. Ela opera como uma camada de controle no processo de compra, permitindo a criação de fluxos personalizados de revisão de pedidos. A solução contribui para uma maior governança da organização e promove maior conformidade com as políticas de compra vigentes.
+**Buying Policies** é a funcionalidade pela qual os usuários da organização compradora configuram mecanismos e definem critérios para autorizar ou negar pedidos automaticamente. Ela opera como uma camada de controle no processo de compra, permitindo a criação de fluxos personalizados de revisão de pedidos.
 
-Além disso, para oferecer mais flexibilidade e englobar diferentes cenários de compra, os usuários podem configurar regras para aprovação manual de pedidos ou definir situações nas quais os pedidos podem ser automaticamente aprovados (bypass), independentemente de haver regras aplicáveis.
-
-## Critérios de aprovação de pedidos
-
-As regras para aprovação ou negação de pedidos podem ser criadas com base em diferentes critérios, tais como:
+A solução contribui para uma maior governança da organização e promove maior conformidade com as políticas de compra vigentes, e seus mecanismos permitem a combinação de diversos tipos de regras:
 
 * **Limite de gastos:** limites de gastos por pedido, garantindo que pedidos acima, abaixo ou equivalentes a determinados valores exijam aprovação.
-* **Critérios de compra:** regras específicas que determinam quando um pedido deve passar por aprovação, com base em múltiplos fatores (limites, budgets, entre outros).
-* **Fluxo de aprovação:** processo multinível de aprovação que pode variar conforme a complexidade organizacional.
-* **Gestão de pedidos em aprovação:** acompanhamento de pedidos que estão aguardando aprovação, garantindo que somente após a aprovação eles possam prosseguir.
+* **Critérios de compra:** regras específicas que determinam quando um pedido deve passar por aprovação, com base em múltiplos fatores (limites, budgets, origem do pedido, entre outros).
+* **Fluxo de aprovação:** processo multinível de aprovação, que pode variar conforme a complexidade organizacional.
+* **Gestão de pedidos em aprovação:** acompanhamento de pedidos que estão aguardando aprovação, garantindo que somente após a aprovação eles possam prosseguir no fluxo.
+
+## Funcionamento geral
+
+Os passos para a configuração de uma buying policy são:
+
+1. O usuário configura o critério de avaliação de pedidos.
+2. Este critério é associado a uma ação, que pode ser:
+    * Aprovar o pedidos
+    * Negar o pedido
+    * Exigir aprovação manual
+3. Para a aprovação manual, o usuário configura de um a cinco níveis de aprovação hierárquica, nos quais cada nível pode negar o pedido, mas sua aprovação depende da avaliação de todos.
 
 ## Permissões de Storefront
 
