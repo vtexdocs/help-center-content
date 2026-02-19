@@ -27008,14 +27008,14 @@
           "children": [
             {
               "name": {
-                "en": "Foresight Commerce Academy",
-                "es": "Foresight Commerce Academy",
-                "pt": "Foresight Commerce Academy"
+                "en": "VTEX Academy",
+                "es": "VTEX Academy",
+                "pt": "VTEX Academy"
               },
               "slug": {
-                "en": "foresight-commerce-academy-subcategory",
-                "es": "foresight-commerce-academy-subcategoria",
-                "pt": "foresight-commerce-academy-subcategoria"
+                "en": "vtex-academy-subcategory",
+                "es": "vtex-academy-subcategoria",
+                "pt": "vtex-academy-subcategoria"
               },
               "origin": "",
               "type": "category",
