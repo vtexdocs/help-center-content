@@ -1,5 +1,5 @@
 ---
-title: 'B2B Suite - Overview'
+title: 'B2B Suite - Overview (B2B Suite)'
 id: 5eG6UfveWrai7looK0kVG3
 status: PUBLISHED
 createdAt: 2024-05-09T10:31:51.517Z
@@ -16,6 +16,7 @@ subcategoryId: 1PSq4adEARlFaK5Mdv74Y7
 order: 2
 ---
 
+> ⚠️ This documentation applies to B2B Suite only.
 
 B2B Suite is a collection of [VTEX IO](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-io) apps that helps stores manage organizations, permissions, and checkout settings in B2B scenarios, among other benefits. This is very important for streamlining the purchase flow, reducing costs, and providing a personalized shopping experience.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Gerenciamento de Coleções no B2B'
+title: 'Gerenciamento de Coleções no B2B (B2B Suite)'
 id: 7aOduycwN3BeDqNo2kNDJk
 status: PUBLISHED
 createdAt: 2024-08-06T16:19:05.159Z
@@ -14,6 +14,8 @@ legacySlug: gerenciamento-de-colecoes-no-b2b
 locale: pt
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
+
+> ⚠️ Esta documentação se aplica apenas ao B2B Suite.
 
 Em uma operação B2B, a funcionalidade de coleções permite os administradores agruparem produtos específicos para facilitar o gerenciamento de ofertas, promoções e condições comerciais personalizadas para diferentes organizações. 
 

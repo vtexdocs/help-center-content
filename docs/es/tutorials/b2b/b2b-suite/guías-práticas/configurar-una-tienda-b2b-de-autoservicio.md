@@ -1,5 +1,5 @@
 ---
-title: 'Configurar una tienda B2B de autoservicio'
+title: 'Configurar una tienda B2B de autoservicio (B2B Suite)'
 id: 4576nMaRKk4madDZ7liiXS
 status: PUBLISHED
 createdAt: 2021-03-30T13:11:03.141Z
@@ -14,6 +14,8 @@ legacySlug: configurar-una-tienda-b2b-de-autoservicio
 locale: es
 subcategoryId: 2LrbEY7MFeKqmdfYLBCnfi
 ---
+
+> ⚠️ Esta documentación se aplica solo a B2B Suite.
 
 El escenario de autoservicio es la opción más flexible para B2B. Permite que el cliente pueda realizar el flujo de compra sin necesidad de interacción con los vendedores, lo cual reduce la fricción en el flujo de compra. Por eso, el autoservicio es un proceso que se parece a la compra en B2C. 
 

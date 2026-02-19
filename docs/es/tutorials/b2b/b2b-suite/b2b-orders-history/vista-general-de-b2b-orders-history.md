@@ -1,5 +1,5 @@
 ---
-title: 'B2B Orders History - Información general'
+title: 'B2B Orders History - Información general (B2B Suite)'
 id: C2i93MZmjSrqhEx16YYuA
 status: PUBLISHED
 createdAt: 2024-07-26T13:17:45.094Z
@@ -14,6 +14,8 @@ legacySlug: vista-general-de-b2b-orders-history
 locale: es
 subcategoryId: 2LaAukjQB4QEbqSYdgjq7l
 ---
+
+> ⚠️ Esta documentación se aplica solo a B2B Suite.
 
 En una [operación B2B](/es/docs/tutorials/b2b-vision-general), varios usuarios de una misma organización realizan pedidos en nombre de la empresa. La aplicación **B2B Orders History** atiende estas necesidades específicas, permitiendo que los usuarios vean y gestionen pedidos de forma integrada y colaborativa.
 

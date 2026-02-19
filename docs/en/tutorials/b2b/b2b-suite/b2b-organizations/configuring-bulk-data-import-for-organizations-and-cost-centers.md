@@ -1,5 +1,5 @@
 ---
-title: 'Configuring bulk data import for organizations and cost centers'
+title: 'Configuring bulk data import for organizations and cost centers (B2B Suite)'
 id: 41FwcZHF3GctzKcgyKGaoF
 status: PUBLISHED
 createdAt: 2024-04-25T11:45:15.945Z
@@ -14,6 +14,8 @@ legacySlug: configuring-bulk-data-import-for-organizations-and-cost-centers
 locale: en
 subcategoryId: 6bSdupUQgvuXjBL9Igawxl
 ---
+
+> ⚠️ This documentation applies to B2B Suite only.
 
 Bulk data import simplifies the process of updating and maintaining information for buyer organizations, their users (members), and cost centers.
 

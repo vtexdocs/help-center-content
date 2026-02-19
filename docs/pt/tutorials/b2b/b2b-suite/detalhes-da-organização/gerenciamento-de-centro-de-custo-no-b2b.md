@@ -1,5 +1,5 @@
 ---
-title: 'Gerenciamento de centro de custo no B2B'
+title: 'Gerenciamento de centro de custo no B2B (B2B Suite)'
 id: 2fjt1Layng8iKdvEEzRhuk
 status: PUBLISHED
 createdAt: 2024-07-25T10:55:43.882Z
@@ -14,6 +14,8 @@ legacySlug: gerenciamento-de-centro-de-custo-no-b2b
 locale: pt
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
+
+> ⚠️ Esta documentação se aplica apenas ao B2B Suite.
 
 No contexto das organizações B2B, os centros de custos representam unidades de negócios ou departamentos que estão vinculados a uma organização específica. A funcionalidade permite o gerenciamento e a associação de centros de custos relevantes à sua organização, o que facilita a atribuição e análise de despesas financeiras.
 

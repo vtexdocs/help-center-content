@@ -1,5 +1,5 @@
 ---
-title: 'Gerenciamento de permissões no B2B Suite'
+title: 'Gerenciamento de permissões no B2B Suite (B2B Suite)'
 id: 2PLR7mIFxgbmsGq84paLeA
 status: PUBLISHED
 createdAt: 2024-06-05T18:01:03.375Z
@@ -14,6 +14,8 @@ legacySlug: gerenciamento-de-permissoes-no-b2b-suite
 locale: pt
 subcategoryId: 1qGLxbxcX8kwKSWESbLZca
 ---
+
+> ⚠️ Esta documentação se aplica apenas ao B2B Suite.
 
 Em uma organização, o Organization Admin (usuário principal) é o responsável por gerenciar o acesso de diferentes pessoas em uma loja B2B. Para realizar esta ação, ele utiliza o sistema de permissões no B2B Suite.
 
