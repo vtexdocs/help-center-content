@@ -17097,9 +17097,9 @@
                   "children": [
                     {
                       "name": {
-                        "en": "B2B Checkout Settings",
-                        "es": "B2B Checkout Settings",
-                        "pt": "Configurações de Checkout no B2B"
+                        "en": "B2B Checkout Settings (B2B Suite)",
+                        "es": "B2B Checkout Settings (B2B Suite)",
+                        "pt": "Configurações de Checkout no B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "b2b-checkout-settings",
@@ -17128,9 +17128,9 @@
                   "children": [
                     {
                       "name": {
-                        "en": "B2B Orders History - Overview",
-                        "es": "B2B Orders History - Información general",
-                        "pt": "Histórico de Pedidos B2B - Visão geral"
+                        "en": "B2B Orders History - Overview (B2B Suite)",
+                        "es": "B2B Orders History - Información general (B2B Suite)",
+                        "pt": "Histórico de Pedidos B2B - Visão geral (B2B Suite)"
                       },
                       "slug": {
                         "en": "overview-of-b2b-orders-history",
@@ -17159,9 +17159,9 @@
                   "children": [
                     {
                       "name": {
-                        "en": "B2B Store Settings",
-                        "es": "Configuración de tiendas B2B",
-                        "pt": "Configurando lojas B2B"
+                        "en": "B2B Store Settings (B2B Suite)",
+                        "es": "Configuración de tiendas B2B (B2B Suite)",
+                        "pt": "Configurando lojas B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "b2b-store-settings",
@@ -17174,9 +17174,9 @@
                     },
                     {
                       "name": {
-                        "en": "Configuring bulk data import for organizations and cost centers",
-                        "es": "Configurar la importación en masa de datos de organizaciones y centros de costos",
-                        "pt": "Configurando a importação em massa de dados sobre organizações e centros de custos"
+                        "en": "Configuring bulk data import for organizations and cost centers (B2B Suite)",
+                        "es": "Configurar la importación en masa de datos de organizaciones y centros de costos (B2B Suite)",
+                        "pt": "Configurando a importação em massa de dados sobre organizações e centros de custos (B2B Suite)"
                       },
                       "slug": {
                         "en": "configuring-bulk-data-import-for-organizations-and-cost-centers",
@@ -17189,9 +17189,9 @@
                     },
                     {
                       "name": {
-                        "en": "Managing B2B organizations",
-                        "es": "Gestión de organizaciones B2B",
-                        "pt": "Gerenciamento de organizações B2B"
+                        "en": "Managing B2B organizations (B2B Suite)",
+                        "es": "Gestión de organizaciones B2B (B2B Suite)",
+                        "pt": "Gerenciamento de organizações B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "managing-b2b-organizations",
@@ -17204,9 +17204,9 @@
                     },
                     {
                       "name": {
-                        "en": "Requesting a new organization",
-                        "es": "Registrar una nueva organización",
-                        "pt": "Cadastro de nova organização"
+                        "en": "Requesting a new organization (B2B Suite)",
+                        "es": "Registrar una nueva organización (B2B Suite)",
+                        "pt": "Cadastro de nova organização (B2B Suite)"
                       },
                       "slug": {
                         "en": "requesting-a-new-organization",
@@ -17235,9 +17235,9 @@
                   "children": [
                     {
                       "name": {
-                        "en": "Managing B2B quotes",
-                        "es": "Gestionar cotizaciones en B2B",
-                        "pt": "Gerenciamento de cotações no B2B"
+                        "en": "Managing B2B quotes (B2B Suite)",
+                        "es": "Gestionar cotizaciones en B2B (B2B Suite)",
+                        "pt": "Gerenciamento de cotações no B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "managing-b2b-quotes",
@@ -17266,9 +17266,9 @@
                   "children": [
                     {
                       "name": {
-                        "en": "B2B collection management",
-                        "es": "Gestión de colecciones en B2B",
-                        "pt": "Gerenciamento de Coleções no B2B"
+                        "en": "B2B collection management (B2B Suite)",
+                        "es": "Gestión de colecciones en B2B (B2B Suite)",
+                        "pt": "Gerenciamento de Coleções no B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "b2b-collection-management",
@@ -17281,9 +17281,9 @@
                     },
                     {
                       "name": {
-                        "en": "B2B cost center management",
-                        "es": "Gestión de centros de costos en B2B",
-                        "pt": "Gerenciamento de centro de custo no B2B"
+                        "en": "B2B cost center management (B2B Suite)",
+                        "es": "Gestión de centros de costos en B2B (B2B Suite)",
+                        "pt": "Gerenciamento de centro de custo no B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "b2b-cost-center-management",
@@ -17296,9 +17296,9 @@
                     },
                     {
                       "name": {
-                        "en": "B2B organization general settings",
-                        "es": "Configuración general de organizaciones B2B",
-                        "pt": "Configurações gerais da organização B2B"
+                        "en": "B2B organization general settings (B2B Suite)",
+                        "es": "Configuración general de organizaciones B2B (B2B Suite)",
+                        "pt": "Configurações gerais da organização B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "b2b-organization-general-settings",
@@ -17311,9 +17311,9 @@
                     },
                     {
                       "name": {
-                        "en": "B2B trade policies - Overview",
-                        "es": "Políticas comerciales en B2B - Información general",
-                        "pt": "Política comercial no B2B - Visão geral"
+                        "en": "B2B trade policies - Overview (B2B Suite)",
+                        "es": "Políticas comerciales en B2B - Información general (B2B Suite)",
+                        "pt": "Política comercial no B2B - Visão geral (B2B Suite)"
                       },
                       "slug": {
                         "en": "b2b-trade-policies-overview",
@@ -17326,9 +17326,9 @@
                     },
                     {
                       "name": {
-                        "en": "Configuring payment conditions for B2B",
+                        "en": "Configuring payment conditions for B2B (B2B Suite)",
                         "es": "Configurar condiciones de pago B2B",
-                        "pt": "Configurando condições de pagamento B2B"
+                        "pt": "Configurando condições de pagamento B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "configuring-payment-conditions-for-b2b",
@@ -17341,9 +17341,9 @@
                     },
                     {
                       "name": {
-                        "en": "Configuring seller allocation for buying",
-                        "es": "Configurar la asignación de sellers a organizaciones compradoras (B2B)",
-                        "pt": "Configurando atribuição de sellers à organizações compradoras (B2B)"
+                        "en": "Configuring seller allocation for buying (B2B Suite)",
+                        "es": "Configurar la asignación de sellers a organizaciones compradoras (B2B Suite)",
+                        "pt": "Configurando atribuição de sellers à organizações compradoras (B2B Suite)"
                       },
                       "slug": {
                         "en": "configuring-seller-allocation-for-buying-xky",
@@ -17356,9 +17356,9 @@
                     },
                     {
                       "name": {
-                        "en": "Custom fields when adding an organization",
-                        "es": "Campos personalizados en el registro de organizaciones",
-                        "pt": "Campos personalizados no cadastro de organização"
+                        "en": "Custom fields when adding an organization (B2B Suite)",
+                        "es": "Campos personalizados en el registro de organizaciones (B2B Suite)",
+                        "pt": "Campos personalizados no cadastro de organização (B2B Suite)"
                       },
                       "slug": {
                         "en": "custom-fields-when-adding-an-organization",
@@ -17371,9 +17371,9 @@
                     },
                     {
                       "name": {
-                        "en": "Managing users in B2B organizations",
-                        "es": "Gestión de usuarios en organizaciones B2B",
-                        "pt": "Gerenciamento de Usuários em organizações B2B"
+                        "en": "Managing users in B2B organizations (B2B Suite)",
+                        "es": "Gestión de usuarios en organizaciones B2B (B2B Suite)",
+                        "pt": "Gerenciamento de Usuários em organizações B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "managing-users-in-b2b-organizations",
@@ -17386,9 +17386,9 @@
                     },
                     {
                       "name": {
-                        "en": "Price table management in B2B organizations",
-                        "es": "Gestionar tablas de precios en organizaciones B2B",
-                        "pt": "Gerenciamento de tabelas de preços em organizações B2B"
+                        "en": "Price table management in B2B organizations (B2B Suite)",
+                        "es": "Gestionar tablas de precios en organizaciones B2B (B2B Suite)",
+                        "pt": "Gerenciamento de tabelas de preços em organizações B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "price-table-management-in-b2b-organizations",
@@ -17417,24 +17417,9 @@
                   "children": [
                     {
                       "name": {
-                        "en": "B2B – Overview",
-                        "es": "B2B - Información general",
-                        "pt": "B2B – Visão geral"
-                      },
-                      "slug": {
-                        "en": "b2b-overview",
-                        "es": "b2b-vision-general",
-                        "pt": "b2b-visao-geral"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "B2B Suite - Overview",
-                        "es": "B2B Suite - Información general",
-                        "pt": "B2B Suite - Visão geral"
+                        "en": "B2B Suite - Overview (B2B Suite)",
+                        "es": "B2B Suite - Información general (B2B Suite)",
+                        "pt": "B2B Suite - Visão geral (B2B Suite)"
                       },
                       "slug": {
                         "en": "b2b-suite-overview",
@@ -17447,9 +17432,9 @@
                     },
                     {
                       "name": {
-                        "en": "What is Order Configuration",
-                        "es": "Qué es Order Configuration",
-                        "pt": "O que é Order Configuration"
+                        "en": "What is Order Configuration (B2B Suite)",
+                        "es": "Qué es Order Configuration (B2B Suite)",
+                        "pt": "O que é Order Configuration (B2B Suite)"
                       },
                       "slug": {
                         "en": "what-is-order-configuration",
@@ -17478,9 +17463,9 @@
                   "children": [
                     {
                       "name": {
-                        "en": "Configuring B2B self-service stores",
-                        "es": "Configurar una tienda B2B de autoservicio",
-                        "pt": "Configurar loja B2B self-service"
+                        "en": "Configuring B2B self-service stores (B2B Suite)",
+                        "es": "Configurar una tienda B2B de autoservicio (B2B Suite)",
+                        "pt": "Configurar loja B2B self-service (B2B Suite)"
                       },
                       "slug": {
                         "en": "configuring-b2b-self-service-stores",
@@ -17493,9 +17478,9 @@
                     },
                     {
                       "name": {
-                        "en": "Facilitating B2B store operation",
-                        "es": "Facilitar la operación de una tienda B2B",
-                        "pt": "Facilitar a operação da loja B2B"
+                        "en": "Facilitating B2B store operation (B2B Suite)",
+                        "es": "Facilitar la operación de una tienda B2B (B2B Suite)",
+                        "pt": "Facilitar a operação da loja B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "facilitating-b2b-store-operation",
@@ -17508,9 +17493,9 @@
                     },
                     {
                       "name": {
-                        "en": "How to set up B2B with VTEX",
-                        "es": "Configurar B2B en VTEX",
-                        "pt": "Configurar B2B na VTEX"
+                        "en": "How to set up B2B with VTEX (B2B Suite)",
+                        "es": "Configurar B2B en VTEX (B2B Suite)",
+                        "pt": "Configurar B2B na VTEX (B2B Suite)"
                       },
                       "slug": {
                         "en": "setting-up-b2b-on-vtex",
@@ -17539,9 +17524,9 @@
                   "children": [
                     {
                       "name": {
-                        "en": "Permissions management in B2B Suite",
-                        "es": "Gestionar permisos en B2B Suite",
-                        "pt": "Gerenciamento de permissões no B2B Suite"
+                        "en": "Permissions management in B2B Suite (B2B Suite)",
+                        "es": "Gestionar permisos en B2B Suite (B2B Suite)",
+                        "pt": "Gerenciamento de permissões no B2B Suite (B2B Suite)"
                       },
                       "slug": {
                         "en": "permissions-management-in-b2b-suite",
