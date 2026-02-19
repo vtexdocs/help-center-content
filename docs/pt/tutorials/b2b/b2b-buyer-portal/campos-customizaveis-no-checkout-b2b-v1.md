@@ -74,7 +74,7 @@ Ao criar um campo, o administrador define:
 
 ## Valores padrão no checkout
 
-Para reduzir preenchimento manual e evitar inconsistências, é possível configurar valores padrão por **Organizational Unit (OU)**.
+Para reduzir preenchimento manual e evitar inconsistências, é possível configurar valores padrão por **Organizational Unit.**
 
 É possível definir como padrão:
 
@@ -84,7 +84,7 @@ Para reduzir preenchimento manual e evitar inconsistências, é possível config
 
 > ⚠️ Apenas campos do tipo `option` podem ser definidos como valor padrão.
 
-> ℹ️ Para mais informações sobre como adicionar ou configurar campos customizáveis, acesse [Gerenciar campos customizáveis no checkout(B2B)](https://help.vtex.com/pt/docs/tutorials/gerenciar-campos-customizaveis-no-checkout-b2b).
+> ℹ️ Para mais informações sobre como adicionar ou configurar campos customizáveis, acesse [Gerenciar campos customizáveis no checkout (B2B)](https://help.vtex.com/pt/docs/tutorials/gerenciar-campos-customizaveis-no-checkout-b2b).
 
 ## Impacto para o administrador
 
@@ -96,7 +96,7 @@ Para reduzir preenchimento manual e evitar inconsistências, é possível config
 ## Impacto para o comprador
 
 - Os campos aparecem no checkout com instruções claras.
-- Alguns valores podem vir pré-preenchidos (quando configurados pela OU).
+- Alguns valores podem vir pré-preenchidos (quando configurados pela Organization Unit).
 - O pedido é finalizado com menos retrabalho e menos risco de erro.
 
 ## Exemplos de uso
@@ -104,7 +104,7 @@ Para reduzir preenchimento manual e evitar inconsistências, é possível config
 | Caso de uso | Cenário | Configuração | Resultado |
 |-------------|----------|--------------|------------|
 | **Exigir informações obrigatórias em todos os pedidos** | A empresa precisa registrar **centro de custo** e **PO** em todos os pedidos. | Criar campos obrigatórios no nível de `pedido` (`option` para centro de custo e `text` ou `number` para PO). | O pedido só pode ser finalizado com os dados preenchidos, garantindo conformidade. |
-| **Checkout pré-preenchido por OU** | A empresa quer reduzir erros e tempo de compra em múltiplas unidades. | Definir valores padrão por **OU** para endereço, cartão e campos do tipo `option`. | O checkout aparece pré-preenchido após login, reduzindo retrabalho. |
+| **Checkout pré-preenchido por Organization Unit** | A empresa quer reduzir erros e tempo de compra em múltiplas unidades. | Definir valores padrão por **Orgnization Unit** para endereço, cartão e campos do tipo `option`. | O checkout aparece pré-preenchido após login, reduzindo retrabalho. |
 | **Classificação de projeto ou atividade** | A empresa precisa associar cada item comprado a um projeto ou atividade. | Criar um campo `option` no nível de `item` com a lista de projetos ou atividades ativas. | Cada item fica vinculado a um projeto, facilitando rateio e controle de custos. |
 | **Diferenciar compra para revenda e consumo interno** | A empresa precisa identificar o tipo de compra no pedido. | Criar um campo `option` no nível de `pedido` com valores pré-definidos (Revenda / Consumo interno). | Permite segmentar pedidos e aplicar regras fiscais ou comerciais. |
 | **Segmentação para relatórios gerenciais** | O time financeiro precisa classificar pedidos por tipo de despesa. | Criar campos `option` padronizados no nível de `pedido` (ex.: CAPEX, OPEX). | Relatórios podem ser filtrados sem tratamento manual posterior. |
