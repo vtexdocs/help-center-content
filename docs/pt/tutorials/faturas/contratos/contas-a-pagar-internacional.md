@@ -33,7 +33,7 @@ __Exemplo:__
 
 4) Todos os documentos devem ser enviados por e-mail para um dos e-mails abaixo, de acordo com a filial da despesa. Copie o responsável pela contratação do serviço no e-mail para aprovação da fatura.
 
-> ℹ️ Para que a fatura seja registrada corretamente, o fornecedor deve informar no corpo do e-mail o número de identificação fiscal(Tax ID) e o número da fatura.
+> ℹ️ Para que a fatura seja registrada corretamente, o fornecedor deve informar no corpo do e-mail o número de identificação fiscal (Tax ID) e o número da fatura.
 
 A tabela a seguir apresenta os e-mails para envio das faturas, conforme o país:
 
