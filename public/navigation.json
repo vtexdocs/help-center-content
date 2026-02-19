@@ -27022,14 +27022,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "Foresight Commerce Academy - Overview",
-                    "es": "Foresight Commerce Academy - Visión Geral",
-                    "pt": "Foresight Commerce Academy - Visão geral"
+                    "en": "VTEX Academy - Overview",
+                    "es": "VTEX Academy - Visión Geral",
+                    "pt": "VTEX Academy - Visão geral"
                   },
                   "slug": {
-                    "en": "foresight-commerce-academy-overview",
-                    "es": "foresight-commerce-academy-vision-geral",
-                    "pt": "foresight-commerce-academy-visao-geral"
+                    "en": "vtex-academy-overview",
+                    "es": "vtex-academy-vision-geral",
+                    "pt": "vtex-academy-visao-geral"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -28956,6 +28956,21 @@
                     "en": "setting-up-payments-with-gocuotas",
                     "es": "configurar-pago-con-gocuotas",
                     "pt": "configurar-pagamento-com-gocuotas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with InstaPago",
+                    "es": "Configurar pago con InstaPago",
+                    "pt": "Configurar pagamento com InstaPago"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-instapago",
+                    "es": "configurar-pago-con-instapago",
+                    "pt": "configurar-pagamento-com-instapago"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -40941,14 +40956,14 @@
             },
             {
               "name": {
-                "en": "Catalog Indexing Report 'Total' Section Calculation Error",
-                "es": "Error de cálculo de la sección 'total' del informe de indexación del catálogo",
-                "pt": "Erro de Cálculo da Seção 'Total' do Relatório de Indexação do Catálogo"
+                "en": "Catalog Indexing Report returning wrong stats",
+                "es": "El informe de indexación del catálogo devuelve estadísticas erróneas.",
+                "pt": "Relatório de indexação do catálogo retornando estatísticas incorretas"
               },
               "slug": {
-                "en": "catalog-indexing-report-total-section-calculation-error",
-                "es": "error-de-calculo-de-la-seccion-total-del-informe-de-indexacion-del-catalogo",
-                "pt": "erro-de-calculo-da-secao-total-do-relatorio-de-indexacao-do-catalogo"
+                "en": "catalog-indexing-report-returning-wrong-stats",
+                "es": "el-informe-de-indexacion-del-catalogo-devuelve-estadisticas-erroneas",
+                "pt": "relatorio-de-indexacao-do-catalogo-retornando-estatisticas-incorretas"
               },
               "origin": "",
               "type": "markdown",
@@ -41699,6 +41714,21 @@
                 "en": "error-leituradedadosdoadministrador-when-trying-to-access-catalog-pages-on-admin",
                 "es": "error-leituradedadosdoadministrador-al-intentar-acceder-a-las-paginas-del-catalogo-en-admin",
                 "pt": "erro-leituradedadosdoadministrador-ao-tentar-acessar-as-paginas-do-catalogo-no-admin"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "Error de cálculo de la sección 'total' del informe de indexación del catálogo",
+                "pt": "Erro de Cálculo da Seção 'Total' do Relatório de Indexação do Catálogo",
+                "en": "Error de cálculo de la sección 'total' del informe de indexación del catálogo"
+              },
+              "slug": {
+                "es": "error-de-calculo-de-la-seccion-total-del-informe-de-indexacion-del-catalogo",
+                "pt": "erro-de-calculo-da-secao-total-do-relatorio-de-indexacao-do-catalogo",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
