@@ -33,6 +33,10 @@ Para garantizar la conformidad de todos los pagos realizados fuera del Brasil, s
 
 4) Todos los documentos deben ser enviados por correo electrónico a una de las opciones de abajo, de acuerdo con la sucursal de gastos.  En el correo electrónico, ponga en copia a la persona responsable de la contratación del servicio para la aprobación de la factura.
 
+> ℹ️ Para que la factura se registre correctamente, el proveedor debe incluir en el cuerpo del correo electrónico el número de identificación fiscal (Tax ID) y el número de la factura.
+
+La siguiente tabla presenta los correos electrónicos para el envío de las facturas, según el país:
+
 | País | E-mail | 
 | ---------- | ---------- | 
 | Argentina | arg-payables@vtex.com |
