@@ -40803,14 +40803,14 @@
             },
             {
               "name": {
-                "en": "Catalog Indexing Report 'Total' Section Calculation Error",
-                "es": "Error de cálculo de la sección 'total' del informe de indexación del catálogo",
-                "pt": "Erro de Cálculo da Seção 'Total' do Relatório de Indexação do Catálogo"
+                "en": "Catalog Indexing Report returning wrong stats",
+                "es": "El informe de indexación del catálogo devuelve estadísticas erróneas.",
+                "pt": "Relatório de indexação do catálogo retornando estatísticas incorretas"
               },
               "slug": {
-                "en": "catalog-indexing-report-total-section-calculation-error",
-                "es": "error-de-calculo-de-la-seccion-total-del-informe-de-indexacion-del-catalogo",
-                "pt": "erro-de-calculo-da-secao-total-do-relatorio-de-indexacao-do-catalogo"
+                "en": "catalog-indexing-report-returning-wrong-stats",
+                "es": "el-informe-de-indexacion-del-catalogo-devuelve-estadisticas-erroneas",
+                "pt": "relatorio-de-indexacao-do-catalogo-retornando-estatisticas-incorretas"
               },
               "origin": "",
               "type": "markdown",
@@ -41561,6 +41561,21 @@
                 "en": "error-leituradedadosdoadministrador-when-trying-to-access-catalog-pages-on-admin",
                 "es": "error-leituradedadosdoadministrador-al-intentar-acceder-a-las-paginas-del-catalogo-en-admin",
                 "pt": "erro-leituradedadosdoadministrador-ao-tentar-acessar-as-paginas-do-catalogo-no-admin"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "Error de cálculo de la sección 'total' del informe de indexación del catálogo",
+                "pt": "Erro de Cálculo da Seção 'Total' do Relatório de Indexação do Catálogo",
+                "en": "Error de cálculo de la sección 'total' del informe de indexación del catálogo"
+              },
+              "slug": {
+                "es": "error-de-calculo-de-la-seccion-total-del-informe-de-indexacion-del-catalogo",
+                "pt": "erro-de-calculo-da-secao-total-do-relatorio-de-indexacao-do-catalogo",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
