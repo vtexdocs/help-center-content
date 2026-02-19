@@ -31,11 +31,11 @@ __Exemplo:__
 - 10 de março de 2020 - O pagamento teria sido feito nesta data, se fosse uma quarta-feira.
 - 11 de março de 2020 - data programada para pagamento (data estendida para quarta-feira).
 
-4) Todos os documentos devem ser enviados por email para um dos emails abaixo, de acordo com a filial da despesa. Copie o responsável pela contratação do serviço no email para aprovação da fatura.
+4) Todos os documentos devem ser enviados por e-mail para um dos e-mails abaixo, de acordo com a filial da despesa. Copie o responsável pela contratação do serviço no e-mail para aprovação da fatura.
 
-> ℹ️ Para que a fatura seja registrada corretamente, o fornecedor deve incluir no corpo do email o número de identificação fiscal(Tax ID) e o número da fatura.
+> ℹ️ Para que a fatura seja registrada corretamente, o fornecedor deve informar no corpo do e-mail o número de identificação fiscal(Tax ID) e o número da fatura.
 
-A tabela a seguir apresenta os emails para envio das faturas, conforme o país:
+A tabela a seguir apresenta os e-mails para envio das faturas, conforme o país:
 
 | País | E-mail | 
 | ---------- | ---------- | 
