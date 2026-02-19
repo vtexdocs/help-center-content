@@ -147,7 +147,7 @@ Configure delivery options on the storefront to customize the customer experienc
 1. In the VTEX Admin, go to **Shipping > Delivery Options**, or type **Delivery Options** in the search bar at the top of the page.
 2. Click `Preferences`.
 3. Select how your options will be displayed in the store:
-   ![delivery-options-preferencias-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_3.png)
+   ![delivery-options-preferencias-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-options-beta_3.png)
    - **Always display all available options for the product:** All delivery options available under the shipping conditions will be displayed on the product page and checkout.
    - **Only display the lowest-cost and fastest options:** Only the delivery options with the lowest cost or shortest time will be displayed on the product page and checkout.
 4. Click `Save`.
