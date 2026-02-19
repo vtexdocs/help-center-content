@@ -147,7 +147,6 @@ Configura las opciones de envío en el storefront para personalizar la experienc
 1. En el Admin VTEX, accede a **Envío > Opciones de envío** o ingresa **Opciones de envío** en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en `Preferencias`.
 3. Selecciona la forma en que deseas mostrar tus opciones de envío en la tienda.
-   ![delivery-options-preferencias-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/envío-beta/opciones-de-envio-beta_3.png)
    - **Mostrar siempre todas las opciones disponibles para el producto:** todas las opciones de envío que están disponibles en las condiciones de envío se mostrarán en la página de producto y en el checkout de la tienda.
    - **Mostrar solo las opciones más económicas y rápidas:** solo se mostrarán las opciones de envío con el menor costo o el menor plazo en la página de producto y en el checkout de la tienda.
 4. Haz clic en `Guardar` para finalizar.
