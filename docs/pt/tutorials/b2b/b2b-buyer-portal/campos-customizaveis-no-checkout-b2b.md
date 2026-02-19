@@ -59,7 +59,7 @@ Exibe uma lista de valores previamente cadastrados para seleção.
 
 - O comprador deve selecionar uma das opções disponíveis.
 - Permite padronização de dados.
-- É o único tipo que pode receber **valor padrão por Organizational Unit (OU)**.
+- É o único tipo que pode receber **valor padrão por Organizational Unit**.
 
 
 ## Configurações de cada campo
@@ -101,14 +101,44 @@ Para reduzir preenchimento manual e evitar inconsistências, é possível config
 
 ## Exemplos de uso
 
-| Caso de uso | Cenário | Configuração | Resultado |
-|-------------|----------|--------------|------------|
-| **Exigir informações obrigatórias em todos os pedidos** | A empresa precisa registrar **centro de custo** e **PO** em todos os pedidos. | Criar campos obrigatórios no nível de `pedido` (`option` para centro de custo e `text` ou `number` para PO). | O pedido só pode ser finalizado com os dados preenchidos, garantindo conformidade. |
-| **Checkout pré-preenchido por Organization Unit** | A empresa quer reduzir erros e tempo de compra em múltiplas unidades. | Definir valores padrão por **Orgnization Unit** para endereço, cartão e campos do tipo `option`. | O checkout aparece pré-preenchido após login, reduzindo retrabalho. |
-| **Classificação de projeto ou atividade** | A empresa precisa associar cada item comprado a um projeto ou atividade. | Criar um campo `option` no nível de `item` com a lista de projetos ou atividades ativas. | Cada item fica vinculado a um projeto, facilitando rateio e controle de custos. |
-| **Diferenciar compra para revenda e consumo interno** | A empresa precisa identificar o tipo de compra no pedido. | Criar um campo `option` no nível de `pedido` com valores pré-definidos (Revenda / Consumo interno). | Permite segmentar pedidos e aplicar regras fiscais ou comerciais. |
-| **Segmentação para relatórios gerenciais** | O time financeiro precisa classificar pedidos por tipo de despesa. | Criar campos `option` padronizados no nível de `pedido` (ex.: CAPEX, OPEX). | Relatórios podem ser filtrados sem tratamento manual posterior. |
-| **Justificativa obrigatória para compras específicas** | A empresa exige justificativa em compras sensíveis ou acima de determinado valor. | Criar um campo `text` obrigatório no nível de `pedido`. | A justificativa fica registrada no pedido para revisão ou auditoria. |
-| **Padronização e governança centralizada** | A empresa precisa evitar variações no preenchimento de dados. | Utilizar campos `option` em vez de texto livre e definir valores por **OU**. | Dados mais consistentes e auditáveis em toda a operação. |
-| **Controle de compliance em empresas reguladas** | A empresa precisa registrar códigos regulatórios por item. | Criar um campo obrigatório no nível de `item` (por exemplo, do tipo `text` ou `option`). | Cada item comprado inclui a informação necessária para auditorias regulatórias. |
-| **Migração de preferências entre sistemas** | A empresa migra de um ERP e quer manter preferências por unidade organizacional. | Importar endereços, cartões e valores padrão antes do go-live. | A operação inicia com experiência consistente desde o primeiro pedido. |
+### Exigir informações obrigatórias em todos os pedidos
+- **Cenário:** a empresa precisa registrar **centro de custo** e **PO** em todos os pedidos.
+- **Configuração:** criar campos obrigatórios no nível de `pedido` (`option` para centro de custo e `text` ou `number` para PO).
+- **Resultado:** o pedido só pode ser finalizado com os dados preenchidos, garantindo conformidade.
+
+### Checkout pré-preenchido por Organizational Unit (OU)
+- **Cenário:** a empresa quer reduzir erros e tempo de compra em múltiplas unidades.
+- **Configuração:** definir valores padrão por **Organization Unit** para endereço, cartão e campos do tipo `option`.
+- **Resultado:** o checkout aparece pré-preenchido após login, reduzindo retrabalho.
+
+### Classificação de projeto ou atividade
+- **Cenário:** a empresa precisa associar cada item comprado a um projeto ou atividade.
+- **Configuração:** criar um campo `option` no nível de `item` com a lista de projetos ou atividades ativas.
+- **Resultado:** cada item fica vinculado a um projeto, facilitando rateio e controle de custos.
+
+### Diferenciar compra para revenda e consumo interno
+- **Cenário:** a empresa precisa identificar o tipo de compra no pedido.
+- **Configuração:** criar um campo `option` no nível de `pedido` com valores pré-definidos (Revenda / Consumo interno).
+- **Resultado:** permite segmentar pedidos e aplicar regras fiscais ou comerciais.
+
+### Segmentação para relatórios gerenciais
+- **Cenário:** o time financeiro precisa classificar pedidos por tipo de despesa.
+- **Configuração:** criar campos `option` padronizados no nível de `pedido` (ex.: CAPEX, OPEX).
+- **Resultado:** relatórios podem ser filtrados sem tratamento manual posterior.
+
+### Justificativa obrigatória para compras específicas
+- **Cenário:** a empresa exige justificativa em compras sensíveis ou acima de determinado valor.
+- **Configuração:** criar um campo `text` obrigatório no nível de `pedido`.
+- **Resultado:** a justificativa fica registrada no pedido para revisão ou auditoria.
+
+### Padronização e governança centralizada
+- **Cenário:** a empresa precisa evitar variações no preenchimento de dados.
+- **Configuração:** utilizar campos `option` em vez de texto livre e definir valores por **Organization Unit**.
+- **Resultado:** dados mais consistentes e auditáveis em toda a operação.
+
+### Controle de compliance em empresas reguladas
+- **Cenário:** a empresa precisa registrar códigos regulatórios por item.
+- **Configuração:** criar um campo obrigatório no nível de `item` (por exemplo, do tipo `text` ou `option`).
+- **Resultado:** cada item comprado inclui a informação necessária para auditorias regulatórias.
+
+
