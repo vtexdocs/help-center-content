@@ -28,5 +28,5 @@ Ahora, puedes crear una versión deshabilitada y activarla cuando quieras. Adem�
 Con el objetivo de facilitar la publicación de contenidos en el Site Editor, hemos mejorado la experiencia de creación de versiones de los bloques de la tienda.
 
 ## ¿Qué se necesita hacer?
-La funcionalidad **Versiones** ya está activa en el Site Editor y ya puedes empezar a utilizarla. Para más información, consulta la documentación sobre [Gestión de versiones de contenido](/es/tutorial/gerenciando-versoes-de-conteudo--4loXo98CZncY0NnjKrScbG) y [Programación de actualizaciones de contenido](/es/tutorial/agendando-atualizacoes-de-conteudo--5L93gED3wgSRoWpFJlJ2ns).
+La funcionalidad **Versiones** ya está activa en el Site Editor y ya puedes empezar a utilizarla. Para más información, consulta la documentación sobre [Gestión de versiones de contenido](/es/docs/tutorials/gestion-de-versiones-de-contenido) y [Programación de actualizaciones de contenido](/es/docs/tutorials/programar-actualizaciones-de-contenido).
 

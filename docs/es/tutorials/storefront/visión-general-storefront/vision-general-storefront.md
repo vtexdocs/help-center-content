@@ -49,9 +49,9 @@ La sección incluye las siguientes páginas:
 - [Configuración de búsqueda](/es/v4/docs/configuracion-de-busqueda--3vB1ISndZI2dEEa63TeJHy): comprende todos los ajustes globales de VTEX Intelligent Search.
 
 Las siguientes páginas pronto se incluirán en el nuevo diseño:
-- [Sinónimos](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL): permite registrar sinónimos para un término de búsqueda específico, lo que aumenta las posibilidades de éxito de la búsqueda.  
-- [Explicación de la búsqueda](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4uSFqyJVCMVMIvVrtz3lxZ): interpreta un término de búsqueda y muestra la lista de productos como resultado de la búsqueda.  
-- [Reglas de merchandising](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8): manipula los resultados de una búsqueda.   
-- [Historial de indexación](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH): monitorea el status de sincronización de todos los productos del catálogo enviados al Intelligent Search.  
-- [Analytics](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m): organiza los datos relacionados con las búsquedas realizadas en la tienda y permite exportar estos datos.  
+- [Sinónimos](/es/docs/tutorials/crear-sinonimos): permite registrar sinónimos para un término de búsqueda específico, lo que aumenta las posibilidades de éxito de la búsqueda.  
+- [Explicación de la búsqueda](/es/docs/tutorials/explicacion-de-busqueda): interpreta un término de búsqueda y muestra la lista de productos como resultado de la búsqueda.  
+- [Reglas de merchandising](/es/docs/tutorials/crear-regla-de-merchandising-editor-manual): manipula los resultados de una búsqueda.   
+- [Historial de indexación](/es/docs/tutorials/historial-de-indexacion): monitorea el status de sincronización de todos los productos del catálogo enviados al Intelligent Search.  
+- [Analytics](/es/docs/tutorials/analytics): organiza los datos relacionados con las búsquedas realizadas en la tienda y permite exportar estos datos.  
 

@@ -14,7 +14,7 @@ locale: es
 legacySlug: que-hacer-cuando-hay-problemas-con-una-transaccion
 ---
 
-Para poder resolver rápidamente un problema que involucre transacciones, recomendamos que el comerciante esté esteja a par da estructura de *logs* detallada en las transacciones en Admin de VTEX. Vea [aqui](/es/tutorial/como-visualizar-detalle-del-pedido/) cómo visualizar una transacción.
+Para poder resolver rápidamente un problema que involucre transacciones, recomendamos que el comerciante esté esteja a par da estructura de *logs* detallada en las transacciones en Admin de VTEX. Vea [aqui](/es/docs/tutorials/como-visualizar-detalle-del-pedido/) cómo visualizar una transacción.
 
 En el log quedan registradas todas las interacciones entre VTEX y el aliado, sea el Gateway oo el AntiFraude. Empezando desde la parte inferior de la página hasta la parte superior, donde están las interacciones más recientes.
 

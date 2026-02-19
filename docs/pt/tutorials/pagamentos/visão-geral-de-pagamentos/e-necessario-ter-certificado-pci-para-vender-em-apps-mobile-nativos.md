@@ -37,7 +37,7 @@ Não recomendamos que você invista em uma certificação PCI, você deve fazer 
 Nos casos de __apps que rodam em Webview__ nos sistemas Android e iOS, entendemos que __não há necessidade de um certificado próprio__. Isso acontece porque tanto front-end quanto back-end rodam dentro da VTEX: seu cliente já está navegando e digitando os dados em ambiente seguro e certificado. 
 
 ### Progressive Web Apps
-Na solução de __PWA__, também __não é necessário ter um certificado PCI próprio__. O [PWA](/pt/tutorial/como-transformar-o-site-da-minha-loja-em-um-pwa) é uma aplicação web que é criada no dispositivo mobile usando dados do seu website em cache. Ou seja, tudo o que o usuário final vê são informações obtidas e executadas na sua loja, que está em ambiente seguro e certificado. 
+Na solução de __PWA__, também __não é necessário ter um certificado PCI próprio__. O [PWA](/pt/docs/tutorials/como-transformar-o-site-da-minha-loja-em-um-pwa) é uma aplicação web que é criada no dispositivo mobile usando dados do seu website em cache. Ou seja, tudo o que o usuário final vê são informações obtidas e executadas na sua loja, que está em ambiente seguro e certificado. 
 
 
 
@@ -45,7 +45,7 @@ Na solução de __PWA__, também __não é necessário ter um certificado PCI pr
 
 A VTEX é certificada pelo __PCI DSS__ (Payment Card Industry Data Security Standard), o que garante que os dados digitados na plataforma estão seguros. Nossa infraestrutura, processos de desenvolvimento, front-end e back-end passam por avaliações anuais para a renovação do Certificado PCI DSS. 
 
-Veja mais detalhes sobre o certificado PCI da VTEX e como adicionar o selo PCI no rodapé da sua loja [aqui](/pt/faq/como-adicionar-o-selo-pci-ssc-a-minha-loja).
+Veja mais detalhes sobre o certificado PCI da VTEX e como adicionar o selo PCI no rodapé da sua loja [aqui](/pt/docs/tutorials/como-adicionar-o-selo-pci-ssc-a-minha-loja).
 
 
 

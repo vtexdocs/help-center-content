@@ -41,5 +41,5 @@ Las siguientes tablas representan los datos o formatos necesarios para la import
 
 ### Más información
 
- * [SmartCheckout - Rellenado automático de los datos del cliente](/es/tutorial/smartcheckout-rellenado-automatico-de-los-datos-del-cliente--2Nuu3xAFzdhIzJIldAdtan)
+ * [SmartCheckout - Rellenado automático de los datos del cliente](/es/docs/tutorials/smartcheckout-rellenado-automatico-de-los-datos-del-cliente)
  * [`orderForm` fields](https://developers.vtex.com/docs/guides/orderform-fields#clientprofiledata)

@@ -45,9 +45,9 @@ This section includes the following pages:
 - [Search configuration](/en/v4/docs/search-configuration--3vB1ISndZI2dEEa63TeJHy): comprises all VTEX Intelligent Search global settings.  
 
 The following pages are soon to be updated:
-- [Explained Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4uSFqyJVCMVMIvVrtz3lxZ): interprets a searched term and presents a list of products as a search result.  
-- [Merchandising Rules](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8): manipulates results within a search.  
-- [Synonyms](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL): allows the registration of synonyms, or words with the same meaning, for a specific search term, increasing chances of a successful search. 
-- [Indexing Status](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH): monitors the sync situation of all Catalog products sent to Intelligent search.
-- [Analytics](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m): organizes data related to searches made in the store, allowing data exportation.
+- [Explained Search](/en/docs/tutorials/explained-search): interprets a searched term and presents a list of products as a search result.  
+- [Merchandising Rules](/en/docs/tutorials/creating-merchandising-rules-manual-editor): manipulates results within a search.  
+- [Synonyms](/en/docs/tutorials/creating-synonyms): allows the registration of synonyms, or words with the same meaning, for a specific search term, increasing chances of a successful search. 
+- [Indexing Status](/en/docs/tutorials/indexing-history): monitors the sync situation of all Catalog products sent to Intelligent search.
+- [Analytics](/en/docs/tutorials/analytics): organizes data related to searches made in the store, allowing data exportation.
 

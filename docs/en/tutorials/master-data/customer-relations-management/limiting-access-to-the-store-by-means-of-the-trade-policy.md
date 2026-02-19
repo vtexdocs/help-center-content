@@ -19,11 +19,11 @@ You can limit access to a store for a number of different reasons, such as when 
 
 This can be achieved by using Master Data v1 and the store’s sales policy.
 
-> ⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use. <ul> <li> [ Master Data version characteristics ](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/vtex-rest-api/docs/getting-started-1) </li> </ul>
+> ⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use. <ul> <li> [ Master Data version characteristics ](/en/docs/tutorials/master-data#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/docs/guides/master-data-v2-basics) </li> </ul>
 
 ## Creating a cluster of customers
 
-The first step is to create a cluster which will identify those customers that can access the store. [To learn how to create a cluster of customers, read our manual](/en/faq/how-can-i-create-cluster-of-customers/).
+The first step is to create a cluster which will identify those customers that can access the store. [To learn how to create a cluster of customers, read our manual](/en/docs/tutorials/how-can-i-create-cluster-of-customers/).
 
 ## Changing a trade policy
 
@@ -42,11 +42,11 @@ However there are other possibilities for configuration. For instance, you can c
 
 ## Registering customers with access
 
-In the case of B2B, where the store does not know which customers may have access, a form will have to be created for them to register their details. The store will then use Master Data to verify the details and decide whether or not to grant access. [For this configuration, see our manual for B2B stores](/en/tutorial/setting-up-b2b-on-vtex/).
+In the case of B2B, where the store does not know which customers may have access, a form will have to be created for them to register their details. The store will then use Master Data to verify the details and decide whether or not to grant access. [For this configuration, see our manual for B2B stores](/en/docs/tutorials/setting-up-b2b-on-vtex/).
 
 ## Learn more
 
 - [Marketplace strategies at VTEX](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
-- [How trade policies work](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
-- [Creating a trade policy](/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)
-- [Configuring a marketplace trade policy](/en/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)
+- [How trade policies work](/en/docs/tutorials/how-trade-policies-work)
+- [Creating a trade policy](/en/docs/tutorials/creating-a-trade-policy)
+- [Configuring a marketplace trade policy](/en/docs/tutorials/configuring-a-marketplace-trade-policy)

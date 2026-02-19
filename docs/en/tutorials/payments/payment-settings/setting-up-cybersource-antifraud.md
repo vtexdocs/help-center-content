@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-CyberSource is a company that offers several solutions to help you manage your store's payments. These include a [gateway](/en/tutorial/what-is-a-payment-gateway) and an [antifraud](/en/tutorial/what-is-anti-fraud) system, both with integrations available at VTEX.
+CyberSource is a company that offers several solutions to help you manage your store's payments. These include a [gateway](/en/docs/tutorials/what-is-a-payment-gateway) and an [antifraud](/en/docs/tutorials/what-is-anti-fraud) system, both with integrations available at VTEX.
 
-If you are looking for more details about __gateway__ CyberSource, read [this Help article](/en/tutorial/setting-up-cybersource-gateway). To configure CyberSource __antifraude__, follow the steps below:
+If you are looking for more details about __gateway__ CyberSource, read [this Help article](/en/docs/tutorials/setting-up-cybersource-gateway). To configure CyberSource __antifraude__, follow the steps below:
 
 ## Setting up the CyberSource Anti-Fraud
 

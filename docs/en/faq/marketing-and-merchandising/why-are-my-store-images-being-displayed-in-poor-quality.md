@@ -14,7 +14,7 @@ locale: en
 legacySlug: images-with-poor-quality
 ---
 
-The reduction in image quality can occur during the automatic [image compression process](/en/tutorial/image-compression--4klbgpsPksq44KcwqKeye8).
+The reduction in image quality can occur during the automatic [image compression process](/en/docs/tutorials/image-compression).
 
 If you're using JPG or JPEG photos on your website, it's common for them to lose some quality due to conversion to lossy [WebP](https://developers.google.com/speed/webp/) format. However, this loss shouldn't be too noticeable. To address this, try to upload the files again in a slightly higher resolution.
 
@@ -24,4 +24,4 @@ Another option is to use pre-optimized images using conversion tools for progres
 
 ## Learn more
 
-* [Image compression](/en/tutorial/image-compression--4klbgpsPksq44KcwqKeye8)
+* [Image compression](/en/docs/tutorials/image-compression)

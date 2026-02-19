@@ -18,7 +18,7 @@ subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 The abandoned cart is a feature used for clients who are dropping a purchase. In such cases, the store can set an email that will be sent to the user, with the purpose of
 reminding him or her of the items that were not purchased.
 
-The store can check some information about the items "left" in the cart using [Master Data](en/docs/tutorials/master-data). For example:
+The store can check some information about the items "left" in the cart using [Master Data](/en/docs/tutorials/master-data). For example:
 
 - SKUs
 - Quantity

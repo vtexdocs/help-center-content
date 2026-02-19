@@ -17,9 +17,9 @@ subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
-A página **Planos** do módulo de **Assinaturas** exibe a lista de todos os planos de assinaturas configurados na sua loja, sejam eles criados a partir da [página Novo plano](/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) ou [dos anexos de SKU](/pt/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK).
+A página **Planos** do módulo de **Assinaturas** exibe a lista de todos os planos de assinaturas configurados na sua loja, sejam eles criados a partir da [página Novo plano](/pt/docs/tutorials/como-criar-um-plano-de-assinatura) ou [dos anexos de SKU](/pt/docs/tutorials/como-criar-um-anexo-de-assinatura-pelo-modulo-catalogo).
 
-Para disponibilizar planos de assinatura, você precisa antes instalar o aplicativo de Assinaturas e realizar todas as configurações necessárias. Leia o artigo [Como configurar Assinaturas na sua loja](/pt/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj) para mais informações.
+Para disponibilizar planos de assinatura, você precisa antes instalar o aplicativo de Assinaturas e realizar todas as configurações necessárias. Leia o artigo [Como configurar Assinaturas na sua loja](/pt/docs/tutorials/como-configurar-assinaturas) para mais informações.
 
 A partir da página **Planos**, você pode visualizar e gerenciar os planos de assinaturas disponibilizados para os clientes da sua loja, conforme ilustrado abaixo.
 
@@ -36,7 +36,7 @@ As principais funcionalidades desta página são:
 
 ## Criar novo plano
 
-Ao clicar no botão `Novo plano`, você será direcionado para a página de cadastro de um novo plano de assinatura. Acesse o artigo [**Criar um plano de assinatura**](/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) para mais detalhes sobre esse processo.
+Ao clicar no botão `Novo plano`, você será direcionado para a página de cadastro de um novo plano de assinatura. Acesse o artigo [**Criar um plano de assinatura**](/pt/docs/tutorials/como-criar-um-plano-de-assinatura) para mais detalhes sobre esse processo.
 
 ## Pesquisar
 
@@ -59,7 +59,7 @@ Para saber mais sobre o significado dos status, confira a seção [**Informaçõ
 Cada coluna da lista de planos de assinaturas exibe uma informação sobre o plano. Veja abaixo quais são as informações apresentadas e as ações possíveis a partir da lista.
 
 * **Nome**: exibe o nome do plano de assinatura, configurado no momento da criação do plano. Uma vez que o novo plano é salvo, o nome não pode ser editado posteriormente.
-* **Id**: apresenta o identificador do plano de assinatura, que segue o formato `vtex.subscription.{nome}`. A ID é gerada automaticamente ao preencher o nome do plano [na página de criar planos de assinatura](/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) e equivale ao nome do anexo de assinatura [quando configurado manualmente](/pt/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK). Este campo não é editável.
+* **Id**: apresenta o identificador do plano de assinatura, que segue o formato `vtex.subscription.{nome}`. A ID é gerada automaticamente ao preencher o nome do plano [na página de criar planos de assinatura](/pt/docs/tutorials/como-criar-um-plano-de-assinatura) e equivale ao nome do anexo de assinatura [quando configurado manualmente](/pt/docs/tutorials/como-criar-um-anexo-de-assinatura-pelo-modulo-catalogo). Este campo não é editável.
 * **Produtos**: mostra a quantidade de produtos associados ao plano de assinatura, ou seja, o número de produtos do seu catálogo que oferecem a opção de assinatura no momento em que o cliente da loja vai finalizar a compra ou criar uma assinatura pelo Minha Conta, independentemente da quantidade de SKUs de cada produto.
 * **Status**: exibe o atual status do plano de assinatura e um botão <i class="fas fa-toggle-on"></i> para mudar de um status para outro. Os status possíveis são:
     * **Ativo**: significa que o plano está disponível para utilização dos clientes ao criar novas assinaturas com produtos associados.
@@ -83,5 +83,5 @@ Para navegar entre páginas da lista de planos de assinaturas, utilize as setas 
 
 ## Saiba mais
 
-* [Como criar um plano de assinatura](/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC)
+* [Como criar um plano de assinatura](/pt/docs/tutorials/como-criar-um-plano-de-assinatura)
 

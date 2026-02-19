@@ -39,4 +39,4 @@ En el Admin VTEX, accede **Storefront > Páginas** y descubre las principales he
 
 Consulta los siguientes tutoriales para empezar a gestionar el contenido de tu storefront:
 - [Crear páginas de destino según el binding](/es/tutorial/criando-landing-pages-por-binding--3LQAoWx77P3gNoqI2Rtl5A?&utm_source=autocomplete)
-- [Gestionar redirecciones según el binding](/es/tutorial/gerenciando-redirecionamentos-de-url-por-binding--67GAK2TCQgjvmtPXxAqREb)
+- [Gestionar redirecciones según el binding](/es/docs/tutorials/administrando-redireccionamientos-de-url-por-binding)

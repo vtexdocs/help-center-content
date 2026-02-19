@@ -25,7 +25,7 @@ Antes de la activación, es importante tener en cuenta lo siguiente:
 
 * **Adaptación de la interfaz:** al activar la funcionalidad es necesario adaptar la interfaz (web y móvil) que crea pedidos en la cuenta de su tienda (si no realiza este paso, la creación de pedidos se verá afectada). Vea más información sobre cómo adaptar la interfaz con la [guía de reCAPTCHA para integraciones](https://developers.vtex.com/vtex-rest-api/docs/recaptcha).
 * **Consecuencias para la cuenta:** habilitar la funcionalidad implica el uso en la cuenta completa, esto incluye el uso en todas las tiendas y subcuentas.
-* **Pruebas:** para probar la funcionalidad sin afectar tu tienda en producción debe utilizar un [entorno beta](/es/tutorial/acessar-o-ambiente-beta-pelo-dominio-myvtex-com--3BHM289568gcSwk2O80Asu) con [Checkout v6](/es/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH). 
+* **Pruebas:** para probar la funcionalidad sin afectar tu tienda en producción debe utilizar un [entorno beta](/es/docs/tutorials/acceder-al-ambiente-beta) con [Checkout v6](/es/docs/tutorials/activar-el-checkout-v6). 
 
 ## Regla de aplicación
 

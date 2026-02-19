@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-The VTEX Admin **All Orders** module has been redesigned to provide a more intuitive and complete experience. Among the latest improvements, you can now [search for orders without date limitation](/en/tutorial/como-filtrar-pedidos--tutorials_192), no longer restricted to searching only within the last six months. 
+The VTEX Admin **All Orders** module has been redesigned to provide a more intuitive and complete experience. Among the latest improvements, you can now [search for orders without date limitation](/en/docs/tutorials/filtering-all-orders), no longer restricted to searching only within the last six months. 
 
 From February 1st, 2023, the new interface will be the default for all VTEX stores, and you will not be able to switch back to the old version. We have created this documentation, answering the following questions to help you through this transition:
 
@@ -30,7 +30,7 @@ You can see the sections and fields correspondence between the old version of th
 
 ## What happened to the six-month search filter?
 
-The six-month filter is now replaced by an unlimited date search that returns all orders related to the criteria used, regardless of their creation date. You can, for example, view a customer's full purchase history using the customer's name, email, or document. Read the article [Filter orders on All Orders](/en/tutorial/como-filtrar-pedidos--tutorials_192) to learn more. 
+The six-month filter is now replaced by an unlimited date search that returns all orders related to the criteria used, regardless of their creation date. You can, for example, view a customer's full purchase history using the customer's name, email, or document. Read the article [Filter orders on All Orders](/en/docs/tutorials/filtering-all-orders) to learn more. 
 
 > ℹ️ The search in All Orders cannot be combined with other filters. So, once you remove the date limit from the search, any active filters become inactive. However, you can combine filters and select the custom period of six months, for example.
 

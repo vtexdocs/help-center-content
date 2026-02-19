@@ -17,7 +17,7 @@ announcementSynopsisES: 'Actualizamos el proceso de exportación con una plantil
 
 En el comercio digital, los administradores de la tienda suelen actualizar los precios frecuentemente para mantener la competitividad de un producto. Mientras más rápida sea la modificación de los precios, mayor será la probabilidad de conversión de la compra.
 
-En VTEX, puedes cambiar el precio varias veces al día según la estrategia de tu tienda. En el módulo Precios, puedes registrar o editar los [precios base](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) o los [precios fijos](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy) mediante:
+En VTEX, puedes cambiar el precio varias veces al día según la estrategia de tu tienda. En el módulo Precios, puedes registrar o editar los [precios base](/es/docs/tracks/preco-base-definicao-de-conceito) o los [precios fijos](/es/docs/tracks/precio-fijo-definicion-de-concepto) mediante:
 
 - Admin VTEX
 - Plantilla de precios
@@ -48,5 +48,5 @@ Las razones de los cambios son:
 
 La nueva experiencia de exportación de precios está disponible para toda la base de clientes VTEX. Para acceder a ella, en el Admin VTEX, ve a *Catálogo > Precios > Lista de precios* y haz clic en el ícono <i class="fas fa-download"></i> para realizar la exportación de los precios.
 
-Para obtener más información, lea el artículo [Exportación e importación mediante la plantilla de precios](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D).
+Para obtener más información, lea el artículo [Exportación e importación mediante la plantilla de precios](/es/docs/tracks/exportacion-e-importacion-mediante-la-plantilla-de-precios).
 

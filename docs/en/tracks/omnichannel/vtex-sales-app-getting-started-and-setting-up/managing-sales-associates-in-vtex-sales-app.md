@@ -17,7 +17,7 @@ order: 6
 
 After configuring the [VTEX Sales App basic settings](https://help.vtex.com/docs/tracks/vtex-sales-app-basic-settings), you can add sales associates to the system or manage the existing ones in the VTEX Admin.
 
-On the VTEX Admin **Store Settings** page, there is a **Sales associates** category that displays a list of the sales associates added to your **VTEX Sales App**. It allows you to manage sales associate information across all [franchise accounts](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) of your store, enabling you to [add](#adding-sales-associate), [search](#searching-for-sales-associate), [filter](#filtering-sales-associates), [edit](#editing-sales-associate-information), and [inactivate](#inactivating-sales-associate) them.
+On the VTEX Admin **Store Settings** page, there is a **Sales associates** category that displays a list of the sales associates added to your **VTEX Sales App**. It allows you to manage sales associate information across all [franchise accounts](/en/docs/tutorials/what-is-a-franchise-account) of your store, enabling you to [add](#adding-sales-associate), [search](#searching-for-sales-associate), [filter](#filtering-sales-associates), [edit](#editing-sales-associate-information), and [inactivate](#inactivating-sales-associate) them.
 
 The page displays the following information:
 
@@ -25,7 +25,7 @@ The page displays the following information:
 | --- | --- |
 | Name | Name that identifies the sales associate, defined in the [Add sales associate](#adding-sales-associate)step. |
 | Code | Identifier code of each sales associate. It must be the same used in the physical store system. |
-| Store | Identifier name of the [franchise account](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) in which the sales associate is registered. |
+| Store | Identifier name of the [franchise account](/en/docs/tutorials/what-is-a-franchise-account) in which the sales associate is registered. |
 | Email | Sales associate access email. |
 
 ## Adding sales associate
@@ -51,7 +51,7 @@ After the merchant has added the sales associate, they can create an access pass
 
 #### Physical store
 
-* **Store:** The [franchise account](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) in which the sales associate will be registered. Mandatory field.
+* **Store:** The [franchise account](/en/docs/tutorials/what-is-a-franchise-account) in which the sales associate will be registered. Mandatory field.
 
 > ℹ️ Changes can take up to 15 minutes to be processed and applied to **Sales App**.
 

@@ -63,5 +63,5 @@ For more information on data protection, visit [SmartCheckout Security](/en/tuto
 
 ### Learn more
 
- * [Import customer data](/en/tutorial/import-customer-data--2zWYVOyj0sISYQmeUwCsI0)
+ * [Import customer data](/en/docs/tutorials/import-customer-data)
  * [`orderForm` fields](https://developers.vtex.com/docs/guides/orderform-fields#clientprofiledata)

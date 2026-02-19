@@ -50,7 +50,7 @@ Para ativar o Cartman manualmente, siga os passos abaixo:
 
 Ao acessar o **Simulador de Promoções**, você pode visualizar as promoções criadas na sua loja que foram aplicadas no carrinho de compras e os motivos para sua ativação. Também é possível testar a aplicação de promoções antes de ativá-las, incluindo promoções agendadas e inativas.
 
-Para saber usar essa ferramenta, leia o guia [Simulador de Promoções](/pt/tutorial/simulador-de-promocoes-beta--4zc8SNqjqeIJ0ZRMhjlnvy).
+Para saber usar essa ferramenta, leia o guia [Simulador de Promoções](/pt/docs/tutorials/simulador-de-promocoes-beta).
 
 ### Obter as informações dos items no carrinho
 

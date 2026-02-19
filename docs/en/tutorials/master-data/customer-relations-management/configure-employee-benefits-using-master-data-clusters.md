@@ -17,7 +17,7 @@ subcategoryId: 42hDtnYXHw5ExG6l19RP1l
 
 In VTEX, a benefit or discount can be applied to a group of customers. This group of customers can be defined by properties that they have in common. 
 
-> ⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use. <ul> <li> [ Master Data version characteristics ](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/vtex-rest-api/docs/getting-started-1) </li> </ul>
+> ⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use. <ul> <li> [ Master Data version characteristics ](/en/docs/tutorials/master-data#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/docs/guides/master-data-v2-basics) </li> </ul>
 
 This article shows how to configure a benefit for employees. It is considered that the employees are a group of customers, so they are identified using Master Data clusters.
 
@@ -26,7 +26,7 @@ Since customer data is stored as documents of the CL (Client or Cliente) data en
 ## What is a cluster?
 In Master Data, a cluster is a field with a determined value for a data entity. One or more clusters define this group of customers with common properties in the CL data entity.
 
-Here, the common property of the clients will be that they are also employees of the store. More information about clusters of customers can be found in the article [Create a cluster of customers](/en/tutorial/how-can-i-create-cluster-of-customers--frequentlyAskedQuestions_1724).
+Here, the common property of the clients will be that they are also employees of the store. More information about clusters of customers can be found in the article [Create a cluster of customers](/en/docs/tutorials/how-can-i-create-cluster-of-customers).
 
 This article assumes that the employees are properly registered with a boolean field `isEmployee` set to true in their respective documents for the CL data entity, as shown in the figure below. 
 

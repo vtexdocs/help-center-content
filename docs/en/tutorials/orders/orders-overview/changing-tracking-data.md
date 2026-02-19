@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-Retailers and customers can track order deliveries by entering their tracking data into the platform. To enter or change tracking data, orders must [have been invoiced](/en/tutorial/como-faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v).  
+Retailers and customers can track order deliveries by entering their tracking data into the platform. To enter or change tracking data, orders must [have been invoiced](/en/docs/tutorials/how-to-manually-invoice-an-order).  
 
 There are two ways of entering order tracking data:
 

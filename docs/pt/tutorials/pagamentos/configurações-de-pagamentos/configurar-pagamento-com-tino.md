@@ -90,7 +90,7 @@ Após instalar os aplicativos, você precisa realizar a configuração do Tino a
 3. Localize e clique sobre a opção __Tino__.
 4. Ative a condição no campo __Status__.
 5. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
-6. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condiciones-especiales--tutorials_456).
+6. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais).
 7. Clique em `Salvar`.
 
 ## Script de customização no checkout (opcional)

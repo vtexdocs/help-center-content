@@ -30,7 +30,7 @@ Nesta seção inclui as seguintes informações:
 
 | **Características** | **Descrição** |
 |:---:|:---:|
-| Fonte de dados | Obtido a partir de informações do [Audit](/pt/tutorial/searching-for-events-on-audit--5RXf9WJ5YLFBcS8q8KcxTA). |
+| Fonte de dados | Obtido a partir de informações do [Audit](/pt/docs/tutorials/audit). |
 | Disponibilidade | VTEX Admin. |
 | Histórico | Os dados são mantidos por dois anos, a partir de 2024 para clientes que já utilizam a plataforma VTEX. |
 | Intervalo mínimo de atualização | Uma hora. |
@@ -63,16 +63,16 @@ Veja abaixo algumas das análises possíveis com a tabela de gift cards:
 
 Os dados de gift card estão relacionados aos dados de pedidos, proporcionando uma análise abrangente de compras e vendas. Aqui estão alguns exemplos:  
 
-- **Gift cards mais usados:** combinando este modelo de dados com os dados de [pedidos](/pt/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz), é possível entender como os gift cards estão sendo utilizados e monitorar seu uso.  
-- **Impacto nas vendas:** da mesma forma, ao combinar com dados de [pedidos](/pt/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz), é possível avaliar como os gift cards influenciam as vendas.  
+- **Gift cards mais usados:** combinando este modelo de dados com os dados de [pedidos](/pt/docs/tutorials/precos-data-pipeline-beta), é possível entender como os gift cards estão sendo utilizados e monitorar seu uso.  
+- **Impacto nas vendas:** da mesma forma, ao combinar com dados de [pedidos](/pt/docs/tutorials/precos-data-pipeline-beta), é possível avaliar como os gift cards influenciam as vendas.  
 
 ### Conheça outros Conjuntos de dados
 
-- [Catálogo](/pt/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
-- [Inventário](/pt/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
-- [Navegação](/pt/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)
-- [Pagamentos](/pt/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)
-- [Pedidos](/pt/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)
-- [Promoção](/pt/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Logs do Bridge](/pt/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Catálogo](/pt/docs/tutorials/catalogo-data-pipeline)
+- [Inventário](/pt/docs/tutorials/inventario-data-pipeline-beta)
+- [Navegação](/pt/docs/tutorials/navegacao-data-pipeline-beta)
+- [Pagamentos](/pt/docs/tutorials/pagamentos-data-pipeline-beta)
+- [Pedidos](/pt/docs/tutorials/pedidos-data-pipeline-beta)
+- [Promoção](/pt/docs/tutorials/promocoes-data-pipeline-beta)
+- [Logs do Bridge](/pt/docs/tutorials/logs-do-bridge-data-pipeline)
 

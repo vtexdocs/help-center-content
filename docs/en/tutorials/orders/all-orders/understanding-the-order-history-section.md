@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-In [order details page](/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), the **Order History** section includes order details such as the order workflow, payment method used, emails exchanged with the customer and the possibility of including comments.
+In [order details page](/en/docs/tutorials/order-details-page), the **Order History** section includes order details such as the order workflow, payment method used, emails exchanged with the customer and the possibility of including comments.
 
 Its main purpose is to illustrate the entire flow that occurred with the order, so as to easily identify deviations from standard behavior or to easily identify order information.
 
@@ -31,7 +31,7 @@ One of the first items of information to appear on the time line will be the pay
 
 ## Emails exchanged with the customer
 
-The **Order History** section relates directly with the [conversarion tracker](/en/tutorial/understanding-the-conversation-tracker), which is used to unify all communication with a customer during the flow of an order. In addition, all communication by other systems with the email used in the order will be documented on the time line.
+The **Order History** section relates directly with the [conversarion tracker](/en/docs/tutorials/understanding-the-conversation-tracker), which is used to unify all communication with a customer during the flow of an order. In addition, all communication by other systems with the email used in the order will be documented on the time line.
 
 That is, all interactions such as payment approved, preparing delivery, billing, shipment and delivery will be notified to the customer by email. These emails will be registered on the time line of the order.
 

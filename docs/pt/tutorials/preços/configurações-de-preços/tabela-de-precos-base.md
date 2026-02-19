@@ -17,7 +17,7 @@ subcategoryId: 3O1NvPgBPqE0qU88MSQaie
 
 Para entender como preencher a [planilha de cadastro de preço base](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29#planilha), veja abaixo a descrição completa de cada campo.
 
-- **SKU ID**: o ID do SKU é o número que identifica um determinado SKU. Acesse nosso artigo para saber como [encontrar o ID de um SKU](/pt/tutorial/descobrir-o-id-de-um-sku--4VQZsYeb3igGK2YowuEYWW).
+- **SKU ID**: o ID do SKU é o número que identifica um determinado SKU. Acesse nosso artigo para saber como [encontrar o ID de um SKU](/pt/docs/tutorials/descobrir-o-id-de-um-sku).
 
 - **Cost Price**: considere aqui o custo de produção do seu SKU. Caso não possua a informação de custo, você pode incluir neste campo um valor igual ao **Base Price**.
 

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ **Atención:** existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones. Este artículo se refiere a [la configuración de colecciones mediante el CMS](/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L).
+> ⚠️ **Atención:** existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones. Este artículo se refiere a [la configuración de colecciones mediante el CMS](/es/docs/tutorials/registrar-una-coleccion-cms).
 
 ## Vía Admin
 No se puede eliminar por completo una colección a través del Admin. 
@@ -27,5 +27,5 @@ De forma predeterminada, las colecciones se crean con un intervalo de fechas a p
 __Basta con definir una fecha del pasado para asegurarse de que la colección no se activará.__
 
 ## Por API
-Usted puede eliminar una colección creada en el CMS a través de la ruta [Delete Collection](https://developers.vtex.com/reference/catalog-api-collection#catalog-api-delete-collection).
+Usted puede eliminar una colección creada en el CMS a través de la ruta [Delete Collection](https://developers.vtex.com/docs/api-reference/catalog-api?endpoint=delete-/api/catalog/pvt/collection/-collectionId-).
 

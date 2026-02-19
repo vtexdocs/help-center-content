@@ -35,5 +35,5 @@ The improvement aims to help VTEX clients manage their images in Site Editor and
 
 ## What needs to be done?
 No action is required. Image Widget is now available for blocks with the native image upload option.
-For more information, check out our [Image Widget documentation](/en/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov).
+For more information, check out our [Image Widget documentation](/en/docs/tutorials/image-widget).
 

@@ -18,7 +18,7 @@ Para finalizar un pedido en la plataforma VTEX, es necesario seleccionar una for
 
 Eventualmente, puede ser que no se muestre una transportadora en el checkout. Separamos seis escenarios en los que se puede dar esta situación y sus respectivas soluciones.
 
-Vale resaltar que antes de proseguir la lectura de este artículo, es necesario garantizar que todas las [transportadoras están registradas](/es/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) correctamente en la plataforma. Además, todas las soluciones se hacen en el módulo [Envío](/es/tutorial/--tutorials_143).
+Vale resaltar que antes de proseguir la lectura de este artículo, es necesario garantizar que todas las [transportadoras están registradas](/es/docs/tutorials/transportadoras-en-vtex) correctamente en la plataforma. Además, todas las soluciones se hacen en el módulo [Envío](/es/tutorial/--tutorials_143).
 
 ## Competencia entre transportadoras del mismo tipo
 
@@ -67,7 +67,7 @@ Es posible habilitar la división de un pedido en dos paquetes. Por ejemplo, si 
 
 ### Solución
 
-[Habilite la división de carga](/es/tutorial/como-funciona-a-divisao-de-carga--tutorials_109) cuando la entrega ultrapase el límite de la transportadora en **Configuración de la tienda > Envío > Configuración**.
+[Habilite la división de carga](/es/docs/tutorials/como-se-maneja-el-reparto-de-carga) cuando la entrega ultrapase el límite de la transportadora en **Configuración de la tienda > Envío > Configuración**.
 
 ## Optimización de opciones de entrega en Checkout
 
@@ -75,6 +75,6 @@ Para mejorar la experiencia de compra del cliente, la funcionalidad **Optimizaci
 
 ### Solución
 
-Desactive la función [Optimización de opciones de entrega en Checkout](/es/tutorial/optimizacion-de-opciones-de-entrega-en-checkout--6DeGO9eBSFWe4XkoS0SxAB) en su tienda.
+Desactive la función [Optimización de opciones de entrega en Checkout](/es/docs/tutorials/optimizacion-de-opciones-de-entrega-en-checkout) en su tienda.
 
 > ⚠️ Al deshabilitar esta función en Admin VTEX, todas las opciones de entrega disponibles se mostrarán en el proceso de Checkout. Sin embargo, si la funcionalidad de [Entregas Múltiples](/es/tutorial/division-de-pedidos-y-division-de-entregas--jQvzA6QgSd51e2p6bthoV#) está habilitada en la tienda y hay diferentes opciones de entrega entre los artículos seleccionados en el carrito, las **Opciones de entrega optimizadas** seguirán mostrándose. Es decir, se necesitará optimizar la entrega para manejar múltiples paquetes (artículos con diferentes opciones de entrega).

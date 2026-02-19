@@ -23,5 +23,5 @@ No cadastro de um SKU, você pode dizer que ele precisa ser entregue por um moda
 
 ### Artigos relacionados
 
-- [Configurar modal](/pt/tutorial/configurar-modal-para-transportadoras)
+- [Configurar modal](/pt/docs/tutorials/configurar-modal-para-transportadoras)
 

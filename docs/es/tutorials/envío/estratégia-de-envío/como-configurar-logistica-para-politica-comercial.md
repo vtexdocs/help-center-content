@@ -23,7 +23,7 @@ La actualización de la carga depende de una previa configuración de la logíst
 
 Después de estos pasos, es necesario esperar la actualización, lo que puede tardar unos minutos.
 
-Si se utiliza una política comercial que ya tiene una logística activa, no son necesarios las acciones arriba, sólo se exigirá la [indexación de los productos](/es/tutorial/catalogacion-de-productos-para-marketplace).
+Si se utiliza una política comercial que ya tiene una logística activa, no son necesarios las acciones arriba, sólo se exigirá la [indexación de los productos](/es/docs/tutorials/catalogacion-de-productos-para-marketplace).
 
 ## Cómo no usar la carga de su tienda
 

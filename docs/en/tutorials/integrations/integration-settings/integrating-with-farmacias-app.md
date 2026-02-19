@@ -41,7 +41,7 @@ Then, click on **Save**.
 
 Afterwards, you will have to:
 
-1. [Create collection](/en/tutorial/creating-a-product-collection/) (only if your store does not yet have a collection it wishes to allocate to the marketplace);
+1. [Create collection](/en/docs/tutorials/creating-a-product-collection/) (only if your store does not yet have a collection it wishes to allocate to the marketplace);
 2. Create a group by departament, category or sub-category;
 3. Create groups by brand;
 4. [Sales policy setup](/en/tutorial/configuring-a-marketplace-sales-policy/).

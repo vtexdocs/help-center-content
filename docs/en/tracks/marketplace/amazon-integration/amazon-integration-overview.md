@@ -24,5 +24,5 @@ This guide explains how to integrate your store with Amazon using the connector 
 ## Configurations on VTEX
 - [Defining the trade policy in Amazon](/en/tracks/amazon-integration-setup--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#defining-the-trade-policy-in-amazon)
 - [Defining the shipping strategy](/en/tracks/amazon-integration-setup--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#defining-the-shipping-strategy)
-- [Configuring the Amazon connector](/en/tracks/amazon-integration-setup--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan)
-- [Sending products to Amazon](/en/tracks/amazon-integration-setup--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD)
+- [Configuring the Amazon connector](/en/docs/tracks/configuring-the-amazon-integration)
+- [Sending products to Amazon](/en/docs/tracks/sending-products-to-amazon)

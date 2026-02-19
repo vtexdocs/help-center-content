@@ -18,7 +18,7 @@ Para finalizar um pedido na plataforma VTEX, é necessário selecionar uma forma
 
 Eventualmente, uma transportadora pode não ser exibida no checkout. Separamos seis cenários em que essa situação pode ocorrer e suas respectivas soluções. 
 
-Vale ressaltar que antes de prosseguir a leitura desse artigo, é preciso garantir que todas as [transportadoras estão cadastradas](/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) corretamente na plataforma. Além disso, todas as soluções são feitas no módulo [Envio](/pt/tutorial/visao-geral-logistics--tutorials_143). 
+Vale ressaltar que antes de prosseguir a leitura desse artigo, é preciso garantir que todas as [transportadoras estão cadastradas](/pt/docs/tutorials/transportadoras-na-vtex) corretamente na plataforma. Além disso, todas as soluções são feitas no módulo [Envio](/pt/docs/tutorials/fulfillment-logistica-vtex). 
 
 ## Concorrência entre transportadoras do mesmo tipo
 
@@ -66,7 +66,7 @@ Dessa vez, será necessário alterar os valores nos campos `weightStart` e `weig
 
 ### Solução
 
-[Habilite a divisão de carga](/pt/tutorial/como-funciona-a-divisao-de-carga--tutorials_109) quando a entrega ultrapassar o limite da transportadora. 
+[Habilite a divisão de carga](/pt/docs/tutorials/como-funciona-a-divisao-de-carga) quando a entrega ultrapassar o limite da transportadora. 
 
 ## Otimização das opções de entrega no Checkout
 
@@ -74,7 +74,7 @@ Para melhorar a experiência de compra do cliente, a funcionalidade **Otimizaç�
 
 ### Solução
 
-Desabilitar a função [Otimização das opções de entrega no Checkout](/pt/tutorial/otimizacao-das-opcoes-de-entrega-no-checkout--6DeGO9eBSFWe4XkoS0SxAB) em sua loja. 
+Desabilitar a função [Otimização das opções de entrega no Checkout](/pt/docs/tutorials/otimizacao-das-opcoes-de-entrega-no-checkout) em sua loja. 
 
 > ⚠️ Ao desabilitar esta função no Admin VTEX, todas as opções disponíveis de entrega serão exibidas no processo do Checkout. Entretanto, caso a funcionalidade de [múltiplas entregas](/pt/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV#) esteja habilitada na loja e existam opções de entrega diferentes entre os itens selecionados no carrinho, as **Opções de entrega otimizadas** continuarão a ser exibidas. Ou seja, a otimização de entrega será necessária para lidar com os múltiplos pacotes (itens com diferentes opções de entrega).
 

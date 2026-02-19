@@ -15,14 +15,14 @@ locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ Existen dos formas de configurar colecciones, mediante el CMS Portal (Legado) o utilizando el módulo [Colecciones Beta](/es/tutorial/registrar-colecciones-beta--yJBHqNMViOAnnnq4fyOye). Este artículo se refiere a la configuración de colecciones mediante el CMS Portal (Legado).
+> ⚠️ Existen dos formas de configurar colecciones, mediante el CMS Portal (Legado) o utilizando el módulo [Colecciones Beta](/es/docs/tutorials/registrar-colecciones-beta). Este artículo se refiere a la configuración de colecciones mediante el CMS Portal (Legado).
 
 Realice el siguiente paso a paso para registrar una nueva colección:  
 
 1. En el Admin VTEX, accede a **Storefront > Layout**.
 2. Dentro de la carpeta CMS, haga clic en __Product Clusters (Collections)__.
 3. Haga clic en __New Collection__.
-4. Rellene los campos del formulario de Colección. Para entender mejor el significado de cada campo, acceda a nuestro artículo sobre [cómo rellenar campos de registro de colección](/es/tutorial/rellenar-campos-de-registro-de-colección--7eKL7CFRW3yGKlnDfQetbj).
+4. Rellene los campos del formulario de Colección. Para entender mejor el significado de cada campo, acceda a nuestro artículo sobre [cómo rellenar campos de registro de colección](/es/docs/tutorials/rellenar-campos-de-registro-de-coleccion).
 5. Haga clic en __Save Product Cluster__.
 
 > ⚠️ Cuando la cantidad de colecciones creadas supera el límite de veinte, las colecciones excedentes pueden encontrarse en la interfaz a través del campo de búsqueda. La búsqueda en este campo debe realizarse en base al nombre de la colección deseada.
@@ -143,4 +143,4 @@ Para crear una colección de productos que aún no fueron lanzados en su tienda,
 
 La opción __Launches__ permite crear una colección de productos recientemente lanzados. Al seleccionar esta opción, el sistema considerará todos los productos lanzados dentro del periodo de 30 días anteriores al vigente. La fecha de lanzamiento considerada es también aquella definida en el campo _Fecha de lanzamiento en el mercado_ en el registro del producto. 
 
-> ℹ️ Si quiere entender cómo funciona la exclusión de una colección de productos, acceda a nuestro artículo sobre [cómo eliminar colecciones](/es/tutorial/como-eliminar-coleccion--6C620yHzwsGoS8iaCocAM2).
+> ℹ️ Si quiere entender cómo funciona la exclusión de una colección de productos, acceda a nuestro artículo sobre [cómo eliminar colecciones](/es/docs/tutorials/como-eliminar-una-coleccion).

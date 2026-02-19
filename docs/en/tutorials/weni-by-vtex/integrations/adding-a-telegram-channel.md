@@ -51,6 +51,6 @@ All set! You’ve created your new chatbot and received your token! Copy and sav
 
 The Telegram bot displays a **""Start""** button when you interact with it for the first time:
 
-To ensure that the **Start** button initiates a new conversation when clicked, you need to configure the [corresponding trigger](https://help.vtex.com/docs/tutorials/triggers-types) by providing the name of the Telegram channel and the desired flow.
+To ensure that the **Start** button initiates a new conversation when clicked, you need to configure the [corresponding trigger](/en/docs/tutorials/triggers-types) by providing the name of the Telegram channel and the desired flow.
 
-Since this type of trigger only works on the first interaction, to enable interactions in subsequent flows, you need to have at least one more trigger configured, such as one that [captures unhandled messages by another flow](https://help.vtex.com/docs/tutorials/triggers-types).
+Since this type of trigger only works on the first interaction, to enable interactions in subsequent flows, you need to have at least one more trigger configured, such as one that [captures unhandled messages by another flow](/en/docs/tutorials/triggers-types).

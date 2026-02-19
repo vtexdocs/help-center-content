@@ -79,7 +79,7 @@ Para actualizar el precio fijo en una tabla específica, haga clic en la columna
 
 ![Lista de preços - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/lista-de-precios/configuracion-de-tablas-de-precios-para-usuarios-especificos_2.png)
 
-Para ingresar y actualizar los precios de una tabla específica por API, vea esta [documentación de API](https://developers.vtex.com/reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy).
+Para ingresar y actualizar los precios de una tabla específica por API, vea esta [documentación de API](https://developers.vtex.com/docs/api-reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy).
 
 > ℹ️ La tabla de precios tiene prioridad sobre el precio de la Política Comercial. Eso significa que, si determinada tabla de precios se aplica al contexto de un usuario, el precio definido en este será el usado, aunque ese cliente esté también en el contexto de una política comercial que defina un precio diferente.
 

@@ -27,7 +27,7 @@ O algoritmo de seleção de sellers foi atualizado para assegurar a maior cobert
 
 Além disso, para escolha de sellers que oferecem a opção de retirada, o algoritmo priorizará sempre a distância da localização de referência sobre critérios de preço e prazo para retirada.
 
-> ⚠️ Atenção: A atualização do algoritmo se aplica para Seller White Label, e inclui [Contas Franquia](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa). O algoritmo de seleção de sellers é aplicado quando o cliente consulta as opções de entrega. Isso significa que ele é aplicado na previsão de entrega no carrinho ou na etapa de entrega e retirada do checkout.
+> ⚠️ Atenção: A atualização do algoritmo se aplica para Seller White Label, e inclui [Contas Franquia](/pt/docs/tutorials/seller-white-label). O algoritmo de seleção de sellers é aplicado quando o cliente consulta as opções de entrega. Isso significa que ele é aplicado na previsão de entrega no carrinho ou na etapa de entrega e retirada do checkout.
 
 ##  Por que realizamos esta mudança?
 

@@ -23,7 +23,7 @@ When the customer places an order, the cart may contain products that are in one
 In this context, VTEX Checkout v6 allows you to process different shipping options and combine selected products into packages. This optimization of shipping options (also known as **Lean Shipping**), improves the customer's shopping experience through the following actions:
 - **Reduction of information at Checkout**:
   - More expensive and longer shipping options are not shown to the customer.
-  - Products with different shipping options are automatically organized int [multiple packages](/en/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV), without the need for customer review.   
+  - Products with different shipping options are automatically organized int [multiple packages](/en/docs/tutorials/order-split-and-delivery-split), without the need for customer review.   
 
 - **Faster Checkout**: internal processing of available shipping options, reducing the number of options that have similar costs and shipping times.
 

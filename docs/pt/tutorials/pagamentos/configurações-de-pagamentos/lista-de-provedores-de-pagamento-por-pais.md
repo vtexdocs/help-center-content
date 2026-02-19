@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-A VTEX oferece a possibilidade de diversos [provedores de pagamento](/pt/tutorial/afiliacoes-de-gateway--tutorials_444) para o seu negócio em muitos países.
+A VTEX oferece a possibilidade de diversos [provedores de pagamento](/pt/docs/tutorials/afiliacoes-de-gateway) para o seu negócio em muitos países.
 
 Para identificar as opções disponíveis, clique em **Search** e digite o nome do país, provedor de pagamento ou disponibilidade do Split de Recebíveis (Sim/Não). Você também pode optar por exibir 10, 25, 50 ou 100 resultados por página, selecionando o campo **Show Entries**.
 

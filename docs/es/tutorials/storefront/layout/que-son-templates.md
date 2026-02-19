@@ -19,7 +19,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 Esta funcionalidad está disponible para las tiendas que utilizan la tecnología Portal Legada.
 </div>
 
-Los templates son los archivos que contienen el código de las páginas de su web site. Se trata, entre otras cosas, de determinar cómo las informaciones van a aparecer en la pantalla (incluso la posición de los [placeholders](/es/tutorial/que-son-placeholders)).
+Los templates son los archivos que contienen el código de las páginas de su web site. Se trata, entre otras cosas, de determinar cómo las informaciones van a aparecer en la pantalla (incluso la posición de los [placeholders](/es/docs/tutorials/que-son-placeholders)).
 
 En la plataforma VTEX, los templates se dividen en dos tipos:
 
@@ -36,8 +36,8 @@ Y hablando en organización, usted encuentra todos los templates en el **Storefr
 
 ### Artículos relacionados
 - [¿Qué es el CMS?](/es/tutorial/que-es-el-cms)
-- [¿Qué es un web site?](/es/tutorial/que-es-un-web-site)
-- [¿Qué son placeholders?](/es/tutorial/que-son-placeholders)
-- [¿Qué son layouts?](/es/tutorial/que-son-layouts)
-- [¿Qué son estantes?](/es/tutorial/que-son-estantes)
+- [¿Qué es un web site?](/es/docs/tutorials/que-es-un-web-site)
+- [¿Qué son placeholders?](/es/docs/tutorials/que-son-placeholders)
+- [¿Qué son layouts?](/es/docs/tutorials/que-son-layouts)
+- [¿Qué son estantes?](/es/docs/tutorials/que-son-estantes)
 - [Crear un template de página](/es/tutorial/crear-un-template-de-pagina)

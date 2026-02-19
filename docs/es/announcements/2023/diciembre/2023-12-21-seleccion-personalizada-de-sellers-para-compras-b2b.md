@@ -28,4 +28,4 @@ Para que el proceso de compra sea más ágil, centralizado y que simplifique el 
 ## ¿Qué se necesita hacer?
 
 No se requiere ninguna acción, la funcionalidad ya está disponible para todas las tiendas.
-Para obtener más información sobre cómo crear una nueva asignación de sellers, accede a [Configurar la asignación de sellers a organizaciones compradoras (B2B)](/es/tutorial/configurando-atribuicao-de-sellers-a-organizacoes-compradoras-b2b-xky--3VJtKNbLpVAl71uVdaOqpE).
+Para obtener más información sobre cómo crear una nueva asignación de sellers, accede a [Configurar la asignación de sellers a organizaciones compradoras (B2B)](/es/docs/tutorials/configurar-la-asignacion-de-sellers-a-organizaciones-compradoras-b2b-xky).

@@ -29,7 +29,7 @@ So, if you have the store domain registered on the **Cloudfront** platform, dele
 
 > ⚠️ You will only need to configure CAA records, as described in this section if there is a CAA record in your DNS server. Otherwise, proceed to the next section of this guide.
 
-CAA records indicate which certificate authorities (CAs) are entitled to generate and renew certificates to confirm your domain identity. Proper configuration of these records is necessary to generate [SSL certificates](/en/tutorial/certificado-de-seguranca-ssl-a-que-se-refere-e-como-contratar--tutorials_1308) and use the VTEX CDN.
+CAA records indicate which certificate authorities (CAs) are entitled to generate and renew certificates to confirm your domain identity. Proper configuration of these records is necessary to generate [SSL certificates](/en/docs/tutorials/security-certificate-ssl) and use the VTEX CDN.
 
 The CAA records must contain the following entry:
 

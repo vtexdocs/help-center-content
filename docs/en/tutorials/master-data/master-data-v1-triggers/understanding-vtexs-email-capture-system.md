@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2nx7hMJmisofwqwy2P9l2i
 ---
 
-The purpose of this article is to show how a user's email is received in the [Master Data CRM](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw). For this, it will be demonstrated how **Checkout**, **RC.JS** and **Master Data** work together to capture the email information of a new user.
+The purpose of this article is to show how a user's email is received in the [Master Data CRM](/en/docs/tutorials/master-data). For this, it will be demonstrated how **Checkout**, **RC.JS** and **Master Data** work together to capture the email information of a new user.
 
 For better understanding, we will present a scenario (divided into 3 steps), where the user successfully completes his purchase and the order is forwarded to OMS, while his email is transmitted securely to Master Data. In this context, user actions and platform flow occur in the following order:
 

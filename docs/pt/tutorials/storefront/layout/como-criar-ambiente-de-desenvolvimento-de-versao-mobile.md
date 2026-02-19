@@ -21,7 +21,7 @@ Tutorial válido apenas para lojas CMS Portal (Legado).
 
 Iniciamos esse artigo reforçando que a tendência e as boas práticas indicam a utilização de uma única versão (responsiva) para desktop e mobile. A criação de uma versão mobile apartada era uma prática adotada quando os recursos de CSS dificultavam a adaptação de uma versão desktop para mobile. 
 
-Hoje em dia, com os recursos que o CSS oferece, a criação de uma versão responsiva tornou-se padrão. Leia mais sobre esse assunto no artigo [Responsivo × Versão Mobile](/pt/tutorial/responsivo-x-versao-mobile/).
+Hoje em dia, com os recursos que o CSS oferece, a criação de uma versão responsiva tornou-se padrão. Leia mais sobre esse assunto no artigo [Responsivo × Versão Mobile](/pt/docs/tutorials/responsivo-x-versao-mobile/).
 
 Esse artigo tem objetivo de ilustrar como preparar um ambiente de desenvolvimento para versão mobile sem impactar a versão de produção.
 

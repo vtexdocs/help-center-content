@@ -35,12 +35,12 @@ Copie esta [Checklist de configuração de loja](https://cdn.statically.io/gh/vt
 
 O processo de go-live da sua loja pode ter variações dependendo de algumas características da sua operação. Além disso, alguns passos são sensíveis ao tempo. Por esses motivos recomendamos que planeje o processo completo do seu go-live com no mínimo 15 dias de antecedência.
 
-> ℹ️ Se você usa o CMS Portal (Legado) Portal e deseja migrar para uma frente de loja construída com [VTEX IO](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), siga as instruções no guia [Migrando sua frente de loja do CMS Portal (Legado) Portal para Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io).
+> ℹ️ Se você usa o CMS Portal (Legado) Portal e deseja migrar para uma frente de loja construída com [VTEX IO](/pt/docs/tracks/cms-vtex-io), siga as instruções no guia [Migrando sua frente de loja do CMS Portal (Legado) Portal para Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io).
 
 Por motivo de organização e conveniência, este guia divide os passos envolvidos no go-live em quatro estágios:
 
-1. [Configurações](/pt/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7wFsbWgN4rnZsbjhv8IItX)
-2. [Pré go-live](/pt/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ)
-3. [Go-live](/pt/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj)
-4. [Pós go-live](/pt/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/K8UQ6W7MhH1ovp91kJxBJ)
+1. [Configurações](/pt/docs/tracks/configuracoes)
+2. [Pré go-live](/pt/docs/tracks/pre-go-live)
+3. [Go-live](/pt/docs/tracks/go-live)
+4. [Pós go-live](/pt/docs/tracks/pos-go-live)
 

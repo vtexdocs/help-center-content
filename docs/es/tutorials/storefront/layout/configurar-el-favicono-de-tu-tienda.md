@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ Este tutorial solo es válido para tiendas CMS Portal (Legado). Para tiendas desarrolladas con Store Framework, sigue las instrucciones de la sección **Faviconos** de la guía [Configurar SEO en la tienda Store Framework](/es/tutorial/configurar-seo-en-la-tienda--1sKskEsjUSvgHyqM8oknVR#faviconos).
+> ⚠️ Este tutorial solo es válido para tiendas CMS Portal (Legado). Para tiendas desarrolladas con Store Framework, sigue las instrucciones de la sección **Faviconos** de la guía [Configurar SEO en la tienda Store Framework](/es/docs/tutorials/configurar-seo-en-la-tienda#faviconos).
 
 Un favicono es el pequeño ícono asociado a un sitio web que se muestra en la pestaña del navegador al lado del título de la página, en favoritos, en el historial de navegación y en otros lugares donde aparece la dirección del sitio web, como las páginas de resultados de búsqueda.
 
@@ -35,8 +35,8 @@ Para configurar el favicono en tiendas CMS Portal (Legado), sigue las instruccio
 
 3. Haz clic en `Browse for file`para agregar el archivo de imagen en formato `.ico`.
 
-    > ⚠️ El nombre del archivo debe seguir el formato ***{storeName}**-favicon.ico*. Sustituye la variable **{storeName}** por el nombre de la tienda registrado en [Gestión de la cuenta](/es/tutorial/gestion-de-la-cuenta--2vhUVOKfCaswqLguT2F9xq).
+    > ⚠️ El nombre del archivo debe seguir el formato ***{storeName}**-favicon.ico*. Sustituye la variable **{storeName}** por el nombre de la tienda registrado en [Gestión de la cuenta](/es/docs/tutorials/gestion-de-la-cuenta).
 
-4. Configura los [templates](/es/tutorial/que-son-templates--4l7BQBYO9ycumsqua2CU88) con el elemento `<link>` dentro de `<head>` como sigue: `<link rel="shortcut icon" href="/arquivos/**{storeName}**-favicon.ico" />`. Debes sustituir la variable `{storeName}` por el nombre de la tienda.
+4. Configura los [templates](/es/docs/tutorials/que-son-templates) con el elemento `<link>` dentro de `<head>` como sigue: `<link rel="shortcut icon" href="/arquivos/**{storeName}**-favicon.ico" />`. Debes sustituir la variable `{storeName}` por el nombre de la tienda.
 
     > ℹ️ Puedes configurar el favicono con otro nombre de archivo. Sin embargo, eso creará una URL con formato diferente. Se recomienda mantener el formato antes mencionado, ya que Checkout y OrderPlaced lo utilizan al cargar la URL.

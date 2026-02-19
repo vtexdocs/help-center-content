@@ -26,9 +26,9 @@ The step-by-step below will show you how to create departments, categories and s
 3.	Click on the category in which you wish to add child categories.
 4.	A small blue rectangle will appear on the screen. Select the `Actions` dropdown menu.
 5.	From the dropdown menu, select `Include`.
-6.	Fill out the category fields on the form. For a better understanding of each field, read the article on [how to fill out category fields](/en/tutorial/campos-de-cadastro-de-categoria--5Z7RrvW41yumyQCmk2iqoG).
+6.	Fill out the category fields on the form. For a better understanding of each field, read the article on [how to fill out category fields](/en/docs/tutorials/registering-a-category).
 7.	Click on `Save`.
 
 ## API
 
-Use the [Create Category](https://developers.vtex.com/reference/catalog-api-category#catalog-api-post-category) request to create a new Category using the API Catalog.
+Use the [Create Category](https://developers.vtex.com/docs/api-reference/catalog-api?endpoint=post-/api/catalog/pvt/category) request to create a new Category using the Catalog API.

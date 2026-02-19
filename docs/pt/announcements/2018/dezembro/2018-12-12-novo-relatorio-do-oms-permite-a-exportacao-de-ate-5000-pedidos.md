@@ -29,6 +29,6 @@ O comportamento do módulo permanece o mesmo desde a última mudança: se o filt
 
 
 ## Como exportar mais de 5 mil pedidos
-Você pode continuar exportando mais do que 5 mil pedidos usando as APIs de gerenciamento de pedidos (antigo OMS): [Get Order](https://developers.vtex.com/reference/orders#getorder) e [Get Feed Order Status](https://developers.vtex.com/reference/note).
+Você pode continuar exportando mais do que 5 mil pedidos usando as APIs de gerenciamento de pedidos (antigo OMS): [Get Order](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-) e [Get Feed Order Status](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/feed/orders/status).
 
 > ⚠️ **Mas lembre-se:** para funcionar, é necessário que você **crie um range de data/hora que inclua, no máximo, 5 mil pedidos**. Com o range definido e o limite respeitado, você vai poder chamar a API quantas vezes for necessário.

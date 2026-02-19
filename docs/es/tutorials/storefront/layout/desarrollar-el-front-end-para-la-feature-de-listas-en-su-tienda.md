@@ -120,7 +120,7 @@ Este código representa una lista con __tres links__:
 
 ## Editar el template de creación de listas
 
-> ℹ️ Antes de editar esta plantilla, es necesario [crear el tipo de lista](/es/tutorial/criando-tipo-de-lista) que se ofrecerá en su lista tienda. <!--Reescrever o artigo de tipo de lista -->
+> ℹ️ Antes de editar esta plantilla, es necesario [crear el tipo de lista](/es/docs/tutorials/criando-tipo-de-lista) que se ofrecerá en su lista tienda. <!--Reescrever o artigo de tipo de lista -->
 
 La plantilla para crear listas se encuentra en la ruta `giftlist/create`. La plantilla por defecto de esta ruta es el `new-GiftList-Create`, ubicado en la sección `HTML Templates` de su CMS.
 

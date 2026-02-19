@@ -39,4 +39,4 @@ Si quiere aún más detalles sobre las ventajas que Stripe puede aportar a su ne
 
 Para procesar sus pagos con Stripe, necesita configurarlo en el Admin VTEX. 
 
-Consulte el paso a paso completo en la documentación sobre la [Configuración de la afiliación Stripe](/es/tutorial/configurar-la-afiliacion-stripe--fwF2wk2FQKrODrWWkvSLO).
+Consulte el paso a paso completo en la documentación sobre la [Configuración de la afiliación Stripe](/es/docs/tutorials/configurar-la-afiliacion-stripe).

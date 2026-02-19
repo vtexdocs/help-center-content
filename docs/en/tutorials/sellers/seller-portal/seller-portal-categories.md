@@ -65,6 +65,6 @@ You can edit the information for each category by clicking on the <i class="fas 
 
 ### Learn more
 
-* [Product list (Beta)](/en/tutorial/product-list-beta--49vxWqoaWRZC4atwLz6cMg)
-* [How to create a product (Beta)](/en/tutorial/how-to-create-a-product-beta--671zAWe0B9eCikzDu7kB1G)
+* [Product list (Beta)](/en/docs/tutorials/product-list)
+* [How to create a product (Beta)](/en/docs/tutorials/how-to-create-a-product)
 

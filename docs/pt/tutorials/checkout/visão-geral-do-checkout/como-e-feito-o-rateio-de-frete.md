@@ -35,5 +35,5 @@ Para fins de usabilidade de termos, utilizamos em nossa documentação o termo "
 
 É possível visualizar como esse rateio do valor do frete é feito no cálculo do frete. Você pode consultar como a divisão dos valores é feita no módulo de de envio no Admin (ao simular um envio, os valores  de frete aparecem de forma detalhada), ou por API (visualizar esses valores no JSON do pedido, como retornado pela rota [Get order](https://developers.vtex.com/vtex-developer-docs/reference/orders#getorder), dentro do detalhe de cada item no campo logisticsInfo).
 
-Para saber mais como funciona a simulação de frete leia o artigo [Simulador de envio](/pt/tutorial/simulacao-de-frete--tutorials_144).
+Para saber mais como funciona a simulação de frete leia o artigo [Simulador de envio](/pt/docs/tutorials/simulador-de-envio).
 

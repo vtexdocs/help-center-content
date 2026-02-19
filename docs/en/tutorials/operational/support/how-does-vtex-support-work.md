@@ -18,7 +18,7 @@ subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 At VTEX, we share responsibility for our customers' success. Our support plans allow you to receive the right level of attention and expertise to maximize the platform's potential and develop your business. This allows you to mitigate the risks of your digital operation and keep your operational costs under control.
 
 ## Support
- All customers have access to support from our team of experts, who are prepared to resolve tickets efficiently. Moreover, [Copilot](/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) is an integrated tool that helps answer questions and resolve technical issues. You can get support by opening a ticket through the Help Center or interacting directly with [Copilot](/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) in the VTEX Admin.
+ All customers have access to support from our team of experts, who are prepared to resolve tickets efficiently. Moreover, [Copilot](/en/docs/tutorials/opening-tickets-to-vtex-support) is an integrated tool that helps answer questions and resolve technical issues. You can get support by opening a ticket through the Help Center or interacting directly with [Copilot](/en/docs/tutorials/opening-tickets-to-vtex-support) in the VTEX Admin.
 
 ### Ticket system
 Official communication with the Support team is via the ticket system. To open a ticket, click Support, located on the right side of the top bar on the [Help Center](/en/faq/planos-de-suporte--3kACEfni4m8Yxa1vnf2ebe#help-center) main page.
@@ -32,7 +32,7 @@ VTEX Support is global and provides a standardized service experience for all cu
 
 Our teams follow the same global criteria for availability and service levels (SLA), ensuring consistency and predictability in support across all regions.
 
-For more information, see [VTEX Global Support Resources](/en/tutorial/recursos-de-suporte-global-da-vtex--5maoEWCrTKFAEMXRsfcklV).
+For more information, see [VTEX Global Support Resources](/en/docs/tutorials/vtex-global-support-resources).
 
 ### Satisfaction Survey
 The *Satisfaction Survey* page in your VTEX Admin allows you to view a list of resolved tickets submitted by you on behalf of your store. Through the page you can also rate VTEX's support through our Satisfaction Survey page after each ticket is resolved.    
@@ -46,7 +46,7 @@ We value transparency regarding the integrity of our systems. Thus, whenever the
 
 - The [Status](https://status.vtex.com/) page displays a timeline with the recent system incidents history. Detailed information on each incident is available, such as what happened, which modules were affected, the sequence of actions taken towards solving the problem, and in the end, a summary of the issue. 
 
-We'll take all appropriate measures to resolve issues as soon as possible and guarantee compliance with the [SLA](/en/tutorial/o-que-e-o-sla-de-operacao-da-plataforma--2cIFrsY5S8usk84OU4QOKm) set in our contract.
+We'll take all appropriate measures to resolve issues as soon as possible and guarantee compliance with the [SLA](/en/docs/tutorials/vtex-operation-service-level-agreement-sla) set in our contract.
 
 ### Help Center
 In this [documentation portal for users](https://help.vtex.com/), you'll find tutorials for beginners, reference guides, and troubleshooting articles. This knowledge base contains all the information you need to use the VTEX Admin.

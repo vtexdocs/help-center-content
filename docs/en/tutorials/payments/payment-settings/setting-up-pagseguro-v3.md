@@ -34,7 +34,7 @@ To configure PagBankV3, follow the steps below:
    		<li>**Automatic capture immediately after anti-fraud analysis**: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic capture immediately after payment authorization".</li>     
    		<li>**Disabled**: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.</li>
 </ul>
-8. If you want to use [payment split](/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx) in your store, select the option __Enable payout split and send payment recipients__ and indicate the __Accountable for payment processing charges__ and __Accountable for chargebacks__ (marketplace, sellers or marketplaces and sellers).
+8. If you want to use [payment split](/en/docs/tutorials/split-payment) in your store, select the option __Enable payout split and send payment recipients__ and indicate the __Accountable for payment processing charges__ and __Accountable for chargebacks__ (marketplace, sellers or marketplaces and sellers).
 9. In __Provider Fields__, configure the fields __Prazo para captura do pagamento
 __, __Gostaria de ativar o repasse do liable das transações para o seller com maior valor a receber?__, __Prazo de expiração do QR Code PIX__, and __Ativar 3DS__ according to the provider's instructions.
 10. Click __Save__.

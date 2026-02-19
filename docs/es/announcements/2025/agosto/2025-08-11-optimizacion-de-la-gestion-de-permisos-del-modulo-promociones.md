@@ -15,14 +15,14 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Cambio en los permisos del Admin para editar promociones con métodos de envío y pago.'
 ---
 
-Para reforzar la seguridad de la plataforma y garantizar una gestión de acceso adecuada, cambiamos los permisos necesarios para editar ciertas condiciones de promociones. Ahora, ciertas acciones en el formulario de promociones requieren [recursos adicionales de License Manager](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
+Para reforzar la seguridad de la plataforma y garantizar una gestión de acceso adecuada, cambiamos los permisos necesarios para editar ciertas condiciones de promociones. Ahora, ciertas acciones en el formulario de promociones requieren [recursos adicionales de License Manager](/es/docs/tutorials/recursos-del-license-manager).
 
 ## ¿Qué cambió?
 
 Los usuarios necesitarán permisos específicos para **agregar o editar condiciones de promociones** relacionadas con **métodos de envío** y **medios de pago**. Los requisitos son:
 
-- **Métodos de envío**: requiere un [rol](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) con el [recurso](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **LogisticsInternal** del producto **Logistics.**
-- **Medios de pago**: requiere un [rol](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) con el [recurso](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **View Payment Data** del producto **PCI Gateway.**
+- **Métodos de envío**: requiere un [rol](/es/docs/tutorials/roles) con el [recurso](/es/docs/tutorials/recursos-del-license-manager) **LogisticsInternal** del producto **Logistics.**
+- **Medios de pago**: requiere un [rol](/es/docs/tutorials/roles) con el [recurso](/es/docs/tutorials/recursos-del-license-manager) **View Payment Data** del producto **PCI Gateway.**
 
 > ⚠️ Estos recursos son requisitos adicionales que se deben tener además de los recursos regulares para editar condiciones de promociones.
 
@@ -36,5 +36,5 @@ La falta de permisos impide que los usuarios editen las condiciones de métodos 
 
 Para más información sobre la gestión de permisos, accede a:
 
-- [Recursos de License Manager](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)
-- [Roles](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
+- [Recursos de License Manager](/es/docs/tutorials/recursos-del-license-manager)
+- [Roles](/es/docs/tutorials/roles)

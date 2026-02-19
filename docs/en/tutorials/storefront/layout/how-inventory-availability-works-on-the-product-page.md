@@ -29,7 +29,7 @@ That way, the Layout uses this Checkout information and shows on the product pag
 
 It's possible, although not common, that a product appears as __unavailable__ to some user, __even having available stock__.
 
-What happens is that product pages use the cache to store some data and optimize its performance. Thus, the requests fetch some information from the [cache layers](/en/tutorial/understanding-how-the-cache-works) instead of requesting the information directly from the servers. This is a common procedure on the web so that responses to requests are faster and sites become more efficient.
+What happens is that product pages use the cache to store some data and optimize its performance. Thus, the requests fetch some information from the [cache layers](/en/docs/tutorials/understanding-how-the-cache-works) instead of requesting the information directly from the servers. This is a common procedure on the web so that responses to requests are faster and sites become more efficient.
 
 Because of these cache layers, inventory availability information on the product page may differ from that returned by Checkout at the same time. In order for the product page to display the most up-to-date Checkout information, the product page cache must expire. To expire the cache, you must add any parameter to the product page URL (for example, `utm_source=anyquerstring`) and refresh the page.
 

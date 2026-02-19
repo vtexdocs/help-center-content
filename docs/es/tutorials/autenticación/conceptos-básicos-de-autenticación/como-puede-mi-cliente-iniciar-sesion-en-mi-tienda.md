@@ -64,5 +64,5 @@ Este tipo de login __solicita email y contraseña__ para que el cliente pueda au
 
 ### Inicio de sesión con redes sociales
 
-Se puede incluir opciones de inicio de sesión utilizando su cuenta de Google o Facebook. Para saber cómo incluir estas opciones, lea el artículo [Configurar inicio de sesión con Facebook y Google](/es/tutorial/configuring-login-with-facebook-and-google--tutorials_513).
+Se puede incluir opciones de inicio de sesión utilizando su cuenta de Google o Facebook. Para saber cómo incluir estas opciones, lea el artículo [Configurar inicio de sesión con Facebook y Google](/es/docs/tutorials/configurar-inicio-de-sesion-con-facebook-y-google).
 

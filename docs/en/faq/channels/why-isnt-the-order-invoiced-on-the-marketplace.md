@@ -20,7 +20,7 @@ This scenario arises when the tax invoice and the order invoice are entered on V
 
 As in any other phase of the purchase, anything can happen during integration. However, this will always be logged on the bridge to help you understand and find out how to correct it.
 
-[Find out how to analyze integration errors on the Bridge.](/en/tutorial/checking-integrations-in-bridge)
+[Find out how to analyze integration errors on the Bridge.](/en/docs/tutorials/checking-integrations-in-bridge)
 
 ## Enter the access key with the tax invoice
 
@@ -34,4 +34,4 @@ The Tax Invoice Access Key is an auxiliary instrument for querying the electroni
 
 __Remember!__ This information item is created when the Tax Invoice is generated and works on ERP. If you have one, request it.
 
-This value can be entered manually by the admin or by the [invoice notification API](https://developers.vtex.com/reference/invoice#invoicenotification), in the **invoiceKey** field.
+This value can be entered manually by the admin or by the [invoice notification API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice), in the **invoiceKey** field.

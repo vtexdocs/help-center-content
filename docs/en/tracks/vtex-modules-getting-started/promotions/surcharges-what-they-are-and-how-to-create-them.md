@@ -24,6 +24,6 @@ To create a surcharge, follow the steps below:
    1. Access the Rates & benefits module;
    2. Click on the __Taxes__ tab;
    3. Click on the __New Tax__ button;
-   4. Fill in the general data of the surcharge, inform the items to which it will be applied and choose the conditions of application. To learn in detail the function of each field in the taxes configuration screen, read the article [How to create surcharges/taxes](/en/tutorial/creating-surchargestaxes--tutorials_321).
+   4. Fill in the general data of the surcharge, inform the items to which it will be applied and choose the conditions of application. To learn in detail the function of each field in the taxes configuration screen, read the article [How to create surcharges/taxes](/en/docs/tutorials/creating-surchargestaxes).
    5. Click on __Save__.
 

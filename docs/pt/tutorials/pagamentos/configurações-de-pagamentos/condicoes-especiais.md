@@ -25,7 +25,7 @@ Para identificar as condições especiais aplicáveis a cada forma de pagamento,
 
 Possibilita definir uma regra de pagamento para cada agrupamento de SKUs, mas para que funcione corretamente, se faz necessário primeiro que crie condições comerciais diferentes da padrão do sistema e, que os SKUs que deverão obedecer a essa regra estejam devidamente associadas à condição comercial.
 
-Para saber como cadastrar uma nova condição comercial e associá-la a um SKU, leia o documento [Cadastrar condição comercial](/pt/tutorial/como-cadastrar-condicao-comercial--tutorials_445).
+Para saber como cadastrar uma nova condição comercial e associá-la a um SKU, leia o documento [Cadastrar condição comercial](/pt/docs/tutorials/como-cadastrar-condicao-comercial).
 
 ## Como configurar a condição comercial na condição de pagamento
 

@@ -32,6 +32,6 @@ To configure Zoop, follow the steps below:
 6. In **Enable payout split and send payment recipients?**, select whether split payments will be available for the marketplace and sellers.
 7. Click on `Save`.
 
-To set up payment conditions, access [Configure special payment conditions](/en/tutorial/how-to-configure-payment-conditions).
+To set up payment conditions, access [Configure special payment conditions](/en/docs/tutorials/how-to-configure-payment-conditions).
 
 After following the indicated steps, Zoop connector may take up to 10 minutes to appear at your store's checkout as a payment option.

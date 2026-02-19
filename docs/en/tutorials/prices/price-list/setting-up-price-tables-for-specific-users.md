@@ -81,7 +81,7 @@ Price tables are shown as columns of the price list, as are trade policies.
 
 To update a fixed price in a specific table, on the column corresponding to that table, and then on __Define fixed prices__. 
 
-To enter and update prices from a specific table via API, check out the [Pricing API documentation](https://developers.vtex.com/reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy).
+To enter and update prices from a specific table via API, check out the [Pricing API documentation](https://developers.vtex.com/docs/api-reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy).
 
 > ℹ️ The Price Table has priority over the prices from the trade Policy. If a given Price Table applies to a user's context, the price set in it will be used, even if that customer is also within the context of a trade policy with a different price.
 

@@ -48,7 +48,7 @@ Once you have an API Key, proceed as follows:
 
 ### Setting up the polygon
 
-For this function to work correctly, you must register the polygons corresponding to the required delivery areas on the map. Then you must associate them with the transport companies making the deliveries, by including the IDs of these polygons in the freight charges table. To this, see the article [Registering geolocation](/en/tutorial/registering-geolocation/).
+For this function to work correctly, you must register the polygons corresponding to the required delivery areas on the map. Then you must associate them with the transport companies making the deliveries, by including the IDs of these polygons in the freight charges table. To this, see the article [Registering geolocation](/en/docs/tutorials/registering-geolocation/).
 
 ### Setting up the Checkout
 

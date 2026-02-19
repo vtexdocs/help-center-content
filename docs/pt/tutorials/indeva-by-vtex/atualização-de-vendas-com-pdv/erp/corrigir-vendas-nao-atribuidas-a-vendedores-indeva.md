@@ -42,5 +42,5 @@ Abaixo está uma ilustração que demonstra o processo:
 
 > ❗ Enquanto o vendedor não estiver com o código informado corretamente, as vendas serão agrupadas na Indeva como **Outras Vendas**. Para corrigir registros anteriores, acesse **Validação** e refaça a validação dos dias impactados.
 
-Para mais informações, consulte [Validar valores de PDV na plataforma Indeva](/pt/tutorial/validar-valores-de-pdv-na-plataforma-indeva--5GRLWlRabZKTm3Ina5PpI7).
+Para mais informações, consulte [Validar valores de PDV na plataforma Indeva](/pt/docs/tutorials/validar-valores-de-pdv-na-plataforma-indeva).
 

@@ -44,7 +44,7 @@ Ao finalizar a criação e ativação da Tag, no Google Tag Manager, é preciso 
 
 ## Configurar condições de pagamento
 
-Para configurar os métodos de pagamento a serem processados pela Openpay, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento). 
+Para configurar os métodos de pagamento a serem processados pela Openpay, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento). 
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

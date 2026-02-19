@@ -16,7 +16,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
 O Mercado Pago has some exclusive payment methods, among which we can highlight in this article:
-- __Mercado Pago Offline__:  allows the use of [offline payment conditions available in Latin America](/en/tutorial/what-offline-payment-conditions-are-available-in-latin-america--2lXPwiH6KcsSMuWaoigueq#).
+- __Mercado Pago Offline__:  allows the use of [offline payment conditions available in Latin America](/en/docs/tutorials/list-of-payment-providers-by-country).
 - __Mercado Pago Wallet__: digital wallet that allows you to pay using the credits in your Mercado Pago account.
 
 To use Mercado Pago's solutions, contact VTEX and request the installation of the “Mercado Pago Payment APP” application. If the application is not installed, your customer will not see the popup to complete the purchase at the end of the transaction.

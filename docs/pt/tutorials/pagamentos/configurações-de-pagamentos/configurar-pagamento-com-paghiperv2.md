@@ -29,7 +29,7 @@ Para configurar a PagHiperV2, siga os passos abaixo:
 8. Em __Frase variável do vendedor__, caso desejar, configure a frase a ser exibida para cada boleto específico.
 9. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela PagHiperV2, acesse [Configurar condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela PagHiperV2, acesse [Configurar condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

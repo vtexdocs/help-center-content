@@ -34,8 +34,8 @@ To configure Chase Payments, follow the steps below:
 8. In **Provider Fields**, select or complete the fields **Merchant ID**, **Anti-fraud Merchant ID**, **Safetech Merchant ID**, **Fraud Scoring**, **Connection Username**, **Connection Password**, **Sandbox Mode**, **Automatic settlement**, **ApplePay Automatic settlement**, **External Refund**, **External Cancellation**, **enable credit card tokenization display**, and **enable anti-fraud analysis** according to the provider's  instructions.
 9. Click `Save`.
 
-To configure the payment methods to be processed by Chase Payments, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455).
+To configure the payment methods to be processed by Chase Payments, access [Configuring Payment Conditions](/en/docs/tutorials/how-to-configure-payment-conditions).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456).
+To set special conditions on payment methods, go to [Configuring payment special conditions](/en/docs/tutorials/special-conditions).
 
 After following the indicated steps, Chase Payments may take up to 10 minutes to appear at your store's  checkout as a payment option.

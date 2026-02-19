@@ -14,7 +14,7 @@ locale: en
 legacySlug: why-after-signing-in-to-the-administrative-panel-i-am-redirected-to-my-store
 ---
 
-This scenario happens when the email used to log in to the Admin has access to some Callcenter feature configured through [roles](/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc) in __Account management__.
+This scenario happens when the email used to log in to the Admin has access to some Callcenter feature configured through [roles](/en/docs/tutorials/roles) in __Account management__.
 
 Callcenter profiles block access to the __Catalog__, that is, the user can not add a new product, for example. If he or she must access this module, the user must work with two different logins.
 

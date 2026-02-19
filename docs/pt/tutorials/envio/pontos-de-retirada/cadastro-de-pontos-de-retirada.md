@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1c5Btie9ou2Gg2iUo0ggqM
 ---
 
-Pontos de retirada são locais físicos onde clientes podem retirar pedidos feitos no seu ecommerce. É uma etapa opcional da [estratégia de envio](/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) da sua loja. 
+Pontos de retirada são locais físicos onde clientes podem retirar pedidos feitos no seu ecommerce. É uma etapa opcional da [estratégia de envio](/pt/docs/tutorials/estrategia-de-envio) da sua loja. 
 
 Você pode cadastrar pontos de retirada utilizando a requisição de API [Create/Update Pickup Point](https://developers.vtex.com/vtex-rest-api/reference/pickup-points-1#createupdate) ou via Admin VTEX. Este artigo explica como realizar o segundo processo.
 
@@ -24,7 +24,7 @@ Há duas formas de cadastrar pontos de retirada pelo Admin:
 * [Cadastro individual](#cadastro-individual).
 * [Cadastro por planilha](#cadastro-por-planilha).
 
-> ⚠️ O cadastro dos pontos de retirada é um dos passos para o funcionamento correto da funcionalidade. Confira o artigo [Pontos de retirada](/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) e veja as demais [configurações necessárias](/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#como-configurar) para disponibilizar os pontos de retirada para os seus clientes.
+> ⚠️ O cadastro dos pontos de retirada é um dos passos para o funcionamento correto da funcionalidade. Confira o artigo [Pontos de retirada](/pt/docs/tutorials/pontos-de-retirada) e veja as demais [configurações necessárias](/pt/docs/tutorials/pontos-de-retirada#como-configurar) para disponibilizar os pontos de retirada para os seus clientes.
 
 ## Cadastro individual
 
@@ -57,20 +57,24 @@ Selecione <i class="fas fa-toggle-on"></i> para que o ponto de retirada fique at
 #### Informações adicionais
 
 * **Instruções de retirada:** insira informações que ajudarão seu cliente na retirada dos pacotes no ponto de retirada. Como, por exemplo, em qual portão a retirada dos itens é feita, ou quais documentos o cliente deve apresentar na retirada dos pedidos. Essas instruções serão exibidas no checkout, no momento da escolha do ponto de retirada. 
-* **Tags:** adicione _tags_ para agrupar pontos de retirada. Estas _tags_ são úteis no momento de relacionar as [políticas de envio](/pt/tutorial/politica-de-envio--tutorials_140) com os pontos de retirada.  
+* **Tags:** adicione _tags_ para agrupar pontos de retirada. Estas _tags_ são úteis no momento de relacionar as [políticas de envio](/pt/docs/tutorials/politica-de-envio) com os pontos de retirada.  
 
 #### Horário de funcionamento
 
-* **Dias da semana:** 
-    1. Marque com <i class="far fa-check-square"></i> os dias em que seu ponto de retirada estará disponível para seus clientes retirarem pedidos. 
-    2. Selecione também os horários de funcionamento do ponto de retirada para cada dia.
-    > ℹ️ Caso esse campo não seja preenchido, a plataforma considera o horário de funcionamento de 24 horas por dia.
-* **Exceções ou feriados:** para adicionar dias específicos em que o ponto de retirada não funcionará:
-    3. Clique em `Adicionar exceção`;
-    4. Preencha **Dia** e **Horário;**
-    5. Clique em`Adicionar`.
+* **Dias da semana:**
 
-> ⚠️ O horário de funcionamento cadastrado no ponto de retirada é apenas informativo para o cliente, mas não é utilizado para o cálculo do SLA. Para alterar as configurações que influenciam no prazo de entrega, é preciso estabelecer o horário de funcionamento na [política de envio](/pt/tutorial/politica-de-envio--tutorials_140) relacionada ao ponto de retirada. No caso do cadastro de feriados, as configurações devem ser feitas pela seção de [feriados](/pt/tutorial/registrar-feriados--2ItOthSEAoyAmcwsuiO6Yk) para que influenciem no cálculo de prazo.
+1. Marque com <i class="far fa-check-square"></i> os dias em que seu ponto de retirada estará disponível para seus clientes retirarem pedidos. 
+2. Selecione também os horários de funcionamento do ponto de retirada para cada dia.
+  
+    > ℹ️ Caso esse campo não seja preenchido, a plataforma considera o horário de funcionamento de 24 horas por dia.
+  
+* **Exceções ou feriados:** para adicionar dias específicos em que o ponto de retirada não funcionará:
+
+1. Clique em `Adicionar exceção`;
+2. Preencha **Dia** e **Horário;**
+3. Clique em`Adicionar`.
+
+> ⚠️ O horário de funcionamento cadastrado no ponto de retirada é apenas informativo para o cliente, mas não é utilizado para o cálculo do SLA. Para alterar as configurações que influenciam no prazo de entrega, é preciso estabelecer o horário de funcionamento na [política de envio](/pt/docs/tutorials/politica-de-envio) relacionada ao ponto de retirada. No caso do cadastro de feriados, as configurações devem ser feitas pela seção de [feriados](/pt/docs/tutorials/cadastrar-feriados) para que influenciem no cálculo de prazo.
 
 ## Cadastro por planilha
 
@@ -80,7 +84,10 @@ Selecione <i class="fas fa-toggle-on"></i> para que o ponto de retirada fique at
 
 1. No Admin VTEX, acesse **Envio > Pontos de retirada**, ou digite *Pontos de retirada* na barra de busca no topo da página.    
 2. Clique em <i class="fas fa-upload"></i> `Subir um XLS`.
-3. Baixe o modelo e preencha os [campos da planilha](#campos-da-planilha).> ℹ️ Note que a planilha modelo já vem com valores de exemplo, que devem ser substituídos pelos dados dos pontos de retirada da sua loja.
+3. Baixe o modelo e preencha os [campos da planilha](#campos-da-planilha).
+
+  > ℹ️ Note que a planilha modelo já vem com valores de exemplo, que devem ser substituídos pelos dados dos pontos de retirada da sua loja.
+
 4. Ao final do upload, clique em `OK`. Os pontos de retirada já estão cadastrados. 
 
 ### Campos da planilha
@@ -281,7 +288,7 @@ Preencha a planilha de acordo com as informações da tabela abaixo:
 <li>As horas devem obedecer ao padrão 24h e devem estar no formato hh:mm, em que hh representam as horas e mm os minutos.</li>
 </ul>
 </body>
-Este campo não é utilizado no cálculo de tempo de SLA.  Para alterar as configurações que influenciam no prazo de entrega, é preciso estabelecer o horário de funcionamento na [política de envio](/pt/tutorial/politica-de-envio--tutorials_140) relacionada ao ponto de retirada. No caso do cadastro de feriados, as configurações devem ser feitas pelo módulo de [feriados](/pt/tutorial/registrar-feriados--2ItOthSEAoyAmcwsuiO6Yk) para que influenciem no cálculo de prazo.
+Este campo não é utilizado no cálculo de tempo de SLA.  Para alterar as configurações que influenciam no prazo de entrega, é preciso estabelecer o horário de funcionamento na [política de envio](/pt/docs/tutorials/politica-de-envio) relacionada ao ponto de retirada. No caso do cadastro de feriados, as configurações devem ser feitas pelo módulo de [feriados](/pt/docs/tutorials/cadastrar-feriados) para que influenciem no cálculo de prazo.
    </td>
    <td><center>Não</center>
    </td>

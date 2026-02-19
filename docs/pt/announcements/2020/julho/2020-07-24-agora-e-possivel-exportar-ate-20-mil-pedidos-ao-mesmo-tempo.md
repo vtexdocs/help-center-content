@@ -19,4 +19,4 @@ Constantemente recebemos solicitações e feedbacks sobre a necessidade de expor
 
 Estamos trabalhando para elevar esse limite ainda mais. Em breve, será possível exportar até 50 mil pedidos por vez. A alteração está sendo implementada em fases para garantir a segurança e estabilidade do produto.
 
-Para entender mais a fundo como funciona a exportação de pedidos em sua loja VTEX, leia o artigo [Exportar pedidos no Gerenciamento de pedidos](/pt/tutorial/exportando-pedidos-no-gerenciamento-de-pedidos--tutorials_6417).
+Para entender mais a fundo como funciona a exportação de pedidos em sua loja VTEX, leia o artigo [Exportar pedidos no Gerenciamento de pedidos](/pt/docs/tutorials/exportacao-de-pedidos-no-modulo-pedidos).

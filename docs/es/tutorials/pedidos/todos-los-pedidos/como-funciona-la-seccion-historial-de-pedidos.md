@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-En la [página de detalles del pedido](/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), el **Historial de pedidos** es la sección que trae cada pedido en su detalle, ilustra todo el proceso de transición de los status, medio de pago utilizado, emails intercambiados con el cliente y la posibilidad de incluirse comentarios. 
+En la [página de detalles del pedido](/es/docs/tutorials/pagina-de-detalles-del-pedido), el **Historial de pedidos** es la sección que trae cada pedido en su detalle, ilustra todo el proceso de transición de los status, medio de pago utilizado, emails intercambiados con el cliente y la posibilidad de incluirse comentarios. 
 
 Su propósito principal es ilustrar todo el flujo que ocurrió con el pedido, a fin de identificar fácilmente las desviaciones del comportamiento estándar o identificar fácilmente la información del pedido.
 

@@ -27,4 +27,4 @@ With this change, VTEX no longer prevents user access after 3 incorrect attempts
 
 > ℹ️ Currently, we only use reCAPTCHA in the admin login flow.
 
-> ⚠️ Due to this change, [it is no longer possible to use email and password for integrations](/en/announcements/integrations-with-vtex-apis-now-need-token-authentication--7AdnXDH7AkYmuEUmmis8Es).
+> ⚠️ Due to this change, [it is no longer possible to use email and password for integrations](/en/announcements/2017-10-25-integrations-with-vtex-apis-now-need-token-authentication).

@@ -23,4 +23,4 @@ Consulte nuestro SLA en [VTEX Commerce - SLA Agreement](https://vtex.com/mx-es/p
 
 ## Más información
 
-- [¿Cómo se comprueba el SLA de operación de la plataforma?](/es/tutorial/como-se-comprueba-el-sla-de-operacion-de-la-plataforma--frequentlyAskedQuestions_662)
+- [¿Cómo se comprueba el SLA de operación de la plataforma?](/es/docs/tutorials/como-se-comprueba-el-sla-de-operacion-de-la-plataforma)

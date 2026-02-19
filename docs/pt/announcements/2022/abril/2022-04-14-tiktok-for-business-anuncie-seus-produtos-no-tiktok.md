@@ -42,7 +42,7 @@ O objetivo é que, com a integração, você possa criar campanhas no TikTok Ads
 
 ## Como começar a usá-lo?
 
-O aplicativo tem compatibilidade total com lojas que utilizam [VTEX IO](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) e compatibilidade parcial com lojas que utilizam [CMS Portal (Legado)](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) ou [Headless](https://faststore.dev/tutorials/cms/0#vtex-headless-cms).
+O aplicativo tem compatibilidade total com lojas que utilizam [VTEX IO](/pt/docs/tracks/cms-vtex-io) e compatibilidade parcial com lojas que utilizam [CMS Portal (Legado)](/pt/docs/tracks/cms-portal-legado) ou [Headless](https://faststore.dev/tutorials/cms/0#vtex-headless-cms).
 
 Para instalar o aplicativo e integrar a sua loja VTEX ao TikTok, siga as instruções do guia [Integração com o TikTok](/pt/tracks/integracao-com-o-tiktok--1r0yJSO11nrer1YVu3WTFd).
 Confira também o guia [TikTok for Business](https://developers.vtex.com/vtex-developer-docs/docs/vtexbr-tiktok-tbp) para desenvolvedores.

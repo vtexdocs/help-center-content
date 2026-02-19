@@ -17,12 +17,12 @@ order: 3
 
 The basic flow of a credit card payment is performed by the following players:
 
-- **Payment Gateway**: A [Payment Gateway](/en/tutorial/what-is-a-payment-gateway--2KH9Wdi7F6swOU4amECSOk) is a system that transmits the data from the purchases made in your store. The gateway sends data and receives responses to let you know whether a particular purchase should be confirmed or not.
-- **Acquirer**: An [Acquirer](/en/tutorial/what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil--1dyPJ3gQCCO4ea2o6OMgCi), also called a creditor, is a company that specializes in processing payments, meaning that it makes the financial settlements of a store's transactions through credit and debit cards.
-- **Card brand**: [Card Brands](/en/tutorial/what-is-a-credit-card-brand--4bNba5QYuIwKEmac88KwyI) are companies responsible for defining the business rules for purchases made with credit cards. They define the standards by which acquirers must process the transactions made through this payment method (each brand has its own rules).
-- **Issuing Bank**: The [Issuing Bank](/en/tutorial/what-is-the-issuing-bank--7aVIVGwgtU4SWuqowSQksg) is the financial institution responsible for the means of payment, whether they are "boletos" (popular Brazilian off-line payment method), debit or credit cards. Upon receiving the data of a purchase made in your store, the issuing bank will authorize the sale or not, depending on the credit limit or the money available in the user's account.
+- **Payment Gateway**: A [Payment Gateway](/en/docs/tutorials/what-is-a-payment-gateway) is a system that transmits the data from the purchases made in your store. The gateway sends data and receives responses to let you know whether a particular purchase should be confirmed or not.
+- **Acquirer**: An [Acquirer](/en/docs/tutorials/what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil), also called a creditor, is a company that specializes in processing payments, meaning that it makes the financial settlements of a store's transactions through credit and debit cards.
+- **Card brand**: [Card Brands](/en/docs/tutorials/what-is-a-credit-card-brand) are companies responsible for defining the business rules for purchases made with credit cards. They define the standards by which acquirers must process the transactions made through this payment method (each brand has its own rules).
+- **Issuing Bank**: The [Issuing Bank](/en/docs/tutorials/what-is-the-issuing-bank) is the financial institution responsible for the means of payment, whether they are "boletos" (popular Brazilian off-line payment method), debit or credit cards. Upon receiving the data of a purchase made in your store, the issuing bank will authorize the sale or not, depending on the credit limit or the money available in the user's account.
 <br/>
-To learn more about the financial agents involved in the payment flow of an order in Brazil, check out [this article](/en/tutorial/what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil--1dyPJ3gQCCO4ea2o6OMgCi). <br/>
+To learn more about the financial agents involved in the payment flow of an order in Brazil, check out [this article](/en/docs/tutorials/what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil). <br/>
 <br/>
 
 ## Payment Flow

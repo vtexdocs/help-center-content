@@ -42,8 +42,8 @@ La plataforma VTEX está integrada a los siguientes sistemas antifraude:
 - Signifyd
 - VestGuarantee
 
-Para configurarlos, es necesario contratar un plan en una de estas empresas y seguir los pasos [de este artículo](/es/tutorial/como-configurar-antifraude).
+Para configurarlos, es necesario contratar un plan en una de estas empresas y seguir los pasos [de este artículo](/es/docs/tutorials/como-configurar-antifraude).
 
 ### Artículos relacionados
-- [Configurar el antifraude](/es/tutorial/como-configurar-antifraude)
+- [Configurar el antifraude](/es/docs/tutorials/como-configurar-antifraude)
 - [Pagos - Información general](/es/tutorial/pci-gateway-vision-general)

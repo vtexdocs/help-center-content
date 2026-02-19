@@ -18,7 +18,7 @@ subcategoryId: 7ogirQ8NClawO2X6xdgCKc
 Las tiendas creadas con VTEX IO Store Framework incorporan de forma nativa una aplicación web progresiva (PWA), la cual brinda una experiencia de usuario similar a la de una aplicación nativa, pero se ejecuta directamente en un navegador web.
 
 <div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Para tiendas CMS Portal (Legado), consulta la guía [Cómo transformar el sitio web de mi tienda en una PWA](/es/tutorial/how-to-turn-my-store-website-into-a-pwa--3i8VmYeToAUGKgo2kKK6I2).
+Para tiendas CMS Portal (Legado), consulta la guía [Cómo transformar el sitio web de mi tienda en una PWA](/es/docs/tutorials/como-transformar-el-sitio-de-mi-tienda-en-un-pwa).
 </div>
 
 Para configurar una PWA en tu tienda, accede a Configuración de la tienda > **Storefront > Tienda** en el Admin VTEX, y sigue los pasos que se indican a continuación:
@@ -68,6 +68,6 @@ Para configurar una PWA en tu tienda, accede a Configuración de la tienda > **S
 
 Nuestro service worker (trabajador de servicios) admite pulsaciones nativas para instalar la aplicación en la primera visita, el primer artículo añadido al carrito o la primera compra. Puedes personalizar las notificaciones en la PWA de tu tienda mediante el uso de tu propio service worker, que operará en conjunto con el nuestro.
 
-Para saber cómo crear tu propio service worker, consulta la documentación [Cómo instalar un service worker](/es/tutorial/como-instalar-um-service-worker--2H057iW0mQGguKAciwAuMe).
+Para saber cómo crear tu propio service worker, consulta la documentación [Cómo instalar un service worker](/es/docs/tutorials/como-instalar-un-service-worker).
 
 Para aprender a utilizar el service worker builder para agrupar varios service workers en tu tienda, consulta la documentación [Using several service workers in your store](https://developers.vtex.com/docs/guides/vtex-io-documentation-using-several-service-workers-in-your-store).

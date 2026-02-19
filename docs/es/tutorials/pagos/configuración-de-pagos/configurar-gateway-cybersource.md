@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Cybersource es una empresa que ofrece varias soluciones para ayudar a gestionar los pagos en su tienda. Entre ellos se encuentran un [gateway](/es/tutorial/que-es-un-gateway-de-pagos--2KH9Wdi7F6swOU4amECSOk) y un [antifraude](/es/tutorial/que-es-antifraude--69SjFCc4rC6Ii0OMAeYAsG), ambos con integraciones disponibles en VTEX.
+Cybersource es una empresa que ofrece varias soluciones para ayudar a gestionar los pagos en su tienda. Entre ellos se encuentran un [gateway](/es/docs/tutorials/que-es-un-gateway-de-pagos) y un [antifraude](/es/docs/tutorials/que-es-antifraude), ambos con integraciones disponibles en VTEX.
 
-Si desea obtener más información sobre cómo integrar Cybersource antifraude en su tienda, vaya a [Configurar antifraude CyberSource](/es/tutorial/configurar-antifraude-cybersource--2Z88QmpRAsWmI0qaCo4aQg).
+Si desea obtener más información sobre cómo integrar Cybersource antifraude en su tienda, vaya a [Configurar antifraude CyberSource](/es/docs/tutorials/configurar-antifraude-cybersource).
 
 Para utilizar el gateway Cybersource IO en su tienda, se requieren las siguientes acciones:
 
@@ -132,7 +132,7 @@ Para procesar pagos con tarjeta de crédito a través de Cybersource, siga los p
 5. Active la condición en el campo __Status__.
 6. En __Procesar con proveedor__ selecciona la opción __Cybersource - IO__.
 7. Si desea utilizar un sistema antifraude, seleccione la opción __Usar antifraude__ y elija su proveedor preferido.
-8. Si desea, puede [configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456). 
+8. Si desea, puede [configurar condiciones especiales de pago](/es/docs/tutorials/condiciones-especiales). 
 9. Haga clic en __Guardar__.
 
 > ⚠️ Si anteriormente creó condiciones de pago con tarjeta de crédito para otros gateways (incluido el proveedor Cybersource legado), puede establecer esas condiciones en **Inactivas**. Las transacciones en curso iniciadas desde ese proveedor seguirán siendo procesadas por ese proveedor, incluso si está inactivo. El nuevo proveedor de Cybersource IO solo procesará las transacciones nuevas. Si necesita volver a su proveedor anterior por algún motivo, simplemente establezca sus condiciones de pago en **Activas** y las condiciones de pago de Cybersource IO en **Inactivas**.

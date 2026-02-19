@@ -17,7 +17,7 @@ subcategoryId: 42hDtnYXHw5ExG6l19RP1l
 
 Creating a cluster of customers is the same as segmenting them. These two approaches give the storeowner a better idea of the customer’s profile, and enable you to be more proactive in dealing with this user.
 
-> ⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use. <ul> <li> [ Master Data version characteristics ](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/vtex-rest-api/docs/getting-started-1) </li> </ul>
+> ⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use. <ul> <li> [ Master Data version characteristics ](/en/docs/tutorials/master-data#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/docs/guides/master-data-v2-basics) </li> </ul>
 
 These details, once obtained, are very useful for the company’s marketing and advertising. Each store can define its own clusters and the rules for a customer to be included in each of them.
 
@@ -35,7 +35,7 @@ The purpose of this article is to show how to configure your CRM to create a clu
 
 So technically, a cluster in CRM is nothing more than a field.
 
-To populate this field you can use an [import worksheet](/en/tutorial/importing-data-into-master-data--tutorials_1135) or an API, or you can do it manually using the Customer form in CRM. Everything depends on the store’s strategy for clusterizing its customers.
+To populate this field you can use an [import worksheet](/en/docs/tutorials/importing-data-into-master-data-v1) or an API, or you can do it manually using the Customer form in CRM. Everything depends on the store’s strategy for clusterizing its customers.
 
 ## Learn more
 

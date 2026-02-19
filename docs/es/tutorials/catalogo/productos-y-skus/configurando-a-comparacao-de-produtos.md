@@ -52,7 +52,7 @@ Donde `ShelfLayoutId` es el`Id` de la plantilla de estantería de productos crea
 4. Crea un layout predeterminado:
   - Abre la carpeta creada en el paso anterior.
   - Haz clic en **new layout**.
-  - En el campo `Template`, vincula la plantilla de página creada en el paso 2 a la carpeta. Más información en [Asociar un template con un layout](/es/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK).
+  - En el campo `Template`, vincula la plantilla de página creada en el paso 2 a la carpeta. Más información en [Asociar un template con un layout](/es/docs/tutorials/asociar-un-template-con-un-layout).
   - Haz clic en `Save Layout` y después en `OK`.
 
        ![new-layout-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/configurando-a-comparacao-de-produtos_2.gif)

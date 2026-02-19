@@ -23,5 +23,5 @@ Você pode realizar várias atualizações nos dados cadastrais da sua loja, com
 - Alteração de CPF para CNPJ
 - Alteração de CNPJ
 
-Para isso, é necessário que você abra um [ticket](https://support.vtex.com/hc/pt-br/requests/new) comunicando sua decisão ao Financeiro e selecione a opção correspondente à que você deseja alterar. Por exemplo, ["Alteração de CNPJ - Transferência de Responsabilidade Contratual"](/pt/tutorial/como-fazer-a-alteracao-do-meu-cnpj-novo).
+Para isso, é necessário que você abra um [ticket](https://support.vtex.com/hc/pt-br/requests/new) comunicando sua decisão ao Financeiro e selecione a opção correspondente à que você deseja alterar. Por exemplo, ["Alteração de CNPJ - Transferência de Responsabilidade Contratual"](/pt/docs/tutorials/como-fazer-a-alteracao-do-meu-cnpj-novo).
 

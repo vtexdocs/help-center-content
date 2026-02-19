@@ -126,26 +126,21 @@ If you wish to provide a downloadable file directly within your article (such a 
 
 The front matter is the table with metadata about the article you are creating. It contains the following fields:
 
-- **title:** Article title. E.g. "Adding SKU specifications or fields"
-- **status:** Indicates whether an article is active (`PUBLISHED`) or unavailable (`ARCHIVED`) on the Help Center Portal.
+- **title:** Article title with single quotes. E.g. 'Adding SKU specifications or fields'
 - **createdAt:** Creation date (UTC) and time in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
 - **updatedAt:** Update date (UTC) in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
-- **publishedAt:** Most recent publication date (UTC) in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
-- **firstPublishedAt:** First publication date (UTC) in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
 - **contentType:** Content type (e.g., `tutorial`, `updates`, `trackArticle`, `frequentlyAskedQuestion`, `knownIssue`).
 - **productTeam:** Name of the module to which the article is related.
-- **author:** Technical writer ID in Contentful.
 - **slugEN:** Article reference slug in the English version. This field must always be filled in with the same value (slug in EN), even in PT and ES version files. This is required for proper locale switching on Help Center.
 - **locale:** Article language (`pt`, `en`, or `es`).
-- **legacySlug:** Legacy slug in Contentful.
-- **hidden**: Identifies whether the article should remain hidden and be accessed only through its link.
+- **hidden**: (Optional) Identifies whether the article should remain hidden and be accessed only through its link (`true` or `false`).
 
 In addition to the standard fields for all articles, check the specific fields for each type of article below:
 
 ##### Announcements fields
 
-- **announcementImageID:** Announcement card image identification.
-- **announcementSynopsisEN:** Announcement Synopsis information. The name of this parameter varies according to the language of the article, for the Portuguese version it must be used `announcementSynopsisPT`, and for the Spanish version use `announcementSynopsisES`.
+- **announcementSynopsisEN:** Announcement Synopsis information with single quotes. The name of this parameter varies according to the language of the article, for the Portuguese version it must be used `announcementSynopsisPT`, and for the Spanish version use `announcementSynopsisES`.
+- **author:** Technical writer ID in Contentful.
 
 ##### Known issue fields
 

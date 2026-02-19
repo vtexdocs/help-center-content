@@ -25,7 +25,7 @@ Você poderá implementar uma estratégia de Prateleira Infinita, que te ajudar�
 
 - Evitar falta de estoque e nunca perder vendas.
 - Ter visibilidade em tempo real do seu estoque. 
-- Beneficiar-se de busca inteligente, quando instalado o [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) no site. 
+- Beneficiar-se de busca inteligente, quando instalado o [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) no site. 
 - Estruturar transações de carrinho misto.
 
 Assim, o processo de compra se torna mais rápido, tanto ao adicionar produtos ao carrinho quanto o pagamento e a confirmação. 

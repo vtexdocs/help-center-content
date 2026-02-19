@@ -45,7 +45,7 @@ To solve this error, see the following instructions:
 
 ### Checking the search integration
 
-One possible reason for this issue might be related to the [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) search not integrated with your store’s catalog. Follow the steps below to integrate it into your store:
+One possible reason for this issue might be related to the [Intelligent Search](/en/docs/tracks/overview-intelligent-search) search not integrated with your store’s catalog. Follow the steps below to integrate it into your store:
 
 1. Access the VTEX Admin and go to **Store Settings > Intelligent Search > Integrations**.
 2. On the **Integrations** page, all the statuses must be checked, as in the following image.
@@ -81,9 +81,9 @@ To solve this error, see the following instructions:
 
 ### Checking if the user role has the necessary permissions
 
-One possible reason for this issue might be related to the lack of the `CMS GraphQL API` License Manager [resource](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) in a [user role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) for content management.
+One possible reason for this issue might be related to the lack of the `CMS GraphQL API` License Manager [resource](/en/docs/tutorials/license-manager-resources) in a [user role](/en/docs/tutorials/roles) for content management.
 
-Ensure that users are associated with the `CMS GraphQL API` resource within their user roles by either [creating a new role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) or editing an existing one.
+Ensure that users are associated with the `CMS GraphQL API` resource within their user roles by either [creating a new role](/en/docs/tutorials/roles#creating-a-role) or editing an existing one.
 
 If you still can't manage the content even after adding the `CMS GraphQL API` resource to the user role, see the next section: [Check the domain's main locale](#checking-the-domain's-main-locale).
 

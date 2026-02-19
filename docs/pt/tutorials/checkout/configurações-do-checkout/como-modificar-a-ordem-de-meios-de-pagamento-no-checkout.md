@@ -23,7 +23,7 @@ Você pode mudar a ordem de exibição dos meios de pagamento no Checkout da sua
 
 ## Como funciona o ordenação
 
-De modo geral, a exibição das [condições de pagamento](/pt/tutorial/condicoes-de-pagamento) no checkout é definida pela ordem em que elas foram cadastradas na seção de Pagamentos do Admin. Ou seja, o meio de pagamento que está ativo há mais tempo na sua loja será exibido em primeiro lugar para seu cliente.
+De modo geral, a exibição das [condições de pagamento](/pt/docs/tutorials/condicoes-de-pagamento) no checkout é definida pela ordem em que elas foram cadastradas na seção de Pagamentos do Admin. Ou seja, o meio de pagamento que está ativo há mais tempo na sua loja será exibido em primeiro lugar para seu cliente.
 
 Mas alterar essa ordenação é simples: primeiro, basta desativar as condições de pagamento pré-estabelecidas. Em seguida, você pode organizar os meios de pagamento da forma que preferir e, assim, as condições novamente.    
 

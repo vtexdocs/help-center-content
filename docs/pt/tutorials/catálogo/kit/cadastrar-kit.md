@@ -23,17 +23,17 @@ A tabela a seguir apresenta as características e contextos para o uso de kit ou
 
 | **Tipo** | **Definição** | **Exemplo** |
 | :---: | :--- | :--- |
-| [Kit](/pt/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28) | <ul><li>Os componentes formam um conjunto indivisível e o cliente não pode escolher quais itens do kit deseja adquirir.</li><li>A loja pode ou não disponibilizar os componentes para compra individual.</li></ul> | Uma loja de moda masculina oferece o kit "Dia dos Pais", formado por um sapato, um par de meias e um chaveiro. O cliente não tinha interesse no chaveiro, mas gostou do sapato e das meias, então aceitou e levou o kit completo, já que não era possível escolher apenas parte dos itens. |
-| [Kit look](/pt/tutorial/como-montar-um-kit-look--tutorials_266) | <ul><li>Os componentes funcionam como uma sugestão de compra conjunta e o cliente pode escolher quais itens do kit look deseja adquirir.</li><li>A loja sempre disponibiliza os componentes para compra individual.</li></ul> | Uma loja de moda feminina oferece a venda do kit look "Verão", formado por um biquíni, uma saída de banho e uma sandália. A cliente não gostou do modelo de sandália e comprou somente o biquíni e a saída de banho. |
+| [Kit](/pt/docs/tutorials/o-que-e-um-kit) | <ul><li>Os componentes formam um conjunto indivisível e o cliente não pode escolher quais itens do kit deseja adquirir.</li><li>A loja pode ou não disponibilizar os componentes para compra individual.</li></ul> | Uma loja de moda masculina oferece o kit "Dia dos Pais", formado por um sapato, um par de meias e um chaveiro. O cliente não tinha interesse no chaveiro, mas gostou do sapato e das meias, então aceitou e levou o kit completo, já que não era possível escolher apenas parte dos itens. |
+| [Kit look](/pt/docs/tutorials/como-montar-um-kit-look) | <ul><li>Os componentes funcionam como uma sugestão de compra conjunta e o cliente pode escolher quais itens do kit look deseja adquirir.</li><li>A loja sempre disponibiliza os componentes para compra individual.</li></ul> | Uma loja de moda feminina oferece a venda do kit look "Verão", formado por um biquíni, uma saída de banho e uma sandália. A cliente não gostou do modelo de sandália e comprou somente o biquíni e a saída de banho. |
 
 ## Formar kit
 
 As instruções a seguir são para realizar o cadastro de um kit.
 
-> ℹ️ Caso seu interesse seja por um kit look, confira [Montar um Kit look](/pt/tutorial/como-montar-um-kit-look--tutorials_266).
+> ℹ️ Caso seu interesse seja por um kit look, confira [Montar um Kit look](/pt/docs/tutorials/como-montar-um-kit-look).
 
 1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite **Produtos e SKUs** na barra de busca no topo da página.
-2. Acesse a página de edição do SKU que será um dos componentes. Se ainda não houver um SKU criado, confira [Adicionar ou editar SKU](/pt/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN).
+2. Acesse a página de edição do SKU que será um dos componentes. Se ainda não houver um SKU criado, confira [Adicionar ou editar SKU](/pt/docs/tutorials/adicionar-ou-editar-sku).
 3. Na aba **SKUs**, clique no <i class="fas fa-ellipsis-v" aria-hidden="true"></i> menu na linha do SKU.
 
   ![bundle_registration_image_1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/kit/cadastrar-kit_1.png)
@@ -55,7 +55,7 @@ O peso do kit será formado pelo somatório do peso de seus componentes.
 
 ## Inventário
 
-O [inventário](/pt/tutorial/inventory-management--tutorials_139) do kit sempre será o inventário de seus componentes. Ou seja, não é possível inserir inventário apenas no kit, é preciso inserir inventário em cada um de seus componentes independentes, a fim de atualizar o inventário do kit. Essa informação pode ser visualizada no Admin VTEX em **Catálogo > Inventário > Gerenciamento de inventário**.
+O [inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) do kit sempre será o inventário de seus componentes. Ou seja, não é possível inserir inventário apenas no kit, é preciso inserir inventário em cada um de seus componentes independentes, a fim de atualizar o inventário do kit. Essa informação pode ser visualizada no Admin VTEX em **Catálogo > Inventário > Gerenciamento de inventário**.
 
 Como todos os SKUs componentes do kit só podem ser vendidos juntos, o inventário do kit será igual ao SKU com menos itens em inventário. Quando um dos componentes não possui mais inventário, o kit não pode ser comprado.
 

@@ -28,8 +28,8 @@ To configure Cielo Orchestrator, follow the steps below:
 7. If you want to use [payment split](If you want to use payment split in your store, select the option **Enable payout split and send payment recipients** and indicate the **Accountable for payment processing charges** and **Accountable for chargebacks** (marketplace, sellers or marketplaces and sellers).) in your store, select the option Enable payout split and send payment recipients and indicate the Accountable for payment processing charges and Accountable for chargebacks (marketplace, sellers or marketplaces and sellers).
 8. Click `Save`.
 
-To configure the payment methods to be processed by Cielo Orchestrator, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455).
+To configure the payment methods to be processed by Cielo Orchestrator, access [Configuring Payment Conditions](/en/docs/tutorials/how-to-configure-payment-conditions).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456).
+To set special conditions on payment methods, go to [Configuring payment special conditions](/en/docs/tutorials/special-conditions).
 
 After following the indicated steps, Cielo Orchestrator may take up to 10 minutes to appear at your store's  checkout as a payment option.

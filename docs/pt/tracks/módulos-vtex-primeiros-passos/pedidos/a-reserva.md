@@ -28,7 +28,7 @@ A reserva conecta o módulo de logística ao módulo de pedidos. Ela impede que 
 
 Este é o fluxo da reserva na VTEX: 
 
- 1. No momento em que o cliente finaliza a compra, os itens comprados passam para o status `Reserva autorizada` no estoque. Aqui, indica-se que os itens não vão ser vendidos mais de uma vez, mas eles ainda não são retirados do estoque: essa reserva vai cair se o pagamento não for aprovado dentro do prazo de validade da reserva. Entenda como esse prazo é definido no artigo [Como a reserva funciona](/pt/tutorial/como-a-reserva-funciona).      
+ 1. No momento em que o cliente finaliza a compra, os itens comprados passam para o status `Reserva autorizada` no estoque. Aqui, indica-se que os itens não vão ser vendidos mais de uma vez, mas eles ainda não são retirados do estoque: essa reserva vai cair se o pagamento não for aprovado dentro do prazo de validade da reserva. Entenda como esse prazo é definido no artigo [Como a reserva funciona](/pt/docs/tutorials/como-a-reserva-funciona).      
 
  2. Após o pagamento ser confirmado, o status dos itens muda para `Reserva confirmada`. Agora, a reserva não tem mais prazo de validade. Mas a compra ainda pode ser cancelada e, com isso, os itens ainda podem voltar ao status disponível.  
  

@@ -57,11 +57,11 @@ El flujo de rellenado automático de los datos del cliente en el Checkout es el 
 </ul>
 > ⚠️ Si el cliente elije tarjeta de crédito o débito como medio de pago, se adoptarán los criterios adicionales de seguridad a continuación: <ul> <li>Solicitación del CVV (código de seguridad de la tarjeta) para la validación final y finalización del pedido de compra.</li> <li>Imposibilidad de realizar compras con tarjeta si se utiliza una dirección diferente a la registrada en el perfil del cliente.</li> </ul>
 
-Cualquier modificación en los datos registrados, como la dirección o el teléfono, solo se permitirá una vez que el cliente haya [iniciado sesión en la tienda](/es/tutorial/como-meu-cliente-pode-fazer-login-na-minha-loja--3FCNpwbpZe0U4auiI4CC0C). 
+Cualquier modificación en los datos registrados, como la dirección o el teléfono, solo se permitirá una vez que el cliente haya [iniciado sesión en la tienda](/es/docs/tutorials/como-puede-mi-cliente-iniciar-sesion-en-mi-tienda). 
 
 Para más información sobre protección de datos, visita [Seguridad de SmartCheckout](/es/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
 
 ### Más información
 
- * [Importar datos de clientes](/es/tutorial/importar-datos-de-clientes--2zWYVOyj0sISYQmeUwCsI0)
+ * [Importar datos de clientes](/es/docs/tutorials/importar-datos-de-clientes)
  * [`orderForm` fields](https://developers.vtex.com/docs/guides/orderform-fields#clientprofiledata)

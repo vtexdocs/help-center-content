@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Tiendas que utilicen la API de Checkout para realizar pedidos deben revisar sus integraciones'
 ---
 
-[reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha) es un servicio de seguridad utilizado para determinar si una acción la realiza un usuario real o una automatización maliciosa, protegiendo los sitios web contra fraudes y abusos. Al activar [reCAPTCHA en el checkout](/es/tutorial/recaptcha-en-el-checkout--18Te3oDd7f4qcjKu9jhNzP), además de seguir las mejores prácticas contra ataques virtuales, reduces el riesgo de que tu tienda sea vulnerada con fines fraudulentos.
+[reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha) es un servicio de seguridad utilizado para determinar si una acción la realiza un usuario real o una automatización maliciosa, protegiendo los sitios web contra fraudes y abusos. Al activar [reCAPTCHA en el checkout](/es/docs/tutorials/recaptcha-en-el-checkout), además de seguir las mejores prácticas contra ataques virtuales, reduces el riesgo de que tu tienda sea vulnerada con fines fraudulentos.
 
 A partir de ahora, y para proteger aún más a nuestros clientes, VTEX aplicará la configuración del orderForm reCAPTCHA de cada cuenta a todos los requests provenientes de la API de Checkout, independientemente de los roles asociados al usuario o clave de la aplicación.
 
@@ -24,7 +24,7 @@ Los administradores de tienda que utilizan la API de Checkout para realizar pedi
 
 ## ¿Qué cambia?
 
-Antes, la verificación con reCAPTCHA no era necesaria para los pedidos realizados por usuarios y claves de aplicación con el recurso [recurso](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) `Shopping Cart Full Access` en License Manager. Esto incluye [roles predefinidos](/es/tutorial/roles-de-usuario-predefinidos--jGDurZKJHvHJS13LnO7Dy) como el rol `Owner (Admin Super)` y `User Admin - RESTRICTED`, así como el [usuario Titular](/es/tutorial/que-es-el-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy).
+Antes, la verificación con reCAPTCHA no era necesaria para los pedidos realizados por usuarios y claves de aplicación con el recurso [recurso](/es/docs/tutorials/recursos-del-license-manager) `Shopping Cart Full Access` en License Manager. Esto incluye [roles predefinidos](/es/docs/tutorials/roles-de-usuario-predefinidos) como el rol `Owner (Admin Super)` y `User Admin - RESTRICTED`, así como el [usuario Titular](/es/docs/tutorials/que-es-el-usuario-titular).
 
 Ahora, la verificación con reCAPTCHA seguirá la configuración del orderForm establecida en cada cuenta en todos los requests de la API de Checkout, independientemente de los roles asociados al usuario o la clave de aplicación.
 
@@ -77,8 +77,8 @@ Después de que el comprador resuelva el reCAPTCHA, su respuesta (`recaptchaToke
 
 Consulta los siguientes artículos sobre reCAPTCHA y las mejores prácticas para garantizar la protección de tu tienda:
 
-- [reCAPTCHA en el Checkout](/es/tutorial/recaptcha-en-el-checkout--18Te3oDd7f4qcjKu9jhNzP)
-- [Prácticas recomendadas para evitar ataques virtuales](/es/tutorial/practicas-recomendadas-para-evitar-ataques-virtuales--191rpbF7UgrKapVCi1PCDE)
-- [Prácticas recomendadas para evitar ataques virtuales](/es/tutorial/buenas-practicas-claves-de-aplicacion--7b6nD1VMHa49aI5brlOvJm)
-- [Recursos del License Manager](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3)
+- [reCAPTCHA en el Checkout](/es/docs/tutorials/recaptcha-en-el-checkout)
+- [Prácticas recomendadas para evitar ataques virtuales](/es/docs/tutorials/practicas-recomendadas-para-evitar-ataques-virtuales)
+- [Prácticas recomendadas para evitar ataques virtuales](/es/docs/tutorials/buenas-practicas-claves-de-api)
+- [Recursos del License Manager](/es/docs/tutorials/recursos-del-license-manager)
 

@@ -20,11 +20,11 @@ Para contas no Brasil, agora é obrigatório ter o recurso **Open Support Ticket
 > ℹ️ Usuários administrativos vinculados ao perfil de acesso **Owner (Admin Super)**  possuem o recurso *Open Support Ticket*  vinculado automaticamente.
 
 ## O que mudou?
-A configuração é válida somente para contas no Brasil e restringe a abertura de tickets de suporte a usuários autorizados. Para realizar a abertura de solicitação ao time de suporte, o usuário precisará ter o recurso *Open Support Ticket* do produto **VTEX - Support** autorizado em seu [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc). 
+A configuração é válida somente para contas no Brasil e restringe a abertura de tickets de suporte a usuários autorizados. Para realizar a abertura de solicitação ao time de suporte, o usuário precisará ter o recurso *Open Support Ticket* do produto **VTEX - Support** autorizado em seu [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso). 
 
 ## Por que fizemos essa mudança?
 No contexto das boas práticas de segurança, esta etapa visa fortalecer a proteção da privacidade das informações sensíveis armazenadas na loja.
 
 ## O que precisa ser feito?
-Um usuário com o perfil de acesso *User Administrator - Restricted* precisa vincular o recurso **Open Support Ticket** do produto **VTEX - Support** no [License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) aos [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) correspondentes aos usuários que devem ter esse acesso à abertura de tickets de suporte. 
+Um usuário com o perfil de acesso *User Administrator - Restricted* precisa vincular o recurso **Open Support Ticket** do produto **VTEX - Support** no [License Manager](/pt/docs/tutorials/recursos-do-license-manager) aos [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) correspondentes aos usuários que devem ter esse acesso à abertura de tickets de suporte. 
 

@@ -24,7 +24,7 @@ No Admin VTEX, acesse **Aplicativos > Live Shopping** ou digite **Live Shopping*
 * [Destaque de produto - Configuração de exibição da coleção](#destaque-de-produto-configuracao-de-exibicao-da-colecao)
 * [Configuração do CMS - Configuração da apresentação do conteúdo](#configuracao-do-cms-configuracao-da-apresentacao-do-conteudo)
 
-> ⚠️ Este artigo descreve as principais configurações para um evento, mas não cobre todas as seções da página **Informações do evento**. Para mais informações, acesse [Live Shopping: Eventos](/pt/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch).
+> ⚠️ Este artigo descreve as principais configurações para um evento, mas não cobre todas as seções da página **Informações do evento**. Para mais informações, acesse [Live Shopping: Eventos](/pt/docs/tutorials/live-shopping-eventos).
 
 ## Tipo de layout - Configuração do estilo
 
@@ -59,7 +59,7 @@ Por padrão, um evento apresenta um estilo visual neutro, adequado para lojas e 
 - Título do chat
 - Botão de enviar mensagem
 
-> ℹ️ As customizações acima são feitas clicando no botão **Personalize a aparência** e preenchendo a página Aparência para alinhar com suas preferências. Para seguir o passo a passo, acesse [Live Shopping: Eventos](/pt/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch).
+> ℹ️ As customizações acima são feitas clicando no botão **Personalize a aparência** e preenchendo a página Aparência para alinhar com suas preferências. Para seguir o passo a passo, acesse [Live Shopping: Eventos](/pt/docs/tutorials/live-shopping-eventos).
 
 ## Chat - Configuração do nome do administrador
 
@@ -69,7 +69,7 @@ A seção **Chat** é onde você gerencia o chat durante o evento. Se você quis
 2. Na janela **Informações da loja**, informe o nome do administrador desejado.
 3. Clique em `Confirmar`.
 
-> ℹ️ Para saber mais como fixar mensagens, bloquear usuários, excluir mensagens, e realizar outras ações no chat do evento, acesse [Live Shopping: Eventos](/pt/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch).
+> ℹ️ Para saber mais como fixar mensagens, bloquear usuários, excluir mensagens, e realizar outras ações no chat do evento, acesse [Live Shopping: Eventos](/pt/docs/tutorials/live-shopping-eventos).
 
 ## Promoções - Configuração de cupons e promoções
 

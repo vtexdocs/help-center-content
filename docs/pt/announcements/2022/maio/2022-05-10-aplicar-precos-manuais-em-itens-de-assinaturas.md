@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Agora você pode habilitar preços manuais para assinaturas em sua loja.'
 ---
 
-Ao utilizar [Assinaturas](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453), aplicativo desenvolvido pela VTEX para facilitar vendas recorrentes, é possível que os comerciantes precisem configurar um preço manual para cada item a fim de oferecer melhores ofertas aos compradores recorrentes. 
+Ao utilizar [Assinaturas](/pt/docs/tutorials/como-funciona-a-assinatura), aplicativo desenvolvido pela VTEX para facilitar vendas recorrentes, é possível que os comerciantes precisem configurar um preço manual para cada item a fim de oferecer melhores ofertas aos compradores recorrentes. 
 
 Pensando nisso, agora você pode habilitar a funcionalidade de Preço Manual para Assinaturas v3 na sua loja, que permite:
 

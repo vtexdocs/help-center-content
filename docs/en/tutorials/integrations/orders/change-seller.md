@@ -37,10 +37,10 @@ Upon being notified by the seller about the order cancellation, the marketplace 
 You can not change sellers in the following cases:
 
 - Order items with services or attachments.
-- Intermediate orders in the [Multilevel Omnichannel Inventory](/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4).
+- Intermediate orders in the [Multilevel Omnichannel Inventory](/en/docs/tutorials/multilevel-omnichannel-inventory).
 - Orders with other changes.
 - Orders with taxes.
-- Orders with [split payment](/en/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) that did not use a credit card.
+- Orders with [split payment](/en/docs/tutorials/split-payment) that did not use a credit card.
 - Orders with split payment into multiple sellers.
 - Orders that use the seller's payment method and do not use a tokenized credit card.
 - Orders that use the seller's payment method and have more than one seller involved.
@@ -48,8 +48,8 @@ You can not change sellers in the following cases:
 - Orders that use the seller's payment method and do not have the same installment conditions and payment methods that the new seller accepts.
 - Orders placed prior to the Change Seller announcement.
 - Orders from an original non-VTEX seller.
-- If the new seller is not from VTEX and there are services or [assembly options](/en/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH) involved.
-- If the new option is for pickup in [pickup points](/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R).
-- In case the marketplace decides to change sellers, it is only possible to do it if the order is in the following [statuses](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196): `payment-pending`, or `waiting-for-authorization`.
+- If the new seller is not from VTEX and there are services or [assembly options](/en/docs/tutorials/assembly-options) involved.
+- If the new option is for pickup in [pickup points](/en/docs/tutorials/pickup-points).
+- In case the marketplace decides to change sellers, it is only possible to do it if the order is in the following [statuses](/en/docs/tutorials/order-flow-and-status): `payment-pending`, or `waiting-for-authorization`.
 - Orders from sellers external to VTEX.
-- If the chosen carrier isn't associated with the order's [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV).
+- If the chosen carrier isn't associated with the order's [trade policy](/en/docs/tutorials/how-trade-policies-work).

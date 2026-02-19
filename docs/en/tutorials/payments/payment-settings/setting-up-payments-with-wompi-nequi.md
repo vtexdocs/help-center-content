@@ -33,7 +33,7 @@ To configure Wompi-Nequi affiliation, follow the steps below:
 3. Click the __Wompi-Nequi__ payment method.
 4. Activate the condition in the __Status__ field.
 5. If you want to use an anti-fraud system, select the option __Use anti-fraud__.
-6. If you wish, you can also configure [payment special conditions](/en/tutorial/special-conditions--tutorials_456).
+6. If you wish, you can also configure [payment special conditions](/en/docs/tutorials/special-conditions).
 7. Click on `Save`.
 
 After following the indicated steps, Wompi-Nequi connector may take up to 10 minutes to appear at your store's checkout as a payment option.

@@ -31,5 +31,5 @@ Key benefits include:
 
 ## What needs to be done?
 
-The feature is available for all VTEX accounts using the Mercado Libre integration as of **October 13, 2025.** To learn how to configure and activate it, see the tutorial [Mercado Libre Smart Pricing](/en/tutorial/precificacao-inteligente-mercado-livre--3J8t9EFFaaxmOloOqzU5Hz).
+The feature is available for all VTEX accounts using the Mercado Libre integration as of **October 13, 2025.** To learn how to configure and activate it, see the tutorial [Mercado Libre Smart Pricing](/en/docs/tutorials/smart-pricing-mercado-libre).
 

@@ -16,7 +16,7 @@ order: 7
 ---
 
 
-El [pasillo infinito](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) de VTEX Sales App le permite al vendedor buscar y agregar al carrito productos más allá del stock de su tienda. Para buscar un producto, haz clic en el ícono de lupa <i class="fas fa-search"></i>. Se mostrará la barra de búsqueda en la parte superior de la página de inicio de la tienda. Ingresa el nombre del producto, código de referencia, ID de SKU o EAN para buscar.
+El [pasillo infinito](/es/docs/tracks/pasillo-infinito) de VTEX Sales App le permite al vendedor buscar y agregar al carrito productos más allá del stock de su tienda. Para buscar un producto, haz clic en el ícono de lupa <i class="fas fa-search"></i>. Se mostrará la barra de búsqueda en la parte superior de la página de inicio de la tienda. Ingresa el nombre del producto, código de referencia, ID de SKU o EAN para buscar.
 
 > ℹ️ Para mejorar la experiencia en situaciones en que la conexión de internet esté lenta, esta funcionalidad tiene recursos de optimización que utilizan la caché del navegador para agilizar la búsqueda.
 
@@ -42,7 +42,7 @@ Para agregar el producto al carrito, selecciona la variación, envío y cantidad
 
 Los filtros permiten definir la búsqueda según las preferencias del cliente. Los filtros se pueden combinar para crear criterios de búsqueda precisos. De ser necesario, también es fácil remover cualquier filtro.
 
-Antes de utilizar los filtros de búsqueda en VTEX Sales App, debes haber instalado y configurado [VTEX Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG). Ten en cuenta algunos puntos de atención:
+Antes de utilizar los filtros de búsqueda en VTEX Sales App, debes haber instalado y configurado [VTEX Intelligent Search](/es/docs/tracks/vision-general-intelligent-search). Ten en cuenta algunos puntos de atención:
 - Es importante configurar los filtros que se mostrarán según se describe en el artículo Configuración de la búsqueda. De lo contrario, toda la información del producto constará de atributos filtrables en VTEX Sales App.
 - Cualquier cambio realizado en la configuración de la búsqueda se aplicará también a la tienda de ecommerce si la herramienta utilizada es VTEX Intelligent Search.
 

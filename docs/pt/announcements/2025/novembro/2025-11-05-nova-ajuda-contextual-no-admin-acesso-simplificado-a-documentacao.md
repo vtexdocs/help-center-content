@@ -37,7 +37,7 @@ Agora, a ajuda contextual é acessível pelo botão `? Ajuda`, mantendo-se no ca
     - [Help Center](https://help.vtex.com/): direciona para a página inicial do Help Center.
     - [Developer Portal](https://developers.vtex.com/): direciona para a página inicial do Developer Portal.
     - [Status da Plataforma](https://status.vtex.com/): direciona para a página de status da VTEX.
-    - [Resolução de problemas](/pt/tutorial/--531cHtUCUi3puRXNDmKziw): direciona para a página de resolução de problemas do Help Center.
+    - [Resolução de problemas](/pt/docs/tutorials/admin-vtex-comece-aqui): direciona para a página de resolução de problemas do Help Center.
     - [Blog da VTEX](https://vtex.com/pt-br/blog/): direciona para o blog da VTEX.
     - [Suporte](https://support.vtex.com/hc/pt-br): direciona para o suporte técnico da VTEX.
 

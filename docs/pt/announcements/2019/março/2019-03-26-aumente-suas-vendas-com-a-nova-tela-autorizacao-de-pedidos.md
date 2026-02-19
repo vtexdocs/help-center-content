@@ -33,6 +33,6 @@ Importante mencionar que a loja não perde as regras configuradas através do fl
 -  Crie regras para aprovação ou negação de pedidos com preços alterados manualmente, de acordo com o cenário de negócio da loja.
 - Tenha mais independência para as negociações e adicione responsáveis para autorizar pedidos que tiveram seus preços modificados manualmente.
 
-Confira o [tutorial](/pt/tutorial/saiba-como-criar-fluxos-para-a-liberacao-ou-aprovacao-de-pedidos-dos-canais--3MBK6CmKHAuUjMBieDU0pn) e veja como utilizar o nova função.
+Confira o [tutorial](/pt/docs/tutorials/como-funciona-a-autorizacao-de-pedidos) e veja como utilizar o nova função.
 
 

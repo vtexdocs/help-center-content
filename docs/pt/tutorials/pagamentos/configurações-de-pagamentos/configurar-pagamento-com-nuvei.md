@@ -36,7 +36,7 @@ Para utilizar o Nuvei, siga os passos abaixo:
 - **Liquidação automática imediatamente após a análise antifraude**: a captura é automática e acontece logo após a autorização e análise antifraude (Caso você selecione este comportamento e não possua análise antifraude, a captura do pagamento acontecerá da mesma forma que no comportamento "Liquidação automática imediatamente após a autorização do pagamento").
 - **Desativado**: a captura acontece somente quando o pedido for faturado. Caso escolha esse comportamento de captura, é importante atentar-se quanto ao tempo do faturamento. Isso porque o faturamento pode ultrapassar o tempo de captura acordado com o provedor de pagamentos e levar à perda da transação.
 
-8. Caso deseje utilizar o [split de pagamento](/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) em sua loja, selecione a opção **Ativar split de recebíveis e enviar recebedores de pagamento** e indique o **Responsável pelas tarifas de processamento de pagamentos** e **Responsável pelos estornos** (marketplace, sellers ou marketplaces e sellers).
+8. Caso deseje utilizar o [split de pagamento](/pt/docs/tutorials/split-de-pagamento) em sua loja, selecione a opção **Ativar split de recebíveis e enviar recebedores de pagamento** e indique o **Responsável pelas tarifas de processamento de pagamentos** e **Responsável pelos estornos** (marketplace, sellers ou marketplaces e sellers).
 9. Para preencher os campos **Merchant Id**, **Merchant Site Id** e **Client Secret** (Secret Key), acesse as informações disponíveis em **Settings > My Integration Settings** dentro do painel de controle de sua conta no ambiente Nuvei.
 
 > ⚠️ A Nuvei possui credenciais (Merchant Id, Merchant Site Id e Client Secret) específicas para cada tipo de ambiente. Acesse os ambientes de teste [(Integration)](sandbox.nuvei.com) e [Live](cpanel.nuvei.com) para identificar as informações relativas a cada um deles.
@@ -60,7 +60,7 @@ Para configurar a informação DMN Url na Nuvei, siga os passos abaixo:
 
 `https://master--{account-name}.myvtex.com/_v/api/nuvei-payment-provider/v0/dmn`
 
-Para configurar os métodos de pagamento a serem processados pela Nuvei, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento--tutorials_455).
+Para configurar os métodos de pagamento a serem processados pela Nuvei, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

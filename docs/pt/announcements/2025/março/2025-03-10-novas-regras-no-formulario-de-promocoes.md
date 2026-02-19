@@ -53,7 +53,7 @@ Nenhuma ação é necessária, as melhorias são aplicadas automaticamente aos n
 
 Para mais informações, acesse as seguintes documentações:
 
-- [Compre Junto](/pt/tutorial/compre-junto--tutorials_323)
-- [Compre e Ganhe](/pt/tutorial/compre-e-ganhe--tutorials_322)
-- [Desconto progressivo](/pt/tutorial/desconto-progressivo--tutorials_324)
-- [Leve Mais por Menos](/pt/tutorial/leve-mais-por-menos--tutorials_325)
+- [Compre Junto](/pt/docs/tutorials/compre-junto)
+- [Compre e Ganhe](/pt/docs/tutorials/compre-e-ganhe)
+- [Desconto progressivo](/pt/docs/tutorials/desconto-progressivo)
+- [Leve Mais por Menos](/pt/docs/tutorials/leve-mais-por-menos)

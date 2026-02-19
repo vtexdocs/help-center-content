@@ -21,6 +21,6 @@ As of __October 24__, the orders management module will only allow you to export
 To ensure the best experience possible, we've been recommending the 3.000 orders limit since June 2018 (as seen on the warning published on the [Exporting orders in OMS] article(/en/tutorial/exporting-orders-with-oms)). The only difference now is that the __button will only be available if the limit is fully respected__.
 
 ## How to export more than 3.000 orders
-You can still export more than 3.000 orders. To do so, you must use our orders management (formerly known as OMS) APIs: [Get Order](https://developers.vtex.com/reference/orders#getorder) and [Get Feed Order Status](https://developers.vtex.com/reference/feed-v3#getfeedorderstatus1).
+You can still export more than 3.000 orders. To do so, you must use our orders management (formerly known as OMS) APIs: [Get Order](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-) and [Get Feed Order Status](https://developers.vtex.com/docs/api-reference/feed-v3#getfeedorderstatus1).
 
 > ⚠️ **But remember:** For it to work, it's necessary to **create a date/hour range that includes up to 3.000 orders**. After defining a range that respects this limit, you'll be able to make as many requests to the API as you want.

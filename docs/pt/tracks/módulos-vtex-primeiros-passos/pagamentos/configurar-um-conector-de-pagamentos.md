@@ -19,7 +19,7 @@ O módulo de __Pagamentos__ permite que diversos provedores de pagamento (gatewa
 
 Quando uma compra é realizada em sua loja e o cliente efetua o pagamento, a transmissão de dados entre a VTEX e o provedor escolhido ocorre por meio de protocolos de comunicação configurados no Admin VTEX.
 
-> ℹ️ Para verificar quais provedores de pagamento estão disponíveis em sua região e os respectivos artigos de configurações, acesse a [Lista de provedores de pagamento por país](/pt/tutorial/lista-de-provedores-de-pagamento-por-pais--2im3BEGXxSAcRuxEaIHPvp).
+> ℹ️ Para verificar quais provedores de pagamento estão disponíveis em sua região e os respectivos artigos de configurações, acesse a [Lista de provedores de pagamento por país](/pt/docs/tutorials/lista-de-provedores-de-pagamento-por-pais).
 
 Veja abaixo um exemplo de como configurar um provedor de pagamento:
 

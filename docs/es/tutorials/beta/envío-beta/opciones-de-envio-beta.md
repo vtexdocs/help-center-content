@@ -57,8 +57,7 @@ Para crear una nueva opción de envío sigue los pasos a continuación:
    - **Método de envío:** selecciona el método de envío (**Envío**, **Entrega programada**, **Recogida**, **Recogida programada**).
 
    - **Nombre de la opción:** ingresa el nombre de la opción que se mostrará al cliente durante la compra.
-
-   - **Usar opción como filtro en la vitrina de la tienda**: marca la casilla para permitir que los clientes utilicen esta opción para filtrar los productos con los [filtros de Intelligent Search](/es/tutorial/filtros--k24mQQa9SjmhNWSwdqIMB).
+   - **Usar opción como filtro en la vitrina de la tienda**: marca la casilla para permitir que los clientes utilicen esta opción para filtrar los productos con los [filtros de Intelligent Search](/es/docs/tutorials/filtros).
 
    > ⚠️ Los filtros de métodos de envío solo se mostrarán al cliente en la lista de productos si esta opción está activada. Si está desactivada, los filtros no se mostrarán.
 

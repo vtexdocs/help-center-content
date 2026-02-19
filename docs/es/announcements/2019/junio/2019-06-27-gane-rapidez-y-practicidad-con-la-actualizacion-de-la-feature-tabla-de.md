@@ -27,4 +27,4 @@ Antes, para crear una tabla de precios era necesario ir hasta el filtro y digita
 
 En esta actualización, es posible crear, buscar y visualizar tablas de precios con más rapidez y practicidad. Gracias al botón que, en esta actualización, se encuentra en la página principal de la Lista de Precios.
 
-Mira el tutorial y sepa [como crear tabla de precios](/es/tutorial/creaci%C3%B3n-de-tablas-de-precios--58YmY2Iwggyw4WeSCGg24S).
+Mira el tutorial y sepa [como crear tabla de precios](/es/docs/tutorials/creacion-de-tablas-de-precios).

@@ -24,7 +24,7 @@ Para configurar a CieloEcommerce, siga os passos abaixo:
 4. Em **Autorização do provedor**, preencha os campos **Chave de aplicação** e **Token de aplicação** com o **MerchantID** e **MerchantKey** fornecidos pela CieloEcommerce.
 5. Caso deseje modificar o nome de identificação a ser exibido para o provedor CieloEcommerce na tela do Admin VTEX, insira a informação no campo **Nome** em **Informações básicas**.
 6. Em **Controle de pagamento**, selecione se deseja ativar o provedor em ambiente de teste clicando em **Ativar modo de teste**.
-7. Caso deseje utilizar o [Split de pagamento](/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) em sua loja, selecione a opção **Ativar split de recebíveis e enviar recebedores de pagamento** e indique o **Responsável pelas tarifas de processamento de pagamentos** e **Responsável pelos estornos** (marketplace, sellers ou marketplaces e sellers).
+7. Caso deseje utilizar o [Split de pagamento](/pt/docs/tutorials/split-de-pagamento) em sua loja, selecione a opção **Ativar split de recebíveis e enviar recebedores de pagamento** e indique o **Responsável pelas tarifas de processamento de pagamentos** e **Responsável pelos estornos** (marketplace, sellers ou marketplaces e sellers).
 8. Em **Integration**, selecione se o conector será utilizado como **Adquirencia** ou **Gateway**.
 9. Em **Provider**, selecione o adquirente a ser utilizado com o provedor CieloEcommerce.
 10. Em **DaysToInvoiceCancel**, selecione a quantidade de dias desejada para cancelar a fatura.
@@ -37,7 +37,7 @@ Para configurar a CieloEcommerce, siga os passos abaixo:
 17. Em **UseAntifraudSolution**, selecione a opção desejada.
 18. Em **AntifraudProvider**, selecione o provedor de antifraude que deseja utilizar com o CieloEcommerce.
 
-> ⚠️ Verifique com a Cielo se as opções de antifraude no CieloEcommerce já estão disponíveis para uso. Caso ainda estejam em desenvolvimento, ambos os campos descritos no passo 15 deverão ser deixados em branco. Para mais informações sobre como utilizar opções de antifraude em sua loja, acesse [Configurar o antifraude](/pt/tutorial/como-configurar-antifraude).
+> ⚠️ Verifique com a Cielo se as opções de antifraude no CieloEcommerce já estão disponíveis para uso. Caso ainda estejam em desenvolvimento, ambos os campos descritos no passo 15 deverão ser deixados em branco. Para mais informações sobre como utilizar opções de antifraude em sua loja, acesse [Configurar o antifraude](/pt/docs/tutorials/como-configurar-antifraude).
 
 19. Em **Antifraud** e **AntifraudSequenceCriteria**, selecione as opções conforme informações do antifraude CieloEcommerce.
 20. Em **CaptureOnLowRisk** e **VoidOnHighRisk**, selecione as opções configuradas no provedor CieloEcommerce.
@@ -47,7 +47,7 @@ Para configurar a CieloEcommerce, siga os passos abaixo:
 24. Em **CieloLIOClientId**, preencha conforme informações do provedor CieloEcommerce.
 25. Clique em **Salvar**.
 
-Para configurar os métodos de pagamento a serem processados pela CieloEcommerce, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela CieloEcommerce, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

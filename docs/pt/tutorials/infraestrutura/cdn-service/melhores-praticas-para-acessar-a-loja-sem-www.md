@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 
-O [domínio principal](/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450) de uma loja precisa ter um subdomínio, como `www` ou outro. Para acessar a loja utilizando um domínio puro – como `minhaloja.com`, que não tem um subdomínio – é preciso fazer um [redirecionamento](/pt/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ). Neste guia, explicamos os motivos para essa necessidade e como realizar o redirecionamento. Confira as seções a seguir:
+O [domínio principal](/pt/docs/tutorials/configurar-o-dominio-da-loja) de uma loja precisa ter um subdomínio, como `www` ou outro. Para acessar a loja utilizando um domínio puro – como `minhaloja.com`, que não tem um subdomínio – é preciso fazer um [redirecionamento](/pt/docs/tutorials/redirecionamento-de-outros-enderecos). Neste guia, explicamos os motivos para essa necessidade e como realizar o redirecionamento. Confira as seções a seguir:
 
 * [Antes de começar](#antes-de-comecar)
 * [Desafios de domínios sem subdomínio](#desafios-de-dominios-sem-subdominio)
@@ -26,8 +26,8 @@ O [domínio principal](/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450
 
 Recomendamos a leitura dos seguintes guias para entender como funcionam domínios e a configuração de DNS na VTEX:
 
-* [Configurar o domínio da loja](/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450)
-* [Como funciona a configuração de DNS na VTEX](/pt/tutorial/como-funciona-a-configuracao-de-dns-na-vtex--2P5k3oMYOj7TgSK4Mrxmgy)
+* [Configurar o domínio da loja](/pt/docs/tutorials/configurar-o-dominio-da-loja)
+* [Como funciona a configuração de DNS na VTEX](/pt/docs/tutorials/como-funciona-a-configuracao-de-dns-na-vtex)
 
 ## Limitações na configuração de DNS para domínios puros
 
@@ -35,7 +35,7 @@ Nesta seção, exploramos a complexidade e os desafios relacionados à configura
 
 ### Redirecionamentos tipo A para domínios puros 
 
-A [configuração de DNS na VTEX](/pt/tutorial/como-funciona-a-configuracao-de-dns-na-vtex--2P5k3oMYOj7TgSK4Mrxmgy) deve ser feita para o [domínio principal](/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450) da loja, não sendo recomendado o uso de domínios puros. Um domínio puro, sem subdomínio, também conhecido como _naked domain_ (por exemplo, `minhaloja.com`, sem o `www`), implica na criação de uma configuração de tipo A (Address Record) no DNS. O registro A é usado para apontar diretamente o domínio para um endereço IP específico.
+A [configuração de DNS na VTEX](/pt/docs/tutorials/como-funciona-a-configuracao-de-dns-na-vtex) deve ser feita para o [domínio principal](/pt/docs/tutorials/configurar-o-dominio-da-loja) da loja, não sendo recomendado o uso de domínios puros. Um domínio puro, sem subdomínio, também conhecido como _naked domain_ (por exemplo, `minhaloja.com`, sem o `www`), implica na criação de uma configuração de tipo A (Address Record) no DNS. O registro A é usado para apontar diretamente o domínio para um endereço IP específico.
 
 No entanto, esse tipo de configuração não é recomendado. Não é possível usar configurações A que apontam diretamente para um endereço IP, pelos motivos a seguir:
 
@@ -50,11 +50,11 @@ Esse comportamento cria um conflito direto com domínios puros, pois lojistas ge
 
 ## Lidando com domínios puros
 
-Em vista das [limitações na configuração de DNS para domínios puros](/pt/tutorial/como-funciona-a-configuracao-de-dns-na-vtex--2P5k3oMYOj7TgSK4Mrxmgy), essa seção apresenta as práticas recomendadas para garantir que a loja seja acessível sem a necessidade do prefixo `www`.
+Em vista das [limitações na configuração de DNS para domínios puros](/pt/docs/tutorials/como-funciona-a-configuracao-de-dns-na-vtex), essa seção apresenta as práticas recomendadas para garantir que a loja seja acessível sem a necessidade do prefixo `www`.
 
 ### Solução recomendada: Redirecionamentos
 
-A VTEX recomenda sempre usar o `www` ou outro subdomínio ao [configurar o domínio principal](/pt/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450) da loja, visando conciliar a necessidade de utilizar CNAMEs e outras configurações. Neste cenário, recomenda-se usar redirecionamentos para acessar o endereço sem `www` ou outros subdomínios. Para saber como configurar redirecionamentos, leia [Redirecionamento de outros endereços](/pt/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ).
+A VTEX recomenda sempre usar o `www` ou outro subdomínio ao [configurar o domínio principal](/pt/docs/tutorials/configurar-o-dominio-da-loja) da loja, visando conciliar a necessidade de utilizar CNAMEs e outras configurações. Neste cenário, recomenda-se usar redirecionamentos para acessar o endereço sem `www` ou outros subdomínios. Para saber como configurar redirecionamentos, leia [Redirecionamento de outros endereços](/pt/docs/tutorials/redirecionamento-de-outros-enderecos).
 
 Alguns provedores de DNS suportam CNAMEs no domínio puro ([CNAME Flattening](#solucao-alternativa-cname-flattening)). No entanto, essa opção pode não ser oferecida por todos os provedores. Portanto, recomendamos o uso obrigatório do  subdomínio para garantir que todas as funcionalidades necessárias possam coexistir.
 
@@ -68,4 +68,4 @@ Alguns provedores de DNS, como o [Cloudflare](https://www.cloudflare.com/pt-br/)
 
 Portanto, se você deseja usar um domínio puro com um CDN em uma configuração específica, a primeira etapa é verificar se o seu provedor de DNS suporta o CNAME Flattening. Se sim, você poderá configurar o domínio puro dessa forma.
 
-> ⚠️ Quando utilizada, a solução de DNS Flattening implica o mesmo comportamento de um [proxy-reverso](/pt/tutorial/por-que-nao-recomendamos-inserir-um-proxy-reverso-em-frente-aos-servicos-da--4PFWsfRAKviNVPf1bYdiir). Nesse caso, é necessário configurar uma entrada TXT de verificação.
+> ⚠️ Quando utilizada, a solução de DNS Flattening implica o mesmo comportamento de um [proxy-reverso](/pt/docs/tutorials/inserir-proxy-reverso-em-frente-aos-servicos-da-vtex). Nesse caso, é necessário configurar uma entrada TXT de verificação.

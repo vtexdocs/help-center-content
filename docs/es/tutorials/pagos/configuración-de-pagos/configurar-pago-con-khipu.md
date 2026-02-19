@@ -35,7 +35,7 @@ Para configurar Khipu, siga los pasos a continuación:
 
 ## Configurar Pagaré
 
-Si aún no has configurado el pagaré como método de pago en otros conectores de tu tienda, accede a [Configurar pagos con Pagaré](/es/tutorial/configurar-pagos-con-pagare--5pW7avTwtyQcMu4uiW8quQ).
+Si aún no has configurado el pagaré como método de pago en otros conectores de tu tienda, accede a [Configurar pagos con Pagaré](/es/docs/tutorials/configurar-pagos-con-pagare).
 
 ## Configurar la condición de pago
 
@@ -44,7 +44,7 @@ Si aún no has configurado el pagaré como método de pago en otros conectores d
 3. En __Pago personalizado__, haga clic en el botón correspondiente al nombre utilizado para el método de pago del pagaré (configurado en la sección anterior).
 4. Active la condición en el campo __Status__.
 5. En __Procesar con afiliación__, seleccione __srconsultores-khipu-v0__.
-6. Si lo desea, también puede configurar [condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456).
+6. Si lo desea, también puede configurar [condiciones especiales de pago](/es/docs/tutorials/condiciones-especiales).
 7. Haga clic en `Guardar`.
 
 Después de seguir los pasos indicados, Khipu puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

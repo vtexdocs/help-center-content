@@ -27,7 +27,7 @@ Then you need to configure Samsung Pay according to the steps below:
 4. Activate the condition in the __Status__ field.
 5. Under __Process with Provider__, select the __Adyen__ option.
 6. If you want to use an anti-fraud system, select the option __Use anti-fraud solution__.
-7. If you want, you can also [configure special payment conditions](/en/tutorial/condiciones-especiales--tutorials_456).
+7. If you want, you can also [configure special payment conditions](/en/docs/tutorials/special-conditions).
 8. Click on `Save`.
 
 After following the indicated steps, Samsung Pay may take up to 10 minutes to appear at your store's checkout as a payment option.

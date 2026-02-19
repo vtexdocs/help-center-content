@@ -34,7 +34,7 @@ A funcionalidade foi lançada para que o lojista:
 
 ## O que precisa ser feito?
 
-Para utilizar a nova funcionalidade, lojas que utilizam a solução [VTEX Shipping Network](https://vtex.com/br-pt/log/) devem entrar em contato com o [suporte ](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM)e solicitar a ativação da ferramenta **Pronto para envio**.
+Para utilizar a nova funcionalidade, lojas que utilizam a solução [VTEX Shipping Network](https://vtex.com/br-pt/log/) devem entrar em contato com o [suporte ](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex)e solicitar a ativação da ferramenta **Pronto para envio**.
 
-Confira nossa documentação sobre a nova funcionalidade [Pronto para envio](/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) para saber mais.
+Confira nossa documentação sobre a nova funcionalidade [Pronto para envio](/pt/docs/tutorials/pronto-para-envio) para saber mais.
 

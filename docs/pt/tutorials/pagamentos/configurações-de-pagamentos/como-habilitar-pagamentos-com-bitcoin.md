@@ -29,7 +29,7 @@ Para utilizar o Bitcoin em sua loja, você precisa ter cadastrado uma afiliaçã
 4. Clique no botão __Status__ para ativar essa condição de pagamento.
 5. Em __Processar com a afiliação__, escolha o conector que irá processar os pagamentos com o Bitcoin. Somente estarão disponíveis para seleção, os conectores que suportam este meio de pagamento.
 6. Se houver um antifraude configurado na sua loja, você pode ativá-lo marcando a caixa __Usar Antifraude__.
-7. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condicoes-especiais).
+7. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais).
 8. Clique em __Salvar__.
 
 Depois de seguir os passos indicados, o Bitcoin pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

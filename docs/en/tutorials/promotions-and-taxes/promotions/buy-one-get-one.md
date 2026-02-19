@@ -135,7 +135,7 @@ In this section, you can highlight the promotion on the product listing page and
 
 - **Highlight promotion on products:** Check this option to display the promotion directly on the product listing pages.
 
-> ℹ️ Remember to [configure this view in the CMS module.](/en/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295)
+> ℹ️ Remember to [configure this view in the CMS module.](/en/docs/tutorials/configuring-promotions-with-a-highlightflag)
 
 - **Additional information:** Click Create to add custom fields with name and value, which can be used for store customizations.
 

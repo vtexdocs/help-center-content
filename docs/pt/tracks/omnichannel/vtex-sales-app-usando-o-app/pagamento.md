@@ -48,7 +48,7 @@ O cliente deve selecionar a opção **Dinheiro** e clicar em `Finalizar venda`.
 
 ![instore-dinheiro-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/pagamento_2.jpg)
 
-Após isso, o cliente deve realizar a transação com o vendedor. A aprovação da venda pode ser [manual ou automática](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT), dependendo da configuração da loja.
+Após isso, o cliente deve realizar a transação com o vendedor. A aprovação da venda pode ser [manual ou automática](/pt/docs/tracks/faturar-um-pedido), dependendo da configuração da loja.
 
 ### Pix
 

@@ -15,13 +15,13 @@ locale: en
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
-__Card brands__ are companies responsible for defining the business rules for purchases made with credit card. They are the ones who define the standards by which the [acquirers](/en/tutorial/what-is-an-acquirer) must process the transactions carried out by this payment method (each brand has its own rules).
+__Card brands__ are companies responsible for defining the business rules for purchases made with credit card. They are the ones who define the standards by which the [acquirers](/en/docs/tutorials/what-is-an-acquirer) must process the transactions carried out by this payment method (each brand has its own rules).
 
 The brands keep a close relationship with the acquirers to guarantee the acceptance of their credit cards in the establishments. Thus, they promote its use and broaden the user base.
 
-In the [credit card payment flow](/en/faq/credit-card-basic-payment-flow), the brand receives from the acquirer the information of the purchase made in your store. It then validates the conditions (such as the number of installments) and sends the data to the [issuing bank](/en/tutorial/what-is-the-issuing-bank), which verifies that the buyer has available limit.
+In the [credit card payment flow](/en/docs/tutorials/credit-card-basic-payment-flow), the brand receives from the acquirer the information of the purchase made in your store. It then validates the conditions (such as the number of installments) and sends the data to the [issuing bank](/en/docs/tutorials/what-is-the-issuing-bank), which verifies that the buyer has available limit.
 
 ### Related articles
-- [Credit card - Basic payment flow](/en/faq/credit-card-basic-payment-flow)
-- [What is an acquirer?](/en/tutorial/what-is-an-acquirer)
-- [What is the issuing bank?](/en/tutorial/what-is-the-issuing-bank)
+- [Credit card - Basic payment flow](/en/docs/tutorials/credit-card-basic-payment-flow)
+- [What is an acquirer?](/en/docs/tutorials/what-is-an-acquirer)
+- [What is the issuing bank?](/en/docs/tutorials/what-is-the-issuing-bank)

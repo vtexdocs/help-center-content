@@ -15,13 +15,13 @@ locale: en
 subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 ---
 
-As mentioned in our [Introduction to Contacts](https://help.vtex.com/docs/tutorials/introduction-to-contacts), there are two types of groups for contacts on the platform. Now, we will explain how they work and how to create your groups.
+As mentioned in our [Introduction to Contacts](/en/docs/tutorials/introduction-to-contacts), there are two types of groups for contacts on the platform. Now, we will explain how they work and how to create your groups.
 
 #### **Static Group**
 
 A static group is where contacts need to be added or removed manually. For a contact to enter or leave a static group, they must be added or removed by the platform user through the Contacts tab, or they can be added or removed through flows during interactions with your automation.
 
-You can find the description of the flow charts for groups by clicking [here](https://help.vtex.com/docs/tutorials/action-cards).
+You can find the description of the flow charts for groups by clicking [here](/en/docs/tutorials/action-cards).
 
 To create a static group, simply navigate to the contacts page within the ""**Studio**"" module and click the ***Create Group*** button in the side menu.
 

@@ -30,5 +30,5 @@ Os principais benefícios da funcionalidade incluem:
 
 A funcionalidade **Match de anúncios** pode ser encontrada no Admin VTEX clicando em, **Marketplace > Mercado Livre > Match de anúncios,** ou digite  Match de anúncios na barra de busca. Ela está disponível para todas as contas VTEX.  
 
-Para mais informações de como utilizar a funcionalidade, leia nossa documentação [Match de anúncios Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/43uD4LPU5PLUWe11IaWwyR).
+Para mais informações de como utilizar a funcionalidade, leia nossa documentação [Match de anúncios Mercado Livre](/pt/docs/tracks/match-de-anuncios-mercado-livre).
 

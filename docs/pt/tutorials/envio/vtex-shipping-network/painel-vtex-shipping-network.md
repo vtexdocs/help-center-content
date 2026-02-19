@@ -17,7 +17,7 @@ subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/).
 
-> ⚠️ O [VTEX Shipping Network Correios](/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC) integra sua operação com os serviços PAC e SEDEX do contrato VTEX junto aos Correios, e o [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades: <ul> <li>[Pronto para envio](/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs)</li> <li>[Entregas Correios](/pt/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq)</li> <li>Painel VTEX Shipping Network</li></ul>
+> ⚠️ O [VTEX Shipping Network Correios](/pt/docs/tutorials/vtex-shipping-network-correios-faq) integra sua operação com os serviços PAC e SEDEX do contrato VTEX junto aos Correios, e o [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades: <ul> <li>[Pronto para envio](/pt/docs/tutorials/pronto-para-envio)</li> <li>[Entregas Correios](/pt/docs/tutorials/entregas-correios-vtex-shipping-network)</li> <li>Painel VTEX Shipping Network</li></ul>
 
 O [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) utiliza os dados de rastreio dos pedidos diretamente das transportadoras, mantendo você e seu cliente atualizados sobre o status de cada entrega.
 
@@ -105,6 +105,6 @@ Para saber mais como realizar essa integração, confira o [Overview VTEX Shippi
 
 ## Saiba mais
 
-* [VTEX Shipping Network: Entregas Correios](/pt/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq)
-* [VTEX Shipping Network: Pronto para envio](/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs)
-* [VTEX Shipping Network Correios: FAQ](/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC)
+* [VTEX Shipping Network: Entregas Correios](/pt/docs/tutorials/entregas-correios-vtex-shipping-network)
+* [VTEX Shipping Network: Pronto para envio](/pt/docs/tutorials/pronto-para-envio)
+* [VTEX Shipping Network Correios: FAQ](/pt/docs/tutorials/vtex-shipping-network-correios-faq)

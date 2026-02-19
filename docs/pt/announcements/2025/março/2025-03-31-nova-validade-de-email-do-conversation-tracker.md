@@ -25,5 +25,5 @@ Antes, o endereço de email alternativo do [Conversation Tracker](/pt/tutorial/p
 ## O que precisa ser feito?
 Nenhuma ação é necessária. A atualização da validade do endereço de email foi aplicada automaticamente a todas as lojas VTEX.
 
-Para mais informações, confira o artigo sobre [comunicação com o cliente durante o fluxo do pedido](/pt/tutorial/understanding-the-conversation-tracker--tutorials_195).
+Para mais informações, confira o artigo sobre [comunicação com o cliente durante o fluxo do pedido](/pt/docs/tutorials/conversation-tracker).
 

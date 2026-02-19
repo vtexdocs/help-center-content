@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'O armazenamento de conteúdo do Site Editor foi atualizado para melhorar seu desempenho e confiabilidade.'
 ---
 
-No dia 12 de junho, o armazenamento de conteúdo do [Site Editor](/pt/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) foi atualizado todas as contas para todas as contas que o utilizam a fim de solucionar um problema conhecido: a perda [intermitente de conteúdo do Site Editor](/pt/known-issues/intermitent-site-editor-content-loss--3a5MlAoD2Z7Gu6HDS8wihD). Essa atualização melhora o desempenho e a confiabilidade do armazenamento, além de reduzir o espaço ocupado pelo seu conteúdo.
+No dia 12 de junho, o armazenamento de conteúdo do [Site Editor](/pt/docs/tutorials/site-editor-visao-geral) foi atualizado todas as contas para todas as contas que o utilizam a fim de solucionar um problema conhecido: a perda [intermitente de conteúdo do Site Editor](/pt/known-issues/intermitent-site-editor-content-loss--3a5MlAoD2Z7Gu6HDS8wihD). Essa atualização melhora o desempenho e a confiabilidade do armazenamento, além de reduzir o espaço ocupado pelo seu conteúdo.
 
 ## O que mudou?
 Antes, as constantes alterações de conteúdo no Site Editor podiam fazer com que o arquivo `content.json` se tornasse excessivamente grande, levando à perda de conteúdo ao [criar um workspace de produção para a master](https://developers.vtex.com/docs/guides/vtex-io-documentation-workspaces-best-practices#deployment-and-workspace-promotion) ou ao instalar uma nova versão de tema em um workspace de teste.

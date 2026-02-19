@@ -39,7 +39,7 @@ Para remover el mensaje de error y permitir que el usuario vuelva a acceder a la
 
 En la página en la que se muestra el mensaje "__Request headers must contain only ASCII characters__", sigue los pasos a continuación para identificar la cookie que contiene caracteres especiales:
 
-1. Accede al [DevTools](/es/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By) en tu navegador pulsando **F12** o haciendo clic con el botón derecho del mouse y eligiendo la opción **Inspect**.
+1. Accede al [DevTools](/es/docs/tutorials/productos-y-skus) en tu navegador pulsando **F12** o haciendo clic con el botón derecho del mouse y eligiendo la opción **Inspect**.
 
   2. En la barra superior de la pantalla, accede a la pestaña **Network** y ordena los requests haciendo clic en **Status**. La información **400** en el estado indica que la solicitud no se procesó correctamente, lo que puede deberse a errores como cookies incorrectas.  
 
@@ -63,7 +63,7 @@ En la página en la que se muestra el mensaje "__Request headers must contain on
 
 Una vez identificadas las cookies que contienen caracteres especiales, debe verificarse su origen para removerlas de la página. Las fuentes más comunes de cookies incorrectas son:
 
-- [Parámetros UTMs](/es/tutorial/que-son-las-utms-internas--5Pvo8ufYWs00AUeCCEY68a) creados en tu tienda o en campañas de anuncios de Google, Meta, entre otros, que contengan caracteres acentuados. Ejemplo de parámetro UTM utilizado en una fecha conmemorativa: `www.site.com?utm_source=día-de-la-madre`.
+- [Parámetros UTMs](/es/docs/tutorials/que-son-las-utms-internas) creados en tu tienda o en campañas de anuncios de Google, Meta, entre otros, que contengan caracteres acentuados. Ejemplo de parámetro UTM utilizado en una fecha conmemorativa: `www.site.com?utm_source=día-de-la-madre`.
 - Javascripts personalizados, donde las implementaciones de frontend utilizadas para almacenar datos u otros tipos de funciones pueden contener caracteres especiales.
 - Scripts de clientes partners que crean cookies con caracteres especiales.
 

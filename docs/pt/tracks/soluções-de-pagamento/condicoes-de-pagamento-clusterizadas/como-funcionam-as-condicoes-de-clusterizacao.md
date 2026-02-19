@@ -17,7 +17,7 @@ order: 3
 
 A Clustered Payment Conditions utiliza condições para criar os clusters de consumidores. 
 
-Essas condições, por sua vez, são baseadas nos dados que o [Master Data](/pt/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw) armazena sobre os consumidores de uma loja.
+Essas condições, por sua vez, são baseadas nos dados que o [Master Data](/pt/docs/tutorials/master-data) armazena sobre os consumidores de uma loja.
 
 Desse modo, as regras de prazo e parcelamento serão aplicadas ao(s) consumidor(es) que se encaixarem na condição - ou condições. 
 

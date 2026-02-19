@@ -22,21 +22,21 @@ Estratégia de envio é a relação entre estoque, doca e política de envio. A 
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
    <tr class="bb b--muted-3">
             <td class="t-body pa5" style="min-width: 15rem;">
-                **[Estoque](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)**
+                **[Estoque](/pt/docs/tutorials/estoque)**
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">Porção de mercadorias armazenadas num depósito ou numa loja. Funciona como ferramenta de controle de disponibilidade de produtos.
             </td>
     </tr>
     <tr class="bb b--muted-3">
             <td class="t-body pa5" style="min-width: 15rem;">
-                **[Doca**](/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)
+                **[Doca**](/pt/docs/tutorials/doca)
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">Local de distribuição do estoque. Funciona como uma área de armazenamento de produtos para entrega.
             </td>
     </tr>
     <tr class="bb b--muted-3">
             <td class="t-body pa5" style="min-width: 15rem;">
-                **[Política de Envio](/pt/tutorial/politica-de-envio--tutorials_140)**
+                **[Política de Envio](/pt/docs/tutorials/politica-de-envio)**
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">Conjunto de regras que definem as opções e condições de frete que serão apresentadas ao consumidor no momento da finalização da compra. 
             </td>
@@ -49,7 +49,7 @@ As configurações podem ser realizadas pelo Admin VTEX ou por API. Se você est
 
 | **Assunto** | **Configuração via Admin VTEX** | **Configuração via API** |
 | :--- | :--- | :--- |
-| 1. [Política de envio](/pt/tutorial/politica-de-envio--tutorials_140) | [Criar uma política de envio](/pt/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
-| 2. [Doca](/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) | [Gerenciar doca](/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
-| 3. [Estoque](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) | [Gerenciar estoque](/pt/tutorial/gerenciar-estoque--tutorials_137) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
+| 1. [Política de envio](/pt/docs/tutorials/politica-de-envio) | [Criar uma política de envio](/pt/docs/tutorials/criar-uma-politica-de-envio) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
+| 2. [Doca](/pt/docs/tutorials/doca) | [Gerenciar doca](/pt/docs/tutorials/gerenciar-doca) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
+| 3. [Estoque](/pt/docs/tutorials/estoque) | [Gerenciar estoque](/pt/docs/tutorials/gerenciar-estoque) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
 

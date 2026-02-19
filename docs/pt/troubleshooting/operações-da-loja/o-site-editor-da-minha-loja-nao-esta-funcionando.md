@@ -45,7 +45,7 @@ Para solucionar esse erro, veja as instruções a seguir:
 
 ### Verificar a integração de busca
 
-Esse problema pode estar relacionado ao fato de a busca do [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) não estar integrada ao catálogo de sua loja. Siga os passos abaixo para integrá-la à sua loja:
+Esse problema pode estar relacionado ao fato de a busca do [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search) não estar integrada ao catálogo de sua loja. Siga os passos abaixo para integrá-la à sua loja:
 
 1. No VTEX Admin, acesse **Configurações da loja > Intelligent Search > Integrações**.
 2. Na página **Integrações**, todos os status devem estar ticados, como na imagem a seguir. 
@@ -76,14 +76,14 @@ Algo deu errado. Por favor, tente novamente.
 Para solucionar esse erro, veja as instruções a seguir:
 
 1. [Verifique se o perfil de acesso do usuário tem as permissões necessárias](#verificar-se-o-perfil-de-acesso-do-usuario-tem-as-permissoes-necessarias).
-2. [Verifique se a política comercial está configurada no catálogo](verifique-se-a-politica-comercial-esta-configurada-no-catalogo)
+2. [Verifique se a política comercial está configurada no catálogo](#verifique-se-a-politica-comercial-esta-configurada-no-catalogo)
 3. [Verifique o locale principal do domínio](#verificar-o-locale-principal-do-dominio)
 
 ### Verificar se o perfil de acesso do usuário tem as permissões necessárias
 
-Um possível motivo para esse problema pode estar relacionado à falta do [recurso](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `CMS GraphQL API` do License Manager em um [perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) para gerenciamento de conteúdo. 
+Um possível motivo para esse problema pode estar relacionado à falta do [recurso](/pt/docs/tutorials/recursos-do-license-manager) `CMS GraphQL API` do License Manager em um [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) para gerenciamento de conteúdo. 
 
-Certifique-se de que os usuários tenham o recurso `CMS GraphQL API` associado a seus perfis de acesso, seja [criando um novo perfil](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) ou editando um existente.
+Certifique-se de que os usuários tenham o recurso `CMS GraphQL API` associado a seus perfis de acesso, seja [criando um novo perfil](/pt/docs/tutorials/perfis-de-acesso#creating-a-role) ou editando um existente.
 
 Se ainda não for possível gerenciar o conteúdo mesmo depois de adicionar o recurso `CMS GraphQL API` à função do usuário, veja a próxima seção: [Verificar o locale principal do domínio ](#verificando-o-locale-principal-do-dominio).
 

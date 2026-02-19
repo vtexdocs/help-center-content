@@ -35,7 +35,7 @@ A aba *Importados* reúne produtos do catálogo do marketplace que já foram imp
 
 No primeiro acesso ao Seller Portal, quando nenhum produto foi importado, a aba de *Importados* estará vazia. Ela se preencherá à medida que o seller importar produtos disponibilizados pelo marketplace na aba *Disponíveis*.
 
-Ao clicar em um produto da listagem, você acessa a página de [Detalhes do produto](/pt/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP).    
+Ao clicar em um produto da listagem, você acessa a página de [Detalhes do produto](/pt/docs/tutorials/seller-portal-detalhes-do-produto).    
 
 ## Disponíveis 
 
@@ -54,12 +54,12 @@ Para selecionar todos os produtos disponíveis na página, clique na caixa de se
 
 Todos os produtos importados serão incluídos na aba Importados. Os produtos importados mais recentemente também permanecerão listados na aba Disponíveis para o seu controle. 
 
-Ao clicar em um produto da listagem, você acessa a página de [Detalhes do produto](/pt/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP).   
+Ao clicar em um produto da listagem, você acessa a página de [Detalhes do produto](/pt/docs/tutorials/seller-portal-detalhes-do-produto).   
 
 ## Artigos Relacionados
 
-- [Seller Portal: Anúncios e o Envio de Produtos para o Marketplace](/pt/tutorial/seller-portal-anuncios-e-o-envio-de-produtos-para-o-marketplace--3RwSj7AyBoPtFbXkS7REiu)     
-- [Seller Portal: Como Funciona o Catálogo](/pt/tutorial/seller-portal-como-funciona-o-catalogo--7pMB6YOt6YQDQQbzFB4Pxp)             
-- [Seller Portal: Detalhes do produto](/pt/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP)      
-- [Seller Portal: Primeiros Passos](/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK)      
+- [Seller Portal: Anúncios e o Envio de Produtos para o Marketplace](/pt/docs/tutorials/seller-portal-anuncios-e-o-envio-de-produtos-para-o-marketplace)     
+- [Seller Portal: Como Funciona o Catálogo](/pt/docs/tutorials/seller-portal-como-funciona-o-catalogo)             
+- [Seller Portal: Detalhes do produto](/pt/docs/tutorials/seller-portal-detalhes-do-produto)      
+- [Seller Portal: Primeiros Passos](/pt/docs/tutorials/seller-portal-primeiros-passos)      
 

@@ -45,4 +45,4 @@ Caso precise realizar login na plataforma, você será apresentado a algumas per
 
 É isso! Você será direcionado automaticamente para a página do seu novo canal, onde poderá visualizar o registro do seu canal.
 
-Agora você pode criar um [disparador](https://help.vtex.com/pt/docs/tutorials/como-criar-um-disparador) que fará referência a um contato quando uma nova conversa for iniciada no Messenger.
+Agora você pode criar um [disparador](/pt/docs/tutorials/como-criar-um-disparador) que fará referência a um contato quando uma nova conversa for iniciada no Messenger.

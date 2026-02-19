@@ -27,7 +27,7 @@ We have adopted this taxonomy because it's widely applicable to any context, and
 
 It is used, for example, as a reference for the integration of products with Amazon, Buscapé and marketplaces.
 
-> ℹ️ The default behavior of our integration with Google Shopping is **not to send** this information. Thus, most stores rely on Google's own automatic categorization. If you prefer manual categorization, [contact support](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
+> ℹ️ The default behavior of our integration with Google Shopping is **not to send** this information. Thus, most stores rely on Google's own automatic categorization. If you prefer manual categorization, [contact support](/en/docs/tutorials/opening-tickets-to-vtex-support).
 
 ### When is it applied?
 
@@ -68,4 +68,4 @@ You must configure the global category in the Admin. Please follow the steps bel
 7. Type the name of the category you want to find and click on the <i class="fas fa-search"></i> button.
 8. Select a category and then click on the `Save` button.
 
-> ℹ️ You can also configure the global category via [XML](/en/tutorial/configuring-xml--tutorials_242) file.
+> ℹ️ You can also configure the global category via [XML](/en/docs/tutorials/configuring-xml) file.

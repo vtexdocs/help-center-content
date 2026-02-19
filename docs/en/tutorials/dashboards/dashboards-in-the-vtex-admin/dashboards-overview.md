@@ -22,6 +22,6 @@ This information can be found in the **Dashboards** menu of your Admin.
 
 This section includes the following pages, which are already available in your Admin :
 
-- [Overview](/en/v4/docs/store-overview--6mcM4LPUqQxSiXY6uFtXZy): where store owners have access to key metrics that impact their store revenue. In this dashboard, you can track the evolution of your sales through order trend analysis, conversion rate, and sales funnel charts.  
+- [Overview](/en/docs/tutorials/store-overview): where store owners have access to key metrics that impact their store revenue. In this dashboard, you can track the evolution of your sales through order trend analysis, conversion rate, and sales funnel charts.  
 - [Sales Performance](/en/v4/docs/sales-performance--6gx46RGRzWO8qgaVck7PRp): a dashboard for unified commerce that helps stores grow their business and make more accurate decisions.  
 

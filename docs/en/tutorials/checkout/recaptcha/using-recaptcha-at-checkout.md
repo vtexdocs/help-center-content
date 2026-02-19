@@ -25,7 +25,7 @@ Before enabling it, please pay attention to:
 
 - **Interface adaptation:** when enabling the feature, you must adapt your store’s order creation interface (desktop and mobile). Otherwise, order creation will be affected. Learn more about how to adapt the interface in [reCAPTCHA's integration guide.](https://developers.vtex.com/vtex-rest-api/docs/recaptcha)
 - **Consequences for the account:** enabling the feature implies that it will be used in the entire account, including all stores and sub-accounts.
-- **Performing tests:** you must use the [Beta environment](/en/tutorial/acessar-o-ambiente-beta-pelo-dominio-myvtex-com--3BHM289568gcSwk2O80Asu) with [Checkout V6](/en/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH) to test the feature without impacting your store in production.
+- **Performing tests:** you must use the [Beta environment](/en/docs/tutorials/accessing-the-beta-environment) with [Checkout V6](/en/docs/tutorials/enable-checkout-v6) to test the feature without impacting your store in production.
 
 ## Application rule
 

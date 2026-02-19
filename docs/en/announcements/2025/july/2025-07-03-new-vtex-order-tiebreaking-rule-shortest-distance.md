@@ -15,13 +15,13 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'A new tie-breaking rule on VTEX prioritizes sellers with closer delivery to buyers.'
 ---
 
-To enhance buyer experience, we've implemented a new rule for the last tie-breaker criterion in [VTEX order allocation](/en/tutorial/white-label-sellers-selection--3MemNQ4pKkWCpMdzI27AHa). Starting July 7, 2025, instead of selecting a seller randomly, the system will prioritize the shortest distance between seller and buyer.
+To enhance buyer experience, we've implemented a new rule for the last tie-breaker criterion in [VTEX order allocation](/en/docs/tutorials/white-label-sellers-selection). Starting July 7, 2025, instead of selecting a seller randomly, the system will prioritize the shortest distance between seller and buyer.
 
 ## What has changed?
 
 The current order allocation flow follows these steps:
 
-1. Sellers who don't serve the [order location](/en/tutorial/configure-seller-regionalization--32t6wLpQCEnumoh8TjT5fw) or lack sufficient stock for at least one item in the cart are removed.
+1. Sellers who don't serve the [order location](/en/docs/tutorials/configure-seller-regionalization) or lack sufficient stock for at least one item in the cart are removed.
 2. The number of sellers is reduced to 12 based on:
     * **For delivery**: Lowest shipping cost and shortest delivery time.
     * **For pickup**: Lowest shipping cost, delivery time, and shortest distance from the shopper to the pickup point.

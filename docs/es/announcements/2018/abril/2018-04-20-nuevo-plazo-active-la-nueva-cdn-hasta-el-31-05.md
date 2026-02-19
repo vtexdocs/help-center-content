@@ -37,7 +37,7 @@ A pesar del plazo algunas medidas ya se han implementado para todas las tiendas:
 - En el Portal CMS, todas las carpetas que se crean o cambien serán forzadas a HTTPS.
 - Cuentas inactivas o que no estaban en producción se actualizaron automáticamente a HTTPS.
 
-Es importante recordar que, para completar la migración a nuevo CDN, es fundamental activar el HTTPS en todo su website. Los detalles de cómo hacer esto están [en este artículo del Help](/es/tutorial/activar-https-en-todo-el-sitio).
+Es importante recordar que, para completar la migración a nuevo CDN, es fundamental activar el HTTPS en todo su website. Los detalles de cómo hacer esto están [en este artículo del Help](/es/docs/tutorials/activar-https-en-todo-el-sitio).
 
 Después de activar HTTPS, debe:
 - Actualizar su DNS al nuevo CNAME de VTEX.

@@ -28,7 +28,7 @@ Algunas tiendas tienen las aplicaciones de manera predeterminada, mientras que o
 
 | Edition App | Descripción |
 | :---- | :---- |
-| `vtex.edition-store@5.x` | Intelligent Search ya está incluida, por lo que no es necesario instalar las aplicaciones de esta tabla. Procede a [Iniciar la integración con el catálogo](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2wBsO1AKTQZ04idbTKszI4). |
+| `vtex.edition-store@5.x` | Intelligent Search ya está incluida, por lo que no es necesario instalar las aplicaciones de esta tabla. Procede a [Iniciar la integración con el catálogo](/es/docs/tracks/iniciar-la-integracion-con-el-catalogo). |
 | `vtex.edition-store@4.x` | Debes instalar las aplicaciones de búsqueda manualmente. Sigue las instrucciones para [Instalar las aplicaciones de búsqueda](#instalar-aplicaciones-de-busqueda). |
 | `vtex.edition-store@3.x` | Debes instalar las aplicaciones de búsqueda manualmente. Sigue las instrucciones para [Instalar las aplicaciones de búsqueda](#instalar-las-aplicaciones-de-busqueda). |
 | Versiones anteriores de `vtex.edition-store` | No son compatibles con Intelligent Search. Si deseas migrar a una versión compatible, ponte en contacto con nuestro [soporte](https://supporticket.vtex.com/support). |

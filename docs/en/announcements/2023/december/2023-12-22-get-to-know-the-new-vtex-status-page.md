@@ -25,7 +25,7 @@ Now, we have introduced 18 more specific components, grouped into four categorie
 
 ![status-page-vtex](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/december/2023-12-22-get-to-know-the-new-vtex-status-page_1.png)
 
-Check out the [VTEX Status page](/en/tutorial/vtex-status-page--gPhqDn9IQ3c67wbJEX3JJ) article for more information on each component.
+Check out the [VTEX Status page](/en/docs/tutorials/vtex-status-page) article for more information on each component.
 
 ## Why did we make this change?
 
@@ -33,4 +33,4 @@ We have updated the platform's status page to provide a more transparent and con
 
 ## What needs to be done?
 
-Access the new page at [status.vtex.com](https://status.vtex.com/) and read the [VTEX Status page](/en/tutorial/vtex-status-page--gPhqDn9IQ3c67wbJEX3JJ) guide for more details.
+Access the new page at [status.vtex.com](https://status.vtex.com/) and read the [VTEX Status page](/en/docs/tutorials/vtex-status-page) guide for more details.

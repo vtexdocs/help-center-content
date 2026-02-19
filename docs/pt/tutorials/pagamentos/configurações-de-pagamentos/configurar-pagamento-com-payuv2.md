@@ -31,14 +31,14 @@ Para configurar o PayUv2, siga os passos abaixo:
 - **Liquidação automática imediatamente após a análise antifraude**: a captura é automática e acontece logo após a autorização e análise antifraude (Caso você selecione este comportamento e não possua análise antifraude, a captura do pagamento acontecerá da mesma forma que no comportamento "Liquidação automática imediatamente após a autorização do pagamento").
 - **Desativado**: a captura acontece somente quando o pedido for faturado. Caso escolha esse comportamento de captura, é importante atentar-se quanto ao tempo do faturamento. Isso porque o faturamento pode ultrapassar o tempo de captura acordado com o provedor de pagamentos e levar à perda da transação.
 
-8. Caso deseje utilizar o [split de pagamento](/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) em sua loja, selecione a opção **Ativar split de recebíveis e enviar recebedores de pagamento** e indique o **Responsável pelas tarifas de processamento de pagamentos** e **Responsável pelos estornos** (marketplace, sellers ou marketplaces e sellers).
+8. Caso deseje utilizar o [split de pagamento](/pt/docs/tutorials/split-de-pagamento) em sua loja, selecione a opção **Ativar split de recebíveis e enviar recebedores de pagamento** e indique o **Responsável pelas tarifas de processamento de pagamentos** e **Responsável pelos estornos** (marketplace, sellers ou marketplaces e sellers).
 9. Em **Campos do provedor**, no campo **Tipo Autorizacion**, selecione se suas transações de pagamento são executadas em fluxos de uma ou duas etapas. Para fluxos de uma etapa, selecione **Autorizacion y Captura**. Para fluxos de duas etapas, selecione **Pre-Autorizacion**.
 10. Em **Public Key**, informe a sua chave API da PayU.
 11. Em **Idioma**, selecione qual linguagem deve ser utilizada no sistema da PayU.
 12. Em **Expiración pago (días)**, selecione o período em que deseja configurar o vencimento de pagamentos realizados por promissórias.
 13. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela PayUv2, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela PayUv2, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

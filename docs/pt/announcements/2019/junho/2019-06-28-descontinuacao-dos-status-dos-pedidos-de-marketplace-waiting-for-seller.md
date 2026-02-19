@@ -31,4 +31,4 @@ De uma maneira geral, a descontinuação destes status não deve impactar nenhum
 
 De qualquer forma, recomendamos que você revise sua integração para confirmar que esses status não estão sendo usados realmente.
 
-> ℹ️ A ação de tirar o workflow do caminho crítico do fechamento de compra para pedidos de origem Fulfillment já foi realizado. Acesse nosso artigo para saber mais sobre esta [retirada do workflow nos pedidos de origem Fulfillment.](/pt/announcements/descontinuacao-dos-status-dos-pedidos-de-fulfillment-order-completed-order--4AJyu9fJNSKNpL4g4dfgcp)
+> ℹ️ A ação de tirar o workflow do caminho crítico do fechamento de compra para pedidos de origem Fulfillment já foi realizado. Acesse nosso artigo para saber mais sobre esta [retirada do workflow nos pedidos de origem Fulfillment.](/pt/announcements/2019-06-12-descontinuacao-dos-status-dos-pedidos-de-fulfillment-order-completed-order)

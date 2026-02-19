@@ -15,11 +15,11 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'CMS GraphQL API es obligatorio para la gestión de contenido. Actualiza los roles según corresponda.'
 ---
 
-A partir del lunes 18 de marzo de 2024, será obligatorio que todos los [usuarios](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) y [claves de aplicación](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) que necesiten acceder a [Site Editor](/es/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) y [Multimedia](/es/tutorial/media-overview--31fhjHTt4TBoo50AmGQ9b2) tengan el [recurso](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) de License Manager `CMS GraphQL API` agregado a sus [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc).
+A partir del lunes 18 de marzo de 2024, será obligatorio que todos los [usuarios](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) y [claves de aplicación](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) que necesiten acceder a [Site Editor](/es/docs/tutorials/site-editor-vision-general) y [Multimedia](/es/docs/tutorials/multimedia-vision-general) tengan el [recurso](/es/docs/tutorials/recursos-del-license-manager) de License Manager `CMS GraphQL API` agregado a sus [roles](/es/docs/tutorials/roles).
 
 ## ¿Qué cambió?
 
-Como se [anunció anteriormente para los usuarios de Headless CMS](/es/announcements/headless-cms-new-authorization-requirement--7G056zzZmGFBztkRqhpUgj), es necesario que tanto los usuarios como las claves de aplicación tengan el recurso `CMS GraphQL API` asociado con su rol para gestionar el contenido.
+Como se [anunció anteriormente para los usuarios de Headless CMS](/es/announcements/2024-02-02-headless-cms-nueva-solicitud-de-autorizacion), es necesario que tanto los usuarios como las claves de aplicación tengan el recurso `CMS GraphQL API` asociado con su rol para gestionar el contenido.
 
 Ahora, estamos extendiendo este requisito al Site Editor y Multimedia, lo que significa que el recurso 'CMS GraphQL API' es necesario para gestionar el contenido utilizando estas herramientas.
 
@@ -29,5 +29,5 @@ Este cambio tiene como objetivo mejorar la seguridad y simplificar el acceso del
 ## ¿Qué se necesita hacer?
 Asegúrate de que los usuarios de Site Editor y Multimedia tienen sus roles asociados al recurso `CMS GraphQL API`, ya sea [creando un nuevo rol](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete#creating-a-role) o editando uno existente.
 
-> ⚠️ Para gestionar usuarios y roles, tu rol de usuario debe estar asociado al recurso `Save access profile` del producto <bold>License Manager</bold>. Por ejemplo, [User Administrator - RESTRICTED](/es/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) es un rol predefinido que tiene asociado el recurso `Save access profile`.
+> ⚠️ Para gestionar usuarios y roles, tu rol de usuario debe estar asociado al recurso `Save access profile` del producto <bold>License Manager</bold>. Por ejemplo, [User Administrator - RESTRICTED](/es/docs/tutorials/roles-de-usuario-predefinidos#user-administrator-restricted) es un rol predefinido que tiene asociado el recurso `Save access profile`.
 

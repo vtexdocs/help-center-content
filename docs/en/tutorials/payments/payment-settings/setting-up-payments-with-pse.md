@@ -57,5 +57,5 @@ To enable PSE in your store, the following actions are required:
 9. If you wish, you can also [configure payment special conditions](/en/tutorial/special-conditions--tutorials_456#).
 10. Click `Save`.
 
-> ℹ️ You can also create a regular promotion that can be applied specifically to payments made through PSE. Find out more at [Creating promotions for PSE payments](/en/tutorial/creating-promotions-for-pse-payments--6YIp1fJ76gq667PQWjuj5T).
+> ℹ️ You can also create a regular promotion that can be applied specifically to payments made through PSE. Find out more at [Creating promotions for PSE payments](/en/docs/tutorials/creating-promotions-for-pse-payments).
 

@@ -28,8 +28,8 @@ Feed v3 also has a Hook functionality to consume data from the orders queue. Sho
 
 ## What you need to do?
 
-First, you need to configure Feed v3 to consume orders queue data. For more info, access our article on how to [configure the feed](/en/tutorial/orders-management-feed-v3-setup--5qDml3cQypWDRTgw69s4C1).
+First, you need to configure Feed v3 to consume orders queue data. For more info, access our article on how to [configure the feed](https://developers.vtex.com/docs/guides/orders-feed).
 
 For more on how the feed works, read our article on [how the Orders Management Module feed works](/en/tutorial/how-the-orders-management-feed-v3-works--5SzSKee2f666YCoWkm0eQC).
 
-Should you want to use Hook, read our article on [Feed v3 Hook configuration and use](/en/tutorial/configure-feed-v3-hook--6JkYQpIlU8ptysUiGIp4Px).
+Should you want to use Hook, read our article on [Feed v3 Hook configuration and use](https://developers.vtex.com/vtex-rest-api/docs/orders-feed).

@@ -51,12 +51,11 @@ To create a delivery option, follow the steps below:
 
 1. In the VTEX Admin, go to **Shipping > Delivery Options**, or type **Shipping Options** in the search bar at the top of the page.
 2. Click `Create delivery option`.
-3. Complete the fields in the form:
-   ![delivery-options-form-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_2.png)
-
-   - **Shipping method:** Select the type of shipping method (**Delivery**, **Scheduled delivery**, **Pickup**, **Scheduled pickup**).
-
-   - **Option name:** Enter the name of the option the customer will see when purchasing.
+3. Complete the form fields:
+  ![delivery-options-form-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-options-beta_2.png)
+    - **Shipping method:** Select the shipping method (**delivery**, **scheduled delivery**, **pickup**, **scheduled pickup**).
+    - **Option name:** Enter the name of the option the customer will see when purchasing.
+    - **Use option as a filter on the product listing page**: Enable this to allow customers to filter products by this delivery option using[ Intelligent Search filters](/en/docs/tutorials/filters).
 
    - **Use option as a filter on the product listing page**: Enable this to allow customers to filter products by this delivery option using [Intelligent Search filters](https://help.vtex.com/docs/tutorials/filters).
 

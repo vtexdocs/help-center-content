@@ -33,7 +33,7 @@ Para configurar Yuno, siga os passos abaixo:
 8. Em **Campos do provedor**, selecione ou preencha os campos **Affiliation Name**, **Account ID**, **Public API Key**, **Private Secret Key**, **Main Account Name**, **Main Account App key**, **Main Account App token**, **Soft Descriptor**, **Create Customer**, e **VTEX IO orderPlaced page URL** conforme orientações do provedor.
 9. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela Yuno, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela Yuno, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

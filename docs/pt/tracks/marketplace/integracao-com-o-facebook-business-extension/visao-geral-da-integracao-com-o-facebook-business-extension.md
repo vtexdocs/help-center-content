@@ -19,5 +19,5 @@ Antes de realizar a integração, é necessário que você crie uma [conta no Fa
 
 As próximas etapas para integrar sua loja VTEX ao FBE são:
 
-- [Instalar a app Facebook Business Extension e Conversions API](/pt/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D/7JvybNGcBXxGKbVWjadKjt)
-- [Configurar a integração com o FBE no Admin VTEX](/pt/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D/jUtgjBDumr5oGWIU7mVLC)
+- [Instalar a app Facebook Business Extension e Conversions API](/pt/docs/tracks/instalar-a-app-facebook-business-extension-e-conversions-api)
+- [Configurar a integração com o FBE no Admin VTEX](/pt/docs/tracks/configurar-a-integracao-com-o-fbe-no-admin-vtex)

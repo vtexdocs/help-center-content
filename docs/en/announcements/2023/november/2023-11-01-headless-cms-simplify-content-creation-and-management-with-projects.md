@@ -36,5 +36,5 @@ The **Projects** interface brings the following improvements:
 - To effectively cater to specific audiences or objectives by having separate projects.
 
 ## What needs to be done?
-The feature is already available for all accounts with Headless CMS installed. Refer to the [Managing Projects](/en/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM) guide for more information on using the feature.
+The feature is already available for all accounts with Headless CMS installed. Refer to the [Managing Projects](/en/docs/tutorials/managing-projects) guide for more information on using the feature.
 

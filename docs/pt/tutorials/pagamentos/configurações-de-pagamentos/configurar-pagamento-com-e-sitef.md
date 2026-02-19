@@ -38,7 +38,7 @@ Para configurar o e-Sitef, siga os passos abaixo:
 12. No campo **Captura antecipada após anti-fraude (em horas)**, escolha em quanto tempo você deseja que a captura seja realizada (depois da análise do antifraude). Você também pode desativar a função.
 13. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela e-Sitef, acesse [Configurar condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela e-Sitef, acesse [Configurar condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

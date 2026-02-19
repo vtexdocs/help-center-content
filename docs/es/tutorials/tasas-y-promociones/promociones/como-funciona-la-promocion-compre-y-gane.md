@@ -137,7 +137,7 @@ Esta sección te permite destacar la promoción en la página de productos y agr
 
 - **Destacar promociones en los productos:** marca esta opción para mostrar la promoción directo en las páginas de producto.
 
-> ℹ️ Recuerda [configurar la visualización en el módulo CMS.](/es/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295)
+> ℹ️ Recuerda [configurar la visualización en el módulo CMS.](/es/docs/tutorials/configurando-promocion-con-destaque-flag)
 
 - **Información adicional:** haz clic en `Crear` para agregar campos personalizados con nombre y valor, que puedes utilizar para personalizar la tienda.
 

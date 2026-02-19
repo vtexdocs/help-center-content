@@ -18,11 +18,11 @@ tags:
   - Importación de plantillas
 ---
 
-Las [tablas o plantillas de precio](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) almacenan información de SKU que tras aplicarse en determinados contextos, como políticas comerciales, promociones o clústeres de clientes, permiten calcular los valores de venta de los productos en una tienda VTEX. Para más información, consulta [Precio base](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) y [Precio fijo](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy).
+Las [tablas o plantillas de precio](/es/docs/tracks/tablas-de-precio-definicion-de-concepto) almacenan información de SKU que tras aplicarse en determinados contextos, como políticas comerciales, promociones o clústeres de clientes, permiten calcular los valores de venta de los productos en una tienda VTEX. Para más información, consulta [Precio base](/es/docs/tracks/preco-base-definicao-de-conceito) y [Precio fijo](/es/docs/tracks/precio-fijo-definicion-de-concepto).
 
 > ⚠️ No se puede importar una plantilla de **precio calculado** en el Admin VTEX. Solo se permite **exportar** esta plantilla para que el retailer pueda consultar los valores de precio final de cada producto.
 
-Tras [importar una plantilla de precios](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D) pueden aparecer algunos mensajes de error en algunos SKU según los ejemplos a continuación:
+Tras [importar una plantilla de precios](/es/docs/tracks/exportacion-e-importacion-mediante-la-plantilla-de-precios) pueden aparecer algunos mensajes de error en algunos SKU según los ejemplos a continuación:
 
 - `"The resource you are looking for cannot be found: Price not found"`
 - `"Error occurred while converting spreadsheet: Object reference not set to an instance of an object."`
@@ -42,12 +42,12 @@ Para evitar este escenario, utiliza únicamente las plantillas modelo disponible
 
 ### Datos rellenados
 
-Las plantillas rellenadas con datos incorrectos pueden generar errores durante la importación. Esto puede suceder si, por ejemplo, el ID del producto está ingresado donde correspondería tener el ID del SKU o si [hay una modificación de precio para un SKU](/es/tutorial/alteracion-de-precio-de-sku--tutorials_95#regla-para-alteracion-de-precio) registrado que lo aumente en más de un 70 % o lo disminuya en más de un 30 % en relación con el valor actual.
+Las plantillas rellenadas con datos incorrectos pueden generar errores durante la importación. Esto puede suceder si, por ejemplo, el ID del producto está ingresado donde correspondería tener el ID del SKU o si [hay una modificación de precio para un SKU](/es/docs/tutorials/alteracion-de-precio-de-sku#regla-para-alteracion-de-precio) registrado que lo aumente en más de un 70 % o lo disminuya en más de un 30 % en relación con el valor actual.
 
 Comprueba que los campos de tu plantilla estén rellenados según las guías de los siguientes artículos:
 
-- [Plantilla de precios base](/es/tutorial/tabla-de-precios-base--4Jox8TeQ5feqAn78TZ0DNA)
-- [Plantilla de precios fijos](/es/tutorial/rellenar-campos-de-la-plantilla-de-importacion-de-precios-fijos--50RFoH3ruV97FJgeBUCURh)
+- [Plantilla de precios base](/es/docs/tutorials/tabla-de-precios-base)
+- [Plantilla de precios fijos](/es/docs/tutorials/rellenar-campos-de-la-plantilla-de-importacion-de-precios-fijos)
 
 > ⚠️ Antes de importar la plantilla en el Admin VTEX, comprueba que no contenga columnas con información de errores (**Error Code** y **Error Message**) ni que tenga algún tipo de filtro aplicado en las celdas. Si intentas importar una plantilla así, pueden generarse errores en el proceso de importación de datos.
 

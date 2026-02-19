@@ -21,4 +21,4 @@ Besides all the benefits in terms of information security, the HTTPS protocol en
 
 Enabling HTTPS is also a key requirement to use VTEX's new CDN, as announced [here](/en/announcements/all-stores-have-until-april-20th-to-activate-the-new-cdn). Available since October 2017 the new CDN will be mandatory starting in __April 20th__, and will enhance your website's performance.
 
-To enable HTTPS in your whole store, follow the instructions of this [VTEX Help Article](/en/tutorial/enable-https-throughout-the-site).
+To enable HTTPS in your whole store, follow the instructions of this [VTEX Help Article](/en/docs/tutorials/enable-https-throughout-the-site).

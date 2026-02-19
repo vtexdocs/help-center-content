@@ -39,5 +39,5 @@ Desse modo, cada um dos pacotes será faturado no sistema da VTEX. Em seguida, a
   
 Então, assim que todos os itens do pedido tiverem sido faturados na VTEX, a integração mudará o status do pedido na B2W
 
-Para saber como fazer a integração com a B2W e aproveitar essa funcionalidade, [clique aqui](/pt/tracks/configurar-integracao-da-b2w?locale=pt). 
+Para saber como fazer a integração com a B2W e aproveitar essa funcionalidade, [clique aqui](/pt/tracks/configurar-integracao-da-b2w). 
 

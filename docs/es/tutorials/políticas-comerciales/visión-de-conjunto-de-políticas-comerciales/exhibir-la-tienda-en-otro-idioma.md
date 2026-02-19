@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 6J3wx7KM4oysymsWuUACyY
 ---
 
-Para exhibir la tienda en otro idioma es necesario [crear una nueva Politica Comercial](/es/tutorial/configurar-politica-comercial-para-marketplace/) y relacionarla al idioma deseado por el campo __Culture Info__.
+Para exhibir la tienda en otro idioma es necesario [crear una nueva Politica Comercial](/es/docs/tutorials/configurar-politica-comercial-para-marketplace/) y relacionarla al idioma deseado por el campo __Culture Info__.
 
 ![exibição-loja-idioma-diferente es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/políticas-comerciales/visión-de-conjunto-de-políticas-comerciales/exhibir-la-tienda-en-otro-idioma_1.png)
 

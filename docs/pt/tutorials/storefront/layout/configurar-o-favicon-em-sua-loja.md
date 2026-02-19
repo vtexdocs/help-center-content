@@ -35,10 +35,10 @@ Para configurar o favicon em lojas CMS Portal (Legado), siga as instruções aba
 
 3. Clique em `Browse for file` para adicionar o arquivo de imagem no formato `.ico`.
 
-    > ⚠️ O nome do arquivo deve seguir o padrão ***{storeName}**-favicon.ico*. Substitua a variável **{storeName}** pelo nome da loja cadastrado no [Gerenciamento da conta](/pt/tutorial/gerenciamento-da-conta--2vhUVOKfCaswqLguT2F9xq).
+    > ⚠️ O nome do arquivo deve seguir o padrão ***{storeName}**-favicon.ico*. Substitua a variável **{storeName}** pelo nome da loja cadastrado no [Gerenciamento da conta](/pt/docs/tutorials/gerenciamento-da-conta).
 
     ![store-name-favicon](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/configurar-o-favicon-em-sua-loja_4.png)
 
-4. Configure os [templates](/pt/tutorial/o-que-sao-templates--4l7BQBYO9ycumsqua2CU88) com o elemento `<link>` dentro do `<head>`, da seguinte forma: `<link rel="shortcut icon" href="/arquivos/**{storeName}**-favicon.ico" />`. A variável `{storeName}` deve ser substituída pelo nome da loja.
+4. Configure os [templates](/pt/docs/tutorials/o-que-sao-templates) com o elemento `<link>` dentro do `<head>`, da seguinte forma: `<link rel="shortcut icon" href="/arquivos/**{storeName}**-favicon.ico" />`. A variável `{storeName}` deve ser substituída pelo nome da loja.
 
     > ℹ️ É possível configurar o favicon com outro nome de arquivo, o que criará uma URL diferente do padrão. No entanto, como o Checkout e o OrderPlaced carregam a URL nesse padrão, é indicado seguir a forma mencionada.

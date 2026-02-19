@@ -18,11 +18,11 @@ tags:
   - Spreadsheet import
 ---
 
-[Price tables, or price spreadsheets](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8), store SKU information which, when applied in specific contexts, such as trade policies, promotions, or customer clusters, allows you to calculate the product prices in a VTEX store. For more information, see [Base price](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) and [Fixed price](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy). 
+[Price tables, or price spreadsheets](/en/docs/tracks/tabelas-de-preco-definicao-de-conceito), store SKU information which, when applied in specific contexts, such as trade policies, promotions, or customer clusters, allows you to calculate the product prices in a VTEX store. For more information, see [Base price](/en/docs/tracks/preco-base-definicao-de-conceito) and [Fixed price](/en/docs/tracks/preco-fixo-definicao-de-conceito). 
 
 > ⚠️ You cannot import a **calculated price** table into the VTEX Admin. The **Export** function is available for this table only for the merchant to check the final price for each product.
 
-After [importing a price table](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D), error messages may display for certain SKUs, as shown in the examples below:
+After [importing a price table](/en/docs/tracks/exporting-and-importing-via-a-price-spreadsheet), error messages may display for certain SKUs, as shown in the examples below:
 
 - `"The resource you are looking for cannot be found: Price not found"`
 - `"Error occurred while converting spreadsheet: Object reference not set to an instance of an object."`
@@ -42,12 +42,12 @@ To avoid this scenario, use only the available templates (base price or fixed pr
 
 ### Data input
 
-Errors may occur while completing the table, such as entering the product ID where the SKU ID should be or [adjusting the price of a SKU](/en/tutorial/sku-price-change--tutorials_95#price-change-rule) by more than 70% upward or more than 30% downward relative to its current price. This can cause inconsistencies during import.
+Errors may occur while completing the table, such as entering the product ID where the SKU ID should be or [adjusting the price of a SKU](/en/docs/tutorials/sku-price-change#price-change-rule) by more than 70% upward or more than 30% downward relative to its current price. This can cause inconsistencies during import.
 
 Make sure that all fields in your table are properly populated based on the guidelines in the following articles:
 
-- [Planilha de preço-base](/en/tutorial/table-of-base-prices--4Jox8TeQ5feqAn78TZ0DNA)
-- [Planilha de preço fixo](/en/tutorial/filling-out-an-import-spreadsheets-fixed-price-fields--50RFoH3ruV97FJgeBUCURh)
+- [Planilha de preço-base](/en/docs/tutorials/table-of-base-prices)
+- [Planilha de preço fixo](/en/docs/tutorials/filling-out-an-import-spreadsheets-fixed-price-fields)
 
 > ⚠️ Before importing the table into the VTEX Admin, make sure that it does not contain columns with error information (**Error Code** and **Error Message**) or any filters applied to the cells. Importing a table under these conditions may cause errors in the data import process.
 

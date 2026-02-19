@@ -20,7 +20,7 @@ Promoções por assinatura são uma maneira prática e intuitiva de atrair clien
 Agora existe uma maior possibilidade de controlar as configurações de promoções por assinatura na sua loja, pois essa funcionalidade permite criar promoções por assinatura com intervalos de frequência que podem ser de dias, semanas, meses ou anos. 
 
 ## O que mudou?
-Ao [criar  uma promoção por assinatura](/pt/tutorial/como-criar-uma-promocao-por-assinatura--3ROT13HYNeUIv0plDqgNed), antes era possível selecionar  as opções de frequência **semanal**, **mensal** ou **anual**.
+Ao [criar  uma promoção por assinatura](/pt/docs/tutorials/como-criar-uma-promocao-por-assinatura), antes era possível selecionar  as opções de frequência **semanal**, **mensal** ou **anual**.
 
 Com a novidade, durante a criação de uma promoção por assinatura, você pode escolher entre **dias**, **semanas**, **meses** ou **anos**  e definir um valor numérico para a frequência.
 
@@ -30,4 +30,4 @@ Aprimoramos a configuração de promoções por assinatura para tornar sua cria�
 ## O que precisa ser feito? 
 Nenhuma ação é necessária, a alteração é automática para todas as lojas VTEX. Promoções criadas anteriormente, no formato sem valor numérico, continuam funcionando com a configuração original.
 
-Para saber mais, leia os artigos [Criar uma promoção por assinatura](/pt/tutorial/como-criar-uma-promocao-por-assinatura--3ROT13HYNeUIv0plDqgNed) e [Plano de assinatura](/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC?&utm_source=autocomplete).
+Para saber mais, leia os artigos [Criar uma promoção por assinatura](/pt/docs/tutorials/como-criar-uma-promocao-por-assinatura) e [Plano de assinatura](/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC?&utm_source=autocomplete).

@@ -38,7 +38,7 @@ Para facilitar a identificação dos casos em que há divisão de pedidos e divi
 
 * **Divisão entre Sellers White Label:** o cliente faz as compras, mas a plataforma escolhe quem entregará o pedido. A escolha de qual seller realizará a entrega dos itens será baseada em critérios de prioridade. Nesse caso, o cliente não escolhe os itens de diferentes sellers propositalmente, nem tem a informação de quais sellers farão a entrega do pedido. 
 
-    Quando isso acontece, ao final da compra o lojista vê o pedido dividido — _divisão do pedido e da entrega_. A escolha de seller é feita automaticamente. Caso queira saber como é realizada, consulte o artigo [Algoritmo de seleção de Sellers White Label](/pt/tutorial/algoritmo-de-selecao-de-white-label-sellers--3MemNQ4pKkWCpMdzI27AHa).
+    Quando isso acontece, ao final da compra o lojista vê o pedido dividido — _divisão do pedido e da entrega_. A escolha de seller é feita automaticamente. Caso queira saber como é realizada, consulte o artigo [Algoritmo de seleção de Sellers White Label](/pt/docs/tutorials/selecao-de-sellers-white-label).
 
 ## Divisão de pacotes (entregas)
 

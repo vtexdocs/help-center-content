@@ -39,7 +39,7 @@ Además de la configuración en la pantalla de Checkout , el precio de un produc
 
 La seguridad operativa de esta funcionalidad se basa en controlar el acceso de personas que tienen perfiles específicos (mencionados anteriormente), sin los cuales no se puede modificar manualmente el precio de un ítem. Además, todos los cambios de precios realizados se registran y se pueden rastrear. Obtenga más información en [Recording manual changes to item prices](https://developers.vtex.com/vtex-rest-api/docs/enable-the-manual-price#recording-manual-changes-to-item-prices).
 
-Una vez que se cierra el pedido, el precio ingresado manualmente debe ser aprobado por el administrador de la tienda o un usuario con permiso en el sistema de [Autorización de pedidos](/es/tutorial/how-order-authorization-works--3MBK6CmKHAuUjMBieDU0pn).
+Una vez que se cierra el pedido, el precio ingresado manualmente debe ser aprobado por el administrador de la tienda o un usuario con permiso en el sistema de [Autorización de pedidos](/es/docs/tutorials/como-funciona-la-autorizacion-de-pedidos).
 
 > ℹ️ Una vez validado el valor del precio manual, el pedido sigue el flujo de facturación normal.
 

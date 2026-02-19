@@ -41,11 +41,11 @@ Esse procedimento deve ser realizado por usuários com perfil de **Supervisor**,
   <li>Clique em **Cadastrar Gerente** para concluir o processo.</li>
 </ol>
 
-> ⚠️ O cadastro na Indeva é único e intransferível. Em caso de alteração de acesso, é recomendável realizar o desligamento ou a transferência do gerente. Para mais informações, acesse o artigo [ Desligar gerente ](/pt/tutorial/desligar-gerente-indeva--5LxrfSgD7f4IgRGWlrcnRV).
+> ⚠️ O cadastro na Indeva é único e intransferível. Em caso de alteração de acesso, é recomendável realizar o desligamento ou a transferência do gerente. Para mais informações, acesse o artigo [ Desligar gerente ](/pt/docs/tutorials/desligar-gerente-indeva).
 
 
 O acesso ao ambiente web será liberado apenas a partir da **data de início** informada no cadastro.  
 O usuário deverá criar uma senha para acessar a plataforma.  
-Para mais informações, consulte o artigo [Cadastrar ou redefinir senha para acesso à plataforma Indeva](/pt/tutorial/cadastrar-ou-redefinir-senha-para-acesso-a-plataforma-indeva--6WpfWS9NBPTx346oF2BSgI).
+Para mais informações, consulte o artigo [Cadastrar ou redefinir senha para acesso à plataforma Indeva](/pt/docs/tutorials/cadastrar-ou-redefinir-senha-para-acesso-a-plataforma-indeva).
 
 

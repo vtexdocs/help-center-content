@@ -25,6 +25,6 @@ Entendemos que nuestros clientes también necesitan cumplir con los requisitos d
 
 En lugar de analizar las solicitudes de pruebas de penetración individuales de los clientes, ahora compartimos el **Certificado de prueba de penetración** de las pruebas más recientes realizadas en nuestra plataforma por una consultoría de seguridad externa independiente, respetable y técnicamente competente.
 
-Para obtener el documento, sin costo, [abre un ticket con Soporte VTEX](/es/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
+Para obtener el documento, sin costo, [abre un ticket con Soporte VTEX](/es/docs/tutorials/abrir-tickets-para-el-soporte-vtex).
 
 > ⚠️ Nuestro [Master Services Agreement (MSA)](https://vtex.com/mx-es/privacy-and-agreements/agreements/) prohíbe expresamente la realización de pruebas de penetración en la plataforma VTEX sin que lo autoricemos previamente mediante consentimiento por escrito. Realizar pruebas sin nuestra autorización constituye un incumplimiento del contrato por parte del cliente.

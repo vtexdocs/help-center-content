@@ -42,7 +42,7 @@ See the step-by-step instructions illustrated below.
 
 The same link is shareable with multiple customers as many times as they like. Each time a person accesses this link, a new shopping cart is generated, exactly like the one created in VTEX Sales App. Carts accessed are also associated with the sales associate account and their code, if they have one.
 
-> ℹ️ If the sales associate code is enabled, you are required to fill it in before sharing your cart. For more information about the sales associate code, check the [Customize VTEX Sales App](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/Rby973h1l9tEM4C1YrzwZ) guide and the [Enable the sales associate code](https://developers.vtex.com/vtex-rest-api/docs/sales-associate-code) developer guide.
+> ℹ️ If the sales associate code is enabled, you are required to fill it in before sharing your cart. For more information about the sales associate code, check the [Customize VTEX Sales App](/en/docs/tracks/customizing-vtex-sales-app) guide and the [Enable the sales associate code](https://developers.vtex.com/vtex-rest-api/docs/sales-associate-code) developer guide.
 
 ## Payment link
 

@@ -31,5 +31,5 @@ The process will now be completely manual. This change aims to reduce compatibil
 
 You can find the Amazon Offer Matching page in Marketplace > __Amazon Offer Matching__ or through the search bar. The page will be available for all VTEX accounts as of July 03, 2023. No action is required to activate it.
 
-For more information about how the page works, check the [documentation Amazon Offer Matching](/en/tutorial/match-de-anuncios-amazon--7fRfoP69kYgg8znImMhyQ0).
+For more information about how the page works, check the [documentation Amazon Offer Matching](/en/docs/tutorials/amazon-offer-matching).
 

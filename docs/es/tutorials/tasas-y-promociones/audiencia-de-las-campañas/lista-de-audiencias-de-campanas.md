@@ -29,9 +29,9 @@ Desde esta página, puedes realizar las acciones a continuación:
 
 ### Crear audiencias de campaña
 
-Para crear una audiencia de campaña, debes dirigirte a *Promociones > Audiencia de campañas* y hacer clic en el botón `Nueva audiencia de campaña` y seguir los pasos que se describen en el artículo [Crear audiencia de campaña](/es/tutorial/crear-audiencia-de-campanas--6cnuDZJzIkIeocewAQQK4K).
+Para crear una audiencia de campaña, debes dirigirte a *Promociones > Audiencia de campañas* y hacer clic en el botón `Nueva audiencia de campaña` y seguir los pasos que se describen en el artículo [Crear audiencia de campaña](/es/docs/tutorials/crear-audiencias-de-campana).
 
-> ⚠️ Luego de crear una audiencia de campaña, debes asociarla a una [Promoción de campaña](/es/tutorial/promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume) para que entre en efecto.
+> ⚠️ Luego de crear una audiencia de campaña, debes asociarla a una [Promoción de campaña](/es/docs/tutorials/promocion-de-campana) para que entre en efecto.
 
 ### Ver audiencias de campaña
 
@@ -44,7 +44,7 @@ Las audiencias de campaña se presentan en _tarjetas_ que incluyen la informaci�
 * **Estado:** estado actual de la disponibilidad de la audiencia de campaña.
     * **Activo:** la audiencia de campaña está disponible para ser usada en las promociones de campaña de tu tienda, es decir, no está archivada.
     * **Inactivo:** la audiencia de campaña no está disponible para ser usada en promociones de campaña en tu tienda. Este status no es definitivo; puedes reactivar la audiencia de campaña en cualquier momento.
-* **Público-objetivo:** nombre del [público-objetivo](/es/tutorial/audiencias-de-campanas--3o7lhpNseXY2WmjZO0gQ6m#publico-objetivo) asociado a la audiencia de campaña.
+* **Público-objetivo:** nombre del [público-objetivo](/es/docs/tutorials/audiencias-de-campanas#publico-objetivo) asociado a la audiencia de campaña.
 
 Para ver las audiencias de campaña [archivadas](#archivar-audiencias-de-campana), dirígete a la opción **Presentar** y haz clic en **Archivados**, tal como se muestra a continuación:
 
@@ -78,6 +78,6 @@ Para modificar cualquier configuración de la audiencia de campaña, sigue los p
 
 ## Más información
 
-- [Audiencias de campañas](/es/tutorial/audiencias-de-campanas--3o7lhpNseXY2WmjZO0gQ6m)
-- [Crear promoción de campaña](/es/tutorial/promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume)
-- [Crear audiencia de campaña](/es/tutorial/crear-audiencia-de-campanas--6cnuDZJzIkIeocewAQQK4K)
+- [Audiencias de campañas](/es/docs/tutorials/audiencias-de-campanas)
+- [Crear promoción de campaña](/es/docs/tutorials/promocion-de-campana)
+- [Crear audiencia de campaña](/es/docs/tutorials/crear-audiencias-de-campana)

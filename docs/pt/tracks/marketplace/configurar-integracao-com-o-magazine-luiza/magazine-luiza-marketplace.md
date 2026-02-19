@@ -21,4 +21,4 @@ O [Magazine Luiza](https://www.magazineluiza.com.br/) foi criado há mais de 60 
 
 Por meio da integração da Plataforma VTEX com o Magalu, você pode aumentar a visibilidade dos seus produtos e alavancar suas vendas. O primeiro passo para isso é fazer seu [cadastro no portal Magazine Luiza Marketplace](https://marketplace-vendamais.magazineluiza.com.br/).
 
-> ℹ️ Lojistas VTEX podem integrar também com o [Fulfillment Magalu](/pt/tutorial/fulfillment-magalu--7ckyEv4Z8HmiCRydo0a9P6), que é um serviço disponível a lojistas que já vendem no Magalu Marketplace.
+> ℹ️ Lojistas VTEX podem integrar também com o [Fulfillment Magalu](/pt/docs/tutorials/fulfillment-magalu), que é um serviço disponível a lojistas que já vendem no Magalu Marketplace.

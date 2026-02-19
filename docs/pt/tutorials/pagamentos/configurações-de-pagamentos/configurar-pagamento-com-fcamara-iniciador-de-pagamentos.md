@@ -33,7 +33,7 @@ Para configurar FCamara, siga os passos abaixo:
 3. Selecione o conector __FCamara - Iniciador de pagamentos__.
 4. Ative a condição no campo __Status__.
 5. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
-6. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condiciones-especiales--tutorials_456).
+6. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais).
 7. Clique em `Salvar`.
 
 Depois de seguir os passos indicados, o iniciador de pagamento FCamara pode demorar até 10 minutos para aparecer no Checkout da sua loja como uma opção de pagamento. 

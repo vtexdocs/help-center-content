@@ -21,9 +21,9 @@ Los periodos de entrega que están disponibles para los clientes se denominan ve
 
 En caso de que la política de envío ofrezca el servicio, puede habilitar la entrega programada configurando las ventanas de entrega y estableciendo la capacidad de realización de entregas para cada ventana, si así lo desea.
 
-> ⚠️ Para que la [Entrega programada](/es/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi) y la [Capacidad de entrega](/es/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz) funcionen correctamente, debes tener en cuenta que:<ul><li>La suma de {[account name](/es/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC)} + {ID de la política de envío} no puede exceder los 60 caracteres.</li><li>No se debe utilizar espacio en el ID de la [política de envío](/es/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT).</li></ul>
+> ⚠️ Para que la [Entrega programada](/es/docs/tutorials/entrega-programada) y la [Capacidad de entrega](/es/docs/tutorials/gestionar-capacidad-de-entrega) funcionen correctamente, debes tener en cuenta que:<ul><li>La suma de {[account name](/es/docs/tutorials/que-es-account-name)} + {ID de la política de envío} no puede exceder los 60 caracteres.</li><li>No se debe utilizar espacio en el ID de la [política de envío](/es/docs/tutorials/crear-una-politica-de-envio).</li></ul>
 
-La entrega programada se habilita a través del campo Entrega programada que se muestra en la pantalla de creación o edición de [Política de envío](/es/tutorial/politica-de-envio--tutorials_140). 
+La entrega programada se habilita a través del campo Entrega programada que se muestra en la pantalla de creación o edición de [Política de envío](/es/docs/tutorials/politica-de-envio). 
 
 Una vez que habilite la funcionalidad __Entrega programada__ en Política de envío, puede configurar los campos que determinarán cómo esta funcionará. Estos campos definen el [tiempo máximo de entrega](#tiempo-maximo-de-entrega), el [periodo de entrega](#periodo-de-entrega) y el [límite de la capacidad de entrega](#capacidad-de-entrega).
 
@@ -49,6 +49,6 @@ Definir la capacidad de entrega le permite limitar el número de ítems o pedido
 
 Cuando el cliente finaliza la compra y selecciona la entrega programada, las opciones de fecha y hora que se muestran consideran la capacidad de entrega. De esta forma, el cliente solo podrá programar las entregas en las ventanas que aún tienen disponibilidad de 1 ítem o pedido. 
 
-> ℹ️ Si la ventana alcanza la capacidad total de ítems/pedidos, ya no se podrá elegir. Para que la ventana vuelva a estar disponible, debe aumentar el número de ítems/pedidos de la capacidad de entrega. Esto se puede realizar editando una [Registrar política de envío](/es/tutorial/politica-de-envio--tutorials_140).
-Lea el artículo [Gestionar capacidad de entrega](/es/tutorial/gerenciar-capacidade-de-entrega--2y217FQZCjD0I1n62yxVcz) para saber más.
+> ℹ️ Si la ventana alcanza la capacidad total de ítems/pedidos, ya no se podrá elegir. Para que la ventana vuelva a estar disponible, debe aumentar el número de ítems/pedidos de la capacidad de entrega. Esto se puede realizar editando una [Registrar política de envío](/es/docs/tutorials/politica-de-envio).
+Lea el artículo [Gestionar capacidad de entrega](/es/docs/tutorials/gestionar-capacidad-de-entrega) para saber más.
 

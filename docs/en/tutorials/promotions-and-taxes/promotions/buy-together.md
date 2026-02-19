@@ -142,7 +142,7 @@ In this section, determine whether the promotion can be combined with other prom
 
 In this section, you can highlight the promotion on the product listing page and add custom data for in-store customizations.
 
-- **Highlight promotion on products:** Check this option to display the promotion directly on the product listing pages. Remember to [configure this view in the CMS module](/en/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
+- **Highlight promotion on products:** Check this option to display the promotion directly on the product listing pages. Remember to [configure this view in the CMS module](/en/docs/tutorials/configuring-promotions-with-a-highlightflag).
 - **Additional information:** Click Create to add custom fields with name and value, which can be used for store customizations.
 
 See the Buy Together creation form below:

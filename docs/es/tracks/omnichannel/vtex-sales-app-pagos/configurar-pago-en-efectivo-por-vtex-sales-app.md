@@ -41,4 +41,4 @@ Ahora vamos a crear la condición de pago.
 4. Introduce un nombre para esta condición de pago, cambia el status a **Activo**, y en el campo **Procesar con la afiliación**, selecciona el pago personalizado que creaste en el paso anterior.
 5. Haga clic en `Guardar`.
 
-> ℹ️ Además de los ajustes anteriores, debes seguir la guía **[Definir los métodos de pago mostrados en VTEX Sales App](/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1)** para que las opciones de pago se muestren correctamente en la app.
+> ℹ️ Además de los ajustes anteriores, debes seguir la guía **[Definir los métodos de pago mostrados en VTEX Sales App](/es/docs/tracks/definir-los-metodos-de-pago-mostrados-en-vtex-sales-app)** para que las opciones de pago se muestren correctamente en la app.

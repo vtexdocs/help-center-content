@@ -44,6 +44,8 @@ In this model, when the merchant issues a [partial invoice](https://help.vtex.co
 
 As new invoices are added, the gateway automatically and proportionally settles the remaining amount (up to $40 in this example).
 
+> ⚠️ For orders paid with multiple payment methods, the system initially processes the operation using the method with the lowest amount assigned to the transaction.
+
 > ⚠️ Only the **Total** settlement model is activated by default in all VTEX accounts. If you want to use the **Hold** or **Partial** settlement models in your store, contact [VTEX Support](https://help.vtex.com/en).
 
 ## How to identify partial settlement of an order

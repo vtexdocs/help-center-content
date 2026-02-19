@@ -16,7 +16,7 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
 
-When you create a [regular promotion](/en/tutorial/regular-promotion--tutorials_327) in **Promotions** > **Promotions** > `New promotion` > `Regular`, one of the available options when choosing the discount type and amount is **Nominal discount based on formula**.
+When you create a [regular promotion](/en/docs/tutorials/regular-promotion) in **Promotions** > **Promotions** > `New promotion` > `Regular`, one of the available options when choosing the discount type and amount is **Nominal discount based on formula**.
 
 By selecting this type of discount, you need to create a formula defining how the applied discount will be calculated. In this article, we’ll explain how to build a formula which meets your promotion's objectives.
 

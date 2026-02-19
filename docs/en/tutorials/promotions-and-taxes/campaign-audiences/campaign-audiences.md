@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
 ---
 
-Campaign audience is a feature that allows you to define the target audience for promotions. You can learn how to configure this feature in the article[ Creating a campaign audience](/en/tutorial/creating-campaign-audiences--6cnuDZJzIkIeocewAQQK4K).
+Campaign audience is a feature that allows you to define the target audience for promotions. You can learn how to configure this feature in the article[ Creating a campaign audience](/en/docs/tutorials/creating-a-campaign-audience).
 
-The feature consists of creating criteria for segmenting customers. Based on these criteria, the VTEX platform automatically validates whether customers are eligible for a particular campaign audience and, consequently, the associated [campaign promotions](/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume).
+The feature consists of creating criteria for segmenting customers. Based on these criteria, the VTEX platform automatically validates whether customers are eligible for a particular campaign audience and, consequently, the associated [campaign promotions](/en/docs/tutorials/campaign-promotion).
 
 You can only apply a campaign audience if it is associated with one or more campaign promotions. This type of promotion allows retailers to create rules when offering discounts on their online stores. It considers criteria such as: purchasing certain items or items from certain categories, customer lists, postal code range, minimum cart value, among others.
 
@@ -29,10 +29,10 @@ The target audience segments the campaign audience's eligible users and conditio
 
 ![campanha-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/campaign-audiences/campaign-audiences_1.png)
 
-When the campaign is activated, eligible for the purchase context and all its restrictions are met, it does not necessarily mean that all the campaign audience promotions associated with it will be applied. The restrictions defined in the[ campaign promotion](/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume) must also be met.
+When the campaign is activated, eligible for the purchase context and all its restrictions are met, it does not necessarily mean that all the campaign audience promotions associated with it will be applied. The restrictions defined in the[ campaign promotion](/en/docs/tutorials/campaign-promotion) must also be met.
 
 ## Learn more
 
-- [Creating a campaign promotion](/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume)
-- [List of campaign audiences](/en/tutorial/campaign-audiences-list--2aW3JH34Zsm4keR5wtXZbT)
-- [Creating a campaign audience](/en/tutorial/creating-campaign-audiences--6cnuDZJzIkIeocewAQQK4K)
+- [Creating a campaign promotion](/en/docs/tutorials/campaign-promotion)
+- [List of campaign audiences](/en/docs/tutorials/campaign-audiences-list)
+- [Creating a campaign audience](/en/docs/tutorials/creating-a-campaign-audience)

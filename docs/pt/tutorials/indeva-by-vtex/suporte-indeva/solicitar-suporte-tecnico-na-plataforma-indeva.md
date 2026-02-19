@@ -22,7 +22,7 @@ Usuários com permissão para acessar o ambiente web da **Indeva** contam com at
 Ao acessar o painel gerencial, você conta com a **Eva**, assistente virtual da Indeva.  
 Se a situação for mais específica, a Eva cria automaticamente uma **solicitação de suporte**, encaminhando o caso para o time responsável.
 
-Você pode acompanhar o status das suas solicitações no [painel de solicitações](/pt/tutorial/painel-de-solicitacoes-indeva--pIqcHA9VodHjKooyiXZvW).
+Você pode acompanhar o status das suas solicitações no [painel de solicitações](/pt/docs/tutorials/painel-de-solicitacoes-indeva).
 
 ## Incluir informações na solicitação
 

@@ -21,7 +21,7 @@ Las cuentas de Brasil ahora requieren que los roles de los usuarios tengan asign
 
 ## ¿Qué cambió?
 
-Esta configuración solo es válida para las cuentas de Brasil y restringe la apertura de tickets de soporte a los usuarios autorizados. Para abrir un ticket con el equipo de soporte, el usuario debe tener el recurso **Open Support Ticket** del producto **VTEX - Support** asignado a su [rol](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc).
+Esta configuración solo es válida para las cuentas de Brasil y restringe la apertura de tickets de soporte a los usuarios autorizados. Para abrir un ticket con el equipo de soporte, el usuario debe tener el recurso **Open Support Ticket** del producto **VTEX - Support** asignado a su [rol](/es/docs/tutorials/roles).
 
 ## ¿Por qué realizamos este cambio?
 
@@ -29,4 +29,4 @@ El objetivo de este requisito es proteger la privacidad de los datos sensibles a
 
 ## ¿Qué se necesita hacer?
 
-Un usuario con el rol *User Administrator - Restricted* debe asignar el recurso **Open Support Ticket** del producto **VTEX Support** en [License Manager](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3?&utm_source=autocomplete) a los [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) de los usuarios que necesitan permiso para abrir tickets de soporte.
+Un usuario con el rol *User Administrator - Restricted* debe asignar el recurso **Open Support Ticket** del producto **VTEX Support** en [License Manager](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3?&utm_source=autocomplete) a los [roles](/es/docs/tutorials/roles) de los usuarios que necesitan permiso para abrir tickets de soporte.

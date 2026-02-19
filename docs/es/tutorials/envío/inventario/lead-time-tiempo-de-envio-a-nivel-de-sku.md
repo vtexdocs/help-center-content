@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 3PQwnyOcNyYgawy06oe6gE
 ---
 
-El lead time es la configuración opcional del tiempo de envío a nivel de SKU. Esto significa que puedes definir un periodo de envío para el SKU de un [almacén](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) y este tiempo se agregará al tiempo total de envío del pedido.
+El lead time es la configuración opcional del tiempo de envío a nivel de SKU. Esto significa que puedes definir un periodo de envío para el SKU de un [almacén](/es/docs/tutorials/almacen) y este tiempo se agregará al tiempo total de envío del pedido.
 
-La configuración del lead time se realiza en el contexto de la [gestión del stock de tu tienda](/es/tutorial/gerenciar-inventario--tutorials_139), ya que se refiere a ítems en stock y disponibles para la venta.
+La configuración del lead time se realiza en el contexto de la [gestión del stock de tu tienda](/es/docs/tutorials/gestionar-items-en-inventario), ya que se refiere a ítems en stock y disponibles para la venta.
 
 Este artículo aborda los siguientes aspectos:
 
@@ -36,10 +36,10 @@ Cuando se configura, el lead time es un tiempo adicional que compone el plazo de
 ![lead_time_image_total_time_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/inventario/lead-time-tiempo-de-envio-a-nivel-de-sku_1.png)
 
 * **Lead time:** cantidad de tiempo configurable para el SKU de un almacén. Este periodo puede corresponder al tiempo de procesamiento o fabricación del ítem, por ejemplo. Esta configuración es opcional y se establece en cero días de forma predeterminada.
-* [Tiempo de almacén:](/es/tutorial/gerenciar-estoque--tutorials_137) tiempo que tarda el SKU en pasar del almacén al [muelle](/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj). Este ajuste es obligatorio, pero puedes configurar el tiempo como cero.
-* [Tiempo de muelle:](/es/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) tiempo que tarda el SKU en salir del muelle, punto intermedio entre el almacén y la [transportadora](/es/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE), para enviarse al cliente. Este ajuste es obligatorio, pero puedes configurar el tiempo como cero.
-* [Política de envío:](/es/tutorial/politica-de-envio--tutorials_140) conjunto de reglas y condiciones que se presentan a los clientes en el checkout, incluyendo:
-    * [Tarifas de envío](/es/tutorial/planilha-de-frete--tutorials_127)
+* [Tiempo de almacén:](/es/docs/tutorials/gestionar-almacenes) tiempo que tarda el SKU en pasar del almacén al [muelle](/es/docs/tutorials/muelles). Este ajuste es obligatorio, pero puedes configurar el tiempo como cero.
+* [Tiempo de muelle:](/es/docs/tutorials/gestionar-el-muelle) tiempo que tarda el SKU en salir del muelle, punto intermedio entre el almacén y la [transportadora](/es/docs/tutorials/transportadoras-en-vtex), para enviarse al cliente. Este ajuste es obligatorio, pero puedes configurar el tiempo como cero.
+* [Política de envío:](/es/docs/tutorials/politica-de-envio) conjunto de reglas y condiciones que se presentan a los clientes en el checkout, incluyendo:
+    * [Tarifas de envío](/es/docs/tutorials/plantilla-de-flete)
     * Horario laboral de la transportadora
     * Ventanas de envío 
     * Capacidad de entrega
@@ -71,7 +71,7 @@ La plataforma VTEX presentará comportamientos diferentes dependiendo de si el S
 
 ## Configurar lead time
 
-El valor predeterminado del lead time es cero, y su límite máximo es 365 días. De manera predeterminada, el contaje se realiza en días laborables, considerando feriados y otras condiciones de tu [política de envío](/es/tutorial/politica-de-envio--tutorials_140), pero puedes [configurarlo para que sea en días naturales](#configurar-el-contaje-del-lead-time-en-dias-naturales-opcional).
+El valor predeterminado del lead time es cero, y su límite máximo es 365 días. De manera predeterminada, el contaje se realiza en días laborables, considerando feriados y otras condiciones de tu [política de envío](/es/docs/tutorials/politica-de-envio), pero puedes [configurarlo para que sea en días naturales](#configurar-el-contaje-del-lead-time-en-dias-naturales-opcional).
 
 Para configurar el lead time de un SKU sigue los pasos a continuación:
 
@@ -91,7 +91,7 @@ Si deseas que el tiempo del lead time se cuente en días naturales, sigue los pa
 
 1. En el Admin VTEX, ve a **Envío > Estrategia de envío > Políticas de envío**, o ingresa **Políticas de envío** en la barra de búsqueda de la parte superior de la página.
 2. Busca la política de envío deseada; puedes utilizar la barra de búsqueda y los filtros.
-    > Para crear una nueva política de envío, consulta el artículo [Política de envío](/es/tutorial/politica-de-envio--tutorials_140).
+    > Para crear una nueva política de envío, consulta el artículo [Política de envío](/es/docs/tutorials/politica-de-envio).
 3. En la fila de la política de envío, haz clic en el ícono de tres puntos <i class="fas fa-ellipsis-v"></i> y selecciona `Editar`.
 4. En la sección **Fines de semana y feriados**, activa los botones de alternancia deseados:
     - <i class="fas fa-toggle-on"></i> **Entrega sábados**

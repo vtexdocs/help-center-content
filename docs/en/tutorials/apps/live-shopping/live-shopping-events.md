@@ -111,7 +111,7 @@ To manage the live chat during your event, find the desired event in the events 
 * **VII - Select message**: Selects the message to reply to. When you click this icon and send a new message, it will appear as a reply to the selected message.
 * **VIII - Send**: Sends the chat message to actively engage with the viewers and participants during the event. Type your message in the input field and click the send icon.
 
-Additionally, you can [send quizzes and polls](/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch#sending-quizzes-and-polls) and [block undesired words](/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch#blocking-undesired-words).
+Additionally, you can [send quizzes and polls](/en/docs/tutorials/live-shopping-events#sending-quizzes-and-polls) and [block undesired words](/en/docs/tutorials/live-shopping-events#blocking-undesired-words).
 
 #### Sending quizzes and polls
 
@@ -145,7 +145,7 @@ To access the Streaming Studio, follow these steps:
 
 ### Displaying products during the live event
 
-When you [create a new event](/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch#creating-a-new-event), you have the option to add the ID of the product collection to be attached to the live-stream event. In the **Products within collection** section, you can manage which products will be displayed during the event.
+When you [create a new event](/en/docs/tutorials/live-shopping-events#creating-a-new-event), you have the option to add the ID of the product collection to be attached to the live-stream event. In the **Products within collection** section, you can manage which products will be displayed during the event.
 
 To display products during the live event, follow these steps:
 

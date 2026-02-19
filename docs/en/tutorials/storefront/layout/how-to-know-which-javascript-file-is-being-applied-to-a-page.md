@@ -36,4 +36,4 @@ In order to identify the JS responsible for this customization to be able to cha
 
 *Files Manager > .js > Look for \_archive\_name\_.js*
 
-If you want to investigate whether a JavaScript customization is causing a layout error, click [here](/en/faq/how-to-identify-layout-errors-caused-by-javascript-files) to find out how to identify JavaScript errors.
+If you want to investigate whether a JavaScript customization is causing a layout error, click [here](/en/docs/tutorials/how-to-identify-layout-errors-caused-by-javascript-files) to find out how to identify JavaScript errors.

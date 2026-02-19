@@ -17,9 +17,9 @@ subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 
 > ℹ️ This feature is in Beta stage, meaning we are working to improve it. If you have any questions, please contact [our Support Center](https://support.vtex.com/hc/en-us/requests).
 
-The **Plans** page in the **Subscriptions** module displays a list of all subscription plans configured in your store, whether they have been created via the [**New plan** page](/en/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) or [SKU attachments](/en/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK). 
+The **Plans** page in the **Subscriptions** module displays a list of all subscription plans configured in your store, whether they have been created via the [**New plan** page](/en/docs/tutorials/creating-a-subscription-plan) or [SKU attachments](/en/docs/tutorials/how-to-create-a-subscription-attachment-via-the-catalog-module). 
 
-To offer subscription plans for your customers, you need to install the Subscriptions app and make all the necessary configurations. For more information, read the article [How to configure Subscriptions in your store](/en/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj).
+To offer subscription plans for your customers, you need to install the Subscriptions app and make all the necessary configurations. For more information, read the article [How to configure Subscriptions in your store](/en/docs/tutorials/how-to-configure-subscriptions).
 
 On the **Plans** page, you can view and manage the subscription plans available to your customers, as illustrated below.
 
@@ -36,7 +36,7 @@ Here are the main features of this page:
 
 ## Create a new plan
 
-By clicking on the `New plan` button, you will be redirected to the page for adding a subscription plan. Check out our article [**Creating a subscription plan**](/en/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) for more details.
+By clicking on the `New plan` button, you will be redirected to the page for adding a subscription plan. Check out our article [**Creating a subscription plan**](/en/docs/tutorials/creating-a-subscription-plan) for more details.
 
 ## Search
 
@@ -59,7 +59,7 @@ Learn more about each status in the [Plan details](#plan-details) section.
 Each column of the subscription plan list displays different information. See below the plan details and actions available on the list.
 
 * **Name**: displays the name of the subscription plan that was added when creating it. Once a plan is saved, its name cannot be edited.
-* **Id**: displays the subscription plan identifier, which follows the format `vtex.subscription.{name}`. The subscription plan ID is automatically generated when you fill in the Identification name on the [New Plan page](/en/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC). If you are creating the plan manually [via SKU attachment](/en/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK), the ID will be equivalent to the name of the subscription attachment. This field cannot be edited.
+* **Id**: displays the subscription plan identifier, which follows the format `vtex.subscription.{name}`. The subscription plan ID is automatically generated when you fill in the Identification name on the [New Plan page](/en/docs/tutorials/creating-a-subscription-plan). If you are creating the plan manually [via SKU attachment](/en/docs/tutorials/how-to-create-a-subscription-attachment-via-the-catalog-module), the ID will be equivalent to the name of the subscription attachment. This field cannot be edited.
 * **Products**: shows the number of products associated with the subscription plan. It indicates the number of products in your catalog that are available in the subscription option for customers at checkout or via __My Account__. This number does not consider the number of SKUs of each product.
 * **Status**: displays the current status of the subscription plan and a &lt;i class="fas fa-toggle-on">&lt;/i> button to switch from one status to another. Here are the available statuses:
     * **Active**: means that the plan is available for customers creating new subscriptions with associated products.
@@ -83,4 +83,4 @@ To navigate between pages in the subscription plan list, use the <i class="fas f
 
 #### **LEARN MORE**
 
-* [Creating a subscription plan](/en/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC)
+* [Creating a subscription plan](/en/docs/tutorials/creating-a-subscription-plan)

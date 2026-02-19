@@ -54,4 +54,4 @@ Após cadastrar o provedor de pagamento, siga os passos abaixo:
 
 Depois de concluir todas as etapas, o pagamento por promissória customizada estará configurado e pronto para ser utilizado em sua loja.
 
-Para associá-lo a uma condição de pagamento, siga o artigo [Configurar condições de pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para associá-lo a uma condição de pagamento, siga o artigo [Configurar condições de pagamento](/pt/docs/tutorials/condicoes-de-pagamento).

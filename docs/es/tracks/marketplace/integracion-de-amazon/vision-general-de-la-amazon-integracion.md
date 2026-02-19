@@ -24,6 +24,6 @@ Esta guía le muestra cómo configurar su tienda con Amazon utilizando el conect
 ## Configuración en la plataforma VTEX
 - [Definir la política comercial en Amazon](/es/tracks/configurar-la-integracion-de-amazon--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#definir-la-politica-comercial-en-amazon)
 - [Definir la Estrategia de Envío](/es/tracks/configurar-la-integracion-de-amazon--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#definir-la-estrategia-de-envio)
-- [Configurar el conector de Amazon](/es/tracks/configurar-la-integracion-de-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan)
-- [Enviar productos a Amazon](/es/tracks/configurar-la-integracion-de-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD)
+- [Configurar el conector de Amazon](/es/docs/tracks/configurar-la-integracion-de-amazon)
+- [Enviar productos a Amazon](/es/docs/tracks/envio-de-productos-a-amazon)
 

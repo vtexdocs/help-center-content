@@ -15,13 +15,13 @@ locale: pt
 subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
-__Bandeiras__ são empresas responsáveis por definir as regras de negócio para compras realizadas com cartão de crédito. São elas que definem os padrões pelos quais os [adquirentes](/pt/tutorial/o-que-e-um-adquirente) devem processar as transações realizadas por esse meio de pagamento (cada bandeira tem suas próprias regras).
+__Bandeiras__ são empresas responsáveis por definir as regras de negócio para compras realizadas com cartão de crédito. São elas que definem os padrões pelos quais os [adquirentes](/pt/docs/tutorials/o-que-e-um-adquirente) devem processar as transações realizadas por esse meio de pagamento (cada bandeira tem suas próprias regras).
 
 As bandeiras mantêm uma relação próxima com os adquirentes para garantir a aceitação dos seus cartões de crédito nos estabelecimentos. Assim, elas promovem seu uso e ampliam a base de usuários.
 
-No [fluxo de pagamento por cartão de crédito](https://help.vtex.com/pt/docs/tutorials/cartao-de-credito-fluxo-basico-de-um-pagamento), a bandeira recebe do adquirente as informações da compra realizada na sua loja. Então, ela valida as condições (como o número de parcelas) e envia os dados para o [banco emissor](/pt/tutorial/o-que-e-banco-emissor), que verifica se o comprador possui limite disponível.
+No [fluxo de pagamento por cartão de crédito](https://help.vtex.com/pt/docs/tutorials/cartao-de-credito-fluxo-basico-de-um-pagamento), a bandeira recebe do adquirente as informações da compra realizada na sua loja. Então, ela valida as condições (como o número de parcelas) e envia os dados para o [banco emissor](/pt/docs/tutorials/o-que-e-banco-emissor), que verifica se o comprador possui limite disponível.
 
 ### Artigos relacionados
 - [Cartão de crédito - Fluxo básico de um pagamento](https://help.vtex.com/pt/docs/tutorials/cartao-de-credito-fluxo-basico-de-um-pagamento)
-- [O que é um adquirente?](/pt/tutorial/o-que-e-um-adquirente)
-- [O que é banco emissor?](/pt/tutorial/o-que-e-banco-emissor)
+- [O que é um adquirente?](/pt/docs/tutorials/o-que-e-um-adquirente)
+- [O que é banco emissor?](/pt/docs/tutorials/o-que-e-banco-emissor)

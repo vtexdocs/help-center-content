@@ -21,8 +21,8 @@ Para ofrecer un proceso de incorporación más accesible y simplificado en [inSt
 
 Anteriormente, los usuarios tenían que ponerse en contacto con el soporte de VTEX para habilitar algunas configuraciones de inStore en sus tiendas. Con la nueva versión se han implementado las siguientes mejoras:
 
-* La instalación de [Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) ahora es predeterminada, lo que permite el uso de filtros y mejora el rendimiento de la búsqueda.
-* La instalación de [Social Selling](/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy) también es estándar, lo que permite que cualquier vendedor que use inStore pueda realizar ventas utilizando el checkout del sitio web de ecommerce.
+* La instalación de [Intelligent Search](/es/docs/tracks/vision-general-intelligent-search) ahora es predeterminada, lo que permite el uso de filtros y mejora el rendimiento de la búsqueda.
+* La instalación de [Social Selling](/es/docs/tracks/compartir-el-carrito-utilizando-vtex-sales-app-social-selling) también es estándar, lo que permite que cualquier vendedor que use inStore pueda realizar ventas utilizando el checkout del sitio web de ecommerce.
 * Los medios de pago de Pix (Brasil) y PagarMe (Brasil) ahora se configuran automáticamente.
 
 ## ¿Por qué realizamos este cambio?

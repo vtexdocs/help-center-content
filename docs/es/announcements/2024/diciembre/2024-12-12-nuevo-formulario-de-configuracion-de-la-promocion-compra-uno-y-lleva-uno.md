@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Actualizamos el formulario Compra uno y lleva uno gratis para facilitar la configuración de promociones.'
 ---
 
-VTEX tiene un nuevo [formulario](/es/tutorial/compre-e-ganhe--tutorials_322) de configuración para promociones Compra uno y lleva uno gratis. Este recurso ofrece una interfaz optimizada que facilita la creación de promociones para conceder beneficios a los clientes, como envío gratis o regalos, al agregar productos al carrito.
+VTEX tiene un nuevo [formulario](/es/docs/tutorials/como-funciona-la-promocion-compre-y-gane) de configuración para promociones Compra uno y lleva uno gratis. Este recurso ofrece una interfaz optimizada que facilita la creación de promociones para conceder beneficios a los clientes, como envío gratis o regalos, al agregar productos al carrito.
 
 ## ¿Por qué realizamos este cambio?
 El nuevo formulario presenta una experiencia optimizada de configuración de promociones en el Admin VTEX. Las principales ventajas del nuevo formulario son:

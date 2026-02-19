@@ -23,7 +23,7 @@ __Status de los anuncios__ es el nuevo módulo en el Admin VTEX que les permite 
 
 Desarrollamos el módulo __Status de los anuncios__ para proporcionar una manera de visualizar todo el proceso de envío y sincronización de anuncios con marketplaces VTEX, así como su seguimiento desde una sola página. Ahora las pestañas separadas muestran los anuncios que están __Publicados,__ los que tienen __Problemas__ que impidieron su publicación y monitorear los que están __A la espera de finalización__ por parte del marketplace.
 
-Para ver información más detallada de cada pestaña del módulo y cómo utilizarlas, consulta el tutorial [Status de los anuncios](/es/tutorial/status-de-anuncios-beta--2OE87wU26F7lApl99OdwvJ).
+Para ver información más detallada de cada pestaña del módulo y cómo utilizarlas, consulta el tutorial [Status de los anuncios](/es/docs/tutorials/status-de-los-anuncios).
 
 ## ¿Qué se necesita hacer?
 

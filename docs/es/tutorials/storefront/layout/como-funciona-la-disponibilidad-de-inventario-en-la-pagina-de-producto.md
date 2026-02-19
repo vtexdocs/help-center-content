@@ -29,7 +29,7 @@ De esta manera, el Layout utiliza esta información del Checkout y muestra en la
 
 Es posible, aunque no es común, que un producto aparezca como __indisponible__ para un usuario, __incluso si tiene stock disponible__.
 
-Lo que pasa es que las páginas de producto utilizan la caché para guardar algunos datos y optimizar su rendimiento. Por lo tanto, los pedidos buscan cierta información de las [capas de caché](/es/tutorial/entendendo-o-funcionamento-do-cache) en lugar de solicitar la información directamente a los servidores. Este es un procedimiento común en la web para que las respuestas a las solicitudes sean más rápidas y los sitios web ganen en eficiencia.
+Lo que pasa es que las páginas de producto utilizan la caché para guardar algunos datos y optimizar su rendimiento. Por lo tanto, los pedidos buscan cierta información de las [capas de caché](/es/docs/tutorials/entendendo-o-funcionamento-do-cache) en lugar de solicitar la información directamente a los servidores. Este es un procedimiento común en la web para que las respuestas a las solicitudes sean más rápidas y los sitios web ganen en eficiencia.
 
 Debido a estas capas de caché, la información de disponibilidad de inventario en la página de producto puede ser diferente a la devuelta por el Checkout en el mismo momento. Para que la página de producto vea la información más actualizada de Checkout, es necesario expirar la caché de la página de producto. Para expirar la caché, usted debe agregar un parámetro cualquier a la URL de la página de producto (por ejemplo, `utm_source=qualquerstring`) y actualizar la página.
 

@@ -1,7 +1,6 @@
 ---
 title: 'Condiciones de las reglas de merchandising'
 id: 4K9WCBiQ4ndU396ZygDpc2
-status: CHANGED
 createdAt: 2024-06-27T17:17:15.295Z
 updatedAt: 2025-09-26T15:09:02.902Z
 publishedAt: 2024-09-06T19:13:55.703Z
@@ -15,7 +14,7 @@ locale: es
 subcategoryId: 32zXHBMygA2dB6TbCjQJej
 ---
 
-Las condiciones de las reglas de merchandising del [Editor manual](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8) y el [Editor visual (Beta)](/es/tutorial/crear-regla-de-merchandising-editor-visual-beta--6xteumx9MsDt0uEppbChu3) siguen el formato `{criterio} {operador} {valor}`. Por ejemplo, una condición puede tener la estructura `marca es athletic`, donde `marca` corresponde al criterio, `es` corresponde al operador y `athletic `corresponde al valor.
+Las condiciones de las reglas de merchandising del [Editor manual](/es/docs/tutorials/crear-regla-de-merchandising-editor-manual) y el [Editor visual (Beta)](/es/tutorial/crear-regla-de-merchandising-editor-visual-beta--6xteumx9MsDt0uEppbChu3) siguen el formato `{criterio} {operador} {valor}`. Por ejemplo, una condición puede tener la estructura `marca es athletic`, donde `marca` corresponde al criterio, `es` corresponde al operador y `athletic `corresponde al valor.
 
 Conoce los criterios y los operadores posibles para cada forma de edición en las siguientes tablas:
 
@@ -32,7 +31,7 @@ Conoce los criterios y los operadores posibles para cada forma de edición en la
 | `promoción`           | Valor seleccionable que valida si existe al menos una promoción vinculada al ítem (sí).                                                                                                                                                                                                                                                                                   | - es<br>- solamente                | - Todos los escenarios de edición<br>**Editor manual:**<br>- Reglas de activación<br>**Editor visual** |
 | `nombreseller`        | Valor seleccionable que representa el nombre de un seller.                                                                                                                                                                                                                                                                                                               | - es<br>- solo                     | - Todos los escenarios de edición<br>**Editor manual:**<br>- Reglas de activación<br>**Editor visual** |
 | `subcategoría`        | Valor seleccionable que representa una subcategoría registrada en el catálogo de la tienda.                                                                                                                                                                                                                                                                               | - es<br>- solo                     | - Todos los escenarios de edición<br>**Editor manual:**<br>- Reglas de activación<br>**Editor visual** |
-| `{{especificación}}`  | Las especificaciones activas en el catálogo y marcadas como **Filtro** durante el registro aparecen como criterios personalizados, con los mismos valores posibles. El nombre del criterio es igual al nombre de la especificación registrada. Por ejemplo, si hay una especificación activa llamada `Color`, el criterio mostrado será `Color`.<br><br>No es posible crear reglas con especificaciones que no estén marcadas como **Filtro**. Para más información sobre este campo, consulta [Registrar especificaciones o campos de producto](/es/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) o [Registrar especificaciones o campos de SKU](/es/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119). | - es<br>- solo                     | - Todos los escenarios de edición<br>**Editor manual:**<br>- Reglas de activación<br>**Editor visual** |
+| `{{especificación}}`  | Las especificaciones activas en el catálogo y marcadas como **Filtro** durante el registro aparecen como criterios personalizados, con los mismos valores posibles. El nombre del criterio es igual al nombre de la especificación registrada. Por ejemplo, si hay una especificación activa llamada `Color`, el criterio mostrado será `Color`.<br><br>No es posible crear reglas con especificaciones que no estén marcadas como **Filtro**. Para más información sobre este campo, consulta [Registrar especificaciones o campos de producto](/es/docs/tutorials/registrar-especificaciones-o-campos-de-producto) o [Registrar especificaciones o campos de SKU](/es/docs/tutorials/registrar-especificaciones-o-campos-de-sku). | - es<br>- solo                     | - Todos los escenarios de edición<br>**Editor manual:**<br>- Reglas de activación<br>**Editor visual** |
 
 > ⚠️ Los criterios `departamento`, `categoría` y `subcategoría` solo aparecen como opciones para componer las Reglas de merchandising si los tres niveles de categorías ya están configurados en el **Catálogo**.
 

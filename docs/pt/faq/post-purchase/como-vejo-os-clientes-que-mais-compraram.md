@@ -18,4 +18,4 @@ Atualmente, a VTEX não tem um relatório que liste os clientes da loja por orde
 
 Normalmente esse tipo de informação é obtido em sistemas como ERPs, que realizam o faturamento de todos os pedidos.
 
-No entanto, você pode acessar o módulo **Pedidos**, fazer uma [exportação de pedidos](/pt/tutorial/exportacao-de-pedidos-no-modulo-pedidos--tutorials_6417). E com esses dados em mãos, pode montar esse relatório em uma planilha.
+No entanto, você pode acessar o módulo **Pedidos**, fazer uma [exportação de pedidos](/pt/docs/tutorials/exportacao-de-pedidos-no-modulo-pedidos). E com esses dados em mãos, pode montar esse relatório em uma planilha.

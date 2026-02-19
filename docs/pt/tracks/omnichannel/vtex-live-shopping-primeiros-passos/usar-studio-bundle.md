@@ -165,9 +165,9 @@ Para conectar contas diferentes da VTEX e transmitir o mesmo evento, cada conta 
 
 **Conta A:**
 
-1. [Crie](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) um evento.
+1. [Crie](/pt/docs/tracks/criar-evento) um evento.
 2. Na página **Eventos**, clique na seta do evento para acessar a página de **Informações do evento**.
-3. [Inicie](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) o evento.
+3. [Inicie](/pt/docs/tracks/iniciar-evento) o evento.
 4. Na seção [Estúdio de streaming](#estudio-de-streaming), clique em `Acessar`.
 5. Faça login no estúdio Bundle.
 6. Clique em `Enter the studio` (Entrar no estúdio).
@@ -182,9 +182,9 @@ A seguinte mensagem de confirmação será exibida: *"A new destination has been
 
 **Conta B:**
 
-1. [Crie](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) o evento.
+1. [Crie](/pt/docs/tracks/criar-evento) o evento.
 2. Na página **Eventos**, clique na seta do evento para acessar a página de **Informações do evento**.
-3. [Inicie](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) o evento.
+3. [Inicie](/pt/docs/tracks/iniciar-evento) o evento.
 4. Na seção [Detalhes](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq#detalhes-do-evento), copie as informações do **servidor de entrada** e a **chave do servidor** e forneça-as à conta à qual você deseja se conectar, que neste caso seria a Conta A. 
 
 ### Conectar ao YouTube

@@ -31,4 +31,4 @@ So, simply [join the same commercial policy to the new marketplace](/en/tutorial
 
 ## Using a customized stock
 
-This means that different terms and prices than all other settings used in the store will be practiced. Therefore, you need to set up a new commercial policy and a [new logistics rule for the marketplace](/en/tutorial/configuring-logistics-for-a-marketplace).
+This means that different terms and prices than all other settings used in the store will be practiced. Therefore, you need to set up a new commercial policy and a [new logistics rule for the marketplace](/en/docs/tutorials/configuring-logistics-for-a-marketplace).

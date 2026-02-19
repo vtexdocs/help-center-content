@@ -46,7 +46,7 @@ Realizado o passo a passo, seu anúncio está pronto para ser enviado ao Mercado
 
 Artigos relacionados:
 
-- [Mapear categorias e atributos dos produtos para o Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA)
+- [Mapear categorias e atributos dos produtos para o Mercado Livre](/pt/docs/tracks/mapear-categorias-e-atributos-dos-produtos-para-o-mercado-livre-mapper)
 - [Gerenciamento de anúncios: detalhes do anúncio](/pt/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P)
 - [Gerenciamento de anúncios: detalhes da interação](/pt/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf)
 - [Guia de integração da Gerenciamento de anúncios](https://developers.vtex.com/docs/guides/sent-offers-integration-guide-connectors)

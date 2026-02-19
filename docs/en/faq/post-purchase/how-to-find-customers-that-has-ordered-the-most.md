@@ -18,4 +18,4 @@ Currently VTEX does not have a report that lists store's end-consumers that has 
 
 Typically this information can obtained in ERPs, as they centralize all invoicing management.
 
-However, at VTEX you can access the **Orders** module and [export your orders](/en/tutorial/exportacao-de-pedidos-no-modulo-pedidos--tutorials_6417). With this data, you may craft your own report into a spreadsheet.
+However, at VTEX you can access the **Orders** module and [export your orders](/en/docs/tutorials/exporting-orders-in-orders-module). With this data, you may craft your own report into a spreadsheet.

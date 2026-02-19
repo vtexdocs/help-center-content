@@ -17,10 +17,10 @@ announcementSynopsisEN: 'New VTEX features: Enhancing product visibility with wi
 
 We have made available two new features for VTEX Sales App: custom displays by store and collection. These features have been developed to enhance product display and improve the customer shopping experience:
 - **Custom display by store:** Merchants can now highlight a product page by specifying the store ID to which the product will be linked in [Master Data](https://developers.vtex.com/docs/guides/master-data-introduction), allowing them to create customized custom displays tailored to each store.
-- **Collection custom display:** Enables you to manage a section of the custom display using a specific [collection from the catalog](/en/tutorial/criando-colecao-de-produtos--tutorials_244). Merchants can set the custom display name and collection identifier, making it easier to organize products and highlight collections to customers.
+- **Collection custom display:** Enables you to manage a section of the custom display using a specific [collection from the catalog](/en/docs/tutorials/creating-a-product-collection). Merchants can set the custom display name and collection identifier, making it easier to organize products and highlight collections to customers.
 
 ## Why did we make this change?
 We developed these features to help merchants efficiently create customized offers and organize their custom displays around product collections.
 
 ## What needs to be done?
-No action is required, as the feature will be automatically applied to all stores using VTEX Sales App. For more information, please see the [VTEX Sales App announcements](/en/tutorial/anuncios-do-vtex-sales-app--3UtOFwbwD4muz3p72RBPmC). 
+No action is required, as the feature will be automatically applied to all stores using VTEX Sales App. For more information, please see the [VTEX Sales App announcements](/en/docs/tutorials/ads-from-vtex-sales-app). 

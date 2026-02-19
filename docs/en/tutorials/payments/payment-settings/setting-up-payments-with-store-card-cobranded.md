@@ -50,7 +50,7 @@ After configuring the card, you will need to configure the payment condition.
 6. Under __Process with affiliation__, choose the connector that will process co-branded store card payments. Only connectors that support this payment method will be available for selection.
 7. If there is an anti-fraud set up in your store, you can enable it for this payment condition by checking the __Use Anti-Fraud solution__ box.
 8. Choose whether the payments will be upfront or in installments.
-9. You can also set up [special payment conditions](/en/tutorial/special-conditions).
+9. You can also set up [special payment conditions](/en/docs/tutorials/special-conditions).
 10. Click __Save__.
 
 After following the indicated steps, the __(cobranded) store card__ will appear in your store’s checkout page as a payment option.

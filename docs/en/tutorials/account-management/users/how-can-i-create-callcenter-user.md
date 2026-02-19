@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
-This article explains how to register a user with the telesales [role](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc). For more information on roles and how to configure them, please read the article [Roles](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+This article explains how to register a user with the telesales [role](/en/docs/tutorials/roles). For more information on roles and how to configure them, please read the article [Roles](/en/docs/tutorials/roles).
 
 ## Telesales roles
 

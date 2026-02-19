@@ -24,7 +24,7 @@ To configure CieloEcommerce, follow the steps below:
 4. In **Provider Authorization**, fill in the **App key** and **App token** fields with **MerchantID** and **MerchantKey** provided by CieloEcommerce.
 5. If you wish to modify the identification name to be displayed for the CieloEcommerce provider on the VTEX Admin screen, enter the information in the **Name** field in **Basic Information**.
 6. In **Payment Control**, select whether you want to activate the provider in a test environment by clicking **Enable test mode**.
-7. If you want to use [Payment split](/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx) in your store, select the option **Enable payout split and send payment recipients** and indicate the **Accountable for payment processing charges** and **Accountable for chargebacks** (marketplace, sellers or marketplaces and sellers).
+7. If you want to use [Payment split](/en/docs/tutorials/split-payment) in your store, select the option **Enable payout split and send payment recipients** and indicate the **Accountable for payment processing charges** and **Accountable for chargebacks** (marketplace, sellers or marketplaces and sellers).
 8. In **Integration**, select whether the connector will be used as **Adquirencia** or **Gateway**.
 9. In **Provider**, select the acquirer to be used with the CieloEcommerce connector.
 10. In **DaysToInvoiceCancel**, select the desired number of days to cancel the invoice.
@@ -37,7 +37,7 @@ To configure CieloEcommerce, follow the steps below:
 17. In **UseAntifraudSolution**, select the desired option.
 18. In **AntifraudProvider**, select the antifraud provider you want to use with CieloEcommerce.
 
-> ⚠️ Check with Cielo whether the anti-fraud options in CieloEcommerce are already available for use. If still under development, both fields described in step 15 must be left blank. For more information about using anti-fraud options in your store, visit [Configuring the anti-fraud](/en/tutorial/how-to-configure-the-anti-fraud).
+> ⚠️ Check with Cielo whether the anti-fraud options in CieloEcommerce are already available for use. If still under development, both fields described in step 15 must be left blank. For more information about using anti-fraud options in your store, visit [Configuring the anti-fraud](/en/docs/tutorials/how-to-configure-the-anti-fraud).
 
 19. In **Antifraud** and **AntifraudSequenceCriteria**, select the options according to information from CieloEcommerce antifraud.
 20. In **CaptureOnLowRisk** and **VoidOnHighRisk**, select the options configured in the CieloEcommerce provider.

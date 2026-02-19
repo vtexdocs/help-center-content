@@ -17,7 +17,7 @@ subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 
 > ⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte [nuestra guía](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
-Para hacer las búsquedas de los clientes más precisas, el buscador de VTEX ignora algunos términos que son muy comunes. Ejemplos incluyen las palabras "com" y "todo", del portugués, "that" y "with", del Inglés, y "hace" y "uno", del español. [Aquí tienes la lista completa de términos bloqueados](/es/tutorial/por-que-el-buscador-de-vtex-ignora-algunos-terminos-buscados).
+Para hacer las búsquedas de los clientes más precisas, el buscador de VTEX ignora algunos términos que son muy comunes. Ejemplos incluyen las palabras "com" y "todo", del portugués, "that" y "with", del Inglés, y "hace" y "uno", del español. [Aquí tienes la lista completa de términos bloqueados](/es/faq/por-que-el-buscador-de-vtex-ignora-algunos-terminos-buscados).
 
 Sin embargo, esto a veces genera dificultades para la tienda.
 

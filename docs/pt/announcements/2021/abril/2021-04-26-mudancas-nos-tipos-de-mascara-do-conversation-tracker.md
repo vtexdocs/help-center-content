@@ -41,5 +41,5 @@ A mudança foi feita para facilitar o entendimento das configurações disponív
 
 Nenhuma ação é necessária, a alteração é automática para todas as lojas VTEX.
 
-Para saber mais sobre os tipos de máscara, confira nossa documentação sobre o [Conversation Tracker](/pt/tutorial/conversation-tracker--tutorials_195).
+Para saber mais sobre os tipos de máscara, confira nossa documentação sobre o [Conversation Tracker](/pt/docs/tutorials/conversation-tracker).
 

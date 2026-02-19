@@ -29,7 +29,7 @@ Em outras palavras, se não houver necessidade de definir um catálogo ou um tip
 
 ![marketplace-politica-comercial-principal-e-compartilhada](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/configurar-integracao-da-netshoes/configurar-politica-comercial-para-marketplace_3.png)
 
-A partir desse entendimento, avalie se é necessário configurar uma nova política comercial na sua loja. Se a resposta for sim, siga as orientações [deste artigo](/pt/faq/como-contratar-nova-politica-comercial--frequentlyAskedQuestions_700) antes de passar para a próxima etapa de configuração. Caso sua política comercial já atenda às condições que precisa para a integração com o marketplace, siga as próximas instruções.
+A partir desse entendimento, avalie se é necessário configurar uma nova política comercial na sua loja. Se a resposta for sim, siga as orientações [deste artigo](/pt/docs/tutorials/criar-uma-politica-comercial) antes de passar para a próxima etapa de configuração. Caso sua política comercial já atenda às condições que precisa para a integração com o marketplace, siga as próximas instruções.
 
 
 ## Definindo catálogo de produtos
@@ -50,4 +50,4 @@ A simulação de frete e atualização de estoques depende de uma prévia config
 
 1. [Crie ou edite uma doca](/pt/tutorial/como-cadastrar-doca) associando à política comercial.
 2. Associe uma [transportadora](/pt/tutorial/gerenciar-transportadora) a essa doca.
-3. Verifique se existe algum [estoque](/pt/tutorial/gerenciar-estoque) que se associe a essa doca.
+3. Verifique se existe algum [estoque](/pt/docs/tutorials/gerenciar-estoque) que se associe a essa doca.

@@ -14,7 +14,7 @@ locale: pt
 legacySlug: corrigir-erro-de-redirecionamento-no-pagseguro
 ---
 
-> ❗ Essa integração de pagamento não pode ser mais configurada na plataforma devido ao [processo de remoção de provedores legados](/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14) e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.
+> ❗ Essa integração de pagamento não pode ser mais configurada na plataforma devido ao [processo de remoção de provedores legados](/pt/announcements/2023-10-13-conectores-legados-de-pagamentos-serao-descontinuados-em-2024) e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.
 
 Caso você esteja encontrando __problemas de redirecionamento__ utilizando o Pagseguro, é provável que o *redirect* do PagSeguro esteja configurado de forma errada.
 
@@ -38,7 +38,7 @@ Para corrigir o problema, há duas opções: Configurar o PagSeguro *com redirec
 3. Clique na condição __PagSeguro__.
 4. Na flag __Status__, selecione a opção __Ativa__.
 5. Em __Processar com a afiliação__, selecione a afiliação de __PagSeguro__ cadastrada no passo anterior.
-6. Preencha os outros campos desejados para a [configuração da condição de pagamento](/pt/tutorial/condicoes-de-pagamento).
+6. Preencha os outros campos desejados para a [configuração da condição de pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 7. Clique em __Salvar__.
 
 ## Configurar o PagSeguro *sem redirect*
@@ -56,7 +56,7 @@ Para corrigir o problema, há duas opções: Configurar o PagSeguro *com redirec
 
 1. Depois de configurar corretamente a Afiliação de Gateway no passo anterior, clique na aba __Condições de Pagamento__.
 2. Clique no botão __+__ no canto superior direito da tela.
-3. Clique na condição de pagamento desejada. No caso da Afiliação PagSeguro sem redirect, esta pode ser um [cartão de crédito](/pt/tutorial/condicoes-de-pagamento) ou [boleto bancário](/pt/tutorial/como-configurar-boleto-bancario), por exemplo.
+3. Clique na condição de pagamento desejada. No caso da Afiliação PagSeguro sem redirect, esta pode ser um [cartão de crédito](/pt/docs/tutorials/condicoes-de-pagamento) ou [boleto bancário](/pt/docs/tutorials/como-configurar-boleto-bancario), por exemplo.
 4. Na flag __Status__, selecione a opção __Ativa__.
 5. Em __Processar com a afiliação__, selecione a afiliação de __PagSeguro sem redirect__ cadastrada no passo anterior.
 6. Clique em __Salvar__.
