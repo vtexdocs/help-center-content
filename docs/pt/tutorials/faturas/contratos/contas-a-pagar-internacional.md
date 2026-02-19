@@ -3,7 +3,7 @@ title: 'Contas a pagar - Internacional'
 id: 3yea9sIlsA0KgUC28ASCGs
 status: PUBLISHED
 createdAt: 2018-02-21T18:37:18.803Z
-updatedAt: 2022-02-04T21:17:03.399Z
+updatedAt: 2022-02-19T21:17:03.399Z
 publishedAt: 2022-02-04T21:17:03.399Z
 firstPublishedAt: 2018-02-21T18:46:03.660Z
 contentType: tutorial
