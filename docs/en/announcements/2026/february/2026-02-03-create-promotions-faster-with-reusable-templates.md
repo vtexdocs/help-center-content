@@ -7,7 +7,7 @@ publishedAt: 2026-01-27T00:00:00.000Z
 contentType: updates
 productTeam: Others
 author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: 2026-02-03-promotion-template-management
+slugEN: 2026-02-03-create-promotions-faster-with-reusable-templates
 locale: en
 announcementSynopsisPT: 'You can now create and use templates to speed up promotion creation in the VTEX Admin.'
 ---
