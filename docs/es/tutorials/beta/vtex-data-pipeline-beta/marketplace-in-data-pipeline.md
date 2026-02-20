@@ -205,7 +205,7 @@ La tabla *sellers_orders_rateandbenefitsidentifiers* contiene datos sobre promoc
 |rateandbenefitsidentifiers_id | character varying(65535) | Identificador único de los rate and benefits identifiers asociados al pedido.|
 |rateandbenefitsidentifiers_name | character varying(65535) | Nombre de los rate and benefits identifiers, que identifica la promoción o recargo.|
 |rateandbenefitsidentifiers_featured | boolean | Indica si los rate and benefits identifiers están destacados o tienen alguna característica especial.|
-|rateandbenefitsidentifiers_description | character varying(65535) | Descripción detallada de los rate and benefits identifiers y sus beneficios.|
+|rateandbenefitsidentifiers_description | character varying(65535) | Descripción detallada de los rate and benefit identifiers y sus beneficios.|
 |batch_id | character varying(13) | Identificador usado cuando los datos se cargan en la tabla para control de calidad de la ingestión.|
 
 ## Análisis con marketplace_in
