@@ -12,7 +12,7 @@ locale: pt
 announcementSynopsisPT: 'Agora é possível criar e usar templates para agilizar a criação de promoções no Admin VTEX.'
 ---
 
-O módulo de **Promoções** da VTEX passa a contar com o [gerenciamento de templates de promoção](colocar link). A funcionalidade permite ao lojista salvar e reutilizar templates de promoções, tornando a criação de promoções mais rápida, padronizada e consistente.
+O módulo de **Promoções** da VTEX passa a contar com o [gerenciamento de templates de promoção](https://help.vtex.com/pt/docs/tutorials/gerenciamento-de-templates-de-promocao). A funcionalidade permite ao lojista salvar e reutilizar templates de promoções, tornando a criação de promoções mais rápida, padronizada e consistente.
 
 > ℹ️ O lançamento será realizado em fases a partir de fevereiro. A disponibilidade pode variar entre contas VTEX ao longo desse período.
 
@@ -22,7 +22,7 @@ Antes, cada promoção precisava ser criada do zero. Mesmo em cenários recorren
 
 Agora, o lojista pode criar, editar e excluir templates de promoção diretamente no fluxo de criação de promoções. Um template funciona como um modelo pré-configurado. Quando selecionado, o formulário de **Nova promoção** é automaticamente preenchido com as configurações salvas, reduzindo para o lojista etapas manuais, retrabalho e variações indesejadas entre promoções.
 
-Para mais informações sobre o funcionamento e as regras dos templates de promoção, veja [Gerenciamento de templates de promoção](link).
+Para mais informações sobre o funcionamento e as regras dos templates de promoção, veja [Gerenciamento de templates de promoção](https://help.vtex.com/pt/docs/tutorials/gerenciamento-de-templates-de-promocao).
 
 ## O que precisa ser feito?
 
