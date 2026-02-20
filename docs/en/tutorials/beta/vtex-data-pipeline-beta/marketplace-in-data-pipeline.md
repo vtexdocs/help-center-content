@@ -205,7 +205,7 @@ The *sellers_orders_rateandbenefitsidentifiers* table contains data about promot
 |rateandbenefitsidentifiers_id | character varying(65535) | Unique identifier of the rate and benefits identifiers associated with the order.|
 |rateandbenefitsidentifiers_name | character varying(65535) | Name of the rate and benefits identifiers, identifying the promotion or surcharge.|
 |rateandbenefitsidentifiers_featured | boolean | Indicates whether the rate and benefits identifiers are featured or have any special attribute.|
-|rateandbenefitsidentifiers_description | character varying(65535) | Detailed description of the rate and benefits identifiers and their benefits.|
+|rateandbenefitidentifiers_description | character varying(65535) | Detailed description of the rate and benefit identifiers and their benefits.|
 |batch_id | character varying(13) | Identifier used when data is loaded into the table for ingestion quality control.|
 
 ## Analyses with Marketplace in
