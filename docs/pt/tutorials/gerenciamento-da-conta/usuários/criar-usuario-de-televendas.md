@@ -9,7 +9,7 @@ firstPublishedAt: 2019-01-24T21:59:45.397Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_24
-slugEN: how-can-i-create-callcenter-user
+slugEN: creating-a-telesales-user
 legacySlug: como-criar-um-usuario-de-televendas
 locale: pt
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
