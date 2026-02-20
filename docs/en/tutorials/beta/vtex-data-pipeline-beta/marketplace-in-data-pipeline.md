@@ -57,7 +57,7 @@ The table fields are described below:
 | trust_policy| character varying(50)| Trust policy used by the seller. |
 | sales_channels| character varying(65535)| The seller's sales channels.|
 | integration| character varying(50)| The name of the integration used by the seller.|
-| integration_type | character varying(25) | Integrations are classified as: VTEX Seller: The seller is another VTEX account. VTEX Seller Portal: The seller uses the VTEX Seller Portal. External Seller: The seller uses an external connection not related to VTEX. Not Configured: The seller has not configured integration yet.|
+| integration_type | character varying(25) | Integrations are classified as: VTEX Seller: The seller is another VTEX account. VTEX Seller Portal: The seller uses the VTEX Seller Portal. External Seller: The seller uses an external connection not related to VTEX. Not Configured: The seller has not configured an integration yet. |
 | created_at | timestamp without time zone| The timestamp of the seller creation. |
 | updated_at| timestamp without time zone | The timestamp of the last time the seller was updated.|
 | batch_id| character(13)| The ID of the batch where this data arrived. Allows you to know when this data was delivered.|
