@@ -10,6 +10,8 @@ locale: pt
 
 Em uma organização compradora B2B, os membros são as pessoas que interagem com a loja em nome da organização. Suas ações são definidas pelos perfis de acesso e permissões atribuídos a eles e pela forma como a organização usa **informações de contato** e **dados do comprador**. Este artigo explica os tipos de membros e conceitos relacionados para que você entenda quem pode fazer o quê na sua organização.
 
+> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
+
 ## Perfis de acesso baseados em permissão
 
 Os perfis de acesso definem o que cada usuário pode fazer na loja, incluindo a gestão da Organization Account. Cada perfil de acesso possui um conjunto de permissões. Quando você atribui um ou mais perfis de acesso a um usuário, ele passa a ter as capacidades combinadas desses perfis. As permissões são aplicadas na loja para que os usuários vejam e usem apenas os recursos permitidos.
