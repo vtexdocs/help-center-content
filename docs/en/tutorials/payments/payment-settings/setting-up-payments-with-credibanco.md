@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the payment provider Credibanco. Through this provider, your store can make sales via credit cards, PSE, notes payable, Venda Direta Crédito e Venda Direta Débito.
+At VTEX, it is possible to integrate with the payment provider Credibanco. Through this provider, your store can make sales via credit cards, PSE, notes payable, Venda Direta Crédito, Venda Direta Débito, Bancolombia-Credibanco, Efecty-Credibanco and Datafono-Credibanco.
 
 To configure Credibanco, follow the steps below:
 
