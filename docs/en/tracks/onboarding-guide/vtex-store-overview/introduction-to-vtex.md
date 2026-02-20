@@ -25,7 +25,7 @@ The following image shows VTEX's solutions and possibilities, which will be cove
 
 ## Track overview
 
-This track presents the journey of a VTEX store from its initial settings to the go-live. But before configuring the platform [modules](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7), planning [backend integrations](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu), and choosing a [frontend](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) technology for building the storefront, there's a preliminary step: determining the [account type and architecture](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) that best align with your business needs.
+This track presents the journey of a VTEX store from its initial settings to the go-live. But before configuring the platform [modules](/en/docs/tracks/vtex-modules-i), planning [backend integrations](/en/docs/tracks/backend-integrations), and choosing a [frontend](/en/docs/tracks/frontend-implementation) technology for building the storefront, there's a preliminary step: determining the [account type and architecture](/en/docs/tracks/accounts-and-architecture) that best align with your business needs.
 
 > ⚠️ Each ecommerce operation has its own particularities and this content is not intended to encompass all possible scenarios. Our goal is to provide a general model and present the features and possibilities of the VTEX platform.
 
@@ -33,9 +33,9 @@ The content is organized sequentially for educational purposes; however, this do
 
 ## Onboarding guide overview
 
-The **VTEX store overview** is the first track in the **Onboarding guide**. After the go-live, there are several other [solutions](/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm) and [settings](/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS/V1fs7IkfYMfn91ZVHTLu4) on the platform to diversify your store's sales strategies and expand your business operations. This is the focus of the second track, called [Next steps after the go-live](/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS/7bORBaAr4rIG3JgRi68jIK).
+The **VTEX store overview** is the first track in the **Onboarding guide**. After the go-live, there are several other [solutions](/en/docs/tracks/add-on-products) and [settings](/en/docs/tracks/other-vtex-module-settings) on the platform to diversify your store's sales strategies and expand your business operations. This is the focus of the second track, called [Next steps after the go-live](/en/docs/tracks/next-steps).
 
-The third and final track of the **Onboarding guide** is [Support at VTEX](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) and aims to provide our customers with the best platform and support experiences. The track covers how [VTEX Support works](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/2Ik9CGbPeZIHHaYFsuyId3) and explains how to open tickets to get help with [technical](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3thRAdTB3gGwTB0e1fVL3T), [billing](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3g2mhmPDx5GszNgLDICzsl) or [commercial](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) issues.
+The third and final track of the **Onboarding guide** is [Support at VTEX](/en/docs/tracks/vtex-support) and aims to provide our customers with the best platform and support experiences. The track covers how [VTEX Support works](/en/docs/tracks/how-vtex-support-works) and explains how to open tickets to get help with [technical](/en/docs/tracks/technical-support), [billing](/en/docs/tracks/billing-support) or [commercial](/en/docs/tracks/commercial-support) issues.
 
 Now we are ready to begin our journey.
 Welcome to VTEX.

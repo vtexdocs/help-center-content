@@ -26,5 +26,5 @@ To perform this configuration:
 
 ![File type settings in CMS](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-thumb-image-of-poor-quality_1.PNG)
 
-To learn how to improve the quality of any image from your store without compromising the page load performance, we also recommend reading the article [Improving the performance of product images](/en/tutorial/improving-the-performance-of-product-images/).
+To learn how to improve the quality of any image from your store without compromising the page load performance, we also recommend reading the article [Improving the performance of product images](/en/docs/tutorials/improving-the-performance-of-product-images/).
 

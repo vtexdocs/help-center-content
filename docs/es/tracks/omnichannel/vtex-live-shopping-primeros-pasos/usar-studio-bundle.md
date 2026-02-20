@@ -165,9 +165,9 @@ Para conectar diferentes cuentas VTEX a la misma transmisión de evento, cada cu
 
 **Cuenta A:**
 
-1. [Crea](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) un evento.
+1. [Crea](/es/docs/tracks/crear-evento) un evento.
 2. En la página **Eventos**, haz clic en el botón de flecha del evento para acceder a la página **Información del evento**.
-3. [Inicia](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) el evento.
+3. [Inicia](/es/docs/tracks/iniciar-evento) el evento.
 4. En la sección [Estudio de streaming](#estudio-de-streaming), haz clic en `Acceder`.
 5. Inicia sesión en el estudio Bundle.
 6. Haz clic en `Enter the studio`.
@@ -182,7 +182,7 @@ Se mostrará el siguiente mensaje de confirmación, *"A new destination has been
 
 **Cuenta B:**
 
-1. [Crea](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) el evento.
+1. [Crea](/es/docs/tracks/crear-evento) el evento.
 2. En la página **Eventos**, haz clic en el botón de flecha del evento para acceder a la página **Información del evento**.
 3. [Inicia](http://link) el evento.
 4. En la sección de [Detalles](https://docs.google.com/document/d/11OTXsKkgP-DVt_YzVNpxOL8T9nXURYe48u_7UPL--0E/edit#link), copia la información de **Servidor inbound** y **Clave del servidor** y compártela con la cuenta a la que deseas conectarte, que en este caso es la Cuenta A.

@@ -31,7 +31,7 @@ Ou também no módulo de fluxos
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/importar-e-exportar-fluxos_2.png)
 
-Você pode conhecer um pouco mais sobre o [Editor de fluxo e suas ferramentas](https://help.vtex.com/en/docs/tutorials/flow-editor-and-tools) clicando no link.
+Você pode conhecer um pouco mais sobre o [Editor de fluxo e suas ferramentas](/pt/docs/tutorials/editor-de-fluxo-e-suas-ferramentas) clicando no link.
 
 2. **Segundo Caminho: Via configurações gerais da organização**
 
@@ -39,7 +39,7 @@ Para acessar a página de exportação pelas configurações gerais da organiza�
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/importar-e-exportar-fluxos_3.png)
 
-Você pode conhecer um pouco mais sobre as Configurações gerais de organização clicando no [link](https://help.vtex.com/pt/docs/tutorials/configuracoes-gerais-do-projeto).
+Você pode conhecer um pouco mais sobre as Configurações gerais de organização clicando no [link](/pt/docs/tutorials/configuracoes-gerais-do-projeto).
 
 Já na página de exportação, ela irá te exibir todos os fluxos e campanhas daquela organização, estando eles agrupados por uso, ou seja, todos os fluxos de um mesmo grupo interagem entre si. Caso você exporte apenas um fluxo de um grupo, você pode ter problemas em seu funcionamento.
 

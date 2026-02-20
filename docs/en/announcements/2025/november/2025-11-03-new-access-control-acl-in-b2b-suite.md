@@ -15,14 +15,14 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Implementation of access control (ACL) in B2B Suite, with new permissions for user and organization management.'
 ---
 
-As of November 4, 2025, the **B2B Suite** now features a new permission-based access control (ACL Access Control List). This update improves the security and management of users and purchasing organizations, ensuring that only authorized [roles](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) can view or edit store information.
+As of November 4, 2025, the **B2B Suite** now features a new permission-based access control (ACL Access Control List). This update improves the security and management of users and purchasing organizations, ensuring that only authorized [roles](/en/docs/tutorials/roles) can view or edit store information.
 
 With the new model, access to **buyer organizations**, **cost centers**, and **users** in the VTEX Admin now depends on specific permissions.
 
 ## What has changed?
 Previously, any user with access to the VTEX Admin could view and edit purchasing organization information.
 
-Now, with the new **Access Control List (ACL)**, only users with the required [Licence Manager](/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) permissions can perform these actions.
+Now, with the new **Access Control List (ACL)**, only users with the required [Licence Manager](/en/docs/tutorials/license-manager-resources) permissions can perform these actions.
 
 The available permissions are:
 

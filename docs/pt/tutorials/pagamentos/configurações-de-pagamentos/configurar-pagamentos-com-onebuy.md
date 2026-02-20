@@ -41,7 +41,7 @@ Para configurar a OneBuy, siga os passos abaixo:
 5. O campo __Processar com a afiliação__ já vai estar preenchido pela opção _OneBuy_.
 6. Se houver um antifraude configurado na sua loja, você pode ativá-lo para essa condição de pagamento marcando a caixa __Usar Antifraude__.
 7. Escolha se deseja que os pagamentos sejam feitos à vista ou parcelados.
-8. Se quiser, você também pode optar por uma [condição especial de pagamento](/pt/tutorial/condicoes-especiais).
+8. Se quiser, você também pode optar por uma [condição especial de pagamento](/pt/docs/tutorials/condicoes-especiais).
 9. Clique em __Salvar__.
 
 Depois de seguir os passos indicados, a OneBuy vai aparecer no checkout da sua loja como uma opção de pagamento para seus clientes utilizarem.

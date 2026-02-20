@@ -38,4 +38,4 @@ Caso o produto esteja cadastrado numa categoria errada, basta mudar o produto de
 
 Na VTEX, é possível cadastrar os produtos em categorias similares. Assim, produtos que tenham categorias similares cadastradas serão exibidos nas vitrines das páginas dessas categorias.
 
-Isso pode causar a impressão de que o produto está sendo exibido na categoria errada. Para verificar se o seu produto possui uma categoria similar cadastrada, acesse nosso artigo sobre [como configurar categoria similar](/pt/tutorial/configurando-categoria-similar).
+Isso pode causar a impressão de que o produto está sendo exibido na categoria errada. Para verificar se o seu produto possui uma categoria similar cadastrada, acesse nosso artigo sobre [como configurar categoria similar](/pt/docs/tutorials/configurando-categoria-similar).

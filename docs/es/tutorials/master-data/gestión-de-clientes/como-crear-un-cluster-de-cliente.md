@@ -17,7 +17,7 @@ subcategoryId: 42hDtnYXHw5ExG6l19RP1l
 
 Un clúster es una agrupación de los clientes de una mismo segmento de clientes. Es un enfoque que sirve para identificar perfiles y obtener una mayor llegada en las actividades relacionadas con los usuarios.
 
-> ⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar cuál versión de Master Data satisface las necesidades de tu operación o ya está en uso. <ul> <li> [ Características de las versiones de Master Data ](/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/vtex-rest-api/docs/getting-started-1) </li> </ul>
+> ⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar cuál versión de Master Data satisface las necesidades de tu operación o ya está en uso. <ul> <li> [ Características de las versiones de Master Data ](/es/docs/tutorials/master-data#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/docs/guides/master-data-v2-basics) </li> </ul>
 
 Estos datos son muy válidos para el marketing y la publicidad, por lo que se puede configurar su clúster y cuáles son las reglas para un cliente.
 
@@ -35,8 +35,8 @@ Este artículo tiene como objetivo mostrar cómo configurar su CRM para crear un
 
 Técnicamente, un clúster en el CRM es nada más que un campo.
 
-Para rellenar este campo, usted puede usar una [planilla de importación](/es/tutorial/importar-datos-en-el-master-data--tutorials_1135) o una API, o puede hacerlo manualmente por el formulario Cliente en CRM. Todo depende de la estrategia de la tienda para agrupar a sus clientes.
+Para rellenar este campo, usted puede usar una [planilla de importación](/es/docs/tutorials/importar-datos-en-master-data-v1) o una API, o puede hacerlo manualmente por el formulario Cliente en CRM. Todo depende de la estrategia de la tienda para agrupar a sus clientes.
 
 ## Más información
 
-- [Crear promoción para un clúster](/es/tutorial/creando-promociones-cluster-clientes)
+- [Crear promoción para un clúster](/es/docs/tutorials/creando-promociones-cluster-clientes)

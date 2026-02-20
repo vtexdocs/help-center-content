@@ -16,5 +16,5 @@ legacySlug: por-que-cadastrei-categoria-similar-e-os-produtos-nao-sao-exibidos
 
 Existem dois tipos de cadastros possíveis para a categoria similar e, cada uma delas, produz um resultado diferente na loja. O primeiro deles e mais comum é incluindo a categoria similar no cadastro do produto. Nesse caso, os produtos de uma categoria aparecerão também na outra categoria. O segundo cenário é adicionando a categoria similar, diretamente no cadastro da categoria principal. Configurando dessa forma não exibirá os produtos, mas sim um link para a categoria similar nas página da categoria em que foi cadastrada.
 
-Para entender melhor sobre categoria similar e suas particularidades para configuração, leia o artigo [Configurar categoria similar](/pt/tutorial/configurando-categoria-similar).
+Para entender melhor sobre categoria similar e suas particularidades para configuração, leia o artigo [Configurar categoria similar](/pt/docs/tutorials/configurando-categoria-similar).
 

@@ -37,7 +37,7 @@ Ahora su tienda ya tiene una regla de precio configurada para una política come
 ## Más información
 
 - [Estrategias de marketplace en VTEX](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
-- [Como funciona una Política Comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
-- [Crear una política comercial](/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)
-- [Configurar política comercial para marketplace](/es/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)
-- [Registrar el precio base de un producto](/es/tutorial/registering-a-products-base-price--4S9SbPWlVmOAAWO6yq8wE6)
+- [Como funciona una Política Comercial](/es/docs/tutorials/como-funciona-una-politica-comercial)
+- [Crear una política comercial](/es/docs/tutorials/crear-una-politica-comercial)
+- [Configurar política comercial para marketplace](/es/docs/tutorials/configurar-politica-comercial-para-marketplace)
+- [Registrar el precio base de un producto](/es/docs/tutorials/registrar-el-precio-base-de-un-producto)

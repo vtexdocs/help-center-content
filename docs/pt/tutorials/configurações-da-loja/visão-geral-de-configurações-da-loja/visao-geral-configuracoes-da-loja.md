@@ -25,14 +25,14 @@ Para acessar esse recurso, clique em __Configurações da Loja__ no menu de nave
 Veja abaixo mais detalhes sobre as diferentes seções e páginas deste menu.
 
 ## Pagamentos
-Na página de Pagamentos, você pode configurar condições de pagamento, pagamentos personalizados, afiliações de gateway e notificações. Saiba mais sobre as ações que você pode realizar nessa [página](/pt/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG/7pAEMAo4iqNHwYOarZ3zgm), que em breve será incluída no Admin v4.
+Na página de Pagamentos, você pode configurar condições de pagamento, pagamentos personalizados, afiliações de gateway e notificações. Saiba mais sobre as ações que você pode realizar nessa [página](/pt/docs/tracks/configurar-um-conector-de-pagamentos), que em breve será incluída no Admin v4.
 
 ## Pedidos
 Na seção de Pedidos, você pode definir as configurações gerais de pedidos, afiliados, autorização de pedidos e métodos de pagamento para assinaturas. Ela inclui as páginas abaixo, que em breve serão incluídas no Admin v4.
 
 -	[Configurações](/pt/subcategory/orders-management-settings--1qvm3kIrt6KA6IeGc4EQ6k#)  
 -	[Autorização de Pedidos](/pt/tutorial/how-order-authorization-works--3MBK6CmKHAuUjMBieDU0pn#)  
--	[Pagamento de Assinaturas](/pt/tutorial/how-to-configure-subscriptions--1FA9dfE7vJqxBna9Nft5Sj#2-configure-payment-methods)  
+-	[Pagamento de Assinaturas](/pt/docs/tutorials/como-configurar-assinaturas#2-configure-payment-methods)  
 
 ## Templates de Email
 Na seção Templates de Email, você pode personalizar modelos de email e definir os remetentes de mensagens disparadas para seus clientes. Essa seção inclui as páginas abaixo, que em breve serão incluídas no Admin v4.
@@ -44,7 +44,7 @@ Na seção Templates de Email, você pode personalizar modelos de email e defini
 Na seção Envio, você pode definir as configurações gerais de envio, geolocalização e feriados. Essa seção inclui as páginas abaixo, que em breve serão incluídas no Admin v4.
 
 -	[Configurações](/pt/subcategory/inventory-and-shipping-settings--1UL6Q7nUN6SkA2g2SUsECi#)  
--	[Envio por Geolocalização](/pt/tutorial/registering-geolocation--tutorials_138)  
+-	[Envio por Geolocalização](/pt/docs/tutorials/gerenciar-geolocalizacao)  
 -	[Feriados](/pt/tutorial/registering-holidays--2ItOthSEAoyAmcwsuiO6Yk#)  
 
 ## Produtos
@@ -66,16 +66,16 @@ Na seção Storefront, você pode ajustar as configurações gerais da interface
 ## Canais
 A seção Canais inclui a página Canais de Vendas, onde você pode definir configurações de catálogo, preços, promoções, logística, segmentação de clientes e condições de pagamento para diferentes estratégias de vendas. Aqui, você também pode configurar as suas integrações XML. Essa seção inclui as páginas abaixo, que em breve serão incluídas no Admin v4.
 
-- [Canais de Vendas](/pt/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) (chamadas anteriormente de "políticas comerciais" na VTEX)  
-- [Integração XML](/pt/tutorial/configurando-xml--tutorials_242)
+- [Canais de Vendas](/pt/docs/tutorials/como-funciona-uma-politica-comercial) (chamadas anteriormente de "políticas comerciais" na VTEX)  
+- [Integração XML](/pt/docs/tutorials/configurando-xml)
 
 ## Intelligent Search
 Na seção Intelligent Search, você pode definir as configurações gerais da busca inteligente e suas integrações. Essa seção inclui as páginas abaixo, que em breve serão incluídas no Admin v4.
 
-- [Explicação da busca](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4uSFqyJVCMVMIvVrtz3lxZ)
-- [Regras de merchandising](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8)
-- [Sinônimos](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL)
-- [Status da indexação](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH)
+- [Explicação da busca](/pt/docs/tutorials/explicacao-da-busca)
+- [Regras de merchandising](/pt/docs/tutorials/criar-regra-de-merchandising-editor-manual)
+- [Sinônimos](/pt/docs/tutorials/criar-sinonimos)
+- [Status da indexação](/pt/docs/tutorials/historico-da-indexacao)
 - [Regras de Relevância](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3nVgV8UuUJYXwV0o2tgZ9g)
-- [Analytics](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m)
-- [Redirecionamentos](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4Gd2wLQFbCwTsh8RUDwSoL)
+- [Analytics](/pt/docs/tutorials/analytics)
+- [Redirecionamentos](/pt/docs/tutorials/configurar-redirecionamentos)

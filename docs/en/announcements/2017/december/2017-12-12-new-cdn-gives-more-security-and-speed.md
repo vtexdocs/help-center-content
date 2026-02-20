@@ -30,4 +30,4 @@ And with HTTP/2 support you have access to a series of other improvements.
 
 There are no risks or contraindications to joining the new model.
 
-The main requirement for migrating is that your site is fully available on HTTPS, which contributes to secure traffic to your store and improve your site ranking in organic searches. To do this, follow the steps in the article [Enable HTTPS throughout the site](/en/tutorial/enable-https-throughout-the-site).
+The main requirement for migrating is that your site is fully available on HTTPS, which contributes to secure traffic to your store and improve your site ranking in organic searches. To do this, follow the steps in the article [Enable HTTPS throughout the site](/en/docs/tutorials/enable-https-throughout-the-site).

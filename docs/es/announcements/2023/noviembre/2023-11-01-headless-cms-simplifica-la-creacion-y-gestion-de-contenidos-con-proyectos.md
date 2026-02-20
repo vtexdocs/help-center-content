@@ -38,5 +38,5 @@ La interfaz **Proyectos** implementa las siguientes mejoras:
 - Atención efectiva a públicos u objetivos específicos mediante proyectos separados.
 
 ## ¿Qué se necesita hacer?
-Esta funcionalidad ya está disponible para todas las cuentas que tienen la aplicación Headless CMS instalada. Consulta la guía [Gestionar proyectos](/es/tutorial/gestionar-proyectos--42IpDFqTVTESH8DCypJMPM) para más información sobre cómo utilizar la funcionalidad.
+Esta funcionalidad ya está disponible para todas las cuentas que tienen la aplicación Headless CMS instalada. Consulta la guía [Gestionar proyectos](/es/docs/tutorials/gestionar-proyectos) para más información sobre cómo utilizar la funcionalidad.
 

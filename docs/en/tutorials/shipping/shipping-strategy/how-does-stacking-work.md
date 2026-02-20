@@ -19,7 +19,7 @@ When calculating the sum of measures of more than one SKU, the system presents a
 
 `(Smallest side x Number of SKUs) + Width + Length`
 
-Be aware that package division is allowed only if the [cargo splitting](/en/tutorial/configuring-cargo-splitting) is enabled.
+Be aware that package division is allowed only if the [cargo splitting](/en/docs/tutorials/configuring-cargo-splitting) is enabled.
 
 ## Largest edge measure
 

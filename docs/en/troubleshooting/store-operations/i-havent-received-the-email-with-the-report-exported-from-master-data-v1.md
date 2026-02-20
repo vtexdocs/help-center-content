@@ -19,7 +19,7 @@ tags:
   - Export
 ---
 
-When [exporting a report with data from Master Data v1](/en/tutorial/exporting-data--tutorials_1125), the report is sent to the email address entered during the export. However, the email may take longer than expected to arrive in your inbox.
+When [exporting a report with data from Master Data v1](/en/docs/tutorials/exporting-data), the report is sent to the email address entered during the export. However, the email may take longer than expected to arrive in your inbox.
 
 ## Solution
 

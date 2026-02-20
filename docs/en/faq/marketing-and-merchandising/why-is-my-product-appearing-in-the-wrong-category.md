@@ -38,4 +38,4 @@ If the product is in the wrong category, simply change the category product. [Cl
 
 At VTEX, you may register products in similar categories. With that, products that have similar categories will be displayed in the shop windows of those categories pages.
 
-This may cause the impression that the product is being displayed in the wrong category. To check if your product has a similar category, visit our article on [how to set up similar categories](/en/tutorial/setting-up-similar-categories).
+This may cause the impression that the product is being displayed in the wrong category. To check if your product has a similar category, visit our article on [how to set up similar categories](/en/docs/tutorials/setting-up-similar-categories).

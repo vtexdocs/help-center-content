@@ -44,6 +44,8 @@ En este flujo, cuando el retailer emite una [factura parcial](https://help.vtex.
 
 A medida que se agregan nuevas facturas, el gateway liquida los valores restantes (hasta 40 USD, en este ejemplo), de forma proporcional y automática.
 
+> ⚠️ En pedidos pagados con múltiples medios de pago, el sistema procesa la operación inicialmente en el medio de pago con el menor valor asignado de la transacción.
+
 > ⚠️ Solo el flujo de liquidación **Total** está activado en todas las cuentas VTEX de forma predeterminada. Si deseas utilizar los flujos de liquidación **Retenida** o **Parcial** en tu tienda, ponte en contacto con el [Soporte VTEX](https://help.vtex.com/pt).
 
 ## Cómo identificar la liquidación parcial de un pedido

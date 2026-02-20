@@ -19,7 +19,7 @@ Com o Formulário de Captura, todos os clientes que iniciam uma conversa via Wha
 
 E o melhor de tudo, é que esses mesmos dados podem ser integrados com ferramentas de CRM ou automação de email marketing.
 
-Para criar um formulário de Captura é preciso ter o link criado, se você não criou ainda [acesse nosso artigo sobre links](/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB). 
+Para criar um formulário de Captura é preciso ter o link criado, se você não criou ainda [acesse nosso artigo sobre links](/pt/docs/tutorials/links-suiteshare). 
 
 Acesse o painel do **VTEX Assisted Sales (SuiteShare)** e clique em _**“Capturar”**_.
 
@@ -69,7 +69,7 @@ Clique em _**“Finalizar”**_.
 
 ![Formulário de Captura 9](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/formulario-de-captura-suiteshare_10.png)
 
-Configure a [aparência](/pt/tutorial/personalizar--sG7FAksOsU1EW9vcbPgIe), você pode clicar no botão _**“Clique aqui”**_ ou acessar  **Configurações > Minha conta > Aparência**.
+Configure a [aparência](/pt/docs/tutorials/personalizar-suiteshare), você pode clicar no botão _**“Clique aqui”**_ ou acessar  **Configurações > Minha conta > Aparência**.
 
 ![Formulário de Captura 10](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/formulario-de-captura-suiteshare_11.png)
 

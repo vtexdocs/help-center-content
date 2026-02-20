@@ -19,7 +19,7 @@ Animamos a nuestros clientes a que informen responsablemente de cualquier vulner
 
 Quienes deseen informar una vulnerabilidad deben trabajar primero con sus propios equipos de seguridad y desarrollo para realizar una evaluación de seguridad y eliminar falsos positivos o problemas derivados de configuraciones personalizadas. Se analizarán únicamente los casos que sean compatibles con la [definición de vulnerabilidad](#definicion-de-vulnerabilidad).
 
-> ⚠️ Consulta el documento [Prácticas de seguridad de VTEX](https://vtex.com/mx-es/security/security-practices/) y nuestras [Preguntas frecuentes sobre seguridad](/es/tutorial/the-risk-assessment-process--4K97IpqkpCpDYsZOSxtfkX) antes de informar cualquier vulnerabilidad. Estos documentos aclaran nuestros procesos y ayudan a eliminar los falsos positivos.
+> ⚠️ Consulta el documento [Prácticas de seguridad de VTEX](https://vtex.com/mx-es/security/security-practices/) y nuestras [Preguntas frecuentes sobre seguridad](/es/docs/tutorials/evaluacion-de-riesgos) antes de informar cualquier vulnerabilidad. Estos documentos aclaran nuestros procesos y ayudan a eliminar los falsos positivos.
 
 Después de este procedimiento, si existe una vulnerabilidad, sigue los pasos a continuación para reportarla:
 

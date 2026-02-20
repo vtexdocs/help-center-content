@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-getting-started
 order: 1
 ---
 
-The [Live Shopping](/en/tutorial/live-shopping--1cYWPIbjNMyr072sksHSVL) app enables stores to create immersive, real-time shopping experiences directly on their storefronts. Merchants can live stream events on their store website to promote product collections, increase sales, and enhance user experience, while interacting via live chat.
+The [Live Shopping](/en/docs/tutorials/live-shopping) app enables stores to create immersive, real-time shopping experiences directly on their storefronts. Merchants can live stream events on their store website to promote product collections, increase sales, and enhance user experience, while interacting via live chat.
 
 This technical onboarding guide is designed to assist development and operations teams with implementing, configuring, and optimizing **Live Shopping**. The goal is to ensure a seamless setup and allow brands to host engaging, conversion-driven live events.
 
@@ -35,6 +35,6 @@ You can see the features below as they would appear in a real **Live Shopping** 
 
 ![article_1_overview_v3_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/vtex-live-shopping_1.png)
 
-> ℹ️ [Live Shopping](/en/tutorial/live-shopping--1cYWPIbjNMyr072sksHSVL) is a paid app with different subscription plans. For more information, check [VTEX App Store](https://apps.vtex.com/liveshopping/p).
+> ℹ️ [Live Shopping](/en/docs/tutorials/live-shopping) is a paid app with different subscription plans. For more information, check [VTEX App Store](https://apps.vtex.com/liveshopping/p).
 
 For questions, feedback or if you need support with **Live Shopping**, contact our [Support team](https://docs.google.com/forms/d/e/1FAIpQLSf2PDBBWX2hXzw7Pa7VAn9l49CDUpI4Ug1U6yshDdas2d_Nkg/viewform).

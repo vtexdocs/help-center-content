@@ -70,10 +70,10 @@ Inventory data correlates with order and product sets, and provides a more compr
 
 ### Discover other Datasets
 
-- [Navigation](/en/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)   
-- [Payments](/en/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
-- [Orders](/en/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
-- [Prices](/en/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)
-- [Promotions](/en/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Gift cards](/en/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Bridge logs](/en/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Navigation](/en/docs/tutorials/navigation-data-pipeline)   
+- [Payments](/en/docs/tutorials/payments)  
+- [Orders](/en/docs/tutorials/orders-data-pipeline-beta) 
+- [Prices](/en/docs/tutorials/prices-data-pipeline-beta)
+- [Promotions](/en/docs/tutorials/promotions)
+- [Gift cards](/en/docs/tutorials/gift-card-data-pipeline)
+- [Bridge logs](/en/docs/tutorials/bridge-logs-data-pipeline)

@@ -19,7 +19,7 @@ El nuevo CDN de VTEX es una solución de entrega de contenido más segura y más
 
 Esta solución está disponible para todas las tiendas desde octubre de 2017 y, a partir del 20 de abril, pasará a ser obligatoria. Para activar el nuevo CDN, debe seguir los pasos descritos [en este artículo de VTEX Help](/es/tutorial/activar-nueva-cdn-de-vtex).
 
-__Importante:__ el principal requisito para cambiar a el nuevo CDN es que su sitio sea __totalmente disponible en HTTPS__. Usted debe estar atento principalmente a las llamadas HTTP de su sitio, que deben pasar a ser HTTPS para funcionar en el nuevo CDN. Vea como [activar HTTPS en todo el sitio](/es/tutorial/activar-https-en-todo-el-sitio) y esté atento  los requisitos necesarios para esta migración.
+__Importante:__ el principal requisito para cambiar a el nuevo CDN es que su sitio sea __totalmente disponible en HTTPS__. Usted debe estar atento principalmente a las llamadas HTTP de su sitio, que deben pasar a ser HTTPS para funcionar en el nuevo CDN. Vea como [activar HTTPS en todo el sitio](/es/docs/tutorials/activar-https-en-todo-el-sitio) y esté atento  los requisitos necesarios para esta migración.
 
 Por lo tanto, mucha atención:
 > ⚠️ Usted tiene hasta el día **20 de abril** para asegurarse de que su tienda:<br> - Esté totalmente disponible en HTTPS.<br> - Ha completado la migración a el nuevo CDN de VTEX.

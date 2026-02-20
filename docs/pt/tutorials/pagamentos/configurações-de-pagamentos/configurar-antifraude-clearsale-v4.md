@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o [antifraude](/pt/tutorial/como-configurar-antifraude) ClearSaleV4. Por meio deste sistema, é possível aumentar o nível de segurança em transações de pagamento realizadas em sua loja utilizando análises de risco que identificam possíveis fraudes.
+Na VTEX, é possível realizar a integração com o [antifraude](/pt/docs/tutorials/como-configurar-antifraude) ClearSaleV4. Por meio deste sistema, é possível aumentar o nível de segurança em transações de pagamento realizadas em sua loja utilizando análises de risco que identificam possíveis fraudes.
 
 Para configurar o ClearSaleV4, siga os passos abaixo:
 
@@ -39,7 +39,7 @@ Depois de configurar o antifraude da Clearsale, ele vai estar disponível para s
 
 1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
 2. Na aba __Condições de Pagamentos__, clique no botão `+`.
-3. Clique sobre a condição desejada ou [crie uma nova condição de pagamento](/pt/tutorial/condicoes-de-pagamento).
+3. Clique sobre a condição desejada ou [crie uma nova condição de pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 5. Marque a opção __Usar antifraude__.
 6. Selecione __ClearsaleV4__.
 7. Clique em `Salvar`.

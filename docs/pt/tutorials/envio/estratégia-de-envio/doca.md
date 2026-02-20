@@ -17,11 +17,11 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 A doca é parte do sistema logístico e geralmente funciona como ponto intermediário entre estoques e transportadoras. Na doca, as transportadoras recolhem os itens para entregá-los para seus destinatários. 
 
-Na VTEX, a doca é um intermediador entre o armazenamento de itens e a entrega dos pedidos do seu negócio. É pela doca que ocorre a integração das partes necessárias para a logística da sua loja: [Estoque](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb),  [Política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) e [Política de envio](/pt/tutorial/politica-de-envio--tutorials_140).
+Na VTEX, a doca é um intermediador entre o armazenamento de itens e a entrega dos pedidos do seu negócio. É pela doca que ocorre a integração das partes necessárias para a logística da sua loja: [Estoque](/pt/docs/tutorials/estoque),  [Política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) e [Política de envio](/pt/docs/tutorials/politica-de-envio).
 
 ![Doca PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estratégia-de-envio/doca_1.svg)
 
-> ℹ️ O Estoque é o espaço físico de armazenamento das mercadorias vendidas pela loja; a Política comercial é a configuração das estratégias de venda da loja; e a Política de envio é um conjunto de regras que definem as opções e condições de frete. A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é: <ul><li>[Política de envio](/pt/tutorial/politica-de-envio--tutorials_140)</li><li>Doca</li><li>[Estoque](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)</li></ul>
+> ℹ️ O Estoque é o espaço físico de armazenamento das mercadorias vendidas pela loja; a Política comercial é a configuração das estratégias de venda da loja; e a Política de envio é um conjunto de regras que definem as opções e condições de frete. A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é: <ul><li>[Política de envio](/pt/docs/tutorials/politica-de-envio)</li><li>Doca</li><li>[Estoque](/pt/docs/tutorials/estoque)</li></ul>
 
 ## Casos de uso
 
@@ -39,5 +39,5 @@ Os principais casos de uso de docas são:
 * Quando a doca não existe fisicamente e o conceito é utilizado apenas para delimitar os horários de retirada de itens do estoque pela transportadora. Mesmo nesse caso, é necessário cadastrar a doca na plataforma VTEX, pois as rotas de entrega só são possíveis com as docas configuradas.
 * Quando é preciso precificar o custo do serviço de manuseio dos itens do estoque para a transportadora.
 
-Para saber como gerenciar uma doca pelo Admin VTEX, confira o artigo [Gerenciar Doca](/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW).
+Para saber como gerenciar uma doca pelo Admin VTEX, confira o artigo [Gerenciar Doca](/pt/docs/tutorials/gerenciar-doca).
 

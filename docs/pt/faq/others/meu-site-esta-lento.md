@@ -48,7 +48,7 @@ Com isso, a página demora mais para ser carregada do que precisaria.
 
 Imagens com tamanho maior que o necessário são causa frequente de lentidão.
 
-Entenda este assunto a fundo no artigo [Melhorar a performance de imagens de produtos](/pt/tutorial/melhorando-a-performance-de-imagens-do-site).
+Entenda este assunto a fundo no artigo [Melhorar a performance de imagens de produtos](/pt/docs/tutorials/melhorando-a-performance-de-imagens-do-site).
 
 ### Tags de marketing, scripts e extensões
 

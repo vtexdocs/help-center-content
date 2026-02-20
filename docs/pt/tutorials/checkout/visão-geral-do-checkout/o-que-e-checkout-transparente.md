@@ -20,7 +20,7 @@ Dependendo da condição de pagamento que o usuário escolha ao fazer uma compra
 
 O problema é que, em um momento tão crítico para a conversão de vendas como o checkout, uma etapa a mais pode ser decisiva para a tomada de decisão do usuário. É nesse ponto que o __checkout transparente__ atua, eliminando a necessidade de um passo extra e deixando a experiência de compra mais fluida.
 
-[Mercado Pago Transparente](/pt/tutorial/como-configurar-o-mercado-pago-transparente-no-modulo-pagamentos--tutorials_4570), [Paypal Plus](/pt/tutorial/configurar-paypal-plus-paypal-transparente) e [Moip](/pt/tutorial/configurar-o-subadquirente-moip) são exemplos de soluções que permitem que o usuário insira os dados de pagamento e finalize a compra sem sair da sua loja. Entre suas principais vantagens estão o ganho em usabilidade e credibilidade para o seu negócio e o aumento de até 30% nas conversões.
+[Mercado Pago Transparente](/pt/docs/tutorials/configurar-o-subadquirente-mercadopagov2), [Paypal Plus](/pt/tutorial/configurar-paypal-plus-paypal-transparente) e [Moip](/pt/tutorial/configurar-o-subadquirente-moip) são exemplos de soluções que permitem que o usuário insira os dados de pagamento e finalize a compra sem sair da sua loja. Entre suas principais vantagens estão o ganho em usabilidade e credibilidade para o seu negócio e o aumento de até 30% nas conversões.
 
 ### Artigos relacionados
 - [Como configurar o Mercado Pago Transparente no módulo PCI](/pt/tutorial/como-configurar-o-mercado-pago-transparente-no-modulo-pci)

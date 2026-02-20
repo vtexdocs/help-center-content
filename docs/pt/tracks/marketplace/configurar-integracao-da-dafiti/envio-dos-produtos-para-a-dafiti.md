@@ -24,7 +24,7 @@ Para fazer o mapeamento, siga os passos abaixo:
 3. [Preencher a planilha de mapeamento](#3-preencher-a-planilha-de-mapeamento)
 4. [Fazer upload da planilha de mapeamento](#4-fazer-upload-da-planilha-de-mapeamento)
 
-> ⚠️ Para cadastrar um produto na VTEX, é obrigatório que você vincule o produto a uma marca. Entretanto, para evitar problemas com o envio de produtos, você deve [preencher](/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) o campo **Marca** do produto que será enviado com os nomes das marcas aceitas na Dafiti. Consulte o [glossário de marcas](https://www.dafiti.com.br/marcas/) da Dafiti para verificar as marcas aceitas.
+> ⚠️ Para cadastrar um produto na VTEX, é obrigatório que você vincule o produto a uma marca. Entretanto, para evitar problemas com o envio de produtos, você deve [preencher](/pt/docs/tutorials/adicionar-ou-editar-produto) o campo **Marca** do produto que será enviado com os nomes das marcas aceitas na Dafiti. Consulte o [glossário de marcas](https://www.dafiti.com.br/marcas/) da Dafiti para verificar as marcas aceitas.
 
 ## 1. Fazer download da planilha de consulta da Dafiti
 

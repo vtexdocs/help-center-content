@@ -28,4 +28,4 @@ Para configurar o Promissórias, siga os passos abaixo:
 6. Clique em `Salvar`.
 
 ## Configurar condição de pagamento
-Depois de seguir os passos indicados, o conector Promissórias vai estar configurado na sua loja. Assim, quando você for cadastrar uma Promissória (na aba __Pagamentos customizados__ da página de __Configurações__ do Pagamentos), ele vai estar disponível no campo __Processar com a afiliação__. Para saber como cadastrar pagamentos customizados, acesse [este artigo](/pt/tutorial/como-configurar-pagamento-customizado).
+Depois de seguir os passos indicados, o conector Promissórias vai estar configurado na sua loja. Assim, quando você for cadastrar uma Promissória (na aba __Pagamentos customizados__ da página de __Configurações__ do Pagamentos), ele vai estar disponível no campo __Processar com a afiliação__. Para saber como cadastrar pagamentos customizados, acesse [este artigo](/pt/docs/tutorials/como-configurar-pagamento-customizado).

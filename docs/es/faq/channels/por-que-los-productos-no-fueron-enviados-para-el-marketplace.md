@@ -18,7 +18,7 @@ El envío de productos para el marketplace pasa por dos grandes procesos: el pro
 
 ## Verifique el Integraciones
 
-Integraciones es el primer lugar que se debe considerar para entender el escenario. [Acceda y verifique el status de integración de cada producto](/es/tutorial/como-verificar-la-integracion-en-bridge).
+Integraciones es el primer lugar que se debe considerar para entender el escenario. [Acceda y verifique el status de integración de cada producto](/es/docs/tutorials/como-verificar-la-integracion-en-bridge).
 
 Si no tiene ningún registro, puede significar que la configuración no se ha realizado correctamente, por lo tanto [revalide la configuración de mercado](/es/tutorial/integrando-con-marketplace).
 
@@ -40,4 +40,4 @@ Normalmente, este proceso es manual y varía de marketplace a marketplace. Para 
 
 ## Como resolver
 
-Para todos los escenarios, la solución recomendada es [reprocesar el producto por el menu Integraciones](/es/tutorial/como-verificar-la-integracion-en-bridge).
+Para todos los escenarios, la solución recomendada es [reprocesar el producto por el menu Integraciones](/es/docs/tutorials/como-verificar-la-integracion-en-bridge).

@@ -15,13 +15,13 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Nova regra de desempate na VTEX prioriza sellers com entregas de menor distância até o comprador.'
 ---
 
-Pensando em aprimorar a experiência dos compradores, implementamos uma nova regra para o último critério de desempate na [alocação de pedidos na VTEX](/pt/tutorial/selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa). A partir de 07/07/2025, em vez de uma escolha aleatória, o desempate será determinado pela menor distância entre o seller e o comprador.
+Pensando em aprimorar a experiência dos compradores, implementamos uma nova regra para o último critério de desempate na [alocação de pedidos na VTEX](/pt/docs/tutorials/selecao-de-sellers-white-label). A partir de 07/07/2025, em vez de uma escolha aleatória, o desempate será determinado pela menor distância entre o seller e o comprador.
 
 ## O que mudou?
 
 O fluxo atual de alocação de pedidos segue as etapas abaixo:
 
-1. Eliminação de sellers que não atendem à [localidade do pedido](/pt/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw) ou não possuem estoque suficiente para pelo menos um item do carrinho.
+1. Eliminação de sellers que não atendem à [localidade do pedido](/pt/docs/tutorials/configurar-a-regionalizacao-de-sellers) ou não possuem estoque suficiente para pelo menos um item do carrinho.
 2. Redução do conjunto de sellers para até doze, considerando:
     * **Para entrega**: menor custo de frete e prazo.
     * **Para retirada**: menor custo de frete, prazo, e menor distância entre o comprador e o ponto de retirada.

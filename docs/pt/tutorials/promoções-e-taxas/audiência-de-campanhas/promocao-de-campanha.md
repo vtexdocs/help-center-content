@@ -27,7 +27,7 @@ Esse tipo de promoção inclui todas as possibilidades da Promoção Regular e o
 
 * Brinde entregue por *seller*
 
-Antes de criar uma promoção de campanha, é necessário criar a [audiência de campanha](/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K) para definir o público que será impactado. Com isso, é possível selecionar segmentos de clientes elegíveis e configurar os critérios que servirão como gatilho da promoção.
+Antes de criar uma promoção de campanha, é necessário criar a [audiência de campanha](/pt/docs/tutorials/criar-audiencia-de-campanha) para definir o público que será impactado. Com isso, é possível selecionar segmentos de clientes elegíveis e configurar os critérios que servirão como gatilho da promoção.
 
 **Exemplo:** Se você criar uma audiência de campanha cujo público-alvo seja de clientes que adicionam o produto A ao carrinho, poderá configurar a promoção de campanha para que esse público receba desconto no produto B.
 
@@ -150,5 +150,5 @@ Defina o número máximo de vezes que a promoção pode ser aplicada na loja ou 
 
 Defina nesta seção o destaque visual da promoção de campanha nos produtos exibidos na loja.
 
-* **Destacar promoção nos produtos:**  ative esta opção para exibir um selo promocional nos produtos afetados pela promoção. Para que o destaque funcione corretamente, é necessário[configurar a exibição no módulo CMS da loja](/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).  
+* **Destacar promoção nos produtos:**  ative esta opção para exibir um selo promocional nos produtos afetados pela promoção. Para que o destaque funcione corretamente, é necessário[configurar a exibição no módulo CMS da loja](/pt/docs/tutorials/configurando-promocao-com-destaque-flag).  
 * **Informações adicionais:** clique em `Criar` para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
-Nos marketplaces para os quais a VTEX desenvolveu um [conector nativo](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), por vezes ocorrem erros de integração de estoque. Este artigo reúne os erros mais comuns de integração de estoque com a Netshoes e orienta sobre como solucioná-los.
+Nos marketplaces para os quais a VTEX desenvolveu um [conector nativo](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-nativo-vtex), por vezes ocorrem erros de integração de estoque. Este artigo reúne os erros mais comuns de integração de estoque com a Netshoes e orienta sobre como solucioná-los.
 
 Existem mensagens que identificam quais são os erros. Você pode visualizá-las no Admin VTEX, em **MARKETPLACE > Conexões > Estoque**, clicando sobre a mensagem de processo com erro.
 
@@ -29,7 +29,7 @@ Seguem as mensagens mais comuns de erros de integração de estoque com a Netsho
 
 `Não foi possível localizar o mapeamento deste SKU na planilha`
 
-Este erro significa que o SKU não foi mapeado, ou que o mapeamento foi feito incorretamente. Para solucionar o problema, consulte o [Mapeamento de categorias, variações e atributos da Netshoes](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc), e realize o mapeamento do SKU.
+Este erro significa que o SKU não foi mapeado, ou que o mapeamento foi feito incorretamente. Para solucionar o problema, consulte o [Mapeamento de categorias, variações e atributos da Netshoes](/pt/docs/tracks/mapeamento-de-categorias-variacoes-e-atributos-da-netshoes), e realize o mapeamento do SKU.
 
 É necessário preencher sua _Planilha de Mapeamento_ com os termos exatos da _Planilha de Consulta na Netshoes_. Adotar palavras diferentes, ou variações de letras maiúsculas e minúsculas, ocasiona erros de mapeamento, pois a planilha é _case sensitive_.
 
@@ -51,7 +51,7 @@ ____
 
 `Este produto não possui descrição, que é um campo obrigatório para integrar produtos neste marketplace`
 
-No cadastro do seu produto na VTEX, um campo considerado obrigatório pelo marketplace não foi preenchido na etapa de [Mapeamento de categorias, variações e atributos da Netshoes](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc). Na mensagem de erro, trata-se da _Descrição do produto_.
+No cadastro do seu produto na VTEX, um campo considerado obrigatório pelo marketplace não foi preenchido na etapa de [Mapeamento de categorias, variações e atributos da Netshoes](/pt/docs/tracks/mapeamento-de-categorias-variacoes-e-atributos-da-netshoes). Na mensagem de erro, trata-se da _Descrição do produto_.
 
 Para solucionar o problema, acesse seu Admin VTEX, em **Catálogo > Produtos e SKUs**, e encontre o produto em questão. Você pode **Filtrar resultados ou fazer uma busca**, clicando sobre essa opção. Após identificar o produto, clique em **ALTERAR**. Ao visualizar a página de cadastro, [preencha o campo do produto](/pt/tutorial/campos-de-cadastro-de-produto) _Descrição do produto_, e depois clique em **Salvar**.
 
@@ -61,7 +61,7 @@ ____
 
 `Este Sku não possui peso cadastrado ou é inferior a 1 grama, que é um campo obrigatório para integrar produtos neste marketplace`
 
-Este erro ocorre porque o campo _Peso real_ do cadastro do SKU não foi preenchido ou isso não foi feito de forma correta, sendo que se trata de uma informação obrigatória para a Netshoes. A solução é acessar seu Admin VTEX, em **Catálogo > Produtos e SKUs**, e identificar o SKU da mensagem. Você pode **Filtrar resultados ou fazer uma busca**, clicando sobre essa opção. Uma vez na página do cadastro do SKU, [preencha o campo](/pt/tutorial/campos-de-cadastro-de-sku?locale=pt) _Peso real_ com um valor acima de 1g, e clique **Salvar**.
+Este erro ocorre porque o campo _Peso real_ do cadastro do SKU não foi preenchido ou isso não foi feito de forma correta, sendo que se trata de uma informação obrigatória para a Netshoes. A solução é acessar seu Admin VTEX, em **Catálogo > Produtos e SKUs**, e identificar o SKU da mensagem. Você pode **Filtrar resultados ou fazer uma busca**, clicando sobre essa opção. Uma vez na página do cadastro do SKU, [preencha o campo](/pt/tutorial/campos-de-cadastro-de-sku) _Peso real_ com um valor acima de 1g, e clique **Salvar**.
 
 ____
 
@@ -75,7 +75,7 @@ ____
 
 `A Marca XXX, cadastrada na planilha de mapeamento, não corresponde à um valor aceito pela Netshoes.`
 
-As mensagens indicam erros de mapeamento de valores. A tentativa de realizar uma correspondência entre o nome de um atributo do seu catálogo na VTEX, por exemplo, e o termo aceito pela Netshoes, não foi realizada com sucesso. Para solucionar o problema, consulte o [Mapeamento de categorias, variações e atributos da Netshoes](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc), e faça o mapeamento do atributo, variação ou categoria, conforme o  que aparece na mensagem.
+As mensagens indicam erros de mapeamento de valores. A tentativa de realizar uma correspondência entre o nome de um atributo do seu catálogo na VTEX, por exemplo, e o termo aceito pela Netshoes, não foi realizada com sucesso. Para solucionar o problema, consulte o [Mapeamento de categorias, variações e atributos da Netshoes](/pt/docs/tracks/mapeamento-de-categorias-variacoes-e-atributos-da-netshoes), e faça o mapeamento do atributo, variação ou categoria, conforme o  que aparece na mensagem.
 
 É necessário preencher sua _Planilha de Mapeamento da Netshoes_ com os termos exatos da _Planilha de Consulta na Netshoes_. Adotar palavras diferentes, ou variações de letras maiúsculas e minúsculas dos termos aceitos pelo marketplace, ocasiona erros de mapeamento.
 
@@ -85,7 +85,7 @@ ____
 
 `Os atributo(s) XXX é(são) obrigatório(s) e não foi(foram) encontrado(s) no Produto e nem no Sku`
 
-A Netshoes não aceita integração de itens com atributos obrigatórios não mapeados. A mensagem indica que o mapeamento do atributo não foi realizado, ou que isso não foi feito de forma correta. Para solucionar o problema, consulte o [Mapeamento de categorias, variações e atributos da Netshoes](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc), e realize o mapeamento do atributo descrito na mensagem de erro.
+A Netshoes não aceita integração de itens com atributos obrigatórios não mapeados. A mensagem indica que o mapeamento do atributo não foi realizado, ou que isso não foi feito de forma correta. Para solucionar o problema, consulte o [Mapeamento de categorias, variações e atributos da Netshoes](/pt/docs/tracks/mapeamento-de-categorias-variacoes-e-atributos-da-netshoes), e realize o mapeamento do atributo descrito na mensagem de erro.
 
 É necessário preencher sua _Planilha de Mapeamento da Netshoes_ com os valores exatos da _Planilha de Consulta na Netshoes_. Adotar palavras diferentes, ou variações de letras maiúsculas e minúsculas, ocasiona erros de mapeamento.
 
@@ -93,5 +93,5 @@ A Netshoes não aceita integração de itens com atributos obrigatórios não ma
 ### Saiba mais
 
 - [Integração com a Netshoes](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm)
-- [Controle de estoque mínimo para integrações](/pt/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D)
-- [Configurar o Alerta de Estoque Crítico](/pt/tutorial/configurar-o-alerta-de-estoque-critico--6FD0GHeQPCsKIMgkQ88SGu)
+- [Controle de estoque mínimo para integrações](/pt/docs/tutorials/controle-de-estoque-minimo-para-integracoes)
+- [Configurar o Alerta de Estoque Crítico](/pt/docs/tutorials/configurar-o-alerta-de-estoque-critico)

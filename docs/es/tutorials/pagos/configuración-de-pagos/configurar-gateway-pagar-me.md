@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Pagar.me es un [gateway](/es/tutorial/que-es-un-gateway-de-pagos) que ofrece diversas soluciones para procesar pagos en su tienda.
+Pagar.me es un [gateway](/es/docs/tutorials/que-es-un-gateway-de-pagos) que ofrece diversas soluciones para procesar pagos en su tienda.
 
 Para configurar Pagar.me, siga estos pasos:
 
@@ -34,4 +34,4 @@ Para configurar Pagar.me, siga estos pasos:
 
 ## Configurar la condición de pago
 Después de seguir los pasos indicados arriba, Pagar.me va a estar configurado en su tienda. Por lo tanto, cuando se registre una condición de pago, estará disponible en el campo __Procesar con la afiliación__ (siempre que el medio de pago sea compatible con Pagar.me).
-Para saber cómo definir condiciones de pago, acceda a [este artículo del Help](/es/tutorial/condiciones-de-pago).
+Para saber cómo definir condiciones de pago, acceda a [este artículo del Help](/es/docs/tutorials/condiciones-de-pago).

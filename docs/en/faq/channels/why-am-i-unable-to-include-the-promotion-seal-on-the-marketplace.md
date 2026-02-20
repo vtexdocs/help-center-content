@@ -24,4 +24,4 @@ Therefore, it has to be configured directly by the marketplace, in case there is
 
 ### Related articles
 
-[Setting up promotion for a marketplace](/en/tutorial/configurar-promocao-para-marketplace--tutorials_406)
+[Setting up promotion for a marketplace](/en/docs/tutorials/configuring-promotions-for-marketplaces)

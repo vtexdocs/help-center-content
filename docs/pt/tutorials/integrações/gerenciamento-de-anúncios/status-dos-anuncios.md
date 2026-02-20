@@ -78,7 +78,7 @@ Na lista de anúncios, existem colunas com as seguintes informações:
 | **Nome** | Apresenta a imagem do SKU, o título do anúncio no canal de venda e o ID do SKU na VTEX. |
 | **Marketplace** | Canal de venda para onde o anúncio foi enviado. |
 | **Preço** | Preço do SKU do anúncio. |
-| **Estoque** | Quantidade de itens em [estoque](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) para o SKU do anúncio. |
+| **Estoque** | Quantidade de itens em [estoque](/pt/docs/tutorials/estoque) para o SKU do anúncio. |
 | **Atualização** | Situação de processamento da atualização, que pode ser Atualizado <i class="far fa-check-circle"></i> ou Erro ao atualizar <div class="error-icon"></div>. |  
 
 É possível clicar sobre os nomes das colunas para ordenar os anúncios de forma crescente ou decrescente. Por exemplo, ao clicar sobre a coluna **Preço**, é possível ordenar a lista pelo menor preço do anúncio ou pelo maior.  
@@ -150,7 +150,7 @@ Na aba **Problemas**, a lista de anúncios é apresentada com as seguintes infor
 | **Nome** | Apresenta a imagem do SKU, o título do anúncio no canal de venda e o ID do SKU na VTEX. |
 | **Marketplace** | Canal de venda para onde o anúncio foi enviado. |
 | **Preço** | Preço do SKU do anúncio. |
-| **Estoque** | Quantidade de itens em [estoque](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) para o SKU do anúncio. |
+| **Estoque** | Quantidade de itens em [estoque](/pt/docs/tutorials/estoque) para o SKU do anúncio. |
 | **Problemas** | Número de problemas identificados no anúncio. |
 | **Envio** | Data que o anúncio foi enviado ao marketplace. |
 

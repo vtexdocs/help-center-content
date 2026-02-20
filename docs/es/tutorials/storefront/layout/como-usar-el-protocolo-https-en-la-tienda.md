@@ -21,7 +21,7 @@ Para cambiar la configuración de protocolo HTTP o HTTPS en las páginas de su t
 
 El módulo Layout abarca home, catálogo (búsqueda, categorías y productos), landing pages y otras páginas personalizadas.
 
-Es posible cambiar el protocolo en todas las carpetas de una sola vez con el uso de nuestra API, documentada [en esta colección de Postman](https://developers.vtex.com/reference/change-uri-schema).
+Es posible cambiar el protocolo en todas las carpetas de una sola vez con el uso de nuestra API, documentada [en esta colección de Postman](https://developers.vtex.com/docs/api-reference/legacy-cms-portal-api).
 
 > ⚠️ **Atención:** evite tener el protocolo HTTPS activado sólo en algunas páginas. Al acceder a una página HTTPS, luego ir a una página HTTP de la misma tienda, el navegador intentará leer sus recursos forzosamente en HTTPS, y esto puede generar problemas. Lo adecuado es activar el HTTPS en todo el sitio de una sola vez. Lo mismo vale para los sitios de desktop y mobile (website secundario), donde es necesario tratar el HTTPS de ambos al mismo tiempo.
 

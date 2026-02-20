@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 4HBbKdnwneGew2qGGykSM8
 ---
 
-Ao se integrar com um marketplace, é preciso definir quais produtos serão enviados para a venda nesta outra loja. [É possível enviar tanto todos os produtos quanto um catálogo personalizado](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/). Todas essas configurações são possíveis através da política comercial, que será abordada abaixo..
+Ao se integrar com um marketplace, é preciso definir quais produtos serão enviados para a venda nesta outra loja. [É possível enviar tanto todos os produtos quanto um catálogo personalizado](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace/). Todas essas configurações são possíveis através da política comercial, que será abordada abaixo..
 
 ## Definição do Sortimento de Produtos
 
@@ -25,7 +25,7 @@ Uma possibilidade é trabalhar todo o catálogo de produtos junto ao marketplace
 
 Esta política comercial não demanda uma coleção de produtos configurada, pois o sistema já entende que ela se refere a todos os produtos.
 
-Outra possibilidade é trabalhar com um sortimento específico por alguma política comercial diferenciada. Neste caso, será preciso criar e definir uma nova coleção de produtos e associá-la a uma nova [política comercial](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/).
+Outra possibilidade é trabalhar com um sortimento específico por alguma política comercial diferenciada. Neste caso, será preciso criar e definir uma nova coleção de produtos e associá-la a uma nova [política comercial](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace/).
 
 1. Clique em **Cadastro de Produtos**.
 2. Clique em **Produtos e SKUs**.
@@ -45,7 +45,7 @@ Isso porque a indexação é realizada quando há alterações no cadastro do pr
 
 O ato de criar uma coleção já seria o suficiente para a indexação dos produtos escolhidos para a exportação, pois quando você salva uma coleção ela indexa todos os produtos que estão associados a ela.
 
-Ou seja, finalizadas as configurações, vale salvar uma vez mais a respectiva coleção da política comercial do marketplace para [garantir a replicação dos novos produtos para o parceiro](/pt/tutorial/entendendo-o-funcionamento-da-indexacao).
+Ou seja, finalizadas as configurações, vale salvar uma vez mais a respectiva coleção da política comercial do marketplace para [garantir a replicação dos novos produtos para o parceiro](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao).
 
 Para conferir se o produto foi realmente indexado na política comercial do marketplace, realize os seguintes passos:
 
@@ -58,6 +58,6 @@ Para conferir se o produto foi realmente indexado na política comercial do mark
 
 Após a indexação é preciso que os produtos sejam catalogados no markerplace. O tempo para essa ação ser concluída depende do processo interno do marketplace.
 
-Se o marketplace for uma loja VTEX, basta fazer o [mapeamento de marcas e categorias](/pt/tutorial/mapeando-categorias-e-marcas-para-marketplace/) e a [aprovação de SKUs](/pt/tutorial/sugerindo-e-aprovando-skus/).
+Se o marketplace for uma loja VTEX, basta fazer o [mapeamento de marcas e categorias](/pt/docs/tutorials/mapeando-categorias-e-marcas-para-marketplace/) e a [aprovação de SKUs](/pt/docs/tutorials/sugerindo-e-aprovando-skus/).
 
 O acompanhamento de toda essa comunicação será registrada no VTEX Bridge.

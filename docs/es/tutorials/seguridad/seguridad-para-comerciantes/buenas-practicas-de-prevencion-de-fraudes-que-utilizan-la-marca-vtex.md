@@ -34,7 +34,7 @@ Es habitual que los estafadores intenten persuadirte para que actúes de inmedia
 
 ## Proteger credenciales de inicio de sesión
 
-Guarda las [claves de aplicación](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet), los [tokens de usuario](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) y las [credenciales de inicio de sesión](/es/tutorial/autenticacion--21CkKHLKP1o41lUpGhuRUs#login) en VTEX, como email, contraseña y códigos de acceso. Nunca compartas con terceros datos personales y confidenciales, información de la tienda, códigos u otra información sensible.
+Guarda las [claves de aplicación](/es/docs/tutorials/claves-de-api), los [tokens de usuario](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) y las [credenciales de inicio de sesión](/es/docs/tutorials/autenticacion#login) en VTEX, como email, contraseña y códigos de acceso. Nunca compartas con terceros datos personales y confidenciales, información de la tienda, códigos u otra información sensible.
 
 Los estafadores pueden intentar acceder a tu cuenta para realizar actividades fraudulentas en nombre de tu empresa. Antes de actuar o facilitar cualquier información, confirma que es realmente VTEX quien se está comunicando contigo.
 

@@ -15,7 +15,7 @@ trackSlugEN: customer-credit-como-comecar
 order: 1
 ---
 
-Nesta track você encontra o passo a passo para instalar e configurar a app Customer Credit. Para mais informações sobre esta app, acesse [Customer Credit - Visão geral](/pt/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0).
+Nesta track você encontra o passo a passo para instalar e configurar a app Customer Credit. Para mais informações sobre esta app, acesse [Customer Credit - Visão geral](/pt/docs/tutorials/customer-credit-visao-geral).
 
 Para instalar o Customer Credit em sua loja, siga os passos abaixo:
 

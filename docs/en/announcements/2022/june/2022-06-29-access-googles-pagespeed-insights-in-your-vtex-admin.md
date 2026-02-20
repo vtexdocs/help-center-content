@@ -41,7 +41,7 @@ Additionally, by combining PageSpeed Insights and Lighthouse on the same screen,
 
 ## What needs to be done?
 
-Webpage Performance is automatically available only for stores operating with the [Redesigned VTEX Admin](/en/announcements/welcome-to-the-redesigned-vtex-admin--5tLPBodp6Xu03vYdyBTGTa). To access it, on the side menu of your Admin, click on **Dashboards > Webpage Performance**. 
+Webpage Performance is automatically available only for stores operating with the [Redesigned VTEX Admin](/en/announcements/2022-06-13-welcome-to-the-redesigned-vtex-admin). To access it, on the side menu of your Admin, click on **Dashboards > Webpage Performance**. 
 
 If your store is still using previous Admin versions, [join the Beta program](https://content.vtex.com/join-new-admin-beta-program-en/?utm_source=announcement&utm_medium=help_center&utm_campaign=webpage_performance) for the Redesigned VTEX Admin to gain access to Web Page Performance.
 

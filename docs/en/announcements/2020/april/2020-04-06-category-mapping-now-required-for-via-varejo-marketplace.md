@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Make products more quickly available on the Via Varejo Marketplace by mapping categories, variations and attributes.'
 ---
 
-The product integration flow on the Via Varejo Marketplace was [modified in their API V4](https://desenvolvedores.viavarejo.com.br/api-portal/content/integracao) to enhance the quality of the information in advertised products. In order to adapt to this evolution, we have included an additional step to the Via Varejo Integration - [mapping categories, variations and attributes](/en/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY/5QVZFYNfuRIQKdq34MbTxz#fazendo-o-upload).
+The product integration flow on the Via Varejo Marketplace was [modified in their API V4](https://desenvolvedores.viavarejo.com.br/api-portal/content/integracao) to enhance the quality of the information in advertised products. In order to adapt to this evolution, we have included an additional step to the Via Varejo Integration - [mapping categories, variations and attributes](/en/docs/tracks/sending-products-to-via).
 
 ## What changed?
 
@@ -34,6 +34,6 @@ To ensure the best positioning and experience for our clients in the certified m
 
 ## What do you need to do?
 
-Map categories, variations and attributes according to our [documentation](/en/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY/5QVZFYNfuRIQKdq34MbTxz#fazendo-o-upload).
+Map categories, variations and attributes according to our [documentation](/en/docs/tracks/sending-products-to-via#fazendo-o-upload).
 
 > ℹ️ This process can be performed gradually according to your needs and only needs to be done once per category. Once a category and its variations/attributes are mapped, all products in that category will be integrated normally without requiring any additional action.

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2u48reCb68K48EAcm86ccM
 ---
 
-Na plataforma da VTEX, é possível exportar uma planilha com os [produtos cadastrados](/pt/tutorial/cadastrando-produtos--tutorials_2567) em uma loja.  
+Na plataforma da VTEX, é possível exportar uma planilha com os [produtos cadastrados](/pt/docs/tutorials/adicionar-ou-editar-produto) em uma loja.  
 
 A seguir, confira o passo a passo para realizar esta operação:
 

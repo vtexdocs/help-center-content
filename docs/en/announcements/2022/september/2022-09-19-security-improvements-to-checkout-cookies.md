@@ -39,7 +39,7 @@ You should contact the team responsible for the development of your website to r
 
 To access the Beta environment, follow the procedures below according to the Admin version (V3 or V4) used in your store:
 
-- **Admin V3**: [Accessing the beta environment through myvtex.com domain](/en/tutorial/accessing-the-beta-environment--3BHM289568gcSwk2O80Asu)
+- **Admin V3**: [Accessing the beta environment through myvtex.com domain](/en/docs/tutorials/accessing-the-beta-environment)
 
 - **Admin V4**: temporarily enable the `vtex-commerce-env` cookie as follows:
 

@@ -28,7 +28,7 @@ Para criar e configurar o site da sua loja Store Framework usando o CMS, você u
 
 ## Site Editor
 
-O **[Site Editor](/pt/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1)** é uma interface gráfica para o gerenciamento do conteúdo do storefront (frente de loja). Ele permite criar, editar, publicar e agendar mudanças nos seus componentes e no comportamento do storefront.
+O **[Site Editor](/pt/docs/tutorials/site-editor-visao-geral)** é uma interface gráfica para o gerenciamento do conteúdo do storefront (frente de loja). Ele permite criar, editar, publicar e agendar mudanças nos seus componentes e no comportamento do storefront.
 
 Por meio de uma interface intuitiva diretamente no Admin VTEX, o Site Editor reflete os blocos definidos no [Store Theme](https://developers.vtex.com/docs/guides/vtex-io-documentation-store-theme), possibilitando que qualquer pessoa altere o conteúdo e o layout da loja sem precisar editar o código.
 
@@ -36,9 +36,9 @@ Por meio de uma interface intuitiva diretamente no Admin VTEX, o Site Editor ref
 
 ## Layout - Sites and Channels
 
-Lojas desenvolvidas com Store Framework também devem configurar o [binding da loja](/pt/tutorial/what-is-cms-layout--EmO8u2WBj2W4MUQCS8262#binding), através da pasta **[Sites and channels](/pt/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262#sites-and-channels)** na seção **Layout** do Admin VTEX.
+Lojas desenvolvidas com Store Framework também devem configurar o [binding da loja](/pt/docs/tutorials/o-que-e-o-cms-layout#binding), através da pasta **[Sites and channels](/pt/docs/tutorials/o-que-e-o-cms-layout#sites-and-channels)** na seção **Layout** do Admin VTEX.
 
-Binding é o processo utilizado para vincular o seu site a uma loja. Para mais detalhes, consulte o artigo [Vincular uma loja a uma estrutura de pastas do CMS (binding)](/pt/tutorial/vincular-um-account-name-a-um-website-binding).
+Binding é o processo utilizado para vincular o seu site a uma loja. Para mais detalhes, consulte o artigo [Vincular uma loja a uma estrutura de pastas do CMS (binding)](/pt/docs/tutorials/vincular-um-account-name-a-um-website-binding).
 
 ![layout-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/cms/cms-vtex-io_2.png)
 
@@ -60,7 +60,7 @@ Essa seção também contém a página **Redirecionamentos**, que permite config
 
 ![cms-store-framework-redirecionamentos-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/cms/cms-vtex-io_4.png)
 
-Para saber mais sobre este módulo, acesse o tutorial de [Páginas](/pt/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc).
+Para saber mais sobre este módulo, acesse o tutorial de [Páginas](/pt/docs/tutorials/paginas-visao-geral).
 
 ## Estilos
 
@@ -68,7 +68,7 @@ Esta funcionalidade permite que você defina a tipografia e a paleta de cores do
 
 > ⚠️ Esse recurso só funciona em [workspaces de produção](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-production-workspace).
 
-Para saber como utilizar esse módulo, acesse o tutorial de [Estilos](/pt/tutorial/estilos-visao-geral--v0Db5ohEKSFIkTzSwCjVi).
+Para saber como utilizar esse módulo, acesse o tutorial de [Estilos](/pt/docs/tutorials/estilos-visao-geral).
 
 ## Mídia
 
@@ -76,10 +76,10 @@ Mídia é o módulo responsável por gerenciar os arquivos de mídia de sua loja
 
 ![cms-store-framework-media-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/cms/cms-vtex-io_5.png)
 
-Para saber mais sobre este módulo, acesse [Mídia- Visão geral](/pt/tutorial/midia-visao-geral--31fhjHTt4TBoo50AmGQ9b2).
+Para saber mais sobre este módulo, acesse [Mídia- Visão geral](/pt/docs/tutorials/midia-visao-geral).
 
 ## Saiba mais
 
-- **[Gerenciando conteúdo de página e template](/pt/tutorial/gerenciando-conteudo-de-pagina-e-template--3tMbx6HXy4Fy5r9EhboG37):** Construa a frente de sua loja de acordo com as necessidades de seu negócio, usando uma interface amigável a seu favor.
+- **[Gerenciando conteúdo de página e template](/pt/docs/tutorials/gerenciando-conteudo-de-pagina-e-template):** Construa a frente de sua loja de acordo com as necessidades de seu negócio, usando uma interface amigável a seu favor.
 
-- **[Gerenciando conteúdo por binding](/pt/tutorial/gerenciando-conteudo-por-binding--5CZjZPMqi0ZNpuqzF6AUOn):** Personalize estrategicamente a aparência da sua loja de acordo com a localização dos usuários para aumentar o acesso e as taxas de vendas.
+- **[Gerenciando conteúdo por binding](/pt/docs/tutorials/gerenciando-conteudo-por-binding):** Personalize estrategicamente a aparência da sua loja de acordo com a localização dos usuários para aumentar o acesso e as taxas de vendas.

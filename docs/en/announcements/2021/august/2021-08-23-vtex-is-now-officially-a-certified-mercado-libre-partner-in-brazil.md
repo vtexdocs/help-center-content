@@ -42,6 +42,6 @@ All new features introduced by the certification aim to increase sales and impro
 
 ## What needs to be done?
 
-Users that already use the VTEX-Mercado Libre integration can contact [VTEX support](/en/tutorials/how-does-vtex-support-work) for more details about the new improvements. 
+Users that already use the VTEX-Mercado Libre integration can contact [VTEX support](/en/docs/tutorials/how-does-vtex-support-work) for more details about the new improvements. 
 
 If your store is not integrated with Mercado Libre yet, check out our [Integration guide](/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq).

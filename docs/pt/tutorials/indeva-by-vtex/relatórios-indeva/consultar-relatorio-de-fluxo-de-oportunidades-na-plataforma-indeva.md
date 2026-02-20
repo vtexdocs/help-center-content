@@ -37,8 +37,8 @@ No relatório, você pode:
 
 Para mais detalhes sobre os gráficos utilizados, consulte os seguintes artigos:
 
-- [Entender o gráfico de fluxo de oportunidades](/pt/tutorial/relatorio-fluxo-de-oportunidades--3rsYzVeRgFotbDGa4LU716)  
-- [Entender o gráfico de fluxo de aproveitamento](/pt/tutorial/relatorio-fluxo-de-aproveitamento-indeva--51YCPbLw7v8ebeyGX9z623)
+- [Entender o gráfico de fluxo de oportunidades](/pt/docs/tutorials/acessar-e-analisar-relatorio-de-fluxo-de-oportunidades-na-plataforma-indeva)  
+- [Entender o gráfico de fluxo de aproveitamento](/pt/docs/tutorials/consultar-relatorio-de-fluxo-de-aproveitamento-na-plataforma-indeva)
 
 > ⚠️ Use o botão **Filtrar dados** para selecionar o período desejado. No campo **Dias da semana**, é possível filtrar por dias específicos.
 

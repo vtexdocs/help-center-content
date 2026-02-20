@@ -55,7 +55,7 @@ As transações serão liberadas normalmente quando o parceiro parar de apresent
 
 O tempo entre retentativas de processamento da transação (_retries_) pode ser definido pelo parceiro no momento do envio das informações de pagamento. Ao configurar o tempo para cancelamento do pagamento (campo `delayToCancel`) para um período menor que 1 dia, as retentativas serão realizadas a cada 1 hora. Se o tempo para cancelar o pagamento for definido como igual ou maior que 1 dia, as retentativas serão realizadas a cada 4 horas. Para mais informações, acesse [Create Payment endpoint](https://developers.vtex.com/docs/api-reference/payment-provider-protocol?endpoint=post-/payments).
 
-> ℹ️ Caso o pagamento seja realizado por [PIX](/pt/tutorial/configurar-pix-como-meio-de-pagamento--5sbNavMSJY4jyLmLKRHiOf) ou o tempo para cancelamento do pagamento seja configurado entre 5 minutos e 1 hora, as chamadas de retry ocorrerão a cada 5 minutos.
+> ℹ️ Caso o pagamento seja realizado por [PIX](/pt/docs/tutorials/configurar-pix-como-meio-de-pagamento) ou o tempo para cancelamento do pagamento seja configurado entre 5 minutos e 1 hora, as chamadas de retry ocorrerão a cada 5 minutos.
 
 ## Como identificar o mode-off e o que fazer quando ele estiver ligado?
 

@@ -26,9 +26,9 @@ Siga o passo a passo abaixo para cadastrar seus departamentos, categorias e subc
 3. Clique na categoria em que deseja adicionar categorias filhas.
 4. Um pequeno retângulo azul vai aparecer na tela. Clique em `Ações`.
 5. Clique em `Incluir`.
-6. Preencha os campos do formulário de categoria. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [como preencher campos de cadastro de categoria](/pt/tutorial/campos-de-cadastro-de-categoria--5Z7RrvW41yumyQCmk2iqoG). 
+6. Preencha os campos do formulário de categoria. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [como preencher campos de cadastro de categoria](/pt/docs/tutorials/cadastrar-uma-categoria). 
 7. Clique em `Salvar`.
 
 ## API
 
-Utilize a chamada [Create Category](https://developers.vtex.com/reference/catalog-api-category#catalog-api-post-category) para criar uma nova Categoria por meio da API do Catálogo.
+Utilize a chamada [Create Category](https://developers.vtex.com/docs/api-reference/catalog-api?endpoint=post-/api/catalog/pvt/category) para criar uma nova Categoria por meio da API do Catálogo.

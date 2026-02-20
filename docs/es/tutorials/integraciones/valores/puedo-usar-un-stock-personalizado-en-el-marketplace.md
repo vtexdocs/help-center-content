@@ -21,4 +21,4 @@ Ese inventario puede ser el mismo practicado en la tienda principal o un inventa
 
 ## Usando un inventario personalizado
 
-Configurar un inventario personalizado significa adoptar plazos y precios diferentes de todas las demás configuraciones de la tienda. Por lo tanto, será necesario configurar una [nueva política comercial](/es/tutorial/configurar-politica-comercial-para-marketplace/) y una [nueva regla de logística para marketplace](/es/tutorial/como-configurar-logistica-para-politica-comercial/).
+Configurar un inventario personalizado significa adoptar plazos y precios diferentes de todas las demás configuraciones de la tienda. Por lo tanto, será necesario configurar una [nueva política comercial](/es/docs/tutorials/configurar-politica-comercial-para-marketplace/) y una [nueva regla de logística para marketplace](/es/docs/tutorials/como-configurar-logistica-para-politica-comercial/).

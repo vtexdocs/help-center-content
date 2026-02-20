@@ -21,7 +21,7 @@ Acesse a [VTEX App Store](https://apps.vtex.com/).
 Procure pelo app Shopee.
 Clique no botão `Obter App`.
 Clique no botão `Confirmar`.
-Faça login na VTEX App Store com o seu [account name](/pt/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) na VTEX.
+Faça login na VTEX App Store com o seu [account name](/pt/docs/tutorials/o-que-e-account-name) na VTEX.
 Clique no botão `Fechar pedido`.
 Feito o download do app da Shopee, é necessário fazer a instalação do app na sua loja VTEX, clique no botão `Vá para a página de Instalação`.
 Clique no botão `Instalar`.

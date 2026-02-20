@@ -47,4 +47,4 @@ De este modo, en caso sea necesario, el administrador de la tienda deberá hacer
 - Operación integrada y automatizada.
  
 Para saber cómo configurar la integración con SkyHub/B2W, acceda a:
-https://help.vtex.com/es/tracks/configurar-integracion-b2w?locale=es
+https://help.vtex.com/es/tracks/configurar-integracion-b2w

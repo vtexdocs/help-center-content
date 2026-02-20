@@ -165,5 +165,5 @@ Serão feitos os disparos de eventos para quando o registro não passar pelos fi
 
 ## Exemplos
 
-- [Configurar Carrinho Abandonado](/pt/tutorial/configurando-carrinho-abandonado--tutorials_740)
+- [Configurar Carrinho Abandonado](/pt/docs/tutorials/configurar-carrinho-abandonado)
 

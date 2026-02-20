@@ -28,7 +28,7 @@ Para configurar PayPalCheckout, siga os passos abaixo:
 7. Em **Campos do provedor**, selecione ou preencha os campos **FraudNet - Source Web Id**, **Enable STC**, **High Risk Transaction**, **STC Merchant Id**, **Vertical**, **Locale**, **Sandbox**, **Force login (ACDC)**, **Display Powered by PayPal Logo (ACDC)**, **Language**, **AutoClick (Checkout & BCDC)**, **Installments rules**, **T&C Checkbox identifier**, **Invoice ID**, **Account type** e **Groceries or Subscriptions** conforme orientações do provedor.
 8. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela PayPalCheckout, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela PayPalCheckout, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

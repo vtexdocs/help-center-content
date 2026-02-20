@@ -14,7 +14,7 @@ locale: pt
 legacySlug: o-que-fazer-quando-ha-problemas-com-uma-transacao
 ---
 
-Para conseguir resolver rapidamente um problema envolvendo transações, recomendamos que o lojista esteja a par da estrutura de *logs* nos detalhes das transações no Admin da VTEX. Veja [aqui](/pt/tutorial/como-visualizar-detalhes-do-pedido/) como visualizar uma transação.
+Para conseguir resolver rapidamente um problema envolvendo transações, recomendamos que o lojista esteja a par da estrutura de *logs* nos detalhes das transações no Admin da VTEX. Veja [aqui](/pt/docs/tutorials/como-visualizar-detalhes-do-pedido/) como visualizar uma transação.
 
 No *log* ficam registradas todas as interações entre VTEX e o parceiro, seja o gateway ou o antifraude. Começando da parte inferior da página até a parte superior, onde estão as interações mais recentes.
 

@@ -21,7 +21,7 @@ Você pode fazer com que, ao buscar pelo nome de uma coleção na busca da loja,
 
 Por exemplo: digamos que você tenha uma coleção chamada "Dia das crianças", e que você marque esta coleção como buscável. Se um cliente da loja buscar pelo termo "Dia das crianças", os produtos que fazem parte dessa coleção serão renderizados no resultado de busca.
 
-> ⚠️ **Atenção:** existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à [configuração de coleções por meio do CMS](/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L).
+> ⚠️ **Atenção:** existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à [configuração de coleções por meio do CMS](/pt/docs/tutorials/cadastro-de-colecoes-cms).
 
 Para tornar uma coleção buscável, siga os passos abaixo:
 

@@ -18,7 +18,7 @@ To make a product already sold in an order unavailable to other customers, we us
 
 Such reservation is performed in three stages, but with only two status. And what causes a lot of confusion in most sellers, is why that reservation is still active, if the order was already invoiced. 
 
-[Understand how the reservation works](/en/tutorial/how-does-reservation-work).
+[Understand how the reservation works](/en/docs/tutorials/how-does-reservation-work).
 
 However, a reserved item never comes out of the reserved status automatically. 
 

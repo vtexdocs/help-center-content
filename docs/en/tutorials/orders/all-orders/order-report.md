@@ -15,15 +15,15 @@ locale: en
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-When you export an order report on the [All Orders](/en/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi) page, the system generates a report in `.csv` format containing details about the orders placed in your store.
+When you export an order report on the [All Orders](/en/docs/tutorials/all-orders) page, the system generates a report in `.csv` format containing details about the orders placed in your store.
 
-Each row in the spreadsheet refers to a [SKU](/en/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u). For example, if an order contains 3 SKUs, it will be listed in 3 rows of the report, each dedicated to data of one SKU.
+Each row in the spreadsheet refers to a [SKU](/en/docs/tutorials/what-is-an-sku). For example, if an order contains 3 SKUs, it will be listed in 3 rows of the report, each dedicated to data of one SKU.
 
 > ℹ️ The order report link is available for download for six hours.
 
 Each column corresponds to specific information, as described below.
 
-*    **Origin**: indicates if the order comes from a [marketplace or fulfillment](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402).
+*    **Origin**: indicates if the order comes from a [marketplace or fulfillment](/en/docs/tutorials/marketplace-strategies-at-vtex).
 *    **Order**: the order ID, which appears on the order attributes page, in the Orders management module.
 *    **Sequence**: numeric sequence of the order transaction.
 *    **Creation Date**: date and time when the customer placed the order.
@@ -88,8 +88,8 @@ Each column corresponds to specific information, as described below.
 *    **Seller Order Id**: the order ID on the seller, in case the sale was made through a marketplace.
 *   **Acquirer**: acquirer involved in the transaction.
 *   **Authorization Id**: authorization ID.
-*    **TID**: [transaction ID](/en/tutorial/como-achar-nsu-e-tid-do-pedido--frequentlyAskedQuestions_477) of the order.
-*    **NSU:** order's [unique number sequence](/en/tutorial/como-achar-nsu-e-tid-do-pedido--frequentlyAskedQuestions_477)
+*    **TID**: [transaction ID](/en/docs/tutorials/how-do-i-find-the-order-nsu-and-tid) of the order.
+*    **NSU:** order's [unique number sequence](/en/docs/tutorials/how-do-i-find-the-order-nsu-and-tid)
 *    **Card First Digits**: the first six digits of the card used to make the purchase.
 *    **Card Last Digits**: the last four digits of the card used to make the purchase.
 *    **Payment Approved By**: email of the person that approved the payment (applicable when the approval was made manually).

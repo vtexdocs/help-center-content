@@ -43,7 +43,7 @@ A busca utilizando esses códigos necessariamente precisa conter todos os dígit
 
 ![Códigos PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transações/transacoes-como-buscar_2.png)
 
-Estes valores, dentro do detalhe da transação representarão a comunicação junto ao respectivo conector. Nos [eventos da transação](/pt/tutorial/como-visualizar-detalhes-do-pedido) será possível validar cada contato feito.
+Estes valores, dentro do detalhe da transação representarão a comunicação junto ao respectivo conector. Nos [eventos da transação](/pt/docs/tutorials/como-visualizar-detalhes-do-pedido) será possível validar cada contato feito.
 
 ## Nome do cliente
 

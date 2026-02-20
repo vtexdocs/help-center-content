@@ -16,11 +16,11 @@ subcategoryId: 31ICVopiWZfSTdr9jZMShb
 order: 1
 ---
 
-**Faturas** é a página onde você administra todos os aspectos financeiros da sua conta VTEX. Ela só está disponível para usuários com um [perfil de acesso Financeiro](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc). Para visualizar, editar ou executar qualquer ação nessa página, solicite a permissão do proprietário da sua loja.
+**Faturas** é a página onde você administra todos os aspectos financeiros da sua conta VTEX. Ela só está disponível para usuários com um [perfil de acesso Financeiro](/pt/docs/tutorials/perfis-de-acesso). Para visualizar, editar ou executar qualquer ação nessa página, solicite a permissão do proprietário da sua loja.
 
 Para acessar essa página, clique no seu **avatar**, que pode ser identificado pela inicial do seu email, e clique no botão **Faturas**. Selecione a aba que você deseja visitar, como **Contratos, Títulos, Dados de registro e Contatos de faturamento**.
 
-> ℹ️ Somente usuários com o perfil de acesso [Finance](/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance), [Finance Full Access](/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance-full-access) ou com recursos de [Billing](/pt/tutorial/recursos-do-license-manager-billing--13qKy6rwf9chc8ta90rDcy) vinculados ao seu perfil de acesso terão acesso a essa seção do Admin VTEX.
+> ℹ️ Somente usuários com o perfil de acesso [Finance](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance), [Finance Full Access](/pt/docs/tutorials/perfis-de-acesso-predefinidos#finance-full-access) ou com recursos de [Billing](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3#) vinculados ao seu perfil de acesso terão acesso a essa seção do Admin VTEX.
 
 ![Admin v4 Faturas menu PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/faturas/faturas-visão-geral/visao-geral-faturas_1.jpg)
 

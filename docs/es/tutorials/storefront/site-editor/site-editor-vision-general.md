@@ -39,11 +39,11 @@ En el Admin VTEX, accede **Storefront > Site Editor** y verifica las principales
 
 Consulta los siguientes tutoriales para empezar a gestionar el contenido de tu tienda:
 
-- [Gestionar contenido de páginas y templates](/es/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37)
-- [Mejorar el SEO de las Páginas de lista de productos](/es/tutorial/improving-the-seo-of-product-listing-pages--UrQtlKAMuSaLBP5wG9ftG)
-- [Reutilización de imágenes con Image Widget](/es/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov)
-- [Vinculando las URL en banners utilizando Site Editor](/es/tutorial/linking-urls-to-banners-using-the-site-editor--4z2PagtN733waiWA8ttOuD)
+- [Gestionar contenido de páginas y templates](/es/docs/tutorials/gestionar-contenido-de-paginas-y-templates)
+- [Mejorar el SEO de las Páginas de lista de productos](/es/docs/tutorials/mejorar-el-seo-de-las-paginas-de-lista-de-productos)
+- [Reutilización de imágenes con Image Widget](/es/docs/tutorials/image-widget)
+- [Vinculando las URL en banners utilizando Site Editor](/es/docs/tutorials/vinculando-las-url-en-banners-utilizando-site-editor)
 - [Crear páginas de destino según el binding](/es/tutorial/creating-landing-pages-per-binding--3LQAoWx77P3gNoqI2Rtl5A?&utm_source=autocomplete)
-- [Gestionar el contenido según el binding](/es/tutorial/managing-content-per-binding--5CZjZPMqi0ZNpuqzF6AUOn)
-- [Gestionar redirecciones según el binding](/es/tutorial/managing-redirects-per-binding--67GAK2TCQgjvmtPXxAqREb)
+- [Gestionar el contenido según el binding](/es/docs/tutorials/gestionar-el-contenido-segun-el-binding)
+- [Gestionar redirecciones según el binding](/es/docs/tutorials/administrando-redireccionamientos-de-url-por-binding)
 

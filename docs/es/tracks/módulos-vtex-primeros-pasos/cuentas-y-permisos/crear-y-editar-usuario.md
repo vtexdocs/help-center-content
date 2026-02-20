@@ -24,7 +24,7 @@ Es en esta sección donde registramos quién puede acceder al ambiente administr
 1. En el módulo Gestión de la Cuenta, haga clic en la pestaña **Usuarios**.
 2. Haga clic en el botón **Nuevo usuario**.
 3. Complete el **Correo electrónico** y el **Nombre completo**.
-4. Agregue o cree los [roles](/es/tutorial/gerenciando-usuarios--tutorials_512) deseados.
+4. Agregue o cree los [roles](/es/docs/tutorials/gestionar-usuarios-administradores) deseados.
 5. Haga clic en el botón **Guardar**.
 
 El usuario recibirá un correo electrónico confirmando el registro, con un enlace para registrar la contraseña de acceso.

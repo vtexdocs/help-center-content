@@ -18,7 +18,7 @@ order: 6
 Hay tres formas de registrar un precio base:
 
 - A través del Admin
-- [Por plantilla](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D)
+- [Por plantilla](/es/docs/tracks/exportacion-e-importacion-mediante-la-plantilla-de-precios)
 - Por API REST
 
 Siga el procedimiento a continuación para registrar los precios base de sus SKUs: 

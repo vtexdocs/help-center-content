@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6pbaGm24tlXta7TKTtMc5l
 ---
 
-O aplicativo móvel do [VTEX Tracking](/pt/tutorial/visao-geral-vtex-tracking--1uDRquVudbPuoK05MtbZGh) é um dos componentes da solução VTEX voltada para o  monitoramento de entregas de uso exclusivo do portador ou motorista.  O aplicativo dispõe das seguintes funcionalidades:
+O aplicativo móvel do [VTEX Tracking](/pt/docs/tutorials/visao-geral-vtex-tracking) é um dos componentes da solução VTEX voltada para o  monitoramento de entregas de uso exclusivo do portador ou motorista.  O aplicativo dispõe das seguintes funcionalidades:
 
 - Informações sobre rota e entrega.
 - [Como fazer uma entrega](#como-fazer-uma-entrega):
@@ -39,7 +39,7 @@ Para instalar o aplicativo:
 
 ## Como acessar
 
-Somente portadores estão habilitados para utilizar o aplicativo móvel. Portanto, é necessário que o cadastro como portador seja previamente feito na plataforma web do VTEX Tracking pela empresa de serviço de entrega. Verifique o artigo [Portadores VTEX Tracking](/pt/tutorial/portadores-vtex-tracking--5tVSpunaXVT6gQDSl9jTow) para instruções de como cadastrar portadores.
+Somente portadores estão habilitados para utilizar o aplicativo móvel. Portanto, é necessário que o cadastro como portador seja previamente feito na plataforma web do VTEX Tracking pela empresa de serviço de entrega. Verifique o artigo [Portadores VTEX Tracking](/pt/docs/tutorials/portadores-vtex-tracking) para instruções de como cadastrar portadores.
 
 Com os dados do cadastro em mãos, siga as instruções abaixo para acesso:
 

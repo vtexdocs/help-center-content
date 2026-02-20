@@ -15,7 +15,7 @@ trackSlugEN: configurar-integracao-da-b2w
 order: 1
 ---
 
-A B2W e as Lojas Americanas fizeram uma fusão, dando origem ao Americanas Marketplace. Através do [conector nativo](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex) da VTEX, é possível integrar com a B2W e aumentar seus canais de venda. 
+A B2W e as Lojas Americanas fizeram uma fusão, dando origem ao Americanas Marketplace. Através do [conector nativo](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-nativo-vtex) da VTEX, é possível integrar com a B2W e aumentar seus canais de venda. 
 
 Para dar início à integração, o primeiro passo é fazer o [cadastro da sua loja](https://americanasmarketplace.com.br/v3/registre-se/vtex?utm_source=vtex&utm_medium=vtex_homepage&utm_campaign=parceiro_vtex_cadastro) no portal da Americanas. Feito isso, realize seu cadastro na [SkyHub](https://ajuda.skyhub.com.br/hc/pt-br).
 
@@ -23,10 +23,10 @@ Para dar início à integração, o primeiro passo é fazer o [cadastro da sua l
 
 Uma vez recebida a confirmação do Americanas Marketplace, prossiga com as configurações no ambiente VTEX:
 
-- [Configurar política comercial para marketplace](/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk/4rbhQuuWlUvOp4oOeBlbiC)
-- [Definir Estratégia de Envio](/pt/tracks/--6w07SJBVqE020KIOOS8ygk/5C5Jb5kSZKjl8NyPLWTJBO)
-- [Configurar regra de Divergência de valores](/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk/1AfMKDQWtC7iDDV6reEDog)
-- [Configurar conector](/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk/40eYElt1qwIqGeIeum2W4M)
-- [Cadastrar API de frete](/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk/3W7OqhHUl2CQKIsAc0SS4g)
+- [Configurar política comercial para marketplace](/pt/docs/tracks/configurar-politica-comercial-para-marketplace-skyhub-b2w)
+- [Definir Estratégia de Envio](/pt/docs/tracks/definir-estrategia-de-envio-b2w)
+- [Configurar regra de Divergência de valores](/pt/docs/tracks/configurar-regra-de-divergencia-de-valores)
+- [Configurar conector](/pt/docs/tracks/configurar-conector-b2w)
+- [Cadastrar API de frete](/pt/docs/tracks/cadastrar-api-de-frete)
 
-Feito isso, a integração terá sido concluída. No último artigo desta trilha de conteúdo, o [Sobre a integração com a B2W](/pt/tracks/--6w07SJBVqE020KIOOS8ygk/5hHCiAMHih2lc5xb3A5Ohp), serão apresentados pontos relacionados ao funcionamento de pedidos e serviços de entrega exclusivos do marketplace.
+Feito isso, a integração terá sido concluída. No último artigo desta trilha de conteúdo, o [Sobre a integração com a B2W](/pt/docs/tracks/sobre-a-integracao-com-a-b2w), serão apresentados pontos relacionados ao funcionamento de pedidos e serviços de entrega exclusivos do marketplace.

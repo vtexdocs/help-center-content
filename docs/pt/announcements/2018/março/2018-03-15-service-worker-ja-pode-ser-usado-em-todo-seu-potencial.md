@@ -21,4 +21,4 @@ Na prática, a atualização das permissões do __Service Worker__ amplia as pos
 
 > ⚠️ **Atenção:**<br> A plataforma VTEX **não** possui features nativas para transformar sua loja em PWA. Ela apenas oferece as condições para que essa implementação seja feita.
 
-Para saber como instalar o __Service Worker__ na sua loja, leia [este artigo do Help](/pt/tutorial/como-instalar-um-service-worker).
+Para saber como instalar o __Service Worker__ na sua loja, leia [este artigo do Help](/pt/docs/tutorials/como-instalar-um-service-worker).

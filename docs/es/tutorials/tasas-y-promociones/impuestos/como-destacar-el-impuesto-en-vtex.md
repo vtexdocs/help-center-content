@@ -17,7 +17,7 @@ subcategoryId: 18Gsips3u48UYCu0Ku2sWm
 
 Muchas veces es necesario enviar al Gateway o a tu ERP el precio del item ya con el impuesto desclosado, o sea, separado al precio del item.
 
-Para eso usted puede utlizar la configuración de impuestos en el [__Pricing__](/es/tutorial/creando-la-tasaimpuesto).
+Para eso usted puede utlizar la configuración de impuestos en el [__Pricing__](/es/docs/tutorials/creando-la-tasaimpuesto).
 
 En este artículo vamos a mostrar como el sistema funciona para estos casos.
 

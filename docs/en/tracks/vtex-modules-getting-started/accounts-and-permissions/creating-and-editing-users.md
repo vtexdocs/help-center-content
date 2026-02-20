@@ -24,7 +24,7 @@ This is where we register the users that can access the administrative environme
 1. In the Account Management module, click on the **Users** tab.
 2. Click on the **New User** button.
 3. Enter the **Email** and **Full name**.
-4. Add or create the [roles](/en/tutorial/gerenciando-usuarios--tutorials_512) you want.
+4. Add or create the [roles](/en/docs/tutorials/managing-admin-users) you want.
 5. Click on the **Save** button.
 
 The user will receive an email confirming the registration, with a link to create a password.

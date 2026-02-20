@@ -17,7 +17,7 @@ announcementSynopsisPT: 'A certificação assegura que a VTEX oferece funcionali
 
 O Mercado Livre é um dos líderes do ecommerce na América Latina, oferecendo soluções de comércio eletrônico para que pessoas e empresas possam comprar, vender, pagar, anunciar e enviar produtos por meio da internet.
 
-A integração com o Mercado Livre é uma oportunidade de alavancar o alcance dos seus produtos se beneficiando da base de clientes que o marketplace possui. Utilizando o [conector nativo VTEX do Mercado Livre](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), é possível gerenciar todo o negócio através de um único painel, além de ter a usabilidade e integridade garantida. Como parceiro certificado, a integração estará sempre atualizada com as mais novas funcionalidades que o Mercado Livre disponibiliza.
+A integração com o Mercado Livre é uma oportunidade de alavancar o alcance dos seus produtos se beneficiando da base de clientes que o marketplace possui. Utilizando o [conector nativo VTEX do Mercado Livre](/pt/docs/tutorials/estrategias-de-marketplace-na-vtex#integrado-a-conector-nativo-vtex), é possível gerenciar todo o negócio através de um único painel, além de ter a usabilidade e integridade garantida. Como parceiro certificado, a integração estará sempre atualizada com as mais novas funcionalidades que o Mercado Livre disponibiliza.
 
 Atualmente, além do Brasil, a VTEX é um parceiro integrador certificado do Mercado Livre nos seguintes países da América Latina:
 

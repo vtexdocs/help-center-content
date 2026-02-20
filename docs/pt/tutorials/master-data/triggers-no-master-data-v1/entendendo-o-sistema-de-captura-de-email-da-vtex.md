@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2nx7hMJmisofwqwy2P9l2i
 ---
 
-O objetivo deste artigo é mostrar como o e-mail de um usuário é recebido no CRM do [Master Data](/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw). Para isto, será demonstrado como o **Checkout**, **RC.JS** e **Master Data** trabalham em conjunto para capturar as informações de e-mail de um novo usuário.
+O objetivo deste artigo é mostrar como o e-mail de um usuário é recebido no CRM do [Master Data](/pt/docs/tutorials/master-data). Para isto, será demonstrado como o **Checkout**, **RC.JS** e **Master Data** trabalham em conjunto para capturar as informações de e-mail de um novo usuário.
 
 Para melhor compreensão, iremos apresentar um cenário (dividido em 3 etapas), onde o usuário conclui sua compra com sucesso e o pedido é encaminhado ao OMS, enquanto o seu e-mail é transmitido de forma segura para o Master Data. Neste contexto, as ações do usuário e o fluxo da plataforma ocorrem na seguinte ordem:
 

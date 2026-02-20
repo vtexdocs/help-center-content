@@ -157,12 +157,12 @@ Os dados de Marketplace in estão intimamente ligados aos dados de pedidos, prop
 
 ### Conheça outros Conjuntos de dados  
 
-- [Catálogo](/pt/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
-- [Inventário](/pt/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)  
-- [Navegação](/pt/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)  
-- [Pagamentos](/pt/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
-- [Pedidos](/pt/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
-- [Preços](/pt/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-- [Promoções](/pt/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Vale-presente](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Logs do bridge](/pt/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Catálogo](/pt/docs/tutorials/catalogo-data-pipeline)
+- [Inventário](/pt/docs/tutorials/inventario-data-pipeline-beta)  
+- [Navegação](/pt/docs/tutorials/navegacao-data-pipeline-beta)  
+- [Pagamentos](/pt/docs/tutorials/pagamentos-data-pipeline-beta)  
+- [Pedidos](/pt/docs/tutorials/pedidos-data-pipeline-beta) 
+- [Preços](/pt/docs/tutorials/precos-data-pipeline-beta)  
+- [Promoções](/pt/docs/tutorials/promocoes-data-pipeline-beta)
+- [Vale-presente](/pt/docs/tutorials/vale-presente-data-pipeline)
+- [Logs do bridge](/pt/docs/tutorials/logs-do-bridge-data-pipeline)

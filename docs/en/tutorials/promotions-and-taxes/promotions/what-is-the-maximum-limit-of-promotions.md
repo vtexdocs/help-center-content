@@ -17,8 +17,8 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 
 Nowadays, we have a limitation on the number of active promotions, taxes and coupons.
 
-- [Promotions](/en/tutorial/como-criar-promocoes--tutorials_320): 100
-- [Taxes](/en/tutorial/creating-surchargestaxes): 100
+- [Promotions](/en/docs/tutorials/creating-promotions): 100
+- [Taxes](/en/docs/tutorials/creating-surchargestaxes): 100
 - [Coupons](/en/tutorial/creating-a-coupon/): 50.000
 
 Only active promotions, taxes or coupons are counted when calculating this limit, which means that archived promotions, taxes or coupons are not considered.

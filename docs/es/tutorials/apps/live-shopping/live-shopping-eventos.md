@@ -109,7 +109,7 @@ Para gestionar el chat en vivo durante tu evento, busca el evento deseado en la 
 * **VII - Seleccionar mensaje**: selecciona el mensaje a ser respondido. Haz clic en este ícono para enviar una respuesta al mensaje seleccionado.
 * **VIII - Enviar**: Envía un mensaje de chat para interactuar activamente con los espectadores y participantes durante el evento. Escribe tu mensaje en el campo de entrada y haz clic en el ícono de enviar.
 
-Además, también puedes [enviar preguntas y encuestas](/es/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch#enviar-preguntas-y-encuestas) y[ bloquear palabras no deseadas](/es/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch#bloquear-palabras-no-deseadas).
+Además, también puedes [enviar preguntas y encuestas](/es/docs/tutorials/live-shopping-eventos#enviar-preguntas-y-encuestas) y[ bloquear palabras no deseadas](/es/docs/tutorials/live-shopping-eventos#bloquear-palabras-no-deseadas).
 
 #### Enviar preguntas y encuestas
 
@@ -143,7 +143,7 @@ Para acceder al estudio de streaming sigue los pasos a continuación:
 
 ### Mostrar productos durante el evento en vivo
 
-Cuando [creas un nuevo evento](/es/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch#crear-nuevo-evento), tienes la opción de agregar el ID de la colección de productos que se vinculará al evento de transmisión en vivo. En la sección **Productos de la colección** puedes gestionar los productos que se mostrarán durante el evento.
+Cuando [creas un nuevo evento](/es/docs/tutorials/live-shopping-eventos#crear-nuevo-evento), tienes la opción de agregar el ID de la colección de productos que se vinculará al evento de transmisión en vivo. En la sección **Productos de la colección** puedes gestionar los productos que se mostrarán durante el evento.
 
 Para mostrar productos durante el evento en vivo sigue estos pasos:
 

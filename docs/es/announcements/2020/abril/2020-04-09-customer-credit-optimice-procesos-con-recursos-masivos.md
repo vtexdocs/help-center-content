@@ -40,5 +40,5 @@ En el caso de los títulos, basta con actualizar la información dispuesta en la
 
 Además, cabe señalar que los dos nuevos recursos no excluyen la posibilidad de que el administrador de la tienda haga alteraciones manualmente. Es decir, la actualización de información se puede hacer a través del Admin, plantilla o API.
 
-Para saber cómo utilizar las dos nuevas funcionalidades, [consulte nuestra guía sobre Customer Credit](/es/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs), donde podrá encontrar el paso a paso de ambos procesos.
+Para saber cómo utilizar las dos nuevas funcionalidades, [consulte nuestra guía sobre Customer Credit](/es/docs/tracks/instalar-customer-credit), donde podrá encontrar el paso a paso de ambos procesos.
 

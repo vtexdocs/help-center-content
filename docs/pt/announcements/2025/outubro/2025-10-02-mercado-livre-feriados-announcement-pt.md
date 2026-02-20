@@ -30,5 +30,5 @@ Ao configurar os dias não úteis na integração, o seller evita penalizações
 
 ## O que precisa ser feito?
 
-A funcionalidade está disponível desde 30 de setembro de 2025 para todas as contas VTEX que utilizam a integração com o Mercado Livre. Para saber como utilizar, acesse o tutorial [Mercado Livre Feriados](/pt/tutorial/mercado-livre-feriados--4dFhFvy6QBPexqSd8u0vIR).
+A funcionalidade está disponível desde 30 de setembro de 2025 para todas as contas VTEX que utilizam a integração com o Mercado Livre. Para saber como utilizar, acesse o tutorial [Mercado Livre Feriados](/pt/docs/tutorials/mercado-livre-feriados).
 

@@ -74,9 +74,9 @@ Uma nova senha, com caracteres gerados aleatoriamente, será definida. Ela apare
 - **Nome de usuário:** (obrigatório) nome do usuário a ser cadastrado.
 - **e-mail** (obrigatório) e-mail do usuário para realizar o login na sua conta.
 - **Senha:** (obrigatório) defina uma senha para acesso à sua conta.
-- **Parceiro:** cadastrado anteriormente. Só preencha se for configurar um perfil de um Parceiro. Confira como [cadastrar um parceiro](/pt/tutorial/parceiros-vtex-tracking--2xEHQ98hoMzgkrdhkpOedQ).
-- **Filial:** cadastrada anteriormente. Só preencha se for configurar um perfil de uma Filial. Confira como [cadastrar uma filial](/pt/tutorial/filial-vtex-tracking--6mD8L390WPORidxGp9TKfp).
-- **Transportadora:** cadastrada anteriormente. Só preencha se for configurar um perfil de uma Transportadora. Confira como [cadastrar uma transportadora](/pt/tutorial/transportadoras-vtex-tracking--2HVE5D2fheT4cDPjiApL1Y).
+- **Parceiro:** cadastrado anteriormente. Só preencha se for configurar um perfil de um Parceiro. Confira como [cadastrar um parceiro](/pt/docs/tutorials/parceiros-vtex-tracking).
+- **Filial:** cadastrada anteriormente. Só preencha se for configurar um perfil de uma Filial. Confira como [cadastrar uma filial](/pt/docs/tutorials/filial-vtex-tracking).
+- **Transportadora:** cadastrada anteriormente. Só preencha se for configurar um perfil de uma Transportadora. Confira como [cadastrar uma transportadora](/pt/docs/tutorials/transportadoras-vtex-tracking).
 - **Inativo:** marque a caixa de seleção para desativar o acesso do usuário. 
 
 #### Configurações de Chat

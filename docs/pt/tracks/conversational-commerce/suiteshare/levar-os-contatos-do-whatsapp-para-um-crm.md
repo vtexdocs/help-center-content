@@ -17,13 +17,13 @@ order: 5
 
 Você captura os Leads que chegam no seu WhatsApp, divulga os links, inseriu o chat no site, mas não consegue trabalhar com esses clientes no seu CRM?
 
-Mas, se você caiu de paraquedas neste artigo, sugiro que antes acesse: [Como começar na VTEX Assisted Sales (SuiteShare)](/pt/tracks/suitshare--khP0p8mjIYRIpvM7Cb4Zr/2JIhYGumvHRHI1WY5iMYN0), [Levar os visitantes do meu site e redes sociais para o WhatsApp](/pt/tracks/suitshare--khP0p8mjIYRIpvM7Cb4Zr/5dA25l9g68S9RzXrq1rEsq) e o mais importante: [Capturar dados do lead antes de iniciar uma conversa no WhatsApp](/pt/tracks/suitshare--khP0p8mjIYRIpvM7Cb4Zr/5dcakrZEc8aOTG7OshTPWp).
+Mas, se você caiu de paraquedas neste artigo, sugiro que antes acesse: [Como começar na VTEX Assisted Sales (SuiteShare)](/pt/docs/tracks/como-comecar), [Levar os visitantes do meu site e redes sociais para o WhatsApp](/pt/docs/tracks/levar-os-visitantes-do-meu-site-e-redes-sociais-para-o-whatsapp) e o mais importante: [Capturar dados do lead antes de iniciar uma conversa no WhatsApp](/pt/docs/tracks/capturar-dados-do-lead-antes-de-iniciar-uma-conversa-no-whatsapp).
 
 Tudo pronto? 
 
 Então vamos começar! 
 
-Você provavelmente já definiu quais [links](/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB) serão [capturas](/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo) e quais dados você quer receber. Agora vamos integrar com o seu CRM. 
+Você provavelmente já definiu quais [links](/pt/docs/tutorials/links-suiteshare) serão [capturas](/pt/docs/tutorials/formulario-de-captura-suiteshare) e quais dados você quer receber. Agora vamos integrar com o seu CRM. 
 
 1. No menu principal do seu painel admin na VTEX Assisted Sales (SuiteShare), clique em **Configurações**.
 2. Selecione a opção **Integrações**. 
@@ -33,17 +33,17 @@ Você provavelmente já definiu quais [links](/pt/tutorial/links--7h7YXPFovF2k5z
 
 Para realizar as configurações com a ajuda dos nossos tutoriais, escolha na lista abaixo o CRM que deseja configurar.  
 
-* [Piperun](/pt/tutorial/piperun-suiteshare--5TncUiGOLVQyiJIedWGfY)
-* [RD Station](/pt/tutorial/rdstation--30qjs0nYh5ITHXjAsc1dAZ)
-* [HubSpot](/pt/tutorial/hubspot-suiteshare--2aByRxXGfy56BB3tzUrcYt)
-* [Pipedrive](/pt/tutorial/pipedrive--6s8TrH9kn52rL18MbvOqZ7)
-* [Exact Sales](/pt/tutorial/exact-sales-suiteshare--7K32ewkr7JC8Bruxb2jy8Y)
-* [Active campaign](/pt/tutorial/active-campaign-suiteshare--ssmm0BSUudJqrb0zWIdE1)
-* [Moskit](/pt/tutorial/moskit-suiteshare--rWIiw5hBKZvL3Qexwo38G)
-* [Funil de vendas](/pt/tutorial/funil-de-vendas-suiteshare--4IMeO1Ijkd4DVh4ftNubh9)
-* [SharpSpring](/pt/tutorial/sharpspring-suiteshare--5fCQ9ReY9RafvAqhfeRlkP)
-* [Anapro](/pt/tutorial/anapro--2pKFj0qIlEr3JSKDXThFvn)
-* [CRM Zen](/pt/tutorial/crm-zen-suiteshare--I6HG3x6kUPtUBqkaD2cvG)
+* [Piperun](/pt/docs/tutorials/piperun-suiteshare)
+* [RD Station](/pt/docs/tutorials/rdstation-suiteshare)
+* [HubSpot](/pt/docs/tutorials/hubspot-suiteshare)
+* [Pipedrive](/pt/docs/tutorials/pipedrive-suiteshare)
+* [Exact Sales](/pt/docs/tutorials/exact-sales-suiteshare)
+* [Active campaign](/pt/docs/tutorials/active-campaign-suiteshare)
+* [Moskit](/pt/docs/tutorials/moskit-suiteshare)
+* [Funil de vendas](/pt/docs/tutorials/funil-de-vendas-suiteshare)
+* [SharpSpring](/pt/docs/tutorials/sharpspring-suiteshare)
+* [Anapro](/pt/docs/tutorials/anapro-suiteshare)
+* [CRM Zen](/pt/docs/tutorials/crm-zen-suiteshare)
 
 Não encontrou o seu CRM na lista?
 

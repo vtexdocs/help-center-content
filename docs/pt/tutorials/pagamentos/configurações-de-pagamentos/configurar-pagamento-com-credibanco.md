@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento Credibanco. Por meio deste provedor, sua loja pode realizar vendas por meio de cartões de crédito, PSE, Promissórias, Venda Direta Crédito e Venda Direta Débito.
+Na VTEX, é possível realizar a integração com o provedor de pagamento Credibanco. Por meio deste provedor, sua loja pode realizar vendas por meio de cartões de crédito, PSE, Promissórias, Venda Direta Crédito, Venda Direta Débito, Bancolombia-Credibanco, Efecty-Credibanco e Datafono-Credibanco.
 
 Para configurar o Credibanco, siga os passos abaixo:
 
@@ -34,7 +34,7 @@ Para configurar o Credibanco, siga os passos abaixo:
 8. Caso deseje utilizar o [split de pagamento](https://help.vtex.com/pt/docs/tutorials/split-de-pagamento) em sua loja, selecione a opção **Ativar split de recebíveis e enviar recebedores de pagamento** e indique o **Responsável pelas tarifas de processamento de pagamentos** e **Responsável pelos estornos (marketplace, sellers ou marketplaces e sellers)**.
 9. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela Credibanco, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela Credibanco, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

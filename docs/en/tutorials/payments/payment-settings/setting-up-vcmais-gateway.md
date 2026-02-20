@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-On the VTEX platform, you may set up VC+ [gateway](/en/tutorial/what-is-a-payment-gateway) to receive payments through Notes Payable.
+On the VTEX platform, you may set up VC+ [gateway](/en/docs/tutorials/what-is-a-payment-gateway) to receive payments through Notes Payable.
 
 To set VC+ up, follow the steps below:
 

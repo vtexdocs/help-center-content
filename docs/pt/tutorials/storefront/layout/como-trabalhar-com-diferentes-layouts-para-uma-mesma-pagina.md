@@ -15,13 +15,13 @@ locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ **Atenção:** existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à [configuração de coleções por meio do CMS](/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L).
+> ⚠️ **Atenção:** existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à [configuração de coleções por meio do CMS](/pt/docs/tutorials/cadastro-de-colecoes-cms).
 
 Na página __Storefront__ > __Layout__, um layout padrão é aplicado para todas as páginas de mesmo tipo existentes dentro de cada pasta de um website, como por exemplo _Produto_.
 
 Existe a possibilidade, entretanto, de aplicar diferentes layouts para uma mesma página por meio de determinadas condições (grupo de produtos, categorias, marcas). Por exemplo, é possível configurar dois produtos com layouts diferentes ou uma categoria específica com um layout especial.
 
-Para isso, primeiramente é necessário inserir no módulo de CMS um novo template, seja [de página](/pt/faq/como-criar-um-template-de-pagina) ou de [prateleira](/pt/faq/como-criar-um-template-de-prateleira). Após a criação do template, você deve acessar a pasta que deseja aplicar o novo layout conforme os passos abaixo:
+Para isso, primeiramente é necessário inserir no módulo de CMS um novo template, seja [de página](/pt/docs/tutorials/como-criar-um-template-de-pagina) ou de [prateleira](/pt/docs/tutorials/como-criar-um-template-de-prateleira). Após a criação do template, você deve acessar a pasta que deseja aplicar o novo layout conforme os passos abaixo:
 
 1. Em __Storefront__, acesse __Layout__;
 2. Clique na pasta __CMS__;

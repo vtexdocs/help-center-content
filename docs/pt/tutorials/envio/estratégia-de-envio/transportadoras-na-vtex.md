@@ -21,17 +21,17 @@ O lojista cadastra as transportadoras na VTEX de acordo com suas condições de 
 
 Na VTEX, o cadastro de transportadoras é feito através da criação de [políticas de envio](/pt/tutorial/politica-de-envio--tutorials_140#). Há duas formas de fazê-lo:
 
-* Via Admin VTEX: utilizando a seção **[Políticas de envio](/pt/tutorial/politica-de-envio--tutorials_140)** da página  **[Estratégia de envio](/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)**. 
+* Via Admin VTEX: utilizando a seção **[Políticas de envio](/pt/docs/tutorials/politica-de-envio)** da página  **[Estratégia de envio](/pt/docs/tutorials/estrategia-de-envio)**. 
 * Via API: utilizando a API de [Shipping Policies](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies).
 
-    Em ambos os casos, são utilizadas as configurações definidas na [Política de envio](/pt/tutorial/politica-de-envio--tutorials_140), que é baseada no contrato que a sua loja tem com uma transportadora, um prestador de serviço ou qualquer outro tipo de contrato de serviço de frete que sua loja ofereça aos clientes.
+    Em ambos os casos, são utilizadas as configurações definidas na [Política de envio](/pt/docs/tutorials/politica-de-envio), que é baseada no contrato que a sua loja tem com uma transportadora, um prestador de serviço ou qualquer outro tipo de contrato de serviço de frete que sua loja ofereça aos clientes.
 
 Atente-se aos casos em que é preciso cadastrar mais de uma política de envio para uma mesma transportadora, por exemplo:
 
-* A transportadora oferece diferentes [tipos de entrega ](/pt/tutorial/como-funciona-o-tipo-de-entrega--tutorials_126)para uma localidade.
-* A transportadora oferece [entrega agendada](/pt/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi) e entrega sem agendamento.
+* A transportadora oferece diferentes [tipos de entrega ](/pt/docs/tutorials/como-funciona-o-tipo-de-envio)para uma localidade.
+* A transportadora oferece [entrega agendada](/pt/docs/tutorials/entrega-agendada) e entrega sem agendamento.
 * A tarifa varia de acordo com o modal.
 
 ### Artigos relacionados
-- [Estratégia de envio](/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)
-- [Política de envio](/pt/tutorial/politica-de-envio--tutorials_140)
+- [Estratégia de envio](/pt/docs/tutorials/estrategia-de-envio)
+- [Política de envio](/pt/docs/tutorials/politica-de-envio)

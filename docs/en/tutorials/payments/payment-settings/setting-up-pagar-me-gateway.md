@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Pagar.me is a [gateway](/en/tutorial/what-is-a-payment-gateway) that offers several solutions for processing payments in your store.
+Pagar.me is a [gateway](/en/docs/tutorials/what-is-a-payment-gateway) that offers several solutions for processing payments in your store.
 
 To set up Pagar.me, follow the steps below:
 
@@ -35,4 +35,4 @@ To set up Pagar.me, follow the steps below:
 ## Setting up the payment condition
 After following the steps indicated above, Pagar.me will be configured in your store. Thus, while you're registering a payment condition, it will be available in the __Process with affiliation__ field (provided that the payment method is compatible with the Pagar.me). 
 
-To learn how to set up payment conditions, visit [this Help article](/en/tutorial/how-to-configure-payment-conditions).
+To learn how to set up payment conditions, visit [this Help article](/en/docs/tutorials/how-to-configure-payment-conditions).

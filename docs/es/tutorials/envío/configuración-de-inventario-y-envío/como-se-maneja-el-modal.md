@@ -23,4 +23,4 @@ En el registro de un SKU, usted puede informar que este SKU necesita ser entrega
 
 ### Artículos relacionados
 
-- [Configurar modal para transportistas](/es/tutorial/configurar-modal)
+- [Configurar modal para transportistas](/es/docs/tutorials/configurar-modal)

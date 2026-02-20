@@ -32,7 +32,7 @@ En la sección Configuración de pedidos puedes configurar los ajustes generales
 
 - [Configuración](/es/subcategory/orders-management-settings--1qvm3kIrt6KA6IeGc4EQ6k#)  
 - [Autorización de pedidos](/es/tutorial/how-order-authorization-works--3MBK6CmKHAuUjMBieDU0pn#)  
-- [Pago de suscripciones](/es/tutorial/how-to-configure-subscriptions--1FA9dfE7vJqxBna9Nft5Sj#2-configure-payment-methods)  
+- [Pago de suscripciones](/es/docs/tutorials/como-configurar-suscripciones#2-configure-payment-methods)  
 
 ## Plantillas de email
 La sección Plantillas de email es donde se personalizan las plantillas y se definen los remitentes de los emails enviados a los clientes. Esta sección incluye las siguientes páginas, que pronto se incluirán en el diseño del Admin v4:
@@ -44,7 +44,7 @@ La sección Plantillas de email es donde se personalizan las plantillas y se def
 La sección Envío es donde puedes configurar los ajustes generales de envío, geolocalización y feriados en los que tu tienda está cerrada. Esta sección incluye las siguientes páginas, que pronto se incluirán en el diseño del Admin v4:
 
 - [Configuración](/es/subcategory/inventory-and-shipping-settings--1UL6Q7nUN6SkA2g2SUsECi#)    
-- [Envío por geolocalización](/es/tutorial/registering-geolocation--tutorials_138)  
+- [Envío por geolocalización](/es/docs/tutorials/gestionar-geolocalizacion)  
 - [Feriados](/es/tutorial/registering-holidays--2ItOthSEAoyAmcwsuiO6Yk#)  
 
 ## Producto
@@ -66,17 +66,17 @@ En la sección Storefront puedes configurar la interfaz de tu tienda, que incluy
 ## Canales
 La sección Canales incluye la página Canales de ventas, donde puedes configurar el catálogo, los precios, las promociones, la logística, la segmentación de clientes y las condiciones de pago para diferentes estrategias de venta. También es donde puedes configurar tus integraciones XML. Esta sección incluye las siguientes páginas, que pronto se incluirán en el diseño del Admin v4:
 
-- [Canales de ventas](/es/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) (llamados anteriormente de “políticas comerciales” en VTEX)    
-- [Integración XML](/es/tutorial/como-configurar-xml--tutorials_242)
+- [Canales de ventas](/es/docs/tutorials/como-funciona-una-politica-comercial) (llamados anteriormente de “políticas comerciales” en VTEX)    
+- [Integración XML](/es/docs/tutorials/como-configurar-xml)
 
 ## Intelligent Search
 La sección Intelligent Search es donde realizas la configuración general de la búsqueda inteligente y sus integraciones. Esta sección incluye las siguientes páginas, que pronto se incluirán en el diseño del Admin v4:
 
-- [Explicación de la Búsqueda](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4uSFqyJVCMVMIvVrtz3lxZ)
-- [Reglas de Merchandising](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8)
-- [Sinónimos](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL)
-- [Status de Indexación](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH)
+- [Explicación de la Búsqueda](/es/docs/tutorials/explicacion-de-busqueda)
+- [Reglas de Merchandising](/es/docs/tutorials/crear-regla-de-merchandising-editor-manual)
+- [Sinónimos](/es/docs/tutorials/crear-sinonimos)
+- [Status de Indexación](/es/docs/tutorials/historial-de-indexacion)
 - [Reglas de Relevance](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3nVgV8UuUJYXwV0o2tgZ9g)
-- [Analytics](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m)
-- [Redireccionamientos](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4Gd2wLQFbCwTsh8RUDwSoL)
+- [Analytics](/es/docs/tutorials/analytics)
+- [Redireccionamientos](/es/docs/tutorials/configurar-redirecciones)
 

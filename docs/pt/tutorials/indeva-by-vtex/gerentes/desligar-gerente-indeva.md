@@ -35,6 +35,6 @@ Para desligar um gerente da loja, siga as etapas abaixo:
 > ⚠️ Após preencher a data de desligamento, não será possível editá-la.
 
 
-Se você já desligou um gerente e precisa cadastrar outro, consulte o artigo [Como cadastrar um gerente](/pt/tutorial/cadastro-de-gerente-indeva--6r2bjS0LFdUX0kyt0NyWhf).
+Se você já desligou um gerente e precisa cadastrar outro, consulte o artigo [Como cadastrar um gerente](/pt/docs/tutorials/cadastrar-gerente-plataforma-indeva).
 
 

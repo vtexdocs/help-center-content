@@ -32,4 +32,4 @@ Alelo is also available as part of our Payment Provider protocol, which allows t
 
 To integrate it with your store, simply contact our Partner team.
 
-For more details, check out our tutorial on [how to configure the Alelo grocery voucher card](/en/tutorial/configurar-meio-de-pagamento-alelo-para-cielo-v3--4fpnddmyMOAD6F5ixtdmY8) as a payment method. 
+For more details, check out our tutorial on [how to configure the Alelo grocery voucher card](/en/docs/tutorials/set-up-alelo-payment-method-for-cielo-v3) as a payment method. 

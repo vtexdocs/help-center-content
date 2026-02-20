@@ -25,7 +25,7 @@ Para identificar las condiciones especiales aplicables a cada método de pago, e
 
 Posibilita definir una regla de pago para cada agrupación de SKUs, pero para que funcione correctamente, es necesario en primero que cree condiciones comerciales distintas del estándar del sistema y, que los SKUs que deberán obedecer a esa regla estén debidamente asociadas a la condición comercial.
 
-Para saber cómo catastrar una nueva condición comercial y asociarla a un SKU, lea el documento [Registrar condición comercial](/es/tutorial/registrar-condicion-comercial--tutorials_445).
+Para saber cómo catastrar una nueva condición comercial y asociarla a un SKU, lea el documento [Registrar condición comercial](/es/docs/tutorials/registrar-condicion-comercial).
 
 ## Cómo configurar la condición comercial en la condición de pago
 

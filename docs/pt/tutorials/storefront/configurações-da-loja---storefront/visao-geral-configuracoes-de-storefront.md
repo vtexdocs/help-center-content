@@ -25,7 +25,7 @@ Na seção Storefront, você pode ajustar as configurações gerais da interface
 - Configurações - Em breve
 - Master Data - Em breve
 - Checkout - Em breve
-- [Loja](/pt/tutorial/cms-store-overview--3Eat287G6wUi6Mly5rW5Fs)
+- [Loja](/pt/docs/tutorials/cms-loja-visao-geral)
 - [GraphQL IDE](https://developers.vtex.com/vtex-developer-docs/docs/graphql-ide)
 - Interface personalizada do checkout - Em breve
 

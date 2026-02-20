@@ -21,7 +21,7 @@ Esta funcionalidad está disponible para las tiendas que utilizan la tecnología
 
 Estantes son elementos configurables que muestran una agrupación de productos en las páginas de su web site. Esta agrupación se define a partir de los criterios que usted elija.
 
-Los estantes se estructuran a partir de código HTML, organizados en [templates](/es/tutorial/que-son-templates) específicos, llamados Templates de Estante ("__Shelves Templates__"). Se encuentran en la carpeta **CMS**, en el [módulo Layout](/es/faq/que-es-el-cms). Es en esta carpeta que usted podrá crear nuevos templates y editar los que ya existen.
+Los estantes se estructuran a partir de código HTML, organizados en [templates](/es/docs/tutorials/que-son-templates) específicos, llamados Templates de Estante ("__Shelves Templates__"). Se encuentran en la carpeta **CMS**, en el [módulo Layout](/es/faq/que-es-el-cms). Es en esta carpeta que usted podrá crear nuevos templates y editar los que ya existen.
 
 ![Shelves Templates](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/que-son-estantes_1.png)
 
@@ -29,5 +29,5 @@ Por ser un elemento que puede ser utilizado en más de una página, este tipo es
 
 ### Artículos relacionados
 - [¿Qué es el CMS?](/es/faq/que-es-el-cms)
-- [¿Qué es un sitio web?](/es/tutorial/que-es-un-web-site)
-- [¿Qué son templates?](/es/tutorial/que-son-templates)
+- [¿Qué es un sitio web?](/es/docs/tutorials/que-es-un-web-site)
+- [¿Qué son templates?](/es/docs/tutorials/que-son-templates)

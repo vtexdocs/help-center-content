@@ -19,13 +19,13 @@ Conceder crédito a terceros es una estrategia utilizada en varios modelos de ne
 
 Pero antes de ahondar en la aplicación de esta estrategia, hagamos una definición más precisa del término "crédito". Toda empresa que acepte recibir pagos en cuotas debe establecer un valor máximo mensual para pagar estas pequeñas "deudas". Este valor es el límite de crédito.
 
-En VTEX, el administrador de la tienda cuenta con [Customer Credit](/es/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0) para auxiliarlo en la gestión de este asunto. Se trata de una app que permite al usuario conceder crédito a los clientes —ya sean personas físicas o tiendas partners— que pueden utilizar este crédito como medio de pago.
+En VTEX, el administrador de la tienda cuenta con [Customer Credit](/es/docs/tutorials/customer-credit-vision-general) para auxiliarlo en la gestión de este asunto. Se trata de una app que permite al usuario conceder crédito a los clientes —ya sean personas físicas o tiendas partners— que pueden utilizar este crédito como medio de pago.
 
 En este artículo abordamos una sugerencia de flujo de implementación de Customer Credit en la estrategia B2B.
 
 ## Seleccione a sus clientes
 
-Antes que nada, es necesario descargar Customer Credit de [VTEX App Store](https://apps.vtex.com/) y [configurarlo](/es/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/21ok0GBwmcIeaY2IukYMOg) en su tienda.
+Antes que nada, es necesario descargar Customer Credit de [VTEX App Store](https://apps.vtex.com/) y [configurarlo](/es/docs/tracks/configuracion-de-la-app) en su tienda.
 
 Dado que el propósito de su estrategia es conceder el crédito a algún partner, el siguiente paso es seleccionar a los clientes a los que desea ofrecer este crédito. 
 
@@ -52,10 +52,10 @@ Este proceso puede ser realizado por un departamento de crédito o por empresas 
 
 ## Registre cuentas en la app
 
-Ahora que los clientes han sido seleccionados, es posible [crear las cuentas respectivas en Customer Credit](/es/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU).
+Ahora que los clientes han sido seleccionados, es posible [crear las cuentas respectivas en Customer Credit](/es/docs/tracks/creando-cuentas).
 
 Actualmente, tenemos tres formas de que el administrador de la tienda realice esta operación:
-- Registro de la base a través de la [API de Customer Credit](https://developers.vtex.com/reference/customer-credit-api-overview).
+- Registro de la base a través de la [API de Customer Credit](https://developers.vtex.com/docs/api-reference/customer-credit-api).
 - Registro individual por el panel administrativo de VTEX.
 - Registro masivo por importación de plantilla, con los datos de varias cuentas, también a través del panel administrativo. 
 
@@ -77,10 +77,10 @@ Si, por otro lado, la base tiene un gran número de cuentas, lo más indicado es
 
 ### Bases grandes
 
-Cuando la tienda trabaja con gestión externa de crédito en su ERP, recomendamos que la operación se realice a través de la [API de Customer Credit](https://developers.vtex.com/reference/account-1#openanaccount). En este caso, utilice el endpoint __Open an Account__.
+Cuando la tienda trabaja con gestión externa de crédito en su ERP, recomendamos que la operación se realice a través de la [API de Customer Credit](https://developers.vtex.com/docs/api-reference/account-1#openanaccount). En este caso, utilice el endpoint __Open an Account__.
 
 Otro diferencial de la API es que la operación registra la cuenta y al mismo tiempo le otorga un límite.
 
-Puede consultar el tutorial sobre cómo registrar una cuenta para cada uno de estos métodos en la [guía de Introducción al Customer Credit](/es/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU).
+Puede consultar el tutorial sobre cómo registrar una cuenta para cada uno de estos métodos en la [guía de Introducción al Customer Credit](/es/docs/tracks/creando-cuentas).
 
-Después de la configuración inicial, el siguiente paso es la [gestión de las cuentas](/es/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/4eknoeqaj6EGC20amsm6Gc) para asegurar un flujo de crédito saludable. 
+Después de la configuración inicial, el siguiente paso es la [gestión de las cuentas](/es/docs/tracks/administrando-cuentas) para asegurar un flujo de crédito saludable. 

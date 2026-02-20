@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-La funcionalidad **Asignación de almacén**permite que los sellers de VTEX que utilizan la [integración**Premium**](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/51oWBHvVxSs8eAwLQhSbSd) con Mercado Libre vinculen sus múltiples almacenes con diferentes almacenes de Mercado Libre.  
+La funcionalidad **Asignación de almacén**permite que los sellers de VTEX que utilizan la [integración**Premium**](/es/docs/tracks/mercado-libre-marketplace) con Mercado Libre vinculen sus múltiples almacenes con diferentes almacenes de Mercado Libre.  
 
 > ℹ️ Únicamente sellers con cuentas habilitadas por Mercado Libre pueden utilizar esta funcionalidad.  
 
@@ -27,13 +27,13 @@ Para comprobar si tu cuenta está habilitada, accede al **Admin VTEX > Marketpla
 
 ![Multi-orígen activado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuración-de-las-integraciones/asignacion-de-almacen-en-mercado-libre_1.jpg)
 
-En caso de que el valor sea  `Sí`, debes configurar la integración de tus almacenes VTEX con los de Mercado Libre. Consulta [Configurar la asignación de almacén](/es/tutorial/configurar-alocacao-de-estoque--1yCEr7xQ0gVsTBB0ktMYVX) para realizar las acciones necesarias.  
+En caso de que el valor sea  `Sí`, debes configurar la integración de tus almacenes VTEX con los de Mercado Libre. Consulta [Configurar la asignación de almacén](/es/docs/tutorials/configurar-asignacion-de-almacen) para realizar las acciones necesarias.  
 
 ## Otros requisitos  
 
 Otros requisitos para utilizar la funcionalidad **Asignación de almacén** son:  
 
-- La cuenta debe operar con el nuevo modelo de [registro de producto](/es/announcements/nuevo-modelo-de-anuncios-no-mercado-libre--3g7c72gcJk6WvKXNGfPTkb).  
+- La cuenta debe operar con el nuevo modelo de [registro de producto](/es/announcements/2025-06-30-nuevo-modelo-de-anuncios-en-mercado-libre).  
 - Debe haber al menos un anuncio registrado en este nuevo modelo.  
-- Los almacenes deben estar activos en el módulo [Estrategia de envío VTEX](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3).  
+- Los almacenes deben estar activos en el módulo [Estrategia de envío VTEX](/es/docs/tutorials/estrategia-de-envio).  
 

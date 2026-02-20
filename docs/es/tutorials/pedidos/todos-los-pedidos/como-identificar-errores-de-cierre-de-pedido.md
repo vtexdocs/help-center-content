@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-Siempre que el usuario hace clic en cerrar pedido, el checkout de inmediato crea un pedido en la plataforma VTEX. Ese pedido tiene inicialmente el status **incompleto** y puede ser encontrado utilizando [filtros](/es/tutorial/filtrar-todos-pedidos--tutorials_192). En el Admin VTEX, accede a **Pedidos > Todos los pedidos**, o escribe **Todos los pedidos** en la barra de búsqueda en la parte superior de la página.
+Siempre que el usuario hace clic en cerrar pedido, el checkout de inmediato crea un pedido en la plataforma VTEX. Ese pedido tiene inicialmente el status **incompleto** y puede ser encontrado utilizando [filtros](/es/docs/tutorials/filtrar-todos-los-pedidos). En el Admin VTEX, accede a **Pedidos > Todos los pedidos**, o escribe **Todos los pedidos** en la barra de búsqueda en la parte superior de la página.
 
 Como todo pedido tiene, como mínimo, una transacción, también es posible encontrar esa transacción en **Pedidos > Transacciones**. Por ser un escenario de error, probablemente ya estará como transacción cancelada.
 

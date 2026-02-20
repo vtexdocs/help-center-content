@@ -17,7 +17,7 @@ legacySlug: why-does-a-search-term-not-return-existing-products
 > ⚠️ **Warning**: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 
-The article [How does VTEX search work?](/en/tutorial/how-does-vtex-search-work) illustrates the main rules that the search engine algorithm uses to display and prioritize the products based on a search term.
+The article [How does VTEX search work?](/en/docs/tutorials/how-does-vtex-search-work) illustrates the main rules that the search engine algorithm uses to display and prioritize the products based on a search term.
 
 If your case does not fit the scenarios described in this article, probably it’s because the search term that brought you here is on the list of blocked words on the VTEX search engine.
 
@@ -34,4 +34,4 @@ If you need to use in your products words that perhaps are not important for the
 - Use collection, redirecting the search term to a landing-page.
 - Redirect the search term to a search context that makes sense (Category, brand or the product itself).
 
-The following article teaches you how to set up the redirection: [URL Mapping (301 Redirect)](/en/faq/url-mapping-301-redirect/)
+The following article teaches you how to set up the redirection: [URL Mapping (301 Redirect)](/en/docs/tutorials/url-mapping-301-redirect/)

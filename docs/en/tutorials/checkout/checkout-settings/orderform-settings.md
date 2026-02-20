@@ -21,7 +21,7 @@ In the following sections, you'll find some of the security settings available i
 
 Setting the `requiresLoginToPlaceOrder` field to `true` allows purchases to be made only by customers who have gone through the authentication process. The customer must be logged in using the same email address provided when products were added to the cart.
 
-When you choose to enable this field, [SmartCheckout](/en/tutorial/smartcheckout-security--3SrJuuhrqwePUg1rp1exfB) will be disabled for all your customers.
+When you choose to enable this field, [SmartCheckout](/en/docs/tutorials/smartcheckout-security) will be disabled for all your customers.
 
 ## Minimum time between orders
 

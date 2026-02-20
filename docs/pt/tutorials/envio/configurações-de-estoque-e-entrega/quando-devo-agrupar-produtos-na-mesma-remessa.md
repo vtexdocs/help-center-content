@@ -26,4 +26,4 @@ Esta é uma pratica válida, por exemplo, no caso de transportadoras como os Cor
 > ⚠️ Os grupos de remessa são criados pela somatória do tempo de custo do Estoque até a Doca e do tempo de custo da Doca.
 
 ### Artigos relacionados
-- [Configurar remessa](/pt/tutorial/como-funciona-a-remessa)
+- [Configurar remessa](/pt/docs/tutorials/como-funciona-a-remessa)

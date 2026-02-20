@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Lanzamiento beta de la nueva experiencia de las interfaces de Estrategia de envío.'
 ---
 
-A partir del 31 de mayo, estamos lanzando para todas las tiendas VTEX la versión beta de las nuevas interfaces de la **Estrategia de envío**, compuesta por las páginas de [Políticas de envío](/es/tutorial/politica-de-envio--tutorials_140), [Muelles](/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) y [Almacenes](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).
+A partir del 31 de mayo, estamos lanzando para todas las tiendas VTEX la versión beta de las nuevas interfaces de la **Estrategia de envío**, compuesta por las páginas de [Políticas de envío](/es/docs/tutorials/politica-de-envio), [Muelles](/es/docs/tutorials/muelles) y [Almacenes](/es/docs/tutorials/almacen).
 
 Las páginas de la **Estrategia de envío** fueran actualizadas al nuevo _VTEX design system_, como se puede ver a continuación:
 
@@ -25,7 +25,7 @@ Las páginas de la **Estrategia de envío** fueran actualizadas al nuevo _VTEX d
 
 Las nuevas interfaces de la **Estrategia de envío** ofrecen una experiencia más intuitiva y se han actualizado para el Admin VTEX. Además, se han realizado las siguientes mejoras en la página de **Políticas de envío**:
 
-* **Nuevo flujo de activación:** puedes activar o desactivar tus [políticas de envío](/es/tutorial/politica-de-envio--tutorials_140) de forma sencilla y práctica, seleccionando la opción deseada en el menú <i class="fas fa-ellipsis-v"></i> correspondiente a la política de envío que deseas modificar.
+* **Nuevo flujo de activación:** puedes activar o desactivar tus [políticas de envío](/es/docs/tutorials/politica-de-envio) de forma sencilla y práctica, seleccionando la opción deseada en el menú <i class="fas fa-ellipsis-v"></i> correspondiente a la política de envío que deseas modificar.
 * **Fácil seguimiento de información:** ahora puedes hacer un seguimiento de la relación entre tus políticas de envío y muelles, teniendo una mayor visibilidad de tu operación.
 
 ## ¿Por qué realizamos este cambio?

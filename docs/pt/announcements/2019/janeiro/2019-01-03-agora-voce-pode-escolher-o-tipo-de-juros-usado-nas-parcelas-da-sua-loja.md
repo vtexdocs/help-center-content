@@ -18,7 +18,7 @@ announcementSynopsisPT: 'Lojas agora podem usar juros simples ou compostos, depe
 Lançamos uma nova funcionalidade que permite alterar, de forma simples, o tipo de juros aplicado nas vendas parceladas da sua loja. Ela atende às lojas que atuam em países como a Argentina que, ao contrário do Brasil (que usa juros compostos), dão preferência aos juros simples.
 
 ## O que mudou
-Antes, ao configurar [condições de pagamento que fossem parceladas e com juros](/pt/tutorial/condicoes-de-pagamento#parcelado-com-juros), o lojista não tinha uma forma fácil de alterar a modalidade aplicada nas parcelas: o padrão era __juros compostos__.
+Antes, ao configurar [condições de pagamento que fossem parceladas e com juros](/pt/docs/tutorials/condicoes-de-pagamento#parcelado-com-juros), o lojista não tinha uma forma fácil de alterar a modalidade aplicada nas parcelas: o padrão era __juros compostos__.
 
 Agora, o padrão continua o mesmo, mas com a diferença de que é possível alterar para __juros simples__ na própria interface.
 
@@ -30,4 +30,4 @@ Essa mudança facilita a operação de __lojas que atuam em países como a Argen
 Lembramos que a nova funcionalidade __não gera impactos para lojas que usam juros compostos (principalmente as brasileiras)__. Como o padrão continua o mesmo, a etapa a mais de configuração só precisa ser realizada por quem deseja usar juros simples.
 
 ## Como fazer a escolha do tipo de juros
-Para escolher entre juros simples e compostos, basta acessar as configurações de uma condição de pagamento e seguir o [passo a passo detalhado sobre a funcionalidade](/pt/tutorial/como-escolher-o-tipo-de-juros-de-uma-condicao-de-pagamento--2erloDXDuI6yawWqqcmgIo).
+Para escolher entre juros simples e compostos, basta acessar as configurações de uma condição de pagamento e seguir o [passo a passo detalhado sobre a funcionalidade](/pt/docs/tutorials/como-escolher-o-tipo-de-juros-de-uma-condicao-de-pagamento).

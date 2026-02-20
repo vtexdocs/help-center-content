@@ -45,7 +45,7 @@ Para solucionarlo, consulta las instrucciones a continuación:
 
 ### Comprueba la integración de la búsqueda
 
-El error puede deberse a que [Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) no está integrado con el catálogo de tu tienda. Sigue los pasos a continuación para integrarlo correctamente:
+El error puede deberse a que [Intelligent Search](/es/docs/tracks/vision-general-intelligent-search) no está integrado con el catálogo de tu tienda. Sigue los pasos a continuación para integrarlo correctamente:
 
 1. En el Admin VTEX, accede a **Configuración de la tienda > Intelligent Search > Integraciones**.
 2. En la página **Integraciones**, comprueba que todos los status estén verificados, como en la imagen a continuación. 
@@ -81,9 +81,9 @@ Para solucionarlo, consulta las instrucciones a continuación:
 
 ### Comprueba si el rol de usuario tiene los permisos necesarios
 
-Una posible causa de este problema podría estar relacionada con la falta del [recurso](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `CMS GraphQL API` de License Manager para el [rol de usuario](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) asignado a la gestión de contenido. 
+Una posible causa de este problema podría estar relacionada con la falta del [recurso](/es/docs/tutorials/recursos-del-license-manager) `CMS GraphQL API` de License Manager para el [rol de usuario](/es/docs/tutorials/roles) asignado a la gestión de contenido. 
 
-Asegúrate de que el recurso `CMS GraphQL API` esté asociado con el rol de usuario correspondiente, ya sea [creando un nuevo rol](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) o editando uno existente.
+Asegúrate de que el recurso `CMS GraphQL API` esté asociado con el rol de usuario correspondiente, ya sea [creando un nuevo rol](/es/docs/tutorials/roles#creating-a-role) o editando uno existente.
 
 Si continúas sin poder gestionar el contenido incluso después de agregar el recurso `CMS GraphQL API` a la función del usuario, consulta la siguiente sección: [Comprueba la región principal del dominio](#comprobar-la-region-principal-del-dominio).
 

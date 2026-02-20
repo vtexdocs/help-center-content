@@ -27,7 +27,7 @@ Then follow the steps below:
 4. Click the __Status__ button to enable this payment condition.
 5. If there is an anti-fraud system set up in your store, you can activate it for this payment condition by checking the __Use Anti-Fraud__ box.
 6. Rename the payment condition to make it easier to identify. We recommend that you do this, especially if your store uses more than one.
-7. You can also set up [special payment conditions](/en/tutorial/special-conditions).
+7. You can also set up [special payment conditions](/en/docs/tutorials/special-conditions).
 8. Click __Save__.
 
 By completing these steps, the chosen offline payment condition will be available to your customers at your store checkout.
@@ -35,4 +35,4 @@ By completing these steps, the chosen offline payment condition will be availabl
 ### Related articles
 - [Setting up MercadoPagoV1 sub-acquirer](/en/tutorial/setting-up-mercadopagov1-sub-acquirer)
 - [What offline payment conditions are available in Latin America?](/en/faq/what-offline-payment-conditions-are-available-in-latin-america)
-- [Configuring payment special conditions](/en/tutorial/special-conditions)
+- [Configuring payment special conditions](/en/docs/tutorials/special-conditions)

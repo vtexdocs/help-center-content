@@ -3,7 +3,7 @@ title: 'Configurar cartão de presente com mensagem personalizada'
 id: tutorials_291
 status: PUBLISHED
 createdAt: 2017-04-27T22:09:47.349Z
-updatedAt: 2025-06-12T20:53:25.570Z
+updatedAt: 2026-01-30T20:53:25.570Z
 publishedAt: 2025-06-12T20:53:25.570Z
 firstPublishedAt: 2017-04-27T23:03:13.676Z
 contentType: tutorial
@@ -15,40 +15,29 @@ locale: pt
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
-O cartão presente com mensagem personalizada é muito utilizado principalmente em lojas que possuem listas de presentes, casamento etc.
+Para disponibilizar para os clientes da sua loja presentes com mensagens personalizadas, é necessário configurar no Admin VTEX um novo serviço de SKU. Para mais informações, veja o artigo [Criar serviço para um SKU](https://help.vtex.com/pt/docs/tutorials/criando-servico-para-um-sku).
 
-Para disponibilizar este produto para seu cliente é necessário configurar no Admin um novo Serviço de SKU. Para saber como criar Serviços de SKU, leia o artigo [Criar serviço para um SKU
-](/pt/tutorial/criando-servico-para-um-sku--tutorials_252).
+Após criar o serviço e atribuir-lhe um valor, siga os passos abaixo para cadastrar o tipo de serviço no SKU:
 
-Após criar o Serviço e adicionar um Valor a este serviço, cadastre um tipo de serviço para os SKUs e em seguida, atrele este serviço no SKU. Siga os passos abaixo para executar essa tarefa:
+1. No Admin VTEX, acesse __Catálogo > Campos personalizados__, ou digite __Campos personalizados__ na barra de busca no topo da página.
+2. Clique em __Tipos de serviço__.
+3. Cadastre ou selecione o tipo de serviço.
+4. Clique na aba __Valores de serviço__.
+5. Cadastre uma nova tabela de valores, selecionando o tipo de serviço cadastrado nos passos anteriores.
+6. No Admin VTEX, acesse __Catálogo > Produtos e SKUs__.
+7. Selecione um produto.
+8. Na aba `SKUs`, selecione o SKU desejado.
+9. Na seção __Customizações__, clique em `+` > __Serviços__.
+10. Preencha os campos e clique em `Aplicar`.
 
-1. No Admin VTEX, acesse __Catálogo__, ou digite __Catálogo__ na barra de busca no topo da página.
-2. Clique em __Campos personalizados__.
-3. Clique em __Tipos de Serviços__.
-4. Cadastre ou selecione o tipo de serviço.
-5. Clique em __Valores de Serviços__.
-6. Cadastre uma Nova Tabela de Valores selecionando o tipo de serviço cadastrado anteriormente.
-7. No Admin VTEX, ainda no menu __Catálogo__, acesse __Todos os produtos__.
-8. Selecione um Produto.
-9. Entre na lista de SKUs desse produto.
-10. Clique na seta ao lado do botão `Alterar` e, em seguida, clique em __Serviço__.
-11. Crie um novo serviço. Na tela de criação, selecione o tipo de serviço criado e a tabela de valores.
-
-Para mais informações sobre criação de serviçoes e como vincular valores veja o artigo [Criar serviço para um SKU](/pt/tutorial/criando-servico-para-um-sku--tutorials_252).
+> ℹ️ Após a configuração do serviço no SKU, aguarde a indexação para o cadastro ter efeito no site. Feito isso, será possível testar a compra do item com este serviço ativo.
 
 ## Validar configuração
 
-No site da sua loja, é possível validar se a configuração foi efetuada corretamente. Para isso, siga os passos abaixo:
+Para validar se a configuração foi efetuada corretamente, siga os passos abaixo:
 
-1. Entre na página SKU configurado.
-2. Adicione ao carrinho.
-3. Neste momento o tipo de serviço deve ser disponibilizado para seleção. A mensagem precisa ser escrita em até 150 caracteres.
-4. Selecione o serviço no carrinho clique no link para adicionar mensagem.
+1. No site da sua loja, acesse o SKU configurado.
+2. Adicione o SKU ao carrinho.
+3. Neste momento o tipo de serviço deve ser disponibilizado para seleção. Selecione o serviço no carrinho e clique no link para adicionar mensagem.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/campos-personalizados/configurando-cartao-de-presente-com-mensagem-personalizada_1.png)
-
-Você pode visualizar a mensagem escrita em __Minha Conta > Meus Pedidos__:
-
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/campos-personalizados/configurando-cartao-de-presente-com-mensagem-personalizada_2.png)
-
-> ℹ️ Após a configuração do serviço no SKU, aguarde a indexação para o cadastro ter efeito no site. Após isto já será possível testar a compra com este serviço ativo.
+Você pode visualizar a mensagem escrita em __Minha conta > Meus pedidos__.

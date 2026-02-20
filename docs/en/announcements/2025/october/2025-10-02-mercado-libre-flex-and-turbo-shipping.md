@@ -31,5 +31,5 @@ Key benefits include:
 
 This feature is available for eligible accounts chosen by Mercado Libre as of October 06, 2025.
 
-To check if your account is eligible, understand how it works, and learn how to enable these shipping modes, see the tutorial [Mercado Libre Envios](/en/tutorial/mercado-livre-envios--4fbF0Glf0R2YUCxYof4aIL).
+To check if your account is eligible, understand how it works, and learn how to enable these shipping modes, see the tutorial [Mercado Libre Envios](/en/docs/tutorials/mercado-libre-envios).
 

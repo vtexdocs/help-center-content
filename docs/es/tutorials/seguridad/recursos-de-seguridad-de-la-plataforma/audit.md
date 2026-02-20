@@ -22,7 +22,7 @@ Para acceder a la página de Audit en el Admin VTEX, ve a **Apps > Apps instalad
 * [Consultar eventos en Audit](#consultar-eventos-en-audit)
 * [Verificar las últimas consultas realizadas en Audit](#verificar-las-ultimas-consultas-realizadas-en-audit)
 
-> ℹ️ Para visualizar los eventos de Audit, debe tener un [perfil de acceso](/es/tutorial/perfis-de-acceso--7HKK5Uau2H6wxE1rH5oRbc) asociado al [recurso](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) *Insights Metrics*.
+> ℹ️ Para visualizar los eventos de Audit, debe tener un [perfil de acceso](/es/docs/tutorials/roles) asociado al [recurso](/es/docs/tutorials/recursos-del-license-manager) *Insights Metrics*.
 
 ![audit-ui-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/recursos-de-seguridad-de-la-plataforma/audit_1.png)
 
@@ -40,7 +40,7 @@ Para consultar un evento utilizando los filtros disponibles en Audit, sigue esto
 
    > ℹ️ Solo se almacenan los registros de los últimos tres meses.
 
-4. Si lo desea, añada un filtro por Acción. Para ello, en el campo situado junto a `Acción debe ser`, escriba el nombre de la acción y pulse `Enter`. Puede introducir más de un valor pulsando `Enter` después de cada selección. Compruebe el nombre de cada acción en [Eventos disponibles en Audit](/es/tutorial/eventos-disponibles-en-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
+4. Si lo desea, añada un filtro por Acción. Para ello, en el campo situado junto a `Acción debe ser`, escriba el nombre de la acción y pulse `Enter`. Puede introducir más de un valor pulsando `Enter` después de cada selección. Compruebe el nombre de cada acción en [Eventos disponibles en Audit](/es/docs/tutorials/eventos-disponibles-en-audit).
 5. Puedes agregar filtros más específicos para consultar eventos con más precisión haciendo clic en el botón `Agregar filtro`.
 6. Selecciona el parámetro del filtro (_Autor_ o _Detalles del evento_) e indica el valor al que se debe comparar. Puede introducir más de un valor pulsando `Enter` después de cada selección.
 
@@ -68,8 +68,8 @@ La sección **Resultados** lista cada evento encontrado en la consulta y muestra
 |---|---|
 | __Copiar evento__ | Botón para copiar la información del evento que se muestra en la tabla al portapapeles. |
 | __Hora del evento__ | Fecha y hora en que ocurrió el evento, mostradas en la zona horaria del navegador o del sistema operativo. |
-| __Acción__ | Acción realizada en la aplicación seleccionada para la consulta. Consulta las posibles acciones en la [lista de eventos disponibles en Audit](/es/tutorial/eventos-disponibles-en-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
-| __Detalles del evento__ | Información adicional sobre el evento. Consulta los detalles de cada evento en la [lista de eventos disponibles en Audit](/es/tutorial/eventos-disponibles-en-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
+| __Acción__ | Acción realizada en la aplicación seleccionada para la consulta. Consulta las posibles acciones en la [lista de eventos disponibles en Audit](/es/docs/tutorials/eventos-disponibles-en-audit). |
+| __Detalles del evento__ | Información adicional sobre el evento. Consulta los detalles de cada evento en la [lista de eventos disponibles en Audit](/es/docs/tutorials/eventos-disponibles-en-audit). |
 | __Autor__ | Email, ID o token del usuario que realizó el evento. |
 | __Más detalles__ | Botón que abre un modal con más información sobre el evento, cuando corresponda. Los detalles mostrados pueden incluir: <ul><li class="t-body mb5 lh-copy">**Nombre de la entidad:** ID de la entidad modificada.</li><li class="t-body mb5 lh-copy">**Entidad antes de la acción:** información de la entidad antes del evento, en formato [JSON](http://www.json.org/).</li><li class="t-body mb5 lh-copy">**Entidad después de la acción:** información de la entidad después del evento, en formato [JSON](http://www.json.org/).</li></ul>La exhibición completa de la información previamente mencionada puede variar dependiendo del evento. Por ejemplo, un evento para eliminar información mostrará únicamente la entidad antes de la acción. Sin embargo, un evento que implica agregar información solo mostrará la entidad después de la acción. <br /><br /> Algunos eventos no proporcionan ninguna información adicional. En estos casos, el modal aparece vacío. |
 

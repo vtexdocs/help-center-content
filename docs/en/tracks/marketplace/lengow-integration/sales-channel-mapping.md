@@ -15,7 +15,7 @@ trackSlugEN: lengow-integration
 order: 4
 ---
 
-Now that your product feed is ready, it's time to create identifiers for the sales channels you will use in Lengow. These identifiers will then be mapped to the [trade policies](/en/tutorial/configuring-a-marketplace-trade-policy--tutorials_404) that should be used to determine the catalog, pricing and shipping strategy adopted for each sales channel.
+Now that your product feed is ready, it's time to create identifiers for the sales channels you will use in Lengow. These identifiers will then be mapped to the [trade policies](/en/docs/tutorials/configuring-a-marketplace-trade-policy) that should be used to determine the catalog, pricing and shipping strategy adopted for each sales channel.
 
 To do this, go to *Marketplace > Lengow Integration > Settings* and find the **Sales Channel mapping** section. Clicking on the <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/sales-channel-mapping_2.png" style="width: 23px;" /> button adds a new sales channel and clicking on the <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/sales-channel-mapping_3.png" style="width: 23px;" /> button removes it from the sales channel mapping table.
 
@@ -23,4 +23,4 @@ For each sales channel, select the trade policy that should be used in the left 
 
 ![Lengow - Sales channel mapping](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/sales-channel-mapping_1.png)
 
-> ⚠️ All [trade policies](/en/tutorial/configuring-a-marketplace-trade-policy--tutorials_404) must be created and set up prior to this step. Their names do not need to correspond to the sales channel. If you do not need to adopt different catalog, pricing and shipping strategies for two sales channels, they may share the same trade policy.
+> ⚠️ All [trade policies](/en/docs/tutorials/configuring-a-marketplace-trade-policy) must be created and set up prior to this step. Their names do not need to correspond to the sales channel. If you do not need to adopt different catalog, pricing and shipping strategies for two sales channels, they may share the same trade policy.

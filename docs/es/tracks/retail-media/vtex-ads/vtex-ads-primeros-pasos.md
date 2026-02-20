@@ -43,7 +43,7 @@ Consulta a continuación cómo empezar a usar VTEX Ads, con base en tu rol en la
 
 Si eres una marca interesada en maximizar exposición y ventas en tiendas a través de anuncios:
 
-1. Ponte en contacto con el [Soporte Comercial de VTEX](/es/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) o directamente con el publicador con el que deseas anunciarte.  
+1. Ponte en contacto con el [Soporte Comercial de VTEX](/es/docs/tracks/soporte-comercial) o directamente con el publicador con el que deseas anunciarte.  
 2. Elige entre los formatos de anuncio disponibles, como productos patrocinados o banners. Aprende más sobre los formatos posibles en [Tipos de campaña](/es/tracks/vtex-ads--4sZoGHUrBNlaPMrtPCqGvA#tipos-de-campana).  
 3. Envía contenidos creativos de acuerdo con las directrices del publicador.  
 4. Monitorea el desempeño de la campaña a través de los informes y métricas de la plataforma.
@@ -52,7 +52,7 @@ Si eres una marca interesada en maximizar exposición y ventas en tiendas a trav
 
 Si eres un retailer y deseas poner a disposición espacio publicitario en tu tienda:
 
-1. Ponte en contacto con el [Soporte Comercial](/es/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) y solicita la activación de VTEX Ads en tu entorno.  
+1. Ponte en contacto con el [Soporte Comercial](/es/docs/tracks/soporte-comercial) y solicita la activación de VTEX Ads en tu entorno.  
 2. Define los espacios de medios publicitarios disponibles en tu sitio web, como estanterías de productos patrocinados o banners. Para más información sobre los formatos posibles, consulta [Tipos de campaña](/es/tracks/vtex-ads--4sZoGHUrBNlaPMrtPCqGvA#tipos-de-campana).  
 3. Define los anunciantes partners.  
 4. Monitorea los resultados de las campañas y optimiza la ocupación de los espacios para maximizar los ingresos procedentes de retail media.

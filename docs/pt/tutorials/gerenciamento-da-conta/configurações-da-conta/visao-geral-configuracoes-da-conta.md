@@ -31,11 +31,11 @@ Esta página define quais funcionalidades o usuário poderá visualizar e/ou alt
 
 ## Conta
 
-Nesta página você encontra dados básicos sobre a loja virtual, configurações de domínio e multidomínio, chaves de acesso para APIs, logotipo da empresa e informações de contato. Saiba mais sobre a [página de detalhes da conta](/pt/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq).
+Nesta página você encontra dados básicos sobre a loja virtual, configurações de domínio e multidomínio, chaves de acesso para APIs, logotipo da empresa e informações de contato. Saiba mais sobre a [página de detalhes da conta](/pt/docs/tutorials/gerenciamento-da-conta).
 
 ## Autenticação
 
-Nesta página, é possível escolher opções de login para os clientes da loja acessaram a sua conta na loja, e também  opções de login para os usuários administradores acessarem o painel administrativo. Saiba mais sobre a página no artigo [Autenticação](/pt/tutorial/pagina-de-autenticacao--21CkKHLKP1o41lUpGhuRUs).
+Nesta página, é possível escolher opções de login para os clientes da loja acessaram a sua conta na loja, e também  opções de login para os usuários administradores acessarem o painel administrativo. Saiba mais sobre a página no artigo [Autenticação](/pt/docs/tutorials/autenticacao).
 
 ## Usuários
 
@@ -43,5 +43,5 @@ Esta página  mostra a lista de usuários com os respectivos Nome, Email e confi
 
 ## Chaves de aplicação
 
-Nesta página, é possível gerenciar chaves de aplicação, que são usadas para conectar a sua conta VTEX com sistemas externos via API. Essas chaves são usadas para garantir o acesso seguro aos dados que você deseja compartilhar com as integrações, sem expor sua conta a aplicações ou usuários não autorizados. Saiba mais sobre a página no artigo [Chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet).
+Nesta página, é possível gerenciar chaves de aplicação, que são usadas para conectar a sua conta VTEX com sistemas externos via API. Essas chaves são usadas para garantir o acesso seguro aos dados que você deseja compartilhar com as integrações, sem expor sua conta a aplicações ou usuários não autorizados. Saiba mais sobre a página no artigo [Chaves de aplicação](/pt/docs/tutorials/chaves-de-api).
 

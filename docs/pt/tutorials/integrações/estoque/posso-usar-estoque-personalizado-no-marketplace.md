@@ -21,4 +21,4 @@ Dessa forma, esse estoque pode ser o mesmo adotado pela loja principal ou um esp
 
 ## Usando um estoque personalizado
 
-Configurar um estoque personalizado significa adotar prazos e preços diferentes de todas as outras configurações utilizadas na loja. Portanto, será preciso configurar uma [nova política comercial](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/) e uma [nova regra de logística para marketplace](/pt/tutorial/configurando-logistica-para-marketplace/).
+Configurar um estoque personalizado significa adotar prazos e preços diferentes de todas as outras configurações utilizadas na loja. Portanto, será preciso configurar uma [nova política comercial](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace/) e uma [nova regra de logística para marketplace](/pt/docs/tutorials/configurando-logistica-para-marketplace/).

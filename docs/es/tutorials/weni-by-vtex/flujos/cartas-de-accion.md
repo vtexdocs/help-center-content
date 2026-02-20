@@ -125,7 +125,7 @@ Para completar los campos del contacto, solo necesitas utilizar la opción **Act
 
 #### Envía un correo electrónico
 
-Aquí puedes enviar un correo electrónico a alguien. Este correo puede ser tanto del contacto que está ejecutando el flujo, como de cualquier otro. Recuerda que el correo electrónico no es un canal de conversación en la Plataforma Weni, es decir, si alguien responde al correo enviado, la respuesta irá a la bandeja de entrada del correo electrónico configurado en la organización. Para más información, visita el artículo de [configuración de la organización](/https://help.vtex.com/es/docs/tutorials/configuraciones-generales-de-proyecto).
+Aquí puedes enviar un correo electrónico a alguien. Este correo puede ser tanto del contacto que está ejecutando el flujo, como de cualquier otro. Recuerda que el correo electrónico no es un canal de conversación en la Plataforma Weni, es decir, si alguien responde al correo enviado, la respuesta irá a la bandeja de entrada del correo electrónico configurado en la organización. Para más información, visita el artículo de [configuración de la organización/es/docs/tutorials/configuraciones-generales-de-proyecto).
 
 ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/cartas-de-accion_14.png)
 

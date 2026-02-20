@@ -43,15 +43,15 @@ Cada sección proporciona información como:
 A lo largo de las siguientes secciones puedes consultar la forma en que se relacionan los datos con tu negocio y la relevancia para tu proyecto.  
 Los conjuntos de datos disponibles son los siguientes:  
 
-- [Catálogo](/es/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
-- [Navegación](/es/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)  
-- [Pagos](/es/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs) 
-- [Pedidos](/es/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
-- [Precios](/es/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-- [Promociones](/es/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)  
-- [Stock](/es/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2) 
-- [Tarjeta de regalo](/es/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Registro del Bridge](/es/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
-- [Marketplace in](/es/tutorial/marketplace-in-data-pipeline--4L3hlSqsnxGqVyxmoYvjTV)
-- [Disponibilidad de carrito](/es/tutorial/disponibilidade-de-carrinho-data-pipeline--1TU6rsMUlwmSoVVLs6Oom0)
+- [Catálogo](/es/docs/tutorials/catalogo-data-pipeline)
+- [Navegación](/es/docs/tutorials/navegacion-data-pipeline)  
+- [Pagos](/es/docs/tutorials/pagos) 
+- [Pedidos](/es/docs/tutorials/pedidos-data-pipeline-beta) 
+- [Precios](/es/docs/tutorials/precios-data-pipeline-beta)  
+- [Promociones](/es/docs/tutorials/promociones)  
+- [Stock](/es/docs/tutorials/stock-data-pipeline-beta) 
+- [Tarjeta de regalo](/es/docs/tutorials/tarjeta-de-regalo-data-pipeline)
+- [Registro del Bridge](/es/docs/tutorials/registros-del-bridge-data-pipeline)
+- [Marketplace in](/es/docs/tutorials/marketplace-in-data-pipeline)
+- [Disponibilidad de carrito](/es/docs/tutorials/disponibilidad-de-carrito-data-pipeline)
 

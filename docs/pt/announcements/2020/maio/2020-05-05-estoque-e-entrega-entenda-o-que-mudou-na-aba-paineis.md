@@ -40,5 +40,5 @@ Enquanto o design da aba foi aprimorado, os campos de configuração não foram 
 Nossos artigos do Help Center serão atualizados gradualmente, mantendo por algum tempo um lembrete da mudança para suavizar a transição. Porém, a partir de agora você encontrará somente o termo "políticas de envio" no seu Admin. 
 
 Se quiser saber mais sobre o módulo, acesse nossa [documentação](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/55MezrFTw2limlgT7KUg6l). 
-As APIs correspondentes às Políticas de Envio também já foram documentadas em nosso [Developer Portal](https://developers.vtex.com/reference/shipping-policies).
+As APIs correspondentes às Políticas de Envio também já foram documentadas em nosso [Developer Portal](https://developers.vtex.com/docs/api-reference/logistics-api).
 

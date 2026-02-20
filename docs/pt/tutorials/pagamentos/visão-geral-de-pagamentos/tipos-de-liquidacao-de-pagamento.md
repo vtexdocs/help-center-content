@@ -45,6 +45,8 @@ Nessa configuração, quando o lojista emite uma [nota fiscal parcial](https://h
 
 Conforme novas notas fiscais são adicionadas, o gateway vai liquidando os valores restantes (até R$ 40, neste exemplo), de forma proporcional e automática.
 
+> ⚠️ Em pedidos pagos com múltiplos meios de pagamento, o sistema processa a operação inicialmente no meio com o menor valor atribuído à transação.
+
 > ⚠️ Apenas o fluxo de liquidação **Total** é ativado por padrão em todas as contas VTEX. Caso deseje utilizar os fluxos de liquidação **Retida** ou **Parcial** em sua loja, entre em contato com o [Suporte VTEX](https://help.vtex.com/pt).
 
 ## Como identificar a liquidação parcial de um pedido

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-After [reporting the invoice](/en/tutorial/como-inserir-a-nota-fiscal--tutorials_193), it is possible to obtain the delivery data in the order. This data corresponds to the carrier name, tracking code, and tracking URL, and can be entered either via the interface or via the Order Management module API.
+After [reporting the invoice](/en/docs/tutorials/how-to-manually-invoice-an-order), it is possible to obtain the delivery data in the order. This data corresponds to the carrier name, tracking code, and tracking URL, and can be entered either via the interface or via the Order Management module API.
 
 ## Integration with carriers
 
@@ -31,7 +31,7 @@ You can actively update the tracking data using the [Update Order Tracking Statu
 
 This data can be sent by any external system that is tracking the delivery status of the package, whether it be an ERP, middleware, or the carrier itself.
 
-It is also possible to [insert the variable](/en/tutorial/incluir-variaveis-do-pedido-no-template-de-e-mail-transacional--694Bn8eOeAWYQeaWGaOISe) `trackingURL` in some [Message Center templates](/en/tutorial/lista-de-templates-de-e-mail-no-message-center--3g2S2kqBOoSGcCaqMYK2my), such as **Order invoiced** and **Order shipped**, which will allow the client to track their order via the link.
+It is also possible to [insert the variable](/en/tutorial/incluir-variaveis-do-pedido-no-template-de-e-mail-transacional--694Bn8eOeAWYQeaWGaOISe) `trackingURL` in some [Message Center templates](/en/docs/tutorials/order-transactional-email-templates), such as **Order invoiced** and **Order shipped**, which will allow the client to track their order via the link.
 
 ## Integration with Correios
 

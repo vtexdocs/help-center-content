@@ -21,4 +21,4 @@ This inventory, therefore, may be the same used by the main store or another one
 
 ## Using a customized inventory
 
-Setting up a customized inventory means that different terms and prices than all other settings used in the store will be applied. Therefore, you need to set up a [new sales policy](/en/tutorial/configuring-a-marketplace-sales-policy/) and a [new logistics rule for the marketplace](/en/tutorial/configuring-logistics-for-a-marketplace/).
+Setting up a customized inventory means that different terms and prices than all other settings used in the store will be applied. Therefore, you need to set up a [new sales policy](/en/tutorial/configuring-a-marketplace-sales-policy/) and a [new logistics rule for the marketplace](/en/docs/tutorials/configuring-logistics-for-a-marketplace/).

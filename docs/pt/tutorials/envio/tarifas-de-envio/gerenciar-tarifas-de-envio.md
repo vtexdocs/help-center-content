@@ -15,14 +15,14 @@ locale: pt
 subcategoryId: 7uJcyu0VawEm8ggqKu404u
 ---
 
-As [tarifas de envio](/pt/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) da sua loja são os preços de frete que serão oferecidos aos seus clientes. Pelo módulo **Tarifas de envio** no Admin VTEX, você pode gerenciar individualmente uma tarifa de envio utilizando o código postal. Nesse módulo, é possível:
+As [tarifas de envio](/pt/docs/tutorials/tarifas-de-envio) da sua loja são os preços de frete que serão oferecidos aos seus clientes. Pelo módulo **Tarifas de envio** no Admin VTEX, você pode gerenciar individualmente uma tarifa de envio utilizando o código postal. Nesse módulo, é possível:
 
 * [Cadastrar](#cadastrar) novas tarifas de envio;
 * [Pesquisar](#pesquisar) as tarifas de envio existentes;
 * [Editar](#editar) as tarifas de envio;
 * [Excluir](#excluir) as tarifas de envio.
 
-> ℹ️ Para casos em que há vários preços de envio para serem atualizados ou cadastrados, recomendamos utilizar a Planilha de frete em vez do módulo **Tarifas de envio**. Caso queira conferir como as tarifas de envio cadastradas serão apresentadas ao cliente final, utilize o módulo **[Simulador de envio**](/pt/tutorial/simulacao-de-frete--tutorials_144).
+> ℹ️ Para casos em que há vários preços de envio para serem atualizados ou cadastrados, recomendamos utilizar a Planilha de frete em vez do módulo **Tarifas de envio**. Caso queira conferir como as tarifas de envio cadastradas serão apresentadas ao cliente final, utilize o módulo **[Simulador de envio**](/pt/docs/tutorials/simulador-de-envio).
 
 ## Cadastrar
 
@@ -31,7 +31,7 @@ Para cadastrar uma nova tarifa de envio, siga as instruções abaixo:
 1. No Admin VTEX, acesse **Envio > Tarifas de envio** ou digite *Tarifas de envio* na barra de busca no topo da página.     
 2. Clique no botão `Novo Valor de Frete`.  
 3. Preencha os campos:
-    * **Política de envio:** selecione a [política de envio](/pt/tutorial/politica-de-envio--tutorials_140) que corresponde à nova tarifa;
+    * **Política de envio:** selecione a [política de envio](/pt/docs/tutorials/politica-de-envio) que corresponde à nova tarifa;
     * **País**: país em que a transportadora fará a entrega;
     * **Faixa de código postal**: limite inicial e final dos códigos postais que a nova tarifa atende. Esse campo deve ser preenchido apenas com números e/ou letras.
     * **Faixa de peso**: limite inicial e final de peso que a transportadora aceita para o envio (considerando a tarifa de envio e o código postal). Esse campo deve ser preenchido por um número decimal. A unidade de peso (gramas, quilogramas, etc) deve ser a mesma utilizada no cadastro dos itens no catálogo (SKU). 
@@ -51,7 +51,7 @@ Para consultar as tarifas de envio cadastradas, siga as instruções abaixo:
 3. Selecione uma **Política de envio**;
 4. Clique no botão `Pesquisar`.
 
-Ficará disponível uma lista com os requisitos da pesquisa. A lista contém as tarifas cadastradas (tanto pela [planilha de frete](/pt/tutorial/planilha-de-frete--tutorials_127) quanto pelas [tarifas de envio](/pt/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM)) e é possível [editar ](#editar)ou [excluir](#excluir) uma tarifa de envio.
+Ficará disponível uma lista com os requisitos da pesquisa. A lista contém as tarifas cadastradas (tanto pela [planilha de frete](/pt/docs/tutorials/planilha-de-frete) quanto pelas [tarifas de envio](/pt/docs/tutorials/tarifas-de-envio)) e é possível [editar ](#editar)ou [excluir](#excluir) uma tarifa de envio.
 
 ## Editar
 

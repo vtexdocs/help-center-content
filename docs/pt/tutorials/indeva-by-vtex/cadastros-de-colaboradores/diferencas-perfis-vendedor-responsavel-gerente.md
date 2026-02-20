@@ -28,6 +28,6 @@ A principal diferença entre os dois está na participação em metas e na visib
 
 Consulte os tutoriais de cadastro:
 
-- [Gerenciar perfil de Vendedor Responsável (VR)](/pt/tutorial/vendedor-responsavel-vr-indeva--p1VOMt1lIBqT3il1frgJT)  
-- [Cadastrar gerente na plataforma Indeva](/pt/tutorial/cadastro-de-gerente-indeva--6r2bjS0LFdUX0kyt0NyWhf)
+- [Gerenciar perfil de Vendedor Responsável (VR)](/pt/docs/tutorials/gerenciar-perfil-vendedor-responsavel-vr-indeva)  
+- [Cadastrar gerente na plataforma Indeva](/pt/docs/tutorials/cadastrar-gerente-plataforma-indeva)
 

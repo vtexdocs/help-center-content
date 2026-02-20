@@ -23,6 +23,6 @@ Caso queira, você pode disponibilizar sua loja em outros endereços por meio de
 
 Para disponibilizar sua loja em diferentes endereços, existem dois tipos de redirecionamentos possíveis:
 
-- [Configurar acesso sem www](/pt/tutorial/configurando-acesso-sem-www--tutorials_4278)
- - [Redirecionamento de outros endereços](/pt/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ)
+- [Configurar acesso sem www](/pt/docs/tutorials/melhores-praticas-para-acessar-a-loja-sem-www)
+ - [Redirecionamento de outros endereços](/pt/docs/tutorials/redirecionamento-de-outros-enderecos)
 

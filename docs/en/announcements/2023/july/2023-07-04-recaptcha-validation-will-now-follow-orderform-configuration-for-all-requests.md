@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Merchants that use the Checkout API to place orders from mobile apps/headless storefronts must review their integrations'
 ---
 
-[reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha) is a security service used to determine if a given action is performed by a real user or malicious automation, protecting websites from fraud and abuse. By activating [reCAPTCHA at checkout](/en/tutorial/using-recaptcha-at-checkout--18Te3oDd7f4qcjKu9jhNzP), you are following best practices against virtual attacks and reducing the risk that your store can be exploited for fraudulent purposes.
+[reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha) is a security service used to determine if a given action is performed by a real user or malicious automation, protecting websites from fraud and abuse. By activating [reCAPTCHA at checkout](/en/docs/tutorials/using-recaptcha-at-checkout), you are following best practices against virtual attacks and reducing the risk that your store can be exploited for fraudulent purposes.
 
 To further protect our customers, VTEX will now enforce the reCAPTCHA orderForm configuration set in each account for all Checkout API requests, regardless of the roles associated with the user or application key.
 
@@ -23,7 +23,7 @@ Merchants that use the Checkout API to place orders from mobile apps, headless s
 
 ## What is changing?
 
-Before, reCAPTCHA verification was not required for orders placed by users and application keys with the `Shopping Cart Full Access` [resource in License Manager](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3). This includes [predefined roles](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy) such as `Owner (Admin Super)` and `User Admin - RESTRICTED`, as well as the [Sponsor user](/en/tutorial/what-is-the-sponsor-user--3oPr7YuIkEYqUGmEqIMSEy).
+Before, reCAPTCHA verification was not required for orders placed by users and application keys with the `Shopping Cart Full Access` [resource in License Manager](/en/docs/tutorials/license-manager-resources). This includes [predefined roles](/en/docs/tutorials/predefined-roles) such as `Owner (Admin Super)` and `User Admin - RESTRICTED`, as well as the [Sponsor user](/en/docs/tutorials/what-is-the-sponsor-user).
 
 Now, reCAPTCHA verification will follow orderForm configuration set in each account for all Checkout API requests, regardless of the roles associated with the user or application key.
 
@@ -76,8 +76,8 @@ After the shopper has completed the reCAPTCHA challenge, their response (`recapt
 
 Check out the following documentation to learn more about reCAPTCHA and best practices to ensure your store is protected:
 
-- [Using reCAPTCHA at Checkout](/en/tutorial/using-recaptcha-at-checkout--18Te3oDd7f4qcjKu9jhNzP)
-- [Best practices against virtual attacks](/en/tutorial/best-practices-against-virtual-attacks--191rpbF7UgrKapVCi1PCDE)
-- [Best practices for using application keys](/en/tutorial/best-practices-application-keys--7b6nD1VMHa49aI5brlOvJm)
-- [License Manager resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)
+- [Using reCAPTCHA at Checkout](/en/docs/tutorials/using-recaptcha-at-checkout)
+- [Best practices against virtual attacks](/en/docs/tutorials/best-practices-against-virtual-attacks)
+- [Best practices for using application keys](/en/docs/tutorials/best-practices-api-keys)
+- [License Manager resources](/en/docs/tutorials/license-manager-resources)
 

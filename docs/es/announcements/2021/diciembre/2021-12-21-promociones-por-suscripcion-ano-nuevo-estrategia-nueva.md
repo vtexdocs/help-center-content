@@ -20,7 +20,7 @@ Las promociones por suscripción son una forma práctica e intuitiva de atraer a
 Ahora hay un mayor control sobre la configuración de las promociones por suscripción en tu tienda, ya que esta funcionalidad te permite crear promociones por suscripción con una frecuencia que puede ser de días, semanas, meses o años.
 
 ## ¿Qué cambió?
-Al [crear una promoción por suscripción](/es/tutorial/como-crear-una-promocion-por-suscripcion--3ROT13HYNeUIv0plDqgNed), antes era posible seleccionar las opciones de frecuencia **semanal**, **mensual** o **anual**.
+Al [crear una promoción por suscripción](/es/docs/tutorials/como-crear-una-promocion-por-suscripcion), antes era posible seleccionar las opciones de frecuencia **semanal**, **mensual** o **anual**.
 Ahora, al crear una promoción por suscripción, puedes elegir entre **días**, **semanas**, **meses** o **años** y definir un valor numérico para la frecuencia.
 
 ## ¿Por qué realizamos este cambio? 
@@ -29,5 +29,5 @@ Hemos mejorado la configuración de las promociones por suscripción para que se
 ## ¿Qué se necesita hacer? 
 No se requiere ninguna acción, el cambio es automático para todas las tiendas VTEX. 
 Las promociones creadas anteriormente, en el formato sin valor numérico, siguen funcionando con la configuración original.
-Para saber más, consulta los artículos [Crear una promoción por suscripción](/es/tutorial/como-crear-una-promocion-por-suscripcion--3ROT13HYNeUIv0plDqgNed) y  [Plan de suscripción](/es/tutorial/planes-de-suscripcion-beta--5kczKRqHEsrs1tYtRcY8wR).
+Para saber más, consulta los artículos [Crear una promoción por suscripción](/es/docs/tutorials/como-crear-una-promocion-por-suscripcion) y  [Plan de suscripción](/es/docs/tutorials/planes-de-suscripcion).
 

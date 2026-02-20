@@ -19,7 +19,7 @@ VTEX Tracking é uma solução da VTEX voltada ao monitoramento de entregas. A a
 
 Este artigo explica todos os passos para instalar e configurar a integração entre uma loja VTEX e a app VTEX Tracking. Os passos abaixo são realizados após o contrato de utilização dos serviços VTEX Tracking ser assinado, e a plataforma web habilitada.
 
-Para clientes VTEX Tracking que não possuem ambiente VTEX, a integração entre sua loja e a app é feita através de nossas rotas de API. Saiba mais sobre [como funciona o VTEX Tracking](/pt/tutorial/visao-geral-vtex-tracking--1uDRquVudbPuoK05MtbZGh), e confira a [documentação de API](https://developers.vtex.com/docs/api-reference/tracking).
+Para clientes VTEX Tracking que não possuem ambiente VTEX, a integração entre sua loja e a app é feita através de nossas rotas de API. Saiba mais sobre [como funciona o VTEX Tracking](/pt/docs/tutorials/visao-geral-vtex-tracking), e confira a [documentação de API](https://developers.vtex.com/docs/api-reference/tracking).
 
 ## Como instalar a app
 
@@ -96,5 +96,5 @@ Ao ativar essa opção, o VTEX Tracking passará a enviar uma atualização para
 
 ### Acessar admin VTEX Tracking
 
-Uma vez feitas as configurações necessárias, o botão `Acessar` ficará ativo para que o lojista possa acessar a [plataforma web](/pt/tutorial/visao-geral-vtex-tracking--1uDRquVudbPuoK05MtbZGh), ou Admin, do VTEX Tracking. Atualmente este é um ambiente separado, acessível por meio das mesmas credenciais usadas para login na sua loja VTEX. 
+Uma vez feitas as configurações necessárias, o botão `Acessar` ficará ativo para que o lojista possa acessar a [plataforma web](/pt/docs/tutorials/visao-geral-vtex-tracking), ou Admin, do VTEX Tracking. Atualmente este é um ambiente separado, acessível por meio das mesmas credenciais usadas para login na sua loja VTEX. 
 

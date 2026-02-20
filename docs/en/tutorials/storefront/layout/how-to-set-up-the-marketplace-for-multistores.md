@@ -28,6 +28,6 @@ In order for your products to be sent to the marketplace, the trade policy being
 1. In the VTEX Admin, access **Storefront > Layout**
 2. Click the __CMS__ folder, and then click __Sites and Channels__.
 3. Click the website.
-4. [Link an account name and the trade policies you want](/en/tutorial/linking-an-account-name-to-a-website-binding) to this website.
+4. [Link an account name and the trade policies you want](/en/docs/tutorials/linking-an-account-name-to-a-website-binding) to this website.
 
 The trade policies configured in the steps above will be available for the Integrations of this particular store. Now, just access the Integrations with the account name of this store (`https://{account-name}.vtexcommercestable.com.br/admin/bridge/`) and [set it up](/en/tutorial/integrating-with-marketplace).

@@ -39,7 +39,7 @@ Once the event is turned on, all configurations become available for setup. In t
 | :---: | :--- |
 | ID | Event ID, its unique identifier. |
 | Event name | Name of the event. |
-| UTM source | [UTM source](/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) configured to track event data. |
+| UTM source | [UTM source](/en/docs/tutorials/what-are-utm-source-utm-campaign-and-utm-medium) configured to track event data. |
 | Minutes used | Transmission minutes elapsed, counted in real time. It only starts counting when the event broadcast begins. |
 | Inbound server | Server code used to connect the event between different VTEX stores or other platforms, such as Facebook and YouTube. |
 | Server key | Server key identification used to connect the event between different VTEX stores or other platforms, such as Facebook and YouTube. |

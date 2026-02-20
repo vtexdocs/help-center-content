@@ -17,7 +17,7 @@ subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 
 La sección **Agentes** permite al usuario asignar agentes al equipo y probarlos.
 
-Algunos agentes oficiales requieren credenciales. Consulta la lista completa en [Agentes oficiales de Weni by VTEX y sus credenciales](/es/tutorial/agentes-oficiais-da-weni-by-vtex--7E8wlD3T41CiOexDVH1SIy).
+Algunos agentes oficiales requieren credenciales. Consulta la lista completa en [Agentes oficiales de Weni by VTEX y sus credenciales](/es/docs/tutorials/agentes-oficiales-de-weni-by-vtex).
 
 > ℹ️ Para crear agentes personalizados, utiliza la CLI de Weni by VTEX. Consulta la [documentación](https://weni-ai.github.io/weni-cli/getting-started/installation/) para crear tu propio agente.
 

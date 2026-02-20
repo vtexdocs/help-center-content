@@ -75,7 +75,7 @@ You can choose from the following options:
 Determine the conditions and discount percentages to be applied. See the available conditions below:
 
 - **SKUs:** Select the SKUs that the progressive discount will apply to. This option restricts the promotion to products associated with the selected SKUs.
-- **Collections:** Select the product [collections](/en/tutorial/criando-colecao-de-produtos--tutorials_244) that the progressive discount will apply to. This option allows you to apply the promotion to a group of predefined products.
+- **Collections:** Select the product [collections](/en/docs/tutorials/creating-a-product-collection) that the progressive discount will apply to. This option allows you to apply the promotion to a group of predefined products.
 - **Must be the same item:** This option restricts the discount to products that are the same. For example, if you add different SKUs from the same collection, the promotion won't be applied. The rule only checks the quantity of the single SKU in the cart.
 - **Discount:** Set the discount percentage applied when the minimum quantity of items defined is reached. You can create up to 10 progressive discount ranges.
 - **Add range:** Configure additional progressive discount levels. For example, you can define a 5% discount with a quantity of 10, and an increase to 10% when the quantity reaches 20. The maximum number of configurable ranges is 10.
@@ -98,7 +98,7 @@ Conditions allow the promotion to activate under specific circumstances based on
 
 ![Local de entrega-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/progressive-discount_10.png)        
 
-- **UTM:**  Configure the promotion to apply when the site is accessed via a URL with [UTM parameters](/en/tutorial/o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p--5Pvo8ufYWs00AUeCCEY68a) or when a coupon linked to these parameters is used. Set the UTM parameters according to the formatting rules, using only letters, numbers, hyphens, and underscores.
+- **UTM:**  Configure the promotion to apply when the site is accessed via a URL with [UTM parameters](/en/docs/tutorials/what-are-the-internal-utms) or when a coupon linked to these parameters is used. Set the UTM parameters according to the formatting rules, using only letters, numbers, hyphens, and underscores.
 
  > ℹ️ Using these parameters is optional and allows you to apply discounts to specific campaigns.
 
@@ -130,7 +130,7 @@ In this section, you can highlight the promotion on the product listing page and
 
 - **Highlight promotion on products:** Check this option to display the promotion directly on the product listing pages.
 
-> ⚠️ Remember [configure this option in the CMS module](/en/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
+> ⚠️ Remember [configure this option in the CMS module](/en/docs/tutorials/configuring-promotions-with-a-highlightflag).
 
 - **Additional information:** Click `Create` to add custom fields with name and value, which can be used for store customizations.
 

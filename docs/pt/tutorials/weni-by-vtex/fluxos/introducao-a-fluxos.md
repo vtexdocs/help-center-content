@@ -62,4 +62,4 @@ Para criar uma carta de nota, basta clicar duas vezes em um lugar vazio no fluxo
 ###  E agora?
 Agora que conhecemos melhor o conceito de fluxo e entendemos como ele é formado, podemos nos aprofundar em cada uma das cartas que existem, além de algumas outras configurações dentro do nosso editor.
 
-Caso queira se aprofundar mais, acesse nosso artigo sobre [criação de fluxos](https://help.vtex.com/pt/docs/tutorials/criacao-de-fluxos).
+Caso queira se aprofundar mais, acesse nosso artigo sobre [criação de fluxos](/pt/docs/tutorials/criacao-de-fluxos).

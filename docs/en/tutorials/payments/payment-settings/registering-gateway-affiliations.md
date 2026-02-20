@@ -38,11 +38,11 @@ To add a new payment or antifraud provider to your store, follow the steps below
 
 > ℹ️ If there are other fields to be completed besides App key and App token (Step 6), the gateway provider must be configured according to the specific tutorial. For more information, see the [Payment Settings](/en/subcategory/payment-settings--3tDGibM2tqMyqIyukqmmMw) subsection.
 
-> ❗ The credentials used to complete the App key and Appn token fields must be supplied by the payment provider to identify the store. [Credentials generated in the Admin](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) starting with `vtexappkey-` should be used.
+> ❗ The credentials used to complete the App key and Appn token fields must be supplied by the payment provider to identify the store. [Credentials generated in the Admin](/en/docs/tutorials/api-keys) starting with `vtexappkey-` should be used.
 
-To configure the payment methods that will be processed by your chosen payment provider, read [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455).
+To configure the payment methods that will be processed by your chosen payment provider, read [Configuring Payment Conditions](/en/docs/tutorials/how-to-configure-payment-conditions).
 
-To set special conditions for payment methods, read [Configuring payment special  conditions](/en/tutorial/special-conditions--tutorials_456).
+To set special conditions for payment methods, read [Configuring payment special  conditions](/en/docs/tutorials/special-conditions).
 
 ![interface_provedor_EN_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/registering-gateway-affiliations_2.JPG)
 

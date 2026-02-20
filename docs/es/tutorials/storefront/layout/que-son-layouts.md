@@ -15,14 +15,14 @@ locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-Los __layouts__ son los responsables de determinar qué [placeholders](/es/tutorial/que-son-placeholders) serán exhibidos en las páginas de su [web site](/es/tutorial/que-es-un-web-site). Usted los encuentra organizados por carpetas, en el directorio **Sites and Channels** del [CMS](/es/faq/que-es-el-cms)
+Los __layouts__ son los responsables de determinar qué [placeholders](/es/docs/tutorials/que-son-placeholders) serán exhibidos en las páginas de su [web site](/es/docs/tutorials/que-es-un-web-site). Usted los encuentra organizados por carpetas, en el directorio **Sites and Channels** del [CMS](/es/faq/que-es-el-cms)
 
-Esto se hace primero a partir de la configuración del placeholder, que va a decir qué tipo es utilizado y el archivo que va a llenarlo. Después, para que el layout se sea funcional, debe estar vinculado a un [template](/es/tutorial/que-son-templates). Así, el código de la página en la que se mostrará el placeholder va a saber exactamente de dónde viene la información.
+Esto se hace primero a partir de la configuración del placeholder, que va a decir qué tipo es utilizado y el archivo que va a llenarlo. Después, para que el layout se sea funcional, debe estar vinculado a un [template](/es/docs/tutorials/que-son-templates). Así, el código de la página en la que se mostrará el placeholder va a saber exactamente de dónde viene la información.
 
 > ⚠️ **Importante:**<br> Para funcionar, cada layout debe estar vinculado a un solo template.
 
 ### Artículos relacionados
 - [¿Qué es el CMS?](/es/faq/que-es-el-cms)
-- [¿Qué es un sitio web?](/es/tutorial/que-es-un-web-site)
-- [¿Qué son templates?](/es/tutorial/que-son-templates)
-- [¿Qué son placeholders?](/es/tutorial/que-son-placeholders)
+- [¿Qué es un sitio web?](/es/docs/tutorials/que-es-un-web-site)
+- [¿Qué son templates?](/es/docs/tutorials/que-son-templates)
+- [¿Qué son placeholders?](/es/docs/tutorials/que-son-placeholders)

@@ -15,13 +15,13 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the CMS](/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L).
+> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the CMS](/en/docs/tutorials/adding-collections-cms).
 
 On the __Storefront__ > __Layout__ page, a standard layout is established for all pages of the same kind included on each folder of a website; e.g. product. 
 
 However, it is possible to apply different layouts for the same page through certain conditions (group of products, categories, brands). They would be two products with different layouts or a specific category with a special layout, for example.
 
-To do so, select a new template, be it a [page](/en/faq/how-to-create-a-page-template) or [shelf](/en/faq/how-to-create-a-shelf-template). After creating it, follow the steps below in order to select the foulder in which you want to apply the new layout: 
+To do so, select a new template, be it a [page](/en/docs/tutorials/how-to-create-a-page-template) or [shelf](/en/docs/tutorials/how-to-create-a-shelf-template). After creating it, follow the steps below in order to select the foulder in which you want to apply the new layout: 
 
 1. On __Storefront__, access __Layout__;
 2. Click on the __CMS__ folder;
@@ -39,7 +39,7 @@ It is possible to limit the availability of the template to a predetermined peri
 
 After filling in all the needed fields, do not forget to save the changes made by clicking on __Save Layout__.
 
-Please note that these criteria are based on the page's ["search context"](/en/tutorial/--q0p2UU6sBaYcEMsq24YSi) on which the user is, which is directly tied to the [search parameters](/en/tutorial/--tutorials_567), but that are not necessarily set manually by the store admin - the entire page automatically fits in a content context.
+Please note that these criteria are based on the page's ["search context"](/en/docs/tutorials/how-to-create-landing-pages-with-customized-urls) on which the user is, which is directly tied to the [search parameters](/en/tutorial/--tutorials_567), but that are not necessarily set manually by the store admin - the entire page automatically fits in a content context.
 
 It happens that the offered conditions are not present on any page:
 

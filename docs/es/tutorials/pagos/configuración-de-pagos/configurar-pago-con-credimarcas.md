@@ -37,7 +37,7 @@ Para configurar la afiliación Credimarcas, siga los pasos a continuación:
 
 ## Configurar Pagaré
 
-> ⚠️ Si aún no has configurado el pagaré como método de pago en otros conectores de tu tienda, accede a [Configurar pagos con Pagaré](/es/tutorial/configurar-pagos-con-pagare--5pW7avTwtyQcMu4uiW8quQ).
+> ⚠️ Si aún no has configurado el pagaré como método de pago en otros conectores de tu tienda, accede a [Configurar pagos con Pagaré](/es/docs/tutorials/configurar-pagos-con-pagare).
 
 Para utilizar Credimarcas con pagarés, sigue los pasos a continuación:
 
@@ -46,11 +46,11 @@ Para utilizar Credimarcas con pagarés, sigue los pasos a continuación:
 3. En **Pago personalizado**, haga clic en el botón correspondiente al nombre utilizado para el método de pago del pagaré previamente configurado.
 4. Active la condición en el campo **Status**.
 5. En **Procesar con proveedor**, seleccione **confepartnerco-credimarcas-v0**.
-6. Si lo desea, también puede configurar [condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456).
+6. Si lo desea, también puede configurar [condiciones especiales de pago](/es/docs/tutorials/condiciones-especiales).
 7. Haga clic en `Guardar`.
 
 ## Configurar Private label
 
-Para utilizar Credimarcas con tarjetas private labels, acceda a [Configurar pagos con Private Label](/es/tutorial/configurar-pagos-con-private-label--428FgVdSGQUeAOoogkaIw4).
+Para utilizar Credimarcas con tarjetas private labels, acceda a [Configurar pagos con Private Label](/es/docs/tutorials/configurar-pagos-con-private-label).
 
 Después de seguir los pasos indicados, Credimarcas puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

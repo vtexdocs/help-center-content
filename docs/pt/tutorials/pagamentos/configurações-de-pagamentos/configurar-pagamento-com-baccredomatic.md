@@ -29,7 +29,7 @@ Para configurar Baccredomatic, siga os passos abaixo:
 6. Em **Campos do provedor**, selecione ou preencha os campos **Client ID**, **Secret Token**, **Currency**, **Installments** e **Type Flow Payment** conforme orientações do provedor.
 7. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela Baccredomatic, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela Baccredomatic, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

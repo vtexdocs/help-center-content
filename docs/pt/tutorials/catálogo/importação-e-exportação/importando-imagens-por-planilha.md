@@ -87,7 +87,7 @@ __Label__ é a “etiqueta” usada para facilitar na organização do template 
 > ℹ️ O preenchimento deste campo é obrigatório. A ID informada precisa ser correspondente à ID de um SKU já existente no **Catálogo**.
 
 O ID do SKU é o código que identifica o SKU que será associado à imagem. É possível obter este código através da exportação de __Produtos e SKUs__ — leia o artigo [Como exportar planilha de produtos
-](/pt/tutorial/como-exportar-planilha-de-produtos--2sIroGeqZqaN3NAvaSGwWV) para mais informações.
+](/pt/docs/tutorials/como-exportar-planilha-de-produtos) para mais informações.
 
 ### CodigoreferenciaSku
 

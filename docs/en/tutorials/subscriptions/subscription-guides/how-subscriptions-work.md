@@ -29,7 +29,7 @@ For VTEX, a subscription consists of an SKU list that is linked to a specific pu
 
 ## How your customer generates an order with a subscription
 
-When you finish [configuring the Subscription feature](/en/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj), your customers will be able to generate a subscription order in your store. There are two ways for your customers to create a subscription:
+When you finish [configuring the Subscription feature](/en/docs/tutorials/how-to-configure-subscriptions), your customers will be able to generate a subscription order in your store. There are two ways for your customers to create a subscription:
 
 ### By adding products to the subscription during checkout
 
@@ -45,11 +45,11 @@ To do that, go to the **My Account** page on your store's website, access the **
 
 ## How your customers view and manage their subscriptions
 
-> ℹ️ In [My Account](/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), customers can only access their orders from the last two years.
+> ℹ️ In [My Account](/en/docs/tutorials/how-my-account-works), customers can only access their orders from the last two years.
 
 A list of all the customer’s subscriptions, containing their details and statuses, will be displayed in the **Subscriptions** section, on the **My Account** page. Your customer will also receive a confirmation of the subscription and the generated order by email.
 
-You will communicate with your customers about their subscriptions through the **Message Center** module. Please read our article about [Transactional emails for subscription orders](/en/tutorial/e-mails-transacionais-para-pedidos-de-assinatura--2NYHqHMRqZ43Cn6s84ZCB5).
+You will communicate with your customers about their subscriptions through the **Message Center** module. Please read our article about [Transactional emails for subscription orders](/en/docs/tutorials/transactional-emails-for-subscriptions-orders).
 
 ### Subscription details
 

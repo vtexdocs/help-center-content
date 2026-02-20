@@ -26,11 +26,11 @@ En este artículo trataremos los siguientes temas:
 
 ## Programar precios
 
-Para programar los precios fijos de su tienda para un evento específico, siga los pasos descritos en el artículo [Programar precios](/es/tutorial/programacion-de-precio-en-pricing-v2--4vVha6TGzYkguWuMOqCcCk). 
+Para programar los precios fijos de su tienda para un evento específico, siga los pasos descritos en el artículo [Programar precios](/es/docs/tutorials/programar-precio). 
 
 ## Programar promociones
 
-La programación de la promoción se hace durante su creación. Es posible programar todos los tipos de promoción VTEX - [Promoción Regular](/es/tracks/promociones--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Comprar Juntos](/es/tutorial/comprar-juntos-registro-de-promocion--tutorials_323), [Más por Menos](/es/tutorial/crear-promocion-lleve-mas-por-menos--tutorials_325), [Descuento Progresivo](/es/tutorial/descuento-progresivo--tutorials_324), [Comprar y Obtener](/es/tutorial/como-funciona-la-promocion-compre-y-gane--tutorials_322) y [Promoción de Campaña](/es/tutorial/promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume). 
+La programación de la promoción se hace durante su creación. Es posible programar todos los tipos de promoción VTEX - [Promoción Regular](/es/docs/tracks/crear-promocion-regular), [Comprar Juntos](/es/docs/tutorials/comprar-juntos-registro-de-promocion), [Más por Menos](/es/docs/tutorials/mas-por-menos), [Descuento Progresivo](/es/docs/tutorials/descuento-progresivo), [Comprar y Obtener](/es/docs/tutorials/como-funciona-la-promocion-compre-y-gane) y [Promoción de Campaña](/es/docs/tutorials/promocion-de-campana). 
 
 Para programar una promoción, siga los pasos a continuación:
 
@@ -39,10 +39,10 @@ Para programar una promoción, siga los pasos a continuación:
 3. Haga clic en el botón `Nueva promoción`.
 4. Haga clic en el tipo de promoción que desea crear.
 5. En la sección **¿Cuáles son los datos generales de la promoción?**, rellene el campo **Validez** con las fechas y horas de inicio y término de la promoción. Para programar la promoción, debe introducir una fecha y una hora posteriores a las de su creación.
-6. Rellene los [campos restantes de la promoción](/es/tutorial/registro-promocion-regular--tutorials_327) según su estrategia.
+6. Rellene los [campos restantes de la promoción](/es/docs/tutorials/registro-promocion-regular) según su estrategia.
 7. Haga clic en `Guardar`.
 
-Consulte el artículo [Ejemplos de promociones](/es/tutorial/ejemplos-de-promociones--5A8UTc7knvAscxo7e7rMFD) para ver ejemplos de promociones que se pueden configurar en VTEX.
+Consulte el artículo [Ejemplos de promociones](/es/docs/tutorials/ejemplos-de-promociones) para ver ejemplos de promociones que se pueden configurar en VTEX.
 
 ## Programar tasas
 
@@ -52,12 +52,12 @@ Al igual que la promoción, la programación de las tasas se realiza durante su 
 2. Haga clic en la página **Tasas**.
 3. Haga clic en el botón `Nueva Tasa`.
 4. En la sección **¿Cuáles son los datos generales de la tasa?**, rellene el campo **Validez** con las fechas y horas de inicio y término del periodo de validez de la tasa. Para programar la tasa, debe introducir una fecha y una hora posteriores a las de su creación.
-5. Rellene [los demás campos de la tasa](/es/tutorial/creating-surchargestaxes--tutorials_321#campos).
+5. Rellene [los demás campos de la tasa](/es/docs/tutorials/creando-la-tasaimpuesto#campos).
 6. Haga clic en `Guardar`.
 
 ## Programar contenido
 
-La programación de contenidos a través de Site Editor se puede hacer tanto al [crear](/es/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37#crear-contenido) como al [editar](/es/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37#editar-contenido) un bloque.  
+La programación de contenidos a través de Site Editor se puede hacer tanto al [crear](/es/docs/tutorials/gestionar-contenido-de-paginas-y-templates#crear-contenido) como al [editar](/es/docs/tutorials/gestionar-contenido-de-paginas-y-templates#editar-contenido) un bloque.  
 
 > ⚠️ La programación de contenidos solo está disponible para las tiendas desarrolladas en [VTEX IO](https://vtex.com/es-es/store-framework/). 
 

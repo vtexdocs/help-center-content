@@ -38,18 +38,18 @@ Siga os passos a seguir para criar um website ou colocar a sua primeira loja no 
 
 4. Após realizar as mudanças necessárias, clique em `Save Website`. Uma mensagem de confirmação aparecerá na tela e seu novo website será criado no diretório **Sites and channels**.
 
-5. Siga o tutorial [Vinculando uma loja a uma estrutura de pastas do CMS (binding)](/pt/tutorial/vincular-um-account-name-a-um-website-binding) para vincular o seu website a um account name.
+5. Siga o tutorial [Vinculando uma loja a uma estrutura de pastas do CMS (binding)](/pt/docs/tutorials/vincular-um-account-name-a-um-website-binding) para vincular o seu website a um account name.
 
 6. Em seguida, mude os templates e layouts do seu website como desejar. Para saber mais sobre como fazer essas mudanças, leia os artigos:
 
-  - [CMS Portal (Legado) - Visão geral](/pt/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262).
-  - [Criar um template de página](/pt/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850).
+  - [CMS Portal (Legado) - Visão geral](/pt/docs/tutorials/o-que-e-o-cms-layout).
+  - [Criar um template de página](/pt/docs/tutorials/como-criar-um-template-de-pagina).
   - [Lista de controles para templates](/pt/tutorial/lista-de-controles-para-templates).
 
 ## Artigos relacionados
 
 - [O que é um website?](/pt/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
-- [Vincular um account name a um website (binding)](/pt/tutorial/vincular-um-account-name-a-um-website-binding)
-- [CMS Portal (Legado) - Visão geral](/pt/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262)
-- [Criar um template de página](/pt/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850)
+- [Vincular um account name a um website (binding)](/pt/docs/tutorials/vincular-um-account-name-a-um-website-binding)
+- [CMS Portal (Legado) - Visão geral](/pt/docs/tutorials/o-que-e-o-cms-layout)
+- [Criar um template de página](/pt/docs/tutorials/como-criar-um-template-de-pagina)
 - [Lista de controles para templates](/pt/tutorial/lista-de-controles-para-templates)

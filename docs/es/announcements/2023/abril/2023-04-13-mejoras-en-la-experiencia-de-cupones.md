@@ -15,17 +15,17 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'La nueva experiencia de Cupones para presentar más información estratégica y nuevas posibilidades de configuración.'
 ---
 
-El principal objetivo de las promociones es aumentar la competitividad de la tienda y, en consecuencia, la tasa de conversión. Esto es posible cuando se ofrecen ventajas que resultan económicamente atractivas para los compradores. En este sentido, una estrategia de éxito sería utilizar [cupones](/es/tutorial/cupons-beta--1aAEN3ADpz19ss5JCIEBdL), es decir, códigos que puedes poner a disposición de los clientes de la tienda para aplicar promociones.
+El principal objetivo de las promociones es aumentar la competitividad de la tienda y, en consecuencia, la tasa de conversión. Esto es posible cuando se ofrecen ventajas que resultan económicamente atractivas para los compradores. En este sentido, una estrategia de éxito sería utilizar [cupones](/es/docs/tutorials/cupones-beta), es decir, códigos que puedes poner a disposición de los clientes de la tienda para aplicar promociones.
 
-Hemos actualizado el <i class="fas fa-bullhorn"></i> *Promociones > Cupones* del Admin VTEX para incluir más información estratégica en la lista de cupones existente y brindar más posibilidades de configuración a la hora de [crear nuevos cupones](/es/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU).
+Hemos actualizado el <i class="fas fa-bullhorn"></i> *Promociones > Cupones* del Admin VTEX para incluir más información estratégica en la lista de cupones existente y brindar más posibilidades de configuración a la hora de [crear nuevos cupones](/es/docs/tutorials/crear-cupon-beta).
 
 ## ¿Qué cambió?
 
-La nueva experiencia de [Cupones](/es/tutorial/cupons-beta--1aAEN3ADpz19ss5JCIEBdL) ofrece los siguientes recursos:
+La nueva experiencia de [Cupones](/es/docs/tutorials/cupones-beta) ofrece los siguientes recursos:
 
 ### Nueva lista de cupones
 
-La nueva [lista de Cupones](/es/tutorial/lista-de-cupons-beta--5z5ya3IonsC2W4B5h4JrsZ) muestra todos los cupones registrados en tu tienda, permitiendo gestionar los datos y analizar en qué pedidos se han utilizado.
+La nueva [lista de Cupones](/es/docs/tutorials/lista-de-cupones-beta) muestra todos los cupones registrados en tu tienda, permitiendo gestionar los datos y analizar en qué pedidos se han utilizado.
 
 ![listacupons es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/abril/2023-04-13-mejoras-en-la-experiencia-de-cupones_1.gif)
 
@@ -70,7 +70,7 @@ Si tu tienda utiliza versiones anteriores del Admin VTEX, ve a *Productos > Prom
 
 Para más información, lee los artículos: 
 
-- [Cupones](/es/tutorial/cupons-beta--1aAEN3ADpz19ss5JCIEBdL)
-- [Crear cupón](/es/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU)
-- [Lista de cupones](/es/tutorial/lista-de-cupons-beta--5z5ya3IonsC2W4B5h4JrsZ)
+- [Cupones](/es/docs/tutorials/cupones-beta)
+- [Crear cupón](/es/docs/tutorials/crear-cupon-beta)
+- [Lista de cupones](/es/docs/tutorials/lista-de-cupones-beta)
 - [Promotions & Taxes API v2](https://developers.vtex.com/docs/api-reference/promotions-and-taxes-api-v2#overview)

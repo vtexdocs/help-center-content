@@ -34,7 +34,7 @@ Para configurar Tupay, siga os passos abaixo:
 8. Em **Campos do provedor**, selecione ou preencha os campos **APIPassphrase**, **Expiration**, e **PaymentMethod** conforme orientações do provedor.
 9. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela Tupay, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela Tupay, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

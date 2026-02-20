@@ -26,7 +26,7 @@ Para configurar MaxiPagoV4, siga os passos abaixo:
 5. Caso deseje modificar o nome de identificação a ser exibido para o provedor MaxiPagoV4 na tela do Admin VTEX, insira a informação no campo __Nome__ em __Informações básicas__.
 6. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela MaxiPagoV4, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela MaxiPagoV4, acesse [Condições de Pagamento](/pt/docs/tutorials/condicoes-de-pagamento).
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 

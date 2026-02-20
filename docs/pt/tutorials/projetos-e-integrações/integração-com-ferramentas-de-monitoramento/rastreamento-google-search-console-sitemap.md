@@ -25,7 +25,7 @@ O sitemap de sua loja está disponível em [http://www.[dominio].com(.br)/sitema
 
 ## Cadastrando Sitemap no Search Console
 
-Após a [Verificação de propriedade](/pt/tutorial/como-verificar-propriedade-no-google-search-console-de-loja-vtex--frequentlyAskedQuestions_594) de sua loja no Search Console, você já possuirá a permissão de cadastrar e relacionar o sitemap de sua loja.
+Após a [Verificação de propriedade](/pt/docs/tutorials/como-verificar-propriedade-no-google-search-console-de-loja-vtex) de sua loja no Search Console, você já possuirá a permissão de cadastrar e relacionar o sitemap de sua loja.
 
 A indexação de sua loja não fica condicionada a inserção do sitemap, mas com a adição correta os crawlers compreenderão melhor a hirarquia de suas páginas e terá maior facilidade na indexação do conteúdo.
 

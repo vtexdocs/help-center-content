@@ -25,15 +25,15 @@ Ser un marketplace significa que su website recibirá (y vendrá) productos de o
 ## Para las tiendas que quieren actuar como sellers: cómo configurar un marketplace VTEX
 Ser un seller significa que su tienda va a enviar y vender productos a través de otro website (que funcionará como marketplace). Para hacer esto, usted necesita registrar esta tienda como un marketplace en su admin. Sólo tienes que seguir los siguientes pasos:
 
-1. Configure la [política comercial](/es/tutorial/configurar-politica-comercial-para-marketplace/)
-2. Configure la [logística](/es/tutorial/como-configurar-logistica-para-politica-comercial/) para esta política comercial
-3. Configure al [afiliado](/es/tutorial/como-configurar-afiliado/).
+1. Configure la [política comercial](/es/docs/tutorials/configurar-politica-comercial-para-marketplace/)
+2. Configure la [logística](/es/docs/tutorials/como-configurar-logistica-para-politica-comercial/) para esta política comercial
+3. Configure al [afiliado](/es/docs/tutorials/como-configurar-afiliado/).
 
 ##### Sobre la integración
 
 Después de las configuraciones, es necesario realizar la indexación de todos los productos de la base, para que la integración ocurra.
 
-1. Con el [usuario titular](/es/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA), acceda al link `{nombredelatienda}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`.
+1. Con el [usuario titular](/es/docs/tracks/que-es-el-usuario-master), acceda al link `{nombredelatienda}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`.
 2. Haga clic en el botón __Reindexar Base__.
 
 ![ReindexarBase](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/gestión/configurando-marketplace-entre-tiendas-vtex_1.png)

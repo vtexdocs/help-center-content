@@ -63,7 +63,7 @@ Este algoritmo utiliza el concepto de puntuación (_Score_) para priorizar y ord
 
 La vitrina se arma en base a esa puntuación, en orden decreciente; es decir, el producto más puntuado será el primero a ser exhibido y el menos puntuado, el último.
 
-> ℹ️ Para más información, accede al artículo [¿Cómo funciona el campo Puntuación?](/es/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
+> ℹ️ Para más información, accede al artículo [¿Cómo funciona el campo Puntuación?](/es/docs/tutorials/como-funciona-el-campo-puntuacion).
 
 ## Cómo funciona la búsqueda
 
@@ -116,5 +116,5 @@ Resultado:
 
 ## Lea mas
 
- - [¿Cómo funciona el campo Score?](/es/tutorial/como-funciona-el-campo-score--1BUZC0mBYEEIUgeQYAKcae)
+ - [¿Cómo funciona el campo Score?](/es/docs/tutorials/como-funciona-el-campo-puntuacion)
 

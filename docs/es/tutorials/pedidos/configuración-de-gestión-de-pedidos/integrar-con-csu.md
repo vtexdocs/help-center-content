@@ -22,7 +22,7 @@ CSU trabaja solamente con un modelo de Marketplace: **Checkout na CSU**. A trav�
 ## Primeros pasos
 
 1. Configure la [política comercial](/es/tutorial/politica-comercial-para-marketplace/) (la indicación de CSU es que usted utilice la misma política de su propio site).
-2. Configure la [logística](/es/tutorial/como-configurar-logistica-para-politica-comercial/) para esa política comercial.
+2. Configure la [logística](/es/docs/tutorials/como-configurar-logistica-para-politica-comercial/) para esa política comercial.
 
 ## Crear afiliado
 
@@ -52,7 +52,7 @@ Es necesario crear el usuario asociando la clave, y luego asociar a un perfil de
 3. Seleccione el usuario encontrado y asocia a él el perfil de acceso `IntegrationProfile-Fulfillment_Gateway_GetOrder`.
 4. Haz clic en `Guardar`.
 
-Tras ese procedimiento, la integración con la CSU está configurada, y el [usuario titular](/es/tutorial/what-is-the-sponsor-user--3oPr7YuIkEYqUGmEqIMSEy) del Seller debe solicitar una reindexación de su catálogo para agilizar el envío de los SKUs a la CSU.
+Tras ese procedimiento, la integración con la CSU está configurada, y el [usuario titular](/es/docs/tutorials/que-es-el-usuario-titular) del Seller debe solicitar una reindexación de su catálogo para agilizar el envío de los SKUs a la CSU.
 
 Es necesario tener permisión de usuario titular para realizar este paso: acceda a su admin (http://_nomedaloja_/admin/site/fullcleanup.aspx) y haga clic en el botón **Reindexar Base** (este procedimiento debe hacerse con mucho cuidado y no debe repetirse siempre, pues puede afectar la performance del site).
 
@@ -60,4 +60,4 @@ Usted está a punto de ser un aliado Opte+. Póngase en contacto con CSU para qu
 
 ### Sepa más
 
-- [Estrategias de marketplace en VTEX](/es/tutorial/marketplace-strategies-at-vtex--tutorials_402).
+- [Estrategias de marketplace en VTEX](/es/docs/tutorials/estrategias-de-marketplace-en-vtex).

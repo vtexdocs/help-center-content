@@ -26,7 +26,7 @@ Hay tres departamentos dentro del módulo que son responsables de la configuraci
 
 La audiencia de campañas es una forma de definir el público objetivo al que una promoción puede ser aplicada. Es decir, usted puede crear segmentos de clientes basados en la definición de algunos criterios que serán elegibles para una determinada audiencia de campaña y consecuentemente a una o más promociones. Una audiencia de campaña puede asociarse a una o más [promociones de audiencias de campañas](/es/tutorial/promocao-de-campanha).
 
-[Aprenda cómo crear audiencias de campañas.](/es/tutorial/como-criar-campanhas--6cnuDZJzIkIeocewAQQK4K) 
+[Aprenda cómo crear audiencias de campañas.](/es/docs/tutorials/crear-audiencias-de-campana) 
 
 ## Promociones
 
@@ -36,11 +36,11 @@ Aquí es donde los descuentos que su tienda va a ofrecer se crean. Usted tambié
 
 Para comprobar esta cantidad, observe el mensaje que aparece en la esquina superior derecha, debajo de la paginación. Los tipos de promociones que se pueden crear son:
 
-- [Promoción regular](/es/tutorial/registro-promocion-regular)
-- [Compre juntos](/es/tutorial/comprar-juntos-registro-de-promocion)
+- [Promoción regular](/es/docs/tutorials/registro-promocion-regular)
+- [Compre juntos](/es/docs/tutorials/comprar-juntos-registro-de-promocion)
 - [Lleva más por menos](/es/tutorial/crear-promocion-lleve-mas-por-menos)
-- [Descuento progresivo](/es/tutorial/descuento-progresivo)
-- [Compre y gane](/es/tutorial/como-funciona-la-promocion-compre-y-gane)
+- [Descuento progresivo](/es/docs/tutorials/descuento-progresivo)
+- [Compre y gane](/es/docs/tutorials/como-funciona-la-promocion-compre-y-gane)
 - [Precio máximo por artículo](/es/tutorial/precio-maximo-por-articulo)
 
 ## Cupones
@@ -53,4 +53,4 @@ Es en esta sección que se crean los cupones. Usted también puede recogerlos y 
 
 ![taxas.es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/visión-de-conjunto-de-tasas-y-promociones/pantalla-inicial-del-modulo-de-pricing-promociones_4.png)
 
-En esta área se crearán los impuestos que inciden sobre sus productos. También se permite filtrar, buscar y archivar las tasas. [Entienda mejor las particularidades de esta configuración en el artículo sobre tasas](/es/tutorial/creando-la-tasaimpuesto).
+En esta área se crearán los impuestos que inciden sobre sus productos. También se permite filtrar, buscar y archivar las tasas. [Entienda mejor las particularidades de esta configuración en el artículo sobre tasas](/es/docs/tutorials/creando-la-tasaimpuesto).

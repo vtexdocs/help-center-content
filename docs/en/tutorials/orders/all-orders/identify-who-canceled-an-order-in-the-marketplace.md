@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-Every action taken on an order is registered in the **Orders** module. To view this log, you must enter the [order details page](/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl) and click `View Interactions`.
+Every action taken on an order is registered in the **Orders** module. To view this log, you must enter the [order details page](/en/docs/tutorials/order-details-page) and click `View Interactions`.

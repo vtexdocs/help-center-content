@@ -24,7 +24,7 @@ Among the marketplaces available, there are VTEX marketplaces and external marke
 | **VTEX** | These are the profiles of VTEX clients that chose to make their environment available for sellers to sell products. |
 | **External** | Marketplaces that are not VTEX clients and did the integration, whether certified or partner. |  
 
-> ℹ️ Note that **Marketplaces and Integrations** is a tool that fosters contact between potential partners, yet it is not a mandatory step in becoming a VTEX marketplace. If you want to act as a VTEX marketplace, read the [Marketplace strategies at VTEX](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex).
+> ℹ️ Note that **Marketplaces and Integrations** is a tool that fosters contact between potential partners, yet it is not a mandatory step in becoming a VTEX marketplace. If you want to act as a VTEX marketplace, read the [Marketplace strategies at VTEX](/en/docs/tutorials/marketplace-strategies-at-vtex#sendo-seller-vtex).
 
 ## Looking for marketplaces  
 
@@ -66,7 +66,7 @@ To connect to an external marketplace, the seller needs to follow the steps belo
 
 ### __Connecting to a VTEX marketplace__  
 
-To connect to one of the VTEX marketplaces, you need to contact VTEX to negotiate a partnership and wait for the marketplace to respond. Additionally, you must have an [active Seller Profile](/en/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM#perfil-da-loja).  
+To connect to one of the VTEX marketplaces, you need to contact VTEX to negotiate a partnership and wait for the marketplace to respond. Additionally, you must have an [active Seller Profile](/en/docs/tutorials/marketplaces-and-integrations#perfil-da-loja).  
 When sending a message, provide all the information the marketplace needs for connecting to your business. We also suggest anticipating the questions or topics that might arise in a future meeting, for example.  
 
 See below how to contact a marketplace:  
@@ -106,17 +106,17 @@ See the list of tutorials available for marketplace integration:
 - [Netshoes](/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm)  
 - [Tik Tok](/en/tracks/integracao-com-o-tiktok--1r0yJSO11nrer1YVu3WTFd)  
 - [Zoom](/en/tutorial/integrando-com-zoom--2OoQjigCVOIEWWkgOqwCK6?&utm_source=autocomplete)  
-- [CSU (Opte+)](/en/tutorial/integrando-com-csu-opte-2--tutorials_4258)  
-- [Kabum](/en/tutorial/integracao-com-o-kabum--DM0uQeFIXOk7CY9oAPrf0)  
-- [MadeiraMadeira](/en/tutorial/integracao-com-madeiramadeira--J4QCENKiz4urYNfaMuE0i)  
-- [Riachuelo](/en/tutorial/integracao-com-riachuelo--kpfxAgwEcANihHLT4iW81)  
-- [Camicado](/en/tutorial/integracao-com-renner-e-camicado--5qf2wloosKlmIB8o2AitnT)  
-- [Renner](/en/tutorial/integracao-com-renner-e-camicado--5qf2wloosKlmIB8o2AitnT)  
+- [CSU (Opte+)](/en/docs/tutorials/integrating-with-csu-opte-2)  
+- [Kabum](/en/docs/tutorials/kabum-integration)  
+- [MadeiraMadeira](/en/docs/tutorials/integrating-with-madeiramadeira)  
+- [Riachuelo](/en/docs/tutorials/integrating-with-riachuelo)  
+- [Camicado](/en/docs/tutorials/integrating-with-renner-and-camicado)  
+- [Renner](/en/docs/tutorials/integrating-with-renner-and-camicado)  
 - [Loopi](/en/tutorial/integracao-com-loopi--2wmap3hWksLxJ0IYe7nYFP)  
 - [Via Varejo](/en/tutorial/como-funciona-a-integracao-da-cnova-via-varejo--1vFbUZUL80SQ0SoySGO8E6)  
-- [SkyHub/B2W](/en/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8)  
-- [Enjoei](/en/tutorial/integracao-com-enjoei--3mV9uhw1AdqFol8K2tfwly)  
-- [Farmácias App](/en/tutorial/integrando-com-farmacias-app--tutorials_6271)    
+- [SkyHub/B2W](/en/docs/tutorials/how-the-skyhub-integration-works)  
+- [Enjoei](/en/docs/tutorials/integrating-with-enjoei)  
+- [Farmácias App](/en/docs/tutorials/integrating-with-farmacias-app)    
 - [Shopee](/en/tutorial/integracao-com-a-shopee-beta--5OV9idUY6fHu3P8grnCnqj)  
 - [Wish ](/en/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4) 
 

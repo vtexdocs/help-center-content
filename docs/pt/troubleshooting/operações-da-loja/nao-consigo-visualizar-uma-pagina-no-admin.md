@@ -22,7 +22,7 @@ tags:
 
 Ao utilizar o Admin, alguns usuários podem ter problemas como o *Erro 403 - Desculpe, você não tem acesso a essa página* ou o carregamento contínuo de uma página.
 
-Esses problemas geralmente ocorrem devido a conflitos entre [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) dos usuários administrativos ou configurações específicas do navegador.  
+Esses problemas geralmente ocorrem devido a conflitos entre [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) dos usuários administrativos ou configurações específicas do navegador.  
 
 ## Solução
 

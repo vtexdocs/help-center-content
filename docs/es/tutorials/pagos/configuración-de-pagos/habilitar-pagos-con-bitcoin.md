@@ -28,7 +28,7 @@ Para usar Bitcoin en su tienda, debe haber registrado una afiliación de gateway
 4. Haga clic en el botón __Status__ para activar esta condición de pago.
 5. El campo __Procesar con la afiliación__, elija el conector que procesará los pagos de Bitcoin. Solo los conectores que admitan este método de pago estarán disponibles para su selección.
 6. Si hay un antifraude configurado en su tienda, usted puede activarlo marcando la casilla __Usar Antifraude__.
-7. Si lo desea, también puede optar por una [condición especial de pago](/es/tutorial/condiciones-especiales).
+7. Si lo desea, también puede optar por una [condición especial de pago](/es/docs/tutorials/condiciones-especiales).
 8. Haga clic en __Guardar__.
 
 Después de seguir los pasos dados, Bitcoin puede tardar hasta 10 minutos en aparecer en el checkout de su tienda como opción de pago.

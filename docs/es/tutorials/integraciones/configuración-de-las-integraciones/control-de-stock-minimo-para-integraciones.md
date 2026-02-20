@@ -19,15 +19,15 @@ El control de stock mínimo es una medida de seguridad creada para evitar la ven
 
 Esa configuración está disponible en las siguientes integraciones:
 
-- [Amazon](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan)
-- [B2W/SkyHub](/es/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk/40eYElt1qwIqGeIeum2W4M)
-- [Carrefour](/es/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2/2AhqcmRN1mseCsGuGIe6GK)
-- [Centauro](/es/tracks/integracao-com-a-centauro--D8Qnjbr5lfLkUfMRhsfbj/4EqL0hADU1AWvP0gTr4nyq)
-- [Dafiti](/es/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i/5lAIj7OCqizD5EisLJvatx)
-- [Magazine Luiza](/es/tracks/configurar-integracao-com-a-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y/4QWLcDhsh2GSSamouyu6M0)
-- [Mercado Livre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4YvYdgICMosaEgISOYogsi)
-- [Netshoes](/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/7o8Vt25LJmAUuMmSWSmWes)
-- [Casas Bahia](/es/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY/3rymwJDuc5Z6lQtsyTINim)    
+- [Amazon](/es/docs/tracks/configurar-la-integracion-de-amazon)
+- [B2W/SkyHub](/es/docs/tracks/configuracion-del-conector-b2w)
+- [Carrefour](/es/docs/tracks/registro-de-la-integracion-de-carrefour)
+- [Centauro](/es/docs/tracks/registro-de-la-integracion-de-centauro)
+- [Dafiti](/es/docs/tracks/dafiti-marketplace)
+- [Magazine Luiza](/es/docs/tracks/registro-de-la-integracion-de-magazine-luiza)
+- [Mercado Livre](/es/docs/tracks/registro-de-la-integracion-de-mercado-libre)
+- [Netshoes](/es/docs/tracks/registro-de-la-integracion-de-netshoes)
+- [Casas Bahia](/es/docs/tracks/casas-bahia-marketplace)    
 
 ## Cómo funciona
 

@@ -37,7 +37,7 @@ You now have a pricing rule configured for a sales policy.
 ## Learn more
 
 - [Marketplace strategies at VTEX](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
-- [How trade policies work](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
-- [Creating a trade policy](/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)
-- [Configuring a marketplace trade policy](/en/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)
-- [Registering a product's base price](/en/tutorial/registering-a-products-base-price--4S9SbPWlVmOAAWO6yq8wE6)
+- [How trade policies work](/en/docs/tutorials/how-trade-policies-work)
+- [Creating a trade policy](/en/docs/tutorials/creating-a-trade-policy)
+- [Configuring a marketplace trade policy](/en/docs/tutorials/configuring-a-marketplace-trade-policy)
+- [Registering a product's base price](/en/docs/tutorials/registering-a-products-base-price)

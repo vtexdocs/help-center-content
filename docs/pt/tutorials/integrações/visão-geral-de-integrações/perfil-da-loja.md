@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
-A VTEX disponibiliza em seu Admin as páginas **[Encontrar sellers](/pt/tutorial/encontrar-sellers--6kkZaxIgfDyvN5trgIuwBl)** e **[Marketplaces e Integrações](/pt/tutorial/marketplaces-and-integrations--5AcBO1t29nhq7rBHas9b6V).** Ambas têm como objetivo disponibilizar e facilitar o encontro e comunicação entre sellers e marketplaces que operam no ecossistema VTEX, abrindo a possibilidade de novos negócios e crescimento mútuo para todos os envolvidos.
+A VTEX disponibiliza em seu Admin as páginas **[Encontrar sellers](/pt/docs/tutorials/encontrar-sellers)** e **[Marketplaces e Integrações](/pt/docs/tutorials/marketplaces-e-integracoes).** Ambas têm como objetivo disponibilizar e facilitar o encontro e comunicação entre sellers e marketplaces que operam no ecossistema VTEX, abrindo a possibilidade de novos negócios e crescimento mútuo para todos os envolvidos.
 
 Para contatar os potenciais parceiros presentes nessas listas, é necessário ativar o perfil da sua loja, como marketplace, seller ou ambos. Isso é feito na página Perfil da loja em, **Marketplace > Perfil da loja** ou digitando **Perfil da loja** na barra de busca.
 
@@ -83,4 +83,4 @@ Ao interagir com as páginas **Encontrar sellers** e **Marketplaces e Integraç�
 - Sugerimos colocar o contato de funcionários já especializados e responsáveis por atração de parceiros.
 - Garanta que o email e telefone cadastrados sejam válidos e atualizados.
 - Mantenha seu perfil sempre atualizado com os links e informações adequadas sobre a empresa.
-- Escreva um resumo atrativo sobre sua loja. O seu perfil é o que aparece na listagem em **[Encontrar Sellers](/pt/tutorial/encontrar-sellers--6kkZaxIgfDyvN5trgIuwBl)** e **[Marketplaces e integrações](/pt/tutorial/marketplaces-and-integrations--5AcBO1t29nhq7rBHas9b6V)**, por isso é importante dar contexto e falar dos seus diferenciais.
+- Escreva um resumo atrativo sobre sua loja. O seu perfil é o que aparece na listagem em **[Encontrar Sellers](/pt/docs/tutorials/encontrar-sellers)** e **[Marketplaces e integrações](/pt/docs/tutorials/marketplaces-e-integracoes)**, por isso é importante dar contexto e falar dos seus diferenciais.

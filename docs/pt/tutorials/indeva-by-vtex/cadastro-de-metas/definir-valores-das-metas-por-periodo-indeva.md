@@ -15,13 +15,13 @@ locale: pt
 subcategoryId: 4xaNvv2oZFUetmybJrtHUL
 ---
 
-Nesta etapa, é necessário definir o valor da meta. A forma de configurar os valores depende da opção escolhida em [Controle do ciclo de meta](/pt/tutorial/controle-do-ciclo-de-meta-indeva--7ybvRb3wRKbuo8WRZp8XKU).  
+Nesta etapa, é necessário definir o valor da meta. A forma de configurar os valores depende da opção escolhida em [Controle do ciclo de meta](/pt/docs/tutorials/controle-do-ciclo-de-meta-indeva).  
 
 > ℹ️ É permitido cadastrar no máximo cinco metas por período. Em casos em que o ciclo da meta consiste em apenas um período, a primeira meta configurada será o valor total desse ciclo.
 
 ## Definir meta por mês
 
-Se a opção escolhida foi **Meta por mês** no [Controle do ciclo de meta](/pt/tutorial/controle-do-ciclo-de-meta-indeva--7ybvRb3wRKbuo8WRZp8XKU), será necessário cadastrar o valor mínimo total da meta e, se desejado, adicionar metas adicionais como incentivo.  
+Se a opção escolhida foi **Meta por mês** no [Controle do ciclo de meta](/pt/docs/tutorials/controle-do-ciclo-de-meta-indeva), será necessário cadastrar o valor mínimo total da meta e, se desejado, adicionar metas adicionais como incentivo.  
 
 No varejo, o valor mínimo pode não ser suficiente. Ao adicionar metas adicionais, os vendedores são incentivados a superar os resultados, aumentando a margem de lucro da loja.
 
@@ -37,7 +37,7 @@ Siga os passos para configurar as metas mensais:
 
 ## Definir meta por período
 
-Se a opção escolhida foi **Meta por período** no [Controle do ciclo de meta](/pt/tutorial/controle-do-ciclo-de-meta-indeva--7ybvRb3wRKbuo8WRZp8XKU), é permitido definir metas distintas para cada período. Cada meta por período é independente, e a soma de todos os períodos corresponde à meta total do ciclo.  
+Se a opção escolhida foi **Meta por período** no [Controle do ciclo de meta](/pt/docs/tutorials/controle-do-ciclo-de-meta-indeva), é permitido definir metas distintas para cada período. Cada meta por período é independente, e a soma de todos os períodos corresponde à meta total do ciclo.  
 
 **Exemplo**: um ciclo dividido em dois períodos:  
 - Período 1: R$120.000  

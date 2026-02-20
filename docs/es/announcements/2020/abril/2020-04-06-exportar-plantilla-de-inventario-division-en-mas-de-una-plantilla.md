@@ -28,5 +28,5 @@ Ahora, los archivos que contienen muchos ítems serán divididos en más de una 
 ## ¿Esto va a afectar mi tienda?
 Este cambio solo se hará para las tiendas con inventarios muy grandes. Para las demás tiendas nada cambiará, su exportación de plantilla de inventario todavía se hará en un solo archivo.
 
-Para saber más sobre esa funcionalidad, consulte nuestra [documentación](/es/tutorial/importando-e-exportando-planilha-de-estoque--tutorials_2034).
+Para saber más sobre esa funcionalidad, consulte nuestra [documentación](/es/docs/tutorials/importando-y-exportando-plantilla-de-stock).
 

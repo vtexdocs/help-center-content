@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-CyberSource is a company that offers several solutions to help manage payments in your store. Among them are a [gateway](/en/tutorial/what-is-a-payment-gateway--2KH9Wdi7F6swOU4amECSOk) and [anti-fraud](/en/tutorial/what-is-anti-fraud--69SjFCc4rC6Ii0OMAeYAsG), both with integrations available at VTEX.
+CyberSource is a company that offers several solutions to help manage payments in your store. Among them are a [gateway](/en/docs/tutorials/what-is-a-payment-gateway) and [anti-fraud](/en/docs/tutorials/what-is-anti-fraud), both with integrations available at VTEX.
 
-If you want more information about integrating Cybersource anti-fraud into your store, go to [Setting up CyberSource anti-fraud](/en/tutorial/setting-up-cybersource-antifraud--2Z88QmpRAsWmI0qaCo4aQg).
+If you want more information about integrating Cybersource anti-fraud into your store, go to [Setting up CyberSource anti-fraud](/en/docs/tutorials/setting-up-cybersource-antifraud).
 
 To use the Cybersource IO gateway in your store, the following actions are required:
 
@@ -131,7 +131,7 @@ To process credit card payments through Cybersource, follow the steps below:
 5. Activate the condition in the __Status__ field.
 6. In __Process with provider__ select the __Cybersource - IO__ option.
 7. If you want to use an anti-fraud system, select the __Use anti-fraud solution__ option and choose your preferred provider.
-8. If you wish, you can also [configure special payment conditions](/en/tutorial/special-conditions--tutorials_456).
+8. If you wish, you can also [configure special payment conditions](/en/docs/tutorials/special-conditions).
 9. Click __Save__.
 
 > ⚠️ If you have previously created credit card payment conditions for other gateways (including the legacy Cybersource provider), you can set those conditions to **Inactive**. In-progress transactions initiated from that provider will still be processed by that provider, even if it is inactive. Only new transactions will be processed by the new Cybersource IO provider. If you need to revert to your previous provider for any reason, simply set their payment conditions to **Active** and the Cybersource IO payment conditions to **Inactive**.

@@ -45,7 +45,7 @@ Once this is done, as seen in the image below, press **Save** to store the setti
 
 ### Configure VTEX affiliate for Lengow
 
-To fill out the **Prefix to imported orders - Affilitiate ID** field you should configure an [affiliate](/en/tutorial/configuring-affiliates--tutorials_187) for the Lengow connector in *Orders > Orders Management > Settings*. We recommend using the settings below, with LNG as the affiliate ID and your own e-mail address for notifications.
+To fill out the **Prefix to imported orders - Affilitiate ID** field you should configure an [affiliate](/en/docs/tutorials/configuring-affiliates) for the Lengow connector in *Orders > Orders Management > Settings*. We recommend using the settings below, with LNG as the affiliate ID and your own e-mail address for notifications.
 
 ![Lengow affiliate](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/installation-and-setup_2.png)
 

@@ -73,7 +73,7 @@ El link de acceso único se puede copiar para acceder más tarde o compartir con
   </tr>
 </table>
 
-* **Eliminación pendiente del token**: agregamos alertas que avisan que la eliminación de un token antiguo está pendiente después de su [renovación](/es/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3).
+* **Eliminación pendiente del token**: agregamos alertas que avisan que la eliminación de un token antiguo está pendiente después de su [renovación](/es/docs/tutorials/renovar-token-de-api).
 
 <table style="border-collapse:collapse;border:none;margin:auto;">
   <tr>
@@ -118,9 +118,9 @@ No es necesaria ninguna acción. La actualización se aplicará a todas las cuen
 
 Consulta la documentación actualizada para explorar todas las funcionalidades:
 
-* [Claves de API](/es/tutorial/claves-de-api--4bFEmcHXgpNksoePchZyy6)
-* [Claves externas](/es/tutorial/claves-externas--1isU0HfKkeg0atlxRha14Q)
-* [Claves generadas](/es/tutorial/claves-generadas--7fnU4iZdvZKbxCaT3Ymdjc)
-* [Configurar alerta para renovar tokens de API](/es/tutorial/configurar-alerta-para-renovar-tokens-de-api--kcGIFysFt02FDuhsfjQwZ)  
-* [Exportar claves de API](/es/tutorial/exportar-claves-de-api--1p4eYJWD26gOdicUdiiGC5)
-* [Renovar token de API](/es/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3)
+* [Claves de API](/es/docs/tutorials/claves-de-api)
+* [Claves externas](/es/docs/tutorials/claves-externas)
+* [Claves generadas](/es/docs/tutorials/claves-generadas)
+* [Configurar alerta para renovar tokens de API](/es/docs/tutorials/configurar-alerta-para-renovar-tokens-de-api)  
+* [Exportar claves de API](/es/docs/tutorials/exportar-claves-de-api)
+* [Renovar token de API](/es/docs/tutorials/renovar-token-de-api)

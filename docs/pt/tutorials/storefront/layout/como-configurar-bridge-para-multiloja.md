@@ -28,6 +28,6 @@ Para que seus produtos sejam enviados para o marketplace, é necessário que a p
 1. No admin VTEX, acesse **Storefront > Layout**.
 2. Clique na pasta __CMS__ e depois em __Sites and Channels__.
 3. Clique no Website desejado.
-4. [Associe um account name e as políticas comerciais desejadas](/pt/tutorial/vincular-um-account-name-a-um-website-binding) a este website.
+4. [Associe um account name e as políticas comerciais desejadas](/pt/docs/tutorials/vincular-um-account-name-a-um-website-binding) a este website.
 
 As políticas comerciais configuradas nos passos acima estarão disponíveis para o Integrações desta loja específica. Agora, basta acessar o Integrações com o account name desta loja (`https://{account-name}.vtexcommercestable.com.br/admin/bridge/`) e [realizar as configurações](/pt/tutorial/integrando-com-marketplace).

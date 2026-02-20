@@ -32,5 +32,5 @@ En ese caso, la plataforma comprenderá que, visto que el peso del producto es m
 
 ### Para saber más
 
-[Entienda cómo calcular el factor cúbico de peso.](/es/tutorial/como-se-calcula-el-peso-cubico/).
+[Entienda cómo calcular el factor cúbico de peso.](/es/docs/tutorials/como-se-calcula-el-peso-cubico/).
 [Entienda cómo facer la simulación de flete.](/es/tutorial/simulacion-de-flete/).

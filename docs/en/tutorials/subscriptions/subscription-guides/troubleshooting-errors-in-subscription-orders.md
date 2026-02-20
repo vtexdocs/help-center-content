@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-> ℹ️ You can only access information from orders created in the last two years, and that same period is valid for customers through [My Account](/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+> ℹ️ You can only access information from orders created in the last two years, and that same period is valid for customers through [My Account](/en/docs/tutorials/how-my-account-works).
 
 You can identify and manage errors in subscription orders in the Admin, in **Subscriptions** > **Dashboards** > **Subscription Orders**.
 
@@ -85,4 +85,4 @@ Your store customers can edit their subscriptions and perform other actions on t
 
 #### **Learn more**
 
-* [How to manage Subscriptions](/en/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x)
+* [How to manage Subscriptions](/en/docs/tutorials/how-to-manage-subscriptions)

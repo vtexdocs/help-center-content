@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 ---
 
-> ⚠️ A funcionalidade [Lista](/pt/tutorial/o-que-e-uma-lista--4b4NsVFwA8kwqS8S82w4Go) é exclusiva para lojas que usam CMS Portal (Legado).
+> ⚠️ A funcionalidade [Lista](/pt/docs/tutorials/o-que-e-uma-lista) é exclusiva para lojas que usam CMS Portal (Legado).
 
 A criação de um tipo de lista é a configuração de quais listas o site terá. Exemplo: Lista de Casamento e Lista de Aniversário. Cada uma destas são um tipo de lista diferente, com configurações próprias. Este artigo tem como objetivo ilustrar o processo de criação de um tipo de lista.
 
@@ -83,7 +83,7 @@ Após a criação do tipo de lista, você será redirecionado para a tela onde a
 
 - **Exportar para Excel**: Permite exportar os dados de tipos de listas para Excel.
 - **Versão**: Identificação de listas criadas na versão antiga da funcionalidade, com limitações. A versão mais atual é a “v2”.
-- **Entrega**: Identifica onde o produto será entregue: Ao dono da lista, ao comprador ou [se o valor da compra será revertido em Vale para o dono da lista](/pt/tutorial/configurando-lista-vale);
+- **Entrega**: Identifica onde o produto será entregue: Ao dono da lista, ao comprador ou [se o valor da compra será revertido em Vale para o dono da lista](/pt/docs/tutorials/configurando-lista-vale);
 - **Visibilidade**: Identifica a visibilidade configurada.
 - **Única**: Indica se é possível criar mais de uma lista do mesmo tipo.
 - **Participante**: Exibe os limites máximo e mínimo configurados para a lista.

@@ -30,4 +30,4 @@ Alelo también está disponible en nuestro protocolo de Payment Provider, que pe
 
 Para integrarlo a su tienda, basta con ponerse en contacto con nuestro equipo de Partner.
 
-Para más detalles, vea el tutorial que enseña [cómo configurar el vale de alimentación Alelo](/es/tutorial/configurar-meio-de-pagamento-alelo-para-cielo-v3--4fpnddmyMOAD6F5ixtdmY8) como medio de pago.
+Para más detalles, vea el tutorial que enseña [cómo configurar el vale de alimentación Alelo](/es/docs/tutorials/configurar-el-medio-de-pago-alelo-para-cielo-v3) como medio de pago.

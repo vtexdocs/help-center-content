@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1wvyJwJhKgewxGeAGCVmM6
 ---
 
-The redirects feature on [Intelligent Search](/en/tutorial/intelligent-search-overview--5o8ixTpYIxx3uJD0B1xp3z) directs customers to another page, either internal or external to the store. This redirection is done in the search area of your storefront, using terms or filters selected by the customer.
+The redirects feature on [Intelligent Search](/en/docs/tutorials/intelligent-search-overview) directs customers to another page, either internal or external to the store. This redirection is done in the search area of your storefront, using terms or filters selected by the customer.
 
 With this feature, you can create rules that contemplate both the interests of the manager and the final customer. See below for some of the advantages of redirects:
 
@@ -25,7 +25,7 @@ With this feature, you can create rules that contemplate both the interests of t
 
 ## How it works
 
-When creating a redirect, you also need to create conditions, called rules. They must contain a set of registered terms and filters. The number of rules per redirect is unlimited. Learn more at [Configuring redirects](/en/tutorial/configuring-redirects--35JPufOvunMHnAAVJA6azu).
+When creating a redirect, you also need to create conditions, called rules. They must contain a set of registered terms and filters. The number of rules per redirect is unlimited. Learn more at [Configuring redirects](/en/docs/tutorials/configuring-redirects).
 
 Once the customer performs a search, VTEX Intelligent Search captures the search term and checks if there is a redirection rule related to that search.
 

@@ -42,7 +42,7 @@ Para configurar PoleCMS, siga os passos abaixo:
 4. Ative a condição no campo **Status**.
 5. Em **Processar com o provedor**, selecione a opção **PoleCMS**.
 6. Se desejar utilizar um sistema antifraude, selecione a opção **Usar solução antifraude**.
-7. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condiciones-especiales--tutorials_456).
+7. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/docs/tutorials/condicoes-especiais).
 8. Clique em `Salvar`.
 
 Depois de seguir os passos indicados, o provedor PoleCMS pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento.

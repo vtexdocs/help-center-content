@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 14V5ezEX0cewOMg0o0cYM6
 ---
 
-Para ativar o login via Facebook, é necessário acessar **Configurações da conta > Autenticação** pelo Admin VTEX e preencher os campos **Client ID** e **Segredo do cliente**, conforme detalhado no artigo [Configurar login com Facebook e Google](/pt/tutorial/configurar-login-com-facebook-e-google--tutorials_513).
+Para ativar o login via Facebook, é necessário acessar **Configurações da conta > Autenticação** pelo Admin VTEX e preencher os campos **Client ID** e **Segredo do cliente**, conforme detalhado no artigo [Configurar login com Facebook e Google](/pt/docs/tutorials/configurar-login-com-facebook-e-google).
 
 ![Facebook OAuth PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autenticação/conceitos-básicos-de-autenticação/cadastrar-client-id-e-segredo-do-cliente-para-login-com-facebook_1.png)
 
@@ -76,12 +76,12 @@ Por fim, você precisa preencher algumas informações sobre o app para concluir
 
    ![7-login-fb-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autenticação/conceitos-básicos-de-autenticação/cadastrar-client-id-e-segredo-do-cliente-para-login-com-facebook_7.png)
 
-2. Copie o valor do campo **ID do Aplicativo**. Você deverá informar este valor no campo **Client ID** ao [configurar o login com Facebook no Admin VTEX](/pt/tutorial/configurar-login-com-facebook-e-google--tutorials_513).
-3. Em **Chave Secreta do Aplicativo**, clique no botão **Mostrar** e, em seguida, copie o valor do campo. Você deverá informar este valor no campo **Segredo do cliente** ao [configurar o login com Facebook no Admin VTEX](/pt/tutorial/configurar-login-com-facebook-e-google--tutorials_513).
+2. Copie o valor do campo **ID do Aplicativo**. Você deverá informar este valor no campo **Client ID** ao [configurar o login com Facebook no Admin VTEX](/pt/docs/tutorials/configurar-login-com-facebook-e-google).
+3. Em **Chave Secreta do Aplicativo**, clique no botão **Mostrar** e, em seguida, copie o valor do campo. Você deverá informar este valor no campo **Segredo do cliente** ao [configurar o login com Facebook no Admin VTEX](/pt/docs/tutorials/configurar-login-com-facebook-e-google).
 4. No campo **URL da Política de Privacidade**, adicione o link para a política de privacidade da sua loja.
 5. Em **Ícone do aplicativo (1024 x 1024)**, insira um ícone para seu aplicativo de exatamente 1024x1024 pixels e fundo transparente.
 6. Selecione uma **Categoria**. Para lojas, a sugestão é utilizar **Compras**.
 7. Abaixo neste formulário, preencha as **Informações de contato do encarregado da proteção dos dados** com os dados da empresa responsável pela loja.
 8. No final da página, clique em `Salvar alterações`.
 
-Após concluir todas essas etapas, você pode utilizar o **Client ID** e o **Segredo do cliente** obtidos para configurar o login com Facebook na sua loja, conforme detalhado no artigo [Configurar login com Facebook e Google](/pt/tutorial/configurar-login-com-facebook-e-google--tutorials_513).
+Após concluir todas essas etapas, você pode utilizar o **Client ID** e o **Segredo do cliente** obtidos para configurar o login com Facebook na sua loja, conforme detalhado no artigo [Configurar login com Facebook e Google](/pt/docs/tutorials/configurar-login-com-facebook-e-google).

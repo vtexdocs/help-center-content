@@ -21,11 +21,11 @@ The delivery time frames that are available to customers are called delivery win
 
 If this is the case, you can enable scheduled deliveries by configuring delivery windows and setting the delivery capacity for each of them. To do that, access the Scheduled delivery section on the Shipping Policy page.
 
-> ⚠️ For [Scheduled delivery](/en/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi) and [Delivery capacity](/en/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz) to perform correctly, you must follow the rules below:<ul><li>The result from {[account name](/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC)} + {shipping policy ID} cannot exceed 60 characters.</li><li>Do not use spaces in [shipping policy IDs](/en/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT).</li></ul>
+> ⚠️ For [Scheduled delivery](/en/docs/tutorials/scheduled-delivery) and [Delivery capacity](/en/docs/tutorials/managing-delivery-capacity) to perform correctly, you must follow the rules below:<ul><li>The result from {[account name](/en/docs/tutorials/what-is-an-account-name)} + {shipping policy ID} cannot exceed 60 characters.</li><li>Do not use spaces in [shipping policy IDs](/en/docs/tutorials/creating-a-shipping-policy).</li></ul>
 
 Once you've enabled the __Scheduled Delivery__ feature in the Shipping Policy, you can fill in the fields that will determine how it will work. Fill them to define the [maximum delivery time](#maximum-delivery-time), the [delivery window](#delivery-window), and the [delivery capacity limit](#delivery-capacity).
 
-For more information, read our article on [Shipping policies](/en/tutorial/shipping-policy--tutorials_140).
+For more information, read our article on [Shipping policies](/en/docs/tutorials/shipping-policy).
 
 ## Maximum delivery time
 
@@ -44,7 +44,7 @@ Setting the delivery capacity is a way of limiting the number of items or orders
 
 When the customer completes the purchase and selects the scheduled delivery option, the date and time options displayed will take into account the delivery capacity of the delivery window. The customer will only be able to schedule deliveries in windows that still have at least 1 item/order available. 
 
-> ℹ️ If the delivery window has reached its full capacity, it will not be available to be selected. To make it available, increase the number of items/orders by editing the [Shipping policy](/en/tutorial/shipping-policy--tutorials_140). 
+> ℹ️ If the delivery window has reached its full capacity, it will not be available to be selected. To make it available, increase the number of items/orders by editing the [Shipping policy](/en/docs/tutorials/shipping-policy). 
 
-For more information, read our article on [Delivery capacity](/en/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz). 
+For more information, read our article on [Delivery capacity](/en/docs/tutorials/managing-delivery-capacity). 
 

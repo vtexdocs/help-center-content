@@ -19,4 +19,4 @@ The Payments module has a new feature for setting up your payment methods. Now i
 
 By clicking on the __Settings__ button in Payments main page, you will be redirected to the list of payment methods that ca be used on your store. If you choose one that allows installments, you will see a tab to edit this kind of payment. There you'll find the toggle switch to activate/deactivate the __External interest__ feature.
 
-To know more about the configuration of this feature, please [access our documentation](/en/tutorial/how-to-configure-payment-conditions#external-interest).
+To know more about the configuration of this feature, please [access our documentation](/en/docs/tutorials/how-to-configure-payment-conditions#external-interest).
