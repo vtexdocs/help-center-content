@@ -10,6 +10,8 @@ locale: en
 
 In a B2B buyer organization, members are the people who interact with the store on behalf of the organization. Their actions are determined by the roles and permissions assigned to them, and by how the organization uses **contact information** and **buyer data.** This article explains the types of members and related concepts so you can understand who can do what in your organization.
 
+> ⚠️ This feature is only available for stores using B2B Buyer Portal, which is currently available to select accounts.
+
 ## Permission-based roles
 
 Roles define what each user can do in the storefront, including Organization Account management. Each role has a set of permissions. When you assign one or more roles to a user, they gain the combined capabilities of those roles. Permissions are enforced in the storefront so that users only see and use the features they are allowed to.

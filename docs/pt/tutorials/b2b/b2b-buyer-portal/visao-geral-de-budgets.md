@@ -12,7 +12,7 @@ O gerenciamento de orçamentos permite que organizações B2B planejem, distribu
 
 Um budget pode ser subdividido em múltiplas allocations, e toda movimentação de valores como débitos, créditos e reembolsos, atualiza esses saldos de acordo com suas regras. A funcionalidade foi projetada para suportar fluxos nos quais budgets e allocations são criados, os saldos são consumidos por transactions ou reservations temporárias e, posteriormente, os statements são utilizados para reconciliar a atividade financeira ao longo do tempo.
 
->⚠️ A funcionalidade de Budgets está disponível apenas para B2B Buyer Portal. É necessária autorização do Commerce Engineer da conta para uso.
+> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
 
 ## Conceitos-chave
 
