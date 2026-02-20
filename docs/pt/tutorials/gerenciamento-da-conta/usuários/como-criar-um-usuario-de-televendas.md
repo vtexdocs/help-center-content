@@ -33,7 +33,7 @@ Para criar um usuário com perfil de televendas, siga os seguintes passos:
    * **Call center operator (restricted order views)**: Permite acesso às funcionalidades de televendas, mas permite visualizar apenas os pedidos criados pelo próprio usuário.
 
    Para mais detalhes sobre os recursos de cada perfil, consulte [Perfis de acesso predefinidos](https://help.vtex.com/pt/docs/tutorials/perfis-de-acesso-predefinidos#call-center-operator).
-4. No campo **Adicionar usuários para este perfil de acesso**, digite o email do usuário ao que deseja atribuir o perfil de televendas.
+4. No campo **Adicionar usuários para este perfil de acesso**, digite o email do usuário a quem deseja atribuir o perfil de televendas.
 5. Clique no botão `Adicionar`.
 6. Caso queira adicionar mais usuários, repita os passos 4 e 5. 
 7. Clique no botão `Salvar`.
