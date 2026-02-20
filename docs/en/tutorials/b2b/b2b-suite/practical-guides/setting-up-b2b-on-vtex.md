@@ -1,5 +1,5 @@
 ---
-title: 'How to set up B2B with VTEX'
+title: 'How to set up B2B with VTEX (B2B Suite)'
 id: tutorials_238
 status: PUBLISHED
 createdAt: 2017-04-27T22:13:02.487Z
@@ -14,6 +14,8 @@ legacySlug: setting-up-b2b-on-vtex
 locale: en
 subcategoryId: 2LrbEY7MFeKqmdfYLBCnfi
 ---
+
+> ⚠️ This documentation applies to B2B Suite only.
 
 B2B (Business to Business) is an abbreviation used in the ecommerce segment to define commercial transactions between companies. In other words, it is an environment where companies sell their products to other companies.
 

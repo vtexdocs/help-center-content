@@ -1,5 +1,5 @@
 ---
-title: 'Configuring payment conditions for B2B'
+title: 'Configuring payment conditions for B2B (B2B Suite)'
 id: 6NMeukzx5H7n1YaePPS7pr
 status: PUBLISHED
 createdAt: 2024-07-25T16:31:16.186Z
@@ -14,6 +14,8 @@ legacySlug: configuring-payment-conditions-for-b2b
 locale: en
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
+
+> ⚠️ This documentation applies to B2B Suite only.
 
 In a B2B operation, [payment conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455?&utm_source=autocomplete) are assigned to the buying organization. You determine the payment options that the organization users see at checkout.
 

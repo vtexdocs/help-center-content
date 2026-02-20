@@ -1,5 +1,5 @@
 ---
-title: 'Permissions management in B2B Suite'
+title: 'Permissions management in B2B Suite (B2B Suite)'
 id: 2PLR7mIFxgbmsGq84paLeA
 status: PUBLISHED
 createdAt: 2024-06-05T18:01:03.375Z
@@ -14,6 +14,8 @@ legacySlug: permissions-management-in-b2b-suite
 locale: en
 subcategoryId: 1qGLxbxcX8kwKSWESbLZca
 ---
+
+> ⚠️ This documentation applies to B2B Suite only.
 
 In an organization, the Organization Admin (main user) manages access for different people in a B2B store. To do this, they use the permission system in B2B Suite.
 
