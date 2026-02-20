@@ -16287,6 +16287,37 @@
             },
             {
               "name": {
+                "en": "Usuários",
+                "es": "Usuários",
+                "pt": "Usuários"
+              },
+              "slug": {
+                "en": "usuarios",
+                "es": "usuarios",
+                "pt": "usuários-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Criar usuário de televendas",
+                    "en": "Criar usuário de televendas",
+                    "es": "Criar usuário de televendas"
+                  },
+                  "slug": {
+                    "pt": "criar-usuario-de-televendas",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Users",
                 "es": "Usuarios",
                 "pt": "Usuários"
@@ -16309,21 +16340,6 @@
                     "en": "accessing-a-client-abandoned-cart",
                     "es": "acceda-al-carrito-abandonado-de-los-clientes",
                     "pt": "acesse-o-carrinho-abandonado-dos-clientes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a call center user",
-                    "es": "Crear usuario de televentas",
-                    "pt": "Criar usuário de televendas"
-                  },
-                  "slug": {
-                    "en": "how-can-i-create-callcenter-user",
-                    "es": "como-creo-un-usuario-de-televentas",
-                    "pt": "como-criar-um-usuario-de-televendas"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -50787,12 +50803,12 @@
             {
               "name": {
                 "en": "Cart does not update in FastStore if external request is made to update orderForm",
-                "es": "La cesta no se actualiza en FastStore si se realiza una solicitud externa para actualizar orderForm",
-                "pt": "O carrinho não é atualizado no FastStore se for feita uma solicitação externa para atualizar o formulário de pedido"
+                "es": "El carrito no se actualiza en FastStore si se realiza una solicitud externa para actualizar el formulario de pedido.",
+                "pt": "O carrinho não é atualizado no FastStore se for feita uma solicitação externa para atualizar o formulário de pedido."
               },
               "slug": {
                 "en": "cart-does-not-update-in-faststore-if-external-request-is-made-to-update-orderform",
-                "es": "la-cesta-no-se-actualiza-en-faststore-si-se-realiza-una-solicitud-externa-para-actualizar-orderform",
+                "es": "el-carrito-no-se-actualiza-en-faststore-si-se-realiza-una-solicitud-externa-para-actualizar-el-formulario-de-pedido",
                 "pt": "o-carrinho-nao-e-atualizado-no-faststore-se-for-feita-uma-solicitacao-externa-para-atualizar-o-formulario-de-pedido"
               },
               "origin": "",
