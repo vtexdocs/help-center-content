@@ -40130,21 +40130,6 @@
           "children": [
             {
               "name": {
-                "en": "'Large Indexed Text' and 'Indexed Text' not being changed by Specification Import",
-                "es": "'Texto grande indexado' y 'Texto indexado' no se modifican con la importación de la especificación",
-                "pt": "'Texto Grande Indexado' e 'Texto Indexado' não sendo alterados pela Importação de Especificação"
-              },
-              "slug": {
-                "en": "large-indexed-text-and-indexed-text-not-being-changed-by-specification-import",
-                "es": "texto-grande-indexado-y-texto-indexado-no-se-modifican-con-la-importacion-de-la-especificacion",
-                "pt": "texto-grande-indexado-e-texto-indexado-nao-sendo-alterados-pela-importacao-de-especificacao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "'maximum number of eligible items for each cart' + more for less applies incorrect discount when using the same item.",
                 "es": "'número máximo de artículos elegibles para cada cesta' + más por menos aplica un descuento incorrecto al utilizar el mismo artículo.",
                 "pt": "'número máximo de itens qualificados para cada carrinho' + more for less aplica desconto incorreto ao usar o mesmo item."
@@ -40213,6 +40198,21 @@
                 "en": "url-logo-field-in-the-update-seller-request-not-updating",
                 "es": "el-campo-url-logo-en-la-solicitud-de-actualizacion-del-vendedor-no-se-actualiza",
                 "pt": "campo-url-logo-no-campo-update-seller-request-not-updating"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "\"Large Indexed Text\" and \"Indexed Text\" not being changed by Specification Import",
+                "es": "«Texto indexado grande» y «Texto indexado» no se modifican al importar especificaciones.",
+                "pt": "“Texto indexado grande” e “Texto indexado” não são alterados pela importação de especificações"
+              },
+              "slug": {
+                "en": "large-indexed-text-and-indexed-text-not-being-changed-by-specification-import",
+                "es": "texto-indexado-grande-y-texto-indexado-no-se-modifican-al-importar-especificaciones",
+                "pt": "texto-indexado-grande-e-texto-indexado-nao-sao-alterados-pela-importacao-de-especificacoes"
               },
               "origin": "",
               "type": "markdown",
@@ -40732,12 +40732,12 @@
               "name": {
                 "en": "Catalog Error exporting the report",
                 "es": "Catálogo Error al exportar el informe",
-                "pt": "Catalog Erro ao exportar o relatório"
+                "pt": "Catálogo Erro ao exportar o relatório"
               },
               "slug": {
                 "en": "catalog-error-exporting-the-report",
                 "es": "catalogo-error-al-exportar-el-informe",
-                "pt": "catalog-erro-ao-exportar-o-relatorio"
+                "pt": "catalogo-erro-ao-exportar-o-relatorio"
               },
               "origin": "",
               "type": "markdown",
@@ -40851,13 +40851,13 @@
             {
               "name": {
                 "en": "catalog Image import spreadsheet does not replace the Label",
-                "es": "catálogo La hoja de cálculo de importación de imágenes no sustituye a la etiqueta",
-                "pt": "catalog A planilha de importação de imagens não substitui o rótulo"
+                "es": "catálogo La hoja de cálculo de importación de imágenes no sustituye a la etiqueta.",
+                "pt": "catálogo A planilha de importação de imagens não substitui a etiqueta"
               },
               "slug": {
                 "en": "catalog-image-import-spreadsheet-does-not-replace-the-label",
                 "es": "catalogo-la-hoja-de-calculo-de-importacion-de-imagenes-no-sustituye-a-la-etiqueta",
-                "pt": "catalog-a-planilha-de-importacao-de-imagens-nao-substitui-o-rotulo"
+                "pt": "catalogo-a-planilha-de-importacao-de-imagens-nao-substitui-a-etiqueta"
               },
               "origin": "",
               "type": "markdown",
@@ -40895,14 +40895,14 @@
             },
             {
               "name": {
-                "en": "Catalog Indexing Report 'Total' Section Calculation Error",
-                "es": "Error de cálculo de la sección 'total' del informe de indexación del catálogo",
-                "pt": "Erro de Cálculo da Seção 'Total' do Relatório de Indexação do Catálogo"
+                "en": "Catalog Indexing Report returning wrong stats",
+                "es": "El informe de indexación del catálogo devuelve estadísticas erróneas.",
+                "pt": "Relatório de indexação do catálogo retornando estatísticas incorretas"
               },
               "slug": {
-                "en": "catalog-indexing-report-total-section-calculation-error",
-                "es": "error-de-calculo-de-la-seccion-total-del-informe-de-indexacion-del-catalogo",
-                "pt": "erro-de-calculo-da-secao-total-do-relatorio-de-indexacao-do-catalogo"
+                "en": "catalog-indexing-report-returning-wrong-stats",
+                "es": "el-informe-de-indexacion-del-catalogo-devuelve-estadisticas-erroneas",
+                "pt": "relatorio-de-indexacao-do-catalogo-retornando-estatisticas-incorretas"
               },
               "origin": "",
               "type": "markdown",
@@ -41016,12 +41016,12 @@
             {
               "name": {
                 "en": "Catalog SKU Specification Export will not always export all the data if the selected category is a department",
-                "es": "La exportación de especificaciones de SKU de catálogo no siempre exportará todos los datos si la categoría seleccionada es un departamento.",
-                "pt": "A exportação de especificações de SKU do catálogo nem sempre exportará todos os dados se a categoria selecionada for um departamento"
+                "es": "La exportación de especificaciones de SKU del catálogo no siempre exportará todos los datos si la categoría seleccionada es un departamento.",
+                "pt": "A exportação de especificações de SKU do catálogo nem sempre exportará todos os dados se a categoria selecionada for um departamento."
               },
               "slug": {
                 "en": "catalog-sku-specification-export-will-not-always-export-all-the-data-if-the-selected-category-is-a-department",
-                "es": "la-exportacion-de-especificaciones-de-sku-de-catalogo-no-siempre-exportara-todos-los-datos-si-la-categoria-seleccionada-es-un-departamento",
+                "es": "la-exportacion-de-especificaciones-de-sku-del-catalogo-no-siempre-exportara-todos-los-datos-si-la-categoria-seleccionada-es-un-departamento",
                 "pt": "a-exportacao-de-especificacoes-de-sku-do-catalogo-nem-sempre-exportara-todos-os-dados-se-a-categoria-selecionada-for-um-departamento"
               },
               "origin": "",
@@ -41653,6 +41653,21 @@
                 "en": "error-leituradedadosdoadministrador-when-trying-to-access-catalog-pages-on-admin",
                 "es": "error-leituradedadosdoadministrador-al-intentar-acceder-a-las-paginas-del-catalogo-en-admin",
                 "pt": "erro-leituradedadosdoadministrador-ao-tentar-acessar-as-paginas-do-catalogo-no-admin"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "Error de cálculo de la sección 'total' del informe de indexación del catálogo",
+                "pt": "Erro de Cálculo da Seção 'Total' do Relatório de Indexação do Catálogo",
+                "en": "Error de cálculo de la sección 'total' del informe de indexación del catálogo"
+              },
+              "slug": {
+                "es": "error-de-calculo-de-la-seccion-total-del-informe-de-indexacion-del-catalogo",
+                "pt": "erro-de-calculo-da-secao-total-do-relatorio-de-indexacao-do-catalogo",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -43543,6 +43558,21 @@
                 "en": "specification-value-ordering-is-not-saved",
                 "es": "la-ordenacion-de-los-valores-de-las-especificaciones-no-se-guarda",
                 "pt": "a-ordenacao-de-valores-de-especificacao-nao-e-salva"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "SpecificationCode in the ProductSpecification export only shows code for one value",
+                "es": "El código de especificación en la exportación ProductSpecification solo muestra el código de un valor.",
+                "pt": "O código de especificação na exportação ProductSpecification mostra apenas o código para um valor"
+              },
+              "slug": {
+                "en": "specificationcode-in-the-productspecification-export-only-shows-code-for-one-value",
+                "es": "el-codigo-de-especificacion-en-la-exportacion-productspecification-solo-muestra-el-codigo-de-un-valor",
+                "pt": "o-codigo-de-especificacao-na-exportacao-productspecification-mostra-apenas-o-codigo-para-um-valor"
               },
               "origin": "",
               "type": "markdown",
@@ -50275,12 +50305,12 @@
             {
               "name": {
                 "en": "Mercado Livre Os atributos seller_package_height, seller_package_width, seller_package_length e seller_package_weight são obrigatórios.",
-                "es": "Mercado Libre Los atributos altura_paquete_vendedor, anchura_paquete_vendedor, longitud_paquete_vendedor y peso_paquete_vendedor son obligatorios.",
+                "es": "Mercado Libre Los atributos seller_package_height, seller_package_width, seller_package_length y seller_package_weight son obligatorios.",
                 "pt": "Mercado Livre Os atributos seller_package_height, seller_package_width, seller_package_length e seller_package_weight são obrigatórios."
               },
               "slug": {
                 "en": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios",
-                "es": "mercado-libre-los-atributos-alturapaquetevendedor-anchurapaquetevendedor-longitudpaquetevendedor-y-pesopaquetevendedor-son-obligatorios",
+                "es": "mercado-libre-los-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-y-sellerpackageweight-son-obligatorios",
                 "pt": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios"
               },
               "origin": "",
@@ -50711,12 +50741,12 @@
             {
               "name": {
                 "en": "Cart does not update in FastStore if external request is made to update orderForm",
-                "es": "La cesta no se actualiza en FastStore si se realiza una solicitud externa para actualizar orderForm",
-                "pt": "O carrinho não é atualizado no FastStore se for feita uma solicitação externa para atualizar o formulário de pedido"
+                "es": "El carrito no se actualiza en FastStore si se realiza una solicitud externa para actualizar el formulario de pedido.",
+                "pt": "O carrinho não é atualizado no FastStore se for feita uma solicitação externa para atualizar o formulário de pedido."
               },
               "slug": {
                 "en": "cart-does-not-update-in-faststore-if-external-request-is-made-to-update-orderform",
-                "es": "la-cesta-no-se-actualiza-en-faststore-si-se-realiza-una-solicitud-externa-para-actualizar-orderform",
+                "es": "el-carrito-no-se-actualiza-en-faststore-si-se-realiza-una-solicitud-externa-para-actualizar-el-formulario-de-pedido",
                 "pt": "o-carrinho-nao-e-atualizado-no-faststore-se-for-feita-uma-solicitacao-externa-para-atualizar-o-formulario-de-pedido"
               },
               "origin": "",
@@ -58929,12 +58959,12 @@
             {
               "name": {
                 "en": "Affiliation created in subaccount not listed in Admin; ‘Affiliation name is already used’ on retry",
-                "es": "Afiliación creada en subcuenta no listada en Admin",
+                "es": "Afiliación creada en una subcuenta que no aparece en Admin; «El nombre de la afiliación ya está en uso» al volver a intentarlo.",
                 "pt": "Afiliação criada na subconta não listada no Admin"
               },
               "slug": {
                 "en": "affiliation-created-in-subaccount-not-listed-in-admin-affiliation-name-is-already-used-on-retry",
-                "es": "afiliacion-creada-en-subcuenta-no-listada-en-admin",
+                "es": "afiliacion-creada-en-una-subcuenta-que-no-aparece-en-admin-el-nombre-de-la-afiliacion-ya-esta-en-uso-al-volver-a-intentarlo",
                 "pt": "afiliacao-criada-na-subconta-nao-listada-no-admin"
               },
               "origin": "",
@@ -61808,6 +61838,21 @@
             },
             {
               "name": {
+                "en": "Transaction stuck in \"Cancelling\" when payments are \"Finished\"",
+                "es": "La transacción se queda bloqueada en «Cancelando» cuando los pagos están «Finalizados».",
+                "pt": "Transação presa em “Cancelando” quando os pagamentos estão “Concluídos”"
+              },
+              "slug": {
+                "en": "transaction-stuck-in-cancelling-when-payments-are-finished",
+                "es": "la-transaccion-se-queda-bloqueada-en-cancelando-cuando-los-pagos-estan-finalizados",
+                "pt": "transacao-presa-em-cancelando-quando-os-pagamentos-estao-concluidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction stuck in Approved while payment remains Settling when using partial settlements",
                 "es": "Transacción atascada en Aprobado mientras el pago permanece Liquidando cuando se utilizan liquidaciones parciales.",
                 "pt": "Transação presa em Aprovado enquanto o pagamento permanece Liquidado ao usar liquidações parciais"
@@ -62049,12 +62094,12 @@
             {
               "name": {
                 "en": "Transactions stuck in \"Canceling\" and payments remain in \"Authorized\"",
-                "es": "Las transacciones se atascan en \"Cancelando\" y los pagos permanecen en \"Autorizado\".",
+                "es": "Las transacciones se quedan atascadas en «Cancelando» y los pagos permanecen en «Autorizado».",
                 "pt": "As transações ficam presas em \"Cancelando\" e os pagamentos permanecem em \"Autorizados\""
               },
               "slug": {
                 "en": "transactions-stuck-in-canceling-and-payments-remain-in-authorized",
-                "es": "las-transacciones-se-atascan-en-cancelando-y-los-pagos-permanecen-en-autorizado",
+                "es": "las-transacciones-se-quedan-atascadas-en-cancelando-y-los-pagos-permanecen-en-autorizado",
                 "pt": "as-transacoes-ficam-presas-em-cancelando-e-os-pagamentos-permanecem-em-autorizados"
               },
               "origin": "",
