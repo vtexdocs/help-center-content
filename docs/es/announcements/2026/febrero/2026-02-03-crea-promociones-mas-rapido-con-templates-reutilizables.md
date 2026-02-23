@@ -22,7 +22,7 @@ Antes, cada promoción tenía que crearse desde cero. Incluso en escenarios recu
 
 Ahora ya se puede crear, editar y eliminar plantillas de promoción directamente en el flujo de creación de promociones. Una plantilla funciona como un modelo preconfigurado. Cuando se selecciona, el formulario de **Nueva promoción** se completa automáticamente con las opciones guardadas, lo que reduce pasos manuales, retrabajo y variaciones indeseadas entre promociones.
 
-Para más información sobre el funcionamiento y las reglas de las plantillas de promociones, consulta [Gestión de plantillas de promociones](https://help.vtex.com/es/docs/tutorials/gestion-de-templates-de-promocion).
+Para más información sobre el funcionamiento y las reglas de las plantillas de promociones, consulta [Gestión de plantillas de promociones](https://help.vtex.com/es/docs/tutorials/gestion-de-plantillas-de-promociones).
 
 ## ¿Qué se necesita hacer?
 
