@@ -32323,6 +32323,21 @@
                 },
                 {
                   "name": {
+                    "en": "Promotion templates management",
+                    "es": "Gestión de plantillas de promociones",
+                    "pt": "Gerenciamento de templates de promoção"
+                  },
+                  "slug": {
+                    "en": "promotion-template-management",
+                    "es": "gestion-de-plantillas-de-promociones",
+                    "pt": "gerenciamento-de-templates-de-promocao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Promotions - Overview",
                     "es": "Promociones - Información general",
                     "pt": "Promoções - Visão geral"
