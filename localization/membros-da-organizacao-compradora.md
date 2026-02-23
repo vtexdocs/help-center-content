@@ -23,15 +23,10 @@ A tabela abaixo resume os principais perfis de acesso e suas funções:
 | **Comprador** | Pode realizar pedidos na loja. |
 | **Aprovador de pedidos** | Pode aprovar ou rejeitar pedidos de acordo com os fluxos de aprovação configurados. |
 | **Modificador de pedidos** | Pode usar a funcionalidade de alteração de pedido nos pedidos aos quais tem acesso. |
-| **Gerente de usuários** | Pode criar, editar e remover usuários na organização. |
 | **Gerente de endereços** | Pode adicionar endereços durante o checkout, salvá-los para o contrato ou unidade organizacional, alterar informações de endereço no checkout e visualizar endereços salvos. |
 | **Gerente da organização compradora** | Pode visualizar todos os pedidos da sua unidade organizacional, gerenciar configurações de autenticação, visualizar cartões de pagamento e visualizar endereços. |
 | **Gerente de contrato** | Pode visualizar pedidos realizados sob o contrato atribuído a ele. |
 | **Visualizador de contrato** | Pode visualizar endereços salvos (somente leitura). |
-| **Gerente de políticas de compra** | Pode criar, editar e excluir políticas de compra e fluxos de aprovação, e visualizar políticas de compra. |
-| **Gerente de orçamentos** | Pode criar, editar, alocar e excluir orçamentos, e visualizar detalhes de orçamento, alocações, limites e histórico de gastos. |
-| **Gerente de campos contábeis** | Pode criar, editar e excluir campos contábeis. |
-| **Gerente de cotações** | Pode criar, editar e excluir cotações. |
 | **Usuário de cartões pessoais** | Pode usar um novo cartão de crédito no checkout que não é salvo no contrato por padrão. |
 
 ## Informações de contato
