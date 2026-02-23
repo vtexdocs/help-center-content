@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "February",
+                "es": "Febrero",
+                "pt": "Fevereiro"
+              },
+              "slug": {
+                "en": "2026-february",
+                "es": "2026-febrero",
+                "pt": "2026-fevereiro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Create promotions faster with reusable templates",
+                    "es": "Crea promociones más rápido con plantillas reutilizables",
+                    "pt": "Crie promoções mais rápido com templates reutilizáveis"
+                  },
+                  "slug": {
+                    "en": "2026-02-23-create-promotions-faster-with-reusable-templates",
+                    "es": "2026-02-23-crea-promociones-mas-rapido-con-plantillas-reutilizables",
+                    "pt": "2026-02-23-crie-promocoes-mais-rapido-com-templates-reutilizaveis"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "January",
                 "es": "Enero",
                 "pt": "Janeiro"
@@ -77,37 +108,6 @@
                     "en": "2026-01-08-new-audit-event-export",
                     "es": "2026-01-08-nueva-audit-exportacion-eventos",
                     "pt": "2026-01-08-nova-exportacao-eventos-audit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "February",
-                "es": "Febrero",
-                "pt": "Fevereiro"
-              },
-              "slug": {
-                "en": "february",
-                "es": "febrero",
-                "pt": "fevereiro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Create promotions faster with reusable templates",
-                    "es": "Crea promociones más rápido con plantillas reutilizables",
-                    "pt": "Crie promoções mais rápido com templates reutilizáveis"
-                  },
-                  "slug": {
-                    "en": "2026-02-23-create-promotions-faster-with-reusable-templates",
-                    "es": "2026-02-23-crea-promociones-mas-rapido-con-plantillas-reutilizables",
-                    "pt": "2026-02-23-crie-promocoes-mais-rapido-com-templates-reutilizaveis"
                   },
                   "origin": "",
                   "type": "markdown",
