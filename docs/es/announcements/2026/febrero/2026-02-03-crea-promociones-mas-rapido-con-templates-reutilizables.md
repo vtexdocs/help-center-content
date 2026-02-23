@@ -12,7 +12,7 @@ locale: es
 announcementSynopsisPT: 'Ahora es posible crear y utilizar plantillas para agilizar la creación de promociones en el Admin VTEX.'
 ---
 
-El módulo **Promociones** de VTEX ahora cuenta con el [gestión de plantillas de promociones](https://help.vtex.com/es/docs/tutorials/gestion-de-templates-de-promocion). La funcionalidad te permite guardar y reutilizar plantillas de promociones, haciendo la creación de promociones más rápida, estandarizada y consistente.
+El módulo **Promociones** de VTEX ahora cuenta con el [gestión de plantillas de promociones](https://help.vtex.com/es/docs/tutorials/gestion-de-plantillas-de-promociones). La funcionalidad te permite guardar y reutilizar plantillas de promociones, haciendo la creación de promociones más rápida, estandarizada y consistente.
 
 > ℹ️ El lanzamiento se realizará por fases a partir de febrero. La disponibilidad puede variar entre cuentas VTEX durante ese periodo.
 
