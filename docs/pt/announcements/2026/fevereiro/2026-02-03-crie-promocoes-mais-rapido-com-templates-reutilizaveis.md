@@ -7,7 +7,7 @@ publishedAt: 2026-01-27T00:00:00.000Z
 contentType: updates
 productTeam: Others
 author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: 2026-02-03-create-promotions-faster-with-reusable-templates
+slugEN: 2026-02-23-create-promotions-faster-with-reusable-templates
 locale: pt
 announcementSynopsisPT: 'Agora é possível criar e usar templates para agilizar a criação de promoções no Admin VTEX.'
 ---
