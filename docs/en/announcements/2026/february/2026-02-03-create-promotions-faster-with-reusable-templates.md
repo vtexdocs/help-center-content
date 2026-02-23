@@ -22,7 +22,7 @@ Previously, each promotion had to be created from scratch. Even in recurring sce
 
 Now, the merchant can create, edit, and delete promotion templates directly within the promotion creation flow. A template works as a pre-configured model. When selected, the New Promotion form is automatically completed with the saved configurations, reducing manual steps, rework, and unwanted variations between promotions for you.
 
-For more information on how the promotion templates work and their rules, see [Promotion Template Management](https://help.vtex.com/en/docs/tutorials/promotion-templates-management).
+For more information on how the promotion templates work and their rules, see [Promotion Template Management](https://help.vtex.com/en/docs/tutorials/promotion-template-management).
 
 ## What needs to be done?
 
