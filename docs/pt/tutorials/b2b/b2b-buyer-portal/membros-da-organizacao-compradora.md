@@ -10,8 +10,6 @@ locale: pt
 
 Em uma organização compradora B2B, os membros são as pessoas que interagem com a loja em nome da organização. Suas ações são definidas pelos perfis de acesso e permissões atribuídos a eles e pela forma como a organização usa **informações de contato** e **dados do comprador**. Este artigo explica os tipos de membros e conceitos relacionados para que você entenda quem pode fazer o quê na sua organização.
 
-> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
-
 ## Perfis de acesso baseados em permissão
 
 Os perfis de acesso definem o que cada usuário pode fazer na loja, incluindo a gestão da Organization Account. Cada perfil de acesso possui um conjunto de permissões. Quando você atribui um ou mais perfis de acesso a um usuário, ele passa a ter as capacidades combinadas desses perfis. As permissões são aplicadas na loja para que os usuários vejam e usem apenas os recursos permitidos.
@@ -25,15 +23,10 @@ A tabela abaixo resume os principais perfis de acesso e suas funções:
 | **Comprador** | Pode realizar pedidos na loja. |
 | **Aprovador de pedidos** | Pode aprovar ou rejeitar pedidos de acordo com os fluxos de aprovação configurados. |
 | **Modificador de pedidos** | Pode usar a funcionalidade de alteração de pedido nos pedidos aos quais tem acesso. |
-| **Gerente de usuários** | Pode criar, editar e remover usuários na organização. |
 | **Gerente de endereços** | Pode adicionar endereços durante o checkout, salvá-los para o contrato ou unidade organizacional, alterar informações de endereço no checkout e visualizar endereços salvos. |
 | **Gerente da organização compradora** | Pode visualizar todos os pedidos da sua unidade organizacional, gerenciar configurações de autenticação, visualizar cartões de pagamento e visualizar endereços. |
 | **Gerente de contrato** | Pode visualizar pedidos realizados sob o contrato atribuído a ele. |
 | **Visualizador de contrato** | Pode visualizar endereços salvos (somente leitura). |
-| **Gerente de políticas de compra** | Pode criar, editar e excluir políticas de compra e fluxos de aprovação, e visualizar políticas de compra. |
-| **Gerente de orçamentos** | Pode criar, editar, alocar e excluir orçamentos, e visualizar detalhes de orçamento, alocações, limites e histórico de gastos. |
-| **Gerente de campos contábeis** | Pode criar, editar e excluir campos contábeis. |
-| **Gerente de cotações** | Pode criar, editar e excluir cotações. |
 | **Usuário de cartões pessoais** | Pode usar um novo cartão de crédito no checkout que não é salvo no contrato por padrão. |
 
 ## Informações de contato

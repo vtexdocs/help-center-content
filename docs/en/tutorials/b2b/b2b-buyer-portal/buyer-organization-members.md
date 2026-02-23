@@ -25,15 +25,10 @@ The table below summarizes the main roles and what they are for:
 | **Buyer** | Can place orders in the store. |
 | **Order Approver** | Can approve or reject orders according to your approval workflows. |
 | **Order Modifier** | Can use the change-order feature for orders they have access to. |
-| **User Manager** | Can create, edit, and remove users in the organization. |
 | **Address Manager** | Can add addresses during checkout, save them for the contract or organization unit, change address information at checkout, and view saved addresses. |
 | **Buyer Organization Manager** | Can view all orders in their organizational unit, manage authentication settings, view payment cards, and view addresses. |
 | **Contract Manager** | Can view orders placed under their assigned contract. |
 | **Contract Viewer** | Can view saved addresses (read-only). |
-| **Buying Policy Manager** | Can create, edit, and delete buying policies and approval workflows, and view buying policies. |
-| **Budget Manager** | Can create, edit, allocate, and delete budgets, and view budget details, allocations, limits, and spending history. |
-| **Accounting Field Manager** | Can create, edit, and delete accounting fields. |
-| **Quote Manager** | Can create, edit, and delete quotes. |
 | **Personal Cards User** | Can use a new credit card at checkout that is not saved to the contract by default. |
 
 
