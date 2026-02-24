@@ -10345,7 +10345,7 @@
                     "pt": "9. Preço Fixo - Definição de conceito"
                   },
                   "slug": {
-                    "en": "preco-fixo-definicao-de-conceito",
+                    "en": "fixed-price-concept-definition",
                     "es": "precio-fijo-definicion-de-concepto",
                     "pt": "preco-fixo-definicao-de-conceito"
                   },
@@ -41364,13 +41364,13 @@
             {
               "name": {
                 "en": "Collections don't open on subaccounts",
-                "es": "Los cobros no se abren en las subcuentas",
-                "pt": "As cobranças não são abertas em subcontas"
+                "es": "Las colecciones no se abren en las subcuentas.",
+                "pt": "As coleções não abrem em subcontas"
               },
               "slug": {
                 "en": "collections-dont-open-on-subaccounts",
-                "es": "los-cobros-no-se-abren-en-las-subcuentas",
-                "pt": "as-cobrancas-nao-sao-abertas-em-subcontas"
+                "es": "las-colecciones-no-se-abren-en-las-subcuentas",
+                "pt": "as-colecoes-nao-abrem-em-subcontas"
               },
               "origin": "",
               "type": "markdown",
