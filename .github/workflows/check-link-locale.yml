@@ -1,0 +1,30 @@
+name: Check link locale and slug
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - 'docs/pt/**/*.md'
+      - 'docs/pt/**/*.mdx'
+      - 'docs/en/**/*.md'
+      - 'docs/en/**/*.mdx'
+      - 'docs/es/**/*.md'
+      - 'docs/es/**/*.mdx'
+
+jobs:
+  check-link-locale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Install PyGithub
+        run: pip install PyGithub
+      - name: Install PyYAML
+        run: pip install pyyaml
+      - name: Run link locale and slug check
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/check_link_locale.py
