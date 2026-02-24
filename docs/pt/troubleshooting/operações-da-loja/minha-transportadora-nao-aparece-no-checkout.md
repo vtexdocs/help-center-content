@@ -57,7 +57,7 @@ Se o peso total dos itens do pedido exceder o peso máximo cadastrado para a tra
 
 ### Quebra de pacotes não permitida
 
-Se o peso do pedido ultrapassar o limite da transportadora e a **Divisão de Carga** não estiver habilitada na sua loja, a transportadora não aparecerá no Checkout. Por exemplo: caso um pedido tenha 40kg, mas o peso máximo cadastrado na planilha de frete seja 30kg, os produtos somente poderão ser enviados por meio da divisão do pedido em dois pacotes (20 kg cada)
+Se o peso do pedido ultrapassar o limite da transportadora e a **Divisão de Carga** não estiver habilitada na sua loja, a transportadora não aparecerá no Checkout. Por exemplo: caso um pedido tenha 40kg, mas o peso máximo cadastrado na planilha de frete seja 30kg, os produtos somente poderão ser enviados por meio da divisão do pedido em dois pacotes (20 kg cada).
 
 1. [Habilite a Divisão de Carga](https://help.vtex.com/pt/docs/tutorials/como-funciona-a-divisao-de-carga) em sua loja.
 2. Esta configuração permite que pedidos sejam divididos em múltiplos pacotes quando o peso exceder o limite da transportadora, tornando-a uma opção viável.
