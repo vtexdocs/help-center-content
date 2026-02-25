@@ -39,9 +39,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "Creating-coupons-in-bulk",
-                    "es": "Creating-coupons-in-bulk",
-                    "pt": "Creating-coupons-in-bulk"
+                    "en": "Creating coupons in bulk",
+                    "es": "Creating coupons in bulk",
+                    "pt": "Creating coupons in bulk"
                   },
                   "slug": {
                     "en": "2026-02-25-creating-coupons-in-bulk",
@@ -49461,21 +49461,6 @@
                 "en": "amazon-integration-stock-reservations-for-kits",
                 "es": "integracion-de-amazon-reservas-de-stock-para-kits",
                 "pt": "reservas-de-estoque-de-integracao-da-amazon-para-kits"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Amazon Listing Alguns skus não são integrados devido ao erro no atributo \"color#?.value\" field 'standardized_values'",
-                "es": "Amazon Listado Algunos skus no se integran debido al error en el atributo «color#?.value» del campo «standardized_values».",
-                "pt": "Amazon Listing Alguns skus não são integrados devido ao erro no atributo \"color#?.value\" field 'standardized_values'"
-              },
-              "slug": {
-                "en": "amazon-listing-alguns-skus-nao-sao-integrados-devido-ao-erro-no-atributo-colorvalue-field-standardizedvalues",
-                "es": "amazon-listado-algunos-skus-no-se-integran-debido-al-error-en-el-atributo-colorvalue-del-campo-standardizedvalues",
-                "pt": "amazon-listing-alguns-skus-nao-sao-integrados-devido-ao-erro-no-atributo-colorvalue-field-standardizedvalues"
               },
               "origin": "",
               "type": "markdown",
