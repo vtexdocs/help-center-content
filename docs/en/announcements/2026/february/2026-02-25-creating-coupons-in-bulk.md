@@ -1,5 +1,5 @@
 ---
-title: 'Creating-coupons-in-bulk'
+title: 'Creating coupons in bulk'
 status: PUBLISHED
 createdAt: 2026-02-25T12:00:00.000Z
 updatedAt: 2026-02-25T12:00:00.000Z
