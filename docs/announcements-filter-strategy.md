@@ -4,7 +4,7 @@ This document outlines the recommended filter structure for the Help Center Anno
 
 ## Overview
 
-Based on analysis of **392 announcement files** in `docs/es/announcements`, this strategy proposes **28 strategic filter options** organized into three categories.
+Based on analysis of **392 announcement files** in `docs/es/announcements`, this strategy proposes **26 strategic filter options** organized into three categories.
 
 ---
 
@@ -25,11 +25,11 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 | **Identity** | License Manager, permissions, authentication |
 | **Logistics** | Shipping, inventory, fulfillment, carriers |
 | **B2B** | B2B commerce features, buyer organizations, cost centers |
-| **Integrations** | Third-party connectors (Amazon, Mercado Libre, Google Shopping) |
+| **Integrations** | Third-party connectors |
 
 ---
 
-## 2. Products (8 options)
+## 2. Products (6 options)
 
 | Filter Value | Description |
 |--------------|-------------|
@@ -37,6 +37,8 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 | **VTEX Ads** | Advertising, sponsored products |
 | **B2B Buyer Portal** | Organizations, cost centers |
 | **VTEX Sales App** | Point of sale, in-store sales, mobile commerce |
+| **Amazon integration** | Product listing, order sync, fulfillment with Amazon |
+| **Mercado Libre integration** | Product listing, order sync, fulfillment with Mercado Libre |
 
 ---
 
