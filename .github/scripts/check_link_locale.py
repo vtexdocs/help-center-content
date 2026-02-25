@@ -30,7 +30,7 @@ pr = repo.get_pull(pr_number)
 
 ALLOWED_LOCALES = {"pt", "en", "es"}
 
-NAVIGATION_URL = "https://raw.githubusercontent.com/vtexdocs/helpcenter/refs/heads/main/public/navigation.json"
+NAVIGATION_URL = "https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/public/navigation.json"
 
 
 def load_navigation():
