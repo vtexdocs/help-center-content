@@ -33,12 +33,8 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 |--------------|-------------|
 | **VTEX Sales App** | Point of sale, in-store sales, mobile commerce |
 | **VTEX Shield** | Security Monitor, Data Protection Plus, WAF |
-| **FastStore** | Headless storefront, performance-optimized stores |
-| **VTEX IO** | Store Framework, app development platform |
-| **VTEX Pick and Pack** | Fulfillment solution, last-mile delivery |
 | **VTEX Ad Network** | Advertising, sponsored products |
-| **B2B Suite** | B2B Buyer Portal, organizations, cost centers |
-| **Conversational Commerce** | Weni by VTEX, messaging, customer communication |
+| **B2B Buyer Portal** | Organizations, cost centers |
 
 ---
 
@@ -52,17 +48,6 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 | **Deprecation** | End-of-life notices, discontinued features |
 | **Security** | Security updates, compliance, vulnerability fixes |
 | **Beta** | Features in beta testing, early access programs |
-
----
-
-## Summary
-
-| Category | Count |
-|----------|-------|
-| Categories | 12 |
-| Products | 8 |
-| Badges | 6 |
-| **Total** | **26 options** |
 
 ---
 
