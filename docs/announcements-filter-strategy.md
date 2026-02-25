@@ -8,7 +8,7 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 
 ---
 
-## 1. VTEX Core Services (12 options)
+## 1. Categories (12 options)
 
 | Filter Value | Description |
 |--------------|-------------|
@@ -27,7 +27,7 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 
 ---
 
-## 2. VTEX Main Products (8 options)
+## 2. Products (8 options)
 
 | Filter Value | Description |
 |--------------|-------------|
@@ -42,7 +42,7 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 
 ---
 
-## 3. Announcement Tags (6 options)
+## 3. Badges (6 options)
 
 | Filter Value | Description |
 |--------------|-------------|
@@ -59,9 +59,9 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 
 | Category | Count |
 |----------|-------|
-| Core Services | 12 |
-| Main Products | 8 |
-| Announcement Tags | 6 |
+| Categories | 12 |
+| Products | 8 |
+| Badges | 6 |
 | **Total** | **26 options** |
 
 ---
