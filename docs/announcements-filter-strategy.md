@@ -4,11 +4,11 @@ This document outlines the recommended filter structure for the Help Center Anno
 
 ## Overview
 
-Based on analysis of **392 announcement files** in `docs/es/announcements`, this strategy proposes **26 strategic filter options** organized into three categories.
+Based on analysis of **392 announcement files** in `docs/es/announcements`, this strategy proposes **28 strategic filter options** organized into three categories.
 
 ---
 
-## 1. Categories (13 options)
+## 1. Categories (14 options)
 
 | Filter Value | Description |
 |--------------|-------------|
@@ -17,6 +17,7 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 | **Payments** | Gateway, Payment Provider Protocol, payment methods |
 | **Orders** | Order Management System (OMS), order processing |
 | **Promotions** | Discounts, coupons, campaigns, pricing rules |
+| **Prices** | Price tables, fixed prices, computed prices, price rules |
 | **Marketplace** | Marketplace Network, seller management, channels |
 | **Intelligent Search** | Search functionality, merchandising rules |
 | **CMS** | Headless CMS, Site Editor, Store Framework, content management |
