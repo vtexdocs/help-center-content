@@ -15624,21 +15624,6 @@
             },
             {
               "name": {
-                "pt": "Minha transportadora não aparece no Checkout",
-                "en": "Minha transportadora não aparece no Checkout",
-                "es": "Minha transportadora não aparece no Checkout"
-              },
-              "slug": {
-                "pt": "minha-transportadora-nao-aparece-no-checkout",
-                "en": "",
-                "es": ""
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "My ad is not displayed on Mercado Livre",
                 "es": "Mi anuncio no aparece en Mercado Libre",
                 "pt": "Meu anúncio não é exibido no Mercado Livre"
