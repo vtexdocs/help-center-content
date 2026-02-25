@@ -29,25 +29,27 @@ Para permitir o acesso à loja por outros endereços e versões sem subdomínio,
 
 Existem diversas maneiras de configurar redirecionamentos, sendo o uso do `[htaccess](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Apache_Configuration_htaccess)` no servidor uma das mais conhecidas. Além disso, é possível usar um redirecionamento de DNS, disponibilizado por diversos serviços, incluindo provedores de domínio, como o [registro.br](https://registro.br/).
 
-A seguir, apresentaremos instruções para configurar redirecionamentos para o endereço principal da sua loja utilizando a ferramenta [Direcionar](http://direcionar.com.br/), por sua simplicidade de uso.
+A seguir, apresentaremos instruções para configurar redirecionamentos para o endereço principal da sua loja utilizando a ferramenta [Redirect-301](https://www.redirect-301.com/pt/), por sua simplicidade de uso.
 
-> ⚠️ O [Direcionar](http://direcionar.com.br/) não é um serviço da VTEX e não funciona com HTTPS. Existem outros serviços similares, e a VTEX não recomenda nenhum específico. A VTEX não se responsabiliza por problemas causados por serviços externos de redirecionamento.
+> ⚠️ O [Redirect-301](https://www.redirect-301.com/pt/) não é um serviço da VTEX, e funciona por subscripção. Existem outros serviços similares, e a VTEX não recomenda nenhum específico. A VTEX não se responsabiliza por problemas causados por serviços externos de redirecionamento.
 
 ### Redirecionamento de endereço sem subdomínio (como www)
 
-Para acessar a loja por meio de um endereço sem subdomínios, como `www`, é preciso criar um redirecionamento para o endereço principal da sua loja. Por exemplo, para ser possível acessar `http://www.meusite.com` a partir do endereço sem subdomínio `http://meusite.com`, é necessário criar um redirecionamento no seu provedor de DNS conforme as instruções abaixo:
+Para acessar a loja por meio de um endereço sem subdomínios, como `www`, é preciso criar um redirecionamento para o endereço principal da sua loja. Por exemplo, para ser possível acessar `https://www.meusite.com` a partir do endereço sem subdomínio `https://meusite.com`, é necessário criar um redirecionamento no seu provedor de DNS conforme as instruções abaixo:
 
-1. Crie um registro do tipo A para a raiz do domínio, geralmente representada por `.`, `@` ou apenas `meusite.com`, apontando para `52.8.174.221` (IP da [Direcionar](http://direcionar.com.br/)).
+1. Acesse o site da [Redirect-301](https://www.redirect-301.com/pt/) e contrate uma assinatura. Após a confirmação da assinatura, você receberá um TOKEN no e-mail cadastrado. Esse token será utilizado na configuração do seu domínio.
+
+2. Crie um registro do tipo A para a raiz do domínio, geralmente representada por `.`, `@` ou apenas `meusite.com`, apontando para `18.215.89.131` (IP da [Redirect-301](https://www.redirect-301.com/pt/)).
 
    |   |   |   |
    |---|---|---|
-   | Host Record: <deixe-vazio\> | Type: A | To: 52.8.174.221 |
+   | Host Record: <deixe-vazio\> | Type: A | To: 18.215.89.131 |
 
-2. Crie um registro do tipo CNAME de `redirect` (ou `redirect.meusite.com`), apontando para `www.meusite.com.direcionar.com.br`.
+3. Crie um registro do tipo TXT `redirect-301` (ou `redirect-301.meusite.com`), com o seguente valor: `token=SEU_TOKEN;to=https://www.meusite.com/`
 
   |   |   |   |
   |---|---|---|
-  | Host Record: redirect | Type: CNAME | To: www.meusite.com.direcionar.com.br |
+  | Host Record: redirect-301 | Type: TXT | Value: token=SEU_TOKEN;to=https://www.meusite.com/ |
 
 Saiba mais sobre situações como essa em [Melhores práticas para acessar a loja sem www](/pt/docs/tutorials/melhores-praticas-para-acessar-a-loja-sem-www).
 
@@ -55,15 +57,15 @@ A propagação do redirecionamento pode levar alguns minutos para ser concluída
 
 ### Redirecionamento de um endereço para outro
 
-Para realizar o redirecionamento de um endereço para outro que não compartilha a mesma raiz do domínio, crie uma entrada CNAME no endereço antigo (origem do acesso), seguindo o padrão `{endereçoNovo}.opts-uri.direcionar.com.br`.
-
 Por exemplo, para redirecionar de `www.dominioantigo.com` para `www.novodominio.com.br`:
 
-* Crie uma entrada `www` no domínio `dominioantigo.com` com o CNAME `www.novodominio.com.opts-uri.direcionar.com.br`.
+* Crie uma entrada `www` no domínio `dominioantigo.com` do tipo A apontando para  `18.215.89.131` (IP da [Redirect-301](https://www.redirect-301.com/pt/)).
+* Crie um registro do tipo TXT `redirect-301.www` (ou `redirect-301.www.dominioantigo.com`), com o seguente valor: `token=SEU_TOKEN;to=https://www.novodominio.com.br/`
 
 Para redirecionar de `loja.algumendereco.com.br` para `www.site.com`:
 
-* Crie uma entrada `loja` no domínio `algumendereco.com.br` com o CNAME `www.site.com.opts-uri.direcionar.com.br`.
+* Crie uma entrada `loja` no domínio `algumendereco.com.br` do tipo A apontando para  `18.215.89.131` (IP da [Redirect-301](https://www.redirect-301.com/pt/)).
+* Crie um registro do tipo TXT `redirect-301.loja` (ou `redirect-301.loja.algumendereco.com.br`), com o seguente valor: `token=SEU_TOKEN;to=https://www.site.com/`
 
 ### Redirecionamento de acessos com HTTPS
 
@@ -71,9 +73,4 @@ A VTEX direciona automaticamente endereços `http://` para `https://` . Ainda as
 
 Ao acessar uma página com HTTPS, é necessário que o servidor que responde pelo endereço tenha um certificado SSL instalado. A ausência desse certificado faz com que o navegador interprete a conexão como não segura, resultando no bloqueio da requisição. Isso impede o acesso à página desejada e, consequentemente, inviabiliza o redirecionamento para outro endereço.
 
-No [Direcionar](http://direcionar.com.br/), não é possível instalar um certificado SSL para cada domínio a ele apontado. Sendo assim, ele não redireciona acessos originados em HTTPS.
-
-Para lidar com essa limitação, considere os seguintes pontos:
-
-1. Se o domínio de origem não possui subdomínio, como `site.com`, aponte-o para um servidor de gestão da própria loja, ou seja, um servidor físico ou virtual que é administrado pelo próprio usuário ou empresa. Este servidor deve possuir um **certificado SSL instalado para o domínio de origem**, viabilizando o acesso seguro via HTTPS. Acesse [Certificado de segurança (SSL)](/pt/docs/tutorials/certificado-de-seguranca-ssl) para mais informações.
-2. Defina uma **regra de redirecionamento**. Para usar um servidor de gestão própria para redirecionar acessos com HTTPS, você precisará definir uma regra de redirecionamento no servidor. Ela pode variar conforme o tipo de servidor utilizado (Apache, ASP, nginx). Portanto, para configurar essa regra, você deve saber qual tipo de servidor está sendo usado e aplicar as configurações correspondentes.
+No [Redirect-301](https://www.redirect-301.com/pt/) é instalado um certificado SSL para cada domínio apontado. Dessa forma, ele redireciona normalmente acessos originados em HTTP e HTTPS, garantindo conexões seguras quando aplicável.
