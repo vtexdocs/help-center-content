@@ -51,30 +51,6 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 
 ---
 
-## Implementation Recommendations
-
-### Proposed Frontmatter Schema
-
-Add a new `tags` field to announcement files:
-
-```yaml
----
-title: 'Announcement Title'
-status: PUBLISHED
-createdAt: 2026-02-25T12:00:00.000Z
-updatedAt: 2026-02-25T12:00:00.000Z
-publishedAt: 2026-02-25T12:00:00.000Z
-contentType: updates
-productTeam: Shopping
-author: 2AhArvGNSPKwUAd8GOz0iU
-tags:
-  - Checkout
-  - New feature
-slugEN: announcement-slug
-locale: es
----
-```
-
 ### Mapping from Existing `productTeam` Values
 
 | Current `productTeam` | Suggested Core Service Mapping |
@@ -91,18 +67,3 @@ locale: es
 | Billing | Payments |
 | Apps | VTEX IO |
 | Others | (Requires manual classification) |
-
-### Filter Behavior
-
-- Allow **multiple selections** within each category
-- Support **cross-category filtering** (e.g., "Checkout" + "New feature")
-- Consider adding a **date range filter** using existing `publishedAt` field
-
----
-
-## File Analysis Summary
-
-- **Total announcement files:** 392
-- **Date range:** 2017 - February 2026
-- **Organization:** `docs/es/announcements/{YEAR}/{MONTH}/`
-- **Filename pattern:** `YYYY-MM-DD-{slug}.md`
