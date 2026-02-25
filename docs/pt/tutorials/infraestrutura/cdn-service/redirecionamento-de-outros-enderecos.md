@@ -31,20 +31,18 @@ Existem diversas maneiras de configurar redirecionamentos, sendo o uso do `[htac
 
 A seguir, apresentaremos instruções para configurar redirecionamentos para o endereço principal da sua loja utilizando a ferramenta [Redirect-301](https://www.redirect-301.com/pt/), por sua simplicidade de uso.
 
-> ⚠️ O [Redirect-301](https://www.redirect-301.com/pt/) não é um serviço da VTEX, e funciona por subscripção. Existem outros serviços similares, e a VTEX não recomenda nenhum específico. A VTEX não se responsabiliza por problemas causados por serviços externos de redirecionamento.
+> ⚠️ O [Redirect-301](https://www.redirect-301.com/pt/) não é um serviço da VTEX e opera sob modelo de assinatura. Existem outras soluções similares no mercado, e a VTEX não recomenda nenhuma ferramenta específica. A VTEX não se responsabiliza por eventuais problemas decorrentes do uso de serviços externos de redirecionamento.
 
 ### Redirecionamento de endereço sem subdomínio (como www)
 
 Para acessar a loja por meio de um endereço sem subdomínios, como `www`, é preciso criar um redirecionamento para o endereço principal da sua loja. Por exemplo, para ser possível acessar `https://www.meusite.com` a partir do endereço sem subdomínio `https://meusite.com`, é necessário criar um redirecionamento no seu provedor de DNS conforme as instruções abaixo:
 
-1. Acesse o site da [Redirect-301](https://www.redirect-301.com/pt/) e contrate uma assinatura. Após a confirmação da assinatura, você receberá um TOKEN no e-mail cadastrado. Esse token será utilizado na configuração do seu domínio.
-
+1. Acesse o site da [Redirect-301](https://www.redirect-301.com/pt/) e contrate uma assinatura. Após a confirmação da assinatura, você receberá um token no email cadastrado. Esse token será utilizado na configuração do seu domínio.
 2. Crie um registro do tipo A para a raiz do domínio, geralmente representada por `.`, `@` ou apenas `meusite.com`, apontando para `18.215.89.131` (IP da [Redirect-301](https://www.redirect-301.com/pt/)).
 
    |   |   |   |
    |---|---|---|
    | Host Record: <deixe-vazio\> | Type: A | To: 18.215.89.131 |
-
 3. Crie um registro do tipo TXT `redirect-301` (ou `redirect-301.meusite.com`), com o seguente valor: `token=SEU_TOKEN;to=https://www.meusite.com/`
 
   |   |   |   |
