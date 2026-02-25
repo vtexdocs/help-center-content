@@ -4,7 +4,7 @@ This document outlines the recommended filter structure for the Help Center Anno
 
 ## Overview
 
-Based on analysis of **392 announcement files** in `docs/es/announcements`, this strategy proposes **25 strategic filter options** organized into three categories.
+Based on analysis of **392 announcement files** in `docs/es/announcements`, this strategy proposes **26 strategic filter options** organized into three categories.
 
 ---
 
@@ -42,7 +42,7 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 
 ---
 
-## 3. Announcement Tags (5 options)
+## 3. Announcement Tags (6 options)
 
 | Filter Value | Description |
 |--------------|-------------|
@@ -51,6 +51,7 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 | **Breaking change** | API changes, behavior modifications requiring action |
 | **Deprecation** | End-of-life notices, discontinued features |
 | **Security** | Security updates, compliance, vulnerability fixes |
+| **Beta** | Features in beta testing, early access programs |
 
 ---
 
@@ -60,8 +61,8 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 |----------|-------|
 | Core Services | 12 |
 | Main Products | 8 |
-| Announcement Tags | 5 |
-| **Total** | **25 options** |
+| Announcement Tags | 6 |
+| **Total** | **26 options** |
 
 ---
 
