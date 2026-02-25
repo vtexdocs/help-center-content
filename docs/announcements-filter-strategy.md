@@ -8,7 +8,7 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 
 ---
 
-## 1. Categories (12 options)
+## 1. Categories (13 options)
 
 | Filter Value | Description |
 |--------------|-------------|
