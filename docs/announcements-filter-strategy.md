@@ -21,8 +21,9 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 | **Intelligent Search** | Search functionality, merchandising rules |
 | **CMS** | Headless CMS, Site Editor, Store Framework, content management |
 | **Master Data** | Data entities, triggers, customer data |
-| **Identity** | License Manager, permissions, authentication, API keys |
+| **Identity** | License Manager, permissions, authentication |
 | **Logistics** | Shipping, inventory, fulfillment, carriers |
+| **B2B** | B2B commerce features, buyer organizations, cost centers |
 | **Integrations** | Third-party connectors (Amazon, Mercado Libre, Google Shopping) |
 
 ---
@@ -31,10 +32,10 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 
 | Filter Value | Description |
 |--------------|-------------|
-| **VTEX Sales App** | Point of sale, in-store sales, mobile commerce |
 | **VTEX Shield** | Security Monitor, Data Protection Plus, WAF |
-| **VTEX Ad Network** | Advertising, sponsored products |
+| **VTEX Ads** | Advertising, sponsored products |
 | **B2B Buyer Portal** | Organizations, cost centers |
+| **VTEX Sales App** | Point of sale, in-store sales, mobile commerce |
 
 ---
 
