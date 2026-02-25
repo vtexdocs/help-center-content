@@ -24,7 +24,7 @@ Para lotes com mais de 1.000 cupons, a criação do lote não ocorre imediatamen
 
 > ℹ️ Lotes com mais de 1.000 cupons não podem ser editados. Caso deseje alterar as informações de um determinado lote, será necessário arquivá-lo e criar um novo lote com as informações modificadas.
 
-O que precisa ser feito?
+## O que precisa ser feito?
 
 Esta funcionalidade está em fase de testes (Closed Beta), disponível apenas para um grupo selecionado de contas.
 
