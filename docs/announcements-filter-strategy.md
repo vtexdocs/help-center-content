@@ -12,7 +12,7 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 
 | Filter Value | Description |
 |--------------|-------------|
-| **Checkout** | Checkout API, validation, reCAPTCHA, cart functionality |
+| **Checkout** | Validation, reCAPTCHA, cart functionality |
 | **Catalog** | Product catalog, categories, SKUs, specifications |
 | **Payments** | Gateway, Payment Provider Protocol, payment methods |
 | **Orders** | Order Management System (OMS), order processing |
@@ -53,13 +53,13 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 |-----------------------|--------------------------------|
 | Shopping | Checkout, Orders |
 | Channels | Marketplace, Integrations |
-| Marketing & Merchandising | Promotions, Intelligent Search |
+| Marketing & Merchandising | Promotions, Intelligent Search, Catalog |
 | Identity | Identity |
 | Post-purchase | Orders, Logistics |
-| VTEX IO | VTEX IO, CMS |
+| VTEX IO | CMS |
 | Financial | Payments |
 | Management | Identity |
 | Master Data | Master Data |
 | Billing | Payments |
-| Apps | VTEX IO |
+| Apps | Integrations |
 | Others | (Requires manual classification) |
