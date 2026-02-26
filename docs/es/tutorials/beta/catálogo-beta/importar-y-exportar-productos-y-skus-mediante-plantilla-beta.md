@@ -3,7 +3,7 @@ title: 'Importar y exportar productos y SKUs mediante plantilla (Beta)'
 id: 5udKxWP1ZeBD7QB7Fy2BNl
 status: PUBLISHED
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2026-01-09T15:30:32.980Z
+updatedAt: 2026-02-26T15:30:32.980Z
 publishedAt: 2025-11-05T15:30:32.980Z
 firstPublishedAt: 2025-09-05T18:41:30.755Z
 contentType: tutorial
@@ -75,7 +75,7 @@ Mientras se procesa la exportación, la página [Productos y SKUs](/es/docs/tuto
 * **Ícono de carga:** indica que la operación de exportación está en curso.
 * **Productos y SKUs:** identifica el tipo de exportación. Otros tipos de exportación disponibles son [especificaciones de productos](/es/docs/tutorials/importar-y-exportar-especificaciones-de-productos-mediante-plantilla-beta), [especificaciones de SKUs](/es/docs/tutorials/importar-y-exportar-especificaciones-de-skus-mediante-plantilla-beta) e [imágenes de productos y SKUs](/es/docs/tutorials/importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla-beta).
 * **Fecha y hora:** muestra la hora de inicio de la exportación, en el formato `DD-MM-AAAA - hh:mm`.
-* **Número en la tag azul:** informa la cantidad de ítems que se están exportando. 
+* **Número en la tag azul:** informa la cantidad de ítems que se están exportando.
 * **(Opcional) Ícono flecha hacia abajo** <i class="fas fa-angle-down" aria-hidden="true"></i>: se muestra únicamente cuando hay más de una exportación en curso. Al hacer clic, la ventana de exportaciones se minimiza; la puedes volver a expandir después.
 * **Ícono cerrar** <i class="fas fa-times" aria-hidden="true"></i>: al hacer clic se cierra la ventana, pero no afecta la exportación en curso.
 * **Ícono cancelar** <i class="far fa-times-circle" aria-hidden="true"></i>: al hacer clic se cancela la exportación.
@@ -94,7 +94,7 @@ La siguiente tabla presenta la descripción y el ejemplo de valor de los campos 
 
 | Campo | Descripción | Ejemplo |
 | :--- | :--- | :--- |
-| ID Producto | Número único de identificación del producto. Si este campo ya está completado no se puede modificar. Para agregar un nuevo producto deja el campo vacío. | 310117603 |
+| ID Producto | Número único de identificación del producto. Puedes rellenar un ID personalizado o dejar el campo vacío, de forma que la plataforma genera el ID automáticamente. Si este campo ya está completado no se puede modificar. | 310117603 |
 | Nombre Producto* | Nombre del producto presentado a los clientes en la experiencia de navegación, puede tener hasta 150 caracteres. Por cuestiones de [SEO](/es/docs/tutorials/mejorar-el-seo-de-las-paginas-de-lista-de-productos), recomendamos:<ul><li>✅ Utilizar palabras simples</li><li>❌ Evitar otros idiomas</li><li>❌ Evitar ortografía compleja</li></ul> | Camiseta de algodón |
 | Producto activo | Indica si el [status del producto](/es/docs/tutorials/productos-y-skus#filtrar-por-status) será activo o inactivo. Este campo no se puede editar desde la plantilla, debe dejarse vacío. | (Deja el campo vacío) |
 | Descripción | Texto con información general sobre el producto. Ya que este contenido se muestra a los clientes en la vitrina de la tienda, recomendamos crear un resumen simple y fácil de entender. | Modelo con cuello redondo y manga corta. |
@@ -116,7 +116,7 @@ La siguiente tabla presenta la descripción y el ejemplo de valor de los campos 
 | Palabras sustitutas | Sinónimos del nombre del producto, que permiten búsquedas más amplias. El límite es de 8000 caracteres, incluyendo caracteres especiales. Para agregar varias palabras, sepáralas con comas sin espacios. | camisa,blusa |
 | Código de referencia Producto | Código de referencia único del producto, utilizado internamente por la tienda. Para llenar este campo, usa una combinación única de letras y/o números. | 68ce4_azul |
 | Código fiscal | Secuencia numérica que identifica el producto. | 84509010 |
-| ID SKU | Código numérico único que identifica el SKU. Si este campo ya está completado no se puede modificar. Para agregar un nuevo producto deja el campo vacío. | 310119261 |
+| ID SKU | Código numérico único que identifica el SKU. Puedes rellenar un ID personalizado o dejar el campo vacío, de forma que la plataforma genera el ID automáticamente. Si este campo ya está completado no se puede modificar. | 310119261 |
 | Nombre SKU* | Nombre del SKU, es decir, lo que identifica la variación del producto. | M |
 | Activar SKU si es posible* | Si deseas la activación automática del SKU después de verificar los [requisitos de disponibilidad](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web), llena con `sí`. Si no deseas que se active, llena con `no`. | sí |
 | SKU Activo | Este campo define si el SKU está activo (`sí`) o inactivo (`no`). El campo no permite modificación y solo se utiliza para consulta. | no |
@@ -149,4 +149,3 @@ La siguiente tabla presenta la descripción y el ejemplo de valor de los campos 
 * [Importar y exportar especificaciones de productos mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-especificaciones-de-productos-mediante-plantilla-beta)
 * [Importar y exportar especificaciones de SKUs mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-especificaciones-de-skus-mediante-plantilla-beta)
 * [Importar y exportar imágenes de productos y SKUs mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla-beta)
-

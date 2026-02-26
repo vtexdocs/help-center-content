@@ -3,7 +3,7 @@ title: 'Importing and exporting products and SKUs using a spreadsheet (Beta)'
 id: 5udKxWP1ZeBD7QB7Fy2BNl
 status: PUBLISHED
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2026-01-09T15:30:32.980Z
+updatedAt: 2026-02-26T15:30:32.980Z
 publishedAt: 2025-11-05T15:30:32.980Z
 firstPublishedAt: 2025-09-05T18:41:30.755Z
 contentType: tutorial
@@ -94,7 +94,7 @@ The following table describes and includes an example of each field in the produ
 
 | Field | Description | Example |
 | :--- | :--- | :--- |
-| Product ID | Product identification number. If this field already has a value, you can't change it. To add a new product, leave the field empty. | 310117603 |
+| Product ID | Product identification number. You can fill in a custom ID or leave the field empty, so that the platform generates the ID automatically. If this field already has a value, you can't change it. | 310117603 |
 | Product Name* | Product name shown to customers during navigation (up to 150 characters). For [SEO](/en/docs/tutorials/improving-the-seo-of-product-listing-pages) purposes, we recommend:<ul><li>✅ Use simple words</li><li>❌ Avoid using other languages</li><li>❌ Avoid complex spelling</li></ul> | Corebiz t-shirt |
 | Active product | Informs whether the [product status](/en/docs/tutorials/products-and-skus#filtrar-por-status) will be active or inactive. This field is read-only and must be left empty. | (Leave the field empty) |
 | Description | Text with general product information. This content is displayed to customers in the storefront, so we recommend creating a simple and clear summary. | The model has a round collar and short sleeves. |
@@ -116,7 +116,7 @@ The following table describes and includes an example of each field in the produ
 | Substitute words | Product name synonyms that allow more comprehensive searches. The limit is 8,000 characters, including special characters. To add several words, separate them with commas, without using spaces. | shirt,blouse |
 | Product reference code | Unique product reference code, for internal store use only. To complete this field, use a combination of letters and/or numbers. | 68ce4_blue |
 | Tax code | Numerical sequence that identifies the product. | 84509010 |
-| SKU ID | Unique numerical code that identifies the SKU. If this field already has a value, you can't change it. To add a new SKU, leave the field empty. | 310119261 |
+| SKU ID | Unique numerical code that identifies the SKU. You can fill in a custom ID or leave the field empty, so that the platform generates the ID automatically. If this field already has a value, you can't change it. | 310119261 |
 | SKU name* | Name which identifies the product variation. | M |
 | Activate SKU if possible* | If you want the SKU to be activated automatically after checking the [availability requirements](/en/faq/why-is-the-product-not-visible-on-the-website), enter `yes`. If you don't want it to be activated, enter `no`. | yes |
 | Active SKU | This field defines whether the SKU is active (`yes`) or inactive (`no`). This field can't be edited; it's for reference only. | no |
