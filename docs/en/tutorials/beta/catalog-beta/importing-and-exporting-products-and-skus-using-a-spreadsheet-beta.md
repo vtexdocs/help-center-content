@@ -3,7 +3,7 @@ title: 'Importing and exporting products and SKUs using a spreadsheet (Beta)'
 id: 5udKxWP1ZeBD7QB7Fy2BNl
 status: PUBLISHED
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2026-01-09T15:30:32.980Z
+updatedAt: 2026-02-26T15:30:32.980Z
 publishedAt: 2025-11-05T15:30:32.980Z
 firstPublishedAt: 2025-09-05T18:41:30.755Z
 contentType: tutorial
@@ -94,7 +94,7 @@ The following table describes and includes an example of each field in the produ
 
 | Field | Description | Example |
 | :--- | :--- | :--- |
-| Product ID | Product identification number. If this field already has a value, you can't change it. To add a new product, leave the field empty. | 310117603 |
+| Product ID | Product identification number. You can fill in a custom ID or leave the field empty, so that the platform generates the ID automatically. If this field already has a value, you can't change it. | 310117603 |
 | Product Name* | Product name shown to customers during navigation (up to 150 characters). For [SEO](/en/docs/tutorials/improving-the-seo-of-product-listing-pages) purposes, we recommend:<ul><li>✅ Use simple words</li><li>❌ Avoid using other languages</li><li>❌ Avoid complex spelling</li></ul> | Corebiz t-shirt |
 | Active product | Informs whether the [product status](/en/docs/tutorials/products-and-skus#filtrar-por-status) will be active or inactive. This field is read-only and must be left empty. | (Leave the field empty) |
 | Description | Text with general product information. This content is displayed to customers in the storefront, so we recommend creating a simple and clear summary. | The model has a round collar and short sleeves. |
@@ -111,12 +111,12 @@ The following table describes and includes an example of each field in the produ
 | Page title | Name that will be displayed both on the product details page (PDP) and in the browser tab. This field is crucial for SEO. The limit is 150 characters. | Corebiz blue round neck t-shirt |
 | Meta description | Brief product description, preferably under 160 characters. This allows search engines to display the description correctly on results pages. | Corebiz blue t-shirt with round neck in polyester and lycra made with 70% recycled material |
 | Show on site* | If you want the product to be visible in the product listing, enter `yes`. If you prefer to hide it, enter `no`. | yes |
-| Show when out of stock* | If you want out-of-stock products to be visible in the listing, enter `yes`. This allows customers to use the [Notify me](/en/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e#) feature, which allows them to enter their email and receive a notification when the product is available. If you want the out-of-stock product to become hidden in the listing, enter `no`. | no |
+| Show when out of stock* | If you want out-of-stock products to be visible in the listing, enter `yes`. This allows customers to use the [Notify me](https://help.vtex.com/docs/tutorials/setting-up-the-notify-me-option) feature, which allows them to enter their email and receive a notification when the product is available. If you want the out-of-stock product to become hidden in the listing, enter `no`. | no |
 | Release date | Date and time when the product will be available for sale. The value of this field helps sort site search results, influences the creation of [automatic collections](/en/docs/tutorials/creating-collections-beta), and determines the product [indexing](/en/docs/tutorials/understanding-how-indexation-works) date. The accepted format is `YYYY-MM-DD`. | 2025-11-25 |
 | Substitute words | Product name synonyms that allow more comprehensive searches. The limit is 8,000 characters, including special characters. To add several words, separate them with commas, without using spaces. | shirt,blouse |
 | Product reference code | Unique product reference code, for internal store use only. To complete this field, use a combination of letters and/or numbers. | 68ce4_blue |
 | Tax code | Numerical sequence that identifies the product. | 84509010 |
-| SKU ID | Unique numerical code that identifies the SKU. If this field already has a value, you can't change it. To add a new SKU, leave the field empty. | 310119261 |
+| SKU ID | Unique numerical code that identifies the SKU. You can fill in a custom ID or leave the field empty, so that the platform generates the ID automatically. If this field already has a value, you can't change it. | 310119261 |
 | SKU name* | Name which identifies the product variation. | M |
 | Activate SKU if possible* | If you want the SKU to be activated automatically after checking the [availability requirements](/en/faq/why-is-the-product-not-visible-on-the-website), enter `yes`. If you don't want it to be activated, enter `no`. | yes |
 | Active SKU | This field defines whether the SKU is active (`yes`) or inactive (`no`). This field can't be edited; it's for reference only. | no |
@@ -138,7 +138,7 @@ The following table describes and includes an example of each field in the produ
 | Commercial condition | Unique numeric identifier for the [commercial condition](/en/docs/tutorials/registering-a-commercial-condition), which defines promotions or [payment conditions](/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions) that are valid for the SKU. | Default |
 | Loyalty amount | Credit the customer receives when purchasing 1 unit of a given SKU. For example, if this field is set to $1.00, the customer who buys the SKU will receive a $1.00 store credit for future purchases. This field must be completed with decimals of the store's default currency. | 49.90 |
 | Presale date | Presale date for the SKU, indicating when the item is expected to arrive in stores and be available for sale. To configure this setting, you need to consider both the item release date and the [estimated shipping](/en/docs/tutorials/how-shipping-calculation-works) to customers. The accepted format is `YYYY-MM-DD`. | 2025-10-30 |
-| Attachments | [Attachment](/en/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm#) name that customers can select as customization for the SKU. | Custom name |
+| Attachments | [Attachment](https://help.vtex.com/docs/tutorials/what-is-an-attachment) name that customers can select as customization for the SKU. | Custom name |
 | Accessories | Complementary items suggested for the main product. To add an [accessory](/en/docs/tutorials/setting-up-a-similar-product-suggestions-accessories-and-generics) item, include its SKU ID. If you want to include multiple SKUs, separate them with commas, without using spaces. | 320221270 |
 | Suggestions | Product recommendations. To add a [suggested](/en/docs/tutorials/setting-up-a-similar-product-suggestions-accessories-and-generics) item, include its SKU ID. If you want to include multiple SKUs, separate them with commas, without using spaces. | 320221279,320221280 |
 | Similar products | Alternatives to the selected item or products with similar characteristics. To add a [similar](/en/docs/tutorials/setting-up-a-similar-product-suggestions-accessories-and-generics) item, include its SKU ID. If you want to include multiple SKUs, separate them with commas, without using spaces. | 320221284 |
