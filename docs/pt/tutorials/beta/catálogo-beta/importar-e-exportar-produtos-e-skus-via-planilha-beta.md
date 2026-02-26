@@ -94,7 +94,7 @@ A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campo
 
 | Campo | Descrição | Exemplo |
 | :--- | :--- | :--- |
-| ID Produto | Número único identificador do produto. Você pode preencher um ID próprio ou deixar o campo vazio, de forma que a plataforma gera o ID automaticamente. Caso esse campo já esteja preenchido, não é possível alterá-lo. | 310117603 |
+| ID Produto | Número único identificador do produto. Você pode preencher um ID próprio ou deixar o campo vazio, de forma que a plataforma gere o ID automaticamente. Caso esse campo já esteja preenchido, não é possível alterá-lo. | 310117603 |
 | Nome Produto* | Nome do produto apresentado para os clientes na experiência de navegação, podendo ter até 150 caracteres. Por questões de [SEO](/pt/docs/tutorials/melhorando-o-seo-das-paginas-de-lista-de-produtos), recomendamos:<ul><li>✅ Usar palavras simples</li><li>❌ Evitar outros idiomas</li><li>❌ Evitar escrita complexa</li></ul> | Corebiz camiseta |
 | Produto ativo | Informa se o [status do produto](/pt/docs/tutorials/produtos-e-skus#filtrar-por-status) será ativo ou inativo. Este campo não editável pela planilha, deve ser deixado vazio. | |
 | Descrição | Texto com informações gerais sobre o produto. Este conteúdo é apresentado aos clientes na vitrine da loja, portanto recomendamos criar um resumo de fácil entendimento. | O modelo tem gola redonda e as mangas são curtas. |
