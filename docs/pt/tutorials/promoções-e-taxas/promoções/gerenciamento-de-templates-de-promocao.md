@@ -16,6 +16,8 @@ Os **templates de promoção** permitem ao lojista salvar configurações recorr
 
 Um template funciona como um modelo base e, ao aplicá-lo, o formulário de criação da promoção é automaticamente preenchido com as configurações previamente salvas.
 
+> ℹ️ O lançamento ocorrerá em fases, a partir de fevereiro. A disponibilidade poderá variar entre as contas VTEX durante esse período.
+
 ## Criar template vazio
 
 Quando nenhum template foi criado, a aba **Templates** exibe um estado vazio informando que ainda não há modelos disponíveis. Para criar o primeiro template, siga os passos abaixo:
