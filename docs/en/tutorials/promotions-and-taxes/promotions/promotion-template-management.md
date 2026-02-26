@@ -18,6 +18,8 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 
 A template serves as a base model and, when applied, automatically completes the New Promotion form with the previously saved configuration.
 
+> ℹ️ The launch will take place in phases starting in February. Availability may vary between VTEX accounts throughout this period.
+
 ## Creating empty templates
 
 When no template has been created, the **Templates** tab displays an empty state indicating that no models are available yet. To create the first template, follow the steps below:

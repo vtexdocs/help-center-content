@@ -17,6 +17,8 @@ Las **plantillas de promociones** permiten que guardes configuraciones recurrent
 
 Una plantilla funciona como un modelo base y, al aplicarla, el formulario de creación de la promoción se llena automáticamente con la configuración previamente guardada.
 
+> ℹ️ El lanzamiento se realizará por fases a partir de febrero. La disponibilidad puede variar entre cuentas VTEX durante ese periodo.
+
 ## Crear plantilla desde cero
 
 Cuando aún no se ha creado ninguna plantilla, la pestaña **Plantillas** muestra un mensaje indicando que todavía no hay modelos disponibles. Para crear la primera plantilla sigue los pasos a continuación:
