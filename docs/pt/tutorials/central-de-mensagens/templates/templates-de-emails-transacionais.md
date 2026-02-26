@@ -22,27 +22,26 @@ O objetivo deste artigo é listar os templates de emails transacionais padrão r
 Para acessar os templates, siga os passos abaixo.
 
 1. No Admin VTEX, acesse **Configurações da loja > Templates de email > Templates**, ou digite **Templates** na barra de busca no topo da página.
-2. Clique em __Templates__.
+2. Clique em **Templates__.
 3. Na barra de busca, digite o nome ou a chave do template que deseja encontrar. Consulte a lista abaixo para mais informações.
 
 | Template | Chave | Descrição | Gatilho |
-|-|-|-|-|
+| - | - | - | - |
 | Order confirmation | vtexcommerce-new-order | Email enviado quando o pedido é concluído. | Checkout cria um novo pedido. |
-| Replace Order | vtexcommerce-replace-order | Email enviado quando o pedido é substituído com sucesso. | Checkout cria um novo pedido e informa o __Gerenciamento de pedidos__ sobre a substituição. |
-| Order change payment | vtexcommerce-order-change-payment | Notificação de forma de pagamento alterada. | O cliente altera a forma de pagamento e o Checkout notifica o __Gerenciamento de pedidos__ sobre a alteração. |
-| Payment pending | vtexcommerce-payment-pending | Notificação de pagamento pendente. | O __Gerenciamento de pedidos__ envia o email 48 horas após a finalização do pedido. |
-| Payment approved | vtexcommerce-payment-approved | Notificação de pagamento aprovado. | O status do pedido muda para __Pagamento Aprovado__. |
+| Replace Order | vtexcommerce-replace-order | Email enviado quando o pedido é substituído com sucesso. | Checkout cria um novo pedido e informa o **Gerenciamento de pedidos** sobre a substituição. |
+| Order change payment | vtexcommerce-order-change-payment | Notificação de forma de pagamento alterada. | O cliente altera a forma de pagamento e o Checkout notifica o **Gerenciamento de pedidos** sobre a alteração. |
+| Payment pending | vtexcommerce-payment-pending | Notificação de pagamento pendente. | O **Gerenciamento de pedidos** envia o email 48 horas após a finalização do pedido. |
+| Payment approved | vtexcommerce-payment-approved | Notificação de pagamento aprovado. | O status do pedido muda para **Pagamento Aprovado**. |
 | Change of information order | vtexcommerce-order-changed | Notificação de que o [pedido foi alterado](/pt/docs/tutorials/alteracao-de-itens-de-um-pedido-finalizado). | O Checkout notifica um evento de alteração no pedido (desconto, adição de itens ou remoção de itens). |
 | Order changed | vtexcommerce-order-changed-v2 | Notificação de que [o pedido foi alterado](/pt/docs/tutorials/como-alterar-pedidos). | O Checkout notifica um evento de alteração no pedido (aumento ou diminuição de preço, adição, remoção ou substituição de itens, alteração de peso). |
-| Order invoiced | vtexcommerce-order-invoiced | Notificação de que o pedido foi faturado. | O status do pedido muda para __Faturado__. |
-| Cancel billed request | vtexcommerce-order-invoiced-with-cancel-request | Notificação de que o pedido não pode ser cancelado após ser faturado. | O Seller recusa um pedido de cancelamento quando o pedido está no status __Preparando Entrega__. |
+| Order invoiced | vtexcommerce-order-invoiced | Notificação de que o pedido foi faturado. | O status do pedido muda para **Faturado**. |
+| Cancel billed request | vtexcommerce-order-invoiced-with-cancel-request | Notificação de que o pedido não pode ser cancelado após ser faturado. | O Seller recusa um pedido de cancelamento quando o pedido está no status **Preparando Entrega**. |
 | Cancel shipped order | vtexcommerce-order-shipped-with-cancel-request | Notificação de que o pedido não pode ser cancelado após ser enviado. | O Seller recusa um pedido de cancelamento quando o pedido já possui um número de rastreio ou uma URL de rastreio. |
 | Order shipped | vtexcommerce-order-shipped | Notificação de que o pedido foi enviado. | O pedido recebe uma nota fiscal e um número de rastreio ou uma URL de rastreio. Em caso de primeiro envio, será necessário preencher as duas informações: `trackingNumber` e `trackingURL`. |
 | Shipping Update | vtexcommerce-order-shipping-update | Notificação dos eventos da entrega, como "coletado pela transportadora" e "saiu para entrega", por exemplo. | O pedido precisa ter a nota fiscal, e um número de rastreio e uma URL de rastreio vinculada à nota. Além disto, deve ter os eventos da entrega, que é a informação principal deste template. |
 | Order delivered | vtexcommerce-order-shipping-finished | Notificação de que a entrega foi realizada. | O pedido precisa ter a nota fiscal, e um número de rastreio e uma URL de rastreio vinculada à nota. O Seller confirma a entrega do pedido. Essa ação muda o valor do campo `isDelivered` para `true` no json do pedido. |
-| Order cancelled | vtexcommerce-order-cancelled | Notificação de cancelamento do pedido. | Status do pedido muda para __Cancelado__. |
+| Order cancelled | vtexcommerce-order-cancelled | Notificação de cancelamento do pedido. | Status do pedido muda para **Cancelado**. |
 | [Order Refund](/pt/docs/tutorials/template-de-e-mail-transacional-para-pedido-estornado) | vtexcommerce-order-refund | Notificação de estorno. | O lojista insere o invoice com o valor estornado pela API [Order Invoice Notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice), com o campo `type` contendo o valor `input`. No Admin, esse evento é disparado quando se clica no botão  **Fazer devolução de itens**, na tela de detalhes do pedido. |
 | Buyer Portal Sequential approval required (Buyer) | buyer-portal-buyer | Notificação enviada ao comprador quando um pedido requer aprovação. | Quando um pedido foge das políticas comerciais estabelecidas pela organização, ele precisa ser aprovado manualmente pelo comprador. O status do pedido permanece em `waiting-for-authorization` até que seja aprovado ou rejeitado. |
 | Buyer Portal Sequential approval required (Approver) | buyer-portal-approver | Notificação enviada ao aprovador quando um pedido requer aprovação. | Quando um pedido foge das políticas comerciais estabelecidas pela organização, ele precisa ser aprovado manualmente pelo aprovador. O status do pedido permanece em `waiting-for-authorization` até que seja aprovado ou rejeitado. |
 | Buyer Portal Order Denied (Buyer) | buyer-portal-order-denied-buyer | Notificação enviada ao comprador de que o pedido foi rejeitado. | O aprovador rejeitou o pedido segundo as políticas da organização, atualizando o status do pedido para `rejected`. |
-
