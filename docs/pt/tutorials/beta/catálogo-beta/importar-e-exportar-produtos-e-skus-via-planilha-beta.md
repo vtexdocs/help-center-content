@@ -116,7 +116,7 @@ A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campo
 | Palavras substitutas | Sinônimos do nome do produto, que permitem buscas mais abrangentes. O limite é de 8.000 caracteres, incluindo caracteres especiais. Para adicionar diversas palavras, separe-as por vírgula sem espaço. | camisa,blusa |
 | Código de referência Produto | Código de referência único do produto, utilizado apenas internamente pela loja. Para preencher este campo, use uma combinação única de letras e/ou números. | 68ce4_azul |
 | Código fiscal | Sequência numérica que identifica o produto. | 84509010 |
-| ID SKU | Código numérico único que identifica o SKU. Você pode preencher um ID próprio ou deixar o campo vazio, de forma que a plataforma gera o ID automaticamente. Caso esse campo já esteja preenchido, não é possível alterá-lo. | 310119261 |
+| ID SKU | Código numérico único que identifica o SKU. Você pode preencher um ID próprio ou deixar o campo vazio, de forma que a plataforma gere o ID automaticamente. Caso esse campo já esteja preenchido, não é possível alterá-lo. | 310119261 |
 | Nome SKU* | Nome do SKU, ou seja, que identifica a variação do produto. | M |
 | Ativar SKU se possível* | Se deseja a ativação automática do SKU após a checagem dos [requisitos de disponibilidade](/pt/faq/por-que-o-produto-nao-aparece-no-site), preencha com `sim`. Se não deseja que ele seja ativado, preencha com `não`. | sim |
 | SKU Ativo | Este campo define se o SKU está ativo (`sim`) ou inativo (`não`). O campo não permite alteração e é utilizado somente para consulta. | não |
