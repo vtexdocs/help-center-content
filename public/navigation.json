@@ -40,13 +40,13 @@
                 {
                   "name": {
                     "en": "Creating coupons in bulk",
-                    "es": "Creating coupons in bulk",
-                    "pt": "Creating coupons in bulk"
+                    "es": "Creación de cupones en lote",
+                    "pt": "Criação de cupons em lote"
                   },
                   "slug": {
                     "en": "2026-02-25-creating-coupons-in-bulk",
-                    "es": "",
-                    "pt": ""
+                    "es": "2026-02-25-creacion-de-cupones-en-lote",
+                    "pt": "2026-02-25-criacao-de-cupons-em-lote"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -62,37 +62,6 @@
                     "en": "2026-02-23-create-promotions-faster-with-reusable-templates",
                     "es": "2026-02-23-crea-promociones-mas-rapido-con-plantillas-reutilizables",
                     "pt": "2026-02-23-crie-promocoes-mais-rapido-com-templates-reutilizaveis"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Febrero",
-                "es": "Febrero",
-                "pt": "Fevereiro"
-              },
-              "slug": {
-                "en": "febrero",
-                "es": "2026-febrero",
-                "pt": "2026-fevereiro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "es": "Creación de cupones en lote",
-                    "pt": "Criação de cupons em lote",
-                    "en": "Creación de cupones en lote"
-                  },
-                  "slug": {
-                    "es": "2026-02-25-creacion-de-cupones-en-lote",
-                    "pt": "2026-02-25-criacao-de-cupons-em-lote",
-                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
