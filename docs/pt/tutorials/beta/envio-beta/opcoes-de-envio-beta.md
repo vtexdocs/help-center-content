@@ -53,17 +53,28 @@ Para criar uma nova opção de envio, siga os passos abaixo.
 2. Clique em `Criar opção de envio`.
 3. Preencha os campos do formulário:
   ![delivery-options-form-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_2.png)
+
+   ### Informações básicas
+
    - **Método de envio:** selecione o tipo de método de envio (**Entrega**, **Entrega agendada**, **Retirada**, **Retirada agendada**).
    - **Nome da opção:** digite o nome da opção que será visualizada pelo cliente durante a compra.
    - **Usar opção como filtro na vitrine da loja**: ative para permitir que os clientes filtrem os produtos por esta opção de envio por meio dos [filtros do Intelligent Search](/pt/docs/tutorials/filtros).
 
    > ⚠️ Os filtros de métodos de envio somente serão exibidos na listagem de produtos ao cliente se esta opção estiver ativada. Caso desativada, os filtros não serão exibidos.
 
+   ### Meta de prazo
+
    - **Formato de prazo**: selecione qual medida de tempo (**Dias** ou **Horas**) deve ser utilizada para a entrega.
    - **Condição**: define qual a condição (**A partir de**, **Em até**, **Entre**) para o prazo da opção de envio.
    - **Prazo mínimo:** quantidade mínima de horas ou dias para a opção de envio.
    - **Prazo máximo:** quantidade máxima de horas ou dias para a opção de envio.
+
+   ### Zonas de envio
+
    - **Zonas de envio**: clique no botão `+ Adicionar zonas` e selecione as zonas de envio que deseja que sejam atendidas pela opção de envio. É possível buscar por uma zona de envio por meio da barra de busca. Clique em `Salvar` para fechar a janela.
+
+   ### Precificação de envio
+
    - **Precificação**: condições de precificação da opção de envio. Os modelos de precificação aplicados em cada segmentação são: **Valor fixo**, um mesmo preço que será aplicado a todos os carrinhos, **Markup**, uma porcentagem de lucro em cima do valor do frete, e **Repasse de custo**, a loja arca com o custo da opção de envio. É possível combinar as opções de precificação entre si. As condições de precificação são definidas partir das seguintes segmentações:
        - **Todos os carrinhos**: o preço será aplicado a todos os carrinhos criados na loja.
        - **Políticas comerciais**: o preço será aplicado a uma determinada política comercial.
