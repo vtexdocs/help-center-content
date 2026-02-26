@@ -7,7 +7,7 @@ publishedAt: 2026-02-25T12:00:00.000Z
 contentType: updates
 productTeam: Others
 author: 2AhArvGNSPKwUAd8GOz0iU
-slugEN: 2026-02-25-creating-coupons-in-bulk.md
+slugEN: 2026-02-25-creating-coupons-in-bulk
 locale: en
 announcementSynopsisPT: 'Bulk coupon creation in the Promotions module, with higher supported volume and fewer manual operations.'
 ---
