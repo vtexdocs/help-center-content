@@ -4,7 +4,7 @@ This document outlines the recommended filter structure for the Help Center Anno
 
 ## Overview
 
-Based on analysis of **392 announcement files** in `docs/es/announcements`, this strategy proposes **25 strategic filter options** organized into two groups.
+Based on analysis of **392 announcement files** in `docs/es/announcements`, this strategy proposes **25 strategic filter options** organized into two groups: 20 filter tags and 5 badges.
 
 ---
 
