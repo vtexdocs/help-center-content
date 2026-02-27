@@ -25,7 +25,7 @@ In this guide, you'll learn how to manage buying policies through the following 
 
 1. On the organizational unit page, in the **Finance and compliance** section, click `Buying policies`.
 
-   ![buying_policies_image_initial_org_account_page](link)
+   ![buying_policies_image_initial_org_account_page_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-buyer-portal/buying_policies_image_initial_org_account_page_EN.png)
 
 2. On the **Buying policies** page, click the `+` icon at the top of the screen to add a new buying policy.
 

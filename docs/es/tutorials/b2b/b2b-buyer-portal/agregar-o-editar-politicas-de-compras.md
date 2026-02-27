@@ -25,7 +25,7 @@ Este artículo orienta a los usuarios sobre la gestión de las políticas de com
 
 1. En la página de la unidad organizativa, en la sección **Finanzas y compliance**, haz clic en `Política de compras`.
 
-   ![buying_policies_image_initial_org_account_page](link)
+   ![buying_policies_image_initial_org_account_page_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/b2b-buyer-portal/buying_policies_image_initial_org_account_page_ES.png)
 
 2. En la pantalla **Políticas de compras**, haz clic en el ícono `+` en la parte superior de la pantalla para agregar una nueva política de compras.
 
