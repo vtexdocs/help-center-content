@@ -5,7 +5,7 @@ updatedAt: '2026-03-27T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 locale: pt
-slugEN: checkout-custom-fields
+slugEN: custom-checkout-fields
 ---
 
 Os **campos customizáveis no checkout** permitem coletar informações adicionais durante a compra no **B2B Buyer Portal**, como **centro de custo**, **número de pedido interno (PO)** e outros dados de controle. Essas informações ficam associadas ao pedido, ajudando a empresa a padronizar dados, aplicar regras internas e facilitar auditorias.
