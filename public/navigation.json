@@ -17145,12 +17145,12 @@
                 {
                   "name": {
                     "en": "Custom checkout fields",
-                    "es": "Campos personalizables en checkout",
+                    "es": "Campos personalizables del checkout",
                     "pt": "Campos customizáveis no checkout"
                   },
                   "slug": {
                     "en": "custom-checkout-fields",
-                    "es": "campos-personalizables-en-checkout",
+                    "es": "campos-personalizables-del-checkout",
                     "pt": "campos-customizaveis-do-checkout"
                   },
                   "origin": "",
@@ -17196,7 +17196,7 @@
                   },
                   "slug": {
                     "en": "add-or-edit-custom-checkout-fields",
-                    "es": "adicionar-ou-editar-campos-customizaveis",
+                    "es": "agregar-o-editar-campos-personalizables-del-checkout",
                     "pt": "adicionar-ou-editar-campos-customizaveis"
                   },
                   "origin": "",
