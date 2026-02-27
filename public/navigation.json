@@ -17144,29 +17144,14 @@
                 },
                 {
                   "name": {
-                    "es": "Campos personalizables en checkout",
-                    "pt": "Campos customizáveis no checkout",
-                    "en": "Campos personalizables en checkout"
-                  },
-                  "slug": {
-                    "es": "campos-personalizables-en-checkout",
-                    "pt": "campos-customizaveis-do-checkout",
-                    "en": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Custom checkout fields",
-                    "es": "Custom checkout fields",
-                    "pt": "Custom checkout fields"
+                    "es": "Campos personalizables en checkout",
+                    "pt": "Campos customizáveis no checkout"
                   },
                   "slug": {
                     "en": "custom-checkout-fields",
-                    "es": "",
-                    "pt": ""
+                    "es": "campos-personalizables-en-checkout",
+                    "pt": "campos-customizaveis-do-checkout"
                   },
                   "origin": "",
                   "type": "markdown",
