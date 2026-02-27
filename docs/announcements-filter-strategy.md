@@ -10,7 +10,7 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 
 ## 1. Filter tags (20 options)
 
-| Filter Value | Description |
+| Filter tag | Description |
 |--------------|-------------|
 | **Checkout** | Validation, reCAPTCHA, cart functionality |
 | **Catalog** | Products, categories, SKUs, specifications |
@@ -37,7 +37,7 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 
 ## 2. Badges (5 options)
 
-| Filter Value | Description |
+| Badge | Description |
 |--------------|-------------|
 | **New feature** | New functionality, modules, or capabilities |
 | **Improvement** | Enhancements, optimizations, UX improvements |
