@@ -25,29 +25,25 @@ Este artículo orienta a los usuarios sobre la gestión de las políticas de com
 
 1. En la página de la unidad organizativa, en la sección **Finanzas y compliance**, haz clic en `Política de compras`.
 
-   ![buying_policies_image_initial_org_account_page_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/b2b-buyer-portal/buying_policies_image_initial_org_account_page_ES.png)
+    ![buying_policies_image_initial_org_account_page_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/b2b-buyer-portal/buying_policies_image_initial_org_account_page_ES.png)
 
 2. En la pantalla **Políticas de compras**, haz clic en el ícono `+` en la parte superior de la pantalla para agregar una nueva política de compras.
-
 3. En el modal **Agregar nueva política de compras**, llena los campos; todos son obligatorios:
+    - En **Información básica**, define el nombre y la descripción de la política de compras que se mostrará en el checkout para los compradores:
+        - **Nombre:** nombre de la política de compras.
+        - **Descripción:** breve explicación del funcionamiento de la política de compras. Una buena descripción ayuda a los usuarios que interactúen con esta política de compras a entender por qué se denegó un pedido o se requirió aprobación manual.
+    - En **Criterios**, define los criterios que determinan la aplicación de la política de compras. Debes llenar el campo con una expresión en formato [JSONata](https://jsonata.org/), como `score ≥ 10`. Puedes seleccionar el criterio deseado y luego editar los valores deseados (destacados en morado):
+        - **Establecer criterios de límite de gasto (definir criterio de precio):** opciones de aprobación o denegación de pedidos en función del precio del pedido. Por ejemplo, si el pedido es mayor, menor o igual a determinado valor.
+        - **Establecer criterios de características del pedido:** opciones para aprobar o rechazar pedidos en función de las condiciones y propiedades del mismo. Por ejemplo, si tiene ítems restringidos o si tiene asignado un centro de costos específico.
 
-   - En **Información básica**, define el nombre y la descripción de la política de compras que se mostrará en el checkout para los compradores:
-     - **Nombre:** nombre de la política de compras.
-     - **Descripción:** breve explicación del funcionamiento de la política de compras. Una buena descripción ayuda a los usuarios que interactúen con esta política de compras a entender por qué se denegó un pedido o se requirió aprobación manual.
-   - En **Criterios**, define los criterios que determinan la aplicación de la política de compras. Debes llenar el campo con una expresión en formato [JSONata](https://jsonata.org/), como `score ≥ 10`. Puedes seleccionar el criterio deseado y luego editar los valores deseados (destacados en morado):
-     - **Establecer criterios de límite de gasto (definir criterio de precio):** opciones de aprobación o denegación de pedidos en función del precio del pedido. Por ejemplo, si el pedido es mayor, menor o igual a determinado valor.
+    > ℹ️ Los valores usados en los criterios de autorización de pedidos son centesimales y la moneda corresponde a la misma utilizada en el carrito de compras del pedido.
 
-     - **Establecer criterios de características del pedido:** opciones para aprobar o rechazar pedidos en función de las condiciones y propiedades del mismo. Por ejemplo, si tiene ítems restringidos o si tiene asignado un centro de costos específico.
+    - En **Acción**, selecciona la acción que se aplicará a los pedidos que tengan las características definidas en los criterios:
+        - **Denegar pedido:** el pedido será rechazado.
+        - **Ignorar todas las políticas de compras:** el pedido se aprobará automáticamente, sin importar los criterios definidos.
+        - **Flujo de trabajo secuencial:** el pedido será aprobado o denegado manualmente por un usuario autorizado. Para esta opción, es necesario ingresar el nombre de una unidad organizativa para que el usuario de esa unidad revise el pedido.
 
-   > ℹ️ Los valores usados en los criterios de autorización de pedidos son centesimales y la moneda corresponde a la misma utilizada en el carrito de compras del pedido.
-
-   - En **Acción**, selecciona la acción que se aplicará a los pedidos que tengan las características definidas en los criterios:
-     - **Denegar pedido:** el pedido será rechazado.
-
-     - **Ignorar todas las políticas de compras:** el pedido se aprobará automáticamente, sin importar los criterios definidos.
-
-     - **Flujo de trabajo secuencial:** el pedido será aprobado o denegado manualmente por un usuario autorizado. Para esta opción, es necesario ingresar el nombre de una unidad organizativa para que el usuario de esa unidad revise el pedido.
-     > ⚠️ Es posible definir una jerarquía de hasta cinco unidades organizativas, siendo el quinto nivel el último en revisar el pedido. Cualquier nivel puede denegar el pedido, pero la aprobación final depende de la autorización de todos los niveles.
+        > ⚠️ Es posible definir una jerarquía de hasta cinco unidades organizativas, siendo el quinto nivel el último en revisar el pedido. Cualquier nivel puede denegar el pedido, pero la aprobación final depende de la autorización de todos los niveles.
 
 4. Para guardar la configuración, haz clic en `Agregar`.
 

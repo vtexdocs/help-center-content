@@ -25,29 +25,25 @@ In this guide, you'll learn how to manage buying policies through the following 
 
 1. On the organizational unit page, in the **Finance and compliance** section, click `Buying policies`.
 
-   ![buying_policies_image_initial_org_account_page_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-buyer-portal/buying_policies_image_initial_org_account_page_EN.png)
+    ![buying_policies_image_initial_org_account_page_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-buyer-portal/buying_policies_image_initial_org_account_page_EN.png)
 
 2. On the **Buying policies** page, click the `+` icon at the top of the screen to add a new buying policy.
-
 3. In the **Add new buying policy** modal, complete the following required fields:
+    - In **Basic information**, set the name and description for the buying policy that will appear at checkout for buyers:
+        - **Name:** Enter the name of the buying policy.
+        - **Description:** Enter a brief explanation of how the policy works. A clear description helps users understand why an order was denied or requires manual approval.
+    - In **Criteria**, set the criteria that will trigger the buying policy. To do this, complete the field with an expression in [JSONata](https://jsonata.org/) format, such as `score ≥ 10`. You can select a criterion and only edit the desired values (highlighted in purple):
+        - **Set spending limit criteria:** Options to approve or deny orders based on the order amount. For example, if the order is greater than, less than, or equal to a certain amount.
+        - **Set order field criteria:** Options to approve or deny orders based on order conditions. For example, if it has restricted items or a specific cost center.
 
-   - In **Basic information**, set the name and description for the buying policy that will appear at checkout for buyers:
-     - **Name:** Enter the name of the buying policy.
-     - **Description:** Enter a brief explanation of how the policy works. A clear description helps users understand why an order was denied or requires manual approval.
-   - In **Criteria**, set the criteria that will trigger the buying policy. To do this, complete the field with an expression in [JSONata](https://jsonata.org/) format, such as `score ≥ 10`. You can select a criterion and only edit the desired values (highlighted in purple):
-     - **Set spending limit criteria:** Options to approve or deny orders based on the order amount. For example, if the order is greater than, less than, or equal to a certain amount.
+    > ℹ️ The values used in the order approval criteria are centesimal, and the currency matches the one used in the order cart.
 
-     - **Set order field criteria:** Options to approve or deny orders based on order conditions. For example, if it has restricted items or a specific cost center.
+    - In **Action**, select which action will apply to orders that meet the criteria:
+        - **Deny order:** The order will be denied.
+        - **Bypass all buying policies:** The order will be automatically approved, regardless of the defined criteria.
+        - **Sequential workflow:** The order must be manually approved or denied by an authorized user. For this option, you must enter the name of an organizational unit so that its users can review the order.
 
-   > ℹ️ The values used in the order approval criteria are centesimal, and the currency matches the one used in the order cart.
-
-   - In **Action**, select which action will apply to orders that meet the criteria:
-     - **Deny order:** The order will be denied.
-
-     - **Bypass all buying policies:** The order will be automatically approved, regardless of the defined criteria.
-
-     - **Sequential workflow:** The order must be manually approved or denied by an authorized user. For this option, you must enter the name of an organizational unit so that its users can review the order.
-     > ⚠️ You can set a hierarchy of up to five organizational units, with the fifth level being the last to review the order. Any level can deny the order, but final approval requires authorization from all levels.
+        > ⚠️ You can set a hierarchy of up to five organizational units, with the fifth level being the last to review the order. Any level can deny the order, but final approval requires authorization from all levels.
 
 4. To save the settings, click `Add`.
 
