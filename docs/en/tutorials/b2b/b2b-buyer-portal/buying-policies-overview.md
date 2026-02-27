@@ -36,6 +36,6 @@ To configure buying policies, the user's [Storefront permissions](https://develo
 
 ## Configuring buying policies
 
-Users can add, edit, or remove buying policies through the organizational unit interface. For more information, see the article [Adding or editing buying policies](link).
+Users can add, edit, or remove buying policies through the organizational unit interface. For more information, see the article [Adding or editing buying policies](https://help.vtex.com/en/docs/tutorials/adding-or-editing-buying-policies).
 
 > ℹ️ To manage order authorization rules via API, see the [Buying Policies API](https://developers.vtex.com/docs/api-reference/buying-policies-api) and the developer guide [Buying Policies](https://developers.vtex.com/docs/guides/buying-policies).
