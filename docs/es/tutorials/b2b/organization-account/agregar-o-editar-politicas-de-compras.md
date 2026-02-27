@@ -32,7 +32,7 @@ Este artículo orienta a los usuarios sobre la gestión de las políticas de com
     - En **Información básica**, define el nombre y la descripción de la política de compras que se mostrará en el checkout para los compradores:
         - **Nombre:** nombre de la política de compras.
         - **Descripción:** breve explicación del funcionamiento de la política de compras. Una buena descripción ayuda a los usuarios que interactúen con esta política de compras a entender por qué se denegó un pedido o se requirió aprobación manual.
-    - En **Criterios**, define los criterios que determinan la aplicación de la política de compras. Debes llenar el campo con una expresión en formato [JSONata](https://jsonata.org/), como `score ≥ 10`. Puedes seleccionar el criterio deseado y luego editar los valores deseados (destacados en morado):
+    - En **Criterios**, define los criterios que determinan la aplicación de la política de compras. Debes llenar el campo con una expresión en formato [JSONata](https://jsonata.org/), como `value > 10000` (pedidos más caros que USD 100.00). Puedes seleccionar el criterio deseado y luego editar los valores deseados (destacados en morado):
         - **Establecer criterios de límite de gasto (definir criterio de precio):** opciones de aprobación o denegación de pedidos en función del precio del pedido. Por ejemplo, si el pedido es mayor, menor o igual a determinado valor.
         - **Establecer criterios de características del pedido:** opciones para aprobar o rechazar pedidos en función de las condiciones y propiedades del mismo. Por ejemplo, si tiene ítems restringidos o si tiene asignado un centro de costos específico.
 

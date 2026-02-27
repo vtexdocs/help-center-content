@@ -32,7 +32,7 @@ In this guide, you'll learn how to manage buying policies through the following 
     - In **Basic information**, set the name and description for the buying policy that will appear at checkout for buyers:
         - **Name:** Enter the name of the buying policy.
         - **Description:** Enter a brief explanation of how the policy works. A clear description helps users understand why an order was denied or requires manual approval.
-    - In **Criteria**, set the criteria that will trigger the buying policy. To do this, complete the field with an expression in [JSONata](https://jsonata.org/) format, such as `score ≥ 10`. You can select a criterion and only edit the desired values (highlighted in purple):
+    - In **Criteria**, set the criteria that will trigger the buying policy. To do this, complete the field with an expression in [JSONata](https://jsonata.org/) format, such as `value > 10000` (orders above USD 100.00). You can select a criterion and only edit the desired values (highlighted in purple):
         - **Set spending limit criteria:** Options to approve or deny orders based on the order amount. For example, if the order is greater than, less than, or equal to a certain amount.
         - **Set order field criteria:** Options to approve or deny orders based on order conditions. For example, if it has restricted items or a specific cost center.
 
