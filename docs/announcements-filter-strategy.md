@@ -47,7 +47,7 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 
 ---
 
-### Mapping from Existing `productTeam` Values
+### General mapping from current `productTeam` values
 
 | Current `productTeam` | Suggested Core Service Mapping |
 |-----------------------|--------------------------------|
