@@ -84,7 +84,7 @@ Para reduzir preenchimento manual e evitar inconsistências, é possível config
 
 > ⚠️ Apenas campos do tipo `option` podem ser definidos como valor padrão.
 
-> ℹ️ Para mais informações sobre como adicionar ou configurar campos customizáveis, acesse [Gerenciar campos customizáveis no checkout (B2B)](https://help.vtex.com/pt/docs/tutorials/gerenciar-campos-customizaveis-no-checkout-b2b).
+> ℹ️ Para mais informações sobre como adicionar ou configurar campos customizáveis, acesse [Adicionar ou editar campos customizáveis no checkout](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-campos-customizaveis-no-checkout-b2b).
 
 ## Impacto para o administrador
 
