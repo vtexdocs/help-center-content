@@ -17084,21 +17084,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Adding or editing buying policies",
-                    "es": "Agregar o editar políticas de compras",
-                    "pt": "Adicionar ou editar Buying Policies"
-                  },
-                  "slug": {
-                    "en": "adding-or-editing-buying-policies",
-                    "es": "agregar-o-editar-politicas-de-compras",
-                    "pt": "adicionar-ou-editar-buying-policies"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "B2B Contracts",
                     "es": "Contratos B2B",
                     "pt": "Contratos B2B"
@@ -17115,12 +17100,12 @@
                 {
                   "name": {
                     "en": "Budgets overview",
-                    "es": "Budgets - Información general",
+                    "es": "Presupuestos - Información general",
                     "pt": "Visão geral de Budgets"
                   },
                   "slug": {
                     "en": "budgets-overview",
-                    "es": "budgets-informacion-general",
+                    "es": "presupuestos-informacion-general",
                     "pt": "visao-geral-de-budgets"
                   },
                   "origin": "",
@@ -17152,6 +17137,82 @@
                     "en": "buying-policies-overview",
                     "es": "politicas-de-compras",
                     "pt": "buying-policies"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Custom checkout fields",
+                    "es": "Campos personalizables del checkout",
+                    "pt": "Campos customizáveis no checkout"
+                  },
+                  "slug": {
+                    "en": "custom-checkout-fields",
+                    "es": "campos-personalizables-del-checkout",
+                    "pt": "campos-customizaveis-do-checkout"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Organization Account",
+                "es": "Organization Account",
+                "pt": "Organization Account"
+              },
+              "slug": {
+                "en": "organization-account-subcategory",
+                "es": "organization-account-subcategoria",
+                "pt": "organization-account-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Add or edit budgets",
+                    "es": "Agregar o editar presupuestos",
+                    "pt": "Adicionar ou editar budgets"
+                  },
+                  "slug": {
+                    "en": "add-or-edit-budgets",
+                    "es": "agregar-o-editar-presupuestos",
+                    "pt": "adicionar-ou-editar-budgets"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Add or edit custom checkout fields",
+                    "es": "Agregar o editar campos personalizables del checkout",
+                    "pt": "Adicionar ou editar campos customizáveis do checkout"
+                  },
+                  "slug": {
+                    "en": "add-or-edit-custom-checkout-fields",
+                    "es": "agregar-o-editar-campos-personalizables-del-checkout",
+                    "pt": "adicionar-ou-editar-campos-customizaveis"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Adding or editing buying policies",
+                    "es": "Agregar o editar políticas de compras",
+                    "pt": "Adicionar ou editar Buying Policies"
+                  },
+                  "slug": {
+                    "en": "adding-or-editing-buying-policies",
+                    "es": "agregar-o-editar-politicas-de-compras",
+                    "pt": "adicionar-ou-editar-buying-policies"
                   },
                   "origin": "",
                   "type": "markdown",
