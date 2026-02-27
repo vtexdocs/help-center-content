@@ -1,6 +1,6 @@
 ---
 title: 'Buying Policies'
-createdAt: '2026-02-09T10:00:00.000Z'
+createdAt: '2026-02-27T10:00:00.000Z'
 updatedAt: '2026-02-09T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
