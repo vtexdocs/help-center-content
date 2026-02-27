@@ -1,5 +1,5 @@
 ---
-title: 'Adicionar ou editar campos customizáveis do checkout'
+title: 'Adicionar ou editar campos customizáveis no checkout'
 createdAt: '2025-03-27T10:00:00.000Z'
 updatedAt: '2025-03-27T10:00:00.000Z'
 contentType: tutorial
