@@ -17141,6 +17141,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Buying policies",
+                    "es": "Políticas de compras",
+                    "pt": "Buying Policies"
+                  },
+                  "slug": {
+                    "en": "buying-policies-overview",
+                    "es": "politicas-de-compras",
+                    "pt": "buying-policies"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
