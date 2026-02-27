@@ -25,7 +25,7 @@ The steps to configure a buying policy are:
 
 1. The user configures the order review criterion.
 2. This criterion is associated with an action, which can be:
-   - Approve order
+   - Approve order with bypass (the order is approved regardless of the criteria)
    - Deny order
    - Require manual approval
 3. For manual approval, the user configures one to five levels of hierarchical approval. While any level can deny an order, final approval requires authorization from all levels.

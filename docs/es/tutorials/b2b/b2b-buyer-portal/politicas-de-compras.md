@@ -25,7 +25,7 @@ Los pasos para configurar una política de compras son:
 
 1. El usuario configura el criterio para evaluar los pedidos.
 2. Este criterio se asocia a una acción, que puede ser:
-   - Aprobar el pedido
+   - Aprobar el pedido con bypass (el pedido es aprobado independientemente de los criterios)
    - Denegar el pedido
    - Exigir aprobación manual
 3. Para la aprobación manual, el usuario configura de uno a cinco niveles de aprobación jerárquica, en los cuales cada nivel puede denegar el pedido, pero su aprobación depende de la evaluación de todos.
