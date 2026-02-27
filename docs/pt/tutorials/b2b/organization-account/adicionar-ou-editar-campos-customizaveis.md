@@ -1,5 +1,5 @@
 ---
-title: 'Adicionar ou editar campos customizáveis no checkout'
+title: 'Adicionar ou editar campos customizáveis do checkout'
 createdAt: '2025-03-27T10:00:00.000Z'
 updatedAt: '2025-03-27T10:00:00.000Z'
 contentType: tutorial
@@ -10,7 +10,7 @@ locale: pt
 
 > ⚠️ Esta funcionalidade está disponível apenas para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
 
-A funcionalidade [Campos customizáveis do checkout](https://help.vtex.com/pt/docs/tutorials/campos-customizaveis-no-checkout) permite padronizar a coleta de informações durante o processo de compra, por meio da adição de campos personalizados de acordo com as regras do seu negócio.
+A funcionalidade [Campos customizáveis do checkout](https://help.vtex.com/pt/docs/tutorials/campos-customizaveis-do-checkout) permite padronizar a coleta de informações durante o processo de compra, por meio da adição de campos personalizados de acordo com as regras do seu negócio.
 
 Esse recurso possibilita garantir que dados como número do pedido (PO number), centro de custo ou outras informações internas sejam preenchidos corretamente no checkout, assegurando maior controle operacional e conformidade com os processos da empresa.
 
