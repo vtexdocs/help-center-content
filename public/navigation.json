@@ -48373,13 +48373,13 @@
             {
               "name": {
                 "en": "Error publishing Scheduled Release ahead of schedule in Admin (\"You can't publish an empty release\")",
-                "es": "Error al publicar una publicación programada antes de lo previsto en Admin (\"No se puede publicar una publicación vacía\")",
-                "pt": "Erro ao publicar a versão agendada antes do previsto no Admin (\"Você não pode publicar uma versão vazia\")"
+                "es": "Error al publicar una versión programada antes de lo previsto en Admin («No se puede publicar una versión vacía»).",
+                "pt": "Erro ao publicar uma versão programada antes do prazo no Admin (“Não é possível publicar uma versão vazia”)"
               },
               "slug": {
                 "en": "error-publishing-scheduled-release-ahead-of-schedule-in-admin-you-cant-publish-an-empty-release",
-                "es": "error-al-publicar-una-publicacion-programada-antes-de-lo-previsto-en-admin-no-se-puede-publicar-una-publicacion-vacia",
-                "pt": "erro-ao-publicar-a-versao-agendada-antes-do-previsto-no-admin-voce-nao-pode-publicar-uma-versao-vazia"
+                "es": "error-al-publicar-una-version-programada-antes-de-lo-previsto-en-admin-no-se-puede-publicar-una-version-vacia",
+                "pt": "erro-ao-publicar-uma-versao-programada-antes-do-prazo-no-admin-nao-e-possivel-publicar-uma-versao-vazia"
               },
               "origin": "",
               "type": "markdown",
@@ -49701,6 +49701,21 @@
                 "en": "custom-attribute-mapper-mercado-livre",
                 "es": "mapeador-de-atributos-personalizado-mercado-livre",
                 "pt": "mapeador-de-atributos-personalizado-mercado-livre"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Dafiti Image URLs converted to WebP cause rejection by markeplace (image type unsupported)",
+                "es": "Dafiti Las URL de imágenes convertidas a WebP provocan el rechazo por parte del mercado (tipo de imagen no compatible).",
+                "pt": "Dafiti URLs de imagens convertidas para WebP são rejeitadas pelo marketplace (tipo de imagem não suportado)"
+              },
+              "slug": {
+                "en": "dafiti-image-urls-converted-to-webp-cause-rejection-by-markeplace-image-type-unsupported",
+                "es": "dafiti-las-url-de-imagenes-convertidas-a-webp-provocan-el-rechazo-por-parte-del-mercado-tipo-de-imagen-no-compatible",
+                "pt": "dafiti-urls-de-imagens-convertidas-para-webp-sao-rejeitadas-pelo-marketplace-tipo-de-imagem-nao-suportado"
               },
               "origin": "",
               "type": "markdown",
@@ -62759,6 +62774,21 @@
             },
             {
               "name": {
+                "en": "Pick and Pack | Single Order Generating Multiple Worksheets Due to Concurrency Issue",
+                "es": "Seleccionar y empaquetar | Un solo pedido genera varias hojas de cálculo debido a un problema de concurrencia",
+                "pt": "Selecionar e embalar | Pedido único gerando várias planilhas devido a um problema de simultaneidade"
+              },
+              "slug": {
+                "en": "pick-and-pack-single-order-generating-multiple-worksheets-due-to-concurrency-issue",
+                "es": "seleccionar-y-empaquetar-un-solo-pedido-genera-varias-hojas-de-calculo-debido-a-un-problema-de-concurrencia",
+                "pt": "selecionar-e-embalar-pedido-unico-gerando-varias-planilhas-devido-a-um-problema-de-simultaneidade"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Pick and Pack Worksheets remain open and cannot be completed",
                 "es": "Las hojas de trabajo Pick and Pack permanecen abiertas y no pueden completarse",
                 "pt": "As planilhas de coleta e embalagem permanecem abertas e não podem ser concluídas"
@@ -67664,6 +67694,21 @@
                 "en": "telesales-app-not-working-properly-with-requiresauthenticationtoloadprofile",
                 "es": "la-aplicacion-de-televenta-no-funciona-correctamente-con-requiresauthenticationtoloadprofile",
                 "pt": "o-aplicativo-de-televendas-nao-esta-funcionando-corretamente-com-requiresauthenticationtoloadprofile"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Telesales impersonation fails for specific customers in unified Profile System stores",
+                "es": "La suplantación de identidad en las ventas telefónicas falla para clientes específicos en las tiendas del sistema de perfiles unificado.",
+                "pt": "A falsificação de identidade em vendas por telefone falha para clientes específicos em lojas do Sistema de Perfil Unificado"
+              },
+              "slug": {
+                "en": "telesales-impersonation-fails-for-specific-customers-in-unified-profile-system-stores",
+                "es": "la-suplantacion-de-identidad-en-las-ventas-telefonicas-falla-para-clientes-especificos-en-las-tiendas-del-sistema-de-perfiles-unificado",
+                "pt": "a-falsificacao-de-identidade-em-vendas-por-telefone-falha-para-clientes-especificos-em-lojas-do-sistema-de-perfil-unificado"
               },
               "origin": "",
               "type": "markdown",
