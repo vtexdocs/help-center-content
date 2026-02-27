@@ -57,7 +57,7 @@ Al finalizar, verás el mensaje de confirmación _"Política de compras creada c
 
 Para ver los detalles de una política, en la pantalla **Política de compras**, haz clic en el nombre de la política o, en la fila correspondiente a la opción deseada, haz clic en el menú > `Abrir`. Verás una imagen como la siguiente:
 
-![buying_policies_image_1](link)
+![buying_policies_image_1_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/b2b-buyer-portal/buying_policies_image_1_ES.png)
 
 ## Editar políticas de compras
 

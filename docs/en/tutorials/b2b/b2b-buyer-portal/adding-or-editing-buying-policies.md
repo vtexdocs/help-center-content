@@ -57,7 +57,7 @@ Once finished, you'll see the confirmation message _"Buying policy created succe
 
 To view the details of a policy, on the **Buying policies** page, click the buying policy name. Alternatively, in the corresponding row, click the menu icon > `Open`. You'll see an image like the following:
 
-![buying_policies_image_1](link)
+![buying_policies_image_1_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-buyer-portal/buying_policies_image_1_EN.png)
 
 ## Editing a buying policy
 

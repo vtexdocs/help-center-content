@@ -53,7 +53,7 @@ Feito isso, você verá a mensagem de confirmação _"Buying policy created succ
 
 Para visualizar os detalhes de uma política, na tela **Buying Policies**, clique no nome da buying policy ou, na linha correspondente à opção desejada, clique no ícone de menu > `Open` (abrir). Você verá uma imagem como a seguinte:
 
-![buying_policies_image_1](link)
+![buying_policies_image_1_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/b2b-buyer-portal/buying_policies_image_1_PT.png)
 
 ## Editar buying policy
 
