@@ -49615,6 +49615,21 @@
             },
             {
               "name": {
+                "en": "Dafiti Image URLs converted to WebP cause rejection by markeplace (image type unsupported)",
+                "es": "Dafiti Las URL de imágenes convertidas a WebP provocan el rechazo por parte del mercado (tipo de imagen no compatible).",
+                "pt": "Dafiti URLs de imagens convertidas para WebP são rejeitadas pelo marketplace (tipo de imagem não suportado)"
+              },
+              "slug": {
+                "en": "dafiti-image-urls-converted-to-webp-cause-rejection-by-markeplace-image-type-unsupported",
+                "es": "dafiti-las-url-de-imagenes-convertidas-a-webp-provocan-el-rechazo-por-parte-del-mercado-tipo-de-imagen-no-compatible",
+                "pt": "dafiti-urls-de-imagens-convertidas-para-webp-sao-rejeitadas-pelo-marketplace-tipo-de-imagem-nao-suportado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Dafiti Tracking update fails Crossdocking orders due to delivery type conflict",
                 "es": "Dafiti La actualización del seguimiento falla en los pedidos Crossdocking debido a un conflicto de tipo de entrega",
                 "pt": "Dafiti A atualização do rastreamento falha nos pedidos de Crossdocking devido a um conflito de tipo de entrega"
@@ -62659,6 +62674,21 @@
                 "en": "paste-action-blocked-on-login-and-on-the-pick-and-pack-picking-search-field",
                 "es": "accion-de-pegar-bloqueada-en-el-inicio-de-sesion-y-en-el-campo-de-busqueda-de-picking-pick-and-pack",
                 "pt": "acao-de-colar-bloqueada-no-login-e-no-campo-de-pesquisa-de-picking-pick-and-pack"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Pick and Pack | Single Order Generating Multiple Worksheets Due to Concurrency Issue",
+                "es": "Seleccionar y empaquetar | Un solo pedido genera varias hojas de cálculo debido a un problema de concurrencia",
+                "pt": "Selecionar e embalar | Pedido único gerando várias planilhas devido a um problema de simultaneidade"
+              },
+              "slug": {
+                "en": "pick-and-pack-single-order-generating-multiple-worksheets-due-to-concurrency-issue",
+                "es": "seleccionar-y-empaquetar-un-solo-pedido-genera-varias-hojas-de-calculo-debido-a-un-problema-de-concurrencia",
+                "pt": "selecionar-e-embalar-pedido-unico-gerando-varias-planilhas-devido-a-um-problema-de-simultaneidade"
               },
               "origin": "",
               "type": "markdown",
