@@ -10,7 +10,7 @@ locale: en
 
 > ⚠️ The **Buying policies** feature is only available for the **B2B Buyer Portal**.
 
-[Buying policies](https://help.vtex.com/en/docs/tutorials/buying-policies) is a feature that allows users from a buyer organization to configure rules to automatically authorize or deny orders. The dynamic mechanisms of this solution help increase the organization's governance and promote compliance with current buying policies.
+[Buying policies](https://help.vtex.com/en/docs/tutorials/buying-policies-overview) is a feature that allows users from a buyer organization to configure rules to automatically authorize or deny orders. The dynamic mechanisms of this solution help increase the organization's governance and promote compliance with current buying policies.
 
 In this guide, you'll learn how to manage buying policies through the following sections:
 

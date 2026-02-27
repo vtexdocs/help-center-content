@@ -10,7 +10,7 @@ locale: es
 
 > ⚠️ La funcionalidad **Política de compras** está disponible solo para **B2B Buyer Portal**.
 
-[Política de compras](https://help.vtex.com/es/docs/tutorials/buying-policies) es la funcionalidad que permite a los usuarios de la organización compradora configurar reglas para autorizar o denegar pedidos automáticamente. Los mecanismos dinámicos de esta solución fortalecen la gobernanza de la organización y promueven el cumplimiento de las políticas de compras vigentes.
+[Política de compras](https://help.vtex.com/es/docs/tutorials/politicas-de-compras) es la funcionalidad que permite a los usuarios de la organización compradora configurar reglas para autorizar o denegar pedidos automáticamente. Los mecanismos dinámicos de esta solución fortalecen la gobernanza de la organización y promueven el cumplimiento de las políticas de compras vigentes.
 
 Este artículo orienta a los usuarios sobre la gestión de las políticas de compras y está dividido en las siguientes secciones:
 
@@ -62,7 +62,7 @@ Para ver los detalles de una política, en la pantalla **Política de compras**,
 ## Editar políticas de compras
 
 1. En la página de la unidad organizativa en la sección **Finanzas y compliance**, haz clic en `Políticas de compras`.
-2. En la pantalla **Políticas de compras**, en la fila correspondiente a la opción deseada, haz clic en el menú > `Editar`. También puedes acceder a esta sección desde la [página de detalles](#ver-pagina-de-detalhes) de la política, haciendo clic en `Editar`.
+2. En la pantalla **Políticas de compras**, en la fila correspondiente a la opción deseada, haz clic en el menú > `Editar`. También puedes acceder a esta sección desde la [página de detalles](#ver-pagina-de-detalles) de la política, haciendo clic en `Editar`.
 3. Realiza los cambios deseados.
 4. Para guardar los cambios, haz clic en `Guardar`.
 
@@ -71,7 +71,7 @@ Para ver los detalles de una política, en la pantalla **Política de compras**,
 > ❗ La eliminación de una política de compras es permanente y no se puede deshacer. Las configuraciones se eliminan, pero el historial de aplicación de la política de compras se almacena para futuras consultas.
 
 1. En la página de la unidad organizativa, en la sección **Finanzas y compliance**, haz clic en `Políticas de compras`.
-2. En la página **Políticas de compras**, en la fila correspondiente a la opción deseada, haz clic en el ícono del menú > `Eliminar`. También puedes hacerlo desde la [página de detalles](#ver-pagina-de-detalhes) de la política de compras, haciendo clic en menú > `Eliminar`.
+2. En la página **Políticas de compras**, en la fila correspondiente a la opción deseada, haz clic en el ícono del menú > `Eliminar`. También puedes hacerlo desde la [página de detalles](#ver-pagina-de-detalles) de la política de compras, haciendo clic en menú > `Eliminar`.
 3. Ingresa en la ventana modal el nombre de la política de compras que deseas eliminar.
 4. Para confirmar, haz clic en `Eliminar`.
 
