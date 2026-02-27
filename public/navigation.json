@@ -39723,6 +39723,21 @@
             },
             {
               "name": {
+                "en": "Non-responsive B2B components cause layout and usability issues on mobile",
+                "es": "Los componentes B2B que no responden causan problemas de diseño y usabilidad en dispositivos móviles.",
+                "pt": "Componentes B2B não responsivos causam problemas de layout e usabilidade em dispositivos móveis"
+              },
+              "slug": {
+                "en": "nonresponsive-b2b-components-cause-layout-and-usability-issues-on-mobile",
+                "es": "los-componentes-b2b-que-no-responden-causan-problemas-de-diseno-y-usabilidad-en-dispositivos-moviles",
+                "pt": "componentes-b2b-nao-responsivos-causam-problemas-de-layout-e-usabilidade-em-dispositivos-moveis"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order Again from B2B Orders History doesn't work",
                 "es": "Volver a pedir desde el historial de pedidos B2B no funciona",
                 "pt": "O pedido novamente do histórico de pedidos B2B não funciona"
@@ -39979,21 +39994,6 @@
           "children": [
             {
               "name": {
-                "en": "'Large Indexed Text' and 'Indexed Text' not being changed by Specification Import",
-                "es": "'Texto grande indexado' y 'Texto indexado' no se modifican con la importación de la especificación",
-                "pt": "'Texto Grande Indexado' e 'Texto Indexado' não sendo alterados pela Importação de Especificação"
-              },
-              "slug": {
-                "en": "large-indexed-text-and-indexed-text-not-being-changed-by-specification-import",
-                "es": "texto-grande-indexado-y-texto-indexado-no-se-modifican-con-la-importacion-de-la-especificacion",
-                "pt": "texto-grande-indexado-e-texto-indexado-nao-sendo-alterados-pela-importacao-de-especificacao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "'maximum number of eligible items for each cart' + more for less applies incorrect discount when using the same item.",
                 "es": "'número máximo de artículos elegibles para cada cesta' + más por menos aplica un descuento incorrecto al utilizar el mismo artículo.",
                 "pt": "'número máximo de itens qualificados para cada carrinho' + more for less aplica desconto incorreto ao usar o mesmo item."
@@ -40062,6 +40062,21 @@
                 "en": "url-logo-field-in-the-update-seller-request-not-updating",
                 "es": "el-campo-url-logo-en-la-solicitud-de-actualizacion-del-vendedor-no-se-actualiza",
                 "pt": "campo-url-logo-no-campo-update-seller-request-not-updating"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "\"Large Indexed Text\" and \"Indexed Text\" not being changed by Specification Import",
+                "es": "«Texto indexado grande» y «Texto indexado» no se modifican al importar especificaciones.",
+                "pt": "“Texto indexado grande” e “Texto indexado” não são alterados pela importação de especificações"
+              },
+              "slug": {
+                "en": "large-indexed-text-and-indexed-text-not-being-changed-by-specification-import",
+                "es": "texto-indexado-grande-y-texto-indexado-no-se-modifican-al-importar-especificaciones",
+                "pt": "texto-indexado-grande-e-texto-indexado-nao-sao-alterados-pela-importacao-de-especificacoes"
               },
               "origin": "",
               "type": "markdown",
@@ -40564,14 +40579,29 @@
             },
             {
               "name": {
+                "en": "Catalog does not remove special characters when setting up the text link",
+                "es": "El catálogo no elimina los caracteres especiales al configurar el enlace de texto.",
+                "pt": "O catálogo não remove caracteres especiais ao configurar o link de texto."
+              },
+              "slug": {
+                "en": "catalog-does-not-remove-special-characters-when-setting-up-the-text-link",
+                "es": "el-catalogo-no-elimina-los-caracteres-especiales-al-configurar-el-enlace-de-texto",
+                "pt": "o-catalogo-nao-remove-caracteres-especiais-ao-configurar-o-link-de-texto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Catalog Error exporting the report",
                 "es": "Catálogo Error al exportar el informe",
-                "pt": "Catalog Erro ao exportar o relatório"
+                "pt": "Catálogo Erro ao exportar o relatório"
               },
               "slug": {
                 "en": "catalog-error-exporting-the-report",
                 "es": "catalogo-error-al-exportar-el-informe",
-                "pt": "catalog-erro-ao-exportar-o-relatorio"
+                "pt": "catalogo-erro-ao-exportar-o-relatorio"
               },
               "origin": "",
               "type": "markdown",
@@ -40685,13 +40715,13 @@
             {
               "name": {
                 "en": "catalog Image import spreadsheet does not replace the Label",
-                "es": "catálogo La hoja de cálculo de importación de imágenes no sustituye a la etiqueta",
-                "pt": "catalog A planilha de importação de imagens não substitui o rótulo"
+                "es": "catálogo La hoja de cálculo de importación de imágenes no sustituye a la etiqueta.",
+                "pt": "catálogo A planilha de importação de imagens não substitui a etiqueta"
               },
               "slug": {
                 "en": "catalog-image-import-spreadsheet-does-not-replace-the-label",
                 "es": "catalogo-la-hoja-de-calculo-de-importacion-de-imagenes-no-sustituye-a-la-etiqueta",
-                "pt": "catalog-a-planilha-de-importacao-de-imagens-nao-substitui-o-rotulo"
+                "pt": "catalogo-a-planilha-de-importacao-de-imagens-nao-substitui-a-etiqueta"
               },
               "origin": "",
               "type": "markdown",
@@ -40729,14 +40759,14 @@
             },
             {
               "name": {
-                "en": "Catalog Indexing Report 'Total' Section Calculation Error",
-                "es": "Error de cálculo de la sección 'total' del informe de indexación del catálogo",
-                "pt": "Erro de Cálculo da Seção 'Total' do Relatório de Indexação do Catálogo"
+                "en": "Catalog Indexing Report returning wrong stats",
+                "es": "El informe de indexación del catálogo devuelve estadísticas erróneas.",
+                "pt": "Relatório de indexação do catálogo retornando estatísticas incorretas"
               },
               "slug": {
-                "en": "catalog-indexing-report-total-section-calculation-error",
-                "es": "error-de-calculo-de-la-seccion-total-del-informe-de-indexacion-del-catalogo",
-                "pt": "erro-de-calculo-da-secao-total-do-relatorio-de-indexacao-do-catalogo"
+                "en": "catalog-indexing-report-returning-wrong-stats",
+                "es": "el-informe-de-indexacion-del-catalogo-devuelve-estadisticas-erroneas",
+                "pt": "relatorio-de-indexacao-do-catalogo-retornando-estatisticas-incorretas"
               },
               "origin": "",
               "type": "markdown",
@@ -40850,12 +40880,12 @@
             {
               "name": {
                 "en": "Catalog SKU Specification Export will not always export all the data if the selected category is a department",
-                "es": "La exportación de especificaciones de SKU de catálogo no siempre exportará todos los datos si la categoría seleccionada es un departamento.",
-                "pt": "A exportação de especificações de SKU do catálogo nem sempre exportará todos os dados se a categoria selecionada for um departamento"
+                "es": "La exportación de especificaciones de SKU del catálogo no siempre exportará todos los datos si la categoría seleccionada es un departamento.",
+                "pt": "A exportação de especificações de SKU do catálogo nem sempre exportará todos os dados se a categoria selecionada for um departamento."
               },
               "slug": {
                 "en": "catalog-sku-specification-export-will-not-always-export-all-the-data-if-the-selected-category-is-a-department",
-                "es": "la-exportacion-de-especificaciones-de-sku-de-catalogo-no-siempre-exportara-todos-los-datos-si-la-categoria-seleccionada-es-un-departamento",
+                "es": "la-exportacion-de-especificaciones-de-sku-del-catalogo-no-siempre-exportara-todos-los-datos-si-la-categoria-seleccionada-es-un-departamento",
                 "pt": "a-exportacao-de-especificacoes-de-sku-do-catalogo-nem-sempre-exportara-todos-os-dados-se-a-categoria-selecionada-for-um-departamento"
               },
               "origin": "",
@@ -41090,13 +41120,13 @@
             {
               "name": {
                 "en": "Collections don't open on subaccounts",
-                "es": "Los cobros no se abren en las subcuentas",
-                "pt": "As cobranças não são abertas em subcontas"
+                "es": "Las colecciones no se abren en las subcuentas.",
+                "pt": "As coleções não abrem em subcontas"
               },
               "slug": {
                 "en": "collections-dont-open-on-subaccounts",
-                "es": "los-cobros-no-se-abren-en-las-subcuentas",
-                "pt": "as-cobrancas-nao-sao-abertas-em-subcontas"
+                "es": "las-colecciones-no-se-abren-en-las-subcuentas",
+                "pt": "as-colecoes-nao-abrem-em-subcontas"
               },
               "origin": "",
               "type": "markdown",
@@ -41487,6 +41517,21 @@
                 "en": "error-leituradedadosdoadministrador-when-trying-to-access-catalog-pages-on-admin",
                 "es": "error-leituradedadosdoadministrador-al-intentar-acceder-a-las-paginas-del-catalogo-en-admin",
                 "pt": "erro-leituradedadosdoadministrador-ao-tentar-acessar-as-paginas-do-catalogo-no-admin"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "Error de cálculo de la sección 'total' del informe de indexación del catálogo",
+                "pt": "Erro de Cálculo da Seção 'Total' do Relatório de Indexação do Catálogo",
+                "en": "Error de cálculo de la sección 'total' del informe de indexación del catálogo"
+              },
+              "slug": {
+                "es": "error-de-calculo-de-la-seccion-total-del-informe-de-indexacion-del-catalogo",
+                "pt": "erro-de-calculo-da-secao-total-do-relatorio-de-indexacao-do-catalogo",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -42844,6 +42889,21 @@
             },
             {
               "name": {
+                "en": "Promotion UI incorrectly changes aphostrophe character",
+                "es": "La interfaz de usuario de la promoción cambia incorrectamente el carácter del apóstrofo.",
+                "pt": "A interface do usuário da promoção altera incorretamente o caractere apóstrofo"
+              },
+              "slug": {
+                "en": "promotion-ui-incorrectly-changes-aphostrophe-character",
+                "es": "la-interfaz-de-usuario-de-la-promocion-cambia-incorrectamente-el-caracter-del-apostrofo",
+                "pt": "a-interface-do-usuario-da-promocao-altera-incorretamente-o-caractere-apostrofo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Promotions by order of payment methods do not appear on the product page",
                 "es": "Las promociones por orden de formas de pago no aparecen en la página del producto",
                 "pt": "As promoções por ordem de métodos de pagamento não são exibidas na página do produto"
@@ -42950,13 +43010,13 @@
             {
               "name": {
                 "en": "Reorder Collection Failing for Large Collections",
-                "es": "Fallo en la reordenación de colecciones grandes",
-                "pt": "Falha na reordenação de coleções para coleções grandes"
+                "es": "Error al reordenar colecciones grandes",
+                "pt": "Falha na reordenação de coleções grandes"
               },
               "slug": {
                 "en": "reorder-collection-failing-for-large-collections",
-                "es": "fallo-en-la-reordenacion-de-colecciones-grandes",
-                "pt": "falha-na-reordenacao-de-colecoes-para-colecoes-grandes"
+                "es": "error-al-reordenar-colecciones-grandes",
+                "pt": "falha-na-reordenacao-de-colecoes-grandes"
               },
               "origin": "",
               "type": "markdown",
@@ -43369,6 +43429,21 @@
             },
             {
               "name": {
+                "en": "SpecificationCode in the ProductSpecification export only shows code for one value",
+                "es": "El código de especificación en la exportación ProductSpecification solo muestra el código de un valor.",
+                "pt": "O código de especificação na exportação ProductSpecification mostra apenas o código para um valor"
+              },
+              "slug": {
+                "en": "specificationcode-in-the-productspecification-export-only-shows-code-for-one-value",
+                "es": "el-codigo-de-especificacion-en-la-exportacion-productspecification-solo-muestra-el-codigo-de-un-valor",
+                "pt": "o-codigo-de-especificacao-na-exportacao-productspecification-mostra-apenas-o-codigo-para-um-valor"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "stockkeepingunit catalog API allows invalid commercial condition values",
                 "es": "La API del catálogo stockkeepingunit permite valores de condición comercial no válidos",
                 "pt": "A API do catálogo stockkeepingunit permite valores de condição comercial inválidos"
@@ -43386,12 +43461,12 @@
               "name": {
                 "en": "StockKeepingUnitInsertUpdate WebService method allows to insert existent RefId",
                 "es": "El método WebService StockKeepingUnitInsertUpdate permite insertar un RefId existente",
-                "pt": "O método StockKeepingUnitInsertUpdate WebService permite a inserção de RefId existentes"
+                "pt": "O método StockKeepingUnitInsertUpdate WebService permite inserir um RefId existente."
               },
               "slug": {
                 "en": "stockkeepingunitinsertupdate-webservice-method-allows-to-insert-existent-refid",
                 "es": "el-metodo-webservice-stockkeepingunitinsertupdate-permite-insertar-un-refid-existente",
-                "pt": "o-metodo-stockkeepingunitinsertupdate-webservice-permite-a-insercao-de-refid-existentes"
+                "pt": "o-metodo-stockkeepingunitinsertupdate-webservice-permite-inserir-um-refid-existente"
               },
               "origin": "",
               "type": "markdown",
@@ -44796,14 +44871,14 @@
             },
             {
               "name": {
-                "en": "Checkout has no clarity about divergences between the identified and the logged in customer",
-                "es": "El proceso de pago no deja claras las divergencias entre el cliente identificado y el registrado",
-                "pt": "O checkout não tem clareza sobre as divergências entre o cliente identificado e o cliente conectado"
+                "en": "Checkout has no clarity about divergences between the customer identified in the cart and the user logged in to the store",
+                "es": "El proceso de pago no aclara las divergencias entre el cliente identificado en el carrito y el usuario que ha iniciado sesión en la tienda.",
+                "pt": "O checkout não apresenta clareza sobre divergências entre o cliente identificado no carrinho e o usuário conectado à loja."
               },
               "slug": {
-                "en": "checkout-has-no-clarity-about-divergences-between-the-identified-and-the-logged-in-customer",
-                "es": "el-proceso-de-pago-no-deja-claras-las-divergencias-entre-el-cliente-identificado-y-el-registrado",
-                "pt": "o-checkout-nao-tem-clareza-sobre-as-divergencias-entre-o-cliente-identificado-e-o-cliente-conectado"
+                "en": "checkout-has-no-clarity-about-divergences-between-the-customer-identified-in-the-cart-and-the-user-logged-in-to-the-store",
+                "es": "el-proceso-de-pago-no-aclara-las-divergencias-entre-el-cliente-identificado-en-el-carrito-y-el-usuario-que-ha-iniciado-sesion-en-la-tienda",
+                "pt": "o-checkout-nao-apresenta-clareza-sobre-divergencias-entre-o-cliente-identificado-no-carrinho-e-o-usuario-conectado-a-loja"
               },
               "origin": "",
               "type": "markdown",
@@ -45029,6 +45104,21 @@
                 "en": "checkout-ui-overwrites-shipping-recipient-when-name-is-different-from-profile-data",
                 "es": "la-interfaz-de-pago-sobrescribe-el-destinatario-del-envio-cuando-el-nombre-es-diferente-de-los-datos-del-perfil",
                 "pt": "a-interface-de-usuario-do-checkout-substitui-o-destinatario-da-remessa-quando-o-nome-e-diferente-dos-dados-do-perfil"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Checkout UI shows “login to view credits” when provider returns balance=0",
+                "es": "La interfaz de usuario de pago muestra «inicie sesión para ver los créditos» cuando el proveedor devuelve saldo=0.",
+                "pt": "A interface do usuário do checkout exibe “faça login para visualizar os créditos” quando o provedor retorna saldo=0"
+              },
+              "slug": {
+                "en": "checkout-ui-shows-login-to-view-credits-when-provider-returns-balance0",
+                "es": "la-interfaz-de-usuario-de-pago-muestra-inicie-sesion-para-ver-los-creditos-cuando-el-proveedor-devuelve-saldo0",
+                "pt": "a-interface-do-usuario-do-checkout-exibe-faca-login-para-visualizar-os-creditos-quando-o-provedor-retorna-saldo0"
               },
               "origin": "",
               "type": "markdown",
@@ -45352,13 +45442,13 @@
             {
               "name": {
                 "en": "Divergent order value between marketplace and seller while using price override and promotions",
-                "es": "Valor de pedido divergente entre el mercado y el vendedor al utilizar anulación de precios y promociones",
-                "pt": "Valor divergente do pedido entre o mercado e o vendedor enquanto usa a substituição de preço e promoções"
+                "es": "Valor del pedido divergente entre el mercado y el vendedor al utilizar la anulación de precios y las promociones.",
+                "pt": "Valor divergente do pedido entre o marketplace e o vendedor ao usar substituição de preço e promoções"
               },
               "slug": {
                 "en": "divergent-order-value-between-marketplace-and-seller-while-using-price-override-and-promotions",
-                "es": "valor-de-pedido-divergente-entre-el-mercado-y-el-vendedor-al-utilizar-anulacion-de-precios-y-promociones",
-                "pt": "valor-divergente-do-pedido-entre-o-mercado-e-o-vendedor-enquanto-usa-a-substituicao-de-preco-e-promocoes"
+                "es": "valor-del-pedido-divergente-entre-el-mercado-y-el-vendedor-al-utilizar-la-anulacion-de-precios-y-las-promociones",
+                "pt": "valor-divergente-do-pedido-entre-o-marketplace-e-o-vendedor-ao-usar-substituicao-de-preco-e-promocoes"
               },
               "origin": "",
               "type": "markdown",
@@ -49118,6 +49208,21 @@
             },
             {
               "name": {
+                "en": "Amazon Listing Some SKUs aren't integrated due to an error in the attribute.\"color#?.value\" field 'standardized_values'",
+                "es": "Amazon Listado Algunos SKU no están integrados debido a un error en el campo «color#?.value» del atributo «standardized_values».",
+                "pt": "Amazon Listagem Alguns SKUs não estão integrados devido a um erro no campo \"color#?.value\" do atributo \"standardized_values\"."
+              },
+              "slug": {
+                "en": "amazon-listing-some-skus-arent-integrated-due-to-an-error-in-the-attributecolorvalue-field-standardizedvalues",
+                "es": "amazon-listado-algunos-sku-no-estan-integrados-debido-a-un-error-en-el-campo-colorvalue-del-atributo-standardizedvalues",
+                "pt": "amazon-listagem-alguns-skus-nao-estao-integrados-devido-a-um-erro-no-campo-colorvalue-do-atributo-standardizedvalues"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Amazon Listing UI doesn't enable “Save and Send” and blocks SKU publication for VITAMIN productType",
                 "es": "Amazon Listing UI no habilita \"Guardar y Enviar\" y bloquea la publicación de SKU para VITAMIN productType",
                 "pt": "Amazon A interface do usuário de listagem não habilita \"Salvar e enviar\" e bloqueia a publicação de SKU para o tipo de produto VITAMINA"
@@ -49306,6 +49411,21 @@
                 "en": "custom-attribute-mapper-mercado-livre",
                 "es": "mapeador-de-atributos-personalizado-mercado-livre",
                 "pt": "mapeador-de-atributos-personalizado-mercado-livre"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Dafiti Image URLs converted to WebP cause rejection by markeplace (image type unsupported)",
+                "es": "Dafiti Las URL de imágenes convertidas a WebP provocan el rechazo por parte del mercado (tipo de imagen no compatible).",
+                "pt": "Dafiti URLs de imagens convertidas para WebP são rejeitadas pelo marketplace (tipo de imagem não suportado)"
+              },
+              "slug": {
+                "en": "dafiti-image-urls-converted-to-webp-cause-rejection-by-markeplace-image-type-unsupported",
+                "es": "dafiti-las-url-de-imagenes-convertidas-a-webp-provocan-el-rechazo-por-parte-del-mercado-tipo-de-imagen-no-compatible",
+                "pt": "dafiti-urls-de-imagens-convertidas-para-webp-sao-rejeitadas-pelo-marketplace-tipo-de-imagem-nao-suportado"
               },
               "origin": "",
               "type": "markdown",
@@ -50049,12 +50169,12 @@
             {
               "name": {
                 "en": "Mercado Livre Os atributos seller_package_height, seller_package_width, seller_package_length e seller_package_weight são obrigatórios.",
-                "es": "Mercado Libre Los atributos altura_paquete_vendedor, anchura_paquete_vendedor, longitud_paquete_vendedor y peso_paquete_vendedor son obligatorios.",
+                "es": "Mercado Libre Los atributos seller_package_height, seller_package_width, seller_package_length y seller_package_weight son obligatorios.",
                 "pt": "Mercado Livre Os atributos seller_package_height, seller_package_width, seller_package_length e seller_package_weight são obrigatórios."
               },
               "slug": {
                 "en": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios",
-                "es": "mercado-libre-los-atributos-alturapaquetevendedor-anchurapaquetevendedor-longitudpaquetevendedor-y-pesopaquetevendedor-son-obligatorios",
+                "es": "mercado-libre-los-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-y-sellerpackageweight-son-obligatorios",
                 "pt": "mercado-livre-os-atributos-sellerpackageheight-sellerpackagewidth-sellerpackagelength-e-sellerpackageweight-sao-obrigatorios"
               },
               "origin": "",
@@ -50485,12 +50605,12 @@
             {
               "name": {
                 "en": "Cart does not update in FastStore if external request is made to update orderForm",
-                "es": "La cesta no se actualiza en FastStore si se realiza una solicitud externa para actualizar orderForm",
-                "pt": "O carrinho não é atualizado no FastStore se for feita uma solicitação externa para atualizar o formulário de pedido"
+                "es": "El carrito no se actualiza en FastStore si se realiza una solicitud externa para actualizar el formulario de pedido.",
+                "pt": "O carrinho não é atualizado no FastStore se for feita uma solicitação externa para atualizar o formulário de pedido."
               },
               "slug": {
                 "en": "cart-does-not-update-in-faststore-if-external-request-is-made-to-update-orderform",
-                "es": "la-cesta-no-se-actualiza-en-faststore-si-se-realiza-una-solicitud-externa-para-actualizar-orderform",
+                "es": "el-carrito-no-se-actualiza-en-faststore-si-se-realiza-una-solicitud-externa-para-actualizar-el-formulario-de-pedido",
                 "pt": "o-carrinho-nao-e-atualizado-no-faststore-se-for-feita-uma-solicitacao-externa-para-atualizar-o-formulario-de-pedido"
               },
               "origin": "",
@@ -52048,13 +52168,13 @@
             {
               "name": {
                 "en": "Intelligent Search multilanguage doesn't support 2 variations of the same language/idiom",
-                "es": "La búsqueda inteligente multilingüe no admite 2 variaciones del mismo idioma/idioma",
-                "pt": "O Intelligent Search multilíngue não é compatível com duas variações do mesmo idioma/idioma"
+                "es": "La búsqueda inteligente multilingüe no admite dos variantes del mismo idioma o dialecto.",
+                "pt": "A Pesquisa Inteligente multilíngue não suporta duas variações do mesmo idioma/idioma."
               },
               "slug": {
                 "en": "intelligent-search-multilanguage-doesnt-support-2-variations-of-the-same-languageidiom",
-                "es": "la-busqueda-inteligente-multilingue-no-admite-2-variaciones-del-mismo-idiomaidioma",
-                "pt": "o-intelligent-search-multilingue-nao-e-compativel-com-duas-variacoes-do-mesmo-idiomaidioma"
+                "es": "la-busqueda-inteligente-multilingue-no-admite-dos-variantes-del-mismo-idioma-o-dialecto",
+                "pt": "a-pesquisa-inteligente-multilingue-nao-suporta-duas-variacoes-do-mesmo-idiomaidioma"
               },
               "origin": "",
               "type": "markdown",
@@ -52332,14 +52452,14 @@
             },
             {
               "name": {
-                "en": "Prioritization by product's 'keyword' not considering stopwords",
-                "es": "Priorización por 'palabra clave' del producto sin tener en cuenta las 'stopwords",
-                "pt": "Priorização por 'palavra-chave' do produto, sem considerar stopwords"
+                "en": "Prioritization by product's \"keyword\" not considering stopwords",
+                "es": "Priorización por «palabra clave» del producto sin tener en cuenta las palabras vacías.",
+                "pt": "Priorização por “palavra-chave” do produto, sem considerar palavras irrelevantes"
               },
               "slug": {
                 "en": "prioritization-by-products-keyword-not-considering-stopwords",
-                "es": "priorizacion-por-palabra-clave-del-producto-sin-tener-en-cuenta-las-stopwords",
-                "pt": "priorizacao-por-palavrachave-do-produto-sem-considerar-stopwords"
+                "es": "priorizacion-por-palabra-clave-del-producto-sin-tener-en-cuenta-las-palabras-vacias",
+                "pt": "priorizacao-por-palavrachave-do-produto-sem-considerar-palavras-irrelevantes"
               },
               "origin": "",
               "type": "markdown",
@@ -53136,6 +53256,21 @@
                 "en": "currency-symbol-on-shelves-differs-from-website",
                 "es": "el-simbolo-de-la-moneda-en-las-estanterias-no-coincide-con-el-del-sitio-web",
                 "pt": "o-simbolo-da-moeda-nas-prateleiras-difere-do-site"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Nizza script affecting pixel apps",
+                "es": "El script Nizza afecta a las aplicaciones de píxeles.",
+                "pt": "Script Nizza afetando aplicativos pixel"
+              },
+              "slug": {
+                "en": "nizza-script-affecting-pixel-apps",
+                "es": "el-script-nizza-afecta-a-las-aplicaciones-de-pixeles",
+                "pt": "script-nizza-afetando-aplicativos-pixel"
               },
               "origin": "",
               "type": "markdown",
@@ -58688,12 +58823,12 @@
             {
               "name": {
                 "en": "Affiliation created in subaccount not listed in Admin; ‘Affiliation name is already used’ on retry",
-                "es": "Afiliación creada en subcuenta no listada en Admin",
+                "es": "Afiliación creada en una subcuenta que no aparece en Admin; «El nombre de la afiliación ya está en uso» al volver a intentarlo.",
                 "pt": "Afiliação criada na subconta não listada no Admin"
               },
               "slug": {
                 "en": "affiliation-created-in-subaccount-not-listed-in-admin-affiliation-name-is-already-used-on-retry",
-                "es": "afiliacion-creada-en-subcuenta-no-listada-en-admin",
+                "es": "afiliacion-creada-en-una-subcuenta-que-no-aparece-en-admin-el-nombre-de-la-afiliacion-ya-esta-en-uso-al-volver-a-intentarlo",
                 "pt": "afiliacao-criada-na-subconta-nao-listada-no-admin"
               },
               "origin": "",
@@ -61492,14 +61627,14 @@
             },
             {
               "name": {
-                "en": "Transaction cancellation error with 'Unreachable code' message",
-                "es": "Error de cancelación de transacción con el mensaje 'Código no localizable'.",
-                "pt": "Erro de cancelamento de transação com a mensagem 'Unreachable code' (código inacessível)"
+                "en": "Transaction cancellation error with \"Unreachable code\" message",
+                "es": "Error de cancelación de transacción con el mensaje «Código inaccesible».",
+                "pt": "Erro de cancelamento da transação com a mensagem “Código inacessível”"
               },
               "slug": {
                 "en": "transaction-cancellation-error-with-unreachable-code-message",
-                "es": "error-de-cancelacion-de-transaccion-con-el-mensaje-codigo-no-localizable",
-                "pt": "erro-de-cancelamento-de-transacao-com-a-mensagem-unreachable-code-codigo-inacessivel"
+                "es": "error-de-cancelacion-de-transaccion-con-el-mensaje-codigo-inaccesible",
+                "pt": "erro-de-cancelamento-da-transacao-com-a-mensagem-codigo-inacessivel"
               },
               "origin": "",
               "type": "markdown",
@@ -61560,6 +61695,21 @@
                 "en": "transaction-settling-while-giftcard-payment-stuck-in-authorized-status-after-autosettle-error",
                 "es": "transaccion-liquidada-mientras-el-pago-con-giftcard-se-atasca-en-estado-autorizado-despues-de-un-error-de-autoliquidacion",
                 "pt": "liquidacao-da-transacao-enquanto-o-pagamento-com-cartaopresente-fica-preso-no-status-autorizado-apos-erro-de-liquidacao-automatica"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transaction stuck in \"Cancelling\" when payments are \"Finished\"",
+                "es": "La transacción se queda bloqueada en «Cancelando» cuando los pagos están «Finalizados».",
+                "pt": "Transação presa em “Cancelando” quando os pagamentos estão “Concluídos”"
+              },
+              "slug": {
+                "en": "transaction-stuck-in-cancelling-when-payments-are-finished",
+                "es": "la-transaccion-se-queda-bloqueada-en-cancelando-cuando-los-pagos-estan-finalizados",
+                "pt": "transacao-presa-em-cancelando-quando-os-pagamentos-estao-concluidos"
               },
               "origin": "",
               "type": "markdown",
@@ -61808,12 +61958,12 @@
             {
               "name": {
                 "en": "Transactions stuck in \"Canceling\" and payments remain in \"Authorized\"",
-                "es": "Las transacciones se atascan en \"Cancelando\" y los pagos permanecen en \"Autorizado\".",
+                "es": "Las transacciones se quedan atascadas en «Cancelando» y los pagos permanecen en «Autorizado».",
                 "pt": "As transações ficam presas em \"Cancelando\" e os pagamentos permanecem em \"Autorizados\""
               },
               "slug": {
                 "en": "transactions-stuck-in-canceling-and-payments-remain-in-authorized",
-                "es": "las-transacciones-se-atascan-en-cancelando-y-los-pagos-permanecen-en-autorizado",
+                "es": "las-transacciones-se-quedan-atascadas-en-cancelando-y-los-pagos-permanecen-en-autorizado",
                 "pt": "as-transacoes-ficam-presas-em-cancelando-e-os-pagamentos-permanecem-em-autorizados"
               },
               "origin": "",
@@ -62327,6 +62477,21 @@
                 "en": "paste-action-blocked-on-login-and-on-the-pick-and-pack-picking-search-field",
                 "es": "accion-de-pegar-bloqueada-en-el-inicio-de-sesion-y-en-el-campo-de-busqueda-de-picking-pick-and-pack",
                 "pt": "acao-de-colar-bloqueada-no-login-e-no-campo-de-pesquisa-de-picking-pick-and-pack"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Pick and Pack | Single Order Generating Multiple Worksheets Due to Concurrency Issue",
+                "es": "Seleccionar y empaquetar | Un solo pedido genera varias hojas de cálculo debido a un problema de concurrencia",
+                "pt": "Selecionar e embalar | Pedido único gerando várias planilhas devido a um problema de simultaneidade"
+              },
+              "slug": {
+                "en": "pick-and-pack-single-order-generating-multiple-worksheets-due-to-concurrency-issue",
+                "es": "seleccionar-y-empaquetar-un-solo-pedido-genera-varias-hojas-de-calculo-debido-a-un-problema-de-concurrencia",
+                "pt": "selecionar-e-embalar-pedido-unico-gerando-varias-planilhas-devido-a-um-problema-de-simultaneidade"
               },
               "origin": "",
               "type": "markdown",
@@ -65295,6 +65460,21 @@
           "children": [
             {
               "name": {
+                "en": "Apps using masterdater builder 2.x may fail to identify schemas after a install",
+                "es": "Las aplicaciones que utilizan Masterdater Builder 2.x pueden no identificar los esquemas después de una instalación.",
+                "pt": "Os aplicativos que utilizam o Masterdater Builder 2.x podem não conseguir identificar esquemas após a instalação."
+              },
+              "slug": {
+                "en": "apps-using-masterdater-builder-2x-may-fail-to-identify-schemas-after-a-install",
+                "es": "las-aplicaciones-que-utilizan-masterdater-builder-2x-pueden-no-identificar-los-esquemas-despues-de-una-instalacion",
+                "pt": "os-aplicativos-que-utilizam-o-masterdater-builder-2x-podem-nao-conseguir-identificar-esquemas-apos-a-instalacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Boolean filter on Form Application does not work properly",
                 "es": "El filtro booleano en la aplicación de formularios no funciona correctamente",
                 "pt": "O filtro booleano no aplicativo de formulário não funciona corretamente"
@@ -67231,6 +67411,21 @@
             },
             {
               "name": {
+                "en": "Telesales impersonation fails for specific customers in unified Profile System stores",
+                "es": "La suplantación de identidad en las ventas telefónicas falla para clientes específicos en las tiendas del sistema de perfiles unificado.",
+                "pt": "A falsificação de identidade em vendas por telefone falha para clientes específicos em lojas do Sistema de Perfil Unificado"
+              },
+              "slug": {
+                "en": "telesales-impersonation-fails-for-specific-customers-in-unified-profile-system-stores",
+                "es": "la-suplantacion-de-identidad-en-las-ventas-telefonicas-falla-para-clientes-especificos-en-las-tiendas-del-sistema-de-perfiles-unificado",
+                "pt": "a-falsificacao-de-identidade-em-vendas-por-telefone-falha-para-clientes-especificos-em-lojas-do-sistema-de-perfil-unificado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Text in Add to Cart Button are not being translated using site editor",
                 "es": "El texto del botón Añadir al carro no se traduce con el editor del sitio.",
                 "pt": "O texto no botão Adicionar ao carrinho não está sendo traduzido usando o editor do site"
@@ -67526,6 +67721,37 @@
                 "en": "order-not-notified-carrier-leaves-label-barcode-incomplete",
                 "es": "el-pedido-no-notificado-al-transportista-deja-incompleto-el-codigo-de-barras-de-la-etiqueta",
                 "pt": "pedido-nao-notificado-transportadora-deixa-etiqueta-com-codigo-de-barras-incompleto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Personal shopper",
+            "es": "Personal shopper",
+            "pt": "Personal shopper"
+          },
+          "slug": {
+            "en": "personal-shopper",
+            "es": "personal-shopper",
+            "pt": "personal-shopper"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Notifications from the personal shopper are not arriving on WhatsApp.",
+                "es": "Las notificaciones del asistente personal de compras no llegan a WhatsApp.",
+                "pt": "As notificações do personal shopper não estão chegando no WhatsApp."
+              },
+              "slug": {
+                "en": "notifications-from-the-personal-shopper-are-not-arriving-on-whatsapp",
+                "es": "las-notificaciones-del-asistente-personal-de-compras-no-llegan-a-whatsapp",
+                "pt": "as-notificacoes-do-personal-shopper-nao-estao-chegando-no-whatsapp"
               },
               "origin": "",
               "type": "markdown",
