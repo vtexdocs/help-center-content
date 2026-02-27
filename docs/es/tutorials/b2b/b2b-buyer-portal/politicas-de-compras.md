@@ -36,6 +36,6 @@ Para configurar las políticas de compras de la organización, el rol de [storef
 
 ## Configurar políticas de compras
 
-Los usuarios pueden agregar, editar o remover políticas de compras mediante la interfaz de la unidad organizativa. Para más información, consulta el artículo [Agregar o editar políticas de compras](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-buying-policies).
+Los usuarios pueden agregar, editar o remover políticas de compras mediante la interfaz de la unidad organizativa. Para más información, consulta el artículo [Agregar o editar políticas de compras](https://help.vtex.com/es/docs/tutorials/agregar-o-editar-politicas-de-compras).
 
 > ℹ️ Para gestionar reglas de autorización de pedidos vía API, accede a la [API Buying Policies](https://developers.vtex.com/docs/api-reference/buying-policies-api), y a la guía para desarrolladores [Buying Policies](https://developers.vtex.com/docs/guides/buying-policies).
