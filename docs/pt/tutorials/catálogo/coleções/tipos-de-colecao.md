@@ -41,7 +41,7 @@ No módulo de Coleções Beta há opções mais flexíveis e controle na ordena�
 
 Para aprender a cadastrar coleções manuais, acesse nosso artigo [Criar Coleções Beta](/pt/docs/tutorials/cadastrar-colecoes-beta).
 
-## Coleções automáticas 
+## Coleções automáticas
 
 As coleções automáticas se mantêm sempre atualizadas de acordo com os filtros configurados. Não é possível ordenar os itens da coleção. Os produtos são adicionados por meio de filtro e eles são automaticamente atualizados a partir dele.
 
