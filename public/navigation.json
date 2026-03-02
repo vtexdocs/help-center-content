@@ -39909,13 +39909,13 @@
             {
               "name": {
                 "en": "Collections doesn't work in custom search results pages in B2B Suite",
-                "es": "Las colecciones no funcionan en las páginas de resultados de búsqueda personalizadas en B2B Suite",
-                "pt": "As coleções não funcionam em páginas de resultados de pesquisa personalizados no B2B Suite"
+                "es": "Las colecciones no funcionan en las páginas de resultados de búsqueda personalizadas de B2B Suite.",
+                "pt": "As coleções não funcionam nas páginas de resultados de pesquisa personalizadas no B2B Suite."
               },
               "slug": {
                 "en": "collections-doesnt-work-in-custom-search-results-pages-in-b2b-suite",
-                "es": "las-colecciones-no-funcionan-en-las-paginas-de-resultados-de-busqueda-personalizadas-en-b2b-suite",
-                "pt": "as-colecoes-nao-funcionam-em-paginas-de-resultados-de-pesquisa-personalizados-no-b2b-suite"
+                "es": "las-colecciones-no-funcionan-en-las-paginas-de-resultados-de-busqueda-personalizadas-de-b2b-suite",
+                "pt": "as-colecoes-nao-funcionam-nas-paginas-de-resultados-de-pesquisa-personalizadas-no-b2b-suite"
               },
               "origin": "",
               "type": "markdown",
