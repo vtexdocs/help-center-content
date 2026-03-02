@@ -16901,12 +16901,12 @@
                 {
                   "name": {
                     "en": "Adding a Client Id and a Client Secret to log in with Google",
-                    "es": "Registrar Client Id y Client Secret para inicio de sesión con Google",
-                    "pt": "Cadastrar Client Id e Client Secret para login com Google"
+                    "es": "Registrar client ID y secreto del cliente para inicio de sesión con Google",
+                    "pt": "Cadastrar Client ID e Client secret para login com Google"
                   },
                   "slug": {
                     "en": "adding-a-client-id-and-a-client-secret-to-log-in-with-google",
-                    "es": "registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google",
+                    "es": "registrar-client-id-y-secreto-del-cliente-para-inicio-de-sesion-con-google",
                     "pt": "cadastrar-client-id-e-client-secret-para-login-com-google"
                   },
                   "origin": "",
@@ -16915,14 +16915,14 @@
                 },
                 {
                   "name": {
-                    "en": "Adding Client ID and Client Secret for Facebook Login",
-                    "es": "Registrar Client ID y Secreto del cliente para Inicio de sesión con Facebook",
-                    "pt": "Cadastrar Client Id e Segredo do cliente para login com Facebook"
+                    "en": "Adding Client ID and Client secret to log in with Facebook",
+                    "es": "Registrar client ID y secreto del cliente para inicio de sesión con Facebook",
+                    "pt": "Cadastrar Client ID e Client secret para login com Facebook"
                   },
                   "slug": {
-                    "en": "adding-a-client-id-and-a-client-secret-to-log-in-with-facebook",
-                    "es": "registrar-client-id-y-client-secret-para-login-con-facebook",
-                    "pt": "cadastrar-client-id-e-segredo-do-cliente-para-login-com-facebook"
+                    "en": "adding-client-id-and-client-secret-to-log-in-with-facebook",
+                    "es": "registrar-client-id-y-secreto-del-cliente-para-inicio-de-sesion-con-facebook",
+                    "pt": "cadastrar-client-id-e-client-secret-para-login-com-facebook"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -51292,6 +51292,21 @@
                 "en": "redirects-for-preview-links-when-using-in-the-final-of-the-url",
                 "es": "redirecciones-para-los-enlaces-de-previsualizacion-cuando-se-utiliza-en-la-parte-final-de-la-url",
                 "pt": "redirecionamentos-para-links-de-visualizacao-ao-usar-no-final-do-url"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Secrets take hours to propagate to builds in WebOps (FastStore Platform)",
+                "pt": "Os segredos levam horas para serem propagados para as compilações no WebOps (Plataforma FastStore)",
+                "es": "Secrets take hours to propagate to builds in WebOps (FastStore Platform)"
+              },
+              "slug": {
+                "en": "secrets-take-hours-to-propagate-to-builds-in-webops-faststore-platform",
+                "pt": "os-segredos-levam-horas-para-serem-propagados-para-as-compilacoes-no-webops-plataforma-faststore",
+                "es": ""
               },
               "origin": "",
               "type": "markdown",
