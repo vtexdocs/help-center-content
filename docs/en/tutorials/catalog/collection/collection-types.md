@@ -25,13 +25,13 @@ On VTEX, there are three ways to configure Collections:
 - Automatic
 - Hybrid
 
-| Collection  | Where to configure   | Adding products  | Ordering    |
-| ---------- | -----------------------------|------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
-| Manual | CMS and Collections module (Beta) | In CMS: by SKU selection In Collections (Beta): by search refinement and product filters |In CMS: no controlIn Collections (Beta): total control | 
-| Automatic | CMS | Created by Brand or Category filters | No control |  
-| Hybrid | CMS and Collections module (Beta) | Created by Brand or Category filters. You can also add products manually | No control        |
+| Collection | Where to configure | Adding products | Ordering |
+| :--- | :--- | :--- | :--- |
+| Manual | CMS and Collections module (Beta) | - CMS: By SKU selection. <br> - Collections (Beta): By search refinement and product filters. | - CMS: No control. <br> - Collections (Beta): Total control. |
+| Automatic | CMS | Created by brand or category filters | No control. |  
+| Hybrid | CMS and Collections module (Beta) | - CMS: Created by brand or category filters. <br> - Collections (Beta): Created by brand filters. <br> Both CMS and Collections (Beta) allow you to add products manually. | No control. |
 
-> ⚠️ Collections created in the CMS module and with more than one [group](/en/docs/tutorials/adding-collections-cms) cannot be reordered in the new Beta Collection module. We recommend you do not change the ordering, as it may compromise the efficiency of the functionality.
+> ⚠️ Collections created in the CMS module and with more than one [group](https://help.vtex.com/en/docs/tutorials/adding-collections-cms) cannot be reordered in the new Beta Collection module. We recommend you do not change the ordering, as it may compromise the efficiency of the functionality.
 
   ## Manual collections
 
