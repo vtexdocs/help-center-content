@@ -27,7 +27,7 @@ Na VTEX, temos três possibilidades de configuração de Coleções:
 
 | Coleção | Onde configurar | Adição de produtos | Ordenação |
 | :--- | :--- | :--- | :--- |
-| Manual | CMS e módulo de Coleções Beta. | - CMS: por seleção de SKUs. <br> - Coleções Beta: por refinamento de busca e filtros de produtos. | - CMS: sem controle. <br> - Coleções Beta: controle total. |
+| Manual | CMS e módulo de Coleções Beta | - CMS: por seleção de SKUs. <br> - Coleções Beta: por refinamento de busca e filtros de produtos. | - CMS: sem controle. <br> - Coleções Beta: controle total. |
 | Automática | CMS | Criada por filtros de marca ou categoria. | Sem controle. |
 | Híbrida | CMS e módulo de Coleções Beta | - CMS: criada por filtros de marca ou categoria. <br> - Coleções Beta: criada por filtros de marca. <br> Tanto no Coleções Beta quanto no CMS é possível adicionar os produtos manualmente. | Sem controle. |
 
