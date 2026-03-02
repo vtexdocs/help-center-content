@@ -31,7 +31,7 @@ Na VTEX, temos três possibilidades de configuração de Coleções:
 | Automática | CMS | Criada por filtros de marca ou categoria. | Sem controle. |
 | Híbrida | CMS e módulo de Coleções Beta | - CMS: criada por filtros de marca ou categoria. <br> - Coleções Beta: criada por filtros de marca. <br> Tanto no Coleções Beta quanto no CMS é possível adicionar os produtos manualmente. | Sem controle. |
 
-> ⚠️ Coleções criadas no módulo CMS e com mais de um [grupo](/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L#) não podem ser reordenadas no novo módulo de Coleções Beta. Indicamos que você não altere a ordenação, pois pode comprometer eficiência da funcionalidade.
+> ⚠️ Coleções criadas no módulo CMS e com mais de um [grupo](https://help.vtex.com/pt/docs/tutorials/cadastro-de-colecoes-cms) não podem ser reordenadas no novo módulo de Coleções Beta. Indicamos que você não altere a ordenação, pois pode comprometer eficiência da funcionalidade.
 
 ## Coleções manuais
 
@@ -39,7 +39,7 @@ Com o objetivo de ter uma seleção específica de produtos, a coleção manual 
 
 No módulo de Coleções Beta há opções mais flexíveis e controle na ordenação da coleção. É possível refinar os produtos tanto pela busca quanto por filtros. Assim, a gestão de quais produtos serão incluídos na coleção é mais exata e otimizada.
 
-Para aprender a cadastrar coleções manuais, acesse nosso artigo [Criar Coleções Beta](/pt/docs/tutorials/cadastrar-colecoes-beta).
+Para aprender a cadastrar coleções manuais, acesse nosso artigo [Cadastrar Coleções (Beta)](https://help.vtex.com/pt/docs/tutorials/cadastrar-colecoes-beta).
 
 ## Coleções automáticas
 
@@ -49,7 +49,7 @@ As coleções automáticas se mantêm sempre atualizadas de acordo com os filtro
 
 Você cria uma coleção a partir de um filtro da categoria Camisetas. Caso você adicione um novo produto a essa categoria, ele será adicionado automaticamente à coleção.
 
-Para configurar coleções automáticas, acesse nosso artigo [Cadastrar Coleções pelo CMS](/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L#).
+Para configurar coleções automáticas, acesse nosso artigo [Cadastro de Coleções CMS](https://help.vtex.com/pt/docs/tutorials/cadastro-de-colecoes-cms).
 
 ## Coleções híbridas
 
@@ -57,4 +57,4 @@ As coleções híbridas apresentam características manuais e automáticas. A va
 
 É possível adicionar os produtos manualmente e configurar filtros automáticos. Essa coleção pode ser criada e editada tanto no CMS quanto no módulo de Coleções Beta.
 
-Para configurar coleções híbridas, acesse os artigos [Cadastrar Coleções pelo CMS](/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L#) e [Criar Coleções Beta](/pt/docs/tutorials/cadastrar-colecoes-beta).
+Para configurar coleções híbridas, acesse os artigos [Cadastro de Coleções CMS](https://help.vtex.com/pt/docs/tutorials/cadastro-de-colecoes-cms) e [Cadastrar Coleções (Beta)](https://help.vtex.com/pt/docs/tutorials/cadastrar-colecoes-beta).
