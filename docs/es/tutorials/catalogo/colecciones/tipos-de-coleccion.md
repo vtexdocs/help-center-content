@@ -39,7 +39,7 @@ Con el objetivo de que la colección manual tenga una selección específica de 
 
 En el módulo de Colecciones Beta hay opciones más flexibles y mayor control para ordenar la colección. Los productos se pueden refinar a través de la búsqueda o los filtros. Eso permite que la gestión de los productos que serán incluidos sea más precisa y optimizada.
 
-Para aprender a registrar las colecciones manuales, acceda a nuestro artículo [Crear Colecciones Beta](/es/docs/tutorials/registrar-colecciones-beta).
+Para aprender a registrar las colecciones manuales, acceda a nuestro artículo [Registrar Colecciones (Beta)](https://help.vtex.com/es/docs/tutorials/registrar-colecciones-beta).
 
 ## Colecciones automáticas
 
