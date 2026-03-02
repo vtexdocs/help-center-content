@@ -39,7 +39,7 @@ In order to have a specific selection of products, manual collections can be con
 
 In the Collections module (Beta), there are more flexible options and more control in collection ordering. You can refine products via search or filters. Thus, the management of which products will be included in the collection is more precise and optimized.
 
-To learn how to add manual collections, read our article [Create Beta Collections](/en/docs/tutorials/creating-collections-beta).
+To learn how to add manual collections, read our article [Creating Collections (Beta)](https://help.vtex.com/docs/tutorials/creating-collections-beta).
 
 ## Automatic collections
 
@@ -49,7 +49,7 @@ Automatic collections are updated according to the configured filters. You canno
 
 You create a collection from a filter within the T-shirt category. When you add a new product to this category, it will be automatically added to the collection.
 
-To configure automatic collections, read our article [Add Collections via CMS](/en/docs/tutorials/adding-collections-cms).
+To configure automatic collections, read our article [Adding collections CMS](https://help.vtex.com/docs/tutorials/adding-collections-cms).
 
 ## Hybrid collections
 
@@ -57,4 +57,4 @@ Hybrid collections have manual and automatic characteristics. The advantage of t
 
 You can add products manually and configure automatic filters. These collections can be created and edited both in the CMS and in the Collections module (Beta).
 
-To configure hybrid collections, read the articles [Add Collections via CMS](/en/docs/tutorials/adding-collections-cms) and [Create Beta Collections](/en/docs/tutorials/creating-collections-beta).  
+To configure hybrid collections, read the articles [Adding collections CMS](https://help.vtex.com/docs/tutorials/adding-collections-cms) and [Creating Collections (Beta)](https://help.vtex.com/docs/tutorials/creating-collections-beta).
