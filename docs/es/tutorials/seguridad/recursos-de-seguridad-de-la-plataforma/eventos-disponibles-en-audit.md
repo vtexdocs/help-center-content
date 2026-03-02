@@ -228,19 +228,19 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 |---|---|---|
 | PasswordCreated | El usuario registra una contraseña por primera vez en la tienda o en el Admin VTEX. | ID de usuario. |
 | PasswordUpdated | El usuario cambia su contraseña de la tienda o del Admin VTEX. | ID de usuario. |
-| UserLogin | Inicio de sesión del usuario en la tienda o en el Admin VTEX. | ID de usuario. |
-| UserLogout | Cierre de sesión del usuario en la tienda o en el Admin VTEX. | ID de usuario. |
+| UserLogin | Inicio de sesión del usuario en el Admin VTEX. | ID de usuario. |
+| UserLogout | Cierre de sesión del usuario en el Admin VTEX. | ID de usuario. |
 | IdentityProviderChanged | Cambios en la configuración del proveedor de identidad. Por ejemplo, cuando se crea una integración OAuth personalizada, o se modifica la información de una configuración OAuth existente. | Proveedor de identidad. |
 
 ## Master Data
 
 | Acción  | Descripción  | Detalles del evento |
 |---|---|---|
-| ReadDocument | Lectura de documento. | ID del documento. |
-| CreateDocument | Creación de documento. | ID del documento. |
-| UpdateDocument | Actualización de documento. | ID del documento. |
+| ReadDocument | Lectura de documento. Aplicable solo a las interacciones con las entidades de datos CL y AD en la interfaz del CRM. | ID del documento. |
+| CreateDocument | Creación de documento. Aplicable solo a las interacciones con las entidades de datos CL y AD en la interfaz del CRM. | ID del documento. |
+| UpdateDocument | Actualización de documento. Aplicable solo a las interacciones con las entidades de datos CL y AD en la interfaz del CRM. | ID del documento. |
 | DeleteDocument | Eliminación de un documento. | ID del documento. |
-| SearchDocuments | Búsqueda de documentos. | Detalles de la consulta de búsqueda. |
+| SearchDocuments | Búsqueda de documentos. Aplicable solo a las interacciones con las entidades de datos CL y AD en la interfaz del CRM. | Detalles de la consulta de búsqueda. |
 | UpdateSchema | Creación o edición de schema en Master Data v2. | Nombre del schema. |
 | DeleteSchema | Eliminación de schema en Master Data v2. | Nombre del schema. |
 

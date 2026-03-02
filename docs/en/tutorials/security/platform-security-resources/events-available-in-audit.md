@@ -228,19 +228,19 @@ Below, you will find a list of the potential events available in [Audit](/en/tut
 |---|---|---|
 | PasswordCreated | Creation of a first-time password in the store or the VTEX Admin | User ID. |
 | PasswordUpdated | Change of store or VTEX Admin password by the user. | User ID. |
-| UserLogin | User login to the store or VTEX Admin. | User ID. |
-| UserLogout | User logout from the store or VTEX Admin. | User ID. |
+| UserLogin | User login to the VTEX Admin. | User ID. |
+| UserLogout | User logout from the VTEX Admin. | User ID. |
 | IdentityProviderChanged | Identity provider configuration change. For example: Creating a customized OAuth integration and changing information in an existing OAuth configuration. | Identity provider. |
 
 ## Master Data
 
 | Action | Event description | Event details |
 |---|---|---|
-| ReadDocument | Document read. | Document ID. |
-| CreateDocument | Document creation. | Document ID. |
-| UpdateDocument | Document update. | Document ID. |
+| ReadDocument | Document read. Applicable only for interactions with the CL and AD data entities in the CRM interface. | Document ID. |
+| CreateDocument | Document creation. Applicable only for interactions with the CL and AD data entities in the CRM interface. | Document ID. |
+| UpdateDocument | Document update. Applicable only for interactions with the CL and AD data entities in the CRM interface. | Document ID. |
 | DeleteDocument | Deleted document. | Document ID. |
-| SearchDocuments | Document search. | Search query details. |
+| SearchDocuments | Document search. Applicable only for interactions with the CL and AD data entities in the CRM interface. | Search query details. |
 | UpdateSchema | Created or updated schema on Master Data v2. | Schema name. |
 | DeleteSchema | Deleted schema on Master Data v2. | Schema name. |
 
