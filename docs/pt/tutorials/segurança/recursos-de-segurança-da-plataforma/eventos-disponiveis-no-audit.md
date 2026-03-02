@@ -147,7 +147,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 | Unarchive Coupon | Desarquivamento de cupom. | Código do cupom. |
 | Change Rate Configuration | Alteração de configuração de taxa. | ID da configuração da taxa. |
 | Change Promotion Configuration | Alteração de configuração de promoção. | ID da configuração da promoção. |
-| Change Coupon Configuration | Alteração em coupom. | Código do cupom. |
+| Change Coupon Configuration | Alteração em cupom. | Código do cupom. |
 | Unarchived Calculator | Desarquivamento de promoção ou taxa. | ID da configuração da promoção ou taxa. |
 | Archived Calculator | Arquivamento de promoção ou taxa. | ID da configuração da promoção ou taxa. |
 
@@ -212,7 +212,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 | Save User | Criação de usuário ou alteração de informações de usuário. | ID do usuário. |
 | Save Account | Criação de conta ou edição de informações de conta. | Conta criada ou alterada. |
 | Change Role | Edição de perfil de acesso. | Perfil de acesso editado. |
-| Delete Role | Exclusão perfil de acesso. | Perfil de acesso excluído. |
+| Delete Role | Exclusão de perfil de acesso. | Perfil de acesso excluído. |
 | Unblock AppToken | Desbloqueio de chave de aplicação. | Chave de aplicação desbloqueada. |
 | Resource Access Allowed | Acesso a recurso permitido. | Chave do recurso e ID do usuário ao qual foi permitido. |
 | Cancel Sponsor Invite | Cancelamento de convite para usuário titular. | ID do usuário convidado. |
@@ -274,7 +274,7 @@ Na coluna **Ação**, todos os eventos do Headless CMS também apresentam as seg
 
 ## Site Editor
 
-| Ação | Descrição do evento | Detalhe do evento |
+| Ação | Descrição do evento | Detalhes do evento |
 |---|---|---|
 | Schedule change | Agendamento de edição no conteúdo. | ID da entidade alterada. |
 | Edit content block | Edição de bloco de conteúdo. | ID da entidade alterada. |
