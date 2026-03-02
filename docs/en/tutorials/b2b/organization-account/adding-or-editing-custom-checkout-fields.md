@@ -1,10 +1,10 @@
 ---
-title: 'Add or edit custom checkout fields'
+title: 'Adding or editing custom checkout fields'
 createdAt: '2025-03-27T10:00:00.000Z'
 updatedAt: '2025-03-27T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
-slugEN: add-or-edit-custom-checkout-fields
+slugEN: adding-or-editing-custom-checkout-fields
 locale: en
 ---
 
@@ -24,7 +24,7 @@ This article covers:
 
 ## Edit custom field
 
-![Buyer Portal B2B Organization Unit information page](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/b2b-buyer-portal/buyer-portal-b2b-organization-unit-information-page.png)
+![Buyer Portal B2B Organization Unit information page](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buyer-portal-b2b-organization-unit-information-page.png)
 
 1. From the B2B Buyer Portal home screen, click the `Company` icon.
 2. In the Organization Unit modal, click **Manage**.

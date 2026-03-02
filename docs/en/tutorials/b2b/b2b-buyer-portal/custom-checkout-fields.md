@@ -83,7 +83,7 @@ You can set the following as defaults:
 
 > ⚠️ Only fields of type `option` can be set as default values.
 
-> ℹ️ For more information on how to add or configure custom fields, see [Add or edit custom checkout fields](https://help.vtex.com/en/docs/tutorials/add-or-edit-custom-checkout-fields)
+> ℹ️ For more information on how to add or configure custom fields, see [Add or edit custom checkout fields](https://help.vtex.com/en/docs/tutorials/adding-or-editing-custom-checkout-fields)
 
 ## Impact for administrators
 

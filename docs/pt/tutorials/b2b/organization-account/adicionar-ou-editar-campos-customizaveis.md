@@ -4,7 +4,7 @@ createdAt: '2025-03-27T10:00:00.000Z'
 updatedAt: '2025-03-27T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
-slugEN: add-or-edit-custom-checkout-fields
+slugEN: adding-or-editing-custom-checkout-fields
 locale: pt
 ---
 
@@ -24,7 +24,7 @@ Este artigo aborda:
 
 ## Editar campo customizável
 
-![Buyer Portal B2B organization unit information page](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/b2b-buyer-portal/buyer-portal-b2b-organization-unit-information-page.png)
+![Buyer Portal B2B organization unit information page](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buyer-portal-b2b-organization-unit-information-page.png)
 
 1. Na tela inicial do Organization Account, clique no ícone `Company`.
 2. No modal da organization unit, clique no botão **Manage**.
