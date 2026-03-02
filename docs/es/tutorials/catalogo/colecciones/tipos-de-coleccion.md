@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 3aExYJkji3NIu9Ks8bxbWx
 ---
 
-Una Colección es un recurso de agrupación de productos. Generalmente, esta herramienta se utiliza para crear acciones comerciales con temas o criterios similares, como una colección de ropa de invierno, por ejemplo. 
+Una Colección es un recurso de agrupación de productos. Generalmente, esta herramienta se utiliza para crear acciones comerciales con temas o criterios similares, como una colección de ropa de invierno, por ejemplo.
 
-Con el desarrollo del módulo Colecciones Beta, simplificamos las formas de configurar las colecciones en VTEX. Este artículo explica las diferencias entre tales alternativas de configuración. 
+Con el desarrollo del módulo Colecciones Beta, simplificamos las formas de configurar las colecciones en VTEX. Este artículo explica las diferencias entre tales alternativas de configuración.
 
 En VTEX, hay tres alternativas de configuración de colecciones, que son:
 
@@ -25,9 +25,9 @@ En VTEX, hay tres alternativas de configuración de colecciones, que son:
 - Automática
 - Híbrida
 
-| Colección  | Lugar de configuración   | Adición de productos  | Orden de productos |
-| ---------- | -----------------------------|------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
-| Manual   | CMS y módulo de Colecciones Beta | En el CMS: por selección de SKUs En Colecciones Beta: por el refinamiento de la búsqueda y los filtros de productos | En el CMS: no se puede modificar En Colecciones Beta: se puede modificar |
+| Colección | Lugar de configuración | Adición de productos | Orden de productos |
+| :--- | :--- | :--- | :--- |
+| Manual | CMS y módulo de Colecciones Beta | En el CMS: por selección de SKUs En Colecciones Beta: por el refinamiento de la búsqueda y los filtros de productos | En el CMS: no se puede modificar En Colecciones Beta: se puede modificar |
 | Automática | CMS | Creada por filtros de Marca o Categoría | No se puede modificar |
 | Híbrida | CMS y módulo de Colecciones Beta | Creada por filtros de Marca o Categoría. También se pueden agregar los productos manualmente | No se puede modificar |
 
