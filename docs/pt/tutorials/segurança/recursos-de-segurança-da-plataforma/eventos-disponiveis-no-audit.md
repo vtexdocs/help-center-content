@@ -3,7 +3,7 @@ title: 'Eventos disponíveis no Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2025-08-25T18:20:54.585Z
+updatedAt: 2026-03-02T18:20:54.585Z
 publishedAt: 2025-08-25T18:20:54.585Z
 firstPublishedAt: 2022-06-22T16:28:52.801Z
 contentType: tutorial
@@ -228,13 +228,19 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 |---|---|---|
 | PasswordCreated | Usuário registra uma senha pela primeira vez na loja ou no Admin VTEX. | ID do usuário. |
 | PasswordUpdated | Usuário altera sua senha da loja ou do Admin VTEX. | ID do usuário. |
+| UserLogin | Login do usuário na loja ou no Admin VTEX. | ID do usuário. |
+| UserLogout | Logout do usuário da loja ou do Admin VTEX. | ID do usuário. |
 | IdentityProviderChanged | Mudança de configurações de provedor de identidade. Por exemplo: criação de integração OAuth customizada, alteração de informações em configuração de OAuth existente, entre outros. | Provedor de identidade. |
 
 ## Master Data
 
 | Ação | Descrição do evento | Detalhes do evento |
 |---|---|---|
+| ReadDocument | Leitura de documento. | ID do documento. |
+| CreateDocument | Criação de documento. | ID do documento. |
+| UpdateDocument | Atualização de documento. | ID do documento. |
 | DeleteDocument | Exclusão de documento. | ID do documento. |
+| SearchDocuments | Busca de documentos. | Detalhes da consulta de busca. |
 | UpdateSchema | Criação ou edição de schema no Master Data v2. | Nome do schema. |
 | DeleteSchema | Exclusão de schema no Master Data v2. | Nome do schema. |
 

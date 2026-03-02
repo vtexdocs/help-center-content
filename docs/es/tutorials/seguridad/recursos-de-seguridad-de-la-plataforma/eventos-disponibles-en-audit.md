@@ -3,7 +3,7 @@ title: 'Eventos disponibles en Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2025-08-25T18:20:54.585Z
+updatedAt: 2026-03-02T18:20:54.585Z
 publishedAt: 2025-08-25T18:20:54.585Z
 firstPublishedAt: 2022-06-22T16:28:52.801Z
 contentType: tutorial
@@ -228,13 +228,19 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit](/es/
 |---|---|---|
 | PasswordCreated | El usuario registra una contraseña por primera vez en la tienda o en el Admin VTEX. | ID de usuario. |
 | PasswordUpdated | El usuario cambia su contraseña de la tienda o del Admin VTEX. | ID de usuario. |
+| UserLogin | Inicio de sesión del usuario en la tienda o en el Admin VTEX. | ID de usuario. |
+| UserLogout | Cierre de sesión del usuario en la tienda o en el Admin VTEX. | ID de usuario. |
 | IdentityProviderChanged | Cambios en la configuración del proveedor de identidad. Por ejemplo, cuando se crea una integración OAuth personalizada, o se modifica la información de una configuración OAuth existente. | Proveedor de identidad. |
 
 ## Master Data
 
 | Acción  | Descripción  | Detalles del evento |
 |---|---|---|
+| ReadDocument | Lectura de documento. | ID del documento. |
+| CreateDocument | Creación de documento. | ID del documento. |
+| UpdateDocument | Actualización de documento. | ID del documento. |
 | DeleteDocument | Eliminación de un documento. | ID del documento. |
+| SearchDocuments | Búsqueda de documentos. | Detalles de la consulta de búsqueda. |
 | UpdateSchema | Creación o edición de schema en Master Data v2. | Nombre del schema. |
 | DeleteSchema | Eliminación de schema en Master Data v2. | Nombre del schema. |
 
