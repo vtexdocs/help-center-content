@@ -33,7 +33,7 @@ On VTEX, there are three ways to configure Collections:
 
 > ⚠️ Collections created in the CMS module and with more than one [group](https://help.vtex.com/en/docs/tutorials/adding-collections-cms) cannot be reordered in the new Beta Collection module. We recommend you do not change the ordering, as it may compromise the efficiency of the functionality.
 
-  ## Manual collections
+## Manual collections
 
 In order to have a specific selection of products, manual collections can be configured both in the Collections module (Beta) and in the CMS. In this scenario, products are added to the collection manually.
 
@@ -41,7 +41,7 @@ In the Collections module (Beta), there are more flexible options and more contr
 
 To learn how to add manual collections, read our article [Create Beta Collections](/en/docs/tutorials/creating-collections-beta).
 
-## Automatic collections   
+## Automatic collections
 
 Automatic collections are updated according to the configured filters. You cannot arrange the items in the collection. Products are added through filters and automatically updated according to them.
 
