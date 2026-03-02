@@ -3,7 +3,7 @@ title: 'Collection Types'
 id: 5tKnhh8tMGIrVL7Fqirq7n
 status: PUBLISHED
 createdAt: 2020-08-25T19:44:32.708Z
-updatedAt: 2020-12-08T14:42:29.232Z
+updatedAt: 2026-03-02T14:42:29.232Z
 publishedAt: 2020-12-08T14:42:29.232Z
 firstPublishedAt: 2020-09-02T15:21:27.419Z
 contentType: tutorial
@@ -25,23 +25,23 @@ On VTEX, there are three ways to configure Collections:
 - Automatic
 - Hybrid
 
-| Collection  | Where to configure   | Adding products  | Ordering    |
-| ---------- | -----------------------------|------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
-| Manual | CMS and Collections module (Beta) | In CMS: by SKU selection In Collections (Beta): by search refinement and product filters |In CMS: no controlIn Collections (Beta): total control | 
-| Automatic | CMS | Created by Brand or Category filters | No control |  
-| Hybrid | CMS and Collections module (Beta) | Created by Brand or Category filters. You can also add products manually | No control        |
+| Collection | Where to configure | Adding products | Ordering |
+| :--- | :--- | :--- | :--- |
+| Manual | CMS and Collections module (Beta) | - CMS: By SKU selection. <br> - Collections (Beta): By search refinement and product filters. | - CMS: No control. <br> - Collections (Beta): Total control. |
+| Automatic | CMS | Created by brand or category filters | No control. |  
+| Hybrid | CMS and Collections module (Beta) | - CMS: Created by brand or category filters. <br> - Collections (Beta): Created by brand filters. <br> Both CMS and Collections (Beta) allow you to add products manually. | No control. |
 
-> ⚠️ Collections created in the CMS module and with more than one [group](/en/docs/tutorials/adding-collections-cms) cannot be reordered in the new Beta Collection module. We recommend you do not change the ordering, as it may compromise the efficiency of the functionality.
+> ⚠️ Collections created in the CMS module and with more than one [group](https://help.vtex.com/en/docs/tutorials/adding-collections-cms) cannot be reordered in the new Beta Collection module. We recommend you do not change the ordering, as it may compromise the efficiency of the functionality.
 
-  ## Manual collections
+## Manual collections
 
 In order to have a specific selection of products, manual collections can be configured both in the Collections module (Beta) and in the CMS. In this scenario, products are added to the collection manually.
 
 In the Collections module (Beta), there are more flexible options and more control in collection ordering. You can refine products via search or filters. Thus, the management of which products will be included in the collection is more precise and optimized.
 
-To learn how to add manual collections, read our article [Create Beta Collections](/en/docs/tutorials/creating-collections-beta).
+To learn how to add manual collections, read our article [Creating Collections (Beta)](https://help.vtex.com/en/docs/tutorials/creating-collections-beta).
 
-## Automatic collections   
+## Automatic collections
 
 Automatic collections are updated according to the configured filters. You cannot arrange the items in the collection. Products are added through filters and automatically updated according to them.
 
@@ -49,7 +49,7 @@ Automatic collections are updated according to the configured filters. You canno
 
 You create a collection from a filter within the T-shirt category. When you add a new product to this category, it will be automatically added to the collection.
 
-To configure automatic collections, read our article [Add Collections via CMS](/en/docs/tutorials/adding-collections-cms).
+To configure automatic collections, read our article [Adding collections CMS](https://help.vtex.com/en/docs/tutorials/adding-collections-cms).
 
 ## Hybrid collections
 
@@ -57,4 +57,4 @@ Hybrid collections have manual and automatic characteristics. The advantage of t
 
 You can add products manually and configure automatic filters. These collections can be created and edited both in the CMS and in the Collections module (Beta).
 
-To configure hybrid collections, read the articles [Add Collections via CMS](/en/docs/tutorials/adding-collections-cms) and [Create Beta Collections](/en/docs/tutorials/creating-collections-beta).  
+To configure hybrid collections, read the articles [Adding collections CMS](https://help.vtex.com/en/docs/tutorials/adding-collections-cms) and [Creating Collections (Beta)](https://help.vtex.com/en/docs/tutorials/creating-collections-beta).
