@@ -51255,13 +51255,13 @@
             {
               "name": {
                 "en": "Products with selling price is zero cannot be added to the cart in FastStore",
-                "es": "Los productos cuyo precio de venta es cero no se pueden añadir al carrito en FastStore",
-                "pt": "Produtos com preço de venda igual a zero não podem ser adicionados ao carrinho no FastStore"
+                "es": "Los productos con precio de venta cero no se pueden añadir al carrito en FastStore.",
+                "pt": "Os produtos com preço de venda zero não podem ser adicionados ao carrinho no FastStore."
               },
               "slug": {
                 "en": "products-with-selling-price-is-zero-cannot-be-added-to-the-cart-in-faststore",
-                "es": "los-productos-cuyo-precio-de-venta-es-cero-no-se-pueden-anadir-al-carrito-en-faststore",
-                "pt": "produtos-com-preco-de-venda-igual-a-zero-nao-podem-ser-adicionados-ao-carrinho-no-faststore"
+                "es": "los-productos-con-precio-de-venta-cero-no-se-pueden-anadir-al-carrito-en-faststore",
+                "pt": "os-produtos-com-preco-de-venda-zero-nao-podem-ser-adicionados-ao-carrinho-no-faststore"
               },
               "origin": "",
               "type": "markdown",
@@ -51300,13 +51300,13 @@
             {
               "name": {
                 "en": "Secrets take hours to propagate to builds in WebOps (FastStore Platform)",
-                "pt": "Os segredos levam horas para serem propagados para as compilações no WebOps (Plataforma FastStore)",
-                "es": "Secrets take hours to propagate to builds in WebOps (FastStore Platform)"
+                "es": "Los secretos tardan horas en propagarse a las compilaciones en WebOps (plataforma FastStore).",
+                "pt": "Os segredos levam horas para serem propagados para as compilações no WebOps (Plataforma FastStore)"
               },
               "slug": {
                 "en": "secrets-take-hours-to-propagate-to-builds-in-webops-faststore-platform",
-                "pt": "os-segredos-levam-horas-para-serem-propagados-para-as-compilacoes-no-webops-plataforma-faststore",
-                "es": ""
+                "es": "los-secretos-tardan-horas-en-propagarse-a-las-compilaciones-en-webops-plataforma-faststore",
+                "pt": "os-segredos-levam-horas-para-serem-propagados-para-as-compilacoes-no-webops-plataforma-faststore"
               },
               "origin": "",
               "type": "markdown",
