@@ -3,7 +3,7 @@ title: 'Collection Types'
 id: 5tKnhh8tMGIrVL7Fqirq7n
 status: PUBLISHED
 createdAt: 2020-08-25T19:44:32.708Z
-updatedAt: 2020-12-08T14:42:29.232Z
+updatedAt: 2020-03-02T14:42:29.232Z
 publishedAt: 2020-12-08T14:42:29.232Z
 firstPublishedAt: 2020-09-02T15:21:27.419Z
 contentType: tutorial
