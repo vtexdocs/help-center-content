@@ -16333,37 +16333,6 @@
             },
             {
               "name": {
-                "en": "Usuários",
-                "es": "Usuários",
-                "pt": "Usuários"
-              },
-              "slug": {
-                "en": "usuarios",
-                "es": "usuarios",
-                "pt": "usuários-subcategoria"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Criar usuário de televendas",
-                    "en": "Criar usuário de televendas",
-                    "es": "Criar usuário de televendas"
-                  },
-                  "slug": {
-                    "pt": "criar-usuario-de-televendas",
-                    "en": "",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Users",
                 "es": "Usuarios",
                 "pt": "Usuários"
@@ -16386,6 +16355,21 @@
                     "en": "accessing-a-client-abandoned-cart",
                     "es": "acceda-al-carrito-abandonado-de-los-clientes",
                     "pt": "acesse-o-carrinho-abandonado-dos-clientes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Creating a telesales user",
+                    "es": "Crear usuario de televentas",
+                    "pt": "Criar usuário de televendas"
+                  },
+                  "slug": {
+                    "en": "creating-a-telesales-user",
+                    "es": "crear-usuario-de-televentas",
+                    "pt": "criar-usuario-de-televendas"
                   },
                   "origin": "",
                   "type": "markdown",
