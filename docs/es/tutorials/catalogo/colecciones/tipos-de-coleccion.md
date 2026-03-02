@@ -49,7 +49,7 @@ Las colecciones automáticas se mantienen siempre actualizadas de acuerdo con lo
 
 Si usted crea una colección a partir de un filtro de la categoría Camisetas, e incluye un nuevo producto a esa categoría, este se agregará automáticamente a la colección.
 
-Para configurar colecciones automáticas, acceda a nuestro artículo [Registrar Colecciones por el CMS](/es/docs/tutorials/registrar-una-coleccion-cms).
+Para configurar colecciones automáticas, acceda a nuestro artículo [Registrar una colección CMS](https://help.vtex.com/es/docs/tutorials/registrar-una-coleccion-cms).
 
 ## Colecciones híbridas
 
@@ -57,4 +57,4 @@ Las colecciones híbridas poseen características manuales y automáticas. Su ve
 
 Se pueden agregar ítems de forma manual y configurar filtros automáticos en la colección. Esta puede ser creada y editada en el CMS, así como en el módulo de Colecciones Beta.
 
-Para configurar las colecciones híbridas, acceda a los artículos [Registrar Colecciones por el CMS](/es/docs/tutorials/registrar-una-coleccion-cms) y [Crear Colecciones Beta](/es/docs/tutorials/registrar-colecciones-beta).
+Para configurar las colecciones híbridas, acceda a los artículos [Registrar una colección CMS](https://help.vtex.com/es/docs/tutorials/registrar-una-coleccion-cms) y [Registrar Colecciones (Beta)](https://help.vtex.com/es/docs/tutorials/registrar-colecciones-beta).
