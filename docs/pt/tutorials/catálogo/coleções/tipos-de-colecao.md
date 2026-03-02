@@ -3,7 +3,7 @@ title: 'Tipos de Coleção'
 id: 5tKnhh8tMGIrVL7Fqirq7n
 status: PUBLISHED
 createdAt: 2020-08-25T19:44:32.708Z
-updatedAt: 2020-12-08T14:42:29.232Z
+updatedAt: 2020-03-02T14:42:29.232Z
 publishedAt: 2020-12-08T14:42:29.232Z
 firstPublishedAt: 2020-09-02T15:21:27.419Z
 contentType: tutorial
@@ -25,11 +25,11 @@ Na VTEX, temos três possibilidades de configuração de Coleções:
 - Automática
 - Híbrida
 
-| Coleção  | Onde configurar   | Adição de produtos  | Ordenação    |
-| ---------- | -----------------------------|------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
-| Manual   | CMS e módulo de Coleções Beta | No CMS: por seleção de SKUs No Coleções Beta: por refinamento de busca e filtros de produtos | No CMS: sem controleNo Coleções Beta: controle total |
+| Coleção | Onde configurar | Adição de produtos | Ordenação |
+| :--- | :--- | :--- | :--- |
+| Manual | CMS e módulo de Coleções Beta | No CMS: por seleção de SKUs No Coleções Beta: por refinamento de busca e filtros de produtos | No CMS: sem controleNo Coleções Beta: controle total |
 | Automática | CMS | Criada por filtros de Marca ou Categoria | Sem controle |
-| Híbrida    | CMS e módulo de Coleções Beta | Criada por filtros de Marca ou Categoria. Também é possível adicionar os produtos manualmente| Sem controle        |
+| Híbrida | CMS e módulo de Coleções Beta | Criada por filtros de Marca ou Categoria. Também é possível adicionar os produtos manualmente| Sem controle |
 
 > ⚠️ Coleções criadas no módulo CMS e com mais de um [grupo](/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L#) não podem ser reordenadas no novo módulo de Coleções Beta. Indicamos que você não altere a ordenação, pois pode comprometer eficiência da funcionalidade.
 
