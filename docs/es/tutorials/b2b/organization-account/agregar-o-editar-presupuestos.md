@@ -4,7 +4,7 @@ createdAt: '2025-02-27T10:00:00.000Z'
 updatedAt: '2025-02-27T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
-slugEN: add-or-edit-budgets
+slugEN: adding-or-editing-budgets
 locale: es
 ---
 

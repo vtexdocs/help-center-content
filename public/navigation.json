@@ -17175,29 +17175,14 @@
               "children": [
                 {
                   "name": {
-                    "en": "Add or edit budgets",
+                    "en": "Adding or editing budgets",
                     "es": "Agregar o editar presupuestos",
                     "pt": "Adicionar ou editar budgets"
                   },
                   "slug": {
-                    "en": "add-or-edit-budgets",
+                    "en": "adding-or-editing-budgets",
                     "es": "agregar-o-editar-presupuestos",
                     "pt": "adicionar-ou-editar-budgets"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Add or edit custom checkout fields",
-                    "es": "Agregar o editar campos personalizables del checkout",
-                    "pt": "Adicionar ou editar campos customizáveis do checkout"
-                  },
-                  "slug": {
-                    "en": "add-or-edit-custom-checkout-fields",
-                    "es": "agregar-o-editar-campos-personalizables-del-checkout",
-                    "pt": "adicionar-ou-editar-campos-customizaveis"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17213,6 +17198,21 @@
                     "en": "adding-or-editing-buying-policies",
                     "es": "agregar-o-editar-politicas-de-compras",
                     "pt": "adicionar-ou-editar-buying-policies"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Adding or editing custom checkout fields",
+                    "es": "Agregar o editar campos personalizables del checkout",
+                    "pt": "Adicionar ou editar campos customizáveis do checkout"
+                  },
+                  "slug": {
+                    "en": "adding-or-editing-custom-checkout-fields",
+                    "es": "agregar-o-editar-campos-personalizables-del-checkout",
+                    "pt": "adicionar-ou-editar-campos-customizaveis"
                   },
                   "origin": "",
                   "type": "markdown",
