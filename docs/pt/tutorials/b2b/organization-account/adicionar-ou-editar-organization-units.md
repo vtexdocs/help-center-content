@@ -28,7 +28,4 @@ Este artigo orienta os usuários no gerenciamento de organization units e está 
     ![organization_units_image_initial_org_account_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buying_policies_image_initial_org_account_page_PT.png)
 
 2. Na tela **Organization Units**, clique no ícone `+` no topo da tela para adicionar uma nova organization unit.
-
-3. Preencha os campos obrigatórios:
-    * **Name:** nome da organization unit.
-    * **Description:** descrição da organization unit.
+3. No campo **Parent**, clique no menu dropdown e selecione a 
