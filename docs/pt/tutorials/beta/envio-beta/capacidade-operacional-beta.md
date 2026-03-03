@@ -56,7 +56,7 @@ O gráfico apresenta os dados abaixo:
 * **Total de sellers:** quantidade total de sellers da sua operação.
 * **Ativos:** quantidade de sellers que estão recebendo novos pedidos, sejam sellers com um limite de capacidade configurado ou com capacidade ilimitada.
 * **Pausados:** quantidade de sellers que foram pausados e não estão recebendo novos pedidos.
-* **Número de sellers que excederam a capacidade:** número de sellers que recebeu mais pedidos do que o limite configurado. Você pode escolher visualizar resultados dos últimos `7 dias` ou `28 dias`.
+* **Número de sellers que excederam a capacidade:** número de sellers que receberam mais pedidos do que o limite configurado. Você pode escolher visualizar resultados dos últimos `7 dias` ou `28 dias`.
 
 A página **Capacidade operacional (Beta)** apresenta as seguintes informações:
 
