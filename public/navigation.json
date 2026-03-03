@@ -39849,13 +39849,13 @@
             {
               "name": {
                 "en": "Collections doesn't work in custom search results pages in B2B Suite",
-                "es": "Las colecciones no funcionan en las páginas de resultados de búsqueda personalizadas en B2B Suite",
-                "pt": "As coleções não funcionam em páginas de resultados de pesquisa personalizados no B2B Suite"
+                "es": "Las colecciones no funcionan en las páginas de resultados de búsqueda personalizadas de B2B Suite.",
+                "pt": "As coleções não funcionam nas páginas de resultados de pesquisa personalizadas no B2B Suite."
               },
               "slug": {
                 "en": "collections-doesnt-work-in-custom-search-results-pages-in-b2b-suite",
-                "es": "las-colecciones-no-funcionan-en-las-paginas-de-resultados-de-busqueda-personalizadas-en-b2b-suite",
-                "pt": "as-colecoes-nao-funcionam-em-paginas-de-resultados-de-pesquisa-personalizados-no-b2b-suite"
+                "es": "las-colecciones-no-funcionan-en-las-paginas-de-resultados-de-busqueda-personalizadas-de-b2b-suite",
+                "pt": "as-colecoes-nao-funcionam-nas-paginas-de-resultados-de-pesquisa-personalizadas-no-b2b-suite"
               },
               "origin": "",
               "type": "markdown",
@@ -51195,13 +51195,13 @@
             {
               "name": {
                 "en": "Products with selling price is zero cannot be added to the cart in FastStore",
-                "es": "Los productos cuyo precio de venta es cero no se pueden añadir al carrito en FastStore",
-                "pt": "Produtos com preço de venda igual a zero não podem ser adicionados ao carrinho no FastStore"
+                "es": "Los productos con precio de venta cero no se pueden añadir al carrito en FastStore.",
+                "pt": "Os produtos com preço de venda zero não podem ser adicionados ao carrinho no FastStore."
               },
               "slug": {
                 "en": "products-with-selling-price-is-zero-cannot-be-added-to-the-cart-in-faststore",
-                "es": "los-productos-cuyo-precio-de-venta-es-cero-no-se-pueden-anadir-al-carrito-en-faststore",
-                "pt": "produtos-com-preco-de-venda-igual-a-zero-nao-podem-ser-adicionados-ao-carrinho-no-faststore"
+                "es": "los-productos-con-precio-de-venta-cero-no-se-pueden-anadir-al-carrito-en-faststore",
+                "pt": "os-produtos-com-preco-de-venda-zero-nao-podem-ser-adicionados-ao-carrinho-no-faststore"
               },
               "origin": "",
               "type": "markdown",
@@ -51232,6 +51232,21 @@
                 "en": "redirects-for-preview-links-when-using-in-the-final-of-the-url",
                 "es": "redirecciones-para-los-enlaces-de-previsualizacion-cuando-se-utiliza-en-la-parte-final-de-la-url",
                 "pt": "redirecionamentos-para-links-de-visualizacao-ao-usar-no-final-do-url"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Secrets take hours to propagate to builds in WebOps (FastStore Platform)",
+                "es": "Los secretos tardan horas en propagarse a las compilaciones en WebOps (plataforma FastStore).",
+                "pt": "Os segredos levam horas para serem propagados para as compilações no WebOps (Plataforma FastStore)"
+              },
+              "slug": {
+                "en": "secrets-take-hours-to-propagate-to-builds-in-webops-faststore-platform",
+                "es": "los-secretos-tardan-horas-en-propagarse-a-las-compilaciones-en-webops-plataforma-faststore",
+                "pt": "os-segredos-levam-horas-para-serem-propagados-para-as-compilacoes-no-webops-plataforma-faststore"
               },
               "origin": "",
               "type": "markdown",
