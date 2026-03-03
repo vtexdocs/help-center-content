@@ -23,9 +23,9 @@ Este artigo orienta os usuários no gerenciamento de organization units e está 
 
 ## Adicionar organization unit
 
-1. Na página da Organizational Unit, na seção **Finance and Compliance**, clique em `Organization Units`.
+1. Na página da Organizational Unit, na seção **Organization**, clique em `Organization Units`.
 
-    ![organization_units_image_initial_org_account_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/organization_units_image_initial_org_account_page_PT.png)
+    ![organization_units_image_initial_org_account_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buying_policies_image_initial_org_account_page_PT.png)
 
 2. Na tela **Organization Units**, clique no ícone `+` no topo da tela para adicionar uma nova organization unit.
 
