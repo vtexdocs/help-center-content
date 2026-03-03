@@ -10,10 +10,14 @@ locale: pt
 
 > ⚠️ Esta funcionalidade está disponível apenas para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
 
-As Organization Units são unidades organizacionais que permitem gerenciar os membros da organização. Elas são usadas para agrupar membros da organização e para aplicar políticas de compra e de orçamento.
+**Organization Units** (OU) são unidades organizacionais que permitem gerenciar os membros da organização. Elas são usadas para agrupar membros da organização e para aplicar políticas de compra e de orçamento.
 
-Nesta página, é possível realizar as seguintes ações:
+Este artigo orienta os usuários no gerenciamento de organization units e está dividido nas seguintes seções:
 
-* [Adicionar uma Organization Unit](#adicionar-uma-organization-unit)
-* [Editar uma Organization Unit](#editar-uma-organization-unit)
-* [Remover uma Organization Unit](#remover-uma-organization-unit)
+* Adicionar organization unit
+* Ver página de detalhes
+* Editar organization unit
+* Remover organization unit
+
+> ⚠️ Para configurar organization units, o perfil de [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ter o recurso `XXX`.
+
