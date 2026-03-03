@@ -17128,6 +17128,21 @@
                 },
                 {
                   "name": {
+                    "en": "Contracts Manager Agent",
+                    "es": "Contracts Manager Agent",
+                    "pt": "Contracts Manager Agent"
+                  },
+                  "slug": {
+                    "en": "contracts-manager-agent",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Custom checkout fields",
                     "es": "Campos personalizables del checkout",
                     "pt": "Campos customizáveis no checkout"
@@ -61474,6 +61489,21 @@
                 "en": "problems-with-payment-condition-storage",
                 "es": "problemas-con-el-almacenamiento-de-las-condiciones-de-pago",
                 "pt": "problemas-com-o-armazenamento-das-condicoes-de-pagamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Redirect page does not open for credit card payments when using Defense Mode/Trigger: suspicious",
+                "es": "La página de redireccionamiento no se abre para los pagos con tarjeta de crédito cuando se utiliza el modo de defensa/activador: sospechoso.",
+                "pt": "A página de redirecionamento não abre para pagamentos com cartão de crédito ao usar o Modo de Defesa/Gatilho: suspeito"
+              },
+              "slug": {
+                "en": "redirect-page-does-not-open-for-credit-card-payments-when-using-defense-modetrigger-suspicious",
+                "es": "la-pagina-de-redireccionamiento-no-se-abre-para-los-pagos-con-tarjeta-de-credito-cuando-se-utiliza-el-modo-de-defensaactivador-sospechoso",
+                "pt": "a-pagina-de-redirecionamento-nao-abre-para-pagamentos-com-cartao-de-credito-ao-usar-o-modo-de-defesagatilho-suspeito"
               },
               "origin": "",
               "type": "markdown",
