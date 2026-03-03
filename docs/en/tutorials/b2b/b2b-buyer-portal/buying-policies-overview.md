@@ -8,7 +8,7 @@ slugEN: buying-policies-overview
 locale: en
 ---
 
-> ⚠️ The **Buying policies** feature is only available for the **B2B Buyer Portal**.
+> ⚠️ This feature is only available for stores using B2B Buyer Portal, which is currently available to select accounts.
 
 **Buying policies** is a feature that allows users to configure mechanisms and define criteria to automatically authorize or deny orders. It operates as a control layer in the purchasing process, allowing users to create customized order review workflows.
 

@@ -8,7 +8,7 @@ slugEN: buying-policies-overview
 locale: es
 ---
 
-> ⚠️ La funcionalidad **Políticas de compras** está disponible solo para **B2B Buyer Portal**.
+> ⚠️ Esta funcionalidad solo está disponible para tiendas que usan B2B Buyer Portal, actualmente está disponible para cuentas seleccionadas.
 
 La funcionalidad **Políticas de compras** permite que los usuarios de la organización compradora configuren mecanismos y definan criterios para autorizar o denegar pedidos automáticamente. Esta solución actúa como una capa de control en el proceso de compra, facilitando la creación de flujos personalizados para la revisión de pedidos.
 

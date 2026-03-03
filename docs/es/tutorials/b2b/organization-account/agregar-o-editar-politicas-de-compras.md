@@ -8,7 +8,7 @@ slugEN: adding-or-editing-buying-policies
 locale: es
 ---
 
-> ⚠️ La funcionalidad **Política de compras** está disponible solo para **B2B Buyer Portal**.
+> ⚠️ Esta funcionalidad solo está disponible para tiendas que usan B2B Buyer Portal, actualmente está disponible para cuentas seleccionadas.
 
 [Política de compras](https://help.vtex.com/es/docs/tutorials/politicas-de-compras) es la funcionalidad que permite a los usuarios de la organización compradora configurar reglas para autorizar o denegar pedidos automáticamente. Los mecanismos dinámicos de esta solución fortalecen la gobernanza de la organización y promueven el cumplimiento de las políticas de compras vigentes.
 
