@@ -21,8 +21,8 @@ Based on analysis of **392 announcement files** in `docs/es/announcements`, this
 | **Marketplace** | Marketplace Network, integration, seller, channels |
 | **Intelligent Search** | Search functionality, merchandising rules |
 | **CMS** | Headless CMS, Site Editor, Store Framework, content management |
-| **Audit** | Audit events |
 | **Master Data** | Data entities, triggers, customer data |
+| **Audit** | Audit events |
 | **Identity** | License Manager, permissions, authentication |
 | **Logistics** | Shipping, inventory, fulfillment |
 | **B2B** | B2B Suit, buyer organizations, cost centers |
