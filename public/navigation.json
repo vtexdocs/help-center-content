@@ -47514,13 +47514,13 @@
             {
               "name": {
                 "en": "Shopper is redirect to gatewayCallback/{orderGroup}/Success instead of placeOrder page",
-                "es": "El comprador es redirigido a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder",
-                "pt": "O comprador é redirecionado para a página gatewayCallback/{orderGroup}/Success em vez da página placeOrder"
+                "es": "El comprador es redirigido a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder.",
+                "pt": "O comprador é redirecionado para gatewayCallback/{orderGroup}/Success em vez da página placeOrder."
               },
               "slug": {
                 "en": "shopper-is-redirect-to-gatewaycallbackordergroupsuccess-instead-of-placeorder-page",
                 "es": "el-comprador-es-redirigido-a-gatewaycallbackordergroupsuccess-en-lugar-de-a-la-pagina-placeorder",
-                "pt": "o-comprador-e-redirecionado-para-a-pagina-gatewaycallbackordergroupsuccess-em-vez-da-pagina-placeorder"
+                "pt": "o-comprador-e-redirecionado-para-gatewaycallbackordergroupsuccess-em-vez-da-pagina-placeorder"
               },
               "origin": "",
               "type": "markdown",
@@ -58026,6 +58026,21 @@
             },
             {
               "name": {
+                "en": "Orders that fail to reach the \"invoiced\" status even after the invoice has been correctly entered.",
+                "es": "Pedidos que no alcanzan el estado «facturado» incluso después de que la factura se haya introducido correctamente.",
+                "pt": "Pedidos que não alcançam o status \"faturado\" mesmo após a fatura ter sido inserida corretamente."
+              },
+              "slug": {
+                "en": "orders-that-fail-to-reach-the-invoiced-status-even-after-the-invoice-has-been-correctly-entered",
+                "es": "pedidos-que-no-alcanzan-el-estado-facturado-incluso-despues-de-que-la-factura-se-haya-introducido-correctamente",
+                "pt": "pedidos-que-nao-alcancam-o-status-faturado-mesmo-apos-a-fatura-ter-sido-inserida-corretamente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Orders with a 'Creation Error' remain stuck in a 'cancel' status",
                 "es": "Los pedidos con un 'Error de creación' permanecen atascados en estado 'cancelado'.",
                 "pt": "Os pedidos com um 'Erro de criação' permanecem presos em um status de 'cancelar'"
@@ -61315,12 +61330,12 @@
             {
               "name": {
                 "en": "Redirect page does not open for credit card payments when using Defense Mode/Trigger: suspicious",
-                "es": "La página de redireccionamiento no se abre para los pagos con tarjeta de crédito cuando se utiliza el modo de defensa/activador: sospechoso.",
+                "es": "La página de redireccionamiento no se abre para los pagos con tarjeta de crédito cuando se utiliza el modo de defensa/desencadenante: sospechoso.",
                 "pt": "A página de redirecionamento não abre para pagamentos com cartão de crédito ao usar o Modo de Defesa/Gatilho: suspeito"
               },
               "slug": {
                 "en": "redirect-page-does-not-open-for-credit-card-payments-when-using-defense-modetrigger-suspicious",
-                "es": "la-pagina-de-redireccionamiento-no-se-abre-para-los-pagos-con-tarjeta-de-credito-cuando-se-utiliza-el-modo-de-defensaactivador-sospechoso",
+                "es": "la-pagina-de-redireccionamiento-no-se-abre-para-los-pagos-con-tarjeta-de-credito-cuando-se-utiliza-el-modo-de-defensadesencadenante-sospechoso",
                 "pt": "a-pagina-de-redirecionamento-nao-abre-para-pagamentos-com-cartao-de-credito-ao-usar-o-modo-de-defesagatilho-suspeito"
               },
               "origin": "",
