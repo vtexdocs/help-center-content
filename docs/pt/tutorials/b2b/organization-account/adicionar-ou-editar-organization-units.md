@@ -8,16 +8,27 @@ slugEN: adding-or-editing-organization-units
 locale: pt
 ---
 
-> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
+> ⚠️ A funcionalidade **Organization Units** está disponível apenas para o **B2B Buyer Portal**.
 
-**Organization Units** (OU) são unidades organizacionais que permitem gerenciar os membros da organização. Elas são usadas para agrupar membros da organização e para aplicar políticas de compra e de orçamento.
+**Organization Units** (OU) são unidades organizacionais que permitem às empresas gerenciar suas estrutura enquanto uma unidade hierarquizada, com orçamento próprio, fluxos internos de aprovação, autonomia de compra e outras divisões internas.
 
 Este artigo orienta os usuários no gerenciamento de organization units e está dividido nas seguintes seções:
 
 * Adicionar organization unit
-* Ver página de detalhes
+* Ver hierarquia da organization unit
 * Editar organization unit
 * Remover organization unit
 
-> ⚠️ Para configurar organization units, o perfil de [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ter o recurso `XXX`.
+> ⚠️ Para configurar organization units, o perfil de [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ter o perfil `Super Buyer Admin` ou o recurso `ManageOrganizationHierarchy`.
 
+## Adicionar organization unit
+
+1. Na página da Organizational Unit, na seção **Finance and Compliance**, clique em `Organization Units`.
+
+    ![organization_units_image_initial_org_account_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/organization_units_image_initial_org_account_page_PT.png)
+
+2. Na tela **Organization Units**, clique no ícone `+` no topo da tela para adicionar uma nova organization unit.
+
+3. Preencha os campos obrigatórios:
+    * **Name:** nome da organization unit.
+    * **Description:** descrição da organization unit.
