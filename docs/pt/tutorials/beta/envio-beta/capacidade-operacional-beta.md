@@ -63,7 +63,7 @@ A página **Capacidade operacional (Beta)** apresenta as seguintes informações
 | **Coluna** | **Descrição** |
 |:---:|:---|
 | Seller | Identificação do [seller](/pt/docs/tutorials/o-que-e-um-seller) a que se refere a capacidade operacional. |
-| Segmentação | Identificação do tipo de segmentação realizada pela capacidade operacional. São dois tipos de segmentação: por sellers ou por [canal de venda](https://help.vtex.com/pt/docs/tutorials/como-funciona-uma-politica-comercial). |
+| Segmentação | Identificação do tipo de segmentação realizada pela capacidade operacional. São dois tipos de segmentação: por sellers ou por [política comercial](https://help.vtex.com/pt/docs/tutorials/como-funciona-uma-politica-comercial). |
 | Capacidade utilizada | Porcentagem da capacidade operacional do seller que foi utilizada no dia.**Exemplo:** um seller com capacidade para preparar 100 pedidos diários está com 80% de sua capacidade do dia utilizada. Portanto, ele só pode receber 20 novos pedidos naquele dia.Nesta coluna, aparece um ícone de alerta quando 100% da capacidade do seller é atingida e ele não pode receber novos pedidos no dia.Você pode [editar a capacidade operacional dos sellers](#editar-capacidade-operacional-do-seller) de forma individual ou massiva. |
 | Status | Status da capacidade operacional do seller, que pode ser de dois tipos:<ul><li><i class="fas fa-toggle-on" aria-hidden="true"></i> **Ativo:** o toggle está acionado e o seller pode receber novos pedidos, seja por estar dentro do limite da capacidade que foi configurado, seja por ser um seller de capacidade ilimitada.</li><li><i class="fas fa-toggle-off"></i> **Pausado:** o toggle está desativado e o seller não pode receber novos pedidos.</li>Para escolher quando pausar um seller, veja a seção [Escolher entre editar capacidade operacional do seller, torná-la ilimitada ou pausar seller](#escolher-entre-editar-capacidade-operacional-do-seller-torna-la-ilimitada-ou-pausar-seller-ou-desabilitar-modulo). |
 
@@ -143,6 +143,8 @@ O gráfico **Status da capacidade operacional** apresenta, em tempo real, a porc
 
 Se você configurar no seller a [regra](#iii-regra) *Continuar a receber pedidos consumindo a capacidade dos dias seguintes*, o gráfico vai apresentar a porcentagem da capacidade operacional dos dias seguintes que já foi consumida a partir de pedidos de dias anteriores. Saiba mais em [Editar capacidade operacional do seller](#editar-capacidade-operacional-do-seller).
 
+![operational_capacity_image_3_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/capacidade-operacional-beta_3.png)
+
 ### Editar capacidade operacional do seller
 
 Na seção **Capacidade operacional**, você visualiza as configurações atuais da capacidade operacional do seller para cada dia da semana. Para alterar essas configurações, siga os passos abaixo:
@@ -153,8 +155,9 @@ Na seção **Capacidade operacional**, você visualiza as configurações atuais
     * [I - Unidade da capacidade operacional](#i-unidade-da-capacidade-operacional)
     * [II - Capacidade](#ii-capacidade)
     * [III - Regra](#iii-regra)
-4. Clique em `+ Adicionar capacidade por canal de venda` para configurar a segmentação da capacidade operecional por canal de venda. Selecione na seção **Segmentação por canal de venda** os canais de venda que deseja incluir.
+4. Clique em `+ Adicionar capacidade por política comercial` para configurar a segmentação da capacidade operecional por política comercial. Selecione na seção **Segmentação por política comercial** as políticas comerciais que deseja incluir.
 5. Clique em `Salvar alterações`.
+
 
 Veja a seguir as descrições dos campos mencionados no passo a passo.
 
