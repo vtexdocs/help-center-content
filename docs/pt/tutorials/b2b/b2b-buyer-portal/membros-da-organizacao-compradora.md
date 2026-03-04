@@ -1,7 +1,7 @@
 ---
 title: 'Membros da organização compradora'
 createdAt: '2025-02-06T10:00:00.000Z'
-updatedAt: '2025-02-06T10:00:00.000Z'
+updatedAt: '2025-03-03T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: buyer-organization-members
@@ -9,6 +9,8 @@ locale: pt
 ---
 
 Em uma organização compradora B2B, os membros são as pessoas que interagem com a loja em nome da organização. Suas ações são definidas pelos perfis de acesso e permissões atribuídos a eles e pela forma como a organização usa **informações de contato** e **dados do comprador**. Este artigo explica os tipos de membros e conceitos relacionados para que você entenda quem pode fazer o quê na sua organização.
+
+> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
 
 ## Perfis de acesso baseados em permissão
 
@@ -23,7 +25,6 @@ A tabela abaixo resume os principais perfis de acesso e suas funções:
 | **Comprador** | Pode realizar pedidos na loja. |
 | **Aprovador de pedidos** | Pode aprovar ou rejeitar pedidos de acordo com os fluxos de aprovação configurados. |
 | **Modificador de pedidos** | Pode usar a funcionalidade de alteração de pedido nos pedidos aos quais tem acesso. |
-| **Gerente de usuários** | Pode criar, editar e remover usuários na organização. |
 | **Gerente de endereços** | Pode adicionar endereços durante o checkout, salvá-los para o contrato ou unidade organizacional, alterar informações de endereço no checkout e visualizar endereços salvos. |
 | **Gerente da organização compradora** | Pode visualizar todos os pedidos da sua unidade organizacional, gerenciar configurações de autenticação, visualizar cartões de pagamento e visualizar endereços. |
 | **Gerente de contrato** | Pode visualizar pedidos realizados sob o contrato atribuído a ele. |
@@ -42,7 +43,7 @@ As informações de contato são gerenciadas no nível da organização. Os cont
 
 Para detalhes técnicos sobre como criar, atualizar e integrar informações de contato via APIs, consulte a [API de informações de contato B2B](https://developers.vtex.com/docs/api-reference/b2b-contact-information-api).
 
-## Compradores (dados do comprador/consumidor)
+## Compradores
 
 **Compradores** são usuários que podem realizar pedidos e estão associados à organização compradora. Os dados do comprador são as informações que identificam e descrevem esses usuários no contexto da loja e dos fluxos de pedidos, por exemplo, para checkout e histórico de pedidos.
 
