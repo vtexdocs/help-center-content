@@ -10,7 +10,7 @@ locale: pt
 
 > ⚠️ A funcionalidade **Scopes** é exclusiva para o **B2B Buyer Portal**, que está disponível apenas para contas selecionadas.
 
-Na estrutura hierarquizada de uma empresa B2B, as [Organizational Units](link-org-unit-overview) possuem os chamados **Scopes**, que são um tipo de container que agrupa atributos dessas unidades.
+Na estrutura hierárquica de uma empresa B2B, as [Organizational Units](https://help.vtex.com/pt/docs/tutorials/organizational-units-overview) possuem os chamados **Scopes**, que funcionam como um container que agrupa atributos dessas unidades.
 
 Cada organization unit possui um scope próprio, e as informações que ele concentra podem incluir:
 
@@ -24,10 +24,10 @@ Cada organization unit possui um scope próprio, e as informações que ele conc
 
 ## Permissões de Storefront
 
-Para visualizar e gerenciar os scopes de uma organization unit, o perfil de [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ter os recursos `View_Organization_Unit` e `Edit_Organization_Unit`.
+Para visualizar e gerenciar o scope de uma organizational unit, o perfil de [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ter os recursos `View_Organization_Unit` e `Edit_Organization_Unit`.
 
 > ℹ️ Para mais informações, veja o artigo [Membros da organização compradora](https://help.vtex.com/pt/docs/tutorials/membros-da-organizacao-compradora).
 
 ## Gerenciar scopes
 
-A interface da Organization Account não possui uma configuração específica para **Scopes**, mas é possível gerenciá-los via API, utilizando a [Organization Units API](https://developers.vtex.com/docs/api-reference/organization-units-api#overview).
+A interface da Organization Account não possui uma tela dedicada à configuração de **Scopes**. O gerenciamento é feito via API, por meio da [Organization Units API](https://developers.vtex.com/docs/api-reference/organization-units-api#overview).
