@@ -10,7 +10,7 @@ locale: pt
 
 > ⚠️ A funcionalidade **Organization Units** está disponível apenas para o **B2B Buyer Portal**.
 
-**Organization Units** (OU) são unidades organizacionais que permitem às empresas gerenciar suas estrutura enquanto uma unidade hierarquizada, com orçamento próprio, fluxos internos de aprovação, autonomia de compra e outras divisões internas.
+**Organization Units** (OU) são unidades organizacionais que permitem às empresas gerenciar suas estrutura enquanto uma unidade hierarquizada, com orçamento próprio, fluxos internos de aprovação, autonomia de compra e outros.
 
 Este artigo orienta os usuários no gerenciamento de organization units e está dividido nas seguintes seções:
 
@@ -19,7 +19,7 @@ Este artigo orienta os usuários no gerenciamento de organization units e está 
 * Editar organization unit
 * Remover organization unit
 
-> ⚠️ Para configurar organization units, o perfil de [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ter o perfil `Super Buyer Admin` ou o recurso `ManageOrganizationHierarchy`.
+> ⚠️ Para configurar organization units, o perfil de [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ser `Super Buyer Admin` ou ter o recurso `ManageOrganizationHierarchy`.
 
 ## Adicionar organization unit
 
