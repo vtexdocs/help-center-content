@@ -36,9 +36,9 @@ Este artigo orienta os usuários no gerenciamento de organization units e está 
 Após adicionar uma nova organization unit, você pode realizar as seguintes ações:
 
 * Renomear
+* Adicionar endereço
 * Adicionar usuários
 * Adicionar organization unit subordinada
-* Adicionar endereço
 
 ### Renomear organization unit
 
@@ -46,3 +46,15 @@ Após adicionar uma nova organization unit, você pode realizar as seguintes aç
 2. Clique em **Rename**.
 3. Faça as alterações desejadas no nome da organization unit.
 4. Clique em **Save**.
+
+### Adicionar endereço
+
+1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no botão de menu <i class="fas fa-ellipsis-v"></i> ao lado do nome da organization unit.
+2. Clique em **Add Address**.
+3. Preencha as informações necessárias sobre o novo endereço.
+4. Clique em **Save**.
+
+### Adicionar usuários
+
+1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no botão de menu <i class="fas fa-ellipsis-v"></i> ao lado do nome da organization unit.
+2. Clique em **Add Users**.
