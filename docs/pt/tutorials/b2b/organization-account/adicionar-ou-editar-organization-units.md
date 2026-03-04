@@ -15,8 +15,7 @@ locale: pt
 Este artigo orienta os usuários no gerenciamento de organization units e está dividido nas seguintes seções:
 
 * Adicionar organization unit
-* Ver hierarquia da organization unit
-* Editar organization unit
+* Gerenciar organization unit
 * Remover organization unit
 
 > ⚠️ Para configurar organization units, o perfil de [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ser `Super Buyer Admin` ou ter o recurso `ManageOrganizationHierarchy`.
@@ -31,3 +30,19 @@ Este artigo orienta os usuários no gerenciamento de organization units e está 
 3. No campo **Parent**, clique no menu dropdown e selecione a opção desejada para ser a unidade raiz à qual sua organization unit estará subordinada.
 
 > ℹ️ É possível que este campo já esteja selecionado e não permita alterações. Isso ocorre quando existe somente a unidade organizacional raiz acima da unidade sendo criada.
+
+## Gerenciar organization unit
+
+Após adicionar uma nova organization unit, você pode realizar as seguintes ações:
+
+* Renomear
+* Adicionar usuários
+* Adicionar organization unit subordinada
+* Adicionar endereço
+
+### Renomear organization unit
+
+1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no botão de menu <i class="fas fa-ellipsis-v"></i> ao lado do nome da organization unit.
+2. Clique em **Rename**.
+3. Faça as alterações desejadas no nome da organization unit.
+4. Clique em **Save**.
