@@ -30,4 +30,4 @@ Para visualizar e gerenciar o scope de uma organizational unit, o perfil de [Sto
 
 ## Gerenciar scopes
 
-A interface da Organization Account não possui uma tela dedicada à configuração de **Scopes**. O gerenciamento é feito via API, por meio da [Organization Units API](https://developers.vtex.com/docs/api-reference/organization-units-api#overview).
+A interface da Organization Account não possui uma tela dedicada à configuração de **Scopes**. Atualmente, o gerenciamento é feito somente via API, por meio da [Organization Units API](https://developers.vtex.com/docs/api-reference/organization-units-api#overview).
