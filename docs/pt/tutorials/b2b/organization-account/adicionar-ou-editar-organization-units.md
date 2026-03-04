@@ -15,7 +15,10 @@ locale: pt
 Este artigo orienta os usuários no gerenciamento de organization units e está dividido nas seguintes seções:
 
 * Adicionar organization unit
-* Gerenciar organization unit
+* Renomear
+* Adicionar endereço
+* Adicionar usuário
+* Adicionar organization unit subordinada
 * Remover organization unit
 
 > ⚠️ Para configurar organization units, o perfil de [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ser `Super Buyer Admin` ou ter o recurso `ManageOrganizationHierarchy`.
@@ -31,30 +34,21 @@ Este artigo orienta os usuários no gerenciamento de organization units e está 
 
 > ℹ️ É possível que este campo já esteja selecionado e não permita alterações. Isso ocorre quando existe somente a unidade organizacional raiz acima da unidade sendo criada.
 
-## Gerenciar organization unit
-
-Após adicionar uma nova organization unit, você pode realizar as seguintes ações:
-
-* Renomear
-* Adicionar endereço
-* Adicionar usuário
-* Adicionar organization unit subordinada
-
-### Renomear organization unit
+## Renomear organization unit
 
 1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no botão de menu <i class="fas fa-ellipsis-v"></i> ao lado do nome da organization unit.
 2. Clique em `Rename`.
 3. Faça as alterações desejadas no nome da organization unit.
 4. Clique em `Save`.
 
-### Adicionar endereço
+## Adicionar endereço
 
 1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no botão de menu <i class="fas fa-ellipsis-v"></i> ao lado do nome da organization unit.
 2. Clique em `Add Address`.
 3. Preencha as informações de endereço.
 4. Clique em `Add`.
 
-### Adicionar usuário
+## Adicionar usuário
 
 1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no botão de menu <i class="fas fa-ellipsis-v"></i> ao lado do nome da organization unit.
 2. Clique em `Add User`.
@@ -70,3 +64,5 @@ Após adicionar uma nova organization unit, você pode realizar as seguintes aç
 5. Clique em `Add`.
 
 Feito isso, um email será enviado para o usuário adicionado.
+
+## Adicionar organization unit subordinada
