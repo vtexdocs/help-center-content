@@ -10,7 +10,7 @@ locale: pt
 
 > ⚠️ A funcionalidade **Organization Units** está disponível apenas para o **B2B Buyer Portal**.
 
-**Organization Units** (OU) são unidades organizacionais que permitem às empresas gerenciar suas estrutura interna de forma hierarquizada, com orçamento próprio, fluxos internos de aprovação, autonomia de compra e outros níveis de organização de subdivisões internas.
+**Organization Units** (OU) são unidades organizacionais que permitem às empresas gerenciar suas estrutura interna de forma hierarquizada, com orçamento próprio, fluxos internos de aprovação, autonomia de compra e outros níveis de organização. Dessa forma, a plataforma permite que uma única empresa B2B opere com múltiplas estruturas internas, mantendo consistência contratual e controle operacional.
 
 Este artigo orienta os usuários no gerenciamento de organization units e está dividido nas seguintes seções:
 
@@ -51,6 +51,9 @@ Após adicionar uma nova organization unit, você pode realizar as seguintes aç
 
 1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no botão de menu <i class="fas fa-ellipsis-v"></i> ao lado do nome da organization unit.
 2. Clique em **Add Address**.
+
+    > ⚠️ É possível que o botão **Add Address** não esteja disponível. Isso ocorre 
+
 3. Preencha as informações necessárias sobre o novo endereço.
 4. Clique em **Save**.
 
