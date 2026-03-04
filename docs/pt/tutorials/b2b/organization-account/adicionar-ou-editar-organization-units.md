@@ -10,7 +10,7 @@ locale: pt
 
 > ⚠️ A funcionalidade **Organization Units** está disponível apenas para o **B2B Buyer Portal**.
 
-**Organization Units** (OU) são unidades organizacionais que permitem às empresas gerenciar suas estrutura enquanto uma unidade hierarquizada, com orçamento próprio, fluxos internos de aprovação, autonomia de compra e outros.
+**Organization Units** (OU) são unidades organizacionais que permitem às empresas gerenciar suas estrutura interna de forma hierarquizada, com orçamento próprio, fluxos internos de aprovação, autonomia de compra e outros níveis de organização de subdivisões internas.
 
 Este artigo orienta os usuários no gerenciamento de organization units e está dividido nas seguintes seções:
 
@@ -27,5 +27,7 @@ Este artigo orienta os usuários no gerenciamento de organization units e está 
 
     ![organization_units_image_initial_org_account_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buying_policies_image_initial_org_account_page_PT.png)
 
-2. Na tela **Organization Units**, clique no ícone `+` no topo da tela para adicionar uma nova organization unit.
-3. No campo **Parent**, clique no menu dropdown e selecione a 
+2. Na tela **Organization Units**, clique no ícone `+` no topo da tela para criar uma nova organization unit.
+3. No campo **Parent**, clique no menu dropdown e selecione a opção desejada para ser a unidade raiz à qual sua organization unit estará subordinada.
+
+> ℹ️ É possível que este campo já esteja selecionado e não permita alterações. Isso ocorre quando existe somente a unidade organizacional raiz acima da unidade sendo criada.
