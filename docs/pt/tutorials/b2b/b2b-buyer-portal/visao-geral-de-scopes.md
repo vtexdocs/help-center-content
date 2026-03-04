@@ -12,11 +12,17 @@ locale: pt
 
 **Scopes** são os atributos específicos de uma [Organizational Unit](link), e incluem informações como IDs de contrato, IDs de coleção ou endereços.
 
-## Funcionamento geral
+## Dimensões de scopes
 
-* Possíveis dimensões de scope.
-* Implicações da hierarquia OU.
-* Casos de uso e exemplos.
+No sistema hierarquizado de Organizational Units (OU), cada unidade tem um scope único, que concentra dados como:
+
+* IDs de contratos
+* IDs de sistemas de pagamento
+* IDs de cartões de crédito
+* Condições de pagamento
+* IDs de coleções
+* Tabelas de preços
+* Endereços
 
 ## Permissões de Storefront
 
