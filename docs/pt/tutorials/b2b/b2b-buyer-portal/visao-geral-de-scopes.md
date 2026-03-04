@@ -8,13 +8,11 @@ slugEN: scopes-overview
 locale: pt
 ---
 
-> ⚠️ A funcionalidade **Scopes** é exclusiva para o **B2B Buyer Portal**, atualmente disponível apenas para contas selecionadas.
+> ⚠️ A funcionalidade **Scopes** é exclusiva para o **B2B Buyer Portal**, disponível apenas para contas selecionadas.
 
-**Scopes** são os atributos específicos de uma [Organizational Unit](link), e incluem informações como IDs de contrato, IDs de coleção ou endereços.
+Na estrutura hierarquizada de uma empresa B2B, as [Organizational Units](link-org-unit-overview) possuem os chamados **Scopes**, que funcionam como containers para agrupar atributos das unidades.
 
-## Dimensões de scopes
-
-No sistema hierarquizado de Organizational Units (OU), cada unidade tem um scope único, que concentra dados como:
+Cada organization unit possui um scope próprio, e as informações que ele concentra são:
 
 * IDs de contratos
 * IDs de sistemas de pagamento
@@ -30,8 +28,6 @@ Para configurar os scopes da organização, o perfil de [Storefront Permissions]
 
 > ℹ️ Para mais informações, veja o artigo [Membros da organização compradora](https://help.vtex.com/pt/docs/tutorials/membros-da-organizacao-compradora).
 
-## Configurar scopes
+## Gerenciar scopes
 
-Os usuários podem adicionar, editar ou remover scopes pela interface da Organizational Unit. Para mais informações, confira o artigo [XXX](link).
-
-> ℹ️ Para gerenciar scopes via API, acesse a [Organization Units API](https://developers.vtex.com/docs/api-reference/organization-units-api#overview).
+A interface da Organization Account não possui uma configuração específica para **Scopes**, mas é possível gerenciá-los via API, utilizando os endpoints de scope da [Organization Units API](https://developers.vtex.com/docs/api-reference/organization-units-api#overview).
