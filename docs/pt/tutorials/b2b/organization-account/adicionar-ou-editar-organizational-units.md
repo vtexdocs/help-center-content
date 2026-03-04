@@ -1,16 +1,16 @@
 ---
-title: 'Adicionar ou editar Organization Units'
+title: 'Adicionar ou editar Organizational Units'
 createdAt: '2026-03-03T10:00:00.000Z'
 updatedAt: '2026-03-03T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
-slugEN: adding-or-editing-organization-units
+slugEN: adding-or-editing-organizational-units
 locale: pt
 ---
 
-> ⚠️ A funcionalidade **Organization Units** está disponível apenas para o **B2B Buyer Portal**.
+> ⚠️ A funcionalidade **Organization Units** é válida somente para o **B2B Buyer Portal**, atualmente disponível para contas selecionadas.
 
-**Organization Units** (OU) são unidades organizacionais que permitem às empresas gerenciar suas estrutura interna de forma hierarquizada, com orçamento próprio, fluxos internos de aprovação, autonomia de compra e outros níveis de organização. Dessa forma, a plataforma permite que uma única empresa B2B opere com múltiplas estruturas internas, mantendo consistência contratual e controle operacional.
+**Organization Units** (OU) são unidades organizacionais que permitem às empresas gerenciar suas estrutura interna de forma hierarquizada, com orçamento próprio, fluxos internos de aprovação, autonomia de compra e outros níveis de subdivisão. Dessa forma, a plataforma permite que uma única empresa B2B opere com múltiplas estruturas internas, mantendo consistência contratual e controle operacional.
 
 Este artigo orienta os usuários no gerenciamento de organization units e está dividido nas seguintes seções:
 
@@ -25,11 +25,11 @@ Este artigo orienta os usuários no gerenciamento de organization units e está 
 
 ## Adicionar organization unit
 
-1. Na página da Organizational Unit, na seção **Organization**, clique em `Organization Units`.
+1. Na página inicial da Organization Account, na seção **Organization**, clique em `Organizational Units`.
 
     ![organization_units_image_initial_org_account_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buying_policies_image_initial_org_account_page_PT.png)
 
-2. Na tela **Organization Units**, clique no ícone `+` no topo da tela para criar uma nova organization unit.
+2. Na tela **Organizational Units**, clique no ícone `+` no topo da tela para criar uma nova organization unit.
 3. No campo **Parent**, clique no menu dropdown e selecione a opção desejada para ser a unidade raiz à qual sua organization unit estará subordinada.
 
     > ℹ️ É possível que este campo já esteja selecionado e não permita alterações. Isso ocorre quando acima da unidade sendo criada existe somente a unidade organizacional raiz.
