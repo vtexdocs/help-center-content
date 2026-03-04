@@ -37,7 +37,7 @@ Após adicionar uma nova organization unit, você pode realizar as seguintes aç
 
 * Renomear
 * Adicionar endereço
-* Adicionar usuários
+* Adicionar usuário
 * Adicionar organization unit subordinada
 
 ### Renomear organization unit
