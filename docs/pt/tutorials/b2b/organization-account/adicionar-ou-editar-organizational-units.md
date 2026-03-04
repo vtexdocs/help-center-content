@@ -8,50 +8,50 @@ slugEN: adding-or-editing-organizational-units
 locale: pt
 ---
 
-> ⚠️ A funcionalidade **Organization Units** é válida somente para o **B2B Buyer Portal**, atualmente disponível para contas selecionadas.
+> ⚠️ A funcionalidade **Organizational Units** é válida somente para o **B2B Buyer Portal**, atualmente disponível para contas selecionadas.
 
-**Organization Units** (OU) são unidades organizacionais que permitem às empresas gerenciar suas estrutura interna de forma hierarquizada, com orçamento próprio, fluxos internos de aprovação, autonomia de compra e outros níveis de subdivisão. Dessa forma, a plataforma permite que uma única empresa B2B opere com múltiplas estruturas internas, mantendo consistência contratual e controle operacional.
+**Organizational Units** (OU) são unidades organizacionais que permitem às empresas gerenciar suas estrutura interna de forma hierarquizada, com orçamento próprio, fluxos internos de aprovação, autonomia de compra e outros níveis de subdivisão. Dessa forma, a plataforma permite que uma única empresa B2B opere com múltiplas estruturas internas, mantendo consistência contratual e controle operacional.
 
-Este artigo orienta os usuários no gerenciamento de organization units e está dividido nas seguintes seções:
+Este artigo orienta os usuários no gerenciamento de organizational units e está dividido nas seguintes seções:
 
-* Adicionar organization unit
-* Renomear organization unit
+* Adicionar organizational unit
+* Renomear organizational unit
 * Adicionar endereço
 * Adicionar usuário
-* Adicionar organization unit subordinada
-* Remover organization unit
+* Adicionar organizational unit subordinada
+* Remover organizational unit
 
-> ⚠️ Para configurar organization units, o perfil de [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ser `Super Buyer Admin` ou ter o recurso `ManageOrganizationHierarchy`.
+> ⚠️ Para configurar organizational units, o perfil de [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ser `Super Buyer Admin` ou ter o recurso `ManageOrganizationHierarchy`.
 
-## Adicionar organization unit
+## Adicionar organizational unit
 
 1. Na página inicial da Organization Account, na seção **Organization**, clique em `Organizational Units`.
 
     ![organization_units_image_initial_org_account_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buying_policies_image_initial_org_account_page_PT.png)
 
-2. Na tela **Organizational Units**, clique no ícone `+` no topo da tela para criar uma nova organization unit.
-3. No campo **Parent**, clique no menu dropdown e selecione a opção desejada para ser a unidade raiz à qual sua organization unit estará subordinada.
+2. Na tela **Organizational Units**, clique no ícone `+` no topo da tela para criar uma nova organizational unit.
+3. No campo **Parent**, clique no menu dropdown e selecione a opção desejada para ser a unidade raiz à qual sua organizational unit estará subordinada.
 
     > ℹ️ É possível que este campo já esteja selecionado e não permita alterações. Isso ocorre quando acima da unidade sendo criada existe somente a unidade organizacional raiz.
 
-4. Preenchar um nome para a organization unit sendo criada.
+4. Preenchar um nome para a organizational unit sendo criada.
 5. Clique em `Add`.
 
-## Renomear organization unit
+## Renomear organizational unit
 
-1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Rename`.
-2. Faça as alterações desejadas no nome da organization unit.
+1. Na página **Organizational Units**, na linha correspondente à organizational unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Rename`.
+2. Faça as alterações desejadas no nome da organizational unit.
 3. Clique em `Save`.
 
 ## Adicionar endereço
 
-1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Add Address`.
+1. Na página **Organizational Units**, na linha correspondente à organizational unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Add Address`.
 2. Preencha as informações de endereço.
 3. Clique em `Add`.
 
 ## Adicionar usuário
 
-1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Add User`.
+1. Na página **Organizational Units**, na linha correspondente à organizational unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Add User`.
 2. Preencha as informações do novo usuário:
     * Nome
     * Email
@@ -65,19 +65,19 @@ Este artigo orienta os usuários no gerenciamento de organization units e está 
 
 Feito isso, um email será enviado para o usuário adicionado.
 
-## Adicionar organization unit subordinada
+## Adicionar organizational unit subordinada
 
-1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Add Subordinate Unit`.
-2. Preencha as informações da nova organization unit subordinada:
+1. Na página **Organizational Units**, na linha correspondente à organizational unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Add Subordinate Unit`.
+2. Preencha as informações da nova organizational unit subordinada:
     * Nome
     * Parent
 3. Clique em `Add`.
 
-## Remover organization unit
+## Remover organizational unit
 
-1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Delete`.
-2. Preencha o nome da organization unit a ser removida. O campo é sensível a maiúsculas e minúsculas.
+1. Na página **Organizational Units**, na linha correspondente à organizational unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Delete`.
+2. Preencha o nome da organizational unit a ser removida. O campo é sensível a maiúsculas e minúsculas.
 
-    > ❗ Antes de deletar uma organization unit que tenha outras organization units subordinadas, é necessário remover cada unidades filhas individualmente, começando pelo nível mais baixo. Uma vez que todas as unidades e usuários subordinados forem removidos, você poderá deletar a unidade desejada.
+    > ❗ Antes de deletar uma organizational unit que tenha outras organizational units subordinadas, é necessário remover cada unidades filhas individualmente, começando pelo nível mais baixo. Uma vez que todas as unidades e usuários subordinados forem removidos, você poderá deletar a unidade desejada.
 
 3. Clique em `Delete`.
