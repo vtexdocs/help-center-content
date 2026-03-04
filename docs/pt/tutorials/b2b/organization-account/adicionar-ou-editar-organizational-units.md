@@ -39,7 +39,7 @@ Após criar uma organizational unit, ela aparecerá listada na tela **Organizati
 ## Renomear organizational unit
 
 1. Na página **Organizational Units**, na linha correspondente à organizational unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Rename`.
-2. Faça as alterações desejadas no nome da organizational unit.
+2. Faça as alterações desejadas.
 3. Clique em `Save`.
 
 ## Adicionar endereço
@@ -54,15 +54,14 @@ Após criar uma organizational unit, ela aparecerá listada na tela **Organizati
 2. Preencha as informações do novo usuário:
     * Nome
     * Email
-    * Número de telefone
+    * Número de telefone (opcional)
     * Username
-    * Perfil de acesso
-    * Organização
-    * Centro de custo
-3. Selecione qual ou quais perfis de acesso deseja atribuir ao usuário. Para mais informações, veja o artigo [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions).
+3. Selecione os perfis de acesso que deseja atribuir ao usuário.
+
+    > ℹ️ Para mais informações sobre perfis de acesso no **B2B Buyer Portal**, veja o artigo [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions).
 4. Clique em `Add`.
 
-Feito isso, um email será enviado para o usuário adicionado.
+Feito isso, um email será enviado para o novo usuário.
 
 ## Adicionar organizational unit filha (subordinada)
 
