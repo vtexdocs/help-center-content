@@ -32,25 +32,25 @@ Este artigo orienta os usuários no gerenciamento de organization units e está 
 2. Na tela **Organization Units**, clique no ícone `+` no topo da tela para criar uma nova organization unit.
 3. No campo **Parent**, clique no menu dropdown e selecione a opção desejada para ser a unidade raiz à qual sua organization unit estará subordinada.
 
-> ℹ️ É possível que este campo já esteja selecionado e não permita alterações. Isso ocorre quando existe somente a unidade organizacional raiz acima da unidade sendo criada.
+    > ℹ️ É possível que este campo já esteja selecionado e não permita alterações. Isso ocorre quando existe somente a unidade organizacional raiz acima da unidade sendo criada.
+
+
 
 ## Renomear organization unit
 
-1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> ao lado do nome da organization unit.
-2. Clique em `Rename`.
-3. Faça as alterações desejadas no nome da organization unit.
-4. Clique em `Save`.
+1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Rename`.
+2. Faça as alterações desejadas no nome da organization unit.
+3. Clique em `Save`.
 
 ## Adicionar endereço
 
-1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> ao lado do nome da organization unit.
-2. Clique em `Add Address`.
-3. Preencha as informações de endereço.
-4. Clique em `Add`.
+1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Add Address`.
+2. Preencha as informações de endereço.
+3. Clique em `Add`.
 
 ## Adicionar usuário
 
-1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> ao lado do nome da organization unit.
+1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i>.
 2. Clique em `Add User`.
 3. Preencha as informações do novo usuário:
     * Nome
@@ -73,6 +73,5 @@ Feito isso, um email será enviado para o usuário adicionado.
     * Nome
     * Parent
 4. Clique em `Add`.
-
 
 ## Remover organization unit
