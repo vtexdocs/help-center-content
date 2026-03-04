@@ -17551,7 +17551,7 @@
           },
           "slug": {
             "en": "beta-category",
-            "es": "beta-categoria",
+            "es": "beta",
             "pt": "beta-categoria"
           },
           "origin": "",
@@ -18265,6 +18265,37 @@
                     "en": "order-to-delivery",
                     "es": "pedidos-de-entrega",
                     "pt": "pedidos-para-entrega"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Authentication BETA",
+                "es": "Authentication BETA",
+                "pt": "Autenticação BETA"
+              },
+              "slug": {
+                "en": "authentication-beta",
+                "es": "authentication-beta",
+                "pt": "autenticacao-beta"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Configuring Sign in with Apple ID (Beta)",
+                    "pt": "Configurar login com Apple ID (Beta)",
+                    "es": "Configuring Sign in with Apple ID (Beta)"
+                  },
+                  "slug": {
+                    "en": "configuring-sign-in-with-apple-id-beta",
+                    "pt": "configurar-login-com-apple-id-beta",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -39741,13 +39772,13 @@
             {
               "name": {
                 "en": "Collections doesn't work in custom search results pages in B2B Suite",
-                "es": "Las colecciones no funcionan en las páginas de resultados de búsqueda personalizadas en B2B Suite",
-                "pt": "As coleções não funcionam em páginas de resultados de pesquisa personalizados no B2B Suite"
+                "es": "Las colecciones no funcionan en las páginas de resultados de búsqueda personalizadas de B2B Suite.",
+                "pt": "As coleções não funcionam nas páginas de resultados de pesquisa personalizadas no B2B Suite."
               },
               "slug": {
                 "en": "collections-doesnt-work-in-custom-search-results-pages-in-b2b-suite",
-                "es": "las-colecciones-no-funcionan-en-las-paginas-de-resultados-de-busqueda-personalizadas-en-b2b-suite",
-                "pt": "as-colecoes-nao-funcionam-em-paginas-de-resultados-de-pesquisa-personalizados-no-b2b-suite"
+                "es": "las-colecciones-no-funcionan-en-las-paginas-de-resultados-de-busqueda-personalizadas-de-b2b-suite",
+                "pt": "as-colecoes-nao-funcionam-nas-paginas-de-resultados-de-pesquisa-personalizadas-no-b2b-suite"
               },
               "origin": "",
               "type": "markdown",
@@ -41302,13 +41333,13 @@
             {
               "name": {
                 "en": "Collections don't open on subaccounts",
-                "es": "Los cobros no se abren en las subcuentas",
-                "pt": "As cobranças não são abertas em subcontas"
+                "es": "Las colecciones no se abren en las subcuentas.",
+                "pt": "As coleções não abrem em subcontas"
               },
               "slug": {
                 "en": "collections-dont-open-on-subaccounts",
-                "es": "los-cobros-no-se-abren-en-las-subcuentas",
-                "pt": "as-cobrancas-nao-sao-abertas-em-subcontas"
+                "es": "las-colecciones-no-se-abren-en-las-subcuentas",
+                "pt": "as-colecoes-nao-abrem-em-subcontas"
               },
               "origin": "",
               "type": "markdown",
@@ -47529,13 +47560,13 @@
             {
               "name": {
                 "en": "Shopper is redirect to gatewayCallback/{orderGroup}/Success instead of placeOrder page",
-                "es": "El comprador es redirigido a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder",
-                "pt": "O comprador é redirecionado para a página gatewayCallback/{orderGroup}/Success em vez da página placeOrder"
+                "es": "El comprador es redirigido a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder.",
+                "pt": "O comprador é redirecionado para gatewayCallback/{orderGroup}/Success em vez da página placeOrder."
               },
               "slug": {
                 "en": "shopper-is-redirect-to-gatewaycallbackordergroupsuccess-instead-of-placeorder-page",
                 "es": "el-comprador-es-redirigido-a-gatewaycallbackordergroupsuccess-en-lugar-de-a-la-pagina-placeorder",
-                "pt": "o-comprador-e-redirecionado-para-a-pagina-gatewaycallbackordergroupsuccess-em-vez-da-pagina-placeorder"
+                "pt": "o-comprador-e-redirecionado-para-gatewaycallbackordergroupsuccess-em-vez-da-pagina-placeorder"
               },
               "origin": "",
               "type": "markdown",
@@ -48265,13 +48296,13 @@
             {
               "name": {
                 "en": "Error publishing Scheduled Release ahead of schedule in Admin (\"You can't publish an empty release\")",
-                "es": "Error al publicar una publicación programada antes de lo previsto en Admin (\"No se puede publicar una publicación vacía\")",
-                "pt": "Erro ao publicar a versão agendada antes do previsto no Admin (\"Você não pode publicar uma versão vazia\")"
+                "es": "Error al publicar una versión programada antes de lo previsto en Admin («No se puede publicar una versión vacía»).",
+                "pt": "Erro ao publicar uma versão programada antes do prazo no Admin (“Não é possível publicar uma versão vazia”)"
               },
               "slug": {
                 "en": "error-publishing-scheduled-release-ahead-of-schedule-in-admin-you-cant-publish-an-empty-release",
-                "es": "error-al-publicar-una-publicacion-programada-antes-de-lo-previsto-en-admin-no-se-puede-publicar-una-publicacion-vacia",
-                "pt": "erro-ao-publicar-a-versao-agendada-antes-do-previsto-no-admin-voce-nao-pode-publicar-uma-versao-vazia"
+                "es": "error-al-publicar-una-version-programada-antes-de-lo-previsto-en-admin-no-se-puede-publicar-una-version-vacia",
+                "pt": "erro-ao-publicar-uma-versao-programada-antes-do-prazo-no-admin-nao-e-possivel-publicar-uma-versao-vazia"
               },
               "origin": "",
               "type": "markdown",
@@ -49360,21 +49391,6 @@
             },
             {
               "name": {
-                "en": "Amazon Listing Alguns skus não são integrados devido ao erro no atributo \"color#?.value\" field 'standardized_values'",
-                "es": "Amazon Listado Algunos skus no se integran debido al error en el atributo «color#?.value» del campo «standardized_values».",
-                "pt": "Amazon Listing Alguns skus não são integrados devido ao erro no atributo \"color#?.value\" field 'standardized_values'"
-              },
-              "slug": {
-                "en": "amazon-listing-alguns-skus-nao-sao-integrados-devido-ao-erro-no-atributo-colorvalue-field-standardizedvalues",
-                "es": "amazon-listado-algunos-skus-no-se-integran-debido-al-error-en-el-atributo-colorvalue-del-campo-standardizedvalues",
-                "pt": "amazon-listing-alguns-skus-nao-sao-integrados-devido-ao-erro-no-atributo-colorvalue-field-standardizedvalues"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Amazon Listing Required attribute not rendered in Amazon Listing UI prevents product submission",
                 "es": "Amazon Listing Atributo obligatorio no mostrado en la interfaz de usuario de Amazon Listing impide el envío de productos",
                 "pt": "Amazon Listagem Atributo obrigatório não renderizado na interface do usuário da listagem da Amazon impede o envio de produtos"
@@ -49608,6 +49624,21 @@
                 "en": "custom-attribute-mapper-mercado-livre",
                 "es": "mapeador-de-atributos-personalizado-mercado-livre",
                 "pt": "mapeador-de-atributos-personalizado-mercado-livre"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Dafiti Image URLs converted to WebP cause rejection by markeplace (image type unsupported)",
+                "es": "Dafiti Las URL de imágenes convertidas a WebP provocan el rechazo por parte del mercado (tipo de imagen no compatible).",
+                "pt": "Dafiti URLs de imagens convertidas para WebP são rejeitadas pelo marketplace (tipo de imagem não suportado)"
+              },
+              "slug": {
+                "en": "dafiti-image-urls-converted-to-webp-cause-rejection-by-markeplace-image-type-unsupported",
+                "es": "dafiti-las-url-de-imagenes-convertidas-a-webp-provocan-el-rechazo-por-parte-del-mercado-tipo-de-imagen-no-compatible",
+                "pt": "dafiti-urls-de-imagens-convertidas-para-webp-sao-rejeitadas-pelo-marketplace-tipo-de-imagem-nao-suportado"
               },
               "origin": "",
               "type": "markdown",
@@ -50787,12 +50818,12 @@
             {
               "name": {
                 "en": "Cart does not update in FastStore if external request is made to update orderForm",
-                "es": "La cesta no se actualiza en FastStore si se realiza una solicitud externa para actualizar orderForm",
-                "pt": "O carrinho não é atualizado no FastStore se for feita uma solicitação externa para atualizar o formulário de pedido"
+                "es": "El carrito no se actualiza en FastStore si se realiza una solicitud externa para actualizar el formulario de pedido.",
+                "pt": "O carrinho não é atualizado no FastStore se for feita uma solicitação externa para atualizar o formulário de pedido."
               },
               "slug": {
                 "en": "cart-does-not-update-in-faststore-if-external-request-is-made-to-update-orderform",
-                "es": "la-cesta-no-se-actualiza-en-faststore-si-se-realiza-una-solicitud-externa-para-actualizar-orderform",
+                "es": "el-carrito-no-se-actualiza-en-faststore-si-se-realiza-una-solicitud-externa-para-actualizar-el-formulario-de-pedido",
                 "pt": "o-carrinho-nao-e-atualizado-no-faststore-se-for-feita-uma-solicitacao-externa-para-atualizar-o-formulario-de-pedido"
               },
               "origin": "",
@@ -51087,13 +51118,13 @@
             {
               "name": {
                 "en": "Products with selling price is zero cannot be added to the cart in FastStore",
-                "es": "Los productos cuyo precio de venta es cero no se pueden añadir al carrito en FastStore",
-                "pt": "Produtos com preço de venda igual a zero não podem ser adicionados ao carrinho no FastStore"
+                "es": "Los productos con precio de venta cero no se pueden añadir al carrito en FastStore.",
+                "pt": "Os produtos com preço de venda zero não podem ser adicionados ao carrinho no FastStore."
               },
               "slug": {
                 "en": "products-with-selling-price-is-zero-cannot-be-added-to-the-cart-in-faststore",
-                "es": "los-productos-cuyo-precio-de-venta-es-cero-no-se-pueden-anadir-al-carrito-en-faststore",
-                "pt": "produtos-com-preco-de-venda-igual-a-zero-nao-podem-ser-adicionados-ao-carrinho-no-faststore"
+                "es": "los-productos-con-precio-de-venta-cero-no-se-pueden-anadir-al-carrito-en-faststore",
+                "pt": "os-produtos-com-preco-de-venda-zero-nao-podem-ser-adicionados-ao-carrinho-no-faststore"
               },
               "origin": "",
               "type": "markdown",
@@ -51124,6 +51155,21 @@
                 "en": "redirects-for-preview-links-when-using-in-the-final-of-the-url",
                 "es": "redirecciones-para-los-enlaces-de-previsualizacion-cuando-se-utiliza-en-la-parte-final-de-la-url",
                 "pt": "redirecionamentos-para-links-de-visualizacao-ao-usar-no-final-do-url"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Secrets take hours to propagate to builds in WebOps (FastStore Platform)",
+                "es": "Los secretos tardan horas en propagarse a las compilaciones en WebOps (plataforma FastStore).",
+                "pt": "Os segredos levam horas para serem propagados para as compilações no WebOps (Plataforma FastStore)"
+              },
+              "slug": {
+                "en": "secrets-take-hours-to-propagate-to-builds-in-webops-faststore-platform",
+                "es": "los-secretos-tardan-horas-en-propagarse-a-las-compilaciones-en-webops-plataforma-faststore",
+                "pt": "os-segredos-levam-horas-para-serem-propagados-para-as-compilacoes-no-webops-plataforma-faststore"
               },
               "origin": "",
               "type": "markdown",
@@ -58026,6 +58072,21 @@
             },
             {
               "name": {
+                "en": "Orders that fail to reach the \"invoiced\" status even after the invoice has been correctly entered.",
+                "es": "Pedidos que no alcanzan el estado «facturado» incluso después de que la factura se haya introducido correctamente.",
+                "pt": "Pedidos que não alcançam o status \"faturado\" mesmo após a fatura ter sido inserida corretamente."
+              },
+              "slug": {
+                "en": "orders-that-fail-to-reach-the-invoiced-status-even-after-the-invoice-has-been-correctly-entered",
+                "es": "pedidos-que-no-alcanzan-el-estado-facturado-incluso-despues-de-que-la-factura-se-haya-introducido-correctamente",
+                "pt": "pedidos-que-nao-alcancam-o-status-faturado-mesmo-apos-a-fatura-ter-sido-inserida-corretamente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Orders with a 'Creation Error' remain stuck in a 'cancel' status",
                 "es": "Los pedidos con un 'Error de creación' permanecen atascados en estado 'cancelado'.",
                 "pt": "Os pedidos com um 'Erro de criação' permanecem presos em um status de 'cancelar'"
@@ -59260,12 +59321,12 @@
             {
               "name": {
                 "en": "Checkout cancels transaction after creation",
-                "es": "El pago cancela la transacción después de la creación",
+                "es": "El proceso de pago cancela la transacción tras su creación.",
                 "pt": "O checkout cancela a transação após a criação"
               },
               "slug": {
                 "en": "checkout-cancels-transaction-after-creation",
-                "es": "el-pago-cancela-la-transaccion-despues-de-la-creacion",
+                "es": "el-proceso-de-pago-cancela-la-transaccion-tras-su-creacion",
                 "pt": "o-checkout-cancela-a-transacao-apos-a-criacao"
               },
               "origin": "",
@@ -61314,6 +61375,21 @@
             },
             {
               "name": {
+                "en": "Redirect page does not open for credit card payments when using Defense Mode/Trigger: suspicious",
+                "es": "La página de redireccionamiento no se abre para los pagos con tarjeta de crédito cuando se utiliza el modo de defensa/desencadenante: sospechoso.",
+                "pt": "A página de redirecionamento não abre para pagamentos com cartão de crédito ao usar o Modo de Defesa/Gatilho: suspeito"
+              },
+              "slug": {
+                "en": "redirect-page-does-not-open-for-credit-card-payments-when-using-defense-modetrigger-suspicious",
+                "es": "la-pagina-de-redireccionamiento-no-se-abre-para-los-pagos-con-tarjeta-de-credito-cuando-se-utiliza-el-modo-de-defensadesencadenante-sospechoso",
+                "pt": "a-pagina-de-redirecionamento-nao-abre-para-pagamentos-com-cartao-de-credito-ao-usar-o-modo-de-defesagatilho-suspeito"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Refund action logged twice",
                 "es": "Acción de reembolso registrada dos veces",
                 "pt": "Ação de reembolso registrada duas vezes"
@@ -62659,6 +62735,21 @@
                 "en": "paste-action-blocked-on-login-and-on-the-pick-and-pack-picking-search-field",
                 "es": "accion-de-pegar-bloqueada-en-el-inicio-de-sesion-y-en-el-campo-de-busqueda-de-picking-pick-and-pack",
                 "pt": "acao-de-colar-bloqueada-no-login-e-no-campo-de-pesquisa-de-picking-pick-and-pack"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Pick and Pack | Single Order Generating Multiple Worksheets Due to Concurrency Issue",
+                "es": "Seleccionar y empaquetar | Un solo pedido genera varias hojas de cálculo debido a un problema de concurrencia",
+                "pt": "Selecionar e embalar | Pedido único gerando várias planilhas devido a um problema de simultaneidade"
+              },
+              "slug": {
+                "en": "pick-and-pack-single-order-generating-multiple-worksheets-due-to-concurrency-issue",
+                "es": "seleccionar-y-empaquetar-un-solo-pedido-genera-varias-hojas-de-calculo-debido-a-un-problema-de-concurrencia",
+                "pt": "selecionar-e-embalar-pedido-unico-gerando-varias-planilhas-devido-a-um-problema-de-simultaneidade"
               },
               "origin": "",
               "type": "markdown",
@@ -67571,6 +67662,21 @@
                 "en": "telesales-app-not-working-properly-with-requiresauthenticationtoloadprofile",
                 "es": "la-aplicacion-de-televenta-no-funciona-correctamente-con-requiresauthenticationtoloadprofile",
                 "pt": "o-aplicativo-de-televendas-nao-esta-funcionando-corretamente-com-requiresauthenticationtoloadprofile"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Telesales impersonation fails for specific customers in unified Profile System stores",
+                "es": "La suplantación de identidad en las ventas telefónicas falla para clientes específicos en las tiendas del sistema de perfiles unificado.",
+                "pt": "A falsificação de identidade em vendas por telefone falha para clientes específicos em lojas do Sistema de Perfil Unificado"
+              },
+              "slug": {
+                "en": "telesales-impersonation-fails-for-specific-customers-in-unified-profile-system-stores",
+                "es": "la-suplantacion-de-identidad-en-las-ventas-telefonicas-falla-para-clientes-especificos-en-las-tiendas-del-sistema-de-perfiles-unificado",
+                "pt": "a-falsificacao-de-identidade-em-vendas-por-telefone-falha-para-clientes-especificos-em-lojas-do-sistema-de-perfil-unificado"
               },
               "origin": "",
               "type": "markdown",
