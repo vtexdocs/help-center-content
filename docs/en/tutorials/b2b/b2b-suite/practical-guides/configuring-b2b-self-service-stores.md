@@ -1,5 +1,5 @@
 ---
-title: 'Configuring B2B self-service stores'
+title: 'Configuring B2B self-service stores (B2B Suite)'
 id: 4576nMaRKk4madDZ7liiXS
 status: PUBLISHED
 createdAt: 2021-03-30T13:11:03.141Z
@@ -14,6 +14,8 @@ legacySlug: configuring-b2b-self-service-stores
 locale: en
 subcategoryId: 2LrbEY7MFeKqmdfYLBCnfi
 ---
+
+> ⚠️ This documentation applies to B2B Suite only.
 
 The self-service scenario is the most flexible in B2B. It allows the customer to go through the purchase flow without interacting with sales reps, which reduces friction. For this reason, the self-service process is similar to buying in B2C.
 

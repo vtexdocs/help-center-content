@@ -1,5 +1,5 @@
 ---
-title: 'Configurar la importación en masa de datos de organizaciones y centros de costos'
+title: 'Configurar la importación en masa de datos de organizaciones y centros de costos (B2B Suite)'
 id: 41FwcZHF3GctzKcgyKGaoF
 status: PUBLISHED
 createdAt: 2024-04-25T11:45:15.945Z
@@ -14,6 +14,8 @@ legacySlug: configurar-la-importacion-en-masa-de-datos-de-organizaciones-y-centr
 locale: es
 subcategoryId: 6bSdupUQgvuXjBL9Igawxl
 ---
+
+> ⚠️ Esta documentación se aplica solo a B2B Suite.
 
 La importación de datos en masa simplifica el proceso de actualización y mantenimiento de información para organizaciones compradoras y sus usuarios (miembros) y centros de costo.
 

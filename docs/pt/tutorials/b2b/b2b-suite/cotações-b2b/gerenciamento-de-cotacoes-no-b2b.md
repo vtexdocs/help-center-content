@@ -1,5 +1,5 @@
 ---
-title: 'Gerenciamento de cotações no B2B'
+title: 'Gerenciamento de cotações no B2B (B2B Suite)'
 id: 34EDJHyBVsewtRu0NnPMCq
 status: PUBLISHED
 createdAt: 2024-08-08T11:03:45.696Z
@@ -14,6 +14,8 @@ legacySlug: gerenciamento-de-cotacoes-no-b2b
 locale: pt
 subcategoryId: 74CLq9axeDw1YPzAtCpktn
 ---
+
+> ⚠️ Esta documentação se aplica apenas ao B2B Suite.
 
 O aplicativo **Cotações B2B** permite que clientes que utilizam o aplicativo [Organizações B2B](/pt/docs/tutorials/gerenciamento-de-organizacoes-b2b) solicitem cotações para seus carrinhos de compras e os salvem para uso futuro, incluindo itens, quantidades e preços. Isso facilita as negociações de preços com os representantes de vendas da loja e os fluxos de aprovação de pedidos dentro da organização.
 

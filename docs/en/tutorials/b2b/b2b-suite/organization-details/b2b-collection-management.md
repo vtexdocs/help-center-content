@@ -1,5 +1,5 @@
 ---
-title: 'B2B collection management'
+title: 'B2B collection management (B2B Suite)'
 id: 7aOduycwN3BeDqNo2kNDJk
 status: PUBLISHED
 createdAt: 2024-08-06T16:19:05.159Z
@@ -14,6 +14,8 @@ legacySlug: b2b-collection-management
 locale: en
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
+
+> ⚠️ This documentation applies to B2B Suite only.
 
 In a B2B operation, the collection feature allows administrators to group specific products together, making it easier to manage offers, promotions, and commercial conditions tailored to different organizations.
 

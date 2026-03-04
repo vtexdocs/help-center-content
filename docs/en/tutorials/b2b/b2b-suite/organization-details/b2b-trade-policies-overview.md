@@ -1,5 +1,5 @@
 ---
-title: 'B2B trade policies - Overview'
+title: 'B2B trade policies - Overview (B2B Suite)'
 id: sKrYjDJPBChgIxzYFpUvu
 status: PUBLISHED
 createdAt: 2024-07-05T11:20:38.780Z
@@ -15,6 +15,8 @@ locale: en
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 order: 1
 ---
+
+> ⚠️ This documentation applies to B2B Suite only.
 
 Associating a [trade policy](/en/docs/tutorials/how-trade-policies-work) with the organization is key to a B2B operation. It allows you to apply specific rules on prices, discounts, and payment conditions, providing customized management of commercial relationships.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Gestionar tablas de precios en organizaciones B2B'
+title: 'Gestionar tablas de precios en organizaciones B2B (B2B Suite)'
 id: 1iNpulqvLT2KJ2fnznpN4L
 status: PUBLISHED
 createdAt: 2024-06-25T18:44:58.230Z
@@ -14,6 +14,8 @@ legacySlug: gestionar-tablas-de-precios-en-organizaciones-b2b
 locale: es
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
+
+> ⚠️ Esta documentación se aplica solo a B2B Suite.
 
 Las [tablas de precios](/es/tutorial/criar-tabelas-de-precos) son fundamentales para una operación B2B en VTEX, ya que permiten personalizar las condiciones comerciales que se ofrecen a diferentes organizaciones al:
 

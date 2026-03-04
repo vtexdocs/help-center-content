@@ -12880,7 +12880,19 @@
       {
         "from": "/es/tutorial/como-funcionan-los-pedidos-incompletos--tutorials_294",
         "to": "/es/docs/tutorials/como-encontrar-un-pedido"
-      }
+      },
+    {
+      "from": "/pt/docs/tutorials/promocoes-do-mercado-livre",
+      "to": "/pt/docs/tutorials/central-de-promocoes-mercado-livre"
+    },
+    {
+      "from": "/en/docs/tutorials/promocoes-do-mercado-livre",
+      "to": "/en/docs/tutorials/mercado-libre-promotions-center"
+    },
+    {
+      "from": "/es/docs/tutorials/promocoes-do-mercado-livre",
+      "to": "/es/docs/tutorials/central-de-promociones-mercado-libre"
+    }
     ]
   }
 }

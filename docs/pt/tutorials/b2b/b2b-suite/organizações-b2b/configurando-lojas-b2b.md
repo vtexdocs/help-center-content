@@ -1,5 +1,5 @@
 ---
-title: 'Configurando lojas B2B'
+title: 'Configurando lojas B2B (B2B Suite)'
 id: 7riBcnrOv4Cz7qMeACyVLm
 status: PUBLISHED
 createdAt: 2023-10-11T15:17:39.003Z
@@ -14,6 +14,8 @@ legacySlug: configurando-lojas-b2b
 locale: pt
 subcategoryId: 6bSdupUQgvuXjBL9Igawxl
 ---
+
+> ⚠️ Esta documentação se aplica apenas ao B2B Suite.
 
 Esta página permite definir o comportamento da loja B2B com relação à aprovação de organizações, à experiência do usuário durante navegação entre empresas, e aos vínculos comerciais ativos.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Gerenciamento de organizações B2B'
+title: 'Gerenciamento de organizações B2B (B2B Suite)'
 id: 1UwNCWhML3BsV6anpoUvVZ
 status: PUBLISHED
 createdAt: 2024-06-12T17:24:48.991Z
@@ -14,6 +14,8 @@ legacySlug: gerenciamento-de-organizacoes-b2b
 locale: pt
 subcategoryId: 6bSdupUQgvuXjBL9Igawxl
 ---
+
+> ⚠️ Esta documentação se aplica apenas ao B2B Suite.
 
 O aplicativo **Organizações B2B** permite agrupar usuários B2B em organizações. É possível atribuir meios de pagamento específicos, tabelas de preços e coleções de produtos a cada organização, permitindo que todos os usuários da organização compartilhem as mesmas condições comerciais. Cada organização é segmentada em um ou mais centros de custo, com seus próprios endereços de entrega.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Campos personalizados no cadastro de organização'
+title: 'Campos personalizados no cadastro de organização (B2B Suite)'
 id: 2MqEVusOvcbqagNwOuHA7f
 status: PUBLISHED
 createdAt: 2024-06-06T12:19:51.817Z
@@ -14,6 +14,8 @@ legacySlug: campos-personalizados-no-cadastro-de-organizacao
 locale: pt
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
+
+> ⚠️ Esta documentação se aplica apenas ao B2B Suite.
 
 A plataforma VTEX permite que usuários de uma organização com perfil de administrador criem e gerenciem campos personalizados no processo de cadastro de novas organizações ou centros de custo. Este recurso facilita a inclusão de informações específicas e relevantes para a empresa.
 
