@@ -17551,7 +17551,7 @@
           },
           "slug": {
             "en": "beta-category",
-            "es": "beta",
+            "es": "beta-categoria",
             "pt": "beta-categoria"
           },
           "origin": "",
@@ -18265,37 +18265,6 @@
                     "en": "order-to-delivery",
                     "es": "pedidos-de-entrega",
                     "pt": "pedidos-para-entrega"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Authentication BETA",
-                "es": "Authentication BETA",
-                "pt": "Autenticação BETA"
-              },
-              "slug": {
-                "en": "authentication-beta",
-                "es": "authentication-beta",
-                "pt": "autenticacao-beta"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Configuring Sign in with Apple ID (Beta)",
-                    "pt": "Configurar login com Apple ID (Beta)",
-                    "es": "Configuring Sign in with Apple ID (Beta)"
-                  },
-                  "slug": {
-                    "en": "configuring-sign-in-with-apple-id-beta",
-                    "pt": "configurar-login-com-apple-id-beta",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
