@@ -43,24 +43,21 @@ Após adicionar uma nova organization unit, você pode realizar as seguintes aç
 ### Renomear organization unit
 
 1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no botão de menu <i class="fas fa-ellipsis-v"></i> ao lado do nome da organization unit.
-2. Clique em **Rename**.
+2. Clique em `Rename`.
 3. Faça as alterações desejadas no nome da organization unit.
-4. Clique em **Save**.
+4. Clique em `Save`.
 
 ### Adicionar endereço
 
 1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no botão de menu <i class="fas fa-ellipsis-v"></i> ao lado do nome da organization unit.
-2. Clique em **Add Address**.
+2. Clique em `Add Address`.
+3. Preencha as informações de endereço.
+4. Clique em `Add`.
 
-    > ⚠️ É possível que o botão **Add Address** não esteja disponível. Isso ocorre 
-
-3. Preencha as informações necessárias sobre o novo endereço.
-4. Clique em **Save**.
-
-### Adicionar usuários
+### Adicionar usuário
 
 1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no botão de menu <i class="fas fa-ellipsis-v"></i> ao lado do nome da organization unit.
-2. Clique em **Add User**.
+2. Clique em `Add User`.
 3. Preencha as informações do novo usuário:
     * Nome
     * Email
@@ -70,4 +67,6 @@ Após adicionar uma nova organization unit, você pode realizar as seguintes aç
     * Organização
     * Centro de custo
 4. Selecione qual ou quais perfis de acesso deseja atribuir ao usuário. Para mais informações, veja o artigo [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions).
-5. Clique em **Save**.
+5. Clique em `Add`.
+
+Feito isso, um email será enviado para o usuário adicionado.
