@@ -10,7 +10,7 @@ locale: pt
 
 > ⚠️ A funcionalidade **Scopes** é exclusiva para o **B2B Buyer Portal**, atualmente disponível apenas para contas selecionadas.
 
-Scopes representam atributos específicos do domínio, como IDs de contrato, IDs de coleção ou endereços.
+**Scopes** são os atributos específicos de uma [Organizational Unit](link), e incluem informações como IDs de contrato, IDs de coleção ou endereços.
 
 ## Funcionamento geral
 
@@ -21,6 +21,8 @@ Scopes representam atributos específicos do domínio, como IDs de contrato, IDs
 ## Permissões de Storefront
 
 Para configurar os scopes da organização, o perfil de [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ter os recursos `View_Organization_Unit` e `Edit_Organization_Unit`.
+
+> ℹ️ Para mais informações, veja o artigo [Membros da organização compradora](https://help.vtex.com/pt/docs/tutorials/membros-da-organizacao-compradora).
 
 ## Configurar scopes
 
