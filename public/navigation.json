@@ -17098,21 +17098,6 @@
                 },
                 {
                   "name": {
-                    "en": "Buyer organization members",
-                    "es": "Miembros de la organización compradora",
-                    "pt": "Membros da organização compradora"
-                  },
-                  "slug": {
-                    "en": "buyer-organization-members",
-                    "es": "miembros-de-la-organizacion-compradora",
-                    "pt": "membros-da-organizacao-compradora"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Buying policies overview",
                     "es": "Políticas de compras",
                     "pt": "Buying Policies"
@@ -17136,6 +17121,36 @@
                     "en": "custom-checkout-fields",
                     "es": "campos-personalizables-del-checkout",
                     "pt": "campos-customizaveis-do-checkout"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "es": "Miembros de la organización compradora",
+                    "pt": "Membros da organização compradora",
+                    "en": "Miembros de la organización compradora"
+                  },
+                  "slug": {
+                    "es": "miembros-de-la-organizacion-compradora",
+                    "pt": "membros-da-organizacao-compradora",
+                    "en": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "pt": "Visão geral de Scopes",
+                    "en": "Visão geral de Scopes",
+                    "es": "Visão geral de Scopes"
+                  },
+                  "slug": {
+                    "pt": "visao-geral-de-scopes",
+                    "en": "",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -59442,12 +59457,12 @@
             {
               "name": {
                 "en": "Checkout cancels transaction after creation",
-                "es": "El pago cancela la transacción después de la creación",
+                "es": "El proceso de pago cancela la transacción tras su creación.",
                 "pt": "O checkout cancela a transação após a criação"
               },
               "slug": {
                 "en": "checkout-cancels-transaction-after-creation",
-                "es": "el-pago-cancela-la-transaccion-despues-de-la-creacion",
+                "es": "el-proceso-de-pago-cancela-la-transaccion-tras-su-creacion",
                 "pt": "o-checkout-cancela-a-transacao-apos-a-criacao"
               },
               "origin": "",
