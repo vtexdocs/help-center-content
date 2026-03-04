@@ -50,9 +50,8 @@ Este artigo orienta os usuários no gerenciamento de organization units e está 
 
 ## Adicionar usuário
 
-1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i>.
-2. Clique em `Add User`.
-3. Preencha as informações do novo usuário:
+1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Add User`.
+2. Preencha as informações do novo usuário:
     * Nome
     * Email
     * Número de telefone
@@ -60,18 +59,17 @@ Este artigo orienta os usuários no gerenciamento de organization units e está 
     * Perfil de acesso
     * Organização
     * Centro de custo
-4. Selecione qual ou quais perfis de acesso deseja atribuir ao usuário. Para mais informações, veja o artigo [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions).
-5. Clique em `Add`.
+3. Selecione qual ou quais perfis de acesso deseja atribuir ao usuário. Para mais informações, veja o artigo [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions).
+4. Clique em `Add`.
 
 Feito isso, um email será enviado para o usuário adicionado.
 
 ## Adicionar organization unit subordinada
 
-1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> ao lado do nome da organization unit.
-2. Clique em `Add Subordinate Unit`.
-3. Preencha as informações da nova organization unit subordinada:
+1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Add Subordinate Unit`.
+2. Preencha as informações da nova organization unit subordinada:
     * Nome
     * Parent
-4. Clique em `Add`.
+3. Clique em `Add`.
 
 ## Remover organization unit
