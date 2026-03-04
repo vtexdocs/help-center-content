@@ -31,26 +31,26 @@ Este artigo orienta sobre o gerenciamento de organizational units e está dividi
 
 2. Na tela **Organizational Units**, clique no ícone `+`.
 3. Verifique no campo **Parent** se está correto o nome da organizational unit raiz à qual a nova unidade organizacional estará subordinada. Este campo não permite edição.
-4. Preencha o nome da organizational unit sendo criada. É POSSÍVEL [renomeá-lo](#renomear-organizational-unit) posteriormente.
+4. Preencha o nome da nova organizational unit. É possível [renomeá-lo](#renomear-organizational-unit) posteriormente.
 5. Clique em `Add`.
 
 Após criar uma organizational unit, ela aparecerá listada na tela **Organizational Units**, e você poderá acessar sua Organization Account ao clicar na sua linha correspondente.
 
 ## Renomear organizational unit
 
-1. Na página **Organizational Units**, na linha correspondente à organizational unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Rename`.
+1. Na página **Organizational Units**, na linha correspondente à organizational unit que deseja renomear, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Rename`.
 2. Faça as alterações desejadas.
 3. Clique em `Save`.
 
 ## Adicionar endereço
 
-1. Na página **Organizational Units**, na linha correspondente à organizational unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Add Address`.
+1. Na página **Organizational Units**, na linha correspondente à organizational unit que deseja adicionar endereço, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Add Address`.
 2. Preencha as informações de endereço.
 3. Clique em `Add`.
 
 ## Adicionar usuário
 
-1. Na página **Organizational Units**, na linha correspondente à organizational unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Add User`.
+1. Na página **Organizational Units**, na linha correspondente à organizational unit que deseja adicionar um usuário, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Add User`.
 2. Preencha as informações do novo usuário:
     * Nome
     * Email
@@ -72,9 +72,8 @@ Feito isso, um email será enviado para o novo usuário.
 
 ## Remover organizational unit
 
-1. Na página **Organizational Units**, na linha correspondente à organizational unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Delete`.
-2. Preencha o nome da organizational unit a ser removida. O campo é sensível a maiúsculas e minúsculas.
+> ❗ Para remover uma organizational unit que tenha unidades subordinadas, primeiro é necessário remover cada unidade filha individualmente, começando pelo nível mais baixo.
 
-    > ❗ Antes de deletar uma organizational unit que tenha outras organizational units subordinadas, é necessário remover cada unidades filhas individualmente, começando pelo nível mais baixo. Uma vez que todas as unidades e usuários subordinados forem removidos, você poderá deletar a unidade desejada.
-
+1. Na página **Organizational Units**, na linha correspondente à organizational unit que deseja remover, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Delete`.
+2. Preencha o nome da organizational unit. Este campo é sensível a maiúsculas e minúsculas.
 3. Clique em `Delete`.
