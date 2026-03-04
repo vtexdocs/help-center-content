@@ -14,6 +14,10 @@ locale: pt
 
 ## Funcionamento geral
 
+* Possíveis dimensões de scope.
+* Implicações da hierarquia OU.
+* Casos de uso e exemplos.
+
 ## Permissões de Storefront
 
 Para configurar as buying policies da organização, o perfil de [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ter o recurso `XXX`.
@@ -22,4 +26,4 @@ Para configurar as buying policies da organização, o perfil de [Storefront Per
 
 Os usuários podem adicionar, editar ou remover scopes pela interface da Organizational Unit. Para mais informações, confira o artigo [XXX](link).
 
-> ℹ️ Para gerenciar regras de autorização de pedidos via API, acesse a [Buying Policies API](https://developers.vtex.com/docs/api-reference/buying-policies-api), e o guia para desenvolvedores [Buying Policies](https://developers.vtex.com/docs/guides/buying-policies).
+> ℹ️ Para gerenciar scopes via API, acesse a [Organization Units API](https://developers.vtex.com/docs/api-reference/organization-units-api#overview).
