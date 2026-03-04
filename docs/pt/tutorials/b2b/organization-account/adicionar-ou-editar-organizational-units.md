@@ -12,7 +12,7 @@ locale: pt
 
 **Organizational Units** (OU) são unidades organizacionais que permitem às empresas gerenciar suas estrutura interna de forma hierarquizada, com orçamento próprio, fluxos internos de aprovação, autonomia de compra e outros níveis de subdivisão. Dessa forma, a plataforma permite que uma única empresa B2B opere com múltiplas estruturas internas, mantendo consistência contratual e controle operacional.
 
-Este artigo orienta os usuários no gerenciamento de organizational units e está dividido nas seguintes seções:
+Este artigo orienta sobre o gerenciamento de organizational units e está dividido nas seguintes seções:
 
 * Adicionar organizational unit
 * Renomear organizational unit
