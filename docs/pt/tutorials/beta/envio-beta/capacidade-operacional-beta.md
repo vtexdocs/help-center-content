@@ -155,7 +155,7 @@ Na seção **Capacidade operacional**, você visualiza as configurações atuais
     * [I - Unidade da capacidade operacional](#i-unidade-da-capacidade-operacional)
     * [II - Capacidade](#ii-capacidade)
     * [III - Regra](#iii-regra)
-4. Clique em `+ Adicionar capacidade por política comercial` para configurar a segmentação da capacidade operecional por política comercial. Selecione na seção **Segmentação por política comercial** as políticas comerciais que deseja incluir.
+4. Clique em `+ Adicionar capacidade por política comercial` para configurar a segmentação da capacidade operacional por política comercial. Selecione na seção **Segmentação por política comercial** as políticas comerciais que deseja incluir.
 5. Clique em `Salvar alterações`.
 
 
