@@ -32,7 +32,7 @@ Este artigo orienta os usuários no gerenciamento de organization units e está 
 2. Na tela **Organization Units**, clique no ícone `+` no topo da tela para criar uma nova organization unit.
 3. No campo **Parent**, clique no menu dropdown e selecione a opção desejada para ser a unidade raiz à qual sua organization unit estará subordinada.
 
-    > ℹ️ É possível que este campo já esteja selecionado e não permita alterações. Isso ocorre quando existe somente a unidade organizacional raiz acima da unidade sendo criada.
+    > ℹ️ É possível que este campo já esteja selecionado e não permita alterações. Isso ocorre quando acima da unidade sendo criada existe somente a unidade organizacional raiz.
 
 4. Preenchar um nome para a organization unit sendo criada.
 5. Clique em `Add`.
