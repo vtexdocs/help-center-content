@@ -34,7 +34,8 @@ Este artigo orienta os usuários no gerenciamento de organization units e está 
 
     > ℹ️ É possível que este campo já esteja selecionado e não permita alterações. Isso ocorre quando existe somente a unidade organizacional raiz acima da unidade sendo criada.
 
-
+4. Preenchar um nome para a organization unit sendo criada.
+5. Clique em `Add`.
 
 ## Renomear organization unit
 
