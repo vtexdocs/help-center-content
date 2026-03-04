@@ -1,7 +1,7 @@
 ---
 title: 'Visão geral de Scopes'
-createdAt: '2026-02-19T10:00:00.000Z'
-updatedAt: '2026-02-19T10:00:00.000Z'
+createdAt: '2026-03-04T10:00:00.000Z'
+updatedAt: '2026-03-04T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: scopes-overview
