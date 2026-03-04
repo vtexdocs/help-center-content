@@ -10,7 +10,7 @@ locale: pt
 
 > ⚠️ A funcionalidade **Organizational Units** é válida somente para o **B2B Buyer Portal**, atualmente disponível para contas selecionadas.
 
-**Organizational Units** (OU) são unidades organizacionais que permitem às empresas gerenciar suas estrutura interna de forma hierarquizada, com orçamento próprio, fluxos internos de aprovação, autonomia de compra e outros níveis de subdivisão. Dessa forma, a plataforma permite que uma única empresa B2B opere com múltiplas estruturas internas, mantendo consistência contratual e controle operacional.
+**Organizational Units** (OU) são unidades organizacionais que permitem às empresas gerenciar sua estrutura interna de forma hierarquizada, com orçamento próprio, fluxos internos de aprovação, autonomia de compra e outros níveis de subdivisão. Dessa forma, a plataforma permite que uma única empresa B2B opere com múltiplas estruturas internas, mantendo consistência contratual e controle operacional.
 
 Este artigo orienta sobre o gerenciamento de organizational units e está dividido nas seguintes seções:
 
@@ -67,7 +67,7 @@ Feito isso, um email será enviado para o novo usuário.
 
 1. Na página **Organizational Units**, na linha correspondente à organizational unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Add Subordinate Unit`.
 2. Verifique no campo **Parent** se está correto o nome da organizational unit raiz à qual a nova unidade organizacional estará subordinada. Este campo não permite edição.
-3. Preencha o nome organizational unit filha.
+3. Preencha o nome da organizational unit filha.
 4. Clique em `Add`.
 
 ## Remover organizational unit
