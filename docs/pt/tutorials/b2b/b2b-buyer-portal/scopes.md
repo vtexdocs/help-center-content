@@ -8,7 +8,7 @@ slugEN: scopes
 locale: pt
 ---
 
-> ⚠️ A funcionalidade **Scopes** está disponível apenas para o **B2B Buyer Portal**.
+> ⚠️ A funcionalidade **Scopes** é exclusiva para o **B2B Buyer Portal**, atualmente disponível apenas para contas selecionadas.
 
 [Descrição geral]
 
