@@ -77,4 +77,7 @@ Feito isso, um email será enviado para o usuário adicionado.
 
 1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Delete`.
 2. Preencha o nome da organization unit a ser removida. O campo é sensível a maiúsculas e minúsculas.
-2. Clique em `Confirm`.
+
+    > ❗ Antes de deletar uma organization unit que tenha outras organization units subordinadas, é necessário remover cada unidades filhas individualmente, começando pelo nível mais baixo. Uma vez que todas as unidades e usuários subordinados forem removidos, você poderá deletar a unidade desejada.
+
+3. Clique em `Delete`.
