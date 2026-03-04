@@ -25,6 +25,52 @@
           "children": [
             {
               "name": {
+                "en": "February",
+                "es": "Febrero",
+                "pt": "Fevereiro"
+              },
+              "slug": {
+                "en": "2026-february",
+                "es": "2026-febrero",
+                "pt": "2026-fevereiro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Creating coupons in bulk",
+                    "es": "Creación de cupones en lote",
+                    "pt": "Criação de cupons em lote"
+                  },
+                  "slug": {
+                    "en": "2026-02-25-creating-coupons-in-bulk",
+                    "es": "2026-02-25-creacion-de-cupones-en-lote",
+                    "pt": "2026-02-25-criacao-de-cupons-em-lote"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Create promotions faster with reusable templates",
+                    "es": "Crea promociones más rápido con plantillas reutilizables",
+                    "pt": "Crie promoções mais rápido com templates reutilizáveis"
+                  },
+                  "slug": {
+                    "en": "2026-02-23-create-promotions-faster-with-reusable-templates",
+                    "es": "2026-02-23-crea-promociones-mas-rapido-con-plantillas-reutilizables",
+                    "pt": "2026-02-23-crie-promocoes-mais-rapido-com-templates-reutilizaveis"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "January",
                 "es": "Enero",
                 "pt": "Janeiro"
@@ -10314,7 +10360,7 @@
                     "pt": "9. Preço Fixo - Definição de conceito"
                   },
                   "slug": {
-                    "en": "preco-fixo-definicao-de-conceito",
+                    "en": "fixed-price-concept-definition",
                     "es": "precio-fijo-definicion-de-concepto",
                     "pt": "preco-fixo-definicao-de-conceito"
                   },
@@ -16316,14 +16362,14 @@
                 },
                 {
                   "name": {
-                    "en": "Creating a call center user",
+                    "en": "Creating a telesales user",
                     "es": "Crear usuario de televentas",
                     "pt": "Criar usuário de televendas"
                   },
                   "slug": {
-                    "en": "how-can-i-create-callcenter-user",
-                    "es": "como-creo-un-usuario-de-televentas",
-                    "pt": "como-criar-um-usuario-de-televendas"
+                    "en": "creating-a-telesales-user",
+                    "es": "crear-usuario-de-televentas",
+                    "pt": "criar-usuario-de-televendas"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -16839,12 +16885,12 @@
                 {
                   "name": {
                     "en": "Adding a Client Id and a Client Secret to log in with Google",
-                    "es": "Registrar Client Id y Client Secret para inicio de sesión con Google",
-                    "pt": "Cadastrar Client Id e Client Secret para login com Google"
+                    "es": "Registrar client ID y secreto del cliente para inicio de sesión con Google",
+                    "pt": "Cadastrar Client ID e Client secret para login com Google"
                   },
                   "slug": {
                     "en": "adding-a-client-id-and-a-client-secret-to-log-in-with-google",
-                    "es": "registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google",
+                    "es": "registrar-client-id-y-secreto-del-cliente-para-inicio-de-sesion-con-google",
                     "pt": "cadastrar-client-id-e-client-secret-para-login-com-google"
                   },
                   "origin": "",
@@ -16853,14 +16899,14 @@
                 },
                 {
                   "name": {
-                    "en": "Adding Client ID and Client Secret for Facebook Login",
-                    "es": "Registrar Client ID y Secreto del cliente para Inicio de sesión con Facebook",
-                    "pt": "Cadastrar Client Id e Segredo do cliente para login com Facebook"
+                    "en": "Adding Client ID and Client secret to log in with Facebook",
+                    "es": "Registrar client ID y secreto del cliente para inicio de sesión con Facebook",
+                    "pt": "Cadastrar Client ID e Client secret para login com Facebook"
                   },
                   "slug": {
-                    "en": "adding-a-client-id-and-a-client-secret-to-log-in-with-facebook",
-                    "es": "registrar-client-id-y-client-secret-para-login-con-facebook",
-                    "pt": "cadastrar-client-id-e-segredo-do-cliente-para-login-com-facebook"
+                    "en": "adding-client-id-and-client-secret-to-log-in-with-facebook",
+                    "es": "registrar-client-id-y-secreto-del-cliente-para-inicio-de-sesion-con-facebook",
+                    "pt": "cadastrar-client-id-e-client-secret-para-login-com-facebook"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17038,12 +17084,12 @@
                 {
                   "name": {
                     "en": "Budgets overview",
-                    "es": "Budgets - Información general",
+                    "es": "Presupuestos - Información general",
                     "pt": "Visão geral de Budgets"
                   },
                   "slug": {
                     "en": "budgets-overview",
-                    "es": "budgets-informacion-general",
+                    "es": "presupuestos-informacion-general",
                     "pt": "visao-geral-de-budgets"
                   },
                   "origin": "",
@@ -17067,14 +17113,90 @@
                 },
                 {
                   "name": {
-                    "pt": "Visão geral de Scopes",
-                    "en": "Visão geral de Scopes",
-                    "es": "Visão geral de Scopes"
+                    "en": "Buying policies overview",
+                    "es": "Políticas de compras",
+                    "pt": "Buying Policies"
                   },
                   "slug": {
-                    "pt": "visao-geral-de-scopes",
-                    "en": "",
-                    "es": ""
+                    "en": "buying-policies-overview",
+                    "es": "politicas-de-compras",
+                    "pt": "buying-policies"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Custom checkout fields",
+                    "es": "Campos personalizables del checkout",
+                    "pt": "Campos customizáveis no checkout"
+                  },
+                  "slug": {
+                    "en": "custom-checkout-fields",
+                    "es": "campos-personalizables-del-checkout",
+                    "pt": "campos-customizaveis-do-checkout"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Organization Account",
+                "es": "Organization Account",
+                "pt": "Organization Account"
+              },
+              "slug": {
+                "en": "organization-account-subcategory",
+                "es": "organization-account-subcategoria",
+                "pt": "organization-account-subcategoria"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Adding or editing budgets",
+                    "es": "Agregar o editar presupuestos",
+                    "pt": "Adicionar ou editar budgets"
+                  },
+                  "slug": {
+                    "en": "adding-or-editing-budgets",
+                    "es": "agregar-o-editar-presupuestos",
+                    "pt": "adicionar-ou-editar-budgets"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Adding or editing buying policies",
+                    "es": "Agregar o editar políticas de compras",
+                    "pt": "Adicionar ou editar Buying Policies"
+                  },
+                  "slug": {
+                    "en": "adding-or-editing-buying-policies",
+                    "es": "agregar-o-editar-politicas-de-compras",
+                    "pt": "adicionar-ou-editar-buying-policies"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Adding or editing custom checkout fields",
+                    "es": "Agregar o editar campos personalizables del checkout",
+                    "pt": "Adicionar ou editar campos customizáveis do checkout"
+                  },
+                  "slug": {
+                    "en": "adding-or-editing-custom-checkout-fields",
+                    "es": "agregar-o-editar-campos-personalizables-del-checkout",
+                    "pt": "adicionar-ou-editar-campos-customizaveis"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17112,9 +17234,9 @@
                   "children": [
                     {
                       "name": {
-                        "en": "B2B Checkout Settings",
-                        "es": "B2B Checkout Settings",
-                        "pt": "Configurações de Checkout no B2B"
+                        "en": "B2B Checkout Settings (B2B Suite)",
+                        "es": "B2B Checkout Settings (B2B Suite)",
+                        "pt": "Configurações de Checkout no B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "b2b-checkout-settings",
@@ -17143,9 +17265,9 @@
                   "children": [
                     {
                       "name": {
-                        "en": "B2B Orders History - Overview",
-                        "es": "B2B Orders History - Información general",
-                        "pt": "Histórico de Pedidos B2B - Visão geral"
+                        "en": "B2B Orders History - Overview (B2B Suite)",
+                        "es": "B2B Orders History - Información general (B2B Suite)",
+                        "pt": "Histórico de Pedidos B2B - Visão geral (B2B Suite)"
                       },
                       "slug": {
                         "en": "overview-of-b2b-orders-history",
@@ -17174,9 +17296,9 @@
                   "children": [
                     {
                       "name": {
-                        "en": "B2B Store Settings",
-                        "es": "Configuración de tiendas B2B",
-                        "pt": "Configurando lojas B2B"
+                        "en": "B2B Store Settings (B2B Suite)",
+                        "es": "Configuración de tiendas B2B (B2B Suite)",
+                        "pt": "Configurando lojas B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "b2b-store-settings",
@@ -17189,9 +17311,9 @@
                     },
                     {
                       "name": {
-                        "en": "Configuring bulk data import for organizations and cost centers",
-                        "es": "Configurar la importación en masa de datos de organizaciones y centros de costos",
-                        "pt": "Configurando a importação em massa de dados sobre organizações e centros de custos"
+                        "en": "Configuring bulk data import for organizations and cost centers (B2B Suite)",
+                        "es": "Configurar la importación en masa de datos de organizaciones y centros de costos (B2B Suite)",
+                        "pt": "Configurando a importação em massa de dados sobre organizações e centros de custos (B2B Suite)"
                       },
                       "slug": {
                         "en": "configuring-bulk-data-import-for-organizations-and-cost-centers",
@@ -17204,9 +17326,9 @@
                     },
                     {
                       "name": {
-                        "en": "Managing B2B organizations",
-                        "es": "Gestión de organizaciones B2B",
-                        "pt": "Gerenciamento de organizações B2B"
+                        "en": "Managing B2B organizations (B2B Suite)",
+                        "es": "Gestión de organizaciones B2B (B2B Suite)",
+                        "pt": "Gerenciamento de organizações B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "managing-b2b-organizations",
@@ -17219,9 +17341,9 @@
                     },
                     {
                       "name": {
-                        "en": "Requesting a new organization",
-                        "es": "Registrar una nueva organización",
-                        "pt": "Cadastro de nova organização"
+                        "en": "Requesting a new organization (B2B Suite)",
+                        "es": "Registrar una nueva organización (B2B Suite)",
+                        "pt": "Cadastro de nova organização (B2B Suite)"
                       },
                       "slug": {
                         "en": "requesting-a-new-organization",
@@ -17250,9 +17372,9 @@
                   "children": [
                     {
                       "name": {
-                        "en": "Managing B2B quotes",
-                        "es": "Gestionar cotizaciones en B2B",
-                        "pt": "Gerenciamento de cotações no B2B"
+                        "en": "Managing B2B quotes (B2B Suite)",
+                        "es": "Gestionar cotizaciones en B2B (B2B Suite)",
+                        "pt": "Gerenciamento de cotações no B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "managing-b2b-quotes",
@@ -17281,9 +17403,9 @@
                   "children": [
                     {
                       "name": {
-                        "en": "B2B collection management",
-                        "es": "Gestión de colecciones en B2B",
-                        "pt": "Gerenciamento de Coleções no B2B"
+                        "en": "B2B collection management (B2B Suite)",
+                        "es": "Gestión de colecciones en B2B (B2B Suite)",
+                        "pt": "Gerenciamento de Coleções no B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "b2b-collection-management",
@@ -17296,9 +17418,9 @@
                     },
                     {
                       "name": {
-                        "en": "B2B cost center management",
-                        "es": "Gestión de centros de costos en B2B",
-                        "pt": "Gerenciamento de centro de custo no B2B"
+                        "en": "B2B cost center management (B2B Suite)",
+                        "es": "Gestión de centros de costos en B2B (B2B Suite)",
+                        "pt": "Gerenciamento de centro de custo no B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "b2b-cost-center-management",
@@ -17311,9 +17433,9 @@
                     },
                     {
                       "name": {
-                        "en": "B2B organization general settings",
-                        "es": "Configuración general de organizaciones B2B",
-                        "pt": "Configurações gerais da organização B2B"
+                        "en": "B2B organization general settings (B2B Suite)",
+                        "es": "Configuración general de organizaciones B2B (B2B Suite)",
+                        "pt": "Configurações gerais da organização B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "b2b-organization-general-settings",
@@ -17326,9 +17448,9 @@
                     },
                     {
                       "name": {
-                        "en": "B2B trade policies - Overview",
-                        "es": "Políticas comerciales en B2B - Información general",
-                        "pt": "Política comercial no B2B - Visão geral"
+                        "en": "B2B trade policies - Overview (B2B Suite)",
+                        "es": "Políticas comerciales en B2B - Información general (B2B Suite)",
+                        "pt": "Política comercial no B2B - Visão geral (B2B Suite)"
                       },
                       "slug": {
                         "en": "b2b-trade-policies-overview",
@@ -17341,9 +17463,9 @@
                     },
                     {
                       "name": {
-                        "en": "Configuring payment conditions for B2B",
+                        "en": "Configuring payment conditions for B2B (B2B Suite)",
                         "es": "Configurar condiciones de pago B2B",
-                        "pt": "Configurando condições de pagamento B2B"
+                        "pt": "Configurando condições de pagamento B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "configuring-payment-conditions-for-b2b",
@@ -17356,9 +17478,9 @@
                     },
                     {
                       "name": {
-                        "en": "Configuring seller allocation for buying",
-                        "es": "Configurar la asignación de sellers a organizaciones compradoras (B2B)",
-                        "pt": "Configurando atribuição de sellers à organizações compradoras (B2B)"
+                        "en": "Configuring seller allocation for buying (B2B Suite)",
+                        "es": "Configurar la asignación de sellers a organizaciones compradoras (B2B Suite)",
+                        "pt": "Configurando atribuição de sellers à organizações compradoras (B2B Suite)"
                       },
                       "slug": {
                         "en": "configuring-seller-allocation-for-buying-xky",
@@ -17371,9 +17493,9 @@
                     },
                     {
                       "name": {
-                        "en": "Custom fields when adding an organization",
-                        "es": "Campos personalizados en el registro de organizaciones",
-                        "pt": "Campos personalizados no cadastro de organização"
+                        "en": "Custom fields when adding an organization (B2B Suite)",
+                        "es": "Campos personalizados en el registro de organizaciones (B2B Suite)",
+                        "pt": "Campos personalizados no cadastro de organização (B2B Suite)"
                       },
                       "slug": {
                         "en": "custom-fields-when-adding-an-organization",
@@ -17386,9 +17508,9 @@
                     },
                     {
                       "name": {
-                        "en": "Managing users in B2B organizations",
-                        "es": "Gestión de usuarios en organizaciones B2B",
-                        "pt": "Gerenciamento de Usuários em organizações B2B"
+                        "en": "Managing users in B2B organizations (B2B Suite)",
+                        "es": "Gestión de usuarios en organizaciones B2B (B2B Suite)",
+                        "pt": "Gerenciamento de Usuários em organizações B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "managing-users-in-b2b-organizations",
@@ -17401,9 +17523,9 @@
                     },
                     {
                       "name": {
-                        "en": "Price table management in B2B organizations",
-                        "es": "Gestionar tablas de precios en organizaciones B2B",
-                        "pt": "Gerenciamento de tabelas de preços em organizações B2B"
+                        "en": "Price table management in B2B organizations (B2B Suite)",
+                        "es": "Gestionar tablas de precios en organizaciones B2B (B2B Suite)",
+                        "pt": "Gerenciamento de tabelas de preços em organizações B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "price-table-management-in-b2b-organizations",
@@ -17432,24 +17554,9 @@
                   "children": [
                     {
                       "name": {
-                        "en": "B2B – Overview",
-                        "es": "B2B - Información general",
-                        "pt": "B2B – Visão geral"
-                      },
-                      "slug": {
-                        "en": "b2b-overview",
-                        "es": "b2b-vision-general",
-                        "pt": "b2b-visao-geral"
-                      },
-                      "origin": "",
-                      "type": "markdown",
-                      "children": []
-                    },
-                    {
-                      "name": {
-                        "en": "B2B Suite - Overview",
-                        "es": "B2B Suite - Información general",
-                        "pt": "B2B Suite - Visão geral"
+                        "en": "B2B Suite - Overview (B2B Suite)",
+                        "es": "B2B Suite - Información general (B2B Suite)",
+                        "pt": "B2B Suite - Visão geral (B2B Suite)"
                       },
                       "slug": {
                         "en": "b2b-suite-overview",
@@ -17462,9 +17569,9 @@
                     },
                     {
                       "name": {
-                        "en": "What is Order Configuration",
-                        "es": "Qué es Order Configuration",
-                        "pt": "O que é Order Configuration"
+                        "en": "What is Order Configuration (B2B Suite)",
+                        "es": "Qué es Order Configuration (B2B Suite)",
+                        "pt": "O que é Order Configuration (B2B Suite)"
                       },
                       "slug": {
                         "en": "what-is-order-configuration",
@@ -17493,9 +17600,9 @@
                   "children": [
                     {
                       "name": {
-                        "en": "Configuring B2B self-service stores",
-                        "es": "Configurar una tienda B2B de autoservicio",
-                        "pt": "Configurar loja B2B self-service"
+                        "en": "Configuring B2B self-service stores (B2B Suite)",
+                        "es": "Configurar una tienda B2B de autoservicio (B2B Suite)",
+                        "pt": "Configurar loja B2B self-service (B2B Suite)"
                       },
                       "slug": {
                         "en": "configuring-b2b-self-service-stores",
@@ -17508,9 +17615,9 @@
                     },
                     {
                       "name": {
-                        "en": "Facilitating B2B store operation",
-                        "es": "Facilitar la operación de una tienda B2B",
-                        "pt": "Facilitar a operação da loja B2B"
+                        "en": "Facilitating B2B store operation (B2B Suite)",
+                        "es": "Facilitar la operación de una tienda B2B (B2B Suite)",
+                        "pt": "Facilitar a operação da loja B2B (B2B Suite)"
                       },
                       "slug": {
                         "en": "facilitating-b2b-store-operation",
@@ -17523,9 +17630,9 @@
                     },
                     {
                       "name": {
-                        "en": "How to set up B2B with VTEX",
-                        "es": "Configurar B2B en VTEX",
-                        "pt": "Configurar B2B na VTEX"
+                        "en": "How to set up B2B with VTEX (B2B Suite)",
+                        "es": "Configurar B2B en VTEX (B2B Suite)",
+                        "pt": "Configurar B2B na VTEX (B2B Suite)"
                       },
                       "slug": {
                         "en": "setting-up-b2b-on-vtex",
@@ -17554,9 +17661,9 @@
                   "children": [
                     {
                       "name": {
-                        "en": "Permissions management in B2B Suite",
-                        "es": "Gestionar permisos en B2B Suite",
-                        "pt": "Gerenciamento de permissões no B2B Suite"
+                        "en": "Permissions management in B2B Suite (B2B Suite)",
+                        "es": "Gestionar permisos en B2B Suite (B2B Suite)",
+                        "pt": "Gerenciamento de permissões no B2B Suite (B2B Suite)"
                       },
                       "slug": {
                         "en": "permissions-management-in-b2b-suite",
@@ -17986,7 +18093,7 @@
                 {
                   "name": {
                     "en": "Delivery Options (Beta)",
-                    "es": "Opciones de envío (Beta)",
+                    "es": "Opciones de envío (beta)",
                     "pt": "Opções de envio (Beta)"
                   },
                   "slug": {
@@ -19079,7 +19186,7 @@
                 {
                   "name": {
                     "en": "Creating Collections (Beta)",
-                    "es": "Registar Colecciones (Beta)",
+                    "es": "Registrar Colecciones (Beta)",
                     "pt": "Cadastrar Coleções (Beta)"
                   },
                   "slug": {
@@ -32299,6 +32406,21 @@
                     "en": "promotion-summary",
                     "es": "resumen-de-la-promocion",
                     "pt": "resumo-da-promocao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Promotion templates management",
+                    "es": "Gestión de plantillas de promociones",
+                    "pt": "Gerenciamento de templates de promoção"
+                  },
+                  "slug": {
+                    "en": "promotion-template-management",
+                    "es": "gestion-de-plantillas-de-promociones",
+                    "pt": "gerenciamento-de-templates-de-promocao"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -59320,12 +59442,12 @@
             {
               "name": {
                 "en": "Checkout cancels transaction after creation",
-                "es": "El proceso de pago cancela la transacción tras su creación.",
+                "es": "El pago cancela la transacción después de la creación",
                 "pt": "O checkout cancela a transação após a criação"
               },
               "slug": {
                 "en": "checkout-cancels-transaction-after-creation",
-                "es": "el-proceso-de-pago-cancela-la-transaccion-tras-su-creacion",
+                "es": "el-pago-cancela-la-transaccion-despues-de-la-creacion",
                 "pt": "o-checkout-cancela-a-transacao-apos-a-criacao"
               },
               "origin": "",

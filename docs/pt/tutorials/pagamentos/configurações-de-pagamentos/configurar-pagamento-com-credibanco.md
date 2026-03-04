@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento Credibanco. Por meio deste provedor, sua loja pode realizar vendas por meio de cartões de crédito, PSE, Promissórias, Venda Direta Crédito e Venda Direta Débito.
+Na VTEX, é possível realizar a integração com o provedor de pagamento Credibanco. Por meio deste provedor, sua loja pode realizar vendas por meio de cartões de crédito, PSE, Promissórias, Venda Direta Crédito, Venda Direta Débito, Bancolombia-Credibanco, Efecty-Credibanco e Datafono-Credibanco.
 
 Para configurar o Credibanco, siga os passos abaixo:
 

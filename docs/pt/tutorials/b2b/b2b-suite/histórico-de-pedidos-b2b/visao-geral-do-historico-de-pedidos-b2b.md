@@ -1,5 +1,5 @@
 ---
-title: 'Histórico de Pedidos B2B - Visão geral'
+title: 'Histórico de Pedidos B2B - Visão geral (B2B Suite)'
 id: C2i93MZmjSrqhEx16YYuA
 status: PUBLISHED
 createdAt: 2024-07-26T13:17:45.094Z
@@ -15,6 +15,8 @@ locale: pt
 subcategoryId: 2LaAukjQB4QEbqSYdgjq7l
 order: 1
 ---
+
+> ⚠️ Esta documentação se aplica apenas ao B2B Suite.
 
 Em uma [operação B2B](/pt/docs/tutorials/b2b-visao-geral), múltiplos usuários dentro de uma mesma organização realizam pedidos em nome da empresa. O aplicativo **Histórico de Pedidos B2B** foi desenvolvido para atender a essas necessidades específicas, permitindo que os usuários visualizem e gerenciem pedidos de forma integrada e colaborativa.
 

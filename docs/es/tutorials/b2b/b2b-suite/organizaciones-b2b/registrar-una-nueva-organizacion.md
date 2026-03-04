@@ -1,5 +1,5 @@
 ---
-title: 'Registrar una nueva organización'
+title: 'Registrar una nueva organización (B2B Suite)'
 id: 4bTIDPay4fNz39l5XHijAh
 status: PUBLISHED
 createdAt: 2024-06-06T16:21:26.266Z
@@ -14,6 +14,8 @@ legacySlug: registrar-una-nueva-organizacion
 locale: es
 subcategoryId: 6bSdupUQgvuXjBL9Igawxl
 ---
+
+> ⚠️ Esta documentación se aplica solo a B2B Suite.
 
 Para que una empresa se registre en la tienda, debe rellenar el formulario Solicitar una nueva organización de la siguiente manera:
 

@@ -1,5 +1,5 @@
 ---
-title: 'Configurar loja B2B self-service'
+title: 'Configurar loja B2B self-service (B2B Suite)'
 id: 4576nMaRKk4madDZ7liiXS
 status: PUBLISHED
 createdAt: 2021-03-30T13:11:03.141Z
@@ -14,6 +14,8 @@ legacySlug: configurar-loja-b2b-self-service
 locale: pt
 subcategoryId: 2LrbEY7MFeKqmdfYLBCnfi
 ---
+
+> ⚠️ Esta documentação se aplica apenas ao B2B Suite.
 
 O cenário self-service é o mais flexível das possibilidades de B2B. Nele, o cliente pode realizar o fluxo de compra sem a necessidade de interação com vendedores, o que diminui a fricção no fluxo de compra. Por isso, o  self-service é um processo semelhante à compra em B2C. 
 

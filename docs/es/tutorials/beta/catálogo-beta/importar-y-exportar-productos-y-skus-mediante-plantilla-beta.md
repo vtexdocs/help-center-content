@@ -3,7 +3,7 @@ title: 'Importar y exportar productos y SKUs mediante plantilla (Beta)'
 id: 5udKxWP1ZeBD7QB7Fy2BNl
 status: PUBLISHED
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2026-01-09T15:30:32.980Z
+updatedAt: 2026-02-26T15:30:32.980Z
 publishedAt: 2025-11-05T15:30:32.980Z
 firstPublishedAt: 2025-09-05T18:41:30.755Z
 contentType: tutorial
@@ -75,7 +75,7 @@ Mientras se procesa la exportación, la página [Productos y SKUs](/es/docs/tuto
 * **Ícono de carga:** indica que la operación de exportación está en curso.
 * **Productos y SKUs:** identifica el tipo de exportación. Otros tipos de exportación disponibles son [especificaciones de productos](/es/docs/tutorials/importar-y-exportar-especificaciones-de-productos-mediante-plantilla-beta), [especificaciones de SKUs](/es/docs/tutorials/importar-y-exportar-especificaciones-de-skus-mediante-plantilla-beta) e [imágenes de productos y SKUs](/es/docs/tutorials/importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla-beta).
 * **Fecha y hora:** muestra la hora de inicio de la exportación, en el formato `DD-MM-AAAA - hh:mm`.
-* **Número en la tag azul:** informa la cantidad de ítems que se están exportando. 
+* **Número en la tag azul:** informa la cantidad de ítems que se están exportando.
 * **(Opcional) Ícono flecha hacia abajo** <i class="fas fa-angle-down" aria-hidden="true"></i>: se muestra únicamente cuando hay más de una exportación en curso. Al hacer clic, la ventana de exportaciones se minimiza; la puedes volver a expandir después.
 * **Ícono cerrar** <i class="fas fa-times" aria-hidden="true"></i>: al hacer clic se cierra la ventana, pero no afecta la exportación en curso.
 * **Ícono cancelar** <i class="far fa-times-circle" aria-hidden="true"></i>: al hacer clic se cancela la exportación.
@@ -94,7 +94,7 @@ La siguiente tabla presenta la descripción y el ejemplo de valor de los campos 
 
 | Campo | Descripción | Ejemplo |
 | :--- | :--- | :--- |
-| ID Producto | Número único de identificación del producto. Si este campo ya está completado no se puede modificar. Para agregar un nuevo producto deja el campo vacío. | 310117603 |
+| ID Producto | Número único de identificación del producto. Puedes rellenar un ID personalizado o dejar el campo vacío, de forma que la plataforma genera el ID automáticamente. Si este campo ya está completado no se puede modificar. | 310117603 |
 | Nombre Producto* | Nombre del producto presentado a los clientes en la experiencia de navegación, puede tener hasta 150 caracteres. Por cuestiones de [SEO](/es/docs/tutorials/mejorar-el-seo-de-las-paginas-de-lista-de-productos), recomendamos:<ul><li>✅ Utilizar palabras simples</li><li>❌ Evitar otros idiomas</li><li>❌ Evitar ortografía compleja</li></ul> | Camiseta de algodón |
 | Producto activo | Indica si el [status del producto](/es/docs/tutorials/productos-y-skus#filtrar-por-status) será activo o inactivo. Este campo no se puede editar desde la plantilla, debe dejarse vacío. | (Deja el campo vacío) |
 | Descripción | Texto con información general sobre el producto. Ya que este contenido se muestra a los clientes en la vitrina de la tienda, recomendamos crear un resumen simple y fácil de entender. | Modelo con cuello redondo y manga corta. |
@@ -111,12 +111,12 @@ La siguiente tabla presenta la descripción y el ejemplo de valor de los campos 
 | Título de la página | Nombre que se mostrará tanto en la página de detalles del producto (PDP) como en la pestaña del navegador. Este campo es importante para fines de SEO. No pueden superarse los 150 caracteres. | Camiseta azul cuello redondo |
 | Metadescripción | Breve descripción del producto. Se recomienda usar menos de 160 caracteres. Esto permite que los buscadores presenten la descripción de manera correcta en las páginas de resultados. | Camiseta azul cuello redondo de poliéster y lycra confeccionada con 70% de material reciclado |
 | Mostrar en el sitio web* | Si deseas que el producto sea visible en la vitrina, llena con `sí`. Si prefieres que se mantenga oculto, llena con `no`. | sí |
-| Mostrar cuando no hay stock* | Si deseas que el producto sin stock se muestre en la vitrina, llena con `sí`. Esto permite utilizar la opción [Avísame](/es/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e#) para que el cliente ingrese su email y recibe una notificación cuando el producto esté disponible nuevamente. Si prefieres que el producto sin stock se oculte en la vitrina, llena con `no`. | no |
+| Mostrar cuando no hay stock* | Si deseas que el producto sin stock se muestre en la vitrina, llena con `sí`. Esto permite utilizar la opción [Avísame](https://help.vtex.com/es/docs/tutorials/configurar-la-opcion-avisame) para que el cliente ingrese su email y recibe una notificación cuando el producto esté disponible nuevamente. Si prefieres que el producto sin stock se oculte en la vitrina, llena con `no`. | no |
 | Fecha de lanzamiento | Fecha y hora en que el producto estará disponible para la venta. Este campo ayuda a ordenar los resultados de búsqueda del sitio web, influye en la creación de [colecciones automáticas](/es/docs/tutorials/registrar-colecciones-beta) y determina la fecha de indexación del producto. El formato permitido es `AAAA-MM-DD`. | 2025-11-25 |
 | Palabras sustitutas | Sinónimos del nombre del producto, que permiten búsquedas más amplias. El límite es de 8000 caracteres, incluyendo caracteres especiales. Para agregar varias palabras, sepáralas con comas sin espacios. | camisa,blusa |
 | Código de referencia Producto | Código de referencia único del producto, utilizado internamente por la tienda. Para llenar este campo, usa una combinación única de letras y/o números. | 68ce4_azul |
 | Código fiscal | Secuencia numérica que identifica el producto. | 84509010 |
-| ID SKU | Código numérico único que identifica el SKU. Si este campo ya está completado no se puede modificar. Para agregar un nuevo producto deja el campo vacío. | 310119261 |
+| ID SKU | Código numérico único que identifica el SKU. Puedes rellenar un ID personalizado o dejar el campo vacío, de forma que la plataforma genera el ID automáticamente. Si este campo ya está completado no se puede modificar. | 310119261 |
 | Nombre SKU* | Nombre del SKU, es decir, lo que identifica la variación del producto. | M |
 | Activar SKU si es posible* | Si deseas la activación automática del SKU después de verificar los [requisitos de disponibilidad](/es/faq/por-que-el-producto-no-aparece-en-el-sitio-web), llena con `sí`. Si no deseas que se active, llena con `no`. | sí |
 | SKU Activo | Este campo define si el SKU está activo (`sí`) o inactivo (`no`). El campo no permite modificación y solo se utiliza para consulta. | no |
@@ -138,7 +138,7 @@ La siguiente tabla presenta la descripción y el ejemplo de valor de los campos 
 | Condición comercial | Código numérico único identificador de la [condición comercial](/es/docs/tutorials/registrar-condicion-comercial), que define las promociones o [condiciones de pago](/es/docs/tutorials/diferencia-entre-medios-de-pago-y-condiciones-de-pago) que deben aplicarse al SKU. | Predeterminado |
 | Valor fidelidad | Crédito que el cliente recibe al comprar 1 unidad de determinado SKU. Por ejemplo, si llenas este campo con un valor de 1.00 USD, los clientes que compren este SKU obtendrán un crédito de 1.00 USD en la tienda para compras futuras. Este campo debe llenarse con valores decimales de la moneda predeterminada de la tienda. | 49.90 |
 | Fecha de preventa | Fecha de preventa asignada al SKU. La fecha de preventa es la fecha prevista en que el ítem llegará a las tiendas y estará disponible para la venta. Para configurarla, debes tomar en cuenta la fecha de lanzamiento del ítem y el [cálculo de envío](/es/docs/tutorials/como-funciona-el-calculo-del-envio) a los clientes. El formato permitido es `AAAA-MM-DD`. | 2025-10-30 |
-| Anexos | Nombre del [anexo](/es/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm#) que el cliente puede seleccionar como personalización del SKU. | Personalizar nombre |
+| Anexos | Nombre del [anexo](https://help.vtex.com/es/docs/tutorials/que-es-un-anexo) que el cliente puede seleccionar como personalización del SKU. | Personalizar nombre |
 | Accesorios | Ítems sugeridos como opciones que complementan la venta. Para agregar un ítem [accesorio](/es/docs/tutorials/configurar-producto-similar-sugerencias-accesorios-y-genericos), incluye el ID de SKU. Si deseas incluir varios SKUs, sepáralos con una coma sin espacios. | 320221270 |
 | Sugerencias | Ítems que se muestran como sugerencias de compra. Para agregar un ítem como [sugerencia](/es/docs/tutorials/configurar-producto-similar-sugerencias-accesorios-y-genericos), incluye el ID de SKU. Si deseas incluir varios SKUs, sepáralos con una coma sin espacios. | 320221279,320221280 |
 | Productos similares | Ítems que se ofrecen como alternativa de compra o que guardan similitud con el producto principal. Para agregar un ítem [similar](/es/docs/tutorials/configurar-producto-similar-sugerencias-accesorios-y-genericos), incluye el ID de SKU correspondiente. Si deseas incluir varios SKUs, sepáralos con una coma sin espacios. | 320221284 |
@@ -149,4 +149,3 @@ La siguiente tabla presenta la descripción y el ejemplo de valor de los campos 
 * [Importar y exportar especificaciones de productos mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-especificaciones-de-productos-mediante-plantilla-beta)
 * [Importar y exportar especificaciones de SKUs mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-especificaciones-de-skus-mediante-plantilla-beta)
 * [Importar y exportar imágenes de productos y SKUs mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla-beta)
-

@@ -1,5 +1,5 @@
 ---
-title: 'Gestionar cotizaciones en B2B'
+title: 'Gestionar cotizaciones en B2B (B2B Suite)'
 id: 34EDJHyBVsewtRu0NnPMCq
 status: PUBLISHED
 createdAt: 2024-08-08T11:03:45.696Z
@@ -14,6 +14,8 @@ legacySlug: gestionar-cotizaciones-en-b2b
 locale: es
 subcategoryId: 74CLq9axeDw1YPzAtCpktn
 ---
+
+> ⚠️ Esta documentación se aplica solo a B2B Suite.
 
 La aplicación Cotizaciones B2B permite a los clientes que utilizan la aplicación  Organizaciones B2B solicitar cotizaciones para sus carritos de compras y guardarlas para uso futuro, incluyendo ítems, cantidades y precios. Esto facilita la negociación de precios con los representantes de ventas de la tienda y los flujos de aprobación de pedidos dentro de la organización.
 

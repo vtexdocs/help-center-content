@@ -1,5 +1,5 @@
 ---
-title: 'Managing B2B quotes'
+title: 'Managing B2B quotes (B2B Suite)'
 id: 34EDJHyBVsewtRu0NnPMCq
 status: PUBLISHED
 createdAt: 2024-08-08T11:03:45.696Z
@@ -14,6 +14,8 @@ legacySlug: managing-b2b-quotes
 locale: en
 subcategoryId: 74CLq9axeDw1YPzAtCpktn
 ---
+
+> ⚠️ This documentation applies to B2B Suite only.
 
 The **B2B Quotes** app allows customers using the [B2B Organizations](/en/docs/tutorials/managing-b2b-organizations) app to request quotes for their shopping carts and save them for future use, including items, quantities, and prices. This facilitates price negotiations with the store's sales associates and order approval flows within the organization.
 

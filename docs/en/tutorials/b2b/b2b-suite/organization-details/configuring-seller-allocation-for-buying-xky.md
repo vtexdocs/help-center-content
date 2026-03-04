@@ -1,5 +1,5 @@
 ---
-title: 'Configuring seller allocation for buying'
+title: 'Configuring seller allocation for buying (B2B Suite)'
 id: 3VJtKNbLpVAl71uVdaOqpE
 status: PUBLISHED
 createdAt: 2023-12-21T18:05:34.497Z
@@ -14,6 +14,8 @@ legacySlug: configuring-seller-allocation-for-buying-xky
 locale: en
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
+
+> ⚠️ This documentation applies to B2B Suite only.
 
 Manufacturers and distributors play a crucial role in the business-to-business (B2B) purchasing process. In certain scenarios, such as in marketplaces, their operational characteristics can lead to sales channel conflicts. Here are some examples:
 

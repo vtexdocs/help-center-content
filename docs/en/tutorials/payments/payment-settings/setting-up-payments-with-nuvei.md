@@ -47,7 +47,7 @@ To use Nuvei, follow the steps below:
 > ⚠️ Whenever the provider's **Environment** is configured as **Live**, the option selected for the **Test 3ds challenge Integration only** field must be **User cardHolder name**.
 
 12. In **3DS**, select whether you want to use 3DS authentication.
-13. In **Marketplace (Split) - Payaut API Key**, fill in as indicated by the provider.
+13. In **Marketplace (Split) - Payaut API Key** and **Marketplace account code - Payaut**, fill in as indicated by the provider.
 14. Click `Save`.
 
 ## Configuring DMN Url on Nuvei
