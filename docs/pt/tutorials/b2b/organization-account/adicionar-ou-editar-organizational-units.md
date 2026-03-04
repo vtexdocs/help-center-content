@@ -18,7 +18,7 @@ Este artigo orienta sobre o gerenciamento de organizational units e está dividi
 * Renomear organizational unit
 * Adicionar endereço
 * Adicionar usuário
-* Adicionar organizational unit subordinada
+* Adicionar organizational unit filha (subordinada)
 * Remover organizational unit
 
 > ⚠️ Para configurar organizational units, o perfil de [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ser `Super Buyer Admin` ou ter o recurso `ManageOrganizationHierarchy`.
@@ -29,8 +29,8 @@ Este artigo orienta sobre o gerenciamento de organizational units e está dividi
 
     ![organization_units_image_initial_org_account_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buying_policies_image_initial_org_account_page_PT.png)
 
-2. Na tela **Organizational Units**, clique no ícone `+` no topo da tela para criar uma nova organizational unit.
-3. No campo **Parent**, clique no menu dropdown e selecione a opção desejada para ser a unidade raiz à qual sua organizational unit estará subordinada.
+2. Na tela **Organizational Units**, clique no ícone `+`.
+3. No modal aberto, clique no menu dropdown do campo **Parent** e selecione a opção desejada para ser a unidade raiz à qual sua organizational unit estará subordinada.
 
     > ℹ️ É possível que este campo já esteja selecionado e não permita alterações. Isso ocorre quando acima da unidade sendo criada existe somente a unidade organizacional raiz.
 
@@ -65,7 +65,7 @@ Este artigo orienta sobre o gerenciamento de organizational units e está dividi
 
 Feito isso, um email será enviado para o usuário adicionado.
 
-## Adicionar organizational unit subordinada
+## Adicionar organizational unit filha (subordinada)
 
 1. Na página **Organizational Units**, na linha correspondente à organizational unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Add Subordinate Unit`.
 2. Preencha as informações da nova organizational unit subordinada:
