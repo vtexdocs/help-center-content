@@ -30,12 +30,11 @@ Este artigo orienta sobre o gerenciamento de organizational units e está dividi
     ![organization_units_image_initial_org_account_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buying_policies_image_initial_org_account_page_PT.png)
 
 2. Na tela **Organizational Units**, clique no ícone `+`.
-3. No modal aberto, clique no menu dropdown do campo **Parent** e selecione a opção desejada para ser a unidade raiz à qual sua organizational unit estará subordinada.
-
-    > ℹ️ É possível que este campo já esteja selecionado e não permita alterações. Isso ocorre quando acima da unidade sendo criada existe somente a unidade organizacional raiz.
-
-4. Preenchar um nome para a organizational unit sendo criada.
+3. Verifique no campo **Parent** se está correto o nome da organizational unit raiz à qual a nova unidade organizacional estará subordinada. Este campo não permite edição.
+4. Preencha o nome da organizational unit sendo criada. É POSSÍVEL [renomeá-lo](#renomear-organizational-unit) posteriormente.
 5. Clique em `Add`.
+
+Após criar uma organizational unit, ela aparecerá listada na tela **Organizational Units**, e você poderá acessar sua Organization Account ao clicar na sua linha correspondente.
 
 ## Renomear organizational unit
 
