@@ -60,4 +60,14 @@ Após adicionar uma nova organization unit, você pode realizar as seguintes aç
 ### Adicionar usuários
 
 1. Na página **Organizational Units**, na linha correspondente à organization unit desejada, clique no botão de menu <i class="fas fa-ellipsis-v"></i> ao lado do nome da organization unit.
-2. Clique em **Add Users**.
+2. Clique em **Add User**.
+3. Preencha as informações do novo usuário:
+    * Nome
+    * Email
+    * Número de telefone
+    * Username
+    * Perfil de acesso
+    * Organização
+    * Centro de custo
+4. Selecione qual ou quais perfis de acesso deseja atribuir ao usuário. Para mais informações, veja o artigo [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions).
+5. Clique em **Save**.
