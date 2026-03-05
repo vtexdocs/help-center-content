@@ -23,7 +23,7 @@ O contrato contém as informações básicas sobre o comprador B2B, incluindo in
 O contrato define as condições comerciais que se aplicam ao comprador B2B. Você pode configurar:
 
 * **Tabelas de preço:** associe uma ou mais [tabelas de preço](https://help.vtex.com/pt/docs/tracks/tabelas-de-preco-definicao-de-conceito) ao contrato.
-* **Coleções de produtos:** selecione quais [coleções de produtos](https://help.vtex.com/pt/docs/tracks/collections-concept-definition) o contrato tem acesso, limitando quais produtos os compradores podem visualizar e comprar.
+* **Coleções de produtos:** selecione quais [coleções de produtos](https://help.vtex.com/pt/docs/tracks/colecoes-definicao-de-conceito) o contrato tem acesso, limitando quais produtos os compradores podem visualizar e comprar.
 * **Meios de pagamento:** especifique quais meios de pagamento os compradores podem usar para transações.
 * **Cartões de crédito:** defina quais cartões de crédito os compradores têm permissão para usar durante o checkout.
 
