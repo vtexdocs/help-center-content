@@ -43,7 +43,7 @@ Siga as etapas abaixo para realizar a mudança de domínio:
 
    É necessário conferir se os sites configurados estão relacionados à conta cadastrada em **Configurações da conta > Contas**. Confira [Gerenciamento da conta](/pt/docs/tutorials/gerenciamento-da-conta) para mais detalhes.
 
-3. Se a sua loja utiliza [VTEX IO \- Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) ou [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), entre em contato com o [suporte VTEX](https://supporticket.vtex.com/support) e solicite apontamento interno, informando o novo domínio. Saiba mais sobre [apontamento interno](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-io).
+3. Se a sua loja utiliza [VTEX IO - Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) ou [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), entre em contato com o [suporte VTEX](https://supporticket.vtex.com/support) e solicite apontamento interno, informando o novo domínio. Saiba mais sobre [apontamento interno](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-io).
 
    Uma vez aberto o chamado, o time de suporte tem até três dias úteis para analisar as configurações e realizar o apontamento. 
 
@@ -71,8 +71,8 @@ Após a confirmação de apontamento interno e propagação de DNS do novo host,
 
 Para garantir que todos os acessos ao domínio antigo sejam direcionados para o novo domínio, siga as instruções abaixo:
 
-* Configure um redirecionamento HTTP 302, que instruirá os navegadores a encaminhar as requisições o novo domínio.  
-* Recomendamos o uso de ferramentas como [direcionar.com.br](https://direcionar.com.br) e [redirect.center](https://redirect.center) para criar o redirecionamento.  
+* Configure um redirecionamento HTTP 301, que instruirá os navegadores a encaminhar as requisições ao novo domínio.  
+* Recomendamos o uso de ferramentas como [Redirect-301](https://www.redirect-301.com/pt/) para criar o redirecionamento.  
 * No painel DNS, evite usar CNAME para redirecionamento, pois essa configuração não garante um redirecionamento adequado.
 
 > ⚠️ É comum que as primeiras navegações no novo domínio sejam mais lentas do que o esperado devido à criação inicial do cache. Esse impacto é temporário e se normaliza com o tempo.
