@@ -16,7 +16,6 @@ Este artigo orienta sobre o gerenciamento de organizational units e está dividi
 
 * Adicionar organizational unit
 * Renomear organizational unit
-* Adicionar endereço
 * Adicionar usuário
 * Adicionar organizational unit filha (subordinada)
 * Remover organizational unit
@@ -41,12 +40,6 @@ Após criar uma organizational unit, ela aparecerá listada na tela **Organizati
 1. Na página **Organizational Units**, na linha correspondente à organizational unit que deseja renomear, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Rename`.
 2. Faça as alterações desejadas.
 3. Clique em `Save`.
-
-## Adicionar endereço
-
-1. Na página **Organizational Units**, na linha correspondente à organizational unit que deseja adicionar endereço, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Add Address`.
-2. Preencha as informações de endereço.
-3. Clique em `Add`.
 
 ## Adicionar usuário
 
