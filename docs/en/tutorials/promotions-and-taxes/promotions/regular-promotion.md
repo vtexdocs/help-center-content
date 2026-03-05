@@ -3,7 +3,7 @@ title: 'Regular Promotion'
 id: tutorials_327
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:59.690Z
-updatedAt: 2025-08-28T18:35:47.144Z
+updatedAt: 2026-03-05T18:35:47.144Z
 publishedAt: 2025-08-28T18:35:47.144Z
 firstPublishedAt: 2017-04-27T23:03:15.647Z
 contentType: tutorial
