@@ -17,7 +17,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 A funcionalidade **Sugestão de preços** da [integração com a Amazon](/pt/docs/tracks/configurar-a-integracao-da-amazon) ajuda sellers a acompanhar a competitividade dos SKUs ativos e tomar decisões de precificação baseadas em contexto.
 
-Com ela, o seller consegue visualizar por SKU o preço atual, a situação de buybox e uma referência de preço competitivo para apoiar ajustes.
+Com ela, o seller consegue visualizar por SKU o preço atual, a situação da buybox e uma referência de preço competitivo para apoiar ajustes.
 
 ## Acessando as sugestões
 
