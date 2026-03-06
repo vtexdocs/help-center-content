@@ -12,7 +12,7 @@ locale: en
 announcementSynopsisEN: 'The Amazon integration now includes price suggestions to support pricing decisions with Buy Box context.'
 ---
 
-We launched the **Price suggestion** feature in the VTEX and Amazon integration to give sellers more visibility into active SKU competitiveness and support day-to-day pricing decisions.
+We launched the **Price suggestion** feature in the VTEX and Amazon integration to give sellers more visibility into the competitiveness of active SKUs and support in daily pricing decisions.
 
 ## What has changed?
 
@@ -23,7 +23,7 @@ Sellers can now check **suggestions** logs with SKU-level information, including
 - Buy Box winner price (when applicable);
 - Suggested competitive price.
 
-As a result, competitiveness diagnosis per SKU is centralized in one place, reducing operational effort and accelerating pricing adjustments.
+With this information, sellers can diagnose SKU competitiveness in a single place, reducing operational effort and accelerating pricing adjustments.
 
 ## What needs to be done?
 
@@ -31,6 +31,5 @@ The feature is already active for all clients connected to Amazon and does not r
 
 For the complete step-by-step guide, see the tutorial [Price suggestion in the Amazon integration](/en/docs/tutorials/amazon-price-suggestion).
 
-## Feedback and questions
 
-We want to evolve this feature based on real usage. If you have comments or suggestions for improvement, please fill out the [Amazon price suggestion](https://forms.gle/qeJCXqGGtcNmRyx2A) form.
+We want to continue evolving this feature based on real usage. If you have comments or suggestions for improvement, please fill out the [Amazon price suggestion](https://forms.gle/qeJCXqGGtcNmRyx2A) form.
