@@ -12,7 +12,7 @@ locale: pt
 
 **Scopes** são a funcionalidade da Organization Account que permite às empresas B2B restringirem os atributos de **Organizational Units**, de forma que os compradores só podem ver e usar os recursos da organizational unit à qual eles têm acesso.
 
-Cada organization unit possui um scope próprio, que não é herdado da organization unit raiz e sim configurado individualmente. Isso permite às empresas controlarem quais informações o comprador de uma unidade de negócio pode ver e usar, limitando o acesso dos usuários ao necessário para suas funções.
+Cada organization unit possui um scope próprio, que não é herdado da organization unit raiz e sim configurado individualmente. Isso permite às empresas controlarem quais informações os compradores de uma unidade de negócio podem ver e usar, limitando o acesso dos usuários ao necessário para suas funções.
 
 As restrições que podem ser impostas a **Organizational Units** estão relacionadas às seguintes informações:
 
