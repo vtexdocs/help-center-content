@@ -17,12 +17,11 @@ Cada organization unit possui um scope próprio, que não é herdado da organiza
 As restrições que podem ser impostas a **Organizational Units** estão relacionadas às seguintes informações:
 
 - IDs de contratos
-- IDs de sistemas de pagamento
+- [Meios e condições de pagamento](https://help.vtex.com/pt/docs/tutorials/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento)
 - IDs de cartões de crédito
-- Condições de pagamento
 - IDs de coleções
-- Tabelas de preços
 - Endereços
+- Accounting fields (campos de identificação da organizational unit)
 
 > ℹ️ O gerenciamento de **Scopes** via API é feito pela [Organization Units API](https://developers.vtex.com/docs/api-reference/organization-units-api#overview).
 
