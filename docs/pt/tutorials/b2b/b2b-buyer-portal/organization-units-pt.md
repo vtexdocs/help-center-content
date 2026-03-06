@@ -48,7 +48,7 @@ As condições comerciais definidas no contrato são herdadas pelas unidades fil
 
 Para entender como contratos são configurados e gerenciados, consulte:
 
-* [Contratos B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b)
+* [Contratos B2B](https://help.vtex.com/pt/docs/tutorials/contratos-b2b-pt)
 
 ## Configurações por Organization Unit
 
@@ -64,7 +64,7 @@ Essa segmentação permite alinhar a operação da loja às políticas internas 
 
 Saiba mais na documentação a seguir:
 
-* [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies-overview)  
+* [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies)  
 * [Visão geral de Budgets](https://help.vtex.com/pt/docs/tutorials/visao-geral-de-budgets)  
 * [Campos customizáveis no checkout](https://help.vtex.com/pt/docs/tutorials/campos-customizaveis-do-checkout)
 
@@ -79,7 +79,7 @@ O escopo de atuação do usuário membro de uma Organization Unit em uma loja B2
 * **Organization Units**, que determinam o grupo em que o usuário está contido.  
 * **Perfis de acesso do storefront**, que definem o papel do usuário na organização reunindo determinadas permissões para realizar ações na frente de loja.
 
-Saiba mais em [Membros da organização compradora](https://help.vtex.com/docs/tutorials/membros-da-organizacao-compradora).
+Saiba mais em [Membros da organização compradora](https://help.vtex.com/pt/docs/tutorials/membros-da-organizacao-compradora).
 
 ## Experiência de compra
 

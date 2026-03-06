@@ -40,7 +40,7 @@ Follow the instructions below to add a user:
   - **Email (optional)**: email address that can be used for login and communications related to the purchasing process.  
   - **Phone number (optional)**: user's contact phone number. It can be used for login and communications related to purchases made.  
   - **Username**: unique identifier for the user within the organization. Used for store login. Special characters are not allowed.  
-  - **Roles**: defines the user's role in the storefront, such as Buyer, Approver, or Organization Admin. For more information about roles and permissions, see the documentation for [Buyer organization members](https://help.vtex.com/docs/tutorials/buyer-organization-members).  
+  - **Roles**: defines the user's role in the storefront, such as Buyer, Approver, or Organization Admin. For more information about roles and permissions, see the documentation for [Buyer organization members](https://help.vtex.com/en/docs/tutorials/buyer-organization-members).  
     > ⚠️ Registering buyer users, that is, users with roles that allow purchases, requires an additional step. Learn more in [Enabling buyer users](#enabling-buyer-users).
 6. Click **Add** to complete the process.
   After creation, a confirmation message will be displayed. You can click **View** in this message to see the newly created user.  
@@ -66,6 +66,6 @@ The code will be valid for 12 hours. Only with this access code will the user be
 Unlike other types of users, registering a user with permission to make purchases in the store requires more than simply creating the user and assigning roles. The user must also be registered as a buyer via API. To enable a user to make purchases in the store, follow the steps below:
 
 1. Add the user to the buyer organization as described in the [step-by-step](#step-by-step).
-2. Assign a role that allows purchases. See roles and permissions in the article [Buyer organization members](https://help.vtex.com/en/docs/tutorials/membros-da-organizacao-compradora).
+2. Assign a role that allows purchases. See roles and permissions in the article [Buyer organization members](https://help.vtex.com/en/docs/tutorials/buyer-organization-members).
 3. Register the user as a buyer. To learn how to add and manage buyer data, see the [B2B Buyer Data API](https://developers.vtex.com/docs/api-reference/b2b-buyer-data-api).
 

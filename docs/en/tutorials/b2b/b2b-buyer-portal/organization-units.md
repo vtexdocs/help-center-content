@@ -48,7 +48,7 @@ The commercial conditions defined in the contract are inherited by child units. 
 
 To understand how contracts are configured and managed, see:
 
-* [B2B contracts](https://help.vtex.com/en/docs/tutorials/contratos-b2b)
+* [B2B contracts](https://help.vtex.com/en/docs/tutorials/b2b-contracts)
 
 ## Organization Unit settings
 
@@ -65,8 +65,8 @@ This segmentation allows the store's operation to align with the internal polici
 Learn more in the following documentation:
 
 * [Buying Policies](https://help.vtex.com/en/docs/tutorials/buying-policies-overview)  
-* [Budgets overview](https://help.vtex.com/en/docs/tutorials/visao-geral-de-budgets)  
-* [Custom fields in checkout](https://help.vtex.com/en/docs/tutorials/campos-customizaveis-do-checkout)
+* [Budgets overview](https://help.vtex.com/en/docs/tutorials/budgets-overview)  
+* [Custom fields in checkout](https://help.vtex.com/en/docs/tutorials/custom-checkout-fields)
 
 ## Organization Unit users
 
@@ -79,7 +79,7 @@ The scope of actions available to a user who is a member of an Organization Unit
 * **Organization Units**, which determine the group the user belongs to.  
 * **Storefront roles**, which define the user’s role in the organization by grouping specific permissions that allow actions in the storefront.
 
-Learn more in [Buyer organization members](https://help.vtex.com/docs/en/tutorials/buyer-organization-members).
+Learn more in [Buyer organization members](https://help.vtex.com/en/docs/tutorials/buyer-organization-members).
 
 ## Purchasing experience
 
