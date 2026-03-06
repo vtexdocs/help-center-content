@@ -14,7 +14,7 @@ locale: pt
 
 Cada organization unit possui um scope próprio, que não é herdado da organization unit raiz e sim configurado individualmente. Isso permite às empresas controlarem quais informações o comprador de uma unidade de negócio pode ver e usar, limitando o acesso dos usuários ao necessário para suas funções.
 
-As restrições que podem ser impostas à organizational unit estão relacionadas às seguintes informações:
+As restrições que podem ser impostas a **Organizational Units** estão relacionadas às seguintes informações:
 
 - IDs de contratos
 - IDs de sistemas de pagamento
@@ -24,7 +24,7 @@ As restrições que podem ser impostas à organizational unit estão relacionada
 - Tabelas de preços
 - Endereços
 
-> ℹ️ O gerenciamento de **Scopes** via API é feito usando a [Organization Units API](https://developers.vtex.com/docs/api-reference/organization-units-api#overview).
+> ℹ️ O gerenciamento de **Scopes** via API é feito pela [Organization Units API](https://developers.vtex.com/docs/api-reference/organization-units-api#overview).
 
 ## Permissões de Storefront
 
