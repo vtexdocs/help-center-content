@@ -10,7 +10,7 @@ locale: pt
 
 > ⚠️ A funcionalidade **Scopes** é exclusiva para o **B2B Buyer Portal**, que está disponível apenas para contas selecionadas.
 
-Na estrutura hierárquica de uma empresa B2B, as [Organizational Units](https://help.vtex.com/pt/docs/tutorials/organizational-units-overview) possuem os chamados **Scopes**, que funcionam como um container que agrupa atributos dessas unidades.
+**Scopes** são a funcionalidade da Organization Account que permite às empresas B2B restringirem os atributos de **Organizational Units**, de forma que os compradores só podem ver e usar os recursos da organizational unit à qual têm acesso.
 
 Cada organization unit possui um scope próprio, e as informações que ele concentra podem incluir:
 
