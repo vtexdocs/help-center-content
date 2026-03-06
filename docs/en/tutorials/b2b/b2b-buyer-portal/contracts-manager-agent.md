@@ -1,7 +1,7 @@
 ---
 title: 'Contracts Manager Agent'
-createdAt: 2026-02-27T00:00:00.000Z
-updatedAt: 2026-02-27T00:00:00.000Z
+createdAt: 2026-03-06T00:00:00.000Z
+updatedAt: 2026-03-06T00:00:00.000Z
 contentType: tutorial
 productTeam: B2B
 slugEN: contracts-manager-agent
