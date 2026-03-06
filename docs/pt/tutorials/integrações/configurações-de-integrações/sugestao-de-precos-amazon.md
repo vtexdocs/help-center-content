@@ -15,9 +15,13 @@ locale: pt
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-A funcionalidade **Sugestão de preços** da [integração com a Amazon](/pt/docs/tracks/configurar-a-integracao-da-amazon) ajuda sellers a acompanhar a competitividade dos SKUs ativos e tomar decisões de precificação baseadas em contexto.
+A funcionalidade **Sugestão de preços** analisa informações de competitividade do SKU na Amazon, como preço atual, custo de frete e o preço do seller que está ganhando a buybox.
 
-Com ela, o seller consegue visualizar por SKU o preço atual, a situação da buybox e uma referência de preço competitivo para apoiar ajustes.
+Com base nesses dados, o sistema gera uma sugestão de preço competitivo que pode ajudar o seller a avaliar se o SKU está bem posicionado em relação aos concorrentes.
+
+ℹ️ A sugestão de preço é apenas uma referência de competitividade e não altera automaticamente o preço do SKU.
+
+Com ela, o seller consegue visualizar, por SKU, o preço atual, a situação da buybox e uma referência de preço competitivo para apoiar ajustes.
 
 ## Acessando as sugestões
 
@@ -32,7 +36,7 @@ Ao abrir um log de sugestão, o seller encontra as seguintes informações:
 - **Preço do ganhador da buybox:** valor de referência do concorrente.
 - **Preço competitivo:** sugestão de preço para aumentar competitividade.
 
-> ℹ️ O dado **Preço do ganhador da buybox** só é apresentado quando você está perdendo a buybox.
+> ⚠️ O dado **Preço do ganhador da buybox** é exibido apenas quando você está perdendo a buybox.
 
 Veja o exemplo na imagem abaixo:
 

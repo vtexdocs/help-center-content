@@ -15,9 +15,13 @@ locale: es
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-La funcionalidad **Sugerencia de precios** en la [integración con Amazon](/es/docs/tracks/amazon) ayuda a los sellers a monitorear la competitividad de los SKUs activos y tomar decisiones de precios con más contexto.
+La funcionalidad **Sugerencia de precios** analiza información de competitividad del SKU en Amazon, como el precio actual, el costo de envío y el precio del seller que está ganando la buybox.
 
-Con esta funcionalidad, el seller puede visualizar por SKU el precio actual, la situación de buybox y una referencia de precio competitivo para orientar ajustes de precio.
+Con base en estos datos, el sistema genera una sugerencia de precio competitivo que puede ayudar al seller a evaluar si el SKU está bien posicionado frente a los competidores.
+
+ℹ️ La sugerencia de precio es solo una referencia de competitividad y no cambia automáticamente el precio del SKU.
+
+Con esta funcionalidad, el seller puede visualizar, por SKU, el precio actual, la situación de la buybox y una referencia de precio competitivo para orientar ajustes.
 
 ## Acceder a las sugerencias
 
@@ -32,7 +36,7 @@ Al abrir un log de sugerencia, el seller encontrará la siguiente información:
 - **Precio del ganador de la buybox:** valor de referencia del competidor.
 - **Precio competitivo:** sugerencia de precio para aumentar la competitividad.
 
-> ℹ️ El dato **Precio del ganador de la buybox** solo se muestra cuando estás perdiendo la buybox.
+> ⚠️ El dato **Precio del ganador de la buybox** solo se muestra cuando estás perdiendo la buybox.
 
 Consulta un ejemplo en la siguiente imagen:
 

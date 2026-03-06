@@ -15,7 +15,11 @@ locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-The **Price suggestion** feature in the [Amazon integration](/en/docs/tracks/amazon) helps sellers monitor the competitiveness of active SKUs and make pricing decisions based on context.
+The **Price suggestion** feature analyzes Amazon SKU competitiveness data, such as current price, shipping cost, and the price of the seller currently winning the buybox.
+
+Based on this data, the system generates a competitive price suggestion that can help sellers evaluate whether the SKU is well positioned against competitors.
+
+ℹ️ The price suggestion is only a competitiveness reference and does not automatically change the SKU price.
 
 With this feature, sellers can view each SKU's current price, buybox status, and a competitive price reference to support price adjustments.
 
@@ -32,7 +36,7 @@ When opening a suggestion log, sellers can find the following information:
 - **Buybox winner price:** competitor reference price.
 - **Competitive price:** suggested price to increase competitiveness.
 
-> ℹ️ The **buybox winner price** data is shown only when you are losing the buybox.
+> ⚠️ The **Buybox winner price** data is shown only when you are losing the buybox.
 
 See an example in the image below:
 
