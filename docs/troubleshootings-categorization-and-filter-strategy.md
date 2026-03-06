@@ -61,8 +61,6 @@ Based on the analysis of **32 articles** in `docs/pt/troubleshooting`, this stra
 | **VTEX Ads**                  | Ads-related catalog/operation topics                   |
 | **B2B Buyer Portal**          | B2B portal experience and operations                   |
 | **VTEX Sales App**            | In-store app sales flow issues                         |
-| **Amazon integration**        | Amazon-specific integration cases                      |
-| **Mercado Libre integration** | Mercado Libre-specific integration cases               |
 
 ---
 
