@@ -1,5 +1,5 @@
 ---
-title: 'B2B Orders History - Overview'
+title: 'B2B Orders History - Overview (B2B Suite)'
 id: C2i93MZmjSrqhEx16YYuA
 status: PUBLISHED
 createdAt: 2024-07-26T13:17:45.094Z
@@ -15,6 +15,8 @@ locale: en
 subcategoryId: 2LaAukjQB4QEbqSYdgjq7l
 order: 1
 ---
+
+> ⚠️ This documentation applies to B2B Suite only.
 
 In a [B2B operation](/en/docs/tutorials/b2b-overview), multiple users from the same organization place orders on behalf of the company. The **B2B Orders History** app was developed to meet these specific needs, allowing users to view and manage orders in an integrated and collaborative way.
 

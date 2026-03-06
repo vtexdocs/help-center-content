@@ -1,5 +1,5 @@
 ---
-title: 'Configuración de tiendas B2B'
+title: 'Configuración de tiendas B2B (B2B Suite)'
 id: 7riBcnrOv4Cz7qMeACyVLm
 status: PUBLISHED
 createdAt: 2023-10-11T15:17:39.003Z
@@ -14,6 +14,8 @@ legacySlug: configuracion-de-tiendas-b2b
 locale: es
 subcategoryId: 6bSdupUQgvuXjBL9Igawxl
 ---
+
+> ⚠️ Esta documentación se aplica solo a B2B Suite.
 
 Esta página permite definir el comportamiento de tiendas B2B para la aprobación de organizaciones, la experiencia del usuario al navegar entre empresas y las políticas comerciales asociadas.
 

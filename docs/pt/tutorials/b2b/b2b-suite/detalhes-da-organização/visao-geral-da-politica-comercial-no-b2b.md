@@ -1,5 +1,5 @@
 ---
-title: 'Política comercial no B2B - Visão geral'
+title: 'Política comercial no B2B - Visão geral (B2B Suite)'
 id: sKrYjDJPBChgIxzYFpUvu
 status: PUBLISHED
 createdAt: 2024-07-05T11:20:38.780Z
@@ -15,6 +15,8 @@ locale: pt
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 order: 1
 ---
+
+> ⚠️ Esta documentação se aplica apenas ao B2B Suite.
 
 Associar uma [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) à organização é essencial para uma operação B2B. Isso permite a aplicação de regras específicas de preços, descontos e condições de pagamento, proporcionando um gerenciamento personalizado das relações comerciais.
 

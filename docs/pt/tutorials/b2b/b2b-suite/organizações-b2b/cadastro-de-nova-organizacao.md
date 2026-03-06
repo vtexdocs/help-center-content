@@ -1,5 +1,5 @@
 ---
-title: 'Cadastro de nova organização'
+title: 'Cadastro de nova organização (B2B Suite)'
 id: 4bTIDPay4fNz39l5XHijAh
 status: PUBLISHED
 createdAt: 2024-06-06T16:21:26.266Z
@@ -14,6 +14,8 @@ legacySlug: cadastro-de-nova-organizacao
 locale: pt
 subcategoryId: 6bSdupUQgvuXjBL9Igawxl
 ---
+
+> ⚠️ Esta documentação se aplica apenas ao B2B Suite.
 
 Para que uma empresa se cadastre na loja, ela precisa preencher o formulário de Solicitação de uma nova organização, da seguinte forma:
 

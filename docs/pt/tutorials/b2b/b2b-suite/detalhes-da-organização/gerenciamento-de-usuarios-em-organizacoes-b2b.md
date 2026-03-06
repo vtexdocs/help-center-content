@@ -1,5 +1,5 @@
 ---
-title: 'Gerenciamento de Usuários em organizações B2B'
+title: 'Gerenciamento de Usuários em organizações B2B (B2B Suite)'
 id: 659ESiB9rjsR6Tg9KLl5He
 status: PUBLISHED
 createdAt: 2024-07-05T11:36:43.947Z
@@ -11,6 +11,8 @@ productTeam: B2B
 slugEN: managing-users-in-b2b-organizations
 locale: pt
 ---
+
+> ⚠️ Esta documentação se aplica apenas ao B2B Suite.
 
 Em uma operação B2B VTEX, usuários são pessoas autorizadas a acessar a plataforma dentro de uma organização B2B. Eles podem:
 - Realizar pedidos.

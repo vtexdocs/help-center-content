@@ -38,7 +38,7 @@ Follow the instructions to search for an event using the filters available in Au
 2. In the **Application** menu under **Filters**, select the application related to the query.
 3. In the **Date** menu, choose a predefined date for the query. If you prefer to set the exact date range for the query, select the **Custom** option and choose the **Start** and **End** dates for the query.
 
-   > ℹ️ Only records from the last 3 months are stored.
+   > ℹ️ Only records from the last 3 months can be searched. If you need data older than this period, please open a [support ticket](https://help.vtex.com/en/support).
 
 4. If you wish, add a filter by Action. To do this, in the field next to `Action` **must be**, type the name of the action and press `Enter`. You can enter more than one value by pressing `Enter` after each selection. Check the name of each action in [Events available in Audit](/en/docs/tutorials/events-available-in-audit).
 5. If necessary, you can add specific filters to search for events more accurately. To do this, click the `Add Filter` button.
@@ -78,7 +78,7 @@ When performing a query, after applying the filters, the <i class="fas fa-arrow-
 
 Click <i class="fas fa-arrow-down" aria-hidden="true"></i> `Export to CSV` to send the file with the events. The email will be sent to the address currently being used in the VTEX Admin.
 
->ℹ️ The exported file may take around 20 minutes to deliver via email.
+> ℹ️ The exported file may take around 20 minutes to deliver via email.
 
 See the example of the file that will be exported: 
 
@@ -91,7 +91,9 @@ pricing,pricing,pricing-bot@example.com,Price,2025-10-28T21:01:01.167Z,,,2025-10
 
 ```
 
->ℹ️ Only one event export is performed at a time. You must wait until you receive the email with the CSV file to perform a new event export.
+> ⚠️ Events from the following applications cannot be exported: OMS, Catalog (API), Catalog (Admin), Subscriptions, Portal CMS, and Portal.
+
+> ℹ️ Only one event export is performed at a time. You must wait until you receive the email with the CSV file to perform a new event export.
 
 ### Query examples
 

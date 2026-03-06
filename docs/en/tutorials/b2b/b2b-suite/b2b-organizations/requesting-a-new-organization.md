@@ -1,5 +1,5 @@
 ---
-title: 'Requesting a new organization'
+title: 'Requesting a new organization (B2B Suite)'
 id: 4bTIDPay4fNz39l5XHijAh
 status: PUBLISHED
 createdAt: 2024-06-06T16:21:26.266Z
@@ -14,6 +14,8 @@ legacySlug: requesting-a-new-organization
 locale: en
 subcategoryId: 6bSdupUQgvuXjBL9Igawxl
 ---
+
+> ⚠️ This documentation applies to B2B Suite only.
 
 To add an organization in your store, the Add a new organization form must be completed as follows:
 

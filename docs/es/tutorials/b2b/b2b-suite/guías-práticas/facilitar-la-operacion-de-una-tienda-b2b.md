@@ -1,5 +1,5 @@
 ---
-title: 'Facilitar la operación de una tienda B2B'
+title: 'Facilitar la operación de una tienda B2B (B2B Suite)'
 id: 8t1f9FYBsSCopHHVujKWR
 status: PUBLISHED
 createdAt: 2021-03-30T14:29:12.548Z
@@ -14,6 +14,8 @@ legacySlug: facilitar-la-operacion-de-una-tienda-b2b
 locale: es
 subcategoryId: 2LrbEY7MFeKqmdfYLBCnfi
 ---
+
+> ⚠️ Esta documentación se aplica solo a B2B Suite.
 
 Puede facilitar la operación de su tienda a través de aplicaciones que se pueden instalar en la misma para solucionar problemas de negocio específicos que están relacionados con la usabilidad de la tienda, las ventas y la posventa.
 

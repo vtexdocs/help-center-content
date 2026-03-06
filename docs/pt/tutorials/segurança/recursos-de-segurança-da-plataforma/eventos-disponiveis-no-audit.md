@@ -3,7 +3,7 @@ title: 'Eventos disponíveis no Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2025-08-25T18:20:54.585Z
+updatedAt: 2026-03-02T18:20:54.585Z
 publishedAt: 2025-08-25T18:20:54.585Z
 firstPublishedAt: 2022-06-22T16:28:52.801Z
 contentType: tutorial
@@ -147,7 +147,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 | Unarchive Coupon | Desarquivamento de cupom. | Código do cupom. |
 | Change Rate Configuration | Alteração de configuração de taxa. | ID da configuração da taxa. |
 | Change Promotion Configuration | Alteração de configuração de promoção. | ID da configuração da promoção. |
-| Change Coupon Configuration | Alteração em coupom. | Código do cupom. |
+| Change Coupon Configuration | Alteração em cupom. | Código do cupom. |
 | Unarchived Calculator | Desarquivamento de promoção ou taxa. | ID da configuração da promoção ou taxa. |
 | Archived Calculator | Arquivamento de promoção ou taxa. | ID da configuração da promoção ou taxa. |
 
@@ -212,7 +212,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 | Save User | Criação de usuário ou alteração de informações de usuário. | ID do usuário. |
 | Save Account | Criação de conta ou edição de informações de conta. | Conta criada ou alterada. |
 | Change Role | Edição de perfil de acesso. | Perfil de acesso editado. |
-| Delete Role | Exclusão perfil de acesso. | Perfil de acesso excluído. |
+| Delete Role | Exclusão de perfil de acesso. | Perfil de acesso excluído. |
 | Unblock AppToken | Desbloqueio de chave de aplicação. | Chave de aplicação desbloqueada. |
 | Resource Access Allowed | Acesso a recurso permitido. | Chave do recurso e ID do usuário ao qual foi permitido. |
 | Cancel Sponsor Invite | Cancelamento de convite para usuário titular. | ID do usuário convidado. |
@@ -228,13 +228,19 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](/pt/docs
 |---|---|---|
 | PasswordCreated | Usuário registra uma senha pela primeira vez na loja ou no Admin VTEX. | ID do usuário. |
 | PasswordUpdated | Usuário altera sua senha da loja ou do Admin VTEX. | ID do usuário. |
+| UserLogin | Login do usuário no Admin VTEX. | ID do usuário. |
+| UserLogout | Logout do usuário do Admin VTEX. | ID do usuário. |
 | IdentityProviderChanged | Mudança de configurações de provedor de identidade. Por exemplo: criação de integração OAuth customizada, alteração de informações em configuração de OAuth existente, entre outros. | Provedor de identidade. |
 
 ## Master Data
 
 | Ação | Descrição do evento | Detalhes do evento |
 |---|---|---|
+| ReadDocument | Leitura de documento. Aplicável apenas a interações com as entidades de dados CL e AD na interface do CRM. | ID do documento. |
+| CreateDocument | Criação de documento. Aplicável apenas a interações com as entidades de dados CL e AD na interface do CRM. | ID do documento. |
+| UpdateDocument | Atualização de documento. Aplicável apenas a interações com as entidades de dados CL e AD na interface do CRM. | ID do documento. |
 | DeleteDocument | Exclusão de documento. | ID do documento. |
+| SearchDocuments | Busca de documentos. Aplicável apenas a interações com as entidades de dados CL e AD na interface do CRM. | Detalhes da consulta de busca. |
 | UpdateSchema | Criação ou edição de schema no Master Data v2. | Nome do schema. |
 | DeleteSchema | Exclusão de schema no Master Data v2. | Nome do schema. |
 
@@ -268,7 +274,7 @@ Na coluna **Ação**, todos os eventos do Headless CMS também apresentam as seg
 
 ## Site Editor
 
-| Ação | Descrição do evento | Detalhe do evento |
+| Ação | Descrição do evento | Detalhes do evento |
 |---|---|---|
 | Schedule change | Agendamento de edição no conteúdo. | ID da entidade alterada. |
 | Edit content block | Edição de bloco de conteúdo. | ID da entidade alterada. |

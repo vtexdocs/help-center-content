@@ -1,5 +1,5 @@
 ---
-title: 'B2B cost center management'
+title: 'B2B cost center management (B2B Suite)'
 id: 2fjt1Layng8iKdvEEzRhuk
 status: PUBLISHED
 createdAt: 2024-07-25T10:55:43.882Z
@@ -14,6 +14,8 @@ legacySlug: b2b-cost-center-management
 locale: en
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
+
+> ⚠️ This documentation applies to B2B Suite only.
 
 In the context of B2B organizations, cost centers represent business units or departments linked to a specific organization. This feature allows you to manage and associate relevant cost centers to your organization, making it easy to allocate and analyze financial expenses.
 
