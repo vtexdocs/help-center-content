@@ -1,5 +1,5 @@
 ---
-title: 'Qué es Order Configuration'
+title: 'Qué es Order Configuration (B2B Suite)'
 id: 2t6UQoFrFSSGW8CGEbA0r5
 status: PUBLISHED
 createdAt: 2020-08-20T16:17:38.285Z
@@ -15,6 +15,8 @@ locale: es
 subcategoryId: 1GujN7Pa7NESCz0sB8srX4
 order: 1
 ---
+
+> ⚠️ Esta documentación se aplica solo a B2B Suite.
 
 El escenario B2B exige diferentes configuraciones del B2C. En este contexto, los pedidos se orientan a diversos fines, como la reventa y el consumo propio. Por eso, es ideal tener precios diferenciados para cada caso de compra.
 

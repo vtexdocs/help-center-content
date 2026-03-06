@@ -3,7 +3,7 @@ title: 'Importar e exportar produtos e SKUs via planilha (Beta)'
 id: 5udKxWP1ZeBD7QB7Fy2BNl
 status: PUBLISHED
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2026-01-09T15:30:32.980Z
+updatedAt: 2026-02-26T15:30:32.980Z
 publishedAt: 2025-11-05T15:30:32.980Z
 firstPublishedAt: 2025-09-05T18:41:30.755Z
 contentType: tutorial
@@ -94,9 +94,9 @@ A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campo
 
 | Campo | Descrição | Exemplo |
 | :--- | :--- | :--- |
-| ID Produto | Número único identificador do produto. Caso esse campo já esteja preenchido, não é possível alterá-lo. Para adicionar um novo produto, deixe o campo vazio. | 310117603 |
+| ID Produto | Número único identificador do produto. Você pode preencher um ID próprio ou deixar o campo vazio, de forma que a plataforma gere o ID automaticamente. Caso esse campo já esteja preenchido, não é possível alterá-lo. | 310117603 |
 | Nome Produto* | Nome do produto apresentado para os clientes na experiência de navegação, podendo ter até 150 caracteres. Por questões de [SEO](/pt/docs/tutorials/melhorando-o-seo-das-paginas-de-lista-de-produtos), recomendamos:<ul><li>✅ Usar palavras simples</li><li>❌ Evitar outros idiomas</li><li>❌ Evitar escrita complexa</li></ul> | Corebiz camiseta |
-| Produto ativo | Informa se o [status do produto](/pt/docs/tutorials/produtos-e-skus#filtrar-por-status) será ativo ou inativo. Este campo não editável pela planilha, deve ser deixado vazio. | |
+| Produto ativo | Informa se o [status do produto](/pt/docs/tutorials/produtos-e-skus#filtrar-por-status) será ativo ou inativo. Este campo não é editável pela planilha, deve ser deixado vazio. | |
 | Descrição | Texto com informações gerais sobre o produto. Este conteúdo é apresentado aos clientes na vitrine da loja, portanto recomendamos criar um resumo de fácil entendimento. | O modelo tem gola redonda e as mangas são curtas. |
 | Descrição adicional | Conteúdo adicional do produto, como informações resumidas. Recomendamos não ultrapassar 150 caracteres, de forma que os mecanismos de busca mostrem o texto completo nas páginas de resultado. | Material 70% reciclado |
 | ID Marca* | Código numérico que identifica a [marca](/pt/docs/tutorials/o-que-e-uma-marca) do produto. Esta informação pode ser encontrada no Admin VTEX, em **Catálogo > Marcas**, ou usando o endpoint [Get brand list](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/brand/list). | 2000003 |
@@ -116,8 +116,8 @@ A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campo
 | Palavras substitutas | Sinônimos do nome do produto, que permitem buscas mais abrangentes. O limite é de 8.000 caracteres, incluindo caracteres especiais. Para adicionar diversas palavras, separe-as por vírgula sem espaço. | camisa,blusa |
 | Código de referência Produto | Código de referência único do produto, utilizado apenas internamente pela loja. Para preencher este campo, use uma combinação única de letras e/ou números. | 68ce4_azul |
 | Código fiscal | Sequência numérica que identifica o produto. | 84509010 |
-| ID SKU | Código numérico único que identifica o SKU. Caso esse campo já esteja preenchido, não é possível alterá-lo. Para adicionar um novo SKU, deixe o campo vazio. | 310119261 |
-| Nome SKU* | Nome do SKU, ou seja, que identifica a variação do produto. | M | 
+| ID SKU | Código numérico único que identifica o SKU. Você pode preencher um ID próprio ou deixar o campo vazio, de forma que a plataforma gere o ID automaticamente. Caso esse campo já esteja preenchido, não é possível alterá-lo. | 310119261 |
+| Nome SKU* | Nome do SKU, ou seja, que identifica a variação do produto. | M |
 | Ativar SKU se possível* | Se deseja a ativação automática do SKU após a checagem dos [requisitos de disponibilidade](/pt/faq/por-que-o-produto-nao-aparece-no-site), preencha com `sim`. Se não deseja que ele seja ativado, preencha com `não`. | sim |
 | SKU Ativo | Este campo define se o SKU está ativo (`sim`) ou inativo (`não`). O campo não permite alteração e é utilizado somente para consulta. | não |
 | Kit | Este campo define se o SKU é um [kit](/pt/docs/tutorials/o-que-e-um-kit). A ação de transformar um SKU em kit é irreversível. Caso esteja criando um novo SKU, deixe o campo vazio. | |

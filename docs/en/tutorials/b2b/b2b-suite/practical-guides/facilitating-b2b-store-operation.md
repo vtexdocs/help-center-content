@@ -1,5 +1,5 @@
 ---
-title: 'Facilitating B2B store operation'
+title: 'Facilitating B2B store operation (B2B Suite)'
 id: 8t1f9FYBsSCopHHVujKWR
 status: PUBLISHED
 createdAt: 2021-03-30T14:29:12.548Z
@@ -14,6 +14,8 @@ legacySlug: facilitating-b2b-store-operation
 locale: en
 subcategoryId: 2LrbEY7MFeKqmdfYLBCnfi
 ---
+
+> ⚠️ This documentation applies to B2B Suite only.
 
 You can facilitate the operation of your store by installing applications to solve business issues related to store usability, sales, and after-sales.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Gestión de centros de costos en B2B'
+title: 'Gestión de centros de costos en B2B (B2B Suite)'
 id: 2fjt1Layng8iKdvEEzRhuk
 status: PUBLISHED
 createdAt: 2024-07-25T10:55:43.882Z
@@ -14,6 +14,8 @@ legacySlug: gestion-de-centros-de-costos-en-b2b
 locale: es
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
+
+> ⚠️ Esta documentación se aplica solo a B2B Suite.
 
 En el contexto de las organizaciones B2B, los centros de costos representan unidades de negocio o departamentos vinculados a una organización específica. La funcionalidad facilita la gestión y asociación de centros de costos clave para tu organización, lo que simplifica la asignación y análisis de los gastos financieros.
 

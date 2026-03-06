@@ -3,7 +3,7 @@ title: 'Cuentas por pagar - Internacional'
 id: 3yea9sIlsA0KgUC28ASCGs
 status: PUBLISHED
 createdAt: 2018-02-21T18:37:18.803Z
-updatedAt: 2022-02-04T21:17:03.399Z
+updatedAt: 2022-02-19T21:17:03.399Z
 publishedAt: 2022-02-04T21:17:03.399Z
 firstPublishedAt: 2018-02-21T18:46:03.660Z
 contentType: tutorial
@@ -32,6 +32,10 @@ Para garantizar la conformidad de todos los pagos realizados fuera del Brasil, s
 - 11 de marzo de 2020 - fecha programada para el pago (fecha extendida al miércoles).
 
 4) Todos los documentos deben ser enviados por correo electrónico a una de las opciones de abajo, de acuerdo con la sucursal de gastos.  En el correo electrónico, ponga en copia a la persona responsable de la contratación del servicio para la aprobación de la factura.
+
+> ℹ️ Para que la factura se registre correctamente, el proveedor debe incluir en el cuerpo del correo electrónico el número de identificación fiscal (Tax ID) y el número de la factura.
+
+La siguiente tabla presenta los correos electrónicos para el envío de las facturas, según el país:
 
 | País | E-mail | 
 | ---------- | ---------- | 

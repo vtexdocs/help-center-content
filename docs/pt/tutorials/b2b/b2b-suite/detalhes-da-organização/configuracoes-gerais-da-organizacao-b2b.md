@@ -1,5 +1,5 @@
 ---
-title: 'Configurações gerais da organização B2B'
+title: 'Configurações gerais da organização B2B (B2B Suite)'
 id: 6OSJHuiJJ7beRZaflNtzx5
 status: PUBLISHED
 createdAt: 2024-06-07T11:34:25.125Z
@@ -14,6 +14,8 @@ legacySlug: configuracoes-gerais-da-organizacao-b2b
 locale: pt
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
+
+> ⚠️ Esta documentação se aplica apenas ao B2B Suite.
 
 A página de configurações gerais permite que o usuário cadastre as informações básicas de cada organização B2B integrada na VTEX.
 

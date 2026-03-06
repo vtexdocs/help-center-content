@@ -1,5 +1,5 @@
 ---
-title: 'Campos personalizados en el registro de organizaciones'
+title: 'Campos personalizados en el registro de organizaciones (B2B Suite)'
 id: 2MqEVusOvcbqagNwOuHA7f
 status: PUBLISHED
 createdAt: 2024-06-06T12:19:51.817Z
@@ -15,6 +15,7 @@ locale: es
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
 
+> ⚠️ Esta documentación se aplica solo a B2B Suite.
 
 La plataforma VTEX permite a los usuarios de una organización con rol de administrador crear y gestionar campos personalizados en el proceso de registro de nuevas organizaciones o centros de costos. Este recurso facilita la inclusión de información específica y relevante para la empresa.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Custom fields when adding an organization'
+title: 'Custom fields when adding an organization (B2B Suite)'
 id: 2MqEVusOvcbqagNwOuHA7f
 status: PUBLISHED
 createdAt: 2024-06-06T12:19:51.817Z
@@ -14,6 +14,8 @@ legacySlug: custom-fields-when-adding-an-organization
 locale: en
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
+
+> ⚠️ This documentation applies to B2B Suite only.
 
 The VTEX platform allows users with an admin role to create and manage custom fields when adding new organizations or cost centers. This feature simplifies the inclusion of specific and relevant information for the company.
 
