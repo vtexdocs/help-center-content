@@ -32,7 +32,7 @@ Para criar a promoção no Admin VTEX, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Promoções > Promoções**, ou digite **Promoções** na barra de busca no topo da página.  
 2. Clique em `Criar promoção`.  
-3. Selecione a opção **Regular**`.`  
+3. Selecione a opção **Regular**.  
 4. Preencha os campos da página. A tabela abaixo exibe os detalhes necessários.  
 5. Clique em `Salvar`.
 

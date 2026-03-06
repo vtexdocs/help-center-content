@@ -3,7 +3,7 @@ title: 'Regular Promotion'
 id: tutorials_327
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:59.690Z
-updatedAt: 2025-08-28T18:35:47.144Z
+updatedAt: 2026-03-05T18:35:47.144Z
 publishedAt: 2025-08-28T18:35:47.144Z
 firstPublishedAt: 2017-04-27T23:03:15.647Z
 contentType: tutorial
@@ -19,12 +19,12 @@ VTEX allows [creating multiple promotion types](/en/docs/tutorials/creating-prom
 
 To set up a Regular promotion, follow the steps below:  
 
-- [Create promotion](#create-promotion)
-- [Define conditions for the Regular promotion](#define-conditions-for-the-regular-promotion)
-- [Set conditions for applying the promotion](#set-conditions-for-applying-the-promotion)
-- [Set usage restrictions](#set-usage-restrictions)
-- [Set combination and competition](#set-combination-and-competition)
-- [Highlight promotion on the product page](#highlight-promotion-on-the-product-page)
+- [Creating a promotion](#creating-a-promotion)
+- [Defining conditions for the Regular promotion](#defining-conditions-for-the-regular-promotion)
+- [Setting conditions for applying the promotion](#setting-conditions-for-applying-the-promotion)
+- [Setting promotion usage restrictions](#setting-promotion-usage-restrictions)
+- [Configuring combination and competition](#configuring-combination-and-competition)
+- [Highlighting the promotion on the product page](#highlighting-the-promotion-on-the-product-page)
 
 ## Creating a promotion
 To create the promotion in the VTEX Admin, follow the steps below:

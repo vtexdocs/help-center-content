@@ -17098,21 +17098,6 @@
                 },
                 {
                   "name": {
-                    "en": "Buyer organization members",
-                    "es": "Miembros de la organización compradora",
-                    "pt": "Membros da organização compradora"
-                  },
-                  "slug": {
-                    "en": "buyer-organization-members",
-                    "es": "miembros-de-la-organizacion-compradora",
-                    "pt": "membros-da-organizacao-compradora"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Buying policies overview",
                     "es": "Políticas de compras",
                     "pt": "Buying Policies"
@@ -17136,6 +17121,21 @@
                     "en": "custom-checkout-fields",
                     "es": "campos-personalizables-del-checkout",
                     "pt": "campos-customizaveis-do-checkout"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "es": "Miembros de la organización compradora",
+                    "pt": "Membros da organização compradora",
+                    "en": "Miembros de la organización compradora"
+                  },
+                  "slug": {
+                    "es": "miembros-de-la-organizacion-compradora",
+                    "pt": "membros-da-organizacao-compradora",
+                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
