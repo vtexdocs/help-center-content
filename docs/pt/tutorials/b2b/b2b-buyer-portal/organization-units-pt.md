@@ -26,19 +26,7 @@ As Organization Units são utilizadas para modelar a estrutura interna de uma ú
 
 A hierarquia da operação segue o seguinte modelo:
 
-```mermaid
-flowchart TB
-    L["Loja"]
-
-    L --> A["Organização compradora A"]
-    L --> B["Organização compradora B"]
-
-    A --> A1["Organization Unit A1"]
-    A --> A2["Organization Unit A2"]
-
-    B --> B1["Organization Unit B1"]
-    B --> B2["Organization Unit B2"]
-```
+![organization-units-pt_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/b2b-buyer-portal/organization-units-pt_1.png)
 
 Uma Organization Unit é uma subdivisão hierárquica dentro de uma organização compradora específica. Essa estrutura define como regras comerciais e acessos são aplicados.
 
@@ -48,16 +36,7 @@ Em vez de criar múltiplas contas ou múltiplas organizações compradoras para 
 
 A estrutura de Organization Units segue um modelo em árvore. Toda organização compradora possui uma **unidade raiz**, que representa a organização como um todo. A partir dela, podem ser criadas **unidades filhas**, que representam subdivisões como filiais, departamentos ou centros de custo.
 
-```mermaid
-flowchart TB
-  R[Unidade raiz]
-  R --> C1[Unidade filha]
-  R --> C2[Unidade filha]
-  R --> C3[Unidade filha]
-  C2 --> G1[Unidade filha]
-  C2 --> G2[Unidade filha]
-  G2 --> GG1[Unidade filha]
-```
+![organization-units-pt_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/b2b-buyer-portal/organization-units-pt_2.png)
 
 A unidade raiz é o nível mais alto da hierarquia. As unidades filhas podem existir em múltiplos níveis, refletindo a estrutura real da empresa. Existem regras gerais definidas no [contrato](#contrato), mas cada unidade pode possuir [regras específicas](#configuracoes-por-organization-unit), respeitando sua posição na hierarquia.
 

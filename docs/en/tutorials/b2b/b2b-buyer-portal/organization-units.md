@@ -26,19 +26,7 @@ Organization Units are used to model the internal structure of a single buyer or
 
 The operational hierarchy follows the model below:
 
-```mermaid
-flowchart TB
-    L["Store"]
-
-    L --> A["Buyer organization A"]
-    L --> B["Buyer organization B"]
-
-    A --> A1["Organization Unit A1"]
-    A --> A2["Organization Unit A2"]
-
-    B --> B1["Organization Unit B1"]
-    B --> B2["Organization Unit B2"]
-```
+![organization-units_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-buyer-portal/organization-units_1.png)
 
 An **Organization Unit** is a hierarchical subdivision within a specific buyer organization. This structure defines how commercial rules and access permissions are applied.
 
@@ -48,16 +36,7 @@ Instead of creating multiple accounts or multiple buyer organizations to represe
 
 The structure of Organization Units follows a tree model. Every buyer organization has a **root unit**, which represents the organization as a whole. From it, **child units** can be created to represent subdivisions such as branches, departments, or cost centers.
 
-```mermaid
-flowchart TB
-  R[Root unit]
-  R --> C1[Child unit]
-  R --> C2[Child unit]
-  R --> C3[Child unit]
-  C2 --> G1[Child unit]
-  C2 --> G2[Child unit]
-  G2 --> GG1[Child unit]
-```
+![organization-units_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-buyer-portal/organization-units_2.png)
 
 The root unit is the highest level of the hierarchy. Child units can exist at multiple levels, reflecting the company's real organizational structure. General rules are defined in the [contract](#contract), but each unit can have [specific rules](#organization-unit-settings) according to its position in the hierarchy.
 

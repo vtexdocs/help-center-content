@@ -25,7 +25,7 @@ Follow the instructions below to add a user:
 1. Access the store through your browser and log in with your user account.
 2. In the top menu, click **Company**. The organization panel will be displayed.
 
-    ![adding-users-to-buyer-organization_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-buyer-portal/adding-users-to-buyer-organization_1.png)
+    ![adding-users-to-buyer-organization_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-buyer-portal/adding-users-to-buyer-organization_1.png)
 
 3. Click **Manage**.
 4. Follow **a** or **b** to access the user creation panel:
@@ -33,7 +33,7 @@ Follow the instructions below to add a user:
     or
   2. Click **Users** and then the **+** button.
 
-    ![adding-users-to-buyer-organization_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-buyer-portal/adding-users-to-buyer-organization_2.png)
+    ![adding-users-to-buyer-organization_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-buyer-portal/adding-users-to-buyer-organization_2.png)
 
 5. Fill in the new user's information:
   - **Full name (optional)**: the user's first and last name, as it should appear in the organization.  
