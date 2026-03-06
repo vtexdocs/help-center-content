@@ -23851,21 +23851,6 @@
                 },
                 {
                   "name": {
-                    "en": "Refurbished products on Mercado Libre",
-                    "es": "Productos reacondicionados en Mercado Libre",
-                    "pt": "Produtos recondicionados no Mercado Livre"
-                  },
-                  "slug": {
-                    "en": "refurbished-products-on-mercado-libre",
-                    "es": "productos-reacondicionados-en-mercado-libre",
-                    "pt": "produto-recondicionado-mercado-livre"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Price suggestion in the Amazon integration",
                     "es": "Sugerencia de precios en la integración con Amazon",
                     "pt": "Sugestão de preços na integração com a Amazon"
@@ -23874,6 +23859,21 @@
                     "en": "amazon-price-suggestion",
                     "es": "sugerencia-de-precios-amazon",
                     "pt": "sugestao-de-precos-amazon"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Refurbished products on Mercado Libre",
+                    "es": "Productos reacondicionados en Mercado Libre",
+                    "pt": "Refurbished products on Mercado Libre"
+                  },
+                  "slug": {
+                    "en": "refurbished-products-on-mercado-libre",
+                    "es": "productos-reacondicionados-en-mercado-libre",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
