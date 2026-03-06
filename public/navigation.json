@@ -17068,6 +17068,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Adding users to a buyer organization",
+                    "es": "Agregar usuarios a la organización compradora",
+                    "pt": "Adicionar usuários à organização compradora"
+                  },
+                  "slug": {
+                    "en": "adding-users-to-buyer-organization",
+                    "es": "agregar-usuarios-a-la-organizacion-compradora",
+                    "pt": "adicionar-usuarios-a-organizacao-compradora"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "B2B Contracts",
                     "es": "Contratos B2B",
                     "pt": "Contratos B2B"
@@ -17136,6 +17151,21 @@
                     "en": "custom-checkout-fields",
                     "es": "campos-personalizables-del-checkout",
                     "pt": "campos-customizaveis-do-checkout"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Organization Units",
+                    "es": "Unidades de organización",
+                    "pt": "Organization Units"
+                  },
+                  "slug": {
+                    "en": "organization-units",
+                    "es": "organization-units-es",
+                    "pt": "organization-units-pt"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -41245,12 +41275,12 @@
               "name": {
                 "en": "CatalogV2 User Roles not Applying",
                 "es": "Los roles de usuario de CatalogV2 no se aplican",
-                "pt": "CatalogV2 Funções do usuário que não se aplicam"
+                "pt": "Funções do usuário do CatalogV2 não sendo aplicadas"
               },
               "slug": {
                 "en": "catalogv2-user-roles-not-applying",
                 "es": "los-roles-de-usuario-de-catalogv2-no-se-aplican",
-                "pt": "catalogv2-funcoes-do-usuario-que-nao-se-aplicam"
+                "pt": "funcoes-do-usuario-do-catalogv2-nao-sendo-aplicadas"
               },
               "origin": "",
               "type": "markdown",
