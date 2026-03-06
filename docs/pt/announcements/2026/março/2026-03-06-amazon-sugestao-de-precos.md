@@ -33,4 +33,4 @@ Para o passo a passo completo, consulte o tutorial [Sugestão de preços na inte
 
 ## Feedback e dúvidas
 
-Queremos evoluir essa funcionalidade com base no uso real. Se você tiver comentários ou sugestões de melhoria, pedimos que responda o formulário [Sugestão de preços Amazon](https://forms.gle/qeJCXqGGtcNmRyx2A).
+Queremos evoluir essa funcionalidade com base no uso real. Se você tiver comentários ou sugestões de melhoria, pedimos que responda ao formulário [Sugestão de preços Amazon](https://forms.gle/qeJCXqGGtcNmRyx2A).
