@@ -33,6 +33,12 @@ Após criar o campo, ative a funcionalidade no card da integração Mercado Livr
 
 1. Acesse **Admin VTEX > Marketplaces e integrações > Mercado Livre**.
 2. No card da integração, localize a seção **Produtos recondicionados**.
-3. Preencha a checkbox.
+3. Marque a checkbox.
 
-Com a funcionalidade ativada, o seller deve preencher o campo de SKU criado com o estado do produto (Excelente, Bom ou Aceitável) para que a informação seja enviada corretamente ao Mercado Livre.
+Com a funcionalidade ativada, o seller deve preencher o campo de SKU criado com o estado do produto para que a informação seja enviada corretamente ao Mercado Livre, que aceita o atributo **Status do recondicionado** apenas os valores:
+
+- `Excelente`
+- `Bom`
+- `Aceitável`
+
+Após ativar a funcionalidade, é necessário concluir o mapeamento no Mercado Livre para que o produto seja publicado como recondicionado.
