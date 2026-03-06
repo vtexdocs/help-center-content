@@ -21,7 +21,7 @@ As restrições que podem ser impostas a **Organizational Units** estão relacio
 - IDs de cartões de crédito
 - IDs de coleções
 - Endereços
-- Accounting fields (campos de identificação da organizational unit)
+- Accounting fields
 
 > ℹ️ O gerenciamento de **Scopes** via API é feito pela [Organization Units API](https://developers.vtex.com/docs/api-reference/organization-units-api#overview).
 
