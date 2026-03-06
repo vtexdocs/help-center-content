@@ -16,11 +16,11 @@ Este artigo orienta sobre o gerenciamento de organizational units e está dividi
 
 * Adicionar organizational unit
 * Renomear organizational unit
-* Adicionar usuário
+* Adicionar usuário a uma organizational unit
 * Adicionar organizational unit filha (subordinada)
 * Remover organizational unit
 
-> ⚠️ Para configurar organizational units, o perfil de [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ser `Super Buyer Admin` ou ter o recurso `ManageOrganizationHierarchy`.
+> ⚠️ Para configurar organizational units, o perfil de [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ser `Organizational Unit Admin`, `Super Buyer Admin`, ou ter o recurso `ManageOrganizationHierarchy`.
 
 ## Adicionar organizational unit
 
@@ -41,7 +41,7 @@ Após criar uma organizational unit, ela aparecerá listada na tela **Organizati
 2. Faça as alterações desejadas.
 3. Clique em `Save`.
 
-## Adicionar usuário
+## Adicionar usuário a uma organizational unit
 
 1. Na página **Organizational Units**, na linha correspondente à organizational unit que deseja adicionar um usuário, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Add User`.
 2. Preencha as informações do novo usuário:
