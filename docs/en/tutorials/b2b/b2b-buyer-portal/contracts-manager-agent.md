@@ -46,7 +46,7 @@ On the initial screen, you'll see the `Ask the agent` text field, suggested acti
     > ⚠️ Always confirm that the affected contracts and conditions are correct before proceeding. Changes impact what buyers can view, purchase and corresponding conditions.
 5. Click `Start Update`. Once all updates are complete, you'll see the confirmation message.
 
-> ℹ️ The time the agent takes to complete the requested tasks depends on the scale of the requested changes. For example, adding collections to hundreds of contracts can take hours, while adding collections to three contracts usually takes a few seconds.
+> ℹ️ The time the agent takes to complete the requested tasks depends on the scale of the requested changes. For example, adding collections to hundreds of contracts can take minutes, while adding collections to three contracts usually takes a few seconds.
 
 While the agent works, you can navigate away and return later to check the results.
 
