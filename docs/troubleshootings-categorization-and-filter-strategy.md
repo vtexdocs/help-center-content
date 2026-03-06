@@ -8,7 +8,7 @@ Based on the analysis of **32 articles** in `docs/pt/troubleshooting`, this stra
 
 - **5 primary categories** (journey/topic navigation)
 - **7 symptom filters** (problem-type navigation)
-- **21 domain filters** (reused from Announcements - product/area navigation)
+- **19 domain filters** (reused from Announcements - product/area navigation)
 
 ---
 
@@ -38,7 +38,7 @@ Based on the analysis of **32 articles** in `docs/pt/troubleshooting`, this stra
 
 ---
 
-## 3. Domain filters (21 options from Announcements, applied to Troubleshooting)
+## 3. Domain filters (19 options from Announcements, applied to Troubleshooting)
 
 | Domain filter                       | Troubleshooting usage                                  |
 | ----------------------------------- | ------------------------------------------------------ |
