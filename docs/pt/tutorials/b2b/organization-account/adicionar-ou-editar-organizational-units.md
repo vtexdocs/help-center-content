@@ -54,8 +54,6 @@ Após criar uma organizational unit, ela aparecerá listada na tela **Organizati
     > ℹ️ Para mais informações sobre perfis de acesso no **B2B Buyer Portal**, veja o artigo [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions).
 4. Clique em `Add`.
 
-Feito isso, um email será enviado para o novo usuário.
-
 ## Adicionar organizational unit filha (subordinada)
 
 1. Na página **Organizational Units**, na linha correspondente à organizational unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Add Subordinate Unit`.
