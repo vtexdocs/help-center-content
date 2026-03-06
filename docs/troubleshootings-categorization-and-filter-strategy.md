@@ -66,7 +66,7 @@ Based on the analysis of **32 articles** in `docs/pt/troubleshooting`, this stra
 
 ## 4. Mapping of the 32 articles by category (English names + links)
 
-### Integrations and Channels (7)
+### Marketplace and Integrations (7)
 
 - [My order was closed with the wrong price](https://help.vtex.com/en/troubleshooting/my-order-was-closed-with-the-wrong-price--5an0m7uLMwxWRlJlsyKxvl)
 - [My orders in Mercado Libre have errors](https://help.vtex.com/en/troubleshooting/my-orders-in-mercado-libre-have-errors--170njWgSw9UQ5DG6NRl14d)
@@ -141,7 +141,7 @@ Examples (recommended assignment pattern):
 
 1. `help-center-content/docs/en/troubleshooting/Integrations/my-orders-in-mercado-libre-have-errors.md`
 
-   - Primary category: **Integrations and Channels**
+   - Primary category: **Marketplace and Integrations**
    - Symptom filters: **Not integrating or not syncing**, **Configuration**
    - Domain filters: **Marketplace**, **Integrations**, **Mercado Libre integration**
 2. `help-center-content/docs/en/troubleshooting/store-operations/i-cant-view-a-page-in-the-admin.md`
