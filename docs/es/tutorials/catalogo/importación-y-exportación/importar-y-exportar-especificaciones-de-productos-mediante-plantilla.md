@@ -1,21 +1,12 @@
 ---
-title: 'Importar y exportar especificaciones de productos mediante plantilla (Beta)'
-id: jQcmbocCb7kjHOr1JSWIL
-status: PUBLISHED
+title: 'Importar y exportar especificaciones de productos mediante plantilla'
 createdAt: 2025-09-26T15:11:47.384Z
-updatedAt: 2025-10-13T22:44:30.267Z
-publishedAt: 2025-10-13T22:44:30.267Z
-firstPublishedAt: 2025-09-26T16:15:47.785Z
+updatedAt: 2026-03-09T22:44:30.267Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
-author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: importing-and-exporting-product-specifications-using-a-spreadsheet-beta
-legacySlug: importacion-y-exportacion-de-especificaciones-de-producto-mediante-plantilla
+slugEN: importing-and-exporting-product-specifications-using-a-spreadsheet
 locale: es
-subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
-
-> ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si tienes alguna duda, ponte en contacto con nuestro [Soporte](https://supporticket.vtex.com/support).
 
 En el Admin VTEX puedes gestionar la importación y exportación de especificaciones de producto utilizando una plantilla, como se indica en las secciones a continuación:
 
