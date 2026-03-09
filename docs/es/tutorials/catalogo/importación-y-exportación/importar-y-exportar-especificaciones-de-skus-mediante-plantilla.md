@@ -10,9 +10,9 @@ locale: es
 
 En el Admin VTEX puedes gestionar la importación y exportación de especificaciones de SKUs utilizando una plantilla, como se indica en las secciones a continuación:
 
-- [Importar especificaciones de SKUs mediante plantilla](#importar-especificaciones-de-skus-mediante-plantilla)
-- [Exportar especificaciones de SKUs mediante plantilla](#exportar-especificaciones-de-skus-mediante-plantilla)
-- [Campos de la plantilla de especificaciones de SKUs](#campos-de-la-plantilla-de-especificaciones-de-skus)
+* [Importar especificaciones de SKUs mediante plantilla](#importar-especificaciones-de-skus-mediante-plantilla)
+* [Exportar especificaciones de SKUs mediante plantilla](#exportar-especificaciones-de-skus-mediante-plantilla)
+* [Campos de la plantilla de especificaciones de SKUs](#campos-de-la-plantilla-de-especificaciones-de-skus)
 
 ## Importar especificaciones de SKUs mediante plantilla
 
@@ -42,7 +42,7 @@ Para exportar un archivo `.xlsx` con información sobre especificaciones de SKUs
 3. En la parte superior de la página, haz clic en `Exportar`.
 4. Haz clic en `Especificaciones de SKU`.
 
-Mientras la operación esté en curso, se mostrará un mensaje indicando que el archivo se está procesando. La operación seguirá en curso aunque salgas de la página. Puedes [hacer seguimiento del progreso de la exportación en la ventana modal](/es/docs/tutorials/importar-y-exportar-productos-y-skus-mediante-plantilla-beta#ventana-de-seguimiento-de-la-exportacion) que se abre en la página.
+Mientras la operación esté en curso, se mostrará un mensaje indicando que el archivo se está procesando. La operación seguirá en curso aunque salgas de la página. Puedes [hacer seguimiento del progreso de la exportación en la ventana modal](/es/docs/tutorials/importar-y-exportar-productos-y-skus-mediante-plantilla#ventana-de-seguimiento-de-la-exportacion) que se abre en la página.
 
 Al finalizar la exportación recibirás un email con un link para descargar el archivo. El plazo para realizar la descarga vía link es de 24 horas; después de este periodo el link expirará. También puedes descargar el archivo desde la ventana modal que se abre en la página.
 
@@ -71,7 +71,6 @@ La siguiente tabla muestra la descripción y el ejemplo de valor de los campos d
 
 ## Más información
 
-* [Importar y exportar productos y SKUs mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-productos-y-skus-mediante-plantilla-beta) 
-* [Importar y exportar especificaciones de productos mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-especificaciones-de-productos-mediante-plantilla-beta)
-* [Importar y exportar imágenes de productos y SKUs mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla-beta)
-
+* [Importar y exportar productos y SKUs mediante plantilla](/es/docs/tutorials/importar-y-exportar-productos-y-skus-mediante-plantilla)
+* [Importar y exportar especificaciones de productos mediante plantilla](/es/docs/tutorials/importar-y-exportar-especificaciones-de-productos-mediante-plantilla)
+* [Importar y exportar imágenes de productos y SKUs mediante plantilla](/es/docs/tutorials/importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla)
