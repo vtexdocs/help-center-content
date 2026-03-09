@@ -56,7 +56,7 @@ Após criar uma organizational unit, ela aparecerá listada na tela **Organizati
 
 ## Adicionar organizational unit filha (subordinada)
 
-1. Na página **Organizational Units**, na linha correspondente à organizational unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Add Subordinate Unit`.
+1. Na página **Organizational Units**, na linha correspondente à organizational unit desejada, clique no ícone menu <i class="fas fa-ellipsis-v" aria-hidden="true"></i> > `Add Subordinate Unit`.
 2. Verifique no campo **Parent** se está correta a identificação da organizational unit à qual a nova unidade estará subordinada, ou seja, da qual será filha. Este campo não permite edição.
 3. Preencha o nome da organizational unit filha.
 4. Clique em `Add`.
