@@ -1,27 +1,18 @@
 ---
-title: 'Importar y exportar imágenes de productos y SKUs mediante plantilla (Beta)'
-id: 6zBisMdxDYeBF49LPzvfqt
-status: PUBLISHED
+title: 'Importar y exportar imágenes de productos y SKUs mediante plantilla'
 createdAt: 2025-09-26T15:59:03.761Z
-updatedAt: 2025-11-05T14:19:35.695Z
-publishedAt: 2025-11-05T14:19:35.695Z
-firstPublishedAt: 2025-09-26T16:15:52.581Z
+updatedAt: 2026-03-09T14:19:35.695Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
-author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: importing-and-exporting-product-and-sku-images-using-a-spreadsheet-beta
-legacySlug: importacion-y-exportacion-de-imagenes-de-productos-y-skus-mediante-plantilla
+slugEN: importing-and-exporting-product-and-sku-images-using-a-spreadsheet
 locale: es
-subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
-
-> ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si tienes alguna duda, ponte en contacto con nuestro [Soporte](https://help.vtex.com/es/support).
 
 En el Admin VTEX puedes gestionar la importación y exportación de información de imágenes utilizando plantillas, como se indica en las secciones a continuación:
 
-- [Importar imágenes de productos y SKUs mediante plantilla](#importar-imagenes-de-productos-y-skus-mediante-plantilla)
-- [Exportar imágenes de productos y SKUs mediante plantilla](#exportar-imagenes-de-productos-y-skus-mediante-plantilla)
-- [Campos de la plantilla de imágenes de productos y SKUs](#campos-de-la-plantilla-de-imagenes-de-productos-y-skus)
+* [Importar imágenes de productos y SKUs mediante plantilla](#importar-imagenes-de-productos-y-skus-mediante-plantilla)
+* [Exportar imágenes de productos y SKUs mediante plantilla](#exportar-imagenes-de-productos-y-skus-mediante-plantilla)
+* [Campos de la plantilla de imágenes de productos y SKUs](#campos-de-la-plantilla-de-imagenes-de-productos-y-skus)
 
 ## Importar imágenes de productos y SKUs mediante plantilla
 
@@ -50,7 +41,7 @@ Para exportar un archivo `.xlsx` con las imágenes de tu catálogo sigue los pas
 3. En la parte superior de la página, haz clic en `Exportar`.
 4. Haz clic en `Imágenes`.
 
-Mientras la operación esté en curso, se mostrará un mensaje indicando que el archivo se está procesando. La operación seguirá en curso aunque salgas de la página. Puedes hacer seguimiento del [progreso de la exportación en la ventana modal](/es/docs/tutorials/importar-y-exportar-productos-y-skus-mediante-plantilla-beta#ventana-de-seguimiento-de-la-exportacion) que se abre en la página.
+Mientras la operación esté en curso, se mostrará un mensaje indicando que el archivo se está procesando. La operación seguirá en curso aunque salgas de la página. Puedes hacer seguimiento del [progreso de la exportación en la ventana modal](/es/docs/tutorials/importar-y-exportar-productos-y-skus-mediante-plantilla#ventana-de-seguimiento-de-la-exportacion) que se abre en la página.
 
 Tras finalizar la exportación de imágenes de productos y SKUs recibirás un email con un link para descargar el archivo. El plazo para realizar la descarga mediante el link es de 24 horas; después de este periodo el link expirará. También puedes descargar el archivo desde la ventana modal que se abre en la página.
 
@@ -77,7 +68,6 @@ La siguiente tabla muestra la descripción y un ejemplo de valor de los campos d
 
 ## Más información
 
-* [Importar y exportar productos y SKUs mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-productos-y-skus-mediante-plantilla-beta) 
-* [Importar y exportar especificaciones de productos mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-especificaciones-de-productos-mediante-plantilla-beta)
-* [Importar y exportar especificaciones de SKUs mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-especificaciones-de-skus-mediante-plantilla-beta)
-
+* [Importar y exportar productos y SKUs mediante plantilla](/es/docs/tutorials/importar-y-exportar-productos-y-skus-mediante-plantilla)
+* [Importar y exportar especificaciones de productos mediante plantilla](/es/docs/tutorials/importar-y-exportar-especificaciones-de-productos-mediante-plantilla)
+* [Importar y exportar especificaciones de SKUs mediante plantilla](/es/docs/tutorials/importar-y-exportar-especificaciones-de-skus-mediante-plantilla)
