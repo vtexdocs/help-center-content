@@ -60,7 +60,7 @@ Once the export is complete, you'll receive an email with a link to download the
 
 While the export is being processed, the [Products and SKUs](/en/docs/tutorials/products-and-skus) page will display a window at the bottom, as in the following image:
 
-![export-en-loading](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/import-and-export/importing-and-exporting-products-and-skus-using-a-spreadsheet_1.png)
+![export-en-loading](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/import-and-export/importing-and-exporting-products-and-skus-using-a-spreadsheet_1.png)
 
 * **Exports 1:** Shows the number of exports in progress; in this example, one.
 * **Loading icon:** Indicates that the export operation is in progress.
@@ -73,7 +73,7 @@ While the export is being processed, the [Products and SKUs](/en/docs/tutorials/
 
 Once the operation is complete, the window will display the following changes:
 
-![export-en-done](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/import-and-export/importing-and-exporting-products-and-skus-using-a-spreadsheet_2.png)
+![export-en-done](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/import-and-export/importing-and-exporting-products-and-skus-using-a-spreadsheet_2.png)
 
 * **Green icon:** Indicates the export is complete.
 * **Close icon** <i class="fas fa-times" aria-hidden="true"></i>: Closes the window when clicked, and you won't be able to expand it again.
