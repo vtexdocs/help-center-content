@@ -20,7 +20,7 @@ Este artigo orienta sobre o gerenciamento de organizational units e está dividi
 * [Adicionar organizational unit filha (subordinada)](#adicionar-organizational-unit-filha-subordinada)
 * [Remover organizational unit](#remover-organizational-unit)
 
-> ⚠️ Para configurar organizational units, o perfil de [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ser `Organizational Unit Admin`, `Super Buyer Admin`, ou ter o recurso `ManageOrganizationHierarchy`.
+> ⚠️ Para configurar organizational units, o perfil de [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ser `Organizational Unit Admin`, `Super Buyer Admin`, ou ter o recurso `ManageOrganizationHierarchy`.
 
 ## Adicionar organizational unit
 
