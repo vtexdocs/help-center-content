@@ -24,7 +24,7 @@ Os cenários apresentados são:
 
 ## Restrições de atributos
 
-As restrições que podem ser impostas a **Organizational Units** estão relacionadas às seguintes informações:
+As restrições que podem ser impostas a **Organizational Units** estão relacionadas às seguintes dimensões:
 
 - Contratos
 - [Meios e condições de pagamento](https://help.vtex.com/pt/docs/tutorials/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento)
