@@ -73,7 +73,7 @@ Mientras se procesa la exportación, la página [Productos y SKUs](/es/docs/tuto
 
 Después de que la operación termina, la ventana presenta los siguientes cambios:
 
-![export-es-done](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/cat%C3%A1logo-beta/importar-y-exportar-productos-y-skus-mediante-plantilla-beta_2.png)
+![export-es-done](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalogo/importación-y-exportación/importar-y-exportar-productos-y-skus-mediante-plantilla_2.png)
 
 * **Ícono verde:** indica que la exportación ha finalizado.
 * **Ícono cerrar** <i class="fas fa-times" aria-hidden="true"></i>: al hacer clic se cierra la ventana, sin opción de volver a expandirla.
@@ -137,6 +137,6 @@ La siguiente tabla presenta la descripción y el ejemplo de valor de los campos 
 
 ## Más información
 
-* [Importar y exportar especificaciones de productos mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-especificaciones-de-productos-mediante-plantilla-beta)
-* [Importar y exportar especificaciones de SKUs mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-especificaciones-de-skus-mediante-plantilla-beta)
-* [Importar y exportar imágenes de productos y SKUs mediante plantilla (Beta)](/es/docs/tutorials/importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla-beta)
+* [Importar y exportar especificaciones de productos mediante plantilla](/es/docs/tutorials/importar-y-exportar-especificaciones-de-productos-mediante-plantilla)
+* [Importar y exportar especificaciones de SKUs mediante plantilla](/es/docs/tutorials/importar-y-exportar-especificaciones-de-skus-mediante-plantilla)
+* [Importar y exportar imágenes de productos y SKUs mediante plantilla](/es/docs/tutorials/importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla)
