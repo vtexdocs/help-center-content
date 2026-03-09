@@ -1,18 +1,12 @@
 ---
 title: 'Importing and exporting product and SKU images using a spreadsheet'
-id: 6zBisMdxDYeBF49LPzvfqt
-status: PUBLISHED
 createdAt: 2025-09-26T15:59:03.761Z
-updatedAt: 2025-11-05T14:19:35.695Z
+updatedAt: 2026-03-09T14:19:35.695Z
 publishedAt: 2025-11-05T14:19:35.695Z
-firstPublishedAt: 2025-09-26T16:15:52.581Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
-author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: importing-and-exporting-product-and-sku-images-using-a-spreadsheet
-legacySlug: import-and-export-product-and-sku-images-via-spreadsheet
 locale: en
-subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
 
 In VTEX Admin, you can manage the import and export of image information using a spreadsheet, as detailed in the following sections:
@@ -75,6 +69,6 @@ The following table describes and includes an example of each field in the impor
 
 ## Learn more
 
-* [Importing and exporting products and SKUs using a spreadsheet](/en/docs/tutorials/importing-and-exporting-products-and-skus-using-a-spreadsheet)
-* [Importing and exporting product specifications using a spreadsheet](/en/docs/tutorials/importing-and-exporting-product-specifications-using-a-spreadsheet)
-* [Importing and exporting SKU specifications using a spreadsheet](/en/docs/tutorials/importing-and-exporting-sku-specifications-using-a-spreadsheet)
+- [Importing and exporting products and SKUs using a spreadsheet](/en/docs/tutorials/importing-and-exporting-products-and-skus-using-a-spreadsheet)
+- [Importing and exporting product specifications using a spreadsheet](/en/docs/tutorials/importing-and-exporting-product-specifications-using-a-spreadsheet)
+- [Importing and exporting SKU specifications using a spreadsheet](/en/docs/tutorials/importing-and-exporting-sku-specifications-using-a-spreadsheet)
