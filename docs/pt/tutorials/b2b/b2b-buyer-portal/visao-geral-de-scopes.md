@@ -19,7 +19,7 @@ As restrições que podem ser impostas a **Organizational Units** estão relacio
 - Contratos
 - [Meios e condições de pagamento](https://help.vtex.com/pt/docs/tutorials/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento)
 - Cartões de crédito
-- IDs de coleções
+- Coleções
 - Endereços
 - Accounting fields
 
