@@ -2,7 +2,6 @@
 title: 'Importing and exporting product and SKU images using a spreadsheet'
 createdAt: 2025-09-26T15:59:03.761Z
 updatedAt: 2026-03-09T14:19:35.695Z
-publishedAt: 2025-11-05T14:19:35.695Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: importing-and-exporting-product-and-sku-images-using-a-spreadsheet
