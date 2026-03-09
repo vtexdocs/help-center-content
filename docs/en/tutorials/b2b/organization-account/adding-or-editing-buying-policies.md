@@ -23,7 +23,7 @@ In this guide, you'll learn how to manage buying policies through the following 
 
 ## Adding a buying policy
 
-1. On the organizational unit page, in the **Finance and compliance** section, click `Buying policies`.
+1. In the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account), in the **Finance and compliance** section, click `Buying policies`.
 
     ![buying_policies_image_initial_org_account_page_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/organization-account/buying_policies_image_initial_org_account_page_EN.png)
 
@@ -57,7 +57,7 @@ To view the details of a policy, on the **Buying policies** page, click the buyi
 
 ## Editing a buying policy
 
-1. On the organizational unit page, in the **Finance and compliance** section, click `Buying policies`.
+1. In the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account), in the **Finance and compliance** section, click `Buying policies`.
 2. On the **Buying policies** screen, in the corresponding row, click the menu icon > `Edit`. Alternatively, on the buying policy [details page](#viewing-policy-details), click `Edit`.
 3. Make the desired changes.
 4. Click `Save`.
@@ -66,7 +66,7 @@ To view the details of a policy, on the **Buying policies** page, click the buyi
 
 > ❗ Removing a buying policy is permanent and can't be undone. Settings are deleted, but the buying policy use history remains stored for reference.
 
-1. On the organizational unit page, in the **Finance and compliance** section, click `Buying policies`.
+1. In the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account), in the **Finance and compliance** section, click `Buying policies`.
 2. On the **Buying policies** page, in the corresponding row, click the menu icon > `Delete`. Alternatively, on the buying policy [details page](#viewing-policy-details), click menu > `Delete`.
 3. In the modal, enter the name of the buying policy you want to delete.
 4. Click `Delete`.

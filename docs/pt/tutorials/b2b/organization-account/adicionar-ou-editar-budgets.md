@@ -16,35 +16,27 @@ Com o gerenciamento de budgets, você pode criar orçamentos, configurar notific
 
 Nesta página, é possível realizar as seguintes ações:
 
-* [Abrir a barra lateral da conta e da Organization Unit](#abrir-a-barra-lateral-da-conta-e-da-organization-unit)   
 * [Criar um budget](#criar-um-budget)  
 * [Configurar notificações de consumo](#configurar-notificações-de-consumo)  
 * [Configurar alocações de budget](#configurar-alocações-de-budget)  
 * [Gerenciar um budget](#gerenciar-um-budget)  
 * [Remover alocações do budget](#remover-alocações-do-budget)
 
-## Abrir a barra lateral da conta e da Organization Unit
-
-A barra lateral centraliza informações da conta do usuário e da Organization Unit associada. Para acessá-la, siga as etapas abaixo:
-
-1. No canto superior direito, clique em Company.  
-2. A barra lateral é exibida com as informações da conta e da Organization Unit.  
-3. Clique em **Budgets**.
-
 ## Criar um budget
 
 Para criar um novo budget para a Organization Unit, você deve acessar a listagem de budgets e preencher as seguintes informações necessárias. 
 
-1. Na página de **Budgets**, clique no botão **`+`** no canto superior direito.
-2. No menu lateral Add new budget, preencha os seguintes campos:
+1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), clique em **Budgets**.
+2. Na página de **Budgets**, clique no botão **`+`** no canto superior direito.
+3. No menu lateral Add new budget, preencha os seguintes campos:
    * **Name:** nome do budget.
    * **Amount:** valor total do budget.
    * **Start date:** data de início de vigência.
    * **End date:** data de término de vigência.
-3. Para configurar a renovação automática do budget, ative o botão Renew this budget amount and period upon expiration.
-4. Para configurar notificações de consumo, ative o botão de Notifications.
-5. Clique em **Continue para avançar para a próxima etapa do fluxo**.
-6. Na etapa **Add budget allocations**, escolha uma das opções abaixo:
+4. Para configurar a renovação automática do budget, ative o botão Renew this budget amount and period upon expiration.
+5. Para configurar notificações de consumo, ative o botão de Notifications.
+6. Clique em **Continue para avançar para a próxima etapa do fluxo**.
+7. Na etapa **Add budget allocations**, escolha uma das opções abaixo:
    * Para adicionar alocações imediatamente, selecione um tipo de alocação e clique em Add.
    * Para pular a configuração de alocações neste momento, clique em Skip.
 
@@ -85,27 +77,29 @@ As alocações definem em quais contextos o budget pode ser utilizado no checkou
 
 Após criar um budget, é possível visualizar seus detalhes e realizar ações de gerenciamento. Para acessar e gerenciar um budget, siga as etapas abaixo:
 
-1. Na página de **budgets**, localize o budget desejado na listagem.
-2. Clique no nome do budget para acessar a página com os detalhes do budget.
-3. Na página de detalhes do budget, visualize as seguintes seções:
+1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), clique em **Budgets**.
+2. Na página de **Budgets**, localize o budget desejado na listagem.
+3. Clique no nome do budget para acessar a página com os detalhes do budget.
+4. Na página de detalhes do budget, visualize as seguintes seções:
     * **Remaining balance**: exibe o saldo disponível do budget.
     * **Settings**: exibe as configurações gerais do budget.
     * **Notifications**: exibe as regras de notificação configuradas.
     * **Allocations**: exibe as alocações associadas ao budget.
-4. Clique em Edit na seção **Settings** para editar as configurações gerais.
-5. Clique em Edit na seção **Notifications** para ajustar notificações.
-6. Clique em Add na seção Allocations para adicionar novas alocações.
-7. Clique no ícone de lixeira para remover uma alocação existente.
+5. Clique em Edit na seção **Settings** para editar as configurações gerais.
+6. Clique em Edit na seção **Notifications** para ajustar notificações.
+7. Clique em Add na seção Allocations para adicionar novas alocações.
+8. Clique no ícone de lixeira para remover uma alocação existente.
 
 ## Remover alocações do budget
 
 Remover alocações impede que um budget seja aplicado a determinados contextos no checkout. Para remover alocações associadas a um budget, siga as etapas abaixo:
 
-1. Na página Budgets, localize o budget desejado na listagem.
-2. Clique no Name do budget para acessar o Budget details.
-3. Na seção Allocations, localize a alocação que deseja remover.
-4. Clique no ícone de lixeira ao final da linha da alocação.
-5. Confirme a remoção, se solicitado.
+1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), clique em **Budgets**.
+2. Na página de **Budgets**, localize o budget desejado na listagem.
+3. Clique no nome do budget para acessar o Budget details.
+4. Na seção Allocations, localize a alocação que deseja remover.
+5. Clique no ícone de lixeira ao final da linha da alocação.
+6. Confirme a remoção, se solicitado.
 
 Após a remoção, a alocação deixa de estar vinculada ao budget.
 
