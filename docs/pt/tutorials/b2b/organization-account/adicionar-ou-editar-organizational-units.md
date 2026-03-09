@@ -43,7 +43,7 @@ Após criar uma organizational unit, ela aparecerá listada na tela **Organizati
 
 ## Adicionar usuário a uma organizational unit
 
-1. Na página **Organizational Units**, na linha correspondente à organizational unit que deseja adicionar um usuário, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Add User`.
+1. Na página **Organizational Units**, na linha correspondente à organizational unit que deseja adicionar um usuário, clique no ícone menu <i class="fas fa-ellipsis-v" aria-hidden="true"></i> > `Add User`.
 2. Preencha as informações do novo usuário:
     * Nome
     * Email
