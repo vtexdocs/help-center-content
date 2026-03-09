@@ -8,7 +8,7 @@ Based on the analysis of **32 articles** in `docs/pt/troubleshooting`, this stra
 
 - **5 primary categories** (journey/topic navigation)
 - **7 symptom filters** (problem-type navigation)
-- **19 domain filters** (reused from Announcements - product/area navigation)
+- **18 domain filters** (reused from Announcements - product/area navigation)
 
 ---
 
@@ -18,9 +18,11 @@ Based on the analysis of **32 articles** in `docs/pt/troubleshooting`, this stra
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | **Integrations and Channels**                           | Integration/synchronization issues with marketplaces, affiliates, and external connectors                   |
 | **Commercial: Catalog, Search, Prices, and Promotions** | Offer and discoverability issues (catalog setup, indexing, search, pricing, promotion)                      |
-| **Orders and Post-purchase**                            | Order lifecycle after checkout (creation, status, cancellation, processing, invoicing, tracking)            |
+| **Orders and Fulfillment**                            | Order lifecycle after checkout (creation, status, cancellation, processing, invoicing, tracking)            |
 | **Inventory and Dispatch**                              | Pre-delivery availability (reservation, stock balance, logistics SLA, dock, shipment, dispatch preparation) |
-| **Administration, Data, and Security**                  | Admin access/operations, Master Data, notifications, and technical security/configuration topics            |
+| **Data and Security**                  | Admin access/operations, Master Data, notifications, and technical security/configuration topics            |
+| **Checkout and Financial**                  |             |
+| **B2B Commerce**                  |             |
 
 ---
 
@@ -38,7 +40,7 @@ Based on the analysis of **32 articles** in `docs/pt/troubleshooting`, this stra
 
 ---
 
-## 3. Domain filters (19 options from Announcements, applied to Troubleshooting)
+## 3. Domain filters (18 options from Announcements, applied to Troubleshooting)
 
 | Domain filter                       | Troubleshooting usage                                  |
 | ----------------------------------- | ------------------------------------------------------ |
@@ -59,7 +61,6 @@ Based on the analysis of **32 articles** in `docs/pt/troubleshooting`, this stra
 | **Integrations**              | Third-party connector/integration issues               |
 | **VTEX Shield**               | Application security and data protection topics        |
 | **VTEX Ads**                  | Ads-related catalog/operation topics                   |
-| **B2B Buyer Portal**          | B2B portal experience and operations                   |
 | **VTEX Sales App**            | In-store app sales flow issues                         |
 
 ---
@@ -85,7 +86,7 @@ Based on the analysis of **32 articles** in `docs/pt/troubleshooting`, this stra
 - [I can’t view the product in the search results](https://help.vtex.com/en/troubleshooting/i-cant-view-the-product-in-the-search-results--2Ry55Fh6JW8v7oKBiB2pH3)
 - [The promotion wasn’t applied to the customer cluster](https://help.vtex.com/en/troubleshooting/the-promotion-wasnt-applied-to-the-customer-cluster--1fQEKdmWwIAPfDQAbuP3Kr)
 
-### Orders and Post-purchase (7)
+### Orders and Fulfillment (9)
 
 - [Metrics are not displayed in the order dashboard](https://help.vtex.com/en/troubleshooting/metrics-are-not-displayed-in-the-order-dashboard--1B5OAicmK3AvnwPzs4iq7Z)
 - [My store’s order is stuck in “Verifying invoice” status](https://help.vtex.com/en/troubleshooting/my-stores-order-still-has-the-status-verifying-invoice--2YY7ILOOd0lEjpiT7SSgag)
@@ -94,13 +95,10 @@ Based on the analysis of **32 articles** in `docs/pt/troubleshooting`, this stra
 - [The order was split into packages with separate deliveries](https://help.vtex.com/en/troubleshooting/the-order-was-split-into-packages-with-separate-deliveries--3OCOC82543vOsc3Ex32XTY)
 - [The order doesn’t progress after “Handling shipping” status](https://help.vtex.com/en/troubleshooting/the-order-doesnt-progress-after-the-status-handling-shipping--2yia6QhoLh204lHzEaIrnK)
 - [The order doesn’t progress after “Ready for handling” status](https://help.vtex.com/en/troubleshooting/the-order-doesnt-progress-after-the-status-ready-for-handling--1Esx82dbr5RHYPOHgEjRGg)
-
-### Inventory and Dispatch (2)
-
 - [My inventory is negative](https://help.vtex.com/en/troubleshooting/my-inventory-is-negative--JSFHaWsASXbnrX9dgNEeP)
 - [Product remains available in stock after the order has been invoiced](https://help.vtex.com/en/troubleshooting/product-remains-available-in-stock-after-the-order-has-been-invoiced--5kQ3sJTo7hxIjysT7f9EvD)
 
-### Admin, Data, and Security (10)
+### Data and Security (10)
 
 - [Admin redirect search returns no results](https://help.vtex.com/en/troubleshooting/admin-redirect-search-returns-no-results--2u5cJhUSVM6bbEAFkgUww7)
 - [Error installing custom SSL certificates](https://help.vtex.com/en/troubleshooting/error-installing-custom-ssl-certificates--6hgFzbcc96mcrqXZMmHCTr)
@@ -112,6 +110,11 @@ Based on the analysis of **32 articles** in `docs/pt/troubleshooting`, this stra
 - [I haven’t received the email with the report exported from Master Data v1](https://help.vtex.com/en/troubleshooting/i-havent-received-the-email-with-the-report-exported-from-master-data-v1--1zUBgmgkgMZyHyy0veR7Oj)
 - [Removing error message: “Request headers must only contain ASCII”](https://help.vtex.com/en/troubleshooting/removing-error-message-request-headers-must-only-contain-ascii--19psKZvLXrBqqK1bPaTIHG)
 - [Trigger in Master Data v2 is not working](https://help.vtex.com/en/troubleshooting/trigger-in-master-data-v2-is-not-working--1WvpFuZUQmPrBlrlwX47Qd)
+
+
+### Checkout and Financial
+
+### B2B Commerce
 
 ---
 
@@ -129,47 +132,40 @@ Based on the analysis of **32 articles** in `docs/pt/troubleshooting`, this stra
 
 ## 6. Taxonomy governance for scale
 
-To support the planned growth (approximately 70 new troubleshooting articles), apply the rules below.
+To support the planned growth of the knowledge base, follow the guidelines below when classifying troubleshooting content.
 
-### 6.1 Assignment limits
+### 6.1 Assignment guidelines
 
-- Primary category: exactly **1** per article.
-- Symptom filters: **1 to 2** per article.
-- Domain filters: **1 to 3** per article.
+For each troubleshooting article, the following taxonomy structure is recommended:
 
-Examples (recommended assignment pattern):
+- Primary category: typically **1** per article.
+- Symptom filters: usually **1 to 2** per article.
+- Domain filters: typically **1 to 3** per article.
+
+Examples of recommended assignments:
 
 1. `help-center-content/docs/en/troubleshooting/Integrations/my-orders-in-mercado-libre-have-errors.md`
 
    - Primary category: **Marketplace and Integrations**
    - Symptom filters: **Not integrating or not syncing**, **Configuration**
    - Domain filters: **Marketplace**, **Integrations**, **Mercado Libre integration**
+     
 2. `help-center-content/docs/en/troubleshooting/store-operations/i-cant-view-a-page-in-the-admin.md`
 
    - Primary category: **Administration, Data, and Security**
    - Symptom filters: **Access or permission**, **Not displayed or not loading**
    - Domain filters: **Identity**, **Storefront**
+     
 3. `help-center-content/docs/en/troubleshooting/store-operations/i-cant-import-the-price-table.md`
 
    - Primary category: **Commercial: Catalog, Search, Prices, and Promotions**
    - Symptom filters: **Validation or import error**
    - Domain filters: **Prices**, **Catalog**
 
-### 6.2 Thresholds for taxonomy changes
+### 6.2 Editorial decision guidelines
 
-- Create a new primary category only when:
-  - it accumulates at least **15 active articles**, and
-  - current categories create recurring navigation ambiguity.
-- Promote a domain filter to top-level visibility only after at least **8 to 10 recurring articles**.
+When classifying troubleshooting content, consider the following guidelines:
 
-### 6.3 Review cadence
-
-- Review taxonomy every **quarter**.
-- Check category/filter distribution, search terms, and unresolved search intents.
-- Merge, rename, or deprecate low-usage or overlapping filters.
-
-### 6.4 Editorial decision rules
-
-1. Classify by the user's likely entry point, not by internal team ownership.
-2. Use the dominant symptom as tie-breaker for cross-product issues.
-3. Use domain filters as refiners, not as replacement for symptom filters.
+1. Classify the article based on the user’s likely entry point, rather than internal team ownership.
+2. For cross-product issues, use the dominant user symptom as a tie-breaker.
+3. Use domain filters to refine the scope, rather than as a replacement for symptom filters.
