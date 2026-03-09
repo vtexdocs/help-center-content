@@ -1,21 +1,12 @@
 ---
-title: 'Importar e exportar produtos e SKUs via planilha (Beta)'
-id: 5udKxWP1ZeBD7QB7Fy2BNl
-status: PUBLISHED
+title: 'Importar e exportar produtos e SKUs via planilha'
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2026-02-26T15:30:32.980Z
-publishedAt: 2025-11-05T15:30:32.980Z
-firstPublishedAt: 2025-09-05T18:41:30.755Z
+updatedAt: 2026-03-09T22:58:33.129Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
-author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: importing-and-exporting-products-and-skus-using-a-spreadsheet-beta
-legacySlug: importacao-e-exportacao-de-produtos-e-skus-via-planilha-beta
+slugEN: importing-and-exporting-products-and-skus-using-a-spreadsheet
 locale: pt
-subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
-
-> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
 
 No Admin VTEX, você pode gerenciar a importação e a exportação de produtos e SKUs utilizando planilha, conforme apresentado nas seções:
 
