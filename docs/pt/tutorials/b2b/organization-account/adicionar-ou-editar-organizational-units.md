@@ -8,7 +8,7 @@ slugEN: adding-or-editing-organizational-units
 locale: pt
 ---
 
-> ⚠️ A funcionalidade **Organizational Units** é exclusiva para o **B2B Buyer Portal**, que está disponível apenas para contas selecionadas.
+> ⚠️ Esta funcionalidade é exclusiva para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
 
 **Organizational Units** (OU) são unidades organizacionais que permitem às empresas gerenciar sua estrutura interna de forma hierarquizada, com orçamento próprio, fluxos internos de aprovação, autonomia de compra e outros níveis de subdivisão. Dessa forma, a plataforma permite que uma única empresa B2B opere com múltiplas estruturas internas, mantendo consistência contratual e controle operacional.
 
