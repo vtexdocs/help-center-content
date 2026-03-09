@@ -65,7 +65,7 @@ Após criar uma organizational unit, ela aparecerá listada na tela **Organizati
 
 > ❗ Para remover uma organizational unit que tenha unidades subordinadas, primeiro é necessário remover cada unidade filha individualmente, começando pelo nível mais baixo.
 
-1. Na página **Organizational Units**, na linha correspondente à organizational unit que deseja remover, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Delete`.
+1. Na página **Organizational Units**, na linha correspondente à organizational unit que deseja remover, clique no ícone menu <i class="fas fa-ellipsis-v" aria-hidden="true"></i> > `Delete`.
 2. Preencha o nome da organizational unit. Este campo é sensível a maiúsculas e minúsculas.
 3. Clique em `Delete`.
 
