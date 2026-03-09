@@ -57,7 +57,7 @@ Se, mesmo com as customizações bloqueadas, o comportamento indesejado persisti
 
 ### Comparando versões do front-end
 
-Essa solução deve ser utilizada quando você deseja testar a URL da página com problema, com o layout nativo da VTEX ou com um layout diferente do atual, alterando o template ou os controles. Para realizar esse teste, siga os passos abaixo:
+Essa solução deve ser utilizada quando você deseja testar a URL da página com problema no layout nativo da VTEX ou com um layout diferente do atual, alterando o template ou os controles. Para realizar esse teste, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Storefront > Layout > CMS** e crie um novo template em **HTML Templates**. É importante que o novo template seja do mesmo tipo que o template atual utilizado na página com o problema. Por exemplo, se o problema ocorre em uma página de categoria, você deve criar um novo template de categoria. Para mais detalhes sobre como criar um template, veja o guia [Criar e editar um template de página](https://help.vtex.com/pt/docs/tutorials/como-criar-um-template-de-pagina).
 2. No template criado, mantenha a estrutura básica do layout e use apenas os [controles nativos](https://developers.vtex.com/docs/guides/list-of-controls-for-templates) necessários para renderizar a página.
