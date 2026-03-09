@@ -60,7 +60,7 @@ Tras finalizar la exportación recibirás un email con un link para descargar el
 
 Mientras se procesa la exportación, la página [Productos y SKUs](/es/docs/tutorials/productos-y-skus) mostrará una ventana en la parte inferior, como se ilustra en la imagen a continuación:
 
-![export-es-loading](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/importacion-y-exportacion/importar-y-exportar-productos-y-skus-mediante-plantilla_1.png)
+![export-es-loading](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/importacion-y-exportacion/importar-y-exportar-productos-y-skus-mediante-plantilla_1.png)
 
 * **Exportaciones 1:** informa el número de exportaciones que se están realizando, en este caso, solo una.
 * **Ícono de carga:** indica que la operación de exportación está en curso.
@@ -73,7 +73,7 @@ Mientras se procesa la exportación, la página [Productos y SKUs](/es/docs/tuto
 
 Después de que la operación termina, la ventana presenta los siguientes cambios:
 
-![export-es-done](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/importacion-y-exportacion/importar-y-exportar-productos-y-skus-mediante-plantilla_2.png)
+![export-es-done](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/importacion-y-exportacion/importar-y-exportar-productos-y-skus-mediante-plantilla_2.png)
 
 * **Ícono verde:** indica que la exportación ha finalizado.
 * **Ícono cerrar** <i class="fas fa-times" aria-hidden="true"></i>: al hacer clic se cierra la ventana, sin opción de volver a expandirla.
