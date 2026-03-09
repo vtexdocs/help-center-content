@@ -1,28 +1,19 @@
 ---
-title: 'Importing and exporting products and SKUs using a spreadsheet (Beta)'
-id: 5udKxWP1ZeBD7QB7Fy2BNl
-status: PUBLISHED
+title: 'Importing and exporting products and SKUs using a spreadsheet'
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2026-02-26T15:30:32.980Z
-publishedAt: 2025-11-05T15:30:32.980Z
-firstPublishedAt: 2025-09-05T18:41:30.755Z
+updatedAt: 2026-03-09T15:30:32.980Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
-author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: importing-and-exporting-products-and-skus-using-a-spreadsheet-beta
-legacySlug: import-and-export-of-products-and-skus-via-spreadsheet-beta
+slugEN: importing-and-exporting-products-and-skus-using-a-spreadsheet
 locale: en
-subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
-
-> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact our [Support](https://help.vtex.com/en/support).
 
 In the VTEX Admin, you can manage SKU specification import and export using a spreadsheet, as described in the sections below:
 
-- [Import products and SKUs using a spreadsheet](#importing-products-and-skus-using-a-spreadsheet)
-- [Export products and SKUs using a spreadsheet](#exporting-products-and-skus-using-a-spreadsheet)
-- [Track export process](#tracking-export-process)
-- [Product specification spreadsheet fields](#product-specification-spreadsheet-fields)
+* [Import products and SKUs using a spreadsheet](#importing-products-and-skus-using-a-spreadsheet)
+* [Export products and SKUs using a spreadsheet](#exporting-products-and-skus-using-a-spreadsheet)
+* [Track export process](#tracking-export-process)
+* [Product specification spreadsheet fields](#product-specification-spreadsheet-fields)
 
 > ℹ️ To learn how to manage your products and SKUs manually in the VTEX Admin, see the following articles: [Adding or editing products](/en/docs/tutorials/adding-or-editing-products) and [Adding or editing SKUs](/en/docs/tutorials/adding-or-editing-skus). For information about [backend integrations with ERP](/en/docs/tracks/backend-integrations), see the [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).
 
@@ -69,11 +60,11 @@ Once the export is complete, you'll receive an email with a link to download the
 
 While the export is being processed, the [Products and SKUs](/en/docs/tutorials/products-and-skus) page will display a window at the bottom, as in the following image:
 
-![export-en-loading](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/importing-and-exporting-products-and-skus-using-a-spreadsheet-beta_1.png)
+![export-en-loading](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/import-and-export/importing-and-exporting-products-and-skus-using-a-spreadsheet_1.png)
 
 * **Exports 1:** Shows the number of exports in progress; in this example, one.
 * **Loading icon:** Indicates that the export operation is in progress.
-* **Products and SKUs:** Identifies the export type. Other available operations include exporting [product specifications](/en/docs/tutorials/importing-and-exporting-product-specifications-using-a-spreadsheet-beta), [SKU specifications](/en/docs/tutorials/importing-and-exporting-sku-specifications-using-a-spreadsheet-beta), and [product and SKU images](/en/docs/tutorials/importing-and-exporting-product-and-sku-images-using-a-spreadsheet-beta).
+* **Products and SKUs:** Identifies the export type. Other available operations include exporting [product specifications](/en/docs/tutorials/importing-and-exporting-product-specifications-using-a-spreadsheet), [SKU specifications](/en/docs/tutorials/importing-and-exporting-sku-specifications-using-a-spreadsheet), and [product and SKU images](/en/docs/tutorials/importing-and-exporting-product-and-sku-images-using-a-spreadsheet).
 * **Date and time:** Displays the export start time in the format `DD-MM-YYYY - hh:mm`.
 * **Number in the blue tag:** Shows the number of items being exported.
 * **(Optional) Down arrow icon** <i class="fas fa-angle-down" aria-hidden="true"></i>: Displays when more than one export is in progress. Click to minimize; click again to expand.
@@ -82,7 +73,7 @@ While the export is being processed, the [Products and SKUs](/en/docs/tutorials/
 
 Once the operation is complete, the window will display the following changes:
 
-![export-en-done](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/importing-and-exporting-products-and-skus-using-a-spreadsheet-beta_2.png)
+![export-en-done](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/import-and-export/importing-and-exporting-products-and-skus-using-a-spreadsheet_2.png)
 
 * **Green icon:** Indicates the export is complete.
 * **Close icon** <i class="fas fa-times" aria-hidden="true"></i>: Closes the window when clicked, and you won't be able to expand it again.
@@ -146,7 +137,6 @@ The following table describes and includes an example of each field in the produ
 
 ## Learn more
 
-* [Importing and exporting product specifications using a spreadsheet (Beta)](/en/docs/tutorials/importing-and-exporting-product-specifications-using-a-spreadsheet-beta)
-* [Importing and exporting SKU specifications using a spreadsheet (Beta)](/en/docs/tutorials/importing-and-exporting-sku-specifications-using-a-spreadsheet-beta)
-* [Importing and exporting product and SKU images using a spreadsheet (Beta)](/en/docs/tutorials/importing-and-exporting-product-and-sku-images-using-a-spreadsheet-beta)
-
+* [Importing and exporting product specifications using a spreadsheet](/en/docs/tutorials/importing-and-exporting-product-specifications-using-a-spreadsheet)
+* [Importing and exporting SKU specifications using a spreadsheet](/en/docs/tutorials/importing-and-exporting-sku-specifications-using-a-spreadsheet)
+* [Importing and exporting product and SKU images using a spreadsheet](/en/docs/tutorials/importing-and-exporting-product-and-sku-images-using-a-spreadsheet)
