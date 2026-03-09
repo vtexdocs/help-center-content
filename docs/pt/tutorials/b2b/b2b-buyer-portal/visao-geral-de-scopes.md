@@ -18,13 +18,13 @@ Cada organization unit possui um scope próprio, que não é herdado da organiza
 
 Os cenários apresentados são:
 
-- **Organizational unit 1:** não tem um scope configurado para nenhuma dimensão e, portanto, dispõe de todas as funcionalidades da Organization Account.
-- **Organizational unit 2:** tem um scope configurado e dispõe somente da funcionalidade A.
-- **Organizational unit 3:** tem um scope configurado e dispõe somente das funcionalidades B e C.
+- **Organizational unit 1:** não tem um scope configurado e, portanto, dispõe de todas as dimensões da Organization Account.
+- **Organizational unit 2:** tem um scope configurado e dispõe somente da dimensão A.
+- **Organizational unit 3:** tem um scope configurado e dispõe somente das dimensões B e C.
 
-## Restrições de atributos
+## Restrições de dimensões
 
-As restrições que podem ser impostas a **Organizational Units** estão relacionadas às seguintes dimensões:
+As restrições que podem ser impostas a **Organizational Units** estão relacionadas a:
 
 - Contratos
 - [Meios e condições de pagamento](https://help.vtex.com/pt/docs/tutorials/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento)
