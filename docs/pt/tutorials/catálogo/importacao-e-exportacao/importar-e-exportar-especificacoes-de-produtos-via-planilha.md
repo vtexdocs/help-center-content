@@ -1,21 +1,12 @@
 ---
-title: 'Importar e exportar especificações de produtos via planilha (Beta)'
-id: jQcmbocCb7kjHOr1JSWIL
-status: PUBLISHED
+title: 'Importar e exportar especificações de produtos via planilha'
 createdAt: 2025-09-26T15:11:47.384Z
-updatedAt: 2025-10-13T22:44:30.267Z
-publishedAt: 2025-10-13T22:44:30.267Z
-firstPublishedAt: 2025-09-26T16:15:47.785Z
+updatedAt: 2026-03-09T22:44:30.267Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
-author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: importing-and-exporting-product-specifications-using-a-spreadsheet-beta
-legacySlug: importacao-e-exportacao-de-especificacoes-de-produtos-via-planilha-beta
+slugEN: importing-and-exporting-product-specifications-using-a-spreadsheet
 locale: pt
-subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
-
-> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://supporticket.vtex.com/support).
 
 No Admin VTEX, você pode gerenciar a importação e a exportação de especificações de produtos utilizando planilha, conforme apresentado nas seções:
 
@@ -51,7 +42,7 @@ Para exportar um arquivo `.xlsx` com informações sobre especificações de pro
 3. No topo da página, clique em `Exportar`.
 4. Clique em `Especificações de produto`.
 
-Enquanto a exportação estiver em andamento, aparecerá a mensagem de que o arquivo está sendo processado. Mesmo que você saia da página, a operação não será interrompida. Você pode [acompanhar o andamento da exportação pela janela](/pt/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha-beta#acompanhar-janela-do-processo-de-exportacao) que surge na página. 
+Enquanto a exportação estiver em andamento, aparecerá a mensagem de que o arquivo está sendo processado. Mesmo que você saia da página, a operação não será interrompida. Você pode [acompanhar o andamento da exportação pela janela](/pt/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha#acompanhar-janela-do-processo-de-exportacao) que surge na página.
 
 Após a finalização da exportação, você receberá um email com um link para fazer o download do arquivo. O prazo para o download pelo link é de 24 horas, após este período o link expira. Também é possível baixar o arquivo pela janela que surgiu na página.
 
@@ -80,6 +71,6 @@ A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campo
 
 ## Saiba mais
 
-* [Importar e exportar produtos e SKUs via planilha (Beta)](/pt/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha-beta)
-* [Importar e exportar especificações de SKUs via planilha (Beta)](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-skus-via-planilha-beta)
-* [Importar e exportar imagens de produtos e SKUs via planilha (Beta)](/pt/docs/tutorials/importar-e-exportar-imagens-de-produtos-e-skus-via-planilha-beta)
+* [Importar e exportar produtos e SKUs via planilha](/pt/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha)
+* [Importar e exportar especificações de SKUs via planilha](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-skus-via-planilha)
+* [Importar e exportar imagens de produtos e SKUs via planilha](/pt/docs/tutorials/importar-e-exportar-imagens-de-produtos-e-skus-via-planilha)
