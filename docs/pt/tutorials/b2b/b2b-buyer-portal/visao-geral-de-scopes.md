@@ -14,7 +14,7 @@ locale: pt
 
 Cada organization unit possui um scope próprio, que não é herdado da organization unit à qual está subordinada e sim configurado individualmente. Veja um exemplo na imagem a seguir, que representa a totalidade de atributos da Organization Account pelo conjunto ABC e mostra três unidades filhas:
 
-![scopes-overview_1_PT](XXX)
+![scopes-overview_1_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/b2b-buyer-portal/scopes-overview_1_PT.png)
 
 Os cenários apresentados são:
 
