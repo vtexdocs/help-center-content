@@ -37,7 +37,7 @@ Após criar uma organizational unit, ela aparecerá listada na tela **Organizati
 
 ## Renomear organizational unit
 
-1. Na página **Organizational Units**, na linha correspondente à organizational unit que deseja renomear, clique no ícone menu <i class="fas fa-ellipsis-v"></i> > `Rename`.
+1. Na página **Organizational Units**, na linha correspondente à organizational unit que deseja renomear, clique no ícone menu <i class="fas fa-ellipsis-v" aria-hidden="true"></i> > `Rename`.
 2. Faça as alterações desejadas.
 3. Clique em `Save`.
 
