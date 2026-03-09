@@ -1,5 +1,5 @@
 ---
-title: 'Importing and exporting product and SKU images using a spreadsheet (Beta)'
+title: 'Importing and exporting product and SKU images using a spreadsheet'
 id: 6zBisMdxDYeBF49LPzvfqt
 status: PUBLISHED
 createdAt: 2025-09-26T15:59:03.761Z
@@ -9,13 +9,11 @@ firstPublishedAt: 2025-09-26T16:15:52.581Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: importing-and-exporting-product-and-sku-images-using-a-spreadsheet-beta
-legacySlug: import-and-export-product-and-sku-images-via-spreadsheet-beta
+slugEN: importing-and-exporting-product-and-sku-images-using-a-spreadsheet
+legacySlug: import-and-export-product-and-sku-images-via-spreadsheet
 locale: en
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
-
-> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact our [Support](https://help.vtex.com/en/support).
 
 In VTEX Admin, you can manage the import and export of image information using a spreadsheet, as detailed in the following sections:
 
@@ -50,7 +48,7 @@ To export a `.xlsx` file with the images from your catalog, follow these steps:
 3. At the top of the page, click `Export`.
 4. Click `Images`.
 
-While the export is in progress, a message will be displayed indicating that the file is being processed. Leaving the page won't interrupt the operation. You can [track the export progress in the window](/en/docs/tutorials/importing-and-exporting-products-and-skus-using-a-spreadsheet-beta#tracking-export-process) displayed on the page.
+While the export is in progress, a message will be displayed indicating that the file is being processed. Leaving the page won't interrupt the operation. You can [track the export progress in the window](/en/docs/tutorials/importing-and-exporting-products-and-skus-using-a-spreadsheet#tracking-export-process) displayed on the page.
 
 After the export of product and SKU images is completed, you will receive an email with a link to download the file. The download link is valid for 24 hours. After that, the link expires. You can also download the file from the window that opens on the page.
 
@@ -77,6 +75,6 @@ The following table describes and includes an example of each field in the impor
 
 ## Learn more
 
-* [Importing and exporting products and SKUs using a spreadsheet (Beta)](/en/docs/tutorials/importing-and-exporting-products-and-skus-using-a-spreadsheet-beta)
-* [Importing and exporting product specifications using a spreadsheet (Beta)](/en/docs/tutorials/importing-and-exporting-product-specifications-using-a-spreadsheet-beta)
-* [Importing and exporting SKU specifications using a spreadsheet (Beta)](/en/docs/tutorials/importing-and-exporting-sku-specifications-using-a-spreadsheet-beta)
+* [Importing and exporting products and SKUs using a spreadsheet](/en/docs/tutorials/importing-and-exporting-products-and-skus-using-a-spreadsheet)
+* [Importing and exporting product specifications using a spreadsheet](/en/docs/tutorials/importing-and-exporting-product-specifications-using-a-spreadsheet)
+* [Importing and exporting SKU specifications using a spreadsheet](/en/docs/tutorials/importing-and-exporting-sku-specifications-using-a-spreadsheet)
