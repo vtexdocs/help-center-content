@@ -1,21 +1,12 @@
 ---
-title: 'Importing and exporting SKU specifications using a spreadsheet (Beta)'
-id: 5EAioeC33wHpIxKHaGQzbV
-status: PUBLISHED
+title: 'Importing and exporting SKU specifications using a spreadsheet'
 createdAt: 2025-09-26T15:29:35.015Z
-updatedAt: 2025-10-13T22:58:33.129Z
-publishedAt: 2025-10-13T22:58:33.129Z
-firstPublishedAt: 2025-09-26T16:15:50.391Z
+updatedAt: 2026-03-09T22:58:33.129Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
-author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: importing-and-exporting-sku-specifications-using-a-spreadsheet-beta
-legacySlug: import-and-export-sku-specifications-via-spreadsheet-beta
+slugEN: importing-and-exporting-sku-specifications-using-a-spreadsheet
 locale: en
-subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
-
-> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact our [Support](https://supporticket.vtex.com/support).
 
 In VTEX Admin, you can manage SKU specification import and export using a spreadsheet, as described in the sections below:
 
