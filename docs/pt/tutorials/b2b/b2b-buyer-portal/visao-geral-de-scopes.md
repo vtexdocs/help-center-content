@@ -10,9 +10,19 @@ locale: pt
 
 > ⚠️ Esta funcionalidade é exclusiva para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
 
-**Scopes** são a funcionalidade da Organization Account que permite às empresas B2B restringirem os atributos de **Organizational Units**, de forma que os compradores só podem ver e usar os recursos da organizational unit à qual eles têm acesso.
+**Scopes** são a funcionalidade da Organization Account que permite às empresas B2B restringirem os atributos de **Organizational Units** (OU). Isso permite às empresas controlarem quais informações os compradores de uma unidade de negócio podem ver e usar, limitando o acesso dos usuários ao necessário para suas funções.
 
-Cada organization unit possui um scope próprio, que não é herdado da organization unit raiz e sim configurado individualmente. Isso permite às empresas controlarem quais informações os compradores de uma unidade de negócio podem ver e usar, limitando o acesso dos usuários ao necessário para suas funções.
+Cada organization unit possui um scope próprio, que não é herdado da organization unit à qual está subordinada e sim configurado individualmente. Veja um exemplo na imagem a seguir, que representa a totalidade de atributos da Organization Account pelo conjunto ABC e mostra três unidades filhas:
+
+![scopes-overview_1_PT](XXX)
+
+Os cenários apresentados são:
+
+- **Organizational unit 1:** não tem um scope configurado para nenhuma dimensão e, portanto, dispõe de todas as funcionalidades da Organization Account.
+- **Organizational unit 2:** tem um scope configurado e dispõe somente da funcionalidade A.
+- **Organizational unit 3:** tem um scope configurado e dispõe somente das funcionalidades B e C.
+
+## Restrições de atributos
 
 As restrições que podem ser impostas a **Organizational Units** estão relacionadas às seguintes informações:
 
