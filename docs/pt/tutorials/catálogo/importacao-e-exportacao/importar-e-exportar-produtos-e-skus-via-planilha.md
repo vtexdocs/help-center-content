@@ -60,7 +60,7 @@ Após a finalização da exportação, você receberá um email com um link para
 
 Enquanto a exportação estiver sendo processada, a página [Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus) apresentará uma janela na parte inferior como a imagem a seguir:
 
-![export-pt-loading](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/importacao-e-exportacao/importar-e-exportar-produtos-e-skus-via-planilha-beta_1.png)
+![export-pt-loading](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/importacao-e-exportacao/importar-e-exportar-produtos-e-skus-via-planilha_1.png)
 
 * **Exportações 1:** informa o número de operações de exportação sendo realizadas, neste caso apenas uma.
 * **Ícone de carregando:** indica que a operação de exportação está em andamento.
