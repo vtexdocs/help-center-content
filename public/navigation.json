@@ -17099,21 +17099,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Adding users to a buyer organization",
-                    "es": "Agregar usuarios a la organización compradora",
-                    "pt": "Adicionar usuários à organização compradora"
-                  },
-                  "slug": {
-                    "en": "adding-users-to-buyer-organization",
-                    "es": "agregar-usuarios-a-la-organizacion-compradora",
-                    "pt": "adicionar-usuarios-a-organizacao-compradora"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "B2B contracts",
                     "es": "Contratos B2B",
                     "pt": "Contratos B2B"
@@ -17258,6 +17243,36 @@
                     "en": "adding-or-editing-custom-checkout-fields",
                     "es": "agregar-o-editar-campos-personalizables-del-checkout",
                     "pt": "adicionar-ou-editar-campos-customizaveis"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Adding users to a buyer organization",
+                    "es": "Agregar usuarios a la organización compradora",
+                    "pt": "Adicionar usuários à organização compradora"
+                  },
+                  "slug": {
+                    "en": "adding-users-to-buyer-organization",
+                    "es": "agregar-usuarios-a-la-organizacion-compradora",
+                    "pt": "adicionar-usuarios-a-organizacao-compradora"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Organization Account",
+                    "es": "Organization Account",
+                    "pt": "Organization Account"
+                  },
+                  "slug": {
+                    "en": "organization-account",
+                    "es": "organization-account-es",
+                    "pt": "organization-account-pt"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -47323,12 +47338,12 @@
               "name": {
                 "en": "Proportional shipping costs shows negative values when there are promotion that split items and free shipping applied",
                 "es": "Los gastos de envío proporcionales muestran valores negativos cuando hay promociones que fraccionan artículos y se aplican gastos de envío gratuitos.",
-                "pt": "Os custos de frete proporcionais mostram valores negativos quando há promoções que dividem itens e frete grátis aplicado"
+                "pt": "Os custos de envio proporcionais apresentam valores negativos quando há promoções que dividem os itens e envio gratuito aplicado."
               },
               "slug": {
                 "en": "proportional-shipping-costs-shows-negative-values-when-there-are-promotion-that-split-items-and-free-shipping-applied",
                 "es": "los-gastos-de-envio-proporcionales-muestran-valores-negativos-cuando-hay-promociones-que-fraccionan-articulos-y-se-aplican-gastos-de-envio-gratuito",
-                "pt": "os-custos-de-frete-proporcionais-mostram-valores-negativos-quando-ha-promocoes-que-dividem-itens-e-frete-gratis-aplicado"
+                "pt": "os-custos-de-envio-proporcionais-apresentam-valores-negativos-quando-ha-promocoes-que-dividem-os-itens-e-envio-gratuito-aplicado"
               },
               "origin": "",
               "type": "markdown",
@@ -62383,13 +62398,13 @@
             {
               "name": {
                 "en": "Transactions remain stuck in Analyzing Risk despite AFPP connector approval",
-                "es": "Las transacciones siguen atascadas en Análisis de riesgos a pesar de la aprobación del conector AFPP",
-                "pt": "As transações continuam presas no Analyzing Risk apesar da aprovação do conector AFPP"
+                "es": "Las transacciones siguen atascadas en «Analizando el riesgo» a pesar de la aprobación del conector AFPP.",
+                "pt": "As transações permanecem presas na Análise de Risco, apesar da aprovação do conector AFPP."
               },
               "slug": {
                 "en": "transactions-remain-stuck-in-analyzing-risk-despite-afpp-connector-approval",
-                "es": "las-transacciones-siguen-atascadas-en-analisis-de-riesgos-a-pesar-de-la-aprobacion-del-conector-afpp",
-                "pt": "as-transacoes-continuam-presas-no-analyzing-risk-apesar-da-aprovacao-do-conector-afpp"
+                "es": "las-transacciones-siguen-atascadas-en-analizando-el-riesgo-a-pesar-de-la-aprobacion-del-conector-afpp",
+                "pt": "as-transacoes-permanecem-presas-na-analise-de-risco-apesar-da-aprovacao-do-conector-afpp"
               },
               "origin": "",
               "type": "markdown",
@@ -62398,12 +62413,12 @@
             {
               "name": {
                 "en": "Transactions remain stuck in Analyzing Risk despite legacy anti fraud connector approval",
-                "es": "Las transacciones permanecen atascadas en Análisis de riesgos a pesar de la aprobación del conector antifraude heredado",
+                "es": "Las transacciones siguen atascadas en «Analizando el riesgo» a pesar de la aprobación del conector antifraude heredado.",
                 "pt": "As transações permanecem presas no Analyzing Risk, apesar da aprovação do conector antifraude legado"
               },
               "slug": {
                 "en": "transactions-remain-stuck-in-analyzing-risk-despite-legacy-anti-fraud-connector-approval",
-                "es": "las-transacciones-permanecen-atascadas-en-analisis-de-riesgos-a-pesar-de-la-aprobacion-del-conector-antifraude-heredado",
+                "es": "las-transacciones-siguen-atascadas-en-analizando-el-riesgo-a-pesar-de-la-aprobacion-del-conector-antifraude-heredado",
                 "pt": "as-transacoes-permanecem-presas-no-analyzing-risk-apesar-da-aprovacao-do-conector-antifraude-legado"
               },
               "origin": "",
@@ -62428,12 +62443,12 @@
             {
               "name": {
                 "en": "Transactions remain stuck in Pending Authorization despite connector approval",
-                "es": "Las transacciones permanecen atascadas en Pendiente de autorización a pesar de la aprobación del conector",
-                "pt": "As transações permanecem presas em Autorização Pendente apesar da aprovação do conector"
+                "es": "Las transacciones permanecen bloqueadas en «Autorización pendiente» a pesar de la aprobación del conector.",
+                "pt": "As transações permanecem presas em Autorização pendente, apesar da aprovação do conector"
               },
               "slug": {
                 "en": "transactions-remain-stuck-in-pending-authorization-despite-connector-approval",
-                "es": "las-transacciones-permanecen-atascadas-en-pendiente-de-autorizacion-a-pesar-de-la-aprobacion-del-conector",
+                "es": "las-transacciones-permanecen-bloqueadas-en-autorizacion-pendiente-a-pesar-de-la-aprobacion-del-conector",
                 "pt": "as-transacoes-permanecem-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector"
               },
               "origin": "",
@@ -62503,13 +62518,13 @@
             {
               "name": {
                 "en": "Transactions stuck in Pending Authorization after approval",
-                "es": "Transacciones atascadas en Pendiente de autorización tras la aprobación",
-                "pt": "Transações presas em Autorização Pendente após a aprovação"
+                "es": "Transacciones bloqueadas en «Autorización pendiente» tras su aprobación",
+                "pt": "Transações retidas em Autorização pendente após aprovação"
               },
               "slug": {
                 "en": "transactions-stuck-in-pending-authorization-after-approval",
-                "es": "transacciones-atascadas-en-pendiente-de-autorizacion-tras-la-aprobacion",
-                "pt": "transacoes-presas-em-autorizacao-pendente-apos-a-aprovacao"
+                "es": "transacciones-bloqueadas-en-autorizacion-pendiente-tras-su-aprobacion",
+                "pt": "transacoes-retidas-em-autorizacao-pendente-apos-aprovacao"
               },
               "origin": "",
               "type": "markdown",

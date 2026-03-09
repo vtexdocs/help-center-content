@@ -22,14 +22,7 @@ Para adicionar um usuário, é necessário estar cadastrado na loja como membro 
 
 Siga as instruções a seguir para adicionar um usuário:
 
-1. Acesse a loja pelo navegador e faça login com seu usuário.  
-
-2. No menu superior, clique em **Company**. O painel da organização será exibido.  
-
-   ![adicionar-usuarios-a-organizacao-compradora_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/b2b-buyer-portal/adicionar-usuarios-a-organizacao-compradora_1.png)
-
-3. Clique em **Manage.**  
-4. Siga **a** ou **b** para acessar o painel de criação de usuário:  
+1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), siga **a** ou **b** para acessar o painel de criação de usuário:  
 
    1. Clique no botão **\+** e depois em **Add user**,  
       ou  
@@ -37,7 +30,7 @@ Siga as instruções a seguir para adicionar um usuário:
 
    ![adicionar-usuarios-a-organizacao-compradora_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/b2b-buyer-portal/adicionar-usuarios-a-organizacao-compradora_2.png)
 
-5. Preencha as informações do novo usuário:
+2. Preencha as informações do novo usuário:
 
    * **Nome completo (opcional)**: nome e sobrenome do usuário, conforme deve aparecer na organização.  
    * **Email (opcional)**: endereço de email que poderá ser utilizado para login e comunicações relacionadas ao processo de compra.  
@@ -47,7 +40,7 @@ Siga as instruções a seguir para adicionar um usuário:
 
      > ⚠️ Cadastrar usuários compradores, ou seja, com perfis de acesso que permitem realizar compras, exige um passo adicional. Saiba mais em [Habilitar usuários compradores](#habilitar-usuarios-compradores).
 
-6. Clique em **Add** para concluir.  
+3. Clique em **Add** para concluir.  
 
    Após a criação, uma mensagem de confirmação será exibida. Você pode clicar em **View** nessa mensagem para visualizar o usuário recém-criado.  
 
@@ -61,7 +54,7 @@ Ele passará a operar dentro da Organization Unit à qual foi vinculado e poder�
 
 Ao adicionar um usuário sem email cadastrado, o administrador da organização precisa gerar um código de acesso e repassar para o usuário realizar o primeiro acesso, seguindo as instruções abaixo.
 
-1. Acesse **Organization > Users**.  
+1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), acesse **Organization > Users**.  
 2. Clique no menu ⋮ e depois em **Reset password**.  
 3. Clique em **Reset** para confirmar.  
 4. Copie o código gerado e envie para o usuário.

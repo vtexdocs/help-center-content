@@ -22,27 +22,21 @@ To add a user, you must be registered in the store as a member of the buyer orga
 
 Follow the instructions below to add a user:
 
-1. Access the store through your browser and log in with your user account.
-2. In the top menu, click **Company**. The organization panel will be displayed.
-
-    ![adding-users-to-buyer-organization_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-buyer-portal/adding-users-to-buyer-organization_1.png)
-
-3. Click **Manage**.
-4. Follow **a** or **b** to access the user creation panel:
+1. In the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account), follow **a** or **b** to access the user creation panel:
   1. Click the **+** button and then **Add user**,
     or
   2. Click **Users** and then the **+** button.
 
     ![adding-users-to-buyer-organization_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-buyer-portal/adding-users-to-buyer-organization_2.png)
 
-5. Fill in the new user's information:
+2. Fill in the new user's information:
   - **Full name (optional)**: the user's first and last name, as it should appear in the organization.  
   - **Email (optional)**: email address that can be used for login and communications related to the purchasing process.  
   - **Phone number (optional)**: user's contact phone number. It can be used for login and communications related to purchases made.  
   - **Username**: unique identifier for the user within the organization. Used for store login. Special characters are not allowed.  
   - **Roles**: defines the user's role in the storefront, such as Buyer, Approver, or Organization Admin. For more information about roles and permissions, see the documentation for [Buyer organization members](https://help.vtex.com/en/docs/tutorials/buyer-organization-members).  
     > ⚠️ Registering buyer users, that is, users with roles that allow purchases, requires an additional step. Learn more in [Enabling buyer users](#enabling-buyer-users).
-6. Click **Add** to complete the process.
+3. Click **Add** to complete the process.
   After creation, a confirmation message will be displayed. You can click **View** in this message to see the newly created user.  
    The user will also be available for editing under **Organization > Users**.
 
@@ -54,7 +48,7 @@ The user will operate within the Organization Unit to which they were linked and
 
 When adding a user without a registered email, the organization administrator must generate an access code and provide it to the user so they can complete their first login by following the instructions below.
 
-1. Go to **Organization > Users**.
+1. In the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account), go to **Organization > Users**.
 2. Click the ⋮ menu and then **Reset password**.
 3. Click **Reset** to confirm.
 4. Copy the generated code and send it to the user.
