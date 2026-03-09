@@ -1,21 +1,12 @@
 ---
-title: 'Importar y exportar especificaciones de SKUs mediante plantilla (Beta)'
-id: 5EAioeC33wHpIxKHaGQzbV
-status: PUBLISHED
+title: 'Importar y exportar especificaciones de SKUs mediante plantilla'
 createdAt: 2025-09-26T15:29:35.015Z
-updatedAt: 2025-10-13T22:58:33.129Z
-publishedAt: 2025-10-13T22:58:33.129Z
-firstPublishedAt: 2025-09-26T16:15:50.391Z
+updatedAt: 2026-03-09T22:58:33.129Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
-author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: importing-and-exporting-sku-specifications-using-a-spreadsheet-beta
-legacySlug: importacion-y-exportacion-de-especificaciones-de-sku-mediante-plantilla-beta
+slugEN: importing-and-exporting-sku-specifications-using-a-spreadsheet
 locale: es
-subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
-
-> ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si tienes alguna duda, ponte en contacto con nuestro [Soporte](https://supporticket.vtex.com/support).
 
 En el Admin VTEX puedes gestionar la importación y exportación de especificaciones de SKUs utilizando una plantilla, como se indica en las secciones a continuación:
 
