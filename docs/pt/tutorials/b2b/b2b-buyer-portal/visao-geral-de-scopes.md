@@ -8,7 +8,7 @@ slugEN: scopes-overview
 locale: pt
 ---
 
-> ⚠️ A funcionalidade **Scopes** é exclusiva para o **B2B Buyer Portal**, que está disponível apenas para contas selecionadas.
+> ⚠️ Esta funcionalidade é exclusiva para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
 
 **Scopes** são a funcionalidade da Organization Account que permite às empresas B2B restringirem os atributos de **Organizational Units**, de forma que os compradores só podem ver e usar os recursos da organizational unit à qual eles têm acesso.
 
