@@ -1,28 +1,19 @@
 ---
-title: 'Importar y exportar productos y SKUs mediante plantilla (Beta)'
-id: 5udKxWP1ZeBD7QB7Fy2BNl
-status: PUBLISHED
+title: 'Importar y exportar productos y SKUs mediante plantilla'
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2026-02-26T15:30:32.980Z
-publishedAt: 2025-11-05T15:30:32.980Z
-firstPublishedAt: 2025-09-05T18:41:30.755Z
+updatedAt: 2026-03-09T15:30:32.980Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
-author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: importing-and-exporting-products-and-skus-using-a-spreadsheet-beta
-legacySlug: importacion-y-exportacion-de-productos-y-skus-mediante-plantilla-beta
+slugEN: importing-and-exporting-products-and-skus-using-a-spreadsheet
 locale: es
-subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
-
-> ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si tienes alguna duda, ponte en contacto con nuestro [Soporte](https://help.vtex.com/es/support).
 
 En el Admin VTEX puedes gestionar la importación y exportación de productos y SKUs utilizando una plantilla, como se indica en las secciones a continuación:
 
-- [Importar productos y SKUs mediante plantilla](#importar-productos-y-skus-mediante-plantilla)
-- [Exportar productos y SKUs mediante plantilla](#exportar-productos-y-skus-mediante-plantilla)
-- [Ventana de seguimiento de la exportación](#ventana-de-seguimiento-de-la-exportacion)
-- [Campos de la plantilla de productos y SKUs](#campos-de-la-plantilla-de-productos-y-skus)
+* [Importar productos y SKUs mediante plantilla](#importar-productos-y-skus-mediante-plantilla)
+* [Exportar productos y SKUs mediante plantilla](#exportar-productos-y-skus-mediante-plantilla)
+* [Ventana de seguimiento de la exportación](#ventana-de-seguimiento-de-la-exportacion)
+* [Campos de la plantilla de productos y SKUs](#campos-de-la-plantilla-de-productos-y-skus)
 
 > ℹ️ Aprende a gestionar manualmente tus productos y SKUs en el Admin VTEX consultando los artículos [Agregar o editar productos](/es/docs/tutorials/agregar-o-editar-productos) y [Agregar o editar SKUs](/es/docs/tutorials/agregar-o-editar-skus). Para información sobre [integraciones de backend con ERP](/es/docs/tracks/integraciones-de-backend), consulta la guía <a hef="https://developers.vtex.com/docs/guides/erp-integration-guide">Back office integration guide (ERP/PIM/WMS)</a>.
 
@@ -73,7 +64,7 @@ Mientras se procesa la exportación, la página [Productos y SKUs](/es/docs/tuto
 
 * **Exportaciones 1:** informa el número de exportaciones que se están realizando, en este caso, solo una.
 * **Ícono de carga:** indica que la operación de exportación está en curso.
-* **Productos y SKUs:** identifica el tipo de exportación. Otros tipos de exportación disponibles son [especificaciones de productos](/es/docs/tutorials/importar-y-exportar-especificaciones-de-productos-mediante-plantilla-beta), [especificaciones de SKUs](/es/docs/tutorials/importar-y-exportar-especificaciones-de-skus-mediante-plantilla-beta) e [imágenes de productos y SKUs](/es/docs/tutorials/importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla-beta).
+* **Productos y SKUs:** identifica el tipo de exportación. Otros tipos de exportación disponibles son [especificaciones de productos](/es/docs/tutorials/importar-y-exportar-especificaciones-de-productos-mediante-plantilla), [especificaciones de SKUs](/es/docs/tutorials/importar-y-exportar-especificaciones-de-skus-mediante-plantilla) e [imágenes de productos y SKUs](/es/docs/tutorials/importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla).
 * **Fecha y hora:** muestra la hora de inicio de la exportación, en el formato `DD-MM-AAAA - hh:mm`.
 * **Número en la tag azul:** informa la cantidad de ítems que se están exportando.
 * **(Opcional) Ícono flecha hacia abajo** <i class="fas fa-angle-down" aria-hidden="true"></i>: se muestra únicamente cuando hay más de una exportación en curso. Al hacer clic, la ventana de exportaciones se minimiza; la puedes volver a expandir después.
