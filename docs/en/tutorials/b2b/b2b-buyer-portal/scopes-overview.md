@@ -27,9 +27,9 @@ The scenarios shown are:
 The restrictions that can be applied to **Organizational Units** are related to:
 
 - Contracts
-- [Payment methods and conditions](https://help.vtex.com/en/docs/tutorials/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento)
+- [Payment methods and conditions](https://help.vtex.com/en/docs/tutorials/difference-between-payment-methods-and-payment-conditions)
 - Credit cards
-- [Collections](https://help.vtex.com/en/docs/tutorials/tipos-de-colecao)
+- [Collections](https://help.vtex.com/en/docs/tutorials/collection-types)
 - Addresses
 - Accounting fields
 
@@ -39,4 +39,4 @@ The restrictions that can be applied to **Organizational Units** are related to:
 
 To view and manage the scope of an organizational unit, the user's [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-permissions) profile must have the `View_Organization_Unit` and `Edit_Organization_Unit` resources.
 
-> ℹ️ For more information, see the article [Buyer organization members](https://help.vtex.com/en/docs/tutorials/membros-da-organizacao-compradora).
+> ℹ️ For more information, see the article [Buyer organization members](https://help.vtex.com/en/docs/tutorials/buyer-organization-members).
