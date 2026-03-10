@@ -54,7 +54,7 @@ Além dos filtros, a **Delivery Promise (Beta)** oferece os componentes que pode
 
 ![delivery-promise-beta_3][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_3.png]
 
-![delivery-promoise-beta_4][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_4.png]
+![delivery-promise-beta_4][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_4.png]
 
 ![delivery-promise-beta_5][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_5.png]
 
