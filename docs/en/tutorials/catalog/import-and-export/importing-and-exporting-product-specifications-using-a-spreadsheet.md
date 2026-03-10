@@ -16,6 +16,8 @@ In VTEX Admin, you can manage product specification import and export using a sp
 
 ## Importing product specifications using a spreadsheet
 
+> ❗ Don't modify the import template. Otherwise, a processing error will occur and the operation won't be completed.
+
 To import product specifications using a spreadsheet, follow these steps:
 
 1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type [Products and SKUs](/en/docs/tutorials/products-and-skus) in the search barat the top of the page.
