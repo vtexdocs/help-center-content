@@ -29,20 +29,30 @@ Para ativar as recomendações de produtos, é necessário ter uma loja implemen
 
 Confira a seguir as estratégias de recomendação disponíveis, implementadas diretamente pelo time da VTEX.
 
-| Nome                           | Descrição                                                                         |
-| ------------------------------ | --------------------------------------------------------------------------------- |
-| Mais populares                 | Produtos com maior número de visualizações.                                       |
-| Recomendado para você          | Recomendações personalizadas com base no perfil e no comportamento do usuário.    |
-| Produtos similares             | Produtos semelhantes a um produto específico.                                     |
-| Comprados juntos               | Produtos complementares a um produto específico, comumente comprados em conjunto. |
-| Mais vendidos                  | Produtos mais vendidos da loja.                                                   |
-| Vistos recentemente            | Produtos visualizados mais recentemente pelo usuário.                             |
-| Interações recentes            | Produtos com maior probabilidade de interação futura pelo usuário.                |
-| Produtos visualmente similares | Produtos visualmente semelhantes a um produto específico.                         |
-| Coleção manual                 | Recomendações a partir de uma coleção definida manualmente.                       |
+| Nome                           | Descrição                                                                         | Requisitos e como funciona |
+| ------------------------------ | --------------------------------------------------------------------------------- | -------------------------- |
+| Mais populares                 | Produtos com maior número de visualizações.                                       | - |
+| Recomendado para você          | Recomendações personalizadas com base no perfil e no comportamento do usuário.    | Mínimo de 1000 compras com mais de 1 item no carrinho. O algoritmo analisa padrões de compra dos clientes. |
+| Produtos similares             | Produtos semelhantes a um produto específico.                                     | A similaridade é determinada principalmente por estarem na mesma categoria do catálogo. Se não for suficiente, o sistema pode considerar também as especificações dos produtos. A qualidade depende da organização do seu catálogo. Se você deseja personalizar as regras de similaridade, entre em contato com o [Suporte VTEX](/pt/docs/tracks/suporte-na-vtex). |
+| Comprados juntos (Cross-sell)  | Produtos complementares a um produto específico, comumente comprados em conjunto. | Mínimo de 1000 compras com mais de 1 item no carrinho. Identifica produtos complementares com base na quantidade de vezes que são comprados juntos no carrinho. |
+| Mais vendidos                  | Produtos mais vendidos da loja.                                                   | - |
+| Vistos recentemente            | Produtos visualizados mais recentemente pelo usuário.                             | - |
+| Interações recentes            | Produtos com maior probabilidade de interação futura pelo usuário.                | - |
+| Produtos visualmente similares | Produtos visualmente semelhantes a um produto específico.                         | Utiliza tecnologia de reconhecimento de imagem para identificar produtos com aparência visual semelhante, analisando características como cores, formas e padrões. |
+| Coleção manual                 | Recomendações a partir de uma coleção definida manualmente.                       | - |
 
 ## Implementação
 
 Para solicitar a ativação da funcionalidade de recomendações de produtos na sua loja, abra um ticket com o [Suporte Comercial](/pt/docs/tracks/suporte-comercial), indicando quais estratégias deseja ativar. A equipe da VTEX vai analisar a solicitação e entrar em contato.
 
-Saiba mais sobre a implementação no Store Framework na documentação do componente [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf).
+### Store Framework
+
+Para lojas implementadas com Store Framework, utilize o componente [Recommendation Shelf](https://developers.vtex.com/docs/apps/vtex.recommendation-shelf), que permite exibir prateleiras de produtos recomendados em diferentes páginas da loja.
+
+### FastStore
+
+Para lojas implementadas com FastStore, consulte a documentação [Implementing product recommendations in FastStore](https://developers.vtex.com/docs/guides/implementing-product-recommendations-in-faststore) para integrar as APIs de recomendações de produtos na sua loja.
+
+### Headless
+
+Para implementações headless, utilize as APIs de recomendações de produtos da VTEX para consumir as estratégias de recomendação e exibir os produtos em sua aplicação customizada. Consulte a documentação [Integrating product recommendations in headless stores](https://developers.vtex.com/docs/guides/integrating-product-recommendations-in-headless-stores) para mais informações sobre como integrar as APIs.
