@@ -40,9 +40,9 @@ As informações apresentadas são:
 
 | Métrica | Descrição | Informações disponíveis ao passar o mouse sobre uma data |
 | :---- | :---- | :---- |
-| **Conversão por clique** | Percentual de cliques em recomendações que resultaram em pedidos. | Cliques Pedidos Conversão por click |
-| **Taxa de visualização** | Percentual de visualizações de prateleiras de recomendação em relação ao total de visualizações de página. A cada vez que a página é carregada, a estratégia é gerada e ela pode ou não ser visualizada. | Visualizações Impressões Taxa de visualização |
-| **Taxa de cliques** | Taxa média de cliques (CTR) nas recomendações. | Cliques Visualizações Taxa de cliques |
+| **Conversão por clique** | Percentual de cliques em recomendações que resultaram em pedidos. | Cliques <br /> Pedidos <br /> Conversão por click |
+| **Taxa de visualização** | Percentual de visualizações de prateleiras de recomendação em relação ao total de visualizações de página. A cada vez que a página é carregada, a estratégia é gerada e ela pode ou não ser visualizada. | Visualizações <br /> Impressões <br /> Taxa de visualização |
+| **Taxa de cliques** | Taxa média de cliques (CTR) nas recomendações. | Cliques <br /> Visualizações <br /> Taxa de cliques |
 | **Receita total** | Valor total de receita gerada a partir de interações com recomendações. | Receita |
 
 ## Informações sobre prateleiras
@@ -92,7 +92,7 @@ O identificador pode ser utilizado para:
 
 Para definir o período de análise do dashboard, siga as instruções abaixo:
 
-1. Clique no período definido no canto superior direito da página  
+1. Clique no período definido no canto superior direito da página.
 2. Escolha uma das opções disponíveis:  
    * **Ontem**  
    * **Últimos 7 dias**  
