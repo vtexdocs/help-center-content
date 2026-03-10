@@ -16,6 +16,8 @@ En el Admin VTEX puedes gestionar la importación y exportación de información
 
 ## Importar imágenes de productos y SKUs mediante plantilla
 
+> ❗ No modifiques la plantilla de importación. De lo contrario, se producirá un error de procesamiento y la operación no se realizará.
+
 Para importar imágenes de productos y SKUs a partir de una plantilla sigue los pasos a continuación:
 
 1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa [Productos y SKUs](/es/docs/tutorials/productos-y-skus) en la barra de búsqueda en la parte superior de la página.
