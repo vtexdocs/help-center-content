@@ -17186,6 +17186,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Scopes overview",
+                    "es": "Visión general de Scopes",
+                    "pt": "Visão geral de Scopes"
+                  },
+                  "slug": {
+                    "en": "scopes-overview",
+                    "es": "vision-general-de-scopes",
+                    "pt": "visao-geral-de-scopes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -17243,6 +17258,21 @@
                     "en": "adding-or-editing-custom-checkout-fields",
                     "es": "agregar-o-editar-campos-personalizables-del-checkout",
                     "pt": "adicionar-ou-editar-campos-customizaveis"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Adding or editing Organizational Units",
+                    "es": "Agregar o editar Organizational Units",
+                    "pt": "Adicionar ou editar Organizational Units"
+                  },
+                  "slug": {
+                    "en": "adding-or-editing-organizational-units",
+                    "es": "agregar-o-editar-organizational-units",
+                    "pt": "adicionar-ou-editar-organizational-units"
                   },
                   "origin": "",
                   "type": "markdown",
