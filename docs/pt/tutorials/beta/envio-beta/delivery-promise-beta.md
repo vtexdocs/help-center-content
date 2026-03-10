@@ -48,7 +48,7 @@ Nesta etapa, a **Delivery Promise (Beta)** permite que os compradores da sua loj
 * **Prazo de envio ([Opções de envio](https://help.vtex.com/pt/tutorial/opcoes-de-envio-beta--1fRDJFcHCtpTnk7GNyaRDY))**: produtos disponíveis conforme o prazo, método de envio e zonas geográficas configuradas pelo lojista no módulo de [**Opções de envio**](https://help.vtex.com/pt/tutorial/opcoes-de-envio-beta--1fRDJFcHCtpTnk7GNyaRDY).  
 * **Prazo de envio dinâmico**: produtos disponíveis definidos por prazos dinâmicos (**Mesmo dia** e **Dia seguinte**), que consideram os horários de navegação do comprador e os prazos cadastrados nas [**Opções de envio**](https://help.vtex.com/pt/tutorial/opcoes-de-envio-beta--1fRDJFcHCtpTnk7GNyaRDY) da conta principal da loja para a data de entrega e de retirada.
 
-![delivery-promoise-beta_2][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_2.png]
+![delivery-promise-beta_2][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_2.png]
 
 Além dos filtros, a **Delivery Promise (Beta)** oferece os componentes que podem ser exibidos na página de listagem de produtos da loja e na frente de loja com opções de envio e prazo dinâmico e com detalhes dos métodos de envio e retirada disponíveis para cada produto.
 
