@@ -56,7 +56,7 @@ Além dos filtros, a **Delivery Promise (Beta)** oferece os componentes que pode
 
 ![delivery-promoise-beta_4][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_4.png]
 
-![delivery-promoise-beta_5][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_5.png]
+![delivery-promise-beta_5][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_5.png]
 
 >ℹ️ Alguns dos filtros mencionados acima são componentes nativos da [FastStore](https://developers.vtex.com/docs/guides/faststore/features-delivery-promise) v3 ou do [Store Framework](https://developers.vtex.com/docs/guides/setting-up-delivery-promise-components). Caso você queira [desenvolver componentes customizados para os filtros e a seleção de endereço da sua loja](https://developers.vtex.com/docs/guides/delivery-promise-for-headless-stores) ou implementar componentes com informações sobre a entrega, entre em contato com a sua equipe de desenvolvimento ou um [parceiro de implementação](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao).
 
