@@ -62247,6 +62247,21 @@
             },
             {
               "name": {
+                "en": "Transaction stuck in cancelling and cancel/refund return “Object reference not set to an instance of an object”",
+                "es": "Transacción bloqueada en la cancelación y devolución de cancelación/reembolso «Referencia de objeto no establecida en una instancia de objeto».",
+                "pt": "Transação presa no cancelamento e cancelamento/reembolso da devolução “Referência de objeto não definida para uma instância de um objeto”"
+              },
+              "slug": {
+                "en": "transaction-stuck-in-cancelling-and-cancelrefund-return-object-reference-not-set-to-an-instance-of-an-object",
+                "es": "transaccion-bloqueada-en-la-cancelacion-y-devolucion-de-cancelacionreembolso-referencia-de-objeto-no-establecida-en-una-instancia-de-objeto",
+                "pt": "transacao-presa-no-cancelamento-e-cancelamentoreembolso-da-devolucao-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction stuck in Settling after Capture fails due to recipientsSplitRemainValue mismatch",
                 "es": "Transacción bloqueada en Liquidación tras fallo de Captura debido a una falta de coincidencia de recipientsSplitRemainValue.",
                 "pt": "Transação presa na Liquidação após falha na Captura devido à incompatibilidade entre recipientsSplitRemainValue"
