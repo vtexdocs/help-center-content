@@ -17967,6 +17967,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Recommendations dashboard (beta)",
+                    "es": "Dashboard de recomendaciones (beta)",
+                    "pt": "Dashboard de recomendações (Beta)"
+                  },
+                  "slug": {
+                    "en": "recommendations-dashboard",
+                    "es": "dashboard-de-recomendaciones",
+                    "pt": "dashboard-de-recomendacoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
