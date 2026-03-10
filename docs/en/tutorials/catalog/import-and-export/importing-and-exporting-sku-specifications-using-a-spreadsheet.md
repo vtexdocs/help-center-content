@@ -1,27 +1,18 @@
 ---
-title: 'Importing and exporting SKU specifications using a spreadsheet (Beta)'
-id: 5EAioeC33wHpIxKHaGQzbV
-status: PUBLISHED
+title: 'Importing and exporting SKU specifications using a spreadsheet'
 createdAt: 2025-09-26T15:29:35.015Z
-updatedAt: 2025-10-13T22:58:33.129Z
-publishedAt: 2025-10-13T22:58:33.129Z
-firstPublishedAt: 2025-09-26T16:15:50.391Z
+updatedAt: 2026-03-09T22:58:33.129Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
-author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: importing-and-exporting-sku-specifications-using-a-spreadsheet-beta
-legacySlug: import-and-export-sku-specifications-via-spreadsheet-beta
+slugEN: importing-and-exporting-sku-specifications-using-a-spreadsheet
 locale: en
-subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
-
-> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact our [Support](https://supporticket.vtex.com/support).
 
 In VTEX Admin, you can manage SKU specification import and export using a spreadsheet, as described in the sections below:
 
-- [Importing SKU specifications using a spreadsheet](#importing-sku-specifications-using-a-spreadsheet)
-- [Exporting SKU specifications using a spreadsheet](#exporting-sku-specifications-using-a-spreadsheet)
-- [SKU specification spreadsheet fields](#sku-specification-spreadsheet-fields)
+* [Importing SKU specifications using a spreadsheet](#importing-sku-specifications-using-a-spreadsheet)
+* [Exporting SKU specifications using a spreadsheet](#exporting-sku-specifications-using-a-spreadsheet)
+* [SKU specification spreadsheet fields](#sku-specification-spreadsheet-fields)
 
 ## Importing SKU specifications using a spreadsheet
 
@@ -51,7 +42,7 @@ To export an `.xlsx` file with the SKU specification information, follow these s
 3. At the top of the page, click `Export`.
 4. Click `SKU specifications`.
 
-While the operation is running, a message will display indicating that the file is being processed. Leaving the page won't interrupt the operation. You can [track the export progress in the window](/en/docs/tutorials/importing-and-exporting-products-and-skus-using-a-spreadsheet-beta#tracking-export-process) that opens on the page. 
+While the operation is running, a message will display indicating that the file is being processed. Leaving the page won't interrupt the operation. You can [track the export progress in the window](/en/docs/tutorials/importing-and-exporting-products-and-skus-using-a-spreadsheet#tracking-export-process) that opens on the page. 
 
 Once the export is complete, you'll receive an email with a link to download the file. The download link is valid for 24 hours. After that, the link expires. You can also download the file from the window that opens on the page.
 
@@ -80,6 +71,6 @@ The following table describes and includes an example of each field in the SKU s
 
 ## Learn more
 
-* [Importing and exporting products and SKUs using a spreadsheet (Beta)](/en/docs/tutorials/importing-and-exporting-products-and-skus-using-a-spreadsheet-beta)
-* [Importing and exporting product specifications using a spreadsheet (Beta)](/en/docs/tutorials/importing-and-exporting-product-specifications-using-a-spreadsheet-beta)
-* [Importing and exporting product and SKU images using a spreadsheet (Beta)](/en/docs/tutorials/importing-and-exporting-product-and-sku-images-using-a-spreadsheet-beta)
+* [Importing and exporting products and SKUs using a spreadsheet](/en/docs/tutorials/importing-and-exporting-products-and-skus-using-a-spreadsheet)
+* [Importing and exporting product specifications using a spreadsheet](/en/docs/tutorials/importing-and-exporting-product-specifications-using-a-spreadsheet)
+* [Importing and exporting product and SKU images using a spreadsheet](/en/docs/tutorials/importing-and-exporting-product-and-sku-images-using-a-spreadsheet)

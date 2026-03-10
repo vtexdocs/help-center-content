@@ -1,28 +1,19 @@
 ---
-title: 'Importar e exportar produtos e SKUs via planilha (Beta)'
-id: 5udKxWP1ZeBD7QB7Fy2BNl
-status: PUBLISHED
+title: 'Importar e exportar produtos e SKUs via planilha'
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2026-02-26T15:30:32.980Z
-publishedAt: 2025-11-05T15:30:32.980Z
-firstPublishedAt: 2025-09-05T18:41:30.755Z
+updatedAt: 2026-03-09T22:58:33.129Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
-author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: importing-and-exporting-products-and-skus-using-a-spreadsheet-beta
-legacySlug: importacao-e-exportacao-de-produtos-e-skus-via-planilha-beta
+slugEN: importing-and-exporting-products-and-skus-using-a-spreadsheet
 locale: pt
-subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
-
-> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
 
 No Admin VTEX, você pode gerenciar a importação e a exportação de produtos e SKUs utilizando planilha, conforme apresentado nas seções:
 
-- [Importar produtos e SKUs via planilha](#importar-produtos-e-skus-via-planilha)
-- [Exportar produtos e SKUs via planilha](#exportar-produtos-e-skus-via-planilha)
-- [Acompanhar janela do processo de exportação](#acompanhar-janela-do-processo-de-exportacao)
-- [Ver campos da planilha de produtos e SKUs](#ver-campos-da-planilha-de-produtos-e-skus)
+* [Importar produtos e SKUs via planilha](#importar-produtos-e-skus-via-planilha)
+* [Exportar produtos e SKUs via planilha](#exportar-produtos-e-skus-via-planilha)
+* [Acompanhar janela do processo de exportação](#acompanhar-janela-do-processo-de-exportacao)
+* [Ver campos da planilha de produtos e SKUs](#ver-campos-da-planilha-de-produtos-e-skus)
 
 > ℹ️ Para saber como gerenciar manualmente pelo Admin VTEX os seus produtos e SKUs, veja os artigos [Adicionar ou editar produto](/pt/docs/tutorials/adicionar-ou-editar-produto) e [Adicionar ou editar SKU](/pt/docs/tutorials/adicionar-ou-editar-sku). Para informações sobre [integrações de backend com ERP](/pt/docs/tracks/integracoes-de-backend), confira o guia [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).
 
@@ -69,11 +60,11 @@ Após a finalização da exportação, você receberá um email com um link para
 
 Enquanto a exportação estiver sendo processada, a página [Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus) apresentará uma janela na parte inferior como a imagem a seguir:
 
-![export-pt-loading](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/cat%C3%A1logo-beta/importar-e-exportar-produtos-e-skus-via-planilha-beta_1.png)
+![export-pt-loading](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/importacao-e-exportacao/importar-e-exportar-produtos-e-skus-via-planilha_1.png)
 
 * **Exportações 1:** informa o número de operações de exportação sendo realizadas, neste caso apenas uma.
 * **Ícone de carregando:** indica que a operação de exportação está em andamento.
-* **Produtos e SKUs:** identifica o tipo da exportação. Outras operações que existem são exportações de [especificações de produtos](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-produtos-via-planilha-beta), [especificações de SKUs](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-skus-via-planilha-beta) e [imagens de produtos e SKUs](/pt/docs/tutorials/importar-e-exportar-imagens-de-produtos-e-skus-via-planilha-beta).
+* **Produtos e SKUs:** identifica o tipo da exportação. Outras operações que existem são exportações de [especificações de produtos](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-produtos-via-planilha), [especificações de SKUs](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-skus-via-planilha) e [imagens de produtos e SKUs](/pt/docs/tutorials/importar-e-exportar-imagens-de-produtos-e-skus-via-planilha).
 * **Data e hora:** apresentam o horário do início da exportação, no formato `DD-MM-AAAA - hh:mm`.
 * **Número em tag azul:** informa a quantidade de itens sendo exportados.
 * **(Opcional) Ícone seta para baixo** <i class="fas fa-angle-down" aria-hidden="true"></i>: aparece quando há mais de uma exportação em andamento e, quando clicado, minimiza a visualização da janela, de forma que ela pode voltar a se expandir.
@@ -82,7 +73,7 @@ Enquanto a exportação estiver sendo processada, a página [Produtos e SKUs](/p
 
 Após a conclusão da operação, a janela apresentará as seguintes mudanças:
 
-![export-pt-done](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/cat%C3%A1logo-beta/importar-e-exportar-produtos-e-skus-via-planilha-beta_2.png)
+![export-pt-done](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/importacao-e-exportacao/importar-e-exportar-produtos-e-skus-via-planilha_2.png)
 
 * **Ícone verde:** indica que a exportação foi finalizada.
 * **Ícone fechar** <i class="fas fa-times" aria-hidden="true"></i>: quando clicado, fecha a visualização da janela, sem a opção de voltar a expandi-la.
@@ -146,6 +137,6 @@ A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campo
 
 ## Saiba mais
 
-* [Importar e exportar especificações de produtos via planilha (Beta)](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-produtos-via-planilha-beta)
-* [Importar e exportar especificações de SKUs via planilha (Beta)](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-skus-via-planilha-beta)
-* [Importar e exportar imagens de produtos e SKUs via planilha (Beta)](/pt/docs/tutorials/importar-e-exportar-imagens-de-produtos-e-skus-via-planilha-beta)
+* [Importar e exportar especificações de produtos via planilha](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-produtos-via-planilha)
+* [Importar e exportar especificações de SKUs via planilha](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-skus-via-planilha)
+* [Importar e exportar imagens de produtos e SKUs via planilha](/pt/docs/tutorials/importar-e-exportar-imagens-de-produtos-e-skus-via-planilha)

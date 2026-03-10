@@ -1,27 +1,18 @@
 ---
-title: 'Importar e exportar especificações de SKUs via planilha (Beta)'
-id: 5EAioeC33wHpIxKHaGQzbV
-status: PUBLISHED
+title: 'Importar e exportar especificações de SKUs via planilha'
 createdAt: 2025-09-26T15:29:35.015Z
-updatedAt: 2025-10-13T22:58:33.129Z
-publishedAt: 2025-10-13T22:58:33.129Z
-firstPublishedAt: 2025-09-26T16:15:50.391Z
+updatedAt: 2026-03-09T22:58:33.129Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
-author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: importing-and-exporting-sku-specifications-using-a-spreadsheet-beta
-legacySlug: importacao-e-exportacao-de-especificacoes-de-skus-via-planilha-beta
+slugEN: importing-and-exporting-sku-specifications-using-a-spreadsheet
 locale: pt
-subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
-
-> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://supporticket.vtex.com/support).
 
 No Admin VTEX, você pode gerenciar a importação e a exportação de especificações de SKUs utilizando planilha, conforme apresentado nas seções:
 
-* [Importar especificações de SKUs via planilha](#importar-especificacoes-de-skus-via-planilha) 
-* [Exportar especificações de SKUs via planilha](#exportar-especificacoes-de-skus-via-planilha) 
-* [Ver campos da planilha de especificações de SKUs](#ver-campos-da-planilha-de-especificacoes-de-skus)  
+* [Importar especificações de SKUs via planilha](#importar-especificacoes-de-skus-via-planilha)
+* [Exportar especificações de SKUs via planilha](#exportar-especificacoes-de-skus-via-planilha)
+* [Ver campos da planilha de especificações de SKUs](#ver-campos-da-planilha-de-especificacoes-de-skus)
 
 ## Importar especificações de SKUs via planilha
 
@@ -51,13 +42,13 @@ Para exportar um arquivo `.xlsx` com informações sobre especificações de SKU
 3. No topo da página, clique em `Exportar`.
 4. Clique em `Especificações de SKU`.
 
-Enquanto a operação estiver em andamento, aparecerá a mensagem de que o arquivo está sendo processado. Mesmo que você saia da página, a operação não será interrompida. Você pode [acompanhar o andamento da exportação pela janela](/pt/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha-beta#acompanhar-janela-do-processo-de-exportacao) que surge na página. 
+Enquanto a operação estiver em andamento, aparecerá a mensagem de que o arquivo está sendo processado. Mesmo que você saia da página, a operação não será interrompida. Você pode [acompanhar o andamento da exportação pela janela](/pt/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha#acompanhar-janela-do-processo-de-exportacao) que surge na página.
 
 Após a finalização da exportação, você receberá um email com um link para fazer o download do arquivo. O prazo para o download pelo link é de 24 horas, após este período o link expira. Também é possível baixar o arquivo pela janela que surgiu na página.
 
 ## Ver campos da planilha de especificações de SKUs
 
-A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campos da planilha de importação de especificações de SKUs. Campos obrigatórios estão marcados com um asterisco (*). 
+A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campos da planilha de importação de especificações de SKUs. Campos obrigatórios estão marcados com um asterisco (*).
 
 | **Campo** | **Descrição** | **Exemplo** |
 | :---: | :--- | :---: |
@@ -76,10 +67,10 @@ A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campo
 | ID Valor Campo | Código numérico que identifica o valor do campo. | 689 |
 | Nome Valor Campo | Nome do valor do campo. | Cor |
 | Código Especificação | Código numérico que identifica a relação entre o campo e aquele SKU. | 397 |
-| Valor Especificação  | Valor atribuído ao campo da especificação de SKU. Esta é a única informação que pode ser editada via planilha. | Azul |
+| Valor Especificação | Valor atribuído ao campo da especificação de SKU. Esta é a única informação que pode ser editada via planilha. | Azul |
 
 ## Saiba mais
 
-* [Importar e exportar produtos e SKUs via planilha (Beta)](/pt/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha-beta)
-* [Importar e exportar especificações de produtos via planilha (Beta)](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-produtos-via-planilha-beta)
-* [Importar e exportar imagens de produtos e SKUs via planilha (Beta)](/pt/docs/tutorials/importar-e-exportar-imagens-de-produtos-e-skus-via-planilha-beta)
+* [Importar e exportar produtos e SKUs via planilha](/pt/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha)
+* [Importar e exportar especificações de produtos via planilha](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-produtos-via-planilha)
+* [Importar e exportar imagens de produtos e SKUs via planilha](/pt/docs/tutorials/importar-e-exportar-imagens-de-produtos-e-skus-via-planilha)

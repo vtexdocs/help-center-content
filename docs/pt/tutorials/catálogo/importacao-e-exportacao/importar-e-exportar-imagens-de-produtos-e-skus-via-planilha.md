@@ -1,21 +1,12 @@
 ---
-title: 'Importar e exportar imagens de produtos e SKUs via planilha (Beta)'
-id: 6zBisMdxDYeBF49LPzvfqt
-status: PUBLISHED
+title: 'Importar e exportar imagens de produtos e SKUs via planilha'
 createdAt: 2025-09-26T15:59:03.761Z
-updatedAt: 2025-11-05T14:19:35.695Z
-publishedAt: 2025-11-05T14:19:35.695Z
-firstPublishedAt: 2025-09-26T16:15:52.581Z
+updatedAt: 2026-03-09T22:58:33.129Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
-author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: importing-and-exporting-product-and-sku-images-using-a-spreadsheet-beta
-legacySlug: importacao-e-exportacao-de-imagens-de-produtos-e-skus-via-planilha-beta
+slugEN: importing-and-exporting-product-and-sku-images-using-a-spreadsheet
 locale: pt
-subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
-
-> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
 
 No Admin VTEX, você pode gerenciar a importação e a exportação de informações de imagens utilizando planilha, conforme apresentado nas seções:
 
@@ -47,10 +38,10 @@ Para exportar um arquivo `.xlsx` com as imagens do seu catálogo, realize os seg
 
 1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus) na barra de busca no topo da página.
 2. (Opcional) Caso queira exportar as imagens de determinados produtos e SKUs, [busque](/pt/docs/tutorials/produtos-e-skus#buscar-produtos) ou [filtre](/pt/docs/tutorials/produtos-e-skus#filtrar-produtos) os itens desejados. Este passo não é necessário para exportar as imagens de todos os itens do seu catálogo.
-3. No topo da página, clique em `Exportar`. 
+3. No topo da página, clique em `Exportar`.
 4. Clique em `Imagens`.
 
-Enquanto a exportação estiver em andamento, aparecerá a mensagem de que o arquivo está sendo processado. Mesmo que você saia da página, a operação não será afetada. Você pode [acompanhar o andamento da exportação pela janela](/pt/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha-beta#acompanhar-janela-do-processo-de-exportacao) que surge na página. 
+Enquanto a exportação estiver em andamento, aparecerá a mensagem de que o arquivo está sendo processado. Mesmo que você saia da página, a operação não será afetada. Você pode [acompanhar o andamento da exportação pela janela](/pt/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha#acompanhar-janela-do-processo-de-exportacao) que surge na página.
 
 Após a finalização da exportação de imagens de produtos e SKUs, você receberá um email com um link para fazer o download do arquivo. O prazo para o download pelo link é de 24 horas, após este período o link expira. Também é possível baixar o arquivo pela janela que surgiu na página.
 
@@ -77,6 +68,6 @@ A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campo
 
 ## Saiba mais
 
-* [Importar e exportar produtos e SKUs via planilha (Beta)](/pt/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha-beta)
-* [Importar e exportar especificações de produtos via planilha (Beta)](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-produtos-via-planilha-beta)
-* [Importar e exportar especificações de SKUs via planilha (Beta)](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-skus-via-planilha-beta)
+* [Importar e exportar produtos e SKUs via planilha](/pt/docs/tutorials/importar-e-exportar-produtos-e-skus-via-planilha)
+* [Importar e exportar especificações de produtos via planilha](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-produtos-via-planilha)
+* [Importar e exportar especificações de SKUs via planilha](/pt/docs/tutorials/importar-e-exportar-especificacoes-de-skus-via-planilha)
