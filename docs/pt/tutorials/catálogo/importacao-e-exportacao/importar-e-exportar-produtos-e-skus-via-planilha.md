@@ -19,6 +19,8 @@ No Admin VTEX, você pode gerenciar a importação e a exportação de produtos 
 
 ## Importar produtos e SKUs via planilha
 
+> ❗ Não modifique o template da importação. Caso contrário, haverá um erro de processamento e a operação não será realizada.
+
 Para importações de produtos e SKUs por planilha, realize os seguintes passos:
 
 1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**, ou digite [Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus) na barra de busca no topo da página.
