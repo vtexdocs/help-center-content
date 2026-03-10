@@ -28,7 +28,7 @@ Consulte a continuación los ajustes necesarios para transformar una cuenta en u
 
 ## Prerrequisito
 
-Si ya tienes una tienda B2C (Business to Consumer) en VTEX, antes de seguir los pasos descritos a continuación, debes crear una multitienda para tu operación B2B. Consulte el artículo [Crear multitienda / multidominio](/es/tutorial/como-crear-multitienda-multidominio--tutorials_510) para obtener más información.
+Si ya tienes una tienda B2C (Business to Consumer) en VTEX, antes de seguir los pasos descritos a continuación, debes crear una multitienda para tu operación B2B. Consulte el artículo [Crear multitienda / multidominio](/es/docs/tutorials/gestionar-multitienda) para obtener más información.
 
 ## 1. Incluir regla condicional en la Política Comercial del B2B
 

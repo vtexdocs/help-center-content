@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "March",
+                "es": "Marzo",
+                "pt": "Março"
+              },
+              "slug": {
+                "en": "2026-march",
+                "es": "2026-marzo",
+                "pt": "2026-março"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Amazon: Price suggestion",
+                    "es": "Amazon: Sugerencia de precios",
+                    "pt": "Amazon: Sugestão de preços"
+                  },
+                  "slug": {
+                    "en": "2026-03-06-amazon-price-suggestion",
+                    "es": "2026-03-06-amazon-sugerencia-de-precios",
+                    "pt": "2026-03-06-amazon-sugestao-de-precos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "February",
                 "es": "Febrero",
                 "pt": "Fevereiro"
@@ -17046,8 +17077,8 @@
           },
           "slug": {
             "en": "b2b-category",
-            "es": "b2b-categoria",
-            "pt": "b2b-categoria"
+            "es": "b2b-categoria-es",
+            "pt": "b2b-categoria-pt"
           },
           "origin": "",
           "type": "category",
@@ -17060,22 +17091,22 @@
               },
               "slug": {
                 "en": "b2b-buyer-portal-subcategory",
-                "es": "b2b-buyer-portal-subcategoria",
-                "pt": "b2b-buyer-portal-subcategoria"
+                "es": "b2b-buyer-portal-subcategoria-es",
+                "pt": "b2b-buyer-portal-subcategoria-pt"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "en": "B2B Contracts",
+                    "en": "B2B contracts",
                     "es": "Contratos B2B",
                     "pt": "Contratos B2B"
                   },
                   "slug": {
                     "en": "b2b-contracts",
-                    "es": "contratos-b2b",
-                    "pt": "contratos-b2b"
+                    "es": "contratos-b2b-es",
+                    "pt": "contratos-b2b-pt"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17140,6 +17171,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Organization Units",
+                    "es": "Unidades de organización",
+                    "pt": "Organization Units"
+                  },
+                  "slug": {
+                    "en": "organization-units",
+                    "es": "organization-units-es",
+                    "pt": "organization-units-pt"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -17151,8 +17197,8 @@
               },
               "slug": {
                 "en": "organization-account-subcategory",
-                "es": "organization-account-subcategoria",
-                "pt": "organization-account-subcategoria"
+                "es": "organization-account-subcategoria-es",
+                "pt": "organization-account-subcategoria-pt"
               },
               "origin": "",
               "type": "category",
@@ -17204,14 +17250,29 @@
                 },
                 {
                   "name": {
-                    "pt": "Adicionar ou editar Organizational Units",
-                    "en": "Adicionar ou editar Organizational Units",
-                    "es": "Adicionar ou editar Organizational Units"
+                    "en": "Adding users to a buyer organization",
+                    "es": "Agregar usuarios a la organización compradora",
+                    "pt": "Adicionar usuários à organização compradora"
                   },
                   "slug": {
-                    "pt": "adicionar-ou-editar-organizational-units",
-                    "en": "",
-                    "es": ""
+                    "en": "adding-users-to-buyer-organization",
+                    "es": "agregar-usuarios-a-la-organizacion-compradora",
+                    "pt": "adicionar-usuarios-a-organizacao-compradora"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Organization Account",
+                    "es": "Organization Account",
+                    "pt": "Organization Account"
+                  },
+                  "slug": {
+                    "en": "organization-account",
+                    "es": "organization-account-es",
+                    "pt": "organization-account-pt"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17227,8 +17288,8 @@
               },
               "slug": {
                 "en": "b2b-suite-subcategory",
-                "es": "b2b-suite-subcategoria",
-                "pt": "b2b-suite-subcategoria"
+                "es": "b2b-suite-subcategoria-es",
+                "pt": "b2b-suite-subcategoria-pt"
               },
               "origin": "",
               "type": "category",
@@ -17651,8 +17712,8 @@
                       },
                       "slug": {
                         "en": "setting-up-b2b-on-vtex",
-                        "es": "configurando-b2b-na-vtex",
-                        "pt": "configurando-b2b-na-vtex"
+                        "es": "configurando-b2b-na-vtex-es",
+                        "pt": "configurando-b2b-na-vtex-pt"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -23798,6 +23859,36 @@
                     "en": "offer-management-moderation-and-quality-of-mercado-libre",
                     "es": "gestion-de-anuncios-moderacion-y-calidad-de-los-anuncios-en-mercado-libre",
                     "pt": "gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Price suggestion in the Amazon integration",
+                    "es": "Sugerencia de precios en la integración con Amazon",
+                    "pt": "Sugestão de preços na integração com a Amazon"
+                  },
+                  "slug": {
+                    "en": "amazon-price-suggestion",
+                    "es": "sugerencia-de-precios-amazon",
+                    "pt": "sugestao-de-precos-amazon"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Refurbished products on Mercado Libre",
+                    "es": "Productos reacondicionados en Mercado Libre",
+                    "pt": "Refurbished products on Mercado Libre"
+                  },
+                  "slug": {
+                    "en": "refurbished-products-on-mercado-libre",
+                    "es": "productos-reacondicionados-en-mercado-libre",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",

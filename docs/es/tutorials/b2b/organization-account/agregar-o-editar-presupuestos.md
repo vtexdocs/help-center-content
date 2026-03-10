@@ -18,35 +18,27 @@ También permite crear presupuestos, configurar notificaciones de consumo, defin
 
 En esta página puedes realizar las siguientes acciones:
  
-* [Abrir la barra lateral de la cuenta y de la unidad organizativa](#abrir-la-barra-lateral-de-la-cuenta-y-de-la-unidad-organizativa) 
 * [Crear un presupuesto](#crear-un-presupuesto)  
 * [Configurar notificaciones de consumo](#configurar-notificaciones-de-consumo)  
 * [Configurar asignaciones de presupuesto](#configurar-asignaciones-de-presupuesto)  
 * [Gestionar un presupuesto](#gestionar-un-presupuesto)  
 * [Remover asignaciones del presupuesto](#remover-asignaciones-del-presupuesto)
 
-## Abrir la barra lateral de la cuenta y de la unidad organizativa
-
-La barra lateral centraliza la información de la cuenta del usuario y de la unidad organizativa asociada. Para acceder sigue los pasos a continuación:
-
-1. En la esquina superior derecha haz clic en Empresa.  
-2. La barra lateral muestra la información de la cuenta y de la unidad organizativa.  
-3. Haz clic en **Presupuestos**.
-
 ## Crear un presupuesto
 
 Para crear un nuevo presupuesto para la unidad organizativa, debes acceder a la lista de presupuestos y llenar la siguiente información: 
 
-1. En la página **Presupuestos**, haz clic en el botón **`+`** en la esquina superior derecha.  
-2. En el menú lateral Agregar nuevo presupuesto llena los siguientes campos:      
+1. En la [pantalla de inicio de Organization Account](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account), haz clic en **Presupuestos**.
+2. En la página **Presupuestos**, haz clic en el botón **`+`** en la esquina superior derecha.  
+3. En el menú lateral Agregar nuevo presupuesto llena los siguientes campos:      
     * **Nombre:** nombre del presupuesto.  
     * **Valor:** valor total del presupuesto.  
     * **Fecha de inicio:** fecha de inicio de vigencia.  
     * **Fecha de fin:** fecha de fin de vigencia.  
-3. Para configurar la renovación automática del presupuesto, activa el botón Renovar el valor y el periodo del presupuesto al vencer.    
-4. Para configurar notificaciones de consumo, activa el botón de Notificaciones.  
-5. Haz clic en **Continuar para avanzar a la siguiente etapa del flujo**.  
-6. En el paso **Agregar asignaciones de presupuesto**, elige una de las siguientes opciones:  
+4. Para configurar la renovación automática del presupuesto, activa el botón Renovar el valor y el periodo del presupuesto al vencer.    
+5. Para configurar notificaciones de consumo, activa el botón de Notificaciones.  
+6. Haz clic en **Continuar para avanzar a la siguiente etapa del flujo**.  
+7. En el paso **Agregar asignaciones de presupuesto**, elige una de las siguientes opciones:  
     * Para agregar asignaciones de inmediato, selecciona un tipo de asignación y haz clic en Agregar.  
     * Para saltar la configuración de asignaciones en este momento, haz clic en Omitir.
 

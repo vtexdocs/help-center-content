@@ -23,7 +23,7 @@ Este artículo orienta a los usuarios sobre la gestión de las políticas de com
 
 ## Agregar políticas de compras
 
-1. En la página de la unidad organizativa, en la sección **Finanzas y compliance**, haz clic en `Política de compras`.
+1. En la [pantalla de inicio de Organization Account](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account), en la sección **Finanzas y compliance**, haz clic en `Política de compras`.
 
     ![buying_policies_image_initial_org_account_page_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/organization-account/buying_policies_image_initial_org_account_page_ES.png)
 
@@ -57,7 +57,7 @@ Para ver los detalles de una política, en la pantalla **Política de compras**,
 
 ## Editar políticas de compras
 
-1. En la página de la unidad organizativa en la sección **Finanzas y compliance**, haz clic en `Políticas de compras`.
+1. En la [pantalla de inicio de Organization Account](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account), en la sección **Finanzas y compliance**, haz clic en `Políticas de compras`.
 2. En la pantalla **Políticas de compras**, en la fila correspondiente a la opción deseada, haz clic en el menú > `Editar`. También puedes acceder a esta sección desde la [página de detalles](#ver-pagina-de-detalles) de la política, haciendo clic en `Editar`.
 3. Realiza los cambios deseados.
 4. Para guardar los cambios, haz clic en `Guardar`.
@@ -66,7 +66,7 @@ Para ver los detalles de una política, en la pantalla **Política de compras**,
 
 > ❗ La eliminación de una política de compras es permanente y no se puede deshacer. Las configuraciones se eliminan, pero el historial de aplicación de la política de compras se almacena para futuras consultas.
 
-1. En la página de la unidad organizativa, en la sección **Finanzas y compliance**, haz clic en `Políticas de compras`.
+1. En la [pantalla de inicio de Organization Account](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account), en la sección **Finanzas y compliance**, haz clic en `Políticas de compras`.
 2. En la página **Políticas de compras**, en la fila correspondiente a la opción deseada, haz clic en el ícono del menú > `Eliminar`. También puedes hacerlo desde la [página de detalles](#ver-pagina-de-detalles) de la política de compras, haciendo clic en menú > `Eliminar`.
 3. Ingresa en la ventana modal el nombre de la política de compras que deseas eliminar.
 4. Para confirmar, haz clic en `Eliminar`.
