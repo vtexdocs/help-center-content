@@ -64,7 +64,7 @@ Além dos filtros, a **Delivery Promise (Beta)** oferece os componentes que pode
 
 A Delivery Promise (Beta) é recomendada para todos os tipos de operação, pois a solução garante diversas vantagens a qualquer modelo de negócio. Conheça as condições de arquitetura de loja para participar da fase atual do beta na seção [Requisitos](https://help.vtex.com/pt/docs/tutorials/delivery-promise-beta#requisitos).
 
-Para operações [omnichannel](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv), quanto maior a cobertura da malha logística e o número de sellers e [contas franquia](https://help.vtex.com/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) associados à operação, maiores serão os benefícios obtidos. A tabela a seguir apresenta os principais deles:
+Para operações [omnichannel](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado), quanto maior a cobertura da malha logística e o número de sellers e [contas franquia](https://help.vtex.com/pt/tutorial/o-que-e-conta-franquia) associados à operação, maiores serão os benefícios obtidos. A tabela a seguir apresenta os principais deles:
 
 | Benefício | Detalhes |
 | ----- | ----- |
