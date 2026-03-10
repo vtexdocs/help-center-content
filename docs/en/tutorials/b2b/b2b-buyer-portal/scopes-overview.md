@@ -35,8 +35,8 @@ The restrictions that can be applied to **Organizational Units** are related to:
 
 > ℹ️ **Scopes** management via API is done through the [Organization Units API](https://developers.vtex.com/docs/api-reference/organization-units-api#overview).
 
-## Storefront permissions
+## Storefront Roles
 
-To view and manage the scope of an organizational unit, the user's [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-permissions) profile must have the `View_Organization_Unit` and `Edit_Organization_Unit` resources.
+To view and manage the scope of an organizational unit, the user's [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles) profile must have the `View_Organization_Unit` and `Edit_Organization_Unit` resources.
 
 > ℹ️ For more information, see the article [Buyer organization members](https://help.vtex.com/en/docs/tutorials/buyer-organization-members).

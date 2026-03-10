@@ -30,9 +30,9 @@ Os passos para a configuração de uma buying policy são:
     * Exigir aprovação manual
 3. Para a aprovação manual, o usuário configura de um a cinco níveis de aprovação hierárquica, nos quais cada nível pode negar o pedido, mas sua aprovação depende da avaliação de todos.
 
-## Permissões de Storefront
+## Storefront Roles
 
-Para configurar as buying policies da organização, o perfil de [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ter o recurso `ManageBuyingPolicies`. Para autorizar manualmente pedidos, é necessário o recurso `ApproveOrders`.
+Para configurar as buying policies da organização, o perfil de [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles) do usuário deve ter o recurso `ManageBuyingPolicies`. Para autorizar manualmente pedidos, é necessário o recurso `ApproveOrders`.
 
 ## Configurar buying policies
 
