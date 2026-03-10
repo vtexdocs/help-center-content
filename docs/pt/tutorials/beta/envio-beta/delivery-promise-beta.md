@@ -31,7 +31,7 @@ Além de poder comprar todos os produtos visualizados, o comprador pode filtrar 
 
 * Produtos disponíveis para o CEP desejado.  
 * Forma de envio mais rápida para receber o pedido.  
-* [Ponto de retirada](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) de sua escolha para retirar o pedido.
+* [Ponto de retirada](https://help.vtex.com/pt/tutorial/pontos-de-retirada) de sua escolha para retirar o pedido.
 
 A experiência de [filtros](#filtros) por CEP, método de envio, prazo, ponto de retirada, e de outros componentes, se aplica a produtos de sellers VTEX, do [Seller Portal](https://help.vtex.com/pt/docs/tutorials/seller-portal-primeiros-passos-para-o-marketplace) e externos.
 
