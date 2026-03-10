@@ -25,7 +25,7 @@ Com a **Delivery Promise (Beta)**, sua loja é capaz de fazer uma “promessa de
 
 ## Funcionalidades disponíveis
 
-Quando o comprador fornece seu endereço, uma seleção inicial é exibida somente com os produtos que podem ser entregues nessa localidade ou retirados em pontos de retirada elegíveis em um [raio configurado](https://help.vtex.com/pt/docs/tutorials/cadastro-de-pontos-de-retirada#campos-de-cadastro) ou [até o limite padrão de 50 km de distância da localidade](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R?&utm_source=autocomplete#como-funcionam-pontos-de-retirada).
+Quando o comprador fornece seu endereço, uma seleção inicial é exibida somente com os produtos que podem ser entregues nessa localidade ou retirados em pontos de retirada elegíveis em um [raio configurado](https://help.vtex.com/pt/docs/tutorials/cadastro-de-pontos-de-retirada#campos-de-cadastro) ou [até o limite padrão de 50 km de distância da localidade](https://help.vtex.com/pt/tutorial/pontos-de-retirada#como-funcionam-pontos-de-retirada).
 
 Além de poder comprar todos os produtos visualizados, o comprador pode filtrar os produtos na vitrine para visualizar somente os resultados que atendam a determinados critérios. Isso permite ao comprador uma experiência personalizada de navegação de acordo com os próprios objetivos:
 
