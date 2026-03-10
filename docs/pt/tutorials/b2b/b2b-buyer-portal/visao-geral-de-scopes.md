@@ -27,7 +27,7 @@ Os cenários apresentados são:
 As restrições que podem ser impostas a **Organizational Units** estão relacionadas a:
 
 - Contratos
-- [Meios de pagamento](https://help.vtex.com/pt/docs/tutorials/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento)
+- [Meios e condições de pagamento](https://help.vtex.com/pt/docs/tutorials/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento)
 - Cartões de crédito
 - [Coleções](https://help.vtex.com/pt/docs/tutorials/tipos-de-colecao)
 - Endereços
