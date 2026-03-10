@@ -52,7 +52,7 @@ Nesta etapa, a **Delivery Promise (Beta)** permite que os compradores da sua loj
 
 Além dos filtros, a **Delivery Promise (Beta)** oferece os componentes que podem ser exibidos na página de listagem de produtos da loja e na frente de loja com opções de envio e prazo dinâmico e com detalhes dos métodos de envio e retirada disponíveis para cada produto.
 
-![delivery-promoise-beta_3][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_3.png]
+![delivery-promise-beta_3][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_3.png]
 
 ![delivery-promoise-beta_4][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_4.png]
 
