@@ -21,7 +21,7 @@ subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 
 Com a **Delivery Promise (Beta)**, sua loja é capaz de fazer uma “promessa de entrega” ao comprador para todos os produtos visualizados e permite filtrar os produtos exibidos.
 
-![delivery-promoise-beta_1][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_1.png]
+![delivery-promise-beta_1][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_1.png]
 
 ## Funcionalidades disponíveis
 
