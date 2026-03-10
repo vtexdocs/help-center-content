@@ -16,6 +16,8 @@ En el Admin VTEX puedes gestionar la importación y exportación de especificaci
 
 ## Importar especificaciones de producto mediante plantilla
 
+> ❗ No modifiques la plantilla de importación. De lo contrario, se producirá un error de procesamiento y la operación no se realizará.
+
 Para importar especificaciones de producto a partir de una plantilla sigue los pasos a continuación:
 
 1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa [Productos y SKUs](/es/docs/tutorials/productos-y-skus) en la barra de búsqueda en la parte superior de la página.
@@ -42,7 +44,7 @@ Para exportar un archivo `.xlsx` con información sobre especificaciones de prod
 3. En la parte superior de la página, haz clic en `Exportar`.
 4. Haz clic en `Especificaciones de producto`.
 
-Mientras la operación esté en curso, se mostrará un mensaje indicando que el archivo se está procesando. La operación seguirá en curso aunque navegues a otra página. Puedes [hacer seguimiento del progreso de la exportación en la ventana modal](/es/docs/tutorials/importar-y-exportar-productos-y-skus-mediante-plantilla#ventana-de-seguimiento-de-la-exportacion) que se abre en la página. 
+Mientras la operación esté en curso, se mostrará un mensaje indicando que el archivo se está procesando. La operación seguirá en curso aunque navegues a otra página. Puedes [hacer seguimiento del progreso de la exportación en la ventana modal](/es/docs/tutorials/importar-y-exportar-productos-y-skus-mediante-plantilla#ventana-de-seguimiento-de-la-exportacion) que se abre en la página.
 
 Tras finalizar la exportación recibirás un email con un link para descargar el archivo. El plazo para realizar la descarga vía link es de 24 horas; después de este periodo el link expirará. También puedes descargar el archivo desde la ventana modal que se abre en la página.
 

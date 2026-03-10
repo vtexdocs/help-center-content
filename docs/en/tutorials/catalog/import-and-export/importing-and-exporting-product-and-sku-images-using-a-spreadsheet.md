@@ -16,6 +16,8 @@ In VTEX Admin, you can manage the import and export of image information using a
 
 ## Importing product and SKU images using a spreadsheet
 
+> ❗ Don't modify the import template. Otherwise, a processing error will occur and the operation won't be completed.
+
 To import product and SKU images using a spreadsheet, follow these steps:
 
 1. In the VTEX Admin, go to **Catalog > Product and SKUs**, or type [Product and SKUs](/en/docs/tutorials/products-and-skus) in the search bar at the top of the page.
