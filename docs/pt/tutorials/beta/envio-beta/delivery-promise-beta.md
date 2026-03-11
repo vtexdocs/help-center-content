@@ -17,67 +17,74 @@ subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://help.vtex.com/pt/support).
 
-**Delivery Promise (Beta)** é a nova solução da VTEX para que o cliente, durante a experiência de compra na sua loja, visualize somente os produtos que pode adquirir, considerando tanto a disponibilidade dos produtos em estoque quanto formas de envio válidas para o endereço de entrega.
+**Delivery Promise (Beta)** é a nova solução da VTEX para que o comprador, durante a experiência de compra na sua loja, visualize somente os produtos que pode adquirir, considerando tanto a disponibilidade dos produtos em estoque quanto as formas de envio válidas para o endereço de entrega.
 
-Com a **Delivery Promise (Beta)**, sua loja é capaz de fazer uma “promessa de entrega” ao cliente para todos os produtos visualizados, conforme apresentado no vídeo a seguir:
+Com a **Delivery Promise (Beta)**, sua loja é capaz de fazer uma “promessa de entrega” ao comprador para todos os produtos visualizados e permite filtrar os produtos exibidos.
 
-<iframe width="100%" style="aspect-ratio: 16/9" src="https://www.youtube.com/embed/l8HU2qVpsBg?si=f7Y051pPfgGe1-hD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe>
-
-> ❗ A fase atual da **Delivery Promise (Beta)** ainda não permite filtrar a vitrine da loja por um prazo de envio. Para mais informações sobre filtros, veja a seção [Funcionalidades disponíveis](#funcionalidades-disponiveis).
-
-Este artigo está organizado nas seguintes seções:
-
-* [Funcionalidades disponíveis](#funcionalidades-disponiveis)
-* [Benefícios](#beneficios)
-* [Requisitos e restrições](#requisitos-e-restricoes)
+![delivery-promise-beta_1][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_1.png]
 
 ## Funcionalidades disponíveis
 
-Quando o cliente fornece seu endereço, uma seleção inicial dos produtos é feita de forma a exibir somente os produtos que podem ser entregues nessa localidade ou retirados em pontos de retirada em um raio de até 50 km de distância da localidade (limite determinado pelo Checkout).
+Quando o comprador fornece seu endereço, uma seleção inicial é exibida somente com os produtos que podem ser entregues nessa localidade ou retirados em pontos de retirada elegíveis em um [raio configurado](https://help.vtex.com/pt/docs/tutorials/cadastro-de-pontos-de-retirada#campos-de-cadastro) ou [até o limite padrão de 50 km de distância da localidade](https://help.vtex.com/pt/tutorial/pontos-de-retirada#como-funcionam-pontos-de-retirada).
 
-Além de poder comprar todos os produtos visualizados, o cliente pode filtrar os produtos na vitrine para visualizar somente os resultados que atendam a determinados critérios, como será visto adiante. Isso permite ao cliente direcionar a experiência de navegação de acordo com os próprios objetivos:
+Além de ter acesso a todos os produtos visualizados, o comprador pode filtrar os produtos na vitrine para visualizar somente os resultados que atendam a determinados critérios. Isso permite ao comprador uma experiência personalizada de navegação de acordo com os próprios objetivos:
 
-* Produtos disponíveis para o CEP desejado.
-* Prazo limite para recebimento do produto.
-* Produtos disponíveis em lojas próximas ao cliente.
-* Forma de envio mais rápida para receber o pedido.
-* [Ponto de retirada](/pt/docs/tutorials/pontos-de-retirada) de sua escolha para retirar o pedido.
+* Produtos disponíveis para o CEP desejado.  
+* Forma de envio mais rápida para receber o pedido.  
+* [Ponto de retirada](https://help.vtex.com/pt/tutorial/pontos-de-retirada) de sua escolha para retirar o pedido.
 
-Nesta etapa, a **Delivery Promise (Beta)** permite que os clientes da sua loja filtrem os produtos exibidos na navegação usando os seguintes filtros:
+A experiência de [filtros](#filtros) por CEP, método de envio, prazo, ponto de retirada, e de outros componentes, se aplica a produtos de sellers VTEX, do [Seller Portal](https://help.vtex.com/pt/docs/tutorials/seller-portal-primeiros-passos-para-o-marketplace) e externos.
 
-* **Entregar em:** produtos disponíveis para entrega no endereço fornecido.
-* **Retirada:** produtos disponíveis para retirada em pontos de retirada num raio de até 50 km de distância do endereço fornecido. 
-* **Retirada em lojas próximas:** produtos disponíveis para retirada em pontos de retirada num raio de até 10 km de distância do endereço fornecido. 
-* **Retirada em {{nome}}:** produtos disponíveis para retirada em determinado ponto de retirada.
+>⚠️ Sellers externos precisam configurar a [Delivery Promise Notification API](https://developers.vtex.com/docs/api-reference/delivery-promise-notification-api#put-/delivery-promises/external-sellers/-sellerId-/products) para notificar o Delivery Promise da disponibilidade de produtos.
 
-> ℹ️ Os filtros mencionados acima são componentes nativos do Intelligent Search. Caso você queira desenvolver componentes customizados para a sua loja, entre em contato com a sua equipe de desenvolvimento ou um [parceiro de implementação](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao).
+### Filtros
+
+Nesta etapa, a **Delivery Promise (Beta)** permite que os compradores da sua loja filtrem os produtos exibidos na navegação usando os seguintes filtros:
+
+* **Entregar em:** produtos disponíveis para entrega no endereço fornecido.  
+* **Retirada:** produtos disponíveis para retirada em pontos de retirada num [raio configurado](https://help.vtex.com/pt/docs/tutorials/cadastro-de-pontos-de-retirada#campos-de-cadastro) ou até a distância padrão de [50 km](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R?&utm_source=autocomplete#como-funcionam-pontos-de-retirada) do endereço fornecido.  
+* **Retirada em lojas próximas:** produtos disponíveis para retirada em pontos de retirada num raio de até 10 km de distância do endereço fornecido.  
+* **Retirada em {{nome}}:** produtos disponíveis para retirada no [ponto de retirada](https://help.vtex.com/pt/docs/tutorials/cadastro-de-pontos-de-retirada) de escolha do comprador.  
+* **Prazo de envio ([Opções de envio](https://help.vtex.com/pt/tutorial/opcoes-de-envio-beta))**: produtos disponíveis conforme o prazo, método de envio e zonas geográficas configuradas pelo lojista no módulo de [**Opções de envio**](https://help.vtex.com/pt/tutorial/opcoes-de-envio-beta).  
+* **Prazo de envio dinâmico**: produtos disponíveis definidos por prazos dinâmicos (**Mesmo dia** e **Dia seguinte**), que consideram os horários de navegação do comprador e os prazos cadastrados nas [**Opções de envio**](https://help.vtex.com/pt/tutorial/opcoes-de-envio-beta--1fRDJFcHCtpTnk7GNyaRDY) da conta principal da loja para a data de entrega e de retirada.
+
+![delivery-promise-beta_2][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_2.png]
+
+Além dos filtros, a **Delivery Promise (Beta)** oferece os componentes que podem ser exibidos na página de listagem de produtos da loja e na frente de loja com opções de envio e prazo dinâmico e com detalhes dos métodos de envio e retirada disponíveis para cada produto.
+
+![delivery-promise-beta_3][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_3.png]
+
+![delivery-promise-beta_4][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_4.png]
+
+![delivery-promise-beta_5][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_5.png]
+
+>ℹ️ Alguns dos filtros mencionados acima são componentes nativos da [FastStore](https://developers.vtex.com/docs/guides/faststore/features-delivery-promise) v3 ou do [Store Framework](https://developers.vtex.com/docs/guides/setting-up-delivery-promise-components). Caso você queira [desenvolver componentes customizados para os filtros e a seleção de endereço da sua loja](https://developers.vtex.com/docs/guides/delivery-promise-for-headless-stores) ou implementar componentes com informações sobre a entrega, entre em contato com a sua equipe de desenvolvimento ou um [parceiro de implementação](https://help.vtex.com/pt/docs/tracks/contas-e-arquitetura#parceiros-de-implementacao).
 
 ## Benefícios
 
-A **Delivery Promise (Beta)** é recomendada para todos os tipos de operação, pois a solução garante diversas vantagens a qualquer modelo de negócio. Conheça as condições de arquitetura de loja para participar da fase atual do beta na seção [Requisitos e restrições](#requisitos-e-restricoes).
+A Delivery Promise (Beta) é recomendada para todos os tipos de operação, pois a solução garante diversas vantagens a qualquer modelo de negócio. Conheça as condições de arquitetura de loja para participar da fase atual do beta na seção [Requisitos](https://help.vtex.com/pt/docs/tutorials/delivery-promise-beta#requisitos).
 
-Para operações [omnichannel](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv), quanto maior a cobertura da malha logística e o número de sellers e [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia) associados à operação, maiores serão os benefícios obtidos. A tabela a seguir apresenta os principais deles:
+Para operações [omnichannel](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado), quanto maior a cobertura da malha logística e o número de sellers e [contas franquia](https://help.vtex.com/pt/tutorial/o-que-e-conta-franquia) associados à operação, maiores serão os benefícios obtidos. A tabela a seguir apresenta os principais deles:
 
-| **Benefício** | **Detalhes** |
-| :---: | :--- |
-| Redução do abandono de carrinho | É comum clientes desistirem de compras após informar sua localidade na etapa de carrinho, quando descobrem a impossibilidade de envio para sua localidade ou pelo prazo de envio não atender às expectativas.Com a **Delivery Promise (Beta)**, para todo produto que o cliente visualiza na vitrine, levou-se em conta a existência de estoque e a viabilidade de entrega para a localidade do cliente. Além disso, passamos a apresentar as informações relativas ao envio desde o começo da jornada de compra do cliente. |
-| Aumento do sortimento de produtos na vitrine | Por limitações de funcionalidades como a [regionalização de sellers](/pt/docs/tutorials/configurar-a-regionalizacao-de-sellers), [sellers abrangentes](/pt/docs/tutorials/seller-abrangente) e do [algoritmo de seleção de sellers](/pt/docs/tutorials/selecao-de-sellers-white-label), sem a **Delivery Promise (Beta)** o sortimento de produtos que aparece na vitrine para o cliente não corresponde à totalidade de produtos dos sellers.Com a **Delivery Promise (Beta)**, o cliente é capaz de visualizar o sortimento completo de produtos de todos os sellers, desde que:<ul><li>Corretamente configurados.</li><li>Disponíveis em estoque.</li><li>Tenham forma de envio válida para o endereço fornecido pelo cliente.</li></ul> |
-| Melhor experiência de compra | **A Delivery Promise (Beta)** promove melhor experiência de compra ao cliente como um todo:<ul><li>Elimina a frustração de descobrir no checkout a impossibilidade de realizar a compra.</li><li>Permite que o cliente visualize um número maior de produtos.</li><li>Permite que o cliente navegue pela vitrine de forma direcionada conforme seus objetivos, que podem ser priorizando o tipo de envio ou a compra em uma loja física.</li></ul> |
-| Incentivo à venda nas lojas físicas | **A Delivery Promise (Beta)** permite ao cliente ter a certeza de encontrar determinados produtos nas lojas físicas, o que estimula a ida do cliente às lojas e aumenta as oportunidades de vendas. |
+| Benefício | Detalhes |
+| ----- | ----- |
+| Redução do abandono de carrinho | É comum compradores desistirem de compras após informar sua localidade na etapa de carrinho, quando descobrem a impossibilidade de envio para sua localidade ou pelo prazo de envio não atender às expectativas. Com a Delivery Promise (Beta), o comprador navega pela vitrine de forma direcionada conforme seus objetivos, que podem ser priorizando o tipo de envio, o prazo de envio ou a compra em uma loja física. Para todo produto que o comprador visualiza na vitrine, levou-se em conta a existência de estoque e a viabilidade de entrega para a localidade informada. Além disso, passamos a apresentar as informações relativas ao envio desde o começo da jornada de compra.  |
+| Exibição do sortimento completo de todos os sellers na vitrine | Com a Delivery Promise (Beta), o comprador pode visualizar o sortimento completo de produtos de todos os sellers que atendam a duas condições, desde que estejam devidamente configurados: Disponibilidade em estoque; Forma de envio válida para o endereço fornecido pelo comprador. |
+| Melhor experiência de compra | A Delivery Promise (Beta) promove melhor experiência de compra como um todo: Elimina a frustração de descobrir no checkout a impossibilidade de realizar a compra. Permite que o comprador visualize um número maior de produtos. |
+| Incentivo à venda nas lojas físicas | A Delivery Promise (Beta) permite ao comprador ter a certeza de encontrar determinados produtos nas lojas físicas por meio do filtro por ponto de retirada, o que estimula a ida às lojas e aumenta as oportunidades de vendas para as lojas e franqueados. |
 
-## Requisitos e restrições
+## Requisitos
 
-O funcionamento da **Delivery Promise (Beta)** requer conhecer a localização do cliente desde o início da jornada de compra, de modo que a vitrine mostre somente os produtos com forma de envio válida. Para isso, é necessário instalar o [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search), que solicita ao cliente o endereço da localidade. 
+O funcionamento da **Delivery Promise (Beta)** requer conhecer a localização do comprador desde o início da jornada de compra, de modo que a vitrine mostre somente os produtos com forma de envio válida.
 
-Para participar da fase atual da **Delivery Promise (Beta)**, é necessário atender às seguintes condições:
+Para participar da fase atual da Delivery Promise (Beta), entre em contato com o nosso Suporte, atendendo às seguintes condições:
 
-* <i class="far fa-check-circle"></i> **Requisito:** usar [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search).
-* <i class="far fa-check-circle"></i> **Requisito:** ter implementação de frontend com [Store Framework](/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework), [FastStore](/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#faststore) ou headless.
+* Usar [Intelligent Search](https://help.vtex.com/pt/docs/tutorials/intelligent-search-visao-geral).
+* Sellers externos precisam se adequar ao protocolo de notificações do [Delivery Promise Notification API](https://developers.vtex.com/docs/api-reference/delivery-promise-notification-api).
 
 ### Saiba mais
 
 * [Delivery Promise: FAQ](/pt/docs/tutorials/delivery-promise-faq)
 * [Setting up Delivery Promise components (Beta)](https://developers.vtex.com/docs/guides/setting-up-delivery-promise-components)
-* [Delivery promise for headless stores (Beta)](https://developers.vtex.com/docs/guides/delivery-promise-for-headless-stores)
 * [Delivery Promise for FastStore](https://developers.vtex.com/docs/guides/faststore/features-delivery-promise)
-
+* [Delivery promise for headless stores (Beta)](https://developers.vtex.com/docs/guides/delivery-promise-for-headless-stores)
