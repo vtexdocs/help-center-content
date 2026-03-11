@@ -19,7 +19,7 @@ Este artigo orienta os usuários no gerenciamento de buying policies e está div
 * Editar buying policy
 * Remover buying policy
 
-> ⚠️ Para configurar buying policies, o perfil de [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions) do usuário deve ter o recurso `ManageBuyingPolicies`. Para autorizar pedidos, é necessário o recurso `ApproveOrders`.
+> ⚠️ Para configurar buying policies, o perfil de [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles) do usuário deve ter o recurso `ManageBuyingPolicies`. Para autorizar pedidos, é necessário o recurso `ApproveOrders`.
 
 ## Adicionar buying policy
 
