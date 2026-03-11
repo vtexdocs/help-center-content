@@ -40689,6 +40689,21 @@
             },
             {
               "name": {
+                "en": "API allows registering many EANs to the same SKU",
+                "es": "La API permite registrar muchos EAN en el mismo SKU.",
+                "pt": "A API permite registrar vários EANs para o mesmo SKU."
+              },
+              "slug": {
+                "en": "api-allows-registering-many-eans-to-the-same-sku",
+                "es": "la-api-permite-registrar-muchos-ean-en-el-mismo-sku",
+                "pt": "a-api-permite-registrar-varios-eans-para-o-mesmo-sku"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "APIs Who Saw Also Saw, Who Saw Also Bought, Who Bought Also Bought not always working as expected",
                 "es": "Las API \"Quién vio también vio\", \"Quién vio también compró\" y \"Quién compró también compró\" no siempre funcionan como se esperaba.",
                 "pt": "As APIs Who Saw Also Saw, Who Saw Also Bought, Who Bought Also Bought nem sempre funcionam como esperado"
@@ -49641,21 +49656,6 @@
                 "en": "amazon-order-cancellation-flow",
                 "es": "amazon-flujo-de-cancelacion-de-pedidos",
                 "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Amazon order does not integrate",
-                "es": "El pedido de Amazon no se integra",
-                "pt": "O pedido da Amazon não se integra"
-              },
-              "slug": {
-                "en": "amazon-order-does-not-integrate",
-                "es": "el-pedido-de-amazon-no-se-integra",
-                "pt": "o-pedido-da-amazon-nao-se-integra"
               },
               "origin": "",
               "type": "markdown",
@@ -62263,13 +62263,13 @@
             {
               "name": {
                 "en": "Transaction stuck in cancelling and cancel/refund return “Object reference not set to an instance of an object”",
-                "es": "Transacción bloqueada en la cancelación y devolución de cancelación/reembolso «Referencia de objeto no establecida en una instancia de objeto».",
-                "pt": "Transação presa no cancelamento e cancelamento/reembolso da devolução “Referência de objeto não definida para uma instância de um objeto”"
+                "es": "Transacción bloqueada en la cancelación y devolución de cancelación/reembolso «Referencia de objeto no establecida en una instancia de un objeto».",
+                "pt": "Transação travada no cancelamento e cancelamento/reembolso da devolução “Referência de objeto não definida para uma instância de um objeto”"
               },
               "slug": {
                 "en": "transaction-stuck-in-cancelling-and-cancelrefund-return-object-reference-not-set-to-an-instance-of-an-object",
-                "es": "transaccion-bloqueada-en-la-cancelacion-y-devolucion-de-cancelacionreembolso-referencia-de-objeto-no-establecida-en-una-instancia-de-objeto",
-                "pt": "transacao-presa-no-cancelamento-e-cancelamentoreembolso-da-devolucao-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto"
+                "es": "transaccion-bloqueada-en-la-cancelacion-y-devolucion-de-cancelacionreembolso-referencia-de-objeto-no-establecida-en-una-instancia-de-un-objeto",
+                "pt": "transacao-travada-no-cancelamento-e-cancelamentoreembolso-da-devolucao-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto"
               },
               "origin": "",
               "type": "markdown",
