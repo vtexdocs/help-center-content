@@ -1,7 +1,7 @@
 ---
 title: 'Buyer organization members'
 createdAt: '2025-02-06T10:00:00.000Z'
-updatedAt: '2025-03-03T10:00:00.000Z'
+updatedAt: '2025-03-12T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: buyer-organization-members
@@ -12,7 +12,7 @@ In a B2B buyer organization, members are the people who interact with the store 
 
 > ⚠️ This feature is only available for stores using B2B Buyer Portal, which is currently available to select accounts.
 
-## Permission roles
+## Storefront roles
 
 Roles define what each user can do in the store, including managing the organization account. Each role has a set of permissions. When you assign one or more roles to a user, they acquire the combined capabilities of those roles. Applying permissions in the store allows restricting users to view and edit approved resources only.
 
@@ -35,9 +35,11 @@ The table below summarizes the main roles and their functions:
 | **Quote Manager** | Can create, edit, and delete quotes. |
 | **Personal card user**         | Can use a new credit card not saved in the contract by default at checkout.                                                                                                           |
 
-## Contact details
+> ℹ️ Learn more about Storefront roles and resources in the developer guide [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles).
 
-**Contacts** are the people who can be selected as order recipients — the people who'll receive the shipment. The order contact may be different from the user who placed the order. When placing an order, the buyer can choose the contact (recipient) the order is for.
+## Recipients
+
+**Recipients** or **Contacts** are the people who can be selected as order recipients — the people who'll receive the shipment. The order contact may be different from the user who placed the order. When placing an order, the buyer can choose the contact (recipient) the order is for.
 
 Contact details are managed at the organization level. Contacts can be linked to addresses so that, when selecting a shipping address, the user can choose from the contacts associated with that address. This keeps recipient information centralized and reusable between orders.
 
