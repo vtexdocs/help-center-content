@@ -30,9 +30,9 @@ The steps to configure a buying policy are:
    - Require manual approval
 3. For manual approval, the user configures one to five levels of hierarchical approval. While any level can deny an order, final approval requires authorization from all levels.
 
-## Storefront permissions
+## Storefront Roles
 
-To configure buying policies, the user's [Storefront permissions](https://developers.vtex.com/docs/guides/storefront-permissions) role must have the `ManageBuyingPolicies` resource. To manually approve orders, the `ApproveOrders` resource is required.
+To configure buying policies, the user's [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles) role must have the `ManageBuyingPolicies` resource. To manually approve orders, the `ApproveOrders` resource is required.
 
 ## Configuring buying policies
 

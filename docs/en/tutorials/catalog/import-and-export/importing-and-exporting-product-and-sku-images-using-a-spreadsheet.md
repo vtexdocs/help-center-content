@@ -1,0 +1,75 @@
+---
+title: 'Importing and exporting product and SKU images using a spreadsheet'
+createdAt: 2025-09-26T15:59:03.761Z
+updatedAt: 2026-03-09T14:19:35.695Z
+contentType: tutorial
+productTeam: Marketing & Merchandising
+slugEN: importing-and-exporting-product-and-sku-images-using-a-spreadsheet
+locale: en
+---
+
+In VTEX Admin, you can manage the import and export of image information using a spreadsheet, as detailed in the following sections:
+
+- [Importing product and SKU images using a spreadsheet](#importing-product-and-sku-images-using-a-spreadsheet)
+- [Exporting product and SKU images using a spreadsheet](#exporting-product-and-sku-images-using-a-spreadsheet)
+- [Product and SKU image spreadsheet fields](#product-and-sku-image-spreadsheet-fields)
+
+## Importing product and SKU images using a spreadsheet
+
+> ❗ Don't modify the import template. Otherwise, a processing error will occur and the operation won't be completed.
+
+To import product and SKU images using a spreadsheet, follow these steps:
+
+1. In the VTEX Admin, go to **Catalog > Product and SKUs**, or type [Product and SKUs](/en/docs/tutorials/products-and-skus) in the search bar at the top of the page.
+2. At the top of the page, click `Import`.
+3. Click `Images`.
+4. In the window that opens, click **Download template** to get the file.
+5. Complete the spreadsheet details as described in the section [Product and SKU image spreadsheet fields](#product-and-sku-image-spreadsheet-fields).
+6. Add the spreadsheet with an `.xls` or `.xlsx` extension. You can drag and drop the file onto the designated area, or click the window to select the file locally.
+7. Click `Import`.
+
+While the import is in progress, a message will be displayed indicating that the file is being processed. Leaving the page won't interrupt the operation. After the operation is complete, you will receive a confirmation email.
+
+> ⚠️ Products with images successfully imported are automatically queued for [indexing](/en/docs/tutorials/understanding-how-indexation-works). If this doesn't happen, see the article [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website).
+
+## Exporting product and SKU images using a spreadsheet
+
+To export a `.xlsx` file with the images from your catalog, follow these steps:
+
+> ℹ️ The exported information corresponds to the fields detailed in the section [Product and SKU image spreadsheet fields](#product-and-sku-image-spreadsheet-fields).
+
+1. In the VTEX Admin, go to **Catalog > Product and SKUs**, or type [Product and SKUs](/en/docs/tutorials/products-and-skus) in the search bar at the top of the page.
+2. (Optional) If you want to export the images of certain products and SKUs, [search](/en/docs/tutorials/products-and-skus#searching-for-a-product) or a [filter](/en/docs/tutorials/products-and-skus#filtering-products) the desired items. This step isn't required when exporting the images of all the items in your catalog.
+3. At the top of the page, click `Export`.
+4. Click `Images`.
+
+While the export is in progress, a message will be displayed indicating that the file is being processed. Leaving the page won't interrupt the operation. You can [track the export progress in the window](/en/docs/tutorials/importing-and-exporting-products-and-skus-using-a-spreadsheet#tracking-export-process) displayed on the page.
+
+After the export of product and SKU images is completed, you will receive an email with a link to download the file. The download link is valid for 24 hours. After that, the link expires. You can also download the file from the window that opens on the page.
+
+## Product and SKU image spreadsheet fields
+
+The following table describes and includes an example of each field in the import spreadsheet for images in your catalog. Required fields are marked with an asterisk (*).
+
+> ℹ️ To import a new image, the only required fields are **SKU ID** and **Image import URL**. Learn more in [Best practices for using images in the Catalog](/en/docs/tutorials/best-practices-for-using-images-in-the-catalog).
+
+| Field | Description | Example |
+| :--- | :--- | :--- |
+| Product ID | Unique numeric code identifying the product. | 310117603 |
+| Product name | Product name shown to customers during the browsing experience. | Cotton t-shirt |
+| SKU ID* | Unique numeric code that identifies the SKU. | 310119261 |
+| SKU name | SKU name that identifies the product variation. | M |
+| SKU reference code | Unique SKU reference code, for internal store use only. Use a unique combination of letters and/or numbers. | summer26shirt |
+| Image ID | Numeric code that identifies the SKU image. To import a new image, leave the field blank; keep the value to update an existing image. | 167002 |
+| Image name | Image name, for internal store use only. This field doesn't allow special characters, diacritical marks, or spaces. | side_blue_tshirt |
+| Image position | Number indicating the display position of the image on the website, where `0` corresponds to the first position, `1` to the second, and so on. | 0 |
+| Image label | Image label name, for internal merchant use to reference values common to images. | Side view |
+| Image text | Text that will be associated with the image, for internal store use. Don't use special characters or diacritical marks, and don't repeat values from the **Image name** and **Image label** fields. | side summer26 tshirt |
+| Image path | Name that is part of the image URL hosted on the VTEX platform. It displays after the last slash `/`, including the file extension. If the field isn't completed, leave it blank. | blue_tshirt_round_collar.jpg |
+| Image import URL | Image that will be associated with the SKU. To import a new image, this field must be [completed with the URL](/en/docs/tutorials/how-to-define-the-url-for-a-product-page) of the hosted file. It must start with the HTTP protocol identifier (`http://`) and end with one of the following extensions:<ul><li>jpg</li><li>png</li><li>gif</li><li>ico</li><li>svg</li><li>webp</li></ul>To update an existing image, leave the field blank. Otherwise, the image will be created again, which duplicates it. | `http://files.com/ids/image/blue_tshirt_round_collar.jpg` |
+
+## Learn more
+
+- [Importing and exporting products and SKUs using a spreadsheet](/en/docs/tutorials/importing-and-exporting-products-and-skus-using-a-spreadsheet)
+- [Importing and exporting product specifications using a spreadsheet](/en/docs/tutorials/importing-and-exporting-product-specifications-using-a-spreadsheet)
+- [Importing and exporting SKU specifications using a spreadsheet](/en/docs/tutorials/importing-and-exporting-sku-specifications-using-a-spreadsheet)
