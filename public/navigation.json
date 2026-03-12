@@ -17295,6 +17295,21 @@
                 },
                 {
                   "name": {
+                    "en": "C+ontract settings",
+                    "es": "C+ontract settings",
+                    "pt": "C+ontract settings"
+                  },
+                  "slug": {
+                    "en": "contract-settings",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Organization Account",
                     "es": "Organization Account",
                     "pt": "Organization Account"
