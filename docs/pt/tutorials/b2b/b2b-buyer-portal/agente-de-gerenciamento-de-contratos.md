@@ -5,7 +5,7 @@ updatedAt: 2026-03-06T00:00:00.000Z
 contentType: tutorial
 productTeam: B2B
 slugEN: contracts-manager-agent
-locale: pt-BR
+locale: pt
 ---
 
 > ⚠️ Esta funcionalidade está disponível apenas para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
