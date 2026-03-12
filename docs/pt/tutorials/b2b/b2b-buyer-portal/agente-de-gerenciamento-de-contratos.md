@@ -17,7 +17,7 @@ Neste guia, você aprenderá mais sobre o **Agente de Gerenciamento de Contratos
 - [Casos de uso](#casos-de-uso)
 - [Gerenciando contratos com o agente](#gerenciando-contratos-com-o-agente)
   - [Solicitando uma tarefa ao agente](#solicitando-uma-tarefa-ao-agente)
-  - [Acompanhando tarefas e histórico](#acompanhando-tarefas-e-histórico)
+  - [Acompanhando tarefas e histórico](#acompanhando-tarefas-e-historico)
 
 ## Casos de uso
 
