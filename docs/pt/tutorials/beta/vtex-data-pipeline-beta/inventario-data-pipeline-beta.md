@@ -46,7 +46,7 @@ Conheça a seguir os campos que constituem a tabela:
 | item_id | character varying(300) | Identifica o item cujo estoque está sendo quantificado (SKU ID). Parte da chave natural do registro de inventário. |
 | is_unlimited_quantity | boolean | Indica se o item pode ter estoque infinito (`true`) ou não (`false`). Quando `true`, a quantidade não é fisicamente limitada. |
 | quantity | bigint | Quantidade total de itens em estoque para o item no depósito (quantidade física total). |
-| reserved_quantity | bigint | Número de reservas ativas do item. É calculado a partir do último estado de disponibilidade e dos eventos de criação/cancelamento de reserva. |
+| reserved_quantity | bigint | Número de reservas ativas do item. É calculado com base no último estado de disponibilidade e nos eventos de criação e cancelamento de reservas. |
 | last_update | timestamp without time zone | Última vez em que o estoque desse item específico foi atualizado. |
 | parent_account_name | character varying(200) | Nome da conta pai. Representa a conta no nível mais alto da estrutura; quando não encontrada, usa `main_account`. |
 | batch_id | character varying(13) | Identifica o último lote de ingestão que atualizou esta linha. Usado para rastreabilidade e qualidade de dados. |
@@ -74,10 +74,10 @@ Conheça a seguir os campos que constituem a tabela:
 
 ## Análises com dados de inventário
 
-Veja abaixo algumas das análises possíveis com os dados de inventário:
+Veja, abaixo, algumas análises que podem ser realizadas com os dados de inventário:
 
-**- Análise de níveis de inventário:** avalie se o inventário atende à demanda e identificar itens com risco de esgotamento.  
-**- Tendências de reserva de inventário:** analise a quantidade de itens reservados ao longo do tempo para identificar padrões e ajustar estratégias de gestão de inventário.  
+**- Análise de níveis de inventário:** avalie se o inventário atende à demanda e identifique itens com risco de esgotamento.
+**- Tendências de reserva de inventário:** analise a quantidade de itens reservados ao longo do tempo para identificar padrões e ajustar estratégias de gestão de inventário.
 **- Análise de distribuição de inventário por conta:** otimize a gestão de inventário em várias contas e entender como o inventário é distribuído.  
 
 ## Correlações com outros dados
