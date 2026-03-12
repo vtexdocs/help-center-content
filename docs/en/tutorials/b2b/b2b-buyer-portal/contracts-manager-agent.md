@@ -60,3 +60,4 @@ To perform new tasks, you can keep the conversation going in the same dialog, or
 2. In the side panel, review the tasks from the last 7 days, including the operation name and related contract identifiers.
 
 > ℹ️ To manage contracts via API, see the [B2B Contracts API](https://developers.vtex.com/docs/api-reference/) developer documentation.
+
