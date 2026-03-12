@@ -23,10 +23,10 @@ In this guide, you'll learn more about the **Contracts Manager Agent** through t
 
 The agent uses natural language to interpret your instructions and automate contract updates at scale, reducing manual effort and operational errors. Here are some common scenarios:
 
-- **Grant access to new product assortments:** when you launch a new collection (for example, "Summer Specials 2026"), you can add it to multiple buyer contracts at once instead of editing each contract individually.
-- **Restrict product visibility:** if a product line should no longer be available to certain buyers, you can remove the associated collection from their contracts.
-- **Update commercial conditions:** when renegotiating terms, you can add or remove price tables and payment methods, or reorder price table priority across contracts.
-- **Apply bulk changes:** if hundreds of contracts require the same adjustment, you can describe the change once and the agent applies it to all matching contracts.
+- **Grant access to new product assortments:** When you launch a new collection (for example, "Summer Specials 2026"), you can add it to multiple buyer contracts at once instead of editing each contract individually.
+- **Restrict product visibility:** If a product line should no longer be available to certain buyers, you can remove the associated collection from their contracts.
+- **Update commercial conditions:** When renegotiating terms, you can add or remove price tables and payment methods, or reorder price table priority across contracts.
+- **Apply bulk changes:** If hundreds of contracts require the same adjustment, you can describe the change once and the agent applies it to all matching contracts.
 
 ## Managing contracts with the agent
 
