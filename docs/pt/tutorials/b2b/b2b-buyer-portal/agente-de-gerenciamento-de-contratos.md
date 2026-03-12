@@ -30,7 +30,7 @@ O agente utiliza linguagem natural para interpretar suas instruções e automati
 
 ## Gerenciando contratos com o agente
 
-Você pode acessar o agente no **Admin VTEX**. Vá em **Apps > Customers > Contracts Manager Agent** ou digite **Contracts Manager Agent** na barra de busca no topo da página.
+Você pode acessar o agente no Admin VTEX. Vá em **Apps > Customers > Contracts Manager Agent** ou digite **Contracts Manager Agent** na barra de busca no topo da página.
 
 Na tela inicial, você verá o campo de texto `Ask the agent`, ações sugeridas (como `Add collections`, `Remove payment methods` ou `Change price table position`) e a seção `Most recent tasks`, que mostra suas operações mais recentes.
 
