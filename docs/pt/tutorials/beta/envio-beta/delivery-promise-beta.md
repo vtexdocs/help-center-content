@@ -21,7 +21,7 @@ subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 
 Com a **Delivery Promise (Beta)**, sua loja é capaz de fazer uma “promessa de entrega” ao comprador para todos os produtos visualizados e permite filtrar os produtos exibidos.
 
-![delivery-promise-beta_1][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_1.png]
+![delivery-promise-beta_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_1.png)
 
 ## Funcionalidades disponíveis
 
@@ -48,15 +48,15 @@ Nesta etapa, a **Delivery Promise (Beta)** permite que os compradores da sua loj
 * **Prazo de envio ([Opções de envio](https://help.vtex.com/pt/tutorial/opcoes-de-envio-beta))**: produtos disponíveis conforme o prazo, método de envio e zonas geográficas configuradas pelo lojista no módulo de [**Opções de envio**](https://help.vtex.com/pt/tutorial/opcoes-de-envio-beta).  
 * **Prazo de envio dinâmico**: produtos disponíveis definidos por prazos dinâmicos (**Mesmo dia** e **Dia seguinte**), que consideram os horários de navegação do comprador e os prazos cadastrados nas [**Opções de envio**](https://help.vtex.com/pt/tutorial/opcoes-de-envio-beta--1fRDJFcHCtpTnk7GNyaRDY) da conta principal da loja para a data de entrega e de retirada.
 
-![delivery-promise-beta_2][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_2.png]
+![delivery-promise-beta_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_2.png)
 
 Além dos filtros, a **Delivery Promise (Beta)** oferece os componentes que podem ser exibidos na página de listagem de produtos da loja e na frente de loja com opções de envio e prazo dinâmico e com detalhes dos métodos de envio e retirada disponíveis para cada produto.
 
-![delivery-promise-beta_3][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_3.png]
+![delivery-promise-beta_3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_3.png)
 
-![delivery-promise-beta_4][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_4.png]
+![delivery-promise-beta_4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_4.png)
 
-![delivery-promise-beta_5][https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_5.png]
+![delivery-promise-beta_5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/delivery-promise-beta_5.png)
 
 >ℹ️ Alguns dos filtros mencionados acima são componentes nativos da [FastStore](https://developers.vtex.com/docs/guides/faststore/features-delivery-promise) v3 ou do [Store Framework](https://developers.vtex.com/docs/guides/setting-up-delivery-promise-components). Caso você queira [desenvolver componentes customizados para os filtros e a seleção de endereço da sua loja](https://developers.vtex.com/docs/guides/delivery-promise-for-headless-stores) ou implementar componentes com informações sobre a entrega, entre em contato com a sua equipe de desenvolvimento ou um [parceiro de implementação](https://help.vtex.com/pt/docs/tracks/contas-e-arquitetura#parceiros-de-implementacao).
 
