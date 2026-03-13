@@ -23,7 +23,7 @@ As ferramentas que oferecemos na plataforma são projetadas para garantir a adeq
 
 A VTEX mantém as medidas técnicas e organizacionais adequadas para proteção da segurança, confidencialidade e integridade dos dados pessoais no contexto da prestação dos serviços.
 
-Confira a seguir as práticas adotadas pela VTEX, detalhadas no [DPA](https://vtex.com/br-pt/privacy-and-agreements/data-processing-addendum/):
+Confira a seguir as práticas adotadas pela VTEX, detalhadas no [DPA](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/):
 
 * Política antivírus.
 * Classificação de Informações.
@@ -42,7 +42,7 @@ Para mais informações, consulte [Práticas de Segurança - VTEX](https://vtex.
 
 ## Armazenamento
 
-O [provedor de hospedagem](https://vtex.com/br-pt/privacy-and-agreements/subprocessors/) utilizado pela VTEX é a Amazon Web Services (AWS), que armazena dados na região da Virgínia do Norte, nos Estados Unidos. A plataforma AWS é uma referência no setor de hospedagem em nuvem e possui certificações importantes, como ISO 27001, PCI DSS, CSA, NIST, entre outras. Para ver uma lista de certificações detalhadas, acesse [Programas de conformidade da AWS](https://aws.amazon.com/pt/compliance/programs/?nc1=h_ls). A autorização para o armazenamento de dados na AWS pode ser encontrada em nosso [DPA](https://vtex.com/br-pt/privacy-and-agreements/data-processing-addendum/).
+O [provedor de hospedagem](https://compliance.vtex.com/?itemUid=e3fae2ca-94a9-416b-b577-5c90e382df57&source=click/) utilizado pela VTEX é a Amazon Web Services (AWS), que armazena dados na região da Virgínia do Norte, nos Estados Unidos. A plataforma AWS é uma referência no setor de hospedagem em nuvem e possui certificações importantes, como ISO 27001, PCI DSS, CSA, NIST, entre outras. Para ver uma lista de certificações detalhadas, acesse [Programas de conformidade da AWS](https://aws.amazon.com/pt/compliance/programs/?nc1=h_ls). A autorização para o armazenamento de dados na AWS pode ser encontrada em nosso [DPA](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/).
 
 A VTEX somente armazena os dados pessoais enquanto forem necessários para o processamento do serviço prestado.
 
@@ -54,4 +54,4 @@ A responsabilidade pelo cumprimento das leis e regulamentos aplicáveis recai so
 
 A VTEX disponibiliza os dados de acordo com a capacidade técnica de cada módulo, mas caso seja necessário cumprir legislações específicas, os lojistas precisam extrair os dados relevantes da plataforma. Assim, cabe a cada lojista gerenciar seus próprios períodos de retenção conforme exigido pela legislação aplicável, utilizando os recursos disponíveis na plataforma de forma adequada.
 
-A VTEX tem o dever de armazenar os dados pessoais do comprador durante a vigência do [MSA](https://vtex.com/br-pt/privacy-and-agreements/agreements/). Em caso de cancelamento do contrato com a VTEX, o lojista deve garantir a extração dos dados do Master Data no prazo de 30 (trinta) dias antes da data de rescisão do MSA, de acordo com a Cláusula 7 do [DPA](https://vtex.com/br-pt/privacy-and-agreements/data-processing-addendum/).
+A VTEX tem o dever de armazenar os dados pessoais do comprador durante a vigência do [MSA](https://vtex.com/br-pt/trust/agreements). Em caso de cancelamento do contrato com a VTEX, o lojista deve garantir a extração dos dados do Master Data no prazo de 30 (trinta) dias antes da data de rescisão do MSA, de acordo com a Cláusula 7 do [DPA](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/).

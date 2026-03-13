@@ -15,19 +15,19 @@ locale: es
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-El contrato VTEX o acuerdo comercial consta de dos partes, el [MSA (Master Service Agreement)](https://vtex.com/mx-es/privacy-and-agreements/agreements/) y el **Anexo 1 Order Form** para la prestación de servicios a empresas o [MPA (Master Partner Agreement)](https://vtex.com/mx-es/privacy-and-agreements/agreements/#:~:text=Master%20Services%20Agreement,Partner%20Agreement) y **Términos y condiciones específicos de la asociación**.
+El contrato VTEX o acuerdo comercial consta de dos partes, el [MSA (Master Service Agreement)](https://vtex.com/mx-es/trust/agreements) y el **Anexo 1 Order Form** para la prestación de servicios a empresas o [MPA (Master Partner Agreement)](https://vtex.com/mx-es/trust/agreements#:~:text=Master%20Services%20Agreement,Partner%20Agreement) y **Términos y condiciones específicos de la asociación**.
 
 ![Contrato VTEX](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/facturas/contratos/contrato-vtex_1.png)
 
-El [Master Services Agreement](https://vtex.com/mx-es/privacy-and-agreements/agreements/) y el [Master Partner Agreement](https://vtex.com/mx-es/privacy-and-agreements/agreements/#:~:text=Master%20Services%20Agreement,Partner%20Agreement) son los contratos marco de servicio y de asociación, respectivamente, que regulan la relación entre VTEX y el cliente o VTEX y el partner. Ambos varían en función de la región en la que se encuentra la empresa o el partner. 
+El [Master Services Agreement](https://vtex.com/mx-es/trust/agreements) y el [Master Partner Agreement](https://vtex.com/mx-es/trust/agreements#:~:text=Master%20Services%20Agreement,Partner%20Agreement) son los contratos marco de servicio y de asociación, respectivamente, que regulan la relación entre VTEX y el cliente o VTEX y el partner. Ambos varían en función de la región en la que se encuentra la empresa o el partner. 
 
 El **Anexo 1 Order Form** y los **Términos y condiciones específicos de asociaciones** son documentos que recogen todas las condiciones comerciales negociadas para cada empresa o partner, incluyendo las disposiciones legales del contrato.
 
 ## ¿Dónde puedo encontrar mi contrato con VTEX?
 
-El Master Agreement aplicable está disponible en la sección **Política de privacidad > Archivo de contratos > [Master Agreements](https://vtex.com/mx-es/privacy-and-agreements/agreements-archive/#:~:text=Master%20Agreements,September%2006%2C%202020%5D)** para clientes y **Política de privacidad > Archivo de contratos > [Partner Agreement](https://vtex.com/mx-es/privacy-and-agreements/agreements-archive/#:~:text=Contratos%20Anteriores,Partner%20Agreement)** para partners, dependiendo de la región y de la fecha en que se firmó el **Anexo 1** o los **Términos y condiciones específicos de la asociación**. El **Anexo 1** y los **Términos y condiciones** firmados con VTEX pueden solicitarse directamente al CS de tu cuenta poniéndote en contacto con el [soporte VTEX](/es/support?/cultureInfo=pt-br).
+El Master Agreement aplicable está disponible en la sección **Política de privacidad > Archivo de contratos > [Master Agreements](https://vtex.com/mx-es/trust/agreements-archive/#:~:text=Master%20Agreements,September%2006%2C%202020%5D)** para clientes y **Política de privacidad > Archivo de contratos > [Partner Agreement](https://vtex.com/mx-es/trust/agreements-archive/#:~:text=Contratos%20Anteriores,Partner%20Agreement)** para partners, dependiendo de la región y de la fecha en que se firmó el **Anexo 1** o los **Términos y condiciones específicos de la asociación**. El **Anexo 1** y los **Términos y condiciones** firmados con VTEX pueden solicitarse directamente al CS de tu cuenta poniéndote en contacto con el [soporte VTEX](/es/support?/cultureInfo=pt-br).
 
-También puedes encontrar los Master Agreements más actualizados, es decir, los aplicables a nuevos clientes y partners, en la página [Contratos VTEX](https://vtex.com/mx-es/privacy-and-agreements/agreements/).
+También puedes encontrar los Master Agreements más actualizados, es decir, los aplicables a nuevos clientes y partners, en la página [Contratos VTEX](https://vtex.com/mx-es/trust/agreements).
 
 > ℹ️ Si el **MSA, MPA, Anexo 1** o los **Términos y condiciones específicos de la asociación** firmados con VTEX incluyen información que difiere de lo descrito en esta documentación, prioriza tu documento firmado con VTEX.
 

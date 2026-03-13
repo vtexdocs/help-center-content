@@ -22,13 +22,13 @@ To guarantee the security and privacy of information, there are different roles 
 | Data subject | The data subject is the owner of their personal data. For example, a customer in a store is the owner of their personal data, which they use to make a purchase. |
 | Data controller | The data controller is the person who decides the purposes and criteria for using personal data in compliance with data protection laws. The controller also determines how the processors will use the data. <br><br> For example, a merchant is a data controller, since they decide which customer data is required for placing an order. |
 | Data processor | The processor is a third-party company that processes personal data on behalf of the controller. <br><br> For example, VTEX is the processor that processes end-customer data on behalf of the store. VTEX does not process sensitive end-customer data at its own discretion but only on the direct instructions of the store administrators. <br><br> This processing by VTEX is outlined in the [Data Processing Addendum (DPA)](#data-processing-addendum-dpa). |
-| Data subprocessors | The subprocessor is a third-party company that processes personal data on behalf of the processor. The controller must have visibility and agree with the selection of a subprocessor. <br><br> Infrastructure providers and VTEX affiliates are subprocessors. See the [full list of VTEX subprocessors](https://vtex.com/us-en/privacy-and-agreements/subprocessors/). |
+| Data subprocessors | The subprocessor is a third-party company that processes personal data on behalf of the processor. The controller must have visibility and agree with the selection of a subprocessor. <br><br> Infrastructure providers and VTEX affiliates are subprocessors. See the [full list of VTEX subprocessors](https://compliance.vtex.com/?itemUid=e3fae2ca-94a9-416b-b577-5c90e382df57&source=click/). |
 
 ## Data Processing Addendum (DPA)
 
 The _Data Processing Addendum_ (DPA) is the agreement between the data controller (merchant) and the processor (VTEX), which regulates how VTEX processes personal data on behalf of the merchant.
 
-This document is an appendix to the [Master Services Agreement (MSA)](https://vtex.com/us-en/privacy-and-agreements/agreements/), the agreement that regulates the relationship between VTEX and the merchants. It establishes the rules for using the VTEX platform and any other requested services or products.
+This document is an appendix to the [Master Services Agreement (MSA)](https://vtex.com/us-en/trust/agreements), the agreement that regulates the relationship between VTEX and the merchants. It establishes the rules for using the VTEX platform and any other requested services or products.
 
 The DPA follows the [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/) standard, the most restrictive legislation on data privacy.
 
@@ -36,7 +36,7 @@ It includes information on:
 
 * Processor and controller roles.
 * Compliance with the rights of data subjects.
-* [Subprocessors](https://vtex.com/us-en/privacy-and-agreements/subprocessors/).
+* [Subprocessors](https://compliance.vtex.com/?itemUid=e3fae2ca-94a9-416b-b577-5c90e382df57&source=click/).
 * Our [technical and administrative](/en/docs/tracks/technical-and-administrative-measures) data security measures.
 * Security incident management.
 * Limitations of liability:
@@ -49,7 +49,7 @@ VTEX does not use end-customer data for any purpose other than to perform ecomme
 
 The DPA used must correspond to the specific region of the data subject (store customer).
 
-> ⚠️ Check the[ Data Processing Addendum - VTEX](https://vtex.com/us-en/privacy-and-agreements/data-processing-addendum/) to view the standard VTEX DPA for each region.
+> ⚠️ Check the[ Data Processing Addendum - VTEX](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/) to view the standard VTEX DPA for each region.
 
 ## Shared responsibilities
 
@@ -57,13 +57,13 @@ Both VTEX and merchants must ensure the security of personal data, each within a
 
 ## VTEX responsibilities
 
-VTEX, as the processor, can assist the merchant in complying with the data subject's rights, conducting privacy impact reports, and notifying the merchant of any incidents involving personal data of which it is aware. In addition, we are committed to complying with the [technical and administrative](/en/docs/tracks/technical-and-administrative-measures) security measures established in the [DPA](https://vtex.com/us-en/privacy-and-agreements/data-processing-addendum/).
+VTEX, as the processor, can assist the merchant in complying with the data subject's rights, conducting privacy impact reports, and notifying the merchant of any incidents involving personal data of which it is aware. In addition, we are committed to complying with the [technical and administrative](/en/docs/tracks/technical-and-administrative-measures) security measures established in the [DPA](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/).
 
 ## Merchant responsibilities
 
-Merchants, as controllers, determine the purposes and means of processing personal data. Therefore, merchants must instruct VTEX, under the terms of the [DPA](https://vtex.com/us-en/privacy-and-agreements/data-processing-addendum/), so that personal data can be used on the platform to perform ecommerce operations.
+Merchants, as controllers, determine the purposes and means of processing personal data. Therefore, merchants must instruct VTEX, under the terms of the [DPA](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/), so that personal data can be used on the platform to perform ecommerce operations.
 
-In the commercial context, the merchant defines the legal basis for using the personal data of customers (data subjects). Legal bases are the cases in which the law allows the use of personal data, such as consent. Legal bases do not apply to VTEX, as it only acts as a processor under the terms of the [DPA](https://vtex.com/us-en/privacy-and-agreements/data-processing-addendum/) and does not decide the purposes for using personal data.
+In the commercial context, the merchant defines the legal basis for using the personal data of customers (data subjects). Legal bases are the cases in which the law allows the use of personal data, such as consent. Legal bases do not apply to VTEX, as it only acts as a processor under the terms of the [DPA](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/) and does not decide the purposes for using personal data.
 
 ### Privacy regulations
 
@@ -71,7 +71,7 @@ Each merchant must conduct its own [Privacy Impact Assessments](https://gdpr-inf
 
 Merchants must implement their own security measures and, in the event of incidents involving personal data, must notify the data protection authorities and data subjects in compliance with the applicable laws. If you have specific questions about the laws applicable to your store, your end consumers, or other aspects of your business, contact a professional specialized in personal data protection.
 
-VTEX will support the merchant in some of these obligations under the [DPA](https://vtex.com/us-en/privacy-and-agreements/data-processing-addendum/) terms, such as responses to subject rights and notification of security incidents.
+VTEX will support the merchant in some of these obligations under the [DPA](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/) terms, such as responses to subject rights and notification of security incidents.
 
 ### Platform access
 

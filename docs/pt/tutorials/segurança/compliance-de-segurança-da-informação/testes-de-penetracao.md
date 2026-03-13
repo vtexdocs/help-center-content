@@ -27,4 +27,4 @@ Em vez de analisar as solicitações de testes de penetração individuais dos c
 
 Esse documento é fornecido mediante solicitação, sem custo, [abrindo um ticket para o suporte da VTEX](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex).
 
-> ⚠️ Nosso [Master Services Agreement (MSA)](https://vtex.com/br-pt/privacy-and-agreements/agreements/) proíbe expressamente a realização de testes de penetração na plataforma VTEX sem nosso consentimento prévio por escrito. Fazer isso sem nossa autorização constituiria uma violação de contrato por parte do cliente.
+> ⚠️ Nosso [Master Services Agreement (MSA)](https://vtex.com/br-pt/trust/agreements) proíbe expressamente a realização de testes de penetração na plataforma VTEX sem nosso consentimento prévio por escrito. Fazer isso sem nossa autorização constituiria uma violação de contrato por parte do cliente.
