@@ -17295,14 +17295,29 @@
                 },
                 {
                   "name": {
-                    "en": "Adding users to a buyer organization",
-                    "es": "Agregar usuarios a la organización compradora",
-                    "pt": "Adicionar usuários à organização compradora"
+                    "en": "Adding users to buyer organizations",
+                    "es": "Adding users to buyer organizations",
+                    "pt": "Adding users to buyer organizations"
                   },
                   "slug": {
                     "en": "adding-users-to-buyer-organization",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "es": "Agregar usuarios a la organización compradora",
+                    "pt": "Adicionar usuários à organização compradora",
+                    "en": "Agregar usuarios a la organización compradora"
+                  },
+                  "slug": {
                     "es": "agregar-usuarios-a-la-organizacion-compradora",
-                    "pt": "adicionar-usuarios-a-organizacao-compradora"
+                    "pt": "adicionar-usuarios-a-organizacao-compradora",
+                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -45454,6 +45469,21 @@
                 "en": "checkout-ui-allows-payment-with-incomplete-invoice-address-in-pickup-flow-inconsistent-invoicedata",
                 "es": "checkout-ui-permite-el-pago-con-direccion-de-factura-incompleta-en-el-flujo-de-recogida-invoicedata-inconsistente",
                 "pt": "a-interface-do-usuario-do-checkout-permite-o-pagamento-com-endereco-de-fatura-incompleto-no-fluxo-de-retirada-invoicedata-inconsistente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Checkout UI breaks after new address is added on Address Form in Chile B2B stores",
+                "es": "La interfaz de pago deja de funcionar tras añadir una nueva dirección en el formulario de direcciones de las tiendas B2B de Chile",
+                "pt": "A interface do checkout apresenta falhas após a adição de um novo endereço no formulário de endereço nas lojas B2B do Chile"
+              },
+              "slug": {
+                "en": "checkout-ui-breaks-after-new-address-is-added-on-address-form-in-chile-b2b-stores",
+                "es": "la-interfaz-de-pago-deja-de-funcionar-tras-anadir-una-nueva-direccion-en-el-formulario-de-direcciones-de-las-tiendas-b2b-de-chile",
+                "pt": "a-interface-do-checkout-apresenta-falhas-apos-a-adicao-de-um-novo-endereco-no-formulario-de-endereco-nas-lojas-b2b-do-chile"
               },
               "origin": "",
               "type": "markdown",
