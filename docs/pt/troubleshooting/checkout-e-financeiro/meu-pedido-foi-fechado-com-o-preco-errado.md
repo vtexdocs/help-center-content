@@ -15,8 +15,8 @@ locale: pt
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
 tags:
   - Marketplace
-  - Pre?os
-  - Integra??es
+  - Preços
+  - Integrações
   - Erro de sincronização
   - Configuração incorreta
 ---

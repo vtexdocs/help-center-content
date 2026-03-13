@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Master Data
-  - Integra??es
+  - Integrações
   - Erro de sincronização
   - Configuração incorreta
 ---
