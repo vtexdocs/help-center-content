@@ -16,7 +16,7 @@ subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Master Data
   - Admin
-  - Misconfiguration
+  - Configuración incorrecta
 ---
 
 En Master Data v1, los formularios Cliente y Dirección solo se crean en la tienda principal de la cuenta de forma predeterminada. Es por este motivo que los formularios no se crean automáticamente al crear una [multitienda](/es/docs/tutorials/gestionar-multitienda).

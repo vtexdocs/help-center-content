@@ -15,10 +15,10 @@ locale: es
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
 tags:
   - Marketplace
-  - Prices
-  - Integrations
-  - Sync issue
-  - Misconfiguration
+  - Precios
+  - Integraciones
+  - Error de sincronización
+  - Configuración incorrecta
 ---
 
 El status de los pedidos finalizados por marketplaces certificados se muestra en la sección **Marketplace > Conexiones > Pedidos** del Admin VTEX. Los pedidos finalizados con precio incorrecto tienen el status **Procesado con error**. 

@@ -14,9 +14,9 @@ legacySlug: no-puedo-ver-las-metricas-en-el-dashboard-de-pedidos
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Orders
+  - Pedidos
   - Admin
-  - Loading issue
+  - Error de carga
 ---
 
 Al acceder al Admin, es posible que tu tienda no cargue las métricas presentes en Dashboards > **Vista general**, mostrando íconos de advertencia y un mensaje de error. Esto puede deberse a:

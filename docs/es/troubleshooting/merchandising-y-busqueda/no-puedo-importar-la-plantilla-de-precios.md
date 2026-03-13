@@ -14,9 +14,9 @@ legacySlug: no-puedo-importar-la-plantilla-de-precios
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Prices
-  - Catalog
-  - Validation error
+  - Precios
+  - Catálogo
+  - Error de validación
 ---
 
 Las [tablas o plantillas de precio](/es/docs/tracks/tablas-de-precio-definicion-de-concepto) almacenan información de SKU que tras aplicarse en determinados contextos, como políticas comerciales, promociones o clústeres de clientes, permiten calcular los valores de venta de los productos en una tienda VTEX. Para más información, consulta [Precio base](/es/docs/tracks/preco-base-definicao-de-conceito) y [Precio fijo](/es/docs/tracks/precio-fijo-definicion-de-concepto).

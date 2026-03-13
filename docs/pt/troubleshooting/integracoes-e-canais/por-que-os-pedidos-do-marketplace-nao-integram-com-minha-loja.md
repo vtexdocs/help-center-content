@@ -1,5 +1,5 @@
 ---
-title: 'Por que os pedidos do marketplace não integram com minha loja?'
+title: Por que os pedidos do marketplace não integram com minha loja?
 id: 275YvF8dyry5KmfY9epoET
 status: PUBLISHED
 createdAt: 2024-06-21T14:24:48.621Z
@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
 tags:
   - Marketplace
-  - Orders
-  - Integrations
-  - Sync issue
+  - Pedidos
+  - Integrações
+  - Erro de sincronização
 ---
 
 Quando erros de integração em pedidos ocorrem entre um marketplace e sua loja, mensagens são exibidas na página de cada pedido, informando qual o erro ocorreu no pedido. Os possíveis erros de integração de pedido são os seguintes:  

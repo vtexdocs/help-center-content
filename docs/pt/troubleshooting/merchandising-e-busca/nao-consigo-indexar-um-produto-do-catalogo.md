@@ -1,5 +1,5 @@
 ---
-title: 'Não consigo indexar um produto do catálogo'
+title: Não consigo indexar um produto do catálogo
 id: 5ZKLTqnCyGbWEYGPTCBIxI
 status: PUBLISHED
 createdAt: 2024-09-06T13:35:52.255Z
@@ -14,10 +14,10 @@ legacySlug: nao-consigo-indexar-um-produto-do-catalogo
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Catalog
+  - Catálogo
   - Intelligent Search
-  - Loading issue
-  - Misconfiguration
+  - Erro de carregamento
+  - Configuração incorreta
 ---
 
 O processo de indexação permite que dados de um produto, tais como informações de catálogo, preço e estoque, sejam reunidos e organizados para serem exibidos aos clientes na busca e na prateleira da loja.

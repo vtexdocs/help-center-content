@@ -14,9 +14,9 @@ legacySlug: error-al-intentar-importar-skus-via-plantilla-en-el-admin-vtex
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Catalog
+  - Catálogo
   - Admin
-  - Validation error
+  - Error de validación
 ---
 
 Después de definir el árbol de categorías y el registro de [especificaciones de productos y SKUs] en tu tienda, es necesario rellenar los valores de las especificaciones creadas. En el Admin VTEX, este proceso se puede realizar mediante una plantilla o manualmente al [registrar productos y SKUs].

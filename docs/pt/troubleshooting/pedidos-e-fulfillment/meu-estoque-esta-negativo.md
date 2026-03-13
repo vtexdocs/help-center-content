@@ -1,5 +1,5 @@
 ---
-title: 'Meu estoque está negativo'
+title: Meu estoque está negativo
 id: JSFHaWsASXbnrX9dgNEeP
 status: PUBLISHED
 createdAt: 2024-06-10T11:08:39.990Z
@@ -14,9 +14,9 @@ legacySlug: meu-estoque-esta-negativo
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Logistics
-  - Orders
-  - Flow interruption
+  - Logística
+  - Pedidos
+  - Interrupção no fluxo
 ---
 
 Quando a quantidade disponível de um produto é exibida como negativa, pode ser uma indicação de que há mais itens [reservados](/pt/docs/tutorials/como-a-reserva-funciona) do que a quantidade total inserida em estoque. Este problema geralmente ocorre ao registrar (dar baixa) em um item de pedido que ainda está reservado pelo sistema.

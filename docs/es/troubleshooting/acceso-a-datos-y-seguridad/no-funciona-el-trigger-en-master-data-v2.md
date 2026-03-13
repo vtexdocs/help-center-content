@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Master Data
-  - Integrations
-  - Sync issue
-  - Misconfiguration
+  - Integraciones
+  - Error de sincronización
+  - Configuración incorrecta
 ---
 
 Al crear un trigger para notificar cambios en una entidad de datos en Master Data v2, algunos usuarios pueden notar que no llegan requests al endpoint configurado, incluso después de haber configurado el trigger.

@@ -14,10 +14,10 @@ legacySlug: no-logro-indexar-un-producto-del-catalogo
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Catalog
+  - Catálogo
   - Intelligent Search
-  - Loading issue
-  - Misconfiguration
+  - Error de carga
+  - Configuración incorrecta
 ---
 
 El proceso de indexación permite reunir y organizar los datos de un producto, tales como información de catálogo, precio y stock, para mostrarlos a los clientes en la búsqueda y en la estantería de productos de la tienda.

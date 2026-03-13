@@ -1,5 +1,7 @@
 ---
-title: 'Por que os preços dos produtos da minha loja não foram enviados ao marketplace?'
+title: >-
+  Por que os preços dos produtos da minha loja não foram enviados ao
+  marketplace?
 id: 7LMjXNoYJXsgPyKFkk6I25
 status: PUBLISHED
 createdAt: 2024-09-13T18:09:21.855Z
@@ -15,10 +17,10 @@ locale: pt
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
 tags:
   - Marketplace
-  - Prices
-  - Integrations
-  - Sync issue
-  - Misconfiguration
+  - Preços
+  - Integrações
+  - Erro de sincronização
+  - Configuração incorreta
 ---
 
 O preço de um produto é enviado para o marketplace após dois processos: a [configuração de preços na loja do seller](/pt/docs/tracks/modulo-de-precos-visao-geral) e a catalogação de produtos. Se um desses processos citados não for executado, o preço do produto do seller não será disponibilizado no marketplace.  

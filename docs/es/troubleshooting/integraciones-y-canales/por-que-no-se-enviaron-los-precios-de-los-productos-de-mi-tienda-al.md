@@ -17,10 +17,10 @@ locale: es
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
 tags:
   - Marketplace
-  - Prices
-  - Integrations
-  - Sync issue
-  - Misconfiguration
+  - Precios
+  - Integraciones
+  - Error de sincronización
+  - Configuración incorrecta
 ---
 
 El precio de un producto se envía al marketplace tras dos procesos: [la configuración del precio en la tienda del seller](/es/docs/tracks/modulo-de-precios-vision-general) y la catalogación de productos. Si uno de estos procesos no se lleva a cabo, el precio del producto del seller no estará disponible en el marketplace.  

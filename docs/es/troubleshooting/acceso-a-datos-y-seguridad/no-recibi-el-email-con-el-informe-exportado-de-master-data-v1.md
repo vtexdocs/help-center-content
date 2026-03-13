@@ -16,7 +16,7 @@ subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Master Data
   - Admin
-  - Notification issue
+  - Error de notificación
 ---
 
 Cuando se [exporta un informe con datos de Master Data v1](/es/docs/tutorials/exportacion-de-datos), dicho informe se envía al email ingresado durante la exportación. Sin embargo, es posible que el email tarde más de lo previsto en llegar a la bandeja de entrada.

@@ -14,9 +14,9 @@ legacySlug: mi-stock-esta-negativo
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Logistics
-  - Orders
-  - Flow interruption
+  - Logística
+  - Pedidos
+  - Interrupción en el flujo
 ---
 
 Cuando la cantidad disponible de un producto se muestra negativa, es posible que haya más ítems [reservados](/es/docs/tutorials/como-se-maneja-la-reserva) de la cantidad indicada para el total de stock. Generalmente, este problema ocurre al registrar (dar de baja) un ítem en un pedido que todavía no está reservado por el sistema.

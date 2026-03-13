@@ -1,5 +1,5 @@
 ---
-title: 'Meus pedidos do Mercado Livre apresentam erros'
+title: Meus pedidos do Mercado Livre apresentam erros
 id: 170njWgSw9UQ5DG6NRl14d
 status: PUBLISHED
 createdAt: 2024-06-28T15:03:26.959Z
@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
 tags:
   - Marketplace
-  - Integrations
-  - Sync issue
-  - Misconfiguration
+  - Integrações
+  - Erro de sincronização
+  - Configuração incorreta
 ---
 
 Quando ocorre um erro de integração em pedidos entre um marketplace e o Mercado Livre, uma mensagem de erro é informada em cada pedido.   

@@ -14,9 +14,9 @@ legacySlug: no-logro-actualizar-el-ean-de-mis-sku-via-api
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Catalog
-  - Integrations
-  - Validation error
+  - Catálogo
+  - Integraciones
+  - Error de validación
 ---
 
 Al intentar actualizar el EAN (número de artículo europeo), que contiene información del código de barras de un SKU en el Admin VTEX y en la API, podrías encontrar problemas de sincronización del catálogo de la tienda, lo que afectaría la gestión del stock y la experiencia del cliente.

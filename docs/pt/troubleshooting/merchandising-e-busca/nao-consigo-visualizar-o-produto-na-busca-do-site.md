@@ -1,5 +1,5 @@
 ---
-title: 'Não consigo visualizar o produto na busca do site'
+title: Não consigo visualizar o produto na busca do site
 id: 2Ry55Fh6JW8v7oKBiB2pH3
 status: PUBLISHED
 createdAt: 2024-07-24T16:39:50.379Z
@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Intelligent Search
-  - Catalog
+  - Catálogo
   - Storefront
-  - Loading issue
+  - Erro de carregamento
 ---
 
 Quando o usuário realiza a pesquisa em uma loja VTEX por meio do [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search), é possível que o produto desejado não seja localizado, mesmo que o termo utilizado na busca esteja presente nas informações cadastradas do item.

@@ -1,5 +1,5 @@
 ---
-title: 'Não consigo importar a planilha de preços'
+title: Não consigo importar a planilha de preços
 id: bglrzs7gLKWf97q8qRdRm
 status: PUBLISHED
 createdAt: 2024-06-10T15:11:02.787Z
@@ -14,9 +14,9 @@ legacySlug: nao-consigo-importar-a-planilha-de-precos
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Prices
-  - Catalog
-  - Validation error
+  - Preços
+  - Catálogo
+  - Erro de validação
 ---
 
 As [tabelas ou planilhas de preço](/pt/docs/tracks/tabelas-de-preco-definicao-de-conceito) armazenam informações de SKUs que após serem aplicadas em determinados contextos, tais como políticas comerciais, promoções ou cluster de clientes, permitem calcular os valores de venda dos produtos em uma loja VTEX. Para mais informações, acesse [Preço base](/pt/docs/tracks/preco-base-definicao-de-conceito) e [Preço fixo](/pt/docs/tracks/preco-fixo-definicao-de-conceito). 

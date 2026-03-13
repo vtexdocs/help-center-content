@@ -1,5 +1,5 @@
 ---
-title: 'Não consigo visualizar uma página no Admin'
+title: Não consigo visualizar uma página no Admin
 id: 3U8TJMlAqHIM5Qs8rLwkwQ
 status: PUBLISHED
 createdAt: 2024-11-28T14:27:44.578Z
@@ -16,8 +16,8 @@ subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Identity
   - Admin
-  - Access restriction
-  - Loading issue
+  - Restrição de acesso
+  - Erro de carregamento
 ---
 
 Ao utilizar o Admin, alguns usuários podem ter problemas como o *Erro 403 - Desculpe, você não tem acesso a essa página* ou o carregamento contínuo de uma página.

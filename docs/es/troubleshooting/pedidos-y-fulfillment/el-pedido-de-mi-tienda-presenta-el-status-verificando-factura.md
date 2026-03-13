@@ -14,9 +14,9 @@ legacySlug: el-pedido-de-mi-tienda-presenta-el-status-verificando-factura
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Orders
-  - Payments
-  - Flow interruption
+  - Pedidos
+  - Pagos
+  - Interrupción en el flujo
 ---
 
 Al monitorear el [flujo de pedidos](/es/docs/tutorials/flujo-y-status-de-pedidos) de tu tienda, puedes encontrarte con un pedido que permanece con el status `Verificando factura` durante más tiempo del esperado. En este status, la plataforma comprueba si el pago se ha completado y si la factura del pedido ha sido correctamente incluida, siendo estas condiciones necesarias para que el pedido avance en el flujo.

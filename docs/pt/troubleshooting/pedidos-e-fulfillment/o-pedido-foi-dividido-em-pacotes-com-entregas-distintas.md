@@ -1,5 +1,5 @@
 ---
-title: 'O pedido foi dividido em pacotes com entregas distintas'
+title: O pedido foi dividido em pacotes com entregas distintas
 id: 3OCOC82543vOsc3Ex32XTY
 status: PUBLISHED
 createdAt: 2024-06-19T15:03:37.373Z
@@ -14,9 +14,9 @@ legacySlug: o-pedido-foi-dividido-em-pacotes-com-entregas-distintas
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Orders
-  - Logistics
-  - Flow interruption
+  - Pedidos
+  - Logística
+  - Interrupção no fluxo
 ---
 
 Na VTEX, há situações em que o cliente recebe seu pedido dividido em vários pacotes, independentemente de haver ou não uma [divisão do pedido](/pt/docs/tutorials/divisao-de-pedidos-e-divisao-de-entregas) na plataforma. O cliente pode receber os itens do pedido em pacotes distintos nos seguintes casos:

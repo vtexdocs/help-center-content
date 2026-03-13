@@ -15,8 +15,8 @@ locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Admin
-  - Notification issue
-  - Misconfiguration
+  - Error de notificación
+  - Configuración incorrecta
 ---
 
 A través del [Centro de mensajes](/es/docs/tutorials/como-funciona-el-message-center), VTEX ofrece a los retailers la opción de personalizar las plantillas para enviar emails a los usuarios. Estos emails pueden utilizarse para transmitir la siguiente información:

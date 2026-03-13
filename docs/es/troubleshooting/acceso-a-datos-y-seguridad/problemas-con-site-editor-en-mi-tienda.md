@@ -16,8 +16,8 @@ subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Storefront
   - Admin
-  - Loading issue
-  - Access restriction
+  - Error de carga
+  - Restricción de acceso
 ---
 
 [Site Editor](https://developers.vtex.com/docs/guides/working-with-site-editor) es el CMS (sistema de gestión de contenido) disponible para las tiendas que utilizan [Store Framework](https://developers.vtex.com/docs/guides/store-framework). En algunas situaciones, pueden experimentarse dificultades para abrir Site Editor o para guardar contenido.

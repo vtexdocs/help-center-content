@@ -1,5 +1,7 @@
 ---
-title: 'Como remover a mensagem de erro "Request headers must contain only ASCII characters"'
+title: >-
+  Como remover a mensagem de erro "Request headers must contain only ASCII
+  characters"
 id: 19psKZvLXrBqqK1bPaTIHG
 status: PUBLISHED
 createdAt: 2024-07-25T16:54:41.663Z
@@ -15,8 +17,8 @@ locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Storefront
-  - Validation error
-  - Loading issue
+  - Erro de validação
+  - Erro de carregamento
 ---
 
 A mensagem "__Request headers must contain only ASCII characters__" pode ser exibida no navegador do usuário quando ele está navegando na loja e tenta acessar uma nova página ou realizar uma ação no site, por exemplo, adicionando itens no carrinho de compras.

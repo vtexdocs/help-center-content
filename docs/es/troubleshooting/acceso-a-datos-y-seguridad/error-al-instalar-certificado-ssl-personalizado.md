@@ -15,8 +15,8 @@ locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - VTEX Shield
-  - Validation error
-  - Misconfiguration
+  - Error de validación
+  - Configuración incorrecta
 ---
 
 Al instalar [certificados SSL personalizados](/es/docs/tutorials/certificados-ssl-personalizados) en [VTEX Shield](/es/docs/tutorials/vtex-shield) pueden producirse algunos errores. Consulta a continuación los posibles errores y sus soluciones.

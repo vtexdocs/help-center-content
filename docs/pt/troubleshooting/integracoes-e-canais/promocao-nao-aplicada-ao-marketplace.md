@@ -1,5 +1,5 @@
 ---
-title: 'Promoção não aplicada ao Marketplace'
+title: Promoção não aplicada ao Marketplace
 id: 2pxlVpzgThuw2wTEISRwA2
 status: PUBLISHED
 createdAt: 2024-08-15T11:38:33.808Z
@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Marketplace
-  - Promotions
-  - Integrations
-  - Misconfiguration
+  - Promoções
+  - Integrações
+  - Configuração incorreta
 ---
 
 Ao configurar uma promoção para marketplaces, é possível que os usuários encontrem dificuldades devido a configurações incorretas na política comercial ou afiliado. Este documento oferece orientações para assegurar que a promoção seja configurada e aplicada corretamente.

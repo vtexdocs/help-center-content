@@ -15,10 +15,10 @@ locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Marketplace
-  - Catalog
-  - Integrations
-  - Loading issue
-  - Misconfiguration
+  - Catálogo
+  - Integraciones
+  - Error de carga
+  - Configuración incorrecta
 ---
 
 Cuando se remueve o desactiva un producto de la política comercial utilizada en la integración de Mercado Libre, la actualización de esos detalles se envía automáticamente al marketplace, que a su vez deja de mostrar el producto.

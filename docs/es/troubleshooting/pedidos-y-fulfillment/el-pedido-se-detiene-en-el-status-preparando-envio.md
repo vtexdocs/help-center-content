@@ -14,9 +14,9 @@ legacySlug: el-pedido-se-detiene-en-el-status-preparando-envio
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Orders
-  - Logistics
-  - Flow interruption
+  - Pedidos
+  - Logística
+  - Interrupción en el flujo
 ---
 
 El status `Preparando envío` se produce en el [flujo de pedidos](/es/docs/tutorials/flujo-y-status-de-pedidos#flujo-de-seller) justo después de que el seller confirma el inicio de la preparación de los ítems. En este punto, VTEX debe recibir los detalles de la factura del pedido, permitiendo que el flujo se actualice al status `Facturado` o `Cancelado`.

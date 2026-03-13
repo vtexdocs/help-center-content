@@ -1,5 +1,5 @@
 ---
-title: 'Produto continua reservado em estoque após faturamento do pedido'
+title: Produto continua reservado em estoque após faturamento do pedido
 id: 5kQ3sJTo7hxIjysT7f9EvD
 status: PUBLISHED
 createdAt: 2024-10-29T16:42:28.787Z
@@ -14,9 +14,9 @@ legacySlug: produto-continua-reservado-em-estoque-apos-faturamento-do-pedido
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Orders
-  - Logistics
-  - Flow interruption
+  - Pedidos
+  - Logística
+  - Interrupção no fluxo
 ---
 
 A reserva de estoque é uma funcionalidade essencial, que garante que o produto vendido em um pedido não seja disponibilizado para outro cliente até que o pedido seja completamente processado. No entanto, uma dúvida comum entre lojistas é entender por que a reserva permanece ativa, mesmo após o faturamento do pedido.

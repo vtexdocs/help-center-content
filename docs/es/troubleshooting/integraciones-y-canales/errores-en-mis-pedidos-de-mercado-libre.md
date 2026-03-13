@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
 tags:
   - Marketplace
-  - Integrations
-  - Sync issue
-  - Misconfiguration
+  - Integraciones
+  - Error de sincronización
+  - Configuración incorrecta
 ---
 
 Cuando se produce un error de integración en pedidos entre un marketplace y Mercado Libre, se muestra un mensaje de error en cada pedido. 

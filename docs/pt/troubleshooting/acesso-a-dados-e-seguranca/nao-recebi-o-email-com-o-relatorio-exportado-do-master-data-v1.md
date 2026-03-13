@@ -1,5 +1,5 @@
 ---
-title: 'Não recebi o email com o relatório exportado do Master Data v1'
+title: Não recebi o email com o relatório exportado do Master Data v1
 id: 1zUBgmgkgMZyHyy0veR7Oj
 status: PUBLISHED
 createdAt: 2022-10-17T19:56:25.618Z
@@ -16,7 +16,7 @@ subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Master Data
   - Admin
-  - Notification issue
+  - Erro de notificação
 ---
 
 Ao [exportar um relatório com dados do Master Data v1](/pt/docs/tutorials/exportando-dados), o relatório é enviado para o email informado durante a exportação. Porém, é possível que o email demore mais que o esperado para chegar na sua caixa de entrada.

@@ -1,5 +1,5 @@
 ---
-title: 'O pedido da minha loja foi cancelado'
+title: O pedido da minha loja foi cancelado
 id: 6qOCSBno1vS9TmHWWveOc
 status: PUBLISHED
 createdAt: 2025-02-04T13:04:34.645Z
@@ -14,9 +14,9 @@ legacySlug: o-pedido-da-minha-loja-foi-cancelado
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Orders
-  - Payments
-  - Flow interruption
+  - Pedidos
+  - Pagamentos
+  - Interrupção no fluxo
 ---
 
 Após um pedido ser realizado, ele pode ser cancelado antes de completar o fluxo esperado. Para identificar o motivo de cancelamento, é preciso verificar todas as comunicações realizadas entre as integrações de pagamento. Isto porque, para uma compra ser faturada, ela passa por diversas etapas que podem provocar o cancelamento.

@@ -1,5 +1,5 @@
 ---
-title: 'O pedido não avança após o status "Preparando entrega"'
+title: O pedido não avança após o status "Preparando entrega"
 id: 2yia6QhoLh204lHzEaIrnK
 status: PUBLISHED
 createdAt: 2025-02-07T14:22:07.199Z
@@ -14,9 +14,9 @@ legacySlug: o-pedido-nao-avanca-apos-o-status-preparando-entrega
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Orders
-  - Logistics
-  - Flow interruption
+  - Pedidos
+  - Logística
+  - Interrupção no fluxo
 ---
 
 O status `Preparando entrega` ocorre no [fluxo do pedido](/pt/docs/tutorials/fluxo-e-status-de-pedidos#fluxo-do-seller) logo após o seller confirmar o início do manuseio dos itens. Neste momento, é necessário que a VTEX receba a informação das notas fiscais do pedido, permitindo que o fluxo seja atualizado para o status `Faturado` ou que ele seja `Cancelado`.

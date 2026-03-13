@@ -1,5 +1,5 @@
 ---
-title: 'Não consigo corrigir o erro de schema em aplicativos B2B'
+title: Não consigo corrigir o erro de schema em aplicativos B2B
 id: WkjJZSnGXCiqmLhg4b0OR
 status: PUBLISHED
 createdAt: 2024-09-11T18:54:34.611Z
@@ -16,8 +16,8 @@ subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - B2B
   - Master Data
-  - Validation error
-  - Misconfiguration
+  - Erro de validação
+  - Configuração incorreta
 ---
 
 Em ambientes que utilizam aplicativos B2B, os usuários podem encontrar o alerta `schema is invalid` relacionado a problemas de schema. Esse tipo de alerta geralmente ocorre devido a uma configuração incorreta na entidade CL (cliente) dentro do Master Data.

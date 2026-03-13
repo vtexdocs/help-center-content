@@ -14,9 +14,9 @@ legacySlug: el-producto-continua-reservado-tras-la-facturacion-del-pedido
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Orders
-  - Logistics
-  - Flow interruption
+  - Pedidos
+  - Logística
+  - Interrupción en el flujo
 ---
 
 La reserva de stock es una función esencial que garantiza que el producto vendido no se ponga a disposición de otro cliente hasta que el pedido se haya procesado por completo. Sin embargo, una pregunta habitual entre los retailers es por qué la reserva sigue vigente incluso después de que se haya facturado el pedido.

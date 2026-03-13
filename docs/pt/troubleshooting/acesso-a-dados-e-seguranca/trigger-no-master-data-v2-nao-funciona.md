@@ -1,5 +1,5 @@
 ---
-title: 'Trigger no Master Data v2 não funciona'
+title: Trigger no Master Data v2 não funciona
 id: 1WvpFuZUQmPrBlrlwX47Qd
 status: PUBLISHED
 createdAt: 2024-12-10T13:34:36.370Z
@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Master Data
-  - Integrations
-  - Sync issue
-  - Misconfiguration
+  - Integra??es
+  - Erro de sincronização
+  - Configuração incorreta
 ---
 
 Ao criar uma trigger para notificar mudanças em uma entidade de dados no Master Data v2, alguns usuários podem perceber que nenhuma requisição chega ao endpoint configurado, mesmo após a configuração da trigger.

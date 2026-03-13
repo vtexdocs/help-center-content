@@ -1,5 +1,5 @@
 ---
-title: 'Pedidos com a Amazon apresentam erros de integração'
+title: Pedidos com a Amazon apresentam erros de integração
 id: 1ukX1Gw4fVUs62IIpGgsZF
 status: PUBLISHED
 createdAt: 2024-09-12T16:05:45.774Z
@@ -15,10 +15,10 @@ locale: pt
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
 tags:
   - Marketplace
-  - Orders
-  - Integrations
-  - Sync issue
-  - Misconfiguration
+  - Pedidos
+  - Integrações
+  - Erro de sincronização
+  - Configuração incorreta
 ---
 
 Quando ocorre um erro de integração em pedidos entre a **Amazon** e uma loja, uma mensagem de erro é informada em cada pedido. Para verificar se um pedido contém erros de integração, no Admin VTEX, acesse **Marketplace > Conexões > Pedidos** ou digite **Pedidos** na barra de busca.  

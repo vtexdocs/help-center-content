@@ -1,5 +1,5 @@
 ---
-title: 'Busca de redirects no Admin não retorna resultados'
+title: Busca de redirects no Admin não retorna resultados
 id: 2u5cJhUSVM6bbEAFkgUww7
 status: PUBLISHED
 createdAt: 2024-07-24T13:41:02.016Z
@@ -16,7 +16,7 @@ subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Admin
   - Storefront
-  - Loading issue
+  - Erro de carregamento
 ---
 
 Quando o número de redirects é muito grande, a página Redirecionamentos no Admin não consegue processar a busca. Então, ao tentar realizar a busca, ela não retorna resultados. Para mais detalhes sobre a página Redirecionamentos, veja o artigo [Gerenciando redirecionamentos de URL por binding](/pt/docs/tutorials/gerenciando-redirecionamentos-de-url-por-binding).

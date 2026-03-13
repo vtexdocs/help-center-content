@@ -1,5 +1,5 @@
 ---
-title: 'Formulários de Cliente e Endereço não existem em multiloja'
+title: Formulários de Cliente e Endereço não existem em multiloja
 id: 46ETfuaGogKwaMau4ESAAM
 status: PUBLISHED
 createdAt: 2017-08-16T16:57:24.708Z
@@ -16,7 +16,7 @@ subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Master Data
   - Admin
-  - Misconfiguration
+  - Configuração incorreta
 ---
 
 No Master Data v1, os formulários de Cliente e Endereço são criados por padrão somente na loja principal da conta. Por isso, ao criar uma [multiloja](/pt/docs/tutorials/gerenciando-uma-multiloja), os formulários não são criados automaticamente.

@@ -16,8 +16,8 @@ subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Identity
   - Admin
-  - Access restriction
-  - Loading issue
+  - Restricción de acceso
+  - Error de carga
 ---
 
 Al utilizar el Admin, algunos usuarios pueden experimentar problemas como el Error 403 \- Lo sentimos, no tienes acceso a esta página, o que una página no termine de cargar.

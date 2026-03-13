@@ -1,5 +1,5 @@
 ---
-title: 'Meu pedido foi fechado com o preço errado'
+title: Meu pedido foi fechado com o preço errado
 id: 5an0m7uLMwxWRlJlsyKxvl
 status: PUBLISHED
 createdAt: 2025-05-07T13:03:46.201Z
@@ -15,10 +15,10 @@ locale: pt
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
 tags:
   - Marketplace
-  - Prices
-  - Integrations
-  - Sync issue
-  - Misconfiguration
+  - Pre?os
+  - Integra??es
+  - Erro de sincronização
+  - Configuração incorreta
 ---
 
 No Admin VTEX, em **Marketplace > Conexões > Pedidos**, são informados os status dos pedidos fechados por marketplaces certificados. Pedidos fechados com o preço errado apresentam status **Processado com erro**. 

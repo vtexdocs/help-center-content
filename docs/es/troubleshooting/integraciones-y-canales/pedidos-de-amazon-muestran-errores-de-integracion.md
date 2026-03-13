@@ -15,10 +15,10 @@ locale: es
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
 tags:
   - Marketplace
-  - Orders
-  - Integrations
-  - Sync issue
-  - Misconfiguration
+  - Pedidos
+  - Integraciones
+  - Error de sincronización
+  - Configuración incorrecta
 ---
 
 Cuando se produce un error de integración en pedidos entre **Amazon** y una tienda, se informa un mensaje de error en cada pedido. Para comprobar si un pedido contiene errores de integración, en el Admin VTEX accede a **Marketplace > Conexiones > Pedidos**o ingresa **Pedidos** en la barra de búsqueda.

@@ -1,5 +1,5 @@
 ---
-title: 'Meu anúncio não é exibido no Mercado Livre'
+title: Meu anúncio não é exibido no Mercado Livre
 id: 2UpudfowEvG97e2lstj4qc
 status: PUBLISHED
 createdAt: 2024-06-13T16:38:00.931Z
@@ -15,10 +15,10 @@ locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Marketplace
-  - Catalog
-  - Integrations
-  - Loading issue
-  - Misconfiguration
+  - Catálogo
+  - Integrações
+  - Erro de carregamento
+  - Configuração incorreta
 ---
 
 Quando um produto é removido ou desativado da política comercial utilizada na integração do Mercado Livre, a atualização dessa informação é enviada automaticamente para o marketplace, que, por sua vez, para de exibir o anúncio do produto.

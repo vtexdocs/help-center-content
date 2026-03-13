@@ -16,8 +16,8 @@ subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - B2B
   - Master Data
-  - Validation error
-  - Misconfiguration
+  - Error de validación
+  - Configuración incorrecta
 ---
 
 En entornos que utilizan aplicaciones B2B, puede presentarse la alerta `Schema is invalid` que está relacionada con problemas de esquema. Generalmente, este tipo de alerta se debe a una configuración incorrecta en la entidad CL (Cliente) en Master Data.

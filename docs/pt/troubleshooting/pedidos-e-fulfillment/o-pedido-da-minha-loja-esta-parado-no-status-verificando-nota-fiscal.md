@@ -1,5 +1,5 @@
 ---
-title: 'O pedido da minha loja está parado no status "Verificando nota fiscal"'
+title: O pedido da minha loja está parado no status "Verificando nota fiscal"
 id: 2YY7ILOOd0lEjpiT7SSgag
 status: PUBLISHED
 createdAt: 2024-08-16T18:32:15.867Z
@@ -14,9 +14,9 @@ legacySlug: o-pedido-da-minha-loja-esta-parado-no-status-verificando-nota-fiscal
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Orders
-  - Payments
-  - Flow interruption
+  - Pedidos
+  - Pagamentos
+  - Interrupção no fluxo
 ---
 
 Ao acompanhar o [fluxo dos pedidos](/pt/docs/tutorials/fluxo-e-status-de-pedidos) da sua loja, você pode se deparar com um pedido que permanece no status `Verificando nota fiscal` por mais tempo do que o esperado. Nesse status, a plataforma checa se o pagamento foi liquidado e se a nota fiscal do pedido foi incluída corretamente, sendo estas condições necessárias para que o pedido avance no fluxo.

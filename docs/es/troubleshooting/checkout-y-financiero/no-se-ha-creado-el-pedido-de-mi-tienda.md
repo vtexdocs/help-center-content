@@ -15,10 +15,10 @@ locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Checkout
-  - Orders
-  - Payments
-  - Flow interruption
-  - Misconfiguration
+  - Pedidos
+  - Pagos
+  - Interrupción en el flujo
+  - Configuración incorrecta
 ---
 
 Cuando un cliente intenta realizar una compra y se produce un error al crear el pedido, esto puede deberse a varias razones, como problemas relacionados con el pago, logística o [integración del backend](/es/docs/tracks/integraciones-de-backend) con sistemas ERP (sistemas de planificación de recursos empresariales).

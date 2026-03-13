@@ -14,9 +14,9 @@ legacySlug: el-pedido-se-dividio-en-paquetes-con-envios-separados
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Orders
-  - Logistics
-  - Flow interruption
+  - Pedidos
+  - Logística
+  - Interrupción en el flujo
 ---
 
 En VTEX, los clientes pueden recibir su pedido dividido en varios paquetes, independientemente de si [la división del pedido](/es/docs/tutorials/division-de-pedidos-y-division-de-entregas) se reflejó en la plataforma. El cliente puede recibir los ítems del pedido en paquetes separados en los siguientes casos:

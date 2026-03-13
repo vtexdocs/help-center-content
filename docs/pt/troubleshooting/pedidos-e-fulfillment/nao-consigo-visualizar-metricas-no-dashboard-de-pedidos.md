@@ -1,5 +1,5 @@
 ---
-title: 'Não consigo visualizar métricas no dashboard de pedidos'
+title: Não consigo visualizar métricas no dashboard de pedidos
 id: 1B5OAicmK3AvnwPzs4iq7Z
 status: PUBLISHED
 createdAt: 2024-06-10T11:28:08.507Z
@@ -14,9 +14,9 @@ legacySlug: nao-consigo-visualizar-metricas-no-dashboard-de-pedidos
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Orders
+  - Pedidos
   - Admin
-  - Loading issue
+  - Erro de carregamento
 ---
 
 Ao acessar o painel Admin, pode ser que sua loja não carregue métricas na **Visão geral** do dashboard, e vir acompanhadas de ícones de alerta e a mensagem "Ocorreu um problema". Isso pode ocorrer devido a:

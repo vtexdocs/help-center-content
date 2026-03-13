@@ -17,8 +17,8 @@ locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Storefront
-  - Validation error
-  - Loading issue
+  - Error de validación
+  - Error de carga
 ---
 
 El mensaje "__Request headers must contain only ASCII characters__" puede mostrarse en el navegador del usuario cuando esté navegando por la tienda e intente acceder a una nueva página o realizar una acción en el sitio web, como por ejemplo, agregar ítems al carrito.

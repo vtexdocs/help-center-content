@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Marketplace
-  - Promotions
-  - Integrations
-  - Misconfiguration
+  - Promociones
+  - Integraciones
+  - Configuración incorrecta
 ---
 
 Al configurar promociones para marketplaces los usuarios pueden experimentar dificultades debido a ajustes incorrectos en la política comercial o en el campo de afiliados. Este artículo ofrece directrices para garantizar que la promoción se configure y aplique correctamente.

@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
 tags:
   - Marketplace
-  - Orders
-  - Integrations
-  - Sync issue
+  - Pedidos
+  - Integraciones
+  - Error de sincronización
 ---
 
 Cuando se producen errores de integración de pedidos entre un marketplace y tu tienda, se muestran mensajes en la página de cada pedido, informando el error ocurrido. Los posibles errores de integración de pedido son los siguientes:  

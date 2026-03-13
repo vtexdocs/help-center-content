@@ -1,5 +1,5 @@
 ---
-title: 'O pedido da minha loja não foi criado'
+title: O pedido da minha loja não foi criado
 id: 7xQZqkMHXkHCEEZl5UlX8I
 status: PUBLISHED
 createdAt: 2024-07-18T20:10:20.933Z
@@ -15,10 +15,10 @@ locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Checkout
-  - Orders
-  - Payments
-  - Flow interruption
-  - Misconfiguration
+  - Pedidos
+  - Pagamentos
+  - Interrupção no fluxo
+  - Configuração incorreta
 ---
 
 Quando um cliente tenta realizar uma compra e ocorre um erro na criação do pedido, isso pode acontecer por diferentes razões, como problemas de pagamento, de logística ou de [integração do backend](/pt/docs/tracks/integracoes-de-backend) com ERPs (Enterprise Resource Planning). 

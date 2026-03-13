@@ -1,5 +1,5 @@
 ---
-title: 'Erro ao instalar certificado SSL customizado'
+title: Erro ao instalar certificado SSL customizado
 id: 6hgFzbcc96mcrqXZMmHCTr
 status: PUBLISHED
 createdAt: 2025-02-28T14:55:08.515Z
@@ -15,8 +15,8 @@ locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - VTEX Shield
-  - Validation error
-  - Misconfiguration
+  - Erro de validação
+  - Configuração incorreta
 ---
 
 Alguns erros podem ocorrer durante a instalação de [certificados SSL customizados](/pt/docs/tutorials/certificados-ssl-customizados), funcionalidade disponível no [VTEX Shield](/pt/docs/tutorials/vtex-shield). Confira a seguir os erros possíveis e como solucioná-los.

@@ -1,5 +1,5 @@
 ---
-title: 'Erro ao tentar importar SKUs por planilha no Admin VTEX'
+title: Erro ao tentar importar SKUs por planilha no Admin VTEX
 id: 1TDF87s7P1UJT1hNDGZsuk
 status: PUBLISHED
 createdAt: 2024-07-01T15:07:50.982Z
@@ -14,9 +14,9 @@ legacySlug: erro-ao-tentar-importar-skus-por-planilha-no-admin-vtex
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Catalog
+  - Catálogo
   - Admin
-  - Validation error
+  - Erro de validação
 ---
 
 Após a definição da árvore de categorias e o cadastro de [especificações de produtos e de SKUs](/pt/docs/tracks/especificacoes-definicao-de-conceito) na sua loja, é necessário preencher os valores das especificações criadas. No Admin VTEX, esse processo pode ser realizado através de uma planilha ou de forma manual no cadastro do [produto](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-produto#cadastro-do-produto) e no cadastro do [SKU](/pt/docs/tutorials/cadastrar-especificacoes-ou-campos-de-sku#cadastro-do-sku).

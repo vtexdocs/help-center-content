@@ -1,5 +1,5 @@
 ---
-title: 'Não consigo receber emails da VTEX'
+title: Não consigo receber emails da VTEX
 id: 4M2uVZdtrJzgyAySuZ4OLg
 status: PUBLISHED
 createdAt: 2024-05-28T17:21:01.400Z
@@ -15,8 +15,8 @@ locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Admin
-  - Notification issue
-  - Misconfiguration
+  - Erro de notificação
+  - Configuração incorreta
 ---
 
 Por meio da [Central de mensagens](/pt/docs/tutorials/conhecendo-o-message-center), a VTEX oferece aos lojistas a opção de personalizar templates de e-mail que serão encaminhados aos usuários. Estes emails podem ser utilizados para transmitir as seguintes informações:

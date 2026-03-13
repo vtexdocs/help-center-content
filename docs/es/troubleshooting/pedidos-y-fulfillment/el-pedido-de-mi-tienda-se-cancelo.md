@@ -14,9 +14,9 @@ legacySlug: el-pedido-de-mi-tienda-se-cancelo
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Orders
-  - Payments
-  - Flow interruption
+  - Pedidos
+  - Pagos
+  - Interrupción en el flujo
 ---
 
 Un pedido realizado se puede cancelar antes de que complete el flujo esperado. Para identificar el motivo de la cancelación, es necesario verificar todas las comunicaciones efectuadas entre las integraciones de pago, ya que para facturar una compra, la misma debe pasar por varias etapas que pueden activar la cancelación.

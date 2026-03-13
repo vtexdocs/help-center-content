@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Intelligent Search
-  - Catalog
+  - Catálogo
   - Storefront
-  - Loading issue
+  - Error de carga
 ---
 
 Cuando el usuario realiza una búsqueda en una tienda VTEX utilizando [Intelligent Search](/es/docs/tracks/vision-general-intelligent-search), es posible que no se muestre el producto deseado, aunque el término utilizado en la búsqueda esté presente en la información registrada del ítem.

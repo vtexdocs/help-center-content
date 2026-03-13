@@ -1,5 +1,5 @@
 ---
-title: 'O Site Editor da minha loja não está funcionando'
+title: O Site Editor da minha loja não está funcionando
 id: 3A6Ois91zEZ8zpKJp1wsP2
 status: PUBLISHED
 createdAt: 2024-08-26T16:52:35.556Z
@@ -16,8 +16,8 @@ subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
   - Storefront
   - Admin
-  - Loading issue
-  - Access restriction
+  - Erro de carregamento
+  - Restrição de acesso
 ---
 
 O [Site Editor](https://developers.vtex.com/docs/guides/working-with-site-editor) é o Content Management System (CMS) disponível para lojas que utilizam o [Store Framework](https://developers.vtex.com/docs/guides/store-framework). Em algumas situações, você pode encontrar dificuldades para abrir o Site Editor ou salvar conteúdo.

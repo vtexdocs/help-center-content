@@ -1,5 +1,5 @@
 ---
-title: 'Não consigo atualizar o EAN dos meus SKUs por API'
+title: Não consigo atualizar o EAN dos meus SKUs por API
 id: 1gHfGo3TpSTHqb5ZNzwq3m
 status: PUBLISHED
 createdAt: 2024-06-18T16:50:42.770Z
@@ -14,9 +14,9 @@ legacySlug: nao-consigo-atualizar-o-ean-dos-meus-skus-por-api
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Catalog
-  - Integrations
-  - Validation error
+  - Catálogo
+  - Integrações
+  - Erro de validação
 ---
 
 Ao tentar atualizar o EAN (número de artigo europeu), que contém as informações do código de barras de um SKU, no Admin VTEX e na API, você pode encontrar problemas de sincronização do catálogo da loja, afetando o gerenciamento de estoque e a experiência do cliente.

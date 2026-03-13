@@ -1,5 +1,5 @@
 ---
-title: 'Promoção não foi aplicada ao cluster de clientes'
+title: Promoção não foi aplicada ao cluster de clientes
 id: 1fQEKdmWwIAPfDQAbuP3Kr
 status: PUBLISHED
 createdAt: 2025-02-28T18:00:30.100Z
@@ -14,8 +14,8 @@ legacySlug: promocao-nao-foi-aplicada-ao-cluster-de-clientes
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
 tags:
-  - Promotions
-  - Misconfiguration
+  - Promoções
+  - Configuração incorreta
 ---
 
 Uma [promoção personalizada](/pt/docs/tutorials/criando-promocao-para-um-cluster-de-clientes) pode ser configurada para atender a um grupo específico de usuários em sua loja, ou seja, um [cluster de clientes](/pt/docs/tutorials/como-criar-um-cluster-de-clientes). No entanto, podem ocorrer situações em que a promoção não é exibida corretamente para este público segmentado. As principais causas são:
