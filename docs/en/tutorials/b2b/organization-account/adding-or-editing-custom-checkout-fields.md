@@ -26,39 +26,33 @@ This article covers:
 
 ![Buyer Portal B2B Organization Unit information page](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/organization-account/buyer-portal-b2b-organization-unit-information-page.png)
 
-1. From the B2B Buyer Portal home screen, click the `Company` icon.
-2. In the Organization Unit modal, click **Manage**.
-3. On the Organization Unit information screen, click **Manage contract settings**.
-4. In the **Accounting fields** section, click the name of the custom field you want to edit.
-5. On the custom field screen, click the cog icon (<i class="fas fa-cog"></i>) at the top of the screen to edit the field details.
-6. In **List type**, choose whether the custom field values are used only by the organization unit (`Custom List`) or shared across other organization units of the contract (`Synchronized List`).
-7. In **Input level**, choose whether the custom field applies at the order level or the item level.
-8. In **Input requirement**, choose whether the field is optional or required.
-9. In **Default {field name}**, if needed, enter a default value to be prefilled on all orders where the field applies.
-10. Click `Save`.
+1. Access the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account).
+2. Click the name of the custom field you want to edit.
+3. On the custom field screen, click the cog icon (<i class="fas fa-cog"></i>) at the top of the screen to edit the field details.
+4. In **List type**, choose whether the custom field values are used only by the organization unit (`Custom List`) or shared across other organization units of the contract (`Synchronized List`).
+5. In **Input level**, choose whether the custom field applies at the order level or the item level.
+6. In **Input requirement**, choose whether the field is optional or required.
+7. In **Default {field name}**, if needed, enter a default value to be prefilled on all orders where the field applies.
+8. Click `Save`.
 
 
 ## Add custom field value
 
-1. From the B2B Buyer Portal home screen, click the `Company` icon.
-2. In the Organization Unit modal, click **Manage**.
-3. On the Organization Unit information screen, click **Manage contract settings**.
-4. In the **Accounting fields** section, click the name of the custom field you want to edit.
-5. On the custom field screen, click the `+` icon at the top of the screen.
-6. In the modal that appears, enter the value to assign to the custom field (for example, a PO number or cost center code).
-7. Click `Add`.
+1. Access the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account).
+2. Click the name of the custom field you want to add a value to.
+3. On the custom field screen, click the `+` icon at the top of the screen.
+4. In the modal that appears, enter the value to assign to the custom field (for example, a PO number or cost center code).
+5. Click `Add`.
 
 After completing these steps, you will see a confirmation message indicating the value was successfully created for the custom field.
 
 
 ## Edit custom field value
 
-1. From the Organization Account home screen, click the `Company` icon.
-2. In the Organization Unit modal, click **Manage**.
-3. On the Organization Unit information screen, click **Manage contract settings**.
-4. In the **Accounting fields** section, click the name of the custom field you want to edit.
-5. On the custom field screen, click the ellipsis icon (<i class="fas fa-ellipsis-v"></i>) next to the value you want to edit.
-6. Select one of the following options depending on the desired action:
+1. Access the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account).
+2. Click the name of the custom field you want to edit.
+3. On the custom field screen, click the ellipsis icon (<i class="fas fa-ellipsis-v"></i>) next to the value you want to edit.
+4. Select one of the following options depending on the desired action:
     * **Rename:** change the name of the value.
     * **Set as default:** set the value as the default to be prefilled on all orders where the field applies.
     * **Remove from unit:** remove the value from the organization unit to which it is assigned. This action does not delete the value from the system.
