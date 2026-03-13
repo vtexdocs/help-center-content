@@ -1,0 +1,63 @@
+---
+title: I can't import the price table
+id: bglrzs7gLKWf97q8qRdRm
+status: PUBLISHED
+createdAt: 2024-06-10T15:11:02.787Z
+updatedAt: 2024-11-08T18:50:45.313Z
+publishedAt: 2024-11-08T18:50:45.313Z
+firstPublishedAt: 2024-06-10T17:28:51.238Z
+contentType: tutorial
+productTeam: Marketing & Merchandising
+author: 6DODK49lJPk3yvcoe6GB6g
+slugEN: i-cant-import-the-price-table
+legacySlug: i-cant-import-the-price-table
+locale: en
+subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags:
+  - Prices
+  - Catalog
+  - Validation error
+---
+
+[Price tables, or price spreadsheets](/en/docs/tracks/tabelas-de-preco-definicao-de-conceito), store SKU information which, when applied in specific contexts, such as trade policies, promotions, or customer clusters, allows you to calculate the product prices in a VTEX store. For more information, see [Base price](/en/docs/tracks/preco-base-definicao-de-conceito) and [Fixed price](/en/docs/tracks/preco-fixo-definicao-de-conceito). 
+
+> ⚠️ You cannot import a **calculated price** table into the VTEX Admin. The **Export** function is available for this table only for the merchant to check the final price for each product.
+
+After [importing a price table](/en/docs/tracks/exporting-and-importing-via-a-price-spreadsheet), error messages may display for certain SKUs, as shown in the examples below:
+
+- `"The resource you are looking for cannot be found: Price not found"`
+- `"Error occurred while converting spreadsheet: Object reference not set to an instance of an object."`
+- `"Import Fixed Table Error: Invalid headers - SKU ID"`
+
+If you encounter error messages, incorrect price values, or other difficulties importing a table, check out the possible solutions below.
+
+## Solution
+
+To address any issues when importing a price table, consider the following solutions:
+
+### Templates
+
+Tables created by customers or customized after being exported from the VTEX Admin can generate integration errors when imported.
+
+To avoid this scenario, use only the available templates (base price or fixed price) and do not apply any customizations. Learn more in [Exporting prices](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D#exporting-prices).
+
+### Data input
+
+Errors may occur while completing the table, such as entering the product ID where the SKU ID should be or [adjusting the price of a SKU](/en/docs/tutorials/sku-price-change#price-change-rule) by more than 70% upward or more than 30% downward relative to its current price. This can cause inconsistencies during import.
+
+Make sure that all fields in your table are properly populated based on the guidelines in the following articles:
+
+- [Planilha de preço-base](/en/docs/tutorials/table-of-base-prices)
+- [Planilha de preço fixo](/en/docs/tutorials/filling-out-an-import-spreadsheets-fixed-price-fields)
+
+> ⚠️ Before importing the table into the VTEX Admin, make sure that it does not contain columns with error information (**Error Code** and **Error Message**) or any filters applied to the cells. Importing a table under these conditions may cause errors in the data import process.
+
+Example of a table with filters applied and __Error Code__ and __Error Message__ fields:
+
+![Price spreadsheet](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/merchandising-and-search/i-cant-import-the-price-table_1.PNG)
+
+#### File size
+
+Price tables should not exceed a maximum size limit of 1 megabyte (MB). If your current file is larger, divide the information into files smaller than 1 megabyte (MB).
+
+> ⚠️ All data for a specific SKU must be in a single table. You cannot enter information for the same SKU in different tables.
