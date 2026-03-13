@@ -17160,13 +17160,13 @@
                 {
                   "name": {
                     "en": "Contracts Manager Agent",
-                    "es": "Contracts Manager Agent",
-                    "pt": "Contracts Manager Agent"
+                    "es": "Agente de Gestión de Contratos",
+                    "pt": "Agente de Gerenciamento de Contratos"
                   },
                   "slug": {
                     "en": "contracts-manager-agent",
-                    "es": "",
-                    "pt": ""
+                    "es": "agente-de-gestion-de-contratos",
+                    "pt": "agente-de-gerenciamento-de-contratos"
                   },
                   "origin": "",
                   "type": "markdown",
