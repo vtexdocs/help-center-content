@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6uJgdHqWf1Mo0rUfgxseTn
 ---
 
-De acordo com regulações de proteção de dados, como a [LGPD e a GDPR](https://vtex.com/us-en/privacy-and-agreements/vtex-commitment/), empresas que armazenam dados pessoais de clientes devem atender a solicitações de exclusão de cadastro. A VTEX permite que lojistas solicitem a exclusão desses dados diretamente pelo Copilot.
+De acordo com regulações de proteção de dados, como a LGPD e a GDPR, empresas que armazenam dados pessoais de clientes devem atender a solicitações de exclusão de cadastro. A VTEX permite que lojistas solicitem a exclusão desses dados diretamente pelo Copilot.
 
 ## 1. Verificar dados armazenados no Master Data
 

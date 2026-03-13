@@ -18,39 +18,29 @@ It also allows you to create budgets, configure consumption notifications, set a
 
 On this page, you can learn about the following actions:
 
-* [Opening the sidebar for the account and organizational unit](#opening-the-sidebar-for-the-account-and-organizational-unit)  
 * [Creating a budget](#creating-a-budget)  
 * [Configuring consumption notifications](#configuring-consumption-notifications)  
 * [Configuring budget allocations](#configuring-budget-allocations)  
 * [Editing a budget](#editing-a-budget)  
 * [Deleting budget allocations](#deleting-budget-allocations)
 
-## Opening the sidebar for the account and organizational unit
-
-The sidebar centralizes information about the user's account and the associated organizational unit. To access it, follow the steps below:
-
-1. In the upper right corner, click Company.  
-2. The sidebar displays the account and organizational unit information.  
-3. Click **Budgets**.
-
 ## Creating a budget
 
-To create a new budget for the organizational unit, access the budget list and complete the following required information:
+To create a new budget for the organizational unit, follow the steps below:
 
-1. On the **Budgets** page, click the **`+`** button in the upper right corner.     
-2. In the Add new budget side menu, complete the following fields:    
+1. In the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account), click **Budgets.**
+2. On the **Budgets** page, click the **`+`** button in the upper right corner.     
+3. In the Add new budget side menu, complete the following fields:    
     * **Name:** Enter the name of the budget.  
     * **Amount:** Enter the total amount of the budget.  
     * **Start date:** Enter the effective start date.  
     * **End date:** Enter the effective end date.    
-3. To configure the automatic renewal of the budget, toggle the Renew this budget amount and period upon expiration switch.  
-4. To configure consumption notifications, toggle the Notifications switch.  
-5. Click **Continue to go to the next step of the flow**.   
-6. In the **Add budget allocations** step, choose one of the options below:  
+4. To configure the automatic renewal of the budget, toggle the Renew this budget amount and period upon expiration switch.  
+5. To configure consumption notifications, toggle the Notifications switch.  
+6. Click **Continue to go to the next step of the flow**.   
+7. In the **Add budget allocations** step, choose one of the options below:  
     * To add allocations immediately, select an allocation type and click Add.  
     * To skip allocation configuration at this point, click Skip.
-
-   
 
 After finishing the flow, the new budget appears in the budget list.
 
@@ -89,27 +79,29 @@ Allocations define the contexts in which the budget can be used during checkout.
 
 After creating a budget, you can view its details and perform management actions. To access and manage a budget, follow the steps below:
 
-1. On the **Budgets** page, find the desired budget in the list.
-2. Click the budget name to access its details page.
-3. On the budget details page, check the following:
+1. In the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account), click **Budgets**.
+2. On the **Budgets** page, find the desired budget in the list.
+3. Click the budget name to access its details page.
+4. On the budget details page, check the following:
     * **Remaining balance**: Displays the available balance.
     * **Settings**: Displays the general settings.
     * **Notifications**: Displays the configured notification rules.
     * **Allocations**: Displays the allocations associated with the budget.
-4. In the **Settings** section, click Edit to edit the general settings.
-5. In the **Notifications** section, click Edit to edit notifications.
-6. In the Allocations section, click Add to add new allocations
-7. Click the trash icon to delete an existing allocation.
+5. In the **Settings** section, click Edit to edit the general settings.
+6. In the **Notifications** section, click Edit to edit notifications.
+7. In the Allocations section, click Add to add new allocations
+8. Click the trash icon to delete an existing allocation.
 
 ## Deleting budget allocations
 
 Deleting allocations prevents a budget from being applied to certain contexts during checkout. To delete allocations associated with a budget, follow the steps below:
 
-1. On the Budgets page, find the desired budget in the list.
-2. Click the budget name to access the Budget details.
-3. In the Allocations section, find the allocation you want to delete.
-4. Click the trash icon at the end of the allocation row.
-5. If requested, confirm the deletion.
+1. In the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account), click **Budgets**.
+2. On the **Budgets** page, find the desired budget in the list.
+3. Click the budget name to access the Budget details.
+4. In the Allocations section, find the allocation you want to delete.
+5. Click the trash icon at the end of the allocation row.
+6. If requested, confirm the deletion.
 
 After deleting, the allocation is no longer linked to the budget.
 

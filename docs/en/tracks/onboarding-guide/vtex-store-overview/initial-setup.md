@@ -37,11 +37,11 @@ The VTEX contractual process involves a VTEX sales representative, the contracto
 * Legal conditions agreed in the negotiation.
 * Details of the legal representatives of VTEX and the contractor.
 * Information of the VTEX witness and the contractor witness.
-* [MSA (Master Services Agreement)](https://vtex.com/us-en/privacy-and-agreements/agreements/) link.
+* [MSA (Master Services Agreement)](https://vtex.com/us-en/trust/agreements) link.
 
 Once the agreement has been signed, all parties involved receive a copy of the MSA + Appendix 1 Order Form via email. New clients should review the MSA (Master Services Agreement) and consider the company location.
 
-If you already have a partnership with VTEX, the MSA can be found at the top of the Appendix 1 Order Form or on the [Agreements Archive page](https://vtex.com/us-en/privacy-and-agreements/agreements-archive/), depending on the region and the date the Appendix 1 was signed.
+If you already have a partnership with VTEX, the MSA can be found at the top of the Appendix 1 Order Form or on the [Agreements Archive page](https://vtex.com/us-en/trust/agreements-archive/), depending on the region and the date the Appendix 1 was signed.
 
 ## Gaining access to the VTEX Admin
 

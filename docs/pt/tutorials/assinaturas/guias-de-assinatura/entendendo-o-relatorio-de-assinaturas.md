@@ -54,7 +54,7 @@ As colunas correspondem a uma informação específica sobre a assinatura, confo
 | AddressType | Tipo do endereço. |
 | PaymentSystem Name | Tipo de pagamento da assinatura. |
 | Account Id | ID da conta. |
-| Selected Sla | O [Service Level Agreement (SLA)](https://vtex.com/br-pt/privacy-and-agreements/agreements/) escolhido. |
+| Selected Sla | O [Service Level Agreement (SLA)](https://vtex.com/br-pt/trust/agreements) escolhido. |
 | Cycle | Número que identifica o ciclo da assinatura. |
 | Created At | Data de criação da assinatura. |
 | Last Update | Última atualização da assinatura. |
@@ -91,7 +91,7 @@ As colunas correspondem a uma informação específica sobre a assinatura, confo
 | AddressType | Tipo do endereço. |
 | PaymentSystem Name | Tipo de pagamento da assinatura. |
 | Account Id | ID da conta. |
-| Selected Sla | O [Service Level Agreement (SLA)](https://vtex.com/br-pt/privacy-and-agreements/agreements/) escolhido. |
+| Selected Sla | O [Service Level Agreement (SLA)](https://vtex.com/br-pt/trust/agreements) escolhido. |
 | Cycle | Número que identifica o ciclo da assinatura. |
 | Created At | Data de criação da assinatura. |
 | Last Update | Última atualização da assinatura. |
@@ -128,7 +128,7 @@ As colunas correspondem a uma informação específica sobre a assinatura, confo
 | AddressType | Tipo do endereço. |
 | PaymentSystem Name | Tipo de pagamento da assinatura. |
 | Account Id | ID da conta. |
-| Selected Sla | O [Service Level Agreement (SLA)](https://vtex.com/br-pt/privacy-and-agreements/agreements/) escolhido. |
+| Selected Sla | O [Service Level Agreement (SLA)](https://vtex.com/br-pt/trust/agreements) escolhido. |
 | Cycle | Número que identifica o ciclo da assinatura. |
 | Created At | Data de criação da assinatura. |
 | Last Update | Última atualização da assinatura. |
@@ -165,7 +165,7 @@ As colunas correspondem a uma informação específica sobre a assinatura, confo
 | AddressType | Tipo do endereço. |
 | PaymentSystem Name | Tipo de pagamento da assinatura. |
 | Account Id | ID da conta. |
-| Selected Sla | O [Service Level Agreement (SLA)](https://vtex.com/br-pt/privacy-and-agreements/agreements/) escolhido. |
+| Selected Sla | O [Service Level Agreement (SLA)](https://vtex.com/br-pt/trust/agreements) escolhido. |
 | Cycle | Número que identifica o ciclo da assinatura. |
 | Created At | Data de criação da assinatura. |
 | Last Update | Última atualização da assinatura. |
