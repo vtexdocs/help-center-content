@@ -56,7 +56,7 @@ Las columnas corresponden a información específica sobre la suscripción, conf
 | AddressType | Tipo de dirección. |
 | PaymentSystem Name | Tipo de pago de la suscripción. |
 | Account Id | ID de la cuenta. |
-| Selected Sla | [Service Level Agreement (SLA)](<https://vtex.com/co-es/privacy-and-agreements/agreements/>) elegido. |
+| Selected Sla | [Service Level Agreement (SLA)](<https://vtex.com/co-es/trust/agreements>) elegido. |
 | Cycle | Número que identifica el ciclo de la suscripción. |
 | Created At | Fecha de creación de la suscripción. |
 | Last Update | Última actualización de la suscripción. |
@@ -93,7 +93,7 @@ Las columnas corresponden a información específica sobre la suscripción, conf
 | AddressType | Tipo de dirección. |
 | PaymentSystem Name | Tipo de pago de la suscripción. |
 | Account Id | ID de la cuenta. |
-| Selected Sla | [Service Level Agreement (SLA)](<https://vtex.com/co-es/privacy-and-agreements/agreements/>) elegido. |
+| Selected Sla | [Service Level Agreement (SLA)](<https://vtex.com/co-es/trust/agreements>) elegido. |
 | Cycle | Número que identifica el ciclo de la suscripción. |
 | Created At | Fecha de creación de la suscripción. |
 | Last Update | Última actualización de la suscripción. |
@@ -130,7 +130,7 @@ Las columnas corresponden a información específica sobre la suscripción, conf
 | AddressType | Tipo de dirección. |
 | PaymentSystem Name | Tipo de pago de la suscripción. |
 | Account Id | ID de la cuenta. |
-| Selected Sla | [Service Level Agreement (SLA)](https://vtex.com/co-es/privacy-and-agreements/agreements/) elegido. |
+| Selected Sla | [Service Level Agreement (SLA)](https://vtex.com/co-es/trust/agreements) elegido. |
 | Cycle | Número que identifica el ciclo de la suscripción. |
 | Created At | Fecha de creación de la suscripción. |
 | Last Update | Última actualización de la suscripción. |
@@ -167,7 +167,7 @@ Las columnas corresponden a información específica sobre la suscripción, conf
 | AddressType | Tipo de dirección. |
 | PaymentSystem Name | Tipo de pago de la suscripción. |
 | Account Id | ID de la cuenta. |
-| Selected Sla | [Service Level Agreement (SLA)](https://vtex.com/co-es/privacy-and-agreements/agreements/) elegido. |
+| Selected Sla | [Service Level Agreement (SLA)](https://vtex.com/co-es/trust/agreements) elegido. |
 | Cycle | Número que identifica el ciclo de la suscripción. |
 | Created At | Fecha de creación de la suscripción. |
 | Last Update | Última actualización de la suscripción. |

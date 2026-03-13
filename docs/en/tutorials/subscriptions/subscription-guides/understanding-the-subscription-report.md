@@ -54,7 +54,7 @@ The columns correspond to specific information about the subscription, as descri
 | AddressType | Type of address. |
 | PaymentSystem Name | Payment method used in the subscription. |
 | Account Id | ID of the account. |
-| Selected Sla | The [Service Level Agreement (SLA)](https://vtex.com/us-en/privacy-and-agreements/agreements/) selected. |
+| Selected Sla | The [Service Level Agreement (SLA)](https://vtex.com/us-en/trust/agreements) selected. |
 | Cycle | Number that identifies the cycle of the subscription. |
 | Created At | Date the subscription was created. |
 | Last Update | Date of the last update. |
@@ -91,7 +91,7 @@ The columns correspond to specific information about the subscription, as descri
 | AddressType | Type of address. |
 | PaymentSystem Name | Payment method used in the subscription. |
 | Account Id | ID of the account. |
-| Selected Sla | The [Service Level Agreement (SLA)](https://vtex.com/br-pt/privacy-and-agreements/agreements/) selected. |
+| Selected Sla | The [Service Level Agreement (SLA)](https://vtex.com/br-pt/trust/agreements) selected. |
 | Cycle | Number that identifies the cycle of the subscription. |
 | Created At | Date the subscription was created. |
 | Last Update | Date of the last update. |
@@ -128,7 +128,7 @@ The columns correspond to specific information about the subscription, as descri
 | AddressType | Type of address. |
 | PaymentSystem Name | Payment method used in the subscription. |
 | Account Id | ID of the account. |
-| Selected Sla | The [Service Level Agreement (SLA)](https://vtex.com/us-en/privacy-and-agreements/agreements/) selected. |
+| Selected Sla | The [Service Level Agreement (SLA)](https://vtex.com/us-en/trust/agreements) selected. |
 | Cycle | Number that identifies the cycle of the subscription. |
 | Created At | Date the subscription was created. |
 | Last Update | Date of the last update. |
@@ -165,7 +165,7 @@ The columns correspond to specific information about the subscription, as descri
 | AddressType | Type of address. |
 | PaymentSystem Name | Payment method used in the subscription. |
 | Account Id | ID of the account. |
-| Selected Sla | The [Service Level Agreement (SLA)](https://vtex.com/us-en/privacy-and-agreements/agreements/) selected. |
+| Selected Sla | The [Service Level Agreement (SLA)](https://vtex.com/us-en/trust/agreements) selected. |
 | Cycle | Number that identifies the cycle of the subscription. |
 | Created At | Date the subscription was created. |
 | Last Update | Date of the last update. |
