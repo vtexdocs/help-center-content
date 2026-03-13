@@ -17159,6 +17159,21 @@
                 },
                 {
                   "name": {
+                    "en": "Contracts Manager Agent",
+                    "es": "Agente de Gestión de Contratos",
+                    "pt": "Agente de Gerenciamento de Contratos"
+                  },
+                  "slug": {
+                    "en": "contracts-manager-agent",
+                    "es": "agente-de-gestion-de-contratos",
+                    "pt": "agente-de-gerenciamento-de-contratos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Custom checkout fields",
                     "es": "Campos personalizables del checkout",
                     "pt": "Campos customizáveis no checkout"
