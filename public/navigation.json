@@ -17099,6 +17099,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Accounting fields",
+                    "es": "Campos contables del checkout",
+                    "pt": "Campos contábeis"
+                  },
+                  "slug": {
+                    "en": "accounting-fields",
+                    "es": "campos-contables-del-checkout",
+                    "pt": "campos-contabeis-do-checkout"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "B2B contracts",
                     "es": "Contratos B2B",
                     "pt": "Contratos B2B"
@@ -17174,21 +17189,6 @@
                 },
                 {
                   "name": {
-                    "en": "Custom checkout fields",
-                    "es": "Campos personalizables del checkout",
-                    "pt": "Campos customizáveis no checkout"
-                  },
-                  "slug": {
-                    "en": "custom-checkout-fields",
-                    "es": "campos-personalizables-del-checkout",
-                    "pt": "campos-customizaveis-do-checkout"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Organization Units",
                     "es": "Unidades de organización",
                     "pt": "Organization Units"
@@ -17235,6 +17235,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Adding or editing accounting fields",
+                    "es": "Agregar o editar campos contables",
+                    "pt": "Adicionar ou editar campos contábeis"
+                  },
+                  "slug": {
+                    "en": "adding-or-editing-accounting-fields",
+                    "es": "agregar-o-editar-campos-contables",
+                    "pt": "adicionar-ou-editar-campos-contabeis"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Adding or editing budgets",
                     "es": "Agregar o editar presupuestos",
                     "pt": "Adicionar ou editar budgets"
@@ -17258,21 +17273,6 @@
                     "en": "adding-or-editing-buying-policies",
                     "es": "agregar-o-editar-politicas-de-compras",
                     "pt": "adicionar-ou-editar-buying-policies"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Adding or editing custom checkout fields",
-                    "es": "Agregar o editar campos personalizables del checkout",
-                    "pt": "Adicionar ou editar campos customizáveis do checkout"
-                  },
-                  "slug": {
-                    "en": "adding-or-editing-custom-checkout-fields",
-                    "es": "agregar-o-editar-campos-personalizables-del-checkout",
-                    "pt": "adicionar-ou-editar-campos-customizaveis"
                   },
                   "origin": "",
                   "type": "markdown",
