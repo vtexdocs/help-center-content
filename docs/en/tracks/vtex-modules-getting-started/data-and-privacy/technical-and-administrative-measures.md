@@ -23,7 +23,7 @@ The tools we provide on the platform are designed to ensure that stores comply w
 
 VTEX maintains appropriate technical and organizational measures to protect the security, confidentiality, and integrity of personal data when providing services.
 
-See below the practices adopted by VTEX, detailed in the[ DPA](https://vtex.com/us-en/privacy-and-agreements/data-processing-addendum/):
+See below the practices adopted by VTEX, detailed in the[ DPA](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/):
 
 - Antivirus policy.
 - Information classification.
@@ -42,7 +42,7 @@ For more information, see [Security Practices - VTEX](https://vtex.com/us-en/sec
 
 ## Storage
 
-The [hosting provider](https://vtex.com/us-en/privacy-and-agreements/subprocessors/) used by VTEX is Amazon Web Services (AWS), which stores data in the Northern Virginia region of the United States. The AWS platform is a benchmark in the cloud hosting sector and has important certifications, such as ISO 27001, PCI DSS, CSA, NIST, etc. For a detailed list of certifications, see [AWS Compliance Programs](https://aws.amazon.com/en/compliance/programs/). Authorization for data storage on AWS can be found in our [DPA](https://vtex.com/us-en/privacy-and-agreements/data-processing-addendum/).
+The [hosting provider](https://compliance.vtex.com/?itemUid=e3fae2ca-94a9-416b-b577-5c90e382df57&source=click/) used by VTEX is Amazon Web Services (AWS), which stores data in the Northern Virginia region of the United States. The AWS platform is a benchmark in the cloud hosting sector and has important certifications, such as ISO 27001, PCI DSS, CSA, NIST, etc. For a detailed list of certifications, see [AWS Compliance Programs](https://aws.amazon.com/en/compliance/programs/). Authorization for data storage on AWS can be found in our [DPA](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/).
 
 VTEX only stores personal data for as long as necessary to process the service provided.
 
@@ -54,4 +54,4 @@ Responsibility for compliance with applicable laws and regulations lies with the
 
 VTEX makes data available based on the technical capacity of each module. However, if specific legislation needs to be complied with, merchants need to extract the relevant data from the platform. Therefore, each merchant must manage their own retention periods as required by the applicable legislation, using the resources available on the platform accordingly.
 
-VTEX must store customer personal data for the duration of the [MSA](https://vtex.com/us-en/privacy-and-agreements/agreements/). In the event of contract termination with VTEX, the merchant must ensure that the data is extracted from the Master Data within thirty (30) days before the MSA termination date, in compliance with Clause 7 of the [DPA](https://vtex.com/us-en/privacy-and-agreements/data-processing-addendum/).
+VTEX must store customer personal data for the duration of the [MSA](https://vtex.com/us-en/trust/agreements). In the event of contract termination with VTEX, the merchant must ensure that the data is extracted from the Master Data within thirty (30) days before the MSA termination date, in compliance with Clause 7 of the [DPA](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/).

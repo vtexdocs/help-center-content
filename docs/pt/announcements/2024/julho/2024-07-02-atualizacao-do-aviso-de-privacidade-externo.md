@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Atualizamos o Aviso de Privacidade sobre o tratamento de dados pessoais de Shoppers na VTEX.'
 ---
 
-Revisamos o [Aviso de Privacidade](https://vtex.com/br-pt/privacy-and-agreements/external-notice/) que explica como a VTEX trata dados pessoais de _Shoppers_, ou seja, indivíduos que acessam os ambientes de ecommerce controlados por lojistas que são os clientes diretos da VTEX.
+Revisamos o [Aviso de Privacidade](https://vtex.com/br-pt/trust/general-external-privacy-notice/) que explica como a VTEX trata dados pessoais de _Shoppers_, ou seja, indivíduos que acessam os ambientes de ecommerce controlados por lojistas que são os clientes diretos da VTEX.
 
 O documento contém informações sobre os seguintes aspectos:
 
@@ -36,4 +36,4 @@ Atualizamos o Aviso de Privacidade em alinhamento com legislações e com nossas
 
 ## O que precisa ser feito?
 
-Nenhuma ação é necessária. O documento já está disponível em todos os idiomas no site da VTEX. Para mais informações, você pode acessar o novo aviso em [Aviso de Privacidade Externo](https://vtex.com/br-pt/privacy-and-agreements/external-notice/) e o guia de primeiros passos [Dados e privacidade](/pt/tracks/dados-e-privacidade--4Lc0i0an0DgnEtB0AUwlcq).
+Nenhuma ação é necessária. O documento já está disponível em todos os idiomas no site da VTEX. Para mais informações, você pode acessar o novo aviso em [Aviso de Privacidade Externo](https://vtex.com/br-pt/trust/general-external-privacy-notice/) e o guia de primeiros passos [Dados e privacidade](/pt/tracks/dados-e-privacidade--4Lc0i0an0DgnEtB0AUwlcq).

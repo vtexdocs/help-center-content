@@ -1,5 +1,5 @@
 ---
-title: 'B2B organization general settings'
+title: 'B2B organization general settings (B2B Suite)'
 id: 6OSJHuiJJ7beRZaflNtzx5
 status: PUBLISHED
 createdAt: 2024-06-07T11:34:25.125Z
@@ -14,6 +14,8 @@ legacySlug: b2b-organization-general-settings
 locale: en
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
+
+> ⚠️ This documentation applies to B2B Suite only.
 
 The general settings page allows users to enter basic information for each B2B organization integrated with VTEX.
 

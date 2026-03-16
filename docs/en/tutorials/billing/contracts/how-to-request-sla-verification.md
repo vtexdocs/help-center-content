@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-The four levels of service of our SLA, and the discounts granted due to breaking it, are mentioned in your contract. If you have not received one, the reason may be the automatic acceptance of our [adhesion term](/en/faq/why-didnt-i-receive-the-signed-contract-from-vtex). However, whenever you want, you can check your SLA [here](https://vtex.com/us-en/privacy-and-agreements/agreements/).
+The four levels of service of our SLA, and the discounts granted due to breaking it, are mentioned in your contract. If you have not received one, the reason may be the automatic acceptance of our [adhesion term](/en/faq/why-didnt-i-receive-the-signed-contract-from-vtex). However, whenever you want, you can check your SLA [here](https://vtex.com/us-en/trust/agreements).
 
 ## Before requesting SLA verification, keep in mind:
 

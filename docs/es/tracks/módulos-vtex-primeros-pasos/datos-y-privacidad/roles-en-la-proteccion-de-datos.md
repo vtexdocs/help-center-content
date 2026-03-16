@@ -22,13 +22,13 @@ Para garantizar la seguridad y privacidad de la información, existen roles dist
 | Titular de los dados | El titular es el propietario de sus propios datos personales. <br><br> Por ejemplo, un cliente en una tienda es el propietario de sus datos personales, y los utiliza para realizar una compra. |
 | Responsable del tratamiento | El responsable del tratamiento es la persona que decide los fines y criterios, de conformidad con las leyes sobre protección de datos, para utilizar datos personales. El responsable del tratamiento también determina la forma en que los encargados del tratamiento utilizarán los datos.  <br><br> Por ejemplo, el responsable del tratamiento de datos es el retailer, ya que decide los datos del cliente que son necesarios para realizar una compra. |
 | Encargado del tratamiento de datos | El encargado del tratamiento de datos es la persona que trata los datos personales por orden del responsable del tratamiento. <br><br> Por ejemplo, VTEX es el encargado que realiza el tratamiento de datos de los clientes finales en nombre de la tienda. VTEX no trata los datos sensibles de los clientes finales por decisión propia, sino únicamente por instrucciones directas de los gestores de la tienda. <br><br> Los términos de este tratamiento que realiza VTEX se definen en el [Data Processing Addendum (DPA)](#data-processing-addendum-dpa). |
-| Encargado secundario del tratamiento de datos | El encargado secundario del tratamiento de datos es una empresa tercera que procesa datos personales en nombre del encargado. El responsable del tratamiento de los datos debe tener visibilidad y estar de acuerdo con la contratación de un encargado secundario.  <br><br> Los encargados secundarios son los proveedores de infraestructuras y las sucursales de VTEX. Consulta la [lista completa de encargados secundarios VTEX](https://vtex.com/co-es/privacy-and-agreements/subprocessors/). |
+| Encargado secundario del tratamiento de datos | El encargado secundario del tratamiento de datos es una empresa tercera que procesa datos personales en nombre del encargado. El responsable del tratamiento de los datos debe tener visibilidad y estar de acuerdo con la contratación de un encargado secundario.  <br><br> Los encargados secundarios son los proveedores de infraestructuras y las sucursales de VTEX. Consulta la [lista completa de encargados secundarios VTEX](https://compliance.vtex.com/?itemUid=e3fae2ca-94a9-416b-b577-5c90e382df57&source=click/). |
 
 ## Data Processing Addendum (DPA)
 
 El Data Processing Addendum (DPA) es el contrato entre el responsable del tratamiento (retailer) y el encargado del tratamiento de los datos (VTEX), que tiene como objetivo regular la forma en que VTEX procesa los datos personales en nombre del retailer.
 
-Este documento es un anexo al [Master Services Agreement (MSA)](https://vtex.com/co-es/privacy-and-agreements/agreements/), el contrato que regula la relación entre VTEX y retailers y establece las reglas de uso de la plataforma VTEX y de cualesquiera otros servicios o productos contratados.
+Este documento es un anexo al [Master Services Agreement (MSA)](https://vtex.com/co-es/trust/agreements), el contrato que regula la relación entre VTEX y retailers y establece las reglas de uso de la plataforma VTEX y de cualesquiera otros servicios o productos contratados.
 
 El DPA sigue el estándar establecido por el [Reglamento General de Protección de Datos (RGPD)](https://gdpr-info.eu/), la legislación más restrictiva en materia de privacidad de datos.
 
@@ -36,7 +36,7 @@ En dicho documento podrás consultar la siguiente información:
 
 * Roles del encargado y responsable del tratamiento de los datos.
 * Cumplimiento de los derechos de los titulares de los datos.
-* [Encargados secundarios](https://vtex.com/co-es/privacy-and-agreements/subprocessors/).
+* [Encargados secundarios](https://compliance.vtex.com/?itemUid=e3fae2ca-94a9-416b-b577-5c90e382df57&source=click/).
 * Nuestras [medidas técnicas y administrativas](/es/docs/tracks/medidas-tecnicas-y-administrativas) de seguridad de los datos.
 * Gestión de incidentes de seguridad.
 * Limitaciones de responsabilidad:
@@ -49,7 +49,7 @@ VTEX no utiliza los datos de los clientes finales para ningún otro fin que no s
 
 El DPA utilizado debe corresponder a la región específica del titular de los datos (cliente de la tienda).
 
-> ⚠️ Accede a [Data Processing Addendum - VTEX](https://vtex.com/co-es/privacy-and-agreements/data-processing-addendum/) para ver el DPA predeterminado de VTEX para cada región.
+> ⚠️ Accede a [Data Processing Addendum - VTEX](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/) para ver el DPA predeterminado de VTEX para cada región.
 
 ## Responsabilidades compartidas
 
@@ -57,13 +57,13 @@ Tanto VTEX como los retailers deben garantizar la seguridad de los datos persona
 
 ## Responsabilidades de VTEX
 
-VTEX, como encargada del tratamiento de los datos, podrá asistir al retailer en el cumplimiento de los derechos de los titulares, en la realización de informes de impacto sobre la privacidad y en la notificación de cualquier incidencia sobre datos personales de la que tenga conocimiento. Además, VTEX se compromete a cumplir las [medidas de seguridad técnicas y administrativas](/es/docs/tracks/medidas-tecnicas-y-administrativas) establecidas en el [DPA](https://vtex.com/co-es/privacy-and-agreements/data-processing-addendum/).
+VTEX, como encargada del tratamiento de los datos, podrá asistir al retailer en el cumplimiento de los derechos de los titulares, en la realización de informes de impacto sobre la privacidad y en la notificación de cualquier incidencia sobre datos personales de la que tenga conocimiento. Además, VTEX se compromete a cumplir las [medidas de seguridad técnicas y administrativas](/es/docs/tracks/medidas-tecnicas-y-administrativas) establecidas en el [DPA](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/).
 
 ## Responsabilidades de retailers
 
-Los retailers, como responsables del tratamiento, son quienes deben determinar los fines y medios del tratamiento de datos personales. Por lo tanto, los retailers deben instruir a VTEX, en los términos contenidos en el [DPA](https://vtex.com/co-es/privacy-and-agreements/data-processing-addendum/), para que los datos personales puedan ser utilizados en la plataforma con el fin de llevar a cabo operaciones de ecommerce.
+Los retailers, como responsables del tratamiento, son quienes deben determinar los fines y medios del tratamiento de datos personales. Por lo tanto, los retailers deben instruir a VTEX, en los términos contenidos en el [DPA](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/), para que los datos personales puedan ser utilizados en la plataforma con el fin de llevar a cabo operaciones de ecommerce.
 
-En el contexto comercial, corresponde al retailer definir la base jurídica para utilizar los datos personales de los clientes (titulares de los datos). Las bases jurídicas son los casos en los que la ley permite el uso de datos personales, por ejemplo, el consentimiento. Dichas bases jurídicas no son aplicables a VTEX, ya que solo actúa como encargada del tratamiento de los datos, en los términos del [DPA](https://vtex.com/co-es/privacy-and-agreements/data-processing-addendum/), y no decide los fines para los que se utilizan los datos personales.
+En el contexto comercial, corresponde al retailer definir la base jurídica para utilizar los datos personales de los clientes (titulares de los datos). Las bases jurídicas son los casos en los que la ley permite el uso de datos personales, por ejemplo, el consentimiento. Dichas bases jurídicas no son aplicables a VTEX, ya que solo actúa como encargada del tratamiento de los datos, en los términos del [DPA](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/), y no decide los fines para los que se utilizan los datos personales.
 
 ### Reglamentos de privacidad
 
@@ -71,7 +71,7 @@ Cada retailer debe realizar su propia evaluación de riesgos de privacidad, [inf
 
 Los retailers deben aplicar sus propias medidas de seguridad y, en caso de incidentes relacionados con datos personales, deben notificarlo a las autoridades de protección de datos y a los titulares de los datos en conformidad con la legislación aplicable. Si tienes dudas específicas sobre las leyes de privacidad que se aplican a tu tienda, tus clientes finales, o necesitas asesoramiento sobre aspectos legales relacionados con tu negocio, te recomendamos consultar a un profesional especializado en protección de datos personales. 
 
-VTEX prestará asistencia al retailer en algunas de estas obligaciones, como las respuestas a los derechos de los titulares y la notificación de incidentes de seguridad, en virtud del [DPA](https://vtex.com/co-es/privacy-and-agreements/data-processing-addendum/).
+VTEX prestará asistencia al retailer en algunas de estas obligaciones, como las respuestas a los derechos de los titulares y la notificación de incidentes de seguridad, en virtud del [DPA](https://compliance.vtex.com/?itemName=data_privacy&source=click&itemUid=c4223a81-5840-4e11-ac9f-2b812794a67e/).
 
 ### Acceso a la plataforma
 

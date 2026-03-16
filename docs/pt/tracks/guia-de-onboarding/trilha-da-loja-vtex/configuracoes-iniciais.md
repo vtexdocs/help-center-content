@@ -38,11 +38,11 @@ O processo de contratação da VTEX ocorre entre representante de vendas VTEX, c
 * Condições jurídicas estabelecidas na negociação. 
 * Dados dos representantes legais da VTEX e da contratante. 
 * Dados das testemunhas da VTEX e da contratante.
-* Link para o [MSA (Master Services Agreement)](https://vtex.com/br-pt/privacy-and-agreements/agreements/). 
+* Link para o [MSA (Master Services Agreement)](https://vtex.com/br-pt/trust/agreements). 
 
 Após a assinatura do contrato, todos os envolvidos recebem uma cópia do MSA + Anexo 1 Order Form via email. Novos clientes devem visualizar o MSA (_Master Services Agreement_) e considerar a região na qual está situada a empresa. 
 
-Para os que já têm parceria firmada com a VTEX, o MSA pode ser encontrado no topo do Anexo 1 Order Form, ou na [página de Contratos Anteriores](https://vtex.com/br-pt/privacy-and-agreements/agreements-archive/), a depender da região e da data em que o Anexo 1 foi assinado.
+Para os que já têm parceria firmada com a VTEX, o MSA pode ser encontrado no topo do Anexo 1 Order Form, ou na [página de Contratos Anteriores](https://vtex.com/br-pt/trust/agreements-archive/), a depender da região e da data em que o Anexo 1 foi assinado.
 
 ## Receber acesso ao Admin VTEX
 

@@ -1,5 +1,5 @@
 ---
-title: 'Price table management in B2B organizations'
+title: 'Price table management in B2B organizations (B2B Suite)'
 id: 1iNpulqvLT2KJ2fnznpN4L
 status: PUBLISHED
 createdAt: 2024-06-25T18:44:58.230Z
@@ -14,6 +14,8 @@ legacySlug: price-table-management-in-b2b-organizations
 locale: en
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
+
+> ⚠️ This documentation applies to B2B Suite only.
 
 The [price tables](/en/tutorial/criar-tabelas-de-precos) in a VTEX B2B operation are essential for customizing the commercial conditions offered to different organizations. They allow you to:
 

@@ -1,7 +1,7 @@
 ---
 title: 'Membros da organização compradora'
 createdAt: '2025-02-06T10:00:00.000Z'
-updatedAt: '2025-02-06T10:00:00.000Z'
+updatedAt: '2025-03-12T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: buyer-organization-members
@@ -10,7 +10,9 @@ locale: pt
 
 Em uma organização compradora B2B, os membros são as pessoas que interagem com a loja em nome da organização. Suas ações são definidas pelos perfis de acesso e permissões atribuídos a eles e pela forma como a organização usa **informações de contato** e **dados do comprador**. Este artigo explica os tipos de membros e conceitos relacionados para que você entenda quem pode fazer o quê na sua organização.
 
-## Perfis de acesso baseados em permissão
+> ⚠️ Esta funcionalidade está disponível apenas para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
+
+## Perfis de acesso do storefront
 
 Os perfis de acesso definem o que cada usuário pode fazer na loja, incluindo a gestão da Organization Account. Cada perfil de acesso possui um conjunto de permissões. Quando você atribui um ou mais perfis de acesso a um usuário, ele passa a ter as capacidades combinadas desses perfis. As permissões são aplicadas na loja para que os usuários vejam e usem apenas os recursos permitidos.
 
@@ -23,7 +25,6 @@ A tabela abaixo resume os principais perfis de acesso e suas funções:
 | **Comprador** | Pode realizar pedidos na loja. |
 | **Aprovador de pedidos** | Pode aprovar ou rejeitar pedidos de acordo com os fluxos de aprovação configurados. |
 | **Modificador de pedidos** | Pode usar a funcionalidade de alteração de pedido nos pedidos aos quais tem acesso. |
-| **Gerente de usuários** | Pode criar, editar e remover usuários na organização. |
 | **Gerente de endereços** | Pode adicionar endereços durante o checkout, salvá-los para o contrato ou unidade organizacional, alterar informações de endereço no checkout e visualizar endereços salvos. |
 | **Gerente da organização compradora** | Pode visualizar todos os pedidos da sua unidade organizacional, gerenciar configurações de autenticação, visualizar cartões de pagamento e visualizar endereços. |
 | **Gerente de contrato** | Pode visualizar pedidos realizados sob o contrato atribuído a ele. |
@@ -34,15 +35,17 @@ A tabela abaixo resume os principais perfis de acesso e suas funções:
 | **Gerente de cotações** | Pode criar, editar e excluir cotações. |
 | **Usuário de cartões pessoais** | Pode usar um novo cartão de crédito no checkout que não é salvo no contrato por padrão. |
 
-## Informações de contato
+> ℹ️ Saiba mais sobre perfis de acesso do storefront e recursos no guia do desenvolvedor [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles).
 
-**Informações de contato** referem-se às pessoas que podem ser selecionadas como destinatárias dos pedidos, ou seja, a pessoa que receberá a entrega. O contato de um pedido pode ser diferente do usuário que fez o pedido. Ao realizar um pedido, o comprador pode escolher para qual contato (destinatário) é o pedido.
+## Recipients
+
+**Recipients** ou **contatos** são as pessoas que podem ser selecionadas como destinatárias dos pedidos, ou seja, a pessoa que receberá a entrega. O contato de um pedido pode ser diferente do usuário que fez o pedido. Ao realizar um pedido, o comprador pode escolher para qual contato (destinatário) é o pedido.
 
 As informações de contato são gerenciadas no nível da organização. Os contatos podem ser vinculados a endereços para que, ao selecionar um endereço de entrega, o usuário possa escolher entre os contatos associados a esse endereço. Isso mantém os dados de destinatários centralizados e reutilizáveis entre pedidos.
 
 Para detalhes técnicos sobre como criar, atualizar e integrar informações de contato via APIs, consulte a [API de informações de contato B2B](https://developers.vtex.com/docs/api-reference/b2b-contact-information-api).
 
-## Compradores (dados do comprador/consumidor)
+## Compradores
 
 **Compradores** são usuários que podem realizar pedidos e estão associados à organização compradora. Os dados do comprador são as informações que identificam e descrevem esses usuários no contexto da loja e dos fluxos de pedidos, por exemplo, para checkout e histórico de pedidos.
 

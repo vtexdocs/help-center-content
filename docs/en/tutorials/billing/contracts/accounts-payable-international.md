@@ -3,7 +3,7 @@ title: 'Accounts Payable - International'
 id: 3yea9sIlsA0KgUC28ASCGs
 status: PUBLISHED
 createdAt: 2018-02-21T18:37:18.803Z
-updatedAt: 2022-02-04T21:17:03.399Z
+updatedAt: 2022-02-19T21:17:03.399Z
 publishedAt: 2022-02-04T21:17:03.399Z
 firstPublishedAt: 2018-02-21T18:46:03.660Z
 contentType: tutorial
@@ -32,6 +32,10 @@ To ensure the conformity of overseas payments, the following procedures must be 
 - March 11th, 2020 - Scheduled date for payment (extended date to Wednesday).
 
 4) Every document must be sent by email to one of the emails listed below, according to the country of the expense. For invoice approval, copy in the responsible who assigned the task. 
+
+> ℹ️ For the invoice to be correctly registered, the supplier must include in the email body the tax identification number (Tax ID) and the invoice number.
+
+The following table lists the email addresses for submitting invoices, according to the country:
 
 | Country | E-mail | 
 | ---------- | ---------- | 

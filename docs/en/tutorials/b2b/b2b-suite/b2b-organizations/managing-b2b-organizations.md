@@ -1,5 +1,5 @@
 ---
-title: 'Managing B2B organizations'
+title: 'Managing B2B organizations (B2B Suite)'
 id: 1UwNCWhML3BsV6anpoUvVZ
 status: PUBLISHED
 createdAt: 2024-06-12T17:24:48.991Z
@@ -14,6 +14,8 @@ legacySlug: managing-b2b-organizations
 locale: en
 subcategoryId: 6bSdupUQgvuXjBL9Igawxl
 ---
+
+> ⚠️ This documentation applies to B2B Suite only.
 
 The **B2B Organizations** app allows you to group B2B users into organizations. You can assign specific payment methods, price lists, and product collections to each organization, allowing all users in the organization to share the same commercial conditions. Each organization is segmented into one or more cost centers, each with its own shipping address.
 
