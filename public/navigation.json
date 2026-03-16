@@ -17105,8 +17105,8 @@
                   },
                   "slug": {
                     "en": "accounting-fields",
-                    "es": "campos-contables-del-checkout",
-                    "pt": "campos-contabeis-do-checkout"
+                    "es": "campos-contables",
+                    "pt": "campos-contabeis"
                   },
                   "origin": "",
                   "type": "markdown",
