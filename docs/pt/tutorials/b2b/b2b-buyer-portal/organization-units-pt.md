@@ -66,7 +66,7 @@ Saiba mais na documentação a seguir:
 
 * [Buying Policies](https://help.vtex.com/pt/docs/tutorials/buying-policies)  
 * [Visão geral de Budgets](https://help.vtex.com/pt/docs/tutorials/visao-geral-de-budgets)  
-* [Campos contábeis](https://help.vtex.com/pt/docs/tutorials/campos-contabeis-do-checkout)
+* [Campos contábeis](https://help.vtex.com/pt/docs/tutorials/campos-contabeis)
 
 ## Usuários de Organization Units
 
