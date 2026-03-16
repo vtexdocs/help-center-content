@@ -57,7 +57,7 @@ Even when sharing the same contract, each unit can operate with its own rules. A
 * Visible product assortment  
 * Payment methods and conditions  
 * Delivery and billing addresses  
-* Custom checkout fields  
+* Accounting fields  
 * Order approval rules
 
 This segmentation allows the store's operation to align with the internal policies of the buyer company.
@@ -66,7 +66,7 @@ Learn more in the following documentation:
 
 * [Buying Policies](https://help.vtex.com/en/docs/tutorials/buying-policies-overview)  
 * [Budgets overview](https://help.vtex.com/en/docs/tutorials/budgets-overview)  
-* [Custom fields in checkout](https://help.vtex.com/en/docs/tutorials/custom-checkout-fields)
+* [Accounting fields](https://help.vtex.com/en/docs/tutorials/accounting-fields)
 
 ## Organization Unit users
 

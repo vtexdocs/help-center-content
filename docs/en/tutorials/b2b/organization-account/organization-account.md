@@ -17,7 +17,7 @@ In this area, companies can configure elements that control how their users make
 - Organization users  
 - Organizational units  
 - Addresses and payment methods  
-- Custom checkout fields  
+- Accounting fields  
 - Budgets  
 - Buying Policies  
 
@@ -58,7 +58,7 @@ In this area, it is possible to access:
 - **Payment methods** — Available payment methods.
 - **Credit cards** — Cards registered for purchases.
 - **Product assortment** — Product catalog available to the unit.
-- **Custom checkout fields** — [Custom fields](https://help.vtex.com/en/docs/tutorials/custom-checkout-fields) configured by the organization, such as **PO Numbers** or **Cost Centers.**
+- **Accounting fields** — [Accounting fields](https://help.vtex.com/en/docs/tutorials/accounting-fields) configured by the organization, such as **PO Numbers** or **Cost Centers.**
 
 ### Organization
 
@@ -104,4 +104,4 @@ Check the articles below for more details about the various tasks that can be pe
 - [Add users to the buyer organization](https://help.vtex.com/en/docs/tutorials/adding-users-to-buyer-organization)
 - [Add or edit budgets](https://help.vtex.com/docs/tutorials/adding-or-editing-budgets)
 - [Add or edit Buying Policies](https://help.vtex.com/en/docs/tutorials/adding-users-to-buyer-organization)
-- [Add or edit custom checkout fields](https://help.vtex.com/docs/tutorials/adding-or-editing-custom-checkout-fields)
+- [Add or edit accounting fields](https://help.vtex.com/docs/tutorials/adding-or-editing-accounting-fields)
