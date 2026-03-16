@@ -32,7 +32,7 @@ O uso de campos contábeis considera dois perfis:
 Os campos podem ser configurados em diferentes níveis:
 
 - **Pedido**: aplica-se à compra inteira.
-- **Item**: aplica-se a produtos específicos no carrinho.
+- **Item**: aplica-se a cada produto no carrinho.
 - **Endereço**: aplica-se às informações de entrega ou cobrança.
 
 ## Tipos de campos
