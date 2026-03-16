@@ -17,7 +17,7 @@ Nessa área empresas podem configurar elementos que controlam como seus usuário
 - Usuários da organização
 - Unidades organizacionais
 - Endereços e métodos de pagamento
-- Campos customizáveis do checkout
+- Campos contábeis
 - Orçamentos
 - Buying Policies
 
@@ -58,7 +58,7 @@ Nessa área é possível acessar:
 - **Payment methods** — Métodos de pagamento disponíveis.
 - **Credit cards** — Cartões cadastrados para compras.
 - **Product assortment** — Catálogo de produtos disponível para a unidade.
-- **Campos customizáveis do checkout** — [Campos customizáveis](https://help.vtex.com/pt/docs/tutorials/campos-customizaveis-do-checkout) configurados pela organização. Como por exemplo "PO Numbers" ou "Cost Centers".
+- **Campos contábeis** — [Campos contábeis](https://help.vtex.com/pt/docs/tutorials/campos-contabeis-do-checkout) configurados pela organização. Como por exemplo "PO Numbers" ou "Cost Centers".
 
 ### Organization
 
@@ -104,4 +104,4 @@ Confira nos artigos abaixo mais detalhes sobre as diversas tarefas que podem ser
 - [Adicionar usuários à organização compradora](https://help.vtex.com/pt/docs/tutorials/adicionar-usuarios-a-organizacao-compradora)
 - [Adicionar ou editar budgets](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-budgets)
 - [Adicionar ou editar Buying Policies](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-buying-policies)
-- [Adicionar ou editar campos customizáveis do checkout](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-campos-customizaveis)
+- [Adicionar ou editar campos contábeis](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-campos-contabeis)

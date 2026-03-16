@@ -84,7 +84,7 @@ Para reduzir preenchimento manual e evitar inconsistências, é possível config
 
 > ⚠️ Apenas campos do tipo `option` podem ser definidos como valor padrão.
 
-> ℹ️ Para mais informações sobre como adicionar ou configurar campos contábeis, acesse [Adicionar ou editar campos contábeis](https://help.vtex.com/pt/docs/tutorials/adding-or-editing-accounting-fields).
+> ℹ️ Para mais informações sobre como adicionar ou configurar campos contábeis, acesse [Adicionar ou editar campos contábeis](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-campos-contabeis).
 
 ## Impacto para o administrador
 
