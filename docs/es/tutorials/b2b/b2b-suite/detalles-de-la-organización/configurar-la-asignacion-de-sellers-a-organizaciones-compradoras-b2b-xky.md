@@ -1,5 +1,5 @@
 ---
-title: 'Configurar la asignación de sellers a organizaciones compradoras (B2B)'
+title: 'Configurar la asignación de sellers a organizaciones compradoras (B2B Suite)'
 id: 3VJtKNbLpVAl71uVdaOqpE
 status: PUBLISHED
 createdAt: 2023-12-21T18:05:34.497Z
@@ -14,6 +14,8 @@ legacySlug: configurar-la-asignacion-de-sellers-a-organizaciones-compradoras-b2b
 locale: es
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
+
+> ⚠️ Esta documentación se aplica solo a B2B Suite.
 
 Fabricantes y distribuidores desempeñan un papel fundamental en el proceso de compras entre empresas (B2B). En determinados escenarios, como en el ámbito de los marketplace, las características operacionales de estos fabricantes y distribuidores pueden llevar a conflictos en los canales de compra. Aquí tienes algunos ejemplos:
 

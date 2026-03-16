@@ -44,7 +44,7 @@ Nessa aba, o seller visualiza uma lista dos anúncios elegíveis para o catálog
 
 Cada linha da lista, representa um anúncio e cada linha é composta pelas seguintes informações dispostas em coluna:
 
-- **Caixa de seleção:** caixa utilizada para selecionar os anúncios desejados e realizar a ação de ` Aceitar sugestão`.  
+- **Caixa de seleção:** caixa utilizada para selecionar os anúncios desejados e realizar a ação de `Aceitar sugestão`.  
 - **Seu anúncio:** produto do catálogo VTEX configurado pelo seller e enviado ao marketplace.  
 - **Sugestão de catálogo:** produto do catálogo sugerido pelo Mercado Livre.
 - **Oportunidade:** tipo de ação indicada pelo Mercado Livre para o anúncio do seller.  

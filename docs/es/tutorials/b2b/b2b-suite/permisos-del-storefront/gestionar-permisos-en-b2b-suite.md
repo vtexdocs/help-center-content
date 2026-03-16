@@ -1,5 +1,5 @@
 ---
-title: 'Gestionar permisos en B2B Suite'
+title: 'Gestionar permisos en B2B Suite (B2B Suite)'
 id: 2PLR7mIFxgbmsGq84paLeA
 status: PUBLISHED
 createdAt: 2024-06-05T18:01:03.375Z
@@ -14,6 +14,8 @@ legacySlug: gestionar-permisos-en-b2b-suite
 locale: es
 subcategoryId: 1qGLxbxcX8kwKSWESbLZca
 ---
+
+> ⚠️ Esta documentación se aplica solo a B2B Suite.
 
 En una organización, el Organization Admin (usuario principal) gestiona el acceso de diferentes personas en una tienda B2B utilizando el sistema de permisos de B2B Suite.
 

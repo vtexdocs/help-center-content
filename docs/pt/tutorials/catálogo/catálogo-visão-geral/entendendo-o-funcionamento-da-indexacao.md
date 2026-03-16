@@ -15,6 +15,8 @@ locale: pt
 subcategoryId: 6jaCCq5pVL7VxL0WNWV0cF
 ---
 
+> ❗ Devido a mudanças na plataforma, a página **Catálogo > Relatórios > Produtos indexados** está apresentando dados e métricas imprecisos e não deve ser usada como referencial de indexação. Saiba mais sobre este [problema conhecido](https://help.vtex.com/pt/known-issues/relatorio-de-indexacao-do-catalogo-retornando-estatisticas-incorretas).
+
 > ⚠️ Tutorial válido apenas para lojas que utilizam a busca do [CMS Portal (Legado)](/pt/docs/tracks/cms-portal-legado). Se a sua loja utiliza o [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search), consulte a página [Histórico da Indexação](/pt/docs/tutorials/historico-da-indexacao) para acompanhar o processo de indexação.
 
 A indexação é um processo que prepara os dados gerais do SKU, tais como dados de catálogo, de preço e de estoque e atualiza as informações para servir de base para pesquisas e montagens das prateleiras do site.

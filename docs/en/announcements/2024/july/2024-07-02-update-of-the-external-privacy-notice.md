@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: "We have updated the Privacy Notice regarding the processing of Shoppers' personal data on VTEX."
 ---
 
-We have revised the [Privacy Notice](https://vtex.com/us-en/privacy-and-agreements/external-notice/) that explains how VTEX processes the personal data of _Shoppers_, i.e., individuals who access ecommerce environments controlled by merchants who are direct clients of VTEX.
+We have revised the [Privacy Notice](https://vtex.com/us-en/trust/general-external-privacy-notice/) that explains how VTEX processes the personal data of _Shoppers_, i.e., individuals who access ecommerce environments controlled by merchants who are direct clients of VTEX.
 
 The document includes information about the following aspects:
 
@@ -36,4 +36,4 @@ We updated the Privacy Notice to align with legislation and our global privacy c
 
 ## What needs to be done?
 
-No action is required. The document is now available in all languages on the VTEX website. For more information, you can access the new [External Privacy Notice](https://vtex.com/us-en/privacy-and-agreements/external-notice/) and the getting started guide [Data and privacy](/en/tracks/data-and-privacy--4Lc0i0an0DgnEtB0AUwlcq).
+No action is required. The document is now available in all languages on the VTEX website. For more information, you can access the new [External Privacy Notice](https://vtex.com/us-en/trust/general-external-privacy-notice/) and the getting started guide [Data and privacy](/en/tracks/data-and-privacy--4Lc0i0an0DgnEtB0AUwlcq).

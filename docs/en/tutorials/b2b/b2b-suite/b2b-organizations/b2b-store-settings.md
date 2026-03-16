@@ -1,5 +1,5 @@
 ---
-title: 'B2B Store Settings'
+title: 'B2B Store Settings (B2B Suite)'
 id: 7riBcnrOv4Cz7qMeACyVLm
 status: PUBLISHED
 createdAt: 2023-10-11T15:17:39.003Z
@@ -14,6 +14,8 @@ legacySlug: b2b-store-settings
 locale: en
 subcategoryId: 6bSdupUQgvuXjBL9Igawxl
 ---
+
+> ⚠️ This documentation applies to B2B Suite only.
 
 This page allows defining the behavior of B2B stores related to organization approval, user experience during navigation between companies, and linked trade policies.
 
