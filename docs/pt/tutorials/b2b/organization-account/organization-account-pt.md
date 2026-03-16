@@ -1,7 +1,7 @@
 ---
 title: 'Organization Account'
 createdAt: '2025-03-09T10:00:00.000Z'
-updatedAt: '2025-03-09T10:00:00.000Z'
+updatedAt: '2026-03-16T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: organization-account

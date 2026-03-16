@@ -1,7 +1,7 @@
 ---
 title: 'Custom fields in B2B checkout'
 createdAt: '2026-02-09T10:00:00.000Z'
-updatedAt: '2026-02-09T10:00:00.000Z'
+updatedAt: '2026-03-09T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: custom-fields-in-b2b-checkout
