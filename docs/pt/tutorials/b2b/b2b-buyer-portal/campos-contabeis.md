@@ -1,7 +1,7 @@
 ---
 title: 'Campos contábeis'
-createdAt: '2026-03-27T10:00:00.000Z'
-updatedAt: '2026-03-27T10:00:00.000Z'
+createdAt: '2026-02-09T10:00:00.000Z'
+updatedAt: '2026-03-16T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 locale: pt
@@ -32,7 +32,7 @@ O uso de campos contábeis considera dois perfis:
 Os campos podem ser configurados em diferentes níveis:
 
 - **Pedido**: aplica-se à compra inteira.
-- **Item**: aplica-se a produtos específicos no carrinho.
+- **Item**: aplica-se a cada produto no carrinho.
 - **Endereço**: aplica-se às informações de entrega ou cobrança.
 
 ## Tipos de campos

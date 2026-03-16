@@ -1,7 +1,7 @@
 ---
 title: 'Agregar o editar campos contables'
-createdAt: '2025-03-27T10:00:00.000Z'
-updatedAt: '2025-03-27T10:00:00.000Z'
+createdAt: '2025-02-09T10:00:00.000Z'
+updatedAt: '2026-03-16T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: adding-or-editing-accounting-fields
