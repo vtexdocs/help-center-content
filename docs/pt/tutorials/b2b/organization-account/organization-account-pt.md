@@ -58,7 +58,7 @@ Nessa área é possível acessar:
 - **Payment methods** — Métodos de pagamento disponíveis.
 - **Credit cards** — Cartões cadastrados para compras.
 - **Product assortment** — Catálogo de produtos disponível para a unidade.
-- **Campos contábeis** — [Campos contábeis](https://help.vtex.com/pt/docs/tutorials/campos-contabeis-do-checkout) configurados pela organização. Como por exemplo "PO Numbers" ou "Cost Centers".
+- **Campos contábeis** — [Campos contábeis](https://help.vtex.com/pt/docs/tutorials/campos-contabeis) configurados pela organização. Como por exemplo "PO Numbers" ou "Cost Centers".
 
 ### Organization
 
