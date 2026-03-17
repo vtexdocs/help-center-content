@@ -13,6 +13,7 @@ slugEN: vtex-tracking-branch
 legacySlug: filial-vtex-tracking
 locale: pt
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
+hidden: true
 ---
 
 O cadastro de filiais deve ser feito por contratantes VTEX Tracking com unidades que têm operações próprias, ou de atuação independente. O usuário da filial não consegue ver entregas de outras filiais, apenas a de sua unidade. Já o contratante, que possui usuário Titular, consegue ver a operação de todas as suas filiais e monitorar as entregas.  Neste artigo você aprenderá a:
