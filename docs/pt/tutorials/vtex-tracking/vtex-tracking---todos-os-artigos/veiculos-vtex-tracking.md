@@ -13,6 +13,7 @@ slugEN: veiculos-vtex-tracking
 legacySlug: veiculos-vtex-tracking
 locale: pt
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
+hidden: true
 ---
 
 O cadastro de veículos permite vincular as entregas criadas com o veículo utilizado pelo portador. Esses dados são importantes para que o cliente localize o portador, ao monitorar a sua entrega. Na aba Veículos do seu VTEX Tracking, é possível detalhar o tipo de veículo: caminhão, carro ou moto e cadastrar a placa. Neste artigo você aprenderá a:
