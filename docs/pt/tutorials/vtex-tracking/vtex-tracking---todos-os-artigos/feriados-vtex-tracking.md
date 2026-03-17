@@ -13,6 +13,7 @@ slugEN: vtex-tracking-holidays
 legacySlug: feriados-vtex-tracking
 locale: pt
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
+hidden: true
 ---
 
 > ℹ️ O cadastro de Feriados é vinculado apenas à funcionalidade de agendamento de entrega, que está disponível somente para usuários VTEX Tracking com integração de sistemas.
