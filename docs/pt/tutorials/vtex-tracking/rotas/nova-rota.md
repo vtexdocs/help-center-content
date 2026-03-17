@@ -13,6 +13,7 @@ slugEN: new-route
 legacySlug: nova-rota
 locale: pt
 subcategoryId: 6a36lWUX5znjBVYTrfc29x
+hidden: true
 ---
 
 A tela de criação da nova rota é acessada a partir do botão __Criar Nova Rota__ da tela de Rotas dentro de Cadastro no menu à esquerda. Ao clicar no botão, a tela Nova Rota abre com duas seções distintas:
