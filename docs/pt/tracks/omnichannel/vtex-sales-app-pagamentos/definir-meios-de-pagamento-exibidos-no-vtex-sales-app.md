@@ -29,6 +29,6 @@ Em uma das etapas de configuração do `checkout-instore-custom.js`, é preciso 
 2. Na aba **Condições de pagamento**, busque a opção desejada. Caso queira, filtre os resultados usando a barra de busca.
 3. O ID do meio de pagamento é o código numérico que aparece no topo direito. No exemplo a seguir, o ID do `Mastercard` com parcelamento de 1x a 10x é `4`:
 
-![INSERT IMAGE](link)
+![mastercard_id_PT](link)
 
 > ℹ️ As informações completas para definir os meios de pagamento exibidos no **VTEX Sales App** estão disponíveis no guia [Define payment methods displayed on VTEX Sales App](https://developers.vtex.com/docs/guides/define-payment-methods-displayed-on-vtex-sales-app).
