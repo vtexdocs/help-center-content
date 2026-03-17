@@ -13,6 +13,7 @@ slugEN: service-management
 legacySlug: gerenciamento-de-servicos
 locale: pt
 subcategoryId: 7GypxQ3HDmFVCHTNTwyhr0
+hidden: true
 ---
 
 Os serviços no VTEX Tracking são as coletas, atendimentos ou entregas realizadas pelo seu negócio. Para acompanhar o andamento e informações dos serviços cadastrados na plataforma, o sistema dispõe da aba **Serviços** no módulo **Cadastro**. É possível acompanhar o status de um serviço, excluir, alterar ou  finalizar um serviço já cadastrado na plataforma.
