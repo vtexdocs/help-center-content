@@ -73,7 +73,7 @@ Na fase atual do beta, não haverá filtros do tipo frete grátis. Por enquanto,
 
 ## 9. Posso não utilizar a Delivery Promise (Beta)?
 
-Usar ou não a **Delivery Promise (Beta)** é sua escolha. Caso você não queira solicitar a localização do comprador, você pode continuar utilizando a solução atual de navegação do cliente sem localização definida, e associar ou não a [sellers abrangentes](/pt/docs/tutorials/seller-abrangente). Entretanto, a melhor experiência de compra para o cliente com a vitrine de loja é obtida com a **Delivery Promise (Beta)**, sendo esta portanto a recomendação da VTEX.
+Usar ou não a **Delivery Promise (Beta)** é sua escolha. Caso você não queira solicitar a localização do comprador, você pode continuar utilizando a solução atual de navegação do cliente sem localização definida, e associar ou não a [sellers abrangentes](/pt/docs/tutorials/seller-abrangente). Entretanto, a melhor experiência de compra para o cliente com a vitrine de loja é obtida com a **Delivery Promise (Beta)**, sendo esta, portanto, a recomendação da VTEX.
 
 ## 10. Os filtros do Delivery Promise (Beta) se aplicam a sellers externos?
 
