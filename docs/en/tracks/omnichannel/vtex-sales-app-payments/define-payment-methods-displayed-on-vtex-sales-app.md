@@ -15,6 +15,8 @@ trackSlugEN: vtex-sales-app-payments
 order: 6
 ---
 
+> ℹ️ Payment methods (such as debit or credit card) are enabled during the onboarding of the **VTEX Sales App**, and the IDs of these payment methods are automatically implemented in the `checkout-instore-custom.js` file. If the store customizes `checkout-instore-custom.js`, the initial configurations are overwritten. However, if a new onboarding is made, the onboarding configurations overwrite the customizations in `checkout-instore-custom.js`.
+
 After configuring your store payment methods, you must create filters to make them available to customers on **VTEX Sales App** checkout.
 
 To do this, you'll need to include a JavaScript code block in your store's `checkout-instore-custom.js`. The complete instructions are available in the guide [Define payment methods displayed on VTEX Sales App](https://developers.vtex.com/docs/guides/define-payment-methods-displayed-on-vtex-sales-app).
