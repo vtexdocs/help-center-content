@@ -11749,12 +11749,12 @@
                 {
                   "name": {
                     "en": "6. Define payment methods displayed on VTEX Sales App",
-                    "es": "6. Definir los métodos de pago mostrados en VTEX Sales App",
+                    "es": "6. Definir los medios de pago mostrados en VTEX Sales App",
                     "pt": "6. Definir meios de pagamento exibidos no VTEX Sales App"
                   },
                   "slug": {
                     "en": "define-payment-methods-displayed-on-vtex-sales-app",
-                    "es": "definir-los-metodos-de-pago-mostrados-en-vtex-sales-app",
+                    "es": "definir-los-medios-de-pago-mostrados-en-vtex-sales-app",
                     "pt": "definir-meios-de-pagamento-exibidos-no-vtex-sales-app"
                   },
                   "origin": "",
