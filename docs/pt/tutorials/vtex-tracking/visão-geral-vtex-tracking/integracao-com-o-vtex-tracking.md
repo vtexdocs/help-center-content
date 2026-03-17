@@ -13,6 +13,7 @@ slugEN: integration-with-vtex-tracking
 legacySlug: integracao-com-o-vtex-tracking
 locale: pt
 subcategoryId: t5ai1r0dN7J4U1IYLbHmG
+hidden: true
 ---
 
 O [VTEX Tracking ](/pt/docs/tutorials/visao-geral-vtex-tracking) é uma solução para rastreio de entregas. A plataforma permite acompanhar e gerenciar cada entrega da sua loja. Para que as informações necessárias para realização das entregas dos pedidos estejam disponíveis na plataforma VTEX Tracking é preciso realizar uma integração de pedidos. Dessa forma, os pedidos e serviços ficam disponíveis para criação de rotas no VTEX Tracking.
