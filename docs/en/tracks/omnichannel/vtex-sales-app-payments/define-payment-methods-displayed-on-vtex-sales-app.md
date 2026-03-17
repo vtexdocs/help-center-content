@@ -29,6 +29,6 @@ In one of the configuration steps for `checkout-instore-custom.js`, you must ent
 2. In the **Payment Conditions** tab, search for the desired option. If you prefer, filter the results using the search bar.
 3. The payment method ID is the numerical code that appears at the top right. In the following example, the ID for `Mastercard` with 1–10 installments is `4`:
 
-![mastercard_id_EN](link)
+![mastercard_id_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-sales-app-payments/mastercard_id_EN.png)
 
 > ℹ️ The complete information for defining the payment methods displayed on **VTEX Sales App** is available in the guide [Define payment methods displayed on VTEX Sales App](https://developers.vtex.com/docs/guides/define-payment-methods-displayed-on-vtex-sales-app).
