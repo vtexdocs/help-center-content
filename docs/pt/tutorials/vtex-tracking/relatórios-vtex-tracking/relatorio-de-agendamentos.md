@@ -13,6 +13,7 @@ slugEN: scheduling-report
 legacySlug: relatorio-de-agendamentos
 locale: pt
 subcategoryId: 37YF86noTwhDdEuhUyW3LH
+hidden: true
 ---
 
 O relatório de Agendamentos tem como objetivo fornecer os dados dos serviços agendados que foram realizados. É possível visualizar quantos serviços foram realizados por agendamento, quais desses foram realizados dentro do prazo previsto, além da quantidade de serviços realizados por turno.
