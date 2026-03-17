@@ -13,6 +13,7 @@ slugEN: vtex-tracking-chat-incidences
 legacySlug: ocorrencias-de-chat-vtex-tracking
 locale: pt
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
+hidden: true
 ---
 
 O aplicativo móvel VTEX Tracking apoia o portador durante as entregas. Caso ocorra qualquer problema, o contratante que tiver esse serviço contratado pode se comunicar através do chat com a central de atendimento, que irá apoiá-lo a partir daí. Essa comunicação ajuda-o a reverter o cenário de uma possível “não entrega”, por exemplo. Ao final desta conversa, o atendente da central deverá inserir o motivo pelo qual está encerrando o chat com o portador. Por exemplo: “problema solucionado”, “motorista não responde ao chat”, entre outros.
