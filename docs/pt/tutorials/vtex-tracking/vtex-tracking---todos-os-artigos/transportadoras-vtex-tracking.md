@@ -13,6 +13,7 @@ slugEN: vtex-tracking-carriers
 legacySlug: transportadoras-vtex-tracking
 locale: pt
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
+hidden: true
 ---
 
 Você, como contratante do serviço VTEX Tracking, pode ter sua própria frota de transportadoras, ou contratar o serviço de terceiras. Em ambos casos, é preciso cadastrá-las na plataforma, para ter visibilidade das entregas que executam. O cadastro de uma, ou mais transportadoras é feito através da aba **Transportadoras** no módulo de Cadastro. Neste artigo você aprenderá a: 
