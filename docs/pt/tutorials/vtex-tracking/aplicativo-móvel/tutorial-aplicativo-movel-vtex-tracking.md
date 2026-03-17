@@ -13,6 +13,7 @@ slugEN: tutorial-vtex-tracking-mobile-app
 legacySlug: tutorial-aplicativo-movel-vtex-tracking
 locale: pt
 subcategoryId: 6pbaGm24tlXta7TKTtMc5l
+hidden: true
 ---
 
 O aplicativo móvel do [VTEX Tracking](/pt/docs/tutorials/visao-geral-vtex-tracking) é um dos componentes da solução VTEX voltada para o  monitoramento de entregas de uso exclusivo do portador ou motorista.  O aplicativo dispõe das seguintes funcionalidades:
