@@ -13,6 +13,7 @@ slugEN: services-report
 legacySlug: relatorio-de-servicos
 locale: pt
 subcategoryId: 37YF86noTwhDdEuhUyW3LH
+hidden: true
 ---
 
 Os relatório de serviços são dados em formatos de tabelas gerados para auxiliar a construção de demonstrativos e análises internas da sua empresa. Há dois tipos de relatórios que podem ser gerados:
