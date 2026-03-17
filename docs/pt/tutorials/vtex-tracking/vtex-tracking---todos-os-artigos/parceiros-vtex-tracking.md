@@ -13,6 +13,7 @@ slugEN: vtex-tracking-partners
 legacySlug: parceiros-vtex-tracking
 locale: pt
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
+hidden: true
 ---
 
 Parceiros são aquelas entidades que fazem parte do seu processo de entrega, mas que não são contratantes do serviço VTEX Tracking. O cadastro de Parceiros permite o acesso a seus clientes e embarcadores, por exemplo, para acompanharem a gestão das suas entregas pelo VTEX Tracking.
