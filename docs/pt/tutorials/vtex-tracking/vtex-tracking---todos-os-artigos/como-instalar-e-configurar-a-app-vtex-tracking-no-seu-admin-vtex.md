@@ -13,6 +13,7 @@ slugEN: how-to-install-and-setup-the-vtex-tracking-app-on-your-vtex-admin
 legacySlug: como-instalar-e-configurar-a-app-vtex-tracking-no-seu-admin-vtex
 locale: pt
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
+hidden: true
 ---
 
 VTEX Tracking é uma solução da VTEX voltada ao monitoramento de entregas. A app traz informações em tempo real sobre o status das entregas, otimizando os custos logísticos para empresas e transportadoras, além de aumentar a satisfação do cliente. 
