@@ -32,7 +32,7 @@ The top section of the page shows the aggregated performance of all recommendati
 
 The solid line represents the currently selected period, while the dotted line represents the comparison period.
 
-![informacoes-gerais-gif](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomendações-de-produtos-beta/dashboard-de-recomendacoes_1.gif)
+![informacoes-gerais-gif](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/product-recommendations-beta/recommendations-dashboard_1.gif)
 
 Click any metric to view its corresponding chart, which shows the metric's evolution over time. You can hover over any point on the chart to view specific data for that date.
 
@@ -49,7 +49,7 @@ The following table describes the dashboard metrics:
 
 The table shows the performance of each recommendation shelf configured in the store. Data varies based on the [selected period](#selecting-an-analysis-period) and [applied filters](#filtering-information).
 
-![information-shelves](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomendações-de-produtos-beta/dashboard-de-recomendacoes_2.png)
+![information-shelves](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/product-recommendations-beta/recommendations-dashboard_2.png)
 
 The page displays the following information about each shelf in table form:
 
@@ -68,7 +68,7 @@ To view the performance chart for a specific shelf during the selected period, f
 1. Click the shelf row or the ellipsis ⋮ menu.
 2. Click **View details**.
 
-![view-details](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomendações-de-produtos-beta/dashboard-de-recomendacoes_3.png)
+![view-details](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/product-recommendations-beta/recommendations-dashboard_3.png)
 
 On the details screen, you can also:
 
@@ -106,7 +106,7 @@ To set the dashboard analysis period, follow the instructions below:
 
 3. Click `Apply`.
 
-![select-period](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomendações-de-produtos-beta/dashboard-de-recomendacoes_4.gif)
+![select-period](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/product-recommendations-beta/recommendations-dashboard_4.gif)
 
 ## Filtering information
 
@@ -132,7 +132,7 @@ You can combine **Status** and **Campaign type** filters.
 
 To remove a filter, repeat steps 1 and 2 and click `Clear`.
 
-![filter-information](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomendações-de-produtos-beta/dashboard-de-recomendacoes_5.gif)
+![filter-information](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/product-recommendations-beta/recommendations-dashboard_5.gif)
 
 ## Learn more
 

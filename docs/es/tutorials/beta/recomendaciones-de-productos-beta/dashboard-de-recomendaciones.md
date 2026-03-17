@@ -32,7 +32,7 @@ La parte superior de la página presenta el desempeño agregado de las estrategi
 
 La línea continua representa el periodo actual seleccionado, mientras que la línea punteada representa el periodo de comparación.
 
-![informaciones-generales-gif](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomendações-de-produtos-beta/dashboard-de-recomendacoes_1.gif)
+![informaciones-generales-gif](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/recomendaciones-de-productos-beta/dashboard-recomendaciones_1.gif)
 
 Haz clic en cada métrica para ver el gráfico correspondiente. El gráfico presenta la evolución de la métrica seleccionada a lo largo del periodo. Al pasar el mouse sobre el gráfico en una fecha específica, se muestran los datos de esa fecha.
 
@@ -49,7 +49,7 @@ Las métricas disponibles son:
 
 La tabla muestra el desempeño individual de cada estantería de recomendación configurada en la tienda. Los datos varían según el [periodo seleccionado](#seleccionar-periodo) y los [filtros definidos](#filtrar-informacion).
 
-![informacoes-prateleiras](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomendações-de-produtos-beta/dashboard-de-recomendacoes_2.png)
+![informacoes-prateleiras](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/recomendaciones-de-productos-beta/dashboard-recomendaciones_2.png)
 
 La página muestra la siguiente información sobre cada estantería de producto en una tabla:
 
@@ -68,7 +68,7 @@ Para visualizar el gráfico de desempeño de una estantería específica en el p
 1. Haz clic en la fila de la estantería o en el menú ⋮.
 2. Haz clic en **Ver detalles**.
 
-![ver-detalhes](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomendações-de-produtos-beta/dashboard-de-recomendacoes_3.png)
+![ver-detalhes](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/recomendaciones-de-productos-beta/dashboard-recomendaciones_3.png)
 
 En la pantalla de detalles, también puedes:
 
@@ -106,7 +106,7 @@ Para definir el periodo de análisis del dashboard, sigue las instrucciones a co
 
 3. Haz clic en `Aplicar`.
 
-![selecionar-periodo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomendações-de-produtos-beta/dashboard-de-recomendacoes_4.gif)
+![selecionar-periodo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/recomendaciones-de-productos-beta/dashboard-recomendaciones_4.gif)
 
 ## Filtrar información
 
@@ -132,7 +132,7 @@ Puedes combinar los filtros de **Status** y **Tipo de campaña**.
 
 Para remover un filtro, repite los pasos 1 y 2 y haz clic en `Limpiar`.
 
-![filtrar-informacoes](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomendações-de-produtos-beta/dashboard-de-recomendacoes_5.gif)
+![filtrar-informacoes](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/recomendaciones-de-productos-beta/dashboard-recomendaciones_5.gif)
 
 ## Más información
 
