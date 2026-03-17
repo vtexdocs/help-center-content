@@ -13,6 +13,7 @@ slugEN: vtex-tracking-status-change
 legacySlug: justificativa-de-status-vtex-tracking
 locale: pt
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
+hidden: true
 ---
 
 A justificativa de status é usada para contextualizar o motivo da alteração via web, quando não é possível seguir o fluxo correto pelo aplicativo. O usuário web pode alterar o status de uma entrega através do sistema VTEX Tracking. Isso pode ser feito uma vez que a entrega foi finalizada, ou antes da confirmação de entrega realizada no aplicativo, pelo portador. A alteração de status é usada para que o usuário web possa corrigir possíveis atualizações de status erradas, realizadas pelo portador no aplicativo. Vamos supor, por exemplo, que a bateria do portador acabou e não conseguiu confirmar o status de *Realizado* na entrega. Neste caso o usuário web fará esta ação pela plataforma web VTEX Tracking.
