@@ -1,79 +1,80 @@
 ---
 title: 'Accounting fields'
-createdAt: '2026-03-27T10:00:00.000Z'
-updatedAt: '2026-03-27T10:00:00.000Z'
+createdAt: '2026-02-09T10:00:00.000Z'
+updatedAt: '2026-03-16T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 locale: en
 slugEN: accounting-fields
 ---
 
-Accounting fields let you collect additional information during purchase in the B2B Buyer Portal, such as cost center, internal order number (PO), and other control data. These values are associated with the order, helping the company standardize data, enforce internal rules, and support audits.
+**Accounting fields** allow you to collect additional information from purchases in the **B2B Buyer Portal**, such as **cost center**, **internal purchase order (PO) number**, and other control information. This information is associated with the order, helping the company standardize information, apply internal rules, and facilitate audits.
 
 > ⚠️ This feature is only available for stores using B2B Buyer Portal, which is currently available to select accounts.
 
-## What accounting fields are for
+## Using accounting fields
 
-With accounting fields, your company can:
+Accounting fields allow your company to:
 
-- Standardize purchase information across organizational units and buyers.
-- Require mandatory data before order completion.
-- Reduce checkout input errors.
+- Standardize purchase information between organizational units and buyers.
+- Require mandatory information before completing the order.
+- Reduce input errors during checkout.
 - Improve traceability, auditing, and compliance.
 
-## User profiles
+## Roles
 
-There are two main profiles for accounting fields:
-- **Administrator**: creates the fields required by the company and defines where each field appears in checkout.
-- **Buyer**: fills the fields during the purchase flow.
+Accounting fields involve two roles:
 
-## Field application levels
+- **Admin**: Creates the required fields for the company and defines where each field displays in the checkout.
+- **Buyer**: Completes the fields during purchase.
+
+## Applying fields
 
 Fields can be configured at different levels:
 
-- **Order**: applies to the whole purchase.
-- **Item**: applies to specific products in the cart.
-- **Address**: applies to shipping or billing information.
+- **Order**: Applies to the entire purchase.
+- **Item**: Applies to each product in the cart.
+- **Address**: Applies to shipping or billing information.
 
 ## Field types
 
-When creating an accounting field, the administrator must choose one of the following types.
+When creating an accounting field, the admin must choose one of the following types:
 
 ### Text (`text`)
 
-Allows the buyer to enter a free-form value at checkout.
+Allows buyers to enter any value at checkout.
 
-- Accepts any character sequence.
-- No format validation beyond the required constraint (when configured).
+- Accepts any sequence of characters.
+- Doesn't perform any format validation besides checking if it's required (when enabled).
 
 ### Number (`number`)
 
-Accepts numeric values only.
+Allows restricting input to numeric values.
 
-- Only numbers are allowed.
-- Use when the value must follow a strictly numeric format.
+- Only accepts numbers.
+- May be used when the value must follow a strictly numeric format.
 
 ### Option (`option`)
 
-Displays a list of pre-registered values for selection.
+Displays a list of predefined values for selection.
 
 - The buyer must select one of the available options.
-- Enables data standardization.
-- This is the only type that can have a **default value per Organizational Unit**.
+- Allows for data standardization.
+- It's the only type that can have a **default value per organizational unit**.
 
-## Field settings
+## Configuring fields
 
-When creating a field, the administrator configures:
+When creating a field, the admin defines the following:
 
 - Field name.
 - Type (`text`, `number`, or `option`).
 - Application level (order, item, or address).
-- Requirement (required or optional).
+- Required setting (required or optional).
 - Status (enabled or disabled).
 
-## Default values in checkout
+## Using default values at checkout
 
-To reduce manual input and avoid inconsistencies, you can configure default values by Organizational Unit.
+To reduce manual input and avoid inconsistencies, you can configure default values per **organizational unit.**
 
 You can set the following as defaults:
 
@@ -81,60 +82,68 @@ You can set the following as defaults:
 - Card.
 - Accounting fields of type `option`.
 
-> ⚠️ Only fields of type `option` can be set as default values.
+> ⚠️ Only fields of type `option` can be set as a default value.
 
-> ℹ️ For more information on how to add or configure accounting fields, see [Add or edit accounting fields](https://help.vtex.com/en/docs/tutorials/adding-or-editing-accounting-fields)
+> ℹ️ For more information on how to add or configure accounting fields, see [Add or edit accounting fields](https://help.vtex.com/en/docs/tutorials/adding-or-editing-accounting-fields).
 
-## Impact for administrators
+## Results for admins
 
-- Consistent data across organizational units.
-- Better enforcement of internal purchasing rules.
-- Improved reliability for reports and audits.
+- Consistent information across organizational units.
+- Better application of internal purchase rules.
+- Increased security for reports and audits.
 
-## Impact for buyers
+## Results for buyers
 
-- Fields appear in checkout with clear instructions.
-- Some values can be prefilled (when configured by the Organizational Unit).
-- Orders are completed with less rework and lower error risk.
+- Checkout fields display with clear instructions.
+- Some values may be autofilled (when configured by the organizational unit).
+- Orders are completed with less rework and lower risk of error.
 
 ## Usage examples
 
-### Require mandatory information on all orders
-- **Scenario:** the company must record cost center and PO on every order.
-- **Configuration:** create required fields at the `order` level (`option` for cost center and `text` or `number` for PO).
-- **Outcome:** orders can only be completed when the data is provided, ensuring compliance.
+### Requiring mandatory information on all orders
 
-### Checkout prefilled by Organizational Unit (OU)
-- **Scenario:** the company wants to reduce errors and purchase time across multiple units.
-- **Configuration:** set default values per Organizational Unit for address, card, and `option` fields.
-- **Outcome:** checkout appears prefilled after login, reducing rework.
+- **Scenario:** The company needs to record the **cost center** and **PO number** on all orders.
+- **Configuration:** Create required fields at the `order` level (`option` for cost center and `text` or `number` for PO number).
+- **Result:** The order can only be completed once all information is provided, ensuring compliance.
 
-### Project or activity classification
-- **Scenario:** the company needs to associate each purchased item to a project or activity.
-- **Configuration:** create an `option` field at the `item` level with the list of active projects or activities.
-- **Outcome:** each item is linked to a project, simplifying cost allocation and control.
+### Autofilling checkout fields by organizational unit
 
-### Differentiate resale vs internal consumption purchases
-- **Scenario:** the company needs to identify purchase type on the order.
-- **Configuration:** create an `option` field at the `order` level with predefined values (Resale / Internal consumption).
-- **Outcome:** enables order segmentation and application of fiscal or commercial rules.
+- **Scenario:** The company wants to reduce errors and purchase time across multiple units.
+- **Configuration:** Set default values by **organizational unit** for address, card, and fields of type `option`.
+- **Result:** The checkout is autofilled after login, reducing effort.
 
-### Segmentation for management reports
-- **Scenario:** the finance team needs to classify orders by expense type.
-- **Configuration:** create standardized `option` fields at the `order` level (e.g., CAPEX, OPEX).
-- **Outcome:** reports can be filtered without manual post-processing.
+### Classifying projects or activities
 
-### Mandatory justification for specific purchases
-- **Scenario:** the company requires justification for sensitive purchases or purchases above a certain amount.
-- **Configuration:** create a required `text` field at the `order` level.
-- **Outcome:** justification is recorded on the order for review or audit.
+- **Scenario:** The company needs to link each purchased item to a project or activity.
+- **Configuration:** Create an `option` field at the `item` level with a list of active projects or activities.
+- **Result:** Each item is linked to a project, facilitating allocation and cost control.
 
-### Centralized standardization and governance
-- **Scenario:** the company needs to avoid variations in data entry.
-- **Configuration:** use `option` fields instead of free text and define values per Organizational Unit.
-- **Outcome:** more consistent and auditable data across the operation.
+### Differentiating purchases for resale and internal consumption
 
-### Compliance control in regulated companies
-- **Scenario:** the company needs to record regulatory codes per item.
-- **Configuration:** create a required field at the `item` level (for example, `text` or `option`).
-- **Outcome:** each purchased item includes the information needed for regulatory audits.
+- **Scenario:** The company needs to identify the purchase type on the order.
+- **Configuration:** Create an `option` field at the `order` level with predefined values (resale/internal consumption).
+- **Result:** Allows orders to be segmented and fiscal or commercial rules to be applied.
+
+### Segmenting for management reports
+
+- **Scenario:** The finance team needs to classify orders by expense type.
+- **Configuration:** Create standardized `option` fields at the `order` level (example: CAPEX, OPEX).
+- **Result:** Reports can be filtered without manual post-processing.
+
+### Requiring justification for specific purchases
+
+- **Scenario:** The company requires justification for sensitive purchases or those above a certain amount.
+- **Configuration:** Create a required `text` field at the `order` level.
+- **Result:** The justification is recorded on the order for review or auditing.
+
+### Standardizing and centralizing governance
+
+- **Scenario:** The company needs to avoid input variations.
+- **Configuration:** Use `option` fields instead of free text and define values per **organizational unit**.
+- **Result:** More consistent and auditable information throughout the operation.
+
+### Controlling compliance for regulated companies
+
+- **Scenario:** The company needs to record regulatory codes per item.
+- **Configuration:** Create a required field at the `item` level (for example, of type `text` or `option`).
+- **Result:** Each purchased item includes the necessary information for regulatory audits.
