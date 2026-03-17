@@ -13,6 +13,7 @@ slugEN: portadores-vtex-tracking
 legacySlug: portadores-vtex-tracking
 locale: pt
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
+hidden: true
 ---
 
 Portadores são os motoristas que realizam as entregas do VTEX Tracking. Os portadores podem ser funcionários, terceirizados ou prestadores de serviços da sua empresa. 
