@@ -13,6 +13,7 @@ slugEN: usuarios-vtex-tracking
 legacySlug: usuarios-vtex-tracking
 locale: pt
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
+hidden: true
 ---
 
 Existem vários perfis de usuários que operam o sistema VTEX Tracking. Cada perfil pode realizar uma série de ações na plataforma, como lançar entregas, criar rotas, definir motoristas, assim como monitorar o andamento das entregas e acompanhar indicadores logísticos. Para operar as funcionalidades VTEX Tracking no dia a dia, é necessário criar usuários para todos que acessarão a plataforma. Neste artigo você aprenderá a:
