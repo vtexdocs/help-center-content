@@ -13,6 +13,7 @@ slugEN: service-indicators
 legacySlug: indicadores-de-servico
 locale: pt
 subcategoryId: 2A1RNDhwU4kqCN3XimtaD2
+hidden: true
 ---
 
 > ℹ️ Esse artigo está relacionado com a funcionalidade de **Relatório de Indicadores**. Caso queira saber mais, acesse[  Relatório de Indicadores](/pt/docs/tutorials/relatorio-de-indicadores).
