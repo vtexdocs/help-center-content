@@ -31,7 +31,7 @@ O lojista precisa garantir a correta configuração dos seguintes aspectos do pr
 
 ## 2. A Delivery Promise (Beta) garante a exibição de todos os meus produtos na vitrine?
 
-Quando as configurações necessárias para a exibição do produto na vitrine são feitas corretamente, a **Delivery Promise (Beta)** exibe na vitrine da loja todo o sortimento dos seus produtos e dos seus sellers. Se a indisponibilidade de um produto for causada por configurações incorretas ou pela falta de estoque desse produto, ele não será exibido na vitrine, mesmo com a nova funcionalidade. Para saber mais, veja o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site). 
+Quando as configurações necessárias para a exibição do produto na vitrine são feitas corretamente, a **Delivery Promise (Beta)** exibe na vitrine da loja todo o sortimento dos seus produtos e dos seus sellers. Se a indisponibilidade de um produto for causada por configurações incorretas ou pela falta de estoque desse produto, ele não será exibido na vitrine, mesmo com a nova funcionalidade. Para saber mais, veja o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site).
 
 ## 3. Com relação ao estoque do produto, como posso garantir que ele vai aparecer na vitrine?
 
