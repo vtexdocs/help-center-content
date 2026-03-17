@@ -57,7 +57,7 @@ Neste caso, o lojista pode utilizar uma entre as seguintes estratégias:
 * Definir [sellers abrangentes](/pt/docs/tutorials/seller-abrangente), o que possibilita que os produtos destes sellers sejam exibidos para os clientes que não fornecem localização.
 * Definir um CEP ou [geocordenadas](/pt/docs/tutorials/gerenciar-geolocalizacao) padrão para clientes que não informam localização.
 
-Sugerimos que seja próximo a um [estoque](/pt/docs/tutorials/estoque) que armazene uma grande quantidade de produtos ou que seja próximo a região com maior volume de vendas.
+Sugerimos que seja próximo a um [estoque](/pt/docs/tutorials/estoque) que armazene uma grande quantidade de produtos ou que seja próximo à região com maior volume de vendas.
 
 ## 6. Onde devo configurar quais lojas atendem a determinados CEPs?
 
