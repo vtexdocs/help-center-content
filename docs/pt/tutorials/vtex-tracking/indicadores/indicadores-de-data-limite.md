@@ -13,6 +13,7 @@ slugEN: deadline-indicators
 legacySlug: indicadores-de-data-limite
 locale: pt
 subcategoryId: 2A1RNDhwU4kqCN3XimtaD2
+hidden: true
 ---
 
 
