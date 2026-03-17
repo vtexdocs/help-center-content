@@ -13,6 +13,7 @@ slugEN: routing-monitoring
 legacySlug: monitoramento-de-rotas
 locale: pt
 subcategoryId: 6a36lWUX5znjBVYTrfc29x
+hidden: true
 ---
 
 
