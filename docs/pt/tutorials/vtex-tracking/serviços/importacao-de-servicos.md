@@ -13,6 +13,7 @@ slugEN: services-import
 legacySlug: importacao-de-servicos
 locale: pt
 subcategoryId: 7GypxQ3HDmFVCHTNTwyhr0
+hidden: true
 ---
 
 Para que você tenha um serviço - entrega, atendimento ou coleta - disponível na plataforma web do VTEX Tracking é preciso cadastrá-lo previamente. Existem três maneiras de realizar esse cadastro:
