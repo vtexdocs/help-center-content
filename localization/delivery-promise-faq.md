@@ -1,0 +1,80 @@
+---
+title: 'Delivery Promise: FAQ'
+id: 2frHHK5uPsQrLK5XbYHALN
+status: PUBLISHED
+createdAt: 2025-08-07T14:54:46.418Z
+updatedAt: 2025-08-07T15:03:08.816Z
+publishedAt: 2025-08-07T15:03:08.816Z
+firstPublishedAt: 2025-08-07T15:03:08.816Z
+contentType: tutorial
+productTeam: Post-purchase
+author: 2o8pvz6z9hvxvhSoKAiZzg
+slugEN: delivery-promise-faq
+legacySlug: delivery-promise-faq
+locale: pt
+subcategoryId: 13sVE3TApOK1C8jMVLTJRh
+---
+
+Veja a seguir perguntas comuns relacionadas à **[Delivery Promise (Beta)](/pt/docs/tutorials/delivery-promise-beta)**:
+
+## 1. Quais são os requisitos para o produto aparecer na vitrine?
+
+O lojista precisa garantir a correta configuração dos seguintes aspectos do produto:
+
+* Cadastro a nível de produto e SKU no catálogo.
+* Cadastro de preço.
+* [Estratégia de envio](/pt/docs/tutorials/estrategia-de-envio) que viabiliza o envio do pedido para o endereço fornecido pelo cliente.
+* Contagem do produto no [inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) disponível para vendas, ou estoque infinito configurado ou opção habilitada para exibir o produto quando esgotado.
+* Templates de [CMS](/pt/docs/tracks/o-que-e-o-cms) do frontend da loja configurados.
+
+> ℹ️ Para mais informações, veja o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site).
+
+## 2. A Delivery Promise (Beta) garante a exibição de todos os meus produtos na vitrine?
+
+Quando as configurações necessárias para a exibição do produto na vitrine são feitas corretamente, a **Delivery Promise (Beta)** exibe na vitrine da loja todo o sortimento dos seus produtos e dos seus sellers. Se a indisponibilidade de um produto for causada por configurações incorretas ou pela falta de estoque desse produto, ele não será exibido na vitrine, mesmo com a nova funcionalidade. Para saber mais, veja o artigo [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site).
+
+## 3. Com relação ao estoque do produto, como posso garantir que ele vai aparecer na vitrine?
+
+Existem três formas pelas quais isso pode ser feito:
+
+* Manter o [inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque) do produto com contagem de estoque para vendas (lembrando que os itens [reservados](/pt/docs/tutorials/como-a-reserva-funciona) não estão disponíveis para venda).
+* Habilitar a configuração [estoque infinito](/pt/docs/tutorials/gerenciar-itens-em-estoque) para o produto.
+* Configurar o produto para aparecer na vitrine mesmo quando estiver esgotado. Para isso, acesse **Catálogo > Todos os produtos** no Admin VTEX e, na página de configuração do produto, na aba Produto, marque a opção **Sim** no campo `Mostrar quando estiver fora de estoque`.
+
+## 4. Para utilizar a Delivery Promise (Beta), preciso solicitar a localização do cliente?
+
+O funcionamento da **Delivery Promise (Beta)** só é possível quando o cliente informa seu endereço ou quando a VTEX infere sua localidade. Essa inferência pode ser feita das seguintes formas:
+
+* O endereço do cliente é capturado automaticamente quando ele aceita o plugin do navegador para compartilhar sua localização.
+* Caso o navegador não tenha o plugin mencionado ou o cliente se recuse a compartilhar sua localização, a inferência do endereço será feita com base no endereço IP do dispositivo do cliente.
+
+Em todas as opções mencionadas, o cliente tem a opção de a qualquer tempo fornecer seu endereço ou um endereço diferente.
+
+## 5. No contexto da Delivery Promise (Beta), o que acontece se o cliente se recusa a compartilhar sua localização e a VTEX não consegue inferir seu endereço?
+
+Neste caso, o lojista pode utilizar uma entre as seguintes estratégias:
+
+* Definir [sellers abrangentes](/pt/docs/tutorials/seller-abrangente), o que possibilita que os produtos destes sellers sejam exibidos para os clientes que não fornecem localização.
+* Definir um CEP ou [geocoordenadas](/pt/docs/tutorials/gerenciar-geolocalizacao) padrão para clientes que não informam localização.
+
+Sugerimos que seja próximo a um [estoque](/pt/docs/tutorials/estoque) que armazene uma grande quantidade de produtos ou que seja próximo à região com maior volume de vendas.
+
+## 6. Onde devo configurar quais lojas atendem a determinados CEPs?
+
+Mesmo para quem usa a **Delivery Promise (Beta)**, essa configuração continua sendo feita nas [planilhas de frete](/pt/docs/tutorials/planilha-de-frete) das [políticas de envio](/pt/docs/tutorials/politica-de-envio) dos sellers.
+
+## 7. O que acontece com quem usa a funcionalidade Regionalização? 
+
+A **Delivery Promise (Beta)** substitui todas as funcionalidades existentes no [Region V1](/pt/docs/tutorials/configurar-a-regionalizacao-de-sellers) e V2, além de acrescentar melhorias de performance, experiência de compra e novas funcionalidades. Como a solução ainda está em desenvolvimento, a regionalização de sellers continua sendo usada normalmente pelos clientes que não participam da **Delivery Promise (Beta)**.
+
+## 8. Com a Delivery Promise (Beta) será possível exibir filtros e tags de frete grátis?
+
+Na fase atual do beta, não haverá filtros do tipo frete grátis. Por enquanto, disponibilizamos opções de filtros e outros componentes na frente de loja por prazo de envio, tipo de envio (retirada ou entrega) e ponto de retirada.
+
+## 9. Posso não utilizar a Delivery Promise (Beta)?
+
+Usar ou não a **Delivery Promise (Beta)** é sua escolha. Caso você não queira solicitar a localização do comprador, você pode continuar utilizando a solução atual de navegação do cliente sem localização definida, e associar ou não a [sellers abrangentes](/pt/docs/tutorials/seller-abrangente). Entretanto, a melhor experiência de compra para o cliente com a vitrine de loja é obtida com a **Delivery Promise (Beta)**, sendo esta, portanto, a recomendação da VTEX.
+
+## 10. Os filtros do Delivery Promise (Beta) se aplicam a sellers externos?
+
+A experiência de filtros (por CEP, método de envio, prazo, ponto de retirada) e de outros componentes se aplica a produtos de sellers VTEX, do [Seller Portal](https://help.vtex.com/pt/docs/tutorials/seller-portal-primeiros-passos-para-o-marketplace) e externos.
