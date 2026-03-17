@@ -13,6 +13,7 @@ slugEN: indicators-report
 legacySlug: relatorio-de-indicadores
 locale: pt
 subcategoryId: 37YF86noTwhDdEuhUyW3LH
+hidden: true
 ---
 
 Na aba de Indicadores é possível visualizar representações gráficas e baixar planilhas com informações que compõem a performance dos serviços, das transportadoras, dos prazos e do suporte prestado aos portadores.  
