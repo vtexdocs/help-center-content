@@ -13,6 +13,7 @@ slugEN: services-scheduling
 legacySlug: agendamento-de-servicos
 locale: pt
 subcategoryId: 7GypxQ3HDmFVCHTNTwyhr0
+hidden: true
 ---
 
 Caso haja a necessidade de se organizar para algum serviço que deve ser feito em uma data e turno já definidos, você  pode fazer esse agendamento na plataforma VTEX Tracking.
