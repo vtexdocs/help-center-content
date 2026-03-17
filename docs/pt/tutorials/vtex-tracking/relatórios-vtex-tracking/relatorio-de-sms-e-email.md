@@ -13,6 +13,7 @@ slugEN: sms-and-email-report
 legacySlug: relatorio-de-sms-e-email
 locale: pt
 subcategoryId: 37YF86noTwhDdEuhUyW3LH
+hidden: true
 ---
 
 Na aba de `SMS e Email` é possível obter os dados sobre as notificações enviadas aos clientes, tais como as mensagens enviadas e os status das mensagens. Ao acessar a página, é possível visualizar dados e também baixar, em formato de planilha, as informações sobre as notificações.
