@@ -13,6 +13,7 @@ slugEN: vtex-tracking-agencies
 legacySlug: agencias-vtex-tracking
 locale: pt
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
+hidden: true
 ---
 
 O cadastro de **Agências** em sua plataforma VTEX Tracking permite a personalização da comunicação por SMS e e-mail com seu cliente. Para contratantes do serviço VTEX Tracking que possuem mais de uma marca dentro de sua carteira de produtos, por exemplo, é importante que a comunicação com o cliente seja feita de forma personalizada. Para evitar que o cliente receba uma informação de entrega e não saiba a que marca se refere, é possível customizar a mensagem. 
