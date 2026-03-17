@@ -13,6 +13,7 @@ slugEN: clientes-vtex-tracking
 legacySlug: clientes-vtex-tracking
 locale: pt
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
+hidden: true
 ---
 
 Clientes são os consumidores finais de uma loja que se beneficiam do serviço VTEX Tracking para rastreio de pedidos. Podem ser tanto pessoas físicas, para negócios B2C, quanto pessoas jurídicas, para negócios B2B, ou rastreio de pedidos de  fornecedores. Neste artigo você aprenderá a: 
