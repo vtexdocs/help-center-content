@@ -13,6 +13,7 @@ slugEN: reports
 legacySlug: relatorios
 locale: pt
 subcategoryId: 37YF86noTwhDdEuhUyW3LH
+hidden: true
 ---
 
 Na plataforma web do VTEX Tracking é possível gerar planilhas e visualizar gráficos referentes aos serviços. Essa funcionalidade está no menu esquerdo na aba `Relatório`. Com ela, você poderá realizar consultas que podem auxiliá-lo em análises e métricas internas de dados do seu negócio incluindo:
