@@ -19,7 +19,7 @@ Anteriormente, os campos do tipo **CPF/CNPJ** no Master Data aceitavam apenas va
 
 Nenhuma ação é necessária para suportar o novo formato alfanumérico, e a atualização já está disponível para as lojas VTEX de todas as regiões.
 
-No entanto, recomendamos que os lojistas testem seus outros sistemas e fluxos de faturamento para garantir que o back-office esteja completamente preparado para a transição de julho de 2026.
+> ❗Recomendamos que os lojistas testem seus outros sistemas e fluxos de faturamento para garantir que as integrações de back-office estejam preparadas para a transição, que vai ocorrer em julho de 2026.
 
 ### Documentação relacionada
 
