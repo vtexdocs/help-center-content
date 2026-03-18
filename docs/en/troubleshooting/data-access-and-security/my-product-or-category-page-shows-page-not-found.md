@@ -1,5 +1,5 @@
 ---
-title: 'My product or category page shows Page Not Found'
+title: "My product or category page shows 'Page Not Found'"
 id: EDU-12986
 status: DRAFT
 createdAt: 2026-03-13T00:00:00.000Z
@@ -21,7 +21,7 @@ Keywords: Loading error | Sync issue
 
 My product, category, or subcategory page returns `404` or behaves as if the page doesn't exist (**PAGE NOT FOUND** message). This can happen after catalog updates, such as changes to product content, images, slugs, category hierarchy, or workspace publication.
 
-In some cases, the issue looks like a rendering or product visibility problem, but the storefront symptom is the same: the route can't be resolved correctly. Depending on the root cause, the fix may require action from you, VTEX, or both.
+In some cases, the issue appears to be a rendering or product visibility issue, but the storefront symptom remains the same: the route can't be resolved correctly. Depending on the root cause, the fix may require action from you, VTEX, or both.
 
 The most common causes for this behavior are:
 
