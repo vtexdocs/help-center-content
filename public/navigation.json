@@ -40629,6 +40629,21 @@
             },
             {
               "name": {
+                "en": "API allows registering many EANs to the same SKU",
+                "es": "La API permite registrar muchos EAN en el mismo SKU.",
+                "pt": "A API permite registrar vários EANs para o mesmo SKU."
+              },
+              "slug": {
+                "en": "api-allows-registering-many-eans-to-the-same-sku",
+                "es": "la-api-permite-registrar-muchos-ean-en-el-mismo-sku",
+                "pt": "a-api-permite-registrar-varios-eans-para-o-mesmo-sku"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "APIs Who Saw Also Saw, Who Saw Also Bought, Who Bought Also Bought not always working as expected",
                 "es": "Las API \"Quién vio también vio\", \"Quién vio también compró\" y \"Quién compró también compró\" no siempre funcionan como se esperaba.",
                 "pt": "As APIs Who Saw Also Saw, Who Saw Also Bought, Who Bought Also Bought nem sempre funcionam como esperado"
@@ -49498,21 +49513,6 @@
             },
             {
               "name": {
-                "en": "Amazon integration is not cancelling orders in VTEX",
-                "es": "La integración de Amazon no cancela los pedidos en VTEX",
-                "pt": "A integração da Amazônia não está cancelando pedidos na VTEX"
-              },
-              "slug": {
-                "en": "amazon-integration-is-not-cancelling-orders-in-vtex",
-                "es": "la-integracion-de-amazon-no-cancela-los-pedidos-en-vtex",
-                "pt": "a-integracao-da-amazonia-nao-esta-cancelando-pedidos-na-vtex"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Amazon integration stock reservations for KITS",
                 "es": "Integración de Amazon reservas de stock para KITS",
                 "pt": "Reservas de estoque de integração da Amazon para KITS"
@@ -49588,14 +49588,14 @@
             },
             {
               "name": {
-                "en": "Amazon order does not integrate",
-                "es": "El pedido de Amazon no se integra",
-                "pt": "O pedido da Amazon não se integra"
+                "en": "Amazon Order cancellation flow",
+                "es": "Amazon Flujo de cancelación de pedidos",
+                "pt": "Amazon Fluxo de cancelamento de pedidos"
               },
               "slug": {
-                "en": "amazon-order-does-not-integrate",
-                "es": "el-pedido-de-amazon-no-se-integra",
-                "pt": "o-pedido-da-amazon-nao-se-integra"
+                "en": "amazon-order-cancellation-flow",
+                "es": "amazon-flujo-de-cancelacion-de-pedidos",
+                "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
               },
               "origin": "",
               "type": "markdown",
@@ -49971,6 +49971,21 @@
                 "en": "integracao-de-pedido-amazon-quantidade-de-item-invalida",
                 "es": "integracion-de-pedidos-amazon-cantidad-de-articulos-no-valida",
                 "pt": "integracao-de-pedido-amazon-quantidade-de-item-invalida"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "La integración de Amazon no cancela los pedidos en VTEX",
+                "pt": "A integração da Amazônia não está cancelando pedidos na VTEX",
+                "en": "La integración de Amazon no cancela los pedidos en VTEX"
+              },
+              "slug": {
+                "es": "la-integracion-de-amazon-no-cancela-los-pedidos-en-vtex",
+                "pt": "a-integracao-da-amazonia-nao-esta-cancelando-pedidos-na-vtex",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -52255,6 +52270,21 @@
                 "en": "explained-search-interface-overlapping-long-texts-between-different-areas-or-products",
                 "es": "interfaz-de-busqueda-explicada-superposicion-de-textos-largos-entre-diferentes-areas-o-productos",
                 "pt": "interface-de-pesquisa-explicada-com-sobreposicao-de-textos-longos-entre-diferentes-areas-ou-produtos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Explained Search returns results from main locale instead of selected secondary locale",
+                "es": "La búsqueda explicada devuelve resultados de la configuración regional principal en lugar de la configuración regional secundaria seleccionada.",
+                "pt": "A Pesquisa explicada retorna resultados da localidade principal em vez da localidade secundária selecionada."
+              },
+              "slug": {
+                "en": "explained-search-returns-results-from-main-locale-instead-of-selected-secondary-locale",
+                "es": "la-busqueda-explicada-devuelve-resultados-de-la-configuracion-regional-principal-en-lugar-de-la-configuracion-regional-secundaria-seleccionada",
+                "pt": "a-pesquisa-explicada-retorna-resultados-da-localidade-principal-em-vez-da-localidade-secundaria-selecionada"
               },
               "origin": "",
               "type": "markdown",
@@ -62165,6 +62195,21 @@
                 "en": "transaction-stuck-in-canceling-when-one-of-the-card-is-denied",
                 "es": "transaction-stuck-in-canceling-when-one-of-the-card-is-denied",
                 "pt": "transaction-stuck-in-canceling-when-one-of-the-card-is-denied"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transaction stuck in cancelling and cancel/refund return “Object reference not set to an instance of an object”",
+                "es": "Transacción bloqueada en la cancelación y devolución de cancelación/reembolso «Referencia de objeto no establecida en una instancia de un objeto».",
+                "pt": "Transação travada no cancelamento e cancelamento/reembolso da devolução “Referência de objeto não definida para uma instância de um objeto”"
+              },
+              "slug": {
+                "en": "transaction-stuck-in-cancelling-and-cancelrefund-return-object-reference-not-set-to-an-instance-of-an-object",
+                "es": "transaccion-bloqueada-en-la-cancelacion-y-devolucion-de-cancelacionreembolso-referencia-de-objeto-no-establecida-en-una-instancia-de-un-objeto",
+                "pt": "transacao-travada-no-cancelamento-e-cancelamentoreembolso-da-devolucao-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto"
               },
               "origin": "",
               "type": "markdown",
