@@ -29,7 +29,7 @@ Para configurar o [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 1. Abra o [Google Chrome](https://www.google.com/intl/pt-BR/chrome/) no seu computador.
 2. Aperte o botão `F12` do seu teclado ou clique com o botão direito do mouse em qualquer parte da tela e selecione **Inspecionar**.
 3. Clique nos três pontos verticais na parte superior direita da página, conforme indicado na imagem abaixo.
-4. Selecione **Mais ferramentas** e, em seguida, **Request conditions** para bloquear todas as customizações feitas por meio de CSS, JavaScript e Google Tag Manager. 
+4. Selecione **Mais ferramentas** e, em seguida, **Condições de solicitação** para bloquear todas as customizações feitas por meio de CSS, JavaScript e Google Tag Manager. 
 
   ![legado-02](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/EDU-11914/docs/pt/faq/shopping/legado-02.png) 
 
