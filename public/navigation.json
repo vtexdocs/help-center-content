@@ -41709,21 +41709,6 @@
             },
             {
               "name": {
-                "en": "Coupon not working with message \"coupon has expired\"",
-                "es": "El cupón no funciona y aparece el mensaje «El cupón ha caducado»",
-                "pt": "O cupom não está funcionando e aparece a mensagem \"o cupom expirou\""
-              },
-              "slug": {
-                "en": "coupon-not-working-with-message-coupon-has-expired",
-                "es": "el-cupon-no-funciona-y-aparece-el-mensaje-el-cupon-ha-caducado",
-                "pt": "o-cupom-nao-esta-funcionando-e-aparece-a-mensagem-o-cupom-expirou"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Coupons created as archived temporarrily",
                 "es": "Cupones creados como archivados temporalmente",
                 "pt": "Cupons criados como arquivados temporariamente"
@@ -60433,13 +60418,13 @@
             {
               "name": {
                 "en": "Giftcard not getting refund after transaction cancellation",
-                "es": "No se reembolsa la tarjeta regalo tras la cancelación de la transacción",
-                "pt": "O vale-presente não está sendo reembolsado após o cancelamento da transação"
+                "es": "No se reembolsa la tarjeta regalo tras cancelar la transacción",
+                "pt": "O Giftcard não está sendo reembolsado após o cancelamento da transação"
               },
               "slug": {
                 "en": "giftcard-not-getting-refund-after-transaction-cancellation",
-                "es": "no-se-reembolsa-la-tarjeta-regalo-tras-la-cancelacion-de-la-transaccion",
-                "pt": "o-valepresente-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao"
+                "es": "no-se-reembolsa-la-tarjeta-regalo-tras-cancelar-la-transaccion",
+                "pt": "o-giftcard-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao"
               },
               "origin": "",
               "type": "markdown",
