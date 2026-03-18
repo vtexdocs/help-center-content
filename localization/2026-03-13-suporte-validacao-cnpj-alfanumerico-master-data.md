@@ -13,7 +13,7 @@ A partir de julho de 2026, o Brasil adotará o novo formato alfanumérico de CNP
 
 ## O que mudou?
 
-Anteriormente, os campos do tipo **CPF/CNPJ** no Master Data aceitavam apenas valores numéricos. Agora, a lógica de validação foi atualizada para suportar também o novo formato alfanumérico do CNPJ, permitindo que os lojistas comecem a adaptar suas integrações e formulários antes do prazo oficial de transição.
+Anteriormente, os campos do tipo **CPF/CNPJ** no Master Data aceitavam apenas valores numéricos. Agora, a lógica de validação foi atualizada para suportar também o formato alfanumérico do CNPJ, permitindo que os lojistas adaptem suas integrações e formulários antes do prazo oficial de transição.
 
 ## O que precisa ser feito?
 
