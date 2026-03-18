@@ -46,7 +46,7 @@ Existem três formas pelas quais isso pode ser feito:
 O funcionamento da **Delivery Promise (Beta)** só é possível quando o cliente informa seu endereço ou quando a VTEX infere sua localidade. Essa inferência pode ser feita das seguintes formas:
 
 * O endereço do cliente é capturado automaticamente quando ele aceita o plugin do navegador para compartilhar sua localização.
-* O cliente fornece o endereço no componente de CEP do Delivery Promise.
+* O cliente fornece o endereço no componente de CEP da Delivery Promise.
 
 Em todas as opções mencionadas, o cliente tem a opção de a qualquer tempo fornecer seu endereço ou um endereço diferente.
 
@@ -63,11 +63,11 @@ Mesmo para quem usa a **Delivery Promise (Beta)**, essa configuração continua 
 
 ## 7. O que acontece com quem usa a funcionalidade Regionalização?
 
-A **Delivery Promise (Beta)** substitui todas as funcionalidades existentes no [Region V1](/pt/docs/tutorials/configurar-a-regionalizacao-de-sellers) e V2, além de acrescentar melhorias de performance, experiência de compra e novas funcionalidades. Como a funcionalidade está em estágio beta, a regionalização de sellers continua sendo usada normalmente pelos clientes que não participam do **Delivery Promise (Beta)**.
+A **Delivery Promise (Beta)** substitui todas as funcionalidades existentes no [Region V1](/pt/docs/tutorials/configurar-a-regionalizacao-de-sellers) e V2, além de acrescentar melhorias de performance, experiência de compra e novas funcionalidades. Como a **Delivery Promise** está em estágio beta, a regionalização de sellers continua sendo usada normalmente pelos clientes que não participam da fase beta.
 
 ## 8. Com a Delivery Promise (Beta) será possível exibir filtros e tags de frete grátis?
 
-Na fase atual beta não contempla componentes do tipo frete grátis. Por enquanto, disponibilizamos opções de filtros e outros componentes na frente de loja por prazo de envio, tipo de envio (retirada ou entrega) e ponto de retirada.
+A fase atual beta não contempla componentes do tipo frete grátis. Por enquanto, disponibilizamos opções de filtros e outros componentes na frente de loja por prazo de envio, tipo de envio (retirada ou entrega) e ponto de retirada.
 
 ## 9. Posso não utilizar a Delivery Promise (Beta)?
 
