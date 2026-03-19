@@ -25,6 +25,37 @@
           "children": [
             {
               "name": {
+                "en": "March",
+                "es": "Marzo",
+                "pt": "Março"
+              },
+              "slug": {
+                "en": "2026-march",
+                "es": "2026-marzo",
+                "pt": "2026-março"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Amazon: Price suggestion",
+                    "es": "Amazon: Sugerencia de precios",
+                    "pt": "Amazon: Sugestão de preços"
+                  },
+                  "slug": {
+                    "en": "2026-03-06-amazon-price-suggestion",
+                    "es": "2026-03-06-amazon-sugerencia-de-precios",
+                    "pt": "2026-03-06-amazon-sugestao-de-precos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "February",
                 "es": "Febrero",
                 "pt": "Fevereiro"
@@ -11718,12 +11749,12 @@
                 {
                   "name": {
                     "en": "6. Define payment methods displayed on VTEX Sales App",
-                    "es": "6. Definir los métodos de pago mostrados en VTEX Sales App",
+                    "es": "6. Definir los medios de pago mostrados en VTEX Sales App",
                     "pt": "6. Definir meios de pagamento exibidos no VTEX Sales App"
                   },
                   "slug": {
                     "en": "define-payment-methods-displayed-on-vtex-sales-app",
-                    "es": "definir-los-metodos-de-pago-mostrados-en-vtex-sales-app",
+                    "es": "definir-los-medios-de-pago-mostrados-en-vtex-sales-app",
                     "pt": "definir-meios-de-pagamento-exibidos-no-vtex-sales-app"
                   },
                   "origin": "",
@@ -17046,8 +17077,8 @@
           },
           "slug": {
             "en": "b2b-category",
-            "es": "b2b-categoria",
-            "pt": "b2b-categoria"
+            "es": "b2b-categoria-es",
+            "pt": "b2b-categoria-pt"
           },
           "origin": "",
           "type": "category",
@@ -17060,22 +17091,37 @@
               },
               "slug": {
                 "en": "b2b-buyer-portal-subcategory",
-                "es": "b2b-buyer-portal-subcategoria",
-                "pt": "b2b-buyer-portal-subcategoria"
+                "es": "b2b-buyer-portal-subcategoria-es",
+                "pt": "b2b-buyer-portal-subcategoria-pt"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "en": "B2B Contracts",
+                    "en": "Accounting fields",
+                    "es": "Campos contables",
+                    "pt": "Campos contábeis"
+                  },
+                  "slug": {
+                    "en": "accounting-fields",
+                    "es": "campos-contables",
+                    "pt": "campos-contabeis"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "B2B contracts",
                     "es": "Contratos B2B",
                     "pt": "Contratos B2B"
                   },
                   "slug": {
                     "en": "b2b-contracts",
-                    "es": "contratos-b2b",
-                    "pt": "contratos-b2b"
+                    "es": "contratos-b2b-es",
+                    "pt": "contratos-b2b-pt"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17128,14 +17174,44 @@
                 },
                 {
                   "name": {
-                    "en": "Custom checkout fields",
-                    "es": "Campos personalizables del checkout",
-                    "pt": "Campos customizáveis no checkout"
+                    "en": "Contracts Manager Agent",
+                    "es": "Agente de Gestión de Contratos",
+                    "pt": "Agente de Gerenciamento de Contratos"
                   },
                   "slug": {
-                    "en": "custom-checkout-fields",
-                    "es": "campos-personalizables-del-checkout",
-                    "pt": "campos-customizaveis-do-checkout"
+                    "en": "contracts-manager-agent",
+                    "es": "agente-de-gestion-de-contratos",
+                    "pt": "agente-de-gerenciamento-de-contratos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Organization Units",
+                    "es": "Unidades de organización",
+                    "pt": "Organization Units"
+                  },
+                  "slug": {
+                    "en": "organization-units",
+                    "es": "organization-units-es",
+                    "pt": "organization-units-pt"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Scopes overview",
+                    "es": "Visión general de Scopes",
+                    "pt": "Visão geral de Scopes"
+                  },
+                  "slug": {
+                    "en": "scopes-overview",
+                    "es": "vision-general-de-scopes",
+                    "pt": "visao-geral-de-scopes"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17151,12 +17227,27 @@
               },
               "slug": {
                 "en": "organization-account-subcategory",
-                "es": "organization-account-subcategoria",
-                "pt": "organization-account-subcategoria"
+                "es": "organization-account-subcategoria-es",
+                "pt": "organization-account-subcategoria-pt"
               },
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Adding or editing accounting fields",
+                    "es": "Agregar o editar campos contables",
+                    "pt": "Adicionar ou editar campos contábeis"
+                  },
+                  "slug": {
+                    "en": "adding-or-editing-accounting-fields",
+                    "es": "agregar-o-editar-campos-contables",
+                    "pt": "adicionar-ou-editar-campos-contabeis"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Adding or editing budgets",
@@ -17189,14 +17280,44 @@
                 },
                 {
                   "name": {
-                    "en": "Adding or editing custom checkout fields",
-                    "es": "Agregar o editar campos personalizables del checkout",
-                    "pt": "Adicionar ou editar campos customizáveis do checkout"
+                    "en": "Adding or editing Organizational Units",
+                    "es": "Agregar o editar Organizational Units",
+                    "pt": "Adicionar ou editar Organizational Units"
                   },
                   "slug": {
-                    "en": "adding-or-editing-custom-checkout-fields",
-                    "es": "agregar-o-editar-campos-personalizables-del-checkout",
-                    "pt": "adicionar-ou-editar-campos-customizaveis"
+                    "en": "adding-or-editing-organizational-units",
+                    "es": "agregar-o-editar-organizational-units",
+                    "pt": "adicionar-ou-editar-organizational-units"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Adding users to a buyer organization",
+                    "es": "Agregar usuarios a la organización compradora",
+                    "pt": "Adicionar usuários à organização compradora"
+                  },
+                  "slug": {
+                    "en": "adding-users-to-buyer-organization",
+                    "es": "agregar-usuarios-a-la-organizacion-compradora",
+                    "pt": "adicionar-usuarios-a-organizacao-compradora"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Organization Account",
+                    "es": "Organization Account",
+                    "pt": "Organization Account"
+                  },
+                  "slug": {
+                    "en": "organization-account",
+                    "es": "organization-account-es",
+                    "pt": "organization-account-pt"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17212,8 +17333,8 @@
               },
               "slug": {
                 "en": "b2b-suite-subcategory",
-                "es": "b2b-suite-subcategoria",
-                "pt": "b2b-suite-subcategoria"
+                "es": "b2b-suite-subcategoria-es",
+                "pt": "b2b-suite-subcategoria-pt"
               },
               "origin": "",
               "type": "category",
@@ -17636,8 +17757,8 @@
                       },
                       "slug": {
                         "en": "setting-up-b2b-on-vtex",
-                        "es": "configurando-b2b-na-vtex",
-                        "pt": "configurando-b2b-na-vtex"
+                        "es": "configurando-b2b-na-vtex-es",
+                        "pt": "configurando-b2b-na-vtex-pt"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -17718,66 +17839,6 @@
                     "en": "creating-or-editing-categories-attributes-and-variations-beta",
                     "es": "crear-o-editar-categorias-atributos-y-variaciones-beta",
                     "pt": "criar-ou-editar-categorias-atributos-e-variacoes-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing and exporting product and SKU images using a spreadsheet (Beta)",
-                    "es": "Importar y exportar imágenes de productos y SKUs mediante plantilla (Beta)",
-                    "pt": "Importar e exportar imagens de produtos e SKUs via planilha (Beta)"
-                  },
-                  "slug": {
-                    "en": "importing-and-exporting-product-and-sku-images-using-a-spreadsheet-beta",
-                    "es": "importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla-beta",
-                    "pt": "importar-e-exportar-imagens-de-produtos-e-skus-via-planilha-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing and exporting product specifications using a spreadsheet (Beta)",
-                    "es": "Importar y exportar especificaciones de productos mediante plantilla (Beta)",
-                    "pt": "Importar e exportar especificações de produtos via planilha (Beta)"
-                  },
-                  "slug": {
-                    "en": "importing-and-exporting-product-specifications-using-a-spreadsheet-beta",
-                    "es": "importar-y-exportar-especificaciones-de-productos-mediante-plantilla-beta",
-                    "pt": "importar-e-exportar-especificacoes-de-produtos-via-planilha-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing and exporting products and SKUs using a spreadsheet (Beta)",
-                    "es": "Importar y exportar productos y SKUs mediante plantilla (Beta)",
-                    "pt": "Importar e exportar produtos e SKUs via planilha (Beta)"
-                  },
-                  "slug": {
-                    "en": "importing-and-exporting-products-and-skus-using-a-spreadsheet-beta",
-                    "es": "importar-y-exportar-productos-y-skus-mediante-plantilla-beta",
-                    "pt": "importar-e-exportar-produtos-e-skus-via-planilha-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Importing and exporting SKU specifications using a spreadsheet (Beta)",
-                    "es": "Importar y exportar especificaciones de SKUs mediante plantilla (Beta)",
-                    "pt": "Importar e exportar especificações de SKUs via planilha (Beta)"
-                  },
-                  "slug": {
-                    "en": "importing-and-exporting-sku-specifications-using-a-spreadsheet-beta",
-                    "es": "importar-y-exportar-especificaciones-de-skus-mediante-plantilla-beta",
-                    "pt": "importar-e-exportar-especificacoes-de-skus-via-planilha-beta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17917,6 +17978,21 @@
                     "en": "product-recommendations-beta",
                     "es": "recomendaciones-de-productos-beta",
                     "pt": "recomendacoes-de-produtos-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Recommendations dashboard (beta)",
+                    "es": "Dashboard de recomendaciones (beta)",
+                    "pt": "Dashboard de recomendações (Beta)"
+                  },
+                  "slug": {
+                    "en": "recommendations-dashboard",
+                    "es": "dashboard-de-recomendaciones",
+                    "pt": "dashboard-de-recomendacoes"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -19361,21 +19437,21 @@
               "slug": {
                 "en": "import-and-export-subcategory",
                 "es": "importacion-y-exportacion-subcategoria",
-                "pt": "importação-e-exportação-subcategoria"
+                "pt": "importacao-e-exportacao-subcategoria"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "en": "Exporting and importing product and SKU specifications",
-                    "es": "Exportar y importar especificaciones de producto y SKU",
-                    "pt": "Exportar e importar especificações de produto e de SKU"
+                    "en": "Importing and exporting product and SKU images using a spreadsheet",
+                    "es": "Importar y exportar imágenes de productos y SKUs mediante plantilla",
+                    "pt": "Importar e exportar imagens de produtos e SKUs via planilha"
                   },
                   "slug": {
-                    "en": "exporting-and-importing-product-and-sku-specifications",
-                    "es": "exportar-y-importar-especificaciones-de-producto-y-sku",
-                    "pt": "exportar-e-importar-especificacoes-de-produto-e-de-sku"
+                    "en": "importing-and-exporting-product-and-sku-images-using-a-spreadsheet",
+                    "es": "importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla",
+                    "pt": "importar-e-exportar-imagens-de-produtos-e-skus-via-planilha"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -19383,14 +19459,14 @@
                 },
                 {
                   "name": {
-                    "en": "Filling in fields in the product and SKU import spreadsheet",
-                    "es": "Rellenar campos de la planilla de importación de productos y SKUs",
-                    "pt": "Preencher campos da planilha de importação de produtos e SKUs"
+                    "en": "Importing and exporting product specifications using a spreadsheet",
+                    "es": "Importar y exportar especificaciones de productos mediante plantilla",
+                    "pt": "Importar e exportar especificações de produtos via planilha"
                   },
                   "slug": {
-                    "en": "filling-in-fields-in-the-import-spreadsheet",
-                    "es": "rellenar-campos-de-la-planilla-de-importacion",
-                    "pt": "preencher-campos-da-planilha-de-importacao"
+                    "en": "importing-and-exporting-product-specifications-using-a-spreadsheet",
+                    "es": "importar-y-exportar-especificaciones-de-productos-mediante-plantilla",
+                    "pt": "importar-e-exportar-especificacoes-de-produtos-via-planilha"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -19398,14 +19474,14 @@
                 },
                 {
                   "name": {
-                    "en": "How to export a product spreadsheet",
-                    "es": "Cómo exportar planilla de productos",
-                    "pt": "Como exportar planilha de produtos"
+                    "en": "Importing and exporting products and SKUs using a spreadsheet",
+                    "es": "Importar y exportar productos y SKUs mediante plantilla",
+                    "pt": "Importar e exportar produtos e SKUs via planilha"
                   },
                   "slug": {
-                    "en": "how-to-export-a-product-spreadsheet",
-                    "es": "como-exportar-planilla-de-productos",
-                    "pt": "como-exportar-planilha-de-produtos"
+                    "en": "importing-and-exporting-products-and-skus-using-a-spreadsheet",
+                    "es": "importar-y-exportar-productos-y-skus-mediante-plantilla",
+                    "pt": "importar-e-exportar-produtos-e-skus-via-planilha"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -19413,14 +19489,14 @@
                 },
                 {
                   "name": {
-                    "en": "Importing images from a spreadsheet",
-                    "es": "Importar imágenes por plantilla",
-                    "pt": "Importar imagens por planilha"
+                    "en": "Importing and exporting SKU specifications using a spreadsheet",
+                    "es": "Importar y exportar especificaciones de SKUs mediante plantilla",
+                    "pt": "Importar e exportar especificações de SKUs via planilha"
                   },
                   "slug": {
-                    "en": "importing-images-from-a-spreadsheet",
-                    "es": "importando-imagenes-por-plantilla",
-                    "pt": "importando-imagens-por-planilha"
+                    "en": "importing-and-exporting-sku-specifications-using-a-spreadsheet",
+                    "es": "importar-y-exportar-especificaciones-de-skus-mediante-plantilla",
+                    "pt": "importar-e-exportar-especificacoes-de-skus-via-planilha"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -23783,6 +23859,36 @@
                     "en": "offer-management-moderation-and-quality-of-mercado-libre",
                     "es": "gestion-de-anuncios-moderacion-y-calidad-de-los-anuncios-en-mercado-libre",
                     "pt": "gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Price suggestion in the Amazon integration",
+                    "es": "Sugerencia de precios en la integración con Amazon",
+                    "pt": "Sugestão de preços na integração com a Amazon"
+                  },
+                  "slug": {
+                    "en": "amazon-price-suggestion",
+                    "es": "sugerencia-de-precios-amazon",
+                    "pt": "sugestao-de-precos-amazon"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Refurbished products on Mercado Libre",
+                    "es": "Productos reacondicionados en Mercado Libre",
+                    "pt": "Refurbished products on Mercado Libre"
+                  },
+                  "slug": {
+                    "en": "refurbished-products-on-mercado-libre",
+                    "es": "productos-reacondicionados-en-mercado-libre",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -40613,6 +40719,21 @@
             },
             {
               "name": {
+                "en": "API allows registering many EANs to the same SKU",
+                "es": "La API permite registrar muchos EAN en el mismo SKU.",
+                "pt": "A API permite registrar vários EANs para o mesmo SKU."
+              },
+              "slug": {
+                "en": "api-allows-registering-many-eans-to-the-same-sku",
+                "es": "la-api-permite-registrar-muchos-ean-en-el-mismo-sku",
+                "pt": "a-api-permite-registrar-varios-eans-para-o-mesmo-sku"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "APIs Who Saw Also Saw, Who Saw Also Bought, Who Bought Also Bought not always working as expected",
                 "es": "Las API \"Quién vio también vio\", \"Quién vio también compró\" y \"Quién compró también compró\" no siempre funcionan como se esperaba.",
                 "pt": "As APIs Who Saw Also Saw, Who Saw Also Bought, Who Bought Also Bought nem sempre funcionam como esperado"
@@ -41245,12 +41366,12 @@
               "name": {
                 "en": "CatalogV2 User Roles not Applying",
                 "es": "Los roles de usuario de CatalogV2 no se aplican",
-                "pt": "CatalogV2 Funções do usuário que não se aplicam"
+                "pt": "Funções do usuário do CatalogV2 não sendo aplicadas"
               },
               "slug": {
                 "en": "catalogv2-user-roles-not-applying",
                 "es": "los-roles-de-usuario-de-catalogv2-no-se-aplican",
-                "pt": "catalogv2-funcoes-do-usuario-que-nao-se-aplicam"
+                "pt": "funcoes-do-usuario-do-catalogv2-nao-sendo-aplicadas"
               },
               "origin": "",
               "type": "markdown",
@@ -41581,6 +41702,21 @@
                 "en": "cost-price-rounding-logic-diverges-on-computed-prices-api",
                 "es": "la-logica-de-redondeo-de-precios-de-coste-diverge-en-la-api-de-precios-calculados",
                 "pt": "a-logica-de-arredondamento-do-preco-de-custo-diverge-na-api-de-precos-calculados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Coupon not working with message \"coupon has expired\"",
+                "es": "El cupón no funciona y aparece el mensaje «El cupón ha caducado»",
+                "pt": "O cupom não está funcionando e aparece a mensagem \"o cupom expirou\""
+              },
+              "slug": {
+                "en": "coupon-not-working-with-message-coupon-has-expired",
+                "es": "el-cupon-no-funciona-y-aparece-el-mensaje-el-cupon-ha-caducado",
+                "pt": "o-cupom-nao-esta-funcionando-e-aparece-a-mensagem-o-cupom-expirou"
               },
               "origin": "",
               "type": "markdown",
@@ -45355,6 +45491,21 @@
             },
             {
               "name": {
+                "en": "Checkout UI breaks after new address is added on Address Form in Chile B2B stores",
+                "es": "La interfaz de pago deja de funcionar tras añadir una nueva dirección en el formulario de direcciones de las tiendas B2B de Chile",
+                "pt": "A interface do checkout apresenta falhas após a adição de um novo endereço no formulário de endereço nas lojas B2B do Chile"
+              },
+              "slug": {
+                "en": "checkout-ui-breaks-after-new-address-is-added-on-address-form-in-chile-b2b-stores",
+                "es": "la-interfaz-de-pago-deja-de-funcionar-tras-anadir-una-nueva-direccion-en-el-formulario-de-direcciones-de-las-tiendas-b2b-de-chile",
+                "pt": "a-interface-do-checkout-apresenta-falhas-apos-a-adicao-de-um-novo-endereco-no-formulario-de-endereco-nas-lojas-b2b-do-chile"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Checkout UI changes the selected address when more than 1 address available",
                 "es": "La interfaz de usuario de la caja cambia la dirección seleccionada cuando hay más de 1 dirección disponible.",
                 "pt": "A interface de usuário do checkout altera o endereço selecionado quando há mais de um endereço disponível"
@@ -45363,6 +45514,21 @@
                 "en": "checkout-ui-changes-the-selected-address-when-more-than-1-address-available",
                 "es": "la-interfaz-de-usuario-de-la-caja-cambia-la-direccion-seleccionada-cuando-hay-mas-de-1-direccion-disponible",
                 "pt": "a-interface-de-usuario-do-checkout-altera-o-endereco-selecionado-quando-ha-mais-de-um-endereco-disponivel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Checkout UI does not display an error message when user with complete profile triggers gift unavailability",
+                "es": "La interfaz de pago no muestra un mensaje de error cuando un usuario con el perfil completo activa la opción de que el regalo no está disponible",
+                "pt": "A interface do checkout não exibe uma mensagem de erro quando um usuário com perfil completo aciona a indisponibilidade do presente"
+              },
+              "slug": {
+                "en": "checkout-ui-does-not-display-an-error-message-when-user-with-complete-profile-triggers-gift-unavailability",
+                "es": "la-interfaz-de-pago-no-muestra-un-mensaje-de-error-cuando-un-usuario-con-el-perfil-completo-activa-la-opcion-de-que-el-regalo-no-esta-disponible",
+                "pt": "a-interface-do-checkout-nao-exibe-uma-mensagem-de-erro-quando-um-usuario-com-perfil-completo-aciona-a-indisponibilidade-do-presente"
               },
               "origin": "",
               "type": "markdown",
@@ -47232,12 +47398,12 @@
               "name": {
                 "en": "Proportional shipping costs shows negative values when there are promotion that split items and free shipping applied",
                 "es": "Los gastos de envío proporcionales muestran valores negativos cuando hay promociones que fraccionan artículos y se aplican gastos de envío gratuitos.",
-                "pt": "Os custos de frete proporcionais mostram valores negativos quando há promoções que dividem itens e frete grátis aplicado"
+                "pt": "Os custos de envio proporcionais apresentam valores negativos quando há promoções que dividem os itens e envio gratuito aplicado."
               },
               "slug": {
                 "en": "proportional-shipping-costs-shows-negative-values-when-there-are-promotion-that-split-items-and-free-shipping-applied",
                 "es": "los-gastos-de-envio-proporcionales-muestran-valores-negativos-cuando-hay-promociones-que-fraccionan-articulos-y-se-aplican-gastos-de-envio-gratuito",
-                "pt": "os-custos-de-frete-proporcionais-mostram-valores-negativos-quando-ha-promocoes-que-dividem-itens-e-frete-gratis-aplicado"
+                "pt": "os-custos-de-envio-proporcionais-apresentam-valores-negativos-quando-ha-promocoes-que-dividem-os-itens-e-envio-gratuito-aplicado"
               },
               "origin": "",
               "type": "markdown",
@@ -47681,13 +47847,13 @@
             {
               "name": {
                 "en": "Shopper is redirect to gatewayCallback/{orderGroup}/Success instead of placeOrder page",
-                "es": "El comprador es redirigido a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder",
-                "pt": "O comprador é redirecionado para a página gatewayCallback/{orderGroup}/Success em vez da página placeOrder"
+                "es": "El comprador es redirigido a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder.",
+                "pt": "O comprador é redirecionado para gatewayCallback/{orderGroup}/Success em vez da página placeOrder."
               },
               "slug": {
                 "en": "shopper-is-redirect-to-gatewaycallbackordergroupsuccess-instead-of-placeorder-page",
                 "es": "el-comprador-es-redirigido-a-gatewaycallbackordergroupsuccess-en-lugar-de-a-la-pagina-placeorder",
-                "pt": "o-comprador-e-redirecionado-para-a-pagina-gatewaycallbackordergroupsuccess-em-vez-da-pagina-placeorder"
+                "pt": "o-comprador-e-redirecionado-para-gatewaycallbackordergroupsuccess-em-vez-da-pagina-placeorder"
               },
               "origin": "",
               "type": "markdown",
@@ -49482,21 +49648,6 @@
             },
             {
               "name": {
-                "en": "Amazon integration is not cancelling orders in VTEX",
-                "es": "La integración de Amazon no cancela los pedidos en VTEX",
-                "pt": "A integração da Amazônia não está cancelando pedidos na VTEX"
-              },
-              "slug": {
-                "en": "amazon-integration-is-not-cancelling-orders-in-vtex",
-                "es": "la-integracion-de-amazon-no-cancela-los-pedidos-en-vtex",
-                "pt": "a-integracao-da-amazonia-nao-esta-cancelando-pedidos-na-vtex"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Amazon integration stock reservations for KITS",
                 "es": "Integración de Amazon reservas de stock para KITS",
                 "pt": "Reservas de estoque de integração da Amazon para KITS"
@@ -49572,14 +49723,14 @@
             },
             {
               "name": {
-                "en": "Amazon order does not integrate",
-                "es": "El pedido de Amazon no se integra",
-                "pt": "O pedido da Amazon não se integra"
+                "en": "Amazon Order cancellation flow",
+                "es": "Amazon Flujo de cancelación de pedidos",
+                "pt": "Amazon Fluxo de cancelamento de pedidos"
               },
               "slug": {
-                "en": "amazon-order-does-not-integrate",
-                "es": "el-pedido-de-amazon-no-se-integra",
-                "pt": "o-pedido-da-amazon-nao-se-integra"
+                "en": "amazon-order-cancellation-flow",
+                "es": "amazon-flujo-de-cancelacion-de-pedidos",
+                "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
               },
               "origin": "",
               "type": "markdown",
@@ -49955,6 +50106,21 @@
                 "en": "integracao-de-pedido-amazon-quantidade-de-item-invalida",
                 "es": "integracion-de-pedidos-amazon-cantidad-de-articulos-no-valida",
                 "pt": "integracao-de-pedido-amazon-quantidade-de-item-invalida"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "La integración de Amazon no cancela los pedidos en VTEX",
+                "pt": "A integração da Amazônia não está cancelando pedidos na VTEX",
+                "en": "La integración de Amazon no cancela los pedidos en VTEX"
+              },
+              "slug": {
+                "es": "la-integracion-de-amazon-no-cancela-los-pedidos-en-vtex",
+                "pt": "a-integracao-da-amazonia-nao-esta-cancelando-pedidos-na-vtex",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -52246,6 +52412,21 @@
             },
             {
               "name": {
+                "en": "Explained Search returns results from main locale instead of selected secondary locale",
+                "es": "La búsqueda explicada devuelve resultados de la configuración regional principal en lugar de la configuración regional secundaria seleccionada.",
+                "pt": "A Pesquisa explicada retorna resultados da localidade principal em vez da localidade secundária selecionada."
+              },
+              "slug": {
+                "en": "explained-search-returns-results-from-main-locale-instead-of-selected-secondary-locale",
+                "es": "la-busqueda-explicada-devuelve-resultados-de-la-configuracion-regional-principal-en-lugar-de-la-configuracion-regional-secundaria-seleccionada",
+                "pt": "a-pesquisa-explicada-retorna-resultados-da-localidade-principal-em-vez-da-localidade-secundaria-selecionada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Facets from the Segment affecting breadcrumbs, page title, and additional filters",
                 "es": "Facetas del Segmento que afectan a las migas de pan, al título de la página y a los filtros adicionales",
                 "pt": "Facetas do Segmento que afetam os breadcrumbs, o título da página e os filtros adicionais"
@@ -53342,13 +53523,13 @@
             {
               "name": {
                 "en": "Specification Values not being translated in Intelligent Search side",
-                "es": "Los valores de especificación no se traducen en la búsqueda inteligente",
-                "pt": "Os valores de especificação não estão sendo traduzidos no lado da Pesquisa Inteligente"
+                "es": "Los valores de las especificaciones no se traducen en la sección de búsqueda inteligente",
+                "pt": "Os valores das especificações não estão sendo traduzidos na seção de Pesquisa Inteligente"
               },
               "slug": {
                 "en": "specification-values-not-being-translated-in-intelligent-search-side",
-                "es": "los-valores-de-especificacion-no-se-traducen-en-la-busqueda-inteligente",
-                "pt": "os-valores-de-especificacao-nao-estao-sendo-traduzidos-no-lado-da-pesquisa-inteligente"
+                "es": "los-valores-de-las-especificaciones-no-se-traducen-en-la-seccion-de-busqueda-inteligente",
+                "pt": "os-valores-das-especificacoes-nao-estao-sendo-traduzidos-na-secao-de-pesquisa-inteligente"
               },
               "origin": "",
               "type": "markdown",
@@ -58193,6 +58374,21 @@
             },
             {
               "name": {
+                "en": "Orders that fail to reach the \"invoiced\" status even after the invoice has been correctly entered.",
+                "es": "Pedidos que no alcanzan el estado «facturado» incluso después de que la factura se haya introducido correctamente.",
+                "pt": "Pedidos que não alcançam o status \"faturado\" mesmo após a fatura ter sido inserida corretamente."
+              },
+              "slug": {
+                "en": "orders-that-fail-to-reach-the-invoiced-status-even-after-the-invoice-has-been-correctly-entered",
+                "es": "pedidos-que-no-alcanzan-el-estado-facturado-incluso-despues-de-que-la-factura-se-haya-introducido-correctamente",
+                "pt": "pedidos-que-nao-alcancam-o-status-faturado-mesmo-apos-a-fatura-ter-sido-inserida-corretamente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Orders with a 'Creation Error' remain stuck in a 'cancel' status",
                 "es": "Los pedidos con un 'Error de creación' permanecen atascados en estado 'cancelado'.",
                 "pt": "Os pedidos com um 'Erro de criação' permanecem presos em um status de 'cancelar'"
@@ -58276,6 +58472,21 @@
                 "en": "possible-errors-in-change-orders-notification-in-the-ui-api-and-gateway",
                 "es": "posibles-errores-en-la-notificacion-de-ordenes-de-cambio-en-la-interfaz-de-usuario-la-api-y-la-pasarela",
                 "pt": "possiveis-erros-na-notificacao-de-ordens-de-alteracao-na-interface-do-usuario-na-api-e-no-gateway"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Refund limited incorrectly due to duplicated receipt from race condition (OMS invoice/restutions)",
+                "es": "Reembolso limitado incorrectamente debido a un recibo duplicado por una condición de carrera (factura OMS/reembolsos)",
+                "pt": "Reembolso limitado incorretamente devido a um recibo duplicado causado por uma condição de corrida (fatura OMS/restituições)"
+              },
+              "slug": {
+                "en": "refund-limited-incorrectly-due-to-duplicated-receipt-from-race-condition-oms-invoicerestutions",
+                "es": "reembolso-limitado-incorrectamente-debido-a-un-recibo-duplicado-por-una-condicion-de-carrera-factura-omsreembolsos",
+                "pt": "reembolso-limitado-incorretamente-devido-a-um-recibo-duplicado-causado-por-uma-condicao-de-corrida-fatura-omsrestituicoes"
               },
               "origin": "",
               "type": "markdown",
@@ -59427,12 +59638,12 @@
             {
               "name": {
                 "en": "Checkout cancels transaction after creation",
-                "es": "El pago cancela la transacción después de la creación",
+                "es": "El proceso de pago cancela la transacción tras su creación.",
                 "pt": "O checkout cancela a transação após a criação"
               },
               "slug": {
                 "en": "checkout-cancels-transaction-after-creation",
-                "es": "el-pago-cancela-la-transaccion-despues-de-la-creacion",
+                "es": "el-proceso-de-pago-cancela-la-transaccion-tras-su-creacion",
                 "pt": "o-checkout-cancela-a-transacao-apos-a-criacao"
               },
               "origin": "",
@@ -60252,13 +60463,13 @@
             {
               "name": {
                 "en": "Giftcard not getting refund after transaction cancellation",
-                "es": "No se reembolsa la tarjeta regalo tras cancelar la transacción",
-                "pt": "O Giftcard não está sendo reembolsado após o cancelamento da transação"
+                "es": "No se reembolsa la tarjeta regalo tras la cancelación de la transacción",
+                "pt": "O vale-presente não está sendo reembolsado após o cancelamento da transação"
               },
               "slug": {
                 "en": "giftcard-not-getting-refund-after-transaction-cancellation",
-                "es": "no-se-reembolsa-la-tarjeta-regalo-tras-cancelar-la-transaccion",
-                "pt": "o-giftcard-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao"
+                "es": "no-se-reembolsa-la-tarjeta-regalo-tras-la-cancelacion-de-la-transaccion",
+                "pt": "o-valepresente-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao"
               },
               "origin": "",
               "type": "markdown",
@@ -60709,6 +60920,21 @@
                 "en": "legacy-antifrauds-cannot-complete-a-request-when-the-accountid-is-missing",
                 "es": "los-sistemas-antifraude-heredados-no-pueden-completar-una-solicitud-cuando-falta-el-id-de-la-cuenta",
                 "pt": "os-antifrauds-legados-nao-podem-concluir-uma-solicitacao-quando-o-accountid-esta-ausente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Legacy Catalog Admin Gift Card page shows “Something went wrong” for specific users",
+                "es": "La página de tarjetas regalo del administrador del catálogo heredado muestra el mensaje «Se ha producido un error» para determinados usuarios.",
+                "pt": "A página do cartão-presente do administrador do catálogo antigo exibe a mensagem “Ocorreu um problema” para usuários específicos."
+              },
+              "slug": {
+                "en": "legacy-catalog-admin-gift-card-page-shows-something-went-wrong-for-specific-users",
+                "es": "la-pagina-de-tarjetas-regalo-del-administrador-del-catalogo-heredado-muestra-el-mensaje-se-ha-producido-un-error-para-determinados-usuarios",
+                "pt": "a-pagina-do-cartaopresente-do-administrador-do-catalogo-antigo-exibe-a-mensagem-ocorreu-um-problema-para-usuarios-especificos"
               },
               "origin": "",
               "type": "markdown",
@@ -61482,12 +61708,12 @@
             {
               "name": {
                 "en": "Redirect page does not open for credit card payments when using Defense Mode/Trigger: suspicious",
-                "es": "La página de redireccionamiento no se abre para los pagos con tarjeta de crédito cuando se utiliza el modo de defensa/activador: sospechoso.",
+                "es": "La página de redireccionamiento no se abre para los pagos con tarjeta de crédito cuando se utiliza el modo de defensa/desencadenante: sospechoso.",
                 "pt": "A página de redirecionamento não abre para pagamentos com cartão de crédito ao usar o Modo de Defesa/Gatilho: suspeito"
               },
               "slug": {
                 "en": "redirect-page-does-not-open-for-credit-card-payments-when-using-defense-modetrigger-suspicious",
-                "es": "la-pagina-de-redireccionamiento-no-se-abre-para-los-pagos-con-tarjeta-de-credito-cuando-se-utiliza-el-modo-de-defensaactivador-sospechoso",
+                "es": "la-pagina-de-redireccionamiento-no-se-abre-para-los-pagos-con-tarjeta-de-credito-cuando-se-utiliza-el-modo-de-defensadesencadenante-sospechoso",
                 "pt": "a-pagina-de-redirecionamento-nao-abre-para-pagamentos-com-cartao-de-credito-ao-usar-o-modo-de-defesagatilho-suspeito"
               },
               "origin": "",
@@ -61549,6 +61775,21 @@
                 "en": "regex-conflict-causes-us-to-misidentify-the-cards-brand",
                 "es": "el-conflicto-de-regex-hace-que-identifiquemos-mal-la-marca-de-las-tarjetas",
                 "pt": "conflito-de-interesses-nos-leva-a-identificar-erroneamente-a-marca-cards"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Removed payment methods still returned in Checkout when account has no active payment rules/conditions",
+                "es": "Los métodos de pago eliminados siguen apareciendo en la página de pago cuando la cuenta no tiene reglas o condiciones de pago activas",
+                "pt": "Os métodos de pagamento removidos ainda aparecem na página de finalização da compra quando a conta não possui regras/condições de pagamento ativas"
+              },
+              "slug": {
+                "en": "removed-payment-methods-still-returned-in-checkout-when-account-has-no-active-payment-rulesconditions",
+                "es": "los-metodos-de-pago-eliminados-siguen-apareciendo-en-la-pagina-de-pago-cuando-la-cuenta-no-tiene-reglas-o-condiciones-de-pago-activas",
+                "pt": "os-metodos-de-pagamento-removidos-ainda-aparecem-na-pagina-de-finalizacao-da-compra-quando-a-conta-nao-possui-regrascondicoes-de-pagamento-ativas"
               },
               "origin": "",
               "type": "markdown",
@@ -62126,6 +62367,21 @@
             },
             {
               "name": {
+                "en": "Transaction stuck in cancelling and cancel/refund return “Object reference not set to an instance of an object”",
+                "es": "Transacción bloqueada en la cancelación y devolución de cancelación/reembolso «Referencia de objeto no establecida en una instancia de un objeto».",
+                "pt": "Transação travada no cancelamento e cancelamento/reembolso da devolução “Referência de objeto não definida para uma instância de um objeto”"
+              },
+              "slug": {
+                "en": "transaction-stuck-in-cancelling-and-cancelrefund-return-object-reference-not-set-to-an-instance-of-an-object",
+                "es": "transaccion-bloqueada-en-la-cancelacion-y-devolucion-de-cancelacionreembolso-referencia-de-objeto-no-establecida-en-una-instancia-de-un-objeto",
+                "pt": "transacao-travada-no-cancelamento-e-cancelamentoreembolso-da-devolucao-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction stuck in Settling after Capture fails due to recipientsSplitRemainValue mismatch",
                 "es": "Transacción bloqueada en Liquidación tras fallo de Captura debido a una falta de coincidencia de recipientsSplitRemainValue.",
                 "pt": "Transação presa na Liquidação após falha na Captura devido à incompatibilidade entre recipientsSplitRemainValue"
@@ -62262,13 +62518,13 @@
             {
               "name": {
                 "en": "Transactions remain stuck in Analyzing Risk despite AFPP connector approval",
-                "es": "Las transacciones siguen atascadas en Análisis de riesgos a pesar de la aprobación del conector AFPP",
-                "pt": "As transações continuam presas no Analyzing Risk apesar da aprovação do conector AFPP"
+                "es": "Las transacciones siguen atascadas en «Analizando el riesgo» a pesar de la aprobación del conector AFPP.",
+                "pt": "As transações permanecem presas na Análise de Risco, apesar da aprovação do conector AFPP."
               },
               "slug": {
                 "en": "transactions-remain-stuck-in-analyzing-risk-despite-afpp-connector-approval",
-                "es": "las-transacciones-siguen-atascadas-en-analisis-de-riesgos-a-pesar-de-la-aprobacion-del-conector-afpp",
-                "pt": "as-transacoes-continuam-presas-no-analyzing-risk-apesar-da-aprovacao-do-conector-afpp"
+                "es": "las-transacciones-siguen-atascadas-en-analizando-el-riesgo-a-pesar-de-la-aprobacion-del-conector-afpp",
+                "pt": "as-transacoes-permanecem-presas-na-analise-de-risco-apesar-da-aprovacao-do-conector-afpp"
               },
               "origin": "",
               "type": "markdown",
@@ -62277,12 +62533,12 @@
             {
               "name": {
                 "en": "Transactions remain stuck in Analyzing Risk despite legacy anti fraud connector approval",
-                "es": "Las transacciones permanecen atascadas en Análisis de riesgos a pesar de la aprobación del conector antifraude heredado",
+                "es": "Las transacciones siguen atascadas en «Analizando el riesgo» a pesar de la aprobación del conector antifraude heredado.",
                 "pt": "As transações permanecem presas no Analyzing Risk, apesar da aprovação do conector antifraude legado"
               },
               "slug": {
                 "en": "transactions-remain-stuck-in-analyzing-risk-despite-legacy-anti-fraud-connector-approval",
-                "es": "las-transacciones-permanecen-atascadas-en-analisis-de-riesgos-a-pesar-de-la-aprobacion-del-conector-antifraude-heredado",
+                "es": "las-transacciones-siguen-atascadas-en-analizando-el-riesgo-a-pesar-de-la-aprobacion-del-conector-antifraude-heredado",
                 "pt": "as-transacoes-permanecem-presas-no-analyzing-risk-apesar-da-aprovacao-do-conector-antifraude-legado"
               },
               "origin": "",
@@ -62307,12 +62563,12 @@
             {
               "name": {
                 "en": "Transactions remain stuck in Pending Authorization despite connector approval",
-                "es": "Las transacciones permanecen atascadas en Pendiente de autorización a pesar de la aprobación del conector",
-                "pt": "As transações permanecem presas em Autorização Pendente apesar da aprovação do conector"
+                "es": "Las transacciones permanecen bloqueadas en «Autorización pendiente» a pesar de la aprobación del conector.",
+                "pt": "As transações permanecem presas em Autorização pendente, apesar da aprovação do conector"
               },
               "slug": {
                 "en": "transactions-remain-stuck-in-pending-authorization-despite-connector-approval",
-                "es": "las-transacciones-permanecen-atascadas-en-pendiente-de-autorizacion-a-pesar-de-la-aprobacion-del-conector",
+                "es": "las-transacciones-permanecen-bloqueadas-en-autorizacion-pendiente-a-pesar-de-la-aprobacion-del-conector",
                 "pt": "as-transacoes-permanecem-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector"
               },
               "origin": "",
@@ -62382,13 +62638,13 @@
             {
               "name": {
                 "en": "Transactions stuck in Pending Authorization after approval",
-                "es": "Transacciones atascadas en Pendiente de autorización tras la aprobación",
-                "pt": "Transações presas em Autorização Pendente após a aprovação"
+                "es": "Transacciones bloqueadas en «Autorización pendiente» tras su aprobación",
+                "pt": "Transações retidas em Autorização pendente após aprovação"
               },
               "slug": {
                 "en": "transactions-stuck-in-pending-authorization-after-approval",
-                "es": "transacciones-atascadas-en-pendiente-de-autorizacion-tras-la-aprobacion",
-                "pt": "transacoes-presas-em-autorizacao-pendente-apos-a-aprovacao"
+                "es": "transacciones-bloqueadas-en-autorizacion-pendiente-tras-su-aprobacion",
+                "pt": "transacoes-retidas-em-autorizacao-pendente-apos-aprovacao"
               },
               "origin": "",
               "type": "markdown",
@@ -62750,6 +63006,21 @@
                 "en": "sales-app-barcode-scanner-accepts-only-ean13",
                 "es": "el-escaner-de-codigo-de-barras-de-sales-app-solo-acepta-ean13",
                 "pt": "o-leitor-de-codigo-de-barras-do-aplicativo-de-vendas-aceita-apenas-ean13"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sales App When attempting to pay with digit or scan card, the CVV field can't be filled",
+                "es": "Aplicación de ventas Al intentar pagar con tarjeta digital o escaneada, no se puede rellenar el campo del CVV",
+                "pt": "Aplicativo de vendas Ao tentar pagar com cartão digital ou digitalizado, não é possível preencher o campo CVV"
+              },
+              "slug": {
+                "en": "sales-app-when-attempting-to-pay-with-digit-or-scan-card-the-cvv-field-cant-be-filled",
+                "es": "aplicacion-de-ventas-al-intentar-pagar-con-tarjeta-digital-o-escaneada-no-se-puede-rellenar-el-campo-del-cvv",
+                "pt": "aplicativo-de-vendas-ao-tentar-pagar-com-cartao-digital-ou-digitalizado-nao-e-possivel-preencher-o-campo-cvv"
               },
               "origin": "",
               "type": "markdown",
