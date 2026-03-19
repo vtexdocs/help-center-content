@@ -10,7 +10,7 @@ locale: en
 
 > ⚠️ This feature is only available for stores using B2B Buyer Portal, which is currently available to select accounts.
 
-The **Contract** section in the [Organization Account](https://help.vtex.com/en/docs/tutorials/organization-account) groups settings that define how an [organizational unit](https://help.vtex.com/en/docs/tutorials/organization-units) operates within a B2B Buyer Portal store. From this section, the user can view unit profile information, manage addresses, configure payment methods and credit cards, select product assortments, and manage [custom checkout fields](https://help.vtex.com/en/docs/tutorials/custom-checkout-fields).
+The **Contract** section in the [Organization Account](https://help.vtex.com/en/docs/tutorials/organization-account) groups settings that define how a buyer organization operates within a B2B Buyer Portal store. From this section, the user can view unit profile information, manage addresses, configure payment methods and credit cards, select product assortments, and manage [custom checkout fields](https://help.vtex.com/en/docs/tutorials/custom-checkout-fields).
 
 This article covers:
 
@@ -31,20 +31,26 @@ This article covers:
 
 ## Viewing the unit profile
 
-The **Profile** page displays basic information about the organizational unit, including its name, email, and creation date. This information is not editable.
+The **Profile** page displays basic information about the contract, including its name, email, and creation date. This information is not editable.
 
 1. In the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account), in the **Contract** section, click **Profile.**
 2. View the unit details in the **Details** section.
 
 ## Managing addresses
 
-The **Addresses** page lists all addresses registered for the organizational unit. Each address displays its name and type. The user can search, add, edit, and delete addresses from this page.
+The **Addresses** page lists all addresses available for the organizational unit. Each address displays its name and type. The user can search, add, edit, and delete addresses from this page.
+
+Beyond the street-level details, the user can associate **locations** and **recipients** with an address.
+
+A **location** is a specific delivery point inside a site, such as a bay, department, or internal area. For example, the order is sent to the company address, but delivery is to Bay-3456.
+
+**Recipients** are people registered with the buyer organization to receive orders at that address.
 
 ### Adding an address
 
 1. In the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account), in the **Contract** section, click **Addresses.**
 2. On the **Addresses** page, click the **+** icon at the top of the screen.
-3. In the **Add address** panel, complete the information across the following tabs:
+3. In the **Add address** panel, you can choose an address from the ones previously registered for your organization. If there is no registered address yet or you want to save a new address, complete the information across the following tabs:
     - In the **Details** tab, fill in the address fields:
         - **Country:** Select the country.
         - **Address Name:** Enter a name to identify the address.
@@ -54,7 +60,7 @@ The **Addresses** page lists all addresses registered for the organizational uni
         - **State:** Select the state.
         - **Postal Code:** Enter the postal code.
         - **Address Type:** Select the address type.
-    - In the **Locations** tab, optionally add location names associated with this address. Click `Add Location` to add more locations.
+    - In the **Locations** tab, optionally add locations associated with this address. Click `Add Location` to add more locations.
     - In the **Recipients** tab, optionally add recipients for this address. Click `Add recipient` to add more recipients, each with a **Name** and **Phone Number.**
 4. Click `Add`.
 
@@ -82,7 +88,7 @@ The **Addresses** page lists all addresses registered for the organizational uni
 
 ## Managing payment methods
 
-The **Payment methods** page lists the payment methods currently available for the organizational unit. The user can add methods from the contract's available options or remove existing ones.
+The **Payment methods** page lists the payment methods currently available for the organizational unit. The user can add methods from the options available to the organizational unit or remove existing ones.
 
 ### Adding a payment method
 
@@ -103,7 +109,9 @@ The selected payment methods will be listed on the **Payment Methods** page and 
 
 ## Managing credit cards
 
-The **Credit cards** page lists all credit cards registered for the organizational unit. Each card displays its nickname and a toggle to enable or disable it. The user can add new cards, edit card details, and delete cards.
+The **Credit Cards** page displays all cards registered to the organizational unit. Each card shows its nickname and an option to enable or disable it. Users can add new cards, edit existing card details, and remove cards.
+
+Credit cards associated with the contract are shared with the organizational unit, but can be restricted with [scopes](https://help.vtex.com/en/docs/tutorials/scopes-overview). During checkout, buyers select a card by its nickname from the cards linked to the contract and available to that unit.
 
 ### Adding a credit card
 
@@ -144,13 +152,15 @@ Once you add a credit card, you can only edit its nickname.
 
 The **Product assortments** page allows the user to select which product assortment users in the organizational unit can access. Each organizational unit can have one active assortment at a time.
 
+A **product assortment** is the set of products available to buyers in that unit. Different organizations or units can use different assortments when your business rules call for separate catalogs or selections.
+
 1. In the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account), in the **Contract** section, click **Product assortment.**
 2. On the **Product assortments** page, select the desired assortment from the list by clicking its radio button.
 
 The selection is saved automatically.
 
-## Custom checkout fields
+## Accounting fields
 
-[Custom checkout fields](https://help.vtex.com/en/docs/tutorials/custom-checkout-fields) configured by the buyer organization appear as individual menu items in the **Contract** section of the sidebar. These fields collect additional information during checkout, such as cost centers, PO numbers, or department codes.
+[Accounting fields](https://help.vtex.com/en/docs/tutorials/accounting-fields) configured by the buyer organization appear as individual menu items in the **Contract** section of the sidebar. These fields collect additional information during checkout, such as cost centers, PO numbers, or department codes.
 
-To learn how to add or manage custom checkout fields, see [Adding or editing custom checkout fields](https://help.vtex.com/en/docs/tutorials/adding-or-editing-custom-checkout-fields).
+To learn how to add or manage accounting fields, see [Adding or editing accounting fields](https://help.vtex.com/en/docs/tutorials/adding-or-editing-custom-checkout-fields).
