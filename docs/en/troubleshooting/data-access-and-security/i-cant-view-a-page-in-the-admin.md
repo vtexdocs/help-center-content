@@ -13,9 +13,10 @@ slugEN: i-cant-view-a-page-in-the-admin
 legacySlug: i-cant-view-a-page-in-the-admin
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Identity
   - Admin
+symptomFilters:
   - Access restriction
   - Loading issue
 ---

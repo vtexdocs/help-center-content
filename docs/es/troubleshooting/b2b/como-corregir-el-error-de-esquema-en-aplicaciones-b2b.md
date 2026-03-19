@@ -13,9 +13,10 @@ slugEN: i-cant-fix-the-schema-error-in-b2b-apps
 legacySlug: como-corregir-el-error-de-esquema-en-aplicaciones-b2b
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - B2B
   - Master Data
+symptomFilters:
   - Error de validación
   - Configuración incorrecta
 ---

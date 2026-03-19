@@ -13,8 +13,9 @@ slugEN: error-installing-custom-ssl-certificates
 legacySlug: error-installing-custom-ssl-certificate
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - VTEX Shield
+symptomFilters:
   - Validation error
   - Misconfiguration
 ---

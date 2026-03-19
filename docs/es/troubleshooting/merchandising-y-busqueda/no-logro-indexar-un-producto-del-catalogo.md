@@ -13,9 +13,10 @@ slugEN: i-cant-index-a-product-in-the-catalog
 legacySlug: no-logro-indexar-un-producto-del-catalogo
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Catálogo
   - Intelligent Search
+symptomFilters:
   - Error de carga
   - Configuración incorrecta
 ---

@@ -13,9 +13,10 @@ slugEN: the-order-doesnt-progress-after-the-status-handling-shipping
 legacySlug: el-pedido-se-detiene-en-el-status-preparando-envio
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Pedidos
   - Logística
+symptomFilters:
   - Interrupción en el flujo
 ---
 

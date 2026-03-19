@@ -13,9 +13,10 @@ slugEN: i-cant-fix-the-schema-error-in-b2b-apps
 legacySlug: i-cant-fix-the-schema-error-in-b2b-apps
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - B2B
   - Master Data
+symptomFilters:
   - Validation error
   - Misconfiguration
 ---

@@ -13,10 +13,11 @@ slugEN: my-ad-is-not-displayed-on-mercado-livre
 legacySlug: meu-anuncio-nao-e-exibido-no-mercado-livre
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Marketplace
   - Catálogo
   - Integrações
+symptomFilters:
   - Erro de carregamento
   - Configuração incorreta
 ---

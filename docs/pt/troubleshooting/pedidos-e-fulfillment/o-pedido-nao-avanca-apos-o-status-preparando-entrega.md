@@ -13,9 +13,10 @@ slugEN: the-order-doesnt-progress-after-the-status-handling-shipping
 legacySlug: o-pedido-nao-avanca-apos-o-status-preparando-entrega
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Pedidos
   - Logística
+symptomFilters:
   - Interrupção no fluxo
 ---
 

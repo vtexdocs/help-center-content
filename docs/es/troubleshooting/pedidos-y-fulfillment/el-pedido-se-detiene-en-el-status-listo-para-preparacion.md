@@ -13,10 +13,11 @@ slugEN: the-order-doesnt-progress-after-the-status-ready-for-handling
 legacySlug: el-pedido-se-detiene-en-el-status-listo-para-preparacion
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Pedidos
   - Logística
   - Integraciones
+symptomFilters:
   - Interrupción en el flujo
   - Error de sincronización
 ---

@@ -13,9 +13,10 @@ slugEN: customer-and-address-forms-do-not-exist-in-multistores
 legacySlug: crear-formularios-de-cliente-y-dirección-en-nuevas-tiendas
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Master Data
   - Admin
+symptomFilters:
   - Configuración incorrecta
 ---
 

@@ -13,10 +13,11 @@ slugEN: the-order-doesnt-progress-after-the-status-ready-for-handling
 legacySlug: o-pedido-nao-avanca-apos-o-status-pronto-para-manuseio
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Pedidos
   - Logística
   - Integrações
+symptomFilters:
   - Interrupção no fluxo
   - Erro de sincronização
 ---

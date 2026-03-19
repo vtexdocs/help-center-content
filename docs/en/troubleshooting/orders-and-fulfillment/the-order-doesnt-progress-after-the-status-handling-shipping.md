@@ -13,9 +13,10 @@ slugEN: the-order-doesnt-progress-after-the-status-handling-shipping
 legacySlug: the-order-doesnt-progress-after-the-status-handling-shipping
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Orders
   - Logistics
+symptomFilters:
   - Flow interruption
 ---
 

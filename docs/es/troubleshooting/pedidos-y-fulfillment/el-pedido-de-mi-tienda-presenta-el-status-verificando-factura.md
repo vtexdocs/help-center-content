@@ -13,9 +13,10 @@ slugEN: my-stores-order-still-has-the-status-verifying-invoice
 legacySlug: el-pedido-de-mi-tienda-presenta-el-status-verificando-factura
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Pedidos
   - Pagos
+symptomFilters:
   - Interrupción en el flujo
 ---
 

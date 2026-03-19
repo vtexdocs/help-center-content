@@ -13,10 +13,11 @@ slugEN: my-store-order-was-not-created
 legacySlug: no-se-ha-creado-el-pedido-de-mi-tienda
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Checkout
   - Pedidos
   - Pagos
+symptomFilters:
   - Interrupción en el flujo
   - Configuración incorrecta
 ---

@@ -13,9 +13,10 @@ slugEN: my-inventory-is-negative
 legacySlug: my-inventory-is-negative
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Logistics
   - Orders
+symptomFilters:
   - Flow interruption
 ---
 

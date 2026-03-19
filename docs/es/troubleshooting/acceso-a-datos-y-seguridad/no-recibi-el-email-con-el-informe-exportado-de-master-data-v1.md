@@ -13,9 +13,10 @@ slugEN: i-havent-received-the-email-with-the-report-exported-from-master-data-v1
 legacySlug: que-hacer-cuando-mi-informe-de-exportaciones-no-llega-al-email
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Master Data
   - Admin
+symptomFilters:
   - Error de notificación
 ---
 

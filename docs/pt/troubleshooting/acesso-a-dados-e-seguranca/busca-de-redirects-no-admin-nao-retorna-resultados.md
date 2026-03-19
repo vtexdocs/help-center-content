@@ -13,9 +13,10 @@ slugEN: admin-redirect-search-returns-no-results
 legacySlug: busca-de-redirects-no-admin-nao-retorna-resultados
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Admin
   - Storefront
+symptomFilters:
   - Erro de carregamento
 ---
 

@@ -13,9 +13,10 @@ slugEN: my-store-order-was-canceled
 legacySlug: my-store-order-was-canceled
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Orders
   - Payments
+symptomFilters:
   - Flow interruption
 ---
 

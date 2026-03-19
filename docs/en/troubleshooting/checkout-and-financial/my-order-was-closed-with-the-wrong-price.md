@@ -13,10 +13,11 @@ slugEN: my-order-was-closed-with-the-wrong-price
 legacySlug: my-order-was-closed-with-the-wrong-price
 locale: en
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
-tags:
+domainFilters:
   - Marketplace
   - Prices
   - Integrations
+symptomFilters:
   - Sync issue
   - Misconfiguration
 ---

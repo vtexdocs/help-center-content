@@ -13,9 +13,10 @@ slugEN: the-order-was-split-into-packages-with-separate-deliveries
 legacySlug: the-order-was-split-into-packages-with-separate-deliveries
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Orders
   - Logistics
+symptomFilters:
   - Flow interruption
 ---
 

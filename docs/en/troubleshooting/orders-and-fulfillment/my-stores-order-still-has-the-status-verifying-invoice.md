@@ -13,9 +13,10 @@ slugEN: my-stores-order-still-has-the-status-verifying-invoice
 legacySlug: my-stores-order-still-has-the-status-verifying-invoice
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Orders
   - Payments
+symptomFilters:
   - Flow interruption
 ---
 

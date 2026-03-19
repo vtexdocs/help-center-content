@@ -13,9 +13,10 @@ slugEN: my-stores-site-editor-is-not-working
 legacySlug: my-stores-site-editor-is-not-working
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Storefront
   - Admin
+symptomFilters:
   - Loading issue
   - Access restriction
 ---

@@ -15,8 +15,9 @@ slugEN: removing-error-message-request-headers-must-only-contain-ascii
 legacySlug: removing-error-message-request-headers-must-only-contain-ascii
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Storefront
+symptomFilters:
   - Validation error
   - Loading issue
 ---

@@ -13,9 +13,10 @@ slugEN: customer-and-address-forms-do-not-exist-in-multistores
 legacySlug: criando-formularios-de-cliente-e-endereco-em-novas-lojas
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Master Data
   - Admin
+symptomFilters:
   - Configuração incorreta
 ---
 

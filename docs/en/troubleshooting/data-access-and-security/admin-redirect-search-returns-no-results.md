@@ -13,9 +13,10 @@ slugEN: admin-redirect-search-returns-no-results
 legacySlug: admin-redirect-search-returns-no-results
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Admin
   - Storefront
+symptomFilters:
   - Loading issue
 ---
 

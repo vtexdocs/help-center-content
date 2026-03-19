@@ -13,10 +13,11 @@ slugEN: the-order-doesnt-progress-after-the-status-ready-for-handling
 legacySlug: the-order-doesnt-progress-after-the-status-ready-for-handling
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Orders
   - Logistics
   - Integrations
+symptomFilters:
   - Flow interruption
   - Sync issue
 ---

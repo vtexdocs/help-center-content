@@ -13,9 +13,10 @@ slugEN: my-store-order-was-canceled
 legacySlug: o-pedido-da-minha-loja-foi-cancelado
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Pedidos
   - Pagamentos
+symptomFilters:
   - Interrupção no fluxo
 ---
 

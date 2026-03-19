@@ -13,10 +13,11 @@ slugEN: i-cant-view-the-product-in-the-search-results
 legacySlug: nao-consigo-visualizar-o-produto-na-busca-do-site
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Intelligent Search
   - Catálogo
   - Storefront
+symptomFilters:
   - Erro de carregamento
 ---
 

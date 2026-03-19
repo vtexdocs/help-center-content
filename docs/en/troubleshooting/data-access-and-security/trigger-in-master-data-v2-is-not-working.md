@@ -13,9 +13,10 @@ slugEN: trigger-in-master-data-v2-is-not-working
 legacySlug: trigger-in-master-data-v2-is-not-working
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Master Data
   - Integrations
+symptomFilters:
   - Sync issue
   - Misconfiguration
 ---

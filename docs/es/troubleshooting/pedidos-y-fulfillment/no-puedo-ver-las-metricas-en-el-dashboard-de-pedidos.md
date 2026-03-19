@@ -13,9 +13,10 @@ slugEN: metrics-are-not-displayed-in-the-order-dashboard
 legacySlug: no-puedo-ver-las-metricas-en-el-dashboard-de-pedidos
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Pedidos
   - Admin
+symptomFilters:
   - Error de carga
 ---
 

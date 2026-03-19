@@ -13,10 +13,11 @@ slugEN: integration-errors-in-amazon-orders
 legacySlug: integration-errors-in-amazon-orders
 locale: en
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
-tags:
+domainFilters:
   - Marketplace
   - Orders
   - Integrations
+symptomFilters:
   - Sync issue
   - Misconfiguration
 ---

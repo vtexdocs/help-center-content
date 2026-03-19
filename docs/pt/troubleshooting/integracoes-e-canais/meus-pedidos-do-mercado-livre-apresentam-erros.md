@@ -13,9 +13,10 @@ slugEN: my-orders-in-mercado-libre-have-errors
 legacySlug: meus-pedidos-do-mercado-livre-apresentam-erros
 locale: pt
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
-tags:
+domainFilters:
   - Marketplace
   - Integrações
+symptomFilters:
   - Erro de sincronização
   - Configuração incorreta
 ---

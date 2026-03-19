@@ -15,8 +15,9 @@ slugEN: removing-error-message-request-headers-must-only-contain-ascii
 legacySlug: removendo-mensagem-de-erro-request-headers-must-contain-only-ascii
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Storefront
+symptomFilters:
   - Erro de validação
   - Erro de carregamento
 ---

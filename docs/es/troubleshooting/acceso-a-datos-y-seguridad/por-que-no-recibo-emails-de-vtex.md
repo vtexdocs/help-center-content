@@ -13,8 +13,9 @@ slugEN: i-cant-receive-emails-from-vtex
 legacySlug: por-que-no-recibo-emails-de-vtex
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Admin
+symptomFilters:
   - Error de notificación
   - Configuración incorrecta
 ---

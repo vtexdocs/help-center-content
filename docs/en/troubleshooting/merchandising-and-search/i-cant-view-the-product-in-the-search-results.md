@@ -13,10 +13,11 @@ slugEN: i-cant-view-the-product-in-the-search-results
 legacySlug: i-cant-view-the-product-in-the-search-results
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Intelligent Search
   - Catalog
   - Storefront
+symptomFilters:
   - Loading issue
 ---
 

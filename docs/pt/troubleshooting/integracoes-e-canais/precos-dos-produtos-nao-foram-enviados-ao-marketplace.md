@@ -15,10 +15,11 @@ slugEN: why-havent-my-product-prices-been-sent-to-the-marketplace
 legacySlug: precos-dos-produtos-nao-foram-enviados-ao-marketplace
 locale: pt
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
-tags:
+domainFilters:
   - Marketplace
   - Preços
   - Integrações
+symptomFilters:
   - Erro de sincronização
   - Configuração incorreta
 ---

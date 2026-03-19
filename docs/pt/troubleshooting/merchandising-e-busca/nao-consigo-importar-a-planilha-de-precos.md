@@ -13,9 +13,10 @@ slugEN: i-cant-import-the-price-table
 legacySlug: nao-consigo-importar-a-planilha-de-precos
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Preços
   - Catálogo
+symptomFilters:
   - Erro de validação
 ---
 

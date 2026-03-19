@@ -13,10 +13,11 @@ slugEN: integration-errors-in-amazon-orders
 legacySlug: pedidos-com-a-amazon-apresentam-erros-de-integracao
 locale: pt
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
-tags:
+domainFilters:
   - Marketplace
   - Pedidos
   - Integrações
+symptomFilters:
   - Erro de sincronização
   - Configuração incorreta
 ---

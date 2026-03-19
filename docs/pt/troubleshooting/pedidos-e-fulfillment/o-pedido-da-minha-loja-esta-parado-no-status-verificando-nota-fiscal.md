@@ -13,9 +13,10 @@ slugEN: my-stores-order-still-has-the-status-verifying-invoice
 legacySlug: o-pedido-da-minha-loja-esta-parado-no-status-verificando-nota-fiscal
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Pedidos
   - Pagamentos
+symptomFilters:
   - Interrupção no fluxo
 ---
 

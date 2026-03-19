@@ -13,10 +13,11 @@ slugEN: why-havent-my-product-prices-been-sent-to-the-marketplace
 legacySlug: why-havent-my-product-prices-been-sent-to-the-marketplace
 locale: en
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
-tags:
+domainFilters:
   - Marketplace
   - Prices
   - Integrations
+symptomFilters:
   - Sync issue
   - Misconfiguration
 ---

@@ -13,10 +13,11 @@ slugEN: why-dont-marketplace-orders-integrate-with-my-store
 legacySlug: why-dont-marketplace-orders-integrate-with-my-store
 locale: en
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
-tags:
+domainFilters:
   - Marketplace
   - Orders
   - Integrations
+symptomFilters:
   - Sync issue
 ---
 

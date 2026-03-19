@@ -13,9 +13,10 @@ slugEN: product-remains-available-in-stock-after-the-order-has-been-invoiced
 legacySlug: product-remains-available-in-stock-after-the-order-has-been-invoiced
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Orders
   - Logistics
+symptomFilters:
   - Flow interruption
 ---
 

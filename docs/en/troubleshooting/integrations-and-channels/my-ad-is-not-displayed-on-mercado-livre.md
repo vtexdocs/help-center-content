@@ -13,10 +13,11 @@ slugEN: my-ad-is-not-displayed-on-mercado-livre
 legacySlug: my-ad-is-not-displayed-on-mercado-livre
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Marketplace
   - Catalog
   - Integrations
+symptomFilters:
   - Loading issue
   - Misconfiguration
 ---

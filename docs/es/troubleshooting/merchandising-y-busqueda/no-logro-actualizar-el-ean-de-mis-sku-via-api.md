@@ -13,9 +13,10 @@ slugEN: i-cant-update-the-ean-of-my-skus-via-api
 legacySlug: no-logro-actualizar-el-ean-de-mis-sku-via-api
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Catálogo
   - Integraciones
+symptomFilters:
   - Error de validación
 ---
 

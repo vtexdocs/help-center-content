@@ -13,9 +13,10 @@ slugEN: product-remains-available-in-stock-after-the-order-has-been-invoiced
 legacySlug: el-producto-continua-reservado-tras-la-facturacion-del-pedido
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Pedidos
   - Logística
+symptomFilters:
   - Interrupción en el flujo
 ---
 

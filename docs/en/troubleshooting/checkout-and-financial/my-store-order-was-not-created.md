@@ -13,10 +13,11 @@ slugEN: my-store-order-was-not-created
 legacySlug: my-store-order-was-not-created
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Checkout
   - Orders
   - Payments
+symptomFilters:
   - Flow interruption
   - Misconfiguration
 ---

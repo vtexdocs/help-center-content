@@ -13,9 +13,10 @@ slugEN: i-cant-import-the-price-table
 legacySlug: i-cant-import-the-price-table
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Prices
   - Catalog
+symptomFilters:
   - Validation error
 ---
 

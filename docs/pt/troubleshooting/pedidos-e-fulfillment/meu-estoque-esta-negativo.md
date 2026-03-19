@@ -13,9 +13,10 @@ slugEN: my-inventory-is-negative
 legacySlug: meu-estoque-esta-negativo
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Logística
   - Pedidos
+symptomFilters:
   - Interrupção no fluxo
 ---
 

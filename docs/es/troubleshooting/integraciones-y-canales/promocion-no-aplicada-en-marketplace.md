@@ -13,10 +13,11 @@ slugEN: promotion-not-applied-to-the-marketplace
 legacySlug: promocion-no-aplicada-en-marketplace
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Marketplace
   - Promociones
   - Integraciones
+symptomFilters:
   - Configuración incorrecta
 ---
 

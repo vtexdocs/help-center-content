@@ -13,8 +13,9 @@ slugEN: the-promotion-wasnt-applied-to-the-customer-cluster
 legacySlug: la-promocion-no-se-aplico-al-cluster-de-clientes
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Promociones
+symptomFilters:
   - Configuración incorrecta
 ---
 

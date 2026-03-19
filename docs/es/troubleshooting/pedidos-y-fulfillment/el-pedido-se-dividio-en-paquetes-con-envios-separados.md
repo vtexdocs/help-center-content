@@ -13,9 +13,10 @@ slugEN: the-order-was-split-into-packages-with-separate-deliveries
 legacySlug: el-pedido-se-dividio-en-paquetes-con-envios-separados
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Pedidos
   - Logística
+symptomFilters:
   - Interrupción en el flujo
 ---
 

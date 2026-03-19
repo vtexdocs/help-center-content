@@ -13,9 +13,10 @@ slugEN: i-cant-index-a-product-in-the-catalog
 legacySlug: i-cant-index-a-product-in-the-catalog
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Catalog
   - Intelligent Search
+symptomFilters:
   - Loading issue
   - Misconfiguration
 ---

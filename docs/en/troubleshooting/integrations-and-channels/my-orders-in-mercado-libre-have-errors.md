@@ -13,9 +13,10 @@ slugEN: my-orders-in-mercado-libre-have-errors
 legacySlug: my-orders-in-mercado-libre-have-errors
 locale: en
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
-tags:
+domainFilters:
   - Marketplace
   - Integrations
+symptomFilters:
   - Sync issue
   - Misconfiguration
 ---

@@ -13,9 +13,10 @@ slugEN: error-when-trying-to-import-skus-via-spreadsheet-in-the-vtex-admin
 legacySlug: erro-ao-tentar-importar-skus-por-planilha-no-admin-vtex
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Catálogo
   - Admin
+symptomFilters:
   - Erro de validação
 ---
 

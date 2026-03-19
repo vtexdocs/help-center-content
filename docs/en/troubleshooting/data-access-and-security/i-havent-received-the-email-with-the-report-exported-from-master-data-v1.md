@@ -13,9 +13,10 @@ slugEN: i-havent-received-the-email-with-the-report-exported-from-master-data-v1
 legacySlug: what-to-do-when-my-report-does-not-reach-my-inbox
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Master Data
   - Admin
+symptomFilters:
   - Notification issue
 ---
 

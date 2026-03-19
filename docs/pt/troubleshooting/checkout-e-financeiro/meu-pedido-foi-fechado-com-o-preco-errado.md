@@ -13,10 +13,11 @@ slugEN: my-order-was-closed-with-the-wrong-price
 legacySlug: meu-pedido-foi-fechado-com-o-preco-errado
 locale: pt
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
-tags:
+domainFilters:
   - Marketplace
   - Preços
   - Integrações
+symptomFilters:
   - Erro de sincronização
   - Configuração incorreta
 ---

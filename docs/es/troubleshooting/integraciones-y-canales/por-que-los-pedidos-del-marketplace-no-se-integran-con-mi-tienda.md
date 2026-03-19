@@ -13,10 +13,11 @@ slugEN: why-dont-marketplace-orders-integrate-with-my-store
 legacySlug: por-que-los-pedidos-del-marketplace-no-se-integran-con-mi-tienda
 locale: es
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
-tags:
+domainFilters:
   - Marketplace
   - Pedidos
   - Integraciones
+symptomFilters:
   - Error de sincronización
 ---
 

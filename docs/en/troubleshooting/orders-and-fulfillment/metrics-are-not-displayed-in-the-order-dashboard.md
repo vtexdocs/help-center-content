@@ -13,9 +13,10 @@ slugEN: metrics-are-not-displayed-in-the-order-dashboard
 legacySlug: metrics-are-not-displayed-in-the-order-dashboard
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Orders
   - Admin
+symptomFilters:
   - Loading issue
 ---
 

@@ -13,9 +13,10 @@ slugEN: i-cant-view-a-page-in-the-admin
 legacySlug: nao-consigo-visualizar-uma-pagina-no-admin
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
+domainFilters:
   - Identity
   - Admin
+symptomFilters:
   - Restrição de acesso
   - Erro de carregamento
 ---
