@@ -18,12 +18,12 @@ order: 2
 Esta guía le muestra cómo configurar su tienda con Amazon utilizando el conector desarrollado por VTEX. Para realizar la configuración entre VTEX y Amazon, es necesario realizar algunas configuraciones básicas:
 
 ## Configuración de la cuenta en Amazon 
-- [Crear una cuenta de seller en Amazon](/es/tracks/amazon-integration-setup--6sgd4Pagy3wNsWKBvmIFrP/43L0dpbjLBz6tcim1BbTzf#crear-una-cuenta-de-seller-en-amazon)
-- [Autorizar VTEX en el panel de Amazon](/es/tracks/amazon-integration-setup--6sgd4Pagy3wNsWKBvmIFrP/43L0dpbjLBz6tcim1BbTzf#autorizar-vtex-en-el-panel-de-amazon)
+- [Crear una cuenta de seller en Amazon](/es/tracks/configuracion-de-la-cuenta-amazon#crear-una-cuenta-de-seller-en-amazon)
+- [Autorizar VTEX en el panel de Amazon](/es/tracks/configuracion-de-la-cuenta-amazon#autorizar-vtex-en-el-panel-de-amazon)
 
 ## Configuración en la plataforma VTEX
-- [Definir la política comercial en Amazon](/es/tracks/configurar-la-integracion-de-amazon--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#definir-la-politica-comercial-en-amazon)
-- [Definir la Estrategia de Envío](/es/tracks/configurar-la-integracion-de-amazon--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#definir-la-estrategia-de-envio)
+- [Definir la política comercial en Amazon](/es/tracks/configuracion-de-la-plataforma-vtex#definir-la-politica-comercial-en-amazon)
+- [Definir la Estrategia de Envío](/es/tracks/configuracion-de-la-plataforma-vtex#definir-la-estrategia-de-envio)
 - [Configurar el conector de Amazon](/es/docs/tracks/configurar-la-integracion-de-amazon)
 - [Enviar productos a Amazon](/es/docs/tracks/envio-de-productos-a-amazon)
 
