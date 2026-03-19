@@ -19,7 +19,7 @@ Esta guía le muestra cómo configurar su tienda con Amazon utilizando el conect
 
 ## Configuración de la cuenta en Amazon 
 - [Crear una cuenta de seller en Amazon](/es/tracks/configuracion-de-la-cuenta-amazon#crear-una-cuenta-de-seller-en-amazon)
-- [Autorizar VTEX en el panel de Amazon](/es/tracks/configuracion-de-la-cuenta-amazonf#autorizar-vtex-en-el-panel-de-amazon)
+- [Autorizar VTEX en el panel de Amazon](/es/tracks/configuracion-de-la-cuenta-amazon#autorizar-vtex-en-el-panel-de-amazon)
 
 ## Configuración en la plataforma VTEX
 - [Definir la política comercial en Amazon](/es/tracks/configuracion-de-la-plataforma-vtex#definir-la-politica-comercial-en-amazon)
