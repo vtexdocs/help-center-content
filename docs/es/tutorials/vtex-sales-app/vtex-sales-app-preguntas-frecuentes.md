@@ -189,4 +189,3 @@ Sí, tener [cuentas franquicia](/es/docs/tutorials/que-es-una-cuenta-franquicia)
 A pesar de que la solución actualmente no permite configurar [tarjetas de la tienda (red propia)](/es/docs/tutorials/configurar-pagos-con-private-label) como medio de pago, hay una alternativa para hacerlo: los vendedores pueden finalizar las ventas de **VTEX Sales App** utilizando el carrito compartido (social selling) y enviar el link de pago a los clientes. En estos casos, los pedidos pagados a través de links no se procesan en el checkout de **VTEX Sales App**, sino en el checkout de la tienda de ecommerce configurado para realizar transacciones con tarjetas de red propia.
 
 Un beneficio adicional de los pedidos finalizados vía carrito compartido es que pasan por el flujo de [antifraude](/es/docs/tutorials/que-es-antifraude), algo que actualmente no es compatible con la configuración de pagos de **VTEX Sales App**.
-
