@@ -44,7 +44,7 @@ Saiba mais como cadastrar uma nova condição comercial e associá-la a um SKU e
 - SKU A associado à condição comercial personalizada.
 - SKU B associado à condição comercial padrão.
 - Forma de pagamento 10x com juros de 2,5% em todas as parcelas, configurado com a condição comercial personalizada.
-- Forma de pagamento 10x **sem juros**, configurado com a condição comercial padrão
+- Forma de pagamento 10x **sem juros**, configurada com a condição comercial padrão
 
 **Carrinho 1**
 Somente com SKU A, será apresentada a possibilidade de pagar em até 10x com juros de 2,5%.
