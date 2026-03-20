@@ -10,11 +10,11 @@ locale: en
 
 > ⚠️ This feature is only available for stores using B2B Buyer Portal, which is currently available to select accounts.
 
-The **Contract** section in the [Organization Account](https://help.vtex.com/en/docs/tutorials/organization-account) groups settings that define how a buyer organization operates within a B2B Buyer Portal store. From this section, the user can view unit profile information, manage addresses, configure payment methods and credit cards, select product assortments, and manage [custom checkout fields](https://help.vtex.com/en/docs/tutorials/custom-checkout-fields).
+The **Contract** section in the [Organization Account](https://help.vtex.com/en/docs/tutorials/organization-account) groups settings that define how a buyer organization operates within a B2B Buyer Portal store. From this section, the user can view profile information, manage addresses, configure payment methods and credit cards, select product assortments, and manage [custom checkout fields](https://help.vtex.com/en/docs/tutorials/accounting-fields).
 
 This article covers:
 
-- [Viewing the unit profile](#viewing-the-unit-profile)
+- [Viewing profile information](#viewing-profile-information)
 - [Managing addresses](#managing-addresses)
   - [Adding an address](#adding-an-address)
   - [Editing an address](#editing-an-address)
@@ -27,14 +27,14 @@ This article covers:
   - [Editing a credit card](#editing-a-credit-card)
   - [Deleting a credit card](#deleting-a-credit-card)
 - [Selecting a product assortment](#selecting-a-product-assortment)
-- [Custom checkout fields](#custom-checkout-fields)
+- [Accounting fields](#accounting-fields)
 
-## Viewing the unit profile
+## Viewing profile information
 
 The **Profile** page displays basic information about the contract, including its name, email, and creation date. This information is not editable.
 
 1. In the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account), in the **Contract** section, click **Profile.**
-2. View the unit details in the **Details** section.
+2. View the details in the **Details** section.
 
 ## Managing addresses
 
@@ -50,7 +50,7 @@ A **location** is a specific delivery point inside a site, such as a bay, depart
 
 1. In the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account), in the **Contract** section, click **Addresses.**
 2. On the **Addresses** page, click the **+** icon at the top of the screen.
-3. In the **Add address** panel, you can choose an address from the ones previously registered for your organization. If there is no registered address yet or you want to save a new address, complete the information across the following tabs:
+3. In the **Add address** panel, you can choose an address from the ones previously registered for your organization. If there is no registered address yet, or you want to save a new address, complete the information in the following tabs:
     - In the **Details** tab, fill in the address fields:
         - **Country:** Select the country.
         - **Address Name:** Enter a name to identify the address.
@@ -109,7 +109,7 @@ The selected payment methods will be listed on the **Payment Methods** page and 
 
 ## Managing credit cards
 
-The **Credit Cards** page displays all cards registered to the organizational unit. Each card shows its nickname and an option to enable or disable it. Users can add new cards, edit existing card details, and remove cards.
+The **Credit Cards** page displays all cards available to the organizational unit. Each card shows its nickname and an option to enable or disable it. Users can add new cards, edit existing card details, and remove cards.
 
 Credit cards associated with the contract are shared with the organizational unit, but can be restricted with [scopes](https://help.vtex.com/en/docs/tutorials/scopes-overview). During checkout, buyers select a card by its nickname from the cards linked to the contract and available to that unit.
 
@@ -163,4 +163,4 @@ The selection is saved automatically.
 
 [Accounting fields](https://help.vtex.com/en/docs/tutorials/accounting-fields) configured by the buyer organization appear as individual menu items in the **Contract** section of the sidebar. These fields collect additional information during checkout, such as cost centers, PO numbers, or department codes.
 
-To learn how to add or manage accounting fields, see [Adding or editing accounting fields](https://help.vtex.com/en/docs/tutorials/adding-or-editing-custom-checkout-fields).
+To learn how to add or manage accounting fields, see [Adding or editing accounting fields](https://help.vtex.com/en/docs/tutorials/adding-or-editing-accounting-fields).

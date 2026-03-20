@@ -17311,13 +17311,13 @@
                 {
                   "name": {
                     "en": "C+ontract settings",
-                    "es": "C+ontract settings",
-                    "pt": "C+ontract settings"
+                    "es": "Configuraciones del contrato",
+                    "pt": "Configurações do contrato"
                   },
                   "slug": {
                     "en": "contract-settings",
-                    "es": "",
-                    "pt": ""
+                    "es": "configuraciones-del-contrato",
+                    "pt": "configuracoes-do-contrato"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -52247,6 +52247,21 @@
             },
             {
               "name": {
+                "en": "Category translation fields being overwritten on catalog graphql",
+                "es": "Los campos de traducción de categorías se sobrescriben en el catálogo graphql",
+                "pt": "Campos de tradução de categoria sendo sobregravados no catálogo graphql"
+              },
+              "slug": {
+                "en": "category-translation-fields-being-overwritten-on-catalog-graphql",
+                "es": "los-campos-de-traduccion-de-categorias-se-sobrescriben-en-el-catalogo-graphql",
+                "pt": "campos-de-traducao-de-categoria-sendo-sobregravados-no-catalogo-graphql"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Changing synonyms from unidirectional to bidirectional does not work",
                 "es": "El cambio de sinónimos de unidireccional a bidireccional no funciona",
                 "pt": "A alteração de sinônimos de unidirecional para bidirecional não funciona"
@@ -66734,21 +66749,6 @@
                 "en": "carousel-layout-issue-using-responsivevalues-in-sku-selector",
                 "es": "problema-de-diseno-de-carrusel-utilizando-responsivevalues-en-sku-selector",
                 "pt": "problema-de-layout-de-carrossel-usando-valores-responsivos-no-seletor-de-sku"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Category translation fields being overwritten on catalog graphql",
-                "es": "Los campos de traducción de categorías se sobrescriben en el catálogo graphql",
-                "pt": "Campos de tradução de categoria sendo sobregravados no catálogo graphql"
-              },
-              "slug": {
-                "en": "category-translation-fields-being-overwritten-on-catalog-graphql",
-                "es": "los-campos-de-traduccion-de-categorias-se-sobrescriben-en-el-catalogo-graphql",
-                "pt": "campos-de-traducao-de-categoria-sendo-sobregravados-no-catalogo-graphql"
               },
               "origin": "",
               "type": "markdown",
