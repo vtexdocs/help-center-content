@@ -19,7 +19,7 @@ As condições especiais fazem parte da configuração das condições de pagame
 
 Para identificar as condições especiais aplicáveis a cada forma de pagamento, no Admin VTEX, acesse **Pagamentos > Configurações > Condições de Pagamento**, selecione a forma de pagamento desejada e verifique as opções conforme a ilustração abaixo.
 
-![condições especiais de pago](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configurações-de-pagamentos/condicoes-especiais_1.png)
+![condições especiais de pagamento](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configurações-de-pagamentos/condicoes-especiais_1.png)
 
 ## Condição Comercial
 
