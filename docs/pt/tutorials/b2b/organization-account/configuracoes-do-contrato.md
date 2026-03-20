@@ -20,8 +20,8 @@ Este artigo aborda:
   - [Editar um endereço](#editar-um-endereço)
   - [Excluir um endereço](#excluir-um-endereço)
 - [Gerenciar meios de pagamento](#gerenciar-meios-de-pagamento)
-  - [Adicionar um meios de pagamento](#adicionar-um-meios-de-pagamento)
-  - [Remover um meios de pagamento](#remover-um-meios-de-pagamento)
+  - [Adicionar um meio de pagamento](#adicionar-um-meio-de-pagamento)
+  - [Remover um meio de pagamento](#remover-um-meio-de-pagamento)
 - [Gerenciar cartões de crédito](#gerenciar-cartões-de-crédito)
   - [Adicionar um cartão de crédito](#adicionar-um-cartão-de-crédito)
   - [Editar um cartão de crédito](#editar-um-cartão-de-crédito)
@@ -90,7 +90,7 @@ Uma **location** é um ponto específico de entrega dentro de um local, como doc
 
 A página **Payment methods** lista os meios de pagamento atualmente disponíveis para a unidade organizacional. O usuário pode adicionar meios dentre as opções disponíveis para a unidade ou remover os existentes.
 
-### Adicionar um meios de pagamento
+### Adicionar um meio de pagamento
 
 1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), na seção **Contract**, clique em **Payment methods.**
 2. Na página **Payment Methods**, clique no ícone **+** no topo da tela.
@@ -99,13 +99,13 @@ A página **Payment methods** lista os meios de pagamento atualmente disponívei
 
 Os meios selecionados aparecerão na página **Payment Methods** e ficarão disponíveis aos usuários desta unidade no checkout.
 
-### Remover um meios de pagamento
+### Remover um meio de pagamento
 
 1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), na seção **Contract**, clique em **Payment methods.**
 2. Na página **Payment Methods**, clique no ícone **−** ao lado do meio de pagamento a remover.
 3. No modal de confirmação, clique em `Remove`.
 
-> ⚠️ Remover um meios de pagamento impede que usuários desta unidade organizacional o utilizem no checkout.
+> ⚠️ Remover um meio de pagamento impede que usuários desta unidade organizacional o utilizem no checkout.
 
 ## Gerenciar cartões de crédito
 
