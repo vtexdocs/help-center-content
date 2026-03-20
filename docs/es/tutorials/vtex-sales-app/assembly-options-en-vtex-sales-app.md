@@ -48,8 +48,8 @@ Existen dos escenarios en los que se pueden agregar servicios a productos presen
 5. Haz clic en el botón Continuar. Si alguno de los servicios requiere información adicional, rellena los campos necesarios para vincular esta información al servicio adquirido.
 6. Haz clic en el botón Aplicar.
 
-![Garantia estendida - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/comercio-unificado/vtex-sales-app/assembly-options-en-vtex-sales-app_3.png)
+![Garantia estendida - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/assembly-options-en-vtex-sales-app_3.png)
 
-![Seguro - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/comercio-unificado/vtex-sales-app/assembly-options-en-vtex-sales-app_4.png)
+![Seguro - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/assembly-options-en-vtex-sales-app_4.png)
 
-![Ordem pedido - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/comercio-unificado/vtex-sales-app/assembly-options-en-vtex-sales-app_5.png)
+![Ordem pedido - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/assembly-options-en-vtex-sales-app_5.png)

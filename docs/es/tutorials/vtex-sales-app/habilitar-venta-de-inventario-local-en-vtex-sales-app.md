@@ -88,9 +88,9 @@ También puedes configurar la Venta en mano para ignorar la cantidad de ítems e
 2. Haz clic en el botón del engranaje <i class="fas fa-cog"></i> para editar.
 3. Selecciona la pestaña **Código**.
 4. En la pestaña lateral, selecciona `checkout-instore-custom-js`.
-   ![instore-custom-js-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/comercio-unificado/vtex-sales-app/habilitar-venta-de-inventario-local-en-vtex-sales-app_2.png)
+   ![instore-custom-js-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/habilitar-venta-de-inventario-local-en-vtex-sales-app_2.png)
 5. En la clave `window.INSTORE_CONFIG`, agrega la flag `venderSinStockEnMano: true`.
-   ![sellWithoutStockInHands-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/comercio-unificado/vtex-sales-app/habilitar-venta-de-inventario-local-en-vtex-sales-app_3.png)
+   ![sellWithoutStockInHands-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/habilitar-venta-de-inventario-local-en-vtex-sales-app_3.png)
 6. Haz clic en <i class="fas fa-save"></i> `Guardar`.
 
 ### Habilitar la venta con carrito mixto (opcional)
