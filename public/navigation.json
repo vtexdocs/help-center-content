@@ -36963,168 +36963,152 @@
         },
         {
           "name": {
-            "en": "Unified Commerce",
-            "es": "Comercio Unificado",
-            "pt": "Comércio Unificado"
+            "en": "VTEX Sales App",
+            "es": "VTEX Sales App",
+            "pt": "VTEX Sales App"
           },
           "slug": {
-            "en": "unified-commerce-category",
-            "es": "comercio-unificado-categoria",
-            "pt": "comércio-unificado-categoria"
+            "en": "vtex-sales-app-subcategory",
+            "es": "vtex-sales-app-subcategoria",
+            "pt": "vtex-sales-app-subcategoria"
           },
           "origin": "",
           "type": "category",
           "children": [
             {
               "name": {
-                "en": "VTEX Sales App",
-                "es": "VTEX Sales App",
-                "pt": "VTEX Sales App"
+                "en": "Assembly Options in VTEX Sales App",
+                "es": "Assembly Options en VTEX Sales App",
+                "pt": "Assembly Options no VTEX Sales App"
               },
               "slug": {
-                "en": "vtex-sales-app-subcategory",
-                "es": "vtex-sales-app-subcategoria",
-                "pt": "vtex-sales-app-subcategoria"
+                "en": "assembly-options-in-vtex-sales-app",
+                "es": "assembly-options-en-vtex-sales-app",
+                "pt": "assembly-options-no-vtex-sales-app"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Assembly Options in VTEX Sales App",
-                    "es": "Assembly Options en VTEX Sales App",
-                    "pt": "Assembly Options no VTEX Sales App"
-                  },
-                  "slug": {
-                    "en": "assembly-options-in-vtex-sales-app",
-                    "es": "assembly-options-en-vtex-sales-app",
-                    "pt": "assembly-options-no-vtex-sales-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Enabling Local stock sale in VTEX Sales App",
-                    "es": "Habilitar Venta de inventario local en VTEX Sales App",
-                    "pt": "Habilitar Venda de estoque local do VTEX Sales App"
-                  },
-                  "slug": {
-                    "en": "enabling-local-stock-sale-in-vtex-sales-app",
-                    "es": "habilitar-venta-de-inventario-local-en-vtex-sales-app",
-                    "pt": "habilitar-venda-de-estoque-local-do-vtex-sales-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Issuing sales receipts in Sales App via thermal printer",
-                    "es": "Emisión de comprobante de venta en Sales App a través de impresora térmica",
-                    "pt": "Emissão de comprovante de venda no Sales App via impressora térmica"
-                  },
-                  "slug": {
-                    "en": "issuing-sales-receipts-in-sales-app-via-thermal-printer",
-                    "es": "emision-de-comprobante-de-venta-en-sales-app-a-traves-de-impresora-termica",
-                    "pt": "emissao-de-comprovante-de-venda-no-sales-app-via-impressora-termica"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Promotions on the Sales App search page",
-                    "es": "Promociones en la página de búsqueda de Sales App",
-                    "pt": "Promoção na página de busca do Sales App"
-                  },
-                  "slug": {
-                    "en": "promotions-on-the-sales-app-search-page",
-                    "es": "promociones-en-la-pagina-de-busqueda-de-sales-app",
-                    "pt": "promocao-na-pagina-de-busca-do-sales-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Registering product additional tax data (NCM and ICMS) on VTEX Sales App",
-                    "es": "Registrar datos fiscales adicionales (NCM e ICMS) en un producto de VTEX Sales App",
-                    "pt": "Cadastrar dados fiscais extras (NCM e ICMS) em um produto para o VTEX Sales App"
-                  },
-                  "slug": {
-                    "en": "guide-to-integration-of-orders-managment-with-electronic-tax-coupon-for-vtex-sales-app",
-                    "es": "guia-de-integracion-del-gerenciamento-de-pedidos-con-cupon-fiscal-electronico-para-el-vtex-sales-app",
-                    "pt": "guia-de-integracao-do-gerenciamento-de-pedidos-com-cf-e-para-o-vtex-sales-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Sales App card entry (without payment terminal)",
-                    "es": "Pago con tarjeta vía VTEX Sales App (sin terminal)",
-                    "pt": "Pagamento com cartão via Sales App (sem maquininha)"
-                  },
-                  "slug": {
-                    "en": "sales-app-card-entry-without-payment-terminal",
-                    "es": "pago-con-tarjeta-via-vtex-sales-app-sin-terminal",
-                    "pt": "pagamento-com-cartao-via-sales-app-sem-maquininha"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Sales App Offers",
-                    "es": "Anuncios de VTEX Sales App",
-                    "pt": "Anúncios do VTEX Sales App"
-                  },
-                  "slug": {
-                    "en": "ads-from-vtex-sales-app",
-                    "es": "anuncios-de-vtex-sales-app",
-                    "pt": "anuncios-do-vtex-sales-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Sales App: FAQ",
-                    "es": "VTEX Sales App: preguntas frecuentes",
-                    "pt": "VTEX Sales App: FAQ"
-                  },
-                  "slug": {
-                    "en": "vtex-sales-app-faq",
-                    "es": "vtex-sales-app-preguntas-frecuentes",
-                    "pt": "vtex-sales-app-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Sales App: Sales Performance",
-                    "es": "VTEX Sales App: Desempeño de Ventas",
-                    "pt": "VTEX Sales App: Performance de vendas"
-                  },
-                  "slug": {
-                    "en": "sales-app-sales-performance",
-                    "es": "sales-app-rendimiento-de-ventas",
-                    "pt": "sales-app-performance-de-vendas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Enabling Local stock sale in VTEX Sales App",
+                "es": "Habilitar Venta de inventario local en VTEX Sales App",
+                "pt": "Habilitar Venda de estoque local do VTEX Sales App"
+              },
+              "slug": {
+                "en": "enabling-local-stock-sale-in-vtex-sales-app",
+                "es": "habilitar-venta-de-inventario-local-en-vtex-sales-app",
+                "pt": "habilitar-venda-de-estoque-local-do-vtex-sales-app"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Issuing sales receipts in Sales App via thermal printer",
+                "es": "Emisión de comprobante de venta en Sales App a través de impresora térmica",
+                "pt": "Emissão de comprovante de venda no Sales App via impressora térmica"
+              },
+              "slug": {
+                "en": "issuing-sales-receipts-in-sales-app-via-thermal-printer",
+                "es": "emision-de-comprobante-de-venta-en-sales-app-a-traves-de-impresora-termica",
+                "pt": "emissao-de-comprovante-de-venda-no-sales-app-via-impressora-termica"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Promotions on the Sales App search page",
+                "es": "Promociones en la página de búsqueda de Sales App",
+                "pt": "Promoção na página de busca do Sales App"
+              },
+              "slug": {
+                "en": "promotions-on-the-sales-app-search-page",
+                "es": "promociones-en-la-pagina-de-busqueda-de-sales-app",
+                "pt": "promocao-na-pagina-de-busca-do-sales-app"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Registering product additional tax data (NCM and ICMS) on VTEX Sales App",
+                "es": "Registrar datos fiscales adicionales (NCM e ICMS) en un producto de VTEX Sales App",
+                "pt": "Cadastrar dados fiscais extras (NCM e ICMS) em um produto para o VTEX Sales App"
+              },
+              "slug": {
+                "en": "guide-to-integration-of-orders-managment-with-electronic-tax-coupon-for-vtex-sales-app",
+                "es": "guia-de-integracion-del-gerenciamento-de-pedidos-con-cupon-fiscal-electronico-para-el-vtex-sales-app",
+                "pt": "guia-de-integracao-do-gerenciamento-de-pedidos-com-cf-e-para-o-vtex-sales-app"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sales App card entry (without payment terminal)",
+                "es": "Pago con tarjeta vía VTEX Sales App (sin terminal)",
+                "pt": "Pagamento com cartão via Sales App (sem maquininha)"
+              },
+              "slug": {
+                "en": "sales-app-card-entry-without-payment-terminal",
+                "es": "pago-con-tarjeta-via-vtex-sales-app-sin-terminal",
+                "pt": "pagamento-com-cartao-via-sales-app-sem-maquininha"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Sales App Offers",
+                "es": "Anuncios de VTEX Sales App",
+                "pt": "Anúncios do VTEX Sales App"
+              },
+              "slug": {
+                "en": "ads-from-vtex-sales-app",
+                "es": "anuncios-de-vtex-sales-app",
+                "pt": "anuncios-do-vtex-sales-app"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Sales App: FAQ",
+                "es": "VTEX Sales App: preguntas frecuentes",
+                "pt": "VTEX Sales App: FAQ"
+              },
+              "slug": {
+                "en": "vtex-sales-app-faq",
+                "es": "vtex-sales-app-preguntas-frecuentes",
+                "pt": "vtex-sales-app-faq"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Sales App: Sales Performance",
+                "es": "VTEX Sales App: Desempeño de Ventas",
+                "pt": "VTEX Sales App: Performance de vendas"
+              },
+              "slug": {
+                "en": "sales-app-sales-performance",
+                "es": "sales-app-rendimiento-de-ventas",
+                "pt": "sales-app-performance-de-vendas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -45521,6 +45505,21 @@
             },
             {
               "name": {
+                "en": "Checkout UI does not display an error message when user with complete profile triggers gift unavailability",
+                "es": "La interfaz de pago no muestra un mensaje de error cuando un usuario con el perfil completo activa la opción de que el regalo no está disponible",
+                "pt": "A interface do checkout não exibe uma mensagem de erro quando um usuário com perfil completo aciona a indisponibilidade do presente"
+              },
+              "slug": {
+                "en": "checkout-ui-does-not-display-an-error-message-when-user-with-complete-profile-triggers-gift-unavailability",
+                "es": "la-interfaz-de-pago-no-muestra-un-mensaje-de-error-cuando-un-usuario-con-el-perfil-completo-activa-la-opcion-de-que-el-regalo-no-esta-disponible",
+                "pt": "a-interface-do-checkout-nao-exibe-uma-mensagem-de-erro-quando-um-usuario-com-perfil-completo-aciona-a-indisponibilidade-do-presente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Checkout UI goes to Payment with an incomplete invoice address for shoppers with complete profile",
                 "es": "La interfaz de usuario de pago pasa a Pago con una dirección de factura incompleta para compradores con perfil completo.",
                 "pt": "A interface do usuário do checkout vai para Pagamento com um endereço de fatura incompleto para compradores com perfil completo"
@@ -52217,6 +52216,21 @@
             },
             {
               "name": {
+                "en": "Category translation fields being overwritten on catalog graphql",
+                "es": "Los campos de traducción de categorías se sobrescriben en el catálogo graphql",
+                "pt": "Campos de tradução de categoria sendo sobregravados no catálogo graphql"
+              },
+              "slug": {
+                "en": "category-translation-fields-being-overwritten-on-catalog-graphql",
+                "es": "los-campos-de-traduccion-de-categorias-se-sobrescriben-en-el-catalogo-graphql",
+                "pt": "campos-de-traducao-de-categoria-sendo-sobregravados-no-catalogo-graphql"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Changing synonyms from unidirectional to bidirectional does not work",
                 "es": "El cambio de sinónimos de unidireccional a bidireccional no funciona",
                 "pt": "A alteração de sinônimos de unidirecional para bidirecional não funciona"
@@ -53508,13 +53522,13 @@
             {
               "name": {
                 "en": "Specification Values not being translated in Intelligent Search side",
-                "es": "Los valores de especificación no se traducen en la búsqueda inteligente",
-                "pt": "Os valores de especificação não estão sendo traduzidos no lado da Pesquisa Inteligente"
+                "es": "Los valores de las especificaciones no se traducen en la sección de búsqueda inteligente",
+                "pt": "Os valores das especificações não estão sendo traduzidos na seção de Pesquisa Inteligente"
               },
               "slug": {
                 "en": "specification-values-not-being-translated-in-intelligent-search-side",
-                "es": "los-valores-de-especificacion-no-se-traducen-en-la-busqueda-inteligente",
-                "pt": "os-valores-de-especificacao-nao-estao-sendo-traduzidos-no-lado-da-pesquisa-inteligente"
+                "es": "los-valores-de-las-especificaciones-no-se-traducen-en-la-seccion-de-busqueda-inteligente",
+                "pt": "os-valores-das-especificacoes-nao-estao-sendo-traduzidos-na-secao-de-pesquisa-inteligente"
               },
               "origin": "",
               "type": "markdown",
@@ -58464,6 +58478,21 @@
             },
             {
               "name": {
+                "en": "Refund limited incorrectly due to duplicated receipt from race condition (OMS invoice/restutions)",
+                "es": "Reembolso limitado incorrectamente debido a un recibo duplicado por una condición de carrera (factura OMS/reembolsos)",
+                "pt": "Reembolso limitado incorretamente devido a um recibo duplicado causado por uma condição de corrida (fatura OMS/restituições)"
+              },
+              "slug": {
+                "en": "refund-limited-incorrectly-due-to-duplicated-receipt-from-race-condition-oms-invoicerestutions",
+                "es": "reembolso-limitado-incorrectamente-debido-a-un-recibo-duplicado-por-una-condicion-de-carrera-factura-omsreembolsos",
+                "pt": "reembolso-limitado-incorretamente-devido-a-um-recibo-duplicado-causado-por-uma-condicao-de-corrida-fatura-omsrestituicoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Refund not triggered after input invoice due to inconsistent invoiceData (OMS ↔ Payments)",
                 "es": "El reembolso no se ha activado tras la factura de entrada debido a datos de factura incoherentes (OMS ↔ Pagos).",
                 "pt": "Reembolso não acionado após a entrada da fatura devido a dados inconsistentes da fatura (OMS ↔ Pagamentos)"
@@ -61752,6 +61781,21 @@
             },
             {
               "name": {
+                "en": "Removed payment methods still returned in Checkout when account has no active payment rules/conditions",
+                "es": "Los métodos de pago eliminados siguen apareciendo en la página de pago cuando la cuenta no tiene reglas o condiciones de pago activas",
+                "pt": "Os métodos de pagamento removidos ainda aparecem na página de finalização da compra quando a conta não possui regras/condições de pagamento ativas"
+              },
+              "slug": {
+                "en": "removed-payment-methods-still-returned-in-checkout-when-account-has-no-active-payment-rulesconditions",
+                "es": "los-metodos-de-pago-eliminados-siguen-apareciendo-en-la-pagina-de-pago-cuando-la-cuenta-no-tiene-reglas-o-condiciones-de-pago-activas",
+                "pt": "os-metodos-de-pagamento-removidos-ainda-aparecem-na-pagina-de-finalizacao-da-compra-quando-a-conta-nao-possui-regrascondicoes-de-pagamento-ativas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Risk analysis canceled earlier than expected due to fixed retry limit",
                 "es": "El análisis de riesgos se cancela antes de lo previsto debido al límite fijo de reintentos",
                 "pt": "Análise de risco cancelada antes do esperado devido ao limite fixo de tentativas"
@@ -62270,6 +62314,21 @@
                 "en": "transaction-stuck-in-cancelling-when-payments-are-finished",
                 "es": "la-transaccion-se-queda-bloqueada-en-cancelando-cuando-los-pagos-estan-finalizados",
                 "pt": "transacao-presa-em-cancelando-quando-os-pagamentos-estao-concluidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transaction stuck in Approved while payment remains finished or settling",
+                "es": "La transacción se ha quedado bloqueada en «Aprobada», mientras que el pago sigue en estado «Finalizado» o «En liquidación»",
+                "pt": "A transação está parada na etapa \"Aprovada\", enquanto o pagamento continua como \"Concluído\" ou \"Em liquidação\""
+              },
+              "slug": {
+                "en": "transaction-stuck-in-approved-while-payment-remains-finished-or-settling",
+                "es": "la-transaccion-se-ha-quedado-bloqueada-en-aprobada-mientras-que-el-pago-sigue-en-estado-finalizado-o-en-liquidacion",
+                "pt": "a-transacao-esta-parada-na-etapa-aprovada-enquanto-o-pagamento-continua-como-concluido-ou-em-liquidacao"
               },
               "origin": "",
               "type": "markdown",
@@ -62961,6 +63020,21 @@
                 "en": "sales-app-barcode-scanner-accepts-only-ean13",
                 "es": "el-escaner-de-codigo-de-barras-de-sales-app-solo-acepta-ean13",
                 "pt": "o-leitor-de-codigo-de-barras-do-aplicativo-de-vendas-aceita-apenas-ean13"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sales App When attempting to pay with digit or scan card, the CVV field can't be filled",
+                "es": "Aplicación de ventas Al intentar pagar con tarjeta digital o escaneada, no se puede rellenar el campo del CVV",
+                "pt": "Aplicativo de vendas Ao tentar pagar com cartão digital ou digitalizado, não é possível preencher o campo CVV"
+              },
+              "slug": {
+                "en": "sales-app-when-attempting-to-pay-with-digit-or-scan-card-the-cvv-field-cant-be-filled",
+                "es": "aplicacion-de-ventas-al-intentar-pagar-con-tarjeta-digital-o-escaneada-no-se-puede-rellenar-el-campo-del-cvv",
+                "pt": "aplicativo-de-vendas-ao-tentar-pagar-com-cartao-digital-ou-digitalizado-nao-e-possivel-preencher-o-campo-cvv"
               },
               "origin": "",
               "type": "markdown",
@@ -66659,21 +66733,6 @@
                 "en": "carousel-layout-issue-using-responsivevalues-in-sku-selector",
                 "es": "problema-de-diseno-de-carrusel-utilizando-responsivevalues-en-sku-selector",
                 "pt": "problema-de-layout-de-carrossel-usando-valores-responsivos-no-seletor-de-sku"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Category translation fields being overwritten on catalog graphql",
-                "es": "Los campos de traducción de categorías se sobrescriben en el catálogo graphql",
-                "pt": "Campos de tradução de categoria sendo sobregravados no catálogo graphql"
-              },
-              "slug": {
-                "en": "category-translation-fields-being-overwritten-on-catalog-graphql",
-                "es": "los-campos-de-traduccion-de-categorias-se-sobrescriben-en-el-catalogo-graphql",
-                "pt": "campos-de-traducao-de-categoria-sendo-sobregravados-no-catalogo-graphql"
               },
               "origin": "",
               "type": "markdown",
