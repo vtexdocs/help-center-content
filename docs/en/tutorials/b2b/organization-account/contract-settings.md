@@ -1,5 +1,5 @@
 ---
-title: 'C+ontract settings'
+title: 'Contract settings'
 createdAt: '2026-03-14T10:00:00.000Z'
 updatedAt: '2026-03-14T10:00:00.000Z'
 contentType: tutorial
