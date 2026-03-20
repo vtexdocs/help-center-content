@@ -89,7 +89,7 @@ Nesse caso, o valor total do carrinho é de R$ 10.000, com as televisões repres
 
 ## Política Comercial
 
-Permite disponibilizar uma condição de pagamento para uma política comercial específica ou tantas quanto precisar configurar. Lembrando que se esse campo não for configurado, a condição será apresentada para todas as políticas comerciais da loja.
+Permite disponibilizar uma condição de pagamento para uma política comercial específica ou tantas quanto precisar configurar. Lembrando que, se esse campo não for configurado, a condição será apresentada para todas as políticas comerciais da loja.
 
 ### Como configurar a política comercial na condição de pagamento
 
