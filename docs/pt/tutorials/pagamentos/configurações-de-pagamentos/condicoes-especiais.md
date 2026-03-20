@@ -96,9 +96,9 @@ Permite disponibilizar uma condição de pagamento para uma política comercial 
 ![politica-comercial pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configurações-de-pagamentos/condicoes-especiais_3.png)
 
 1. Dentro da condição de pagamento, clique em `Adicionar condição especial`.
-3. Em seguida em `Política Comercial (Canal de Vendas)`.
-4. Selecione as políticas desejadas.
-5. Salve as alterações.
+2. Em seguida, clique em `Política Comercial (Canal de Vendas)`.
+3. Selecione as políticas desejadas.
+4. Salve as alterações.
 
 #### Exemplo prático
 
@@ -152,11 +152,11 @@ Veja a seguir como configurar o período na condição de pagamento:
 
 1. Dentro da condição de pagamento, clique em `Adicionar condição especial`.
 2. Em seguida, clique em `Período`.
-4. Clique no campo **De** e selecione a data a partir do calendário que aparece.
-5. No campo ao lado, digite o horário em que a condição passará a valer (ele será gravado no sistema seguindo o padrão UTC).
-6. Clique no campo **Até** e selecione a data a partir do calendário que aparece.
-7. No campo ao lado, digite o horário em que a condição deixará de ser aplicada (ele será gravado no sistema seguindo o padrão UTC).
-8. Salve as alterações.
+3. Clique no campo **De** e selecione a data a partir do calendário que aparece.
+4. No campo ao lado, digite o horário em que a condição passará a valer (ele será gravado no sistema seguindo o padrão UTC).
+5. Clique no campo **Até** e selecione a data a partir do calendário que aparece.
+6. No campo ao lado, digite o horário em que a condição deixará de ser aplicada (ele será gravado no sistema seguindo o padrão UTC).
+7. Salve as alterações.
 
 #### Exemplo prático
 
