@@ -17,15 +17,15 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 Las condiciones especiales forman parte de la configuración de las condiciones de pagos, las cuales permiten que el tendero aumente el nivel de personalización de la condición de pago, de forma que pueden crear tantas reglas cuántas necesarias. Dependiendo de la forma de pago que desea aceptar, es posible usar las siguientes condiciones especiales:
 
-Para identificar las condiciones especiales aplicables a cada método de pago, en VTEX Admin, acceda a __Pago > Configuraçión > Condiciones de Pago__, seleccione el método de pago deseado y verifique las opciones como se muestra en la siguiente ilustración.
+Para identificar las condiciones especiales aplicables a cada método de pago, en VTEX Admin, acceda a **Pago > Configuraçión > Condiciones de Pago**, seleccione el método de pago deseado y verifique las opciones como se muestra en la siguiente ilustración.
 
 ![condiciones especiales de pago](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/condiciones-especiales_1.png)
 
 ## Condición Comercial
 
-Posibilita definir una regla de pago para cada agrupación de SKUs, pero para que funcione correctamente, es necesario en primero que cree condiciones comerciales distintas del estándar del sistema y, que los SKUs que deberán obedecer a esa regla estén debidamente asociadas a la condición comercial.
+Permite definir una regla de pago para cada grupo de SKUs, considerando el impacto de estos ítems en el valor total del carrito. Para que funcione correctamente, es necesario crear condiciones comerciales distintas de la predeterminada del sistema y asegurarse de que los SKUs estén correctamente asociados.
 
-Para saber cómo catastrar una nueva condición comercial y asociarla a un SKU, lea el documento [Registrar condición comercial](/es/docs/tutorials/registrar-condicion-comercial).
+Conoce más sobre cómo registrar una nueva condición comercial y asociarla a un SKU en [Registrar condición comercial](/es/docs/tutorials/registrar-condicion-comercial).
 
 ## Cómo configurar la condición comercial en la condición de pago
 
@@ -55,33 +55,38 @@ Solamente con SKU B, se presentará la posibilidad de pagar en hasta 10x sin int
 **Carrito 3**
 Con los SKUs A y B, se presentará la posibilidad de pagar en hasta 10x sin intereses.
 
-Si la intención es, dependiendo de cuando el SKU A represente el carrito, que se aplique o no los intereses, entonces se necesitará configurar el arrastre.
+Si desea aplicar o no intereses según la representatividad del SKU A en el valor total del carrito, deberá configurar el arrastre.
 
 ## Comprendiendo el Arrastre
 
-El arrastre es una forma de definir cómo se aplicará la condición de pago en un carrito, con SKUs de distintas condiciones comerciales. Eso es posible a través del porcentual catastrado en el campo “Cuando el porcentual de SKUs de esa condición es mayor que:”.
+El arrastre es una forma de definir cómo se aplicará una condición de pago en un carrito con SKUs de diferentes condiciones comerciales. Esto se logra mediante el porcentaje configurado en el campo **Cuando el porcentaje de SKUs de esta condición sea mayor que:**.
 
-La plataforma usa ese valor para validar con el cálculo que determina el porcentual relativo de cada SKU con relación al carrito, que es evaluado a partir de la cantidad y del precio de los SKUs que están asociados a esa condición comercial.
+La plataforma utiliza este valor para calcular cuánto representan los ítems asociados a la condición comercial dentro del valor total del carrito.
 
-Caso el arrastre no sea configurado, la condición de pago siempre será aplicada cuando por lo menos un SKU asociado a la condición comercial esté presente en el carrito.
+> ⚠️ El cálculo considera el valor total de los ítems (precio × cantidad) asociados a la condición comercial en relación con el valor total del carrito, y no solo la cantidad de SKUs.
+
+
+Si el arrastre no está configurado, la condición de pago se aplicará siempre que al menos un SKU asociado a la condición comercial esté presente en el carrito.
 
 #### Ejemplo práctico
 
 Imagine que usted necesite ofrecer un pago en cuotas de 24x sin intereses sólo para las televisiones de su tienda, desde que representen por lo menos el 70% del carrito. Pero, para cualquier otro escenario, sería presentado solamente el pago en cuotas de 10x sin intereses.
 
-Considerando que ya se haya catastrado la condición comercial y asociado a los respectivos SKUs en el módulo de Catalog y, configurada en la condición de pago con el arrastre del 70% en el módulo _Pagos_. Y que ya hubiese configurado aún otra condición de pago con 10 cuotas sin intereses sin el arrastre catastrado, averigüe los escenarios de carritos abajo:
+Considerando que ya se haya catastrado la condición comercial y asociado a los respectivos SKUs en el módulo de Catalog y, configurada en la condición de pago con el arrastre del 70% en el módulo **Pagos**. Y que ya hubiese configurado aún otra condición de pago con 10 cuotas sin intereses sin el arrastre catastrado, averigüe los escenarios de carritos abajo:
 
 **Carrito 1**
-1 televisión en el valor de R$ 8.000.
-2 videojuegos en el valor de R$ 1.000 cada.
-En ese caso el valor total del carrito sería de R$ 10.000, con la televisión representando el 80%. Entonces, sería presentada la condición de pago de 24x sin intereses, una vez que se atingió lo mínimo del 70% establecido en la condición comercial.
+1 televisor con valor de R$ 8.000.
+2 consolas de videojuegos con valor de R$ 1.000 cada una.
+
+En este caso, el valor total del carrito es de R$ 10.000, donde el televisor representa el 80% del valor total del carrito. Por lo tanto, se mostrará la opción de 24 cuotas sin interés, ya que se alcanzó el mínimo del 70%.
 
 **Carrito 2**
-2 televisiones en el valor de R$ 3.000 cada.
-1 computadora en el valor de R$ 4.000.
-En ese caso el valor total del carrito sería de R$ 10.000, con las televisiones representando el 60% (2x R$ 3.000). Así, sería presentada al cliente la condición de pago de 10x sin intereses.
+2 televisores con valor de R$ 3.000 cada uno.
+1 computadora con valor de R$ 4.000.
 
-Por supuesto, además de esos escenarios, sería posible hacer muchos otros de acuerdo con la necesidad de la tienda y la forma como las condiciones de pago se configuren en conjunto con las condiciones comerciales.
+En este caso, el valor total del carrito es de R$ 10.000, donde los televisores representan el 60% del valor total del carrito. Por lo tanto, el cliente verá la opción de 10 cuotas sin interés.
+
+Es posible configurar muchos otros escenarios según las necesidades de la tienda y la forma en que se combinan las condiciones de pago con las condiciones comerciales.
 
 ## Política Comercial
 
@@ -122,21 +127,21 @@ Cómo configurar el banco emisor en la condición de pago:
 
 El Banco do Brasil ofrece condiciones especiales de pago para todos los clientes que utilizan  su tarjeta, Ourocard, tanto en la función de débito como en la función de crédito.
 
-Para ofrecer esta condición especial en su tienda, bastaría seleccionar “Brasil” en el campo __Cuando el país sea__ y “Banco do Brasil” en el campo __Cuando el banco emisor sea__.
+Para ofrecer esta condición especial en su tienda, bastaría seleccionar **Brasil** en el campo **Cuando el país sea** y **Banco do Brasil** en el campo **Cuando el banco emisor sea**.
 
 #### Card Level
 
 Digamos que el banco Bradesco tenga un club de ventajas exclusivo para los clientes que tengan tarjeta de nivel "Standard". Uno de los beneficios podría ser la posibilidad de pagar en cuotas cualquier compra en hasta 12 veces, en vez de apenas 11 veces, opción ofrecida para los demás card levels.
 
-En este caso, la configuración tiene una etapa más que el ejemplo anterior: el usuario debe seleccionar las opciones “Brasil” y “Santander” en los campos __Cuando el País sea__ y __Cuando el Banco Emisor sea__, respectivamente. Y, luego, debe elegir la opción __Standard__ en el campo __Card level__.
+En este caso, la configuración tiene una etapa más que el ejemplo anterior: el usuario debe seleccionar las opciones **Brasil** y **Bradesco** en los campos **Cuando el País sea** y **Cuando el Banco Emisor sea**, respectivamente. Y, luego, debe elegir la opción **Standard** en el campo **Card level**.
 
 #### Co-brand
 
 Digamos que desea ofrecer una condición especial de pago para clientes que paguen con la tarjeta de su tienda.
 
-En este caso, debe seleccionar el banco emisor responsable de esta tarjeta seguido del nombre de su tienda en el campo __Co-brand__.
+En este caso, debe seleccionar el banco emisor responsable de esta tarjeta seguido del nombre de su tienda en el campo **Co-brand**.
 
-> ⚠️ Tenga en cuenta que, de manera predeterminada, la información sobre si una tarjeta tiene o no una marca compartida **no** se agrega a la base de datos VTEX. Por lo tanto, si su tienda desea segmentar una condición de pago de acuerdo con las tarjetas, debe enviar un ticket con la lista de tarjetas de marca compartida al equipo de soporte de VTEX.
+> ⚠️ Tenga en cuenta que, de manera predeterminada, la información sobre si una tarjeta tiene o no una marca compartida no se agrega a la base de datos VTEX. Por lo tanto, si su tienda desea segmentar una condición de pago de acuerdo con las tarjetas, debe enviar un ticket con la lista de tarjetas de marca compartida al equipo de soporte de VTEX.
 
 ## Período
 
@@ -148,9 +153,9 @@ Cómo configurar el período en la condición de pago
 
 1. Dentro de la condición de pago, haga clic en `Añadir condición especial`.
 3. A continuación, haga clic en `Período`.
-4. Haga clic en el campo __De__ y seleccione la fecha a partir del calendario que aparece.
+4. Haga clic en el campo **De** y seleccione la fecha a partir del calendario que aparece.
 5. En el campo al lado, digite el horario en que la condición pasará a valer (se grabará en el sistema siguiendo el estándar UTC).
-6. Haga clic en el campo __Hasta__ y seleccione la fecha a partir del calendario que aparece.
+6. Haga clic en el campo **Hasta** y seleccione la fecha a partir del calendario que aparece.
 7. En el campo al lado, digite el horario en que la condición dejará de ser aplicada (se grabará en el sistema siguiendo el estándar UTC).
 8. Guarde las alteraciones.
 
