@@ -10,7 +10,7 @@ locale: pt
 
 > ⚠️ Esta funcionalidade está disponível apenas para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
 
-A seção **Contract** na [Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt) reúne configurações que definem como uma organização compradora opera em uma loja B2B Buyer Portal. Nessa seção, o usuário pode ver informações de perfil, gerenciar endereços, configurar meios de pagamento e cartões de crédito, selecionar sortimentos de produtos e gerenciar [campos customizáveis do checkout](https://help.vtex.com/pt/docs/tutorials/campos-customizaveis-do-checkout).
+A seção **Contract** na [Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt) reúne configurações que definem como uma organização compradora opera em uma loja B2B Buyer Portal. Nessa seção, o usuário pode ver informações de perfil, gerenciar endereços, configurar meios de pagamento e cartões de crédito, selecionar sortimentos de produtos e gerenciar [campos customizáveis do checkout](https://help.vtex.com/pt/docs/tutorials/campos-contabeis).
 
 Este artigo aborda:
 

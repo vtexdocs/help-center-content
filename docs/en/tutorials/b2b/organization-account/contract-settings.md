@@ -10,7 +10,7 @@ locale: en
 
 > ⚠️ This feature is only available for stores using B2B Buyer Portal, which is currently available to select accounts.
 
-The **Contract** section in the [Organization Account](https://help.vtex.com/en/docs/tutorials/organization-account) groups settings that define how a buyer organization operates within a B2B Buyer Portal store. From this section, the user can view profile information, manage addresses, configure payment methods and credit cards, select product assortments, and manage [custom checkout fields](https://help.vtex.com/en/docs/tutorials/custom-checkout-fields).
+The **Contract** section in the [Organization Account](https://help.vtex.com/en/docs/tutorials/organization-account) groups settings that define how a buyer organization operates within a B2B Buyer Portal store. From this section, the user can view profile information, manage addresses, configure payment methods and credit cards, select product assortments, and manage [custom checkout fields](https://help.vtex.com/en/docs/tutorials/accounting-fields).
 
 This article covers:
 
@@ -163,4 +163,4 @@ The selection is saved automatically.
 
 [Accounting fields](https://help.vtex.com/en/docs/tutorials/accounting-fields) configured by the buyer organization appear as individual menu items in the **Contract** section of the sidebar. These fields collect additional information during checkout, such as cost centers, PO numbers, or department codes.
 
-To learn how to add or manage accounting fields, see [Adding or editing accounting fields](https://help.vtex.com/en/docs/tutorials/adding-or-editing-custom-checkout-fields).
+To learn how to add or manage accounting fields, see [Adding or editing accounting fields](https://help.vtex.com/en/docs/tutorials/adding-or-editing-accounting-fields).
