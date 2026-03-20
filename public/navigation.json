@@ -36978,168 +36978,152 @@
         },
         {
           "name": {
-            "en": "Unified Commerce",
-            "es": "Comercio Unificado",
-            "pt": "Comércio Unificado"
+            "en": "VTEX Sales App",
+            "es": "VTEX Sales App",
+            "pt": "VTEX Sales App"
           },
           "slug": {
-            "en": "unified-commerce-category",
-            "es": "comercio-unificado-categoria",
-            "pt": "comércio-unificado-categoria"
+            "en": "vtex-sales-app-subcategory",
+            "es": "vtex-sales-app-subcategoria",
+            "pt": "vtex-sales-app-subcategoria"
           },
           "origin": "",
           "type": "category",
           "children": [
             {
               "name": {
-                "en": "VTEX Sales App",
-                "es": "VTEX Sales App",
-                "pt": "VTEX Sales App"
+                "en": "Assembly Options in VTEX Sales App",
+                "es": "Assembly Options en VTEX Sales App",
+                "pt": "Assembly Options no VTEX Sales App"
               },
               "slug": {
-                "en": "vtex-sales-app-subcategory",
-                "es": "vtex-sales-app-subcategoria",
-                "pt": "vtex-sales-app-subcategoria"
+                "en": "assembly-options-in-vtex-sales-app",
+                "es": "assembly-options-en-vtex-sales-app",
+                "pt": "assembly-options-no-vtex-sales-app"
               },
               "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Assembly Options in VTEX Sales App",
-                    "es": "Assembly Options en VTEX Sales App",
-                    "pt": "Assembly Options no VTEX Sales App"
-                  },
-                  "slug": {
-                    "en": "assembly-options-in-vtex-sales-app",
-                    "es": "assembly-options-en-vtex-sales-app",
-                    "pt": "assembly-options-no-vtex-sales-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Enabling Local stock sale in VTEX Sales App",
-                    "es": "Habilitar Venta de inventario local en VTEX Sales App",
-                    "pt": "Habilitar Venda de estoque local do VTEX Sales App"
-                  },
-                  "slug": {
-                    "en": "enabling-local-stock-sale-in-vtex-sales-app",
-                    "es": "habilitar-venta-de-inventario-local-en-vtex-sales-app",
-                    "pt": "habilitar-venda-de-estoque-local-do-vtex-sales-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Issuing sales receipts in Sales App via thermal printer",
-                    "es": "Emisión de comprobante de venta en Sales App a través de impresora térmica",
-                    "pt": "Emissão de comprovante de venda no Sales App via impressora térmica"
-                  },
-                  "slug": {
-                    "en": "issuing-sales-receipts-in-sales-app-via-thermal-printer",
-                    "es": "emision-de-comprobante-de-venta-en-sales-app-a-traves-de-impresora-termica",
-                    "pt": "emissao-de-comprovante-de-venda-no-sales-app-via-impressora-termica"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Promotions on the Sales App search page",
-                    "es": "Promociones en la página de búsqueda de Sales App",
-                    "pt": "Promoção na página de busca do Sales App"
-                  },
-                  "slug": {
-                    "en": "promotions-on-the-sales-app-search-page",
-                    "es": "promociones-en-la-pagina-de-busqueda-de-sales-app",
-                    "pt": "promocao-na-pagina-de-busca-do-sales-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Registering product additional tax data (NCM and ICMS) on VTEX Sales App",
-                    "es": "Registrar datos fiscales adicionales (NCM e ICMS) en un producto de VTEX Sales App",
-                    "pt": "Cadastrar dados fiscais extras (NCM e ICMS) em um produto para o VTEX Sales App"
-                  },
-                  "slug": {
-                    "en": "guide-to-integration-of-orders-managment-with-electronic-tax-coupon-for-vtex-sales-app",
-                    "es": "guia-de-integracion-del-gerenciamento-de-pedidos-con-cupon-fiscal-electronico-para-el-vtex-sales-app",
-                    "pt": "guia-de-integracao-do-gerenciamento-de-pedidos-com-cf-e-para-o-vtex-sales-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Sales App card entry (without payment terminal)",
-                    "es": "Pago con tarjeta vía VTEX Sales App (sin terminal)",
-                    "pt": "Pagamento com cartão via Sales App (sem maquininha)"
-                  },
-                  "slug": {
-                    "en": "sales-app-card-entry-without-payment-terminal",
-                    "es": "pago-con-tarjeta-via-vtex-sales-app-sin-terminal",
-                    "pt": "pagamento-com-cartao-via-sales-app-sem-maquininha"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Sales App Offers",
-                    "es": "Anuncios de VTEX Sales App",
-                    "pt": "Anúncios do VTEX Sales App"
-                  },
-                  "slug": {
-                    "en": "ads-from-vtex-sales-app",
-                    "es": "anuncios-de-vtex-sales-app",
-                    "pt": "anuncios-do-vtex-sales-app"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Sales App: FAQ",
-                    "es": "VTEX Sales App: preguntas frecuentes",
-                    "pt": "VTEX Sales App: FAQ"
-                  },
-                  "slug": {
-                    "en": "vtex-sales-app-faq",
-                    "es": "vtex-sales-app-preguntas-frecuentes",
-                    "pt": "vtex-sales-app-faq"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Sales App: Sales Performance",
-                    "es": "VTEX Sales App: Desempeño de Ventas",
-                    "pt": "VTEX Sales App: Performance de vendas"
-                  },
-                  "slug": {
-                    "en": "sales-app-sales-performance",
-                    "es": "sales-app-rendimiento-de-ventas",
-                    "pt": "sales-app-performance-de-vendas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Enabling Local stock sale in VTEX Sales App",
+                "es": "Habilitar Venta de inventario local en VTEX Sales App",
+                "pt": "Habilitar Venda de estoque local do VTEX Sales App"
+              },
+              "slug": {
+                "en": "enabling-local-stock-sale-in-vtex-sales-app",
+                "es": "habilitar-venta-de-inventario-local-en-vtex-sales-app",
+                "pt": "habilitar-venda-de-estoque-local-do-vtex-sales-app"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Issuing sales receipts in Sales App via thermal printer",
+                "es": "Emisión de comprobante de venta en Sales App a través de impresora térmica",
+                "pt": "Emissão de comprovante de venda no Sales App via impressora térmica"
+              },
+              "slug": {
+                "en": "issuing-sales-receipts-in-sales-app-via-thermal-printer",
+                "es": "emision-de-comprobante-de-venta-en-sales-app-a-traves-de-impresora-termica",
+                "pt": "emissao-de-comprovante-de-venda-no-sales-app-via-impressora-termica"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Promotions on the Sales App search page",
+                "es": "Promociones en la página de búsqueda de Sales App",
+                "pt": "Promoção na página de busca do Sales App"
+              },
+              "slug": {
+                "en": "promotions-on-the-sales-app-search-page",
+                "es": "promociones-en-la-pagina-de-busqueda-de-sales-app",
+                "pt": "promocao-na-pagina-de-busca-do-sales-app"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Registering product additional tax data (NCM and ICMS) on VTEX Sales App",
+                "es": "Registrar datos fiscales adicionales (NCM e ICMS) en un producto de VTEX Sales App",
+                "pt": "Cadastrar dados fiscais extras (NCM e ICMS) em um produto para o VTEX Sales App"
+              },
+              "slug": {
+                "en": "guide-to-integration-of-orders-managment-with-electronic-tax-coupon-for-vtex-sales-app",
+                "es": "guia-de-integracion-del-gerenciamento-de-pedidos-con-cupon-fiscal-electronico-para-el-vtex-sales-app",
+                "pt": "guia-de-integracao-do-gerenciamento-de-pedidos-com-cf-e-para-o-vtex-sales-app"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Sales App card entry (without payment terminal)",
+                "es": "Pago con tarjeta vía VTEX Sales App (sin terminal)",
+                "pt": "Pagamento com cartão via Sales App (sem maquininha)"
+              },
+              "slug": {
+                "en": "sales-app-card-entry-without-payment-terminal",
+                "es": "pago-con-tarjeta-via-vtex-sales-app-sin-terminal",
+                "pt": "pagamento-com-cartao-via-sales-app-sem-maquininha"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Sales App Offers",
+                "es": "Anuncios de VTEX Sales App",
+                "pt": "Anúncios do VTEX Sales App"
+              },
+              "slug": {
+                "en": "ads-from-vtex-sales-app",
+                "es": "anuncios-de-vtex-sales-app",
+                "pt": "anuncios-do-vtex-sales-app"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Sales App: FAQ",
+                "es": "VTEX Sales App: preguntas frecuentes",
+                "pt": "VTEX Sales App: FAQ"
+              },
+              "slug": {
+                "en": "vtex-sales-app-faq",
+                "es": "vtex-sales-app-preguntas-frecuentes",
+                "pt": "vtex-sales-app-faq"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "VTEX Sales App: Sales Performance",
+                "es": "VTEX Sales App: Desempeño de Ventas",
+                "pt": "VTEX Sales App: Performance de vendas"
+              },
+              "slug": {
+                "en": "sales-app-sales-performance",
+                "es": "sales-app-rendimiento-de-ventas",
+                "pt": "sales-app-performance-de-vendas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -62345,6 +62329,21 @@
                 "en": "transaction-stuck-in-cancelling-when-payments-are-finished",
                 "es": "la-transaccion-se-queda-bloqueada-en-cancelando-cuando-los-pagos-estan-finalizados",
                 "pt": "transacao-presa-em-cancelando-quando-os-pagamentos-estao-concluidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transaction stuck in Approved while payment remains finished or settling",
+                "es": "La transacción se ha quedado bloqueada en «Aprobada», mientras que el pago sigue en estado «Finalizado» o «En liquidación»",
+                "pt": "A transação está parada na etapa \"Aprovada\", enquanto o pagamento continua como \"Concluído\" ou \"Em liquidação\""
+              },
+              "slug": {
+                "en": "transaction-stuck-in-approved-while-payment-remains-finished-or-settling",
+                "es": "la-transaccion-se-ha-quedado-bloqueada-en-aprobada-mientras-que-el-pago-sigue-en-estado-finalizado-o-en-liquidacion",
+                "pt": "a-transacao-esta-parada-na-etapa-aprovada-enquanto-o-pagamento-continua-como-concluido-ou-em-liquidacao"
               },
               "origin": "",
               "type": "markdown",

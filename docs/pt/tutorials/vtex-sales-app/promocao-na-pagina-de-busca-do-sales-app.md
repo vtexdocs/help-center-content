@@ -21,7 +21,7 @@ Para refletir uma promoção corretamente no Sales App:
 
 - Marque a promoção como destaque ao criá-la no Admin VTEX. Apenas promoções destacadas aparecerão no Sales App.
 - Insira um campo chamado `salesAppHighlight` com o valor `true` na seção de **informações adicionais** para destacar a promoção na imagem do produto.
-- Insira na seção **informações adicionais** um campo com o nome `salesAppDisplayName`. Como valor, adicione o texto que irá sobrescrever o nome padrão da promoção exibido na página de busca. Por exemplo, “Frete grátis”.
+- Insira na seção **informações adicionais** um campo com o nome `salesAppDisplayName`. Como valor, adicione o texto que irá sobrescrever o nome padrão da promoção exibido na página de busca. Por exemplo, "Frete grátis".
 
 > ℹ️ Caso deseje que a promoção seja exclusiva para o Sales App, é necessário configurar a [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) específica para o Sales App.
 
@@ -29,5 +29,4 @@ Quando um produto tem múltiplas promoções associadas a ele, o vendedor de uma
 
 A imagem a seguir ilustra uma promoção disponível na Página de Listagem de Produtos (PLP).
 
-![promoção em destaque](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/comércio-unificado/vtex-sales-app/promocao-na-pagina-de-busca-do-sales-app_1.png)
-
+![promoção em destaque](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/promocao-na-pagina-de-busca-do-sales-app_1.png)

@@ -189,4 +189,3 @@ Sim, ter [contas franquia](/pt/docs/tutorials/o-que-e-conta-franquia) ou [seller
 Apesar da solução atualmente não permitir configurar o meio de pagamento [Cartões de loja](/pt/docs/tutorials/configurar-pagamentos-com-cartoes-de-loja-bandeira-propria), existe uma forma de contornar esta situação. Basta que os vendedores finalizem as vendas do **VTEX Sales App** usando o carrinho compartilhado (Social Selling), de forma a enviar o link de pagamento para os clientes. Pedidos pagos pelos links não são processados pelo checkout do **VTEX Sales App**, e sim pelo checkout do ecommerce que foi configurado para transacionar cartões com bandeira própria.
 
 Um benefício adicional de pedidos fechados com o uso de carrinho compartilhado é que eles passam pelo fluxo de [antifraude](/pt/docs/tutorials/o-que-e-antifraude), o que atualmente não é suportado nas configurações de pagamento do **VTEX Sales App**.
-

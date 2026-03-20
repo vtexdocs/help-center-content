@@ -46,13 +46,13 @@ No entanto, a funcionalidade tem restrições:
 
 A tabela a seguir apresenta as principais vantagens de usar o **Pagamento com cartão via Sales App:**
 
-| **Tema** | **Descrição** |
-| :---: | :--- |
-| **Rapidez e praticidade** | O escaneamento do cartão do cliente e a possibilidade de preenchimento automático (ou manual) aceleram e simplificam o fechamento da compra. |
-| **Experiência integrada e sem fricções** | A realização da compra e confirmação do pagamento ocorrem no **VTEX Sales App**, o que elimina a necessidade de múltiplos ambientes para a conclusão da venda e promove uma experiência contínua. |
-| **Compras seguras** | Durante a compra, o cliente acompanha o escaneamento do cartão e o preenchimento (automático ou manual) dos dados, que permanecem mascarados e não são armazenados após a conclusão da compra. |
-| **Suporte a cartões virtuais** | O **Pagamento com cartão via Sales App** suporta cartões físicos numerados ([código BIN](/pt/docs/tutorials/cadastrar-informacoes-de-bins)) e cartões virtuais, expandindo as opções de pagamento para os clientes. |
-| **Starter kit de pagamento** | Além da opção [carrinho compartilhado (Social Selling)](/pt/docs/tracks/compartilhar-carrinho-utilizando-o-vtex-sales-app-social-selling), com o Pagamento com cartão via Sales App os lojistas que estão começando a usar o VTEX Sales App podem integrar a solução sem depender da contratação de um adquirente adicional. |
+|| **Tema** | **Descrição** |
+|| :---: | :--- |
+|| **Rapidez e praticidade** | O escaneamento do cartão do cliente e a possibilidade de preenchimento automático (ou manual) aceleram e simplificam o fechamento da compra. |
+|| **Experiência integrada e sem fricções** | A realização da compra e confirmação do pagamento ocorrem no **VTEX Sales App**, o que elimina a necessidade de múltiplos ambientes para a conclusão da venda e promove uma experiência contínua. |
+|| **Compras seguras** | Durante a compra, o cliente acompanha o escaneamento do cartão e o preenchimento (automático ou manual) dos dados, que permanecem mascarados e não são armazenados após a conclusão da compra. |
+|| **Suporte a cartões virtuais** | O **Pagamento com cartão via Sales App** suporta cartões físicos numerados ([código BIN](/pt/docs/tutorials/cadastrar-informacoes-de-bins)) e cartões virtuais, expandindo as opções de pagamento para os clientes. |
+|| **Starter kit de pagamento** | Além da opção [carrinho compartilhado (Social Selling)](/pt/docs/tracks/compartilhar-carrinho-utilizando-o-vtex-sales-app-social-selling), com o Pagamento com cartão via Sales App os lojistas que estão começando a usar o VTEX Sales App podem integrar a solução sem depender da contratação de um adquirente adicional. |
 
 ## Casos de uso
 
