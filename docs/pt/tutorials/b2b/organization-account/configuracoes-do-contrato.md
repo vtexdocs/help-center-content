@@ -161,6 +161,6 @@ A seleção é salva automaticamente.
 
 ## Campos contábeis
 
-[Campos contábeis](https://help.vtex.com/en/docs/tutorials/accounting-fields) configurados pela organização compradora aparecem como itens individuais de menu na seção **Contract** da barra lateral. Esses campos coletam informações adicionais durante o checkout, como centros de custo, números de pedido de compra (PO) ou códigos de departamento.
+[Campos contábeis](https://help.vtex.com/pt/docs/tutorials/campos-contabeis) configurados pela organização compradora aparecem como itens individuais de menu na seção **Contract** da barra lateral. Esses campos coletam informações adicionais durante o checkout, como centros de custo, números de pedido de compra (PO) ou códigos de departamento.
 
 Para saber como adicionar ou gerenciar esses campos, consulte [Adicionar ou editar campos contábeis](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-campos-contabeis).
