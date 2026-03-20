@@ -130,7 +130,7 @@ Para oferecer essa condição especial na sua loja, bastaria selecionar **Brasil
 
 #### Card Level
 
-Digamos que o banco Bradesco tenha um clube de vantagens exclusivo para os clientes que possuam cartão do nível **Standard**. Um dos benefícios poderia ser a possibilidade de parcelar qualquer compra em até 12 vezes, em vez de apenas em 11 vezes, opção oferecida para os demais card levels.
+Digamos que o banco Bradesco tenha um clube de vantagens exclusivo para os clientes que possuam cartão do nível **Standard**. Um dos benefícios poderia ser a possibilidade de parcelar qualquer compra em até 12 vezes, em vez de apenas 11 vezes, opção oferecida para os demais card levels.
 
 Neste caso, a configuração tem uma etapa a mais que a do exemplo anterior: o usuário deve selecionar as opções **Brasil** e **Bradesco** nos campos **Quando o País for:** e **Quando o Banco Emissor for:**, respectivamente. E, em seguida, deve escolher a opção **Standard** no campo **Card level**.
 
