@@ -32,10 +32,10 @@ Find out more about how to register a new commercial condition and associate it 
 ![condicao-comercial en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/special-conditions_2.png)
 
 1. Inside the payment condition, click on `Add special condition`.
-3. Then, click on `Commercial Condition`.
-4. Select the desired condition from the list.
-5. Fill the drag according to the scenario you want.
-6. Save changes.
+2. Then, click on `Commercial Condition`.
+3. Select the desired condition from the list.
+4. Fill the drag according to the scenario you want.
+5. Save changes.
 
 It is important to remember that if two payment conditions are available for the same payment method, whereas the only difference between the two is the commercial condition, in addition to having two different SKUs in the cart, each SKU linked to one of the commercial conditions, the SKU will offering a lower price will take precedence.
 
@@ -96,9 +96,9 @@ Allows a payment condition to be applied to a specific trade policy, or as many 
 ![politica-comercial en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/special-conditions_3.png)
 
 1. Inside Payment Conditions, click on `Add special condition`.
-3. Then, click on `Trade Policy (Sales Channel)`.
-4. Select the desired policies.
-5. Save changes.
+2. Then, click on `Trade Policy (Sales Channel)`.
+3. Select the desired policies.
+4. Save changes.
 
 #### Practical example
 
