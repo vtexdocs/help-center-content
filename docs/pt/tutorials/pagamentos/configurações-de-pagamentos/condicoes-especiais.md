@@ -115,7 +115,7 @@ Como configurar o banco emissor na condição de pagamento:
 3. Selecione o **País de origem** do banco que emitiu o cartão.
 4. Selecione o **banco emissor**.
 5. Caso deseje segmentar por nível do cartão, selecione o **Card level**.
-6. Caso deseje segmentar por co-brand, selecione a opção desejada em **Co-brand** (essa caixa de seleção só vai aparecer se sua loja houver informado à VTEX a lista de cartões com co-brand).
+6. Caso deseje segmentar por co-brand, selecione a opção desejada em **Co-brand** (essa caixa de seleção só vai aparecer se sua loja tiver informado à VTEX a lista de cartões com co-brand).
 7. Salve as alterações.
 
 ![banco-emissor pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configurações-de-pagamentos/condicoes-especiais_4.png)
