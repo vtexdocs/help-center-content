@@ -27,12 +27,12 @@
               "name": {
                 "en": "March",
                 "es": "Marzo",
-                "pt": "Março"
+                "pt": "March"
               },
               "slug": {
                 "en": "2026-march",
                 "es": "2026-marzo",
-                "pt": "2026-março"
+                "pt": "march"
               },
               "origin": "",
               "type": "category",
@@ -41,12 +41,12 @@
                   "name": {
                     "en": "Amazon: Price suggestion",
                     "es": "Amazon: Sugerencia de precios",
-                    "pt": "Amazon: Sugestão de preços"
+                    "pt": "Amazon: Price suggestion"
                   },
                   "slug": {
                     "en": "2026-03-06-amazon-price-suggestion",
                     "es": "2026-03-06-amazon-sugerencia-de-precios",
-                    "pt": "2026-03-06-amazon-sugestao-de-precos"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -23883,12 +23883,12 @@
                   "name": {
                     "en": "Price suggestion in the Amazon integration",
                     "es": "Sugerencia de precios en la integración con Amazon",
-                    "pt": "Sugestão de preços na integração com a Amazon"
+                    "pt": "Price suggestion in the Amazon integration"
                   },
                   "slug": {
                     "en": "amazon-price-suggestion",
                     "es": "sugerencia-de-precios-amazon",
-                    "pt": "sugestao-de-precos-amazon"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
