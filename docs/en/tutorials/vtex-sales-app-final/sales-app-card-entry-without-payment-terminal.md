@@ -46,13 +46,13 @@ However, the feature has some restrictions:
 
 The following table presents the main advantages of using **Sales App card entry**:
 
-|| **Topic** | **Description** |
-|| :---: | :--- |
-|| **Speed and convenience** | Scanning the customer's card and the option of automatic or manual card entry streamline and speed up the purchase process. |
-|| **Integrated and frictionless experience** | The purchase and the payment confirmation take place in **VTEX Sales App**, eliminating the need for multiple environments to complete a sale and promoting a seamless experience. |
-|| **Secure purchases** | During the purchase, the customer watches the card scanning and (automatic or manual) data entry process, which keeps the information masked and doesn't store it after the purchase is completed. |
-|| **Virtual card support** | **Sales App card** entrysupports physical card with [BINs](/en/docs/tutorials/adding-bin-information) and virtual cards, expanding payment options for customers. |
-|| **Payment starter kit** | In addition to the [shared cart (Social Selling)](/en/docs/tracks/sharing-shopping-cart-using-vtex-sales-app-social-selling) option, **Sales App card entry** allows merchants starting to use **VTEX Sales App** to integrate the solution without having to get an additional acquirer. |
+| **Topic** | **Description** |
+| :---: | :--- |
+| **Speed and convenience** | Scanning the customer's card and the option of automatic or manual card entry streamline and speed up the purchase process. |
+| **Integrated and frictionless experience** | The purchase and the payment confirmation take place in **VTEX Sales App**, eliminating the need for multiple environments to complete a sale and promoting a seamless experience. |
+| **Secure purchases** | During the purchase, the customer watches the card scanning and (automatic or manual) data entry process, which keeps the information masked and doesn't store it after the purchase is completed. |
+| **Virtual card support** | **Sales App card** entrysupports physical card with [BINs](/en/docs/tutorials/adding-bin-information) and virtual cards, expanding payment options for customers. |
+| **Payment starter kit** | In addition to the [shared cart (Social Selling)](/en/docs/tracks/sharing-shopping-cart-using-vtex-sales-app-social-selling) option, **Sales App card entry** allows merchants starting to use **VTEX Sales App** to integrate the solution without having to get an additional acquirer. |
 
 ## Use cases
 

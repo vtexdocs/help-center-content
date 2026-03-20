@@ -23,7 +23,7 @@ You can access your store sales performance metrics by following the steps below
 2. Click the menu icon <i class="fas fa-bars" aria-hidden="true"></i>.
 3. Click **Sales Performance**.
 
-![Sales Performance (Store)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-sales-app/sales-app-sales-performance_1.png)
+![Sales Performance (Store)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/sales-app-sales-performance_1.png)
 
 On this page, you will have access to the following metrics:
 
@@ -37,7 +37,7 @@ On this page, you will have access to the following metrics:
 
 To view specific metrics for a sales associate, follow the steps below:
 
-![Bruna's Sales - VTEX Sales App](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/vtex-sales-app/sales-app-sales-performance_2.png)
+![Bruna's Sales - VTEX Sales App](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/sales-app-sales-performance_2.png)
 
 1. 	Click the <i class="far fa-id-badge"></i> icon.
 2. 	Select the sales associate profile and enter the password.
@@ -50,3 +50,4 @@ On this page, you will have access to the following metrics for that sales assoc
 - **Total of items sold:** Displays the total number of items sold by the sales associate for the selected dates in the **Display** field (blue) and the **Compared to** field (gray), indicating the percentage increase or decrease in sales in this comparison.
 - **Average ticket:** Displays the sales associate average ticket for the selected dates in the **Display** field (blue) and the **Compared to** field (gray), indicating the percentage increase or decrease in sales in this comparison.
 - **Average items per sale:** Displays the sales associate average number of items per sale for the selected dates in the **Display** field (blue) and the **Compared to** field (gray), indicating the percentage increase or decrease in sales in this comparison.
+
