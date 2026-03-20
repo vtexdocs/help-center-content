@@ -17295,14 +17295,29 @@
                 },
                 {
                   "name": {
-                    "en": "Adding users to a buyer organization",
-                    "es": "Agregar usuarios a la organización compradora",
-                    "pt": "Adicionar usuários à organização compradora"
+                    "en": "Adding users to buyer organizations",
+                    "es": "Adding users to buyer organizations",
+                    "pt": "Adding users to buyer organizations"
                   },
                   "slug": {
                     "en": "adding-users-to-buyer-organization",
+                    "es": "",
+                    "pt": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "es": "Agregar usuarios a la organización compradora",
+                    "pt": "Adicionar usuários à organização compradora",
+                    "en": "Agregar usuarios a la organización compradora"
+                  },
+                  "slug": {
                     "es": "agregar-usuarios-a-la-organizacion-compradora",
-                    "pt": "adicionar-usuarios-a-organizacao-compradora"
+                    "pt": "adicionar-usuarios-a-organizacao-compradora",
+                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
