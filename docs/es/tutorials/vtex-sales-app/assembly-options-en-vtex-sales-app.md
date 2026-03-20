@@ -35,9 +35,9 @@ Existen dos escenarios en los que se pueden agregar servicios a productos presen
 2. Selecciona la opción de servicio que deseas y haz clic en el botón **Continuar al carrito**.
 3. Una vez finalizado el proceso, podrás ver en tu carrito el servicio seleccionado, con el valor total del pedido.
 
-![Garantia estendida - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/comercio-unificado/vtex-sales-app/assembly-options-en-vtex-sales-app_1.png)
+![Garantia estendida - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/assembly-options-en-vtex-sales-app_1.png)
 
-![Carrinho - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/comercio-unificado/vtex-sales-app/assembly-options-en-vtex-sales-app_2.png)
+![Carrinho - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/assembly-options-en-vtex-sales-app_2.png)
 
 **Escenario 2:** selección de múltiples servicios
 

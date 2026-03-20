@@ -73,7 +73,7 @@ Deberás seleccionar un vendedor de la tienda en la que quieras probar Venta en 
 1. Tras [seleccionar un vendedor](/es/tutorial/vendedores-instore-beta--4rzit1pzp28km4HSDEdrEC), accede a Sales App e inicia sesión.
 2. Busca un ítem que exista en el almacén de la cuenta franquicia registrada. Este ítem debe mostrar la cantidad disponible correspondiente en el stock del seller.
 
-![instore-pdp-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/comercio-unificado/vtex-sales-app/habilitar-venta-de-inventario-local-en-vtex-sales-app_1.png)
+![instore-pdp-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/habilitar-venta-de-inventario-local-en-vtex-sales-app_1.png)
 
 > ℹ️ Si has habilitado el stock ilimitado, el número mostrado será superior a 1 millón de ítems y no cambiará cuando se complete una venta.
 
