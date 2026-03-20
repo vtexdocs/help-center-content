@@ -23,7 +23,7 @@ Para identificar as condições especiais aplicáveis a cada forma de pagamento,
 
 ## Condição Comercial
 
-Possibilita definir uma regra de pagamento para cada agrupamento de SKUs, considerando o impacto desses itens no valor total do carrinho. Para que funcione corretamente, é necessário criar condições comerciais diferentes da padrão do sistema e garantir que os SKUs que deverão obedecer a essa regra estejam devidamente associados à condição comercial.
+Possibilita definir uma regra de pagamento para cada agrupamento de SKUs, considerando o impacto desses itens no valor total do carrinho. Para que funcione corretamente, é necessário criar condições comerciais diferentes do padrão do sistema e garantir que os SKUs que deverão obedecer a essa regra estejam devidamente associados à condição comercial.
 
 Saiba mais como cadastrar uma nova condição comercial e associá-la a um SKU em [Cadastrar condição comercial](/pt/docs/tutorials/como-cadastrar-condicao-comercial).
 
