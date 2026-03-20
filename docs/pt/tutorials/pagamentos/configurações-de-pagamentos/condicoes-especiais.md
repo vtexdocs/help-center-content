@@ -138,7 +138,7 @@ Neste caso, a configuração tem uma etapa a mais que a do exemplo anterior: o u
 
 Digamos que você deseje oferecer uma condição especial de pagamento para clientes que paguem com o cartão da sua loja.
 
-Neste caso, você deve selecionar o banco emissor que é o seu parceiro responsável por esse cartão e, em seguida, o nome da sua loja no campo **Co-brand**.
+Neste caso, você deve selecionar o banco emissor que é seu parceiro responsável por esse cartão e, em seguida, o nome da sua loja no campo **Co-brand**.
 
 > ⚠️ Por padrão, a informação de que um cartão tem co-brand não está cadastrada na base de dados da VTEX. Por isso, caso sua loja deseje segmentar uma condição de pagamento por cartões da loja, você precisa enviar a lista de cartões com co-brand para o time de suporte da VTEX por meio de um ticket.
 
