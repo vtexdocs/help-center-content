@@ -1,0 +1,32 @@
+---
+title: 'Promoção na página de busca do Sales App'
+id: 2g9JmTLKYASz8jxme2pyc9
+status: PUBLISHED
+createdAt: 2024-08-19T11:11:42.781Z
+updatedAt: 2024-10-18T12:07:33.298Z
+publishedAt: 2024-10-18T12:07:33.298Z
+firstPublishedAt: 2024-08-20T13:54:03.140Z
+contentType: tutorial
+productTeam: Shopping
+author: 2AhArvGNSPKwUAd8GOz0iU
+slugEN: promotions-on-the-sales-app-search-page
+legacySlug: promocao-na-pagina-de-busca-do-sales-app
+locale: pt
+subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
+---
+
+A funcionalidade de [promoção](/pt/docs/tutorials/lista-de-promocoes-beta#criar-promocoes) na página de busca do [Sales App](/pt/docs/tracks/vtex-sales-app-usando-o-app) foi criada para lojistas que desejam destacar ofertas especiais diretamente nos resultados de busca da Página de Listagem de Produtos (PLP). Isso proporciona uma melhor experiência de compra, promove a interação com os clientes e aumenta a visibilidade de produtos com múltiplas promoções.
+
+Para refletir uma promoção corretamente no Sales App:
+
+- Marque a promoção como destaque ao criá-la no Admin VTEX. Apenas promoções destacadas aparecerão no Sales App.
+- Insira um campo chamado `salesAppHighlight` com o valor `true` na seção de **informações adicionais** para destacar a promoção na imagem do produto.
+- Insira na seção **informações adicionais** um campo com o nome `salesAppDisplayName`. Como valor, adicione o texto que irá sobrescrever o nome padrão da promoção exibido na página de busca. Por exemplo, "Frete grátis".
+
+> ℹ️ Caso deseje que a promoção seja exclusiva para o Sales App, é necessário configurar a [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) específica para o Sales App.
+
+Quando um produto tem múltiplas promoções associadas a ele, o vendedor de uma loja física pode visualizar todas as opções clicando na *tag* da promoção exibida nos resultados de busca.
+
+A imagem a seguir ilustra uma promoção disponível na Página de Listagem de Produtos (PLP).
+
+![promoção em destaque](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-sales-app/promocao-na-pagina-de-busca-do-sales-app_1.png)
