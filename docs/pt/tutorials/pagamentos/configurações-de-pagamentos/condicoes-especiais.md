@@ -124,7 +124,7 @@ Como configurar o banco emissor na condição de pagamento:
 
 #### Banco Emissor
 
-O Banco do Brasil oferece condições especiais de pagamento para todos os clientes que utilizam o seu cartão, o Ourocard, tanto na função de débito quanto na função de crédito.
+O Banco do Brasil oferece condições especiais de pagamento para todos os clientes que utilizam o seu cartão, o Ourocard, tanto na função de débito quanto na de crédito.
 
 Para oferecer essa condição especial na sua loja, bastaria selecionar **Brasil** no campo **Quando o país for:** e **Banco do Brasil** no campo **Quando o Banco Emissor for:**.
 
