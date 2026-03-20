@@ -13,10 +13,12 @@ slugEN: my-carrier-does-not-appear-at-checkout
 legacySlug: minha-transportadora-nao-aparece-no-checkout
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
-  - Envio
-  - Logística
+domainFilters:
   - Checkout
+  - Logística
+symptomFilters:
+  - Erro de carregamento
+  - Configuração incorreta
 ---
 Em algumas situações, a transportadora pode não ser exibida como opção de entrega no Checkout ao finalizar um pedido na VTEX. Este artigo reúne os principais cenários que causam esse comportamento e apresenta as soluções recomendadas para cada caso.
 

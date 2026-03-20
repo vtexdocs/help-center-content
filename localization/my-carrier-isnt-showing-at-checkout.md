@@ -13,10 +13,12 @@ slugEN: my-carrier-isnt-showing-at-checkout
 legacySlug: my-carrier-isnt-showing-at-checkout
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
-tags:
-  - Shipping
-  - Logistics
+domainFilters:
   - Checkout
+  - Logistics
+symptomFilters:
+  - Loading issue
+  - Misconfiguration
 ---
 
 In some situations, the carrier may not be displayed as a shipping option at checkout when finalizing an order on VTEX. This article covers the main scenarios that cause this behavior and the recommended solutions for each.
