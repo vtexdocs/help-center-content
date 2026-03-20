@@ -23,7 +23,7 @@ Puedes acceder a las métricas de ventas de tu tienda que indican el desempeño 
 2. Haz clic en el botón <i class="fas fa-bars" aria-hidden="true"></i>.
 3. Después, en **Desempeño de ventas**.
 
-![Sales Performance (Store)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/sales-app-rendimiento-de-ventas_1.png)
+![Sales Performance (Store)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/comercio-unificado/vtex-sales-app/sales-app-rendimiento-de-ventas_1.png)
 
 En esa página, tendrás acceso a las siguientes métricas:
 
@@ -37,7 +37,7 @@ En esa página, tendrás acceso a las siguientes métricas:
 
 Para acceder a las métricas específicas de un vendedor, sigue los pasos a continuación:
 
-![Ventas de Bruna - VTEX Sales App](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/vtex-sales-app/sales-app-rendimiento-de-ventas_2.png)
+![Ventas de Bruna - VTEX Sales App](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/comercio-unificado/vtex-sales-app/sales-app-rendimiento-de-ventas_2.png)
 
 1. Haz clic en el ícono <i class="far fa-id-badge"></i>.
 2. Selecciona el perfil de un vendedor e introduce la contraseña.
@@ -50,3 +50,4 @@ En esta página tendrás acceso a las siguientes métricas del vendedor seleccio
 - **Total de ítems vendidos:** mostrará el total de ítems vendidos por el vendedor para los periodos seleccionados en el campo **Mostrar ** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
 - **Ticket promedio:** mostrará el ticket promedio del vendedor para los periodos seleccionados en el campo **Mostrar ** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
 - **Promedio de ítems por venta:** mostrará el promedio de ítems por venta del vendedor para los periodos seleccionados en el campo **Mostrar ** (azul) y el campo **Comparado con** (gris), indicando el porcentaje de aumento o disminución de las ventas en esta comparación.
+
