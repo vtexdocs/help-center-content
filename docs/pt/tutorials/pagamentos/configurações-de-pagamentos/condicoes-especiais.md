@@ -71,7 +71,7 @@ Caso o arrasto não seja configurado, a condição de pagamento será aplicada s
 
 Imagine que você precise oferecer um parcelamento de 24x sem juros apenas para as televisões de sua loja, desde que representem pelo menos 70% do carrinho. Mas para qualquer outro cenário, seria apresentado somente parcelamento de 10x sem juros.
 
-Considerando que a condição comercial já foi cadastrada e associada aos respectivos SKUs no módulo de E-Commerce e, configurada na condição de pagamento com o arrasto de 70% no módulo **Pagamentos**. E que já tivesse configurada, uma outra condição de pagamento com 10 parcelas sem juros sem o arrasto configurado, confira os cenários de carrinhos abaixo:
+Considerando que a condição comercial já foi cadastrada e associada aos respectivos SKUs no módulo de E-Commerce e, configurada na condição de pagamento com o arrasto de 70% no módulo **Pagamentos**. E que já estivesse configurada uma outra condição de pagamento com 10 parcelas sem juros sem o arrasto configurado, confira os cenários de carrinhos abaixo:
 
 **Carrinho 1**
 1 televisão no valor de R$ 8.000.
