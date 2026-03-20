@@ -32,10 +32,10 @@ Conoce más sobre cómo registrar una nueva condición comercial y asociarla a u
 ![condicao-comercial es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/condiciones-especiales_2.png)
 
 1. Dentro de la condición de pago, haga clic en `Añadir condición especial`.
-3. A continuación, haga clic en `Condición Comercial`.
-4. Seleccione la condición deseada en el listado.
-5. Rellene el arrastre de acuerdo con el escenario que desea.
-6. Guarde las alteraciones.
+2. A continuación, haga clic en `Condición Comercial`.
+3. Seleccione la condición deseada en el listado.
+4. Rellene el arrastre de acuerdo con el escenario que desea.
+5. Guarde las alteraciones.
 
 Es importante destacar que, si hubo dos condiciones de pagos para la misma forma de pago, donde la única diferencia entre ellas es la condición comercial y, en un carrito hubo dos SKUs distintos, cada uno asociado a una condición comercial distinta, prevalecerá el que ofrezca el menor precio final para el cliente.
 
@@ -152,12 +152,12 @@ Cómo configurar el período en la condición de pago
 ![periodo es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/condiciones-especiales_5.png)
 
 1. Dentro de la condición de pago, haga clic en `Añadir condición especial`.
-3. A continuación, haga clic en `Período`.
-4. Haga clic en el campo **De** y seleccione la fecha a partir del calendario que aparece.
-5. En el campo al lado, digite el horario en que la condición pasará a valer (se grabará en el sistema siguiendo el estándar UTC).
-6. Haga clic en el campo **Hasta** y seleccione la fecha a partir del calendario que aparece.
-7. En el campo al lado, digite el horario en que la condición dejará de ser aplicada (se grabará en el sistema siguiendo el estándar UTC).
-8. Guarde las alteraciones.
+2. A continuación, haga clic en `Período`.
+3. Haga clic en el campo **De** y seleccione la fecha a partir del calendario que aparece.
+4. En el campo al lado, digite el horario en que la condición pasará a valer (se grabará en el sistema siguiendo el estándar UTC).
+5. Haga clic en el campo **Hasta** y seleccione la fecha a partir del calendario que aparece.
+6. En el campo al lado, digite el horario en que la condición dejará de ser aplicada (se grabará en el sistema siguiendo el estándar UTC).
+7. Guarde las alteraciones.
 
 #### Ejemplo práctico
 
