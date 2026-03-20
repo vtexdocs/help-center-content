@@ -189,4 +189,3 @@ Yes, having [franchise accounts](/en/docs/tutorials/what-is-a-franchise-account)
 Although VTEX Sales App doesn't currently support configuring the [store cards (private label)](/en/docs/tutorials/setting-up-private-label-payments) payment method, there's a workaround. Sales associates can complete sales from **VTEX Sales App** using the shared cart (social selling) to send a payment link to customers. Orders paid via links aren't processed by the **VTEX Sales App** checkout but by the ecommerce website checkout, which was configured to accept private label cards.
 
 An additional benefit of completing orders with a shared cart is that they go through the [anti-fraud solution](/en/docs/tutorials/what-is-anti-fraud) flow, which isn't currently supported in **VTEX Sales App** payment **settings**.
-
