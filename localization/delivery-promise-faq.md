@@ -46,7 +46,7 @@ Existem três formas pelas quais isso pode ser feito:
 O funcionamento da **Delivery Promise (Beta)** só é possível quando o cliente informa seu endereço ou quando a VTEX infere sua localidade. Essa inferência pode ser feita das seguintes formas:
 
 * O endereço do cliente é capturado automaticamente quando ele aceita o plugin do navegador para compartilhar sua localização.
-* Caso o navegador não tenha o plugin mencionado ou o cliente se recuse a compartilhar sua localização, a inferência do endereço será feita com base no endereço IP do dispositivo do cliente.
+* O cliente fornece o endereço no componente de CEP da Delivery Promise.
 
 Em todas as opções mencionadas, o cliente tem a opção de a qualquer tempo fornecer seu endereço ou um endereço diferente.
 
@@ -55,21 +55,19 @@ Em todas as opções mencionadas, o cliente tem a opção de a qualquer tempo fo
 Neste caso, o lojista pode utilizar uma entre as seguintes estratégias:
 
 * Definir [sellers abrangentes](/pt/docs/tutorials/seller-abrangente), o que possibilita que os produtos destes sellers sejam exibidos para os clientes que não fornecem localização.
-* Definir um CEP ou [geocoordenadas](/pt/docs/tutorials/gerenciar-geolocalizacao) padrão para clientes que não informam localização.
-
-Sugerimos que seja próximo a um [estoque](/pt/docs/tutorials/estoque) que armazene uma grande quantidade de produtos ou que seja próximo à região com maior volume de vendas.
+* Definir um CEP ou [geocoordenadas](/pt/docs/tutorials/gerenciar-geolocalizacao) padrão para clientes que não informam localização. Sugerimos que seja próximo a um [estoque](/pt/docs/tutorials/estoque) que armazene uma grande quantidade de produtos ou que seja próximo à região com maior volume de vendas.
 
 ## 6. Onde devo configurar quais lojas atendem a determinados CEPs?
 
 Mesmo para quem usa a **Delivery Promise (Beta)**, essa configuração continua sendo feita nas [planilhas de frete](/pt/docs/tutorials/planilha-de-frete) das [políticas de envio](/pt/docs/tutorials/politica-de-envio) dos sellers.
 
-## 7. O que acontece com quem usa a funcionalidade Regionalização? 
+## 7. O que acontece com quem usa a funcionalidade Regionalização?
 
-A **Delivery Promise (Beta)** substitui todas as funcionalidades existentes no [Region V1](/pt/docs/tutorials/configurar-a-regionalizacao-de-sellers) e V2, além de acrescentar melhorias de performance, experiência de compra e novas funcionalidades. Como a solução ainda está em desenvolvimento, a regionalização de sellers continua sendo usada normalmente pelos clientes que não participam da **Delivery Promise (Beta)**.
+A **Delivery Promise (Beta)** substitui todas as funcionalidades existentes no [Region V1](/pt/docs/tutorials/configurar-a-regionalizacao-de-sellers) e V2, além de acrescentar melhorias de performance, experiência de compra e novas funcionalidades. Como a **Delivery Promise** está em estágio beta, a regionalização de sellers continua sendo usada normalmente pelos clientes que não participam da fase beta.
 
 ## 8. Com a Delivery Promise (Beta) será possível exibir filtros e tags de frete grátis?
 
-Na fase atual do beta, não haverá filtros do tipo frete grátis. Por enquanto, disponibilizamos opções de filtros e outros componentes na frente de loja por prazo de envio, tipo de envio (retirada ou entrega) e ponto de retirada.
+A fase atual beta não contempla componentes do tipo frete grátis. Por enquanto, disponibilizamos opções de filtros e outros componentes na frente de loja por prazo de envio, tipo de envio (retirada ou entrega) e ponto de retirada.
 
 ## 9. Posso não utilizar a Delivery Promise (Beta)?
 
