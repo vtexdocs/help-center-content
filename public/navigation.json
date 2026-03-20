@@ -17310,7 +17310,7 @@
                 },
                 {
                   "name": {
-                    "en": "C+ontract settings",
+                    "en": "Contract settings",
                     "es": "Configuraciones del contrato",
                     "pt": "Configurações do contrato"
                   },
@@ -62345,6 +62345,21 @@
                 "en": "transaction-stuck-in-cancelling-when-payments-are-finished",
                 "es": "la-transaccion-se-queda-bloqueada-en-cancelando-cuando-los-pagos-estan-finalizados",
                 "pt": "transacao-presa-em-cancelando-quando-os-pagamentos-estao-concluidos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transaction stuck in Approved while payment remains finished or settling",
+                "es": "La transacción se ha quedado bloqueada en «Aprobada», mientras que el pago sigue en estado «Finalizado» o «En liquidación»",
+                "pt": "A transação está parada na etapa \"Aprovada\", enquanto o pagamento continua como \"Concluído\" ou \"Em liquidação\""
+              },
+              "slug": {
+                "en": "transaction-stuck-in-approved-while-payment-remains-finished-or-settling",
+                "es": "la-transaccion-se-ha-quedado-bloqueada-en-aprobada-mientras-que-el-pago-sigue-en-estado-finalizado-o-en-liquidacion",
+                "pt": "a-transacao-esta-parada-na-etapa-aprovada-enquanto-o-pagamento-continua-como-concluido-ou-em-liquidacao"
               },
               "origin": "",
               "type": "markdown",
