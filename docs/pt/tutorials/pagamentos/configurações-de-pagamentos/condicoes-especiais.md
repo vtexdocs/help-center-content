@@ -55,7 +55,7 @@ Somente com SKU B, será apresentada a possibilidade de pagar em até 10x sem ju
 **Carrinho 3**
 Com os SKUs A e B, será apresentada a possibilidade de pagar em até 10x sem juros.
 
-Se a intenção for aplicar ou não juros dependendo da representatividade do SKU A no valor total do carrinho, será necessário configurar o arrasto.
+Se a intenção for aplicar ou não juros, dependendo da representatividade do SKU A no valor total do carrinho, será necessário configurar o arrasto.
 
 ## Entendendo o Arrasto
 
