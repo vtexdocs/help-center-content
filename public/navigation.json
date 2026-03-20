@@ -39741,13 +39741,13 @@
             {
               "name": {
                 "en": "Collections doesn't work in custom search results pages in B2B Suite",
-                "es": "Las colecciones no funcionan en las páginas de resultados de búsqueda personalizadas en B2B Suite",
-                "pt": "As coleções não funcionam em páginas de resultados de pesquisa personalizados no B2B Suite"
+                "es": "Las colecciones no funcionan en las páginas de resultados de búsqueda personalizadas de B2B Suite.",
+                "pt": "As coleções não funcionam nas páginas de resultados de pesquisa personalizadas no B2B Suite."
               },
               "slug": {
                 "en": "collections-doesnt-work-in-custom-search-results-pages-in-b2b-suite",
-                "es": "las-colecciones-no-funcionan-en-las-paginas-de-resultados-de-busqueda-personalizadas-en-b2b-suite",
-                "pt": "as-colecoes-nao-funcionam-em-paginas-de-resultados-de-pesquisa-personalizados-no-b2b-suite"
+                "es": "las-colecciones-no-funcionan-en-las-paginas-de-resultados-de-busqueda-personalizadas-de-b2b-suite",
+                "pt": "as-colecoes-nao-funcionam-nas-paginas-de-resultados-de-pesquisa-personalizadas-no-b2b-suite"
               },
               "origin": "",
               "type": "markdown",
@@ -40461,6 +40461,21 @@
             },
             {
               "name": {
+                "en": "API allows registering many EANs to the same SKU",
+                "es": "La API permite registrar muchos EAN en el mismo SKU.",
+                "pt": "A API permite registrar vários EANs para o mesmo SKU."
+              },
+              "slug": {
+                "en": "api-allows-registering-many-eans-to-the-same-sku",
+                "es": "la-api-permite-registrar-muchos-ean-en-el-mismo-sku",
+                "pt": "a-api-permite-registrar-varios-eans-para-o-mesmo-sku"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "APIs Who Saw Also Saw, Who Saw Also Bought, Who Bought Also Bought not always working as expected",
                 "es": "Las API \"Quién vio también vio\", \"Quién vio también compró\" y \"Quién compró también compró\" no siempre funcionan como se esperaba.",
                 "pt": "As APIs Who Saw Also Saw, Who Saw Also Bought, Who Bought Also Bought nem sempre funcionam como esperado"
@@ -41093,12 +41108,12 @@
               "name": {
                 "en": "CatalogV2 User Roles not Applying",
                 "es": "Los roles de usuario de CatalogV2 no se aplican",
-                "pt": "CatalogV2 Funções do usuário que não se aplicam"
+                "pt": "Funções do usuário do CatalogV2 não sendo aplicadas"
               },
               "slug": {
                 "en": "catalogv2-user-roles-not-applying",
                 "es": "los-roles-de-usuario-de-catalogv2-no-se-aplican",
-                "pt": "catalogv2-funcoes-do-usuario-que-nao-se-aplicam"
+                "pt": "funcoes-do-usuario-do-catalogv2-nao-sendo-aplicadas"
               },
               "origin": "",
               "type": "markdown",
@@ -41429,6 +41444,21 @@
                 "en": "cost-price-rounding-logic-diverges-on-computed-prices-api",
                 "es": "la-logica-de-redondeo-de-precios-de-coste-diverge-en-la-api-de-precios-calculados",
                 "pt": "a-logica-de-arredondamento-do-preco-de-custo-diverge-na-api-de-precos-calculados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Coupon not working with message \"coupon has expired\"",
+                "es": "El cupón no funciona y aparece el mensaje «El cupón ha caducado»",
+                "pt": "O cupom não está funcionando e aparece a mensagem \"o cupom expirou\""
+              },
+              "slug": {
+                "en": "coupon-not-working-with-message-coupon-has-expired",
+                "es": "el-cupon-no-funciona-y-aparece-el-mensaje-el-cupon-ha-caducado",
+                "pt": "o-cupom-nao-esta-funcionando-e-aparece-a-mensagem-o-cupom-expirou"
               },
               "origin": "",
               "type": "markdown",
@@ -45203,6 +45233,21 @@
             },
             {
               "name": {
+                "en": "Checkout UI breaks after new address is added on Address Form in Chile B2B stores",
+                "es": "La interfaz de pago deja de funcionar tras añadir una nueva dirección en el formulario de direcciones de las tiendas B2B de Chile",
+                "pt": "A interface do checkout apresenta falhas após a adição de um novo endereço no formulário de endereço nas lojas B2B do Chile"
+              },
+              "slug": {
+                "en": "checkout-ui-breaks-after-new-address-is-added-on-address-form-in-chile-b2b-stores",
+                "es": "la-interfaz-de-pago-deja-de-funcionar-tras-anadir-una-nueva-direccion-en-el-formulario-de-direcciones-de-las-tiendas-b2b-de-chile",
+                "pt": "a-interface-do-checkout-apresenta-falhas-apos-a-adicao-de-um-novo-endereco-no-formulario-de-endereco-nas-lojas-b2b-do-chile"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Checkout UI changes the selected address when more than 1 address available",
                 "es": "La interfaz de usuario de la caja cambia la dirección seleccionada cuando hay más de 1 dirección disponible.",
                 "pt": "A interface de usuário do checkout altera o endereço selecionado quando há mais de um endereço disponível"
@@ -45211,6 +45256,21 @@
                 "en": "checkout-ui-changes-the-selected-address-when-more-than-1-address-available",
                 "es": "la-interfaz-de-usuario-de-la-caja-cambia-la-direccion-seleccionada-cuando-hay-mas-de-1-direccion-disponible",
                 "pt": "a-interface-de-usuario-do-checkout-altera-o-endereco-selecionado-quando-ha-mais-de-um-endereco-disponivel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Checkout UI does not display an error message when user with complete profile triggers gift unavailability",
+                "es": "La interfaz de pago no muestra un mensaje de error cuando un usuario con el perfil completo activa la opción de que el regalo no está disponible",
+                "pt": "A interface do checkout não exibe uma mensagem de erro quando um usuário com perfil completo aciona a indisponibilidade do presente"
+              },
+              "slug": {
+                "en": "checkout-ui-does-not-display-an-error-message-when-user-with-complete-profile-triggers-gift-unavailability",
+                "es": "la-interfaz-de-pago-no-muestra-un-mensaje-de-error-cuando-un-usuario-con-el-perfil-completo-activa-la-opcion-de-que-el-regalo-no-esta-disponible",
+                "pt": "a-interface-do-checkout-nao-exibe-uma-mensagem-de-erro-quando-um-usuario-com-perfil-completo-aciona-a-indisponibilidade-do-presente"
               },
               "origin": "",
               "type": "markdown",
@@ -47080,12 +47140,12 @@
               "name": {
                 "en": "Proportional shipping costs shows negative values when there are promotion that split items and free shipping applied",
                 "es": "Los gastos de envío proporcionales muestran valores negativos cuando hay promociones que fraccionan artículos y se aplican gastos de envío gratuitos.",
-                "pt": "Os custos de frete proporcionais mostram valores negativos quando há promoções que dividem itens e frete grátis aplicado"
+                "pt": "Os custos de envio proporcionais apresentam valores negativos quando há promoções que dividem os itens e envio gratuito aplicado."
               },
               "slug": {
                 "en": "proportional-shipping-costs-shows-negative-values-when-there-are-promotion-that-split-items-and-free-shipping-applied",
                 "es": "los-gastos-de-envio-proporcionales-muestran-valores-negativos-cuando-hay-promociones-que-fraccionan-articulos-y-se-aplican-gastos-de-envio-gratuito",
-                "pt": "os-custos-de-frete-proporcionais-mostram-valores-negativos-quando-ha-promocoes-que-dividem-itens-e-frete-gratis-aplicado"
+                "pt": "os-custos-de-envio-proporcionais-apresentam-valores-negativos-quando-ha-promocoes-que-dividem-os-itens-e-envio-gratuito-aplicado"
               },
               "origin": "",
               "type": "markdown",
@@ -47529,13 +47589,13 @@
             {
               "name": {
                 "en": "Shopper is redirect to gatewayCallback/{orderGroup}/Success instead of placeOrder page",
-                "es": "El comprador es redirigido a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder",
-                "pt": "O comprador é redirecionado para a página gatewayCallback/{orderGroup}/Success em vez da página placeOrder"
+                "es": "El comprador es redirigido a gatewayCallback/{orderGroup}/Success en lugar de a la página placeOrder.",
+                "pt": "O comprador é redirecionado para gatewayCallback/{orderGroup}/Success em vez da página placeOrder."
               },
               "slug": {
                 "en": "shopper-is-redirect-to-gatewaycallbackordergroupsuccess-instead-of-placeorder-page",
                 "es": "el-comprador-es-redirigido-a-gatewaycallbackordergroupsuccess-en-lugar-de-a-la-pagina-placeorder",
-                "pt": "o-comprador-e-redirecionado-para-a-pagina-gatewaycallbackordergroupsuccess-em-vez-da-pagina-placeorder"
+                "pt": "o-comprador-e-redirecionado-para-gatewaycallbackordergroupsuccess-em-vez-da-pagina-placeorder"
               },
               "origin": "",
               "type": "markdown",
@@ -48265,13 +48325,13 @@
             {
               "name": {
                 "en": "Error publishing Scheduled Release ahead of schedule in Admin (\"You can't publish an empty release\")",
-                "es": "Error al publicar una publicación programada antes de lo previsto en Admin (\"No se puede publicar una publicación vacía\")",
-                "pt": "Erro ao publicar a versão agendada antes do previsto no Admin (\"Você não pode publicar uma versão vazia\")"
+                "es": "Error al publicar una versión programada antes de lo previsto en Admin («No se puede publicar una versión vacía»).",
+                "pt": "Erro ao publicar uma versão programada antes do prazo no Admin (“Não é possível publicar uma versão vazia”)"
               },
               "slug": {
                 "en": "error-publishing-scheduled-release-ahead-of-schedule-in-admin-you-cant-publish-an-empty-release",
-                "es": "error-al-publicar-una-publicacion-programada-antes-de-lo-previsto-en-admin-no-se-puede-publicar-una-publicacion-vacia",
-                "pt": "erro-ao-publicar-a-versao-agendada-antes-do-previsto-no-admin-voce-nao-pode-publicar-uma-versao-vazia"
+                "es": "error-al-publicar-una-version-programada-antes-de-lo-previsto-en-admin-no-se-puede-publicar-una-version-vacia",
+                "pt": "erro-ao-publicar-uma-versao-programada-antes-do-prazo-no-admin-nao-e-possivel-publicar-uma-versao-vazia"
               },
               "origin": "",
               "type": "markdown",
@@ -49330,21 +49390,6 @@
             },
             {
               "name": {
-                "en": "Amazon integration is not cancelling orders in VTEX",
-                "es": "La integración de Amazon no cancela los pedidos en VTEX",
-                "pt": "A integração da Amazônia não está cancelando pedidos na VTEX"
-              },
-              "slug": {
-                "en": "amazon-integration-is-not-cancelling-orders-in-vtex",
-                "es": "la-integracion-de-amazon-no-cancela-los-pedidos-en-vtex",
-                "pt": "a-integracao-da-amazonia-nao-esta-cancelando-pedidos-na-vtex"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Amazon integration stock reservations for KITS",
                 "es": "Integración de Amazon reservas de stock para KITS",
                 "pt": "Reservas de estoque de integração da Amazon para KITS"
@@ -49420,14 +49465,14 @@
             },
             {
               "name": {
-                "en": "Amazon order does not integrate",
-                "es": "El pedido de Amazon no se integra",
-                "pt": "O pedido da Amazon não se integra"
+                "en": "Amazon Order cancellation flow",
+                "es": "Amazon Flujo de cancelación de pedidos",
+                "pt": "Amazon Fluxo de cancelamento de pedidos"
               },
               "slug": {
-                "en": "amazon-order-does-not-integrate",
-                "es": "el-pedido-de-amazon-no-se-integra",
-                "pt": "o-pedido-da-amazon-nao-se-integra"
+                "en": "amazon-order-cancellation-flow",
+                "es": "amazon-flujo-de-cancelacion-de-pedidos",
+                "pt": "amazon-fluxo-de-cancelamento-de-pedidos"
               },
               "origin": "",
               "type": "markdown",
@@ -49593,6 +49638,21 @@
                 "en": "custom-attribute-mapper-mercado-livre",
                 "es": "mapeador-de-atributos-personalizado-mercado-livre",
                 "pt": "mapeador-de-atributos-personalizado-mercado-livre"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Dafiti Image URLs converted to WebP cause rejection by markeplace (image type unsupported)",
+                "es": "Dafiti Las URL de imágenes convertidas a WebP provocan el rechazo por parte del mercado (tipo de imagen no compatible).",
+                "pt": "Dafiti URLs de imagens convertidas para WebP são rejeitadas pelo marketplace (tipo de imagem não suportado)"
+              },
+              "slug": {
+                "en": "dafiti-image-urls-converted-to-webp-cause-rejection-by-markeplace-image-type-unsupported",
+                "es": "dafiti-las-url-de-imagenes-convertidas-a-webp-provocan-el-rechazo-por-parte-del-mercado-tipo-de-imagen-no-compatible",
+                "pt": "dafiti-urls-de-imagens-convertidas-para-webp-sao-rejeitadas-pelo-marketplace-tipo-de-imagem-nao-suportado"
               },
               "origin": "",
               "type": "markdown",
@@ -49788,6 +49848,21 @@
                 "en": "integracao-de-pedido-amazon-quantidade-de-item-invalida",
                 "es": "integracion-de-pedidos-amazon-cantidad-de-articulos-no-valida",
                 "pt": "integracao-de-pedido-amazon-quantidade-de-item-invalida"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "La integración de Amazon no cancela los pedidos en VTEX",
+                "pt": "A integração da Amazônia não está cancelando pedidos na VTEX",
+                "en": "La integración de Amazon no cancela los pedidos en VTEX"
+              },
+              "slug": {
+                "es": "la-integracion-de-amazon-no-cancela-los-pedidos-en-vtex",
+                "pt": "a-integracao-da-amazonia-nao-esta-cancelando-pedidos-na-vtex",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -51072,13 +51147,13 @@
             {
               "name": {
                 "en": "Products with selling price is zero cannot be added to the cart in FastStore",
-                "es": "Los productos cuyo precio de venta es cero no se pueden añadir al carrito en FastStore",
-                "pt": "Produtos com preço de venda igual a zero não podem ser adicionados ao carrinho no FastStore"
+                "es": "Los productos con precio de venta cero no se pueden añadir al carrito en FastStore.",
+                "pt": "Os produtos com preço de venda zero não podem ser adicionados ao carrinho no FastStore."
               },
               "slug": {
                 "en": "products-with-selling-price-is-zero-cannot-be-added-to-the-cart-in-faststore",
-                "es": "los-productos-cuyo-precio-de-venta-es-cero-no-se-pueden-anadir-al-carrito-en-faststore",
-                "pt": "produtos-com-preco-de-venda-igual-a-zero-nao-podem-ser-adicionados-ao-carrinho-no-faststore"
+                "es": "los-productos-con-precio-de-venta-cero-no-se-pueden-anadir-al-carrito-en-faststore",
+                "pt": "os-produtos-com-preco-de-venda-zero-nao-podem-ser-adicionados-ao-carrinho-no-faststore"
               },
               "origin": "",
               "type": "markdown",
@@ -51109,6 +51184,21 @@
                 "en": "redirects-for-preview-links-when-using-in-the-final-of-the-url",
                 "es": "redirecciones-para-los-enlaces-de-previsualizacion-cuando-se-utiliza-en-la-parte-final-de-la-url",
                 "pt": "redirecionamentos-para-links-de-visualizacao-ao-usar-no-final-do-url"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Secrets take hours to propagate to builds in WebOps (FastStore Platform)",
+                "es": "Los secretos tardan horas en propagarse a las compilaciones en WebOps (plataforma FastStore).",
+                "pt": "Os segredos levam horas para serem propagados para as compilações no WebOps (Plataforma FastStore)"
+              },
+              "slug": {
+                "en": "secrets-take-hours-to-propagate-to-builds-in-webops-faststore-platform",
+                "es": "los-secretos-tardan-horas-en-propagarse-a-las-compilaciones-en-webops-plataforma-faststore",
+                "pt": "os-segredos-levam-horas-para-serem-propagados-para-as-compilacoes-no-webops-plataforma-faststore"
               },
               "origin": "",
               "type": "markdown",
@@ -51884,6 +51974,21 @@
             },
             {
               "name": {
+                "en": "Category translation fields being overwritten on catalog graphql",
+                "es": "Los campos de traducción de categorías se sobrescriben en el catálogo graphql",
+                "pt": "Campos de tradução de categoria sendo sobregravados no catálogo graphql"
+              },
+              "slug": {
+                "en": "category-translation-fields-being-overwritten-on-catalog-graphql",
+                "es": "los-campos-de-traduccion-de-categorias-se-sobrescriben-en-el-catalogo-graphql",
+                "pt": "campos-de-traducao-de-categoria-sendo-sobregravados-no-catalogo-graphql"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Changing synonyms from unidirectional to bidirectional does not work",
                 "es": "El cambio de sinónimos de unidireccional a bidireccional no funciona",
                 "pt": "A alteração de sinônimos de unidirecional para bidirecional não funciona"
@@ -52057,6 +52162,21 @@
                 "en": "explained-search-interface-overlapping-long-texts-between-different-areas-or-products",
                 "es": "interfaz-de-busqueda-explicada-superposicion-de-textos-largos-entre-diferentes-areas-o-productos",
                 "pt": "interface-de-pesquisa-explicada-com-sobreposicao-de-textos-longos-entre-diferentes-areas-ou-produtos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Explained Search returns results from main locale instead of selected secondary locale",
+                "es": "La búsqueda explicada devuelve resultados de la configuración regional principal en lugar de la configuración regional secundaria seleccionada.",
+                "pt": "A Pesquisa explicada retorna resultados da localidade principal em vez da localidade secundária selecionada."
+              },
+              "slug": {
+                "en": "explained-search-returns-results-from-main-locale-instead-of-selected-secondary-locale",
+                "es": "la-busqueda-explicada-devuelve-resultados-de-la-configuracion-regional-principal-en-lugar-de-la-configuracion-regional-secundaria-seleccionada",
+                "pt": "a-pesquisa-explicada-retorna-resultados-da-localidade-principal-em-vez-da-localidade-secundaria-selecionada"
               },
               "origin": "",
               "type": "markdown",
@@ -53160,13 +53280,13 @@
             {
               "name": {
                 "en": "Specification Values not being translated in Intelligent Search side",
-                "es": "Los valores de especificación no se traducen en la búsqueda inteligente",
-                "pt": "Os valores de especificação não estão sendo traduzidos no lado da Pesquisa Inteligente"
+                "es": "Los valores de las especificaciones no se traducen en la sección de búsqueda inteligente",
+                "pt": "Os valores das especificações não estão sendo traduzidos na seção de Pesquisa Inteligente"
               },
               "slug": {
                 "en": "specification-values-not-being-translated-in-intelligent-search-side",
-                "es": "los-valores-de-especificacion-no-se-traducen-en-la-busqueda-inteligente",
-                "pt": "os-valores-de-especificacao-nao-estao-sendo-traduzidos-no-lado-da-pesquisa-inteligente"
+                "es": "los-valores-de-las-especificaciones-no-se-traducen-en-la-seccion-de-busqueda-inteligente",
+                "pt": "os-valores-das-especificacoes-nao-estao-sendo-traduzidos-na-secao-de-pesquisa-inteligente"
               },
               "origin": "",
               "type": "markdown",
@@ -58011,6 +58131,21 @@
             },
             {
               "name": {
+                "en": "Orders that fail to reach the \"invoiced\" status even after the invoice has been correctly entered.",
+                "es": "Pedidos que no alcanzan el estado «facturado» incluso después de que la factura se haya introducido correctamente.",
+                "pt": "Pedidos que não alcançam o status \"faturado\" mesmo após a fatura ter sido inserida corretamente."
+              },
+              "slug": {
+                "en": "orders-that-fail-to-reach-the-invoiced-status-even-after-the-invoice-has-been-correctly-entered",
+                "es": "pedidos-que-no-alcanzan-el-estado-facturado-incluso-despues-de-que-la-factura-se-haya-introducido-correctamente",
+                "pt": "pedidos-que-nao-alcancam-o-status-faturado-mesmo-apos-a-fatura-ter-sido-inserida-corretamente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Orders with a 'Creation Error' remain stuck in a 'cancel' status",
                 "es": "Los pedidos con un 'Error de creación' permanecen atascados en estado 'cancelado'.",
                 "pt": "Os pedidos com um 'Erro de criação' permanecem presos em um status de 'cancelar'"
@@ -58094,6 +58229,21 @@
                 "en": "possible-errors-in-change-orders-notification-in-the-ui-api-and-gateway",
                 "es": "posibles-errores-en-la-notificacion-de-ordenes-de-cambio-en-la-interfaz-de-usuario-la-api-y-la-pasarela",
                 "pt": "possiveis-erros-na-notificacao-de-ordens-de-alteracao-na-interface-do-usuario-na-api-e-no-gateway"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Refund limited incorrectly due to duplicated receipt from race condition (OMS invoice/restutions)",
+                "es": "Reembolso limitado incorrectamente debido a un recibo duplicado por una condición de carrera (factura OMS/reembolsos)",
+                "pt": "Reembolso limitado incorretamente devido a um recibo duplicado causado por uma condição de corrida (fatura OMS/restituições)"
+              },
+              "slug": {
+                "en": "refund-limited-incorrectly-due-to-duplicated-receipt-from-race-condition-oms-invoicerestutions",
+                "es": "reembolso-limitado-incorrectamente-debido-a-un-recibo-duplicado-por-una-condicion-de-carrera-factura-omsreembolsos",
+                "pt": "reembolso-limitado-incorretamente-devido-a-um-recibo-duplicado-causado-por-uma-condicao-de-corrida-fatura-omsrestituicoes"
               },
               "origin": "",
               "type": "markdown",
@@ -59245,12 +59395,12 @@
             {
               "name": {
                 "en": "Checkout cancels transaction after creation",
-                "es": "El pago cancela la transacción después de la creación",
+                "es": "El proceso de pago cancela la transacción tras su creación.",
                 "pt": "O checkout cancela a transação após a criação"
               },
               "slug": {
                 "en": "checkout-cancels-transaction-after-creation",
-                "es": "el-pago-cancela-la-transaccion-despues-de-la-creacion",
+                "es": "el-proceso-de-pago-cancela-la-transaccion-tras-su-creacion",
                 "pt": "o-checkout-cancela-a-transacao-apos-a-criacao"
               },
               "origin": "",
@@ -60070,13 +60220,13 @@
             {
               "name": {
                 "en": "Giftcard not getting refund after transaction cancellation",
-                "es": "No se reembolsa la tarjeta regalo tras cancelar la transacción",
-                "pt": "O Giftcard não está sendo reembolsado após o cancelamento da transação"
+                "es": "No se reembolsa la tarjeta regalo tras la cancelación de la transacción",
+                "pt": "O vale-presente não está sendo reembolsado após o cancelamento da transação"
               },
               "slug": {
                 "en": "giftcard-not-getting-refund-after-transaction-cancellation",
-                "es": "no-se-reembolsa-la-tarjeta-regalo-tras-cancelar-la-transaccion",
-                "pt": "o-giftcard-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao"
+                "es": "no-se-reembolsa-la-tarjeta-regalo-tras-la-cancelacion-de-la-transaccion",
+                "pt": "o-valepresente-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao"
               },
               "origin": "",
               "type": "markdown",
@@ -60527,6 +60677,21 @@
                 "en": "legacy-antifrauds-cannot-complete-a-request-when-the-accountid-is-missing",
                 "es": "los-sistemas-antifraude-heredados-no-pueden-completar-una-solicitud-cuando-falta-el-id-de-la-cuenta",
                 "pt": "os-antifrauds-legados-nao-podem-concluir-uma-solicitacao-quando-o-accountid-esta-ausente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Legacy Catalog Admin Gift Card page shows “Something went wrong” for specific users",
+                "es": "La página de tarjetas regalo del administrador del catálogo heredado muestra el mensaje «Se ha producido un error» para determinados usuarios.",
+                "pt": "A página do cartão-presente do administrador do catálogo antigo exibe a mensagem “Ocorreu um problema” para usuários específicos."
+              },
+              "slug": {
+                "en": "legacy-catalog-admin-gift-card-page-shows-something-went-wrong-for-specific-users",
+                "es": "la-pagina-de-tarjetas-regalo-del-administrador-del-catalogo-heredado-muestra-el-mensaje-se-ha-producido-un-error-para-determinados-usuarios",
+                "pt": "a-pagina-do-cartaopresente-do-administrador-do-catalogo-antigo-exibe-a-mensagem-ocorreu-um-problema-para-usuarios-especificos"
               },
               "origin": "",
               "type": "markdown",
@@ -61299,6 +61464,21 @@
             },
             {
               "name": {
+                "en": "Redirect page does not open for credit card payments when using Defense Mode/Trigger: suspicious",
+                "es": "La página de redireccionamiento no se abre para los pagos con tarjeta de crédito cuando se utiliza el modo de defensa/desencadenante: sospechoso.",
+                "pt": "A página de redirecionamento não abre para pagamentos com cartão de crédito ao usar o Modo de Defesa/Gatilho: suspeito"
+              },
+              "slug": {
+                "en": "redirect-page-does-not-open-for-credit-card-payments-when-using-defense-modetrigger-suspicious",
+                "es": "la-pagina-de-redireccionamiento-no-se-abre-para-los-pagos-con-tarjeta-de-credito-cuando-se-utiliza-el-modo-de-defensadesencadenante-sospechoso",
+                "pt": "a-pagina-de-redirecionamento-nao-abre-para-pagamentos-com-cartao-de-credito-ao-usar-o-modo-de-defesagatilho-suspeito"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Refund action logged twice",
                 "es": "Acción de reembolso registrada dos veces",
                 "pt": "Ação de reembolso registrada duas vezes"
@@ -61352,6 +61532,21 @@
                 "en": "regex-conflict-causes-us-to-misidentify-the-cards-brand",
                 "es": "el-conflicto-de-regex-hace-que-identifiquemos-mal-la-marca-de-las-tarjetas",
                 "pt": "conflito-de-interesses-nos-leva-a-identificar-erroneamente-a-marca-cards"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Removed payment methods still returned in Checkout when account has no active payment rules/conditions",
+                "es": "Los métodos de pago eliminados siguen apareciendo en la página de pago cuando la cuenta no tiene reglas o condiciones de pago activas",
+                "pt": "Os métodos de pagamento removidos ainda aparecem na página de finalização da compra quando a conta não possui regras/condições de pagamento ativas"
+              },
+              "slug": {
+                "en": "removed-payment-methods-still-returned-in-checkout-when-account-has-no-active-payment-rulesconditions",
+                "es": "los-metodos-de-pago-eliminados-siguen-apareciendo-en-la-pagina-de-pago-cuando-la-cuenta-no-tiene-reglas-o-condiciones-de-pago-activas",
+                "pt": "os-metodos-de-pagamento-removidos-ainda-aparecem-na-pagina-de-finalizacao-da-compra-quando-a-conta-nao-possui-regrascondicoes-de-pagamento-ativas"
               },
               "origin": "",
               "type": "markdown",
@@ -61929,6 +62124,21 @@
             },
             {
               "name": {
+                "en": "Transaction stuck in cancelling and cancel/refund return “Object reference not set to an instance of an object”",
+                "es": "Transacción bloqueada en la cancelación y devolución de cancelación/reembolso «Referencia de objeto no establecida en una instancia de un objeto».",
+                "pt": "Transação travada no cancelamento e cancelamento/reembolso da devolução “Referência de objeto não definida para uma instância de um objeto”"
+              },
+              "slug": {
+                "en": "transaction-stuck-in-cancelling-and-cancelrefund-return-object-reference-not-set-to-an-instance-of-an-object",
+                "es": "transaccion-bloqueada-en-la-cancelacion-y-devolucion-de-cancelacionreembolso-referencia-de-objeto-no-establecida-en-una-instancia-de-un-objeto",
+                "pt": "transacao-travada-no-cancelamento-e-cancelamentoreembolso-da-devolucao-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction stuck in Settling after Capture fails due to recipientsSplitRemainValue mismatch",
                 "es": "Transacción bloqueada en Liquidación tras fallo de Captura debido a una falta de coincidencia de recipientsSplitRemainValue.",
                 "pt": "Transação presa na Liquidação após falha na Captura devido à incompatibilidade entre recipientsSplitRemainValue"
@@ -62065,13 +62275,13 @@
             {
               "name": {
                 "en": "Transactions remain stuck in Analyzing Risk despite AFPP connector approval",
-                "es": "Las transacciones siguen atascadas en Análisis de riesgos a pesar de la aprobación del conector AFPP",
-                "pt": "As transações continuam presas no Analyzing Risk apesar da aprovação do conector AFPP"
+                "es": "Las transacciones siguen atascadas en «Analizando el riesgo» a pesar de la aprobación del conector AFPP.",
+                "pt": "As transações permanecem presas na Análise de Risco, apesar da aprovação do conector AFPP."
               },
               "slug": {
                 "en": "transactions-remain-stuck-in-analyzing-risk-despite-afpp-connector-approval",
-                "es": "las-transacciones-siguen-atascadas-en-analisis-de-riesgos-a-pesar-de-la-aprobacion-del-conector-afpp",
-                "pt": "as-transacoes-continuam-presas-no-analyzing-risk-apesar-da-aprovacao-do-conector-afpp"
+                "es": "las-transacciones-siguen-atascadas-en-analizando-el-riesgo-a-pesar-de-la-aprobacion-del-conector-afpp",
+                "pt": "as-transacoes-permanecem-presas-na-analise-de-risco-apesar-da-aprovacao-do-conector-afpp"
               },
               "origin": "",
               "type": "markdown",
@@ -62080,12 +62290,12 @@
             {
               "name": {
                 "en": "Transactions remain stuck in Analyzing Risk despite legacy anti fraud connector approval",
-                "es": "Las transacciones permanecen atascadas en Análisis de riesgos a pesar de la aprobación del conector antifraude heredado",
+                "es": "Las transacciones siguen atascadas en «Analizando el riesgo» a pesar de la aprobación del conector antifraude heredado.",
                 "pt": "As transações permanecem presas no Analyzing Risk, apesar da aprovação do conector antifraude legado"
               },
               "slug": {
                 "en": "transactions-remain-stuck-in-analyzing-risk-despite-legacy-anti-fraud-connector-approval",
-                "es": "las-transacciones-permanecen-atascadas-en-analisis-de-riesgos-a-pesar-de-la-aprobacion-del-conector-antifraude-heredado",
+                "es": "las-transacciones-siguen-atascadas-en-analizando-el-riesgo-a-pesar-de-la-aprobacion-del-conector-antifraude-heredado",
                 "pt": "as-transacoes-permanecem-presas-no-analyzing-risk-apesar-da-aprovacao-do-conector-antifraude-legado"
               },
               "origin": "",
@@ -62110,12 +62320,12 @@
             {
               "name": {
                 "en": "Transactions remain stuck in Pending Authorization despite connector approval",
-                "es": "Las transacciones permanecen atascadas en Pendiente de autorización a pesar de la aprobación del conector",
-                "pt": "As transações permanecem presas em Autorização Pendente apesar da aprovação do conector"
+                "es": "Las transacciones permanecen bloqueadas en «Autorización pendiente» a pesar de la aprobación del conector.",
+                "pt": "As transações permanecem presas em Autorização pendente, apesar da aprovação do conector"
               },
               "slug": {
                 "en": "transactions-remain-stuck-in-pending-authorization-despite-connector-approval",
-                "es": "las-transacciones-permanecen-atascadas-en-pendiente-de-autorizacion-a-pesar-de-la-aprobacion-del-conector",
+                "es": "las-transacciones-permanecen-bloqueadas-en-autorizacion-pendiente-a-pesar-de-la-aprobacion-del-conector",
                 "pt": "as-transacoes-permanecem-presas-em-autorizacao-pendente-apesar-da-aprovacao-do-conector"
               },
               "origin": "",
@@ -62185,13 +62395,13 @@
             {
               "name": {
                 "en": "Transactions stuck in Pending Authorization after approval",
-                "es": "Transacciones atascadas en Pendiente de autorización tras la aprobación",
-                "pt": "Transações presas em Autorização Pendente após a aprovação"
+                "es": "Transacciones bloqueadas en «Autorización pendiente» tras su aprobación",
+                "pt": "Transações retidas em Autorização pendente após aprovação"
               },
               "slug": {
                 "en": "transactions-stuck-in-pending-authorization-after-approval",
-                "es": "transacciones-atascadas-en-pendiente-de-autorizacion-tras-la-aprobacion",
-                "pt": "transacoes-presas-em-autorizacao-pendente-apos-a-aprovacao"
+                "es": "transacciones-bloqueadas-en-autorizacion-pendiente-tras-su-aprobacion",
+                "pt": "transacoes-retidas-em-autorizacao-pendente-apos-aprovacao"
               },
               "origin": "",
               "type": "markdown",
@@ -62557,6 +62767,21 @@
               "origin": "",
               "type": "markdown",
               "children": []
+            },
+            {
+              "name": {
+                "en": "Sales App When attempting to pay with digit or scan card, the CVV field can't be filled",
+                "es": "Aplicación de ventas Al intentar pagar con tarjeta digital o escaneada, no se puede rellenar el campo del CVV",
+                "pt": "Aplicativo de vendas Ao tentar pagar com cartão digital ou digitalizado, não é possível preencher o campo CVV"
+              },
+              "slug": {
+                "en": "sales-app-when-attempting-to-pay-with-digit-or-scan-card-the-cvv-field-cant-be-filled",
+                "es": "aplicacion-de-ventas-al-intentar-pagar-con-tarjeta-digital-o-escaneada-no-se-puede-rellenar-el-campo-del-cvv",
+                "pt": "aplicativo-de-vendas-ao-tentar-pagar-com-cartao-digital-ou-digitalizado-nao-e-possivel-preencher-o-campo-cvv"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },
@@ -62644,6 +62869,21 @@
                 "en": "paste-action-blocked-on-login-and-on-the-pick-and-pack-picking-search-field",
                 "es": "accion-de-pegar-bloqueada-en-el-inicio-de-sesion-y-en-el-campo-de-busqueda-de-picking-pick-and-pack",
                 "pt": "acao-de-colar-bloqueada-no-login-e-no-campo-de-pesquisa-de-picking-pick-and-pack"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Pick and Pack | Single Order Generating Multiple Worksheets Due to Concurrency Issue",
+                "es": "Seleccionar y empaquetar | Un solo pedido genera varias hojas de cálculo debido a un problema de concurrencia",
+                "pt": "Selecionar e embalar | Pedido único gerando várias planilhas devido a um problema de simultaneidade"
+              },
+              "slug": {
+                "en": "pick-and-pack-single-order-generating-multiple-worksheets-due-to-concurrency-issue",
+                "es": "seleccionar-y-empaquetar-un-solo-pedido-genera-varias-hojas-de-calculo-debido-a-un-problema-de-concurrencia",
+                "pt": "selecionar-e-embalar-pedido-unico-gerando-varias-planilhas-devido-a-um-problema-de-simultaneidade"
               },
               "origin": "",
               "type": "markdown",
@@ -66243,21 +66483,6 @@
             },
             {
               "name": {
-                "en": "Category translation fields being overwritten on catalog graphql",
-                "es": "Los campos de traducción de categorías se sobrescriben en el catálogo graphql",
-                "pt": "Campos de tradução de categoria sendo sobregravados no catálogo graphql"
-              },
-              "slug": {
-                "en": "category-translation-fields-being-overwritten-on-catalog-graphql",
-                "es": "los-campos-de-traduccion-de-categorias-se-sobrescriben-en-el-catalogo-graphql",
-                "pt": "campos-de-traducao-de-categoria-sendo-sobregravados-no-catalogo-graphql"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Changes made in the Styles admin page are not saved properly",
                 "es": "Los cambios realizados en la página de administración de Estilos no se guardan correctamente",
                 "pt": "As alterações feitas na página de administração de estilos não são salvas corretamente"
@@ -67556,6 +67781,21 @@
                 "en": "telesales-app-not-working-properly-with-requiresauthenticationtoloadprofile",
                 "es": "la-aplicacion-de-televenta-no-funciona-correctamente-con-requiresauthenticationtoloadprofile",
                 "pt": "o-aplicativo-de-televendas-nao-esta-funcionando-corretamente-com-requiresauthenticationtoloadprofile"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Telesales impersonation fails for specific customers in unified Profile System stores",
+                "es": "La suplantación de identidad en las ventas telefónicas falla para clientes específicos en las tiendas del sistema de perfiles unificado.",
+                "pt": "A falsificação de identidade em vendas por telefone falha para clientes específicos em lojas do Sistema de Perfil Unificado"
+              },
+              "slug": {
+                "en": "telesales-impersonation-fails-for-specific-customers-in-unified-profile-system-stores",
+                "es": "la-suplantacion-de-identidad-en-las-ventas-telefonicas-falla-para-clientes-especificos-en-las-tiendas-del-sistema-de-perfiles-unificado",
+                "pt": "a-falsificacao-de-identidade-em-vendas-por-telefone-falha-para-clientes-especificos-em-lojas-do-sistema-de-perfil-unificado"
               },
               "origin": "",
               "type": "markdown",
