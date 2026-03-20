@@ -17144,21 +17144,6 @@
                 },
                 {
                   "name": {
-                    "en": "Buyer organization members",
-                    "es": "Miembros de la organización compradora",
-                    "pt": "Membros da organização compradora"
-                  },
-                  "slug": {
-                    "en": "buyer-organization-members",
-                    "es": "miembros-de-la-organizacion-compradora",
-                    "pt": "membros-da-organizacao-compradora"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Buying policies overview",
                     "es": "Políticas de compras",
                     "pt": "Buying Policies"
@@ -17212,6 +17197,21 @@
                     "en": "scopes-overview",
                     "es": "vision-general-de-scopes",
                     "pt": "visao-geral-de-scopes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "es": "Miembros de la organización compradora",
+                    "pt": "Membros da organização compradora",
+                    "en": "Miembros de la organización compradora"
+                  },
+                  "slug": {
+                    "es": "miembros-de-la-organizacion-compradora",
+                    "pt": "membros-da-organizacao-compradora",
+                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
