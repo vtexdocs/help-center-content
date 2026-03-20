@@ -102,7 +102,7 @@ Os meios selecionados aparecerão na página **Payment Methods** e ficarão disp
 ### Remover um meios de pagamento
 
 1. Na [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account), na seção **Contract**, clique em **Payment methods.**
-2. Na página **Payment Methods**, clique no ícone **−** ao lado do meios de pagamento a remover.
+2. Na página **Payment Methods**, clique no ícone **−** ao lado do meio de pagamento a remover.
 3. No modal de confirmação, clique em `Remove`.
 
 > ⚠️ Remover um meios de pagamento impede que usuários desta unidade organizacional o utilizem no checkout.
