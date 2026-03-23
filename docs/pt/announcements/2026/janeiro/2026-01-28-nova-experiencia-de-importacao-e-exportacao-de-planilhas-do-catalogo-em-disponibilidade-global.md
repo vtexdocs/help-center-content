@@ -11,11 +11,13 @@ slugEN: 2026-01-28-general-availability-of-new-catalog-spreadsheet-import-and-ex
 locale: pt
 announcementSynopsisPT: 'Interface redesenhada que oferece exportação por filtros e acompanhamento de status.'
 tags:
-  - Catálogo
-  - Importação
-  - Produto
-  - Produtos
-  - SKU
+  - New feature
+  - Improvement
+  - Breaking change
+  - Deprecation
+  - Security update
+  - Catalog
+  - Admin
 ---
 
 Até o final de fevereiro de 2026, todas as lojas VTEX terão acesso à nova experiência de importação e exportação de planilhas de produtos e SKUs, especificações e imagens. A migração das contas está sendo feita gradualmente e será aplicada às lojas de todas as regiões.
