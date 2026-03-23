@@ -18,7 +18,6 @@ tags:
   - Security update
   - Catalog
   - Admin
-
 ---
 
 By the end of February 2026, all VTEX stores will have access to the new spreadsheet import and export experience for products and SKUs, specifications, and images. Account migration is being done gradually and will be applied to stores in all regions.
