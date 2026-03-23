@@ -56,6 +56,37 @@
             },
             {
               "name": {
+                "en": "Março",
+                "es": "Março",
+                "pt": "Março"
+              },
+              "slug": {
+                "en": "marco",
+                "es": "marco",
+                "pt": "2026-março"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Apple Pay Express Checkout V6: novo meio de pagamento",
+                    "en": "Apple Pay Express Checkout V6: novo meio de pagamento",
+                    "es": "Apple Pay Express Checkout V6: novo meio de pagamento"
+                  },
+                  "slug": {
+                    "pt": "2026-03-23-apple-pay-express-checkout-v6-novo-meio-de-pagamento",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "February",
                 "es": "Febrero",
                 "pt": "Fevereiro"
