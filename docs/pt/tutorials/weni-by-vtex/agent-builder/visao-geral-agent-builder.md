@@ -150,5 +150,4 @@ Após inserir um texto, clique em `Salvar`.
 
 Você pode criar fluxos de automação para interagir com um grupo de usuários e determinar as respostas do agente com base nas mensagens dos usuários.
 
-Para entender como criar fluxos, leia o artigo [Criação de fluxos](/pt/docs/tutorials/criacao-de-fluxos.md).
-
+Para entender como criar fluxos, leia o artigo [Introdução a fluxos](https://help.vtex.com/pt/docs/tutorials/introducao-a-fluxos).
