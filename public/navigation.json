@@ -49772,7 +49772,7 @@
             {
               "name": {
                 "en": "APP FBE CAPI Purchase event not deduplicated in headless checkout (FBP/external_id dependency on VTEX Checkout)",
-                "es": "APP FBE El evento de compra CAPI no se deduplica en el proceso de pago sin interfaz (dependencia de FBP/external_id en VTEX Checkout).",
+                "es": "APP FBE El evento de compra CAPI no se deduplica en el proceso de pago sin interfaz (dependencia de FBP/external_id en VTEX Checkout)",
                 "pt": "APP FBE Evento de compra CAPI não deduplicado no checkout sem interface (dependência de FBP/external_id no VTEX Checkout)"
               },
               "slug": {
@@ -50019,6 +50019,21 @@
                 "en": "ey-send-kit-is-not-recording-a-change-in-the-card",
                 "es": "ey-enviar-kit-no-esta-registrando-un-cambio-en-la-tarjeta",
                 "pt": "ey-enviar-kit-nao-esta-registrando-uma-mudanca-no-cartao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "FBE PLP/PDP images intermittently fail to load when Meta Facebook Business Extension (FBE) is enabled",
+                "es": "FBE Las imágenes PLP/PDP a veces no se cargan cuando está activada la extensión Meta Facebook Business (FBE)",
+                "pt": "FBE As imagens do PLP/PDP não carregam ocasionalmente quando a Meta Facebook Business Extension (FBE) está ativada"
+              },
+              "slug": {
+                "en": "fbe-plppdp-images-intermittently-fail-to-load-when-meta-facebook-business-extension-fbe-is-enabled",
+                "es": "fbe-las-imagenes-plppdp-a-veces-no-se-cargan-cuando-esta-activada-la-extension-meta-facebook-business-fbe",
+                "pt": "fbe-as-imagens-do-plppdp-nao-carregam-ocasionalmente-quando-a-meta-facebook-business-extension-fbe-esta-ativada"
               },
               "origin": "",
               "type": "markdown",
@@ -52190,6 +52205,21 @@
             },
             {
               "name": {
+                "en": "Category translation fields being overwritten on catalog graphql",
+                "es": "Los campos de traducción de categorías se sobrescriben en el catálogo graphql",
+                "pt": "Campos de tradução de categoria sendo sobregravados no catálogo graphql"
+              },
+              "slug": {
+                "en": "category-translation-fields-being-overwritten-on-catalog-graphql",
+                "es": "los-campos-de-traduccion-de-categorias-se-sobrescriben-en-el-catalogo-graphql",
+                "pt": "campos-de-traducao-de-categoria-sendo-sobregravados-no-catalogo-graphql"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Changing synonyms from unidirectional to bidirectional does not work",
                 "es": "El cambio de sinónimos de unidireccional a bidireccional no funciona",
                 "pt": "A alteração de sinônimos de unidirecional para bidirecional não funciona"
@@ -54285,6 +54315,21 @@
                 "en": "shipping-policy-with-incorrect-maxvolume-on-spreadsheet-does-not-show-message-error-on-simulation",
                 "es": "la-politica-de-envio-con-un-maxvolume-incorrecto-en-la-hoja-de-calculo-no-muestra-el-error-del-mensaje-en-la-simulacion",
                 "pt": "politica-de-envio-com-maxvolume-incorreto-na-planilha-nao-mostra-erro-de-mensagem-na-simulacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shipping Simulator UI returns empty “Postal code range”, “Weight range” for KITs SKUs",
+                "es": "La interfaz de usuario de Shipping Simulator muestra valores vacíos en los campos «Rango de códigos postales» y «Rango de peso» para las referencias de los kits",
+                "pt": "A interface do Shipping Simulator exibe valores nulos nos campos “Intervalo de CEP” e “Intervalo de peso” para as SKUs dos kits"
+              },
+              "slug": {
+                "en": "shipping-simulator-ui-returns-empty-postal-code-range-weight-range-for-kits-skus",
+                "es": "la-interfaz-de-usuario-de-shipping-simulator-muestra-valores-vacios-en-los-campos-rango-de-codigos-postales-y-rango-de-peso-para-las-referencias-de-los-kits",
+                "pt": "a-interface-do-shipping-simulator-exibe-valores-nulos-nos-campos-intervalo-de-cep-e-intervalo-de-peso-para-as-skus-dos-kits"
               },
               "origin": "",
               "type": "markdown",
@@ -62280,6 +62325,21 @@
             },
             {
               "name": {
+                "en": "Transaction stuck in Approved while payment remains finished or settling",
+                "es": "La transacción se ha quedado bloqueada en «Aprobada», mientras que el pago sigue en estado «Finalizado» o «En liquidación»",
+                "pt": "A transação está parada na etapa \"Aprovada\", enquanto o pagamento continua como \"Concluído\" ou \"Em liquidação\""
+              },
+              "slug": {
+                "en": "transaction-stuck-in-approved-while-payment-remains-finished-or-settling",
+                "es": "la-transaccion-se-ha-quedado-bloqueada-en-aprobada-mientras-que-el-pago-sigue-en-estado-finalizado-o-en-liquidacion",
+                "pt": "a-transacao-esta-parada-na-etapa-aprovada-enquanto-o-pagamento-continua-como-concluido-ou-em-liquidacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction stuck in Approved while payment remains Settling when using partial settlements",
                 "es": "Transacción atascada en Aprobado mientras el pago permanece Liquidando cuando se utilizan liquidaciones parciales.",
                 "pt": "Transação presa em Aprovado enquanto o pagamento permanece Liquidado ao usar liquidações parciais"
@@ -66677,21 +66737,6 @@
                 "en": "carousel-layout-issue-using-responsivevalues-in-sku-selector",
                 "es": "problema-de-diseno-de-carrusel-utilizando-responsivevalues-en-sku-selector",
                 "pt": "problema-de-layout-de-carrossel-usando-valores-responsivos-no-seletor-de-sku"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Category translation fields being overwritten on catalog graphql",
-                "es": "Los campos de traducción de categorías se sobrescriben en el catálogo graphql",
-                "pt": "Campos de tradução de categoria sendo sobregravados no catálogo graphql"
-              },
-              "slug": {
-                "en": "category-translation-fields-being-overwritten-on-catalog-graphql",
-                "es": "los-campos-de-traduccion-de-categorias-se-sobrescriben-en-el-catalogo-graphql",
-                "pt": "campos-de-traducao-de-categoria-sendo-sobregravados-no-catalogo-graphql"
               },
               "origin": "",
               "type": "markdown",
