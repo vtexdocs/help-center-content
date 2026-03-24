@@ -13,6 +13,10 @@ locale: en
 legacySlug: amazon-exportation-of-fba-order-invoices
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Exportation of FBA order invoices is now available in the VTEX Admin.'
+tags:
+  - New feature
+  - Marketplace
+  - Integrations
 ---
 
 We've created this feature to access and export FBA order invoices easily, allowing you to customize searches with more precision. The feature is available for all VTEX clients who operate as sellers through the [integration with Amazon](/en/docs/tracks/amazon) and have FBA orders.  
