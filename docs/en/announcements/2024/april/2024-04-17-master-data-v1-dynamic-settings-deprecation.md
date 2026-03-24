@@ -13,6 +13,9 @@ locale: en
 legacySlug: master-data-v1-dynamic-settings-deprecation
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'The Calculated field and the "Change field value" trigger will be discontinued in Master Data v1.'
+tags:
+  - Deprecation
+  - Master Data
 ---
 
 On June 17, 2024, we will disable the following settings in Master Data v1: **Calculated field** and **Change field value** trigger.

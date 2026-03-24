@@ -13,6 +13,9 @@ locale: en
 legacySlug: multilanguage-checkout-launch
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Explore the new Multilanguage Checkout and expand your store globally by offering a localized shopping experience.'
+tags:
+  - New feature
+  - Checkout
 ---
 
 We are introducing **Multilanguage Checkout**, a new feature designed to enhance your store's shopping experience, regardless of the country. As of 04/29/2024, your customers can enjoy an internationalized buying journey, from catalog browsing to the checkout process.
