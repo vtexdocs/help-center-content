@@ -13,6 +13,9 @@ locale: en
 legacySlug: redesigned-buy-together-promotion-form
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'New VTEX promotion form design has a modern interface and is easy to use.'
+tags:
+  - Improvement
+  - Promotions
 ---
 
 VTEX provides a revamped form for creating [Buy Together](/en/docs/tutorials/buy-together) promotions. A modern and intuitive design makes the new interface simple and easy to use.
