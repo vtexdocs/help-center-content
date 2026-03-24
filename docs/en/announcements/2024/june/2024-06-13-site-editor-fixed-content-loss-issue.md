@@ -13,6 +13,9 @@ locale: en
 legacySlug: site-editor-fixed-content-loss-issue
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Site Editor content storage received an upgrade for better performance and reliability.'
+tags:
+  - Improvement
+  - Storefront
 ---
 
 On June 12, [Site Editor](/en/docs/tutorials/site-editor-overview) content storage was updated for all accounts that use it in order to address a known issue: [Intermittent Site Editor content loss](/en/known-issues/intermitent-site-editor-content-loss--3a5MlAoD2Z7Gu6HDS8wihD). This upgrade improves storage performance, reliability, and reduces the size of your stored content.
