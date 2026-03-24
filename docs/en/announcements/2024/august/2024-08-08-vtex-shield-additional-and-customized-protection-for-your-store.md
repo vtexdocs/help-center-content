@@ -13,6 +13,9 @@ locale: en
 legacySlug: vtex-shield-additional-and-customized-protection-for-your-store
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'VTEX Shield: A solution that provides additional and customizable layers of protection.'
+tags:
+  - New feature
+  - VTEX Shield
 ---
 
 We are introducing [VTEX Shield](/en/docs/tutorials/vtex-shield), a solution that provides additional and customizable layers of security for your store, complementing the standards already guaranteed by [VTEX's security certifications and practices](https://vtex.com/us-en/security/security-practices/).
