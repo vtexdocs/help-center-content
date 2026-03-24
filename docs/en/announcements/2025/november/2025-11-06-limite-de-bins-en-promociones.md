@@ -13,6 +13,9 @@ locale: en
 legacySlug: limite-de-bins-en-promociones
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Promotions support up to 300 BINs per configuration. To save successfully, remove any excess BINs.'
+tags:
+  - Improvement
+  - Promotions
 ---
 
 VTEX has updated how promotions are limited to only certain types of cards.
