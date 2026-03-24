@@ -13,6 +13,9 @@ locale: en
 legacySlug: new-process-for-opening-tickets-with-vtex-support
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'New process with Copilot speeds up answers and tickets with VTEX Support, improving efficiency.'
+tags:
+  - Improvement
+  - Admin
 ---
 
 We've developed a new ticket-opening process that provides answers to common questions before opening a ticket. This helps identify solutions more quickly and, if necessary, allows you to open a ticket with the support team.
