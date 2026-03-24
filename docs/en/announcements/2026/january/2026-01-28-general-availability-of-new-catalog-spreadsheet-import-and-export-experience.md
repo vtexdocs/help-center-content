@@ -2,7 +2,7 @@
 title: 'General availability of new catalog spreadsheet import and export experience'
 status: PUBLISHED
 createdAt: 2026-01-28T00:00:00.000Z
-updatedAt: 2026-04-02T00:00:00.000Z
+updatedAt: 2026-03-24T00:00:00.000Z
 publishedAt: 2026-01-28T00:00:00.000Z
 contentType: updates
 productTeam: Catalog
