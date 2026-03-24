@@ -13,6 +13,10 @@ locale: pt
 legacySlug: amazon-exportacao-de-notas-fiscais-de-pedidos-fba
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Exportação de Notas Fiscais de pedidos FBA agora disponível no Admin VTEX.'
+tags:
+  - Nova funcionalidade
+  - Marketplace
+  - Integrações
 ---
 
 Criamos essa funcionalidade para facilitar o acesso e a exportação de notas fiscais de pedidos FBA, permitindo que você personalize suas buscas com mais precisão. Está disponível para todos os clientes VTEX que atuam como sellers através da [integração com a Amazon](/pt/docs/tracks/amazon) e possui pedidos FBA.  

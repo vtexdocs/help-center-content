@@ -12,6 +12,9 @@ locale: en
 legacySlug: 
 announcementImageID: 
 announcementSynopsisEN: 'Indeva by VTEX documentation is now part of the Help Center, offering a unified and more organized navigation experience.'
+tags:
+  - Improvement
+  - VTEX Sales App
 ---
 
 To ensure a unified and easy-to-navigate documentation experience, all **Indeva by VTEX** documentation has been migrated to the [VTEX Help Center](https://help.vtex.com/docs/tutorials/indeva-by-vtex-category). 

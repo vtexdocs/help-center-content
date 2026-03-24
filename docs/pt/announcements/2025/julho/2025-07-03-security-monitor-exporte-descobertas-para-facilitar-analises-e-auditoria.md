@@ -13,6 +13,9 @@ locale: pt
 legacySlug: security-monitor-exporte-descobertas-para-facilitar-analises-e-auditoria
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Exporte descobertas do Security Monitor diretamente da interface para facilitar o monitoramento de riscos.'
+tags:
+  - Nova funcionalidade
+  - VTEX Shield
 ---
 
 Agora é possível exportar as descobertas do [Security Monitor](/pt/docs/tutorials/security-monitor) para um arquivo CSV. Com a nova funcionalidade, lojistas que utilizam a ferramenta ganham mais autonomia para registrar, compartilhar e aprofundar a análise de riscos de segurança detectados na conta.

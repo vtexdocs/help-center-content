@@ -13,6 +13,10 @@ locale: pt
 legacySlug: site-editor-e-midia-nova-solicitacao-de-autorizacao
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Usuários agora precisam do recurso CMS GraphQL API para gerenciar conteúdo. Atualize os perfis de acesso de acordo.'
+tags:
+  - Breaking change
+  - Storefront
+  - Identity
 ---
 
 A partir de segunda-feira, 18 de março de 2024, todos os[ usuários](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) e [chaves de aplicação](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) que precisarem acessar o [Site Editor](/pt/docs/tutorials/site-editor-visao-geral) e o [Mídia](/pt/docs/tutorials/midia-visao-geral) deverão ter o[ recurso](/pt/docs/tutorials/recursos-do-license-manager) `CMS GraphQL API` do License Manager adicionados aos seus[ perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) para o gerenciamento de conteúdo.

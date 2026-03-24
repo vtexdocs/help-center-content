@@ -13,6 +13,9 @@ locale: en
 legacySlug: new-feature-product-feedback-in-the-vtex-admin
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'The new "Product Feedback" feature in the VTEX Admin allows you to share your feedback with our team.'
+tags:
+  - New feature
+  - Admin
 ---
 
 We are launching a new feature in the VTEX Admin: the Give Feedback button.

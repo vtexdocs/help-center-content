@@ -13,6 +13,9 @@ locale: en
 legacySlug: update-of-the-external-privacy-notice
 announcementImageID: 'undefined'
 announcementSynopsisEN: "We have updated the Privacy Notice regarding the processing of Shoppers' personal data on VTEX."
+tags:
+  - Security update
+  - Admin
 ---
 
 We have revised the [Privacy Notice](https://vtex.com/us-en/trust/general-external-privacy-notice/) that explains how VTEX processes the personal data of _Shoppers_, i.e., individuals who access ecommerce environments controlled by merchants who are direct clients of VTEX.

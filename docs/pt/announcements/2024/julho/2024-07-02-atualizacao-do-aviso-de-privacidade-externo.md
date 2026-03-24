@@ -13,6 +13,9 @@ locale: pt
 legacySlug: atualizacao-do-aviso-de-privacidade-externo
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Atualizamos o Aviso de Privacidade sobre o tratamento de dados pessoais de Shoppers na VTEX.'
+tags:
+  - Atualização de segurança
+  - Admin
 ---
 
 Revisamos o [Aviso de Privacidade](https://vtex.com/br-pt/trust/general-external-privacy-notice/) que explica como a VTEX trata dados pessoais de _Shoppers_, ou seja, indivíduos que acessam os ambientes de ecommerce controlados por lojistas que são os clientes diretos da VTEX.

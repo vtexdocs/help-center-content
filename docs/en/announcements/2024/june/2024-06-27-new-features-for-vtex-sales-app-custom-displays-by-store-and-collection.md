@@ -13,6 +13,9 @@ locale: en
 legacySlug: new-features-for-vtex-sales-app-custom-displays-by-store-and-collection
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'New VTEX features: Enhancing product visibility with window displays by store and collection.'
+tags:
+  - New feature
+  - VTEX Sales App
 ---
 
 We have made available two new features for VTEX Sales App: custom displays by store and collection. These features have been developed to enhance product display and improve the customer shopping experience:

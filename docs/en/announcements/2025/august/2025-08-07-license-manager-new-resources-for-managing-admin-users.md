@@ -13,6 +13,9 @@ locale: en
 legacySlug: license-manager-new-resources-for-managing-admin-users
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'We’ve simplified user management with new features in License Manager.'
+tags:
+  - New feature
+  - Identity
 ---
 
 We created two new [resources in License Manager](/en/docs/tutorials/license-manager-resources) to simplify and standardize access control, grouping actions related to administrative user management in the VTEX Admin more intuitively.

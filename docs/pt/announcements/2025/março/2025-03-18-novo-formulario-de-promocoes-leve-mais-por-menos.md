@@ -13,6 +13,9 @@ locale: pt
 legacySlug: novo-formulario-de-promocoes-leve-mais-por-menos
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Novo formulário Leve Mais por Menos permite configurar descontos por quantidade no carrinho.'
+tags:
+  - Melhoria
+  - Promoções
 ---
 
 A VTEX disponibiliza o novo formulário o **Leve Mais por Menos**, que permite configurar descontos quando o comprador adiciona várias unidades do mesmo produto ao carrinho. Por exemplo, na promoção "Leve 3, pague 2", o cliente recebe o desconto automaticamente ao atingir a quantidade de itens necessária.

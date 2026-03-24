@@ -13,6 +13,9 @@ locale: pt
 legacySlug: vtex-shield-novas-camadas-de-protecao-com-certificados-ssl-customizados-e
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'VTEX Shield agora oferece Certificados SSL customizados e mTLS, ampliando o conjunto de recursos avançados de segurança.'
+tags:
+  - Nova funcionalidade
+  - VTEX Shield
 ---
 
 O [VTEX Shield](/pt/docs/tutorials/vtex-shield) é um produto adicional que oferece camadas personalizáveis de segurança para a sua loja, além dos padrões de segurança garantidos pelas [certificações e práticas de segurança](https://vtex.com/br-pt/security/security-practices/) existentes na VTEX.

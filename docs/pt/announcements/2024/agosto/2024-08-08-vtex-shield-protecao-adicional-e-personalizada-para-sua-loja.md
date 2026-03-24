@@ -13,6 +13,9 @@ locale: pt
 legacySlug: vtex-shield-protecao-adicional-e-personalizada-para-sua-loja
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Apresentamos o VTEX Shield, uma solução que proporciona camadas adicionais e personalizáveis de proteção.'
+tags:
+  - Nova funcionalidade
+  - VTEX Shield
 ---
 
 Apresentamos o [VTEX Shield](/pt/docs/tutorials/vtex-shield), uma solução que proporciona camadas adicionais e personalizáveis de segurança para sua loja, complementando os padrões já garantidos pelas [certificações e práticas de segurança da VTEX](https://vtex.com/br-pt/security/security-practices/).

@@ -13,6 +13,9 @@ locale: es
 legacySlug: descontinuacion-del-servicio-de-api-heredado-webservice
 announcementImageID: 'undefined'
 announcementSynopsisES: 'A partir del 1 de septiembre de 2025 se descontinuará Webservice de la plataforma VTEX.'
+tags:
+  - Descontinuación
+  - Catálogo
 ---
 
 A partir del **1 de septiembre de 2025**, la API Webservice se descontinuará permanentemente de la plataforma VTEX. Los clientes que utilicen el servicio heredado deberán adaptar su operación al conjunto de APIs VTEX actuales. Para saber más, consulta la [referencia de APIs](https://developers.vtex.com/docs/api-reference).

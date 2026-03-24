@@ -13,6 +13,9 @@ locale: en
 legacySlug: new-google-and-yahoo-requirements-for-bulk-email-senders
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'Google and Yahoo new requirements for bulk email senders.'
+tags:
+  - Breaking change
+  - Orders
 ---
 
 Google and Yahoo are implementing new requirements for bulk email senders. They aim to ensure greater security for recipients, reduce the number of spam messages, and provide a better user experience.

@@ -13,6 +13,9 @@ locale: es
 legacySlug: nuevas-funcionalidades-de-vtex-sales-app-vitrina-por-tienda-y-vitrina-de
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Nuevas funcionalidades VTEX: vitrina por tienda y vitrina de colección para optimizar los productos mostrados.'
+tags:
+  - Nueva funcionalidad
+  - VTEX Sales App
 ---
 
 Hemos agregado dos nuevas funcionalidades en VTEX Sales App: vitrinas por tienda y vitrinas de colección. Estas funcionalidades optimizan los productos mostrados y la experiencia de compra de los clientes de las siguientes maneras:

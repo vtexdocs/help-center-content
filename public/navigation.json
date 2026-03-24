@@ -53785,6 +53785,21 @@
             },
             {
               "name": {
+                "en": "Shipping Simulator UI returns empty “Postal code range”, “Weight range” for KITs SKUs",
+                "es": "La interfaz de usuario de Shipping Simulator muestra valores vacíos en los campos «Rango de códigos postales» y «Rango de peso» para las referencias de los kits",
+                "pt": "A interface do Shipping Simulator exibe valores nulos nos campos “Intervalo de CEP” e “Intervalo de peso” para as SKUs dos kits"
+              },
+              "slug": {
+                "en": "shipping-simulator-ui-returns-empty-postal-code-range-weight-range-for-kits-skus",
+                "es": "la-interfaz-de-usuario-de-shipping-simulator-muestra-valores-vacios-en-los-campos-rango-de-codigos-postales-y-rango-de-peso-para-las-referencias-de-los-kits",
+                "pt": "a-interface-do-shipping-simulator-exibe-valores-nulos-nos-campos-intervalo-de-cep-e-intervalo-de-peso-para-as-skus-dos-kits"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Shipping Strategy stuck in Processing due to extremely large weight-range combinations (Logistics shipping spreadsheets)",
                 "es": "Estrategia de envío atascada en Procesamiento debido a combinaciones de rangos de peso extremadamente grandes (hojas de cálculo de envío de Logística).",
                 "pt": "Estratégia de remessa travada no processamento devido a combinações de faixas de peso extremamente grandes (planilhas de remessa logística)"
