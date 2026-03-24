@@ -41041,13 +41041,13 @@
             {
               "name": {
                 "en": "Collections named with special characters cannot be exported",
-                "es": "Las colecciones nombradas con caracteres especiales no se pueden exportar",
-                "pt": "As coleções nomeadas com caracteres especiais não podem ser exportadas"
+                "es": "Las colecciones cuyos nombres contengan caracteres especiales no se pueden exportar",
+                "pt": "Coleções com nomes que contenham caracteres especiais não podem ser exportadas"
               },
               "slug": {
                 "en": "collections-named-with-special-characters-cannot-be-exported",
-                "es": "las-colecciones-nombradas-con-caracteres-especiales-no-se-pueden-exportar",
-                "pt": "as-colecoes-nomeadas-com-caracteres-especiais-nao-podem-ser-exportadas"
+                "es": "las-colecciones-cuyos-nombres-contengan-caracteres-especiales-no-se-pueden-exportar",
+                "pt": "colecoes-com-nomes-que-contenham-caracteres-especiais-nao-podem-ser-exportadas"
               },
               "origin": "",
               "type": "markdown",
@@ -49250,7 +49250,7 @@
             {
               "name": {
                 "en": "APP FBE CAPI Purchase event not deduplicated in headless checkout (FBP/external_id dependency on VTEX Checkout)",
-                "es": "APP FBE El evento de compra CAPI no se deduplica en el proceso de pago sin interfaz (dependencia de FBP/external_id en VTEX Checkout).",
+                "es": "APP FBE El evento de compra CAPI no se deduplica en el proceso de pago sin interfaz (dependencia de FBP/external_id en VTEX Checkout)",
                 "pt": "APP FBE Evento de compra CAPI não deduplicado no checkout sem interface (dependência de FBP/external_id no VTEX Checkout)"
               },
               "slug": {
@@ -49497,6 +49497,21 @@
                 "en": "ey-send-kit-is-not-recording-a-change-in-the-card",
                 "es": "ey-enviar-kit-no-esta-registrando-un-cambio-en-la-tarjeta",
                 "pt": "ey-enviar-kit-nao-esta-registrando-uma-mudanca-no-cartao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "FBE PLP/PDP images intermittently fail to load when Meta Facebook Business Extension (FBE) is enabled",
+                "es": "FBE Las imágenes PLP/PDP a veces no se cargan cuando está activada la extensión Meta Facebook Business (FBE)",
+                "pt": "FBE As imagens do PLP/PDP não carregam ocasionalmente quando a Meta Facebook Business Extension (FBE) está ativada"
+              },
+              "slug": {
+                "en": "fbe-plppdp-images-intermittently-fail-to-load-when-meta-facebook-business-extension-fbe-is-enabled",
+                "es": "fbe-las-imagenes-plppdp-a-veces-no-se-cargan-cuando-esta-activada-la-extension-meta-facebook-business-fbe",
+                "pt": "fbe-as-imagens-do-plppdp-nao-carregam-ocasionalmente-quando-a-meta-facebook-business-extension-fbe-esta-ativada"
               },
               "origin": "",
               "type": "markdown",

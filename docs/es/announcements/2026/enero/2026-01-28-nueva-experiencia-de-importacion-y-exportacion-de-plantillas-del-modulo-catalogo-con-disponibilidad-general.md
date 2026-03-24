@@ -2,7 +2,7 @@
 title: 'Nueva experiencia de importación y exportación de plantillas del módulo Catálogo con disponibilidad general'
 status: PUBLISHED
 createdAt: 2026-01-28T00:00:00.000Z
-updatedAt: 2026-04-02T00:00:00.000Z
+updatedAt: 2026-03-24T00:00:00.000Z
 publishedAt: 2026-01-28T00:00:00.000Z
 contentType: updates
 productTeam: Catálogo
