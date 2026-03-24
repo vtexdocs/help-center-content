@@ -13,6 +13,10 @@ locale: pt
 legacySlug: amazon-listing-novo-modelo-de-cadastro-de-produtos
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Conheça o novo módulo do Admin VTEX para agilizar o cadastro de produtos na Amazon.'
+tags:
+  - Nova funcionalidade
+  - Marketplace
+  - Integrações
 ---
 
 O **Amazon Listing** é um novo módulo do Admin VTEX, desenvolvido para tornar o processo de cadastro de produtos a serem enviados à Amazon mais ágil e eficiente. Com ele, o seller pode cadastrar novos produtos de forma eficaz, com baixa taxa de erro, garantindo uma integração fluida entre a VTEX e a Amazon.

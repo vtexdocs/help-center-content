@@ -13,6 +13,9 @@ locale: es
 legacySlug: descontinuidad-del-seguro-vtex
 announcementImageID: 'undefined'
 announcementSynopsisES: 'VTEX Insurance dejará de ser un producto VTEX, pero continuará existiendo como Assurant Digital.'
+tags:
+  - Descontinuación
+  - Pagos
 ---
 
 Desde el 11 de diciembre de 2023, se descontinuó VTEX Insurance de VTEX y se migraron sus funcionalidades a Assurant Digital.

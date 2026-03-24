@@ -13,6 +13,9 @@ locale: pt
 legacySlug: documentacao-da-weni-by-vtex-no-help-center
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'A documentação dos produtos da Weni by VTEX está hospedada agora no Help Center.'
+tags:
+  - Melhoria
+  - Pedidos
 ---
 
 Para oferecer uma experiência de documentação unificada e acessível, integramos todas as documentações dos produtos e funcionalidades da Weni by VTEX ao Help Center VTEX.

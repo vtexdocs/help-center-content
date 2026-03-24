@@ -13,6 +13,9 @@ locale: es
 legacySlug: checkout-nueva-validacion-de-recaptcha
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Nueva capa de seguridad en Checkout valida hosts vía License Manager utilizando reCAPTCHA.'
+tags:
+  - Actualización de seguridad
+  - Checkout
 ---
 
 Para mejorar la seguridad durante el checkout, agregamos una nueva capa de protección en la validación de [reCAPTCHA](/es/docs/tutorials/recaptcha-en-el-checkout) de la tienda. Ahora, los [hosts](/es/docs/tutorials/configurar-dominio-de-la-tienda#estructura-de-la-direccion-de-la-tienda) de la tienda se validan vía [License Manager](/es/docs/tutorials/roles), el sistema encargado de comprobar si un usuario tiene los permisos adecuados para realizar acciones en la plataforma.

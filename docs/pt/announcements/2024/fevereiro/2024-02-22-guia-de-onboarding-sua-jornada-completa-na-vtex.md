@@ -13,6 +13,9 @@ locale: pt
 legacySlug: guia-de-onboarding-sua-jornada-completa-na-vtex
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Lançamento do Guia de onboarding: conteúdo da loja até o go-live, evolução da operação e suporte na VTEX.'
+tags:
+  - Melhoria
+  - Admin
 ---
 
 Com foco no sucesso dos nossos clientes, a VTEX oferece soluções completas para diversos modelos de negócio. É a versatilidade do composable commerce a serviço da inovação e do crescimento da sua operação.

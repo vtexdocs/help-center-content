@@ -13,6 +13,9 @@ locale: pt
 legacySlug: novo-processo-de-abertura-de-chamados-para-o-suporte-vtex
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Novo processo com o Copilot agiliza dúvidas e abertura de chamados no suporte VTEX, melhorando a eficiência.'
+tags:
+  - Melhoria
+  - Admin
 ---
 
 Desenvolvemos um novo processo de abertura de ticket, que oferece respostas para dúvidas comuns antes da abertura de um chamado. Isso ajuda a identificar soluções mais rapidamente e, caso necessário, permite abrir um chamado para o time de suporte.
