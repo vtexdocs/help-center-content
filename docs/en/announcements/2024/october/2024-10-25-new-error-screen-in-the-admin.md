@@ -13,6 +13,9 @@ locale: en
 legacySlug: new-error-screen-in-the-admin
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'The new error screen in the Admin provides clear instructions and hides technical details.'
+tags:
+  - Improvement
+  - Admin
 ---
 
 The new error screen in the Admin offers more direct communication, focusing on clear instructions for identifying and fixing issues in the store.
