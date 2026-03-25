@@ -17,7 +17,6 @@ Welcome to the [VTEX Help Center](https://help.vtex.com/) content repository!
   - [Navigation Generation](#navigation-generation)
   - [Broken Page Finder](#broken-page-finder)
   - [Changelog Generation](#changelog-generation)
-  - [Retrieve Docs from Contentful](#retrieve-docs-from-contentful)
 
 ## In this repository
 
@@ -310,20 +309,3 @@ This repository uses GitHub Actions for automating various tasks related to cont
   - Function: Sets up Node.js environment (version 20)
 - standard-version (npm package)
   - Function: Generates changelogs and manages versioning
-
-### Retrieve Docs from Contentful
-
-**Source**: `.github/workflows/retrieve-docs.yml`
-
-**Summary**: This workflow fetches documentation from Contentful and updates the repository content, creating a pull request with the changes.
-
-**Trigger Conditions**:
-- Manual trigger (workflow_dispatch)
-
-**Dependencies**:
-- actions/checkout@v3
-  - Function: Checks out the repository code
-- actions/setup-node@v2
-  - Function: Sets up Node.js environment (version 18)
-- peter-evans/create-pull-request@v3
-  - Function: Creates a pull request with the updated documentation
