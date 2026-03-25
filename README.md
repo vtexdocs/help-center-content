@@ -73,7 +73,7 @@ Follow the steps below to insert an image to an article:
     - `{{path}}` by the path where you saved the image
     - `{{image-slug-name}}` by the image slug name
 
-Example: `![Instalação B2B Suite - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs\pt\tutorials\b2b\b2b-suite\visão-geral\b2b-suite-visao-geral_1.gif)`.
+Example: `![Instalação B2B Suite - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs\pt\tutorials\b2b\b2b-suite\visão-geral\b2b-suite-visao-geral_1.gif)`.
 
    >⚠️ After localization completes the translations, you must repeat this same process in the respective article folders for the EN and ES versions, modifying the information according to the specific language.
 
