@@ -27,11 +27,20 @@ Para definir as configurações de logística aplicadas a essa política comerci
 
 Para utilizar o mesmo catálogo em mais de uma política comercial, acesse a documentação [Associate Product with Trade Policy](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/salespolicy/-tradepolicyId-).
 
-## Contratar uma políica comercial
+## Adicionar uma política comercial
 
-Para [contratar políticas comerciais adicionais](/pt/docs/tutorials/contratacao-de-politica-comercial-adicional), basta solicitar via [suporte VTEX](https://supporticket.vtex.com/support) selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`. Ao solicitar a criação de uma política comercial via ticket, considere um tempo de resposta de até três dias úteis.
+Para adicionar uma nova política comercial, acesse o Admin da VTEX. Usuários com o perfil Owner (admin) podem criar novas políticas.
 
-> ℹ️ Para cada política comercial adicional, é cobrado um valor mensal, seja ela utilizada para integração com marketplaces certificados, parceiros, externos ou VTEX.
+Para criar uma nova política comercial:
+
+1. No Admin da VTEX, acesse **Configurações da Loja**.
+2. Clique em políticas comerciais.
+3. Clique em `Nova política comercial`.
+4. Revise as informações exibidas no aviso e confirme para prosseguir.
+5. Preencha as informações necessárias.
+6. Clique em `Salvar`.
+
+> ℹ️ A criação de uma nova política comercial pode gerar custos adicionais, conforme previsto no contrato da sua conta.  Em caso de dúvidas, consulte seu contrato ou entre em contato com o [suporte](https://supporticket.vtex.com/support).
 
 ## Saiba mais
 
