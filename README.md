@@ -123,7 +123,7 @@ The existing values and their context are:
 | **B2B Buyer Portal** | **B2B Buyer Portal** | **B2B Buyer Portal** | B2B Buyer Portal news. |
 | **VTEX Sales App** | **VTEX Sales App** | **VTEX Sales App** | VTEX Sales App news. |
 
-> ℹ️ If you wish to add or remove a filter, you have to manage them in the [helpcenter](https://github.com/vtexdocs/helpcenter) repository.
+> ℹ️ If you wish to add or remove a filter value, you have to manage them in the [helpcenter](https://github.com/vtexdocs/helpcenter) repository.
 
 ### Publishing a new article
 
