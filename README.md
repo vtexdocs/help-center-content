@@ -76,7 +76,7 @@ In addition to the standard fields for all articles, check the specific fields f
 
 ### Applying filters to an announcement
 
-The [Announcements](https://help.vtex.com/announcements) page allows users to filter announcements by **Type** and/or **Area**. This is made by adding the applicable filtering values to the announcement [front matter](#filling-in-front-matter-information), in the `tags` field.
+The [Announcements](https://help.vtex.com/announcements) page allows users to filter announcements by **Type** and **Area**. This is made by adding the applicable filtering values to the announcement [front matter](#filling-in-front-matter-information), in the `tags` field.
 
 #### Type filters
 
