@@ -79,20 +79,22 @@ The [Announcements](https://help.vtex.com/announcements) page allows users to fi
 
 ## **Type** filters
 
-| Badge (Aparece na UI) |  |  | Description (Não aparece na UI, controle interno) |
-| ----- | ----- | ----- | ----- |
-| **EN** | **PT** | **ES** | Locale |
-| **New feature** | **Nova funcionalidade** | **Nueva funcionalidad** | New functionality, modules, or capabilities. |
-| **Improvement** | **Melhoria** | **Mejora** | Enhancements, optimizations, UX improvements. |
-| **Breaking change** | **Breaking change** | **Cambio disruptivo** | Platform behavior modifications requiring action. |
-| **Deprecation** | **Descontinuação** | **Descontinuación** | Discontinued features and products. |
-| **Security update** | **Atualização de segurança** | **Actualización de seguridad** | Security updates, compliance, vulnerability fixes. |
+These filters are displayed in the UI in the announcements card, right above the title. Each announcement must have a unique Type filter, the existing values are:
+
+| **Type** |  |  | Description (Não aparece na UI, controle interno) |
+| :--- | :--- | :--- | :--- |
+| EN | PT | ES | Locale |
+| `New feature` | `Nova funcionalidade` | `Nueva funcionalidad` | New functionality, modules, or capabilities. |
+| `Improvement` | `Melhoria` | `Mejora` | Enhancements, optimizations, UX improvements. |
+| `Breaking change` | `Breaking change` | `Cambio disruptivo` | Platform behavior modifications requiring action. |
+| `Deprecation` | `Descontinuação` | `Descontinuación` | Discontinued features and products. |
+| `Security update` | `Atualização de segurança` | `Actualización de seguridad` | Security updates, compliance, vulnerability fixes. |
 
 ## **Filter tags (20 options)**
 
 | Filter tag (aparece na UI) |  |  | Description (Não aparece na UI, controle interno) |
-| ----- | :---- | :---- | ----- |
-| **EN** | **PT** | **ES** |  |
+| :--- | :--- | :--- | :--- |
+| EN | PT | ES |  |
 | **Admin** | **Admin** | **Admin** | VTEX Admin |
 | **Checkout** | **Checkout** | **Checkout** | Validation, reCAPTCHA, cart functionality |
 | **Catalog** | **Catálogo** | **Catálogo** | Products, categories, SKUs, specifications |
