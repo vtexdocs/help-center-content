@@ -4,8 +4,8 @@
       "documentation": "announcements",
       "name": {
         "en": "Announcements",
-        "es": "Comunicados",
-        "pt": "Comunicados"
+        "es": "Anuncios",
+        "pt": "Anúncios"
       },
       "slugPrefix": "announcements",
       "categories": [
@@ -7685,8 +7685,8 @@
       "documentation": "faq",
       "name": {
         "en": "FAQ",
-        "es": "Preguntas frecuentes",
-        "pt": "Perguntas frequentes"
+        "es": "FAQ",
+        "pt": "FAQ"
       },
       "slugPrefix": "faq",
       "categories": [
@@ -9580,7 +9580,7 @@
       "documentation": "tracks",
       "name": {
         "en": "Start here",
-        "es": "Comienza aquí",
+        "es": "Comece aqui",
         "pt": "Comece aqui"
       },
       "slugPrefix": "docs/tracks",
@@ -15379,8 +15379,8 @@
       "documentation": "troubleshooting",
       "name": {
         "en": "Troubleshooting",
-        "es": "Problemas conocidos",
-        "pt": "Problemas conhecidos"
+        "es": "Troubleshooting",
+        "pt": "Troubleshooting"
       },
       "slugPrefix": "troubleshooting",
       "categories": [
