@@ -103,25 +103,25 @@ The existing values and their context are:
 | :--- | :--- | :--- | :--- |
 | EN | PT | ES | Locale |
 | **Admin** | **Admin** | **Admin** | VTEX Admin. |
-| **Checkout** | **Checkout** | **Checkout** | Validation, reCAPTCHA, cart functionality |
-| **Catalog** | **Catálogo** | **Catálogo** | Products, categories, SKUs, specifications |
-| **Payments** | **Pagamentos** | **Pagos** | Gateway, Payment Provider Protocol, payment methods |
-| **Orders** | **Pedidos** | **Pedidos** | Order Management System (OMS), order processing |
-| **Promotions** | **Promoções** | **Promociones** | Discounts, coupons, campaigns, pricing rules |
-| **Prices** | **Preços** | **Precios** | Price tables, fixed prices, computed prices, price rules |
-| **Marketplace** | **Marketplace** | **Marketplace** | Marketplace Network, integration, seller, channels |
-| **Intelligent Search** | **Intelligent Search** | **Intelligent Search** | Search functionality, merchandising rules |
-| **Storefront** | **Storefront** | **Storefront** | Store Framework, FastStore, Site Editor, CMS Portal (Legacy) |
-| **Master Data** | **Master Data** | **Master Data** | Data entities, triggers, customer data |
-| **Audit** | **Audit** | **Audit** | Audit |
-| **Identity** | **Identity** | **Identity** | License Manager, permissions, authentication |
-| **Logistics** | **Logística** | **Logística** | Shipping, inventory, fulfillment |
-| **B2B** | **B2B** | **B2B** | B2B Suit, buyer organizations, cost centers |
-| **Integrations** | **Integrações** | **Integraciones** | Third-party connectors |
-| **VTEX Shield** | **VTEX Shield** | **VTEX Shield** | VTEX Shield news |
-| **VTEX Ads** | **VTEX Ads** | **VTEX Ads** | VTEX Ads news |
-| **B2B Buyer Portal** | **B2B Buyer Portal** | **B2B Buyer Portal** | B2B Buyer Portal news |
-| **VTEX Sales App** | **VTEX Sales App** | **VTEX Sales App** | VTEX Sales App news |
+| **Checkout** | **Checkout** | **Checkout** | Validation, reCAPTCHA, cart functionality. |
+| **Catalog** | **Catálogo** | **Catálogo** | Products, categories, SKUs, specifications. |
+| **Payments** | **Pagamentos** | **Pagos** | Gateway, Payment Provider Protocol, payment methods. |
+| **Orders** | **Pedidos** | **Pedidos** | Order Management System (OMS), order processing. |
+| **Promotions** | **Promoções** | **Promociones** | Discounts, coupons, campaigns, pricing rules. |
+| **Prices** | **Preços** | **Precios** | Price tables, fixed prices, computed prices, price rules. |
+| **Marketplace** | **Marketplace** | **Marketplace** | Marketplace Network, integration, seller, channels. |
+| **Intelligent Search** | **Intelligent Search** | **Intelligent Search** | Search functionality, merchandising rules. |
+| **Storefront** | **Storefront** | **Storefront** | Store Framework, FastStore, Site Editor, CMS Portal (Legacy). |
+| **Master Data** | **Master Data** | **Master Data** | Data entities, triggers, customer data. |
+| **Audit** | **Audit** | **Audit** | Audit. |
+| **Identity** | **Identity** | **Identity** | License Manager, permissions, authentication. |
+| **Logistics** | **Logística** | **Logística** | Shipping, inventory, fulfillment. |
+| **B2B** | **B2B** | **B2B** | B2B Suit, buyer organizations, cost centers. |
+| **Integrations** | **Integrações** | **Integraciones** | Third-party connectors. |
+| **VTEX Shield** | **VTEX Shield** | **VTEX Shield** | VTEX Shield news. |
+| **VTEX Ads** | **VTEX Ads** | **VTEX Ads** | VTEX Ads news. |
+| **B2B Buyer Portal** | **B2B Buyer Portal** | **B2B Buyer Portal** | B2B Buyer Portal news. |
+| **VTEX Sales App** | **VTEX Sales App** | **VTEX Sales App** | VTEX Sales App news. |
 
 > ℹ️ If you wish to add or remove a filter, you have to manage them in the [helpcenter](https://github.com/vtexdocs/helpcenter) repository.
 
