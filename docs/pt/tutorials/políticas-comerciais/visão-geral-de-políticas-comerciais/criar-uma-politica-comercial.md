@@ -32,7 +32,7 @@ Para adicionar uma nova política comercial, acesse o Admin da VTEX. Usuários c
 Para criar uma nova política comercial:
 
 1. No Admin da VTEX, acesse **Configurações da Loja**.
-2. Clique em políticas comerciais.
+2. Clique em Políticas comerciais.
 3. Clique em `Nova política comercial`.
 4. Revise as informações exibidas no aviso e confirme para prosseguir.
 5. Preencha os campos da política comercial:
