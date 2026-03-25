@@ -61,6 +61,7 @@ In addition to the standard fields for all articles, check the specific fields f
 
 - **announcementSynopsisEN:** Announcement Synopsis information with single quotes. The name of this parameter varies according to the language of the article, for the Portuguese version it must be used `announcementSynopsisPT`, and for the Spanish version use `announcementSynopsisES`.
 - **author:** Technical writer ID in Contentful.
+- **tags**: filters tags of the announcement type (e.g. `New feature`, `Breaking change`) and area(s) (e.g. `Orders`, `Promotions`, `Storefront`, etc). For more information see the section [Applying filters to an announcement](#applying-filters-to-an-announcement).
 
 #### Track fields
 
