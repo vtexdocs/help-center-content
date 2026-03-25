@@ -1,5 +1,5 @@
 ---
-title: "Configurar pago en efectivo por VTEX Sales App"
+title: 'Configurar pago en efectivo por VTEX Sales App'
 id: 4ye3bIWldaHJxGTgAziBZo
 status: PUBLISHED
 createdAt: 2020-06-28T16:04:36.122Z
