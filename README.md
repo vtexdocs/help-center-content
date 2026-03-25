@@ -36,10 +36,40 @@ You will find the following folders in this repository:
 
 In this document we will address the following topics related to the Help Center Portal:
 
+- [Filling in front matter information](#filling-in-front-matter-information)
 - [Publishing new articles](#publishing-a-new-article)
 - [Updating published articles](#updating-a-published-article)
 - [Creating redirects](#creating-a-redirect)
 - [Settings for specific content](#settings-for-specific-content)
+
+### Filling in front matter information
+
+The front matter is the table with metadata about the article you are creating. It contains the following fields:
+
+- **title:** Article title with single quotes. E.g. 'Adding SKU specifications or fields'
+- **createdAt:** Creation date (UTC) and time in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
+- **updatedAt:** Update date (UTC) in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
+- **contentType:** Content type (e.g., `tutorial`, `updates`, `trackArticle`, `frequentlyAskedQuestion`, `knownIssue`).
+- **productTeam:** Name of the module to which the article is related.
+- **slugEN:** Article reference slug in the English version. This field must always be filled in with the same value (slug in EN), even in PT and ES version files. This is required for proper locale switching on Help Center.
+- **locale:** Article language (`pt`, `en`, or `es`).
+- **hidden**: (Optional) Identifies whether the article should remain hidden and be accessed only through its link (`true` or `false`).
+
+In addition to the standard fields for all articles, check the specific fields for each type of article below:
+
+#### Announcements fields
+
+- **announcementSynopsisEN:** Announcement Synopsis information with single quotes. The name of this parameter varies according to the language of the article, for the Portuguese version it must be used `announcementSynopsisPT`, and for the Spanish version use `announcementSynopsisES`.
+- **author:** Technical writer ID in Contentful.
+
+#### Track fields
+
+- **trackId**: Track article identification.
+- **trackSlugEN**: Track slug identification.
+
+#### Troubleshooting fields
+
+- **tags**: Troubleshooting tag information. This field must be filled in with keywords related to the problem, separated by a comma, the first letter in capital letters, and in the same location as the article (e.g. Catalog, Index, Product, SKU, Trade policy).
 
 ### Publishing a new article
 
@@ -116,35 +146,6 @@ If you wish to provide a downloadable file directly within your article (such a 
 ![Main branch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/readme-images/readme-download-illustration-5.png)
 
 8. Submit your PR for review.
-
-#### Filling in front matter information
-
-The front matter is the table with metadata about the article you are creating. It contains the following fields:
-
-- **title:** Article title with single quotes. E.g. 'Adding SKU specifications or fields'
-- **createdAt:** Creation date (UTC) and time in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
-- **updatedAt:** Update date (UTC) in this format `{YYYY}-{MM}-{DD}T{HH}:{MM}:{SS}.{mmm}Z`.
-- **contentType:** Content type (e.g., `tutorial`, `updates`, `trackArticle`, `frequentlyAskedQuestion`, `knownIssue`).
-- **productTeam:** Name of the module to which the article is related.
-- **slugEN:** Article reference slug in the English version. This field must always be filled in with the same value (slug in EN), even in PT and ES version files. This is required for proper locale switching on Help Center.
-- **locale:** Article language (`pt`, `en`, or `es`).
-- **hidden**: (Optional) Identifies whether the article should remain hidden and be accessed only through its link (`true` or `false`).
-
-In addition to the standard fields for all articles, check the specific fields for each type of article below:
-
-##### Announcements fields
-
-- **announcementSynopsisEN:** Announcement Synopsis information with single quotes. The name of this parameter varies according to the language of the article, for the Portuguese version it must be used `announcementSynopsisPT`, and for the Spanish version use `announcementSynopsisES`.
-- **author:** Technical writer ID in Contentful.
-
-##### Track fields
-
-- **trackId**: Track article identification.
-- **trackSlugEN**: Track slug identification.
-
-##### Troubleshooting fields
-
-- **tags**: Troubleshooting tag information. This field must be filled in with keywords related to the problem, separated by a comma, the first letter in capital letters, and in the same location as the article (e.g. Catalog, Index, Product, SKU, Trade policy).
 
 ### Updating a published article
 
