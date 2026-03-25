@@ -80,7 +80,9 @@ The [Announcements](https://help.vtex.com/announcements) page allows users to fi
 
 #### Type filters
 
-These filters are displayed in the UI in the announcements card, right above the title. Each announcement must have a unique Type filter, and the existing values and their context are:
+These filters are displayed in the UI in the announcements card, above the title. Each announcement must have one Type filter.
+
+The existing values and their context are:
 
 | Type filter |  |  | Description |
 | :--- | :--- | :--- | :--- |
@@ -93,7 +95,9 @@ These filters are displayed in the UI in the announcements card, right above the
 
 #### Area filters
 
-These filters don't appear in the UI, each announcement should have at least one Area filter, and you can add as many as you seem fit. The existing values and their context are:
+These filters don't appear in the UI. Each announcement should have at least one Area filter, you can add as many as you need.
+
+The existing values and their context are:
 
 | Area filter |  |  | Description |
 | :--- | :--- | :--- | :--- |
