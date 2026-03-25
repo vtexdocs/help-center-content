@@ -61,7 +61,9 @@ Follow the steps below to create a new article in the Help Center:
 
 #### Adding images
 
-Follow the steps below to insert an image to an article:
+In some situations, it may be necessary to insert images, GIFs, or videos into an article to help the user understand complex procedures.
+
+To insert an image to an article follow the steps below:
 
 1. Access the folder where the article is located within the repository.
 2. Save the image (respecting the [maximum image size](#maximum-image-size)) inside this folder, naming it according to the markdown file name and slug. For instance, if the article file name and slug is "how-to-create-a-catalog-category", the image should be saved as `how-to-create-a-catalog-category_1.png`.
@@ -78,8 +80,6 @@ Example: `![Instalação B2B Suite - PT](https://cdn.statically.io/gh/vtexdocs/h
    > ⚠️ After localization completes the translations, you must repeat this same process in the respective article folders for the EN and ES versions, modifying the information according to the specific language.
 
 ##### Maximum image size
-
-In some situations, it may be necessary to insert images, GIFs, or videos into an article to help the user understand complex procedures.
 
 To ensure efficient page load times and adhere to [GitHub space storage best practices](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github), we set a maximum file size limit of **50 MB**.
 
