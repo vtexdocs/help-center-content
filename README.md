@@ -101,8 +101,8 @@ The existing values and their context are:
 
 | Area filter |  |  | Description |
 | :--- | :--- | :--- | :--- |
-| EN | PT | ES |  |
-| **Admin** | **Admin** | **Admin** | VTEX Admin |
+| EN | PT | ES | Locale |
+| **Admin** | **Admin** | **Admin** | VTEX Admin. |
 | **Checkout** | **Checkout** | **Checkout** | Validation, reCAPTCHA, cart functionality |
 | **Catalog** | **Catálogo** | **Catálogo** | Products, categories, SKUs, specifications |
 | **Payments** | **Pagamentos** | **Pagos** | Gateway, Payment Provider Protocol, payment methods |
