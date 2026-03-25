@@ -6,10 +6,11 @@ Welcome to the [VTEX Help Center](https://help.vtex.com/) content repository!
 
 - [In this repository](#in-this-repository)
 - [Managing Help Center documentation](#managing-help-center-documentation)
+  - [Filling in front matter information](#filling-in-front-matter-information)
+  - [Applying filters to an announcement](#applying-filters-to-an-announcement)
   - [Publishing a new article](#publishing-a-new-article)
     - [Adding images](#adding-images)
     - [Adding a download file to the article](#adding-a-download-file-to-the-article)
-    - [Filling in front matter information](#filling-in-front-matter-information)
   - [Updating a published article](#updating-a-published-article)
   - [Creating a redirect](#creating-a-redirect)
   - [Settings for specific content](#settings-for-specific-content)
