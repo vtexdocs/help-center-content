@@ -137,12 +137,6 @@ In addition to the standard fields for all articles, check the specific fields f
 - **announcementSynopsisEN:** Announcement Synopsis information with single quotes. The name of this parameter varies according to the language of the article, for the Portuguese version it must be used `announcementSynopsisPT`, and for the Spanish version use `announcementSynopsisES`.
 - **author:** Technical writer ID in Contentful.
 
-##### Known issue fields
-
-- **tag**: Name of the module to which the known issue is related (e.g., `B2B`, `Catalog`, `Identity`, etc).
-- **kiStatus**: Known issue status (e.g., `Backlog`,`Fixed`, `No Fix`, `Open`).
-- **internalReference**: Known issue Zendesk ID.
-
 ##### Track fields
 
 - **trackId**: Track article identification.
