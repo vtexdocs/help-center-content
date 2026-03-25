@@ -50,13 +50,13 @@ Follow the steps below to create a new article in the Help Center:
     > ⚠️ Make sure the file name (slug) is unique and an exact copy of the article slug.
 
 3. [Add images](#adding-images) to the article, if necessary.
-3. Fill in the [front matter](#filling-in-front-matter-information) of the article.
-4. Submit your PR for review on GitHub.
-5. Send the PR link in the `#education-prs` Slack channel for review by another technical writer.
-6. After review, register the PR link in the `Document Link` field of the JIRA task and request the translation of the content, moving the card status to `Translating`.
-7. Once the translations are complete, check the contents of the two files created by the localization team in the folders corresponding to each locale (EN and ES) of the repository. If the article in the PT version contains images, repeat this [procedure](#adding-an-image-to-the-article) to insert them into the EN and ES versions.
-8. Approve the PR and apply the merge to publish the article.
-9. Follow the [instructions](#https://github.com/vtexdocs/helpcenter/blob/main/README.md#navigation-sidebar) available in the [README](https://github.com/vtexdocs/helpcenter/blob/main/README.md) file of the `help-center` repository to update the portal navigation sidebar, adding the link for the newly published article.
+4. Fill in the [front matter](#filling-in-front-matter-information) of the article.
+5. Submit your PR for review on GitHub.
+6. Send the PR link in the `#education-prs` Slack channel for review by another technical writer.
+7. After review, register the PR link in the `Document Link` field of the JIRA task and request the translation of the content, moving the card status to `Translating`.
+8. Once the translations are complete, check the contents of the two files created by the localization team in the folders corresponding to each locale (EN and ES) of the repository. If the article in the PT version contains images, repeat this [procedure](#adding-an-image-to-the-article) to insert them into the EN and ES versions.
+9. Approve the PR and apply the merge to publish the article.
+10. Follow the [instructions](#https://github.com/vtexdocs/helpcenter/blob/main/README.md#navigation-sidebar) available in the [README](https://github.com/vtexdocs/helpcenter/blob/main/README.md) file of the `help-center` repository to update the portal navigation sidebar, adding the link for the newly published article.
 
     >ℹ️ The [help-center-content](https://github.com/vtexdocs/help-center-content) repository only stores our documentation, it is not automatically synched to be rendered in the Help Center - yet. For now, when a new content is added to it, it is just included in the desired folder. For it to appear in the Help Center Portal, our Tech Writing team leaders must run the portal's build.
 
