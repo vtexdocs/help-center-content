@@ -19,7 +19,7 @@ subcategoryId: 6J3wx7KM4oysymsWuUACyY
 
 ## Gerenciar políticas comerciais
 
-A seção Políticas Comerciais do seu admin apresenta uma tabela com todas as políticas comerciais já cadastradas. Também é possível filtrar os resultados, fazer uma busca por palavra chave, e ordenar na tabela as políticas comerciais já cadastradas. O ID da política comercial é determinado automaticamente pelo sistema, a partir da ordem cronológica de criação de novas políticas.
+A seção Políticas Comerciais do seu Admin apresenta uma tabela com todas as políticas comerciais já cadastradas. Também é possível filtrar os resultados, fazer uma busca por palavra-chave e ordenar na tabela as políticas comerciais já cadastradas. O ID da política comercial é determinado automaticamente pelo sistema, a partir da ordem cronológica de criação de novas políticas.
 
 Para definir as configurações de logística aplicadas a essa política comercial, é preciso [criar ou editar uma doca](/pt/docs/tutorials/gerenciar-doca), relacionada às transportadoras desejadas, inserindo o ID da política comercial no formulário de cadastro.
 
