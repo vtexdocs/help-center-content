@@ -37,6 +37,7 @@ You will find the following folders in this repository:
 In this document we will address the following topics related to the Help Center Portal:
 
 - [Filling in front matter information](#filling-in-front-matter-information)
+- [Applying filters to an announcement](#applying-filters-to-an-announcement)
 - [Publishing new articles](#publishing-a-new-article)
 - [Updating published articles](#updating-a-published-article)
 - [Creating redirects](#creating-a-redirect)
@@ -71,6 +72,9 @@ In addition to the standard fields for all articles, check the specific fields f
 #### Troubleshooting fields
 
 - **tags**: Troubleshooting tag information. This field must be filled in with keywords related to the problem, separated by a comma, the first letter in capital letters, and in the same location as the article (e.g. Catalog, Index, Product, SKU, Trade policy).
+
+### Applying filters to an announcement
+
 
 ### Publishing a new article
 
