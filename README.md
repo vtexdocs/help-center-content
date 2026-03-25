@@ -75,13 +75,15 @@ In addition to the standard fields for all articles, check the specific fields f
 
 ### Applying filters to an announcement
 
-The [Announcements](https://help.vtex.com/announcements) page allows users to filter announcements by **Type** and **Area**. To apply filters to an announcement, follow the steps below:
+The [Announcements](https://help.vtex.com/announcements) page allows users to filter announcements by **Type** and/or **Area**. This is made by adding the applicable filtering values to the announcement [front matter](#filling-in-front-matter-information), in the `tags` field.
 
-## **Type** filters
+There are two kinds of filters: Type and Area.
+
+#### Type filters
 
 These filters are displayed in the UI in the announcements card, right above the title. Each announcement must have a unique Type filter, the existing values are:
 
-| **Type** |  |  | Description (Não aparece na UI, controle interno) |
+| Type filter |  |  | Description |
 | :--- | :--- | :--- | :--- |
 | EN | PT | ES | Locale |
 | `New feature` | `Nova funcionalidade` | `Nueva funcionalidad` | New functionality, modules, or capabilities. |
@@ -90,9 +92,11 @@ These filters are displayed in the UI in the announcements card, right above the
 | `Deprecation` | `Descontinuação` | `Descontinuación` | Discontinued features and products. |
 | `Security update` | `Atualização de segurança` | `Actualización de seguridad` | Security updates, compliance, vulnerability fixes. |
 
-## **Filter tags (20 options)**
+#### Area filters
 
-| Filter tag (aparece na UI) |  |  | Description (Não aparece na UI, controle interno) |
+These filters don't appear in the UI 
+
+| Area filter |  |  | Description (Não aparece na UI, controle interno) |
 | :--- | :--- | :--- | :--- |
 | EN | PT | ES |  |
 | **Admin** | **Admin** | **Admin** | VTEX Admin |
