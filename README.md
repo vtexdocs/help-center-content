@@ -78,8 +78,6 @@ In addition to the standard fields for all articles, check the specific fields f
 
 The [Announcements](https://help.vtex.com/announcements) page allows users to filter announcements by **Type** and/or **Area**. This is made by adding the applicable filtering values to the announcement [front matter](#filling-in-front-matter-information), in the `tags` field.
 
-There are two kinds of filters: Type and Area.
-
 #### Type filters
 
 These filters are displayed in the UI in the announcements card, right above the title. Each announcement must have a unique Type filter, and the existing values and their context are:
