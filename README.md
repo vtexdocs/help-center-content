@@ -68,7 +68,7 @@ Follow the steps below to insert an image to an article:
 
     > ℹ️ If the article has more than one image, they must be named in numerical sequence. For instance, `how-to-create-a-catalog-category_1.png`, `how-to-create-a-catalog-category_2.png`.
 
-3. Open the article and add `![{{Image name}}](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/{{locale}}/{{path}}/{{image-slug-name}})`, replacing:
+3. Open the article and add `![{{Image name}}](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/{{locale}}/{{path}}/{{image-slug-name}})`, replacing:
     - `{{Image name}}` by an image identification name of your choice
     - `{{path}}` by the path where you saved the image
     - `{{image-slug-name}}` by the image slug name
