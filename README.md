@@ -75,6 +75,44 @@ In addition to the standard fields for all articles, check the specific fields f
 
 ### Applying filters to an announcement
 
+The [Announcements](https://help.vtex.com/announcements) page allows users to filter announcements by **Type** and **Area**. To apply filters to an announcement, follow the steps below:
+
+## **Type** filters
+
+| Badge (Aparece na UI) |  |  | Description (Não aparece na UI, controle interno) |
+| ----- | ----- | ----- | ----- |
+| **EN** | **PT** | **ES** | Locale |
+| **New feature** | **Nova funcionalidade** | **Nueva funcionalidad** | New functionality, modules, or capabilities. |
+| **Improvement** | **Melhoria** | **Mejora** | Enhancements, optimizations, UX improvements. |
+| **Breaking change** | **Breaking change** | **Cambio disruptivo** | Platform behavior modifications requiring action. |
+| **Deprecation** | **Descontinuação** | **Descontinuación** | Discontinued features and products. |
+| **Security update** | **Atualização de segurança** | **Actualización de seguridad** | Security updates, compliance, vulnerability fixes. |
+
+## **Filter tags (20 options)**
+
+| Filter tag (aparece na UI) |  |  | Description (Não aparece na UI, controle interno) |
+| ----- | :---- | :---- | ----- |
+| **EN** | **PT** | **ES** |  |
+| **Admin** | **Admin** | **Admin** | VTEX Admin |
+| **Checkout** | **Checkout** | **Checkout** | Validation, reCAPTCHA, cart functionality |
+| **Catalog** | **Catálogo** | **Catálogo** | Products, categories, SKUs, specifications |
+| **Payments** | **Pagamentos** | **Pagos** | Gateway, Payment Provider Protocol, payment methods |
+| **Orders** | **Pedidos** | **Pedidos** | Order Management System (OMS), order processing |
+| **Promotions** | **Promoções** | **Promociones** | Discounts, coupons, campaigns, pricing rules |
+| **Prices** | **Preços** | **Precios** | Price tables, fixed prices, computed prices, price rules |
+| **Marketplace** | **Marketplace** | **Marketplace** | Marketplace Network, integration, seller, channels |
+| **Intelligent Search** | **Intelligent Search** | **Intelligent Search** | Search functionality, merchandising rules |
+| **Storefront** | **Storefront** | **Storefront** | Store Framework, FastStore, Site Editor, CMS Portal (Legacy) |
+| **Master Data** | **Master Data** | **Master Data** | Data entities, triggers, customer data |
+| **Audit** | **Audit** | **Audit** | Audit |
+| **Identity** | **Identity** | **Identity** | License Manager, permissions, authentication |
+| **Logistics** | **Logística** | **Logística** | Shipping, inventory, fulfillment |
+| **B2B** | **B2B** | **B2B** | B2B Suit, buyer organizations, cost centers |
+| **Integrations** | **Integrações** | **Integraciones** | Third-party connectors |
+| **VTEX Shield** | **VTEX Shield** | **VTEX Shield** | VTEX Shield news |
+| **VTEX Ads** | **VTEX Ads** | **VTEX Ads** | VTEX Ads news |
+| **B2B Buyer Portal** | **B2B Buyer Portal** | **B2B Buyer Portal** | B2B Buyer Portal news |
+| **VTEX Sales App** | **VTEX Sales App** | **VTEX Sales App** | VTEX Sales App news |
 
 ### Publishing a new article
 
