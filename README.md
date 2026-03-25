@@ -75,7 +75,7 @@ Follow the steps below to insert an image to an article:
 
 Example: `![Instalação B2B Suite - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs\pt\tutorials\b2b\b2b-suite\visao-geral\b2b-suite-visao-geral_1.gif)`.
 
-   >⚠️ After localization completes the translations, you must repeat this same process in the respective article folders for the EN and ES versions, modifying the information according to the specific language.
+   > ⚠️ After localization completes the translations, you must repeat this same process in the respective article folders for the EN and ES versions, modifying the information according to the specific language.
 
 ##### Maximum image size
 
