@@ -22,6 +22,7 @@ Welcome to the [VTEX Help Center](https://help.vtex.com/) content repository!
 
 You will find the following folders in this repository:
 
+- **.github/workflows**: Workflows needed to migrate content from Contentful to this repository.
 - **docs-utils**: Scripts used to perform adjustments to documentation imported from Contentful.
 - **docs**: Documentation files. Contains subfolders corresponding to each locale (PT, EN, and ES), and within each of them, the following categories:
 
@@ -50,7 +51,7 @@ Follow the steps below to create a new article in the Help Center:
 2. Add a new file in the [desired folder](#in-this-repository), and write the content of the article according to the [Template --> TBD](https://github.com/vtexdocs/dev-portal-content/blob/main/templates/guide_template.md).
     > ⚠️ Make sure the file name (slug) is unique and an exact copy of the article slug.
 
-3. [Add images](#adding-an-image-to-the-article) to the article, if necessary.
+3. [Add images](#adding-images) to the article, if necessary.
 3. Fill in the [front matter](#filling-in-front-matter-information) of the article.
 4. Submit your PR for review on GitHub.
 5. Send the PR link in the `#dev-portal-pr` Slack channel for review by another technical writer.
