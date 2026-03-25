@@ -123,6 +123,52 @@ The existing values and their context are:
 
 > ℹ️ If you wish to add or remove a filter value, you have to manage them in the [helpcenter](https://github.com/vtexdocs/helpcenter) repository.
 
+##### Example of filters in the front matter
+
+See below an example of filters applied to an announcement front matter for each locale:
+
+English:
+
+```md
+---
+title: 'General availability of new catalog spreadsheet import and export experience'
+(...)
+locale: en
+announcementSynopsisEN: 'The redesigned interface offers export using filters and status tracking.'
+tags:
+  - New feature
+  - Catalog
+---
+```
+
+Portuguese:
+
+```md
+---
+title: 'Nova experiência de importação e exportação de planilhas do Catálogo em disponibilidade global'
+(...)
+locale: pt
+announcementSynopsisPT: 'Interface redesenhada que oferece exportação por filtros e acompanhamento de status.'
+tags:
+  - Nova funcionalidade
+  - Catálogo
+---
+```
+
+Spanish:
+
+```md
+---
+title: 'Nueva experiencia de importación y exportación de plantillas del módulo Catálogo con disponibilidad general'
+(...)
+locale: es
+announcementSynopsisES: 'La interfaz rediseñada ofrece exportación por filtros y seguimiento del status.'
+tags:
+  - Nueva funcionalidad
+  - Catálogo
+---
+```
+
 ### Publishing a new article
 
 Follow the steps below to create a new article in the Help Center:

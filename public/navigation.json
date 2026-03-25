@@ -39209,6 +39209,21 @@
             },
             {
               "name": {
+                "en": "“New user” action disabled in My Organization on public domain",
+                "es": "La acción «Nuevo usuario» está desactivada en «Mi organización» en el dominio público",
+                "pt": "A ação “Novo usuário” está desativada em “Minha organização” no domínio público"
+              },
+              "slug": {
+                "en": "new-user-action-disabled-in-my-organization-on-public-domain",
+                "es": "la-accion-nuevo-usuario-esta-desactivada-en-mi-organizacion-en-el-dominio-publico",
+                "pt": "a-acao-novo-usuario-esta-desativada-em-minha-organizacao-no-dominio-publico"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Addresses are shown in the Checkout when buyer has 'Can add shipping' permission",
                 "es": "Las direcciones se muestran en la caja cuando el comprador tiene permiso para 'Añadir envío'.",
                 "pt": "Os endereços são exibidos no Checkout quando o comprador tem a permissão 'Can add shipping' (Pode adicionar frete)"
