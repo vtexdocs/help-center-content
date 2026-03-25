@@ -84,9 +84,8 @@ These filters are displayed in the UI in the announcements card, above the title
 
 The existing values and their context are:
 
-| Type filter |  |  | Description |
+| Type EN | Tipo PT | Tipo ES | Description |
 | :--- | :--- | :--- | :--- |
-| EN | PT | ES | Locale |
 | `New feature` | `Nova funcionalidade` | `Nueva funcionalidad` | New functionality, modules, or capabilities. |
 | `Improvement` | `Melhoria` | `Mejora` | Enhancements, optimizations, UX improvements. |
 | `Breaking change` | `Breaking change` | `Cambio disruptivo` | Platform behavior modifications requiring action. |
@@ -99,9 +98,8 @@ These filters don't appear in the UI. Each announcement should have at least one
 
 The existing values and their context are:
 
-| Area filter |  |  | Description |
+| Area EN | Área PT | Área ES | Description |
 | :--- | :--- | :--- | :--- |
-| EN | PT | ES | Locale |
 | **Admin** | **Admin** | **Admin** | VTEX Admin. |
 | **Checkout** | **Checkout** | **Checkout** | Validation, reCAPTCHA, cart functionality. |
 | **Catalog** | **Catálogo** | **Catálogo** | Products, categories, SKUs, specifications. |

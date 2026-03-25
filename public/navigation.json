@@ -42840,6 +42840,21 @@
             },
             {
               "name": {
+                "en": "Publish button intermittently unresponsive in Seller Portal product creation/update",
+                "es": "El botón «Publicar» no responde de forma intermitente al crear o actualizar productos en el Portal del vendedor",
+                "pt": "O botão “Publicar” não responde ocasionalmente durante a criação/atualização de produtos no Portal do Vendedor"
+              },
+              "slug": {
+                "en": "publish-button-intermittently-unresponsive-in-seller-portal-product-creationupdate",
+                "es": "el-boton-publicar-no-responde-de-forma-intermitente-al-crear-o-actualizar-productos-en-el-portal-del-vendedor",
+                "pt": "o-botao-publicar-nao-responde-ocasionalmente-durante-a-criacaoatualizacao-de-produtos-no-portal-do-vendedor"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "PUT Brand API does not update \"LinkID\" property",
                 "es": "La API PUT Brand no actualiza la propiedad \"LinkID",
                 "pt": "A API de marca PUT não atualiza a propriedade \"LinkID\""
