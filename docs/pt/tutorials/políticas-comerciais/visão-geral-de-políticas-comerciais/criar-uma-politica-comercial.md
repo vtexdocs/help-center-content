@@ -3,7 +3,7 @@ title: 'Criar uma política comercial'
 id: 563tbcL0TYKEKeOY4IAgAE
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:49.369Z
-updatedAt: 2025-08-27T17:00:49.320Z
+updatedAt: 2026-03-25T17:00:49.320Z
 publishedAt: 2025-08-27T17:00:49.320Z
 firstPublishedAt: 2019-01-24T22:14:00.848Z
 contentType: tutorial
