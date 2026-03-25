@@ -81,7 +81,7 @@ There are two kinds of filters: Type and Area.
 
 #### Type filters
 
-These filters are displayed in the UI in the announcements card, right above the title. Each announcement must have a unique Type filter, the existing values are:
+These filters are displayed in the UI in the announcements card, right above the title. Each announcement must have a unique Type filter, and the existing values and their context are:
 
 | Type filter |  |  | Description |
 | :--- | :--- | :--- | :--- |
@@ -94,9 +94,9 @@ These filters are displayed in the UI in the announcements card, right above the
 
 #### Area filters
 
-These filters don't appear in the UI 
+These filters don't appear in the UI, each announcement should have at least one Area filter, and you can add as many as you seem fit. The existing values and their context are:
 
-| Area filter |  |  | Description (Não aparece na UI, controle interno) |
+| Area filter |  |  | Description |
 | :--- | :--- | :--- | :--- |
 | EN | PT | ES |  |
 | **Admin** | **Admin** | **Admin** | VTEX Admin |
@@ -119,6 +119,8 @@ These filters don't appear in the UI
 | **VTEX Ads** | **VTEX Ads** | **VTEX Ads** | VTEX Ads news |
 | **B2B Buyer Portal** | **B2B Buyer Portal** | **B2B Buyer Portal** | B2B Buyer Portal news |
 | **VTEX Sales App** | **VTEX Sales App** | **VTEX Sales App** | VTEX Sales App news |
+
+> ℹ️ If you wish to add or remove a filter, you have to manage them in the [helpcenter](https://github.com/vtexdocs/helpcenter) repository.
 
 ### Publishing a new article
 
