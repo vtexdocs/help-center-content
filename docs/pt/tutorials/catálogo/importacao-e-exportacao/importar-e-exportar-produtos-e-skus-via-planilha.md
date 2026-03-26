@@ -1,7 +1,7 @@
 ---
 title: 'Importar e exportar produtos e SKUs via planilha'
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2026-03-09T22:58:33.129Z
+updatedAt: 2026-03-26T22:58:33.129Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: importing-and-exporting-products-and-skus-using-a-spreadsheet
@@ -101,6 +101,7 @@ A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campo
 | Políticas comerciais | Número único identificador da [política comercial](/pt/docs/tutorials/criar-uma-politica-comercial). Essa informação pode ser encontrada no Admin VTEX, em **Configurações de loja > Políticas comerciais**. Para múltiplas políticas comerciais, separe os números por vírgula sem usar espaço. | 1,2,7 |
 | ID Categoria global | Código identificador da [categoria global do produto](/pt/docs/tutorials/configurando-a-categoria-global), ou seja, a taxonomia criada pelo Google para o [Merchant Center](https://support.google.com/merchants/answer/6324436?hl=pt-BR), que fica pré-definida como uma árvore única na plataforma VTEX. Este campo é importante para questões de [SEO](/pt/docs/tutorials/melhorando-o-seo-das-paginas-de-lista-de-produtos). | 166 |
 | Categoria global | Nome da [categoria global](/pt/docs/tutorials/configurando-a-categoria-global). | Vestuário e acessórios |
+| URL do produto | Corresponde ao trecho final (slug) da URL da página de detalhes do produto (PDP). | corebiz-camiseta |
 | Título da página | Nome escolhido para aparecer tanto na página de detalhes do produto (PDP) quanto na aba do navegador. Este campo é especialmente importante para SEO. O limite são 150 caracteres. | Corebiz camiseta azul gola redonda |
 | Meta descrição | Breve descrição do produto, preferencialmente usando menos de 160 caracteres. Isso permite que os mecanismos de busca possam apresentar a descrição de forma correta nas páginas de resultados. | Corebiz camiseta azul gola redonda em poliéster e lycra feita com 70% de material reciclado |
 | Mostrar no site* | Se você deseja que o produto esteja visível na vitrine, preencha `sim`. Se prefere que ele fique oculto, preencha com `não`. | sim |

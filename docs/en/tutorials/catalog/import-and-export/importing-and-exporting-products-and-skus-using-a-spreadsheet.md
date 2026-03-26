@@ -1,7 +1,7 @@
 ---
 title: 'Importing and exporting products and SKUs using a spreadsheet'
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2026-03-09T15:30:32.980Z
+updatedAt: 2026-03-26T15:30:32.980Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: importing-and-exporting-products-and-skus-using-a-spreadsheet
@@ -101,6 +101,7 @@ The following table describes and includes an example of each field in the produ
 | Trade policies | Unique identifier number for the [trade policy](/en/docs/tutorials/creating-a-trade-policy). This information can be found in the VTEX Admin, under **Store settings > Trade policies**. For multiple trade policies, separate the numbers with a comma, without using spaces. | 1,2,7 |
 | Global category ID | Identifier code for the product’s [global category](/en/docs/tutorials/setting-up-the-global-category), which is the taxonomy created by Google for the [Merchant Center](https://support.google.com/merchants/answer/6324436?hl=en-US), predefined as a unique tree in the VTEX platform. This field is important for [SEO](/en/docs/tutorials/improving-the-seo-of-product-listing-pages) purposes. | 166 |
 | Global categories | [Global category](/en/docs/tutorials/setting-up-the-global-category) name. | Apparel & Accessories |
+| Product URL | Final part of the URL (slug) of the product details page (PDP). | corebiz-tshirt |
 | Page title | Name that will be displayed both on the product details page (PDP) and in the browser tab. This field is crucial for SEO. The limit is 150 characters. | Corebiz blue round neck t-shirt |
 | Meta description | Brief product description, preferably under 160 characters. This allows search engines to display the description correctly on results pages. | Corebiz blue t-shirt with round neck in polyester and lycra made with 70% recycled material |
 | Show on site* | If you want the product to be visible in the product listing, enter `yes`. If you prefer to hide it, enter `no`. | yes |

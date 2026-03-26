@@ -1,7 +1,7 @@
 ---
 title: 'Importar y exportar productos y SKUs mediante plantilla'
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2026-03-09T15:30:32.980Z
+updatedAt: 2026-03-26T15:30:32.980Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 slugEN: importing-and-exporting-products-and-skus-using-a-spreadsheet
@@ -101,6 +101,7 @@ La siguiente tabla presenta la descripción y el ejemplo de valor de los campos 
 | Políticas comerciales | Número único identificador de la [política comercial](/es/docs/tutorials/crear-una-politica-comercial). Esta información se puede encontrar en el Admin VTEX, en **Configuración de la tienda > Políticas comerciales**. Para incluir varias políticas comerciales, separa los números con coma sin espacios. | 1,2,7 |
 | ID Categoría Global | Código de identificación de la [categoría global](/es/docs/tutorials/configurando-a-categoria-global) del producto, es decir, la taxonomía de Google utilizada en el [Merchant Center](https://support.google.com/merchants/answer/6324436?hl=es-es), predefinida como un árbol único en la plataforma VTEX. Este campo es importante para fines de [SEO](/es/docs/tutorials/mejorar-el-seo-de-las-paginas-de-lista-de-productos). | 166 |
 | Categoría global | Nombre de la [categoría global](/es/docs/tutorials/configurando-a-categoria-global). | Ropa y accesorios |
+| URL del producto | Trecho final de la URL (slug) de la página de detalles del producto (PDP). | camiseta-de-algodon |
 | Título de la página | Nombre que se mostrará tanto en la página de detalles del producto (PDP) como en la pestaña del navegador. Este campo es importante para fines de SEO. No pueden superarse los 150 caracteres. | Camiseta azul cuello redondo |
 | Metadescripción | Breve descripción del producto. Se recomienda usar menos de 160 caracteres. Esto permite que los buscadores presenten la descripción de manera correcta en las páginas de resultados. | Camiseta azul cuello redondo de poliéster y lycra confeccionada con 70% de material reciclado |
 | Mostrar en el sitio web* | Si deseas que el producto sea visible en la vitrina, llena con `sí`. Si prefieres que se mantenga oculto, llena con `no`. | sí |
