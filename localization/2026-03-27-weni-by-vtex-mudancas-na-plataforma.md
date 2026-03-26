@@ -25,7 +25,7 @@ A estrutura do menu também foi reorganizada. Os itens agora estão agrupados em
 
 Outras seções também mudaram de nome e de posição no menu. A seguir, detalhamos o nome antigo da ferramenta, o nome novo e onde você pode encontrá-la:
 
-| Nome antigo | Nome novo | Onde encontrar |
+| **Nome antigo** | **Nome novo** | **Onde encontrar** |
 | --- | --- | --- |
 | Insights | **Analytics** | Página inicial |
 | Agentes | **Meus agentes** | Dentro da seção Agent Builder |
