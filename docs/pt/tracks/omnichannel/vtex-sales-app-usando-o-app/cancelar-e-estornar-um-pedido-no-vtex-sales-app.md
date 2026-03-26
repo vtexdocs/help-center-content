@@ -24,11 +24,11 @@ Se o pedido tiver sido pago por **Venda direta - Débito ou Crédito** e o clien
 
 Neste caso, o pedido não será cancelado de imediato. A variação de tempo é determinada pelo adquirente e pode levar de 30 minutos a 24 horas.
 
-## Cenário 2: o cliente está na loja 
+## Cenário 2: o cliente está na loja
 
-Já nos casos em que o cliente está na loja quando solicita o cancelamento, é necessário seguir os passos abaixo.
+Já nos casos em que o cliente está na loja quando solicita o cancelamento, é necessário seguir os passos abaixo:
 
-1. No menu do VTEX Sales App, clique em <span id="svg-container"><svg alt="sprite-svg" xmlns="http://www.w3.org/2000/svg" style="width: 0px; height: 0px;"><symbol id="nc-bag-22" viewBox="0 0 16 16"><path fill="currentColor" d="M14 5.8c-.1-.5-.5-.8-1-.8h-1V4c0-2.2-1.8-4-4-4S4 1.8 4 4v1H3c-.5 0-.9.3-1 .8l-2 9c-.1.6.4 1.2 1 1.2h14c.6 0 1.1-.6 1-1.2l-2-9zM6 4c0-1.1.9-2 2-2s2 .9 2 2v1H6V4z"></path></symbol></svg><svg width="16" height="16" style="fill: rgb(125, 126, 128); color: rgb(125, 126, 128); vertical-align: middle;"><use xlink:href="#nc-bag-22"></use></svg></span> `Últimas vendas`.
+1. No menu do VTEX Sales App, clique em `Últimas vendas`.
 2. Na lista de pedidos, clique na linha do pedido a ser cancelado.
 3. Clique em `Cancelar venda total` para cancelar o pedido completo ou em `Cancelar venda deste pacote` para cancelar apenas os itens de um pacote específico.
 4. Uma vez no modal de confirmação, clique em `Cancelar venda total` ou em `Cancelar venda de pacote` para prosseguir, dependendo da opção selecionada no passo anterior.
