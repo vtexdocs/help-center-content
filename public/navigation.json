@@ -17287,12 +17287,12 @@
               "name": {
                 "en": "Organization Account",
                 "es": "Organization Account",
-                "pt": "Organization Account"
+                "pt": "Conta da Organização"
               },
               "slug": {
                 "en": "organization-account-subcategory",
                 "es": "organization-account-subcategoria-es",
-                "pt": "organization-account-subcategoria-pt"
+                "pt": "conta-da-organizacao-subcategoria-pt"
               },
               "origin": "",
               "type": "category",
@@ -17374,6 +17374,21 @@
                 },
                 {
                   "name": {
+                    "pt": "Conta da Organização",
+                    "en": "Conta da Organização",
+                    "es": "Conta da Organização"
+                  },
+                  "slug": {
+                    "pt": "conta-da-organizacao",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Contract settings",
                     "es": "Configuraciones del contrato",
                     "pt": "Configurações do contrato"
@@ -17389,14 +17404,14 @@
                 },
                 {
                   "name": {
-                    "en": "Organization Account",
-                    "es": "Organization Account",
-                    "pt": "Organization Account"
+                    "en": "Organization account",
+                    "es": "Cuenta de la organización",
+                    "pt": "Organization account"
                   },
                   "slug": {
                     "en": "organization-account",
-                    "es": "organization-account-es",
-                    "pt": "organization-account-pt"
+                    "es": "cuenta-de-la-organizacion",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
