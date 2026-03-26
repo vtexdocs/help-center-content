@@ -38,19 +38,19 @@ Este artigo aborda:
 
 ## Adicionar valor a um campo contábil
 
-1. Acesse a [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account).
-2. Clique sobre o nome do campo customizável desejado.
-3. Na tela do campo customizável, clique no ícone `+` no topo da tela.
-4. No modal exibido, informe o valor a ser atribuído no campo customizável, como número de pedido ou do centro de custo.
+1. Acesse a [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao).
+2. Clique sobre o nome do campo contábil desejado.
+3. Na tela do campo contábil, clique no ícone `+` no topo da tela.
+4. No modal exibido, informe o valor a ser atribuído no campo contábil, como número de pedido ou do centro de custo.
 5. Clique em `Add`.
 
 Feito isso, você verá a mensagem de confirmação que o valor foi criado com sucesso no campo contábil.
 
 ## Editar valor em um campo contábil
 
-1. Acesse a [tela inicial da Organization Account](https://help.vtex.com/pt/docs/tutorials/organization-account-pt#acessando-a-organization-account).
-2. Clique sobre o nome do campo customizável desejado.
-3. Na tela do campo customizável, clique no ícone <i class="fas fa-ellipsis-v"></i> ao lado do valor que deseja editar.
+1. Acesse a [tela inicial da Conta da Organização](https://help.vtex.com/pt/docs/tutorials/conta-da-organizacao#acessando-a-conta-da-organizacao).
+2. Clique sobre o nome do campo contábil desejado.
+3. Na tela do campo contábil, clique no ícone <i class="fas fa-ellipsis-v"></i> ao lado do valor que deseja editar.
 4. Selecione uma das opções abaixo, de acordo com a ação desejada:
 - **Rename:** altera o nome do valor do campo.
 - **Set as default:** define o valor como padrão, para ser pré-preenchido em todos os pedidos em que o campo for aplicável.
