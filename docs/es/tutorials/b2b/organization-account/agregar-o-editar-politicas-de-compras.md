@@ -19,7 +19,7 @@ Este artículo orienta a los usuarios sobre la gestión de las políticas de com
 - Editar políticas de compras
 - Eliminar políticas de compras
 
-> ⚠️ Para configurar las políticas de compras, el rol de [Storefront permissions](https://developers.vtex.com/docs/guides/storefront-permissions) del usuario debe tener el recurso `ManageBuyingPolicies`. Para autorizar pedidos, es necesario el recurso `ApproveOrders`.
+> ⚠️ Para configurar las políticas de compras, el rol de [Storefront Roles](https://developers.vtex.com/docs/guides/storefront-roles) del usuario debe tener el recurso `ManageBuyingPolicies`. Para autorizar pedidos, es necesario el recurso `ApproveOrders`.
 
 ## Agregar políticas de compras
 

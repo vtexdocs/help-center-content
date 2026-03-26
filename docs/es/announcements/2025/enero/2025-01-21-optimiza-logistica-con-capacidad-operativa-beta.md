@@ -13,6 +13,9 @@ locale: es
 legacySlug: optimiza-logistica-con-capacidad-operativa-beta
 announcementImageID: 'undefined'
 announcementSynopsisES: 'El nuevo módulo Capacidad operativa (beta) de VTEX optimiza la logística y distribuye pedidos entre sellers.'
+tags:
+  - Nueva funcionalidad
+  - Logística
 ---
 
 VTEX lanza el nuevo módulo [Capacidad operativa (beta)](/es/docs/tutorials/capacidad-operacional-beta), creado para ayudar a los retailers a gestionar la capacidad de los [sellers](/es/docs/tutorials/que-es-un-seller) para recibir y preparar pedidos. Esta herramienta permite monitorear la distribución de pedidos entre los sellers y realizar ajustes para optimizar el flujo operativo, promoviendo una red logística más eficiente.

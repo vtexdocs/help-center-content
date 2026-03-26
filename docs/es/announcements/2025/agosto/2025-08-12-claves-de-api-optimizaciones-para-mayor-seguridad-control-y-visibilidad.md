@@ -13,6 +13,9 @@ locale: es
 legacySlug: claves-de-api-optimizaciones-para-mayor-seguridad-control-y-visibilidad
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Actualizamos la experiencia de Claves de API con exportación, búsqueda, alertas y enlaces de acceso único.'
+tags:
+  - Actualización de seguridad
+  - Identity
 ---
 
 Para optimizar la gestión de las credenciales de acceso, actualizamos la experiencia de **Claves de API**. Las optimizaciones ya están disponibles para todas las cuentas.

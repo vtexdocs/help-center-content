@@ -23,9 +23,9 @@ To add a user, you must be registered in the store as a member of the buyer orga
 Follow the instructions below to add a user:
 
 1. In the [Organization Account home screen](https://help.vtex.com/en/docs/tutorials/organization-account#accessing-the-organization-account), follow **a** or **b** to access the user creation panel:
-  1. Click the **+** button and then **Add user**,
+  a. Click the **+** button and then **Add user**,
     or
-  2. Click **Users** and then the **+** button.
+  b. Click **Users** and then the **+** button.
 
     ![adding-users-to-buyer-organization_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-buyer-portal/adding-users-to-buyer-organization_2.png)
 

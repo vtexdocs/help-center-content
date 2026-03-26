@@ -15,18 +15,18 @@ locale: en
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-The VTEX Agreement, or Commercial Agreement, consists of two parts: the [MSA (Master Service Agreement)](https://vtex.com/us-en/privacy-and-agreements/agreements/) and the **Appendix 1 Order** Form for the provision of services to companies, or the [MPA (Master Partner Agreement)](https://vtex.com/us-en/privacy-and-agreements/agreements/#:~:text=Master%20Services%20Agreement,Partner%20Agreement) and the **specific Terms and Conditions tailored for the partnership**.
+The VTEX Agreement, or Commercial Agreement, consists of two parts: the [MSA (Master Service Agreement)](https://vtex.com/us-en/trust/agreements) and the **Appendix 1 Order** Form for the provision of services to companies, or the [MPA (Master Partner Agreement)](https://vtex.com/us-en/trust/agreements#:~:text=Master%20Services%20Agreement,Partner%20Agreement) and the **specific Terms and Conditions tailored for the partnership**.
 
 ![VTEX Agreement](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/billing/contracts/vtex-agreement_1.png)
 
-The [Master Service Agreement](https://vtex.com/us-en/privacy-and-agreements/agreements/) and the [Master Partner Agreement](https://vtex.com/us-en/privacy-and-agreements/agreements/#:~:text=Master%20Services%20Agreement,Partner%20Agreement) are the main service and partnership agreements, respectively. They regulate the relationship between VTEX and its customers or partners. Both vary based on the region in which the company or partner is located.
+The [Master Service Agreement](https://vtex.com/us-en/trust/agreements) and the [Master Partner Agreement](https://vtex.com/us-en/trust/agreements#:~:text=Master%20Services%20Agreement,Partner%20Agreement) are the main service and partnership agreements, respectively. They regulate the relationship between VTEX and its customers or partners. Both vary based on the region in which the company or partner is located.
 
 The **Appendix 1 Order Form** and the **partnership-specific Terms and Conditions** establish all the commercial conditions agreed upon for each company or partner under legal contract conditions.
 
 ## Where can I find my agreement with VTEX?
 
-The Master Agreement applicable to you is available under **Privacy Policy > Privacy & Agreements > [Master Services Agreement](https://vtex.com/us-en/privacy-and-agreements/agreements-archive/#:~:text=Master%20Agreements,September%2006%2C%202020%5D)** for clients and **Privacy Policy > Privacy & Agreements > [Partner Agreement](https://vtex.com/br-pt/privacy-and-agreements/agreements-archive/#:~:text=Contratos%20Anteriores,Partner%20Agreement)** for partners, depending on the region and the date on which **Appendix 1** or the **partnership-specific Terms and Conditions** were signed. **Appendix 1** and the **Terms and Conditions** signed with VTEX can be requested directly from the CS of your account via [VTEX Support](/en/support?/cultureInfo=pt-br).
+The Master Agreement applicable to you is available under **Privacy Policy > Privacy & Agreements > [Master Services Agreement](https://vtex.com/us-en/trust/agreements-archive/#:~:text=Master%20Agreements,September%2006%2C%202020%5D)** for clients and **Privacy Policy > Privacy & Agreements > [Partner Agreement](https://vtex.com/br-pt/trust/agreements-archive/#:~:text=Contratos%20Anteriores,Partner%20Agreement)** for partners, depending on the region and the date on which **Appendix 1** or the **partnership-specific Terms and Conditions** were signed. **Appendix 1** and the **Terms and Conditions** signed with VTEX can be requested directly from the CS of your account via [VTEX Support](/en/support?/cultureInfo=pt-br).
 
-You can also find the most updated Master Agreements — the ones applicable to new clients and partners — on the [VTEX Agreement](https://vtex.com/br-pt/privacy-and-agreements/agreements/) page.
+You can also find the most updated Master Agreements — the ones applicable to new clients and partners — on the [VTEX Agreement](https://vtex.com/br-pt/trust/agreements) page.
 
 > ℹ️ If the **MSA, MPA, Appendix 1,** or **partnership-specific Terms and Conditions** signed with VTEX contain any information different from the one described in this documentation, prioritize your document signed with VTEX.

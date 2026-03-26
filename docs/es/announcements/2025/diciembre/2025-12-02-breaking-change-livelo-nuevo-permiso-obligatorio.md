@@ -12,6 +12,9 @@ locale: es
 legacySlug: 
 announcementImageID: 
 announcementSynopsisES: 'Nuevo permiso obligatorio para acceder a la aplicación Livelo en la versión 1.3.1 del conector.'
+tags:
+  - Cambio disruptivo
+  - Integraciones
 ---
 
 > Contenido regional disponible solo para Brasil.

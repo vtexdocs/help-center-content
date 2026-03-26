@@ -15,6 +15,8 @@ locale: en
 subcategoryId: 6jaCCq5pVL7VxL0WNWV0cF
 ---
 
+> ❗ Due to changes in the platform, the page **Catalog > Reports > Indexed Products** is displaying inaccurate data and metrics and should not be used as a reference for indexing. Learn more about this [known issue](https://help.vtex.com/known-issues/catalog-indexing-report-returning-wrong-stats).
+
 > ⚠️ This tutorial is valid only for stores using [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal) search. If your store uses [Intelligent Search](/en/docs/tracks/overview-intelligent-search), check [Indexing History ](/en/docs/tutorials/indexing-history) to follow the indexing process.
 
 Indexing is a process that prepares the general SKU data, such as catalogue data, prices and inventory, and updates the information to serve as a basis for searches and for setting up the site's product display shelves.

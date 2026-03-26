@@ -13,6 +13,10 @@ locale: es
 legacySlug: nuevo-modelo-de-anuncios-en-mercado-libre
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Descubre el modelo de anuncios que permite ofrecer diferentes condiciones de venta para un mismo producto.'
+tags:
+  - Nueva funcionalidad
+  - Marketplace
+  - Integraciones
 ---
 
 El nuevo modelo de anuncios de **Mercado Libre** permite a los sellers configurar diferentes condiciones de venta para cada SKU de un producto. El seller puede personalizar el precio de cada variación.    

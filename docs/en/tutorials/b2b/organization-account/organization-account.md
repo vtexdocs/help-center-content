@@ -14,12 +14,12 @@ The **organization account** is the interface where buyer organization admins ma
 
 It also allows companies to configure elements that control how their users make purchases, including:
 
-- Organization users
-- Organizational units
-- Addresses and payment methods
-- Custom checkout fields
-- Budgets
-- Buying policies
+- Organization users  
+- Organizational units  
+- Addresses and payment methods  
+- Accounting fields  
+- Budgets  
+- Buying Policies  
 
 These settings help companies establish governance and internal rules for purchases made in stores using the **B2B Buyer Portal**.
 
@@ -58,7 +58,7 @@ In this section, you can access:
 - **Payment methods** — Available payment methods.
 - **Credit cards** — Cards added for purchases.
 - **Product assortment** — Product catalog available to the unit.
-- **Custom checkout fields** — [Custom fields](https://help.vtex.com/en/docs/tutorials/campos-customizaveis-do-checkout) configured by the organization. For example, "PO Numbers" or "Cost Centers".
+- **Accounting fields** — [Accounting fields](https://help.vtex.com/en/docs/tutorials/accounting-fields) configured by the organization, such as **PO Numbers** or **Cost Centers.**
 
 ### Organization
 
@@ -105,3 +105,8 @@ Check the articles below for more details on the different tasks you can perform
 - [Adding or editing budgets](https://help.vtex.com/en/docs/tutorials/adicionar-ou-editar-budgets)
 - [Adding or editing buying policies](https://help.vtex.com/en/docs/tutorials/adicionar-ou-editar-buying-policies)
 - [Adding or editing custom checkout fields](https://help.vtex.com/en/docs/tutorials/adicionar-ou-editar-campos-customizaveis)
+
+- [Add users to the buyer organization](https://help.vtex.com/en/docs/tutorials/adding-users-to-buyer-organization)
+- [Add or edit budgets](https://help.vtex.com/docs/tutorials/adding-or-editing-budgets)
+- [Add or edit Buying Policies](https://help.vtex.com/en/docs/tutorials/adding-users-to-buyer-organization)
+- [Add or edit accounting fields](https://help.vtex.com/docs/tutorials/adding-or-editing-accounting-fields)

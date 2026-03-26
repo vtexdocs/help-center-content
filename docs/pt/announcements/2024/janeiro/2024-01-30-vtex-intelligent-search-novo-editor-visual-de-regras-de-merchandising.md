@@ -13,6 +13,9 @@ locale: pt
 legacySlug: vtex-intelligent-search-novo-editor-visual-de-regras-de-merchandising
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Conheça o editor visual de Regras de merchandising no VTEX Intelligent Search.'
+tags:
+  - Nova funcionalidade
+  - Intelligent Search
 ---
 
 [Regras de merchandising](/pt/docs/tutorials/regras-de-merchandising) é a funcionalidade que manipula resultados dentro da busca em lojas que utilizam o [VTEX Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search). Esse recurso possibilita oferecer produtos mais relevantes para o cliente e adicionar ou ocultar produtos pré-selecionados pela busca.

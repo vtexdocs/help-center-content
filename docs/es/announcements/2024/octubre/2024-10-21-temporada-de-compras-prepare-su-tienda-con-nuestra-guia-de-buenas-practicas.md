@@ -13,6 +13,9 @@ locale: es
 legacySlug: temporada-de-compras-prepare-su-tienda-con-nuestra-guia-de-buenas-practicas
 announcementImageID: 'undefined'
 announcementSynopsisES: 'Siga nuestras recomendaciones y consejos para aprovechar todas las oportunidades de venta del Black Friday.'
+tags:
+  - Actualización de seguridad
+  - Admin
 ---
 
 El __Black Friday__ ya está llegando. La fecha oficial este año es __29 de noviembre__, pero muchas tiendas comenzarán a hacer campañas de promoción dentro de poco tiempo. Por eso, para aprovechar al máximo todas las oportunidades de una de las principales fechas del comercio on-line, es bueno empezar pronto a prepararse.

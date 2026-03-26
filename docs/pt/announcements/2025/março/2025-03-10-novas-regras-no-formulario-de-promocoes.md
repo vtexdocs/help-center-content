@@ -13,6 +13,9 @@ locale: pt
 legacySlug: novas-regras-no-formulario-de-promocoes
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'Novas regras no formulário de promoções garantem mais precisão na configuração, reduzindo erros.'
+tags:
+  - Melhoria
+  - Promoções
 ---
 
 Implementamos melhorias nos formulários de promoção para garantir maior precisão e consistência na configuração de promoções, e reduzir casos de erros. As principais mudanças incluem ajustes nos limites de caracteres, novas regras para condições e restrições para descontos progressivos, e ofertas do tipo Compre Junto.

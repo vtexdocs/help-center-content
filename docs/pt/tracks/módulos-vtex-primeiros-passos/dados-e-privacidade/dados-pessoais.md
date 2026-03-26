@@ -15,7 +15,7 @@ trackSlugEN: dados-e-privacidade
 order: 1
 ---
 
-Um dado pessoal ou _Personally Identifiable Information_ (PII) é qualquer informação relativa a uma pessoa física, que seja capaz de identificá-la de maneira direta (como nome, CPF e e-mails pessoais) ou indireta (como endereços de IP, endereços físicos e [cookies](https://vtex.com/br-pt/privacy-and-agreements/vtex-platform-cookies-information/)).
+Um dado pessoal ou _Personally Identifiable Information_ (PII) é qualquer informação relativa a uma pessoa física, que seja capaz de identificá-la de maneira direta (como nome, CPF e e-mails pessoais) ou indireta (como endereços de IP, endereços físicos e [cookies](https://vtex.com/br-pt/trust/cookies-information/)).
 
 Dados pessoais sensíveis são informações relacionadas a etnia, crenças religiosas, opinião política, filiação sindical, saúde ou dados de vida sexual, genéticos ou biométricos. O uso indevido desses tipos de dados pode trazer graves prejuízos ou tratamento discriminatório ao titular.
 
@@ -26,7 +26,7 @@ A VTEX trata dados pessoais de compradores somente quando necessário, em confor
 * Nome
 * Email
 * Endereço IP
-* Informações de navegação ([cookies](https://vtex.com/br-pt/privacy-and-agreements/vtex-platform-cookies-information/))
+* Informações de navegação ([cookies](https://vtex.com/br-pt/trust/cookies-information/))
 * Informações do carrinho
 * Informações e histórico do pedido
 * Endereço de entrega

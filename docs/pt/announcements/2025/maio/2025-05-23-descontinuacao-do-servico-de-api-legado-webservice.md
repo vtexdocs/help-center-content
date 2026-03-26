@@ -13,6 +13,9 @@ locale: pt
 legacySlug: descontinuacao-do-servico-de-api-legado-webservice
 announcementImageID: 'undefined'
 announcementSynopsisPT: 'A partir de 1 de setembro de 2025, o WebService será deprecado na plataforma VTEX.'
+tags:
+  - Descontinuação
+  - Catálogo
 ---
 
 A partir de **1 de setembro de 2025**, a Webservice API será permanentemente deprecada na plataforma VTEX, ou seja, os clientes que utilizam este serviço legado devem adaptar suas operações para o conjunto atual de APIs da VTEX — veja nossa [API Reference](https://developers.vtex.com/docs/api-reference).

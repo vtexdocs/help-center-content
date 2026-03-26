@@ -12,6 +12,9 @@ locale: pt
 legacySlug: 
 announcementImageID: 
 announcementSynopsisPT: 'Atualização obrigatória para o novo modelo de frete da Skyhub.'
+tags:
+  - Nova funcionalidade
+  - Integrações
 ---
 
 Visando melhorar a experiência do seller, a Skyhub otimizou o modelo de cálculo da simulação de frete. Para garantir o funcionamento correto da integração, é necessário que os sellers VTEX solicitem a configuração no painel da Skyhub. A VTEX já implementou as alterações necessárias para manter a compatibilidade com o novo modelo.

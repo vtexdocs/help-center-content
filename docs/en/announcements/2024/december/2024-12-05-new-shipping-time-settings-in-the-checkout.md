@@ -13,6 +13,10 @@ locale: en
 legacySlug: new-shipping-time-settings-in-the-checkout
 announcementImageID: 'undefined'
 announcementSynopsisEN: 'New Checkout settings now allow you to display the shipping time for each product individually.'
+tags:
+  - Improvement
+  - Checkout
+  - Logistics
 ---
 
 The default Checkout settings display a single shipping time (in business days) for all the products in the cart, which always corresponds to the longest shipping time.

@@ -54,7 +54,7 @@ The columns correspond to specific information about the subscription, as descri
 | AddressType | Type of address. |
 | PaymentSystem Name | Payment method used in the subscription. |
 | Account Id | ID of the account. |
-| Selected Sla | The [Service Level Agreement (SLA)](https://vtex.com/us-en/privacy-and-agreements/agreements/) selected. |
+| Selected Sla | The [Service Level Agreement (SLA)](https://vtex.com/us-en/trust/agreements) selected. |
 | Cycle | Number that identifies the cycle of the subscription. |
 | Created At | Date the subscription was created. |
 | Last Update | Date of the last update. |
@@ -91,7 +91,7 @@ The columns correspond to specific information about the subscription, as descri
 | AddressType | Type of address. |
 | PaymentSystem Name | Payment method used in the subscription. |
 | Account Id | ID of the account. |
-| Selected Sla | The [Service Level Agreement (SLA)](https://vtex.com/br-pt/privacy-and-agreements/agreements/) selected. |
+| Selected Sla | The [Service Level Agreement (SLA)](https://vtex.com/br-pt/trust/agreements) selected. |
 | Cycle | Number that identifies the cycle of the subscription. |
 | Created At | Date the subscription was created. |
 | Last Update | Date of the last update. |
@@ -128,7 +128,7 @@ The columns correspond to specific information about the subscription, as descri
 | AddressType | Type of address. |
 | PaymentSystem Name | Payment method used in the subscription. |
 | Account Id | ID of the account. |
-| Selected Sla | The [Service Level Agreement (SLA)](https://vtex.com/us-en/privacy-and-agreements/agreements/) selected. |
+| Selected Sla | The [Service Level Agreement (SLA)](https://vtex.com/us-en/trust/agreements) selected. |
 | Cycle | Number that identifies the cycle of the subscription. |
 | Created At | Date the subscription was created. |
 | Last Update | Date of the last update. |
@@ -165,7 +165,7 @@ The columns correspond to specific information about the subscription, as descri
 | AddressType | Type of address. |
 | PaymentSystem Name | Payment method used in the subscription. |
 | Account Id | ID of the account. |
-| Selected Sla | The [Service Level Agreement (SLA)](https://vtex.com/us-en/privacy-and-agreements/agreements/) selected. |
+| Selected Sla | The [Service Level Agreement (SLA)](https://vtex.com/us-en/trust/agreements) selected. |
 | Cycle | Number that identifies the cycle of the subscription. |
 | Created At | Date the subscription was created. |
 | Last Update | Date of the last update. |
@@ -196,7 +196,7 @@ The columns correspond to specific information about the subscription, as descri
 | Value | Price of the subscription. |
 | cycleCount | Number that identifies the cycle of the subscription. |
 | date | Date the subscription was created. |
-| IsInRetry | Indicates if the execution was the result of a retry. <br> `TRUE`: The execution was the result of a retry. <br> `FALSE`: The execution wasn't the result of a retry. |
+| IsInRetry | Indicates whether a new retry can be attempted or if the subscription cycle has ended. <br> `TRUE`: The subscription is still in the retry cycle and there are pending attempts. <br> `FALSE`: The subscription cycle has ended. |
 | Status | Status of the subscription at the time the report was created. <br> `TRIGGERED`: A subscription cycle run was triggered. <br> `IN_PROCESS`: The subscription is being processed by the system (temporary status). <br> `FAILURE`: An internal error occurred while running the subscription. <br> `SUCCESS`: The subscription cycle was processed successfully. <br> `EXPIRED`: The subscription wasn't renewed and exceeded the current deadline. <br> `ORDER_ERROR`: The subscription cycle failed due to a _place order_ error. <br> `PAYMENT_ERROR`: The subscription cycle failed due to a payment error. <br> `SKIPED` (written this way): The subscription cycle was skipped; the subscription will run in the next cycle. <br> `SUCCESS_WITH_NO_ORDER`: A subscription cycle was successfully processed, but the associated order has no items. <br> `SUCCESS_WITH_PARTIAL_ORDER`: A subscription cycle was successfully processed and has a partial order associated. <br> `RE_TRIGGERED`: A manual re-run of the subscription cycle was triggered. <br> `SCHEDULE_UPDATED`: The next subscription cycle date was updated. |
 | messageParsed | Message returned by Checkout during the subscription run. |
 | CreatedAt | Date the subscription was created. |
