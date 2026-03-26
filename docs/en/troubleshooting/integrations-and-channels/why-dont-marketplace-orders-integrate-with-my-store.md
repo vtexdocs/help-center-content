@@ -1,5 +1,5 @@
 ---
-title: 'Why don't marketplace orders integrate with my store?'
+title: "Why don't marketplace orders integrate with my store?"
 id: 275YvF8dyry5KmfY9epoET
 status: PUBLISHED
 createdAt: 2024-06-21T14:24:48.621Z

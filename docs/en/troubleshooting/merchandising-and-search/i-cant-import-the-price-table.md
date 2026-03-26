@@ -1,5 +1,5 @@
 ---
-title: 'I can't import the price table'
+title: "I can't import the price table"
 id: bglrzs7gLKWf97q8qRdRm
 status: PUBLISHED
 createdAt: 2024-06-10T15:11:02.787Z

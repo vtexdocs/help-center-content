@@ -1,5 +1,5 @@
 ---
-title: 'I can't fix the schema error in B2B apps'
+title: "I can't fix the schema error in B2B apps"
 id: WkjJZSnGXCiqmLhg4b0OR
 status: PUBLISHED
 createdAt: 2024-09-11T18:54:34.611Z

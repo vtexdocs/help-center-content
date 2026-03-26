@@ -1,5 +1,5 @@
 ---
-title: 'The promotion wasn't applied to the customer cluster'
+title: "The promotion wasn't applied to the customer cluster"
 id: 1fQEKdmWwIAPfDQAbuP3Kr
 status: PUBLISHED
 createdAt: 2025-02-28T18:00:30.100Z

@@ -1,5 +1,5 @@
 ---
-title: 'I can't view the product in the search results'
+title: "I can't view the product in the search results"
 id: 2Ry55Fh6JW8v7oKBiB2pH3
 status: PUBLISHED
 createdAt: 2024-07-24T16:39:50.379Z

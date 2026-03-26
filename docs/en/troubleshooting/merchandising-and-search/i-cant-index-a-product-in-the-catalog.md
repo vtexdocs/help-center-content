@@ -1,5 +1,5 @@
 ---
-title: 'I can't index a product in the catalog'
+title: "I can't index a product in the catalog"
 id: 5ZKLTqnCyGbWEYGPTCBIxI
 status: PUBLISHED
 createdAt: 2024-09-06T13:35:52.255Z

@@ -1,5 +1,5 @@
 ---
-title: 'I can't update the EAN of my SKUs via API'
+title: "I can't update the EAN of my SKUs via API"
 id: 1gHfGo3TpSTHqb5ZNzwq3m
 status: PUBLISHED
 createdAt: 2024-06-18T16:50:42.770Z

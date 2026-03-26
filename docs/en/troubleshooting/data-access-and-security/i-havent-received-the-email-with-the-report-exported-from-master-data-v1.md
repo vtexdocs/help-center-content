@@ -1,5 +1,5 @@
 ---
-title: 'I haven't received the email with the report exported from Master Data v1'
+title: "I haven't received the email with the report exported from Master Data v1"
 id: 1zUBgmgkgMZyHyy0veR7Oj
 status: PUBLISHED
 createdAt: 2022-10-17T19:56:25.618Z
