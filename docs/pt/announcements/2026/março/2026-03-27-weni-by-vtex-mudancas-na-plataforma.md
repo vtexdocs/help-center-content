@@ -15,7 +15,7 @@ tags:
   - VTEX Agentic CX Platform
 ---
 
-Atualizamos o visual e as nomenclaturas da plataforma Weni by VTEX, que agora se chama **VTEX Agentic CX Platform***. Implementada em 26 de março, essa mudança oferece uma experiência mais integrada e consistente com o ecossistema VTEX.
+Atualizamos o visual e as nomenclaturas da plataforma Weni by VTEX, que agora se chama **VTEX Agentic CX Platform**. Implementada em 26 de março, essa mudança oferece uma experiência mais integrada e consistente com o ecossistema VTEX.
 
 ## O que mudou?
 
@@ -45,7 +45,7 @@ Desenvolvemos essa atualização para manter consistência visual com a identida
 
 - **Consistência visual:** interface alinhada ao padrão e identidade da VTEX, proporcionando uma experiência unificada.
 - **Navegação mais intuitiva:** novo agrupamento por seções facilita encontrar as ferramentas certas rapidamente.
-- **Nomenclaturas mais claras:** os novos nomes das seções refletem melhor a função de cada área, reduzindo a curva de aprendizado.
+- **Nomenclaturas mais acessíveis:** os novos nomes das seções refletem melhor a função de cada área, reduzindo a curva de aprendizado.
 
 ## O que precisa ser feito?
 
