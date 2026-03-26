@@ -33,4 +33,4 @@ Operadores de lojas B2B podem criar, editar e excluir contratos por meio da [API
 
 > ⚠️ Ao criar ou atualizar contratos, você deve enviar cada campo de acordo com as especificações fornecidas. Caso contrário, o módulo Checkout não conseguirá preencher automaticamente os dados durante o fluxo de compra. Saiba mais sobre [Preenchimento automático de dados do cliente](https://help.vtex.com/pt/tutorial/smartcheckout-preenchimento-automatico-de-dados-do-cliente--2Nuu3xAFzdhIzJIldAdtan#).
 
-> ℹ️ Membros da organização compradora podem gerenciar algumas informações de contrato (como email e número de telefone) por meio da interface [Organization Account]().
+> ℹ️ Membros da organização compradora podem gerenciar algumas informações de contrato (como email e número de telefone) por meio da interface [Conta da Organização]().

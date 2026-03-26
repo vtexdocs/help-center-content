@@ -14,7 +14,7 @@ Em uma organização compradora B2B, os membros são as pessoas que interagem co
 
 ## Perfis de acesso do storefront
 
-Os perfis de acesso definem o que cada usuário pode fazer na loja, incluindo a gestão da Organization Account. Cada perfil de acesso possui um conjunto de permissões. Quando você atribui um ou mais perfis de acesso a um usuário, ele passa a ter as capacidades combinadas desses perfis. As permissões são aplicadas na loja para que os usuários vejam e usem apenas os recursos permitidos.
+Os perfis de acesso definem o que cada usuário pode fazer na loja, incluindo a gestão da Conta da Organização. Cada perfil de acesso possui um conjunto de permissões. Quando você atribui um ou mais perfis de acesso a um usuário, ele passa a ter as capacidades combinadas desses perfis. As permissões são aplicadas na loja para que os usuários vejam e usem apenas os recursos permitidos.
 
 A tabela abaixo resume os principais perfis de acesso e suas funções:
 
