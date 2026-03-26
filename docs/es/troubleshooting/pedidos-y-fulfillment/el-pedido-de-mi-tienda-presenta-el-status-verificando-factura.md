@@ -1,5 +1,5 @@
 ---
-title: El pedido de mi tienda presenta el status "Verificando factura"
+title: 'El pedido de mi tienda presenta el status "Verificando factura"'
 id: 2YY7ILOOd0lEjpiT7SSgag
 status: PUBLISHED
 createdAt: 2024-08-16T18:32:15.867Z
@@ -25,7 +25,7 @@ Al monitorear el [flujo de pedidos](/es/docs/tutorials/flujo-y-status-de-pedidos
 Cuando el pedido permanece con el status `Verificando factura`, suele ser por los siguientes motivos:
 
 * Hubo un problema con la [liquidación del pago](/es/docs/tutorials/configurar-tiempo-maximo-para-la-liquidacion-automatica).
-* La factura no se incluyó correctamente en el pedido, o la [factura](/es/docs/tutorials/como-facturar-manualmente-un-pedido) se realizó solo parcialmente. 
+* La factura no se incluyó correctamente en el pedido, o la [factura](/es/docs/tutorials/como-facturar-manualmente-un-pedido) se realizó solo parcialmente.
 
 ## Solución
 

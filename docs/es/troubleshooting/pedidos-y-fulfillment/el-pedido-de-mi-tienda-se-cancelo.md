@@ -1,5 +1,5 @@
 ---
-title: El pedido de mi tienda se canceló
+title: 'El pedido de mi tienda se canceló'
 id: 6qOCSBno1vS9TmHWWveOc
 status: PUBLISHED
 createdAt: 2025-02-04T13:04:34.645Z
@@ -46,7 +46,7 @@ El módulo **Pedidos** del Admin VTEX permite analizar el origen de la cancelaci
 Para ver las interacciones de un pedido, sigue los pasos a continuación:
 
 1. En el Admin VTEX, accede a **Pedidos > Todos los pedidos** o ingresa **Todos los pedidos** en la barra de búsqueda en la parte superior de la página.
-2. Busca el pedido utilizando la barra de búsqueda y los filtros disponibles en **Todos los pedidos**. 
+2. Busca el pedido utilizando la barra de búsqueda y los filtros disponibles en **Todos los pedidos**.
 3. Haz clic en el pedido deseado y se te redirigirá a la [Página de detalles del pedido](/es/docs/tutorials/pagina-de-detalles-del-pedido).
 4. En la sección **Historial del pedido**, haz clic en `Ver interacciones`.
 

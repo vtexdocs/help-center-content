@@ -1,5 +1,5 @@
 ---
-title: La búsqueda de redirecciones en el Admin no devuelve resultados
+title: 'La búsqueda de redirecciones en el Admin no devuelve resultados'
 id: 2u5cJhUSVM6bbEAFkgUww7
 status: PUBLISHED
 createdAt: 2024-07-24T13:41:02.016Z

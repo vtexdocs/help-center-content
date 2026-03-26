@@ -1,5 +1,5 @@
 ---
-title: I can't index a product in the catalog
+title: 'I can't index a product in the catalog'
 id: 5ZKLTqnCyGbWEYGPTCBIxI
 status: PUBLISHED
 createdAt: 2024-09-06T13:35:52.255Z
@@ -38,10 +38,10 @@ In some cases, the indexing process may be interrupted, resulting in the latest 
 - No trade policy associated with the product in the store binding
 - Indexing timeout (40 seconds) due to a high number of requests to the checkout during indexing. The number of requests may vary depending on the following product-related factors:
 
-   - Number of trade policies  
-   - Number of SKUs  
-   - Number of geographical regions  
-   - Number of collections  
+   - Number of trade policies
+   - Number of SKUs
+   - Number of geographical regions
+   - Number of collections
    - Number of sellers
 
 ## Solutions
@@ -59,13 +59,13 @@ To fix any issues preventing correct product indexing in the store, consider doi
 
 Errors in product fields can lead to inconsistencies when indexing a product.
 
-1. In the Admin VTEX, go to **Catalog > All Products**.  
+1. In the Admin VTEX, go to **Catalog > All Products**.
 
    > ⚠️ Stores using the **Products and SKUs (Beta)** page should check the product fields by going to **Catalog > Products and SKUs** in the VTEX Admin. Learn more about [Products and SKUs (Beta)](/en/docs/tutorials/products-and-skus).
 
-2. Find the product you want and click **UPDATE**.  
+2. Find the product you want and click **UPDATE**.
 
-3. Check if the information in all the [product fields](/en/docs/tutorials/adding-or-editing-products) is correct. If necessary, update it and click Save.  
+3. Check if the information in all the [product fields](/en/docs/tutorials/adding-or-editing-products) is correct. If necessary, update it and click Save.
 
 4. Access the indexing report in **Catalog > Reports** and check whether the product is in the indexing queue or has been indexed.
 
@@ -81,7 +81,7 @@ When a product is associated with multiple policies, it may exit the indexing qu
 
 Example: A product with 5 active SKUs across 5 different trade policies may require 25 validations of stock availability, price rules, and promotions.
 
-To avoid this scenario, check the possibility of using the same trade policy for different marketplaces, as described in [Configuring a marketplace trade policy](/en/docs/tutorials/configuring-a-marketplace-trade-policy).  
+To avoid this scenario, check the possibility of using the same trade policy for different marketplaces, as described in [Configuring a marketplace trade policy](/en/docs/tutorials/configuring-a-marketplace-trade-policy).
 
 > ⚠️ If you can reduce the number of trade policies in your store, access the product fields again to change the trade policy and check the indexing report, as described in **Checking product fields**.
 
@@ -91,13 +91,13 @@ Similar to trade policies, having an excessive number of SKUs associated with a 
 
 Example: If the product "Shirt" has six SKUs (Yellow S, Yellow M, Yellow L, Blue S, Blue M, and Blue L), it can be split into two products with three SKUs each: "Yellow Shirt" (S, M, and L) and "Blue Shirt" (S, M, and L).
 
-After adjusting the number of SKUs per product, check the indexing report, as described in the section [Checking product fields](#checking-product-fields).  
+After adjusting the number of SKUs per product, check the indexing report, as described in the section [Checking product fields](#checking-product-fields).
 
-### Remove SKUs from collections 
+### Remove SKUs from collections
 
-> ℹ️ There are two ways to remove a SKU from a collection: via the [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal) or using the **Collections (Beta)** module. This section shows how to remove a SKU from a collection in the **Legacy CMS Portal**. For more information about the process in the **Collections (Beta)** module, see [Product removal](/en/docs/tutorials/creating-collections-beta#product-removal).  
+> ℹ️ There are two ways to remove a SKU from a collection: via the [Legacy CMS Portal](/en/docs/tracks/legacy-cms-portal) or using the **Collections (Beta)** module. This section shows how to remove a SKU from a collection in the **Legacy CMS Portal**. For more information about the process in the **Collections (Beta)** module, see [Product removal](/en/docs/tutorials/creating-collections-beta#product-removal).
 
-If any of the product's SKUs are included in a [collection](/en/docs/tracks/collections-concept-definition), this might also cause an indexing timeout. Follow the steps below to check if the SKU is included in one or more collections:  
+If any of the product's SKUs are included in a [collection](/en/docs/tracks/collections-concept-definition), this might also cause an indexing timeout. Follow the steps below to check if the SKU is included in one or more collections:
 
 1. In the Admin, go to __Storefront > Layout__.
 2. Click the __CMS__ folder and __Product Cluster (Collections)__.

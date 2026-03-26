@@ -1,5 +1,5 @@
 ---
-title: El pedido se detiene en el status "Listo para preparación"
+title: 'El pedido se detiene en el status "Listo para preparación"'
 id: 1Esx82dbr5RHYPOHgEjRGg
 status: PUBLISHED
 createdAt: 2025-02-03T17:59:30.111Z
@@ -38,7 +38,7 @@ La primera acción necesaria es ponerse en contacto con el responsable de tu [in
 
 ### Actualización manual del status del pedido (opcional)
 
-Puedes [actualizar manualmente](/es/docs/tutorials/enviar-pedido-al-status-a-preparar-la-entrega#por-el-admin-vtex) el status del pedido a `Preparando envío` vía Admin VTEX, si lo deseas. Sin embargo, para realizar este tipo de acción, es necesario tener un [rol con permiso OMS - Full access](/es/docs/tutorials/roles#roles). 
+Puedes [actualizar manualmente](/es/docs/tutorials/enviar-pedido-al-status-a-preparar-la-entrega#por-el-admin-vtex) el status del pedido a `Preparando envío` vía Admin VTEX, si lo deseas. Sin embargo, para realizar este tipo de acción, es necesario tener un [rol con permiso OMS - Full access](/es/docs/tutorials/roles#roles).
 
 > ❗ Al actualizar manualmente el status y confirmar el inicio de la preparación, el seller asume la responsabilidad por la [reserva de los ítens](/es/docs/tutorials/como-se-maneja-la-reserva), garantizando que haya suficiente stock y que se registre la baja de los ítems vendidos. Los pedidos actualizados de forma manual no pueden integrarse posteriormente en el sistema del ERP.
 

@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué los pedidos del marketplace no se integran con mi tienda?
+title: '¿Por qué los pedidos del marketplace no se integran con mi tienda?'
 id: 275YvF8dyry5KmfY9epoET
 status: PUBLISHED
 createdAt: 2024-06-21T14:24:48.621Z
@@ -21,20 +21,20 @@ symptomFilters:
   - Error de sincronización
 ---
 
-Cuando se producen errores de integración de pedidos entre un marketplace y tu tienda, se muestran mensajes en la página de cada pedido, informando el error ocurrido. Los posibles errores de integración de pedido son los siguientes:  
+Cuando se producen errores de integración de pedidos entre un marketplace y tu tienda, se muestran mensajes en la página de cada pedido, informando el error ocurrido. Los posibles errores de integración de pedido son los siguientes:
 
-- Información de envío incompleta.  
-- Divergencia de precios.  
-- ID de SKU no válido.  
-- Indisponibilidad de stock.  
-- Status de indisponibilidad.  
-- Transportadora no registrada en el ERP (Enterprise Resource Planning).  
+- Información de envío incompleta.
+- Divergencia de precios.
+- ID de SKU no válido.
+- Indisponibilidad de stock.
+- Status de indisponibilidad.
+- Transportadora no registrada en el ERP (Enterprise Resource Planning).
 
-Comprueba tanto el status de la integración de pedidos como los mensajes accediendo al Admin VTEX. **Marketplace > Conexiones > Pedidos** o ingresa **Pedidos** en la barra de búsqueda.   
+Comprueba tanto el status de la integración de pedidos como los mensajes accediendo al Admin VTEX. **Marketplace > Conexiones > Pedidos** o ingresa **Pedidos** en la barra de búsqueda.
 
 ## Solución
 
-Consulta la tabla a continuación para comprender el significado del error y corregirlo:  
+Consulta la tabla a continuación para comprender el significado del error y corregirlo:
 
 | **Tipo de error** | **Significado** | **Acción requerida** |
 |:---:|:---:|:---:|

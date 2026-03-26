@@ -1,5 +1,5 @@
 ---
-title: Cómo corregir el error de esquema en aplicaciones B2B
+title: 'Cómo corregir el error de esquema en aplicaciones B2B'
 id: WkjJZSnGXCiqmLhg4b0OR
 status: PUBLISHED
 createdAt: 2024-09-11T18:54:34.611Z
@@ -31,17 +31,17 @@ Para corregir la alerta __Schema is invalid__ en aplicaciones B2B es necesario m
 ### Resolución de la alerta "Schema is invalid" en aplicaciones B2B
 Sigue los pasos a continuación para corregir la alerta Schema is invalid y garantizar que la configuración esté correcta:
 
-1. En el Admin VTEX, accede a **Configuración de la tienda > Storefront > Master Data** o escribe **Master Data** en la barra de búsqueda en la parte superior de la página.  
-2. Inicia sesión.  
-3. Haz clic en **Configuración avanzada**.  
-4. Haz clic en **Estructura de datos**.  
-5. Haz clic en **Entidades de datos**.  
-6. Ubica la fila **CL**, clic en **Editar**.  
-7. Revisa todos los campos de la lista y marca la opción **"¿Es anulable?"** en los que no la tengan marcada.  
+1. En el Admin VTEX, accede a **Configuración de la tienda > Storefront > Master Data** o escribe **Master Data** en la barra de búsqueda en la parte superior de la página.
+2. Inicia sesión.
+3. Haz clic en **Configuración avanzada**.
+4. Haz clic en **Estructura de datos**.
+5. Haz clic en **Entidades de datos**.
+6. Ubica la fila **CL**, clic en **Editar**.
+7. Revisa todos los campos de la lista y marca la opción **"¿Es anulable?"** en los que no la tengan marcada.
 
    > ⚠️ Solo el campo de email debe tener la opción **¿Es anulable?** sin marcar.
 
-8. Haz clic en **Guardar**.  
+8. Haz clic en **Guardar**.
 9. En la lista de **Entidades de datos**, haz clic en **Publicar**.
 
 La siguiente imagen ilustra los pasos necesarios para corregir la configuración de los campos obligatorios de Master Data y solucionar la alerta `Schema is invalid`.

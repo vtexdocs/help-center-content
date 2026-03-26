@@ -1,5 +1,5 @@
 ---
-title: Pedidos de Amazon muestran errores de integración
+title: 'Pedidos de Amazon muestran errores de integración'
 id: 1ukX1Gw4fVUs62IIpGgsZF
 status: PUBLISHED
 createdAt: 2024-09-12T16:05:45.774Z

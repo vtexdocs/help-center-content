@@ -1,5 +1,5 @@
 ---
-title: Pedido finalizado con precio incorrecto
+title: 'Pedido finalizado con precio incorrecto'
 id: 5an0m7uLMwxWRlJlsyKxvl
 status: PUBLISHED
 createdAt: 2025-05-07T13:03:46.201Z
@@ -22,7 +22,7 @@ symptomFilters:
   - Configuración incorrecta
 ---
 
-El status de los pedidos finalizados por marketplaces certificados se muestra en la sección **Marketplace > Conexiones > Pedidos** del Admin VTEX. Los pedidos finalizados con precio incorrecto tienen el status **Procesado con error**. 
+El status de los pedidos finalizados por marketplaces certificados se muestra en la sección **Marketplace > Conexiones > Pedidos** del Admin VTEX. Los pedidos finalizados con precio incorrecto tienen el status **Procesado con error**.
 
 > ℹ️ Para evitar que el pedido se finalice con el precio incorrecto, puedes crear [Reglas de divergencia de precios](/es/docs/tutorials/regla-de-divergencia-de-precios).
 
@@ -39,7 +39,7 @@ Esto ocurre cuando hay algún problema al enviar el precio de VTEX al marketplac
 - Error en la integración, que se notificará en el dashboard de integraciones.
 - El marketplace tiene problemas para calcular el precio nuevo, aun cuando haya recibido la actualización de VTEX con éxito.
 
-### Solución 	
+### Solución
 
 Debes reprocesar el pedido ignorando la divergencia siguiendo las instrucciones a continuación:
 

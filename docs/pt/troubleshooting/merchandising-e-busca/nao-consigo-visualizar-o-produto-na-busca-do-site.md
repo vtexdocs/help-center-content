@@ -1,5 +1,5 @@
 ---
-title: Não consigo visualizar o produto na busca do site
+title: 'Não consigo visualizar o produto na busca do site'
 id: 2Ry55Fh6JW8v7oKBiB2pH3
 status: PUBLISHED
 createdAt: 2024-07-24T16:39:50.379Z
@@ -49,23 +49,23 @@ Para permitir que os produtos pesquisados sejam exibidos corretamente no resulta
 
 A ausência do produto em um resultado de busca pode ser atribuída ao preenchimento incorreto de alguns campos durante o processo de [cadastro do produto](/pt/docs/tutorials/adicionar-ou-editar-produto). Siga os passos abaixo para verificar os campos __Marca__, __Mostrar no site__ e __Mostrar quando estiver fora de estoque__:
 
-1. No Admin VTEX, acesse **Catálogo > Todos os produtos**.  
+1. No Admin VTEX, acesse **Catálogo > Todos os produtos**.
 
-   > �s�️ Lojas que utilizam a página **Produtos e SKUS (Beta)**, devem verificar os campos de cadastro do produto acessando **Catálogo > Produtos e SKUS** no Admin VTEX. Saiba mais em [Produtos e SKUS (Beta)](/pt/docs/tutorials/produtos-e-skus).
+   > ⚠️ Lojas que utilizam a página **Produtos e SKUS (Beta)**, devem verificar os campos de cadastro do produto acessando **Catálogo > Produtos e SKUS** no Admin VTEX. Saiba mais em [Produtos e SKUS (Beta)](/pt/docs/tutorials/produtos-e-skus).
 
-2. Localize o produto desejado e clique em **EDITAR**.  
+2. Localize o produto desejado e clique em **EDITAR**.
 
-3. No campo **Marca**, verifique se a informação está correta. Se necessário, adicione a marca correspondente ao produto. Somente é possível adicionar marcas que já tenham sido previamente [cadastradas na loja](/pt/docs/tracks/cadastrar-marcas).  
+3. No campo **Marca**, verifique se a informação está correta. Se necessário, adicione a marca correspondente ao produto. Somente é possível adicionar marcas que já tenham sido previamente [cadastradas na loja](/pt/docs/tracks/cadastrar-marcas).
 
-4. Na opção **Mostrar no site**, confirme se o campo está selecionado.  
+4. Na opção **Mostrar no site**, confirme se o campo está selecionado.
 
-5. Na opção **Mostrar quando estiver fora de estoque**, confirme se o campo está selecionado.  
+5. Na opção **Mostrar quando estiver fora de estoque**, confirme se o campo está selecionado.
 
-6. Clique em *Salvar*.  
+6. Clique em `Salvar`.
 
-7. Acesse o site da loja, digite o termo desejado e verifique se os produtos exibidos no resultado da busca são iguais aos produtos disponíveis na página **Explicação da busca** do Intelligent Search (**Storefront > Intelligent Search > Explicação da busca**).  
+7. Acesse o site da loja, digite o termo desejado e verifique se os produtos exibidos no resultado da busca são iguais aos produtos disponíveis na página **Explicação da busca** do Intelligent Search (**Storefront > Intelligent Search > Explicação da busca**).
 
-> �s�️ Se o termo de busca estiver presente no nome ou descrição do produto, mas o produto for de uma marca diferente do termo especificado na busca, prossiga com as demais etapas para solucionar o problema.
+> ⚠️ Se o termo de busca estiver presente no nome ou descrição do produto, mas o produto for de uma marca diferente do termo especificado na busca, prossiga com as demais etapas para solucionar o problema.
 
 ### Modificação do filtro da busca no Rewriter
 
@@ -75,10 +75,10 @@ Se um termo for registrado no Rewriter como marca, o [Intelligent Search](/pt/do
 
 Para remover a restrição de busca por marca (*brand*) e permitir os produtos sejam localizados também por termos presentes no nome ou descrição (*full text*), siga os passos abaixo:
 
-1. No Admin VTEX, em **Storefront > Intelligent Search > Explicação da busca**, insira o termo desejado e verifique quantos produtos são retornados na busca.  
-2. Configure o app [Rewriter](https://developers.vtex.com/docs/apps/vtex.rewriter). Caso este app ainda não esteja instalado em sua loja, acesse a [App Store](/pt/docs/tracks/hub-de-extensoes-app-store) para instalá-lo.  
-3. Acesse o [GraphQL IDE](https://developers.vtex.com/docs/guides/graphql-ide#graphql-basics) em **Configurações da loja > Storefront > GraphQL IDE**.  
-4. Em **Selecione um app**, clique sobre a opção do app Rewriter (**vtex.rewriter@{app-version-number}**).  
+1. No Admin VTEX, em **Storefront > Intelligent Search > Explicação da busca**, insira o termo desejado e verifique quantos produtos são retornados na busca.
+2. Configure o app [Rewriter](https://developers.vtex.com/docs/apps/vtex.rewriter). Caso este app ainda não esteja instalado em sua loja, acesse a [App Store](/pt/docs/tracks/hub-de-extensoes-app-store) para instalá-lo.
+3. Acesse o [GraphQL IDE](https://developers.vtex.com/docs/guides/graphql-ide#graphql-basics) em **Configurações da loja > Storefront > GraphQL IDE**.
+4. Em **Selecione um app**, clique sobre a opção do app Rewriter (**vtex.rewriter@{app-version-number}**).
 
    ![Graphql_ide_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/merchandising-e-busca/nao-consigo-visualizar-o-produto-na-busca-do-site_3.png)
 
@@ -120,7 +120,7 @@ Para remover a restrição de busca por marca (*brand*) e permitir os produtos s
     }
     ```
 
-   > �s�️ O valor *ft* (full text) ao invés de *b* (brand) no parâmetro *map* indica que produtos em que o termo *Pendleton* esteja presente no nome ou na descrição também passarão a ser exibidos na busca.
+   > ⚠️ O valor *ft* (full text) ao invés de *b* (brand) no parâmetro *map* indica que produtos em que o termo *Pendleton* esteja presente no nome ou na descrição também passarão a ser exibidos na busca.
 
 7. Clique na seta do GraphiQL IDE (ao lado de __GraphiQL__) para realizar a atualização do filtro de busca. O novo padrão de filtro de busca para o termo será confirmada pela exibição da seguinte mensagem no campo de resultados do GraphiQL IDE.
 
@@ -149,13 +149,13 @@ Para remover a restrição de busca por marca (*brand*) e permitir os produtos s
 
 8. Acesse o site da loja, digite o termo desejado e verifique se os produtos exibidos no resultado da busca são iguais aos produtos disponíveis na página __Explicação da busca__ do Intelligent Search (__Storefront > Intelligent Search > Explicação da busca__).
 
-> �s�️ Se o termo de busca estiver relacionado a uma marca que não existe mais em seu site, será necessário remover a rota interna de busca dentro do app Rewriter conforme descrito na solução abaixo.
+> ⚠️ Se o termo de busca estiver relacionado a uma marca que não existe mais em seu site, será necessário remover a rota interna de busca dentro do app Rewriter conforme descrito na solução abaixo.
 
 ### Remoção da rota interna de busca no Rewriter
 
 [Rotas internas](https://developers.vtex.com/docs/guides/vtex-io-documentation-routes#routes-in-rewriter) de busca no app [Rewriter](https://developers.vtex.com/docs/apps/vtex.rewriter) podem impedir que um produto seja exibido na busca caso este tenha sido cadastrado com uma marca que não esteja mais disponível na loja.
 
-Para voltar a exibir produtos que contenham os termos pesquisados apenas no nome ou descrição, é necessário deletar a respectiva rota de busca. 
+Para voltar a exibir produtos que contenham os termos pesquisados apenas no nome ou descrição, é necessário deletar a respectiva rota de busca.
 
 Para remover uma rota interna de busca do termo, siga os passos abaixo:
 
@@ -163,7 +163,7 @@ Para remover uma rota interna de busca do termo, siga os passos abaixo:
 
 2. Em **Selecione um app**, clique sobre a opção do app Rewriter (**vtex.rewriter@{app-version-number}**).
 
-3. No campo de preenchimento da query (abaixo de **GraphiQL**), insira os dados da função _internal get_, substituindo _pendleton_ pelo termo desejado. 
+3. No campo de preenchimento da query (abaixo de **GraphiQL**), insira os dados da função _internal get_, substituindo _pendleton_ pelo termo desejado.
 
     ```graphql
     {
@@ -193,7 +193,7 @@ Para remover uma rota interna de busca do termo, siga os passos abaixo:
     }
     ```
 
-5. No campo de preenchimento da query (abaixo de **GraphiQL**), insira os dados da função _mutation_, substituindo _pendleton_ pelo termo desejado. 
+5. No campo de preenchimento da query (abaixo de **GraphiQL**), insira os dados da função _mutation_, substituindo _pendleton_ pelo termo desejado.
 
     ```graphql
     mutation {
@@ -232,7 +232,3 @@ Para remover uma rota interna de busca do termo, siga os passos abaixo:
     ```
 
 8. Acesse o site da loja, digite o termo desejado e verifique se os produtos exibidos no resultado da busca são iguais aos produtos disponíveis na página **Explicação da busca** do Intelligent Search (**Storefront > Intelligent Search > Explicação da busca**).
-
-
-
-

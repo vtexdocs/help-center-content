@@ -1,5 +1,5 @@
 ---
-title: La promoción no se aplicó al clúster de clientes
+title: 'La promoción no se aplicó al clúster de clientes'
 id: 1fQEKdmWwIAPfDQAbuP3Kr
 status: PUBLISHED
 createdAt: 2025-02-28T18:00:30.100Z

@@ -1,5 +1,5 @@
 ---
-title: Admin redirect search returns no results
+title: 'Admin redirect search returns no results'
 id: 2u5cJhUSVM6bbEAFkgUww7
 status: PUBLISHED
 createdAt: 2024-07-24T13:41:02.016Z

@@ -1,5 +1,5 @@
 ---
-title: Trigger no Master Data v2 não funciona
+title: 'Trigger no Master Data v2 não funciona'
 id: 1WvpFuZUQmPrBlrlwX47Qd
 status: PUBLISHED
 createdAt: 2024-12-10T13:34:36.370Z
@@ -29,19 +29,19 @@ Esse problema pode ocorrer devido a uma configuração incorreta da trigger ou a
 
 Para resolver esse problema, há algumas soluções que você pode considerar:
 
-* [Verifique a configuração da trigger](#verifique-a-configuracao-da-trigger): revise se a estrutura da trigger está correta, incluindo os campos obrigatórios.  
-* [Teste o endpoint de forma independente](#teste-o-endpoint-de-forma-indepentente): verifique se o endpoint está funcionando corretamente.  
+* [Verifique a configuração da trigger](#verifique-a-configuracao-da-trigger): revise se a estrutura da trigger está correta, incluindo os campos obrigatórios.
+* [Teste o endpoint de forma independente](#teste-o-endpoint-de-forma-indepentente): verifique se o endpoint está funcionando corretamente.
 * [Verifique as permissões e a autenticação](#verifique-as-permissoes-e-autenticacao): certifique-se de que as permissões estão configuradas corretamente.
 
 ### Verifique a configuração da trigger
 
 Siga as instruções do guia [Setting up triggers in Master Data v2](https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2#trigger-example) para revisar a configuração da trigger. Observe os detalhes listados a seguir para evitar erros:
 
-* Certifique-se de que a estrutura da trigger em `v-triggers` está correta, incluindo os campos obrigatórios `name`, `active`, `action`, `type`, `uri`, `method`, `headers`, e `body`.  
-* Se a trigger fizer uma requisição para uma API externa, verifique se a URL do endpoint (`uri`) está correta e acessível. Tente acessar a URL diretamente para garantir que ela está disponível e pronta para receber requisições POST.  
-* Verifique a sintaxe JSON no corpo da trigger. Erros simples de sintaxe podem causar falhas silenciosas na execução da trigger.  
-* Se a trigger estiver associada a uma entidade ou operação específica, verifique se essas condições estão sendo cumpridas.  
-* Verifique se a entidade de dados existe e está corretamente configurada no Master Data v2. As entidades de dados das duas versões são independentes, ou seja, um documento criado em uma entidade no Master Data v1 não pode ser consultado ou editado usando recursos do Master Data v2 e vice-versa.  
+* Certifique-se de que a estrutura da trigger em `v-triggers` está correta, incluindo os campos obrigatórios `name`, `active`, `action`, `type`, `uri`, `method`, `headers`, e `body`.
+* Se a trigger fizer uma requisição para uma API externa, verifique se a URL do endpoint (`uri`) está correta e acessível. Tente acessar a URL diretamente para garantir que ela está disponível e pronta para receber requisições POST.
+* Verifique a sintaxe JSON no corpo da trigger. Erros simples de sintaxe podem causar falhas silenciosas na execução da trigger.
+* Se a trigger estiver associada a uma entidade ou operação específica, verifique se essas condições estão sendo cumpridas.
+* Verifique se a entidade de dados existe e está corretamente configurada no Master Data v2. As entidades de dados das duas versões são independentes, ou seja, um documento criado em uma entidade no Master Data v1 não pode ser consultado ou editado usando recursos do Master Data v2 e vice-versa.
 
   Para conseguir testar triggers com entidades do Master Data v1, você precisa seguir o [passo a passo para configurar triggers no Master Data v1](/pt/docs/tutorials/criando-trigger-no-master-data).
 
@@ -49,16 +49,12 @@ Siga as instruções do guia [Setting up triggers in Master Data v2](https://dev
 
 Tente enviar uma requisição manualmente para o endpoint utilizando uma ferramenta como o **Postman**. Isso ajudará a garantir que o endpoint esteja recebendo as requisições corretamente e funcionando como esperado.
 
-* Ao fazer uma alteração manual na entidade de dados, verifique se a alteração dispara a trigger conforme o esperado.  
+* Ao fazer uma alteração manual na entidade de dados, verifique se a alteração dispara a trigger conforme o esperado.
 * Certifique-se de que o campo `id` esteja sendo corretamente passado no body da requisição. Isso é necessário para identificar o documento que gerou a trigger.
 
 ### Verifique as permissões e a autenticação
 
-* Certifique-se de que suas [credenciais](/pt/docs/tutorials/chaves-de-api) têm as [permissões](/pt/docs/tutorials/perfis-de-acesso) corretas para enviar requisições ao endpoint especificado.  
+* Certifique-se de que suas [credenciais](/pt/docs/tutorials/chaves-de-api) têm as [permissões](/pt/docs/tutorials/perfis-de-acesso) corretas para enviar requisições ao endpoint especificado.
 * Se a trigger fizer uma requisição para um endpoint externo, verifique se não há necessidade de autenticação extra ou headers de segurança que precisam ser configurados para o endpoint de destino.
 
 Se as soluções acima não resolverem o problema, entre em contato com o [Suporte](/pt/docs/tutorials/como-funciona-o-suporte-da-vtex).
-
-
-
-

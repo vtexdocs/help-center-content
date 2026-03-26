@@ -1,5 +1,5 @@
 ---
-title: The order doesn't progress after the status "Ready for handling"
+title: 'The order doesn't progress after the status "Ready for handling"'
 id: 1Esx82dbr5RHYPOHgEjRGg
 status: PUBLISHED
 createdAt: 2025-02-03T17:59:30.111Z
@@ -38,7 +38,7 @@ The first required action is to contact the person in charge of your [ERP integr
 
 ### Updating the order manually (optional)
 
-The merchant can [manually update](/en/docs/tutorials/moving-order-to-start-handling-shipping#through-vtex-admin) the order status to `Handling shipment` via Admin VTEX, if desired. However, to perform this action, they must have a [role with OMS - Full access permission](/en/docs/tutorials/roles#roles). 
+The merchant can [manually update](/en/docs/tutorials/moving-order-to-start-handling-shipping#through-vtex-admin) the order status to `Handling shipment` via Admin VTEX, if desired. However, to perform this action, they must have a [role with OMS - Full access permission](/en/docs/tutorials/roles#roles).
 
 > ❗ By manually updating the status and confirming the start of handling, the seller assumes responsibility for [reserving items](/en/docs/tutorials/how-does-reservation-work), gensuring there is sufficient stock, and that the sold items are deducted from the inventory. Manually updated orders can't be integrated into the ERP system later.
 

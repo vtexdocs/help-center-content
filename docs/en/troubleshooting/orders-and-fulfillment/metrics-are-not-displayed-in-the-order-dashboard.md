@@ -1,5 +1,5 @@
 ---
-title: Metrics are not displayed in the order dashboard
+title: 'Metrics are not displayed in the order dashboard'
 id: 1B5OAicmK3AvnwPzs4iq7Z
 status: PUBLISHED
 createdAt: 2024-06-10T11:28:08.507Z

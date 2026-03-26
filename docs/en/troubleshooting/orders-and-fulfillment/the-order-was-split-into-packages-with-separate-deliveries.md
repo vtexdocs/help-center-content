@@ -1,5 +1,5 @@
 ---
-title: The order was split into packages with separate deliveries
+title: 'The order was split into packages with separate deliveries'
 id: 3OCOC82543vOsc3Ex32XTY
 status: PUBLISHED
 createdAt: 2024-06-19T15:03:37.373Z
@@ -27,7 +27,7 @@ On VTEX, customers may receive their orders split into several packages, regardl
 * **Seller with different SLAs for shipping items:** Even if a single seller fulfills the order, different product SLAs can cause the order to be split into multiple packages.
 * **Pre-sale products:** Orders containing both [pre-sale](/en/docs/tutorials/creating-a-product-for-presale) and regular products will be delivered in separate packages.
 
-When an order is generated, the estimated delivery date at checkout applies to both pre-sale and regular products. However, this is only a delivery estimate. Once payment is approved, the order is divided into different packages, one for pre-sale products and one for regular products. 
+When an order is generated, the estimated delivery date at checkout applies to both pre-sale and regular products. However, this is only a delivery estimate. Once payment is approved, the order is divided into different packages, one for pre-sale products and one for regular products.
 
 The delivery date for each package will be adjusted based on the `shippingEstimateDate` for each product, which can be checked via the [Get order](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/oms/pvt/orders/-orderId-) endpoint.
 
@@ -39,7 +39,7 @@ To avoid splitting packages in orders that include pre-sale products, you can co
 
 ### Configuring shipping groups
 
-To configure shipping groups in your store, follow the steps below: 
+To configure shipping groups in your store, follow the steps below:
 
 1. In the VTEX Admin, go to **Store Settings > Shipping > Settings**, or type **Shipping** in the search bar at the top of the page and select **Store Settings / Shipping**.
 2. On the **General Settings** page, in the section **Delivery Groups**, enter the desired number of days for the [shipment](/en/tutorial/como-funciona-a-remessa) in the field _Create shipping groups with intervals of {X} day(s)_.

@@ -1,5 +1,5 @@
 ---
-title: I can't receive emails from VTEX
+title: 'I can't receive emails from VTEX'
 id: 4M2uVZdtrJzgyAySuZ4OLg
 status: PUBLISHED
 createdAt: 2024-05-28T17:21:01.400Z

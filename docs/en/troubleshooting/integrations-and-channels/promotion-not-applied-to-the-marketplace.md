@@ -1,5 +1,5 @@
 ---
-title: Promotion not applied to the marketplace
+title: 'Promotion not applied to the marketplace'
 id: 2pxlVpzgThuw2wTEISRwA2
 status: PUBLISHED
 createdAt: 2024-08-15T11:38:33.808Z
@@ -39,12 +39,12 @@ To solve the problem of promotions not being applied to marketplaces, review the
 ### Selecting affiliates
 To ensure a promotion is applied correctly in a marketplace, select the desired affiliat The affiliate is the partner associated with the marketplace that makes the promotional products available. Below are the steps for correctly selecting an affiliate when configuring a promotion.
 
-1. Create a [regular promotion](/en/docs/tracks/creating-regular-promotions).  
-2. Complete the **Affiliates** field with the name of the affiliate associated with the desired marketplace.  
+1. Create a [regular promotion](/en/docs/tracks/creating-regular-promotions).
+2. Complete the **Affiliates** field with the name of the affiliate associated with the desired marketplace.
 
    ![condições para promoção - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/integrations-and-channels/promotion-not-applied-to-the-marketplace_2.png)
 
-3. In the **Trade policy** section, select the `Equal to` and **Delivered by me (other stores)** options.  
+3. In the **Trade policy** section, select the `Equal to` and **Delivered by me (other stores)** options.
 4. Click `Save`.
 
 > ℹ️ Make sure you haven't created any additional promotion filters, such as payment methods, cluster filters, or cart limitations.

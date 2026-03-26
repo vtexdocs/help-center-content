@@ -1,5 +1,5 @@
 ---
-title: My store’s Site Editor is not working
+title: 'My store’s Site Editor is not working'
 id: 3A6Ois91zEZ8zpKJp1wsP2
 status: PUBLISHED
 createdAt: 2024-08-26T16:52:35.556Z

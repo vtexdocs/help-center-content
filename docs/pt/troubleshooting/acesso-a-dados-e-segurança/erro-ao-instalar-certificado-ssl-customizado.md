@@ -1,5 +1,5 @@
 ---
-title: Erro ao instalar certificado SSL customizado
+title: 'Erro ao instalar certificado SSL customizado'
 id: 6hgFzbcc96mcrqXZMmHCTr
 status: PUBLISHED
 createdAt: 2025-02-28T14:55:08.515Z
@@ -36,7 +36,3 @@ Para identificar o significado e verificar a ação corretiva específica para c
 | *Certificado inválido* | O conteúdo em XML do certificado é inválido. | Revisar o arquivo do certificado e garantir que o conteúdo em XML está correto. |
 | *Acesso não autorizado. Entre em contato com o administrador da sua loja.* | O usuário não tem permissão para instalar um certificado customizado. | Entrar em contato com o administrador da sua loja para revisar a configuração de [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso). <br /><br /> �? necessário ser um usuário associado a um perfil de acesso com os [recursos do License Manager](/pt/docs/tutorials/recursos-do-license-manager) listados a seguir, para visualizar e gerenciar as informações da página: <ul><li>**Produto:** *CDN API*</li><li>**Categoria:** *Certificate management*</li><li>**Recursos:** *Update certificate* e *View certificate*</li></ul> |
 | *Ocorreu um erro ao instalar o certificado* | Erro genérico para causas não determinadas. | Atualizar a página e, se o problema persistir, entrar em contato com o [Suporte](/pt/docs/tutorials/abrir-chamados-para-o-suporte-vtex). |
-
-
-
-

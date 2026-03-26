@@ -1,5 +1,5 @@
 ---
-title: Não consigo visualizar uma página no Admin
+title: 'Não consigo visualizar uma página no Admin'
 id: 3U8TJMlAqHIM5Qs8rLwkwQ
 status: PUBLISHED
 createdAt: 2024-11-28T14:27:44.578Z
@@ -23,7 +23,7 @@ symptomFilters:
 
 Ao utilizar o Admin, alguns usuários podem ter problemas como o *Erro 403 - Desculpe, você não tem acesso a essa página* ou o carregamento contínuo de uma página.
 
-Esses problemas geralmente ocorrem devido a conflitos entre [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) dos usuários administrativos ou configurações específicas do navegador.  
+Esses problemas geralmente ocorrem devido a conflitos entre [perfis de acesso](/pt/docs/tutorials/perfis-de-acesso) dos usuários administrativos ou configurações específicas do navegador.
 
 ## Solução
 
@@ -44,7 +44,7 @@ Siga os passos abaixo para solucionar o problema:
    * Se houver uma combinação do perfil **Call center operator** ou **OMS- Full access** com o perfil **Owner (Admin Super)**, é possível que ocorra um conflito no acesso a algumas páginas.
 4. Remova perfis de acesso conflitantes e conceda somente os perfis necessários para as operações que o usuário realiza na loja, seguindo as instruções para [Gerenciar usuários](/pt/docs/tutorials/gerenciar-usuarios-administrativos#editar-usuarios).
 
-> �s�️ Somente o **Owner (Admin Super)** da conta ou um usuário com o perfil **User Administrator - RESTRICTED** possuem as permissões necessárias para realizar esta etapa.
+> ⚠️ Somente o **Owner (Admin Super)** da conta ou um usuário com o perfil **User Administrator - RESTRICTED** possuem as permissões necessárias para realizar esta etapa.
 
 ### Revise as configurações do navegador
 
@@ -52,7 +52,3 @@ Caso o problema não seja o perfil de acesso do seu usuário, outros testes são
 
 * **Revise as extensões:** desative todas as extensões do navegador e teste o acesso usando uma janela de navegação anônima.
 * **Limpe o cache:** no navegador que você utiliza para acessar o Admin, acesse as configurações e limpe os dados de navegação, incluindo o cache.
-
-
-
-

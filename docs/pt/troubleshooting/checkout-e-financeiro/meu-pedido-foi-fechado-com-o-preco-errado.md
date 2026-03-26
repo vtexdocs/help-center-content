@@ -1,5 +1,5 @@
 ---
-title: Meu pedido foi fechado com o preço errado
+title: 'Meu pedido foi fechado com o preço errado'
 id: 5an0m7uLMwxWRlJlsyKxvl
 status: PUBLISHED
 createdAt: 2025-05-07T13:03:46.201Z
@@ -22,16 +22,16 @@ symptomFilters:
   - Configuração incorreta
 ---
 
-No Admin VTEX, em **Marketplace > Conexões > Pedidos**, são informados os status dos pedidos fechados por marketplaces certificados. Pedidos fechados com o preço errado apresentam status **Processado com erro**. 
+No Admin VTEX, em **Marketplace > Conexões > Pedidos**, são informados os status dos pedidos fechados por marketplaces certificados. Pedidos fechados com o preço errado apresentam status **Processado com erro**.
 
-> �"�️ Para evitar que o pedido seja fechado com o preço errado, você pode criar [Regras de Divergência de Valores](/pt/docs/tutorials/regra-de-divergencia-de-valores).
+> ℹ️ Para evitar que o pedido seja fechado com o preço errado, você pode criar [Regras de Divergência de Valores](/pt/docs/tutorials/regra-de-divergencia-de-valores).
 
 Existem três possíveis causas para um pedido ser fechado com o preço errado:
 - [Preço do produto assumido pelo marketplace](#preço-do-produto-assumido-pelo-marketplace)
 - [Frete calculado no marketplace](#frete-calculado-no-marketplace)
 - [Preço do SKU alterado antes da integração do pedido](#preço-do-SKU-alterado-antes-da-integração-do-pedido)
 
-> �"�️ Consulte outros erros de integração de pedidos de marketplace [nesse artigo](/pt/troubleshooting/por-que-os-pedidos-do-marketplace-nao-integram-com-minha-loja).
+> ℹ️ Consulte outros erros de integração de pedidos de marketplace [nesse artigo](/pt/troubleshooting/por-que-os-pedidos-do-marketplace-nao-integram-com-minha-loja).
 
 ## Preço do produto assumido pelo marketplace
 
@@ -39,7 +39,7 @@ Ocorre quando há algum empecilho ao enviar o preço da VTEX para o marketplace.
 - Erro na integração, que será reportado no painel de integrações.
 - Problema para o marketplace computar o preço novo, mesmo tendo recebido com sucesso a atualização da VTEX.
 
-### Solução 	
+### Solução
 
 Nesse caso, você deve reprocessar o pedido ignorando a divergência. Para isso, siga as instruções abaixo:
 
@@ -50,7 +50,7 @@ Nesse caso, você deve reprocessar o pedido ignorando a divergência. Para isso,
 5. Entre na página do pedido reprocessado.
 6. Na parte superior, clique em `Aprovar`.
 
-> �s�️ Essa integração não muda o valor do pedido. Ele apenas será processado com a divergência de preço.
+> ⚠️ Essa integração não muda o valor do pedido. Ele apenas será processado com a divergência de preço.
 
 ## Frete calculado no marketplace
 
@@ -77,10 +77,3 @@ Nesse caso, você deve reprocessar o pedido. Para isso, siga as instruções aba
 1. No Admin VTEX, acesse **Marketplace > Conexões > Pedidos**, ou digite **Pedidos** na barra de busca no topo da página.
 2. Clique em `Ações`.
 3. Selecione `Reprocessar`.
-
-
-
-
-
-
-

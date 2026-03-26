@@ -1,5 +1,5 @@
 ---
-title: Por que os pedidos do marketplace não integram com minha loja?
+title: 'Por que os pedidos do marketplace não integram com minha loja?'
 id: 275YvF8dyry5KmfY9epoET
 status: PUBLISHED
 createdAt: 2024-06-21T14:24:48.621Z
@@ -21,16 +21,16 @@ symptomFilters:
   - Erro de sincronização
 ---
 
-Quando erros de integração em pedidos ocorrem entre um marketplace e sua loja, mensagens são exibidas na página de cada pedido, informando qual o erro ocorreu no pedido. Os possíveis erros de integração de pedido são os seguintes:  
+Quando erros de integração em pedidos ocorrem entre um marketplace e sua loja, mensagens são exibidas na página de cada pedido, informando qual o erro ocorreu no pedido. Os possíveis erros de integração de pedido são os seguintes:
 
-- Dados de entrega incompletos.  
-- Divergência de valores.  
-- ID de SKU inválido.  
-- Indisponibilidade de inventário.  
-- Status de indisponibilidade.  
-- Transportadora não cadastrada no ERP.  
+- Dados de entrega incompletos.
+- Divergência de valores.
+- ID de SKU inválido.
+- Indisponibilidade de inventário.
+- Status de indisponibilidade.
+- Transportadora não cadastrada no ERP.
 
-Verifique o status da integração dos pedidos e as mensagens acessando no Admin VTEX. **Marketplace > Conexões > Pedidos** ou digite **Pedidos** na barra de busca.   
+Verifique o status da integração dos pedidos e as mensagens acessando no Admin VTEX. **Marketplace > Conexões > Pedidos** ou digite **Pedidos** na barra de busca.
 
 ## Solução
 
@@ -42,8 +42,3 @@ Verifique o status da integração dos pedidos e as mensagens acessando no Admin
 | **Indisponibilidade inventário** | O SKU não está sendo exibido no marketplace.<br>Veja a lista completa de [Erros de integração de estoque com marketplaces.](/pt/docs/tutorials/erros-de-integracao-de-estoque-com-marketplaces) | Aplicar a correção requerida conforme o erro identificado na documentação [Erros de integração de estoque com marketplaces.](/pt/docs/tutorials/erros-de-integracao-de-estoque-com-marketplaces)<br>  |
 | **Status de indisponibilidade** | O produto está disponível em sua loja, porém o marketplace bloqueou o item em sua vitrine. O status do pedido aparecerá como **Unavailable.** | Entrar em contato com o marketplace para a liberação do pedido. |
 | **Transportadora não cadastrada no ERP** | Transportadora selecionada para a entrega do produto não está cadastrada no ERP.<br>**Exemplo**<br>Transportadora nova foi cadastrada na VTEX, mas não foi cadastrada no ERP. | Atualizar o cadastro de transportadoras no ERP conforme as cadastradas na VTEX. |
-
-
-
-
-

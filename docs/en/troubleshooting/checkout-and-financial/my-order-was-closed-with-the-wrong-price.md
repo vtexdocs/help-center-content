@@ -1,5 +1,5 @@
 ---
-title: My order was closed with the wrong price
+title: 'My order was closed with the wrong price'
 id: 5an0m7uLMwxWRlJlsyKxvl
 status: PUBLISHED
 createdAt: 2025-05-07T13:03:46.201Z

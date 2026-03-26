@@ -1,5 +1,5 @@
 ---
-title: Busca de redirects no Admin não retorna resultados
+title: 'Busca de redirects no Admin não retorna resultados'
 id: 2u5cJhUSVM6bbEAFkgUww7
 status: PUBLISHED
 createdAt: 2024-07-24T13:41:02.016Z
@@ -112,7 +112,3 @@ Siga estes passos para obter os redirects:
 Caso os redirects não estejam como esperado, o app Rewriter permite fazer outras operações com redirects, como apagar os existentes e criar novos. Para detalhes sobre essas operações, veja o guia [Rewriter GraphQL API](https://developers.vtex.com/docs/apps/vtex.rewriter/rewriter-graphql-api).
 
 Além disso, é possível exportar e importar redirects com arquivos `.csv` utilizando a página Redirecionamentos ou o [plugin](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-plugins) `redirects` do VTEX IO CLI. Para detalhes sobre importar e exportar redirects, veja o artigo [Gerenciando redirecionamentos de URL por binding](/pt/docs/tutorials/gerenciando-redirecionamentos-de-url-por-binding#importando-e-exportando-redirecionamentos) e a [referência de comandos do VTEX IO CLI](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-command-reference#redirects-delete).
-
-
-
-

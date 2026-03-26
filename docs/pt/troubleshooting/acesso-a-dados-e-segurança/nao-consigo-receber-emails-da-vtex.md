@@ -1,5 +1,5 @@
 ---
-title: Não consigo receber emails da VTEX
+title: 'Não consigo receber emails da VTEX'
 id: 4M2uVZdtrJzgyAySuZ4OLg
 status: PUBLISHED
 createdAt: 2024-05-28T17:21:01.400Z
@@ -65,7 +65,7 @@ Após o teste, caso a mensagem da VTEX não tenha sido enviada para o email do u
 
 Confira se o servidor SMTP externo está devidamente configurado conforme o [sistema SPF](/pt/docs/tutorials/configuracao-de-spf), responsável por evitar que servidores não autorizados enviem emails em nome de um domínio específico. Caso necessário, você pode realizar a [configuração do SPF](https://developers.vtex.com/docs/guides/setting-up-the-spf) e da [DKIM](https://developers.vtex.com/docs/guides/setting-up-dkim-for-transactional-emails) (DomainKeys Identified Mail) no servidor.
 
-> �s�️ Acesse também a sua caixa de spam para garantir que os emails da VTEX não estão sendo enviados para este local. Isto pode ocorrer devido a regras internas de servidores de mail.
+> ⚠️ Acesse também a sua caixa de spam para garantir que os emails da VTEX não estão sendo enviados para este local. Isto pode ocorrer devido a regras internas de servidores de mail.
 
 ### Configuração da notificação de pedido e pagamento
 
@@ -83,7 +83,7 @@ A Amazon (AWS) possui uma plataforma de email chamada Amazon Simple Email Servic
 
 Em situações normais, um endereço de email pode ser incluído na lista de supressão da AWS e ser removido após aproximadamente 12 horas. Durante este período, emails enviados pela VTEX não serão recebidos pelo endereço de email incluído na lista.
 
-> �s�️ A gestão da lista de supressão é de responsabilidade da AWS, e a VTEX não tem responsabilidade sobre a movimentação de entrada e saída de endereços na lista.
+> ⚠️ A gestão da lista de supressão é de responsabilidade da AWS, e a VTEX não tem responsabilidade sobre a movimentação de entrada e saída de endereços na lista.
 
 Caso desconfie que o seu endereço de email tenha sido bloqueado pela AWS, aguarde o período de 12 horas e tente reenviar novamente um email para o endereço bloqueado.
 
@@ -94,8 +94,4 @@ Além disso, você também pode verificar se o endereço de email está cadastra
 3. Verifique se o endereço de email não está presente nos campos __Cc:__ ou __Cco:__ do template. Caso esteja, remova a informação e clique em `Salvar`.
 4. Realize este procedimento para cada um dos cards de template da loja e realize um teste de envio de email para o endereço desejado.
 
-![copia_email_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/acesso-a-dados-e-seguranca/nao-consigo-receber-emails-da-vtex_1.png)
-
-
-
-
+![copia_email_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/acesso-a-dados-e-segurança/nao-consigo-receber-emails-da-vtex_1.png)

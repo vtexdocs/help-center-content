@@ -1,5 +1,5 @@
 ---
-title: Why don't marketplace orders integrate with my store?
+title: 'Why don't marketplace orders integrate with my store?'
 id: 275YvF8dyry5KmfY9epoET
 status: PUBLISHED
 createdAt: 2024-06-21T14:24:48.621Z
@@ -21,20 +21,20 @@ symptomFilters:
   - Sync issue
 ---
 
-When order integration errors occur between a marketplace and your store, messages are displayed on the page of each order with the error. The possible order integration errors are the following:  
+When order integration errors occur between a marketplace and your store, messages are displayed on the page of each order with the error. The possible order integration errors are the following:
 
-- Incomplete shipping information.  
-- Amount divergence.  
-- Invalid SKU ID.  
-- Unavailable inventory.  
-- Unavailable status.  
-- Carrier not registered in the ERP.  
+- Incomplete shipping information.
+- Amount divergence.
+- Invalid SKU ID.
+- Unavailable inventory.
+- Unavailable status.
+- Carrier not registered in the ERP.
 
-Check the status of order integration and messages by going to the VTEX Admin, and clicking **Marketplace > Connections > Orders** or typing **Orders** in the search bar.  
+Check the status of order integration and messages by going to the VTEX Admin, and clicking **Marketplace > Connections > Orders** or typing **Orders** in the search bar.
 
 ## Solution
 
-To understand the meaning of the error and fix it, see the table below:  
+To understand the meaning of the error and fix it, see the table below:
 
 | **Error type** | **Meaning** | **Required action** |
 |:---:|:---:|:---:|

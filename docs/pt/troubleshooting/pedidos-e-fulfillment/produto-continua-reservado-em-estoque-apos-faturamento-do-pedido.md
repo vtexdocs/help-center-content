@@ -1,5 +1,5 @@
 ---
-title: Produto continua reservado em estoque após faturamento do pedido
+title: 'Produto continua reservado em estoque após faturamento do pedido'
 id: 5kQ3sJTo7hxIjysT7f9EvD
 status: PUBLISHED
 createdAt: 2024-10-29T16:42:28.787Z
@@ -59,8 +59,3 @@ Para atualizar manualmente o saldo do inventário, siga as etapas abaixo:
 Ao atingir o status **Preparando Entrega**, é fundamental que o sistema de estoque atualize o produto, removendo-o do status de reservado e ajustando a quantidade disponível. Para isso, o ERP deve sincronizar o saldo de produtos em estoque, descontando os produtos que já estão reservados para pedidos em andamento.
 
 A configuração e integração do ERP são de responsabilidade do lojista. Esse processo pode ser automatizado através do endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-), que permite a comunicação entre o sistema ERP e o estoque da loja, garantindo que as informações estejam sempre atualizadas.
-
-
-
-
-

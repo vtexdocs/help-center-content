@@ -1,5 +1,5 @@
 ---
-title: Formularios Cliente y Dirección no existen en multitienda
+title: 'Formularios Cliente y Dirección no existen en multitienda'
 id: 46ETfuaGogKwaMau4ESAAM
 status: PUBLISHED
 createdAt: 2017-08-16T16:57:24.708Z
@@ -28,13 +28,13 @@ En Master Data v1, los formularios Cliente y Dirección solo se crean en la tien
 
 Sigue las instrucciones a continuación para cada multitienda en la que deseas crear los formularios Cliente y Dirección:
 
-1.	En el Admin VTEX, accede a **Configuración de la tienda** > **Storefront** > **Master Data**.  
+1.	En el Admin VTEX, accede a **Configuración de la tienda** > **Storefront** > **Master Data**.
 2.	Después de iniciar sesión, accede a la siguiente URL en la barra de dirección de tu navegador para realizar un request GET a la API: `{nombredelatienda}.vtexcrm.com.br/api/crm/pvt/provisioning`. Sustituye `{nombredelatienda}` por el nombre de tu tienda.
 
-  La solicitud creará los formularios en la multitienda. El resultado será una página en blanco en el navegador que corresponde a una respuesta de status **200 OK**.  
-3.	En Master Data, haz clic en `Configuración avanzada`.  
-4.	En la opción **¿Quieres limpiar el caché?**, haz clic en `Sí`.  
-5.	Haz clic en la pestaña **Aplicaciones** para volver a la página de inicio de Master Data.  
+  La solicitud creará los formularios en la multitienda. El resultado será una página en blanco en el navegador que corresponde a una respuesta de status **200 OK**.
+3.	En Master Data, haz clic en `Configuración avanzada`.
+4.	En la opción **¿Quieres limpiar el caché?**, haz clic en `Sí`.
+5.	Haz clic en la pestaña **Aplicaciones** para volver a la página de inicio de Master Data.
 6.	Haz clic en `Volver a cargar aplicaciones`.
 
 Después de completar estos pasos, los formularios Cliente y Dirección estarán disponibles en Master Data.

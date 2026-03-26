@@ -1,5 +1,5 @@
 ---
-title: Promoción no aplicada en Marketplace
+title: 'Promoción no aplicada en Marketplace'
 id: 2pxlVpzgThuw2wTEISRwA2
 status: PUBLISHED
 createdAt: 2024-08-15T11:38:33.808Z
@@ -24,7 +24,7 @@ symptomFilters:
 Al configurar promociones para marketplaces los usuarios pueden experimentar dificultades debido a ajustes incorrectos en la política comercial o en el campo de afiliados. Este artículo ofrece directrices para garantizar que la promoción se configure y aplique correctamente.
 
 ## Solución
-Para solucionar el problema de promociones que no se aplican en los marketplaces, es importante consultar la casilla de selección de la [política comercial](#seleccionar-política-comercial) y la de [afiliados](#seleccionar-afiliados). 
+Para solucionar el problema de promociones que no se aplican en los marketplaces, es importante consultar la casilla de selección de la [política comercial](#seleccionar-política-comercial) y la de [afiliados](#seleccionar-afiliados).
 
 ### Seleccionar política comercial
 La [política comercial](/es/docs/tutorials/crear-una-politica-comercial) define las reglas y condiciones de aplicación de las promociones en marketplaces. Es importante seleccionar la política comercial correcta para garantizar que la promoción se aplique según lo esperado. A continuación se indican los pasos a seguir para crear una promoción que contemple correctamente la política comercial.
@@ -39,12 +39,12 @@ La [política comercial](/es/docs/tutorials/crear-una-politica-comercial) define
 ### Seleccionar afiliados
 Para que una promoción se aplique correctamente en un marketplace es necesario seleccionar el afiliado deseado. El afiliado es el partner asociado al marketplace que disponibiliza los productos promocionales. A continuación se detallan los pasos a seguir para seleccionar correctamente un afiliado a la hora de configurar una promoción.
 
-1. Crea una [promoción regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#).  
+1. Crea una [promoción regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#).
 2. Rellena el campo **Afiliados** con el nombre del afiliado asociado al marketplace deseado.
 
    ![condições para promoção - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/integraciones-y-canales/promocion-no-aplicada-en-marketplace_2.png)
 
-3. En la sección **Política comercial**, selecciona las opciones `igual a` y **Entregado por mí (Otras tiendas)**.  
+3. En la sección **Política comercial**, selecciona las opciones `igual a` y **Entregado por mí (Otras tiendas)**.
 4. Haz clic en `Guardar`.
 
 > ℹ️ Comprueba que no hayas creado ningún filtro adicional, como medios de pago, filtros de clúster o restricciones y limitaciones de uso en el carrito.

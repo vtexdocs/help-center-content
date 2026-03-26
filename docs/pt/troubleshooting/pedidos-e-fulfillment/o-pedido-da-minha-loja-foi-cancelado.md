@@ -1,5 +1,5 @@
 ---
-title: O pedido da minha loja foi cancelado
+title: 'O pedido da minha loja foi cancelado'
 id: 6qOCSBno1vS9TmHWWveOc
 status: PUBLISHED
 createdAt: 2025-02-04T13:04:34.645Z
@@ -46,7 +46,7 @@ No módulo **Pedidos** do Admin VTEX, é possível analisar a origem do cancelam
 Para ver as interações de um pedido, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Pedidos > Todos os pedidos**, ou digite **Todos os pedidos** na barra de busca no topo da página.
-2. Busque pelo pedido utilizando a barra de busca e filtros disponíveis em **Todos os pedidos**. 
+2. Busque pelo pedido utilizando a barra de busca e filtros disponíveis em **Todos os pedidos**.
 3. Clique no pedido desejado, acessando a [Página de detalhes do pedido](/pt/docs/tutorials/pagina-de-detalhes-do-pedido).
 4. Na seção **Histórico do pedido**, clique em `Ver interações`.
 
@@ -64,8 +64,4 @@ Além disso, o cliente pode solicitar o cancelamento do pedido para a loja enqua
 
 Todas as alterações no pedido podem ser visualizadas na [Página de detalhes do pedido](/pt/docs/tutorials/pagina-de-detalhes-do-pedido).
 
-> �s�️  Para pedidos com origem em um marketplace, mas que foram cancelados pela loja, a integração não notifica automaticamente o marketplace sobre o cancelamento. Nesses casos, **é necessário cancelar manualmente o pedido diretamente na interface do marketplace**.
-
-
-
-
+> ⚠️ Para pedidos com origem em um marketplace, mas que foram cancelados pela loja, a integração não notifica automaticamente o marketplace sobre o cancelamento. Nesses casos, **é necessário cancelar manualmente o pedido diretamente na interface do marketplace**.

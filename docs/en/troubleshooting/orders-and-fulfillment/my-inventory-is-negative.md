@@ -1,5 +1,5 @@
 ---
-title: My inventory is negative
+title: 'My inventory is negative'
 id: JSFHaWsASXbnrX9dgNEeP
 status: PUBLISHED
 createdAt: 2024-06-10T11:08:39.990Z

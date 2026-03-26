@@ -1,5 +1,5 @@
 ---
-title: My store order was not created
+title: 'My store order was not created'
 id: 7xQZqkMHXkHCEEZl5UlX8I
 status: PUBLISHED
 createdAt: 2024-07-18T20:10:20.933Z

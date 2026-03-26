@@ -1,5 +1,5 @@
 ---
-title: El producto continúa reservado tras la facturación del pedido
+title: 'El producto continúa reservado tras la facturación del pedido'
 id: 5kQ3sJTo7hxIjysT7f9EvD
 status: PUBLISHED
 createdAt: 2024-10-29T16:42:28.787Z

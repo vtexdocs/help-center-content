@@ -1,5 +1,5 @@
 ---
-title: No logro actualizar el EAN de mis SKU vía API
+title: 'No logro actualizar el EAN de mis SKU vía API'
 id: 1gHfGo3TpSTHqb5ZNzwq3m
 status: PUBLISHED
 createdAt: 2024-06-18T16:50:42.770Z
@@ -28,7 +28,7 @@ Para resolver este problema, considera [eliminar el EAN del SKU](#eliminar-ean-d
 
 ### Eliminar EAN del SKU
 
-Para actualizar el EAN del SKU actual, primero debes eliminar todos los EAN asociados al SKU. 
+Para actualizar el EAN del SKU actual, primero debes eliminar todos los EAN asociados al SKU.
 
 - [Delete SKU EAN](https://developers.vtex.com/docs/api-reference/catalog-api#delete-/api/catalog/pvt/stockkeepingunit/-skuId-/ean/-ean-): utiliza el endpoint para eliminar un EAN específico.
 - [Delete all SKU EAN values](https://developers.vtex.com/docs/api-reference/catalog-api#delete-/api/catalog/pvt/stockkeepingunit/-skuId-/ean): utiliza el endpoint para eliminar todos los EAN asociados al SKU.

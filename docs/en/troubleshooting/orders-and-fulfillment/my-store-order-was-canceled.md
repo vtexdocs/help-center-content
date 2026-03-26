@@ -1,5 +1,5 @@
 ---
-title: My store order was canceled
+title: 'My store order was canceled'
 id: 6qOCSBno1vS9TmHWWveOc
 status: PUBLISHED
 createdAt: 2025-02-04T13:04:34.645Z

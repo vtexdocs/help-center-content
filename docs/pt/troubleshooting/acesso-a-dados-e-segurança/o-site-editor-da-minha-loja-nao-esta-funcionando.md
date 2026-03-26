@@ -1,5 +1,5 @@
 ---
-title: O Site Editor da minha loja não está funcionando
+title: 'O Site Editor da minha loja não está funcionando'
 id: 3A6Ois91zEZ8zpKJp1wsP2
 status: PUBLISHED
 createdAt: 2024-08-26T16:52:35.556Z
@@ -36,9 +36,9 @@ Para entender e corrigir cada erro, consulte as soluções abaixo:
 
 ## O Site Editor não abre
 
-�? possível que o seguinte erro ocorra: ao acessar o VTEX Admin, ir para **Storefront** e clicar em **Site Editor**, a página do Site Editor mostra uma tela em branco ou a mensagem `Algo deu errado`.
+É possível que o seguinte erro ocorra: ao acessar o VTEX Admin, ir para **Storefront** e clicar em **Site Editor**, a página do Site Editor mostra uma tela em branco ou a mensagem `Algo deu errado`.
 
-![Site Editor - Something went wrong PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/acesso-a-dados-e-seguranca/o-site-editor-da-minha-loja-nao-esta-funcionando_1.png)
+![Site Editor - Something went wrong PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/acesso-a-dados-e-segurança/o-site-editor-da-minha-loja-nao-esta-funcionando_1.png)
 
 Para solucionar esse erro, veja as instruções a seguir:
 
@@ -52,7 +52,7 @@ Esse problema pode estar relacionado ao fato de a busca do [Intelligent Search](
 1. No VTEX Admin, acesse **Configurações da loja > Intelligent Search > Integrações**.
 2. Na página **Integrações**, todos os status devem estar ticados, como na imagem a seguir. 
 
-    ![Site Editor - IS integrations PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/acesso-a-dados-e-seguranca/o-site-editor-da-minha-loja-nao-esta-funcionando_2.png)
+    ![Site Editor - IS integrations PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/acesso-a-dados-e-segurança/o-site-editor-da-minha-loja-nao-esta-funcionando_2.png)
 
 3. Se todos os status estiverem ticados e ainda não for possível abrir o Site Editor, consulte a seção [Verificar a configuração do tenant](#verificar-a-configuracao-do-tenant-apenas-novas-contas). Caso contrário, prossiga para o próximo passo.
 4. Se a página Integrações estiver diferente da imagem acima, veja a seguir os possíveis motivos e como solucioná-los:
@@ -83,7 +83,7 @@ Para solucionar esse erro, veja as instruções a seguir:
 
 ### Verificar se o perfil de acesso do usuário tem as permissões necessárias
 
-Um possível motivo para esse problema pode estar relacionado à falta do [recurso](/pt/docs/tutorials/recursos-do-license-manager) `CMS GraphQL API` do License Manager em um [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) para gerenciamento de conteúdo. 
+Um possível motivo para esse problema pode estar relacionado à falta do [recurso](/pt/docs/tutorials/recursos-do-license-manager) `CMS GraphQL API` do License Manager em um [perfil de acesso](/pt/docs/tutorials/perfis-de-acesso) para gerenciamento de conteúdo.
 
 Certifique-se de que os usuários tenham o recurso `CMS GraphQL API` associado a seus perfis de acesso, seja [criando um novo perfil](/pt/docs/tutorials/perfis-de-acesso#creating-a-role) ou editando um existente.
 
@@ -111,12 +111,12 @@ Outro possível motivo para esse erro está relacionado à localidade configurad
     ```
 5. Verifique qual a localidade principal definida para sua loja. Essa informação está disponível no campo `defaultLocale`. Veja o exemplo abaixo.
 
-    ![graphql-default-locale-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/acesso-a-dados-e-seguranca/o-site-editor-da-minha-loja-nao-esta-funcionando_3.png)
+    ![graphql-default-locale-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/acesso-a-dados-e-segurança/o-site-editor-da-minha-loja-nao-esta-funcionando_3.png)
 
 6. Agora, acesse **Configurações da loja > Canais > Políticas comerciais**.
 7. Na página **Políticas comerciais**, selecione a política comercial associada à sua conta e verifique o campo **Localidade**.
 
-    ![Site Editor - Locale PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/acesso-a-dados-e-seguranca/o-site-editor-da-minha-loja-nao-esta-funcionando_4.png)
+    ![Site Editor - Locale PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/acesso-a-dados-e-segurança/o-site-editor-da-minha-loja-nao-esta-funcionando_4.png)
 
   A localidade é considerada incorreta nos seguintes casos:
     - A localidade é diferente do que a conta deveria usar. Por exemplo, a localidade está configurada como `pt-BR`, mas deveria ser `pt-PT`.
@@ -129,11 +129,11 @@ Outro possível motivo para esse erro está relacionado à localidade configurad
 
 Abra um ticket para o time de [Suporte VTEX](https://supporticket.vtex.com/support) para investigar o problema mais a fundo.
 
-Para evitar a perda de conteúdo armazenado no Site Editor ao alterar as dependências de pares do aplicativo Store Theme, siga os passos no guia [Migrating CMS settings after a major theme update](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-cms-settings-after-major-update). 
+Para evitar a perda de conteúdo armazenado no Site Editor ao alterar as dependências de pares do aplicativo Store Theme, siga os passos no guia [Migrating CMS settings after a major theme update](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-cms-settings-after-major-update).
 
-> �s�️  Nos casos em que o conteúdo armazenado no Site Editor for perdido,a restauração é possível apenas se a perda estiver relacionada ao problema conhecido de [Perda intermitente de conteúdo do Site Editor](/pt/known-issues/perda-intermitente-de-conteudo-do-site-editor--3a5MlAoD2Z7Gu6HDS8wihD). Nessa situação, abra um ticket para o [Suporte VTEX](https://supporticket.vtex.com/support) com a prioridade `urgente`. 
+> ⚠️ Nos casos em que o conteúdo armazenado no Site Editor for perdido,a restauração é possível apenas se a perda estiver relacionada ao problema conhecido de [Perda intermitente de conteúdo do Site Editor](/pt/known-issues/perda-intermitente-de-conteudo-do-site-editor--3a5MlAoD2Z7Gu6HDS8wihD). Nessa situação, abra um ticket para o [Suporte VTEX](https://supporticket.vtex.com/support) com a prioridade `urgente`.
 
-## Continuo tendo problemas com o Site Editor 
+## Continuo tendo problemas com o Site Editor
 
 Se você já tentou as soluções mencionadas acima e ainda enfrenta problemas com o Site Editor, abra um ticket para o [Suporte VTEX](https://supporticket.vtex.com/support), incluindo evidências dos problemas encontrados:
 
@@ -143,7 +143,3 @@ Se você já tentou as soluções mencionadas acima e ainda enfrenta problemas c
 - Capturas de tela do problema.
 - Data e hora em que o problema começou.
 - Testes que você já realizou e as etapas para reproduzi-los.
-
-
-
-

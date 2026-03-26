@@ -1,5 +1,5 @@
 ---
-title: El pedido se dividió en paquetes con envíos separados
+title: 'El pedido se dividió en paquetes con envíos separados'
 id: 3OCOC82543vOsc3Ex32XTY
 status: PUBLISHED
 createdAt: 2024-06-19T15:03:37.373Z

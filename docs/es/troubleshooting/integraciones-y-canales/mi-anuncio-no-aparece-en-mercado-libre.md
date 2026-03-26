@@ -1,5 +1,5 @@
 ---
-title: Mi anuncio no aparece en Mercado Libre
+title: 'Mi anuncio no aparece en Mercado Libre'
 id: 2UpudfowEvG97e2lstj4qc
 status: PUBLISHED
 createdAt: 2024-06-13T16:38:00.931Z
@@ -44,9 +44,7 @@ Para comprobar que la política comercial esté configurada correctamente en el 
 
  5. Haz clic en el botón `Guardar`.
 
-<div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Si tu tienda utiliza el [nuevo Admin VTEX](/es/announcements/2022-06-13-bienvenido-al-nuevo-admin-vtex), consulta el artículo [Productos y SKUs](/es/docs/tutorials/productos-y-skus) para más información sobre cómo ver y gestionar el catálogo, incluyendo la configuración de las políticas comerciales.
-</div>
+> ℹ️ Si tu tienda utiliza el [nuevo Admin VTEX](/es/announcements/2022-06-13-bienvenido-al-nuevo-admin-vtex), consulta el artículo [Productos y SKUs](/es/docs/tutorials/productos-y-skus) para más información sobre cómo ver y gestionar el catálogo, incluyendo la configuración de las políticas comerciales.
 
 ### Verificar stock mínimo
 
@@ -60,6 +58,4 @@ Para comprobar la configuración del stock mínimo, accede a Marketplace > Conex
 
  4. Asegúrate de que este campo esté configurado correctamente según se explica en el artículo [Control de stock mínimo para integraciones](/es/docs/tutorials/control-de-stock-minimo-para-integraciones).
 
-<div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Si las soluciones propuestas no resuelven el problema, abre un ticket con el [soporte VTEX](https://supporticket.vtex.com/support).
-</div>
+> ℹ️ Si las soluciones propuestas no resuelven el problema, abre un ticket con el [soporte VTEX](https://supporticket.vtex.com/support).
