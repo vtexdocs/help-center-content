@@ -7,7 +7,7 @@ publishedAt: 2026-03-27T18:30:00.000Z
 contentType: updates
 productTeam: Weni
 author: 4JJllZ4I71DHhIOaLOE3nz
-slugPT: 2026-03-26-weni-mudanças-na-plataforma
+slugPT: 2026-03-26-weni-by-vtex-mudancas-na-plataforma
 locale: pt
 announcementSynopsisPT: 'A plataforma da Weni by VTEX está com um novo visual e os nomes dos módulos também mudaram.'
 tags:
