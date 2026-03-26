@@ -17,8 +17,6 @@ order: 15
 
 Na etapa de pagamento do VTEX Sales App, aparecerão as [opções de pagamento que foram configuradas](/pt/tracks/instore-payments--43B4Nr7uZva5UdwWEt3PEy) na sua loja.
 
-![instore-payment-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-sales-app-usando-o-app/pagamento_1.jpg)
-
 A barra superior da tela de pagamento exibe as opções a seguir:
 
 - __Compartilhar:__ compartilhar um link de pagamento com o cliente.
