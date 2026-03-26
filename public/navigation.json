@@ -15431,21 +15431,6 @@
           "children": [
             {
               "name": {
-                "en": "My order was closed with the wrong price",
-                "es": "Pedido finalizado con precio incorrecto",
-                "pt": "Meu pedido foi fechado com o preço errado"
-              },
-              "slug": {
-                "en": "my-order-was-closed-with-the-wrong-price",
-                "es": "pedido-finalizado-con-precio-incorrecto",
-                "pt": "meu-pedido-foi-fechado-com-o-preco-errado"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "My store order was not created",
                 "es": "No se ha creado el pedido de mi tienda",
                 "pt": "O pedido da minha loja não foi criado"
@@ -15651,6 +15636,21 @@
                 "en": "my-ad-is-not-displayed-on-mercado-livre",
                 "es": "mi-anuncio-no-aparece-en-mercado-libre",
                 "pt": "meu-anuncio-nao-e-exibido-no-mercado-livre"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "My order was closed with the wrong price",
+                "es": "Pedido finalizado con precio incorrecto",
+                "pt": "Meu pedido foi fechado com o preço errado"
+              },
+              "slug": {
+                "en": "my-order-was-closed-with-the-wrong-price",
+                "es": "pedido-finalizado-con-precio-incorrecto",
+                "pt": "meu-pedido-foi-fechado-com-o-preco-errado"
               },
               "origin": "",
               "type": "markdown",
