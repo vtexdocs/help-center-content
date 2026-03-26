@@ -4,13 +4,13 @@ createdAt: '2025-03-09T10:00:00.000Z'
 updatedAt: '2025-03-26T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
-slugEN: organization-account
+slugEN: conta-da-organizacao
 locale: pt
 ---
 
 > ⚠️ Esta funcionalidade está disponível apenas para lojas que usam B2B Buyer Portal, atualmente disponível para contas selecionadas.
 
-A **Organization Account** é a interface onde administradores de organizações compradoras gerenciam a estrutura e as configurações de compra utilizadas em uma dada loja B2B.
+A **Conta da Organização** é a interface onde administradores de organizações compradoras gerenciam a estrutura e as configurações de compra utilizadas em uma dada loja B2B.
 
 Nessa área empresas podem configurar elementos que controlam como seus usuários realizam compras, incluindo:
 
@@ -25,8 +25,8 @@ Essas configurações ajudam empresas a estabelecer governança e regras interna
 
 Este artigo aborda:
 
-- [Acessando a Organization Account](#acessando-a-organization-account)
-- [Estrutura da Organization Account](#estrutura-da-organization-account)
+- [Acessando a Conta da Organização](#acessando-a-conta-da-organizacao)
+- [Estrutura da Conta da Organização](#estrutura-da-conta-da-organizacao)
   - [Informações do contrato](#informacoes-do-contrato)
   - [Organization](#organization)
   - [Finance and Compliance](#finance-and-compliance)
@@ -34,18 +34,18 @@ Este artigo aborda:
   - [Voltar para a loja](#voltar-para-a-loja)
 - [Saiba mais](#saiba-mais)
 
-## Acessando a Organization Account
+## Acessando a Conta da Organização
 
 1. Faça login na loja.
 2. No canto superior direito, clique em **Company.**
 3. A barra lateral será exibida com informações da conta e da **Organizational Unit.**
 4. Clique em **Manage.**
 
-Após isso, o usuário será direcionado para a página principal da **Organization Account,** onde é possível gerenciar as configurações da organização.
+Após isso, o usuário será direcionado para a página principal da **Conta da Organização,** onde é possível gerenciar as configurações da organização.
 
-## Estrutura da Organization Account
+## Estrutura da Conta da Organização
 
-A página principal da **Organization Account** é dividida em três áreas principais, além de outras ações que podem ser realizadas nesta tela.
+A página principal da **Conta da Organização** é dividida em três áreas principais, além de outras ações que podem ser realizadas nesta tela.
 
 ### Informações do contrato
 
@@ -97,9 +97,9 @@ Ao clicar nesse botão, será exibido um menu com opções para criar diferentes
 
 No canto superior direito da página existe a opção **Start shopping**. Ao clicar nela, o usuário será redirecionado para a **storefront da loja**, onde os usuários podem navegar no catálogo e realizar pedidos.
 
-## Tarefas na **Organization Account**
+## Tarefas na **Conta da Organização**
 
-Confira nos artigos abaixo mais detalhes sobre as diversas tarefas que podem ser realizadas na interface da **Organization Account.**
+Confira nos artigos abaixo mais detalhes sobre as diversas tarefas que podem ser realizadas na interface da **Conta da Organização.**
 
 - [Adicionar usuários à organização compradora](https://help.vtex.com/pt/docs/tutorials/adicionar-usuarios-a-organizacao-compradora)
 - [Adicionar ou editar budgets](https://help.vtex.com/pt/docs/tutorials/adicionar-ou-editar-budgets)
