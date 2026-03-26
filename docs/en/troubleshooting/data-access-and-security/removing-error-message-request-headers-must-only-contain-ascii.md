@@ -1,7 +1,6 @@
 ---
-title: >-
-  How to remove the error message "Request headers must only contain ASCII
-  characters"
+title: 'How to remove the error message "Request headers must only contain ASCII
+  characters"'
 id: 19psKZvLXrBqqK1bPaTIHG
 status: PUBLISHED
 createdAt: 2024-07-25T16:54:41.663Z
@@ -44,7 +43,7 @@ On the page where the message "__Request headers must contain only ASCII charact
 
 1. Access [DevTools](/en/docs/tutorials/products-and-skus) in your browser by pressing **F12** or by right-clicking and choosing the **Inspect** option.
 
-  2. In the top bar of the screen, go to the **Network** tab and sort the requests by clicking **Status**. The **400** information in the status indicates that a request has not been processed correctly, and there may be incorrect cookies among the possible errors. 
+  2. In the top bar of the screen, go to the **Network** tab and sort the requests by clicking **Status**. The **400** information in the status indicates that a request has not been processed correctly, and there may be incorrect cookies among the possible errors.
 
 ![ascii 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/data-access-and-security/removing-error-message-request-headers-must-only-contain-ascii_2.png)
 
@@ -54,13 +53,13 @@ On the page where the message "__Request headers must contain only ASCII charact
 
 4. Click the **Headers** tab and copy the cookie details.
 
-![ascii 4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/data-access-and-security/removing-error-message-request-headers-must-only-contain-ascii_4.png) 
+![ascii 4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/data-access-and-security/removing-error-message-request-headers-must-only-contain-ascii_4.png)
 
-5. Go to [online ASCII character validator](https://pages.cs.wisc.edu/~markm/ascii.html) and enter the cookie information. If one or more special characters are identified, the types and positions will be displayed at the bottom of the character validator.    
+5. Go to [online ASCII character validator](https://pages.cs.wisc.edu/~markm/ascii.html) and enter the cookie information. If one or more special characters are identified, the types and positions will be displayed at the bottom of the character validator.
 
-![ascii 5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/data-access-and-security/removing-error-message-request-headers-must-only-contain-ascii_5.png)  
+![ascii 5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/data-access-and-security/removing-error-message-request-headers-must-only-contain-ascii_5.png)
 
-6. Repeat steps 3 to 5 with all the requests that have errors to identify which of them contain cookies with special characters.     
+6. Repeat steps 3 to 5 with all the requests that have errors to identify which of them contain cookies with special characters.
 
 ### Disabling cookies with special characters
 
@@ -82,12 +81,12 @@ To solve this problem and allow all users to have the correct access to the stor
 
 The script must set the cookie to expire on an old date (a date before the script was created). See the example below:
 
-`document.cookie = "cookiename= ; expires = Thu, 01 Jan 1970 00:00:00 GMT"`  
+`document.cookie = "cookiename= ; expires = Thu, 01 Jan 1970 00:00:00 GMT"`
 
 If you want, you can also include the following functions in the script:
 - Intercept cookie values upon page request
 - Validate ASCII characters in cookies
 - Automatically expire cookies containing special characters
-- Trigger page reload using the function `window.location.reload()`  
+- Trigger page reload using the function `window.location.reload()`
 
 > ⚠️ Deleting cookies via script is not a permanent solution. As described in the **Disabling cookies with special characters** section, you must identify the source and stop sending cookies with special characters.

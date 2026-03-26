@@ -1,5 +1,5 @@
 ---
-title: No puedo ver las métricas en el dashboard de pedidos
+title: 'No puedo ver las métricas en el dashboard de pedidos'
 id: 1B5OAicmK3AvnwPzs4iq7Z
 status: PUBLISHED
 createdAt: 2024-06-10T11:28:08.507Z

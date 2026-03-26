@@ -1,5 +1,5 @@
 ---
-title: Error installing custom SSL certificates
+title: 'Error installing custom SSL certificates'
 id: 6hgFzbcc96mcrqXZMmHCTr
 status: PUBLISHED
 createdAt: 2025-02-28T14:55:08.515Z

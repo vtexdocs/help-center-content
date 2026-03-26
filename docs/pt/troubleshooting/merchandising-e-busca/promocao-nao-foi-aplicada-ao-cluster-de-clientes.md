@@ -1,5 +1,5 @@
 ---
-title: Promoção não foi aplicada ao cluster de clientes
+title: 'Promoção não foi aplicada ao cluster de clientes'
 id: 1fQEKdmWwIAPfDQAbuP3Kr
 status: PUBLISHED
 createdAt: 2025-02-28T18:00:30.100Z
@@ -38,15 +38,15 @@ Para identificar se um cluster de clientes está associado a uma promoção, sig
 
 3. Na seção **Quais as condições para a promoção ser válida?**, verifique se a opção **Cluster de clientes** está marcada e se o campo está preenchido com o [valor correto do respectivo cluster](/pt/docs/tutorials/criando-promocao-para-um-cluster-de-clientes#como-preencher-o-campo-cluster-de-clientes).
 
-![Cluster_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/merchandising-e-busca/promocao-nao-foi-aplicada-ao-cluster-de-clientes_1.png) 
+![Cluster_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/merchandising-e-busca/promocao-nao-foi-aplicada-ao-cluster-de-clientes_1.png)
 
-> �s�️ O valor cadastrado no campo deve ser exatamente igual ao valor anteriormente atribuído ao cluster de cliente, pois o sistema interpreta diferenças entre letras maiusculas e minúsculas (case sensitive). Por exemplo, se o valor adotado para um determinado identificador do cluster é `funcionario=true` e na promoção for cadastrado `Funcionario=true` ou `funcionario=True`, a promoção não será exibida para os usuários daquele cluster.
+> ⚠️ O valor cadastrado no campo deve ser exatamente igual ao valor anteriormente atribuído ao cluster de cliente, pois o sistema interpreta diferenças entre letras maiusculas e minúsculas (case sensitive). Por exemplo, se o valor adotado para um determinado identificador do cluster é `funcionario=true` e na promoção for cadastrado `Funcionario=true` ou `funcionario=True`, a promoção não será exibida para os usuários daquele cluster.
 
 4. Caso necessário, adicione ou modifique o valor referente ao cluster desejado.
 
 5. Clique em `Salvar`.
 
-> �"�️ Para garantir que uma mesma promoção seja aplicada simultaneamente a clusters de clientes que possuem valores diferentes cadastrados, é necessário selecionar a condição **Pelo menos um dos seguintes** e configurar todos os valores dos clusters na promoção.
+> ℹ️ Para garantir que uma mesma promoção seja aplicada simultaneamente a clusters de clientes que possuem valores diferentes cadastrados, é necessário selecionar a condição **Pelo menos um dos seguintes** e configurar todos os valores dos clusters na promoção.
 
 ### Verificar valor atribuído no perfil do cliente
 
@@ -61,7 +61,3 @@ Para resolver este caso, você poderia realizar uma das seguintes ações:
 - Manter a opção __Cluster de clientes__ com a condição __Todos os seguintes__ e atualizar os cadastros dos clientes desejados por meio do [Master Data](/pt/docs/tutorials/master-data) para incluir ambos os critérios: ser __funcionário__ e estar classificado na categoria __platinum__.
 
 - Manter a opção __Cluster de clientes__ com a condição __Todos os seguintes__ e declarar outros valores que estejam atualmente presentes nos clientes aos quais deseja exibir a promoção.
-
-
-
-

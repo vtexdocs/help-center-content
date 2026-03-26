@@ -1,5 +1,5 @@
 ---
-title: Error when trying to import SKUs via spreadsheet in the VTEX Admin
+title: 'Error when trying to import SKUs via spreadsheet in the VTEX Admin'
 id: 1TDF87s7P1UJT1hNDGZsuk
 status: PUBLISHED
 createdAt: 2024-07-01T15:07:50.982Z
@@ -27,7 +27,7 @@ If you get the message `"An error occurred in the data writing process. Make sur
 - [Incomplete mandatory SKU specifications.](/en/docs/tracks/specifications-concept-definition)
 - Incorrect file formatting.
 
-## Solution 
+## Solution
 
 You can solve this problem by:
 

@@ -1,5 +1,5 @@
 ---
-title: I can't view a page in the Admin
+title: "I can't view a page in the Admin"
 id: 3U8TJMlAqHIM5Qs8rLwkwQ
 status: PUBLISHED
 createdAt: 2024-11-28T14:27:44.578Z
@@ -21,7 +21,7 @@ symptomFilters:
   - Loading issue
 ---
 
-When using the Admin, some users may experience *Error 403 - We're sorry, but you do not have access to this page* or a page loading continuously.  
+When using the Admin, some users may experience *Error 403 - We're sorry, but you do not have access to this page* or a page loading continuously.
 
 These issues usually occur due to conflicts between admin user [roles](/en/docs/tutorials/roles) or specific browser settings.
 
@@ -36,8 +36,8 @@ Here are a few approaches to address these issues:
 
 Follow the steps below to solve the issue:
 
-1. In the top bar of the VTEX Admin, click your **profile avatar** — indicated by the first letter of your email — and then click **Account Settings > Users**.  
-2. Click the user you want to view.  
+1. In the top bar of the VTEX Admin, click your **profile avatar** — indicated by the first letter of your email — and then click **Account Settings > Users**.
+2. Click the user you want to view.
 3. Check the user roles:
 
    * If the role isn't compatible with the page the user is trying to access, the expected response is *Error 403*.

@@ -1,5 +1,5 @@
 ---
-title: Problemas con Site Editor en mi tienda
+title: 'Problemas con Site Editor en mi tienda'
 id: 3A6Ois91zEZ8zpKJp1wsP2
 status: PUBLISHED
 createdAt: 2024-08-26T16:52:35.556Z
@@ -50,7 +50,7 @@ Para solucionarlo, consulta las instrucciones a continuación:
 El error puede deberse a que [Intelligent Search](/es/docs/tracks/vision-general-intelligent-search) no está integrado con el catálogo de tu tienda. Sigue los pasos a continuación para integrarlo correctamente:
 
 1. En el Admin VTEX, accede a **Configuración de la tienda > Intelligent Search > Integraciones**.
-2. En la página **Integraciones**, comprueba que todos los status estén verificados, como en la imagen a continuación. 
+2. En la página **Integraciones**, comprueba que todos los status estén verificados, como en la imagen a continuación.
 
     ![Site Editor - IS integrations PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/acceso-a-datos-y-seguridad/problemas-con-site-editor-en-mi-tienda_2.png)
 
@@ -61,7 +61,7 @@ El error puede deberse a que [Intelligent Search](/es/docs/tracks/vision-general
 
 ### Comprueba la configuración del inquilino (solo cuentas nuevas)
 
-Si ya realizaste la [integración de la búsqueda](#comprobar-integracion-de-la-busqueda) y continúas viendo una pantalla en blanco cuando haces clic en **Site Editor** en el Admin VTEX, es posible que la tienda no tenga configurado el inquilino o haya un error en esta configuración. 
+Si ya realizaste la [integración de la búsqueda](#comprobar-integracion-de-la-busqueda) y continúas viendo una pantalla en blanco cuando haces clic en **Site Editor** en el Admin VTEX, es posible que la tienda no tenga configurado el inquilino o haya un error en esta configuración.
 
 VTEX utiliza un enfoque de arquitectura [SaaS multiinquilino](https://developers.vtex.com/docs/guides/cloud-infrastructure#saas-multi-tenancy), en el cual cada cuenta funciona como un inquilino que debe estar conectado (vinculado) a la infraestructura de VTEX para garantizar la sincronización de datos e información.
 
@@ -83,7 +83,7 @@ Para solucionarlo, consulta las instrucciones a continuación:
 
 ### Comprueba si el rol de usuario tiene los permisos necesarios
 
-Una posible causa de este problema podría estar relacionada con la falta del [recurso](/es/docs/tutorials/recursos-del-license-manager) `CMS GraphQL API` de License Manager para el [rol de usuario](/es/docs/tutorials/roles) asignado a la gestión de contenido. 
+Una posible causa de este problema podría estar relacionada con la falta del [recurso](/es/docs/tutorials/recursos-del-license-manager) `CMS GraphQL API` de License Manager para el [rol de usuario](/es/docs/tutorials/roles) asignado a la gestión de contenido.
 
 Asegúrate de que el recurso `CMS GraphQL API` esté asociado con el rol de usuario correspondiente, ya sea [creando un nuevo rol](/es/docs/tutorials/roles#creating-a-role) o editando uno existente.
 
@@ -130,11 +130,11 @@ Otra posible causa de este error está relacionada con la configuración de la r
 
 Abre un ticket con el [soporte VTEX](https://supporticket.vtex.com/support) para investigar el problema más a fondo.
 
-Para evitar perder el contenido almacenado en Site Editor al cambiar las dependencias de pares de la aplicación Store Theme, sigue los pasos de la guía [Migrating CMS settings after a major theme update](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-cms-settings-after-major-update). 
+Para evitar perder el contenido almacenado en Site Editor al cambiar las dependencias de pares de la aplicación Store Theme, sigue los pasos de la guía [Migrating CMS settings after a major theme update](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-cms-settings-after-major-update).
 
-> ⚠️  En los casos en que se pierda el contenido almacenado en Site Editor, la restauración solo es posible si la pérdida está relacionada con el problema [pérdida intermitente de contenido en Site Editor](/es/known-issues/perda-intermitente-de-conteudo-do-site-editor--3a5MlAoD2Z7Gu6HDS8wihD). Ante esta situación, abre un ticket con el [Soporte VTEX](https://supporticket.vtex.com/support) con prioridad `urgente`. 
+> ⚠️  En los casos en que se pierda el contenido almacenado en Site Editor, la restauración solo es posible si la pérdida está relacionada con el problema [pérdida intermitente de contenido en Site Editor](/es/known-issues/perda-intermitente-de-conteudo-do-site-editor--3a5MlAoD2Z7Gu6HDS8wihD). Ante esta situación, abre un ticket con el [Soporte VTEX](https://supporticket.vtex.com/support) con prioridad `urgente`.
 
-## Continúo experimentando problemas con Site Editor 
+## Continúo experimentando problemas con Site Editor
 
 Si tras intentar implementar las soluciones mencionadas anteriormente continúas experimentando problemas con Site Editor, abre un ticket con el [Soporte Vtex](https://supporticket.vtex.com/support), incluyendo pruebas de los problemas encontrados:
 

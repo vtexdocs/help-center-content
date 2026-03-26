@@ -1,5 +1,5 @@
 ---
-title: No logro indexar un producto del catálogo
+title: 'No logro indexar un producto del catálogo'
 id: 5ZKLTqnCyGbWEYGPTCBIxI
 status: PUBLISHED
 createdAt: 2024-09-06T13:35:52.255Z
@@ -38,10 +38,10 @@ En ciertas situaciones, la indexación es interrumpida y no se muestra la inform
 - Falta de una política comercial asociada al producto en el binding de la tienda
 - Tiempo límite de indexación (40 segundos) alcanzado cuando el checkout recibe muchos requests de información durante la indexación. La cantidad de requests puede variar dependiendo de los siguientes factores asociados al producto:
 
-   - Cantidad de políticas comerciales  
-   - Cantidad de SKUs  
-   - Cantidad de regiones geográficas  
-   - Cantidad de colecciones  
+   - Cantidad de políticas comerciales
+   - Cantidad de SKUs
+   - Cantidad de regiones geográficas
+   - Cantidad de colecciones
    - Cantidad de sellers
 
 ## Soluciones
@@ -59,13 +59,13 @@ Para corregir los problemas que impiden indexar correctamente un producto en la 
 
 Los errores en el registro de un producto pueden generar inconsistencias al reindexarlo.
 
-1. En el Admin VTEX, accede a **Catálogo > Todos los productos**.  
+1. En el Admin VTEX, accede a **Catálogo > Todos los productos**.
 
    > ⚠️ Las tiendas que utilizan la página **Produtos y SKUS (Beta)** deben verificar los campos de registro de productos accediendo a **Catálogo > Produtos y SKUS** en el Admin VTEX. Más información en [Produtos y SKUS (Beta)](/es/docs/tutorials/productos-y-skus).
 
-2. Ubica el producto que deseas y haz clic en **Modificar**.  
+2. Ubica el producto que deseas y haz clic en **Modificar**.
 
-3. Comprueba que la información de todos los [campos de cadastro](/es/docs/tutorials/agregar-o-editar-productos) esté correcta. De ser necesario, actualiza la información y haz clic en Guardar.  
+3. Comprueba que la información de todos los [campos de cadastro](/es/docs/tutorials/agregar-o-editar-productos) esté correcta. De ser necesario, actualiza la información y haz clic en Guardar.
 
 4. Accede al informe de indexación en **Catálogo > Informes** y comprueba que el producto esté en la cola de indexación o que ya haya sido indexado.
 
@@ -81,7 +81,7 @@ Cuando un producto tiene varias políticas comerciales asociadas, las iteracione
 
 Ejemplo: si un producto tiene 5 SKUs activos en 5 políticas comerciales diferentes, deben realizarse 25 validaciones de disponibilidad de stock, reglas de precios y promociones.
 
-Para evitar este escenario, verifica si existe la posibilidad de utilizar una misma política comercial para distintos marketplaces, según se describe en [Configurar política comercial para marketplace](/es/docs/tutorials/configurar-politica-comercial-para-marketplace).  
+Para evitar este escenario, verifica si existe la posibilidad de utilizar una misma política comercial para distintos marketplaces, según se describe en [Configurar política comercial para marketplace](/es/docs/tutorials/configurar-politica-comercial-para-marketplace).
 
 > ⚠️ Si es posible reducir el número de políticas comerciales de tu tienda, vuelve a acceder al registro del producto para cambiar la política comercial y verifica el informe de indexación, según se describe en [Verificar los campos de registro del producto](https://docs.google.com/document/d/1EJY1pNrzyNDLY9jIKwxoVM7H-a_MiY5gwRBWcA7kKrQ/edit#heading=h.thoceo5ljuhz).
 
@@ -93,9 +93,9 @@ Ejemplo: si el producto "Camisa" tiene seis SKUs (Amarillo P, Amarillo M, Amaril
 
 Después de reorganizar la cantidad de SKUs por productos, verifica el informe de indexación, según se describe en la sección [Verificar los campos de registro del producto](#verificar-los-campos-de-registro-del-producto).
 
-### Remover SKUs de colecciones 
+### Remover SKUs de colecciones
 
-> ℹ️ Hay dos maneras de remover un SKU de una colección: a través de [CMS - Portal Legado](/es/docs/tracks/cms-portal-legado) o en el módulo **Colecciones (Beta)**. Esta sección describe cómo remover un SKU de una colección mediante **CMS - Portal Legado**. Para más información sobre el procedimiento en el módulo **Colecciones (beta)**, consulta [Eliminación de productos](/es/docs/tutorials/registrar-colecciones-beta#remocao-de-produtos).  
+> ℹ️ Hay dos maneras de remover un SKU de una colección: a través de [CMS - Portal Legado](/es/docs/tracks/cms-portal-legado) o en el módulo **Colecciones (Beta)**. Esta sección describe cómo remover un SKU de una colección mediante **CMS - Portal Legado**. Para más información sobre el procedimiento en el módulo **Colecciones (beta)**, consulta [Eliminación de productos](/es/docs/tutorials/registrar-colecciones-beta#remocao-de-produtos).
 
 Si alguno de los SKUs del producto forma parte de una [colección](/es/docs/tracks/colecciones-definicion-del-concepto), también puede agotarse el tiempo límite de espera de la indexación. Para comprobar si el SKU forma parte de una o más colecciones, sigue los pasos a continuación:
 

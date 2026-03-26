@@ -1,5 +1,5 @@
 ---
-title: Mi stock está negativo
+title: 'Mi stock está negativo'
 id: JSFHaWsASXbnrX9dgNEeP
 status: PUBLISHED
 createdAt: 2024-06-10T11:08:39.990Z

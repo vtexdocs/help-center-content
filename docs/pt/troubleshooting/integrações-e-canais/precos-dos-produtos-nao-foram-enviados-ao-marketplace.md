@@ -1,7 +1,6 @@
 ---
-title: >-
-  Por que os preços dos produtos da minha loja não foram enviados ao
-  marketplace?
+title: 'Por que os preços dos produtos da minha loja não foram enviados ao
+  marketplace?'
 id: 7LMjXNoYJXsgPyKFkk6I25
 status: PUBLISHED
 createdAt: 2024-09-13T18:09:21.855Z
@@ -24,15 +23,15 @@ symptomFilters:
   - Configuração incorreta
 ---
 
-O preço de um produto é enviado para o marketplace após dois processos: a [configuração de preços na loja do seller](/pt/docs/tracks/modulo-de-precos-visao-geral) e a catalogação de produtos. Se um desses processos citados não for executado, o preço do produto do seller não será disponibilizado no marketplace.  
+O preço de um produto é enviado para o marketplace após dois processos: a [configuração de preços na loja do seller](/pt/docs/tracks/modulo-de-precos-visao-geral) e a catalogação de produtos. Se um desses processos citados não for executado, o preço do produto do seller não será disponibilizado no marketplace.
 
 ## Solução
 
-Para resolver o problema primeiro é necessário identificar qual dos processos apresenta erro e aplicar a correção necessária. 
+Para resolver o problema primeiro é necessário identificar qual dos processos apresenta erro e aplicar a correção necessária.
 
 ### Configuração do módulo de Preços
 
-A [configuração do módulo de Preços](/pt/docs/tracks/modulo-de-precos-visao-geral) é o local onde o seller cria, edita e armazena os dados de preços dos SKUs vendidos em sua loja.  
+A [configuração do módulo de Preços](/pt/docs/tracks/modulo-de-precos-visao-geral) é o local onde o seller cria, edita e armazena os dados de preços dos SKUs vendidos em sua loja.
 
 As mensagens de erro de integração estão disponíveis no menu de Preços do Admin, para acessar vá em **Marketplace > Conexões > Preços.**
 
@@ -46,18 +45,13 @@ Veja na tabela abaixo quais são as possíveis mensagens de erro referente à co
 ### Catalogação dos produtos
 
 A catalogação dos produtos é o processo de ajustar cada produto enviado pelo seller com as categorias e marcas do marketplace. Esse processo é manual e realizado exclusivamente pelo marketplace.
-Para saber se seu produto está passando por este processo, entre em contato com o marketplace.  
+Para saber se seu produto está passando por este processo, entre em contato com o marketplace.
 
-Caso os produtos já estejam catalogados, é necessário reprocessar o envio dos preços dos produtos seguindo os passos a seguir:  
+Caso os produtos já estejam catalogados, é necessário reprocessar o envio dos preços dos produtos seguindo os passos a seguir:
 
-1. No Admin VTEX, clique em **Marketplace > Conexões > Preços**.  
-2. Clique no produto com status **Processado com erro**.  
-3. Clique no botão `Ações`.  
-4. Clique em **Reprocessar**.  
+1. No Admin VTEX, clique em **Marketplace > Conexões > Preços**.
+2. Clique no produto com status **Processado com erro**.
+3. Clique no botão `Ações`.
+4. Clique em **Reprocessar**.
 
 Repita o processo para cada produto com o status **Processado com erro**. Caso o erro persista, entre em contato com o time de [suporte VTEX](https://supporticket.vtex.com/support).
-
-
-
-
-

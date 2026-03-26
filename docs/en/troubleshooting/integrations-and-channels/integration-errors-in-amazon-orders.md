@@ -1,5 +1,5 @@
 ---
-title: Integration errors in Amazon orders
+title: 'Integration errors in Amazon orders'
 id: 1ukX1Gw4fVUs62IIpGgsZF
 status: PUBLISHED
 createdAt: 2024-09-12T16:05:45.774Z

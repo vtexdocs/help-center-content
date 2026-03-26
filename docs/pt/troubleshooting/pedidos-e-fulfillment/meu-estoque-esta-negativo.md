@@ -1,5 +1,5 @@
 ---
-title: Meu estoque está negativo
+title: 'Meu estoque está negativo'
 id: JSFHaWsASXbnrX9dgNEeP
 status: PUBLISHED
 createdAt: 2024-06-10T11:08:39.990Z
@@ -35,7 +35,3 @@ Para atualizar a quantidade correta em estoque, realize os seguintes passos abai
 5. Clique em **Salvar**.
 
 Quando dois ou mais estoques utilizam a mesma [política comercial](/pt/docs/tutorials/como-funciona-uma-politica-comercial) e há uma quantidade negativa de unidades em um desses estoques, o SKU será indisponibilizado para venda, mesmo que exista uma quantidade disponível em um dos estoques no [inventário](/pt/docs/tutorials/gerenciar-itens-em-estoque).
-
-
-
-

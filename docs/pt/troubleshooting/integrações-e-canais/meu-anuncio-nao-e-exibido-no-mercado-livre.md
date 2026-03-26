@@ -1,5 +1,5 @@
 ---
-title: Meu anúncio não é exibido no Mercado Livre
+title: 'Meu anúncio não é exibido no Mercado Livre'
 id: 2UpudfowEvG97e2lstj4qc
 status: PUBLISHED
 createdAt: 2024-06-13T16:38:00.931Z
@@ -32,7 +32,7 @@ Para resolver esse problema, existem duas soluções que você pode considerar: 
 
 ### Verificando a política comercial
 
-�? por meio da [política comercial](/pt/docs/tracks/configurar-politica-comercial-para-o-mercado-livre) que são definidas as configurações aplicadas aos produtos enviados para o Mercado Livre. 
+É por meio da [política comercial](/pt/docs/tracks/configurar-politica-comercial-para-o-mercado-livre) que são definidas as configurações aplicadas aos produtos enviados para o Mercado Livre.
 
 Para validar se a política comercial está configurada corretamente no cadastro do produto, acesse __Catálogo > Todos os Produtos__ no Admin VTEX ou digite __Todos os Produtos__ na barra de busca no topo da página, e siga as instruções abaixo:
 
@@ -41,13 +41,11 @@ Para validar se a política comercial está configurada corretamente no cadastro
 3. Na página de cadastro do produto, valide se a política comercial que atende o Mercado Livre está selecionada.
 4. Caso não esteja, marque a flag da política comercial.
 
-  ![politicas-comerciais-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/integracoes-e-canais/meu-anuncio-nao-e-exibido-no-mercado-livre_1.png)
+  ![politicas-comerciais-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/integrações-e-canais/meu-anuncio-nao-e-exibido-no-mercado-livre_1.png)
 
  5. Clique no botão `Salvar`.
 
-<div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Se sua loja está operando com o [Novo Admin VTEX](/pt/announcements/2022-06-13-bem-vindo-ao-novo-admin-vtex), consulte o artigo [Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus) para aprender como visualizar e gerenciar seu catálogo, incluindo a configuração de políticas comerciais.
-</div>
+> ℹ️ Se sua loja está operando com o [Novo Admin VTEX](/pt/announcements/2022-06-13-bem-vindo-ao-novo-admin-vtex), consulte o artigo [Produtos e SKUs](/pt/docs/tutorials/produtos-e-skus) para aprender como visualizar e gerenciar seu catálogo, incluindo a configuração de políticas comerciais.
 
 ### Verificando o estoque limite
 
@@ -57,12 +55,8 @@ Para validar a configuração do estoque limite, acesse Marketplace > Conexões 
 2. Na linha do card de integração desejado, clique em `Editar`.
 3. Em `Configurações`, verifique se há algum valor atribuído ao campo Estoque limite para pausa de anúncio.
 
-  ![estoque-limite-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/integracoes-e-canais/meu-anuncio-nao-e-exibido-no-mercado-livre_2.png)
+  ![estoque-limite-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/integrações-e-canais/meu-anuncio-nao-e-exibido-no-mercado-livre_2.png)
 
- 4. Certifique-se de que a configuração deste campo está correta, de acordo com o artigo [Controle de estoque mínimo para integrações](/pt/docs/tutorials/controle-de-estoque-minimo-para-integracoes). 
+ 4. Certifique-se de que a configuração deste campo está correta, de acordo com o artigo [Controle de estoque mínimo para integrações](/pt/docs/tutorials/controle-de-estoque-minimo-para-integracoes).
 
->�"�️ Caso seu problema não seja resolvido por uma das soluções propostas, abra um ticket para o [suporte VTEX](https://supporticket.vtex.com/support).
-
-
-
-
+> ℹ️ Caso seu problema não seja resolvido por uma das soluções propostas, abra um ticket para o [suporte VTEX](https://supporticket.vtex.com/support).

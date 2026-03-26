@@ -1,5 +1,5 @@
 ---
-title: I can't fix the schema error in B2B apps
+title: "I can't fix the schema error in B2B apps"
 id: WkjJZSnGXCiqmLhg4b0OR
 status: PUBLISHED
 createdAt: 2024-09-11T18:54:34.611Z
@@ -31,17 +31,17 @@ Fixing the Schema is invalid alert in B2B apps involves adjusting the configurat
 ### Fixing the Schema is invalid alert in B2B apps
 To fix the Schema is invalid alert, follow the steps below to ensure the correct configuration:
 
-1. In the VTEX Admin, go to **Store Settings > Storefront > Master Data**, or type **Master Data** in the search bar at the top of the page.  
-2. Log in.  
-3. Click **Advanced Settings**.  
-4. Click **Data structure**.  
-5. Click **Data Entities**.  
-6. Click **Edit** in the **CL** row.  
-7. Review all the fields in the list to identify the one where the option is **nullable** and unchecked, and then check it.  
+1. In the VTEX Admin, go to **Store Settings > Storefront > Master Data**, or type **Master Data** in the search bar at the top of the page.
+2. Log in.
+3. Click **Advanced Settings**.
+4. Click **Data structure**.
+5. Click **Data Entities**.
+6. Click **Edit** in the **CL** row.
+7. Review all the fields in the list to identify the one where the option is **nullable** and unchecked, and then check it.
 
    > ⚠️ Only the email field should remain with the **Is nullable** option unchecked.
 
-8. Click **Save**.  
+8. Click **Save**.
 9. In the list of **Data Entities**, click **Publish**.
 
 The image below shows the necessary steps to fix the configuration of the required fields in Master Data, solving the `Schema is invalid` alert.

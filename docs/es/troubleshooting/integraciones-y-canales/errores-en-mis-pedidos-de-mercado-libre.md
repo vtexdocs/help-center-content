@@ -1,5 +1,5 @@
 ---
-title: Errores en mis pedidos de Mercado Libre
+title: 'Errores en mis pedidos de Mercado Libre'
 id: 170njWgSw9UQ5DG6NRl14d
 status: PUBLISHED
 createdAt: 2024-06-28T15:03:26.959Z
@@ -21,14 +21,14 @@ symptomFilters:
   - Configuración incorrecta
 ---
 
-Cuando se produce un error de integración en pedidos entre un marketplace y Mercado Libre, se muestra un mensaje de error en cada pedido. 
+Cuando se produce un error de integración en pedidos entre un marketplace y Mercado Libre, se muestra un mensaje de error en cada pedido.
 
 Los pedidos presentan errores de integración por dos motivos: **ID de tienda oficial en Mercado Libre** incorrectamente registrado o **Categorías inexistentes en Mercado Libre**. Para comprobar si un pedido contiene errores de integración, en el Admin VTEX accede a **Marketplace > Conexiones > Pedidos** o ingresa **Pedidos** en la barra de búsqueda.
 
 ## Solución
 Considera las siguientes opciones para corregir los errores de integración en los pedidos de Mercado Libre: [verificar el ID de la tienda oficial en Mercado Libre](#comprobar-id-de-la-tienda-oficial-en-mercado-libre) y [verificar la correspondencia de categorías](#comprobar-correspondencia-de-categorías) para errores de integración de pedidos.
 
-### Verificar el ID de la tienda oficial en Mercado Libre 
+### Verificar el ID de la tienda oficial en Mercado Libre
 Si tu tienda tiene el status de [Tienda Oficial](https://www.mercadolibre.com.mx/tiendas-oficiales/catalogo) en Mercado Libre, debes introducir el ID proporcionado por Mercado Libre en el [registro del conector](/es/docs/tracks/registro-de-la-integracion-de-mercado-libre).
 
 Para validar si el ID ingresado es correcto, ve a **Marketplace > Conexiones > Marketplaces e integraciones** y sigue los pasos que se indican a continuación:
@@ -41,7 +41,7 @@ Para validar si el ID ingresado es correcto, ve a **Marketplace > Conexiones > M
 
 ### Verificar correspondencias de categorías
 
-Al realizar el [mapeo de categorías y atributos](/es/docs/tracks/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper) con Mercado Libre, es necesario que los atributos de cada categoría registrada en VTEX correspondan con los atributos de las categorías existentes en Mercado Libre. 
+Al realizar el [mapeo de categorías y atributos](/es/docs/tracks/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper) con Mercado Libre, es necesario que los atributos de cada categoría registrada en VTEX correspondan con los atributos de las categorías existentes en Mercado Libre.
 Si alguno de los atributos se rellena incorrectamente, la integración devolverá un error con el siguiente formato:
 `La categoría seleccionada en el atributo category_meli no existe en Mercado Libre.`
 

@@ -1,5 +1,5 @@
 ---
-title: Não consigo indexar um produto do catálogo
+title: 'Não consigo indexar um produto do catálogo'
 id: 5ZKLTqnCyGbWEYGPTCBIxI
 status: PUBLISHED
 createdAt: 2024-09-06T13:35:52.255Z
@@ -30,7 +30,7 @@ Sempre que um produto tem mudança de status ou alteração de informações, é
 - Criação ou remoção de coleção
 - Mudança de preço ou na quantidade de estoque
 
-> �"�️ Para mais detalhes sobre a indexação de um produto em lojas [legado](/pt/docs/tracks/cms-portal-legado), acesse [Como funciona a indexação - CMS Portal (Legado)](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao). Se a sua loja utiliza o [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search), verifique o [Histórico da indexação - Intelligent Search](/pt/docs/tutorials/historico-da-indexacao).
+> ℹ️ Para mais detalhes sobre a indexação de um produto em lojas [legado](/pt/docs/tracks/cms-portal-legado), acesse [Como funciona a indexação - CMS Portal (Legado)](/pt/docs/tutorials/entendendo-o-funcionamento-da-indexacao). Se a sua loja utiliza o [Intelligent Search](/pt/docs/tracks/visao-geral-intelligent-search), verifique o [Histórico da indexação - Intelligent Search](/pt/docs/tutorials/historico-da-indexacao).
 
 Em determinadas situações, a indexação é interrompida durante o processo e as informações mais atualizadas do produto não são exibidas no site da loja. Veja abaixo alguns cenários em que esta interrupção pode acontecer:
 
@@ -38,10 +38,10 @@ Em determinadas situações, a indexação é interrompida durante o processo e 
 - Ausência da política comercial associada ao produto no binding da loja
 - Tempo limite de indexação (40 segundos) é excedido quando ocorrem um grande - número de requisições de informações ao checkout durante a indexação. O número de requisições pode variar conforme os seguintes fatores associados ao produto:
 
-   - Quantidade de políticas comerciais  
-   - Quantidade de SKUS  
-   - Quantidade de regiões geográficas  
-   - Quantidade de coleções  
+   - Quantidade de políticas comerciais
+   - Quantidade de SKUS
+   - Quantidade de regiões geográficas
+   - Quantidade de coleções
    - Quantidade de sellers
 
 ## Soluções
@@ -59,13 +59,13 @@ Para corrigir problemas que estejam impedindo um produto de ser corretamente ind
 
 Erros no cadastro de um produto podem gerar inconsistências no momento de realizar a indexação de um produto.
 
-1. No Admin VTEX, acesse **Catálogo > Todos os produtos**.  
+1. No Admin VTEX, acesse **Catálogo > Todos os produtos**.
 
-   > �s�️ Lojas que utilizam a página **Produtos e SKUS (Beta)** devem verificar os campos de cadastro do produto acessando **Catálogo > Produtos e SKUS** no Admin VTEX. Saiba mais em [Produtos e SKUS (Beta)](/pt/docs/tutorials/produtos-e-skus).
+   > ⚠️ Lojas que utilizam a página **Produtos e SKUS (Beta)** devem verificar os campos de cadastro do produto acessando **Catálogo > Produtos e SKUS** no Admin VTEX. Saiba mais em [Produtos e SKUS (Beta)](/pt/docs/tutorials/produtos-e-skus).
 
-2. Localize o produto desejado e clique em **EDITAR**.  
+2. Localize o produto desejado e clique em **EDITAR**.
 
-3. Verifique se as informações de todos os [campos de cadastro](/pt/docs/tutorials/adicionar-ou-editar-produto) estão corretas. Se necessário, atualize as informações e clique em Salvar.  
+3. Verifique se as informações de todos os [campos de cadastro](/pt/docs/tutorials/adicionar-ou-editar-produto) estão corretas. Se necessário, atualize as informações e clique em `Salvar`.
 
 4. Acesse o relatório de indexação em **Catálogo > Relatórios** e verifique se o produto está na fila de indexação ou já foi indexado.
 
@@ -79,25 +79,25 @@ Para identificar as políticas comerciais associadas a cada uma das lojas de sua
 
 Quando um produto possui diversas políticas associadas a ele, as diversas iterações de verificação de dados podem ocasionar a saída da fila de indexação por atingir o tempo limite de espera.
 
-Exemplo: se um produto possui 5 SKUs ativos em 5 políticas comerciais diferentes, serão necessárias 25 validações de disponibilidade de estoque, regras de preço e promoções. 
+Exemplo: se um produto possui 5 SKUs ativos em 5 políticas comerciais diferentes, serão necessárias 25 validações de disponibilidade de estoque, regras de preço e promoções.
 
-Para evitar este cenário, verifique a possibilidade de utilizar uma mesma política comercial para marketplaces diferentes, como descrito em [Configurar política comercial para marketplace](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace).  
+Para evitar este cenário, verifique a possibilidade de utilizar uma mesma política comercial para marketplaces diferentes, como descrito em [Configurar política comercial para marketplace](/pt/docs/tutorials/configurando-a-politica-comercial-para-marketplace).
 
-> �s�️ Caso seja possível reduzir o número de políticas comerciais em sua loja, acesse novamente o cadastro do produto para modificar a política comercial e verificar o relatório de indexação, como descrito na seção **Verificação dos campos de cadastro do produto**.
+> ⚠️ Caso seja possível reduzir o número de políticas comerciais em sua loja, acesse novamente o cadastro do produto para modificar a política comercial e verificar o relatório de indexação, como descrito na seção **Verificação dos campos de cadastro do produto**.
 
-### Modificação de quantidades de SKUs do produto 
+### Modificação de quantidades de SKUs do produto
 
 Da mesma forma que as políticas comerciais, ter muitos SKUs associados a um produto pode levar a exceder o tempo limite de espera para indexação. Para reduzir a probabilidade de ocorrência deste erro, considere a possibilidade de dividir um produto em outros produtos com menor quantidade de SKUs.
 
-Exemplo: se o produto �?oCamisa�?� possui seis SKUs (Amarela P, Amarela M, Amarela G, Azul P, Azul M e Azul G), ele pode ser dividido em dois produtos com três SKUs cada: �?oCamisa Amarela�?� (P, M e G) e �?oCamisa Azul�?� (P, M e G).
+Exemplo: se o produto "Camisa" possui seis SKUs (Amarela P, Amarela M, Amarela G, Azul P, Azul M e Azul G), ele pode ser dividido em dois produtos com três SKUs cada: "Camisa Amarela" (P, M e G) e "Camisa Azul" (P, M e G).
 
-Após reorganizar a quantidade de SKUs por produto, verifique o relatório de indexação, como descrito na seção [Verificação dos campos de cadastro do produto](#verificacao-dos-campos-de-cadastro-do-produto).  
+Após reorganizar a quantidade de SKUs por produto, verifique o relatório de indexação, como descrito na seção [Verificação dos campos de cadastro do produto](#verificacao-dos-campos-de-cadastro-do-produto).
 
-### Remoção do SKU de coleções  
+### Remoção do SKU de coleções
 
-> �"�️ Existem duas formas de remover o SKU de uma coleção: por meio do [CMS Portal (Legado)](/pt/docs/tracks/cms-portal-legado) ou utilizando o módulo **Coleções (Beta)**. Esta seção demonstra como remover o SKU de uma coleção no **CMS Portal (Legado)**. Para mais informações sobre o procedimento no módulo **Coleções (Beta)**, acesse [Remoção de produtos](/pt/docs/tutorials/cadastrar-colecoes-beta#remocao-de-produtos).  
+> ℹ️ Existem duas formas de remover o SKU de uma coleção: por meio do [CMS Portal (Legado)](/pt/docs/tracks/cms-portal-legado) ou utilizando o módulo **Coleções (Beta)**. Esta seção demonstra como remover o SKU de uma coleção no **CMS Portal (Legado)**. Para mais informações sobre o procedimento no módulo **Coleções (Beta)**, acesse [Remoção de produtos](/pt/docs/tutorials/cadastrar-colecoes-beta#remocao-de-produtos).
 
-Caso algum dos SKUs do produto faça parte de uma [coleção](/pt/docs/tracks/colecoes-definicao-de-conceito), também é possível que ocorra o tempo limite de espera para indexação. Para verificar se o SKU faz parte de uma ou mais coleções, siga os passos abaixo:  
+Caso algum dos SKUs do produto faça parte de uma [coleção](/pt/docs/tracks/colecoes-definicao-de-conceito), também é possível que ocorra o tempo limite de espera para indexação. Para verificar se o SKU faz parte de uma ou mais coleções, siga os passos abaixo:
 
 1. No Admin VTEX, acesse __Storefront > Layout__.
 2. Clique na pasta __CMS__ e em __Product Cluster (Collections)__.
@@ -106,7 +106,7 @@ Caso algum dos SKUs do produto faça parte de uma [coleção](/pt/docs/tracks/co
 5. Repita o passo 4 para o mesmo SKU em todas as coleções dentro de __Product Cluster (Collections)__.
 6. Acesse o relatório de indexação em __Catálogo > Relatórios__ e verifique se o produto está na fila de indexação ou já foi indexado.
 
-### Reindexação da base de produtos  
+### Reindexação da base de produtos
 
 A reindexação completa da base de produtos pode ser realizada para atualizar as informações de todos os produtos na loja ao mesmo tempo.
 
@@ -116,9 +116,4 @@ Contas com 100 mil produtos ou mais cadastrados devem entrar em contato com o [S
 
 Saiba mais em [Manutenção de base (full cleanup)](/pt/docs/tutorials/manutencao-de-base-full-cleanup).
 
-![Agendar reindexação completa](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/merchandising-e-busca/nao-consigo-indexar-um-produto-do-catalogo_1.png)  
-
-
-
-
-
+![Agendar reindexação completa](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/merchandising-e-busca/nao-consigo-indexar-um-produto-do-catalogo_1.png)

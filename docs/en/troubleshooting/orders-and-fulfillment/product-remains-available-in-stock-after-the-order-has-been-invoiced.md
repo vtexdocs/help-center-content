@@ -1,5 +1,5 @@
 ---
-title: Product remains available in stock after the order has been invoiced
+title: 'Product remains available in stock after the order has been invoiced'
 id: 5kQ3sJTo7hxIjysT7f9EvD
 status: PUBLISHED
 createdAt: 2024-10-29T16:42:28.787Z

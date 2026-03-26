@@ -1,5 +1,5 @@
 ---
-title: Não consigo visualizar métricas no dashboard de pedidos
+title: 'Não consigo visualizar métricas no dashboard de pedidos'
 id: 1B5OAicmK3AvnwPzs4iq7Z
 status: PUBLISHED
 createdAt: 2024-06-10T11:28:08.507Z
@@ -44,7 +44,3 @@ Considere o tempo de espera de 10 a 80 minutos para a atualização das informa�
 
 ### Verifique as permissões de acesso
 Para visualizar as informações no dashboard, certifique de que você possui um perfil de acesso que contenha o [recurso](/pt/docs/tutorials/recursos-do-license-manager) Insights Metrics. Para mais informações sobre os perfis de acesso e como configurá-los, acesse o artigo [Perfis de acesso](/pt/docs/tutorials/perfis-de-acesso).
-
-
-
-

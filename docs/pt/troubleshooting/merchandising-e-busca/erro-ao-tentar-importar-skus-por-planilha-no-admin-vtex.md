@@ -1,5 +1,5 @@
 ---
-title: Erro ao tentar importar SKUs por planilha no Admin VTEX
+title: 'Erro ao tentar importar SKUs por planilha no Admin VTEX'
 id: 1TDF87s7P1UJT1hNDGZsuk
 status: PUBLISHED
 createdAt: 2024-07-01T15:07:50.982Z
@@ -41,11 +41,6 @@ Para resolver esse problema, é possível:
 3. Edite a planilha de exemplo com os SKUs desejados, seguindo todas as recomendações da página [Import and Export](https://cosmetics2.myvtex.com/admin/Site/Relatorio_Skus.aspx)
 4. Salvar a planilha no formato `.xls`.
 5. Na mesma página, em Upload de arquivo para importação, selecione o arquivo esse clique `Importar`.
-6. Confira se a importação foi finalizada. 
+6. Confira se a importação foi finalizada.
 
 Caso o erro persista após a modificação do arquivo, entre em contato com o [Nosso Suporte](https://support.vtex.com/hc/pt-br/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests).
-
-
-
-
-

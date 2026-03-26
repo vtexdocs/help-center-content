@@ -1,5 +1,5 @@
 ---
-title: El producto no se muestra en la búsqueda del sitio web
+title: 'El producto no se muestra en la búsqueda del sitio web'
 id: 2Ry55Fh6JW8v7oKBiB2pH3
 status: PUBLISHED
 createdAt: 2024-07-24T16:39:50.379Z
@@ -158,7 +158,7 @@ Para remover la restricción de búsqueda por marca (brand) y permitir que los p
 
 Las [rutas internas](https://developers.vtex.com/docs/guides/vtex-io-documentation-routes#routes-in-rewriter) de búsqueda en la aplicación [Rewriter](https://developers.vtex.com/docs/apps/vtex.rewriter) pueden evitar que un producto se muestre en la búsqueda si se ha registrado con una marca que ya no está disponible en la tienda.
 
-Para volver a mostrar productos que contengan los términos buscados únicamente en el nombre o la descripción es necesario eliminar la ruta de búsqueda correspondiente. 
+Para volver a mostrar productos que contengan los términos buscados únicamente en el nombre o la descripción es necesario eliminar la ruta de búsqueda correspondiente.
 
 Para remover una ruta de búsqueda interna del término, sigue los pasos a continuación:
 
@@ -166,7 +166,7 @@ Para remover una ruta de búsqueda interna del término, sigue los pasos a conti
 
 2. En **Selecciona una aplicación**, haz clic en la opción Rewriter (**vtex.rewriter@{app-version-number}**).
 
-3. En el campo de entrada de datos de la consulta (debajo de **GraphiQL**), ingresa los datos de la función _internal get_, sustituyendo _pendleton_ por el término deseado. 
+3. En el campo de entrada de datos de la consulta (debajo de **GraphiQL**), ingresa los datos de la función _internal get_, sustituyendo _pendleton_ por el término deseado.
 
     ```graphql
     {
@@ -196,7 +196,7 @@ Para remover una ruta de búsqueda interna del término, sigue los pasos a conti
     }
     ```
 
-5. En el campo de entrada de datos de la consulta (debajo de **GraphiQL**), ingresa los datos de la función _mutation_, sustituyendo _pendleton_ por el término deseado. 
+5. En el campo de entrada de datos de la consulta (debajo de **GraphiQL**), ingresa los datos de la función _mutation_, sustituyendo _pendleton_ por el término deseado.
 
     ```graphql
     mutation {

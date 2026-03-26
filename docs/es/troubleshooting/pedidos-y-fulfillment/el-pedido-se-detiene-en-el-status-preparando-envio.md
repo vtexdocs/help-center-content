@@ -1,5 +1,5 @@
 ---
-title: El pedido se detiene en el status "Preparando envío"
+title: 'El pedido se detiene en el status "Preparando envío"'
 id: 2yia6QhoLh204lHzEaIrnK
 status: PUBLISHED
 createdAt: 2025-02-07T14:22:07.199Z
@@ -30,7 +30,7 @@ La permanencia de un pedido en el status `Preparando envío` por un periodo supe
 
 ### Comprobar las facturas en integraciones ERP
 
-La primera acción necesaria es ponerse en contacto con el responsable de tu [integración ERP](https://developers.vtex.com/docs/guides/erp-integration-guide) y comprobar si la factura única o todas las [facturas parciales](/es/docs/tracks/facturas-parciales) ya se registraron a través del endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice). 
+La primera acción necesaria es ponerse en contacto con el responsable de tu [integración ERP](https://developers.vtex.com/docs/guides/erp-integration-guide) y comprobar si la factura única o todas las [facturas parciales](/es/docs/tracks/facturas-parciales) ya se registraron a través del endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
 
 Después de esta confirmación, sigue los pasos a continuación para verificar si cambió el status:
 

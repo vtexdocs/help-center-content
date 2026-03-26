@@ -1,5 +1,5 @@
 ---
-title: Error al instalar certificado SSL personalizado
+title: 'Error al instalar certificado SSL personalizado'
 id: 6hgFzbcc96mcrqXZMmHCTr
 status: PUBLISHED
 createdAt: 2025-02-28T14:55:08.515Z

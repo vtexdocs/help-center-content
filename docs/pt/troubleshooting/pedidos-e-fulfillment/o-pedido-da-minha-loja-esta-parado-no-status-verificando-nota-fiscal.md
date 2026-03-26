@@ -1,5 +1,5 @@
 ---
-title: O pedido da minha loja está parado no status "Verificando nota fiscal"
+title: 'O pedido da minha loja está parado no status "Verificando nota fiscal"'
 id: 2YY7ILOOd0lEjpiT7SSgag
 status: PUBLISHED
 createdAt: 2024-08-16T18:32:15.867Z
@@ -50,11 +50,6 @@ Para faturar o pedido (total ou parcialmente) ou ajustar os dados da nota fiscal
 5. Preencha os campos da tela.
 6. Clique em `Salvar nota fiscal`.
 
-> �"�️ Você encontra o passo a passo detalhado sobre o envio de nota fiscal pelo Admin VTEX no artigo [Como faturar um pedido](/pt/docs/tutorials/faturar-um-pedido-manualmente). Caso deseje faturar o pedido via API, use o endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
+> ℹ️ Você encontra o passo a passo detalhado sobre o envio de nota fiscal pelo Admin VTEX no artigo [Como faturar um pedido](/pt/docs/tutorials/faturar-um-pedido-manualmente). Caso deseje faturar o pedido via API, use o endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
 
-> �"�️ Se for necessário realizar ajustes no pedido, é possível [alterar o pedido pelo Admin VTEX](/pt/docs/tutorials/como-alterar-pedidos).
-
-
-
-
-
+> ℹ️ Se for necessário realizar ajustes no pedido, é possível [alterar o pedido pelo Admin VTEX](/pt/docs/tutorials/como-alterar-pedidos).

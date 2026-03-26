@@ -1,5 +1,5 @@
 ---
-title: I can't update the EAN of my SKUs via API
+title: "I can't update the EAN of my SKUs via API"
 id: 1gHfGo3TpSTHqb5ZNzwq3m
 status: PUBLISHED
 createdAt: 2024-06-18T16:50:42.770Z
@@ -24,7 +24,7 @@ When trying to update the EAN (European Article Number), which contains the barc
 
 ## Solution
 
-To solve this issue, consider [deleting the SKU EAN](#deleting-the-sku-ean) and then [adding a new EAN](#step-1-add-a-new-ean-to-the-sku). 
+To solve this issue, consider [deleting the SKU EAN](#deleting-the-sku-ean) and then [adding a new EAN](#step-1-add-a-new-ean-to-the-sku).
 
 ### Deleting the SKU EAN
 

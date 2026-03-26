@@ -1,5 +1,5 @@
 ---
-title: I can't view the product in the search results
+title: "I can't view the product in the search results"
 id: 2Ry55Fh6JW8v7oKBiB2pH3
 status: PUBLISHED
 createdAt: 2024-07-24T16:39:50.379Z
@@ -166,7 +166,7 @@ To remove an internal search route for the term, follow the steps below:
 
 2. Under **Choose an app**, click the Rewriter app option (**vtex.rewriter@{app-version-number}**).
 
-3. In the query input field (below **GraphiQL**), enter the data for the _internal get_ function, replacingo _pendleton_ with the desired term. 
+3. In the query input field (below **GraphiQL**), enter the data for the _internal get_ function, replacingo _pendleton_ with the desired term.
 
     ```graphql
     {
@@ -196,7 +196,7 @@ To remove an internal search route for the term, follow the steps below:
     }
     ```
 
-5. In the query input field (below **GraphiQL**), enter the data for the _mutation_ function, replacing _pendleton_ with the desired term. 
+5. In the query input field (below **GraphiQL**), enter the data for the _mutation_ function, replacing _pendleton_ with the desired term.
 
     ```graphql
     mutation {
