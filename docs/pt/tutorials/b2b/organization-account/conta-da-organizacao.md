@@ -1,7 +1,7 @@
 ---
-title: 'Organization Account'
+title: 'Conta da Organização'
 createdAt: '2025-03-09T10:00:00.000Z'
-updatedAt: '2025-03-09T10:00:00.000Z'
+updatedAt: '2025-03-26T10:00:00.000Z'
 contentType: tutorial
 productTeam: B2B
 slugEN: organization-account
@@ -27,7 +27,7 @@ Este artigo aborda:
 
 - [Acessando a Organization Account](#acessando-a-organization-account)
 - [Estrutura da Organization Account](#estrutura-da-organization-account)
-  - [Informações do contrato](#informações-do-contrato)
+  - [Informações do contrato](#informacoes-do-contrato)
   - [Organization](#organization)
   - [Finance and Compliance](#finance-and-compliance)
   - [Adicionar entidades](#adicionar-entidades)
