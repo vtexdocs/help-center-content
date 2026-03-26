@@ -56,37 +56,6 @@
             },
             {
               "name": {
-                "en": "Março",
-                "es": "Março",
-                "pt": "Março"
-              },
-              "slug": {
-                "en": "marco",
-                "es": "marco",
-                "pt": "2026-março"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "VTEX Agentic CX Platform: novo nome e atualizações na plataforma Weni by VTEX",
-                    "en": "VTEX Agentic CX Platform: novo nome e atualizações na plataforma Weni by VTEX",
-                    "es": "VTEX Agentic CX Platform: novo nome e atualizações na plataforma Weni by VTEX"
-                  },
-                  "slug": {
-                    "pt": "2026-03-27-weni-by-vtex-mudancas-na-plataforma",
-                    "en": "",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "February",
                 "es": "Febrero",
                 "pt": "Fevereiro"
