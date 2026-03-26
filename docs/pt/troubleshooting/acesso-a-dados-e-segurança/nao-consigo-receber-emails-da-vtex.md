@@ -65,7 +65,7 @@ Após o teste, caso a mensagem da VTEX não tenha sido enviada para o email do u
 
 Confira se o servidor SMTP externo está devidamente configurado conforme o [sistema SPF](/pt/docs/tutorials/configuracao-de-spf), responsável por evitar que servidores não autorizados enviem emails em nome de um domínio específico. Caso necessário, você pode realizar a [configuração do SPF](https://developers.vtex.com/docs/guides/setting-up-the-spf) e da [DKIM](https://developers.vtex.com/docs/guides/setting-up-dkim-for-transactional-emails) (DomainKeys Identified Mail) no servidor.
 
-> ⚠️ Acesse também a sua caixa de spam para garantir que os emails da VTEX não estão sendo enviados para este local. Isto pode ocorrer devido a regras internas de servidores de mail.
+> ⚠️ Acesse também a sua caixa de spam para garantir que os emails da VTEX não estão sendo enviados para este local. Isto pode ocorrer devido a regras internas de servidores de e-mail.
 
 ### Configuração da notificação de pedido e pagamento
 
