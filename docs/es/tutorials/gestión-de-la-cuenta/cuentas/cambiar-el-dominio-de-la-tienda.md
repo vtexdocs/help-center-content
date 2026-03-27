@@ -10,68 +10,92 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slugEN: change-the-store-domain
-legacySlug: como-cambiar-el-dominio-de-la-tienda
+legacySlug: que-debo-hacer-para-cambiar-el-dominio-de-mi-tienda
 locale: es
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 ---
 
-Cambiar el [dominio](/es/docs/tutorials/configurar-dominio-de-la-tienda) de una tienda tras el go live exige una atención cuidadosa para minimizar problemas de SEO y garantizar una transición transparente, sin impactar la experiencia del cliente.
+Cambiar el [dominio](https://help.vtex.com/es/docs/tutorials/configurar-el-dominio-de-la-tienda) de una tienda después del go live requiere una atención cuidadosa para minimizar problemas de SEO, evitar la indisponibilidad y garantizar una transición transparente, sin afectar la experiencia de los clientes.
 
-Consulta en las secciones a continuación más información sobre el proceso completo para cambiar tu dominio en VTEX:
-
-1. [Prerrequisitos](#prerrequisitos)  
-2. [Configurar el nuevo dominio](#configurar-el-nuevo-dominio)  
-3. [Eliminar el dominio antiguo](#eliminar-el-dominio-antiguo)  
-4. [Redirigir el dominio antiguo](#redirigir-el-dominio-antiguo)
+> ⚠️ No remuevas ni modifiques el dominio existente hasta que la migración esté completamente finalizada y validada. Esto garantiza que la tienda permanezca accesible durante la transición, evitando la indisponibilidad.
 
 ## Prerrequisitos
 
 Antes de empezar, debes:
 
-* Haber registrado el nuevo dominio y que esté accesible.  
-* Tener acceso al proveedor de DNS del dominio.
+- Tener el nuevo dominio ya registrado y accesible.
+- Tener acceso al proveedor de DNS del dominio.
+- Mantener el dominio antiguo activo durante todo el proceso de migración.
 
-## Configurar el nuevo dominio
+## Información general
 
-Sigue los pasos a continuación para cambiar el dominio:
+La migración del dominio se realiza en los siguientes pasos:
 
-1. Crea un nuevo host en el Admin VTEX, como se ilustra en [Registrar nuevo host](/es/docs/tutorials/configurar-dominio-de-la-tienda#registrar-nuevo-host). En este punto, el DNS del nuevo dominio aún no debe apuntar a VTEX.
+1. [Registrar el nuevo dominio](#1-registrar-el-nuevo-dominio) sin eliminar el anterior, manteniendo activo el dominio antiguo en License Manager.
+2. [Solicitar migración interna a VTEX](#2-solicitar-migracion-interna-a-vtex), asegurando que todos los registros DNS y configuraciones internas se propaguen correctamente.
+3. [Actualizar URLs y validar el nuevo dominio](#3-actualizar-urls-y-validar-el-nuevo-dominio) solo después de confirmar que todos los cambios de DNS se han aplicado.
+4. [Remover el dominio antiguo](#4-remover-el-dominio-antiguo) cuando el nuevo dominio esté completamente operativo y validado.
+5. [Configurar redirección](#5-configurar-redireccion) del dominio antiguo al nuevo.
 
-2. En el Admin VTEX, verifica la configuración de Checkout en **Configuración de la tienda > Storefront > Checkout**, según se describe en [Configurar template en SmartCheckout](/es/docs/tutorials/configurar-template-en-el-smartcheckout-update). 
+## 1) Registrar el nuevo dominio
 
-   Este paso es imprescindible para que Checkout siga funcionando tras el cambio.  
-   Es necesario verificar que los sitios configurados estén asociados a la cuenta registrada en **Configuración de la cuenta > Cuenta**. Para más información, consulta [Gestión de la cuenta](/es/docs/tutorials/gestion-de-la-cuenta).
+Agrega al nuevo dominio en License Manager sin remover el dominio anterior:
 
-3. Si tu tienda utiliza [VTEX IO - Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) o [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), ponte en contacto con el [Soporte VTEX](https://supporticket.vtex.com/support) y solicita el apuntamiento interno, informando el nuevo dominio. Más información sobre [apuntamiento interno](/es/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-el-apuntamiento-io).
+1. Crea el nuevo host en el Admin VTEX siguiendo las instrucciones descritas en [Registrar un nuevo host](https://help.vtex.com/es/docs/tutorials/configurar-el-dominio-de-la-tienda#registrar-un-nuevo-host). En este punto, el DNS del nuevo dominio aún no debe apuntar a VTEX.
 
-   Una vez abierto el ticket, el equipo de soporte tiene hasta tres días laborables para analizar la configuración y realizar el apuntamiento. 
+2. En el Admin VTEX, verifica la configuración de Checkout en **Configuración de la tienda > Storefront > Checkout**, según se describe en [Configurar plantilla en SmartCheckout](https://help.vtex.com/es/faq/configurar-template-no-smartcheckout/).
 
-4. Realiza el apuntamiento de DNS a la CDN de VTEX siguiendo las instrucciones de la guía [Go live](/es/docs/tracks/go-live). 
+   Este paso es esencial para que Checkout siga funcionando después del cambio.
 
-## Eliminar el dominio antiguo
+   Debes comprobar que los sitios web configurados estén asociados a la cuenta registrada en **Configuración de la cuenta > Cuentas**. Consulta [Gestión de la cuenta](https://help.vtex.com/es/docs/tutorials/gestion-de-la-cuenta) para más detalles.
 
-Tras el periodo de transición, se recomienda desactivar el dominio antiguo para garantizar que todos los clientes utilicen la nueva dirección y evitar confusiones.
+> ⚠️ No elimines el dominio antiguo ni modifiques el DNS todavía.
 
-Es posible mantener ambos dominios (el antiguo y el nuevo) funcionando simultáneamente durante el periodo de transición, pero es importante tomar precauciones para evitar problemas como:
+## 2. Solicitar migración interna a VTEX
 
-* Confusión del cliente sobre cuál es el dominio oficial, lo que puede afectar negativamente a la confianza y las ventas.  
-* Impacto negativo en el SEO, ya que los motores de búsqueda pueden interpretar que los dominios compiten entre sí.
+Si tu tienda utiliza [VTEX IO - Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) o [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), ponte en contacto con el [Soporte VTEX](https://supporticket.vtex.com/support) y solicita la migración interna de dominio, proporcionando el nuevo dominio deseado.
 
-Después de confirmar el apuntamiento interno y la propagación de DNS del nuevo host, sigue las instrucciones para eliminar los hosts antiguos y conservar únicamente el nuevo:
+VTEX realizará la migración interna garantizando que todos los registros DNS y configuraciones internas se propaguen correctamente.
 
-1. En la barra superior del Admin VTEX, haz clic en el avatar de tu perfil que tiene la inicial de tu email.  
-2. Haz clic en **Configuración de la cuenta**.  
-3. Haz clic en **Cuenta**.  
-4. Haz clic en la pestaña **Tiendas**.  
-5. En la fila de la tienda de la que deseas eliminar el host, haz clic en el botón de acciones ⁝ y, a continuación, en `Editar`.  
-6. En la fila del host antiguo, haz clic en el botón de acciones ⁝ y después en `Eliminar`.
+Más información sobre [apuntamiento interno](https://help.vtex.com/es/tracks/realizando-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apuntamiento-io).
 
-## Redirigir el dominio antiguo
+Una vez abierto el ticket, el equipo de soporte tiene hasta tres días laborables para analizar la configuración y realizar el apuntamiento.
+
+Después de la confirmación del apuntamiento interno, realiza el apuntamiento del DNS a la CDN de VTEX siguiendo las instrucciones de la guía [Go live](https://help.vtex.com/es/docs/tracks/go-live).
+
+## 3. Actualizar URLs y validar el nuevo dominio
+
+Solo después de confirmar que todos los cambios de DNS se hayan aplicado correctamente, realiza las siguientes validaciones:
+
+1. Confirma que el DNS del nuevo dominio está completamente propagado.
+2. Valida la navegación completa de la tienda en el nuevo dominio.
+3. Actualiza las URLs en el código base (cuando corresponda).
+4. Verifica integraciones externas (gateways, antifraude, webhooks, APIs, etc.).
+
+> ⚠️ Continúa con el siguiente paso después de confirmar que el nuevo dominio es totalmente funcional y estable.
+
+## 4. Eliminar el dominio antiguo
+
+Después de validar que el nuevo dominio es completamente funcional, remueve el dominio antiguo:
+
+1. En la barra superior del Admin VTEX, haz clic en el avatar de tu perfil, marcado con la inicial de tu email.
+2. Haz clic en el botón **Configuración de la cuenta**.
+3. Haz clic en **Cuenta**.
+4. Haz clic en la pestaña **Tiendas**.
+5. En la fila de la tienda donde deseas eliminar el host, haz clic en el menú de acciones ⁝ y luego en `Editar`.
+6. En la fila del host antiguo, haz clic en el menú de tres puntos ⁝ y luego en `Eliminar`.
+
+Pueden mantenerse ambos dominios (el antiguo y el nuevo) funcionando simultáneamente durante el periodo de transición, pero es importante tomar precauciones para evitar problemas como:
+
+- Confusión del cliente sobre cuál es el dominio oficial, lo que puede afectar negativamente a la confianza y las ventas.
+- Impacto negativo en SEO, ya que los buscadores pueden interpretar que los dominios compiten entre sí.
+
+## 5. Configurar redirección
 
 Sigue las instrucciones a continuación para garantizar que todos los accesos al antiguo dominio se redirijan al nuevo:
 
-* Configura una redirección HTTP 302, que indicará a los navegadores que reenvíen los request al nuevo dominio.  
-* Recomendamos el uso de herramientas como [redirhub.com](https://www.redirhub.com/es/free-redirect-service) y [redirect.center](https://redirect.center) para crear la redirección.  
-* En el panel DNS, evita utilizar CNAME para la redirección, ya que esta configuración no garantiza una redirección correcta.
+- Configura una redirección HTTP 302, que indicará a los navegadores que deben redirigir los requests al nuevo dominio.
+- Recomendamos el uso de herramientas como [direcionar.com.br](https://direcionar.com.br) y [redirect.center](https://redirect.center) para crear la redirección.
+- En el panel DNS, evita utilizar CNAME para la redirección, ya que esta configuración no garantiza una redirección correcta.
 
 > ⚠️ Es habitual que las primeras visitas al nuevo dominio sean más lentas de lo esperado, debido al proceso inicial de creación de la caché. Este impacto es temporal y se normaliza con el tiempo.

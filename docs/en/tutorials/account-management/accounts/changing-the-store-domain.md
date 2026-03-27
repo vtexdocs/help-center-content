@@ -15,7 +15,7 @@ locale: en
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 ---
 
-Changing the [domain](docs/tutorials/change-the-store-domain) of a store after go-live requires careful attention to minimize SEO issues, avoid downtime, and ensure a seamless transition without impacting customer experience.
+Changing the [domain](https://help.vtex.com/en/docs/tutorials/configuring-the-store-domain) of a store after go-live requires careful attention to minimize SEO issues, avoid downtime, and ensure a seamless transition without impacting customer experience.
 
 > ⚠️ Do not remove or modify the existing domain until the migration is fully complete and validated. This ensures the store remains accessible during the transition and avoids downtime.
 
@@ -41,13 +41,13 @@ To complete the domain migration, you need to follow these steps:
 
 Add the new domain in the License Manager without removing the previous domain:
 
-1. Create the new host in the VTEX Admin by following the instructions in [Registering a new host](/docs/tutorials/configuring-the-store-domain#registering-a-new-host). At this stage, the DNS of the new domain must not yet be pointed to VTEX.
+1. Create the new host in the VTEX Admin by following the instructions in [Registering a new host](https://help.vtex.com/en/docs/tutorials/configuring-the-store-domain#registering-a-new-host). At this stage, the DNS of the new domain must not yet be pointed to VTEX.
 
-2. In the VTEX Admin, check the Checkout settings in **Store Settings > Storefront > Checkout**, as described in [Configure template in SmartCheckout](/docs/tutorials/configure-template-in-smartcheckout-update).
+2. In the VTEX Admin, check the Checkout settings in **Store Settings > Storefront > Checkout**, as described in [Configure template in SmartCheckout](https://help.vtex.com/en/docs/tutorials/configure-template-in-smartcheckout-update).
 
    This step is crucial to ensure Checkout keeps working after the change.
 
-   You need to check if the configured sites are related to the account added in **Account settings > Accounts**. See [Account management](/docs/tutorials/account-management) for more details.
+   You need to check if the configured sites are related to the account added in **Account settings > Accounts**. See [Account management](https://help.vtex.com/en/docs/tutorials/account-management) for more details.
 
 > ⚠️ Do not delete the old domain and do not change the DNS yet.
 
@@ -57,11 +57,11 @@ If your store uses [VTEX IO - Store Framework](https://developers.vtex.com/docs/
 
 VTEX will perform the internal migration, ensuring all DNS records and internal settings are correctly propagated.
 
-Learn more about [internal pointing](/tracks/pre-go-live#requesting-io-pointing).
+Learn more about [internal pointing](https://help.vtex.com/en/tracks/pre-go-live#requesting-io-pointing).
 
 Once the ticket is opened, the support team has up to three business days to review the settings and complete the pointing.
 
-After internal pointing is confirmed, complete the DNS pointing to the VTEX CDN. To do this, follow the instructions in the [Go-live your store](/docs/tracks/go-live-process) guide.
+After internal pointing is confirmed, complete the DNS pointing to the VTEX CDN. To do this, follow the instructions in the [Go-live your store](https://help.vtex.com/en/docs/tracks/go-live-process) guide.
 
 ## 3. Update URLs and validate the new domain
 
