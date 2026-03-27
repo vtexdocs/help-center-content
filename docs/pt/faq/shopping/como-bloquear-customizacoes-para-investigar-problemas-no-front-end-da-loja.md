@@ -27,9 +27,9 @@ Para configurar o [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 1. Abra o [Google Chrome](https://www.google.com/intl/pt-BR/chrome/) no seu computador.
 2. Clique no botão `F12` do seu teclado ou clique com o botão direito do mouse em qualquer parte da tela e selecione **Inspecionar**.
 3. Clique nos três pontos verticais na parte superior direita da página, conforme indicado na imagem abaixo.
-4. Selecione **Mais ferramentas** e, em seguida, **Request conditions** para bloquear todas as customizações feitas por meio de CSS, JavaScript e Google Tag Manager. 
+4. Selecione **Mais ferramentas** e, em seguida, **Condições de solicitação** para bloquear todas as customizações feitas por meio de CSS, JavaScript e Google Tag Manager. 
 
-  ![legado-02](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/EDU-11914/docs/pt/faq/shopping/legado-02.png)
+  ![legado-02](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/legado-02.png)
 
 5. Na aba **Condições de solicitação**, clique em `Add rule` para definir o primeiro recurso a ser bloqueado. Para adicionar mais recursos, clique em `+` e, depois de definir, clique em `Adicionar`. Essa configuração precisa ser feita apenas uma vez no seu navegador. Inclua os itens abaixo:
 
@@ -39,12 +39,12 @@ Para configurar o [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
  * `*:/files/*.css`
  * `*://www.googletagmanager.com/gtm.js*`
 
-  ![request-conditions-02](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/EDU-11914/docs/pt/faq/shopping/request-conditions.png)
+  ![request-conditions-02](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/request-conditions-02.png)
 
-6. Marque a opção **Enable blocking and throttling** e habilite todos os checkboxes ao lado de cada recurso configurado. Essa será a configuração padrão, com todas as opções habilitadas para bloqueio.
+6. Marque a opção **Ativar bloqueio e limitação** e habilite todos os checkboxes ao lado de cada recurso configurado. Essa será a configuração padrão, com todas as opções habilitadas para bloqueio.
 7. Agora, atualize a página. Ela será exibida sem os componentes customizados.
 
-Para voltar a visualizar as customizações, desmarque a opção **Enable blocking and throttling** e atualize a página.
+Para voltar a visualizar as customizações, desmarque a opção **Ativar bloqueio e limitação** e atualize a página.
 
 Verifique se o comportamento indesejado que você observou originalmente ocorre apenas com a customização ativa. Se for o caso, entre em contato com o time responsável pelo seu front-end para que verifique o que está ocorrendo.
 
