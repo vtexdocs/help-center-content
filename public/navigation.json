@@ -9364,8 +9364,8 @@
           "children": [
             {
               "name": {
-                "en": "Blocking customizations to troubleshoot front-end issues",
-                "es": "Cómo bloquear personalizaciones para investigar problemas en el front-end de la tienda",
+                "en": "Blocking customizations to troubleshoot frontend issues in the store",
+                "es": "Bloquear personalizaciones para identificar problemas en el frontend de la tienda",
                 "pt": "Como bloquear customizações para investigar problemas no front-end da loja"
               },
               "slug": {
