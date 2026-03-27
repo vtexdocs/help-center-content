@@ -48,13 +48,14 @@ Después de crear una unidad organizativa, se mostrará en la lista de la pantal
 
 1. En la página **Unidades organizativas**, en la fila correspondiente a la unidad organizativa a la que deseas agregar un usuario, haz clic en el ícono de menú <i class="fas fa-ellipsis-v" aria-hidden="true"></i> > `Agregar usuario`.
 2. Completa la información del nuevo usuario:
-   - Nombre
-   - Email
-   - Teléfono (opcional)
-   - Nombre de usuario
+    - Nombre
+    - Email
+    - Teléfono (opcional)
+    - Nombre de usuario
 3. Selecciona los roles que deseas asignar al usuario.
 
-   > ℹ️ Para más información sobre roles en **B2B Buyer Portal**, consulta el artículo [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions).
+    > ℹ️ Para más información sobre roles en **B2B Buyer Portal**, consulta el artículo [Storefront Permissions](https://developers.vtex.com/docs/guides/storefront-permissions).
+
 4. Haz clic en `Agregar`.
 
 ## Agregar unidad organizativa hija (subordinada)
